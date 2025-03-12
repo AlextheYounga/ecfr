@@ -2,7 +2,7 @@
 
 The following are regulated articles:
 
-(a) The South American cactus moth, in any living stage of its development.2/\>
+(a) The South American cactus moth, in any living stage of its development.2
 
 2 Permit and other requirements for the interstate movement of South American cactus moths are contained in part 330 of this chapter.
 

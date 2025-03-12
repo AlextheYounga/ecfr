@@ -1,5 +1,7 @@
 ##### § 64.1310 Payphone compensation procedures. #####
 
+Link to an amendment published at 83 FR 11428, Mar. 15, 2018.
+
 (a) Unless the payphone service provider consents to an alternative compensation arrangement, each Completing Carrier identified in § 64.1300(a) shall compensate the payphone service provider in accordance with paragraphs (a)(1) through (a)(4) of this section. A payphone service provider may not unreasonably withhold its consent to an alternative compensation arrangement.
 
 (1) Each Completing Carrier shall establish a call tracking system that accurately tracks coinless access code or subscriber toll-free payphone calls to completion.

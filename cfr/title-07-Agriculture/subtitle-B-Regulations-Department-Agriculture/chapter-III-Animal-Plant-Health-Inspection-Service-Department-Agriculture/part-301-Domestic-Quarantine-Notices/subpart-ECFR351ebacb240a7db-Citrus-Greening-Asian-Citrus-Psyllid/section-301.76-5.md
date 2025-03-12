@@ -2,7 +2,7 @@
 
 (a) *Certificates.* In addition to all other relevant conditions within this subpart, an inspector or person operating under a compliance agreement will issue a certificate only if a regulated article:
 
-(1) Will be moved in compliance with any additional emergency conditions that the Administrator may impose under section 414 of the Plant Protection Act (7 U.S.C. 7714)2/\> to prevent the spread of Asian citrus psyllid; and
+(1) Will be moved in compliance with any additional emergency conditions that the Administrator may impose under section 414 of the Plant Protection Act (7 U.S.C. 7714)2 to prevent the spread of Asian citrus psyllid; and
 
 2 An inspector may hold seize, quarantine, treat, apply other remedial measures to, destroy, or otherwise dispose of plants, plant pests, or other articles in accordance with sections 414, 421, and 423 of the Plant Protection Act (7 U.S.C. 7714, 7731, and 7754).
 

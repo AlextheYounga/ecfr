@@ -104,7 +104,7 @@
 
 (A) Background data to environmental (workplace) monitoring or measuring, such as laboratory reports and worksheets, need only be retained for one (1) year as long as the sampling results, the collection methodology (sampling plan), a description of the analytical and mathematical methods used, and a summary of other background data relevant to interpretation of the results obtained, are retained for at least thirty (30) years; and
 
-(B) Material safety data sheets and paragraph (c)(5)(iv) records concerning the identity of a substance or agent need not be retained for any specified period as long as some record of the identity (chemical name if known) of the substance or agent, where it was used, and when it was used is retained for at least thirty (30) years;1 and
+(B) Material safety data sheets and paragraph (c)(5)(iv) records concerning the identity of a substance or agent need not be retained for any specified period as long as some record of the identity (chemical name if known) of the substance or agent, where it was used, and when it was used is retained for at least thirty (30) years;/\>1 and
 
 1 Material safety data sheets must be kept for those chemicals currently in use that are effected by the Hazard Communication Standard in accordance with 29 CFR 1910.1200(g).
 

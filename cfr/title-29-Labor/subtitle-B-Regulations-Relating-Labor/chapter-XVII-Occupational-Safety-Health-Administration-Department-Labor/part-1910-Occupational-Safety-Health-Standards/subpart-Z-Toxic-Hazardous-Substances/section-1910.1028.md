@@ -648,30 +648,30 @@ ppm = (mg/m3)(24.46)/(78.11)Where:24.46 = molar volume of an ideal gas25 °C and
 
 The detection limit for the analytical procedure is 1.28 ng with a coefficient of variation of 0.023 at this level. This would be equivalent to an air concentration of 0.04 ppm for a 10 L air sample. This amount provided a chromatographic peak that could be identifiable in the presence of possible interferences. The detection limit data were obtained by making 1 µL injections of a 1.283 µg/mL standard.
 
-|Injection|Area Count|          |
-|---------|----------|----------|
-|    1    |  655.4   |          |
-|    2    |  617.5   |          |
-|    3    |  662.0   |X = 640.2 |
-|    4    |  641.1   |SD = 14.9 |
-|    5    |  636.4   |CV = 0.023|
-|    6    |  629.2   |          |
+|Injection|Area Count|            |
+|---------|----------|------------|
+|    1    |  655.4   |            |
+|    2    |  617.5   |            |
+|    3    |  662.0   |X/\> = 640.2|
+|    4    |  641.1   | SD = 14.9  |
+|    5    |  636.4   | CV = 0.023 |
+|    6    |  629.2   |            |
 
 8.2. Pooled coefficient of variation - Air Samples. The pooled coefficient of variation for the analytical procedure was determined by 1 µL replicate injections of analytical standards. The standards were 16.04, 32.08, and 64.16 µg/mL, which are equivalent to 0.5, 1.0, and 2.0 ppm for a 10 L air sample respectively.
 
-|Injection |Area Counts|       |       |
-|----------|-----------|-------|-------|
-| 0.5 ppm  |  1.0 ppm  |2.0 ppm|       |
-|    1     |  3996.5   |8130.2 | 16481 |
-|    2     |  4059.4   |8235.6 | 16493 |
-|    3     |  4052.0   |8307.9 | 16535 |
-|    4     |  4027.2   |8263.2 | 16609 |
-|    5     |  4046.8   |8291.1 | 16552 |
-|    6     |  4137.9   |8288.8 | 16618 |
-|    X=    |  4053.3   |8254.0 |16548.3|
-|   SD=    |   47.2    | 62.5  | 57.1  |
-|   CV =   |  0.0116   |0.0076 |0.0034 |
-|CV = 0.008|           |       |       |
+|   Injection    |Area Counts|       |       |
+|----------------|-----------|-------|-------|
+|    0.5 ppm     |  1.0 ppm  |2.0 ppm|       |
+|       1        |  3996.5   |8130.2 | 16481 |
+|       2        |  4059.4   |8235.6 | 16493 |
+|       3        |  4052.0   |8307.9 | 16535 |
+|       4        |  4027.2   |8263.2 | 16609 |
+|       5        |  4046.8   |8291.1 | 16552 |
+|       6        |  4137.9   |8288.8 | 16618 |
+|     X/\>=      |  4053.3   |8254.0 |16548.3|
+|      SD=       |   47.2    | 62.5  | 57.1  |
+|      CV =      |  0.0116   |0.0076 |0.0034 |
+|C/\>V/\> = 0.008|           |       |       |
 
 8.3. Storage data - Air Samples
 
@@ -695,18 +695,18 @@ Samples were prepared by injecting liquid benzene onto the A section of charcoal
 
 Percent Recovery
 
-| Sample |0.5 ppm|1.0 ppm|2.0 ppm|
-|--------|-------|-------|-------|
-|   1    | 99.4  | 98.8  | 99.5  |
-|   2    | 99.5  | 98.7  | 99.7  |
-|   3    | 99.2  | 98.6  | 99.8  |
-|   4    | 99.4  | 99.1  | 100.0 |
-|   5    | 99.2  | 99.0  | 99.7  |
-|   6    | 99.8  | 99.1  | 99.9  |
-|   X=   | 99.4  | 98.9  | 99.8  |
-|  SD=   | 0.22  | 0.21  | 0.18  |
-|  CV =  |0.0022 |0.0021 |0.0018 |
-|X = 99.4|       |       |       |
+|  Sample   |0.5 ppm|1.0 ppm|2.0 ppm|
+|-----------|-------|-------|-------|
+|     1     | 99.4  | 98.8  | 99.5  |
+|     2     | 99.5  | 98.7  | 99.7  |
+|     3     | 99.2  | 98.6  | 99.8  |
+|     4     | 99.4  | 99.1  | 100.0 |
+|     5     | 99.2  | 99.0  | 99.7  |
+|     6     | 99.8  | 99.1  | 99.9  |
+|   X/\>=   | 99.4  | 98.9  | 99.8  |
+|    SD=    | 0.22  | 0.21  | 0.18  |
+|   CV =    |0.0022 |0.0021 |0.0018 |
+|X/\> = 99.4|       |       |       |
 
 8.5. Carbon disulfide.
 
@@ -808,13 +808,13 @@ Since the integrator is programmed to report results in % benzene by volume in a
 
 The detection limit for the analytical procedure for bulk samples is 0.88 µg, with a coefficient of variation of 0.019 at this level. This amount provided a chromatographic peak that could be identifiable in the presence of possible interferences. The detection limit date were obtained by making 10 µL injections of a 0.10% by volume standard.
 
-|Injection|Area Count|           |
-|---------|----------|-----------|
-|    1    |  45386   |           |
-|    2    |  44214   |           |
-|    3    |  43822   |X = 44040.1|
-|    4    |  44062   |SD = 852.5 |
-|    6    |  42724   |CV = 0.019 |
+|Injection|Area Count|              |
+|---------|----------|--------------|
+|    1    |  45386   |              |
+|    2    |  44214   |              |
+|    3    |  43822   |X/\> = 44040.1|
+|    4    |  44062   |  SD = 852.5  |
+|    6    |  42724   |  CV = 0.019  |
 
 8.2. Pooled coefficient of variation - Bulk Samples.
 
@@ -830,9 +830,9 @@ Area count (Percent)
 |      4      | 44062 | 84381 |164445|444842|4642350|9677060|
 |      5      | 44006 | 83012 |168398|442564|4646430|9766240|
 |      6      | 42724 | 81957 |173002|443975|4646260|       |
-|     X =     |44040.1|83703.6|167872|444149|4585767|9564986|
+|   X/\> =    |44040.1|83703.6|167872|444149|4585767|9564986|
 |    SD =     | 852.5 |1042.2 |3589.8|2459.1|96839.3|166233 |
 |    CV =     |0.0194 |0.0125 |0.0213|0.0055|0.0211 |0.0174 |
-|    CV =     | 0.017 |       |      |      |       |       |
+| C/\>V/\> =  | 0.017 |       |      |      |       |       |
 
 [52 FR 34562, Sept. 11, 1987, as amended at 54 FR 24334, June 7, 1989; 61 FR 5508, Feb. 13, 1996; 63 FR 1289, Jan. 8, 1998; 63 FR 20099, Apr. 23, 1998; 70 FR 1142, Jan. 5, 2005; 71 FR 16673, Apr. 3, 2006; 71 FR 50189, Aug. 24, 2006; 73 FR 75585, Dec. 12, 2008; 76 FR 33608, June 8, 2011; 77 FR 17781, Mar. 26, 2012]

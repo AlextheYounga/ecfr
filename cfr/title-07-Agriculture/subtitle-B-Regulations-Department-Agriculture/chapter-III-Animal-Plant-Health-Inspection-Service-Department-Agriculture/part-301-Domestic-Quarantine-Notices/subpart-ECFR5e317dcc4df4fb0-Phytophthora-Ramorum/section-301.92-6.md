@@ -1,6 +1,6 @@
 ##### § 301.92-6 Compliance agreements and cancellation. #####
 
-(a) Any person engaged in growing, processing, handling, or moving regulated articles, associated articles, or non-host nursery stock may enter into a compliance agreement when an inspector determines that the person understands this subpart, agrees to comply with its provisions, and agrees to comply with all the provisions contained in the compliance agreement.15/\>
+(a) Any person engaged in growing, processing, handling, or moving regulated articles, associated articles, or non-host nursery stock may enter into a compliance agreement when an inspector determines that the person understands this subpart, agrees to comply with its provisions, and agrees to comply with all the provisions contained in the compliance agreement.15
 
 15 Compliance agreement forms are available without charge from the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Invasive Species and Pest Management, 4700 River Road Unit 160, Riverdale, MD 20737-1236, and from local offices of the Plant Protection and Quarantine, which are listed in telephone directories. Forms are also available on the Internet at *http://www.aphis.usda.gov/ppq/ispm/pramorum/resources.html.*
 

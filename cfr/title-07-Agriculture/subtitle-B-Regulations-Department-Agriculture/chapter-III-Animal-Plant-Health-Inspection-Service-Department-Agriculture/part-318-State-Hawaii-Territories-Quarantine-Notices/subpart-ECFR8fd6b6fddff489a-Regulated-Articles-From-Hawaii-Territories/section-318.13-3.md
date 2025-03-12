@@ -16,7 +16,7 @@ All regulated articles that are allowed movement under this subpart must be move
 
 (ii) Regulated articles certified after treatment in accordance with part 305 of this chapter that are taken aboard any ship, vessel, other surface craft, or aircraft must be segregated and protected in a manner as required by the inspector.
 
-(c) *Limited permits.* (1) Limited permits1/\> may be issued by an inspector for the movement of certain noncertified regulated articles to restricted destinations.
+(c) *Limited permits.* (1) Limited permits1 may be issued by an inspector for the movement of certain noncertified regulated articles to restricted destinations.
 
 1 Limited permits can be obtained from each State or territory's local Plant Protection and Quarantine office.
 

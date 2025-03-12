@@ -1,6 +1,6 @@
 ##### § 319.56-28 Tomatoes from certain countries. #####
 
-(a) *Tomatoes (fruit) (Solanum lycopersicum) from Spain.* Pink or red tomatoes may be imported into the United States from Spain only in accordance with this section and all other applicable provisions of this subpart.5/\>
+(a) *Tomatoes (fruit) (Solanum lycopersicum) from Spain.* Pink or red tomatoes may be imported into the United States from Spain only in accordance with this section and all other applicable provisions of this subpart.5
 
 5 The surface area of a pink tomato is more than 30 percent but not more than 60 percent pink and/or red. The surface area of a red tomato is more than 60 percent pink and/or red. Green tomatoes from Spain, France, Morocco, and Western Sahara may be imported in accordance with §§ 319.56-3 and 319.56-4.
 
@@ -18,7 +18,7 @@
 
 (7) MAFF is responsible for export certification inspection and issuance of phytosanitary certificates. Each consignment of tomatoes must be accompanied by a phytosanitary certificate issued by MAFF and bearing the declaration, “These tomatoes were grown in registered greenhouses in Almeria Province, the Murcia Province, or the municipalities of Albuñol and Carchuna in the Granada Province in Spain.”
 
-(b) *Tomatoes (fruit) (Solanum lycopersicum) from France.* Pink or red tomatoes may be imported into the United States from France only in accordance with this section and other applicable provisions of this subpart.6/\>
+(b) *Tomatoes (fruit) (Solanum lycopersicum) from France.* Pink or red tomatoes may be imported into the United States from France only in accordance with this section and other applicable provisions of this subpart.6
 
 6 See footnote 5 to paragraph (a) of this section.
 
@@ -34,7 +34,7 @@
 
 (6) SRPV is responsible for export certification inspection and issuance of phytosanitary certificates. Each consignment of tomatoes must be accompanied by a phytosanitary certificate issued by SRPV and bearing the declaration, “These tomatoes were grown in registered greenhouses in the Brittany Region of France.”
 
-(c) *Tomatoes (fruit) (Solanum lycopersicum) from the provinces of El Jadida or Safi in Morocco and the province of Dahkla in Western Sahara.* Pink tomatoes may be imported into the United States from the provinces of El Jadida or Safi in Morocco and the province of Dahkla in Western Sahara only in accordance with this section and other applicable provisions of this subpart.7/\>
+(c) *Tomatoes (fruit) (Solanum lycopersicum) from the provinces of El Jadida or Safi in Morocco and the province of Dahkla in Western Sahara.* Pink tomatoes may be imported into the United States from the provinces of El Jadida or Safi in Morocco and the province of Dahkla in Western Sahara only in accordance with this section and other applicable provisions of this subpart.7
 
 7 See footnote 5 to paragraph (a) of this section.
 
@@ -150,7 +150,7 @@
 
 (vii) The exporting country's NPPO is responsible for export certification, inspection, and issuance of phytosanitary certificates. Each consignment of tomatoes must be accompanied by a phytosanitary certificate issued by the NPPO and bearing the declaration, “These tomatoes were grown in an approved production site and the consignment has been inspected and found free of the pests listed in the requirements.” The shipping box must be labeled with the identity of the production site.
 
-(g) *Tomatoes (fruit) (Solanum lycopersicum) from the Souss-Massa-Draa region of Morocco.* Pink tomatoes may be imported into the United States from the region of Souss-Massa-Draa in Morocco only in accordance with this section and other applicable provisions of this subpart.8/\>
+(g) *Tomatoes (fruit) (Solanum lycopersicum) from the Souss-Massa-Draa region of Morocco.* Pink tomatoes may be imported into the United States from the region of Souss-Massa-Draa in Morocco only in accordance with this section and other applicable provisions of this subpart.8
 
 8 See footnote 5 to paragraph (a) of this section.
 

@@ -1,4 +1,4 @@
-##### § 340.3 Notification for the introduction of certain regulated articles.5/\> #####
+##### § 340.3 Notification for the introduction of certain regulated articles.5 #####
 
 5 APHIS may issue guidelines regarding scientific procedures, practices, or protocols which it has found acceptable in making various determinations under the regulations. A person may follow an APHIS guideline or follow different procedures, practices, or protocols. When different procedures, practices, or protocols are followed, a person may, but is not required to, discuss the matter in advance with APHIS to help ensure that the procedures, practices, or protocols to be followed will be acceptable to APHIS.
 

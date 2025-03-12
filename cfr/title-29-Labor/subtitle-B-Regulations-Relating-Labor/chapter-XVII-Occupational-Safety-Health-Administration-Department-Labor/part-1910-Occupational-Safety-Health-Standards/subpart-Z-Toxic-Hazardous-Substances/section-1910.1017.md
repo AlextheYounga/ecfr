@@ -222,6 +222,8 @@ CANCER-SUSPECT AGENT
 
 (iii) Medical records shall be maintained for the duration of the employment of each employee plus 20 years, or 30 years, whichever is longer.
 
+(n) The employer must, within 15 working days after the receipt of the results of any monitoring performed under this section, notify each affected employee of these results and the steps being taken to reduce exposures within the permissible exposure limit either individually in writing or by posting the results in an appropriate location that is accessible to affected employees.
+
 Appendix A to § 1910.1017 - Supplementary Medical Information
 
 When required tests under paragraph (k)(1) of this section show abnormalities, the tests should be repeated as soon as practicable, preferably within 3 to 4 weeks. If tests remain abnormal, consideration should be given to withdrawal of the employee from contact with vinyl chloride, while a more comprehensive examination is made.
@@ -236,4 +238,4 @@ C. Additional serum tests: Lactic acid dehydrogenase, lactic acid dehydrogenase 
 
 D. For a more comprehensive examination on repeated abnormal serum tests: Hepatitis B antigen, and liver scanning.
 
-[39 FR 35896, Oct. 4, 1974. Redesignated at 40 FR 23072, May 28, 1975]Editorial Note:For Federal Register citations affecting § 1910.1017, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[39 FR 35896, Oct. 4, 1974. Redesignated at 40 FR 23072, May 28, 1975]Editorial Note:For Federal Register citations affecting § 1910.1017, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

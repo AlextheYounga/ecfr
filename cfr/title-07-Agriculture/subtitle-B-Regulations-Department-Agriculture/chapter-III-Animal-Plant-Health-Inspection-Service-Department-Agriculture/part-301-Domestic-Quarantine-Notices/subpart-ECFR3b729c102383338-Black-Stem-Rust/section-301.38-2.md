@@ -1,6 +1,6 @@
 ##### § 301.38-2 Regulated articles. #####
 
-(a) The following are regulated articles:3/\>
+(a) The following are regulated articles:3
 
 3 Permit and other requirements for the insterstate movement of black stem rust organisms are contained in part 330 of this chapter.
 

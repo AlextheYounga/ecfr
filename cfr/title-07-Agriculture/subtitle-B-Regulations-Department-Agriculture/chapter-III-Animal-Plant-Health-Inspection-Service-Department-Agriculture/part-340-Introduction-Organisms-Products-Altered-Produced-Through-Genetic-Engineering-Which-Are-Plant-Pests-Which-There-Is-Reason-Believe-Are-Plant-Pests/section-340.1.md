@@ -32,7 +32,7 @@ Terms used in the singular form in this part shall be construed as the plural, a
 
 *Person.* Any individual, partnership, corporation, company, society, association, or other organized group.
 
-*Plant.* Any living stage or form of any member of the plant kingdom3/\> including, but not limited to, eukaryotic algae, mosses, club mosses, ferns, angiosperms, gymnosperms, and lichens (which contain algae) including any parts (e.g. pollen, seeds, cells, tubers, stems) thereof, and any cellular components (e.g. plasmids, ribosomes, etc.) thereof.
+*Plant.* Any living stage or form of any member of the plant kingdom3 including, but not limited to, eukaryotic algae, mosses, club mosses, ferns, angiosperms, gymnosperms, and lichens (which contain algae) including any parts (e.g. pollen, seeds, cells, tubers, stems) thereof, and any cellular components (e.g. plasmids, ribosomes, etc.) thereof.
 
 3 The taxonomic scheme for the plant kingdom is that found in Synopsis and Classification of Living Organisms by S.P. Parker, McGraw Hill (1984).
 

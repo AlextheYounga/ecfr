@@ -1,6 +1,6 @@
 ##### § 301.32 Restrictions on interstate movement of regulated articles. #####
 
-(a) No person may move interstate from any quarantined area any regulated article except in accordance with this subpart.1/\>
+(a) No person may move interstate from any quarantined area any regulated article except in accordance with this subpart.1
 
 1 Permit and other requirements for the interstate movement of any of the fruit flies regulated under this subpart are contained in part 330 of this chapter.
 

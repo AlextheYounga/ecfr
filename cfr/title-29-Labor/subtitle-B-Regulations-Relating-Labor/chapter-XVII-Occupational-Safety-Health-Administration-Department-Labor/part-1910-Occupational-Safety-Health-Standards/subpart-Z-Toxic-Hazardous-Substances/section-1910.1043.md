@@ -562,12 +562,12 @@ Next we compute the arithmetic mean and standard deviations of the differences, 
 
 where N equals the number of differences (100 in this case), XD is the arithmetic mean and SD is the standard deviation.
 
-We next calculate the critical value as T = KSD + |XD| where K = 1.87, based on 100 samples.
+We next calculate the critical value as T = KSD + |X/\>D| where K = 1.87, based on 100 samples.
 
 d. *Equivalency test.* The next step is to obtain the average of the 100 VE readings. This is obtained by equation (4)
 
 ![](/graphics/ec28oc91.039.gif)
 
-We next multiply 0.25 by XVE. If T ≤0.25 XVE, we can say that the alternate device has passed the equivalency test.
+We next multiply 0.25 by X/\>VE. If T ≤0.25 X/\>VE, we can say that the alternate device has passed the equivalency test.
 
 [43 FR 27394, June 23, 1978; 43 FR 35035, Aug. 8, 1978, as amended at 45 FR 67340, Oct. 10, 1980; 50 FR 51173, Dec. 13, 1985; 51 FR 24325, July 3, 1986; 54 FR 24334, June 7, 1989; 61 FR 5508, Feb. 13, 1996; 63 FR 1290, Jan. 8, 1998; 65 FR 76567, Dec. 7, 2000; 70 FR 1142, Jan. 5, 2005; 71 FR 16672, 16673, Apr. 3, 2006; 71 FR 50189, Aug. 24, 2006; 73 FR 75586, Dec. 12, 2008; 76 FR 33609, June 8, 2011; 77 FR 17782, Mar. 26, 2012]

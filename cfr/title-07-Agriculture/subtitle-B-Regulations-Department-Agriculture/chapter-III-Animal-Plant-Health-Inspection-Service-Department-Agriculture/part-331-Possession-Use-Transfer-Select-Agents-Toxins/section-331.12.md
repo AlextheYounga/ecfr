@@ -1,6 +1,6 @@
 ##### § 331.12 Biocontainment. #####
 
-(a) An individual or entity required to register under this part must develop and implement a written biocontainment plan that is commensurate with the risk of the select agent or toxin, given its intended use.4/\> The biocontainment plan must contain sufficient information and documentation to describe the biocontainment procedures for the select agent or toxin, including any animals (including arthropods) or plants intentionally or accidentally exposed to or infected with a select agent. The current biocontainment plan must be submitted for initial registration, renewal of registration, or when requested. The biocontainment plan must include the following provisions:
+(a) An individual or entity required to register under this part must develop and implement a written biocontainment plan that is commensurate with the risk of the select agent or toxin, given its intended use.4 The biocontainment plan must contain sufficient information and documentation to describe the biocontainment procedures for the select agent or toxin, including any animals (including arthropods) or plants intentionally or accidentally exposed to or infected with a select agent. The current biocontainment plan must be submitted for initial registration, renewal of registration, or when requested. The biocontainment plan must include the following provisions:
 
 4 Technical assistance and guidance may be obtained by contacting APHIS.
 

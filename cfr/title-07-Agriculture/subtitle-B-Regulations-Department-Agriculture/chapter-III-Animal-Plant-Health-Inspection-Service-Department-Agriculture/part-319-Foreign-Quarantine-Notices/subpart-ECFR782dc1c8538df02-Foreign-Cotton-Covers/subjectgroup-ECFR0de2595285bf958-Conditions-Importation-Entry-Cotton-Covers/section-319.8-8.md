@@ -30,7 +30,7 @@
 
 (iv) Uncompressed lint, linters, and waste arriving at a port in the State of California where there are no approved fumigation facilities may be entered for immediate transportation in bond by an all-water route to any port in California or any northern port where approved fumigation facilities are available, there to receive the required vacuum fumigation before release, or to a northern port for movement to an approved mill or plant for utilization.
 
-(2) Entry without vacuum fumigation will be authorized for compressed lint, linters, and waste, and for uncompressed waste derived from cotton milled in countries that do not produce cotton,2/\> arriving at a northern port, subject to movement to an approved mill or plant.
+(2) Entry without vacuum fumigation will be authorized for compressed lint, linters, and waste, and for uncompressed waste derived from cotton milled in countries that do not produce cotton,2 arriving at a northern port, subject to movement to an approved mill or plant.
 
 2 For the purposes of this subpart the following countries are considered to be those in which cotton is not produced: Austria, Belgium, Canada, Denmark, Republic of Ireland (Eire), Finland, France, Germany (both East and West), Great Britain and Northern Ireland (United Kingdom), Iceland, Liechtenstein, Luxembourg, Netherlands, Norway, Portugal, Sweden, and Switzerland.
 

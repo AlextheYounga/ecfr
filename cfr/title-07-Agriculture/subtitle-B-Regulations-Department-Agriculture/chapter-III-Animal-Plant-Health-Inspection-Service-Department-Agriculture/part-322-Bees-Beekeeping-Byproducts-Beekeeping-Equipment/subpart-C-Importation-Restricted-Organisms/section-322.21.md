@@ -1,6 +1,6 @@
 ##### § 322.21 Post-entry handling. #####
 
-(a) Immediately following clearance at the port of entry, a restricted organism must move by a bonded commercial carrier directly to a containment facility or apiary that has been inspected and approved by APHIS.6/\> We must inspect and approve the containment facility or apiary before we will issue a permit to import a restricted organism.
+(a) Immediately following clearance at the port of entry, a restricted organism must move by a bonded commercial carrier directly to a containment facility or apiary that has been inspected and approved by APHIS.6 We must inspect and approve the containment facility or apiary before we will issue a permit to import a restricted organism.
 
 6 For a list of approved facilities, or to arrange to have a facility inspected by APHIS, contact Permit Unit, PPQ, APHIS, 4700 River Road Unit 133, Riverdale, MD 20737-1236; toll-free (877) 770-5990.
 

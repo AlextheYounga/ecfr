@@ -717,7 +717,7 @@ The detection limit of the overall procedure was 0.60 µg per sample (90 ppb or 
 
 The reliable quantitation limit was 1.03 µg per sample (155 ppb or 343 µg/m3). This was the smallest amount of analyte which could be quantitated within the limits of a recovery of at least 75% and a precision (±1.96 SD) of ±25% or better.
 
-1.2.4. Sensitivity1
+1.2.4. Sensitivity1/\>
 
 1 The reliable quantitation limit and detection limits reported in the method are based upon optimization of the instrument for the smallest possible amount of analyte. When the target concentration of an analyte is exceptionally higher than these limits, they may not be attainable at the routine operation parameters.
 
@@ -791,11 +791,11 @@ There are no known interferences to the sampling method.
 
 3. Analytical procedure3.1. Apparatus
 
-*3.1.1.* A gas chromatograph (GC), equipped with a flame ionization detector (FID).2
+*3.1.1.* A gas chromatograph (GC), equipped with a flame ionization detector (FID).2/\>
 
 2 A Hewlett-Packard Model 5840A GC was used for this evaluation. Injections were performed using a Hewlett-Packard Model 7671A automatic sampler.
 
-*3.1.2.* A GC column capable of resolving the analytes from any interference.3
+*3.1.2.* A GC column capable of resolving the analytes from any interference.3/\>
 
 3 A 20-ft ×1/8-inch OD stainless steel GC column containing 20% FFAP on 80/100 mesh Chromabsorb W-AW-DMCS was used for this evaluation.
 
@@ -805,7 +805,7 @@ There are no known interferences to the sampling method.
 
 3.2. Reagents
 
-*3.2.1.* Carbon disulfide.4
+*3.2.1.* Carbon disulfide.4/\>
 
 4 Fisher Scientific Company A.C.S. Reagent Grade solvent was used in this evaluation.
 
@@ -813,13 +813,13 @@ The benzene contaminant that was present in the carbon disulfide was used as an 
 
 *3.2.2.* Nitrogen, hydrogen and air, GC grade.
 
-*3.2.3.* BD of known high purity.5
+*3.2.3.* BD of known high purity.5/\>
 
 5 Matheson Gas Products, CP Grade 1,3-butadiene was used in this study.
 
 3.3. Standard preparation
 
-*3.3.1.* Prepare standards by diluting known volumes of BD gas with carbon disulfide. This can be accomplished by injecting the appropriate volume of BD into the headspace above the 1-mL of carbon disulfide contained in sealed 2-mL vial. Shake the vial after the needle is removed from the septum.6
+*3.3.1.* Prepare standards by diluting known volumes of BD gas with carbon disulfide. This can be accomplished by injecting the appropriate volume of BD into the headspace above the 1-mL of carbon disulfide contained in sealed 2-mL vial. Shake the vial after the needle is removed from the septum.6/\>
 
 6 A standard containing 7.71 µg/mL (at ambient temperature and pressure) was prepared by diluting 4 µL of the gas with 1-mL of carbon disulfide.
 
@@ -895,7 +895,7 @@ ppm = (mg/m3)(24.46)/54.09Where:mg/m3 = result from Section 3.7.3.24.46 = molar 
 
 *4.1.1.1.* Magnetic stirrer and stir bar.
 
-*4.1.1.2.* Tube furnace capable of maintaining a temperature of 700 °C and equipped with a quartz tube that can hold 30 g of charcoal.8
+*4.1.1.2.* Tube furnace capable of maintaining a temperature of 700 °C and equipped with a quartz tube that can hold 30 g of charcoal.8/\>
 
 8 A Lindberg Type 55035 Tube furnace was used in this evaluation.
 
@@ -907,15 +907,15 @@ ppm = (mg/m3)(24.46)/54.09Where:mg/m3 = result from Section 3.7.3.24.46 = molar 
 
 4.1.2. Reagents
 
-*4.1.2.1.* Phosphoric acid, 10% by weight, in water.9
+*4.1.2.1.* Phosphoric acid, 10% by weight, in water.9/\>
 
 9 Baker Analyzed” Reagent grade was diluted with water for use in this evaluation.
 
-*4.1.2.2.* 4-tert-Butylcatechol (TBC).10
+*4.1.2.2.* 4-tert-Butylcatechol (TBC).10/\>
 
 10 The Aldrich Chemical Company 99% grade was used in this evaluation.
 
-*4.1.2.3.* Specially cleaned coconut shell charcoal, 20/40 mesh.11
+*4.1.2.3.* Specially cleaned coconut shell charcoal, 20/40 mesh.11/\>
 
 11 Specially cleaned charcoal was obtained from Supelco, Inc. for use in this evaluation. The cleaning process used by Supelco is proprietary.
 

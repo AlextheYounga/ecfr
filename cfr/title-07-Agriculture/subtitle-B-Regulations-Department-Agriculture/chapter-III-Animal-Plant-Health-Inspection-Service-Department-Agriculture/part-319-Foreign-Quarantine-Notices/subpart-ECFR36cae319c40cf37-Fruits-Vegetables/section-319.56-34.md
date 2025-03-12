@@ -36,7 +36,7 @@ Clementines (*Citrus reticulata*) from Spain may only be imported into the Unite
 
 (2) *Treated fruit.* For treated fruit, the term means one or more lots of clementines that are imported into the United States on the same conveyance.
 
-*Lot.* For the purposes of this section, a number of units of clementines that are from a common origin (*i.e.*, a single producer or a homogenous production unit.)9/\>
+*Lot.* For the purposes of this section, a number of units of clementines that are from a common origin (*i.e.*, a single producer or a homogenous production unit.)9
 
 9 A homogeneous production unit is a group of adjacent orchards in Spain that are owned by one or more growers who follow a homogenous production system under the same technical guidance.
 

@@ -64,7 +64,7 @@
 
 (3) Prepayment.
 
-(i) The owner or operator of a commercial truck, *if* entering the customs territory of the United States *and* applying for a prepaid Customs permit for a calendar year, must apply for a prepaid AQI permit for the same calendar year. Applicants must apply to Customs for prepaid AQI permits.1/\> The following information must be provided, together with payment of an amount 40 times the AQI user fee for each arrival:
+(i) The owner or operator of a commercial truck, *if* entering the customs territory of the United States *and* applying for a prepaid Customs permit for a calendar year, must apply for a prepaid AQI permit for the same calendar year. Applicants must apply to Customs for prepaid AQI permits.1 The following information must be provided, together with payment of an amount 40 times the AQI user fee for each arrival:
 
 1 Applicants should refer to Customs and Border Protection regulations (19 CFR part 24) for specific instructions.
 
@@ -286,7 +286,7 @@
 
 (A) Estimate the annual number of certificates to be issued;
 
-(B) Determine the total cost of issuing certificates by adding togetherdelivery,2/\> support,3/\> and administrative4/\> costs; and
+(B) Determine the total cost of issuing certificates by adding togetherdelivery,2 support,3 and administrative4 costs; and
 
 2 Delivery costs are costs such as employee salary and benefits, transportation, per diem, travel, purchase of specialized equipment, and user fee costs associated with maintaining field offices. Delivery hours are similar hours taken by inspectors, including travel time, inspection time, and time taken to complete paperwork.
 

@@ -10,7 +10,7 @@ Sweetpotatoes may be moved interstate from Hawaii in accordance with this sectio
 
 (4)(i) Sweetpotatoes that are treated in Hawaii must be packaged in the following manner:
 
-(A) The cartons must have no openings that will allow the entry of the pests of concern and must be sealed with seals that will visually indicate if the cartons have been opened. They may be constructed of any material that prevents the entry of the pests of concern.5/\>
+(A) The cartons must have no openings that will allow the entry of the pests of concern and must be sealed with seals that will visually indicate if the cartons have been opened. They may be constructed of any material that prevents the entry of the pests of concern.5
 
 5 If there is a question as to the adequacy of a carton, send a request for approval of the carton, together with a sample carton, to the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Center for Plant Health Science and Technology, 1730 Varsity Drive, Suite 400, Raleigh, NC 27606.
 

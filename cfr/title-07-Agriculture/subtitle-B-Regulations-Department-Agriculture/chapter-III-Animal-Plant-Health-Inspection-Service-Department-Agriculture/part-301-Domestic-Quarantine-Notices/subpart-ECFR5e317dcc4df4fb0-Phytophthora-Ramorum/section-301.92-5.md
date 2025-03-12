@@ -1,6 +1,6 @@
 ##### § 301.92-5 Issuance and cancellation of certificates. #####
 
-(a) *Movements from quarantined areas.* (1) An inspector8/\> may issue a certificate for the interstate movement of regulated articles, associated articles, or non-host nursery stock9/\> from a quarantined area if the inspector determines that:
+(a) *Movements from quarantined areas.* (1) An inspector8 may issue a certificate for the interstate movement of regulated articles, associated articles, or non-host nursery stock9 from a quarantined area if the inspector determines that:
 
 8 Services of an inspector may be requested by contacting local offices of Plant Protection and Quarantine, which are listed in telephone directories. The addresses and telephone numbers of local offices may also be obtained from the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Invasive Species and Pest Management, 4700 River Road Unit 160, Riverdale, MD 20737, or the APHIS Web site at *http://www.aphis.usda.gov/ppq/sphd/.*
 
@@ -8,7 +8,7 @@
 
 (i) The regulated articles have been treated under the direction of an inspector in accordance with part 305 of this chapter; or
 
-(ii) The regulated articles are wood products such as firewood, logs, or lumber that are free of bark;10/\> or
+(ii) The regulated articles are wood products such as firewood, logs, or lumber that are free of bark;10 or
 
 10 Firewood, logs, lumber of species listed in 301.92-2(d) and marked with an asterisk are not regulated articles, as noted in § 301.92-2(b)(1).
 
@@ -24,7 +24,7 @@
 
 (D) Have not been grown in, or moved from, other areas within a quarantined area except nurseries that are annually inspected for *Phytophthora ramorum* in accordance with § 301.92-11 and that have been found free of evidence of *Phytophthora ramorum* infestation, *except that* certified nurseries which receive articles from a non-certified nursery in a quarantined or regulated area may continue to ship other plants interstate, provided that the uncertified plants are safeguarded, segregated, and withheld from interstate movement until the plants are inspected and tested and found free of evidence of *Phytophthora ramorum.*
 
-(v) The regulated or associated article or non-host nursery stock is to be moved in compliance with any additional emergency conditions the Administrator may impose under section 414 of the Plant Protection Act (7 U.S.C. 7714)11/\> to prevent the spread of *Phytophthora ramorum*; and
+(v) The regulated or associated article or non-host nursery stock is to be moved in compliance with any additional emergency conditions the Administrator may impose under section 414 of the Plant Protection Act (7 U.S.C. 7714)11 to prevent the spread of *Phytophthora ramorum*; and
 
 11 Sections 414, 421, and 434 of the Plant Protection Act (7 U.S.C. 7714, 7731, and 7754) provide that the Secretary of Agriculture may, under certain conditions, hold, seize, quarantine, treat, apply other remedial measures to destroy or otherwise dispose of any plant, plant pest, plant product, article, or means of conveyance that is moving, or has moved into or through the United States or interstate if the Secretary has reason to believe the article is a plant pest or is infested with a plant pest at the time of movement.
 
@@ -32,7 +32,7 @@
 
 (2) [Reserved]
 
-(b) *Movements from regulated areas.* (1) An inspector12/\> may issue a certificate for the interstate movement of regulated articles of nursery stock, associated articles, or non-host nursery stock13/\> from a nursery in a regulated area if an inspector determines that:
+(b) *Movements from regulated areas.* (1) An inspector12 may issue a certificate for the interstate movement of regulated articles of nursery stock, associated articles, or non-host nursery stock13 from a nursery in a regulated area if an inspector determines that:
 
 12 See footnote 7 of this subpart.
 
@@ -42,7 +42,7 @@
 
 (ii) All nursery stock in the nursery have not been grown in, or moved from, nurseries except those that have been inspected for *Phytophthora ramorum* in accordance with § 301.92-11(c) and that have been found free of evidence of *Phytophthora ramorum* infestation, *except that* certified nurseries which receive articles from a non-certified nursery in a quarantined or regulated area may continue to ship other plants interstate, provided that the uncertified plants are safeguarded, segregated, and withheld from interstate movement until the plants are inspected and tested and found free of evidence of *Phytophthora ramorum*; and
 
-(iii) The nursery stock is to be moved in compliance with any additional emergency conditions the Administrator may impose under section 414 of the Plant Protection Act (7 U.S.C. 7714)14/\> to prevent the spread of *Phytophthora ramorum*; and
+(iii) The nursery stock is to be moved in compliance with any additional emergency conditions the Administrator may impose under section 414 of the Plant Protection Act (7 U.S.C. 7714)14 to prevent the spread of *Phytophthora ramorum*; and
 
 14 See footnote 7 of this subpart.
 

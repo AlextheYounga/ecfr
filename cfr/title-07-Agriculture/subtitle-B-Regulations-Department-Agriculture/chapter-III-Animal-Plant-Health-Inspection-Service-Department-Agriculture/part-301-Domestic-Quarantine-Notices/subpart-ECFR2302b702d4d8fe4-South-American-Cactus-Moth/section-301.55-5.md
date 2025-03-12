@@ -1,6 +1,6 @@
 ##### § 301.55-5 Issuance and cancellation of certificates and limited permits. #####
 
-(a) An inspector4/\> may issue a certificate for the interstate movement of a regulated article if the inspector determines that:
+(a) An inspector4 may issue a certificate for the interstate movement of a regulated article if the inspector determines that:
 
 4 Services of an inspector may be requested by contacting local offices of Plant Protection and Quarantine, which are listed in telephone directories.
 

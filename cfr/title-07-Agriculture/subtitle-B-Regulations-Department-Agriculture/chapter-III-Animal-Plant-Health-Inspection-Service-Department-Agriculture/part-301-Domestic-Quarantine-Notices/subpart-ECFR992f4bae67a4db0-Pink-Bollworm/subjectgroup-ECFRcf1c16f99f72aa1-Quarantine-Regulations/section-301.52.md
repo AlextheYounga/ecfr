@@ -42,4 +42,4 @@
 
 (11) Any other product, article, or means of conveyance not covered by paragraphs (b)(1) through (10) of this section, when an inspector determines that it presents a risk of spread of the pink bollworm and the person in possession of the product, article, or means of conveyance has actual notice that it is subject to the restrictions of this subpart.
 
-[32 FR 16385, Nov. 30, 1967]Editorial Note:For Federal Register citations affecting § 301.52, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[32 FR 16385, Nov. 30, 1967]Editorial Note:For Federal Register citations affecting § 301.52, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

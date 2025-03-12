@@ -40,7 +40,7 @@ Irradiation, carried out in accordance with the provisions of this section, is a
 
 (d) *Certified facility.* The irradiation treatment facility must be certified by APHIS. Recertification is required in the event of an increase in the amount of radioisotope, a decrease in the amount of radioisotope for a reason other than natural decay, a major modification to equipment that affects the delivered dose, or a change in the owner or managing entity of the facility. Recertification also may be required in cases where a significant variance in dose delivery has been measured by the dosimetry system. In order to be certified, a facility must:
 
-(1) Be capable of administering the minimum absorbed ionizing radiation doses specified in the PPQ Treatment Manual or in another treatment schedule approved in accordance with § 305.2 to the regulated articles;1/\>
+(1) Be capable of administering the minimum absorbed ionizing radiation doses specified in the PPQ Treatment Manual or in another treatment schedule approved in accordance with § 305.2 to the regulated articles;1
 
 1 The maximum absorbed ionizing radiation dose and the irradiation of food is regulated by the Food and Drug Administration under 21 CFR part 179.
 
@@ -64,7 +64,7 @@ Irradiation, carried out in accordance with the provisions of this section, is a
 
 (ii) *Trust fund agreement.* Irradiated articles may be imported into the United States in accordance with this section only if the NPPO of the country in which the irradiation facility is located or a private export group has entered into a trust fund agreement with APHIS. That agreement requires the NPPO or the private export group to pay, in advance of each shipping season, all costs that APHIS estimates it will incur in providing inspection and treatment monitoring services at the irradiation facility during that shipping season. Those costs include administrative expenses and all salaries (including overtime and the Federal share of employee benefits), travel expenses (including per diem expenses), and other incidental expenses incurred by APHIS in performing these services. The agreement will describe the general nature and scope of APHIS services provided at irradiation facilities covered by the agreement, such as whether APHIS inspectors will monitor operations continuously or intermittently, and will generally describe the extent of inspections APHIS will perform on articles prior to and after irradiation. The agreement requires the NPPO or private export group to deposit a certified or cashier's check with APHIS for the amount of those costs, as estimated by APHIS. If the deposit is not sufficient to meet all costs incurred by APHIS, the agreement further requires the NPPO or the private export group to deposit with APHIS a certified or cashier's check for the amount of the remaining costs, as determined by APHIS, before any more articles irradiated in that country may be imported into the United States. After a final audit at the conclusion of each shipping season, any overpayment of funds would be returned to the NPPO or the private export group or held on account until needed, at the option of the NPPO or the private export group.
 
-(3) *Irradiation facilities located within the United States.* Facilities located within the United States must notify an inspector at least 24 hours (excluding Saturday, Sunday, and Federal holidays) before scheduled operations.2/\> If the facility will be used to treat imported articles, the NPPO of the country from which the articles are to be imported into the United States in accordance with this section must also sign the irradiation treatment framework equivalency workplan required in paragraph (e)(1) of this section.
+(3) *Irradiation facilities located within the United States.* Facilities located within the United States must notify an inspector at least 24 hours (excluding Saturday, Sunday, and Federal holidays) before scheduled operations.2 If the facility will be used to treat imported articles, the NPPO of the country from which the articles are to be imported into the United States in accordance with this section must also sign the irradiation treatment framework equivalency workplan required in paragraph (e)(1) of this section.
 
 2 Inspectors are assigned to local offices of the Animal and Plant Health Inspection Service, which are listed in telephone directories.
 
@@ -76,7 +76,7 @@ Irradiation, carried out in accordance with the provisions of this section, is a
 
 (i) The fruits and vegetables must be packaged either:
 
-(A) In insect-proof cartons that have no openings that will allow the entry of the pests of concern. The cartons must be sealed with seals that will visually indicate if the cartons have been opened. The cartons may be constructed of any material that prevents entry or oviposition (if applicable) by the pests of concern into the articles in the carton;3/\> or
+(A) In insect-proof cartons that have no openings that will allow the entry of the pests of concern. The cartons must be sealed with seals that will visually indicate if the cartons have been opened. The cartons may be constructed of any material that prevents entry or oviposition (if applicable) by the pests of concern into the articles in the carton;3 or
 
 3 If there is a question as to the adequacy of a carton, send a request for approval of the carton, together with a sample carton, to the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Center for Plant Health Inspection and Technology, 1730 Varsity Drive, Suite 400, Raleigh, NC 27606-5202.
 
@@ -108,7 +108,7 @@ Irradiation, carried out in accordance with the provisions of this section, is a
 
 (2) The absorbed dose, as measured using an accurate dosimetry system, must meet or exceed the absorbed dose for the pest(s) of concern required by the PPQ Treatment Manual or by another approved treatment schedule.
 
-(3) When designing the facility's dosimetry system and procedures for its operation, the facility operator must address guidance and principles from the International Standards Organization/American Society for Testing and Materials standard4/\> or an equivalent standard recognized by APHIS.
+(3) When designing the facility's dosimetry system and procedures for its operation, the facility operator must address guidance and principles from the International Standards Organization/American Society for Testing and Materials standard4 or an equivalent standard recognized by APHIS.
 
 4 Designation ISO/ASTM 51261-2002(E), “Standard Guide for Selection and Calibration of Dosimetry Systems for Radiation Processing,” American Society for Testing and Materials, *Annual Book of ASTM Standards.*
 

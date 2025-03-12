@@ -26,7 +26,7 @@
 
 (ii) Method of shipping in international commerce and under what conditions, including type of conveyance, and type, size, and capacity of packing boxes and/or shipping containers.
 
-(4) *Description of pests and diseases associated with the commodity*1/\> (i) Scientific name (including genus, species, and author names) and taxonomic classification of arthropods, fungi, bacteria, nematodes, virus, viroids, mollusks, phytoplasmas, spiroplasmas, etc., attacking the crop;
+(4) *Description of pests and diseases associated with the commodity*1 (i) Scientific name (including genus, species, and author names) and taxonomic classification of arthropods, fungi, bacteria, nematodes, virus, viroids, mollusks, phytoplasmas, spiroplasmas, etc., attacking the crop;
 
 1 When a change is being sought to the conditions governing the importation of a commodity that is already authorized for importation into the United States, an update to or confirmation of previously submitted pest and disease information, rather than a new, complete submission of that information, may be appropriate. Persons seeking such a change may contact APHIS for a determination as to whether an update will be appropriate in a particular case.
 

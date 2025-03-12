@@ -6,6 +6,8 @@ The following sections or paragraphs each contain a collection of information re
 |-------------------------------------|---------------|
 |               1910.7                |   1218-0147   |
 |               1910.23               |   1218-0199   |
+|               1910.27               |   1218-0199   |
+|               1910.28               |   1218-0199   |
 |               1910.66               |   1218-0121   |
 |             1910.67(b)              |   1218-0230   |
 |               1910.68               |   1218-0226   |
@@ -69,6 +71,7 @@ The following sections or paragraphs each contain a collection of information re
 |              1910.1017              |   1218-0010   |
 |              1910.1018              |   1218-0104   |
 |              1910.1020              |   1218-0065   |
+|              1910.1024              |   1218-0267   |
 |              1910.1025              |   1218-0092   |
 |              1910.1026              |   1218-0252   |
 |              1910.1027              |   1218-0185   |
@@ -88,4 +91,4 @@ The following sections or paragraphs each contain a collection of information re
 |              1910.1200              |   1218-0072   |
 |              1910.1450              |   1218-0131   |
 
-[61 FR 5508, Feb. 13, 1996, as amended at 62 FR 29668, June 2, 1997; 62 FR 42666, Aug. 8, 1997; 62 FR 43581, Aug. 14, 1997; 62 FR 65203, Dec. 11, 1997; 63 FR 13340, Mar. 19, 1998; 63 FR 17093, Apr. 8, 1998; 71 FR 38086, July 5, 2006; 72 FR 40075, July 23, 2007; 81 FR 48710, July 26, 2016]
+[61 FR 5508, Feb. 13, 1996, as amended at 62 FR 29668, June 2, 1997; 62 FR 42666, Aug. 8, 1997; 62 FR 43581, Aug. 14, 1997; 62 FR 65203, Dec. 11, 1997; 63 FR 13340, Mar. 19, 1998; 63 FR 17093, Apr. 8, 1998; 71 FR 38086, July 5, 2006; 72 FR 40075, July 23, 2007; 81 FR 48710, July 26, 2016; 82 FR 31253, July 6, 2017; 83 FR 9702, Mar. 7, 2018]

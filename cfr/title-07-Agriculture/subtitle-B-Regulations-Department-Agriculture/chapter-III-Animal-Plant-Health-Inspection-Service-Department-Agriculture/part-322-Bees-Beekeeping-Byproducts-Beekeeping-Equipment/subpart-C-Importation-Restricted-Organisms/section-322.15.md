@@ -1,6 +1,6 @@
 ##### § 322.15 APHIS review of permit applications; denial or revocation of permits. #####
 
-(a) *Review of permit applications to import restricted organisms* - (1) *Consultation.* During our review of your permit application, we may consult with any Federal officials; appropriate officials of any State, Territory, or other jurisdiction in the United States in charge of research or regulatory programs relative to bees; and any other qualified governmental or private research laboratory, institution, or individual. We will conduct these consultations to gain information on the risks associated with the importation of the restricted organisms.
+(a) *Review of permit applications to import restricted organisms*—(1) *Consultation.* During our review of your permit application, we may consult with any Federal officials; appropriate officials of any State, Territory, or other jurisdiction in the United States in charge of research or regulatory programs relative to bees; and any other qualified governmental or private research laboratory, institution, or individual. We will conduct these consultations to gain information on the risks associated with the importation of the restricted organisms.
 
 (2) *Review by destination State.* We will transmit a copy of your permit application, along with our anticipated decision on the application, to the appropriate regulatory official in the destination State for review and recommendation. A State's response, which we will consider before taking final action on the permit application, may take one of the following forms:
 
@@ -10,7 +10,7 @@
 
 (iii) The State recommends that we deny the permit application and provides scientific, risk-based reasons supporting that recommendation; or
 
-(iv) The State makes no recommendation, thereby concurring with our decision regarding the issuance of the permit.4/\>
+(iv) The State makes no recommendation, thereby concurring with our decision regarding the issuance of the permit.4
 
 4 If a State regulatory official does not respond within 20 business days, we will conclude that the State has chosen to make no recommendation regarding the issuance of the permit.
 

@@ -1,4 +1,4 @@
-##### § 340.6 Petition for determination of nonregulated status.11/\> #####
+##### § 340.6 Petition for determination of nonregulated status.11 #####
 
 11 See footnote 5 in § 340.3.
 

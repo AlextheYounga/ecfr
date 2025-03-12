@@ -1,7 +1,5 @@
 ##### § 648.322 Skate allocation, possession, and landing provisions. #####
 
-Link to an amendment published at 83 FR 6135, Feb. 13, 2018.
-
 (a) *Allocation of TAL.* (1) A total of 66.5 percent of the annual skate complex TAL shall be allocated to the skate wing fishery. All skate products that are landed in wing form, for the skate wing market, or classified by Federal dealers as food as required under § 648.7(a)(1)(i), shall count against the skate wing fishery TAL. The annual skate wing fishery TAL shall be allocated in two seasonal quota periods as follows:
 
 (i) Season 1 - May 1 through August 31, 57 percent of the annual skate wing fishery TAL shall be allocated;
@@ -36,22 +34,26 @@ Link to an amendment published at 83 FR 6135, Feb. 13, 2018.
 
 (1) The vessel owner or operator obtains and retains onboard the vessel a valid LOA. LOAs are available upon request from the Regional Administrator.
 
-(2) The vessel owner or operator possesses and/or lands only whole skates less than 23 inches (58.42 cm) total length.
+(2) The vessel owner or operator fishes for, possesses, or lands skates only for use as bait.
 
-(3) The vessel owner or operator fishes for, possesses, or lands skates only for use as bait.
+(3) The vessel owner or operator possesses or lands no more than 25,000 lb (11,340 kg) of whole skates per trip during Seasons 1 or 2 and no more than 12,000 lb (5,443 kg) of whole skates per trip during Season 3.
 
-(4) The vessel owner or operator possesses or lands no more than 25,000 lb (11,340 kg) of only whole skates less than 23 inches (58.42 cm) total length, and does not possess or land any skate wings or whole skates greater than 23 inches (58.42 cm) total length.
+(4) The vessel owner or operator possesses or lands only whole skates less than 23 inches (58.42 cm) total length, and does not possess or land any skate wings.
 
-(5) Vessels that choose to possess or land skate wings during the participation period of this letter of authorization must comply with possession limit restrictions under paragraph (b) of this section for all skates or skate parts on board. Vessels possessing skate wings in compliance with the possession limit restrictions under paragraph (b) may fish for, possess, or land skates for uses other than bait.
+(5) Vessels that choose to possess or land skate wings during the participation period of this letter of authorization must comply with possession limit restrictions under paragraph (b) of this section for all skates or skate parts on board. Vessels possessing skate wings in compliance with the possession limit restrictions under paragraph (b) of this section may fish for, possess, or land skates for uses other than bait.
 
 (6) The vessel owner or operator complies with the transfer at sea requirements at § 648.13(h).
 
-(d) *In-season adjustment of skate bait possession limits.* When the Regional Administrator projects that 90 percent of the skate bait fishery seasonal quota has been landed in Seasons 1 or 2, or 90 percent of the annual skate bait fishery TAL has been landed, the Regional Administrator shall, through a notice in the Federal Register consistent with the Administrative Procedure Act, reduce the skate bait trip limit to the whole weight equivalent of the skate wing trip limit specified under paragraph (b) of this section for the remainder of the quota period, unless such a reduction would be expected to prevent attainment of the seasonal quota or annual TAL.
+(d) *In-season adjustment of skate bait possession limits.* When the Regional Administrator projects that 90 percent of the skate bait fishery seasonal quota has been landed in Seasons 1 or 2, or 80 percent of the annual skate bait fishery TAL has been landed, the Regional Administrator shall, through a notice in the Federal Register consistent with the Administrative Procedure Act, reduce the skate bait trip limit to 8,000 lb (3,629 kg) of whole skates for the remainder of the quota period, unless such a reduction would be expected to prevent attainment of the seasonal quota or annual TAL.
 
-(e) *Prohibitions on possession of skates.* A vessel fishing in the EEZ portion of the Skate Management Unit may not:
+(e) *In-season closure of skate bait fishery.* When the Regional Administrator projects that 100 percent of the skate bait fishery TAL will be landed, the Regional Administrator shall, through a notice in the Federal Register consistent with the Administrative Procedure Act, close the skate bait fishery, unless such a closure would be expected to prevent attainment of the annual TAL. During a skate bait fishery closure all skate bait LOAs as described in paragraph (c) of this section are void. All skates harvested and landed during a skate bait fishery closure will be attributed towards the skate-wing TAL as described in this section.
+
+(f) *Removal of in-season possession limit reductions.* If it is determined that an in-season trip limit reduction as described in paragraphs (d) and (e) of this section could prohibit the skate bait fishery from achieving its annual TAL, the in-season possession limit reduction may be removed.
+
+(g) *Prohibitions on possession of skates.* A vessel fishing in the EEZ portion of the Skate Management Unit may not:
 
 (1) Retain, possess, or land barndoor or thorny skates taken in or from the EEZ portion of the Skate Management Unit.
 
 (2) Retain, possess, or land smooth skates taken in or from the GOM RMA described at § 648.80(a)(1)(i).
 
-[75 FR 34060, June 16, 2010, as amended at 76 FR 28331, May 17, 2011; 77 FR 25100, Apr. 27, 2012; 81 FR 54747, Aug. 17, 2016]
+[75 FR 34060, June 16, 2010, as amended at 76 FR 28331, May 17, 2011; 77 FR 25100, Apr. 27, 2012; 81 FR 54747, Aug. 17, 2016; 83 FR 6135, Feb. 13, 2018]

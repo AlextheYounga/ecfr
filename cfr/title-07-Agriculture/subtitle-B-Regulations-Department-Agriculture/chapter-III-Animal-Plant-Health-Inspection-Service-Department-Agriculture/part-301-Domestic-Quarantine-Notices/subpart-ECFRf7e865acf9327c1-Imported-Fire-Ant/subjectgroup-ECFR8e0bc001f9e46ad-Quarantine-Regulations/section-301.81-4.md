@@ -14,7 +14,7 @@
 
 (iv) The article has not been combined or commingled with other articles so as to lose its individual identity; or
 
-(3) Without a certificate or limited permit provided the regulated article is a soil sample being moved to a laboratory approved by the Administrator3/\> to process, test, or analyze soil samples.
+(3) Without a certificate or limited permit provided the regulated article is a soil sample being moved to a laboratory approved by the Administrator3 to process, test, or analyze soil samples.
 
 3 Criteria that laboratories must meet to become approved to process, test, or analyze soil, and the list of currently approved laboratories, may be obtained from the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Domestic and Emergency Operations, 4700 River Road Unit 134, Riverdale, Maryland 20737-1236.
 

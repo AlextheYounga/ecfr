@@ -1959,7 +1959,7 @@ Levels of cadmium contained in QC samples should not be known to the analyst pri
 
 Internal QC results should be plotted or charted in a manner which describes sample recovery and laboratory control limits.
 
-*Internal Control Limits.* The laboratory protocol for evaluating internal QC analyses per control limits should be clearly defined. Limits may be based on statistical methods (e.g., as 2σ from the laboratory mean recovery), or on proficiency testing limits (e.g.,±1µg or 15% of the mean, whichever is greater). Statistical limits that exceed ±40% should be reevaluated to determine the source error in the analysis.
+*Internal Control Limits.* The laboratory protocol for evaluating internal QC analyses per control limits should be clearly defined. Limits may be based on statistical methods (e.g., as 2σ/\> from the laboratory mean recovery), or on proficiency testing limits (e.g.,±1µg or 15% of the mean, whichever is greater). Statistical limits that exceed ±40% should be reevaluated to determine the source error in the analysis.
 
 When laboratory limits are exceeded, analytic work should terminate until the source of error is determined and corrected; compliance samples affected by the error should be reanalyzed. In addition, the laboratory protocol should address any unusual trends that develop which may be biasing the results. Numerous, consecutive results above or below laboratory mean recoveries, or outside laboratory statistical limits, indicate that problems may have developed.
 
@@ -2020,11 +2020,11 @@ Table 2 - Reporting Procedures for Laboratories Participating in the Cadmium Med
 
 As noted in Section 3.3.1, a QA/QC program plan should be developed that documents internal QA/QC procedures (defined under Section 3.3.1) to be implemented by the participating laboratory for each analyte; this plan should provide a list identifying each instrument used in making analyte determinations.
 
-A QA/QC status report should be written bimonthly for each analyte. In this report, the results of the QC program during the reporting period should be reported for each analyte in the following manner: The number (N) of QC samples analyzed during the period; a table of the target levels defined for each sample and the corresponding measured values; the mean of F/T value (as defined below) for the set of QC samples run during the period; and, use of X ±2σ (as defined below) for the set of QC samples run during the period as a measure of precision.
+A QA/QC status report should be written bimonthly for each analyte. In this report, the results of the QC program during the reporting period should be reported for each analyte in the following manner: The number (N) of QC samples analyzed during the period; a table of the target levels defined for each sample and the corresponding measured values; the mean of F/T value (as defined below) for the set of QC samples run during the period; and, use of X/\> ±2σ/\> (as defined below) for the set of QC samples run during the period as a measure of precision.
 
 As noted in Section 2, an F/T value for a QC sample is the ratio of the measured concentration of analyte to the established (*i.e.*, reference) concentration of analyte for that QC sample. The equation below describes the derivation of the mean for F/T values, X, (with N being the total number of samples analyzed):
 
-![](/graphics/ec28oc91.012.gif)The standard deviation, σ, for these measurements is derived using the following equation (note that 2σ is twice this value):![](/graphics/ec28oc91.013.gif)
+![](/graphics/ec28oc91.012.gif)The standard deviation, σ/\>, for these measurements is derived using the following equation (note that 2σ/\> is twice this value):![](/graphics/ec28oc91.013.gif)
 
 The nonmandatory QA/QC protocol (see Attachment 1) indicates that QC samples should be divided into several discrete pools, and a separate estimate of precision for each pools then should be derived. Several precision estimates should be provided for concentrations which differ in average value. These precision measures may be used to document improvements in performance with regard to the combined pool.
 
@@ -2044,7 +2044,7 @@ For each analyte, the proficiency report should include the results from the 6 p
 
 Analytical data reports should be submitted to responsible physicians directly. For each sample, report the following information: The date the sample was received; the date the sample was analyzed; appropriate chain-of-custody information; the type(s) of analyses performed; and, the results of the analyses. This information should be reported on a form similar to the form provided an appropriate form. The most recent proficiency program report should accompany the analytical data reports (as an attachment).
 
-Confidence intervals for the analytical results should be reported as X±2σ, with X being the measured value and 2σ the standard deviation calculated as described above.
+Confidence intervals for the analytical results should be reported as X±2σ/\>, with X being the measured value and 2σ/\> the standard deviation calculated as described above.
 
 For CDU or B2MU results, which are combined with CRTU measurements for proper reporting, the 95% confidence limits are derived from the limits for CDU or B2MU, (p), and the limits for CRTU, (q), as follows:
 
@@ -3072,13 +3072,13 @@ Before any compliance samples are analyzed, control limits must be established. 
 
 At the beginning of this QA/QC program, control limits should be based on the results of the analysis of 20 quality control samples from each pool of each analyte. For any given pool, the 20 quality control samples should be run on 20 different days. Although no more than one sample should be run from any single pool on a particular day, a laboratory may run quality control samples from different pools on the same day. This constitutes a set of initial characterization runs.
 
-For each quality control sample analyzed, the value F/T (defined in the glossary) should be calculated. To calculate the control limits for a pool of an analyte, it is first necessary to calculate the mean, X, of the F/T values for each quality control sample in a pool and then to calculate its standard deviation σ. Thus, for the control limit for a pool, X is calculated as:
+For each quality control sample analyzed, the value F/T (defined in the glossary) should be calculated. To calculate the control limits for a pool of an analyte, it is first necessary to calculate the mean, X/\>, of the F/T values for each quality control sample in a pool and then to calculate its standard deviation σ. Thus, for the control limit for a pool, X/\> is calculated as:
 
 ![](/graphics/ec15no91.186.gif)and σ is calculated as![](/graphics/ec15no91.187.gif)Where N is the number of quality control samples run for a pool.
 
 The control limit for a particular pool is then given by the mean plus or minus 2 standard deviations (X ±3σ).
 
-The control limits may be no greater than 40% of the mean F/T value. If three standard deviations are greater than 40% of the mean F/T value, then analysis of compliance samples may not begin.1 Instead, an investigation into the causes of the large standard deviation should begin, and the inadequacies must be remedied. Then, control limits must be reestablished which will mean repeating the running 20 quality control samples from each pool over 20 days.
+The control limits may be no greater than 40% of the mean F/T value. If three standard deviations are greater than 40% of the mean F/T value, then analysis of compliance samples may not begin.1/\> Instead, an investigation into the causes of the large standard deviation should begin, and the inadequacies must be remedied. Then, control limits must be reestablished which will mean repeating the running 20 quality control samples from each pool over 20 days.
 
 1 Note that the value,“40%” may change over time as experience is gained with the program.
 
@@ -3088,20 +3088,20 @@ Once control limits have been established for each pool of an analyte, analysis 
 
 There should be at least one set of quality control samples run with any analysis of compliance samples. At a minimum, for example, 4 quality control samples should be run even if only 1 compliance sample is run. Generally, the number of quality control samples that should be run are a multiple of four with the minimum equal to the smallest multiple of four that is greater than 5% of the total number of samples to be run. For example, if 300 compliance samples of an analyte are run, then at least 16 quality control samples should be run (16 is the smallest multiple of four that is greater than 15, which is 5% of 300).
 
-Control charts for each pool of an analyte (and for each instrument in the laboratory to be used for analysis of compliance samples) should be established by plotting F/T versus date as the quality control sample results are reported. On the graph there should be lines representing the control limits for the pool, the mean F/T limits for the pool, and the theoretical F/T of 1.000. Lines representing plus or minus (±) σ should also be represented on the charts. A theoretical example of a control chart is presented in Figure 1.
+Control charts for each pool of an analyte (and for each instrument in the laboratory to be used for analysis of compliance samples) should be established by plotting F/T versus date as the quality control sample results are reported. On the graph there should be lines representing the control limits for the pool, the mean F/T limits for the pool, and the theoretical F/T of 1.000. Lines representing plus or minus (±) σ/\> should also be represented on the charts. A theoretical example of a control chart is presented in Figure 1.
 
 Figure 1 - Theoretical Example of a Control Chart for a Pool of an Analyte
 
 |     |   |   |   |   |   |   |   |   |   |   |   |1.162 (Upper Control Limit)|
 |:----|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:--------------------------|
 |     |   |   |   |   |   | X |   |   |   |   |   |                           |
-|     |   |   |   |   |   |   |   |   |   |   |   |   1.096 (Upper 2σ Line)   |
+|     |   |   |   |   |   |   |   |   |   |   |   | 1.096 (Upper 2σ/\> Line)  |
 |     |   | X |   |   |   |   |   |   |   |   |   |                           |
 |     | X |   |   |   |   |   |   |   |   |   |   | 1.000 (Theoretical Mean)  |
 |     |   |   |   | X | X |   |   |   |   |   |   |       0.964 (Mean)        |
 |     |   |   |   |   |   |   | X |   |   |   | X |                           |
 |     |   |   |   |   |   |   |   | X |   |   |   |                           |
-|     |   |   | X |   |   |   |   |   |   |   |   |   0.832 (Lower 2σ Line)   |
+|     |   |   | X |   |   |   |   |   |   |   |   | 0.832 (Lower 2σ/\> Line)  |
 |     |   |   |   |   |   |   |   |   | X |   |   |                           |
 |     |   |   |   |   |   |   |   |   |   |   |   |0.766 (Lower Control Limit)|
 |March| 2 | 2 | 3 | 5 | 6 | 9 |10 |13 |16 |17 |   |                           |

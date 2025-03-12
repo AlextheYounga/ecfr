@@ -8,13 +8,13 @@
 
 (4) No person shall move any imported regulated article from the port of first arrival unless and until an inspector notifies the person, in writing or through an electronic database, that the regulated article:
 
-(i) Is in compliance with all applicable regulations and has been inspected and found to be apparently free of plant pests;2/\> or,
+(i) Is in compliance with all applicable regulations and has been inspected and found to be apparently free of plant pests;2 or,
 
 2 Certain regulated articles may also be subject to “Subpart - Fruits and Vegetables,” or to the noxious weed regulations under part 360 of this chapter, or to Endangered Species Act regulations under parts 355 and 356 of this chapter and 50 CFR parts 17 and 23.
 
 (ii) Has been inspected and the inspector requires reinspection, cleaning, or treatment of the regulated article at a place other than the port of first arrival.
 
-(b) *Notice of arrival; visual examination of regulated articles at port of first arrival.* (1) At least 7 days prior to the expected date of arrival in the United States of a shipment of regulated articles imported in accordance with this subpart, the permittee or his or her agent must notify the APHIS Officer in Charge at the port of arrival of the date of expected arrival. The address and telephone number of the APHIS Officer in Charge will be specified in any specific permit issued by APHIS3/\>. This notice may be by any authorized method. The notice must include the number of any specific permit issued for the regulated articles; the name, if any, of the means of conveyance carrying the regulated articles; the type and quantity of the regulated articles; the expected date of arrival; the country of origin of the regulated articles; the name and the number, if any, of the dock or area where the regulated articles are to be unloaded; and the name of the importer or broker at the port of arrival.
+(b) *Notice of arrival; visual examination of regulated articles at port of first arrival.* (1) At least 7 days prior to the expected date of arrival in the United States of a shipment of regulated articles imported in accordance with this subpart, the permittee or his or her agent must notify the APHIS Officer in Charge at the port of arrival of the date of expected arrival. The address and telephone number of the APHIS Officer in Charge will be specified in any specific permit issued by APHIS3. This notice may be by any authorized method. The notice must include the number of any specific permit issued for the regulated articles; the name, if any, of the means of conveyance carrying the regulated articles; the type and quantity of the regulated articles; the expected date of arrival; the country of origin of the regulated articles; the name and the number, if any, of the dock or area where the regulated articles are to be unloaded; and the name of the importer or broker at the port of arrival.
 
 3 A list of APHIS Officers in Charge may be obtained from the Administrator, c/o Port Operations, Plant Protection and Quarantine, Animal and Plant Health Inspection Service, 4700 River Road, Riverdale, MD 20737.
 
