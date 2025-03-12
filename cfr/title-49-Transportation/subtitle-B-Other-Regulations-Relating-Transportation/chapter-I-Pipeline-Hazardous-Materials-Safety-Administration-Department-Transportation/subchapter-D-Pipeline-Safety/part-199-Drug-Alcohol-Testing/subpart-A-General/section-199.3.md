@@ -1,6 +1,6 @@
 ##### § 199.3 Definitions. #####
 
-As used in this part -
+As used in this part—
 
 *Accident* means an incident reportable under part 191 of this chapter involving gas pipeline facilities or LNG facilities, or an accident reportable under part 195 of this chapter involving hazardous liquid pipeline facilities.
 
@@ -22,10 +22,10 @@ As used in this part -
 
 *Positive rate for random drug testing* means the number of verified positive results for random drug tests conducted under this part plus the number of refusals of random drug tests required by this part, divided by the total number of random drug tests results (*i.e.,* positives, negatives, and refusals) under this part.
 
-*Prohibited drug* means any of the following substances specified in Schedule I or Schedule II of the Controlled Substances Act (21 U.S.C. 812): marijuana, cocaine, opiates, amphetamines, and phencyclidine (PCP).
+*Prohibited drug* means any of the substances specified in 49 CFR part 40.
 
 *Refuse to submit, refuse, or refuse to take* means behavior consistent with DOT Procedures concerning refusal to take a drug test or refusal to take an alcohol test.
 
 *State agency* means an agency of any of the several states, the District of Columbia, or Puerto Rico that participates under the pipeline safety laws (49 U.S.C. 60101 *et seq.*)
 
-[53 FR 47096, Nov. 21, 1988, as amended by Amdt. 199-2, 54 FR 51850, Dec. 18, 1989; 59 FR 62227, Dec. 2, 1994; Amdt. 199-13, 61 FR 18518, Apr. 26, 1996; Amdt. 199-15, 63 FR 13000, Mar. 17, 1998; Amdt. 199-19, 66 FR 47117, Sept. 11, 2001; 68 FR 11750, Mar. 12, 2003; 68 FR 75465, Dec. 31, 2003; 70 FR 11140, Mar. 8, 2005]
+[53 FR 47096, Nov. 21, 1988, as amended by Amdt. 199-2, 54 FR 51850, Dec. 18, 1989; 59 FR 62227, Dec. 2, 1994; Amdt. 199-13, 61 FR 18518, Apr. 26, 1996; Amdt. 199-15, 63 FR 13000, Mar. 17, 1998; Amdt. 199-19, 66 FR 47117, Sept. 11, 2001; 68 FR 11750, Mar. 12, 2003; 68 FR 75465, Dec. 31, 2003; 70 FR 11140, Mar. 8, 2005; 84 FR 16775, Apr. 23, 2019]

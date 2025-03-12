@@ -1,5 +1,7 @@
 ##### § 202.3 Registration of copyright. #####
 
+Link to an amendment published at 84 FR 16785, April 23, 2019.
+
 (a) *General.* (1) This section prescribes conditions for the registration of copyright, and the application to be made for registration under sections 408 and 409 of title 17 of the United States Code.
 
 (2) For the purposes of this section, the terms *audiovisual work*, *compilation*, *copy*, *derivative work*, *device*, *fixation*, *literary work*, *motion picture*, *phonorecord*, *pictorial, graphic and sculptural works*, *process*, *sound recording*, and their variant forms, have the meanings set forth in section 101 of title 17. The term *author* includes an employer or other person for whom a work is “made for hire” under section 101 of title 17.

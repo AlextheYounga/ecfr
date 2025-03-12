@@ -1,6 +1,6 @@
 ##### § 170.3 Definitions. #####
 
-For purposes of this subpart -
+For purposes of this subpart—
 
 *Air navigation facility* (NAVAID) means any facility used, available for use, or designated for use in the aid of air navigation. Included are landing areas; lights; signaling, radio direction-finding, or radio or other electronic communication; and any other structure or mechanism having a similar purpose of guiding or controlling flight or the landing or takeoff of aircraft.
 
@@ -32,11 +32,11 @@ For purposes of this subpart -
 
 *Arrival* means any aircraft arriving at an airport.
 
-*Benefit-cost ratio* means the quotient of the discounted life cycle benefits of an air traffic control service or navigation aid facility (i.e., ATCT) divided by the discounted life cycle costs.
+*Benefit-cost ratio* means the quotient of the discounted life cycle benefits of an air traffic control service or navigation aid facility (*i.e.*, ATCT) divided by the discounted life cycle costs.
 
 *Ceiling* means the vertical distance between the ground or water and the lowest layer of clouds or obscuring phenomena that is reported as “broken,” “overcast,” or “obstruction.”
 
-*Control Tower* - See Airport Traffic Control Tower.
+*Control Tower*—See Airport Traffic Control Tower.
 
 *Criteria* means the standards used by the FAA for the determination of establishment or discontinuance of a service or facility at an airport.
 

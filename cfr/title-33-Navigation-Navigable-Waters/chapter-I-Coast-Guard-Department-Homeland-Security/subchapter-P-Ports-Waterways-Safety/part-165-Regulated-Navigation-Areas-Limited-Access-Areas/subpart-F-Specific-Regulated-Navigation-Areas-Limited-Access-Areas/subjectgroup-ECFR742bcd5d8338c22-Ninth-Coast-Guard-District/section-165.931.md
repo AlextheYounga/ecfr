@@ -1,5 +1,7 @@
 ##### § 165.931 Safety Zone, Chicago Harbor, Navy Pier Southeast, Chicago, IL. #####
 
+Link to an amendment published at 84 FR 16214, Apr. 18, 2019.
+
 (a) *Location.* The following area is a safety zone: The waters of Lake Michigan within Chicago Harbor bounded by coordinates beginning at 41°53′23.3″ N, 087°36′04.5″ W; then south to 41°53′11.8″ N, 087°36′04.1″ W; then west to 41°53′12.1″ N, 087°35′40.5″ W; then north to 41°53′23.6″ N, 087°35′40.7″ W; then east back to the point of origin (NAD 83).
 
 (b) *Definitions.* The following definitions apply to this section:

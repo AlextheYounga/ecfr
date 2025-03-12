@@ -18,7 +18,7 @@ For the purposes of this part, the following definitions apply:
 
 (h) *Employee* is an individual who is hired, either directly or by contract, to perform a safety-sensitive function for an employer, as defined in paragraph (i) of this section. An employee is also an individual who transfers into a position to perform a safety-sensitive function for an employer.
 
-(i) *Employer* is a part 119 certificate holder with authority to operate under parts 121 and/or 135 of this chapter, an operator as defined in § 91.147 of this chapter, or an air traffic control facility not operated by the FAA or by or under contract to the U.S. Military. An employer may use a contract employee who is not included under that employer's FAA-mandated drug and alcohol testing program to perform a safety-sensitive function only if that contract employee is included under the contractor's FAA-mandated drug and alcohol testing program and is performing a safety-sensitive function on behalf of that contractor (i.e., within the scope of employment with the contractor.)
+(i) *Employer* is a part 119 certificate holder with authority to operate under parts 121 and/or 135 of this chapter, an operator as defined in § 91.147 of this chapter, or an air traffic control facility not operated by the FAA or by or under contract to the U.S. Military. An employer may use a contract employee who is not included under that employer's FAA-mandated drug and alcohol testing program to perform a safety-sensitive function only if that contract employee is included under the contractor's FAA-mandated drug and alcohol testing program and is performing a safety-sensitive function on behalf of that contractor (*i.e.* , within the scope of employment with the contractor.)
 
 (j) *Hire* means retaining an individual for a safety-sensitive function as a paid employee, as a volunteer, or through barter or other form of compensation.
 
@@ -26,7 +26,7 @@ For the purposes of this part, the following definitions apply:
 
 (l) *Positive rate for random drug testing* means the number of verified positive results for random drug tests conducted under subpart E of this part, plus the number of refusals of random drug tests required by subpart E of this part, divided by the total number of random drug test results (*i.e.,* positives, negatives, and refusals) under subpart E of this part.
 
-(m) *Prohibited drug* means marijuana, cocaine, opiates, phencyclidine (PCP), and amphetamines, as specified in 49 CFR 40.85.
+(m) *Prohibited drug* means any of the drugs specified in 49 CFR part 40.
 
 (n) *Refusal to submit to alcohol test* means that a covered employee has engaged in conduct including but not limited to that described in 49 CFR 40.261, or has failed to remain readily available for post-accident testing as required by subpart F of this part.
 
@@ -40,4 +40,4 @@ For the purposes of this part, the following definitions apply:
 
 (s) *Violation rate for random alcohol testing* means the number of 0.04, and above, random alcohol confirmation test results conducted under subpart F of this part, plus the number of refusals of random alcohol tests required by subpart F of this part, divided by the total number of random alcohol screening tests (including refusals) conducted under subpart F of this part.
 
-[Doc. No. FAA-2008-0937, 74 FR 22653, May 14, 2009; Amdt. 120-0A, 75 FR 3153, Jan. 20, 2010]
+[Doc. No. FAA-2008-0937, 74 FR 22653, May 14, 2009; Amdt. 120-0A, 75 FR 3153, Jan. 20, 2010; 84 FR 16773, Apr. 23, 2019]

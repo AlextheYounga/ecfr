@@ -6,7 +6,7 @@
 
 (c) Except as provided in paragraph (d) of this section, no person may dispatch, release, or take off an aircraft any time conditions are such that frost, ice, or snow may reasonably be expected to adhere to the aircraft, unless the certificate holder has an approved ground deicing/anti-icing program in its operations specifications and unless the dispatch, release, and takeoff comply with that program. The approved ground deicing/anti-icing program must include at least the following items:
 
-(1) A detailed description of -
+(1) A detailed description of—
 
 (i) How the certificate holder determines that conditions are such that frost, ice, or snow may reasonably be expected to adhere to the aircraft and that ground deicing/anti-icing operational procedures must be in effect;
 
@@ -24,7 +24,7 @@
 
 (iii) Communications procedures.
 
-(iv) Aircraft surface contamination (i.e., adherence of frost, ice, or snow) and critical area identification, and how contamination adversely affects aircraft performance and flight characteristics.
+(iv) Aircraft surface contamination (*i.e.*, adherence of frost, ice, or snow) and critical area identification, and how contamination adversely affects aircraft performance and flight characteristics.
 
 (v) Types and characteristics of deicing/anti-icing fluids.
 

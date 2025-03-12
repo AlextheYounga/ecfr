@@ -1,6 +1,6 @@
 ##### § 125.287 Initial and recurrent pilot testing requirements. #####
 
-(a) No certificate holder may use any person, nor may any person serve as a pilot, unless, since the beginning of the 12th calendar month before that service, that person has passed a written or oral test, given by the Administrator or an authorized check airman on that person's knowledge in the following areas -
+(a) No certificate holder may use any person, nor may any person serve as a pilot, unless, since the beginning of the 12th calendar month before that service, that person has passed a written or oral test, given by the Administrator or an authorized check airman on that person's knowledge in the following areas—
 
 (1) The appropriate provisions of parts 61, 91, and 125 of this chapter and the operations specifications and the manual of the certificate holder;
 
@@ -18,7 +18,7 @@
 
 (8) New equipment, procedures, or techniques, as appropriate;
 
-(9) Knowledge and procedures for operating during ground icing conditions, (i.e., any time conditions are such that frost, ice, or snow may reasonably be expected to adhere to the airplane), if the certificate holder expects to authorize takeoffs in ground icing conditions, including:
+(9) Knowledge and procedures for operating during ground icing conditions, (*i.e.*, any time conditions are such that frost, ice, or snow may reasonably be expected to adhere to the airplane), if the certificate holder expects to authorize takeoffs in ground icing conditions, including:
 
 (i) The use of holdover times when using deicing/anti-icing fluids.
 
@@ -26,7 +26,7 @@
 
 (iii) Communications.
 
-(iv) Airplane surface contamination (i.e., adherence of frost, ice, or snow) and critical area identification, and knowledge of how contamination adversely affects airplane performance and flight characteristics.
+(iv) Airplane surface contamination (*i.e.*, adherence of frost, ice, or snow) and critical area identification, and knowledge of how contamination adversely affects airplane performance and flight characteristics.
 
 (v) Types and characteristics of deicing/anti-icing fluids, if used by the certificate holder.
 

@@ -62,4 +62,4 @@
 
 (h) The owner shall provide FAA-approved test instruments needed for maintenance of the facility.
 
-(i) The owner shall shut down the facility (i.e., cease radiation and issue a NOTAM that the facility is out-of-service) upon receiving two successive pilot reports of its malfunctioning.
+(i) The owner shall shut down the facility (*i.e.*, cease radiation and issue a NOTAM that the facility is out-of-service) upon receiving two successive pilot reports of its malfunctioning.

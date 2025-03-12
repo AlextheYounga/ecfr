@@ -1,5 +1,7 @@
 ##### § 202.11 Architectural works. #####
 
+Link to an amendment published at 84 FR 16785, April 23, 2019.
+
 (a) *General.* This section prescribes rules pertaining to the registration of architectural works, as provided for in the amendment of title 17 of the United States Code by the Architectural Works Copyright Protection Act, title VII of the Judicial Improvements Act of 1990, Public Law 101-650.
 
 (b) *Definitions.* (1) For the purposes of this section, the term *architectural work* has the same meaning as set forth in section 101 of title 17, as amended.

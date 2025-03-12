@@ -1,7 +1,5 @@
 ##### § 201.36 Notices of contact information for transmitting entities publicly performing pre-1972 sound recordings. #####
 
-Link to an amendment published at 84 FR 10685, March 22, 2019.
-
 (a) *General.* This section prescribes the rules under which transmitting entities may file contact information with the Copyright Office pursuant to 17 U.S.C. 1401(f)(5)(B).
 
 (b) *Definitions.* For purposes of this section:
@@ -26,6 +24,8 @@ Link to an amendment published at 84 FR 10685, March 22, 2019.
 
 (5) The transmitting entity may opt to include alternate names for which the transmitting entity seeks application of 17 U.S.C. 1401(f)(5)(B)(iii), such as names that the public would be likely to use to search for the transmitting entity in the Copyright Office's online directory of transmitting entities publicly performing pre-1972 sound recordings by means of digital audio transmission, including names under which the transmitting entity is doing business and other commonly used names. Separate legal entities are not considered alternate names.
 
-(e) *Fee.* The filing fee to submit a notice of contact information pursuant to this section is prescribed in § 201.3(c).
+(e) *Filing Date.* The date of filing of a notice of contact information pursuant to this section is the date when a proper submission, including the prescribed fee, is received in the Copyright Office.
 
-[83 FR 52154, Oct. 16, 2018]
+(f) *Fee.* The filing fee to submit a notice of contact information pursuant to this section is prescribed in § 201.3(c).
+
+[83 FR 52154, Oct. 16, 2018, as amended at 84 FR 10685, Mar. 22, 2019]

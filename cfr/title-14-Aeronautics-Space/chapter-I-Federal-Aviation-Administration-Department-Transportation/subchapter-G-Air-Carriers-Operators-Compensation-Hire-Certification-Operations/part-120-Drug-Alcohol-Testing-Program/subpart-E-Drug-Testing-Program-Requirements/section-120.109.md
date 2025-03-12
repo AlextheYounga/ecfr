@@ -16,7 +16,7 @@ Each employer shall conduct the types of testing described in this section in ac
 
 (iii) The individual will be returning to the performance of a safety-sensitive function.
 
-(5) Before hiring or transferring an individual to a safety-sensitive function, the employer must advise each individual that the individual will be required to undergo pre-employment testing in accordance with this subpart, to determine the presence of marijuana, cocaine, opiates, phencyclidine (PCP), and amphetamines, or a metabolite of those drugs in the individual's system. The employer shall provide this same notification to each individual required by the employer to undergo pre-employment testing under paragraph (a)(4) of this section.
+(5) Before hiring or transferring an individual to a safety-sensitive function, the employer must advise each individual that the individual will be required to undergo pre-employment testing in accordance with this subpart, to determine the presence of a prohibited drug in the individual's system. The employer shall provide this same notification to each individual required by the employer to undergo pre-employment testing under paragraph (a)(4) of this section.
 
 (b) *Random drug testing.* (1) Except as provided in paragraphs (b)(2) through (b)(4) of this section, the minimum annual percentage rate for random drug testing shall be 50 percent of covered employees.
 
@@ -34,7 +34,7 @@ Each employer shall conduct the types of testing described in this section in ac
 
 (A) To calculate whether you have met the annual minimum percentage rate, count all random positives, random negatives, and random refusals as your “random testing results.”
 
-(B) To calculate the average number of safety-sensitive employees eligible for random testing throughout the year, add the total number of safety-sensitive employees eligible for testing during each random testing period for the year and divide that total by the number of random testing periods. Only safety-sensitive employees are to be in an employer's random testing pool, and all safety-sensitive employees must be in the random pool. If you are an employer conducting random testing more often than once per month (*e.g.,* you select daily, weekly, bi-weekly) you do not need to compute this total number of safety-sensitive employees more than on a once per month basis.
+(B) To calculate the average number of safety-sensitive employees eligible for random testing throughout the year, add the total number of safety-sensitive employees eligible for testing during each random testing period for the year and divide that total by the number of random testing periods. Only safety-sensitive employees are to be in an employer's random testing pool, and all safety-sensitive employees must be in the random pool. If you are an employer conducting random testing more often than once per month (e.g., you select daily, weekly, bi-weekly) you do not need to compute this total number of safety-sensitive employees more than on a once per month basis.
 
 (ii) As an employer, you may use a service agent to perform random selections for you, and your safety-sensitive employees may be part of a larger random testing pool of safety-sensitive employees. However, you must ensure that the service agent you use is testing at the appropriate percentage established for your industry and that only safety-sensitive employees are in the random testing pool. For example:
 
@@ -50,7 +50,7 @@ Each employer shall conduct the types of testing described in this section in ac
 
 (9) If a given covered employee is subject to random drug testing under the drug testing rules of more than one DOT agency, the employee shall be subject to random drug testing at the percentage rate established for the calendar year by the DOT agency regulating more than 50 percent of the employee's function.
 
-(10) If an employer is required to conduct random drug testing under the drug testing rules of more than one DOT agency, the employer may -
+(10) If an employer is required to conduct random drug testing under the drug testing rules of more than one DOT agency, the employer may—
 
 (i) Establish separate pools for random selection, with each pool containing the covered employees who are subject to testing at the same required rate; or
 
@@ -58,7 +58,7 @@ Each employer shall conduct the types of testing described in this section in ac
 
 (11) An employer required to conduct random drug testing under the anti-drug rules of more than one DOT agency shall provide each such agency access to the employer's records of random drug testing, as determined to be necessary by the agency to ensure the employer's compliance with the rule.
 
-(c) *Post-accident drug testing.* Each employer shall test each employee who performs a safety-sensitive function for the presence of marijuana, cocaine, opiates, phencyclidine (PCP), and amphetamines, or a metabolite of those drugs in the employee's system if that employee's performance either contributed to an accident or can not be completely discounted as a contributing factor to the accident. The employee shall be tested as soon as possible but not later than 32 hours after the accident. The decision not to administer a test under this section must be based on a determination, using the best information available at the time of the determination, that the employee's performance could not have contributed to the accident. The employee shall submit to post-accident testing under this section.
+(c) *Post-accident drug testing.* Each employer shall test each employee who performs a safety-sensitive function for the presence of a prohibited drug in the employee's system if that employee's performance either contributed to an accident or cannot be completely discounted as a contributing factor to the accident. The employee shall be tested as soon as possible but not later than 32 hours after the accident. The decision not to administer a test under this section must be based on a determination, using the best information available at the time of the determination, that the employee's performance could not have contributed to the accident. The employee shall submit to post-accident testing under this section.
 
 (d) *Drug testing based on reasonable cause.* Each employer must test each employee who performs a safety-sensitive function and who is reasonably suspected of having used a prohibited drug. The decision to test must be based on a reasonable and articulable belief that the employee is using a prohibited drug on the basis of specific contemporaneous physical, behavioral, or performance indicators of probable drug use. At least two of the employee's supervisors, one of whom is trained in detection of the symptoms of possible drug use, must substantiate and concur in the decision to test an employee who is reasonably suspected of drug use; except that in the case of an employer, other than a part 121 certificate holder, who employs 50 or fewer employees who perform safety-sensitive functions, one supervisor who is trained in detection of symptoms of possible drug use must substantiate the decision to test an employee who is reasonably suspected of drug use.
 
@@ -71,3 +71,6 @@ Each employer shall conduct the types of testing described in this section in ac
 (3) The employer must direct the employee to undergo testing for alcohol in accordance with subpart F of this part, in addition to drugs, if the Substance Abuse Professional determines that alcohol testing is necessary for the particular employee. Any such alcohol testing shall be conducted in accordance with the provisions of 49 CFR part 40.
 
 (4) Follow-up testing shall not exceed 60 months after the date the individual begins to perform or returns to the performance of a safety-sensitive function. The Substance Abuse Professional may terminate the requirement for follow-up testing at any time after the first six tests have been conducted, if the Substance Abuse Professional determines that such testing is no longer necessary.
+
+[Docket No. FAA-2008-0937, 74 FR 22653, May 14, 2009,
+as amended at 84 FR 16773, Apr. 23, 2019]

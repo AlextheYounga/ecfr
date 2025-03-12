@@ -23,3 +23,4 @@
 (e) An “adverse” comment for the purpose of this subpart means any comment that the Office of the Secretary determines is critical of the rule, suggests that the rule should not be adopted, or suggests a change that should be made in the rule. A comment suggesting that the policy or requirements of the rule should or should not also be extended to other Departmental programs outside the scope of the rule is not adverse.
 
 [69 FR 4458, Jan. 30, 2004]
+49V1(17096): Appendix A to Part 99

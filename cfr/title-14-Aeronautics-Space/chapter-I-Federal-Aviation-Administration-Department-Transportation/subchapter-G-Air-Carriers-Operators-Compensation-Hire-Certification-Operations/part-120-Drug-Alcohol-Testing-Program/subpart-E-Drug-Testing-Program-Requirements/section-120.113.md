@@ -2,7 +2,7 @@
 
 (a) The employer shall designate or appoint a Medical Review Officer (MRO) who shall be qualified in accordance with 49 CFR part 40 and shall perform the functions set forth in 49 CFR part 40 and this subpart. If the employer does not have a qualified individual on staff to serve as MRO, the employer may contract for the provision of MRO services as part of its drug testing program.
 
-(b) *Medical Review Officer (MRO).* The MRO must perform the functions set forth in subpart G of 49 CFR part 40, and subpart E of this part. The MRO shall not delay verification of the primary test result following a request for a split specimen test unless such delay is based on reasons other than the fact that the split specimen test result is pending. If the primary test result is verified as positive, actions required under this rule (*e.g.,* notification to the Federal Air Surgeon, removal from safety-sensitive position) are not stayed during the 72-hour request period or pending receipt of the split specimen test result.
+(b) *Medical Review Officer (MRO).* The MRO must perform the functions set forth in subpart G of 49 CFR part 40, and subpart E of this part. The MRO shall not delay verification of the primary test result following a request for a split specimen test unless such delay is based on reasons other than the fact that the split specimen test result is pending. If the primary test result is verified as positive, actions required under this rule (e.g., notification to the Federal Air Surgeon, removal from safety-sensitive position) are not stayed during the 72-hour request period or pending receipt of the split specimen test result.
 
 (c) *Substance Abuse Professional (SAP).* The SAP must perform the functions set forth in 49 CFR part 40, subpart O.
 

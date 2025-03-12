@@ -38,7 +38,7 @@
 
 (A) To calculate whether you have met the annual minimum percentage rate, count all random screening test results below 0.02 breath alcohol concentration, random screening test results of 0.02 or greater breath alcohol concentration, and random refusals as your “random alcohol screening test results.”
 
-(B) To calculate the average number of safety-sensitive employees eligible for random testing throughout the year, add the total number of safety-sensitive employees eligible for testing during each random testing period for the year and divide that total by the number of random testing periods. Only safety-sensitive employees are to be in an employer's random testing pool, and all safety-sensitive employees must be in the random pool. If you are an employer conducting random testing more often than once per month (*e.g.*, you select daily, weekly, bi-weekly) you do not need to compute this total number of safety-sensitive employees more than on a once per month basis.
+(B) To calculate the average number of safety-sensitive employees eligible for random testing throughout the year, add the total number of safety-sensitive employees eligible for testing during each random testing period for the year and divide that total by the number of random testing periods. Only safety-sensitive employees are to be in an employer's random testing pool, and all safety-sensitive employees must be in the random pool. If you are an employer conducting random testing more often than once per month (e.g., you select daily, weekly, bi-weekly) you do not need to compute this total number of safety-sensitive employees more than on a once per month basis.
 
 (ii) As an employer, you may use a service agent to perform random selections for you, and your safety-sensitive employees may be part of a larger random testing pool of safety-sensitive employees. However, you must ensure that the service agent you use is testing at the appropriate percentage established for your industry and that only safety-sensitive employees are in the random testing pool. For example:
 
@@ -56,7 +56,7 @@
 
 (10) If a given covered employee is subject to random alcohol testing under the alcohol testing rules of more than one DOT agency, the employee shall be subject to random alcohol testing at the percentage rate established for the calendar year by the DOT agency regulating more than 50 percent of the employee's functions.
 
-(11) If an employer is required to conduct random alcohol testing under the alcohol testing rules of more than one DOT agency, the employer may -
+(11) If an employer is required to conduct random alcohol testing under the alcohol testing rules of more than one DOT agency, the employer may—
 
 (i) Establish separate pools for random selection, with each pool containing the covered employees who are subject to testing at the same required rate; or
 
