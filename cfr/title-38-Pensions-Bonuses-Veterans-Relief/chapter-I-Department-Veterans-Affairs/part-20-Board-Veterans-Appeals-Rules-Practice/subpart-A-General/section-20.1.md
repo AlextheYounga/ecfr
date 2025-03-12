@@ -1,5 +1,7 @@
 ##### § 20.1 Rule 1. Purpose and construction of Rules of Practice. #####
 
+Link to an amendment published at 84 FR 179, Jan. 18, 2019.
+
 (a) *Purpose.* These rules establish the practices and procedures governing appeals to the Board of Veterans' Appeals.
 
 (Authority: 38 U.S.C. 501(a), 7102, 7104)

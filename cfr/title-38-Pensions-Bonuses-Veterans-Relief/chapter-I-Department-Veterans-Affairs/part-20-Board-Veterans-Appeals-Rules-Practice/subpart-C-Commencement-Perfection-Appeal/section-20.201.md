@@ -1,5 +1,7 @@
 ##### § 20.201 Rule 201. Notice of Disagreement. #####
 
+Link to an amendment published at 84 FR 177, Jan. 18, 2019.Link to an amendment published at 84 FR 178, Jan. 18, 2019.
+
 (a) Cases in which a form is provided by the agency of original jurisdiction for the purpose of initiating an appeal.
 
 (1) *Format.* For every case in which the agency of original jurisdiction (AOJ) provides, in connection with its decision, a form for the purpose of initiating an appeal, a Notice of Disagreement consists of a completed and timely submitted copy of that form. VA will not accept as a notice of disagreement an expression of dissatisfaction or disagreement with an adjudicative determination by the agency of original jurisdiction and a desire to contest the result that is submitted in any other format, including on a different VA form.

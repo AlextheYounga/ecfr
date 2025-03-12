@@ -1,5 +1,7 @@
 ##### § 20.717 Rule 717. Loss of hearing tapes or transcripts - motion for new hearing. #####
 
+Link to an amendment published at 84 FR 188, Jan. 18, 2019.
+
 (a) *Motion for new hearing.* In the event that a hearing has not been recorded in whole or in part due to equipment failure or other cause, or the official transcript of the hearing is lost or destroyed and the recording upon which it was based is no longer available, an appellant or his or her representative may move for a new hearing. The motion must be in writing and must specify why prejudice would result from the failure to provide a new hearing.
 
 (b) *Time limit for filing motion for a new hearing.* The motion will not be granted if there has been no request for a new hearing within a period of 120 days from the date of a final Board of Veterans' Appeals decision or, in cases appealed to the United States Court of Appeals for Veterans Claims, if there has been no request for a new hearing within a reasonable period of time after the appeal to that Court has been filed.

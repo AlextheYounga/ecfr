@@ -1,5 +1,7 @@
 ##### § 3.159 Department of Veterans Affairs assistance in developing claims. #####
 
+Link to an amendment published at 84 FR 169, Jan. 18, 2019.
+
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 (1) *Competent medical evidence* means evidence provided by a person who is qualified through education, training, or experience to offer medical diagnoses, statements, or opinions. Competent medical evidence may also mean statements conveying sound medical principles found in medical treatises. It would also include statements contained in authoritative writings such as medical and scientific articles and research reports or analyses.

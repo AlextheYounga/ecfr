@@ -1,5 +1,7 @@
 ##### § 20.705 Rule 705. Where hearings are conducted. #####
 
+Link to an amendment published at 84 FR 186, Jan. 18, 2019.
+
 A hearing on appeal before the Board of Veterans' Appeals may be held in one of the following places at the option of the appellant:
 
 (a) In Washington, DC, or

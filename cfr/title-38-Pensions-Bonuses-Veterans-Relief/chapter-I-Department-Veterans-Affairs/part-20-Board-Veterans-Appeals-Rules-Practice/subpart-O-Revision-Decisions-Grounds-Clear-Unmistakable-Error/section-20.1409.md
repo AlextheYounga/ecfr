@@ -1,5 +1,7 @@
 ##### § 20.1409 Rule 1409. Finality and appeal. #####
 
+Link to an amendment published at 84 FR 193, Jan. 18, 2019.
+
 (a) A decision on a motion filed by a party or initiated by the Board pursuant to this subpart will be stamped with the date of mailing on the face of the decision, and is final on such date. The party and his or her representative, if any, will be provided with copies of the decision.
 
 (b) For purposes of this section, a dismissal without prejudice under Rule 1404(a)(§ 20.1404(a) of this part), Rule 1404(b)(§ 20.1404(b)), or Rule 1404(f)(§ 20.1404(f)), or a referral under Rule 1405(e) is not a final decision of the Board.

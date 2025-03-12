@@ -1,5 +1,7 @@
 ##### § 3.103 Procedural due process and appellate rights. #####
 
+Link to an amendment published at 84 FR 166, Jan. 18, 2019.
+
 (a) *Statement of policy.* Every claimant has the right to written notice of the decision made on his or her claim, the right to a hearing, and the right of representation. Proceedings before VA are ex parte in nature, and it is the obligation of VA to assist a claimant in developing the facts pertinent to the claim and to render a decision which grants every benefit that can be supported in law while protecting the interests of the Government. The provisions of this section apply to all claims for benefits and relief, and decisions thereon, within the purview of this part 3.
 
 (b) *The right to notice* - (1) *General.* Claimants and their representatives are entitled to notice of any decision made by VA affecting the payment of benefits or the granting of relief. Such notice shall clearly set forth the decision made, any applicable effective date, the reason(s) for the decision, the right to a hearing on any issue involved in the claim, the right of representation and the right, as well as the necessary procedures and time limits, to initiate an appeal of the decision.

@@ -1,5 +1,7 @@
 ##### § 19.26 Action by agency of original jurisdiction on Notice of Disagreement. #####
 
+Link to an amendment published at 84 FR 178, Jan. 18, 2019.
+
 (a) *Initial action.* When a timely Notice of Disagreement (NOD) is filed, the agency of original jurisdiction (AOJ) must reexamine the claim and determine whether additional review or development is warranted.
 
 (b) *Unclear communication or disagreement.* If within one year after mailing an adverse decision (or 60 days for simultaneously contested claims), the AOJ receives a written communication expressing dissatisfaction or disagreement with the adverse decision, but the AOJ cannot clearly identify that communication as expressing an intent to appeal, or the AOJ cannot identify which denied claim(s) the claimant wants to appeal, then the AOJ will contact the claimant to request clarification of the claimant's intent. This contact may be either oral or written.

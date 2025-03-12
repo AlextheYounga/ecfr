@@ -1,5 +1,7 @@
 ##### § 21.420 Informing the veteran. #####
 
+Link to an amendment published at 84 FR 193, Jan. 18, 2019.
+
 (a) *General.* VA will inform a veteran in writing of findings affecting receipt of benefits and services under Chapter 31. This includes veterans:
 
 (1) Requesting benefits and services; or

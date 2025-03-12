@@ -1,5 +1,7 @@
 ##### § 20.501 Rule 501. Time limits for filing Notice of Disagreement, Substantive Appeal, and response to Supplemental Statement of the Case in simultaneously contested claims. #####
 
+Link to an amendment published at 84 FR 183, Jan. 18, 2019.
+
 (a) *Notice of Disagreement.* In simultaneously contested claims, the Notice of Disagreement from the person adversely affected must be filed within 60 days from the date of mailing of the notification of the determination to him or her; otherwise, that determination will become final. The date of mailing of the letter of notification will be presumed to be the same as the date of that letter for purposes of determining whether a Notice of Disagreement has been timely filed.
 
 (Authority: 38 U.S.C. 7105A(a))

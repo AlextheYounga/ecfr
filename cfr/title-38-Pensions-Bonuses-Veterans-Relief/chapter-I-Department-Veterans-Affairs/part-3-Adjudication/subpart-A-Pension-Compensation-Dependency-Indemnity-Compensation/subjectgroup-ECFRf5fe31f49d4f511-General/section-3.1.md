@@ -1,5 +1,7 @@
 ##### § 3.1 Definitions. #####
 
+Link to an amendment published at 84 FR 166, Jan. 18, 2019.
+
 (a) *Armed Forces* means the United States Army, Navy, Marine Corps, Air Force, and Coast Guard, including their Reserve components.
 
 (b) *Reserve component* means the Army, Naval, Marine Corps, Air Force, and Coast Guard Reserves and the National and Air National Guard of the United States.

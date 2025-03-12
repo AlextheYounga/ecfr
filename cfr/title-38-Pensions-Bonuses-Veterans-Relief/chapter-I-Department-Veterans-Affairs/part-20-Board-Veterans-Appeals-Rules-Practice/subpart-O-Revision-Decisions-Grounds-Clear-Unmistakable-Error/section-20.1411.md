@@ -1,5 +1,7 @@
 ##### § 20.1411 Rule 1411. Relationship to other statutes. #####
 
+Link to an amendment published at 84 FR 193, Jan. 18, 2019.
+
 (a) The “benefit of the doubt” rule of 38 U.S.C. 5107(b) does not apply to the Board's decision, on a motion under this subpart, as to whether there was clear and unmistakable error in a prior Board decision.
 
 (b) A motion under this subpart is not a claim subject to reopening under 38 U.S.C. 5108 (relating to reopening claims on the grounds of new and material evidence).

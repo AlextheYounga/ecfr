@@ -1,5 +1,7 @@
 ##### § 20.901 Rule 901. Medical opinions and opinions of the General Counsel. #####
 
+Link to an amendment published at 84 FR 188, Jan. 18, 2019.Link to an amendment published at 84 FR 190, Jan. 18, 2019.
+
 (a) *Opinion from the Veterans Health Administration.* The Board may obtain a medical opinion from an appropriate health care professional in the Veterans Health Administration of the Department of Veterans Affairs on medical questions involved in the consideration of an appeal when, in its judgment, such medical expertise is needed for equitable disposition of an appeal.
 
 (Authority: 38 U.S.C. 5103A(d), 7109)

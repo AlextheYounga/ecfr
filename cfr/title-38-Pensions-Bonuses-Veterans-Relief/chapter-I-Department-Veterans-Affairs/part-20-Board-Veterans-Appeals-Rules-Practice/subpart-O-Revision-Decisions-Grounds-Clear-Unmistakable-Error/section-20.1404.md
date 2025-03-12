@@ -1,5 +1,7 @@
 ##### § 20.1404 Rule 1404. Filing and pleading requirements; withdrawal. #####
 
+Link to an amendment published at 84 FR 192, Jan. 18, 2019.
+
 (a) *General.* A motion for revision of a decision based on clear and unmistakable error must be in writing, and must be signed by the moving party or that party's representative. The motion must include the name of the veteran; the name of the moving party if other than the veteran; the applicable Department of Veterans Affairs file number; and the date of the Board of Veterans' Appeals decision to which the motion relates. If the applicable decision involved more than one issue on appeal, the motion must identify the specific issue, or issues, to which the motion pertains. Motions which fail to comply with the requirements set forth in this paragraph shall be dismissed without prejudice to refiling under this subpart.
 
 (b) *Specific allegations required.* The motion must set forth clearly and specifically the alleged clear and unmistakable error, or errors, of fact or law in the Board decision, the legal or factual basis for such allegations, and why the result would have been manifestly different but for the alleged error. Non-specific allegations of failure to follow regulations or failure to give due process, or any other general, non-specific allegations of error, are insufficient to satisfy the requirement of the previous sentence. Motions which fail to comply with the requirements set forth in this paragraph shall be dismissed without prejudice to refiling under this subpart.

@@ -1,5 +1,7 @@
 ##### § 19.9 Remand or referral for further action. #####
 
+Link to an amendment published at 84 FR 177, Jan. 18, 2019.
+
 (a) *Remand.* If further evidence, clarification of the evidence, correction of a procedural defect, or any other action is essential for a proper appellate decision, a Veterans Law Judge or panel of Veterans Law Judges shall remand the case to the agency of original jurisdiction, specifying the action to be undertaken.
 
 (b) *Referral.* The Board shall refer to the agency of original jurisdiction for appropriate consideration and handling in the first instance all claims reasonably raised by the record that have not been initially adjudicated by the agency of original jurisdiction, except for claims over which the Board has original jurisdiction.

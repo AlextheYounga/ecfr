@@ -1,5 +1,7 @@
 ##### § 3.104 Finality of decisions. #####
 
+Link to an amendment published at 84 FR 167, Jan. 18, 2019.
+
 (a) A decision of a duly constituted rating agency or other agency of original jurisdiction shall be final and binding on all field offices of the Department of Veterans Affairs as to conclusions based on the evidence on file at the time VA issues written notification in accordance with 38 U.S.C. 5104. A final and binding agency decision shall not be subject to revision on the same factual basis except by duly constituted appellate authorities or except as provided in § 3.105 and § 3.2600 of this part.
 
 (b) Current determinations of line of duty, character of discharge, relationship, dependency, domestic relations questions, homicide, and findings of fact of death or presumptions of death made in accordance with existing instructions, and by application of the same criteria and based on the same facts, by either an Adjudication activity or an Insurance activity are binding one upon the other in the absence of clear and unmistakable error.

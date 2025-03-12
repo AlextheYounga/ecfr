@@ -1,5 +1,7 @@
 ##### § 20.302 Rule 302. Time limit for filing Notice of Disagreement, Substantive Appeal, and response to Supplemental Statement of the Case. #####
 
+Link to an amendment published at 84 FR 177, Jan. 18, 2019.Link to an amendment published at 84 FR 179, Jan. 18, 2019.
+
 (a) *Notice of Disagreement.* Except in the case of simultaneously contested claims, a claimant, or his or her representative, must file a Notice of Disagreement with a determination by the agency of original jurisdiction within one year from the date that that agency mails notice of the determination to him or her. Otherwise, that determination will become final. The date of mailing the letter of notification of the determination will be presumed to be the same as the date of that letter for purposes of determining whether an appeal has been timely filed.
 
 (Authority: 38 U.S.C. 7105(b)(1))

@@ -1,5 +1,7 @@
 ##### § 19.51 Officials authorized to file administrative appeals and time limits for filing. #####
 
+Link to an amendment published at 84 FR 177, Jan. 18, 2019.
+
 The Secretary of Veterans Affairs authorizes certain officials of the Department of Veterans Affairs to file administrative appeals within specified time limits, as follows:
 
 (a) *Central Office* - (1) *Officials.* The Under Secretary for Benefits or a service director of the Veterans Benefits Administration, the Under Secretary for Health or a service director of the Veterans Health Administration, and the General Counsel.

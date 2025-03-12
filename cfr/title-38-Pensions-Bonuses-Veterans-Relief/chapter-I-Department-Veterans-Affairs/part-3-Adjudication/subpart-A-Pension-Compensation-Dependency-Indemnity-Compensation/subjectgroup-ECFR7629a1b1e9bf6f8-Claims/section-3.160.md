@@ -1,5 +1,7 @@
 ##### § 3.160 Status of claims. #####
 
+Link to an amendment published at 84 FR 170, Jan. 18, 2019.
+
 (a) *Complete claim.* A submission of an application form prescribed by the Secretary, whether paper or electronic, that meets the following requirements:
 
 (1) A complete claim must provide the name of the claimant; the relationship to the veteran, if applicable; and sufficient service information for VA to verify the claimed service, if applicable.

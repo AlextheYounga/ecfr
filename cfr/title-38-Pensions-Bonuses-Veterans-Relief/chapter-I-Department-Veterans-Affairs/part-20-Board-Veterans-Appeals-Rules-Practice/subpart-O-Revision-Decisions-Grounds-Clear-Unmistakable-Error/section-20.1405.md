@@ -1,5 +1,7 @@
 ##### § 20.1405 Rule 1405. Disposition. #####
 
+Link to an amendment published at 84 FR 192, Jan. 18, 2019.
+
 (a) *Docketing and assignment; notification of representative* - (1) *General.* Motions under this subpart will be docketed in the order received and will be assigned in accordance with § 19.3 of this title (relating to assignment of proceedings). Where an appeal is pending on the same underlying issue at the time the motion is received, the motion and the appeal may be consolidated under the same docket number and disposed of as part of the same proceeding. A motion may not be assigned to any Member who participated in the decision that is the subject of the motion. If a motion is assigned to a panel, the decision will be by a majority vote of the panel Members.
 
 (2) *Advancement on the docket.* A motion may be advanced on the docket subject to the same substantive and procedural requirements as those applicable to an appeal under Rule 900(c) (§ 20.900(c) of this part).

@@ -1,5 +1,7 @@
 ##### § 3.31 Commencement of the period of payment. #####
 
+Link to an amendment published at 84 FR 166, Jan. 18, 2019.
+
 Regardless of VA regulations concerning effective dates of awards, and except as provided in paragraph (c) of this section, payment of monetary benefits based on original, reopened, or increased awards of compensation, pension, dependency and indemnity compensation, or a monetary allowance under 38 U.S.C. chapter 18 for an individual who is a child of a Vietnam veteran or a child of a veteran with covered service in Korea may not be made for any period prior to the first day of the calendar month following the month in which the award became effective. However, beneficiaries will be deemed to be in receipt of monetary benefits during the period between the effective date of the award and the date payment commences for the purpose of all laws administered by the Department of Veterans Affairs except that nothing in this section will be construed as preventing the receipt of retired or retirement pay prior to the effective date of waiver of such pay in accordance with 38 U.S.C. 5305.
 
 (a) *Increased award defined.* For the purposes of this section the term *increased award* means an award which is increased because of an added dependent, increase in disability or disability rating, or reduction in income. The term also includes elections of improved pension under section 306 of Pub. L. 95-588 and awards pursuant to paragraphs 29 and 30 of the Schedule for Rating Disabilities except as provided in paragraph (c) of this section.

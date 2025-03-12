@@ -1,5 +1,7 @@
 ##### § 21.282 Effective date of induction into a rehabilitation program; retroactive induction. #####
 
+Link to an amendment published at 84 FR 193, Jan. 18, 2019.
+
 (a) *Entering a rehabilitation program.* The effective date of induction into a rehabilitation program is governed by the provisions of §§ 21.320 through 21.334, except as provided in this section.
 
 (Authority: 38 U.S.C. 3108, 5113)

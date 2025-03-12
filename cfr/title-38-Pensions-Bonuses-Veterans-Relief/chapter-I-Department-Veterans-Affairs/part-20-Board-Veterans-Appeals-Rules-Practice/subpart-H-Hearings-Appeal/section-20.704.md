@@ -1,5 +1,7 @@
 ##### § 20.704 Rule 704. Scheduling and notice of hearings conducted by the Board of Veterans' Appeals at Department of Veterans Affairs field facilities. #####
 
+Link to an amendment published at 84 FR 184, Jan. 18, 2019.
+
 (a) *General.* Hearings are conducted by a Member or Members of the Board of Veterans' Appeals during prescheduled visits to Department of Veterans Affairs facilities having adequate physical resources and personnel for the support of such hearings. Subject to paragraph (f) of this section, the hearings will be scheduled in the order specified in § 19.75 of this chapter. Requests for such hearings must be submitted to the agency of original jurisdiction, in writing, and should not be submitted directly to the Board of Veterans' Appeals.
 
 (b) *Notification of hearing.* When a hearing is scheduled, the person requesting it will be notified of its time and place, and of the fact that the Government may not assume any expense incurred by the appellant, the representative or witnesses attending the hearing.

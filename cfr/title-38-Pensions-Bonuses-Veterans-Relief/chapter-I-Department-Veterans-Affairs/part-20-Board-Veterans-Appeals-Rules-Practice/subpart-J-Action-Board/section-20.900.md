@@ -1,5 +1,7 @@
 ##### § 20.900 Rule 900. Order of consideration of appeals. #####
 
+Link to an amendment published at 84 FR 190, Jan. 18, 2019.
+
 (a) *Docketing of appeals.* Applications for review on appeal are docketed in the order in which they are received.
 
 (1) A case returned to the Board following action pursuant to a remand assumes its original place on the docket.

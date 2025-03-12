@@ -1,5 +1,7 @@
 ##### § 8.30 Appeal to Board of Veterans Appeals. #####
 
+Link to an amendment published at 84 FR 173, Jan. 18, 2019.
+
 (a) The provisions of Part 19 of this chapter will be followed in connection with appeals to the Board of Veterans Appeals involving questions pertaining to the denial of applications for insurance, total disability income provision, or reinstatement; disallowance of claims for insurance benefits; and decisions holding fraud or imposing forfeiture. Notice to the applicant or claimant and his representative, if any, of the right to appeal will be sent by the insurance activity having jurisdiction over the case, at time action of denial, disallowance, or forfeiture is taken.
 
 (b) When an appeal to the Board of Veterans Appeals is initiated by a notice of disagreement, any unpaid premiums, normally due under the policy from effective date of issue or reinstatement (as appropriate), will become an interest-bearing lien, enforceable as a legal debt due the United States and subject to all available collection procedures in the event of favorable action by the Board.

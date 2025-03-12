@@ -1,5 +1,7 @@
 ##### § 21.430 Accountability for authorization and payment of training and rehabilitation services. #####
 
+Link to an amendment published at 84 FR 194, Jan. 18, 2019.
+
 (a) *General.* VA shall maintain policies and procedures which provide accountability in the authorization and payment of program costs for training and rehabilitation services. The procedures established under this section are applicable to all program costs except subsistence allowance (or the optional allowance at Chapter 34 rates). Policies and procedures governing payment of subsistence allowance are governed by §§ 21.260 through 21.276, and §§ 21.320 through 21.334.
 
 (b) *Determining necessary costs for training and rehabilitation services.* The estimates of program costs during a calendar year or lesser period shall be based upon the services necessary to carry out the veteran's rehabilitation plan during that period (§§ 21.80 through 21.98). The estimates will be developed by the VBA case manager. If additional approval is required, the VBA case manager shall secure such additional approval prior to authorization of services.

@@ -1,5 +1,7 @@
 ##### § 3.156 New and material evidence. #####
 
+Link to an amendment published at 84 FR 169, Jan. 18, 2019.
+
 (a) *General.* A claimant may reopen a finally adjudicated claim by submitting new and material evidence. New evidence means existing evidence not previously submitted to agency decisionmakers. Material evidence means existing evidence that, by itself or when considered with previous evidence of record, relates to an unestablished fact necessary to substantiate the claim. New and material evidence can be neither cumulative nor redundant of the evidence of record at the time of the last prior final denial of the claim sought to be reopened, and must raise a reasonable possibility of substantiating the claim.
 
 (Authority: 38 U.S.C. 501, 5103A(f), 5108)

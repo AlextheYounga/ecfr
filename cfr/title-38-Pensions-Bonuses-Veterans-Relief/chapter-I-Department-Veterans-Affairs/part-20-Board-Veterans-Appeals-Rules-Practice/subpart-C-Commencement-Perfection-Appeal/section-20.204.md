@@ -1,5 +1,7 @@
 ##### § 20.204 Rule 204. Withdrawal of Appeal. #####
 
+Link to an amendment published at 84 FR 177, Jan. 18, 2019.Link to an amendment published at 84 FR 179, Jan. 18, 2019.
+
 (a) *When and by whom filed.* Only an appellant, or an appellant's authorized representative, may withdraw an appeal. An appeal may be withdrawn as to any or all issues involved in the appeal.
 
 (b) *Filing* - (1) *Form and content.* Except for appeals withdrawn on the record at a hearing, appeal withdrawals must be in writing. They must include the name of the veteran, the name of the claimant or appellant if other than the veteran (e.g., a veteran's survivor, a guardian, or a fiduciary appointed to receive VA benefits on an individual's behalf), the applicable Department of Veterans Affairs file number, and a statement that the appeal is withdrawn. If the appeal involves multiple issues, the withdrawal must specify that the appeal is withdrawn in its entirety, or list the issue(s) withdrawn from the appeal.

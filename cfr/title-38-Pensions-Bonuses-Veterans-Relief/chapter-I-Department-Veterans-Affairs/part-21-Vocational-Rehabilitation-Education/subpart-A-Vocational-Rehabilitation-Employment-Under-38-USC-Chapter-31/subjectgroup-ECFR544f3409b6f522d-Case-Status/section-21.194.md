@@ -1,5 +1,7 @@
 ##### § 21.194 “Employment services” status. #####
 
+Link to an amendment published at 84 FR 193, Jan. 18, 2019.
+
 (a) *Purpose.* The status *employment services* serves to:
 
 (1) Identify veterans who are being furnished employment services; and

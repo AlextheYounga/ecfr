@@ -1,5 +1,7 @@
 ##### § 20.1301 Rule 1301. Disclosure of information. #####
 
+Link to an amendment published at 84 FR 191, Jan. 18, 2019.
+
 (a) *Policy.* It is the policy of the Board of Veterans' Appeals for the full text of appellate decisions, Statements of the Case, and Supplemental Statements of the Case to be disclosed to appellants. In those situations where disclosing certain information directly to the appellant would not be in conformance with 38 U.S.C. 5701, that information will be removed from the decision, Statement of the Case, or Supplemental Statement of the Case and the remaining text will be furnished to the appellant. A full-text appellate decision, Statement of the Case, or Supplemental Statement of the Case will be disclosed to the designated representative, however, unless the relationship between the appellant and representative is such (for example, a parent or spouse) that disclosure to the representative would be as harmful as if made to the appellant.
 
 (Authority: 38 U.S.C. 7105(d)(2))

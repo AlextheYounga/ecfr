@@ -1,5 +1,7 @@
 ##### § 21.190 “Rehabilitation to the point of employability” status. #####
 
+Link to an amendment published at 84 FR 193, Jan. 18, 2019.
+
 (a) *Purpose.* The *rehabilitation to the point of employability* status serves to:
 
 (1) Identify veterans who receive training and rehabilitation services to enable them to attain a vocational goal; and

@@ -1,5 +1,7 @@
 ##### § 20.1001 Rule 1001. Filing and disposition of motion for reconsideration. #####
 
+Link to an amendment published at 84 FR 190, Jan. 18, 2019.Link to an amendment published at 84 FR 191, Jan. 18, 2019.
+
 (a) *Application requirements.* A motion for Reconsideration must be in writing and must include the name of the veteran; the name of the claimant or appellant if other than the veteran (e.g., a veteran's survivor, a guardian, or a fiduciary appointed to receive VA benefits on an individual's behalf); the applicable Department of Veterans Affairs file number; and the date of the Board of Veterans' Appeals decision, or decisions, to be reconsidered. It must also set forth clearly and specifically the alleged obvious error, or errors, of fact or law in the applicable decision, or decisions, of the Board or other appropriate basis for requesting Reconsideration. If the applicable Board of Veterans' Appeals decision, or decisions, involved more than one issue on appeal, the motion for reconsideration must identify the specific issue, or issues, to which the motion pertains. Issues not so identified will not be considered in the disposition of the motion.
 
 (b) *Filing of motion for reconsideration.* A motion for reconsideration of a prior Board of Veterans' Appeals decision may be filed at any time. Such motions must be filed at the following address: Director, Office of Management, Planning and Analysis (014), Board of Veterans' Appeals, P.O. Box 27063, Washington, DC 20038.

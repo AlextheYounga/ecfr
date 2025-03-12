@@ -1,5 +1,7 @@
 ##### § 3.155 How to file a claim. #####
 
+Link to an amendment published at 84 FR 168, Jan. 18, 2019.
+
 The following paragraphs describe the manner and methods in which a claim can be initiated and filed. The provisions of this section are applicable to all claims governed by part 3.
 
 (a) *Request for an application for benefits.* A claimant, his or her duly authorized representative, a Member of Congress, or some person acting as next friend of a claimant who is not of full age or capacity, who indicates a desire to file for benefits under the laws administered by VA, by a communication or action, to include an electronic mail that is transmitted through VA's electronic portal or otherwise, that does not meet the standards of a complete claim is considered a request for an application form for benefits under § 3.150(a). Upon receipt of such a communication or action, the Secretary shall notify the claimant and the claimant's representative, if any, of the information necessary to complete the application form or form prescribed by the Secretary.

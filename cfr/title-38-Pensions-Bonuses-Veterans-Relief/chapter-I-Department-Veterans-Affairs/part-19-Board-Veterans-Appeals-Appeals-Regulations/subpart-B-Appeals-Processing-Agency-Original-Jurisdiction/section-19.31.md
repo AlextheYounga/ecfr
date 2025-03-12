@@ -1,5 +1,7 @@
 ##### § 19.31 Supplemental statement of the case. #####
 
+Link to an amendment published at 84 FR 178, Jan. 18, 2019.
+
 (a) *Purpose and limitations.* A “Supplemental Statement of the Case,” so identified, is a document prepared by the agency of original jurisdiction to inform the appellant of any material changes in, or additions to, the information included in the Statement of the Case or any prior Supplemental Statement of the Case. In no case will a Supplemental Statement of the Case be used to announce decisions by the agency of original jurisdiction on issues not previously addressed in the Statement of the Case, or to respond to a notice of disagreement on newly appealed issues that were not addressed in the Statement of the Case. The agency of original jurisdiction will respond to notices of disagreement on newly appealed issues not addressed in the Statement of the Case using the procedures in §§ 19.29 and 19.30 of this part (relating to statements of the case).
 
 (b) *When furnished.* The agency of original jurisdiction will furnish the appellant and his or her representative, if any, a Supplemental Statement of the Case if:

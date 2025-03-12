@@ -1,5 +1,7 @@
 ##### § 14.633 Termination of accreditation or authority to provide representation under § 14.630. #####
 
+Link to an amendment published at 84 FR 174, Jan. 18, 2019.
+
 (a) Accreditation or authority to provide representation on a particular claim under § 14.630 may be suspended or canceled at the request of an organization, individual providing representation under § 14.630, representative, agent, or attorney. When an organization requests suspension or cancellation of the accreditation of a representative due to misconduct or lack of competence on the part of the representative or because the representative resigned to avoid suspension or cancellation of accreditation for misconduct or lack of competence, the organization shall inform VA of the reason for the request for suspension or cancellation and the facts and circumstances surrounding any incident that led to the request.
 
 (b) Accreditation shall be canceled at such time as a determination is made by the General Counsel that any requirement of § 14.629 is no longer met by a representative, agent, or attorney.

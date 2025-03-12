@@ -1,5 +1,7 @@
 ##### § 3.815 Monetary allowance under 38 U.S.C. chapter 18 for an individual with disability from covered birth defects whose biological mother is or was a Vietnam veteran; identification of covered birth defects. #####
 
+Link to an amendment published at 84 FR 171, Jan. 18, 2019.
+
 (a) *Monthly monetary allowance* - (1) *General.* VA will pay a monthly monetary allowance under subchapter II of 38 U.S.C. chapter 18 to or for an individual whose biological mother is or was a Vietnam veteran and who VA has determined to have disability resulting from one or more covered birth defects. Except as provided in paragraph (a)(3) of this section, the amount of the monetary allowance paid will be based upon the level of such disability suffered by the individual, as determined in accordance with the provisions of paragraph (e) of this section.
 
 (2) *Affirmative evidence of cause other than mother's service during Vietnam era.* No monetary allowance will be provided under this section based on a particular birth defect of an individual in any case where affirmative evidence establishes that the birth defect results from a cause other than the active military, naval, or air service of the individual's mother during the Vietnam era and, in determining the level of disability for an individual with more than one birth defect, the particular defect resulting from other causes will be excluded from consideration. This will not prevent VA from paying a monetary allowance under this section for other birth defects.

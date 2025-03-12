@@ -1,5 +1,7 @@
 ##### § 20.101 Rule 101. Jurisdiction of the Board. #####
 
+Link to an amendment published at 84 FR 177, Jan. 18, 2019.Link to an amendment published at 84 FR 180, Jan. 18, 2019.
+
 (a) *General.* All questions of law and fact necessary to a decision by the Secretary of Veterans Affairs under a law that affects the provision of benefits by the Secretary to veterans or their dependents or survivors are subject to review on appeal to the Secretary. Decisions in such appeals are made by the Board of Veterans' Appeals. In its decisions, the Board is bound by applicable statutes, the regulations of the Department of Veterans Affairs and precedent opinions of the General Counsel of the Department of Veterans Affairs. Examples of the issues over which the Board has jurisdiction include, but are not limited to, the following:
 
 (1) Entitlement to, and benefits resulting from, service-connected disability or death (38 U.S.C. chapter 11).

@@ -1,5 +1,7 @@
 ##### § 19.12 Disqualification of Members. #####
 
+Link to an amendment published at 84 FR 177, Jan. 18, 2019.
+
 (a) *General.* A Member of the Board will disqualify himself or herself in a hearing or decision on an appeal if that appeal involves a determination in which he or she participated or had supervisory responsibility in the agency of original jurisdiction prior to his or her appointment as a Member of the Board, or where there are other circumstances which might give the impression of bias either for or against the appellant.
 
 (Authority: 38 U.S.C. 7102, 7104)

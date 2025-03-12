@@ -1,5 +1,7 @@
 ##### § 14.637 Payment of the expenses of agents and attorneys in proceedings before Agencies of Original Jurisdiction and before the Board of Veterans' Appeals. #####
 
+Link to an amendment published at 84 FR 176, Jan. 18, 2019.
+
 (a) *Applicability of rule.* The provisions of this section apply to the services of accredited agents and attorneys with respect to benefits under laws administered by VA in all proceedings before the agency of original jurisdiction or before the Board of Veterans' Appeals regardless of whether an appeal has been initiated.
 
 (b) *General.* Any agent or attorney may be reimbursed for expenses incurred on behalf of a veteran or a veteran's dependents or survivors in the prosecution of a claim for benefits pending before VA. Whether such an agent or attorney will be reimbursed for expenses and the method of such reimbursement is a matter to be determined by the agent or attorney and the claimant or appellant in the fee agreement filed with the Office of the General Counsel or the agency of original jurisdiction under § 14.636 of this part. Expenses are not payable directly to the agent or attorney by VA out of benefits determined to be due to a claimant or appellant.

@@ -1,5 +1,7 @@
 ##### § 14.631 Powers of attorney; disclosure of claimant information. #####
 
+Link to an amendment published at 84 FR 174, Jan. 18, 2019.
+
 (a) A power of attorney, executed on either VA Form 21-22, “Appointment of Veterans Service Organization as Claimant's Representative,” or VA Form 21-22a, “Appointment of Attorney or Agent as Claimant's Representative,” is required to represent a claimant before VA and to authorize VA's disclosure of information to any person or organization representing a claimant before the Department. Without the signature of a person providing representation for a particular claim under § 14.630 of this part or an accredited veterans service organization representative, agent, or attorney, the appointment is invalid, and the person appointed to provide representation is under no obligation to do so. The power of attorney shall meet the following requirements:
 
 (1) Contain signature by:

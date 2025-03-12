@@ -1,5 +1,7 @@
 ##### § 20.1403 Rule 1403. What constitutes clear and unmistakable error; what does not. #####
 
+Link to an amendment published at 84 FR 192, Jan. 18, 2019.
+
 (a) *General.* Clear and unmistakable error is a very specific and rare kind of error. It is the kind of error, of fact or of law, that when called to the attention of later reviewers compels the conclusion, to which reasonable minds could not differ, that the result would have been manifestly different but for the error. Generally, either the correct facts, as they were known at the time, were not before the Board, or the statutory and regulatory provisions extant at the time were incorrectly applied.
 
 (b) *Record to be reviewed* - (1) *General.* Review for clear and unmistakable error in a prior Board decision must be based on the record and the law that existed when that decision was made.

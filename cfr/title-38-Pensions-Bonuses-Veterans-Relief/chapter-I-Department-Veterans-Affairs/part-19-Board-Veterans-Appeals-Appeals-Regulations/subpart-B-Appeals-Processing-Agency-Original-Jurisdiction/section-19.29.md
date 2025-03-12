@@ -1,5 +1,7 @@
 ##### § 19.29 Statement of the Case. #####
 
+Link to an amendment published at 84 FR 178, Jan. 18, 2019.
+
 The Statement of the Case must be complete enough to allow the appellant to present written and/or oral arguments before the Board of Veterans' Appeals. It must contain:
 
 (a) A summary of the evidence in the case relating to the issue or issues with which the appellant or representative has expressed disagreement;

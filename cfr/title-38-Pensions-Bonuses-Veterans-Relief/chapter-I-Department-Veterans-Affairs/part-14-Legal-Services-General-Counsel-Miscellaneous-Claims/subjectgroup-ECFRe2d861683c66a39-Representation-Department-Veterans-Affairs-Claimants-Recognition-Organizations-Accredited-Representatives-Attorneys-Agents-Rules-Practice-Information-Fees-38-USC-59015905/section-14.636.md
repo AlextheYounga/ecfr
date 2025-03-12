@@ -1,5 +1,7 @@
 ##### § 14.636 Payment of fees for representation by agents and attorneys in proceedings before Agencies of Original Jurisdiction and before the Board of Veterans' Appeals. #####
 
+Link to an amendment published at 84 FR 175, Jan. 18, 2019.
+
 (a) *Applicability of rule.* The provisions of this section apply to the services of accredited agents and attorneys with respect to benefits under laws administered by VA in all proceedings before the agency of original jurisdiction or before the Board of Veterans' Appeals regardless of whether an appeal has been initiated.
 
 (b) *Who may charge fees for representation.* Only accredited agents and attorneys may receive fees from claimants or appellants for their services provided in connection with representation. Recognized organizations (including their accredited representatives when acting as such) and individuals recognized under § 14.630 of this part are not permitted to receive fees. An agent or attorney who may also be an accredited representative of a recognized organization may not receive such fees unless he or she has been properly designated as an agent or attorney in accordance with § 14.631 of this part in his or her individual capacity as an accredited agent or attorney.

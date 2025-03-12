@@ -1,5 +1,7 @@
 ##### § 20.102 Rule 102. Delegation of authority - Rules of Practice. #####
 
+Link to an amendment published at 84 FR 177, Jan. 18, 2019.
+
 (a) The authority exercised by the Chairman of the Board of Veterans' Appeals described in Rules 717(d) and 1001(c) (§§ 20.717(d) and 20.1001(c) of this part) may also be exercised by the Vice Chairman of the Board and by Deputy Vice Chairmen of the Board.
 
 (b) The authority exercised by the Chairman of the Board of Veterans' Appeals described in Rules 2 and 606(d) (§§ 20.2, and 20.606(d) of this part), may also be exercised by the Vice Chairman of the Board; by Deputy Vice Chairmen of the Board; and, in connection with a proceeding or motion assigned to them by the Chairman, by a Member or Members of the Board.

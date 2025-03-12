@@ -1,5 +1,7 @@
 ##### § 3.158 Abandoned claims. #####
 
+Link to an amendment published at 84 FR 169, Jan. 18, 2019.
+
 (a) *General.* Except as provided in § 3.652 of this part, where evidence requested in connection with an original claim, a claim for increase or to reopen or for the purpose of determining continued entitlement is not furnished within 1 year after the date of request, the claim will be considered abandoned. After the expiration of 1 year, further action will not be taken unless a new claim is received. Should the right to benefits be finally established, pension, compensation, dependency and indemnity compensation, or monetary allowance under the provisions of 38 U.S.C. chapter 18 based on such evidence shall commence not earlier than the date of filing the new claim.
 
 (Authority: 38 U.S.C. 501)

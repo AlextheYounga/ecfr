@@ -1,5 +1,7 @@
 ##### § 21.98 Appeal of disagreement regarding development of, or change in, the plan. #####
 
+Link to an amendment published at 84 FR 193, Jan. 18, 2019.
+
 (a) *General.* The veteran may request a review of a proposed, original, or amended plan when Department of Veterans Affairs staff and the veteran do not reach agreement on the terms and conditions of the plan. A veteran who requests a review of the plan must submit a written statement to the case manager which:
 
 (1) Requests a review of the proposed, original, or amended plan; and

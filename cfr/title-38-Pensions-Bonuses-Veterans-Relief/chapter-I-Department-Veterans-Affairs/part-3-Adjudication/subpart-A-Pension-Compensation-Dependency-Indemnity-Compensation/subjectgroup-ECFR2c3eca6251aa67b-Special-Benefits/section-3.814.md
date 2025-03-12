@@ -1,5 +1,7 @@
 ##### § 3.814 Monetary allowance under 38 U.S.C. chapter 18 for an individual suffering from spina bifida whose biological father or mother is or was a Vietnam veteran or a veteran with covered service in Korea. #####
 
+Link to an amendment published at 84 FR 171, Jan. 18, 2019.
+
 (a) *Monthly monetary allowance.* VA will pay a monthly monetary allowance under subchapter I of 38 U.S.C. chapter 18, based upon the level of disability determined under the provisions of paragraph (d) of this section, to or for a person who VA has determined is an individual suffering from spina bifida whose biological mother or father is or was a Vietnam veteran or a veteran with covered service in Korea. Receipt of this allowance will not affect the right of the individual or any related person to receive any other benefit to which he or she may be entitled under any law administered by VA. An individual suffering from spina bifida is entitled to only one monthly allowance under this section, even if the individual's biological father and mother are or were both Vietnam veterans or veterans with covered service in Korea.
 
 (b) [Reserved]

@@ -1,5 +1,7 @@
 ##### § 3.400 General. #####
 
+Link to an amendment published at 84 FR 170, Jan. 18, 2019.
+
 Except as otherwise provided, the effective date of an evaluation and award of pension, compensation or dependency and indemnity compensation based on an original claim, a claim reopened after final disallowance, or a claim for increase will be the date of receipt of the claim or the date entitlement arose, whichever is the later.
 
 (Authority: 38 U.S.C. 5110(a))

@@ -1,5 +1,7 @@
 ##### § 21.1033 Time limits. #####
 
+Link to an amendment published at 84 FR 194, Jan. 18, 2019.
+
 The provisions of this section are applicable to informal claims and formal claims.
 
 (a) *Failure to furnish form, information, or notice of time limit.* VA's failure to give a claimant or potential claimant any form or information concerning the right to file a claim or to furnish notice of the time limit for the filing of a claim will not extend the time periods allowed for these actions.

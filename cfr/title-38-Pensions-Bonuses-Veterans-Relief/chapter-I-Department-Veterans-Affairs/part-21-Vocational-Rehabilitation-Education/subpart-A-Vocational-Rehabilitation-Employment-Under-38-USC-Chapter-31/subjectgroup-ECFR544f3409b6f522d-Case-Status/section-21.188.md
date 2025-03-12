@@ -1,5 +1,7 @@
 ##### § 21.188 “Extended evaluation” status. #####
 
+Link to an amendment published at 84 FR 193, Jan. 18, 2019.
+
 (a) *Purpose.* The purposes of *extended evaluation* status are to:
 
 (1) Identify a veteran for whom a period of *extended evaluation* is needed; and

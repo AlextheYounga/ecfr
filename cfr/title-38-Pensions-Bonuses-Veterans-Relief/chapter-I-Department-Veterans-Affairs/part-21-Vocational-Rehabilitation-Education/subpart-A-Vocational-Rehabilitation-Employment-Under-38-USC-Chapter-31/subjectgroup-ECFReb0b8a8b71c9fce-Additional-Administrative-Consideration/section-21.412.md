@@ -1,5 +1,7 @@
 ##### § 21.412 Finality of decisions. #####
 
+Link to an amendment published at 84 FR 193, Jan. 18, 2019.
+
 (a) *Facility of original jurisdiction.* The decision of a VA facility in a given veteran's case:
 
 (1) Will be final and binding upon all field stations of VA as to conclusions based on evidence on file at that time; and

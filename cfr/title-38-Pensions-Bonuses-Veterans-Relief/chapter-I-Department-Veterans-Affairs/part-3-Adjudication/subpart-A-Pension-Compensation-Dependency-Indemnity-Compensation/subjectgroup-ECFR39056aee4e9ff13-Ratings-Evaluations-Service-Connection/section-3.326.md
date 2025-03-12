@@ -1,5 +1,7 @@
 ##### § 3.326 Examinations. #####
 
+Link to an amendment published at 84 FR 170, Jan. 18, 2019.
+
 For purposes of this section, the term examination includes periods of hospital observation when required by VA.
 
 (a) Where there is a claim for disability compensation or pension but medical evidence accompanying the claim is not adequate for rating purposes, a Department of Veterans Affairs examination will be authorized. This paragraph applies to original and reopened claims as well as claims for increase submitted by a veteran, surviving spouse, parent, or child. Individuals for whom an examination has been scheduled are required to report for the examination.

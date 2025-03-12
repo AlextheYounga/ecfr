@@ -1,5 +1,7 @@
 ##### § 20.608 Rule 608. Withdrawal of services by a representative. #####
 
+Link to an amendment published at 84 FR 184, Jan. 18, 2019.
+
 (a) *Withdrawal of services prior to certification of an appeal.* A representative may withdraw services as representative in an appeal at any time prior to certification of the appeal to the Board of Veterans' Appeals by the agency of original jurisdiction by complying with the requirements of § 14.631 of this chapter.
 
 (b) *Withdrawal of services after certification of an appeal* - (1) *Applicability.* The restrictions on a representative's right to withdraw contained in this paragraph apply only to those cases in which the representative has previously agreed to act as representative in an appeal. In addition to express agreement, orally or in writing, such agreement shall be presumed if the representative makes an appearance in the case by acting on an appellant's behalf before the Board in any way after the appellant has designated the representative as such as provided in §§ 20.602 through 20.605 of this part. The preceding sentence notwithstanding, an appearance in an appeal solely to notify the Board that a designation of representation has not been accepted will not be presumed to constitute such consent.

@@ -1,5 +1,7 @@
 ##### § 20.702 Rule 702. Scheduling and notice of hearings conducted by the Board of Veterans' Appeals in Washington, DC. #####
 
+Link to an amendment published at 84 FR 185, Jan. 18, 2019.Link to an amendment published at 84 FR 186, Jan. 18, 2019.
+
 (a) *General.* To the extent that officials scheduling hearings for the Board of Veterans' Appeals determine that necessary physical resources and qualified personnel are available, hearings will be scheduled at the convenience of appellants and their representatives, with consideration of the travel distance involved. While a Statement of the Case should be prepared prior to the hearing, it is not a prerequisite for a hearing and an appellant may request that the hearing be scheduled prior to issuance of the Statement of the Case.
 
 (Authority: 38 U.S.C. 7102, 7105(a), 7107)

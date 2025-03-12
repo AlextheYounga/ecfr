@@ -1,5 +1,7 @@
 ##### § 20.3 Rule 3. Definitions. #####
 
+Link to an amendment published at 84 FR 179, Jan. 18, 2019.
+
 As used in these Rules:
 
 (a) *Agency of original jurisdiction* means the Department of Veterans Affairs activity or administration, that is, the Veterans Benefits Administration, Veterans Health Administration, or National Cemetery Administration, that made the initial determination on a claim.

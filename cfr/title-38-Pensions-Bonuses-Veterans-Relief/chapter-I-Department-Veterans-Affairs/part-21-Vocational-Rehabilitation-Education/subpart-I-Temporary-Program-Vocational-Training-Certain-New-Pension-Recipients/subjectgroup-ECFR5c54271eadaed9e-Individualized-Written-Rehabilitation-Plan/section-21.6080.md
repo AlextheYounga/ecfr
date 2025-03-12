@@ -1,5 +1,7 @@
 ##### § 21.6080 Requirement for an individualized written rehabilitation or employment assistance plan. #####
 
+Link to an amendment published at 84 FR 194, Jan. 18, 2019.
+
 (a) *General.* An Individualized Written Rehabilitation Plan (IWRP) and/or Individualized Employment Assistance Plan (IEAP) will be developed for each program participant for services under 38 U.S.C. 1524. These plans shall be developed in the same manner as for chapter 31 purposes. *See §§ 21.80, 21.84, 21.88, 21.90, 21.92, 21.94 (a) through (d), 21.96 and 21.98.*
 
 (Authority: 38 U.S.C. 1524(b)(2))

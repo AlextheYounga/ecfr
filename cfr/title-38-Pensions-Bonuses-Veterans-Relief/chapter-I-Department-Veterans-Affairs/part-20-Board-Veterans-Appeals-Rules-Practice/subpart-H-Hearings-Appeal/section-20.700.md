@@ -1,5 +1,7 @@
 ##### § 20.700 Rule 700. General. #####
 
+Link to an amendment published at 84 FR 184, Jan. 18, 2019.
+
 (a) *Right to a hearing.* A hearing on appeal will be granted if an appellant, or an appellant's representative acting on his or her behalf, expresses a desire to appear in person.
 
 (b) *Purpose of hearing.* The purpose of a hearing is to receive argument and testimony relevant and material to the appellate issue. It is contemplated that the appellant and witnesses, if any, will be present. A hearing will not normally be scheduled solely for the purpose of receiving argument by a representative. Such argument should be submitted in the form of a written brief. Oral argument may also be submitted on audio cassette for transcription for the record in accordance with paragraph (d) of this section. Requests for appearances by representatives alone to personally present argument to Members of the Board may be granted if good cause is shown. Whether good cause has been shown will be determined by the presiding Member assigned to conduct the hearing.

@@ -1,5 +1,7 @@
 ##### § 20.100 Rule 100. Name, business hours, and mailing address of the Board. #####
 
+Link to an amendment published at 84 FR 177, Jan. 18, 2019.Link to an amendment published at 84 FR 180, Jan. 18, 2019.
+
 (a) *Name.* The name of the Board is the Board of Veterans' Appeals.
 
 (b) *Business hours.* The Board is open during business hours on all days except Saturday, Sunday and legal holidays. Business hours are from 8 a.m. to 4:30 p.m.

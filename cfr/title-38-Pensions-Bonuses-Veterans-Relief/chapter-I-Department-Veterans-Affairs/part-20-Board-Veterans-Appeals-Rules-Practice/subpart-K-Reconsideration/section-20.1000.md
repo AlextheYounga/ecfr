@@ -1,5 +1,7 @@
 ##### § 20.1000 Rule 1000. When reconsideration is accorded. #####
 
+Link to an amendment published at 84 FR 190, Jan. 18, 2019.Link to an amendment published at 84 FR 191, Jan. 18, 2019.
+
 Reconsideration of an appellate decision may be accorded at any time by the Board of Veterans' Appeals on motion by the appellant or his or her representative or on the Board's own motion:
 
 (a) Upon allegation of obvious error of fact or law;

@@ -1,5 +1,7 @@
 ##### § 3.655 Failure to report for Department of Veterans Affairs examination. #####
 
+Link to an amendment published at 84 FR 171, Jan. 18, 2019.
+
 (a) *General.* When entitlement or continued entitlement to a benefit cannot be established or confirmed without a current VA examination or reexamination and a claimant, without good cause, fails to report for such examination, or reexamination, action shall be taken in accordance with paragraph (b) or (c) of this section as appropriate. Examples of good cause include, but are not limited to, the illness or hospitalization of the claimant, death of an immediate family member, etc. For purposes of this section, the terms *examination* and *reexamination* include periods of hospital observation when required by VA.
 
 (b) *Original or reopened claim, or claim for increase.* When a claimant fails to report for an examination scheduled in conjunction with an original compensation claim, the claim shall be rated based on the evidence of record. When the examination was scheduled in conjunction with any other original claim, a reopened claim for a benefit which was previously disallowed, or a claim for increase, the claim shall be denied.

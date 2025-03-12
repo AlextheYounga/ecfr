@@ -1,5 +1,7 @@
 ##### § 21.192 “Independent living program” status. #####
 
+Link to an amendment published at 84 FR 193, Jan. 18, 2019.
+
 (a) *Purpose.* The *independent living program* status serves to:
 
 (1) Identify veterans who are being furnished a program of independent living services by VA; and

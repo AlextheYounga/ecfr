@@ -1,5 +1,7 @@
 ##### § 19.24 Action by agency of original jurisdiction on Notice of Disagreement required to be filed on a standardized form. #####
 
+Link to an amendment published at 84 FR 178, Jan. 18, 2019.
+
 (a) *Initial action.* When a timely Notice of Disagreement in accordance with the requirements of § 20.201(a) of this chapter is filed, the agency of original jurisdiction will reexamine the claim and determine whether additional review or development is warranted.
 
 (b) *Incomplete and complete appeal forms* - (1) *Incomplete appeal forms.* In cases governed by paragraph (a) of § 20.201 of this chapter, if VA determines a form filed by the claimant is incomplete and requests clarification, the claimant must timely file a completed version of the correct form in order to initiate an appeal. A claimant is not required to cure or correct the filing of an incomplete form by filing a completed version of the correct form unless VA informs the claimant or his or her representative that the form is incomplete and requests clarification.

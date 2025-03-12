@@ -1,5 +1,7 @@
 ##### § 3.321 General rating considerations. #####
 
+Link to an amendment published at 84 FR 170, Jan. 18, 2019.
+
 (a) *Use of rating schedule.* The 1945 Schedule for Rating Disabilities will be used for evaluating the degree of disabilities in claims for disability compensation, disability and death pension, and in eligibility determinations. The provisions contained in the rating schedule will represent as far as can practicably be determined, the average impairment in earning capacity in civil occupations resulting from disability.
 
 (Authority: 38 U.S.C. 1155)

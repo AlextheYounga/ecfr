@@ -1,5 +1,7 @@
 ##### § 14.632 Standards of conduct for persons providing representation before the Department #####
 
+Link to an amendment published at 84 FR 174, Jan. 18, 2019.
+
 (a)(1) All persons acting on behalf of a claimant shall faithfully execute their duties as individuals providing representation on a particular claim under § 14.630, representatives, agents, or attorneys.
 
 (2) All individuals providing representation are required to be truthful in their dealings with claimants and VA.

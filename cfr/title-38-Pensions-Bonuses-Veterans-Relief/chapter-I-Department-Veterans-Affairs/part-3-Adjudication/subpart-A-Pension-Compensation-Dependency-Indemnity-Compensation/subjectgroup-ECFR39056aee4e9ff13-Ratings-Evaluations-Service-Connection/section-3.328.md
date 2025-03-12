@@ -1,5 +1,7 @@
 ##### § 3.328 lndependent medical opinions. #####
 
+Link to an amendment published at 84 FR 170, Jan. 18, 2019.
+
 (a) *General.* When warranted by the medical complexity or controversy involved in a pending claim, an advisory medical opinion may be obtained from one or more medical experts who are not employees of VA. Opinions shall be obtained from recognized medical schools, universities, clinics or medical institutions with which arrangements for such opinions have been made, and an appropriate official of the institution shall select the individual expert(s) to render an opinion.
 
 (b) *Requests.* A request for an independent medical opinion in conjunction with a claim pending at the regional office level may be initiated by the office having jurisdiction over the claim, by the claimant, or by his or her duly appointed representative. The request must be submitted in writing and must set forth in detail the reasons why the opinion is necessary. All such requests shall be submitted through the Veterans Service Center Manager or Pension Management Center Manager of the office having jurisdiction over the claim, and those requests which in the judgment of the Veterans Service Center Manager or Pension Management Center Manager merit consideration shall be referred to the Compensation Service or the Pension and Fiduciary Service for approval.
