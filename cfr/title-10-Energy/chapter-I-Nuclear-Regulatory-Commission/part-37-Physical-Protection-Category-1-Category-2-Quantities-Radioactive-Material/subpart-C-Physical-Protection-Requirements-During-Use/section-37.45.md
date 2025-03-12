@@ -1,5 +1,7 @@
 ##### § 37.45 LLEA coordination. #####
 
+Link to an amendment published at 83 FR 30288, June 28, 2018.
+
 (a) A licensee subject to this subpart shall coordinate, to the extent practicable, with an LLEA for responding to threats to the licensee's facility, including any necessary armed response. The information provided to the LLEA must include:
 
 (1) A description of the facilities and the category 1 and category 2 quantities of radioactive materials along with a description of the licensee's security measures that have been implemented to comply with this subpart; and

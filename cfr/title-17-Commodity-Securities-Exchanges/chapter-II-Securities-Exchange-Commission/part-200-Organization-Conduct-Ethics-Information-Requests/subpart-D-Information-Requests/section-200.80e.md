@@ -1,5 +1,7 @@
 ##### § 200.80e Appendix E - Schedule of fees for records services. #####
 
+Link to an amendment published at 83 FR 30333, June 28, 2018.
+
 The requester will be charged search, review, and duplication fees according to his or her fee category. In addition, the SEC will charge the requester for any special handling or services performed in processing the request and/or appeal. Duplication fees also are applicable to records provided in response to requests made under the Privacy Act. Fees will not be charged under either the FOIA or the Privacy Act where the costs of collecting and processing the fee are likely to equal or exceed the amount of the fee or where the requester has met the requirements for a statutory fee waiver. Fees will be determined as follows:
 
 *Search and review services (review applies to commercial-use requesters only):* (1) The Commission will establish and charge average rates for the groups of grades typically involved in search and review. Those groups will consist of employees at:

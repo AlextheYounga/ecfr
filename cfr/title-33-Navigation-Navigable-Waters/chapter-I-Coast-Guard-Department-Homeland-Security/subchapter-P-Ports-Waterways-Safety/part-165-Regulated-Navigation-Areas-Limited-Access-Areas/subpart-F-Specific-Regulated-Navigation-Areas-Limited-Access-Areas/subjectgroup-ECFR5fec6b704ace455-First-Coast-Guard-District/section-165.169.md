@@ -16,7 +16,21 @@
 
 (C) Vessels may transit through any portion of the zone that extends into the navigable channel for the sole purpose of direct and expeditious transit so long as they remain within the navigable channel, maintain the maximum safe distance from the Part 105 facility, and do not stop or loiter within the zone.
 
-(4) *Liberty and Ellis Islands.* All waters within 150 yards of Liberty Island, Ellis Island, and the bridge between Liberty State Park and Ellis Island.
+(4) *Liberty and Ellis Islands* - (i) *Location.* All waters within 150 yards of Liberty Island and Ellis Island, and the Ellis Island Bridge.
+
+(ii) *Ellis Island Bridge.* In addition to any person or vessel authorized pursuant to paragraph (b) of this section, vessels may transit underneath the Ellis Island Bridge subject to the following conditions:
+
+(A) Dates/Times: On weekends only, to include Federally Observed Holidays on a Friday or Monday, from Memorial Day Weekend through October 1 each year, between one hour after sunrise and one hour before sunset.
+
+(B) Vessel types: Human powered vessels equal to or less than twenty five feet. Human powered vessels must be able to safely navigate under the bridge.
+
+(C) Notification: Human powered vessels desiring to transit shall contact the United States Park Police Command Center at 212-363-3260 or VHF CH 13 regarding intentions of passage prior to entering the safety and security zone and transiting under the Ellis Island Bridge.
+
+(D) Route: Transits through the safety and security zone and under the bridge shall occur only at the designated route marked with lights and signage.
+
+(E) Passage: Vessels transiting under the Ellis Island Bridge shall make expeditious passage and not stop or loiter within the safety and security zone.
+
+(iii) *Enforcement period.* The safety and security zone described in this subsection is effective at all times. Although certain vessels have permission to enter the safety and security zone to transit under the Ellis Island Bridge subject to the conditions outlined in paragraphs (a)(4)(ii)(A)-(E) of this section, the safety and security zone is in effect permanently and can be enforced at any time. When deemed necessary the COTP may rescind the permission granted in paragraphs (a)(4)(ii)(A)-(E) of this section for any period of time.
 
 (5) *Bridge Piers and Abutments, Overhead Power Cable Towers, Piers and Tunnel Ventilators.* All waters within 25 yards of any bridge pier or abutment, overhead power cable tower, pier or tunnel ventilators south of the Troy, NY Locks. Vessels may transit through any portion of the zone that extends into the navigable channel for the sole purpose of direct and expeditious transit through the zone so long as they remain within the navigable channel, maintain the maximum safe distance from the waterfront facility and do not stop or loiter within the zone.
 
@@ -94,4 +108,4 @@
 
 (2) Persons desiring to transit the area of a safety or security zone may contact the Captain of the Port at telephone number 718-354-4088 or on VHF channel 14 (156.7 MHz) or VHF channel 16 (156.8 MHz) to seek permission to transit the area. If permission is granted, all persons and vessels must comply with the instructions of the Captain of the Port or his or her designated representative.
 
-[CGD01-02-132, 68 FR 2890, Jan. 22, 2003, as amended by CGD01-03-036, 69 FR 2670, Jan. 20, 2004; CGD01-03-020, 69 FR 23306, June 15, 2004; USCG-2008-0179, 73 FR 35017, June 19, 2008; USCG-2007-0074, 74 FR 7191, Feb. 13, 2009]
+[CGD01-02-132, 68 FR 2890, Jan. 22, 2003, as amended by CGD01-03-036, 69 FR 2670, Jan. 20, 2004; CGD01-03-020, 69 FR 23306, June 15, 2004; USCG-2008-0179, 73 FR 35017, June 19, 2008; USCG-2007-0074, 74 FR 7191, Feb. 13, 2009; USCG-2016-0799, 83 FR 30044, June 27, 2018]

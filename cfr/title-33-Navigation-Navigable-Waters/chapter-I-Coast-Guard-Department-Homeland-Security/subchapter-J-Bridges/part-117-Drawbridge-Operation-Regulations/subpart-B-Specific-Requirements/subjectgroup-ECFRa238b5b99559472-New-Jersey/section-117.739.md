@@ -30,12 +30,8 @@
 
 (m) The draw of the NJTRO Bridge, mile 11.7, shall open on signal after at least a 24 hour notice is given by calling the number posted at the bridge.
 
-(n) The draw of the following bridges need not be opened for the passage of vessels:
-
-(1) Gregory Avenue Bridge, mile 14.0, at Wallington.
-
-(2) West Eighth Street Bridge, mile 15.3, at Garfield.
+(n) West Eighth Street Bridge, mile 15.3, at Garfield need not open for the passage of vessels.
 
 (o)-(s) [Reserved]
 
-[CGD01-95-171, 62 FR 6485, Feb. 12, 1997, as amended by CGD01-97-020, 63 FR 34124, June 23, 1998; CGD01-97-134, 64 FR 4788, Feb. 1, 1999; CGD01-99-076, 64 FR 62114, Nov. 16, 1999; USCG-2001-10881, 71 FR 70311, Dec. 4, 2006; USCG-2010-0234, 75 FR 51942, Aug. 24, 2010; USCG-2011-0268, 76 FR 65376, Oct. 21, 2011; USCG-2013-0638, 78 FR 72022, Dec. 2, 2013; USCG-2014-1070, 80 FR 10591, Feb. 27, 2015]
+[CGD01-95-171, 62 FR 6485, Feb. 12, 1997, as amended by CGD01-97-020, 63 FR 34124, June 23, 1998; CGD01-97-134, 64 FR 4788, Feb. 1, 1999; CGD01-99-076, 64 FR 62114, Nov. 16, 1999; USCG-2001-10881, 71 FR 70311, Dec. 4, 2006; USCG-2010-0234, 75 FR 51942, Aug. 24, 2010; USCG-2011-0268, 76 FR 65376, Oct. 21, 2011; USCG-2013-0638, 78 FR 72022, Dec. 2, 2013; USCG-2014-1070, 80 FR 10591, Feb. 27, 2015; USCG-2018-0443, 83 FR 30039, June 27, 2018]

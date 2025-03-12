@@ -1,5 +1,7 @@
 ##### § 200.80 Commission records and information. #####
 
+Link to an amendment published at 83 FR 30327, June 28, 2018.
+
 (a)(1) *Information published in the*Federal Register. Except as provided in paragraph (b) of this section the following materials are published in the Federal Register for the guidance of the public:
 
 (i) Description of the Commission's central and field organization and the established places at which, the employees from whom, and the methods whereby the public may obtain information, make submittals or requests, or obtain decisions;

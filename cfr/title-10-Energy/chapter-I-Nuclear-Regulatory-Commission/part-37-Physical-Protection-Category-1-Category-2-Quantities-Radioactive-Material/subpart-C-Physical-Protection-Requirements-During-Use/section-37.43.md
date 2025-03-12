@@ -1,5 +1,7 @@
 ##### § 37.43 General security program requirements. #####
 
+Link to an amendment published at 83 FR 30287, June 28, 2018.
+
 (a) *Security plan.* (1) Each licensee identified in § 37.41(a) shall develop a written security plan specific to its facilities and operations. The purpose of the security plan is to establish the licensee's overall security strategy to ensure the integrated and effective functioning of the security program required by this subpart. The security plan must, at a minimum:
 
 (i) Describe the measures and strategies used to implement the requirements of this subpart; and

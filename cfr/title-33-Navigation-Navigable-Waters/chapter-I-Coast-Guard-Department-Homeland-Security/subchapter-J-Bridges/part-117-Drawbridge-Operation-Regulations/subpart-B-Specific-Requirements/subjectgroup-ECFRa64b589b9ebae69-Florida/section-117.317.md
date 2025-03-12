@@ -34,8 +34,6 @@
 
 (i) *Highway bridges at Moore Haven (mile 78.4) La Belle (mile 103.0), Denaud (mile 108.2), Alva (mile 116.0), and Olga (mile 126.3).* The draws shall open on signal; except that, from 10 p.m. to 6 a.m. the draws shall open on signal if at least three hours notice is given.
 
-(j) Sanibel Causeway bridge, mile 151 at Punta Rassa. The draw shall open on signal, except that from 7 a.m. until 6 p.m. Monday through Friday, except Federal holidays, the draw need only open on the hour and half hour. On Saturday, Sunday, and Federal holidays the draw shall open on signal, except that from 7 a.m. until 6 p.m., the draw need only open on the hour, quarter hour, half hour and three-quarter hour. From 10 p.m. until 6 a.m. daily, the draw shall open on signal if at least five minutes advance notice is given to the bridge tender.
-
-(k) *Caloosahatchee River Bridge (SR 29), Mile 103, Labelle, Florida.* The Caloosahatchee River bridge (SR 29), mile 103, shall open on signal, except that from 7 a.m. to 9 a.m. and from 4 p.m. to 6 p.m., Monday through Friday, except Federal holidays, the bridge need not open. Exempt vessels shall be passed at any time.
+(j) *Caloosahatchee River Bridge (SR 29), Mile 103, Labelle, Florida.* The Caloosahatchee River bridge (SR 29), mile 103, shall open on signal, except that from 7 a.m. to 9 a.m. and from 4 p.m. to 6 p.m., Monday through Friday, except Federal holidays, the bridge need not open. Exempt vessels shall be passed at any time.
 
 [CGD7 85-50, 51 FR 12319, Apr. 10, 1986]Editorial Note:For Federal Register citations affecting § 117.317, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

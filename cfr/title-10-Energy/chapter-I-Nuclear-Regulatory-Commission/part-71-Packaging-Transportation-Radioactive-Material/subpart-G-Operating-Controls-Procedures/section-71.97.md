@@ -1,5 +1,7 @@
 ##### § 71.97 Advance notification of shipment of irradiated reactor fuel and nuclear waste. #####
 
+Link to an amendment published at 83 FR 30288, June 28, 2018.
+
 (a)(1) As specified in paragraphs (b), (c), and (d) of this section, each licensee shall provide advance notification to the governor of a State, or the governor's designee, of the shipment of licensed material, within or across the boundary of the State, before the transport, or delivery to a carrier, for transport, of licensed material outside the confines of the licensee's plant or other place of use or storage.
 
 (2) As specified in paragraphs (b), (c), and (d) of this section, after June 11, 2013, each licensee shall provide advance notification to the Tribal official of participating Tribes referenced in paragraph (c)(3)(iii) of this section, or the official's designee, of the shipment of licensed material, within or across the boundary of the Tribe's reservation, before the transport, or delivery to a carrier, for transport, of licensed material outside the confines of the licensee's plant or other place of use or storage.

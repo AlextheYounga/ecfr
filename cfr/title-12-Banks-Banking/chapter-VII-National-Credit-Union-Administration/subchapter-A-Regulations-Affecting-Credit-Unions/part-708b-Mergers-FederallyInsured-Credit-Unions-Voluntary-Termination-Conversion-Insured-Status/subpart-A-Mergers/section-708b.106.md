@@ -1,5 +1,7 @@
 ##### § 708b.106 Approval of the merger proposal by members. #####
 
+Link to an amendment published at 83 FR 30310, June 28, 2018.
+
 (a) When the merging credit union is a federal credit union, the members must:
 
 (1) Have the right to vote on the merger proposal in person at the annual meeting, if within 60 days after NCUA approval, or at a special meeting to be called within 60 days of NCUA approval, or by mail ballot, received no later than the date and time announced for the annual meeting or the special meeting called for that purpose.

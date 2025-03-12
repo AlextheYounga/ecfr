@@ -1,6 +1,6 @@
 ##### § 90.548 Interoperability Technical Standards. #####
 
-Link to an amendment published at 83 FR 29710, June 26, 2018.
+Link to an amendment published at 83 FR 29710, June 26, 2018.Link to an amendment published at 83 FR 30367, June 28, 2018.
 
 (a) Transmitters designed after August 11, 2014 to operate on the narrowband interoperability achannels in the 769-775 and 799-805 MHz band (*see* § 90.531) shall conform to the following technical standards (transmitters certified prior to this date are grandfathered):
 

@@ -1,6 +1,6 @@
 ##### § 2.1033 Application for certification. #####
 
-Link to an amendment published at 83 FR 29710, June 26, 2018.
+Link to an amendment published at 83 FR 29710, June 26, 2018.Link to an amendment published at 83 FR 30367, June 28, 2018.
 
 (a) An application for certification shall be filed on FCC Form 731 with all questions answered. Items that do not apply shall be so noted.
 

@@ -1,5 +1,7 @@
 ##### § 708b.104 Submission of merger proposal to the NCUA. #####
 
+Link to an amendment published at 83 FR 30310, June 28, 2018.
+
 (a) Upon approval of the merger plan by the boards of directors of the credit unions, the credit unions must submit the following information to the Regional Director:
 
 (1) The merger plan, as described in this part;

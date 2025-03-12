@@ -1,5 +1,7 @@
 ##### § 1.34 Office of Administration. #####
 
+Link to an amendment published at 83 FR 30287, June 28, 2018.
+
 The Office of Administration -
 
 (a) Develops and implements agencywide contracting policies and procedures;

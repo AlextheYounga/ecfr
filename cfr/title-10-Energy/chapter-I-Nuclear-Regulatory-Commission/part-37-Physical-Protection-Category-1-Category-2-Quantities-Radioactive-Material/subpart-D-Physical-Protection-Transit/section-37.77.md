@@ -1,5 +1,7 @@
 ##### § 37.77 Advance notification of shipment of category 1 quantities of radioactive material. #####
 
+Link to an amendment published at 83 FR 30288, June 28, 2018.
+
 As specified in paragraphs (a) and (b) of this section, each licensee shall provide advance notification to the NRC and the governor of a State, or the governor's designee, of the shipment of licensed material in a category 1 quantity, through or across the boundary of the State, before the transport, or delivery to a carrier for transport of the licensed material outside the confines of the licensee's facility or other place of use or storage.
 
 (a) *Procedures for submitting advance notification.* (1) The notification must be made to the NRC and to the office of each appropriate governor or governor's designee. The contact information, including telephone and mailing addresses, of governors and governors' designees, is available on the NRC's Web site at  *https://scp.nrc.gov/special/designee.pdf.* A list of the contact information is also available upon request from the Director, Division of Material Safety, State, Tribal, and Rulemaking Programs, Office of Nuclear Material Safety and Safeguards., U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001. Notifications to the NRC must be to the NRC's Director, Division of Security Policy, Office of Nuclear Security and Incident Response, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001. The notification to the NRC may be made by email to *RAMQC\_SHIPMENTS@nrc.gov* or by fax to 301-816-5151.

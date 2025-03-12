@@ -1,5 +1,7 @@
 ##### § 200.80d Appendix D - Other publications available from the Commission. #####
 
+Link to an amendment published at 83 FR 30333, June 28, 2018.
+
 (a) Limited amounts of the following materials among others are available free of charge upon request to the Commission's Publications Section, Public Reference Branch, 202-272-7460:
 
 Work of the Securities and Exchange Commission.

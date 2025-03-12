@@ -1,5 +1,7 @@
 ##### § 140.2 Scope. #####
 
+Link to an amendment published at 83 FR 30288, June 28, 2018.
+
 (a) The regulations in this part apply:
 
 (1) To each person who is an applicant for or holder of a license issued under 10 CFR parts 50, 52, or 54 to operate a nuclear reactor, and

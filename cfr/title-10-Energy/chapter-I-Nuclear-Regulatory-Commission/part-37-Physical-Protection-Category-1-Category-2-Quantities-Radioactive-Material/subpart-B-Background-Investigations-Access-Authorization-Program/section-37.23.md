@@ -1,5 +1,7 @@
 ##### § 37.23 Access authorization program requirements. #####
 
+Link to an amendment published at 83 FR 30287, June 28, 2018.
+
 (a) *Granting unescorted access authorization.* (1) Licensees shall implement the requirements of this subpart for granting initial or reinstated unescorted access authorization.
 
 (2) Individuals who have been determined to be trustworthy and reliable shall also complete the security training required by § 37.43(c) before being allowed unescorted access to category 1 or category 2 quantities of radioactive material.

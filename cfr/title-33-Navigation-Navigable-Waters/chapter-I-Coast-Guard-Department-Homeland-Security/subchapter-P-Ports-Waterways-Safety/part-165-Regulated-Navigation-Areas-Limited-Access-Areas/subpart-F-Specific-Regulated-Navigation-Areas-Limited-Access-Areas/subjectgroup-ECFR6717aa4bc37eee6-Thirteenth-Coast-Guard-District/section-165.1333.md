@@ -1,5 +1,7 @@
 ##### § 165.1333 Security Zones, Seattle's Seafair Fleet Week moving vessels, Puget Sound, WA. #####
 
+Link to an amendment published at 83 FR 30347, June 28, 2018.
+
 (a) *Location.* The following areas are security zones: all navigable waters within 500 yards of each designated participating vessel while each such vessel is in the Sector Puget Sound Captain of the Port (COTP) zone, as defined in 33 CFR 3.65-10, during a time specified in paragraph (e) of this section. The Coast Guard will publish a notice in the Federal Register each year at least 03 days before the start of the Seattle Seafair Fleet Week to identify the designated participating vessels for that year. The Coast Guard will also provide this information in the Local Notice to Mariners.
 
 (b) *Definitions.* For purposes of this section -

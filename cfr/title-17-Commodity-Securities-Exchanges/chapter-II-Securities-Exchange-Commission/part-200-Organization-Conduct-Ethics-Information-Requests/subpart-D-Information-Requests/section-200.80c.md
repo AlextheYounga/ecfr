@@ -1,5 +1,7 @@
 ##### § 200.80c Appendix C - Rules and miscellaneous publications available from the Government Printing Office. #####
 
+Link to an amendment published at 83 FR 30333, June 28, 2018.
+
 (a) The current rules of the Commission are not published by the Commission in pamphlet form. All SEC public rules and regulations, including its Rules of Practice, are contained in title 17 of the Code of Federal Regulations, which also is available for purchase from the Superintendent of Documents, Government Printing Office, Washington, DC 20402. New rules and rules changes, and other Commission releases, except statistical releases, also are published in the Federal Register as they are adopted.
 
 (b) Copies of the following miscellaneous publications may be purchased from the Superintendent of Documents, Government Printing Office, Washington, DC 20402. Please address to him directly all inquiries, orders and payments concerning the following publications:

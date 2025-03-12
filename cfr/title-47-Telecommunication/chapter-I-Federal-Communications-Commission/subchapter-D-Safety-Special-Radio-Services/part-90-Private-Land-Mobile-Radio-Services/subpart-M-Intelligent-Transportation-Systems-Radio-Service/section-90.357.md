@@ -1,5 +1,7 @@
 ##### § 90.357 Frequencies for LMS systems in the 902-928 MHz band. #####
 
+Link to an amendment published at 83 FR 30367, June 28, 2018.
+
 (a) Multilateration LMS systems will be authorized on the following LMS sub-bands:
 
 |          LMS sub-band          |Forward link<sup>1</sup>|

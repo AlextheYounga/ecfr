@@ -2,9 +2,7 @@
 
 (a) *General.* Public vessels of the United States and tugs with tows must be passed through the drawspan of each drawbridge listed in this section at anytime.
 
-(b) *McCormick Bridge, mile 747.5 at Jacksonville Beach.* The draw shall open on signal; except that during April, May, October and November from 7 a.m. to 9 a.m. and 4:30 p.m. to 6:30 p.m. Monday through Friday except Federal holidays, the draw need open only on the hour and half hour. During April, May, October and November from 12 noon to 6 p.m. Saturdays, Sundays and Federal holidays, the draw need open only on the hour and half hour.
-
-(c) [Reserved]
+(b)-(c) [Reserved]
 
 (d) *Bridge of Lions (SR A1A) bridge, mile 777.9 at St. Augustine.* The draw shall open on signal; except that, from 7 a.m. to 6 p.m. the draw need open only on the hour and half-hour; however, the draw need not open at 8 a.m., 12 noon, and 5 p.m. Monday through Friday except Federal holidays. From 7 a.m. to 6 p.m. on Saturdays, Sundays and Federal holidays the draw need only open on the hour and half-hour.
 
@@ -100,10 +98,6 @@
 
 (nn) The Venetian Causeway Bridge (West), mile 1088.6, at Miami. The draw shall open on signal, except that from 7 a.m. to 7 p.m. daily, including Federal holidays, the draw need only open on the hour and half hour.
 
-(oo) through (pp) [Reserved]
-
-(qq) *Jewfish Creek, mile 1134, Key Largo.* The draw shall open on signal; except that from 10 a.m. to sunset, Thursday through Sunday and federal holidays, the draw need open only on the hour and half hour.
-
-(rr)-(ss) [Reserved]
+(oo) through (ss) [Reserved]
 
 [CGD7-84-29, 50 FR 51248, Dec. 16, 1985]Editorial Note:For Federal Register citations affecting § 117.261, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
