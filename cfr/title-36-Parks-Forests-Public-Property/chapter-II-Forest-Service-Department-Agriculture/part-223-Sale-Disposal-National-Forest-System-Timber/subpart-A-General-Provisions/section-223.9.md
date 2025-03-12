@@ -1,0 +1,5 @@
+##### § 223.9 Free use to owners of certain mining claims. #####
+
+Free use will be granted to an owner of a mining claim located subsequent to July 23, 1955, or of a mining claim which is otherwise subject to Section 4 of the Act of July 23, 1955 (69 Stat. 367), if at any time said claim owner requires more timber for his mining operations, in connection with that claim, than is available on that claim because of Forest Service timber disposal therefrom subsequent to location of that claim. He will be granted, free of charge, timber from the nearest National Forest land which is ready for harvesting under the applicable management plan, substantially equivalent in kind and quantity to that estimated by the Forest Service to have been cut under Forest Service authorization from the claim subsequent to its location, Forest officers may be delegated authority to grant amounts of timber not in excess of those which these officers are authorized to sell in commercial sales.
+
+(Sec. 4, 69 Stat. 368, 16 U.S.C. 612)

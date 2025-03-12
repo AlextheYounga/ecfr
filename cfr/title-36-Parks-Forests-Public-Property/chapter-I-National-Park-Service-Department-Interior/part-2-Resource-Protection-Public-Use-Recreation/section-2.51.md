@@ -1,6 +1,4 @@
-##### § 2.51 Demonstrations. #####
-
-Link to an amendment published at 83 FR 2068, Jan. 16, 2018.
+##### § 2.51 Demonstrations and designated available park areas. #####
 
 (a) *Demonstrations.* The term “demonstrations” includes demonstrations, picketing, speechmaking, marching, holding vigils or religious services, and all other like forms of conduct that involve the communication or expression of views or grievances, engaged in by one or more persons, the conduct of which is reasonably likely to attract a crowd or onlookers. This term does not include casual park use by visitors or tourists that is not reasonably likely to attract a crowd or onlookers.
 
@@ -26,7 +24,7 @@ Link to an amendment published at 83 FR 2068, Jan. 16, 2018.
 
 (4) In the event that two or more groups taking advantage of the small group permit exception seek to use the same designated available area at the same time, and the area cannot reasonably accommodate multiple occupancy, the superintendent will, whenever possible, direct the later-arriving group to relocate to another nearby designated available area.
 
-(c) *Designated available park areas.* (1) Locations may be designated as available for demonstrations under this section, and for the sale or distribution of printed matter under § 2.52, only if these activities would not:
+(c) *Designated available park areas.* (1) Locations may be designated as available for demonstrations under this section, and for the sale or distribution of printed matter and the free distribution of other message-bearing items under § 2.52, only if these activities would not:
 
 (i) Cause injury or damage to park resources;
 
@@ -40,7 +38,7 @@ Link to an amendment published at 83 FR 2068, Jan. 16, 2018.
 
 (vi) Be incompatible with the nature and traditional use of the particular park area involved.
 
-(2) The superintendent must designate on a map, which must be available in the office of the superintendent and by public notice under § 1.7 of this chapter, the locations designated as available for demonstrations and the sale or distribution of printed matter.
+(2) The superintendent must designate on a map, which must be available in the office of the superintendent and by public notice under § 1.7 of this chapter, the locations designated as available for demonstrations, the sale or distribution of printed matter, and the free distribution of other message bearing items.
 
 (d) *Application for permit.* A permit application must provide:
 
@@ -90,4 +88,4 @@ Link to an amendment published at 83 FR 2068, Jan. 16, 2018.
 
 (3) The superintendent will make the revocation or order to cease in writing, with the reasons clearly set forth. In emergency circumstances the superintendent will make an immediate verbal revocation or order to cease, followed by written confirmation within 72 hours.
 
-[75 FR 64153, Oct. 19, 2010, as amended at 78 FR 37717, June 24, 2013; 80 FR 36476, June 25, 2015]
+[75 FR 64153, Oct. 19, 2010, as amended at 78 FR 37717, June 24, 2013; 80 FR 36476, June 25, 2015; 83 FR 2068, Jan. 16, 2018]

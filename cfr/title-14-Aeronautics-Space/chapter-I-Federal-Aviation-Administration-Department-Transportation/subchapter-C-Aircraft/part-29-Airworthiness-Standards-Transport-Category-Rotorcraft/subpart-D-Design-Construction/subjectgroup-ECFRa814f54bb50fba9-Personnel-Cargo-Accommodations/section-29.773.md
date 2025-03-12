@@ -30,5 +30,4 @@
 
 (4) When the vision system is not in operation it must permit the pilot compartment to satisfy the requirements of paragraphs (a) and (b) of this section.
 
-[Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-3, 33 FR 967, Jan. 26, 1968; Docket FAA-2013-0485, Amdt. 29-56, 81 FR 90170, Dec. 13, 2016
-]
+[Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-3, 33 FR 967, Jan. 26, 1968; Docket FAA-2013-0485, Amdt. 29-56, 81 FR 90170, Dec. 13, 2016]

@@ -1,0 +1,3 @@
+##### § 223.80 When advertisement is required. #####
+
+Except as otherwise provided in this part each sale in which the appraised value of the timber or other forest products exceeds $10,000 will be made only after advertisement for a period of 30 days or, if in the opinion of the officer authorizing the sale, the quantity, value or other conditions justify, a longer period; and any sale of smaller appraised value will be advertised or informal bids solicited from potential purchasers if, in the judgment of the officer authorizing the sale, such action is deemed advisable.

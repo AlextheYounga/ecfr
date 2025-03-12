@@ -1,0 +1,5 @@
+##### § 223.141 Suspension. #####
+
+(a) The suspending official may, in the public interest, suspend a purchaser on the basis of adequate evidence for any of the causes in § 223.142, using the procedures in § 223.143. However, the existence of a cause for suspension does not necessarily require that the purchaser be suspended. In making any suspension decision, the suspending official shall consider the seriousness of the purchaser's acts or omissions and any mitigating factors.
+
+(b) Suspension is a serious action to be imposed, pending the completion of investigation or legal proceedings, when it has been determined that immediate action is necessary to protect the Government's interest. In assessing the adequacy of the evidence, consideration shall be given to how much information is available, how credible it is given the circumstances, whether or not important allegations are corroborated and what inferences can reasonably be drawn as a result. This assessment shall include an examination of basic documents such as contracts, bids, awards, inspection reports, and correspondence, as appropriate.

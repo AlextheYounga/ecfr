@@ -1,0 +1,3 @@
+##### § 223.1 Authority to sell timber. #####
+
+Trees, portions of trees, and other forest products on National Forest System lands may be sold for the purpose of achieving the policies set forth in the Multiple-Use Sustained-Yield Act of 1960, as amended (74 Stat. 215; 16 U.S.C. 528-531), and the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended (88 Stat. 476; as amended, 16 U.S.C. 1600-1614), and the Program thereunder.

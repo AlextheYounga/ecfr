@@ -1,0 +1,3 @@
+##### § 223.46 Adjustment of contract termination date. #####
+
+Timber sale contracts may provide for adjustment of the termination date to provide additional time to compensate for delays in road construction and timber removal due to those causes beyond the purchaser's control, which may include but are not limited to acts of God, acts of the public enemy, acts of the Government, labor disputes, fires, insurrections or floods.

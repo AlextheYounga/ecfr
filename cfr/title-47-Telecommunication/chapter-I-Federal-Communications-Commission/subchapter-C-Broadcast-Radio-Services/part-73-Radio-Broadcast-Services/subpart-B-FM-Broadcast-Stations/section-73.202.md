@@ -156,7 +156,7 @@ The provisions of this paragraph [(a)(2) of this section] become effective [3 ye
 |     NEW JERSEY     |                         |
 |     NEW MEXICO     |                         |
 |       Animas       |          279C1          |
-|     Crownpoint     |          297A           |
+|     Crownpoint     |          †297A          |
 |     Des Moines     |          287C           |
 |      Roswell       |          237C0          |
 |   Skyline-Ganipa   |          240A           |

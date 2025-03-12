@@ -1,10 +1,8 @@
-##### § 2.52 Sale or distribution of printed matter. #####
+##### § 2.52 Sale of printed matter and the distribution of printed matter and other message-bearing items. #####
 
-Link to an amendment published at 83 FR 2069, Jan. 16, 2018.
+(a) *Printed matter and other message-bearing items.* The term “printed matter” means message-bearing textual printed material such as books, pamphlets, magazines, and leaflets, provided that it is not solely commercial advertising. The term “other message-bearing items” means a message-bearing item that is not “printed matter” and is not solely commercial advertising. Other message-bearing items include, but are not limited to: Readable electronic media such as CDs, DVDs, and flash drives; clothing and accessories such as hats and key chains; buttons; pins; and bumper stickers.
 
-(a) *Printed Matter.* The term “printed matter” means message-bearing textual printed material such as books, pamphlets, magazines, and leaflets, provided that it is not solely commercial advertising.
-
-(b) *Permits and the small group permit exception.* The sale or distribution of printed matter is allowed within park areas designated as available under § 2.51(c)(2) when the superintendent has issued a permit for the activity, except that:
+(b) *Permits and the small group permit exception.* The sale or distribution of printed matter, and the free distribution of other message-bearing items without asking for or demanding payment or donation, is allowed within park areas if it occurs in an area designated as available under § 2.51(c)(2) and when the superintendent has issued a permit for the activity, except that:
 
 (1) Sale or distribution activity by 25 persons or fewer may be conducted without a permit within designated park areas, provided that:
 
@@ -66,7 +64,7 @@ Link to an amendment published at 83 FR 2069, Jan. 16, 2018.
 
 (3) The extension may be denied if another applicant has requested use of the same location and the location cannot reasonably accommodate multiple occupancy.
 
-(i) *Misrepresentation.* It is prohibited for persons engaged in the sale or distribution of printed matter under this section to misrepresent the purposes or affiliations of those engaged in the sale or distribution, or to misrepresent whether the printed matter is available without cost or donation.
+(i) *Misrepresentation.* Persons engaged in the sale or distribution of printed matter or the free distribution of other message-bearing items under this section are prohibited from misrepresenting the purposes or affiliations of those engaged in the sale or distribution, and misrepresenting whether the printed matter or other message-bearing items are available without cost or donation.
 
 (j) *Violation prohibited.* Violation of these regulations or the terms of the permit is prohibited.
 
@@ -76,4 +74,4 @@ Link to an amendment published at 83 FR 2069, Jan. 16, 2018.
 
 (3) The superintendent will make the revocation or order to cease in writing, with the reasons clearly set forth. In emergency circumstances the superintendent will make an immediate verbal revocation or order to cease, followed by written confirmation within 72 hours.
 
-[75 FR 64154, Oct. 19, 2010, as amended at 78 FR 37717, June 24, 2013; 80 FR 36476, June 25, 2015]
+[75 FR 64154, Oct. 19, 2010, as amended at 78 FR 37717, June 24, 2013; 80 FR 36476, June 25, 2015; 83 FR 2069, Jan. 16, 2018]

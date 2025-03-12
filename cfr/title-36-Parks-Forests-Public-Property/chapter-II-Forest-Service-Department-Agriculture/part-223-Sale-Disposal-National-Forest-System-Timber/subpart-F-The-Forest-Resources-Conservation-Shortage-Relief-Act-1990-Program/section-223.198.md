@@ -1,0 +1,3 @@
+##### § 223.198 Administrative remedies. #####
+
+In addition to possible debarment action provided under subpart C of this part, the Chief of the Forest Service, or other official to whom such authority is delegated, may cancel any timber sale contract entered into with a person found to have violated the Act or regulations issued under the Act. Such a finding shall constitute a serious violation of contract terms pursuant to § 223.116(a)(1) of this part.

@@ -1,0 +1,5 @@
+##### § 223.45 Definitions applicable to transfer of purchaser credit. #####
+
+As used in §§ 223.42 and 223.43, the term *Purchaser* includes any single individual, corporation, company, firm, partnership, joint venture, or other business entity or the successor in interest of any of the foregoing business entities having timber sale contracts on the same National Forest. The term *National Forest* shall be considered as a unit of the National Forest System, regardless of how it was established, which maintains a separate identity with respect to the distribution of receipts earned thereon to the States and counties. The term *Effective Purchaser Credit* means unused purchaser credit which does not exceed current contract value minus base rate value. The term *base rate value* is the sum of the products of base rates and estimated remaining unscaled (unreported on tree measurement contracts) volumes by species of timber included in a timber sale contract.
+
+(Pub. L. 94-154, 89 Stat. 823 (16 U.S.C. 535)[42 FR 63777, Dec. 20, 1977. Redesignated at 49 FR 2761, Jan. 23, 1984]

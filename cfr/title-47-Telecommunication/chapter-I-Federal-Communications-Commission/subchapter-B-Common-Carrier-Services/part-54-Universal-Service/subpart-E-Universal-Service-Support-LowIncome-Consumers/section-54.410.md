@@ -1,7 +1,5 @@
 ##### § 54.410 Subscriber eligibility determination and certification. #####
 
-Link to an amendment published at 83 FR 2085, Jan. 16, 2018.
-
 (a) All eligible telecommunications carriers must implement policies and procedures for ensuring that their Lifeline subscribers are eligible to receive Lifeline services. An eligible telecommunications carrier may not provide a consumer with an activated device that it represents enables use of Lifeline-supported service, nor may it activate service that it represents to be Lifeline service, unless and until it has:
 
 (1) Confirmed that the consumer is a qualifying low-income consumer pursuant to § 54.409, and;
@@ -22,7 +20,7 @@ Link to an amendment published at 83 FR 2085, Jan. 16, 2018.
 
 (i) Notice that the prospective subscriber meets the income-eligibility criteria set forth in § 54.409(a)(1); and
 
-(ii) A copy of the subscriber's certification that complies with the requirements set forth in paragraph (d) of this section.
+(ii) If a state Lifeline administrator or other state agency is responsible for the initial determination of a subscriber's eligibility, a copy of the subscriber's certification that complies with the requirements set forth in paragraph (d) of this section.
 
 (iii) An eligible telecommunications carrier must securely retain all information and documentation provided by the state Lifeline administrator or other state agency consistent with § 54.417.
 
@@ -40,7 +38,7 @@ Link to an amendment published at 83 FR 2085, Jan. 16, 2018.
 
 (i) Notice that the subscriber meets the program-based eligibility criteria set forth in § 54.409(a)(2) or (b); and
 
-(ii) a copy of the subscriber's certification that complies with the requirements set forth in paragraph (d) of this section.
+(ii) If a state Lifeline administrator or other state agency is responsible for the initial determination of a subscriber's eligibility, a copy of the subscriber's certification that complies with the requirements set forth in paragraph (d) of this section.
 
 (iii) An eligible telecommunications carrier must securely retain all information and documentation provided by the state Lifeline administrator or other state agency consistent with § 54.417.
 
@@ -96,7 +94,7 @@ Link to an amendment published at 83 FR 2085, Jan. 16, 2018.
 
 (viii) The subscriber acknowledges that the subscriber may be required to re-certify his or her continued eligibility for Lifeline at any time, and the subscriber's failure to re-certify as to his or her continued eligibility will result in de-enrollment and the termination of the subscriber's Lifeline benefits pursuant to § 54.405(e)(4).
 
-(e) The National Verifier, state Lifeline administrators or other state agencies that are responsible for the initial determination of a subscriber's eligibility for Lifeline must provide each eligible telecommunications carrier with a copy of each of the certification forms collected by the National Verifier, state Lifeline administrator or other state agency for that carrier's subscribers.
+(e) State Lifeline administrators or other state agencies that are responsible for the initial determination of a subscriber's eligibility for Lifeline must provide each eligible telecommunications carrier with a copy of each of the certification forms collected by the state Lifeline administrator or other state agency for that carrier's subscribers.
 
 (f) *Annual eligibility re-certification process.*
 
@@ -128,4 +126,4 @@ Link to an amendment published at 83 FR 2085, Jan. 16, 2018.
 
 (h) *National Verifier transition.* As the National Verifier is implemented in a state, the obligations in paragraphs (b) through (g) of this section with respect to the National Verifier and eligible telecommunications carriers will also take effect.
 
-[77 FR 12970, Mar. 2, 2012, as amended at 77 FR 38534, June 28, 2012; 78 FR 40970, July 9, 2013; 80 FR 40935, July 14, 2015; 81 FR 33093, May 24, 2016]Effective Date Note:At 81 FR 45974, July 15, 2016, § 54.410 was amended in paragraphs (b)(1)(ii), (f)(2)(iii), and (f)(4), and (f)(5). These amendments contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[77 FR 12970, Mar. 2, 2012, as amended at 77 FR 38534, June 28, 2012; 78 FR 40970, July 9, 2013; 80 FR 40935, July 14, 2015; 81 FR 33093, May 24, 2016; 83 FR 2085, Jan. 16, 2018]Effective Date Note:At 81 FR 45974, July 15, 2016, § 54.410 was amended in paragraphs (b)(1)(ii), (f)(2)(iii), and (f)(4), and (f)(5). These amendments contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

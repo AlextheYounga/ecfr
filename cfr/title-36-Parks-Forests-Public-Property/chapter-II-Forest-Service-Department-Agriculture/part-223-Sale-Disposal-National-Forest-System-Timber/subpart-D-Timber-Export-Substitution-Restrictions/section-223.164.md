@@ -1,0 +1,5 @@
+##### § 223.164 Penalty for falsification. #####
+
+For false certification of documents relating to export or substitution and/or other violations of export and substitution requirements by the purchaser of timber from National Forest System lands, the Forest Service may cancel the subject contract, debar the involved person or persons from bidding on National Forest timber, or initiate other action as may be provided by law or regulation.
+
+(Sec. 14, Pub. L. 94-588, 90 Stat. 2958, as amended (16 U.S.C. 472a); Sec. 301, Pub. L. 96-126, 93 Stat. 979; Sec. 1, 30 Stat. 35, as amended (16 U.S.C. 55.1); Sec. 301, 90 Stat. 1063, Pub. L. 94-373; Sec. 1, 30 Stat. 35, as amended (16 U.S.C. 551); (44 U.S.C. 3506))[45 FR 80528, Dec. 5, 1980. Redesignated at 49 FR 2761, Jan. 23, 1984, and amended at 51 FR 40316, Nov. 6, 1986]
