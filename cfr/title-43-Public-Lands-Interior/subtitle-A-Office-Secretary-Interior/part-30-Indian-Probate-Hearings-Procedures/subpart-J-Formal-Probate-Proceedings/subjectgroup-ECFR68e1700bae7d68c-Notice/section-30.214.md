@@ -1,8 +1,6 @@
 ##### § 30.214 What must a notice of hearing contain? #####
 
-Link to an amendment published at 86 FR 72087, Dec. 20, 2021.
-
-The notice of hearing under § 30.114(a) must:
+The notice of hearing under § 30.114 must:
 
 (a) State the name of the decedent and caption of the case;
 
@@ -16,6 +14,8 @@ The notice of hearing under § 30.114(a) must:
 
 (f) Include notice of the opportunity to consolidate interests at the probate hearing, including that the heirs or devisees may propose additional interests for consolidation, and include notice of the opportunity for renunciation either generally or in favor of a designated recipient;
 
-(g) In estates for decedents whose date of death is on or after June 20, 2006, include notice of the possibilities of purchase and sale of trust or restricted property by heirs, devisees, co-owners, a tribe, or the Secretary; and
+(g) In estates for decedents whose date of death is on or after June 20, 2006, include notice of the possibilities of purchase and sale of trust or restricted property in accordance with Federal law or Secretarially approved Tribal probate codes by heirs, devisees, co-owners, a Tribe or the Secretary; and
 
 (h) State that the hearing may be continued to another time and place.
+
+[73 FR 67289, Nov. 13, 2008, as amended at 86 FR 72087, Dec. 20, 2021]

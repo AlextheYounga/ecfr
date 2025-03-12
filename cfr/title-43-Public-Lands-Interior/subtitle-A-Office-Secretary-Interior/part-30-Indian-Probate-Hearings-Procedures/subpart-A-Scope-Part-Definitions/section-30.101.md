@@ -1,7 +1,5 @@
 ##### § 30.101 What definitions do I need to know? #####
 
-Link to an amendment published at 86 FR 72083, Dec. 20, 2021.
-
 *Act* means the Indian Land Consolidation Act and its amendments, including the American Indian Probate Reform Act of 2004 (AIPRA), Public Law 108-374, as codified at 25 U.S.C. 2201 *et seq.*
 
 *Administrative law judge (ALJ)* means an administrative law judge with OHA appointed under the Administrative Procedure Act, 5 U.S.C. 3105.
@@ -14,11 +12,9 @@ Link to an amendment published at 86 FR 72083, Dec. 20, 2021.
 
 (2) Any office of a tribe that has entered into a contract or compact to fulfill the probate function under 25 U.S.C. 450f or 458cc.
 
-*Attorney decision maker (ADM)* means an attorney with OHA who conducts a summary proceeding and renders a decision that is subject to de novo review by an administrative law judge or Indian probate judge.
+*Attorney decision maker (ADM)* means an attorney with OHA who conducts summary probate proceedings.
 
 *BIA* means the Bureau of Indian Affairs within the Department.
-
-*BLM* means the Bureau of Land Management within the Department.
 
 *Board* means the Interior Board of Indian Appeals within OHA.
 
@@ -29,6 +25,8 @@ Link to an amendment published at 86 FR 72083, Dec. 20, 2021.
 *Codicil* means a supplement or addition to a will, executed with the same formalities as a will. It may explain, modify, add to, or revoke provisions in an existing will.
 
 *Consolidation agreement* means a written agreement under the provisions of 25 U.S.C. 2206(e) or 2206(j)(9), entered during the probate process, approved by the judge, and implemented by the probate order, by which a decedent's heirs and devisees consolidate interests in trust or restricted land.
+
+*Co-owner* means any person who owns an undivided trust or restricted interest in the same parcel in which the decedent owns an interest.
 
 *Covered permanent improvement* means a permanent improvement (including an interest in such an improvement) that is:
 
@@ -42,23 +40,7 @@ Link to an amendment published at 86 FR 72083, Dec. 20, 2021.
 
 *Decedent* means a person who is deceased.
 
-*Decision or order* (or *decision and order*) means:
-
-(1) A written document issued by a judge making determinations as to heirs, wills, devisees, and the claims of creditors, and ordering distribution of trust or restricted land or trust personalty;
-
-(2) The decision issued by an ADM in a summary probate proceeding; or
-
-(3) A decision issued by a judge finding that the evidence is insufficient to determine that a person is deceased by reason of unexplained absence.
-
-*De novo review* means a process in which an administrative law judge or Indian probate judge, without regard to the decision previously issued in the case, will:
-
-(1) Review all the relevant facts and issues in a probate case;
-
-(2) Reconsider the evidence introduced at a previous hearing;
-
-(3) Conduct a formal hearing as necessary or appropriate; and
-
-(4) Issue a decision.
+*Decision* means a written document issued by a judge in a formal probate proceeding or by a judge or ADM in a summary probate proceeding making determinations as to heirs, wills, devisees, and the claims of creditors, and ordering distribution of trust or restricted land or trust personalty.
 
 *Department* means the Department of the Interior.
 
@@ -70,19 +52,23 @@ Link to an amendment published at 86 FR 72083, Dec. 20, 2021.
 
 *Discovery* means a process through which a party to a probate proceeding obtains information from another party. Examples of discovery include interrogatories, depositions, requests for admission, and requests for production of documents.
 
+*Distribution order* means the OHA order distributing additional property that has been added to an estate under § 30.251.
+
 *Eligible heir* means, for the purposes of the Act, any of a decedent's children, grandchildren, great grandchildren, full siblings, half siblings by blood, and parents who are:
 
 (1) Indian;
 
 (2) Lineal descendents within two degrees of consanguinity of an Indian; or
 
-(3) Owners of a trust or restricted interest in a parcel of land for purposes of inheriting - by descent, renunciation, or consolidation agreement - another trust or restricted interest in such a parcel from the decedent.
+(3) Owners of a trust or restricted interest in a parcel of land for purposes of inheriting—by descent, renunciation, or consolidation agreement—another trust or restricted interest in such a parcel from the decedent.
 
 *Estate* means the trust or restricted land and trust personalty owned by the decedent at the time of death.
 
 *Formal probate proceeding* means a proceeding, conducted by a judge, in which evidence is obtained through the testimony of witnesses and the receipt of relevant documents.
 
 *Heir* means any individual or entity eligible to receive property from a decedent in an intestate proceeding.
+
+*Home agency* means the agency that serves the Tribe in which the decedent is a member or where the decedent's IIM account originated.
 
 *Individual Indian Money (IIM) account* means an interest bearing account for trust funds held by the Secretary that belong to a person who has an interest in trust assets. These accounts are under the control and management of the Secretary.
 
@@ -94,7 +80,7 @@ Link to an amendment published at 86 FR 72083, Dec. 20, 2021.
 
 (3) With respect to the inheritance and ownership of trust or restricted land in the State of California under 25 U.S.C. 2206, any person described in paragraph (1) or (2) of this definition or any person who owns a trust or restricted interest in a parcel of such land in that State.
 
-*Indian probate judge (IPJ)* means an attorney with OHA, other than an ALJ, to whom the Secretary has delegated the authority to hear and decide Indian probate cases.
+*Indian probate judge (IPJ)* means an attorney with OHA, to whom the Secretary has delegated the authority to hear and decide Indian probate cases, pursuant to 25 U.S.C. 372-2.
 
 *Interested party* means:
 
@@ -112,7 +98,11 @@ Link to an amendment published at 86 FR 72083, Dec. 20, 2021.
 
 *Intestate* means that the decedent died without a valid will as determined in the probate proceeding.
 
+*Joint tenancy* means ownership by two or more persons of the same property, where the individuals, who are called joint tenants, share equal, undivided ownership of the property and have a right of survivorship such that upon the death of a joint tenant, the property descends to the other joint tenants by operation of law.
+
 *Judge* means an ALJ or IPJ.
+
+*Lineal descendent* means a blood relative of a person in that person's direct line of descent.
 
 *Lockbox* means a centralized system within OST for receiving and depositing trust fund remittances collected by BIA.
 
@@ -124,9 +114,13 @@ Link to an amendment published at 86 FR 72083, Dec. 20, 2021.
 
 *OHA* means the Office of Hearings and Appeals within the Department.
 
+*Order* means any written direction or determination, other than a decision, issued by a judge in a probate case, including a distribution order, an order on rehearing, an order on reopening, or a reconsideration order.
+
 *OST* means the Office of the Special Trustee for American Indians within the Department.
 
 *Per stirpes* means by right of representation, dividing an estate into equal shares based on the number of decedent's surviving children and predeceased children who left issue who survive the decedent. The share of a predeceased child of the decedent is divided equally among the predeceased child's surviving children.
+
+*Petition to Complete Purchase at Probate* means a petition BIA files with an appraisal or valuation to request that OHA complete the purchase at probate process.
 
 *Probate* means the legal process by which applicable tribal, Federal, or State law that affects the distribution of a decedent's estate is applied in order to:
 
@@ -144,9 +138,11 @@ Link to an amendment published at 86 FR 72083, Dec. 20, 2021.
 
 *Secretary* means the Secretary of the Interior or an authorized representative.
 
-*Summary probate proceeding* means the consideration of a probate file without a hearing. A summary probate proceeding may be conducted if the estate involves only an IIM account that did not exceed $5,000 in value on the date of the death of the decedent.
+*Summary probate proceeding* means the consideration of a probate file without a hearing. A summary probate proceeding may be conducted if the estate involves only an IIM account that did not exceed $300 in value on the date of the death of the decedent
 
 *Superintendent* means a BIA Superintendent or other BIA official, including a field representative or one holding equivalent authority.
+
+*Tenants in common* means two or more people who share ownership rights in a property, but whose ownership rights are divisible from each other and, when a tenant in common dies, the property descends to that tenant's heirs or devisees rather than to the other tenant or tenants.
 
 *Testate* means that the decedent executed a valid will as determined in the probate proceeding.
 
@@ -162,4 +158,4 @@ Link to an amendment published at 86 FR 72083, Dec. 20, 2021.
 
 *You or I* means an interested party, as defined herein, with an interest in the decedent's estate unless a specific section states otherwise.
 
-[73 FR 67289, Nov. 13, 2008, as amended at 76 FR 7506, Feb. 10, 2011]
+[73 FR 67289, Nov. 13, 2008, as amended at 76 FR 7506, Feb. 10, 2011; 86 FR 72083, Dec. 20, 2021]

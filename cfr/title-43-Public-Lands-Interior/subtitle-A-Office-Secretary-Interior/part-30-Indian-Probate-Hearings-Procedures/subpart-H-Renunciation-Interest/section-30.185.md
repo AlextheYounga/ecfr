@@ -1,3 +1,3 @@
-##### § 30.185 May my designated recipient refuse to accept the interest? #####
+##### § 30.185 Who may receive a renounced interest in trust personalty? #####
 
-Yes. Your designated recipient may refuse to accept the interest, in which case the renounced interest passes to the devisees or heirs of the decedent as if you had predeceased the decedent. The refusal must be made in writing and filed with the judge before the judge issues the final order in the probate case.
+You may renounce an interest in trust personalty in favor of any person or entity.

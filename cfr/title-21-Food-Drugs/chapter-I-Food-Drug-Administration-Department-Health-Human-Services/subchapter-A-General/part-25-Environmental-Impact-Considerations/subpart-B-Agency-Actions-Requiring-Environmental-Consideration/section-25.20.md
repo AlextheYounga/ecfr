@@ -1,7 +1,5 @@
 ##### § 25.20 Actions requiring preparation of an environmental assessment. #####
 
-Link to an amendment published at 86 FR 52410, Sept. 21, 2021.
-
 Any proposed action of a type specified in this section normally requires at least the preparation of an EA, unless it is an action in a specific class that qualifies for exclusion under §§ 25.30, 25.31, 25.32, 25.33, 25.34, or 25.35:
 
 (a) Major recommendations or reports made to Congress on proposals for legislation in instances where the agency has primary responsibility for the subject matter involved.
@@ -36,4 +34,6 @@ Any proposed action of a type specified in this section normally requires at lea
 
 (p) Issuance of an order authorizing marketing of a new tobacco product under section 910 of the Federal Food, Drug, and Cosmetic Act or an order authorizing marketing of a modified risk tobacco product under section 911 of the Federal Food, Drug, and Cosmetic Act, unless categorically excluded under § 25.35.
 
-[62 FR 40592, July 29, 1997, as amended at 65 FR 30355, May 11, 2000; 72 FR 69118, Dec. 6, 2007; 80 FR 57535, Sept. 24, 2015; 81 FR 55047, Aug. 17, 2016]
+(q) Establishment, amendment, or revocation of an import tolerance in accordance with subpart C of part 510 of this chapter.
+
+[62 FR 40592, July 29, 1997, as amended at 65 FR 30355, May 11, 2000; 72 FR 69118, Dec. 6, 2007; 80 FR 57535, Sept. 24, 2015; 81 FR 55047, Aug. 17, 2016; 86 FR 52410, Sept. 21, 2021]

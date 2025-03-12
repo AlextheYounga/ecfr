@@ -1,14 +1,12 @@
 ##### § 30.235 What will the judge's decision in a formal probate proceeding contain? #####
 
-Link to an amendment published at 86 FR 72087, Dec. 20, 2021.
-
 The judge must decide the issues of fact and law involved in any proceeding and issue a written decision that meets the requirements of this section.
 
 (a) In all cases, the judge's decision must:
 
 (1) Include the name, birth date, and relationship to the decedent of each heir or devisee;
 
-(2) State whether the heir or devisee is Indian or non-Indian;
+(2) If relevant, state whether the heir or devisee is Indian or non-Indian;
 
 (3) State whether the heir or devisee is eligible to hold property in trust status;
 
@@ -39,3 +37,5 @@ The judge must decide the issues of fact and law involved in any proceeding and 
 (2) Describe the distribution of shares to which the heirs are entitled; and
 
 (3) Include a determination of any rights of dower, curtesy, or homestead that may constitute a burden upon the interest of the heirs.
+
+[73 FR 67289, Nov. 13, 2008, as amended at 86 FR 72087, Dec. 20, 2021]

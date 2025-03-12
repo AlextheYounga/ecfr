@@ -1,0 +1,3 @@
+##### § 30.189 May my designated recipient refuse to accept the interest? #####
+
+Yes. Your designated recipient may refuse to accept the interest, in which case the renounced interest will descend to the devisees or heirs of the decedent as if you had predeceased the decedent. When the judge notifies the designated recipient of the renunciation, the judge will specify a deadline for the recipient to file a written refusal to accept the interest. If no written refusal is received before the deadline, the interest will descend to the designated recipient.

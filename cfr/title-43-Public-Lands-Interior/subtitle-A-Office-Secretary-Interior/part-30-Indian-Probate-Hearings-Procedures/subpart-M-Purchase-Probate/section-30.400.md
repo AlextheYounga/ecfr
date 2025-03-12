@@ -1,0 +1,5 @@
+##### § 30.400 What may be purchased at probate? #####
+
+(a) The judge may allow an eligible purchaser to purchase at probate all or part of the trust or restricted land in the estate of a person who died on or after June 20, 2006. Any interest in trust or restricted land, including a life estate that is part of the estate (*i.e.,* a life estate owned by the decedent but measured by the life of someone who survives the decedent), may be purchased at probate, except as provided in paragraph (b) of this section.
+
+(b) Purchase of minerals-only real property interests (*i.e.,* an allotment that does not include a surface interest) may be considered for purchase at probate only if sufficient evidence of the fair market value of the real property interest is submitted. No interest in a minerals-only property may be purchased at probate on the basis of the value of the minerals themselves.

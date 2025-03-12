@@ -1,7 +1,3 @@
-##### § 30.202 May I file a claim or renounce or disclaim an interest in the estate in a summary probate proceeding? #####
+##### § 30.202 What will happen when OHA receives the summary probate file? #####
 
-(a) Claims that have been filed with the agency before the probate file is transferred to OHA will be considered in a summary probate proceeding.
-
-(b) If you are a devisee or eligible heir, you may also file a claim with OHA as a creditor within 30 days after the mailing of the notice of the summary probate proceeding.
-
-(c) You may renounce or disclaim an interest in the estate within 30 days after the mailing of the notice of the summary probate.
+When OHA receives a summary probate file from BIA under 25 CFR 15.202(b), OHA will determine the distribution of the estate based on the information included in the probate file and issue a summary probate decision directing distribution of the estate.

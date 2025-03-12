@@ -1,7 +1,5 @@
 ##### § 20.100 Applicability; cross-reference to other regulations. #####
 
-Link to an amendment published at 86 FR 52410, Sept. 21, 2021.
-
 (a) The provisions set forth in this subpart or cross-referenced in paragraph (c) of this section state the way in which specific categories of Food and Drug Administration records are handled upon a request for public disclosure. The exemptions established in subpart D of this part and the limitations on exemptions established in subpart E of this part shall be applicable to all Food and Drug Administration records, as provided in §§ 20.60 and 20.80. Accordingly, a record that is ordinarily available for public disclosure in accordance with this part or under other regulations is not available for such disclosure to the extent that it falls within an exemption contained in subpart D of this part except as provided by the limitations on exemptions specified in subpart E of this part.
 
 (b) The Commissioner, on his own initiative or on the petition of any interested person, may amend this subpart or promulgate and cross-reference additional regulations to state the status of additional categories of documents to settle pending questions or to reflect court decisions.
@@ -100,4 +98,6 @@ Link to an amendment published at 86 FR 52410, Sept. 21, 2021.
 
 (46) Generally recognized as safe (GRAS) notices, in part 170, subpart E and part 570, subpart E of this chapter.
 
-[42 FR 15616, Mar. 22, 1977, as amended at 42 FR 19989, Apr. 15, 1977; 42 FR 42526, Aug. 28, 1977; 42 FR 58889, Nov. 11, 1977; 43 FR 32993, July 28, 1978; 51 FR 22475, June 19, 1986; 54 FR 9038, Mar. 3, 1989; 58 FR 2533, Jan. 6, 1993; 59 FR 536, Jan. 5, 1994; 61 FR 33244, June 26, 1996; 62 FR 40592, July 29, 1997; 64 FR 56448, Oct. 20, 1999; 67 FR 13717, Mar. 26, 2002; 67 FR 35729, May 21, 2002; 68 FR 58965, Oct. 10, 2003; 72 FR 41017, July 26, 2007; 72 FR 69118, Dec. 6, 2007; 80 FR 38938, July 8, 2015; 81 FR 45409, July 14, 2016; 81 FR 55046, Aug. 17, 2016; 81 FR 60212, Aug. 31, 2016]
+(47) Requests to establish or amend import tolerances, in § 510.205 of this chapter.
+
+[42 FR 15616, Mar. 22, 1977, as amended at 42 FR 19989, Apr. 15, 1977; 42 FR 42526, Aug. 28, 1977; 42 FR 58889, Nov. 11, 1977; 43 FR 32993, July 28, 1978; 51 FR 22475, June 19, 1986; 54 FR 9038, Mar. 3, 1989; 58 FR 2533, Jan. 6, 1993; 59 FR 536, Jan. 5, 1994; 61 FR 33244, June 26, 1996; 62 FR 40592, July 29, 1997; 64 FR 56448, Oct. 20, 1999; 67 FR 13717, Mar. 26, 2002; 67 FR 35729, May 21, 2002; 68 FR 58965, Oct. 10, 2003; 72 FR 41017, July 26, 2007; 72 FR 69118, Dec. 6, 2007; 80 FR 38938, July 8, 2015; 81 FR 45409, July 14, 2016; 81 FR 55046, Aug. 17, 2016; 81 FR 60212, Aug. 31, 2016; 86 FR 52410, Sept. 21, 2021]

@@ -1,0 +1,3 @@
+##### § 30.406 May I withdraw my request to purchase at probate? #####
+
+At any point before the purchase is complete, a purchaser may withdraw a request to purchase at probate. In order to withdraw a request to purchase, the requester must file with OHA a written statement that the request is withdrawn. The requester is not required to provide reasons or justification for withdrawal of the request.

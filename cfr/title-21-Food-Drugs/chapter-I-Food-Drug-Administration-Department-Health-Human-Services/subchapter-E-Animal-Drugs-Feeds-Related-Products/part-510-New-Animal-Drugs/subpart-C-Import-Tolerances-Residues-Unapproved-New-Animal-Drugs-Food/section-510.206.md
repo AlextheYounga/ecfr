@@ -1,0 +1,3 @@
+##### § 510.206 Review of information supporting actions to establish or amend an import tolerance. #####
+
+In establishing or amending an import tolerance, the Commissioner shall rely on data sufficient to demonstrate that a proposed tolerance is safe based on similar food safety criteria used by the Commissioner to establish tolerances for applications for new animal drugs filed under section 512(b)(1) of the Federal Food, Drug, and Cosmetic Act. In establishing or amending an import tolerance, the Commissioner will give appropriate consideration to the anticipated residue concentrations and conditions of use of the new animal drug specified.

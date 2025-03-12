@@ -1,7 +1,5 @@
 ##### § 500.82 Definitions. #####
 
-Link to an amendment published at 86 FR 52410, Sept. 21, 2021.
-
 (a) The definitions and interpretations contained in section 201 of the act apply to those terms when used in this subpart.
 
 (b) The following definitions apply to this subpart:
@@ -32,7 +30,7 @@ Link to an amendment published at 86 FR 52410, Sept. 21, 2021.
 
 *S*o means the concentration of a residue of carcinogenic concern in the total human diet that represents no significant increase in the risk of cancer to the human consumer. For the purpose of § 500.84(c)(1), FDA will assume that this So will correspond to the concentration of test compound in the total diet of test animals that corresponds to a maximum lifetime risk of cancer in the test animals of 1 in 1 million.
 
-*Sponsor* means the person or organization proposing or holding an approval by FDA for the use of a sponsored compound.
+*Sponsor* means the person or organization proposing or holding an approval by FDA for the use of a sponsored compound or the person initiating a request for an import tolerance under § 510.205 of this chapter.
 
 *Sponsored compound* means any drug or food additive or color additive proposed for use, or used, in food-producing animals or in their feed.
 
@@ -44,4 +42,4 @@ Link to an amendment published at 86 FR 52410, Sept. 21, 2021.
 
 *Threshold assessment* means FDA's review of data and information about a sponsored compound to determine whether chronic bioassays in test animals are necessary to resolve questions concerning the carcinogenicity of the compound.
 
-[52 FR 49586, Dec. 31, 1987, as amended at 67 FR 78174, Dec. 23, 2002; 77 FR 50593, Aug. 22, 2012; 84 FR 32992, July 11, 2019]
+[52 FR 49586, Dec. 31, 1987, as amended at 67 FR 78174, Dec. 23, 2002; 77 FR 50593, Aug. 22, 2012; 84 FR 32992, July 11, 2019; 86 FR 52410, Sept. 21, 2021]

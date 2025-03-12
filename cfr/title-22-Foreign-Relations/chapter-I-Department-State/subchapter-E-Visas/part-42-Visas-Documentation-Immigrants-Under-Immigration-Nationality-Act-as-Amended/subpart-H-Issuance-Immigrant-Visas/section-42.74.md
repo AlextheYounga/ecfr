@@ -1,18 +1,14 @@
 ##### § 42.74 Issuance of new, replacement, or duplicate visas. #####
 
-(a) *New immigrant visa for a special immigrant under INA 101(a)(27)(A) and (B).* The consular officer may issue a new immigrant visa to a qualified alien entitled to status under INA 101(a)(27)(A) or (B), who establishes:
+(a) *New immigrant visa for a special immigrant under INA 101(a)(27)(A) and (B).* The consular officer may issue a new immigrant visa to a qualified alien entitled to status under INA 101(a)(27)(A) or (B), provided that:
 
-(1)(i) That the original visa has been lost, mutilated or has expired; or
+(1) The alien establishes that the original visa has been lost, mutilated, or has expired; or that the alien will be unable to use it during the period of its validity; and
 
-(ii) That the alien will be unable to use it during the period of its validity; provided that:
+(2) The alien pays anew the application processing fees prescribed in the Schedule of Fees (22 CFR 22.1); and
 
-(A) The alien pays anew the application processing fees prescribed in the Schedule of Fees (22 CFR 22.1); and
+(3) The consular officer ascertains whether the original issuing office knows of any reason why a new visa should not be issued.
 
-(B) The consular officer ascertains whether the original issuing office knows of any reason why a new visa should not be issued.
-
-(2) [Reserved]
-
-(b) *Replacement immigrant visa for an immediate relative or for an alien subject to numerical limitation.* A consular officer may issue a replacement visa under the original number of a qualified alien entitled to status as an immediate relative (INA 201(b)(2)), a family or employment preference immigrant (INA 203(a) or (b)), or a diversity immigrant (INA 203(c)), if -
+(b) *Replacement immigrant visa for an immediate relative or for an alien subject to numerical limitation.* A consular officer may issue a replacement visa under the original number of a qualified alien entitled to status as an immediate relative (INA 201(b)(2)), a family or employment preference immigrant (INA 203(a) or (b)), or a diversity immigrant (INA 203(c)), if—
 
 (1) The alien is unable to use the visa during the period of its validity due to reasons beyond the alien's control;
 
@@ -24,7 +20,7 @@
 
 (5) The consular officer ascertains whether the original issuing office knows of any reason why a new visa should not be issued.
 
-(c) *Replacement visa for adoptees.* A consular officer may issue a replacement immigrant visa to a qualified alien, if the conditions in paragraphs (a)(1) and (3) of this section are met, and if the consular officer determines -
+(c) *Replacement visa for adoptees.* A consular officer may issue a replacement immigrant visa to a qualified alien, if the conditions in paragraphs (a)(1) and (3) of this section are met, and if the consular officer determines—
 
 (1) A prior immigrant visa was issued on or after March 27, 2013, to a child who has been lawfully adopted, or who is coming to the United States to be adopted, by a United States citizen;
 
@@ -34,4 +30,4 @@
 
 (d) *Duplicate visas issued within the validity period of the original visa.* If the validity of a visa previously issued has not yet terminated and the original visa has been lost or mutilated, a duplicate visa may be issued containing all of the information appearing on the original visa, including the original issuance and expiration dates. The applicant shall execute a new application and provide copies of the supporting documents submitted in support of the original application. The alien must pay anew the application processing fees prescribed in the Schedule of Fees.
 
-[84 FR 35299, July 23, 2019]
+[84 FR 35299, July 23, 2019, as amended at 87 FR 2705, Jan. 19, 2022]

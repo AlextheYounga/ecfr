@@ -1,0 +1,3 @@
+##### § 30.409 How will a pending purchase at probate request affect how the decedent's property is distributed? #####
+
+When the decision (or distribution order following a reconsideration order under § 30.251) becomes final, BIA may distribute the estate as stated in the decision or distribution order. The decision or distribution order will identify any property interest that is the subject of a pending request for purchase at probate, and that the property interest will be conveyed with an encumbrance, which will remain on the property interest until the request is fully addressed. The encumbrance does not affect distribution of trust personalty.

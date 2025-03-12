@@ -1,11 +1,11 @@
-##### § 30.183 Who may receive a renounced interest of less than 5 percent in trust or restricted land? #####
+##### § 30.183 Who may receive a renounced interest in trust or restricted land if the land will descend pursuant to a valid will? #####
 
-You may renounce an interest in trust or restricted land that is not disposed of by a valid will and that represents less than 5 percent of the entire undivided ownership of a parcel of land only in favor of:
+A devisee may renounce an interest in trust or restricted land in favor of any one or more of the following:
 
-(a) One other eligible heir;
+(a) A lineal descendant of the testator;
 
-(b) One Indian who is related to you by blood;
+(b) A co-owner;
 
-(c) One co-owner of another trust or restricted interest in the same parcel; or
+(c) The Tribe with jurisdiction over the interest; or
 
-(d) The Indian tribe with jurisdiction over the interest.
+(d) Any Indian.

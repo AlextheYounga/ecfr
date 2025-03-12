@@ -1,7 +1,3 @@
-##### § 30.188 Does a renounced interest vest in the person who renounced it? #####
+##### § 30.188 What steps will the judge take if I designate a recipient? #####
 
-No. An interest in trust or restricted property renounced under § 30.181 is not considered to have vested in the renouncing heir or devisee, and the renunciation is not considered a transfer by gift of the property renounced.
-
-(a) If the renunciation directs the interest to an eligible person or entity, the interest passes directly to that person or entity.
-
-(b) If the renunciation does not direct the interest to an eligible person or entity, the renounced interest passes to the heirs of the decedent as if the person renouncing the interest had predeceased the decedent, or if there are no other heirs, to the residuary devisees.
+If you choose to renounce your interests in favor of a designated recipient, the judge will determine whether the designated recipient is eligible to receive the interest. If the designated recipient is eligible, the judge must notify the designated recipient of the renunciation.

@@ -1,3 +1,9 @@
-##### § 30.249 xxx #####
+##### § 30.249 What happens when the judge issues an order on reopening? #####
 
-Link to an amendment published at 86 FR 72088, Dec. 20, 2021.
+(a) Copies of the judge's order on reopening must be mailed to the petitioner, the affected agencies, and all interested parties.
+
+(b) The judge must submit the record made on a reopening petition to the designated LTRO.
+
+(c) The order on reopening will become final on the expiration of the 30 days allowed for the filing of a notice of appeal, as provided in this part.
+
+[86 FR 72088, Dec. 20, 2021]

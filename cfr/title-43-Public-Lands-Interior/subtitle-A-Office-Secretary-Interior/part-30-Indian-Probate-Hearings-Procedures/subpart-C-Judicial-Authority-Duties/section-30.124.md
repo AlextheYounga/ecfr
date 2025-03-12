@@ -1,15 +1,17 @@
-##### § 30.124 When may a judge make a finding of death? #####
+##### § 30.124 When may a judge presume the death of an heir, devisee, or person for whom a probate case has been opened? #####
 
-Link to an amendment published at 86 FR 72084, Dec. 20, 2021.
+(a) When a person cannot be proven dead but evidence of death is needed, a judge may presume that an heir, devisee, or person for whom a probate case has been opened has died at a certain time if any of the following evidence is submitted:
 
-(a) A judge may make a finding that an heir, devisee, or person for whom a probate case has been opened is deceased, by reason of extended unexplained absence or other pertinent circumstances. The judge must include the date of death in the finding. The judge will make a finding of death only on:
+(1) A certified copy of an official report or finding by an agency or department of the United States, State, or Tribe that a missing person is dead or presumed to be dead. The judge will use the date of death found by the agency or department, if such a finding was made. If no such finding was made, unless other evidence is submitted showing an actual date of death, the judge will use the date on which the person was reported missing as the date of death.
 
-(1) A determination from a court of competent jurisdiction; or
+(2) A certified copy of an order from a court of competent jurisdiction that a missing person is dead or presumed to be dead. The judge will use the date of death found by the court, if such a finding was made. If no such finding was made, unless other evidence is submitted showing an actual date of death, the judge will use the date on which the person was reported missing as the date of death.
 
-(2) Clear and convincing evidence.
+(3) Signed affidavits or sworn testimony by those in a position to know that facts and other records show that the person has been absent from his or her residence for no apparent reason, or has no identifiable place of residence and cannot be located, and has not been heard from for at least 6 years. If there is no evidence available that the person continued to live after the date of disappearance or the date of last contact if the person has no identifiable place of residence, the judge will use the date the person disappeared or the date of last contact as the date of death.
 
-(b) In any proceeding to determine whether a person is deceased, the following rebuttable presumptions apply:
+(4) When a person has been missing for less than 6 years but may be presumed dead due to an identified incident, such as drowning, fire, or accident, signed affidavits or sworn testimony from individuals who know the circumstances surrounding the occurrence leading to the person's disappearance. The best evidence is statements from individuals who witnessed the occurrence or saw the missing person at the scene of the occurrence shortly before it happened. If there is no evidence available that the person continued to live after the date of the identified incident, the judge will use the date of the identified incident as the date of death.
 
-(1) The absent person is presumed to be alive if credible evidence establishes that the absent person has had contact with any person or entity during the 6-year period preceding the hearing; and
+(5) When a person cannot be located by BIA or known surviving family members and was born at least 100 years before the submission of a probate case to OHA, certification from BIA or signed affidavits or sworn testimony by those in a position to know the approximate date of birth. If there is no evidence available that the person continued to live after reaching the age of 100, the judge will use the date that is 100 years after the date of birth as the date of death.
 
-(2) The absent person is presumed to be deceased if clear and convincing evidence establishes that no person or entity with whom the absent person previously had regular contact has had any contact with the absent person during the 6 years preceding the hearing.
+(b) A presumption of death made based on paragraph (a) of this section can be rebutted by evidence that establishes that the person is still alive or explains the individual's absence in a manner consistent with continued life rather than death.
+
+[86 FR 72084, Dec. 20, 2021]

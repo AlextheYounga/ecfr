@@ -1,0 +1,3 @@
+##### § 30.407 How will OHA address requests to purchase at probate? #####
+
+The judge has discretion to deny a request to purchase at probate in the decision or at any time thereafter. If one or more requests to purchase at probate are timely filed, OHA will address those requests in the probate decision (or reconsideration order if the request to purchase is for property that has been added to the decedent's estate under § 30.251) and either deny the requests at that time or provide instructions for continuing the purchase at probate process.

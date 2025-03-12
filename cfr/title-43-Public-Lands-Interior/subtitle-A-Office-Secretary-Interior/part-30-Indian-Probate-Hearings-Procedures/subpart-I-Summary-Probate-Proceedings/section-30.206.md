@@ -1,5 +1,7 @@
-##### § 30.206 What happens after I file a request for de novo review? #####
+##### § 30.206 What notice of the summary probate decision will the judge or ADM provide? #####
 
-(a) Within 10 days of receiving a request for de novo review, OHA will notify the agency that prepared the probate file, all other affected agencies, and all interested parties of the de novo review, and assign the case to a judge.
+When the judge or ADM issues a decision in a summary probate proceeding, the judge or ADM must mail or deliver a notice of the decision, together with a copy of the decision, to each affected agency and to each interested party.
 
-(b) The judge will review the merits of the case, conduct a hearing as necessary or appropriate under the regulations in this part, and issue a new decision under this part.
+(a) The notice must include a statement that interested parties who are adversely affected have a right to file a request for review with the judge or ADM within 30 days of the mailing date of the decision.
+
+(b) The decision will become final at the end of the 30-day period, unless a timely request is filed.

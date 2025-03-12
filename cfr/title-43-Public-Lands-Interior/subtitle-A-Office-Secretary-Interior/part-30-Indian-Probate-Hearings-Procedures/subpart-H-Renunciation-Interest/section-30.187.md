@@ -1,3 +1,3 @@
-##### § 30.187 May I revoke my renunciation? #####
+##### § 30.187 What happens if I do not designate any eligible individual or entity to receive the renounced interest? #####
 
-A written renunciation is irrevocable after the judge enters the final order in the probate proceeding. A revocation will not be effective unless the judge actually receives it before entry of a final order.
+If you do not designate any individual or entity to receive the renounced interest, or if you designate an individual or entity who is not eligible to receive the renounced interest, the interest will descend to the decedent's heirs or devisees as if you predeceased the decedent.

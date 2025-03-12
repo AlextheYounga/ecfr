@@ -1,19 +1,7 @@
-##### § 30.182 Who may receive a renounced interest in trust or restricted land? #####
+##### § 30.182 Who may renounce an inherited interest on behalf of an heir or devisee who dies before the hearing? #####
 
-(a) If the interest renounced is an interest in land, you may renounce only in favor of:
+If an individual heir or devisee dies before the hearing, a renunciation may be made on his or her behalf by any of the following, if the judge makes a determination that the renunciation is in the best interest of the parties:
 
-(1) An eligible heir of the decedent;
+(a) An individual appointed by a probate court to act on behalf of his or her private (*i.e.,* non-Federal-trust) estate, including but not limited to a personal representative, administrator, or executor; or
 
-(2) A person eligible to be a devisee of the interest, if you are a devisee of the interest under a valid will; or
-
-(3) The tribe with jurisdiction over the interest.
-
-(b) For purposes of paragraph (a)(2) of this section, a person eligible to be a devisee of the interest is:
-
-(1) A lineal descendant of the testator;
-
-(2) A person who owns a preexisting undivided trust or restricted interest in the same parcel;
-
-(3) Any Indian; or
-
-(4) The tribe with jurisdiction over the interest.
+(b) Someone appointed by the judge with the express approval of all the heirs or devisees of the deceased heir or devisee.

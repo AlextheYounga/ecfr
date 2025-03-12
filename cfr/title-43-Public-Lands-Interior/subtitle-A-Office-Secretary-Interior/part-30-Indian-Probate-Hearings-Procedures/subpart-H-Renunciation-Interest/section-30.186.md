@@ -1,3 +1,13 @@
-##### § 30.186 Are renunciations that predate the American Indian Probate Reform Act of 2004 valid? #####
+##### § 30.186 How do I renounce an inherited interest? #####
 
-Any renunciation filed and included as part of a probate decision or order issued before the effective date of the American Indian Probate Reform Act of 2004 remains valid.
+To renounce an interest under § 30.180, you must file with the judge a written declaration or Tribal resolution specifying the interest to be renounced. The declaration must be signed by you and acknowledged before a notary or judge. The Tribal resolution must be approved by appropriate Tribal authorities.
+
+(a) In your declaration, you may retain a life estate in a specified interest in trust or restricted land and renounce the remainder interest, or you may renounce the complete interest.
+
+(b) If you renounce an interest in trust or restricted land, you may either:
+
+(1) Designate an eligible person or entity meeting the requirements of § 30.182 or § 30.183 as the recipient; or
+
+(2) Renounce without making a designation.
+
+(c) If a distribution order to add property to the decedent's estate is issued, you may renounce an inherited interest in the property to be added by notifying the judge in writing of your intent to renounce the interest within 30 days of the mailing date of the distribution order.

@@ -1,13 +1,9 @@
-##### § 30.184 Who may receive a renounced interest in trust personalty? #####
+##### § 30.184 Who may receive a renounced interest in trust or restricted land if the land will descend by intestate succession? #####
 
-(a) You may renounce an interest in trust personalty in favor of any person or entity.
+(a) If the interest in trust or restricted land represents 5 percent or more of the entire undivided ownership of the parcel, you may renounce that interest in favor of one or more of the following:
 
-(b) The Secretary will maintain and continue to manage trust personalty transferred by renunciation to:
+(1) Eligible heirs of the decedent; or
 
-(1) A lineal descendant of the testator;
+(2) The Tribe with jurisdiction over the interest.
 
-(2) A tribe; or
-
-(3) Any Indian.
-
-(c) The Secretary will directly disburse and distribute trust personalty transferred by renunciation to a person or entity other than those listed in paragraph (b) of this section.
+(b) If the interest in the trust or restricted land represents less than 5 percent of the entire undivided ownership of the parcel, you may renounce that interest in favor of only one person or entity listed in paragraph (a) of this section, or to one Indian person related to you by blood.

@@ -1,9 +1,7 @@
-##### § 30.244 How will the judge decide my petition for reopening? #####
+##### § 30.244 When must a petition for reopening be filed? #####
 
-Link to an amendment published at 86 FR 72087, Dec. 20, 2021.
+(a) A petition for reopening to correct an error of fact or law in a decision or post-decision order may be filed at any time, but if a petition for reopening is filed by an interested party, or by BIA on behalf of an interested party, it must be filed within 1 year after the interested party's discovery of the alleged error.
 
-(a) If the judge finds that proper grounds are not shown, the judge will issue an order denying the petition for reopening and giving the reasons for the denial. An order denying reopening must include a notice stating that interested parties who are adversely affected have a right to appeal the order to the Board within 30 days of the date on which the order was mailed, and giving the Board's address. Copies of the judge's decision must be mailed to the petitioner, the agencies, and those persons whose rights would be affected.
+(b) If a petition for reopening to correct an error of fact or law in the original decision is filed before the deadline to file a petition for rehearing has passed, it will be treated as a petition for rehearing.
 
-(b) If the petition appears to show merit, the judge must cause copies of the petition and all papers filed by the petitioner to be served on those persons whose interest in the estate might be affected if the petition is granted. They may respond to the petition by filing answers, cross-petitions, or briefs. The filings must be made within the time periods set by the judge.
-
-[73 FR 67289, Nov. 13, 2008. Redesignated at 76 FR 7507, Feb. 10, 2011]
+[86 FR 72087, Dec. 20, 2021]

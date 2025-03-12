@@ -1,15 +1,15 @@
-##### § 30.125 May a judge reopen a probate case to correct errors and omissions? #####
+##### § 30.125 May a judge order that a property interest be partitioned as a result of a devise? #####
 
-Link to an amendment published at 86 FR 72084, Dec. 20, 2021.
+(a) A judge may order a property interest to be partitioned if:
 
-(a) On the written request of an interested party, or on the basis of the judge's own order, at any time, a judge has the authority to reopen a probate case to:
+(1) A will attempts to divide an allotment into two or more distinct portions and devises at least one of those portions;
 
-(1) Determine the correct identity of the original allottee, or any heir or devisee;
+(2) The decedent was the sole owner of the allotment;
 
-(2) Determine whether different persons received the same allotment;
+(3) The allotment is held entirely in trust or restricted status; and
 
-(3) Decide whether trust patents covering allotments of land were issued incorrectly or to a non-existent person; or
+(4) The devise describes the portions of the allotment in a manner that allows the judge to readily ascertain which portion of the allotment descends to each intended devisee.
 
-(4) Determine whether more than one allotment of land had been issued to the same person under different names and numbers or through other errors in identification.
+(b) If the requirements of paragraph (a) of this section are not met, the judge may find that a devise of a portion of an undivided allotment fails.
 
-(b) The judge will notify interested parties if a probate case is reopened and will conduct appropriate proceedings under this part.
+[86 FR 72084, Dec. 20, 2021]

@@ -1,0 +1,3 @@
+##### § 30.422 What will happen to any lease income received or accrued from purchased land interests before the purchased interest vests in the purchaser? #####
+
+Any lease income received or accrued from a property interest before the date the purchased interest vests in the purchaser will be paid to the heir(s), devisee(s), or surviving spouse from whom purchase of the interest was made based on the fractional ownership interests in the parcel as determined in the decision or distribution order.

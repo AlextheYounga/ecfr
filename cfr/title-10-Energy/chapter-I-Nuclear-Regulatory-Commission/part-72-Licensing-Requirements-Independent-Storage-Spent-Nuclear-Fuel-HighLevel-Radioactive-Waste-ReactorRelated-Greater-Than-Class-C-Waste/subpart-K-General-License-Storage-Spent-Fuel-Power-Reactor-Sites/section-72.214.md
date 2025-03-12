@@ -1,6 +1,6 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 86 FR 61053, Nov. 5, 2021.Link to an amendment published at 86 FR 69983, Dec. 9, 2021.
+Link to an amendment published at 86 FR 69983, Dec. 9, 2021.
 
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
@@ -224,17 +224,21 @@ Model Number: NAC-UMS.
 
 Certificate Number: 1021.
 
-Initial Certificate Effective Date: April 19, 2000.
+Initial Certificate Effective Date: April 19, 2000, superseded by Renewed Initial Certificate on January 19, 2022.
 
-Amendment Number 1 Effective Date: February 20, 2001.
+Amendment Number 1 Effective Date: February 20, 2001, superseded by Renewed Amendment Number 1 on January 19, 2022.
 
-SAR Submitted by: Transnuclear, Inc.
+SAR Submitted by: Transnuclear, Inc., now TN Americas LLC.
+
+Renewal SAR Submitted by: TN Americas LLC.
 
 SAR Title: Final Safety Analysis Report for the TN-32 Dry Storage Cask.
 
 Docket Number: 72-1021.
 
 Certificate Expiration Date: April 19, 2020.
+
+Renewed Certificate Expiration Date: April 19, 2060.
 
 Model Number: TN-32, TN-32A, TN-32B.
 

@@ -26,7 +26,7 @@ A Unit Discipline Committee (UDC) will review the incident report once the staff
 
 (e) *Evidence.* You are entitled to make a statement and present documentary evidence to the UDC on your own behalf. The UDC will consider all evidence presented during its review. The UDC's decision will be based on at least some facts and, if there is conflicting evidence, on the greater weight of the evidence.
 
-(f) *Sanctions.* If you committed a prohibited act(s), the UDC can impose any of the available sanctions listed in Tables 1 and 2, except loss of good conduct sentence credit, disciplinary segregation, or monetary fines.
+(f) *Sanctions.* If you committed a prohibited act or prohibited acts, the UDC can impose any of the available sanctions in Tables 1 and 2 of § 541.3, except loss of good conduct time credit, FSA Time Credits, disciplinary segregation, or monetary fines.
 
 (g) *Referral to the DHO.* If the UDC refers the incident report to the DHO for further review, the UDC will advise you of your rights at the upcoming DHO hearing, as detailed in § 541.8.
 
@@ -34,4 +34,4 @@ A Unit Discipline Committee (UDC) will review the incident report once the staff
 
 (i) *Appeals.* You may appeal the UDC's action(s) through the Administrative Remedy Program, 28 CFR part 542, subpart B.
 
-[75 FR 76267, Dec. 8, 2010; 75 FR 81854, Dec. 29, 2010]
+[75 FR 76267, Dec. 8, 2010; 75 FR 81854, Dec. 29, 2010; 87 FR 2719, Jan. 19, 2022]
