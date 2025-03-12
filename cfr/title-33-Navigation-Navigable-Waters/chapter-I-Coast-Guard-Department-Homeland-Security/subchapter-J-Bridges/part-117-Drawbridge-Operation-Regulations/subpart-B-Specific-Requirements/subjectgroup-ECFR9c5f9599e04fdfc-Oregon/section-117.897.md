@@ -24,4 +24,4 @@ Link to an amendment published at 87 FR 10311, Feb. 24, 2022.
 
 (vi) Morrison Bridge, Portland, mile 12.8, will open a single leaf of the double leaf bascule bridge, upon the receipt of a telephone (503-988-3452) or VHF channel 13 radio signal to the Hawthorne Bridge, at Willamette River mile 13.1, given at least a two-hour advance notice, or four-hour advance notice if tug assist is required.
 
-[CGD13-05-023, 70 FR 73939, Dec. 14, 2005, as amended by USCG-2008-0721, 74 FR 5986, Feb. 4, 2009; USCG-2021-0778, 87 FR 10311, Feb. 24, 2022]Effective Date Note:By USCG-2021-0778, 87 FR 10311, Feb. 24, 2022, § 117.897 was amended by staying paragraph (c)(3)(iv) and adding paragraph (c)(3)(vi), effective Apr. 1, 2022 through May 31, 2023.
+[CGD13-05-023, 70 FR 73939, Dec. 14, 2005, as amended by USCG-2008-0721, 74 FR 5986, Feb. 4, 2009; USCG-2021-0778, 87 FR 10311, Feb. 24, 2022]Effective Date Note:By USCG-2021-0778, 87 FR 10311, Feb. 24, 2022, § 117.897 was amended by staying paragraph (c)(3)(iv) and adding paragraph (c)(3)(vi), effective Apr. 1, 2022, through May 31, 2023.

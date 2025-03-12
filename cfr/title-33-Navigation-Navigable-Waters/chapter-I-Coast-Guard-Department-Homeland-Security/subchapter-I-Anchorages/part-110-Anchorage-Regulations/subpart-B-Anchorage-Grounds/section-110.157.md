@@ -1,5 +1,7 @@
 ##### § 110.157 Delaware Bay and River. #####
 
+Link to an amendment published at 87 FR 41250, July 12, 2022.
+
 (a) *The anchorage grounds* - (1) *Anchorage A off the entrance to the Mispillion River.* In Delaware Bay southwest of Brandywine Channel beginning at latitude 38°53′57″ N., longitude 75°08′00″ W., thence northwesterly to latitude 39°01′22″ N., longitude 75°13′25″ W., thence southwesterly to latitude 39°00′49″ N., longitude 75°14′57″ W., thence southeasterly to latitude 38°53′22″ N., longitude 75°09′26″ W., thence northeasterly to the point of beginning. Supervision over the anchoring of vessels and over all cargo transfer operations in Anchorage A is exercised by the Captain of the Port, Philadelphia. The regulations of paragraphs (b)(1) and (b)(2) of this section do not apply to this anchorage.
 
 (2) *Anchorage 1 off Bombay Hook Point.* On the southwest side of the channel along Liston Range, in the waters bounded by a line connecting the following points:
