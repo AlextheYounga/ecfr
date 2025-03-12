@@ -1,5 +1,7 @@
 ##### § 3011.100 Applicability and Scope. #####
 
+Link to an amendment published at 88 FR 37154, June 7, 2023.
+
 (a) *Applicability.* The rules in this part apply whenever:
 
 (1) The Postal Service claims that any materials it provides to the Commission in connection with any proceeding or other purpose under title 39 of the U.S. Code, contain non-public information;

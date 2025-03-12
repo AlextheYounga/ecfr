@@ -18,4 +18,4 @@
 
 (d) *Enforcement Period.* This safety zone will be enforced for 120 days starting on April 21, 2023.
 
-[USCG-2022-0352, 88 FR 25496, Apr. 27, 2023]
+[USCG-2022-0352, 88 FR 25496, Apr. 27, 2023]Effective Date Note:At 88 FR 25496, Apr. 27, 2023, § 165.T090352 was added, effective Apr. 27, 2023, until Aug. 19, 2023.

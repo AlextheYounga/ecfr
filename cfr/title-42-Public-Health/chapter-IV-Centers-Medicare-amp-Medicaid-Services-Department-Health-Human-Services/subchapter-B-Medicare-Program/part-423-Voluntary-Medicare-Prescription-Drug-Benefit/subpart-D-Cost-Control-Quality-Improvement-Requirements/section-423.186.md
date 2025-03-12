@@ -226,6 +226,10 @@
 
 (g) *Applying the improvement measure scores.* (1) CMS runs the calculations twice for the highest level rating for each contract-type (overall rating for MA-PD contracts and Part D summary rating for PDPs), with the reward factor adjustment if applicable and the CAI adjustment, once including the improvement measure(s) and once without including the improvement measure(s). In deciding whether to include the improvement measures in a contract's final highest rating, CMS applies the following rules:
 
+(i) If the highest rating for each contract-type is 4 stars or more without the use of the improvement measure(s) and with all applicable adjustments (CAI and the reward factor), a comparison of the highest rating with and without the improvement measure(s) is done. The higher rating is used for the rating.
+
+(ii) If the highest rating is less than 4 stars without the use of the improvement measure(s) and with all applicable adjustments (CAI and the reward factor), the rating will be calculated with the improvement measure(s).
+
 (2) The Part D summary rating for MA-PDs will include the Part D improvement measure.
 
 (3) For 2022 Star Ratings only, CMS runs the calculations twice for the highest rating for each contract-type (overall rating for MA-PD contracts and Part D summary rating for PDPs) and Part D summary rating for MA-PDs with all applicable adjustments (CAI and the reward factor), once including the improvement measure(s) and once without including the improvement measure(s). In deciding whether to include the improvement measures in a contract's highest and summary rating(s), CMS applies the following rules:

@@ -1,5 +1,7 @@
 ##### § 2.105 United States Table of Frequency Allocations. #####
 
+Link to an amendment published at 88 FR 37320, June 7, 2023.
+
 (a) The United States Table of Frequency Allocations (United States Table) is subdivided into the Federal Table of Frequency Allocations (Federal Table, column 4 of § 2.106) and the non-Federal Table of Frequency Allocations (non-Federal Table, column 5 of § 2.106). The United States Table is based on the Region 2 Table because the relevant area of jurisdiction is located primarily in Region 21 (*i.e.*, the 50 States, the District of Columbia, the Caribbean insular areas,2 and some of the Pacific insular areas).3 The Federal Table is administered by NTIA4 and the non-Federal Table is administered by the Federal Communications Commission (FCC).5
 
 1*See* 2.104(b) for definitions of the ITU Regions.

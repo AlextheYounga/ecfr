@@ -1,7 +1,5 @@
 ##### § 660.705 Prohibitions. #####
 
-Link to an amendment published at 88 FR 29548, May 8, 2023.
-
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) Fish for HMS in the U.S. EEZ off the Pacific coast without a permit issued under § 660.707 for the use of authorized fishing gear.
@@ -106,4 +104,18 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (uu) Retain on board, transship, or land any fish caught with a large-mesh drift gillnet (mesh size ≥ 14 inches) later than 4 days after the effective date of a drift gillnet fishery closure and before the drift gillnet fishery re-opens pursuant to § 660.713(h)(2)(ii).
 
-[69 FR 18453, Apr. 7, 2004, as amended at 72 FR 58259, Oct. 15, 2007; 77 FR 15975, Mar. 19, 2012; 80 FR 10395, Feb. 26, 2015; 80 FR 46520, Aug. 5, 2015; 85 FR 7250, Feb. 7, 2020]
+(vv) Deploy or have onboard a vessel, deep-set buoy gear (DSBG) in contravention of gear configuration specifications described at § 660.715(a) and (b).
+
+(ww) Own or operate a vessel used to fish with DSBG in contravention of operational requirements specified at § 660.715(c)(1) and (2).
+
+(xx) When required under § 660.715(c)(3), fail to notify NMFS or the NMFS-designated observer provider at least 48 hours prior to departure on a fishing trip during which DSBG is deployed.
+
+(yy) Own or operate a vessel that is engaged in DSBG fishing without record of the operator's participation in a protected species workshop as required under § 660.715(c)(4).
+
+(zz) Own or operate a vessel used to fish with DSBG in Federal waters north of a line extending seaward of the Oregon/Washington border at 46°16′ N latitude.
+
+(aaa) Own or operate a vessel used to fish with DSBG in the Southern California Bight (as defined at § 660.715(d)(2)) while not in possession of a valid DSBG limited entry permit.
+
+(bbb) Own or operate a vessel used to fish a linked configuration of DSBG shoreward of a line approximating the 400 meter depth contour (according to coordinates specified at § 660.715(d)(3)) in waters between a line extending seaward at 34°16′8.331″ N latitude and a line extending seaward from the Oregon/Washington border at 46°16′ N latitude.
+
+[69 FR 18453, Apr. 7, 2004, as amended at 72 FR 58259, Oct. 15, 2007; 77 FR 15975, Mar. 19, 2012; 80 FR 10395, Feb. 26, 2015; 80 FR 46520, Aug. 5, 2015; 85 FR 7250, Feb. 7, 2020; 88 FR 29548, May 8, 2023]
