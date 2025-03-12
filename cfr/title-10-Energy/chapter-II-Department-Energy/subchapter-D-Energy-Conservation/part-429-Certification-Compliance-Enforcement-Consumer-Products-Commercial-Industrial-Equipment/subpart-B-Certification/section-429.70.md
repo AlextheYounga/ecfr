@@ -1,7 +1,5 @@
 ##### § 429.70 Alternative methods for determining energy efficiency and energy use. #####
 
-Link to an amendment published at 82 FR 1475, Jan. 5, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8985, Feb. 2, 2017.This amendment was further delayed until July 3, 2017 at 82 FR 14425, Mar. 21, 2017.Link to an amendment published at 82 FR 1100, Jan. 4, 2017.This amendment was further delayed until July 3, 2017 at 82 FR 14426, Mar. 21, 2017.
-
 (a) *General applicability of an AEDM.* A manufacturer of covered products or covered equipment explicitly authorized to use an AEDM in §§ 429.14 through 429.62 may not distribute any basic model of such equipment in commerce unless the manufacturer has determined the energy efficiency of the basic model, either from testing the basic model in conjunction with DOE's certification sampling plans and statistics or from applying an alternative method for determining energy efficiency or energy use (AEDM) to the basic model, in accordance with the requirements of this section. In instances where a manufacturer has tested a basic model, the manufacturer may not knowingly use an AEDM to overrate the efficiency (or underrate the consumption) of the model.
 
 (b) *Testing.* Testing for each covered product or covered equipment must be done in accordance with the sampling plan provisions established in § 429.11 and the testing procedures in parts 430 and 431 of this chapter.
@@ -196,11 +194,9 @@ Link to an amendment published at 82 FR 1475, Jan. 5, 2017.This amendment was de
 
 (*4*) Obtaining DOE authorization to resume use of the AEDM.
 
-(d) *Alternative efficiency determination method for distribution transformers* - A manufacturer may use an AEDM to determine the efficiency of one or more of its untested basic models only if it determines the efficiency of at least five of its other basic models (selected in accordance with paragraph (d)(3) of this section) through actual testing.
+(d) *Alternative efficiency determination method for distribution transformers.* A manufacturer may use an AEDM to determine the efficiency of one or more of its untested basic models only if it determines the efficiency of at least five of its other basic models (selected in accordance with paragraph (d)(3) of this section) through actual testing.
 
-(1) *Criteria an AEDM must satisfy.*
-
-(i) The AEDM has been derived from a mathematical model that represents the electrical characteristics of that basic model;
+(1) *Criteria an AEDM must satisfy.* (i) The AEDM has been derived from a mathematical model that represents the electrical characteristics of that basic model;
 
 (ii) The AEDM is based on engineering and statistical analysis, computer simulation or modeling, or other analytic evaluation of performance data; and
 
@@ -250,15 +246,21 @@ Link to an amendment published at 82 FR 1475, Jan. 5, 2017.This amendment was de
 
 (e) *Alternate Efficiency Determination Method (AEDM) for central air conditioners and heat pumps.* This paragraph (e) sets forth the requirements for a manufacturer to use an AEDM to rate central air conditioners and heat pumps.
 
-(1) *Criteria an AEDM must satisfy.* A manufacturer may not apply an AEDM to an individual model/combination to determine its represented values (SEER, EER, HSPF, and/or PW,OFF) pursuant to this section unless authorized pursuant to § 429.16(d) and:
+(1) *Criteria an AEDM must satisfy.* A manufacturer may not apply an AEDM to an individual model/combination to determine its represented values (SEER, EER, HSPF, SEER2, EER2, HSPF2, and/or PW,OFF) pursuant to this section unless authorized pursuant to § 429.16(d) and:
 
-(i) The AEDM is derived from a mathematical model that estimates the energy efficiency or energy consumption characteristics of the individual model or combination (SEER, EER, HSPF, and/or PW,OFF) as measured by the applicable DOE test procedure; and
+(i) The AEDM is derived from a mathematical model that estimates the energy efficiency or energy consumption characteristics of the individual model or combination (SEER, EER, HSPF, SEER2, EER2, HSPF2, and/or PW,OFF) as measured by the applicable DOE test procedure; and
 
 (ii) The manufacturer has validated the AEDM in accordance with paragraph (e)(2) of this section.
 
 (2) *Validation of an AEDM.* Before using an AEDM, the manufacturer must validate the AEDM's accuracy and reliability as follows:
 
-(i) The manufacturer must complete testing of each basic model as required under § 429.16(b)(2). Using the AEDM, calculate the energy use or efficiency for each of the tested individual models/combinations within each basic model. Compare the represented value based on testing and the AEDM energy use or efficiency output according to paragraph (e)(2)(ii) of this section. The manufacturer is responsible for ensuring the accuracy and reliability of the AEDM.
+(i) Follow paragraph (e)(2)(i)(A) of this section for requirements on minimum testing. Follow paragraph (e)(2)(i)(B) of this section for requirements on ensuring the accuracy and reliability of the AEDM.
+
+(A) *Minimum testing.* (*1*) For non-space-constrained single-split system air conditioners and heat pumps rated based on testing in accordance with appendix M to subpart B of part 430, the manufacturer must test each basic model as required under § 429.16(b)(2). Until July 1, 2024, for non-space-constrained single-split-system air conditioners and heat pumps rated based on testing in accordance with appendix M1 to subpart B of part 430, the manufacturer must test a single-unit sample from 20 percent of the basic models distributed in commerce to validate the AEDM. On or after July 1, 2024, for non-space-constrained single-split-system air conditioners and heat pumps rated based on testing in accordance with appendix M1 to subpart B of part 430, the manufacturer must complete testing of each basic model as required under § 429.16(b)(2).
+
+(*2*) For other than non-space-constrained single-split-system air conditioners and heat pumps, the manufacturer must test each basic model as required under § 429.16(b)(2).
+
+(B) Using the AEDM, calculate the energy use or efficiency for each of the tested individual models/combinations within each basic model. Compare the represented value based on testing and the AEDM energy use or efficiency output according to paragraph (e)(2)(ii) of this section. The manufacturer is responsible for ensuring the accuracy and reliability of the AEDM and that their representations are appropriate and the models being distributed in commerce meet the applicable standards, regardless of the amount of testing required in paragraphs (e)(2)(i)(A) and (e)(2)(i)(B) of this section.
 
 (ii) *Individual model/combination tolerances.* This paragraph (e)(2)(ii) provides the tolerances applicable to individual models/combinations rated using an AEDM.
 
@@ -296,11 +298,7 @@ Link to an amendment published at 82 FR 1475, Jan. 5, 2017.This amendment was de
 
 (iii) *Testing.* At no time during verification testing may the lab and the manufacturer communicate without DOE authorization. If during test set-up or testing, the lab indicates to DOE that it needs additional information regarding a given individual model or combination in order to test in accordance with the applicable DOE test procedure, DOE may organize a meeting between DOE, the manufacturer and the lab to provide such information.
 
-(iv) *Failure to meet certified represented value.* If an individual model/combination tests worse than its certified represented value (*i.e.,* lower than the certified efficiency value or higher than the certified consumption value) by more than 5 percent, or the test results in a different cooling capacity than its certified cooling capacity by more than 5 percent, DOE will notify the manufacturer. DOE will provide the manufacturer with all documentation related to the test set up, test conditions, and test results for the unit. Within the timeframe allotted by DOE, the manufacturer:
-
-(A) May present any and all claims regarding testing validity; and
-
-(B) If not on site for the initial test set-up, must test at least one additional unit of the same individual model or combination obtained from a retail source at its own expense, following the test requirements in § 429.110(a)(3). When testing at an independent lab, the manufacturer may choose to have DOE and the manufacturer present.
+(iv) *Failure to meet certified value.* If an individual model/combination tests worse than its certified value (*i.e.,* lower than the certified efficiency value or higher than the certified consumption value) by more than 5 percent, or the test results in cooling capacity that is lower than its certified cooling capacity, DOE will notify the manufacturer. DOE will provide the manufacturer with all documentation related to the test set up, test conditions, and test results for the unit. Within the timeframe allotted by DOE, the manufacturer may present any and all claims regarding testing validity.
 
 (v) *Tolerances.* This paragraph specifies the tolerances DOE will permit when conducting verification testing.
 
@@ -326,9 +324,7 @@ Link to an amendment published at 82 FR 1475, Jan. 5, 2017.This amendment was de
 
 (*4*) Obtaining DOE authorization to resume use of an AEDM.
 
-(f) *Alternative efficiency determination method (AEDM) for walk-in refrigeration equipment* -
-
-(1) *Criteria an AEDM must satisfy.* A manufacturer may not apply an AEDM to a basic model to determine its efficiency pursuant to this section unless:
+(f) *Alternative efficiency determination method (AEDM) for walk-in refrigeration equipment* - (1) *Criteria an AEDM must satisfy.* A manufacturer may not apply an AEDM to a basic model to determine its efficiency pursuant to this section unless:
 
 (i) The AEDM is derived from a mathematical model that estimates the energy efficiency or energy consumption characteristics of the basic model as measured by the applicable DOE test procedure;
 
@@ -431,4 +427,49 @@ Link to an amendment published at 82 FR 1475, Jan. 5, 2017.This amendment was de
 
 (ii) For an untested basic model having any heating element with an input rating that is lower than that of the corresponding heating element in the tested basic model, the represented value of the first-hour rating and the uniform energy factor is the same as that of a tested basic model, provided that the first-hour rating for the untested basic model results in the same draw pattern specified in Table I of appendix E for the simulated-use test as was applied to the tested basic model. To establish whether this condition is met, determine the first-hour ratings for the tested and the untested basic models in accordance with the procedure described in section 5.3.3 of 10 CFR part 430, subpart B, appendix E, then compare the appropriate draw pattern specified in Table I of appendix E for the first-hour rating of the tested basic model with that for the untested basic model. If this condition is not met, then the untested basic model must be tested and the appropriate sampling provisions applied to determine its uniform energy factor in accordance with appendix E and this part.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24780, May 2, 2011, as amended at 78 FR 79595, Dec. 31, 2013; 79 FR 25505, May 5, 2014; 79 FR 27410, May 13, 2014; 80 FR 152, Jan. 5, 2015; 79 FR 40565, July 11, 2014; 81 FR 4145, Jan. 25, 2016; 81 FR 37054, June 8, 2016; 81 FR 89304, Dec. 9, 2016]
+(h) *Alternative efficiency determination method (AEDM) for compressors* - (1) *Criteria an AEDM must satisfy.* A manufacturer may not apply an AEDM to a basic model to determine its efficiency pursuant to this section, unless:
+
+(i) The AEDM is derived from a mathematical model that estimates the energy efficiency or energy consumption characteristics of the basic model as measured by the applicable DOE test procedure;
+
+(ii) The AEDM is based on engineering or statistical analysis, computer simulation or modeling, or other analytic evaluation of performance data; and
+
+(iii) The manufacturer has validated the AEDM, in accordance with paragraph (h)(2) of this section.
+
+(2) *Validation of an AEDM.* Before using an AEDM, the manufacturer must validate the AEDM's accuracy and reliability as follows:
+
+(i) *AEDM overview.* The manufacturer must select at least the minimum number of basic models for each validation class specified in paragraph (h)(2)(iv) of this section to which the particular AEDM applies. Using the AEDM, calculate the energy use or energy efficiency for each of the selected basic models. Test each basic model and determine the represented value(s) in accordance with § 429.63(a). Compare the results from the testing and the AEDM output according to paragraph (h)(2)(ii) of this section. The manufacturer is responsible for ensuring the accuracy and repeatability of the AEDM.
+
+(ii) *AEDM basic model tolerances.* (A) The predicted representative values for each basic model calculated by applying the AEDM may not be more than five percent greater (for measures of efficiency) or less (for measures of consumption) than the represented values determined from the corresponding test of the model.
+
+(B) The predicted package isentropic efficiency for each basic model calculated by applying the AEDM must meet or exceed the applicable federal energy conservation standard.
+
+(iii) *Additional test unit requirements.* (A) Each AEDM must be supported by test data obtained from physical tests of current models; and
+
+(B) Test results used to validate the AEDM must meet or exceed current, applicable Federal standards as specified in part 431 of this chapter; and
+
+(C) Each test must have been performed in accordance with the applicable DOE test procedure with which compliance is required at the time the basic models used for validation are distributed in commerce.
+
+(iv) *Compressor validation classes.*
+
+|   Validation class   |Minimum number of distinct basic models that must be tested|
+|----------------------|-----------------------------------------------------------|
+| Rotary, Fixed-speed  |                      2 Basic Models.                      |
+|Rotary, Variable-speed|                      2 Basic Models.                      |
+
+(3) *AEDM Records Retention Requirements.* If a manufacturer has used an AEDM to determine representative values pursuant to this section, the manufacturer must have available upon request for inspection by the Department records showing:
+
+(i) The AEDM, including the mathematical model, the engineering or statistical analysis, and/or computer simulation or modeling that is the basis of the AEDM;
+
+(ii) Equipment information, complete test data, AEDM calculations, and the statistical comparisons from the units tested that were used to validate the AEDM pursuant to paragraph (h)(2) of this section; and
+
+(iii) Equipment information and AEDM calculations for each basic model to which the AEDM was applied.
+
+(4) *Additional AEDM requirements.* If requested by the Department, the manufacturer must:
+
+(i) Conduct simulations before representatives of the Department to predict the performance of particular basic models of the equipment to which the AEDM was applied;
+
+(ii) Provide analyses of previous simulations conducted by the manufacturer; and/or
+
+(iii) Conduct certification testing of basic models selected by the Department.
+
+[76 FR 12451, Mar. 7, 2011; 76 FR 24780, May 2, 2011, as amended at 78 FR 79595, Dec. 31, 2013; 79 FR 25505, May 5, 2014; 79 FR 27410, May 13, 2014; 80 FR 152, Jan. 5, 2015; 79 FR 40565, July 11, 2014; 81 FR 4145, Jan. 25, 2016; 81 FR 37054, June 8, 2016; 81 FR 89304, Dec. 9, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 1475, Jan. 5, 2017]

@@ -1,0 +1,3 @@
+##### § 134.906 Intervention. #####
+
+In accordance with § 134.210(b), interested persons with a direct stake in the outcome of the case may contact OHA to intervene in the proceeding and obtain a copy of the Size Standard Petition. In the event that the Size Standard Petition contains confidential information and the intervener is not a governmental entity, the Judge may require that the intervener's attorney be admitted to a protective order before obtaining a complete copy of the Size Standard Petition.

@@ -1,0 +1,3 @@
+##### § 134.909 Standard of review. #####
+
+The standard of review for deciding a Size Standard Petition is whether the process employed by the Administrator to revise, modify, or establish the size standard was arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with the law. OHA will not adjudicate arguments that a different size standard should have been selected. The Petitioner bears the burden of proof.

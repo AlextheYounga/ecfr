@@ -1,7 +1,5 @@
 ##### § 429.134 Product-specific enforcement provisions. #####
 
-Link to an amendment published at 82 FR 1100, Jan. 4, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8985, Feb. 2, 2017.This amendment was further delayed until July 3, 2017 at 82 FR 14426, Mar. 21, 2017.
-
 (a) *General.* The following provisions apply to assessment and enforcement testing of the relevant products and equipment.
 
 (b) *Refrigerators, refrigerator-freezers, and freezers* - (1) *Verification of total refrigerated volume.* The total refrigerated volume of the basic model will be measured pursuant to the test requirements of 10 CFR part 430 for each unit tested. The results of the measurement(s) will be averaged and compared to the value of total refrigerated volume certified by the manufacturer. The certified total refrigerated volume will be considered valid only if:
@@ -176,7 +174,32 @@ Link to an amendment published at 82 FR 1100, Jan. 4, 2017.This amendment was de
 
 (2) [Reserved]
 
-(p) [Reserved]
+(p) *Compressors* - (1) *Verification of full-load operating pressure.* (i) The maximum full-flow operating pressure of each tested unit of the basic model will be measured pursuant to the test requirements of appendix A to subpart T of part 431 of this chapter, where 90 percent of the value of full-load operating pressure certified by the manufacturer will be the starting point of the test method prior to increasing discharge pressure. The measured maximum full-flow operating pressure (either the single measured value for a single unit sample or the mean of the measured maximum full-flow operating pressures for a multiple unit sample) will be compared to the certified rating for full-load operating pressure to determine if the certified rating is valid or not. The certified rating for full-load operating pressure will be considered valid only if the certified rating for full-load operating pressure is less than or equal to the measured maximum full-flow operating pressure and greater than or equal to the lesser of -
+
+(A) 90 percent of the measured maximum full-flow operating pressure; or
+
+(B) 10 psig less than the measured maximum full-flow operating pressure.
+
+(ii) If the certified full-load operating pressure is found to be valid, then the certified value will be used as the full-load operating pressure and will be the basis for determination of full-load actual volume flow rate, pressure ratio at full-load operating pressure, specific power, and package isentropic efficiency.
+
+(iii) If the certified full-load operating pressure is found to be invalid, then the measured maximum full-flow operating pressure will be used as the full-load operating pressure and will be the basis for determination of full-load actual volume flow rate, pressure ratio at full-load operating pressure, specific power, and package isentropic efficiency.
+
+(2) *Verification of full-load actual volume flow rate.* The measured full-load actual volume flow rate will be measured, pursuant to the test requirements of appendix A to subpart T of part 431 of this chapter, at the full-load operating pressure determined in paragraph (p)(1) of this section. The certified full-load actual volume flow rate will be considered valid only if the measurement(s) (either the measured full-load actual volume flow rate for a single unit sample or the mean of the measured values for a multiple unit sample) are within the percentage of the certified full-load actual volume flow rate specified in Table 1 of this section:
+
+Table 1 of § 429.134 - Allowable Percentage Deviation From the Certified Full-Load Actual Volume Flow Rate
+
+|Manufacturer certified full-load actual volume flow rate  <br/>(m3/s) × 10−3|Allowable  <br/>percent of the certified  <br/>full-load  <br/>actual volume  <br/>flow rate  <br/>(%)|
+|----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+|                               0 \< and ≤ 8.3                               |                                                  ±7                                                  |
+|                              8.3 \< and ≤ 25                               |                                                  ±6                                                  |
+|                              25 \< and ≤ 250                               |                                                  ±5                                                  |
+|                                   \> 250                                   |                                                  ±4                                                  |
+
+(i) If the certified value of full-load actual volume flow rate is found to be valid, the full-load actual volume flow rate certified by the manufacturer will be used as the basis for determination of the applicable standard.
+
+(ii) If the certified value of full-load actual volume flow rate is found to be invalid, the entire sample (one or multiple units) will be considered as failing the enforcement test.
+
+(3) *Ancillary equipment.* Prior to testing each compressor, DOE will install any required ancillary equipment specified by the manufacturer in the certification report submitted pursuant to § 429.63(b).
 
 (q) *Walk-in coolers and walk-in freezers.* (1) If DOE determines that a basic model of a panel, door, or refrigeration system for walk-in coolers or walk-in freezers fails to meet an applicable energy conservation standard, then the manufacturer of that basic model is responsible for the noncompliance. If DOE determines that a complete walk-in cooler or walk-in freezer or component thereof fails to meet an applicable energy conservation standard, then the manufacturer of that walk-in cooler or walk-in freezer is responsible for the noncompliance with the applicable standard, except that the manufacturer of a complete walk-in cooler or walk-in freezer is not responsible for the use of components that were certified and labeled (in accordance with DOE labeling requirements) as compliant by another party and later found to be noncompliant with the applicable standard(s).
 
@@ -194,4 +217,4 @@ Link to an amendment published at 82 FR 1100, Jan. 4, 2017.This amendment was de
 
 (4) For each basic model of walk-in cooler and walk-in freezer door, DOE will calculate the door's energy consumption using the power listed on the nameplate of each electricity consuming device shipped with the door. If an electricity consuming device shipped with a walk-in door does not have a nameplate or such nameplate does not list the device's power, then DOE will use the device's “rated power” included in the door's certification report.
 
-[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016]
+[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017]

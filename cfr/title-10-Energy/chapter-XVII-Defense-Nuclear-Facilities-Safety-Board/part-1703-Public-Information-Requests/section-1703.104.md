@@ -1,5 +1,7 @@
 ##### § 1703.104 Board records exempt from public disclosure. #####
 
+Link to an amendment published at 82 FR 30723, July 3, 2017.
+
 The following records are exempt from public disclosure:
 
 (a)(1) Records specifically authorized under criteria established by an Executive Order to be kept secret in the interest of national defense or foreign policy, and

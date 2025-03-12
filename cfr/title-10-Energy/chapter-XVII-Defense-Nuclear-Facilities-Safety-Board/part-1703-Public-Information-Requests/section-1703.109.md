@@ -1,5 +1,7 @@
 ##### § 1703.109 Procedure for appeal of denial of requests for board records and denial of requests for fee waiver or reduction. #####
 
+Link to an amendment published at 82 FR 30723, July 3, 2017.
+
 (a)(1) A person whose request for access to records or request for fee waiver or reduction is denied in whole or in part may appeal that determination to the General Counsel within 30 days of the determination. Appeals filed pursuant to this section must be in writing, directed to the General Counsel at the address indicated in § 1703.105(b)(2) and clearly marked “Freedom of Information Act Appeal.” Such an appeal received by the Board not addressed and marked as indicated in this paragraph will be so addressed and marked by Board personnel as soon as it is properly identified and then will be forwarded to the General Counsel. Appeals taken pursuant to this paragraph will be considered to be received upon actual receipt by the General Counsel.
 
 (2) The General Counsel shall make a determination with respect to any appeal within 20 working days after the receipt of such appeal. If, on appeal, the denial of the request for records or fee reduction is in whole or in part upheld, the General Counsel shall notify the person making such request of the provisions for judicial review of that determination.

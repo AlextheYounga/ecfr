@@ -1,5 +1,7 @@
 ##### § 73.530 Spirulina extract. #####
 
+Link to an amendment published at 82 FR 30734, July 3, 2017.
+
 (a) *Identity.* (1) The color additive spirulina extract is prepared by the filtered aqueous extraction of the dried biomass of *Arthrospira platensis.* The color additive contains phycocyanins as the principal coloring components.
 
 (2) Color additive mixtures for food use made with spirulina extract may contain only those diluents that are suitable and are listed in this subpart as safe for use in color additive mixtures for coloring foods.

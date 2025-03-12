@@ -1,5 +1,7 @@
 ##### § 1703.103 Requests for board records available through the public reading room. #####
 
+Link to an amendment published at 82 FR 30723, July 3, 2017.
+
 (a) A Public Reading Room will be maintained at the Board's headquarters and will be open between 8:30 a.m. and 4:30 p.m. Mondays through Fridays, with the exception of legal holidays. Documents may be obtained in person or by written or telephonic request from the Public Reading Room by reasonably describing the records sought. The purpose of the Public Reading Room is to provide easy accessibility to a substantial portion of the Board's records. The Board considers that documents available through the Public Reading Room have been placed in the public domain.
 
 (b) The public records of the Board that are available for inspection and copying upon request in the Public Reading Room include:

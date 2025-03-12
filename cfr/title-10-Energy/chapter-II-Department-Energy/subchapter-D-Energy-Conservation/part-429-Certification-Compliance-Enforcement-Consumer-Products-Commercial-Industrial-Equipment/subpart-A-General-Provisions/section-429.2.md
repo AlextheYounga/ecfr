@@ -1,8 +1,6 @@
 ##### § 429.2 Definitions. #####
 
-Link to an amendment published at 82 FR 1099, Jan. 4, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8985, Feb. 2, 2017.This amendment was further delayed until July 3, 2017 at 82 FR 14426, Mar. 21, 2017.
-
-(a) The definitions found in §§ 430.2, 431.2, 431.62, 431.72, 431.82, 431.92, 431.102, 431.132, 431.152, 431.172, 431.192, 431.202, 431.222, 431.242, 431.262, 431.282, 431.292, 431.302, 431.322, 431.442 and 431.462 of this chapter apply for purposes of this part.
+(a) The definitions found in §§ 430.2, 431.2, 431.62, 431.72, 431.82, 431.92, 431.102, 431.132, 431.152, 431.192, 431.202, 431.222, 431.242, 431.262, 431.282, 431.292, 431.302, 431.322, 431.342, 431.442, and 431.462 of this chapter apply for purposes of this part.
 
 (b) The following definitions apply for the purposes of this part. Any words or terms defined in this section or elsewhere in this part shall be defined as provided in sections 321 and 340 of the Energy Policy Conservation Act, as amended, hereinafter referred to as “the Act.”
 
@@ -12,4 +10,4 @@ Link to an amendment published at 82 FR 1099, Jan. 4, 2017.This amendment was de
 
 *Manufacturer's model number* means the identifier used by a manufacturer to uniquely identify the group of identical or essentially identical covered products or covered equipment to which a particular unit belongs. The manufacturer's model number typically appears on the product nameplates, in product catalogs and in other product advertising literature.
 
-[76 FR 12451, Mar. 7, 2011, as amended at 79 FR 25499, May 5, 2014; 81 FR 4144, Jan. 25, 2016]
+[76 FR 12451, Mar. 7, 2011, as amended at 79 FR 25499, May 5, 2014; 81 FR 4144, Jan. 25, 2016; 82 FR 1099, Jan. 4, 2017]

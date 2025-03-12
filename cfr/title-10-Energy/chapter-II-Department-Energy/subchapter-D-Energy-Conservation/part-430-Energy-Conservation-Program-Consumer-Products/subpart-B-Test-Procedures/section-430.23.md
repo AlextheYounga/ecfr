@@ -1,6 +1,6 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 81 FR 96237, Dec. 29, 2016.Link to an amendment published at 82 FR 1475, Jan. 5, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8985, Feb. 2, 2017.This amendment was further delayed until July 3, 2017 at 82 FR 14425, Mar. 21, 2017.
+Link to an amendment published at 81 FR 96237, Dec. 29, 2016.
 
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
@@ -344,25 +344,25 @@ M, MWS, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and 
 
 (k)-(l) [Reserved]
 
-(m) *Central air conditioners and heat pumps.* (1) Determine cooling capacity must be determined from the steady-state wet-coil test (A or A2 Test), as described in section 3.3 of appendix M to this subpart, and round off:
+(m) *Central air conditioners and heat pumps.* See the note at the beginning of appendix M and M1 to determine the appropriate test method. Determine all values discussed in this section using a single appendix.
 
-(i) To the nearest 50 Btu/h if cooling capacity is less than 20,000 Btu/h,
+(1) Determine cooling capacity from the steady-state wet-coil test (A or A2 Test), as described in section 3.2 of appendix M or M1 to this subpart, and rounded off to the nearest
 
-(ii) To the nearest 100 Btu/h if cooling capacity is greater than or equal to 20,000 Btu/h but less than 38,000 Btu/h, and
+(i) To the nearest 50 Btu/h if cooling capacity is less than 20,000 Btu/h;
+
+(ii) To the nearest 100 Btu/h if cooling capacity is greater than or equal to 20,000 Btu/h but less than 38,000 Btu/h; and
 
 (iii) To the nearest 250 Btu/h if cooling capacity is greater than or equal to 38,000 Btu/h and less than 65,000 Btu/h.
 
-(2) Determine seasonal energy efficiency ratio (SEER) as described in section 4.1 of appendix M to this subpart, and round off to the nearest 0.025 Btu/W-h.
+(2) Determine seasonal energy efficiency ratio (SEER) as described in section 4.1 of appendix M to this subpart or seasonal energy efficiency ratio 2 (SEER2) as described in section 4.1 of appendix M1 to this subpart, and round off to the nearest 0.025 Btu/W-h.
 
-(3) Determine energy efficiency ratio (EER) as described in section 4.6 of appendix M to this subpart, and round off to the nearest 0.025 Btu/W-h.
+(3) Determine energy efficiency ratio (EER) as described in section 4.6 of appendix M or M1 to this subpart, and round off to the nearest 0.025 Btu/W-h. The EER from the A or A2 test, whichever applies, when tested in accordance with appendix M1 to this subpart, is referred to as EER2.
 
-(4) Determine heating seasonal performance factors (HSPF) as described in section 4.2 of appendix M to this subpart, and round off to the nearest 0.025 Btu/W-h.
+(4) Determine heating seasonal performance factors (HSPF) as described in section 4.2 of appendix M to this subpart or heating seasonal performance factors 2 (HSPF2) as described in section 4.2 of appendix M1 to this subpart, and round off to the nearest 0.025 Btu/W-h.
 
-(5) Determine average off mode power consumption as described in section 4.3 of appendix M to this subpart, and round off to the nearest 0.5 W.
+(5) Determine average off mode power consumption as described in section 4.3 of appendix M or M1 to this subpart, and round off to the nearest 0.5 W.
 
-(6) Determine sensible heat ratio (SHR), as described in section 4.5 of appendix M to this subpart, and round off to the nearest 0.5 percent (%).
-
-(7) Determine all other measures of energy efficiency or consumption or other useful measures of performance using appendix M of this subpart.
+(6) Determine all other measures of energy efficiency or consumption or other useful measures of performance using appendix M or M1 of this subpart.
 
 (n) *Furnaces.* (1) The estimated annual operating cost for furnaces is the sum of: (i) The product of the average annual fuel energy consumption, in Btu's per year for gas or oil furnaces or in kilowatt-hours per year for electric furnaces, determined according to section 10.2.2 or 10.3 of appendix N of this subpart, respectively, and the representative average unit cost in dollars per Btu for gas or oil, or dollars per kilowatt-hour for electric, as appropriate, as provided pursuant to section 323(b)(2) of the Act, plus (ii) the product of the average annual auxiliary electric energy consumption in kilowatt-hours per year determined according to section 10.2.3 of appendix N of this subpart, and the representative average unit cost in dollars per kilowatt-hour as provided pursuant to section 323(b)(2) of the Act, the resulting sum then being rounded off to the nearest dollar per year. (For furnaces which operate with variable inputs, an estimated annual operating cost is to be calculated for each degree of oversizing specified in section 10 of appendix N of this subpart.)
 

@@ -1,7 +1,5 @@
 ##### § 134.801 Scope of rules. #####
 
-Link to an amendment published at 82 FR 25507, June 2, 2017.
-
 (a) The rules of practice in this subpart H apply to the OHA appeal under the Employee Dispute Resolution Process (EDRP). Standard Operating Procedure (SOP) 37 71 sets out the EDRP. It is available at *http://www.sba.gov/tools/resourcelibrary/sops/index.html* or through OHA's Web site *http://www.sba.gov/oha*).
 
 (b) The following rules, located in subparts A and B of this part, also apply to OHA appeals under the EDRP:
@@ -22,8 +20,8 @@ Link to an amendment published at 82 FR 25507, June 2, 2017.
 
 (8) Motions (§ 134.211);
 
-(9) Summary decision (§ 134.212);
+(9) Summary decision (§ 134.212); and
 
-(10) Sanctions (§ 134.219); and
+(10) Sanctions (§ 134.219).
 
-(11) Review of initial decisions (§ 134.228).
+[75 FR 47443, Aug. 6, 2010, as amended at 82 FR 25507, June 2, 2017]

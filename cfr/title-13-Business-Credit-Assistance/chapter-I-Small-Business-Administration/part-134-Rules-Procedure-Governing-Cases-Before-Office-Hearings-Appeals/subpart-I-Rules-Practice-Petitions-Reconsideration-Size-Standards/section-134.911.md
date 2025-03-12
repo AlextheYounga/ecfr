@@ -1,0 +1,3 @@
+##### § 134.911 Response to the Size Standard Petition. #####
+
+Although not required, any intervener may file and serve a response supporting or opposing the Size Standard Petition at any time prior to the close of record. SBA may intervene as of right at any time in any case until 15 days after the close of record, or the issuance of a decision, whichever comes first. The response must present argument.

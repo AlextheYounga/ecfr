@@ -1,14 +1,12 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 82 FR 1475, Jan. 5, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8985, Feb. 2, 2017.This amendment was further delayed until July 3, 2017 at 82 FR 14425, Mar. 21, 2017.
-
 (a) *General.* We incorporate by reference the following standards into part 430. The material listed has been approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Any subsequent amendment to a standard by the standard-setting organization will not affect the DOE regulations unless and until amended by DOE. Material is incorporated as it exists on the date of the approval and a notice of any change in the material will be published in the Federal Register. All approved material is available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* Also, this material is available for inspection at U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, 6th Floor, 950 L'Enfant Plaza, SW., Washington, DC 20024, (202) 586-2945, or go to: *http://www1.eere.energy.gov/buildings/appliance\_standards/.* Standards can be obtained from the sources below.
 
 (b) Air Movement and Control Association International, Inc. (AMCA), 30 West University Drive, Arlington Heights, IL 60004, (847) 394-0150, or by going to *http://www.amca.org/store/item.aspx?ItemId=81.*
 
 (1) ANSI/ASHRAE 51-07/ANSI/AMCA 210-07 (“ANSI/AMCA 210”), Laboratory Methods of Testing Fans for Certified Aerodynamic Performance Rating, AMCA approved July 28, 2006; IBR approved for appendix X1 to subpart B.
 
-(2) ANSI/AMCA 210-07, ANSI/ASHRAE 51-07 (“AMCA 210-2007”), Laboratory Methods of Testing Fans for Certified Aerodynamic Performance Rating, ANSI approved August 17, 2007, Section 8 - Report and Results of Test, Section 8.2 - Performance graphical representation of test results, IBR approved for appendix M to subpart B, as follows:
+(2) ANSI/AMCA 210-07, ANSI/ASHRAE 51-07 (“AMCA 210-2007”), Laboratory Methods of Testing Fans for Certified Aerodynamic Performance Rating, ANSI approved August 17, 2007, Section 8 - Report and Results of Test, Section 8.2 - Performance graphical representation of test results, IBR approved for appendices M and M1 to subpart B, as follows:
 
 (i) Figure 2A - Static Pressure Tap, and
 
@@ -34,7 +32,7 @@ Link to an amendment published at 82 FR 1475, Jan. 5, 2017.This amendment was de
 
 (c) *AHRI.* Air-Conditioning, Heating, and Refrigeration Institute, 2111 Wilson Blvd, Suite 500, Arlington, VA 22201, 703-524-8800, or go to *http://www.ahrinet.org.*
 
-(1) ANSI/AHRI 210/240-2008 with Addenda 1 and 2 (”AHRI 210/240-2008”), 2008 Standard for Performance Rating of Unitary Air-Conditioning & Air-Source Heat Pump Equipment, ANSI approved October 27, 2011 (Addendum 1 dated June 2011 and Addendum 2 dated March 2012), IBR approved for appendix M to subpart B, as follows:
+(1) ANSI/AHRI 210/240-2008 with Addenda 1 and 2 (”AHRI 210/240-2008”), 2008 Standard for Performance Rating of Unitary Air-Conditioning & Air-Source Heat Pump Equipment, ANSI approved October 27, 2011 (Addendum 1 dated June 2011 and Addendum 2 dated March 2012), IBR approved for appendices M and M1 to subpart B, as follows:
 
 (i) Section 6 - Rating Requirements, Section 6.1 - Standard Ratings, 6.1.3 - Standard Rating Tests, 6.1.3.2 - Electrical Conditions;
 
@@ -50,7 +48,7 @@ Link to an amendment published at 82 FR 1475, Jan. 5, 2017.This amendment was de
 
 (2) AHRI Standard 1160-2009 (“AHRI 1160”), Performance Rating of Heat Pump Pool Heaters, 2009, IBR approved for appendix P to subpart B.
 
-(3) ANSI/AHRI 1230-2010 with Addendum 2 (“AHRI 1230-2010”), 2010 Standard for Performance Rating of Variable Refrigerant Flow (VRF) Multi-Split Air-Conditioning and Heat Pump Equipment (including Addendum 1 dated March 2011), ANSI approved August 2, 2010 (Addendum 2 dated June 2014), IBR approved for appendix M to subpart B, as follows:
+(3) ANSI/AHRI 1230-2010 with Addendum 2 (“AHRI 1230-2010”), 2010 Standard for Performance Rating of Variable Refrigerant Flow (VRF) Multi-Split Air-Conditioning and Heat Pump Equipment (including Addendum 1 dated March 2011), ANSI approved August 2, 2010 (Addendum 2 dated June 2014), IBR approved for appendices M and M1 to subpart B, as follows:
 
 (i) Section 3 - Definitions (except 3.8, 3.9, 3.13, 3.14, 3.15, 3.16, 3.23, 3.24, 3.26, 3.27, 3.28, 3.29, 3.30, and 3.31);
 
@@ -130,7 +128,7 @@ Link to an amendment published at 82 FR 1475, Jan. 5, 2017.This amendment was de
 
 (1) ANSI/ASHRAE Standard 16-1983 (“ANSI/ASHRAE 16”) (RA 2009), (Reaffirmation of ANSI/ASHRAE Standard 16-1983 [RA 1999]), Method of Testing for Rating Room Air Conditioners and Packaged Terminal Air Conditioners, ASHRAE approved October 18, 1988, and reaffirmed June 20, 2009. ANSI approved October 20, 1998 and reaffirmed June 25, 2009. IBR approved for appendix F to subpart B.
 
-(2) ANSI/ASHRAE 23.1-2010, (“ASHRAE 23.1-2010”), Methods of Testing for Rating the Performance of Positive Displacement Refrigerant Compressors and Condensing Units that Operate at Subcritical Temperatures of the Refrigerant, ANSI approved January 28, 2010, IBR approved for appendix M to subpart B, as follows:
+(2) ANSI/ASHRAE 23.1-2010, (“ASHRAE 23.1-2010”), Methods of Testing for Rating the Performance of Positive Displacement Refrigerant Compressors and Condensing Units that Operate at Subcritical Temperatures of the Refrigerant, ANSI approved January 28, 2010, IBR approved for appendices M and M1 to subpart B, as follows:
 
 (i) Section 5 - Requirements;
 
@@ -142,7 +140,7 @@ Link to an amendment published at 82 FR 1475, Jan. 5, 2017.This amendment was de
 
 (3) ANSI/ASHRAE Standard 37-2009, (“ASHRAE 37-2009”), Methods of Testing for Rating Electrically Driven Unitary Air-Conditioning and Heat Pump Equipment, ANSI approved June 25, 2009, IBR approved for appendices AA and CC to subpart B.
 
-(4) ANSI/ASHRAE Standard 37-2009, (“ANSI/ASHRAE 37-2009”), Methods of Testing for Rating Electrically Driven Unitary Air-Conditioning and Heat Pump Equipment, ANSI approved June 25, 2009, IBR approved for appendix M to subpart B, as follows:
+(4) ANSI/ASHRAE Standard 37-2009, (“ANSI/ASHRAE 37-2009”), Methods of Testing for Rating Electrically Driven Unitary Air-Conditioning and Heat Pump Equipment, ANSI approved June 25, 2009, IBR approved for appendices M and M1 to subpart B, as follows:
 
 (i) Section 5 - Instruments, Section 5.1 - Temperature Measuring Instruments: 5.1.1;
 
@@ -230,7 +228,7 @@ Link to an amendment published at 82 FR 1475, Jan. 5, 2017.This amendment was de
 
 (12) ANSI/ASHRAE Standard 103-2007, (“ASHRAE 103-2007”), Method of Testing for Annual Fuel Utilization Efficiency of Residential Central Furnaces and Boilers, ANSI approved March 25, 2008, IBR approved for appendices O and AA to subpart B.
 
-(13) ANSI/ASHRAE Standard 116-2010, (“ASHRAE 116-2010”), Methods of Testing for Rating Seasonal Efficiency of Unitary Air Conditioners and Heat Pumps, ANSI approved February 24, 2010, Section 7 - Methods of Test, Section 7.4 - Air Enthalpy Method - Indoor Side (Primary Method), Section 7.4.3 - Measurements, Section 7.4.3.4 - Temperature, Section 7.4.3.4.5, IBR approved for appendix M to subpart B.
+(13) ANSI/ASHRAE Standard 116-2010, (“ASHRAE 116-2010”), Methods of Testing for Rating Seasonal Efficiency of Unitary Air Conditioners and Heat Pumps, ANSI approved February 24, 2010, Section 7 - Methods of Test, Section 7.4 - Air Enthalpy Method - Indoor Side (Primary Method), Section 7.4.3 - Measurements, Section 7.4.3.4 - Temperature, Section 7.4.3.4.5, IBR approved for appendices M and M1 to subpart B.
 
 (14) ANSI/ASHRAE Standard 146-2011 (“ASHRAE 146”), Method of Testing and Rating Pool Heaters, ASHRAE approved February 2, 2011, IBR approved for appendix P to subpart B.
 

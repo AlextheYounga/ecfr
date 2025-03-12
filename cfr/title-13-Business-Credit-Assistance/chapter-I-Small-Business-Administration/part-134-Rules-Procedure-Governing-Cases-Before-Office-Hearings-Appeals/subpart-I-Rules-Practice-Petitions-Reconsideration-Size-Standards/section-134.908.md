@@ -1,0 +1,3 @@
+##### § 134.908 The administrative record. #####
+
+The Office of Size Standards will transmit to OHA a copy of the documentation and analysis supporting the revision, modification, or establishment of the challenged size standard by the date specified in the notice and order. The Chief, Office of Size Standards, will certify and authenticate that the administrative record, to the best of his or her knowledge, is complete and correct. The Petitioner and any interveners may, upon request, review the administrative record submitted to OHA. The administrative record will include the documentation and analysis supporting the revision, modification, or establishment of the challenged size standard.
