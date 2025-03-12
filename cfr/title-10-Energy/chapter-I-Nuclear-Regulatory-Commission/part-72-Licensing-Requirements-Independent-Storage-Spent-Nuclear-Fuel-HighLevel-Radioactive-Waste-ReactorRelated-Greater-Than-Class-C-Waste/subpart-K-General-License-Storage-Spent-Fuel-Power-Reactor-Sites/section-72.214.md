@@ -1,6 +1,6 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 86 FR 42686, Aug. 5, 2021.Link to an amendment published at 86 FR 44267, Aug. 12, 2021.Link to an amendment published at 86 FR 44600, Aug. 13, 2021.Link to an amendment published at 86 FR 54346, Oct. 1, 2021.
+Link to an amendment published at 86 FR 44267, Aug. 12, 2021.Link to an amendment published at 86 FR 44600, Aug. 13, 2021.Link to an amendment published at 86 FR 54346, Oct. 1, 2021.
 
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
@@ -207,6 +207,8 @@ Amendment Number 5 Effective Date: January 12, 2009.
 Amendment Number 6 Effective Date: January 7, 2019.
 
 Amendment Number 7 Effective Date: July 29, 2019.
+
+Amendment Number 8 Effective Date: October 19, 2021.
 
 SAR Submitted by: NAC International, Inc.
 
