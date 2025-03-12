@@ -1,7 +1,5 @@
 ##### § 679.7 Prohibitions. #####
 
-Link to an amendment published at 83 FR 50002, Oct. 4, 2018.
-
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) *Groundfish of the GOA and BSAI* - (1) *Federal Fisheries Permit (FFP).* (i) Fish for groundfish in the BSAI or GOA with a vessel of the United States that does not have on board a legible copy of a valid FFP issued under § 679.4.
@@ -417,6 +415,8 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (10) Operate a vessel under the authority of an LLP license issued to a CQE to directed fish for Pacific cod in the GOA if the person specified for that groundfish license in the annual CQE authorization letter, or any subsequent amendment to that authorization letter, is not onboard the vessel.
 
+(11) *Prohibitions specific to the BSAI Trawl Limited Access Sector yellowfin sole directed fishery.* Deliver yellowfin sole harvested with trawl gear in the BSAI Trawl Limited Access Sector yellowfin sole directed fishery to a mothership without a legible copy of a valid groundfish LLP license with a BSAI Trawl Limited Access Sector yellowfin sole directed fishery endorsement, except as provided in § 679.4(k)(2).
+
 (j) *North Pacific Observer Program - EM Systems.* (1) Fish without an EM system when a vessel is required to carry an EM system under § 679.51(f).
 
 (2) Fish with an EM system without a copy of a valid NMFS-approved VMP on board when directed fishing in a fishery subject to EM coverage.
@@ -673,4 +673,4 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (p) *Arctic Management Area.* Conduct commercial fishing for any Arctic fish in the Arctic Management Area.
 
-[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

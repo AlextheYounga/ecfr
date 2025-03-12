@@ -1,10 +1,8 @@
 ##### § 210.5-02 Balance sheets. #####
 
-Link to an amendment published at 83 FR 50201, Oct. 4, 2018.
-
 The purpose of this rule is to indicate the various line items and certain additional disclosures which, if applicable, and except as otherwise permitted by the Commission, should appear on the face of the balance sheets or related notes filed for the persons to whom this article pertains (see § 210.4-01(a)).
 
-Assets and Other DebitsCurrent Assets, when appropriate[See § 210.4-05]
+Assets and Other DebitsCurrent Assets, when appropriate
 
 1. *Cash and cash items.* Separate disclosure shall be made of the cash and cash items which are restricted as to withdrawal or usage. The provisions of any restrictions shall be described in a note to the financial statements. Restrictions may include legally restricted deposits held as compensating balances against short-term borrowing arrangements, contracts entered into with others, or company statements of intention with regard to particular deposits; however, time deposits and short-term certificates of deposit are not generally included in legally restricted deposits. In cases where compensating balance arrangements exist but are not agreements which legally restrict the use of cash amounts shown on the balance sheet, describe in the notes to the financial statements these arrangements and the amount involved, if determinable, for the most recent audited balance sheet required and for any subsequent unaudited balance sheet required in the notes to the financial statements. Compensating balances that are maintained under an agreement to assure future credit availability shall be disclosed in the notes to the financial statements along with the amount and terms of such agreement.
 
@@ -28,7 +26,9 @@ Assets and Other DebitsCurrent Assets, when appropriate[See § 210.4-05]
 
 5. *Unearned income.*
 
-6. *Inventories.* (a) State separately in the balance sheet or in a note thereto, if practicable, the amounts of major classes of inventory such as: (1) Finished goods; (2) inventoried costs relating to long-term contracts or programs (see (d) below and § 210.4-05); (3) work in process (see § 210.4-05); (4) raw materials; and (5) supplies. If the method of calculating a LIFO inventory does not allow for the practical determination of amounts assigned to major classes of inventory, the amounts of those classes may be stated under cost flow assumptions other that LIFO with the excess of such total amount over the aggregate LIFO amount shown as a deduction to arrive at the amount of the LIFO inventory.
+6. *Inventories.* (a) State separately in the balance sheet or in a note thereto, if practicable, the amounts of major classes of inventory such as: (1) Finished goods; (2) inventoried costs relating to long-term contracts or programs (see paragraph (d) of this section); (3) work in process;
+
+(4) raw materials; and (5) supplies. If the method of calculating a LIFO inventory does not allow for the practical determination of amounts assigned to major classes of inventory, the amounts of those classes may be stated under cost flow assumptions other that LIFO with the excess of such total amount over the aggregate LIFO amount shown as a deduction to arrive at the amount of the LIFO inventory.
 
 (b) The basis of determining the amounts shall be stated.
 
@@ -58,7 +58,7 @@ For all long-term contracts or programs, the following information, if applicabl
 
 10. *Securities of related parties.* (See § 210.4-08(k).)
 
-11. *Indebtedness of related parties - not current.* (See § 210.4-08(k).)
+11. *Indebtedness of related parties—not current.* (See § 210.4-08(k).)
 
 12. *Other investments.* The accounting and disclosure requirements for non-current marketable equity securities are specified by generally accepted accounting principles. With respect to other security investments and any other investment, state, parenthetically or otherwise, the basis of determining the aggregate amounts shown in the balance sheet, along with the alternate of the aggregate cost or aggregate market value at the balance sheet date.
 
@@ -78,7 +78,7 @@ For all long-term contracts or programs, the following information, if applicabl
 
 18. *Total assets.*
 
-Liabilities and Stockholders' EquityCurrent Liabilities, When Appropriate (See § 210.4-05)
+Liabilities and Stockholders' EquityCurrent Liabilities, When Appropriate
 
 19. *Accounts and notes payable.* (a) State separately amounts payable to (1) banks for borrowings; (2) factors or other financial institutions for borrowings; (3) holders of commercial paper; (4) trade creditors; (5) related parties (see § 210.4-08(k)); (6) underwriters, promoters, and employees (other than related parties); and (7) others. Amounts applicable to (1), (2) and (3) may be stated separately in the balance sheet or in a note thereto.
 
@@ -90,13 +90,13 @@ Liabilities and Stockholders' EquityCurrent Liabilities, When Appropriate (See �
 
 Long-Term Debt
 
-22. *Bonds, mortgages and other long-term debt, including capitalized leases.* (a) State separately, in the balance sheet or in a note thereto, each issue or type of obligation and such information as will indicate (see § 210.4-06):
+22. *Bonds, mortgages and other long-term debt, including capitalized leases.* (a) State separately, in the balance sheet or in a note thereto, each issue or type of obligation and such information as will indicate:
 
 (1) The general character of each type of debt including the rate of interest; (2) the date of maturity, or, if maturing serially, a brief indication of the serial maturities, such as “maturing serially from 1980 to 1990”; (3) if the payment of principal or interest is contingent, an appropriate indication of such contingency; (4) a brief indication of priority; and (5) if convertible, the basis. For amounts owed to related parties, see § 210.4-08(k).
 
 (b) The amount and terms (including commitment fees and the conditions under which commitments may be withdrawn) of unused commitments for long-term financing arrangements that would be disclosed under this rule if used shall be disclosed in the notes to the financial statements if significant.
 
-23. *Indebtedness to related parties - noncurrent.* Include under this caption indebtedness to related parties as required under § 210.4-08(k).
+23. *Indebtedness to related parties—noncurrent.* Include under this caption indebtedness to related parties as required under § 210.4-08(k).
 
 24. *Other liabilities.* State separately, in the balance sheet or in a note thereto, any item not properly classified in one of the preceding liability captions which is in excess of 5 percent of total liabilities.
 
@@ -110,21 +110,25 @@ Redeemable Preferred Stocks
 
 (b) State on the face of the balance sheet the title of each issue, the carrying amount, and redemption amount. (If there is more than one issue, these amounts may be aggregated on the face of the balance sheet and details concerning each issue may be presented in the note required by paragraph (c) below.) Show also the dollar amount of any shares subscribed but unissued, and show the deduction of subscriptions receivable therefrom. If the carrying value is different from the redemption amount, describe the accounting treatment for such difference in the note required by paragraph (c) below. Also state in this note or on the face of the balance sheet, for each issue, the number of shares authorized and the number of shares issued or outstanding, as appropriate (See § 210.4-07).
 
-(c) State in a separate note captioned “Redeemable Preferred Stocks” (1) a general description of each issue, including its redemption features (e.g. sinking fund, at option of holders, out of future earnings) and the rights, if any, of holders in the event of default, including the effect, if any, on junior securities in the event a required dividend, sinking fund, or other redemption payment(s) is not made; (2) the combined aggregate amount of redemption requirements for all issues each year for the five years following the date of the latest balance sheet; and (3) the changes in each issue for each period for which an income statement is required to be filed. (See also § 210.4-08(d).)
+(c) State in a separate note captioned “Redeemable Preferred Stocks” (1) a general description of each issue, including its redemption features (e.g. sinking fund, at option of holders, out of future earnings) and the rights, if any, of holders in the event of default, including the effect, if any, on junior securities in the event a required dividend, sinking fund, or other redemption payment(s) is not made; (2) the combined aggregate amount of redemption requirements for all issues each year for the five years following the date of the latest balance sheet; and (3) the changes in each issue for each period for which a statement of comprehensive income is required to be filed. (See also § 210.4-08(d).)
 
 (d) Securities reported under this caption are not to be included under a general heading “stockholders' equity” or combined in a total with items described in captions 29, 30 or 31 which follow.
 
 Non-Redeemable Preferred Stocks
 
-28. *Preferred stocks which are not redeemable or are redeemable solely at the option of the issuer.* State on the face of the balance sheet, or if more than one issue is outstanding state in a note, the title of each issue and the dollar amount thereof. Show also the dollar amount of any shares subscribed but unissued, and show the deduction of subscriptions receivable therefrom. State on the face of the balance sheet or in a note, for each issue, the number of shares authorized and the number of shares issued or outstanding, as appropriate (see § 210.4-07). Show in a note or separate statement the changes in each class of preferred shares reported under this caption for each period for which an income statement is required to be filed. (See also § 210.4-08(d).)
+28. *Preferred stocks which are not redeemable or are redeemable solely at the option of the issuer.* State on the face of the balance sheet, or if more than one issue is outstanding state in a note, the title of each issue and the dollar amount thereof. Show also the dollar amount of any shares subscribed but unissued, and show the deduction of subscriptions receivable therefrom. State on the face of the balance sheet or in a note, for each issue, the number of shares authorized and the number of shares issued or outstanding, as appropriate (see § 210.4-07). Show in a note or separate statement the changes in each class of preferred shares reported under this caption for each period for which a statement of comprehensive income is required to be filed. (See also § 210.4-08(d).)
 
 Common Stocks
 
-29. *Common stocks.* For each class of common shares state, on the face of the balance sheet, the number of shares issued or outstanding, as appropriate (see § 210.4-07), and the dollar amount thereof. If convertible, this fact should be indicated on the face of the balance sheet. For each class of common shares state, on the face of the balance sheet or in a note, the title of the issue, the number of shares authorized, and, if convertible, the basis of conversion (see also § 210.4-08(d)). Show also the dollar amount of any common shares subscribed but unissued, and show the deduction of subscriptions receivable therefrom. Show in a note or statement the changes in each class of common shares for each period for which an income statement is required to be filed.
+29. *Common stocks.* For each class of common shares state, on the face of the balance sheet, the number of shares issued or outstanding, as appropriate (see § 210.4-07), and the dollar amount thereof. If convertible, this fact should be indicated on the face of the balance sheet. For each class of common shares state, on the face of the balance sheet or in a note, the title of the issue, the number of shares authorized, and, if convertible, the basis of conversion (see also § 210.4-08(d)). Show also the dollar amount of any common shares subscribed but unissued, and show the deduction of subscriptions receivable therefrom. Show in a note or statement the changes in each class of common shares for each period for which a statement of comprehensive income is required to be filed.
 
 Other Stockholders' Equity
 
-30. *Other stockholders' equity.* (a) Separate captions shall be shown for (1) additional paid-in capital, (2) other additional capital and (3) retained earnings (i) appropriated and (ii) unappropriated. (See § 210.4-08(e).) Additional paid-in capital and other additional capital may be combined with the stock caption to which it applies, if appropriate.
+30. *Other stockholders' equity.* (a) Separate captions shall be shown for (1) additional paid-in capital, (2) other additional capital, (3) retained earnings, (i) appropriated and (ii) unappropriated (See § 210.4-08(e)), and (4) accumulated other comprehensive income.
+
+Note 1 to paragraph 30.(a).
+
+Additional paid-in capital and other additional capital may be combined with the stock caption to which it applies, if appropriate.
 
 (b) For a period of at least 10 years subsequent to the effective date of a quasi-reorganization, any description of retained earnings shall indicate the point in time from which the new retained earnings dates and for a period of at least three years shall indicate, on the face of the balance sheet, the total amount of the deficit eliminated.
 
@@ -134,4 +138,4 @@ Noncontrolling Interests
 
 32. *Total liabilities and equity.*
 
-[45 FR 63671, Sept. 25, 1980, as amended at 46 FR 43412, Aug. 28, 1981; 47 FR 29837, July 9, 1982; 50 FR 25215, June 18, 1985; 50 FR 49533, Dec. 3, 1985; 59 FR 65636, Dec. 20, 1994; 74 FR 18615, Apr. 23, 2009]
+[45 FR 63671, Sept. 25, 1980, as amended at 46 FR 43412, Aug. 28, 1981; 47 FR 29837, July 9, 1982; 50 FR 25215, June 18, 1985; 50 FR 49533, Dec. 3, 1985; 59 FR 65636, Dec. 20, 1994; 74 FR 18615, Apr. 23, 2009; 83 FR 50201, Oct. 4, 2018]

@@ -2,9 +2,9 @@
 
 [For management investment companies only]
 
-|                                      Col. A                                       |                                   Col. B                                    |         Col. C         |   Col. D    |    Col. E     |Col. F|         Col. G          |                           Col. H                           |
-|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------|-------------|---------------|------|-------------------------|------------------------------------------------------------|
-|Description and terms of payments to be received from another party<sup>1 2 3</sup>|Description and terms of payments to be paid to another party<sup>1 2 3</sup>|Counterparty<sup>4</sup>|Maturity date|Notional amount|Value |Upfront payments/receipts|Unrealized appreciation/  <br/>depreciation.<sup>5 6 7</sup>|
+|                                 Col. A                                  |                              Col. B                               |         Col. C         |   Col. D    |    Col. E     |Col. F|         Col. G          |                     Col. H                      |
+|-------------------------------------------------------------------------|-------------------------------------------------------------------|------------------------|-------------|---------------|------|-------------------------|-------------------------------------------------|
+|Description and terms of payments to be received from another party 1 2 3|Description and terms of payments to be paid to another party 1 2 3|Counterparty<sup>4</sup>|Maturity date|Notional amount|Value |Upfront payments/receipts|Unrealized appreciation/  <br/>depreciation.5 6 7|
 
 <sup>1</sup> List each major category of swaps by descriptive title (e.g., credit default swaps, interest rate swaps, total return swaps). Credit default swaps where protection is sold shall be listed separately from credit default swaps where protection is purchased.
 

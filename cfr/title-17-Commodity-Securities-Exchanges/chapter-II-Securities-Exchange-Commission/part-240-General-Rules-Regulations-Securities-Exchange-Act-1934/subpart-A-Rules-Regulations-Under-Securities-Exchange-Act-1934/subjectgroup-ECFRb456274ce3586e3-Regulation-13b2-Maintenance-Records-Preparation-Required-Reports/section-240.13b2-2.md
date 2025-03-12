@@ -1,8 +1,5 @@
 ##### § 240.13b2-2 Representations and conduct in connection with the preparation of required reports and documents. #####
 
-Link to an amendment published at 83 FR
-50222, Oct. 4, 2018.
-
 (a) No director or officer of an issuer shall, directly or indirectly:
 
 (1) Make or cause to be made a materially false or misleading statement to an accountant in connection with; or
@@ -17,9 +14,9 @@ Link to an amendment published at 83 FR
 
 (2) For purposes of paragraphs (b)(1) and (c)(2) of this section, actions that, “if successful, could result in rendering the issuer's financial statements materially misleading” include, but are not limited to, actions taken at any time with respect to the professional engagement period to coerce, manipulate, mislead, or fraudulently influence an auditor:
 
-(i) To issue or reissue a report on an issuer's financial statements that is not warranted in the circumstances (due to material violations of generally accepted accounting principles, generally accepted auditing standards, or other professional or regulatory standards);
+(i) To issue or reissue a report on an issuer's financial statements that is not warranted in the circumstances (due to material violations of generally accepted accounting principles, the standards of the PCAOB, or other professional or regulatory standards);
 
-(ii) Not to perform audit, review or other procedures required by generally accepted auditing standards or other professional standards;
+(ii) Not to perform audit, review or other procedures required by the standards of the PCAOB or other professional standards;
 
 (iii) Not to withdraw an issued report; or
 
@@ -37,4 +34,4 @@ Link to an amendment published at 83 FR
 
 (2) Take any action to coerce, manipulate, mislead, or fraudulently influence any independent public or certified public accountant engaged in the performance of an audit or review of the financial statements of that investment company that are required to be filed with the Commission pursuant to this subpart or otherwise if that person knew or should have known that such action, if successful, could result in rendering the investment company's financial statements materially misleading.
 
-[68 FR 31830, May 28, 2003]
+[68 FR 31830, May 28, 2003, as amended at 83 FR 50222, Oct. 4, 2018]

@@ -1,8 +1,8 @@
 ##### § 210.12-12B Summary schedule of investments in securities of unaffiliated issuers. #####
 
-|                        Column A                         |                                              Column B                                              |                          Column C                          |                Column D                |
-|---------------------------------------------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------|----------------------------------------|
-|Name of issuer and title of issue<sup>1 3 4 5 6 7 8</sup>|Balance held at close of period. Number of shares - principal amount of bonds and notes<sup>10</sup>|Value of each item at close of period<sup>2 9 11 12 13</sup>|Percentage value compared to net assets.|
+|                   Column A                    |                                              Column B                                              |                     Column C                     |                Column D                |
+|-----------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------------------------------|
+|Name of issuer and title of issue 1 3 4 5 6 7 8|Balance held at close of period. Number of shares - principal amount of bonds and notes<sup>10</sup>|Value of each item at close of period 2 9 11 12 13|Percentage value compared to net assets.|
 
 <sup>1</sup> Categorize the schedule by (a) the type of investment (such as common stocks, preferred stocks, convertible securities, fixed income securities, government securities, options purchased, warrants, loan participations and assignments, commercial paper, bankers' acceptances, certificates of deposit, short-term securities, repurchase agreements, other investment companies, and so forth); and (b) the related industry, country or geographic region of the investment.
 

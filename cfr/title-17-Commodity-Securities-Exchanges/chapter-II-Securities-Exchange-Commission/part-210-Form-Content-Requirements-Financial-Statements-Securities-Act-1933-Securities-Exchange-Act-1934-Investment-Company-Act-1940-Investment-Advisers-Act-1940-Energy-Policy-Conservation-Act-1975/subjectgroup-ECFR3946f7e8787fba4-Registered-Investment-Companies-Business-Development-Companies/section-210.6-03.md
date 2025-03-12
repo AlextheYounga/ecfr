@@ -1,6 +1,6 @@
 ##### § 210.6-03 Special rules of general application to registered investment companies and business development companies. #####
 
-Link to an amendment published at 83 FR 50202, Oct. 4, 2018.Link to an amendment published at 81 FR 82137, Nov. 18, 2016.
+Link to an amendment published at 81 FR 82137, Nov. 18, 2016.
 
 The financial statements filed for persons to which §§ 210.6-01 to 210.6-10 are applicable shall be prepared in accordance with the following special rules in addition to the general rules in §§ 210.1-01 to 210.4-10 (Articles 1, 2, 3, and 4). Where the requirements of a special rule differ from those prescribed in a general rule, the requirements of the special rule shall be met.
 
@@ -8,9 +8,9 @@ The financial statements filed for persons to which §§ 210.6-01 to 210.6-10 ar
 
 (b) *Audited financial statements.* Where, under Article 3 of this part, financial statements are required to be audited, the independent accountant shall have been selected and ratified in accordance with section 32 of the Investment Company Act of 1940 (15 U.S.C. 80a-31).
 
-(c) *Consolidated and combined statements.* (1) Consolidated and combined statements filed for registered investment companies and business development companies shall be prepared in accordance with §§ 210.3A-01 to 210.3A-04 (Article 3A) except that:
+(c) *Consolidated and combined statements.* (1) Consolidated and combined statements filed for registered investment companies and business development companies shall be prepared in accordance with §§ 210.3A-02 and 210.3A-03 (Article 3A), except that:
 
-(i) Statements of the registrant may be consolidated only with the statements of subsidiaries which are investment companies;
+(i) [Reserved]
 
 (ii) A consolidated statement of the registrant and any of its investment company subsidiaries shall not be filed unless accompanied by a consolidating statement which sets forth the individual statements of each significant subsidiary included in the consolidated statement: *Provided, however,* That a consolidating statement need not be filed if all included subsidiaries are totally held; and
 
@@ -80,4 +80,4 @@ Note to paragraphs (h)(2)(i) and (ii): The information required by paragraphs (h
 
 (l) *Inapplicable captions.* Attention is directed to the provisions of §§ 210.4-02 and 210.4-03 which permit the omission of separate captions in financial statements as to which the items and conditions are not present, or the amounts involved not significant. However, amounts involving directors, officers, and affiliates shall nevertheless be separately set forth except as otherwise specifically permitted under a particular caption.
 
-[81 FR 82010, Nov. 18, 2016]
+[81 FR 82010, Nov. 18, 2016, as amended at 83 FR 50202, Oct. 4, 2018]

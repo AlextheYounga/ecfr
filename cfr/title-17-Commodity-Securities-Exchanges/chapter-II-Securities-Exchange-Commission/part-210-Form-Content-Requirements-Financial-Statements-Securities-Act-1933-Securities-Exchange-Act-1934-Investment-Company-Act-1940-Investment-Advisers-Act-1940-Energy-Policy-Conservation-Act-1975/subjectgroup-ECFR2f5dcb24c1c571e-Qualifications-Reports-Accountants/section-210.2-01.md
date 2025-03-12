@@ -1,6 +1,6 @@
 ##### § 210.2-01 Qualifications of accountants. #####
 
-Link to an amendment published at 83 FR 50198, Oct. 4, 2018.Preliminary Note to § 210.2-01
+Preliminary Note to § 210.2-01
 
 1. Section 210.2-01 is designed to ensure that auditors are qualified and independent of their audit clients both in fact and in appearance. Accordingly, the rule sets forth restrictions on financial, employment, and business relationships between an accountant and an audit client and restrictions on an accountant providing certain non-audit services to an audit client.
 
@@ -314,7 +314,7 @@ Link to an amendment published at 83 FR 50198, Oct. 4, 2018.Preliminary Note to 
 
 (A) The lead or coordinating audit partner having primary responsibility for the audit or review (the “lead partner”);
 
-(B) The partner performing a second level of review to provide additional assurance that the financial statements subject to the audit or review are in conformity with generally accepted accounting principles and the audit or review and any associated report are in accordance with generally accepted auditing standards and rules promulgated by the Commission or the Public Company Accounting Oversight Board (the “concurring or reviewing partner”);
+(B) The partner conducting a quality review under applicable professional standards and any applicable rules of the Commission to evaluate the significant judgments and the related conclusions reached in forming the overall conclusion on the audit or review engagement (“Engagement Quality Reviewer” or “Engagement Quality Control Reviewer”);
 
 (C) Other audit engagement team partners who provide more than ten hours of audit, review, or attest services in connection with the annual or interim consolidated financial statements of the issuer or an investment company registered under section 8 of the Investment Company Act of 1940 (15 U.S.C. 80a-8); and
 
@@ -368,4 +368,4 @@ Link to an amendment published at 83 FR 50198, Oct. 4, 2018.Preliminary Note to 
 
 (17) *Audit committee* means a committee (or equivalent body) as defined in section 3(a)(58) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(58)).
 
-[37 FR 14594, July 21, 1972, as amended at 48 FR 9521, Mar. 7, 1983; 65 FR 76082, Dec. 5, 2000; 68 FR 6044, Feb. 5, 2003; 70 FR 1593, Jan. 7, 2005]
+[37 FR 14594, July 21, 1972, as amended at 48 FR 9521, Mar. 7, 1983; 65 FR 76082, Dec. 5, 2000; 68 FR 6044, Feb. 5, 2003; 70 FR 1593, Jan. 7, 2005; 83 FR 50198, Oct. 4, 2018]

@@ -1,7 +1,5 @@
 ##### § 229.508 (Item 508) Plan of distribution. #####
 
-Link to an amendment published at 83 FR 50211, Oct. 4, 2018.
-
 (a) *Underwriters and underwriting obligation.* If the securities are to be offered through underwriters, name the principal underwriters, and state the respective amounts underwritten. Identify each such underwriter having a material relationship with the registrant and state the nature of the relationship. State briefly the nature of the obligation of the underwriter(s) to take the securities.
 
 *Instruction to paragraph 508(a):* All that is required as to the nature of the underwriters' obligation is whether the underwriters are or will be committed to take and to pay for all of the securities if any are taken, or whether it is merely an agency or the type of *best efforts* arrangement under which the underwriters are required to take and to pay for only such securities as they may sell to the public. Conditions precedent to the underwriters' taking the securities, including *market-outs,* need not be described except in the case of an agency or *best efforts* arrangement.
@@ -18,7 +16,7 @@ Link to an amendment published at 83 FR 50211, Oct. 4, 2018.
 
 (d) *Offerings on exchange.* If the securities are to be offered on an exchange, indicate the exchange. If the registered securities are to be offered in connection with the writing of exchange-traded call options, describe briefly such transactions.
 
-(e) *Underwriter's compensation.* Provide a table that sets out the nature of the compensation and the amount of discounts and commissions to be paid to the underwriter for each security and in total. The table must show the separate amounts to be paid by the company and the selling shareholders. In addition, include in the table all other items considered by the National Association of Securities Dealers to be underwriting compensation for purposes of that Association's Rules of Fair Practice.
+(e) *Underwriter's compensation.* Provide a table that sets out the nature of the compensation and the amount of discounts and commissions to be paid to the underwriter for each security and in total. The table must show the separate amounts to be paid by the company and the selling shareholders. In addition, include in the table all other items considered by the Financial Industry Regulatory Authority (“FINRA”) to be underwriting compensation for purposes of FINRA rules.
 
 *Instructions to paragraph 508(e):* 1. The term “commissions” is defined in paragraph (17) of Schedule A of the Securities Act. Show separately in the table the cash commissions paid by the registrant and selling security holders. Also show in the table commissions paid by other persons. Disclose any finder's fee or similar payments in the table.
 
@@ -54,4 +52,4 @@ Link to an amendment published at 83 FR 50211, Oct. 4, 2018.
 
 (v) The amount of the offered securities that will be reoffered to the public and the public offering price.
 
-[47 FR 11401, Mar. 16, 1982, as amended at 58 FR 19606, Apr. 15, 1993; 62 FR 543, Jan. 3, 1997; 62 FR 11323, Mar. 12, 1997; 63 FR 6384, Feb. 6, 1998]
+[47 FR 11401, Mar. 16, 1982, as amended at 58 FR 19606, Apr. 15, 1993; 62 FR 543, Jan. 3, 1997; 62 FR 11323, Mar. 12, 1997; 63 FR 6384, Feb. 6, 1998; 83 FR 50211, Oct. 4, 2018]

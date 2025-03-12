@@ -1,10 +1,8 @@
 ##### § 230.158 Definitions of certain terms in the last paragraph of section 11(a). #####
 
-Link to an amendment published at 83 FR 50212, Oct. 4, 2018.
-
 (a) An “earning statement” made generally available to securityholders of the registrant pursuant to the last paragraph of section 11(a) of the Act shall be sufficient for the purposes of such paragraph if:
 
-(1) There is included the information required for statements of income contained either:
+(1) There is included the information required for statements of comprehensive income (as defined in § 210.1-02 of Regulation S-X of this chapter) contained either:
 
 (i) In Item 8 of Form 10-K (§ 239.310 of this chapter), part I, Item 1 of Form 10-Q (§ 240.308a of this chapter), or Rule 14a-3(b) (§ 240.14a-3(b) of this chapter) under the Securities Exchange Act of 1934;
 
@@ -18,7 +16,9 @@ Link to an amendment published at 83 FR 50212, Oct. 4, 2018.
 
 (ii) On Form 20-F, Form 40-F or Form 6-K (§ 249.306 of this chapter).
 
-A subsidiary issuing debt securities guaranteed by its parent will be deemed to have met the requirements of this paragraph if the parent's income statements satisfy the criteria of this paragraph and information respecting the subsidiary is included to the same extent as was presented in the registration statement. An “earning statement” not meeting the requirements of this paragraph may otherwise be sufficient for purposes of the last paragraph of section 11(a).
+Note 1 to paragraph (a).
+
+A subsidiary issuing debt securities guaranteed by its parent will be deemed to have met the requirements of this paragraph (a) if the parent's statements of comprehensive income (as defined in § 210.1-02 of Regulation S-X) satisfy the criteria of this paragraph and information respecting the subsidiary is included to the same extent as was presented in the registration statement. An “earning statement” not meeting the requirements of this paragraph (a) may otherwise be sufficient for purposes of the last paragraph of section 11(a) of the Act.
 
 (b) For purposes of the last paragraph of section 11(a) only, the “earning statement” contemplated by paragraph (a) of this section shall be deemed to be “made generally available to its security holders” if the registrant:
 
@@ -44,4 +44,4 @@ A registrant may use other methods to make an earning statement “generally ava
 
 (d) If an earnings statement was made available by “other methods” than those specified in paragraphs (a) and (b) of this section, the earnings statement must be filed as exhibit 99 to the next periodic report required by section 13 or 15(d) of the Exchange Act covering the period in which the earnings statement was released.
 
-[48 FR 44770, Sept. 30, 1983, as amended at 56 FR 30054, July 1, 1991; 58 FR 14669, Mar. 18, 1993; 70 FR 44804, Aug. 3, 2005; 73 FR 967, Jan. 4, 2008]
+[48 FR 44770, Sept. 30, 1983, as amended at 56 FR 30054, July 1, 1991; 58 FR 14669, Mar. 18, 1993; 70 FR 44804, Aug. 3, 2005; 73 FR 967, Jan. 4, 2008; 83 FR 50212, Oct. 4, 2018]

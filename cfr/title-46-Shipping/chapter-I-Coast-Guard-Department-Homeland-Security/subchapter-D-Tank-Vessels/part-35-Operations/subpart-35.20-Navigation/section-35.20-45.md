@@ -1,5 +1,7 @@
 ##### § 35.20-45 Use of Auto Pilot - T/ALL. #####
 
+Link to an amendment published at 83 FR 55281, Nov. 5, 2018.
+
 Except as provided in 33 CFR 164.13, when the automatic pilot is used in:
 
 (a) Areas of high traffic density;

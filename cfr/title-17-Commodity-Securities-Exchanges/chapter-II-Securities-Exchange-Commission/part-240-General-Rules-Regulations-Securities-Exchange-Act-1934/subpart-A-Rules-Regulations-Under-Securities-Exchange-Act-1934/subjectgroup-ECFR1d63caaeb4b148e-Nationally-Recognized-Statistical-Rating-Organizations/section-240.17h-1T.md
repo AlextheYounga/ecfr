@@ -1,7 +1,5 @@
 ##### § 240.17h-1T Risk assessment recordkeeping requirements for associated persons of brokers and dealers. #####
 
-Link to an amendment published at 83 FR 50223, Oct. 4, 2018.
-
 (a) *Requirement to maintain and preserve information.* (1) Every broker or dealer registered with the Commission pursuant to section 15 of the Act, and every municipal securities dealer registered pursuant to Section 15B of the Act for which the Commission is the appropriate regulatory agency, unless exempt pursuant to paragraph (d) of this section, shall maintain and preserve the following information:
 
 (i) An organizational chart which includes the broker or dealer and all its associated persons. Included in the organizational chart shall be a designation of which associated persons are Material Associated Persons as that term is used in paragraph (a)(2) of this section;
@@ -19,6 +17,10 @@ Link to an amendment published at 83 FR 50223, Oct. 4, 2018.
 (iv) Consolidated and consolidating balance sheets, prepared in accordance with generally accepted accounting principles, which may be unaudited and which shall include the notes to the financial statements, as of quarter end for the broker or dealer and its ultimate holding company;
 
 (v) Quarterly consolidated and consolidating income statements and consolidated cash flow statements, prepared in accordance with generally accepted accounting principles, which may be unaudited and which shall include the notes to the financial statements, for the broker or dealer and its ultimate holding company;
+
+Note 1 to paragraph (a)(1)(v).
+
+Statements of comprehensive income (as defined in § 210.1-02 of Regulation S-X of this chapter) must be included in place of income statements, if required by the applicable generally accepted accounting principles.
 
 (vi) The amount as of quarter end, and at month end if greater than quarter end, of the aggregate long and short securities and commodities positions held by each Material Associated Person, including a separate listing of each single unhedged securities or commodities position, other than U.S. government or agency securities, that exceeds the Materiality Threshold at any month end;
 
@@ -96,4 +98,4 @@ Link to an amendment published at 83 FR 50223, Oct. 4, 2018.
 
 (g) *Temporary implementation schedule.* Every broker or dealer subject to the requirements of this section shall maintain and preserve the information required by paragraphs (a)(1)(i), (ii), and (iii) of this section commencing September 30, 1992. Commencing December 31, 1992, the provisions of this section shall apply in their entirety.
 
-[57 FR 32168, July 21, 1992, as amended at 58 FR 25774, Apr. 28, 1993; 69 FR 34472, June 21, 2004; 69 FR 34494, June 21, 2004; 76 FR 50122, Aug. 12, 2011; 78 FR 42865, July 18, 2013]
+[57 FR 32168, July 21, 1992, as amended at 58 FR 25774, Apr. 28, 1993; 69 FR 34472, June 21, 2004; 69 FR 34494, June 21, 2004; 76 FR 50122, Aug. 12, 2011; 78 FR 42865, July 18, 2013; 83 FR 50223, Oct. 4, 2018]

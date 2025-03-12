@@ -1,7 +1,5 @@
 ##### § 240.3a51-1 Definition of “penny stock”. #####
 
-Link to an amendment published at 83 FR 50221, Oct. 4, 2018.
-
 For purposes of section 3(a)(51) of the Act, the term “penny stock” shall mean any equity security other than a security:
 
 (a) That is an NMS stock, as defined in § 242.600(b)(47), provided that:
@@ -18,7 +16,7 @@ For purposes of section 3(a)(51) of the Act, the term “penny stock” shall me
 
 (*2*) Market value of listed securities of $50 million for 90 consecutive days prior to applying for the listing (market value means the closing bid price multiplied by the number of securities listed); or
 
-(*3*) Net income of $750,000 (excluding extraordinary or non-recurring items) in the most recently completed fiscal year or in two of the last three most recently completed fiscal years;
+(*3*) Net income of $750,000 (excluding non-recurring items) in the most recently completed fiscal year or in two of the last three most recently completed fiscal years;
 
 (B) The issuer shall have an operating history of at least one year or a market value of listed securities of $50 million (market value means the closing bid price multiplied by the number of securities listed);
 
@@ -82,4 +80,4 @@ For purposes of section 3(a)(51) of the Act, the term “penny stock” shall me
 
 (4) The broker or dealer shall preserve, as part of its records, copies of the financial statements required by paragraph (g)(3) of this section for the period specified in 17 CFR 240.17a-4(b).
 
-[57 FR 18032, Apr. 28, 1992, as amended at 58 FR 58101, Oct. 29, 1993; 70 FR 40631, July 13, 2005; 70 FR 46090, Aug. 9, 2005]
+[57 FR 18032, Apr. 28, 1992, as amended at 58 FR 58101, Oct. 29, 1993; 70 FR 40631, July 13, 2005; 70 FR 46090, Aug. 9, 2005; 83 FR 50221, Oct. 4, 2018]

@@ -1,6 +1,4 @@
-##### § 249.210 Form 10 and Form 10-SB, general form for registration of securities pursuant to section 12 (b) or (g) of the Securities Exchange Act of 1934. #####
-
-Link to an amendment published at 83 FR 50223, Oct. 4, 2018.
+##### § 249.210 Form 10, general form for registration of securities pursuant to section 12(b) or (g) of the Securities Exchange Act of 1934. #####
 
 This form shall be used for registration pursuant to section 12 (b) or (g) of the Securities Exchange Act of 1934 of classes of securities of issuers for which no other form is prescribed.
 

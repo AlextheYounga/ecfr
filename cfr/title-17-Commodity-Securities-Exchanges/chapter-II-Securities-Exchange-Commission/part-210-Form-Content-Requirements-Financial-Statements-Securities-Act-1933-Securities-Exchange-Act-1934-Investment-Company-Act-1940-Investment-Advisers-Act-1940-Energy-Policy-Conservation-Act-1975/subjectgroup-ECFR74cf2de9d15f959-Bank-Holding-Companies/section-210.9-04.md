@@ -1,8 +1,6 @@
-##### § 210.9-04 Income statements. #####
+##### § 210.9-04 Statements of comprehensive income. #####
 
-Link to an amendment published at 83 FR 50205, Oct. 4, 2018.
-
-The purpose of this rule is to indicate the various items which, if applicable, should appear on the face of the income statement or in the notes thereto.
+The purpose of this section is to indicate the various items which, if applicable, should appear on the face of the statement of comprehensive income or in the notes thereto.
 
 1. *Interest and fees on loans.* Include commitment and origination fees, late charges and current amortization of premium and accretion of discount on loans which are related to or are an adjustment of the loan interest rate.
 
@@ -44,7 +42,7 @@ The purpose of this rule is to indicate the various items which, if applicable, 
 
 (g) Gains or losses on disposition of equity in securities of subsidiaries or 50 percent or less owned persons.
 
-(h) Investment securities gains or losses. The method followed in determining the cost of investments sold (e.g., “average cost,” “first-in, first-out,” or “identified certificate) and related income taxes shall be disclosed.
+(h) Investment securities gains or losses. Related income taxes shall be disclosed.
 
 14. *Other expenses.* Disclose separately any of the following amounts, or any other item of other expense, which exceed one percent of the aggregate of total interest income and other income. The remaining amounts may be shown as one amount.
 
@@ -52,7 +50,7 @@ The purpose of this rule is to indicate the various items which, if applicable, 
 
 (b) Net occupancy expense of premises.
 
-(c) Goodwill amortization.
+(c) [Reserved]
 
 (d) Net cost of operation of other real estate (including provisions for real estate losses, rental income and gains and losses on sales of real estate).
 
@@ -60,11 +58,7 @@ The purpose of this rule is to indicate the various items which, if applicable, 
 
 16. *Income tax expense.* The information required by § 210.4-08(h) should be disclosed.
 
-17. *Income or loss before extraordinary items and cumulative effects of changes in accounting principles.*
-
-18. *Extraordinary items, less applicable tax.*
-
-19. *Cumulative effects of changes in accounting principles.*
+17.-19. [Reserved]
 
 20. *Net income or loss.*
 
@@ -72,6 +66,14 @@ The purpose of this rule is to indicate the various items which, if applicable, 
 
 22. *Net income attributable to the controlling interest.*
 
-23. *Earnings per share data.*
+23. *Other comprehensive income.* State separately the components of and the total for other comprehensive income. Present the components either net of related tax effects or before related tax effects with one amount shown for the aggregate income tax expense or benefit. State the amount of income tax expense or benefit allocated to each component, including reclassification adjustments, in the statement of comprehensive income or in a note.
 
-[48 FR 11107, Mar. 16, 1983, as amended at 50 FR 25215, June 18, 1985; 74 FR 18616, Apr. 23, 2009]
+24. *Comprehensive income.*
+
+25. *Comprehensive income attributable to the noncontrolling interest.*
+
+26. *Comprehensive income attributable to the controlling interest.*
+
+27. *Earnings per share data.*
+
+[48 FR 11107, Mar. 16, 1983, as amended at 50 FR 25215, June 18, 1985; 74 FR 18616, Apr. 23, 2009; 83 FR 50205, Oct. 4, 2018]

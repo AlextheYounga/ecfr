@@ -1,8 +1,6 @@
 ##### § 210.6-07 Statements of operations. #####
 
-Link to an amendment published at 83 FR 50202, Oct. 4, 2018.
-
-Statements of operations filed by registered investment companies, other than issuers of face-amount certificates, subject to the special provisions of § 210.6-08, and business development companies, shall comply with the following provisions:
+Statements of operations, or statements of comprehensive income, where applicable, filed by registered investment companies, other than issuers of face-amount certificates, subject to the special provisions of § 210.6-08, and business development companies, shall comply with the following provisions:
 
 Statements of Operations
 
@@ -46,4 +44,4 @@ Statements of Operations
 
 9. *Net increase (decrease) in net assets resulting from operations.*
 
-[81 FR 82012, Nov. 18, 2016]
+[81 FR 82012, Nov. 18, 2016; 83 FR 50202, Oct. 4, 2018]

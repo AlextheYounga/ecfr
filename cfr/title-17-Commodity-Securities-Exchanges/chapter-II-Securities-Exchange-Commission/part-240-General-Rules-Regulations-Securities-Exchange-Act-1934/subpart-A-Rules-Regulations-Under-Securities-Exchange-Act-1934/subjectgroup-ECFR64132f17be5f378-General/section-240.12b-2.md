@@ -1,7 +1,5 @@
 ##### § 240.12b-2 Definitions. #####
 
-Link to an amendment published at 83 FR 50221, Oct. 4, 2018.
-
 Unless the context otherwise requires, the following terms, when used in the rules contained in this regulation or in Regulation 13A or 15D or in the forms for statements and reports filed pursuant to sections 12, 13 or 15(d) of the act, shall have the respective meanings indicated in this rule:
 
 *Accelerated filer and large accelerated filer* - (1) *Accelerated filer.* The term *accelerated filer* means an issuer after it first meets the following conditions as of the end of its fiscal year:
@@ -128,9 +126,13 @@ For purposes of this definition, the determination of a registrant's assets (inc
 
 (2) The registrant's and its other subsidiaries' proportionate share of the total assets (after intercompany eliminations) of the subsidiary exceeds 10 percent of the total assets of the registrant and its subsidiaries consolidated as of the end of the most recently completed fiscal year; or
 
-(3) The registrant's and its other subsidiaries' equity in the income from continuing operations before income taxes, extraordinary items and cumulative effect of a change in accounting principle of the subsidiary exclusive of amounts attributable to any noncontrolling interests exceeds 10 percent of such income of the registrant and its subsidiaries consolidated for the most recently completed fiscal year.
+(3) The registrant's and its other subsidiaries' equity in the income from continuing operations before income taxes of the subsidiary exclusive of amounts attributable to any noncontrolling interests exceeds 10 percent of such income of the registrant and its subsidiaries consolidated for the most recently completed fiscal year.
 
-Computational note:
+Note 1:
+
+A registrant that files its financial statements in accordance with or provides a reconciliation to U.S. Generally Accepted Accounting Principles shall make the prescribed tests using amounts determined under U.S. Generally Accepted Accounting Principles. A foreign private issuer that files its financial statements in accordance with IFRS as issued by the IASB shall make the prescribed tests using amounts determined under IFRS as issued by the IASB.
+
+ Computational Note 1 to paragraph (3):
 
 For purposes of making the prescribed income test the following guidance should be applied:
 

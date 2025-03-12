@@ -1,7 +1,5 @@
 ##### § 210.6-04 Balance sheets. #####
 
-Link to an amendment published at 83 FR 50202, Oct. 4, 2018.
-
 This section is applicable to balance sheets filed by registered investment companies and business development companies except for persons who substitute a statement of net assets in accordance with the requirements specified in § 210.6-05, and issuers of face-amount certificates which are subject to the special provisions of § 210.6-06. Balance sheets filed under this rule shall comply with the following provisions:
 
 Assets
@@ -10,7 +8,7 @@ Assets
 
 2. *Investments in and advances to affiliates.* State separately investments in and advances to: (a) Controlled companies and (b) other affiliates.
 
-3. *Other investments.* State separately amounts of assets related to (a) variation margin receivable on futures contracts, (b) forward foreign currency contracts; (c) swap contracts; and (d) investments - other than those presented in §§ 210.12-12, 12-12A, 12-12B, 12-13, 12-13A, 12-13B, and 12-13C.
+3. *Other investments.* State separately amounts of assets related to (a) variation margin receivable on futures contracts, (b) forward foreign currency contracts; (c) swap contracts; and (d) investments—other than those presented in §§ 210.12-12, 12-12A, 12-12B, 12-13, 12-13A, 12-13B, and 12-13C.
 
 4. *Cash.* Include under this caption cash on hand and demand deposits. Provide in a note to the financial statements the information required under § 210.5-02.1 regarding restrictions and compensating balances.
 
@@ -18,7 +16,7 @@ Assets
 
 (b) If the aggregate amount of notes receivable exceeds 10 percent of the aggregate amount of receivables, the above information shall be set forth separately, in the balance sheet or in a note thereto, for accounts receivable and notes receivable.
 
-6. *Deposits for securities sold short and other investments.* State separately amounts held by others in connection with: (a) Short sales; (b) open option contracts (c) futures contracts, (d) forward foreign currency contracts; (e) swap contracts; and (f) investments - other than those presented in §§ 210.12-12, 12-12A, 12-12B, 12-13, 12-13A, 12-13B, and 12-13C.
+6. *Deposits for securities sold short and other investments.* State separately amounts held by others in connection with: (a) Short sales; (b) open option contracts (c) futures contracts, (d) forward foreign currency contracts; (e) swap contracts; and (f) investments—other than those presented in §§ 210.12-12, 12-12A, 12-12B, 12-13, 12-13A, 12-13B, and 12-13C.
 
 7. *Other assets.* State separately (a) prepaid and deferred expenses; (b) pension and other special funds; (c) organization expenses; and (d) any other significant item not properly classified in another asset caption.
 
@@ -26,7 +24,7 @@ Assets
 
 Liabilities
 
-9. *Other investments.* State separately amounts of liabilities related to: (a) Securities sold short; (b) open option contracts written; (c) variation margin payable on futures contracts, (d) forward foreign currency contracts; (e) swap contracts; and (f) investments - other than those presented in §§ 210.12-12, 12-12A, 12-12B, 12-13, 12-13A, 12-13B, and 12-13C.
+9. *Other investments.* State separately amounts of liabilities related to: (a) Securities sold short; (b) open option contracts written; (c) variation margin payable on futures contracts, (d) forward foreign currency contracts; (e) swap contracts; and (f) investments—other than those presented in §§ 210.12-12, 12-12A, 12-12B, 12-13, 12-13A, 12-13B, and 12-13C.
 
 10. *Accounts payable and accrued liabilities.* State separately amounts payable for: (a) Other purchases of securities; (b) capital shares redeemed; (c) dividends or other distributions on capital shares; and (d) others. State separately the amount of any other liabilities which are material.
 
@@ -48,9 +46,9 @@ Net Assets
 
 (b) Unit investment trusts, including those which are issuers of periodic payment plan certificates, also shall state in a note to the financial statements: (1) The total cost to the investors of each class of units or shares; (2) the adjustment for market depreciation or appreciation; (3) other deductions from the total cost to the investors for fees, loads and other charges, including an explanation of such deductions; and (4) the net amount applicable to the investors.
 
-17. *Accumulated undistributed income (loss).* Disclose:
+17. *Total distributable earnings (loss).* Disclose total distributable earnings (loss), which generally comprise:
 
-(a) The accumulated undistributed investment income-net,
+(a) Accumulated undistributed investment income-net,
 
 (b) accumulated undistributed net realized gains (losses) on investment transactions, and (c) net unrealized appreciation (depreciation) in value of investments at the balance sheet date.
 
@@ -58,4 +56,4 @@ Net Assets
 
 19. *Net assets applicable to outstanding units of capital.* State the net asset value per share.
 
-[81 FR 82011, Nov. 18, 2016]
+[81 FR 82011, Nov. 18, 2016, as amended at 83 FR 50202, Oct. 4, 2018]

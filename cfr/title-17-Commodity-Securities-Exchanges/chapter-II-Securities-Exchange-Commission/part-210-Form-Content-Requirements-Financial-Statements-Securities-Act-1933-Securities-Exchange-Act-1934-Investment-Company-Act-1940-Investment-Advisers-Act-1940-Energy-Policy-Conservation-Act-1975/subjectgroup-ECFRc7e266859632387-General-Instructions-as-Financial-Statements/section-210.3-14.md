@@ -1,8 +1,6 @@
 ##### § 210.3-14 Special instructions for real estate operations to be acquired. #####
 
-Link to an amendment published at 83 FR 50199, Oct. 4, 2018.
-
-(a) If, during the period for which income statements are required, the registrant has acquired one or more properties which in the aggregate are significant, or since the date of the latest balance sheet required has acquired or proposes to acquire one or more properties which in the aggregate are significant, the following shall be furnished with respect to such properties:
+(a) If, during the period for which statements of comprehensive income are required, the registrant has acquired one or more properties which in the aggregate are significant, or since the date of the latest balance sheet required has acquired or proposes to acquire one or more properties which in the aggregate are significant, the following shall be furnished with respect to such properties:
 
 (1) Audited income statements (not including earnings per unit) for the three most recent fiscal years, which shall exclude items not comparable to the proposed future operations of the property such as mortgage interest, leasehold rental, depreciation, corporate expenses and Federal and state income taxes: *Provided, however,* That such audited statements need be presented for only the most recent fiscal year if
 
@@ -12,7 +10,7 @@ Link to an amendment published at 83 FR 50199, Oct. 4, 2018.
 
 (iii) The registrant indicates in the appropriate filing that, after reasonable inquiry, the registrant is not aware of any material factors relating to that specific property other than those discussed in response to paragraph (a)(1)(ii) of this section that would cause the reported financial information not to be necessarily indicative of future operating results.
 
-Note:
+Note 1 to paragraph (a)(1):
 
 The discussion of material factors considered should be combined with that required by Item 15 of Form S-11.
 
@@ -22,4 +20,4 @@ The discussion of material factors considered should be combined with that requi
 
 (b) Information required by this section is not required to be included in a filing on Form 10-K.
 
-[45 FR 63687, Sept. 25, 1980, as amended at 47 FR 25122, June 10, 1982; 73 FR 953, Jan. 4, 2008]
+[45 FR 63687, Sept. 25, 1980, as amended at 47 FR 25122, June 10, 1982; 73 FR 953, Jan. 4, 2008; 83 FR 50199, Oct. 4, 2018]

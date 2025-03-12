@@ -1,5 +1,7 @@
 ##### § 164.13 Navigation underway: tankers. #####
 
+Link to an amendment published at 83 FR 55281, Nov. 5, 2018.
+
 (a) As used in this section, “tanker” means a self-propelled tank vessel, including integrated tug barge combinations, constructed or adapted primarily to carry oil or hazardous material in bulk in the cargo spaces and inspected and certificated as a tanker.
 
 (b) Each tanker must have an engineering watch capable of monitoring the propulsion system, communicating with the bridge, and implementing manual control measures immediately when necessary. The watch must be physically present in the machinery spaces or in the main control space and must consist of at least an engineer with an appropriately endorsed license or merchant mariner credential.

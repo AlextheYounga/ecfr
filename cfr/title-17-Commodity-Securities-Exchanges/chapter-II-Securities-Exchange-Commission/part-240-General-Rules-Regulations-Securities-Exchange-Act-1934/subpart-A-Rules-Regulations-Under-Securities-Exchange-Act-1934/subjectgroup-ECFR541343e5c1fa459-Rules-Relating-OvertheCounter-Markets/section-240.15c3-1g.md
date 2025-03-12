@@ -1,7 +1,5 @@
 ##### § 240.15c3-1g Conditions for ultimate holding companies of certain brokers or dealers (Appendix G to 17 CFR 240.15c3-1). #####
 
-Link to an amendment published at 83 FR 50222, Oct. 4, 2018.
-
 As a condition for a broker or dealer to compute certain of its deductions to capital in accordance with § 240.15c3-1e, pursuant to its undertaking, the ultimate holding company of the broker or dealer shall:
 
 Conditions Regarding Computation of Allowable Capital and Risk Allowances
@@ -94,7 +92,7 @@ Conditions Regarding Reporting Requirements
 
 (i) A report as of the end of each month, filed not later than 30 calendar days after the end of the month. A monthly report need not be filed for a month-end that coincides with a fiscal quarter-end. The monthly report shall include:
 
-(A) A consolidated balance sheet and income statement (including notes to the financial statements) for the ultimate holding company and statements of allowable capital and allowances for market, credit, and operational risk computed pursuant to paragraph (a) of this appendix G, *except* that the consolidated balance sheet and income statement for the first month of the fiscal year may be filed at a later time to which the Commission agrees (when reviewing the affiliated broker's or dealer's application under § 240.15c3-1e(a)).
+(A) A consolidated balance sheet and income statement (including notes to the financial statements) for the ultimate holding company and statements of allowable capital and allowances for market, credit, and operational risk computed pursuant to paragraph (a) of this appendix G, *except* that the consolidated balance sheet and income statement for the first month of the fiscal year may be filed at a later time to which the Commission agrees (when reviewing the affiliated broker's or dealer's application under § 240.15c3-1e(a)). A statement of comprehensive income (as defined in § 210.1-02 of Regulation S-X of this chapter) shall be included in place of an income statement, if required by the applicable generally accepted accounting principles.
 
 (B) A graph reflecting, for each business line, the daily intra-month VaR;
 
@@ -112,7 +110,7 @@ Conditions Regarding Reporting Requirements
 
 (ii) A quarterly report as of the end of each fiscal quarter, filed not later than 35 calendar days after the end of the quarter. The quarterly report shall include, in addition to the information contained in the monthly report as required by paragraph (b)(1)(i) of this appendix G, the following:
 
-(A) Consolidating balance sheets and income statements for the ultimate holding company. The consolidating balance sheet must provide information regarding each material affiliate of the ultimate holding company in a separate column, but may aggregate information regarding members of the affiliate group that are not material affiliates into one column;
+(A) Consolidating balance sheets and income statements for the ultimate holding company. The consolidating balance sheet must provide information regarding each material affiliate of the ultimate holding company in a separate column, but may aggregate information regarding members of the affiliate group that are not material affiliates into one column. Statements of comprehensive income (as defined in § 210.1-02 of Regulation S-X) shall be included in place of an income statement, if required by the applicable generally accepted accounting principles;
 
 (B) The results of backtesting of all internal models used to compute allowable capital and allowances for market and credit risk indicating, for each model, the number of backtesting exceptions;
 
@@ -120,7 +118,7 @@ Conditions Regarding Reporting Requirements
 
 (D) The aggregate amount of unsecured borrowings and lines of credit, segregated into categories, scheduled to mature within twelve months from the most recent fiscal quarter as to each material affiliate; and
 
-(E) For a quarter-end that coincides with the ultimate holding company's fiscal year-end, the ultimate holding company need not include consolidated and consolidating balance sheets and income statements in its quarterly reports. The consolidating balance sheet and income statement for the quarter-end that coincides with the fiscal year-end may be filed at a later time to which the Commission agrees (when reviewing the affiliated broker's or dealer's application under § 240.15c3-1e(a));
+(E) For a quarter-end that coincides with the ultimate holding company's fiscal year-end, the ultimate holding company need not include consolidated and consolidating balance sheets and income statements (or statements of comprehensive income, as applicable) in its quarterly reports. The consolidating balance sheet and income statement (or statement of comprehensive income, as applicable) for the quarter-end that coincides with the fiscal year-end may be filed at a later time to which the Commission agrees (when reviewing the affiliated broker's or dealer's application under § 240.15c3-1e(a));
 
 (iii) An annual audited report as of the end of the ultimate holding company's fiscal year, filed not later than 65 calendar days after the end of the fiscal year. The annual report shall include:
 
@@ -134,13 +132,13 @@ Conditions Regarding Reporting Requirements
 
 (i) A quarterly report as of the end of each fiscal quarter, filed not later than 35 calendar days after the end of the quarter, or a later time to which the Commission may agree upon application. The quarterly report shall include:
 
-(A) Consolidated (including notes to the financial statements) and consolidating balance sheets and income statements for the ultimate holding company;
+(A) Consolidated (including notes to the financial statements) and consolidating balance sheets and income statements for the ultimate holding company. Statements of comprehensive income (as defined in § 210.1-02 of Regulation S-X) shall be included in place of income statements, if required by the applicable generally accepted accounting principles;
 
 (B) Its most recent capital measurements computed in accordance with the standards published by the Basel Committee on Banking Supervision, as amended from time to time, as reported to its principal regulator;
 
 (C) Certain regular risk reports provided to the persons responsible for managing group-wide risk as the Commission may request from time to time; and
 
-(D) For a quarter-end that coincides with the ultimate holding company's fiscal year-end, the ultimate holding company need not include consolidated and consolidating balance sheets and income statements in its quarterly reports. The consolidating balance sheet and income statement for the quarter-end that coincides with the fiscal year-end may be filed at a later time to which the Commission agrees (when reviewing the affiliated broker's or dealer's application under § 240.15c3-1e(a)).
+(D) For a quarter-end that coincides with the ultimate holding company's fiscal year-end, the ultimate holding company need not include consolidated and consolidating balance sheets and income statements (or statements of comprehensive income, as applicable) in its quarterly reports. The consolidating balance sheet and income statement (or statement of comprehensive income, as applicable) for the quarter-end that coincides with the fiscal year-end may be filed at a later time to which the Commission agrees (when reviewing the affiliated broker's or dealer's application under § 240.15c3-1e(a)).
 
 (ii) An annual audited report as of the end of the ultimate holding company's fiscal year, filed with the Commission when required to be filed by any regulator;
 
@@ -206,4 +204,4 @@ Conditions Regarding Notification
 
 (4) Upon the written request of the ultimate holding company, or upon its own motion, the Commission may grant an extension of time or an exemption from any of the requirements of this paragraph (e) either unconditionally or on specified terms and conditions as are necessary or appropriate in the public interest or for the protection of investors.
 
-[69 FR 34467, June 21, 2004, as amended at 79 FR 1550, Jan. 8, 2014]
+[69 FR 34467, June 21, 2004, as amended at 79 FR 1550, Jan. 8, 2014; 83 FR 50222, Oct. 4, 2018]

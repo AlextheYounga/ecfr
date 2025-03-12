@@ -1,14 +1,12 @@
 ##### § 229.504 (Item 504) Use of proceeds. #####
 
-Link to an amendment published at 83 FR 50211, Oct. 4, 2018.
-
 State the principal purposes for which the net proceeds to the registrant from the securities to be offered are intended to be used and the approximate amount intended to be used for each such purpose. Where registrant has no current specific plan for the proceeds, or a significant portion thereof, the registrant shall so state and discuss the principal reasons for the offering.
 
 *Instructions to Item 504:* 1. Where less than all the securities to be offered may be sold and more than one use is listed for the proceeds, indicate the order of priority of such purposes and discuss the registrant's plans if substantially less than the maximum proceeds are obtained. Such discussion need not be included if underwriting arrangements with respect to such securities are such that, if any securities are sold to the public, it reasonably can be expected that the actual proceeds will not be substantially less than the aggregate proceeds to the registrant shown pursuant to Item 501 of Regulation S-K (§ 229.501).
 
 2. Details of proposed expenditures need not be given; for example, there need be furnished only a brief outline of any program of construction or addition of equipment. Consideration should be given as to the need to include a discussion of certain matters addressed in the discussion and analysis of registrant's financial condition and results of operations, such as liquidity and capital expenditures.
 
-3. If any material amounts of other funds are necessary to accomplish the specified purposes for which the proceeds are to be obtained, state the amounts and sources of such other funds needed for each such specified purpose and the sources thereof.
+3. If any material amounts of other funds are necessary to accomplish the specified purposes for which the proceeds are to be obtained, state the amounts of such other funds needed for each such specified purpose and the sources thereof.
 
 4. If any material part of the proceeds is to be used to discharge indebtedness, set forth the interest rate and maturity of such indebtedness. If the indebtedness to be discharged was incurred within one year, describe the use of the proceeds of such indebtedness other than short-term borrowings used for working capital.
 
@@ -18,4 +16,4 @@ State the principal purposes for which the net proceeds to the registrant from t
 
 7. The registrant may reserve the right to change the use of proceeds, provided that such reservation is due to certain contingencies that are discussed specifically and the alternatives to such use in that event are indicated.
 
-[47 FR 11401, Mar. 16, 1982, as amended at 73 FR 964, Jan. 4, 2008]
+[47 FR 11401, Mar. 16, 1982, as amended at 73 FR 964, Jan. 4, 2008; 83 FR 50211, Oct. 4, 2018]

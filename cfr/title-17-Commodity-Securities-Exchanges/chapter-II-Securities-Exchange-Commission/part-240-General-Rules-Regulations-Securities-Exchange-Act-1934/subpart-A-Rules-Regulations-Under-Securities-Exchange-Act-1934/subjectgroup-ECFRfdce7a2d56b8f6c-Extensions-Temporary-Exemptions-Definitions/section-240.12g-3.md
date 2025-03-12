@@ -1,12 +1,10 @@
 ##### § 240.12g-3 Registration of securities of successor issuers under section 12(b) or 12(g). #####
 
-Link to an amendment published at 83 FR 50221, Oct. 4, 2018.
-
 (a) Where in connection with a succession by merger, consolidation, exchange of securities, acquisition of assets or otherwise, securities of an issuer that are not already registered pursuant to section 12 of the Act (15 U.S.C. 78*l*) are issued to the holders of any class of securities of another issuer that is registered pursuant to either section 12 (b) or (g) of the Act (15 U.S.C. 78*l* (b) or (g)), the class of securities so issued shall be deemed to be registered under the same paragraph of section 12 of the Act unless upon consummation of the succession:
 
 (1) Such class is exempt from such registration other than by § 240.12g3-2;
 
-(2) All securities of such class are held of record by fewer than 300 persons, or 1,200 persons in the case of a bank; a savings and loan holding company, as such term is defined in section 10 of the Home Owners' Loan Act (12 U.S.C. 1461); or a bank holding company, as such term is defined in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841).
+(2) All securities of such class are held of record by fewer than 300 persons, or 1,200 persons in the case of a bank; a savings and loan holding company, as such term is defined in section 10 of the Home Owners' Loan Act (12 U.S.C. 1461); or a bank holding company, as such term is defined in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841); or
 
 (3) The securities issued in connection with the succession were registered on Form F-8 or Form F-80 (§ 239.38 or § 239.41 of this chapter) and following succession the successor would not be required to register such class of securities under section 12 of the Act (15 U.S.C. 78*l*) but for this section.
 
@@ -14,7 +12,7 @@ Link to an amendment published at 83 FR 50221, Oct. 4, 2018.
 
 (1) Such class is exempt from such registration other than by § 240.12g3-2;
 
-(2) All securities of such class are held of record by fewer than 300 persons, or 1,200 persons in the case of a bank; a savings and loan holding company, as such term is defined in section 10 of the Home Owners' Loan Act (12 U.S.C. 1461); or a bank holding company, as such term is defined in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841).
+(2) All securities of such class are held of record by fewer than 300 persons, or 1,200 persons in the case of a bank; a savings and loan holding company, as such term is defined in section 10 of the Home Owners' Loan Act (12 U.S.C. 1461); or a bank holding company, as such term is defined in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841); or
 
 (3) The securities issued in connection with the succession were registered on Form F-8 or Form F-80 (§ 239.38 or § 239.41 of this chapter) and following the succession the successor would not be required to register such class of securities under section 12 of the Act (15 U.S.C. 78*l*) but for this section.
 
@@ -22,7 +20,7 @@ Link to an amendment published at 83 FR 50221, Oct. 4, 2018.
 
 (1) Such class is exempt from such registration other than by § 240.12g3-2;
 
-(2) All securities of such class are held of record by fewer than 300 persons, or 1,200 persons in the case of a bank; a savings and loan holding company, as such term is defined in section 10 of the Home Owners' Loan Act (12 U.S.C. 1461); or a bank holding company, as such term is defined in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841).
+(2) All securities of such class are held of record by fewer than 300 persons, or 1,200 persons in the case of a bank; a savings and loan holding company, as such term is defined in section 10 of the Home Owners' Loan Act (12 U.S.C. 1461); or a bank holding company, as such term is defined in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841); or
 
 (3) The securities issued in connection with the succession were registered on Form F-8 or Form F-80 (§ 239.38 or § 239.41 of this chapter) and following succession the successor would not be required to register such class of securities under section 12 of the Act (15 U.S.C. 78*l*) but for this section.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 83 FR 50221, Oct. 4, 2018.
 
 (g) An issuer that is deemed to have a class of securities registered pursuant to section 12 of the Act (15 U.S.C. 78*l*) according to paragraph (a), (b), (c) or (d) of this section shall file an annual report for each fiscal year beginning on or after the date as of which the succession occurred. Annual reports shall be filed within the period specified in the appropriate form. Each such issuer shall file an annual report for each of its predecessors that had securities registered pursuant to section 12 of the Act (15 U.S.C. 78*l*) covering the last full fiscal year of the predecessor before the registrant's succession, unless such report has been filed by the predecessor. Such annual report shall contain information that would be required if filed by the predecessor.
 
-[62 FR 39767, July 24, 1997, as amended at 81 FR 28706, May 10, 2016]
+[62 FR 39767, July 24, 1997, as amended at 81 FR 28706, May 10, 2016; 83 FR 50221, Oct. 4, 2018]

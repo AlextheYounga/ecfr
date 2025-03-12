@@ -1,5 +1,7 @@
 ##### § 164.03 Incorporation by reference. #####
 
+Link to an amendment published at 83 FR 55281, Nov. 5, 2018.
+
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Coast Guard must publish notice of the change in the Federal Register and the material must be available to the public. All approved material is available for inspection at the National Archives and Records Administration (NARA). For more information on the availability of this material at NARA, call 202-741-6030, or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* Also, it is available for inspection at the Commandant (CG-NAV), U.S. Coast Guard Stop 7418, Attn: Office of Navigation Systems, 2703 Martin Luther King Jr. Ave. SE., Washington, DC 20593-7418, and is available from the sources listed below.
 
 (b) American Petroleum Institute (API), 1220 L Street NW., Washington, DC 20005-4070, 202-682-8000, *www.api.org:*

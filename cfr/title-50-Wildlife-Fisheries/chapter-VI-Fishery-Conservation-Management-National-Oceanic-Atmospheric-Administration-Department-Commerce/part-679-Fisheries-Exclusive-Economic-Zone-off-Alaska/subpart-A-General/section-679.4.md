@@ -1,7 +1,5 @@
 ##### § 679.4 Permits. #####
 
-Link to an amendment published at 83 FR 50001, Oct. 4, 2018.
-
 (a) *Requirements.* Only persons who are U.S. citizens are authorized to receive or hold permits under this section, with the exception that an IFQ hired master permit or a CDQ hired master permit need not be held by a U.S. citizen.
 
 (1) *What permits are available?* Various types of permits are issued for programs codified at 50 CFR parts 300 and 679. These permits are listed in the following table. The date of effectiveness for each permit is given along with certain reference paragraphs for further information.
@@ -905,6 +903,58 @@ Link to an amendment published at 83 FR 50001, Oct. 4, 2018.
 
 (13) *Amendment 80 Program.* In addition to other requirements of this part, a license holder must have an Amendment 80 LLP license to conduct fishing for an Amendment 80 species assigned to the Amendment 80 sector.
 
+(14) *Yellowfin sole trawl limited access sector (TLAS) directed fishery endorsement in the BSAI* - (i) *General.* In addition to other requirements of this part, and unless specifically exempted in paragraph (k)(2) of this section, a vessel must be designated on a groundfish LLP license that has a BSAI TLAS yellowfin sole directed fishery endorsement in order to conduct directed fishing for yellowfin sole with trawl gear in the BSAI Trawl Limited Access Sector fishery and deliver the catch to a mothership. A vessel designated on a groundfish LLP license with trawl and catcher/processor vessel designations and a BSAI TLAS yellowfin sole directed fishery endorsement may operate as a catcher vessel and deliver its catch of yellowfin sole harvested in the directed BSAI TLAS fishery to a mothership, or operate as a catcher/processor and catch and process its own catch in this fishery.
+
+(ii) *Eligibility requirements for a BSAI TLAS yellowfin sole directed fishery endorsement.* (A) A groundfish LLP license is eligible to receive a BSAI TLAS yellowfin sole directed fishery endorsement if the groundfish LLP license:
+
+(*1*) Had a vessel designated on it, in any year from 2008 through 2015, that made at least one legal trip target landing of yellowfin sole in the BSAI TLAS directed fishery to a mothership in any one year from 2008 through 2015, inclusive, where a trip target is the groundfish species for which the retained amount of that groundfish species is greater than the retained amount of any other groundfish species for that trip;
+
+(*2*) Has a Bering Sea area endorsement and a trawl gear designation; and
+
+(*3*) Is credited by NMFS with a legal trip target landing specified in paragraph (k)(14)(ii)(A)(*1*) of this section.
+
+(B) If a vessel specified in paragraph (k)(14)(ii)(A)(*1*) of this section was designated on more than one groundfish LLP license from 2008 through 2015 and made at least one legal trip target landing in a BSAI TLAS directed fishery from 2008 through 2015, the vessel owner must specify to NMFS only one of those groundfish LLP licenses to receive credit with the legal trip target landing(s) specified in paragraph (k)(14)(ii)(A)(*1*) of this section.
+
+(iii) *Explanations for BSAI TLAS yellowfin sole directed fishery endorsement.* (A) NMFS will determine whether a groundfish LLP license is eligible to receive a BSAI TLAS yellowfin sole directed fishery endorsement under paragraph (k)(14)(ii) of this section based only on information contained in the official record described in paragraph (k)(14)(v) of this section.
+
+(B) NMFS will credit a groundfish LLP license with a legal trip target landing specified in paragraph (k)(14)(ii)(A)(*1*) of this section if that groundfish LLP license was the only groundfish LLP license on which the vessel was designated from 2008 through 2015. If a vessel that made at least one legal trip target landing specified in paragraph (k)(14)(ii)(A)(*1*) of this section was designated on more than one groundfish LLP license from 2008 through 2015 and made at least one legal trip target landing in a BSAI TLAS directed fishery from 2008 through 2015, the vessel owner must notify NMFS which one of those groundfish LLP licenses NMFS is to credit with the legal trip target landing(s) specified in paragraph (k)(14)(ii)(A)(*1*) of this section.
+
+(C) Trip target landings will be determined based on round weight equivalents.
+
+(iv) *Exemptions to BSAI TLAS yellowfin sole endorsements.* Any vessel exempted from the License Limitation Program at paragraph (k)(2) of this section is exempted from the requirement to have a BSAI TLAS yellowfin sole endorsement to deliver catch of BSAI TLAS yellowfin sole to a mothership for processing.
+
+(v) *BSAI TLAS yellowfin sole participation official record.* (A) The official record will contain all information used by the Regional Administrator that is necessary to administer the requirements described in paragraph (k)(14) of this section.
+
+(B) The official record is presumed to be correct. A groundfish LLP license holder has the burden to prove otherwise.
+
+(C) Only legal landings as defined in § 679.2 and documented on State of Alaska fish tickets or NMFS weekly production reports will be used to determine legal trip target landings under paragraph (k)(14)(ii)(A)(*1*) of this section.
+
+(vi) *Process for issuing BSAI TLAS yellowfin sole endorsements.* (A) NMFS will issue to the holder of each groundfish LLP license endorsed to use trawl gear in the Bering Sea and designated in Column A of Table 52 to this part a notice of eligibility to receive a BSAI TLAS yellowfin sole directed fishery endorsement and a revised groundfish LLP license with a BSAI TLAS yellowfin sole directed fishery endorsement.
+
+(B) NMFS will issue to the holder of each groundfish LLP license endorsed to use trawl gear in the Bering Sea and designated in Column A of Table 53 to this part a notice of eligibility to be credited with a legal trip target landing specified in (k)(14)(ii)(A)(*1*) of this section.
+
+*(1)* NMFS will also issue to the owner of the vessel designated on the groundfish LLP licenses in Column A of Table 53 a notice of eligibility for the two listed groundfish LLP licenses to be credited with a legal trip target landing specified in (k)(14)(ii)(A)(*1*) of this section. The notice to the vessel owner will provide instructions for the vessel owner to select the one groundfish LLP license that NMFS is to credit with the legal trip target landing specified in (k)(14)(ii)(A)(*1*) of this section.
+
+*(2)* The holder of a groundfish LLP license in Column A of Table 53 will receive a revised groundfish LLP license with a BSAI TLAS yellowfin sole directed fishery endorsement if:
+
+*(i)* The owner of the vessel designated on the groundfish LLP license requests in writing that NMFS credit that groundfish LLP license with the legal trip target landing specified in paragraph (k)(14)(ii)(A)(*1*) of this section;
+
+*(ii)* The vessel owner, or the authorized agent, signs the request;
+
+*(iii)* The written request is submitted to NMFS using one of the following methods: Mail at Regional Administrator, c/o Restricted Access Management Program, NMFS, P.O. Box 21668, Juneau, AK 99802-1668; fax at 907-586-7352; or hand delivery or carrier at NMFS, Room 713, 709 West 9th Street, Juneau, AK 99801;
+
+and
+
+*(iv)* NMFS receives the written request and credits the groundfish LLP license with the legal trip target landing specified in paragraph (k)(14)(ii)(A)(*1*) of this section.
+
+*(3)* The holder of a groundfish LLP license in Column A of Table 53 that is not selected by the vessel owner will receive a notice, using the address on record at the time the notification is sent, informing the holder that the groundfish LLP license was not selected by the vessel owner, will not be credited with a legal trip target landing, and will not receive a BSAI TLAS yellowfin sole endorsement. The notice will inform the holder of the groundfish LLP license of the timing and process through which the holder can provide additional information or evidence to amend or challenge the information in the official record of this section as specified in paragraphs (k)(14)(vi)(D) and (E) of this section.
+
+(C) NMFS will issue to the holder of a groundfish LLP license with a Bering Sea trawl designation and that is not listed in either Table 52 or 53 a notice informing that holder that the groundfish LLP license is not eligible to be credited with a legal trip target landing or receive a BSAI TLAS yellowfin sole directed fishery endorsement based on the official record, using the address on record at the time the notification is sent. The notice will inform the holder of the groundfish LLP license of the timing and process through which the holder can provide additional information or evidence to amend or challenge the information in the official record of this section, as specified in paragraphs (k)(14)(vi)(D) and (E) of this section.
+
+(D) The Regional Administrator will specify by letter a 30-day evidentiary period during which an applicant may provide additional information or evidence to amend or challenge the information in the official record. A person will be limited to one 30-day evidentiary period. Additional information or evidence received after the 30-day evidentiary period specified in the letter has expired will not be considered for purposes of the initial administrative determination (IAD).
+
+(E) The Regional Administrator will prepare and send an IAD to the applicant following the expiration of the 30-day evidentiary period, if the Regional Administrator determines that the information or evidence provided by the person fails to support the person's claims and is insufficient to rebut the presumption that the official record is correct, or if the additional information, evidence, or revised application is not provided within the time period specified in the letter that notifies the applicant of his or her 30-day evidentiary period. The IAD will indicate the deficiencies with the information or evidence submitted. The IAD will also indicate which claims cannot be approved based on the available information or evidence. A person who receives an IAD may appeal pursuant to 15 CFR part 906. NMFS will issue a non-transferable interim license that is effective until final agency action on the IAD to an applicant who avails himself or herself of the opportunity to appeal an IAD and who has a credible claim to eligibility for a BSAI TLAS yellowfin sole endorsement.
+
 (l) *AFA permits* - (1) *General* - (i) *Applicability.* In addition to any other permit and licensing requirements set out in this part, any vessel used to engage in directed fishing for a non-CDQ allocation of pollock in the BS and any shoreside processor, stationary floating processor, or mothership that receives pollock harvested in a non-CDQ directed pollock fishery in the BS must have a valid AFA permit onboard the vessel or at the facility location at all times while non-CDQ pollock is being harvested or processed. In addition, the owner of any vessel that is a member of a pollock cooperative in the BS must also have a valid AFA permit for every vessel that is a member of the cooperative, regardless of whether or not the vessel actually engages in directed fishing for pollock in the BS. Finally, an AFA permit does not exempt a vessel operator, vessel, or processor from any other applicable permit or licensing requirement required under this part or in other state or Federal regulations.
 
 (ii) *Duration* - (A) *Expiration of interim AFA permits.* All interim AFA vessel and processor permits issued prior to January 1, 2002, will expire on December 31, 2002, unless extended or re-issued by NMFS.
@@ -1373,4 +1423,4 @@ OCEAN PHOENIX (USCG documentation number 296779); or
 
 (5) *CDQ ABC reserve and Amendment 80 ABC reserve exchange limitations.* Each CDQ group and each Amendment 80 cooperative is limited to no more than three Flatfish Exchanges per calendar year.
 
-[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,5 +1,7 @@
 ##### § 265.5 Functions delegated to Secretary of the Board. #####
 
+The Secretary of the Board (or the Secretary's delegee) is authorized:
+
 (a) *Procedure* - (1) *Extension of time period for public participation in proposed regulations.* To extend, when appropriate under the Board's Rules of Procedure (12 CFR 262.2 (a) and (b)), the time period for public participation with respect to proposed regulations of the Board.
 
 (2) *Extension of time period in notices, orders, rules, or regulations.* (i) To grant or deny requests to extend any time period in any notice, order, rule, or regulation of the Board relating to filing information, comments, opposition, briefs, exceptions, or other matters, in connection with any application, request or petition for the Board's approval, authority, determination, or permission, or any other action by the Board.
@@ -13,7 +15,8 @@
 (4) *Technical corrections in Board rules and regulations.* To make technical corrections, such as spelling, grammar, construction, and organization (including removal of obsolete provisions and consolidation of related provisions), to the Board's rules, regulations, and orders and other records of Board action but only with the concurrence of the Board's General Counsel.
 
 (b) *Availability of information* - (1) *FOIA requests.* To make available, upon request, information in Board records and consider requests for confidential treatment of information in Board records under the Freedom of Information Act (5 U.S.C. 552) and under the Board's Rules Regarding Availability of Information (12 CFR part 261).
-+
+
+(2) *Review of denial of access to Board records; FOIA.* To review and determine an appeal of denial of access to Board records under the Freedom of Information Act (5 U.S.C. 552), the Privacy Act (5 U.S.C. 552a), and the Board's rules regarding such access (12 CFR parts 261 and 261a, respectively).
 
 (3) *Annual reports on Privacy Act.* To approve annual reports required by the Privacy Act (5 U.S.C. 552a(p)) from the Board to the Office of Management and Budget for inclusion in the President's annual consolidated report to Congress.
 
@@ -67,4 +70,4 @@
 
 (2) The agreed-upon location does not raise any significant policy issues.
 
-[56 FR 25619, June 5, 1991, as amended at 56 FR 67153, 67154, Dec. 30, 1991; 58 FR 26509, May 4, 1993; 62 FR 34617, June 27, 1997; 66 FR 58655, Nov. 23, 2001; 83 FR , Mar. 6, 2018]
+[56 FR 25619, June 5, 1991, as amended at 56 FR 67153, 67154, Dec. 30, 1991; 58 FR 26509, May 4, 1993; 62 FR 34617, June 27, 1997; 66 FR 58655, Nov. 23, 2001; 83 FR 9419, Mar. 6, 2018]

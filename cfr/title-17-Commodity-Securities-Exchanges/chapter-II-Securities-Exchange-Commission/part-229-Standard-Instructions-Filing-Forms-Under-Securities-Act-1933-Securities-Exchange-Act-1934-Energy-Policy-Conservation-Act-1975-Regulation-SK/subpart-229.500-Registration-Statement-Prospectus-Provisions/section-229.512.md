@@ -1,7 +1,5 @@
 ##### § 229.512 (Item 512) Undertakings. #####
 
-Link to an amendment published at 83 FR 50211, Oct. 4, 2018.
-
 Include each of the following undertakings that is applicable to the offering being registered.
 
 (a) *Rule 415 Offering.*1 Include the following if the securities are registered pursuant to Rule 415 under the Securities Act (§ 230.415 of this chapter):
@@ -30,7 +28,7 @@ The undersigned registrant hereby undertakes:
 
 (3) To remove from registration by means of a post-effective amendment any of the securities being registered which remain unsold at the termination of the offering.
 
-(4) If the registrant is a foreign private issuer, to file a post-effective amendment to the registration statement to include any financial statements required by “Item 8.A. of Form 20-F (17 CFR 249.220f)” at the start of any delayed offering or throughout a continuous offering. Financial statements and information otherwise required by Section 10(a)(3) of the Act need not be furnished, *provided* that the registrant includes in the prospectus, by means of a post-effective amendment, financial statements required pursuant to this paragraph (a)(4) and other information necessary to ensure that all other information in the prospectus is at least as current as the date of those financial statements. Notwithstanding the foregoing, with respect to registration statements on Form F-3 (§ 239.33 of this chapter), a post-effective amendment need not be filed to include financial statements and information required by Section 10(a)(3) of the Act or § 210.3-19 of this chapter if such financial statements and information are contained in periodic reports filed with or furnished to the Commission by the registrant pursuant to section 13 or section 15(d) of the Securities Exchange Act of 1934 that are incorporated by reference in the Form F-3.
+(4) If the registrant is a foreign private issuer, to file a post-effective amendment to the registration statement to include any financial statements required by Item 8.A of Form 20-F (§ 249.220f of this chapter) at the start of any delayed offering or throughout a continuous offering. Financial statements and information otherwise required by Section 10(a)(3) of the Act (15 U.S.C. 77j(a)(3)) need not be furnished, *provided* that the registrant includes in the prospectus, by means of a post-effective amendment, financial statements required pursuant to this paragraph (a)(4) and other information necessary to ensure that all other information in the prospectus is at least as current as the date of those financial statements. Notwithstanding the foregoing, with respect to registration statements on Form F-3 (§ 239.33 of this chapter), a post-effective amendment need not be filed to include financial statements and information required by Section 10(a)(3) of the Act or Item 8.A of Form 20-F if such financial statements and information are contained in periodic reports filed with or furnished to the Commission by the registrant pursuant to section 13 or section 15(d) of the Securities Exchange Act of 1934 that are incorporated by reference in the Form F-3.
 
 (5) That, for the purpose of determining liability under the Securities Act of 1933 to any purchaser:
 

@@ -1,12 +1,10 @@
 ##### § 240.17g-3 Annual financial and other reports to be filed or furnished by nationally recognized statistical rating organizations. #####
 
-Link to an amendment published at 83 FR 50223, Oct. 4, 2018.
-
 (a) A nationally recognized statistical rating organization must annually, not more than 90 calendar days after the end of its fiscal year (as indicated on its current Form NRSRO):
 
 (1) File with the Commission a financial report, as of the end of the fiscal year, containing audited financial statements of the nationally recognized statistical rating organization or audited consolidated financial statements of its parent if the nationally recognized statistical rating organization is a separately identifiable division or department of the parent. The audited financial statements must:
 
-(i) Include a balance sheet, an income statement and statement of cash flows, and a statement of changes in ownership equity;
+(i) Include a balance sheet, an income statement (or a statement of comprehensive income, as defined in § 210.1-02 of Regulation S-X of this chapter, if required by the applicable generally accepted accounting principles noted in paragraph (a)(1)(ii) of this section) and statement of cash flows, and a statement of changes in ownership equity;
 
 (ii) Be prepared in accordance with generally accepted accounting principles in the jurisdiction in which the nationally recognized statistical rating organization or its parent is incorporated, organized, or has its principal office; and
 
@@ -76,4 +74,4 @@ A nationally recognized statistical rating organization registered in the class 
 
 (e) *Confidential treatment.* Information in a report filed or furnished, as applicable, on a confidential basis and for which confidential treatment has been requested pursuant to applicable Commission rules will be accorded confidential treatment to the extent permitted by law. Confidential treatment may be requested by marking each page “Confidential Treatment Requested” and by complying with Commission rules governing confidential treatment.
 
-[72 FR 33620, June 18, 2007, as amended at 74 FR 6482, Feb. 9, 2009; 79 FR 55263, Sept. 15, 2014; 79 FR 61576, Nov. 14, 2014]
+[72 FR 33620, June 18, 2007, as amended at 74 FR 6482, Feb. 9, 2009; 79 FR 55263, Sept. 15, 2014; 79 FR 61576, Nov. 14, 2014; 83 FR 50223, Oct. 4, 2018]

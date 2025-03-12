@@ -1,8 +1,6 @@
 ##### § 210.8-06 Real estate operations acquired or to be acquired. #####
 
-Link to an amendment published at 83 FR 50204, Oct. 4, 2018.
-
-If, during the period for which income statements are required, the smaller reporting company has acquired one or more properties that in the aggregate are significant, or since the date of the latest balance sheet required by § 210.8-02 or § 210.8-03, has acquired or proposes to acquire one or more properties that in the aggregate are significant, the following shall be furnished with respect to such properties:
+If, during the period for which statements of comprehensive income are required, the smaller reporting company has acquired one or more properties that in the aggregate are significant, or since the date of the latest balance sheet required by § 210.8-02 or § 210.8-03, has acquired or proposes to acquire one or more properties that in the aggregate are significant, the following shall be furnished with respect to such properties:
 
 (a) Audited income statements (not including earnings per unit) for the two most recent years, which shall exclude items not comparable to the proposed future operations of the property such as mortgage interest, leasehold rental, depreciation, corporate expenses and federal and state income taxes; *Provided, however,* that such audited statements need be presented for only the most recent fiscal year if:
 
@@ -15,3 +13,5 @@ If, during the period for which income statements are required, the smaller repo
 (b) If the property will be operated by the smaller reporting company, a statement shall be furnished showing the estimated taxable operating results of the smaller reporting company based on the most recent twelve-month period, including such adjustments as can be factually supported. If the property will be acquired subject to a net lease, the estimated taxable operating results shall be based on the rent to be paid for the first year of the lease. In either case, the estimated amount of cash to be made available by operations shall be shown. Disclosure must be provided of the principal assumptions that have been made in preparing the statements of estimated taxable operating results and cash to be made available by operations.
 
 (c) If appropriate under the circumstances, a table should be provided that shows, for a limited number of years, the estimated cash distribution per unit, indicating the portion reportable as taxable income and the portion representing a return of capital with an explanation of annual variations, if any. If taxable net income per unit will be greater than the cash available for distribution per unit, that fact and the approximate year of occurrence shall be stated, if significant.
+
+[73 FR 953, Jan. 4, 2008, as amended at 83 FR 50204, Oct. 4, 2018]

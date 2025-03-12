@@ -1,7 +1,5 @@
 ##### § 210.4-10 Financial accounting and reporting for oil and gas producing activities pursuant to the Federal securities laws and the Energy Policy and Conservation Act of 1975. #####
 
-Link to an amendment published at 83 FR 50201, Oct. 4, 2018.
-
 This section prescribes financial accounting and reporting standards for registrants with the Commission engaged in oil and gas producing activities in filings under the Federal securities laws and for the preparation of accounts by persons engaged, in whole or in part, in the production of crude oil or natural gas in the United States, pursuant to section 503 of the Energy Policy and Conservation Act of 1975 (42 U.S.C. 6383) (*EPCA*) and section 11(c) of the Energy Supply and Environmental Coordination Act of 1974 (15 U.S.C. 796) (*ESECA*), as amended by section 505 of EPCA. The application of this section to those oil and gas producing operations of companies regulated for ratemaking purposes on an individual-company-cost-of-service basis may, however, give appropriate recognition to differences arising because of the effect of the ratemaking process.
 
 *Exemption.* Any person exempted by the Department of Energy from any record-keeping or reporting requirements pursuant to section 11(c) of ESECA, as amended, is similarly exempted from the related provisions of this section in the preparation of accounts pursuant to EPCA. This exemption does not affect the applicability of this section to filings pursuant to the Federal securities laws.Definitions
@@ -36,7 +34,7 @@ This section prescribes financial accounting and reporting standards for registr
 
 (7) *Development costs.* Costs incurred to obtain access to proved reserves and to provide facilities for extracting, treating, gathering and storing the oil and gas. More specifically, development costs, including depreciation and applicable operating costs of support equipment and facilities and other costs of development activities, are costs incurred to:
 
-(i) Gain access to and prepare well locations for drilling, including surveying well locations for the purpose of determining specific development drilling sites, clearing ground, draining, road building, and relocating public roads, gas lines, and power lines, to the extent necessary in developing the proved reserves.
+(i) For each cost center for each year that a statement of comprehensive income is required, disclose the total amount of amortization expense (per equivalent physical unit of production if amortization is computed on the basis of physical units or per dollar of gross revenue from production if amortization is computed on the basis of gross revenue).
 
 (ii) Drill and equip development wells, development-type stratigraphic test wells, and service wells, including the costs of platforms and of well equipment such as casing, tubing, pumping equipment, and the wellhead assembly.
 
@@ -144,7 +142,7 @@ b. In the case of natural resources that are intended to be upgraded into synthe
 
 (21) *Proved area.* The part of a property to which proved reserves have been specifically attributed.
 
-(22) *Proved oil and gas reserves.* Proved oil and gas reserves are those quantities of oil and gas, which, by analysis of geoscience and engineering data, can be estimated with reasonable certainty to be economically producible - from a given date forward, from known reservoirs, and under existing economic conditions, operating methods, and government regulations - prior to the time at which contracts providing the right to operate expire, unless evidence indicates that renewal is reasonably certain, regardless of whether deterministic or probabilistic methods are used for the estimation. The project to extract the hydrocarbons must have commenced or the operator must be reasonably certain that it will commence the project within a reasonable time.
+(22) *Proved oil and gas reserves.* Proved oil and gas reserves are those quantities of oil and gas, which, by analysis of geoscience and engineering data, can be estimated with reasonable certainty to be economically producible—from a given date forward, from known reservoirs, and under existing economic conditions, operating methods, and government regulations—prior to the time at which contracts providing the right to operate expire, unless evidence indicates that renewal is reasonably certain, regardless of whether deterministic or probabilistic methods are used for the estimation. The project to extract the hydrocarbons must have commenced or the operator must be reasonably certain that it will commence the project within a reasonable time.
 
 (i) The area of the reservoir considered as proved includes:
 
@@ -196,7 +194,7 @@ Reserves should not be assigned to adjacent reservoirs isolated by major, potent
 
 Successful Efforts Method
 
-(b) A reporting entity that follows the successful efforts method shall comply with the accounting and financial reporting disclosure requirements of FASB ASC Topic 932, *Extractive Activities - Oil and Gas.*
+(b) A reporting entity that follows the successful efforts method shall comply with the accounting and financial reporting disclosure requirements of FASB ASC Topic 932, *Extractive Activities—Oil and Gas.*
 
 Full Cost Method
 
@@ -276,4 +274,4 @@ Income Taxes
 
 (d) *Income taxes.* Comprehensive interperiod income tax allocation by a method which complies with generally accepted accounting principles shall be followed for intangible drilling and development costs and other costs incurred that enter into the determination of taxable income and pretax accounting income in different periods.
 
-[43 FR 60405, Dec. 27, 1978, as amended at 43 FR 60417, Dec. 27, 1978; 44 FR 57036, 57038, Oct. 9, 1979; 45 FR 27749, Apr. 24, 1980. Redesignated and amended at 45 FR 63669, Sept. 25, 1980; 47 FR 57913, Dec. 29, 1982; 48 FR 44200, Sept. 28, 1983; 49 FR 18473, May 1, 1984; 57 FR 45293, Oct. 1, 1992; 61 FR 30401, June 14, 1996; 74 FR 2190, Jan. 14, 2009; 76 FR 50119, Aug. 12, 2011]
+[43 FR 60405, Dec. 27, 1978, as amended at 43 FR 60417, Dec. 27, 1978; 44 FR 57036, 57038, Oct. 9, 1979; 45 FR 27749, Apr. 24, 1980. Redesignated and amended at 45 FR 63669, Sept. 25, 1980; 47 FR 57913, Dec. 29, 1982; 48 FR 44200, Sept. 28, 1983; 49 FR 18473, May 1, 1984; 57 FR 45293, Oct. 1, 1992; 61 FR 30401, June 14, 1996; 74 FR 2190, Jan. 14, 2009; 76 FR 50119, Aug. 12, 2011; 83 FR 50201, Oct. 4, 2018]

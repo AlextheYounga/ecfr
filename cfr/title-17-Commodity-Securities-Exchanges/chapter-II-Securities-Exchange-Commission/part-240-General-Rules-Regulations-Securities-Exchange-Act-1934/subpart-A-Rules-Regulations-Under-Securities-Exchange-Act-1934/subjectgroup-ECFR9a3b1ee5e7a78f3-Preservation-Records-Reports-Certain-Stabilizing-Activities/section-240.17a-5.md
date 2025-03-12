@@ -1,7 +1,5 @@
 ##### § 240.17a-5 Reports to be made by certain brokers and dealers. #####
 
-Link to an amendment published at 83 FR 50223, Oct. 4, 2018.
-
 (a) *Filing of monthly and quarterly reports.* (1) This paragraph (a) shall apply to every broker or dealer registered pursuant to section 15 of the Act.
 
 (2)(i) Every broker or dealer subject to this paragraph (a) who clears transactions or carries customer accounts must file with the Commission Part I of Form X-17A-5 (§ 249.617 of this chapter) within 10 business days after the end of each month.
@@ -147,6 +145,10 @@ The term “customer” also includes any person for whom the broker or dealer h
 (2) *Financial report.* The financial report must contain:
 
 (i) A Statement of Financial Condition, a Statement of Income, a Statement of Cash Flows, a Statement of Changes in Stockholders' or Partners' or Sole Proprietor's Equity, and a Statement of Changes in Liabilities Subordinated to Claims of General Creditors. The statements must be prepared in accordance with U.S. generally accepted accounting principles and must be in a format that is consistent with the statements contained in Form X-17A-5 (§ 249.617 of this chapter) Part II or Part IIA. If the Statement of Financial Condition filed in accordance with instructions to Form X-17A-5, Part II or Part IIA, is not consolidated, a summary of financial data, including the assets, liabilities, and net worth or stockholders' equity, for subsidiaries not consolidated in the Part II or Part IIA Statement of Financial Condition as filed by the broker or dealer must be included in the notes to the financial statements reported on by the independent public accountant.
+
+Note 1 to paragraph (d)(2)( i).
+
+If there is other comprehensive income in the period(s) presented, the financial report must contain a Statement of Comprehensive Income (as defined in § 210.1-02 of Regulation S-X of this chapter) in place of a Statement of Income.
 
 (ii) Supporting schedules that include, from Part II or Part IIA of Form X-17A-5 (§ 249.617 of this chapter), a Computation of Net Capital Under § 240.15c3-1, a Computation for Determination of the Reserve Requirements under Exhibit A of § 240.15c3-3, and Information Relating to the Possession or Control Requirements Under § 240.15c3-3.
 

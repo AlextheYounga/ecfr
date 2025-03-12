@@ -1,7 +1,5 @@
 ##### § 230.405 Definitions of terms. #####
 
-Link to an amendment published at 83 FR 50212, Oct. 4, 2018.
-
 Unless the context otherwise requires, all terms used in §§ 230.400 to 230.494, inclusive, or in the forms for registration have the same meanings as in the Act and in the general rules and regulations. In addition, the following definitions apply, unless the context otherwise requires:
 
 *Affiliate.* An *affiliate* of, or person *affiliated* with, a specified person, is a person that directly, or indirectly through one or more intermediaries, controls or is controlled by, or is under common control with, the person specified.
@@ -208,19 +206,23 @@ For purposes of this definition, the determination of a registrant's assets (inc
 
 *Significant subsidiary.* The term *significant subsidiary* means a subsidiary, including its subsidiaries, which meets any of the following conditions:
 
-(1) The registrant's and its other subsidiaries' investments in and advances to the subsidiary exceed 10 percent of the total assets of the registrant and its subsidiaries consolidated as of the end of the most recently completed fiscal year (for a proposed business combination to be accounted for as a pooling of interests, this condition is also met when the number of common shares exchanged or to be exchanged by the registrant exceeds 10 percent of its total common shares outstanding at the date the combination is initiated); or
+(1) The registrant's and its other subsidiaries' investments in and advances to the subsidiary exceed 10 percent of the total assets of the registrant and its subsidiaries consolidated as of the end of the most recently completed fiscal year (for a proposed combination between entities under common control, this condition is also met when the number of common shares exchanged or to be exchanged by the registrant exceeds 10 percent of its total common shares outstanding at the date the combination is initiated); or
 
 (2) The registrant's and its other subsidiaries' proportionate share of the total assets (after intercompany eliminations) of the subsidiary exceeds 10 percent of the total assets of the registrants and its subsidiaries consolidated as of the end of the most recently completed fiscal year; or
 
-(3) The registrant's and its other subsidiaries' equity in the income from continuing operations before income taxes, extraordinary items and cumulative effect of a change in accounting principle of the subsidiary exceeds 10 percent of such income of the registrant and its subsidiaries consolidated for the most recently completed fiscal year.
+(3) The registrant's and its other subsidiaries' equity in the income from continuing operations before income taxes of the subsidiary exclusive of amounts attributable to any noncontrolling interests exceeds 10 percent of such income of the registrant and its subsidiaries consolidated for the most recently completed fiscal year.
 
-Computational note.
+Note 1:
+
+A registrant that files its financial statements in accordance with or provides a reconciliation to U.S. Generally Accepted Accounting Principles shall make the prescribed tests using amounts determined under U.S. Generally Accepted Accounting Principles. A foreign private issuer that files its financial statements in accordance with IFRS as issued by the IASB shall make the prescribed tests using amounts determined under IFRS as issued by the IASB.
+
+Computational note 1 to paragraph (3):
 
 For purposes of making the prescribed income test the following guidance should be applied:
 
-1. When a loss has been incurred by either the parent and its subsidiaries consolidated or the tested subsidiary, but not both, the equity in the income or loss of the tested subsidiary should be excluded from the income of the registrant and its subsidiaries consolidated for purposes of the computation.
+1. When a loss exclusive of amounts attributable to any noncontrolling interests has been incurred by either the parent and its subsidiaries consolidated or the tested subsidiary, but not both, the equity in the income or loss of the tested subsidiary exclusive of amounts attributable to any noncontrolling interests should be excluded from such income of the registrant and its subsidiaries consolidated for purposes of the computation.
 
-2. If income of the registrant and its subsidiaries consolidated for the most recent fiscal year is at least 10 percent lower than the average of the income for the last five fiscal years, such average income should be substituted for purposes of the computation. Any loss years should be omitted for purposes of computing average income.
+2. If income of the registrant and its subsidiaries consolidated exclusive of amounts attributable to any noncontrolling interests for the most recent fiscal year is at least 10 percent lower than the average of the income for the last five fiscal years, such average income should be substituted for purposes of the computation. Any loss years should be omitted for purposes of computing average income.
 
 *Smaller reporting company.* As used in this part, the term *smaller reporting company* means an issuer that is not an investment company, an asset-backed issuer (as defined in § 229.1101 of this chapter), or a majority-owned subsidiary of a parent that is not a smaller reporting company and that:
 

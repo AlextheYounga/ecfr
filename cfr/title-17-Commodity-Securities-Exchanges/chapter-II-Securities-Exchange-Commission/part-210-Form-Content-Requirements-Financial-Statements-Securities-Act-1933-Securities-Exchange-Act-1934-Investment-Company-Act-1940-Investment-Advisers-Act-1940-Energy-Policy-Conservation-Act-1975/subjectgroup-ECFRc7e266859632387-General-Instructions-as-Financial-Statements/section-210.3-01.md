@@ -1,7 +1,5 @@
 ##### § 210.3-01 Consolidated balance sheets. #####
 
-Link to an amendment published at 83 FR 50198, Oct. 4, 2018.
-
 (a) There shall be filed, for the registrant and its subsidiaries consolidated, audited balance sheets as of the end of each of the two most recent fiscal years. If the registrant has been in existence for less than one fiscal year, there shall be filed an audited balance sheet as of a date within 135 days of the date of filing the registration statement.
 
 (b) If the filing, other than a filing on Form 10-K or Form 10, is made within 45 days after the end of the registrant's fiscal year and audited financial statements for the most recent fiscal year are not available, the balance sheets may be as of the end of the two preceding fiscal years and the filing shall include an additional balance sheet as of an interim date at least as current as the end of the registrant's third fiscal quarter of the most recently completed fiscal year.
@@ -10,9 +8,9 @@ Link to an amendment published at 83 FR 50198, Oct. 4, 2018.
 
 (1) The registrant files annual, quarterly and other reports pursuant to section 13 or 15(d) of the Securities Exchange Act of 1934 and all reports due have been filed;
 
-(2) For the most recent fiscal year for which audited financial statements are not yet available the registrant reasonably and in good faith expects to report income attributable to the registrant, after taxes but before extraordinary items and cumulative effect of a change in accounting principle; and
+(2) For the most recent fiscal year for which audited financial statements are not yet available the registrant reasonably and in good faith expects to report income attributable to the registrant, after taxes; and
 
-(3) For at least one of the two fiscal years immediately preceding the most recent fiscal year the registrant reported income attributable to the registrant, after taxes but before extraordinary items and cumulative effect of a change in accounting principle.
+(3) For at least one of the two fiscal years immediately preceding the most recent fiscal year the registrant reported income attributable to the registrant, after taxes.
 
 (d) For filings made after 45 days but within the number of days of the end of the registrant's fiscal year specified in paragraph (i) of this section where the conditions set forth in paragraph (c) of this section are not met, the filing must include the audited balance sheets required by paragraph (a) of this section.
 
@@ -42,4 +40,4 @@ Link to an amendment published at 83 FR 50198, Oct. 4, 2018.
 
 (ii) 134 days subsequent to the end of the registrant's most recent fiscal year for all other registrants.
 
-[45 FR 63687, Sept. 25, 1980, as amended at 46 FR 12491, Feb. 17, 1981; 46 FR 36124, July 14, 1981; 50 FR 49531, Dec. 3, 1985; 56 FR 30053, July 1, 1991; 64 FR 53908, Oct. 5, 1999; 67 FR 58503, Sept. 16, 2002; 68 FR 17880, Apr. 14, 2003; 69 FR 68235, Nov. 23, 2004; 70 FR 76640, Dec. 27, 2005; 73 FR 952, Jan. 4, 2008; 74 FR 18614, Apr. 23, 2009]
+[45 FR 63687, Sept. 25, 1980, as amended at 46 FR 12491, Feb. 17, 1981; 46 FR 36124, July 14, 1981; 50 FR 49531, Dec. 3, 1985; 56 FR 30053, July 1, 1991; 64 FR 53908, Oct. 5, 1999; 67 FR 58503, Sept. 16, 2002; 68 FR 17880, Apr. 14, 2003; 69 FR 68235, Nov. 23, 2004; 70 FR 76640, Dec. 27, 2005; 73 FR 952, Jan. 4, 2008; 74 FR 18614, Apr. 23, 2009]; 83 FR 50198, Oct. 4, 2018]

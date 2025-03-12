@@ -1,7 +1,5 @@
 ##### § 229.101 (Item 101) Description of business. #####
 
-Link to an amendment published at 83 FR 50209, Oct. 4, 2018.
-
 (a) *General development of business.* Describe the general development of the business of the registrant, its subsidiaries and any predecessor(s) during the past five years, or such shorter period as the registrant may have been engaged in business. Information shall be disclosed for earlier periods if material to an understanding of the general development of the business.
 
 (1) In describing developments, information shall be given as to matters such as the following: the year in which the registrant was organized and its form of organization; the nature and results of any bankruptcy, receivership or similar proceedings with respect to the registrant or any of its significant subsidiaries; the nature and results of any other material reclassification, merger or consolidation of the registrant or any of its significant subsidiaries; the acquisition or disposition of any material amount of assets otherwise than in the ordinary course of business; and any material changes in the mode of conducting the business.
@@ -28,11 +26,7 @@ Link to an amendment published at 83 FR 50209, Oct. 4, 2018.
 
 (*5*) Other material areas which may be peculiar to the registrant's business.
 
-(b) *Financial information about segments.* Report for each segment, as defined by generally accepted accounting principles, revenues from external customers, a measure of profit or loss and total assets. A registrant must report this information for each of the last three fiscal years or for as long as it has been in business, whichever period is shorter. If the information provided in response to this paragraph (b) conforms with generally accepted accounting principles, a registrant may include in its financial statements a cross reference to this data in lieu of presenting duplicative information in the financial statements; conversely, a registrant may cross reference to the financial statements.
-
-(1) If a registrant changes the structure of its internal organization in a manner that causes the composition of its reportable segments to change, the registrant must restate the corresponding information for earlier periods, including interim periods, unless it is impracticable to do so. Following a change in the composition of its reportable segments, a registrant shall disclose whether it has restated the corresponding items of segment information for earlier periods. If it has not restated the items from earlier periods, the registrant shall disclose in the year in which the change occurs segment information for the current period under both the old basis and the new basis of segmentation, unless it is impracticable to do so.
-
-(2) If the registrant includes, or is required by Article 3 of Regulation S-X (17 CFR 210) to include, interim financial statements, discuss any facts relating to the performance of any of the segments during the period which, in the opinion of management, indicate that the three year segment financial data may not be indicative of current or future operations of the segment. Comparative financial information shall be included to the extent necessary to the discussion.
+(b) [Reserved]
 
 (c) *Narrative description of business.* (1) Describe the business done and intended to be done by the registrant and its subsidiaries, focusing upon the registrant's dominant segment or each reportable segment about which financial information is presented in the financial statements. To the extent material to an understanding of the registrant's business taken as a whole, the description of each such segment shall include the information specified in paragraphs (c)(1) (i) through (x) of this section. The matters specified in paragraphs (c)(1) (xi) through (xiii) of this section shall be discussed with respect to the registrant's business in general; where material, the segments to which these matters are significant shall be identified.
 
@@ -56,43 +50,21 @@ Link to an amendment published at 83 FR 50209, Oct. 4, 2018.
 
 (x) Competitive conditions in the business involved including, where material, the identity of the particular markets in which the registrant competes, an estimate of the number of competitors and the registrant's competitive position, if known or reasonably available to the registrant. Separate consideration shall be given to the principal products or services or classes of products or services of the segment, if any. Generally, the names of competitors need not be disclosed. The registrant may include such names, unless in the particular case the effect of including the names would be misleading. Where, however, the registrant knows or has reason to know that one or a small number of competitors is dominant in the industry it shall be identified. The principal methods of competition (e.g., price, service, warranty or product performance) shall be identified, and positive and negative factors pertaining to the competitive position of the registrant, to the extent that they exist, shall be explained if known or reasonably available to the registrant.
 
-(xi) If material, the estimated amount spent during each of the last three fiscal years on company-sponsored research and development activities determined in accordance with generally accepted accounting principles. In addition, state, if material, the estimated dollar amount spent during each of such years on customer-sponsored research activities relating to the development of new products, services or techniques or the improvement of existing products, services or techniques.
+(xi) [Reserved]
 
 (xii) Appropriate disclosure also shall be made as to the material effects that compliance with Federal, State and local provisions which have been enacted or adopted regulating the discharge of materials into the environment, or otherwise relating to the protection of the environment, may have upon the capital expenditures, earnings and competitive position of the registrant and its subsidiaries. The registrant shall disclose any material estimated capital expenditures for environmental control facilities for the remainder of its current fiscal year and its succeeding fiscal year and for such further periods as the registrant may deem materials.
 
 (xiii) The number of persons employed by the registrant.
 
-(d) *Financial information about geographic areas.* (1) State for each of the registrant's last three fiscal years, or for each fiscal year the registrant has been engaged in business, whichever period is shorter:
+(d) [Reserved]
 
-(i) Revenues from external customers attributed to:
-
-(A) The registrant's country of domicile;
-
-(B) All foreign countries, in total, from which the registrant derives revenues; and
-
-(C) Any individual foreign country, if material. Disclose the basis for attributing revenues from external customers to individual countries.
-
-(ii) Long-lived assets, other than financial instruments, long-term customer relationships of a financial institution, mortgage and other servicing rights, deferred policy acquisition costs, and deferred tax assets, located in:
-
-(A) The registrant's country of domicile;
-
-(B) All foreign countries, in total, in which the registrant holds assets; and
-
-(C) Any individual foreign country, if material.
-
-(2) A registrant shall report the amounts based on the financial information that it uses to produce the general-purpose financial statements. If providing the geographic information is impracticable, the registrant shall disclose that fact. A registrant may wish to provide, in addition to the information required by paragraph (d)(1) of this section, subtotals of geographic information about groups of countries. To the extent that the disclosed information conforms with generally accepted accounting principles, the registrant may include in its financial statements a cross reference to this data in lieu of presenting duplicative data in its financial statements; conversely, a registrant may cross-reference to the financial statements.
-
-(3) A registrant shall describe any risks attendant to the foreign operations and any dependence on one or more of the registrant's segments upon such foreign operations, unless it would be more appropriate to discuss this information in connection with the description of one or more of the registrant's segments under paragraph (c) of this item.
-
-(4) If the registrant includes, or is required by Article 3 of Regulation S-X (17 CFR 210), to include, interim financial statements, discuss any facts relating to the information furnished under this paragraph (d) that, in the opinion of management, indicate that the three year financial data for geographic areas may not be indicative of current or future operations. To the extent necessary to the discussion, include comparative information.
-
-(e) *Available information.* Disclose the information in paragraphs (e)(1), (e)(2) and (e)(3) of this section in any registration statement you file under the Securities Act (15 U.S.C. 77a *et seq.*), and disclose the information in paragraphs (e)(3) and (e)(4) of this section if you are an accelerated filer or a large accelerated filer (as defined in § 240.12b-2 of this chapter) filing an annual report on Form 10-K (§ 249.310 of this chapter):
+(e) *Available information.* Disclose the information in paragraphs (e)(1), (e)(2) and (e)(3) of this section in any registration statement you file under the Securities Act (15 U.S.C. 77a *et seq.*), and disclose the information in paragraph (e)(3) of this section in your annual report on Form 10-K (§ 249.310 of this chapter). Further disclose the information in paragraph (e)(4) of this section if you are an accelerated filer or a large accelerated filer (as defined in § 240.12b-2 of this chapter) filing an annual report on Form 10-K (§ 249.310 of this chapter):
 
 (1) Whether you file reports with the Securities and Exchange Commission. If you are a reporting company, identify the reports and other information you file with the SEC.
 
-(2) That the public may read and copy any materials you file with the SEC at the SEC's Public Reference Room at 100 F Street, NE., Washington, DC 20549. State that the public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. If you are an electronic filer, state that the SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC and state the address of that site (*http://www.sec.gov*).
+(2) State that the SEC maintains an internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC and state the address of that site (*http://www.sec.gov*).
 
-(3) You are encouraged to give your Internet address, if available, except that if you are an accelerated filer or a large accelerated filer filing your annual report on Form 10-K, you must disclose your Internet address, if you have one.
+(3) Disclose your internet address, if you have one.
 
 (4)(i) Whether you make available free of charge on or through your Internet website, if you have one, your annual report on Form 10-K, quarterly reports on Form 10-Q (§ 249.308a of this chapter), current reports on Form 8-K (§ 249.308 of this chapter), and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act (15 U.S.C. 78m(a) or 78o(d)) as soon as reasonably practicable after you electronically file such material with, or furnish it to, the SEC;
 
@@ -148,7 +120,7 @@ Link to an amendment published at 83 FR 50209, Oct. 4, 2018.
 
 (ix) Effect of existing or probable governmental regulations on the business;
 
-(x) Estimate of the amount spent during each of the last two fiscal years on research and development activities, and if applicable, the extent to which the cost of such activities is borne directly by customers;
+(x) [Reserved]
 
 (xi) Costs and effects of compliance with environmental laws (federal, state and local); and
 
@@ -160,7 +132,7 @@ Link to an amendment published at 83 FR 50209, Oct. 4, 2018.
 
 (ii) Whether you file reports with the Securities and Exchange Commission. If you are a reporting company, identify the reports and other information you file with the Commission; and
 
-(iii) That the public may read and copy any materials you file with the Commission at the SEC's Public Reference Room at 100 F Street, NE., Washington, DC 20549, on official business days during the hours of 10 a.m. to 3 p.m. State that the public may obtain information on the operation of the Public Reference Room by calling the Commission at 1-800-SEC-0330. State that the Commission maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the Commission and state the address of that site (*http://www.sec.gov*). You are encouraged to give your Internet address, if available.
+(iii) State that the Commission maintains an internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the Commission and state the address of that site (*http://www.sec.gov*). Disclose your internet address, if available.
 
 (6) *Foreign issuers.* Provide the information required by Item 101(g) of Regulation S-K (§ 229.101(g)).
 
@@ -170,4 +142,4 @@ Link to an amendment published at 83 FR 50209, Oct. 4, 2018.
 
 3. The Commission, upon written request of the registrant and where consistent with the protection of investors, may permit the omission of any of the information required by this Item or the furnishing in substitution thereof of appropriate information of comparable character.
 
-[47 FR 11401, Mar. 16, 1982, as amended at 63 FR 6381, Feb. 6, 1998; 64 FR 1734, Jan. 12, 1999; 67 FR 58504, Sept. 16, 2002; 70 FR 76641, Dec. 27, 2005; 73 FR 957, Jan. 4, 2008; 76 FR 50120, Aug. 12, 2011]
+[47 FR 11401, Mar. 16, 1982, as amended at 63 FR 6381, Feb. 6, 1998; 64 FR 1734, Jan. 12, 1999; 67 FR 58504, Sept. 16, 2002; 70 FR 76641, Dec. 27, 2005; 73 FR 957, Jan. 4, 2008; 76 FR 50120, Aug. 12, 2011; 83 FR 50209, Oct. 4, 2018]

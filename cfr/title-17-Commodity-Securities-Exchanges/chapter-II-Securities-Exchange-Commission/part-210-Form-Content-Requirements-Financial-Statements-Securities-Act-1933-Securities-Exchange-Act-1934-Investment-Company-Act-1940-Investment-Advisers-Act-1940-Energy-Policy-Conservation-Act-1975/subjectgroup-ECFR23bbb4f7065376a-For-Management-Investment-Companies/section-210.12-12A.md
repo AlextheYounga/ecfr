@@ -2,9 +2,9 @@
 
 [For management investment companies only]
 
-|                     Col. A                      |                            Col. B                             |                     Col. C                      |
-|-------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------|
-|Name of issuer and title of issue<sup>1 2 3</sup>|Balance of short position at close of period (number of shares)|Value of each open short position<sup>4 5 6</sup>|
+|                Col. A                 |                            Col. B                             |                Col. C                 |
+|---------------------------------------|---------------------------------------------------------------|---------------------------------------|
+|Name of issuer and title of issue 1 2 3|Balance of short position at close of period (number of shares)|Value of each open short position 4 5 6|
 
 <sup>1</sup> Each issue shall be listed separately.
 

@@ -4,7 +4,7 @@
 
 (b)(1) For child-custody proceedings in Alabama, Connecticut, Delaware, District of Columbia, Florida, Georgia, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Pennsylvania, Rhode Island, South Carolina, Tennessee, Vermont, Virginia, West Virginia, or any territory or possession of the United States, notices must be sent to the following address: Eastern Regional Director, Bureau of Indian Affairs, 545 Marriott Drive, Suite 700, Nashville, Tennessee 37214.
 
-(2) For child-custody proceedings in Illinois, Indiana, Iowa, Michigan, Minnesota, Ohio, or Wisconsin, notices must be sent to the following address: Minneapolis Regional Director, Bureau of Indian Affairs, 331 Second Avenue South, Minneapolis, Minnesota 55401-2241.
+(2) For child-custody proceedings in Illinois, Indiana, Iowa, Michigan, Minnesota, Ohio, or Wisconsin, notices must be sent to the following address: Minneapolis Regional Director, Bureau of Indian Affairs, 5600 American Blvd. W, Ste. 500, Bloomington, MN 55437.
 
 (3) For child-custody proceedings in Nebraska, North Dakota, or South Dakota, notices must be sent to the following address: Aberdeen Regional Director, Bureau of Indian Affairs, 115 Fourth Avenue SE., Aberdeen, South Dakota 57401.
 
@@ -14,7 +14,7 @@
 
 (6) For child-custody proceedings in the Texas counties of El Paso and Hudspeth or in Colorado or New Mexico (exclusive of notices to the Navajo Nation from the New Mexico counties listed in paragraph (b)(9) of this section), notices must be sent to the following address: Albuquerque Regional Director, Bureau of Indian Affairs, 615 First Street, P.O. Box 26567, Albuquerque, New Mexico 87125. Notices to the Navajo Nation must be sent to the Navajo Regional Director at the address listed in paragraph (b)(9) of this section.
 
-(7) For child-custody proceedings in Alaska (except for notices to the Metlakatla Indian Community, Annette Island Reserve, Alaska), notices must be sent to the following address: Juneau Regional Director, Bureau of Indian Affairs, 709 West 9th Street, Juneau, Alaska 99802-1219. Notices to the Metlakatla Indian Community, Annette Island Reserve, Alaska, must be sent to the Portland Regional Director at the address listed in paragraph (b)(11) of this section.
+(7) For child-custody proceedings in Alaska (except for notices to the Metlakatla Indian Community, Annette Island Reserve, Alaska), notices must be sent to the following address: Alaska Regional Director—Attn: Human Services, Bureau of Indian Affairs, 3601 C Street, Suite 1258, Anchorage, Alaska 99503. Notices to the Metlakatla Indian Community, Annette Island Reserve, Alaska, must be sent to the Portland Regional Director at the address listed in paragraph (b)(11) of this section.
 
 (8) For child-custody proceedings in Arkansas, Missouri, or the eastern Oklahoma counties of Adair, Atoka, Bryan, Carter, Cherokee, Craig, Creek, Choctaw, Coal, Delaware, Garvin, Grady, Haskell, Hughes, Jefferson, Johnson, Latimer, LeFlore, Love, Mayes, McCurtain, McClain, McIntosh, Murray, Muskogee, Nowata, Okfuskee, Okmulgee, Osage, Ottawa, Pittsburg, Pontotoc, Pushmataha, Marshall, Rogers, Seminole, Sequoyah, Stephens, Tulsa, Wagoner, or Washington, notices must be sent to the following address: Muskogee Regional Director, Bureau of Indian Affairs, 101 North Fifth Street, Muskogee, Oklahoma 74401.
 
@@ -30,4 +30,4 @@
 
 (d) Upon request from a party to an Indian child-custody proceeding, the Secretary will make a reasonable attempt to identify and locate the child's Tribe, parents, or Indian custodians to assist the party seeking the information.
 
-[81 FR 38866, June 14, 2016]
+[81 FR 38866, June 14, 2016, as amended at 83 FR 55268, Nov. 5, 2018]

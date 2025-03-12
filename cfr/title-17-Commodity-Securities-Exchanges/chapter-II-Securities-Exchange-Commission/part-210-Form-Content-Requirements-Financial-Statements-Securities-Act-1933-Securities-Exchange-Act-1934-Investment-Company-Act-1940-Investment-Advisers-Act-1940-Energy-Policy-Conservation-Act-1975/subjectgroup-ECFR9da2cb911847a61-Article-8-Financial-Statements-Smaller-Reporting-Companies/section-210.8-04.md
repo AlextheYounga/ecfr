@@ -1,7 +1,5 @@
 ##### § 210.8-04 Financial statements of businesses acquired or to be acquired. #####
 
-Link to an amendment published at 83 FR 50204, Oct. 4, 2018.
-
 (a) If a business combination has occurred or is probable, financial statements of the business acquired or to be acquired shall be furnished for the periods specified in paragraph (c) of this section:
 
 (1) This encompasses the purchase of an interest in a business accounted for by the equity method.
@@ -22,7 +20,7 @@ Link to an amendment published at 83 FR 50204, Oct. 4, 2018.
 
 (2) Compare the smaller reporting company's proportionate share of the total assets (after intercompany eliminations) of the acquiree to the total consolidated assets of the smaller reporting company as of the end of the most recently completed fiscal year.
 
-(3) Compare the smaller reporting company's equity in the income from continuing operations before income taxes, extraordinary items and cumulative effect of a change in accounting principles of the acquiree exclusive of amounts attributable to any noncontrolling interests to such consolidated income of the smaller reporting company for the most recently completed fiscal year.
+(3) Compare the smaller reporting company's equity in the income from continuing operations before income taxes of the acquiree exclusive of amounts attributable to any noncontrolling interests to such consolidated income of the smaller reporting company for the most recently completed fiscal year.
 
 Computational note to § 210.8-04(b):
 
@@ -46,4 +44,4 @@ For purposes of making the prescribed income test the following guidance should 
 
 (e) If the business acquired or to be acquired is a foreign business, financial statements of the business meeting the requirements of Item 17 of Form 20-F (§ 249.220f of this chapter) will satisfy this section.
 
-[73 FR 953, Jan. 4, 2008, as amended at 74 FR 18616, Apr. 23, 2009]
+[73 FR 953, Jan. 4, 2008, as amended at 74 FR 18616, Apr. 23, 2009; 83 FR 50204, Oct. 4, 2018]

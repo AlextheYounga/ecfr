@@ -1,7 +1,5 @@
 ##### § 210.9-03 Balance sheets. #####
 
-Link to an amendment published at 83 FR 50205, Oct. 4, 2018.
-
 The purpose of this rule is to indicate the various items which, if applicable, should appear on the face of the balance sheets or in the notes thereto.
 
 Assets
@@ -12,15 +10,13 @@ Assets
 
 2. Interest-bearing deposits in other banks.
 
-3. *Federal funds sold and securities purchased under resale agreements of similar arrangements.* These amounts should be presented gross and not netted against Federal funds purchased and securities sold under agreement to repurchase as reported in Caption 13.
+3. *Federal funds sold and securities purchased under resale agreements or similar arrangements.*
 
 4. *Trading account assets.* Include securities or any other investments held for trading purposes only.
 
 5. Other short-term investments.
 
 6. *Investment securities* Include securities held for investment only. Disclose the aggregate book value of investment securities; show on the balance sheet the aggregate market value at the balance sheet date. The aggregate amounts should include securities pledged, loaned or sold under repurchase agreements and similar arrangements; borrowed securities and securities purchased under resale agreements or similar arrangements should be excluded.
-
-(a) Disclose in a note the carrying value and market value of securities of (1) the U.S. Treasury and other U.S. Government agencies and corporations; (2) states of the U.S. and political subdivisions; and (3) other securities.
 
 7. *Loans.* Disclose separately (1) total loans, (2) the related allowance for losses and (3) unearned income.
 
@@ -44,7 +40,7 @@ Assets
 
 (c) The amount of foreign loans must be presented if the disclosures provided by § 210.9-05 are required.
 
-(d) For each period for which an income statement is required, furnish in a note a statement of changes in the allowance for loan losses showing the balances at beginning and end of the period provision charged to income, recoveries of amounts charged off and losses charged to the allowance.
+(d) [Reserved]
 
 (e)(1)(i) As of each balance sheet date, disclose in a note the aggregate dollar amount of loans (exclusive of loans to any such persons which in the aggregate do not exceed $60,000 during the latest year) made by the registrant or any of its subsidiaries to directors, executive officers, or principal holders of equity securities (§ 210.1-02) of the registrant or any of its significant subsidiaries (§ 210.1-02), or to any associate of such persons. For the latest fiscal year, an analysis of activity with respect to such aggregate loans to related parties should be provided. The analysis should include the aggregate amount at the beginning of the period, new loans, repayments, and other changes. (Other changes, if significant, should be explained.)
 
@@ -52,7 +48,7 @@ Assets
 
 (2) If a significant portion of the aggregate amount of loans outstanding at the end of the fiscal year disclosed pursuant to (e)(1)(i) above relates to loans which are disclosed as nonaccrual, past due, restructured or potential problems (see Item III.C. 1. or 2. of Industry Guide 3, Statistical Disclosure by Bank Holding Companies), so state and disclose the aggregate amounts of such loans along with such other information necessary to an understanding of the effects of the transactions on the financial statements.
 
-(3) Notwithstanding the aggregate disclosure called for by (e)(1) above, if any loans were not made in the ordinary course of business during any period for which an income statement is required to be filed, provide an appropriate description of each such loan (see § 210.4-08(L)(3)).
+(3) Notwithstanding the aggregate disclosure called for by paragraph (e)(1) of this section, if any loans were not made in the ordinary course of business during any period for which a statement of comprehensive income is required to be filed, provide an appropriate description of each such loan.
 
 (4) Definition of terms. For purposes of this rule, the following definitions shall apply:
 
@@ -70,15 +66,15 @@ Assets
 
 10. *Other assets.* Disclose separately on the balance sheet or in a note thereto any of the following assets or any other asset the amount of which exceeds thirty percent of stockholders equity. The remaining assets may be shown as one amount.
 
-(1) Excess of cost over tangible and identifiable intangible assets acquired (net of amortization).
+(1) Goodwill.
 
 (2) Other intangible assets (net of amortization).
 
-(3) Investments in and indebtness of affiliates and other persons.
+(3) Investments in and indebtedness of affiliates and other persons.
 
-(4) Other real estates.
+(4) Other real estate.
 
-(a) Disclose in a note the basis at which other real estate is carried. An reduction to fair market value from the carrying value of the related loan at the time of acquisition shall be accounted for as a loan loss. Any allowance for losses on other real estate which has been established subsequent to acquisition should be deducted from other real estate. For each period for which an income statement is required, disclosures should be made in a note as to the changes in the allowances, including balance at beginning and end of period, provision charged to income, and losses charged to the allowance.
+(a) Disclose in a note the basis at which other real estate is carried. A reduction to fair market value from the carrying value of the related loan at the time of acquisition shall be accounted for as a loan loss. Any allowance for losses on other real estate which has been established subsequent to acquisition should be deducted from other real estate. For each period for which a statement of comprehensive income is required, disclosures should be made in a note as to the changes in the allowances, including balance at beginning and end of period, provision charged to income, and losses charged to the allowance.
 
 11. Total assets.
 
@@ -86,7 +82,7 @@ Liabilities and Stockholders' EquityLiabilities
 
 12. *Deposits.* Disclose separately the amounts of noninterest bearing deposits and interest bearing deposits.
 
-(a) The amount of noninterest bearing deposits and interest bearing deposits in foreign banking offices must be presented if the disclosure provided by § 210.0-05 are required.
+(a) The amount of noninterest bearing deposits and interest bearing deposits in foreign banking offices must be presented if the disclosure provided by § 210.9-05 is required.
 
 13. *Short-term borrowing.* Disclosure separately on the balance sheet or in a note, amounts payable for (1) Federal funds purchased and securities sold under agreements to repurchase; (2) commercial paper, and (3) other short-term borrowings.
 
@@ -132,4 +128,4 @@ Noncontrolling Interests
 
 23. *Total liabilities and equity.*
 
-[48 FR 11107, Mar. 16, 1983, as amended at 48 FR 37612, Aug. 19, 1983; 50 FR 25215, June 18, 1985; 74 FR 18616, Apr. 23, 2009]
+[48 FR 11107, Mar. 16, 1983, as amended at 48 FR 37612, Aug. 19, 1983; 50 FR 25215, June 18, 1985; 74 FR 18616, Apr. 23, 2009; 83 FR 50205, Oct. 4, 2018]

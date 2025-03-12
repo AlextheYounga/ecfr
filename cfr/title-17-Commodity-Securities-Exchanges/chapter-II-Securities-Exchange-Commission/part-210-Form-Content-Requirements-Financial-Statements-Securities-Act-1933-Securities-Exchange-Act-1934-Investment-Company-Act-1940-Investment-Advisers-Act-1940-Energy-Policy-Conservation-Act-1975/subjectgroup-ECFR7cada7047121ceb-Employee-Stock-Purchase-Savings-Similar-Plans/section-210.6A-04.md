@@ -1,8 +1,6 @@
-##### § 210.6A-04 Statements of income and changes in plan equity. #####
+##### § 210.6A-04 Statements of comprehensive income and changes in plan equity. #####
 
-Link to an amendment published at 83 FR 50203, Oct. 4, 2018.
-
-Statements of income and changes in plan equity filed under this rule shall comply with the following provisions:
+Statements of comprehensive income and changes in plan equity filed under this rule shall comply with the following provisions:
 
 1. *Net investment income.*
 
@@ -30,4 +28,4 @@ Statements of income and changes in plan equity filed under this rule shall comp
 
 7. *Plan equity at end of period.*
 
-[27 FR 7870, Aug. 9, 1962. Redesignated at 47 FR 56843, Dec. 21, 1982]
+[27 FR 7870, Aug. 9, 1962. Redesignated at 47 FR 56843, Dec. 21, 1982; 83 FR 50203, Oct. 4, 2018]

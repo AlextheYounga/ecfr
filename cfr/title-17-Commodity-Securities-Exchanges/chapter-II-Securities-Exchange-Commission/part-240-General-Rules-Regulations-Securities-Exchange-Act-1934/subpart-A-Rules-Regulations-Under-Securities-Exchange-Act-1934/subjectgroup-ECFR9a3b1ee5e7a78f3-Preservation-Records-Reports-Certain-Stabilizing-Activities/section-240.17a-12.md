@@ -1,7 +1,5 @@
 ##### § 240.17a-12 Reports to be made by certain OTC derivatives dealers. #####
 
-Link to an amendment published at 83 FR 50223, Oct. 4, 2018.
-
 (a) *Filing of quarterly reports.* (1) This paragraph (a) shall apply to every OTC derivatives dealer registered pursuant to Section 15 of the Act (15 U.S.C. 78o).
 
 (i) Every OTC derivatives dealer shall file Part IIB of Form X-17A-5 (§ 249.617 of this chapter) within 17 business days after the end of each calendar quarter and within 17 business days after the date selected for the annual audit of financial statements where said date is other than the end of the calendar quarter.
@@ -17,6 +15,10 @@ Link to an amendment published at 83 FR 50223, Oct. 4, 2018.
 (ii) An OTC derivatives dealer succeeding to and continuing the business of another OTC derivatives dealer need not file a report under this paragraph (b) as of a date in the fiscal or calendar year in which the succession occurs if the predecessor OTC derivatives dealer has filed a report in compliance with this paragraph (b) as of a date in such fiscal or calendar year.
 
 (2) The annual audit report shall contain a Statement of Financial Condition (in a format and on a basis which is consistent with the total reported on the Statement of Financial Condition contained in Form X-17A-5 (§ 249.617 of this chapter), Part IIB, a Statement of Income, a Statement of Cash Flows, a Statement of Changes in Stockholders' or Partners' or Sole Proprietor's Equity, and a Statement of Changes in Liabilities Subordinated to Claims of General Creditors. Such statements shall be in a format which is consistent with such statements as contained in Form X-17A-5 (§ 249.617 of this chapter), Part IIB. If the Statement of Financial Condition filed in accordance with instructions to Form X-17A-5 (§ 249.617 of this chapter), Part IIB, is not consolidated, a summary of financial data for subsidiaries not consolidated in the Part IIB Statement of Financial Condition as filed by the OTC derivatives dealer shall be included in the notes to the consolidated statement of financial condition reported on by the certified public accountant. The summary financial data shall include the assets, liabilities, and net worth or stockholders' equity of the unconsolidated subsidiaries.
+
+Note 1 to paragraph (b)(2).
+
+If there is other comprehensive income in the period(s) presented, the financial report must contain a Statement of Comprehensive Income (as defined in § 210.1-02 of Regulation S-X of this chapter) in place of a Statement of Income.
 
 (3) Supporting schedules shall include, from Part IIB of Form X-17A-5 (§ 249.617 of this chapter), a Computation of Net Capital under § 240.15c3-1.
 
@@ -122,4 +124,4 @@ Link to an amendment published at 83 FR 50223, Oct. 4, 2018.
 
 (p) *Filing requirements.* For purposes of filing requirements as described in § 240.17a-12, these filings shall be deemed to have been accomplished upon receipt at the Commission's principal office in Washington, DC.
 
-[63 FR 59401, Nov. 3, 1998, as amended at 69 FR 34494, June 21, 2004]
+[63 FR 59401, Nov. 3, 1998, as amended at 69 FR 34494, June 21, 2004; 83 FR 50223, Oct. 4, 2018]

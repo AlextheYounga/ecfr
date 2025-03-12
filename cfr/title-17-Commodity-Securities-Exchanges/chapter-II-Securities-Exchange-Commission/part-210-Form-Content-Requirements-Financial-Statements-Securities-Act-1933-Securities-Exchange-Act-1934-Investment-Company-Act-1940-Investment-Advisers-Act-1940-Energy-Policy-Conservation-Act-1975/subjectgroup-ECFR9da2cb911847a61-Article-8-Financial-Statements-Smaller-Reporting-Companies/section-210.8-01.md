@@ -1,7 +1,5 @@
 ##### § 210.8-01 Preliminary Notes to Article 8. #####
 
-Link to an amendment published at 83 FR 50204, Oct. 4, 2018.
-
 Sections 210.8-01 to 210.8-08 shall be applicable to financial statements filed for smaller reporting companies. These sections are not applicable to financial statements prepared for the purposes of Item 17 or Item 18 of Form 20-F.
 
 Note 1 to § 210.8:
@@ -12,7 +10,7 @@ Note 2 to § 210.8:
 
 Smaller reporting companies electing to prepare their financial statements with the form and content required in this article need not apply the other form and content requirements in Regulation S-X with the exception of the following:
 
-a. The report and qualifications of the independent accountant shall comply with the requirements of Article 2 of this part;
+a. The report and qualifications of the independent accountant shall comply with the requirements of §§ 210.2-01 through 210.2-07 (Article 2 of this part); and
 
 b. The description of accounting policies shall comply with Article 4-08(n) of this part; and
 
@@ -32,6 +30,4 @@ Note 5 to § 210.8:
 
 The Commission, where consistent with the protection of investors, may permit the omission of one or more of the financial statements or the substitution of appropriate statements of comparable character. The Commission by informal written notice may require the filing of other financial statements where necessary or appropriate.
 
-Note 6 to § 210.8:
-
-Section 210.4-01(a)(3) shall apply to the preparation of financial statements of smaller reporting companies.
+[73 FR 953, Jan. 4, 2008, as amended at 83 FR 50204, Oct. 4, 2018]

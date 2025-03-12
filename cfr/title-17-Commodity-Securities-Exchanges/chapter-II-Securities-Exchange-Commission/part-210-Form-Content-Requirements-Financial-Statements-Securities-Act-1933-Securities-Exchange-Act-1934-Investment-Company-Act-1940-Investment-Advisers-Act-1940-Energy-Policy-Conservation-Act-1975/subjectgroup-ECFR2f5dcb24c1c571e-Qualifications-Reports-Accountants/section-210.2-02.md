@@ -1,7 +1,5 @@
 ##### § 210.2-02 Accountants' reports and attestation reports. #####
 
-Link to an amendment published at 83 FR 50198, Oct. 4, 2018.
-
 (a) *Technical requirements for accountants' reports.* The accountant's report:
 
 (1) Shall be dated;
@@ -14,7 +12,7 @@ Link to an amendment published at 83 FR 50198, Oct. 4, 2018.
 
 (b) *Representations as to the audit included in accountants' reports.* The accountant's report:
 
-(1) Shall state whether the audit was made in accordance with generally accepted auditing standards; and
+(1) Shall state the applicable professional standards under which the audit was conducted; and
 
 (2) Shall designate any auditing procedures deemed necessary by the accountant under the circumstances of the particular case, which have been omitted, and the reasons for their omission. Nothing in this rule shall be construed to imply authority for the omission of any procedure which independent accountants would ordinarily employ in the course of an audit made for the purpose of expressing the opinions required by paragraph (c) of this section.
 
@@ -34,4 +32,4 @@ Link to an amendment published at 83 FR 50198, Oct. 4, 2018.
 
 (g) *Attestation report on assessment of compliance with servicing criteria for asset-backed securities.* The attestation report on assessment of compliance with servicing criteria for asset-backed securities, as required by § 240.13a-18(c) or § 240.15d-18(c) of this chapter, shall be dated, signed manually, identify the period covered by the report and clearly state the opinion of the registered public accounting firm as to whether the asserting party's assessment of compliance with the servicing criteria is fairly stated in all material respects, or must include an opinion to the effect that an overall opinion cannot be expressed. If an overall opinion cannot be expressed, explain why.
 
-[37 FR 14594, July 21, 1972, as amended at 41 FR 35479, Aug. 23, 1976; 45 FR 63668, Sept. 25, 1980; 50 FR 25215, June 18, 1985; 67 FR 13533, Mar. 22, 2002; 68 FR 36660, June 18, 2003; 70 FR 1593, Jan. 7, 2005; 72 FR 35321, June 27, 2007; 75 FR 57387, Sept. 21, 2010; 82 FR 17551, Apr. 12, 2017]
+[37 FR 14594, July 21, 1972, as amended at 41 FR 35479, Aug. 23, 1976; 45 FR 63668, Sept. 25, 1980; 50 FR 25215, June 18, 1985; 67 FR 13533, Mar. 22, 2002; 68 FR 36660, June 18, 2003; 70 FR 1593, Jan. 7, 2005; 72 FR 35321, June 27, 2007; 75 FR 57387, Sept. 21, 2010; 82 FR 17551, Apr. 12, 2017; 83 FR 50198, Oct. 4, 2018]

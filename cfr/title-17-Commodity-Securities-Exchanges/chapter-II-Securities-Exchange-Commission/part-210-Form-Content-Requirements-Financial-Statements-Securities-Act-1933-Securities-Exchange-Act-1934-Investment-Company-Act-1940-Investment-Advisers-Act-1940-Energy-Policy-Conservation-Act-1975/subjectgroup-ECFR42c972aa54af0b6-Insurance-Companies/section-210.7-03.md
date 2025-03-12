@@ -1,12 +1,10 @@
 ##### § 210.7-03 Balance sheets. #####
 
-Link to an amendment published at 83 FR 50203, Oct. 4, 2018.
-
 (a) The purpose of this rule is to indicate the various items which, if applicable, and except as otherwise permitted by the Commission, should appear on the face of the balance sheets and in the notes thereto filed for persons to whom this article pertains. (See § 210.4-01(a).)
 
 Assets
 
-1. *Investments - other than investments in related parties.*
+1. *Investments—other than investments in related parties.*
 
 (a) *Fixed maturities.*
 
@@ -48,7 +46,7 @@ Notes:
 
 5. *Accounts and notes receivable.* Include under this caption (a) amounts receivable from agents and insureds, (b) uncollected premiums and (c) other receivables. State separately in the balance sheet or in a note thereto any category of other receivable which is in excess of five percent of total assets. State separately in the balance sheet or in a note thereto the amount of allowance for doubtful accounts that was deducted.
 
-6. *Reinsurance recoverable on paid losses.*
+6. *Reinsurance recoverable.*
 
 7. *Deferred policy acquisition costs.*
 
@@ -60,17 +58,15 @@ Notes:
 
 10. *Other assets.* State separately in the balance sheet or in a note thereto any other asset the amount of which exceeds five percent of total assets.
 
-11. *Assets held in separate accounts.* Include under this caption the aggregate amount of assets used to fund liabilities related to variable annuities, pension funds and similar activities. The aggregate liability shall be included under caption 18. Describe in a note to the financial statements the general nature of the activities being reported on in the separate accounts.
+11. *Separate account assets.* Include under this caption the portion of separate account-assets representing contract holder funds required to be reported in an insurance entity's financial statements as a summary total. An equivalent summary total for the related liability shall be included under caption 18.
 
 12. *Total assets.*
 
 Liabilities and Stockholders' Equity
 
-13. *Policy liabilities and accruals.* (a) State separately in the balance sheet the amounts of (1) future policy benefits and losses, claims and loss expenses, (2) unearned preminums and (3) other policy claims and benefits payable.
+13. *Policy liabilities and accruals.* (a) State separately in the balance sheet the amounts of (1) future policy benefits and losses, claims and loss expenses, (2) unearned premiums and.
 
-(b) State in a note to the financial statements the basis of assumptions (interest rates, mortality, withdrawals) for future policy benefits and claims and settlements which are stated at present value.
-
-(c) Information shall be given in a note concerning the general nature of reinsurance transactions, including a description of the significant types of reinsurance agreements executed. The information provided shall include (1) the nature of the contingent liability in connection with insurance ceded and (2) the nature and effect of material nonrecurring reinsurance transactions.
+(b) [Reserved]
 
 14. *Other policyholders' funds.* (a) Include amounts of supplementary contracts without life contingencies, policyholders' dividend accumulations, undistributed earnings on participating business, dividends to policyholders and retrospective return premiums (not included elsewhere) and any similar items. State separately in the balance sheet or in a note thereto any item the amount of which is in excess of five percent of total liabilities.
 
@@ -106,11 +102,11 @@ Common Stocks
 
 Other Stockholders' Equity
 
-23. *Other stockholders' equity.* (a) Separate captions shall be shown for (1) additional paid-in capital, (2) other additional capital, (3) unrealized appreciation or depreciation of equity securities less applicable deferred income taxes, (4) retained earnings (i) appropriated and (ii) unappropriated. (See § 210.4-08(e).) Additional paid-in capital and other additional capital may be combined with the stock caption to which they apply, if appropriate.
+23. *Other stockholders' equity.* (a) Separate captions shall be shown for (1) additional paid-in capital, (2) other additional capital, (3) accumulated other comprehensive income, (4) retained earnings (i) appropriated and (ii) unappropriated. (See § 210.4-08(e).) Additional paid-in capital and other additional capital may be combined with the stock caption to which they apply, if appropriate.
 
 (b) The classification and disclosure requirements of § 210.5-02.30(b) shall be followed for dating and effect of a quasi-reorganization.
 
-(c) State in a note the following information separately for (1) life insurance legal entities, and (2) property and liability insurance legal entities: the amount of statutory stockholders' equity as of the date of each balance sheet presented and the amount of statutory net income or loss for each period for which an income statement is presented.
+(c) State in a note the following information separately for (1) life insurance legal entities, and (2) property and liability insurance legal entities: The amount of statutory stockholders' equity as of the date of each balance sheet presented and the amount of statutory net income or loss for each period for which a statement of comprehensive income is presented.
 
 Noncontrolling Interests
 
@@ -118,4 +114,4 @@ Noncontrolling Interests
 
 25. *Total liabilities and equity.*
 
-[46 FR 54335, Nov. 2, 1981, as amended at 50 FR 25215, June 18, 1985; 74 FR 18615, Apr. 23, 2009]
+[46 FR 54335, Nov. 2, 1981, as amended at 50 FR 25215, June 18, 1985; 74 FR 18615, Apr. 23, 2009; 83 FR 50203, Oct. 4, 2018]
