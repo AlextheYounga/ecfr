@@ -48,17 +48,17 @@
 
 (2) Process cooling refrigeration systems. The permanent nameplate of a process cooling refrigeration system (as defined in § 431.302) must be marked clearly with the statement, “This refrigeration system is designed for use exclusively in walk-in cooler and walk-in freezer process cooling refrigeration applications.”
 
-(3) Display of required information. All orientation, spacing, type sizes, typefaces, and line widths to display this required information must be the same as or similar to the display of the other performance data included on the refrigeration system's permanent nameplate. The model number must be in one of the following forms: “Model \_\_\_” or “Model number \_\_\_” or “Model No. \_\_\_.” The permanent nameplate must be visible unless the refrigeration system is assembled into a completed walk-in.
+(3) Display of required information. All orientation, spacing, type sizes, typefaces, and line widths to display this required information must be the same as or similar to the display of the other performance data included on the refrigeration system's permanent nameplate. The model number must be in one of the following forms: “Model \_\_\_\_\_\_” or “Model number \_\_\_\_\_\_” or “Model No. \_\_\_\_\_\_.” The permanent nameplate must be visible unless the refrigeration system is assembled into a completed walk-in.
 
 (d) A manufacturer may not mark the nameplate of a component with the required information if the manufacturer has not submitted a certification of compliance for the relevant model.
 
 (e) Disclosure of efficiency information in marketing materials. Each catalog that lists the component and all materials used to market the component must include:
 
-(1) For panels - The R-value in the form “R-value\_\_.”
+(1) For panels - The R-value in the form “R-value\_\_\_\_.”
 
-(2) For doors - The energy consumption in the form “EC\_\_kWh/day.”
+(2) For doors - The energy consumption in the form “EC\_\_\_\_kWh/day.”
 
-(3) For those refrigeration system for which standards are prescribed - The AWEF in the form “AWEF \_\_.”
+(3) For those refrigeration system for which standards are prescribed - The AWEF in the form “AWEF \_\_\_\_.”
 
 (4) The information that must appear on a walk-in cooler or walk-in freezer component's permanent nameplate pursuant to paragraphs (a)-(c) of this section must also be prominently displayed in each catalog that lists the component and all materials used to market the component.
 

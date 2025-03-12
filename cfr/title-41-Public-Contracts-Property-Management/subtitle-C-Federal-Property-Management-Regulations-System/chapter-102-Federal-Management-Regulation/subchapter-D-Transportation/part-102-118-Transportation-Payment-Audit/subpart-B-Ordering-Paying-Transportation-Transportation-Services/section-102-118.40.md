@@ -1,5 +1,7 @@
 ##### § 102-118.40 How does my agency order transportation and transportation services? #####
 
+Link to an amendment published at 87 FR 32324, May 31, 2022.
+
 Your agency orders:
 
 (a) Transportation of freight and household goods and related transportation services (e.g., packaging, storage) with a Government contractor-issued charge card, purchase order (or electronic equivalent), or a Government bill of lading for international shipments (including domestic overseas shipments). In extremely limited cases, cash can be used where government payment mechanisms are not available or acceptable.

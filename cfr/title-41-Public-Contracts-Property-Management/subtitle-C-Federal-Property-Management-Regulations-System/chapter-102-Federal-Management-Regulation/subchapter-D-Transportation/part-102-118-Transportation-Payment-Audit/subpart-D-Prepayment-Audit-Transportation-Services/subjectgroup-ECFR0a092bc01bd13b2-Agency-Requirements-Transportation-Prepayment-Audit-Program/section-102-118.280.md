@@ -1,5 +1,7 @@
 ##### § 102-118.280 Must all transportation payment records, whether they are electronic or paper, undergo a prepayment audit? #####
 
+Link to an amendment published at 87 FR 32325, May 31, 2022.
+
 Yes, all transportation bills and payment records, whether they are electronic or paper, must undergo a prepayment audit with the following exceptions:
 
 (a) Your agency's prepayment audit program uses a statistical sampling technique of the bills. If your agency chooses to use statistical sampling, all bills must be

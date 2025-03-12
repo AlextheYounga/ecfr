@@ -1,10 +1,8 @@
 ##### § 665.813 Western Pacific longline fishing restrictions. #####
 
-Link to an amendment published at 87 FR 25156, Apr. 28, 2022.
-
 (a) [Reserved]
 
-(b) *Limits on sea turtle interactions in the shallow-set longline fishery* - (1) *Fleet Limits.* There are limits on the maximum number of allowable physical interactions that occur each year between leatherback sea turtles and vessels registered for use under Hawaii longline limited access permits while engaged in shallow-set fishing.
+(b) *Limits on sea turtle interactions in the shallow-set longline fishery*—(1) *Fleet Limits.* There are limits on the maximum number of allowable physical interactions that occur each year between leatherback sea turtles and vessels registered for use under Hawaii longline limited access permits while engaged in shallow-set fishing.
 
 (i) The annual fleet limit for leatherback sea turtles (*Dermochelys coriacea*) is 16.
 
@@ -28,7 +26,7 @@ Link to an amendment published at 87 FR 25156, Apr. 28, 2022.
 
 (c) [Reserved]
 
-(d) Vessels registered for use under a Hawaii longline limited access permit may not have on board at any time during a trip for which notification to NMFS under § 665.803(a) indicated that deep-setting would be done any float lines less than 20 meters in length or light sticks. As used in this paragraph “float line” means a line used to suspend the main longline beneath a float and “light stick” means any type of light emitting device, including any fluorescent “glow bead,” chemical, or electrically powered light that is affixed underwater to the longline gear.
+(d) Vessels registered for use under a Hawaii longline limited access permit may not have on board at any time during a trip for which notification to NMFS under § 665.803(a) indicated that deep-setting would be done any float lines less than 20 meters in length, longline gear with metal wire line within 1 meter of the hook, or light sticks. As used in this paragraph “float line” means a line used to suspend the main longline beneath a float, and “light stick” means any type of light emitting device, including any fluorescent “glow bead,” chemical, or electrically powered light that is affixed underwater to the longline gear.
 
 (e) [Reserved]
 
@@ -58,4 +56,4 @@ Link to an amendment published at 87 FR 25156, Apr. 28, 2022.
 
 (4) No branch line may be attached to the mainline closer than 70 meters to any float line.
 
-[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 13299, Mar. 11, 2011; 76 FR 52889, Aug. 24, 2011; 77 FR 43722, July 26, 2012; 77 FR 60649, Oct. 4, 2012; 83 FR 49496, Oct. 2, 2018; 85 FR 57997, Sept. 17, 2020; 85 FR 71579, Nov. 10, 2020]
+[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 13299, Mar. 11, 2011; 76 FR 52889, Aug. 24, 2011; 77 FR 43722, July 26, 2012; 77 FR 60649, Oct. 4, 2012; 83 FR 49496, Oct. 2, 2018; 85 FR 57997, Sept. 17, 2020; 85 FR 71579, Nov. 10, 2020; 87 FR 25156, Apr. 28, 2022]

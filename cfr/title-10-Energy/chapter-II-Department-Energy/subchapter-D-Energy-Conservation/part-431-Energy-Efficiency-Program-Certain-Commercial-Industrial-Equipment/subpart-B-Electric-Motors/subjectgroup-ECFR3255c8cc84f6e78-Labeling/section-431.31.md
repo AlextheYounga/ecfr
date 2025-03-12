@@ -10,7 +10,7 @@
 
 (B) The expiration of 21 days from DOE's receipt of a Compliance Certification covering that motor, if the manufacturer or private labeler has not been advised by DOE that the Compliance Certification fails to satisfy § 431.36.
 
-(2) *Display of required information.* All orientation, spacing, type sizes, type faces, and line widths to display this required information shall be the same as or similar to the display of the other performance data on the motor's permanent nameplate. The nominal full-load efficiency shall be identified either by the term “Nominal Efficiency” or “Nom. Eff.” or by the terms specified in paragraph 12.58.2 of NEMA MG1-2009, (incorporated by reference, see § 431.15) as for example “NEMA Nom. Eff. \_\_.” The Compliance Certification number issued pursuant to § 431.36 shall be in the form “CC \_\_.”
+(2) *Display of required information.* All orientation, spacing, type sizes, type faces, and line widths to display this required information shall be the same as or similar to the display of the other performance data on the motor's permanent nameplate. The nominal full-load efficiency shall be identified either by the term “Nominal Efficiency” or “Nom. Eff.” or by the terms specified in paragraph 12.58.2 of NEMA MG1-2009, (incorporated by reference, see § 431.15) as for example “NEMA Nom. Eff. \_\_\_\_.” The Compliance Certification number issued pursuant to § 431.36 shall be in the form “CC \_\_\_\_.”
 
 (3) *Optional display.* The permanent nameplate of an electric motor, a separate plate, or decalcomania, may be marked with the encircled lower case letters “ee”, for example,
 

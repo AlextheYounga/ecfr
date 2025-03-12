@@ -38,13 +38,13 @@
 
 ![](/graphics/er24de15.000.gif)
 
-and, x is the sample mean; n is the number of samples; and xi is the ith sample; Or,
+and, x/\> is the sample mean; n is the number of samples; and xi is the ith sample; Or,
 
 (B) The lower 95 percent confidence limit (LCL) of the true mean divided by 0.90, where:
 
 ![](/graphics/er24de15.001.gif)
 
-And x is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n-1 degrees of freedom (from appendix A to subpart B).
+And x/\> is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n-1 degrees of freedom (from appendix A to subpart B).
 
 (b) *Certification reports.* (1) The requirements of § 429.12 are applicable to ceiling fan light kits; and
 

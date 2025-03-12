@@ -1,6 +1,6 @@
 ##### § 404.1626 Fiscal. #####
 
-(a) We will give the State funds, in advance or by way of reimbursement, for necessary costs in making disability determinations under these regulations. Necessary costs are direct as well as indirect costs as defined in 41 CFR part 1-15, subpart 1-15.7 of the Federal Procurement Regulations System for costs incurred before April 1, 1984; and 48 CFR part 31, subpart 31.6 of the Federal Acquisition Regulations System and Federal Management Circular A-74-41 as amended or superseded for costs incurred after March 31, 1984.
+(a) We will give the State funds, in advance or by way of reimbursement, for necessary costs in making disability determinations under these regulations. Necessary costs are direct as well as indirect costs as defined in 41 CFR part 1-15, subpart 1-15.7 of the Federal Procurement Regulations System for costs incurred before April 1, 1984; and 48 CFR part 31, subpart 31.6 of the Federal Acquisition Regulations System and Federal Management Circular A-74-41/\> as amended or superseded for costs incurred after March 31, 1984.
 
 1 The circular is available from the Office of Administration, Publications Unit, Rm. G-236, New Executive Office Bldg., Washington, DC 20503.
 

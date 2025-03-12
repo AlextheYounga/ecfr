@@ -1,5 +1,7 @@
 ##### § 102-118.140 What are the major mandatory terms and conditions governing the use of GBLs and bills of lading? #####
 
+Link to an amendment published at 87 FR 32324, May 31, 2022.
+
 The mandatory terms and conditions governing the use of GBLs and bills of lading are:
 
 (a) Unless otherwise permitted by statute and approved by the agency, the TSP may not demand prepayment or collect charges from the consignee. The TSP, providing service under the bill of lading, must present a legible copy of the bill of lading or an original, properly certified GBL attached to Standard Form (SF) 1113, Public Voucher for Transportation Charges, to the paying office for payment;

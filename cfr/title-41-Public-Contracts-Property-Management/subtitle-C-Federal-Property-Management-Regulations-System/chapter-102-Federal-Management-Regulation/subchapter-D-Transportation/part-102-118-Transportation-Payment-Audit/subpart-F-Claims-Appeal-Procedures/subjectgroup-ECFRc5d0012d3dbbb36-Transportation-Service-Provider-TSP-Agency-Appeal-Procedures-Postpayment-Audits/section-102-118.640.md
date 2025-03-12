@@ -1,5 +1,7 @@
 ##### § 102-118.640 If a TSP fails to pay or to appeal an overcharge, what actions will GSA pursue to collect the debt? #####
 
+Link to an amendment published at 87 FR 32326, May 31, 2022.
+
 GSA will pursue debt collection through one of the following methods:
 
 (a) When an indebted TSP files a claim, GSA will apply all or any portion of the amount it determines to be due the TSP, to the outstanding balance owed by the TSP, under the Federal Claims Collection Standards (4 CFR parts 101 through 105) and 41 CFR part 105-55;

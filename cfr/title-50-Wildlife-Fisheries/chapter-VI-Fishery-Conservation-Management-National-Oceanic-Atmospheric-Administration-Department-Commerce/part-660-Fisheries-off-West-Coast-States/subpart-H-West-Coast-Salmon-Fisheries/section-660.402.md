@@ -1,7 +1,5 @@
 ##### § 660.402 Definitions. #####
 
-Link to an amendment published at 87 FR 25430, Apr. 29, 2022.
-
 In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, the terms used in this subpart have the following meanings:
 
 *Barbless hook* means a hook with a single shank and point, with no secondary point or barb curving or projecting in any other direction. Where barbless hooks are specified, hooks manufactured with barbs can be made barbless by forcing the point of the barb flat against the main part of the point.
@@ -18,7 +16,7 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 (1) Northeastern boundary - that part of a line connecting the light on Tatoosh Island, WA, with the light on Bonilla Point on Vancouver Island, British Columbia, southerly of the International Boundary between the United States and Canada (at 48°29′37″ N. lat., 124°43′33″ W. long.), and northerly of the point where that line intersects with the boundary of the U.S. territorial sea.
 
-(2) Northern and northwestern boundary is a line1 connecting the following coordinates:
+(2) Northern and northwestern boundary is a line1/\> connecting the following coordinates:
 
 1 The line joining these coordinates is the provisional international boundary of the U.S. EEZ as shown on NOAA/NOS Charts #18480 and #18002.
 
@@ -69,7 +67,7 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Recreational fishing gear* will be defined annually under § 660.408.
 
-*Regional Administrator* means the Director, Northwest Region, NMFS, or a designee. For fisheries occurring primarily or exclusively in the fishery management area seaward of California, *Regional Administrator* means the Director, Northwest Region, NMFS, acting in consultation with the Director, Southwest Region, NMFS.
+*Regional Administrator* means the Administrator, West Coast Region, NMFS.
 
 *Salmon* means any anadromous species of the family Salmonidae and genus *Oncorhynchus,* commonly known as Pacific salmon, including, but not limited to:
 
@@ -83,4 +81,4 @@ Chinook (king) salmon, *Oncorhynchus tshawytscha*Coho (silver) salmon, *Oncorhyn
 
 *Whole bait* means a hook or hooks baited with whole natural bait with no device to attract fish other than a flasher.
 
-[61 FR 34572, July 2, 1996, as amended at 66 FR 29241, May 30, 2001; 76 FR 81858, Dec. 29, 2011; 78 FR 10559, Feb. 14, 2013]
+[61 FR 34572, July 2, 1996, as amended at 66 FR 29241, May 30, 2001; 76 FR 81858, Dec. 29, 2011; 78 FR 10559, Feb. 14, 2013; 87 FR 25430, Apr. 29, 2022]

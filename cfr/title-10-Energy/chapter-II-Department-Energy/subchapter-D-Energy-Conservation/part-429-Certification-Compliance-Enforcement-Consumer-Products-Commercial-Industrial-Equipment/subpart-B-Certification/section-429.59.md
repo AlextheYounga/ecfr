@@ -10,7 +10,7 @@
 
 ![](/graphics/er25ja16.025.gif)
 
-and *x* is the sample mean; n is the number of samples; and xi is the maximum of the ith sample;
+and *x/\>* is the sample mean; n is the number of samples; and xi is the maximum of the ith sample;
 
 Or,
 
@@ -18,7 +18,7 @@ Or,
 
 ![](/graphics/er25ja16.026.gif)
 
-and *x* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95 percent one-tailed confidence interval with n-1 degrees of freedom (from appendix A to subpart B of part 429);
+and *x/\>* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95 percent one-tailed confidence interval with n-1 degrees of freedom (from appendix A to subpart B of part 429);
 
 and
 
@@ -28,13 +28,13 @@ and
 
 ![](/graphics/er07au17.008.gif)
 
-And x is the sample mean; n is the number of samples; and xi is the maximum of the ith sample; or,
+And x/\> is the sample mean; n is the number of samples; and xi is the maximum of the ith sample; or,
 
 (B) The lower 95 percent confidence limit (LCL) of the true mean divided by 0.95, where:
 
 ![](/graphics/er07au17.009.gif)
 
-And x is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95 percent one-tailed confidence interval with n-1 degrees of freedom (from appendix A of this subpart).
+And x/\> is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95 percent one-tailed confidence interval with n-1 degrees of freedom (from appendix A of this subpart).
 
 (2) *Other representations* - (i) *Rated hydraulic horsepower.* The representative value of rated hydraulic horsepower of a basic model of dedicated-purpose pool pump must be the mean of the rated hydraulic horsepower for each tested unit.
 

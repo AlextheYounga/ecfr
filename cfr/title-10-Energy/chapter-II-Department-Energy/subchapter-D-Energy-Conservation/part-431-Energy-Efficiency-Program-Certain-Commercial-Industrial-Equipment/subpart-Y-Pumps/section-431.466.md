@@ -10,7 +10,7 @@
 
 (C) If transferred directly to an end-user, the unit's impeller diameter, as distributed in commerce. Otherwise, a space must be provided for the impeller diameter to be filled in.
 
-(ii) *Display of required information.* All orientation, spacing, type sizes, typefaces, and line widths to display this required information must be the same as or similar to the display of the other performance data on the pump's permanent nameplate. The PEICL or PEIVL, as appropriate to a given pump model, must be identified in the form “PEICL \_\_\_\_” or “PEIVL \_\_\_\_.” The model number must be in one of the following forms: “Model \_\_\_\_” or “Model number \_\_\_\_” or “Model No. \_\_\_\_.” The unit's impeller diameter must be in the form “Imp. Dia. \_\_\_\_(in.).”
+(ii) *Display of required information.* All orientation, spacing, type sizes, typefaces, and line widths to display this required information must be the same as or similar to the display of the other performance data on the pump's permanent nameplate. The PEICL or PEIVL, as appropriate to a given pump model, must be identified in the form “PEICL \_\_\_\_\_\_\_\_” or “PEIVL \_\_\_\_\_\_\_\_.” The model number must be in one of the following forms: “Model \_\_\_\_\_\_\_\_” or “Model number \_\_\_\_\_\_\_\_” or “Model No. \_\_\_\_\_\_\_\_.” The unit's impeller diameter must be in the form “Imp. Dia. \_\_\_\_\_\_\_\_(in.).”
 
 (2) *Disclosure of efficiency information in marketing materials.* (i) The same information that must appear on a pump's permanent nameplate pursuant to paragraph (a)(1)(i) of this section, must also be prominently displayed:
 
@@ -30,9 +30,9 @@
 
 (ii) *Display of required information.* All orientation, spacing, type sizes, typefaces, and line widths to display this required information must be the same as or similar to the display of the other performance data on the pump's permanent nameplate.
 
-(A) The WEF must be identified in the form “WEF \_\_\_\_.”
+(A) The WEF must be identified in the form “WEF \_\_\_\_\_\_\_\_.”
 
-(B) The dedicated-purpose pool pump motor total horsepower must be identified in one of the following forms: “Dedicated-purpose pool pump motor total horsepower \_\_\_\_\_,” “DPPP motor total horsepower \_\_\_\_\_,” “motor total horsepower \_\_\_\_\_,” “motor THP \_\_\_\_\_,” or “THP \_\_\_\_\_.”
+(B) The dedicated-purpose pool pump motor total horsepower must be identified in one of the following forms: “Dedicated-purpose pool pump motor total horsepower \_\_\_\_\_\_\_\_\_\_,” “DPPP motor total horsepower \_\_\_\_\_\_\_\_\_\_,” “motor total horsepower \_\_\_\_\_\_\_\_\_\_,” “motor THP \_\_\_\_\_\_\_\_\_\_,” or “THP \_\_\_\_\_\_\_\_\_\_.”
 
 (2) [Reserved]
 

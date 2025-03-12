@@ -1,7 +1,5 @@
 ##### § 665.800 Definitions. #####
 
-Link to an amendment published at 87 FR 25155, Apr. 28, 2022.
-
 As used in §§ 665.798 through 665.818:
 
 *American Samoa longline limited access permit* means the permit required by § 665.801 to use a vessel shoreward of the outer boundary of the EEZ around American Samoa to fish for western Pacific pelagic MUS using longline gear or to land or transship western Pacific pelagic MUS that were caught in the EEZ around American Samoa using longline gear.
@@ -12,7 +10,7 @@ As used in §§ 665.798 through 665.818:
 
 *Branch line* (or *dropper line*) means a line with a hook that is attached to the mainline.
 
-*Deep-set or Deep-setting* means the deployment of longline gear in a manner consistent with all the following criteria: All float lines are at least 20 meters in length; a minimum of 15 branch lines are attached between any two floats (except basket-style longline gear which may have as few as 10 branch lines between any two floats); and no light sticks are used. As used in this definition, “float line” means a line used to suspend the main longline beneath a float, and “light stick” means any type of light emitting device, including any fluorescent “glow bead,” chemical, or electrically-powered light that is affixed underwater to the longline gear.
+*Deep-set* or *Deep-setting* means the deployment of longline gear in a manner consistent with all the following criteria: All float lines are at least 20 meters in length; a minimum of 15 branch lines are attached between any two floats (except basket-style longline gear which may have as few as 10 branch lines between any two floats); no metal wire line within 1 meter of the hook; and no light sticks are used. As used in this definition, “float line” means a line used to suspend the main longline beneath a float, and “light stick” means any type of light emitting device, including any fluorescent “glow bead,” chemical, or electrically-powered light that is affixed underwater to the longline gear.
 
 *Effective date* means the date upon which the Regional Administrator provides written notice to the authorized official or designated representative of the U.S. participating territory that a specified fishing agreement meets the requirements of this section.
 
@@ -90,4 +88,4 @@ As used in §§ 665.798 through 665.818:
 |    neon flying squid    |         Ommastrephes bartramii.          |
 | purpleback flying squid |       Sthenoteuthis oualaniensis.        |
 
-[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 52889, Aug. 24, 2011; 77 FR 43722, July 26, 2012; 79 FR 64111, Oct. 28, 2014]
+[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 52889, Aug. 24, 2011; 77 FR 43722, July 26, 2012; 79 FR 64111, Oct. 28, 2014; 87 FR 25155, Apr. 28, 2022]

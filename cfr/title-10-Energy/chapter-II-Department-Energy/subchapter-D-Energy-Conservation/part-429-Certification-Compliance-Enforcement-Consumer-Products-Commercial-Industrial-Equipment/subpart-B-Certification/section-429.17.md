@@ -10,13 +10,13 @@
 
 (*1*) The mean of the sample, where:
 
-![](/graphics/er29de16.013.gif)and, *x* is the sample mean; n is the number of samples; and xi is the ith sample;Or,
+![](/graphics/er29de16.013.gif)and, *x/\>* is the sample mean; n is the number of samples; and xi is the ith sample;Or,
 
 (*2*) The upper 95-percent confidence limit (UCL) of the true mean divided by 1.10, where:
 
 ![](/graphics/er29de16.014.gif)
 
-And *x* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95-percent one-tailed confidence interval with n-1 degrees of freedom (from Appendix A).
+And *x/\>* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95-percent one-tailed confidence interval with n-1 degrees of freedom (from Appendix A).
 
 (B) Any represented value of the uniform energy factor, or other measure of energy consumption of a basic model for which consumers would favor higher values shall be less than or equal to the lower of:
 
@@ -28,7 +28,7 @@ And *x* is the sample mean; s is the sample standard deviation; n is the number 
 
 ![](/graphics/er29de16.016.gif)
 
-And *x* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95-percent one-tailed confidence interval with n-1 degrees of freedom (from Appendix A).
+And *x/\>* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95-percent one-tailed confidence interval with n-1 degrees of freedom (from Appendix A).
 
 (C) Any represented value of the rated storage volume must be equal to the mean of the measured storage volumes of all the units within the sample.
 

@@ -1,7 +1,5 @@
 ##### § 1208.18 Implementation of the Convention Against Torture. #####
 
-Link to an amendment published at 87 FR 18222, Mar. 29, 2022.
-
 (a) *Definitions.* The definitions in this subsection incorporate the definition of torture contained in Article 1 of the Convention Against Torture, subject to the reservations, understandings, declarations, and provisos contained in the United States Senate resolution of ratification of the Convention.
 
 (1) Torture is defined as any act by which severe pain or suffering, whether physical or mental, is intentionally inflicted on a person for such purposes as obtaining from him or her or a third person information or a confession, punishing him or her for an act he or she or a third person has committed or is suspected of having committed, intimidating or coercing him or her or a third person, or for any reason based on discrimination of any kind, when such pain or suffering is inflicted by, or at the instigation of, or with the consent or acquiescence of, a public official acting in an official capacity or other person acting in an official capacity. Pain or suffering inflicted by a public official who is not acting under color of law shall not constitute pain or suffering inflicted by, or at the instigation of, or with the consent or acquiescence of, a public official acting in an official capacity or other person acting in an official capacity, although a different public official acting in an official capacity or other person acting in an official capacity could instigate, consent to, or acquiesce in the pain or suffering inflicted by the public official who is not acting under color of law.
@@ -28,7 +26,9 @@ Link to an amendment published at 87 FR 18222, Mar. 29, 2022.
 
 (8) Noncompliance with applicable legal procedural standards does not *per se* constitute torture.
 
-(b) *Applicability of §§ 1208.16(c) and 1208.17(a)* - (1) *Aliens in proceedings on or after March 22, 1999.* An alien who is in exclusion, deportation, or removal proceedings on or after March 22, 1999 may apply for withholding of removal under § 1208.16(c), and, if applicable, may be considered for deferral of removal under § 1208.17(a).
+(b) *Applicability of §§ 1208.16(c) and 1208.17(a)*—(1) *Aliens in proceedings on or after March 22, 1999.* (i) An alien who is in exclusion, deportation, or removal proceedings on or after March 22, 1999, may apply for withholding of removal under § 1208.16(c), and, if applicable, may be considered for deferral of removal under § 1208.17(a).
+
+(ii) In addition, an alien may apply for withholding of removal under 8 CFR 208.16(c), and, if applicable, may be considered for deferral of removal under 8 CFR 208.17(a), in the following situation: The alien is determined to be an applicant for admission under section 235(b)(1) of the Act, the alien is found to have a credible fear of persecution or torture, the alien's case is subsequently retained by or referred to USCIS pursuant to the jurisdiction provided at 8 CFR 208.2(a)(1)(ii) to consider the application for asylum, and that application for asylum is not granted.
 
 (2) *Aliens who were ordered removed, or whose removal orders became final, before March 22, 1999.* An alien under a final order of deportation, exclusion, or removal that became final prior to March 22, 1999 may move to reopen proceedings for the sole purpose of seeking protection under § 1208.16(c). Such motions shall be governed by §§ 1003.23 and 1003.2 of this chapter, except that the time and numerical limitations on motions to reopen shall not apply and the alien shall not be required to demonstrate that the evidence sought to be offered was unavailable and could not have been discovered or presented at the former hearing. The motion to reopen shall not be granted unless:
 
@@ -64,4 +64,4 @@ Link to an amendment published at 87 FR 18222, Mar. 29, 2022.
 
 (2) Except as otherwise expressly provided, nothing in this paragraph shall be construed to create a private right of action or to authorize the consideration or issuance of administrative or judicial relief.
 
-[64 FR 8490, Feb. 19, 1999; 64 FR 13881, Mar. 23, 1999, as amended at 85 FR 80398, Dec. 11, 2020]
+[64 FR 8490, Feb. 19, 1999; 64 FR 13881, Mar. 23, 1999, as amended at 85 FR 80398, Dec. 11, 2020; 87 FR 18222, Mar. 29, 2022]

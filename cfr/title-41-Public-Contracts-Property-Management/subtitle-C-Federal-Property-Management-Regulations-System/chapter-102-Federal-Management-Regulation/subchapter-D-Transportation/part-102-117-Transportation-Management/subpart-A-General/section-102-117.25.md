@@ -1,5 +1,7 @@
 ##### § 102-117.25 What definitions apply to this part? #####
 
+Link to an amendment published at 87 FR 32322, May 31, 2022.
+
 The following definitions apply to this part:
 
 *Accessorial charges* means charges that are applied to the base tariff rate or base contract of carriage rate. Examples of accessorial charges are:

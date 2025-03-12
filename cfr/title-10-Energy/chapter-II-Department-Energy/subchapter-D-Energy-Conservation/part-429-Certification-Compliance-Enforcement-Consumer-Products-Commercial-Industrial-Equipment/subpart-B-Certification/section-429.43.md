@@ -10,21 +10,21 @@
 
 (*1*) The mean of the sample, where:
 
-![](/graphics/er31de13.161.gif)And, *x* is the sample mean; n is the number of samples; and xi is the ith sample; or,
+![](/graphics/er31de13.161.gif)And, *x/\>* is the sample mean; n is the number of samples; and xi is the ith sample; or,
 
 (*2*) The upper 95 percent confidence limit (UCL) of the true mean divided by 1.05, where:
 
-![](/graphics/er31de13.162.gif)And *x* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n-1 degrees of freedom (from Appendix A to subpart B of part 429). And,
+![](/graphics/er31de13.162.gif)And *x/\>* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n-1 degrees of freedom (from Appendix A to subpart B of part 429). And,
 
 (B) Any represented value of energy efficiency or other measure of energy consumption of a basic model for which consumers would favor higher values shall be less than or equal to the lower of:
 
 (*1*) The mean of the sample, where:
 
-![](/graphics/er31de13.163.gif)And, *x* is the sample mean; n is the number of samples; and xi is the ith sample; or,
+![](/graphics/er31de13.163.gif)And, *x/\>* is the sample mean; n is the number of samples; and xi is the ith sample; or,
 
 (*2*) The lower 95 percent confidence limit (LCL) of the true mean divided by 0.95, where:
 
-![](/graphics/er31de13.164.gif)And *x* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n-1 degrees of freedom (from Appendix A to subpart B of part 429).
+![](/graphics/er31de13.164.gif)And *x/\>* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n-1 degrees of freedom (from Appendix A to subpart B of part 429).
 
 (iii) For packaged terminal air conditioners and packaged terminal heat pumps, the represented value of cooling capacity shall be the average of the capacities measured for the sample selected as described in (a)(1)(ii) of this section, rounded to the nearest 100 Btu/h.
 

@@ -70,7 +70,7 @@ Cooperation by individuals and entities in the Commission's investigations and r
 
 (2) The degree to which the individual has demonstrated an acceptance of responsibility for his or her past misconduct; and
 
-(3) The degree to which the individual will have an opportunity to commit future violations of the federal securities laws in light of his or her occupation - including, but not limited to, whether he or she serves as: A licensed individual, such as an attorney or accountant; an associated person of a regulated entity, such as a broker or dealer; a fiduciary for other individuals or entities regarding financial matters; an officer or director of public companies; or a member of senior management - together with any existing or proposed safeguards based upon the individual's particular circumstances.
+(3) The degree to which the individual will have an opportunity to commit future violations of the federal securities laws in light of his or her occupation—including, but not limited to, whether he or she serves as: A licensed individual, such as an attorney or accountant; an associated person of a regulated entity, such as a broker or dealer; a fiduciary for other individuals or entities regarding financial matters; an officer or director of public companies; or a member of senior management—together with any existing or proposed safeguards based upon the individual's particular circumstances.
 
 Note to § 202.12:
 

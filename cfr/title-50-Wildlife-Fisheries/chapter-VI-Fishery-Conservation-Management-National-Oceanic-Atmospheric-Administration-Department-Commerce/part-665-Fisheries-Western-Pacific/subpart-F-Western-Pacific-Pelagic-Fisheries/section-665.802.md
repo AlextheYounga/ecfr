@@ -1,7 +1,5 @@
 ##### § 665.802 Prohibitions. #####
 
-Link to an amendment published at 87 FR 25156, Apr. 28, 2022.
-
 In addition to the prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) Falsify or fail to make and/or file all reports of western Pacific pelagic MUS landings, containing all data and in the exact manner, as required by applicable state law or regulation, as specified in § 665.14(a), provided that the person is required to do so by applicable state law or regulation.
@@ -56,7 +54,9 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (ff) Fail to carry, or fail to use, a line clipper, dip net, or dehooker on a vessel registered for use under any longline permit issued under § 665.801, in violation of § 665.812.
 
-(gg)-(hh) [*Reserved*]
+(gg) Use or have on board longline gear with metal wire line within 1 meter of the hook when operating a vessel registered for use under a longline permit issued under § 665.801(b) at any time during a trip for which notification to NMFS under § 665.803(a) indicated that deep-setting would be done, in violation of § 665.813(d).
+
+(hh) Fail to handle and release an oceanic whitetip shark in accordance with the requirements set forth at § 665.811(a) when operating a vessel registered for use under any longline permit issued under § 665.801, in violation of § 665.811.
 
 (ii) When operating a vessel registered for use under any longline limited access permit issued under § 665.801, fail to comply with the sea turtle handling, resuscitation, and release requirements, in violation of § 665.812(b).
 
@@ -92,4 +92,4 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (zz) Use a vessel that is greater than 50 ft (15.4 m) LOA to squid jig fish in EEZ waters around American Samoa, CNMI, Guam, Hawaii, or PRIA, without a Western Pacific squid jig fishing permit registered for use with that vessel, in violation of § 665.801(g).
 
-[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 37288, June 27, 2011; 76 FR 52889, Aug. 24, 2011; 77 FR 60649, Oct. 4, 2012; 79 FR 64111, Oct. 28, 2014; 85 FR 57997, Sept. 17, 2020; 86 FR 55745, Oct. 7, 2021]
+[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 37288, June 27, 2011; 76 FR 52889, Aug. 24, 2011; 77 FR 60649, Oct. 4, 2012; 79 FR 64111, Oct. 28, 2014; 85 FR 57997, Sept. 17, 2020; 86 FR 55745, Oct. 7, 2021; 87 FR 25156, Apr. 28, 2022]

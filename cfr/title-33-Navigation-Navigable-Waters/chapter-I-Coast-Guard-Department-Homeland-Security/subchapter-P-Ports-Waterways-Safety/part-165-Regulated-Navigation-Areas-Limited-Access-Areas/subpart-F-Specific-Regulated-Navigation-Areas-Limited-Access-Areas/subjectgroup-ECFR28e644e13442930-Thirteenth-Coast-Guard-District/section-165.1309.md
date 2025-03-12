@@ -1,0 +1,9 @@
+##### § 165.1309 Eagle Harbor, Bainbridge Island, WA. #####
+
+(a) *Regulated area.* A regulated navigation area is established on that portion of Eagle Harbor bounded by a line beginning at: 47°36′56″ N, 122°30′36″ W; thence to 47°37′11″ N, 122°30′36″ W; thence to 47°37′25″ N, 122°30′17″ W; thence to 47°37′24″ N, 122°30′02″ W; thence to 47°37′16″ N, 122°29′55″ W; thence to 47°37′03″ N, 122°30′027″ W; thence returning along the shoreline to point of origin. [Datum NAD 1983].
+
+(b) *Regulations.* All vessels and persons are prohibited from anchoring, dredging, laying cable, dragging, seining, bottom fishing, conducting salvage operations, or any other activity which could potentially disturb the seabed in the designated area. Vessels may otherwise transit or navigate within this area without reservation.
+
+(c) *Waiver.* The Captain of the Port, Puget Sound, upon advice from the U.S. EPA Project Manager and the Washington State Department of Natural Resources, may, upon written request, authorize a waiver from this section if it is determined that the proposed operation supports USEPA remedial objectives, or can be performed in a manner that ensures the integrity of the sediment cap. A written request must describe the intended operation, state the need, and describe the proposed precautionary measures. Requests should be submitted in triplicate, to facilitate review by U.S. EPA, Coast Guard, and Washington State Agencies. USEPA managed remedial design, remedial action, habitat mitigation, or monitoring activities associated with the Wyckoff/Eagle Harbor Superfund Site are excluded from the waiver requirement. USEPA is required, however, to alert the Coast Guard in advance concerning any of the above-mentioned activities that may, or will, take place in the Regulated Area.
+
+[CGD 13-98-004, 64 FR 72561, Dec. 28, 1999]

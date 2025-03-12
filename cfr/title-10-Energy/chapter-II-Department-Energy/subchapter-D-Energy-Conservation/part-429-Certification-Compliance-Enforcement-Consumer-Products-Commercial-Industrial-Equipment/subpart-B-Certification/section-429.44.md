@@ -16,13 +16,13 @@
 
 ![](/graphics/er10no16.008.gif)
 
-And, x is the sample mean; n is the number of samples; and xi is the ith sample; or,
+And, x/\> is the sample mean; n is the number of samples; and xi is the ith sample; or,
 
 (*2*) The upper 95-percent confidence limit (UCL) of the true mean divided by 1.05, where:
 
 ![](/graphics/er10no16.009.gif)
 
-And x is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95-percent one-tailed confidence interval with n-1 degrees of freedom (from appendix A to subpart B of this part). And,
+And x/\> is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95-percent one-tailed confidence interval with n-1 degrees of freedom (from appendix A to subpart B of this part). And,
 
 (B) Any represented value of energy efficiency or other measure of energy consumption of a basic model for which consumers would favor higher values must be less than or equal to the lower of:
 
@@ -30,13 +30,13 @@ And x is the sample mean; s is the sample standard deviation; n is the number of
 
 ![](/graphics/er10no16.010.gif)
 
-And, x is the sample mean; n is the number of samples; and xi is the ith sample; or,
+And, x/\> is the sample mean; n is the number of samples; and xi is the ith sample; or,
 
 (*2*) The lower 95-percent confidence limit (LCL) of the true mean divided by 0.95, where:
 
 ![](/graphics/er10no16.011.gif)
 
-And x is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95-percent one-tailed confidence interval with n-1 degrees of freedom (from appendix A to subpart B of this part).
+And x/\> is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95-percent one-tailed confidence interval with n-1 degrees of freedom (from appendix A to subpart B of this part).
 
 (2) *Alternative efficiency determination methods.* In lieu of testing, a represented value of efficiency or consumption for a basic model must be determined through the application of an AEDM pursuant to the requirements of § 429.70 and the provisions of this section, where:
 

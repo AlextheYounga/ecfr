@@ -1,5 +1,7 @@
 ##### § 102-117.390 What are the recommended Transportation Officer training and/or experience levels? #####
 
+Link to an amendment published at 87 FR 32324, May 31, 2022.
+
 (a) The following are suggested agency transportation officer training and/or experience baselines:
 
 (1) For a Basic (Level 1) Transportation Officer Warrant:

@@ -1,5 +1,7 @@
 ##### § 102-117.220 What choices do I have to ship HHG? #####
 
+Link to an amendment published at 87 FR 32323, May 31, 2022.
+
 (a) You may choose to ship HHG by:
 
 (1) Using the commuted rate system;

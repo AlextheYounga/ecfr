@@ -12,13 +12,13 @@
 
 ![](/graphics/er25jy16.001.gif)
 
-And *x* is the sample mean; n is the number of samples; and xi is the ith sample; or
+And *x/\>* is the sample mean; n is the number of samples; and xi is the ith sample; or
 
 (B) The lower 90 percent confidence limit (LCL) of the true mean divided by 0.9, where:
 
 ![](/graphics/er25jy16.002.gif)
 
-And *x* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.90 is the t statistic for a 90% one-tailed confidence interval with n−1 degrees of freedom (from appendix A to subpart B); and
+And *x/\>* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.90 is the t statistic for a 90% one-tailed confidence interval with n−1 degrees of freedom (from appendix A to subpart B); and
 
 (ii) Any represented value of the wattage is greater than or equal to the higher of:
 
@@ -26,13 +26,13 @@ And *x* is the sample mean; s is the sample standard deviation; n is the number 
 
 ![](/graphics/er25jy16.003.gif)
 
-And *x* is the sample mean; n is the number of samples; and xi is the ith sample; or
+And *x/\>* is the sample mean; n is the number of samples; and xi is the ith sample; or
 
 (B) The upper 95 percent confidence limit (UCL) of the true mean divided by 1.1, where:
 
 ![](/graphics/er25jy16.004.gif)
 
-And *x* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n−1 degrees of freedom (from appendix A to this subpart).
+And *x/\>* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n−1 degrees of freedom (from appendix A to this subpart).
 
 (b) *Certification reports.* (1) The requirements of § 429.12 are applicable to ceiling fans; and
 

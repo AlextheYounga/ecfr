@@ -1,7 +1,5 @@
 ##### § 401.85 Exempt systems. #####
 
-Link to an amendment published at 87 FR 25141, Apr. 28, 2022.
-
 (a) *General policy.* The Privacy Act permits certain types of specific systems of records to be exempt from some of its requirements. Our policy is to exercise authority to exempt systems of records only in compelling cases.
 
 (b) *Specific systems of records exempted.* (1) Those systems of records listed in paragraph (b)(2) of this section are exempt from the following provisions of the Act and this part:
@@ -34,6 +32,8 @@ Link to an amendment published at 87 FR 25141, Apr. 28, 2022.
 
 (G) Social Security Administration Violence Evaluation and Reporting System, SSA.
 
+(H) Anti-Fraud System, SSA.
+
 (iii) Pursuant to subsection (k)(5) of the Privacy Act:
 
 (A) Security and Suitability Files.
@@ -54,4 +54,4 @@ Link to an amendment published at 87 FR 25141, Apr. 28, 2022.
 
 (d) *Discretionary actions by SSA.* Unless disclosure of a record to the general public is otherwise prohibited by law, we may at our discretion grant notification of or access to a record in a system of records which is exempt under paragraph (b) of this section. Discretionary notification of or access to a record in accordance with this paragraph will not be a precedent for discretionary notification of or access to a similar or related record and will not obligate us to exercise discretion to grant notification of or access to any other record in a system of records which is exempt under paragraph (b) of this section.
 
-[62 FR 4143, Jan. 29, 1997, as amended at 82 FR 16510, Apr. 5, 2017; 83 FR 63416, Dec. 10, 2018; 84 FR 45901, Sept. 3, 2019]
+[62 FR 4143, Jan. 29, 1997, as amended at 82 FR 16510, Apr. 5, 2017; 83 FR 63416, Dec. 10, 2018; 84 FR 45901, Sept. 3, 2019; 87 FR 25141, Apr. 28, 2022]

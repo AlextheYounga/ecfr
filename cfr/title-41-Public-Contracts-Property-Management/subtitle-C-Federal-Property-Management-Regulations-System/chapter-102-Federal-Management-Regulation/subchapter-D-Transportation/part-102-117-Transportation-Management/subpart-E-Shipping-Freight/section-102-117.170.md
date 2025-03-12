@@ -1,5 +1,7 @@
 ##### § 102-117.170 What reference materials are available to ship freight? #####
 
+Link to an amendment published at 87 FR 32322, May 31, 2022.
+
 (a) The following is a partial list of handbooks and guides available from GSA:
 
 (1) U.S. Government Freight Transportation Handbook;

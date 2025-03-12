@@ -10,15 +10,15 @@
 
 (A) The mean of the sample, where:
 
-![](/graphics/er12de16.015.gif)and, *x* is the sample mean; *n* is the number of samples; and *x*i is the UEC of the *i*th sample; or,
+![](/graphics/er12de16.015.gif)and, *x/\>* is the sample mean; *n* is the number of samples; and *x*i is the UEC of the *i*th sample; or,
 
 (B) The upper 97.5-percent confidence limit (UCL) of the true mean divided by 1.05, where:
 
-![](/graphics/er12de16.016.gif)and *x* is the sample mean; *s* is the sample standard deviation; *n* is the number of samples; and *t*0.975 is the t-statistic for a 97.5-percent one-tailed confidence interval with n-1 degrees of freedom (from appendix A of this subpart).
+![](/graphics/er12de16.016.gif)and *x/\>* is the sample mean; *s* is the sample standard deviation; *n* is the number of samples; and *t*0.975 is the t-statistic for a 97.5-percent one-tailed confidence interval with n-1 degrees of freedom (from appendix A of this subpart).
 
 (iii) For each basic model of battery chargers other than UPSs, using the sample from paragraph (a)(2)(ii) of this section, calculate the represented values of each metric (*i.e.,* maintenance mode power (Pm), standby power (Psb), off mode power (Poff), battery discharge energy (EBatt), 24-hour energy consumption (E24), and duration of the charge and maintenance mode test (tcd)), where the represented value of the metric is:
 
-![](/graphics/er12de16.017.gif)and, *x* is the sample mean, *n* is the number of samples, and *x*i is the measured value of the *i*th sample for the metric.
+![](/graphics/er12de16.017.gif)and, *x/\>* is the sample mean, *n* is the number of samples, and *x*i is the measured value of the *i*th sample for the metric.
 
 (iv) For each basic model of UPSs, the represented value of Effavg must be calculated using one of the following two methods:
 
@@ -26,11 +26,11 @@
 
 (*1*) The mean of the sample, where:
 
-![](/graphics/er12de16.018.gif)and, *x* is the sample mean; *n* is the number of samples; and *x*i is the Effavg of the *i*th sample; or,
+![](/graphics/er12de16.018.gif)and, *x/\>* is the sample mean; *n* is the number of samples; and *x*i is the Effavg of the *i*th sample; or,
 
 (*2*) The lower 97.5-percent confidence limit (LCL) of the true mean divided by 0.95, where:
 
-![](/graphics/er12de16.019.gif)and *x* is the sample mean; *s* is the sample standard deviation; *n* is the number of samples; and *t*0.975 is the t-statistic for a 97.5-percent one-tailed confidence interval with n-1 degrees of freedom (from appendix A of this subpart).
+![](/graphics/er12de16.019.gif)and *x/\>* is the sample mean; *s* is the sample standard deviation; *n* is the number of samples; and *t*0.975 is the t-statistic for a 97.5-percent one-tailed confidence interval with n-1 degrees of freedom (from appendix A of this subpart).
 
 (B) The represented value of Effavg is equal to the Effavg of the single unit tested.
 

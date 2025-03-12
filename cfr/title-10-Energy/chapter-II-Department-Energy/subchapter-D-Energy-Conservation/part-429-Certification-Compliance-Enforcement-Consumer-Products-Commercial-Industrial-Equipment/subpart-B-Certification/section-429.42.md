@@ -10,21 +10,21 @@
 
 (*1*) The mean of the sample, where:
 
-![](/graphics/er31de13.157.gif)And *x* is the sample mean; n is the number of samples; and xi is the ith sample; or,
+![](/graphics/er31de13.157.gif)And *x/\>* is the sample mean; n is the number of samples; and xi is the ith sample; or,
 
 (*2*) The upper 95 percent confidence limit (UCL) of the true mean divided by 1.10, where:
 
-![](/graphics/er31de13.158.gif)And *x* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n-1 degrees of freedom (from Appendix A to subpart B of part 429); And,
+![](/graphics/er31de13.158.gif)And *x/\>* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n-1 degrees of freedom (from Appendix A to subpart B of part 429); And,
 
 (B) Any represented value of the energy efficiency or other measure of energy consumption of a basic model for which consumers would favor higher values shall be less than or equal to the lower of:
 
 (*1*) The mean of the sample, where:
 
-![](/graphics/er31de13.159.gif)And, *x* is the sample mean; n is the number of samples; and xi is the ith sample; or,
+![](/graphics/er31de13.159.gif)And, *x/\>* is the sample mean; n is the number of samples; and xi is the ith sample; or,
 
 (*2*) The lower 95 percent confidence limit (LCL) of the true mean divided by 0.90, where:
 
-![](/graphics/er31de13.160.gif)And *x* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n-1 degrees of freedom (from Appendix A to subpart B of part 429).
+![](/graphics/er31de13.160.gif)And *x/\>* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n-1 degrees of freedom (from Appendix A to subpart B of part 429).
 
 (2) *Alternative efficiency determination methods.* In lieu of testing, a represented value of efficiency or consumption for a basic model of commercial refrigerator, freezer or refrigerator-freezer must be determined through the application of an AEDM pursuant to the requirements of § 429.70 and the provisions of this section, where:
 

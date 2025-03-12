@@ -6,37 +6,37 @@
 
 (2) *Verification of identity.* When the fact of the existence of a record is not required to be disclosed under the Freedom of Information Act, 5 U.S.C. 552, as amended, or when a record as to which access has been requested is not required to be disclosed under that Act, the individual seeking the information or requesting access to the record shall be required to verify his or her identity before access will be granted or information given. For this purpose, individuals shall appear at the Office of Freedom of Information and Privacy Act Operations, SEC, 100 F Street, NE., Washington, DC 20549, during normal business hours of 9 a.m. to 5:30 p.m. E.S.T., Monday through Friday, or at one of the Commission's Regional Offices. The addresses and business hours of those offices are listed below:
 
-Atlanta Regional Office - 3475 Lenox Road, NE., Suite 1000, Atlanta, GA 30326-1232. Office hours - 9 a.m. to 5:30 p.m. E.T.
+Atlanta Regional Office—3475 Lenox Road, NE., Suite 1000, Atlanta, GA 30326-1232. Office hours—9 a.m. to 5:30 p.m. E.T.
 
-Boston Regional Office - 33 Arch Street, 23rd Floor, Boston, MA 02110-1424. Office hours - 9 a.m. to 5:30 p.m. E.T.
+Boston Regional Office—33 Arch Street, 23rd Floor, Boston, MA 02110-1424. Office hours—9 a.m. to 5:30 p.m. E.T.
 
-Chicago Regional Office - 175 West Jackson Boulevard, Suite 900, Chicago, IL 60604-2908. Office hours - 8:45 a.m. to 5:15 p.m. C.T.
+Chicago Regional Office—175 West Jackson Boulevard, Suite 900, Chicago, IL 60604-2908. Office hours—8:45 a.m. to 5:15 p.m. C.T.
 
-Denver Regional Office - 1801 California Street, Suite 1500, Denver, CO 80202-2656. Office hours - 8 a.m. to 4:30 p.m. M.T.
+Denver Regional Office—1801 California Street, Suite 1500, Denver, CO 80202-2656. Office hours—8 a.m. to 4:30 p.m. M.T.
 
-Fort Worth Regional Office - Burnett Plaza, Suite 1900, 801 Cherry Street, Unit #18, Fort Worth, TX 76102-6882. Office hours - 8:30 a.m. to 5 p.m. C.T.
+Fort Worth Regional Office—Burnett Plaza, Suite 1900, 801 Cherry Street, Unit #18, Fort Worth, TX 76102-6882. Office hours—8:30 a.m. to 5 p.m. C.T.
 
-Los Angeles Regional Office - 5670 Wilshire Boulevard, 11th Floor, Los Angeles, CA 90036-3648. Office hours - 8:30 a.m. to 5 p.m. P.T.
+Los Angeles Regional Office—5670 Wilshire Boulevard, 11th Floor, Los Angeles, CA 90036-3648. Office hours—8:30 a.m. to 5 p.m. P.T.
 
-Miami Regional Office - 801 Brickell Avenue, Suite 1800, Miami, FL 33131-4901. Office hours - 9 a.m. to 5:30 p.m. E.T.
+Miami Regional Office—801 Brickell Avenue, Suite 1800, Miami, FL 33131-4901. Office hours—9 a.m. to 5:30 p.m. E.T.
 
-New York Regional Office - 3 World Financial Center, Suite 400, New York, NY 10281-1022. Office hours - 9 a.m. to 5:30 p.m. E.T.
+New York Regional Office—3 World Financial Center, Suite 400, New York, NY 10281-1022. Office hours—9 a.m. to 5:30 p.m. E.T.
 
-Philadelphia Regional Office - 701 Market Street, Suite 2000, Philadelphia, PA 19106-1532. Office hours - 9 a.m. to 5:30 p.m. E.T.
+Philadelphia Regional Office—701 Market Street, Suite 2000, Philadelphia, PA 19106-1532. Office hours—9 a.m. to 5:30 p.m. E.T.
 
-Salt Lake City Regional Office - 15 W. South Temple Street, Suite 1800, Salt Lake City, UT 84101-1573. Office hours - 8 a.m. to 4:30 p.m. M.T.
+Salt Lake City Regional Office—15 W. South Temple Street, Suite 1800, Salt Lake City, UT 84101-1573. Office hours—8 a.m. to 4:30 p.m. M.T.
 
-San Francisco Regional Office - 44 Montgomery Street, Suite 2600, San Francisco, CA 94104-4716. Office hours - 8:30 a.m. to 5 p.m. P.T.
+San Francisco Regional Office—44 Montgomery Street, Suite 2600, San Francisco, CA 94104-4716. Office hours—8:30 a.m. to 5 p.m. P.T.
 
 None of the Commission's offices is open on Saturday, Sunday or the following legal holidays: New Year's Day, Martin Luther King, Jr.'s Birthday, Presidents' Day, Memorial Day, Independence Day, Labor Day, Veterans' Day, Columbus Day, Thanksgiving Day, and Christmas Day.
 
-(3) *Methods for verifying identity - appearance in person.* An individual seeking information as to records pertaining to him or access to those records shall furnish documentation that may reasonably be relied on to establish the individual's identity. Such documentation might include a valid birth certificate, driver's license, employee or military identification card, or medicare card.
+(3) *Methods for verifying identity—appearance in person.* An individual seeking information as to records pertaining to him or access to those records shall furnish documentation that may reasonably be relied on to establish the individual's identity. Such documentation might include a valid birth certificate, driver's license, employee or military identification card, or medicare card.
 
 (4) *Method for verifying identity by mail.* Where an individual cannot appear at one of the Commission's Offices to verify his or her identity, he or she must submit, along with the request for information or access, a statement attesting to his or her identity. Where access is being sought, the statement shall include a representation that the requested records pertain to the individual and a statement that the individual is aware that knowingly and willfully requesting or obtaining records pertaining to an individual from the Commission under false pretenses is a criminal offense. This statement shall be a sworn statement, or in lieu of a sworn statement, an individual may submit an unsworn statement to the same effect if it is signed by him or her as true under penalty of perjury, dated, and in substantially the following form:
 
 (i) If executed outside the United States: “I declare (or certify, verify, or state) under penalty of perjury under the laws of the United States of America that the foregoing is true and correct.”
 
-Executed on (date)\_\_\_\_\_\_\_
+Executed on (date)\_\_\_\_\_\_
 
 (Signature)
 

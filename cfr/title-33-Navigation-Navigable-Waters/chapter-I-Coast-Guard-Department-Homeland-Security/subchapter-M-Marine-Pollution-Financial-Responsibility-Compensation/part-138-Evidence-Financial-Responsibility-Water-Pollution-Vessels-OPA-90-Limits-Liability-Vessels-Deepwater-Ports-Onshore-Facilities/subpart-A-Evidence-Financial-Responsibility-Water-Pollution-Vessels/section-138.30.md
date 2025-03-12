@@ -6,7 +6,7 @@
 
 (2) CERCLA (42 U.S.C. 9601): *Claim, claimant, damages, facility, hazardous substance, liable* or *liability, navigable waters, offshore facility, owner or operator, person, remove, removal, United States,* and *vessel.*
 
-(3) 46 CFR 69.9: *Convention Measurement System, foreign-flag vessel,**gross tonnage ITC (GT ITC)*1 and *gross register tonnage (GRT), tonnage,* and *U.S.-flag vessel.*
+(3) 46 CFR 69.9: *Convention Measurement System, foreign-flag vessel,**gross tonnage ITC (GT ITC)*1/\> and *gross register tonnage (GRT), tonnage,* and *U.S.-flag vessel.*
 
 1 The acronym “ITC” refers to the International Tonnage Convention. GT ITC, as defined in 46 CFR 69.9 means the gross tonnage measurement of a vessel as applied under the Convention Measurement System.
 

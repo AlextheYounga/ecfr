@@ -22,13 +22,13 @@
 
 ![](/graphics/er28de16.000.gif)
 
-And *x* is the sample mean; n is the number of samples; and xi is the ith sample, or,
+And *x/\>* is the sample mean; n is the number of samples; and xi is the ith sample, or,
 
 (*2*) The lower 95 percent confidence limit (LCL) of the true mean divided by 0.95, where:
 
 ![](/graphics/er28de16.001.gif)
 
-And *x* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n-1 degrees of freedom (from appendix A to subpart B).
+And *x/\>* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n-1 degrees of freedom (from appendix A to subpart B).
 
 (C) The represented value of net capacity shall be the average of the capacities measured for the sample selected.
 
@@ -58,13 +58,13 @@ And *x* is the sample mean; s is the sample standard deviation; n is the number 
 
 ![](/graphics/er28de16.002.gif)
 
-And *x* is the sample mean; n is the number of samples; and xi is the ith sample, or,
+And *x/\>* is the sample mean; n is the number of samples; and xi is the ith sample, or,
 
 (*ii*) The upper 95 percent confidence limit (UCL) of the true mean divided by 1.05, where:
 
 ![](/graphics/er28de16.003.gif)
 
-And *x* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n-1 degrees of freedom (from appendix A to subpart B).
+And *x/\>* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n-1 degrees of freedom (from appendix A to subpart B).
 
 (*2*) Any represented R-value or other measure of energy efficiency of a basic model for which consumers would favor higher values shall be less than or equal to the lower of:
 

@@ -30,7 +30,7 @@ Or,
 
 ![](/graphics/er14se20.005.gif)Where:
 
-x is the sample mean;
+x/\> is the sample mean;
 
 n is the number of units in the sample; and
 

@@ -12,25 +12,25 @@
 
 (*1*) The mean of the sample, where:
 
-![](/graphics/er01jy16.009.gif)and, *x* is the sample mean; n is the number of units; and xi is the measured value for the ith unit; Or,
+![](/graphics/er01jy16.009.gif)and, *x/\>* is the sample mean; n is the number of units; and xi is the measured value for the ith unit; Or,
 
 (*2*) The lower 99 percent confidence limit (LCL) of the true mean divided by 0.96; or the lower 99 percent confidence limit (LCL) of the true mean divided by 0.98 for CRI and power factor, where:
 
-![](/graphics/er01jy16.010.gif)and, *x* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.99 is the t statistic for a 99 percent one-tailed confidence interval with n-1 degrees of freedom (from appendix A to this subpart).
+![](/graphics/er01jy16.010.gif)and, *x/\>* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.99 is the t statistic for a 99 percent one-tailed confidence interval with n-1 degrees of freedom (from appendix A to this subpart).
 
 (B) Represented values of input power, standby mode power or other measure of energy consumption of a basic model for which consumers would favor lower values are greater than or equal to the higher of:
 
 (*1*) The mean of the sample, where:
 
-![](/graphics/er01jy16.011.gif)and, *x* is the sample mean; n is the number of units; and xi is the measured value for the ith unit;Or,
+![](/graphics/er01jy16.011.gif)and, *x/\>* is the sample mean; n is the number of units; and xi is the measured value for the ith unit;Or,
 
 (*2*) The upper 99 percent confidence limit (UCL) of the true mean divided by 1.02, where:
 
-![](/graphics/er01jy16.012.gif)and, *x* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.99 is the t statistic for a 99 percent one-tailed confidence interval with n-1 degrees of freedom (from appendix A to this subpart);
+![](/graphics/er01jy16.012.gif)and, *x/\>* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.99 is the t statistic for a 99 percent one-tailed confidence interval with n-1 degrees of freedom (from appendix A to this subpart);
 
 (C) Represented values of correlated color temperature (CCT) of a basic model must be equal to the mean of the sample, where:
 
-![](/graphics/er01jy16.013.gif)and, *x* is the sample mean; n is the number of units in the sample; and xi is the measured CCT for the ith unit.
+![](/graphics/er01jy16.013.gif)and, *x/\>* is the sample mean; n is the number of units in the sample; and xi is the measured CCT for the ith unit.
 
 (D) The represented value of lifetime of an integrated light-emitting diode lamp must be equal to or less than the median time to failure of the sample (calculated as the arithmetic mean of the time to failure of the two middle sample units when the numbers are sorted in value order) rounded to the nearest hour.
 

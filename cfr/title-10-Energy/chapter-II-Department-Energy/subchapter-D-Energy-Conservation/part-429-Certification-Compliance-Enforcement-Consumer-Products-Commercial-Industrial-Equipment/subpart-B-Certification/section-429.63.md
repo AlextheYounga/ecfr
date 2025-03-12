@@ -12,13 +12,13 @@
 
 ![](/graphics/er04ja17.007.gif)
 
-And x is the sample mean; n is the number of samples; and xi is the measured value for the ith sample; or,
+And x/\> is the sample mean; n is the number of samples; and xi is the measured value for the ith sample; or,
 
 (*2*) The lower 95 percent confidence limit (LCL) of the true mean divided by 0.95, where:
 
 ![](/graphics/er04ja17.008.gif)
 
-And x is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95 percent one-tailed confidence interval with n−1 degrees of freedom (from appendix A of this subpart); and
+And x/\> is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95 percent one-tailed confidence interval with n−1 degrees of freedom (from appendix A of this subpart); and
 
 (B) *Package specific power.* The representative value(s) of package specific power of a basic model must be the mean of the package specific power measurement(s) for each tested unit of the basic model.
 

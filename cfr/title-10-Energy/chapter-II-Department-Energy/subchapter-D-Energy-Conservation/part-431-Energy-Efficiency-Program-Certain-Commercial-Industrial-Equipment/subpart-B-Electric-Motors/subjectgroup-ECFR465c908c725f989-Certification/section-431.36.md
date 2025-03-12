@@ -32,7 +32,7 @@
 
 (2) *Issuance of CC number(s).* (i) Initial Compliance Certification. When DOE advises that the initial Compliance Certification submitted by or on behalf of a manufacturer or private labeler is acceptable, either:
 
-(A) DOE will provide a single unique CC number, “CC\_\_\_\_,” to the manufacturer or private labeler, and such CC number shall be applicable to all electric motors distributed by the manufacturer or private labeler, or
+(A) DOE will provide a single unique CC number, “CC\_\_\_\_\_\_\_\_,” to the manufacturer or private labeler, and such CC number shall be applicable to all electric motors distributed by the manufacturer or private labeler, or
 
 (B) When required by paragraph (f)(3) of this section, DOE will provide more than one CC number to the manufacturer or private labeler.
 

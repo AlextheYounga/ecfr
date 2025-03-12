@@ -1,7 +1,5 @@
 ##### § 1208.4 Filing the application. #####
 
-Link to an amendment published at 87 FR 18221, Mar. 29, 2022.
-
 Except as prohibited in paragraph (a) of this section, asylum applications shall be filed in accordance with paragraph (b) of this section.
 
 (a) *Prohibitions on filing.* Section 208(a)(2) of the Act prohibits certain aliens from filing for asylum on or after April 1, 1997, unless the alien can demonstrate to the satisfaction of the Attorney General that one of the exceptions in section 208(a)(2)(D) of the Act applies. Such prohibition applies only to asylum applications under section 208 of the Act and not to applications for withholding of removal under § 1208.16. If an applicant files an asylum application and it appears that one or more of the prohibitions contained in section 208(a)(2) of the Act apply, an asylum officer, in an interview, or an immigration judge, in a hearing, shall review the application and give the applicant the opportunity to present any relevant and useful information bearing on any prohibitions on filing to determine if the application should be rejected. For the purpose of making determinations under section 208(a)(2) of the Act, the following rules shall apply:
@@ -50,7 +48,7 @@ Except as prohibited in paragraph (a) of this section, asylum applications shall
 
 (6) *Asylum cooperative agreements.* Immigration judges have authority to consider issues under section 208(a)(2)(A) of the Act, relating to the determination of whether an alien is ineligible to apply for asylum and should be removed to a third country pursuant to a bilateral or multilateral agreement, only with respect to aliens whom DHS has chosen to place in removal proceedings under section 240 of the Act, as provided in 8 CFR 1240.11(g) and (h). For DHS regulations relating to determinations by immigration officers on this subject, see 8 CFR 208.30(e)(6) and (7).
 
-(b) *Filing location* - (1) *With the service center by mail.* Except as provided in paragraphs (b)(2), (b)(3), (b)(4) and (b)(5) of this section, asylum applications shall be filed directly by mail with the service center servicing the asylum office with jurisdiction over the place of the applicant's residence or, in the case of an alien without a United States residence, the applicant's current lodging or the land border port-of-entry through which the alien seeks admission to the United States.
+(b) *Filing location*—(1) *With the service center by mail.* Except as provided in paragraphs (b)(2), (b)(3), (b)(4) and (b)(5) of this section, asylum applications shall be filed directly by mail with the service center servicing the asylum office with jurisdiction over the place of the applicant's residence or, in the case of an alien without a United States residence, the applicant's current lodging or the land border port-of-entry through which the alien seeks admission to the United States.
 
 (2) *With the asylum office.* An asylum application shall be filed directly with the asylum office having jurisdiction over the matter in the case of an alien who:
 
@@ -60,7 +58,7 @@ Except as prohibited in paragraph (a) of this section, asylum applications shall
 
 (3) *With the Immigration Court.* Asylum applications shall be filed directly with the Immigration Court having jurisdiction over the case in the following circumstances:
 
-(i) During exclusion, deportation, or removal proceedings, with the Immigration Court having jurisdiction over the underlying proceeding.
+(i) During exclusion, deportation, or removal proceedings, with the Immigration Court having jurisdiction over the underlying proceeding except that an alien in proceedings under § 1240.17 of this chapter is not required to file the Form I-589.
 
 (ii) After completion of exclusion, deportation, or removal proceedings, and in conjunction with a motion to reopen pursuant to 8 CFR part 1003 where applicable, with the Immigration Court having jurisdiction over the prior proceeding. Any such motion must reasonably explain the failure to request asylum prior to the completion of the proceedings.
 
@@ -78,4 +76,4 @@ Except as prohibited in paragraph (a) of this section, asylum applications shall
 
 (3) If the alien has paid any required fee but has not received the fee receipt from DHS by the deadline set by the immigration judge, the alien must instead provide to the immigration court a copy of proof of the payment to DHS with the asylum application. The alien must then submit a copy of the fee receipt by a new deadline set by the immigration judge. If the immigration judge does not set a deadline, the alien must submit the fee receipt no later than 45 days after the date of filing of the application.
 
-[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 64 FR 13881, Mar. 23, 1999; 65 FR 76131, Dec. 6, 2000; 69 FR 69497, Nov. 29, 2004; 70 FR 4754, Jan. 31, 2005; 74 FR 55741, Oct. 28, 2009; 84 FR 64010, Nov. 19, 2019; 85 FR 23904, Apr. 30, 2020; 85 FR 81751, Dec. 16, 2020; 86 FR 70724, Dec. 13, 2021]
+[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 64 FR 13881, Mar. 23, 1999; 65 FR 76131, Dec. 6, 2000; 69 FR 69497, Nov. 29, 2004; 70 FR 4754, Jan. 31, 2005; 74 FR 55741, Oct. 28, 2009; 84 FR 64010, Nov. 19, 2019; 85 FR 23904, Apr. 30, 2020; 85 FR 81751, Dec. 16, 2020; 86 FR 70724, Dec. 13, 2021; 87 FR 18221, Mar. 29, 2022]

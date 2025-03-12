@@ -1,5 +1,7 @@
 ##### § 102-118.630 How must a TSP refund amounts due to GSA? #####
 
+Link to an amendment published at 87 FR 32326, May 31, 2022.
+
 (a) TSPs must promptly refund amounts due to GSA, preferably by EFT. If an EFT is not used, checks must be made payable to “General Services Administration”, including the document reference number, TSP name, bill number(s), taxpayer identification number and standard carrier alpha code, then mailed to:
 
 General Services AdministrationP.O. Box 93746Chicago, IL 60673

@@ -14,7 +14,7 @@
 
 ![](/graphics/er02au11.090.gif)
 
-And x is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.99 is the t statistic for a 99% two-tailed confidence interval with n-1 degrees of freedom (from appendix A).
+And x/\> is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.99 is the t statistic for a 99% two-tailed confidence interval with n-1 degrees of freedom (from appendix A).
 
 (b) *Certification reports.* (1) The requirements of § 429.12 are applicable to metal halide lamp ballasts; and
 

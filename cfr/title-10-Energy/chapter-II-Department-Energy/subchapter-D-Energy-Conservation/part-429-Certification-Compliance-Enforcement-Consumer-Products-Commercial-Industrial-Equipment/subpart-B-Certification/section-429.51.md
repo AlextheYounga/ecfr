@@ -6,11 +6,11 @@
 
 (i) The mean of the sample, where:
 
-![](/graphics/er30de15.002.gif)and, x is the sample mean;n is the number of samples; andxi is the ith sample; Or,
+![](/graphics/er30de15.002.gif)and, x/\> is the sample mean;n is the number of samples; andxi is the ith sample; Or,
 
 (ii) The upper 95-percent confidence limit (UCL) of the true mean divided by 1.10, where:
 
-![](/graphics/er30de15.003.gif)and, x is the sample mean;s is the sample standard deviation;n is the number of samples; andt0.95 is the t statistic for a 95-percent two-tailed confidence interval with n-1 degrees of freedom (from Appendix A of this subpart).
+![](/graphics/er30de15.003.gif)and, x/\> is the sample mean;s is the sample standard deviation;n is the number of samples; andt0.95 is the t statistic for a 95-percent two-tailed confidence interval with n-1 degrees of freedom (from Appendix A of this subpart).
 
 (b) *Certification reports.* (1) The requirements of § 429.12 are applicable to commercial prerinse spray valves; and
 

@@ -1,5 +1,7 @@
 ##### § 102-117.135 What are the international transportation restrictions? #####
 
+Link to an amendment published at 87 FR 32322, May 31, 2022.
+
 Several statutes mandate the use of U.S. flag carriers for international shipments, such as 49 U.S.C. 40118, commonly referred to as the “Fly America Act”, and 46 U.S.C. 55305, the Cargo Preference Act of 1954, as amended. The principal restrictions are as follows:
 
 (a) *Air cargo:* The use of foreign-flag air carriers when funded by the U.S. Government should be rare. International movement of cargo by air is subject to the Fly America Act, 49 U.S.C. 40118, which requires the use of U.S. flag air carrier service for all air cargo movements funded by the U.S. Government, including cargo shipped by contractors, grantees, and others at Government expense, except when one of the following exceptions applies:

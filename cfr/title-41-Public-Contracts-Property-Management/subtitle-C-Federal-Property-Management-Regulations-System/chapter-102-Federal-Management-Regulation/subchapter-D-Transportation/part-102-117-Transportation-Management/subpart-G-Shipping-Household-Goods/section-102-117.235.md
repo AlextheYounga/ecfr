@@ -1,5 +1,7 @@
 ##### § 102-117.235 How do I get a cost comparison? #####
 
+Link to an amendment published at 87 FR 32323, May 31, 2022.
+
 (a) You may calculate a cost comparison internally according to 41 CFR 302-8.3.
 
 (b) You may request GSA to perform the cost comparison if you participate in the CHAMP program by sending GSA the following information as far in advance as possible (preferably 30 calendar days):

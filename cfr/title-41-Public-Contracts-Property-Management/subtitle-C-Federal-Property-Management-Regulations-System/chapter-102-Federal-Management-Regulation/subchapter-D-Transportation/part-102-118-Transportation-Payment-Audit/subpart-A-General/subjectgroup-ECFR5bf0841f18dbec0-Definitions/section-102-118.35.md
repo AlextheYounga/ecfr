@@ -1,5 +1,7 @@
 ##### § 102-118.35 What definitions apply to this part? #####
 
+Link to an amendment published at 87 FR 32324, May 31, 2022.
+
 The following definitions apply to this part:
 
 *Agency* means a department, agency, or instrumentality of the United States Government (31 U.S.C. 101).

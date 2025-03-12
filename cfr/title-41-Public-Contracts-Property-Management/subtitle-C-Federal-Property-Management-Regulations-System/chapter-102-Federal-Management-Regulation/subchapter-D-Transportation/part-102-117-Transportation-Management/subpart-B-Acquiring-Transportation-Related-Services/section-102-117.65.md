@@ -1,5 +1,7 @@
 ##### § 102-117.65 What terms and conditions must all rate tenders or contracts include? #####
 
+Link to an amendment published at 87 FR 32322, May 31, 2022.
+
 All rate tenders and contracts must include, at a minimum, the following terms and conditions:
 
 (a) Charges cannot be prepaid.

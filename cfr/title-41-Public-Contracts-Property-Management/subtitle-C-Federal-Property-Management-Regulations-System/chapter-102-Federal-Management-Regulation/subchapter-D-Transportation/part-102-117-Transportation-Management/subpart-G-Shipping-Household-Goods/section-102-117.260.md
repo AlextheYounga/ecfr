@@ -1,5 +1,7 @@
 ##### § 102-117.260 What are my responsibilities to employees regarding the TSP's liability for loss or damage claims? #####
 
+Link to an amendment published at 87 FR 32323, May 31, 2022.
+
 Regarding the TSP's liability for loss or damage claims, you must:
 
 (a) Advise employees on the limits of the TSP's liability for loss of and damage to their HHG so the employee may evaluate the need for added insurance;

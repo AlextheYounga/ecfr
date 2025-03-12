@@ -1,5 +1,7 @@
 ##### § 102-117.85 What is the difference between a Government bill of lading (GBL) and a bill of lading? #####
 
+Link to an amendment published at 87 FR 32322, May 31, 2022.
+
 (a) A Government bill of lading (GBL), Optional Forms 1103 or 1203, is a controlled document that conveys specific terms and conditions to protect the Government interest and serves as the contract of carriage.
 
 (b) A GBL is used only for international shipments.

@@ -54,15 +54,15 @@ D. Registrants using the sensitivity analysis and value at risk disclosure alter
 
 A. Examples of contract terms sufficient to determine future cash flows from market risk sensitive instruments include, but are not limited to:
 
-i. Debt instruments - principal amounts and weighted average effective interest rates;
+i. Debt instruments—principal amounts and weighted average effective interest rates;
 
-ii. Forwards and futures - contract amounts and weighted average settlement prices;
+ii. Forwards and futures—contract amounts and weighted average settlement prices;
 
-iii. Options - contract amounts and weighted average strike prices;
+iii. Options—contract amounts and weighted average strike prices;
 
-iv. Swaps - notional amounts, weighted average pay rates or prices, and weighted average receive rates or prices; and
+iv. Swaps—notional amounts, weighted average pay rates or prices, and weighted average receive rates or prices; and
 
-v. Complex instruments - likely to be a combination of the contract terms presented in 2.A.i. through iv. of this Instruction;
+v. Complex instruments—likely to be a combination of the contract terms presented in 2.A.i. through iv. of this Instruction;
 
 B. When grouping based on common characteristics, instruments should be categorized, at a minimum, by the following characteristics, when material:
 
@@ -176,7 +176,7 @@ ii. The materiality of potential, near-term losses in future earnings, fair valu
 
 iii. If either paragraphs B.i. or B.ii. in this instruction of the General Instructions to Paragraphs 305(a) and 305(b) are material, the registrant should disclose quantitative and qualitative information about market risk, if such market risk for the particular market risk exposure category is material.
 
-C. For purposes of instruction 5.B.i. of the General Instructions to Paragraphs 305(a) and 305(b), registrants generally should not net fair values, except to the extent allowed under generally accepted accounting principles (see, e.g., FASB ASC Subtopic 210-20, *Balance Sheet - Offsetting).* For example, under this instruction, the fair value of assets generally should not be netted with the fair value of liabilities.
+C. For purposes of instruction 5.B.i. of the General Instructions to Paragraphs 305(a) and 305(b), registrants generally should not net fair values, except to the extent allowed under generally accepted accounting principles (see, e.g., FASB ASC Subtopic 210-20, *Balance Sheet—Offsetting).* For example, under this instruction, the fair value of assets generally should not be netted with the fair value of liabilities.
 
 D. For purposes of instruction 5.B.ii. of the General Instructions to Paragraphs 305(a) and 305(b), registrants should consider, among other things, the magnitude of:
 
@@ -228,15 +228,13 @@ ii. An institution organized under the laws of the United States, any State of t
 
 D. For purposes of instruction 1. of the General Instructions to Paragraphs 305(a), 305(b), 305(c), 305(d) and 305(e), *market capitalization* is the aggregate market value of common equity as set forth in General Instruction I.B.1. of Form S-3; provided however, that common equity held by affiliates is included in the calculation of market capitalization; and provided further that instead of using the 60 day period prior to filing referenced in General Instruction I.B.1. of Form S-3, the measurement date is January 28, 1997.
 
-Appendix to Item 305 - Tabular Disclosures
+Appendix to Item 305—Tabular Disclosures
 
 The tables set forth below are illustrative of the format that might be used when a registrant elects to present the information required by paragraph (a)(1)(i)(A) of Item 305 regarding terms and information about derivative financial instruments, other financial instruments, and derivative commodity instruments. These examples are for illustrative purposes only. Registrants are not required to display the information in the specific format illustrated below. Alternative methods of display are permissible as long as the disclosure requirements of the section are satisfied. Furthermore, these examples were designed primarily to illustrate possible formats for presentation of the information required by the disclosure item and do not purport to illustrate the broad range of derivative financial instruments, other financial instruments, and derivative commodity instruments utilized by registrants.
 
 Interest Rate Sensitivity
 
 The table below provides information about the Company's derivative financial instruments and other financial instruments that are sensitive to changes in interest rates, including interest rate swaps and debt obligations. For debt obligations, the table presents principal cash flows and related weighted average interest rates by expected maturity dates. For interest rate swaps, the table presents notional amounts and weighted average interest rates by expected (contractual) maturity dates. Notional amounts are used to calculate the contractual payments to be exchanged under the contract. Weighted average variable rates are based on implied forward rates in the yield curve at the reporting date. The information is presented in U.S. dollar equivalents, which is the Company's reporting currency. The instrument's actual cash flows are denominated in both U.S. dollars ($US) and German deutschmarks (DM), as indicated in parentheses.
-
-December 31, 19X1
 
 |                         |   Expected maturity date   |    |    |    |          |     |                |    |
 |-------------------------|----------------------------|----|----|----|----------|-----|----------------|----|
@@ -264,50 +262,43 @@ The table below provides information about the Company's derivative financial in
 
 1 The information is presented in U.S. dollars because that is the registrant's reporting currency.
 
-December 31, 19X1
-
-|                                                            |       Expected maturity date        |    |    |    |          |     |                |    |
-|------------------------------------------------------------|-------------------------------------|----|----|----|----------|-----|----------------|----|
-|                            19X2                            |                19X3                 |19X4|19X5|19X6|Thereafter|Total|Fair  <br/>value|    |
-|           On-Balance Sheet Financial Instruments           |    (US$ Equivalent in millions)     |    |    |    |          |     |                |    |
-|            $US Functional Currency<sup>2</sup>:            |                                     |    |    |    |          |     |                |    |
-|                        Liabilities                         |                                     |    |    |    |          |     |                |    |
-|                      Long-Term Debt:                       |                                     |    |    |    |          |     |                |    |
-|                      Fixed Rate (DM)                       |                $XXX                 |$XXX|$XXX|$XXX|   $XXX   |$XXX |      $XXX      |$XXX|
-|                   Average interest rate                    |                 X.X                 |X.X |X.X |X.X |   X.X    | X.X |      X.X       |    |
-|                                                            |Expected maturity or transaction date|    |    |    |          |     |                |    |
-|Anticipated Transactions and Related Derivatives<sup>3</sup>|    (US$ Equivalent in millions)     |    |    |    |          |     |                |    |
-|                  $US Functional Currency:                  |                                     |    |    |    |          |     |                |    |
-|           Firmly committed Sales Contracts (DM)            |                $XXX                 |$XXX|    |    |          |     |      $XXX      |$XXX|
-|                Forward Exchange Agreements                 |                                     |    |    |    |          |     |                |    |
-|                   (Receive $US/Pay DM):                    |                                     |    |    |    |          |     |                |    |
-|                      Contract Amount                       |                 XXX                 |XXX |    |    |          |     |      XXX       |XXX |
-|             Average Contractual Exchange Rate              |                 X.X                 |X.X |    |    |          |     |      X.X       |    |
-
-<sup>2</sup> Similar tabular information would be provided for other functional currencies.
-
-<sup>3</sup> Pursuant to General Instruction 4. to Items 305(a) and 305(b) of Regulation S-K, registrants may include cash flows from anticipated transactions and operating cash flows resulting from non-financial and non-commodity instruments.
+|                                                                                                                                                                                                                                                   |       Expected maturity date        |    |    |    |          |     |                |    |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|----|----|----|----------|-----|----------------|----|
+|                                                                                                                       19X2                                                                                                                        |                19X3                 |19X4|19X5|19X6|Thereafter|Total|Fair  <br/>value|    |
+|                                                                                                      On-Balance Sheet Financial Instruments                                                                                                       |    (US$ Equivalent in millions)     |    |    |    |          |     |                |    |
+|                                                                                                       $US Functional Currency <sup>2</sup>:                                                                                                       |                                     |    |    |    |          |     |                |    |
+|                                                                                                                    Liabilities                                                                                                                    |                                     |    |    |    |          |     |                |    |
+|                                                                                                                  Long-Term Debt:                                                                                                                  |                                     |    |    |    |          |     |                |    |
+|                                                                                                                  Fixed Rate (DM)                                                                                                                  |                $XXX                 |$XXX|$XXX|$XXX|   $XXX   |$XXX |      $XXX      |$XXX|
+|                                                                                                               Average interest rate                                                                                                               |                 X.X                 |X.X |X.X |X.X |   X.X    | X.X |      X.X       |    |
+|                                                                                                                                                                                                                                                   |Expected maturity or transaction date|    |    |    |          |     |                |    |
+|                                                                                           Anticipated Transactions and Related Derivatives <sup>3</sup>                                                                                           |    (US$ Equivalent in millions)     |    |    |    |          |     |                |    |
+|                                                                                                             $US Functional Currency:                                                                                                              |                                     |    |    |    |          |     |                |    |
+|                                                                                                       Firmly committed Sales Contracts (DM)                                                                                                       |                $XXX                 |$XXX|    |    |          |     |      $XXX      |$XXX|
+|                                                                                                            Forward Exchange Agreements                                                                                                            |                                     |    |    |    |          |     |                |    |
+|                                                                                                               (Receive $US/Pay DM):                                                                                                               |                                     |    |    |    |          |     |                |    |
+|                                                                                                                  Contract Amount                                                                                                                  |                 XXX                 |XXX |    |    |          |     |      XXX       |XXX |
+|                                                                                                         Average Contractual Exchange Rate                                                                                                         |                 X.X                 |X.X |    |    |          |     |      X.X       |    |
+|                                                                            <sup>2</sup> Similar tabular information would be provided for other functional currencies.                                                                            |                                     |    |    |    |          |     |                |    |
+|<sup>3</sup> Pursuant to General Instruction 4. to Items 305(a) and 305(b) of Regulation S-K, registrants may include cash flows from anticipated transactions and operating cash flows resulting from non-financial and non-commodity instruments.|                                     |    |    |    |          |     |                |    |
 
 Commodity Price Sensitivity
 
 The table below provides information about the Company's corn inventory and futures contracts that are sensitive to changes in commodity prices, specifically corn prices. For inventory, the table presents the carrying amount and fair value at December 31, 19x1. For the futures contracts the table presents the notional amounts in bushels, the weighted average contract prices, and the total dollar contract amount by expected maturity dates, the latest of which occurs one year from the reporting date. Contract amounts are used to calculate the contractual payments and quantity of corn to be exchanged under the futures contracts.
 
-December 31, 19X1
-
-|                                                           |Carrying amount|Fair  <br/>value|
-|-----------------------------------------------------------|---------------|----------------|
-|                                                           | (In millions) |                |
-|On Balance Sheet Commodity Position and Related Derivatives|               |                |
-|                Corn Inventory<sup>4</sup>                 |     $XXX      |      $XXX      |
-|                                                           |   Expected    |                |
-|                                                           |   maturity    |      Fair      |
-|                                                           |     1992      |     value      |
-|                    Related Derivatives                    |               |                |
-|                Futures Contracts (Short):                 |               |                |
-|            Contract Volumes (100,000 bushels)             |      XXX      |                |
-|       Weighted Average Price (Per 100,000 bushels)        |     $X.XX     |                |
-|             Contract Amount ($US in millions)             |     $XXX      |      $XXX      |
-
-<sup>4</sup> Pursuant to General Instruction 4. to Items 305(a) and 305(b) of Regulation S-K, registrants may include information on commodity positions, such as corn inventory.
+|                                                                                                                                                                                 |Carrying amount|Fair  <br/>value|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|----------------|
+|                                                                                                                                                                                 | (In millions) |                |
+|                                                           On Balance Sheet Commodity Position and Related Derivatives                                                           |               |                |
+|                                                                           Corn Inventory <sup>4</sup>                                                                           |     $XXX      |      $XXX      |
+|                                                                                                                                                                                 |   Expected    |                |
+|                                                                                                                                                                                 |   maturity    |      Fair      |
+|                                                                                                                                                                                 |     1992      |     value      |
+|                                                                               Related Derivatives                                                                               |               |                |
+|                                                                           Futures Contracts (Short):                                                                            |               |                |
+|                                                                       Contract Volumes (100,000 bushels)                                                                        |      XXX      |                |
+|                                                                  Weighted Average Price (Per 100,000 bushels)                                                                   |     $X.XX     |                |
+|                                                                        Contract Amount ($US in millions)                                                                        |     $XXX      |      $XXX      |
+|<sup>4</sup> Pursuant to General Instruction 4. to Items 305(a) and 305(b) of Regulation S-K, registrants may include information on commodity positions, such as corn inventory.|               |                |
 
 [62 FR 6064, Feb. 10, 1997, as amended at 73 FR 958, Jan. 4, 2008; 74 FR 18617, Apr. 23, 2009; 76 FR 50121, Aug. 12, 2011]

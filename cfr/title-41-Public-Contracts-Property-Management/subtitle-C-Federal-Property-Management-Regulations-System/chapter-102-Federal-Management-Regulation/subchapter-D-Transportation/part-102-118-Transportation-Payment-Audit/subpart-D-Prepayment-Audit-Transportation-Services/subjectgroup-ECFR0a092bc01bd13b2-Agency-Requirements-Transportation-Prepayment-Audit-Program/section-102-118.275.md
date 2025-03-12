@@ -1,5 +1,7 @@
 ##### § 102-118.275 What must my agency consider when developing a transportation prepayment audit program? #####
 
+Link to an amendment published at 87 FR 32325, May 31, 2022.
+
 (a) Your agency's transportation prepayment audit program must consider all of the methods that your agency uses to order and pay for passenger, household goods, and freight transportation to include Government contractor-issued charge cards (see § 102-118.35 for definition Government contractor-issued charge cards).
 
 (b) Each method of ordering transportation and transportation services for passenger, household goods, and freight transportation may require a different kind of prepayment audit process. The manner in which your agency orders or procures transportation services determines how and by whom the bill for those services will be presented. Your agency should ensure that each TSP bill or employee travel voucher contains enough information for the prepayment audit to determine which contract or rate tender is used and that the type and quantity of any additional services are clearly delineated.

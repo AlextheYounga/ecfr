@@ -612,7 +612,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (ii) Unlikely to be used in general purpose applications.
 
-*Medium screw base* means an Edison screw base identified with the prefix E-26 in the “American National Standard for Electric Lamp Bases”, ANSI\_IEC C81.61-2003, published by the American National Standards Institute.
+*Medium screw base* means an Edison screw base identified with the prefix E-26 in the “American National Standard for Electric Lamp Bases”, ANSI\_\_IEC C81.61-2003, published by the American National Standards Institute.
 
 *Microwave oven* means a category of cooking products which is a household cooking appliance consisting of a compartment designed to cook or heat food by means of microwave energy, including microwave ovens with or without thermal elements designed for surface browning of food and convection microwave ovens. This includes any microwave oven(s) component of a combined cooking product.
 

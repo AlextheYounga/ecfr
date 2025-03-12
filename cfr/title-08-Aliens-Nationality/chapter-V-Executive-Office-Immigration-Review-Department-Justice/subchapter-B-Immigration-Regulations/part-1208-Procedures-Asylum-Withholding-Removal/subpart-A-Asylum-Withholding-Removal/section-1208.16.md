@@ -1,8 +1,8 @@
 ##### § 1208.16 Withholding of removal under section 241(b)(3)(B) of the Act and withholding of removal under the Convention Against Torture. #####
 
-Link to an amendment published at 87 FR 18222, Mar. 29, 2022.Link to an amendment published at 85 FR 84197, Dec. 23, 2020.This amendment was delayed until Mar. 22, 2021, at 86 FR 6847, Jan. 25, 2021.This amendment was further delayed until Dec. 31, 2021, at 86 FR 15076, Mar. 22, 2021.This amendment was further delayed until Dec. 31, 2022, at 86 FR 73615, Dec. 28, 2021.
+Link to an amendment published at 85 FR 84197, Dec. 23, 2020.This amendment was delayed until Mar. 22, 2021, at 86 FR 6847, Jan. 25, 2021.This amendment was further delayed until Dec. 31, 2021, at 86 FR 15076, Mar. 22, 2021.This amendment was further delayed until Dec. 31, 2022, at 86 FR 73615, Dec. 28, 2021.
 
-(a) *Consideration of application for withholding of removal.* An asylum officer shall not decide whether the exclusion, deportation, or removal of an alien to a country where the alien's life or freedom would be threatened must be withheld, except in the case of an alien who is otherwise eligible for asylum but is precluded from being granted such status due solely to section 207(a)(5) of the Act. In exclusion, deportation, or removal proceedings, an immigration judge may adjudicate both an asylum claim and a request for withholding of removal whether or not asylum is granted.
+(a) *Consideration of application for withholding of removal.* Consideration of eligibility for statutory withholding of removal and protection under the Convention Against Torture by a DHS officer is as provided at 8 CFR 208.16. In exclusion, deportation, or removal proceedings, an immigration judge may adjudicate both an asylum claim and a request for withholding of removal whether or not asylum is granted.
 
 (b) *Eligibility for withholding of removal under section 241(b)(3) of the Act; burden of proof.* The burden of proof is on the applicant for withholding of removal under section 241(b)(3) of the Act to establish that his or her life or freedom would be threatened in the proposed country of removal on account of race, religion, nationality, membership in a particular social group, or political opinion. The testimony of the applicant, if credible, may be sufficient to sustain the burden of proof without corroboration. The evidence shall be evaluated as follows:
 
@@ -58,4 +58,4 @@ Link to an amendment published at 87 FR 18222, Mar. 29, 2022.Link to an amendmen
 
 (f) *Removal to third country.* Nothing in this section or § 1208.17 shall prevent the Service from removing an alien to a third country other than the country to which removal has been withheld or deferred.
 
-[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 65 FR 76135, Dec. 6, 2000; 85 FR 67260, Oct. 21, 2020; 85 FR 80398, Dec. 11, 2020]
+[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 65 FR 76135, Dec. 6, 2000; 85 FR 67260, Oct. 21, 2020; 85 FR 80398, Dec. 11, 2020; 87 FR 18222, Mar. 29, 2022]

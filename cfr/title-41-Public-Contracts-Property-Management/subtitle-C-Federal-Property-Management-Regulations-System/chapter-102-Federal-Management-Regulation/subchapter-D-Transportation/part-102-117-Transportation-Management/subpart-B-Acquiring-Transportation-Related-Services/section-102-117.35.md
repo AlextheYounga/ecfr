@@ -1,5 +1,7 @@
 ##### § 102-117.35 What are the advantages and disadvantages of using GSA's tender of service? #####
 
+Link to an amendment published at 87 FR 32322, May 31, 2022.
+
 (a) It is an advantage to use GSA's tender of service when you want to:
 
 (1) Use GSA's authority to negotiate on behalf of the Federal Government and take advantage of the lower rates and optimum service that result from a larger volume of business;

@@ -1,7 +1,5 @@
 ##### § 660.408 Annual actions. #####
 
-Link to an amendment published at 87 FR 25430, Apr. 29, 2022.
-
 (a) *General.* NMFS will annually establish specifications and management measures or, as necessary, adjust specifications and management measures for the commercial, recreational, and treaty Indian fisheries by publishing the action in the Federal Register under § 660.411. Management of the Pacific Coast salmon fishery will be conducted consistent with the standards and procedures in the Salmon FMP. The Salmon FMP is available from the Regional Administrator or the Council. Specifications and management measures are described in paragraphs (b) through (o) of this section.
 
 (b) *Annual catch limits.* Annual Specifications will include annual catch limits (ACLs) determined consistent with the standards and procedures in the Salmon FMP.
@@ -133,12 +131,12 @@ Link to an amendment published at 87 FR 25430, Apr. 29, 2022.
 
 (4) If adjustable quotas are established for treaty Indian fishing, they may be subject to inseason adjustment because of unanticipated Chinook or coho hooking mortality occurring during the season, catches in treaty Indian fisheries inconsistent with those unanticipated under Federal regulations, or a need to redistribute quotas to ensure attainment of an overall quota.
 
-(m) *Yurok and Hoopa Valley tribal fishing rights.* For purposes of section 303 of the Magnuson Act, the federally reserved fishing rights of the Yurok and Hoopa Valley Indian Tribes as set out in a legal opinion2 dated October 4, 1993, by the Office of the Solicitor, Department of the Interior, are applicable law. Under section 303 of the Magnuson Act, allowable ocean harvest must be consistent with all applicable laws.
+(m) *Yurok and Hoopa Valley tribal fishing rights.* For purposes of section 303 of the Magnuson Act, the federally reserved fishing rights of the Yurok and Hoopa Valley Indian Tribes as set out in a legal opinion2/\> dated October 4, 1993, by the Office of the Solicitor, Department of the Interior, are applicable law. Under section 303 of the Magnuson Act, allowable ocean harvest must be consistent with all applicable laws.
 
-2 Copies of the Solicitor's Opinion are available from the Director, Southwest Region, NMFS.
+2 Copies of the Solicitor's Opinion are available from the West Coast Region, NMFS.
 
 (n) *Inseason notice procedures.* Telephone hotlines and USCG broadcasts will provide actual notice of inseason actions for commercial, recreational, and treaty Indian fishing.
 
 (o) *Reporting requirements.* Reporting requirements for commercial fishing may be imposed to ensure timely and accurate assessment of catches in regulatory areas subject to quota management. Such reports are subject to the limitations described herein. Persons engaged in commercial fishing in a regulatory area subject to quota management and landing their catch in another regulatory area open to fishing may be required to transmit a brief report prior to leaving the first regulatory area. The regulatory areas subject to these reporting requirements, the contents of the reports, and the entities receiving the reports will be specified annually.
 
-[61 FR 34601, July 2, 1996, as amended at 64 FR 26328, May 14, 1999; 66 FR 29241, May 30, 2001; 76 FR 81859, Dec. 29, 2011; 78 FR 10559, Feb. 14, 2013]
+[61 FR 34601, July 2, 1996, as amended at 64 FR 26328, May 14, 1999; 66 FR 29241, May 30, 2001; 76 FR 81859, Dec. 29, 2011; 78 FR 10559, Feb. 14, 2013; 87 FR 25430, Apr. 29, 2022]

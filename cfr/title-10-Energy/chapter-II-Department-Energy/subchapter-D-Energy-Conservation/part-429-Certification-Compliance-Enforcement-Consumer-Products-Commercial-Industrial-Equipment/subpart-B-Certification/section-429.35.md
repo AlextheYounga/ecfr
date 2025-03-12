@@ -20,23 +20,23 @@ Or,
 
 (*2*) The lower 97.5-percent confidence limit (LCL) of the true mean divided by 0.95,
 
-![](/graphics/er29au16.015.gif)Where:x is the sample mean of the characteristic value;*s* is the sample standard deviation;*n* is the number of units in the sample, and*t*0.975 is the t statistic for a 97.5% one-tailed confidence interval with n-1 degrees of freedom (from appendix A of this subpart).
+![](/graphics/er29au16.015.gif)Where:x is the sample mean of the characteristic value;*s* is the sample standard deviation;*n* is the number of units in the sample, and*t*/\>0.975 is the t statistic for a 97.5% one-tailed confidence interval with n-1 degrees of freedom (from appendix A of this subpart).
 
 (B) Represented values of input power, standby mode power, start time or other measure of energy consumption of a basic model for which consumers would favor lower values must be greater than or equal to the higher of:
 
 (*1*) The mean of the sample,
 
-![](/graphics/er29au16.016.gif)Where:*x* is the sample mean,n is the number of units in the sample, andxi is the ith unit;
+![](/graphics/er29au16.016.gif)Where:*x/\>* is the sample mean,n/\> is the number of units in the sample, andx/\>i is the ith unit;
 
 Or,
 
 (*2*) The upper 97.5-percent confidence limit (UCL) of the true mean divided by 1.05,
 
-![](/graphics/er29au16.017.gif)Where:*x* is the sample mean of the characteristic value;s is the sample standard deviation;n is the number of units in the sample, andt0.975 is the t statistic for a 97.5% one-tailed confidence interval with n-1 degrees of freedom (from appendix A of this subpart).
+![](/graphics/er29au16.017.gif)Where:*x/\>* is the sample mean of the characteristic value;s/\> is the sample standard deviation;n/\> is the number of units in the sample, andt/\>0.975 is the t statistic for a 97.5% one-tailed confidence interval with n-1 degrees of freedom (from appendix A of this subpart).
 
 (C) The represented value of CCT must be equal to the mean of the sample,
 
-![](/graphics/er29au16.018.gif)Where:*x* is the sample mean,n is the number of units in the sample, andxi is the ith unit.
+![](/graphics/er29au16.018.gif)Where:*x/\>* is the sample mean,n/\> is the number of units in the sample, andx/\>i is the ith unit.
 
 (D) The represented value of lifetime must be equal to or less than the median time to failure of the sample (calculated as the arithmetic mean of the time to failure of the two middle sample units when the numbers are sorted in value order).
 
