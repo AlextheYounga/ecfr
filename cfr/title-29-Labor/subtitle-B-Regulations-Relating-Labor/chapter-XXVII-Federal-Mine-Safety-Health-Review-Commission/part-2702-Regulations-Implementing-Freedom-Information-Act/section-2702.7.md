@@ -1,23 +1,17 @@
-##### § 2702.7 No fees; waiver or reduction of fees. #####
+##### § 2702.7 Materials available. #####
 
-(a) No fees shall be charged to any requester, including commercial use requesters, if the anticipated cost of processing and collecting the fee would be equal or greater than the fee itself. Accordingly, the Commission has determined that fees of less than $20 shall be waived.
+(a) *Records.* Except for records and information under seal or exempted from disclosure, all records of the Commission or in its custody are available to any person who requests them in accordance with § 2702.3. Records include any information that would be a record subject to the requirements of 5 U.S.C. 552 when maintained by the Commission in any format, including electronic format. In response to FOIA requests, the Commission will search for records manually or by automated means, except when an automated search would significantly interfere with the operation of the Commission's automated information system.
 
-(b) Documents shall be furnished without any charge, or at a charge reduced below the fees otherwise applicable, if disclosure of the information is determined to be in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and is not primarily in the commercial interest of the requester.
+(b) *FOIA e-reading room.* Materials created on or after November 1, 1996, under this paragraph (b) may be accessed electronically through the Commission's website at *https://www.fmshrc.gov/foia/e-reading-room.* Materials available include, but are not limited to:
 
-(1) The following six factors will be employed in determining when such fees shall be waived or reduced:
+(1) Final opinions, including concurring and dissenting opinions, as well as orders, made in the adjudication of cases;
 
-(i) The subject of the request: Whether the subject of the requested records concerns “the operations or activities of the government”;
+(2) Those statements of policy and interpretations which have been adopted by the agency and are not published in the Federal Register;
 
-(ii) The informative value of the information to be disclosed: Whether the disclosure is “likely to contribute” to an understanding of government operations or activities;
+(3) Administrative staff manuals and instructions to staff that affect a member of the public;
 
-(iii) The contribution to an understanding of the subject by the general public likely to result from disclosure: Whether disclosure of the requested information will contribute to “public understanding”;
+(4) Copies of all records, regardless of form or format, which have been released to any person under this part and which, because of the nature of their subject matter, the Commission has determined have become or are likely to become the subject of subsequent requests for substantially the same records; and
 
-(iv) The significance of contribution to public understanding: Whether the disclosure is likely to contribute “significantly” to public understanding of government operations or activities;
+(5) A general index of records referred to under this paragraph (b).
 
-(v) The existence and magnitude of a commercial interest: Whether the requester has a commercial interest that would be furthered by the requested disclosure; and, if so
-
-(vi) The primary interest in disclosure: Whether the magnitude of the identified commercial interest of the requester is sufficiently large, in comparison with the public interest in disclosure, that disclosure is “primarily in the commercial interest of the requester.”
-
-(2) The Chief FOIA Officer, upon request, shall determine whether a waiver or reduction of fees is warranted. Requests shall be made concurrently with requests for information under § 2702.3. In accordance with the procedures set forth in § 2702.3, appeals of adverse decisions may be made to the Commission within 5 working days. Determination of appeals will be made by the Commission within 10 working days of receipt.
-
-[54 FR 3022, Jan. 23, 1989, as amended at 62 FR 55336, Oct. 24, 1997; 72 FR 71791, Dec. 19, 2007]
+(c) *FOIA in-office review.* Materials are also available for inspection and copying at the Commission's headquarters located at 1331 Pennsylvania Avenue NW, Suite 520N, Washington, DC 20004-1710.

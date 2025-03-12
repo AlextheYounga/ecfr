@@ -38,7 +38,7 @@ License Exception TSU under § 740.13 of the EAR is available for the ECCNs cont
 
 (ii) Could be destined for the design, development, production, or use of missiles, or for a facility engaged in such activities.
 
-(5) License applications for items described in paragraph (a) of this section, when destined for the People's Republic of China, will be reviewed in accordance with the licensing policies in both paragraph (b) of this section and § 742.4(b)(7). When such items are destined to Russia, license applications will be reviewed under a presumption of denial. However, exports and reexports of items to Russia in support of U.S.-Russia civil space cooperation activities or commercial space launches will be reviewed on a case-by-case basis.
+(5) License applications for items described in paragraph (a) of this section, when destined for the People's Republic of China, will be reviewed in accordance with the licensing policies in both paragraph (b) of this section and § 742.4(b)(7). When such items are destined to Russia, license applications will be reviewed under a policy of denial. However, exports and reexports of items to Russia in support of U.S.-Russia civil space cooperation activities will be reviewed on a case-by-case basis. See § 746.8(b).
 
 (c) *Contract sanctity.* The following contract sanctity dates have been established:
 
@@ -50,4 +50,4 @@ License Exception TSU under § 740.13 of the EAR is available for the ECCNs cont
 
 (d) *Missile Technology Control Regime.* Missile Technology Control Regime (MTCR) members are listed in Country Group A:2 (see supplement no. 1 to part 740 of the EAR). Controls on items identified in paragraph (a) of this section are consistent with the list agreed to in the MTCR and included in the MTCR Annex.
 
-[61 FR 12786, Mar. 25, 1996, as amended at 68 FR 16147, Apr. 2, 2003; 69 FR 46075, July 30, 2004; 72 FR 33656, June 19, 2007; 76 FR 4231, Jan. 25, 2011; 81 FR 19030, Apr. 4, 2016; 81 FR 76861, Nov. 4, 2016; 82 FR 31446, July 7, 2017; 85 FR 10277, Feb. 24, 2020; 86 FR 2254, Jan. 12, 2021]
+[61 FR 12786, Mar. 25, 1996, as amended at 68 FR 16147, Apr. 2, 2003; 69 FR 46075, July 30, 2004; 72 FR 33656, June 19, 2007; 76 FR 4231, Jan. 25, 2011; 81 FR 19030, Apr. 4, 2016; 81 FR 76861, Nov. 4, 2016; 82 FR 31446, July 7, 2017; 85 FR 10277, Feb. 24, 2020; 86 FR 2254, Jan. 12, 2021; 87 FR 12239, Mar. 3, 2022]

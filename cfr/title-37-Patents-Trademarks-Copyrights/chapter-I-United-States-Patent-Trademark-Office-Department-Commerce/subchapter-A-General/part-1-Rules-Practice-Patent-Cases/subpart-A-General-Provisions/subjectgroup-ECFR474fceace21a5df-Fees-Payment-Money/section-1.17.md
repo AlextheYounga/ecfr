@@ -129,17 +129,7 @@ Table 12 to Paragraph (h)
 |    By a small entity (§ 1.27(a))    |70.00 |
 |By other than a small or micro entity|140.00|
 
-§ 1.84 - for accepting color drawings or photographs.
-
-§ 1.91 - for entry of a model or exhibit.
-
-§ 1.102(d) - to make an application special.
-
-§ 1.138(c) - to expressly abandon an application to avoid publication.
-
-§ 1.313 - to withdraw an application from issue.
-
-§ 1.314 - to defer issuance of a patent.
+§ 1.84 - for accepting color drawings or photographs.§ 1.91 - for entry of a model or exhibit.§ 1.102(d) - to make an application special.§ 1.138(c) - to expressly abandon an application to avoid publication.§ 1.313 - to withdraw an application from issue.§ 1.314 - to defer issuance of a patent.
 
 (i) *Processing fees.* (1) For taking action under one of the following sections that refers to this paragraph (i)(1):
 
@@ -150,31 +140,7 @@ Table 13 to Paragraph (i)(1)
 |    By a small entity (§ 1.27(a))    |70.00 |
 |By other than a small or micro entity|140.00|
 
-§ 1.28(c)(3) - for processing a non-itemized fee deficiency based on an error in small entity status.
-
-§ 1.29(k)(3) - for processing a non-itemized fee deficiency based on an error in micro entity status.
-
-§ 1.41(b) - for supplying the name or names of the inventor or joint inventors in an application without either an application data sheet or the inventor's oath or declaration, except in provisional applications.
-
-§ 1.48 - for correcting inventorship, except in provisional applications.
-
-§ 1.52(d) - for processing a nonprovisional application filed with a specification in a language other than English.
-
-§ 1.53(c)(3) - t convert a provisional application filed under § 1.53(c) into a nonprovisional application under § 1.53(b).
-
-§ 1.71(g)(2) - for processing a belated amendment under § 1.71(g).
-
-§ 1.102(e) - for requesting prioritized examination of an application.
-
-§ 1.103(b) - for requesting limited suspension of action, continued prosecution application for a design patent (§ 1.53(d)).
-
-§ 1.103(c) - for requesting limited suspension of action, request for continued examination (§ 1.114).
-
-§ 1.103(d) - for requesting deferred examination of an application.
-
-§ 1.291(c)(5) - for processing a second or subsequent protest by the same real party in interest.
-
-§ 3.81 - for a patent to issue to assignee, assignment submitted after payment of the issue fee.
+§ 1.28(c)(3) - for processing a non-itemized fee deficiency based on an error in small entity status.§ 1.29(k)(3) - for processing a non-itemized fee deficiency based on an error in micro entity status.§ 1.41(b) - for supplying the name or names of the inventor or joint inventors in an application without either an application data sheet or the inventor's oath or declaration, except in provisional applications.§ 1.48 - for correcting inventorship, except in provisional applications.§ 1.52(d) - for processing a nonprovisional application filed with a specification in a language other than English.§ 1.53(c)(3) - t convert a provisional application filed under § 1.53(c) into a nonprovisional application under § 1.53(b).§ 1.71(g)(2) - for processing a belated amendment under § 1.71(g).§ 1.102(e) - for requesting prioritized examination of an application.§ 1.103(b) - for requesting limited suspension of action, continued prosecution application for a design patent (§ 1.53(d)).§ 1.103(c) - for requesting limited suspension of action, request for continued examination (§ 1.114).§ 1.103(d) - for requesting deferred examination of an application.§ 1.291(c)(5) - for processing a second or subsequent protest by the same real party in interest.§ 3.81 - for a patent to issue to assignee, assignment submitted after payment of the issue fee.
 
 (2) For taking action under one of the following sections that refers to this paragraph (i)(2):
 

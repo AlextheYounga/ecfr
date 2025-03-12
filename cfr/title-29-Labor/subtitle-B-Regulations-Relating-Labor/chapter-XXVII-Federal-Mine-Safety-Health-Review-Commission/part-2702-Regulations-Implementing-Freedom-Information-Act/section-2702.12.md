@@ -1,0 +1,3 @@
+##### § 2702.12 Preservation of records. #####
+
+Pursuant to title 44 of the United States Code or the General Records Schedule 4.2 of the National Archives and Records Administration, the Commission preserves all correspondence pertaining to requests received under this part, as well as copies of all requested records for 6 years following final agency action or 3 years after final adjudication by the courts, whichever is later. The Commission will not dispose of or destroy records while they are the subject of a pending request, appeal, or lawsuit under the FOIA.

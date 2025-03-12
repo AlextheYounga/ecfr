@@ -1,8 +1,6 @@
 ##### § 7.32 Pictured Rocks National Lakeshore. #####
 
-Link to an amendment published at 87 FR 5405, Feb. 1, 2022.
-
-(a) *Snowmobiles.* (1) Snowmobile use is permitted on designated portions of roadways and lakes in Pictured Rocks National Lakeshore. The designated routes for snowmobiles will be confined to the frozen waters of Lake Superior, Grand Sable Lake, on the major lakeshore visitor use roads that are unplowed, or on road shoulders of plowed park roads in conformance with State law. The designated snowmobile routes are:
+(a) *Snowmobiles.* (1) Snowmobiles are allowed on the following routes and water surfaces within Pictured Rocks National Lakeshore:
 
 (i) The Sand Point Road from the park boundary to Lake Superior.
 
@@ -12,21 +10,35 @@ Link to an amendment published at 87 FR 5405, Feb. 1, 2022.
 
 (iv) The road from the park boundary in section 32, T48N, R17W, to the end of the road to Chapel Falls.
 
-(v) The road from Country Road H-58 at the park boundary to the Little Beaver Lake Campground.
+(v) The road from County Road H-58 at the park boundary to the Little Beaver Lake Campground.
 
 (vi) The road from County Road H-58 to the Twelvemile Beach Campground.
 
 (vii) The road from County Road H-58 to the Hurricane River Campground.
 
-(viii) The road from County road H-58 to the Log Slide.
+(viii) The road from County Road H-58 to the Log Slide parking area.
 
-(ix) The section of Michigan Dimension Road from the park boundary to the Log Slide.
+(ix) The section of Michigan Dimension Road from the park boundary to the Log Slide parking area.
 
-(x) The frozen waters of Lake Superior and Grand Sable Lake.
+(x) The South Grand Sable Lake Road, starting at Towes Creek (T49N, R14W, Sections 14 and 23), heading south in and out of the fee zone area.
+
+(xi) Portions of County Road H-58 that are within park boundaries between Twelvemile Beach and Log Slide scenic overlook (T49N, R15W, Sections 9, 10, 11, 13, 14, and 16 and T49, 14W, Section 18).
+
+(xii) Portions of County Road H-58 that are within park boundaries between Log Slide Scenic Overlook and the Grand Sable Visitor Center (T49N, R14W, Sections 10, 11, 15, 16, and 17).
+
+(xiii) County Road H-58 between Grand Sable Visitor Center to the eastern extent of the park boundary (T49N, R14W, Sections 1, 11, and 12).
+
+(xiv) Portions of Lowder Road that are within park boundaries from M77 to Grand Sable Lake Boat Ramp (T48N, R16W, Sections 21 and 29).
+
+(xv) Portions of Beaver Basin Overlook Road from County Road H-58 to the Beaver Basin Overlook (T49N, R14W, Sections 11, and 12).
+
+(xvi) The frozen water surfaces of Lake Superior and Grand Sable Lake.
 
 (2) Maps showing designated routes shall be available at park headquarters and at ranger stations.
 
-(3) Snowmobile use outside designated routes is prohibited. The prohibition shall not apply to emergency administrative travel by employees of the National Park Service or law enforcement agencies.
+(3) Snowmobile use outside designated routes and frozen water surfaces is prohibited. Snowmobiles are restricted to the road shoulders of routes that are plowed. The prohibitions in this paragraph do not apply to emergency administrative travel by employees of the National Park Service or law enforcement agencies.
+
+(4) The Superintendent may open or close these routes and water surfaces, or portions thereof, to snowmobile travel after taking into consideration the location of wintering wildlife, appropriate snow cover, public safety, and other factors. The Superintendent will provide notice of such opening or closing by one or more of the methods listed in § 1.7(a) of this chapter.
 
 (b) *Fishing.* Unless otherwise designated, fishing in a manner authorized under applicable State law is allowed.
 
@@ -58,4 +70,4 @@ Link to an amendment published at 87 FR 5405, Feb. 1, 2022.
 
 (4) The Superintendent may temporarily limit, restrict, or terminate access to the areas designated for PWC use after taking into consideration public health and safety, natural and cultural resource protection, and other management activities and objectives.
 
-[47 FR 54932, Dec. 7, 1982, as amended at 49 FR 18450, Apr. 30, 1984; 60 FR 47703, Sept. 14, 1995; 70 FR 61905, Oct. 27, 2005]
+[47 FR 54932, Dec. 7, 1982, as amended at 49 FR 18450, Apr. 30, 1984; 60 FR 47703, Sept. 14, 1995; 70 FR 61905, Oct. 27, 2005; 87 FR 5405, Feb. 1, 2022]
