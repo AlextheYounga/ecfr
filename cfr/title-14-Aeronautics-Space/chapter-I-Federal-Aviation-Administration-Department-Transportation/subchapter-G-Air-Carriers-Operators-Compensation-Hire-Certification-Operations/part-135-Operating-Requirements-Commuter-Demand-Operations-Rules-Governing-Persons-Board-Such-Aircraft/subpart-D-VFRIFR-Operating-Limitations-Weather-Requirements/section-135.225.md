@@ -1,6 +1,6 @@
 ##### § 135.225 IFR: Takeoff, approach and landing minimums. #####
 
-Link to an amendment published at 81 FR 90177, Dec. 13, 2016.This amendment was delayed until Mar. 21, 2017 at 82 FR 9677, Feb. 8, 2017.
+Link to an amendment published at 81 FR 90177, Dec. 13, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 9677, Feb. 8, 2017.
 
 (a) Except to the extent permitted by paragraph (b) of this section, no pilot may begin an instrument approach procedure to an airport unless -
 

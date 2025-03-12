@@ -1,6 +1,6 @@
 ##### § 125.381 Takeoff and landing weather minimums: IFR. #####
 
-Link to an amendment published at 81 FR 90177, Dec. 13, 2016.This amendment was delayed until Mar. 21, 2017 at 82 FR 9677, Feb. 8, 2017.
+Link to an amendment published at 81 FR 90177, Dec. 13, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 9677, Feb. 8, 2017.
 
 (a) Regardless of any clearance from ATC, if the reported weather conditions are less than that specified in the certificate holder's operations specifications, no pilot may -
 

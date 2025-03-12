@@ -1,6 +1,6 @@
 ##### § 61.57 Recent flight experience: Pilot in command. #####
 
-Link to an amendment published at 81 FR 90170, Dec. 13, 2016.This amendment was delayed until Mar. 21, 2017 at 82 FR 9677, Feb. 8, 2017.
+Link to an amendment published at 81 FR 90170, Dec. 13, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 9677, Feb. 8, 2017.
 
 (a) *General experience.* (1) Except as provided in paragraph (e) of this section, no person may act as a pilot in command of an aircraft carrying passengers or of an aircraft certificated for more than one pilot flight crewmember unless that person has made at least three takeoffs and three landings within the preceding 90 days, and -
 

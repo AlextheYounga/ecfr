@@ -1,6 +1,6 @@
 ##### § 91.1065 Initial and recurrent pilot testing requirements. #####
 
-Link to an amendment published at 81 FR 90175, Dec. 13, 2016.This amendment was delayed until Mar. 21, 2017 at 82 FR 9677, Feb. 8, 2017.
+Link to an amendment published at 81 FR 90175, Dec. 13, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 9677, Feb. 8, 2017.
 
 (a) No program manager or owner may use a pilot, nor may any person serve as a pilot, unless, since the beginning of the 12th month before that service, that pilot has passed either a written or oral test (or a combination), given by the Administrator or an authorized check pilot, on that pilot's knowledge in the following areas -
 

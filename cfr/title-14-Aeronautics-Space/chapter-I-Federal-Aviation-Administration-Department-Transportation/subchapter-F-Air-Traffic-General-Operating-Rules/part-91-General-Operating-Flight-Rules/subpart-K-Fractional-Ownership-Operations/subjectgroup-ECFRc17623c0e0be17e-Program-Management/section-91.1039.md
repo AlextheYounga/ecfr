@@ -1,6 +1,6 @@
 ##### § 91.1039 IFR takeoff, approach and landing minimums. #####
 
-Link to an amendment published at 81 FR 90175, Dec. 13, 2016.This amendment was delayed until Mar. 21, 2017 at 82 FR 9677, Feb. 8, 2017.
+Link to an amendment published at 81 FR 90175, Dec. 13, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 9677, Feb. 8, 2017.
 
 (a) No pilot on a program aircraft operating a program flight may begin an instrument approach procedure to an airport unless -
 
