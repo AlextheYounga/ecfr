@@ -542,4 +542,4 @@
 
 (2) UN ST/SG/AC.10/Rev.4, The UN Recommendations on the Transport of Dangerous Goods, Manual of Tests and Criteria, Fourth Revised Edition, 2003, IBR approved for appendix B to § 1910.1200.
 
-[39 FR 23502, June 27, 1974]Editorial Note:For Federal Register citations affecting § 1910.6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[39 FR 23502, June 27, 1974]Editorial Note:For Federal Register citations affecting § 1910.6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
