@@ -14,7 +14,7 @@
 
 (c) *Intermediate rate.* The intermediate interest rate will not exceed 7 percent per annum. For a loan for a specific project that has been approved, but not closed on or before May 22, 2008, the intermediate rate is the poverty rate plus one-half of the difference between the poverty rate and the market rate, not to exceed 7 percent per annum. Loans approved on or after May 23, 2008, will have the intermediate interest rate set at 80 percent of the market rate. The intermediate interest rate will apply to loans that do not meet the requirements for the poverty rate and for which the median household income of the service area is not more than 100 percent of the nonmetropolitan median household income of the State.
 
-(d) *Market rate.* The market interest rate will be set using as guidance the average of the Bond Buyer (11-GO Bond) Index for the four weeks prior to the first Friday of the last month before the beginning of the quarter. The market rate will apply to all loans that do not qualify for a different rate under paragraph (b) or (c) of this section.
+(d) *Market rate.* The market interest rate will be set using as guidance the average of the Bond Buyer Index (available in any Agency office or the program's Web site) for the four weeks prior to the first Friday of the last month before the beginning of the quarter. The market rate will apply to all loans that do not qualify for a different rate under paragraph (b) or (c) of this section.
 
 (e) *Repayment terms.* The loan repayment period shall not exceed the useful life of the facility, State statute or 40 years from the date of the note or bond, whichever is less. Where RUS grant funds are used in connection with an RUS loan, the loan will be for the maximum term permitted by this part, State statute, or the useful life of the facility, whichever is less, unless there is an exceptional case where circumstances justify making an RUS loan for less than the maximum term permitted. In such cases, the reasons must be fully documented.
 
@@ -34,4 +34,4 @@
 
 (3) In all cases, including those in which RUS is jointly financing with another lender, the RUS payments of principal and interest should approximate amortized installments.
 
-[62 FR 33478, June 19, 1997, as amended at 74 FR 395, Jan. 6, 2009]
+[62 FR 33478, June 19, 1997, as amended at 74 FR 395, Jan. 6, 2009; 82 FR 43671, Sept. 19, 2017]

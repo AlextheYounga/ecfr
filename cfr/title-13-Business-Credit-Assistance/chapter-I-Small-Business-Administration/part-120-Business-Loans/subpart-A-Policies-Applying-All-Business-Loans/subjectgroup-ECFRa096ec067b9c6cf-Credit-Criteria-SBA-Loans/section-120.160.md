@@ -2,7 +2,7 @@
 
 The following requirements are normally required by SBA for all business loans:
 
-(a) *Personal guarantees.* Holders of at least a 20 percent ownership interest generally must guarantee the loan.
+(a) *Personal guarantees.* Holders of at least a 20 percent ownership interest generally must guarantee the loan. When deemed necessary for credit or other reasons, SBA or, for a loan processed under an SBA Lender's delegated authority, the SBA Lender, may require other appropriate individuals or entities to provide full or limited guarantees of the loan without regard to the percentage of their ownership interests, if any.
 
 (b) *Appraisals.* SBA may require professional appraisals of the applicant's and principals' assets, a survey, or a feasibility study.
 

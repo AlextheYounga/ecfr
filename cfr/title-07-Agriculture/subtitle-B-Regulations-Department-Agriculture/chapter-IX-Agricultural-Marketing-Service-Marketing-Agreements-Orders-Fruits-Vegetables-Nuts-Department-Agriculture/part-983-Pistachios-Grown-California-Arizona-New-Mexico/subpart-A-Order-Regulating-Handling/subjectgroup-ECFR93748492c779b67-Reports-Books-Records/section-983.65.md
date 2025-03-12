@@ -1,0 +1,5 @@
+##### § 983.65 Confidential information. #####
+
+All reports and records furnished or submitted by handlers to the committee which include confidential data or information constituting a trade secret or disclosing the trade position, financial condition, or business operations of the particular handler or their customers shall be received by, and at all times kept in the custody and under the control of, one or more employees of the committee, who shall disclose such data and information to no person except the Secretary. However, such data or information may be disclosed only with the approval of the Secretary, to the committee when reasonably necessary to enable the committee to carry out its functions under this part.
+
+[69 FR 17850, Apr. 4, 2004. Redesignated at 74 FR 56541, Nov. 2, 2009]

@@ -1,6 +1,6 @@
 ##### § 682.405 Loan rehabilitation agreement. #####
 
-Link to an amendment published at 81 FR 76080, Nov. 1, 2016.This amendment was, in part, delayed indefinitely at 82 FR 27621, June 16, 2017.
+Link to an amendment published at 81 FR 76080, Nov. 1, 2016.This amendment was, in part, delayed indefinitely at 82 FR 27621, June 16, 2017.This amendment was delayed until July 1, 2018, at 82 FR 49114, Oct. 24, 2017.This amendment was delayed until July 1, 2019, at 83 FR 6459, Feb. 14, 2018.
 
 (a) *General.* (1) A guaranty agency that has a basic program agreement must enter into a loan rehabilitation agreement with the Secretary. The guaranty agency must establish a loan rehabilitation program for all borrowers with an enforceable promissory note for the purpose of rehabilitating defaulted loans, except for loans for which a judgment has been obtained, loans on which a default claim was filed under § 682.412, and loans on which the borrower has been convicted of, or has pled nolo contendere or guilty to, a crime involving fraud in obtaining title IV, HEA program assistance, so that the loan may be purchased, if practicable, by an eligible lender and removed from default status.
 
@@ -126,4 +126,4 @@ Link to an amendment published at 81 FR 76080, Nov. 1, 2016.This amendment was, 
 
 (2) After the successful completion of the loan rehabilitation period, financial and economic education materials, including debt management information.
 
-(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1078-6)[59 FR 33355, June 28, 1994, as amended at 60 FR 30788, June 12, 1995; 64 FR 18980, Apr. 16, 1999; 64 FR 58965, Nov. 1, 1999; 66 FR 34764, June 29, 2001; 67 FR 67080, Nov. 1, 2002; 68 FR 75429, Dec. 31, 2003; 71 FR 45707, Aug. 9, 2006; 71 FR 64398, Nov. 1, 2006; 73 FR 63254, Oct. 23, 2008; 74 FR 56000, Oct. 29, 2009; 78 FR 65815, Nov. 1, 2013; 80 FR 67237, Oct. 30, 2015; 81 FR 76080, Nov. 1, 2016]
+(Authority: 20 U.S.C. 1078-6)(Approved by the Office of Management and Budget under control number 1845-0020)[59 FR 33355, June 28, 1994, as amended at 60 FR 30788, June 12, 1995; 64 FR 18980, Apr. 16, 1999; 64 FR 58965, Nov. 1, 1999; 66 FR 34764, June 29, 2001; 67 FR 67080, Nov. 1, 2002; 68 FR 75429, Dec. 31, 2003; 71 FR 45707, Aug. 9, 2006; 71 FR 64398, Nov. 1, 2006; 73 FR 63254, Oct. 23, 2008; 74 FR 56000, Oct. 29, 2009; 78 FR 65815, Nov. 1, 2013; 80 FR 67237, Oct. 30, 2015; 81 FR 76080, Nov. 1, 2016]

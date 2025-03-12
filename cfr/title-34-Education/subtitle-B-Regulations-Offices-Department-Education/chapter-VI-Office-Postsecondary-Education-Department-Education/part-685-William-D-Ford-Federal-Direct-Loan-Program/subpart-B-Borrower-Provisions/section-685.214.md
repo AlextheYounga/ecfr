@@ -1,6 +1,6 @@
 ##### § 685.214 Closed school discharge. #####
 
-Link to an amendment published at 81 FR 76081, Nov. 1, 2016.This amendment was delayed indefinitely at 82 FR 27621, June 16, 2017.
+Link to an amendment published at 81 FR 76081, Nov. 1, 2016.This amendment was delayed indefinitely at 82 FR 27621, June 16, 2017.This amendment was delayed until July 1, 2018, at 82 FR 49114, Oct. 24, 2017.This amendment was delayed until July 1, 2019, at 83 FR 6459, Feb. 14, 2018.
 
 (a) *General.* (1) The Secretary discharges the borrower's (and any endorser's) obligation to repay a Direct Loan in accordance with the provisions of this section if the borrower (or the student on whose behalf a parent borrowed) did not complete the program of study for which the loan was made because the school at which the borrower (or student) was enrolled closed, as described in paragraph (c) of this section.
 

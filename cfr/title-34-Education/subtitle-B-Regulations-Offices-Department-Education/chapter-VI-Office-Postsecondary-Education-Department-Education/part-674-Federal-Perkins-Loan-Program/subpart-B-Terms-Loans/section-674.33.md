@@ -1,6 +1,6 @@
 ##### § 674.33 Repayment. #####
 
-Link to an amendment published at 81 FR 76078, Nov. 1, 2016.This amendment was delayed until further notice at 82 FR 27621, June 16, 2017.
+Link to an amendment published at 81 FR 76078, Nov. 1, 2016.This amendment was delayed until further notice at 82 FR 27621, June 16, 2017.This amendment was further delayed until July 1, 2018 at 82 FR 49114, Oct. 24, 2017.
 
 (a) *Repayment Plan.* (1) The institution shall establish a repayment plan before the student ceases to be at least a half-time regular student.
 

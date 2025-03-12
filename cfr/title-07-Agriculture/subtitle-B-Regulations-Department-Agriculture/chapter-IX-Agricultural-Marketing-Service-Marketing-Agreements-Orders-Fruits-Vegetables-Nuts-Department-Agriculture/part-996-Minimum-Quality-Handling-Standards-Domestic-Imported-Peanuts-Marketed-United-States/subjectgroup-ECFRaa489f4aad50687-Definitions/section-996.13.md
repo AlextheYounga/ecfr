@@ -1,5 +1,7 @@
 ##### § 996.13 Peanuts. #####
 
+Link to an amendment published at 82 FR 48758, Oct. 20, 2017.
+
 *Peanuts* means the seeds of the legume *Arachis hypogaea* and includes both inshell and shelled peanuts produced in the United States or imported from foreign countries and intended for further processing prior to consumption by humans or animals, other than those intended for wildlife or those in green form for consumption as boiled peanuts.
 
 (a) *Farmers Stock.* “Farmers stock peanuts” means picked and threshed peanuts which have not been shelled, crushed, cleaned or otherwise changed (except for removal of foreign material, loose shelled kernels, and excess moisture) from the form in which customarily marketed by producers.
