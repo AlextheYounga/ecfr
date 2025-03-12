@@ -18,9 +18,7 @@
 
 (B) In any subsequent fiscal year the loan type recovery rate standard for a loan program must be 90 percent of the average recovery rate of all active guaranty agencies.
 
-(iii) *Non-achievement of loan type recovery rate standards.*
-
-(A) Unless the Secretary determines under paragraph (a)(2)(iv) of this section that protection of the Federal fiscal interest requires that a lesser amount be assigned, upon notice from the Secretary, an agency with a fiscal year loan type recovery rate described in paragraph (a)(2)(ii) of this section must promptly assign to the Secretary a sufficient amount of defaulted loans, in addition to loans to be assigned in accordance with paragraph (a)(1) of this section, to cause the fiscal year loan type recovery rate of the agency that fiscal year to equal or exceed the average rate of all agencies described in paragraph (a)(2)(ii) of this section when recalculated to exclude from the denominator of the agency's fiscal year loan type recovery rate the amount of these additional loans.
+(iii) *Non-achievement of loan type recovery rate standards.*(A) Unless the Secretary determines under paragraph (a)(2)(iv) of this section that protection of the Federal fiscal interest requires that a lesser amount be assigned, upon notice from the Secretary, an agency with a fiscal year loan type recovery rate described in paragraph (a)(2)(ii) of this section must promptly assign to the Secretary a sufficient amount of defaulted loans, in addition to loans to be assigned in accordance with paragraph (a)(1) of this section, to cause the fiscal year loan type recovery rate of the agency that fiscal year to equal or exceed the average rate of all agencies described in paragraph (a)(2)(ii) of this section when recalculated to exclude from the denominator of the agency's fiscal year loan type recovery rate the amount of these additional loans.
 
 (B) The Secretary, in consultation with the guaranty agency, may require the amount of loans to be assigned under paragraph (a)(2) of this section to include particular categories of loans that share characteristics that make the performance of the agency fall below the appropriate percentage of the loan type recovery rate as described in paragraph (a)(2)(ii) of this section.
 
@@ -58,7 +56,7 @@
 
 (2) The guaranty agency must execute an assignment to the United States of America of all right, title, and interest in the promissory note or judgment evidencing a loan assigned under this section. If more than one loan is made under an MPN, the assignment of the note only applies to the loan or loans being assigned to the Secretary.
 
-(3) If the agency does not provide the required information and documentation in the form and format required by the Secretary, the Secretary may, at his option -
+(3) If the agency does not provide the required information and documentation in the form and format required by the Secretary, the Secretary may, at his option—
 
 (i) Allow the agency to revise the agency's submission to include the required information and documentation in the specified form and format;
 

@@ -74,6 +74,8 @@
 
 (f) *Discharge procedures.* The discharge procedures in this paragraph (f) apply to loans first disbursed before July 1, 2020.
 
+(1) After confirming the date of a school's closure, the Secretary identifies any Direct Loan borrower (or student on whose behalf a parent borrowed) who appears to have been enrolled at the school on the school closure date or to have withdrawn not more than 120 days prior to the closure date.
+
 (2) If the borrower's current address is known, the Secretary mails the borrower a discharge application and an explanation of the qualifications and procedures for obtaining a discharge. The Secretary also promptly suspends any efforts to collect from the borrower on any affected loan. The Secretary may continue to receive borrower payments.
 
 (3) If the borrower's current address is unknown, the Secretary attempts to locate the borrower and determines the borrower's potential eligibility for a discharge under this section by consulting with representatives of the closed school, the school's licensing agency, the school's accrediting agency, and other appropriate parties. If the Secretary learns the new address of a borrower, the Secretary mails to the borrower a discharge application and explanation and suspends collection, as described in paragraph (f)(2) of this section.

@@ -60,7 +60,7 @@ If a conflict exists among the policy provisions, the order of priority is as fo
 
 (i) On or before the acreage reporting date, you may elect to insure:
 
-(A) All types in which elected an enterprise unit for meeting the requirements in section 34(a)(4) as separate enterprise units, and basic or optional units for any acreage that is not reported and insured as an enterprise unit, whichever you report on your acreage report and for which you qualify;
+(A) All types in which you elected an enterprise unit for meeting the requirements in section 34(a)(4) as separate enterprise units, and basic or optional units for any acreage that is not reported and insured as an enterprise unit, whichever you report on your acreage report and for which you qualify;
 
 (B) One enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4); or
 
@@ -321,4 +321,4 @@ In accordance with the requirements of section 14 of the Basic Provisions (§ 45
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional levels of coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
-[62 FR 6105, Feb. 11, 1997, as amended at 62 FR 63633, Dec. 2, 1997; 62 FR 65175, Dec. 10, 1997; 67 FR 55690, Aug. 30, 2002; 81 FR 84400, Nov. 23, 2016]
+[62 FR 6105, Feb. 11, 1997, as amended at 62 FR 63633, Dec. 2, 1997; 62 FR 65175, Dec. 10, 1997; 67 FR 55690, Aug. 30, 2002; 81 FR 84400, Nov. 23, 2016; 86 FR 45855, Aug. 17, 2021]

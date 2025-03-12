@@ -1,7 +1,5 @@
 ##### § 922.44 Emergency regulations. #####
 
-Link to an amendment published at 86 FR 32752, June 23, 2021.
-
 (a) Where necessary to prevent or minimize the destruction of, loss of, or injury to a Sanctuary resource or quality, or minimize the imminent risk of such destruction, loss, or injury, any and all such activities are subject to immediate temporary regulation, including prohibition.
 
 (b) The provisions of this section do not apply to the following national marine sanctuaries with site-specific regulations that establish procedures for issuing emergency regulations:
@@ -16,6 +14,6 @@ Link to an amendment published at 86 FR 32752, June 23, 2021.
 
 (5) Mallows Bay-Potomac River National Marine Sanctuary, § 922.204.
 
-(6) [Reserved]
+(6) Wisconsin Shipwreck Coast National Marine Sanctuary, § 922.214.
 
-[84 FR 32601, July 8, 2019]
+[86 FR 32752, June 23, 2021]

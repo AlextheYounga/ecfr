@@ -36,6 +36,18 @@ For purposes of Regulation SCI (§§ 242.1000 through 242.1007), the following d
 
 *Responsible SCI personnel* means, for a particular SCI system or indirect SCI system impacted by an SCI event, such senior manager(s) of the SCI entity having responsibility for such system, and their designee(s).
 
+*SCI alternative trading system* or *SCI ATS* means an alternative trading system, as defined in § 242.300(a), which during at least four of the preceding six calendar months:
+
+(1) Had with respect to NMS stocks:
+
+(i) Five percent (5%) or more in any single NMS stock, and one-quarter percent (0.25%) or more in all NMS stocks, of the average daily dollar volume reported by applicable transaction reporting plans; or
+
+(ii) One percent (1%) or more in all NMS stocks of the average daily dollar volume reported by applicable transaction reporting plans; or
+
+(2) Had with respect to equity securities that are not NMS stocks and for which transactions are reported to a self-regulatory organization, five percent (5%) or more of the average daily dollar volume as calculated by the self-regulatory organization to which such transactions are reported;
+
+(3) Provided, however, that such SCI ATS shall not be required to comply with the requirements of Regulation SCI until six months after satisfying any of paragraphs (1) or (2) of this definition, as applicable, for the first time.
+
 *SCI competing consolidator* means:
 
 (1) Any competing consolidator, as defined in § 242.600, which, during at least four of the preceding six calendar months, accounted for five percent (5%) or more of consolidated market data gross revenue paid to the effective national market system plan or plans required under § 242.603(b), for NMS stocks:

@@ -1,0 +1,3 @@
+##### § 922.212 Co-management. #####
+
+NOAA has primary responsibility for the management of the Sanctuary pursuant to the Act. However, as the Sanctuary is in state waters, NOAA will co-manage the Sanctuary in collaboration with the State of Wisconsin. The Director may enter into a Memorandum of Agreement regarding this collaboration that may address, but not be limited to, such aspects as areas of mutual concern, including Sanctuary resource protection, programs, permitting, activities, development, and threats to Sanctuary resources.

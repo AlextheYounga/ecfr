@@ -2,11 +2,11 @@
 
 (a) *General.* (1) A guaranty agency that has a basic program agreement must enter into a loan rehabilitation agreement with the Secretary. The guaranty agency must establish a loan rehabilitation program for all borrowers with an enforceable promissory note for the purpose of rehabilitating defaulted loans, except for loans for which a judgment has been obtained, loans on which a default claim was filed under § 682.412, and loans on which the borrower has been convicted of, or has pled nolo contendere or guilty to, a crime involving fraud in obtaining title IV, HEA program assistance, so that the loan may be purchased, if practicable, by an eligible lender and removed from default status.
 
-(2) A loan is considered to be rehabilitated only after -
+(2) A loan is considered to be rehabilitated only after—
 
 (i) The borrower has made and the guaranty agency has received nine of the ten qualifying payments required under a monthly repayment agreement.
 
-(A) A qualifying payment is -
+(A) A qualifying payment is—
 
 (*1*) Made voluntarily;
 
@@ -30,7 +30,7 @@
 
 (1) A borrower may request rehabilitation of the borrower's defaulted loan held by the guaranty agency. In order to be eligible for rehabilitation of the loan, the borrower must voluntarily make at least 9 of the 10 payments required under a monthly repayment agreement.
 
-(i) Each payment must be -
+(i) Each payment must be—
 
 (A) Made voluntarily;
 
@@ -46,7 +46,7 @@
 
 (iv) The guaranty agency or its agents may calculate the payment amount based on information provided orally by the borrower or the borrower's representative and provide the borrower with a rehabilitation agreement using that amount. The guaranty agency must request documentation from the borrower to confirm the borrower's AGI and family size. If the borrower does not provide the guaranty agency or its agents with any documentation requested by the guaranty agency to calculate or confirm the reasonable and affordable payment amount, within a reasonable time deadline set by the guaranty agency or its agent, the rehabilitation agreement provided is null and void.
 
-(v) The reasonable and affordable payment amount calculated under this section must not be -
+(v) The reasonable and affordable payment amount calculated under this section must not be—
 
 (A) A required minimum loan payment amount (e.g., $50) if the agency determines that a smaller amount is reasonable and affordable;
 
@@ -54,7 +54,7 @@
 
 (C) Based on other criteria unrelated to the borrower's total financial circumstances.
 
-(vi) Within 15 business days of its determination of the borrower's loan rehabilitation payment amount, the guaranty agency must provide the borrower with a written rehabilitation agreement which includes the borrower's payment amount calculated under paragraph (b)(1)(iii), a prominent statement that the borrower may object orally or in writing to the payment amount, with the method and timeframe for raising such an objection, and an explanation of any other terms and conditions applicable to the required series of payments that must be made before the borrower's account can be considered for repurchase by an eligible lender or assignment to the Secretary (i.e., rehabilitated). To accept the agreement, the borrower must sign and return the agreement or accept the agreement electronically under a process provided by the agency. The agency may not impose any conditions unrelated to the amount or timing of the rehabilitation payments in the rehabilitation agreement. The written rehabilitation agreement must inform the borrower -
+(vi) Within 15 business days of its determination of the borrower's loan rehabilitation payment amount, the guaranty agency must provide the borrower with a written rehabilitation agreement which includes the borrower's payment amount calculated under paragraph (b)(1)(iii), a prominent statement that the borrower may object orally or in writing to the payment amount, with the method and timeframe for raising such an objection, and an explanation of any other terms and conditions applicable to the required series of payments that must be made before the borrower's account can be considered for repurchase by an eligible lender or assignment to the Secretary (i.e., rehabilitated). To accept the agreement, the borrower must sign and return the agreement or accept the agreement electronically under a process provided by the agency. The agency may not impose any conditions unrelated to the amount or timing of the rehabilitation payments in the rehabilitation agreement. The written rehabilitation agreement must inform the borrower—
 
 (A) Of the effects of having the loans rehabilitated (e.g., removal of the record of default from the borrower's credit history and return to normal repayment);
 
@@ -62,13 +62,13 @@
 
 (C) That the rehabilitation agreement is null and void if the borrower fails to provide the documentation required to confirm the monthly payment calculated under paragraph (b)(1)(iii) of this section.
 
-(vii) If the borrower objects to the monthly payment amount determined under paragraph (b)(1)(iii) of this section, the guaranty agency or its agents must recalculate the payment amount based solely on information provided on a form approved by the Secretary and, if requested, supporting documentation from the borrower and other sources, and must consider -
+(vii) If the borrower objects to the monthly payment amount determined under paragraph (b)(1)(iii) of this section, the guaranty agency or its agents must recalculate the payment amount based solely on information provided on a form approved by the Secretary and, if requested, supporting documentation from the borrower and other sources, and must consider—
 
 (A) The borrower's, and if applicable, the spouse's current disposable income, including public assistance payments, and other income received by the borrower and the spouse, such as welfare benefits, Social Security benefits, Supplemental Security Income, and workers' compensation. Spousal income is not considered if the spouse does not contribute to the borrower's household income;
 
 (B) Family size as defined in § 682.215(a)(3); and
 
-(C) Reasonable and necessary expenses, which include -
+(C) Reasonable and necessary expenses, which include—
 
 (*1*) Food;
 
@@ -104,9 +104,9 @@
 
 (ii) If the guaranty agency has been unable to sell the loan, the guaranty agency must assign the loan to the Secretary.
 
-(3) Upon the sale of a rehabilitated loan to an eligible lender or assignment to the Secretary -
+(3) Upon the sale of a rehabilitated loan to an eligible lender or assignment to the Secretary—
 
-(i) The guaranty agency must, within 45 days of the sale or assignment -
+(i) The guaranty agency must, within 45 days of the sale or assignment—
 
 (A) Provide notice to the prior holder of such sale or assignment, and
 
@@ -118,10 +118,10 @@
 
 (ii) The lender must not consider the purchase of a rehabilitated loan as entry into repayment or resumption of repayment for the purposes of interest capitalization under § 682.202(b).
 
-(c) A guaranty agency must make available to the borrower -
+(c) A guaranty agency must make available to the borrower—
 
 (1) During the loan rehabilitation period, information about repayment plans, including the income-based repayment plan, that may be available to the borrower upon rehabilitating the defaulted loan and how the borrower can select a repayment plan after the loan is purchased by an eligible lender or assigned to the Secretary; and
 
 (2) After the successful completion of the loan rehabilitation period, financial and economic education materials, including debt management information.
 
-(Authority: 20 U.S.C. 1078-6)(Approved by the Office of Management and Budget under control number 1845-0020)[59 FR 33355, June 28, 1994, as amended at 60 FR 30788, June 12, 1995; 64 FR 18980, Apr. 16, 1999; 64 FR 58965, Nov. 1, 1999; 66 FR 34764, June 29, 2001; 67 FR 67080, Nov. 1, 2002; 68 FR 75429, Dec. 31, 2003; 71 FR 45707, Aug. 9, 2006; 71 FR 64398, Nov. 1, 2006; 73 FR 63254, Oct. 23, 2008; 74 FR 56000, Oct. 29, 2009; 78 FR 65815, Nov. 1, 2013; 80 FR 67237, Oct. 30, 2015; 81 FR 76080, Nov. 1, 2016; 81 FR 76080, Nov. 1, 2016]
+(Authority: 20 U.S.C. 1078-6)(Approved by the Office of Management and Budget under control number 1845-0020)[59 FR 33355, June 28, 1994, as amended at 60 FR 30788, June 12, 1995; 64 FR 18980, Apr. 16, 1999; 64 FR 58965, Nov. 1, 1999; 66 FR 34764, June 29, 2001; 67 FR 67080, Nov. 1, 2002; 68 FR 75429, Dec. 31, 2003; 71 FR 45707, Aug. 9, 2006; 71 FR 64398, Nov. 1, 2006; 73 FR 63254, Oct. 23, 2008; 74 FR 56000, Oct. 29, 2009; 78 FR 65815, Nov. 1, 2013; 80 FR 67237, Oct. 30, 2015; 81 FR 76080, Nov. 1, 2016]

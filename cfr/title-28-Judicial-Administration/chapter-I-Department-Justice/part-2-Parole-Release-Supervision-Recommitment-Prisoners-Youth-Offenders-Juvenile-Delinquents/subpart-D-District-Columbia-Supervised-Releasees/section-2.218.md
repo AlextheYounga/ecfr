@@ -18,8 +18,10 @@
 
 (d) The Commission's decision regarding the imposition of a term of imprisonment following revocation of supervised release, and any further term of supervised release, shall be made pursuant to the limitations set forth in § 2.219. Within those limitations, the appropriate length of any term of imprisonment shall be determined by reference to the guidelines at § 2.21. If the term of imprisonment authorized under § 2.219 is less than the minimum of the appropriate guideline range determined under § 2.21, the term authorized under § 2.219 shall be the guideline range.
 
-(e) Whenever the Commission imposes a term of imprisonment upon revocation of supervised release that is less than the authorized maximum term of imprisonment, it shall be the Commission's general policy to impose a further term of supervised release that is the maximum term of supervised release permitted by § 2.219. If the Commission imposes a new term of imprisonment that is equal to the maximum term of imprisonment authorized by law (or in the case of a subsequent revocation, that uses up the remainder of the maximum term of imprisonment authorized by law), the Commission may not impose a further term of supervised release.
+(e) If the Commission imposes a new term of imprisonment that is equal to the maximum term of imprisonment authorized by law or, in the case of a subsequent revocation, that uses up the remainder of the maximum term of imprisonment by law, the Commission may not impose a further term of supervised release.
 
 (f) Where deemed appropriate, the Commission may depart from the guidelines at § 2.21 (with respect to the imposition of a new term of imprisonment) in order to permit the imposition of a further term of supervised release.
 
 (g) Decisions under this section shall be made upon the vote of one Commissioner, except that a decision to override an examiner panel recommendation shall require the concurrence of two Commissioners. The final decision following a local revocation hearing shall be issued within 86 days of the retaking of the releasee on a supervised release violation warrant. The final decision following an institutional revocation hearing shall be issued within 21 days of the hearing, excluding weekends and holidays.
+
+[68 FR 41700, July 15, 2003, as amended at 86 FR 45862, Aug. 17, 2021]

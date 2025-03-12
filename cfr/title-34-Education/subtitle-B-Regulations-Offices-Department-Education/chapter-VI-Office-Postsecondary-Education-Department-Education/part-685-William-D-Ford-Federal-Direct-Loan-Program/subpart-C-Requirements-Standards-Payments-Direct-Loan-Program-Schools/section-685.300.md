@@ -34,7 +34,7 @@
 
 (10) Provide that the school will not charge any fees of any kind, however described, to student or parent borrowers for origination activities or the provision of any information necessary for a student or parent to receive a loan under part D of the Act or any benefits associated with such a loan;
 
-(11) Comply with other provisions that the Secretary determines are necessary to protect the interests of the United States and to promote the purposes of part D of the Act.
+(11) Comply with other provisions that the Secretary determines are necessary to protect the interests of the United States and to promote the purposes of part D of the Act; and
 
 (12) Accept responsibility and financial liability stemming from losses incurred by the Secretary for repayment of amounts discharged by the Secretary pursuant to §§ 685.206, 685.214, 685.215, 685.216, and 685.222.
 

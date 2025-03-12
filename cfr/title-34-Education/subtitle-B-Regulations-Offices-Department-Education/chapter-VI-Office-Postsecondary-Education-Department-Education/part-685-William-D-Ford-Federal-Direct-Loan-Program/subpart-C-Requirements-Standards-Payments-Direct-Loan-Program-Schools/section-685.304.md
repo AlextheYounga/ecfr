@@ -10,6 +10,8 @@
 
 (ii) On a separate written form provided to the borrower that the borrower signs and returns to the school; or
 
+(iii) Online or by interactive electronic means, with the borrower acknowledging receipt of the information.
+
 (A) Online or by interactive electronic means, with the borrower acknowledging receipt of the information.
 
 (B) If a standardized interactive electronic tool is used to provide entrance counseling to the borrower, the school must provide to the borrower any elements of the required information that are not addressed through the electronic tool:
@@ -138,4 +140,4 @@
 
 (ii) A student's completion of electronic interactive exit counseling offered by the Secretary satisfies the requirements of paragraph (b) of this section and, for students who have also received FFEL Program loans for attendance at the school, 34 CFR 682.604(a).
 
-(Approved by the Office of Management and Budget under control number 1845-0021)[74 FR 55666, Oct. 28, 2009, as amended at 78 FR 28986, May 16, 2013; 78 FR 65841, Nov. 1, 2013]; 84 FR 49933, Sept. 23, 2019; 86 FR 31438, June 14, 2021]
+(Approved by the Office of Management and Budget under control number 1845-0021)[74 FR 55666, Oct. 28, 2009, as amended at 78 FR 28986, May 16, 2013; 78 FR 65841, Nov. 1, 2013; 84 FR 49933, Sept. 23, 2019; 86 FR 31438, June 14, 2021]
