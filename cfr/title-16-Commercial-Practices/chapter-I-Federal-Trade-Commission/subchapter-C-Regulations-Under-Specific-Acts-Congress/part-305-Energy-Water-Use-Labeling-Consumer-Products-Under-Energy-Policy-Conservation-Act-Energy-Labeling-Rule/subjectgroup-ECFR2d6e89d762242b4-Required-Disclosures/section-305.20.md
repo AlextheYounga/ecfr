@@ -60,7 +60,7 @@ Federal law prohibits removal of this label before consumer purchase.
 
 (4) The model's capacity. Inclusion of capacity is optional at the discretion of the manufacturer or private labeler for all models except split-system labels, which may not disclose capacity.
 
-(5) The seasonal energy efficiency ratio (SEER) for the cooling function of central air conditioners as determined in accordance with § 305.5. For the heating function, the heating seasonal performance factor (HSPF) shall be calculated for heating Region IV for the standardized design heating requirement nearest the capacity measured in the High Temperature Test in accordance with this part. In addition, as illustrated in the sample labels in appendix L to this part, the ratings for any split-system air conditioner condenser evaporator coil combinations shall be the minimum rating of all condenser-evaporator coil combinations certified to the Department of Energy pursuant to 10 CFR part 430. The ratings for any split-system heat pump condenser-evaporator coil combinations shall include the low and high ratings of all condenser-evaporator coil combinations certified to the Department of Energy pursuant to 10 CFR part 430.
+(5) The seasonal energy efficiency ratio (SEER) for the cooling function of central air conditioners as determined in accordance with this part. For the heating function, the heating seasonal performance factor (HSPF) shall be calculated for heating Region IV for the standardized design heating requirement nearest the capacity measured in the High Temperature Test in accordance with this part. In addition, as illustrated in the sample labels in appendix L to this part, the ratings for any split-system air conditioner condenser evaporator coil combinations shall be the minimum rating of all condenser-evaporator coil combinations certified to the Department of Energy pursuant to 10 CFR part 430. The ratings for any split-system heat pump condenser-evaporator coil combinations shall include the low and high ratings of all condenser-evaporator coil combinations certified to the Department of Energy pursuant to 10 CFR part 430.
 
 (6)(i) Each cooling-only central air conditioner label shall contain a range of comparability consisting of the lowest and highest SEER for all cooling-only central air conditioners consistent with sample label 7 in appendix L to this part.
 
@@ -100,11 +100,11 @@ Notice Federal law allows this unit to be installed in all U.S. states and terri
 
 (ii) For split systems, a statement that reads:
 
-Energy Efficiency Ratio (EER): The installed system's minimum EERis \_\_.
+Energy Efficiency Ratio (EER): The installed system's minimum EERis \_\_\_\_.
 
 (iii) For single-package air conditioners, a statement that reads:
 
-Energy Efficiency Ratio (EER): This model's EER is [\_\_].
+Energy Efficiency Ratio (EER): This model's EER is [\_\_\_\_].
 
 (12) For any split system central air conditioner with a rated cooling capacity of at least 45,000 Btu/h and minimum efficiency ratings of at least 14 SEER but lower than 11.7 EER, and any split-system central air conditioners with a rated cooling capacity less than 45,000 Btu/h and minimum efficiency ratings of at least 14 SEER but lower than 12.2 EER, the label must contain the following regional standards information.
 
@@ -116,7 +116,7 @@ Notice Federal law allows this unit to be installed only in: AK, AL, AR, CO, CT,
 
 (iii) A statement that reads:
 
-Energy Efficiency Ratio (EER): The installed system's minimum EERis \_\_.
+Energy Efficiency Ratio (EER): The installed system's minimum EERis \_\_\_\_.
 
 (13) For any split system central air conditioner with a minimum rated efficiency rating less than 14 SEER, the label must contain the following regional standards information:
 
@@ -128,7 +128,7 @@ Notice Federal law allows this unit to be installed only in: AK, CO, CT, ID, IL,
 
 (iii) A statement that reads:
 
-Energy Efficiency Ratio (EER): The installed system's minimum EER is \_\_.
+Energy Efficiency Ratio (EER): The installed system's minimum EER is \_\_\_\_.
 
 (14) For any single-package air conditioner with a minimum EER below 11.0, the label must contain the following regional standards information:
 

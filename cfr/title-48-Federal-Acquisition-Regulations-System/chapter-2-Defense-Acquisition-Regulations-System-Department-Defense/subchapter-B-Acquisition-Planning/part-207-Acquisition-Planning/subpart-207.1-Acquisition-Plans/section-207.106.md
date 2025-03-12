@@ -32,8 +32,6 @@
 
 (v) Apply to weapon systems and subsystems that are to be supported by performance-based logistics arrangements as well as to weapon systems and subsystems that are to be supported by other sustainment approaches.
 
-(ii) In accordance with 10 U.S.C. 2443, to emphasize reliability and maintainability in weapon system design, ensure that reliability and maintainability are included in the performance attributes of the key performance parameters on sustainment during the development of capabilities requirements. For additional guidance see PGI 207.105(b)(14)(ii)*(2);*
-
 (S-71) See 209.570 for policy applicable to acquisition strategies that consider the use of lead system integrators.
 
 (S-72)(1) In accordance with section 202 of the Weapon Systems Acquisition Reform Act of 2009 (Pub. L. 111-23), acquisition plans for major defense acquisition programs as defined in 10 U.S.C. 2430, shall include measures that -
@@ -84,4 +82,4 @@
 
 (S-74) When selecting contract type, see 234.004 (section 811 of the National Defense Authorization Act for Fiscal Year 2013 (Pub. L. 112-239)).
 
-[56 FR 36305, July 31, 1991, as amended at 72 FR 51188, Sept. 6, 2007; 73 FR 1824, Jan. 10, 2008; 74 FR 68701, Dec. 29, 2009; 75 FR 8273, Feb. 24, 2010; 76 FR 11363, Mar. 2, 2011; 79 FR 4632, Jan. 29, 2014; 84 FR 58333, Oct. 31, 2019]
+[56 FR 36305, July 31, 1991, as amended at 72 FR 51188, Sept. 6, 2007; 73 FR 1824, Jan. 10, 2008; 74 FR 68701, Dec. 29, 2009; 75 FR 8273, Feb. 24, 2010; 76 FR 11363, Mar. 2, 2011; 79 FR 4632, Jan. 29, 2014; 84 FR 58333, Oct. 31, 2019; 86 FR 27277, May 20, 2021]

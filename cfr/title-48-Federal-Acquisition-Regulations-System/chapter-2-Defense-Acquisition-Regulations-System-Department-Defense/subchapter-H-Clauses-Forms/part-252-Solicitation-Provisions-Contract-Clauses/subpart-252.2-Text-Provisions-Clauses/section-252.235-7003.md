@@ -1,8 +1,8 @@
-##### 252.235-7003 Frequency authorization. #####
+##### 252.235-7003 Frequency Authorization. #####
 
 *Basic.* As prescribed in 234.7101(b) and (b)(1), use the following clause:
 
-Frequency Authorization - Basic (MAR 2014)
+Frequency Authorization—Basic (MAR 2014)
 
 (a) The Contractor shall obtain authorization for radio frequencies required in support of this contract.
 
@@ -16,7 +16,7 @@ Frequency Authorization - Basic (MAR 2014)
 
 *Alternate I.* As prescribed in 234.072(b) and (b)(2), use the following clause, which uses a different paragraph (c) than the basic clause:
 
-Frequency Authorization - Alternate I (MAR 2014)
+Frequency Authorization—Alternate I (MAR 2014)
 
 (a) The Contractor shall obtain authorization for radio frequencies required in support of this contract.
 
@@ -26,4 +26,4 @@ Frequency Authorization - Alternate I (MAR 2014)
 
 (d) The Contractor shall include this clause, including this paragraph (d), in all subcontracts requiring the development, production, construction, testing, or operation of a device for which a radio frequency authorization is required.
 
-(End of clause)[56 FR 36479, July 31, 1991, as amended at 73 FR 42279, July 21, 2008; 79 FR 17448, Mar. 28, 2014; 80 FR 36900, June 26, 2015]
+(End of clause)[56 FR 36479, July 31, 1991, as amended at 73 FR 42279, July 21, 2008; 79 FR 17448, Mar. 28, 2014; 80 FR 36900, June 26, 2015; 86 FR 27278, May 20, 2021]

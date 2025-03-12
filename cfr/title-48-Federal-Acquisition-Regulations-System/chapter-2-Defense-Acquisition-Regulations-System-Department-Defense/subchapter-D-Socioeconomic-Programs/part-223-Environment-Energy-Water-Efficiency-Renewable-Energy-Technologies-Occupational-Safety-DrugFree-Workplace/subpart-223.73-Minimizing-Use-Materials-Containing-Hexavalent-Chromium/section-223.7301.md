@@ -1,3 +1,5 @@
 ##### 223.7301 Policy. #####
 
-It is DoD policy to minimize hexavalent chromium (an anti-corrosive) in items acquired by DoD (deliverables and construction material), due to the serious human health and environmental risks related to its use. Executive Order 13423, section 3, paragraph (a) requires that the heads of agencies reduce or eliminate the acquisition and use of toxic or hazardous chemicals. Executive Order 13514 requires that the heads of agencies are responsible for “reducing and minimizing the quantity of toxic and hazardous chemicals and materials acquired, used, or disposed of.”
+In accordance with the DoD policy memorandum of April 8, 2009, Minimizing the Use of Hexavalent Chromium, it is DoD policy to minimize hexavalent chromium (an anti-corrosive) in items acquired by DoD (deliverables and construction material), due to the serious human health and environmental risks related to its use.
+
+[86 FR 27280, May 20, 2021]

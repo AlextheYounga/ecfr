@@ -30,4 +30,6 @@
 
 (iv) USD(A&S) is authorized to waive any provision of acquisition law or regulation in order to carry out the closeout procedures authorized in paragraph (3)(i) of this section (see procedures at PGI 204.804(3)(iv).
 
-[77 FR 30367, May 22, 2012, as amended at 80 FR 36901, June 26, 2015; 84 FR 18155, Apr. 30, 2019]
+(4) When using the clause at 252.204-7022, Expediting Contract Closeout, to expedite contract closeout, determine the residual dollar amount upon completion of all applicable closeout requirements of FAR 4.804.
+
+[77 FR 30367, May 22, 2012, as amended at 80 FR 36901, June 26, 2015; 84 FR 18155, Apr. 30, 2019; 86 FR 27277, May 20, 2021]

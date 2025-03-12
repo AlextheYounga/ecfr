@@ -58,7 +58,7 @@
 
 (B) A person that uses consumer reports to set the material terms of mortgage credit granted, extended, or provided to consumers regularly requests credit scores from several consumer reporting agencies, each of which it uses in an underwriting program in order to determine the material terms it will offer to the consumer. That person may choose one of these scores to include in the notice described in paragraph (d)(1)(ii) of this section.
 
-(5) *Model form.* A model form of the notice described in paragraph (d)(1)(ii) of this section consolidated with the notice required by section 609(g) of the FCRA is contained in 16 CFR Part 698, Appendix B. Appropriate use of Model Form B-3 is deemed to comply with the requirements of § 640.5(d). Use of the model form is optional.
+(5) *Model form.* A model form of the notice described in paragraph (d)(1)(ii) of this section consolidated with the notice required by section 609(g) of the FCRA is contained in 16 CFR part 698, appendix B. Appropriate use of Model Form A-3 is deemed to comply with the requirements of § 640.5(d). Use of the model form is optional.
 
 (e) *Other extensions of credit - credit score disclosure* - (1) *In general.* A person is not required to provide a risk-based pricing notice to a consumer under § 640.3(a) or (c) if:
 
@@ -104,7 +104,7 @@
 
 (ii) *Examples.* The manner in which multiple credit scores are to be disclosed under this section are substantially identical to the manner set forth in the examples contained in paragraph (d)(4)(ii) of this section.
 
-(5) *Model form.* A model form of the notice described in paragraph (e)(1)(ii) of this section is contained in 16 CFR part B, appendix B. Appropriate use of Model Form B-4 is deemed to comply with the requirements of § 640.5(e). Use of the model form is optional.
+(5) *Model form.* A model form of the notice described in paragraph (e)(1)(ii) of this section is contained in 16 CFR part B, appendix B. Appropriate use of Model Form A-4 is deemed to comply with the requirements of § 640.5(e). Use of the model form is optional.
 
 (f) *Credit score not available* - (1) *In general.* A person is not required to provide a risk-based pricing notice to a consumer under § 640.3(a) or (c) if the person:
 
@@ -144,4 +144,6 @@
 
 (4) *Timing.* The notice described in paragraph (f)(1)(iii) of this section must be provided to the consumer as soon as reasonably practicable after the person has requested the credit score, but in any event not later than consummation of a transaction in the case of closed-end credit or when the first transaction is made under an open-end credit plan.
 
-(5) *Model form.* A model form of the notice described in paragraph (f)(1)(iii) of this section is contained in 16 CFR part 698, appendix B. Appropriate use of Model Form B-5 is deemed to comply with the requirements of § 640.5(f). Use of the model form is optional.
+(5) *Model form.* A model form of the notice described in paragraph (f)(1)(iii) of this section is contained in 16 CFR part 698, appendix B. Appropriate use of Model Form A-5 is deemed to comply with the requirements of § 640.5(f). Use of the model form is optional.
+
+[75 FR 2769, Jan. 15, 2010, as amended at 84 FR 23473, May 22, 2019]

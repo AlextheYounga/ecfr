@@ -1,5 +1,5 @@
 ##### 253.303 Agency forms. #####
 
-DoD forms are available at *http://www.dtic.mil/whs/directives/infomgt/forms/formsprogram.htm.*
+DoD forms are available at *https://www.esd.whs.mil/Directives/forms/.*
 
-[72 FR 14239, Mar. 27, 2007]
+[86 FR 27278, May 20, 2021]

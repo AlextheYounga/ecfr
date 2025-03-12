@@ -36,18 +36,18 @@
 
 |                                   Contract type                                    |Notes|Normal value  <br/>(percent)|Designated range  <br/>(percent)|
 |------------------------------------------------------------------------------------|-----|----------------------------|--------------------------------|
-|                           Firm-fixed-price, no financing                           | (1) |            5.0             |            4 to 6.             |
-|                 Firm-fixed-price, with performance-based payments                  | (6) |            4.0             |           2.5 to 5.5           |
-|                      Firm-fixed-price, with progress payments                      | (2) |            3.0             |            2 to 4.             |
-|                        Fixed-price incentive, no financing                         | (1) |            3.0             |            2 to 4.             |
-|               Fixed-price incentive, with performance-based payments               | (6) |            2.0             |          0.5 to 3.5.           |
+|                           Firm-fixed-price, no financing                           | (1) |             5              |             4 to 6             |
+|                 Firm-fixed-price, with performance-based payments                  | (6) |             4              |           2.5 to 5.5           |
+|                      Firm-fixed-price, with progress payments                      | (2) |             3              |             2 to 4             |
+|                        Fixed-price incentive, no financing                         | (1) |             3              |             2 to 4             |
+|               Fixed-price incentive, with performance-based payments               | (6) |             2              |           0.5 to 3.5           |
 |                     Fixed-price with redetermination provision                     | (3) |                            |                                |
-|                   Fixed-price incentive, with progress payments                    | (2) |            1.0             |            0 to 2.             |
-|                              Cost-plus-incentive-free                              | (4) |            1.0             |            0 to 2.             |
-|                                Cost-plus-fixed-fee                                 | (4) |            0.5             |            0 to 1.             |
-|Time-and-materials (including overhaul contracts priced on time-and-materials basis)| (5) |            0.5             |            0 to 1.             |
-|                                     Labor-hour                                     | (5) |            0.5             |            0 to 1.             |
-|                         Firm-fixed-price, level-of-effort                          | (5) |            0.5             |            0 to 1.             |
+|                   Fixed-price incentive, with progress payments                    | (2) |             1              |             0 to 2             |
+|                              Cost-plus-incentive-fee                               | (4) |             1              |             0 to 2             |
+|                                Cost-plus-fixed-fee                                 | (4) |            0.5             |             0 to 1             |
+|Time-and-materials (including overhaul contracts priced on time-and-materials basis)| (5) |            0.5             |             0 to 1             |
+|                                     Labor-hour                                     | (5) |            0.5             |             0 to 1             |
+|                         Firm-fixed-price, level-of-effort                          | (5) |            0.5             |             0 to 1             |
 
 (1) “No financing” means either that the contract does not provide progress payments or performance-based payments, or that the contract provides them only on a limited basis, such as financing of first articles. Do not compute a working capital adjustment.
 
@@ -61,7 +61,7 @@
 
 (6) When the contract contains provisions for performance-based payments, do not compute a working capital adjustment.
 
-(d) *Evaluation criteria* - (1) *General.* The contracting officer should consider elements that affect contract type risk such as -
+(d) *Evaluation criteria*—(1) *General.* The contracting officer should consider elements that affect contract type risk such as—
 
 (i) Length of contract;
 
@@ -77,7 +77,7 @@
 
 (vii) Risks associated with contracts for foreign military sales (FMS) that are not funded by U.S. appropriations; and
 
-(viii) When the contract contains provisions for performance-based payments -
+(viii) When the contract contains provisions for performance-based payments—
 
 (A) The frequency of payments;
 
@@ -89,7 +89,7 @@
 
 (ii) Contracting officers shall document in the price negotiation memorandum the reason for assigning a specific contract type risk value, to include the extent to which any reduced cost risk during the undefinitized period of performance was considered, in determining the negotiation objective.
 
-(3) *Above normal conditions.* The contracting officer may assign a higher than normal value when there is substantial contract type risk. Indicators of this are -
+(3) *Above normal conditions.* The contracting officer may assign a higher than normal value when there is substantial contract type risk. Indicators of this are—
 
 (i) Efforts where there is minimal cost history;
 
@@ -101,7 +101,7 @@
 
 (v) An aggressive performance-based payment schedule that increases risk.
 
-(4) *Below normal conditions.* The contracting officer may assign a lower than normal value when the contract type risk is low. Indicators of this are -
+(4) *Below normal conditions.* The contracting officer may assign a lower than normal value when the contract type risk is low. Indicators of this are—
 
 (i) Very mature product line with extensive cost history;
 
@@ -117,7 +117,7 @@
 
 (e) *Costs financed.* (1) Costs financed equal total costs multiplied by the portion (percent) of costs financed by the contractor.
 
-(2) Total costs equal Block 20 (i.e., all allowable costs excluding facilities capital cost of money), reduced as appropriate when -
+(2) Total costs equal Block 20 (i.e., all allowable costs excluding facilities capital cost of money), reduced as appropriate when—
 
 (i) The contractor has little cash investment (e.g., subcontractor progress payments liquidated late in period of performance);
 
@@ -127,7 +127,7 @@
 
 (3) The portion that the contractor finances is generally the portion not covered by progress payments, i.e., 100 percent minus the customary progress payment rate (see FAR 32.501). For example, if a contractor receives progress payments at 80 percent, the portion that the contractor finances is 20 percent. On contracts that provide progress payments to small businesses, use the customary progress payment rate for large businesses.
 
-(f) *Contract length factor.* (1) This is the period of time that the contractor has a working capital investment in the contract. It -
+(f) *Contract length factor.* (1) This is the period of time that the contractor has a working capital investment in the contract. It—
 
 (i) Is based on the time necessary for the contractor to complete the substantive portion of the work;
 
@@ -137,7 +137,7 @@
 
 (iv) Should not, for multiyear contracts, include periods of performance beyond that required to complete the initial program year's requirements.
 
-(2) The contracting officer -
+(2) The contracting officer—
 
 (i) Should use the following table to select the contract length factor;
 
@@ -163,4 +163,4 @@ Table
 
 (3) Example: A prospective contract has a performance period of 40 months with end items being delivered in the 34th, 36th, 38th, and 40th months of the contract. The average period is 37 months and the contract length factor is 1.15.
 
-[63 FR 55040, Oct. 14, 1998, as amended at 64 FR 61032, Nov. 9, 1999; 66 FR 63335, Dec. 6, 2001; 67 FR 20691, Apr. 26, 2002; 67 FR 49255, July 30, 2002; 72 FR 14239, Mar. 27, 2007; 75 FR 48277, Aug. 10, 2010; 80 FR 56929, Sept. 21, 2015; 83 FR 30586, June 29, 2018; 84 FR 39205, Aug. 9, 2019]
+[63 FR 55040, Oct. 14, 1998, as amended at 64 FR 61032, Nov. 9, 1999; 66 FR 63335, Dec. 6, 2001; 67 FR 20691, Apr. 26, 2002; 67 FR 49255, July 30, 2002; 72 FR 14239, Mar. 27, 2007; 75 FR 48277, Aug. 10, 2010; 80 FR 56929, Sept. 21, 2015; 83 FR 30586, June 29, 2018; 84 FR 39205, Aug. 9, 2019; 86 FR 27278, May 20, 2021]

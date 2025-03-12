@@ -1,10 +1,10 @@
-##### 252.204-7017 Prohibition on the Acquisition of Covered Defense Telecommunications Equipment or Services - Representation. #####
+##### 252.204-7017 Prohibition on the Acquisition of Covered Defense Telecommunications Equipment or Services—Representation. #####
 
 As prescribed in 204.2105(b), use the following provision:
 
-Prohibition on the Acquisiton of Covered Defense Telecommunications Equipment or Services - Representation (DEC 2019)
+Prohibition on the Acquisition of Covered Defense Telecommunications Equipment or Services—Representation (May 2021)
 
-The Offeror is not required to complete the representation in this provision if the Offeror has represented in the provision at 252.204-7016, Covered Defense Telecommunications Equipment or Services - Representation, that it “does not provide covered defense telecommunications equipment or services as a part of its offered products or services to the Government in the performance of any contract, subcontract, or other contractual instrument.”
+The Offeror is not required to complete the representation in this provision if the Offeror has represented in the provision at 252.204-7016, Covered Defense Telecommunications Equipment or Services—Representation, that it “does not provide covered defense telecommunications equipment or services as a part of its offered products or services to the Government in the performance of any contract, subcontract, or other contractual instrument.”
 
 (a) *Definitions. Covered defense telecommunications equipment or services, covered mission, critical technology,* and *substantial or essential component,* as used in this provision, have the meanings given in the 252.204-7018 clause, Prohibition on the Acquisition of Covered Defense Telecommunications Equipment or Services, of this solicitation.
 
@@ -12,7 +12,7 @@ The Offeror is not required to complete the representation in this provision if 
 
 (c) *Procedures.* The Offeror shall review the list of excluded parties in the System for Award Management (SAM) at *https://www.sam.gov* for entities that are excluded when providing any equipment, system, or service to carry out covered missions that uses covered defense telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system, unless a waiver is granted.
 
-(d) *Representation.* If in its annual representations and certifications in SAM the Offeror has represented in paragraph (c) of the provision at 252.204-7016, Covered Defense Telecommunications Equipment or Services - Representation, that it “does” provide covered defense telecommunications equipment or services as a part of its offered products or services to the Government in the performance of any contract, subcontract, or other contractual instrument, then the Offeror shall complete the following additional representation:
+(d) *Representation.* If in its annual representations and certifications in SAM the Offeror has represented in paragraph (c) of the provision at 252.204-7016, Covered Defense Telecommunications Equipment or Services—Representation, that it “does” provide covered defense telecommunications equipment or services as a part of its offered products or services to the Government in the performance of any contract, subcontract, or other contractual instrument, then the Offeror shall complete the following additional representation:
 
 The Offeror represents that it [ ] will [ ] will not provide covered defense telecommunications equipment or services as a part of its offered products or services to DoD in the performance of any award resulting from this solicitation.
 
@@ -26,4 +26,4 @@ The Offeror represents that it [ ] will [ ] will not provide covered defense tel
 
 (4) For equipment, the entity that produced or provided the covered defense telecommunications equipment (include entity name, unique entity identifier, CAGE code, and whether the entity was the OEM or a distributor, if known).
 
-(End of provision)[84 FR 72237, Dec. 31, 2019]
+(End of provision)[84 FR 72237, Dec. 31, 2019, as amended at 86 FR 27278, May 20, 2021]
