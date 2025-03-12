@@ -1,14 +1,12 @@
 ##### § 115.14 Loss of Principal's eligibility for future assistance and reinstatement of Principal. #####
 
-Link to an amendment published at 87 FR 48084, Aug. 8, 2022.
-
 (a) *Ineligibility.* A Principal and its Affiliates lose eligibility for further SBA bond guarantees if any of the following occurs under an SBA-guaranteed bond issued on behalf of the Principal:
 
 (1) Legal action under the guaranteed bond has been initiated.
 
 (2) The Obligee has declared the Principal to be in default under the Contract.
 
-(3) The Surety has established a claim reserve for the bond of at least $1000.
+(3) The Surety has established a claim reserve for the bond of at least $10,000.
 
 (4) The Principal, or any of its Affiliates, has defaulted on an SBA-guaranteed bond resulting in a Loss that has not been fully reimbursed to SBA, or SBA has not been fully reimbursed for any Imminent Breach payments.
 
@@ -32,4 +30,4 @@ Link to an amendment published at 87 FR 48084, Aug. 8, 2022.
 
 (c) *Underwriting after reinstatement.* A guarantee application submitted after reinstatement of the Principal's eligibility is subject to a very stringent underwriting review.
 
-[61 FR 3271, Jan. 31, 1996, as amended at 81 FR 23565, Apr. 22, 2016]
+[61 FR 3271, Jan. 31, 1996, as amended at 81 FR 23565, Apr. 22, 2016; 87 FR 48084, Aug. 8, 2022]

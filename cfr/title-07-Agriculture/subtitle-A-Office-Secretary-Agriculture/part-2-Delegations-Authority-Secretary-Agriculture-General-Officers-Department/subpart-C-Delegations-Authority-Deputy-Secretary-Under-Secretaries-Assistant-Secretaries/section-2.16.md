@@ -294,7 +294,7 @@
 
 (C) The Wetlands Reserve Program and the Emergency Wetlands Reserve Program authorized by sections 1237-1237F of the Act (16 U.S.C. 3837-3837f) prior to February 7, 2014, the transition authority under section 2703 of the Agricultural Act of 2014, and the Emergency Supplemental Appropriations for Relief from the Major, Widespread Flooding in the Midwest Act (Pub. L. 103-75).
 
-(D) The Conservation Security Program authorized by sections 1238-1238C of the Act (16 U.S.C. 3838-3838c) and the Conservation Stewardship Program authorized by sections 1240I-1240L-1 (16 U.S.C. 3839aa-21 - 3839aa-25).
+(D) The Conservation Security Program authorized by sections 1238-1238C of the Act (16 U.S.C. 3838-3838c) and the Conservation Stewardship Program authorized by sections 1240I-1240L-1 (16 U.S.C. 3839aa-21—3839aa-25).
 
 (E) The Farmland Protection Program authorized by sections 1238H-1238I of the Act (16 U.S.C. 3838h-3838i) prior to February 7, 2014, and the transition authority under section 2704 of the Agricultural Act of 2014.
 
@@ -454,6 +454,8 @@
 
 (11) Administer a Century Farms Program as authorized by section 12508 of the Agriculture Improvement Act of 2018 (7 U.S.C. 2266a).
 
+(12) Establish programs with any bureau of the U.S. Department of the Interior (DOI), or with other agencies within USDA, in support of the Service First initiative for the purpose of promoting customer service and efficiency, including delegating to employees of DOI and other USDA agencies the authorities of the agencies in the Farm Production and Conservation mission area necessary to carry out projects on behalf of USDA (43 U.S.C. 1703).
+
 (b) The following authorities are reserved to the Secretary of Agriculture:
 
 (1) *Related to farm service.* (i) Appointment of Farm Service Agency State committeemen.
@@ -470,4 +472,4 @@
 
 (4) Approval of prize competitions that may result in the award of more than $1,000,000 in cash prizes under section 24(m)(4)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(4)(B)).
 
-[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25775, May 23, 1996; 61 FR 37552, July 18, 1996; 62 FR 1031, Jan. 8, 1997; 62 FR 19900, Apr. 24, 1997; 62 FR 40253, July 28, 1997; 65 FR 12427, Mar. 9, 2000; 68 FR 27435, May 20, 2003; 71 FR 35491, June 21, 2006; 71 FR 51421, Aug. 30, 2006; 74 FR 3401, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 78 FR 40937, July 9, 2013; 79 FR 44106, July 30, 2014; 80 FR 58336, Sept. 29, 2015; 83 FR 22179, May 14, 2018; 83 FR 61311, Nov. 29. 2018; 85 FR 65504, Oct. 15, 2020; 87 FR 44267, July 26, 2022]Editorial Note:At 87 FR 44267, July 26, 2022, § 2.16 was amended; however, the amendment to revise paragraph (a)(12) could not be incorporated due to inaccurate amendatory instruction.
+[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25775, May 23, 1996; 61 FR 37552, July 18, 1996; 62 FR 1031, Jan. 8, 1997; 62 FR 19900, Apr. 24, 1997; 62 FR 40253, July 28, 1997; 65 FR 12427, Mar. 9, 2000; 68 FR 27435, May 20, 2003; 71 FR 35491, June 21, 2006; 71 FR 51421, Aug. 30, 2006; 74 FR 3401, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 78 FR 40937, July 9, 2013; 79 FR 44106, July 30, 2014; 80 FR 58336, Sept. 29, 2015; 83 FR 22179, May 14, 2018; 83 FR 61311, Nov. 29. 2018; 85 FR 65504, Oct. 15, 2020; 87 FR 44267, July 26, 2022]

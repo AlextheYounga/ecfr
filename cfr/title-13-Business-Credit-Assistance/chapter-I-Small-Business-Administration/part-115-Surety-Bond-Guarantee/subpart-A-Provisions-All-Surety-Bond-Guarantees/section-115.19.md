@@ -1,7 +1,5 @@
 ##### § 115.19 Denial of liability. #####
 
-Link to an amendment published at 87 FR 48084, Aug. 8, 2022.
-
 In addition to equitable and legal defenses and remedies under contract law, the Act, and the regulations in this Part, SBA is relieved of liability in whole or in part within its discretion if any of the circumstances in paragraphs (a) through (h) of this section exist, except that SBA shall not deny liability on Prior Approval bonds based solely upon material information that was provided to SBA as part of the Surety's guarantee application.
 
 (a) *Excess Contract or bond amount.* The total Contract or Order amount at the time of Execution of the bond exceeds the Applicable Statutory Limit (see § 115.10) or the bond amount at any time exceeds the total Contract or Order amount.
@@ -34,7 +32,7 @@ In addition to equitable and legal defenses and remedies under contract law, the
 
 (C) Certification by the Obligee that all payments due under the Contract to date have been made and that the job has been satisfactorily completed to date.
 
-(2)(i) For purposes of paragraph (f)(1)(ii) of this section, work under a Contract is considered to have begun when a Principal takes any action at the job site which would have exposed its Surety to liability under applicable law had a bond been Executed (or approved, if the Surety is legally bound by such approval) at the time.
+(2)(i) For purposes of paragraph (f)(1)(ii) of this section, work under a Contract is considered to have begun when a Principal takes any action related to the contract or bond that would have exposed its Surety to liability under applicable law had a bond been Executed (or approved, if the Surety is legally bound by such approval) at the time.
 
 (ii) For purposes of this paragraph (f), the Surety must maintain a contemporaneous record of the Execution and approval of each bond.
 
@@ -54,4 +52,4 @@ In addition to equitable and legal defenses and remedies under contract law, the
 
 (6) The Surety's loss under a Performance Bond did not result from the Principal's breach or Imminent Breach of the Contract.
 
-[61 FR 3271, Jan. 31, 1996, as amended at 66 FR 30804, June 8, 2001; 72 FR 34599, July 25, 2007; 74 FR 36110, July 22, 2009; 79 FR 2087, Jan. 13, 2014; 82 FR 39501, Aug. 21, 2017]
+[61 FR 3271, Jan. 31, 1996, as amended at 66 FR 30804, June 8, 2001; 72 FR 34599, July 25, 2007; 74 FR 36110, July 22, 2009; 79 FR 2087, Jan. 13, 2014; 82 FR 39501, Aug. 21, 2017; 87 FR 48084, Aug. 8, 2022]

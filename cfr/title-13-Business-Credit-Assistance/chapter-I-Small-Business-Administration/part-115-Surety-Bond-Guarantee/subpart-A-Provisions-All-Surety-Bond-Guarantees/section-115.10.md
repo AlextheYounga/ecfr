@@ -1,7 +1,5 @@
 ##### § 115.10 Definitions. #####
 
-Link to an amendment published at 87 FR 48083, Aug. 8, 2022.
-
 *Affiliate* is defined in § 121.301(f) of this chapter.
 
 *Ancillary Bond* means a bond incidental and essential to the performance of a Contract for which there is a guaranteed Final Bond.
@@ -16,7 +14,17 @@ Link to an amendment published at 87 FR 48083, Aug. 8, 2022.
 
 *Bid Bond* means a bond conditioned upon the bidder on a Contract entering into the Contract, and furnishing the required Payment and Performance Bonds. The term does not include a forfeiture bond unless it is issued for a jurisdiction where statute or settled decisional law requires forfeiture bonds for public works.
 
-*Contract* means a written obligation of the Principal, including an Order, requiring the furnishing of services, supplies, labor, materials, machinery, equipment, or construction. A Contract must not prohibit a Surety from performing the Contract upon default of the Principal. A contract does not include a permit, subdivision contract, lease, land contract, evidence of debt, financial guarantee (e.g., a contract requiring any payment by the Principal to the Obligee, except for contracts in connection with bid and performance bonds for the sale of timber and/or other forest products, such as biomass, that require the Principal to pay the Obligee), warranty of performance or efficiency, warranty of fidelity, or release of lien (other than for claims under a guaranteed bond). It includes a maintenance agreement of 2 years or less which covers defective workmanship or materials only. With SBA's written approval, it can also include a longer maintenance agreement covering defective workmanship or materials, or a maintenance agreement covering something other than defective workmanship or materials. To qualify for such approval, the agreement must be ancillary to the Contract for which SBA is guaranteeing a bond, must be required to be performed by the same Principal, and must be customarily required in the relevant trade or industry.
+*Contract* means a written obligation of the Principal, including an Order, requiring the furnishing of services, supplies, labor, materials, machinery, equipment or construction. A Contract:
+
+(1) Must not prohibit a Surety from performing the Contract upon default of the Principal;
+
+(2) Does not include a permit, subdivision contract, lease, land contract, evidence of debt, financial guarantee (*e.g.,* a contract requiring any payment by the Principal to the Obligee, except for contracts in connection with bid and performance bonds for the sale of timber and/or other forest products, such as biomass, that require the Principal to pay the Obligee), warranty of performance or efficiency, warranty of fidelity, or release of lien (other than for claims under a guaranteed bond); and
+
+(3) May include a maintenance agreement under the following circumstances:
+
+(i) The maintenance agreement is ancillary to a Contract for which SBA is guaranteeing a bond, is performed by the same Principal, is for a period of 2 years or less, and only covers defective workmanship or materials that are not covered by a manufacturer's warranty. With SBA's prior written approval, the agreement may cover a period longer than 2 years, or cover something other than defective workmanship or materials, if a longer period or something other than defective workmanship or materials is customarily required in the relevant trade or industry; or
+
+(ii) The maintenance agreement is stand-alone and is entered into in connection with a Contract for which a bond was not required and only covers defective workmanship or materials that are not covered by a manufacturer's warranty. The agreement must cover a period of 3 years or less that begins immediately after the Contract is complete and must be executed prior to the completion of the Contract. It must also be entered into with the same Principal that completed the Contract. With SBA's prior written approval, the agreement may cover a period longer than 3 years if a longer period is customarily required in the relevant trade or industry.
 
 *D/SG* means SBA's Director, Office of Surety Guarantees.
 
@@ -88,4 +96,4 @@ Link to an amendment published at 87 FR 48083, Aug. 8, 2022.
 
 *Veteran* has the meaning given the term in Section 101(2) of Title 38, United States Code.
 
-[61 FR 3271, Jan. 31, 1996, as amended at 61 FR 7985, Mar. 1, 1996; 72 FR 34599, June 25, 2007; 72 FR 50038, Aug. 30, 2007; 74 FR 36109, July 22, 2009; 76 FR 2572, Jan. 14, 2011; 76 FR 9963, Feb. 23, 2011; 77 FR 41665, July 16, 2012; 79 FR 2086, Jan. 13, 2014; 81 FR 41428, June 27, 2016]
+[61 FR 3271, Jan. 31, 1996, as amended at 61 FR 7985, Mar. 1, 1996; 72 FR 34599, June 25, 2007; 72 FR 50038, Aug. 30, 2007; 74 FR 36109, July 22, 2009; 76 FR 2572, Jan. 14, 2011; 76 FR 9963, Feb. 23, 2011; 77 FR 41665, July 16, 2012; 79 FR 2086, Jan. 13, 2014; 81 FR 41428, June 27, 2016; 87 FR 48083, Aug. 8, 2022]

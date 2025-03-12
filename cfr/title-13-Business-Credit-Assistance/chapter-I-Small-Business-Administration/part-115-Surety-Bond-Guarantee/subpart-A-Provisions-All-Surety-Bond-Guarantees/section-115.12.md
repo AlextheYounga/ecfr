@@ -1,7 +1,5 @@
 ##### § 115.12 General program policies and provisions. #####
 
-Link to an amendment published at 87 FR 48083, Aug. 8, 2022.
-
 (a) *Description of Surety Bond Guarantee Programs.* SBA guarantees Sureties participating in the Surety Bond Guarantee Programs against a portion of their Losses incurred and paid as a result of a Principal's breach of the terms of a Bid Bond, Final Bond or Ancillary Bond, on any eligible Contract. In the Prior Approval Program, the Surety must obtain SBA's approval before a guaranteed bond can be issued. In the PSB Program, selected Sureties may issue, monitor, and service SBA guaranteed bonds without further SBA approval.
 
 (b) *Eligibility of bonds.* Bid Bonds and Final Bonds are eligible for an SBA guarantee if they are executed in connection with an eligible Contract, as defined in § 115.10, Definitions. Commercial and Fidelity bonds are not eligible for SBA guarantees. Ancillary Bonds may also be eligible for SBA's guarantee. A performance bond must not prohibit a Surety from performing the Contract upon default of the Principal.
@@ -10,7 +8,7 @@ Link to an amendment published at 87 FR 48083, Aug. 8, 2022.
 
 (d) *Guarantee agreement.* The terms and conditions of SBA's bond guarantee agreements, including the guarantee percentage, may vary from Surety to Surety, depending on past experience with SBA. If the guarantee percentage is not fixed by the Investment Act, it is determined by OSG after considering, among other things, the rating or ranking assigned to the Surety by recognized authority, and the Surety's Loss rate, average Contract amount, average bond penalty per guaranteed bond, and ratio of Bid Bonds to Final Bonds, all in comparison with other Sureties participating in the same SBA Surety Bond Guarantee Program (Prior Approval or PSB) to a comparable degree. Any guarantee agreement under this part is made exclusively for the benefit of SBA and the Surety, and does not confer any rights (such as a right of action against SBA) or benefits on any other party.
 
-(e) *Amount of Contract* - (1) *Determination of Amount of Contract.* For a fixed price Contract, the amount of the Contract is the price excluding any options. For a requirements Contract, the amount of the Contract is the price of the total estimated quantity to be ordered under the Contract. For an indefinite quantity Contract, the amount of the Contract is the price of the specified minimum quantity to be ordered under the Contract and, for each Order issued under such Contract, the price of each such Order. The amount of the Contract or Order to be bonded must not exceed the Applicable Statutory Limit as of the date:
+(e) *Amount of Contract*—(1) *Determination of Amount of Contract.* For a fixed price Contract, the amount of the Contract is the price excluding any options. For a requirements Contract, the amount of the Contract is the price of the total estimated quantity to be ordered under the Contract. For an indefinite quantity Contract, the amount of the Contract is the price of the specified minimum quantity to be ordered under the Contract and, for each Order issued under such Contract, the price of each such Order. The amount of the Contract or Order to be bonded must not exceed the Applicable Statutory Limit as of the date:
 
 (i) SBA approves a Prior Approval Surety's request for a Bid Bond guarantee;
 
@@ -22,7 +20,7 @@ Link to an amendment published at 87 FR 48083, Aug. 8, 2022.
 
 (ii) The amounts of two or more Contracts or Orders for supplies and services awarded to the same Principal or its Affiliates are aggregated to determine the Contract or Order amount if SBA determines, after discussion with the contracting official responsible for the award of the contract, that award of a single Contract or Order could reasonably have satisfied the supply or service requirement at the time of issuance.
 
-(3) *Federal Contracts or Orders in excess of $6,500,000 (as adjusted for inflation in accordance with section 1908 of title 41, United States Code).* SBA is authorized to guarantee bonds on Federal Contracts or Orders greater than $6,500,000 (as adjusted for inflation in accordance with 41 U.S.C. 1908), but not exceeding $10,000,000, upon a signed certification of a Federal contracting officer. The contracting officer's certification must include a statement that the small business is experiencing difficulty obtaining a bond and that an SBA bond guarantee would be in the best interests of the Government. The certification must be express mailed to SBA, Office of Surety Guarantees, 409 Third Street, SW., Suite 8600, Washington, DC 20416, or faxed to the Office of Surety Guarantees at 202-481-0390, with a copy provided to the small business, and must include the following additional information:
+(3) *Federal Contracts or Orders in excess of $6,500,000 (as adjusted for inflation in accordance with section 1908 of title 41, United States Code).* SBA is authorized to guarantee bonds on Federal Contracts or Orders greater than $6,500,000 (as adjusted for inflation in accordance with 41 U.S.C. 1908), but not exceeding $10,000,000, upon a signed certification of a Federal contracting officer that the SBA guarantee is necessary. The certification must be either express mailed to SBA, Office of Surety Guarantees, 409 Third Street SW, Washington, DC 20416 or sent by email to *suretybonds@sba.gov,* and include the following additional information:
 
 (i) Name, address and telephone number of the small business;
 
@@ -44,4 +42,4 @@ Link to an amendment published at 87 FR 48083, Aug. 8, 2022.
 
 (f) *Transfers or sales by Surety.* Sureties must not sell or otherwise transfer their files or accounts, whether before or after a default by the Principal has occurred, without the prior written approval of SBA. A violation of this provision is grounds for termination from participation in the program. This provision does not apply to the sale of an entire business division, subsidiary or operation of the Surety.
 
-[61 FR 3271, Jan. 31, 1996, as amended at 66 FR 30804, June 8, 2001; 74 FR 36109, July 22, 2009; 76 FR 2572, Jan. 14, 2011; 79 FR 2086, Jan. 13, 2014]
+[61 FR 3271, Jan. 31, 1996, as amended at 66 FR 30804, June 8, 2001; 74 FR 36109, July 22, 2009; 76 FR 2572, Jan. 14, 2011; 79 FR 2086, Jan. 13, 2014; 87 FR 48083, Aug. 8, 2022]
