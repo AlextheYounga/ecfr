@@ -1,5 +1,7 @@
 ##### § 929.104 Outlets for excess cranberries. #####
 
+Link to an amendment published at 83 FR 46075, Sept. 12, 2018.
+
 (a) In accordance with § 929.61, excess cranberries may be disposed of only in the following noncommercial or noncompetitive outlets, but only if the requirements in paragraph (b) of this section are complied with:
 
 (1) Foreign countries, except Canada.

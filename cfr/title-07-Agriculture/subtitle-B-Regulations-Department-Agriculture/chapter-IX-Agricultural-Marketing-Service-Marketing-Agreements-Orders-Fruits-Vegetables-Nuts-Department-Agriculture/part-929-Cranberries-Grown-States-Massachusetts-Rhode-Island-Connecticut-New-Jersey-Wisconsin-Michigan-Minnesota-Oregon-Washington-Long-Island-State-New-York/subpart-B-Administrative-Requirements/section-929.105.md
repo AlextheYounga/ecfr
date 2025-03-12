@@ -1,5 +1,7 @@
 ##### § 929.105 Reporting. #####
 
+Link to an amendment published at 83 FR 46075, Sept. 12, 2018.
+
 (a) Each report required to be filed with the committee pursuant to §§ 929.6 and 929.48 shall be mailed to the committee office or delivered to that office. If the report is mailed, it shall be deemed filed when postmarked.
 
 (b) Certified reports shall be filed with the committee, on a form provided by the committee, by each handler not later than January 20, May 20, and July 20 of each fiscal period and by September 20 of the succeeding fiscal period showing:

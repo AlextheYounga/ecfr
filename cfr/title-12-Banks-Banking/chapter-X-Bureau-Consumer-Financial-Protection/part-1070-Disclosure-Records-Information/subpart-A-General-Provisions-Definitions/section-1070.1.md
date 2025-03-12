@@ -1,5 +1,7 @@
 ##### § 1070.1 Authority, purpose, and scope. #####
 
+Link to an amendment published at 83 FR 46084, Sept. 12, 2018.
+
 (a) *Authority.* (1) This part is issued by the Bureau of Consumer Financial Protection, an independent Bureau within the Federal Reserve System, pursuant to the Consumer Financial Protection Act of 2010, 12 U.S.C. 5481 *et seq.;* the Freedom of Information Act, 5 U.S.C. 552; the Privacy Act of 1974, 5 U.S.C. 552a; the Federal Records Act, 44 U.S.C. 3101; the Paperwork Reduction Act, 44 U.S.C. 3501 *et seq.* the Right to Financial Privacy Act of 1978, 12 U.S.C. 3401; the Trade Secrets Act, 18 U.S.C. 1905; 18 U.S.C. 641; and any other applicable law that establishes a basis for the exercise of governmental authority by the CFPB.
 
 (2) This part establishes mechanisms for carrying out the CFPB's statutory responsibilities under the statutes in paragraph (a)(1) of this section to the extent those responsibilities require the disclosure, production, or withholding of information. In this regard, the CFPB has determined that the CFPB, and its delegates, may disclose information of the CFPB, in accordance with the procedures set forth in this part, whenever it is necessary or appropriate to do so in the exercise of any of the CFPB's authority. The CFPB has determined that all such disclosures, made in accordance with the rules and procedures specified in this part, are authorized by law.
