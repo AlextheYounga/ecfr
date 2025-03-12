@@ -1,18 +1,16 @@
 ##### § 1.1107 Schedule of charges for applications and other filings for the international services. #####
 
-Link to an amendment published at 87 FR 34210, June 6, 2022.
-
 Remit payment for these services electronically using the Commission's electronic payment system in accordance with the procedures set forth on the Commission's website, *www.fcc.gov/licensing-databases/fees.*
 
 Table 1 to § 1.1107
 
 |                                                                                                                          |                              New fee                              |
 |--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-|                                         Cable Landing License, per Application:                                          |                                                                   |
+|                                         Cable landing license, per application:                                          |                                                                   |
 |                                                       New License                                                        |                              $3,835.                              |
 |                                              Assignment/Transfer of Control                                              |                              $1,230.                              |
 |                                         Pro Forma Assignment/Transfer of Control                                         |                               $400.                               |
-|                                         Foreign Carrier Affiliation Notification                                         |                               495.                                |
+|                                         Foreign Carrier Affiliation Notification                                         |                               $495.                               |
 |                                                       Modification                                                       |                              $1,230.                              |
 |                                                         Renewal                                                          |                              $2,440.                              |
 |                                               Special Temporary Authority                                                |                               $675.                               |
@@ -56,7 +54,8 @@ Table 1 to § 1.1107
 |                                           Earth Stations, Other Applications:                                            |                                                                   |
 |                 Applications for Modification of Earth Station Licenses or Registrations, per Call Sign                  |                               $545.                               |
 |               Assignment or Transfer of Control of Earth Station Licenses or Registrations, per Call Sign                |$745 (first call sign).  <br/>$400 (for each additional call sign).|
-|         Pro Forma Assignment or Transfer of Control of Earth Station Licenses or Registrations, per Transaction          |                               $400.                               |
+|         Pro Forma Assignment or Transfer of Control of Earth Station Licenses or Registrations, per Application          |                               $400.                               |
+|                                 Earth Station Special Temporary Authority, per call sign                                 |                               $195.                               |
 |                                    Earth Station Renewals of Licenses, per Call Sign:                                    |                                                                   |
 |                                                       Single Site                                                        |                               $115.                               |
 |                                                      Multiple Sites                                                      |                               $145.                               |
@@ -78,7 +77,7 @@ Table 1 to § 1.1107
 |                                        Space Stations, Amendments, per Call Sign                                         |                              $1,620.                              |
 |                                       Space Stations, Modifications, per Call Sign                                       |                              $2,495.                              |
 |                             Space Stations, Assignment or Transfer of Control, per Call Sign                             |$745 (first call sign).  <br/>$400 (for each additional call sign).|
-|                       Space Stations, Pro Forma Assignment or Transfer of Control, per transaction                       |                               $400.                               |
+|                       Space Stations, Pro Forma Assignment or Transfer of Control, per Application                       |                               $400.                               |
 |                                Space Stations, Special Temporary Authority, per Call Sign                                |                              $1,435.                              |
 |                Unified Space Station and Earth Station Initial Application, Amendment, and Modification:                 |                                                                   |
 |                 Unified Space Station and Earth Station Initial Application, Amendment, and Modification                 |   Applicable Space Station Fee + Applicable Earth Station Fee.    |
@@ -97,4 +96,4 @@ Table 1 to § 1.1107
 |                                               Special Temporary Authority                                                |                               $155.                               |
 |                                                   Transfer of Control                                                    |                               $260.                               |
 
-[83 FR 38049, Aug. 3, 2018, as amended at 85 FR 17284, Mar. 27, 2020; 85 FR 43733, July 20, 2020; 86 FR 15065, Mar. 19, 2021]
+[83 FR 38049, Aug. 3, 2018, as amended at 85 FR 17284, Mar. 27, 2020; 85 FR 43733, July 20, 2020; 86 FR 15065, Mar. 19, 2021; 87 FR 34210, June 6, 2022]

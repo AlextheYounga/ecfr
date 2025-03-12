@@ -1,0 +1,7 @@
+##### § 187.312 Action required on creation of certificate of title. #####
+
+(a) On creation of a written certificate of title, the office must promptly send the certificate to the secured party of record or, if none, to the owner of record, at the address indicated for that person in the files of the office. On creation of an electronic certificate of title, the office must promptly send a record evidencing the certificate to the owner of record and, if there is one, to the secured party of record, at the address indicated for that person in the files of the office. The office may send the record to the person's mailing address or, if indicated in the files of the office, an electronic address.
+
+(b) If the office creates a written certificate of title, any electronic certificate of title for the vessel is canceled and replaced by the written certificate. The office must maintain in the files of the office the date and time of cancellation.
+
+(c) Before the office creates an electronic certificate of title, any written certificate for the vessel must be surrendered to the office. If the office creates an electronic certificate, the office must destroy or otherwise cancel the written certificate for the vessel that has been surrendered to the office and maintain in the files of the office the date and time of destruction or other cancellation. If a written certificate being canceled is not destroyed, the office must indicate on the face of the certificate that it has been canceled.

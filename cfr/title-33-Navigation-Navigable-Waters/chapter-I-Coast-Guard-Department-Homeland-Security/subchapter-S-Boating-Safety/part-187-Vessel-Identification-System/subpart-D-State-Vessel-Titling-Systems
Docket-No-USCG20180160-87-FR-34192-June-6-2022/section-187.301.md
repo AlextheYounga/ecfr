@@ -1,0 +1,3 @@
+##### § 187.301 Certification for preferred mortgage status—Eligibility requirements. #####
+
+The Commandant, under 46 U.S.C. 31322(d)(1)(A) and § 187.13, will certify a State whose vessel titling system meets the requirements of this subpart as eligible to have security interests that are perfected under its law deemed preferred mortgages under 46 U.S.C. 31322. The State must also comply with the VIS participation requirements of § 187.11 and subpart C of this part and make vessel information it collects available to the VIS.

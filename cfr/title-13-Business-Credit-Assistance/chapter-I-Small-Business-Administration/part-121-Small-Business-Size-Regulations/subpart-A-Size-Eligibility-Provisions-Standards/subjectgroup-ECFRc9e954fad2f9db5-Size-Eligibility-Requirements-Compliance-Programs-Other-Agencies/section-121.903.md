@@ -1,12 +1,10 @@
 ##### § 121.903 How may an agency use size standards for its programs that are different than those established by SBA? #####
 
-Link to an amendment published at 87 FR 34120, June 6, 2022.
-
 (a) Federal agencies or departments promulgating regulations relating to small businesses usually use SBA size criteria. In limited circumstances, if they decide the SBA size standard is not suitable for their programs, then agency heads may establish a more appropriate small business definition for the exclusive use in such programs, but only when:
 
 (1) The size standard will determine:
 
-(i) The size of a manufacturing concern by its average number of employees based on the preceding twelve calendar months, determined according to § 121.106;
+(i) The size of a manufacturing concern by its average number of employees based on the preceding 24 calendar months, determined according to § 121.106;
 
 (ii) The size of a services concern by its average annual receipts over a period of at least 5 years, determined according to § 121.104;
 
@@ -42,4 +40,4 @@ Link to an amendment published at 87 FR 34120, June 6, 2022.
 
 (c) Where the agency head is developing a size standard for the sole purpose of performing a Regulatory Flexibility Analysis pursuant to section 601(3) of the Regulatory Flexibility Act, the department or agency may, after consultation with the SBA Office of Advocacy, establish a size standard different from SBA's which is more appropriate for such analysis.
 
-[67 FR 13716, Mar. 26, 2002, as amended at 84 FR 66579, Dec. 5, 2019]
+[67 FR 13716, Mar. 26, 2002, as amended at 84 FR 66579, Dec. 5, 2019; 87 FR 34120, June 6, 2022]

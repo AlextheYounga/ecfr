@@ -1,0 +1,3 @@
+##### § 187.314 Effect of possession of certificate of title; judicial process. #####
+
+Possession of a certificate of title does not by itself provide a right to obtain possession of a vessel. Garnishment, attachment, levy, replevin, or other judicial process against the certificate is not effective to determine possessory rights to the vessel. This subpart does not prohibit enforcement under State law, other than this subpart (33 CFR part 187 subpart D), of a security interest in, levy on, or foreclosure of a statutory or common-law lien on a vessel. Absence of an indication of a statutory or common-law lien on a certificate does not invalidate the lien.
