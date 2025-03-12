@@ -1,5 +1,7 @@
 ##### § 401.72 Reporting - explosive and hazardous cargo vessels. #####
 
+Link to an amendment published at 86 FR 15412, Mar. 23, 2021.
+
 (a) Every explosive vessel or hazardous cargo vessel shall, when reporting information related to cargo as required by § 401.64(a), report the nature and tonnage of its explosive or hazardous cargo where applicable. Every vessel carrying grain which is under fumigation shall declare to the nearest traffic control center the nature of the fumigant, its properties and cargo holds affected.
 
 (b) Every explosive vessel requiring a Seaway Explosives Permission Letter shall, when reporting in, give the number of its Seaway Explosives Permission Letter.

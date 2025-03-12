@@ -108,7 +108,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: Anglers may fish from the refuge shoreline at Mill Pond from legal sunrise to legal sunset.
 
-(f) *Seatuck National Wildlife Refuge.* (1)-(2)
+(f) *Seatuck National Wildlife Refuge.* (1)-(2) [Reserved]
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer on designated areas of the refuge subject to the following conditions:
 

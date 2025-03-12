@@ -1,7 +1,5 @@
 ##### § 922.122 Prohibited or otherwise regulated activities. #####
 
-Link to an amendment published at 86 FR 4954, Jan. 19, 2021.
-
 (a) Except as specified in paragraphs (c) through (h) of this section, the following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted:
 
 (1) Exploring for, developing, or producing oil, gas, or minerals except outside of all no-activity zones and provided all drilling cuttings and drilling fluids are shunted to the seabed through a downpipe that terminates an appropriate distance, but no more than ten meters, from the seabed.
@@ -48,7 +46,7 @@ Link to an amendment published at 86 FR 4954, Jan. 19, 2021.
 
 (d) The prohibitions in paragraphs (a)(2) through (11) of this section do not apply to activities necessary to respond to emergencies threatening life, property, or the environment.
 
-(e)(1) The prohibitions in paragraphs (a)(2) through (11) of this section do not apply to activities being carried out by the Department of Defense as of the effective date of Sanctuary designation (January 18, 1994). Such activities shall be carried out in a manner that minimizes any adverse impact on Sanctuary resources and qualities. The prohibitions in paragraphs (a)(2) through (11) of this section do not apply to any new activities carried out by the Department of Defense that do not have the potential for any significant adverse impacts on Sanctuary resources or qualities. Such activities shall be carried out in a manner that minimizes any adverse impact on Sanctuary resources and qualities. New activities with the potential for significant adverse impacts on Sanctuary resources or qualities may be exempted from the prohibitions in paragraphs (a)(2) through (11) of this section by the Director after consultation between the Director and the Department of Defense. If it is determined that an activity may be carried out, such activity shall be carried out in a manner that minimizes any adverse impact on Sanctuary resources and qualities.
+(e)(1) The prohibitions in paragraphs (a)(2) through (11) of this section do not apply to activities being carried out by the Department of Defense as of March 22, 2021, the effective date of the revised terms of sanctuary designation. Such activities shall be carried out in a manner that minimizes any adverse impact on Sanctuary resources or qualities. The prohibitions in paragraphs (a)(2) through (11) of this section do not apply to any new activities carried out by the Department of Defense that do not have the potential for any significant adverse impact on Sanctuary resources or qualities. Such activities shall be carried out in a manner that minimizes any adverse impact on Sanctuary resources or qualities. New activities with the potential for significant adverse impact on Sanctuary resources or qualities may be exempted from the prohibitions in paragraphs (a)(2) through (11) of this section by the Director after consultation between the Director and the Department of Defense. If it is determined that an activity may be carried out, such activity shall be carried out in a manner that minimizes any adverse impact on Sanctuary resources or qualities.
 
 (2) In the event of threatened or actual destruction of, loss of, or injury to a Sanctuary resource or quality resulting from an untoward incident, including but not limited to spills and groundings, caused by a component of the Department of Defense, the cognizant component shall promptly coordinate with the Director for the purpose of taking appropriate actions to respond to and mitigate the harm and, if possible, restore or replace the Sanctuary resource or quality.
 
@@ -58,4 +56,4 @@ Link to an amendment published at 86 FR 4954, Jan. 19, 2021.
 
 (h) Notwithstanding paragraphs (f) and (g) of this section, in no event may the Director issue a National Marine Sanctuary permit under § 922.48 and § 922.123 or a Special Use permit under section 10 of the Act authorizing, or otherwise approve, the exploration for, development of, or production of oil, gas, or minerals in a no-activity zone. Any leases, permits, approvals, or other authorizations authorizing the exploration for, development of, or production of oil, gas, or minerals in a no-activity zone and issued after the January 18, 1994 shall be invalid.
 
-[77 FR 25069, Apr. 27, 2012]
+[77 FR 25069, Apr. 27, 2012, as amended at 86 FR 4954, Jan. 19, 2021; 86 FR 15404, Mar. 23, 2021]

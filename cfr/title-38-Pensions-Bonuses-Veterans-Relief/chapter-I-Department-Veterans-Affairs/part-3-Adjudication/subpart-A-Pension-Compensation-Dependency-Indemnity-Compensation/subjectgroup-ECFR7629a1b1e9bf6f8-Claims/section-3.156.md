@@ -18,7 +18,7 @@ New evidence is evidence not previously part of the actual record before agency 
 
 (iii) Declassified records that could not have been obtained because the records were classified when VA decided the claim.
 
-(2) Paragraph (c)(1) of this section does not apply to records that VA could not have obtained when it decided the claim because the records did not exist when VA decided the claim, or because the claimant failed to provide sufficient information for VA to identify and obtain the records from the respective service department, the Joint Services Records Research Center, or from any other official source.
+(2) Paragraph (c)(1) of this section does not apply to records that VA could not have obtained when it decided the claim because the records did not exist when VA decided the claim, or because the claimant failed to provide sufficient information for VA to identify and obtain the records from the respective service department or from any other official source.
 
 (3) An award made based all or in part on the records identified by paragraph (c)(1) of this section is effective on the date entitlement arose or the date VA received the previously decided claim, whichever is later, or such other date as may be authorized by the provisions of this part applicable to the previously decided claim.
 
@@ -30,6 +30,6 @@ New evidence is evidence not previously part of the actual record before agency 
 
 Cross References:
 
-Effective dates - general. See § 3.400. Correction of military records. See § 3.400(g).
+Effective dates—general. See § 3.400. Correction of military records. See § 3.400(g).
 
-[27 FR 11887, Dec. 1, 1962, as amended at 55 FR 20148, May 15, 1990; 55 FR 52275, Dec. 21, 1990; 58 FR 32443, June 10, 1993; 66 FR 45630, Aug. 29, 2001; 71 FR 52457, Sept. 6, 2006; 84 FR 169, Jan. 18, 2019; 84 FR 4336, Feb. 15, 2019]
+[27 FR 11887, Dec. 1, 1962, as amended at 55 FR 20148, May 15, 1990; 55 FR 52275, Dec. 21, 1990; 58 FR 32443, June 10, 1993; 66 FR 45630, Aug. 29, 2001; 71 FR 52457, Sept. 6, 2006; 84 FR 169, Jan. 18, 2019; 84 FR 4336, Feb. 15, 2019; 86 FR 15414, Mar. 23, 2021]

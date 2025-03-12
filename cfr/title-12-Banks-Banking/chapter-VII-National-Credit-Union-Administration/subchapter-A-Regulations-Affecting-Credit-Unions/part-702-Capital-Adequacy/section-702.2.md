@@ -4,7 +4,7 @@ Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was 
 
 Except as provided below, the terms used in this part have the same meanings as set forth in FCUA sections 101 and 216, 12 U.S.C. 1752, 1790d.
 
-(a) *Appropriate Regional Director* means the director of the NCUA Regional Office having jurisdiction over federally insured credit unions in the state where the affected credit union is principally located or, for credit unions with $10 billion or more in assets, the Director of the Office of National Examinations and Supervision.
+(a) *Appropriate Regional Director* means the director of the NCUA Regional Office having jurisdiction over federally insured credit unions in the state where the affected credit union is principally located or, for covered credit unions under this part, the Director of the Office of National Examinations and Supervision.
 
 (b) *Appropriate State official* means the commission, board or other supervisory authority having jurisdiction over credit unions chartered by the State which chartered the affected credit union.
 
@@ -60,4 +60,4 @@ Except as provided below, the terms used in this part have the same meanings as 
 
 (l) *Weighted-average life* means the weighted-average time to the return of a dollar of principal, calculated by multiplying each portion of principal received by the time at which it is expected to be received (based on a reasonable and supportable estimate of that time), and then summing and dividing by the total amount of principal.
 
-[65 FR 8584, Feb. 18, 2000, as amended at 65 FR 44966, July 20, 2000; 67 FR 71087, Nov. 29, 2002; 73 FR 72691, Dec. 1, 2008; 75 FR 34620, June 18, 2010; 76 FR 60367, Sept. 29, 2011; 78 FR 32544, May 31, 2013; 85 FR 23216, Apr. 27, 2020]
+[65 FR 8584, Feb. 18, 2000, as amended at 65 FR 44966, July 20, 2000; 67 FR 71087, Nov. 29, 2002; 73 FR 72691, Dec. 1, 2008; 75 FR 34620, June 18, 2010; 76 FR 60367, Sept. 29, 2011; 78 FR 32544, May 31, 2013; 85 FR 23216, Apr. 27, 2020; 86 FR 15401, Mar. 23, 2021]

@@ -1,6 +1,6 @@
 ##### § 702.1 Authority, purpose, scope and other supervisory authority. #####
 
-Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.This amendment was further delayed until Jan. 1, 2022, at 84 FR 68781, Dec. 17, 2019.Link to a correction published at 85 FR 62210, Oct. 2, 2020.
+Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.This amendment was further delayed until Jan. 1, 2022, at 84 FR 68781, Dec. 17, 2019.Link to a correction published at 85 FR 62210, Oct. 2, 2020.Link to an amendment published at 86 FR 15401, Mar. 23, 2021.
 
 (a) *Authority.* Subparts A, B and C of this part and subpart L of part 747 of this chapter are issued by the National Credit Union Administration pursuant to section 216 of the Federal Credit Union Act (FCUA), 12 U.S.C. 1790d (section 1790d), as added by section 301 of the Credit Union Membership Access Act, Pub. L. No. 105-219, 112 Stat. 913 (1998). Subpart D of this part is issued pursuant to FCUA section 120, 12 U.S.C. 1766.
 

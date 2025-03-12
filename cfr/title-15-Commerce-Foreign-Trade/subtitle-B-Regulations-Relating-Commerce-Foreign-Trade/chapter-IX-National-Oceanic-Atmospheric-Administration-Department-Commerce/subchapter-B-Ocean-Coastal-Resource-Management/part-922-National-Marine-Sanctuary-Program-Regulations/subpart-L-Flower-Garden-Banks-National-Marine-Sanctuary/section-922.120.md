@@ -1,7 +1,5 @@
 ##### § 922.120 Boundary. #####
 
-Link to an amendment published at 86 FR 4953, Jan. 19, 2021.
+The Flower Garden Banks National Marine Sanctuary (sanctuary) boundary encompasses a total area of approximately 121 square nautical miles (160.35 square miles) of offshore ocean waters, and submerged lands thereunder, along the continental shelf and shelf edge in the northwestern Gulf of Mexico. The entire sanctuary boundary is comprised of 19 unique polygons. The precise boundary coordinates for each polygon are listed in appendix A to this subpart.
 
-The Flower Garden Banks National Marine Sanctuary (the Sanctuary) consists of three separate areas of ocean waters over and surrounding the East and West Flower Garden Banks and Stetson Bank, and the submerged lands thereunder including the Banks, in the northwestern Gulf of Mexico. The area designated at the East Bank is located approximately 120 nautical miles (nmi) south-southwest of Cameron, Louisiana, and encompasses 19.20 nmi2. The area designated at the West Bank is located approximately 110 nmi southeast of Galveston, Texas, and encompasses 22.50 nmi2. The area designated at Stetson Bank is located approximately 70 nmi southeast of Galveston, Texas, and encompasses 0.64 nmi2. The three areas encompass a total of 42.34 nmi2 (145.09 square kilometers). The boundary coordinates for each area are listed in appendix A to this subpart.
-
-[65 FR 81178, Dec. 22, 2000]
+[86 FR 4953, Jan. 19, 2021]

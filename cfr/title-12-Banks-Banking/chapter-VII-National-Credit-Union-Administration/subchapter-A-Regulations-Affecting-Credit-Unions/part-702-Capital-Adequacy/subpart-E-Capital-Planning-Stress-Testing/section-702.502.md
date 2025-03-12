@@ -8,7 +8,11 @@ For purposes of this subpart -
 
 *Capital planning process* means development of a capital policy and formulation of a capital plan that conforms to this part.
 
-*Covered credit union* means a federally insured credit union whose assets are $10 billion or more. A credit union that crosses the asset threshold as of March 31 of a given calendar year is subject to the applicable requirements of this subpart in the following calendar year.
+*Covered credit union* means a federally insured credit union whose assets are $10 billion or more.
+
+(1) *Timing.* A credit union that crosses the asset threshold as of March 31 of a given calendar year is subject to the applicable requirements of this subpart in the following calendar year.
+
+(2) *Regulatory relief for 2021 and 2022.* If a federally insured credit union reaches or crosses an asset size threshold under this subpart on March 31, 2021, the NCUA will use the assets the federally insured credit union reported on March 31, 2020 for the purpose of determining the applicability of those thresholds.
 
 *Planning horizon* means the period of 3 years over which capital planning projections extend.
 
@@ -36,4 +40,4 @@ For purposes of this subpart -
 
 *Tier III credit union* means a covered credit union that has $20 billion or more in total assets, or is otherwise designated as a tier III credit union by NCUA.
 
-[79 FR 24315, Apr. 30, 2014, as amended at 80 FR 48012, Aug. 11, 2015; 83 FR 17909, Apr. 25, 2018]
+[79 FR 24315, Apr. 30, 2014, as amended at 80 FR 48012, Aug. 11, 2015; 83 FR 17909, Apr. 25, 2018; 86 FR 15401, Mar. 23, 2021]
