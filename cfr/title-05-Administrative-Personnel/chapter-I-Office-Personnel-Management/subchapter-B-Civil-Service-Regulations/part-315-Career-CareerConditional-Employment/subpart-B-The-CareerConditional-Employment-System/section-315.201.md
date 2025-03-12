@@ -1,5 +1,7 @@
 ##### § 315.201 Service requirement for career tenure. #####
 
+Link to an amendment published at 86 FR 46106, Aug. 18, 2021.
+
 (a) *Service requirement.* A person employed in the competitive service for other than temporary, term, or indefinite employment is appointed as a career or career-conditional employee subject to the probationary period required by subpart H of this part. Except as provided in paragraph (c) of this section, an employee must serve at least 3 years of creditable service as defined in paragraph (b) of this section to become a career employee.
 
 (b) *Creditable service.* Unless otherwise approved by OPM, the service required for career tenure must include service as described in paragraph (b)(1) of this section and total at least 3 years.

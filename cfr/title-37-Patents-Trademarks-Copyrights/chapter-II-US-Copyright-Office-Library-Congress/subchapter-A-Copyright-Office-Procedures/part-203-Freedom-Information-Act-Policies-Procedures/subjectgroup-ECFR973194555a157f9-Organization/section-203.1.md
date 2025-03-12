@@ -1,5 +1,7 @@
 ##### § 203.1 General. #####
 
+Link to an amendment published at 86 FR 46122, Aug. 18, 2021.
+
 This information is furnished for the guidance of the public and in compliance with the requirements of the Freedom of Information Act (“FOIA”), 5 U.S.C. 552. The rules contained in this part should be read in conjunction with the text of FOIA and the Uniform Freedom of Information Fee Schedule and Guidelines published by the Office of Management and Budget (“OMB Guidelines”). Requests made by individuals for records pertaining to themselves under the Privacy Act of 1974, 5 U.S.C. 552a, are processed under part 204 of this chapter. Requests for services for which the Copyright Act of 1976, title 17 of the United States Code, requires a fee are not processed under this part, but will be processed under the applicable regulations governing that service (including § 201.2 of this chapter). If the Copyright Office receives a request for services for which the Copyright Act requires a fee to be charged, the Office will notify the requester of the procedure established to obtain such services, and the applicable fees under § 201.3 of this chapter. Section 706(b) of the Copyright Act and the regulations issued under section 706(b) are not subject to FOIA.
 
 [82 FR 9506, Feb. 7, 2017]

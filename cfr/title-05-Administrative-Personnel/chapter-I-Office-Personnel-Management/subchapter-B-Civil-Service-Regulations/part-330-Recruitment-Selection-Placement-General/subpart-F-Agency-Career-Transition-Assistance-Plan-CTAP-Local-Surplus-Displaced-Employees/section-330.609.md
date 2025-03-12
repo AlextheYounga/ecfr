@@ -1,5 +1,7 @@
 ##### § 330.609 Exceptions to CTAP selection priority. #####
 
+Link to an amendment published at 86 FR 46109, Aug. 18, 2021.
+
 An agency may take the following personnel actions as exceptions to § 330.607:
 
 (a) Reemploy a former agency employee with regulatory or statutory reemployment rights, including the reemployment of an injured worker who either has been restored to earning capacity by the Office of Workers' Compensation Programs, Department of Labor, or has received a notice that his or her compensation benefits will cease because of full recovery from the disabling injury or illness;
