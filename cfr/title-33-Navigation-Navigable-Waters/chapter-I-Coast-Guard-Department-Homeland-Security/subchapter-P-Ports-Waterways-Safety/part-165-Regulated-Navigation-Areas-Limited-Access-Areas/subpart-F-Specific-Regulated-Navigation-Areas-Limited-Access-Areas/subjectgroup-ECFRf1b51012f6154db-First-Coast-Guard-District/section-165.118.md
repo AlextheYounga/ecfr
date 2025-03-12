@@ -16,10 +16,8 @@ The Coast Guard is establishing safety zones for the events listed in Table 1 of
 
 (g) For all swimming events listed, vessels not associated with the event shall maintain a distance of at least 100 yards from the participants.
 
-Table 1
-
 |                        6.0                        |                                                                                           June                                                                                            |
-|:--------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |        6.1 Sand and Sea Festival Fireworks        |                                                                             • Event Type: Fireworks Display.                                                                              |
 |                                                   |                                                                       • Sponsor: Salisbury Beach Partnership, Inc.                                                                        |
 |                                                   |                           • Date: A one-night event on Saturday during the last weekend of June, as specified in the USCG District 1 Local Notice to Mariners.                            |
@@ -300,4 +298,4 @@ Table 1
 |                                                   |                                                                             • Time: 11:30 p.m. to 12:30 a.m.                                                                              |
 |                                                   |                    • Location: All waters of Boston Inner Harbor within a 350-yard radius of the fireworks barge located at position 42°21.7′ N, 071°02.6′ W (NAD 83).                    |
 
-[USCG-2011-0109, 76 FR 69626, Nov. 9, 2011, as amended by USCG-2013-0060, 78 FR 67030, Nov. 8, 2013
+[USCG-2011-0109, 76 FR 69626, Nov. 9, 2011, as amended by USCG-2013-0060, 78 FR 67030, Nov. 8, 2013]

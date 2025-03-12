@@ -9,4 +9,5 @@
 (d) Non-rechargeable or non-refillable extinguishers must be inspected and maintained in accordance with NFPA 10; however, the annual maintenance need not be conducted by a certified person and can be conducted by the owner, operator, person-in-charge, or a designated member of the crew.
 
 (e) The owner or managing operator must provide satisfactory evidence of the required servicing to the marine inspector. If any of the equipment or records has not been properly maintained, a qualified servicing facility must perform the required inspections, maintenance procedures, and hydrostatic pressure tests. A tag issued by a qualified servicing organization, and attached to each extinguisher, may be accepted as evidence that the necessary maintenance procedures have been conducted.
-USCG-2012-0196, 81 FR 48244, July 22, 2016]
+
+[USCG-2012-0196, 81 FR 48244, July 22, 2016]

@@ -1,44 +1,16 @@
 ##### § 54.313 Annual reporting requirements for high-cost recipients. #####
 
-Link to an amendment published at 82 FR 39969, August 23, 2017.
+(a) Any recipient of high-cost support shall provide the following:
 
-(a) Any recipient of high-cost support shall provide the following, with the information and data required by paragraphs (a)(1) through (7) of this section separately broken out for both voice service and broadband service:
+(1) Certification that the carrier is able to function in emergency situations as set forth in § 54.202(a)(2);
 
-(1) [Reserved]
+(2) A certification that the pricing of the company's voice services is no more than two standard deviations above the applicable national average urban rate for voice service, as specified in the most recent public notice issued by the Wireline Competition Bureau and Wireless Telecommunications Bureau;
 
-(2) Detailed information on any outage in the prior calendar year, as that term is defined in 47 CFR 4.5, of at least 30 minutes in duration for each service area in which an eligible telecommunications carrier is designated for any facilities it owns, operates, leases, or otherwise utilizes that potentially affect
+(3) A certification that the pricing of a service that meets the Commission's broadband public interest obligations is no more than the applicable benchmark to be announced annually in a public notice issued by the Wireline Competition Bureau, or is no more than the non-promotional price charged for a comparable fixed wireline service in urban areas in the states or U.S. Territories where the eligible telecommunications carrier receives support;
 
-(i) At least ten percent of the end users served in a designated service area; or
+(4) The recipient's holding company, operating companies, affiliates, and any branding (a “dba,” or “doing-business-as company” or brand designation), as well as universal service identifiers for each such entity by Study Area Codes, as that term is used by the Administrator. For purposes of this paragraph, “affiliates” has the meaning set forth in section 3(2) of the Communications Act of 1934, as amended;
 
-(ii) A 911 special facility, as defined in 47 CFR 4.5(e).
-
-(iii) Specifically, the eligible telecommunications carrier's annual report must include information detailing:
-
-(A) The date and time of onset of the outage;
-
-(B) A brief description of the outage and its resolution;
-
-(C) The particular services affected;
-
-(D) The geographic areas affected by the outage;
-
-(E) Steps taken to prevent a similar situation in the future; and
-
-(F) The number of customers affected.
-
-(3) The number of requests for service from potential customers within the recipient's service areas that were unfulfilled during the prior calendar year. The carrier shall also detail how it attempted to provide service to those potential customers;
-
-(4) The number of complaints per 1,000 connections (fixed or mobile) in the prior calendar year;
-
-(5) Certification that it is complying with applicable service quality standards and consumer protection rules;
-
-(6) Certification that the carrier is able to function in emergency situations as set forth in § 54.202(a)(2);
-
-(7) The company's price offerings in a format as specified by the Wireline Competition Bureau;
-
-(8) The recipient's holding company, operating companies, affiliates, and any branding (a “dba,” or “doing-business-as company” or brand designation), as well as universal service identifiers for each such entity by Study Area Codes, as that term is used by the Administrator. For purposes of this paragraph, “affiliates” has the meaning set forth in section 3(2) of the Communications Act of 1934, as amended;
-
-(9) *Beginning July 1, 2013.* To the extent the recipient serves Tribal lands, documents or information demonstrating that the ETC had discussions with Tribal governments that, at a minimum, included:
+(5) To the extent the recipient serves Tribal lands, documents or information demonstrating that the ETC had discussions with Tribal governments that, at a minimum, included:
 
 (i) A needs assessment and deployment planning with a focus on Tribal community anchor institutions;
 
@@ -50,11 +22,7 @@ Link to an amendment published at 82 FR 39969, August 23, 2017.
 
 (v) Compliance with Tribal business and licensing requirements. Tribal business and licensing requirements include business practice licenses that Tribal and non-Tribal business entities, whether located on or off Tribal lands, must obtain upon application to the relevant Tribal government office or division to conduct any business or trade, or deliver any goods or services to the Tribes, Tribal members, or Tribal lands. These include certificates of public convenience and necessity, Tribal business licenses, master licenses, and other related forms of Tribal government licensure.
 
-(10) *Beginning July 1, 2013.* A certification that the pricing of the company's voice services is no more than two standard deviations above the applicable national average urban rate for voice service, as specified in the most recent public notice issued by the Wireline Competition Bureau and Wireless Telecommunications Bureau; and
-
-(11) *Beginning July 1, 2013.* The results of network performance tests pursuant to the methodology and in the format determined by the Wireline Competition Bureau, Wireless Telecommunications Bureau, and Office of Engineering and Technology.
-
-(12) A certification that the pricing of a service that meets the Commission's broadband public interest obligations is no more than the applicable benchmark to be announced annually in a public notice issued by the Wireline Competition Bureau, or is no more than the non-promotional price charged for a comparable fixed wireline service in urban areas in the states or U.S. Territories where the eligible telecommunications carrier receives support.
+(6) The results of network performance tests pursuant to the methodology and in the format determined by the Wireline Competition Bureau, Wireless Telecommunications Bureau, and Office of Engineering and Technology.
 
 (b) In addition to the information and certifications in paragraph (a) of this section:
 
@@ -162,7 +130,7 @@ Link to an amendment published at 82 FR 39969, August 23, 2017.
 
 (2) [Reserved]
 
-[76 FR 73873, Nov. 29, 2011, as amended at 77 FR 14302, Mar. 9, 2012; 77 FR 30914, May 24, 2012; 78 FR 22201, Apr. 15, 2013; 78 FR 29656, May 21, 2013; 78 FR 3843, Jan. 17, 2013; 78 FR 38233, June 26, 2013; 79 FR 11336, Feb. 28, 2014; 79 FR 39189, July 9, 2014; 80 FR 4477, Jan. 27, 2015; 81 FR 24341, Apr. 25, 2016; 81 FR 44449, July 7, 2016; 81 FR 69713, Oct. 7, 2016; 82 FR 15450, Mar. 28, 2017]Effective Date Notes:1. At 77 FR 14302, Mar. 9, 2012, § 54.313(a)(9) introductory text and (f)(2) were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[76 FR 73873, Nov. 29, 2011, as amended at 77 FR 14302, Mar. 9, 2012; 77 FR 30914, May 24, 2012; 78 FR 22201, Apr. 15, 2013; 78 FR 29656, May 21, 2013; 78 FR 3843, Jan. 17, 2013; 78 FR 38233, June 26, 2013; 79 FR 11336, Feb. 28, 2014; 79 FR 39189, July 9, 2014; 80 FR 4477, Jan. 27, 2015; 81 FR 24341, Apr. 25, 2016; 81 FR 44449, July 7, 2016; 81 FR 69713, Oct. 7, 2016; 82 FR 15450, Mar. 28, 2017; 82 FR 39969, Aug. 23, 2017]Effective Date Notes:1. At 77 FR 14302, Mar. 9, 2012, § 54.313(a)(9) introductory text and (f)(2) were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
 
 2. At 79 FR 11336, Feb. 28, 2014, § 54.313(e)(1), (e)(2), and (e)(3) introductory text were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
 
@@ -170,6 +138,8 @@ Link to an amendment published at 82 FR 39969, August 23, 2017.
 
 4. At 80 FR 5987, Feb. 4, 2015, § 54.313 was amended by revising paragraphs (e)(2)(iii) and (iv), adding (e)(2)(v), revising (f)(1)(i) and (ii), and revising (f)(1)(iii). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval have been given by the Office of Management and Budget.
 
-5. At 81 FR 44449, July 7, 2016, § 54.313(e) was revised, Paragraph (e)(2) contains information collection and recordkeeping requirements and will not become effective until approval have been given by the Office of Management and Budget.
+5. At 81 FR 24341. Apr. 25, 2016, § 54.313 was amended in part revising paragraphs (a)(10), (e)(1), (e)(2) introductory text,and (f)(1) introductory text, and (f)(1)(i) and (iii). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
 
-6. At 81 FR 67913, Oct. 7, 2016, § 54.313(f)(1)(i) was revised and (f)(3) and (l) were added. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval is given by the Office of Management and Budget.
+6. At 81 FR 44449, July 7, 2016, § 54.313(e) was revised, Paragraph (e)(2) contains information collection and recordkeeping requirements and will not become effective until approval have been given by the Office of Management and Budget.
+
+7. At 81 FR 67913, Oct. 7, 2016, § 54.313(f)(1)(i) was revised and (f)(3) and (l) were added. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval is given by the Office of Management and Budget.

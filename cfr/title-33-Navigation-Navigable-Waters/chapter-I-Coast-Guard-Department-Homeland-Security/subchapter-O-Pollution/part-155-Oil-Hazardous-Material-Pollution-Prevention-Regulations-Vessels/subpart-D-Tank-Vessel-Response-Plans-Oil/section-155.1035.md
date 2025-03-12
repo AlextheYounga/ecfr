@@ -1,6 +1,6 @@
 ##### § 155.1035 Response plan requirements for manned vessels carrying oil as a primary cargo. #####
 
-(a) *General information and introduction.* This section of the response plan must include -
+(a) *General information and introduction.* This section of the response plan must include—
 
 (1) The vessel's name, country of registry, call sign, official number, and International Maritime Organization (IMO) international number (if applicable). If the plan covers multiple vessels, this information must be provided for each vessel;
 
@@ -14,13 +14,13 @@
 
 (b) *Notification procedures.* This section of the response plan must include the following notification information:
 
-(1) A checklist with all notifications, including telephone or other contact numbers, in order of priority to be made by shipboard or shore-based personnel and the information required for those notifications. Notifications must include those required by -
+(1) A checklist with all notifications, including telephone or other contact numbers, in order of priority to be made by shipboard or shore-based personnel and the information required for those notifications. Notifications must include those required by—
 
 (i) MARPOL 73/78 and 33 CFR part 153; and
 
 (ii) Any applicable State.
 
-(2) Identification of the person(s) to be notified of a discharge or substantial threat of a discharge of oil. If the notifications vary due to vessel location, the persons to be notified also must be identified in a geographic-specific appendix. This section must separately identify -
+(2) Identification of the person(s) to be notified of a discharge or substantial threat of a discharge of oil. If the notifications vary due to vessel location, the persons to be notified also must be identified in a geographic-specific appendix. This section must separately identify—
 
 (i) The individual(s) or organization(s) to be notified by shipboard personnel; and
 
@@ -62,7 +62,7 @@
 
 (N) Number of crew and details of injuries, if any.
 
-(ii) After the transmission of the initial notification, as much as possible of the information essential for the protection of the marine environment as is appropriate to the incident must be reported to the appropriate on-scene coordinator in a follow-up report. This information must include -
+(ii) After the transmission of the initial notification, as much as possible of the information essential for the protection of the marine environment as is appropriate to the incident must be reported to the appropriate on-scene coordinator in a follow-up report. This information must include—
 
 (A) Additional details on the type of cargo on board;
 
@@ -76,9 +76,9 @@
 
 (6) Identification of the person(s) to be notified of a vessel casualty potentially affecting the seaworthiness of a vessel and the information to be provided by the vessel's crew to shore-based personnel to facilitate the assessment of damage stability and stress.
 
-(c) *Shipboard spill mitigation procedures.* This section of the response plan must include -
+(c) *Shipboard spill mitigation procedures.* This section of the response plan must include—
 
-(1) Procedures for the crew to mitigate or prevent any discharge or a substantial threat of such discharge of oil resulting from shipboard operational activities associated with internal or external cargo transfers. Responsibilities of vessel personnel should be identified by job title. These procedures must address personnel actions in the event of a -
+(1) Procedures for the crew to mitigate or prevent any discharge or a substantial threat of such discharge of oil resulting from shipboard operational activities associated with internal or external cargo transfers. Responsibilities of vessel personnel should be identified by job title. These procedures must address personnel actions in the event of a—
 
 (i) Transfer system leak;
 
@@ -108,7 +108,7 @@
 
 (i) The format and content of the ship-to-ship transfer procedures must be consistent with the Ship to Ship Transfer Guide (Petroleum) (incorporated by reference; see § 155.140) published jointly by the International Chamber of Shipping and the Oil Companies International Marine Forum (OCIMF).
 
-(ii) The procedures must identify the response resources necessary to carry out the transfers, including -
+(ii) The procedures must identify the response resources necessary to carry out the transfers, including—
 
 (A) Fendering equipment (ship-to-ship only);
 
@@ -132,7 +132,7 @@
 
 (9) The crew's responsibilities, if any, to initiate a response and supervise shore-based response resources;
 
-(10) Damage stability and hull stress considerations when performing shipboard mitigation measures. This section must identify and describe -
+(10) Damage stability and hull stress considerations when performing shipboard mitigation measures. This section must identify and describe—
 
 (i) Activities in which the crew is trained and qualified to execute absent shore-based support or advice; and
 
@@ -206,7 +206,7 @@
 
 (g) *Exercise procedures.* This section of the response plan must address the exercise program to be carried out by the vessel owner or operator to meet the requirements in § 155.1060.
 
-(h) *Plan review, update, revision, amendment, and appeal procedure.* This section of the response plan must address -
+(h) *Plan review, update, revision, amendment, and appeal procedure.* This section of the response plan must address—
 
 (1) The procedures to be followed by the vessel owner or operator to meet the requirements of § 155.1070; and
 
@@ -258,7 +258,7 @@
 
 (2) Capacities of all cargo, fuel, lube oil, ballast, and fresh water tanks.
 
-(3) The total volume and cargo groups of oil cargo that would be involved in the -
+(3) The total volume and cargo groups of oil cargo that would be involved in the—
 
 (i) Maximum most probable discharge; and
 
@@ -278,4 +278,4 @@
 
 (10) Location of information on the name, description, physical and chemical characteristics, health and safety hazards, and spill and firefighting procedures for the oil cargo aboard the vessel. A material safety data sheet meeting the requirements of 29 CFR 1910.1200, SOLAS 74 regulation VI/5-1, cargo information required by 33 CFR 154.310, or equivalent will meet this requirement. This information can be maintained separately.
 
-[CGD 91-034, 61 FR 1081, Jan. 12, 1996, as amended by CGD 96-026, 61 FR 33666, June 28, 1996; USCG-2005-21531, 70 FR 36349, June 23, 2005; USCG-2008-0179, 73 FR 35015, June 19, 2008; USCG-2001-8661, 74 FR 45027, Aug. 31, 2009; USCG-2010-0351, 75 FR 36285, June 25, 2010; USCG-2008-1070, 78 FR 60122, Sept. 30, 2013; USCG-2014-0410, 79 FR 38436, July 7, 2014 ; USCG-2010-0194, 80 FR 5935, Feb. 4, 2015]
+[CGD 91-034, 61 FR 1081, Jan. 12, 1996, as amended by CGD 96-026, 61 FR 33666, June 28, 1996; USCG-2005-21531, 70 FR 36349, June 23, 2005; USCG-2008-0179, 73 FR 35015, June 19, 2008; USCG-2001-8661, 74 FR 45027, Aug. 31, 2009; USCG-2010-0351, 75 FR 36285, June 25, 2010; USCG-2008-1070, 78 FR 60122, Sept. 30, 2013; USCG-2014-0410, 79 FR 38436, July 7, 2014; USCG-2010-0194, 80 FR 5935, Feb. 4, 2015]
