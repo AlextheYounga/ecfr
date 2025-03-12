@@ -1,17 +1,18 @@
-##### § 558.465 Poloxalene free-choice liquid Type C feed. #####
+##### § 558.465 Poloxalene. #####
 
-(a) *Specifications.* Type A medicated articles containing 99.5 percent poloxalene.
+(a) *Specifications.* Dry Type A medicated articles containing 53 percent poloxalene or liquid Type A medicated articles containing 99.5 percent poloxalene.
 
 (b) *Sponsor.* See No. 066104 in § 510.600(c) of this chapter.
 
-(c) *Related tolerances.* See § 556.517 of this chapter.
+(c) *Tolerances.* See § 556.517 of this chapter.
 
-(d) *Conditions of use.* (1) For control of legume (alfalfa, clover) and wheat pasture bloat in cattle, use 7.5 grams of poloxalene per pound of liquid Type C feed (1.65 percent weight/weight). Each animal must consume 0.2 pound of Type C feed per 100 pounds of body weight daily for adequate protection.
+(d) *Special considerations.* Poloxalene dry Type A article and liquid Type A article must be thoroughly blended and evenly distributed in feed prior to use. This may be accomplished by adding the Type A article to a small quantity of feed, mixing thoroughly, then adding this mixture to the remaining feed and again mixing thoroughly.
 
-(2) For control of legume (alfalfa, clover) bloat in cattle grazing of prebloom legumes, use 10.00 grams of poloxalene per pound of liquid Type C feed (2.2 percent weight/weight). Each animal must consume 0.15 pound of Type C feed per 100 pounds of body weight daily for adequate protection. If consumption exceeds 0.2 pound of Type C feed per 100 pounds of body weight daily, cattle should be changed to a Type C feed containing 7.5 grams of poloxalene per pound.
+(e) *Conditions of use in cattle* -
 
-(3) Poloxalene liquid Type A article must be thoroughly blended and evenly distributed into a liquid Type C feed and offered to cattle in a covered liquid Type C feed feeder with lick wheels. The formula for the liquid Type C feed, on a weight/weight basis, is as follows: Ammonium polyphosphate 2.66 percent, phosphoric acid (75 percent) 3.37 percent, sulfuric acid 1.00 percent, water 10.00 percent, and molasses sufficient to make 100.00 percent, vitamins A and D and/or trace minerals may be added. One free-turning lick wheel per 25 head of cattle must be provided.
+|                 Poloxalene in grams/ton                 |                                Indications for use                                 |                                                                                                                                                                                                                        Limitations                                                                                                                                                                                                                        |Sponsor|
+|---------------------------------------------------------|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+|(1) To deliver 1 to 2 grams per 100 pounds of body weight|Cattle: For prevention of legume (alfalfa, clover) and wheat pasture bloat in cattle|Dosage is 1 gram of poloxalene per 100 pounds of body weight daily and continued during exposure to bloat producing conditions. If bloating conditions are severe, the dose is doubled. Treatment should be started 2 to 3 days before exposure to bloat-producing conditions. Repeat dosage if animals are exposed to bloat-producing conditions more than 12 hours after the last treatment. Do not exceed the higher dosage levels in any 24-hour period|054771 |
+|                     (2) [Reserved]                      |                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                           |       |
 
-(4) The medicated liquid Type C feed must be introduced at least 2 to 5 days before legume consumption to accustom the cattle to the medicated liquid Type C feed and to lick wheel feedings. If the medicated liquid wheel Type C feed feeding is interrupted, this 2- to 5-day introductory feeding should be repeated.
-
-[40 FR 13959, Mar. 27, 1975, as amended at 42 FR 21281, Apr. 26, 1977; 51 FR 7399, Mar. 3, 1986; 52 FR 2686, Jan. 26, 1987; 56 FR 50654, Oct. 8, 1991; 60 FR 55660, Nov. 2, 1995; 66 FR 47963, Sept. 17, 2001; 84 FR 33001, July 11, 2019]
+[85 FR 45310, July 28, 2020]

@@ -1,13 +1,16 @@
 ##### § 558.340 Maduramicin. #####
 
-(a) *Approvals.* Type A medicated articles: 4.54 grams per pound to 054771 in § 510.600(c) of this chapter.
+(a) *Specifications.* Type A medicated articles containing 4.54 grams maduramicin per pound.
 
-(b) *Tolerances.* See § 556.375 of this chapter.
+(b) *Sponsor. See* No. 054771 in § 510.600(c) of this chapter.
 
-(c) *Conditions of use* - (1) *Amount.* 4.54 to 5.45 grams per ton (5 to 6 parts per million) (1 to 1.2 pounds per ton).
+(c) *Tolerances. See* § 556.375 of this chapter.
 
-(2) *Indications for use.* Broiler chickens: For prevention of coccidiosis caused by *Eimeria acervulina, E. tenella, E. brunetti, E. maxima, E. necatrix,* and *E. mivati.*
+(d) *Conditions of use in chickens*—
 
-(3) *Limitations.* For broiler chickens only. Feed continuously as sole ration. Do not feed to laying hens. Withdraw 5 days before slaughter.
+|Amount in grams/ton|                                                            Indications for use                                                             |                                                       Limitations                                                       |Sponsor|
+|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------|
+| (1) 4.54 to 5.45  |Broiler chickens: For prevention of coccidiosis caused by Eimeria acervulina, E. tenella, E. brunetti, E. maxima, E. necatrix, and E. mivati|Feed continuously as sole ration. For broiler chickens only. Do not feed to laying hens. Withdraw 5 days before slaughter|054771 |
+|  (2) [Reserved]   |                                                                                                                                            |                                                                                                                         |       |
 
-[54 FR 5229, Feb. 2, 1989, as amended at 54 FR 26732, June 26, 1989; 54 FR 32635, Aug. 9, 1989; 54 FR 33885, Aug. 17, 1989; 55 FR 23, Jan. 2, 1990; 55 FR 8460, Mar. 8, 1990; 55 FR 49616, Nov. 30, 1990; 59 FR 8134, Feb. 18, 1994; 61 FR 18082, Apr. 24, 1996; 63 FR 27845, May 21, 1998; 66 FR 46706, Sept. 7, 2001; 79 FR 13545, Mar. 11, 2014; 81 FR 22525, Apr. 18, 2016]
+[85 FR 45310, July 28, 2020]

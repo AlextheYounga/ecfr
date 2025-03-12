@@ -1,5 +1,7 @@
 ##### § 800.239 Principal place of business. #####
 
+Link to an amendment published at 85 FR 45313, July 28, 2020.
+
 (a) The term *principal place of business* means, subject to paragraph (b) of this section, the primary location where an entity's management directs, controls, or coordinates the entity's activities, or, in the case of an investment fund, where the fund's activities and investments are primarily directed, controlled, or coordinated by or on behalf of the general partner, managing member, or equivalent.
 
 (b) If the location determined under paragraph (a) of this section is in the United States and the entity has represented to the U.S. Government or a subnational government of the United States or any foreign government, in the most recent submission or filing to such government (other than a submission or filing to the Committee) in which the entity has identified its principal place of business, principal office and place of business, address of principal executive offices, address of headquarters, or equivalent, that any of the foregoing is outside the United States, then the location identified in such submission or filing is deemed for purposes of this definition to be the entity's principal place of business unless the entity can demonstrate that such location has changed to the United States since such submission or filing.

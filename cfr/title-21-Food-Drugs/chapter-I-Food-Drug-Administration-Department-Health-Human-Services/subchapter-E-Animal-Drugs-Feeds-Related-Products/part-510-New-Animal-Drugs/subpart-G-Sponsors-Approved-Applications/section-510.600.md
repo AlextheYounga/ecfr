@@ -48,7 +48,6 @@
 |                                                                     Happy Jack, Inc., Snow Hill, NC 28580                                                                      |     023851      |
 |                                                    Hemoglobin Oxygen Therapeutics, LLC, 674 Souder Rd., Souderton, PA 18964                                                    |     063075      |
 |                                                           Heska Corp., 1825 Sharp Point Dr., Fort Collins, CO 80525                                                            |     063604      |
-|                                        Hikma International Pharmaceuticals LLC, P.O. Box 182400, Bayader Wadi Seer, Amman, Jordan 11118                                        |     059115      |
 |                                                   HQ Specialty Pharma Corp., 120 Rte. 17 North, suite 130, Paramus, NJ 07652                                                   |     042791      |
 |                                                    Huvepharma EOOD, 5th Floor, 3A Nikolay Haytov Str., 1113 Sofia, Bulgaria                                                    |     016592      |
 |                                                        IMPAX Laboratories, Inc., 30831 Huntwood Ave., Hayward, CA 94544                                                        |     000115      |
@@ -165,7 +164,6 @@
 |     058670      |                                                            RSR Laboratories, Inc., 501 Fifth St., Bristol, TN 37620.                                                            |
 |     058829      |                                                           First Priority, Inc., 1590 Todd Farm Dr., Elgin, IL 60123.                                                            |
 |     059051      |                                                              Neogen Corp., 944 Nandino Blvd., Lexington, KY 40511.                                                              |
-|     059115      |                                        Hikma International Pharmaceuticals LLC, P.O. Box 182400, Bayader Wadi Seer, Amman, Jordan 11118.                                        |
 |     059320      |                                                  Vétoquinol N.-A., Inc., 2000 chemin Georges, Lavaltrie (PQ), Canada, J5T 3S5.                                                  |
 |     059399      |                                                Akorn Animal Health, Inc., 1925 West Field Ct., suite 300, Lake Forest, IL 60045.                                                |
 |     060728      |                             Planalquimica Industrial Ltda., Rua das Magnolias nr. Jardim das Bandeiras, CEP 13053-120, Campinas, Sao Alto, Brazil.                              |

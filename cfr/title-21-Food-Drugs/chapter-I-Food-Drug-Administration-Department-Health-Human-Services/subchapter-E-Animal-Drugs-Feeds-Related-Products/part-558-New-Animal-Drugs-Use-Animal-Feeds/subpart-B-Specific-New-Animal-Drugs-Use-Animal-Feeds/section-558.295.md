@@ -1,17 +1,21 @@
 ##### § 558.295 Iodinated casein. #####
 
-(a) *Approvals.* See 017762 in § 510.600(c) of this chapter.
+(a) Type A medicated articles containing grams iodinated casein per pound.
 
-(b) [Reserved]
+(b) *Sponsor. See* No. 017762 in § 510.600(c) of this chapter.
 
-(c) *Conditions of use* - (1) *Ducks* - (i) *Amount per ton.* 100 to 200 grams.
+(c) *Conditions of use* - (1) *Ducks* -
 
-(ii) *Indications for use.* For increased rate of weight gain and improved feathering in growing ducks.
+|Amount in grams/ton|              Indications for use               |Limitations|Sponsor|
+|-------------------|------------------------------------------------|-----------|-------|
+|  (i) 100 to 200   |Growing ducks: For increased rate of weight gain|           |017762 |
+|  (ii) [Reserved]  |                                                |           |       |
 
-(2) *Dairy cows* - (i) *Amount per pound.*1/2 to 11/2 grams per 100 lb of body weight.
+(2) *Dairy cows* -
 
-(ii) *Indications for use.* For increased milk production in dairy cows.
+|         Amount in grams/pound          |           Indications for use           |                                                                                                                    Limitations                                                                                                                    |Sponsor|
+|----------------------------------------|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+|(1) 0.5 to 1.5 per 100 lb of body weight|Dairy cows: For increased milk production|This drug is effective for limited periods of time, and the effectiveness is limited to the declining phase of lactation. Administration must be accompanied with increased feed intake. Administration may increase heat sensitivity of the animal|017762 |
+|             (2) [Reserved]             |                                         |                                                                                                                                                                                                                                                   |       |
 
-(iii) *Limitations.* This drug is effective for limited periods of time, and the effectiveness is limited to the declining phase of lactation. Administration must be accompanied with increased feed intake; administration may increase heat sensitivity of the animal.
-
-[45 FR 41631, June 20, 1980, as amended at 81 FR 67152, Sept. 30, 2016]
+[85 FR 45309, July 28, 2020]

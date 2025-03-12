@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each milliliter contains 60 or 120 milligrams of selamectin.
 
-(b) *Sponsor.* See Nos. 054771 and 055529 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See Nos. 054771, 055529, and 061651 in § 510.600(c) of this chapter.
 
 (c) [Reserved]
 
@@ -12,4 +12,4 @@
 
 (3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[64 FR 37401, July 12, 1999, as amended at 64 FR 48707, Sept. 8, 1999; 65 FR 45282, July 21, 2000; 74 FR 19878, Apr. 30, 2009; 79 FR 10972, Feb. 27, 2014; 85 FR 18120, Apr. 1, 2020]
+[64 FR 37401, July 12, 1999, as amended at 64 FR 48707, Sept. 8, 1999; 65 FR 45282, July 21, 2000; 74 FR 19878, Apr. 30, 2009; 79 FR 10972, Feb. 27, 2014; 85 FR 18120, Apr. 1, 2020; 85 FR 45308, July 28, 2020]
