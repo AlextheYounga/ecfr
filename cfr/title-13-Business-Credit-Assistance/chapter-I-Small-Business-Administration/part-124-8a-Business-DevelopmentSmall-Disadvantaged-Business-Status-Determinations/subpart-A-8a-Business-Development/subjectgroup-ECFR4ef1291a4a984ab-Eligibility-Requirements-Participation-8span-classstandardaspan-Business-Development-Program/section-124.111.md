@@ -1,5 +1,7 @@
 ##### § 124.111 Do Community Development Corporations (CDCs) have any special rules for applying to and remaining eligible for the 8(a) BD program? #####
 
+Link to an amendment published at 88 FR 26205, Apr. 27, 2023.
+
 (a) Concerns owned at least 51 percent by CDCs (or a wholly owned business entity of a CDC) are eligible for participation in the 8(a) BD program and other federal programs requiring SBA to determine social and economic disadvantage as a condition of eligibility. These concerns must meet all eligibility criteria set forth in § 124.101 through § 124.108 and § 124.112 to the extent that they are not inconsistent with this section.
 
 (b) A concern that is at least 51 percent owned by a CDC (or a wholly owned business entity of a CDC) is considered to be controlled by such CDC and eligible for participation in the 8(a) BD program, provided it meets all eligibility criteria set forth or referred to in this section and its management and daily business operations are conducted by one or more individuals determined to have managerial experience of an extent and complexity needed to run the concern.

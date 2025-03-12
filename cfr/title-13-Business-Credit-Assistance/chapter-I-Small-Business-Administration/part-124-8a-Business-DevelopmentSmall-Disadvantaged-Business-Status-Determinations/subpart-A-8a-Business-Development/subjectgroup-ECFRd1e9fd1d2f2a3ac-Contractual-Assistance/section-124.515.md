@@ -1,5 +1,7 @@
 ##### § 124.515 Can a Participant change its ownership or control and continue to perform an 8(a) contract, and can it transfer performance to another firm? #####
 
+Link to an amendment published at 88 FR 26208, Apr. 27, 2023.
+
 (a) An 8(a) contract (or 8(a) order where the underlying contract is not an 8(a) contract) must be performed by the Participant that initially received it unless a waiver is granted under paragraph (b) of this section.
 
 (1) An 8(a) contract or order, whether in the base or an option year, must be terminated for the convenience of the Government if:

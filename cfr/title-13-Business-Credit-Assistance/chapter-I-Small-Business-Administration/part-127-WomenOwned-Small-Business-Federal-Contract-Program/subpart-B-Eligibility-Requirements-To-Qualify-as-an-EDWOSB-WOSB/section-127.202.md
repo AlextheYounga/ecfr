@@ -1,5 +1,7 @@
 ##### § 127.202 What are the requirements for control of an EDWOSB or WOSB? #####
 
+Link to an amendment published at 88 FR 26214, Apr. 27, 2023.
+
 (a) *General.* To qualify as a WOSB, the management and daily business operations of the concern must be controlled by one or more women. To qualify as an EDWOSB, the management and daily business operations of the concern must be controlled by one or more women who are economically disadvantaged. Control by one or more women or economically disadvantaged women means that both the long-term decision making and the day-to-day management and administration of the business operations must be conducted by one or more women or economically disadvantaged women.
 
 (b) *Managerial position and experience.* A woman, or in the case of an EDWOSB an economically disadvantaged woman, must hold the highest officer position in the concern and must have managerial experience of the extent and complexity needed to run the concern. The woman or economically disadvantaged woman manager need not have the technical expertise or possess the required license to be found to control the concern if she can demonstrate that she has ultimate managerial and supervisory control over those who possess the required licenses or technical expertise. However, if a man possesses the required license and has an equity interest in the concern, he may be found to control the concern.

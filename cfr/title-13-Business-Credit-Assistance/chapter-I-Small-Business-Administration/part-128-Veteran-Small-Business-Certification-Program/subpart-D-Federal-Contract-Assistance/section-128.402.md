@@ -1,5 +1,7 @@
 ##### § 128.402 When may a joint venture submit an offer on a VOSB or SDVOSB contract? #####
 
+Link to an amendment published at 88 FR 26216, Apr. 27, 2023.
+
 (a) *General.* A certified VOSB or SDVOSB may enter into a joint venture agreement with one or more other small business concerns, or with an approved mentor authorized by § 125.9 of this chapter, for the purpose of submitting an offer for a VOSB or SDVOSB contract. The joint venture itself need not be a certified VOSB or SDVOSB. Where this section references the requirements of a VOSB or SDVOSB joint venture partner, the VOSB or SDVOSB status of that joint venture partner must correspond with the type of award (*e.g.,* to be eligible for a SDVOSB contract, a SDVOSB joint venture partner must be the managing venturer of the joint venture).
 
 (1) The VOSB or SDVOSB joint venture partner must be certified in accordance with this part;

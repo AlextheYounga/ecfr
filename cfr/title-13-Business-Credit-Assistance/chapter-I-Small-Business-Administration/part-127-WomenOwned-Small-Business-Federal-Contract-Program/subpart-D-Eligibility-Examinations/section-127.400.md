@@ -1,5 +1,7 @@
 ##### § 127.400 How does a concern maintain its WOSB or EDWOSB certification? #####
 
+Link to an amendment published at 88 FR 26214, Apr. 27, 2023.
+
 (a) Any concern seeking to remain a certified WOSB or EDWOSB must annually represent to SBA that it continues to meet all WOSB/EDWOSB eligibility criteria.
 
 (1) Except as provided in paragraph (b) of this section, unless SBA has reason to question the concern's representation of its continued eligibility, SBA will accept the representation without requiring the certified WOSB or EDWOSB to submit any supporting information or documentation.

@@ -1,5 +1,7 @@
 ##### § 155.225 Certified application counselors. #####
 
+Link to an amendment published at 88 FR 25918, Apr. 27, 2023.
+
 (a) *General rule.* The Exchange must have a certified application counselor program that complies with the requirements of this section.
 
 (b) *Exchange designation of organizations.* (1) The Exchange may designate an organization, including an organization designated as a Medicaid certified application counselor organization by a state Medicaid or CHIP agency, to certify its staff members or volunteers to act as certified application counselors who perform the duties and meet the standards and requirements for certified application counselors in this section if the organization—

@@ -1,5 +1,7 @@
 ##### § 156.230 Network adequacy standards. #####
 
+Link to an amendment published at 88 FR 25922, Apr. 27, 2023.
+
 (a) *General requirement.* (1) Each QHP issuer that uses a provider network must ensure that the provider network consisting of in-network providers, as available to all enrollees, meets the following standards:
 
 (i) Includes essential community providers in accordance with § 156.235;

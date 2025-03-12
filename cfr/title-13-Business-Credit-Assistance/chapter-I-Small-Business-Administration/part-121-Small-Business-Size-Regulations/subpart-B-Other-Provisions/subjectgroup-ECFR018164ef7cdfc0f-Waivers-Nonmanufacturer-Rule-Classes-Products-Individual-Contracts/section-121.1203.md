@@ -1,5 +1,7 @@
 ##### § 121.1203 When will a waiver of the Nonmanufacturer Rule be granted for an individual contract? #####
 
+Link to an amendment published at 88 FR 26203, Apr. 27, 2023.
+
 (a) Where appropriate, SBA will generally grant waivers for an individual contract or order prior to the issuance of a solicitation, or, where a solicitation has been issued, when the contracting officer provides all potential offerors additional time to respond.
 
 (b) SBA may grant a waiver after contract award, where the contracting officer has determined that the modification is within the scope of the contract and the agency followed the regulations prior to issuance of the solicitation and properly and timely requested a waiver for any other items under the contract, where required.

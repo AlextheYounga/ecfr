@@ -1,5 +1,7 @@
 ##### § 124.304 What are the procedures for early graduation and termination? #####
 
+Link to an amendment published at 88 FR 26205, Apr. 27, 2023.
+
 (a) *General.* The same procedures apply to both early graduation and termination of Participants from the 8(a) BD program.
 
 (b) *Letter of Intent to Terminate or Graduate Early.* When SBA believes that a Participant should be terminated or graduated prior to the expiration of its program term, SBA will notify the concern in writing. The Letter of Intent to Terminate or Graduate Early will set forth the specific facts and reasons for SBA's findings, and will notify the concern that it has 30 days from the date it receives the letter to submit a written response to SBA explaining why the proposed ground(s) should not justify termination or early graduation.

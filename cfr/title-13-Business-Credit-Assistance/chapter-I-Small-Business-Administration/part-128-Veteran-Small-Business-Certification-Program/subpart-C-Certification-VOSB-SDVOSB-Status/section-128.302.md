@@ -1,5 +1,7 @@
 ##### § 128.302 How does SBA process applications for certification? #####
 
+Link to an amendment published at 88 FR 26216, Apr. 27, 2023.
+
 (a) SBA's Director of Government Contracting (D/GC) (or designee) is authorized to approve or deny applications for certification as a VOSB or SDVOSB.
 
 (b) SBA, in its sole discretion, may request clarification of information relating to eligibility at any time in the eligibility determination process. SBA will take into account any clarifications made by an Applicant in response to such a request.

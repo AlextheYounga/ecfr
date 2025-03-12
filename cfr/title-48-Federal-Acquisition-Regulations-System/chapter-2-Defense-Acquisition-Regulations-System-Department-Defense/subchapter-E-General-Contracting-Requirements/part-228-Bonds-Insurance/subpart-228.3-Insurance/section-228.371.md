@@ -22,7 +22,7 @@
 
 (vi) Under which the aircraft are classified as Group 1 or 2 unmanned aircraft systems per DoD Instruction (DoDI) 6055.07, Mishap Notification, Investigation, Reporting, and Record Keeping, and the purchase price of the air vehicle, including installed Government-furnished equipment, is below the cost threshold for a Class C mishap per DoDI 6055.07; or
 
-(2) Involving aircraft not owned by or to be delivered to the Government, only if the contracting officer decides that it is in the best interest of the Government. See 228.371-3.
+(2) Involving aircraft not owned by or to be delivered to the Government, only if the contracting officer decides that it is in the best interest of the Government. See 228.370-3.
 
 (c) The clause at 252.228-7003, Capture and Detention, may be used when contractor employees are subject to capture and detention and may not be covered by the War Hazards Compensation Act (42 U.S.C. 1701 *et seq.*).
 
@@ -32,4 +32,4 @@
 
 (f) Use the clause at 252.228-7007, Public Aircraft and State Aircraft Operations—Liability, in solicitations and contracts that do not include the clause at 252.228-7001 but involve public aircraft operations or state aircraft operations.
 
-[56 FR 36404, July 31, 1991, as amended at 57 FR 42631, Sept. 15, 1992; 62 FR 34125, June 24, 1997; 63 FR 69006, Dec. 15, 1998; 75 FR 32644, June 8, 2010; 84 FR 65312, Nov. 27, 2019. Redesignated and amended at 88 FR 17349, Mar. 22, 2023]
+[56 FR 36404, July 31, 1991, as amended at 57 FR 42631, Sept. 15, 1992; 62 FR 34125, June 24, 1997; 63 FR 69006, Dec. 15, 1998; 75 FR 32644, June 8, 2010; 84 FR 65312, Nov. 27, 2019. Redesignated and amended at 88 FR 17349, Mar. 22, 2023; 88 FR 25512, Apr. 27, 2023]

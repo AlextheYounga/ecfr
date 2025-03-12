@@ -76,7 +76,9 @@
 
 (vi) *Part 216—Types of Contracts.* Use the clause at 252.216-7010, Postaward Debriefings for Task Orders and Delivery Orders, as prescribed in 216.506-70(b), to comply with section 818 of the National Defense Authorization Act for Fiscal Year 2018 (Pub. L. 115-91).
 
-(vii) *Part 219—Small Business Programs.* (A) Use the clause at 252.219-7003, Small Business Subcontracting Plan (DoD Contracts), to comply with 15 U.S.C. 637.
+(vii) *Part 219—Small Business Programs.*(A) Use the provision at 252.219-7000, Advancing Small Business Growth, as prescribed in 219.309(1), to comply with 10 U.S.C. 4959.
+
+(B) Use the clause at 252.219-7003, Small Business Subcontracting Plan (DoD Contracts), to comply with 15 U.S.C. 637.
 
 (*1*) Use the basic clause as prescribed in 219.708(b)(1)(A)(*1*).
 
@@ -84,9 +86,7 @@
 
 (*3*) Use the alternate II clause as prescribed in 219.708(b)(1)(A)(*3*).
 
-(B) Use the clause at 252.219-7004, Small Business Subcontracting Plan (Test Program), as prescribed in 219.708(b)(1)(B), to comply with 15 U.S.C. 637 note.
-
-(C) Use the provision at 252.219-7000, Advancing Small Business Growth, as prescribed in 219.309(1), to comply with 10 U.S.C. 4959.
+(C) Use the clause at 252.219-7004, Small Business Subcontracting Plan (Test Program), as prescribed in 219.708(b)(1)(B), to comply with 15 U.S.C. 637 note.
 
 (D) Use the provision at 252.219-7012, Competition for Religious-Related Services, as prescribed in 219.270-3.
 
@@ -280,4 +280,4 @@
 
 (G) Use the clause at 252.247-7028, Application for U.S. Government Shipping Documentation/Instructions, as prescribed in 247.207.
 
-[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018; 83 FR 16002, Apr. 13, 2018; 83 FR 19645, May 4, 2018; 83 FR 24887, 24888, May 30, 2018; 83 FR 30825, June 29, 2018; 83 FR 62499, Dec. 4, 2018; 83 FR 66063, 66071, Dec. 21, 2018; 84 FR 4363, 4369, 4371, Feb. 15, 2019; 84 FR 18158, Apr. 30, 2019; 84 FR 48508, 48510, Sept. 13, 2019; 84 FR 58332, Oct. 31, 2019; 84 FR 72237, 72559, Dec. 31, 2019; 85 FR 19697, Apr. 8, 2020; 85 FR 61501, 61520, Sept. 29, 2020; 85 FR 74612, Nov. 23, 2020; 85 FR 61520, Sept. 29, 2020; 86 FR 3836, Jan. 15, 2021; 86 FR 27277, May 20, 2021; 86 FR 36236, July 9, 2021; 86 FR 48338, Aug. 30, 2021; 87 FR 15810, Mar. 18, 2022; 87 FR 52347, Aug. 25, 2022; 87 FR 65501, 65512, 65514, 65517, Oct. 28, 2022; 87 FR 76983, 76986, 76991, Dec. 16, 2022; 88 FR 6582, Jan. 31, 2023; 88 FR 12863, Mar. 1, 2023; 88 FR 17339, Mar. 22, 2023]
+[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018; 83 FR 16002, Apr. 13, 2018; 83 FR 19645, May 4, 2018; 83 FR 24887, 24888, May 30, 2018; 83 FR 30825, June 29, 2018; 83 FR 62499, Dec. 4, 2018; 83 FR 66063, 66071, Dec. 21, 2018; 84 FR 4363, 4369, 4371, Feb. 15, 2019; 84 FR 18158, Apr. 30, 2019; 84 FR 48508, 48510, Sept. 13, 2019; 84 FR 58332, Oct. 31, 2019; 84 FR 72237, 72559, Dec. 31, 2019; 85 FR 19697, Apr. 8, 2020; 85 FR 61501, 61520, Sept. 29, 2020; 85 FR 74612, Nov. 23, 2020; 85 FR 61520, Sept. 29, 2020; 86 FR 3836, Jan. 15, 2021; 86 FR 27277, May 20, 2021; 86 FR 36236, July 9, 2021; 86 FR 48338, Aug. 30, 2021; 87 FR 15810, Mar. 18, 2022; 87 FR 52347, Aug. 25, 2022; 87 FR 65501, 65512, 65514, 65517, Oct. 28, 2022; 87 FR 76983, 76986, 76991, Dec. 16, 2022; 88 FR 6582, Jan. 31, 2023; 88 FR 12863, Mar. 1, 2023; 88 FR 17339, Mar. 22, 2023; 88 FR 25512, Apr. 27, 2023]

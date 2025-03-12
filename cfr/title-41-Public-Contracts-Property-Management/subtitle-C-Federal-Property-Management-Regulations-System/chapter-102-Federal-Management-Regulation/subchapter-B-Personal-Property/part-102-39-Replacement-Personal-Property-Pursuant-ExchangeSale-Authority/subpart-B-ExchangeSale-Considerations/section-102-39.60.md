@@ -1,5 +1,7 @@
 ##### § 102-39.60 What restrictions and prohibitions apply to the exchange/sale of personal property? #####
 
+Link to an amendment published at 88 FR 25511, Apr. 27, 2023.
+
 Unless a deviation is requested of and approved by GSA as addressed in part 102-2 of this chapter and the provisions of §§ 102-39.25 and 102-39.30, you must not use the exchange/sale authority for:
 
 (a) The following FSC groups of personal property:

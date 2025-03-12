@@ -1,5 +1,7 @@
 ##### § 127.102 What are the definitions of the terms used in this part? #####
 
+Link to an amendment published at 88 FR 26214, Apr. 27, 2023.
+
 For purposes of this part:
 
 *8(a) Business Development (8(a) BD) concern* means a concern that SBA has certified as an 8(a) BD program participant and whose term has not expired or otherwise left the 8(a) BD program early.

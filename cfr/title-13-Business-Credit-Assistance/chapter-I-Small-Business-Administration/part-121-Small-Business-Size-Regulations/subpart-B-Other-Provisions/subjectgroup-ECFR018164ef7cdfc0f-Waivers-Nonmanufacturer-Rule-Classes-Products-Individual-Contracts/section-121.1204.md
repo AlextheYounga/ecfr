@@ -1,5 +1,7 @@
 ##### § 121.1204 What are the procedures for requesting and granting waivers? #####
 
+Link to an amendment published at 88 FR 26203, Apr. 27, 2023.
+
 (a) *Waivers for classes of products.* (1) SBA may, at its own initiative, examine a class of products for possible waiver of the Nonmanufacturer Rule.
 
 (2) Any interested person, business, association, or Federal agency may submit a request for a waiver for a particular class of products. Requests should be addressed or hand-carried to the Director, Office of Government Contracting, Small Business Administration, 409 3rd Street SW., Washington, DC 20416.

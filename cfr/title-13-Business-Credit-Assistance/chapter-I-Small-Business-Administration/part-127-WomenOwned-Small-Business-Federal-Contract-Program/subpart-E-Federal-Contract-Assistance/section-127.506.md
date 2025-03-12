@@ -1,5 +1,7 @@
 ##### § 127.506 May a joint venture submit an offer on an EDWOSB or WOSB requirement? #####
 
+Link to an amendment published at 88 FR 26215, Apr. 27, 2023.
+
 A joint venture, including those between a protégé and a mentor under § 125.9 of this chapter (or, if also an 8(a) BD Participant, under § 124.520 of this chapter), may submit an offer on a WOSB Program contract if the joint venture meets all of the following requirements:
 
 (a)(1) A joint venture of at least one WOSB or EDWOSB and one or more other business concerns may submit an offer as a small business for a WOSB Program procurement or sale so long as each concern is small under the size standard corresponding to the NAICS code assigned to the procurement or sale.

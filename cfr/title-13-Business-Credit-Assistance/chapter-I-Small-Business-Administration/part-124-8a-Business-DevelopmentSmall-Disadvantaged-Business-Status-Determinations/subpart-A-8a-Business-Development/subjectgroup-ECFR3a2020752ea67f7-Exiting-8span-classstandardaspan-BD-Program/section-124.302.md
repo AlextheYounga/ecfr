@@ -1,5 +1,7 @@
 ##### § 124.302 What is graduation and what is early graduation? #####
 
+Link to an amendment published at 88 FR 26205, Apr. 27, 2023.
+
 (a) *General.* SBA may graduate a firm from the 8(a) BD program at the expiration of its program term (graduation) or prior to the expiration of its program term (early graduation) where SBA determines that:
 
 (1) The concern has successfully completed the 8(a) BD program by substantially achieving the targets, objectives, and goals set forth in its business plan, and has demonstrated the ability to compete in the marketplace without assistance under the 8(a) BD program; or

@@ -1,5 +1,7 @@
 ##### § 155.505 General eligibility appeals requirements. #####
 
+Link to an amendment published at 88 FR 25920, Apr. 27, 2023.
+
 (a) *General requirements.* Unless otherwise specified, the provisions of this subpart apply to Exchange eligibility appeals processes, regardless of whether the appeals process is provided by a State Exchange appeals entity or by the HHS appeals entity.
 
 (b) *Right to appeal.* An applicant or enrollee must have the right to appeal—

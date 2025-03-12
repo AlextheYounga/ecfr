@@ -1,5 +1,7 @@
 ##### § 124.303 What is termination? #####
 
+Link to an amendment published at 88 FR 26205, Apr. 27, 2023.
+
 (a) SBA may terminate the participation of a concern in the 8(a) BD program prior to the expiration of the concern's Program Term for good cause. Examples of good cause include, but are not limited to, the following:
 
 (1) Submission of false information in the concern's 8(a) BD application, regardless of whether correct information would have caused the concern to be denied admission to the program, and regardless of whether correct information was given to SBA in accompanying documents or by other means.

@@ -1,5 +1,7 @@
 ##### § 155.315 Verification process related to eligibility for enrollment in a QHP through the Exchange. #####
 
+Link to an amendment published at 88 FR 25918, Apr. 27, 2023.
+
 (a) *General requirement.* Unless a request for modification is granted in accordance with paragraph (h) of this section, the Exchange must verify or obtain information as provided in this section in order to determine that an applicant is eligible for enrollment in a QHP through the Exchange.
 
 (b) *Validation of Social Security number.* (1) For any individual who provides his or her Social Security number to the Exchange, the Exchange must transmit the Social Security number and other identifying information to HHS, which will submit it to the Social Security Administration.

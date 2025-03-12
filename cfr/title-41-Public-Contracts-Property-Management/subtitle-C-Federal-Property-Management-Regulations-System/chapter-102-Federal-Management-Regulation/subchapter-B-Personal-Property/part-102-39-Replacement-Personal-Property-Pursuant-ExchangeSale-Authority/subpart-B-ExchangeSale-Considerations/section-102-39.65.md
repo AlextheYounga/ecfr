@@ -1,5 +1,7 @@
 ##### § 102-39.65 What conditions apply to the exchange/sale of personal property? #####
 
+Link to an amendment published at 88 FR 25511, Apr. 27, 2023.
+
 You may use the exchange/sale authority only if you meet all of the following conditions:
 
 (a) The property exchanged or sold is similar to the property acquired;

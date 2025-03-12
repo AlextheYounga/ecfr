@@ -1,5 +1,7 @@
 ##### § 124.403 How is a business plan updated and modified? #####
 
+Link to an amendment published at 88 FR 26205, Apr. 27, 2023.
+
 (a) *Annual review.* Each Participant must annually review its business plan with its assigned Business Opportunity Specialist (BOS), and modify the plan as appropriate. The Participant must submit a modified plan and updated information to its BOS within thirty (30) days after the close of each program year. It also must submit a capability statement describing its current contract performance capabilities as part of its updated business plan.
 
 (b) *Contract forecast.* As part of the annual review of its business plan, each Participant must annually forecast in writing its needs for contract awards for the next program year. The forecast must include:

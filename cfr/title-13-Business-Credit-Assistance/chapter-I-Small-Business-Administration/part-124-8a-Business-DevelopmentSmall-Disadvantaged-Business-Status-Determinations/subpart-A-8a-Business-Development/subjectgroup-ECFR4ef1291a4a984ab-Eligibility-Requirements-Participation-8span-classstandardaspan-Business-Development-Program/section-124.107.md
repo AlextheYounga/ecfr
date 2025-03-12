@@ -1,5 +1,7 @@
 ##### § 124.107 What is potential for success? #####
 
+Link to an amendment published at 88 FR 26204, Apr. 27, 2023.
+
 The applicant concern must possess reasonable prospects for success in competing in the private sector if admitted to the 8(a) BD program. To do so, it must be in business in its primary industry classification for at least two full years immediately prior to the date of its 8(a) BD application, unless a waiver for this requirement is granted pursuant to paragraph (b) of this section.
 
 (a) Income tax returns for each of the two previous tax years must show operating revenues in the primary industry in which the applicant is seeking 8(a) BD certification.

@@ -1,5 +1,7 @@
 ##### § 124.104 Who is economically disadvantaged? #####
 
+Link to an amendment published at 88 FR 26204, Apr. 27, 2023.
+
 (a) *General.* Economically disadvantaged individuals are socially disadvantaged individuals whose ability to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same or similar line of business who are not socially disadvantaged.
 
 (b) *Submission of narrative and financial information.* (1) Each individual claiming economic disadvantage must submit personal financial information.

@@ -1,5 +1,7 @@
 ##### § 127.405 What happens if SBA determines that the concern is no longer eligible for the program? #####
 
+Link to an amendment published at 88 FR 26215, Apr. 27, 2023.
+
 If SBA believes that a concern does not meet the program eligibility requirements, the concern fails to recertify in accordance with the requirements in § 127.400, or the concern has failed to notify SBA of a material change, SBA will propose the concern for decertification from the program.
 
 (a) *Proposed decertification.* The D/GC or designee will notify the concern in writing that it has been proposed for decertification. This notice will state the reasons why SBA has proposed decertification, and that the WOSB or EDWOSB must respond to each of the reasons set forth.

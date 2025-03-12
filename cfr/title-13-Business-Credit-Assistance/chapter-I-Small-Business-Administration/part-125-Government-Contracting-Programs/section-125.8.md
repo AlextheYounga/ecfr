@@ -1,5 +1,7 @@
 ##### § 125.8 What requirements must a joint venture satisfy to submit an offer for a procurement or sale set aside or reserved for small business? #####
 
+Link to an amendment published at 88 FR 26211, Apr. 27, 2023.
+
 (a) *General.* A joint venture of two or more business concerns may submit an offer as a small business for a Federal procurement, subcontract or sale so long as each concern is small under the size standard corresponding to the NAICS code assigned to the contract, or qualify as small under one of the exceptions to affiliation set forth in § 121.103(h)(3) of this chapter.
 
 (b) *Contents of joint venture agreement.* (1) A joint venture agreement between two or more entities that individually qualify as small need not be in any specific form or contain any specific conditions in order for the joint venture to qualify as a small business.

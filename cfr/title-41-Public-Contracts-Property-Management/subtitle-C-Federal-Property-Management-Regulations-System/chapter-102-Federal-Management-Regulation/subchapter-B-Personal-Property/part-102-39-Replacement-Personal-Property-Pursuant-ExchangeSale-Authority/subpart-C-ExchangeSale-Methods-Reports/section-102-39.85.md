@@ -1,5 +1,7 @@
 ##### § 102-39.85 What information am I required to report? #####
 
+Link to an amendment published at 88 FR 25511, Apr. 27, 2023.
+
 (a) You must submit, within 90 calendar days after the close of each fiscal year, a summary report in a format of your choice on the exchange/sale transactions made under this part during the fiscal year (except for transactions involving books and periodicals in your libraries). The report must include:
 
 (1) A list by Federal Supply Classification Group of property sold under this part showing the:

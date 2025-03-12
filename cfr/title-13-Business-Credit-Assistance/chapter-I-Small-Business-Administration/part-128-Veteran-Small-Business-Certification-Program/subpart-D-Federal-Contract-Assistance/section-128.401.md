@@ -1,5 +1,7 @@
 ##### § 128.401 What requirements must a VOSB or SDVOSB meet to submit an offer on a contract? #####
 
+Link to an amendment published at 88 FR 26216, Apr. 27, 2023.
+
 (a) *Certification requirement.* In order for a concern to submit an offer and be eligible for the award of a VOSB or SDVOSB set-aside or sole source contract, the concern must qualify as a small business concern under the size standard corresponding to the NAICS code assigned to the contract and be a certified VOSB or SDVOSB. Any small business concern that submits a complete certification application with to SBA on or before December 31, 2023, shall be eligible to self-certify for SDVOSB sole source or set-aside contracts (other than VA contracts) until SBA declines or approves the concern's application. Any small business concern that does not submit to SBA a complete SDVOSB certification application to SBA on or before December 31, 2023, will no longer be eligible to self-certify for SDVOSB sole source or set-aside contracts effective January 1, 2024.
 
 (b) *Joint ventures.* A joint venture may submit an offer for a VOSB or SDVOSB contract if the joint venture meets the requirements set forth in § 128.402.

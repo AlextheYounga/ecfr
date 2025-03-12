@@ -1,5 +1,7 @@
 ##### § 126.601 What additional requirements must a certified HUBZone small business concern meet to submit an offer on a HUBZone contract? #####
 
+Link to an amendment published at 88 FR 26212, Apr. 27, 2023.
+
 (a) Only certified HUBZone small business concerns are eligible to submit offers for a HUBZone contract or to receive a price evaluation preference under § 126.613.
 
 (b) At the time a certified HUBZone small business concern submits its initial offer (including price) on a specific HUBZone contract, it must certify to the contracting officer that it:

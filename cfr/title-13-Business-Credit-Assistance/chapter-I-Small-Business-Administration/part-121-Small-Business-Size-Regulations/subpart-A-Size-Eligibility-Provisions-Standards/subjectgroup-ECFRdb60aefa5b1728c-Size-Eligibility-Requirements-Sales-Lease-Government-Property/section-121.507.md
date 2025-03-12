@@ -1,5 +1,7 @@
 ##### § 121.507 What are the size standards and other requirements for the purchase of Government-owned timber (other than Special Salvage Timber)? #####
 
+Link to an amendment published at 88 FR 26201, Apr. 27, 2023.
+
 (a) To be small for purposes of the sale of Government-owned timber (other than Special Salvage Timber) a concern must:
 
 (1) Be primarily engaged in the logging or forest products industry;

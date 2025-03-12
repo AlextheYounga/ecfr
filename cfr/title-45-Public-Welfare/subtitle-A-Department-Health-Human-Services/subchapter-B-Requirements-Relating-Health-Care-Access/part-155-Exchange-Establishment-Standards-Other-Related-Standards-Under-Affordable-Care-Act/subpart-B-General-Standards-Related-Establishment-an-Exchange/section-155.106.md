@@ -1,5 +1,7 @@
 ##### § 155.106 Election to operate an Exchange after 2014. #####
 
+Link to an amendment published at 88 FR 25917, Apr. 27, 2023.
+
 (a) *Election to operate an Exchange.* Except as provided in paragraph (c) of this section, a State electing to seek approval of its Exchange must:
 
 (1) Comply with the State Exchange approval requirements and process set forth in § 155.105;

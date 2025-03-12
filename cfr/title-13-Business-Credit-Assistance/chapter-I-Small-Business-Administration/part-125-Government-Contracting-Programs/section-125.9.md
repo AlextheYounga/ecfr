@@ -1,5 +1,7 @@
 ##### § 125.9 What are the rules governing SBA's small business mentor-protégé program? #####
 
+Link to an amendment published at 88 FR 26211, Apr. 27, 2023.
+
 (a) *General.* The small business mentor-protégé program is designed to enhance the capabilities of protégé firms by requiring approved mentors to provide business development assistance to protégé firms and to improve the protégé firms' ability to successfully compete for federal contracts. This assistance may include technical and/or management assistance; financial assistance in the form of equity investments and/or loans; subcontracts (either from the mentor to the protégé or from the protégé to the mentor); trade education; and/or assistance in performing prime contracts with the Government through joint venture arrangements. Mentors are encouraged to provide assistance relating to the performance of contracts set aside or reserved for small business so that protégé firms may more fully develop their capabilities.
 
 (b) *Mentors.* Any concern that demonstrates a commitment and the ability to assist small business concerns may act as a mentor and receive benefits as set forth in this section. This includes other than small businesses.

@@ -1,5 +1,7 @@
 ##### § 17.46 Special rules—crustaceans. #####
 
+Link to an amendment published at 88 FR 25538, Apr. 27, 2023.
+
 (a) Madison Cave isopod (*Antrolana lira*). (1) All provisions of § 17.31 (a) and (b) apply to this species except that it may be taken for scientific purposes without Federal permits issued pursuant to these regulations: *Provided,* that all other Federal, State, or local laws, regulations, ordinances or other restrictions or limitations have been complied with.
 
 (b) Panama City crayfish (*Procambarus econfinae*)—(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the Panama City crayfish. Except as provided under paragraph (b)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:

@@ -1,5 +1,7 @@
 ##### § 124.108 What other eligibility requirements apply for individuals or businesses? #####
 
+Link to an amendment published at 88 FR 26204, Apr. 27, 2023.
+
 (a) *Good character.* The applicant or Participant and all its principals must have good character.
 
 (1) If during the processing of an application, SBA receives adverse information from the applicant or a credible source regarding possible criminal conduct by the applicant or any of its principals, SBA may suspend further processing of the application and refer it to SBA's Office of Inspector General (OIG) for review. If the SBA suspends the application, but does not hear back from OIG within 45 days, SBA may proceed with application processing. The AA/BD will consider any findings of the OIG when evaluating the application.

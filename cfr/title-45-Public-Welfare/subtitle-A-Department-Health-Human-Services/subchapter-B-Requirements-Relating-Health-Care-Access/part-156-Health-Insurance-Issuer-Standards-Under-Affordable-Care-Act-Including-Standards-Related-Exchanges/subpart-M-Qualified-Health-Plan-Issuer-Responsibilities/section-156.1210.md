@@ -1,5 +1,7 @@
 ##### § 156.1210 Dispute submission. #####
 
+Link to an amendment published at 88 FR 25923, Apr. 27, 2023.
+
 (a) *Responses to reports.* Within 90 calendar days of the date of a payment and collections report from HHS, the issuer must, in a form and manner specified by HHS or the State Exchange describe to HHS or the State Exchange (as applicable) any inaccuracies it identifies in the report.
 
 (b) *Inaccuracies identified after 90-day period.* With respect to an inaccuracy described under paragraph (a) of this section that is identified and submitted to HHS or the State Exchange (as applicable) by the issuer after the end of the 90-day period described in such paragraph, HHS will consider and work with the issuer or the State Exchange (as applicable) to resolve the inaccuracy so long as—

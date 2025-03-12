@@ -1,5 +1,7 @@
 ##### § 121.1009 What are the procedures for making the size determination? #####
 
+Link to an amendment published at 88 FR 26202, Apr. 27, 2023.
+
 (a) *Time frame for making size determination.* (1) After receipt of a protest or a request for a formal size determination, the SBA Area Office will issue a formal size determination within 15 business days, if possible.
 
 (2) The contracting officer may award a contract after receipt of a protest if the contracting officer determines in writing that an award must be made to protect the public interest. Notwithstanding such a determination, the provisions of paragraph (g) of this section apply to the procurement in question.

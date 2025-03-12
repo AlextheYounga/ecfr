@@ -1,5 +1,7 @@
 ##### § 127.200 What are the requirements a concern must meet to qualify as an EDWOSB or WOSB? #####
 
+Link to an amendment published at 88 FR 26214, Apr. 27, 2023.
+
 (a) *Qualification as an EDWOSB.* To qualify as an EDWOSB, a concern must be:
 
 (1) A small business as defined in part 121 of this chapter for its primary industry classification; and

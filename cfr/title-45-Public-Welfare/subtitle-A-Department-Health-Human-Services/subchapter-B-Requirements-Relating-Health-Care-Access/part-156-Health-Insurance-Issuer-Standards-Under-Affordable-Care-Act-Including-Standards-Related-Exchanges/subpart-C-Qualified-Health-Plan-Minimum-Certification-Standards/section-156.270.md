@@ -1,5 +1,7 @@
 ##### § 156.270 Termination of coverage or enrollment for qualified individuals. #####
 
+Link to an amendment published at 88 FR 25923, Apr. 27, 2023.
+
 (a) *General requirement.* A QHP issuer may only terminate enrollment in a QHP through the Exchange as permitted by the Exchange in accordance with § 155.430(b) of this subchapter. (See also § 147.106 of this subchapter for termination of coverage.)
 
 (b) *Termination of coverage or enrollment notice requirement.* If a QHP issuer terminates an enrollee's coverage or enrollment in a QHP through the Exchange in accordance with § 155.430(b) of this subchapter, the QHP issuer must, promptly and without undue delay:

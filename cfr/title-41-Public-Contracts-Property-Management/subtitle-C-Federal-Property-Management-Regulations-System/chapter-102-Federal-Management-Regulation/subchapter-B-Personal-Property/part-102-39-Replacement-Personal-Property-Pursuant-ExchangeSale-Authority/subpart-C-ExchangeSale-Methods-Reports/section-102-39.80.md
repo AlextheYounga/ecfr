@@ -1,5 +1,7 @@
 ##### § 102-39.80 What are the accounting requirements for exchange allowances or proceeds of sale? #####
 
+Link to an amendment published at 88 FR 25511, Apr. 27, 2023.
+
 You must account for exchange allowances or proceeds of sale in accordance with the general finance and accounting rules applicable to you. Except as otherwise authorized by law, all exchange allowances or proceeds of sale under this part will be available during the fiscal year in which the property was exchanged or sold and for one fiscal year thereafter for the purchase of replacement property. Any proceeds of sale not applied to replacement purchases during this time must be deposited in the United States Treasury as miscellaneous receipts.
 
 [73 FR 50881, Aug. 29, 2008, as amended at 75 FR 24820, May 6, 2010]

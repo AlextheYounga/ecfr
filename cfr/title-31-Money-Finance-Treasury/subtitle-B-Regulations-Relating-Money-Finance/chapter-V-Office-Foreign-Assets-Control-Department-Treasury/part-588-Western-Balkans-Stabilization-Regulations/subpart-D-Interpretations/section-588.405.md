@@ -12,4 +12,6 @@
 
 Note 1 to § 588.405.
 
-*See* §§ 588.5507 and 588.509 for general licenses authorizing the provision of certain legal and emergency medical services.
+*See* §§ 588.507 and 588.509 for general licenses authorizing the provision of certain legal and emergency medical services.
+
+[87 FR 58996, Sept. 29, 2022, as amended at 88 FR 25492, Apr. 27, 2023]

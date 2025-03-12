@@ -1,5 +1,7 @@
 ##### § 125.2 What are SBA's and the procuring agency's responsibilities when providing contracting assistance to small businesses? #####
 
+Link to an amendment published at 88 FR 26210, Apr. 27, 2023.
+
 (a)(1) *General.* The objective of the SBA's contracting programs is to assist small business concerns, including 8(a) BD Participants, HUBZone small business concerns, Service-Disabled Veteran-Owned Small Business Concerns, Women-Owned Small Businesses and Economically Disadvantaged Women-Owned Small Businesses, in obtaining a fair share of Federal Government prime contracts, subcontracts, orders, and property sales. Therefore, these regulations apply to all types of Federal Government contracts, including Multiple Award Contracts, and contracts for architectural and engineering services, research, development, test and evaluation. Small business concerns must receive any award (including orders, and orders placed against Multiple Award Contracts) or contract, part of any such award or contract, any contract for the sale of Government property, or any contract resulting from a reverse auction, regardless of the place of performance, which SBA and the procuring or disposal agency determine to be in the interest of:
 
 (i) Maintaining or mobilizing the Nation's full productive capacity;
