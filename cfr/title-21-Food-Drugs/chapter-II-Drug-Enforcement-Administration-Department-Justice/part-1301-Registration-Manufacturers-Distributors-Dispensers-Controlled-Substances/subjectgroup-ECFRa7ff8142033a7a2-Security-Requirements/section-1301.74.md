@@ -38,4 +38,4 @@
 
 (m) A reverse distributor shall not employ, as an agent or employee who has access to or influence over controlled substances, any person who has been convicted of any felony offense relating to controlled substances or who, at any time, had an application for registration with the DEA denied, had a DEA registration revoked or suspended, or has surrendered a DEA registration for cause. For purposes of this subsection, “for cause” means in lieu of, or as a consequence of, any Federal or State administrative, civil, or criminal action resulting from an investigation of the individual's handling of controlled substances.
 
-[36 FR 7778, Apr. 24, 1971. Redesignated at 38 FR 26609, Sept. 24, 1973]Editorial Note:For Federal Register citations affecting § 1301.74, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[36 FR 7778, Apr. 24, 1971. Redesignated at 38 FR 26609, Sept. 24, 1973]Editorial Note:For Federal Register citations affecting § 1301.74, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

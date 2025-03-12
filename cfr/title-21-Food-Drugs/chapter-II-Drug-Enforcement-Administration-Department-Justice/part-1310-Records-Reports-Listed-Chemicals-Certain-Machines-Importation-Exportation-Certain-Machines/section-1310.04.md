@@ -123,4 +123,4 @@
 
 (3) If two or more listed chemicals are present in a chemical mixture, and the quantity of any of these chemicals equals or exceeds the threshold applicable to that chemical, then the transaction is regulated.
 
-[54 FR 31665, Aug. 1, 1989]Editorial Note:For Federal Register citations affecting § 1310.04, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[54 FR 31665, Aug. 1, 1989]Editorial Note:For Federal Register citations affecting § 1310.04, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

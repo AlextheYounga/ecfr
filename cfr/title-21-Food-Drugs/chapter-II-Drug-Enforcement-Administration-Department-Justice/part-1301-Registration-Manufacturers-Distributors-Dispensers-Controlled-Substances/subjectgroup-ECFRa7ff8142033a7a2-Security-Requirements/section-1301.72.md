@@ -74,4 +74,4 @@
 
 (d) *Accessibility to storage areas.* The controlled substances storage areas shall be accessible only to an absolute minimum number of specifically authorized employees. When it is necessary for employee maintenance personnel, nonemployee maintenance personnel, business guests, or visitors to be present in or pass through controlled substances storage areas, the registrant shall provide for adequate observation of the area by an employee specifically authorized in writing.
 
-[36 FR 18730, Sept. 21, 1971. Redesignated at 38 FR 26609, Sept. 24, 1973]Editorial Note:For Federal Register citations affecting § 1301.72, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[36 FR 18730, Sept. 21, 1971. Redesignated at 38 FR 26609, Sept. 24, 1973]Editorial Note:For Federal Register citations affecting § 1301.72, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

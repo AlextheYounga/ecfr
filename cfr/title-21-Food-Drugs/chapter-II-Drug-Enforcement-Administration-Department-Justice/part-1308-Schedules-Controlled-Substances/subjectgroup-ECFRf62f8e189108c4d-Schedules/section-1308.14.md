@@ -101,4 +101,4 @@
 |                                                                                                     (2) Butorphanol (including its optical isomers)                                                                                                     |9720|
 |(3) Eluxadoline (5-[[[(2S)-2-amino-3-[4-aminocarbonyl)-2,6-dimethylphenyl]-1-oxopropyl][(1S)-1-(4-phenyl-1H-imidazol-2-yl)ethyl]amino]methyl]-2-methoxybenzoic acid) (including its optical isomers) and its salts, isomers, and salts of isomers (9725).|    |
 
-[39 FR 22143, June 20, 1974]Editorial Note:For Federal Register citations affecting § 1308.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[39 FR 22143, June 20, 1974]Editorial Note:For Federal Register citations affecting § 1308.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

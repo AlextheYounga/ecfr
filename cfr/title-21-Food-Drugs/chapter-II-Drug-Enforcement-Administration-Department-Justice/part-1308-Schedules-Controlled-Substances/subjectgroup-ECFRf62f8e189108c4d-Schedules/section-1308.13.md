@@ -73,4 +73,4 @@
 
 (2) [Reserved]
 
-[39 FR 22142, June 20, 1974]Editorial Note:For Federal Register citations affecting § 1308.13, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[39 FR 22142, June 20, 1974]Editorial Note:For Federal Register citations affecting § 1308.13, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

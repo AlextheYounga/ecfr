@@ -779,14 +779,16 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 |                      8.0 or less                       |                             1.77                              |
 |                     More than 8.0                      |                             2.41                              |
 
-(w) *External power supplies.* (1)(i) Except as provided in paragraphs (w)(2) and (5) of this section, all Class A external power supplies manufactured on or after July 1, 2008, shall meet the following standards:
+(w) *External power supplies.* (1)(i) Except as provided in paragraphs (w)(2) and (5) of this section, all class A external power supplies manufactured on or after July 1, 2008, shall meet the following standards:
 
-|             Active Mode             |                                                                            |
+|             Active mode             |                                                                            |
 |-------------------------------------|----------------------------------------------------------------------------|
 |          Nameplate output           |          Required efficiency (decimal equivalent of a percentage)          |
 |          Less than 1 watt           |                      0.5 times the Nameplate output.                       |
 |From 1 watt to not more than 51 watts|The sum of 0.09 times the Natural Logarithm of the Nameplate Output and 0.5.|
 |        Greater than 51 watts        |                                   0.85.                                    |
+|            No-load mode             |                                                                            |
+|          Nameplate output           |                            Maximum consumption                             |
 |       Not more than 250 watts       |                                 0.5 watts.                                 |
 
 (ii) Except as provided in paragraphs (w)(5), (w)(6), and (w)(7) of this section, all direct operation external power supplies manufactured on or after February 10, 2016, shall meet the following standards:
@@ -818,7 +820,7 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 (4) Any external power supply subject to the standards in paragraph (w)(1) of this section shall be clearly and permanently marked in accordance with the International Efficiency Marking Protocol for External Power Supplies (incorporated by reference; see § 430.3), published by the U.S. Department of Energy.
 
-(5) *Non-application of no-load mode requirements.* The no-load mode energy efficiency standards established in paragraph (w)(1) of this section shall not apply to an external power supply manufactured before July 1, 2017, that -
+(5) *Non-application of no-load mode requirements.* The no-load mode energy efficiency standards established in paragraph (w)(1) of this section shall not apply to an external power supply that -
 
 (i) Is an AC-to-AC external power supply;
 

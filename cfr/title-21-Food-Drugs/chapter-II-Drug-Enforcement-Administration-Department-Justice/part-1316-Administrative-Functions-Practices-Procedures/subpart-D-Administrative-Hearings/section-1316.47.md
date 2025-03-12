@@ -18,4 +18,4 @@ All notices to be sent pursuant to the proceeding should be addressed to:
 
 (b) The Administrative Law Judge, upon request and showing of good cause, may grant a reasonable extension of the time allowed for response to an Order to Show Cause.
 
-[36 FR 7820, Apr. 24, 1971, as amended at 36 FR 13387, July 21, 1971. Redesignated at 38 FR 26609, Sept. 24, 1973]Editorial Note:For Federal Register citations affecting § 1316.47, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[36 FR 7820, Apr. 24, 1971, as amended at 36 FR 13387, July 21, 1971. Redesignated at 38 FR 26609, Sept. 24, 1973]Editorial Note:For Federal Register citations affecting § 1316.47, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
