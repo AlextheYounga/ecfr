@@ -1,5 +1,7 @@
 ##### § 2.31 Institutional Animal Care and Use Committee (IACUC). #####
 
+Link to an amendment published at 86 FR 66926, Nov. 24, 2021.
+
 (a) The Chief Executive Officer of the research facility shall appoint an Institutional Animal Care and Use Committee (IACUC), qualified through the experience and expertise of its members to assess the research facility's animal program, facilities, and procedures. Except as specifically authorized by law or these regulations, nothing in this part shall be deemed to permit the Committee or IACUC to prescribe methods or set standards for the design, performance, or conduct of actual research or experimentation by a research facility.
 
 (b) *IACUC membership.* (1) The members of each Committee shall be appointed by the Chief Executive Officer of the research facility;

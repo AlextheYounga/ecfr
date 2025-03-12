@@ -1,5 +1,7 @@
 ##### § 4.11 Stipulations. #####
 
+Link to an amendment published at 86 FR 66926, Nov. 24, 2021.
+
 (a) At any time prior to the issuance of a complaint seeking a civil penalty under the Act, the Administrator, in his discretion, may enter into a stipulation with any person in which:
 
 (1) The Administrator gives notice of an apparent violation of the Act, or the regulations or standards issued thereunder, by such person and affords such person an opportunity for a hearing regarding the matter as provided by the Act;

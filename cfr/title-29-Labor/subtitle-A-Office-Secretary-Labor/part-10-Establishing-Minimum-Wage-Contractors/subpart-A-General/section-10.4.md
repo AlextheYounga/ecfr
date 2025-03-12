@@ -1,5 +1,7 @@
 ##### § 10.4 Exclusions. #####
 
+Link to an amendment published at 86 FR 67224, Nov. 24, 2021.
+
 (a) *Grants.* The requirements of this part do not apply to grants within the meaning of the Federal Grant and Cooperative Agreement Act, as amended, 31 U.S.C. 6301 *et seq.*
 
 (b) *Contracts and agreements with and grants to Indian Tribes.* This part does not apply to contracts and agreements with and grants to Indian Tribes under the Indian Self-Determination and Education Assistance Act, as amended, 25 U.S.C. 450 *et seq.*

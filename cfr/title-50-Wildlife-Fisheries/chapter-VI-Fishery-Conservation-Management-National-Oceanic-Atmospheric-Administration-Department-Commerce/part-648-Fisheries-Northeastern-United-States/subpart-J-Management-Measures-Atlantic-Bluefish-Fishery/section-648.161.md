@@ -1,5 +1,7 @@
 ##### § 648.161 Bluefish Annual Catch Targets (ACTs). #####
 
+Link to an amendment published at 86 FR 66981, Nov. 24, 2021.
+
 (a) The Bluefish Monitoring Committee shall identify and review the relevant sources of management uncertainty to recommend ACTs for the commercial and recreational fishing sectors as part of the bluefish specification process. The Bluefish Monitoring Committee recommendations shall identify the specific sources of management uncertainty that were considered, technical approaches to mitigating these sources of uncertainty, and any additional relevant information considered in the ACT recommendation process.
 
 (1) *Sectors.* The sum of the commercial and recreational sector-specific ACTs shall be less than or equal to the fishery level ACL. The Bluefish Monitoring Committee shall recommend any reduction in catch necessary to address management uncertainty, consistent with paragraph (a) of this section. A total of 83 percent of the fishery-level ACT will be allocated to the recreational fishery. A total of 17 percent of the fishery-level ACT will be allocated to the commercial fishery.

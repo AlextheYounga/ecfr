@@ -1,5 +1,7 @@
 ##### § 2.36 Annual report. #####
 
+Link to an amendment published at 86 FR 66926, Nov. 24, 2021.
+
 (a) The reporting facility shall be that segment of the research facility, or that department, agency, or instrumentality of the United States, that uses or intends to use live animals in research, tests, experiments, or for teaching. Each reporting facility shall submit an annual report to the Deputy Administrator for the State where the facility is located on or before December 1 of each calendar year. The report shall be signed and certified by the CEO or Institutional Official, and shall cover the previous Federal fiscal year.
 
 (b) The annual report shall:

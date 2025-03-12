@@ -1,5 +1,7 @@
 ##### § 10.5 Minimum wage for Federal contractors and subcontractors. #####
 
+Link to an amendment published at 86 FR 67224, Nov. 24, 2021.
+
 (a) *General.* Pursuant to Executive Order 13658, the minimum hourly wage rate required to be paid to workers performing on or in connection with covered contracts with the Federal Government is at least:
 
 (1) $10.10 per hour beginning January 1, 2015; and

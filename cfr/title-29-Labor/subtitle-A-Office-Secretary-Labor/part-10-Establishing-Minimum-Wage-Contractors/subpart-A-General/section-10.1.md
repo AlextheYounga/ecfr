@@ -1,5 +1,7 @@
 ##### § 10.1 Purpose and scope. #####
 
+Link to an amendment published at 86 FR 67224, Nov. 24, 2021.
+
 (a) *Purpose.* This part contains the Department of Labor's rules relating to the administration of Executive Order 13658 (Executive Order or the Order), “Establishing a Minimum Wage for Contractors,” and implements the enforcement provisions of the Executive Order. The Executive Order assigns responsibility for investigating potential violations of and obtaining compliance with the Executive Order to the Department of Labor. The Executive Order states that the Federal Government's procurement interests in economy and efficiency are promoted when the Federal Government contracts with sources that adequately compensate their workers. There is evidence that raising the pay of low-wage workers can increase their morale and productivity and the quality of their work, lower turnover and its accompanying costs, and reduce supervisory costs. The Executive Order thus states that cost savings and quality improvements in the work performed by parties who contract with the Federal Government will lead to improved economy and efficiency in Government procurement. Executive Order 13658 therefore generally requires that the hourly minimum wage paid by contractors to workers performing on or in connection with covered contracts with the Federal Government shall be at least:
 
 (1) $10.10 per hour, beginning January 1, 2015; and

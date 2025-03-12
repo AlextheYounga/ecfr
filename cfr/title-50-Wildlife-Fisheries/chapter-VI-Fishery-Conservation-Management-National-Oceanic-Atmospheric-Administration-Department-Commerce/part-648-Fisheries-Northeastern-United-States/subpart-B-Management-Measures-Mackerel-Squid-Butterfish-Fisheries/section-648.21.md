@@ -1,5 +1,7 @@
 ##### § 648.21 Mid-Atlantic Fishery Management Council risk policy. #####
 
+Link to an amendment published at 86 FR 66981, Nov. 24, 2021.
+
 The risk policy shall be used by the SSC in conjunction with the ABC control rules in § 648.20(a) through (d) to ensure the MAFMC's preferred tolerance for the risk of overfishing is addressed in the ABC development and recommendation process.
 
 (a) *Stocks under a rebuilding plan.* The probability of not exceeding the F necessary to rebuild the stock within the specified time frame (rebuilding F or FREBUILD) must be at least 50 percent, unless the default level is modified to a higher probability for not exceeding the rebuilding F through the formal stock rebuilding plan. A higher probability of not exceeding the rebuilding F would be expressed as a value greater than 50 percent (e.g., 75-percent probability of not exceeding rebuilding F, which corresponds to a 25-percent probability of exceeding rebuilding F).

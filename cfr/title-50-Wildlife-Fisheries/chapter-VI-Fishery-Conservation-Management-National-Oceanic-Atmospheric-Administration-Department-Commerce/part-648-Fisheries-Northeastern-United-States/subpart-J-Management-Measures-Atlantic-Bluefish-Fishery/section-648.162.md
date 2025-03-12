@@ -1,5 +1,7 @@
 ##### § 648.162 Bluefish specifications. #####
 
+Link to an amendment published at 86 FR 66981, Nov. 24, 2021.
+
 (a) *Recommended measures.* Based on the annual review and requests for research quota as described in paragraph (h) of this section, the Bluefish Monitoring Committee shall recommend to the Coastal Migratory Committee of the MAFMC and the ASMFC the following measures to ensure that the ACL specified by the process outlined in § 648.160(a) will not be exceeded:
 
 (1) A fishery-level ACT;

@@ -1,5 +1,7 @@
 ##### § 10.2 Definitions. #####
 
+Link to an amendment published at 86 FR 67224, Nov. 24, 2021.
+
 For purposes of this part:
 
 *Administrative Review Board* (ARB or Board) means the Administrative Review Board, U.S. Department of Labor.
