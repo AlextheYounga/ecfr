@@ -1,14 +1,12 @@
 ##### § 127.1315 Preliminary transfer inspection. #####
 
-Link to an amendment published at 87 FR 5692, Feb. 2, 2022.
-
-Before each transfer, the person in charge of transfer for the facility shall -
+Before each transfer, the person in charge of transfer for the facility must—
 
 (a) Inspect piping and equipment within the marine transfer area for LHG to be used for transfer and ensure that it meets the requirements in this part;
 
 (b) Determine the contents, pressure, temperature, and capacity of each storage tank to or from which LHG will be transferred, to ensure that it is safe for transfer;
 
-(c) Confer with the person in charge of transfer aboard the vessel, to review and agree on -
+(c) Confer with the person in charge of transfer aboard the vessel, to review and agree on—
 
 (1) The sequence of acts required for transfer;
 
@@ -33,3 +31,5 @@ Before each transfer, the person in charge of transfer for the facility shall -
 (1) The communication system required by § 127.1111.
 
 (2) The gas detectors required by § 127.1203.
+
+[CGD 88-049, 60 FR 39796, Aug. 3, 1995, as amended by USCG-2019-0444, 87 FR 5691, Feb. 2, 2022]

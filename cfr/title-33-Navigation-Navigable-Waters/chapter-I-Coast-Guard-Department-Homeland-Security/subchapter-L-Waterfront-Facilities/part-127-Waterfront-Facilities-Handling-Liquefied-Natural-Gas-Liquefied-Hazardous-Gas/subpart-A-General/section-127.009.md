@@ -1,16 +1,14 @@
 ##### § 127.009 Letter of recommendation. #####
 
-Link to an amendment published at 87 FR 5690, Feb. 2, 2022.
+(a) After the COTP receives the information and analyses required by § 127.007 or § 127.008, the COTP issues a Letter of Recommendation (LOR) as to the suitability of the waterway for LNG or LHG marine traffic or the operational safety and security of the LNG fuel facility to the Federal, State, or local government agencies having jurisdiction for siting, construction, and operation, and, at the same time, sends a copy to the owner or operator, based on the—
 
-(a) After the COTP receives the Letter of Intent under § 127.007(a) or (b), the COTP issues a Letter of Recommendation (LOR) as to the suitability of the waterway for LNG or LHG marine traffic to the Federal, State, or local government agencies having jurisdiction for siting, construction, and operation, and, at the same time, sends a copy to the owner or operator, based on the -
-
-(1) Information submitted under § 127.007;
+(1) Information submitted under § 127.007 or § 127.008;
 
 (2) Density and character of marine traffic in the waterway;
 
 (3) Locks, bridges, or other man-made obstructions in the waterway;
 
-(4) Following factors adjacent to the facility such as -
+(4) Following factors adjacent to the facility such as—
 
 (i) Depths of the water;
 
@@ -34,4 +32,4 @@ Link to an amendment published at 87 FR 5690, Feb. 2, 2022.
 
 (e) Paragraphs (c) and (d) of this section apply to LORs issued after December 28, 2012. For LORs issued prior to that date, persons requesting reconsideration must follow the process set forth in § 127.015.
 
-[USCG-2011-0227, 77 FR 70890, Nov. 28, 2012]
+[USCG-2011-0227, 77 FR 70890, Nov. 28, 2012, as amended by USCG-2019-0444, 87 FR 5690, Feb. 2, 2022]

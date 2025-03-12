@@ -1,8 +1,6 @@
 ##### § 127.1605 Other sources of ignition. #####
 
-Link to an amendment published at 87 FR 5692, Feb. 2, 2022.
-
-Each operator of a waterfront facility handling LHG shall ensure that in the marine transfer area for LHG -
+Each operator of a waterfront facility handling LHG must ensure that in the marine transfer area for LHG—
 
 (a) There are no open fires or open flame lamps;
 
@@ -12,4 +10,4 @@ Each operator of a waterfront facility handling LHG shall ensure that in the mar
 
 (d) All rubbish, debris, and waste go into appropriate receptacles.
 
-[CGD 88-049, 60 FR 39796, Aug. 3, 1995, as amended by CGD 97-023, 62 FR 33363, June 19, 1997]
+[CGD 88-049, 60 FR 39796, Aug. 3, 1995, as amended by CGD 97-023, 62 FR 33363, June 19, 1997; USCG-2019-0444, 87 FR 5692, Feb. 2, 2022]

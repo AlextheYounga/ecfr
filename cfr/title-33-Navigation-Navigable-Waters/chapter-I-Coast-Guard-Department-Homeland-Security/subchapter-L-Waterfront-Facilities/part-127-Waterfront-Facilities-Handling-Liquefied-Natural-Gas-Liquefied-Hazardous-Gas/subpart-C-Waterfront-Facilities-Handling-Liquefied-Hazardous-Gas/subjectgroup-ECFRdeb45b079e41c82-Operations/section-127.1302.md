@@ -1,8 +1,6 @@
 ##### § 127.1302 Training. #####
 
-Link to an amendment published at 87 FR 5692, Feb. 2, 2022.
-
-(a) Each operator of a waterfront facility handling LHG shall ensure that each person assigned to act as a person in charge of transfers for the facility has training in the following subjects:
+(a) Each operator of a waterfront facility handling LHG must ensure that each person assigned to act as a person in charge of transfers for the facility has training in the following subjects:
 
 (1) Properties and hazards of each LHG being transferred to or from the facility.
 
@@ -20,7 +18,7 @@ Link to an amendment published at 87 FR 5692, Feb. 2, 2022.
 
 (8) Procedures for response to a release of the LHG handled by the facility.
 
-(9) First aid for persons -
+(9) First aid for persons—
 
 (i) With burns;
 
@@ -34,6 +32,8 @@ Link to an amendment published at 87 FR 5692, Feb. 2, 2022.
 
 (b) Each person that receives training under paragraph (a) of this section shall receive refresher training in the same subjects at least once every 5 years.
 
-(c) The operator shall maintain, for each person trained, a record of all training provided under paragraphs (a) and (b) of this section. The operator shall retain these records for the duration of the person's employment on the waterfront facility plus 12 months.
+(c) The operator must maintain, for each person trained, a record of all training provided under paragraphs (a) and (b) of this section. The operator must retain these records for the duration of the person's employment on the waterfront facility plus 12 months.
 
 (d) Training conducted to comply with the hazard communication programs required by the Occupational Safety and Health Administration (OSHA) of the Department of Labor [29 CFR 1910.120] or the Environmental Protection Agency (EPA) [40 CFR 311.1] may be used to satisfy the requirements in paragraph (a) of this section, so far as the training addresses the requirements in paragraph (a) of this section.
+
+[CGD 88-049, 60 FR 39796, Aug. 3, 1995, as amended by USCG-2019-0444, 87 FR 5691, Feb. 2, 2022]

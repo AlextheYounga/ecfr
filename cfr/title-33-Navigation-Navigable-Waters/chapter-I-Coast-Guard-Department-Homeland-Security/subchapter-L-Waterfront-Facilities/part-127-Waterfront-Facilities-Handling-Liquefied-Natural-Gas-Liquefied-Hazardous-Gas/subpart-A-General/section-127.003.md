@@ -1,32 +1,53 @@
 ##### § 127.003 Incorporation by reference. #####
 
-Link to an amendment published at 87 FR 5689, Feb. 2, 2022.
+Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Coast Guard must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at the U.S. Coast Guard, Office of Operating and Environmental Standards (CG-OES), 2703 Martin Luther King Jr. Avenue SE, STOP 7509, Washington, DC 20593-7509, 202-372-1410, and is available from the sources listed in the following paragraphs. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fr.inspection@nara.gov* or go to *https://www.archives.gov/federal-register/cfr/ibr-locations.html.* (See § 127.017 for alternative compliance methods.)
 
-(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in paragraph (b) of this section, the Coast Guard must publish notice of change in the Federal Register and make the material available to the public. All approved material is available for inspection at the Commandant (CG-CVC), Attn: Office of Commercial Vessel Compliance, U.S. Coast Guard Stop 7501, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7501. You may also contact the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* All approved material is available from the sources indicated in paragraph (b) of this section.
+(a) American Petroleum Institute (API), 200 Massachusetts Avenue NW, Suite 1100, Washington, DC 20001-5571, 202-682-8000, *http://www.api.org.*
 
-(b) The material approved for incorporation by reference in this part, and the sections affected, are:
+(1) API Recommended Practice 2003 (“API RP 2003”), Protection Against Ignitions Arising Out of Static, Lightning and Stray Currents, Eighth Edition, September 2015, for § 127.1101(h).
 
-|                                                 The American National Standards Institute (ANSI)                                                 |                                                    |
-|:------------------------------------------------------------------------------------------------------------------------------------------------:|----------------------------------------------------|
-|                                                        1430 Broadway, New York, NY 10018:                                                        |                                                    |
-|                              ANSI B16.5, Pipe Flanges and Flanged Fittings 1988, including 1992 Addenda and Errata                               |                      127.1102                      |
-|                                  ANSI S12.13, Part I, Performance Requirements, Combustible Gas Detectors, 1986                                  |                      127.1203                      |
-|                                                        American Petroleum Institute (API)                                                        |                                                    |
-|                                                     1220 L Street NW., Washington, DC 20005:                                                     |                                                    |
-|                       API RP 2003, Protection Against Ignitions Arising Out of Static, Lightning and Stray Currents, 1991                        |                      127.1101                      |
-|                                                 American Society of Mechanical Engineers (ASME)                                                  |                                                    |
-|                                                   Three Park Avenue, New York, NY 10016-5990:                                                    |                                                    |
-|                                          ASME B31.3, Chemical Plant and Petroleum Refinery Piping, 1993                                          |                      127.1101                      |
-|                                                                ASTM International                                                                |                                                    |
-|                    100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959, 877-909-2786, http://www.astm.org.                    |                                                    |
-|ASTM F1121-87 (Reapproved 2010), Standard Specification for International Shore Connections for Marine Fire Applications, (approved March 1, 2010)|                 127.611; 127.1511                  |
-|                                                   National Fire Protection Association (NFPA)                                                    |                                                    |
-|                                                      1 Batterymarch Park, Quincy, MA 02269:                                                      |                                                    |
-|                                                    NFPA 10, Portland Fire Extinguishers, 1994                                                    |              127.603;  <br/>127.1503               |
-|                                              NFPA 30, Flammable and Combustible Liquids Code, 1993                                               |              127.313;  <br/>127.1313               |
-|                                     NFPA 51B, Fire Prevention in Use of Cutting and Welding Processes, 1994                                      |              127.405;  <br/>127.1405               |
-|                                 NFPA 59A, Production, Storage, and Handling of Liquefied Natural Gas (LNG), 1994                                 |127.101;  <br/>127.201;  <br/>127.405;  <br/>127.603|
-|                                                     NFPA 70, National Electrical Code, 1993                                                      |       127.107;  <br/>127.201;  <br/>127.1107       |
-|                                        NFPA 251, Fire Tests of Building Construction and Materials, 1990                                         |                      127.005                       |
+(2) [Reserved]
 
-[CGD 88-049, 60 FR 39794, Aug. 3, 1995; 60 FR 49509, Sept. 26, 1995, as amended by CGD 96-026, 61 FR 33665, June 28, 1996; 61 FR 36629, July 12, 1996; USCG-1999-5832, 64 FR 34714, June 29, 1999; USCG-1999-5151, 64 FR 67175, Dec. 1, 1999; 69 FR 18803, Apr. 9, 2004; USCG-2004-18057, 69 FR 34926, June 23, 2004; USCG-2010-0351, 75 FR 36283, June 25, 2010; USCG-2012-0866, 78 FR 13248, Feb. 27, 2013; USCG-2014-0410, 79 FR 38434, July 7, 2014]
+(b) The American Society of Mechanical Engineers (ASME), Two Park Avenue, New York, NY 10016-5990, 800-843-2763, *https://www.asme.org.*
+
+(1) ASME B16.5-2020, Pipe Flanges and Flanged Fittings, NPS1/2 Through NPS 24 Metric/Inch Standard, Issued January 29, 2021, for § 127.1102(a).
+
+(2) ASME B31.3-2020, Process Piping, ASME Code for Pressure Piping, B31, Issued June 18, 2021, for § 127.1101(a).
+
+(c) ASTM International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA, 19428-2959, 610-832-9500, *https://www.astm.org.*
+
+(1) ASTM E119-20, Standard Test Methods for Fire Tests of Building Construction and Materials, approved May 1, 2020, for § 127.005.
+
+(2) ASTM F1121-87 (Reapproved 2019), Standard Specification for International Shore Connections for Marine Fire Applications, approved December 1, 2019, for §§ 127.611 and 127.1511.
+
+(d) Det Norske Veritas (DNV), Veritasveien 1, 1363 Høvik Norway, +47 6757 9900, *https://www.dnv.com.*
+
+(1) DNVGL-RP-G105, Recommended Practice, Development and operation of liquefied natural gas bunkering facilities, October 2015 Edition, for § 127.008(d).
+
+(2) [Reserved]
+
+(e) International Electrotechnical Commission (IEC), IEC Central Office, 3 rue de Varemb*é,* P.O. Box 131, CH 1211, Geneva 20, Switzerland, +41 22 919 02 11, *https://www.iec.ch.*
+
+(1) IEC 60079-29-1, Explosive atmospheres—Part 29-1: Gas detectors—Performance requirements of detectors for flammable gases, Edition 2.0, July 2016, for § 127.1203(a).
+
+(2) [Reserved]
+
+(f) International Organization for Standardization (ISO), Chemin de Blandonnet 8, CP 401, 1214 Vernier, Geneva, Switzerland, +41 22 749 01 11, *https://www.iso.org.*
+
+(1) ISO/TS 18683:2015(E), (“ISO/TS 18683”), Guidelines for systems and installations for supply of LNG as fuel to ships, First Edition, January 15, 2015, for § 127.008(d)(1).
+
+(2) ISO 28460:2010(E), (“ISO 28460”), Petroleum and natural gas industries—Installation and equipment for liquefied natural gas—Ship-to-shore interface and port operations, First edition, December 15, 2010, for § 127.008(d)(2).
+
+(g) National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, MA 02169-7471, 800-344-3555, *https://www.nfpa.org.*
+
+(1) NFPA 10, Standard for Portable Fire Extinguishers, 2018 Edition, effective August 21, 2017, for §§ 127.603(a) and 127.1503.
+
+(2) NFPA 30, Flammable and Combustible Liquids Code, 2018 Edition, effective September 6, 2017, for §§ 127.313(b) and 127.1313(b).
+
+(3) NFPA 51B, Standard for Fire Prevention During Welding, Cutting, and Other Hot Work, 2019 Edition, effective July 15, 2018, for §§ 127.405(b) and 127.1405(b).
+
+(4) NFPA 59A, Standard for the Production, Storage, and Handling of Liquefied Natural Gas (LNG), 2019 Edition, effective November 25, 2018, for §§ 127.008(d), 127. 101, 127.201(b) and (c), 127.405(a) and (b), and 127.603(a).
+
+(5) NFPA 70, National Electrical Code, 2020 Edition, effective August 25, 2019, for §§ 127.107(a) and (c), 127.201(c), and 127.1107.
+
+[87 FR 5689, Feb. 2, 2022]

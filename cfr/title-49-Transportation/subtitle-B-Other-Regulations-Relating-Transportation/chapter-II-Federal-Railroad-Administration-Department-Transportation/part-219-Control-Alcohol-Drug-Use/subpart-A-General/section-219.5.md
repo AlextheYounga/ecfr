@@ -1,8 +1,6 @@
 ##### § 219.5 Definitions. #####
 
-Link to an amendment published at 87 FR 5733, Feb. 2, 2022.
-
-As used in this part only -
+As used in this part only—
 
 *Accident or incident reportable under part 225* does not include a case that is classified as “covered data” under § 225.5 of this chapter (*i.e.,* employee injury/illness cases reportable exclusively because a physician or other licensed health care professional either made a one-time topical application of a prescription-strength medication to the employee's injury or made a written recommendation that the employee: Take one or more days away from work when the employee instead reports to work (or would have reported had he or she been scheduled) and takes no days away from work in connection with the injury or illness; work restricted duty for one or more days when the employee instead works unrestricted (or would have worked unrestricted had he or she been scheduled) and takes no other days of restricted work activity in connection with the injury or illness; or take over-the-counter medication at a dosage equal to or greater than the minimum prescription strength, whether or not the employee actually takes the medication).
 
@@ -10,7 +8,7 @@ As used in this part only -
 
 *Associate Administrator* means the Associate Administrator for Railroad Safety, Federal Railroad Administration, or the Associate Administrator's delegate.
 
-*Category of regulated employee* means a broad class of either covered service or maintenance-of-way employees (as defined in this section). For the purpose of determining random testing rates under § 219.625, if an individual performs both covered service and maintenance-of-way activities, he or she belongs in the category of regulated employee that corresponds with the type of regulated service comprising more than 50 percent of his or her regulated service.
+*Category of regulated employee* means a broad class of covered service, maintenance-of-way, or mechanical employees (as defined in this section). For the purposes of determining random testing rates under § 219.625, if an individual performs both covered service and maintenance-of-way activities, or covered service and mechanical activities, he or she belongs in the category of regulated employee that corresponds with the type of regulated service comprising the majority of his or her regulated service.
 
 *Class I, Class II,* and *Class III* have the meaning assigned by regulations of the Surface Transportation Board (49 CFR part 1201; General Instructions 1-1).
 
@@ -38,7 +36,7 @@ As used in this part only -
 
 *Drug and Alcohol Counselor* or *DAC* means a person who meets the credentialing and qualification requirements described in § 242.7 of this chapter.
 
-*Employee* means any individual (including a volunteer or a probationary employee) performing activities for a railroad or a contractor to a railroad.
+*Employee* means any individual, (including a volunteer or a probationary employee) performing activities for a railroad, a contractor to a railroad, or a subcontractor to a railroad.
 
 *Evacuation* means the mandatory or voluntary relocation of at least one person who is not a railroad employee for the purpose of avoiding exposure to a hazardous material release. It does not include the closure of public transportation roadways for the purpose of containing a hazardous material release, unless the closure is accompanied by an evacuation order.
 
@@ -62,7 +60,7 @@ As used in this part only -
 
 *Highway-rail grade crossing accident/incident* means any impact between railroad on-track equipment and a highway user at a highway-rail grade crossing. The term “highway user” includes pedestrians, as well as automobiles, buses, trucks, motorcycles, bicycles, farm vehicles, and all other modes of surface transportation motorized and un-motorized.
 
-*Impact accident,* (1) Impact accident means a train accident, as defined in this section, consisting either of -
+*Impact accident,* (1) Impact accident means a train accident, as defined in this section, consisting either of—
 
 (i) A head-on or rear-end collision between on-track equipment;
 
@@ -88,6 +86,24 @@ As used in this part only -
 
 *Maintenance-of-way employee* or *MOW employee* means a roadway worker as defined in § 214.7 of this chapter.
 
+*Mechanical employee* or *MECH employee* means—
+
+(1) Any employee who, on behalf of a railroad, performs mechanical tests or inspections required by part 215, 221, 229, 230, 232, 238, or 299 of this chapter on railroad rolling equipment, or its components, except for:
+
+(i) An employee who is a member of a train crew assigned to test or inspect railroad rolling equipment that is part of a train or yard movement the employee has been called to operate; or
+
+(ii) An employee who only performs one or more of the following duties:
+
+(A) Cleaning and/or supplying cabooses, locomotives, or passenger cars with ice, food concession items, drinking water, tools, sanitary supplies, or flagging equipment;
+
+(B) Servicing activities on locomotives such as fueling, replenishing engine oils and engine water, sanding, and toilet discharge and recharge;
+
+(C) Checking lading for pilferage or vandalism; or
+
+(D) Loading, unloading, or shifting car loads.
+
+(2) An employee who only performs work related to the original manufacturing, testing, or inspection of railroad rolling equipment, or its components, on the manufacturer's behalf, is not a mechanical employee or MECH employee.
+
 *Medical facility* means a hospital, clinic, physician's office, or laboratory where post-accident toxicological testing specimens can be collected according to recognized professional standards, and where an individual's post-accident medical needs can be attended to.
 
 *Medical practitioner* means a physician or dentist licensed or otherwise authorized to practice by the state.
@@ -112,7 +128,7 @@ As used in this part only -
 
 *Possess* means to have on one's person or in one's personal effects or under one's control. However, the concept of possession as used in this part does not include control by virtue of presence in the employee's personal residence or other similar location off of railroad property.
 
-*Railroad* means any form of nonhighway ground transportation that runs on rails or electromagnetic guideways, and any person providing such transportation, including -
+*Railroad* means any form of nonhighway ground transportation that runs on rails or electromagnetic guideways, and any person providing such transportation, including—
 
 (1) Commuter or other short-haul railroad passenger service in a metropolitan or suburban area and commuter railroad service that was operated by the Consolidated Rail Corporation on January 1, 1979; and
 
@@ -122,9 +138,9 @@ As used in this part only -
 
 *Raking collision* means a collision between parts or lading of a consist on an adjacent track, or with a structure such as a bridge.
 
-*Regulated employee* means a covered employee or maintenance-of-way employee who performs regulated service for a railroad subject to the requirements of this part.
+*Regulated employee* means a covered employee, maintenance-of-way employee, or mechanical employee (as defined in this section) who performs regulated service for a railroad subject to the requirements of this part.
 
-*Regulated service* means covered service or maintenance-of-way activities, the performance of which makes an employee subject to the requirements of this part.
+*Regulated service* means activities a covered employee, maintenance-of-way employee, or mechanical employee (as defined in this section) performs that makes such an employee subject to this part.
 
 *Reportable injury* means an injury reportable under part 225 of this chapter except for an injury that is classified as “covered data” under § 225.5 of this chapter (*i.e.,* employee injury/illness cases reportable exclusively because a physician or other licensed health care professional either made a one-time topical application of a prescription-strength medication to the employee's injury or made a written recommendation that the employee: Take one or more days away from work when the employee instead reports to work (or would have reported had he or she been scheduled) and takes no days away from work in connection with the injury or illness; work restricted duty for one or more days when the employee instead works unrestricted (or would have worked unrestricted had he or she been scheduled) and takes no other days of restricted work activity in connection with the injury or illness; or take over-the-counter medication at a dosage equal to or greater than the minimum prescription strength, whether or not the employee actually takes the medication.
 
@@ -132,7 +148,9 @@ As used in this part only -
 
 *Responsible railroad supervisor* means any responsible line supervisor (*e.g.,* a trainmaster or road foreman of engines) or superior official in authority over the regulated employees to be tested.
 
-*Side collision* means a collision at a turnout where one consist strikes the side of another consist.
+*Rolling equipment* means locomotives, railroad cars, and one or more locomotives coupled to one or more railroad cars.
+
+*Side collision* means a collision when one consist strikes the side of another consist at a turnout, including a collision at a switch or at a railroad crossing at grade.
 
 *State* means a State of the United States of America or the District of Columbia.
 
@@ -150,4 +168,4 @@ As used in this part only -
 
 *Watchman/lookout* means an employee who has been annually trained and qualified to provide warning of approaching trains or on-track equipment. Watchmen/lookouts must be properly equipped to provide visual and auditory warning by such means as a whistle, air horn, white disk, red flag, lantern, or fusee. A watchman/lookout's sole duty is to look out for approaching trains/on-track equipment and provide at least fifteen seconds advanced warning to employees before the arrival of trains/on-track equipment.
 
-[66 FR 41973, Aug. 9, 2001, as amended at 68 FR 10135, Mar. 3, 2003; 68 FR 75463, Dec. 31, 2003; 69 FR 19287, Apr. 12, 2004; 78 FR 14224, Mar. 5, 2013; 81 FR 37923, June 10, 2016]
+[66 FR 41973, Aug. 9, 2001, as amended at 68 FR 10135, Mar. 3, 2003; 68 FR 75463, Dec. 31, 2003; 69 FR 19287, Apr. 12, 2004; 78 FR 14224, Mar. 5, 2013; 81 FR 37923, June 10, 2016; 87 FR 5733, Feb. 2, 2022]

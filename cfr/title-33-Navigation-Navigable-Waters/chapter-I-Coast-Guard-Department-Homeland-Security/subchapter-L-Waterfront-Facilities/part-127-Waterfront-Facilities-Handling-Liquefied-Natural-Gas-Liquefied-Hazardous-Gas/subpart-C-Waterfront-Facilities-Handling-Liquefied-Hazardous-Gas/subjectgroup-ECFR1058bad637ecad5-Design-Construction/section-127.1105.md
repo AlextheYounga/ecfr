@@ -1,8 +1,6 @@
 ##### § 127.1105 Layout and spacing of marine transfer area for LHG. #####
 
-Link to an amendment published at 87 FR 5691, Feb. 2, 2022.
-
-Each new waterfront facility handling LHG, and all new construction in the marine transfer area for LHG of each existing facility, must comply with the following:
+Each new waterfront facility handling LHG, and all new construction in the marine transfer area for LHG of each facility, must comply with the following:
 
 (a) Each building, shed, and other structure within each marine transfer area for LHG must be located, constructed, or ventilated to prevent the accumulation of flammable or toxic gases within the structure.
 
@@ -15,3 +13,5 @@ Each new waterfront facility handling LHG, and all new construction in the marin
 (2) The entrance to, or the superstructure of, a tunnel under a navigable waterway.
 
 (d) Each manifold, loading arm, or independent mating flange must be located at least 30 meters (98.5 feet) from each public roadway or railway.
+
+[CGD 88-049, 60 FR 39796, Aug. 3, 1995, as amended by USCG-2019-0444, 87 FR 5691, Feb. 2, 2022]

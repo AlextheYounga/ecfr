@@ -1,10 +1,8 @@
 ##### § 127.1101 Piping systems. #####
 
-Link to an amendment published at 87 FR 5691, Feb. 2, 2022.
-
 Each piping system within the marine transfer area for LHG used for the transfer of LHG must meet the following criteria:
 
-(a) Each system must be designed and constructed in accordance with ASME B31.3.
+(a) Each system must be designed and constructed in accordance with ASME B31.3-2020 (incorporated by reference, see § 127.003).
 
 (b) Each pipeline on a pier or wharf must be located so that it is not exposed to physical damage from vehicular traffic or cargo-handling equipment. Each pipeline under navigable waters must be covered or protected to meet 49 CFR 195.248.
 
@@ -18,4 +16,6 @@ Each piping system within the marine transfer area for LHG used for the transfer
 
 (g) Where two or more LHGs are loaded or unloaded at the same facility, each manifold must be identified or marked to indicate each LHG it handles.
 
-(h) Each pipeline used to transfer flammable liquids or vapors must be provided with precautions against static, lightning, and stray current in accordance with API RP 2003.
+(h) Each pipeline used to transfer flammable liquids or vapors must be provided with precautions against static, lightning, and stray current in accordance with API RP 2003 (incorporated by reference, see § 127.003).
+
+[CGD 88-049, 60 FR 39796, Aug. 3, 1995, as amended by USCG-2019-0444, 87 FR 5691, Feb. 2, 2022]

@@ -1,8 +1,6 @@
 ##### § 127.313 Bulk storage. #####
 
-Link to an amendment published at 87 FR 5691, Feb. 2, 2022.
-
-(a) The operator shall ensure that only the following flammable materials are stored in the marine transfer area for LNG:
+(a) The operator must ensure that only the following flammable materials are stored in the marine transfer area for LNG:
 
 (1) LNG.
 
@@ -14,6 +12,6 @@ Link to an amendment published at 87 FR 5691, Feb. 2, 2022.
 
 (5) Solvents, lubricants, paints, and other fuels in the amount used for one day's operations and maintenance.
 
-(b) Flammable liquids must be stored in accordance with Chapter 4 of NFPA 30.
+(b) Flammable liquids must be stored in accordance with NFPA 30 (incorporated by reference, see § 127.003).
 
-[CGD 78-038, 53 FR 3376, Feb. 7, 1988, as amended by CGD 88-049, 60 FR 39796, Aug. 3, 1995]
+[CGD 78-038, 53 FR 3376, Feb. 7, 1988, as amended by CGD 88-049, 60 FR 39796, Aug. 3, 1995; USCG-2019-0444, 87 FR 5691, Feb. 2, 2022]

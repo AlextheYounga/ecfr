@@ -1,8 +1,6 @@
 ##### § 127.1501 General. #####
 
-Link to an amendment published at 87 FR 5692, Feb. 2, 2022.
-
-(a) The number, kind, and place of equipment for fire detection, protection, control, and extinguishment must be determined by an evaluation based upon sound principles of fire-protection engineering, analysis of local conditions, hazards within the waterfront facility handling LHG, and exposure to other property. A description of the number, kind, place, and use of fire equipment determined by this evaluation must appear in the Emergency Manual for each facility. The evaluation for each new facility and for all new construction on each existing facility must be submitted to the COTP for review when the emergency manual is submitted under § 127.1307.
+(a) The number, kind, and place of equipment for fire detection, protection, control, and extinguishment must be determined by an evaluation based upon sound principles of fire-protection engineering, analysis of local conditions, hazards within the waterfront facility handling LHG, and exposure to other property. A description of the number, kind, place, and use of fire equipment determined by this evaluation must appear in the Emergency Manual for each facility. The evaluation for each new facility and for all new construction on each facility must be submitted to the COTP for review when the emergency manual is submitted under § 127.1307.
 
 (b) All fire equipment for each facility must be adequately maintained, and periodically inspected and tested, so it will perform as intended.
 
@@ -18,4 +16,4 @@ Link to an amendment published at 87 FR 5692, Feb. 2, 2022.
 
 (d) Fire equipment must bear the approval, if applicable, of Underwriters Laboratories, Inc., Factory Mutual Research Corporation, or other independent laboratory recognized by NFPA.
 
-[CGD 88-049, 60 FR 39796, Aug. 3, 1995, as amended by USCG-1999-5832, 64 FR 34714, June 29, 1999]
+[CGD 88-049, 60 FR 39796, Aug. 3, 1995, as amended by USCG-1999-5832, 64 FR 34714, June 29, 1999; USCG-2019-0444, 87 FR 5691, Feb. 2, 2022]

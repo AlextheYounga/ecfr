@@ -1,14 +1,12 @@
 ##### § 219.203 Responsibilities of railroads and employees. #####
 
-Link to an amendment published at 87 FR 5734, Feb. 2, 2022.
-
-(a) *Employees tested.* A regulated employee subject to post-accident toxicological testing under this subpart must cooperate in the provision of specimens as described in this part and appendix C to this part.
+(a) *Employees tested.* A regulated employee subject to post-accident toxicological testing under this subpart must cooperate in the provision of specimens as described in this part.
 
 (1) *General.* Except as otherwise provided for by this section, following each qualifying event described in § 219.201, a regulated employee directly involved in a qualifying event under this subpart must provide blood and urine specimens for toxicological testing by FRA. This includes any regulated employee who may not have been present or on-duty at the time or location of the event, but whose actions may have played a role in its cause or severity, including, but not limited to, an operator, dispatcher, or signal maintainer.
 
 (2) *Fatalities.* Testing of the remains of an on-duty employee (as defined in § 219.5) who is fatally injured in a qualifying event described in § 219.201 is required, regardless of fault, if the employee dies within 12 hours of the qualifying event as a result of such qualifying event.
 
-(3) *Major train accidents.* For an accident or incident meeting the criteria of a major train accident in § 219.201(a)(1) -
+(3) *Major train accidents.* For an accident or incident meeting the criteria of a major train accident in § 219.201(a)(1)—
 
 (i) All assigned crew members of all trains or other on-track equipment involved in the qualifying event must be subjected to post-accident toxicological testing, regardless of fault.
 
@@ -40,7 +38,7 @@ Link to an amendment published at 87 FR 5734, Feb. 2, 2022.
 
 (c) *Alcohol testing.* Except as provided for in paragraph (e)(4) of this section, if the conditions for mandatory post-accident toxicological testing exist, a railroad may also require an employee to provide breath for testing in accordance with the procedures set forth in part 40 of this title and in this part, if such testing does not interfere with timely collection of required urine and blood specimens.
 
-(d) *Timely specimen collection.* (1) A railroad must make every reasonable effort to assure that specimens are provided as soon as possible after the accident or incident, preferably within four hours. Specimens that are not collected within four hours after a qualifying accident or incident must be collected as soon thereafter as practicable. If a specimen is not collected within four hours of a qualifying event, the railroad must immediately notify the FRA Drug and Alcohol Program Manager at 202-493-6313 and provide detailed information regarding the failure (either verbally or via a voicemail). The railroad must also submit a concise, written narrative report of the reasons for such a delay to the FRA Drug and Alcohol Program Manager, 1200 New Jersey Ave. SE., Washington, DC 20590. The report must be submitted within 30 days after the expiration of the month during which the accident or incident occurred. This report may also be submitted via email to an email address provided by the FRA Drug and Alcohol Program Manager.
+(d) *Timely specimen collection.* (1) A railroad must make every reasonable effort to assure that specimens are provided as soon as possible after the accident or incident, preferably within four hours. Specimens that are not collected within four hours after a qualifying accident or incident must be collected as soon thereafter as practicable. If a specimen is not collected within four hours of a qualifying event, the railroad must immediately notify the FRA Drug and Alcohol Program Manager at 202-493-6313 and provide detailed information regarding the failure (either in conversation or via a voicemail).
 
 (2) The requirements of paragraph (d) of this section must not be construed to inhibit an employee who is required to be post-accident toxicological tested from performing, in the immediate aftermath of an accident or incident, any duties that may be necessary for the preservation of life or property. Where practical, however, a railroad must utilize other employees to perform such duties.
 
@@ -50,7 +48,7 @@ Link to an amendment published at 87 FR 5734, Feb. 2, 2022.
 
 (e) *Recall of employees for testing.* (1) Except as otherwise provided for in paragraph (e)(2) of this section, a regulated employee may not be recalled for testing under this subpart if that employee has been released from duty under the normal procedures of the railroad. An employee who has been transported to receive medical care is not released from duty for purposes of this section. Furthermore, nothing in this section prohibits the subsequent testing of an employee who has failed to remain available for testing as required (*e.g.,* an employee who is absent without leave). However, subsequent testing does not excuse a refusal by the employee to provide the specimens in a timely manner.
 
-(2) A railroad must immediately recall and place on duty a regulated employee for post-accident drug testing, if -
+(2) A railroad must immediately recall and place on duty a regulated employee for post-accident drug testing, if—
 
 (i) The employee could not be retained in duty status because the employee went off duty under normal railroad procedures before being contacted by a railroad supervisor and instructed to remain on duty pending completion of the required determinations (*e.g.,* in the case of a dispatcher or signal maintainer remote from the scene of an accident who was unaware of the occurrence at the time he or she went off duty); and
 
@@ -72,4 +70,4 @@ Link to an amendment published at 87 FR 5734, Feb. 2, 2022.
 
 (h) *Discretion of physician.* Nothing in this subpart may be construed to limit the discretion of a medical professional to determine whether drawing a blood specimen is consistent with the health of an injured employee or an employee afflicted by any other condition that may preclude drawing the specified quantity of blood.
 
-[81 FR 37931, June 10, 2016]
+[81 FR 37931, June 10, 2016, as amended at 87 FR 5734, Feb. 2, 2022]

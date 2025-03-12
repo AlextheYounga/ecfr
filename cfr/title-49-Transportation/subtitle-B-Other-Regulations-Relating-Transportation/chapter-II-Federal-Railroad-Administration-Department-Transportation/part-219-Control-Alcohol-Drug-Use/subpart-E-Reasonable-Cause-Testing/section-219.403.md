@@ -1,22 +1,22 @@
 ##### § 219.403 Requirements for reasonable cause testing. #####
 
-Link to an amendment published at 87 FR 5735, Feb. 2, 2022.
-
-Each railroad's decision process regarding whether reasonable cause testing is authorized must be completed before the reasonable cause testing is performed and documented according to the requirements of § 219.405. The following circumstances constitute reasonable cause for the administration of alcohol and/or drug tests under the authority of this subpart.
+Each railroad's decision process regarding whether reasonable cause testing is authorized must be completed before the reasonable cause testing is performed and documented according to the requirements of § 219.405. The following circumstances constitute reasonable cause for the administration of alcohol and/or drug tests under the authority of this subpart. For reasonable cause testing based on a rule violation as authorized in paragraph (b) of this section, a railroad that elects to test under FRA authority may only use the rule violations listed in paragraph (b) of this section as bases for reasonable cause testing.
 
 (a) *Train accident or train incident.* A regulated employee has been involved in a train accident or train incident (as defined in § 219.5) reportable under part 225 of this chapter, and a responsible railroad supervisor (as defined in § 219.5) has a reasonable belief, based on specific, articulable facts, that the individual employee's acts or omissions contributed to the occurrence or severity of the accident; or
 
 (b) *Rule violation.* A regulated employee has been directly involved in one or more of the following railroad or FRA rule violations or other errors:
 
-(1) Noncompliance with a train order, track warrant, track bulletin, track permit, stop and flag order, timetable, signal indication, special instruction or other directive with respect to movement of railroad on-track equipment that involves -
+(1) Noncompliance with a train order, track warrant, track bulletin, track permit, stop and flag order, timetable, signal indication, special instruction or other directive with respect to movement of railroad on-track equipment that involves—
 
 (i) Occupancy of a block or other segment of track to which entry was not authorized;
 
 (ii) Failure to clear a track to permit opposing or following movements to pass;
 
-(iii) Moving across a railroad crossing at grade without authorization; or
+(iii) Moving across a railroad crossing at grade without authorization;
 
-(iv) Passing an absolute restrictive signal or passing a restrictive signal without stopping (if required);
+(iv) Passing an absolute restrictive signal or passing a restrictive signal without stopping (if required); or
+
+(v) Failure to take appropriate action, resulting in the enforcement of a positive train control system.
 
 (2) Failure to protect on-track equipment, including leaving on-track equipment fouling an adjacent track;
 
@@ -48,6 +48,16 @@ Each railroad's decision process regarding whether reasonable cause testing is a
 
 (16) Failure to ascertain that provision was made for on-track safety before fouling a track;
 
-(17) Improper use of individual train detection in a manual interlocking or control point; or
+(17) Improper use of individual train detection in a manual interlocking or control point;
 
-(18) Failure to apply three point protection (fully apply the locomotive and train brakes, center the reverser, and place the generator field switch in the off position) that results in a reportable injury to a regulated employee.
+(18) Failure to apply three point protection (fully apply the locomotive and train brakes, center the reverser, and place the generator field switch in the off position) that results in a reportable injury to a regulated employee;
+
+(19) Failure to display blue signals in accordance with § 218.25 through § 218.30 of this chapter;
+
+(20) Failure to perform a required brake test, or having knowledge that a required brake test was not performed, pursuant to the Class I, Class IA, Class II, or Class III, or transfer train brake test provisions of part 232, or the running brake test provisions of part 238, of this chapter;
+
+(21) Failure to comply with prohibitions against tampering with locomotive mounted safety devices, or permitting a train to be operated with an unauthorized disabled safety device in the controlling locomotive; or
+
+(22) Failure to have a derailing device in proper position and locked if required in accordance with § 218.109 of this chapter.
+
+[81 FR 37935, June 10, 2016, as amended at 87 FR 5735, Feb. 2, 2022]

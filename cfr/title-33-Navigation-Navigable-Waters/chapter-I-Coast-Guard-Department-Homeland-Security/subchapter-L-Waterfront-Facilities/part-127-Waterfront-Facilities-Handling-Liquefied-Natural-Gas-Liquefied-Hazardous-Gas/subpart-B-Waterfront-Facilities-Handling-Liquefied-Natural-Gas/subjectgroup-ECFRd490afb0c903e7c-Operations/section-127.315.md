@@ -1,14 +1,12 @@
 ##### § 127.315 Preliminary transfer inspection. #####
 
-Link to an amendment published at 87 FR 5691, Feb. 2, 2022.
-
-Before transferring LNG, the person in charge of shoreside transfer operations shall -
+Before transferring LNG, the person in charge of shoreside transfer operations must—
 
 (a) Inspect the transfer piping and equipment to be used during the transfer and replace any worn or inoperable parts;
 
 (b) For each of the vessel's cargo tanks from which cargo will be transferred, note the pressure, temperature, and volume to ensure they are safe for transfer;
 
-(c) Review and agree with the person in charge of cargo transfer on the vessel to -
+(c) Review and agree with the person in charge of cargo transfer on the vessel to—
 
 (1) The sequence of transfer operations;
 
@@ -36,4 +34,4 @@ Before transferring LNG, the person in charge of shoreside transfer operations s
 
 (3) The communication systems.
 
-[CGD 78-038, 53 FR 3376, Feb. 7, 1988, as amended by CGD 88-049, 60 FR 39796, Aug. 3, 1995]
+[CGD 78-038, 53 FR 3376, Feb. 7, 1988, as amended by CGD 88-049, 60 FR 39796, Aug. 3, 1995; USCG-2019-0444, 87 FR 5691, Feb. 2, 2022]

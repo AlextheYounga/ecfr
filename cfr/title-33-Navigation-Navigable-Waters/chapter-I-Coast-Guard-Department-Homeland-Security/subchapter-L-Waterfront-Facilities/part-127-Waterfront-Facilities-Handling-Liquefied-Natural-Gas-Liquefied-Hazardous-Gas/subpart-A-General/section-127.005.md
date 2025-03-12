@@ -1,7 +1,5 @@
 ##### § 127.005 Definitions. #####
 
-Link to an amendment published at 87 FR 5689, Feb. 2, 2022.
-
 As used in this part:
 
 *Active* means accomplishing the transfer of LHG or LNG, or scheduling one to occur, within 12 months of the current date.
@@ -18,9 +16,9 @@ As used in this part:
 
 *Existing* as applied to a waterfront facility means a facility handling LNG constructed or being constructed under a contract awarded before June 2, 1988, or a facility handling LHG constructed or being constructed under a contract awarded before January 30, 1996.
 
-*Facility* means either a waterfront facility handling LHG or a waterfront facility handling LNG.
+*Facility* means either a waterfront facility handling LHG or a waterfront facility handling LNG, and includes LNG fuel facilities.
 
-*Fire endurance rating* means the duration for which an assembly or structural unit will contain a fire or retain structural integrity when exposed to the temperatures specified in the standard time-temperature curve in NFPA 251.
+*Fire endurance rating* means the duration for which an assembly or structural unit will contain a fire or retain structural integrity when exposed to the temperatures specified in the standard time-temperature curve in ASTM E119-20 (incorporated by reference, see § 127.003).
 
 *Flammable product* means a product indicated by the letter “F” or by the letters “F + T” in Table 127.005.
 
@@ -39,6 +37,8 @@ As used in this part:
 *Liquefied petroleum gas* (LPG) means a liquid consisting mostly of propane or butane or both.
 
 *LNG* means liquefied natural gas.
+
+*LNG fuel facility* means a waterfront facility that handles LNG for the sole purpose of providing LNG from shore-based structures to vessels for use as a marine fuel, and that does not transfer LNG to or receive LNG from vessels capable of carrying LNG in bulk as cargo.
 
 *LNG vessel* means a vessel constructed or converted to carry LNG, in bulk.
 
@@ -68,30 +68,27 @@ As used in this part:
 
 *Waterfront facility handling LNG* means any structure on, in, or under the navigable waters of the United States, or any structure on land or any area on shore immediately adjacent to such waters, used or capable of being used to transfer liquefied natural gas, in bulk, to or from a vessel.
 
-Table 127.005 - List of Products and Hazards
+|                                                             Product                                                             |Hazard|
+|---------------------------------------------------------------------------------------------------------------------------------|------|
+|                                                          Acetaldehyde                                                           |F + T |
+|                                                       Ammonia, anhydrous                                                        |  T   |
+|                                                            Butadiene                                                            |  F   |
+|                                                             Butanes                                                             |  F   |
+|                                                  Butane and propane (mixtures)                                                  |  F   |
+|                                                            Butylenes                                                            |  F   |
+|                                                            Chlorine                                                             |  T   |
+|                                                          Dimethylamine                                                          |F + T |
+|                                                             Ethane                                                              |  F   |
+|                                                         Ethyl chloride                                                          |F + T |
+|                                                            Ethylene                                                             |  F   |
+|                                                         Ethylene oxide                                                          |F + T |
+|                                           Methyl-acetylene and propadiene (mixtures)                                            |  F   |
+|                                                         Methyl bromide                                                          |F + T |
+|                                                         Methyl chloride                                                         |F + T |
+|                                                             Propane                                                             |  F   |
+|                                                            Propylene                                                            |  F   |
+|                                                         Sulphur dioxide                                                         |  T   |
+|                                                         Vinyl chloride                                                          |F + T |
+|**Note:** “F” indicates a flammable product. “T” indicates a toxic product. “F + T” indicates a product both flammable and toxic.|      |
 
-|                 Product                  |Hazard|
-|------------------------------------------|------|
-|               Acetaldehyde               |F + T |
-|            Ammonia, anhydrous            |  T   |
-|                Butadiene                 |  F   |
-|                 Butanes                  |  F   |
-|      Butane and propane (mixtures)       |  F   |
-|                Butylenes                 |  F   |
-|                 Chlorine                 |  T   |
-|              Dimethylamine               |F + T |
-|                  Ethane                  |  F   |
-|              Ethyl chloride              |F + T |
-|                 Ethylene                 |  F   |
-|              Ethylene oxide              |F + T |
-|Methyl-acetylene and propadiene (mixtures)|  F   |
-|              Methyl bromide              |F + T |
-|             Methyl chloride              |F + T |
-|                 Propane                  |  F   |
-|                Propylene                 |  F   |
-|             Sulphur dioxide              |  T   |
-|              Vinyl chloride              |F + T |
-
-Note: “F” indicates a flammable product. “T” indicates a toxic product. “F + T” indicates a product both flammable and toxic.
-
-[CGD 78-038, 53 FR 3376, Feb. 7, 1988, as amended by CGD 88-049, 60 FR 39795, Aug. 3, 1995; CGD 97-023, 62 FR 33363, June 19, 1997]
+[CGD 78-038, 53 FR 3376, Feb. 7, 1988, as amended by CGD 88-049, 60 FR 39795, Aug. 3, 1995; CGD 97-023, 62 FR 33363, June 19, 1997; 87 FR 5689, Feb. 2, 2022]
