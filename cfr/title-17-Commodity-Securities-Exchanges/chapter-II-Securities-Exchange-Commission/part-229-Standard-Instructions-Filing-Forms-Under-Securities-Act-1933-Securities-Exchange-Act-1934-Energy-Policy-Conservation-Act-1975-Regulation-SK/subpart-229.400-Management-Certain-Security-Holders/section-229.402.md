@@ -1,8 +1,8 @@
 ##### § 229.402 (Item 402) Executive compensation. #####
 
-Link to an amendment published at 87 FR 73136, Nov. 28, 2022.Link to an amendment published at 87 FR 80427, Dec. 29, 2022.
+Link to an amendment published at 87 FR 80427, Dec. 29, 2022.
 
-(a) *General* - (1) *Treatment of foreign private issuers.* A foreign private issuer will be deemed to comply with this Item if it provides the information required by Items 6.B and 6.E.2 of Form 20-F (17 CFR 249.220f), with more detailed information provided if otherwise made publicly available or required to be disclosed by the issuer's home jurisdiction or a market in which its securities are listed or traded.
+(a) *General.* (1) *Treatment of foreign private issuers.* A foreign private issuer will be deemed to comply with this Item if it provides the information required by Items 6.B, 6.E.2, and 6.F of Form 20-F (17 CFR 249.220f), with more detailed information provided if otherwise made publicly available or required to be disclosed by the issuer's home jurisdiction or a market in which its securities are listed or traded, or paragraph (19) of General Instruction B of Form 40-F (17 CFR 249.240f), as applicable. A foreign private issuer that elects to provide domestic Item 402 disclosure must provide the disclosure required by Item 402(w) in its annual report or registration statement, as applicable.
 
 (2) *All compensation covered.* This Item requires clear, concise and understandable disclosure of all plan and non-plan compensation awarded to, earned by, or paid to the named executive officers designated under paragraph (a)(3) of this Item, and directors covered by paragraph (k) of this Item, by any person for all services rendered in all capacities to the registrant and its subsidiaries, unless otherwise specifically excluded from disclosure in this Item. All such compensation shall be reported pursuant to this Item, even if also called for by another requirement, including transactions between the registrant and a third party where a purpose of the transaction is to furnish compensation to any such named executive officer or director. No amount reported as compensation for one fiscal year need be reported in the same manner as compensation for a subsequent fiscal year; amounts reported as compensation for one fiscal year may be required to be reported in a different manner pursuant to this Item.
 
@@ -198,6 +198,8 @@ Summary Compensation Table
 3. If a named executive officer is also a director who receives compensation for his or her services as a director, reflect that compensation in the Summary Compensation Table and provide a footnote identifying and itemizing such compensation and amounts. Use the categories in the Director Compensation Table required pursuant to paragraph (k) of this Item.
 
 4. Any amounts deferred, whether pursuant to a plan established under section 401(k) of the Internal Revenue Code (26 U.S.C. 401(k)), or otherwise, shall be included in the appropriate column for the fiscal year in which earned.
+
+5. Reduce the amount reported in the applicable Summary Compensation Table column for the fiscal year in which the amount recovered initially was reported as compensation by any amounts recovered pursuant to the compensation recovery policy required by the listing standards adopted pursuant to 17 CFR 240.10D-1, and identify such amounts by footnote.
 
 (d) *Grants of plan-based awards table.* (1) Provide the information specified in paragraph (d)(2) of this Item, concerning each grant of an award made to a named executive officer in the last completed fiscal year under any plan, including awards that subsequently have been transferred, in the following tabular format:
 
@@ -655,6 +657,8 @@ Summary Compensation Table
 
 4. Any amounts deferred, whether pursuant to a plan established under section 401(k) of the Internal Revenue Code (26 U.S.C. 401(k)), or otherwise, shall be included in the appropriate column for the fiscal year in which earned.
 
+5. Reduce the amount reported in the applicable Summary Compensation Table column for the fiscal year in which the amount recovered initially was reported as compensation by any amounts recovered pursuant to the compensation recovery policy required by the listing standards adopted pursuant to 17 CFR 240.10D-1, and identify such amounts by footnote.
+
 (o) *Smaller reporting companies - Narrative disclosure to summary compensation table.* Provide a narrative description of any material factors necessary to an understanding of the information disclosed in the Table required by paragraph (n) of this Item. Examples of such factors may include, in given cases, among other things:
 
 (1) The material terms of each named executive officer's employment agreement or arrangement, whether written or unwritten;
@@ -1047,4 +1051,30 @@ Pay Versus Performance
 
 3. *Incorporation by reference.* The information required by paragraph (v) of this section will not be deemed to be incorporated by reference into any filing under the Securities Act or the Exchange Act, except to the extent that the registrant specifically incorporates it by reference.
 
-[71 FR 53241, Sept. 8, 2006; 71 FR 56225, Sept. 26, 2006, as amended at 71 FR 78350, Dec. 29, 2006; 73 FR 958, Jan. 4, 2008; 74 FR 68362, Dec. 23, 2009; 76 FR 6043, Feb. 2, 2011; 76 FR 50121, Aug. 12, 2011; 80 FR 50184, Aug. 18, 2015; 82 FR 17552, Apr. 12, 2017; 84 FR 50738, Sept. 26, 2019; 87 FR 55193, Sept. 8, 2022]
+(w) *Disclosure of a registrant's action to recover erroneously awarded compensation.*
+
+(1) If at any time during or after the last completed fiscal year the registrant was required to prepare an accounting restatement that required recovery of erroneously awarded compensation pursuant to the registrant's compensation recovery policy required by the listing standards adopted pursuant to 17 CFR 240.10D-1, or there was an outstanding balance as of the end of the last completed fiscal year of erroneously awarded compensation to be recovered from the application of the policy to a prior restatement, the registrant must provide the following information:
+
+(i) For each restatement:
+
+(A) The date on which the registrant was required to prepare an accounting restatement;
+
+(B) The aggregate dollar amount of erroneously awarded compensation attributable to such accounting restatement, including an analysis of how the amount was calculated;
+
+(C) If the financial reporting measure as defined in 17 CFR 240.10D-1(d) related to a stock price or total shareholder return metric, the estimates that were used in determining the erroneously awarded compensation attributable to such accounting restatement and an explanation of the methodology used for such estimates;
+
+(D) The aggregate dollar amount of erroneously awarded compensation that remains outstanding at the end of the last completed fiscal year; and
+
+(E) If the aggregate dollar amount of erroneously awarded compensation has not yet been determined, disclose this fact, explain the reason(s) and disclose the information required in paragraphs (w)(1)(i)(B) through (D) of this section in the next filing that is required to include disclosure pursuant to Item 402 of Regulation S-K;
+
+(ii) If recovery would be impracticable pursuant to 17 CFR 240.10D-1(b)(1)(iv), for each current and former named executive officer and for all other current and former executive officers as a group, disclose the amount of recovery forgone and a brief description of the reason the listed registrant decided in each case not to pursue recovery; and
+
+(iii) For each current and former named executive officer from whom, as of the end of the last completed fiscal year, erroneously awarded compensation had been outstanding for 180 days or longer since the date the registrant determined the amount the individual owed, disclose the dollar amount of outstanding erroneously awarded compensation due from each such individual.
+
+(2) If at any time during or after its last completed fiscal year the registrant was required to prepare an accounting restatement, and the registrant concluded that recovery of erroneously awarded compensation was not required pursuant to the registrant's compensation recovery policy required by the listing standards adopted pursuant to 17 CFR 240.10D-1, briefly explain why application of the recovery policy resulted in this conclusion.
+
+(3) The information must appear with, and in the same format as, the rest of the disclosure required to be provided pursuant to this Item 402. The information is required only in proxy or information statements that call for Item 402 disclosure and the registrant's annual report on Form 10-K, and will not be deemed to be incorporated by reference into any filing under the Securities Act, except to the extent that the listed registrant specifically incorporates it by reference.
+
+(4) The disclosure must be provided in an Interactive Data File in accordance with Rule 405 of Regulation S-T and the EDGAR Filer Manual.
+
+[71 FR 53241, Sept. 8, 2006; 71 FR 56225, Sept. 26, 2006, as amended at 71 FR 78350, Dec. 29, 2006; 73 FR 958, Jan. 4, 2008; 74 FR 68362, Dec. 23, 2009; 76 FR 6043, Feb. 2, 2011; 76 FR 50121, Aug. 12, 2011; 80 FR 50184, Aug. 18, 2015; 82 FR 17552, Apr. 12, 2017; 84 FR 50738, Sept. 26, 2019; 87 FR 55193, Sept. 8, 2022; 87 FR 73136, Nov. 28, 2022]

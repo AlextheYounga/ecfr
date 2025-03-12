@@ -1,6 +1,6 @@
 ##### § 229.601 (Item 601) Exhibits. #####
 
-Link to an amendment published at 87 FR 73137, Nov. 28, 2022.Link to an amendment published at 87 FR 80428, Dec. 29, 2022.
+Link to an amendment published at 87 FR 80428, Dec. 29, 2022.
 
 (a) *Exhibits and index required.* (1) Subject to Rule 411(c) (§ 230.411(c) of this chapter) under the Securities Act and Rule 12b-23(c) (§ 240.12b-23(c) of this chapter) under the Exchange Act regarding incorporation of exhibits by reference, the exhibits required in the exhibit table must be filed as indicated, as part of the registration statement or report.
 
@@ -73,7 +73,8 @@ Exhibit Table
 |                                                       (37) through (94) [Reserved]                                                       |        N/A         |       N/A        |N/A |      N/A      |N/A|N/A |N/A|N/A|      N/A      |N/A|      N/A      |     N/A      |     N/A      |     N/A      |     N/A      |N/A|
 |                                                   (95) Mine Safety Disclosure Exhibit                                                    |                    |                  |    |               |   |    |   |   |               |   |               |              |              |      X       |      X       |   |
 |                                                (96) Technical report summary<sup>7</sup>                                                 |         X          |        X         |    |               | X |    |   | X |       X       | X |       X       |              |              |              |      X       |   |
-|                                                       (97) through (98) [Reserved]                                                       |                    |                  |    |               |   |    |   |   |               |   |               |              |              |              |              |   |
+|                                   (97) Policy Relating to Recovery of Erroneously Awarded Compensation                                   |                    |                  |    |               |   |    |   |   |               |   |               |              |              |              |      X       |   |
+|                                                             (98) [Reserved]                                                              |                    |                  |    |               |   |    |   |   |               |   |               |              |              |              |              |   |
 |                                                         (99) Additional exhibits                                                         |         X          |        X         | X  |       X       | X | X  | X | X |       X       | X |       X       |      X       |      X       |      X       |      X       |   |
 |                                                             (100) [Reserved]                                                             |                    |                  |    |               |   |    |   |   |               |   |               |              |              |              |              |   |
 |                                                       (101) Interactive Data File                                                        |         X          |        X         |    |               | X |    | X | X |       X       | X |               |      X       |              |      X       |      X       |   |
@@ -595,7 +596,9 @@ The certification must be signed by the chief executive officer of the depositor
 
 (*25*) *Reliance on information provided by the registrant.* If relying on information provided by the registrant for matters discussed in the technical report summary, as permitted under § 229.1302(f), provide the disclosure required pursuant to § 229.1302(f)(2).
 
-(97) through (98) [Reserved]
+(97) *Policy relating to recovery of erroneously awarded compensation.* A registrant that at any time during its last completed fiscal year had a class of securities listed on a national securities exchange registered pursuant to section 6 of the Exchange Act (15 U.S.C. 78f) or a national securities association registered pursuant to section 15A of the Exchange Act (15 U.S.C. 78o-3) must file as an exhibit to its annual report the compensation recovery policy required by the applicable listing standards adopted pursuant to 17 CFR 240.10D-1.
+
+(98) [Reserved]
 
 (99) *Additional exhibits.* (i) Any additional exhibits that the registrant may wish to file must be so marked as to indicate clearly the subject matters to which they refer.
 

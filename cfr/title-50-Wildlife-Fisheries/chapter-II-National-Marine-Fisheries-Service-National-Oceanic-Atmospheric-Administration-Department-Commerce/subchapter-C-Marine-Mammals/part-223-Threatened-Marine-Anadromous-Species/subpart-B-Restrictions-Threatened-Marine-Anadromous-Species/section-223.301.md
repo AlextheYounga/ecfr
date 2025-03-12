@@ -1,6 +1,4 @@
-##### § 223.301 Special rules - marine and anadromous fishes. #####
-
-Link to an amendment published at 87 FR 79818, Dec. 28, 2022.
+##### § 223.301 Special rules—marine and anadromous fishes. #####
 
 (a) *Middle Columbia River steelhead (Oncorhynchus mykiss.*) (1) The Middle Columbia River steelhead located in the geographic areas identified in paragraph (a)(4) of this section comprise a nonessential, experimental population (NEP).
 
@@ -104,4 +102,18 @@ Link to an amendment published at 87 FR 79818, Dec. 28, 2022.
 
 (5) *Geographic extent of the Okanogan River NEP Area.* The geographic boundary defining the Okanogan River NEP Area for UCR spring-run Chinook salmon is the mainstem and all tributaries of the Okanogan River between the Canada-United States border to the confluence of the Okanogan River with the Columbia River. All UCR spring-run Chinook salmon in this defined Okanogan River NEP Area are considered part of the NEP, irrespective of where they originated.
 
-[78 FR 2907, Jan. 15, 2013, as amended at 78 FR 79632, Jan. 30, 2014; 79 FR 40015, July 11, 2014]
+(d) *Upper Yuba River Central Valley spring-run Chinook salmon experimental population* (*Oncorhynchus tshawytscha*)—(1) *Status of Upper Yuba River Central Valley spring-run Chinook salmon under the Endangered Species Act.* The Upper Yuba River Central Valley spring-run Chinook salmon population identified in paragraph (d)(2) of this section is designated as a nonessential experimental population under section 10(j) of the Endangered Species Act (ESA) and shall be treated as a “threatened species” pursuant to 16 U.S.C. 1539(j)(2)(C).
+
+(2) *Upper Yuba River Central Valley spring-run Chinook salmon nonessential experimental population.* All Central Valley spring-run Chinook salmon within the NEP area in the upper Yuba River watershed upstream of Englebright Dam, as defined in this paragraph (d)(2), are considered part of the Upper Yuba River Central Valley spring-run Chinook salmon nonessential experimental population. The boundaries of the NEP area include Englebright Dam and all tributaries draining into Englebright Reservoir up to the ridgeline.
+
+(3) *Prohibitions.* Except as expressly allowed in paragraph (d)(4) of this section, all prohibitions of section 9(a)(1) of the ESA (16 U.S.C. 1538 (a)(1)) apply to fish that are part of the Upper Yuba River Central Valley spring-run Chinook salmon nonessential experimental population identified in paragraph (d)(2) of this section.
+
+(4) *Exceptions to the application of section 9 take prohibitions in the NEP area.* The following forms of take in the NEP area identified in paragraph (d)(2) of this section are not prohibited by this section:
+
+(i) Any taking of Central Valley spring-run Chinook salmon by authorized governmental entity personnel acting in compliance with § 223.203(b)(3) to aid a sick, injured or stranded fish; dispose of a dead fish; or salvage a dead fish which may be useful for scientific study;
+
+(ii) Any taking of Central Valley spring-run Chinook salmon that is unintentional, not due to negligent conduct, and incidental to, and not the purpose of, the carrying out of an otherwise lawful activity; and
+
+(iii) Any taking of Central Valley spring-run Chinook salmon pursuant to a permit issued by the National Marine Fisheries Service (NMFS) under section 10 of the ESA (16 U.S.C. 1539) and regulations in part 222 of this chapter applicable to such a permit.
+
+[78 FR 2907, Jan. 15, 2013, as amended at 78 FR 79632, Jan. 30, 2014; 79 FR 40015, July 11, 2014; 87 FR 79818, Dec. 28, 2022]

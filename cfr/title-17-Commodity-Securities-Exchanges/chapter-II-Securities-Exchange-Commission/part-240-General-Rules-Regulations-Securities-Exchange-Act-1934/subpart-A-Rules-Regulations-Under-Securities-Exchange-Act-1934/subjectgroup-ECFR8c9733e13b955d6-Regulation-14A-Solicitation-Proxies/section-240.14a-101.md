@@ -1,6 +1,6 @@
 ##### § 240.14a-101 Schedule 14A. Information required in proxy statement. #####
 
-Link to an amendment published at 87 FR 73139, Nov. 28, 2022.Link to an amendment published at 87 FR 80430, Dec. 29, 2022.Schedule 14A InformationProxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934(Amendment No. )Filed by the Registrant [ ] Filed by a party other than the Registrant [ ] Check the appropriate box: [ ] Preliminary Proxy Statement [ ] Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) [ ] Definitive Proxy Statement [ ] Definitive Additional Materials [ ] Soliciting Material under § 240.14a-12(Name of Registrant as Specified In Its Charter)(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+Link to an amendment published at 87 FR 80430, Dec. 29, 2022.Schedule 14A InformationProxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934(Amendment No. )Filed by the Registrant [ ] Filed by a party other than the Registrant [ ] Check the appropriate box: [ ] Preliminary Proxy Statement [ ] Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) [ ] Definitive Proxy Statement [ ] Definitive Additional Materials [ ] Soliciting Material under § 240.14a-12(Name of Registrant as Specified In Its Charter)(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
 
 Payment of Filing Fee (Check all boxes that apply):
 
@@ -917,6 +917,8 @@ The information disclosed pursuant to paragraph (b)(18) of this Item will not be
 Instruction to paragraph (b)(19).
 
 The information disclosed pursuant to paragraph (b)(19) of this Item will not be deemed incorporated by reference into any filing under the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), or the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*), except to the extent that the Fund specifically incorporates that information by reference.
+
+(20) In the case of a Fund that is an investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a) that is required to develop and implement a policy regarding the recovery of erroneously awarded compensation pursuant to § 240.10D-1(b)(1), if at any time during the last completed fiscal year the Fund was required to prepare an accounting restatement that required recovery of erroneously awarded compensation pursuant to the Fund's compensation recovery policy required by the listing standards adopted pursuant to 240.10D-1, or there was an outstanding balance as of the end of the last completed fiscal year of erroneously awarded compensation to be recovered from the application of the policy to a prior restatement, the Fund must provide the information required by Item 18 of Form N-CSR, as applicable.
 
 (c) *Approval of investment advisory contract.* If action is to be taken with respect to an investment advisory contract, include the following information in the proxy statement.
 

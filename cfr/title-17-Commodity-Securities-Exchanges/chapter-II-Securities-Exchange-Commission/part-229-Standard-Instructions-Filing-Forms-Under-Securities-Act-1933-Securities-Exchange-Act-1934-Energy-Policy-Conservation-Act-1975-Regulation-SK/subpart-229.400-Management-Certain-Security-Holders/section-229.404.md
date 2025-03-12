@@ -1,7 +1,5 @@
 ##### § 229.404 (Item 404) Transactions with related persons, promoters and certain control persons. #####
 
-Link to an amendment published at 87 FR 73137, Nov. 28, 2022.
-
 (a) *Transactions with related persons.* Describe any transaction, since the beginning of the registrant's last fiscal year, or any currently proposed transaction, in which the registrant was or is to be a participant and the amount involved exceeds $120,000, and in which any related person had or will have a direct or indirect material interest. Disclose the following information regarding the transaction:
 
 (1) The name of the related person and the basis on which the person is a related person.
@@ -56,9 +54,11 @@ iii. Did not involve more than the normal risk of collectibility or present othe
 
 5.a. Disclosure of an employment relationship or transaction involving an executive officer and any related compensation solely resulting from that employment relationship or transaction need not be provided pursuant to paragraph (a) of this Item if:
 
-i. The compensation arising from the relationship or transaction is reported pursuant to Item 402 (§ 229.402); or
+i. The compensation arising from the relationship or transaction is reported pursuant to Item 402 (§ 229.402);
 
-ii. The executive officer is not an immediate family member (as specified in Instruction 1 to paragraph (a) of this Item) and such compensation would have been reported under Item 402 (§ 229.402) as compensation earned for services to the registrant if the executive officer was a named executive officer as that term is defined in Item 402(a)(3) (§ 229.402(a)(3)), and such compensation had been approved, or recommended to the board of directors of the registrant for approval, by the compensation committee of the board of directors (or group of independent directors performing a similar function) of the registrant.
+ii. The executive officer is not an immediate family member (as specified in Instruction 1 to paragraph (a) of this Item) and such compensation would have been reported under Item 402 (§ 229.402) as compensation earned for services to the registrant if the executive officer was a named executive officer as that term is defined in Item 402(a)(3) (§ 229.402(a)(3)), and such compensation had been approved, or recommended to the board of directors of the registrant for approval, by the compensation committee of the board of directors (or group of independent directors performing a similar function) of the registrant; or
+
+iii. The transaction involves the recovery of erroneously awarded compensation computed as provided in 17 CFR 240.10D-1(b)(1)(iii) and the applicable listing standards for the registrant's securities, that is disclosed pursuant to Item 402(w) (§ 229.402(w)).
 
 b. Disclosure of compensation to a director need not be provided pursuant to paragraph (a) of this Item if the compensation is reported pursuant to Item 402(k) (§ 229.402(k)).
 
@@ -120,4 +120,4 @@ c. The interest of the related person arises solely from the ownership of a clas
 
 2. A foreign private issuer will be deemed to comply with this Item if it provides the information required by Item 7.B. of Form 20-F (17 CFR 249.220f) with more detailed information provided if otherwise made publicly available or required to be disclosed by the issuer's home jurisdiction or a market in which its securities are listed or traded.
 
-[71 FR 53252, Sept. 8, 2006, as amended at 73 FR 964, Jan. 4, 2008; 85 FR 66140, Oct. 16, 2020]
+[71 FR 53252, Sept. 8, 2006, as amended at 73 FR 964, Jan. 4, 2008; 85 FR 66140, Oct. 16, 2020; 87 FR 73137, Nov. 28, 2022]
