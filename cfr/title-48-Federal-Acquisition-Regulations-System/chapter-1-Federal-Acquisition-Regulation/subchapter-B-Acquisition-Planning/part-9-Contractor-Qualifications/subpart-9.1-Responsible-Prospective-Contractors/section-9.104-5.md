@@ -16,12 +16,6 @@
 
 (c) If the provision at 52.209-12, Certification Regarding Tax Matters, is applicable (see 9.104-7(e)), then the contracting officer shall not award any contract in an amount greater than $5,000,000, unless the offeror affirmatively certified in its offer, as required by paragraph (b)(1), (2), and (3) of the provision.
 
-(d) When an offeror provides an affirmative response to the provision at 52.222-57(c)(2), Representation Regarding Compliance with Labor Laws (Executive Order 13673), or its commercial item equivalent at 52.212-3(s)(2)(ii), the contracting officer shall follow the procedures in subpart 22.20.
+(d) Offerors who do not furnish the representation or certifications or such information as may be requested by the contracting officer shall be given an opportunity to remedy the deficiency. Failure to furnish the representation or certifications or such information may render the offeror nonresponsible.
 
-Note to paragraph (d):
-
-By a court order issued on October 24, 2016, this paragraph (d) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, DoD, GSA, and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.
-
-(e) Offerors who do not furnish the representation or certifications or such information as may be requested by the contracting officer shall be given an opportunity to remedy the deficiency. Failure to furnish the representation or certifications or such information may render the offeror nonresponsible.
-
-[73 FR 21798, Apr. 22, 2008, as amended at 80 FR 38296, July 2, 2015; 80 FR 75906, Dec. 4, 2015; 81 FR 58638, Aug. 25, 2016; 81 FR 91638, Dec. 16, 2016]
+[73 FR 21798, Apr. 22, 2008, as amended at 80 FR 38296, July 2, 2015; 80 FR 75906, Dec. 4, 2015; 81 FR 58638, Aug. 25, 2016; 81 FR 91638, Dec. 16, 2016; 82 FR 51529, Nov. 6, 2017]

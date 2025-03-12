@@ -36,14 +36,4 @@
 
 (i) Agencies shall promptly report other contractor information in accordance with 42.1503(h).
 
-(j) Past performance evaluations shall include an assessment of contractor's labor violation information when the contract includes the clause at 52.222-59, Compliance with Labor Laws (Executive Order 13673). Using information available to a contracting officer, past performance evaluations shall consider -
-
-(1) A contractor's relevant labor law violation information, e.g., timely implementation of remedial measures and compliance with those remedial measures (including related labor compliance agreement(s)); and
-
-(2) The extent to which the prime contractor addressed labor law violations by its subcontractors.
-
-Note to paragraph (j):
-
-By a court order issued on October 24, 2016, this paragraph (j) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, DoD, GSA, and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.
-
-[74 FR 31560, July 1, 2009, as amended at 75 FR 53134, Aug. 30, 2010; 75 FR 60260, Sept. 29, 2010; 78 FR 46788, Aug. 1, 2013; 80 FR 26427, May 7, 2015; 80 FR 38298, July 2, 2015; 81 FR 58644, Aug. 25, 2016; 81 FR 91640, Dec. 16, 2016; 81 FR 93486, Dec. 20, 2016]
+[74 FR 31560, July 1, 2009, as amended at 75 FR 53134, Aug. 30, 2010; 75 FR 60260, Sept. 29, 2010; 78 FR 46788, Aug. 1, 2013; 80 FR 26427, May 7, 2015; 80 FR 38298, July 2, 2015; 81 FR 58644, Aug. 25, 2016; 81 FR 91640, Dec. 16, 2016; 81 FR 93486, Dec. 20, 2016; 82 FR 51530, Nov. 6, 2017]

@@ -16,15 +16,9 @@
 
 (5) The contractor is not listed in the System for Award Management Exclusions (see FAR 9.405-1);
 
-(6) The contractor's past performance evaluations on other contract actions have been considered;
+(6) The contractor's past performance evaluations on other contract actions have been considered; and
 
-(7) The contractor's performance on this contract has been acceptable, e.g., received satisfactory ratings; and
-
-(8) The contractor's labor law decisions, mitigating factors, remedial measures, and the agency labor compliance advisor's analysis and advice have been considered in accordance with subpart 22.20, if the contract contains the clause 52.222-59, Compliance with Labor Laws (Executive Order 13673).
-
-Note to paragraph (c)(8):
-
-By a court order issued on October 24, 2016, this paragraph (c)(8) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, DoD, GSA, and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.
+(7) The contractor's performance on this contract has been acceptable, e.g., received satisfactory ratings.
 
 (d) The contracting officer, after considering price and other factors, shall make the determination on the basis of one of the following:
 
@@ -58,4 +52,4 @@ By a court order issued on October 24, 2016, this paragraph (c)(8) is enjoined i
 
 (g) The contract modification or other written document which notifies the contractor of the exercise of the option shall cite the option clause as authority.
 
-[48 FR 42231, Sept. 19, 1983, as amended at 50 FR 1742, Jan. 11, 1985; 50 FR 52429, 52434, Dec. 23, 1985; 53 FR 17858, May 18, 1988; 72 FR 36854, July 5, 2007; 74 FR 31560, July 1, 2009; 78 FR 37679, June 21, 2013; 78 FR 46787, Aug. 1, 2013; 81 FR 58638, Aug. 25, 2016; 81 FR 91638, Dec. 16, 2016]
+[48 FR 42231, Sept. 19, 1983, as amended at 50 FR 1742, Jan. 11, 1985; 50 FR 52429, 52434, Dec. 23, 1985; 53 FR 17858, May 18, 1988; 72 FR 36854, July 5, 2007; 74 FR 31560, July 1, 2009; 78 FR 37679, June 21, 2013; 78 FR 46787, Aug. 1, 2013; 81 FR 58638, Aug. 25, 2016; 81 FR 91638, Dec. 16, 2016; 82 FR 51530, Nov. 6, 2017]

@@ -2,68 +2,14 @@
 
 As prescribed in 12.301(b)(2), insert the following provision:
 
-Offeror Representations and Certifications - Commercial Items (JAN 2017)
+Offeror Representations and Certifications - Commercial Items (NOV 2017)
 
 The Offeror shall complete only paragraph (b) of this provision if the Offeror has completed the annual representations and certification electronically via the System for Award Management (SAM) Web site located at *https://www.sam.gov/portal*.
 If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (u) of this provision.
 
 (a) *Definitions.* As used in this provision -
 
-*Administrative merits determination* means certain notices or findings of labor law violations issued by an enforcement agency following an investigation. An administrative merits determination may be final or be subject to appeal or further review. To determine whether a particular notice or finding is covered by this definition, it is necessary to consult section II.B. in the DOL Guidance.
-
-*Arbitral award or decision* means an arbitrator or arbitral panel determination that a labor law violation occurred, or that enjoined or restrained a violation of labor law. It includes an award or decision that is not final or is subject to being confirmed, modified, or vacated by a court, and includes an award or decision resulting from private or confidential proceedings. To determine whether a particular award or decision is covered by this definition, it is necessary to consult section II.B. in the DOL Guidance.
-
-*Civil judgment* means -
-
-(1) In paragraph (h) of this provision: A judgment or finding of a civil offense by any court of competent jurisdiction.
-
-(2) In paragraph (s) of this provision: Any judgment or order entered by any Federal or State court in which the court determined that a labor law violation occurred, or enjoined or restrained a violation of labor law. It includes a judgment or order that is not final or is subject to appeal. To determine whether a particular judgment or order is covered by this definition, it is necessary to consult section II.B. in the DOL Guidance.
-
-*DOL Guidance* means the Department of Labor (DOL) Guidance entitled: “Guidance for Executive Order 13673, `Fair Pay and Safe Workplaces' ”. The DOL Guidance, dated August 25, 2016, can be obtained from *www.dol.gov/fairpayandsafeworkplaces*.
-
 *Economically disadvantaged women-owned small business (EDWOSB) concern* means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States and who are economically disadvantaged in accordance with 13 CFR part 127. It automatically qualifies as a women-owned small business eligible under the WOSB Program.
-
-*Enforcement agency* means any agency granted authority to enforce the Federal labor laws. It includes the enforcement components of DOL (Wage and Hour Division, Office of Federal Contract Compliance Programs, and Occupational Safety and Health Administration), the Equal Employment Opportunity Commission, the Occupational Safety and Health Review Commission, and the National Labor Relations Board. It also means a State agency designated to administer an OSHA-approved State Plan, but only to the extent that the State agency is acting in its capacity as administrator of such plan. It does not include other Federal agencies which, in their capacity as contracting agencies, conduct investigations of potential labor law violations. The enforcement agencies associated with each labor law under E.O. 13673 are -
-
-(1) Department of Labor Wage and Hour Division (WHD) for -
-
-(i) The Fair Labor Standards Act;
-
-(ii) The Migrant and Seasonal Agricultural Worker Protection Act;
-
-(iii) 40 U.S.C. chapter 31, subchapter IV, formerly known as the Davis-Bacon Act;
-
-(iv) 41 U.S.C. chapter 67, formerly known as the Service Contract Act;
-
-(v) The Family and Medical Leave Act; and
-
-(vi) E.O. 13658 of February 12, 2014 (Establishing a Minimum Wage for Contractors);
-
-(2) Department of Labor Occupational Safety and Health Administration (OSHA) for -
-
-(i) The Occupational Safety and Health Act of 1970; and
-
-(ii) OSHA-approved State Plans;
-
-(3) Department of Labor Office of Federal Contract Compliance Programs (OFCCP) for -
-
-(i) Section 503 of the Rehabilitation Act of 1973;
-
-(ii) The Vietnam Era Veterans' Readjustment Assistance Act of 1972 and the Vietnam Era Veterans' Readjustment Assistance Act of 1974; and
-
-(iii) E.O. 11246 of September 24, 1965 (Equal Employment Opportunity);
-
-(4) National Labor Relations Board (NLRB) for the National Labor Relations Act; and
-
-(5) Equal Employment Opportunity Commission (EEOC) for -
-
-(i) Title VII of the Civil Rights Act of 1964;
-
-(ii) The Americans with Disabilities Act of 1990;
-
-(iii) The Age Discrimination in Employment Act of 1967; and
-
-(iv) Section 6(d) of the Fair Labor Standards Act (Equal Pay Act).
 
 *Forced or indentured child labor* means all work or service -
 
@@ -76,42 +22,6 @@ If the Offeror has not completed the annual representations and certifications e
 *Immediate owner* means an entity, other than the offeror, that has direct control of the offeror. Indicators of control include, but are not limited to, one or more of the following: Ownership or interlocking management, identity of interests among family members, shared facilities and equipment, and the common use of employees.
 
 *Inverted domestic corporation* means a foreign incorporated entity that meets the definition of an inverted domestic corporation under 6 U.S.C. 395(b), applied in accordance with the rules and definitions of 6 U.S.C. 395(c).
-
-*Labor compliance agreement* means an agreement entered into between a contractor or subcontractor and an enforcement agency to address appropriate remedial measures, compliance assistance, steps to resolve issues to increase compliance with the labor laws, or other related matters.
-
-*Labor laws* means the following labor laws and E.O.s:
-
-(1) The Fair Labor Standards Act.
-
-(2) The Occupational Safety and Health Act (OSHA) of 1970.
-
-(3) The Migrant and Seasonal Agricultural Worker Protection Act.
-
-(4) The National Labor Relations Act.
-
-(5) 40 U.S.C. chapter 31, subchapter IV, formerly known as the Davis-Bacon Act.
-
-(6) 41 U.S.C. chapter 67, formerly known as the Service Contract Act.
-
-(7) E.O. 11246 of September 24, 1965 (Equal Employment Opportunity).
-
-(8) Section 503 of the Rehabilitation Act of 1973.
-
-(9) The Vietnam Era Veterans' Readjustment Assistance Act of 1972 and the Vietnam Era Veterans' Readjustment Assistance Act of 1974.
-
-(10) The Family and Medical Leave Act.
-
-(11) Title VII of the Civil Rights Act of 1964.
-
-(12) The Americans with Disabilities Act of 1990.
-
-(13) The Age Discrimination in Employment Act of 1967.
-
-(14) E.O. 13658 of February 12, 2014 (Establishing a Minimum Wage for Contractors).
-
-(15) Equivalent State laws as defined in the DOL Guidance. (The only equivalent State laws implemented in the FAR are OSHA-approved State Plans, which can be found at *www.osha.gov/dcsp/osp/approved\_state\_plans.html*).
-
-*Labor law decision* means an administrative merits determination, arbitral award or decision, or civil judgment, which resulted from a violation of one or more of the laws listed in the definition of “labor laws”.
 
 *Manufactured end product* means any end product in product and service codes (PSCs) 1000-9999, except -
 
@@ -208,10 +118,6 @@ If the Offeror has not completed the annual representations and certifications e
 (2) Whose management and daily business operations are controlled by one or more women.
 
 *Women-owned small business (WOSB) concern eligible under the WOSB Program* (in accordance with 13 CFR part 127), means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States.
-
-Note to paragraph (a):
-
-By a court order issued on October 24, 2016, the following definitions in this paragraph (a) are enjoined indefinitely as of the date of the order: “Administrative merits determination”, “Arbitral award or decision”, paragraph (2) of “Civil judgment”, “DOL Guidance”, “Enforcement agency”, “Labor compliance agreement”, “Labor laws”, and “Labor law decision”. The enjoined definitions will become effective immediately if the court terminates the injunction. At that time, DoD, GSA, and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.
 
 (b)(1) *Annual Representations and Certifications.* Any changes provided by the offeror in paragraph (b)(2) of this provision do not automatically change the representations and certifications posted on the SAM website.
 
@@ -546,49 +452,7 @@ Predecessor legal name: \_\_\_\_.
 
 (*Do not use a “doing business as” name*).
 
-(s) *Representation regarding compliance with labor laws (Executive Order 13673).* If the offeror is a joint venture that is not itself a separate legal entity, each concern participating in the joint venture shall separately comply with the requirements of this provision.
-
-Note to paragraph (s):
-
-By a court order issued on October 24, 2016, this paragraph (s) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, DoD, GSA, and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.
-
-(1)(i) For solicitations issued on or after October 25, 2016 through April 24, 2017: The Offeror [ ] does [ ] does not anticipate submitting an offer with an estimated contract value of greater than $50 million.
-
-(ii) For solicitations issued after April 24, 2017: The Offeror [ ] does [ ] does not anticipate submitting an offer with an estimated contract value of greater than $500,000.
-
-(2) If the Offeror checked “does” in paragraph (s)(1)(i) or (ii) of this provision, the Offeror represents to the best of the Offeror's knowledge and belief [*Offeror to check appropriate block*]:
-
-[ ](i) There has been no administrative merits determination, arbitral award or decision, or civil judgment for any labor law violation(s) rendered against the offeror (see definitions in paragraph (a) of this section) during the period beginning on October 25, 2015 to the date of the offer, or for three years preceding the date of the offer, whichever period is shorter; or
-
-[ ](ii) There has been an administrative merits determination, arbitral award or decision, or civil judgment for any labor law violation(s) rendered against the Offeror during the period beginning on October 25, 2015 to the date of the offer, or for three years preceding the date of the offer, whichever period is shorter.
-
-(3)(i) If the box at paragraph (s)(2)(ii) of this provision is checked and the Contracting Officer has initiated a responsibility determination and has requested additional information, the Offeror shall provide -
-
-(A) The following information for each disclosed labor law decision in the System for Award Management (SAM) at *www.sam.gov*, unless the information is already current, accurate, and complete in SAM. This information will be publicly available in the Federal Awardee Performance and Integrity Information System (FAPIIS):
-
-(*1*) The labor law violated.
-
-(*2*) The case number, inspection number, charge number, docket number, or other unique identification number.
-
-(*3*) The date rendered.
-
-(*4*) The name of the court, arbitrator(s), agency, board, or commission that rendered the determination or decision;
-
-(B) The administrative merits determination, arbitral award or decision, or civil judgment document, to the Contracting Officer, if the Contracting Officer requires it;
-
-(C) In SAM, such additional information as the Offeror deems necessary to demonstrate its responsibility, including mitigating factors and remedial measures such as offeror actions taken to address the violations, labor compliance agreements, and other steps taken to achieve compliance with labor laws. Offerors may provide explanatory text and upload documents. This information will not be made public unless the contractor determines that it wants the information to be made public; and
-
-(D) The information in paragraphs (s)(3)(i)(A) and (s)(3)(i)(C) of this provision to the Contracting Officer, if the Offeror meets an exception to SAM registration (see FAR 4.1102(a)).
-
-(ii)(A) The Contracting Officer will consider all information provided under (s)(3)(i) of this provision as part of making a responsibility determination.
-
-(B) A representation that any labor law decision(s) were rendered against the Offeror will not necessarily result in withholding of an award under this solicitation. Failure of the Offeror to furnish a representation or provide such additional information as requested by the Contracting Officer may render the Offeror nonresponsible.
-
-(C) The representation in paragraph (s)(2) of this provision is a material representation of fact upon which reliance was placed when making award. If it is later determined that the Offeror knowingly rendered an erroneous representation, in addition to other remedies available to the Government, the Contracting Officer may terminate the contract resulting from this solicitation in accordance with the procedures set forth in FAR 12.403.
-
-(4) The Offeror shall provide immediate written notice to the Contracting Officer if at any time prior to contract award the Offeror learns that its representation at paragraph (s)(2) of this provision is no longer accurate.
-
-(5) The representation in paragraph (s)(2) of this provision will be public information in the Federal Awardee Performance and Integrity Information System (FAPIIS).
+(s) [Reserved]
 
 (t) *Public Disclosure of Greenhouse Gas Emissions and Reduction Goals*. Applies in all solicitations that require offerors to register in SAM (52.212-1(k)).
 

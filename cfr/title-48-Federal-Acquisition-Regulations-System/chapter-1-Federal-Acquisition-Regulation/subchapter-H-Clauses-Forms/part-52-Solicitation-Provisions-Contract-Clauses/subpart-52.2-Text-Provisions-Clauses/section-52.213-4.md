@@ -2,7 +2,7 @@
 
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JAN 2017)
+Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (NOV 2017)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -38,7 +38,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JA
 
 (vii) 52.233-1, Disputes (MAY 2014).
 
-(viii) 52.244-6, Subcontracts for Commercial Items (JAN 2017).
+(viii) 52.244-6, Subcontracts for Commercial Items (NOV 2017)
 
 (b) The Contractor shall comply with the following FAR clauses, incorporated by reference, unless the circumstances do not apply:
 

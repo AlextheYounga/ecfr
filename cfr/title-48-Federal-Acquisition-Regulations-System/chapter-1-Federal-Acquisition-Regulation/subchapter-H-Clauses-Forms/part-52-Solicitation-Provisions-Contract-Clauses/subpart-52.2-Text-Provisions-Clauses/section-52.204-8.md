@@ -2,7 +2,7 @@
 
 As prescribed in 4.1202(a), insert the following provision:
 
-Annual Representations and Certifications (JAN 2017)
+Annual Representations and Certifications (NOV 2017)
 
 (a)(1) The North American Industry Classification System (NAICS) code for this acquisition is \_\_\_\_\_\_\_ [*insert NAICS code*].
 
@@ -66,21 +66,15 @@ Annual Representations and Certifications (JAN 2017)
 
 (xv) 52.222-38, Compliance with Veterans' Employment Reporting Requirements. This provision applies to solicitations when it is anticipated the contract award will exceed the simplified acquisition threshold and the contract is not for acquisition of commercial items.
 
-(xvi) 52.222-57, Representation Regarding Compliance with Labor Laws (Executive Order 13673). This provision applies to solicitations expected to exceed $50 million which are issued from October 25, 2016 through April 24, 2017, and solicitations expected to exceed $500,000, which are issued after April 24, 2017.
+(xvi) 52.223-1, Biobased Product Certification. This provision applies to solicitations that require the delivery or specify the use of USDA-designated items; or include the clause at 52.223-2, Affirmative Procurement of Biobased Products Under Service and Construction Contracts.
 
-Note to paragraph (c)(1)(xvi):
+(xvii) 52.223-4, Recovered Material Certification. This provision applies to solicitations that are for, or specify the use of, EPA-designated items.
 
-By a court order issued on October 24, 2016, 52.222-57 is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, DoD, GSA, and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.
+(xviii) 52.223-22, Public Disclosure of Greenhouse Gas Emissions and Reduction Goals - Representation. This provision applies to solicitations that include the clause at 52.204-7.)
 
-(xvii) 52.223-1, Biobased Product Certification. This provision applies to solicitations that require the delivery or specify the use of USDA-designated items; or include the clause at 52.223-2, Affirmative Procurement of Biobased Products Under Service and Construction Contracts.
+(xix) 52.225-2, Buy American Certificate. This provision applies to solicitations containing the clause at 52.225-1.
 
-(xviii) 52.223-4, Recovered Material Certification. This provision applies to solicitations that are for, or specify the use of, EPA-designated items.
-
-(ix) 52.223-22, Public Disclosure of Greenhouse Gas Emissions and Reduction Goals - Representation. This provision applies to solicitations that include the clause at 52.204-7.)
-
-(xx) 52.225-2, Buy American Certificate. This provision applies to solicitations containing the clause at 52.225-1.
-
-(xxi) 52.225-4, Buy American - Free Trade Agreements - Israeli Trade Act Certificate. (Basic, Alternates I, II, and III.) This provision applies to solicitations containing the clause at 52.225-3.
+(xx) 52.225-4, Buy American - Free Trade Agreements - Israeli Trade Act Certificate. (Basic, Alternates I, II, and III.) This provision applies to solicitations containing the clause at 52.225-3.
 
 (A) If the acquisition value is less than $25,000, the basic provision applies.
 
@@ -90,13 +84,13 @@ By a court order issued on October 24, 2016, 52.222-57 is enjoined indefinitely 
 
 (D) If the acquisition value is $77,533 or more but is less than $100,000, the provision with its Alternate III applies.
 
-(xxii) 52.225-6, Trade Agreements Certificate. This provision applies to solicitations containing the clause at 52.225-5.
+(xxi) 52.225-6, Trade Agreements Certificate. This provision applies to solicitations containing the clause at 52.225-5.
 
-(xxiii) 52.225-20, Prohibition on Conducting Restricted Business Operations in Sudan - Certification. This provision applies to all solicitations.
+(xxii) 52.225-20, Prohibition on Conducting Restricted Business Operations in Sudan - Certification. This provision applies to all solicitations.
 
-(xxiv) 52.225-25, Prohibition on Contracting with Entities Engaging in Certain Activities or Transactions Relating to Iran - Representation and Certifications. This provision applies to all solicitations.
+(xxiii) 52.225-25, Prohibition on Contracting with Entities Engaging in Certain Activities or Transactions Relating to Iran - Representation and Certifications. This provision applies to all solicitations.
 
-(xxv) 52.226-2, Historically Black College or University and Minority Institution Representation. This provision applies to solicitations for research, studies, supplies, or services of the type normally acquired from higher educational institutions.
+(xxiv) 52.226-2, Historically Black College or University and Minority Institution Representation. This provision applies to solicitations for research, studies, supplies, or services of the type normally acquired from higher educational institutions.
 
 (2) The following representations or certifications are applicable as indicated by the Contracting Officer:
 
@@ -128,4 +122,4 @@ By a court order issued on October 24, 2016, 52.222-57 is enjoined indefinitely 
 |--------------|-----|----|------|
 |              |     |    |      |
 
-Any changes provided by the offeror are applicable to this solicitation only, and do not result in an update to the representations and certifications posted on SAM.(End of provision)[69 FR 76346, Dec. 20, 2004, as amended at 71 FR 227, Jan. 3, 2006; 74 FR 2730, Jan. 15, 2009; 75 FR 53134, Aug. 30, 2010; 75 FR 60257, Sept. 29, 2010; 75 FR 82568, Dec. 30, 2010; 76 FR 31402, 31414, May 31, 2011; 76 FR 68031, Nov. 2, 2011; 77 FR 188, Jan. 3, 2012; 77 FR 12934, Mar. 2, 2012; 77 FR 13954, Mar. 7, 2012; 77 FR 27548, May 10, 2012; 77 FR 73520, Dec. 10, 2012; 78 FR 37680, 37698, June 21, 2013; 78 FR 80381, Dec. 31, 2013;79 FR 4630, Jan. 29, 2014; 79 FR 24215, Apr. 29, 2014; 79 FR 61751, Oct. 14, 2014; 79 FR 31191, May 30, 2014; 79 FR 70342,70348, Nov. 25, 2014; 79 FR 74557, Dec. 15, 2014; 80 FR 81896, Dec. 31, 2015; 80 FR 75906, Dec. 4, 2015; 81 FR 11991, Mar. 7, 2016; 81 FR 58644, Aug. 25, 2016; 81 FR 83096, Nov. 18, 2016; 81 FR 91640, Dec. 16, 2016; 82 FR 4723, Jan. 13, 2017]
+Any changes provided by the offeror are applicable to this solicitation only, and do not result in an update to the representations and certifications posted on SAM.(End of provision)[69 FR 76346, Dec. 20, 2004, as amended at 71 FR 227, Jan. 3, 2006; 74 FR 2730, Jan. 15, 2009; 75 FR 53134, Aug. 30, 2010; 75 FR 60257, Sept. 29, 2010; 75 FR 82568, Dec. 30, 2010; 76 FR 31402, 31414, May 31, 2011; 76 FR 68031, Nov. 2, 2011; 77 FR 188, Jan. 3, 2012; 77 FR 12934, Mar. 2, 2012; 77 FR 13954, Mar. 7, 2012; 77 FR 27548, May 10, 2012; 77 FR 73520, Dec. 10, 2012; 78 FR 37680, 37698, June 21, 2013; 78 FR 80381, Dec. 31, 2013;79 FR 4630, Jan. 29, 2014; 79 FR 24215, Apr. 29, 2014; 79 FR 61751, Oct. 14, 2014; 79 FR 31191, May 30, 2014; 79 FR 70342,70348, Nov. 25, 2014; 79 FR 74557, Dec. 15, 2014; 80 FR 81896, Dec. 31, 2015; 80 FR 75906, Dec. 4, 2015; 81 FR 11991, Mar. 7, 2016; 81 FR 58644, Aug. 25, 2016; 81 FR 83096, Nov. 18, 2016; 81 FR 91640, Dec. 16, 2016; 82 FR 4723, Jan. 13, 2017; 82 FR 51530, Nov. 6, 2017]

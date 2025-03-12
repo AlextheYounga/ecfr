@@ -44,35 +44,29 @@
 
 (21) 52.222-52, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services - Certification.
 
-(22) 52.222-57, Representation Regarding Compliance with Labor Laws (Executive Order 13673).
+(22) 52.223-1, Biobased Product Certification.
 
-Note to paragraph (a)(22):
+(23) 52.223-4, Recovered Material Certification.
 
-By a court order issued on October 24, 2016, this paragraph (a)(22) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, DoD, GSA, and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.
+(24) 52.223-9, Estimate of Percentage of Recovered Material Content for EPA-Designated Items (Alternate I only).
 
-(23) 52.223-1, Biobased Product Certification.
+(25) 52.223-22, Public Disclosure of Greenhouse Gas Emissions and Reduction Goals - Representation.
 
-(24) 52.223-4, Recovered Material Certification.
+(26) 52.225-2, Buy American Certificate.
 
-(25) 52.223-9, Estimate of Percentage of Recovered Material Content for EPA-Designated Items (Alternate I only).
+(27) 52.225-4, Buy American - Free Trade Agreements - Israeli Trade Act Certificate (Basic, Alternates I, II, and III).
 
-(26) 52.223-22, Public Disclosure of Greenhouse Gas Emissions and Reduction Goals - Representation.
+(28) 52.225-6, Trade Agreements Certificate.
 
-(27) 52.225-2, Buy American Certificate.
+(29) 52.225-20, Prohibition on Conducting Restricted Business Operations in Sudan - Certification.
 
-(28) 52.225-4, Buy American - Free Trade Agreements - Israeli Trade Act Certificate (Basic, Alternates I, II, and III).
+(30) 52.225-25, Prohibition on Contracting with Entities Engaging in Certain Activities or Transactions Relating to Iran - Representation and Certifications.
 
-(29) 52.225-6, Trade Agreements Certificate.
+(31) 52.226-2, Historically Black College or University and Minority Institution Representation.
 
-(30) 52.225-20, Prohibition on Conducting Restricted Business Operations in Sudan - Certification.
+(32) 52.227-6, Royalty Information (Basic & Alternate I).
 
-(31) 52.225-25, Prohibition on Contracting with Entities Engaging in Certain Activities or Transactions Relating to Iran - Representation and Certifications.
-
-(32) 52.226-2, Historically Black College or University and Minority Institution Representation.
-
-(33) 52.227-6, Royalty Information (Basic & Alternate I).
-
-(34) 52.227-15, Representation of Limited Rights Data and Restricted Computer Software.
+(33) 52.227-15, Representation of Limited Rights Data and Restricted Computer Software.
 
 (b) The contracting officer shall insert the clause at 52.204-19, Incorporation by Reference of Representations and Certifications, in solicitations and contracts.
 

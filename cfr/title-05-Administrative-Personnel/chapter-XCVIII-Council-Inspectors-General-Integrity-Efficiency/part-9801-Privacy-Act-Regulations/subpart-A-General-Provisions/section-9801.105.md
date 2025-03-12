@@ -16,7 +16,7 @@ CIGIE will inform its employees involved in the design, development, operation, 
 
 (4) The effects on the individual, if any, of not providing the information;
 
-(d) Maintain no system of record without public notice and notify appropriate CIGIE officials of the existence or development of any system of records that is not the subject of a current or planned public notice;
+(d) Maintain no system of records without public notice and notify appropriate CIGIE officials of the existence or development of any system of records that is not the subject of a current or planned public notice;
 
 (e) Maintain all records that are used by CIGIE in making any determination about an individual with such accuracy, relevance, timeliness, and completeness as is reasonably necessary to ensure fairness to the individual in the determination;
 
@@ -26,6 +26,8 @@ CIGIE will inform its employees involved in the design, development, operation, 
 
 (h) When required by the Privacy Act, maintain an accounting in the specified form of all disclosures of records by CIGIE to persons, organizations, or agencies;
 
-(i) Maintain and use records with care to prevent the unauthorized or inadvertent disclosure of a record to anyone. No record contained in a CIGIE system of record shall be disclosed to another person, or to another agency outside CIGIE, except pursuant to a written request by, or with the prior written consent of, the individual to whom the record pertains, unless the disclosure is otherwise authorized by the Privacy Act; and
+(i) Maintain and use records with care to prevent the unauthorized or inadvertent disclosure of a record to anyone. No record contained in a CIGIE system of records shall be disclosed to another person, or to another agency outside CIGIE, except pursuant to a written request by, or with the prior written consent of, the individual to whom the record pertains, unless the disclosure is otherwise authorized by the Privacy Act; and
 
 (j) Notify the appropriate CIGIE official of any record that contains information that the Privacy Act does not permit CIGIE to maintain.
+
+[81 FR 86563, Dec. 1, 2016, as amended at 82 FR 51333, Nov. 6, 2017]

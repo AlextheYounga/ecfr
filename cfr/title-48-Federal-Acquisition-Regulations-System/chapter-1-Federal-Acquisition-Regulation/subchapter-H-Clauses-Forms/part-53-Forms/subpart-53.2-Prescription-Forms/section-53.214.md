@@ -8,7 +8,7 @@ The following forms are prescribed for use in contracting by sealed bidding (exc
 
 (c) *SF 33 (Rev. 9/97), Solicitation, Offer and Award.* SF 33 is prescribed for use in soliciting bids for supplies or services and for awarding the contracts that result from the bids, as specified in 14.201-2(a)(1), unless award is accomplished by SF 26.
 
-(d) *SF 1447 (Rev. 8/2016)*, Solicitation/Contract. SF 1447 is prescribed for use in soliciting supplies or services and for awarding contracts that result from the bids. It shall be used when the simplified contract format is used (see 14.201-9) and may be used in place of the SF 26 or SF 33 with other solicitations and awards. Agencies may prescribe additional detailed instructions for use of the form.
+(d) *SF 1447 (Rev. 8/2016), Solicitation/Contract.* SF 1447 is prescribed for use in soliciting supplies or services and for awarding contracts that result from the bids. It shall be used when the simplified contract format is used (see 14.201-9) and may be used in place of the SF 26 or SF 33 with other solicitations and awards. Agencies may prescribe additional detailed instructions for use of the form.
 
 (e) [Reserved]
 
@@ -18,4 +18,4 @@ The following forms are prescribed for use in contracting by sealed bidding (exc
 
 (h) *OF 336 (Rev. 3/86), Continuation Sheet.* OF 336 may be used as a continuation sheet in solicitations, as specified in 14.201-2(b).
 
-[48 FR 42637, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 53.214, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[48 FR 42637, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 53.214, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

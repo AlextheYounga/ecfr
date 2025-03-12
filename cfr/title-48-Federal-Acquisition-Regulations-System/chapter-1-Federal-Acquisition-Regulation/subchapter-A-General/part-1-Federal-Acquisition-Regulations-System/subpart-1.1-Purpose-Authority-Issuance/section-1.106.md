@@ -172,10 +172,6 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. chapter 35) imposes a requirement
 |    52.222-54     |                 1615-0092                 |
 |    52.222-55     |                 1235-0018                 |
 |    52.222-56     |                 9000-0188                 |
-|    52.222-57     |                 9000-0195                 |
-|    52.222-58     |                 9000-0195                 |
-|    52.222-59     |                 9000-0195                 |
-|    52.222-60     |                 9000-0195                 |
 |    52.222-62     |1235-0018<br/>and 1235-0021  <br/>1235-0029|
 |     52.223-2     |                 9000-0180                 |
 |     52.223-4     |                 9000-0134                 |
@@ -346,9 +342,5 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. chapter 35) imposes a requirement
 |     SF 1444      |                 9000-0089                 |
 |     SF 1445      |                 9000-0089                 |
 |     SF 1446      |                 9000-0089                 |
-
-Note to 1.106:
-
-By a court order issued on October 24, 2016, FAR segments “52.222-57”, “52.222-58”, and “52.222-59” and their corresponding OMB Control Number “9000-0195” are enjoined indefinitely as of the date of the order. The enjoined segments will become effective immediately if the court terminates the injunction. At that time, DoD, GSA, and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.
 
 [59 FR 67065, Dec. 28, 1994. Redesignated at 60 FR 34733, 34736, July 3, 1995]Editorial Note:For Federal Register citations affecting section 1.106, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
