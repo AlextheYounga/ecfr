@@ -1,0 +1,23 @@
+##### § 1065.1105 Sampling system design. #####
+
+(a) *General.* We recommend that you design your SVOC batch sampler to extract sample from undiluted emissions to maximize the sampled SVOC quantity. If you dilute your sample, we recommend using annular dilution. If you dilute your sample, but do not use annular dilution, you must precondition your sampling system to reach equilibrium with respect to loss and re-entrainment of SVOCs to the walls of the sampling system. To the extent practical, adjust sampling times based on the emission rate of target analytes from the engine to obtain analyte concentrations above the detection limit. In some instances you may need to run repeat test cycles without replacing the sample media or disassembling the batch sampler.
+
+(b) *Sample probe, transfer lines, and sample media holder design and construction.* The sampling system should consist of a sample probe, transfer line, PM filter holder, cooling coil, sorbent module, and condensate trap. Construct sample probes, transfer lines, and sample media holders that have inside surfaces of nickel, titanium or another nonreactive material capable of withstanding raw exhaust gas temperatures. Seal all joints in the hot zone of the system with gaskets made of nonreactive material similar to that of the sampling system components. You may use teflon gaskets in the cold zone. We recommend locating all components as close to probes as practical to shorten sampling system length and minimize the surface exposed to engine exhaust.
+
+(c) *Sample system configuration.* This paragraph (c) specifies the components necessary to collect SVOC samples, along with our recommended design parameters. Where you do not follow our recommendations, use good engineering judgment to design your sampling system so it does not result in loss of SVOC during sampling. The sampling system should contain the following components in series in the order listed:
+
+(1) Use a sample probe similar to the PM sample probe specified in subpart B of this part.
+
+(2) Use a PM filter holder similar to the holder specified in subpart B of this part, although you will likely need to use a larger size to accommodate the high sample flow rates. We recommend using a 110 mm filter for testing spark ignition engines or engines that utilize exhaust aftertreatment for PM removal and a 293 mm filter for other engines. If you are not analyzing separately for SVOCs in gas and particle phases, you do not have to control the temperature of the filter holder. Note that this differs from normal PM sampling procedures, which maintain the filter at a much lower temperature to capture a significant fraction of exhaust SVOC on the filter. In this method, SVOCs that pass through the filter will be collected on the downstream sorbent module. If you are collecting SVOCs in gas and particle phases, control your filter face temperature according to § 1065.140(e)(4).
+
+(3) Use good engineering judgment to design a cooling coil that will drop the sample temperature to approximately 5 °C. Note that downstream of the cooling coil, the sample will be a mixture of vapor phase hydrocarbons in CO2, air, and a primarily aqueous liquid phase.
+
+(4) Use a hydrophobic sorbent in a sealed sorbent module. Note that this sorbent module is intended to be the final stage for collecting the SVOC sample and should be sized accordingly. We recommend sizing the module to hold 40 g of XAD-2 along with PUF plugs at either end of the module, noting that you may vary the mass of XAD used for testing based on the anticipated SVOC emission concentration and sample flow rate.
+
+(5) Include a condensate trap to separate the aqueous liquid phase from the gas stream. We recommend using a peristaltic pump to remove water from the condensate trap over the course of the test to prevent build-up of the condensate. Note that for some tests it may be appropriate to collect this water for analysis.
+
+(d) *Sampler flow control.* For testing using the recommended filter and sorbent module sizes, we recommend targeting an average sample flow rate of 70 liters per minute to maximize SVOC collection. The sampler must be designed to maintain proportional sampling throughout the test. Verify proportional sampling after an emission test as described in § 1065.545.
+
+(e) *Water bath.* Design the sample system with a water bath in which the cooling coil, sorbent module, and condensate trap will be submerged. Use a heat exchanger or ice to maintain the bath temperature at (3 to 7) °C.
+
+[79 FR 23820, Apr. 28, 2014, as amended at 81 FR 74195, Oct. 25, 2016]

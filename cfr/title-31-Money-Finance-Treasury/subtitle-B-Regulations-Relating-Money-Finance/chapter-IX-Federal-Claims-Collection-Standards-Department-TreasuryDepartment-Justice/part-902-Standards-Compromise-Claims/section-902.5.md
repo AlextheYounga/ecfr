@@ -1,0 +1,3 @@
+##### § 902.5 Further review of compromise offers. #####
+
+If an agency is uncertain whether to accept a firm, written, substantive compromise offer on a debt that is within the agency's delegated compromise authority, it may refer the offer to the Civil Division or other appropriate litigating division in the Department of Justice, using a CCLR accompanied by supporting data and particulars concerning the debt. The Department of Justice may act upon such an offer or return it to the agency with instructions or advice.

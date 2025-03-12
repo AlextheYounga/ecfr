@@ -10,7 +10,7 @@
 
 (3) The drug is being exported to Australia, Canada, Israel, Japan, New Zealand, Switzerland, South Africa, or to any country in the European Union or the European Economic Area, and complies with the laws of the country to which it is being exported, the applicable provisions of section 802(c), (f), and (g) of the act, and § 1.101 of this chapter. Drugs exported under this paragraph that are not the subject of an IND are exempt from the label requirement in § 312.6(a); or
 
-(4) Except as provided in paragraph (b)(5) of this section, the person exporting the drug sends a written certification to the Office of International Programs (HFG-1), Food and Drug Administration, 5600 Fishers Lane, Rockville, MD 20857, at the time the drug is first exported and maintains records documenting compliance with this paragraph. The certification shall describe the drug that is to be exported (*i.e.*, trade name (if any), generic name, and dosage form), identify the country or countries to which the drug is to be exported, and affirm that:
+(4) Except as provided in paragraph (b)(5) of this section, the person exporting the drug sends an email certification to the Office of Global Policy and Strategy at *OGPSExecSec@fda.hhs.gov,* or a written certification to the Office of Global Policy and Strategy (HFG-1), Food and Drug Administration, 10903 New Hampshire Ave., Bldg. 31, Rm. 3420, Silver Spring, MD 20993, at the time the drug is first exported and maintains records documenting compliance with this paragraph (b)(4). The certification shall describe the drug that is to be exported (*i.e.,* trade name (if any), generic name, and dosage form), identify the country or countries to which the drug is to be exported, and affirm that:
 
 (i) The drug is intended for export;
 
@@ -72,4 +72,4 @@
 
 (d) *Insulin and antibiotics.* New insulin and antibiotic drug products may be exported for investigational use in accordance with section 801(e)(1) of the act without complying with this section.
 
-[52 FR 8831, Mar. 19, 1987, as amended at 52 FR 23031, June 17, 1987; 64 FR 401, Jan. 5, 1999; 67 FR 9586, Mar. 4, 2002; 70 FR 70729, Nov. 23, 2005]
+[52 FR 8831, Mar. 19, 1987, as amended at 52 FR 23031, June 17, 1987; 64 FR 401, Jan. 5, 1999; 67 FR 9586, Mar. 4, 2002; 70 FR 70729, Nov. 23, 2005; 88 FR 18037, Mar. 27, 2023]

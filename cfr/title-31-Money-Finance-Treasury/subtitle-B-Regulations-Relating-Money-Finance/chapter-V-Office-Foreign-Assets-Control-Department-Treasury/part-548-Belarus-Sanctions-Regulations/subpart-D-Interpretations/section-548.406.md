@@ -1,3 +1,3 @@
-##### § 548.406 Offshore transactions. #####
+##### § 548.406 Offshore transactions involving blocked property. #####
 
-The prohibitions in § 548.201 on transactions or dealings involving blocked property apply to transactions by any U.S. person in a location outside the United States with respect to property held in the name of a person whose property and interests in property are blocked pursuant to § 548.201(a), or property in which a person whose property and interests in property are blocked pursuant to § 548.201(a) has or has had an interest since the effective date.
+The prohibitions in § 548.201 on transactions or dealings involving blocked property, as defined in § 548.301 apply to transactions by any U.S. person in a location outside the United States.

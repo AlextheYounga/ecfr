@@ -1,0 +1,11 @@
+##### § 1.151 Commission's decision on Authority's proposed budget. #####
+
+(a) *Commission approval required.* The Authority's proposed budget takes effect only if approved by the Commission. The Commission will approve or disapprove the proposed budget after considering the public comments filed and the Commission's internal review per the submission requirements in § 1.150. The Commission will vote on the Authority's proposed budget no later than November 1.
+
+(b) *Conditional collection of fees allowed.* The notice required to be sent to State racing commissions estimating the amount required from each State for the subsequent year must state that the amount required is based on the proposed annual budget, as approved by the Board of Directors, which takes effect only if approved by the Commission. The State racing commissions (or covered persons in States that do not elect to remit fees) may nevertheless elect to remit fees, and the Authority may conditionally collect them, even before the Commission approves the proposed budget. If the Commission makes any modifications to line items under paragraph (d) of this section that have the net effect of reducing the budget, the Authority must refund any State racing commission or covered person that has conditionally paid by the proportionate amount owed within 30 days. If the Commission makes any modifications to line items under paragraph (d) of this section that have the net effect of increasing the budget, the Authority may obtain loans to make up the difference or may account for the difference as a funding shortfall incurred in the subsequent year's proposed budget.
+
+(c) *Decisional criteria.* The Commission will approve the proposed budget if the Commission determines that, on balance, the proposed budget serves the goals of the Horseracing Integrity and Safety Act in a prudent and cost-effective manner, utilizing commercially reasonable terms with all outside vendors, and that its anticipated revenues are sufficient to meet its anticipated expenditures.
+
+(d) *Modification of line items.* In its decision on the proposed budget, the Commission may modify the amount of any line item.
+
+(e) *Public comments.* Public comments on the Authority's proposed budget should provide commenters' views as to the decisional criteria and whether any line items should be modified.

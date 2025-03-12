@@ -1,6 +1,6 @@
-##### § 17.41 Special rules - birds. #####
+##### § 17.41 Special rules—birds. #####
 
-Link to an amendment published at 87 FR 72753, Nov. 25, 2022.Link to an amendment published at 87 FR 73971, Dec. 2, 2022.Link to an amendment published at 88 FR 4087, Jan. 24, 2023, delaying the above amendment to Mar. 27, 2023.
+Link to an amendment published at 87 FR 73971, Dec. 2, 2022.
 
 (a) Streaked horned lark (*Eremophila alpestris strigata*).
 
@@ -220,7 +220,65 @@ Link to an amendment published at 87 FR 72753, Nov. 25, 2022.Link to an amendmen
 
 (vi) Incidental take resulting from prescribed burns, grazing, and mowing or other mechanical treatment activities in existing moist soil management units or prior converted croplands (e.g., impoundments for rice or other cereal grain production) is allowed.
 
-(g)-(l) [Reserved]
+(g)-(j) [Reserved]
+
+(k) Lesser prairie-chicken *(Tympanuchus pallidicinctus),* Northern Distinct Population Segment (DPS). The Northern DPS of the lesser prairie-chicken pertains to lesser prairie-chickens found northeast of a line starting in Colorado at 37.9868 N, 105.0133 W, going through northeastern New Mexico, and ending in Texas at 31.7351 N, 98.3773 W, NAD83, as shown in the map:
+
+Figure 1 to paragraph (k)![](/graphics/er25no22.032.gif)
+
+(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the Northern DPS of the lesser prairie-chicken. Except as provided under paragraph (k)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of a commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(2) *Exception*s *from prohibitions.* In regard to this species, you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Take, as set forth at § 17.21(c)(2) through (c)(4) for endangered wildlife.
+
+(iii) Take as set forth at § 17.31(b).
+
+(iv) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
+
+(v) Take incidental to an otherwise lawful activity caused by:
+
+(A) Continuation of routine agricultural practices on existing cultivated lands, including:
+
+(*1*) Plowing, drilling, disking, mowing, or other mechanical manipulation and management of lands;
+
+(*2*) Routine activities in direct support of cultivated agriculture, including replacement, upgrades, maintenance, and operation of existing infrastructure such as buildings, irrigation conveyance structures, fences, and roads; and
+
+(*3*) Use of chemicals in direct support of cultivated agriculture when done in accordance with label recommendations.
+
+(B) Implementation of prescribed fire for the purposes of grassland management, including:
+
+(*1*) Construction and maintenance of fuel breaks;
+
+(*2*) Planning needed for application of prescribed fire;
+
+(*3*) Implementation of the fire and all associated actions; and
+
+(*4*) Any necessary monitoring and followup actions.
+
+(C) Implementation of prescribed grazing following a site-specific grazing management plan developed by a Service-approved party, including:
+
+(*1*) Physical impact of cattle to vegetative composition and structure;
+
+(*2*) Trampling of lesser prairie-chicken nests;
+
+(*3*) Construction and maintenance of required infrastructure for grazing management, including but not limited to fences and water sources; and
+
+(*4*) Other routine activities required to implement managed grazing, including but not limited to feeding, monitoring, and moving of livestock.
+
+(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the Northern DPS of the lesser prairie-chicken. Except as provided under paragraph (k)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
 
 (m) Emperor penguin (*Aptenodytes forsteri*). (1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the emperor penguin. Except as provided under paragraph (m)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
 
@@ -252,4 +310,4 @@ Link to an amendment published at 87 FR 72753, Nov. 25, 2022.Link to an amendmen
 
 (vii) Conduct activities as authorized by a captive-bred wildlife registration under § 17.21(g) for endangered wildlife.
 
-[43 FR 6233, Feb. 14, 1978, as amended at 58 FR 65095, Dec. 10, 1993; 60 FR 36010, July 12, 1995; 72 FR 37372, July 9, 2007; 73 FR 23970, May 1, 2008; 76 FR 30780, May 26, 2011; 76 FR 54713, Sept. 2, 2011; 78 FR 15641, Mar. 12, 2013; 78 FR 61502, Oct. 3, 2013; 79 FR 20084, Apr. 10, 2014; 79 FR 35900, June 24, 2014; 81 FR 47048, July 20, 2016; 81 FR 40547, June 22, 2016; 83 FR 39916, Aug. 13, 2018; 84 FR 6311, Feb. 26, 2019; 84 FR 69946, Dec. 19, 2019; 85 FR 22663, Apr. 23, 2020; 85 FR 63830, Oct. 8, 2020; 87 FR 21811, Apr. 13, 2022; 87 FR 64720, Oct. 26, 2022]
+[43 FR 6233, Feb. 14, 1978, as amended at 58 FR 65095, Dec. 10, 1993; 60 FR 36010, July 12, 1995; 72 FR 37372, July 9, 2007; 73 FR 23970, May 1, 2008; 76 FR 30780, May 26, 2011; 76 FR 54713, Sept. 2, 2011; 78 FR 15641, Mar. 12, 2013; 78 FR 61502, Oct. 3, 2013; 79 FR 20084, Apr. 10, 2014; 79 FR 35900, June 24, 2014; 81 FR 47048, July 20, 2016; 81 FR 40547, June 22, 2016; 83 FR 39916, Aug. 13, 2018; 84 FR 6311, Feb. 26, 2019; 84 FR 69946, Dec. 19, 2019; 85 FR 22663, Apr. 23, 2020; 85 FR 63830, Oct. 8, 2020; 87 FR 21811, Apr. 13, 2022; 87 FR 64720, Oct. 26, 2022; 87 FR 72753, Nov. 25, 2022; 87 FR 73971, Dec. 2, 2022]

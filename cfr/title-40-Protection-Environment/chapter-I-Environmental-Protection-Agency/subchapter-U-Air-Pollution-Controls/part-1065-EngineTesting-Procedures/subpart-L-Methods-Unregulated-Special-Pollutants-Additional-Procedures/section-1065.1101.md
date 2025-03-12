@@ -1,0 +1,3 @@
+##### § 1065.1101 Applicability. #####
+
+This subpart specifies procedures that may be used to measure emission constituents that are not measured (or not separately measured) by the test procedures in the other subparts of this part. These procedures are included to facilitate consistent measurement of unregulated pollutants for purposes other than compliance with emission standards. Unless otherwise specified in the standard-setting part, use of these procedures is optional and does not replace any requirements in the rest of this part.

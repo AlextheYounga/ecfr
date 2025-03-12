@@ -1,0 +1,7 @@
+##### § 1065.1113 General provisions related to vanadium sublimation temperatures in SCR catalysts. #####
+
+Sections 1065.1113 through 1065.1121 specify procedures for determining vanadium emissions from a catalyst based on catalyst temperature. Vanadium can be emitted from the surface of SCR catalysts at temperatures above 550 °C, dependent on the catalyst formulation. These procedures are appropriate for measuring the vanadium sublimation product from a reactor by sampling onto an equivalent mass of alumina and performing analysis by Inductively Coupled Plasma—Optical Emission Spectroscopy (ICP-OES). Follow standard analytic chemistry methods for any aspects of the analysis that are not specified.
+
+(a) The procedure is adapted from “Behavior of Titania-supported Vanadia and Tungsta SCR Catalysts at High Temperatures in Reactant Streams: Tungsten and Vanadium Oxide and Hydroxide Vapor Pressure Reduction by Surficial Stabilization” (Chapman, D.M., Applied Catalysis A: General, 2011, 392, 143-150) with modifications to the acid digestion method from “Measuring the trace elemental composition of size-resolved airborne particles” (Herner, J.D. *et al,* Environmental Science and Technology, 2006, 40, 1925-1933).
+
+(b) Laboratory cleanliness is especially important throughout vanadium testing. Thoroughly clean all sampling system components and glassware before testing to avoid sample contamination.

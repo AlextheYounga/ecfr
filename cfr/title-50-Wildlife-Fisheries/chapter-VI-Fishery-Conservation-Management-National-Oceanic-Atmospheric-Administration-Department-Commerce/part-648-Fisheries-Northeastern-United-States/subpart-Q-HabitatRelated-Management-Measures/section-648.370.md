@@ -67,14 +67,14 @@ Ammen Rock HMA
 
 (f) *Western Gulf of Maine Habitat Management Area.* (1) *Coordinates.* The Western GOM HMA is defined by the straight lines connecting the following points in the order stated:
 
-Western Gulf of Maine HMA
+Table 6 to Paragraph (f)(1)—Western Gulf of Maine HMA
 
 |Point|N latitude|W longitude|
 |-----|----------|-----------|
 |WGMH1| 43°15′ N | 70°15′ W  |
 |WGMH2| 42°15′ N | 70°15′ W  |
 |WGMH3| 42°15′ N | 70°00′ W  |
-|WGMH4| 43°15′ N | 70°15′ W  |
+|WGMH4| 43°15′ N | 70°00′ W  |
 |WGMH1| 43°15′ N | 70°15′ W  |
 
 (2) *Western Gulf of Maine Shrimp Exemption Area.* Vessels fishing with shrimp trawls under the Small Mesh Northern Shrimp Fishery Exemption specified at § 648.80(a)(5) may fish within the Western Gulf of Maine HMA Shrimp Exemption Area which is defined by the straight lines connecting the following points in the order stated:
@@ -197,4 +197,4 @@ Fishing Rip Dredge Exemption Area
 
 (k) *Review of habitat management measures.* The New England Fishery Management Council will develop a strategic process to evaluate the boundaries, scope, characteristics, and timing of habitat and spawning protection areas to facilitate review of these areas at 10-year intervals.
 
-[83 FR 15275, Apr. 9, 2018, as amended at 85 FR 29876, May 19, 2020]
+[83 FR 15275, Apr. 9, 2018, as amended at 85 FR 29876, May 19, 2020; 88 FR 17402, Mar. 23, 2023]

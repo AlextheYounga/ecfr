@@ -1,0 +1,3 @@
+##### § 548.321 Transportation sector of the Belarus economy. #####
+
+The term *transportation sector of the Belarus economy* includes the production, manufacturing, testing, financing, distribution or transport to, from, or involving Belarus, of any mode of transport or any goods, services, or technology for the movement or conveyance of persons or property and the loading, unloading, or storage incidental to the movement of such persons or property; and any related activities, including the provision or receipt of goods, services, or technology to, from, or involving the transportation sector of the Belarus economy.

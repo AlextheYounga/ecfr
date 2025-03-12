@@ -1,0 +1,79 @@
+##### § 344.2 What general provisions apply to SLGS securities? #####
+
+(a) *What other regulations apply to SLGS securities?* SLGS securities are subject to:
+
+(1) The electronic transactions and funds transfers provisions for United States securities, part 370 of this subchapter, “Electronic Transactions and Funds Transfers Related to U.S. Securities'; and
+
+(2) The appendix to subpart E to part 306 of this subchapter, for rules regarding computation of interest.
+
+(b) *Where are SLGS securities held?* SLGS securities are issued in book-entry form on the books of Fiscal Service.
+
+(c) *Besides Fiscal Service, do any other entities administer SLGS securities?* The Secretary may designate selected Federal Reserve Banks and Branches, as fiscal agents of the United States, to perform services relating to SLGS securities.
+
+(d) *Can SLGS securities be transferred?* No. SLGS securities issued as any one type, i.e., Time Deposit, Demand Deposit, or Special Zero Interest, cannot be transferred for other securities of that type or any other type. Transfer of securities by sale, exchange, assignment, pledge, or otherwise is not permitted.
+
+(e) *What certifications must the issuer or its agent provide?*—(1) *Agent certification.* When a commercial bank or other agent submits a subscription, or performs any other transaction, on behalf of the issuer, it must certify that it is acting under the issuer's specific authorization. Ordinarily, evidence of such authority is not required.
+
+(2) *Yield certifications*—(i) *Purchase of SLGS Securities.* Upon submitting a subscription for a SLGS security, a subscriber must certify that:
+
+(A) *Marketable securities to SLGS securities.* If the issuer is purchasing a SLGS security with any amount received from the sale or redemption (at the option of the holder) before maturity of any marketable security, the yield on such SLGS security does not exceed the yield at which such marketable security was sold or redeemed; and
+
+(B) *Time deposit securities to SLGS securities.* If the issuer is purchasing a SLGS security with any amount received from the redemption before maturity of a Time Deposit security (other than a zero interest Time Deposit security), the yield on the SLGS security being purchased does not exceed the yield that was used to determine the amount of redemption proceeds for such redeemed Time Deposit security.
+
+(ii) *Early redemption of SLGS securities.* Upon submission of a request for redemption before maturity of a Time Deposit security (other than a zero interest Time Deposit security) subscribed for on or after August 15, 2005, the subscriber must certify that no amount received from the redemption will be invested at a yield that exceeds the yield that is used to determine the amount of redemption proceeds for such redeemed Time Deposit security.
+
+(f) *What are some practices involving SLGS securities that are not permitted?*—(1) *In general.* For SLGS securities subscribed for on or after August 15, 2005, it is impermissible:
+
+(i) To use the SLGS program to create a cost-free option;
+
+(ii) To purchase a SLGS security with any amount received from the sale or redemption (at the option of the holder) before maturity of any marketable security, if the yield on such SLGS security exceeds the yield at which such marketable security is sold or redeemed; or
+
+(iii) To invest any amount received from the redemption before maturity of a Time Deposit security (other than a Zero Percent Time Deposit security) at a yield that exceeds the yield that is used to determine the amount of redemption proceeds for such Time Deposit security.
+
+(2) *Examples*—(i) *Simultaneous purchase of marketable and SLGS securities.* In order to fund an escrow for an advance refunding, the issuer simultaneously enters into a purchase contract for marketable securities and subscribes for SLGS securities, such that either purchase is sufficient to pay the cash flows on the outstanding bonds to be refunded, but together, the purchases are greatly in excess of the amount necessary to pay the cash flows. The issuer plans that, if interest rates decline during the period between the date of starting a SLGS subscription and the requested date of issuance of SLGS securities, the issuer will enter into an offsetting agreement to sell the marketable securities and use the bond proceeds to purchase SLGS securities to fund the escrow. If, however, interest rates do not decline in that period, the issuer plans to use the bond proceeds to purchase the marketable securities to fund the escrow and cancel the SLGS securities subscription. This practice violates the prohibition on cancellation under § 344.5(c) or § 344.8(c), and no exception or waiver would be granted under this part because the ability to cancel in these circumstances would result in the SLGS program being used to create a cost-free option. In addition, this practice is prohibited under paragraph (f)(1)(i) of this section.
+
+(ii) *Sale of marketable securities conditioned on interest rates.* The existing escrow for an advance refunding contains marketable securities which produce a negative arbitrage. In order to reduce or eliminate this negative arbitrage, the issuer subscribes for SLGS securities at a yield higher than the yield on the existing escrow, but less than the permitted yield. At the same time, the issuer agrees to sell the marketable securities in the existing escrow to a third party and use the proceeds to purchase SLGS securities if interest rates decline between the date of subscribing for SLGS securities and the requested date of issuance of SLGS securities. The marketable securities would be sold at a yield which is less than the yield on the SLGS securities purchased. The issuer and the third party further agree that if interest rates increase during this period, the issuer will cancel the SLGS securities subscription. This practice violates the prohibition on cancellation under § 344.5(c) or § 344.8(c), and no exception or waiver would be granted under this part because the ability to cancel in these circumstances would result in the SLGS program being used to create a cost-free option. In addition, this practice is prohibited under paragraphs (f)(1)(i) and (ii) of this section.
+
+(iii) *Sale of marketable securities not conditioned on interest rates.* The facts are the same as in paragraph (f)(2)(ii) of this section, except that in this case, the agreement entered into by the issuer with a third party to sell the marketable securities in order to obtain funds to purchase SLGS securities is not conditioned upon changes in interest rates on Treasury securities. This practice violates the yield gain prohibition in paragraph (f)(1)(ii) of this section and is prohibited.
+
+(iv) *Simultaneous subscription for SLGS securities and sale of option to purchase marketable securities.* The issuer holds a portfolio of marketable securities in an account that produces negative arbitrage. In order to reduce or eliminate this negative arbitrage, the issuer subscribes for SLGS securities for purchase in sixty days. At the same time, the issuer sells an option to purchase the portfolio of marketable securities. If interest rates increase, the holder of the option will not exercise its option and the issuer will cancel the SLGS securities subscription. On the other hand, if interest rates decline, the option holder will exercise the option and the issuer will use the proceeds to purchase SLGS securities. This practice violates the prohibition on cancellation under § 344.5(c) or § 344.8(c), and no exception or waiver would be granted under this part because the ability to cancel in these circumstances would result in the SLGS program being used to create a cost-free option. In addition, this practice is prohibited under paragraph (f)(1)(i) of this section.
+
+(v) *Early redemption of time deposit security and subsequent purchase of marketable security.* On February 6, 2006, an issuer purchases a Time Deposit security using tax-exempt bond proceeds in a debt service reserve fund. The Time Deposit security has a principal amount of $7 million, an interest rate of 3.63 percent, and a maturity date of February 6, 2009. On March 1, 2007, the issuer submits a request to redeem the Time Deposit security on March 15, 2007. The yield used to determine the amount of redemption proceeds is 3.21 percent. On March 5, 2007, the issuer subscribes for the purchase, on March 15, 2007, of a second Time Deposit security. The issuer pays for the second Time Deposit security on March 15, 2007, with the redemption proceeds of the first Time Deposit security. The second Time Deposit security has an interest rate of 2.77 percent and a maturity date of April 16, 2007. On April 9, 2007, the issuer enters into a contract to purchase, on April 16, 2007, a ten-year, marketable Treasury security using the principal and interest to be received at the maturity of the second Time Deposit security. The marketable Treasury security has a yield of 4.02 percent. This transaction satisfies the yield limitation in paragraph (f)(1)(iii) of this section because:
+
+(A) The yield on the second Time Deposit security does not exceed the yield that is used to determine the amount of redemption proceeds for the first Time Deposit security; and
+
+(B) The second Time Deposit security is not redeemed before maturity and therefore the re-investment of the principal and interest received on the second Time Deposit security is not subject to the yield limitation in paragraph (f)(1)(iii) of this section. This transaction constitutes a permissible use of the SLGS program.
+
+(vi) *Early redemption of time deposit security and simultaneous purchase of marketable security.* The facts are the same as in paragraph (f)(2)(v) of this section, except that the issuer subscribes for the second Time Deposit security on March 1, 2007, and enters into the contract to purchase the marketable Treasury security on March 1, 2007. This transaction, if permitted, would enable the issuer to redeem the first Time Deposit security at a yield that is held constant for 12 hours based on the “current Treasury borrowing rate” for March 1, 2007, and to re-invest the redemption proceeds based on a market yield that may fluctuate during that 12-hour period. The use of the SLGS program in this manner would create a cost-free option. Accordingly, this transaction is impermissible under paragraph (f)(1)(i) of this section.
+
+(g) *When and how do I pay for SLGS securities?* You must submit full payment for each subscription to Fiscal Service no later than 4 p.m., Eastern time, on the issue date. Submit payments by the Fedwire funds transfer system with credit directed to the Treasury's General Account. For these transactions, Fiscal Service's ABA Routing Number is 051036476.
+
+(h) *What happens if I need to make an untimely change or do not settle on a subscription?* An untimely change to a subscription can only be made in accordance with § 344.2(n) of this part. The penalty imposed for failure to make settlement on a subscription that you submit will be to render you ineligible to subscribe for SLGS securities for six months beginning on the date the subscription is withdrawn, or the proposed issue date, whichever occurs first.
+
+(1) *Upon whom is the penalty imposed?* If you are the issuer, the penalty is imposed on you unless you provide the Taxpayer Identification Number of the conduit borrower that is the actual party failing to make settlement of a subscription. If you provide the Taxpayer Identification Number for the conduit borrower, the six-month penalty will be imposed on the conduit borrower.
+
+(2) *What occurs if Treasury exercises the option to waive the penalty?* If you settle after the proposed issue date and we determine that settlement is acceptable on an exception basis, we will waive, under § 344.2(n), the six-month penalty under paragraph (h) of this section. You shall be charged a late payment assessment. The late payment assessment equals the amount of interest that would have accrued on the SLGS securities from the proposed issue date to the date of settlement plus an administrative fee of $100 per subscription, or such other amount as we may publish in the Federal Register. We will not issue SLGS securities until we receive the late payment assessment, which is due on demand.
+
+(i) *What happens at maturity?* Upon the maturity of a security, we will pay the owner the principal amount and interest due. A security scheduled for maturity on a non-business day will be redeemed on the next business day.
+
+(j) *How will I receive payment?* We will make payment by the Automated Clearing House (ACH) method for the owner's account at a financial institution as designated by the owner. We may use substitute payment procedures, instead of ACH, if we consider it to be necessary. Any such action is final.
+
+(k) *How do I contact Fiscal Service?* Fiscal Service's contact information is posted on Fiscal Service's Web site.
+
+(l) *Will the offering be changed during a debt limit or disaster contingency?* We reserve the right to change or suspend the terms and conditions of the offering (including provisions relating to subscriptions for, and issuance of, SLGS securities; interest payments; early redemptions; and rollovers) at any time the Secretary determines that the issuance of obligations sufficient to conduct the orderly financing operations of the United States cannot be made without exceeding the statutory debt limit, or that a disaster situation exists. We will announce such changes by any means that the Secretary deems appropriate.
+
+(m) *What are some of the rights that Treasury reserves in administering the SLGS program?* We may decide, in our sole discretion, to take any of the following actions. Such actions are final. Specifically, Treasury reserves the right:
+
+(1) To reject any SLGSafe Application for Internet Access;
+
+(2) To reject any electronic message or other message or request, including requests for subscription and redemption, that is inappropriately completed or untimely submitted;
+
+(3) To refuse to issue any SLGS securities in any case or class of cases;
+
+(4) To revoke the issuance of any SLGS securities and to declare the subscriber or the issuer ineligible thereafter to subscribe for securities under the offering if the Secretary deems that such action is in the public interest and any security is issued on the basis of an improper certification or other misrepresentation (other than as the result of an inadvertent error) or there is an impermissible transaction under § 344.2(f); or
+
+(5) To review any transaction for compliance with this part, including requiring a subscriber or the issuer to provide additional information, and to determine an appropriate remedy under the circumstances.
+
+(n) *Are there any situations in which Treasury may waive these regulations?* We reserve the right, at our discretion, to waive or modify any provision of these regulations in any case or class of cases. We may do so if such action is not inconsistent with law and will not subject the United States to substantial expense or liability.
+
+(o) *Are SLGS securities callable by Treasury?* No. Treasury cannot call a SLGS security for redemption before maturity.

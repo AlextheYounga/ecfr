@@ -1,21 +1,25 @@
-##### § 548.203 Holding of funds in interest-bearing accounts; investment and reinvestment. #####
+##### § 548.203 Effect of transfers violating the provisions of this part. #####
 
-(a) Except as provided in paragraphs (c) or (d) of this section, or as otherwise directed by the Office of Foreign Assets Control, any U.S. person holding funds, such as currency, bank deposits, or liquidated financial obligations, subject to § 548.201(a) shall hold or place such funds in a blocked interest-bearing account located in the United States.
+(a) Any transfer after the effective date that is in violation of any provision of this part or of any regulation, ruling, instruction, order, directive, or license issued pursuant to this part, and that involves any property or interest in property blocked pursuant to § 548.201, is null and void and shall not be the basis for the assertion or recognition of any interest in or right, remedy, power, or privilege with respect to such property or interest in property.
 
-(b)(1) For purposes of this section, the term *blocked interest-bearing account* means a blocked account:
+(b) No transfer before the effective date shall be the basis for the assertion or recognition of any right, remedy, power, or privilege with respect to, or any interest in, any property or interest in property blocked pursuant to § 548.201, unless the person who holds or maintains such property, prior to that date, had written notice of the transfer or by any written evidence had recognized such transfer.
 
-(i) In a federally-insured U.S. bank, thrift institution, or credit union, provided the funds are earning interest at rates that are commercially reasonable; or
+(c) Unless otherwise provided, a license or other authorization issued by OFAC before, during, or after a transfer shall validate such transfer or make it enforceable to the same extent that it would be valid or enforceable but for the provisions of this part and any regulation, ruling, instruction, order, directive, or license issued pursuant to this part.
 
-(ii) With a broker or dealer registered with the Securities and Exchange Commission under the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), provided the funds are invested in a money market fund or in U.S. Treasury bills.
+(d) Transfers of property that otherwise would be null and void or unenforceable by virtue of the provisions of this section shall not be deemed to be null and void or unenforceable as to any person with whom such property is or was held or maintained (and as to such person only) in cases in which such person is able to establish to the satisfaction of OFAC each of the following:
 
-(2) For purposes of this section, a rate is commercially reasonable if it is the rate currently offered to other depositors on deposits or instruments of comparable size and maturity.
+(1) Such transfer did not represent a willful violation of the provisions of this part by the person with whom such property is or was held or maintained (and as to such person only);
 
-(3) Funds held or placed in a blocked account pursuant to this paragraph (b) may not be invested in instruments the maturity of which exceeds 180 days. If interest is credited to a separate blocked account or subaccount, the name of the account party on each account must be the same.
+(2) The person with whom such property is or was held or maintained did not have reasonable cause to know or suspect, in view of all the facts and circumstances known or available to such person, that such transfer required a license or authorization issued pursuant to this part and was not so licensed or authorized, or, if a license or authorization did purport to cover the transfer, that such license or authorization had been obtained by misrepresentation of a third party or withholding of material facts or was otherwise fraudulently obtained; and
 
-(c) Blocked funds held in instruments the maturity of which exceeds 180 days at the time the funds become subject to § 548.201(a) may continue to be held until maturity in the original instrument, provided any interest, earnings, or other proceeds derived therefrom are paid into a blocked interest-bearing account in accordance with paragraphs (b) or (d) of this section.
+(3) The person with whom such property is or was held or maintained filed with OFAC a report setting forth in full the circumstances relating to such transfer promptly upon discovery that:
 
-(d) Blocked funds held in accounts or instruments outside the United States at the time the funds become subject to § 548.201(a) may continue to be held in the same type of accounts or instruments, provided the funds earn interest at rates that are commercially reasonable.
+(i) Such transfer was in violation of the provisions of this part or any regulation, ruling, instruction, order, directive, license, or other authorization issued pursuant to this part;
 
-(e) This section does not create an affirmative obligation for the holder of blocked tangible property, such as chattels or real estate, or of other blocked property, such as debt or equity securities, to sell or liquidate such property. However, the Office of Foreign Assets Control may issue licenses permitting or directing such sales or liquidation in appropriate cases.
+(ii) Such transfer was not licensed or authorized by OFAC; or
 
-(f) Funds subject to this section may not be held, invested, or reinvested in a manner that provides immediate financial or economic benefit or access to any person whose property and interests in property are blocked pursuant to § 548.201(a), nor may their holder cooperate in or facilitate the pledging or other attempted use as collateral of blocked funds or other assets.
+(iii) If a license did purport to cover the transfer, such license had been obtained by misrepresentation of a third party or withholding of material facts or was otherwise fraudulently obtained.
+
+(e) The filing of a report in accordance with the provisions of paragraph (d)(3) of this section shall not be deemed evidence that the terms of paragraphs (d)(1) and (2) of this section have been satisfied.
+
+(f) Unless licensed pursuant to this part, any attachment, judgment, decree, lien, execution, garnishment, or other judicial process is null and void with respect to any property or interest in property blocked pursuant to § 548.201.

@@ -1,5 +1,7 @@
 ##### § 702.414 Regulations governing Grandfathered Secondary Capital. #####
 
+Link to an amendment published at 88 FR 18011, Mar. 27, 2023.
+
 This section recodifies the requirements from 12 CFR 701.34(b), (c), and (d) that were in effect as of December 31, 2021, with minor modifications. The terminology used in this section is specific to this section. Except as provided in the next sentence, all secondary capital issued under § 701.34 of this chapter before January 1, 2022, or, in the case of a federally insured, state-chartered credit union, § 741.204(c) of this chapter, that is referred to elsewhere in this subpart as “Grandfathered Secondary Capital,” is subject to the requirements set forth in this section. Issuances of secondary capital to the U.S. Government or any of its subdivisions, under applications approved before January 1, 2022, pursuant to § 701.34 or § 741.204(c) of this chapter, are also considered “Grandfathered Secondary Capital” irrespective of the date of issuance.
 
 (a) Secondary capital is subject to the following conditions:
@@ -42,7 +44,7 @@ This section recodifies the requirements from 12 CFR 701.34(b), (c), and (d) tha
 
 (12) *Prompt corrective action.* As provided in this part, the NCUA may prohibit a LICU as classified “critically undercapitalized” or, if “new,” as “moderately capitalized”, “marginally capitalized”, “minimally capitalized” or “uncapitalized,” as the case may be, from paying principal, dividends, or interest on its uninsured secondary capital accounts established after August 7, 2000, except that unpaid dividends or interest will continue to accrue under the terms of the account to the extent permitted by law.
 
-(b) *Accounting treatment; Recognition of net worth value of accounts* - (1) *Debt.* A LICU that issued secondary capital accounts pursuant to paragraph (a) of this section must record the funds on its balance sheet as a debt titled “uninsured secondary capital account.”
+(b) *Accounting treatment; Recognition of net worth value of accounts*—(1) *Debt.* A LICU that issued secondary capital accounts pursuant to paragraph (a) of this section must record the funds on its balance sheet as a debt titled “uninsured secondary capital account.”
 
 (2) *Schedule for recognizing net worth value.* The LICU's reflection of the net worth value of the accounts in its financial statement may never exceed the full balance of the secondary capital on deposit after any early redemptions and losses. For accounts with remaining maturities of less than five years, the LICU must reflect the net worth value of the accounts in its financial statement in accordance with the lesser of:
 

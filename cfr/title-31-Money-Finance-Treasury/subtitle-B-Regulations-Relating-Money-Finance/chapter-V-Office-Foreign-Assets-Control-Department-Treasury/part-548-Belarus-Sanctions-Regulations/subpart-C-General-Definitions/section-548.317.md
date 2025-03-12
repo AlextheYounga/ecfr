@@ -1,0 +1,3 @@
+##### § 548.317 Security sector of the Belarus economy. #####
+
+The term *security sector of the Belarus economy* includes non-military persons who are engaged in the following in or involving Belarus: state security and law enforcement; justice management and oversight; border management; customs and civil emergency management; surveillance and cyber-security; and any related activities, including the provision or receipt of goods, services, or technology to, from, or involving the security sector of the Belarus economy.

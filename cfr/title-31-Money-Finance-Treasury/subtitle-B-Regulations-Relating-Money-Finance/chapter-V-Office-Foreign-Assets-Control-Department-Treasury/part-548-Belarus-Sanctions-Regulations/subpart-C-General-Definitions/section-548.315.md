@@ -1,0 +1,3 @@
+##### § 548.315 Potassium chloride (potash) sector of the Belarus economy. #####
+
+The term *potassium chloride (potash) sector of the Belarus economy* includes the extraction, mining, harvesting, production, procurement, refinement, manufacturing, testing, financing, distribution, or transport to, from, or involving Belarus, of potassium chloride (potash) or potash products; and any related activities, including the provision or receipt of goods, services, or technology to, from, or involving the potash sector of the Belarus economy.

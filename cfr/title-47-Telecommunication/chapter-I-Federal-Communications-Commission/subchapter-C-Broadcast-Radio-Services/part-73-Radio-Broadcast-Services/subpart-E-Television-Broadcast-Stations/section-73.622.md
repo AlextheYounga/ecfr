@@ -914,11 +914,11 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |       Llano        |                        27                         |   |
 |      Longview      |                       20, S                       |   |
 |      Lubbock       |             16, \*25, 27, 31, 35, 36              |   |
-|       Lufkin       |                         9                         |   |
+|       Lufkin       |                        24                         |   |
 |      McAllen       |                        17                         |   |
 |      Midland       |                      18, 26                       |   |
 |    Nacogdoches     |                        15                         |   |
-|       Odessa       |              7, 9, 15, 23, \*28, 30               |   |
+|       Odessa       |              9, 15, 23, \*28, 30, 31              |   |
 |    Port Arthur     |                        27                         |   |
 |     Rio Grande     |                        14                         |   |
 |     Rosenberg      |                        30                         |   |
@@ -960,7 +960,7 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |      Culpeper      |                        \*S                        |   |
 |      Danville      |                         S                         |   |
 |       Grundy       |                        14                         |   |
-|      Hampton       |                        11                         |   |
+|      Hampton       |                        35                         |   |
 |  Hampton-Norfolk   |                       \*31                        |   |
 |    Harrisonburg    |                        20                         |   |
 |     Lynchburg      |                       7, 21                       |   |

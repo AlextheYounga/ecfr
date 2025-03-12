@@ -1,5 +1,7 @@
 ##### § 702.402 Definitions. #####
 
+Link to an amendment published at 88 FR 18010, Mar. 27, 2023.
+
 To the extent they differ, the definitions in this section apply only to Subordinated Debt and not to Grandfathered Secondary Capital. (Definitions applicable to Grandfathered Secondary Capital are in § 702.414.) All other terms in this subpart and not expressly defined in this section have the meanings assigned to them elsewhere in this part. For ease of use, certain key terms are included in this section using cross citations to other sections of this part where those terms are defined.
 
 *Accredited Investor* means a Natural Person Accredited Investor or an Entity Accredited Investor, as applicable.

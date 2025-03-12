@@ -1,0 +1,3 @@
+##### § 904.3 Preservation of evidence. #####
+
+Referring agencies must take care to preserve all files and records that may be needed by the Department of Justice to prove their claims in court. Agencies ordinarily should include certified copies of the documents that form the basis for the claim in the packages referring their claims to the Department of Justice for litigation. Agencies shall provide originals of such documents immediately upon request by the Department of Justice.

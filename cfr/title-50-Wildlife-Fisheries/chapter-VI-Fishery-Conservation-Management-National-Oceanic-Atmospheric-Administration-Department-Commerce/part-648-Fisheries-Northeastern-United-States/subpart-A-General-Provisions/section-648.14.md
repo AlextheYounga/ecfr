@@ -24,7 +24,7 @@
 
 (ii) Land ocean quahogs outside Maine that are harvested in or from the EEZ within the Maine mahogany quahog zone, except at a facility participating in an overall food safety program, operated by the official state agency having jurisdiction, that utilizes food safety-based procedures including sampling and analyzing for PSP toxin consistent with procedures used by the State of Maine for such purpose.
 
-(iii) - (iv) [Reserved]
+(iii)—(iv) [Reserved]
 
 (v) Fish for, harvest, catch, possess, or attempt to fish for, harvest, catch, or possess Atlantic surfclams and ocean quahogs from the reopened portion of the Georges Bank Closed Area, as defined in § 648.76(a)(4), unless issued a Letter of Authorization, and fishing under the appropriate VMS declaration and under the terms and conditions of the PSP testing protocol, as specified in § 648.76(a)(4)(i).
 
@@ -86,7 +86,7 @@
 
 (f) *Research and experimental fishing.* It is unlawful for any person to violate any terms of a letter authorizing experimental fishing pursuant to § 648.12 or fail to keep such letter on board the vessel during the period of the experiment.
 
-(g) *Squid, mackerel, and butterfish* - (1) *All persons.* Unless participating in a research activity as described in § 648.22(g), it is unlawful for any person to do any of the following:
+(g) *Squid, mackerel, and butterfish*—(1) *All persons.* Unless participating in a research activity as described in § 648.22(g), it is unlawful for any person to do any of the following:
 
 (i) *Possession and landing.* Take and retain, possess, or land more Atlantic chub mackerel, Atlantic mackerel, *Illex* squid, longfin squid, or butterfish than specified under, or after the effective date of, a notification issued under §§ 648.22 or 648.24(d).
 
@@ -158,7 +158,7 @@
 
 (2) [Reserved]
 
-(i) *Atlantic sea scallops* - (1) *All persons.* It is unlawful for any person to do any of the following:
+(i) *Atlantic sea scallops*—(1) *All persons.* It is unlawful for any person to do any of the following:
 
 (i) *Permit requirement.* Fish for, possess, or land, scallops without the vessel having been issued and carrying onboard a valid scallop permit in accordance with § 648.4(a)(2), unless the scallops were harvested by a vessel that has not been issued a Federal scallop permit and fishes for scallops exclusively in state waters.
 
@@ -176,7 +176,7 @@
 
 (v) *Ownership cap.* Have an ownership interest in more than 5 percent of the total number of vessels issued limited access scallop permits and confirmations of permit history, except as provided in § 648.4(a)(2)(i)(M).
 
-(vi) *Closed area requirements* - (A) *Habitat Management Areas.* (*1*) Fish for scallops in, or possess or land scallops from, the Habitat Management Areas specified in § 648.370.
+(vi) *Closed area requirements*—(A) *Habitat Management Areas.* (*1*) Fish for scallops in, or possess or land scallops from, the Habitat Management Areas specified in § 648.370.
 
 (*2*) Transit or enter the Habitat Management Areas specified in § 648.370, except as provided by § 648.61(b).
 
@@ -318,7 +318,7 @@
 
 (C) Declare into the NGOM scallop management area and fish against the NGOM Set-Aside after the effective date of a notification published in the Federal Register stating that after the NGOM Set-Aside has been harvested as specified in § 648.62, unless the vessel is fishing exclusively in state waters, declared a state-waters only NGOM trip, and is participating in an approved state waters exemption program as specified in § 648.54, or unless the vessel is participating in the scallop RSA program as specified in § 648.56.
 
-(D) - (E) [Reserved]
+(D)—(E) [Reserved]
 
 (F) Fish for, possess, or land scallops in excess of a vessel's IFQ.
 
@@ -412,7 +412,7 @@
 
 (iii) Surfclams or ocean quahogs found in cages without a valid state tag are deemed to have been harvested in the EEZ and are deemed to be part of an individual's allocation, unless the vessel has a valid Maine mahogany quahog permit issued pursuant to § 648.4(a)(4)(i) and is not fishing for an individual allocation under § 648.74; or, unless the preponderance of available evidence demonstrates that he/she has surrendered his/her surfclam and ocean quahog permit issued under § 648.4 and he/she conducted fishing operations exclusively within waters under the jurisdiction of any state. Surfclams and ocean quahogs in cages with a Federal tag or tags, issued and still valid pursuant to this part, affixed thereto are deemed to have been harvested by the individual allocation holder to whom the tags were issued or transferred under § 648.74 or § 648.77(b).
 
-(k) *NE multispecies* - (1) *Permit requirements for all persons.* It is unlawful for any person, including any owner or operator of a vessel issued a valid Federal NE multispecies permit or letter under § 648.4(a)(1)(i), unless otherwise specified in § 648.17, to do any of the following:
+(k) *NE multispecies*—(1) *Permit requirements for all persons.* It is unlawful for any person, including any owner or operator of a vessel issued a valid Federal NE multispecies permit or letter under § 648.4(a)(1)(i), unless otherwise specified in § 648.17, to do any of the following:
 
 (i) Fish for, possess, or land NE multispecies, unless:
 
@@ -494,7 +494,7 @@
 
 (ix) *Winter flounder state exemption program.* Violate any provision of the state waters winter flounder exemption program as provided in § 648.80(i).
 
-(6) *Gear requirements* - (i) *For all persons.* It is unlawful for any person, including any owner or operator of a vessel issued a valid NE multispecies permit or letter under § 648.4(a)(1)(i), unless otherwise specified in § 648.17, to do any of the following:
+(6) *Gear requirements*—(i) *For all persons.* It is unlawful for any person, including any owner or operator of a vessel issued a valid NE multispecies permit or letter under § 648.4(a)(1)(i), unless otherwise specified in § 648.17, to do any of the following:
 
 (A) Obstruct or constrict a net as described in § 648.80(g)(1) or (2).
 
@@ -524,7 +524,7 @@
 
 (B) *Hook gear.* Fail to comply with the restrictions on fishing and gear specified in §§ 648.80(a)(3)(v), (a)(4)(v), (b)(2)(v), and (c)(2)(iv) if the vessel has been issued a limited access NE multispecies permit and fishes with hook gear in areas specified in § 648.80(a), (b), or (c).
 
-(7) *Closed areas and EFH* - (i) *All persons.* It is unlawful for any person, including any owner or operator of a vessel issued a valid Federal NE multispecies permit or letter under § 648.4(a)(1)(i), unless otherwise specified in § 648.17, to do any of the following:
+(7) *Closed areas and EFH*—(i) *All persons.* It is unlawful for any person, including any owner or operator of a vessel issued a valid Federal NE multispecies permit or letter under § 648.4(a)(1)(i), unless otherwise specified in § 648.17, to do any of the following:
 
 (A) *Groundfish Closure Area restrictions.* Enter, be on a fishing vessel in, or fail to remove gear from the EEZ portion of the areas described in § 648.81(a)(3), (4), and (5) and (d)(3), except as provided in § 648.81(a)(2), (d)(2), and (i).
 
@@ -618,7 +618,7 @@
 
 (10) *Gear marking requirement for all persons.* It is unlawful for any person, including any owner or operator of a vessel issued a valid NE multispecies permit or letter under § 648.4(a)(1)(i), unless otherwise specified in § 648.17, to fail to comply with the gear-marking requirements of § 648.84.
 
-(11) *U.S./Canada Resource Management Area* - (i) *Possession and landing restrictions of the U.S./Canada Area* - (A) *All Persons.* (*1*) Fish for, harvest, possess or land any regulated NE multispecies from the areas specified in § 648.85(a)(1), unless in compliance with the restrictions and conditions specified in § 648.85(a)(3).
+(11) *U.S./Canada Resource Management Area*—(i) *Possession and landing restrictions of the U.S./Canada Area*—(A) *All Persons.* (*1*) Fish for, harvest, possess or land any regulated NE multispecies from the areas specified in § 648.85(a)(1), unless in compliance with the restrictions and conditions specified in § 648.85(a)(3).
 
 (*2*) If fishing under a NE multispecies DAS in the Western U.S./Canada Area or Eastern U.S./Canada Area specified in § 648.85(a)(1), exceed the trip limits specified in § 648.85(a)(3)(iv), unless further restricted under § 648.85(b) or exempted under § 648.87.
 
@@ -646,7 +646,7 @@
 
 (B) Fail to comply with the reporting requirements under § 648.85(a)(3)(ii)(A)(*2*) when fishing inside and outside of the Eastern U.S./Canada Area on one trip.
 
-(v) *DAS* - (A) *All persons.* If fishing under a NE multispecies DAS in the Eastern U.S./Canada Area specified in § 648.85(a)(1)(ii), and in one of the SAPs specified in § 648.85(b)(3) or (8) on the same trip, fail to comply with the no discard and DAS flip provisions specified in § 648.85(b)(3)(xi) and (b)(8)(v)(I), or the minimum Category A DAS requirement specified in § 648.85(b)(3)(xii) and (b)(8)(v)(J).
+(v) *DAS*—(A) *All persons.* If fishing under a NE multispecies DAS in the Eastern U.S./Canada Area specified in § 648.85(a)(1)(ii), and in one of the SAPs specified in § 648.85(b)(3) or (8) on the same trip, fail to comply with the no discard and DAS flip provisions specified in § 648.85(b)(3)(xi) and (b)(8)(v)(I), or the minimum Category A DAS requirement specified in § 648.85(b)(3)(xii) and (b)(8)(v)(J).
 
 (B) *Vessel and operator permit holders.* (*1*) [Reserved]
 
@@ -702,7 +702,7 @@
 
 (J) If fishing in the Regular B DAS Program specified in § 648.85(b)(6), fail to comply with the reporting requirements specified in § 648.85(b)(6)(iv)(I).
 
-(vi) *Eastern U.S./Canada Haddock SAP Restrictions* - (A) *All Persons.* (*1*) If fishing under a NE multispecies DAS or on a sector trip in the Eastern U.S./Canada Haddock SAP specified in § 648.85(b)(8), in the area specified in § 648.85(b)(8)(ii), and during the season specified in § 648.85(b)(8)(iv), fail to comply with § 648.85(b)(8)(v).
+(vi) *Eastern U.S./Canada Haddock SAP Restrictions*—(A) *All Persons.* (*1*) If fishing under a NE multispecies DAS or on a sector trip in the Eastern U.S./Canada Haddock SAP specified in § 648.85(b)(8), in the area specified in § 648.85(b)(8)(ii), and during the season specified in § 648.85(b)(8)(iv), fail to comply with § 648.85(b)(8)(v).
 
 (*2*) *VMS and declaration requirements.* (*i*) If fishing under a NE multispecies DAS or on a sector trip in the Eastern U.S./Canada Haddock SAP in the area specified in § 648.85(b)(8)(ii), fail to comply with the VMS requirements in § 648.85(b)(8)(v)(B).
 
@@ -794,13 +794,13 @@
 
 (xvi) Fish under a waiver from the groundfish sector monitoring program issued under § 648.11(l)(5)(ii) or (iii) without complying with the requirements of § 648.11(l)(5)(ii) or (iii), respectively; the VMS declaration requirements at § 648.10; and the pre-trip notification requirements at § 648.11(l)(1).
 
-(15) *Open access permit restrictions* - (i) *All persons.* (A) Violate any provision of the open access permit restrictions of § 648.88.
+(15) *Open access permit restrictions*—(i) *All persons.* (A) Violate any provision of the open access permit restrictions of § 648.88.
 
 (B) Possess on board gear other than that specified in § 648.88(a)(2)(i), or fish with hooks greater than the number specified in § 648.88(a)(2)(iii), if fishing under an open access Handgear permit.
 
 (C) Fish for, possess, or land regulated multispecies from March 1 to March 20, if issued an open access Handgear permit.
 
-(ii) *Vessel and operator permit holders* - (A) *Open access Handgear permit.* It is unlawful for any person owning or operating a vessel issued an open access NE multispecies Handgear permit to do any of the following, unless otherwise specified in § 648.17:
+(ii) *Vessel and operator permit holders*—(A) *Open access Handgear permit.* It is unlawful for any person owning or operating a vessel issued an open access NE multispecies Handgear permit to do any of the following, unless otherwise specified in § 648.17:
 
 (*1*) Violate any provision of the open access Handgear permit restrictions of § 648.88(a).
 
@@ -850,7 +850,7 @@
 
 (20) *AMs for both stocks of windowpane flounder, ocean pout, Atlantic halibut, and Atlantic wolffish.* It is unlawful for any person, including any owner or operator of a vessel issued a valid Federal NE multispecies permit or letter under § 648.4(a)(1)(i), unless otherwise specified in § 648.17, to fail to comply with the restrictions on fishing and gear specified in § 648.90(a)(5)(i)(D) through (H).
 
-(21) *Universal sector exemption programs* - (i) *Redfish Exemption Program.* (A) While fishing under the provisions of the Redfish Exemption Program, it is unlawful for any person to:
+(21) *Universal sector exemption programs*—(i) *Redfish Exemption Program.* (A) While fishing under the provisions of the Redfish Exemption Program, it is unlawful for any person to:
 
 (*1*) Fish with a codend of mesh smaller than 5.5-inch (14.0-cm) diamond or square,
 
@@ -920,7 +920,7 @@
 
 (8) *Presumption.* For purposes of this part, the following presumption applies: All monkfish retained or possessed on a vessel issued any permit under § 648.4 are deemed to have been harvested from the EEZ, unless the preponderance of evidence demonstrates that such fish were harvested by a vessel that fished exclusively in the NAFO Regulatory Area, as authorized under § 648.17.
 
-(n) *Summer flounder* - (1) *All persons.* Unless participating in a research activity as described in § 648.22(g), it is unlawful for any person to do any of the following:
+(n) *Summer flounder*—(1) *All persons.* Unless participating in a research activity as described in § 648.22(g), it is unlawful for any person to do any of the following:
 
 (i) *Permit requirement.* Possess summer flounder in or harvested from the EEZ, either in excess of the possession limit specified in § 648.106, or before or after the time period specified in § 648.105, unless the vessel was issued a summer flounder moratorium permit and the moratorium permit is on board the vessel and has not been surrendered, revoked, or suspended. However, possession of summer flounder harvested from state waters is allowed for state-only permitted vessels when transiting Federal waters within the Block Island Sound Transit Area provided they follow the provisions at § 648.111.
 
@@ -962,7 +962,7 @@
 
 (4) *Presumption.* For purposes of this part, the following presumption applies: All summer flounder retained or possessed on a vessel issued a permit under § 648.4 are deemed to have been harvested in the EEZ.
 
-(o) *Scup* - (1) *All persons.* Unless a vessel is participating in a research activity as described in § 648.122(e) or unless a vessel has no Federal scup permit, possesses scup caught exclusively in state waters, and is transiting Federal waters within the Block Island Sound Transit Area in accordance with the provisions at § 648.131, it is unlawful for any person to do any of the following:
+(o) *Scup*—(1) *All persons.* Unless a vessel is participating in a research activity as described in § 648.122(e) or unless a vessel has no Federal scup permit, possesses scup caught exclusively in state waters, and is transiting Federal waters within the Block Island Sound Transit Area in accordance with the provisions at § 648.131, it is unlawful for any person to do any of the following:
 
 (i) *Permit requirement.* Fish for, catch, or retain for sale, barter, or trade scup in or from the EEZ north of 35°15.3′ N. lat. on board a party or charter boat without the vessel having been issued an applicable valid party or charter boat permit pursuant to § 648.4(a)(6), unless the vessel other than a party or charter vessel observes the possession limit restrictions and prohibition against sales specified in § 648.125.
 
@@ -1010,7 +1010,7 @@
 
 (4) *Presumption.* For purposes of this part, the following presumption applies: All scup retained or possessed on a vessel issued a permit under § 648.4 are deemed to have been harvested in the EEZ, north of 35°15.3′ N. lat., unless a preponderance of the evidence shows the fish were harvested by a vessel that fished exclusively in state waters.
 
-(p) *Black sea bass* - (1) *All persons.* Unless participating in a research activity as described in § 648.142(e), it is unlawful for any person to do any of the following:
+(p) *Black sea bass*—(1) *All persons.* Unless participating in a research activity as described in § 648.142(e), it is unlawful for any person to do any of the following:
 
 (i) *Permit requirement.* Possess black sea bass in or harvested from the EEZ north of 35°15.3′ N. lat., either in excess of the possession limit established pursuant to § 648.145, or before or after the time period established pursuant to § 648.146, unless the person is operating a vessel issued a moratorium permit under § 648.4 and the moratorium permit is on board the vessel. However, possession of black sea bass harvested from state waters is allowed for state-only permitted vessels when transiting Federal waters within the Block Island Sound Transit Area provided they follow the provisions at § 648.151.
 
@@ -1066,7 +1066,7 @@
 
 (5) *Presumption.* For purposes of this part, the following presumption applies: All bluefish possessed on board a party or charter vessel issued a permit under § 648.4(a)(8)(ii) are deemed to have been harvested from the EEZ.
 
-(r) *Atlantic herring* - (1) *All persons.* It is unlawful for any person to do any of the following:
+(r) *Atlantic herring*—(1) *All persons.* It is unlawful for any person to do any of the following:
 
 (i) *Permit requirement.* Operate, or act as an operator of, a vessel with an Atlantic herring permit, or a vessel fishing for or possessing herring in or from the EEZ, unless the operator has been issued, and is in possession of, a valid operator permit.
 
@@ -1120,10 +1120,6 @@
 
 (G) Fish for, possess, or retain herring in any management area during a season that has zero percent of the herring sub-ACL allocated as specified in § 648.201(d).
 
-(H) Use, deploy, or fish with midwater trawl gear within the inshore midwater trawl restricted area as defined in § 648.202(a)(2), unless the vessel is on a declared research set-aside trip and operating as authorized by an exempted fishing permit or the vessel has not been issued a valid, federal permit under this part and fishes exclusively in state waters.
-
-(I) Transit the inshore midwater trawl restricted area, defined in § 648.202(a)(2), with midwater trawl gear onboard unless midwater trawl gear is stowed and not available for immediate use, as defined in § 648.2 or the vessel has not been issued a valid, federal permit under this part and fishes exclusively in state waters.
-
 (vii) *Transit and transport.* (A) Transit or be in an area subject to a possession limit adjustment or fishery closure pursuant to § 648.201(a) with more than the applicable 2,000 lb (907.2 kg) or 40,000 lb (18,143.7 kg) herring possession limit, unless such herring were caught in an area not subject to the 2,000 lb (907.2 kg) or 40,000 lb (18,143.7 kg) limit specified in § 648.201(a), all fishing gear is stowed and not available for immediate use as defined in § 648.2, and the vessel is issued a permit appropriate to the amount of herring on board and the area where the herring was harvested.
 
 (B) Receive Atlantic herring at sea in or from the EEZ, solely for transport, without an Atlantic herring carrier letter of authorization from the Regional Administrator or having declared an Atlantic herring carrier trip via VMS consistent with the requirements at § 648.4(a)(10)(ii).
@@ -1174,7 +1170,7 @@
 
 (3) *Presumption.* For purposes of this part, the following presumption applies: All Atlantic herring retained or possessed on a vessel issued any permit under § 648.4 are deemed to have been harvested from the EEZ, unless the preponderance of all submitted evidence demonstrates that such Atlantic herring were harvested by a vessel fishing exclusively in state waters.
 
-(s) *Spiny dogfish* - (1) *All persons.* It is unlawful for any person to do any of the following:
+(s) *Spiny dogfish*—(1) *All persons.* It is unlawful for any person to do any of the following:
 
 (i) *Permit requirement.* Purchase or otherwise receive, other than solely for transport on land, spiny dogfish from any person on board a vessel issued a Federal spiny dogfish permit, unless the purchaser/receiver is in possession of a valid spiny dogfish dealer permit.
 
@@ -1224,7 +1220,7 @@
 
 (u) *Golden and blueline tilefish.* It is unlawful for any person owning or operating a vessel to do any of the following:
 
-(1) *Permit requirements* - (i) *Operator permit.* Operate, or act as an operator of, a vessel with a tilefish permit, or a vessel fishing for or possessing golden or blueline tilefish in or from the Tilefish Management Unit, unless the operator has been issued, and is in possession of, a valid operator permit. This requirement does not apply to operators of private recreational vessels.
+(1) *Permit requirements*—(i) *Operator permit.* Operate, or act as an operator of, a vessel with a tilefish permit, or a vessel fishing for or possessing golden or blueline tilefish in or from the Tilefish Management Unit, unless the operator has been issued, and is in possession of, a valid operator permit. This requirement does not apply to operators of private recreational vessels.
 
 (ii) *Dealer permit.* Purchase, possess, receive for a commercial purpose; or attempt to purchase, possess, or receive for a commercial purpose; as a dealer, or in the capacity of a dealer, golden or blueline tilefish that were harvested in or from the Tilefish Management Unit, without having been issued, and in possession of, a valid tilefish dealer permit.
 
@@ -1270,7 +1266,7 @@
 
 (4) *Presumption.* For purposes of this part, the following presumption applies: All golden or blueline tilefish retained or possessed on a vessel issued any permit under § 648.4 are deemed to have been harvested in or from the Tilefish Management Unit, unless the preponderance of all submitted evidence demonstrates that such tilefish were harvested by a vessel fishing exclusively in state waters.
 
-(v) *Skates* - (1) *All persons.* It is unlawful for any person to fish for, possess, transport, sell or land skates in or from the EEZ portion of the skate management unit, unless:
+(v) *Skates*—(1) *All persons.* It is unlawful for any person to fish for, possess, transport, sell or land skates in or from the EEZ portion of the skate management unit, unless:
 
 (i) Onboard a vessel that possesses a valid skate vessel permit.
 

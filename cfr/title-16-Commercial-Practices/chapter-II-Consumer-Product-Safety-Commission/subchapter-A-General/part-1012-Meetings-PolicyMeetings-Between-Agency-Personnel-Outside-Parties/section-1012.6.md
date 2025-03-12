@@ -1,0 +1,3 @@
+##### § 1012.6 The news media. #####
+
+The Agency recognizes that the news media occupy a unique position in informing the public of the Agency's activities. The Commission believes that the inherently public nature of the news media allows their activities to be exempt from the requirements of this part whenever Agency meetings are held with the news media for the purpose of informing them about Agency activities. Such Agency meetings are not exempt in the event that any representative of the news media attempts to influence any Agency employee on a substantial interest matter.

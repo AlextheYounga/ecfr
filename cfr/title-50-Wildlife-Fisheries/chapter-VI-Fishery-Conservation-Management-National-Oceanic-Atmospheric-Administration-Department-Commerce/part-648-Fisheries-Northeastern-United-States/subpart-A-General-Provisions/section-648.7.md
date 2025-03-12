@@ -26,13 +26,125 @@
 
 (4) [Reserved]
 
-(b) *Vessel owners or operators* - (1) [Reserved]
+(b) *Vessel owners or operators*—(1) *Fishing Vessel Trip Reports.* The owner or operator of any vessel issued a valid permit, or eligible to renew a limited access permit under this part must maintain on board the vessel, and submit, and accurate fishing log report for each fishing trip, regardless of species fished for or taken, by electronic means. This report must be entered into and submitted through a software application approved by NMFS.
 
-(2) *IVR system reports* - (i) *Atlantic herring vessel owners or operators issued a Category D Herring Permit.* The owner or operator of a vessel issued a Category D Herring Permit to fish for herring must report catch (retained and discarded) of herring via an IVR system for each week herring was caught, unless exempted by the Regional Administrator. IVR reports are not required for weeks when no herring was caught. The report shall include at least the following information, and any other information required by the Regional Administrator: Vessel identification; week in which herring are caught; management areas fished; and pounds retained and pounds discarded of herring caught in each management area. The IVR reporting week begins on Sunday at 0001 hour (hr) (12:01 a.m.) local time and ends Saturday at 2400 hr (12 midnight). Weekly Atlantic herring catch reports must be submitted via the IVR system by midnight each Tuesday, eastern time, for the previous week. Reports are required even if herring caught during the week has not yet been landed. This report does not exempt the owner or operator from other applicable reporting requirements of this section.
+(i) *Vessel owners or operators.* With the exception of those vessel owners or operators fishing under a surfclam or ocean quahog permit, at least the following information as applicable and any other information required by the Regional Administrator must be provided:
+
+(A) Vessel name;
+
+(B) USCG documentation number (or state registration number, if undocumented);
+
+(C) Permit number;
+
+(D) Date/time sailed;
+
+(E) Date/time landed;
+
+(F) Trip type;
+
+(G) Number of crew;
+
+(H) Number of anglers (if a charter or party boat);
+
+(I) Gear fished;
+
+(J) Quantity and size of gear;
+
+(K) Mesh/ring size;
+
+(L) Chart area fished;
+
+(M) Average depth;
+
+(N) Latitude/longitude;
+
+(O) Total hauls per area fished;
+
+(P) Average tow time duration;
+
+(Q) Hail weight, in pounds (or count of individual fish, if a party or charter vessel), by species, of all species, or parts of species, such as monkfish livers, landed or discarded; and, in the case of skate discards, “small” (*i.e.,* less than 23 inches (58.42 cm), total length) or “large” (*i.e.,* 23 inches (58.42 cm) or greater, total length) skates;
+
+(R) Dealer permit number;
+
+(S) Dealer name;
+
+(T) Date sold, port and state landed; and
+
+(U) Vessel operator's name, signature, and operator's permit number (if applicable).
+
+(ii) *Atlantic mackerel owners or operators.* The owner or operator of a vessel issued a limited access Atlantic mackerel permit must report catch (retained and discarded) of Atlantic mackerel daily via VMS, unless exempted by the Regional Administrator. The report must include at least the following information, and any other information required by the Regional Administrator: Fishing Vessel Trip Report serial number; month, day, and year Atlantic mackerel was caught; total pounds of Atlantic mackerel retained and total pounds of all fish retained. Daily Atlantic mackerel VMS catch reports must be submitted in 24-hr intervals for each day and must be submitted by 0900 hr on the following day. Reports are required even if Atlantic mackerel caught that day have not yet been landed. This report does not exempt the owner or operator from other applicable reporting requirements of this section.
+
+(iii) Surfclam and Ocean Quahog owners or operators. The owner or operator of any vessel conducting any surfclam and ocean quahog fishing operations must provide at least the following information and any other information required by the Regional Administrator:
+
+(A) Name and permit number of the vessel;
+
+(B) Total amount in bushels of each species taken;
+
+(C) Date(s) caught;
+
+(D) Time at sea;
+
+(E) Duration of fishing time;
+
+(F) Locality fished;
+
+(G) Crew size;
+
+(H) Crew share by percentage;
+
+(I) Landing port;
+
+(J) Date sold;
+
+(K) Price per bushel;
+
+(L) Buyer;
+
+(M) Tag numbers from cages used;
+
+(N) Quantity of surfclams and ocean quahogs discarded; and
+
+(O) Allocation permit number.
+
+(iv) Private tilefish recreational vessel owners and operators. The owner or operator of any fishing vessel that holds a Federal private recreational tilefish permit, must report for each recreational trip fishing for or retaining blueline or golden tilefish in the Tilefish Management Unit. The required Vessel Trip Report must be submitted by electronic means. This report must be submitted through a NMFS-approved electronic reporting system within 24 hours of the trip returning to port. The vessel operator may keep paper records while onboard and upload the data after landing. The report must contain the following information:
+
+(A) Vessel name;
+
+(B) USCG documentation number (or state registration number, if undocumented);
+
+(C) Permit number;
+
+(D) Date/time sailed;
+
+(E) Date/time landed;
+
+(F) Trip type;
+
+(G) Number of anglers;
+
+(H) Species;
+
+(I) Gear fished;
+
+(J) Quantity and size of gear;
+
+(K) Soak time;
+
+(L) Depth;
+
+(M) Chart Area;
+
+(N) Latitude/longitude where fishing occurred;
+
+(O) Count of individual golden and blueline tilefish landed or discarded; and
+
+(P) Port and state landed.
+
+(2) *IVR system reports*—(i) *Atlantic herring vessel owners or operators issued a Category D Herring Permit.* The owner or operator of a vessel issued a Category D Herring Permit to fish for herring must report catch (retained and discarded) of herring via an IVR system for each week herring was caught, unless exempted by the Regional Administrator. IVR reports are not required for weeks when no herring was caught. The report shall include at least the following information, and any other information required by the Regional Administrator: Vessel identification; week in which herring are caught; management areas fished; and pounds retained and pounds discarded of herring caught in each management area. The IVR reporting week begins on Sunday at 0001 hour (hr) (12:01 a.m.) local time and ends Saturday at 2400 hr (12 midnight). Weekly Atlantic herring catch reports must be submitted via the IVR system by midnight each Tuesday, eastern time, for the previous week. Reports are required even if herring caught during the week has not yet been landed. This report does not exempt the owner or operator from other applicable reporting requirements of this section.
 
 (ii) [Reserved]
 
-(3) *VMS Catch Reports* - (i) *Atlantic herring owners or operators issued a limited access permit or Category E Herring Permit.* The owner or operator of a vessel issued a limited access permit (*i.e.,* Category A, B, or C) or Category E Herring Permit to fish for herring must report catch (retained and discarded) of herring daily via VMS, unless exempted by the Regional Administrator. The report shall include at least the following information, and any other information required by the Regional Administrator: Fishing Vessel Trip Report serial number; month and day herring was caught; pounds retained for each herring management area; and pounds discarded for each herring management area. Additionally, the owner or operator of a vessel issued a limited access permit or Category E Herring Permit to fish for herring using midwater trawl or bottom trawl gear must report daily via VMS the estimated total amount of all species retained (in pounds, landed weight) by statistical area for use in tracking catch against catch caps (haddock, river herring and shad) in the herring fishery. Daily Atlantic herring VMS catch reports must be submitted in 24-hr intervals for each day and must be submitted by 0900 hr (9:00 a.m.) of the following day. Reports are required even if herring caught that day has not yet been landed. This report does not exempt the owner or operator from other applicable reporting requirements of this section.
+(3) *VMS Catch Reports*—(i) *Atlantic herring owners or operators issued a limited access permit or Category E Herring Permit.* The owner or operator of a vessel issued a limited access permit (*i.e.,* Category A, B, or C) or Category E Herring Permit to fish for herring must report catch (retained and discarded) of herring daily via VMS, unless exempted by the Regional Administrator. The report shall include at least the following information, and any other information required by the Regional Administrator: Fishing Vessel Trip Report serial number; month and day herring was caught; pounds retained for each herring management area; and pounds discarded for each herring management area. Additionally, the owner or operator of a vessel issued a limited access permit or Category E Herring Permit to fish for herring using midwater trawl or bottom trawl gear must report daily via VMS the estimated total amount of all species retained (in pounds, landed weight) by statistical area for use in tracking catch against catch caps (haddock, river herring and shad) in the herring fishery. Daily Atlantic herring VMS catch reports must be submitted in 24-hr intervals for each day and must be submitted by 0900 hr (9:00 a.m.) of the following day. Reports are required even if herring caught that day has not yet been landed. This report does not exempt the owner or operator from other applicable reporting requirements of this section.
 
 (A) The owner or operator of any vessel issued a limited access herring permit (*i.e.,* Category A, B, or C) or a Category E Herring Permit must submit a catch report via VMS each day, regardless of how much herring is caught (including days when no herring is caught), unless exempted from this requirement by the Regional Administrator.
 
@@ -56,11 +168,11 @@
 
 (d) *Inspection.* Upon the request of an authorized officer or an employee of NMFS designated by the Regional Administrator to make such inspections, all persons required to submit reports under this part must make immediately available for inspection reports, and all records upon which those reports are or will be based, that are required to be submitted or kept under this part.
 
-(e) *Record retention* - (1) *Dealer records.* Any record, as defined in § 648.2, related to fish possessed, received, or purchased by a dealer that is required to be reported, must be retained and made available for immediate review for a total of 3 years after the date the fish were first possessed, received, or purchased. Dealers must retain the required records and reports at their principal place of business.
+(e) *Record retention*—(1) *Dealer records.* Any record, as defined in § 648.2, related to fish possessed, received, or purchased by a dealer that is required to be reported, must be retained and made available for immediate review for a total of 3 years after the date the fish were first possessed, received, or purchased. Dealers must retain the required records and reports at their principal place of business.
 
 (2) [Reserved]
 
-(f) *Submitting reports* - (1) *Dealer or processor reports.* (i) Detailed reports required by paragraph (a)(1)(i) of this section must be received by midnight of the first Tuesday following the end of the reporting week. If no fish are purchased or received during a reporting week, the report so stating required under paragraph (a)(1)(i) of this section must be received by midnight of the first Tuesday following the end of the reporting week.
+(f) *Submitting reports*—(1) *Dealer or processor reports.* (i) Detailed reports required by paragraph (a)(1)(i) of this section must be received by midnight of the first Tuesday following the end of the reporting week. If no fish are purchased or received during a reporting week, the report so stating required under paragraph (a)(1)(i) of this section must be received by midnight of the first Tuesday following the end of the reporting week.
 
 (ii) From July 15 through December 31, dealer or processor reports documenting *Illex* squid landings greater than 10,000 pounds (4.5 mt) must be received with 48 hours of landing.
 
@@ -72,7 +184,7 @@
 
 (vi) Annual reports for a calendar year must be postmarked or received by February 10 of the following year. Contact the Regional Administrator (see Table 1 to § 600.502) for the address of NMFS Statistics.
 
-(2) *Fishing vessel trip reports* - (i) *Timing requirements.* For any vessel issued a valid commercial or charter/party permit, or eligible to renew a limited access permit under this part, fishing vessel trip reports, required by paragraph (b)(1) of this section, must be submitted within 48 hours at the conclusion of a trip.
+(2) *Fishing vessel trip reports*—(i) *Timing requirements.* For any vessel issued a valid commercial or charter/party permit, or eligible to renew a limited access permit under this part, fishing vessel trip reports, required by paragraph (b)(1) of this section, must be submitted within 48 hours at the conclusion of a trip.
 
 (ii) *Commercial trips.* For the purposes of paragraph (f)(2) of this section, the date when fish are offloaded from a commercial vessel will establish the conclusion of a commercial trip.
 

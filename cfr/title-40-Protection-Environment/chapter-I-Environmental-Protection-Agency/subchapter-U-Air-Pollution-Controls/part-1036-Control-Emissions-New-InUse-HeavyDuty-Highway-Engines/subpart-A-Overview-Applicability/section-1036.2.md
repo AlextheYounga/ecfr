@@ -1,0 +1,3 @@
+##### § 1036.2 Compliance responsibility. #####
+
+The regulations in this part contain provisions that affect both engine manufacturers and others. However, the requirements of this part are generally addressed to the engine manufacturer(s). The term “you” generally means the engine manufacturer(s), especially for issues related to certification. Additional requirements and prohibitions apply to other persons as specified in subpart G of this part and 40 CFR part 1068.

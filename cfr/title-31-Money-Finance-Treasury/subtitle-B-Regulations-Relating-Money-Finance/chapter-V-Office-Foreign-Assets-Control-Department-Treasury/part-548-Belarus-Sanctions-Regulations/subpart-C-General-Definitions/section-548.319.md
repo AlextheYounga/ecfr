@@ -1,0 +1,3 @@
+##### § 548.319 Tobacco products sector of the Belarus economy. #####
+
+The term *tobacco products sector of the Belarus economy* includes the production, procurement, refinement, manufacturing, testing, financing, distribution, or transport to, from, or involving Belarus, of any product made or derived from tobacco, including any component, part, or accessory of such a product; and any related activities, including the provision or receipt of services, or technology to, from, or involving the tobacco products sector of the Belarus economy.

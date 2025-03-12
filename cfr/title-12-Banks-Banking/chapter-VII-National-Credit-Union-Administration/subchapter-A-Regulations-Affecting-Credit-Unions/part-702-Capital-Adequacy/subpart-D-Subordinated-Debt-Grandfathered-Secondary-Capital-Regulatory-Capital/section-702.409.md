@@ -1,5 +1,7 @@
 ##### § 702.409 Preapproval for federally insured, state-chartered credit unions to issue Subordinated Debt. #####
 
+Link to an amendment published at 88 FR 18011, Mar. 27, 2023.
+
 (a) A federally insured, state-chartered credit union is required to submit the information required under § 702.408 and, if applicable, paragraph (b) of this section to both the Appropriate Supervision Office and its state supervisory authority. The Appropriate Supervision Office will issue decisions approving a federally insured, state-chartered credit union's application only after obtaining the concurrence of the federally insured, state-chartered credit union's state supervisory authority. The NCUA will notify a federally insured, state-chartered credit union's state supervisory authority before issuing a decision to “approve for use” a federally insured, state-chartered credit union's Offering Document and any amendments thereto, under § 702.408, if applicable.
 
 (b) If the Appropriate Supervision Office has reason to believe that an issuance by a federally insured, state-chartered credit union under this subpart could subject that federally insured, state-chartered credit union to Federal income taxation, the Appropriate Supervision Office may require the federally insured, state-chartered credit union to provide:

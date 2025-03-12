@@ -1,0 +1,21 @@
+##### § 1065.1143 Requirements for burner-based aging stands. #####
+
+A burner-based aging platform is built using a fuel-fired burner as the primary heat generation mechanism. The burner must utilize diesel fuel and it must produce a lean exhaust gas mixture. You must configure the burner system to be capable of controlling temperature, exhaust flow rate, NOX, oxygen, and water to produce a representative exhaust mixture that meets the accelerated aging cycle targets for the aftertreatment system to be aged. You may bypass some of the bench aging exhaust around the aftertreatment system being aged to reach targets, but you must account for this in all calculations and monitoring to ensure that the correct amount of oil and sulfur are reaching the aftertreatment system. The burner system must incorporate the following capabilities:
+
+(a) Directly measure the exhaust flow through the aftertreatment system being aged.
+
+(b) Ensure transient response of the system is sufficient to meet the cycle transition time targets for all parameters.
+
+(c) Incorporate a means of oxygen and water control such that the burner system is able to generate oxygen and water levels representative of compression-ignition engine exhaust.
+
+(d) Incorporate a means of oil introduction for the bulk pathway. You must implement a method that introduces lubricating oil in a region of the burner that does not result in complete combustion of the oil, but at the same time is hot enough to oxidize oil and oil additives in a manner similar to what occurs when oil enters the cylinder of an engine past the piston rings. Care must be taken to ensure the oil is properly atomized and mixed into the post-combustion burner gases before they have cooled to normal exhaust temperatures, to insure proper digestion and oxidation of the oil constituents. You must measure the bulk pathway oil injection rate on a continuous basis. You must validate that this method produces representative oil products using the secondary method in § 1065.1141(h) regardless of whether you will use the burner-based aging stand to age systems which include a DPF. Use good engineering judgment to select a DPF for the initial validation of the system. Perform this validation when the burner-based aging stand is first commissioned or if any system modifications are made that affect the oil consumption introduction method. We also recommend that you examine ash distribution on the validation DPF in comparison to a representative engine aged DPF.
+
+(e) Incorporate a means of introducing lubricating oil into the burner fuel to enable the volatile pathway of oil exposure. You must introduce sufficient oil to reach the volatile pathway oil exposure targets determined in § 1065.1139(h). You must measure the rate of volatile pathway oil introduction on a continuous basis.
+
+(f) If the burner-based aging stand will be used for aging of systems that perform infrequent regenerations, the aging stand must incorporate a means of increasing temperature representative of the target application. For example, if the target application increases temperature for regeneration by introducing fuel into the exhaust upstream of an oxidation catalyst, the aging stand must incorporate a similar method of introducing fuel into the exhaust.
+
+(g) If the burner-based aging stand will be used for aging of systems that incorporate SCR-based NOX reduction, the aging stand must incorporate a representative means of introducing DEF at the appropriate location(s).
+
+(h) If the burner-based aging stand will be used for aging of systems that incorporate a diesel particulate filter (DPF), we recommend you perform secondary tracking of oil exposure by using clean (soot free) DPF weights to track ash loading and compare this mass of ash to the amount predicted using the measured oil consumption mass and the oil ash concentration. The mass of ash found by DPF weight should fall within (55 to 70)% of the of mass predicted from oil consumption measurements.
+
+(i) You must incorporate a means to introduce the gaseous SO2 upstream of the aftertreatment system. Use good engineering judgment to ensure that gaseous SO2 is well mixed prior to entering the aftertreatment system. You must monitor the rate of gaseous SO2 introduction on a continuous basis.

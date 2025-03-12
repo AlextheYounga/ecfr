@@ -1,11 +1,3 @@
-##### § 548.306 Licenses; general and specific. #####
+##### § 548.306 Energy sector of the Belarus economy. #####
 
-(a) Except as otherwise specified, the term *license* means any license or authorization contained in or issued pursuant to this part.
-
-(b) The term *general license* means any license or authorization the terms of which are set forth in subpart E of this part.
-
-(c) The term *specific license* means any license or authorization not set forth in subpart E of this part but issued pursuant to this part.
-
-Note to § 548.306:
-
-See § 501.801 of this chapter on licensing procedures.
+The term *energy sector of the Belarus economy* includes the procurement, exploration, extraction, drilling, mining, harvesting, production, refinement, liquefaction, gasification, regasification, conversion, enrichment, fabrication, manufacturing, testing, financing, distribution, or transport to, from, or involving Belarus, of petroleum, natural gas, liquefied natural gas, natural gas liquids, or petroleum products, or other products capable of producing energy, such as coal, wood, or agricultural products used to manufacture biofuels; the development, production, testing, generation, transmission, financing, or exchange of power, through any means, including nuclear, electrical, thermal, and renewable, in or involving Belarus; and any related activities, including the provision or receipt of goods, services, or technology to, from, or involving the energy sector of the Belarus economy.

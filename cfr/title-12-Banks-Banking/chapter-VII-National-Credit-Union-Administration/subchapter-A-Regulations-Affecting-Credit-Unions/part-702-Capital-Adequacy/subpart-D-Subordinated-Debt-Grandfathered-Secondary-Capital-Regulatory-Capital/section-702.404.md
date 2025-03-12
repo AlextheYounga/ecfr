@@ -1,5 +1,7 @@
 ##### § 702.404 Requirements of the Subordinated Debt and Subordinated Debt Note. #####
 
+Link to an amendment published at 88 FR 18011, Mar. 27, 2023.
+
 (a) *Requirements.* At a minimum, the Subordinated Debt or the Subordinated Debt Note, as applicable, must:
 
 (1) Be in the form of a written, unconditional promise to pay on a specified date a sum certain in money in return for adequate consideration in money;

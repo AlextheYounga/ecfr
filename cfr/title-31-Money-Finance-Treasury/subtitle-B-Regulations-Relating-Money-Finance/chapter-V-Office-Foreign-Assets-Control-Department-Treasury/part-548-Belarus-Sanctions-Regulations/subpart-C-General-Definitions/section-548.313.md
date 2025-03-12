@@ -1,3 +1,3 @@
-##### § 548.313 Financial, material, or technological support. #####
+##### § 548.313 OFAC. #####
 
-The term *financial, material, or technological support,* as used in § 548.201(a)(2)(iv) of this part, means any property, tangible or intangible, including but not limited to currency, financial instruments, securities, or any other transmission of value; weapons or related materiel; chemical or biological agents; explosives; false documentation or identification; communications equipment; computers; electronic or other devices or equipment; technologies; lodging; safe houses; facilities; vehicles or other means of transportation; or goods. “Technologies” as used in this definition means specific information necessary for the development, production, or use of a product, including related technical data such as blueprints, plans, diagrams, models, formulae, tables, engineering designs and specifications, manuals, or other recorded instructions.
+The term *OFAC* means the Department of the Treasury's Office of Foreign Assets Control.

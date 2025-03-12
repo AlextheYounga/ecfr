@@ -1,0 +1,3 @@
+##### § 344.10 What are Special Zero Interest securities? #####
+
+Special zero interest securities were issued as certificates of indebtedness and notes. The provisions of subpart B of this part (Time Deposit securities) apply except as specified in subpart D of this part. Special Zero Interest securities were discontinued on October 28, 1996. The only zero interest securities available after October 28, 1996, are zero interest Time Deposit securities that are subject to subpart B of this part.

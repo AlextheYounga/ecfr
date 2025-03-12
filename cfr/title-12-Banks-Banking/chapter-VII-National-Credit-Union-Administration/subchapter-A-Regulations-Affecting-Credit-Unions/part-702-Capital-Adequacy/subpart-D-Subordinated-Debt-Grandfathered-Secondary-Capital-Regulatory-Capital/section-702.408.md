@@ -1,5 +1,7 @@
 ##### § 702.408 Preapproval to issue Subordinated Debt. #####
 
+Link to an amendment published at 88 FR 18011, Mar. 27, 2023.
+
 (a) *Scope.* This section requires all credit unions to receive written preapproval from the NCUA before issuing Subordinated Debt. Procedures related specifically to applications from federally insured, state-chartered credit unions are contained in § 702.409. A credit union seeking approval to offer and sell Subordinated Debt at one or more of its offices must also follow the application procedures in § 702.406(e). All approvals under this section are subject to the expiration limits specified in paragraph (k) of this section.
 
 (b) *Initial application to issue Subordinated Debt.* A credit union requesting approval to issue Subordinated Debt must first submit an application to the Appropriate Supervision Office that, at a minimum, includes:
@@ -58,7 +60,7 @@
 
 (d) *Offering Document.* Following receipt of written approval of its initial application, an Issuing Credit Union must prepare an Offering Document for each issuance of Subordinated Debt Notes. In addition, as required in paragraph (f) of this section, an Issuing Credit Union that intends to offer Subordinated Debt Notes to any Natural Person Accredited Investors must have the related Offering Document declared “approved for use” by the NCUA before its first use. At a reasonable time prior to any issuance and sale of Subordinated Debt Notes, the Issuing Credit Union must provide each investor with an Offering Document as described in this section. All Offering Documents must be filed with the NCUA within two business days after their respective first use.
 
-(e) *Requirements for all Offering Documents* - (1) *Minimum information required in an Offering Document.* An Offering Document must, at a minimum, include the following information:
+(e) *Requirements for all Offering Documents*—(1) *Minimum information required in an Offering Document.* An Offering Document must, at a minimum, include the following information:
 
 (i) The name of the Issuing Credit Union and the address of its principal executive office;
 
@@ -86,7 +88,7 @@ None of the Securities and Exchange Commission (the “SEC”), any state securi
 
 (ii) Where an Offering Document is distributed through an electronic medium, the Issuing Credit Union may satisfy legibility requirements applicable to printed documents, such as paper size, type size and font, bold-face type, italics and red ink, by presenting all required information in a format readily communicated to offerees and, where indicated, in a manner reasonably calculated to draw the attention of offerees to specific information.
 
-(f) *Offering Documents approved for use in offerings of Subordinated Debt to any Natural Person Accredited Investors* - (1) *Filing of a Draft Offering Document.* An Issuing Credit Union that intends to offer Subordinated Debt Notes to any Natural Person Accredited Investors must file a draft Offering Document with the NCUA and have such draft Offering Document declared “approved for use” by the NCUA before its first use.
+(f) *Offering Documents approved for use in offerings of Subordinated Debt to any Natural Person Accredited Investors*—(1) *Filing of a Draft Offering Document.* An Issuing Credit Union that intends to offer Subordinated Debt Notes to any Natural Person Accredited Investors must file a draft Offering Document with the NCUA and have such draft Offering Document declared “approved for use” by the NCUA before its first use.
 
 (i) *Request for additional information, clarifications, or amendments.* Prior to declaring any Offering Document “approved for use,” the NCUA may ask questions, request clarifications, or direct the Issuing Credit Union to amend certain sections of the draft Offering Document. The NCUA will make any such requests in writing.
 
@@ -96,7 +98,7 @@ None of the Securities and Exchange Commission (the “SEC”), any state securi
 
 (g) *Filing of an Offering Document for offerings of Subordinated Debt exclusively to Entity Accredited Investors.* An Issuing Credit Union that is offering Subordinated Debt exclusively to Entity Accredited Investors is not required to have its Offering Document “approved for use” by the NCUA under paragraph (f) of this section before using it to offer and sell the Subordinated Debt Notes. As described in this section, however, the Issuing Credit Union must file a copy of each of its Offering Documents with the NCUA within two business days after their respective first use.
 
-(h) *Material changes to any initial application or Offering Document* - (1) *Reapproval of initial application.* If any material event arises or material change in fact occurs after the approval of the initial application by the NCUA, but prior to the completion of the offer and sale of the related Subordinated Debt Notes, then no person shall offer or sell Subordinated Debt Notes to any other person until an amendment to the Offering Document reflecting the event or change has been filed with and approved by the NCUA.
+(h) *Material changes to any initial application or Offering Document*—(1) *Reapproval of initial application.* If any material event arises or material change in fact occurs after the approval of the initial application by the NCUA, but prior to the completion of the offer and sale of the related Subordinated Debt Notes, then no person shall offer or sell Subordinated Debt Notes to any other person until an amendment to the Offering Document reflecting the event or change has been filed with and approved by the NCUA.
 
 (2) *Reapproval of Offering Document.* If an Offering Document must be approved for use under paragraph (f) of this section, and any event arises or change in fact occurs after the approval for use of any Offering Document, and that event or change in fact, individually or in the aggregate, results in the Offering Document containing any untrue statement of material fact, or omitting to state a material fact necessary in order to make statements made in the Offering Document not misleading in light of the circumstances under which they were made, then no person shall offer or sell Subordinated Debt Notes to any other person until an amendment reflecting the event or change has been filed with and “approved for use” by the NCUA.
 
