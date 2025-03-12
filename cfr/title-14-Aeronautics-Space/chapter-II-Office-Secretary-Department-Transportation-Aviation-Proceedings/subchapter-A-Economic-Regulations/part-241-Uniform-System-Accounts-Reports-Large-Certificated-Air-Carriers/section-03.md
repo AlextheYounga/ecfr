@@ -1,12 +1,8 @@
 ##### Section 03 Definitions for Purposes of This System of Accounts and Reports #####
 
-Link to an amendment published at 84 FR 15931, Apr. 16, 2019.
-
 *Account, clearing.* An account used as a medium for the temporary accumulation of costs that are redistributed to appropriate applicable accounts.
 
 *Acquisition, date of.* The date on which the title to owned property or equipment (or the right to use or control the reassignment of leased property or equipment) passes to the air carrier.
-
-*Act.* The Federal Aviation Act of 1958, as amended.
 
 *Addition, property.* Additional equipment, land, structures, and other tangible property; extensions of fuel, water, and oil distribution equipment; additions to buildings and other structures; and additional safety devices applied to equipment not previously thus equipped. (See also *Modification.*)
 
@@ -30,7 +26,7 @@ Link to an amendment published at 84 FR 15931, Apr. 16, 2019.
 
 *Aircraft days assigned to service-carrier's equipment* means the number of days that aircraft owned or acquired through rental or lease are in the possession of the reporting air carrier and are available for service on the reporting carrier's routes plus the number of days such aircraft are in service on routes of others under wet-lease agreements. Includes days in overhaul, or temporarily out of service due to schedule cancellations. Excludes days that newly acquired aircraft are on hand but not available for productive use, days dry-leased or rented to others, and days in possession but formally withdrawn from air transportation service.
 
-*Aircraft day assigned to service-carrier routes* - same as *aircraft days assigned to service carrier's equipment* but excluding the number of days owned or rented equipment are in the possession of others under interchange agreements and including the number of days aircraft of others are in the possession of the air carrier under interchange agreements.
+*Aircraft day assigned to service-carrier routes*—same as *aircraft days assigned to service carrier's equipment* but excluding the number of days owned or rented equipment are in the possession of others under interchange agreements and including the number of days aircraft of others are in the possession of the air carrier under interchange agreements.
 
 *Aircraft, leased* (*rented*). Aircraft obtained from (or furnished to) others under lease or rental arrangements. Leased and rented aircraft do not include those used under interchange agreements designed to provide oneplane service over the routes of the air carriers involved.
 
@@ -44,7 +40,7 @@ Link to an amendment published at 84 FR 15931, Apr. 16, 2019.
 
 *Air transportation.* The carriage by aircraft of persons, property, or mail.
 
-*Air transportation, charter.* Air transportation authorized pursuant to section 401(d)(3).
+*Air transportation, charter.* Air transportation authorized pursuant to 49 U.S.C. 41102.
 
 *Airworthiness* (*or Airworthy*). When applied to a particular aircraft or component part, it denotes the ability of such aircraft or component part to perform its function satisfactorily through a range of operations determined by the Federal Aviation Administration.
 
@@ -148,9 +144,9 @@ Link to an amendment published at 84 FR 15931, Apr. 16, 2019.
 
 *Hours in capitalized projects, aircraft.* Aircraft hours applicable to ferrying newly acquired aircraft from the factory, to capitalized extension and development preoperating projects and to other costs which have been capitalized.
 
-*Hours per aircraft per day - carrier's equipment, revenue.* Average hours of productive use per day in revenue service of reporting carrier's equipment determined by dividing (1) Aircraft days assigned to service - carrier's equipment into (2) Revenue aircraft hours minus Revenue hours on other carrier's interchange equipment plus Total hours by others on the carrier's interchange equipment.
+*Hours per aircraft per day—carrier's equipment, revenue.* Average hours of productive use per day in revenue service of reporting carrier's equipment determined by dividing (1) Aircraft days assigned to service—carrier's equipment into (2) Revenue aircraft hours minus Revenue hours on other carrier's interchange equipment plus Total hours by others on the carrier's interchange equipment.
 
-*Hours per aircraft per day - carrier's routes, revenue.* Average hours of productive use per day in revenue service on reporting carrier's routes determined by dividing (1) Aircraft days assigned to service-carrier's routes into (2) Revenue aircraft hours.
+*Hours per aircraft per day—carrier's routes, revenue.* Average hours of productive use per day in revenue service on reporting carrier's routes determined by dividing (1) Aircraft days assigned to service-carrier's routes into (2) Revenue aircraft hours.
 
 *Hours, ramp-to-ramp.* The aircraft hours computed from the moment the aircraft first moves under it own power for purposes of flight, until it comes to rest at the next point of landing.
 
@@ -296,7 +292,7 @@ The definition includes, but is not limited to following examples of passengers 
 
 *Retirement, date of.* The date on which property or equipment is permanently withdrawn from services of the corporate entity.
 
-*Route, certificated.* The route(s) over which an air carrier is authorized to provide air transportation by a Certificate of Public Convenience and Necessity issued by the Department of Transportation pursuant to section 401(d) (1) or (2) of the Act.
+*Route, certificated.* The route(s) over which an air carrier is authorized to provide air transportation by a Certificate of Public Convenience and Necessity issued by the Department of Transportation pursuant to 49 U.S.C. 41102. This definition is applicable to an air carrier issued a Certificate of Public Convenience by the Civil Aeronautics Board before its sunset in 1984.
 
 *Salvage value.* The amount received for property retired, less the expenses incurred in connection with the sale or in the preparation of the property for sale; or, if retained, the amount at which the material recovered is charged to materials and supplies or other appropriate account.
 

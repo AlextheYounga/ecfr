@@ -1,6 +1,6 @@
 ##### § 221.120 Grounds for approving or denying Special Tariff Permission applications. #####
 
-(a) *General authority.* The Department may permit changes in fares, charges or other tariff provisions on less than the statutory notice required by section 41505 of the statute.
+(a) *General authority.* The Department may permit changes in fares, charges or other tariff provisions on less than the statutory notice required by section 41505 of 49 U.S.C. Subtitle VII.
 
 (b) *Grounds for approval.* The following facts and circumstances constitute some of the grounds for approving applications for Special Tariff Permission in the absence of other facts and circumstances warranting denial:
 

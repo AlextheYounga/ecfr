@@ -1,6 +1,6 @@
 ##### § 221.210 Suspension of tariffs. #####
 
-(a) A fare, charge, rule or other tariff provision that is suspended by the Department pursuant to section 41509 of the statute shall be noted by the Department in the Government Filing File and the Historical File.
+(a) A fare, charge, rule or other tariff provision that is suspended by the Department pursuant to section 41509 of 49 U.S.C. Subtitle VII shall be noted by the Department in the Government Filing File and the Historical File.
 
 (b) When the Department vacates a tariff suspension, in full or in part, and after notification of the carrier by the Department, such event shall be noted by the carrier in the Government Filing File and the Historical File.
 

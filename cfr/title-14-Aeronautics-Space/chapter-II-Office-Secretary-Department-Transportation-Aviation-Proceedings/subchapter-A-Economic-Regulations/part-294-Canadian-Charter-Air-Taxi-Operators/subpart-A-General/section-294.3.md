@@ -12,7 +12,7 @@ A Canadian charter air taxi operator shall conduct charter air service between t
 
 (e) Has effective authority from the Government of Canada to conduct charter air service between the United States and Canada.
 
-(f) Has been granted Federal Aviation Administration operations specifications required under part 129 of the Federal Aviation Regulations;
+(f) Has been granted Federal Aviation Administration operations specifications required under part 129 of this title (the Federal Aviation Regulations);
 
 (g) Is substantially owned and effectively controlled by Canadian citizens, or the Government of Canada, or a combination of both; and
 

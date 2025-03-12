@@ -1,6 +1,6 @@
 ##### Section 24 Profit and Loss Elements #####
 
-Link to an amendment published at 84 FR 15932, Apr. 16, 2019.Schedule P-1.1 - Statement of Operations
+Schedule P-1.1—Statement of Operations
 
 (a) This schedule shall be filed semiannually by Group I air carriers with annual operating revenues below $20 million. Data reported on this schedule shall be for the overall or system operations of the air carrier.
 
@@ -50,9 +50,9 @@ Link to an amendment published at 84 FR 15932, Apr. 16, 2019.Schedule P-1.1 - St
 
 (i) “Discontinued Operations, Extraordinary Items or Accounting Changes” shall reflect any earnings or losses from discontinued operations, the net of the tax amount of extraordinary items, and the cumulative effect of any changes in accounting principles.
 
-(j) Any air carrier that does not file Schedule P-1(a) in accordance with the filing option described in section 22 - General Reporting Instructions shall, for the sixth month of any semi-annual period during which the option is exercised, type in the bottom margin of this statement of operations the total number of full-time and part-time employees to be labeled as such and calculated in accordance with paragraph (d) of the reporting instructions for Schedule P-1(a).
+(j) Any air carrier that does not file Schedule P-1(a) in accordance with the filing option described in section 22—General Reporting Instructions shall, for the sixth month of any semi-annual period during which the option is exercised, type in the bottom margin of this statement of operations the total number of full-time and part-time employees to be labeled as such and calculated in accordance with paragraph (d) of the reporting instructions for Schedule P-1(a).
 
-Schedule P-1.2 - Statement of Operations
+Schedule P-1.2—Statement of Operations
 
 (a) This schedule shall be filed quarterly by all Group II and Group III air carriers and Group I air carriers that have annual operating revenues of $20 million or more.
 
@@ -66,9 +66,9 @@ Schedule P-1.2 - Statement of Operations
 
 (f) All Group I and Group II air carriers shall report first class and coach passenger revenues as a combined total in Account 3901 Transport Revenues-Passenger, for both domestic and international entity operations. However, U.S. air carriers in any carrier group that elect to do so may continue to report first class and coach revenue data, if they consider such voluntary reporting to be less burdensome than changing their existing financial reporting system.
 
-(g) Any air carrier that does not file Schedule P-1(a) in accordance with the filing option described in section 22 - General Reporting Instructions shall, for the third month of any calendar quarter during which the option is exercised, type in the bottom margin of the system statement of operations the total number of full-time and part-time employees to be labeled as such and calculated in accordance with paragraph (d) of the reporting instructions for Schedule P-1(a).
+(g) Any air carrier that does not file Schedule P-1(a) in accordance with the filing option described in section 22—General Reporting Instructions shall, for the third month of any calendar quarter during which the option is exercised, type in the bottom margin of the system statement of operations the total number of full-time and part-time employees to be labeled as such and calculated in accordance with paragraph (d) of the reporting instructions for Schedule P-1(a).
 
-Schedule P-1(a) - Interim Income Statement
+Schedule P-1(a)—Interim Income Statement
 
 (a) This schedule shall be filed by all air carriers.
 
@@ -86,7 +86,7 @@ Schedule P-1(a) - Interim Income Statement
 
 (4) Net income,
 
-(5) Passenger revenues - scheduled service,
+(5) Passenger revenues—scheduled service,
 
 (6) Public service revenues (subsidy) and other information on
 
@@ -96,7 +96,7 @@ Schedule P-1(a) - Interim Income Statement
 
 (e) In the event of a labor strike, the “number of employees” to be reported on this schedule shall be determined on and actual payroll basis. Actual payroll shall be determined in accordance with paragraph (d) of these reporting instructions. An air carrier that on October 24, 1978, held a certificate issued under 49 U.S.C. 41102 shall also report in a footnote on this schedule the number of full-time employees who were deprived of employment because of a strike (*i.e.,* the number of full-time employees who, but for a strike, would have been included in the number reported in accordance with paragraph (d)(7)).
 
-Schedule P-2 - Notes to BTS Form 41 Report
+Schedule P-2—Notes to BTS Form 41 Report
 
 (a) This schedule shall be filed quarterly by all Group II and Group III air carriers and Group I air carriers with annual revenues of $20 million or more. Carriers shall submit Schedule P-2 in a format specified in accounting and reporting directives issued by the Bureau of Transportation Statistics' Director of Airline Information.
 
@@ -114,7 +114,7 @@ Schedule P-2 - Notes to BTS Form 41 Report
 
 (3) For the report period in which scheduled operations are resumed, dates of partial and/or complete resumption, as applicable.
 
-Schedule P-5.1 - Aircraft Operating Expenses
+Schedule P-5.1—Aircraft Operating Expenses
 
 (a) This schedule shall be filed by all Group I air carriers. Group I air carriers that have annual operating revenues of $20 million or more shall file this schedule quarterly and only report direct operating expense data (lines 1 thru 9). Group I air carriers with annual operating revenues below $20 million shall file this schedule semiannually and report both direct and indirect operating expense data (lines 1 thru 16).
 
@@ -124,7 +124,7 @@ Schedule P-5.1 - Aircraft Operating Expenses
 
 (d) Route and charter air carriers subject to the quarterly filing requirement shall file this schedule for each operating entity of the air carrier. Air carriers subject to the semiannual filing requirement shall file this schedule for the overall or system operations of the air carrier.
 
-(e) This schedule shall show the direct and indirect expenses incurred in aircraft operations plus total aircraft hours, gallons of fuel issued, and aircraft days assigned to service. Direct expense data applicable to each aircraft type operated by the carrier shall be reported in separate colums of this schedule. Each aircraft type reported shall be identified at the head of each column in the space provided. “Aircraft Type” refers to aircraft models such as B-707-100, B-707-200, DC-10-40, Beech-18, Piper PA-32, etc, Aircraft Type designations are prescribed in the Accounting and Reporting Directives, which is available from the Board's Information Management Division. In the space provided for “Aircraft Code” carriers shall insert the four digit code which is prescribed in the Accounting and Reporting Directives for the reported aircraft type.
+(e) This schedule shall show the direct and indirect expenses incurred in aircraft operations plus total aircraft hours, gallons of fuel issued, and aircraft days assigned to service. Direct expense data applicable to each aircraft type operated by the carrier shall be reported in separate colums of this schedule. Each aircraft type reported shall be identified at the head of each column in the space provided. “Aircraft Type” refers to aircraft models such as B-707-100, B-707-200, DC-10-40, Beech-18, Piper PA-32, etc, Aircraft Type designations are prescribed in the Accounting and Reporting Directives, which is available from the Office of Airline Information, RTS-42. In the space provided for “Aircraft Code” carriers shall insert the four digit code which is prescribed in the Accounting and Reporting Directives for the reported aircraft type.
 
 (f) Direct aircraft operating expenses shall be reported in the following categories:
 
@@ -164,7 +164,7 @@ Schedule P-5.1 - Aircraft Operating Expenses
 
 (l) Line 19 “Aircraft Days Assigned to Service” equals the number of days that aircraft owned or acquired through rental or lease are in the possession of the reporting air carrier and are available for service on the reporting carrier's routes plus the number of days such aircraft are in service on routes of others under wet-lease agreements. Includes days in overhaul, or temporarily out of service due to schedule cancellations. Excludes days that newly acquired aircraft are on hand but not available for productive use, days dry-leased or rented to others, and days in possession but formally withdrawn from air transportation service.
 
-Schedule P-5.2 - Aircraft Operating Expenses and Related Statistics
+Schedule P-5.2—Aircraft Operating Expenses and Related Statistics
 
 (a) This schedule shall be filed by all Group II and Group III air carriers.
 
@@ -178,11 +178,11 @@ Schedule P-5.2 - Aircraft Operating Expenses and Related Statistics
 
 (f) Item 79.6 “Applied Maintenance Burden” shall reflect a memorandum allocation by each air carrier of the total expenses included in subfunction 5300 “Maintenance Burden” between maintenance of flight equipment, by aircraft type, and maintenance of ground property and equipment. The allocation of subfunction 5300 (maintenance burden) shall include the net effect of charges and credits to profit and loss account 5272 Flight Equiment Airworthiness Provisions.
 
-(g) Item 73 “Obsolescence and Deterioration - Expendable Parts” shall reflect (for obsolescence and deterioration of flight equipment expandable parts) the gross provisions for losses in value of expendable parts during the current accounting period offset by any credits applicable to the current period for adjustments for excess inventory levels determined pursuant to section 6-1311.
+(g) Item 73 “Obsolescence and Deterioration—Expendable Parts” shall reflect (for obsolescence and deterioration of flight equipment expandable parts) the gross provisions for losses in value of expendable parts during the current accounting period offset by any credits applicable to the current period for adjustments for excess inventory levels determined pursuant to section 6-1311.
 
 (h) The total of function 5100 “Flying Operations” reported on this schedule shall agree with corresponding amounts reported on Schedule P-1.2.
 
-Schedule P-6 - Operating Expenses by Objective Groupings
+Schedule P-6—Operating Expenses by Objective Groupings
 
 (a) This schedule shall be filed quarterly by all Group II and Group III air carriers and Group I air carriers that have annual operating revenues of $20 million or more.
 
@@ -190,7 +190,7 @@ Schedule P-6 - Operating Expenses by Objective Groupings
 
 (c) Line 36 “Total Operating Expenses” shall agree with the corresponding amount reported on Schedule P-1.
 
-Schedule P-7 - Operating Expenses by Functional Groupings - Group III Air Carriers
+Schedule P-7—Operating Expenses by Functional Groupings—Group III Air Carriers
 
 (a) This schedule shall be filed by all Group III air carriers.
 
@@ -198,7 +198,7 @@ Schedule P-7 - Operating Expenses by Functional Groupings - Group III Air Carrie
 
 (c) Line 38 “Total Operating Expenses” shall agree with the corresponding amount reported on Schedule P-1.2.
 
-Schedule P-10 - Employment Statistics by Labor Category
+Schedule P-10—Employment Statistics by Labor Category
 
 (a) This schedule shall be filed annually by all Group II and Group III air carriers and Group I air carriers that have annual operating revenues of $20 million or more.
 
@@ -206,11 +206,11 @@ Schedule P-10 - Employment Statistics by Labor Category
 
 (c) Column 3, “Number of Employees,” shall reflect, for each category in column 1, the weighted average number of full-time employees who received pay for any part of the calendar year. In determining the weighted average, all temporary or part-time employees shall be restated, based on their hours paid, as an equivalent number of full-time employees. The calculation shall be based on a standard full-time 2,080/hour year with overtime hours excluded from the computation.
 
-(d) Labor category description - “Other personnel” shall include all employees whose salary is chargeable to accounts 30, 32, 34 and 35 in this Uniform System of Accounts and Reports.
+(d) Labor category description—“Other personnel” shall include all employees whose salary is chargeable to accounts 30, 32, 34 and 35 in this Uniform System of Accounts and Reports.
 
-(e) Labor category description - “Transport-related” shall include all employees whose salary is not chargeable to one of the various salary accounts contained in the Uniform System of Accounts and Reports. For example, this category would include those employees who work in transport-related operations and other activities for which a separate payroll account is not prescribed. The number of employees reported as transport-related shall be calculated in accordance with paragraph (c) of these reporting instructions.
+(e) Labor category description—“Transport-related” shall include all employees whose salary is not chargeable to one of the various salary accounts contained in the Uniform System of Accounts and Reports. For example, this category would include those employees who work in transport-related operations and other activities for which a separate payroll account is not prescribed. The number of employees reported as transport-related shall be calculated in accordance with paragraph (c) of these reporting instructions.
 
-Schedule P-12(a) - Fuel Consumption by Type of Service and Entity
+Schedule P-12(a)—Fuel Consumption by Type of Service and Entity
 
 (a) This schedule shall be filed monthly by all Group II and Group III air carriers and Group I air carriers that have annual operating revenues of $20 million or more.
 

@@ -1,7 +1,5 @@
 ##### § 211.20 Initial foreign air carrier permit or transfer of a permit. #####
 
-Link to an amendment published at 84 FR 15925, Apr. 16, 2019.
-
 A person applying for an initial foreign air carrier permit or the transfer of a permit shall submit the information listed below. The applicant must fully comply with this requirement. If the applicant is unable to respond to an item, the application shall contain an explanation, and include substitute information most closely approximating the information requested. The Department may require an applicant to provide additional information as necessary.
 
 (a) State the name and address of the applicant, the nature of its organization (individual, partnership, corporation, etc.), and, if other than an individual, the name of the country under the laws of which it is organized and the statutory citation of such laws, if any.
@@ -14,7 +12,7 @@ A person applying for an initial foreign air carrier permit or the transfer of a
 
 (2) A description of the services proposed, specifying:
 
-(i) The point or points in the United States proposed to be served:
+(i) The point or points in the United States proposed to be served;
 
 (ii) The frequency of service planned at the start of operations, indicating any seasonal variations; whether the service proposed is to be scheduled, nonscheduled or charter; whether the service would be passenger, or property and mail, or a combination; and the type of equipment (and configuration) to be used; and
 
@@ -96,4 +94,4 @@ A person applying for an initial foreign air carrier permit or the transfer of a
 
 (t) Submit 3 completed copies of OST Form 4523 (Waiver of liability limits under the Warsaw Convention).
 
-(Approved by the Office of Management and Budget under control number 3024-0068)[ER-1386, 49 FR 33439, Aug. 23, 1984, as amended by ER-1397, 49 FR 50027, Dec. 26, 1984; 61 FR 34725, July 3, 1996]
+(Approved by the Office of Management and Budget under control number 3024-0068)[ER-1386, 49 FR 33439, Aug. 23, 1984, as amended by ER-1397, 49 FR 50027, Dec. 26, 1984; 61 FR 34725, July 3, 1996; Doc. No. DOT-OST-2014-0140, 84 FR 15925, Apr. 16, 2019]

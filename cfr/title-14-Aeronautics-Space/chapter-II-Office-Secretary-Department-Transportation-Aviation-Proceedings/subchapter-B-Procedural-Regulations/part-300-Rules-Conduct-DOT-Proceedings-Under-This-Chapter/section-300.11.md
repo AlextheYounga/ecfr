@@ -1,7 +1,5 @@
-##### § 300.11 Disqualification of Government officers and employees. #####
+##### § 300.11 Use of confidential information. #####
 
-Link to an amendment published at 84 FR 15935, Apr. 16, 2019.
+No former CAB member or employee or DOT employee, or any person associated with him or her, shall ever use or undertake to use in any DOT proceeding or matter any confidential facts or information which came into the possession of such Member or employee or to his or her attention by reason of his or her employment with the CAB or DOT without first applying for and obtaining the consent of the appropriate ethics counselor for the use of such facts or information.
 
-No officer or employee of the Federal Government, other than a “special Government employee” as defined in 18 U.S.C. 202, shall represent anyone, otherwise than in the proper discharge of his or her official duties, in any DOT proceeding or matter in which the United States is a party or has a direct and substantial interest.
-
-(18 U.S.C. 205)
+[Docket No. 82, 50 FR 2380, Jan. 16, 1985. Redesignated and amended by Doc. No. DOT-OST-2014-0140, 84 FR 15935, Apr. 16, 2019]

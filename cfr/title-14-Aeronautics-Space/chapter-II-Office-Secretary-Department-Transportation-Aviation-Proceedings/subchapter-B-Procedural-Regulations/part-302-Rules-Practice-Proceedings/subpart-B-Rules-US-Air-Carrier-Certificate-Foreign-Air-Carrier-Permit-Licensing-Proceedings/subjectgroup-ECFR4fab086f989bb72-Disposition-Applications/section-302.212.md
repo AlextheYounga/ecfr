@@ -1,6 +1,6 @@
 ##### § 302.212 Procedures in certificate cases involving international routes. #####
 
-(a) *Applicability.* This section applies to cases involving certificates under section 41102 of the Statute that involve international routes, including applications to obtain, renew, amend, transfer, or remove restrictions in such certificates.
+(a) *Applicability.* This section applies to cases involving certificates under section 41102 of 49 U.S.C. Subtitle VII that involve international routes, including applications to obtain, renew, amend, transfer, or remove restrictions in such certificates.
 
 (b) *Answers to applications.* Answers shall be filed within twenty one (21) days after the filing of the original application.
 

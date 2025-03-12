@@ -1,6 +1,6 @@
 ##### § 298.11 Exemption authority. #####
 
-Air taxi operators and commuter air carriers are hereby relieved from the following provisions of the Statute only if and so long as they comply with the provisions of this part and the conditions imposed herein, and to the extent necessary to permit them to conduct air taxi or commuter air carrier operations:
+Air taxi operators and commuter air carriers are hereby relieved from the following provisions of 49 U.S.C. Subtitle VII only if and so long as they comply with the provisions of this part and the conditions imposed herein, and to the extent necessary to permit them to conduct air taxi or commuter air carrier operations:
 
 (a) Section 41101;
 

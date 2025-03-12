@@ -1,8 +1,6 @@
 ##### § 298.21 Filing for registration by air taxi operators. #####
 
-Link to an amendment published at 84 FR 15935, Apr. 16, 2019.
-
-(a) Every air taxi operator who plans to commence operations under this part shall register with the Department not later than 30 days prior to the commencement of such operations, unless, upon a showing of good cause satisfactory to the Manager, Program Management Branch (AFS-260), Federal Aviation Administration, registration within a lesser period of time is allowed.
+(a) Every air taxi operator who plans to commence operations under this part shall register with the Department not later than 30 days prior to the commencement of such operations, unless, upon a showing of good cause satisfactory to the Manager, Technical Programs Branch (AFS-260), Federal Aviation Administration, registration within a lesser period of time is allowed.
 
 (b) The registration of an air taxi operator shall remain in effect until it is amended by the carrier or canceled by the Department.
 
@@ -10,7 +8,8 @@ Link to an amendment published at 84 FR 15935, Apr. 16, 2019.
 
 (1) Air Taxi Registration (OST Form 4507), executed in duplicate.6 This form shall be certified by a responsible official and shall include the following information:
 
-6 OST Form 4507 can be obtained from the Manager, Program Management Branch, Federal Aviation Administration, AFS-260, or on the World Wide Web at *http://www.faa.gov/avr/afs/afs200/afs260/Part298.cfm.*
+6 OST Form 4507 can be obtained from the Manager,
+Technical Programs Branch, Federal Aviation Administration, AFS-260 at (202) 267-8166, or on the internet at *https://www.faa.gov/about/office\_org/headquarters\_offices/avs/offices/afx/afs/afs200/afs260/exemptions/*
 
 (i) The name of the carrier and its mailing address;
 
@@ -36,4 +35,6 @@ Link to an amendment published at 84 FR 15935, Apr. 16, 2019.
 
 (3) An 8 dollar ($8) registration filing fee in the form of a check, draft, or postal money order payable to the Department of Transportation.
 
-(d) Registrations required in paragraph (c) of this section shall be submitted to the Department of Transportation, Federal Aviation Administration, Program Management Branch (AFS-260), 800 Independence Avenue, SW., Washington, DC 20591. For those air taxi operators that have a mailing address in the State of Alaska, the registrations shall be filed with the Department of Transportation, Federal Aviation Administration, Alaskan Region Headquarters (AAL-230), 222 West 7th Avenue, Box 14, Anchorage, Alaska 99513.
+(d) Registrations required in paragraph (c) of this section shall be submitted to the Department of Transportation, Federal Aviation Administration,Technical Programs Branch (AFS-260), 800 Independence Avenue SW, Room 831, Washington, DC 20591. For those air taxi operators that have a mailing address in the State of Alaska, the registrations shall be filed with the Department of Transportation, Federal Aviation Administration, Alaskan Region Headquarters (AAL-230), 222 West 7th Avenue, Box 14, Anchorage, Alaska 99513.
+
+[70 FR 25768, May 16, 2005, as amended by DOT-OST-2014-0140, 84 FR 15935, Apr. 16, 2019]

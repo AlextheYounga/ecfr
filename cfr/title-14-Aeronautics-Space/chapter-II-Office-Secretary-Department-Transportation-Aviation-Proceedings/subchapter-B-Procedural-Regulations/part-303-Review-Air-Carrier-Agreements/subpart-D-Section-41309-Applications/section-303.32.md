@@ -1,0 +1,7 @@
+##### § 303.32 Service of the application. #####
+
+(a) Except as provided in paragraph (b) of this section, a section 41309 application described in § 303.30(c) of this subpart and any related pleadings shall be served on any person or organization that has previously advised the air carrier association of its desire for service of such agreements. Each application shall contain the names and addresses of all persons served and a notice that any party in interest may within 21 days of the date of the application file comments with the Assistant Secretary in support or opposition to the application.
+
+(b) Service of IATA Traffic Conference agreements and amendments thereto upon any person or organization that previously has advised IATA of its desire for service of agreements may be accomplished by sending a summary notice specifying the filing date; the IATA memorandum number; the particular Conferences involved; the subject matter (e.g., cargo/passenger, tariffs/agency matters/ procedures); the proposed effective date(s); the markets or Conference areas affected; the names of the carriers participating in the agreement; the names of all persons served; and a notice that any party in interest may within 21 days of the date of filing of the application file comments with the Assistant Secretary in support of or opposition to the application. A request for a complete copy of the application can be made under the provisions of § 303.04(j).
+
+[50 FR 31142, July 31, 1985, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15937, Apr. 16, 2019]

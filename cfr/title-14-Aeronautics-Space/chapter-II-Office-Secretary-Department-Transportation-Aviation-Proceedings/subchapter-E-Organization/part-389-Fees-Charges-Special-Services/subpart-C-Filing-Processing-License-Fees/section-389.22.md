@@ -1,11 +1,3 @@
 ##### § 389.22 Failure to make proper payment. #####
 
-(a)(1) Except as provided in § 389.23, documents (except tariff publications) which are not accompanied by filing fees shall be returned to the filing party, and such documents shall not be considered as filed by the Board.
-
-(2) Except as provided in § 389.23, records which are not accompanied by the appropriate filing fees shall be retained and considered filed with the Department. The Department will notify the filer concerning the nonpayment or underpayment of the filing fees, and will also notify the filer that the records will not be processed until the fees are paid.
-
-(b) The filing fee tendered by a filing party shall be accepted by the Board office to whom payment is made, subject to post audit by the Chief of the Board's Finance Division and notification to the filing party within 30 days of any additional amount due. Not more than 5 days after receipt of the notification, the determination of the Chief, Finance Division, may be appealed to the Managing Director of the Board, who has been delegated authority by the Board to decide such appeals in § 385.12 of this chapter. The filing party may submit to the Board a petition for review of the Managing Director's decision pursuant to § 385.50 of this chapter, and proceedings thereon will be governed by part 385, subpart C, of this chapter.
-
-(c) The amount found due by the Chief, Finance Division, shall be paid within 10 days of notification except that (1) if that decision is appealed to the Managing Director, the amount due shall be paid within 10 days after the Managing Director notifies the filing party that he has affirmed or modified the decision of the Chief, Finance Division; and (2) if the decision of the Managing Director is appealed to the Board, the amount due shall be paid within 10 days after the Board notifies the filing party that it has affirmed or modified the staff decision. If the amount due is not paid, the document (except a tariff publication) shall be returned to the filing party along with the fee tendered, and such document shall be deemed to have been dismissed or withdrawn.
-
-[OR-27, 33 FR 70, Jan. 4, 1968, as amended by OR-96, 40 FR 20613, May 12, 1975; Amdt. 389-37, 54 FR 2099, Jan. 19, 1989]
+In accordance with 49 CFR part 7, subpart F, § 7.42, the Department will assess interest on unpaid fees on the 31st day following the day on which a notice of the amount due is first mailed to the requestor, unless the Department has granted an application for waiver or modification of the fees.

@@ -1,7 +1,5 @@
 ##### § 300.2 Prohibited communications. #####
 
-Link to an amendment published at 84 FR 15935, Apr. 16, 2019.
-
 (a) *Basic requirement.* Except as provided in paragraphs (c), (d) and (e) there shall be no substantive communication in either direction between any concerned DOT employee and any interested person outside DOT, concerning a public proceeding, until after final disposition of the proceeding, other than as provided by Federal statute or published DOT rule or order.
 
 (b) *Definitions.* For purposes of this part:
@@ -34,7 +32,7 @@ Link to an amendment published at 84 FR 15935, Apr. 16, 2019.
 
 (4) Settlement discussions and mediation efforts.
 
-(5) Information given at the request of a DOT employee acting upon a specific direction of DOT, in a case other than a hearing proceeding as described in paragraphs (b)(4) (i) and (ii) (a “nonhearing case”), where DOT has decided that emergency conditions exist and this rule would otherwise prevent the obtaining of needed information in a timely manner.
+(5) Information given at the request of a DOT employee acting upon a specific direction of DOT, in a case other than a hearing proceeding as described in paragraphs (b)(4) (i) and (ii) (a “nonhearing case”), where DOT has decided that emergency conditions exist and this section would otherwise prevent the obtaining of needed information in a timely manner.
 
 (6) Information given at the request of a DOT employee in a tariff matter after a complaint is filed but before an investigation is ordered.
 
@@ -52,4 +50,4 @@ Link to an amendment published at 84 FR 15935, Apr. 16, 2019.
 
 (f) *Communications not considered.* A communication in violation of this section shall not be considered part of a record, or included as available material, for decision in any proceeding.
 
-[Doc. No. 82, 50 FR 2380, Jan. 16, 1985, as amended by Amdt. 300-7, 52 FR 18904, May 20, 1987; 60 FR 10312, Feb. 24, 1995; 60 FR 43528, Aug. 22, 1995; 60 FR 43528, Aug. 22, 1995; 65 FR 6456, Feb. 9, 2000]
+[Doc. No. 82, 50 FR 2380, Jan. 16, 1985, as amended by Amdt. 300-7, 52 FR 18904, May 20, 1987; 60 FR 10312, Feb. 24, 1995; 60 FR 43528, Aug. 22, 1995; 60 FR 43528, Aug. 22, 1995; 65 FR 6456, Feb. 9, 2000; Doc. No. DOT-OST-2014-0140, 84 FR 15935, Apr. 16, 2019]

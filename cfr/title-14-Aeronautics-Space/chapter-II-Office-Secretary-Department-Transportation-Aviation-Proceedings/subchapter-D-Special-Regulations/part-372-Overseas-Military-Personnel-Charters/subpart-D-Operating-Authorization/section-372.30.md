@@ -1,8 +1,6 @@
 ##### § 372.30 Application. #####
 
-Link to an amendment published at 84 FR 15938, Apr. 16, 2019.
-
-(a) *Application.* Any person desiring to operate as an overseas military personnel charter operator may apply to the Department for an appropriate operating authorization. Contact the Office of Aviation Analysis, Special Authorities Division, for filing instructions. The application shall be certified by a responsible official of such person and shall contain the following information:
+(a) *Application.* Any person desiring to operate as an overseas military personnel charter operator may apply to the Department for an appropriate operating authorization. Contact the Office of International Aviation, Special Authorities Division, for filing instructions. The application shall be certified by a responsible official of such person and shall contain the following information:
 
 (1) Date;
 
@@ -20,7 +18,7 @@ Link to an amendment published at 84 FR 15938, Apr. 16, 2019.
 
 (8) List of names of the officers, owners, etc., of applicants who have at any time applied for any type of authority or registration from the Civil Aeronautics Board or the Department of Transportation and, if applicable, reasons for revocation or other termination;
 
-(9) List of officers, owners, etc., of applicant who have at any time been employed by or associated with any air carrier authorized to operate by the Civil Aeronautics Board or the Department of Transportation indicating dates of employment and capacity in which employed;
+(9) List of officers, owners, etc., of applicants who have at any time been employed by or associated with any air carrier authorized to operate by the Civil Aeronautics Board or the Department of Transportation indicating dates of employment and capacity in which employed;
 
 (10) Any additional information in support of application;
 
@@ -34,4 +32,4 @@ Link to an amendment published at 84 FR 15938, Apr. 16, 2019.
 
 (b) *Additional information.* The applicant shall also submit such other additional information pertinent to its proposed activities as may be requested by the Department with respect to any individual application.
 
-[SPR-54, 37 FR 11163, June 3, 1972, as amended by Doc. No. 47939, 57 FR 40105, Sept. 2, 1992; 60 FR 43529, Aug. 22, 1995]
+[SPR-54, 37 FR 11163, June 3, 1972, as amended by Doc. No. 47939, 57 FR 40105, Sept. 2, 1992; 60 FR 43529, Aug. 22, 1995; Doc. No. DOT-OST-2014-0140, 84 FR 15938, Apr. 16, 2019]

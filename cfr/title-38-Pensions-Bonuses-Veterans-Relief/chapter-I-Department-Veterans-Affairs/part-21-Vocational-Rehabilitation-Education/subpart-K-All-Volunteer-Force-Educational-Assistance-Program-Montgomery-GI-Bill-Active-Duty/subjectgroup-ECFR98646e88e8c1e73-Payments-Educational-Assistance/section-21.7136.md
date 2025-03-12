@@ -2,7 +2,7 @@
 
 The monthly rate of educational assistance payable to a veteran or servicemember depends in part upon the service requirements he or she met to establish eligibility for that educational assistance.
 
-(a) *Service requirements for higher rates.* The monthly rate of basic educational assistance payable to a veteran or servicemember shall be the rate stated in paragraph (b) of this section when -
+(a) *Service requirements for higher rates.* The monthly rate of basic educational assistance payable to a veteran or servicemember shall be the rate stated in paragraph (b) of this section when—
 
 (1) The veteran has established eligibility for educational assistance under § 21.7045; or
 
@@ -12,11 +12,11 @@ The monthly rate of educational assistance payable to a veteran or servicemember
 
 (ii) The veteran's qualifying obligated period of active duty is at least two years and less than three years and either the veteran has served or is committed to serve in the Selected Reserve for a period of at least four years, or the veteran was committed to serve in the Selected Reserve for a period of at least four years but failed to complete four years service for one of the reasons stated in § 21.7042(b)(7)(i) or (iii); or
 
-(iii) The veteran's qualifying obligated period of active duty is at least two years and less than three years and -
+(iii) The veteran's qualifying obligated period of active duty is at least two years and less than three years and—
 
 (A) The basic educational assistance is payable for training received after August 31, 1993;
 
-(B) The veteran's continuous active duty service beginning on the date of the commencement of his or her qualifying obligated period of active duty is at least three years and upon completion of that continuous period of active duty the veteran either -
+(B) The veteran's continuous active duty service beginning on the date of the commencement of his or her qualifying obligated period of active duty is at least three years and upon completion of that continuous period of active duty the veteran either—
 
 (*1*) Continues on active duty; or
 
@@ -28,189 +28,55 @@ The monthly rate of educational assistance payable to a veteran or servicemember
 
 (Authority: 38 U.S.C. 3015(a))
 
-(b) *Rates.* (1) Except as elsewhere provided in this section or in § 21.7139, basic educational assistance is payable to a veteran whose service is described in paragraph (a) of this section at the following monthly rates:
+(b) *Rates for veterans whose service is described in paragraph (a) of this section*—(1) *Institutional training (full-time rate of pursuit).* Except as elsewhere provided in this section or in § 21.7139, the monthly rate of basic educational assistance payable to a veteran whose service is described in paragraph (a) of this section and who is pursuing full-time institutional training will be the applicable rate provided in 38 U.S.C. 3015(a), as increased each fiscal year in accordance with 38 U.S.C. 3015(h).
 
-(i) For training that occurs after September 30, 2005, and before October 1, 2006:
+(2) *Institutional training (less than full-time rate of pursuit).* Except as elsewhere provided in this section or in § 21.7139, the monthly rate of basic educational assistance payable to a veteran whose service is described in paragraph (a) of this section and who is pursuing less than full-time institutional training, as determined in accordance with § 21.4270, will be the full-time rate described in paragraph (b)(1) of this section reduced proportionately based on the rate of pursuit in accordance with the following:
 
-|             Training             |Monthly rate|
-|----------------------------------|------------|
-|            Full time             |  $1034.00  |
-|             3/4 time             |   775.50   |
-|             1/2 time             |   517.00   |
-|Less than1/2 but more than1/4 time|   517.00   |
-|             1/4 time             |   258.50   |
+|              Training              |Percentage of  <br/>full-time  <br/>monthly rate|
+|------------------------------------|------------------------------------------------|
+|              3/4 time              |                       75                       |
+|              1/2 time              |                       50                       |
+|Less than 1/2 but more than 1/4 time|                       50                       |
+|              1/4 time              |                       25                       |
 
-(Authority: 38 U.S.C. 3015)
+(3) *Apprenticeship or other on-job training.* The monthly rate of basic educational assistance payable to a veteran whose service is described in paragraph (a) of this section and who is pursuing apprenticeship or other on-job training will be the full-time rate described in paragraph (b)(1) of this section reduced in accordance with the following:
 
-(ii) For training that occurs after September 30, 2006, and before October 1, 2007:
+|       Training period       |Percentage of  <br/>full-time  <br/>monthly rate|
+|-----------------------------|------------------------------------------------|
+|First six months of training |                       75                       |
+|Second six months of training|                       55                       |
+|Remaining pursuit of training|                       35                       |
 
-|             Training             |Monthly rate|
-|----------------------------------|------------|
-|            Full time             |  $1075.00  |
-|             3/4 time             |   806.25   |
-|             1/2 time             |   537.50   |
-|Less than1/2 but more than1/4 time|   537.50   |
-|             1/4 time             |   268.75   |
-
-(Authority: 38 U.S.C. 3015)
-
-(iii) For training that occurs after September 30, 2007, and before August 1, 2008:
-
-|             Training             |Monthly rate|
-|----------------------------------|------------|
-|            Full time             |  $1101.00  |
-|             3/4 time             |   825.75   |
-|             1/2 time             |   550.50   |
-|Less than1/2 but more than1/4 time|   550.50   |
-|             1/4 time             |   275.25   |
-
-(Authority: 38 U.S.C. 3015)
-
-(2) If a veteran's service is described in paragraph (a) of this section, basic educational assistance is payable to the veteran for pursuit of apprenticeship or other on-job training at the following monthly rates:
-
-(i) For training that occurs after September 30, 2005, and before October 1, 2006:
-
-|       Training period       |Monthly rate|
-|-----------------------------|------------|
-|First six months of training |  $878.90   |
-|Second six months of training|   672.10   |
-|Remaining pursuit of training|   465.30   |
+(4) *Cooperative training.* Except as elsewhere provided in this section or in § 21.7139, the monthly rate of basic educational assistance payable to a veteran whose service is described in paragraph (a) of this section and who is pursuing cooperative training will be the full-time rate described in paragraph (b)(1) of this section.
 
 (Authority: 38 U.S.C. 3015, 3032(c))
 
-(ii) For training that occurs after September 30, 2006, and before October 1, 2007:
+(c) *Rates for some veterans whose qualifying obligated period of active duty is less than three years.* If a veteran has established eligibility under § 21.7042, but the veteran's service is not described in paragraph (a)(2) of this section, the monthly rate of educational assistance payable to the veteran will be determined by this paragraph (c).
 
-|       Training period       |Monthly rate|
-|-----------------------------|------------|
-|First six months of training |  $913.75   |
-|Second six months of training|   698.75   |
-|Remaining pursuit of training|   483.75   |
+(1) *Institutional training (full-time rate of pursuit).* Except as elsewhere provided in this section or in § 21.7139, the monthly rate of basic educational assistance payable to a veteran whose service is described in paragraph (c) of this section, and who is pursuing full-time institutional training, will be the applicable rate provided in 38 U.S.C. 3015(b)(1), as increased each fiscal year in accordance with 38 U.S.C. 3015(h).
 
-(Authority: 38 U.S.C. 3015, 3032(c))
+(2) *Institutional training (less than full-time rate of pursuit).* Except as elsewhere provided in this section or in § 21.7139, the monthly rate of basic educational assistance payable to a veteran whose service is described in paragraph (c) of this section and who is pursuing less than full-time institutional training, as determined in accordance with § 21.4270, will be the full-time rate described in paragraph (c)(1) of this section reduced proportionately based on the rate of pursuit in accordance with the following:
 
-(iii) For training that occurs after September 30, 2007, and before January 1, 2008:
+|              Training              |Percentage of full-time monthly rate|
+|------------------------------------|------------------------------------|
+|              3/4 time              |                 75                 |
+|              1/2 time              |                 50                 |
+|Less than 1/2 but more than 1/4 time|                 50                 |
+|              1/4 time              |                 25                 |
 
-|       Training period       |Monthly rate|
-|-----------------------------|------------|
-|First six months of training |  $935.85   |
-|Second six months of training|   715.65   |
-|Remaining pursuit of training|   495.45   |
+(3) *Apprenticeship or other on-job training.* The monthly rate of basic educational assistance payable to a veteran whose service is described in paragraph (c) of this section and who is pursuing of apprenticeship or other on-job training will be the full-time rate described in paragraph (c)(1) of this section reduced in accordance with the following:
 
-(Authority: 38 U.S.C. 3015, 3032(c))
+|       Training period       |Percentage of full-time monthly rate|
+|-----------------------------|------------------------------------|
+|First six months of training |                 75                 |
+|Second six months of training|                 55                 |
+|Remaining pursuit of training|                 35                 |
 
-(iv) For training that occurs after December 31, 2007, and before August 1, 2008:
-
-|       Training period       |Monthly rate|
-|-----------------------------|------------|
-|First six months of training |  $825.75   |
-|Second six months of training|   605.55   |
-|Remaining pursuit of training|   385.35   |
+(4) *Cooperative training.* Except as elsewhere provided in this section or in § 21.7139, the monthly rate of basic educational assistance payable to a veteran whose service is described in paragraph (c) of this section and who is pursuing cooperative training will be the full-time rate described in paragraph (c)(1) of this section.
 
 (Authority: 38 U.S.C. 3015, 3032(c))
 
-(3) If a veteran's service is described in paragraph (a) of this section, the monthly rate of basic educational assistance payable to the veteran for pursuit of a cooperative course is -
-
-(i) $1034.00 for training that occurs after September 30, 2005, and before October 1, 2006;
-
-(ii) $1075.00 for training that occurs after September 30, 2006, and before October 1, 2007; and
-
-(iii) $1101.00 for training that occurs after September 30, 2007, and before August 1, 2008.
-
-(Authority: 38 U.S.C. 3015)
-
-(c) *Rates for some veterans whose qualifying obligated period of active duty is less than three years.* If a veteran has established eligibility under § 21.7042, but the veteran's service is not described in paragraph (a)(2) of this section, the monthly rate of educational assistance payable to the veteran will be determined by this paragraph.
-
-(1) Except as elsewhere provided in this section or in § 21.7139, basic educational assistance is payable to a veteran at the following monthly rates:
-
-(i) For training that occurs after September 30, 2005, and before October 1, 2006:
-
-|         Training period          |Monthly rate|
-|----------------------------------|------------|
-|            Full time             |  $840.00   |
-|             3/4 time             |   630.00   |
-|             1/2 time             |   420.00   |
-|Less than1/2 but more than1/4 time|   420.00   |
-|         1/4 time or less         |   210.00   |
-
-(Authority: 38 U.S.C. 3015)
-
-(ii) For training that occurs after September 30, 2006, and before October 1, 2007:
-
-|         Training period          |Monthly rate|
-|----------------------------------|------------|
-|            Full time             |  $873.00   |
-|             3/4 time             |   654.75   |
-|             1/2 time             |   436.50   |
-|Less than1/2 but more than1/4 time|   436.50   |
-|         1/4 time or less         |   218.25   |
-
-(Authority: 38 U.S.C. 3015)
-
-(iii) For training that occurs after September 30, 2007, and before August 1, 2008:
-
-|         Training period          |Monthly rate|
-|----------------------------------|------------|
-|            Full time             |  $894.00   |
-|             3/4 time             |   670.50   |
-|             1/2 time             |   447.00   |
-|Less than1/2 but more than1/4 time|   447.00   |
-|         1/4 time or less         |   223.50   |
-
-(Authority: 38 U.S.C. 3015)
-
-(2) Basic educational assistance is payable to a veteran for pursuit of apprenticeship or other on-job training at the following monthly rates:
-
-(i) For training that occurs after September 30, 2005, and before October 1, 2006:
-
-|       Training period       |Monthly rate|
-|-----------------------------|------------|
-|First six months of training |  $714.00   |
-|Second six months of training|   546.00   |
-|Remaining pursuit of training|   378.00   |
-
-(Authority: 38 U.S.C. 3015, 3032(c))
-
-(ii) For training that occurs after September 30, 2006, and before October 1, 2007:
-
-|       Training period       |Monthly rate|
-|-----------------------------|------------|
-|First six months of training |  $742.05   |
-|Second six months of training|   567.45   |
-|Remaining pursuit of training|   392.85   |
-
-(Authority: 38 U.S.C. 3015, 3032(c))
-
-(iii) For training that occurs after September 30, 2007, and before January 1, 2008:
-
-|       Training period       |Monthly rate|
-|-----------------------------|------------|
-|First six months of training |  $759.90   |
-|Second six months of training|   581.10   |
-|Remaining pursuit of training|   402.30   |
-
-(Authority: 38 U.S.C. 3015, 3032(c))
-
-(iv) For training that occurs after December 31, 2007, and before August 1, 2008:
-
-|       Training period       |Monthly rate|
-|-----------------------------|------------|
-|First six months of training |  $670.50   |
-|Second six months of training|   491.70   |
-|Remaining pursuit of training|   312.90   |
-
-(Authority: 38 U.S.C. 3015, 3032(c))
-
-(3) The monthly rate of basic educational assistance payable to a veteran for pursuit of a cooperative course is
-
-(i) $840.00 for training that occurs after September 30, 2005, and before October 1, 2006;
-
-(ii) $873.00 for training that occurs after September 30, 2006, and before October 1, 2007; and
-
-(iii) $894.00 for training that occurs after September 30, 2007, and before August 1, 2008.
-
-(Authority: 38 U.S.C. 3015)
-
-(d) *Increase in basic educational assistance rates (“kicker”).* The Secretary concerned may increase the amount of basic educational assistance payable to an individual who has a skill or specialty which the Secretary concerned designates as having a critical shortage of personnel or for which it is difficult to recruit. The amount of the increase is set by the Secretary concerned, but (except as provided in paragraphs (f) and (g) of this section) -
+(d) *Increase in basic educational assistance rates (“kicker”).* The Secretary concerned may increase the amount of basic educational assistance payable to an individual who has a skill or specialty which the Secretary concerned designates as having a critical shortage of personnel or for which it is difficult to recruit. The amount of the increase is set by the Secretary concerned, but (except as provided in paragraphs (f) and (g) of this section)—
 
 (1) For individuals, who first become members of the Armed Forces before November 29, 1989, (other than those pursuing cooperative training before October 9, 1996, or apprenticeship or other on-job training) it may not exceed:
 
@@ -286,13 +152,13 @@ The monthly rate of educational assistance payable to a veteran or servicemember
 
 (f) *Increase in basic educational assistance rates (“kicker”) for those eligible under § 21.7045.* A veteran who formerly was eligible to receive educational assistance under 38 U.S.C. ch. 32, and becomes eligible for educational assistance under 38 U.S.C. ch. 30 as described in § 21.7045(b)(1)(ii), (c)(1)(ii), (d), or (e), may receive an increase in basic educational assistance allowance (kicker). The increase will be determined as follows.
 
-(1) The basis of the increase will be that portion of the amount of money -
+(1) The basis of the increase will be that portion of the amount of money—
 
-(i) Which remains in the VEAP fund after the veteran has been paid all assistance due him or her under 38 U.S.C. ch. 32 and refunded all of his or her contributions to the VEAP fund, and -
+(i) Which remains in the VEAP fund after the veteran has been paid all assistance due him or her under 38 U.S.C. ch. 32 and refunded all of his or her contributions to the VEAP fund, and—
 
 (ii) Which represents the Secretary of Defense's additional contributions for the veteran as stated in § 21.5132(b)(3) of this part.
 
-(2) For a student pursuing a program of education by residence training -
+(2) For a student pursuing a program of education by residence training—
 
 (i) VA will determine the monthly rate of the increase by dividing the amount of money described in paragraph (f)(1) of this section by the number of months of entitlement to educational assistance under 38 U.S.C. chapter 30 which the veteran has at the time his eligibility for benefits under 38 U.S.C. chapter 30 is first established;
 
@@ -306,9 +172,9 @@ The monthly rate of educational assistance payable to a veteran or servicemember
 
 (3) For a veteran pursuing cooperative training VA will multiply the rate determined by paragraph (f)(2)(i) of this section by .8 for training received before October 9, 1996.
 
-(4) For a veteran pursuing a program of apprenticeship or other on-job training -
+(4) For a veteran pursuing a program of apprenticeship or other on-job training—
 
-(i) During periods before October 1, 2005, and after December 31, 2007, VA will multiply the monthly rate determined by paragraph (f)(2)(i) of this section -
+(i) During periods before October 1, 2005, and after December 31, 2007, VA will multiply the monthly rate determined by paragraph (f)(2)(i) of this section—
 
 (A) By .75 for a veteran in the first six months of pursuit of training,
 
@@ -316,7 +182,7 @@ The monthly rate of educational assistance payable to a veteran or servicemember
 
 (C) By .35 for a veteran in the remaining months of pursuit of training.
 
-(ii) During the period beginning October 1, 2005, and ending December 31, 2007, VA will multiply the monthly rate determined by paragraph (f)(2)(i) of this section -
+(ii) During the period beginning October 1, 2005, and ending December 31, 2007, VA will multiply the monthly rate determined by paragraph (f)(2)(i) of this section—
 
 (A) By .85 for a veteran in the first six months of pursuit of training,
 
@@ -332,7 +198,7 @@ The monthly rate of educational assistance payable to a veteran or servicemember
 
 (ii) Meets the criteria of § 21.7540(a)(1) with respect to service in the Selected Reserve.
 
-(2) The Secretary of the military department concerned -
+(2) The Secretary of the military department concerned—
 
 (i) Will, for such an increase (“kicker”), set an amount of the increase (“kicker”) for full-time training, but the increase (“kicker”) may not exceed $350 per month; and
 
@@ -352,9 +218,9 @@ The monthly rate of educational assistance payable to a veteran or servicemember
 
 (iv) $1.25 for every $20 an individual pursuing a program of education one-quarter time has contributed.
 
-(2) If a veteran is pursuing apprenticeship or other on-job training -
+(2) If a veteran is pursuing apprenticeship or other on-job training—
 
-(i) During periods before October 1, 2005, and after December 31, 2007, VA will increase the veteran's monthly educational assistance that is otherwise payable -
+(i) During periods before October 1, 2005, and after December 31, 2007, VA will increase the veteran's monthly educational assistance that is otherwise payable—
 
 (A) During the first 6 months of pursuit of training, by $3.75 for every $20 the veteran contributed,
 
@@ -362,7 +228,7 @@ The monthly rate of educational assistance payable to a veteran or servicemember
 
 (C) During the remaining months of the veteran's pursuit of training, by $1.75 for every $20 the veteran contributed.
 
-(ii) During the period beginning October 1, 2005, and ending December 31, 2007, VA will increase the veteran's monthly educational assistance that is otherwise payable -
+(ii) During the period beginning October 1, 2005, and ending December 31, 2007, VA will increase the veteran's monthly educational assistance that is otherwise payable—
 
 (A) During the first 6 months of pursuit of training, by $4.25 for every $20 the veteran contributed,
 
@@ -372,4 +238,8 @@ The monthly rate of educational assistance payable to a veteran or servicemember
 
 (3) VA will increase the monthly rate provided in paragraphs (b)(9) or (c)(9) of this section by $5 for every $20 the veteran has contributed.
 
-(Authority: 38 U.S.C. 3015(g); sec. 103, Pub. L. 108-454, 118 Stat. 3600)[55 FR 28386, July 11, 1990]Editorial Note:For Federal Register citations affecting § 21.7136, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Authority: 38 U.S.C. 3015(g); sec. 103, Pub. L. 108-454, 118 Stat. 3600)
+
+(i) *Publication of monthly rates.* VA will publish the monthly rates of basic educational assistance payable under this section on the GI Bill education and training website each time there is an increase in the rates.
+
+[55 FR 28386, July 11, 1990]Editorial Note:For Federal Register citations affecting § 21.7136, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

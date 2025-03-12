@@ -1,6 +1,6 @@
-##### Section 12 Objective Classification - Operating Revenues and Expenses #####
+##### Section 12 Objective Classification—Operating Revenues and Expenses #####
 
-Link to an amendment published at 84 FR 15931, Apr. 16, 2019.00 General Instructions.
+00 General Instructions.
 
 (a) Basic objective accounts, applicable to all air carrier groups, are established for recording all revenue and expense elements. These basic accounts are in certain areas subdivided to provide greater detail for indicated air carrier groups.
 
@@ -12,15 +12,15 @@ Link to an amendment published at 84 FR 15931, Apr. 16, 2019.00 General Instruct
 
 Transport Revenues01 Passenger.
 
-(a) Record here revenue from the transportation of passengers by air, including infants transported at reduced fares, berth charges, surcharges for premium services and other similar charges. Revenue from airline employees, officers and directors, or other persons, except for ministers of religion, who are traveling under reduced-rate transportation authorized by 49 U.S.C. 41511(a) and 14 CFR part 223, as well as revenue from travel agents, cargo agents and tour conductors traveling at reduced fares, and revenues from service charges for passengers traveling on a nonrevenue basis shall be recorded in objective account 19 Air Transport - Other.
+(a) Record here revenue from the transportation of passengers by air, including infants transported at reduced fares, berth charges, surcharges for premium services and other similar charges. Revenue from airline employees, officers and directors, or other persons, except for ministers of religion, who are traveling under reduced-rate transportation authorized by 49 U.S.C. 41511(a) and 14 CFR part 223, as well as revenue from travel agents, cargo agents and tour conductors traveling at reduced fares, and revenues from service charges for passengers traveling on a nonrevenue basis shall be recorded in objective account 19 Air Transport—Other.
 
 (b) This account shall be subdivided as follows by all air carrier groups:
 
-01.1 *Passenger - First Class.*
+01.1 *Passenger—First Class.*
 
 Record here revenue from the air transportation of passengers moving at either standard fares or premium fares, or at reduced fares not predicated upon the use of aircraft space specifically separated from first class, and for whom standard or premium quality services are provided.
 
-01.2 *Passenger - Coach.*
+01.2 *Passenger—Coach.*
 
 Record here revenue from the air transportation of passengers moving at special fares reduced from the first class or premium fares which are predicated upon both the operation of specifically designated aircraft space and a reduction in the quality of service regularly and ordinarily provided.
 
@@ -86,7 +86,7 @@ Record here amounts of compensation received pursuant to the provisions of 49 U.
 
 (b) This account shall be subdivided as follows by all air carrier groups:
 
-09.1 *Liquor and food - gross revenues.*09.2 *Movies and stereo - gross revenues.*09.3 *Other - gross revenues.*09.4 *Liquor and food - depreciation expense.*09.5 *Liquor and food - other expense.*09.6 *Movies and stereo - depreciation expense.*09.7 *Movies and stereo - other expense.*09.8 *Other - depreciation expense.*09.9 *Other - expense.*10 Restaurant and Food Service (Ground).
+09.1 *Liquor and food—gross revenues.*09.2 *Movies and stereo—gross revenues.*09.3 *Other—gross revenues.*09.4 *Liquor and food—depreciation expense.*09.5 *Liquor and food—other expense.*09.6 *Movies and stereo—depreciation expense.*09.7 *Movies and stereo—other expense.*09.8 *Other—depreciation expense.*09.9 *Other—expense.*10 Restaurant and Food Service (Ground).
 
 (a) Record here revenues from and expenses related to the operation of restaurants and similar facilities, and from sales of food. (See section 12-51.)
 
@@ -112,7 +112,7 @@ Record here amounts of compensation received pursuant to the provisions of 49 U.
 
 (c) This account shall be subdivided as follows by all air carrier groups:
 
-13.1 *Associated companies - gross revenues.*13.2 *Outside - gross revenues.*13.3 *Associated companies - depreciation expense.*13.4 *Associated companies - other expense.*13.5 *Outside - depreciation expense.*13.6 *Outside - other expense.*14 General Service Sales.
+13.1 *Associated companies—gross revenues.*13.2 *Outside—gross revenues.*13.3 *Associated companies—depreciation expense.*13.4 *Associated companies—other expense.*13.5 *Outside—depreciation expense.*13.6 *Outside—other expense.*14 General Service Sales.
 
 (a) Record here the revenues, commissions or fees from and expenses related to other than air transportation and aircraft interchange services provided to associated and outside companies by the air carrier. This account shall include the contractual fees or other revenues from and expenses related to services provided to associated and other companies in the operation of facilities which are used jointly with associated and other companies as well as revenues from and the costs related to the sale of supplies, parts and repairs sold directly or furnished as a part of services to associated and other companies.
 
@@ -120,7 +120,7 @@ Record here amounts of compensation received pursuant to the provisions of 49 U.
 
 (c) This account shall be subdivided as follows by all air carrier groups:
 
-14.1 *Associated companies - gross revenues.*14.2 *Outside - gross revenues.*14.3 *Associated companies - depreciation expense.*14.4 *Associated companies - other expense.*14.5 *Outside - depreciation expense.*14.6 *Outside - other expense.*[ER-755, 37 FR 19726, Sept. 21, 1972, as amended by ER-980, 42 FR 37, Jan. 3, 1977]16 Substitute (replacement) Service.
+14.1 *Associated companies—gross revenues.*14.2 *Outside—gross revenues.*14.3 *Associated companies—depreciation expense.*14.4 *Associated companies—other expense.*14.5 *Outside—depreciation expense.*14.6 *Outside—other expense.*[ER-755, 37 FR 19726, Sept. 21, 1972, as amended by ER-980, 42 FR 37, Jan. 3, 1977]16 Substitute (replacement) Service.
 
 (a) Record here revenues from and expenses related to substitute service. This account shall include as revenues all monies received from substitute carriers and as expense all monies paid to substitute carriers.
 
@@ -142,7 +142,7 @@ Record here amounts of compensation received pursuant to the provisions of 49 U.
 
 (d) This account shall be subdivided as follows by all air carrier groups:
 
-18.1 *Gross Revenues.*18.2 *Depreciation Expense.*18.3 *Other Expenses.*19 Air Transport - Other.
+18.1 *Gross Revenues.*18.2 *Depreciation Expense.*18.3 *Other Expenses.*19 Air Transport—Other.
 
 (a) Record here revenues associated with air transportation conducted by the air carrier, not provided for in profit and loss accounts 01 through 09, inclusive, such as revenue from (1) airline employees, officers and directors, or other persons, except for ministers of religion, who are traveling under reduced-rate transportation authorized by 49 U.S.C. 41511(a) and 14 CFR part 223, as well as travel agents, cargo agents and tour conductors traveling at reduced fares, (2) service charges for failure to cancel or for late cancellation of air transportation reservations, and (3) nontransportation service charges collected on both revenue and nonrevenue flights.
 
@@ -176,19 +176,19 @@ Record here the compensation, including vacation and sick leave pay, of other fl
 
 (b) This account shall be subdivided as follows:
 
-Group II and Group III Air Carriers25.1 *Labor - Airframes and Other Flight Equipment.*
+Group II and Group III Air Carriers25.1 *Labor—Airframes and Other Flight Equipment.*
 
 Record here the direct labor expended upon airframes, spare parts related to airframes, and other flight equipment (Other than aircraft engines and spare parts related to aircraft engines). Other flight equipment shall include instruments, which encompass all gauges, meters, measuring devices, and indicators, together with appurtenances thereto for installation in aircraft and aircraft engines which are maintaned separately from airframes and aircraft engines.
 
-25.2 *Labor - Aircraft Engines.*
+25.2 *Labor—Aircraft Engines.*
 
 Record here the direct labor expended upon aircraft engines and spare parts related to aircraft engines.
 
-Group I Air Carriers25.6 *Labor - Flight Equipment.*
+Group I Air Carriers25.6 *Labor—Flight Equipment.*
 
 Record here the direct labor expended upon flight equipment of all types and classes.
 
-All Air Carrier Groups25.9 *Labor - Ground Property and Equipment.*
+All Air Carrier Groups25.9 *Labor—Ground Property and Equipment.*
 
 Record here the direct labor expended upon ground property and equipment of all types and classes. Direct labor expended upon general ground properties shall be charged to subfunction 5200 Direct Maintenance; and direct labor expended upon maintenance buildings and equipment shall be charged to subfunction 5300 Maintenance Burden.
 
@@ -276,11 +276,11 @@ Record here charges related to the provision of light, heat, power and water inc
 
 (b) This account shall be subdivided as follows by Group II and Group III air carriers.
 
-39.1 *Commissions - Passenger.*
+39.1 *Commissions—Passenger.*
 
 Record here charges for commissions arising from sales of passenger transportation.
 
-39.2 *Commissions - Property.*
+39.2 *Commissions—Property.*
 
 Record here charges for commissions arising from sales of nonpassenger transportation.
 
@@ -330,7 +330,7 @@ Record here the charges and fees incurred for landing of aircraft while in line 
 
 45 Aircraft Fuels and Oils.
 
-(a) Record here the cost of fuels and oils issued from stocks of the air carrier, or delivery directly by others, to aircraft for use in flight operations. Adjustments of inventories of aircraft fuel and oil shall also be entered in this account. The cost of fuels and oils used in repairs and maintenance services and nonrefundable fuel and oil taxes shall not be included in this account but in profit and loss accounts 49 Shop and Servicing Supplies and 69 Taxes - Other than Payroll, respectively.
+(a) Record here the cost of fuels and oils issued from stocks of the air carrier, or delivery directly by others, to aircraft for use in flight operations. Adjustments of inventories of aircraft fuel and oil shall also be entered in this account. The cost of fuels and oils used in repairs and maintenance services and nonrefundable fuel and oil taxes shall not be included in this account but in profit and loss accounts 49 Shop and Servicing Supplies and 69 Taxes—Other than Payroll, respectively.
 
 (b) This account shall be subdivided as follows by Group II and Group III air carriers:
 
@@ -348,19 +348,19 @@ Record here the cost of oils used in flight operations.
 
 (b) This account shall be subdivided as follows:
 
-Group II and Group III Air Carriers46.1 *Materials - Airframes and Other Flight Equipment.*
+Group II and Group III Air Carriers46.1 *Materials—Airframes and Other Flight Equipment.*
 
 Record here the cost of materials and supplies consumed directly in maintenance of airframes and spare parts related to airframes. Other flight equipment (including instruments), excluding aircraft engines and spare parts related to aircraft engines, shall also be recorded here. Instruments shall include all gauges, meters, measuring devices, and indicators, together with appurtenances thereto for installation in aircraft and aircraft engines, which are maintained separately from airframes and aircraft engines.
 
-46.2 *Materials - Aircraft Engines.*
+46.2 *Materials—Aircraft Engines.*
 
 Record here the cost of materials and supplies consumed directly in maintenance of aircraft engines and spare parts related to aircraft engines.
 
-Group I Air Carriers46.6 *Materials - Flight Equipment.*
+Group I Air Carriers46.6 *Materials—Flight Equipment.*
 
 Record here the cost of materials and supplies consumed directly in the maintenance of flight equipment of all types and classes.
 
-All Air Carrier Groups46.9 *Materials - Ground Property and Equipment.*
+All Air Carrier Groups46.9 *Materials—Ground Property and Equipment.*
 
 Record here the cost of materials and supplies consumed directly in the maintenance of ground property and equipment of all types and classes. The cost of materials and supplies consumed in the repair of general ground properties shall be charged to subfunction 5200 Direct Maintenance and materials and supplies consumed in the repair of maintenance buildings and equipment shall be charged to subfunction 5300 Maintenance Burden.
 
@@ -388,13 +388,13 @@ Record here the cost of supplies consumed and not provided for otherwise.
 
 54 Inventory Adjustments.
 
-Record here adjustments for overage, shortage or shrinkage of inventories carried in balance sheet account 1300 Spare Parts and Supplies. Adjustment of aircraft fuel and oil inventories due to retroactive price increases and decreases shall not be included in this account but in profit and loss account 45 Aircraft Fuels and Oils. Gains or losses from retirements of materials and supplies shall not be recorded in this account but in profit and loss account 88.5 Capital Gains and Losses - Operating Property.
+Record here adjustments for overage, shortage or shrinkage of inventories carried in balance sheet account 1300 Spare Parts and Supplies. Adjustment of aircraft fuel and oil inventories due to retroactive price increases and decreases shall not be included in this account but in profit and loss account 45 Aircraft Fuels and Oils. Gains or losses from retirements of materials and supplies shall not be recorded in this account but in profit and loss account 88.5 Capital Gains and Losses—Operating Property.
 
-[ER-980, 42 FR 37, Jan. 3, 1977]55 Insurance - General.
+[ER-980, 42 FR 37, Jan. 3, 1977]55 Insurance—General.
 
 Record here the cost of public liability and property damage insurance and all other general insurance except insurance covering liability for injuries, loss, and damage to passengers and cargo, and insurance carried for the protection or welfare of employees.
 
-[ER-948, 41 FR 12295, Mar. 25, 1976]56 Insurance - Traffic Liability.
+[ER-948, 41 FR 12295, Mar. 25, 1976]56 Insurance—Traffic Liability.
 
 Record here the cost of purchased insurance covering liability for injuries, loss and damage to passengers and cargo.
 
@@ -444,11 +444,11 @@ Record here losses from uncollectible accounts and allowance provisions and adju
 
 Record here clearance, customs, duties and brokerage fees and charges applicable to clearing aircraft and traffic.
 
-68 Taxes - Payroll.
+68 Taxes—Payroll.
 
 Record here all taxes levied against the air carrier based upon or directly relating to compensation of personnel.
 
-69 Taxes - Other Than Payroll.
+69 Taxes—Other Than Payroll.
 
 (a) Record here all taxes levied against the air carrier not otherwise provided for including nonrefundable aircraft fuel and oil taxes. Interest and penalties on delinquent taxes shall not be charged to this account but to profit and loss accounts 82 Other Interest and 89.9 Other Miscellaneous Nonoperating Debits, respectively.
 
@@ -464,7 +464,7 @@ Record here all expenses ordinarily associated with air transportation and its i
 
 (b) This account shall be subdivided as follows by all carrier groups:
 
-72.1 *Airworthiness Allowance Provisions - Airframes.*
+72.1 *Airworthiness Allowance Provisions—Airframes.*
 
 Record here current provisions for effecting an equitable distribution of airframe overhaul costs between different accounting periods. Record here also credits for airframe overhaul costs incurred in the current period which have been charged against related airworthiness allowances.
 
@@ -472,7 +472,7 @@ Record here current provisions for effecting an equitable distribution of airfra
 
 Record here airframe overhauls of the current period transferred to subaccount 1601.2, Unamortized Airframe Overhauls, and the amount of deferred airframe overhaul costs amortized for the current period.
 
-72.6 *Airworthiness Allowance Provisions - Aircraft Engines.*
+72.6 *Airworthiness Allowance Provisions—Aircraft Engines.*
 
 Record here current provisions for effecting an equitable distribution of aircraft engine overhauls costs between different accounting periods. Record here also credits for aircraft engine overhaul costs incurred in the current period which have been charged against related airworthiness allowances.
 
@@ -480,7 +480,7 @@ Record here current provisions for effecting an equitable distribution of aircra
 
 Record here airframe overhauls of the current period transferred to subaccount 1602.2, Unamortized Aircraft Engine Overhauls, and the amount of deferred aircraft engine overhaul costs amortized for the current period.
 
-[ER-948, 41 FR 12295, Mar. 25, 1976, as amended by ER-1401, 50 FR 245, Jan. 3, 1985]73 Provisions for Obsolescence and Deterioration - Expendable Parts.
+[ER-948, 41 FR 12295, Mar. 25, 1976, as amended by ER-1401, 50 FR 245, Jan. 3, 1985]73 Provisions for Obsolescence and Deterioration—Expendable Parts.
 
 (a) Where allowances for loss in value of flight equipment expendable parts are established, provisions for accruals to such allowances shall be charged to this account and credited to balance sheet account 1311 Allowance for Obsolescence in accordance with the provisions of that account.
 
@@ -514,49 +514,49 @@ Record here mortization of the cost of intangibles not provided for otherwise.
 
 (b) This account shall be subdivided as follows:
 
-All Air Carrier Groups75.1 *Depreciation - Airframes.*
+All Air Carrier Groups75.1 *Depreciation—Airframes.*
 
 Record here provisions for depreciation of property and equipment carried in balance subaccount 1601.1 Airframes.
 
-75.2 *Depreciation - Aircraft Engines.*
+75.2 *Depreciation—Aircraft Engines.*
 
 Record here provisions for depreciation of property and equipment carried in balance sheet subaccount 1602.1 Aircraft Engines.
 
-Group II and Group III Air Carriers75.3 *Depreciation - Airframe Parts.*
+Group II and Group III Air Carriers75.3 *Depreciation—Airframe Parts.*
 
 Record here provisions for depreciation of spare airframe instruments and parts carried in balance sheet subaccount 1608.1 Airframe Parts and Assemblies.
 
-75.4 *Depreciation - Aircraft Engine Parts.*
+75.4 *Depreciation—Aircraft Engine Parts.*
 
 Record here provisions for depreciation of spare aircraft engine instruments and parts carried in balance sheet subaccount 1608.5 Aircraft Engine Parts and Assemblies.
 
-All Air Carrier Groups75.5 *Depreciation - Other Flight Equipment.*
+All Air Carrier Groups75.5 *Depreciation—Other Flight Equipment.*
 
 Record here provisions for depreciation of property and equipment carried in balance sheet account 1607 Improvements to Leased Flight Equipment (exclusive of capitalized overhauls accounted for on a deferral and amortization basis) and balance sheet subaccount 1608.9 Other Parts and Assemblies. Group I air carriers shall also include in this subaccount provisions for depreciation of property carried in balance sheet account 1608 Flight Equipment Rotable Parts and Assemblies.
 
-75.6 *Depreciation - Flight Equipment.*
+75.6 *Depreciation—Flight Equipment.*
 
 This classification is established only for purposes of control by the BTS and shall include all charges to operating expenses for depreciation of flight equipment of all types and classes.
 
-75.8 *Depreciation - Maintenance Equipment and Hangars.*
+75.8 *Depreciation—Maintenance Equipment and Hangars.*
 
 Record here provisions for depreciation of maintenance property and equipment included in balance sheet accounts 1630 Equipment, 1639 Improvements to Leased Buildings and Equipment, and 1640.1 Maintenance Buildings and Improvements.
 
-75.9 *Depreciation - General Ground Property.*
+75.9 *Depreciation—General Ground Property.*
 
 Record here provisions for depreciation of property and equipment included in balance of property and equipment included in balance sheet accounts 1630 through 1640, exclusive of provision for depreciation of maintenance property and equipment included in account 75.8.
 
-[ER-755, 37 FR 19726, Sept. 21, 1972, as amended by ER-948, 41 FR 12296, Mar. 25, 1976; ER-980, 42 FR 38, Jan. 3, 1977; 60 FR 66723, Dec. 26, 1995]76 Amortization Expense - Capital Leases.
+[ER-755, 37 FR 19726, Sept. 21, 1972, as amended by ER-948, 41 FR 12296, Mar. 25, 1976; ER-980, 42 FR 38, Jan. 3, 1977; 60 FR 66723, Dec. 26, 1995]76 Amortization Expense—Capital Leases.
 
-(a) Record here amortization charges applicable to assets recorded under capital leases in Account 1695 - Leased Property under Capital Leases.
+(a) Record here amortization charges applicable to assets recorded under capital leases in Account 1695—Leased Property under Capital Leases.
 
 (b) This account shall be subdivided as follows by all air carrier groups:
 
-76.1 *Amortization - Capitalized Flight Equipment.*
+76.1 *Amortization—Capitalized Flight Equipment.*
 
 Record here amortization charges applicable to flight equipment acquired under capital leases.
 
-76.2 *Amortization - Capitalized Other Property and Equipment.*
+76.2 *Amortization—Capitalized Other Property and Equipment.*
 
 Record here the amortization charges applicable to property and equipment, other than flight equipment, acquired under capital leases.
 
@@ -564,7 +564,7 @@ Record here the amortization charges applicable to property and equipment, other
 
 (a) Record here credits to operating expenses, which have not been cleared to the objective accounts to which applicable.
 
-(b) Each air carrier shall credit, or charge as appropriate, the objective account prescribed for each expense element which may be involved in distribution of expenses between separate reporting entities or nontransport divisions of the air carrier. At the option of the air carrier, either the individual applicable objective accounts or this account may be credited with amounts capitalized, charged against incidental services, or otherwise assigned to other than separate operating entities of the air carrier provided the aggregate credits to this account in each function do not, for any accounting year, distort the individual objective accounts of the function to which related and all expense credits applicable to complete individual transactions are consistently credited either to this account or the individual objective accounts to which related. Each air carrier using this account shall establish such standard practices as may be prescribed by the BTS or, in the absence of such action by the Civil Aeronautics Board, such standard practices as will prevent credits to this account from significantly distorting the individual objective accounts of each function to which related.
+(b) Each air carrier shall credit, or charge as appropriate, the objective account prescribed for each expense element which may be involved in distribution of expenses between separate reporting entities or nontransport divisions of the air carrier. At the option of the air carrier, either the individual applicable objective accounts or this account may be credited with amounts capitalized, charged against incidental services, or otherwise assigned to other than separate operating entities of the air carrier provided the aggregate credits to this account in each function do not, for any accounting year, distort the individual objective accounts of the function to which related and all expense credits applicable to complete individual transactions are consistently credited either to this account or the individual objective accounts to which related. Each air carrier using this account shall establish such standard practices as may be prescribed by the BTS or, such standard practices as will prevent credits to this account from significantly distorting the individual objective accounts of each function to which related.
 
 (c) This account shall not be credited with amounts applicable to objective accounts of the Flying Operations, Depreciation, and Direct Maintenance functions. Credits applicable to such functions shall be carried to the individual objective accounts to which applicable.
 
@@ -578,14 +578,14 @@ Record here credits to operating expenses, from operations performed for others 
 
 Record here credits to operating expenses, from other than operations under aircraft interchange agreements, which have not been cleared to the objective accounts to which applicable.
 
-[ER-755, 37 FR 19726, Sept. 21, 1972, as amended at 60 FR 66723, Dec. 26, 1995]78 Direct Maintenance - Flight Equipment.
+[ER-755, 37 FR 19726, Sept. 21, 1972, as amended at 60 FR 66723, Dec. 26, 1995]78 Direct Maintenance—Flight Equipment.
 
 This classification is established for purposes of control by the BTS and shall include all charges to operating expenses for maintenance of flight equipment of all types and classes.
 
-[ER-755, 37 FR 19726, Sept. 21, 1972, as amended at 60 FR 66723, Dec. 26, 1995]79 Applied Burden Debit/Credit.
+[ER-755, 37 FR 19726, Sept. 21, 1972, as amended at 60 FR 66723, Dec. 26, 1995; Doc. No. DOT-OST-2014-0140, 84 FR 15931, Apr. 16, 2019]79 Applied Burden Debit/Credit.
 
 (a) This classification is established only for purposes of control by the BTS and reporting on Form 41 by air carriers, and shall reflect all maintenance burden applied in accordance with the provisions of section 24, schedule P-5 of this system of accounts and reports.
 
 (b) This classification shall be subdivided as follows by all air carrier groups:
 
-79.6 *Applied Burden - Flight Equipment.*79.8 *Applied Burden - General Ground Property.*[ER-755, 37 FR 19726, Sept. 21, 1972, as amended by ER-979, 38 FR 10926, May 3, 1973; 60 FR 66723, Dec. 26, 1995]
+79.6 *Applied Burden—Flight Equipment.*79.8 *Applied Burden—General Ground Property.*[ER-755, 37 FR 19726, Sept. 21, 1972, as amended by ER-979, 38 FR 10926, May 3, 1973; 60 FR 66723, Dec. 26, 1995]

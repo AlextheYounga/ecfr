@@ -8,7 +8,7 @@
 
 (b) Notwithstanding paragraph (a)(1) of this section, the following types of actions shall not be deemed as major regulatory actions requiring an energy statement:
 
-(1) Tariff suspension orders under section 41509 of the Statute, emergency exemptions or temporary exemptions not exceeding 24 months under section 40109 of the Statute and other proceedings in which timely action is of the essence;
+(1) Tariff suspension orders under section 41509 of 49 U.S.C. Subtitle VII, emergency exemptions or temporary exemptions not exceeding 24 months under section 40109 of 49 U.S.C. Subtitle VII and other proceedings in which timely action is of the essence;
 
 (2) Orders instituting or declining to institute investigations or rulemaking, setting or declining to set applications for hearing, on reconsideration, or on requests for stay;
 
@@ -26,4 +26,4 @@
 
 (3) The action is taken under laws designed to protect the public health or safety.
 
-[Doc. No. 82, 50 FR 2425, Jan. 16, 1985, as amended at 60 FR 43529, Aug. 22, 1995]
+[Doc. No. 82, 50 FR 2425, Jan. 16, 1985, as amended at 60 FR 43529, Aug. 22, 1995; Doc. No. DOT-OST-2014-0140, 84 FR 15938, Apr. 16, 2019]

@@ -1,10 +1,8 @@
 ##### § 374a.3 Definitions. #####
 
-Link to an amendment published at 84 FR 15939, Apr. 16, 2019.
-
 *Adequate security* means (a) a bond, issued by a surety meeting the standards prescribed for sureties in part 380 of this chapter, in an amount not less than one hundred and fifty percent (150%) of the credit limit established by the air carrier for the candidate, or the person acting on behalf of the candidate, as the case may be, by the terms of which bond the surety undertakes to pay to the air carrier any and all amounts (not exceeding the face amount of the bond) for which the assured candidate or the assured person acting on behalf of a candidate, as the case may be, is or may become legally liable to the air carrier for transportation, as defined in this part; or (b) collateral with a market value equal to one hundred and fifty percent (150%) of the established credit limit for such account, which collateral must be deposited in escrow and must consist of Federal, State, or municipal bonds or other negotiable securities which are publicly traded on a securities exchange.
 
-*Air carrier* means any air carrier holding a certificate of public convenience and necessity issued under section 401 of the Federal Aviation Act of 1958, as amended.
+*Air carrier* means any air carrier holding a certificate of public convenience and necessity issued under 49 U.S.C. 41102.
 
 *Candidate* means an individual who seeks nomination for election, or election, to Federal office, whether or not such individual is elected. For purposes of this part, an individual shall be deemed to seek nomination for election, or election, if he has (a) taken the action necessary under the law of a State to qualify himself for nomination for election, or election, to Federal office; or (b) received contributions or made expenditures, or given his consent for any other person to receive contributions or make expenditures, with a view to bringing about his nomination for election, or election, to such office.
 
@@ -22,4 +20,4 @@ Link to an amendment published at 84 FR 15939, Apr. 16, 2019.
 
 *Transportation* means (a) the carriage of persons or property (including services connected therewith) for compensation or hire to or from any place in the United States, or (b) the lease or rental of aircraft, with or without crew.
 
-[SPR-53, 37 FR 9388, May 10, 1972, as amended by SPR-173, 45 FR 80099, Dec. 3, 1980]
+[SPR-53, 37 FR 9388, May 10, 1972, as amended by SPR-173, 45 FR 80099, Dec. 3, 1980; Doc. No. DOT-OST-2014-0140, 84 FR 15939, Apr. 16, 2019]

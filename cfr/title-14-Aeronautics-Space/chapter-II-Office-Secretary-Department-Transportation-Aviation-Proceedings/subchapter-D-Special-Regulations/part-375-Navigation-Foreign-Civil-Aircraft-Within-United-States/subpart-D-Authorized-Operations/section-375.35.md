@@ -1,12 +1,10 @@
 ##### § 375.35 Free transportation. #####
 
-Link to an amendment published at 84 FR 15940, Apr. 16, 2019.
-
 (a) Foreign civil aircraft may be navigated in the United States by a foreign air carrier for the transportation of persons and property specified in paragraph (b) of this section over the following non-traffic segments provided such transportation is not for compensation or hire:
 
 (1) Between two or more points in the United States;
 
-(2) Between a point in the United States named in the carrier's section 402 permit or exemption, and a point outside the United States not so named, when authorized in accordance with the provisions of part 216 of this chapter to carry blind sector traffic to or from such unnamed foreign point; and
+(2) Between a point in the United States named in the carrier's section 41301 permit or exemption, and a point outside the United States not so named, when authorized in accordance with the provisions of part 216 of this chapter to carry blind sector traffic to or from such unnamed foreign point; and
 
 (3) Between a point in the United States and a point outside thereof when the carrier lands at the United States point for non-traffic purposes in exercise of the privilege granted under the International Air Services Transit Agreement.
 
@@ -29,3 +27,5 @@ Link to an amendment published at 84 FR 15940, Apr. 16, 2019.
 (8) Guests of a foreign air carrier (including members of the press) on delivery flights of newly-acquired or newly-renovated aircraft.
 
 (c) A charge reasonably related to the value of meals and beverages furnished enroute shall not be deemed to constitute compensation or hire for purposes of this section.
+
+[OST Doc. No. 42547, 51 FR 7254, Mar. 3, 1986, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15940, Apr. 16, 2019]

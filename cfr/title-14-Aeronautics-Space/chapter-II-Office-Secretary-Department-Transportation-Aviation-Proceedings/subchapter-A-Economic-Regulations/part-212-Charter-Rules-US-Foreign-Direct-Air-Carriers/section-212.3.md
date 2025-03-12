@@ -1,14 +1,12 @@
 ##### § 212.3 General provisions. #####
 
-Link to an amendment published at 84 FR 15925, Apr. 16, 2019.
-
 (a) Certificated and foreign air carriers may conduct charter flights as described in this part, and may carry charter passengers on scheduled flights, or charter cargo on scheduled or nonscheduled flights (or on the main deck or in the belly of passenger charter flights), subject to the requirements of this chapter and any orders of, or specific conditions imposed by, the Department.
 
 (b) Charter flights may be operated on a round-trip or one-way basis, with no minimum group, shipment, or contract size.
 
 (c) Contracts to perform charter flights must be in writing and signed by an authorized representative of the certificated or foreign air carrier and the charterer prior to the operation of the flights involved. The written agreement shall include:
 
-(i) The name and address of either the surety whose bond secures advance charter payments received by the carrier, or of the carrier's depository bank to which checks or money orders for the advance charter payments are to be made payable as escrow holder pending completion of the charter trip; and
+(1) The name and address of either the surety whose bond secures advance charter payments received by the carrier, or of the carrier's depository bank to which checks or money orders for the advance charter payments are to be made payable as escrow holder pending completion of the charter trip; and
 
 (2) A statement that unless the charterer files a claim with the carrier, or, if the carrier is unavailable, with the surety, within 60 days after the cancellation of a charter trip with respect to which the charterer's advance payments are secured by the bond, the surety shall be released from all liability under the bond to such charterer for such trips.
 
@@ -31,3 +29,5 @@ Link to an amendment published at 84 FR 15925, Apr. 16, 2019.
 (l) A certificated air carrier may not perform any charter in interstate commerce within the State of Alaska.
 
 (m) A foreign air carrier may operate charters in foreign air transportation only to the extent authorized by its foreign air carrier permit under 49 U.S.C. 41302 or exemption authority under 49 U.S.C. 40109, and only to the extent to which such operations are consistent with the provisions of any applicable bilateral aviation undertaking.
+
+[Docket No. OST-97-2356, 63 FR 28236, May 22, 1998, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15925, Apr. 16, 2019]

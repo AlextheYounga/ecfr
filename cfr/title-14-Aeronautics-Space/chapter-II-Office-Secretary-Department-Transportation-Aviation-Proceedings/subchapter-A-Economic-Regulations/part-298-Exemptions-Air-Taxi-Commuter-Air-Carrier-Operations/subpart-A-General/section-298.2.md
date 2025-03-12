@@ -1,7 +1,5 @@
 ##### § 298.2 Definitions. #####
 
-Link to an amendment published at 84 FR 15934, Apr. 16, 2019.
-
 As used in this part:
 
 *Air taxi operator* means an air carrier as established by § 298.3(a).
@@ -10,7 +8,7 @@ As used in this part:
 
 1 Interstate air transportation is defined in section 40102(a)(25) as the transportation of passengers or property by aircraft as a common carrier for compensation, or the transportation of mail by aircraft (1) between a place in (i) a State, territory, or possession of the United States and a place in the District of Columbia or another State, territory, or possession of the United States; (ii) Hawaii and another place in Hawaii through the airspace over a place outside Hawaii; (iii) the District of Columbia and another place in the District of Columbia; or (iv) a territory or possession of the United States and another place in the same territory or possession; and (2) when any part of the transportation is by aircraft. Note: Operations wholly within the geographic limits of a single State are not considered interstate air transportation if in those operations the carrier transports no more than a *de minimis* volume of passengers or property moving as part of a continuous journey to or from a point outside the State.
 
-Foreign air transportation is defined in section 40102(a)(23) of the Statute as the transportation of passengers or property by aircraft as a common carrier for compensation, or the transportation of mail by aircraft, between a place in the United States and a place outside the United States when any part of the transportation is by aircraft.
+Foreign air transportation is defined in section 40102(a)(23) of 49 U.S.C. Subtitle VII as the transportation of passengers or property by aircraft as a common carrier for compensation, or the transportation of mail by aircraft, between a place in the United States and a place outside the United States when any part of the transportation is by aircraft.
 
 Air transportation also is defined to include the transportation of mail by aircraft. Section 5402 of the Postal Reorganization Act, 39 U.S.C. 5402, authorizes the carriage of mail by air taxi operators and commuter air carriers in some circumstances under contract with the U.S. Postal Service.
 
@@ -18,7 +16,7 @@ Air transportation also is defined to include the transportation of mail by airc
 
 *Aircraft miles* means the miles (computed in airport-to-airport distances) for each flight stage actually completed, whether or not performed in accordance with the scheduled pattern.
 
-*Certificated air carrier means* an air carrier holding a certificate issued under section 41102 of the Statute.
+*Certificated air carrier means* an air carrier holding a certificate issued under section 41102 of 49 U.S.C. Subtitle VII.
 
 *Citizen of the United States* means:
 
@@ -32,15 +30,7 @@ Air transportation also is defined to include the transportation of mail by airc
 
 *Departure* means takeoff from an airport.
 
-*Eligible place* means a place in the United States that -
-
-(1)(i) Was an eligible point under section 419 of the Federal Aviation Act of 1958 as in effect before October 1, 1988;
-
-(ii) Received scheduled air transportation at any time after January 1, 1990; and
-
-(iii) Is not listed in Department of Transportation Orders 89-9-37 and 89-12-52 as a place ineligible for compensation under Subchapter II of Chapter 417 of the Statute; or
-
-(2) Was determined, on or after October 1, 1988, and before the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, by the Department to be eligible to receive subsidized small community air service under section 41736(a) of the Statute.
+*Eligible place* means a place in the United States that meets the specified criteria outlined in 49 U.S.C. Chapter 417.
 
 *Flight stage* means the operation of an aircraft from takeoff to landing.
 
@@ -56,11 +46,11 @@ Air transportation also is defined to include the transportation of mail by airc
 
 3 Empty weight is defined in section 03 of part 241 as follows: the weight of the airframe, engines, propellers, and fixed equipment. Empty weight excludes the weight of the crew and payload, but includes the weight of all fixed ballast, unusable fuel supply, undrainable oil, total quantity of engine coolant, and total quantity of hydraulic fluid.
 
-(i) Crew - 200 pounds per crew member required under FAA regulations,
+(i) Crew—200 pounds per crew member required under FAA regulations in 14 CFR chapter I,
 
-(ii) Oil - 350 pounds,
+(ii) Oil—350 pounds,
 
-(iii) Fuel - the minimum weight of fuel required under FAA regulations for a flight between domestic points 200 miles apart,4
+(iii) Fuel—the minimum weight of fuel required under FAA regulations in 14 CFR chapter I for a flight between domestic points 200 miles apart,4
 
 4 Assumes VFR weather conditions and flights not involving extended overwater operations.
 
@@ -94,7 +84,7 @@ Air transportation also is defined to include the transportation of mail by airc
 
 (11) Postal employees on duty in charge of the mails or traveling to or from such duty;
 
-(12) Technical representatives of companies that have been engaged in the manufacture, development or testing of a particular type of aircraft or aircraft equipment, when the transportation is provided for the purpose of in-flight observation and subject to applicable FAA regulations;
+(12) Technical representatives of companies that have been engaged in the manufacture, development or testing of a particular type of aircraft or aircraft equipment, when the transportation is provided for the purpose of in-flight observation and subject to applicable FAA regulations in 14 CFR chapter I;
 
 (13) Persons engaged in promoting air transportation;
 
@@ -134,10 +124,10 @@ Air transportation also is defined to include the transportation of mail by airc
 
 *Small aircraft* means any aircraft originally designed to have a maximum passenger capacity of 60 seats or less or a maximum payload capacity of 18,000 pounds or less.
 
-*Small certificated air carrier* means an air carrier holding a certificate issued under section 41102 of the Statute that provides scheduled passenger air service within and between only the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the U.S. Virgin Islands with small aircraft as defined in this section.
-
-*Statute* means Subtitle VII of Title 49 of the United States Code (Transportation).
+*Small certificated air carrier* means an air carrier holding a certificate issued under section 41102 of 49 U.S.C. Subtitle VII that provides scheduled passenger air service within and between only the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the U.S. Virgin Islands with small aircraft as defined in this section.
 
 *Ton* means a short ton, *i.e.*, 2,000 pounds.
 
 *Wet-Lease Agreement* means an agreement under which one carrier leases an aircraft with flight crew to another air carrier.
+
+[70 FR 25768, May 16, 2005, as amended by DOT-OST-2014-0140, 84 FR 15934, Apr. 16, 2019]

@@ -1,3 +1,3 @@
 ##### § 302.420 Saving clause. #####
 
-Repeal, revision or amendment of any of the economic regulatory provisions of the Statute or of the Department's rules, regulations, orders, or other requirements shall not affect any pending enforcement proceeding or any enforcement proceeding initiated thereafter with respect to causes arising or acts committed prior to said repeal, revision or amendment, unless the act of repeal, revision or amendment specifically so provides.
+Repeal, revision or amendment of any of the economic regulatory provisions of 49 U.S.C. Subtitle VII or of the Department's rules, regulations, orders, or other requirements shall not affect any pending enforcement proceeding or any enforcement proceeding initiated thereafter with respect to causes arising or acts committed prior to said repeal, revision or amendment, unless the act of repeal, revision or amendment specifically so provides.

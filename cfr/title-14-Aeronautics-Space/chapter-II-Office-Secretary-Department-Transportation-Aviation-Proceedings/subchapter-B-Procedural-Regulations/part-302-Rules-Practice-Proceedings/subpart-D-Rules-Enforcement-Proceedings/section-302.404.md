@@ -1,6 +1,6 @@
 ##### § 302.404 Formal complaints. #####
 
-(a) *Filing.* Any person may make a formal complaint to the Assistant General Counsel about any violation of the economic regulatory provisions of the Statute or of the Department's rules, regulations, orders, or other requirements. Every formal complaint shall conform to the requirements of §§ 302.3 and 302.4, concerning the form and filing of documents. The filing of a complaint shall result in the institution of an enforcement proceeding only if the Assistant General Counsel issues a notice instituting such a proceeding as to all or part of the complaint under § 302.406(a) or the Deputy General Counsel does so under § 302.406(c).
+(a) *Filing.* Any person may make a formal complaint to the Assistant General Counsel about any violation of the economic regulatory provisions of 49 U.S.C. Subtitle VII or of the Department's rules, regulations, orders, or other requirements. Every formal complaint shall conform to the requirements of §§ 302.3 and 302.4, concerning the form and filing of documents. The filing of a complaint shall result in the institution of an enforcement proceeding only if the Assistant General Counsel issues a notice instituting such a proceeding as to all or part of the complaint under § 302.406(a) or the General Counsel does so under § 302.406(c).
 
 (b) *Amendment.* A formal complaint may be amended at any time before service of an answer to the complaint. After service of an answer but before institution of an enforcement proceeding, the complaint may be amended with the permission of the Assistant General Counsel. After institution of an enforcement proceeding, the complaint may be amended only on grant of a motion filed under § 302.11.
 
@@ -8,4 +8,6 @@
 
 (d) *Joinder of complaints or complainants.* Two or more grounds of complaints involving substantially the same purposes, subject or state of facts may be included in one complaint even though they involve more than one respondent. Two or more complainants may join in one complaint if their respective causes of complaint are against the same party or parties and involve substantially the same purposes, subject or state of facts. The Assistant General Counsel may separate or split complaints if he or she finds that the joinder of complaints, complainants, or respondents will not be conducive to the proper dispatch of the Department's business or the ends of justice.
 
-(e) *Service.* A formal complaint, and any amendments thereto, shall be served by the person filing such documents upon each party complained of, upon the Deputy General Counsel, and upon the Assistant General Counsel.
+(e) *Service.* A formal complaint, and any amendments thereto, shall be served by the person filing such documents upon each party complained of, upon the General Counsel, and upon the Assistant General Counsel.
+
+[Docket No. OST-97-2090, 65 FR 6457, Feb. 9, 2000, as amended at 84 FR 15936, Apr. 16, 2019]

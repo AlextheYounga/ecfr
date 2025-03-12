@@ -1,6 +1,6 @@
 ##### 538.273 Contract clauses. #####
 
-Link to an amendment published at 84 FR 17039, Apr. 23, 2019.
+Link to an amendment published at 84 FR 17039, Apr. 23, 2019.Link to a correction published at 84 FR 22382, May 17, 2019.
 
 (a) *Multiple award schedules.* Insert in solicitations and contracts:
 

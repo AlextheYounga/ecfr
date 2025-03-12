@@ -1,3 +1,3 @@
 ##### § 389.12 Payment of fees and charges. #####
 
-The fees charged for special services may be paid by check, draft, or postal money order, payable to the Civil Aeronautics Board, except for charges for reporting services which are performed under competitive bid contracts with non-Government firms. Fees for reporting are payable to the firms providing the services.
+The fees charged for services and resources shall be paid for electronically at *http://www.pay.gov,* a secure government-wide collection portal, except for charges for reporting services that are performed under competitive bid contracts with non-Government firms. Fees for reporting are payable to the firms providing the services. Payments to *pay.gov* can be made directly from a bank account or by credit/debit card.

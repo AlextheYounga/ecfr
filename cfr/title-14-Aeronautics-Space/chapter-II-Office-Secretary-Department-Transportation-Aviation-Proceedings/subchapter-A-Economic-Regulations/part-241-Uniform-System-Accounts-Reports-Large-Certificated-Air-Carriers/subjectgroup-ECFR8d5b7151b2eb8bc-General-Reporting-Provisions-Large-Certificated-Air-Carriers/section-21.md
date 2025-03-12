@@ -1,8 +1,6 @@
 ##### Section 21 Introduction to System of Reports #####
 
-Link to an amendment published at 84 FR 15931, Apr. 16, 2019.
-
-(a) Each large certificated air carrier subject to the Federal Aviation Act of 1958, as amended, shall file with the BTS, monthly, quarterly, semiannually, and annually BTS Form 41 Reports of financial and operating statistics as prescribed herein unless waiver has been made by the Civil Aeronautics Board.
+(a) Each large certificated air carrier shall file with the BTS, monthly, quarterly, semiannually, and annually BTS Form 41 Reports of financial and operating statistics as prescribed herein unless waiver has been made by the BTS.
 
 (b) The system prescribed provides for the submission by each air carrier of four classes of financial and operating statistics, on individual schedules of the BTS Form 41 Report, grouped as follows:
 
@@ -28,4 +26,4 @@ A. Certification.B. Balance Sheet Elements.P. Profit and Loss Elements.T. Traffi
 
 (l) When and as required in the national interest, any air carrier which performs nonscheduled transport services for the Department of Defense shall, when directed by the Department, make separate reports for such services as if they were conducted by a physically separate transport entity, such reports shall consist of Schedules P-1 through P-7, T-1, and T-2. The letter “D” shall be inserted on such reports, following the schedule number of each P and T schedule. When a carrier has more than one reporting entity, nonscheduled transport and nonscheduled Defense services shall be assigned to the reporting entity to which more closely related.
 
-[ER-1027, 42 FR 60128, Nov. 25, 1977, as amended by ER-1073, 43 FR 40453, Sept. 12, 1978; ER-1073, 44 FR 1970, Jan. 9, 1979; ER-1188, 45 FR 48871, July 22, 1980; ER-1297, 47 FR 32919, July 30, 1982; ER-1400, 50 FR 12, Jan. 2, 1985; ER-1401, 50 FR 247, Jan. 3, 1985; Amdt. 241-56, 52 FR 9130, Mar. 23, 1987; Amdt. 241-60, 56 FR 12658, Mar. 27, 1991; 60 FR 66724, Dec. 26, 1995; 75 FR 41584, July 16, 2010]
+[ER-1027, 42 FR 60128, Nov. 25, 1977, as amended by ER-1073, 43 FR 40453, Sept. 12, 1978; ER-1073, 44 FR 1970, Jan. 9, 1979; ER-1188, 45 FR 48871, July 22, 1980; ER-1297, 47 FR 32919, July 30, 1982; ER-1400, 50 FR 12, Jan. 2, 1985; ER-1401, 50 FR 247, Jan. 3, 1985; Amdt. 241-56, 52 FR 9130, Mar. 23, 1987; Amdt. 241-60, 56 FR 12658, Mar. 27, 1991; 60 FR 66724, Dec. 26, 1995; 75 FR 41584, July 16, 2010; Doc. No. DOT-OST-2014-0140, 84 FR 15931, Apr. 16, 2019]

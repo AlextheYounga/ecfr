@@ -1,9 +1,5 @@
-##### § 300.8 Gifts and hospitality and other conduct affecting DOT employees. #####
+##### § 300.8 Opinions or rulings by the General Counsel. #####
 
-Link to an amendment published at 84 FR 15935, Apr. 16, 2019.
+The General Counsel is authorized to render opinions or rulings to the public on the application of the provisions of this part. When written request is made for such opinions and rulings, they shall be transmitted to DOT and shall be available to the public in the Documentary Services Division after any appeal to or review by the Secretary has been completed or after the time for review has expired. Identifying details shall normally be stricken from copies available to the public unless the public interest requires disclosure of such details.
 
-(a) No person, otherwise than as provided by law for the proper discharge of official duty, shall directly or indirectly give, offer, or promise anything of value to any DOT employee for or because of any official act performed or to be performed by such DOT employee (18 U.S.C. 201).
-
-(b) Subject to 49 CFR part 99, it is improper for persons interested in the business of DOT to provide hospitality, gifts, entertainment, or favors to any DOT employee.
-
-(c) Persons interested in the business of DOT should familiarize themselves with (49 CFR part 99), in order that they shall not encourage or cause any violation of the provisions of that part by any DOT employee.
+[Docket No. 82, 50 FR 2380, Jan. 16, 1985. Redesignated and amended by Doc. No. DOT-OST-2014-0140, 84 FR 15935, Apr. 16, 2019]

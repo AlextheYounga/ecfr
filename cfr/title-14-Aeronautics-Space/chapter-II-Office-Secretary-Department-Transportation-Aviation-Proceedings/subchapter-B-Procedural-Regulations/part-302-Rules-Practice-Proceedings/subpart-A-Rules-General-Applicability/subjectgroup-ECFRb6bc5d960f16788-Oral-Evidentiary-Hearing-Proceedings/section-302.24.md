@@ -1,7 +1,5 @@
 ##### § 302.24 Evidence. #####
 
-Link to an amendment published at 84 FR 15936, Apr. 16, 2019.
-
 (a) *Presenting evidence.* Presenting evidence at the hearing shall be limited to material evidence relevant to the issues as drawn by the pleadings or as defined in the report of prehearing conference, subject to such later modifications of the issues as may be necessary to protect the public interest or to prevent injustice, and shall not be unduly repetitious. Evidence shall be presented in such form by all parties as the administrative law judge may direct.
 
 (b) *Objections to evidence.* Objections to the admission or exclusion of evidence shall be in short form, stating the grounds of objections relied upon, and the transcript shall not include argument or debate except as ordered by the administrative law judge. Rulings on such objections shall be a part of the transcript.
@@ -28,17 +26,17 @@ Link to an amendment published at 84 FR 15936, Apr. 16, 2019.
 
 (ii) All Form 41 reports required to be filed by air carriers with the Department.
 
-(iii) Reports of Traffic and Financial Data of all U.S. Air Carriers issued by the Civil Aeronautics Board (CAB) or the Department.
+(iii) Reports of Traffic and Financial Data of all U.S. Air Carriers issued by the Department or by its predecessor.
 
-(iv) Airline Traffic Surveys and Passenger Origin-Destination Surveys, Domestic and International, compiled by the CAB or the Department and published and/or made available either to the public or to parties in proceedings.
+(iv) Airline Traffic Surveys and Passenger Origin-Destination Surveys, Domestic or International, compiled by the Department or its predecessor and published and/or made available either to the public or to parties in proceedings.
 
-(v) Compilations of data relating to competition in the airline industry and made available to the public by the CAB or the Department, such as the 1990 Airline Competition Study.
+(v) Compilations of data relating to competition in the airline industry and made available to the public by the Department or its predecessor.
 
-(vi) Passenger, mail, express, and freight data submitted to the CAB or the Department as part of ER-586 Service Segment Data by U.S. carriers, or similar data submitted to the Department by U.S. air carriers (T-100) or by foreign air carriers (T-100F) that is not confidential.
+(vi) Passenger, mail, express, and freight data submitted to the Department and its predecessor as part of ER-586 Service Segment Data by U.S. carriers, or similar data submitted to the Department by U.S. air carriers (T-100) or (T-100F) that are not confidential.
 
 (vii) All tariffs, including the electronic versions, and amendments thereof, of all air carriers, on file with the Department.
 
-(viii) Service Mail Pay and Subsidy for U.S. Certificated Air Carriers published by the CAB and any supplemental data and subsequent issues published by the CAB or the Department.
+(viii) Service Mail Pay and Subsidy for U.S. Certificated Air Carriers published by the Department or its predecessor, including any supplemental data and subsequent issues published by the Department or its predecessor.
 
 (ix) Airport Activity Statistics of Certificated Air Carriers compiled and published by the Federal Aviation Administration (FAA) or the Department.
 
@@ -46,23 +44,23 @@ Link to an amendment published at 84 FR 15936, Apr. 16, 2019.
 
 (xi) National Plan of Integrated Airport Systems (NPIAS) issued by the FAA.
 
-(xii) Airport Facilities Directory, Form 5010, issued by the FAA.
+(xii) Chart Supplements, issued by the FAA.
 
 (xiii) The Airman's Information Manual issued by the FAA.
 
-(xiv) ICAO Statistical Summary, Preliminary Issues and Nos. 1 through 14, and Digest of Statistics, Nos. 15 through 71, prepared by ICAO, Montreal, Canada, with all changes and additions.
+(xiv) Monthly, quarterly and annual reports of the Immigration and Naturalization Service, U.S. Department of Justice.
 
-(xv) Monthly, quarterly and annual reports of the Immigration and Naturalization Service, U.S. Department of Justice.
+(xv) All forms and reports required by the U.S. Postal Service to be filed by air carriers authorized to transport mail.
 
-(xvi) All forms and reports required by the U.S. Postal Service to be filed by air carriers authorized to transport mail.
+(xvi) All orders of the Postmaster General designating schedules for the transportation of mail.
 
-(xvii) All orders of the Postmaster General designating schedules for the transportation of mail.
+(xvii) Publications of the Bureau of the Census of the U.S. Department of Commerce (DOC) relating, but not necessarily limited, to population, manufacturing, business, statistics, and any yearbooks, abstracts, or similar publications published by DOC.
 
-(xviii) Publications of the Bureau of the Census of the U.S. Department of Commerce (DOC) relating, but not necessarily limited, to population, manufacturing, business, statistics, and any yearbooks, abstracts, or similar publications published by DOC.
+(xviii) All Official Airline Guides, including the North American, Worldwide, All-Cargo and quick reference editions, including electronic versions.
 
-(xix) ABC World Airways Guide and all Official Airline Guides, including the North American, Worldwide, All-Cargo and quick reference editions, including electronic versions.
+(xix) Official Railways Guide and Russell's Official National Motor Coach Guide.
 
-(xx) Official Guide of the Railways and Russell's Official National Motor Coach Guide.
+(xx) The Rand McNally Commercial Atlas and Marketing Guide, and the Rand McNally Road Atlas, United States, Canada, and Mexico.
 
 (xxi) The Rand McNally Commercial Atlas and Marketing Guide, and the Rand McNally Road Atlas, United States, Canada, and Mexico.
 
@@ -77,3 +75,5 @@ Link to an amendment published at 84 FR 15936, Apr. 16, 2019.
 (i) *Exceptions.* Formal exceptions to the rulings of the administrative law judge made during the course of the hearing are unnecessary. For all purposes for which an exception otherwise would be taken, it is sufficient that a party, at the time the ruling of the administrative law judge is made or sought, makes known the action he or she desires the administrative law judge to take or his or her objection to an action taken, and his or her grounds therefor.
 
 (j) *Offers of proof.* Any offer of proof made in connection with an objection taken to any ruling of the administrative law judge rejecting or excluding proffered oral testimony shall consist of a statement of the substance of the evidence that counsel contends would be adduced by such testimony, and if the excluded evidence consists of evidence in documentary or written form or of reference to documents or records, a copy of such evidence shall be marked for identification and shall constitute the offer of proof.
+
+[Docket No. OST-97-2090, 65 FR 6457, Feb. 9, 2000, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15936, Apr. 16, 2019]

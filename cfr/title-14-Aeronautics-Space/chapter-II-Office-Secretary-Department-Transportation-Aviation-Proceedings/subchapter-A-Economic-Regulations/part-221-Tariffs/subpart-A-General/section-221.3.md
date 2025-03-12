@@ -1,7 +1,5 @@
 ##### § 221.3 Definitions. #####
 
-Link to an amendment published at 84 FR 15929, Apr. 16, 2019.
-
 As used in this part, terms shall be defined as follows:
 
 *Add-on* means an amount published for use only in combination with other fares for the construction of through fares. It is also referred to as “proportional fare” and “arbitrary fare”.
@@ -27,8 +25,6 @@ As used in this part, terms shall be defined as follows:
 *Conditions of carriage* means those rules of general applicability that define the rights and obligations of the carrier(s) and any other party to the contract of carriage with respect to the transportation services provided.
 
 *Contract of carriage* means those fares, rules, and other provisions applicable to the foreign air transportation of passengers or their baggage, as defined in the statute.
-
-*Department* means the Department of Transportation.
 
 *Direct-service market* means an international market where the carrier provides service either on a nonstop or single-flight-number basis, including change-of-gauge.
 
@@ -70,8 +66,6 @@ As used in this part, terms shall be defined as follows:
 
 *SFFL* means the Standard Foreign Fare Level as established by the Department of Transportation under 49 U.S.C. 41509.
 
-*Statute* means subtitle VII of Title 49, United States Code.
-
 *Statutory notice* means the number of days required for tariff filings in § 221.160(a).
 
 *Tariff publication* means a tariff, a supplement to a tariff, or an original or revised record of a tariff, including an index of tariffs and an adoption notice (§ 221.161).
@@ -85,3 +79,5 @@ As used in this part, terms shall be defined as follows:
 *United States* means the several States, the District of Columbia, and the several Territories and possessions of the United States, including the Territorial waters and the overlying air space thereof.
 
 *Warsaw Convention* means the Convention for the Unification of Certain Rules Relating to International Transportation by Air, 49 Stat. 3000.
+
+[64 FR 40657, July 27, 1999, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15929, Apr. 16, 2019]

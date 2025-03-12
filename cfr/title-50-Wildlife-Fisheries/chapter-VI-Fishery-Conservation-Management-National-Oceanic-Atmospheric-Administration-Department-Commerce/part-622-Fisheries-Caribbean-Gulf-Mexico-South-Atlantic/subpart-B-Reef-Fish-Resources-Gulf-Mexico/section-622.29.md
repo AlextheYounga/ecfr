@@ -1,5 +1,7 @@
 ##### § 622.29 Conservation measures for protected resources. #####
 
+Link to an amendment published at 84 FR 22385, May 17, 2019.
+
 (a) *Gulf reef fish commercial vessels and charter vessels/headboats* - (1) *Sea turtle conservation measures.* (i) The owner or operator of a vessel for which a commercial vessel permit for Gulf reef fish or a charter vessel/headboat permit for Gulf reef fish has been issued, as required under §§ 622.20(a)(1) and 622.20(b), respectively, must post inside the wheelhouse, or within a waterproof case if no wheelhouse, a copy of the document provided by NMFS titled, “Careful Release Protocols for Sea Turtle Release With Minimal Injury,” and must post inside the wheelhouse, or in an easily viewable area if no wheelhouse, the sea turtle handling and release guidelines provided by NMFS.
 
 (ii) Such owner or operator must also comply with the sea turtle bycatch mitigation measures, including gear requirements and sea turtle handling requirements, specified in §§ 635.21(c)(5)(i) and (ii) of this chapter, respectively.

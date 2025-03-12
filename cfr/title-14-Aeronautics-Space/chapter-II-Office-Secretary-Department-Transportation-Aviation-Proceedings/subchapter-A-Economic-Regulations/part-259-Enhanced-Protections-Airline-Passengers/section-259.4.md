@@ -1,7 +1,5 @@
 ##### § 259.4 Contingency Plan for Lengthy Tarmac Delays. #####
 
-Link to an amendment published at 84 FR 15933, Apr. 16, 2019.
-
 (a) *Adoption of Plan.* Each covered carrier shall adopt a Contingency Plan for Lengthy Tarmac Delays for its scheduled and public charter flights at each U.S. large hub airport, medium hub airport, small hub airport and non-hub airport at which it operates or markets such air service and shall adhere to its plan's terms.
 
 (b) *Contents of Plan.* Each Contingency Plan for Lengthy Tarmac Delays shall include, at a minimum, the following:
@@ -36,7 +34,7 @@ Link to an amendment published at 84 FR 15933, Apr. 16, 2019.
 
 (c) *Code-Share Responsibility.* The tarmac delay contingency plan of the carrier under whose code the service is marketed governs, if different from the operating carrier, unless the marketing carrier specifies in its contract of carriage that the operating carrier's plan governs.
 
-(d) *Amendment of plan.* At any time, a carrier may amend its Contingency Plan for Lengthy Tarmac Delays to decrease the time for aircraft to remain on the tarmac for domestic flights covered in paragraph (b)(1) of this section, for aircraft to remain on the tarmac for international flights covered in paragraph (b)(2) of this section, and for the trigger point for food and water covered in paragraph (b)(3) of this section. A carrier may also amend its plan to increase these intervals (up to the limits in this rule), in which case the amended plan shall apply only to departures that are first offered for sale after the plan's amendment.
+(d) *Amendment of plan.* At any time, a carrier may amend its Contingency Plan for Lengthy Tarmac Delays to decrease the time for aircraft to remain on the tarmac for domestic flights covered in paragraph (b)(1) of this section, for aircraft to remain on the tarmac for international flights covered in paragraph (b)(2) of this section, and for the trigger point for food and water covered in paragraph (b)(3) of this section. A carrier may also amend its plan to increase these intervals (up to the limits in this section), in which case the amended plan shall apply only to departures that are first offered for sale after the plan's amendment.
 
 (e) *Retention of records.* Each carrier that is required to adopt a Contingency Plan for Lengthy Tarmac Delays shall retain for two years the following information about any tarmac delay that lasts more than three hours:
 
@@ -50,6 +48,6 @@ Link to an amendment published at 84 FR 15933, Apr. 16, 2019.
 
 (5) An explanation for any tarmac delay that exceeded 3 hours (*i.e.*, why the aircraft did not return to the gate by the 3-hour mark).
 
-(f) *Unfair and deceptive practice.* A carrier's failure to comply with the assurances required by this rule and contained in its Contingency Plan for Lengthy Tarmac Delays will be considered to be an unfair and deceptive practice within the meaning of 49 U.S.C. 41712 that is subject to enforcement action by the Department.
+(f) *Unfair and deceptive practice.* A carrier's failure to comply with the assurances required by this section and contained in its Contingency Plan for Lengthy Tarmac Delays will be considered to be an unfair and deceptive practice within the meaning of 49 U.S.C. 41712 that is subject to enforcement action by the Department.
 
-[Doc. No. DOT-OST-2010-0140, 76 FR 23164, Apr. 25, 2011]
+[Doc. No. DOT-OST-2010-0140, 76 FR 23164, Apr. 25, 2011; Doc. No. DOT-OST-2014-0140, 84 FR 15933, Apr. 16, 2019]

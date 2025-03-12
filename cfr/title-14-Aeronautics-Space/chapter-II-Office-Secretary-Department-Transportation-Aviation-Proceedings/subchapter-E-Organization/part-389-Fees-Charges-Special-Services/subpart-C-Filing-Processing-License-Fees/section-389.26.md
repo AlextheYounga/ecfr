@@ -6,14 +6,12 @@
 
 (2) If the tariff is issued for one or more air carriers and one or more foreign air carriers, the fee will be charged for each page, except for those pages that the issuing agent states contain only:
 
-(i) Matters pertaining exclusively to foreign air carriers that have been granted a waiver, or
+(i) Matters pertaining exclusively to foreign air carriers that have been granted a waiver; or
 
 (ii) Changes in matters pertaining to foreign air carriers that have been granted a waiver and that are included on the same page with other matters that are reissued without change.
 
 (3) The fee will not be charged for a blank looseleaf page unless it cancels matters in the preceding page.
 
-(4) No fee will be charged when two pages are published back-to-back, one page is not subject to the fee under paragraph (b)(2), and the page on the reverse is issued without substantive change.
+(4) No fee will be charged when two pages are published back-to-back, one page is not subject to the fee under paragraph (b)(2) of this section, and the page on the reverse is issued without substantive change.
 
 (5) The fee will be charged for two looseleaf pages containing a correction number check sheet unless all other pages of the tariff are exempt from the fee.
-
-[48 FR 643, Jan. 6, 1983]

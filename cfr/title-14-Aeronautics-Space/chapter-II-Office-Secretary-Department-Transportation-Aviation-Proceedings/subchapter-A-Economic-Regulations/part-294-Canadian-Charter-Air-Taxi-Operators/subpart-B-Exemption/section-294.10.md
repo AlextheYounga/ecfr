@@ -1,8 +1,6 @@
 ##### § 294.10 Exemption authority. #####
 
-Link to an amendment published at 84 FR 15934, Apr. 16, 2019.
-
-Canadian charter air taxi operators registered under this part are exempt from the following provisions of the Statute to the extent necessary to perform charter air service between the United States and Canada, and as long as they comply with the terms, conditions, and limitations of this part:
+Canadian charter air taxi operators registered under this part are exempt from the following provisions of 49 U.S.C. Subtitle VII to the extent necessary to perform charter air service between the United States and Canada, and as long as they comply with the terms, conditions, and limitations of this part:
 
 (a) Section 41302 (permits).
 
@@ -10,6 +8,6 @@ Canadian charter air taxi operators registered under this part are exempt from t
 
 (c) Section 41310 (discrimination).
 
-(d) Section 41313 (aviation disaster family assistance plans for foreign air carriers)
+(d) Section 41313 (aviation disaster family assistance plans for foreign air carriers).
 
-[ER-1257, 46 FR 52591, Oct. 27, 1981, as amended at 60 FR 43526, Aug. 22, 1995; 71 FR 49347, Aug. 23, 2006]
+[ER-1257, 46 FR 52591, Oct. 27, 1981, as amended at 60 FR 43526, Aug. 22, 1995; 71 FR 49347, Aug. 23, 2006; DOT-OST-2014-0140, 84 FR 15934, Apr. 16, 2019]

@@ -1,7 +1,5 @@
 ##### § 380.2 Definitions. #####
 
-Link to an amendment published at 84 FR 15940, Apr. 16, 2019.
-
 For the purposes of this part:
 
 *Certificated air carrier* means a U.S. direct air carrier holding a certificate issued under the statute.
@@ -14,7 +12,7 @@ For the purposes of this part:
 
 *Foreign air carrier* means a direct air carrier that holds a foreign air carrier permit issued under the statute or an exemption issued under the statute authorizing direct foreign air transportation.
 
-*Foreign Public Charter opertor* means an indirect air carrier which is not a citizen of the United States as defined in the statute, that is authorized to engage in the formation of groups for transportation on Public Charters in accordance with this part.
+*Foreign Public Charter operator* means an indirect air carrier which is not a citizen of the United States as defined in the statute, that is authorized to engage in the formation of groups for transportation on Public Charters in accordance with this part.
 
 *Indirect air carrier* means any person who undertakes to engage indirectly in air transportation operations and who uses for such transportation the services of a direct air carrier.
 
@@ -24,7 +22,7 @@ For the purposes of this part:
 
 *Security agreement* means:
 
-(1) A surety bond issued by a company -
+(1) A surety bond issued by a company—
 
 (i) That is listed in the Best's Insurance Reports (Fire and Casualty) with a general policyholders' rating of “A” or better, or
 
@@ -32,10 +30,8 @@ For the purposes of this part:
 
 (2) A Surety trust agreement or a letter-of-credit, issued by a Federal Deposit Insurance Corporation-insured financial institution, which provides substantially equivalent protection.
 
-*Statute* means Subtitle VII of Title 49 of the United States Code (Transportation).
-
 *Sub-operator* means a Public Charter operator that has contracted for its charter seats from a Public Charter operator that has contracted from one or more direct air carriers. A sub-operator is itself an indirect air carrier, not an agent of the Public Charter operator from which it has obtained its seat.
 
 *U.S. Public Charter operator* means an indirect air carrier that is a citizen of the United States as defined in 49 U.S.C. 40102(a) and that is authorized to engage in the formation of groups for transportation on Public Charters in accordance with this part.
 
-[Doc. No. OST-97-2356, 63 FR 28241, May 22, 1998, as amended at 70 FR 25773, May 16, 2005]
+[Doc. No. OST-97-2356, 63 FR 28241, May 22, 1998, as amended at 70 FR 25773, May 16, 2005; Doc. No. DOT-OST-2014-0140, 84 FR 15940, Apr. 16, 2019]

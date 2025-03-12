@@ -1,12 +1,10 @@
 ##### § 204.2 Definitions. #####
 
-Link to an amendment published at 84 FR 15924, April 16, 2019.
-
 As used in this part:
 
-(a) *All-cargo air carrier or section 41103 carrier* means an air carrier holding an all-cargo air transportation certificate issued under section 41103 of the Statute authorizing the transportation by aircraft in interstate air transportation of only property or only mail, or both.
+(a) *All-cargo air carrier or section 41103 carrier* means an air carrier holding an all-cargo air transportation certificate issued under section 41103 of 49 U.S.C. Subtitle VII authorizing the transportation by aircraft in interstate air transportation of only property or only mail, or both.
 
-(b) *Certificate authority* means authority to provide air transportation granted by the Department of Transportation or Civil Aeronautics Board in the form of a certificate of public convenience and necessity under section 41102 of the Statute or an all-cargo air transportation certificate to perform all-cargo air transportation under section 41103 of the Statute. *Certificated carriers* are those that hold certificate authority.
+(b) *Certificate authority* means authority to provide air transportation granted by the Secretary of Transportation in the form of a certificate of public convenience and necessity under 49 U.S.C. 41102 or an all-cargo air transportation certificate to perform all-cargo air transportation under 49 U.S.C. 41103. *Certificated carriers* are those that hold certificate authority, including those carriers operating by law under the regulatory provisions under the Department's predecessor.
 
 (c) *Citizen of the United States* means:
 
@@ -18,21 +16,15 @@ As used in this part:
 
 (d) *Commuter air carrier* means an air carrier holding or seeking authority under part 298 of this Chapter that carries passengers on at least five round trips per week on at least one route between two or more points according to its published flight schedules that specify the times, days of the week, and places between which those flights are performed.
 
-(e) *Eligible place* means a place in the United States that -
+(e) *Eligible place* means a place in the United States that meets the specified criteria outlined in 49 U.S.C. Chapter 417.
 
-(1) Was an eligible point under section 419 of the Federal Aviation Act of 1958 as in effect before October 1, 1988;
+(f) *Essential air service* is that air transportation which the Department has found to be essential under Subchapter II of Chapter 417 of 49 U.S.C. Subtitle VII.
 
-(2) Received scheduled air transportation at any time between January 1, 1990, and November 4, 1990; and
+(g) *Fit* means fit, willing, and able to perform the air transportation in question properly and to conform to the provisions of 49 U.S.C. Subtitle VII and the rules, regulations and requirements issued under 49 U.S.C. Subtitle VII.
 
-(3) Is not listed in Department of Transportation Orders 89-9-37 and 89-12-52 as a place ineligible for compensation under Subchapter II of Chapter 417 of the Statute.
+(h) *Interstate air transportation* means the transportation of passengers or property by aircraft as a common carrier for compensation, or the transportation of mail by aircraft—
 
-(f) *Essential air service* is that air transportation which the Department has found to be essential under Subchapter II of Chapter 417 of the Statute.
-
-(g) *Fit* means fit, willing, and able to perform the air transportation in question properly and to conform to the provisions of the Statute and the rules, regulations and requirements issued under the Statute.
-
-(h) *Interstate air transportation* means the transportation of passengers or property by aircraft as a common carrier for compensation, or the transportation of mail by aircraft -
-
-(1) Between a place in -
+(1) Between a place in—
 
 (i) A State, territory, or possession of the United States and a place in the District of Columbia or another State, territory, or possession of the United States;
 
@@ -66,4 +58,4 @@ As used in this part:
 
 (m) *Substantial interest* means beneficial control of 10 percent or more of the outstanding voting stock.
 
-[Doc. No. 47582, 57 FR 38766, Aug. 27, 1992, as amended at 60 FR 43523, Aug. 22, 1995; 64 FR 12085, Mar. 11, 1999; 72 FR 20036, Apr. 23, 2007]
+[Doc. No. 47582, 57 FR 38766, Aug. 27, 1992, as amended at 60 FR 43523, Aug. 22, 1995; 64 FR 12085, Mar. 11, 1999; 72 FR 20036, Apr. 23, 2007; Doc. No. DOT-OST-2014-0140, 84 FR 15924, Apr. 16, 2019]

@@ -1,23 +1,19 @@
 ##### § 200.1 Terms and definitions. #####
 
-Link to an amendment published at 84 FR 15924, April 16, 2019.
+For purposes of this chapter—
 
-Unless otherwise specifically stated, words and phrases other than those listed in this section have the meaning defined in the Statute.
-
-(a) *Board* or *CAB* means the Civil Aeronautics Board.
+(a) Unless otherwise specifically stated, words and phrases other than those listed in this section have the meaning defined in 49 U.S.C. Subtitle VII.
 
 (b) *Department* or *DOT* means the Department of Transportation.
 
-(c) *Act* means the Federal Aviation Act of 1958, as amended.
+(c) *Predecessor* means the Civil Aeronautics Board (CAB).
 
-(d) *Section* refers to a section of the Statute or a section of the regulations in this chapter, as indicated by the context. The terms *this section, pursuant to this section, in accordance with the provisions of this section,* and words of similar import when used in this chapter refer to the section of this subchapter in which such terms appear.
+(d) *Order* refers to the rules, regulations, and orders prescribed by the Department pursuant to the 49 U.S.C. Subtitle VII or its orders that are, by law, still in effect.
 
-(e) *Rule, regulation,* and *order* refer to the rules, regulations, and orders prescribed by the Board or the Department pursuant to the Statute.
+(e) *FAA* means the Federal Aviation Administration, U.S. Department of Transportation.
 
-(f) *Statute* when used in this chapter means Subtitle VII of Title 49 of the United States Code (Transportation).
+(f) *OST-R* means the Office of the Assistant Secretary for Research and Technology, U.S. Department of Transportation.
 
-(g) *FAA* means the Federal Aviation Administration, U.S. Department of Transportation.
+(g) *Secretary* means the Secretary of Transportation, U.S. Department of Transportation.
 
-(h) *BTS* means the Bureau of Transportation Statistics, U.S. Department of Transportation.
-
-[Doc. No. 47939, 57 FR 40100, Sept. 2, 1992, as amended by Doc. No. OST-95-397, 60 FR 43523, Aug. 22, 1995; 60 FR 66722, Dec. 26, 1995]
+[Doc. No. DOT-OST-2014-0140, 84 FR 15924, Apr. 16, 2019]

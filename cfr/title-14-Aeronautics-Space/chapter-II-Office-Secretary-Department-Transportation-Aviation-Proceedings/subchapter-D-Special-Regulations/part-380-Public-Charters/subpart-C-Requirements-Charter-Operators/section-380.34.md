@@ -1,7 +1,5 @@
 ##### § 380.34 Security and depository agreements. #####
 
-Link to an amendment published at 84 FR 15941, Apr. 16, 2019.
-
 (a) Except as provided in paragraph (b) of this section, the charter operator or foreign charter operator shall furnish a security agreement in an amount for not less than the charter price for the air transportation, if only air transportation is involved, or, if the charter involves land accommodations in addition to air transportation, a security agreement in one of the following amounts dependent upon the length of the charter or series of charters:
 
 (1) For a charter or series of charters of 14 days or less, security in an amount of not less than the charter price for the air transportation to be furnished in connection with such charter or series of charters;
@@ -16,7 +14,7 @@ Link to an amendment published at 84 FR 15941, Apr. 16, 2019.
 
 (2) The direct air carrier and charter operator or foreign charter operator shall enter into an agreement with a designated bank, the terms of which shall provide that all payments by charter participants paid to charter operators or foreign charter operators and their retail travel agents shall be deposited with and maintained by the bank subject to the following conditions:
 
-(i) On sales made to charter participants by charter operators or foreign charter operators the participant shall pay by check, money order, or credit card draft payable to the bank;2 on sales made to charter participants by retail travel agents, the retail travel agent may deduct his commission and remit the balance to the designated bank by check, money order, or electronic transfer: Provided, That the travel agent agrees in writing with the charter operator or foreign charter operator that if the charter is canceled the travel agent shall remit to the bank the full amount of the commission previously deducted or received within 10 days after receipt of notification of cancellation of the charter; except for the credit card company's usual commission (not to exceed 3 percent), the charter operator shall not permit any portion of a charter participant's payments by credit cared to be “held back” by the credit card merchant bank;3
+(i) On sales made to charter participants by charter operators or foreign charter operators the participant shall pay by check, money order, or credit card draft payable to the bank;2 on sales made to charter participants by retail travel agents, the retail travel agent may deduct his commission and remit the balance to the designated bank by check, money order, or electronic transfer: Provided, That the travel agent agrees in writing with the charter operator or foreign charter operator that if the charter is canceled the travel agent shall remit to the bank the full amount of the commission previously deducted or received within 10 days after receipt of notification of cancellation of the charter; except for the credit card company's usual commission (not to exceed 3 percent), the charter operator shall not permit any portion of a charter participant's payments by credit card to be “held back” by the credit card merchant bank;3
 
 2 See also n.1, *supra.*
 
@@ -59,3 +57,5 @@ Link to an amendment published at 84 FR 15941, Apr. 16, 2019.
 (7) When security is provided by a security agreement other than a bond, the agreement shall be issued by a national bank complying with the provisions of 12 CFR 7.7010(a), or by a State bank complying with applicable State laws that give authority to issue such agreements, and all such banks must be insured by the Federal Deposit Insurance Corporation.
 
 (d) The security agreement required by this section shall provide that unless the charter participant files a claim with the charter operator or foreign charter operator, or, if it is unavailable, with the securer, within 60 days after termination of the charter, the securer shall be released from all liability under the security agreement to such charter participant. Terminations means the date of arrival (or in the case of a canceled charter, the intended date of arrival) of the return flight. If there is no return flight in a participant's itinerary, termination means the date or intended date of departure of the last flight in the participant's itinerary.
+
+[Docket No. OST-97-2356, 63 FR 28241, May 22, 1998, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15941, Apr. 16, 2019]

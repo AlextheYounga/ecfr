@@ -1,6 +1,6 @@
 ##### § 294.22 Notification to the Department of change in operations or identifying information. #####
 
-Registrants shall refile a copy of OST Form 4505 with the Department's Office of International Aviation, Special Authorities Division, upon any of the following events. The refiling shall be sent by electronic mail, or other means, so as to be received by the Department not later than 30 days after the reported event has occurred.
+Registrants shall refile a copy of OST Form 4505 with the Department's Office of International Aviation, U.S. Air Carrier Licensing/Special Authorities Division, upon any of the following events. The refiling shall be sent by electronic mail, or other means, so as to be received by the Department not later than 30 days after the reported event has occurred.
 
 (a) The carrier changes its name. When a carrier refiles OST Form 4505 to indicate a change of name:
 

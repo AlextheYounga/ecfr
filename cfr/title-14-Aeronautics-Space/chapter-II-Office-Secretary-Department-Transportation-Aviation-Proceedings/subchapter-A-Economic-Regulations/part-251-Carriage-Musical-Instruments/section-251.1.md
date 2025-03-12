@@ -1,7 +1,5 @@
 ##### § 251.1 Definitions. #####
 
-Link to an amendment published at 84 FR 15932, Apr. 16, 2019.
-
 As used in this part:
 
 *Certificated air carrier* means a U.S. carrier holding a certificate issued under 49 U.S.C. 41102 to conduct passenger service or holding an exemption to conduct passenger operations under 49 U.S.C. 40109.
@@ -10,6 +8,6 @@ As used in this part:
 
 *Covered carrier* means a certificated carrier, a commuter carrier, an air taxi, or a U.S. indirect carrier operating to, from, or within the United States, conducting scheduled passenger service or public charter service.
 
-*FAA* means the Federal Aviation Administration, an operating administration of the Department of Transportation.
-
 *Indirect carrier* means a person not directly involved in the operation of an aircraft who sells air transportation services to the general public other than as an authorized agent of a carrier.
+
+[80 FR 166, Jan. 5, 2015, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15932, Apr. 16, 2019]

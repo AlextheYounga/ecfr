@@ -1,19 +1,29 @@
 ##### § 385.14 Authority of the General Counsel. #####
 
-Link to an amendment published at 84 FR 15944, Apr. 16, 2019.
+The General Counsel has authority to:
 
-(a) The General Counsel has authority to:
+(a) Issue proposed or final regulations for the purpose of making editorial changes or corrections to the Department's rules and regulations to carry out Subparts I, II and IV of Part A of Subtitle VII of the Transportation Code at 49 U.S.C. 40101 *et seq.,* with the concurrence of the staff offices primarily responsible for the parts or sections involved: Provided, that any final regulation so issued shall have an effective date not less than 20 days after its date of publication in the Federal Register, and shall include a brief reference to the review procedures established in subpart C of this part.
 
-(1) Issue proposed or final regulations for the purpose of making editorial changes or corrections in the Department's rules and regulations to carry out Titles IV and X of the Act, with the concurrence of the staff offices primarily responsible for the parts or sections involved: *Provided,* That any final regulation so issued shall have an effective date not less than 20 days after its date of publication in the Federal Register, and shall include a brief reference to the review procedures established in subpart C of this part.
+(b) Where a petition for review is duly filed, reverse any rulemaking action taken pursuant to paragraph (a) of this section by withdrawing a proposed or final regulation issued thereunder. Any action taken by the General Counsel, pursuant to the authority of this section, shall not be subject to the review procedures of this part.
 
-(2) Where a petition for review is duly filed, reverse any rulemaking action taken by him or her pursuant to paragraph (a) of this section by withdrawing a proposed or final regulation issued thereunder, in which case the petition for review will not be submitted to the Reviewing Official involved. (Such a withdrawal is not subject to the review procedures of subpart C of this part.)
+(c) Issue orders deferring action until after oral argument on motions submitted by parties subsequent to the issuance of an Administrative Law Judge's initial or recommended decision.
 
-(3) Issue, upon request therefor, interpretations of facts bearing upon disqualifications of former members and employees, and Department employees under § 300.13 or § 300.14 of this chapter (Procedural Regulations).
+(d) Reissue existing regulations for the purpose of incorporating prior amendments adopted by the Department.
 
-(4) Issue orders deferring action until after oral argument on motions submitted by parties subsequent to the issuance of an Administrative Law Judge's initial or recommended decision.
+(e) Compromise any civil penalties being imposed in enforcement cases.
 
-(5) Reissue existing regulations for the purpose of incorporating prior amendments adopted by the Department.
+(f) Issue orders initiating and terminating informal nonpublic investigations under part 305 of this chapter (Procedural Regulations).
 
-(b) To the extent that a hearing case is involved, the authority assigned to the General Counsel in paragraph (a) of this section shall not be reassigned to the Deputy General Counsel or exercised by the Deputy General Counsel in the capacity of Acting General Counsel.
+(g) Issue orders requiring air carriers to prepare and submit within a specified reasonable period, special reports, copies of agreements, records, accounts, papers, documents, and specific answers to questions upon which information is deemed necessary. Special reports shall be under oath whenever the General Counsel so requires.
 
-[Doc. No. T-1, 49 FR 50985, Dec. 31, 1984; Amdt. 1, 50 FR 7170, Feb. 21, 1985. Redesignated by Doc. No. OST-96-1268, 61 FR 19170, May 1, 1996]
+(h) Institute and prosecute in the proper court, as agent of the Department, all necessary proceedings for the enforcement of the provisions of the act or any rule, regulation, requirement, or order thereunder, or any term, condition, or limitation of any certificate or permit, and for the punishment of all violations thereof. Any action taken by the General Counsel, pursuant to the authority of this section, shall not be subject to the review procedures of this part.
+
+(i) Make findings regarding the reasonable necessity for the application of the Department's authority to obtain access to lands, buildings, and equipment, and to inspect, examine, and make notes and copies of accounts, records, memorandums, documents, papers, and correspondence of persons having control over, or affiliated with, any person subject to regulation under Subparts I, II, and IV of Part A of Subtitle VII of the Transportation Code at 49 U.S.C. 40101 *et seq.* through issuance of an appropriate order, letter, or other transmittal.
+
+(j) Issue orders denying or granting conditional or complete confidential treatment of information supplied by any person to the Office of Aviation Enforcement and Proceedings. Confidential treatment may only be granted upon a finding that, if the information were in the Department's possession and a Freedom of Information Act (FOIA) request were made for the information:
+
+(1) At the time of the confidentiality request, the FOIA request would be denied on the basis of one or more of the FOIA exemptions; and
+
+(2) At any later time, the FOIA request would also be denied, absent a material change in circumstances (which may include a demonstration that the asserted exemption does not apply).
+
+[Doc. No. DOT-OST-2014-0140, 84 FR 15944, Apr. 16, 2019]

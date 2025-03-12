@@ -1,6 +1,6 @@
 ##### § 294.33 Compliance with the regulations of the Federal Aviation Administration. #####
 
-(a) Registrants under this part shall obtain FAA operations specifications required under part 129 or other applicable rules of the Federal Aviation Regulations prior to beginning operations into the United States. Registrants should write to the FAA office at one of the following addresses to obtain instructions on how to apply for FAA authority.
+(a) Registrants under this part shall obtain FAA operations specifications required under part 129 or other applicable rules of this title (the Federal Aviation Regulations) prior to beginning operations into the United States. Registrants should write to the FAA office at one of the following addresses to obtain instructions on how to apply for FAA authority.
 
 (b) If the registrant's business address is located on or east of 76 degrees West Longitude (in or east of Ottawa, Ontario) it should write to: Federal Aviation Administration, General Aviation District Office No. 1, Albany County Airport, Albany, New York 12211.
 

@@ -1,8 +1,6 @@
 ##### Sec. 19-7 Passenger origin-destination survey. #####
 
-Link to an amendment published at 84 FR 15931, Apr. 16, 2019.
-
-(a) All U.S. large certificated air carriers conducting scheduled passenger operations (except helicopter carriers) shall participate in a Passenger Origin-Destination (O & D) Survey covering domestic and international operations, as described in the instructions manual entitled, *Instructions to Air Carriers for Collecting and Reporting Passenger Origin-Destination Survey Statistics* (Appendix A to this section), and in *Passenger Origin-Destination Directives* issued by the Department's Bureau of Transportation Statistics (BTS), Office of Airline Information (OAI). Copies of these *Instructions* and *Directives* are provided to each large carrier participating in the Survey. Copies are also available from the Office of Airline Information, K-25, U.S. Department of Transportation, 1200 New Jersey Avenue, SE., Washington, DC 20590. Copies of these *Instructions* and *Directives* are available on the BTS Web page at (*http://www.bts.gov/programs/airline\_information/*).
+(a) All U.S. large certificated air carriers conducting scheduled passenger operations (except helicopter carriers) shall participate in a Passenger Origin-Destination (O & D) Survey covering domestic and international operations, as described in the instructions manual entitled, *Instructions to Air Carriers for Collecting and Reporting Passenger Origin-Destination Survey Statistics* (Appendix A to this section), and in *Passenger Origin-Destination Directives* issued by the Department's Bureau of Transportation Statistics (BTS), Office of Airline Information (OAI). Copies of these *Instructions* and *Directives* are provided to each large carrier participating in the Survey. Copies are also available from the Office of Airline Information, RTS-42, U.S. Department of Transportation, 1200 New Jersey Avenue, SE., Washington, DC 20590. Copies of these *Instructions* and *Directives* are available on the BTS Web page at (*http://www.bts.gov/programs/airline\_information/*).
 
 (b) Reports required by this section shall be submitted to the Bureau of Transportation Statistics in a format specified in accounting and reporting directives issued by the Bureau of Transportation Statistics' Director of Airline Information.
 
@@ -24,7 +22,7 @@ Link to an amendment published at 84 FR 15931, Apr. 16, 2019.
 
 Appendix A to § 19-7 - Instructions to Air Carriers for Collecting and Reporting Passenger Origin-Destination Survey StatisticsAll questions, comments, extension and waiver requests should be e-mailed to *ODsurvey.Support@dot.gov.*![](/graphics/ec30se91.007.gif)B. Narrative Description
 
-A single O&D Survey is conducted continuously by the large U.S. certificated air carriers. Foreign air carriers do not directly participate in the Survey, although some of their data are captured in the Survey, since passengers who share a ticketed itinerary between a U.S. carrier and a foreign carrier may be sampled by the U.S. carrier. The authority for these instructions is found in 14 CFR part 241, section 19-7, and in the CAB Sunset Act of 1984 (Pub. L. 94-443).
+A single O&D Survey is conducted continuously by the large U.S. certificated air carriers. Foreign air carriers do not directly participate in the Survey, although some of their data are captured in the Survey, since passengers who share a ticketed itinerary between a U.S. carrier and a foreign carrier may be sampled by the U.S. carrier. The authority for these instructions is found in 14 CFR part 241, sec. 19-7.
 
 The Survey samples revenue passenger trips moving in whole or in part on domestic and/or international scheduled services of the carriers participating in the Survey. In general, these requirements do not apply to small certificated, all-cargo and all charter carriers.
 
@@ -290,4 +288,4 @@ Selected terms used in the foregoing instructions are here defined and explained
 
 [Reserved]
 
-[Amdt. 241-55, 52 FR 6529, Mar. 5, 1987, as amended at 60 FR 66723, 66724, Dec. 26, 1995; 62 FR 43280, Aug. 13, 1997; 67 FR 58690, Sept. 18, 2002; 75 FR 41584, July 16, 2010]
+[Amdt. 241-55, 52 FR 6529, Mar. 5, 1987, as amended at 60 FR 66723, 66724, Dec. 26, 1995; 62 FR 43280, Aug. 13, 1997; 67 FR 58690, Sept. 18, 2002; 75 FR 41584, July 16, 2010; Doc. No. DOT-OST-2014-0140, 84 FR 15931, Apr. 16, 2019]

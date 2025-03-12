@@ -1,0 +1,5 @@
+##### § 303.31 Justification for the application. #####
+
+A section 41309 application shall explain the nature and purpose of the contract, agreement or request to discuss a cooperative working arrangement and describe how it changes any price, rule, or practice existing under a previously approved application. The application also, consistent with Department of Transportation and the precedent of DOT's predecessor, shall contain factual material, documentation, and argument in support of the application. Economic analyses, when required, shall include full explanatory details, including data sources and allocation methods. If the applicants intend to rely upon market data sources, other than those available to the public by the Department, the complete market data shall be included with the application at the time of filing. If the applicants intend to rely on public benefits to justify approval, they shall describe these benefits, including foreign policy and comity considerations.
+
+[Doc. No. DOT-OST-2014-0140, 84 FR 15937, Apr. 16, 2019]

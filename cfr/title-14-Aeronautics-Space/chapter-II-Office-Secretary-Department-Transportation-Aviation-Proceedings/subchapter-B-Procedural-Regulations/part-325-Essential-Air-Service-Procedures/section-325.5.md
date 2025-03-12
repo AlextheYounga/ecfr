@@ -1,17 +1,11 @@
 ##### § 325.5 Determinations and designations. #####
 
-Link to an amendment published at 84 FR 15938, Apr. 16, 2019.
+DOT will issue a determination of the essential level of air service for a place within 6 months after each of the following events:
 
-(a) Not later than October 24, 1979, after reviewing all information submitted, CAB issued determinations of the essential level of air service for eligible points that, on October 24, 1978, were served by not more than one direct air carrier holding a certificate under section 401 of the Act for scheduled service to the point.
+(a) A notice is received that service to an eligible place will be reduced to only one carrier that holds a section 41102 certificate;
 
-(b) DOT will issue a determination of the essential level of air service for a point within 6 months after each of the following events:
+(b) A place is designated as an eligible place under 49 U.S.C. 41731 and either paragraph (c) or (d) of this section or § 325.7(e); or
 
-(1) A notice is received that service to an eligible point will be reduced to only one carrier that holds a section 401 certificate;
+(c) A review was conducted of essential air service of that place under § 325.6.
 
-(2) A point is designated as an eligible point under section 419(b) of the Act and either paragraph (c) of this section, paragraph (d) of this section, or § 325.7(e); or
-
-(3) A review was conducted of essential air service of that point under § 325.6.
-
-(c) Not later than January 1, 1982, CAB designated the communities described in § 270.2(a) and (b) as eligible points or as ineligible.
-
-(d) After January 1, 1982, DOT may designate communities in Alaska or Hawaii as eligible points if they apply for such designation.
+[Doc. No. DOT-OST-2014-0140, 84 FR 15938, Apr. 16, 2019]

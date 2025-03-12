@@ -1,6 +1,6 @@
 ##### § 221.80 Effect of suspension by Department. #####
 
-(a) *Suspended matter not to be used.* A fare, charge, or other tariff provision which is suspended by the Department, under authority of chapter 415 of the statute, shall not be used during the period of suspension specified by the Department's order.
+(a) *Suspended matter not to be used.* A fare, charge, or other tariff provision which is suspended by the Department, under authority of chapter 415 of 49 U.S.C. Subtitle VII, shall not be used during the period of suspension specified by the Department's order.
 
 (b) *Suspended matter not to be changed.* A fare, charge, or other tariff provision which is suspended by the Department shall not be changed in any respect or withdrawn or the effective date thereof further deferred except by authority of an order or special tariff permission of the Department.
 

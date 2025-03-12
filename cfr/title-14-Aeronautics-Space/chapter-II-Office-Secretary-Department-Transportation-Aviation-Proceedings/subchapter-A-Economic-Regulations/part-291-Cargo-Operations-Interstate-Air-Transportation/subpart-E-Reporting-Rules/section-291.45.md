@@ -1,7 +1,5 @@
 ##### § 291.45 BTS Schedule T-100, U.S. Air Carrier Traffic and Capacity Data by Nonstop Segment and On-Flight Market. #####
 
-Link to an amendment published at 84 FR 15933, Apr. 16, 2019.
-
 (a) Each section 41103 all-cargo air carrier shall file Schedule T-100, “U.S. Air Carrier Traffic and Capacity Data by Nonstop Segment and On-Flight Market”.
 
 (b) Schedule T-100 shall be filed monthly.
@@ -12,7 +10,7 @@ Link to an amendment published at 84 FR 15933, Apr. 16, 2019.
 
 (i) Joint-service operations are reported by the carrier in operational control of the flight, i.e., the carrier that uses its flight crews under its own FAA operating authority. The traffic moving under these agreements is reported on Schedule T-100 the same way as any other traffic on the aircraft.
 
-(ii) If there are questions about reporting a joint-service operation, contact the BTS Assistant Director - Airline Information (fax no. 202 366-3383, telephone no. 202 366-4373). Joint-service operations are reported in Schedule T-100 in accordance with this paragraph (b).
+(ii) If there are questions about reporting a joint-service operation, contact the BTS Assistant Director—Airline Information (fax no. 202 366-3383, telephone no. 202 366-4373). Joint-service operations are reported in Schedule T-100 in accordance with this paragraph (b).
 
 (iii) *Operational control.* The air carrier in operational control of the aircraft (the carrier that uses its flight crews under its own FAA operating authority) must report joint services.
 
@@ -33,41 +31,40 @@ Link to an amendment published at 84 FR 15933, Apr. 16, 2019.
 
 (d) *Air transport traffic and capacity elements.* Within each of the service classifications, carriers shall report air transport traffic and capacity elements. The elements are reported on segment and/or market records as follows:
 
-|Code|             Description             |Segment|Market|Computed by DOT|
-|----|-------------------------------------|-------|------|---------------|
-|    |    Carrier, carrier entity code     |   S   |  M   |               |
-|    |        Reporting period date        |   S   |  M   |               |
-|    |         Origin airport code         |   S   |  M   |               |
-|    |      Destination airport code       |   S   |  M   |               |
-|    |         Service class code          |   S   |  M   |               |
-|    |         Aircraft type code          |   S   |      |               |
-|110 |     Revenue passengers enplaned     |       |  M   |               |
-|130 |   Revenue passengers transported    |   S   |      |               |
-|140 |       Revenue passenger-miles       |       |      |     CFD\*     |
-|210 |     Revenue cargo tons enplaned     |       |      |     CFD\*     |
-|217 |          Enplaned freight           |       |  M   |               |
-|219 |            Enplaned mail            |       |  M   |               |
-|230 |      Revenue tons transported       |       |      |     CFD\*     |
-|237 |         Transported freight         |   S   |      |               |
-|239 |          Transported mail           |   S   |      |               |
-|240 |          Revenue ton-miles          |       |      |     CFD\*     |
-|241 |     Revenue ton-miles passenger     |       |      |     CFD\*     |
-|247 |      Revenue ton-miles freight      |       |      |     CFD\*     |
-|249 |       Revenue ton-miles mail        |       |      |     CFD\*     |
-|270 |     Available capacity payload      |   S   |      |               |
-|280 |         Available ton-miles         |       |      |     CFD\*     |
-|310 |       Available seats, total        |   S   |      |               |
-|320 |        Available seat-miles         |       |      |     CFD\*     |
-|410 |    Revenue aircraft miles flown     |       |      |     CFD\*     |
-|430 |  Revenue aircraft miles scheduled   |       |      |     CFD\*     |
-|501 |       Inter-airport distance        |       |      |     CFD\*     |
-|510 |Revenue aircraft departures performed|   S   |      |               |
-|520 |Revenue aircraft departures scheduled|   S   |      |               |
-|610 |  Revenue aircraft hours (airborne)  |   S   |      |               |
-|630 |    Aircraft hours (ramp-to-ramp)    |   S   |      |               |
-|650 |   Total aircraft hours (airborne)   |   S   |      |               |
-
-\* CFD = Computed by DOT from detail Schedule T-100 and T-100(f) data.
+|                                 Code                                 |             Description             |Segment|Market|Computed by DOT|
+|----------------------------------------------------------------------|-------------------------------------|-------|------|---------------|
+|                                                                      |    Carrier, carrier entity code     |   S   |  M   |               |
+|                                                                      |        Reporting period date        |   S   |  M   |               |
+|                                                                      |         Origin airport code         |   S   |  M   |               |
+|                                                                      |      Destination airport code       |   S   |  M   |               |
+|                                                                      |         Service class code          |   S   |  M   |               |
+|                                                                      |         Aircraft type code          |   S   |      |               |
+|                                 110                                  |     Revenue passengers enplaned     |       |  M   |               |
+|                                 130                                  |   Revenue passengers transported    |   S   |      |               |
+|                                 140                                  |       Revenue passenger-miles       |       |      |     CFD\*     |
+|                                 210                                  |     Revenue cargo tons enplaned     |       |      |     CFD\*     |
+|                                 217                                  |          Enplaned freight           |       |  M   |               |
+|                                 219                                  |            Enplaned mail            |       |  M   |               |
+|                                 230                                  |      Revenue tons transported       |       |      |     CFD\*     |
+|                                 237                                  |         Transported freight         |   S   |      |               |
+|                                 239                                  |          Transported mail           |   S   |      |               |
+|                                 240                                  |          Revenue ton-miles          |       |      |     CFD\*     |
+|                                 241                                  |     Revenue ton-miles passenger     |       |      |     CFD\*     |
+|                                 247                                  |      Revenue ton-miles freight      |       |      |     CFD\*     |
+|                                 249                                  |       Revenue ton-miles mail        |       |      |     CFD\*     |
+|                                 270                                  |     Available capacity payload      |   S   |      |               |
+|                                 280                                  |         Available ton-miles         |       |      |     CFD\*     |
+|                                 310                                  |       Available seats, total        |   S   |      |               |
+|                                 320                                  |        Available seat-miles         |       |      |     CFD\*     |
+|                                 410                                  |    Revenue aircraft miles flown     |       |      |     CFD\*     |
+|                                 430                                  |  Revenue aircraft miles scheduled   |       |      |     CFD\*     |
+|                                 501                                  |       Inter-airport distance        |       |      |     CFD\*     |
+|                                 510                                  |Revenue aircraft departures performed|   S   |      |               |
+|                                 520                                  |Revenue aircraft departures scheduled|   S   |      |               |
+|                                 610                                  |  Revenue aircraft hours (airborne)  |   S   |      |               |
+|                                 630                                  |    Aircraft hours (ramp-to-ramp)    |   S   |      |               |
+|                                 650                                  |   Total aircraft hours (airborne)   |   S   |      |               |
+|\* CFD = Computed by DOT from detail Schedule T-100 and T-100(f) data.|                                     |       |      |               |
 
 (e) These reported items are further described as follows:
 
@@ -101,13 +98,13 @@ Link to an amendment published at 84 FR 15933, Apr. 16, 2019.
 
 (15) *239 Transported mail.* The total weight of mail transported over a single flight stage, including mail already on the aircraft from a previous flight stage.
 
-(16) *240 Revenue ton-miles - total.* Ton-miles are computed by multiplying the revenue aircraft miles flown (410) on each flight stage by the number of tons transported on that stage. This element is the sum of 241 through 249.
+(16) *240 Revenue ton-miles—total.* Ton-miles are computed by multiplying the revenue aircraft miles flown (410) on each flight stage by the number of tons transported on that stage. This element is the sum of 241 through 249.
 
-(17) *241 Revenue ton-miles - passenger.* Equals the number of passengers times 200, times inter-airport distance, divided by 2000. A standard weight of 200 pounds per passenger, including baggage, is used for all operations and service classes.
+(17) *241 Revenue ton-miles—passenger.* Equals the number of passengers times 200, times inter-airport distance, divided by 2000. A standard weight of 200 pounds per passenger, including baggage, is used for all operations and service classes.
 
-(18) *247 Revenue ton-miles - freight.* Equals the volume of freight in whole tons times the inter-airport distance.
+(18) *247 Revenue ton-miles—freight.* Equals the volume of freight in whole tons times the inter-airport distance.
 
-(19) *249 Revenue ton-miles - mail.* Equals the volume of mail in whole tons times the inter-airport distance.
+(19) *249 Revenue ton-miles—mail.* Equals the volume of mail in whole tons times the inter-airport distance.
 
 (20) *270 Available capacity-payload.* The available capacity is collected in pounds. This figure shall reflect the payload or total available capacity for passengers, mail and freight applicable to the aircraft with which each flight stage is performed.
 
@@ -135,95 +132,4 @@ Link to an amendment published at 84 FR 15933, Apr. 16, 2019.
 
 (f) *Public availability of Schedule T-100 data.* Detailed domestic on-flight market and nonstop segment data in Schedule T-100, except military data, shall be publicly available after processing. Domestic data are defined as data from air transportation operations from a place in any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico and the Virgin Islands, or a U.S. territory or possession to a place in any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico and the Virgin Islands, or a U.S. territory or possession.
 
-Appendix to § 291.45 - Instructions to U.S. Air Carriers for Reporting Traffic and Capacity Data on Schedule T-100
-
-(a) *Format of reports* - (1) *Automatic Data Processing (ADP) magnetic tape.* Refer to paragraph (d) of this appendix for instructions pertaining to mainframe and minicomputer reporting. The Department will issue “Accounting and Reporting Directives” to make necessary technical changes to these T-100 instructions. Technical changes which are minor in nature do not require public notice and comment.
-
-(2) *Microcomputer diskette* - (i) *Optional specification.* If an air carrier desires to use its personal computers (PC's), rather than mainframe or minicomputers to prepare its data submissions, the following specifications for filing data on diskette media apply.
-
-(ii) *Reporting medium.* Microcomputer ADP data submission of T-100 information must be on IBM compatible disks. Carriers wishing to use a different ADP procedure must obtain written approval to do so from the BTS Assistant Director - Airline Information. Requests for approval to use alternate methods must disclose and describe the proposed data transmission methodology. Refer to paragraph (i) of this appendix for microcomputer record layouts.
-
-(iii) *Microcomputer file characteristics.* The files will be created in ASCII delimited format, sometimes called Data Interchange Format (DIF). This form of recording data provides for variable length fields (data elements) which, in the case of alphabetic data, are enclosed by quotation marks (“) and separated by a comma (,) or tab. Numeric data elements that are recorded without editing symbols are also separated by a comma (,) or tab. The data are identified by their juxtaposition within a given record. Therefore, each record must contain the exact number of data elements, all of which must be juxtapositionally correct. Personal computer software including most spreadsheets, data base management programs, and BASIC are capable of producing files in this format.
-
-(b) *Filing date for reports.* The reports must be received at BTS within 30 days following the end of each reporting period.
-
-(c) *Address for filing.* Data Administration Division, K-14, Office of Airline Information, Bureau of Transportation Statistics, U.S. Department of Transportation, 1200 New Jersey Avenue, SE., Washington, DC 20590-0001.
-
-(d) *ADP format for magnetic tape* - (1) *Magnetic tape specifications.* IBM compatible 9-track EBCDIC recording. Recording density of 6250 or 1600 bpi. The order of recorded information is:
-
-(i) Volume label.
-
-(ii) Header label.
-
-(iii) Data records.
-
-(iv) Trailer label.
-
-(2) [Reserved]
-
-(e) *External tape label information.* (1) Carrier name.
-
-(2) Report date.
-
-(3) File identification.
-
-(4) Carrier address for return of tape reel.
-
-(f) *Standards.* It is the policy of the Department to be consistent with the American National Standards Institute and the Federal Standards Activity in all data processing and telecommunications matters. It is our intention that all specifications in this application are in compliance with standards promulgated by these organizations.
-
-(g) *Volume, header, and trailer label formats* - (1) *Use standard IBM label formats.* The file identifier field of the header labels should be “T-100.SYSTEM”.
-
-(h) *Magnetic tape record layouts for T-100* - (1) *Nonstop segment record layout.*
-
-|Field No.|Positions|Mode|                       Description                       |
-|---------|---------|----|---------------------------------------------------------|
-|    1    |    1    | 1T |         Record type code (S = nonstop segment).         |
-|    2    |   2-6   | 5T |                  Carrier entity code.                   |
-|    3    |  7-12   | 6T |                  Report date (YYYYMM).                  |
-|    4    |  13-15  | 3T |                  Origin airport code.                   |
-|    5    |  16-18  | 3T |                Destination airport code.                |
-|    6    |   19    | 1T |        Service class code (F, G, L, N, P or R).         |
-|    7    |  20-23  | 4T |                   Aircraft type code.                   |
-|    8    |  24-28  | 5N |   Revenue departures performed (F, G, L, N, P, R510).   |
-|    9    |  29-38  |10N | Available capacity payload (lbs) (F, G, L, N, P, R270). |
-|   10    |  39-45  | 7N |              Available seats (F, L, N310).              |
-|   11    |  46-52  | 7N |          Passengers transported (F, L, N130).           |
-|   12    |  53-62  |10N | Rev freight transported (F, G, L, N, P, R237) (in lbs). |
-|   13    |  63-72  |10N |Revenue mail transported (F, G, L, N, P, R239) (in lbs). |
-|   14    |  73-77  | 5N |    Revenue aircraft departures scheduled (F, G520).     |
-|   15    |  78-87  |10N |Rev hrs, ramp-to-ramp (F, G, L, N, P, R630) (in minutes).|
-|   16    |  88-97  |10N |  Rev hrs, airborne (F, G, L, N, P, R610) (in minutes).  |
-
-T = Text.
-
-N = Numeric.
-
-(2) *On-flight market record layout.*
-
-|Field No.|Positions|Mode|                     Description                      |
-|---------|---------|----|------------------------------------------------------|
-|    1    |    1    | 1T |      Record type: M = on-flight market record.       |
-|    2    |   2-6   | 5T |                 Carrier entity code.                 |
-|    3    |  7-12   | 4T |                Report date (YYYYMM).                 |
-|    4    |  13-15  | 3T |                 Origin airport code.                 |
-|    5    |  16-18  | 3T |              Destination airport code.               |
-|    6    |   19    | 1T |       Service class code (F, G, L, N, P or R).       |
-|    7    |  20-26  | 7N |       Total passengers in market (F, L, N110).       |
-|    8    |  27-36  |10N |Rev freight in market (F, G, L, N, P, R217) (in lbs). |
-|    9    |  37-46  |10N |Revenue mail in market (F, G, L, N, P, R219) (in lbs).|
-
-T = Text.
-
-N = numeric.
-
-(i) *Record layouts for microcomputer diskettes.* The record layouts for diskette are generally identical to those shown for magnetic tape, with the exception that delimiters (quotation marks, tabs and commas) are used to separate fields. It is necessary that the order of fields be maintained in all records.
-
-(1) *File characteristics.* The files will be created in ASCII delimited format, sometimes called Data Interchange Format (DIF). This form of recording data provides for variable length fields (data elements) which, in the case of alphabetic data, are enclosed by quotation marks (“) and separated by a comma (,) or tab. Numeric data elements that are recorded without editing symbols are also separated by a comma (,) or tab. The data are identified by their juxtaposition within a given record. Therefore, it is critical that each record contain the exact number of data elements, all of which must be juxtapositionally correct. PC software including most spreadsheets, data base management programs, and BASIC produce minidisk files in this format.
-
-(2) *File naming conventions for diskettes.* For microcomputer reports, each record type should be contained in a separate DOS file on the same physical diskette. The following DOS naming conventions should be followed:
-
-(i) Record type S = SEGMENT.DAT
-
-(ii) Record type M = MARKET.DAT
-
-[Doc. No. OST-98-4043, 67 FR 49227, July 30, 2002, as amended at 75 FR 41585, July 16, 2010]
+[Doc. No. OST-98-4043, 67 FR 49227, July 30, 2002, as amended at 75 FR 41585, July 16, 2010; DOT-OST-2014-0140, 84 FR 15933, Apr. 16, 2019]

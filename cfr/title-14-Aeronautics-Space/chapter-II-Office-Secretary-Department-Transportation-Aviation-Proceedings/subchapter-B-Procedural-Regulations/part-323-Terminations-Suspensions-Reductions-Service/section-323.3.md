@@ -16,7 +16,7 @@
 
 (iii) Less than the number of flights specified under an agreement between DOT and the State of Alaska; or
 
-(5) Terminate, suspend, or reduce passenger air transportation at an eligible place for which DOT has issued, or is required to issue, an essential air service determination under section 41731 or section 41733 of the Statute so that the total available seats of all the carriers linking that place to FAA-designated hubs will be reduced by 33 percent or more during a 90-day period. Service to a hub shall be considered to be terminated or suspended whenever it is operated less than 5 days per week, with three or more intermediate stops, or in one direction only between two places.
+(5) Terminate, suspend, or reduce passenger air transportation at an eligible place for which DOT has issued, or is required to issue, an essential air service determination under section 41731 or section 41733 of 49 U.S.C. Subtitle VII so that the total available seats of all the carriers linking that place to FAA-designated hubs will be reduced by 33 percent or more during a 90-day period. Service to a hub shall be considered to be terminated or suspended whenever it is operated less than 5 days per week, with three or more intermediate stops, or in one direction only between two places.
 
 (b) [Reserved]
 
@@ -40,4 +40,4 @@
 
 (f) If a certificated carrier was, before October 24, 1978, granted authority to terminate or suspend air transportation, but has not suspended service, the carrier shall comply with the requirements of this part before terminating or suspending service.
 
-[Doc. No. 82, 50 FR 2430, Jan. 16, 1985, as amended by Doc. No. OST-96-1269, 61 FR 19165, 19166, May 1, 1996]
+[Doc. No. 82, 50 FR 2430, Jan. 16, 1985, as amended by Doc. No. OST-96-1269, 61 FR 19165, 19166, May 1, 1996; Doc. No. DOT-OST-2014-0140, 84 FR 15938, Apr. 16, 2019]

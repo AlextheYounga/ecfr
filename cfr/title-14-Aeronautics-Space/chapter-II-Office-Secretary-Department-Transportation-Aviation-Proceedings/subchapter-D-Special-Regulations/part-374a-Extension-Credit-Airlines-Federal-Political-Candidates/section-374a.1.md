@@ -1,5 +1,5 @@
 ##### § 374a.1 Purpose. #####
 
-Link to an amendment published at 84 FR 15939, Apr. 16, 2019.
+The purpose of this part is to issue rules pursuant to the Federal Election Campaign Act of 1971, as amended, in accordance with the Department's responsibility thereunder.
 
-Section 401 of the Federal Election Campaign Act of 1971 (Pub. L. 92-225, 86 Stat. 19, 2 U.S.C. 451, enacted February 7, 1972, and hereafter referred to as the “Election Campaign Act”) directs the Civil Aeronautics Board to promulgate, within 90 days after enactment, regulations with respect to the extension of unsecured credit by any person regulated by the Board to any candidate for Federal office, or to any person on behalf of such a candidate, for goods furnished or services rendered in connection with the campaign of such candidate for nomination for election, or election, to such office. The purpose of this part is to issue rules pursuant to said section 401 of the Election Campaign Act in accordance with the Civil Aeronautics Board's responsibility thereunder.
+[Doc. No. DOT-OST-2014-0140, 84 FR 15939, Apr. 16, 2019]

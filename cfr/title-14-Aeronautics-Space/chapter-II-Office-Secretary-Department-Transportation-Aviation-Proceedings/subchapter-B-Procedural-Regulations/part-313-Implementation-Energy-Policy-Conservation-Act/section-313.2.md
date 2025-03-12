@@ -1,6 +1,6 @@
 ##### § 313.2 Policy. #####
 
-(a) *General.* It is the policy of DOT to view the conservation of energy and the energy efficiency improvement goals of Chapter 77 of Title 42 as part of DOT's overall mandate, to be considered along with the several public interest and public convenience and necessity factors enumerated in section 40101 of the Statute. To the extent practicable and consistent with DOT's authority under the Statute and other law, energy conservation and efficiency are to be weighed in the decisionmaking process just as are DOT's traditional policies and missions.
+(a) *General.* It is the policy of DOT to view the conservation of energy and the energy efficiency improvement goals of Chapter 77 of Title 42 as part of DOT's overall mandate, to be considered along with the several public interest and public convenience and necessity factors enumerated in section 40101 of 49 U.S.C. Subtitle VII. To the extent practicable and consistent with DOT's authority under the Statute and other law, energy conservation and efficiency are to be weighed in the decisionmaking process just as are DOT's traditional policies and missions.
 
 (b) *Implementation.* Implementation of this policy is through the integration of energy findings and conclusions into decisions, opinions, or orders in proceedings involving a major regulatory action, as defined in this part.
 
@@ -8,4 +8,4 @@
 
 (d) *Hearings.* Public hearings will not normally be held for the purpose of implementing 42 U.S.C. 6362, particularly in connection with proposed actions which do not require notice and hearing as a prerequisite to decision under the Statute. Hearings may be ordered in exceptional circumstances where the proposed action is of great magnitude or widespread public interest and, in addition, presents complex issues peculiarly subject to resolution through evidentiary hearings and the process of cross-examination.
 
-[Doc. No. 82, 50 FR 2425, Jan. 16, 1985, as amended at 60 FR 43528, 43529, Aug. 22, 1995]
+[Doc. No. 82, 50 FR 2425, Jan. 16, 1985, as amended at 60 FR 43528, 43529, Aug. 22, 1995, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15938, Apr. 16, 2019]

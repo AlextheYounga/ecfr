@@ -1,0 +1,3 @@
+##### § 218.22 Permissible methods of taking. #####
+
+Under LOAs issued pursuant to §§ 216.106 of this chapter and 218.26, the Holder of the LOA (hereinafter “Navy”) may incidentally, but not intentionally, take marine mammals within the area described in § 218.20(b) by Level A or Level B harassment associated with maintenance construction activities, provided the activity is in compliance with all terms, conditions, and requirements of the regulations in this subpart and the appropriate LOA.

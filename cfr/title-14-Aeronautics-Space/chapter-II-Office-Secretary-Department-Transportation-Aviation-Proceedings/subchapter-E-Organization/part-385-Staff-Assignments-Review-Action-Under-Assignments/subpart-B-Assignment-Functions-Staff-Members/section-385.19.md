@@ -1,12 +1,10 @@
-##### § 385.19 Authority of the Director, Office of Aviation Information, Bureau of Transportation Statistics. #####
+##### § 385.19 Authority of the Director, Office of Airline Information, Bureau of Transportation Statistics. #####
 
-Link to an amendment published at 84 FR 15944, Apr. 16, 2019.
+The Director, Office of Airline Information, Bureau of Transportation Statistics (BTS) has authority to:
 
-The Director, Office of Aviation Information, Bureau of Transportation Statistics (BTS) has authority to:
+(a) Conduct all rulemaking proceedings concerning accounting, reporting, and record retention requirements for carrying out Subparts I, II, and IV of 49 U.S.C. Subtitle VII, except the issuance of final rules and the disposition of petitions for reconsideration.
 
-(a) Conduct all rulemaking proceedings concerning accounting, reporting, and record retention requirements for carrying out Subparts I, II, and IV of the Statute, except the issuance of final rules and the disposition of petitions for reconsideration.
-
-(b) Interpret the accounting, reporting, and record retention requirements used to carry out Subparts I, II, and IV of the Statute.
+(b) Interpret the accounting, reporting, and record retention requirements used to carry out Subparts I, II, and IV of 49 U.S.C. Subtitle VII.
 
 (c) Waive any of the accounting, reporting, and record retention requirements upon a showing of the existence of such facts, circumstances or other grounds, and subject to such limitations or conditions as may be prescribed for waivers in the applicable regulations, unless such authority is otherwise specifically assigned.
 
@@ -36,4 +34,4 @@ The Director, Office of Aviation Information, Bureau of Transportation Statistic
 
 (p) Grant or deny requests for individual air carrier financial data as reported on Schedule P-1(a) in accordance with § 241.22(b)(3) of this chapter.
 
-[53 FR 51751, Dec. 23, 1988, as amended at 60 FR 66726, 66727, Dec. 26, 1995. Redesignated and amended by Doc. No. OST-96-1268, 61 FR 19170, May 1, 1996; 65 FR 6457, Feb. 9, 2000; 75 FR 41585, July 16, 2010]
+[53 FR 51751, Dec. 23, 1988, as amended at 60 FR 66726, 66727, Dec. 26, 1995. Redesignated and amended by Doc. No. OST-96-1268, 61 FR 19170, May 1, 1996; 65 FR 6457, Feb. 9, 2000; 75 FR 41585, July 16, 2010; Doc. No. DOT-OST-2014-0140, 84 FR 15944, Apr. 16, 2019]

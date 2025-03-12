@@ -1,81 +1,67 @@
 ##### Section 22 General Reporting Instructions #####
 
-Link to an amendment published at 84 FR 15931, Apr. 16, 2019.
-
 (a) One copy of each schedule in the BTS Form 41 report shall be filed with the BTS and shall be received on or before the due date indicated for each such schedule in the list titled “Due Dates of Schedules in BTS Form 41 Report.”
 
-List of Schedules in BTS Form 41 Report
+|                                           Schedule No.                                            |                                      Title                                       |Filing frequency|Applicability by carrier group|   |   |
+|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------|------------------------------|---|---|
+|                                                 I                                                 |                                        II                                        |      III       |                              |   |   |
+|                                                 A                                                 |                                  Certification                                   |       Q        |             (1)              | X | X |
+|                                                B-1                                                |                                  Balance sheet                                   |       Q        |             (1)              | X | X |
+|                                               B-1.1                                               |                                  Balance sheet                                   |       SA       |             (2)              |NA |NA |
+|                                                B-7                                                |            Airframe and aircraft engine acquisitions and retirements             |       Q        |              NA              | X | X |
+|                                               B-12                                                |                    Statement of changes in financial position                    |       Q        |             (1)              | X | X |
+|                                               B-43                                                |                   Inventory of airframes and aircraft engines                    |       A        |              X               | X | X |
+|                                               P-1.1                                               |                             Statement of operations                              |       SA       |             (2)              |NA |NA |
+|                                               P-1.2                                               |                             Statement of operations                              |       Q        |             (1)              | X | X |
+|                                              P-1(a)                                               |                            Interim operations report                             |       M        |              X               | X | X |
+|                                                P-2                                                |                           Notes to BTS Form 41 report                            |       Q        |             (1)              | X | X |
+|                                               P-5.1                                               |                           Aircraft operating expenses                            |  Q(1), SA(2)   |              X               |NA |NA |
+|                                               P-5.2                                               |                           Aircraft operating expenses                            |       Q        |              NA              | X | X |
+|                                                P-6                                                |                    Operating expenses by objective groupings                     |       Q        |             (1)              | X | X |
+|                                                P-7                                                |        Operating expenses by functional groupings—Group III air carriers         |       Q        |              NA              |NA | X |
+|                                               P-10                                                |                     Employment statistics by labor category                      |       A        |             (1)              | X | X |
+|                                              P-12(a)                                              |                  Fuel consumption by type of service and entity                  |       M        |             (1)              | X | X |
+|                                               T-100                                               |U.S. air carrier traffic and capacity data by nonstop segment and on-flight market|       M        |              X               | X | X |
+|                                             T-100(f)                                              |     Foreign air carrier traffic data by nonstop segment and on-flight market     |       M        |                              |   |   |
+|                                                                                                   |                                 (see 14 CFR 217)                                 |                |                              |   |   |
+|                                                T-8                                                |                          Report of all-cargo operations                          |       A        |             (3)              |(3)|(3)|
+|M = Monthly, Q = Quarterly, SA = Semiannually, A = Annually, NA = Not Applicable, X = All Carriers.|                                                                                  |                |                              |   |   |
+|   (1) Applicable to Group I Air Carriers with annual operating revenues of $20 million or more.   |                                                                                  |                |                              |   |   |
+|     (2) Appilcable to Group I Air Carriers with annual operating revenues below $20 million.      |                                                                                  |                |                              |   |   |
+|          (3) Applicable to Air Carriers conducting 49 U.S.C. 41103 all-cargo operations.          |                                                                                  |                |                              |   |   |
 
-[See footnotes at end of table]
-
-|Schedule No.|                                      Title                                       |Filing frequency|Applicability by carrier group|   |   |
-|------------|----------------------------------------------------------------------------------|----------------|------------------------------|---|---|
-|     I      |                                        II                                        |      III       |                              |   |   |
-|     A      |                                  Certification                                   |       Q        |             (1)              | X | X |
-|    B-1     |                                  Balance sheet                                   |       Q        |             (1)              | X | X |
-|   B-1.1    |                                  Balance sheet                                   |       SA       |             (2)              |NA |NA |
-|    B-7     |            Airframe and aircraft engine acquisitions and retirements             |       Q        |              NA              | X | X |
-|    B-12    |                    Statement of changes in financial position                    |       Q        |             (1)              | X | X |
-|    B-43    |                   Inventory of airframes and aircraft engines                    |       A        |              X               | X | X |
-|   P-1.1    |                             Statement of operations                              |       SA       |             (2)              |NA |NA |
-|   P-1.2    |                             Statement of operations                              |       Q        |             (1)              | X | X |
-|   P-1(a)   |                            Interim operations report                             |       M        |              X               | X | X |
-|    P-2     |                           Notes to RSPA Form 41 report                           |       Q        |             (1)              | X | X |
-|   P-5.1    |                           Aircraft operating expenses                            |  Q(1), SA(2)   |              X               |NA |NA |
-|   P-5.2    |                           Aircraft operating expenses                            |       Q        |              NA              | X | X |
-|    P-6     |                    Operating expenses by objective groupings                     |       Q        |             (1)              | X | X |
-|    P-7     |       Operating expenses by functional groupings - Group III air carriers        |       Q        |              NA              |NA | X |
-|    P-10    |                     Employment statistics by labor category                      |       A        |             (1)              | X | X |
-|  P-12(a)   |                  Fuel consumption by type of service and entity                  |       M        |             (1)              | X | X |
-|   T-100    |U.S. air carrier traffic and capacity data by nonstop segment and on-flight market|       M        |              X               | X | X |
-|  T-100(f)  |     Foreign air carrier traffic data by nonstop segment and on-flight market     |       M        |                              |   |   |
-|            |                                 (see 14 CFR 217)                                 |                |                              |   |   |
-|    T-8     |                          Report of all-cargo operations                          |       A        |             (3)              |(3)|(3)|
-
-M = Monthly, Q = Quarterly, SA = Semiannually, A = Annually, NA = Not Applicable, X = All Carriers.
-
-(1) Applicable to Group I Air Carriers with annual operating revenues of $20 million or more.
-
-(2) Appilcable to Group I Air Carriers with annual operating revenues below $20 million.
-
-(3) Applicable to Air Carriers conducting 49 U.S.C. 41103 all-cargo operations.
-
-Due Dates of Schedules in BTS Form 41 Report
-
-| Due dates<sup>1</sup> |                      Financial data on schedule No.                      |Traffic and capacity data on schedule No.|
-|-----------------------|--------------------------------------------------------------------------|-----------------------------------------|
-|      January 20       |                                 P-12(a)                                  |                                         |
-|      January 30       |                                  P-1(a)                                  |             T-100, T-100(f)             |
-|February 10<sup>2</sup>|A, B-1, B-1.1, B-7, B-12, P-1.1, P-1.2, P-2, P-5.1, P-5.2, P-6, P-7, P-10.|                                         |
-|      February 20      |                                 P-12(a)                                  |                                         |
-|        March 1        |                                  P-1(a)                                  |            T-100, T-100(f),             |
-|       March 20        |                                 P-12(a)                                  |                                         |
-|       March 30        |                              B-43, P-1(a).                               |          T-100, T-100(f), T-8           |
-|       April 20        |                                 P-12(a)                                  |                                         |
-|       April 30        |                                  P-1(a)                                  |             T-100, T-100(f)             |
-|        May 10         |          A, B-1, B-7, B-12, P-1.2, P-2, P-5.1, P-5.2, P-6, P-7.          |                                         |
-|        May 20         |                                 P-12(a)                                  |                                         |
-|        May 30         |                                  P-1(a)                                  |             T-100, T-100(f)             |
-|        June 20        |                                 P-12(a)                                  |                                         |
-|        June 30        |                                  P-1(a)                                  |             T-100, T-100(f)             |
-|        July 20        |                                 P-12(a)                                  |                                         |
-|        July 30        |                                  P-1(a)                                  |             T-100, T-100(f)             |
-|       August 10       |   A, B-1, B-1.1, B-7, B-12, P-1.1, P-1.2, P-2, P-5.1, P-5.2, P-6, P-7.   |                                         |
-|       August 20       |                                 P-12(a)                                  |                                         |
-|       August 30       |                                  P-1(a)                                  |             T-100, T-100(f)             |
-|     September 20      |                                 P-12(a)                                  |                                         |
-|     September 30      |                                  P-1(a)                                  |             T-100, T-100(f)             |
-|      October 20       |                                 P-12(a)                                  |                                         |
-|      October 30       |                                  P-1(a)                                  |             T-100, T-100(f)             |
-|      November 10      |          A, B-1, B-7, B-12, P-1.2, P-2, P-5.1, P-5.2, P-6, P-7.          |                                         |
-|      November 20      |                                 P-12(a)                                  |                                         |
-|      November 30      |                                  P-1(a)                                  |             T-100, T-100(f)             |
-|      December 20      |                                 P-12(a)                                  |                                         |
-|      December 30      |                                  P-1(a)                                  |             T-100, T-100(f)             |
-
-<sup>1</sup> Due dates falling on a Saturday, Sunday or national holiday will become effective the first following work day.
-
-<sup>2</sup> Reporting due dates on Form 41 Schedules B and P are extended to March 30 if preliminary schedules are filed at the Department by February 10
+|                                                                  Due dates <sup>1</sup>                                                                  |                      Financial data on schedule No.                      |Traffic and capacity data on schedule No.|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-----------------------------------------|
+|                                                                        January 20                                                                        |                                 P-12(a)                                  |                                         |
+|                                                                        January 30                                                                        |                                  P-1(a)                                  |             T-100, T-100(f)             |
+|                                                                 February 10 <sup>2</sup>                                                                 |A, B-1, B-1.1, B-7, B-12, P-1.1, P-1.2, P-2, P-5.1, P-5.2, P-6, P-7, P-10.|                                         |
+|                                                                       February 20                                                                        |                                 P-12(a)                                  |                                         |
+|                                                                         March 1                                                                          |                                  P-1(a)                                  |            T-100, T-100(f),             |
+|                                                                         March 20                                                                         |                                 P-12(a)                                  |                                         |
+|                                                                         March 30                                                                         |                              B-43, P-1(a).                               |          T-100, T-100(f), T-8           |
+|                                                                         April 20                                                                         |                                 P-12(a)                                  |                                         |
+|                                                                         April 30                                                                         |                                  P-1(a)                                  |             T-100, T-100(f)             |
+|                                                                          May 10                                                                          |          A, B-1, B-7, B-12, P-1.2, P-2, P-5.1, P-5.2, P-6, P-7.          |                                         |
+|                                                                          May 20                                                                          |                                 P-12(a)                                  |                                         |
+|                                                                          May 30                                                                          |                                  P-1(a)                                  |             T-100, T-100(f)             |
+|                                                                         June 20                                                                          |                                 P-12(a)                                  |                                         |
+|                                                                         June 30                                                                          |                                  P-1(a)                                  |             T-100, T-100(f)             |
+|                                                                         July 20                                                                          |                                 P-12(a)                                  |                                         |
+|                                                                         July 30                                                                          |                                  P-1(a)                                  |             T-100, T-100(f)             |
+|                                                                        August 10                                                                         |   A, B-1, B-1.1, B-7, B-12, P-1.1, P-1.2, P-2, P-5.1, P-5.2, P-6, P-7.   |                                         |
+|                                                                        August 20                                                                         |                                 P-12(a)                                  |                                         |
+|                                                                        August 30                                                                         |                                  P-1(a)                                  |             T-100, T-100(f)             |
+|                                                                       September 20                                                                       |                                 P-12(a)                                  |                                         |
+|                                                                       September 30                                                                       |                                  P-1(a)                                  |             T-100, T-100(f)             |
+|                                                                        October 20                                                                        |                                 P-12(a)                                  |                                         |
+|                                                                        October 30                                                                        |                                  P-1(a)                                  |             T-100, T-100(f)             |
+|                                                                       November 10                                                                        |          A, B-1, B-7, B-12, P-1.2, P-2, P-5.1, P-5.2, P-6, P-7.          |                                         |
+|                                                                       November 20                                                                        |                                 P-12(a)                                  |                                         |
+|                                                                       November 30                                                                        |                                  P-1(a)                                  |             T-100, T-100(f)             |
+|                                                                       December 20                                                                        |                                 P-12(a)                                  |                                         |
+|                                                                       December 30                                                                        |                                  P-1(a)                                  |             T-100, T-100(f)             |
+|               <sup>1</sup> Due dates falling on a Saturday, Sunday or national holiday will become effective the first following work day.               |                                                                          |                                         |
+|<sup>2</sup> Reporting due dates on Form 41 Schedules B and P are extended to March 30 if preliminary schedules are filed at the Department by February 10|                                                                          |                                         |
 
 (b) Each large certificated air carrier shall file the applicable schedules of the BTS Form 41 Report with the BTS in accordance with the above instructions with the following exceptions:
 
@@ -85,7 +71,7 @@ Due Dates of Schedules in BTS Form 41 Report
 
 (3) Income and expense data on Schedule P-1(a) for each month will be withheld by the BTS from public disclosure, until such time as (i) the semiannual or quarterly financial reports are due, (ii) the semiannual or quarterly financial reports are filed, or (iii) information covered by monthly reports is publicly released by the carrier concerned, whichever occurs first. Before that time, income and expense data reported on Schedule P-1(a) will be disclosed to parties to any proceeding before the DOT to the extent that such data are relevant and material to the issues in the proceeding upon a determination to this effect by the administrative law judge assigned to the case or by the DOT. Any data to which access is granted may be introduced into evidence, subject to the normal rules of admissibility of evidence. The DOT will make other disclosure of these data upon its own motion or upon application of any interested person, when the DOT finds the public interest so requires. The BTS may, from time to time, publish summary information compiled from Schedule P-1(a) in a form which will not identify the individual carrier. At the request of an air carrier, and upon a showing by such air carriers that public disclosure of its preliminary year-end report would adversely affect its interests and would not be in the public interest, the BTS will withhold such preliminary year-end report from public disclosure until such time as (i) the final report is filed, (ii) the final report is due, or (iii) information covered by the preliminary report is publicly released by the carrier concerned, whichever occurs first.
 
-(c) If circumstances prevent the filing of a report on or before the prescribed due date, consideration will be given to the granting of an extension upon receipt of a written request therefor. To provide ample time for consideration and communication to the air carrier of the action taken, such a request must be delivered to the Board in writing at least three (3) days in advance of the due date, setting forth good and sufficient reason to justify the granting of the extension and the date when the report can be filed. Except in cases of emergency, no such request will be entertained which is not in writing and received by the BTS at least three (3) days before the prescribed due date. If a request is denied, the air carrier remains subject to the filing requirements to the same extent as if no request for extension of time had been made.
+(c) If circumstances prevent the filing of a report on or before the prescribed due date, consideration will be given to the granting of an extension upon receipt of a written request therefor. To provide ample time for consideration and communication to the air carrier of the action taken, such a request must be delivered to the BTS in writing at least three (3) days in advance of the due date, setting forth good and sufficient reason to justify the granting of the extension and the date when the report can be filed. Except in cases of emergency, no such request will be entertained which is not in writing and received by the BTS at least three (3) days before the prescribed due date. If a request is denied, the air carrier remains subject to the filing requirements to the same extent as if no request for extension of time had been made.
 
 (d) [Reserved]
 
@@ -99,6 +85,6 @@ Due Dates of Schedules in BTS Form 41 Report
 
 (i) All changes in accounting methods having a material impact upon the particular financial elements involved, and all changes in methods of computing and reporting traffic and capacity statistics having a material impact upon the particular statistic involved shall be adequately explained and identified in the report first reflecting such changes. Such explanations related to financial position or financial results shall be made on BTS Form 41 Schedule P-2. Changes in methods for computing or reporting traffic and capacity statistics shall be identified and explained on a separate sheet attached to the first report affected. (See sec. 2-16.) The reporting requirements shall not be construed, in any sense, as relieving the air carrier of the responsibility for conforming its procedures to those otherwise prescribed in this system of accounts and reports.
 
-(j) All financial statements released by carriers to the public reflecting a financial position or operating results for dates or reporting periods not covered by reports on file with the Board shall be filed with the Board simultaneously with their public release.
+(j) All financial statements released by carriers to the public reflecting a financial position or operating results for dates or reporting periods not covered by reports on file with the BTS shall be filed with the Board simultaneously with their public release.
 
 (Approved by the Office of Management and Budget under control number 2138-0013)[ER-755, 37 FR 19726, Sept. 21, 1972]Editorial Note:For Federal Register citations affecting part 241, section 22, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

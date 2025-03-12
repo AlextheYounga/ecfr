@@ -1,7 +1,5 @@
 ##### § 211.31 Application. #####
 
-Link to an amendment published at 84 FR 15925, Apr. 16, 2019.
-
 The application shall include, in addition to other requirements of this part, documentation clearly establishing:
 
 (a) That the carrier is organized under the laws of the Federated States of Micronesia, the Marshall Islands, Palau or the United States;
@@ -10,6 +8,8 @@ The application shall include, in addition to other requirements of this part, d
 
 (c) That citizens of other countries do not have interests in the carrier sufficient to permit them substantially to influence its actions, or that substantial justification exists for a temporary waiver of this requirement;
 
-(d) That the Administrator of the Federal Aviation Administration has determined that the carrier complies with such safety standards as the Administrator considers to be required.
+(d) That the Administrator of the Federal Aviation Administration has determined that the carrier complies with such safety standards as the Administrator considers to be required; and
 
 (e) That the government or governments of the Freely Associated States concerned have consented to the carrier's operation as a “Freely Associated State Air Carrier.”
+
+[Amdt. 211-18, 52 FR 5442, Feb. 22, 1987, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15925, Apr. 16, 2019]

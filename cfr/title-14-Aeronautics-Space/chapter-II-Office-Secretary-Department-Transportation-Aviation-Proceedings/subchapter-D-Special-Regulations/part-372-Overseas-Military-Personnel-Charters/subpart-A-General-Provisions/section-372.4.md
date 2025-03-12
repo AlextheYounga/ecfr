@@ -1,5 +1,5 @@
 ##### § 372.4 Enforcement. #####
 
-In case of any violation of the provisions of the Statute, or this part, or any other rule, regulation, or order issued under the Statute, the violator may be subject to a proceeding pursuant to section 46101 of the Statute before the Department, or sections 46106 through 46108 of the Statute before a U.S. district court, as the case may be, to compel compliance therewith, to civil penalties pursuant to the provisions of section 46301 of the Statute, or in the case of willful violation, to criminal penalties pursuant to the provisions of section 46316 of the Statute; or other lawful sanctions.
+In case of any violation of the provisions of 49 U.S.C. Subtitle VII, or this part, or any other rule, regulation, or order issued under the Statute, the violator may be subject to a proceeding pursuant to section 46101 of 49 U.S.C. Subtitle VII before the Department, or sections 46106 through 46108 of 49 U.S.C. Subtitle VII before a U.S. district court, as the case may be, to compel compliance therewith, to civil penalties pursuant to the provisions of section 46301 of 49 U.S.C. Subtitle VII, or in the case of willful violation, to criminal penalties pursuant to the provisions of section 46316 of 49 U.S.C. Subtitle VII; or other lawful sanctions.
 
-[SPR-54, 37 FR 11163, June 3, 1972, as amended at 60 FR 43529, Aug. 22, 1995]
+[SPR-54, 37 FR 11163, June 3, 1972, as amended at 60 FR 43529, Aug. 22, 1995; Doc. No. DOT-OST-2014-0140, 84 FR 15938, Apr. 16, 2019]

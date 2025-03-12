@@ -1,7 +1,5 @@
 ##### § 313.3 Definitions. #####
 
-Link to an amendment published at 84 FR 15938, Apr. 16, 2019.
-
 As used in this part:
 
 (a) *Energy efficiency* means the ratio of the useful output of services in air transportation to the energy consumption of such services.
@@ -12,6 +10,4 @@ As used in this part:
 
 (d) *NEPA* means the National Environmental Policy Act of 1969.
 
-(e) *Statute* means Subtitle VII of Title 49 of the United States Code (Transportation).
-
-[Doc. No. 82, 50 FR 2425, Jan. 16, 1985, as amended at 60 FR 43529, Aug. 22, 1995]
+[Doc. No. 82, 50 FR 2425, Jan. 16, 1985, as amended at 60 FR 43529, Aug. 22, 1995, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15938, Apr. 16, 2019]

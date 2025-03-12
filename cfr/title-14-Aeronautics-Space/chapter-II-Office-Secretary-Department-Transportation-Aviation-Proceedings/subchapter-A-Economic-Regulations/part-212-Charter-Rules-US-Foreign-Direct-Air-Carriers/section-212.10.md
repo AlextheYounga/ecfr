@@ -1,7 +1,5 @@
 ##### § 212.10 Application for statement of authorization. #####
 
-Link to an amendment published at 84 FR 15925, Apr. 16, 2019.
-
 (a) Application for a statement of authorization shall be submitted on OST Form 4540 except that for part charters or long-term wet leases the application may be in letter form. An application for a long-term wet lease shall describe the purpose and terms of the wet lease agreement. Except for an application for a long-term wet lease involving a codeshare agreement, an original and two copies of an application shall be submitted to the Department of Transportation, Office of International Aviation, U.S. Air Carrier Licensing Division, X-44 (for an application by a certificated air carrier), or Foreign Air Carrier Licensing Division, X-45 (for an application by a foreign air carrier), 1200 New Jersey Avenue, SE., Washington, DC 20590; an original and two copies of an application for a long-term wet lease involving a codeshare agreement shall be submitted to DOT Dockets, PL-401, 1200 New Jersey Avenue, SE., Washington, DC 20590, or by electronic submission to DOT Dockets according to procedures at the DOT Dockets website. Upon a showing of good cause, the application may be transmitted by facsimile (fax) or telegram, or may be made by telephone, provided, that in the case of a fax or telephone application, the applicant must confirm its request (by filing an original and two copies of its application as described above) within three business days.
 
 (b) A copy of each application for a long-term wet lease shall also be served on the Director of Flight Standards Service (AFS-1), Federal Aviation Administration, 800 Independence Avenue, SW., Washington, DC 20591, and on each certificated air carrier that is authorized to serve the general area in which the proposed transportation is to be performed.
@@ -28,7 +26,7 @@ Link to an amendment published at 84 FR 15925, Apr. 16, 2019.
 
 (6) The Department may require service of applications as it deems necessary.
 
-(e)(1) Any part in interest may file a memorandum supporting or opposing an application. Three copies of each memorandum shall be filed within 7 business days after service of the application or before the date of the proposed flight or flights, whichever is earlier. Memorandums will be considered to the extent practicable; the Department may act on an application without waiting for supporting or opposing memorandums to be filed.
+(e)(1) Any person may file a memorandum supporting or opposing an application. Three copies of each memorandum shall be filed within 7 business days after service of the application or before the date of the proposed flight or flights, whichever is earlier. Memorandums will be considered to the extent practicable; the Department may act on an application without waiting for supporting or opposing memorandums to be filed.
 
 (2) Each memorandum shall set forth the reasons why the application should be granted or denied, accompanied by whatever data, including affidavits, the Department is requested to consider.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 84 FR 15925, Apr. 16, 2019.
 
 (2) Any person objecting to public disclosure of any information in an application or memorandum must state the grounds for the objection in writing. If the Department finds that disclosure of all or part of the information would adversely affect the objecting person, and that the public interest does not require disclosure, it will order that the injurious information be withheld.
 
-[Doc. No. OST-97-2356, 63 FR 28236, May 22, 1998, as amended at 64 FR 3213, Jan. 21, 1999]
+[Doc. No. OST-97-2356, 63 FR 28236, May 22, 1998, as amended at 64 FR 3213, Jan. 21, 1999; Doc. No. DOT-OST-2014-0140, 84 FR 15925, Apr. 16, 2019]
