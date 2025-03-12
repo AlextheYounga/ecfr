@@ -1,12 +1,10 @@
-##### § 195.64 National Registry of Pipeline and LNG Operators. #####
+##### § 195.64 National Registry of Operators. #####
 
-Link to an amendment published at 85 FR 8127, Feb. 12, 2020.
+(a) OPID Request. Effective January 1, 2012, each operator of a hazardous liquid or carbon dioxide pipeline or pipeline facility must obtain from PHMSA an Operator Identification Number (OPID). An OPID is assigned to an operator for the pipeline or pipeline system for which the operator has primary responsibility. To obtain an OPID or a change to an OPID, an operator must complete an OPID Assignment Request DOT Form PHMSA F 1000.1 through the National Registry of Operators in accordance with § 195.58.
 
-(a) OPID Request. Effective January 1, 2012, each operator of a hazardous liquid or carbon dioxide pipeline or pipeline facility must obtain from PHMSA an Operator Identification Number (OPID). An OPID is assigned to an operator for the pipeline or pipeline system for which the operator has primary responsibility. To obtain an OPID or a change to an OPID, an operator must complete an OPID Assignment Request DOT Form PHMSA F 1000.1 through the National Registry of Pipeline and LNG Operators in accordance with § 195.58.
+(b) OPID validation. An operator who has already been assigned one or more OPID by January 1, 2011 must validate the information associated with each such OPID through the National Registry of Operators at *https://portal.phmsa.dot.gov,* and correct that information as necessary, no later than June 30, 2012.
 
-(b) OPID validation. An operator who has already been assigned one or more OPID by January 1, 2011 must validate the information associated with each such OPID through the National Registry of Pipeline and LNG Operators at *http://opsweb.phmsa.dot.gov,* and correct that information as necessary, no later than June 30, 2012.
-
-(c) Changes. Each operator must notify PHMSA electronically through the National Registry of Pipeline and LNG Operators at *http://opsweb.phmsa.dot.gov,* of certain events.
+(c) Changes. Each operator must notify PHMSA electronically through the National Registry of Operators at *https://portal.phmsa.dot.gov,* of certain events.
 
 (1) An operator must notify PHMSA of any of the following events not later than 60 days before the event occurs:
 
@@ -32,4 +30,4 @@ Link to an amendment published at 85 FR 8127, Feb. 12, 2020.
 
 (d) Reporting. An operator must use the OPID issued by PHMSA for all reporting requirements covered under this subchapter and for submissions to the National Pipeline Mapping System.
 
-[Amdt. 195-95, 75 FR 72907, Nov. 26, 2010, as amended by Amdt. 195-100, 80 FR 12780, Mar. 11, 2015; Amdt. 195-101, 82 FR 7999, Jan. 23, 2017]
+[Amdt. 195-95, 75 FR 72907, Nov. 26, 2010, as amended by Amdt. 195-100, 80 FR 12780, Mar. 11, 2015; Amdt. 195-101, 82 FR 7999, Jan. 23, 2017; Amdt. 195-103, 85 FR 8127, Feb. 12, 2020]

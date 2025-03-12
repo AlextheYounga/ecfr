@@ -1,5 +1,7 @@
 ##### § 300.3 Offer to compromise fee. #####
 
+Link to an amendment published at 85 FR 14572, Mar. 13, 2020.
+
 (a) *Applicability.* This section applies to the processing of offers to compromise tax liabilities pursuant to § 301.7122-1 of this chapter. Except as provided in this section, this fee applies to all offers to compromise accepted for processing.
 
 (b) *Fee.* (1) The fee for processing an offer to compromise before January 1, 2014, is $150. The fee for processing an offer to compromise on or after January 1, 2014, is $186. No fee will be charged if an offer is -

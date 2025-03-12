@@ -1,3 +1,37 @@
-##### §§ 1.1504-3 xxx #####
+##### § 1.1504-3 Treatment of stock in a QOF C corporation for purposes of consolidation. #####
 
-Link to an amendment published at 85 FR 2000, Jan. 13, 2020.
+(a) *Scope and definitions* - (1) *Scope.* This section provides rules regarding the treatment of stock in a QOF C corporation for purposes of determining whether such corporation can join in the filing of a consolidated return. Paragraph (b) of this section generally prevents a subsidiary QOF C corporation from joining in the filing of a consolidated return, but it provides an election to consolidate a subsidiary QOF C corporation (subject to certain conditions). Paragraph (c) of this section provides instructions for making the election provided by paragraph (b) of this section. Paragraph (d) of this section provides an example. Paragraph (e) of this section provides the applicability dates.
+
+(2) *Definitions.* The definitions provided in §§ 1.1400Z2(a)-1(b) and 1.1502-14Z(a)(2)(ii) apply for purposes of this section.
+
+(b) *QOF stock not stock for purposes of affiliation* - (1) *In general.* Except as otherwise provided in paragraph (b)(2) of this section, stock in a QOF C corporation (whether qualifying QOF stock or otherwise) is not treated as stock under section 1504 for purposes of determining whether the issuer may join in the filing of a consolidated return under section 1501. Therefore, a QOF C corporation can be the common parent of a consolidated group, and a QOF C corporation generally can be a member of an affiliated group for purposes of section 1504, but a QOF C corporation cannot join in the filing of a consolidated return as a subsidiary member (except as provided in paragraph (b)(2) of this section).
+
+(2) *Election to consolidate a subsidiary QOF C corporation* - (i) *In general.* Notwithstanding paragraph (b)(1) of this section, a consolidated group may elect to consolidate a subsidiary QOF C corporation that was formed, or section 1504 control of which was acquired, by the consolidated group after May 1, 2019, and that otherwise meets the affiliation requirements under section 1504. If a pre-existing corporation was a member of the consolidated group prior to becoming a QOF C corporation, a consolidated group may elect to continue to consolidate such pre-existing corporation if it self-certified to be a QOF after May 1, 2019. The consolidated group must make the election under this paragraph (b)(2) with regard to the first taxable year during which the subsidiary QOF C corporation otherwise meets the section 1504 affiliation requirements (without regard to paragraph (b)(1) of this section). See § 1.1502-14Z(f)(3) for an election available with regard to a subsidiary QOF C corporation that met the section 1504 affiliation requirements as of May 1, 2019. The election under this paragraph (b)(2) is effective on the later of May 1, 2019, or the first date on which the QOF C corporation otherwise meets the requirements of section 1504. If a consolidated group makes the election under this paragraph (b)(2), then the conditions in paragraph (b)(2)(ii) of this section apply to the consolidated group and to the QOF member. See paragraph (c) of this section for the form and manner of making this election.
+
+(ii) *Conditions to consolidate a subsidiary QOF C corporation* - (A) *Ownership status of QOF investor member.* On and at all times after the date of the investment, the common parent must directly or indirectly own all shares of all classes of stock (including non-qualified preferred stock) issued by any QOF investor member.
+
+(B) *Direct investment.* Except as provided in § 1.1502-14Z(c), each QOF investor member must maintain direct ownership of its qualifying investment (see, for example, § 1.1400Z2(b)-1(c), which generally treats transfers of a qualifying investment as an inclusion event). See § 1.1502-14Z(c)(4) for rules regarding the treatment of intercompany transfers as qualifying investments in a QOF member. See also § 1.1502-14Z(c)(2) and (c)(3)(ii) for rules regarding actual and deemed intercompany transfers of qualifying investments.
+
+(3) *Failure of continued qualification.* Consolidation of a subsidiary QOF C corporation is contingent upon continued satisfaction of all of the conditions of paragraph (b)(2)(ii) of this section. The requirements of paragraph (b)(2) of this section continue to apply (with appropriate modifications to reflect single-entity treatment) following any intercompany transfer of the QOF member stock that is subject to § 1.1502-14Z(c)(3)(ii). For example, following an intercompany transfer of the QOF member stock that is subject to § 1.1502-14Z(c)(3)(ii), the buying member must maintain a direct investment in the QOF member. On the failure to satisfy any condition of paragraph (b)(2), the QOF member will deconsolidate, and § 1.1502-14Z(g) will apply with respect to such deconsolidation.
+
+(c) *Election under paragraph (b)(2) of this section to consolidate a subsidiary QOF C corporation* - (1) *In general.* The election under paragraph (b)(2) of this section is irrevocable and is made in the form provided in paragraph (c)(2) of this section.
+
+(2) *Form of election.* The election under paragraph (b)(2) of this section must be made in the form of a statement titled “THIS IS AN ELECTION UNDER § 1.1504-3(b)(2) TO CONSOLIDATE [insert name and employer identification number (E.I.N.) of subsidiary QOF C corporation] as of [insert date].” The statement must be included with the consolidated group's timely filed return (original, superseding, or amended return, as applicable, including extensions) for the year the election under § 1.1504-3(b)(2) is made.
+
+(d) *Example.* The following example illustrates the treatment of QOF stock as not stock for purposes of affiliation as described in paragraph (b)(1) of this section.
+
+(1) *QOF stock as not stock for purposes of affiliation to join in the filing of a consolidated return* - (i) *Facts.* P wholly owns S, which wholly owns corporation Q1. P, S, and Q1 are members of the P group. In 2021, S sells an asset to an unrelated party and realizes $500x of eligible gain. S contributes $500x to Q1 and properly elects to defer the eligible gain under section 1400Z-2(a) and § 1.1400Z2(a)-1. At such time, Q1 qualifies and elects to be treated as a QOF, but the P group does not elect to consolidate Q1 under paragraph (b)(2) of this section.
+
+(ii) *Analysis.* Under paragraph (b)(1) of this section, stock of a QOF C corporation (qualifying or otherwise) is not treated as stock for purposes of determining whether the QOF C corporation may join in the filing of a consolidated return. Thus, because no election has been made under paragraph (b)(2) of this section, once Q1 becomes a QOF, Q1 ceases to be affiliated with the P group members for purposes of section 1501, and it deconsolidates from the P group. See §§ 1.1502-1 through -1.1502-100 generally for the consequences of deconsolidation.
+
+(2) [Reserved]
+
+(e) *Applicability dates* - (1) *In general.* This section applies for taxable years beginning after March 13, 2020.
+
+(2) *Prior periods.* With respect to the portion of a consolidated group's first taxable year ending after December 21, 2017, that began on December 22, 2017, and for taxable years beginning after December 21, 2017, and on or before March 13, 2020, a consolidated group may choose either -
+
+(i) To apply the section 1400Z-2 regulations, if applied in a consistent manner for all such taxable years; or
+
+(ii) To rely on the rules in proposed § 1.1400Z2(g)-1 contained in the notice of proposed rulemaking (REG-120186-18) published on May 1, 2019, but only if applied in a consistent manner for all such taxable years.
+
+[T.D. 9889, 85 FR 2000, Jan. 13, 2020]

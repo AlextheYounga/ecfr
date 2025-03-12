@@ -10,6 +10,8 @@
 
 (4) From 7 a.m. to 9 a.m. on the second Saturday of July of every year, from 12 p.m. to 11:59 p.m. on the last Saturday of October or the first or second Saturday of November of every year, and from 7 a.m. to 11 a.m. on the first or second Sunday of November of every year, the draw need not open for vessels to accommodate annual races.
 
+(5) From 7 p.m. on February 1, 2020, through 12:01 a.m. on June 30, 2021, the draw will be maintained in the closed-to-navigation position. The draw will open on signal, if at least a twenty-four hour notice is given, for scheduled openings at 6 a.m., 10 a.m., 2 p.m. and 7 p.m.; except for bridge closures authorized in accordance with (a)(4) of this section. The draw will open on signal, if at least a twenty-four hour notice is given, for vessels unable to transit through the bridge during a scheduled opening, due to the vessel's draft; except for bridge closures authorized in accordance with (a)(4) of this section.
+
 (b) The CSX Hilton Railroad Bridge, mile 1.5 in Wilmington, NC shall operate as follows:
 
 (1) The draw of the bridge to be remotely operated by the controller at the Navassa Railroad Bridge mile 34.0 across the Cape Fear River.
@@ -26,4 +28,4 @@
 
 (c) The draw of the Seaboard System Railroad Bridge across the Northeast Cape Fear River, mile 27.0, at Castle Hayne, North Carolina shall open on signal if at least four hours notice is given.
 
-[CGD05-02-014, 67 FR 70554, Nov. 25, 2002, as amended by CGD05-04-120, 69 FR 70061, Dec. 2, 2004; CGD05-05-102, 71 FR 5010, Jan. 31, 2006; USCG-2010-1139, 76 FR 30832, May 27, 2011; USCG-2012-0193, 77 FR 50378, Aug. 21, 2012]
+[CGD05-02-014, 67 FR 70554, Nov. 25, 2002, as amended by CGD05-04-120, 69 FR 70061, Dec. 2, 2004; CGD05-05-102, 71 FR 5010, Jan. 31, 2006; USCG-2010-1139, 76 FR 30832, May 27, 2011; USCG-2012-0193, 77 FR 50378, Aug. 21, 2012; USCG-2019-0682, 85 FR 8175, Feb. 13, 2020]Effective Date Note:By USCG-2019-0682, 85 FR 8175, Feb. 13, 2020, § 117.829 was amended by adding paragraph (a)(5), effective until June 30, 2021.

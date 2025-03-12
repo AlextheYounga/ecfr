@@ -88,13 +88,15 @@ A large volume customer may receive similar volumes of gas as a distribution cen
 
 *Transportation of gas* means the gathering, transmission, or distribution of gas by pipeline or the storage of gas, in or affecting interstate or foreign commerce.
 
-*Underground natural gas storage facility* means a facility that stores natural gas in an underground facility incident to natural gas transportation, including -
+*Underground natural gas storage facility* (*UNGSF)* means a gas pipeline facility that stores natural gas underground incidental to the transportation of natural gas, including:
 
-(1) A depleted hydrocarbon reservoir;
+(1)(i) A depleted hydrocarbon reservoir;
 
-(2) An aquifer reservoir; or
+(ii) An aquifer reservoir; or
 
-(3) A solution-mined salt cavern reservoir, including associated material and equipment used for injection, withdrawal, monitoring, or observation wells, and wellhead equipment, piping, rights-of-way, property, buildings, compressor units, separators, metering equipment, and regulator equipment.
+(iii) A solution-mined salt cavern.
+
+(2) In addition to the reservoir or cavern, a UNGSF includes injection, withdrawal, monitoring, and observation wells; wellbores and downhole components; wellheads and associated wellhead piping; wing-valve assemblies that isolate the wellhead from connected piping beyond the wing-valve assemblies; and any other equipment, facility, right-of-way, or building used in the underground storage of natural gas.
 
 *Weak link* means a device or method used when pulling polyethylene pipe, typically through methods such as horizontal directional drilling, to ensure that damage will not occur to the pipeline by exceeding the maximum tensile stresses allowed.
 

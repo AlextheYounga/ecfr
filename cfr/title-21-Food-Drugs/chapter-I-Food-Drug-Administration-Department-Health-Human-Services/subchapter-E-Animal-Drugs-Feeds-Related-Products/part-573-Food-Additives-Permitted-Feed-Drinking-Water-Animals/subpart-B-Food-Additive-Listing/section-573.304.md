@@ -4,21 +4,25 @@ The food additive chromium propionate may be safely used in animal feed as a sou
 
 (a) The additive is manufactured by the reaction of a chromium salt with propionic acid, at an appropriate stoichiometric ratio, to produce triaqua-(mu3-oxo) hexakis (mu2-propionato-*O,O*′) trichromium propionate with the empirical formula, [Cr3(O)(CH3CH2CO2)6(H2O)3]CH3CH2CO2.
 
-(b) The additive shall be incorporated at a level not to exceed 0.2 milligrams of chromium from chromium propionate per kilogram feed in broiler chicken complete feed.
+(b) The additive is added to feed as follows:
+
+(1) In complete feed for broiler chickens at a level not to exceed 0.2 milligrams (mg) of chromium from chromium propionate per kilogram feed.
+
+(2) In feed for horses at a level not to exceed an intake of 4 mg of chromium from chromium propionate per horse per day.
 
 (c) The additive meets the following specifications:
 
 (1) Total chromium content, 8 to 10 percent.
 
-(2) Hexavalent chromium content, less than 2 parts per million.
+(2) Hexavalent chromium content, less than 2 parts per million (ppm).
 
-(3) Arsenic, less than 1 part per million.
+(3) Arsenic, less than 1 ppm.
 
-(4) Cadmium, less than 1 part per million.
+(4) Cadmium, less than 1 ppm.
 
-(5) Lead, less than 0.5 part per million.
+(5) Lead, less than 0.5 ppm.
 
-(6) Mercury, less than 0.5 part per million.
+(6) Mercury, less than 0.5 ppm.
 
 (7) Viscosity, not more than 2,000 centipoise.
 
@@ -28,7 +32,11 @@ The food additive chromium propionate may be safely used in animal feed as a sou
 
 (2) The premix manufacturer shall follow good manufacturing practices in the production of chromium propionate premixes. Inventory, production, and distribution records must provide a complete and accurate history of product production.
 
-(3) Chromium from all sources of supplemental chromium cannot exceed 0.2 parts per million of the complete feed.
+(3) Chromium from all sources of supplemental chromium cannot exceed:
+
+(i) A level of 0.2 ppm in complete feed for broiler chickens.
+
+(ii) An intake of 4 mg per horse per day.
 
 (e) To assure safe use of the additive in addition to the other information required by the Federal Food, Drug, and Cosmetic Act:
 
@@ -38,6 +46,10 @@ The food additive chromium propionate may be safely used in animal feed as a sou
 
 (i) A guarantee for added chromium content.
 
-(ii) Adequate directions for use and cautions for use including this statement: Caution: Follow label directions. Chromium from all sources of supplemental chromium cannot exceed 0.2 parts per million of the complete feed.
+(ii) Adequate directions for use and cautions for use including these statements: “Caution: Follow label directions” and consistent with the directions for use, the following:
 
-[81 FR 35611, June 3, 2016]
+(A) For feed for broiler chickens, “Chromium from all sources of supplemental chromium cannot exceed 0.2 parts per million of the complete feed for broiler chickens.”
+
+(B) For feed for horses, “Chromium from all sources of supplemental chromium cannot exceed 4 milligrams per horse per day.”
+
+[81 FR 35611, June 3, 2016, as amended at 85 FR 14566, Mar. 13, 2020]
