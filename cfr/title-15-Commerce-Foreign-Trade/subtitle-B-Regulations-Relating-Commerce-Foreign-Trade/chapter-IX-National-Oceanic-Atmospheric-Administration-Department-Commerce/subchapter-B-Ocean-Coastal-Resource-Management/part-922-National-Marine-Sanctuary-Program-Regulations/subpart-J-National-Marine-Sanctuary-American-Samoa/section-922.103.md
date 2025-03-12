@@ -1,5 +1,7 @@
 ##### § 922.103 Prohibited or otherwise regulated activities - Sanctuary-wide. #####
 
+Link to an amendment published at 87 FR 29633, May 13, 2022.
+
 (a) The following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted within the Sanctuary:
 
 (1) Introducing or releasing introduced species from within or into the sanctuary.

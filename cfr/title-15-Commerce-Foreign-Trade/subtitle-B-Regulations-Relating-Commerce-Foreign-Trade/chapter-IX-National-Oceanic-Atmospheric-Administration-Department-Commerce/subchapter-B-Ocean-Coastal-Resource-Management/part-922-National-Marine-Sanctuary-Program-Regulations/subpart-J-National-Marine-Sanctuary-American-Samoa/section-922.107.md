@@ -1,5 +1,7 @@
 ##### § 922.107 Permit procedures and criteria. #####
 
+Link to an amendment published at 87 FR 29633, May 13, 2022.
+
 (a) Any person in possession of a valid permit issued by the Director, in consultation with the ASDOC, in accordance with this section and § 922.48, may conduct an activity otherwise prohibited by § 922.103, § 922.104, and § 922.105 in the Sanctuary if such activity is judged not to cause long-term or irreparable harm to the resources of the Sanctuary, and is:
 
 (1) Related to research involving Sanctuary resources designed to enhance understanding of the Sanctuary environment or to improve resource management decisionmaking;

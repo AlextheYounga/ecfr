@@ -1,5 +1,7 @@
 ##### § 922.72 Prohibited or otherwise regulated activities - Sanctuary-wide. #####
 
+Link to an amendment published at 87 FR 29632, May 13, 2022.
+
 (a) Except as specified in paragraphs (b) through (e) of this section, the following activities are prohibited and thus unlawful for any person to conduct or cause to be conducted:
 
 (1) Exploring for, developing, or producing hydrocarbons within the Sanctuary, except pursuant to leases executed prior to March 30, 1981, and except the laying of pipeline pursuant to exploring for, developing, or producing hydrocarbons.

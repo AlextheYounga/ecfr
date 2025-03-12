@@ -1,5 +1,7 @@
 ##### § 922.162 Definitions. #####
 
+Link to an amendment published at 87 FR 29637, May 13, 2022.
+
 (a) The following definitions apply to the Florida Keys National Marine Sanctuary regulations. To the extent that a definition appears in § 922.3 and this section, the definition in this section governs.
 
 *Acts* means the Florida Keys National Marine Sanctuary and Protection Act, as amended, (FKNMSPA) (Pub. L. 101-605), and the National Marine Sanctuaries Act (NMSA), also known as Title III of the Marine Protection, Research, and Sanctuaries Act, as amended, (MPRSA) (16 U.S.C. 1431 *et seq.*).

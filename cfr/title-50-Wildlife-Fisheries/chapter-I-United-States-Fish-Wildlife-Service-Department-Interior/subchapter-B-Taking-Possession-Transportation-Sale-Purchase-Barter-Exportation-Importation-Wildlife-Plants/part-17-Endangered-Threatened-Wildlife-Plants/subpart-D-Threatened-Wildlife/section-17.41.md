@@ -1,62 +1,68 @@
 ##### § 17.41 Special rules - birds. #####
 
-Link to an amendment published at 87 FR 21811, Apr. 13, 2022.
+(a) Streaked horned lark (*Eremophila alpestris strigata*).
 
-(a) Streaked horned lark (*Eremophila alpestris strigata*). (1) *Which populations of the streaked horned lark are covered by this special rule?* The components of this special rule that apply to airport management and noxious weed control cover the rangewide distribution of this bird; the agricultural component applies only to the Willamette Valley in Oregon.
+(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to streaked horned lark. Except as provided under paragraph (a)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
 
-(2) *What activities are prohibited?* Except as noted in paragraphs (a)(3), (4), and (5) of this section, all prohibitions of § 17.31 apply to the streaked horned lark.
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
 
-(3) *What activities are allowed on airports on non-Federal lands?* (i) Incidental take of the streaked horned lark will not be a violation of section 9 of the Act, if the incidental take results from routine management activities associated with airport operations to minimize hazardous wildlife, consistent with regulations at 14 CFR 139.337.
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife.
 
-(ii) Hazardous wildlife is defined by the Federal Aviation Administration as species of wildlife, including feral animals and domesticated animals not under control, that are associated with aircraft strike problems, are capable of causing structural damage to airport facilities, or act as attractants to other wildlife that pose a strike hazard. Routine management activities include, but are not limited to, the following:
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
 
-(A) Routine management, repair, and maintenance of roads and runways (does not include upgrades or construction of new roads or runways);
+(iv) Interstate or foreign commerce in the course of commercial activity, as set forth at § 17.21(e) for endangered wildlife.
 
-(B) Control and management of vegetation (grass, weeds, shrubs, and trees) through mowing, discing, herbicide application, or burning;
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
 
-(C) Hazing of hazardous wildlife; and
+(2) *Exceptions from prohibitions.* In regard to this species, you may:
 
-(D) Habitat modification and management of sources of forage, water, and shelter to reduce the attractiveness of the area around the airport for hazardous wildlife.
+(i) Conduct activities as authorized by a permit under § 17.32.
 
-(iii) Incidental take of larks caused by accidental aircraft strikes at airports on non-Federal lands is also exempted from the prohibitions of section 9 of the Act.
+(ii) Take, as set forth at § 17.21(c)(2) through (4) for endangered wildlife, and (c)(6) and (7) for endangered migratory birds.
 
-(4) *What agricultural activities are allowed on non-Federal land in the Willamette Valley in Oregon?* Incidental take of streaked horned lark will not be a violation of section 9 of the Act, if the incidental take results from accepted agricultural (farming) practices implemented on farms consistent with State laws on non-Federal lands.
+(iii) Take, as set forth at § 17.31(b).
 
-(i) For the purposes of this special rule, farm means any facility, including land, buildings, watercourses and appurtenances, used in the commercial production of crops, nursery stock, livestock, poultry, livestock products, poultry products, vermiculture products, or the propagation and raising of nursery stock.
+(iv) Take incidental to an otherwise lawful activity caused by:
 
-(ii) For the purposes of this special rule, an agricultural (farming) practice means a mode of operation on a farm that:
+(A) The management of hazardous wildlife at airport facilities by airport staff or employees contracted by the airport to perform hazardous wildlife management activities. Hazardous wildlife is defined by the Federal Aviation Administration as species of wildlife, including feral animals and domesticated animals not under control, that are associated with aircraft strike problems, are capable of causing structural damage to airport facilities, or act as attractants to other wildlife that pose a strike hazard. Routine management activities include, but are not limited to, the following:
 
-(A) Is or may be used on a farm of a similar nature;
+(*1*) Hazing of hazardous wildlife;
 
-(B) Is a generally accepted, reasonable, and prudent method for the operation of the farm to obtain a profit in money;
+(*2*) Habitat modification and management of sources of forage, water, and shelter to reduce the attractiveness of the area around the airport for hazardous wildlife. This exception for habitat modification and management includes control and management of vegetation (grass, weeds, shrubs, and trees) through mowing, discing, herbicide application, or burning; and
 
-(C) Is or may become a generally accepted, reasonable, and prudent method in conjunction with farm use;
+(*3*) Routine management, repair, and maintenance of roads and runways (does not include upgrades or construction of new roads or runways).
 
-(D) Complies with applicable State laws; and
+(B) Accidental aircraft strikes at airports on non-Federal lands.
 
-(E) Is done in a reasonable and prudent manner.
+(C) Agricultural (farming) practices implemented on farms in accordance with State laws on non-Federal lands in Washington and Oregon.
 
-(iii) Accepted agricultural (farming) practices include, but are not limited to, the following activities:
+(*1*) For the purposes of this rule, farm means any facility, including land, buildings, watercourses and appurtenances, used in the commercial production of crops, nursery stock, livestock, poultry, livestock products, poultry products, vermiculture products, or the propagation and raising of nursery stock.
 
-(A) Planting, harvesting, rotation, mowing, tilling, discing, burning, and herbicide application to crops;
+(*2*) For the purposes of this rule, an agricultural (farming) practice means a mode of operation on a farm that is or may be used on a farm of a similar nature; is a generally accepted, reasonable, and prudent method for the operation of the farm to obtain a profit in money; is or may become a generally accepted, reasonable, and prudent method in conjunction with farm use; complies with applicable State laws; and is done in a reasonable and prudent manner. Common agricultural (farming) practices include, but are not limited to, the following activities:
 
-(B) Normal transportation activities, and repair and maintenance of unimproved farm roads (this exemption does not include improvement or construction of new roads) and graveled margins of rural roads;
+(*i*) Planting, harvesting, rotation, mowing, tilling, discing, burning, and herbicide application to crops;
 
-(C) Livestock grazing according to normally acceptable and established levels;
+(*ii*) Normal transportation activities, and repair and maintenance of unimproved farm roads (this exception does not include improvement or construction of new roads) and graveled margins of rural roads;
 
-(D) Hazing of geese or predators; and
+(*iii*) Livestock grazing according to normally acceptable and established levels;
 
-(E) Maintenance of irrigation and drainage systems.
+(*iv*) Hazing of geese or predators; and
 
-(5) *What noxious weed control activities are allowed on non-Federal lands?* Incidental take of streaked horned lark will not be a violation of section 9 of the Act, if the incidental take results from routine removal or other management of noxious weeds. Routine removal or other management of noxious weeds are limited to the following, and must be conducted in such a way that impacts to non-target plants are avoided to the maximum extent practicable:
+(*v*) Maintenance of irrigation and drainage systems.
 
-(i) Mowing;
+(D) Removal or other management of noxious weeds. Routine removal or other management of noxious weeds are limited to the following, and must be conducted in such a way that impacts to non-target plants are avoided to the maximum extent practicable:
 
-(ii) Herbicide and fungicide application;
+(*1*) Mowing;
 
-(iii) Fumigation; and
+(*2*) Herbicide and fungicide application;
 
-(iv) Burning.
+(*3*) Fumigation; and
+
+(*4*) Burning.
+
+(E) Habitat restoration actions. Habitat restoration and enhancement activities for the conservation of streaked horned lark may include activities consistent with formal approved conservation plans or strategies, such as Federal, Tribal, or State plans that include streaked horned lark conservation prescriptions or compliance, which the Service has determined (on a case-by-case basis) would be consistent with this rule.
+
+(v) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) through (d)(4).
 
 (b) Coastal California gnatcatcher (*Polioptila californica californica*). (1) Except as noted in paragraphs (b)(2) and (3) of this section, all prohibitions of § 17.31(a) and (b) shall apply to the coastal California gnatcatcher.
 
@@ -212,4 +218,4 @@ Link to an amendment published at 87 FR 21811, Apr. 13, 2022.
 
 (vi) Incidental take resulting from prescribed burns, grazing, and mowing or other mechanical treatment activities in existing moist soil management units or prior converted croplands (e.g., impoundments for rice or other cereal grain production) is allowed.
 
-[43 FR 6233, Feb. 14, 1978, as amended at 58 FR 65095, Dec. 10, 1993; 60 FR 36010, July 12, 1995; 72 FR 37372, July 9, 2007; 73 FR 23970, May 1, 2008; 76 FR 30780, May 26, 2011; 76 FR 54713, Sept. 2, 2011; 78 FR 15641, Mar. 12, 2013; 78 FR 61502, Oct. 3, 2013; 79 FR 20084, Apr. 10, 2014; 79 FR 35900, June 24, 2014; 81 FR 47048, July 20, 2016; 81 FR 40547, June 22, 2016; 83 FR 39916, Aug. 13, 2018; 84 FR 6311, Feb. 26, 2019; 84 FR 69946, Dec. 19, 2019; 85 FR 22663, Apr. 23, 2020; 85 FR 63830, Oct. 8, 2020]
+[43 FR 6233, Feb. 14, 1978, as amended at 58 FR 65095, Dec. 10, 1993; 60 FR 36010, July 12, 1995; 72 FR 37372, July 9, 2007; 73 FR 23970, May 1, 2008; 76 FR 30780, May 26, 2011; 76 FR 54713, Sept. 2, 2011; 78 FR 15641, Mar. 12, 2013; 78 FR 61502, Oct. 3, 2013; 79 FR 20084, Apr. 10, 2014; 79 FR 35900, June 24, 2014; 81 FR 47048, July 20, 2016; 81 FR 40547, June 22, 2016; 83 FR 39916, Aug. 13, 2018; 84 FR 6311, Feb. 26, 2019; 84 FR 69946, Dec. 19, 2019; 85 FR 22663, Apr. 23, 2020; 85 FR 63830, Oct. 8, 2020; 87 FR 21811, Apr. 13, 2022]

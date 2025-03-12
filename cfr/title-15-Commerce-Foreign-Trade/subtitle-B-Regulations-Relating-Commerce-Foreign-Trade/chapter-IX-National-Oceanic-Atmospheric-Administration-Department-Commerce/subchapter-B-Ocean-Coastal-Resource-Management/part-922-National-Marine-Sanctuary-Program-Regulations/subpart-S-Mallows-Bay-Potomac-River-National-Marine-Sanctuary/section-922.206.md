@@ -1,5 +1,7 @@
 ##### § 922.206 Certification of preexisting leases, licenses, permits, approvals, other authorizations, or rights to conduct a prohibited activity. #####
 
+Link to an amendment published at 87 FR 29641, May 13, 2022.
+
 (a) A person may conduct an activity prohibited by § 922.203(a)(1) through (3) if such activity is specifically authorized by a valid Federal, state, or local lease, permit, license, approval, or other authorization, or tribal right of subsistence use or access in existence prior to the effective date of sanctuary designation and within the sanctuary designated area and complies with § 922.49 and provided that the holder of the lease, permit, license, approval, or other authorization complies with the requirements of paragraph (e) of this section.
 
 (b) In considering whether to make the certifications called for in this section, the Director may seek and consider the views of any other person or entity, within or outside the Federal government, and may hold a public hearing as deemed appropriate.

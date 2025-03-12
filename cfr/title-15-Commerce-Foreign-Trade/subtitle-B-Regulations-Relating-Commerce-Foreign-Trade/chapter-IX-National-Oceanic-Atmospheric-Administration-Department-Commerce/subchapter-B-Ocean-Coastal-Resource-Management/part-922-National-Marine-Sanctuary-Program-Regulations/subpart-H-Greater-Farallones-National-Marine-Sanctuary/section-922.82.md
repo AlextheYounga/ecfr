@@ -1,5 +1,7 @@
 ##### § 922.82 Prohibited or otherwise regulated activities. #####
 
+Link to an amendment published at 87 FR 29633, May 13, 2022.
+
 (a) The following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted within the Sanctuary:
 
 (1) Exploring for, developing, or producing oil, gas or minerals.

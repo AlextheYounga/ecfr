@@ -1,5 +1,7 @@
 ##### § 922.182 Definitions. #####
 
+Link to an amendment published at 87 FR 29638, May 13, 2022.
+
 (a) *Acts* means the Hawaiian Islands National Marine Sanctuary Act (HINMSA; sections 2301-2307 of Pub. L. 102-587), and the National Marine Sanctuaries Act (NMSA; also known as Title III of the Marine Protection, Research, and Sanctuaries Act (MPRSA), as amended, 16 U.S.C. 1431 *et seq.*).
 
 *Adverse impact* means an impact that independently or cumulatively damages, diminishes, degrades, impairs, destroys, or otherwise harms.

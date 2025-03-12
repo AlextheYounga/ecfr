@@ -1,8 +1,6 @@
 ##### § 1210.201 How do I submit Form ONRR-4430, Solid Minerals Production and Royalty Report? #####
 
-Link to an amendment published at 87 FR 21745, Apr. 13, 2022.
-
-(a) *What to submit.* (1) You must submit a completed Form ONRR-4430 for -
+(a) *What to submit.* (1) You must submit a completed Form ONRR-4430 for—
 
 (i) Production of all coal and other solid minerals from any Federal or Indian lease;
 
@@ -30,8 +28,8 @@ Link to an amendment published at 87 FR 21745, Apr. 13, 2022.
 
 (3) If you do not report electronically, you must submit the completed Form ONRR-4430 to us at one of the following addresses, unless ONRR publishes notice in the Federal Register giving a different address:
 
-(i) *For U.S. Postal Service regular mail or Express Mail:* Office of Natural Resources Revenue (ONRR), P.O. Box 25627, Denver, CO 80225-0627; or
+(i) *For U.S. Postal Service regular mail or Express Mail:* Office of Natural Resources Revenue (ONRR), P.O. Box 25165, MS 633000B, Denver, CO 80225-0165; or
 
-(ii) *For courier service or overnight mail (excluding Express Mail):* Office of Natural Resources Revenue, Building 85, Denver Federal Center, Room A-614, Denver, Colorado 80225.
+(ii) *For courier service or overnight mail (excluding Express Mail):* Office of Natural Resources Revenue, Building 85, Denver Federal Center, Room A322, Denver, Colorado 80225.
 
-[66 FR 45771, Aug. 30, 2001; 66 FR 50827, Oct. 5, 2001; 77 FR 25879, May 2, 2012]
+[66 FR 45771, Aug. 30, 2001; 66 FR 50827, Oct. 5, 2001, as amended at 77 FR 25879, May 2, 2012; 87 FR 21745, Apr. 13, 2022]

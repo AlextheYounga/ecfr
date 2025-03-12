@@ -1,5 +1,7 @@
 ##### § 922.123 Permit procedures and criteria. #####
 
+Link to an amendment published at 87 FR 29634, May 13, 2022.
+
 (a) A person may conduct an activity prohibited by § 922.122(a)(2) through (11) if conducted in accordance with the scope, purpose, terms, and conditions of a permit issued under this section and § 922.48.
 
 (b) Applications for such permits should be addressed to the Director, Office of National Marine Sanctuaries; Attn: Superintendent, Flower Garden Banks National Marine Sanctuary, 4700 Avenue U, Building 216, Galveston, TX 77551.

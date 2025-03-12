@@ -12,4 +12,4 @@
 
 (ii) Special courier or overnight mail addressed to Office of Natural Resources Revenue, Building 85, Room A-614, Denver Federal Center, West 6th Ave. and Kipling Blvd., Denver, Colorado 80225.
 
-[48 FR 35641, Aug. 5, 1983, 76 FR 76615, Dec. 8, 2011; 77 FR 25879, 25880, May 2, 2012]
+[48 FR 35641, Aug. 5, 1983, as amended at 76 FR 76615, Dec. 8, 2011; 77 FR 25879, 25880, May 2, 2012]

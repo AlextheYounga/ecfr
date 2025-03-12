@@ -30,4 +30,4 @@
 
 (3) May not be a Social Security Number.
 
-[48 FR 35641, Aug. 5, 1983, 76 FR 76615, Dec. 8, 2011]
+[48 FR 35641, Aug. 5, 1983, as amended at 76 FR 76615, Dec. 8, 2011]

@@ -1,28 +1,26 @@
 ##### § 1218.51 How to make payments. #####
 
-Link to an amendment published at 87 FR 21746, Apr. 13, 2022.
-
 (a) *Definitions.*
 
-*ACH* - Automated Clearing House. A type of EFT using the ACH bank-to-bank network.
+*ACH*—Automated Clearing House. A type of EFT using the ACH bank-to-bank network.
 
-*Courtesy Notice* - An ONRR-issued notice of rental or bonus due.
+*Courtesy Notice*—An ONRR-issued notice of rental or bonus due.
 
-*Deferred Bonus Payment* - Lease bonus paid in equal annual installments over a specified number of years.
+*Deferred Bonus Payment*—Lease bonus paid in equal annual installments over a specified number of years.
 
-*EFT* - Electronic Funds Transfer. Any paperless transfer of funds initiated through an electronic terminal. For ONRR purposes, EFT includes Fedwire and ACH transfers, such as *Pay.gov.*
+*EFT*—Electronic Funds Transfer. Any paperless transfer of funds initiated through an electronic terminal. For ONRR purposes, EFT includes Fedwire and ACH transfers, such as *Pay.gov.*
 
-*Fedwire* - A type of EFT using the Federal Reserve Wire network.
+*Fedwire*—A type of EFT using the Federal Reserve Wire network.
 
-*Invoice document identification* - The ONRR-assigned invoice document identification (three-alpha and nine-numeric characters).
+*Invoice document identification*—The ONRR-assigned invoice document identification (three-alpha and nine-numeric characters).
 
-*Pay.gov* - A type of EFT using the ACH network that is initiated by a payor on the *Pay.gov* Web site.
+*Pay.gov*—A type of EFT using the ACH network that is initiated by a payor on the *Pay.gov* Web site.
 
-*Payment* - Any monies for royalty, bonus, rental, late payment charge, assessment, penalty, or other money sent to ONRR.
+*Payment*—Any monies for royalty, bonus, rental, late payment charge, assessment, penalty, or other money sent to ONRR.
 
-*Person* - Any individual, firm, corporation, association, partnership, consortium, or joint venture (when established as a separate entity). The term does not include Federal agencies.
+*Person*—Any individual, firm, corporation, association, partnership, consortium, or joint venture (when established as a separate entity). The term does not include Federal agencies.
 
-*Report* - Form ONRR-2014, *Report of Sales and Royalty Remittance.*
+*Report*—Form ONRR-2014, *Report of Sales and Royalty Remittance.*
 
 (b) *General instructions.* You must make all payments to ONRR electronically to the extent it is cost effective and practical. If you pay money to ONRR or to an Indian tribe or allottee, you must follow these procedures:
 
@@ -50,11 +48,11 @@ Link to an amendment published at 87 FR 21746, Apr. 13, 2022.
 
 (6) You must pay in U.S. dollars.
 
-(c) *How to complete a non-EFT payment.* (1) Make any payment on a Federal lease payable to: “Department of the Interior - Office of Natural Resources Revenue” or “DOI-ONRR.”
+(c) *How to complete a non-EFT payment.* (1) Make any payment on a Federal lease payable to: “Department of the Interior—Office of Natural Resources Revenue” or “DOI-ONRR.”
 
-(2) For an Indian allottee payment, send a separate payment for each Bureau of Indian Affairs (BIA) agency or area office represented by the leases on your report or invoice document. You must include the name of the applicable BIA agency or area office on your payment. Make your payment document payable to: “Department of the Interior - Office of Natural Resources Revenue for BIA [Name] Agency (allotted)” or “DOI-ONRR for BIA [Name] Agency (allotted).”
+(2) For an Indian allottee payment, send a separate payment for each Bureau of Indian Affairs (BIA) agency or area office represented by the leases on your report or invoice document. You must include the name of the applicable BIA agency or area office on your payment. Make your payment document payable to: “Department of the Interior—Office of Natural Resources Revenue for BIA [Name] Agency (allotted)” or “DOI-ONRR for BIA [Name] Agency (allotted).”
 
-(3) For an Indian tribal payment other than a lockbox payment, send a separate payment for each tribe represented by the leases on your report or invoice document. You must include the name of the Indian tribe on your payment. Make it payable to: “Department of the Interior - Office of Natural Resources Revenue for BIA [Name of Tribe]” or “DOI-ONRR for BIA [Name of Tribe].”
+(3) For an Indian tribal payment other than a lockbox payment, send a separate payment for each tribe represented by the leases on your report or invoice document. You must include the name of the Indian tribe on your payment. Make it payable to: “Department of the Interior—Office of Natural Resources Revenue for BIA [Name of Tribe]” or “DOI-ONRR for BIA [Name of Tribe].”
 
 (4) For an Indian tribal lockbox payment, follow the instructions ONRR provides you on how to report and make the lockbox payment. These instructions are specific to each tribe's lockbox written agreement with the bank authorized to receive payments on the tribe's mineral leases. You will receive these instructions from ONRR when you are required to use a tribal lockbox for reports and payments.
 
@@ -62,7 +60,7 @@ Link to an amendment published at 87 FR 21746, Apr. 13, 2022.
 
 (2) For a Federal nonproducing lease rental or deferred bonus payment, send it to: Office of Natural Resources Revenue, P.O. Box 25627, Denver, CO 80225-0627.
 
-(e) *Where to send a non-EFT payment when you use a courier or overnight delivery service.* You should send this type of payment to: Office of Natural Resources Revenue, Building 85, Denver Federal Center, 6th Avenue and Kipling Street, Room A-614, Denver, CO 80225.
+(e) *Where to send a non-EFT payment when you use a courier or overnight delivery service.* You should send this type of payment to: Office of Natural Resources Revenue, Building 85, Denver Federal Center, 6th Avenue and Kipling Street, Room A322, Denver, CO 80225.
 
 (f) *How to prepare and what to include on your payment document.* (1) For Form ONRR-2014 payments, you must include both your payor code and your payor-assigned document number.
 
@@ -96,4 +94,4 @@ Link to an amendment published at 87 FR 21746, Apr. 13, 2022.
 
 (2) If you do not pay an amount you owe, ONRR may assess civil penalties under part 1241 of this chapter or other applicable regulations.
 
-[62 FR 19498, Apr. 22, 1997, as amended at 66 FR 45773, Aug. 30, 2001; 67 FR 19112, Apr. 18, 2002; 73 FR 15898, Mar. 26, 2008; 77 FR 25880, May 2, 2012]
+[62 FR 19498, Apr. 22, 1997, as amended at 66 FR 45773, Aug. 30, 2001; 67 FR 19112, Apr. 18, 2002; 73 FR 15898, Mar. 26, 2008; 77 FR 25880, May 2, 2012; 87 FR 21746, Apr. 13, 2022]

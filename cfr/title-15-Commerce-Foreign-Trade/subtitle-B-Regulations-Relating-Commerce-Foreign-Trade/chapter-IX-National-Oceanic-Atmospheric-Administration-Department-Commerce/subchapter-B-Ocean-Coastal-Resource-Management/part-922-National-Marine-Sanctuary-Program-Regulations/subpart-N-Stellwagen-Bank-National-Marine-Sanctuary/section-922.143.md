@@ -1,5 +1,7 @@
 ##### § 922.143 Permit procedures and criteria. #####
 
+Link to an amendment published at 87 FR 29636, May 13, 2022.
+
 (a) A person may conduct an activity prohibited by § 922.142 (a) (1) and (3) through (7) if conducted in accordance with scope, purpose, manner, terms and conditions of a permit issued under this section and § 922.48.
 
 (b) Applications for such permits should be addressed to the Director, Office of Ocean and Coastal Resource Management; ATTN: Manager, Stellwagen Bank National Marine Sanctuary, 14 Union Street, Plymouth, MA 02360.

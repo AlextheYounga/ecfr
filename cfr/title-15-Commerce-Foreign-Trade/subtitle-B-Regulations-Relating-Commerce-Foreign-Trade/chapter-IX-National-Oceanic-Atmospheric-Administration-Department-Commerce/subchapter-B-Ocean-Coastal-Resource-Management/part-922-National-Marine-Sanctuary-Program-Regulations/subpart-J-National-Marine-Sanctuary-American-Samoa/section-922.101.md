@@ -1,5 +1,7 @@
 ##### § 922.101 Boundary. #####
 
+Link to an amendment published at 87 FR 29633, May 13, 2022.
+
 The Sanctuary is comprised of six distinct units, forming a network of marine protected areas around the islands of the Territory of American Samoa. Tables containing the exact coordinates of each point described below can be found in Appendix to Subpart J - National Marine Sanctuary of American Samoa Boundary Coordinates.
 
 (a) *Fagatele Bay Unit.* The Fagatele Bay Unit is a 163-acre (0.25 sq. mi.) coastal embayment formed by a collapsed volcanic crater on the island of Tutuila, Territory of American Samoa, and includes Fagatele Bay in its entirety. The landward boundary is defined by the mean higher high water line of Fagatele Bay until the point at which it intersects the seaward boundary of the Sanctuary as defined by a straight line between Fagatele Point (−14.36527, −170.76932) and Steps Point (−14.37291, −170.76056) from the point at which it intersects the mean higher high water line seaward.

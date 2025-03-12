@@ -1,5 +1,7 @@
 ##### § 922.113 Permit procedures and issuance criteria. #####
 
+Link to an amendment published at 87 FR 29634, May 13, 2022.
+
 (a) A person may conduct an activity prohibited by § 922.112(a)(2) through (7), if such activity is specifically authorized by, and conducted in accordance with the scope, purpose, terms and conditions of, a permit issued under § 922.48 and this section.
 
 (b) The Director, at his or her discretion, may issue a national marine sanctuary permit under this section, subject to terms and conditions, as he or she deems appropriate, if the Director finds that the activity will:

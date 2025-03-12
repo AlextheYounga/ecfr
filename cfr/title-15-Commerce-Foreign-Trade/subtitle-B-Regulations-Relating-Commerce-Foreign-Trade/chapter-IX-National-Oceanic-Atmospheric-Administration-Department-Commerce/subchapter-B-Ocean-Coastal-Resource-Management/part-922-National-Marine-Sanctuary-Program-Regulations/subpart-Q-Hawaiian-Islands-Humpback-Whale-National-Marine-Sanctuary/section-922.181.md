@@ -1,5 +1,7 @@
 ##### § 922.181 Boundary. #####
 
+Link to an amendment published at 87 FR 29638, May 13, 2022.
+
 (a) Except for excluded areas described in paragraph (b) of this section, the Hawaiian Islands Humpback Whale National Marine Sanctuary consists of the submerged lands and waters off the coast of the Hawaiian Islands seaward from the shoreline, cutting across the mouths of rivers and streams:
 
 (1) To the 100-fathom (183 meter) isobath from Kailiu Point eastward to Mokolea Point, Kauai;

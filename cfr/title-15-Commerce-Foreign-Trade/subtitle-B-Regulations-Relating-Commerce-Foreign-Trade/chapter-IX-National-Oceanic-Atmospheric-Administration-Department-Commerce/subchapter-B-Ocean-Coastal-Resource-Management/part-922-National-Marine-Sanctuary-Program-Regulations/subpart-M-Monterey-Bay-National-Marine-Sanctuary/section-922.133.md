@@ -1,5 +1,7 @@
 ##### § 922.133 Permit procedures and criteria. #####
 
+Link to an amendment published at 87 FR 29636, May 13, 2022.
+
 (a) A person may conduct an activity prohibited by § 922.132(a)(1) as it pertains to jade collection in the Sanctuary, § 922.132(a)(2) through (11), and § 922.132(a)(13), if such activity is specifically authorized by, and conducted in accordance with the scope, purpose, terms, and conditions of, a permit issued under this section and 15 CFR 922.48.
 
 (b) The Director, at his or her sole discretion, may issue a permit, subject to terms and conditions as he or she deems appropriate, to conduct an activity prohibited by § 922.132(a)(1) as it pertains to jade collection in the Sanctuary, § 922.132(a)(2) through (11), and § 922.132(a)(13), if the Director finds that the activity will have at most short-term and negligible adverse effects on Sanctuary resources and qualities and:

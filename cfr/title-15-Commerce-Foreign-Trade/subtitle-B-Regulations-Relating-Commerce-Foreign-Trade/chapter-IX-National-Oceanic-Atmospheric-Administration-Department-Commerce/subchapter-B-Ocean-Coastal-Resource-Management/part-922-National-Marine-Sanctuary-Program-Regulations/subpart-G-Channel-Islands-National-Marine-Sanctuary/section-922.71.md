@@ -1,5 +1,7 @@
 ##### § 922.71 Definitions. #####
 
+Link to an amendment published at 87 FR 29632, May 13, 2022.
+
 In addition to those definitions found at 15 CFR 922.3, the following definitions apply to this subpart:
 
 *Cruise ship* means a vessel with 250 or more passenger berths for hire.

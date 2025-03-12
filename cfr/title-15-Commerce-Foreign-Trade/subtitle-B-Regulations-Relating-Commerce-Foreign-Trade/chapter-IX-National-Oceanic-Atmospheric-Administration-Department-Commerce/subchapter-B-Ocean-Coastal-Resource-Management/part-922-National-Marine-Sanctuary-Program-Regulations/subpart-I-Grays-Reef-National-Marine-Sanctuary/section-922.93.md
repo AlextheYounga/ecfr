@@ -1,5 +1,7 @@
 ##### § 922.93 Permit procedures and criteria. #####
 
+Link to an amendment published at 87 FR 29633, May 13, 2022.
+
 (a) A person may conduct an activity prohibited by § 922.92(a)(1) through (10) and § 922.94 if conducted in accordance within the scope, purpose, manner, terms and conditions of a permit issued under this section and § 922.48.
 
 (b) Applications for such permits should be addressed to the Director, National Marine Sanctuary Program, ATTN: Manager, Gray's Reef National Marine Sanctuary, 10 Ocean Science Circle, Savannah, GA 31411.

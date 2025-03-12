@@ -1,5 +1,7 @@
 ##### § 922.153 Permit procedures and criteria #####
 
+Link to an amendment published at 87 FR 29637, May 13, 2022.
+
 (a) A person may conduct an activity prohibited by paragraphs (a)(2) through (8) of § 922.152 if conducted in accordance with the scope, purpose, terms and conditions of a permit issued under this section and § 922.48.
 
 (b) Applications for such permits should be addressed to the Director, Office of National Marine Sanctuaries; ATTN: Superintendent, Olympic Coast National Marine Sanctuary, 115 East Railroad Avenue, Suite 301, Port Angeles, WA 98362-2925.

@@ -1,5 +1,7 @@
 ##### § 922.163 Prohibited activities - Sanctuary-wide. #####
 
+Link to an amendment published at 87 FR 29638, May 13, 2022.
+
 (a) Except as specified in paragraph (b) through (e) of this section, the following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted:
 
 (1) *Mineral and hydrocarbon exploration, development and production.* Exploring for, developing, or producing minerals or hydrocarbons within the Sanctuary.

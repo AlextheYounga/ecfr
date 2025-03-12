@@ -1,5 +1,7 @@
 ##### § 922.92 Prohibited or otherwise regulated activities - Sanctuary-wide. #####
 
+Link to an amendment published at 87 FR 29633, May 13, 2022.
+
 (a) Except as specified in paragraphs (b) through (d) of this section and in § 922.94 regarding additional prohibitions in the research area, the following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted within the Sanctuary:
 
 (1) Dredging, drilling into, or otherwise altering in any way the submerged lands of the Sanctuary (including bottom formations).

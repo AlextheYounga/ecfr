@@ -1,5 +1,7 @@
 ##### § 922.195 Permit procedures and criteria. #####
 
+Link to an amendment published at 87 FR 29640, May 13, 2022.
+
 (a) A person may conduct an activity prohibited by § 922.193 (a)(1) through (3), if conducted in accordance with the scope, purpose, terms and conditions of a State Permit *provided that*:
 
 (1) The State Archaeologist certifies to NOAA that the activity authorized under the State Permit will be conducted consistent with the Programmatic Agreement, in which case such State Permit shall be deemed to have met the requirements of § 922.49; or

@@ -1,5 +1,7 @@
 ##### § 922.121 Definitions. #####
 
+Link to an amendment published at 87 FR 29634, May 13, 2022.
+
 As used in this subpart:
 
 *Attract or attracting* means the conduct of any activity that lures or may lure any animal in the Sanctuary by using food, bait, chum, dyes, decoys (e.g., surfboards or body boards used as decoys), acoustics or any other means, except the mere presence of human beings (e.g., swimmers, divers, boaters, kayakers, surfers).

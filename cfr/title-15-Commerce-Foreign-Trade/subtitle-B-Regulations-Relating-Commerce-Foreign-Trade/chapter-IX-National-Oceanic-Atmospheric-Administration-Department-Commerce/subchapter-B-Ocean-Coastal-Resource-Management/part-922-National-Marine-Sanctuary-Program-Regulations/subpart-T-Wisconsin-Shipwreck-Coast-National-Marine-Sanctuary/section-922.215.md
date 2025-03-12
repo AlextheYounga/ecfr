@@ -1,5 +1,7 @@
 ##### § 922.215 Permit procedures and review criteria. #####
 
+Link to an amendment published at 87 FR 29641, May 13, 2022.
+
 (a) *Authority to issue general permits.* The Director may allow a person to conduct an activity that would otherwise be prohibited by this subpart, through issuance of a general permit, provided the applicant complies with:
 
 (1) The provisions of subpart E of this part; and

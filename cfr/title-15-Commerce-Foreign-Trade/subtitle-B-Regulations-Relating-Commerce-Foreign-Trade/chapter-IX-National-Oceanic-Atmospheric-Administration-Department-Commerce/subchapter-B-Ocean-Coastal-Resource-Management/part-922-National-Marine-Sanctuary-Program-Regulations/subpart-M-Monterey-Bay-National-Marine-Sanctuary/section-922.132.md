@@ -1,5 +1,7 @@
 ##### § 922.132 Prohibited or otherwise regulated activities. #####
 
+Link to an amendment published at 87 FR 29635, May 13, 2022.
+
 (a) Except as specified in paragraphs (b) through (e) of this section, the following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted:
 
 (1) Exploring for, developing, or producing oil, gas, or minerals within the Sanctuary, except: Jade may be collected (meaning removed) from the area bounded by the 35.92222 N latitude parallel (coastal reference point: Beach access stairway at south Sand Dollar Beach), the 35.88889 N latitude parallel (coastal reference point: Westernmost tip of Cape San Martin), and from the mean high tide line seaward to the 90-foot isobath (depth line) (the “authorized area”) provided that:

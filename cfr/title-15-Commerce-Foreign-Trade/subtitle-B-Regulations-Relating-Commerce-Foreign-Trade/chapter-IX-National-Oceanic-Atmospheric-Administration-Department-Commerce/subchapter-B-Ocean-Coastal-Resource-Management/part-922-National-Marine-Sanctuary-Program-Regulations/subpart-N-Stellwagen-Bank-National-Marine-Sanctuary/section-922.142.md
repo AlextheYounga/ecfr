@@ -1,5 +1,7 @@
 ##### § 922.142 Prohibited or otherwise regulated activities. #####
 
+Link to an amendment published at 87 FR 29636, May 13, 2022.
+
 (a) Except as specified in paragraphs (b) through (f) of this section, the following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted:
 
 (1)(i) Discharging or depositing, from within the boundary of the Sanctuary, any material or other matter except:
