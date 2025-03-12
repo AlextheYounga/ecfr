@@ -1,12 +1,12 @@
 ##### § 217.5 Electronic System for Travel Authorization. #####
 
-Link to an amendment published at 87 FR 18980, Apr. 1, 2022.
+(a) *Travel authorization required.* Each nonimmigrant alien intending to travel by air, sea, or land to the United States under the Visa Waiver Program (VWP) must, within the time specified in paragraph (b) of this section, receive a travel authorization, which is a positive determination of eligibility to travel to the United States under the VWP via the Electronic System for Travel Authorization (ESTA), from CBP. In order to receive a travel authorization, each nonimmigrant alien intending to travel to the United States by air, sea, or land under the VWP must provide the data elements set forth in paragraph (c) of this section to CBP, in English, in the manner specified herein, and must pay a fee as described in paragraph (h) of this section.
 
-(a) *Travel authorization required.* Each nonimmigrant alien intending to travel by air or sea to the United States under the Visa Waiver Program (VWP) must, within the time specified in paragraph (b) of this section, receive a travel authorization, which is a positive determination of eligibility to travel to the United States under the VWP via the Electronic System for Travel Authorization (ESTA), from CBP. In order to receive a travel authorization, each nonimmigrant alien intending to travel to the United States by air or sea under the VWP must provide the data elements set forth in paragraph (c) of this section to CBP, in English, in the manner specified herein, and must pay a fee as described in paragraph (h) of this section.
+(b) *Time* - (1) *Applicants arriving at air or sea ports of entry.* Each alien falling within the provisions of paragraph (a) of this section and intending to travel by air or sea to the United States under the VWP must receive a travel authorization via ESTA prior to boarding a carrier destined for travel to the United States.
 
-(b) *Time.* Each alien falling within the provisions of paragraph (a) of this section must receive a travel authorization prior to embarking on a carrier for travel to the United States.
+(2) *Applicants arriving at land ports of entry.* Each alien falling within the provisions of paragraph (a) of this section and intending to travel by land to the United States under the VWP must receive a travel authorization via ESTA prior to application for admission to the United States.
 
-(c) *Required elements.* ESTA will collect such information as the Secretary deems necessary to issue a travel authorization, as reflected by the I-94W Nonimmigrant Alien Arrival/Departure Form (I-94W).
+(c) *Required elements.* CBP will collect such information as the Secretary deems necessary to issue a travel authorization as reflected in the ESTA application.
 
 (d) *Duration* - (1) *General Rule.* A travel authorization issued under ESTA will be valid for a period of two years from the date of issuance, unless the passport of the authorized alien will expire in less than two years, in which case the authorization will be valid until the date of expiration of the passport.
 
@@ -34,10 +34,10 @@ Link to an amendment published at 87 FR 18980, Apr. 1, 2022.
 
 (4) *Revocation.* A determination under ESTA that an alien is eligible to travel to the United States to apply for admission under the VWP may be revoked at the discretion of the Secretary.
 
-(g) *Compliance date.* Once ESTA is implemented as a mandatory program, 60 days following publication by the Secretary of a notice in the Federal Register, citizens and eligible nationals of countries that participate in the VWP planning to travel to the United States under the VWP must comply with the requirements of this section. As new countries are added to the VWP, citizens and eligible nationals of those countries will be required to obtain a travel authorization via ESTA prior to traveling to the United States under the VWP.
+(g) [Reserved]
 
 (h) *Fee.* (1) Until September 30, 2015, the fee for an approved ESTA is $14.00, which is the sum of two amounts: a $10 travel promotion fee to fund the Corporation for Travel Promotion and a $4.00 operational fee to at least ensure recovery of the full costs of providing and administering the system. In the event the ESTA application is denied, the fee is $4.00 to cover the operational costs.
 
 (2) Beginning October 1, 2020, the fee for using ESTA is an operational fee of $4.00 to at least ensure recovery of the full costs of providing and administering the system.
 
-[73 FR 32452, June 9, 2008, as amended at 75 FR 47708, Aug. 9, 2010; 80 FR 32294, June 8, 2015]
+[73 FR 32452, June 9, 2008, as amended at 75 FR 47708, Aug. 9, 2010; 80 FR 32294, June 8, 2015; 87 FR 18980, Apr. 1, 2022]

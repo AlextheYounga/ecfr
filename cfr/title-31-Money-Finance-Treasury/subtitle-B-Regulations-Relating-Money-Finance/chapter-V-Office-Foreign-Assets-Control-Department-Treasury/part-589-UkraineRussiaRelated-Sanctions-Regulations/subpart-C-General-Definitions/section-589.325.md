@@ -1,0 +1,3 @@
+##### § 589.325 Metals and mining sector of the Russian Federation economy. #####
+
+The term *metals and mining sector of the Russian Federation economy* includes any act, process, or industry of extracting, at the surface or underground, ores, coal, precious stones, or any other minerals or geological materials in the Russian Federation, or any act of procuring, processing, manufacturing, or refining such geological materials, or transporting them to, from, or within the Russian Federation.

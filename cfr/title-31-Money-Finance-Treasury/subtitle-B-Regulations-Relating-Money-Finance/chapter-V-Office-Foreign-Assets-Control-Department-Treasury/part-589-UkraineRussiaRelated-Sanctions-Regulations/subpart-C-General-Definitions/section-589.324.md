@@ -1,0 +1,3 @@
+##### § 589.324 Loans or other extensions of credit. #####
+
+The term *loans or other extensions of credit* means any transfer or extension of funds or credit on the basis of an obligation to repay, or any assumption or guarantee of the obligation of another to repay an extension of funds or credit, including: Overdrafts; currency swaps; purchases of debt securities issued by persons subject to the prohibitions in this part; purchases of a loan made by another person; sales of financial assets subject to an agreement to repurchase; renewals or refinancings whereby funds or credits are transferred to or extended to a prohibited borrower or prohibited recipient; the issuance of standby letters of credit; and drawdowns on existing lines of credit.

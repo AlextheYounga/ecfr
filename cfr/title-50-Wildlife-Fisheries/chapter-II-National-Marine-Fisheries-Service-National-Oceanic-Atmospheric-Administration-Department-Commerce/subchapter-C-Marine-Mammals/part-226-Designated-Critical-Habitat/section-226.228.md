@@ -1,3 +1,17 @@
-##### § 226.228 xxx #####
+##### § 226.228 Critical Habitat for the Arctic Subspecies (Pusa hispida hispida) of the Ringed Seal. #####
 
-Link to an amendment published at 87 FR 19286, Apr. 1, 2022.
+Critical habitat is designated for the Arctic subspecies of the ringed seal as described in this section. The map and textual descriptions in this section are the definitive source for determining the critical habitat boundaries.
+
+(a) *Critical habitat boundaries.* Critical habitat for the Arctic subspecies of the ringed seal includes marine waters within one specific area in the Bering, Chukchi, and Beaufort seas, extending from the nearshore boundary, defined by the 3-m isobath relative to mean lower low water (MLLW), to an offshore limit within the U.S. Exclusive Economic Zone (EEZ). The boundary extends offshore from the northern limit of the United States-Canada border approximately 90 km to 70°26′19″ N/140°11′21″ W, and from this point runs generally westward along the line connecting the following points: 70°55′35″ N/142°33′51″ W, 70°53′25″ N/144°37′19″ W, 71°1′22″ N/146°36′55″ W, 71°17′21″ N/148°34′58″ W, and 71°20′8″ N/150° W. From this point (71°20′8″ N/150° W) the boundary follows longitude 150° W northward to 72°20′4″ N/150° W, then extends westward to 72°20′4″ N/153° W, then follows longitude 153° W northward to the seaward limit of the U.S. EEZ, and then follows the limit of the U.S. EEZ northwestward; then southwestward and south to the intersection of the southern boundary of the critical habitat in the Bering Sea at 61°18′15″ N/177°45′56″ W. The southern boundary extends southeastward from this intersection point to 60°7″ N/172°1″ W, then northeastward along a line extending to near Cape Romanzof at 61°48′42″ N/166°6′5″ W, with the nearshore boundary defined by the 3-m isobath. This includes waters off the coasts of the Kusilvak, and Nome Census Areas, and the Northwest Arctic and North Slope Boroughs, Alaska. Critical habitat does not include permanent manmade structures such as boat ramps, docks, and pilings that were in existence within the legal boundaries as of May 2, 2022.
+
+(b) *Essential features.* The essential features for the conservation of the Arctic subspecies of the ringed seal are:
+
+(1) Snow-covered sea ice habitat suitable for the formation and maintenance of subnivean birth lairs used for sheltering pups during whelping and nursing, which is defined as waters 3 m or more in depth (relative to MLLW) containing areas of seasonal landfast (shorefast) ice or dense, stable pack ice, that have undergone deformation and contain snowdrifts of sufficient depth to form and maintain birth lairs (typically at least 54 cm deep).
+
+(2) Sea ice habitat suitable as a platform for basking and molting, which is defined as areas containing sea ice of 15 percent or more concentration in waters 3 m or more in depth (relative to MLLW).
+
+(3) Primary prey resources to support Arctic ringed seals, which are defined to be small, often schooling, fishes, in particular, Arctic cod (*Boreogadus saida*), saffron cod (*Eleginus gracilis*), and rainbow smelt (*Osmerus dentex*); and small crustaceans, in particular, shrimps and amphipods.
+
+(c) *Map of Arctic ringed seal critical habitat* follows.
+
+Figure 1 to paragraph (c)![](/graphics/er01ap22.001.gif)[87 FR 19286, Apr. 1, 2022]

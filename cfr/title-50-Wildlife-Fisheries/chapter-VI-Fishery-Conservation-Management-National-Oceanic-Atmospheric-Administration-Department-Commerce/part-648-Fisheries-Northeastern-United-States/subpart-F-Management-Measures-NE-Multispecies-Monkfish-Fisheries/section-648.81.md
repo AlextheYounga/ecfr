@@ -1,6 +1,6 @@
 ##### § 648.81 NE multispecies year-round and seasonal closed areas. #####
 
-(a) *Year-round groundfish closed areas* - (1) *Restrictions.* No fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, the, Cashes Ledge, Western Gulf of Maine, or Closed Area II Closure Areas, unless otherwise allowed by or exempted under this part. Charts of the areas described in this section are available from the Regional Administrator upon request.
+(a) *Year-round groundfish closed areas*—(1) *Restrictions.* No fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, the, Cashes Ledge, Western Gulf of Maine, or Closed Area II Closure Areas, unless otherwise allowed by or exempted under this part. Charts of the areas described in this section are available from the Regional Administrator upon request.
 
 (2) *Exemptions.* Unless restricted by the requirements of subpart P of this part or elsewhere in this part, paragraph (a)(1) of this section does not apply to a fishing vessel or person on a fishing vessel when fishing under the following conditions:
 
@@ -30,8 +30,6 @@
 
 (3) *Cashes Ledge Closure Area.* The Cashes Ledge Closure Area is defined by straight lines connecting the following points in the order stated:
 
-Cashes Ledge Closure Area
-
 |Point|  N lat.  | W long.  |
 |-----|----------|----------|
 | CL1 | 43°07′ N | 69°02′ W |
@@ -44,8 +42,6 @@ Cashes Ledge Closure Area
 
 (4) *Western Gulf of Maine Closure Area.* The Western Gulf of Maine Closure Area is defined by straight lines connecting the following points in the order stated:
 
-Western Gulf of Maine Closure Area
-
 |Point|N latitude|W longitude|
 |-----|----------|-----------|
 |WGM1 |  43°15′  |  70°15′   |
@@ -56,24 +52,19 @@ Western Gulf of Maine Closure Area
 
 (5) *Closed Area II Closure Area.* (i) The Closed Area II Closure Area is defined by straight lines, unless otherwise noted, connecting the following points in the order stated:
 
-Closed Area II Closure Area
+|                                                                    Point                                                                    |    N lat.    |   W long.    |     Note     |
+|---------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|--------------|
+|                                                                    CAII1                                                                    |    41°00′    |    67°20′    |              |
+|                                                                    CAII2                                                                    |    41°00′    |   66°35.8′   |              |
+|                                                                    CAII3                                                                    |  41°18.45′   |(<sup>1</sup>)|(<sup>2</sup>)|
+|                                                                    CAII4                                                                    |(<sup>3</sup>)|    67°20′    |(<sup>2</sup>)|
+|                                                                    CAII5                                                                    |    42°22′    |    67°20′    |              |
+|                                                                    CAII1                                                                    |    41°00′    |    67°20′    |              |
+|<sup>1</sup> The intersection of 41°18.45′ N lat. and the U.S.-Canada Maritime Boundary, approximately 41°18.45′ N lat. and 66°24.89′ W long.|              |              |              |
+|                            <sup>2</sup> From Point CAII3 to Point CAII4 along the U.S.-Canada Maritime Boundary.                            |              |              |              |
+|  <sup>3</sup> The intersection of 67°20′ W long. And the U.S.-Canada Maritime Boundary, approximately 42°22.06′ N lat. and 67°20′ W long.   |              |              |              |
 
-|Point|    N lat.    |   W long.    |     Note     |
-|-----|--------------|--------------|--------------|
-|CAII1|    41°00′    |    67°20′    |              |
-|CAII2|    41°00′    |   66°35.8′   |              |
-|CAII3|  41°18.45′   |(<sup>1</sup>)|(<sup>2</sup>)|
-|CAII4|(<sup>3</sup>)|    67°20′    |(<sup>2</sup>)|
-|CAII5|    42°22′    |    67°20′    |              |
-|CAII1|    41°00′    |    67°20′    |              |
-
-<sup>1</sup> The intersection of 41°18.45′ N lat. and the U.S.-Canada Maritime Boundary, approximately 41°18.45′ N lat. and 66°24.89′ W long.
-
-<sup>2</sup> From Point CAII3 to Point CAII4 along the U.S.-Canada Maritime Boundary.
-
-<sup>3</sup> The intersection of 67°20′ W long. And the U.S.-Canada Maritime Boundary, approximately 42°22.06′ N lat. and 67°20′ W long.
-
-(ii) Unless otherwise restricted under the EFH Closure(s) specified in paragraph (h) of this section, paragraph (a)(5)(i) of this section does not apply to persons on fishing vessels or fishing vessels -
+(ii) Unless otherwise restricted under the EFH Closure(s) specified in paragraph (h) of this section, paragraph (a)(5)(i) of this section does not apply to persons on fishing vessels or fishing vessels—
 
 (A) Fishing with gears as described in paragraph (a)(2) this section.
 
@@ -89,7 +80,7 @@ Closed Area II Closure Area
 
 (E) Fishing for scallops within the Closed Area II Access Area defined in § 648.59(c)(3), during the season specified in § 648.59(c)(4), and pursuant to the provisions specified in § 648.60.
 
-(b) *Gulf of Maine spawning groundfish closures* - (1) *Restrictions.* Unless allowed in this part, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, the spawning closure areas described in paragraphs (b)(3) and (4) of this section, during the times specified in this section. Charts depicting the areas defined here are available from the RA upon request.
+(b) *Gulf of Maine spawning groundfish closures*—(1) *Restrictions.* Unless allowed in this part, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, the spawning closure areas described in paragraphs (b)(3) and (4) of this section, during the times specified in this section. Charts depicting the areas defined here are available from the RA upon request.
 
 (2) *Exemptions.* Paragraph (b)(1) of this section does not apply to a fishing vessel or person on a fishing vessel:
 
@@ -117,8 +108,6 @@ Closed Area II Closure Area
 
 (3) *GOM Cod Spawning Protection Area.* Except as specified in paragraph (b)(2) of this section, from April through June of each year, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, the GOM Cod Spawning Protection Area, as defined by straight lines connecting the following points in the order stated:
 
-GOM Cod Spawning Protection Area
-
 |Point|N latitude|W longitude|
 |-----|----------|-----------|
 |CSPA1|42°50.95′ | 70°32.22′ |
@@ -129,42 +118,32 @@ GOM Cod Spawning Protection Area
 
 (4) *Winter Massachusetts Bay Spawning Protection Area.* Except as specified in paragraph (b)(2) of this section, from November 1 through January 31 of each year, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or be on board a vessel in, the Massachusetts Bay Protection Area, as defined on the west and south by the outer limit of Massachusetts waters and on the northeast by a straight line connecting the following points, which fall along the Massachusetts state waters boundary:
 
-Winter Massachusetts Bay Spawning Protection Area
-
 |Point|N latitude|W longitude|
 |-----|----------|-----------|
 |WSPA1|42° 23.61′|70° 39.21′ |
 |WSPA2|42° 07.68′|70° 26.79′ |
 
-(5) *Spring Massachusetts Bay Spawning Protection Area.* (i) From April 15 through April 30 of each year, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in the thirty- minute block defined by straight lines, unless otherwise noted, connecting the following points in the order stated:
+(5) *Spring Massachusetts Bay Spawning Protection Area.* (i) From April 15 through April 30 of each year, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in the thirty-minute block defined by straight lines, unless otherwise noted, connecting the following points in the order stated:
 
-Spring Massachusetts Bay Spawning Protection Area
-
-|Point|  N latitude  | W longitude  |     Note     |
-|-----|--------------|--------------|--------------|
-|SSPA1|    42°30′    |(<sup>1</sup>)|              |
-|SSPA2|    42°30′    |    70°30′    |              |
-|SSPA3|    42°00′    |    70°30′    |              |
-|SSPA4|    42°00′    |(<sup>2</sup>)|(<sup>3</sup>)|
-|SSPA5|(<sup>4</sup>)|    71°00′    |(<sup>3</sup>)|
-|SSPA6|(<sup>5</sup>)|    71°00′    |(<sup>6</sup>)|
-|SSPA1|    42°30′    |(<sup>1</sup>)|(<sup>6</sup>)|
-
-<sup>1</sup> The intersection of 42°30′ N lat. and the coastline at Marblehead, MA.
-
-<sup>2</sup> The intersection of 42°00′ N lat. and the coastline at Kingston, MA.
-
-<sup>3</sup> From Point SSPA4 to Point SSPA5 following the coastline of Massachusetts.
-
-<sup>4</sup> The intersection of 71°00′ W long. and the coastline at Quincy, MA.
-
-<sup>5</sup> The intersection of 71°00′ W long. and the northernmost coastline at East Boston, Boston, MA.
-
-<sup>6</sup> From Point SSPA6 back to Point SSPA 1 following the coastline of Massachusetts.
+|                                                  Point                                                   |  N latitude  | W longitude  |     Note     |
+|----------------------------------------------------------------------------------------------------------|--------------|--------------|--------------|
+|                                                  SSPA1                                                   |    42°30′    |(<sup>1</sup>)|              |
+|                                                  SSPA2                                                   |    42°30′    |    70°30′    |              |
+|                                                  SSPA3                                                   |    42°00′    |    70°30′    |              |
+|                                                  SSPA4                                                   |    42°00′    |(<sup>2</sup>)|(<sup>3</sup>)|
+|                                                  SSPA5                                                   |(<sup>4</sup>)|    71°00′    |(<sup>3</sup>)|
+|                                                  SSPA6                                                   |(<sup>5</sup>)|    71°00′    |(<sup>6</sup>)|
+|                                                  SSPA1                                                   |    42°30′    |(<sup>1</sup>)|(<sup>6</sup>)|
+|           <sup>1</sup> The intersection of 42°30′ N lat. and the coastline at Marblehead, MA.            |              |              |              |
+|            <sup>2</sup> The intersection of 42°00′ N lat. and the coastline at Kingston, MA.             |              |              |              |
+|          <sup>3</sup> From Point SSPA4 to Point SSPA5 following the coastline of Massachusetts.          |              |              |              |
+|             <sup>4</sup> The intersection of 71°00′ W long. and the coastline at Quincy, MA.             |              |              |              |
+|<sup>5</sup> The intersection of 71°00′ W long. and the northernmost coastline at East Boston, Boston, MA.|              |              |              |
+|       <sup>6</sup> From Point SSPA6 back to Point SSPA 1 following the coastline of Massachusetts.       |              |              |              |
 
 (ii) Unless otherwise restricted in this part, the Spring Massachusetts Bay Spawning Protection Area closure does not apply to a fishing vessel or person on a fishing vessel that meets the criteria in paragraphs (d)(5)(ii) through (vi) and (x) of this section (listed under the exemptions for the GOM Cod Protection Closures). This includes recreational vessels meeting the criteria specified in paragraphs (d)(5)(v)(A) through (D) of this section.
 
-(c) *Georges Bank Spawning Groundfish Closures* - (1) *Restrictions.* Unless otherwise allowed in this part, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used on board a vessel in the spawning closure areas described in paragraphs (b)(3) and (4) of this section, and during the times specified in this section. Charts depicting the areas defined here are available from the RA upon request.
+(c) *Georges Bank Spawning Groundfish Closures*—(1) *Restrictions.* Unless otherwise allowed in this part, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used on board a vessel in the spawning closure areas described in paragraphs (b)(3) and (4) of this section, and during the times specified in this section. Charts depicting the areas defined here are available from the RA upon request.
 
 (2) *Exemptions.* Paragraph (c)(1) of this section does not apply to a fishing vessel or person on a fishing vessel:
 
@@ -186,8 +165,6 @@ Spring Massachusetts Bay Spawning Protection Area
 
 (3) *Closed Area I North.* Except as specified in paragraph (c)(2) of this section, from February 1 through April 15 of each year, no fishing vessel or person on a fishing vessel may enter, fish, or be in; and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, Closed Area I North, as defined by straight lines connecting the following points in the order stated:
 
-Closed Area I - North
-
 |Point|N lat.|W long.|
 |-----|------|-------|
 |CIN1 |41°30′|69°23′ |
@@ -198,24 +175,19 @@ Closed Area I - North
 
 (4) *Closed Area II.* Except as specified in paragraph (c)(2) of this section, from February 1 through April 15 of each year, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, Closed Area II, as defined by straight lines, unless otherwise noted, connecting the following points in the order stated:
 
-Closed Area II
+|                                                                    Point                                                                    |    N lat.    |   W long.    |     Note     |
+|---------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|--------------|
+|                                                                    CAII1                                                                    |    41°00′    |    67°20′    |              |
+|                                                                    CAII2                                                                    |    41°00′    |   66°35.8′   |              |
+|                                                                    CAII3                                                                    |   41°18.45   |(<sup>1</sup>)|(<sup>2</sup>)|
+|                                                                    CAII4                                                                    |(<sup>3</sup>)|    67°20′    |(<sup>2</sup>)|
+|                                                                    CAII5                                                                    |    42°22′    |    67°20′    |              |
+|                                                                    CAII1                                                                    |    41°00′    |    67°20′    |              |
+|<sup>1</sup> The intersection of 41°18.45′ N lat. and the U.S.-Canada Maritime Boundary, approximately 41°18.45′ N lat. and 66°24.89′ W long.|              |              |              |
+|                            <sup>2</sup> From Point CAII3 to Point CAII4 along the U.S.-Canada Maritime Boundary.                            |              |              |              |
+|  <sup>3</sup> The intersection of 67°20′ W long. and the U.S.-Canada Maritime Boundary, approximately 42°22.06′ N lat. and 67°20′ W long.   |              |              |              |
 
-|Point|    N lat.    |   W long.    |     Note     |
-|-----|--------------|--------------|--------------|
-|CAII1|    41°00′    |    67°20′    |              |
-|CAII2|    41°00′    |   66°35.8′   |              |
-|CAII3|   41°18.45   |(<sup>1</sup>)|(<sup>2</sup>)|
-|CAII4|(<sup>3</sup>)|    67°20′    |(<sup>2</sup>)|
-|CAII5|    42°22′    |    67°20′    |              |
-|CAII1|    41°00′    |    67°20′    |              |
-
-<sup>1</sup> The intersection of 41°18.45′ N lat. and the U.S.-Canada Maritime Boundary, approximately 41°18.45′ N lat. and 66°24.89′ W long.
-
-<sup>2</sup> From Point CAII3 to Point CAII4 along the U.S.-Canada Maritime Boundary.
-
-<sup>3</sup> The intersection of 67°20′ W long. and the U.S.-Canada Maritime Boundary, approximately 42°22.06′ N lat. and 67°20′ W long.
-
-(d) *GOM Cod Protection Closures* - (1) *Restrictions.* Unless otherwise allowed in this part, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, GOM Cod Protection Closures I through V as described, and during the times specified, in paragraphs (d)(4)(i) through (v) of this section.
+(d) *GOM Cod Protection Closures*—(1) *Restrictions.* Unless otherwise allowed in this part, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, GOM Cod Protection Closures I through V as described, and during the times specified, in paragraphs (d)(4)(i) through (v) of this section.
 
 (2) *Review of closure.* The New England Fishery Management Council shall review the GOM Cod Protection Closures Areas specified in this section when the spawning stock biomass for GOM cod reaches the minimum biomass threshold specified for the stock (50 percent of SSBMSY).
 
@@ -233,108 +205,73 @@ Closed Area II
 
 (i) *GOM Cod Protection Closure I.* GOM Cod Protection Closure I is the area bounded by the following coordinates connected in the order stated by straight lines, unless otherwise noted:
 
-GOM Cod Protection Closure I
-
-[May 1-May 31]
-
-|Point |N latitude|         W longitude         |
-|------|----------|-----------------------------|
-|CPCI 1| 43°30′ N |       (<sup>1</sup>)        |
-|CPCI 2| 43°30′ N |          69°30′ W           |
-|CPCI 3| 43°00′ N |          69°30′ W           |
-|CPCI 4| 43°00′ N |          70°00′ W           |
-|CPCI 5| 42°30′ N |          70°00′ W           |
-|CPCI 6| 42°30′ N |          70°30′ W           |
-|CPCI 7| 42°20′ N |          70°30′ W           |
-|CPCI 8| 42°20′ N |(<sup>2</sup>) (<sup>3</sup>)|
-|CPCI 1| 43°30′ N |(<sup>1</sup>) (<sup>3</sup>)|
-
-<sup>1</sup> The intersection of 43°30′ N latitude and the coastline of Maine.
-
-<sup>2</sup> The intersection of 42°20′ N latitude and the coastline of Massachusetts.
-
-<sup>3</sup> From Point 8 back to Point 1 following the coastline of the United States.
+|                                         Point                                         |N latitude|         W longitude         |
+|---------------------------------------------------------------------------------------|----------|-----------------------------|
+|                                        CPCI 1                                         | 43°30′ N |       (<sup>1</sup>)        |
+|                                        CPCI 2                                         | 43°30′ N |          69°30′ W           |
+|                                        CPCI 3                                         | 43°00′ N |          69°30′ W           |
+|                                        CPCI 4                                         | 43°00′ N |          70°00′ W           |
+|                                        CPCI 5                                         | 42°30′ N |          70°00′ W           |
+|                                        CPCI 6                                         | 42°30′ N |          70°30′ W           |
+|                                        CPCI 7                                         | 42°20′ N |          70°30′ W           |
+|                                        CPCI 8                                         | 42°20′ N |(<sup>2</sup>) (<sup>3</sup>)|
+|                                        CPCI 1                                         | 43°30′ N |(<sup>1</sup>) (<sup>3</sup>)|
+|    <sup>1</sup> The intersection of 43°30′ N latitude and the coastline of Maine.     |          |                             |
+|<sup>2</sup> The intersection of 42°20′ N latitude and the coastline of Massachusetts. |          |                             |
+|<sup>3</sup> From Point 8 back to Point 1 following the coastline of the United States.|          |                             |
 
 (ii) *GOM Cod Protection Closure II.* GOM Cod Protection Closure II is the area bounded by the following coordinates connected in the order stated by straight lines, unless otherwise noted:
 
-GOM Cod Protection Closure II
-
-[June 1-June 30]
-
-| Point  |  N latitude  |         W longitude          |
-|--------|--------------|------------------------------|
-|CPCII 1 |(<sup>1</sup>)|           69°30′ W           |
-|CPCII 2 |   43°30′ N   |           69°30′ W           |
-|CPCII 3 |   43°30′ N   |           70°00′ W           |
-|CPCII 4 |   42°30′ N   |           70°00′ W           |
-|CPCII 5 |   42°30′ N   |           70°30′ W           |
-|CPCII 6 |   42°20′ N   |           70°30′ W           |
-|CPCII 7 |   42°20′ N   | (<sup>2</sup>)(<sup>3</sup>) |
-|CPCII 8 |   42°30′ N   |(<sup>(4)</sup>)(<sup>3</sup>)|
-|CPCII 9 |   42°30′ N   |           70°30′ W           |
-|CPCII 10|   43°00′ N   |           70°30′ W           |
-|CPCII 11|   43°00′ N   |(<sup>5</sup>) (<sup>6</sup>) |
-|CPCII 1 |(<sup>1</sup>)|   69°30′ W (<sup>6</sup>)    |
-
-<sup>1</sup> The intersection of 69°30′ W longitude and the coastline of Maine.
-
-<sup>2</sup> The intersection of 42°20′ N latitude and the coastline of Massachusetts.
-
-<sup>3</sup> From Point 7 to Point 8 following the coastline of Massachusetts.
-
-<sup>4</sup> The intersection of 42°30′ N latitude and the coastline of Massachusetts.
-
-<sup>5</sup> The intersection of 43°00′ N latitude and the coastline of New Hampshire.
-
-<sup>6</sup> From Point 11 back to Point 1 following the coastlines of New Hampshire and Maine.
+|                                             Point                                             |  N latitude  |         W longitude          |
+|-----------------------------------------------------------------------------------------------|--------------|------------------------------|
+|                                            CPCII 1                                            |(<sup>1</sup>)|           69°30′ W           |
+|                                            CPCII 2                                            |   43°30′ N   |           69°30′ W           |
+|                                            CPCII 3                                            |   43°30′ N   |           70°00′ W           |
+|                                            CPCII 4                                            |   42°30′ N   |           70°00′ W           |
+|                                            CPCII 5                                            |   42°30′ N   |           70°30′ W           |
+|                                            CPCII 6                                            |   42°20′ N   |           70°30′ W           |
+|                                            CPCII 7                                            |   42°20′ N   | (<sup>2</sup>)(<sup>3</sup>) |
+|                                            CPCII 8                                            |   42°30′ N   |(<sup>(4)</sup>)(<sup>3</sup>)|
+|                                            CPCII 9                                            |   42°30′ N   |           70°30′ W           |
+|                                           CPCII 10                                            |   43°00′ N   |           70°30′ W           |
+|                                           CPCII 11                                            |   43°00′ N   |(<sup>5</sup>) (<sup>6</sup>) |
+|                                            CPCII 1                                            |(<sup>1</sup>)|   69°30′ W (<sup>6</sup>)    |
+|        <sup>1</sup> The intersection of 69°30′ W longitude and the coastline of Maine.        |              |                              |
+|    <sup>2</sup> The intersection of 42°20′ N latitude and the coastline of Massachusetts.     |              |                              |
+|        <sup>3</sup> From Point 7 to Point 8 following the coastline of Massachusetts.         |              |                              |
+|    <sup>4</sup> The intersection of 42°30′ N latitude and the coastline of Massachusetts.     |              |                              |
+|    <sup>5</sup> The intersection of 43°00′ N latitude and the coastline of New Hampshire.     |              |                              |
+|<sup>6</sup> From Point 11 back to Point 1 following the coastlines of New Hampshire and Maine.|              |                              |
 
 (iii) *GOM Cod Protection Closure III.* GOM Cod Protection Closure III is the area bounded by the following coordinates connected in the order stated by straight lines, unless otherwise noted:
 
-GOM Cod Protection Closure III
-
-[November 1-January 31]
-
-| Point  |N latitude|         W longitude         |
-|--------|----------|-----------------------------|
-|CPCIII 1| 42°30′ N |       (<sup>1</sup>)        |
-|CPCIII 2| 42°30′ N |          70°30′ W           |
-|CPCIII 3| 42°15′ N |          70°30′ W           |
-|CPCIII 4| 42°15′ N |          70°24′ W           |
-|CPCIII 5| 42°00′ N |          70°24′ W           |
-|CPCIII 6| 42°00′ N |(<sup>2</sup>) (<sup>3</sup>)|
-|CPCIII 1| 42°30′ N |(<sup>1</sup>) (<sup>3</sup>)|
-
-<sup>1</sup> The intersection of 42°30′ N latitude and the Massachusetts coastline.
-
-<sup>2</sup> The intersection of 42°00′ N latitude and the mainland Massachusetts coastline at Kingston, MA.
-
-<sup>3</sup> From Point 6 back to Point 1 following the coastline of Massachusetts.
+|                                                   Point                                                    |N latitude|         W longitude         |
+|------------------------------------------------------------------------------------------------------------|----------|-----------------------------|
+|                                                  CPCIII 1                                                  | 42°30′ N |       (<sup>1</sup>)        |
+|                                                  CPCIII 2                                                  | 42°30′ N |          70°30′ W           |
+|                                                  CPCIII 3                                                  | 42°15′ N |          70°30′ W           |
+|                                                  CPCIII 4                                                  | 42°15′ N |          70°24′ W           |
+|                                                  CPCIII 5                                                  | 42°00′ N |          70°24′ W           |
+|                                                  CPCIII 6                                                  | 42°00′ N |(<sup>2</sup>) (<sup>3</sup>)|
+|                                                  CPCIII 1                                                  | 42°30′ N |(<sup>1</sup>) (<sup>3</sup>)|
+|            <sup>1</sup> The intersection of 42°30′ N latitude and the Massachusetts coastline.             |          |                             |
+|<sup>2</sup> The intersection of 42°00′ N latitude and the mainland Massachusetts coastline at Kingston, MA.|          |                             |
+|            <sup>3</sup> From Point 6 back to Point 1 following the coastline of Massachusetts.             |          |                             |
 
 (iv) *GOM Cod Protection Closure IV.* GOM Cod Protection Closure IV is the area bounded by the following coordinates connected in the order stated by straight lines, unless otherwise noted:
 
-GOM Cod Protection Closure IV
-
-[October 1-October 31]
-
-| Point |N latitude|         W longitude         |
-|-------|----------|-----------------------------|
-|CPCIV 1| 42°30′ N |       (<sup>1</sup>)        |
-|CPCIV 2| 42°30′ N |          70°00′ W           |
-|CPCIV 3| 42°00′ N |          70°00′ W           |
-|CPCIV 4| 42°00′ N |(<sup>2</sup>) (<sup>3</sup>)|
-|CPCIV 1| 42°30′ N |(<sup>1</sup>) (<sup>3</sup>)|
-
-<sup>1</sup> The intersection of 42°30′ N latitude and the Massachusetts coastline.
-
-<sup>2</sup> The intersection of 42°00′ N latitude and the mainland Massachusetts coastline at Kingston, MA.
-
-<sup>3</sup> From Point 4 back to Point 1 following the coastline of Massachusetts.
+|                                                   Point                                                    |N latitude|         W longitude         |
+|------------------------------------------------------------------------------------------------------------|----------|-----------------------------|
+|                                                  CPCIV 1                                                   | 42°30′ N |       (<sup>1</sup>)        |
+|                                                  CPCIV 2                                                   | 42°30′ N |          70°00′ W           |
+|                                                  CPCIV 3                                                   | 42°00′ N |          70°00′ W           |
+|                                                  CPCIV 4                                                   | 42°00′ N |(<sup>2</sup>) (<sup>3</sup>)|
+|                                                  CPCIV 1                                                   | 42°30′ N |(<sup>1</sup>) (<sup>3</sup>)|
+|            <sup>1</sup> The intersection of 42°30′ N latitude and the Massachusetts coastline.             |          |                             |
+|<sup>2</sup> The intersection of 42°00′ N latitude and the mainland Massachusetts coastline at Kingston, MA.|          |                             |
+|            <sup>3</sup> From Point 4 back to Point 1 following the coastline of Massachusetts.             |          |                             |
 
 (v) *GOM Cod Protection Closure V.* GOM Cod Protection Closure V is the area bounded by the following coordinates connected in the order stated by straight lines:
-
-GOM Cod Protection Closure V
-
-[March 1-March 31]
 
 |Point |N latitude|W longitude|
 |------|----------|-----------|
@@ -386,7 +323,7 @@ GOM Cod Protection Closure V
 
 (2) Private recreational or charter/party vessels fishing under the Northeast multispecies provisions specified at § 648.89 may transit the GOM Cod Spawning Protection Area, as defined in paragraph (b)(3) of this section, provided all bait and hooks are removed from fishing rods, and any regulated species on board have been caught outside the GOM Cod Spawning Protection Area and has been gutted and stored.
 
-(f) *Restricted Gear Areas* - (1) *Restricted Gear Area Seasons.* No fishing vessel with mobile gear on board, or person on a fishing vessel with mobile gear on board, may fish or be in the specified Restricted Gear Areas, unless transiting, during the seasons below. No fishing vessel with lobster pot gear on board, or person on a fishing vessel with lobster pot gear on board, may fish in, and no lobster pot gear may be deployed or remain in the specified Restricted Gear Areas. Vessels with lobster pot gear on board may transit during the seasons listed in the table in this paragraph (f)(1).
+(f) *Restricted Gear Areas*—(1) *Restricted Gear Area Seasons.* No fishing vessel with mobile gear on board, or person on a fishing vessel with mobile gear on board, may fish or be in the specified Restricted Gear Areas, unless transiting, during the seasons below. No fishing vessel with lobster pot gear on board, or person on a fishing vessel with lobster pot gear on board, may fish in, and no lobster pot gear may be deployed or remain in the specified Restricted Gear Areas. Vessels with lobster pot gear on board may transit during the seasons listed in the table in this paragraph (f)(1).
 
 |                        |    Mobile gear     |  Lobster pot gear   |
 |------------------------|--------------------|---------------------|

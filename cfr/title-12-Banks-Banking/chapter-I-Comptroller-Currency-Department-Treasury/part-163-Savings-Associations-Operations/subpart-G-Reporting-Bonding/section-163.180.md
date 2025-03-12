@@ -1,7 +1,5 @@
 ##### § 163.180 Suspicious Activity Reports and other reports and statements. #####
 
-Link to an amendment published at 87 FR 15332, Mar. 18, 2022.
-
 (a) [Reserved]
 
 (b) *False or misleading statements or omissions.* No savings association or director, officer, agent, employee, affiliated person, or other person participating in the conduct of the affairs of such association nor any person filing or seeking approval of any application shall knowingly:
@@ -12,7 +10,7 @@ Link to an amendment published at 87 FR 15332, Mar. 18, 2022.
 
 (c) [Reserved]
 
-(d) *Suspicious Activity Reports* - (1) *Purpose and scope.* This paragraph (d) ensures that savings associations and service corporations file a Suspicious Activity Report when they detect a known or suspected violation of Federal law or a suspicious transaction related to a money laundering activity or a violation of the Bank Secrecy Act.
+(d) *Suspicious Activity Reports*—(1) *Purpose and scope.* This paragraph (d) ensures that savings associations and service corporations file a Suspicious Activity Report when they detect a known or suspected violation of Federal law or a suspicious transaction related to a money laundering activity or a violation of the Bank Secrecy Act.
 
 (2) *Definitions.* For the purposes of this paragraph (d):
 
@@ -48,7 +46,7 @@ Link to an amendment published at 87 FR 15332, Mar. 18, 2022.
 
 (8) *Retention of records.* A savings association or service corporation shall maintain a copy of any SAR filed and the original or business record equivalent of any supporting documentation for a period of five years from the date of the filing of the SAR. Supporting documentation shall be identified and maintained by the savings association or service corporation as such, and shall be deemed to have been filed with the SAR. A savings association or service corporation shall make all supporting documentation available to appropriate law enforcement agencies upon request. A savings association or service corporation shall make all supporting documentation available to the appropriate Federal banking agency, FinCEN, or any Federal, state, or local law enforcement agency, or any Federal regulatory authority that examines the savings association or service corporation for compliance with the Bank Secrecy Act, or any state regulatory authority administering a state law that requires the savings association or service corporation to comply with the Bank Secrecy Act or otherwise authorizes the state authority to ensure that the institution complies with the Bank Secrecy Act, upon request.
 
-(9) *Notification to board of directors* - (i) *Generally.* Whenever a savings association (or a service corporation in which the savings association has an ownership interest) files a SAR pursuant to this paragraph (d), the management of the savings association or service corporation shall promptly notify its board of directors, or a committee of directors or executive officers designated by the board of directors to receive notice.
+(9) *Notification to board of directors*—(i) *Generally.* Whenever a savings association (or a service corporation in which the savings association has an ownership interest) files a SAR pursuant to this paragraph (d), the management of the savings association or service corporation shall promptly notify its board of directors, or a committee of directors or executive officers designated by the board of directors to receive notice.
 
 (ii) *Suspect is a director or executive officer.* If the savings association or service corporation files a SAR pursuant to this paragraph (d) and the suspect is a director or executive officer, the savings association or service corporation may not notify the suspect, pursuant to 31 U.S.C. 5318(g)(2), but shall notify all directors who are not suspects.
 
@@ -84,10 +82,18 @@ Link to an amendment published at 87 FR 15332, Mar. 18, 2022.
 
 (13) *Safe harbor.* The safe harbor provision of 31 U.S.C. 5318(g), which exempts any financial institution that makes a disclosure of any possible violation of law or regulation from liability under any law or regulation of the United States, or any constitution, law or regulation of any state or political subdivision, covers all reports of suspected or known criminal violations and suspicious activities to law enforcement and financial institution supervisory authorities, including supporting documentation, regardless of whether such reports are filed pursuant to this paragraph (d), or are filed on a voluntary basis.
 
-(e) *Adjustable-rate mortgage indices* - (1) *Reporting obligation.* Upon the request of a Federal Home Loan Bank, all savings associations within the jurisdiction of that Federal Home Loan Bank shall report the data items set forth in paragraph (e)(2) of this section for the Federal Home Loan Bank to use in calculating and publishing an adjustable-rate mortgage index.
+(e) *Adjustable-rate mortgage indices*—(1) *Reporting obligation.* Upon the request of a Federal Home Loan Bank, all savings associations within the jurisdiction of that Federal Home Loan Bank shall report the data items set forth in paragraph (e)(2) of this section for the Federal Home Loan Bank to use in calculating and publishing an adjustable-rate mortgage index.
 
 (2) *Data to be reported.* For purposes of paragraph (e)(1) of this section, the term “data items” means the data items previously collected from the monthly Thrift Financial Report or Consolidated Reports of Condition and Income, as appropriate, and such data items as may be altered, amended, or substituted by the requesting Federal Home Loan Bank.
 
 (3) *Applicable indices.* For the purpose of this reporting requirement, the term “adjustable-rate mortgage index” means any of the adjustable-rate mortgage indices calculated and published by a Federal Home Loan Bank or the Federal Home Loan Bank Board on or before August 9, 1989.
 
-[76 FR 49047, Aug. 9, 2011, as amended at 82 FR 8111, Jan. 23, 2017; 85 FR 42643, July 14, 2020]
+(f) *Exemptions.* (1) The OCC may grant a Federal savings association or service corporation an exemption from the requirements of this section. A Federal savings association or service corporation requesting an exemption must submit a request in writing to the OCC. In reviewing such requests, the OCC will consider whether the exemption is consistent with the purposes of the Bank Secrecy Act (if applicable) and safe and sound banking, and may consider other appropriate factors. Any exemption will apply only as expressly stated in the exemption. (A Federal savings association or service corporation requesting an exemption that also requires relief from the requirements of applicable regulations issued by the Department of the Treasury at 31 CFR chapter X must submit a request in writing to both the OCC and FinCEN for approval.)
+
+(2) The OCC will respond in writing to the Federal savings association or service corporation that submits a request pursuant to paragraph (f)(1) of this section after considering whether the exemption is consistent with the factors in paragraph (f)(1) of this section. Any exemption granted by the OCC under paragraph (f)(1) of this section will continue for the time specified by the OCC.
+
+(3) The OCC may extend the period of time or may revoke an exemption granted under paragraph (f)(1) of this section. Exemptions or extensions may be revoked in the sole discretion of the OCC. Before revoking an exemption, the OCC will provide written notice to the Federal savings association or service corporation of the OCC's intention to revoke an exemption. Such notice will include the basis for the revocation and will provide an opportunity for the Federal savings association or service corporation to submit a response to the OCC. The OCC will consider any response before deciding whether or not to revoke an exemption and provide written notice to the Federal savings association or service corporation of the OCC's final decision to revoke an exemption.
+
+(4) With respect to requests for exemptions that will also require relief from the requirements of applicable regulations issued by the Department of the Treasury at 31 CFR chapter X, upon receiving approval from both the OCC and FinCEN, the requestor will be relieved of its obligations under this section to the extent stated in such approvals.
+
+[76 FR 49047, Aug. 9, 2011, as amended at 82 FR 8111, Jan. 23, 2017; 85 FR 42643, July 14, 2020; 87 FR 15332, Mar. 18, 2022]

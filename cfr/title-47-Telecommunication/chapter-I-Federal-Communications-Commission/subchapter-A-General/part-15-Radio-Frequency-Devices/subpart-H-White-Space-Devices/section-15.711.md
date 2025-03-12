@@ -1,12 +1,10 @@
 ##### § 15.711 Interference avoidance methods. #####
 
-Link to an amendment published at 87 FR 18992, Apr. 1, 2022.
-
 Except as provided in § 15.717 of this part, channel availability for a white space device is determined based on the geo-location and database access method described in paragraphs (a) through (e) of this section.
 
 (a) *Geolocation required.* White space devices shall rely on a geolocation capability and database access mechanism to protect the following authorized service in accordance with the interference protection requirements of § 15.712: Digital television stations, digital and analog Class A, low power, translator and booster stations; translator receive operations; fixed broadcast auxiliary service links; private land mobile service/commercial radio service (PLMRS/CMRS) operations; offshore radiotelephone service; low power auxiliary services authorized pursuant to §§ 74.801 through 74.882 of this chapter, including licensed wireless microphones; MVPD receive sites; wireless medical telemetry service (WMTS); radio astronomy service (RAS); and 600 MHz service band licensees where they have commenced operations, as defined in § 27.4 of this chapter. In addition, protection shall be provided in border areas near Canada and Mexico in accordance with § 15.712(g).
 
-(b) *Geo-location requirement* - (1) *Accuracy.* Fixed white space devices that incorporate a geo-location capability and Mode II devices shall determine their location and their geo-location uncertainty (in meters), with a confidence level of 95%.
+(b) *Geo-location requirement*—(1) *Accuracy.* Fixed white space devices that incorporate a geo-location capability and Mode II devices shall determine their location and their geo-location uncertainty (in meters), with a confidence level of 95%.
 
 (2) *Reference datum.* All geographic coordinates shall be referenced to the North American Datum of 1983 (NAD 83).
 
@@ -24,7 +22,7 @@ Except as provided in § 15.717 of this part, channel availability for a white s
 
 (ii) Operation is permitted only on channels and at power levels that are indicated in the database as being available for each white space device. Operation on a channel must cease immediately or power must be reduced to a permissible level if the database indicates that the channel is no longer available at the current operating level.
 
-(iii) Each fixed white space device shall access the database at least once a day to verify that the operating channels continue to remain available. Each fixed white space device must adjust its use of channels in accordance with channel availability schedule information provided by its database for the 48-hour period beginning at the time the device last accessed the database for a list of available channels. The fixed device's registration information shall be updated if the geographic coordinates reported to the database differ by more than ±50 meters from the previously registered coordinates.
+(iii) A fixed white space device shall access the database at least as frequently as specified in paragraph (h) of this section to verify that the operating channel(s) and corresponding power levels continue to remain available. The fixed device's registration information shall be updated if the geographic coordinates reported to the database differ by more than ±50 meters from the previously registered coordinates.
 
 (iv) Fixed devices without a direct connection to the Internet: A fixed white space device may not operate on channels provided by a white space database for another fixed device. A fixed white space device that has not yet been initialized and registered with a white space database consistent with § 15.713 of this part, but can receive the transmissions of another fixed white space device, may transmit to that other fixed white space device on either a channel that the other white space device has transmitted on or on a channel which the other white space device indicates is available for use to access the database to register its location and receive a list of channels that are available for it to use. Subsequently, the newly registered fixed white space device must only use the channels that the database indicates are available for it to use.
 
@@ -34,7 +32,7 @@ Except as provided in § 15.717 of this part, channel availability for a white s
 
 (3) Operation is permitted only on channels and at power levels that are indicated in the database as being available for the Mode II personal/portable white space device. Operation on a channel must cease immediately or power must be reduced to a permissible level if the database indicates that the channel is no longer available at the current operating level.
 
-(4) A Mode II personal/portable white space device that has been in a powered state shall re-check its location and access the database daily to verify that the operating channel(s) and corresponding power levels continue to be available. Mode II personal/portable devices must adjust their use of channels and power levels in accordance with channel availability schedule information provided by their database for the 48-hour period beginning at the time of the device last accessed the database for a list of available channels.
+(4) A Mode II personal/portable white space device that has been in a powered state shall re-check its location and access the database at least as frequently as specified in paragraph (h) of this section to verify that the operating channel(s) and corresponding power levels continue to be available.
 
 (5) A Mode II personal/portable device may load channel availability information for multiple locations, (*i.e.,* in the vicinity of its current location) and use that information to define a geographic area within which it can operate on the same available channels at all locations. For example a Mode II personal/portable white space device could calculate a bounded area in which a channel or channels are available at all locations within the area and operate on a mobile basis within that area. A Mode II white space device using such channel availability information for multiple locations must contact the database again if/when it moves beyond the boundary of the area where the channel availability data is valid.
 
@@ -50,15 +48,19 @@ Except as provided in § 15.717 of this part, channel availability for a white s
 
 (g) *Identifying information.* Fixed white space devices shall transmit identifying information. The identification signal must conform to a standard established by a recognized industry standards setting organization. The identification signal shall carry sufficient information to identify the device and its geographic coordinates.
 
-(h) *Continuing operation.* If a fixed or Mode II personal/portable white space device fails to successfully contact the white space database during any given day, it may continue to operate until 11:59 p.m. of the following day at which time it must cease operations until it re-establishes contact with the white space database and re-verifies its list of available channels.
+(h) *Database re-check requirement.* (1) Fixed and Mode II personal/portable devices, except for narrowband devices, operating in the television bands.
 
-(i) *Push notifications.* White space device manufacturers and database administrators must implement the push notification requirements of paragraphs (i)(1) and (2) of this section, and may also implement a system that pushes additional updated channel availability information from the database to white space devices.
+(i) A device that has been in a powered-on state shall access the white space database at least once every 60 minutes to verify that the operating channel(s) and associated maximum power levels continue to be available at its location. Devices shall adjust their channel usage in accordance with the most recent channel availability schedule information provided by the white space database for the two-hour period beginning at the time of the device last accessed the database for a list of available channels.
 
-(1) In response to a request for immediate access to a channel by a licensed wireless microphone user, white space database administrators are required to share the licensed microphone channel registration information to all other white space database administrators within 10 minutes of receiving each wireless microphone registration.
+(ii) If a device fails to successfully contact the white space database, it may continue to operate until no longer than 120 minutes after the last successful contact, at which time it must cease operations until it reestablishes contact with the white space database and re-verifies its list of available channels and associated maximum power levels.
 
-(2) White space database administrators shall push updated available channel lists to fixed and Mode II personal/portable white space devices within 20 minutes of receiving the notification required by paragraph (i)(1) of this section. The information need only be pushed to white space devices that are located within the separation distances, specified in § 15.712(f) of this part, for each licensed wireless microphone registration received.
+(2) Narrowband devices operating in the television bands and fixed and Mode II personal/portable devices operating outside of the television bands.
 
-(3) White space database administrators must update their systems to comply with these requirements no later than December 23, 2016.
+(i) A device that has been in a powered-on state shall access the database at least once a day to verify that the operating channel(s) and associated maximum power levels continue to be available at its location.
+
+(ii) If a device fails to successfully contact the white space database during any given day, it may continue to operate until 11:59 p.m. of the following day at which time it must cease operations until it re-establishes contact with the white space database and re-verifies its list of available channels and corresponding power levels.
+
+(i) *Push notifications.* Device manufacturers and database administrators may implement a system that pushes updated channel availability information from the database to white space devices. However, the use of such systems is not mandatory, and the requirements for white space devices to validate the operating channel and to cease operation in accordance with paragraph (h) of this section continue to apply if such a system is used.
 
 (j) *Security.* (1) White space devices shall incorporate adequate security measures to ensure that they are capable of communicating for purposes of obtaining lists of available channels only with databases operated by administrators authorized by the Commission, and to ensure that communications between white space devices and databases are secure to prevent corruption or unauthorized interception of data. This requirement includes implementing security for communications between Mode I personal portable devices and fixed or Mode II devices for purposes of providing lists of available channels. This requirement applies to communications of channel availability and other spectrum access information between the databases and fixed and Mode II devices (it is not necessary for white space devices to apply security coding to channel availability and channel access information where they are not the originating or terminating device and that they simply pass through).
 
@@ -88,4 +90,4 @@ Except as provided in § 15.717 of this part, channel availability for a white s
 
 (10) Operation of mobile white space devices on satellites and aircraft, including unmanned aerial vehicles, is prohibited.
 
-[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4974, Jan. 29, 2016; 82 FR 41559, Sept. 1, 2017; 84 FR 34797, July 19, 2019; 86 FR 2292, Jan. 12, 2021]
+[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4974, Jan. 29, 2016; 82 FR 41559, Sept. 1, 2017; 84 FR 34797, July 19, 2019; 86 FR 2292, Jan. 12, 2021; 87 FR 18992, Apr. 1, 2022]

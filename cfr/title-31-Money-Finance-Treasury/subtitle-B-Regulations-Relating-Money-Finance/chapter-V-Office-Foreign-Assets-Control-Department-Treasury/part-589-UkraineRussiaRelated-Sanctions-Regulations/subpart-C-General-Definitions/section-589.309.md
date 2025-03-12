@@ -1,0 +1,3 @@
+##### § 589.309 Defense and related materiel sector of the Russian Federation economy. #####
+
+The term *defense and related materiel sector of the Russian Federation economy* includes: The military, armed forces, or security forces of the Russian Federation; the military, armed forces, or security forces of the Russian Federation's use of arms or related materiel; and any person manufacturing, supplying, providing financing for, procuring, or distributing goods, services, or technology to the military, armed forces, or security forces of the Russian Federation; or financing, developing, testing, producing, or sustaining such goods or services or technology, or arms or related materiel, within or transiting the Russian Federation.

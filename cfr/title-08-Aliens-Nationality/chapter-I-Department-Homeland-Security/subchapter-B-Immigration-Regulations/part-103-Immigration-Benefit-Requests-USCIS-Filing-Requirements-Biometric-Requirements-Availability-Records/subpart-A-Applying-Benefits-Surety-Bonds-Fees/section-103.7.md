@@ -1,7 +1,5 @@
 ##### § 103.7 Fees. #####
 
-Link to an amendment published at 87 FR 18980, Apr. 1, 2022.
-
 (a) *DOJ fees.* Fees for proceedings before immigration judges and the Board of Immigration Appeals are described in 8 CFR 1003.8, 1003.24, and 1103.7.
 
 (1) *USCIS may accept DOJ fees.* Except as provided in 8 CFR 1003.8, or as the Attorney General otherwise may provide by regulation, any fee relating to any EOIR proceeding may be paid to USCIS. Payment of a fee under this section does not constitute filing of the document with the Board or with the immigration court. DHS will provide the payer with a receipt for a fee and return any documents submitted with the fee relating to any immigration court proceeding.
@@ -40,7 +38,7 @@ Link to an amendment published at 87 FR 18980, Apr. 1, 2022.
 
 (4) *Form I-94.* For issuance of Arrival/Departure Record at a land border port-of-entry: $6.00.
 
-(5) *Form I-94W.* For issuance of Nonimmigrant Visa Waiver Arrival/Departure Form at a land border port-of-entry under section 217 of the Act: $6.00.
+(5) *Form I-94W.* For issuance of Form I-94W or other Nonimmigrant Visa Waiver Arrival/Departure record at a land border port-of-entry under section 217 of the Act: $6.00. The term ‘issuance’ includes, but is not limited to, the creation of an electronic record of admission or arrival/departure by DHS following an inspection performed by a CBP officer, which may be provided to the nonimmigrant as a printout or other confirmation of the electronic record stored in DHS systems.
 
 (6) *Form I-246.* For filing application for stay of deportation under 8 CFR part 243: $155.00.
 
@@ -84,4 +82,4 @@ Link to an amendment published at 87 FR 18980, Apr. 1, 2022.
 
 (15) *Notice of Appeal or Motion (Form I-290B) filed with ICE SEVP.* For a Form I-290B filed with the Student and Exchange Visitor Program (SEVP): $675.
 
-[85 FR 46914, Aug. 3, 2020]
+[85 FR 46914, Aug. 3, 2020, as amended at 87 FR 18980, Apr. 1, 2022]

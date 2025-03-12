@@ -1,7 +1,5 @@
 ##### § 21.11 Suspicious Activity Report. #####
 
-Link to an amendment published at 87 FR 15332, Mar. 18, 2022.
-
 (a) *Purpose and scope.* This section ensures that national banks file a Suspicious Activity Report when they detect a known or suspected violation of Federal law or a suspicious transaction related to a money laundering activity or a violation of the Bank Secrecy Act. This section applies to all national banks as well as any Federal branches and agencies of foreign banks licensed or chartered by the OCC.
 
 (b) *Definitions.* For the purposes of this section:
@@ -38,7 +36,7 @@ Link to an amendment published at 87 FR 15332, Mar. 18, 2022.
 
 (g) *Retention of records.* A national bank shall maintain a copy of any SAR filed and the original or business record equivalent of any supporting documentation for a period of five years from the date of the filing of the SAR. Supporting documentation shall be identified and maintained by the bank as such, and shall be deemed to have been filed with the SAR. A national bank shall make all supporting documentation available to appropriate law enforcement agencies upon request.
 
-(h) *Notification to board of directors* - (1) *Generally.* Whenever a national bank files a SAR pursuant to this section, the management of the bank shall promptly notify its board of directors, or a committee of directors or executive officers designated by the board of directors to receive notice.
+(h) *Notification to board of directors*—(1) *Generally.* Whenever a national bank files a SAR pursuant to this section, the management of the bank shall promptly notify its board of directors, or a committee of directors or executive officers designated by the board of directors to receive notice.
 
 (2) *Suspect is a director or executive officer.* If the bank files a SAR pursuant to paragraph (c) of this section and the suspect is a director or executive officer, the bank may not notify the suspect, pursuant to 31 U.S.C. 5318(g)(2), but shall notify all directors who are not suspects.
 
@@ -48,7 +46,7 @@ Link to an amendment published at 87 FR 15332, Mar. 18, 2022.
 
 (k) *Confidentiality of SARs.* A SAR, and any information that would reveal the existence of a SAR, are confidential, and shall not be disclosed except as authorized in this paragraph (k).
 
-(1) *Prohibition on disclosure by national banks* - (i) *General rule.* No national bank, and no director, officer, employee, or agent of a national bank, shall disclose a SAR or any information that would reveal the existence of a SAR. Any national bank, and any director, officer, employee, or agent of any national bank that is subpoenaed or otherwise requested to disclose a SAR, or any information that would reveal the existence of a SAR, shall decline to produce the SAR or such information, citing this section and 31 U.S.C. 5318(g)(2)(A)(i), and shall notify the following of any such request and the response thereto:
+(1) *Prohibition on disclosure by national banks*—(i) *General rule.* No national bank, and no director, officer, employee, or agent of a national bank, shall disclose a SAR or any information that would reveal the existence of a SAR. Any national bank, and any director, officer, employee, or agent of any national bank that is subpoenaed or otherwise requested to disclose a SAR, or any information that would reveal the existence of a SAR, shall decline to produce the SAR or such information, citing this section and 31 U.S.C. 5318(g)(2)(A)(i), and shall notify the following of any such request and the response thereto:
 
 (A) Director, Litigation Division, Office of the Comptroller of the Currency; and
 
@@ -72,4 +70,12 @@ Link to an amendment published at 87 FR 15332, Mar. 18, 2022.
 
 (l) *Limitation on liability.* A national bank and any director, officer, employee or agent of a national bank that makes a voluntary disclosure of any possible violation of law or regulation to a government agency or makes a disclosure pursuant to this section or any other authority, including a disclosure made jointly with another financial institution, shall be protected from liability to any person for any such disclosure, or for failure to provide notice of such disclosure to any person identified in the disclosure, or both, to the full extent provided by 31 U.S.C. 5318(g)(3).
 
-[61 FR 4337, Feb. 5, 1996, as amended at 75 FR 75583, Dec. 3, 2010]
+(m) *Exemptions.* (1) The Office of the Comptroller of the Currency (OCC) may grant a national bank an exemption from the requirements of this section. A national bank requesting an exemption must submit a request in writing to the OCC. In reviewing such requests, the OCC will consider whether the exemption is consistent with the purposes of the Bank Secrecy Act (if applicable) and safe and sound banking, and may consider other appropriate factors. Any exemption will apply only as expressly stated in the exemption. (A national bank requesting an exemption that also requires relief from the requirements of applicable regulations issued by the Department of the Treasury at 31 CFR chapter X must submit a request in writing to both the OCC and FinCEN for approval.)
+
+(2) The OCC will respond in writing to a national bank that submits a request pursuant to paragraph (m)(1) of this section after considering whether the exemption is consistent with the factors in paragraph (m)(1) of this section. Any exemption granted by the OCC under paragraph (m)(1) of this section will continue for the time specified by the OCC.
+
+(3) The OCC may extend the period of time or may revoke an exemption granted under paragraph (m)(1) of this section. Exemptions or extensions may be revoked in the sole discretion of the OCC. Before revoking an exemption, the OCC will provide written notice to the national bank of the OCC's intention to revoke an exemption. Such notice will include the basis for the revocation and will provide an opportunity for the national bank to submit a response to the OCC. The OCC will consider any response before deciding whether or not to revoke an exemption and provide written notice to the national bank of the OCC's final decision to revoke an exemption.
+
+(4) With respect to requests for exemptions that will also require relief from the requirements of applicable regulations issued by the Department of the Treasury at 31 CFR chapter X, upon receiving approval from both the OCC and FinCEN, the requestor will be relieved of its obligations under this section to the extent stated in such approvals.
+
+[61 FR 4337, Feb. 5, 1996, as amended at 75 FR 75583, Dec. 3, 2010; 87 FR 15332, Mar. 18, 2022]

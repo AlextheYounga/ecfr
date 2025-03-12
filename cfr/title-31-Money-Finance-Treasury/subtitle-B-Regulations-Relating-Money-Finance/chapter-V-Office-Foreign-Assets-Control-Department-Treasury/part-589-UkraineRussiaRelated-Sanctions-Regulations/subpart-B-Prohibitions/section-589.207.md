@@ -1,0 +1,3 @@
+##### § 589.207 Prohibited exportation, reexportation, sale, or supply of goods, services, or technology to the Crimea region of Ukraine. #####
+
+Except as otherwise authorized, the exportation, reexportation, sale, or supply, directly or indirectly, from the United States, or by a United States person, wherever located, of any goods, services, or technology to the Crimea region of Ukraine is prohibited.

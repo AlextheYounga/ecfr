@@ -1,10 +1,10 @@
 ##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Products and Commercial Services. #####
 
-Link to an amendment published at 87 FR 24844, Apr. 26, 2022.Link to an amendment published at 87 FR 12795, Mar. 7, 2022.
+Link to an amendment published at 87 FR 12795, Mar. 7, 2022.
 
 As prescribed in 12.301(b)(4), insert the following clause:
 
-Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Products and Commercial Services (JAN 2022)
+Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Products and Commercial Services (MAY 2022)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial products and commercial services:
 
@@ -116,7 +116,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (ii) *Alternate I* (Mar 2015) of 52.222-50 (22 U.S.C. chapter 78 and E.O. 13627).
 
-\_\_ (36) 52.222-54, Employment Eligibility Verification (NOV 2021). (E. O. 12989). (Not applicable to the acquisition of commercially available off-the-shelf items or certain other types of commercial products or commercial services as prescribed in FAR 22.1803.)
+\_\_ (36) 52.222-54, Employment Eligibility Verification (MAY 2022). (E. O. 12989). (Not applicable to the acquisition of commercially available off-the-shelf items or certain other types of commercial products or commercial services as prescribed in FAR 22.1803.)
 
 \_\_ (37)(i) 52.223-9, Estimate of Percentage of Recovered Material Content for EPA-Designated Items (MAY 2008) (42 U.S.C. 6962(c)(3)(A)(ii)). (Not applicable to the acquisition of commercially available off-the-shelf items.)
 
@@ -254,7 +254,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (xv) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services - Requirements (MAY 2014) (41 U.S.C. chapter 67).
 
-(xvi) 52.222-54, Employment Eligibility Verification (NOV 2021) (E. O. 12989).
+(xvi) 52.222-54, Employment Eligibility Verification (MAY 2022) (E. O. 12989).
 
 (xvii) 52.222-55, Minimum Wages for Contractor Workers Under Executive Order 14026 (JAN 2022).
 
@@ -276,7 +276,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 *Alternate I* (JULY 2014). As prescribed in 12.301(b)(4)(i), delete paragraph (d) from the basic clause, redesignate paragraph (e) as paragraph (d), and revise the reference to “paragraphs (a), (b), (c), or (d) of this clause” in the redesignated paragraph (d) to read “paragraphs (a), (b), and (c) of this clause”.
 
-*Alternate II* (JAN 2022). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
+*Alternate II* (MAY 2022). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
 
 (d)(1) The Comptroller General of the United States, an appropriate Inspector General appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.), or an authorized representative of either of the foregoing officials shall have access to and right to -
 
@@ -320,15 +320,15 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (N) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services - Requirements (MAY 2014) (41 U.S.C. chapter 67).
 
-(O) 52.222-54, Employment Eligibility Verification (NOV 2021) (Executive Order 12989).
+(O) 52.222-54, Employment Eligibility Verification (MAY 2022) (Executive Order 12989).
 
 (P) 52.222-55, Minimum Wages for Contractor Workers Under Executive Order 14026 (JAN 2022).
 
 (Q) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2022)(E.O. 13706).
 
-(R)\_\_(*1*) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a).
+(R)\_\_\_\_(*1*) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a).
 
-\_\_\_(*2*) Alternate I (JAN 2017) of 52.224-3.
+\_\_\_\_\_\_(*2*) Alternate I (JAN 2017) of 52.224-3.
 
 (S) 52.225-26, Contractors Performing Private Security Functions Outside the United States (OCT 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
 

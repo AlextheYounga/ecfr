@@ -1,3 +1,17 @@
-##### § 226.229 xxx #####
+##### § 226.229 Critical Habitat for the Beringia Distinct Population Segment of the Bearded Seal Subspecies Erignathus barbatus nauticus. #####
 
-Link to an amendment published at 87 FR 19229, Apr. 1, 2022.
+Critical habitat is designated for the Beringia distinct population segment of the bearded seal subspecies *Erignathus barbatus nauticus* (Beringia DPS) as described in this section. The map and textual descriptions in this section are the definitive sources for determining the critical habitat boundaries.
+
+(a) *Critical habitat boundaries.* Critical habitat for the Beringia DPS includes marine waters within one specific area in the Bering, Chukchi, and Beaufort seas, extending from the shoreward boundary to an offshore limit with a maximum water depth of 200 m from the ocean surface within the U.S. Exclusive Economic Zone (EEZ). The shoreward boundary follows the 20-m isobath (relative to MLLW) westward from the eastern limit of the U.S. EEZ in the Beaufort Sea and continuing into the northeastern Chukchi Sea to its intersection with latitude 70°36′ N south of Wainwright; then follows the 10-m isobath (relative to MLLW) to its intersection with latitude 65°35′ N near Cape Prince of Wales; then follows the 5-m isobath (relative to MLLW) to its intersection with longitude 164°46′ W near the mouth of the Kolovinerak River in the Bering Sea, except at Port Clarence Bay where the shoreward boundary is defined as a continuous line across the entrance. The eastern boundary in the Beaufort Sea follows the eastern limit of the U.S. EEZ beginning at the nearshore boundary defined by the 20-m isobath (relative to MLLW), extends offshore to the 200-m isobath, and then follows this isobath generally westward and northwestward to its intersection with the seaward limit of the U.S EEZ in the Chukchi Sea. The boundary then follows the limit of the U.S. EEZ southwestward and south to the intersection of the southern boundary of the critical habitat in the Bering Sea at 60°32′26″ N/179°9′53″ W. The southern boundary extends southeastward from this intersection point to 57°58′ N/170°25′ W, then eastward to 58°29′ N/164°46′ W, then follows longitude 164°46′ W to its intersection with the nearshore boundary defined by the 5-m isobath (relative to MLLW) near the mouth of the Kolovinerak River. This includes waters off the coasts of the Bethel, Kusilvak, and Nome Census Areas, and the Northwest Arctic and North Slope Boroughs, Alaska. Critical habitat does not include permanent manmade structures such as boat ramps, docks, and pilings that were in existence within the legal boundaries as of May 2, 2022.
+
+(b) *Essential features.* The essential features for the conservation of the Beringia DPS are:
+
+(1) Sea ice habitat suitable for whelping and nursing, which is defined as areas with waters 200 m or less in depth containing pack ice of at least 25 percent concentration and providing bearded seals access to those waters from the ice.
+
+(2) Sea ice habitat suitable as a platform for molting, which is defined as areas with waters 200 m or less in depth containing pack ice of at least 15 percent concentration and providing bearded seals access to those waters from the ice.
+
+(3) Primary prey resources to support bearded seals: Waters 200 m or less in depth containing benthic organisms, including epifaunal and infaunal invertebrates, and demersal fishes.
+
+(c) *Map of Beringia DPS critical habitat* follows.
+
+![](/graphics/er01ap22.000.gif)[87 FR 19229, Apr. 1, 2022]

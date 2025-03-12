@@ -1,7 +1,5 @@
 ##### § 15.715 White space database administrator. #####
 
-Link to an amendment published at 87 FR 18993, Apr. 1, 2022.
-
 The Commission will designate one or more entities to administer the white space database(s). The Commission may, at its discretion, permit the functions of a white space database, such as a data repository, registration, and query services, to be divided among multiple entities; however, it will designate specific entities to be a database administrator responsible for coordination of the overall functioning of a database and providing services to white space devices. Each database administrator designated by the Commission shall:
 
 (a) Maintain a database that contains the information described in § 15.713.
@@ -26,7 +24,7 @@ The Commission will designate one or more entities to administer the white space
 
 (k) The database must have functionality such that upon request from the Commission it can indicate that no channels are available when queried by a specific white space device or model of white space devices.
 
-(l) If more than one database is developed, the database administrators shall cooperate to develop a standardized process for providing on a daily basis or more often, as appropriate, the data collected for the facilities listed in § 15.713(b)(2) to all other white space databases to ensure consistency in the records of protected facilities.
+(l) If more than one database is developed, the database administrators shall cooperate to develop a standardized process for providing on a daily basis or more often, as appropriate, the data collected for the facilities listed in § 15.713(b)(2) to all other white space databases to ensure consistency in the records of protected facilities. In response to a request for immediate access to a channel by a licensed wireless microphone user, white space database administrators are required to share the licensed microphone channel registration information to all other white space database administrators within 10 minutes of receiving each wireless microphone registration.
 
 (m) Provide a means to make publicly available all information the rules require the database to contain, including fixed white space device registrations and voluntarily submitted protected entity information, except the information provided by 600 MHz band licensees pursuant to § 15.713(j)(10)(v) and (vi) of this part shall not be made publicly available.
 
@@ -38,4 +36,4 @@ The Commission will designate one or more entities to administer the white space
 
 (q) Establish procedures to allow unlicensed wireless microphone users in the 600 MHz band to register with the database and to provide lists of channels available for wireless microphones at a given location.
 
-[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4975, Jan. 29, 2016; 86 FR 2296, Jan. 12, 2021]
+[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4975, Jan. 29, 2016; 86 FR 2296, Jan. 12, 2021; 87 FR 18993, Apr. 1, 2022]

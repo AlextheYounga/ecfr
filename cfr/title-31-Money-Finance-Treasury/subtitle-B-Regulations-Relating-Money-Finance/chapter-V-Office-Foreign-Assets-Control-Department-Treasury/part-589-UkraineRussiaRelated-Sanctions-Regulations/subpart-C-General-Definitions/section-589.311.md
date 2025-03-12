@@ -1,0 +1,3 @@
+##### § 589.311 Energy sector of the Russian Federation economy. #####
+
+The term *energy sector of the Russian Federation economy* includes the procurement, exploration, extraction, drilling, mining, harvesting, production, refinement, liquefaction, gasification, regasification, conversion, enrichment, fabrication, or transport to, from, or within the Russian Federation, of petroleum, natural gas, liquified natural gas, natural gas liquids, or petroleum products or other products capable of producing energy, such as coal or wood or agricultural products used to manufacture biofuels, the development, production, generation, transmission or exchange of power, through any means, including nuclear, electrical, thermal, and renewable, in or involving the Russian Federation.

@@ -1,7 +1,5 @@
 ##### 4.402 General. #####
 
-Link to an amendment published at 87 FR 24844, Apr. 26, 2022.
-
 (a) Executive Order 12829, January 6, 1993 (58 FR 3479, January 8, 1993), entitled “National Industrial Security Program” (NISP), establishes a program to safeguard Federal Government classified information that is released to contractors, licensees, and grantees of the United States Government. Executive Order 12829 amends Executive Order 10865, February 20, 1960 (25 FR 1583, February 25, 1960), entitled “Safeguarding Classified Information Within Industry,” as amended by Executive Order 10909, January 17, 1961 (26 FR 508, January 20, 1961).
 
 (b) The National Industrial Security Program Operating Manual (NISPOM) incorporates the requirements of these Executive orders. The Secretary of Defense, in consultation with all affected agencies and with the concurrence of the Secretary of Energy, the Chairman of the Nuclear Regulatory Commission, the Director of National Intelligence, and the Secretary of Homeland Security is responsible for issuance and maintenance of this Manual. The following publications implement the program:
@@ -14,7 +12,8 @@ Link to an amendment published at 87 FR 24844, Apr. 26, 2022.
 
 (d) Nondefense agencies that have industrial security services agreements with DoD, and DoD components, shall use the DD Form 254, Contract Security Classification Specification, to provide security classification guidance to U.S. contractors, and subcontractors as applicable, requiring access to information classified as “Confidential”, “Secret”, or “Top Secret”.
 
-(1) Provided that the data submittal is unclassified, the DD Form 254 shall be completed electronically in the NISP Contract Classification System (NCCS), which is accessible via the Procurement Integrated Enterprise Environment (PIEE) at *https://wawf.eb.mil.* Nondefense agencies with an existing DD Form 254 information system may use that system.
+(1) Provided that the data submittal is unclassified, the DD Form 254 shall be completed electronically in the NISP Contract Classification System (NCCS), which is accessible *https://tesseract.cloud.dcsa.mil/nccs”*.
+Nondefense agencies with an existing DD Form 254 information system may use that system.
 
 (2)(i) A contractor, or subcontractor (if applicable), requiring access to classified information under a contract shall be identified with a Commercial and Government Entity (CAGE) code on the DD Form 254 (see subpart 4.18 for information on obtaining and validating CAGE codes).
 
@@ -24,4 +23,4 @@ Link to an amendment published at 87 FR 24844, Apr. 26, 2022.
 
 (e) Part 27, Patents, Data, and Copyrights, contains policy and procedures for safeguarding classified information in patent applications and patents.
 
-[48 FR 42113, Sept. 19, 1983, as amended at 61 FR 31617, June 20, 1996; 73 FR 21781, Apr. 22, 2008; 84 FR 19840, May 6, 2019; 85 FR 40063, July 2, 2020; 86 FR 13794, Mar. 10, 2021]
+[48 FR 42113, Sept. 19, 1983, as amended at 61 FR 31617, June 20, 1996; 73 FR 21781, Apr. 22, 2008; 84 FR 19840, May 6, 2019; 85 FR 40063, July 2, 2020; 86 FR 13794, Mar. 10, 2021; 87 FR 24844, Apr. 26, 2022; 87 FR 25572, May 2, 2022]

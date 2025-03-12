@@ -1,0 +1,9 @@
+##### § 589.514 Noncommercial, personal remittances to or from the Crimea region of Ukraine or for or on behalf of individuals ordinarily resident in the Crimea region of Ukraine. #####
+
+(a)(1) U.S. persons are authorized to send and receive, and U.S. depository institutions, U.S.-registered brokers or dealers in securities, and U.S.-registered money transmitters are authorized to process transfers of, funds to or from the Crimea region of Ukraine or for or on behalf of an individual ordinarily resident in the Crimea region of Ukraine in cases in which the transfer involves a noncommercial, personal remittance, provided the transfer is not by, to, or through any person whose property and interests in property are blocked pursuant to § 589.201.
+
+(2) Noncommercial, personal remittances do not include charitable donations of funds to or for the benefit of an entity or funds transfers for use in supporting or operating a business, including a family-owned business.
+
+(b) The transferring institutions identified in paragraph (a) of this section may rely on the originator of a funds transfer with regard to compliance with paragraph (a), provided that the transferring institution does not know or have reason to know that the funds transfer is not in compliance with paragraph (a).
+
+(c) An individual who is a U.S. person is authorized to carry funds as a noncommercial, personal remittance, as described in paragraph (a) of this section, to an individual in the Crimea region of Ukraine or to an individual ordinarily resident in the Crimea region of Ukraine, other than an individual whose property and interests in property are blocked pursuant § 589.201, provided that the individual who is a U.S. person is carrying the funds on his or her behalf, but not on behalf of another person.
