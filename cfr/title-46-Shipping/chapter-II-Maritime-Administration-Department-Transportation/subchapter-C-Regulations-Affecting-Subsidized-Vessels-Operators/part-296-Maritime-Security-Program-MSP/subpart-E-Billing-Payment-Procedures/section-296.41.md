@@ -1,5 +1,7 @@
 ##### § 296.41 Payment procedures. #####
 
+Link to an amendment published at 82 FR 56898, Dec. 1, 2017.
+
 (a) *Amount payable.* An MSP Operating Agreement shall provide, subject to the availability of appropriations and to the extent the MSP Operating Agreement is in effect, for each Agreement Vessel, an annual payment equal to $2,600,000 for FY 2006, FY 2007, FY 2008; $2,900,000 for FY 2009, FY 2010, FY 2011; and $3,100,000 for FY 2012, FY 2013, FY 2014, FY 2015. This amount shall be paid in equal monthly installments at the end of each month. The annual amount payable shall not be reduced except as provided in paragraphs (b) and (c) of this section.
 
 (b) *Reductions in amount payable.* (1) The annual amount otherwise payable under an MSP Operating Agreement shall be reduced on a pro rata basis for each day less than 320 in a fiscal year that an Agreement Vessel:

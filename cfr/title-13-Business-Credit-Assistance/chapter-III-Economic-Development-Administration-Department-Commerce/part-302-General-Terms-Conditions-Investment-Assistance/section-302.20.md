@@ -1,5 +1,7 @@
 ##### § 302.20 Civil rights. #####
 
+Link to an amendment published at 82 FR 57053, Dec. 1, 2017.
+
 (a) Discrimination is prohibited by a Recipient or Other Party (as defined in paragraph (b) of this section) with respect to a Project receiving Investment Assistance under PWEDA or by an entity receiving Adjustment Assistance (as defined in § 315.2 of this chapter) under the Trade Act, in accordance with the following authorities:
 
 (1) Section 601 of Title VI of the Civil Rights Act of 1964, as amended (42 U.S.C. 2000d *et seq.*) (proscribing discrimination on the basis of race, color, or national origin), and the Department's implementing regulations found at 15 CFR part 8;

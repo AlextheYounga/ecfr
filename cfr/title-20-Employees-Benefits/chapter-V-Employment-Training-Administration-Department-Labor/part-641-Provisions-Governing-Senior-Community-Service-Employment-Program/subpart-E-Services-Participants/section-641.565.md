@@ -1,5 +1,7 @@
 ##### § 641.565 What policies govern the provision of wages and benefits to participants? #####
 
+Link to an amendment published at 82 FR 56883, Dec. 1, 2017.
+
 (a) *Wages.* (1)(i) Grantees and sub-recipients must pay participants the highest applicable required wage for time spent in orientation, training, and community service assignments.
 
 (ii) SCSEP participants may be paid the highest applicable required wage while receiving WIA intensive services.

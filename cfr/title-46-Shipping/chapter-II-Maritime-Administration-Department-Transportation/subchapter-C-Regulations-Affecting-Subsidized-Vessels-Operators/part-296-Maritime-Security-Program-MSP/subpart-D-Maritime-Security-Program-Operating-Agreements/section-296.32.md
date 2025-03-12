@@ -1,5 +1,7 @@
 ##### § 296.32 Reporting requirements. #####
 
+Link to an amendment published at 82 FR 56898, Dec. 1, 2017.
+
 The Contractor shall submit to the Director, Office of Financial and Rate Approvals, Maritime Administration, 400 Seventh St., SW., Washington, DC 20590, one of the following reports, including management footnotes where necessary to make a fair financial presentation:
 
 (a) *Form MA-172:* Not later than 120 days after the close of the Contractor's semiannual accounting period, a Form MA-172 on a semiannual basis, in accordance with 46 CFR 232.6; or

@@ -1,5 +1,7 @@
 ##### § 296.21 Participating Fleet Vessels. #####
 
+Link to an amendment published at 82 FR 56897, Dec. 1, 2017.
+
 (a) *Priority.* To the extent that appropriated funds are available after applying the first priority, tank vessels, in § 296.20, the second priority is applicable to Participating Fleet Vessels.
 
 (b) *Number of MSP Operating Agreements.* MARAD will not enter into more than 47 MSP Operating Agreements for Participating Fleet Vessels.

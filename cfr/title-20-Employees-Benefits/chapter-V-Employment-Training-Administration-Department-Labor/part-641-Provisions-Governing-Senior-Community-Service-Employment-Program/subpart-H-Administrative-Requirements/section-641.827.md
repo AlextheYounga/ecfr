@@ -1,5 +1,7 @@
 ##### § 641.827 What general nondiscrimination requirements apply to the use of SCSEP funds? #####
 
+Link to an amendment published at 82 FR 56885, Dec. 1, 2017.
+
 (a) SCSEP recipients, sub-recipients, and host agencies are required to comply with the nondiscrimination provisions codified in the Department's regulations at 29 CFR parts 31 and 32 and the provisions on the equal treatment of religious organizations at 29 CFR part 2 subpart D.
 
 (b) Recipients and sub-recipients of SCSEP funds are required to comply with the nondiscrimination provisions codified in the Department's regulations at 29 CFR part 37 if:

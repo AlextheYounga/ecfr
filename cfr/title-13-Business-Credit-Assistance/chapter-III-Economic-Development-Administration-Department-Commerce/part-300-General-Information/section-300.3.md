@@ -1,5 +1,7 @@
 ##### § 300.3 Definitions. #####
 
+Link to an amendment published at 82 FR 57052, Dec. 1, 2017.
+
 As used in this chapter, the following terms shall have the following meanings:
 
 *Assistant Secretary* means the Assistant Secretary for Economic Development within the Department.

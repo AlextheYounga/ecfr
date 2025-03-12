@@ -1,5 +1,7 @@
 ##### § 641.320 Must all national grantees operating within a State participate in the State planning process? #####
 
+Link to an amendment published at 82 FR 56882, Dec. 1, 2017.
+
 (a) The eligibility provision at OAA § 514(c)(6) requires national grantees to coordinate activities with other organizations at the State and local levels. Therefore, except as provided in paragraph (b) of this section, any national grantee that does not participate in the State planning process may be deemed ineligible to receive SCSEP funds in the following Program Year.
 
 (b) National grantees serving older American Indians, or Pacific Island and Asian Americans, with funds reserved under OAA § 506(a)(3), are exempted from the requirement to participate in the State planning processes under § 503(a)(8) of the OAA. Although these national grantees may choose not to participate in the State planning process, the Department encourages their participation. Only those grantees using reserved funds are exempt; if a grantee is awarded one grant with reserved funds and another grant with non-reserved funds, the grantee is required under paragraph (a) of this section to participate in the State planning process for purposes of the non-reserved funds grant.

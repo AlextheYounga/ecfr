@@ -1,5 +1,7 @@
 ##### § 296.30 General conditions. #####
 
+Link to an amendment published at 82 FR 56897, Dec. 1, 2017.
+
 (a) *Approval.* (1) The Secretary, in conjunction with the SecDef, may approve applications to enter into an MSP Operating Agreement and make MSP Payments with respect to vessels that are determined by the Secretary to be commercially viable and those that are deemed by the SecDef to be militarily useful for meeting the sealift needs of the United States in time of war or national emergencies. The Secretary announced an initial award of 60 MSP Operating Agreements on January 12, 2005. In addition, the Secretary advised those applicants found to be eligible but not included in the initial award that those applicants will be wait-listed for an award of an MSP Operating Agreement if additional slots become available.
 
 (2) The Commander established general evaluation criteria for operational requirements for considering replacement vessels described in § 296.21(e), and for vessels eligible under the third and fourth priorities described in § 296.22. These general evaluation criteria were made available by the Commander in sufficient time for preparing applications.

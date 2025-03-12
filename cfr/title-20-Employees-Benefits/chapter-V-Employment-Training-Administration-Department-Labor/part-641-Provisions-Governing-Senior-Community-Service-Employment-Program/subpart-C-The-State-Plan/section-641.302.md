@@ -1,5 +1,7 @@
 ##### § 641.302 What is a four-year strategy? #####
 
+Link to an amendment published at 82 FR 56882, Dec. 1, 2017.
+
 The State Plan must outline a four-year strategy for the statewide provision of community service employment and other authorized activities for eligible individuals under the SCSEP program. (OAA § 503(a)(1)). The four-year strategy must specifically address the following:
 
 (a) The State's long-term strategy for achieving an equitable distribution of SCSEP positions within the State that:

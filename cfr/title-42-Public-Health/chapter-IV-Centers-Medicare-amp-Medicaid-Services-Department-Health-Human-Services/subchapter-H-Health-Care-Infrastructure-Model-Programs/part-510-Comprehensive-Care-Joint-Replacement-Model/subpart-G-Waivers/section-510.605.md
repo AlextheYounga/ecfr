@@ -1,5 +1,7 @@
 ##### § 510.605 Waiver of certain telehealth requirements. #####
 
+Link to an amendment published at 82 FR 57104, Dec. 1, 2017.
+
 (a) *Waiver of the geographic site requirements.* Except for the geographic site requirements for a face-to-face encounter for home health certification, CMS waives the geographic site requirements of section 1834(m)(4)(C)(i)(I) through (III) of the Act for episodes being tested in the CJR model, but only for services that -
 
 (1) May be furnished via telehealth under existing requirements; and

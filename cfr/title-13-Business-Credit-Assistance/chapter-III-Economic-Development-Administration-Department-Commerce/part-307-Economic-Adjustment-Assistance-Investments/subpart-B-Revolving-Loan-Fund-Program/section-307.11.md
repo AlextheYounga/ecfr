@@ -1,5 +1,7 @@
 ##### § 307.11 Disbursement of funds to Revolving Loan Funds. #####
 
+Link to an amendment published at 82 FR 57055, Dec. 1, 2017.
+
 (a) *Pre-disbursement requirements.* Prior to any disbursement of EDA funds, RLF Recipients are required to provide in a form acceptable to EDA:
 
 (1) Evidence of fidelity bond coverage for persons authorized to handle funds under the Grant award in an amount sufficient to protect the interests of EDA and the RLF. At a minimum, the amount of coverage shall be the greater of the maximum loan amount allowed for in the EDA-approved RLF Plan, or 25 percent of the RLF Capital base. Such insurance coverage must exist at all times during the duration of the RLF's operation; and

@@ -1,5 +1,7 @@
 ##### § 307.15 Prudent management of Revolving Loan Funds. #####
 
+Link to an amendment published at 82 FR 57057, Dec. 1, 2017.
+
 (a) *Accounting principles.* (1) RLFs shall operate in accordance with generally accepted accounting principles (“*GAAP*”) as in effect from time to time in the United States and the provisions outlined in OMB Circular A-133 and the Compliance Supplement, as applicable.
 
 (2) In accordance with GAAP, a loan loss reserve may be recorded in the RLF Recipient's financial statements to show the fair market value of an RLF's loan portfolio, provided this loan loss reserve is non-funded and represents non-cash entries.

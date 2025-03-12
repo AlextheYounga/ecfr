@@ -1,5 +1,7 @@
 ##### § 301.11 Infrastructure. #####
 
+Link to an amendment published at 82 FR 57053, Dec. 1, 2017.
+
 (a) EDA will fund both construction and non-construction infrastructure necessary to meet a Region's strategic economic development goals and needs, which in turn results in job creation. This includes infrastructure used to develop and upgrade basic economic development assets as described in §§ 305.1 and 305.2 of this chapter, as well as infrastructure that supports innovation and entrepreneurship. The following are examples of innovation and entrepreneurship-related infrastructure that support job creation:
 
 (1) *Business Incubation.* Business incubation includes both physical facilities and business support services to advance the successful development of start-up companies by providing entrepreneurs with an array of targeted resources and services.

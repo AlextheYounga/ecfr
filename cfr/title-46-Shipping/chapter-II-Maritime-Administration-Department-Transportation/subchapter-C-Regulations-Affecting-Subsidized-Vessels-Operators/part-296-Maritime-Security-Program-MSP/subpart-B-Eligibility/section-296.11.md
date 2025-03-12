@@ -1,5 +1,7 @@
 ##### § 296.11 Vessel requirements. #####
 
+Link to an amendment published at 82 FR 56897, Dec. 1, 2017.
+
 (a) *Eligible Vessel.* A vessel is eligible to be included in an MSP Operating Agreement if:
 
 (1) The vessel is:

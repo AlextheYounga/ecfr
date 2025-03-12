@@ -1,5 +1,7 @@
 ##### § 510.300 Determination of episode quality-adjusted target prices. #####
 
+Link to an amendment published at 82 FR 57104, Dec. 1, 2017.
+
 (a) *General.* CMS establishes episode quality-adjusted target prices for participant hospitals for each performance year of the model as specified in this section. Episode quality-adjusted target prices are established according to the following:
 
 (1) *MS-DRG and fracture status.* MS-DRG assigned at discharge for anchor hospitalization and present of hip fracture diagnosis for anchor hospitalization -

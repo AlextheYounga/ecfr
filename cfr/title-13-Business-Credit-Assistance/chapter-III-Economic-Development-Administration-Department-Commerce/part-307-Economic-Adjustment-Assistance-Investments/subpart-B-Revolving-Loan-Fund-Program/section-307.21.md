@@ -1,5 +1,7 @@
 ##### § 307.21 Termination of Revolving Loan Funds. #####
 
+Link to an amendment published at 82 FR 57058, Dec. 1, 2017.
+
 (a)(1) EDA may suspend or terminate an RLF Grant for cause, including the RLF Recipient's failure to:
 
 (i) Operate the RLF in accordance with the Plan, the RLF Grant or this part;

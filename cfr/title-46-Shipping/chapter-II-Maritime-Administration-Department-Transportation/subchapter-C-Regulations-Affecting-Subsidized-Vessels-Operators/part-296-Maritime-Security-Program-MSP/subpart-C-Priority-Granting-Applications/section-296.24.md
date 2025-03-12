@@ -1,5 +1,7 @@
 ##### § 296.24 Subsequent awards of MSP Operating Agreements. #####
 
+Link to an amendment published at 82 FR 56897, Dec. 1, 2017.
+
 (a) Until October 1, 2005, if, for any reason, after the award of an MSP Operating Agreement, the Applicant is unwilling or unable to commence operations pursuant to the terms of the MSP Operating Agreement, MARAD may, pursuant to the priority criteria, award that MSP Operating Agreement to an Applicant having an eligible vessel that applied but was not awarded an MSP Operating Agreement.
 
 (b) After October 1, 2005, MARAD intends to ensure that all available MSP Operating Agreements are fully utilized at all times, in order to maximize the benefit of the MSP. Accordingly, when an MSP Operating Agreement becomes available through termination by the Secretary, expiration of a temporary MSP Operating Agreement or early termination by the MSP contractor, and no transfer under 46 U.S.C. 53105(e) is involved, MARAD will reissue the MSP Operating Agreement pursuant to the following criteria.

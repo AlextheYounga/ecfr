@@ -1,5 +1,7 @@
 ##### § 641.535 What services must grantees and sub-recipients provide to participants? #####
 
+Link to an amendment published at 82 FR 56883, Dec. 1, 2017.
+
 (a) When individuals are selected for participation in the SCSEP, the grantee or sub-recipient is responsible for:
 
 (1) Providing orientation to the SCSEP, including information on project goals and objectives, community service assignments, training opportunities, available supportive services, the availability of a free physical examination, participant rights and responsibilities, and permitted and prohibited political activities;

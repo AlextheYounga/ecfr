@@ -1,5 +1,7 @@
 ##### § 296.22 Other vessels. #####
 
+Link to an amendment published at 82 FR 56897, Dec. 1, 2017.
+
 (a) *Third Priority.* To the extent that appropriated funds are available after applying the first priority, tank vessels, in § 296.20, and the second priority, Participating Fleet Vessels, in § 296.21, the third priority is for any other vessel that is eligible to be included in an MSP Operating Agreement under § 296.11(a), and that, during the period of that MSP Operating Agreement, will be:
 
 (1) Owned and operated by one or more persons that are Section 2 Citizens; or

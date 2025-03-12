@@ -1,6 +1,6 @@
 ##### § 510.120 CJR participant hospital CEHRT track requirements. #####
 
-Link to an amendment published at 82 FR 612, Jan. 3, 2017.This amendment was delayed until Oct. 1, 2017, at 82 FR 14464, Mar. 21, 2017.This amendment was further delayed until Jan. 1, 2018, at 82 FR 22895, May 19, 2017.
+Link to an amendment published at 82 FR 612, Jan. 3, 2017.This amendment was delayed until Oct. 1, 2017, at 82 FR 14464, Mar. 21, 2017.This amendment was further delayed until Jan. 1, 2018, at 82 FR 22895, May 19, 2017.Link to an amendment published at 82 FR 57103, Dec. 1, 2017.
 
 (a) *CJR CEHRT use.* For performance years 2 through 5, CJR participant hospitals choose either of the following:
 

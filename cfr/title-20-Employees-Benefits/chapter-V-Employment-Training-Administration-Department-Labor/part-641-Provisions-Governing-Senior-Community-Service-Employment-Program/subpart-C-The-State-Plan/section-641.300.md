@@ -1,3 +1,5 @@
 ##### § 641.300 What is the State Plan? #####
 
+Link to an amendment published at 82 FR 56882, Dec. 1, 2017.
+
 The State Plan is a plan, submitted by the Governor, or the highest government official, in each State, as an independent document or as part of the WIA Unified Plan, that outlines a four-year strategy for the statewide provision of community service employment and other authorized activities for eligible individuals under the SCSEP as described in § 641.302. The State Plan also describes the planning and implementation process for SCSEP services in the State, taking into account the relative distribution of eligible individuals and employment opportunities within the State. The State Plan is intended to foster coordination among the various SCSEP grantees and sub-recipients operating within the State and to facilitate the efforts of stakeholders, including State and local boards under WIA, to work collaboratively through a participatory process to accomplish the SCSEP's goals. (OAA § 503(a)(1)). The State Plan provisions are listed in § 641.325.

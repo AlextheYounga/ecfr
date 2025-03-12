@@ -1,5 +1,7 @@
 ##### § 304.2 District Organizations: Formation, organizational requirements and operations. #####
 
+Link to an amendment published at 82 FR 57054, Dec. 1, 2017.
+
 (a) *General.* A “*District Organization*” is an entity that satisfies the formation and organizational requirements under paragraphs (b) and (c) of this section.
 
 (b) *Formation.* A District Organization must be organized as one of the following:

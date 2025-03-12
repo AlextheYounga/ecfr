@@ -1,5 +1,7 @@
 ##### § 307.12 Revolving Loan Fund Income. #####
 
+Link to an amendment published at 82 FR 57056, Dec. 1, 2017.
+
 (a) *General requirements.* RLF Income must be placed into the RLF Capital base for the purpose of making loans or paying for eligible and reasonable administrative costs associated with the RLF's operations. RLF Income may fund administrative costs, provided:
 
 (1) Such RLF Income and the administrative costs are incurred in the same six-month Reporting Period;

@@ -1,5 +1,7 @@
 ##### § 307.18 Addition of lending areas; consolidation and merger of RLFs. #####
 
+Link to an amendment published at 82 FR 57058, Dec. 1, 2017.
+
 (a)(1) An RLF Recipient shall make loans only within its EDA-approved lending area, as set forth and defined in the RLF Grant and the Plan. An RLF Recipient may add a lending area (an “*Additional Lending Area”*) to its existing lending area to create a new merged lending area (the “*New Lending Area”*) only with EDA's prior written approval and subject to the following provisions and conditions:
 
 (i) The Additional Lending Area must meet the economic distress criteria for Economic Adjustment Assistance Investments under this part and in accordance with § 301.3(a) of this chapter;

@@ -1,5 +1,7 @@
 ##### § 641.920 What actions of the Department may a grantee appeal and what procedures apply to those appeals? #####
 
+Link to an amendment published at 82 FR 56886, Dec. 1, 2017.
+
 (a) Appeals from a final disallowance of costs as a result of an audit must be made under 29 CFR 96.63.
 
 (b) Appeals of suspension or termination actions taken on the grounds of discrimination are processed under 29 CFR 31 or 29 CFR 37, as appropriate.

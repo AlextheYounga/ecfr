@@ -1,5 +1,7 @@
 ##### § 510.105 Geographic areas. #####
 
+Link to an amendment published at 82 FR 57103, Dec. 1, 2017.
+
 (a) *General.* The geographic areas for inclusion in the CJR model are obtained based on a stratified random sampling of certain MSAs in the United States. All counties within each of the selected MSAs are selected for inclusion in the CJR model.
 
 (b) *Stratification criteria.* Geographic areas in the United States are stratified according to the characteristics that CMS determines are necessary to ensure that the model is tested on a broad range of different types of hospitals that may face different obstacles and incentives for improving quality and controlling costs.

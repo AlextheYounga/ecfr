@@ -4,7 +4,7 @@ Licensees in the Cellular Radiotelephone Service are subject to the effective ra
 
 (a) *Maximum ERP.* The ERP of transmitters in the Cellular Radiotelephone Service must not exceed the limits in this section.
 
-(1) Except as described in paragraphs (a)(2), (3), and (4) of this section, the ERP of base stations and repeaters must not exceed -
+(1) Except as described in paragraphs (a)(2), (3), and (4) of this section, the ERP of base stations and repeaters must not exceed—
 
 (i) 500 watts per emission; or
 
@@ -14,7 +14,7 @@ Licensees in the Cellular Radiotelephone Service are subject to the effective ra
 
 (i) Are located in counties with population densities of 100 persons or fewer per square mile, based upon the most recently available population statistics from the Bureau of the Census; or
 
-(ii) Extend coverage into Unserved Area on a secondary basis (*see* § 22.949), the ERP of base transmitters and repeaters must not exceed -
+(ii) Extend coverage into Unserved Area on a secondary basis (*see* § 22.949), the ERP of base transmitters and repeaters must not exceed—
 
 (A) 1000 watts per emission; or
 
@@ -48,4 +48,4 @@ Licensees in the Cellular Radiotelephone Service are subject to the effective ra
 
 (2) The licensee's base transmitter or repeater is operated at the ERP limits (W/MHz) specified above in paragraph (a)(1)(ii), (a)(2)(ii), (a)(3), or (a)(4) of this section.
 
-[82 FR 17582, Apr. 12, 2017]Effective Date Note:At 82 FR 17582, Apr. 12, 2017, § 22.913 was revised. Paragraphs (a), (c), and (f) contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget. At 82 FR 55766, Nov. 24, 2017, these amendments were made effective on Dec. 1, 2017.
+[82 FR 17582, Apr. 12, 2017]

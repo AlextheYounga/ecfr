@@ -1,3 +1,5 @@
 ##### § 296.40 Billing procedures. #####
 
+Link to an amendment published at 82 FR 56898, Dec. 1, 2017.
+
 *Submission of voucher.* For contractors operating under more than one MSP Operating Agreement, the contractor may submit a single monthly voucher applicable to all its MSP Operating Agreements. Each voucher submission shall include a certification that the vessel(s) for which payment is requested were operated in accordance with § 296.31(d) and applicable MSP Operating Agreements with MARAD, and consideration shall be given to reductions in amounts payable as set forth in § 296.41(b) and (c). All submissions shall be forwarded to the Director, Office of Accounting, MAR-330, Room 7325, Maritime Administration, 400 Seventh Street, SW., Washington, DC 20590. Payments shall be paid and processed under the terms and conditions of the Prompt Payment Act, 31 U.S.C. 3901.

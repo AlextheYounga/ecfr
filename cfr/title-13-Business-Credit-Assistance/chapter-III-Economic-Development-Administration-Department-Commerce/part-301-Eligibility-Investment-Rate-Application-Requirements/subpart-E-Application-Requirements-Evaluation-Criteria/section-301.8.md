@@ -1,5 +1,7 @@
 ##### § 301.8 Application evaluation criteria. #####
 
+Link to an amendment published at 82 FR 57053, Dec. 1, 2017.
+
 EDA will screen all applications for the feasibility of the budget presented and conformance with EDA's statutory and regulatory requirements. EDA will assess the economic development needs of the affected Region in which the proposed Project will be located (or will service), as well as the capability of the Eligible Applicant to implement the proposed Project. In addition to criteria set out in the applicable FFO, EDA will consider the degree to which an Investment in the proposed Project will satisfy one or more of the following criteria:
 
 (a) *Ensures collaborative Regional innovation.* The Investment will support the development and growth of innovation clusters based on existing Regional competitive strengths. Such initiatives must engage stakeholders; facilitate collaboration among urban, suburban, and rural (including Tribal) areas; provide stability for economic development through long-term intergovernmental and public/private collaboration; and support the growth of existing and emerging industries.

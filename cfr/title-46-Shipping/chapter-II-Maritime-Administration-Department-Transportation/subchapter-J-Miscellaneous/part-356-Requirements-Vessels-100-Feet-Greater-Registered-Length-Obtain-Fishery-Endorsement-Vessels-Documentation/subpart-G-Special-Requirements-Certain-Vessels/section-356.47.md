@@ -1,5 +1,7 @@
 ##### § 356.47 Special requirements for large vessels. #####
 
+Link to an amendment published at 82 FR 56901, Dec. 1, 2017.
+
 (a) Unless exempted in paragraph (b), (c) or (d) of this section, a vessel is not eligible for a fishery endorsement under 46 U.S.C. 12108 if:
 
 (1) It is greater than 165 feet in registered length;

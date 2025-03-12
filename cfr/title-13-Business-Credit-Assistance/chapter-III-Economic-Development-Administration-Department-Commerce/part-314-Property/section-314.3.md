@@ -1,5 +1,7 @@
 ##### § 314.3 Authorized Use of Property. #####
 
+Link to an amendment published at 82 FR 57059, Dec. 1, 2017.
+
 (a) During the Estimated Useful Life of the Project, the Recipient or Owner must use any Property acquired or improved in whole or in part with Investment Assistance only for authorized Project purposes as set out in the terms of the Investment Assistance. Such Property must not be Disposed of or encumbered without EDA's prior written authorization.
 
 (b) Where EDA and the Recipient determine during the Estimated Useful Life of the Project that Property acquired or improved in whole or in part with Investment Assistance is no longer needed for the original purpose of the Investment Assistance, EDA, in its sole discretion, may approve the use of such Property in other Federal grant programs or in programs that have purposes consistent with those authorized by PWEDA and by this chapter.

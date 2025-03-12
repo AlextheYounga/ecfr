@@ -1,5 +1,7 @@
 ##### § 307.14 Revolving Loan Fund semi-annual report and Income and Expense Statement. #####
 
+Link to an amendment published at 82 FR 57057, Dec. 1, 2017.
+
 (a) *Frequency of reports.* All RLF Recipients, including those receiving Recapitalization Grants for existing RLFs, must complete and submit a semi-annual report in electronic format, unless EDA approves a paper submission.
 
 (b) *Report contents.* RLF Recipients must certify as part of the semi-annual report to EDA that the RLF is operating in accordance with the applicable RLF Plan. RLF Recipients also must describe (and propose pursuant to § 307.9) any modifications to the RLF Plan to ensure effective use of the RLF as a strategic financing tool.

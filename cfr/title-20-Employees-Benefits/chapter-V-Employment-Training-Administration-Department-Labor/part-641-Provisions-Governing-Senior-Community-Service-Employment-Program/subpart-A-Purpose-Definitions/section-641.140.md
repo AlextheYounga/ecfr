@@ -1,5 +1,7 @@
 ##### § 641.140 What definitions apply to this part? #####
 
+Link to an amendment published at 82 FR 56880, Dec. 1, 2017.
+
 The following definitions apply to this part:
 
 *Additional indicators* mean retention in unsubsidized employment for 1 year; satisfaction of participants, employers and their host agencies with their experiences and the services provided; entry into volunteer work; and any other indicators of performance that the Secretary determines to be appropriate to evaluate services and performance. (OAA § 513(b)(2)).

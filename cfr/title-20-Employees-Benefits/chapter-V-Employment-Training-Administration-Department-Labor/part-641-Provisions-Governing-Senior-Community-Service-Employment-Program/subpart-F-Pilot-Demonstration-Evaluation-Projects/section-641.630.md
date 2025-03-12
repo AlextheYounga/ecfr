@@ -1,5 +1,7 @@
 ##### § 641.630 What pilot, demonstration, and evaluation project activities are allowable under § 502(e)? #####
 
+Link to an amendment published at 82 FR 56884, Dec. 1, 2017.
+
 Allowable pilot, demonstration and evaluation projects include:
 
 (a) Activities linking businesses and eligible individuals, including activities providing assistance to participants transitioning from subsidized activities to private sector employment;

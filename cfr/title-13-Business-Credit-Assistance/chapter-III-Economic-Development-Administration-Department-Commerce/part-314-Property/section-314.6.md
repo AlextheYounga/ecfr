@@ -1,5 +1,7 @@
 ##### § 314.6 Encumbrances. #####
 
+Link to an amendment published at 82 FR 57060, Dec. 1, 2017.
+
 (a) *General.* Except as provided in paragraph (b) of this section or as otherwise authorized by EDA, Recipient-owned Property acquired or improved in whole or in part with Investment Assistance must not be used to secure a mortgage or deed of trust or in any way otherwise encumbered, except to secure a grant or loan made by a Federal Agency or State agency or other public body participating in the same Project.
 
 (b) *Exceptions.* Subject to EDA's approval, which will not be unreasonably withheld or unduly delayed, paragraph (a) of this section does not apply in the following circumstances:

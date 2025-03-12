@@ -1,5 +1,7 @@
 ##### § 641.850 Are there other specific allowable and unallowable cost requirements for the SCSEP? #####
 
+Link to an amendment published at 82 FR 56886, Dec. 1, 2017.
+
 (a) Yes, in addition to the generally applicable cost principles in § 641.847(b), the cost principles in paragraphs (b) through (g) of this section apply to SCSEP grants.
 
 (b) *Claims against the Government.* For all types of entities, legal expenses for the prosecution of claims against the Federal Government, including appeals to an Administrative Law Judge, are unallowable.

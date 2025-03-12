@@ -1,5 +1,7 @@
 ##### § 307.20 Partial liquidation; liquidation upon termination. #####
 
+Link to an amendment published at 82 FR 57058, Dec. 1, 2017.
+
 (a) *Partial liquidation or disallowance of a portion of an RLF Grant.* If the RLF Recipient engages in certain problematic practices, EDA may disallow a corresponding proportion of the Grant or direct the RLF Recipient to transfer loans to an RLF Third Party for liquidation. Problematic practices for which EDA may disallow a portion of an RLF Grant and recover the pro-rata Federal Share (as defined in § 314.5 of this chapter) include the RLF Recipient:
 
 (1) Having RLF loans that are more than 120 days delinquent;

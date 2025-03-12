@@ -1,5 +1,7 @@
 ##### § 307.8 Definitions. #####
 
+Link to an amendment published at 82 FR 57055, Dec. 1, 2017.
+
 In addition to the defined terms set forth in § 300.3 of this chapter, the following terms used in this part shall have the following meanings:
 
 *Closed Loan* means any loan for which all required documentation has been received, reviewed and executed by an RLF Recipient.

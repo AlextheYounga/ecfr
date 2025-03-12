@@ -1,5 +1,7 @@
 ##### § 296.31 MSP assistance conditions. #####
 
+Link to an amendment published at 82 FR 56898, Dec. 1, 2017.
+
 (a) *Term of MSP Operating Agreement.* MSP Operating Agreements are authorized for 10 years, starting on October 1, 2005, and ending on September 30, 2015, but payments to Contractors are subject to annual appropriations each fiscal year. MARAD may enter into MSP Operating Agreements for a period less than the full term authorized under the MSA 2003.
 
 (b) *Terms under a Continuing Resolution (CR).* In the event funds are available under a CR, the terms and conditions of the MSP Operating Agreements shall be in force provided sufficient funds are available to fully meet obligations under MSP Operating Agreements, and only for the period stipulated in the applicable CR. If funds are not appropriated under a CR at sufficient levels for any portion of a fiscal year, the Secretary will select the vessels to retain within the funding level of the previous fiscal year, in consultation with the SecDef, based on the Secretaries' determination of the most militarily useful and commercially viable vessels. With regard to an MSP Operating Agreement that does not receive funds, the terms and conditions of any applicable MSP Operating Agreement may be voided and the Contractor may request termination of the MSP Operating Agreement.

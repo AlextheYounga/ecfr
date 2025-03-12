@@ -1,5 +1,7 @@
 ##### § 296.23 Discretion within priority. #####
 
+Link to an amendment published at 82 FR 56897, Dec. 1, 2017.
+
 The Secretary -
 
 (a) Subject to paragraph (b) of this section, may award MSP Operating Agreements within each priority as the Secretary considers appropriate; and

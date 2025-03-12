@@ -1,5 +1,7 @@
 ##### § 305.6 Allowable methods of procurement for construction services. #####
 
+Link to an amendment published at 82 FR 57054, Dec. 1, 2017.
+
 (a) Recipients shall seek EDA's prior written approval to use alternate construction procurement methods to the traditional design/bid/build procedures (including lump sum or unit price-type construction contracts). These alternate methods may include design/build, construction management at risk, and force account. If an alternate method is used, the Recipient shall submit to EDA for approval a construction services procurement plan and the Recipient must use a design professional to oversee the process. The Recipient shall submit the plan to EDA prior to advertisement for bids and shall include the following, as applicable:
 
 (1) Justification for the proposed method for procurement of construction services, including a brief analysis of the appropriateness and benefits of using the method to successfully execute the Project and the Recipient's experience in using the method;

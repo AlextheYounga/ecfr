@@ -1,5 +1,7 @@
 ##### § 314.5 Federal Share. #####
 
+Link to an amendment published at 82 FR 57060, Dec. 1, 2017.
+
 (a) For purposes of this part, “*Federal Share*” means that portion of the current fair market value of any Property attributable to EDA's participation in the Project. The Federal Share shall be the current fair market value of the Property after deducting:
 
 (1) Reasonable repair expenses, if any, incurred to put the Property into marketable condition; and

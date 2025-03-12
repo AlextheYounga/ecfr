@@ -1,5 +1,7 @@
 ##### § 356.51 Exemptions for specific vessels. #####
 
+Link to an amendment published at 82 FR 56901, Dec. 1, 2017.
+
 (a) The following vessels are exempt from the requirements of 46 U.S.C. 12102(c) as amended by the AFA until such time after October 1, 2001, as 50% of the interest owned and controlled in the vessel changes; *provided,* the vessel maintains eligibility for a fishery endorsement under the federal law that was in effect prior to the enactment of the AFA:
 
 (1) EXCELLENCE (United States official number 967502);

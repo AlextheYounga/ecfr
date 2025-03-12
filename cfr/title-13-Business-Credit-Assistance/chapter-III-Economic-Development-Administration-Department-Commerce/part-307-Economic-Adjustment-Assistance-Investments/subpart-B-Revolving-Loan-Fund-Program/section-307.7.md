@@ -1,5 +1,7 @@
 ##### § 307.7 Revolving Loan Fund award requirements. #####
 
+Link to an amendment published at 82 FR 57055, Dec. 1, 2017.
+
 (a) For Eligible Applicants seeking to capitalize or recapitalize an RLF, EDA will review applications for the following, as applicable:
 
 (1) Need for a new or expanded public financing tool to:

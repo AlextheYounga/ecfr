@@ -1,5 +1,7 @@
 ##### § 314.1 Definitions. #####
 
+Link to an amendment published at 82 FR 57059, Dec. 1, 2017.
+
 In addition to the defined terms set forth in § 300.3 of this chapter, the following terms shall have the following meanings:
 
 *Adequate Consideration* means the fair market value at the time of sale or lease of any Property, as adjusted, in EDA's sole discretion, by any services, property exchanges, contractual commitments, acts of forbearance or other considerations that are in furtherance of the authorized purposes of the Investment Assistance, which are received by the Recipient or Owner in exchange for such Property.

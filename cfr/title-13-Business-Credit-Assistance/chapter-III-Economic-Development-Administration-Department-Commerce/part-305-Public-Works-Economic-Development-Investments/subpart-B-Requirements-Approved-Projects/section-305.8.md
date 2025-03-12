@@ -1,5 +1,7 @@
 ##### § 305.8 Recipient-furnished equipment and materials. #####
 
+Link to an amendment published at 82 FR 57054, Dec. 1, 2017.
+
 The Recipient may wish to incorporate into the Project equipment or materials that it will secure through its own efforts, subject to the following requirements:
 
 (a) EDA must approve any use of Recipient-furnished equipment and materials. EDA may require that major equipment items be subject to a lien in favor of EDA and also may require a statement from the Recipient regarding expected useful life and salvage value of such equipment;

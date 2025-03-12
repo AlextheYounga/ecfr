@@ -1,5 +1,7 @@
 ##### § 296.2 Definitions. #####
 
+Link to an amendment published at 82 FR 56897, Dec. 1, 2017.
+
 For the purposes of this part:
 
 *Act* means the Merchant Marine Act, 1936, as amended (46 App. U.S.C. 1101 *et seq.*).

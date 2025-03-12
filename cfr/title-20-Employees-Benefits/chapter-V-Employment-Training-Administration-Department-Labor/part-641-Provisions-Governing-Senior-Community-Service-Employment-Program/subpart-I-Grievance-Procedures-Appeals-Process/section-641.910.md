@@ -1,5 +1,7 @@
 ##### § 641.910 What grievance procedures must grantees make available to applicants, employees, and participants? #####
 
+Link to an amendment published at 82 FR 56886, Dec. 1, 2017.
+
 (a) Each grantee must establish, and describe in the grant agreement, grievance procedures for resolving complaints, other than those described by paragraph (d) of this section, arising between the grantee, employees of the grantee, sub-recipients, and applicants or participants.
 
 (b) The Department will not review final determinations made under paragraph (a) of this section, except to determine whether the grantee's grievance procedures were followed, and according to paragraph (c) of this section.

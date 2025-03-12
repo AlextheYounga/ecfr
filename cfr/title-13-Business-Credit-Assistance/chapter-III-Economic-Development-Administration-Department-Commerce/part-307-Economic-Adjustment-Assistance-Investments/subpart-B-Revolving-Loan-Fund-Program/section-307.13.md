@@ -1,5 +1,7 @@
 ##### § 307.13 Records and retention. #####
 
+Link to an amendment published at 82 FR 57057, Dec. 1, 2017.
+
 (a) *Closed Loan files and related documents.* The RLF Recipient shall maintain Closed Loan files and all related documents, books of account, computer data files and other records over the term of the Closed Loan and for a three-year period from the date of final disposition of such Closed Loan. The date of final disposition of a Closed Loan is the date:
 
 (1) Principal, interest, fees, penalties and all other costs associated with the Closed Loan have been paid in full; or

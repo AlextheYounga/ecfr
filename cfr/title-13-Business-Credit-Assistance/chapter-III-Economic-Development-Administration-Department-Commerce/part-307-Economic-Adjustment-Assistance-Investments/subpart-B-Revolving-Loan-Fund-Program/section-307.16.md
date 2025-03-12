@@ -1,5 +1,7 @@
 ##### § 307.16 Effective utilization of Revolving Loan Funds. #####
 
+Link to an amendment published at 82 FR 57057, Dec. 1, 2017.
+
 (a) *Loan closing and disbursement schedule.* (1) RLF loan activity must be sufficient to draw down Grant funds in accordance with the schedule prescribed in the award conditions for loan closings and disbursements to eligible RLF borrowers. The schedule usually requires that the RLF Recipient lend the entire amount of the initial RLF Capital base within three years of the Grant award.
 
 (2) If an RLF Recipient fails to meet the prescribed lending schedule, EDA may de-obligate the non-disbursed balance of the RLF Grant. EDA may allow exceptions where:

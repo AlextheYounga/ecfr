@@ -1,5 +1,7 @@
 ##### § 641.100 What does this part cover? #####
 
+Link to an amendment published at 82 FR 56880, Dec. 1, 2017.
+
 Part 641 contains the Department of Labor's regulations for the Senior Community Service Employment Program (SCSEP), authorized under title V of the Older Americans Act (OAA), 42 U.S.C. 3056 *et seq.*, as amended by the Older Americans Act Amendments of 2006, Public Law 109-365. This part and other pertinent regulations set forth the regulations applicable to the SCSEP.
 
 (a) Subpart A of this part contains introductory provisions and definitions that apply to this part.

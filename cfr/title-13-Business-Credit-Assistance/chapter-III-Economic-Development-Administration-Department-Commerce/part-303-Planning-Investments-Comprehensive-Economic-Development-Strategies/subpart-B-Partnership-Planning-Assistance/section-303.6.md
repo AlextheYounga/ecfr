@@ -1,5 +1,7 @@
 ##### § 303.6 Partnership Planning and the EDA-funded CEDS process. #####
 
+Link to an amendment published at 82 FR 57054, Dec. 1, 2017.
+
 (a) *Partnership Planning Overview.* Partnership Planning Investments support a nationwide network of Planning Organizations to provide comprehensive economic development planning services to distressed Regions. EDA makes Partnership Planning Investments to enable Planning Organizations to manage and coordinate the development and implementation of CEDS to address the unique needs of their respective Regions.
 
 (b) *CEDS Process.* If EDA awards Investment Assistance to a Planning Organization to develop, revise, or replace a CEDS, the Planning Organization must follow the procedures set forth in this section:

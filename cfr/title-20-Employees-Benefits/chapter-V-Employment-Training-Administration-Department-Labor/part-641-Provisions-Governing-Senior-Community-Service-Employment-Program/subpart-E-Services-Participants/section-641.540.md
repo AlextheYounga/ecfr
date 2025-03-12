@@ -1,5 +1,7 @@
 ##### § 641.540 What types of training may grantees and sub-recipients provide to SCSEP participants in addition to the training received at a community service assignment? #####
 
+Link to an amendment published at 82 FR 56883, Dec. 1, 2017.
+
 (a) In addition to the training provided in a community service assignment, grantees and sub-recipients may arrange skill training provided that it:
 
 (1) Is realistic and consistent with the participants' IEP;

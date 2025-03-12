@@ -1,5 +1,7 @@
 ##### § 303.7 Requirements for Comprehensive Economic Development Strategies. #####
 
+Link to an amendment published at 82 FR 57054, Dec. 1, 2017.
+
 (a) *General.* CEDS are designed to bring together the public and private sectors in the creation of an economic roadmap to diversify and strengthen Regional economies. The CEDS should analyze the Regional economy and serve as a guide for establishing Regional goals and objectives, developing and implementing a Regional plan of action, and identifying investment priorities and funding sources. Public and private sector partnerships are critical to the implementation of the integral elements of a CEDS set forth in paragraph (b) of this section. As a performance-based plan, the CEDS will serve a critical role in a Region's efforts to defend against economic dislocations due to global trade, competition and other events resulting in the loss of jobs and private investment.
 
 (b) *Strategy requirements.* (1) A CEDS must be the result of a continuing economic development planning process, developed with broad-based and diverse public and private sector participation. Consistent with section 302 of PWEDA, each CEDS must promote Regional resiliency and be unique and responsive to the relevant Region. Each CEDS must include:

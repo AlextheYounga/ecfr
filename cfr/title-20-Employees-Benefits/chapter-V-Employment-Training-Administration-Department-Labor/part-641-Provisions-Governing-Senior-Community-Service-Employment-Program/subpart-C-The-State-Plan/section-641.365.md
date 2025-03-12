@@ -1,5 +1,7 @@
 ##### § 641.365 How must the equitable distribution provisions be reconciled with the provision that disruptions to current participants should be avoided? #####
 
+Link to an amendment published at 82 FR 56883, Dec. 1, 2017.
+
 (a) Governors, or highest government officials, must describe in the State Plan the steps that are being taken to comply with the statutory requirement to avoid disruptions in the provision of services for participants. (OAA § 503(a)(6)).
 
 (b) When there is new Census or other reliable data indicating that there has been a shift in the location of the eligible population or when there is over-enrollment for any other reason, the Department recommends a gradual shift in positions as they become vacant to areas where there has been an increase in the eligible population.

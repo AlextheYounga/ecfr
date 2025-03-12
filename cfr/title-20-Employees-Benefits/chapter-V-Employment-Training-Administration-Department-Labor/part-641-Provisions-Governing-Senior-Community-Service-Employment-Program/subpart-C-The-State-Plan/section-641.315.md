@@ -1,5 +1,7 @@
 ##### § 641.315 Who participates in developing the State Plan? #####
 
+Link to an amendment published at 82 FR 56882, Dec. 1, 2017.
+
 (a) In developing the State Plan the Governor, or the highest government official, must seek the advice and recommendations of representatives from:
 
 (1) The State and area agencies on aging;

@@ -1,5 +1,7 @@
 ##### § 314.7 Title. #####
 
+Link to an amendment published at 82 FR 57061, Dec. 1, 2017.
+
 (a) *General title requirement.* The Recipient must hold title to the Real Property required for a Project at the time the Investment Assistance is awarded or as provided by paragraph (c) of this section and must maintain title at all times during the Estimated Useful Life of the Project, except in those limited circumstances as provided in paragraph (c) of this section. The Recipient also must furnish evidence, satisfactory in form and substance to EDA, that title to Real Property required for a Project (other than property of the United States) is vested in the Recipient and that any easements, rights-of-way, State or local government permits, long-term leases or other items required for the Project have been or will be obtained by the Recipient within an acceptable time, as determined by EDA.
 
 (b) *Disclosure of encumbrances.* (1) The Recipient must disclose to EDA all encumbrances, including the following:

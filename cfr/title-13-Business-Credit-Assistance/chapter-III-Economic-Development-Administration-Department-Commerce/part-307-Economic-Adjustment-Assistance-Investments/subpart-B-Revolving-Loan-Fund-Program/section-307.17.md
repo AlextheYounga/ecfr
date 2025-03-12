@@ -1,5 +1,7 @@
 ##### § 307.17 Uses of capital. #####
 
+Link to an amendment published at 82 FR 57057, Dec. 1, 2017.
+
 (a) *General.* RLF Capital shall be used for the purpose of making RLF loans that are consistent with an RLF Plan or such other purposes approved by EDA. To ensure that RLF funds are used as intended, each loan agreement must clearly state the purpose of each loan.
 
 (b) *Restrictions on use of RLF Capital.* RLF Capital shall not be used to:

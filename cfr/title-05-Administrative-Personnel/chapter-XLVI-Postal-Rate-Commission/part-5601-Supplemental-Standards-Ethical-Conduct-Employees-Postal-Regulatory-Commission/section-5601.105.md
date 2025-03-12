@@ -1,0 +1,5 @@
+##### § 5601.105 Prior approval for outside employment. #####
+
+(a) *Prior approval for outside employment.* An employee who wishes to engage in outside employment, either on a paid or unpaid basis, shall obtain the prior written approval of the DAEO. A request for such approval shall be submitted in writing with sufficient description of the employment to enable the DAEO to give approval based on an informed determination that the outside employment is not expected to involve conduct prohibited by statute or Federal regulation, including paragraph (a) of this section and part 2635 of this title. The DAEO shall provide a copy of any written approvals for outside employment to the employee's supervisor.
+
+(b) *Scope of approval.* An employee must submit a new request for approval upon either a significant change in the nature or scope of the outside employment or a change in the employee's Commission position or assigned responsibilities.

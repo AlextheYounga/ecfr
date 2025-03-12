@@ -1,5 +1,7 @@
 ##### § 314.4 Unauthorized Use of Property. #####
 
+Link to an amendment published at 82 FR 57060, Dec. 1, 2017.
+
 (a) Except as provided in §§ 314.3 (regarding the authorized use of Property) or 314.10 (regarding the release of EDA's interest in certain Property), or as otherwise authorized by EDA, the Federal government must be compensated by the Recipient for the Federal Share whenever, during the Estimated Useful Life of the Project, any Property acquired or improved in whole or in part with Investment Assistance is Disposed of, encumbered, or no longer used for the purpose of the Project; provided that for equipment and supplies, the requirements at 15 CFR parts 14 or 24, as applicable, including any supplements or amendments thereto, shall apply.
 
 (b) Additionally, prior to the release of EDA's interest, Real Property or tangible Personal Property acquired or improved with EDA Investment Assistance may not be used:

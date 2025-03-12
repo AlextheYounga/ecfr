@@ -1,5 +1,7 @@
 ##### § 314.8 Recorded statement for Real Property. #####
 
+Link to an amendment published at 82 FR 57061, Dec. 1, 2017.
+
 (a) For all Projects involving the acquisition, construction or improvement of a building, as determined by EDA, the Recipient shall execute a lien, covenant or other statement of EDA's interest in the Property acquired or improved in whole or in part with the EDA Investment Assistance. The statement shall specify the Estimated Useful Life of the Project and shall include, but not be limited to, the Disposition, encumbrance and Federal Share requirements. The statement shall be satisfactory in form and substance to EDA.
 
 (b) The statement of EDA's interest must be perfected and placed of record in the Real Property records of the jurisdiction in which the Real Property is located, all in accordance with applicable law.
