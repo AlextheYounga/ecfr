@@ -1,4 +1,4 @@
-##### § 752.7038 Nondiscrimination against End-Users of Supplies or Services. #####
+##### 752.7038 Nondiscrimination against End-Users of Supplies or Services. #####
 
 The following clause must be inserted in section I of all solicitations and resulting contracts.
 

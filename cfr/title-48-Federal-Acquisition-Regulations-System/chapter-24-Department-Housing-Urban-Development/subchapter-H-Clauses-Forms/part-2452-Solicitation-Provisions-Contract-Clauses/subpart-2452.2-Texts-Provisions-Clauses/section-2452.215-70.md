@@ -8,13 +8,13 @@ Proposal Content (MAR 2016)
 
 (b) The number of proposals required is an original and [*insert number*] copies of Part I, and [*insert number*] copies of Part II.
 
-(c) *Part I - Technical Proposal.* (1) The offeror shall submit the information required in Instructions to Offerors designated under Part I - Technical Proposal.
+(c) *Part I—Technical Proposal.* (1) The offeror shall submit the information required in Instructions to Offerors designated under Part I—Technical Proposal.
 
-(d) *Part II - Business Proposal.* (1) The offeror shall complete the Representations and Certifications provided in Section K of this solicitation and include them in Part II, Business Proposal.
+(d) *Part II—Business Proposal.* (1) The offeror shall complete the Representations and Certifications provided in Section K of this solicitation and include them in Part II, Business Proposal.
 
-(2) The offeror shall provide information to support the offeror's proposed costs or prices as prescribed elsewhere in Instructions to Offerors for Part II - Business Proposal.
+(2) The offeror shall provide information to support the offeror's proposed costs or prices as prescribed elsewhere in Instructions to Offerors for Part II—Business Proposal.
 
-(3) The offeror shall submit any other information required in Instructions to Offerors designated under Part II - Business Proposal.
+(3) The offeror shall submit any other information required in Instructions to Offerors designated under Part II—Business Proposal.
 
 (End of provision)
 
@@ -22,7 +22,7 @@ Proposal Content (MAR 2016)
 
 The offeror shall describe in detail how the offeror will maintain the security of automated systems as required by clause 2452.239-70 in Section I of this solicitation and include it in Part II, Business Proposal.
 
-(End of provision)Alternate II\>Proposal Content Alternate II (APR 2019)
+(End of provision)Alternate IIProposal Content Alternate II (APR 2019)
 
 As prescribed in 2415.209(a), add the following paragraph (e) when the size of any proposal Part I or Part II will be limited:
 

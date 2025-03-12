@@ -1,6 +1,6 @@
 ##### 1452.237-71 Utilization of Woody Biomass. #####
 
-As prescribed in § 1437.7202, insert the following clause:
+As prescribed in 1437.7202, insert the following clause:
 
 Utilization of Woody Biomass (MAY 2005)
 

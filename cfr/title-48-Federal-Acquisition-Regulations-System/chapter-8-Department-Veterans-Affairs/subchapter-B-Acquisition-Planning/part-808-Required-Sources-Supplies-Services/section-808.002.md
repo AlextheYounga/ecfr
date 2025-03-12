@@ -1,4 +1,4 @@
-##### § 808.002 Priorities for use of mandatory Government sources. #####
+##### 808.002 Priorities for use of mandatory Government sources. #####
 
 (a) *Sources.* Contracting activities shall satisfy requirements for supplies and services from or through the mandatory sources listed below in descending order of priority:
 
@@ -20,4 +20,4 @@
 
 (2) The contracting officer must cite Federal Prison Industries, Inc., clearance No. 1206 in the purchase document for any purchase from a commercial source of dress shoes similar to Federal Prison Industries, Inc., Style No. 86-A.
 
-[84 FR 29390, June 24, 2019]Effective Date Note:At 84 FR 29390, June 24, 2019, § 808.002 was amended by revising the section heading and paragraphs (a) and (b), effective June 24, 2019 through July 1, 2021.
+[84 FR 29390, June 24, 2019]Effective Date Note:At 84 FR 29390, June 24, 2019, 808.002 was amended by revising the section heading and paragraphs (a) and (b), effective June 24, 2019 through July 1, 2021.

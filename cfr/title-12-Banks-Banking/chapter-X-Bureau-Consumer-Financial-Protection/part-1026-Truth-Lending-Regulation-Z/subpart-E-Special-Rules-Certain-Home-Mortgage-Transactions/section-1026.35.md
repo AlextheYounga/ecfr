@@ -12,7 +12,11 @@
 
 (2) “Average prime offer rate” means an annual percentage rate that is derived from average interest rates, points, and other loan pricing terms currently offered to consumers by a representative sample of creditors for mortgage transactions that have low-risk pricing characteristics. The Bureau publishes average prime offer rates for a broad range of types of transactions in a table updated at least weekly as well as the methodology the Bureau uses to derive these rates.
 
-(b) *Escrow accounts* - (1) *Requirement to escrow for property taxes and insurance.* Except as provided in paragraph (b)(2) of this section, a creditor may not extend a higher-priced mortgage loan secured by a first lien on a consumer's principal dwelling unless an escrow account is established before consummation for payment of property taxes and premiums for mortgage-related insurance required by the creditor, such as insurance against loss of or damage to property, or against liability arising out of the ownership or use of the property, or insurance protecting the creditor against the consumer's default or other credit loss. For purposes of this paragraph (b), the term “escrow account” has the same meaning as under Regulation X (12 CFR 1024.17(b)), as amended.
+(3) “Insured credit union” has the meaning given in Section 101 of the Federal Credit Union Act (12 U.S.C. 1752).
+
+(4) “Insured depository institution” has the meaning given in Section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813).
+
+(b) *Escrow accounts*—(1) *Requirement to escrow for property taxes and insurance.* Except as provided in paragraph (b)(2) of this section, a creditor may not extend a higher-priced mortgage loan secured by a first lien on a consumer's principal dwelling unless an escrow account is established before consummation for payment of property taxes and premiums for mortgage-related insurance required by the creditor, such as insurance against loss of or damage to property, or against liability arising out of the ownership or use of the property, or insurance protecting the creditor against the consumer's default or other credit loss. For purposes of this paragraph (b), the term “escrow account” has the same meaning as under Regulation X (12 CFR 1024.17(b)), as amended.
 
 (2) *Exemptions.* Notwithstanding paragraph (b)(1) of this section:
 
@@ -38,7 +42,7 @@
 
 (D) Neither the creditor nor its affiliate maintains an escrow account of the type described in paragraph (b)(1) of this section for any extension of consumer credit secured by real property or a dwelling that the creditor or its affiliate currently services, other than:
 
-(*1*) Escrow accounts established for first-lien higher-priced mortgage loans for which applications were received on or after April 1, 2010, and before May 1, 2016; or
+(*1*) Escrow accounts established for first-lien higher-priced mortgage loans for which applications were received on or after April 1, 2010, and before June 17, 2021; or
 
 (*2*) Escrow accounts established after consummation as an accommodation to distressed consumers to assist such consumers in avoiding default or foreclosure.
 
@@ -46,11 +50,9 @@
 
 (A) An area is “rural” during a calendar year if it is:
 
-(*1*) A county that is neither in a metropolitan statistical area nor in a micropolitan statistical area that is adjacent to a metropolitan statistical area, as those terms are defined by the U.S. Office of Management and Budget and as they are applied under currently applicable Urban Influence Codes (UICs), established by the United States Department of Agriculture's Economic Research Service (USDA-ERS);
+(*1*) A county that is neither in a metropolitan statistical area nor in a micropolitan statistical area that is adjacent to a metropolitan statistical area, as those terms are defined by the U.S. Office of Management and Budget and as they are applied under currently applicable Urban Influence Codes (UICs), established by the United States Department of Agriculture's Economic Research Service (USDA-ERS); or
 
-(*2*) A census block that is not in an urban area, as defined by the U.S. Census Bureau using the latest decennial census of the United States; or
-
-(*3*) A county or a census block that has been designated as rural by the Bureau pursuant to the application process established under section 89002 of the Helping Expand Lending Practices in Rural Communities Act, Public Law 114-94, title LXXXIX (2015). The provisions of this paragraph (b)(2)(iv)(A)(*3*) shall cease to have any force or effect on December 4, 2017.
+(*2*) A census block that is not in an urban area, as defined by the U.S. Census Bureau using the latest decennial census of the United States.
 
 (B) An area is “underserved” during a calendar year if, according to Home Mortgage Disclosure Act (HMDA) data for the preceding calendar year, it is a county in which no more than two creditors extended covered transactions, as defined in § 1026.43(b)(1), secured by first liens on properties in the county five or more times.
 
@@ -62,9 +64,17 @@
 
 (*3*) Not designated as located in an urban area, as defined by the most recent delineation of urban areas announced by the Census Bureau, by any automated address search tool that the U.S. Census Bureau provides on its public Web site for that purpose and that specifically indicates the urban or rural designations of properties.
 
-(v) Notwithstanding paragraph (b)(2)(iii) of this section, an escrow account must be established pursuant to paragraph (b)(1) of this section for any first-lien higher-priced mortgage loan that, at consummation, is subject to a commitment to be acquired by a person that does not satisfy the conditions in paragraph (b)(2)(iii) of this section, unless otherwise exempted by this paragraph (b)(2).
+(v) Notwithstanding paragraphs (b)(2)(iii) and (vi) of this section, an escrow account must be established pursuant to paragraph (b)(1) of this section for any first-lien higher-priced mortgage loan that, at consummation, is subject to a commitment to be acquired by a person that does not satisfy the conditions in paragraph (b)(2)(iii) or (vi) of this section, unless otherwise exempted by this paragraph (b)(2).
 
-(3) *Cancellation* - (i) *General.* Except as provided in paragraph (b)(3)(ii) of this section, a creditor or servicer may cancel an escrow account required in paragraph (b)(1) of this section only upon the earlier of:
+(vi) Except as provided in paragraph (b)(2)(v) of this section, an escrow account need not be established for a transaction made by a creditor that is an insured depository institution or insured credit union if, at the time of consummation:
+
+(A) As of the preceding December 31st, or, if the application for the transaction was received before April 1 of the current calendar year, as of either of the two preceding December 31sts, the insured depository institution or insured credit union had assets of $10,000,000,000 or less, adjusted annually for inflation using the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each 12-month period ending in November (see comment 35(b)(2)(vi)(A)-1 for the applicable threshold);
+
+(B) During the preceding calendar year, or, if the application for the transaction was received before April 1 of the current calendar year, during either of the two preceding calendar years, the creditor and its affiliates, as defined in § 1026.32(b)(5), together extended no more than 1,000 covered transactions secured by a first lien on a principal dwelling; and
+
+(C) The transaction satisfies the criteria in paragraphs (b)(2)(iii)(A) and (D) of this section.
+
+(3) *Cancellation*—(i) *General.* Except as provided in paragraph (b)(3)(ii) of this section, a creditor or servicer may cancel an escrow account required in paragraph (b)(1) of this section only upon the earlier of:
 
 (A) Termination of the underlying debt obligation; or
 
@@ -76,7 +86,7 @@
 
 (B) The consumer currently is not delinquent or in default on the underlying debt obligation.
 
-(c) *Appraisals* - (1) *Definitions.* For purposes of this section:
+(c) *Appraisals*—(1) *Definitions.* For purposes of this section:
 
 (i) *Certified or licensed appraiser* means a person who is certified or licensed by the State agency in the State in which the property that secures the transaction is located, and who performs the appraisal in conformity with the Uniform Standards of Professional Appraisal Practice and the requirements applicable to appraisers in title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, as amended (12 U.S.C. 3331 *et seq.*), and any implementing regulations in effect at the time the appraiser signs the appraiser's certification.
 
@@ -108,13 +118,13 @@
 
 (vii) An extension of credit that is a refinancing secured by a first lien, with refinancing defined as in § 1026.20(a) (except that the creditor need not be the original creditor or a holder or servicer of the original obligation), provided that the refinancing meets the following criteria:
 
-(A) Either -
+(A) Either—
 
 (*1*) The credit risk of the refinancing is retained by the person that held the credit risk of the existing obligation and there is no commitment, at consummation, to transfer the credit risk to another person; or
 
 (*2*) The refinancing is insured or guaranteed by the same Federal government agency that insured or guaranteed the existing obligation;
 
-(B) The regular periodic payments under the refinance loan do not -
+(B) The regular periodic payments under the refinance loan do not—
 
 (*1*) Cause the principal balance to increase;
 
@@ -128,7 +138,7 @@
 
 (A) A new manufactured home and land, but the exemption shall only apply to the requirement in paragraph (c)(3)(i) of this section that the appraiser conduct a physical visit of the interior of the new manufactured home; or
 
-(B) A manufactured home and not land, for which the creditor obtains one of the following and provides a copy to the consumer no later than three business days prior to consummation of the transaction -
+(B) A manufactured home and not land, for which the creditor obtains one of the following and provides a copy to the consumer no later than three business days prior to consummation of the transaction—
 
 (*1*) For a new manufactured home, the manufacturer's invoice for the manufactured home securing the transaction, provided that the date of manufacture is no earlier than 18 months prior to the creditor's receipt of the consumer's application for credit;
 
@@ -136,7 +146,7 @@
 
 (*3*) A valuation, as defined in § 1026.42(b)(3), of the manufactured home performed by a person who has no direct or indirect interest, financial or otherwise, in the property or transaction for which the valuation is performed and has training in valuing manufactured homes.
 
-(3) *Appraisals required* - (i) *In general.* Except as provided in paragraph (c)(2) of this section, a creditor shall not extend a higher-priced mortgage loan to a consumer without obtaining, prior to consummation, a written appraisal of the property to be mortgaged. The appraisal must be performed by a certified or licensed appraiser who conducts a physical visit of the interior of the property that will secure the transaction.
+(3) *Appraisals required*—(i) *In general.* Except as provided in paragraph (c)(2) of this section, a creditor shall not extend a higher-priced mortgage loan to a consumer without obtaining, prior to consummation, a written appraisal of the property to be mortgaged. The appraisal must be performed by a certified or licensed appraiser who conducts a physical visit of the interior of the property that will secure the transaction.
 
 (ii) *Safe harbor.* A creditor obtains a written appraisal that meets the requirements for an appraisal required under paragraph (c)(3)(i) of this section if the creditor:
 
@@ -148,7 +158,7 @@
 
 (D) Has no actual knowledge contrary to the facts or certifications contained in the written appraisal.
 
-(4) *Additional appraisal for certain higher-priced mortgage loans* - (i) *In general.* Except as provided in paragraphs (c)(2) and (c)(4)(vii) of this section, a creditor shall not extend a higher-priced mortgage loan to a consumer to finance the acquisition of the consumer's principal dwelling without obtaining, prior to consummation, two written appraisals, if:
+(4) *Additional appraisal for certain higher-priced mortgage loans*—(i) *In general.* Except as provided in paragraphs (c)(2) and (c)(4)(vii) of this section, a creditor shall not extend a higher-priced mortgage loan to a consumer to finance the acquisition of the consumer's principal dwelling without obtaining, prior to consummation, two written appraisals, if:
 
 (A) The seller acquired the property 90 or fewer days prior to the date of the consumer's agreement to acquire the property and the price in the consumer's agreement to acquire the property exceeds the seller's acquisition price by more than 10 percent; or
 
@@ -168,9 +178,9 @@
 
 (v) *No charge for the additional appraisal.* If the creditor must obtain two appraisals under paragraph (c)(4)(i) of this section, the creditor may charge the consumer for only one of the appraisals.
 
-(vi) *Creditor's determination of prior sale date and price* - (A) *Reasonable diligence.* A creditor must obtain two written appraisals under paragraph (c)(4)(i) of this section unless the creditor can demonstrate by exercising reasonable diligence that the requirement to obtain two appraisals does not apply. A creditor acts with reasonable diligence if the creditor bases its determination on information contained in written source documents, such as the documents listed in appendix O to this part.
+(vi) *Creditor's determination of prior sale date and price*—(A) *Reasonable diligence.* A creditor must obtain two written appraisals under paragraph (c)(4)(i) of this section unless the creditor can demonstrate by exercising reasonable diligence that the requirement to obtain two appraisals does not apply. A creditor acts with reasonable diligence if the creditor bases its determination on information contained in written source documents, such as the documents listed in appendix O to this part.
 
-(B) *Inability to determine prior sale date or price - modified requirements for additional appraisal.* If, after exercising reasonable diligence, a creditor cannot determine whether the conditions in paragraphs (c)(4)(i)(A) and (c)(4)(i)(B) are present and therefore must obtain two written appraisals in accordance with paragraphs (c)(4)(i) through (v) of this section, one of the two appraisals shall include an analysis of the factors in paragraph (c)(4)(iv) of this section only to the extent that the information necessary for the appraiser to perform the analysis can be determined.
+(B) *Inability to determine prior sale date or price—modified requirements for additional appraisal.* If, after exercising reasonable diligence, a creditor cannot determine whether the conditions in paragraphs (c)(4)(i)(A) and (c)(4)(i)(B) are present and therefore must obtain two written appraisals in accordance with paragraphs (c)(4)(i) through (v) of this section, one of the two appraisals shall include an analysis of the factors in paragraph (c)(4)(iv) of this section only to the extent that the information necessary for the appraiser to perform the analysis can be determined.
 
 (vii) *Exemptions from the additional appraisal requirement.* The additional appraisal required under paragraph (c)(4)(i) of this section shall not apply to extensions of credit that finance a consumer's acquisition of property:
 
@@ -190,11 +200,11 @@
 
 (H) Located in a rural county, as defined in 12 CFR 1026.35(b)(2)(iv)(A).
 
-(5) *Required disclosure* - (i) *In general.* Except as provided in paragraph (c)(2) of this section, a creditor shall disclose the following statement, in writing, to a consumer who applies for a higher-priced mortgage loan: “We may order an appraisal to determine the property's value and charge you for this appraisal. We will give you a copy of any appraisal, even if your loan does not close. You can pay for an additional appraisal for your own use at your own cost.” Compliance with the disclosure requirement in Regulation B, 12 CFR 1002.14(a)(2), satisfies the requirements of this paragraph.
+(5) *Required disclosure*—(i) *In general.* Except as provided in paragraph (c)(2) of this section, a creditor shall disclose the following statement, in writing, to a consumer who applies for a higher-priced mortgage loan: “We may order an appraisal to determine the property's value and charge you for this appraisal. We will give you a copy of any appraisal, even if your loan does not close. You can pay for an additional appraisal for your own use at your own cost.” Compliance with the disclosure requirement in Regulation B, 12 CFR 1002.14(a)(2), satisfies the requirements of this paragraph.
 
 (ii) *Timing of disclosure.* The disclosure required by paragraph (c)(5)(i) of this section shall be delivered or placed in the mail no later than the third business day after the creditor receives the consumer's application for a higher-priced mortgage loan subject to paragraph (c) of this section. In the case of a loan that is not a higher-priced mortgage loan subject to paragraph (c) of this section at the time of application, but becomes a higher-priced mortgage loan subject to paragraph (c) of this section after application, the disclosure shall be delivered or placed in the mail not later than the third business day after the creditor determines that the loan is a higher-priced mortgage loan subject to paragraph (c) of this section.
 
-(6) *Copy of appraisals* - (i) *In general.* Except as provided in paragraph (c)(2) of this section, a creditor shall provide to the consumer a copy of any written appraisal performed in connection with a higher-priced mortgage loan pursuant to paragraphs (c)(3) and (c)(4) of this section.
+(6) *Copy of appraisals*—(i) *In general.* Except as provided in paragraph (c)(2) of this section, a creditor shall provide to the consumer a copy of any written appraisal performed in connection with a higher-priced mortgage loan pursuant to paragraphs (c)(3) and (c)(4) of this section.
 
 (ii) *Timing.* A creditor shall provide to the consumer a copy of each written appraisal pursuant to paragraph (c)(6)(i) of this section:
 
@@ -210,4 +220,4 @@
 
 (d) *Evasion; open-end credit.* In connection with credit secured by a consumer's principal dwelling that does not meet the definition of open-end credit in § 1026.2(a)(20), a creditor shall not structure a home-secured loan as an open-end plan to evade the requirements of this section.
 
-[78 FR 4753, Jan. 22, 2013, as amended at 78 FR 10442, Feb. 13, 2013; 78 FR 30745, May 23, 2013; 78 FR 44718, July 24, 2013; 78 FR 60441, Oct. 1, 2013; 78 FR 78585, 78586, Dec. 26, 2013; 80 FR 59967, Oct. 2, 2015; 81 FR 16082, Mar. 25, 2016]
+[78 FR 4753, Jan. 22, 2013, as amended at 78 FR 10442, Feb. 13, 2013; 78 FR 30745, May 23, 2013; 78 FR 44718, July 24, 2013; 78 FR 60441, Oct. 1, 2013; 78 FR 78585, 78586, Dec. 26, 2013; 80 FR 59967, Oct. 2, 2015; 81 FR 16082, Mar. 25, 2016; 86 FR 9852, Feb. 17, 2021]

@@ -1,4 +1,4 @@
-##### 852.233-70 Protest Content/Alternative Dispute Resolution. #####
+##### 852.233-70 Protest content/alternative dispute resolution. #####
 
 As prescribed in 833.106-70(a), insert the following provision:
 

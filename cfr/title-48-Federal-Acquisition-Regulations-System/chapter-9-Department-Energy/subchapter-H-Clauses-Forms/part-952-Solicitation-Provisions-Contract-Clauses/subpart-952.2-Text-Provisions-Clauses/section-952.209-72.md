@@ -14,15 +14,15 @@ Organizational Conflicts of Interest (AUG 2009)
 
 (iii) Nothing in this paragraph shall preclude the Contractor from offering or selling its standard and commercial items to the Government.
 
-(2) *Access to and use of information.* (i) If the Contractor, in the performance of this contract, obtains access to information, such as Department plans, policies, reports, studies, financial plans, internal data protected by the Privacy Act of 1974 (5 U.S.C. 552a), or data which has not been released or otherwise made available to the public, the Contractor agrees that without prior written approval of the Contracting Officer it shall not -
+(2) *Access to and use of information.* (i) If the Contractor, in the performance of this contract, obtains access to information, such as Department plans, policies, reports, studies, financial plans, internal data protected by the Privacy Act of 1974 (5 U.S.C. 552a), or data which has not been released or otherwise made available to the public, the Contractor agrees that without prior written approval of the Contracting Officer it shall not—
 
-(A) use such information for any private purpose unless the information has been released or otherwise made available to the public;
+(A) Use such information for any private purpose unless the information has been released or otherwise made available to the public;
 
-(B) compete for work for the Department based on such information for a period of six (6) months after either the completion of this contract or until such information is released or otherwise made available to the public, whichever is first;
+(B) Compete for work for the Department based on such information for a period of six (6) months after either the completion of this contract or until such information is released or otherwise made available to the public, whichever is first;
 
-(C) submit an unsolicited proposal to the Government which is based on such information until one year after such information is released or otherwise made available to the public; and
+(C) Submit an unsolicited proposal to the Government which is based on such information until one year after such information is released or otherwise made available to the public; and
 
-(D) release such information unless such information has previously been released or otherwise made available to the public by the Department.
+(D) Release such information unless such information has previously been released or otherwise made available to the public by the Department.
 
 (ii) In addition, the Contractor agrees that to the extent it receives or is given access to proprietary data, data protected by the Privacy Act of 1974 (5 U.S.C. 552a), or other confidential or privileged technical, business, or financial information under this contract, it shall treat such information in accordance with any restrictions imposed on such information.
 
