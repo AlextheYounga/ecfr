@@ -1,5 +1,7 @@
 ##### § 531.52 General restrictions on an employer's use of its employees' tips. #####
 
+Link to an amendment published at 86 FR 52986, Sept. 24, 2021.
+
 (a) A tip is a sum presented by a customer as a gift or gratuity in recognition of some service performed for the customer. It is to be distinguished from payment of a charge, if any, made for the service. Whether a tip is to be given, and its amount, are matters determined solely by the customer. An employer that takes a tip credit against its minimum wage obligations is prohibited from using an employee's tips for any reason other than that which is statutorily permitted in section 3(m)(2)(A): As a credit against its minimum wage obligations to the employee, or in furtherance of a tip pool limited to employees who customarily and regularly receive tips. Only tips actually received by an employee as money belonging to the employee may be counted in determining whether the person is a “tipped employee” within the meaning of the Act and in applying the provisions of section 3(m)(2)(A) which govern wage credits for tips.
 
 (b) Section 3(m)(2)(B) of the Act provides that an employer may not keep tips received by its employees for any purposes, regardless of whether the employer takes a tip credit.

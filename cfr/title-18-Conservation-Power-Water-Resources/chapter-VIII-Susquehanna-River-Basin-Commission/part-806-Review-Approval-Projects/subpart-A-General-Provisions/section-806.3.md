@@ -1,5 +1,7 @@
 ##### § 806.3 Definitions. #####
 
+Link to an amendment published at 86 FR 52965, Sept. 24, 2021.
+
 For purposes of parts 806, 807 and 808, unless the context indicates otherwise, the words listed in this section are defined as follows:
 
 *Agricultural water use.* A water use associated primarily with the raising of food, fiber or forage crops, trees, flowers, shrubs, turf products, livestock and poultry. The term shall include aquaculture.

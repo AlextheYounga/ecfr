@@ -48,7 +48,7 @@ As used in this chapter, the following terms shall have the following meanings:
 
 *In-Kind Contribution(s)* means non-cash contributions, which may include contributions of space, equipment, services and assumptions of debt that are fairly evaluated by EDA and that satisfy applicable Federal uniform administrative requirements and cost principles as set out in 2 CFR part 200.
 
-*Indian Tribe* means an entity on the list of recognized tribes published pursuant to the Federally Recognized Indian Tribe List Act of 1994, as amended (Pub. L. 103-454) (25 U.S.C. 479a *et seq.*), and any Alaska Native Village or Regional Corporation (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 *et seq.*). This term includes the governing body of an Indian Tribe, non-profit Indian corporation (restricted to Indians), Indian authority, or other non-profit Indian tribal organization or entity; provided that the Indian tribal organization or entity is wholly owned by, and established for the benefit of, the Indian Tribe or Alaska Native Village.
+*Indian Tribe* means an entity on the list of recognized tribes published pursuant to the Federally Recognized Indian Tribe List Act of 1994, as amended (Pub. L. 103-454) (25 U.S.C. 479a *et seq.*), and any Alaska Native Village or Regional Corporation (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 *et seq.*). This term includes the governing body of an Indian Tribe, Indian corporation (restricted to Indians), Indian authority, or other non-profit Indian tribal organization or entity; provided that the Indian tribal organization, corporation, or entity is wholly owned by, and established for the benefit of, the Indian Tribe or Alaska Native Village.
 
 *Interested Party* means any officer, employee or member of the board of directors or other governing board of the Recipient, including any other parties that advise, approve, recommend or otherwise participate in the business decisions of the Recipient, such as agents, advisors, consultants, attorneys, accountants or shareholders. An Interested Party also includes the Interested Party's Immediate Family and other persons directly connected to the Interested Party by law or through a business arrangement.
 
@@ -118,4 +118,4 @@ As used in this chapter, the following terms shall have the following meanings:
 
 *United States* means all of the States.
 
-[71 FR 56675, Sept. 27, 2006, as amended at 73 FR 62865, Oct. 22, 2008; 79 FR 76123, Dec. 19, 2014; 82 FR 57052, Dec. 1, 2017]
+[71 FR 56675, Sept. 27, 2006, as amended at 73 FR 62865, Oct. 22, 2008; 79 FR 76123, Dec. 19, 2014; 82 FR 57052, Dec. 1, 2017; 86 FR 52959, Sept. 24, 2021]

@@ -12,9 +12,9 @@
 
 (iv) Director, Regional Office.
 
-(v) Deputy Executive Director, Loan Guaranty Service.
+(v) Deputy Director, Loan Guaranty Service.
 
-(vi) Assistant Executive Director, Loan Guaranty Service.
+(vi) Assistant Director, Loan Guaranty Service.
 
 (vii) Loan Guaranty Officer.
 
@@ -26,7 +26,7 @@
 
 (3) An employee of the Department of Veterans Affairs heretofore or hereafter appointed to, or lawfully filling, the position of Supervisory Realty Specialist is hereby delegated authority to act on behalf the Secretary to execute and deliver necessary and appropriate instruments in connection with the acquisition, ownership, management, sale, transfer, assignment, encumbrance, rental, or other disposition of real or personal property, or any right, title, or interest therein, for any purpose authorized by 38 U.S.C., chapter 37.
 
-(c) Nothing in this section shall be construed -
+(c) Nothing in this section shall be construed—
 
 (1) To authorize any such employee to exercise the authority vested in the Secretary under 38 U.S.C. 501 or 3703(a)(2) or to sue, or enter appearance for and on behalf of the Secretary, or confess judgment against the Secretary in any court without the Secretary's prior authorization; or
 
@@ -66,4 +66,4 @@
 
 (3) The Executive Director, Loan Guaranty Service, Washington, DC, shall maintain a log listing all persons authorized to execute documents pursuant to paragraph (f) of this section and the dates such persons held such authority, together with certified copies of resolutions of the board of directors of the entity authorizing such individuals to perform the functions specified in paragraph (f)(1) of this section. These records shall be available for public inspection and copying at the Office of the Executive Director, Loan Guaranty Service, Washington, DC 20420.
 
-(Authority: 38 U.S.C. 3720(a)(5))[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 80 FR 34319, June 16, 2015; 81 FR 59138, Aug. 29, 2016; 86 FR 51275, Sept. 15, 2021]
+(Authority: 38 U.S.C. 3720(a)(5))[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 80 FR 34319, June 16, 2015; 81 FR 59138, Aug. 29, 2016; 86 FR 51275, Sept. 15, 2021; 86 FR 52991, Sept. 24, 2021]

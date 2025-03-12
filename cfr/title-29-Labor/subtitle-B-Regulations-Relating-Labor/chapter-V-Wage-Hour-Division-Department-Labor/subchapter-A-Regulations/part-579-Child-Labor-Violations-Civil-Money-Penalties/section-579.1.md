@@ -1,6 +1,6 @@
 ##### § 579.1 Purpose and scope. #####
 
-Link to an amendment published at 85 FR 86792, Dec. 30, 2020.Link to an amendment published at 86 FR 11641, Feb. 26, 2021.Link to an amendment published at 86 FR 22597, Apr. 29, 2021.
+Link to an amendment published at 85 FR 86792, Dec. 30, 2020.Link to an amendment published at 86 FR 11641, Feb. 26, 2021.Link to an amendment published at 86 FR 22597, Apr. 29, 2021.Link to an amendment published at 86 FR 52986, Sept. 24, 2021.Link to an amendment published at 86 FR 52987, Sept. 24, 2021.
 
 (a) Section 16(e), added to the Fair Labor Standards Act of 1938, as amended, by the Fair Labor Standards Amendments of 1974, and as further amended by the Fair Labor Standards Amendments of 1989, the Omnibus Budget Reconciliation Act of 1990, the Compactor and Balers Safety Standards Modernization Act of 1996, and the Genetic Information Nondiscrimination Act of 2008, provides for the imposition of civil money penalties in the following manner:
 

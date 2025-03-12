@@ -1,5 +1,7 @@
 ##### § 806.18 Approval modifications. #####
 
+Link to an amendment published at 86 FR 52969, Sept. 24, 2021.
+
 (a) *General.* A project sponsor shall submit an application for modification of a current approval prior to making a change in the design, operational plans, or use as presented in the application upon which the approval was originally issued, and that will affect the terms and conditions of the current approval.
 
 (b) *Applications for modification.* A project sponsor may apply for a modification of a current approval by submitting an application for modification to the Commission.

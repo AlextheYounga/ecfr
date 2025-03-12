@@ -1,5 +1,7 @@
 ##### § 806.14 Contents of application. #####
 
+Link to an amendment published at 86 FR 52968, Sept. 24, 2021.
+
 (a) Applications for a new project or a major modification to an existing approved project shall include, but not be limited to, the following information and, where applicable, shall be subject to the requirements in paragraph (b) of this section and submitted on forms and in the manner prescribed by the Commission.
 
 (1) Identification of project sponsor including any and all proprietors, corporate officers or partners, the mailing address of the same, and the name of the individual authorized to act for the sponsor.

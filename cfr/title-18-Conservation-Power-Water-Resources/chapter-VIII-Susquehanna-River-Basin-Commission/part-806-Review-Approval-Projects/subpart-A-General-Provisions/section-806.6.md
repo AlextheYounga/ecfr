@@ -1,5 +1,7 @@
 ##### § 806.6 Transfer of approvals. #####
 
+Link to an amendment published at 86 FR 52967, Sept. 24, 2021.
+
 (a) An existing Commission approval may be transferred to a new project sponsor by the Executive Director provided:
 
 (1) The application for transfer is submitted within 90 days of a transfer or change in ownership of a project.

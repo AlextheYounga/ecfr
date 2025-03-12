@@ -1,6 +1,6 @@
 ##### § 580.12 Decision and Order of Administrative Law Judge. #####
 
-Link to an amendment published at 85 FR 86792, Dec. 30, 2020.Link to an amendment published at 86 FR 22597, Apr. 29, 2021.
+Link to an amendment published at 85 FR 86792, Dec. 30, 2020.Link to an amendment published at 86 FR 22597, Apr. 29, 2021.Link to an amendment published at 86 FR 52986, Sept. 24, 2021.Link to an amendment published at 86 FR 52987, Sept. 24, 2021.
 
 (a) The Administrative Law Judge shall render a decision on the issues referred by the Administrator.
 

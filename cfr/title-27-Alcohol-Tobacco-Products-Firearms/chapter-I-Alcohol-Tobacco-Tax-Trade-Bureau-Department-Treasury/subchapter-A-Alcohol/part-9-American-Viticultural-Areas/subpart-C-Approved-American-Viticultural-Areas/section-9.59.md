@@ -1,7 +1,5 @@
 ##### § 9.59 Arroyo Seco. #####
 
-Link to an amendment published at 86 FR 47379, Aug. 25, 2021.Link to a correcton published at 86 FR 52825, Sept. 23, 2021.
-
 (a) *Name.* The name of the viticultural area described in this section is “Arroyo Seco.”
 
 (b) *Approved maps.* The appropriate maps for determining the boundaries of the Arroyo Seco viticultural area are four U.S.G.S. quadrangle maps. They are entitled:
@@ -38,26 +36,34 @@ Link to an amendment published at 86 FR 47379, Aug. 25, 2021.Link to a correcton
 
 (11) Then due west for approximately 2.0 miles following the southern boundary of Section 17, and continuing to U.S. Highway 101.
 
-(12) Then following U.S. Highway 101 in a northwesterly direction to its intersection with Paraiso Road.
+(12) Then south following Paraiso Road to its intersection with an unnamed, light-duty road north of Clark Road in Section 20, T18S/R6E.
 
-(13) Then south following Paraiso Road to the intersection with Clark Road.
+(13) Then east-southeast along the unnamed road for 0.3 mile to its intersection with an intermittent stream.
 
-(14) Then east-northeasterly along Clark Road for approximately 1,000 feet to its intersection with an unnamed light-duty road to the south.
+(14) Then southwesterly along the intermittent stream for 0.2 mile to its intersection with the western boundary of Section 21, T18S/R6E.
 
-(15) Then in a straight south-southeasterly line for approximately 1.9 miles to the line's intersection with the southeast corner of section 33, T18S, R6E (this line coincides with the unnamed light duty road for approximately 0.4 miles and then with the eastern boundaries of sections 29, 32 and 33, T18S, R6E, which mark this portion of the western boundary of the historical Arroyo Seco Land Grant).
+(15) Then south-southwest in a straight line for approximately 0.3 mile to the intersection of Clark Road and the southern boundary of Section 21, T18S/R6E.
 
-(16) Then straight west along the southern boundary of section 33, T18S, R6E, to its southwest corner.
+(16) Then west-southwest along Clark Road for 0.2 mile to its intersection with an unnamed, light-duty road.
 
-(17) Then due south following the eastern boundaries of Sections 5, 8, and 17, to Arroyo Seco Road.
+(17) Then east-northeasterly along Clark Road for approximately 1,000 feet to its intersection with an unnamed light-duty road to the south.
 
-(18) Then southwest in a straight line for approximately 1.0 mile to Bench Mark 673.
+(18) Then in a straight south-southeasterly line for approximately 1.9 miles to the line's intersection with the southeast corner of section 33, T18S, R6E (this line coincides with the unnamed light duty road for approximately 0.4 miles and then with the eastern boundaries of sections 29, 32 and 33, T18S, R6E, which mark this portion of the western boundary of the historical Arroyo Seco Land Grant).
 
-(19) Then west in a straight line for approximately 1.8 miles to Bench Mark 649.
+(19) Then straight west along the southern boundary of section 33, T18S, R6E, to its southwest corner.
 
-(20) Then northwest in a straight line for approximately 0.2 mile to the northeast corner of Section 23, T. 19 S., R. 5 E.
+(20) Then due south following the eastern boundaries of Sections 5, 8, and 17, to Arroyo Seco Road.
 
-(21) Then west following the northern boundaries of Section 23 and 22 to the northwest corner of Section 22, T. 19 S., R. 5 E.
+(21) Then southwest in a straight line for approximately 1.0 mile to Bench Mark 673.
 
-(22) Then south in a straight line for approximately 1.0 mile to the point of beginning.
+(22) Then west in a straight line for approximately 1.8 miles to Bench Mark 649.
 
-[T.D. ATF-131, 48 FR 16246, Apr. 15, 1983, as amended by T.D. TTB-49, 71 FR 34527, June 15, 2006; T.D. TTB-153, 83 FR 64276, Dec. 14, 2018]
+(23) Then northwest in a straight line for approximately 0.2 mile to the northeast corner of Section 23, T. 19 S., R. 5 E.
+
+(24) Then west following the northern boundaries of Section 23 and 22 to the northwest corner of Section 22, T. 19 S., R. 5 E.
+
+(25) Then south in a straight line for approximately 1.0 mile to the point of beginning.
+
+(d) *Transition period.* A label containing the words “Arroyo Seco” in the brand name or as an appellation of origin approved prior to September 24, 2021 may be used on wine bottled before August 25, 2023, if the wine conforms to the standards for use of the label set forth in § 4.25 or § 4.39(i) of this chapter in effect prior to September 24, 2021.
+
+[T.D. ATF-131, 48 FR 16246, Apr. 15, 1983, as amended by T.D. TTB-49, 71 FR 34527, June 15, 2006; T.D. TTB-153, 83 FR 64276, Dec. 14, 2018; T.D. TTB-172, 86 FR 47379, Aug. 25, 2021; 86 FR 52825, Sept. 23, 2021]

@@ -1,5 +1,7 @@
 ##### § 806.12 Constant-rate aquifer testing. #####
 
+Link to an amendment published at 86 FR 52967, Sept. 24, 2021.
+
 (a) Prior to submission of an application pursuant to § 806.13, a project sponsor seeking approval for a new groundwater withdrawal, a renewal of an expiring groundwater withdrawal, or an increase of a groundwater withdrawal shall perform a constant-rate aquifer test in accordance with this section.
 
 (b) The project sponsor shall prepare a constant-rate aquifer test plan for prior review and approval by Commission staff before testing is undertaken. Such plan shall include a groundwater availability analysis to determine the availability of water during a 1-in-10-year recurrence interval.

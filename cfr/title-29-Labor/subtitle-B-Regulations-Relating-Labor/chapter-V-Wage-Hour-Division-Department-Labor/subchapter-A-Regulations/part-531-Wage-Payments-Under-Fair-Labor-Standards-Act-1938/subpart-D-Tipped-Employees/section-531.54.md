@@ -1,5 +1,7 @@
 ##### § 531.54 Tip pooling. #####
 
+Link to an amendment published at 86 FR 52986, Sept. 24, 2021.
+
 (a) *Monies counted as tips.* Where employees practice tip splitting, as where waiters give a portion of their tips to the busser, both the amounts retained by the waiters and those given the bussers are considered tips of the individuals who retain them, in applying the provisions of sections 3(m)(2)(A) and 3(t). Similarly, where an accounting is made to an employer for his or her information only or in furtherance of a pooling arrangement whereby the employer redistributes the tips to the employees upon some basis to which they have mutually agreed among themselves, the amounts received and retained by each individual as his or her own are counted as his or her tips for purposes of the Act. Section 3(m)(2)(A) does not impose a maximum contribution percentage on mandatory tip pools.
 
 (b) *Prohibition against keeping tips* - (1) *Meaning of “keep.”* Section 3(m)(2)(B)'s prohibition against keeping tips applies regardless of whether an employer takes a tip credit. Section 3(m)(2)(B) expressly prohibits employers from requiring employees to share tips with managers or supervisors, as defined in § 531.52(b)(2), or employers, as defined in 29 U.S.C. 203(d). An employer does not violate section 3(m)(2)(B)'s prohibition against keeping tips if it requires employees to share tips with other employees who are eligible to receive tips.

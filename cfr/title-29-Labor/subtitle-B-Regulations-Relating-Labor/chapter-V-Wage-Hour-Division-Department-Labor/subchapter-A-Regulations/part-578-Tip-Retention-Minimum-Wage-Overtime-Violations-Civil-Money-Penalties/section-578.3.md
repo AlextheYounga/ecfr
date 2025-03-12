@@ -1,6 +1,6 @@
 ##### § 578.3 What types of violations may result in a penalty being assessed? #####
 
-Link to an amendment published at 85 FR 86791, Dec. 30, 2020.Link to an amendment published at 86 FR 11641, Feb. 26, 2021.Link to an amendment published at 86 FR 22597, Apr. 29, 2021.
+Link to an amendment published at 85 FR 86791, Dec. 30, 2020.Link to an amendment published at 86 FR 11641, Feb. 26, 2021.Link to an amendment published at 86 FR 22597, Apr. 29, 2021.Link to an amendment published at 86 FR 52986, Sept. 24, 2021.
 
 (a) A penalty of up to $2,074 per violation may be assessed against any person who repeatedly or willfully violates section 6 (minimum wage) or section 7 (overtime) of the Act. The amount of the penalty will be determined by applying the criteria in § 578.4.
 
