@@ -1,3 +1,5 @@
 ##### 809.405-1 Continuation of current contracts. #####
 
-Authority to make the determinations under FAR 9.405-1 is delegated to the SPE and is further delegated to the DSPE.
+(a) Notwithstanding the suspension, proposed debarment, or debarment of a contractor, VA may continue contracts or subcontracts in existence at the time the contractor was suspended, proposed for debarment, or debarred, unless the cognizant head of the contracting activity (HCA) directs otherwise. Examples of factors to be considered include, but are not limited to, potential costs associated with a termination, possible disruption to VA program objectives, and integrity of VA acquisition programs.
+
+(b) Authority to make the determinations under FAR 9.405-1(b) is delegated to the SDO and is further delegated to the HCA, who may delegate this authority, in writing, to a designee. The HCA or their designee must make a written determination of the compelling reasons in accordance with FAR 9.405-1(b). Compelling reasons for the purposes of FAR 9.405-1(b) include, but are not limited to, urgency of the need for new or continued work, lengthy time period to acquire the new work from other sources and meeting estimated quantity for requirements contracts.

@@ -1,29 +1,43 @@
-##### 852.242-70 Government construction contract administration. #####
+##### 852.242-70 Government Construction Contract Administration. #####
 
-Link to an amendment published at 85 FR 60078, Sept. 24, 2020.
+As prescribed in 842.272, insert the following clause. This is a fill-in clause.
 
-As prescribed in 842.271, insert the following clause. This is a fill-in clause.
-
-Government Construction Contract Administration (APR 2019)
+Government Construction Contract Administration (OCT 2020)
 
 (a) Contract administration functions set forth in FAR 42.302 are hereby delegated to:
 
-[*Insert name and office address of Contracting Officer*]
+[*Insert name and office address of Contracting Officer*][*Note: If any of the functions set forth in FAR 42.302 are to be retained by the Contracting Officer, identify those as well with the notation: “With the exception of the following contract administration functions: \_\_\_\_\_\_.” Delete this notation if not required.*]
 
-(b) The work will be under the direction of a Department of Veterans Affairs Contracting Officer, who may designate another VA employee to act as resident engineer at the construction site.
+(b) The following functions will be retained by the Contracting Officer or Administrative Contracting Officer (ACO) and are not redelegable to Resident Engineers:
 
-(c) Except as provided below, the resident engineer's directions will not conflict with or change contract requirements. Within the limits of any specific authority delegated by the Contracting Officer, the resident engineer may, by written direction, make changes in the work. The Contractor shall be advised of the extent of such authority prior to execution of any work under the contract.
+(1) Award of contract modifications either through supplemental agreements or change orders that exceed the ACO's appointed warrant limitations.
 
-(d) The Contracting Officer identified in paragraph (a) may further delegate the responsibilities below to the following warranted personnel on site:
+(2) Issuance of default letters.
 
-[*Insert name and office address of individual with limited authority*]
+(3) Issuance of Cure or Show-Cause Notices.
+
+(4) Suspension of work letters and/or modifications.
+
+(5) Issuance of Contracting Officer final determination letters.
+
+(6) Issuance of termination notices.
+
+(7) Authorization of final payment.
+
+(c) The work will be under the direction of a Department of Veterans Affairs Contracting Officer, who may designate another VA employee to act as resident engineer at the construction site who possesses limited warranted authority.
+
+(d) Except as provided below, the resident engineer's directions will not conflict with or change contract requirements. Within the limits of any specific authority delegated by the Contracting Officer, the resident engineer may, by written direction, make changes in the work. The Contractor shall be advised of the extent of such authority prior to execution of any work under the contract.
+
+(e) The Contracting Officer or an Administrative Contracting Officer identified in paragraph (a) may further delegate limited authority and specialized support services responsibilities below to the following warranted Resident Engineer personnel on site, not to exceed the dollar value and threshold of their warrant:
+
+[*Insert name and office address of Resident Engineer with limited authority*]
 
 (1) Conduct post-award orientation conferences.
 
-(2) Issue administrative changes, correcting errors or omissions in typing, Contractor address, facility or activity code, remittance address, computations which do not require additional contract funds, and other such changes (see FAR 43.101).
+(2) Issue administrative changes (see FAR 43.101) correcting errors or omissions, contractor address, facility or activity code, remittance address, computations which do not required additional contract funds, and other such changes.
 
-(3) For actions not to exceed $ [insert dollar amount] negotiate and execute supplemental agreements incorporating Contractor proposals resulting from change orders issued under the Changes clause.
+(3) For actions not to exceed $ [*Insert dollar amount*] negotiate and execute supplemental agreements resulting from change orders issued under the Changes clause.
 
-(4) Negotiate and execute supplemental agreements changing contract delivery schedules where the time extension does not exceed [insert number] calendar days.
+(4) Negotiate and execute supplemental agreements changing contract delivery schedules where the time extension does not exceed [*Insert number*] calendar days.
 
-(End of clause)[84 FR 9975, Mar. 19, 2019]
+(End of Clause)[85 FR 60078, Sept. 24, 2020]

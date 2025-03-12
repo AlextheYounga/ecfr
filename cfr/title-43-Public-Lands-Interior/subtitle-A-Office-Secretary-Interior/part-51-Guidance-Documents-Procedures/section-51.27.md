@@ -1,0 +1,3 @@
+##### § 51.27 No judicial review or enforceable rights. #####
+
+This part is intended to improve the internal management of the Department. As such, it is for the use of Department personnel only and is not intended to, and does not, create, any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its agencies or other entities, its officers or employees, or any other person.

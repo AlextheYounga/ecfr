@@ -1,12 +1,10 @@
 ##### 52.204-24 Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment. #####
 
-Link to an amendment published at 85 FR 53133, Aug. 27, 2020.
-
 As prescribed in 4.2105(a), insert the following provision:
 
-Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment (AUG 2020)
+Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment (OCT 2020)
 
-The Offeror shall not complete the representation at paragraph (d)(1) of this provision if the Offeror has represented that it “does not provide covered telecommunications equipment or services as a part of its offered products or services to the Government in the performance of any contract, subcontract, or other contractual instrument” in the provision at 52.204-26, Covered Telecommunications Equipment or Services - Representation, or in paragraph (v) of the provision at 52.212-3, Offeror Representations and Certifications-Commercial Items.
+The Offeror shall not complete the representation at paragraph (d)(1) of this provision if the Offeror has represented that it “does not provide covered telecommunications equipment or services as a part of its offered products or services to the Government in the performance of any contract, subcontract, or other contractual instrument” in paragraph (c)(1) in the provision at 52.204-26, Covered Telecommunications Equipment or Services - Representation, or in paragraph (v)(2)(i) of the provision at 52.212-3, Offeror Representations and Certifications-Commercial Items. The Offeror shall not complete the representation in paragraph (d)(2) of this provision if the Offeror has represented that it “does not use covered telecommunications equipment or services, or any equipment, system, or service that uses covered telecommunications equipment or services” in paragraph (c)(2) of the provision at 52.204-26, or in paragraph (v)(2)(ii) of the provision at 52.212-3.
 
 (a) *Definitions.* As used in this provision-
 
@@ -66,4 +64,4 @@ It [ ] does, [ ] does not use covered telecommunications equipment or services, 
 
 (B) If not associated with maintenance, the PSC of the service being provided; and explanation of the proposed use of covered telecommunications services and any factors relevant to determining if such use would be permissible under the prohibition in paragraph (b)(2) of this provision.
 
-(End of provision)[85 FR 42678, July 14, 2020]
+(End of provision)[85 FR 42678, July 14, 2020, as amended at 85 FR 53133, Aug. 27, 2020]

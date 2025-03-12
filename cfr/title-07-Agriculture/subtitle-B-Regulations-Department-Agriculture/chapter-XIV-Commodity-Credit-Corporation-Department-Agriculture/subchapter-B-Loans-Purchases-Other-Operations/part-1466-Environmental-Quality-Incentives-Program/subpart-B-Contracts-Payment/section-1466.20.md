@@ -8,7 +8,7 @@
 
 (4) Producers who are members of a joint operation may file a single application for ranking purposes for the joint operation.
 
-(b) *Ranking guidelines.* In evaluating EQIP applications, NRCS -
+(b) *Ranking guidelines.* In evaluating EQIP applications, NRCS—
 
 (1) Will establish ranking pools to address a specific resource concern by geographic area or agricultural operation type with advice from the State Technical Committee, Tribal Conservation Advisory Council, or local working groups;
 
@@ -28,11 +28,13 @@
 
 (vii) The ability to improve existing conservation practices or systems which are in place at the time the application is accepted, or that complete a conservation system;
 
-(viii) The applicant's meeting O&M requirements for the lifespan of conservation practices previously funded through EQIP; and
+(viii) The applicant's meeting O&M requirements for the lifespan of conservation practices previously funded through EQIP;
 
-(xi) Other locally defined pertinent factors, such as the location of the conservation practice, the extent of natural resource degradation, and the degree of cooperation by local producers to achieve environmental improvements.
+(ix) The land is enrolled under a CRP contract transitioning to a covered farmer or rancher as specified in 16 U.S.C. 3835(f); and
 
-(3) May give priority for applications that include water conservation or irrigation-related practices, and consistent with State law in which the applicant's eligible land is located, if the application -
+(x) Other locally defined pertinent factors, such as the location of the conservation practice, the extent of natural resource degradation, and the degree of cooperation by local producers to achieve environmental improvements.
+
+(3) May give priority for applications that include water conservation or irrigation-related practices, and consistent with State law in which the applicant's eligible land is located, if the application—
 
 (i) Results in a reduction in water use in the agricultural operation, or
 
@@ -65,3 +67,5 @@
 (2) If screening factors are used to designate a higher priority for ranking, all eligible applications screened with a higher priority are ranked and considered for funding before ranking applications that are a lower priority.
 
 (3) NRCS is the approving authority for all EQIP contracts.
+
+[84 FR 69280, Dec. 17, 2019, as amended at 85 FR 67647, Oct. 26, 2020]

@@ -1,5 +1,7 @@
 ##### § 3513.15 How do I apply for reduction of rental, royalties or minimum production? #####
 
+Link to an amendment published at 85 FR 67680, Oct. 26, 2020.
+
 You must send us two copies of your application with the following information for all leases involved:
 
 (a) The serial numbers;

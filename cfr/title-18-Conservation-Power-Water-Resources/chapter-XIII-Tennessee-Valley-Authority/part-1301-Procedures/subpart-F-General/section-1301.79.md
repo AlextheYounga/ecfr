@@ -1,0 +1,3 @@
+##### § 1301.79 Emergency situations, exigent circumstances, and legal requirement. #####
+
+In emergency situations or exigent circumstances, or when TVA is required by statutory deadline or court order to act more quickly than normal review procedures allow, TVA shall notify OIRA of the circumstances that foreclose compliance with these procedures, and shall comply with the requirements of this subpart, to the extent practicable, at the earliest opportunity after the exigent circumstances have ceased. Wherever practicable, TVA should schedule its guidance document review proceedings to permit sufficient time to comply with the procedures set forth in this subpart, given the nature and extent of the exigent circumstances.

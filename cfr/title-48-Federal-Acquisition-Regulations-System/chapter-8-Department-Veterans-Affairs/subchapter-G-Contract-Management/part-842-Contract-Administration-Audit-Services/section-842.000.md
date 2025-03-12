@@ -1,5 +1,5 @@
 ##### 842.000 Scope of part. #####
 
-Link to an amendment published at 85 FR 60077, Sept. 24, 2020.
+This part prescribes policies and procedures for contract administration and audit services for all Department of Veterans Affairs (VA) contracting activities.
 
-This part applies to all contracts, whether awarded through sealed bidding or negotiation.
+[85 FR 60077, Sept. 24, 2020]

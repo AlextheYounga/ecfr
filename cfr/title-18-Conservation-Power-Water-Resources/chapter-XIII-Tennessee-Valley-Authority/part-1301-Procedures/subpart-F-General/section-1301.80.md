@@ -1,0 +1,3 @@
+##### § 1301.80 No judicial review or enforceable rights. #####
+
+The regulations in this subpart are intended to improve TVA's issuance of guidance documents and processes and procedures that govern TVA's guidance documents. As such, this subpart is for the use of TVA personnel and contractors only, and is not intended to, and Does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, TVA, its agencies, agents, contractors, or other entities, officers, employees, or any other person.

@@ -1,0 +1,3 @@
+##### § 51.19 Petitions for guidance. #####
+
+Any person may petition the Secretary, through an electronic submission, to issue new, or withdraw or modify, a particular guidance document by using the procedures found in 43 CFR part 14 (§§ 14.1 through 14.4). The Secretary will delegate the petition to the appropriate Bureau/Office, which should respond to all requests in a timely manner but must respond no later than 90 days after receipt of the request.

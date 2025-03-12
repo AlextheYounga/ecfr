@@ -1,3 +1,3 @@
 ##### 809.405 Effect of listing. #####
 
-The authority under FAR 9.405(a), 9.405(d)(2), and 9.405(d)(3) to determine whether to solicit from, evaluate bids or proposals from, or award contracts to contractors whose names appear on the Excluded Parties List System is delegated to the SPE and is further delegated to the DSPE.
+The authority under FAR 9.405(a), 9.405(d)(2), and 9.405(d)(3) to determine whether to solicit from, evaluate bids or proposals from, or award contracts to contractors with active exclusions in the System for Award Management (SAM) is delegated to the Suspending and Debarring Official (SDO). This authority is further delegated to the HCAs, who may delegate this authority, in writing, to a designee.

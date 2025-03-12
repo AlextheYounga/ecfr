@@ -1,0 +1,3 @@
+##### § 51.25 Reports to Congress and the Comptroller General. #####
+
+Unless otherwise determined in writing by OES, it is the policy of the Department that upon issuing a guidance document determined to be “significant” within the meaning of § 51.13, the issuing Bureau/Office will submit a report to Congress and the Comptroller General in accordance with the procedures described in 5 U.S.C. 801 (the “Congressional Review Act”).

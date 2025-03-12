@@ -2,7 +2,7 @@
 
 (a) *General.* Program participation is voluntary. An applicant must develop an EQIP plan of operations for the eligible land to be treated which serves as the basis for the EQIP contract. Under EQIP, NRCS provides participants with technical assistance and payments to plan and apply needed conservation practices.
 
-(b) *Applicant eligibility.* To be eligible to participate in EQIP, an applicant must -
+(b) *Applicant eligibility.* To be eligible to participate in EQIP, an applicant must—
 
 (1) Be in compliance with the highly erodible land and wetland conservation provisions at 7 CFR part 12;
 
@@ -22,11 +22,11 @@
 
 (7) Provide a list of all members of the legal entity and embedded entities along with members' tax identification numbers and percentage interest in the entity.
 
-(c) *Consideration for enrollment of eligible land.* Eligible land, as defined in § 1466.3, may be considered for enrollment in EQIP only if NRCS determines that the land is -
+(c) *Consideration for enrollment of eligible land.* Eligible land, as defined in § 1466.3, may be considered for enrollment in EQIP only if NRCS determines that the land is—
 
 (1) Privately owned land;
 
-(2) Publicly owned land where -
+(2) Publicly owned land where—
 
 (i) The land is a working component of the participant's agricultural or forestry operation,
 
@@ -36,17 +36,19 @@
 
 (3) Indian land.
 
-(d) *Eligibility of a water management entity.* (1) Notwithstanding paragraphs (b) and (c) of this section, NRCS may enter into an EQIP contract with a water management entity provided the criteria in paragraphs (d)(1)(i) and (ii) of this section can be met:
+(d) *Eligibility of a water management entity.* (1) Notwithstanding paragraphs (b) and (c) of this section, NRCS may enter into an EQIP contract with a water management entity provided the criteria in paragraphs (d)(1)(i), (ii), and (iii) of this section can be met:
 
-(i) The entity is a public or semi-public agency or organization, and
+(i) The entity is a public or semipublic agency or organization,
 
-(ii) Its purpose is to assist private agricultural producers manage water distribution systems.
+(ii) Its purpose is to assist private agricultural producers manage water distribution or conservation systems, and
 
-(2) Water conservation or irrigation practices that are the subject of a contract entered into under paragraph (d)(1) of this section shall be implemented on -
+(iii) The water conservation or irrigation practices support a water conservation project under § 1466.20(c) that will effectively conserve water, provide fish and wildlife habitat, or provide for drought-related environmental mitigation, as determined by the Chief.
+
+(2) Water conservation or irrigation practices that are the subject of a contract entered into under paragraph (d)(1) of this section shall be implemented on—
 
 (i) Eligible land of a producer; or
 
-(ii) Land that is -
+(ii) Land that is—
 
 (A) Under the control of the water management entity, and
 
@@ -54,7 +56,7 @@
 
 (3)(i) The Chief may waive the average adjusted gross income limitation set forth in 7 CFR part 1400 or the aggregate payment limitation set forth in § 1466.24 of this part for a contract under paragraph (d)(1) of this section if the Chief determines that the waiver is necessary to fulfill the objectives of the project.
 
-(ii) In determining whether to grant a waiver under this paragraph, the Chief shall consider -
+(ii) In determining whether to grant a waiver under this paragraph, the Chief shall consider—
 
 (A) The number of producers who will benefit from the project;
 
@@ -67,3 +69,5 @@
 (E) Other criteria as determined by NRCS.
 
 (iii) Notwithstanding any waiver of the aggregate payment limitation, a water management entity or individual member thereof shall not receive, in the aggregate, directly or indirectly, payments under this paragraph, in aggregate, in excess of $900,000 for all contracts entered into under this paragraph by the water management entity during the period of fiscal years 2019 through 2023.
+
+[84 FR 69280, Dec. 17, 2019, as amended at 85 FR 67647, Oct. 26, 2020]

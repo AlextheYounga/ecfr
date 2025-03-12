@@ -1,0 +1,3 @@
+##### § 51.23 Exigent circumstances. #####
+
+In emergency situations or when the issuing Bureau/Office is required by statutory deadline or court order to act more quickly than normal review procedures allow, the issuing Bureau/Office must coordinate with OES to notify OIRA as soon as possible and, to the extent practicable, must comply with the requirements of this part at the earliest opportunity. Wherever practicable, the issuing Bureau/Office should schedule its proceedings to permit sufficient time to comply with the procedures set forth in this part.

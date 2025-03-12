@@ -1,0 +1,7 @@
+##### § 51.9 Cost and benefit estimates. #####
+
+(a) The Bureau/Office must evaluate whether, although not legally binding, an agency guidance document may result in a substantial economic impact (*e.g.,* by inducing private parties to alter their conduct to conform to recommended standards or practices) where “significant” as defined by E.O. 12866. E.O. 12866 requires agencies to estimate the net benefits of regulations. Net benefits are defined as total benefits minus total costs. When it is determined that a guidance document will be economically significant, the Bureau/Office must prepare a Regulatory Impact Analysis and make it publicly available in the same manner it what would accompany an economically significant rulemaking.
+
+(b) While it may be difficult to predict with precision the economic impact of voluntary guidance, the issuing Bureau/Office must, to the extent practicable, make a estimate the likely economic cost impact of the guidance document in order to determine whether the guidance document is economically significant. When a Bureau/Office is explaining to OMB's Office of Information and Regulatory Affairs (OIRA) whether it believes a guidance document is economically significant, it should, at a minimum, provide the same level of analysis that would be required for a major determination under the Congressional Review Act.1
+
+1 See OMB Memorandum M-19-14, Guidance on Compliance with the Congressional Review Act (April 11, 2019).

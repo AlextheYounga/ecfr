@@ -26,7 +26,7 @@ The definitions in this section apply to this part and all documents issued in a
 
 *Chief* means the Chief of NRCS, U.S. Department of Agriculture (USDA), or designee.
 
-*Comprehensive nutrient management plan (CNMP)* means a conservation plan that is specifically for an AFO. A CNMP identifies conservation practices and management activities which, when implemented as part of a conservation system, will manage sufficient quantities of manure, waste water, or organic by-products associated with a waste management facility. A CNMP incorporates practices to use animal manure and organic by-products as a beneficial resource while protecting all natural resources including water and air quality associated with an AFO. A CNMP is developed to assist an AFO owner/operator in meeting all applicable local, Tribal, State, and Federal water quality goals or regulations. For nutrient-impaired stream segments or water bodies, additional management activities or conservation practices may be required by local, Tribal, State, or Federal water quality goals or regulations.
+*Comprehensive nutrient management plan (CNMP)* means a conservation plan that is specifically for an AFO. A CNMP identifies conservation practices and management activities that, when implemented as part of a conservation system, will manage sufficient quantities of manure, waste water, or organic by-products associated with a waste management facility. A CNMP incorporates practices to use animal manure and organic by-products as a beneficial resource while protecting all applicable natural resources including water and air quality associated with an AFO. A CNMP is developed to assist an AFO owner or operator in meeting all applicable local, Tribal, State, and Federal water quality goals or regulations. For nutrient-impaired stream segments or water bodies, additional management activities or conservation practices may be required by local, Tribal, State, or Federal water quality goals or regulations.
 
 *Conservation benefit* means the improved condition of a natural resource concern resulting from the implementation of a conservation practice.
 
@@ -132,7 +132,7 @@ The definitions in this section apply to this part and all documents issued in a
 
 *Person* means, as defined in 7 CFR part 1400, an individual, natural person, and does not include a legal entity.
 
-*Priority resource concern* means a resource concern, as determined by the Chief, with input from the State Technical Committee, that -
+*Priority resource concern* means a resource concern, as determined by the Chief, with input from the State Technical Committee, that—
 
 (1) Is identified at the national, State, or local level as a priority for a particular area of a State; and
 
@@ -146,7 +146,7 @@ The definitions in this section apply to this part and all documents issued in a
 
 *Socially disadvantaged farmer or rancher* means a producer who is a member of a group whose members have been subjected to racial or ethnic prejudices without regard to its members' individual qualities. For an entity, at least 50-percent ownership in the business entity must be held by socially disadvantaged individuals.
 
-*Soil remediation* means scientifically based practices, as determined by NRCS, that -
+*Soil remediation* means scientifically based practices, as determined by NRCS, that—
 
 (1) Ensure the safety of producers from contaminants in soil;
 
@@ -154,7 +154,7 @@ The definitions in this section apply to this part and all documents issued in a
 
 (3) Regenerate and sustain the soil.
 
-*Soil testing* means the evaluation of soil health, including testing for the -
+*Soil testing* means the evaluation of soil health, including testing for the—
 
 (1) Optimal level of constituents in the soil, such as organic matter, nutrients, and the potential presence of soil contaminants (including heavy metals, volatile organic compounds, polycylic aromatic hydrocarbons, or other contaminants), as determined by NRCS; and
 
@@ -187,3 +187,5 @@ The definitions in this section apply to this part and all documents issued in a
 *Wildlife* means nondomesticated birds, fishes, reptiles, amphibians, invertebrates, and mammals.
 
 *Wildlife habitat* means the aquatic and terrestrial environments required for fish and wildlife to complete their life cycles, providing air, food, cover, water, and spatial requirements.
+
+[84 FR 69280, Dec. 17, 2019, as amended at 85 FR 67647, Oct. 26, 2020]

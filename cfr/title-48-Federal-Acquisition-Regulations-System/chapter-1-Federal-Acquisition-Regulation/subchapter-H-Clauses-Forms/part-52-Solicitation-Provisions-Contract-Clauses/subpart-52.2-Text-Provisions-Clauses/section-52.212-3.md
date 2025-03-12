@@ -1,10 +1,10 @@
 ##### 52.212-3 Offeror Representations and Certifications - Commercial Items. #####
 
-Link to an amendment published at 85 FR 53134, Aug. 27, 2020.Link to an amendment published at 85 FR 67616, Oct. 23, 2020.
+Link to an amendment published at 85 FR 67616, Oct. 23, 2020.
 
 As prescribed in 12.301(b)(2), insert the following provision:
 
-Offeror Representations and Certifications - Commercial Items (AUG 2020)
+Offeror Representations and Certifications - Commercial Items (OCT 2020)
 
 The Offeror shall complete only paragraph (b) of this provision if the Offeror has completed the annual representations and certification electronically in the System for Award Management (SAM) accessed through *https://www.sam.gov.* If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (v)) of this provision.
 
@@ -51,6 +51,8 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 *Place of manufacture* means the place where an end product is assembled out of components, or otherwise made or processed from raw materials into the finished product that is to be provided to the Government. If a product is disassembled and reassembled, the place of reassembly is not the place of manufacture.
 
 *Predecessor* means an entity that is replaced by a successor and includes any predecessors of the predecessor.
+
+*Reasonable inquiry* has the meaning provided in the clause 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment.
 
 *Restricted business operations* means business operations in Sudan that include power production activities, mineral extraction activities, oil-related activities, or the production of military equipment, as those terms are defined in the Sudan Accountability and Divestment Act of 2007 (Pub. L. 110-174). Restricted business operations do not include business operations that the person (as that term is defined in Section 2 of the Sudan Accountability and Divestment Act of 2007) conducting the business can demonstrate -
 
@@ -475,11 +477,15 @@ Predecessor legal name: \_\_\_\_.
 
 (3) *Representation.* By submission of its offer, the Offeror represents that it will not require its employees or subcontractors to sign or comply with internal confidentiality agreements or statements prohibiting or otherwise restricting such employees or subcontractors from lawfully reporting waste, fraud, or abuse related to the performance of a Government contract to a designated investigative or law enforcement representative of a Federal department or agency authorized to receive such information (*e.g.,* agency Office of the Inspector General).
 
-(v) *Covered Telecommunications Equipment or Services - Representation.* Section 889(a)(1)(A) of Public Law 115-232.
+(v) *Covered Telecommunications Equipment or Services - Representation.* Section 889(a)(1)(A) and section 889 (a)(1)(B) of Public Law 115-232.
 
 (1) The Offeror shall review the list of excluded parties in the System for Award Management (SAM) (*https://www.sam.gov*) for entities excluded from receiving federal awards for “covered telecommunications equipment or services”.
 
-(2) The Offeror represents that it [ ] does, [ ] does not provide covered telecommunications equipment or services as a part of its offered products or services to the Government in the performance of any contract, subcontract, or other contractual instrument.
+(2) The Offeror represents that -
+
+(i) It [ ] does, [ ] does not provide covered telecommunications equipment or services as a part of its offered products or services to the Government in the performance of any contract, subcontract, or other contractual instrument.
+
+(ii) After conducting a reasonable inquiry for purposes of this representation, that it [ ] does, [ ] does not use covered telecommunications equipment or services, or any equipment, system, or service that uses covered telecommunications equipment or services.
 
 (End of provision)
 

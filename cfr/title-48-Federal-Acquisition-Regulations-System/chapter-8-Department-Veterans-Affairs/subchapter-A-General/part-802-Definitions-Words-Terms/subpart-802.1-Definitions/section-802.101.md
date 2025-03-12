@@ -1,7 +1,5 @@
 ##### 802.101 Definitions. #####
 
-Link to an amendment published at 85 FR 60074, Sept. 24, 2020.
-
 *A/E* means architect/engineer.
 
 *Chief Acquisition Officer* means the Assistant Secretary for Management.
@@ -42,10 +40,6 @@ Link to an amendment published at 85 FR 60074, Sept. 24, 2020.
 
 (3) The veteran must have had a 100 percent service-connected disability rating or the veteran died as a direct result of a service-connected disability.
 
-*Suspending and Debarring Official (SDO)* means the Senior Procurement Executive (SPE) or Deputy Senior Procurement Executive (DSPE) if further delegated in writing by the SPE.
-
-*Suspension and Debarment Committee (S&D Committee)* means a committee authorized by the SDO to assist the SDO with suspension and debarment related matters.
-
 *VA* means the Department of Veterans Affairs.
 
 *VAAR* means the Department of Veterans Affairs Acquisition Regulation.
@@ -56,4 +50,4 @@ Link to an amendment published at 85 FR 60074, Sept. 24, 2020.
 
 *VISN* means Veterans Integrated Service Network, an integrated network of VA facilities that are focused on pooling and aligning resources to best meet local needs in the most cost-effective manner and provide greater access to care.
 
-[73 FR 2717, Jan. 15, 2008, as amended at 74 FR 64629, Dec. 8, 2009; 83 FR 16208, Apr. 16, 2018]
+[73 FR 2717, Jan. 15, 2008, as amended at 74 FR 64629, Dec. 8, 2009; 83 FR 16208, Apr. 16, 2018; 85 FR 60074, Sept. 24, 2020]

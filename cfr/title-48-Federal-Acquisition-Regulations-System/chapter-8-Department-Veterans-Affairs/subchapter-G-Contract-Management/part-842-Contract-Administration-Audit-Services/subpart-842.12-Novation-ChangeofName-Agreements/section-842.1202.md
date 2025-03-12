@@ -1,3 +1,5 @@
-##### § 842.1202 xxx #####
+##### 842.1202 Responsibility for executing agreements. #####
 
-Link to an amendment published at 85 FR 60078, Sept. 24, 2020.
+To avoid duplication of effort on the part of VA contracting offices in preparing and executing agreements to recognize a change of name or successor in interest involving multiple contracts issued by VA activities, only one agreement will be prepared and executed between the Government and the parties (transferor and transferee) and will be processed as forth in FAR 42.1203. The Office of Acquisition and Logistics, Risk Management and Compliance Service will, in each case, designate a cognizant HCA responsible for assigning a contracting officer. The designated contracting officer shall be responsible for taking all necessary and appropriate actions with respect to either recognizing or not recognizing a successor in interest or recognizing a change of name agreement and processing and executing the agreements as set forth in VA procedures.
+
+[85 FR 60078, Sept. 24, 2020]
