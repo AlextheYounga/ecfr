@@ -1,5 +1,7 @@
 ##### § 580.14 Power of attorney to review title documents and acknowledge disclosure. #####
 
+Link to an amendment published at 84 FR 52703, Oct. 2, 2019.
+
 (a) In circumstances where part A of a secure power of attorney form has been used pursuant to § 580.13 of this part, and if otherwise permitted by State law, a transferee may give a power of attorney to his transferor to review the title and any reassignment documents for mileage discrepancies, and if no discrepancies are found, to acknowledge disclosure on the title. The power of attorney shall be on part B of the form referred to in § 580.13(a), which shall contain a space for the information required to be disclosed under paragraphs (b), (c), (d), and (e) of this section and, in part C, a space for the certification required to be made under § 580.15.
 
 (b) The power of attorney must include a mileage disclosure from the transferor to the transferee and must be signed by the transferor, including the printed name, and contain the following information:

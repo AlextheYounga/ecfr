@@ -1,6 +1,6 @@
 ##### § 7.4 Receipt of correspondence. #####
 
-Link to an amendment published at 84 FR 37098, July 31, 2019.
+Link to an amendment published at 84 FR 37098, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.
 
 (a) *Correspondence Filed Through TEAS.* Correspondence relating to international applications and registrations and requests for extension of protection submitted through TEAS will be accorded the date and time on which the complete transmission is received in the Office based on Eastern Time. Eastern Time means eastern standard time or eastern daylight time, as appropriate.
 

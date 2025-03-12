@@ -1,6 +1,6 @@
 ##### § 2.2 Definitions. #####
 
-Link to an amendment published at 84 FR 37093, July 31, 2019.
+Link to an amendment published at 84 FR 37093, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.
 
 (a) *The Act* as used in this part means the Trademark Act of 1946, 60 Stat. 427, as amended, codified in 15 U.S.C. 1051 *et seq.*
 

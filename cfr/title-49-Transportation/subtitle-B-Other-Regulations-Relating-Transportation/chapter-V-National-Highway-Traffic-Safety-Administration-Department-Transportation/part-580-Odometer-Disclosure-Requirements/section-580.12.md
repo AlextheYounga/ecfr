@@ -1,5 +1,7 @@
 ##### § 580.12 Petition for extension of time. #####
 
+Link to an amendment published at 84 FR 52702, Oct. 2, 2019.
+
 (a) If a State cannot conform its laws to achieve compliance with this part by April 29, 1989, the State may petition for an extension of time.
 
 (b) Each petition filed under this section shall -

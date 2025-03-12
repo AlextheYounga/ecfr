@@ -1,5 +1,7 @@
 ##### § 580.17 Exemptions. #####
 
+Link to an amendment published at 84 FR 52704, Oct. 2, 2019.Link to a correction of the above amendment published at 84 FR 65019, Nov. 26, 2019.
+
 Notwithstanding the requirements of §§ 580.5 and 580.7:
 
 (a) A transferor or a lessee of any of the following motor vehicles need not disclose the vehicle's odometer mileage:

@@ -1,5 +1,7 @@
 ##### § 580.3 Definitions. #####
 
+Link to an amendment published at 84 FR 52699, Oct. 2, 2019.
+
 All terms defined in sections 2 and 402 of the Motor Vehicle Information and Cost Savings Act are used in their statutory meaning. Other terms used in this part are defined as follows:
 
 *Lessee* means any person, or the agent for any person, to whom a motor vehicle has been leased for a term of at least 4 months.

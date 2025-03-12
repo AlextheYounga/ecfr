@@ -1,5 +1,7 @@
 ##### § 580.7 Disclosure of odometer information for leased motor vehicles. #####
 
+Link to an amendment published at 84 FR 52701, Oct. 2, 2019.
+
 (a) Before executing any transfer of ownership document, each lessor of a leased motor vehicle shall notify the lessee in writing that the lessee is required to provide a written disclosure to the lessor regarding the mileage. This notice shall contain a reference to the federal law and shall state that failure to complete or providing false information may result in fines and/or imprisonment. Reference may also be made to applicable State law.
 
 (b) In connection with the transfer of ownership of the leased motor vehicle, the lessee shall furnish to the lessor a written statement regarding the mileage of the vehicle. This statement must be signed by the lessee and, in addition to the information required by paragraph (a) of this section, shall contain the following information:

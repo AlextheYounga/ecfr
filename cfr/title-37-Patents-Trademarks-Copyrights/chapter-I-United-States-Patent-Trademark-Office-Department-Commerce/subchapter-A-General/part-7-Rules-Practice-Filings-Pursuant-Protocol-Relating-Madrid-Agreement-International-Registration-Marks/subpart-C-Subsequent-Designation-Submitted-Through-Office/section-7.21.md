@@ -1,6 +1,6 @@
 ##### § 7.21 Subsequent designation. #####
 
-Link to an amendment published at 84 FR 37098, July 31, 2019.
+Link to an amendment published at 84 FR 37098, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.
 
 (a) A subsequent designation may be filed directly with the International Bureau, or, if it meets the requirements of paragraph (b) of this section, submitted through the Office.
 

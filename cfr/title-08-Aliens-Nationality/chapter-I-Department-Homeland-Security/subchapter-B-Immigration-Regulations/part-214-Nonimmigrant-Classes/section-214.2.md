@@ -1,5 +1,7 @@
 ##### § 214.2 Special requirements for admission, extension, and maintenance of status. #####
 
+Link to an amendment published at 84 FR 52363, Oct. 2, 2019.
+
 The general requirements in § 214.1 are modified for the following nonimmigrant classes:
 
 (a) *Foreign government officials* - (1) *General.* The determination by a consular officer prior to admission and the recognition by the Secretary of State subsequent to admission is evidence of the proper classification of a nonimmigrant under section 101(a)(15)(A) of the Act. An alien who has a nonimmigrant status under section 101(a)(15)(A)(i) or (ii) of the Act is to be admitted for the duration of the period for which the alien continues to be recognized by the Secretary of State as being entitled to that status. An alien defined in section (101)(a)(15)(A)(iii) of the Act is to be admitted for an initial period of not more than three years, and may be granted extensions of temporary stay in increments of not more than two years. In addition, the application for extension of temporary stay must be accompanied by a statement signed by the employing official stating that he/she intends to continue to employ the applicant and describing the type of work the applicant will perform.

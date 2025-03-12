@@ -1,5 +1,7 @@
 ##### § 580.9 Odometer record retention for auction companies. #####
 
+Link to an amendment published at 84 FR 52702, Oct. 2, 2019.
+
 Each auction company shall establish and retain at its primary place of business in an order that is appropriate to business requirements and that permits systematic retrieval, for five years following the date of sale of each motor vehicle, the following records:
 
 (a) The name of the most recent owner (other than the auction company);

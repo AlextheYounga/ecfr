@@ -1,6 +1,6 @@
 ##### § 2.18 Correspondence, with whom held. #####
 
-Link to an amendment published at 84 FR 37093, July 31, 2019.
+Link to an amendment published at 84 FR 37093, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.
 
 (a) *Establishing the correspondence address.* (1) If a written power of attorney that meets the requirements of § 2.17 is filed, the Office will send correspondence to the practitioner designated in the power.
 

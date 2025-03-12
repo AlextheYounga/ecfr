@@ -1,5 +1,7 @@
 ##### § 580.11 Petition for approval of alternate disclosure requirements. #####
 
+Link to an amendment published at 84 FR 52702, Oct. 2, 2019.
+
 (a) A State may petition NHTSA for approval of disclosure requirements which differ from the disclosure requirements of § 580.5, § 580.7, or § 580.13(f) of this part.
 
 (b) Each petition filed under this section shall -

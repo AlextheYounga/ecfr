@@ -1,6 +1,6 @@
 ##### § 2.111 Filing petition for cancellation. #####
 
-Link to an amendment published at 84 FR 37095, July 31, 2019.
+Link to an amendment published at 84 FR 37095, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.
 
 (a) A cancellation proceeding is commenced by filing in the Office a timely petition for cancellation with the required fee.
 

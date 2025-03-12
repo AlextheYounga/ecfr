@@ -1,6 +1,6 @@
 ##### § 2.197 Certificate of mailing or transmission. #####
 
-Link to an amendment published at 84 FR 37097, July 31, 2019.
+Link to an amendment published at 84 FR 37097, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.
 
 (a) Except in the cases enumerated in paragraph (a)(2) of this section, correspondence required to be filed in the Office within a set period of time will be considered as being timely filed if the procedure described in this section is followed. The actual date of receipt will be used for all other purposes.
 

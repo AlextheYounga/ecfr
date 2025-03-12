@@ -1,6 +1,6 @@
 ##### § 2.22 Requirements for a TEAS Plus application. #####
 
-Link to an amendment published at 84 FR 37093, July 31, 2019.
+Link to an amendment published at 84 FR 37093, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.
 
 (a) A trademark/service mark application for registration on the Principal Register under section 1 and/or section 44 of the Act will be entitled to a reduced filing fee under § 2.6(a)(1)(iv) if it is filed through TEAS and includes:
 

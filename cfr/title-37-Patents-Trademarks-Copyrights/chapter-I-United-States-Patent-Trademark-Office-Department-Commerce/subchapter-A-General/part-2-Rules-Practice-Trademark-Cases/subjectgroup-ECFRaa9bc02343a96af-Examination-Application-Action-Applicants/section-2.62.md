@@ -1,6 +1,6 @@
 ##### § 2.62 Procedure for filing response. #####
 
-Link to an amendment published at 84 FR 37095, July 31, 2019.
+Link to an amendment published at 84 FR 37095, July 31, 2019.This amendment was delayed until Dec. 21, 2019, at 84 FR 52363, Oct. 2, 2019.
 
 (a) *Deadline.* The applicant's response to an Office action must be received within six months from the date of issuance.
 

@@ -1,6 +1,6 @@
 ##### § 248.1 Eligibility. #####
 
-Link to an amendment published at 84 FR 41508, Aug. 14, 2019.
+Link to an amendment published at 84 FR 41508, Aug. 14, 2019.Link to a correction published at 84 FR 52363, Oct. 2, 2019.
 
 (a) *General.* Except for those classes enumerated in § 248.2, any alien lawfully admitted to the United States as a nonimmigrant, including an alien who acquired such status pursuant to section 247 of the Act, 8 U.S.C. 1257, who is continuing to maintain his or her nonimmigrant status, may apply to have his or her nonimmigrant classification changed to any nonimmigrant classification other than that of a spouse or fianc(e), or the child of such alien, under section 101(a)(15)(K) of the Act, 8 U.S.C. 1101(a)(15)(K), or as an alien in transit under section 101(a)(15)(C) of the Act, 8 U.S.C. 1101(a)(15)(C). An alien defined by section 101(a)(15)(V), or 101(a)(15)(U) of the Act, 8 U.S.C. 1101(a)(15)(V) or 8 U.S.C. 1101(a)(15)(U), may be accorded nonimmigrant status in the United States by following the procedures set forth respectively in § 214.15(f) or § 214.14 of this chapter.
 

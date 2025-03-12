@@ -1,5 +1,7 @@
 ##### § 580.5 Disclosure of odometer information. #####
 
+Link to an amendment published at 84 FR 52700, Oct. 2, 2019.
+
 (a) Each title, at the time it is issued to the transferee, must contain the mileage disclosed by the transferor when ownership of the vehicle was transferred and contain a space for the information required to be disclosed under paragraphs (c), (d), (e) and (f) of this section at the time of future transfer.
 
 (b) Any documents which are used to reassign a title shall contain a space for the information required to be disclosed under paragraphs (c), (d), (e) and (f) of this section at the time of transfer of ownership.

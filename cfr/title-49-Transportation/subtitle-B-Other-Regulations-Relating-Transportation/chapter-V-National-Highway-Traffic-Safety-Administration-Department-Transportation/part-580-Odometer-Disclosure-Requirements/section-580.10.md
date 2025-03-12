@@ -1,5 +1,7 @@
 ##### § 580.10 Application for assistance. #####
 
+Link to an amendment published at 84 FR 52702, Oct. 2, 2019.
+
 (a) A State may apply to NHTSA for assistance in revising its laws to comply with the requirements of 408(d) (1) and (2) of the Motor Vehicle Information and Cost Savings Act, 15 U.S.C. 1988(d) (1) and (2) and §§ 580.4 and 580.5 of this part.
 
 (b) Each application filed under section shall -
