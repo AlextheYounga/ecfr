@@ -8,10 +8,10 @@
 
 (b) When a surge option is needed in support of industrial capability production planning, use the clause at 252.217-7001, Surge Option, in solicitations and contracts.
 
-(1) Insert the percentage of increase the option represents in paragraph (a) of the clause to ensure adequate quantities are available to meet item requirements.
+(1) Insert the percentage or quantity of increase the option represents in paragraph (a) of the clause to ensure adequate quantities are available to meet item requirements.
 
 (2) Change 30 days in paragraphs (b)(2) and (d)(1) to longer periods, if appropriate.
 
 (3) Change the 24-month period in paragraph (c)(3), if appropriate.
 
-[63 FR 11529, Mar. 9, 1998, as amended at 71 FR 27642, May 12, 2006; 79 FR 65593, Nov. 5, 2014]
+[63 FR 11529, Mar. 9, 1998, as amended at 71 FR 27642, May 12, 2006; 79 FR 65593, Nov. 5, 2014; 83 FR 62503, Dec. 4, 2018]

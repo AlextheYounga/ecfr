@@ -20,4 +20,4 @@ The regulations in this part 411 relate to the provisions of section 1148 of the
 
 (i) Subpart I contains provisions that establish a procedure for resolving disputes under the Ticket to Work program.
 
-(j) Subpart J contains provisions explaining how the implementation of the Ticket to Work program affects alternate participants under the programs for payments for vocational rehabilitation services under subpart V of part 404 and subpart V of part 416 of this chapter.
+[66 FR 67420, Dec. 28, 2001, as amended at 83 FR 62459, Dec. 4, 2018]

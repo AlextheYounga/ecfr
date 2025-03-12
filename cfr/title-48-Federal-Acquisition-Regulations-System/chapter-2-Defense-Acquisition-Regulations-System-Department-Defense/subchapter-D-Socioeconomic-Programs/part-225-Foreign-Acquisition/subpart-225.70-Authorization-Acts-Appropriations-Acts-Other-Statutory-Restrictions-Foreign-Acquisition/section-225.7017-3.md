@@ -1,5 +1,7 @@
 ##### 225.7017-3 Exceptions. #####
 
+Link to an amendment published at 83 FR 62500, December 4, 2018.
+
 (a) *Free Trade Agreements.* For a covered contract that utilizes photovoltaic devices valued at $25,000 or more, photovoltaic devices may be utilized from a country covered under the acquisition by a Free Trade Agreement, depending upon dollar threshold (see FAR subpart 25.4).
 
 (b) *World Trade Organization - Government Procurement Agreement.* For covered contracts that utilize photovoltaic devices that are valued at $180,000 or more, only domestic photovoltaic devices or designated country photovoltaic devices may be utilized, unless acquisition of U.S.-made or qualifying country photovoltaic devices is allowed pursuant to a waiver in accordance with 225.7017-4(a).

@@ -1,5 +1,7 @@
 ##### 225.7017-5 Solicitation provision and contract clause. #####
 
+Link to an amendment published at 83 FR 62500, December 4, 2018.
+
 (a)(1) Use the clause at 252.225-7017, Photovoltaic Devices, in solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial items, for a contract that -
 
 (i) Is expected to exceed the simplified acquisition threshold; and

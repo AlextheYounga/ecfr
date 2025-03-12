@@ -6,8 +6,6 @@ For purposes of this subpart:
 
 *Act* means the Social Security Act, as amended.
 
-*Alternate participants* means any public or private agencies (except participating State VR agencies (see § 416.2204)), organizations, institutions, or individuals with whom the Commissioner has entered into an agreement or contract to provide VR services.
-
 *Blindness* means “blindness” as defined in section 1614(a)(2) of the Act.
 
 *Commissioner* means the Commissioner of Social Security or the Commissioner's designee.
@@ -32,4 +30,4 @@ For purposes of this subpart:
 
 *We, us,* and *our* refer to the Social Security Administration (SSA).
 
-[48 FR 6297, Feb. 10, 1983, as amended at 55 FR 8456, Mar. 8, 1990; 55 FR 19423, May 9, 1990; 59 FR 1637, Jan. 12, 1994; 59 FR 11916, Mar. 15, 1994; 61 FR 31026, June 19, 1996; 62 FR 38456, July 18, 1997; 68 FR 40125, July 7, 2003]
+[48 FR 6297, Feb. 10, 1983, as amended at 55 FR 8456, Mar. 8, 1990; 55 FR 19423, May 9, 1990; 59 FR 1637, Jan. 12, 1994; 59 FR 11916, Mar. 15, 1994; 61 FR 31026, June 19, 1996; 62 FR 38456, July 18, 1997; 68 FR 40125, July 7, 2003; 83 FR 62460, Dec. 4, 2018]

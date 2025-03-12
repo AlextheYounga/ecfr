@@ -44,6 +44,6 @@ The regulations in this part 404 (Regulations No. 4 of the Social Security Admin
 
 (u) Subpart U relates to the selection of a representative payee to receive benefits on behalf of a beneficiary and to the duties and responsibilities of a representative payee.
 
-(v) Subpart V relates to payments to State vocational rehabilitative agencies (or alternate participants) for vocational rehabilitation services.
+(v) Subpart V relates to payments to State vocational rehabilitative agencies for vocational rehabilitation services.
 
-[26 FR 7054, Aug. 5, 1961; 26 FR 7760, Aug. 19, 1961, as amended at 27 FR 4513, May 11, 1962; 28 FR 14492, Dec. 31, 1963; 51 FR 11718, Apr. 7, 1986; 62 FR 38450, July 18, 1997]
+[26 FR 7054, Aug. 5, 1961; 26 FR 7760, Aug. 19, 1961, as amended at 27 FR 4513, May 11, 1962; 28 FR 14492, Dec. 31, 1963; 51 FR 11718, Apr. 7, 1986; 62 FR 38450, July 18, 1997; 83 FR 62456, Dec. 4, 2018]

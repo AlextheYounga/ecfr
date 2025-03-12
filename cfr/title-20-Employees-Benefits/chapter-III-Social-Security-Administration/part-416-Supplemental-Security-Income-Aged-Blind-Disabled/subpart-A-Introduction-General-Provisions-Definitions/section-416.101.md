@@ -44,6 +44,6 @@ The regulations in this part 416 (Regulations No. 16 of the Social Security Admi
 
 (u) Subpart U of this part contains provisions with respect to agreements with States for Federal determination of Medicaid eligibility of applicants for supplemental security income.
 
-(v) Subpart V of this part explains when payments are made to State vocational rehabilitation agencies (or alternate participants) for vocational rehabilitation services.
+(v) Subpart V of this part explains when payments are made to State vocational rehabilitation agencies for vocational rehabilitation services.
 
-[39 FR 28625, Aug. 9, 1974, as amended at 51 FR 11718, Apr. 7, 1986; 62 FR 38454, July 18, 1997]
+[39 FR 28625, Aug. 9, 1974, as amended at 51 FR 11718, Apr. 7, 1986; 62 FR 38454, July 18, 1997; 83 FR 62459, Dec. 4, 2018]

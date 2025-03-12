@@ -1,5 +1,7 @@
 ##### 225.7017-4 Waivers. #####
 
+Link to an amendment published at 83 FR 62500, December 4, 2018.
+
 The head of the contracting activity is authorized to waive, on a case-by-case basis, the application of the restriction in 225.7017-2 upon determination that one of the following circumstances applies (see PGI 225.7017-4 for sample determinations and findings):
 
 (a) *Inconsistent with the public interest.* For example, a public interest waiver may be appropriate to allow -

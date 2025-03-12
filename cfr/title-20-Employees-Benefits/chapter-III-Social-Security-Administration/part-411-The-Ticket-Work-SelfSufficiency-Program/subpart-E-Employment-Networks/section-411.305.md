@@ -8,10 +8,12 @@ Any qualified agency or instrumentality of a State (or political subdivision the
 
 (c) One-stop delivery systems established under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2841 *et seq.*).
 
-(d) Alternate participants currently operating under the authority of section 222(d)(2) of the Social Security Act.
+(d) [Reserved]
 
 (e) Organizations administering Vocational Rehabilitation Services Projects for American Indians with Disabilities authorized under section 121 of part C of title I of the Rehabilitation Act of 1973, as amended (29 U.S.C. 750 *et seq.*).
 
 (f) Public or private schools that provide VR or employment services, conduct job training programs, or make services or programs available that can assist students with disabilities in acquiring specific job skills that lead to employment. This includes transition programs that can help students acquire work skills.
 
 (g) Employers that offer job training or other support services or assistance to help individuals with disabilities obtain and retain employment or arrange for individuals with disabilities to receive relevant services or assistance.
+
+[66 FR 67420, Dec. 28, 2001, as amended at 83 FR 62459, Dec. 4, 2018]

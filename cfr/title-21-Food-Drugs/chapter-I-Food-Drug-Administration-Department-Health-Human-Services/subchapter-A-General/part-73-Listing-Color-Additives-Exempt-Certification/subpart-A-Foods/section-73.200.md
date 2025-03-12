@@ -1,7 +1,5 @@
 ##### § 73.200 Synthetic iron oxide. #####
 
-Link to an amendment published at 83 FR 54872, Nov. 1, 2018.
-
 (a) *Identity.* (1) The color additive synthetic iron oxide consists of any one or any combination of synthetically prepared iron oxides, including the hydrated forms. It is free from admixture with other substances.
 
 (2) Color additive mixtures for food use made with synthetic iron oxide may contain only those diluents that are suitable and that are listed in this subpart as safe for use in color additive mixtures for coloring foods.
@@ -20,10 +18,12 @@ Arsenic (as As), not more than 5 parts per million.Lead (as Pb), not more than 2
 
 (ii) In soft and hard candy, mints, and chewing gum at levels consistent with good manufacturing practice, except that it may not be used to color foods for which standards of identity have been issued under section 401 of the Federal Food, Drug, and Cosmetic Act, unless the use of the added color is authorized by such standards.
 
+(iii) In dietary supplement tablets and capsules, including coatings and printing inks, such that the total amount of elemental iron per day for labeled dosages does not exceed 5 milligrams.
+
 (2) Synthetic iron oxide may be safely used for the coloring of dog and cat foods in an amount not exceeding 0.25 percent by weight of the finished food.
 
 (d) *Labeling requirements.* The label of the color additive and any mixture prepared therefrom intended solely or in part for coloring purposes shall conform to the requirements of § 70.25 of this chapter.
 
 (e) *Exemption from certification.* Certification of this color additive is not necessary for the protection of the public health, and therefore batches thereof are exempt from the certification requirements of section 721(c) of the act.
 
-[42 FR 15643, Mar. 22, 1977, as amended at 59 FR 10578, Mar. 7, 1994; 80 FR 14842, Mar. 20, 2015]
+[42 FR 15643, Mar. 22, 1977, as amended at 59 FR 10578, Mar. 7, 1994; 80 FR 14842, Mar. 20, 2015; 83 FR 54872, Nov. 1, 2018]

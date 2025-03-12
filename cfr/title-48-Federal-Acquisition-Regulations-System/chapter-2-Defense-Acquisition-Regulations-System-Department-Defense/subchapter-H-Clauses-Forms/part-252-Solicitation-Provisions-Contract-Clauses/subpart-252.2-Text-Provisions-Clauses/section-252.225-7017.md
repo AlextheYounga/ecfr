@@ -1,5 +1,7 @@
 ##### 252.225-7017 Photovoltaic Devices. #####
 
+                                                                                                            Link to an amendment published at 83 FR 62500, December 4, 2018.
+
                                                                                                             As prescribed in 225.7017-5(a), use the following clause:
 
                                                                                                             Photovoltaic Devices (JAN 2018)

@@ -2,17 +2,17 @@
 
 As prescribed in 217.208-70(b), use the following clause:
 
-Surge Option (AUG 1992)
+Surge Option (DEC 2018)
 
 (a) *General.* The Government has the option to -
 
-(1) Increase the quantity of supplies or services called for under this contract by no more than \_\_\_ percent; and/or
+(1) Increase the quantity of supplies or services called for under this contract by no more than \_\_percent or \_\_*[insert quantity and description of services or supplies to be increased];* and/or
 
 (2) Accelerate the rate of delivery called for under this contract, at a price or cost established before contract award or to be established by negotiation as provided in this clause.
 
-(b) *Schedule.* (1) When the Production Surge Plan (DI-MGMT-80969) is included in the contract, the option delivery schedule shall be the production rate provided with the Plan. If the Plan was negotiated before contract award, then the negotiated schedule shall be used.
+(b) *Schedule.* (1) When the Capabilities Analysis Plan (CAP) is included in the contract, the option delivery schedule shall be the production rate provided with the Plan. If the Plan was negotiated before contract award, then the negotiated schedule shall be used.
 
-(2) If there is no Production Surge Plan in the contract, the Contractor shall, within 30 days from the date of award, furnish the Contracting Officer a delivery schedule showing the maximum sustainable rate of delivery for items in this contract. This delivery schedule shall provide acceleration by month up to the maximum sustainable rate of delivery achievable within the Contractor's existing facilities, equipment, and subcontracting structure.
+(2) If there is no CAP in the contract, the Contractor shall, within 30 days from the date of award, furnish the Contracting Officer a delivery schedule showing the maximum sustainable rate of delivery for items in this contract. This delivery schedule shall provide acceleration by month up to the maximum sustainable rate of delivery achievable within the Contractor's existing facilities, equipment, and subcontracting structure.
 
 (3) The Contractor shall not revise the option delivery schedule without approval from the Contracting Officer.
 
@@ -26,4 +26,4 @@ Surge Option (AUG 1992)
 
 (2) Failure to agree on a cost or price in negotiations resulting from the exercise of this option shall constitute a dispute concerning a question of fact within the meaning of the Disputes clause of this contract. However, nothing in this clause shall excuse the Contractor from proceeding with the performance of the contract, as modified, while any resulting claim is being settled.
 
-(End of clause)[56 FR 36479, July 31, 1991, as amended at 57 FR 42633, Sept. 15, 1992]
+(End of clause)[56 FR 36479, July 31, 1991, as amended at 57 FR 42633, Sept. 15, 1992; 83 FR 62503, Dec. 4, 2018]

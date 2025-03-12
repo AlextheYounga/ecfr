@@ -1,5 +1,7 @@
 ##### 225.7017-1 Definitions. #####
 
+Link to an amendment published at 83 FR 62499, December 4, 2018.
+
 As used in this section -
 
 *Caribbean Basin country photovoltaic device* means a photovoltaic device that -

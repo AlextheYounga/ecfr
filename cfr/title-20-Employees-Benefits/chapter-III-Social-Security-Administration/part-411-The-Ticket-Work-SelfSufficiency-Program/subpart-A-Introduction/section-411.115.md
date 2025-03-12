@@ -12,7 +12,7 @@ As used in this part:
 
 (e) *Employment network* or *EN* means a qualified public or private entity that has entered into an agreement with us to serve under the Ticket to Work program and that assumes responsibility for the coordination and delivery of employment services, vocational rehabilitation services, or other support services to beneficiaries assigning tickets to it. The rules on employment networks are described in subpart E of this part (§§ 411.300-411.330). A State vocational rehabilitation agency may choose, on a case-by-case basis, to function as an employment network with respect to a beneficiary under the Ticket to Work program. The rules on State vocational rehabilitation agencies' participation in the Ticket to Work program are described in subpart F of this part (§§ 411.350-411.435).
 
-(f) *Employment plan* means an individual work plan described in paragraph (i) of this section, or an individualized plan for employment described in paragraph (j) of this section. When used in subpart J of this part, “employment plan” also means a “similar document” referred to in §§ 404.2114(a)(2) and 416.2214(a)(2) of this chapter under which an alternate participant under the programs for payments for vocational rehabilitation services (described in subpart V of part 404 and subpart V of part 416 of this chapter) provides services to a disabled beneficiary under those programs.
+(f) *Employment plan* means an individual work plan described in paragraph (i) of this section, or an individualized plan for employment described in paragraph (j) of this section.
 
 (g) *Federal SSI cash benefits* means a “Supplemental Security Income benefit under title XVI” based on blindness or disability as described in paragraphs (n) and (r) of this section.
 
@@ -42,4 +42,4 @@ As used in this part:
 
 (t) *We* or *us* means the Social Security Administration.
 
-[66 FR 67420, Dec. 28, 2001, as amended at 73 FR 29338, May 20, 2008]
+[66 FR 67420, Dec. 28, 2001, as amended at 73 FR 29338, May 20, 2008; 83 FR 62459, Dec. 4, 2018]

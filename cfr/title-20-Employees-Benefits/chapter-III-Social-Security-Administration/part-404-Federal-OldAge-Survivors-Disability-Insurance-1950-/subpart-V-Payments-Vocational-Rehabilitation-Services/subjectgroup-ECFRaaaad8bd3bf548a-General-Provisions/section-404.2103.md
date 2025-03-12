@@ -6,8 +6,6 @@ For purposes of this subpart:
 
 *Act* means the Social Security Act, as amended.
 
-*Alternate participants* means any public or private agencies (except participating State VR agencies (see § 404.2104)), organizations, institutions, or individuals with whom the Commissioner has entered into an agreement or contract to provide VR services.
-
 *Commissioner* means the Commissioner of Social Security or the Commissioner's designee.
 
 *Disability* means “disability” or “blindness” as defined in sections 216(i) and 223 of the Act.
@@ -32,4 +30,4 @@ For purposes of this subpart:
 
 *We, us and our* refer to the Social Security Administration (SSA).
 
-[48 FR 6293, Feb. 10, 1983, as amended at 55 FR 8454, Mar. 8, 1990; 59 FR 11912, Mar. 15, 1994; 62 FR 38452, July 18, 1997; 68 FR 40123, July 7, 2003]
+[48 FR 6293, Feb. 10, 1983, as amended at 55 FR 8454, Mar. 8, 1990; 59 FR 11912, Mar. 15, 1994; 62 FR 38452, July 18, 1997; 68 FR 40123, July 7, 2003; 83 FR 62456, Dec. 4, 2018]
