@@ -1,7 +1,5 @@
 ##### § 118.400 Where required. #####
 
-Link to an amendment published at 86 FR 73171, Dec. 27, 2021.
-
 (a) The following spaces must be equipped with a fixed gas fire extinguishing system, in compliance with § 118.410 of this part, or other fixed fire extinguishing system specifically approved by the Commandant, except as otherwise allowed by paragraph (b) of this section:
 
 (1) A space containing propulsion machinery;
@@ -42,22 +40,24 @@ Link to an amendment published at 86 FR 73171, Dec. 27, 2021.
 
 (3) A space containing an oil fired boiler.
 
-(d) All griddles, broilers, and deep fat fryers must be fitted with a grease extraction hood that complies with § 118.425.
+(d) Vessels described by 46 CFR 114.110(e) must have an interconnected fire detection system in compliance with 46 CFR 181.450 installed in all enclosed areas where passengers and crew have routine access, including accommodation spaces and machinery spaces.
 
-(e) Except for continuously manned operating stations as allowed by paragraph (f) of this section, each accommodation space, control space, and service space must be fitted with the following systems:
+(e) All griddles, broilers, and deep fat fryers must be fitted with a grease extraction hood that complies with § 118.425.
+
+(f) Except for continuously manned operating stations as allowed by paragraph (f) of this section, each accommodation space, control space, and service space must be fitted with the following systems:
 
 (1) A smoke actuated fire detection system of a type approved by the Commandant that is installed in accordance with 46 CFR part 76; and
 
 (2) A manual alarm system that meets the requirements in 46 CFR part 76.
 
-(f) On vessels with no overnight accommodation; public spaces that may be assumed to be occupied by a large number of persons when passengers are on board need only be served by a manual alarm system that meets the requirements in part 76 in subchapter H of this chapter. The alarm boxes must be located in the vicinity of each required exit, and easily seen in case of need.
+(g) On vessels with no overnight accommodation; public spaces that may be assumed to be occupied by a large number of persons when passengers are on board need only be served by a manual alarm system that meets the requirements in part 76 in subchapter H of this chapter. The alarm boxes must be located in the vicinity of each required exit, and easily seen in case of need.
 
-(g) An enclosed vehicle space must be fitted with an automatic sprinkler system that meets the requirements of 46 CFR part 76; and
+(h) An enclosed vehicle space must be fitted with an automatic sprinkler system that meets the requirements of 46 CFR part 76; and
 
 (1) A fire detection system of a type approved by the Commandant that is installed in accordance with 46 CFR part 76; or
 
 (2) A smoke detection system of a type approved by the Commandant that is installed in accordance with 46 CFR part 76.
 
-(h) A partially enclosed vehicle space must be fitted with a manual sprinkler system that meets the requirements of part 76 in subchapter H of this chapter.
+(i) A partially enclosed vehicle space must be fitted with a manual sprinkler system that meets the requirements of part 76 in subchapter H of this chapter.
 
-[CGD 85-080, 61 FR 917, Jan. 10, 1996, as amended at 62 FR 51351, Sept. 30, 1997; USCG-1999-6216, 64 FR 53227, Oct. 1, 1999; USCG-2012-0196; 81 FR 48270, July 22, 2016]
+[CGD 85-080, 61 FR 917, Jan. 10, 1996, as amended at 62 FR 51351, Sept. 30, 1997; USCG-1999-6216, 64 FR 53227, Oct. 1, 1999; USCG-2012-0196; 81 FR 48270, July 22, 2016]; USCG-2021-0306, 86 FR 73171, Dec. 27, 2021]

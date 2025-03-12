@@ -1,7 +1,5 @@
 ##### § 116.500 Means of escape. #####
 
-Link to an amendment published at 86 FR 73171, Dec. 27, 2021.
-
 (a) Except as otherwise provided in this section, each space accessible to passengers or used by the crew on a regular basis, must have at least two means of escape, one of which must not be a watertight door.
 
 (b) The two required means of escape must be widely separated and, if possible, at opposite ends or sides of the space to minimize the possibility of one incident blocking both escapes.
@@ -38,7 +36,9 @@ Link to an amendment published at 86 FR 73171, Dec. 27, 2021.
 
 (n) Footholds, handholds, ladders, and similar means provided to aid escape, must be suitable for use in emergency conditions, of rigid construction, and permanently fixed in position, unless they can be folded, yet brought into immediate service in an emergency.
 
-(o) On a vessel of not more than 19.8 meters (65 feet) in length, a window or windshield of sufficient size and proper accessibility may be used as one of the required means of escape from an enclosed space, provided it:
+(o) Vessels described by 46 CFR 114.110(f) must ensure that the two means of escape required in paragraph (b) of this section are unobstructed and not located directly above, or dependent on, a berth.
+
+(p) On a vessel of not more than 19.8 meters (65 feet) in length, a window or windshield of sufficient size and proper accessibility may be used as one of the required means of escape from an enclosed space, provided it:
 
 (1) Does not lead directly overboard;
 
@@ -46,7 +46,7 @@ Link to an amendment published at 86 FR 73171, Dec. 27, 2021.
 
 (3) Is suitably marked.
 
-(p) Only one means of escape is required from a space where:
+(q) Only one means of escape is required from a space where:
 
 (1) The space has a deck area less than 30 square meters (322 square feet);
 
@@ -56,6 +56,6 @@ Link to an amendment published at 86 FR 73171, Dec. 27, 2021.
 
 (4) If an accommodation space, the single means of escape does not include a deck scuttle or a ladder.
 
-(q) Alternative means of escape from spaces may be provided if acceptable to the Commanding Officer, Marine Safety Center.
+(r) Alternative means of escape from spaces may be provided if acceptable to the Commanding Officer, Marine Safety Center.
 
-[CGD 85-080, 61 FR 900, Jan. 10, 1996; 61 FR 20556, May 7, 1996, as amended by CGD 97-057, 62 FR 51047, Sept. 30, 1997; CGD 85-080, 62 FR 51350, Sept. 30, 1997; 62 FR 64305, Dec. 5, 1997; USCG-1998-4442, 63 FR 52191, Sept. 30, 1998]
+[CGD 85-080, 61 FR 900, Jan. 10, 1996; 61 FR 20556, May 7, 1996, as amended by CGD 97-057, 62 FR 51047, Sept. 30, 1997; CGD 85-080, 62 FR 51350, Sept. 30, 1997; 62 FR 64305, Dec. 5, 1997; USCG-1998-4442, 63 FR 52191, Sept. 30, 1998; USCG-2021-0306, 86 FR 73171, Dec. 27, 2021]

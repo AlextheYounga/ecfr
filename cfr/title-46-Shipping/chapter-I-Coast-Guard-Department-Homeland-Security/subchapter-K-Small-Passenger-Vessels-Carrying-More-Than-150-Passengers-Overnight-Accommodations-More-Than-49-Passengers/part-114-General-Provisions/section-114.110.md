@@ -1,7 +1,5 @@
 ##### § 114.110 General applicability. #####
 
-Link to an amendment published at 86 FR 73170, Dec. 27, 2021.Link to an amendment published at 87 FR 3449, Jan. 24, 2022.
-
 (a) Except as in paragraph (b) of this section, this subchapter applies to each vessel of less than 100 gross tons that carries more than 150 passengers, or has overnight accommodations for more than 49 passengers, and that -
 
 (1) Carries at least one passenger for hire;
@@ -32,4 +30,18 @@ For a vessel of less than 100 gross tons that carries 150 or less passengers or 
 
 (d) A vessel required by this subchapter to meet applicable sections of subchapter H shall follow the phase-in schedule for certain equipment and requirements found in this subchapter.
 
-[CGD 85-080, 61 FR 885, Jan. 10, 1996, as amended at 62 FR 51347, Sept. 30, 1997; USCG-2008-1107, 74 FR 63664, Dec. 4, 2009]
+(e) Irrespective of build date, a vessel to which this subchapter applies must meet 46 CFR 118.400(d), 118.500, 122.364, and 122.420(b) if it is not a ferry, and if it -
+
+(1) Has overnight accommodations for passengers; or
+
+(2) Is operating on a Coastwise or Oceans route.
+
+(f) Irrespective of build date, a vessel to which this subchapter applies must meet 46 CFR 116.115(c), 116.500(o), 122.410(b), 122.507, and 122.515 if it is not a ferry, and has overnight accommodations for passengers.
+
+(g) The requirements outlined in paragraphs (e) and (f) of this section must be met no later than March 28, 2022, except for:
+
+(1) The requirements to implement 46 CFR 118.400(d) and 118.500r, which must be met no later than December 27, 2022; and
+
+(2) The requirements to implement 46 CFR 116.115(c) and 116.500(o), which must be met no later than December 27, 2023.
+
+[CGD 85-080, 61 FR 885, Jan. 10, 1996, as amended at 62 FR 51347, Sept. 30, 1997; USCG-2008-1107, 74 FR 63664, Dec. 4, 2009; 86 FR 73170, Dec. 27, 2021; 87 FR 3449, Jan. 24, 2022]

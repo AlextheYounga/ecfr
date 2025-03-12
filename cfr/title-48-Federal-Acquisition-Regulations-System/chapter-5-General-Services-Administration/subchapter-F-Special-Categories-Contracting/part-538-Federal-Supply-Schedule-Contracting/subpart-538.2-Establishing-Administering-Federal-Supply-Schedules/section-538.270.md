@@ -1,3 +1,3 @@
-##### 538.270 Evaluation of Federal Supply Schedule (FSS) offers. #####
+##### 538.270 Solicitation, evaluation, and award of Federal Supply Schedule (FSS) contracts. #####
 
-Link to an amendment published at 87 FR 10314, Feb. 24, 2022.
+[87 FR 10314, Feb. 24, 2022]

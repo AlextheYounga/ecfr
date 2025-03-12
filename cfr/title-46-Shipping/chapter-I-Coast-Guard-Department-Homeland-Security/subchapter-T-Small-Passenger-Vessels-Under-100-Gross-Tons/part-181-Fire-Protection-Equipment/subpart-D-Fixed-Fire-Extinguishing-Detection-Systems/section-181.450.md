@@ -1,15 +1,15 @@
-##### § 181.450 Independent modular smoke detecting units. #####
+##### § 181.450 Interconnected detection and alarm system. #####
 
-Link to an amendment published at 86 FR 73172, Dec. 27, 2021.
+(a) An interconnected detection and alarm system must:
 
-(a) An independent modular smoke detecting unit must:
+(1) Consist of multiple-station smoke detectors listed by an NRTL, or independent laboratory accepted by the Commandant according to 46 CFR subpart 159.010, as meeting UL 217 (incorporated by reference, see 46 CFR 175.600);
 
-(1) Meet UL 217 (incorporated by reference, see 46 CFR 175.600) and be listed as a “Single Station Smoke detector - Also suitable for use in Recreational Vehicles,” or other standard specified by the Commandant;
+(2) Be installed such that the actuation of alarm in one area results in both audible and visual alarms in all areas required by 46 CFR 181.405(c) or 118.400(d) to be protected by the interconnected detection and alarm system;
 
-(2) Contain an independent power source; and
+(3) Contain an independent power source; and
 
-(3) Alarm on low power.
+(4) Alarm on low power.
 
-(b) [Reserved]
+(b) A fire detection and alarm system of an approved type installed in accordance with 46 CFR part 76 would satisfy the requirements of this section.
 
-[CGD 85-080, 61 FR 982, Jan. 10, 1996, as amended by USCG-2003-16630, 73 FR 65207, Oct. 31, 2008]
+[USCG-2021-0306, 86 FR 73172, Dec. 27, 2021]

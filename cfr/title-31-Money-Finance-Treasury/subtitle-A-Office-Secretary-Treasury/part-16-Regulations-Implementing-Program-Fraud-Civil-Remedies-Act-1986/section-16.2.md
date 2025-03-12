@@ -1,7 +1,5 @@
 ##### § 16.2 Definitions. #####
 
-Link to an amendment published at 87 FR 10309, Feb. 24, 2022.
-
 *ALJ* means an Administrative Law Judge in the authority appointed pursuant to 5 U.S.C. 3105 or detailed to the authority pursuant to 5 U.S.C. 3344.
 
 *Authority* means the Department of the Treasury.
@@ -10,13 +8,13 @@ Link to an amendment published at 87 FR 10309, Feb. 24, 2022.
 
 *Benefit,* when used in the context of false statements made with respect to a benefit, means anything of value including but not limited to any advantage, preference, privilege, license, permit, favorable decision, ruling, status, or loan guarantee. This definition should be distinguished from the limitations on coverage of these regulations with respect to beneficiaries of specific benefit programs which are found in § 16.3(c) of this part.
 
-*Claim* means any request, demand, or submission -
+*Claim* means any request, demand, or submission—
 
 (a) Made to the authority for property, services, or money (including money representing grants, loans, insurance, or benefits);
 
-(b) Made to a recipient of property, services, or money from the authority or to a party to a contract with the authority -
+(b) Made to a recipient of property, services, or money from the authority or to a party to a contract with the authority—
 
-(1) For property or services if the United States -
+(1) For property or services if the United States—
 
 (i) Provided such property or services;
 
@@ -24,7 +22,7 @@ Link to an amendment published at 87 FR 10309, Feb. 24, 2022.
 
 (iii) Will reimburse such recipient or party for the purchase of such property or services; or
 
-(2) For the payment of money (including money representing grants, loans, insurance, or benefits) if the United States -
+(2) For the payment of money (including money representing grants, loans, insurance, or benefits) if the United States—
 
 (i) Provided any portion of the money requested or demanded; or
 
@@ -44,9 +42,9 @@ Link to an amendment published at 87 FR 10309, Feb. 24, 2022.
 
 *Initial decision* means the written decision of the ALJ required by § 16.10 or § 16.37, and includes a revised initial decision issued following a remand or a motion for reconsideration.
 
-*Investigating official* means the Inspector General of the Department of the Treasury.
+*Investigating official* means any Inspector General, including any Special Inspector General, with investigatory authority over programs of the Department of the Treasury, as applicable.
 
-*Knows or has reason to know,* means that a person, with respect to a claim or statement -
+*Knows or has reason to know,* means that a person, with respect to a claim or statement—
 
 (a) Has actual knowledge that the claim or statement is false, fictitious, or fraudulent;
 
@@ -62,7 +60,7 @@ Link to an amendment published at 87 FR 10309, Feb. 24, 2022.
 
 *Representative* means an attorney designated in writing by a defendant to appear on his or her behalf in administrative hearings before the Department and to represent a defendant in all other legal matters regarding a complaint made pursuant to these regulations.
 
-*Reviewing official* means the General Counsel, or another individual in the Legal Division of the Department designated by the General Counsel, who is -
+*Reviewing official* means the General Counsel, or another individual in the Legal Division of the Department designated by the General Counsel, who is—
 
 (a) Serving in a position for which the rate of basic pay is not less than the minimum rate of basic pay for grade GS-16; and
 
@@ -70,12 +68,14 @@ Link to an amendment published at 87 FR 10309, Feb. 24, 2022.
 
 (c) Is not employed in the organization unit of the authority in which the investigating official is employed.
 
-*Statement* means any representation, certification, affirmation, document, record, or accounting or bookkeeping entry made -
+*Statement* means any representation, certification, affirmation, document, record, or accounting or bookkeeping entry made—
 
 (a) With respect to a claim or to obtain the approval or payment of a claim (including relating to eligibility to make a claim); or
 
-(b) With respect to (including relating to eligibility for) -
+(b) With respect to (including relating to eligibility for)—
 
 (1) A contract with, or a bid or proposal for a contract with; or
 
 (2) A grant, loan, or benefit from, the authority, or any State, political subdivision of a State, or other party, if the United States Government provides any portion of the money or property under such contract or for such grant, loan, or benefit, or if the government will reimburse such State, political subdivision, or party of any portion of the money or property under such contract or for such grant, loan, or benefit, except that such term does not include any claim made in any return of tax imposed by the Internal Revenue Code of 1954.
+
+[52 FR 35071, Sept. 17, 1987, as amended at 87 FR 10309, Feb. 24, 2022]

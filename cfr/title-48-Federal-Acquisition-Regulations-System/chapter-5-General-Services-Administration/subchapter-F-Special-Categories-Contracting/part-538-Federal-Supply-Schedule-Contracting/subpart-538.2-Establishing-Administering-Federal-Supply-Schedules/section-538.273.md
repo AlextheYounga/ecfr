@@ -1,7 +1,5 @@
 ##### 538.273 FSS solicitation provisions and contract clauses. #####
 
-Link to an amendment published at 87 FR 10314, Feb. 24, 2022.
-
 (a) As prescribed in this paragraph, insert the following provisions in the beginning of FSS solicitations:
 
 (1) 552.238-70, Cover Page for Worldwide Federal Supply Schedules. Use in all FSS solicitations. Use Alternate I for single award Federal Supply Schedules.
@@ -126,4 +124,8 @@ Link to an amendment published at 87 FR 10314, Feb. 24, 2022.
 
 (35) 552.238-111, Environmental Protection Agency Registration Requirement. Use only in FSS solicitations and contracts for supplies when products may require registration with the Environmental Protection Agency.
 
-[84 FR 17039, Apr. 23, 2019; 84 FR 22382, May 17, 2019, as amended at 86 FR 55521, Oct. 6, 2021; 86 FR 68443, Dec. 2, 2021; 87 FR 6045, Feb. 3, 2022]
+(36) 552.238-116, Option to Extend the Term of the FSS Contract. Use in FSS solicitations and contracts when appropriate.
+
+(e) Insert the following fill-in information within the blank of paragraph (d) of FAR clause 52.216-22, Indefinite Quantity: “the completion of customer order, including options, 60 months following the expiration of the FSS contract ordering period”.
+
+[84 FR 17039, Apr. 23, 2019; 84 FR 22382, May 17, 2019, as amended at 86 FR 55521, Oct. 6, 2021; 86 FR 68443, Dec. 2, 2021; 87 FR 6045, Feb. 3, 2022; 87 FR 10314, Feb. 24, 2022]

@@ -1,7 +1,5 @@
 ##### § 175.400 Definitions of terms used in this subchapter. #####
 
-Link to an amendment published at 86 FR 73172, Dec. 27, 2021.
-
 The following terms are used in this subchapter:
 
 *Accommodation space* means a space (including a space that contains a microwave oven or other low heat appliance with a maximum heating element temperature of less than 121 °C (250 °F)) used as a:
@@ -134,11 +132,11 @@ The following terms are used in this subchapter:
 
 (3) Those waters less than 20 nautical miles from a harbor of safe refuge that the cognizant Officer in Charge, Marine Inspection, determines are not partially protected waters or protected waters because they present special hazards due to weather or other circumstances.
 
-*Ferry* means a vessel that is used on a regular schedule -
+*Ferry* means a vessel that is used on a regular schedule—
 
 (1) To provide transportation only between places that are not more than 300 miles apart; and
 
-(2) To transport only -
+(2) To transport only—
 
 (i) Passengers; or
 
@@ -204,6 +202,8 @@ The following terms are used in this subchapter:
 
 *Limited coastwise* means a route that is not more than 20 nautical miles from a harbor of safe refuge.
 
+*Listed* means equipment or materials included in a list published by an organization that is an accepted independent laboratory, as defined in 46 CFR 159.010, or a nationally recognized testing laboratory, as set forth in 29 CFR 1910.7, whose listing states that either the equipment or material meets appropriate designated standards.
+
 *Machinery space* means a space including a trunk, alleyway, stairway, or duct to such a space, that contains:
 
 (1) Propulsion machinery of any type;
@@ -238,7 +238,9 @@ The following terms are used in this subchapter:
 
 *Means of escape* means a continuous and unobstructed way of exit travel from any point in a vessel to an embarkation station. A means of escape can be both vertical and horizontal, and include doorways, passageways, stairtowers, stairways, and public spaces. Cargo spaces, machinery spaces, rest rooms, hazardous areas determined by the cognizant Officer in Charge Marine Inspection, escalators, and elevators must not be any part of the means of escape.
 
-*New OSV* means an OSV -
+*Nationally recognized testing laboratory* or *NRTL* means an organization that the Occupational Safety and Health Administration (OSHA) has recognized as meeting the requirements in 29 CFR 1910.7.
+
+*New OSV* means an OSV—
 
 (1) That was contracted for, or the keel of which was laid, on or after March 15, 1996; or
 
@@ -274,7 +276,7 @@ The following terms are used in this subchapter:
 
 *Officer In Charge, Marine Inspection,* or *OCMI* means an officer of the Coast Guard designated as such by the Commandant and who, under the direction of the Coast Guard District Commander, is in charge of a marine inspection zone, described in part 1 of this chapter, for the performance of duties with respect to the inspection, enforcement, and administration of vessel safety and navigation laws and regulations. The “cognizant OCMI” is the OCMI that has immediate jurisdiction over a vessel for the purpose of performing the duties previously described.
 
-*Offshore supply vessel (OSV)* means a vessel that -
+*Offshore supply vessel (OSV)* means a vessel that—
 
 (1) Is propelled by machinery other than steam;
 
@@ -368,7 +370,7 @@ The following terms are used in this subchapter:
 
 (1) With a thorough knowledge of diving operations, including diving limitations as related to diver safety and diver supervision;
 
-(2) Having a familiarity with, but not limited to, the following -
+(2) Having a familiarity with, but not limited to, the following—
 
 (i) The camera used during the AHE; and
 
