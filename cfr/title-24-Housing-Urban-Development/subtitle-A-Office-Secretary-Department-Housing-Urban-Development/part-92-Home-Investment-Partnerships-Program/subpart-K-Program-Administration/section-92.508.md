@@ -94,9 +94,7 @@
 
 (B) Documentation of the actions the participating jurisdiction has taken to affirmatively further fair housing pursuant to §§ 5.151, 5.152, 91.225, 91.325, and 91.425 of this title.
 
-(ii) Affirmative marketing and MBE/WBE records.
-
-(A) Records demonstrating compliance with the affirmative marketing procedures and requirements of § 92.351.
+(ii) *Affirmative marketing and MBE/WBE records.* (A) Records demonstrating compliance with the affirmative marketing procedures and requirements of § 92.351.
 
 (B) Documentation and data on the steps taken to implement the jurisdiction's outreach programs to minority-owned (MBE) and female-owned (WBE) businesses including data indicating the racial/ethnic or gender character of each business entity receiving a contract or subcontract of $25,000 or more paid, or to be paid, with HOME funds; the amount of the contract or subcontract, and documentation of participating jurisdiction's affirmative steps to assure that minority business and women's business enterprises have an equal opportunity to obtain or compete for contracts and subcontracts as sources of supplies, equipment, construction, and services.
 
@@ -138,4 +136,4 @@
 
 (2) HUD and the Comptroller General of the United States, any of their representatives, have the right of access to any pertinent books, documents, papers or other records of the participating jurisdiction, state recipients, and subrecipients, in order to make audits, examinations, excerpts, and transcripts.
 
-[61 FR 48750, Sept. 16, 1996, as amended at 64 FR 50224, Sept. 15, 1999; 67 FR 61757, Oct. 1, 2002; 72 FR 73493, Dec. 27, 2007; 78 FR 44682, July 24, 2013; 80 FR 42366, July 16, 2015; 80 FR 75935, Dec. 7, 2015; 81 FR 80805, Nov. 16, 2016; 85 FR 47910, Aug. 7, 2020; 85 FR 61567, Sept. 29, 2020; 85 FR 82137, Dec. 17, 2020; 86 FR 30792, June 10, 2021; 86 FR 34943, July 1, 2021; 86 FR 30792, June 10, 2021]
+[61 FR 48750, Sept. 16, 1996, as amended at 64 FR 50224, Sept. 15, 1999; 67 FR 61757, Oct. 1, 2002; 72 FR 73493, Dec. 27, 2007; 78 FR 44682, July 24, 2013; 80 FR 42366, July 16, 2015; 80 FR 75935, Dec. 7, 2015; 81 FR 80805, Nov. 16, 2016; 85 FR 47910, Aug. 7, 2020; 85 FR 61567, Sept. 29, 2020; 85 FR 82137, Dec. 17, 2020; 86 FR 30792, June 10, 2021; 86 FR 34943, July 1, 2021; 86 FR 30792, June 10, 2021; 86 FR 32767, June 23, 2021]

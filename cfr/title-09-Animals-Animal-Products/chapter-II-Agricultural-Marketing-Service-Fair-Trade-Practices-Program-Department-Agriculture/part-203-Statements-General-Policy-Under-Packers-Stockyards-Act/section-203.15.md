@@ -1,5 +1,7 @@
 ##### § 203.15 Trust benefits under sections 206 and 207 of the Act. #####
 
+Link to an amendment published at 88 FR 41022, June 23, 2023.
+
 (a) Within the times specified under sections 206(b) and 207(d) of the Act, any livestock seller, live poultry seller or grower, to preserve his interest in the statutory trust, must give written notice to the appropriate packer or live poultry dealer and file such notice with the Secretary. One of the ways to satisfy the notification requirement under these provisions is to make certain that notice is given to the packer or live poultry dealer within the prescribed time by letter, mailgram, or telegram stating:
 
 (1) Notification to preserve trust benefits:

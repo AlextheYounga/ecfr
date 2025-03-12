@@ -1,5 +1,7 @@
 ##### § 111.1 Definitions. #####
 
+Link to an amendment published at 88 FR 41258, June 23, 2023.
+
 When used in this part, the following terms have the meanings indicated:
 
 *Appropriate Executive Director, Office of Trade.* “Appropriate Executive Director, Office of Trade” means the Executive Director responsible for broker management.

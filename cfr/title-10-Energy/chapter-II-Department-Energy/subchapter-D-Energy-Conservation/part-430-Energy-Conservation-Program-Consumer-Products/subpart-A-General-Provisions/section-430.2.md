@@ -1,6 +1,6 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 88 FR 33544, May 24, 2023.Link to an amendment published at 88 FR 34703, May 30, 2023.Link to an amendment published at 88 FR 39959, June 20, 2023.Link to an amendment published at 88 FR 40473, June 21, 2023.
+Link to an amendment published at 88 FR 34703, May 30, 2023.Link to an amendment published at 88 FR 39959, June 20, 2023.Link to an amendment published at 88 FR 40473, June 21, 2023.
 
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows—
 
@@ -414,7 +414,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *External power supply design family* means a set of external power supply basic models, produced by the same manufacturer, which share the same circuit layout, output power, and output cord resistance, but differ in output voltage.
 
-*Faucet* means a lavatory faucet, kitchen faucet, metering faucet, or replacement aerator for a lavatory or kitchen faucet.
+*Faucet* means a lavatory faucet, kitchen faucet, metering faucet, or replacement aerator for a lavatory or kitchen faucet, excluding low-pressure water dispensers and pot fillers.
 
 *Fitting* means a device that controls and guides the flow of water.
 
@@ -702,6 +702,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Low pressure steam or hot water boiler* means an electric, gas or oil burning furnace designed to supply low pressure steam or hot water for space heating application. A low pressure steam boiler operates at or below 15 pounds psig steam pressure; a hot water boiler operates at or below 160 psig water pressure and 250 °F. water temperature.
 
+*Low-pressure water dispenser* means a terminal fitting that dispenses drinking water at a pressure of 105 kPA (15 psi) or less.
+
 *Low-voltage external power supply* means an external power supply with a nameplate output voltage less than 6 volts and nameplate output current greater than or equal to 550 milliamps.
 
 *LP-gas* means liquified petroleum gas, and includes propane, butane, and propane/butane mixtures.
@@ -801,6 +803,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 *Portable electric heater* means an electric heater which is intended to stand unsupported, and can be moved from place to place within a structure. It is connected to electric supply by means of a cord and plug, and transfers heat by radiation and/or convention (either natural or forced).
 
 *Portable electric spa* means a factory-built electric spa or hot tub, supplied with equipment for heating and circulating water at the time of sale or sold separately for subsequent attachment.
+
+*Pot filler* means a terminal fitting that can accommodate only a single supply water inlet, with an articulated arm or the equivalent that allows the product to reach to fill vessels when in use and allows the product to be retracted when not in use.
 
 *Primary electric heater* means an electric heater that is the principal source of heat for a structure and includes baseboard electric heaters, ceiling electric heaters, floor electric heaters, and wall electric heaters.
 

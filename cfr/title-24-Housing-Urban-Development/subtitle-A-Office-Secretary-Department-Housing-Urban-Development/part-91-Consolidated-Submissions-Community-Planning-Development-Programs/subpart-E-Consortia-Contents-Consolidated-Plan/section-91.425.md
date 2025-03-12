@@ -24,4 +24,4 @@
 
 (b) *CDBG entitlement community certifications.* A CDBG entitlement community that is a member of a consortium must submit the certifications required by § 91.225 (a) and (b), and, if applicable, of § 91.225 (c) and (d).
 
-(Approved by the Office of Management and Budget under control number 2506-0117)[60 FR 1896, Jan. 5, 1995, as amended at 72 FR 73493, Dec. 27, 2007; 80 FR 42366, July 16, 2015; 85 FR 47910, Aug. 7, 2020; 85 FR 61567, Sept. 29, 2020; 86 FR 30792, June 10, 2021; 86 FR 30792, June 10, 2021]
+(Approved by the Office of Management and Budget under control number 2506-0117)[60 FR 1896, Jan. 5, 1995, as amended at 72 FR 73493, Dec. 27, 2007; 80 FR 42366, July 16, 2015; 85 FR 47910, Aug. 7, 2020; 85 FR 61567, Sept. 29, 2020; 86 FR 30792, June 10, 2021]

@@ -1,5 +1,7 @@
 ##### § 111.30 Notification of change of business address, organization, name, or location of business records; status report; termination of brokerage business. #####
 
+Link to an amendment published at 88 FR 41258, June 23, 2023.
+
 (a) *Change of address.* A broker is responsible for providing CBP with the broker's current addresses, which include the broker's office of record address as defined in § 111.1, an email address, and, if the broker is not actively engaged in transacting business as a broker, the broker's non-business address. If a broker does not receive mail at the broker's office of record or non-business address, the broker must also provide CBP with a valid address at which he or she receives mail. When address information (the broker's office of record address, mailing address, email address) changes, or the broker is no longer actively engaged in transacting business as a broker, he or she must update his or her address information within ten (10) calendar days through a CBP-authorized electronic data interchange (EDI) system. If a CBP-authorized EDI system is not available, then address updates must be provided in writing within ten (10) calendar days to the processing Center.
 
 (b) *Change in organization.* A partnership, association, or corporation broker must update within ten (10) calendar days in writing to the processing Center any of the following:

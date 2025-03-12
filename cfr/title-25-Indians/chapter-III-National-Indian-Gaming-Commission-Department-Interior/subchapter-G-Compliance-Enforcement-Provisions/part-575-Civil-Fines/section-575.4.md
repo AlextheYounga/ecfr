@@ -1,5 +1,7 @@
 ##### § 575.4 When civil fine will be assessed. #####
 
+Link to an amendment published at 88 FR 41027, June 23, 2023.
+
 The Chairman may assess a civil fine, not to exceed $57,527 per violation, against a tribe, management contractor, or individual operating Indian gaming for each notice of violation issued under § 573.3 of this chapter after considering the following factors:
 
 (a) *Economic benefit of noncompliance.* The Chairman shall consider the extent to which the respondent obtained an economic benefit from the noncompliance that gave rise to a notice of violation, as well as the likelihood of escaping detection.

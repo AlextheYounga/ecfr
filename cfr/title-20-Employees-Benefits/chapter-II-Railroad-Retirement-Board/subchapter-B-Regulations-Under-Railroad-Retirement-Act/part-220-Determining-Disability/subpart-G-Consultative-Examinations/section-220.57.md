@@ -20,4 +20,4 @@
 
 (7) The VTT examination complies with all requirements in this subpart governing consultative examinations.
 
-[87 FR 27513, May 9, 2022]
+[56 FR 12980, Mar. 28, 1991, as amended at 87 FR 27513, May 9, 2022]

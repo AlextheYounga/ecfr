@@ -1,6 +1,6 @@
 ##### § 91.325 Certifications. #####
 
-(a) *General*— (1) *Affirmatively furthering fair housing.* Each State is required to submit a certification, consistent with §§ 5.151 and 5.152 of this title, that it will affirmatively further fair housing.
+(a) *General*—(1) *Affirmatively furthering fair housing.* Each State is required to submit a certification, consistent with §§ 5.151 and 5.152 of this title, that it will affirmatively further fair housing.
 
 (2) *Anti-displacement and relocation plan.* The State is required to submit a certification that it has in effect and is following a residential antidisplacement and relocation assistance plan in connection with any activity assisted with funding under the CDBG or HOME programs.
 

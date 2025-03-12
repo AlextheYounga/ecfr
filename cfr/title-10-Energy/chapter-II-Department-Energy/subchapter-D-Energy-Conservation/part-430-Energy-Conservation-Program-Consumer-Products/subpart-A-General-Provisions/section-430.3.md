@@ -1,6 +1,6 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 88 FR 33545, May 24, 2023.Link to an amendment published at 88 FR 38627, June 13, 2023.Link to an amendment published at 88 FR 40473, June 21, 2023.
+Link to an amendment published at 88 FR 38627, June 13, 2023.Link to an amendment published at 88 FR 40473, June 21, 2023.
 
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at the DOE and at the National Archives and Records Administration (NARA). Contact DOE at: The U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-9127, *Buildings@ee.doe.gov, https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
@@ -252,7 +252,7 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (h) *ASME.* American Society of Mechanical Engineers, Three Park Avenue, New York, NY 10016-5990, 1-800 843-2763, or go to *www.asme.org.*
 
-(1) ASME A112.18.1-2012, (“ASME A112.18.1-2012”), “Plumbing supply fittings,” section 5.4, approved December, 2012, IBR approved for appendix S to subpart B.
+(1) ASME A112.18.1-2018/CSA B125.1-2018, (“ASME A112.18.1”), Plumbing supply fittings, CSA-published July 2018; IBR approved for appendix S to subpart B.
 
 (2) ASME A112.19.2-2008, (“ASME A112.19.2-2008”), “Ceramic plumbing fixtures,” sections 7.1, 7.1.1, 7.1.2, 7.1.3, 7.1.4, 7.1.5, 7.4, 8.2, 8.2.1, 8.2.2, 8.2.3, 8.6, Table 5, and Table 6 approved August 2008, including Update No. 1, dated August 2009, and Update No. 2, dated March 2011, IBR approved for § 430.2 and appendix T to subpart B.
 

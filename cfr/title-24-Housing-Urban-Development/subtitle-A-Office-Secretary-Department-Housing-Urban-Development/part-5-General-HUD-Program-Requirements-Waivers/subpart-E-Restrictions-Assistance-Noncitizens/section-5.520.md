@@ -46,7 +46,7 @@
 
 (iv) *No effect on rent to owner.* Proration of the housing assistance payment does not affect rent to owner. The family must pay the portion of rent to owner not covered by the prorated housing assistance payment.
 
-(d) *Method of prorating assistance for Public Housing covered programs.* (1) The PHA must prorate the family's assistance ;, except as provided in § 960.507 of this title, as follows:
+(d) *Method of prorating assistance for Public Housing covered programs.* (1) The PHA must prorate the family's assistance;, except as provided in § 960.507 of this title, as follows:
 
 (i) *Step 1.* Determine the total tenant payment in accordance with section 5.628. (Annual income includes income of all family members, including any family member who has not established eligible immigration status.)
 

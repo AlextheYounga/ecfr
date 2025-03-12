@@ -1,5 +1,7 @@
 ##### § 201.200 Sale of livestock to a packer on credit. #####
 
+Link to an amendment published at 88 FR 41022, June 23, 2023.
+
 (a) No packer whose average annual purchases of livestock exceed $500,000 shall purchase livestock on credit, and no dealer or market agency acting as an agent for such a packer shall purchase livestock on credit, unless: (1) Before purchasing such livestock the packer obtains from the seller a written acknowledgment as follows:
 
 On this date I am entering into a written agreement for the sale of livestock on credit to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, a packer, and I understand that in doing so I will have no rights under the trust provisions of section 206 of the Packers and Stockyards Act, 1921, as amended (7 U.S.C. 196, Pub. L. 94-410), with respect to any such credit sale. The written agreement for such selling on credit

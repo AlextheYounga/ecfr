@@ -28,6 +28,8 @@
 
 (b) *Statements.* (1) A civil penalty of not more than $13,508 may be imposed upon any person who makes, presents, or submits, or causes to be made, presented, or submitted, a written statement that:
 
+(i)(A) Asserts a material fact which is false, fictitious, or fraudulent; or
+
 (B)(*1*) Omits a material fact; and
 
 (*2*) Is false, fictitious, or fraudulent as a result of such omission;
@@ -46,4 +48,4 @@
 
 (e) *Joint and several liability.* A civil penalty or assessment may be imposed jointly and severally if more than one person is determined to be liable.
 
-[61 FR 50213, Sept. 24, 1996, as amended at 68 FR 12787, Mar. 17, 2003; 72 FR 5588, Feb. 6, 2007; 73 FR 76831, Dec. 17, 2008; 78 FR 4059, Jan. 18, 2013; 81 FR 38935, June 15, 2016; 82 FR 24524, May 30, 2017; 83 FR 32793, July 16, 2018; 84 FR 9453, Mar. 15, 2019; 85 FR 13043, Mar. 6, 2020; 86 FR 14372, Mar. 16, 2021; 86 FR 31619, June 15, 2021; 87 FR 24220, Apr. 26, 2022; 88 FR 9748, Feb. 15, 2023]
+[61 FR 50213, Sept. 24, 1996, as amended at 68 FR 12787, Mar. 17, 2003; 72 FR 5588, Feb. 6, 2007; 73 FR 76831, Dec. 17, 2008; 78 FR 4059, Jan. 18, 2013; 81 FR 38935, June 15, 2016; 82 FR 24524, May 30, 2017; 83 FR 32793, July 16, 2018; 84 FR 9453, Mar. 15, 2019; 85 FR 13043, Mar. 6, 2020; 86 FR 14372, Mar. 16, 2021; 86 FR 31619, June 15, 2021; 87 FR 24420, Apr. 26, 2022; 88 FR 9748, Feb. 15, 2023]

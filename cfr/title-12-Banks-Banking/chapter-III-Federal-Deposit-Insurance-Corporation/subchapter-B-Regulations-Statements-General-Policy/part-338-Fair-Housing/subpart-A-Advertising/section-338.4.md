@@ -1,7 +1,5 @@
 ##### § 338.4 Fair housing poster. #####
 
-Link to an amendment published at 88 FR 24677, Apr. 24, 2023.
-
 (a) Each FDIC-supervised institution engaged in extending loans for the purpose of purchasing, constructing, improving, repairing, or maintaining a dwelling or any loan secured by a dwelling shall conspicuously display either the Equal Housing Lender poster set forth in paragraph (b) of this section or the Equal Housing Opportunity poster prescribed by 24 CFR 110.25(a) of the United States Department of Housing and Urban Development's regulations, in a central location within the FDIC-supervised institution where deposits are received or where such loans are made, in a manner clearly visible to the general public entering the area, where the poster is displayed.
 
 (b) The Equal Housing Lender Poster shall be at least 11 by 14 inches in size and have the following text:
@@ -16,15 +14,11 @@ UNDER THE FEDERAL FAIR HOUSING ACT, IT IS ILLEGAL, ON THE BASIS OF RACE, COLOR, 
 
 IF YOU BELIEVE YOU HAVE BEEN DISCRIMINATED AGAINST, YOU SHOULD SEND A COMPLAINT TO:
 
-Assistant Secretary for Fair Housing and Equal Opportunity, Department of Housing and Urban Development, Washington, DC 20410.
-
-For processing under the Federal Fair Housing Act
+Assistant Secretary for Fair Housing and Equal Opportunity, Department of Housing and Urban Development, Washington, DC 20410, for processing under the Federal Fair Housing Act;
 
 AND TO:
 
-Federal Deposit Insurance Corporation, National Center for Consumer and Depositor Assistance, *https://ask.fdic.gov/fdicinformationandsupportcenter.*
-
-For processing under the FDIC Regulations.
+Federal Deposit Insurance Corporation, National Center for Consumer and Depositor Assistance, [FDIC-supervised institution should insert mailing address for National Center for Consumer and Depositor Assistance found at *www.fdic.gov*], *https://ask.fdic.gov/fdicinformationandsupportcenter,* for processing under the FDIC Regulations.
 
 UNDER THE EQUAL CREDIT OPPORTUNITY ACT, IT IS ILLEGAL TO DISCRIMINATE IN ANY CREDIT TRANSACTION:
 
@@ -36,8 +30,8 @@ UNDER THE EQUAL CREDIT OPPORTUNITY ACT, IT IS ILLEGAL TO DISCRIMINATE IN ANY CRE
 
 IF YOU BELIEVE YOU HAVE BEEN DISCRIMINATED AGAINST, YOU SHOULD SEND A COMPLAINT TO:
 
-Federal Deposit Insurance Corporation, National Center for Consumer and Depositor Assistance, *https://ask.fdic.gov/fdicinformationandsupportcenter.*
+Federal Deposit Insurance Corporation, National Center for Consumer and Depositor Assistance, [FDIC-supervised institution should insert mailing address for National Center for Consumer and Depositor Assistance found at *www.fdic.gov*], *https://ask.fdic.gov/fdicinformationandsupportcenter.*
 
 (c) The Equal Housing Lender Poster specified in this section was adopted under 24 CFR 110.25(b) of the United States Department of Housing and Urban Development's rules and regulations as an authorized substitution for the poster required in § 110.25(a) of those rules and regulations.
 
-[86 FR 8088, Feb. 3, 2021, as amended at 87 FR 48079, Aug. 8, 2022; 87 FR 49767, Aug. 12, 2022]
+[86 FR 8088, Feb. 3, 2021, as amended at 87 FR 48079, Aug. 8, 2022; 87 FR 49767, Aug. 12, 2022; 88 FR 24677, Apr. 24, 2023]

@@ -1,6 +1,6 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 88 FR 33545, May 24, 2023.Link to an amendment published at 88 FR 38627, June 13, 2023.
+Link to an amendment published at 88 FR 38627, June 13, 2023.
 
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
@@ -391,9 +391,9 @@ ETGE = EAGE + ETLPWhere:EAGE is the conventional gas cooking top annual active m
 
 (r) *General service fluorescent lamps, general service incandescent lamps, and incandescent reflector lamps.* Measure initial lumen output, initial input power, initial lamp efficacy, color rendering index (CRI), correlated color temperature (CCT), and time to failure of GSFLs, IRLs, and GSILs, as applicable, in accordance with appendix R to this subpart.
 
-(s) *Faucets.* The maximum permissible water use allowed for lavatory faucets, lavatory replacement aerators, kitchen faucets, and kitchen replacement aerators, expressed in gallons and liters per minute (gpm and L/min), shall be measured in accordance to section 2(a) of appendix S of this subpart. The maximum permissible water use allowed for metering faucets, expressed in gallons and liters per cycle (gal/cycle and L/cycle), shall be measured in accordance to section 2(a) of appendix S of this subpart.
+(s) *Faucets.* Measure the water use for lavatory faucets, lavatory replacement aerators, kitchen faucets, and kitchen replacement aerators, in gallons or liters per minute (gpm or L/min), in accordance to section 2.1 of appendix S of this subpart. Measure the water use for metering faucets, in gallons or liters per cycle (gal/cycle or L/cycle), in accordance to section 2.1 of appendix S of this subpart.
 
-(t) *Showerheads.* The maximum permissible water use allowed for showerheads, expressed in gallons and liters per minute (gpm and L/min), shall be measured in accordance to section 2(b) of appendix S of this subpart.
+(t) *Showerheads.* Measure the water use for showerheads, in gallons or liters per minute (gpm or L/min), in accordance to section 2.2 of appendix S of this subpart.
 
 (u) *Water closets.* Measure the water use for water closets, expressed in gallons or liters per flush (gpf or Lpf), in accordance with section 3(a) of appendix T to this subpart.
 

@@ -2,7 +2,7 @@
 
 (a) *General.* The following certifications, satisfactory to HUD, must be included in the annual submission to HUD. (See definition of “certification” in § 91.5.)
 
-(1) Affirmatively furthering fair housing. Each jurisdiction is required to submit a certification, consistent with §§ 5.151 and 5.152 of this title, that it will affirmatively further fair housing.
+(1) *Affirmatively furthering fair housing.* Each jurisdiction is required to submit a certification, consistent with §§ 5.151 and 5.152 of this title, that it will affirmatively further fair housing.
 
 (2) *Anti-displacement and relocation plan.* Each jurisdiction is required to submit a certification that it has in effect and is following a residential antidisplacement and relocation assistance plan in connection with any activity assisted with funding under the CDBG or HOME programs.
 

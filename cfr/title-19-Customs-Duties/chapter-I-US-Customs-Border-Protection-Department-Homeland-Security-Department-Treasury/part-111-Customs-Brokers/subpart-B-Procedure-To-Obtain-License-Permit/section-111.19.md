@@ -1,5 +1,7 @@
 ##### § 111.19 National permit. #####
 
+Link to an amendment published at 88 FR 41258, June 23, 2023.
+
 (a) *General.* A national permit is required for the purpose of transacting customs business throughout the customs territory of the United States as defined in § 101.1 of this chapter.
 
 (b) *Application for a national permit.* An applicant who obtains a passing grade on the examination for an individual broker's license may apply for a national permit. The applicant will exercise responsible supervision and control (as described in § 111.28) over the activities conducted under that national permit. The national permit application may be submitted concurrently with or after the submission of an application for a broker's license. An applicant applying for a national permit on behalf of a partnership, association, or corporation must be a licensed broker employed by the partnership, association, or corporation. An application for a national permit under this paragraph must be submitted in the form of a letter to the processing Center or to a CBP-authorized electronic data interchange (EDI) system. The application must set forth or attach the following:
