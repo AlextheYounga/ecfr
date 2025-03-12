@@ -68,7 +68,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Eligible wine.* Wine on which tax would be imposed by paragraph (1), (2), or (3) of 26 U.S.C. 5041(b) but for its removal to distilled spirits plant premises and which has not been subject to distillation at a distilled spirits plant after receipt in bond.
 
-*Executed under penalties of perjury.* Signed with the prescribed declaration under the penalties of perjury as provided on or with respect to the return, claim, form, or other document, or where no form of declaration is prescribed, with the declaration: “I declare under the penalties of perjury that this \_\_\_\_ (insert type of document, such as statement, report, certificate, application, claim, or other document), including the documents submitted in support thereof, has been examined by me and, to the best of my knowledge and belief, is true, correct, and complete.”
+*Executed under penalties of perjury.* Signed with the prescribed declaration under the penalties of perjury as provided on or with respect to the return, claim, form, or other document, or where no form of declaration is prescribed, with the declaration: “I declare under the penalties of perjury that this \_\_\_\_\_\_\_\_ (insert type of document, such as statement, report, certificate, application, claim, or other document), including the documents submitted in support thereof, has been examined by me and, to the best of my knowledge and belief, is true, correct, and complete.”
 
 *Fiscal year.* The period which begins October 1 and ends on the following September 30.
 

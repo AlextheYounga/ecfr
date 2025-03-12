@@ -14,7 +14,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Distilled spirits plant.* An establishment qualified under 27 CFR part 19, excluding alcohol fuel plants, for producing, warehousing, or processing distilled spirits (including denatured distilled spirits).
 
-*Executed under penalties of perjury.* Signed with the prescribed declaration under the penalties of perjury as provided on or with respect to the application, report, form, or other document or, where no form of declaration is prescribed, with the declaration: “I declare under the penalties of perjury that this \_\_\_\_\_ (insert type of document, such as application or report), including the documents submitted in support thereof, has been examined by me and, to the best of my knowledge and belief, is true, correct and complete.”
+*Executed under penalties of perjury.* Signed with the prescribed declaration under the penalties of perjury as provided on or with respect to the application, report, form, or other document or, where no form of declaration is prescribed, with the declaration: “I declare under the penalties of perjury that this \_\_\_\_\_\_\_\_\_\_ (insert type of document, such as application or report), including the documents submitted in support thereof, has been examined by me and, to the best of my knowledge and belief, is true, correct and complete.”
 
 *Fold.* The ratio of the volume of the fruit mash or juice to the volume of the concentrate produced from the fruit mash or juice. For example, one gallon of concentrate of 100-fold would be the product from 100 gallons of fruit mash or juice.
 

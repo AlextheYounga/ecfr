@@ -1,7 +1,5 @@
 ##### § 301-10.450 What are the policies when authorized to rent a vehicle for official travel? #####
 
-Link to an amendment published at 87 FR 24065, Apr. 22, 2022.
-
 (a) Your agency must determine that use of a rental vehicle is advantageous to the Government and must specifically authorize such use.
 
 (b) When authorized to use a rental vehicle, you should consider renting a vehicle from a vendor that participates in the Defense Travel Management Office (DTMO) U.S. Government Car Rental Agreement to avail yourself of the Agreement's benefits, including the insurance and damage liability provisions, unless you are OCONUS and no agreement is in place for your TDY location. The advantages of renting a car through the DTMO rental car program are:
@@ -40,4 +38,12 @@ Link to an amendment published at 87 FR 24065, Apr. 22, 2022.
 
 (e) Travelers will not be reimbursed for fees associated with rental car loyalty points or the transfer of points charged by car companies.
 
-[FTR Amdt. 70, 63 FR 15955, Apr. 1, 1998, as amended by FTR Amdt. 2010-05, 75 FR 63103, Oct. 14, 2010; FTR Amdt. 2015-03, 80 FR 27261, May 13, 2015]
+(f) A rental car is to be used only for official purposes, which include transportation:
+
+(1) Between places of official business;
+
+(2) Between such places and places of temporary lodging when public transportation is unavailable or its use is impractical; or
+
+(3) Between either subparagraph (1) or (2) of this paragraph and restaurants, drug stores, barber shops, places of worship, cleaning establishments, and similar places necessary for the sustenance, comfort, or health of the employee to foster the continued efficient performance of Government business.
+
+[FTR Amdt. 70, 63 FR 15955, Apr. 1, 1998, as amended by FTR Amdt. 2010-05, 75 FR 63103, Oct. 14, 2010; FTR Amdt. 2015-03, 80 FR 27261, May 13, 2015; 87 FR 24065, Apr. 22, 2022]

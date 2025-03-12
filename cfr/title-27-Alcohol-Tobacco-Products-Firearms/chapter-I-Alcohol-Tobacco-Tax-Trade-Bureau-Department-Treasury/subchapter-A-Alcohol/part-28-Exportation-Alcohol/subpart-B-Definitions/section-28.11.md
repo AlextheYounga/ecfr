@@ -8,7 +8,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Beer.* Beer, ale, porter, stout, and other similar fermented beverages (including sake or similar products) of any name or description containing one-half of 1 percent or more of alcohol by volume, brewed or produced from malt, wholly or in part, or from any substitute therefor.
 
-*Bonded premises - distilled spirits plant.* The premises of a distilled spirits plant, or part thereof, on which distilled spirits operations defined in 26 U.S.C. 5002 are authorized to be conducted. This term includes premises described in the preceding sentence even if the distilled spirits plant proprietor, as authorized under the exemption set forth in § 19.151(d) of this chapter, has not provided a bond for the premises.
+*Bonded premises—distilled spirits plant.* The premises of a distilled spirits plant, or part thereof, on which distilled spirits operations defined in 26 U.S.C. 5002 are authorized to be conducted. This term includes premises described in the preceding sentence even if the distilled spirits plant proprietor, as authorized under the exemption set forth in § 19.151(d) of this chapter, has not provided a bond for the premises.
 
 *Bonded wine cellar.* Premises established under part 24 of this chapter for the production, blending, cellar treatment, storage, bottling, packaging, or repackaging of untaxpaid wine. This term includes premises described in the preceding sentences even if the proprietor, as authorized under the exemption set forth in § 24.146(d), has not provided a bond for the premises.
 
@@ -36,7 +36,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Executed under penalties of perjury.* Signed with the prescribed declaration under the penalties of perjury as provided on or with respect to the return, claim, form, or other document or, where no form of declaration is prescribed, with the declaration:
 
-I declare under the penalties of perjury that this \_\_\_\_\_ (insert type of document such as statement, report, certificate, application, claim, or other document), including the documents submitted in support thereof, has been examined by me and, to the best of my knowledge and belief, is true, correct, and complete.
+I declare under the penalties of perjury that this \_\_\_\_\_\_\_\_\_\_ (insert type of document such as statement, report, certificate, application, claim, or other document), including the documents submitted in support thereof, has been examined by me and, to the best of my knowledge and belief, is true, correct, and complete.
 
 *Exportation.* A severance of goods from the mass of things belonging to the United States with the intention of uniting them to the mass of things belonging to some foreign country and shall include shipments to any possession of the United States. The export character of any shipment shall be determined by the intention with which it is made, and it assumes an export character only when destined for use in a foreign country or in a possession of the United States. For the purposes of this part, shipments to the Commonwealth of Puerto Rico, to the territories of the Virgin Islands, American Samoa and Guam, and to the Panama Canal Zone shall also be treated as exportations.
 

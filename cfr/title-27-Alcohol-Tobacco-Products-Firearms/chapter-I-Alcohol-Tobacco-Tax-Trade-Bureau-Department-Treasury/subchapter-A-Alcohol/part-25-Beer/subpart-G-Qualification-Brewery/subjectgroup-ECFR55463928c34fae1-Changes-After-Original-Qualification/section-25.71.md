@@ -1,6 +1,6 @@
 ##### § 25.71 Amended or superseding notices. #####
 
-(a) *Requirement for amended notice.* (1) When there is a change with respect to the information shown in the Brewer's Notice, Form 5130.10, the brewer shall within 30 days of the change (except as otherwise provided in this subpart) submit an amended notice setting forth the new information. Changed notices will be submitted in skeleton form, with unchanged items marked “No change since Form 5130.10, Serial No. \_\_\_.”
+(a) *Requirement for amended notice.* (1) When there is a change with respect to the information shown in the Brewer's Notice, Form 5130.10, the brewer shall within 30 days of the change (except as otherwise provided in this subpart) submit an amended notice setting forth the new information. Changed notices will be submitted in skeleton form, with unchanged items marked “No change since Form 5130.10, Serial No. \_\_\_\_\_\_.”
 
 (2) The appropriate TTB officer may require immediate filing of an amended Form 5130.10 if the accuracy of existing documents has been affected by any change.
 

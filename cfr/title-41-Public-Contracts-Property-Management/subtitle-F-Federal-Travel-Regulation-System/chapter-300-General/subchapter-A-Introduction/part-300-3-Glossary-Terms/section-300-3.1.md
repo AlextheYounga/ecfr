@@ -1,7 +1,5 @@
 ##### § 300-3.1 What do the following terms mean? #####
 
-Link to an amendment published at 87 FR 24065, Apr. 22, 2022.
-
 *Accompanied baggage* - Government property and personal property of the traveler necessary for official travel.
 
 *Actual expense* - Payment of authorized actual expenses incurred, up to the limit prescribed by the Administrator of GSA or agency, as appropriate. Entitlement to reimbursement is contingent upon entitlement to per diem, and is subject to the same definitions and rules governing per diem.
@@ -142,7 +140,7 @@ The definition of “Domestic partnership” requires that the partners “share
 
 *Foreign air carrier* - An air carrier who is not holding a certificate issued by the United States under 49 U.S.C. 41102.
 
-*Foreign area (see also non-foreign area)* - Any area, including the Trust Territories of the Pacific Islands, situated both outside CONUS and the non-foreign areas.
+*Fuel* - The energy source needed to power a vehicle. Examples include, but are not limited to, petroleum, hydrogen, propane, and electricity.
 
 *Full coach fare* - The price of a coach fare available to the general public on a scheduled air carrier between the day that the travel was planned and the day the travel occurred.
 
@@ -256,11 +254,15 @@ Certain jurisdictions may have limits or prohibit the operation or use of innova
 
 *Non-Federal traveler* - For the purposes of 41 CFR 301-10.260 through 301-10.266 and 41 CFR 301-70.800 through 301-70.910, an individual who travels on a Government aircraft, but is not a Federal traveler. Dependents and other family members of Federal travelers who travel on Government aircraft are considered to be non-Federal travelers within this regulation.
 
-*Non-foreign area* - The states of Alaska and Hawaii, the Commonwealths of Puerto Rico and the Northern Mariana Islands, Guam, the U.S. Virgin Islands, and the territories and possessions of the United States (excludes the former Trust Territories of the Pacific Islands, which are considered foreign areas for the purposes of the FTR).
-
 *Official station* - An area defined by the agency that includes the location where the employee regularly performs his or her duties or an invitational traveler's home or regular place of business (see § 301-1.2). The area may be a mileage radius around a particular point, a geographic boundary, or any other definite domain, provided no part of the area is more than 50 miles from where the employee regularly performs his or her duties or from an invitational traveler's home or regular place of business. If the employee's work involves recurring travel or varies on a recurring basis, the location where the work activities of the employee's position of record are based is considered the regular place of work.
 
 *Official travel* - Travel under an official travel authorization from an employee's official station or other authorized point of departure to a temporary duty location and return from a temporary duty location, between two temporary duty locations, or relocation at the direction of a Federal agency.
+
+*Outside the Continental United States (OCONUS)* - Any area beyond the 48 contiguous States and the District of Columbia, *i.e.,* CONUS. OCONUS is further divided into foreign areas and non-foreign areas:
+
+(1) Foreign area - Any area situated beyond both the CONUS and the non-foreign areas.
+
+(2) Non-foreign area - The states of Alaska and Hawaii, the Commonwealths of Puerto Rico and the Northern Mariana Islands, Guam, the U.S. Virgin Islands, and the territories and possessions of the United States.
 
 *Passenger* - In relation to use of Government aircraft, a passenger is any person who flies onboard a Government aircraft, but who is not a crewmember or qualified non-crewmember.
 

@@ -1,6 +1,6 @@
 ##### § 5.65 Alcohol content. #####
 
-(a) *General.* The alcohol content for distilled spirits must be stated on the label as a percentage of alcohol by volume. Products that contain a significant amount of material, such as solid fruit, that may absorb spirits after bottling must state the alcohol content at the time of bottling as follows: “Bottled at \_\_ percent alcohol by volume.”
+(a) *General.* The alcohol content for distilled spirits must be stated on the label as a percentage of alcohol by volume. Products that contain a significant amount of material, such as solid fruit, that may absorb spirits after bottling must state the alcohol content at the time of bottling as follows: “Bottled at \_\_\_\_ percent alcohol by volume.”
 
 (b) *How the alcohol content must be expressed.* The following rules apply to statements of alcohol content.
 
@@ -12,11 +12,11 @@
 
 (2)(i) The alcohol content statement must be expressed in one of the following formats:
 
-(A) “Alcohol \_\_ percent by volume”;
+(A) “Alcohol \_\_\_\_ percent by volume”;
 
-(B) “\_\_ percent alcohol by volume”; or
+(B) “\_\_\_\_ percent alcohol by volume”; or
 
-(C) “Alcohol by volume \_\_ percent.”
+(C) “Alcohol by volume \_\_\_\_ percent.”
 
 (ii) Any of the words or symbols may be enclosed in parentheses and authorized abbreviations may be used with or without a period. The alcohol content statement does not have to appear with quotation marks.
 

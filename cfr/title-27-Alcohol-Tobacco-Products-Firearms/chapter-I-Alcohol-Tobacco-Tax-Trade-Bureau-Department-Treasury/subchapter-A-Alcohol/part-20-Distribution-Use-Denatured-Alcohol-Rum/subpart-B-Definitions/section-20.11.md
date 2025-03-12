@@ -26,9 +26,9 @@ When used in this part and in forms prescribed under this part, the following te
 
 *Distributor.* Any person who sells completely denatured alcohol, other than a proprietor of a distilled spirits plant who sells such alcohol at the plant premises, and any person who sells articles containing completely or specially denatured alcohol or specially denatured rum, other than the manufacturer, except where otherwise specifically restricted in this part.
 
-*Executed under penalties of perjury.* Signed with the prescribed declaration under the penalties of perjury as provided on or with respect to the claim, form, or other document or, where no form of declaration is prescribed, with the declaration -
+*Executed under penalties of perjury.* Signed with the prescribed declaration under the penalties of perjury as provided on or with respect to the claim, form, or other document or, where no form of declaration is prescribed, with the declaration—
 
-I declare under the penalties of perjury that this \_\_\_\_ (insert type of document, such as statement, report, certificate, application, claim, or other document), including the documents submitted in support thereof, has been examined by me and, to the best of my knowledge and belief, is true, correct, and complete.
+I declare under the penalties of perjury that this \_\_\_\_\_\_\_\_ (insert type of document, such as statement, report, certificate, application, claim, or other document), including the documents submitted in support thereof, has been examined by me and, to the best of my knowledge and belief, is true, correct, and complete.
 
 *Fiduciary.* A guardian, trustee, executor, administrator, receiver, conservator, or any person acting in any fiduciary capacity for any person.
 

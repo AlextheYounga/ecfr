@@ -12,7 +12,7 @@ When used in this subpart and in the forms prescribed under this subpart, where 
 
 *Distilling apparatus.* A still or condenser, as defined in this section, and any other apparatus to be used for the purpose of distilling.
 
-*Executed under the penalties of perjury.* Signed with the prescribed declaration under the penalties of perjury as provided on or with respect to any document prescribed under this subpart or, where no form of declaration is prescribed, with the declaration: “I declare under the penalties of perjury that this \_\_\_\_\_\_ (insert type of document), including the documents submitted in support thereof, has been examined by me and, to best of my knowledge and belief, is true, correct and complete.”
+*Executed under the penalties of perjury.* Signed with the prescribed declaration under the penalties of perjury as provided on or with respect to any document prescribed under this subpart or, where no form of declaration is prescribed, with the declaration: “I declare under the penalties of perjury that this \_\_\_\_\_\_\_\_\_\_\_\_ (insert type of document), including the documents submitted in support thereof, has been examined by me and, to best of my knowledge and belief, is true, correct and complete.”
 
 *Manufacturer of stills.* Any person who manufactures any still or condenser, as defined in this section, or any other apparatus to be used for the purpose of distilling. The term includes a person furnishing separate parts of a complete still or condenser, of any kind, to a person who assembles same into a still or condenser for distilling and a person who procures materials or apparatus and converts same into a still or condenser for distilling.
 

@@ -1,12 +1,12 @@
 ##### § 20.56 Changes affecting applications and permits. #####
 
-(a) *General* - (1) *Changes affecting application.* When there is a change relating to any of the information contained in, or considered a part of the application on Form 5150.22 for a permit, the permittee shall, within 30 days (except as otherwise provided in this subpart) file a written notice with the appropriate TTB officer to amend the application. However, a change in the information required by § 20.42(a)(6) caused by approval of a new formula or statement of process shall not require filing a new application unless the approval is the permittee's first statement of process covering recovery operations.
+(a) *General*—(1) *Changes affecting application.* When there is a change relating to any of the information contained in, or considered a part of the application on Form 5150.22 for a permit, the permittee shall, within 30 days (except as otherwise provided in this subpart) file a written notice with the appropriate TTB officer to amend the application. However, a change in the information required by § 20.42(a)(6) caused by approval of a new formula or statement of process shall not require filing a new application unless the approval is the permittee's first statement of process covering recovery operations.
 
 (2) *Changes affecting waivers.* When any waiver under § 20.43 is terminated by a change to the application, the permittee shall include the current information as to the item previously waived with the written notice required in paragraph (a)(1) of this section.
 
 (3) *Changes affecting permit.* When the terms of a permit are affected by a change, the written notice required by paragraph (a)(1) of this section (except as otherwise provided in this subpart) will serve as an application to amend the permit.
 
-(4) *Form of notice.* A written notice to amend an application on Form 5150.22 shall -
+(4) *Form of notice.* A written notice to amend an application on Form 5150.22 shall—
 
 (i) Identify the permittee;
 
@@ -18,9 +18,9 @@
 
 (v) Be consecutively numbered and signed by the permittee or any person authorized to sign on behalf of the permittee.
 
-(b) *Amended application.* The appropriate TTB officer may require a permittee to file an amended application on Form 5150.22 when the number of changes to the previous application are determined to be excessive, or when a permittee has not timely filed the written notice prescribed in paragraph (a)(1) of this section. If items on the amended application remain unchanged, they will be marked “No change since Form 5150.22, Serial No. \_\_\_\_\_.”
+(b) *Amended application.* The appropriate TTB officer may require a permittee to file an amended application on Form 5150.22 when the number of changes to the previous application are determined to be excessive, or when a permittee has not timely filed the written notice prescribed in paragraph (a)(1) of this section. If items on the amended application remain unchanged, they will be marked “No change since Form 5150.22, Serial No. \_\_\_\_\_\_\_\_\_\_.”
 
-(c) *Changes in officers, directors and stockholders* - (1) *Officers.* In the case of a change in the officers listed under the provisions of § 20.45(a)(2), the notice required by paragraph (a)(1) of this section shall only apply (unless otherwise required, in writing, by the appropriate TTB officer) to those offices, the incumbents of which are responsible for the operations covered by this part.
+(c) *Changes in officers, directors and stockholders*—(1) *Officers.* In the case of a change in the officers listed under the provisions of § 20.45(a)(2), the notice required by paragraph (a)(1) of this section shall only apply (unless otherwise required, in writing, by the appropriate TTB officer) to those offices, the incumbents of which are responsible for the operations covered by this part.
 
 (2) *Directors.* In the case of a change in the directors listed under the provisions of § 20.45(a)(2), the notice required by paragraph (a)(1) of this section shall reflect the changes.
 
