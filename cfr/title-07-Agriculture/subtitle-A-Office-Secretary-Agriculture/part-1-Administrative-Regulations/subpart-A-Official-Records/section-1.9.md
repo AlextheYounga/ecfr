@@ -1,15 +1,29 @@
-##### § 1.9 Expedited processing. #####
+##### § 1.9 Administrative appeals. #####
 
-(a) A requester may apply for expedited processing at the time of the initial request for records. Within ten calendar days of its receipt of a request for expedited processing, an agency shall decide whether to grant it, and shall notify the requester of the decision. Once the determination has been made to grant expedited processing, an agency shall process the request as soon as practicable. If a request for expedited processing is denied, the agency shall act expeditiously on any appeal of that decision.
+(a) *Appeals of adverse determinations.* If a requester is dissatisfied with a component's response to his or her request, the requester may submit a written appeal of that component's adverse determination denying the request in any respect.
 
-(b) A request or appeal will be taken out of order and given expedited treatment whenever the agency determines that the requester has established either of the following criteria:
+(b) *Deadline for submitting an appeal.* Requesters must make the appeal in writing. To be considered timely, the appeal must be postmarked, or in the case of electronic submissions transmitted, within 90 calendar days of the date of the adverse determination. Components adjudicating appeals will issue a decision on an appeal, within 20-working days of its date of receipt, plus any extension authorized by § 1.6(d).
 
-(1) Circumstances in which the lack of expedited treatment could reasonably be expected to pose an imminent threat to the life or physical safety of an individual; or
+(c) *Appeals officials.* Each component will provide for review of appeals by an official different from the official who made the initial determination(s).
 
-(2) An urgency to inform the public about an actual or alleged federal government activity, if made by an individual primarily engaged in disseminating information. Representatives of the news media would normally qualify as individuals primarily engaged in disseminating information; however, other requesters must demonstrate that their primary activity involves publishing or otherwise disseminating information to the public as a whole, and not just a particular segment or group. “Urgency” contemplates that the information has a particular value that will be lost if not disseminated quickly. Ordinarily this means a breaking news story of general public interest. Information of historical interest only or information sought for litigation or commercial activities would not meet the test of urgency, nor would a news media publication or broadcast deadline unrelated to the news breaking nature of the information.
+(d) *Components' responses to appeals.* The decision on an appeal will be made in writing.
 
-(c) A requester who seeks expedited processing must provide a written statement that the requester has certified to be true and correct to the best of the requester's knowledge, explaining in detail the basis for requesting expedited processing. The agency will not consider the request to have been received unless accompanied by a written, certified statement, and will be under no obligation to consider the request for expedited processing until it receives such a written, certified statement.
+(1) If the component grants the appeal in part or in whole, it will inform the requester of any conditions surrounding the granting of the request *(e.g.,* payment of fees). If the component grants only a portion of the appeal, it will treat the portion not granted as a denial.
 
-(d) the same procedures apply to requests for expedited processing of administrative appeals.
+(2) If the component denies the appeal, either in part or in whole, it will inform the requester of that decision and of the following:
 
-[65 FR 46338, July 28, 2000]
+(i) The reasons for denial, including any FOIA exemptions asserted;
+
+(ii) The name and title or position of each official responsible for denial of the appeal;
+
+(iii) The availability of mediation services offered by the OGIS of the National Archives and Records Administration as a non-exclusive alternative to litigation; and
+
+(iv) The right to judicial review of the denial in accordance with 5 U.S.C. 552(a)(4)(B).
+
+(e) *Legal sufficiency review of an appeal.* If a component makes the determination to deny an appeal in part or whole, that component will send a copy of all records to the Assistant General Counsel, General Law and Research Division, that the Office of the General Counsel (“OGC”) would need to examine to provide a legal sufficiency review of the component's decision.
+
+(1) Frequently, these records will include a copy of the unredacted records requested, a copy of the records marked to indicate information the component proposes to withhold, all correspondence relating to the request, and a proposed determination letter. When the volume of records is so large as to make sending a copy impracticable, the component will enclose an informative summary and representative sample of those records. The component will not deny an appeal until it receives concurrence from the Assistant General Counsel.
+
+(2) With regard to appeals involving records of OIG, the records in question will be referred to the OIG Office of Counsel, which will coordinate all necessary reviews.
+
+(f) *Submission of an appeal before judicial review.* Before seeking review by a court of a component's adverse determination, a requester generally must first submit a timely administrative appeal.

@@ -1,12 +1,8 @@
 ##### § 240.15c3-1e Deductions for market and credit risk for certain brokers or dealers (Appendix E to 17 CFR 240.15c3-1). #####
 
-Link to an amendment published at 84 FR 44046, Aug. 22, 2019.Preliminary Note:
+Sections 240.15c3-1e and 240.15c3-1g set forth a program that allows a broker or dealer to use an alternative approach to computing net capital deductions, subject to the conditions described in §§ 240.15c3-1e and 240.15c3-1g, including supervision of the broker's or dealer's ultimate holding company under the program. The program is designed to reduce the likelihood that financial and operational weakness in the holding company will destabilize the broker or dealer, or the broader financial system. The focus of this supervision of the ultimate holding company is its financial and operational condition and its risk management controls and methodologies.
 
-Appendices E and G to the net capital rule set forth a program that allows a broker or dealer to use an alternative approach to computing net capital deductions, subject to the conditions described in the Appendices, including supervision of the broker's or dealer's ultimate holding company under the program. The program is designed to reduce the likelihood that financial and operational weakness in the holding company will destabilize the broker or dealer, or the broader financial system. The focus of this supervision of the ultimate holding company is its financial and operational condition and its risk management controls and methodologies.
-
-Application
-
-(a) A broker or dealer may apply to the Commission for authorization to compute deductions for market risk pursuant to this appendix E in lieu of computing deductions pursuant to §§ 240.15c3-1(c)(2)(vi) and (c)(2)(vii) and to compute deductions for credit risk pursuant to this appendix E on credit exposures arising from transactions in derivatives instruments (if this appendix E is used to calculate deductions for market risk on these instruments) in lieu of computing deductions pursuant to § 240.15c3-1(c)(2)(iv):
+(a) A broker or dealer may apply to the Commission for authorization to compute deductions for market risk pursuant to this section in lieu of computing deductions pursuant to §§ 240.15c3-1(c)(2)(vi) and (vii) and 240.15c3-1b, and to compute deductions for credit risk pursuant to this section on credit exposures arising from transactions in derivatives instruments (if this section is used to calculate deductions for market risk on these instruments) in lieu of computing deductions pursuant to § 240.15c3-1(c)(2)(iv) and (c)(2)(xv)(A) and (B):
 
 (1) A broker-dealer shall submit the following information to the Commission with its application:
 
@@ -104,7 +100,23 @@ Application
 
 (6) If any of the information filed with the Commission as part of the application of the broker or dealer is found to be or becomes inaccurate before the Commission approves the application, the broker or dealer must notify the Commission promptly and provide the Commission with a description of the circumstances in which the information was found to be or has become inaccurate along with updated, accurate information;
 
-(7) The Commission may approve the application or an amendment to the application, in whole or in part, subject to any conditions or limitations the Commission may require, if the Commission finds the approval to be necessary or appropriate in the public interest or for the protection of investors, after determining, among other things, whether the broker or dealer has met the requirements of this appendix E and is in compliance with other applicable rules promulgated under the Act and by self-regulatory organizations, and whether the ultimate holding company of the broker or dealer is in compliance with the terms of its undertakings, as provided to the Commission;
+(7)(i) The Commission may approve the application or an amendment to the application, in whole or in part, subject to any conditions or limitations the Commission may require, if the Commission finds the approval to be necessary or appropriate in the public interest or for the protection of investors, after determining, among other things, whether the broker or dealer has met the requirements of this appendix E and is in compliance with other applicable rules promulgated under the Act and by self-regulatory organizations, and whether the ultimate holding company of the broker or dealer is in compliance with the terms of its undertakings, as provided to the Commission;
+
+(ii) The Commission may approve the temporary use of a provisional model in whole or in part, subject to any conditions or limitations the Commission may require, if:
+
+(A) The broker or dealer has a complete application pending under this section;
+
+(B) The use of the provisional model has been approved by:
+
+(*1*) A prudential regulator;
+
+(*2*) The Commodity Futures Trading Commission or a futures association registered with the Commodity Futures Trading Commission under section 17 of the Commodity Exchange Act;
+
+(*3*) A foreign financial regulatory authority that administers a foreign financial regulatory system with capital requirements that the Commission has found are eligible for substituted compliance under § 240.3a71-6 if the provisional model is used for the purposes of calculating net capital;
+
+(*4*) A foreign financial regulatory authority that administers a foreign financial regulatory system with margin requirements that the Commission has found are eligible for substituted compliance under § 240.3a71-6 if the provisional model is used for the purposes of calculating initial margin pursuant to § 240.18a-3; or
+
+(*5*) Any other foreign supervisory authority that the Commission finds has approved and monitored the use of the provisional model through a process comparable to the process set forth in this section.
 
 (8) A broker or dealer shall amend its application to calculate certain deductions for market and credit risk under this appendix E and submit the amendment to the Commission for approval before it may change materially a mathematical model used to calculate market or credit risk or before it may change materially its internal risk management control system;
 
@@ -154,7 +166,7 @@ Credit Risk
 
 (iii) For each counterparty with a credit risk weight of greater than 50%, 50% of the amount of the current exposure to the counterparty in excess of 5% of the tentative net capital of the broker or dealer; and
 
-(3) A portfolio concentration charge of 100% of the amount of the broker's or dealer's aggregate current exposure for all counterparties in excess of 50% of the tentative net capital of the broker or dealer;
+(3) A portfolio concentration charge of 100 percent of the amount of the broker's or dealer's aggregate current exposure for all counterparties in excess of 10 percent of the tentative net capital of the broker or dealer;
 
 (4) *Terms.* (i) The *credit equivalent amount* of the broker's or dealer's exposure to a counterparty is the sum of the broker's or dealer's maximum potential exposure to the counterparty, as defined in paragraph (c)(4)(ii) of this appendix E, multiplied by the appropriate multiplication factor, and the broker's or dealer's current exposure to the counterparty, as defined in paragraph (c)(4)(iii) of this appendix E. The broker or dealer must use the multiplication factor determined according to paragraph (d)(1)(v) of this appendix E, except that the initial multiplication factor shall be one, unless the Commission determines, based on a review of the broker's or dealer's application or an amendment to the application approved under paragraph (a) of this appendix E, including a review of its internal risk management control system and practices and VaR models, that another multiplication factor is appropriate;
 
@@ -176,17 +188,19 @@ Credit Risk
 
 (B) The collateral is subject to the broker's or dealer's physical possession or control;
 
+(*1*) The collateral is subject to the broker's or dealer's physical possession or control and may be liquidated promptly by the firm without intervention by any other party; or
+
+(*2*) The collateral is held by an independent third-party custodian that is a bank as defined in section 3(a)(6) of the Act or a registered U.S. clearing organization or depository that is not affiliated with the counterparty or, if the collateral consists of foreign securities or currencies, a supervised foreign bank, clearing organization, or depository that is not affiliated with the counterparty and that customarily maintains custody of such foreign securities or currencies;
+
 (C) The collateral is liquid and transferable;
 
-(D) The collateral may be liquidated promptly by the firm without intervention by any other party;
+(D) The collateral agreement is legally enforceable by the broker or dealer against the counterparty and any other parties to the agreement;
 
-(E) The collateral agreement is legally enforceable by the broker or dealer against the counterparty and any other parties to the agreement;
+(E) The collateral does not consist of securities issued by the counterparty or a party related to the broker or dealer or to the counterparty;
 
-(F) The collateral does not consist of securities issued by the counterparty or a party related to the broker or dealer or to the counterparty;
+(F) The Commission has approved the broker's or dealer's use of a VaR model to calculate deductions for market risk for the type of collateral in accordance with this appendix E; and
 
-(G) The Commission has approved the broker's or dealer's use of a VaR model to calculate deductions for market risk for the type of collateral in accordance with this appendix E; and
-
-(H) The collateral is not used in determining the credit rating of the counterparty;
+(G) The collateral is not used in determining the credit rating of the counterparty;
 
 (vi) *Credit risk weights of counterparties.* A broker or dealer that computes its deductions for credit risk pursuant to this Appendix E shall apply a credit risk weight for transactions with a counterparty of either 20%, 50%, or 150% based on an internal credit rating the broker or dealer determines for the counterparty.
 
@@ -260,9 +274,9 @@ Table 1 - Multiplication factor based on the number of backtesting exceptions of
 
 Additional Conditions
 
-(e) As a condition for the broker or dealer to use this appendix E to calculate certain of its capital charges, the Commission may impose additional conditions on the broker or dealer, which may include, but are not limited to restricting the broker's or dealer's business on a product-specific, category-specific, or general basis; submitting to the Commission a plan to increase the broker's or dealer's net capital or tentative net capital; filing more frequent reports with the Commission; modifying the broker's or dealer's internal risk management control procedures; or computing the broker's or dealer's deductions for market and credit risk in accordance with § 240.15c3-1(c)(2)(vi), (c)(2)(vii), and (c)(2)(iv), as appropriate. If it is not an ultimate holding company that has a principal regulator, the Commission also may require, as a condition of continuation of the exemption, the ultimate holding company of the broker or dealer to file more frequent reports or to modify its group-wide internal risk management control procedures. If the Commission finds it is necessary or appropriate in the public interest or for the protection of investors, the Commission may impose additional conditions on either the broker-dealer, or the ultimate holding company, if it is an ultimate holding company that does not have a principal regulator, if:
+(e) As a condition for the broker or dealer to use this appendix E to calculate certain of its capital charges, the Commission may impose additional conditions on the broker or dealer, which may include, but are not limited to restricting the broker's or dealer's business on a product-specific, category-specific, or general basis; submitting to the Commission a plan to increase the broker's or dealer's net capital or tentative net capital; filing more frequent reports with the Commission; modifying the broker's or dealer's internal risk management control procedures; or computing the broker's or dealer's deductions for market and credit risk in accordance with § 240.15c3-1(c)(2)(iv), (vi), and (vii), (c)(2)(xv)(A) and (B), as appropriate, and § 240.15c-1b, as appropriate. If it is not an ultimate holding company that has a principal regulator, the Commission also may require, as a condition of continuation of the exemption, the ultimate holding company of the broker or dealer to file more frequent reports or to modify its group-wide internal risk management control procedures. If the Commission finds it is necessary or appropriate in the public interest or for the protection of investors, the Commission may impose additional conditions on either the broker-dealer, or the ultimate holding company, if it is an ultimate holding company that does not have a principal regulator, if:
 
-(1) The broker or dealer is required by § 240.15c3-1(a)(7)(ii) to provide notice to the Commission that the broker's or dealer's tentative net capital is less than $5 billion;
+(1) The broker or dealer is required by § 240.15c3-1(a)(7)(ii) to provide notice to the Commission that the broker's or dealer's tentative net capital is less than $6 billion;
 
 (2) The broker or dealer or the ultimate holding company of the broker or dealer fails to meet the reporting requirements set forth in § 240.17a-5 or 240.15c3-1g(b), as applicable;
 
@@ -276,4 +290,4 @@ Additional Conditions
 
 (7) The Commission finds that imposition of other conditions is necessary or appropriate in the public interest or for the protection of investors.
 
-[69 FR 34462, June 21, 2004, as amended at 79 FR 1549, Jan. 8, 2014; 79 FR 38451, July 8, 2014]
+[69 FR 34462, June 21, 2004, as amended at 79 FR 1549, Jan. 8, 2014; 79 FR 38451, July 8, 2014; 84 FR 44046, Aug. 22, 2019]

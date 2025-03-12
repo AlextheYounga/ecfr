@@ -20,23 +20,7 @@
 
 (ii) It is accompanied by a bluefin tuna statistical document, as specified in § 300.185(a) of this title.
 
-(b) *Billfish.* (1) Persons may not sell or purchase a billfish taken from its management unit.
-
-(2) A billfish or a closely related species, namely, black marlin, *Makaira indica,* striped marlin, *Tetrapturus audax,* or shortbill spearfish, *Tetrapturus angustirostris,* or a part thereof, in the possession of a dealer or seafood processor is considered, for purposes of this part, to be a billfish from the Atlantic Ocean management unit. However, a billfish or a closely related species will not be considered to be from the Atlantic Ocean management unit if -
-
-(i) It was landed in a Pacific state and remains in the state of landing, or
-
-(ii) It is accompanied by a Billfish Certificate of Eligibility (COE) form, obtained from NMFS, or its equivalent that documents that the fish was harvested from other than the Atlantic Ocean management unit.
-
-(A) The Billfish COE required under this section must indicate, in English, the name and homeport of the harvesting vessel, and the date and port of offloading. Only the purchaser of the billfish from the harvesting vessel must complete this information.
-
-(B) The Billfish COE must be signed and dated by each dealer in possession of the product throughout the chain of custody up to but not including the consumer. This signature indicates a declaration that the billfish were not harvested from the management unit.
-
-(C) A Billfish COE may refer to billfish taken from only one harvesting vessel. If a shipment contains billfish taken from more than one vessel, a separate billfish COE must accompany the shipment for each harvesting vessel.
-
-(D) A model Billfish COE can be obtained by contacting the Division Chief. An equivalent form may be used provided it contains all of the information required under this section.
-
-(3) For the purposes of this paragraph, a dealer or seafood processor means any individual, other than a consumer, who engages in any activity, other than fishing, of industry, trade, or commerce, including but not limited to the buying or selling of a regulated species or parts thereof and activities conducted for the purpose of facilitating such buying and selling.
+(b) *Billfish.* Persons may not sell or purchase a billfish taken from its management unit.
 
 (c) *Shark.* (1) Persons that own or operate a vessel that possesses, retains, or lands a shark from the management unit may sell such shark only if the vessel has a valid commercial shark permit issued under this part. Persons may possess, retain, land, and sell a shark only to a federally-permitted dealer and only when the fishery for that species, management group, region, and/or sub-region has not been closed, as specified in § 635.28(b). Persons that own or operate a vessel that has pelagic longline gear onboard can possess, retain, land, and sell a shark only if the Atlantic Tunas Longline category has not been closed, as specified in § 635.28(a).
 

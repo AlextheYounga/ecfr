@@ -1,7 +1,5 @@
 ##### § 240.15c3-1b Adjustments to net worth and aggregate indebtedness for certain commodities transactions (appendix B to 17 CFR 240.15c3-1). #####
 
-Link to an amendment published at 84 FR 44044, Aug. 22, 2019.
-
 (a) Every broker or dealer in computing net capital pursuant to 17 CFR 240.15c3-1 shall comply with the following:
 
 (1) Where a broker or dealer has an asset or liability which is treated or defined in paragraph (c) of 17 CFR 240.15c3-1, the inclusion or exclusion of all or part of such asset or liability for the computation of aggregate indebtedness and net capital shall be in accordance with paragraph (c) of 17 CFR 240.15c3-1, except as specifically provided otherwise in this appendix B. Where a commodity related asset or liability is specifically treated or defined in 17 CFR 1.17 and is not generally or specifically treated or defined in 17 CFR 240.15c3-1 or this appendix B, the inclusion or exclusion of all or part of such asset or liability for the computation of aggregate indebtedness and net capital shall be in accordance with 17 CFR 1.17.
@@ -32,7 +30,7 @@ Net Capital
 
 (B) Receivables from foreign clearing organizations;
 
-(C) Receivables from registered futures commission merchants or brokers, resulting from commodity futures or option transactions, except those specifically excluded under paragraph (3)(ii) of this appendix B. In the case of an introducing broker or an applicant for registration as an introducing broker, include 50 percent of the value of a guarantee or security deposit with a futures commission merchant which carries or intends to carry accounts for the customers of the introducing broker.
+(C) Receivables from registered futures commission merchants or brokers, resulting from cleared swap transactions or, commodity futures or option transactions, except those specifically excluded under paragraph (3)(ii) of this appendix B. In the case of an introducing broker or an applicant for registration as an introducing broker, include 50 percent of the value of a guarantee or security deposit with a futures commission merchant which carries or intends to carry accounts for the customers of the introducing broker.
 
 (iv) Deduct all inventories (including work in process, finished goods, raw materials and inventories held for resale) except for readily marketable spot commodities; or spot commodities which adequately collateralize indebtedness under paragraph (c)(7) of 17 CFR 1.17;
 
@@ -94,4 +92,45 @@ Net Capital
 
 (xx) The term *customer* for purposes of this Appendix B shall mean customer as defined in 17 CFR 1.17(b)(2). The term “non-customer” for purposes of this appendix B shall mean non-customer as defined in 17 CFR 1.17(b)(4).
 
-(Secs. 15(c)(3), 17(a) and 23(a), 15 U.S.C. 78o(c)(3), 78q(a), and 78w(a))[44 FR 34886, June 15, 1979, as amended at 46 FR 37041, July 17, 1981; 49 FR 31848, Aug. 9, 1984]
+(b) Every broker or dealer in computing net capital pursuant to § 240.15c3-1 must comply with the following:
+
+(1) *Cleared swaps.* In the case of a cleared swap held in a proprietary account of the broker or dealer, deducting the amount of the applicable margin requirement of the derivatives clearing organization or, if the swap references an equity security index, the broker or dealer may take a deduction using the method specified in § 240.15c3-1a.
+
+(2) *Non-cleared swaps* - (i) *Credit default swaps referencing broad-based security indices.* In the case of a non-cleared credit default swap for which the deductions in § 240.15c3-1e do not apply:
+
+(A) *Short positions (selling protection).* In the case of a non-cleared swap that is a short credit default swap referencing a broad-based security index, deducting the percentage of the notional amount based upon the current basis point spread of the credit default swap and the maturity of the credit default swap in accordance table 1 to § 240.15c3-1a(b)(2)(i)(A):
+
+Table 1 to § 240.15c3-1a(b)(2)(i)(A)
+
+|Length of time to maturity of credit default swap contract|Basis point spread|                 |                 |                 |                     |     |
+|----------------------------------------------------------|------------------|-----------------|-----------------|-----------------|---------------------|-----|
+|                  100 or less  <br/>(%)                   |101-300  <br/>(%) |301-400  <br/>(%)|401-500  <br/>(%)|501-699  <br/>(%)|700 or more  <br/>(%)|     |
+|                   Less than 12 months                    |       0.67       |      1.33       |      3.33       |      5.00       |        6.67         |10.00|
+|            12 months but less than 24 months             |       1.00       |      2.33       |      5.00       |      6.67       |        8.33         |11.67|
+|            24 months but less than 36 months             |       1.33       |      3.33       |      6.67       |      8.33       |        10.00        |13.33|
+|            36 months but less than 48 months             |       2.00       |      4.00       |      8.33       |      10.00      |        11.67        |15.00|
+|            48 months but less than 60 months             |       2.67       |      4.67       |      10.00      |      11.67      |        13.33        |16.67|
+|            60 months but less than 72 months             |       3.67       |      5.67       |      11.67      |      13.33      |        15.00        |18.33|
+|            72 months but less than 84 months             |       4.67       |      6.67       |      13.33      |      15.00      |        16.67        |20.00|
+|            84 months but less than 120 months            |       5.67       |      10.00      |      15.00      |      16.67      |        18.33        |26.67|
+|                  120 months and longer                   |       6.67       |      13.33      |      16.67      |      18.33      |        20.00        |33.33|
+
+(B) *Long positions (purchasing protection).* In the case of a non-cleared swap that is a long credit default swap referencing a broad-based security index, deducting 50 percent of the deduction that would be required by paragraph (b)(2)(i)(A) of this section if the non-cleared swap was a short credit default swap, each such deduction not to exceed the current market value of the long position.
+
+(C) *Long and short credit default swaps.* In the case of non-cleared swaps that are long and short credit default swaps referencing the same broad-based security index, have the same credit events which would trigger payment by the seller of protection, have the same basket of obligations which would determine the amount of payment by the seller of protection upon the occurrence of a credit event, that are in the same or adjacent spread category, and that are in the same or adjacent maturity category and have a maturity date within three months of the other maturity category, deducting the percentage of the notional amount specified in the higher maturity category under paragraph (b)(2)(i)(A) or (B) of this section on the excess of the long or short position.
+
+(D) *Long basket of obligors and long credit default swap.* In the case of a non-cleared swap that is a long credit default swap referencing a broad-based security index and the broker or dealer is long a basket of debt securities comprising all of the components of the security index, deducting 50 percent of the amount specified in § 240.15c3-1(c)(2)(vi) for the component securities, provided the broker or dealer can deliver the component securities to satisfy the obligation of the broker or dealer on the credit default swap.
+
+(E) *Short basket of obligors and short credit default swap.* In the case of a non-cleared swap that is a short credit default swap referencing a broad-based security index and the broker or dealer is short a basket of debt securities comprising all of the components of the security index, deducting the amount specified in § 240.15c3-1(c)(2)(vi) for the component securities.
+
+(ii) *All other swaps.* (A) In the case of a non-cleared swap that is not a credit default swap for which the deductions in § 240.15c3-1e do not apply, deducting the amount calculated by multiplying the notional value of the swap by the percentage specified in:
+
+(*1*) Section 240.15c3-1 applicable to the reference asset if § 240.15c3-1 specifies a percentage deduction for the type of asset;
+
+(*2*) 17 CFR 1.17 applicable to the reference asset if 17 CFR 1.17 specifies a percentage deduction for the type of asset and § 240.15c3-1 does not specify a percentage deduction for the type of asset; or
+
+(*3*) In the case of non-cleared interest rate swap, § 240.15c3-1(c)(2)(vi)(A) based on the maturity of the swap, provided that the percentage deduction must be no less than one eighth of 1 percent of the amount of a long position that is netted against a short position in the case of a non-cleared swap with a maturity of three months or more.
+
+(B) A broker or dealer may reduce the deduction under paragraph (b)(2)(ii)(A) by an amount equal to any reduction recognized for a comparable long or short position in the reference asset or interest rate under § 240.15c3-1 or 17 CFR 1.17.
+
+(Secs. 15(c)(3), 17(a) and 23(a), 15 U.S.C. 78o(c)(3), 78q(a), and 78w(a))[44 FR 34886, June 15, 1979, as amended at 46 FR 37041, July 17, 1981; 49 FR 31848, Aug. 9, 1984; 84 FR 44044, Aug. 22, 2019]

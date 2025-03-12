@@ -1,5 +1,9 @@
-##### § 1.1 Purpose and scope. #####
+##### § 1.1 General provisions. #####
 
-This subpart establishes policy, procedures, requirements, and responsibilities for administration and coordination of the Freedom of Information Act (“FOIA”), 5 U.S.C. 552, pursuant to which any person may obtain official records. It also provides rules pertaining to the disclosure of records pursuant to compulsory process. This subpart also serves as the implementing regulations (referred to in § 1.3, “Agency implementing regulations”) for the Office of the Secretary (the immediate offices of the Secretary, Deputy Secretary, Under Secretaries and Assistant Secretaries) and for the Office of Communications. The Office of Communications has the primary responsibility for implementation of the FOIA in the Department of Agriculture (“USDA” or “Department”). The term “agency” or “agencies” is used throughout this subpart to include both USDA program agencies and staff offices.
+(a) This subpart contains the rules that the United States Department of Agriculture (USDA) and its components follow in processing requests for records under the Freedom of Information Act (FOIA), 5 U.S.C. 552. These rules should be read together with the FOIA, which provides additional information about access to records maintained by the USDA. Requests made by individuals for records about themselves under the Privacy Act of 1974, 5 U.S.C. 552a, and 7 CFR Subpart G are also processed under this subpart.
 
-[65 FR 46336, July 28, 2000]
+(b) The terms “component” or “components” are used throughout this subpart and in appendix A of this subpart to include both USDA program agencies and staff offices.
+
+(c) Unless otherwise stated, references to number of days indicates business days, excluding Saturdays, Sundays, and legal holidays.
+
+(d) Supplemental regulations for FOIA requests and appeals relating to records of USDA's Office of Inspector General are set forth in 7 CFR part 2620.

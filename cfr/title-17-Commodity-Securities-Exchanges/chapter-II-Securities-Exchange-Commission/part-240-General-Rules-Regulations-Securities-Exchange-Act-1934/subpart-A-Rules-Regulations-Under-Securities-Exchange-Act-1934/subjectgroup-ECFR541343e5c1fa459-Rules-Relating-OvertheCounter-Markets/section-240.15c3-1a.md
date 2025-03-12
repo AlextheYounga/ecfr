@@ -1,14 +1,12 @@
 ##### § 240.15c3-1a Options (Appendix A to 17 CFR 240.15c3-1). #####
 
-Link to an amendment published at 84 FR 44044, Aug. 22, 2019.
-
 (a) *Definitions.* (1) The term *unlisted option* shall mean any option not included in the definition of listed option provided in paragraph (c)(2)(x) of § 240.15c3-1.
 
 (2) The term *option series* refers to listed option contracts of the same type (either a call or a put) and exercise style, covering the same underlying security with the same exercise price, expiration date, and number of underlying units.
 
-(3) The term *related instrument* within an option class or product group refers to futures contracts and options on futures contracts covering the same underlying instrument. In relation to options on foreign currencies a related instrument within an option class also shall include forward contracts on the same underlying currency.
+(3) The term *related instrument* within an option class or product group refers to futures contracts, options on futures contracts, security-based swaps on a narrow-based security index, and swaps covering the same underlying instrument. In relation to options on foreign currencies, a related instrument within an option class also shall include forward contracts on the same underlying currency.
 
-(4) The term *underlying instrument* refers to long and short positions, as appropriate, covering the same foreign currency, the same security, or a security which is exchangeable for or convertible into the underlying security within a period of 90 days. If the exchange or conversion requires the payment of money or results in a loss upon conversion at the time when the security is deemed an underlying instrument for purposes of this Appendix A, the broker or dealer will deduct from net worth the full amount of the conversion loss. The term underlying instrument shall not be deemed to include securities options, futures contracts, options on futures contracts, qualified stock baskets, or unlisted instruments.
+(4) The term *underlying instrument* refers to long and short positions, as appropriate, covering the same foreign currency, the same security, security future, or security-based swap other than a security-based swap on a narrow-based security index, or a security which is exchangeable for or convertible into the underlying security within a period of 90 days. If the exchange or conversion requires the payment of money or results in a loss upon conversion at the time when the security is deemed an underlying instrument for purposes of this section, the broker or dealer will deduct from net worth the full amount of the conversion loss. The term *underlying instrument* shall not be deemed to include securities options, futures contracts, options on futures contracts, security-based swaps on a narrow-based security index, qualified stock baskets, unlisted instruments, or swaps.
 
 (5) The term *options class* refers to all options contracts covering the same underlying instrument.
 
@@ -96,9 +94,11 @@ Theoretical Pricing Charges
 
 (*2*) A minimum charge equal to 25% times the multiplier for each equity and index option contract and each related instrument within the option's class or product group, or $25 for each option on a major market foreign currency with the minimum charge for futures contracts and options on futures contracts adjusted for contract size differentials, not to exceed market value in the case of long positions in options and options on futures contracts; plus
 
-(*3*) In the case of portfolio types involving index options and related instruments offset by a qualified stock basket, there will be a minimum charge of 5% of the market value of the qualified stock basket for high-capitalization diversified and narrow-based indexes; and
+(*3*) In the case of portfolio types involving index options and related instruments offset by a qualified stock basket, there will be a minimum charge of 5 percent of the market value of the qualified stock basket for high-capitalization diversified and narrow-based indexes;
 
-(*4*) In the case of portfolio types involving index options and related instruments offset by a qualified stock basket, there will be a minimum charge of 71/2% of the market value of the qualified stock basket for non-high-capitalization diversified indexes.
+(*4*) In the case of portfolio types involving index options and related instruments offset by a qualified stock basket, there will be a minimum charge of 71/2 percent of the market value of the qualified stock basket for non-high-capitalization diversified indexes; and
+
+(*5*) In the case of portfolio types involving security futures and equity options on the same underlying instrument and positions in that underlying instrument, there will be a minimum charge of 25 percent times the multiplier for each security future and equity option.
 
 Alternative Strategy Based Method
 
@@ -174,4 +174,4 @@ Long Options
 
 (7) Where a broker or dealer is long a put or call endorsed or written by a broker or dealer, deducting 15 percent (or such other percentage required by paragraphs (c)(2)(vi) (A) through (K) of § 240.15c3-1) of the market value of the underlying security, not to exceed any value attributed to such option in paragraph (c)(2)(i) of § 240.15c3-1.
 
-[62 FR 6481, Feb. 12, 1997, as amended at 78 FR 51901, Aug. 21, 2013; 79 FR 1549, Jan. 8, 2014]
+[62 FR 6481, Feb. 12, 1997, as amended at 78 FR 51901, Aug. 21, 2013; 79 FR 1549, Jan. 8, 2014; 84 FR 44044, Aug. 22, 2019]

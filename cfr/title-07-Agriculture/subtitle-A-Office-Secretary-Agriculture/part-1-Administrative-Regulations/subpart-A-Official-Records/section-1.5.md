@@ -1,19 +1,27 @@
-##### § 1.5 Requests for records. #####
+##### § 1.5 Responses to records requests. #####
 
-(a) Any person who wishes to inspect or obtain copies of any record of any agency of the Department shall submit a request in writing and address the request to the official designated in regulations promulgated by that agency. The requester may ask for a fee waiver. All such requests for records shall be deemed to have been made pursuant to the Freedom of Information Act, regardless of whether the request specifically mentions the Freedom of Information Act. To facilitate processing of a request, the requester should place the phrase “FOIA REQUEST” in capital letters on the front of the envelope or on the cover sheet of the facsimile transmittal.
+(a) *In general.* Components should, to the extent practicable, communicate with requesters having access to the internet by electronic means, such as email, in lieu of first-class U.S. mail.
 
-(b) A request must reasonably describe the records to enable agency personnel to locate them with reasonable effort. Where possible, a requester should supply specific information regarding dates, titles, names of individuals, names of offices, and names of agencies or other organizations that may help identify the records. If the request relates to a matter in pending litigation, the requester should identify the court and its location.
+(b) *Acknowledgements of requests.* On receipt of a request, the processing component will send an acknowledgement to the requester and provide an assigned request tracking number for further reference. Components should include in the acknowledgement a brief description of the records sought, or attach a copy of the request, to allow requesters to more easily keep track of their requests.
 
-(c) If an agency determines that a request does not reasonably describe the records, the agency shall inform the requester of this fact and extend the requester an opportunity to clarify the request or to confer promptly with knowledgeable agency personnel to attempt to identify the records the requester is seeking. The “date of receipt” in such instances, for purposes of § 1.13, shall be the date of receipt of the amended or clarified request.
+(c) *Grants of requests.* When a component makes a determination to grant a request in whole or in part, it will notify the requester in writing. The component will also inform the requester of any fees charged, pursuant to § 1.12, in the processing of the request. Except in instances where advance payment of fees is required, components may issue bills for fees charged at the same time that they issue a determination. The component will include a statement advising the requester that he or she has the right to seek dispute resolution services from the component's FOIA Public Liaison.
 
-(d) If a request for records or a fee waiver made under this subpart is denied, the requester shall have the right to appeal the denial. Requesters also may appeal agency determinations of a requester's status for purposes of fee levels under sec. 5 of appendix A to this subpart. All appeals must be in writing and addressed to the official designated in regulations promulgated by the agency which denied the request. To facilitate processing of an appeal, the requester should place the phrase “FOIA APPEAL” in capital letters on the front of the envelope or on the cover sheet of the fax transmittal.
+(d) *Specifying the format of records.* Generally, requesters may specify the preferred form or format (including electronic formats) for the records sought. Components will accommodate the request if the records are readily reproducible in that form or format.
 
-(e) Requests that are not addressed to a specific agency in USDA, or which pertain to more than one USDA agency, or which are sent to the wrong agency of USDA, should be forwarded to the Department's FOIA Officer in the Office of Communications, U.S. Department of Agriculture, Washington, DC 20250.
+(e) *Exemptions and discretionary release.* All component records, except those specifically exempted from mandatory disclosure by one or more provisions of 5 U.S.C. 552(a) and (b), will be made available to any person submitting a records request under this subpart. Components are authorized, in their sole discretion, to make discretionary releases of their records when such releases are not otherwise specifically prohibited by Executive Order, statute, or regulation.
 
-(f) The Department FOIA Officer will determine which agency or agencies should process the request, and, where necessary, refer the request to the appropriate agency or agencies. The Department FOIA Officer will also notify the requester of the referral and of the name of each agency to which the request has been referred.
+(f) *Reasonable segregation of records.* If a requested record contains portions that are exempt from mandatory disclosure and other portions that are not exempt, the processing component will ensure that all reasonably segregable nonexempt portions are disclosed, and that all exempt portions are identified according to the specific exemption(s) that are applicable.
 
-(g) A request will be properly received when it is in the possession of the component agency that has responsibility for maintaining the requested records.
+(g) *Adverse determinations of requests.* A component making an adverse determination denying a request in any respect will notify the requester of that determination in writing. The written communication to the requester will include the name and title of the person responsible for the adverse determination, if other than the official signing the letter; a brief statement of the reason(s) for the determination, including any exemption(s) applied in denying the request; an estimate of the volume of records or information withheld, such as the number of pages or some other reasonable form of estimation; a statement that the determination may be appealed, followed by a description of the requirements to file an appeal; and a statement advising the requester that he or she has the right to seek dispute resolution services from the component's FOIA Public Liaison or the Office of Government Information Services (“OGIS”). An adverse determination includes:
 
-(h) Each agency shall develop and maintain a record of all written requests and appeals received in that agency. The record shall include the names of the requester; a brief summary of the information requested; whether the request or appeal was granted, denied, or partially denied; the exemption from mandatory disclosure under 5 U.S.C. 552(b) upon which any denial was based; and the amount of any fees associated with the request or appeal.
+(1) A determination to withhold any requested record in whole or in part;
 
-[65 FR 46337, July 28, 2000]
+(2) A determination that a requested record does not exist or cannot be found, when no responsive records are located and released;
+
+(3) A determination that a record is not readily reproducible in the format sought by the requester;
+
+(4) A determination on any disputed fee matter; or
+
+(5) A denial of a request for expedited treatment.
+
+(h) Upon request, the component will provide an estimated date by which the agency expects to provide a response to the requester. If a request involves a voluminous amount of material, or searches in multiple locations, the component may provide interim responses, releasing the records on a rolling basis.

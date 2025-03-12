@@ -1,7 +1,5 @@
 ##### § 200.30-3 Delegation of authority to Director of Division of Trading and Markets. #####
 
-Link to an amendment published at 84 FR 44041, Aug. 22, 2019.Link to a correction published at 84 FR 55055, Oct. 15, 2019.
-
 Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Director of the Division of Trading and Markets to be performed by him or under his direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
 
 (a) With respect to the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*):
@@ -26,33 +24,41 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d
 
 (6) Pursuant to Rules 14e-4(c), 14e-5(d), and 15c2-11(h) (§§ 240.14e-4(c), 240.14e-5(d), and 240.15c2-11(h) of this chapter), and Rules 101(d), 102(e), 104(j), and 105(c) of Regulation M (§§ 242.101(d), 242.102(e), 242.104(j), and 242.105(c) of this chapter), to grant requests for exemptions from Rules 14e-4, 14e-5, and 15c2-11 (§§ 240.14e-4, 240.14e-5, and 240.15c2-11 of this chapter), and Rules 101, 102, 104, and 105 of Regulation M (§§ 242.101, 242.102, 242.104, and 242.105 of this chapter).
 
-(7) Pursuant to Rule 15c3-1 (§ 240.15c3-1 of this chapter):
+(7) Pursuant to Rule 15c3-1 (§ 240.15c3-1 of this chapter) and Rule 18a-1 (§ 240.18a-1 of this chapter):
 
-(i) To approve lesser equity requirements in specialist or market maker accounts pursuant to Rule 15c3-1(a)(6)(iii)(E) (§ 240.15c3-1(a)(6)(iii)(E) of this chapter);
+(i) To approve lesser equity requirements in specialist or market maker accounts pursuant to Rule 15c3-1(a)(6)(iii)(B) (§ 240.15c3-1(a)(6)(iii)(B) of this chapter);
 
 (ii) To grant exemptions from Rule 15c3-1 (§ 240.15c3-1 of this chapter) pursuant to Rule 15c3-1(b)(3) (§ 240.15c3-1(b)(3) of this chapter);
 
 (iii) To grant temporary exemptions upon specified terms and conditions from the debt equity requirements of Rule 15c3-1(d)(§ 240.15c3-1(d) of this chapter);
 
-(iv) To approve a change in election of the alternative capital requirement pursuant to Rule 15c3-1(f)(1) (i) and (ii) (§ 240.15c3-1(f)(1) (i) and (ii) of this chapter); and
+(iv) To approve a change in election of the alternative capital requirement pursuant to Rule 15c3-1(a)(1)(ii) (§ 240.15c3-1(a)(1)(ii) of this chapter);
 
 (v) To review applications of OTC derivatives dealers filed pursuant to Appendix F of § 240.15c3-1f of this chapter, and to grant or deny such applications in full or in part; and
 
-(vi)(A) To review amendments to applications of brokers or dealers filed pursuant to § 240.15c3-1e and § 240.15c3-1g of this chapter and to approve such amendments, unconditionally or subject to specified terms and conditions;
+(vi)(A) To review amendments to applications of brokers or dealers and security-based swap dealers filed pursuant to §§ 240.15c3-1e, 240.15c3-1g, and 240.18a-1(d) of this chapter and to approve such amendments, unconditionally or subject to specified terms and conditions;
 
 (B) To grant extensions and exemptions from the notification requirements of § 240.15c3-1g(e) of this chapter, unconditionally or subject to specified terms and conditions;
 
-(C) To impose additional conditions, pursuant to § 240.15c3-1e(e) of this chapter, on a broker or dealer that computes certain of its net capital deductions pursuant to § 240.15c3-1e of this chapter or on an ultimate holding company of the broker or dealer that is not an ultimate holding company that has a principal regulator, as defined in § 240.15c3-1(c)(13)(ii) of this chapter;
+(C) To impose additional conditions, pursuant to §§ 240.15c3-1e(e) and 240.18a-1(d)(9)(iii) of this chapter, on a broker or dealer that computes certain of its net capital deductions pursuant to § 240.15c3-1e of this chapter, or on an ultimate holding company of the broker or dealer that is not an ultimate holding company that has a principal regulator, as defined in § 240.15c3-1(c)(13)(ii) of this chapter, or on a security-based swap dealer that computes certain of its net capital deductions pursuant to § 240.18a-1(d) of this chapter;
 
-(D) To require that a broker or dealer or the ultimate holding company of the broker or dealer provide information to the Commission pursuant to § 240.15c3-1e(a)(1)(viii)(G), § 240.15c3-1e(a)(1)(ix)(C), § 240.15c3-1e(a)(4), § 240.15c3-1g(b)(1)(i)(H), and § 240.15c3-1g(2)(i)(C) of this chapter; and
+(D) To require that a broker or dealer, or the ultimate holding company of the broker or dealer, or a security-based swap dealer provide information to the Commission pursuant to §§ 240.15c3-1e(a)(1)(viii)(G), 240.15c3-1e(a)(1)(ix)(C) and (a)(4), 240.18a-1(d)(2), and 240.15c3-1g(b)(1)(i)(H), and (b)(2)(i)(C) of this chapter;
 
-(E) To determine, pursuant to § 240.15c3-1e(a)(10)(ii), that the notice that a broker or dealer must provide to the Commission pursuant to § 240.15c3-1e(a)(10)(i) of this chapter will become effective for a shorter or longer period of time.
+(E) To determine, pursuant to §§ 240.15c3-1e(a)(10)(ii) and 240.18a-1(d)(7)(ii), that the notice that a broker or dealer and security-based swap dealer must provide to the Commission pursuant to §§ 240.15c3-1e(a)(10)(i) and 240.18a-1(d)(7)(i) of this chapter will become effective for a shorter or longer period of time; and
+
+(F) To approve, pursuant to §§ 240.15c3-1e(a)(7)(ii) and 240.18a-1(d)(5)(ii) of this chapter, the temporary use of a provisional model, in whole or in part, unconditionally or subject to any conditions or limitations;
+
+(vii)(A) To approve the prepayments of a subordinated loan agreement of a security-based swap dealer pursuant to § 240.18a-1d(b)(6) of this chapter;
+
+(B) To approve a prepayment of a revolving subordinated loan agreement of a security-based swap dealer pursuant to § 240.18a-1d(c)(4) of this chapter; and
+
+(C) To examine a proposed subordinated loan agreement filed by a security-based swap dealer and to find it acceptable pursuant to § 240.18a-1d(c)(5) of this chapter.
 
 (8) Pursuant to Rule 17a-10(d) (§ 240.17a-10(d) of this chapter), to consider applications by broker-dealers for extensions of time in which to file reports required by Rule 17a-10(§ 240.17a-10 of this chapter), and to grant, and to authorize the issuance of orders denying, such applications provided such applicant is advised of his right to have such denial reviewed by the Commission. Any extension granted shall not be for more than 150 days after the close of the calendar year for which the report on Form X-17A-10 (§ 249.618 of this chapter) is made.
 
 (9) Pursuant to Rule 10b-17(b)(2) (§ 240.10b-17(b)(2) of this chapter), to review applications of various issuers for exemption from the notice requirements of Rule 10b-17 (§ 240.10b-17 of this chapter) and to grant or deny such applications, with authority to issue orders granting and denying same, provided each applicant is advised of his right to have a denial reviewed by the Commission.
 
-(10)(i) Pursuant to Rule 15c3-3 (§ 240.15c3-3 of this chapter) to find and designate as control locations for purposes of Rule 15c3-3(c)(7) (§ 240.15c3-3(c)(7) of this chapter) certain broker-dealer accounts which are adequate for the protection of customer securities.
+(10)(i) Pursuant to Rule 15c3-3 (§ 240.15c3-3 of this chapter) and Rule 18a-4 (§ 240.18a-4 of this chapter) to find and designate as control locations for purposes of Rule 15c3-3(c)(7) (§ 240.15c3-3(c)(7) of this chapter), Rule 15c3-3(p)(2)(ii)(E) (§ 240.15c3-3(p)(2)(ii)(E) of this chapter), and Rule 18a-4(b)(2)(v) (§ 240.18a-4(b)(2)(v) of this chapter), certain broker-dealer and security-based swap accounts which are adequate for the protection of customer securities.
 
 (ii) Pursuant to section 36(a) of the Act (15 U.S.C. 78mm(a)) to review and, either unconditionally or on specified terms and conditions, grant or deny exemptions from the collateral requirements of paragraph (b)(3) of Rule 15c3-3 of the Act (§ 240.15c3-3 of this chapter) for a type of collateral after concluding that the characteristics of such collateral are substantially comparable to the characteristics of a type of collateral previously exempted by the Commission.
 

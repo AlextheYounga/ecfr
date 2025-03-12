@@ -58,7 +58,7 @@
 
 (iv) Agricultural items that are outside the scope of agricultural commodities as defined in part 772 of the EAR, such as insecticides, pesticides and herbicides, and agricultural commodities not eligible for License Exception AGR;
 
-(v) Items necessary to ensure the safety of civil aviation and the safe operation of commercial aircraft engaged in international air transportation, including the export or reexport of such aircraft leased to state-owned enterprises; and
+(v) Items necessary to ensure the safety of civil aviation and the safe operation of commercial aircraft engaged in international air transportation, excluding the export or reexport of such aircraft leased to state-owned enterprises; and
 
 (vi) Items necessary for the environmental protection of U.S. and international air quality, waters, or coastlines (including items related to renewable energy or energy efficiency).
 

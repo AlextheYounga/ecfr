@@ -1,31 +1,15 @@
-##### § 1.4 Public access to certain materials. #####
+##### § 1.4 Requirements for responding to records requests. #####
 
-(a) In accordance with 5 U.S.C. 552(a)(2), each agency within the Department shall make the following materials available for public inspection and copying (unless they are promptly published and copies offered for sale):
+(a) *In general.* Except for the instances described in paragraphs (c) and (d) of this section, the component that first receives a request for a record is responsible for responding to or referring the request.
 
-(1) Final opinions, including concurring and dissenting opinions, as well as orders, made in the adjudication of cases;
+(b) *Authority to grant or deny requests.* The head of a component or his or her designee is authorized to grant or to deny any requests for records originating with or maintained by that component.
 
-(2) Those statements of policy and interpretation which have been adopted by the agency and are not published in the Federal Register;
+(c) *Handling of misdirected requests.* When a component's FOIA office receives and determines that a request was misdirected within the Department's components or should be directed to additional Department component(s), the receiving component's FOIA office will route the request to the FOIA office of the proper component(s).
 
-(3) Administrative staff manuals and instructions to staff that affect a member of the public;
+(d) *Coordination of requests involving multiple components.* When a component becomes aware that a requester has sent a request for records to multiple USDA components, the component will notify the Departmental FOIA Officer to determine if some form of coordination is warranted.
 
-(4) Copies of all records, regardless of form or format, which have been released pursuant to a FOIA request under 5 U.S.C. 552(a)(3), and which because of the nature of their subject matter, have become or are likely to become the subject of subsequent requests for substantially the same records. Agencies shall decide on a case by case basis whether records fall into this category, based on the following factors:
+(e) *Consultations and referrals in the process of records review.* (1) *Consultation.* When records originated with the component processing the request but contain within them information of interest to another USDA component or other Federal Government office, the component processing the request should consult with that other entity prior to making a release determination.
 
-(i) Previous experience with similar records;
+(2) *Referral.* When the component processing the request believes that another USDA component or Federal Government office is best able to determine whether to disclose the record, the component typically should refer the responsibility for responding to the request regarding that record to that USDA component or Federal Government office. Ordinarily, the component or agency that originated the record is presumed to be the best able to make the disclosure determination. However, if the component processing the request and the originating component or agency jointly agree that the former is in the best position to respond regarding the record, then the record may be handled as a consultation.
 
-(ii) The particular characteristics of the records involved, including their nature and the type of information contained in them; and
-
-(iii) The identity and number of requesters and whether there is widespread media, historical, academic, or commercial interest in the records.
-
-(5) A general index of the records referred to in paragraph (a)(4) of this section.
-
-(b) Records encompassed within paragraphs (a)(1) through (a)(5) of this section created on or after November 1, 1996, shall be made available to the public by computer telecommunications or, if computer telecommunications means have not been established by the agency, by other electronic means.
-
-(c) Each agency of the Department shall maintain and make available for public inspection and copying current indexes providing identifying information regarding any matter issued, adopted or promulgated after July 4, 1967, and required by paragraph (a) of this section to be make available or published. Each agency shall publish and make available for distribution copies of such indexes and supplements to such indexes at least quarterly, unless it determines by notice published in the Federal Register that publication would be unnecessary and impracticable. After issuance of such notice, each agency shall provide copies of any index upon request at a cost not to exceed the direct cost of duplication.
-
-(d) Each agency is responsible for preparing reference material or a guide for requesting records or information from that agency. This guide shall also include an index of all major information systems, and a description of major information and record locator systems.
-
-(e) Each agency shall also prepare a handbook for obtaining information from that agency. The handbook should be a short, simple explanation to the public of what the FOIA is designed to do, and how a member of the public can use it to access government records. The handbook should be available on paper and through electronic means, and it should identify how a requester can access agency Freedom of Information Act annual reports. Similarly, the annual reports should refer to the handbook and how to obtain it.
-
-(f) It is appropriate to make frequently requested records available in accordance with paragraph (a)(4) of this section in situations where public access in a timely manner is important, and it is not intended to apply where there may be a limited number of requests over a short period of time from a few requesters. Agencies may remove a record from this access medium when the appropriate official determines that it is unlikely there will be substantial further requests for that document.
-
-[65 FR 46337, July 28, 2000]
+(3) *Coordination.* The standard referral procedure is not appropriate where disclosure of the identity of the component or agency to which the referral would be made could harm an interest protected by an applicable exemption, such as the exemptions that protect personal privacy or national security interests. For example, if a non-law enforcement component or agency responding to a request for records on a living third party locates within its files records originating with a law enforcement component or agency, and if the existence of that law enforcement interest in the third party was not publicly known, then to disclose that law enforcement interest could cause an unwarranted invasion of the personal privacy of the third party. Similarly, if a component or agency locates within its file's material originating with an Intelligence Community agency, and the involvement of that agency in the matter is classified and not publicly acknowledged, then to disclose or give attribution to the involvement of that Intelligence Community agency could cause national security harms. In such instances, in order to avoid harm to an interest protected by an applicable exemption, the component that received the request should coordinate with the originating component or agency to seek its views on the disclosability of the record. The release determination for the record that is the subject of the coordination should then be conveyed to the requester by the component that originally received the request.

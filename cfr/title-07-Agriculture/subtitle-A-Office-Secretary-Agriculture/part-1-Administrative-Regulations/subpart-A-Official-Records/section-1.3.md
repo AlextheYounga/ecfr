@@ -1,27 +1,21 @@
-##### § 1.3 Agency implementing regulations. #####
+##### § 1.3 Requirements for making a records request. #####
 
-Each agency of the Department shall promulgate regulations setting forth the following:
+(a) *Where and how to submit a request.* (1) A requester may submit a request in writing and address the request to the designated component within the USDA that maintains the records requested. The Departmental FOIA Officer will maintain a list of contact information for component FOIA offices and make this list available on the USDA public FOIA website. Filing a FOIA request directly with the component that maintains the records will facilitate the processing of the request. If responsive records are likely to reside within more than one USDA component, the requester should submit the request to the USDA Departmental FOIA office.
 
-(a) The location and hours of operation of the agency office or offices where members of the public may gain access to those materials required by 5 U.S.C. 552(a)(2) and § 1.4 to be made available for public inspection and copying.
+(2) Alternatively, a requester may submit a request electronically via USDA's online web portal or via the National FOIA portal. USDA components also accept requests submitted to the email addresses of component FOIA offices as listed on the USDA public FOIA website.
 
-(b) Information regarding the publication and distribution (by sale or otherwise) of indexes and supplements to indexes that are maintained in accordance with the requirements of 5 U.S.C. 552(a)(2) and § 1.4(c);
+(3) If a requester cannot determine where within the USDA to send a request, he or she should consult the USDA public FOIA website to determine where the records might be maintained. Alternatively, he or she may send the request to the Departmental FOIA Officer, who will route the request to the component(s) believed most likely to maintain the records requested.
 
-(c) The title and mailing address of the official or officials of the agency authorized to receive requests for records submitted in accordance with § 1.5(a), and to make determinations regarding whether to grant or deny such requests. Authority to make such determinations includes authority to:
+(4) To facilitate the processing of a request, a requester should place the phrase “FOIA REQUEST” in capital letters on the front of their envelope, the cover sheet of their facsimile transmittal, or the subject line of their email.
 
-(1) Extend the 20 working day administrative deadline for reply pursuant to § 1.16;
+(b) *What to include in a request.* (1) A requester seeking access to USDA records should provide sufficient information about himself or herself to enable components to resolve, in a timely manner, any issues that might arise as to the subject and scope of the request, and to deliver the response and, if appropriate, any records released in response to the request. Generally, this includes the name of the requester, name of the institution on whose behalf the request is being made, a phone number at which the requester might be contacted, an email address and/or postal mailing address, and a statement indicating willingness to pay any applicable processing fees.
 
-(2) Make discretionary releases pursuant to § 1.19(b);
+(2) A requester seeking access to USDA records must also provide a reasonable description of the records requested, as discussed in paragraph (c)(1) of this section.
 
-(3) Make determinations regarding the charging of fees pursuant to appendix A to this subpart;
+(3) A requester who is making a request for records about himself or herself may receive greater access if the request is accompanied by a signed declaration of identity that is either notarized or includes a penalty of perjury statement pursuant to 28 U.S.C. 1746.
 
-(d) The title and mailing address of the agency official who is authorized to receive appeals submitted in accordance with § 1.14 and to make determinations regarding whether to grant or deny such appeals. Authority to determine appeals includes authority to:
+(4) Where a request for records pertains to another individual, a requester may receive greater access by submitting either a notarized authorization signed by that individual or a declaration made in compliance with the requirements set forth in 28 U.S.C. 1746 by that individual authorizing disclosure of the records to the requester, or by submitting proof that the individual is deceased. As an exercise of administrative discretion, the component can require a requester to supply additional information if necessary, in order to verify that a particular individual has consented to disclosure.
 
-(1) Extend the 20 working day administrative deadline for reply pursuant to § 1.16 (to the extent the maximum extension authorized by § 1.16(c) was not used with regard to the initial request;
+(c) *How to describe the requested records.* (1) A FOIA request must reasonably describe the requested records. This means a request must be described in such a way as to enable component personnel familiar with the subject of the request to locate them with reasonable effort. In general, requesters should include as much detail as possible about the specific records or types of records that they are seeking. To the extent possible, supply specific information regarding dates, titles, names of individuals, names of offices, locations, names of agencies or other organizations, and contract or grant numbers that may help in identifying the records requested. If the request relates to pending litigation, the requester should identify the court and its location in addition to a case number.
 
-(2) Make discretionary releases pursuant to § 1.19(b);
-
-(3) Make determinations regarding the charging of fees pursuant to appendix A to this subpart; and
-
-(e) Other information which would be of concern to a person wishing to request records from that agency in accordance with this subpart.
-
-[65 FR 46337, July 28, 2000]
+(2) If a component determines that a request is incomplete, or that it does not reasonably describe the records sought, the component will inform the requester of this fact and advise as to what additional information is needed or why the request is otherwise insufficient.
