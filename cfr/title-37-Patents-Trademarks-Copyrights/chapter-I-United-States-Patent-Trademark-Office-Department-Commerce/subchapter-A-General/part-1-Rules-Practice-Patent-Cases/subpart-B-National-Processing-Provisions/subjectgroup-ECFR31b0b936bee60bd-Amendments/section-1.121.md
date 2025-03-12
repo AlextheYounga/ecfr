@@ -1,5 +1,7 @@
 ##### § 1.121 Manner of making amendments in applications. #####
 
+Link to an amendment published at 86 FR 57048, Oct. 14, 2021.
+
 (a) *Amendments in applications, other than reissue applications.* Amendments in applications, other than reissue applications, are made by filing a paper, in compliance with § 1.52, directing that specified amendments be made.
 
 (b) *Specification.* Amendments to the specification, other than the claims, computer listings (§ 1.96) and sequence listings (§ 1.825), must be made by adding, deleting or replacing a paragraph, by replacing a section, or by a substitute specification, in the manner specified in this section.

@@ -1,5 +1,7 @@
 ##### § 1.824 Form and format for nucleotide and/or amino acid sequence submissions in computer readable form. #####
 
+Link to an amendment published at 86 FR 57051, Oct. 14, 2021.
+
 (a) The computer readable form required by § 1.821(e) shall meet the following requirements:
 
 (1) The computer readable form shall contain a single “Sequence Listing” as either a diskette, series of diskettes, or other permissible media outlined in paragraph (c) of this section.

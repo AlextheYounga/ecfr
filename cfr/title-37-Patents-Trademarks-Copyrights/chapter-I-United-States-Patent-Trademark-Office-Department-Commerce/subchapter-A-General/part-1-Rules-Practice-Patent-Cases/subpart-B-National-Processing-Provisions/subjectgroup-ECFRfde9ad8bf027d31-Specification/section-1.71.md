@@ -1,5 +1,7 @@
 ##### § 1.71 Detailed description and specification of the invention. #####
 
+Link to an amendment published at 86 FR 57047, Oct. 14, 2021.
+
 (a) The specification must include a written description of the invention or discovery and of the manner and process of making and using the same, and is required to be in such full, clear, concise, and exact terms as to enable any person skilled in the art or science to which the invention or discovery appertains, or with which it is most nearly connected, to make and use the same.
 
 (b) The specification must set forth the precise invention for which a patent is solicited, in such manner as to distinguish it from other inventions and from what is old. It must describe completely a specific embodiment of the process, machine, manufacture, composition of matter or improvement invented, and must explain the mode of operation or principle whenever applicable. The best mode contemplated by the inventor of carrying out his invention must be set forth.

@@ -30,7 +30,7 @@
 
 (12) Bulletin 345-184 Form 397e, RUS design specifications for mobile and fixed dial radio telephone equipment May 1971.
 
-(13) Bulletin 1728F-700, RUS Specification for Wood Poles, Stubs and Anchor Logs, April 15, 2019.
+(13) Bulletin 1728F-700, RUS Specification for Wood Poles, Stubs and Anchor Logs, September 9, 2021.
 
 (14) Bulletin 1753F-150 Form 515a, Specifications and Drawings for Construction of Direct Buried Plant, September 30, 2010.
 
@@ -40,4 +40,4 @@
 
 (17) Bulletin 1753F-153 Form 515d, Specifications and Drawings for Service Installation at Customer Access Locations, September 17, 2001.
 
-[84 FR 28201, June 18, 2019]
+[84 FR 28201, June 18, 2019, as amended at 86 FR 57022, Oct. 14, 2021]

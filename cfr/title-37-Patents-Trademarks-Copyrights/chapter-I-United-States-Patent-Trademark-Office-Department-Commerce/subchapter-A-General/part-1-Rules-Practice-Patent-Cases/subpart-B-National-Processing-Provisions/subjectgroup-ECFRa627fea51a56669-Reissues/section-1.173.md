@@ -1,5 +1,7 @@
 ##### § 1.173 Reissue specification, drawings, and amendments. #####
 
+Link to an amendment published at 86 FR 57048, Oct. 14, 2021.
+
 (a) *Contents of a reissue application.* An application for reissue must contain the entire specification, including the claims, and the drawings of the patent. No new matter shall be introduced into the application. No reissue patent shall be granted enlarging the scope of the claims of the original patent unless applied for within two years from the grant of the original patent, pursuant to 35 U.S.C. 251.
 
 (1) *Specification, including claims.* The entire specification, including the claims, of the patent for which reissue is requested must be furnished in the form of a copy of the printed patent, in double column format, each page on only one side of a single sheet of paper. If an amendment of the reissue application is to be included, it must be made pursuant to paragraph (b) of this section. The formal requirements for papers making up the reissue application other than those set forth in this section are set out in § 1.52. Additionally, a copy of any disclaimer (§ 1.321), certificate of correction (§§ 1.322 through 1.324), or reexamination certificate (§ 1.570) issued in the patent must be included. (See also § 1.178).

@@ -1,6 +1,6 @@
 ##### § 386.11 Commencement of proceedings. #####
 
-(a) *Driver qualification proceedings.* These proceedings are commenced by the issuance of a determination by the Director, Office of Carrier, Driver, and Vehicle Safety Standards (MC-PS), in a case arising under § 391.47 of this chapter or by the issuance of a letter of disqualification.
+(a) *Driver qualification proceedings.* These proceedings are commenced by the issuance of a determination by FMCSA, in a case arising under § 391.47 of this chapter or by the issuance of a letter of disqualification.
 
 (1) Such determination and letters must be accompanied by the following:
 
@@ -44,4 +44,4 @@
 
 (3) In proceedings for collection of civil penalties for violations of the motor carrier safety regulations under the Motor Carrier Safety Act of 1984, the Agency may require the respondent to post a copy of the Notice of Claim in such place or places and for such duration as the Agency may determine appropriate to aid in the enforcement of the law and regulations.
 
-[50 FR 40306, Oct. 2, 1985, as amended at 53 FR 2036, Jan. 26, 1988; 56 FR 10182, Mar. 11, 1991; 65 FR 7756, Feb. 16, 2000; 70 FR 28480, May 18, 2005; 78 FR 58481, Sept. 24, 2013]
+[50 FR 40306, Oct. 2, 1985, as amended at 53 FR 2036, Jan. 26, 1988; 56 FR 10182, Mar. 11, 1991; 65 FR 7756, Feb. 16, 2000; 70 FR 28480, May 18, 2005; 78 FR 58481, Sept. 24, 2013; 86 FR 57071, Oct. 14, 2021]

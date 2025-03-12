@@ -1,0 +1,3 @@
+##### § 849.101 Applicability and purpose. #####
+
+This part contains regulations of the Office of Personnel Management (OPM) to implement the provisions 5 U.S.C. 8345(e)-(f), 8345a, 8466(c)-(d), and 8466a regarding payment of an annuity to a representative payee. This part establishes the criteria OPM uses to determine if representative payments are appropriate, the information OPM uses to select a representative payee, the responsibilities of a representative payee, the accountability of a representative payee, the limitations on the appointment of a representative payee, and the definition of and penalty for misuse of benefits by the representative payee.

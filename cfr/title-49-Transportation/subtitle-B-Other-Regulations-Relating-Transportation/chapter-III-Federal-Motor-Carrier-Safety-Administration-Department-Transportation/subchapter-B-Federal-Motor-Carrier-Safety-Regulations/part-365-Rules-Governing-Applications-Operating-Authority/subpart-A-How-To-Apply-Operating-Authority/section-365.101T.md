@@ -16,10 +16,10 @@ These rules govern the handling of applications for operating authority of the f
 
 (g) Applications for temporary motor carrier authority.
 
-(h) Applications for Mexico-domiciled motor carriers to operate in foreign commerce as common, contract or private motor carriers of property (including exempt items) between Mexico and all points in the United States. Under NAFTA Annex I, pageI-U-20, a Mexico-domiciled motor carrier may not provide point-to-point transportation services, including express delivery services, within the United States for goods other than international cargo.
+(h) Applications for Mexico-domiciled motor carriers to operate in foreign commerce as for-hire or private motor carriers of property (including exempt items) between Mexico and all points in the United States. A Mexico-domiciled motor carrier may not provide point-to-point transportation services, including express delivery services, within the United States for goods other than international cargo.
 
 (i) Applications for non-North America-domiciled motor carriers to operate in foreign commerce as for-hire motor carriers of property and passengers within the United States.
 
 (j) The rules in this part do not apply to “pipeline welding trucks” as defined in 49 CFR 390.38(b).
 
-[82 FR 5299, Jan. 17, 2017]
+[82 FR 5299, Jan. 17, 2017, as amended at 86 FR 57068, Oct. 14, 2021]

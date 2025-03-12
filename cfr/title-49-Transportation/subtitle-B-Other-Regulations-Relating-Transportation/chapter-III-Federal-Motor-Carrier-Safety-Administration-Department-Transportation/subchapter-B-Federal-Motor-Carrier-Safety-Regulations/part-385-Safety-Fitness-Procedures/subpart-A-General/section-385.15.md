@@ -4,7 +4,7 @@
 
 (b) The motor carrier's request must explain the error it believes the FMCSA committed in issuing the safety rating. The motor carrier must include a list of all factual and procedural issues in dispute, and any information or documents that support its argument.
 
-(c) The motor carrier must submit its request in writing to the Chief Safety Officer, Federal Motor Carrier Safety Administration, 1200 New Jersey Ave., SE., Washington, DC 20590-0001.
+(c) The motor carrier must submit its request in writing to the Assistant Administrator, ATTN: Adjudications Counsel, Federal Motor Carrier Safety Administration, 1200 New Jersey Ave., SE., Washington, DC 20590-0001.
 
 (1) If a motor carrier has received a notice of a proposed “unsatisfactory” safety rating, it should submit its request within 15 days from the date of the notice. This time frame will allow the FMCSA to issue a written decision before the prohibitions outlined in § 385.13 (a)(1) and (2) take effect. Failure to petition within this 15-day period may prevent the FMCSA from issuing a final decision before such prohibitions take effect.
 
@@ -22,4 +22,4 @@
 
 (g) Any motor carrier may request a rating change under the provisions of § 385.17.
 
-[65 FR 50935, Aug. 22, 2000, as amended at 72 FR 55701, Oct. 1, 2007; 75 FR 17241, Apr. 5, 2010; 77 FR 28450, 28454, May 14, 2012]
+[65 FR 50935, Aug. 22, 2000, as amended at 72 FR 55701, Oct. 1, 2007; 75 FR 17241, Apr. 5, 2010; 77 FR 28450, 28454, May 14, 2012; 86 FR 57070, Oct. 14, 2021]

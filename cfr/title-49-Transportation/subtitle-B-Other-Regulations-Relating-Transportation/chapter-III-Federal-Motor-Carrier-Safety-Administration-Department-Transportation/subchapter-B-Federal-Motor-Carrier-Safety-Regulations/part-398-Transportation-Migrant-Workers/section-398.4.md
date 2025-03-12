@@ -1,6 +1,6 @@
 ##### § 398.4 Driving of motor vehicles. #####
 
-(a) *Compliance required.* Every motor carrier shall comply with the requirements of this part, shall instruct its officers, agents, representatives and drivers with respect thereto, and shall take such measures as are necessary to insure compliance therewith by such persons. All officers, agents, representatives, drivers, and employees of motor carriers directly concerned with the management, maintenance, operation, or driving of motor vehicles, shall comply with and be conversant with the requirements of this part.
+(a) *Compliance required.* Every motor carrier shall comply with the requirements of this part, shall instruct its officers, agents, representatives and drivers with respect thereto, and shall take such measures as are necessary to ensure compliance therewith by such persons. All officers, agents, representatives, drivers, and employees of motor carriers directly concerned with the management, maintenance, operation, or driving of motor vehicles, shall comply with and be conversant with the requirements of this part.
 
 (b) *Driving rules to be obeyed.* Every motor vehicle shall be driven in accordance with the laws, ordinances, and regulations of the jurisdiction in which it is being operated, unless such laws, ordinances and regulations are at variance with specific regulations of this Administration which impose a greater affirmative obligation or restraint.
 
@@ -28,7 +28,7 @@ Windshield wiper or wipers.
 
 Rear-vision mirror or mirrors.Coupling devices.Fire extinguisher, at least one properly mounted.Road warning devices, at least one red burning fusee and at least three flares (oil burning pot torches), red electric lanterns, or red emergency reflectors.
 
-(g) *Safe loading* - (1) *Distribution and securing of load.* No motor vehicle shall be driven nor shall any motor carrier permit or require any motor vehicle to be driven if it is so loaded, or if the load thereon is so improperly distributed or so inadequately secured, as to prevent its safe operation.
+(g) *Safe loading*—(1) *Distribution and securing of load.* No motor vehicle shall be driven nor shall any motor carrier permit or require any motor vehicle to be driven if it is so loaded, or if the load thereon is so improperly distributed or so inadequately secured, as to prevent its safe operation.
 
 (2) *Doors, tarpaulins, tailgates and other equipment.* No motor vehicle shall be driven unless the tailgate, tailboard, tarpaulins, doors, all equipment and rigging used in the operation of said vehicle, and all means of fastening the load, are securely in place.
 
@@ -78,4 +78,4 @@ Rear-vision mirror or mirrors.Coupling devices.Fire extinguisher, at least one p
 
 (3) An abandoned or exempted grade crossing which is clearly marked as such by or with the consent of the proper state authority, when such marking can be read from the driver's position.
 
-All such motor vehicles shall display a sign on the rear reading, “This Vehicle Stops at Railroad Crossings.”[33 FR 19765, Dec. 25, 1968, as amended at 40 FR 44557, Sept. 29, 1975]
+All such motor vehicles shall display a sign on the rear reading, “This Vehicle Stops at Railroad Crossings.”[33 FR 19765, Dec. 25, 1968, as amended at 40 FR 44557, Sept. 29, 1975; 86 FR 57077, Oct. 14, 2021]

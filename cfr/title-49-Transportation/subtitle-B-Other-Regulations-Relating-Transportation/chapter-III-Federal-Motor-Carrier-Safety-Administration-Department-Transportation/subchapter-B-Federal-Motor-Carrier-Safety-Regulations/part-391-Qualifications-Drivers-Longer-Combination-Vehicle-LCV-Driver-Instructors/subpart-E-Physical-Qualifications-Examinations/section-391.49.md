@@ -1,10 +1,10 @@
 ##### § 391.49 Alternative physical qualification standards for the loss or impairment of limbs. #####
 
-(a) A person who is not physically qualified to drive under § 391.41(b)(1) or (b)(2) and who is otherwise qualified to drive a commercial motor vehicle, may drive a commercial motor vehicle, if the Division Administrator, FMCSA, has granted a Skill Performance Evaluation (SPE) Certificate to that person.
+(a) A person who is not physically qualified to drive under § 391.41(b)(1) or (2) and who is otherwise qualified to drive a commercial motor vehicle, may drive a commercial motor vehicle if FMCSA has granted a Skill Performance Evaluation (SPE) Certificate to that person.
 
-(b) *SPE certificate* - (1) *Application.* A letter of application for an SPE certificate may be submitted jointly by the person (driver applicant) who seeks an SPE certificate and by the motor carrier that will employ the driver applicant, if the application is accepted.
+(b)(1) *Application.* A letter of application for an SPE certificate may be submitted jointly by the person (driver applicant) who seeks an SPE certificate and by the motor carrier that will employ the driver applicant, if the application is accepted.
 
-(2) *Application address.* The application must be addressed to the applicable field service center, FMCSA, for the State in which the co-applicant motor carrier's principal place of business is located. The address of each, and the States serviced, are listed in § 390.27 of this chapter.
+(2) *Application address.* The application must be addressed to the SPE Certificate Program at the applicable FMCSA service center for the State in which the co-applicant motor carrier's principal place of business is located. The address of each, and the States serviced, are listed in § 390.27 of this chapter.
 
 (3) *Exception.* A letter of application for an SPE certificate may be submitted unilaterally by a driver applicant. The application must be addressed to the field service center, FMCSA, for the State in which the driver has legal residence. The driver applicant must comply with all the requirements of paragraph (c) of this section except those in (c)(1)(i) and (iii). The driver applicant shall respond to the requirements of paragraphs (c)(2)(i) to (v) of this section, if the information is known.
 
@@ -12,7 +12,7 @@
 
 (1) Identification of the applicant(s):
 
-(i) Name and complete address of the motor carrier coapplicant;
+(i) Name and complete address of the motor carrier co-applicant;
 
 (ii) Name and complete address of the driver applicant;
 
@@ -22,7 +22,7 @@
 
 (2) Description of the type of operation the driver will be employed to perform:
 
-(i) State(s) in which the driver will operate for the motor carrier coapplicant (if more than 10 States, designate general geographic area only);
+(i) State(s) in which the driver will operate for the motor carrier co-applicant (if more than 10 States, designate general geographic area only);
 
 (ii) Average period of time the driver will be driving and/or on duty, per day;
 
@@ -38,7 +38,7 @@
 
 (ii) Drive train;
 
-(A) Transmission type (automatic or manual - if manual, designate number of forward speeds);
+(A) Transmission type (automatic or manual—if manual, designate number of forward speeds);
 
 (B) Auxiliary transmission (if any) and number of forward speeds; and
 
@@ -58,7 +58,7 @@
 
 (4) Otherwise qualified:
 
-(i) The coapplicant motor carrier must certify that the driver applicant is otherwise qualified under the regulations of this part;
+(i) The co-applicant motor carrier must certify that the driver applicant is otherwise qualified under the regulations of this part;
 
 (ii) In the case of a unilateral application, the driver applicant must certify that he/she is otherwise qualified under the regulations of this part.
 
@@ -66,15 +66,15 @@
 
 (i) Driver applicant's signature and date signed;
 
-(ii) Motor carrier official's signature (if application has a coapplicant), title, and date signed. Depending upon the motor carrier's organizational structure (corporation, partnership, or proprietorship), the signer of the application shall be an officer, partner, or the proprietor.
+(ii) Motor carrier official's signature (if application has a co-applicant), title, and date signed. Depending upon the motor carrier's organizational structure (corporation, partnership, or proprietorship), the signer of the application shall be an officer, partner, or the proprietor.
 
 (d) The letter of application for an SPE certificate shall be accompanied by:
 
-(1) A copy of the results of the medical examination performed pursuant to § 391.43;
+(1) A copy of the Medical Examination Report Form, MCSA-5875, documenting the results of the medical examination performed pursuant to § 391.43;
 
-(2) A copy of the medical certificate completed pursuant to § 391.43(h);
+(2) A copy of the Medical Examiner's Certificate, Form MCSA-5876, completed pursuant to § 391.43(h);
 
-(3) A medical evaluation summary completed by either a board qualified or board certified physiatrist (doctor of physical medicine) or orthopedic surgeon. The coapplicant motor carrier or the driver applicant shall provide the physiatrist or orthopedic surgeon with a description of the job-related tasks the driver applicant will be required to perform;
+(3) A medical evaluation summary completed by either a board qualified or board certified physiatrist (doctor of physical medicine) or orthopedic surgeon. The co-applicant motor carrier or the driver applicant shall provide the physiatrist or orthopedic surgeon with a description of the job-related tasks the driver applicant will be required to perform;
 
 (i) The medical evaluation summary for a driver applicant disqualified under § 391.41(b)(1) shall include:
 
@@ -94,7 +94,7 @@
 
 (5) Road test:
 
-(i) A copy of the driver applicant's road test administered by the motor carrier coapplicant and the certificate issued pursuant to § 391.31(b) through (g); or
+(i) A copy of the driver applicant's road test administered by the motor carrier co-applicant and the certificate issued pursuant to § 391.31(b) through (g); or
 
 (ii) A unilateral applicant shall be responsible for having a road test administered by a motor carrier or a person who is competent to administer the test and evaluate its results.
 
@@ -108,13 +108,13 @@
 
 (8) A copy of the driver applicant's State Motor Vehicle Driving Record for the past 3 years from each State in which a motor vehicle driver's license or permit has been obtained.
 
-(e) *Agreement.* A motor carrier that employs a driver with an SPE certificate agrees to:
+(e) A motor carrier that employs a driver with an SPE certificate agrees to:
 
-(1) File promptly (within 30 days of the involved incident) with the Medical Program Specialist, FMCSA service center, such documents and information as may be required about driving activities, accidents, arrests, license suspensions, revocations, or withdrawals, and convictions which involve the driver applicant. This applies whether the driver's SPE certificate is a unilateral one or has a coapplicant motor carrier;
+(1) File promptly (within 30 days of the involved incident) with the SPE Certificate Program, FMCSA service center, such documents and information as may be required about driving activities, accidents, arrests, license suspensions, revocations, or withdrawals, and convictions which involve the driver applicant. This paragraph (e)(1) applies whether the driver SPE certificate is a unilateral one or has a co-applicant motor carrier;
 
-(i) A motor carrier who is a coapplicant must file the required documents with the Medical Program Specialist, FMCSA for the State in which the carrier's principal place of business is located; or
+(i) A motor carrier who is a co-applicant must file the required documents with the SPE Certificate Program, FMCSA service center, for the State in which the carrier's principal place of business is located; or
 
-(ii) A motor carrier who employs a driver who has been issued a unilateral SPE certificate must file the required documents with the Medical Program Specialist, FMCSA service center, for the State in which the driver has legal residence.
+(ii) A motor carrier who employs a driver who has been issued a unilateral SPE certificate must file the required documents with the SPE Certificate Program, FMCSA service center, for the State in which the driver has legal residence.
 
 (2) Evaluate the driver with a road test using the trailer the motor carrier intends the driver to transport or, in lieu of, accept a certificate of a trailer road test from another motor carrier if the trailer type(s) is similar, or accept the trailer road test done during the Skill Performance Evaluation if it is a similar trailer type(s) to that of the prospective motor carrier. Job tasks, as stated in paragraph (e)(3) of this section, are not evaluated in the Skill Performance Evaluation;
 
@@ -124,11 +124,11 @@
 
 (f) The driver shall supply each employing motor carrier with a copy of the SPE certificate.
 
-(g) The Division Administrator/State Director, FMCSA, may require the driver applicant to demonstrate his or her ability to safely operate the commercial motor vehicle(s) the driver intends to drive to an agent of the Division Administrator/State Director, FMCSA. The SPE certificate form will identify the power unit (bus, truck, truck tractor) for which the SPE certificate has been granted. The SPE certificate forms will also identify the trailer type used in the Skill Performance Evaluation; however, the SPE certificate is not limited to that specific trailer type. A driver may use the SPE certificate with other trailer types if a successful trailer road test is completed in accordance with paragraph (e)(2) of this section. Job tasks, as stated in paragraph (e)(3) of this section, are not evaluated during the Skill Performance Evaluation.
+(g) FMCSA may require the driver applicant to demonstrate his or her ability to safely operate the commercial motor vehicle(s) the driver intends to drive to an agent of FMCSA. The SPE certificate form will identify the power unit (bus, truck, truck tractor) for which the SPE certificate has been granted. The SPE certificate forms will also identify the trailer type used in the Skill Performance Evaluation; however, the SPE certificate is not limited to that specific trailer type. A driver may use the SPE certificate with other trailer types if a successful trailer road test is completed in accordance with paragraph (e)(2) of this section. Job tasks, as stated in paragraph (e)(3) of this section, are not evaluated during the Skill Performance Evaluation.
 
-(h) The Division Administrator/State Director, FMCSA, may deny the application for SPE certificate or may grant it totally or in part and issue the SPE certificate subject to such terms, conditions, and limitations as deemed consistent with the public interest. The SPE certificate is valid for a period not to exceed 2 years from date of issue, and may be renewed 30 days prior to the expiration date.
+(h) FMCSA may deny the application for SPE certificate or may grant it totally or in part and issue the SPE certificate subject to such terms, conditions, and limitations as deemed consistent with the public interest. The SPE certificate is valid for a period not to exceed 2 years from date of issue, and may be renewed 30 days prior to the expiration date.
 
-(i) The SPE certificate renewal application shall be submitted to the Medical Program Specialist, FMCSA service center, for the State in which the driver has legal residence, if the SPE certificate was issued unilaterally. If the SPE certificate has a coapplicant, then the renewal application is submitted to the Medical Program Specialist, FMCSA field service center, for the State in which the coapplicant motor carrier's principal place of business is located. The SPE certificate renewal application shall contain the following:
+(i) The SPE certificate renewal application shall be submitted to the SPE Certificate Program, FMCSA service center, for the State in which the driver has legal residence, if the SPE certificate was issued unilaterally. If the SPE certificate has a co-applicant, then the renewal application is submitted to the SPE Certificate Program, FMCSA service center, for the State in which the co-applicant motor carrier's principal place of business is located. The SPE certificate renewal application shall contain the following:
 
 (1) Name and complete address of motor carrier currently employing the applicant;
 
@@ -142,7 +142,7 @@
 
 (6) Number of accidents incurred while driving under the current SPE certificate, including date of the accident(s), number of fatalities, number of injuries, and the estimated dollar amount of property damage;
 
-(7) A current medical examination report;
+(7) A current Medical Examination Report Form, MCSA-5875;
 
 (8) A medical evaluation summary pursuant to paragraph (d)(3) of this section, if an unstable medical condition exists. All handicapped conditions classified under § 391.41(b)(1) are considered unstable. Refer to paragraph (d)(3)(ii) of this section for the condition under § 391.41(b)(2) which may be considered medically stable.
 
@@ -154,11 +154,11 @@
 
 (12) Motor carrier coapplicant's signature and date signed.
 
-(j)(1) Upon granting an SPE certificate, the Division Administrator/State Director, FMCSA, will notify the driver applicant and co-applicant motor carrier (if applicable) by letter. The terms, conditions, and limitations of the SPE certificate will be set forth. A motor carrier shall maintain a copy of the SPE certificate in its driver qualification file. A copy of the SPE certificate shall be retained in the motor carrier's file for a period of 3 years after the driver's employment is terminated. The driver applicant shall have the SPE certificate (or a legible copy) in his/her possession whenever on duty.
+(j)(1) Upon granting an SPE certificate, FMCSA will notify the driver applicant and co-applicant motor carrier (if applicable) by letter. The terms, conditions, and limitations of the SPE certificate will be set forth. A motor carrier shall maintain a copy of the SPE certificate in its driver qualification file. A copy of the SPE certificate shall be retained in the motor carrier's file for a period of 3 years after the driver's employment is terminated. The driver applicant shall have the SPE certificate (or a legible copy) in his/her possession whenever on duty.
 
-(2) Upon successful completion of the skill performance evaluation, the Division Administrator/State Director, FMCSA, for the State where the driver applicant has legal residence, must notify the driver by letter and enclose an SPE certificate substantially in the following form:
+(2) Upon successful completion of the skill performance evaluation, FMCSA must notify the driver by letter and enclose an SPE certificate substantially in the following form:
 
-Skill Performance Evaluation CertificateName of Issuing Agency:Agency Address:Telephone Number: ( )Issued Under 49 CFR 391.49, subchapter B of the Federal Motor Carrier Safety RegulationsDriver's Name:Effective Date:SSN:DOB:Expiration Date:Address:Driver Disability:Check One:\_New\_RenewalDriver's License:\_\_\_\_\_ (State) (Number)
+Skill Performance Evaluation CertificateName of Issuing Agency:Agency Address:Telephone Number: ( )Issued Under 49 CFR 391.49, subchapter B of the Federal Motor Carrier Safety RegulationsDriver's Name:Effective Date:SSN:DOB:Expiration Date:Address:Driver Disability:Check One: \_\_\_\_\_\_New \_\_\_\_\_\_RenewalDriver's License:(State) (Number)
 
 In accordance with 49 CFR 391.49, subchapter B of the Federal Motor Carrier Safety Regulations (FMCSRs), the driver application for a skill performance evaluation (SPE) certificate is hereby granted authorizing the above-named driver to operate in interstate or foreign commerce under the provisions set forth below. This certificate is granted for the period shown above, not to exceed 2 years, subject to periodic review as may be found necessary. This certificate may be renewed upon submission of a renewal application. Continuation of this certificate is dependent upon strict adherence by the above-named driver to the provisions set forth below and compliance with the FMCSRs. Any failure to comply with provisions herein may be cause for cancellation.
 
@@ -170,16 +170,14 @@ LIMITATIONS:
 
 NOTICE: To all MOTOR CARRIERS employing a driver with an SPE certificate. This certificate is granted for the operation of the *power unit only.* It is the responsibility of the employing motor carrier to evaluate the driver with a road test using the trailer type(s) the motor carrier intends the driver to transport, or in lieu of, accept the trailer road test done during the SPE if it is a similar trailer type(s) to that of the prospective motor carrier. Also, it is the responsibility of the employing motor carrier to evaluate the driver for those non-driving safety-related job tasks associated with the type of trailer(s) utilized, as well as, any other non-driving safety-related or job-related tasks unique to the operations of the employing motor carrier.
 
-The SPE of the above named driver was given by a Skill Performance Evaluation Program Specialist. It was successfully completed utilizing the above named power unit and \_\_\_\_\_\_\_\_ (trailer, if applicable)
+The SPE of the above-named driver was given by an SPE Evaluator. It was successfully completed utilizing the above-named power unit and \_\_\_\_\_\_\_\_ (trailer, if applicable)
 
 The tractor or truck had a \_\_\_\_\_\_\_\_ transmission.
 
-Please read the *NOTICE* paragraph above.
+Please read the *NOTICE* paragraph above.Name:Signature:Title:Date:
 
-Name:Signature:Title:Date:
-
-(k) The Division Administrator/State Director, FMCSA, may revoke an SPE certificate after the person to whom it was issued is given notice of the proposed revocation and has been allowed a reasonable opportunity to appeal.
+(k) FMCSA may revoke an SPE certificate after the person to whom it was issued is given notice of the proposed revocation and has been allowed a reasonable opportunity to appeal.
 
 (l) Falsifying information in the letter of application, the renewal application, or falsifying information required by this section by either the applicant or motor carrier is prohibited.
 
-[65 FR 25287, May 1, 2000, as amended at 65 FR 59380, Oct. 5, 2000; 67 FR 61824, Oct. 2, 2002; 78 FR 58483, Sept. 24, 2013]
+[65 FR 25287, May 1, 2000, as amended at 65 FR 59380, Oct. 5, 2000; 67 FR 61824, Oct. 2, 2002; 78 FR 58483, Sept. 24, 2013; 86 FR 57075, Oct. 14, 2021]

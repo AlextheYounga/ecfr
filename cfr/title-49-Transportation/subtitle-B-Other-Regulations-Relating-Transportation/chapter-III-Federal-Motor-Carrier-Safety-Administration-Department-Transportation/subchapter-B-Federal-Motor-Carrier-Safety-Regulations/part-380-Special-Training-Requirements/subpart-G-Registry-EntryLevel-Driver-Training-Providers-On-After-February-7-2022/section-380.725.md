@@ -10,12 +10,10 @@
 
 (3) Instructor qualification documentation indicating driving and/or training experience, as applicable, for each instructor and copies of commercial driver's licenses and applicable endorsements held by BTW instructors or theory instructors, as applicable.
 
-(4) The Training Provider Registration Form submitted to the TPR.
+(4) The lesson plans for theory and BTW (range and public road) training curricula, as applicable.
 
-(5) The lesson plans for theory and BTW (range and public road) training curricula, as applicable.
-
-(6) Records of individual entry-level driver training assessments as described in § 380.715.
+(5) Records of individual entry-level driver training assessments as described in § 380.715.
 
 (c) *Retention of records.* Training providers listed on the TPR must retain the records identified in paragraph (b) of this section for a minimum of three years from the date each required record is generated or received, unless a record, such as a BTW instructor's CDL, has expired or been canceled, in which case the most recent, valid CDL should be retained, if applicable. The provisions of this part do not affect a training provider's obligation to comply with any other local, State, or Federal requirements prescribing longer retention periods for any category of records described herein.
 
-[81 FR 88791, Dec. 8, 2016, as amended at 84 FR 51432, Sept. 30, 2019]
+[81 FR 88791, Dec. 8, 2016, as amended at 84 FR 51432, Sept. 30, 2019; 86 FR 57069, Oct. 14, 2021]

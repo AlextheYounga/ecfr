@@ -20,6 +20,8 @@ Unless specifically defined elsewhere, in this subchapter:
 
 *Alcohol concentration* (AC) means the concentration of alcohol in a person's blood or breath. When expressed as a percentage it means grams of alcohol per 100 milliliters of blood or grams of alcohol per 210 liters of breath.
 
+*Assistant Administrator* means the Assistant Administrator of the Federal Motor Carrier Safety Administration or an authorized delegee.
+
 *Bus* means any motor vehicle designed, constructed, and/or used for the transportation of passengers, including taxicabs.
 
 *Business district* means the territory contiguous to and including a highway when within any 600 feet along such highway there are buildings in use for business or industrial purposes, including but not limited to hotels, banks, or office buildings which occupy at least 300 feet of frontage on one side or 300 feet collectively on both sides of the highway.
@@ -105,9 +107,9 @@ either -
 
 *Electronic signature* means a method of signing an electronic communication that identifies and authenticates a particular person as the source of the electronic communication and indicates such person's approval of the information contained in the electronic communication, in accordance with the Government Paperwork Elimination Act (Pub. L. 105-277, Title XVII, Secs. 1701-1710, 44 U.S.C. 3504 note, 112 Stat. 2681-749).
 
-*Emergency* means any hurricane, tornado, storm (*e.g.* thunderstorm, snowstorm, icestorm, blizzard, sandstorm, etc.), high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, mud slide, drought, forest fire, explosion, blackout or other occurrence, natural or man-made, which interrupts the delivery of essential services (such as, electricity, medical care, sewer, water, telecommunications, and telecommunication transmissions) or essential supplies (such as, food and fuel) or otherwise immediately threatens human life or public welfare, provided such hurricane, tornado, or other event results in:
+*Emergency* means any hurricane, tornado, storm (*e.g.* thunderstorm, snowstorm, icestorm, blizzard, sandstorm, etc.), high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, mud slide, drought, forest fire, explosion, blackout, or other occurrence, natural or man-made, which interrupts the delivery of essential services (such as, electricity, medical care, sewer, water, telecommunications, and telecommunication transmissions) or essential supplies (such as, food and fuel) or otherwise immediately threatens human life or public welfare, provided such hurricane, tornado, or other event results in:
 
-(1) A declaration of an emergency by the President of the United States, the Governor of a State, or their authorized representatives having authority to declare emergencies; by the FMCSA Field Administrator for the geographical area in which the occurrence happens; or by other Federal, State or local government officials having authority to declare emergencies; or
+(1) A declaration of an emergency by the President of the United States, the Governor of a State, or their authorized representatives having authority to declare emergencies; by FMCSA; or by other Federal, State, or local government officials having authority to declare emergencies; or
 
 (2) A request by a police officer for tow trucks to move wrecked or disabled motor vehicles.
 
@@ -119,7 +121,7 @@ either -
 
 *Employer* means any person engaged in a business affecting interstate commerce who owns or leases a commercial motor vehicle in connection with that business, or assigns employees to operate it, but such terms does not include the United States, any State, any political subdivision of a State, or an agency established under a compact between States approved by the Congress of the United States.
 
-*Exempt intracity zone* means the geographic area of a municipality or the commercial zone of that municipality described in appendix F to this subchapter. The term “exempt intracity zone” does not include any municipality or commercial zone in the State of Hawaii. For purposes of § 391.62 of this chapter, a driver may be considered to operate a commercial motor vehicle wholly within an exempt intracity zone notwithstanding any common control, management, or arrangement for a continuous carriage or shipment to or from a point without such zone.
+*Exempt intracity zone* means the geographic area of a municipality or the commercial zone of that municipality described in appendix A to part 372 of this chapter. The term “exempt intracity zone” does not include any municipality or commercial zone in the State of Hawaii. For purposes of § 391.62 of this chapter, a driver may be considered to operate a commercial motor vehicle wholly within an exempt intracity zone notwithstanding any common control, management, or arrangement for a continuous carriage or shipment to or from a point without such zone.
 
 *Exempt motor carrier* means a person engaged in transportation exempt from economic regulation by the Federal Motor Carrier Safety Administration (FMCSA) under 49 U.S.C. 13506. “Exempt motor carriers” are subject to the safety regulations set forth in this subchapter.
 
@@ -148,6 +150,8 @@ either -
 *Fatality* means any injury which results in the death of a person at the time of the motor vehicle accident or within 30 days of the accident.
 
 *Federal Motor Carrier Safety Administrator* means the chief executive of the Federal Motor Carrier Safety Administration, an agency within the Department of Transportation.
+
+*Field Administrator* means the head of an FMCSA Service Center who has been delegated authority to initiate compliance and enforcement actions on behalf of FMCSA or an authorized delegee.
 
 *For-hire motor carrier* means a person engaged in the transportation of goods or passengers for compensation.
 
@@ -303,4 +307,4 @@ either -
 
 *Written or in writing* means printed, handwritten, or typewritten either on paper or other tangible medium, or by any method of electronic documentation that meets the requirements of 49 CFR 390.32.
 
-[82 FR 5311, Jan. 17, 2017, as amended at 83 FR 16226, Apr. 16, 2018; 83 FR 22878, May 17, 2018; 83 FR 24228, May 25, 2018; 83 FR 26860, June 11, 2018; 83 FR 48726, Sept. 27, 2018; 84 FR 40294, Aug. 14, 2019; 86 FR 35642, July 7, 2021]
+[82 FR 5311, Jan. 17, 2017, as amended at 83 FR 16226, Apr. 16, 2018; 83 FR 22878, May 17, 2018; 83 FR 24228, May 25, 2018; 83 FR 26860, June 11, 2018; 83 FR 48726, Sept. 27, 2018; 84 FR 40294, Aug. 14, 2019; 86 FR 35642, July 7, 2021; 86 FR 57073, Oct. 14, 2021]

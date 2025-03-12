@@ -2,7 +2,7 @@
 
 (a) Whenever it is determined that an imminent hazard exists as a result of the transportation by motor vehicle of a particular hazardous material, the Chief Counsel or Deputy Chief Counsel of the FMCSA may bring, or request the United States Attorney General to bring, an action in the appropriate United States District Court for an order suspending or restricting the transportation by motor vehicle of the hazardous material or for such other order as is necessary to eliminate or ameliorate the imminent hazard, as provided by 49 U.S.C. 5122. In this paragraph, “imminent hazard” means the existence of a condition that presents a substantial likelihood that death, serious illness, severe personal injury, or a substantial endangerment to health, property, or the environment may occur before a notice of investigation proceeding, or other administrative hearing or formal proceeding, to abate the risk of harm can be completed.
 
-(b)(1) Whenever it is determined that a violation of 49 U.S.C. 31502 or the Motor Carrier Safety Act of 1984, as amended, or the Commercial Motor Vehicle Safety Act of 1986, as amended, or a regulation issued under such section or Acts, or a combination of such violations, poses an imminent hazard to safety, the Director of the Office of Enforcement and Compliance or a Division Administrator, or his or her delegate, shall order:
+(b)(1) Whenever it is determined that a violation of 49 U.S.C. 31502 or the Motor Carrier Safety Act of 1984, as amended, or the Commercial Motor Vehicle Safety Act of 1986, as amended, or a regulation issued under such section or Acts, or a combination of such violations, poses an imminent hazard to safety, FMCSA, shall order:
 
 (i) A commercial motor vehicle or employee operating such vehicle out-of-service, or order an employer to cease all or part of the employer's commercial motor vehicle operations, as provided by 49 U.S.C. 521(b)(5);
 
@@ -18,4 +18,4 @@
 
 (6) Failure to comply immediately with an order issued under this section shall subject the motor carrier employer, intermodal equipment provider, or driver to penalties prescribed in subpart G of this part.
 
-[50 FR 40306, Oct. 2, 1985, as amended at 53 FR 2036, Jan. 26, 1988; 53 FR 50970, Dec. 19, 1988; 56 FR 10184, Mar. 11, 1991; 65 FR 7756, Feb. 16, 2000; 65 FR 58664, Oct. 2, 2000; 73 FR 76819, Dec. 17, 2008; 78 FR 58481, Sept. 24, 2013]
+[50 FR 40306, Oct. 2, 1985, as amended at 53 FR 2036, Jan. 26, 1988; 53 FR 50970, Dec. 19, 1988; 56 FR 10184, Mar. 11, 1991; 65 FR 7756, Feb. 16, 2000; 65 FR 58664, Oct. 2, 2000; 73 FR 76819, Dec. 17, 2008; 78 FR 58481, Sept. 24, 2013; 86 FR 57071, Oct. 14, 2021]

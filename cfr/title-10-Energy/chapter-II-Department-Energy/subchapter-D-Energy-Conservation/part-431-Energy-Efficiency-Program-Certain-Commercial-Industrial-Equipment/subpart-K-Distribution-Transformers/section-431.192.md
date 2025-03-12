@@ -1,7 +1,5 @@
 ##### § 431.192 Definitions. #####
 
-Link to an amendment published at 86 FR 51252, Sept. 14, 2021.
-
 The following definitions apply for purposes of this subpart:
 
 *Autotransformer* means a transformer that:
@@ -12,9 +10,11 @@ The following definitions apply for purposes of this subpart:
 
 (3) During step-down operation, has a primary voltage that is equal to the total of the series and common winding voltages, and a secondary voltage that is equal to the common winding voltage.
 
+*Auxiliary device* means a localized component of a distribution transformer that is a circuit breaker, switch, fuse, or surge/lightning arrester.
+
 *Basic model* means a group of models of distribution transformers manufactured by a single manufacturer, that have the same insulation type (*i.e.,* liquid-immersed or dry-type), have the same number of phases (*i.e.,* single or three), have the same standard kVA rating, and do not have any differentiating electrical, physical or functional features that affect energy consumption. Differences in voltage and differences in basic impulse insulation level (BIL) rating are examples of differentiating electrical features that affect energy consumption.
 
-*Distribution transformer* means a transformer that -
+*Distribution transformer* means a transformer that—
 
 (1) Has an input voltage of 34.5 kV or less;
 
@@ -24,7 +24,7 @@ The following definitions apply for purposes of this subpart:
 
 (4) Has a capacity of 10 kVA to 2500 kVA for liquid-immersed units and 15 kVA to 2500 kVA for dry-type units; but
 
-(5) The term “distribution transformer” does not include a transformer that is an -
+(5) The term “distribution transformer” does not include a transformer that is an—
 
 (i) Autotransformer;
 
@@ -74,13 +74,7 @@ The following definitions apply for purposes of this subpart:
 
 *Load loss* means, for a distribution transformer, those losses incident to a specified load carried by the transformer, including losses in the windings as well as stray losses in the conducting parts of the transformer.
 
-*Low-voltage dry-type distribution transformer* means a distribution transformer that -
-
-(1) Has an input voltage of 600 volts or less;
-
-(2) Is air-cooled; and
-
-(3) Does not use oil as a coolant.
+*Low-voltage dry-type distribution transformer* means a distribution transformer that has an input voltage of 600 volts or less and has the core and coil assembly immersed in a gaseous or dry-compound insulating medium.
 
 *Machine-tool (control) transformer* means a transformer that is equipped with a fuse or other over-current protection device, and is generally used for the operation of a solenoid, contactor, relay, portable tool, or localized lighting.
 
@@ -91,6 +85,8 @@ The following definitions apply for purposes of this subpart:
 *No-load loss* means those losses that are incident to the excitation of the transformer.
 
 *Nonventilated transformer* means a transformer constructed so as to prevent external air circulation through the coils of the transformer while operating at zero gauge pressure.
+
+*Per-unit load* means the fraction of rated load.
 
 *Phase angle* means the angle between two phasors, where the two phasors represent progressions of periodic waves of either:
 
@@ -106,7 +102,7 @@ The following definitions apply for purposes of this subpart:
 
 *Rectifier transformer* means a transformer that operates at the fundamental frequency of an alternating-current system and that is designed to have one or more output windings connected to a rectifier.
 
-*Reference temperature* means 20 °C for no-load loss, 55 °C for load loss of liquid-immersed distribution transformers at 50 percent load, and 75 °C for load loss of both low-voltage and medium-voltage dry-type distribution transformers, at 35 percent load and 50 percent load, respectively. It is the temperature at which the transformer losses must be determined, and to which such losses must be corrected if testing is done at a different point. (These temperatures are specified in the test method in appendix A to this part.)
+*Reference temperature* means the temperature at which the transformer losses are determined, and to which such losses are corrected if testing is done at a different point. (Reference temperature values are specified in the test method in appendix A to this subpart.)
 
 *Regulating transformer* means a transformer that varies the voltage, the phase angle, or both voltage and phase angle, of an output circuit and compensates for fluctuation of load and input voltage, phase angle or both voltage and phase angle.
 
@@ -114,7 +110,7 @@ The following definitions apply for purposes of this subpart:
 
 *Special-impedance transformer* means any transformer built to operate at an impedance outside of the normal impedance range for that transformer's kVA rating. The normal impedance range for each kVA rating for liquid-immersed and dry-type transformers is shown in Tables 1 and 2, respectively.
 
-Table 1 - Normal Impedance Ranges for Liquid-Immersed Transformers
+Table 1—Normal Impedance Ranges for Liquid-Immersed Transformers
 
 |Single-phase transformers|Three-phase transformers|     |                   |
 |-------------------------|------------------------|-----|-------------------|
@@ -134,7 +130,7 @@ Table 1 - Normal Impedance Ranges for Liquid-Immersed Transformers
 |           833           |        5.0-7.5         |2000 |      5.0-7.5      |
 |                         |                        |2500 |      5.0-7.5      |
 
-Table 2 - Normal Impedance Ranges for Dry-Type Transformers
+Table 2—Normal Impedance Ranges for Dry-Type Transformers
 
 |Single-phase transformers|Three-phase transformers|     |                   |
 |-------------------------|------------------------|-----|-------------------|
@@ -156,6 +152,8 @@ Table 2 - Normal Impedance Ranges for Dry-Type Transformers
 
 *Temperature correction* means the mathematical correction(s) of measurement data, obtained when a transformer is tested at a temperature that is different from the reference temperature, to the value(s) that would have been obtained if the transformer had been tested at the reference temperature.
 
+*Terminal* means a conducting element of a distribution transformer providing electrical connection to an external conductor that is not part of the transformer.
+
 *Test current* means the current of the electrical power supplied to the transformer under test.
 
 *Test frequency* means the frequency of the electrical power supplied to the transformer under test.
@@ -176,4 +174,4 @@ Table 2 - Normal Impedance Ranges for Dry-Type Transformers
 
 *Welding transformer* means a transformer designed for use in arc welding equipment or resistance welding equipment.
 
-[70 FR 60416, Oct. 18, 2005, as amended at 71 FR 24995, Apr. 27, 2006; 71 FR 60662, Oct. 16, 2006; 72 FR 58239, Oct. 12, 2007; 78 FR 23433, Apr. 18, 2013]
+[70 FR 60416, Oct. 18, 2005, as amended at 71 FR 24995, Apr. 27, 2006; 71 FR 60662, Oct. 16, 2006; 72 FR 58239, Oct. 12, 2007; 78 FR 23433, Apr. 18, 2013; 86 FR 51252, Sept. 14, 2021]

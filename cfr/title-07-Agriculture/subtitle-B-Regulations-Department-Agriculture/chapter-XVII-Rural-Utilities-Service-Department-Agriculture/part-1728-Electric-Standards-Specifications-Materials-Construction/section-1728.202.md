@@ -24,16 +24,19 @@
 
 (9) Inspection agencies shall have and maintain liability insurance in the amount of $500,000 and a surety bond or miscellaneous Errors and Omission insurance for consequential damages for not less than $250,000. Evidence of compliance to the requirement in this paragraph (b)(9) shall be forwarded to the RUS annually. The evidence shall be in the form of a certificate of insurance or a Bond signed by a representative of the insurance or Surety Bonding company and include a provision that no change in, or cancellation of, will be made without the prior written notice to Chairman, Technical Standards Committee “A” (Electric).
 
-(10) Inspection agencies shall maintain their own properly equipped laboratory that, at a minimum, is able to run the referee methods listed in table 1 to this paragraph (b)(10) for retention analysis for all preservatives being inspected. This laboratory shall be independent from any treating plant laboratory. Inspection Agencies may use one central laboratory. All XRF units maintained by third party inspection agencies as part of their RUS required laboratories shall be calibrated at least quarterly by said agency utilizing the referee method for each preservative treatment being analyzed or via comparison with a set of graduated treated wood standards. Each agency shall keep an up-to-date written record of these quarterly calibration results. AWPA A83 (incorporated by reference at § 1728.97) shall be followed for Pentachlorophenol testing, AWPA A6 (incorporated by reference at § 1728.97) shall be followed for Creosote testing and AWPA A9 (incorporated by reference at § 1728.97) shall be followed for XRF be followed, as illustrated in the following table:
+(10) Inspection agencies shall maintain their own properly equipped laboratory that, at a minimum, is able to run the referee methods listed in table 1 to this paragraph (b)(10) for retention analysis for all preservatives being inspected. This laboratory shall be independent from any treating plant laboratory. Inspection Agencies may use one central laboratory. All XRF units maintained by third party inspection agencies as part of their RUS required laboratories shall be calibrated at least quarterly by said agency utilizing the referee method for each preservative treatment being analyzed or via comparison with a set of graduated treated wood standards. Each agency shall keep an up-to-date written record of these quarterly calibration results. AWPA A83 or AWPA A9 (incorporated by reference at § 1728.97) shall be followed for Pentachlorophenol testing, AWPA-A30 or AWPA A9 (incorporated by reference at § 1728.97) shall be followed for DCOI testing, AWPA A6 (incorporated by reference at § 1728.97) shall be followed for Creosote testing, and AWPA A9 (incorporated by reference at § 1728.97) shall be followed for XRF, as illustrated in the following table:
 
 Table 1 to Paragraph (b)(10)
 
-|   Preservative   |        Referee method         |
-|------------------|-------------------------------|
-|Pentachlorophenol |Lime Ignition, Copper Pyridine.|
-|     Creosote     |      Toluene Extraction.      |
-|    Waterborne    |   X-ray fluorescence (XRF).   |
-|Copper Naphthenate|   X-ray fluorescence (XRF).   |
+|   Preservative   |         Analytical method         |        Referee method         |
+|------------------|-----------------------------------|-------------------------------|
+|Pentachlorophenol |XRF, Lime Ignition, Copper Pyridine|Lime Ignition, Copper Pyridine.|
+|     Creosote     |        Toluene Extraction         |      Toluene Extraction.      |
+|    Waterborne    |                XRF                |             XRF.              |
+|Copper Naphthenate|                XRF                |           ICP, GC.            |
+|       DCOI       |             XRF, HPLC             |             HPLC.             |
+
+Note 1 to table 1 to paragraph (b)(10): XFR means X-ray fluorescence; HPLC means High Performance Liquid Chromatography; ICP means Inductively coupled plasma; and GC means Gas Chromatography.
 
 (11) If used for analysis, plant XRF units shall be accurate and generate reproducible results per AWPA A9. At least once monthly, their accuracy and precision shall be checked by the third-party inspector. This verification shall consist of the inspector taking a retention sample previously analyzed by the plant quality control supervisor on-site and rerunning it in the inspection agency's own laboratory using said agency's XRF unit or the referee method for a specific preservative. If the inspection agency's analytical result is within +5% of the plant's retention result on that sample, the plant XRF unit needs no further calibration.
 
@@ -73,7 +76,7 @@ Table 1 to Paragraph (b)(10)
 
 (vii) Whenever it becomes evident during third party inspection of any lot of arms offered by the producer that non-conforming pieces exceed 2 percent of the sample size, the entire lot shall be rejected. After the producer has acted to eliminate all defective pieces, the rejected balance may be inspected as a new lot.
 
-(d) *Preservatives.* Creosote, waterborne preservatives, pentachlorophenol and copper naphthenate shall conform to current AWPA U1 (incorporated by reference in § 1728.97).
+(d) *Preservatives.* Creosote, waterborne preservatives, pentachlorophenol, DCOI, and copper naphthenate shall conform to current AWPA U1 (incorporated by reference in § 1728.97).
 
 (e) *Results of treatment - Poles.* (1) Following treatment, poles shall be sampled for preservative retention and penetration utilizing a calibrated increment borer 0.2 inches +0.02 inches in diameter in accordance with procedures listed in AWPA M2 (incorporated by reference in § 1728.97).
 
@@ -87,7 +90,7 @@ Table 1 to Paragraph (b)(10)
 
 Table 2 to Paragraph (e)(5)
 
-|Number of poles|Class/length|Vol. in ft<sup>3</sup>|% of total vol.|Number of borings<sup>1</sup>|
+|Number of poles|Class/length|Vol. in ft<sup>3</sup>|% of total vol.|Number of borings<sup>2</sup>|
 |---------------|------------|----------------------|---------------|-----------------------------|
 |      20       |    5/40    |         550          |      22       |              4              |
 |      30       |    4/40    |         840          |      34       |              7              |
@@ -95,11 +98,11 @@ Table 2 to Paragraph (e)(5)
 |      20       |    3/45    |         600          |      24       |              5              |
 |     Total     |            |        2,500         |               |                             |
 
-<sup>1</sup> Retention and penetration requirements for each different species and preservative are listed in Table 10 of Appendix A, RUS Bulletin 1728F-700, Specification for Wood Poles, Stubs and Anchor Logs (incorporated by reference at § 1728.97).
+Note 2 to table 2 to paragraph (e)(5): Retention and penetration requirements for each different species and preservative are listed in Table 8 of Appendix A, RUS Bulletin 1728F-700, Specification for Wood Poles, Stubs and Anchor Logs (incorporated by reference at § 1728.97).
 
 (6) Preservative retention analyses shall be performed per the standard AWPA U1, (incorporated by reference at § 1728.97).
 
-(7) Penetration compliance of both poles and crossarms shall be determined in accordance with the standard AWPA A15 (incorporated by reference at § 1728.97). Chrome Azurol S and Penta-Check shall be used to determine the penetration of copper containing preservatives and penta, respectively.
+(7) Penetration compliance of both poles and crossarms shall be determined in accordance with the standard AWPA A15 (incorporated by reference at § 1728.97). Chrome Azurol S shall be used to determine the penetration of copper containing preservatives AWPA A69 (incorporated by reference at § 1728.97), Penta-Check shall be used to determine the penetration of penta AWPA A70 (incorporated by reference at § 1728.97), and Red-O dye for penetration of DCOI AWPA A71 (incorporated by reference at § 1728.97), respectively.
 
 (8) All bored holes created by penetration and retention sampling shall be promptly filled with tight fitting treated plugs.
 
@@ -123,7 +126,9 @@ Table 2 to Paragraph (e)(5)
 
 (g) *Product acceptance.* (1) Third party inspectors shall verify their acceptance of untreated poles that have been offered by the producer as conforming by marking each accepted piece in the tip with a clear, legible hammer stamp. Following treatment, inspectors shall verify their acceptance of treated poles that have been offered by the producer as conforming by marking each accepted piece in the butt with a clear, legible hammer stamp. Inspection marks are not to be placed in the butt surfaces of any poles prior to treatment and proper retention analysis and penetration testing being completed. The inspector shall personally mark each piece for acceptance and shall not delegate this responsibility to any other individual.
 
-(2) Each inspector or inspection agency shall retain for a period of at least one year a copy or transcript of each pre-treatment inspection report and a copy of analytical worksheets covering retention and penetration test results for each treated charge of material inspected. On request, a copy or transcript of these reports shall be furnished to the Chairman, Technical Standards Committee “A”, Rural Utilities Service, Washington, DC 20250-1569.
+(2) Third-party inspectors shall verify their acceptance of untreated crossarms that have been offered by the producer as conforming by marking each accepted piece in one end with a clear, legible hammer stamp. Following treatment, inspectors shall verify their acceptance of treated crossarms that have been offered by the producer as conforming by marking each accepted piece in the opposing end with a clear, legible hammer stamp. The inspector shall personally mark each piece for acceptance and shall not delegate this responsibility to any other individual.
+
+(3) Each inspector or inspection agency shall retain for a period of at least one year a copy or transcript of each pre-treatment inspection report and a copy of analytical worksheets covering retention and penetration test results for each treated charge of material inspected. On request, a copy or transcript of these reports shall be furnished to the Chairman, Technical Standards Committee “A”, Rural Utilities Service, Washington, DC 20250-1569.
 
 (i) On each inspection report the third-party inspector and the plant quality control supervisor shall certify in writing that the material listed on the report has been properly inspected both before and after treatment and that the preservative used met the requirements of this section. Inspection reports shall also include the following information:
 
@@ -151,4 +156,4 @@ Table 2 to Paragraph (e)(5)
 
 (i) *Safety provisions.* Poles intended for agency borrowers shall not be inspected when, in the opinion of the inspector, unsafe conditions are present.
 
-[84 FR 28198, June 18, 2019]
+[84 FR 28198, June 18, 2019, as amended at 86 FR 57021, Oct. 14, 2021]

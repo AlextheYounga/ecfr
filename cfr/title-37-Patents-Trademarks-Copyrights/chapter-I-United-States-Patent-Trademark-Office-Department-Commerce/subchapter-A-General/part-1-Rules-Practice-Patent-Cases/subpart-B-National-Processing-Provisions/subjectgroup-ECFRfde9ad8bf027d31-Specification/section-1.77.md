@@ -1,5 +1,7 @@
 ##### § 1.77 Arrangement of application elements. #####
 
+Link to an amendment published at 86 FR 57047, Oct. 14, 2021.
+
 (a) The elements of the application, if applicable, should appear in the following order:
 
 (1) Utility application transmittal form.

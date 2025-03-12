@@ -4,9 +4,7 @@
 
 (b) Each insurer must obtain authorization to file electronically by registering with the FMCSA. An individual account number and password for computer access will be issued to each registered insurer.
 
-(c) Filings may be transmitted online via the Internet at: *http://fhwa-li.volpe.dot.gov* or via American Standard Code Information Interchange (ASCII). All ASCII transmission must be in fixed format, *i.e.,* all records must have the same number of fields and same length. The record layouts for ASCII electronic transactions are described in the following table:
-
-Electronic Insurance Filing Transactions
+(c) Filings may be transmitted online via the internet at: *https://li-public.fmcsa.dot.gov* or via American Standard Code Information Interchange (ASCII). All ASCII transmission must be in fixed format, *i.e.,* all records must have the same number of fields and same length. The record layouts for ASCII electronic transactions are described in the following table:
 
 |           Field name           |Number of  <br/>positions|                                                        Description                                                         |Required  <br/>F = filing  <br/>C = cancel  <br/>B = both|Start field|End field|
 |--------------------------------|-------------------------|----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-----------|---------|
@@ -30,4 +28,4 @@ Electronic Insurance Filing Transactions
 
 (d) All registered insurers agree to furnish upon request to the FMCSA a duplicate original of any policy (or policies) and all endorsements, surety bond, trust fund agreement, or other filing.
 
-[82 FR 5308, Jan. 17, 2017]
+[82 FR 5308, Jan. 17, 2017, as amended at 86 FR 57072, Oct. 14, 2021]

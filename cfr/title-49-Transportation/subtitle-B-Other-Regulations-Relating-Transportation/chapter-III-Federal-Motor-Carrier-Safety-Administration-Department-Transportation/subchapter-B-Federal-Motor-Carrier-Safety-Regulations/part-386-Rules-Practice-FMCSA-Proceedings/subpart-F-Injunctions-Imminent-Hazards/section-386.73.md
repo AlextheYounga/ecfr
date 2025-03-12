@@ -1,6 +1,6 @@
 ##### § 386.73 Operations out of service and record consolidation proceedings (reincarnated carriers). #####
 
-(a) *Out-of-service order.* An FMCSA Field Administrator or the Director of FMCSA's Office of Enforcement and Compliance (Director) may issue an out-of-service order to prohibit a motor carrier, intermodal equipment provider, broker, or freight forwarder from conducting operations subject to FMCSA jurisdiction upon a determination by the Field Administrator or Director that the motor carrier, intermodal equipment provider, broker, or freight forwarder or an officer, employee, agent, or authorized representative of such an entity, operated or attempted to operate a motor carrier, intermodal equipment provider, broker, or freight forwarder under a new identity or as an affiliated entity to:
+(a) *Out-of-service order.* FMCSA may issue an out-of-service order to prohibit a motor carrier, intermodal equipment provider, broker, or freight forwarder from conducting operations subject to FMCSA jurisdiction upon a determination by FMCSA that the motor carrier, intermodal equipment provider, broker, or freight forwarder or an officer, employee, agent, or authorized representative of such an entity, operated or attempted to operate a motor carrier, intermodal equipment provider, broker, or freight forwarder under a new identity or as an affiliated entity to:
 
 (1) Avoid complying with an FMCSA order;
 
@@ -12,7 +12,7 @@
 
 (5) Avoid being linked with a negative compliance history.
 
-(b) *Record consolidation order.* In addition to, or in lieu of, an out-of-service order issued under this section, the Field Administrator or Director may issue an order consolidating the records maintained by FMCSA concerning the current motor carrier, intermodal equipment provider, broker, and freight forwarder and its affiliated motor carrier, intermodal equipment provider, broker, or freight forwarder or its previous incarnation, for all purposes, upon a determination that the motor carrier, intermodal equipment provider, broker, and freight forwarder or officer, employee, agent, or authorized representative of the same, operated or attempted to operate a motor carrier, intermodal equipment provider, broker, or freight forwarder under a new identity or as an affiliated entity to:
+(b) *Record consolidation order.* In addition to, or in lieu of, an out-of-service order issued under this section, FMCSA may issue an order consolidating the records maintained by FMCSA concerning the current motor carrier, intermodal equipment provider, broker, and freight forwarder and its affiliated motor carrier, intermodal equipment provider, broker, or freight forwarder or its previous incarnation, for all purposes, upon a determination that the motor carrier, intermodal equipment provider, broker, and freight forwarder or officer, employee, agent, or authorized representative of the same, operated or attempted to operate a motor carrier, intermodal equipment provider, broker, or freight forwarder under a new identity or as an affiliated entity to:
 
 (1) Avoid complying with an FMCSA order;
 
@@ -24,9 +24,9 @@
 
 (5) Avoid being linked with a negative compliance history.
 
-(c) *Standard.* The Field Administrator or Director may determine that a motor carrier, intermodal equipment provider, broker, or freight forwarder is reincarnated if there is substantial continuity between the entities such that one is merely a continuation of the other. The Field Administrator or Director may determine that a motor carrier, intermodal equipment provider, broker, or freight forwarder is an affiliate if the business operations are under common ownership and/or common control. In making this determination, the Field Administrator or Director may consider, among other things, the following factors:
+(c) *Standard.* FMCSA may determine that a motor carrier, intermodal equipment provider, broker, or freight forwarder is reincarnated if there is substantial continuity between the entities such that one is merely a continuation of the other. FMCSA may determine that a motor carrier, intermodal equipment provider, broker, or freight forwarder is an affiliate if the business operations are under common ownership and/or common control. In making this determination, FMCSA may consider, among other things, the following factors:
 
-(1) Whether the new or affiliated entity was created for the purpose of evading statutory or regulatory requirements, an FMCSA order, enforcement action, or negative compliance history. In weighing this factor, the Field Administrator or Director may consider the stated business purpose for the creation of the new or affiliated entity.
+(1) Whether the new or affiliated entity was created for the purpose of evading statutory or regulatory requirements, an FMCSA order, enforcement action, or negative compliance history. In weighing this factor, FMCSA may consider the stated business purpose for the creation of the new or affiliated entity.
 
 (2) The previous entity's safety performance history, including, among other things, safety violations and enforcement actions of the Secretary, if any;
 
@@ -52,11 +52,11 @@
 
 (13) Advertising, corporate name, or other acts through which the company holds itself out to the public;
 
-(d) *Evaluating factors.* The Field Administrator or Director may examine, among other things, the company management structures, financial records, corporate filing records, asset purchase or transfer and title history, employee records, insurance records, and any other information related to the general operations of the entities involved and factors in paragraph (c) of this section.
+(d) *Evaluating factors.* FMCSA may examine, among other things, the company management structures, financial records, corporate filing records, asset purchase or transfer and title history, employee records, insurance records, and any other information related to the general operations of the entities involved and factors in paragraph (c) of this section.
 
 (e) *Effective dates.* An order issued under this section becomes the Final Agency Order and is effective on the 21st day after it is served unless a request for administrative review is served and filed as set forth in paragraph (g) of this section. Any motor carrier, intermodal equipment provider, broker, or freight forwarder that fails to comply with any prohibition or requirement set forth in an order issued under this section is subject to the applicable penalty provisions for each instance of noncompliance.
 
-(f) *Commencement of proceedings.* The Field Administrator or Director may commence proceedings under this section by issuing an order that:
+(f) *Commencement of proceedings.* FMCSA may commence proceedings under this section by issuing an order that:
 
 (1) Provides notice of the factual and legal basis of the order;
 
@@ -72,9 +72,9 @@
 
 (g) *Administrative review.* A motor carrier, intermodal equipment provider, broker, or freight forwarder issued an order under this section may petition for administrative review of the order. A petition for administrative review is limited to contesting factual or procedural errors in the issuance of the order under review and may not be submitted to demonstrate corrective action. A petition for administrative review that does not identify factual or procedural errors in the issuance of the order under review will be dismissed. Petitioners seeking to demonstrate corrective action may do so by submitting a Petition for Rescission under paragraph (h) of this section.
 
-(1) A petition for administrative review must be in writing and served on the Assistant Administrator, Federal Motor Carrier Safety Administration, 1200 New Jersey Ave. SE., Washington, DC 20590-0001, Attention: Adjudications Counsel, or by electronic mail to *FMCSA.Adjudication@dot.gov.* A copy of the petition for administrative review must also be served on the Field Administrator or Director who issued the order, at the physical address or electronic mail account identified in the order.
+(1) A petition for administrative review must be in writing and served on the Assistant Administrator, Federal Motor Carrier Safety Administration, 1200 New Jersey Ave. SE., Washington, DC 20590-0001, Attention: Adjudications Counsel, or by electronic mail to *FMCSA.Adjudication@dot.gov.* A copy of the petition for administrative review must also be served on the FMCSA official who issued the order, at the physical address or electronic mail account identified in the order.
 
-(2) A petition for administrative review must be served within 15 days of the date the Field Administrator or Director served the order issued under this section. Failure to timely request administrative review waives the right to administrative review and constitutes an admission of the facts alleged in the order.
+(2) A petition for administrative review must be served within 15 days of the date FMCSA served the order issued under this section. Failure to timely request administrative review waives the right to administrative review and constitutes an admission of the facts alleged in the order.
 
 (3) A petition for administrative review must include:
 
@@ -84,11 +84,11 @@
 
 (4) If a petition for administrative review is timely served and filed, the petitioner may supplement the petition by serving documentary evidence and/or written argument that supports its position regarding the procedural or factual issues in dispute no later than 30 days from the date the disputed order was served. The supplementary documentary evidence or written argument may not expand the issues on review and need not address every issue identified in the petition. Failure to timely serve supplementary documentary evidence and/or written argument constitutes a waiver of the right to do so.
 
-(5) The Field Administrator or Director must serve written argument and supporting documentary evidence, if any, in defense of the disputed order no later than 15 days following the period in which petitioner may serve supplemental documentary evidence and/or written argument in support of the petition for administrative review.
+(5) FMCSA must serve written argument and supporting documentary evidence, if any, in defense of the disputed order no later than 15 days following the period in which petitioner may serve supplemental documentary evidence and/or written argument in support of the petition for administrative review.
 
 (6) The Assistant Administrator may ask the parties to submit additional information or attend a conference to facilitate administrative review.
 
-(7) The Assistant Administrator will issue a written decision on the request for administrative review within 30 days of the close of the time period for the Field Administrator or the Director to serve written argument and supporting documentary evidence in defense of the order, or the actual filing of such written argument and documentary evidence, whichever is earlier.
+(7) The Assistant Administrator will issue a written decision on the request for administrative review within 30 days of the close of the time period for FMCSA to serve written argument and supporting documentary evidence in defense of the order, or the actual filing of such written argument and documentary evidence, whichever is earlier.
 
 (8) If a petition for administrative review is timely served in accordance with this subsection, the disputed order is stayed, pending the Assistant Administrator's review. The Assistant Administrator may enter an order vacating the automatic stay in accordance with the following procedures:
 
@@ -102,17 +102,17 @@
 
 (h) *Petition for rescission.* A motor carrier, intermodal equipment provider, broker, or freight forwarder may petition to rescind an order issued under this section if action has been taken to correct the deficiencies that resulted in the order.
 
-(1) A petition for rescission must be made in writing to the Field Administrator or Director who issued the order.
+(1) A petition for rescission must be made in writing to the FMCSA official who issued the order.
 
 (2) A petition for rescission must include a copy of the order requested to be rescinded, a factual statement identifying all corrective action taken, and copies of supporting documentation.
 
-(3) Upon request and for good cause shown, the Field Administrator or Director may grant the petitioner additional time, not to exceed 45 days, to complete corrective action initiated at the time the petition for rescission was filed.
+(3) Upon request and for good cause shown, FMCSA may grant the petitioner additional time, not to exceed 45 days, to complete corrective action initiated at the time the petition for rescission was filed.
 
-(4) The Field Administrator or Director will issue a written decision on the petition for rescission within 60 days of service of the petition. The written decision will include the factual and legal basis for the determination.
+(4) FMCSA will issue a written decision on the petition for rescission within 60 days of service of the petition. The written decision will include the factual and legal basis for the determination.
 
-(5) If the Field Administrator or Director grants the request for rescission, the written decision is the Final Agency Order.
+(5) If FMCSA grants the request for rescission, the written decision is the Final Agency Order.
 
-(6) If the Field Administrator or Director denies the request for rescission, the petitioner may file a petition for administrative review of the denial with the Assistant Administrator, Federal Motor Carrier Safety Administration, 1200 New Jersey Ave. SE., Washington, DC 20590-0001, Attention: Adjudication Counsel or by electronic mail to *FMCSA.Adjudication@dot.gov.* The petition for administrative review of the denial must be served and filed within 15 days of the service of the decision denying the request for recession. The petition for administrative review must identify the disputed factual or procedural issues with respect to the denial of the petition for rescission. The petition may not, however, challenge the underlying basis of the order for which rescission was sought.
+(6) If FMCSA denies the request for rescission, the petitioner may file a petition for administrative review of the denial with the Assistant Administrator, Federal Motor Carrier Safety Administration, 1200 New Jersey Ave. SE., Washington, DC 20590-0001, Attention: Adjudication Counsel or by electronic mail to *FMCSA.Adjudication@dot.gov.* The petition for administrative review of the denial must be served and filed within 15 days of the service of the decision denying the request for recession. The petition for administrative review must identify the disputed factual or procedural issues with respect to the denial of the petition for rescission. The petition may not, however, challenge the underlying basis of the order for which rescission was sought.
 
 (7) The Assistant Administrator will issue a written decision on the petition for administrative review of the denial of the petition for rescission within 60 days. The Assistant Administrator's decision constitutes the Final Agency Order.
 
@@ -120,4 +120,4 @@
 
 (j) *Inapplicability of subparts.* Subparts B, C, D, and E of this part, except § 386.67, do not apply to this section.
 
-[77 FR 24870, Apr. 26, 2012, as amended at 78 FR 58481, Sept. 24, 2013]
+[77 FR 24870, Apr. 26, 2012, as amended at 78 FR 58481, Sept. 24, 2013; 86 FR 57071, Oct. 14, 2021]

@@ -1,6 +1,6 @@
 ##### § 1728.97 Incorporation by reference of electric standards and specifications. #####
 
-Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at the Rural Utilities Service, U.S. Department of Agriculture, Room 5170-S, Washington, DC 20250-1522, call (202) 720-8674 and is available from the sources listed in this section. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030 or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.*
+Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at the Rural Utilities Service, U.S. Department of Agriculture, Room 5170-S, Washington, DC 20250-1522, call (202) 720-8674 and is available from the sources listed in this section. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fr.inspection@nara.gov* or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (a) Rural Utilities Service, U.S. Department of Agriculture, Room 5170-S-S, U.S. Department of Agriculture, Washington, DC 20250. For information on the availability of this material, call (202) 720-8674 or go to: *https://www.rd.usda.gov/publications/regulations-guidelines/bulletins.*
 
@@ -44,7 +44,7 @@ Certain material is incorporated by reference into this part with the approval o
 
 (20) Bulletin 50-91 (S-3), RUS Specifications for Step-Down Distribution Substation Transformers (34.4-138 kV) (1-78), incorporation approved for § 1728.98.
 
-(21) Bulletin 1728F-700, RUS Specification for Wood Poles, Stubs and Anchor Logs (April 15, 2019), incorporation approved for §§ 1728.98 and 1728.202.
+(21) Bulletin 1728F-700, RUS Specification for Wood Poles, Stubs and Anchor Logs, September 9, 2021, incorporation approved for §§ 1728.98 and 1728.202.
 
 (22) Bulletin 1728F-803, Specifications and Drawings for 24.9/14.4 kV Line Construction (10-98), incorporation approved for § 1728.98.
 
@@ -64,7 +64,7 @@ Certain material is incorporated by reference into this part with the approval o
 
 (c) American National Standards Institute (ANSI), 25 West 43rd Street, New York, New York 10036, telephone (212) 642-4900, Web address: *http://www.ansi.org.*
 
-(1) ANSI O5.2-2012, Structural Glued Laminated Timber for Utility Structures, approved May 9, 2012, incorporation by reference approved for §§ 1728.201 and 1728.202.
+(1) ANSI O5.2-2020, Structural Glued Laminated Timber for Utility Structures, approved January 10, 2020, incorporation by reference approved for §§ 1728.201 and 1728.202.
 
 (2) ANSI O5.3-2015, Solid Sawn Wood Crossarms & Braces: Specifications & Dimensions, approved January 9, 2015, incorporation by reference approved for § 1728.201.
 
@@ -98,23 +98,29 @@ Certain material is incorporated by reference into this part with the approval o
 
 (14) ASTM E 96/E 96M-05 - Standard Test Methods for Water Vapor Transmission of Materials (ASTM E 96/E 96M-05), approved May 1, 2005, incorporated by reference approved for § 1728.204.
 
-(e) American Wood Protection Association (AWPA), P.O. Box 361784, Birmingham, AL 35236-1784, telephone 205-733-4077, *http://www.awpa.com/.*
+(e) American Wood Protection Association (AWPA), P.O. Box 361784, Birmingham, AL 35236-1784, telephone 205-733-4077, *www.awpa.com.*
 
-(1) AWPA A6-15, Method for the Determination of Retention of Oil-Type Preservatives from Small Samples, Reaffirmed 2015, incorporation by reference approved for § 1728.202.
+(1) AWPA A6-20, Standard for the Determination of Retention of Oil-Type Preservatives from Small Samples, Revised 2020, incorporation by reference approved for § 1728.202.
 
-(2) AWPA A9-18, Standard Method for Analysis of Treated Wood and Treating Solutions By X-Ray Spectroscopy, Revised 2018, incorporation by reference approved for § 1728.202.
+(2) AWPA A9-20, Standard Method for Analysis of Treated Wood and Treating Solutions By X-Ray Spectroscopy, Revised 2020, incorporation by reference approved for § 1728.202.
 
-(3) AWPA A15-18, Referee Methods, Revised 2018, incorporation by reference approved for § 1728.202.
+(3) AWPA A15-19, Referee Methods, Revised 2019, incorporation by reference approved for § 1728.202.
 
-(4) AWPA A83-18, Standard Method for Determination of Chloride for Calculating Pentachlorophenol in Solution or Wood, Reaffirmed 2018, incorporation by reference approved for § 1728.202.
+(4) AWPA A30-18, Standard Method for the Determination of 4,5 Dichloro-2-n-octyl-4-isothiazolin-3 one (DCOI) in Wood and Solutions by High Performance Liquid Chromatography (HPLC), Revised 2018, incorporation by reference approved for § 1728.202.
 
-(5) AWPA M2-16, Standard for the Inspection of Preservative Treated Products for Industrial Use, Revised 2016, incorporation by reference approved for § 1728.202.
+(5) AWPA A69-18, Standard Method to Determine the Penetration of Copper Containing Preservatives, Reaffirmed 2018, incorporation by reference approved for § 1728.202.
 
-(6) AWPA M3-16, Standard for the Quality Control of Preservative Treated Products for Industrial Use, Revised 2016, incorporation by reference approved for §§ 1728.201 and 1728.202.
+(6) AWPA A70-18, Standard Method to Determine the Penetration of Pentachlorophenol Using a Silver-Copper Complex Known as Penta-Check, Reaffirmed in 2018, incorporation by reference approved for § 1728.202.
 
-(7) AWPA T1-18, Use Category System: Processing and Treatment Standard, Revised 2018, incorporation by reference approved for § 1728.201.
+(7) AWPA A71-18, Standard Method to Determine the Penetration of Solvent Used with Oil-Soluble Preservatives, Reaffirmed 2018, incorporation by reference approved for § 1728.202.
 
-(8) AWPA U1-18, Use Category System: User Specification for Treated Wood, Revised 2018, incorporation by reference approved for §§ 1728.201 and 1728.202.
+(8) AWPA A83-18, Standard Method for Determination of Chloride for Calculating Pentachlorophenol in Solution or Wood, Reaffirmed 2018, incorporation by reference approved for § 1728.202.
+
+(9) AWPA M2-19, Standard for the Inspection of Preservative Treated Products for Industrial Use, Revised 2019, incorporation by reference approved for § 1728.202.
+
+(10) AWPA T1-20, Use Category System: Processing and Treatment Standard, Revised 2020, incorporation by reference § 1728.201.
+
+(11) AWPA U1-20, Use Category System: User Specification for Treated Wood, Revised 2020, incorporation by reference approved for §§ 1728.201 and 1728.202.
 
 (f) Insulated Cable Engineers Association (ICEA). The following material may be purchased from: IHS Global Engineering Documents, 15 Inverness Way East, Englewood, CO 80112, Phone: (303) 397-7956; (800) 854-7179, Fax: (303) 397-2740, email: *global@ihs.com,* website: *http://global.ihs.com.*
 
@@ -136,4 +142,4 @@ Certain material is incorporated by reference into this part with the approval o
 
 (2) [Reserved]
 
-[76 FR 36963, June 24, 2011, as amended at 77 FR 19528, Apr. 2, 2012; 83 FR 55467, Nov. 6, 2018; 84 FR 28190, June 18, 2019]
+[76 FR 36963, June 24, 2011, as amended at 77 FR 19528, Apr. 2, 2012; 83 FR 55467, Nov. 6, 2018; 84 FR 28190, June 18, 2019; 86 FR 57020, Oct. 14, 2021]

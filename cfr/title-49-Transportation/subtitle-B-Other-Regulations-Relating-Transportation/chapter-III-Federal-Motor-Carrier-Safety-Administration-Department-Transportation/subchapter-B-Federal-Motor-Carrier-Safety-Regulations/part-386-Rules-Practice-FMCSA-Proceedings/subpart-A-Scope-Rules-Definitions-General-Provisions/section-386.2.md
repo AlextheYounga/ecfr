@@ -12,7 +12,9 @@
 
 *Agency Counsel* means the attorney who prosecutes a civil penalty matter on behalf of the Field Administrator.
 
-*Assistant Administrator* means the Assistant Administrator of the Federal Motor Carrier Safety Administration. The Assistant Administrator is the Chief Safety Officer of the agency pursuant to 49 U.S.C. 113(e). Decisions of the Assistant Administrator in motor carrier, broker, freight forwarder, and hazardous materials proceedings under this part are administratively final.
+*Agency decisionmaker* means the FMCSA official authorized to issue a final decision and order of the Agency in an administrative proceeding under this part. The Agency decisionmaker is the Assistant Administrator or any person to whom this decisionmaking authority has been delegated.
+
+*Assistant Administrator* means the Assistant Administrator of the Federal Motor Carrier Safety Administration or an authorized delegee. The Assistant Administrator is the Agency decisionmaker who issues final decisions under this part.
 
 *Broker* means a person who, for compensation, arranges or offers to arrange the transportation of property by an authorized motor carrier. A motor carrier, or person who is an employee or bona fide agent of a carrier, is not a broker within the meaning of this section when it arranges or offers to arrange the transportation of shipments which it is authorized to transport and which it has accepted and legally bound itself to transport.
 
@@ -24,8 +26,6 @@
 
 *Commercial regulations* means statutes and regulations that apply to persons providing or arranging transportation for compensation subject to the Secretary's jurisdiction under 49 U.S.C. Chapter 135. The statutes are codified in Part B of Subtitle IV, Title 49, U.S.C. (49 U.S.C. 13101 through 14913). The regulations include those issued by the Federal Motor Carrier Safety Administration or its predecessors under authority provided in 49 U.S.C. 13301 or a predecessor statute.
 
-*Decisionmaker* means the Assistant Administrator of FMCSA, acting in the capacity of the decisionmaker or any person to whom the Assistant Administrator has delegated his/her authority in a civil penalty proceeding. As used in this subpart, the Agency decisionmaker is the official authorized to issue a final decision and order of the Agency in a civil penalty proceeding.
-
 *Default* means an omission or failure to perform a legal duty within the time specified for action, failure to reply to a Notice of Claim within the time required, or failure to submit a reply in accordance with the requirements of this part. A default may result in issuance of a Final Agency Order or additional penalties against the defaulting party.
 
 *Department* means the U.S. Department of Transportation.
@@ -36,7 +36,7 @@
 
 *Federal Motor Carrier Commercial Regulations* (FMCCRs) means statutes and regulations applying to persons providing or arranging transportation for compensation subject to the Secretary's jurisdiction under 49 U.S.C. Chapter 135. The statutes are codified in Part B of Subtitle IV, Title 49 U.S.C. (49 U.S.C. 13101 through 14913). The regulations include those issued by FMCSA or its predecessors under authority provided in 49 U.S.C. 13301 or a predecessor statute.
 
-*Field Administrator* means the head of an FMCSA Service Center who has been delegated authority to initiate compliance and enforcement actions on behalf of FMCSA.
+*Field Administrator* means the head of an FMCSA Service Center who has been delegated authority to initiate compliance and enforcement actions on behalf of FMCSA or an authorized delegee.
 
 *Final Agency Order* means the final action by FMCSA issued pursuant to this part by the appropriate Field Administrator (for default judgments under § 386.14) or the Assistant Administrator, or settlement agreements which become the Final Agency Order pursuant to 386.22, or decisions of the Administrative Law Judge, which become the Final Agency Order pursuant to 386.61 or binding arbitration awards. A person who fails to perform the actions directed in the Final Agency Order commits a violation of that order and is subject to an additional penalty as prescribed in subpart G of this part.
 
@@ -78,4 +78,4 @@
 
 *Submission of written evidence without hearing* means the submission of written evidence and legal argument to the Agency decisionmaker, or his/her representative, in lieu of a formal or informal hearing.
 
-[50 FR 40306, Oct. 2, 1985, as amended at 53 FR 2036, Jan. 26, 1988; 56 FR 10182, Mar. 11, 1991; 65 FR 7755, Feb. 16, 2000; 65 FR 78427, Dec. 15, 2000; 67 FR 61821, Oct. 2, 2002; 70 FR 28748, May 18, 2005; 72 FR 55701, Oct. 1, 2007; 78 FR 58481, Sept. 24, 2013]
+[50 FR 40306, Oct. 2, 1985, as amended at 53 FR 2036, Jan. 26, 1988; 56 FR 10182, Mar. 11, 1991; 65 FR 7755, Feb. 16, 2000; 65 FR 78427, Dec. 15, 2000; 67 FR 61821, Oct. 2, 2002; 70 FR 28748, May 18, 2005; 72 FR 55701, Oct. 1, 2007; 78 FR 58481, Sept. 24, 2013; 86 FR 57071, Oct. 14, 2021]

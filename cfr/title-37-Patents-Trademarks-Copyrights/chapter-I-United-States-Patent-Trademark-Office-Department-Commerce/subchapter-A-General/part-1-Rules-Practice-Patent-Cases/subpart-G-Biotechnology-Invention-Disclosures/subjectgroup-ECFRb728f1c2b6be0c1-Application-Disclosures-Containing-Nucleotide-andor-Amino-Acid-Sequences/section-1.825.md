@@ -1,5 +1,7 @@
 ##### § 1.825 Amendments to or replacement of sequence listing and computer readable copy thereof. #####
 
+Link to an amendment published at 86 FR 57051, Oct. 14, 2021.
+
 (a) Any amendment to a paper copy of the “Sequence Listing” (§ 1.821(c)) must be made by the submission of substitute sheets and include a statement that the substitute sheets include no new matter. Any amendment to a compact disc copy of the “Sequence Listing” (§ 1.821(c)) must be made by the submission of a replacement compact disc (2 copies) in compliance with § 1.52(e). Amendments must also be accompanied by a statement that indicates support for the amendment in the application, as filed, and a statement that the replacement compact disc includes no new matter.
 
 (b) Any amendment to the paper or compact disc copy of the “Sequence Listing,” in accordance with paragraph (a) of this section, must be accompanied by a substitute copy of the computer readable form (§ 1.821(e)) including all previously submitted data with the amendment incorporated therein, accompanied by a statement that the copy in computer readable form is the same as the substitute copy of the “Sequence Listing.”

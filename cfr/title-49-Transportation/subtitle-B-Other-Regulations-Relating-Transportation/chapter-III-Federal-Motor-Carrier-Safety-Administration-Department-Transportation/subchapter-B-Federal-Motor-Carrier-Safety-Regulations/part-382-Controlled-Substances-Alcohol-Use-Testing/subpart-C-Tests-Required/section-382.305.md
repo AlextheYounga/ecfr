@@ -4,7 +4,7 @@
 
 (b)(1) Except as provided in paragraphs (c) through (e) of this section, the minimum annual percentage rate for random alcohol testing shall be 10 percent of the average number of driver positions.
 
-(2) Except as provided in paragraphs (f) through (h) of this section, the minimum annual percentage rate for random controlled substances testing shall be 25 percent of the average number of driver positions.
+(2) Except as provided in paragraphs (f) through (h) of this section, the minimum annual percentage rate for random controlled substances testing shall be 50 percent of the average number of driver positions.
 
 (c) The FMCSA Administrator's decision to increase or decrease the minimum annual percentage rate for alcohol testing is based on the reported violation rate for the entire industry. All information used for this determination is drawn from the alcohol management information system reports required by § 382.403. In order to ensure reliability of the data, the FMCSA Administrator considers the quality and completeness of the reported data, may obtain additional information or reports from employers, and may make appropriate modifications in calculating the industry violation rate. In the event of a change in the annual percentage rate, the FMCSA Administrator will publish in the Federal Register the new minimum annual percentage rate for random alcohol testing of drivers. The new minimum annual percentage rate for random alcohol testing will be applicable starting January 1 of the calendar year following publication in the Federal Register.
 
@@ -42,10 +42,10 @@
 
 (n) If a given driver is subject to random alcohol or controlled substances testing under the random alcohol or controlled substances testing rules of more than one DOT agency for the same employer, the driver shall be subject to random alcohol and/or controlled substances testing at the annual percentage rate established for the calendar year by the DOT agency regulating more than 50 percent of the driver's function.
 
-(o) If an employer is required to conduct random alcohol or controlled substances testing under the alcohol or controlled substances testing rules of more than one DOT agency, the employer may -
+(o) If an employer is required to conduct random alcohol or controlled substances testing under the alcohol or controlled substances testing rules of more than one DOT agency, the employer may—
 
 (1) Establish separate pools for random selection, with each pool containing the DOT-covered employees who are subject to testing at the same required minimum annual percentage rate; or
 
 (2) Randomly select such employees for testing at the highest minimum annual percentage rate established for the calendar year by any DOT agency to which the employer is subject.
 
-[66 FR 43103, Aug. 17, 2001, as amended at 67 FR 61821, Oct. 2, 2002; 68 FR 75459, Dec. 31, 2003; 81 FR 68346, Oct. 4, 2016]
+[66 FR 43103, Aug. 17, 2001, as amended at 67 FR 61821, Oct. 2, 2002; 68 FR 75459, Dec. 31, 2003; 81 FR 68346, Oct. 4, 2016; 86 FR 57069, Oct. 14, 2021]

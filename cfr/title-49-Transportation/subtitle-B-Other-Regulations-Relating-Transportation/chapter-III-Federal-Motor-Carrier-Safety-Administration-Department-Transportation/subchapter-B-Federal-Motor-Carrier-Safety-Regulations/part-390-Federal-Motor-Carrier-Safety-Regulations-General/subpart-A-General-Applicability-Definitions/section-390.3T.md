@@ -48,7 +48,7 @@ Link to an amendment published at 86 FR 55743, Oct. 7, 2021.
 
 (4) Section 390.19T, Motor carrier identification report, and § 390.21T, Marking of CMVs, for carriers subject to the requirements of § 385.403 of this chapter. Intrastate motor carriers operating prior to January 1, 2005, are excepted from § 390.19T(a)(1).
 
-(h) *Intermodal equipment providers.* On and after December 17, 2009, the rules in the following provisions of this subchapter apply to intermodal equipment providers:
+(h) *Intermodal equipment providers.* The rules in the following provisions of this subchapter apply to intermodal equipment providers:
 
 (1) Subpart F, Intermodal Equipment Providers, of part 385 of this chapter, Safety Fitness Procedures.
 
@@ -60,4 +60,4 @@ Link to an amendment published at 86 FR 55743, Oct. 7, 2021.
 
 (5) Part 396 of this chapter, Inspection, Repair, and Maintenance.
 
-[82 FR 5310, Jan. 17, 2017, as amended at 83 FR 22877, May 17, 2018]
+[82 FR 5310, Jan. 17, 2017, as amended at 83 FR 22877, May 17, 2018; 86 FR 57072, Oct. 14, 2021]

@@ -1,0 +1,3 @@
+##### § 849.603 Transfer of conserved or accumulated funds. #####
+
+A representative payee who has conserved or invested annuity payments shall transfer these funds and any interest earned from the invested funds to either a successor payee, to the annuitant, or to the agency as we will specify. If the funds and the earned interest are returned to the agency, we will recertify them to the successor representative payee or to the annuitant.

@@ -1,7 +1,5 @@
 ##### § 431.196 Energy conservation standards and their effective dates. #####
 
-Link to an amendment published at 86 FR 51252, Sept. 14, 2021.
-
 (a) *Low-Voltage Dry-Type Distribution Transformers.* (1) The efficiency of a low-voltage, dry-type distribution transformer manufactured on or after January 1, 2007, but before January 1, 2016, shall be no less than that required for the applicable kVA rating in the table below. Low-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
 |Single-phase|Three-phase|     |    |
@@ -19,7 +17,9 @@ Link to an amendment published at 86 FR 51252, Sept. 14, 2021.
 |            |           | 750 |98.8|
 |            |           |1000 |98.9|
 
-Note: All efficiency values are at 35 percent of nameplate-rated load, determined according to the DOE Test Method for Measuring the Energy Consumption of Distribution Transformers under Appendix A to Subpart K of 10 CFR part 431.
+Note 1 to paragraph (a)(1):
+
+All efficiency values are at 35 percent per-unit load.
 
 (2) The efficiency of a low-voltage dry-type distribution transformer manufactured on or after January 1, 2016, shall be no less than that required for their kVA rating in the table below. Low-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
@@ -38,7 +38,9 @@ Note: All efficiency values are at 35 percent of nameplate-rated load, determine
 |            |                    | 750 |       99.23        |
 |            |                    |1000 |       99.28        |
 
-Note: All efficiency values are at 35 percent of nameplate-rated load, determined according to the DOE Test Method for Measuring the Energy Consumption of Distribution Transformers under Appendix A to Subpart K of 10 CFR part 431.
+Note 2 to paragraph (a)(2):
+
+All efficiency values are at 35 percent per-unit load.
 
 (b) *Liquid-Immersed Distribution Transformers.* (1) The efficiency of a liquid-immersed distribution transformer manufactured on or after January 1, 2010, but before January 1, 2016, shall be no less than that required for their kVA rating in the table below. Liquid-immersed distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
@@ -60,7 +62,9 @@ Note: All efficiency values are at 35 percent of nameplate-rated load, determine
 |    833     |       99.49        |2000 |       99.46        |
 |            |                    |2500 |       99.49        |
 
-Note: All efficiency values are at 50 percent of nameplate-rated load, determined according to the DOE Test - Procedure, Appendix A to Subpart K of 10 CFR part 431.
+Note 3 to paragraph (b)(1):
+
+All efficiency values are at 50 percent per-unit load.
 
 (2) The efficiency of a liquid-immersed distribution transformer manufactured on or after January 1, 2016, shall be no less than that required for their kVA rating in the table below. Liquid-immersed distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
@@ -82,7 +86,9 @@ Note: All efficiency values are at 50 percent of nameplate-rated load, determine
 |    833     |       99.55        |2000 |       99.51        |
 |            |                    |2500 |       99.53        |
 
-Note: All efficiency values are at 50 percent of nameplate-rated load, determined according to the DOE Test Method for Measuring the Energy Consumption of Distribution Transformers under Appendix A to Subpart K of 10 CFR part 431.
+Note 4 to paragraph (b)(2):
+
+All efficiency values are at 50 percent per-unit load.
 
 (c) *Medium-Voltage Dry-Type Distribution Transformers.* (1) The efficiency of a medium-voltage dry-type distribution transformer manufactured on or after January 1, 2010, but before January 1, 2016, shall be no less than that required for their kVA and BIL rating in the table below. Medium-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
@@ -108,7 +114,9 @@ Note: All efficiency values are at 50 percent of nameplate-rated load, determine
 
 \* BIL means basic impulse insulation level.
 
-Note: All efficiency values are at 50 percent of nameplate rated load, determined according to the DOE Test Method for Measuring the Energy Consumption of Distribution Transformers under Appendix A to Subpart K of 10 CFR part 431.
+Note 5 to paragraph (c)(1):
+
+All efficiency values are at 50 percent per-unit load.
 
 (2) The efficiency of a medium- voltage dry-type distribution transformer manufactured on or after January 1, 2016, shall be no less than that required for their kVA and BIL rating in the table below. Medium-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
@@ -134,8 +142,10 @@ Note: All efficiency values are at 50 percent of nameplate rated load, determine
 
 \* BIL means basic impulse insulation level.
 
-Note: All efficiency values are at 50 percent of nameplate rated load, determined according to the DOE Test Method for Measuring the Energy Consumption of Distribution Transformers under Appendix A to Subpart K of 10 CFR part 431.
+Note 6 to paragraph (c)(2):
+
+All efficiency values are at 50 percent per-unit load.
 
 (d) *Mining Distribution Transformers.* [Reserved]
 
-[78 FR 23433, Apr. 18, 2013]
+[78 FR 23433, Apr. 18, 2013, as amended at 86 FR 51252, Sept. 14, 2021]

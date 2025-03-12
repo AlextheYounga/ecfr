@@ -18,7 +18,7 @@ Link to an amendment published at 86 FR 55742, Oct. 7, 2021.
 
 (3) Evidence supporting the allegation that the information is not accurate. Failure to submit evidence is cause for dismissing the petition.
 
-(c) *Submission of petition.* The petitioner may submit his/her petition electronically through the Clearinghouse or in writing to: Federal Motor Carrier Safety Administration, Office of Enforcement and Compliance, Attention: Drug and Alcohol Program Manager, 1200 New Jersey Avenue SE., Washington, DC 20590.
+(c) *Submission of petition.* The petitioner may submit his/her petition electronically through the Clearinghouse or in writing to: Federal Motor Carrier Safety Administration, ATTN: Drug and Alcohol Clearinghouse Petition for Review, 1200 New Jersey Avenue SE., Washington, DC 20590.
 
 (d) *Notice of decision.* Within 45 days of receiving a complete petition, FMCSA will inform the driver in writing of its decision to remove, retain, or correct the information in the database and provide the basis for the decision.
 
@@ -28,12 +28,12 @@ Link to an amendment published at 86 FR 55742, Oct. 7, 2021.
 
 (f) *Administrative review.* (1) A driver may request FMCSA to conduct an administrative review if he or she believes that a decision made in accordance with paragraph (d) or (e) of this section was in error.
 
-(2) The request must prominently state at the top of the document: “Administrative Review of Drug and Alcohol Clearinghouse Decision” and the driver may submit his/her request electronically through the Clearinghouse or in writing to the Associate Administrator for Enforcement (MC-E), Federal Motor Carrier Safety Administration, 1200 New Jersey Ave. SE., Washington, DC 20590.
+(2) The request must prominently state at the top of the document: “Administrative Review of Drug and Alcohol Clearinghouse Decision” and the driver may submit his/her request electronically through the Clearinghouse or in writing to FMCSA, ATTN: Drug and Alcohol Clearinghouse Administrative Review, Federal Motor Carrier Safety Administration, 1200 New Jersey Ave. SE., Washington, DC 20590.
 
 (3) The driver's request must explain the error he or she believes FMCSA committed and provide information and/or documents to support his or her argument.
 
-(4) FMCSA will complete its administrative review no later than 30 days after receiving the driver's request for review. The Associate Administrator's decision will constitute the final Agency action.
+(4) FMCSA will complete its administrative review no later than 30 days after receiving the driver's request for review. FMCSA's decision will constitute the final Agency action.
 
 (g) *Subsequent notification to employers.* When information is corrected or removed in accordance with this section, or in accordance with 49 CFR part 10, FMCSA will notify any employer that accessed the incorrect information that a correction or removal was made.
 
-[81 FR 87725, Dec. 5, 2016, as amended at 86 FR 35640, July 7, 2021]
+[81 FR 87725, Dec. 5, 2016, as amended at 86 FR 35640, July 7, 2021; 86 FR 57069, Oct. 14, 2021]

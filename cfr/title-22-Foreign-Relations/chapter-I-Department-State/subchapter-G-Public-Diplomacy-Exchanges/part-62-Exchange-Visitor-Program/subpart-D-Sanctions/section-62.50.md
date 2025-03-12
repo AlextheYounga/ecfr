@@ -1,7 +1,5 @@
 ##### § 62.50 Sanctions. #####
 
-Link to an amendment published at 86 FR 50994, Sept. 14, 2021.
-
 (a) *Reasons for sanctions.* The Department of State (Department) may impose sanctions against a sponsor upon a finding by its Office of Exchange Coordination and Designation (Office) that the sponsor has:
 
 (1) Violated one or more provisions of this Part;
@@ -76,8 +74,8 @@ Link to an amendment published at 86 FR 50994, Sept. 14, 2021.
 
 (i) *Effect of suspension, revocation, or denial of redesignation.* A sponsor against which an order of suspension, revocation, or denial of redesignation has become effective may not thereafter issue any Certificate of Eligibility for Exchange Visitor (J-1) Status (Form DS-2019) or advertise, recruit for, or otherwise promote its program. Under no circumstances shall the sponsor facilitate the entry of an exchange visitor into the United States. An order of suspension, revocation, or denial of redesignation will not in any way diminish or restrict the sponsor's legal or financial responsibilities to existing program applicants or participants.
 
-(j) *Miscellaneous* - (1) *Computation of time.* In computing any period of time prescribed or allowed by these regulations, the day of the act or event from which the designated period of time begins to run is not included. The last day of the period so computed is included unless it is a Saturday, a Sunday, or a Federal legal holiday, in which event the period runs until the end of the next day which is not one of the aforementioned days. When the period of time prescribed or allowed is fewer than eleven (11) days, intermediate Saturdays, Sundays, or Federal legal holidays are excluded in the computation.
+(j) *Miscellaneous*—(1) *Computation of time.* In computing any period of time prescribed or allowed by these regulations, the day of the act or event from which the designated period of time begins to run is not included. The last day of the period so computed is included unless it is a Saturday, a Sunday, or a Federal legal holiday, in which event the period runs until the end of the next day which is not one of the aforementioned days. When the period of time prescribed or allowed is fewer than eleven (11) days, intermediate Saturdays, Sundays, or Federal legal holidays are excluded in the computation.
 
-(2) *Service of notice to sponsor.* Service of notice to a sponsor pursuant to this section may be accomplished through written notice by mail, delivery, or facsimile, upon the president, chief executive officer, managing director, General Counsel, responsible officer, or alternate responsible officer of the sponsor.
+(2) *Service of notice to sponsor.* Service of notice to a sponsor pursuant to this section may be accomplished through written notice by mail, delivery, electronic mail, or facsimile, upon the president, chief executive officer, managing director, General Counsel, Responsible Officer, or Alternate Responsible Officer of the sponsor.
 
-[72 FR 72247, Dec. 20, 2007]
+[72 FR 72247, Dec. 20, 2007, as amended at 86 FR 50994, Sept. 14, 2021]

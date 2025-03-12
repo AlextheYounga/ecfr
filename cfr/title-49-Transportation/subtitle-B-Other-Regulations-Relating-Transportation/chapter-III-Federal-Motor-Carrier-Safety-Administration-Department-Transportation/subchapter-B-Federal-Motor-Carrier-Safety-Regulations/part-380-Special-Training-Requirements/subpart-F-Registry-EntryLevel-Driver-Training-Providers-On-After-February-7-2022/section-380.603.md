@@ -6,7 +6,7 @@
 
 (2) Drivers applying for a restricted CDL under § 383.3(e) through (g) of this chapter;
 
-(3) Veterans with military CMV experience who meet all the requirements and conditions of § 383.77 of this chapter; and
+(3) Military personnel with military CMV experience who meet all the requirements and conditions of § 383.77 of this chapter; and
 
 (4) Drivers applying for a removal of a restriction in accordance with § 383.135(b)(7).
 
@@ -18,4 +18,4 @@
 
 (3) Except for individuals seeking the H endorsement, individuals must complete the theory and BTW (range and public road) portions of entry-level driver training within one year of completing the first portion.
 
-[81 FR 88790, Dec. 8, 2016, as amended at 83 FR 48725, Sept. 27, 2018; 85 FR 6100, Feb. 4, 2020]
+[81 FR 88790, Dec. 8, 2016, as amended at 83 FR 48725, Sept. 27, 2018; 85 FR 6100, Feb. 4, 2020; 86 FR 57069, Oct. 14, 2021]

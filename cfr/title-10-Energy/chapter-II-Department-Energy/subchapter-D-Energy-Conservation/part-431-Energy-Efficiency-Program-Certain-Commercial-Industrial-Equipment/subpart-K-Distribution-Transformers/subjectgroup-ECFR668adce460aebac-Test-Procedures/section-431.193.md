@@ -1,7 +1,5 @@
-##### § 431.193 Test procedures for measuring energy consumption of distribution transformers. #####
+##### § 431.193 Test procedure for measuring energy consumption of distribution transformers. #####
 
-Link to an amendment published at 86 FR 51252, Sept. 14, 2021.
+The test procedure for measuring the energy efficiency of distribution transformers for purposes of EPCA is specified in appendix A to this subpart. The test procedure specified in appendix A to this subpart applies only to distribution transformers subject to energy conservation standards at § 431.196.
 
-The test procedures for measuring the energy efficiency of distribution transformers for purposes of EPCA are specified in appendix A to this subpart.
-
-[71 FR 24997, Apr. 27, 2006]
+[86 FR 51252, Sept. 14, 2021]

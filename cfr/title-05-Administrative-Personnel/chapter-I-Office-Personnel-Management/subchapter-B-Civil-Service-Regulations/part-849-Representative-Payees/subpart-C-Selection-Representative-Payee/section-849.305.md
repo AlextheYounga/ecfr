@@ -1,0 +1,5 @@
+##### § 849.305 Notice of the determination to select a representative payee. #####
+
+(a) If the agency determines that the annuitant requires a representative payee due to mental incompetence or other legal disability or is physically or mentally unable to manage or direct the management of his or her annuity payments, the agency will issue a written decision to the annuitant. The decision will include a statement of the findings and determinations; specifically, the individual or organization named as the representative payee, and an explanation of the right to appeal the decision under §§ 831.110 and 841.307 of this chapter. If the annuitant appeals the decision, the agency will continue to make direct payments to the annuitant until the due process rights have been exhausted.
+
+(b) A decision by the agency to *not* select an individual or organization as a representative payee is not subject to the due process procedures described in 5 U.S.C. 8347(d) and 8461(e).

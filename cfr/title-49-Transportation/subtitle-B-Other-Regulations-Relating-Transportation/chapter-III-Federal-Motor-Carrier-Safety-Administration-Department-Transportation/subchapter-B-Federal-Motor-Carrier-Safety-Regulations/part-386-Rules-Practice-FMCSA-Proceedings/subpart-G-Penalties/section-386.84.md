@@ -8,7 +8,7 @@
 
 (b) *Show Cause Proceeding.* (1) The FMCSA will notify a broker, freight forwarder, for-hire motor carrier, foreign motor carrier or foreign motor private carrier in writing if it has not received payment within 45 days after the date specified for payment by the final agency order or the date of a missed installment payment. The notice will include a warning that failure to pay the entire penalty within 90 days after payment was due will result in the suspension of the respondent's registration.
 
-(2) The notice will order the respondent to show cause why its registration should not be suspended on the 91st day after the date specified for payment. The prohibition may be avoided only by submitting to the Chief Safety Officer:
+(2) The notice will order the respondent to show cause why its registration should not be suspended on the 91st day after the date specified for payment. The prohibition may be avoided only by submitting to the Assistant Administrator:
 
 (i) Evidence that the respondent has paid the entire amount due; or
 
@@ -28,4 +28,4 @@
 
 (4) Any other information requested by the agency to determine a debtor's bankruptcy status.
 
-[65 FR 78428, Dec. 15, 2000, as amended at 78 FR 60232, Oct. 1, 2013]
+[65 FR 78428, Dec. 15, 2000, as amended at 78 FR 60232, Oct. 1, 2013; 86 FR 57071, Oct. 14, 2021]

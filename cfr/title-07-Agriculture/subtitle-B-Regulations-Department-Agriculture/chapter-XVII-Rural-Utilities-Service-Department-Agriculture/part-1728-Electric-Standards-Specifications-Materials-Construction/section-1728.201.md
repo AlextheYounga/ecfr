@@ -24,6 +24,8 @@
 
 (10) Arms shall be warranted to conform to this specification. Arms shall meet or exceed their minimum allowable dimensions for at least one year from time of delivery to the borrower. If any arm is determined to be defective or does not conform to this specification within 1 year from the date of delivery to the borrower, it shall be replaced as promptly as possible by the supplier. In the event of failure to do so, the purchaser may make such replacement and the cost of the arm, at destination, shall be recovered from the supplier.
 
+(11) Arm producers shall have and maintain liability insurance in the amount of $1 million. Evidence of compliance to this requirement shall be forwarded to the RUS annually. The evidence shall be in the form of a certificate of insurance or a bond signed by a representative of the insurance company or Surety Bonding company and include a provision that no change in, or cancellation of, will be made without the prior written notice to the Chairman, Technical Standards Committee “A” (Electric), 1400 Independence Ave. SW, Stop 1569, Washington, DC 20250-1569.
+
 (c) *Definitions.* The following definitions apply to this section:
 
 *Agency* refers to Rural Utilities Service (RUS), United States Department of Agriculture.
@@ -50,7 +52,7 @@
 
 *Treating plant* is the facility that applies the preservative treatment to the arms.
 
-(d) *Material requirements* - (1) *Material and grade.* All arms furnished under the specification in this section shall be free of brashy wood, decay, and shall meet additional requirements as shown on specific drawings in this section. Arms shall be made of one of the following:
+(d) *Material requirements*—(1) *Material and grade.* All arms furnished under the specification in this section shall be free of brashy wood, decay, and shall meet additional requirements as shown on specific drawings in this section. Arms shall be made of one of the following:
 
 (i) Douglas-fir which conforms to the applicable provisions of paragraphs 170 and 170a, or the applicable transmission arm provisions of paragraphs 169 and 169a of the West Coast Lumber Standard No. 17 (incorporated by reference in § 1728.97). Only coastal origin Douglas-fir shall be used for Douglas-fir arms manufactured under the specification in this section;
 
@@ -60,51 +62,40 @@
 
 (2) *Alternative arms.* Borrowers may use alternative arms that are listed in Informational Publication 202-1, *List of Materials Acceptable for Use on Systems of USDA Rural Utilities Service Borrowers.* For information on the availability of such material, contact the Chairman, Technical Standards Committee “A” (Electric), 1400 Independence Ave. SW, Stop 1569, Washington, DC 20250-1569, or go to: *https://www.rd.usda.gov/files/UEP\_LoM.pdf.*
 
-(3) *Knots.* Well-spaced round, firm, and tight knots are permitted.
+(3) *Knots.* Well-spaced sound, firm, and tight knots are permitted.
 
-(i) Slightly decayed knots are permitted, except on the top face, provided the decay extends no more than3/4 of an inch into the knot and provided the cavities will drain water when the arm is installed. For knots to be considered well-spaced, the sum of the sizes of all knots in any 6 inches of length of a piece shall not exceed twice the size of the largest knot permitted. More than one knot of maximum permissible size shall not be in the same 6 inches of length. Slightly decayed, firm, or round “pin knots” (3/8 of an inch or less) are not considered in size, spacing, or zone considerations.
+(i) Slightly decayed knots are permitted, except on the top face, provided the decay extends no more than3/4 of an inch into the knot and provided the cavities will drain water when the arm is installed. For knots to be considered well-spaced, the sum of the sizes of all knots in any 6 inches of length of a piece shall not exceed twice the size of the largest knot permitted. More than one knot of maximum permissible size shall not be in the same 6 inches of length. Slightly decayed, firm, or sound “pin knots” (3/8 of an inch or less) are not considered in size, spacing, or zone considerations.
 
 (ii) Knots are subject to limits on size and location as detailed in Tables 1 and 2 to this paragraph (d)(3)(ii).
 
-Table 1 to Paragraph (d)(3)(ii) - Knot Limits for Distribution Arms (See Figure 1 to This Section)
+|                           Class of knot and location                            |Maximum knot diameter|    |
+|---------------------------------------------------------------------------------|---------------------|----|
+|                                   Close grain                                   |     Dense grain     |    |
+|                                  Round Knots:                                   |                     |    |
+|            Single Knot: Maximum Diameter Center Section <sup>1</sup>            |                     |    |
+|                                   Upper Half                                    |         3/4         | 1  |
+|                                   Lower Half                                    |          1          |11/4|
+|                                    Elsewhere                                    |        11/4         |11/2|
+|           Sum of Diameters in 6-Inch Length: Maximum Center Section:            |                     |    |
+|                                   Upper Half                                    |        11/2         | 2  |
+|                                   Lower Half                                    |          2          |21/2|
+|                                    Elsewhere                                    |        21/2         | 3  |
+|<sup>1</sup> No knot shall be closer than its diameter to the pole mounting hole.|                     |    |
 
-[All dimensions in inches]
+|Pole mounting hole zone <sup>1</sup>|Maximum diameter for single knot|
+|------------------------------------|--------------------------------|
+|      Upper Half (inner zone)       |              3/4.              |
+|      Upper Half (outer zone)       |       1 for close grain.       |
+|                                    |       11/4 dense grain.        |
 
-|                Class of knot and location                |Maximum knot diameter|    |
-|----------------------------------------------------------|---------------------|----|
-|                       Close grain                        |     Dense grain     |    |
-|                       Round Knots:                       |                     |    |
-| Single Knot: Maximum Diameter Center Section<sup>1</sup> |                     |    |
-|                        Upper Half                        |         3/4         | 1  |
-|                        Lower Half                        |          1          |11/4|
-|                        Elsewhere                         |        11/4         |11/2|
-|Sum of Diameters in 6-Inch Length: Maximum Center Section:|                     |    |
-|                        Upper Half                        |        11/2         | 2  |
-|                        Lower Half                        |          2          |21/2|
-|                        Elsewhere                         |        21/2         | 3  |
-
-<sup>1</sup> No knot shall be closer than its diameter to the pole mounting hole.
-
-Table 2 to Paragraph (d)(3)(ii) - Knot Limits for Transmission Arms (See Figure 2 to This Section)
-
-[All dimensions in inches]
-
-|Pole mounting hole zone<sup>1</sup>|Maximum diameter for single knot|
-|-----------------------------------|--------------------------------|
-|      Upper Half (inner zone)      |              3/4.              |
-|      Upper Half (outer zone)      |       1 for close grain.       |
-|                                   |       11/4 dense grain.        |
-
-|Other locations transmission arm size<sup>2</sup>|     Narrow face      |Wide face  <br/>(two sides)|    |
-|-------------------------------------------------|----------------------|---------------------------|----|
-|                      Edge                       |Along  <br/>centerline|                           |    |
-|               45/8 × 55/8 or less               |          1           |           11/4            |11/4|
-|                   55/8 × 73/8                   |         11/4         |           13/8            |17/8|
-|                   35/8 × 93/8                   |         3/4          |           13/4            |21/4|
-
-<sup>1</sup> No knot shall be closer than its diameter to the pole mounting hole.
-
-<sup>2</sup> For cross sections not shown, refer to grading rules.
+|               Other locations transmission arm size <sup>2</sup>                |     Narrow face      |Wide face  <br/>(two sides)|    |
+|---------------------------------------------------------------------------------|----------------------|---------------------------|----|
+|                                      Edge                                       |Along  <br/>centerline|                           |    |
+|                               45/8 × 55/8 or less                               |          1           |           11/4            |11/4|
+|                                   55/8 × 73/8                                   |         11/4         |           13/8            |17/8|
+|                                   35/8 × 93/8                                   |         3/4          |           13/4            |21/4|
+|<sup>1</sup> No knot shall be closer than its diameter to the pole mounting hole.|                      |                           |    |
+|       <sup>2</sup> For cross sections not shown, refer to grading rules.        |                      |                           |    |
 
 (iii) Knot clusters shall be prohibited unless the entire cluster, measured on the worst face, is equal to or less than the round knot allowed at the specific location.
 
@@ -136,7 +127,7 @@ Table 2 to Paragraph (d)(3)(ii) - Knot Limits for Transmission Arms (See Figure 
 
 (7) Prior to and after preservative treatment, crook, bow, or twist shall not exceed1/2 of an inch in 8-foot arms and5/8 of an inch in 10-foot arms.
 
-(f) *Manufacturing* - (1) *Quality of work.* All arms shall be of the highest quality production. Arms shall be dressed on all four sides, although “hit and miss skips” may occur on two adjacent faces on occasional pieces.
+(f) *Manufacturing*—(1) *Quality of work.* All arms shall be of the highest quality production. Arms shall be dressed on all four sides, although “hit and miss skips” may occur on two adjacent faces on occasional pieces.
 
 (2) *Dimensions and tolerances.* All dimensions and tolerances shall conform to those shown on the drawings in this section or drawings supplied with the purchase order. Arms supplied shall meet or exceed minimum dimensions shown on the drawings in this section. Cross-sectional dimensions shall be measured and judged at about1/4 the arm length, except when the defects of “skip dressing” or “machine bite or offset” are involved.
 
@@ -158,7 +149,7 @@ Table 2 to Paragraph (d)(3)(ii) - Knot Limits for Transmission Arms (See Figure 
 
 (4) The moisture content of lumber used in laminating shall, at the time of gluing, be within the range of 8 to 12 percent, inclusive.
 
-(h) *Preservatives.* (1) Creosote, water-borne preservatives, pentachlorophenol and copper naphthenate shall conform to the requirements of AWPA U1 (incorporated by reference at § 1728.97). Oxide formulations of waterborne preservatives shall be supplied. If CCA is the selected preservative, CCA-C shall be the type required.
+(h) *Preservatives.* (1) Creosote, water-borne preservatives, pentachlorophenol, DCOI, and copper naphthenate shall conform to the requirements of AWPA U1 (incorporated by reference at § 1728.97). Oxide formulations of waterborne preservatives shall be supplied. If CCA is the selected preservative, CCA-C shall be the type required.
 
 (2) Douglas-fir arms shall not be treated with CCA.
 
@@ -169,11 +160,11 @@ Table 2 to Paragraph (d)(3)(ii) - Knot Limits for Transmission Arms (See Figure 
 |                            |Max. time  <br/>(hours)|Temperature|
 |----------------------------|-----------------------|-----------|
 |         (i) Steam          |           3           |  220 °F   |
-|(ii) Heating in Preservation|           3           |  210 °F   |
+|(ii) Heating in Preservative|           3           |  210 °F   |
 
 (3) A final steam or hot oil bath may be used only to meet cleanliness requirements. Total duration of the final steam bath shall not exceed 2 hours and the temperature shall not exceed 240 °F.
 
-(j) *Results of treatment* - (1) *Penetration and retention.* The quality control supervisor shall test or supervise the testing of each treated charge for penetration and retention.
+(j) *Results of treatment*—(1) *Penetration and retention.* The quality control supervisor shall test or supervise the testing of each treated charge for penetration and retention.
 
 (2) *Method of sampling.* When testing penetration and retention, a borer core shall be taken from a minimum of 20 arms in each treating charge. The borings shall be taken from any face except the top face at a point as close to the end as possible, being at least 3 inches from the end of the arm and no closer than 3 inches from the edge of the holes. The bored holes shall be plugged with treated plugs. Borings from laminated arms shall not be taken from the same laminate unless there is an end joint separation.
 
@@ -181,24 +172,24 @@ Table 2 to Paragraph (d)(3)(ii) - Knot Limits for Transmission Arms (See Figure 
 
 (4) *Preservative retention.* Preservative retention in the outer 0.6 inch for Douglas-fir arms and in the outer one inch of southern yellow pine arms shall be not less than the following:
 
-|      Preservative       |Retention  <br/>(pcf)|
-|-------------------------|---------------------|
-|      (i) Creosote       |         8.0         |
-| (ii) Pentachlorophenol  |  <sup>1</sup> 0.4   |
-|(iii) ACA, ACZA, or CCA-C|         0.4         |
-| (iv) Copper Naphthenate |        0.04         |
-
-<sup>1</sup> This penta retention is for the lime ignition method. If the copper pyridine method is used when timbers may have been in contact with salt water, a penta retention of 0.36 pcf is required for all species native to the Pacific Coast region.
+|                                                                                             Preservative                                                                                              |Retention  <br/>(pcf)|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
+|                                                                                             (i) Creosote                                                                                              |         8.0         |
+|                                                                                        (ii) Pentachlorophenol                                                                                         |<sup>1</sup> 0.4/0.36|
+|                                                                                       (iii) ACA, ACZA, or CCA-C                                                                                       |         0.4         |
+|                                                                                        (iv) Copper Naphthenate                                                                                        |        0.04         |
+|                                                                                               (v) DCOI                                                                                                |        0.13         |
+|<sup>1</sup> If the copper pyridine method is used when timbers may have been in contact with salt water, a penta retention of 0.36 pcf is required for all species native to the Pacific Coast region.|                     |
 
 (5) *Arms surfaces.* The surfaces of all arms shall be free from oil exudation (bleeding) and pentachlorophenol crystallization (blooming), and other surface deposits.
 
 (6) *Retreatment of arms.* Arms may be retreated no more than twice. Initial treatment steaming time plus re-treatment steaming time, combined, shall not exceed total steaming time allowed.
 
-(k) *Marking/branding.* (1) Before treatment, arms shall be legibly branded to a depth of approximately1/16 of an inch, with the top of the brand oriented to the top of the arm. The brand shall be placed on either of the wide surfaces of the arm, approximately one foot from the midpoint of the piece.
+(k) *Marking/branding.* (1) Before treatment, arms shall be legibly branded (hot brand) or die-stamped to a depth of approximately1/16 of an inch, with the top of the brand oriented to the top of the arm. The brand shall be placed on either of the wide surfaces of the arm, approximately one foot from the midpoint of the piece.
 
 (2) The letters and figures shall be not less than1/2 of an inch in height.
 
-(3) The brand shall include:
+(3) The brand or die-stamp shall include:
 
 (i) The manufacturer's identification symbol;
 
@@ -206,9 +197,9 @@ Table 2 to Paragraph (d)(3)(ii) - Knot Limits for Transmission Arms (See Figure 
 
 (iii) Species (DF for Douglas-fir and SP for southern yellow pine);
 
-(iv) Preservative (C for creosote, P for penta, S for waterbornes, N for Copper Naphthenate); and
+(iv) Preservative (C for creosote, DA for DCOI, PA for penta, SK for CCA, SZ for ACZA, N for Copper Naphthenate); and
 
-(v) Required retention. An example of required retention is: M-6-16 Manufacturer - Month - Year and DF-P-.4 Douglas - fir - penta treated - .40 pcf retention
+(v) Required retention. An example of required retention is: M-6-16 Manufacturer—Month—Year and DF-PA-.4 Douglas-fir-penta treated—.40 pcf retention.
 
 (4) Brands and quality assurance/inspection marks shall be removed from arms that do not meet these specifications.
 
@@ -236,4 +227,4 @@ Table 2 to Paragraph (d)(3)(ii) - Knot Limits for Transmission Arms (See Figure 
 
 (p) *Information to be completed by the borrower.* When using the specification in this section, the borrower or borrower's representative should enter into a written agreement with a material supplier by way of a contract or purchase order. This agreement should state that all arms shall be manufactured in strict accordance with the specifications in this section.
 
-![](/graphics/er18jn19.001.gif)![](/graphics/er18jn19.002.gif)![](/graphics/er18jn19.003.gif)[84 FR 28191, June 18, 2019]
+![](/graphics/er18jn19.001.gif)![](/graphics/er18jn19.002.gif)![](/graphics/er18jn19.003.gif)[84 FR 28191, June 18, 2019, as amended at 86 FR 57021, Oct. 14, 2021]

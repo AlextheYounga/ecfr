@@ -26,8 +26,10 @@
 
 (7) An employer's report of completion of follow-up testing.
 
-(c) No employer may permit a driver to perform a safety-sensitive function if the driver refuses to grant the consent required by paragraphs (a) and (b) of this section.
+(c) No employer may permit a driver to perform a safety-sensitive function if the driver refuses to grant the consent required by paragraph (a) or (b) of this section.
 
 (d) A driver granting consent under this section must provide consent electronically to the Agency through the Clearinghouse prior to release of information to an employer in accordance with § 382.701(a)(2) or (b)(3).
 
 (e) A driver granting consent under this section grants consent for the Agency to release information to an employer in accordance with § 382.701(c).
+
+[81 FR 87725, Dec. 5, 2016, as amended at 86 FR 57069, Oct. 14, 2021]

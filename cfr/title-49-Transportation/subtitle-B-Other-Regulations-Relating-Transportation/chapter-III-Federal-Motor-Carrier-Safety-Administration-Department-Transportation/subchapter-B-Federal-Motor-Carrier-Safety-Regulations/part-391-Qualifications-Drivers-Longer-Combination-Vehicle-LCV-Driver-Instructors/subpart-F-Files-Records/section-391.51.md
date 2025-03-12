@@ -22,7 +22,7 @@
 
 (iii) If that driver obtained the medical certification based on having obtained a medical variance from FMCSA, the motor carrier must also include a copy of the medical variance documentation in the driver qualification file in accordance with § 391.51(b)(8);
 
-(8) A Skill Performance Evaluation Certificate obtained from a Field Administrator, Division Administrator, or State Director issued in accordance with § 391.49; or the Medical Exemption document, issued by a Federal medical program in accordance with part 381 of this chapter; and
+(8) A Skill Performance Evaluation Certificate issued by FMCSA in accordance with § 391.49; or the Medical Exemption document issued by a Federal medical program in accordance with part 381 of this chapter; and
 
 (9)(i) For drivers not required to have a CDL, a note relating to verification of medical examiner listing on the National Registry of Certified Medical Examiners required by § 391.23(m)(1).
 
@@ -44,4 +44,4 @@
 
 (6) The note relating to verification of medical examiner listing on the National Registry of Certified Medical Examiners required by § 391.23(m).
 
-(Approved by the Office of Management and Budget under control number 2126-004)[63 FR 33277, June 18, 1998, as amended at 66 FR 49874, Oct. 1, 2001; 69 FR 16721, Mar. 30, 2004; 73 FR 73127, Dec. 1, 2008; 75 FR 28502, May 21, 2010; 77 FR 24133, Apr. 20, 2012; 79 FR 2380, Jan. 14, 2014; 80 FR 22822, Apr. 23, 2015; 83 FR 28782, June 21, 2018; 84 FR 51434, Sept. 30, 2019; 86 FR 32651, June 22, 2021]
+(Approved by the Office of Management and Budget under control number 2126-004)[63 FR 33277, June 18, 1998, as amended at 66 FR 49874, Oct. 1, 2001; 69 FR 16721, Mar. 30, 2004; 73 FR 73127, Dec. 1, 2008; 75 FR 28502, May 21, 2010; 77 FR 24133, Apr. 20, 2012; 79 FR 2380, Jan. 14, 2014; 80 FR 22822, Apr. 23, 2015; 83 FR 28782, June 21, 2018; 84 FR 51434, Sept. 30, 2019; 86 FR 32651, June 22, 2021; 86 FR 57076, Oct. 14, 2021]

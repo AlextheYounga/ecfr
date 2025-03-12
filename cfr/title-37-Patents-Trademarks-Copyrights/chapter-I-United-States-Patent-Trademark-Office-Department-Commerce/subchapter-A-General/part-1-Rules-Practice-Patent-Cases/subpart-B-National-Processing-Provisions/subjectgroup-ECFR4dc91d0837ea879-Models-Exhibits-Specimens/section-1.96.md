@@ -1,5 +1,7 @@
 ##### § 1.96 Submission of computer program listings. #####
 
+Link to an amendment published at 86 FR 57047, Oct. 14, 2021.
+
 (a) *General.* Descriptions of the operation and general content of computer program listings should appear in the description portion of the specification. A computer program listing for the purpose of this section is defined as a printout that lists in appropriate sequence the instructions, routines, and other contents of a program for a computer. The program listing may be either in machine or machine-independent (object or source) language which will cause a computer to perform a desired procedure or task such as solve a problem, regulate the flow of work in a computer, or control or monitor events. Computer program listings may be submitted in patent applications as set forth in paragraphs (b) and (c) of this section.
 
 (b) *Material which will be printed in the patent*: If the computer program listing is contained in 300 lines or fewer, with each line of 72 characters or fewer, it may be submitted either as drawings or as part of the specification.

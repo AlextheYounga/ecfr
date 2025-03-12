@@ -2,35 +2,25 @@
 
 (a) *Commercial Learner's Permit.* Prior to obtaining a CLP, a person must meet the following requirements:
 
-(1) *Commercial learner's permit applications submitted prior to July 8, 2015.* CLPs issued prior to July 8, 2015, for limited time periods according to State requirements, shall be considered valid commercial drivers' licenses for purposes of behind-the-wheel training on public roads or highways, if the following minimum conditions are met:
+(1) The person must be 18 years of age or older and provide proof of his/her age.
 
-(i) The learner's permit holder is at all times accompanied by the holder of a valid CDL;
+(2) The person must have taken and passed a general knowledge test that meets the Federal standards contained in subparts F, G, and H of this part for the commercial motor vehicle group that person operates or expects to operate.
 
-(ii) He/she either holds a valid automobile driver's license, or has passed such vision, sign/symbol, and knowledge tests as the State issuing the learner's permit ordinarily administers to applicants for automotive drivers' licenses; and
+(3) The person must certify that he/she is not subject to any disqualification under § 383.51, or any license disqualification under State law, and that he/she does not have a driver's license from more than one State or jurisdiction.
 
-(iii) He/she does not operate a commercial motor vehicle transporting hazardous materials as defined in § 383.5.
+(4) The person must provide to the State of issuance the information required to be included on the CLP as specified in subpart J of this part.
 
-(2) *Commercial learner's permit applications submitted on or after July 8, 2015.* Any person applying for a CLP on or after July 8, 2015, must meet the following conditions:
+(5) The person must provide to the State proof of citizenship or lawful permanent residency as specified in Table 1 of this section or obtain a Non-domiciled CLP as specified in paragraph (f) of this section.
 
-(i) The person must be 18 years of age or older and provide proof of his/her age.
+(6) The person must provide proof that the State to which application is made is his/her State of domicile, as the term is defined in § 383.5. Acceptable proof of domicile is a document with the person's name and residential address within the State, such as a government issued tax form.
 
-(ii) The person must have taken and passed a general knowledge test that meets the Federal standards contained in subparts F, G, and H of this part for the commercial motor vehicle group that person operates or expects to operate.
+(7) The person must provide the names of all States where the applicant has been licensed to drive any type of motor vehicle during the previous 10 years.
 
-(iii) The person must certify that he/she is not subject to any disqualification under § 383.51, or any license disqualification under State law, and that he/she does not have a driver's license from more than one State or jurisdiction.
+(8) A person seeking a passenger (P), school bus (S) or tank vehicle (N) endorsement must have taken and passed the endorsement knowledge test for the specific endorsement.
 
-(iv) The person must provide to the State of issuance the information required to be included on the CLP as specified in subpart J of this part.
+(9) The person must provide the State the certification contained in paragraph (b)(1) of this section.
 
-(v) The person must provide to the State proof of citizenship or lawful permanent residency as specified in Table 1 of this section or obtain a Non-domiciled CLP as specified in paragraph (f) of this section.
-
-(vi) The person must provide proof that the State to which application is made is his/her State of domicile, as the term is defined in § 383.5. Acceptable proof of domicile is a document with the person's name and residential address within the State, such as a government issued tax form.
-
-(vii) The person must provide the names of all States where the applicant has been licensed to drive any type of motor vehicle during the previous 10 years.
-
-(viii) A person seeking a passenger (P), school bus (S) or tank vehicle (N) endorsement must have taken and passed the endorsement knowledge test for the specific endorsement.
-
-(ix) The person must provide the State the certification contained in paragraph (b)(1) of this section.
-
-(3) Beginning on February 7, 2022, a person must complete the training prescribed in subpart F of part 380 of this chapter before taking the skills test for a Class A or B CDL for the first time, or a skills test for a passenger (P) or school bus (S) endorsement for the first time, or the knowledge test for a hazardous materials (H) endorsement for the first time. The training must be administered by a provider listed on the Training Provider Registry.
+(10) Beginning on February 7, 2022, a person must complete the training prescribed in subpart F of part 380 of this chapter before taking the skills test for a Class A or B CDL for the first time, or a skills test for a passenger (P) or school bus (S) endorsement for the first time, or the knowledge test for a hazardous materials (H) endorsement for the first time. The training must be administered by a provider listed on the Training Provider Registry.
 
 (b) *Initial Commercial Driver's License.* Prior to obtaining a CDL, a person must meet all of the following requirements:
 
@@ -59,8 +49,6 @@
 (8) If the person is applying for a hazardous materials endorsement, he/she must comply with Transportation Security Administration requirements codified in 49 CFR part 1572. A lawful permanent resident of the United States requesting a hazardous materials endorsement must additionally provide his/her U.S. Citizenship and Immigration Services (USCIS) Alien registration number.
 
 (9) The person must provide proof of citizenship or lawful permanent residency as specified in Table 1 of this section, or be registered under paragraph (f) of this section.
-
-Table 1 to § 383.71 - List of Acceptable Proofs of Citizenship or Lawful Permanent Residency
 
 |         Status          |                                                                                                                     Proof of status                                                                                                                     |
 |-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -147,4 +135,4 @@ Table 1 to § 383.71 - List of Acceptable Proofs of Citizenship or Lawful Perman
 
 (4) In the event of a conflict between the medical certification information provided electronically by FMCSA and a paper copy of the medical examiner's certificate, the medical certification information provided electronically by FMCSA shall control.
 
-[76 FR 26881, May 9, 2011, as amended at 77 FR 59825, Oct. 1, 2012; 78 FR 58480, Sept. 24, 2013; 80 FR 22810, Apr. 23, 2015; 80 FR 59072, Oct. 1, 2015; 81 FR 88803, Dec. 8, 2016; 83 FR 28780, June 21, 2018; 85 FR 6100, Feb. 4, 2020; 86 FR 32649, June 22, 2021]
+[76 FR 26881, May 9, 2011, as amended at 77 FR 59825, Oct. 1, 2012; 78 FR 58480, Sept. 24, 2013; 80 FR 22810, Apr. 23, 2015; 80 FR 59072, Oct. 1, 2015; 81 FR 88803, Dec. 8, 2016; 83 FR 28780, June 21, 2018; 85 FR 6100, Feb. 4, 2020; 86 FR 32649, June 22, 2021; 86 FR 57070, Oct. 14, 2021]
