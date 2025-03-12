@@ -1,6 +1,6 @@
 ##### § 520.1720c Phenylbutazone paste. #####
 
-(a) *Specifications* - (1) Each gram of paste contains 0.2 grams phenylbutazone.
+(a) *Specifications.* (1) Each gram of paste contains 0.2 grams phenylbutazone.
 
 (2) Each gram of paste contains 0.35 grams phenylbutazone.
 
@@ -10,7 +10,7 @@
 
 (2) No. 017030 for use of product described in paragraph (a)(2) of this section.
 
-(c) *Conditions of use in horses* - (1) *Amount.* 1 to 2 grams of phenylbutazone per 500 pounds of body weight, not to exceed 4 grams daily.
+(c) *Conditions of use in horses*—(1) *Amount.* 1 to 2 grams of phenylbutazone per 500 pounds of body weight, not to exceed 4 grams daily.
 
 (2) *Indications for use.* For relief of inflammatory conditions associated with the musculoskeletal system.
 

@@ -6,7 +6,7 @@
 
 (c) *Related tolerances.* See § 556.180 of this chapter.
 
-(d) *Special considerations* - (1) Dichlorvos is to be included in meal or mash or mixed with feed in crumble form only after the crumble feed has been manufactured. Do not mix in feeds to be pelleted nor with pelleted feed. Do not soak the feed or administer as wet mash. Feed must be dry when administered. Do not use in animals other than swine. Do not allow fowl access to feed containing this preparation or to feces from treated animals.
+(d) *Special considerations.* (1) Dichlorvos is to be included in meal or mash or mixed with feed in crumble form only after the crumble feed has been manufactured. Do not mix in feeds to be pelleted nor with pelleted feed. Do not soak the feed or administer as wet mash. Feed must be dry when administered. Do not use in animals other than swine. Do not allow fowl access to feed containing this preparation or to feces from treated animals.
 
 (2) Dichlorvos is a cholinesterase inhibitor. Do not use this product in animals simultaneously or within a few days before or after treatment with or exposure to cholinesterase-inhibiting drugs, pesticides, or chemicals. If human or animal poisoning should occur, immediately consult a physician or a veterinarian. Atropine is antidotal.
 

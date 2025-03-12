@@ -1,12 +1,12 @@
 ##### § 520.1204 Kanamycin, bismuth subcarbonate, activated attapulgite. #####
 
-(a) *Specifications* - (1) Each 5 milliliters (mL) of suspension contains 100 milligrams (mg) kanamycin (as the sulfate), 250 mg bismuth subcarbonate, and 500 mg activated attapulgite (aluminum magnesium silicate).
+(a) *Specifications.* (1) Each 5 milliliters (mL) of suspension contains 100 milligrams (mg) kanamycin (as the sulfate), 250 mg bismuth subcarbonate, and 500 mg activated attapulgite (aluminum magnesium silicate).
 
 (2) Each tablet contains 100 mg kanamycin (as the sulfate), 250 mg bismuth subcarbonate, and 500 mg activated attapulgite.
 
 (b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
 
-(c) *Conditions of use in dogs* - (1) *Amount.* 5 mL of suspension or 1 tablet per 20 pounds body weight every 8 hours. Maximum dose: 5 mL of suspension or 3 tablets every 8 hours. Dogs under 10 pounds: 2.5 mL of suspension or1/2 tablet every 8 hours. A recommended initial loading dose should be twice the amount of a single dose.
+(c) *Conditions of use in dogs*—(1) *Amount.* 5 mL of suspension or 1 tablet per 20 pounds body weight every 8 hours. Maximum dose: 5 mL of suspension or 3 tablets every 8 hours. Dogs under 10 pounds: 2.5 mL of suspension or1/2 tablet every 8 hours. A recommended initial loading dose should be twice the amount of a single dose.
 
 (2) *Indications for use.* For the treatment of bacterial enteritis caused by organisms susceptible to kanamycin and the symptomatic relief of the associated diarrhea.
 

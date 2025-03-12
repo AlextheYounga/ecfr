@@ -1,5 +1,7 @@
 ##### § 423.2440 Credibility adjustment. #####
 
+Link to an amendment published at 85 FR 33911, June 2, 2020.
+
 (a) A Part D sponsor may add a credibility adjustment to a contract's MLR if the contract's experience is partially credible, as determined by CMS.
 
 (b) A Part D sponsor may not add a credibility adjustment to a contract's MLR if the contract's experience is fully credible, as determined by CMS.

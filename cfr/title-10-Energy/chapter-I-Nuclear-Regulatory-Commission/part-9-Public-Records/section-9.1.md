@@ -1,5 +1,7 @@
 ##### § 9.1 Scope and purpose. #####
 
+Link to an amendment published at 85 FR 33529, June 2, 2020.
+
 (a) Subpart A implements the provisions of the Freedom of Information Act, 5 U.S.C. 552, concerning the availability to the public of Nuclear Regulatory Commission records for inspection and copying.
 
 (b) Subpart B implements the provisions of the Privacy Act of 1974, 5 U.S.C. 552a, concerning disclosure and availability of certain Nuclear Regulatory Commission records maintained on individuals.

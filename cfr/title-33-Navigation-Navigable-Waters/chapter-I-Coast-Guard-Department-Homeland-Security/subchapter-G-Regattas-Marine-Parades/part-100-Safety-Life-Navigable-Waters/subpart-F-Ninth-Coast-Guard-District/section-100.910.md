@@ -1,5 +1,7 @@
 ##### § 100.910 Southland Regatta; Blue Island, IL. #####
 
+Link to an amendment published at 85 FR 33550, June 2, 2020.
+
 (a) *Regulated Area.* A regulated area is established to include all waters of the Calumet Sag Channel from the South Halstead Street Bridge at 41°39′27″ N, 087°38′29″ W; to the Crawford Avenue Bridge at 41°39′05″ N, 087°43′08″ W; and the Little Calumet River from the Ashland Avenue Bridge at 41°39′07″ N, 087°39′38″ W; to the junction of the Calumet Sag Channel. (DATUM: NAD 83).
 
 (b) *Special Local Regulations.* The regulations of § 100.901 apply. No vessel may enter, transit through, or anchor within the regulated area without the permission of the Coast Guard Patrol Commander.

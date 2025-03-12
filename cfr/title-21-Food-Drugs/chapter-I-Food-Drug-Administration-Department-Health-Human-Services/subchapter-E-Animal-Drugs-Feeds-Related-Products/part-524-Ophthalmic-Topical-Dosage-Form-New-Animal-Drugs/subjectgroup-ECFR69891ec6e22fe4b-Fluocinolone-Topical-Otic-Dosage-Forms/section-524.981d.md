@@ -4,7 +4,7 @@
 
 (b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
 
-(c) *Conditions of use in dogs* - (1) *Amount* - Instill 1 to 2 milliliters into each anal sac following expression of anal sac contents.
+(c) *Conditions of use in dogs*—(1) *Amount.* Instill 1 to 2 milliliters into each anal sac following expression of anal sac contents.
 
 (2) *Indications for use.* For the relief of impaction commonly present in apparently normal anal sacs, for the reversal of inflammatory changes associated with abnormal anal sacs, and to counteract the offensive odor of anal sac secretions.
 

@@ -1,6 +1,6 @@
 ##### § 520.1100 Griseofulvin. #####
 
-(a) *Specifications* - (1) The powder complies with U.S.P. for griseofulvin, microsize.
+(a) *Specifications.* (1) The powder complies with U.S.P. for griseofulvin, microsize.
 
 (2) Each bolus contains 2.5 grams griseofulvin.
 
@@ -14,7 +14,7 @@
 
 (c) *Special considerations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-(d) *Conditions of use* - (1) *Horses* - (i) *Amount and indications for use* - (A) For equine ringworm infection caused by *Trichophyton equinum* or *Microsporum gypseum*, administer soluble powder described in paragraph (a)(1) of this section daily as a drench or as a top dressing on feed for not less than 10 days as follows: adults, 2.5 grams; yearlings, 1.25 to 2.5 grams; and foals, 1.25 grams.
+(d) *Conditions of use*—(1) *Horses*—(i) *Amount and indications for use.* (A) For equine ringworm infection caused by *Trichophyton equinum* or *Microsporum gypseum*, administer soluble powder described in paragraph (a)(1) of this section daily as a drench or as a top dressing on feed for not less than 10 days as follows: adults, 2.5 grams; yearlings, 1.25 to 2.5 grams; and foals, 1.25 grams.
 
 (B) For treating ringworm infection caused by *T. equinum*, administer boluses described in paragraph (a)(2) of this section daily for not less than 10 days as follows: adults, 1 bolus; yearlings, one-half to 1 bolus; and foals, one-half bolus.
 

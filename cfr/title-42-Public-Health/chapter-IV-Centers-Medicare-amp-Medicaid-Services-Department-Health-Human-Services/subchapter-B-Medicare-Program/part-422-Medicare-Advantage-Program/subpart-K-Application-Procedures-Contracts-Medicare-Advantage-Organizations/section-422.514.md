@@ -1,5 +1,7 @@
 ##### § 422.514 Minimum enrollment requirements. #####
 
+Link to an amendment published at 85 FR 33908, June 2, 2020.
+
 (a) *Basic rule.* Except as provided in paragraph (b) of this section, CMS does not enter into a contract under this subpart unless the organization meets the following minimum enrollment requirement -
 
 (1) At least 5,000 individuals (or 1,500 individuals if the organization is a PSO) are enrolled for the purpose of receiving health benefits from the organization; or

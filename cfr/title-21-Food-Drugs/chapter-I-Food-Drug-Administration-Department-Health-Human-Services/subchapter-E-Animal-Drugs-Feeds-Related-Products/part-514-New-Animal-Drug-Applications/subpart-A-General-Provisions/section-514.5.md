@@ -10,7 +10,7 @@
 
 (e) *Conduct of a presubmission conference.* The potential applicant and FDA may each bring consultants to the presubmission conference. The presubmission conference(s) will be directed primarily at establishing agreement between FDA and the potential applicant regarding a submission or investigational requirement. The submission or investigational requirement may include, among other things, the number, types, and general design of studies that are necessary to demonstrate the safety and effectiveness of a new animal drug for the intended uses and conditions of use prescribed, recommended, or suggested in the proposed labeling for the new animal drug.
 
-(f) *Documentation of a presubmission conference* - (1) *Memorandum of conference* - (i) *Preparation.* FDA will prepare a memorandum for each presubmission conference that will include, among other things, any background pertinent to the request for meeting; a summary of the key points of discussion; agreements; and action items and assignments of responsibility. That portion of the memorandum of conference that documents any agreements reached regarding all or part of a submission or investigational requirement will be included under the heading “Presubmission Conference Agreement.” If the presubmission conference agreement section of the memorandum is silent on an issue, including one that was discussed in the conference or addressed by materials provided for the conference, such silence does not constitute agreement between FDA and the potential applicant on the issue.
+(f) *Documentation of a presubmission conference*—(1) *Memorandum of conference*—(i) *Preparation.* FDA will prepare a memorandum for each presubmission conference that will include, among other things, any background pertinent to the request for meeting; a summary of the key points of discussion; agreements; and action items and assignments of responsibility. That portion of the memorandum of conference that documents any agreements reached regarding all or part of a submission or investigational requirement will be included under the heading “Presubmission Conference Agreement.” If the presubmission conference agreement section of the memorandum is silent on an issue, including one that was discussed in the conference or addressed by materials provided for the conference, such silence does not constitute agreement between FDA and the potential applicant on the issue.
 
 (ii) *Sending a copy to the potential applicant.* FDA will send a copy of the memorandum to the potential applicant for review no later than 45 calendar days after the date of the conference
 
@@ -26,7 +26,7 @@
 
 (2) FDA by written order determines that a substantiated scientific requirement essential to the determination of safety or effectiveness of the new animal drug appeared after the conference.
 
-(h) *When the terms of a presubmission conference agreement are not valid* (1) A presubmission conference agreement will no longer be valid if:
+(h) *When the terms of a presubmission conference agreement are not valid.* (1) A presubmission conference agreement will no longer be valid if:
 
 (i) The potential applicant makes to FDA, before, during, or after the presubmission conference, any untrue statement of material fact; or
 

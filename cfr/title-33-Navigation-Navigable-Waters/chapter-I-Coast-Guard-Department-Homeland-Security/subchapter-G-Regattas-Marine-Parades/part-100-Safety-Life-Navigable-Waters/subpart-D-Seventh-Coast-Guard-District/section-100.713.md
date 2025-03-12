@@ -1,5 +1,7 @@
 ##### § 100.713 Annual Harborwalk Boat Race; Sampit River, Georgetown, SC. #####
 
+Link to an amendment published at 85 FR 33547, June 2, 2020.
+
 (a) *Definitions* - (1) *Regulated Area.* The regulated area is formed by a line from:
 
 33°21.5′ N, 079°17.10′ W, thence to33°21.7′ N, 079°16.8′ W, thence along the shore to33°21.1′ N, 079°16.7′ W, thence to33°21.1′ N, 079°16.9′ W, thence back to33°21.5′ N, 079°17.10′ W.All coordinates referenced use datum: NAD 83.

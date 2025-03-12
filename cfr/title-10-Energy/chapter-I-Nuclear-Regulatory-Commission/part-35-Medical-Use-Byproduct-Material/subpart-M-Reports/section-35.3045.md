@@ -1,5 +1,7 @@
 ##### § 35.3045 Report and notification of a medical event. #####
 
+Link to an amendment published at 85 FR 33530, June 2, 2020.
+
 (a) A licensee shall report any event as a medical event, except for an event that results from patient intervention, in which -
 
 (1) The administration of byproduct material or radiation from byproduct material, except permanent implant brachytherapy, results in -

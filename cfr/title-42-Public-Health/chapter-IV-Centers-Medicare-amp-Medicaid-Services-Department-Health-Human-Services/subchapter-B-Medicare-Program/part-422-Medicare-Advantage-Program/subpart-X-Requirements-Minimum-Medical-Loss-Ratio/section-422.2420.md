@@ -1,5 +1,7 @@
 ##### § 422.2420 Calculation of the medical loss ratio. #####
 
+Link to an amendment published at 85 FR 33908, June 2, 2020.
+
 (a) *Determination of MLR.* (1) The MLR for each contract under this part is the ratio of the numerator (as defined in paragraph (b) of this section) to the denominator (as defined in paragraph (c) of this section). An MLR may be increased by a credibility adjustment according to the rules at § 422.2440, or subject to an adjustment determined by CMS to be warranted based on exceptional circumstances for areas outside the 50 states and the District of Columbia.
 
 (2) The MLR for an MA contract -

@@ -1,6 +1,6 @@
 ##### § 520.1484 Neomycin. #####
 
-(a) *Specifications* - (1) Each ounce of powder contains 20.3 grams (g) neomycin sulfate (equivalent to 14.2 g neomycin base).
+(a) *Specifications.* (1) Each ounce of powder contains 20.3 grams (g) neomycin sulfate (equivalent to 14.2 g neomycin base).
 
 (2) Each milliliter of solution contains 200 milligrams (mg) neomycin sulfate (equivalent to 140 mg neomycin base).
 
@@ -16,13 +16,13 @@
 
 (d) *Special labeling considerations.* Labeling shall bear the following warning statements: “A withdrawal period has not been established for use in preruminating calves. Do not use in calves to be processed for veal. Use of more than one product containing neomycin or failure to follow withdrawal times may result in illegal drug residues.”
 
-(e) *Conditions of use* - (1) *Cattle, swine, sheep, and goats* - (i) *Amount.* 10 mg per pound (/lb) of body weight per day (22 mg per kilogram (/kg)) in divided doses for a maximum of 14 days.
+(e) *Conditions of use*—(1) *Cattle, swine, sheep, and goats*—(i) *Amount.* 10 mg per pound (/lb) of body weight per day (22 mg per kilogram (/kg)) in divided doses for a maximum of 14 days.
 
 (ii) *Indications for use.* For the treatment and control of colibacillosis (bacterial enteritis) caused by *Escherichia coli* susceptible to neomycin sulfate.
 
 (iii) *Limitations.* Discontinue treatment prior to slaughter as follows: Cattle, 1 day; sheep, 2 days; swine and goats, 3 days. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-(2) *Turkeys* - (i) *Amount.* 10 mg/lb of body weight per day (22 mg/kg) for 5 days.
+(2) *Turkeys*—(i) *Amount.* 10 mg/lb of body weight per day (22 mg/kg) for 5 days.
 
 (ii) *Indications for use.* For the control of mortality associated with *E. coli* susceptible to neomycin sulfate in growing turkeys.
 

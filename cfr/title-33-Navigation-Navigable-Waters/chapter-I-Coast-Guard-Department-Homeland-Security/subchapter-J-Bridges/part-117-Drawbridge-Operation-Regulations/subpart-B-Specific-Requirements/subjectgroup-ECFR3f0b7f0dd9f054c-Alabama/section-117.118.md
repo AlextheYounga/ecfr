@@ -1,5 +1,7 @@
 ##### § 117.118 Tombigbee River. #####
 
+Link to an amendment published at 85 FR 33553, June 2, 2020.
+
 The draw of the Meridian and Bigbee Railroad (MNBR) vertical lift span bridge across the Tombigbee River, mile 128.6 (Black Warrior Tombigbee (BWT) Waterway mile 173.6), at Naheola, shall operate as follows:
 
 (a) The draw shall be maintained in the fully open-to-navigation position for vessels at all times, except during periods when it is closed for the passage of rail traffic.

@@ -1,6 +1,6 @@
 ##### § 522.1720 Phenylbutazone. #####
 
-(a) *Specifications* - (1) Each milliliter of solution contains 100 milligrams (mg) of phenylbutazone.
+(a) *Specifications.* (1) Each milliliter of solution contains 100 milligrams (mg) of phenylbutazone.
 
 (2) Each milliliter of solution contains 200 mg of phenylbutazone.
 

@@ -1,5 +1,7 @@
 ##### § 422.306 Annual MA capitation rates. #####
 
+Link to an amendment published at 85 FR 33907, June 2, 2020.
+
 Subject to adjustments at §§ 422.308(b) and 422.308(g), the annual capitation rate for each MA local area is determined under paragraph (a) of this section for 2005 and each succeeding year, except for years when CMS announces under § 422.312(b) that the annual capitation rates will be determined under paragraph (b) of this section, and is then adjusted to exclude the applicable phase-in percentage of the standardized costs for payments under section 1886(d)(5)(B) of the Act in the area for the year under paragraph (c) of this section.
 
 (a) *Minimum percentage increase rate.* The annual capitation rate for each MA local area is equal to the minimum percentage increase rate, which is the annual capitation rate for the area for the preceding year increased by the national per capita MA growth percentage (defined at § 422.308(a)) for the year, but not taking into account any adjustment under § 422.308(b) for a year before 2004.

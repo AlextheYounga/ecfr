@@ -62,4 +62,4 @@
 
 (xiv) Updating or changes in the manufacturing process of the new drug substance and/or final dosage form (other than a change in equipment that does not alter the method of manufacture of a new animal drug, or a change from one commercial batch size to another without any change in manufacturing procedure), or changes in the methods, facilities, or controls used for the manufacture, processing, packaging, or holding of the new animal drug (other than use of an establishment not covered by the approval that is in effect) that give increased assurance that the drug will have the characteristics of identity, strength, quality, and purity which it purports or is represented to possess.
 
-[55 FR 46052, Nov. 1, 1990; 55 FR 49973, Dec. 3, 1990; 56 FR 12422, Mar. 25, 1991; 71 FR 74785, Dec. 13, 2006]
+[55 FR 46052, Nov. 1, 1990; 55 FR 49973, Dec. 3, 1990; 56 FR 12422, Mar. 25, 1991, as amended at 71 FR 74785, Dec. 13, 2006]

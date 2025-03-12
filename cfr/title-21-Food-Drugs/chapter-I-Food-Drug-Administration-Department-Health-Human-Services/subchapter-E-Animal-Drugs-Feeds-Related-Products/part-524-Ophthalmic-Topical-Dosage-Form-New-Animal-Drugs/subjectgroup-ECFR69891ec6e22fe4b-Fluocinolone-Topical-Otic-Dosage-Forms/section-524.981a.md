@@ -4,7 +4,7 @@
 
 (b) *Sponsor.* See No. 099207 in § 510.600(c) of this chapter.
 
-(c) *Conditions of use in dogs* - (1) *Amount* - A small amount is applied to the affected area two or three times daily.
+(c) *Conditions of use in dogs*—(1) *Amount.* A small amount is applied to the affected area two or three times daily.
 
 (2) *Indications for use.* For the relief of pruritis and inflammation associated with certain superficial acute and chronic dermatoses. It is used in the treatment of allergic and acute moist dermatitis and for the relief of superficial inflammation caused by chemical burns and physical abrasions.
 

@@ -1,5 +1,7 @@
 ##### § 422.50 Eligibility to elect an MA plan. #####
 
+Link to an amendment published at 85 FR 33901, June 2, 2020.
+
 For this subpart, all references to an MA plan include MA-PD and both MA local and MA regional plans, as defined in § 422.2 unless specifically noted otherwise.
 
 (a) An individual is eligible to elect an MA plan if he or she meets all of the following:;

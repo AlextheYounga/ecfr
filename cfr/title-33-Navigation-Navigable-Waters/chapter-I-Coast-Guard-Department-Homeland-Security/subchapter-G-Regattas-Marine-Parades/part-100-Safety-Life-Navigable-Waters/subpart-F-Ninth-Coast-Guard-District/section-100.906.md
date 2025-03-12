@@ -1,5 +1,7 @@
 ##### § 100.906 Grand Haven Coast Guard Festival Waterski Show, Grand Haven, MI. #####
 
+Link to an amendment published at 85 FR 33550, June 2, 2020.
+
 (a) *Regulated Area.* All waters of the Grand River at Waterfront Stadium from approximately 350 yards upriver to 150 yards downriver of Grand River Lighted Buoy 3A (Light list number 19000) within the following coordinates: 43°04′ N, 086°14′12″ W; then east to 43°03′56″ N, 086°14′4″ W; then south to 43°03′45″ N, 086°14′10″ W; then west to 43°03′48″ N, 086°14′17″ W; then back to the point of origin (NAD 83).
 
 (b) *Special Local Regulations.* The regulations in § 100.901 apply. No vessel may enter, transit through, or anchor within the regulated area without the permission of the Coast Guard Patrol Commander.

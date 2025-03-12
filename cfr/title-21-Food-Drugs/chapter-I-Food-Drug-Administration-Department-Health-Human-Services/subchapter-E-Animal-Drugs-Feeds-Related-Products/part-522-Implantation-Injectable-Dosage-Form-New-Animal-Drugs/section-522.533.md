@@ -1,6 +1,6 @@
 ##### § 522.533 Deslorelin. #####
 
-(a) *Specifications* - (1) Each implant contains 2.1 milligrams (mg) deslorelin acetate.
+(a) *Specifications.* (1) Each implant contains 2.1 milligrams (mg) deslorelin acetate.
 
 (2) Each milliliter (mL) of suspension contains 1.8 mg deslorelin acetate.
 

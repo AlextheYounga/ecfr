@@ -1,5 +1,7 @@
 ##### § 422.110 Discrimination against beneficiaries prohibited. #####
 
+Link to an amendment published at 85 FR 33904, June 2, 2020.
+
 (a) *General prohibition.* Except as provided in paragraph (b) of this section, an MA organization may not deny, limit, or condition the coverage or furnishing of benefits to individuals eligible to enroll in an MA plan offered by the organization on the basis of any factor that is related to health status, including, but not limited to the following:
 
 (1) Medical condition, including mental as well as physical illness.

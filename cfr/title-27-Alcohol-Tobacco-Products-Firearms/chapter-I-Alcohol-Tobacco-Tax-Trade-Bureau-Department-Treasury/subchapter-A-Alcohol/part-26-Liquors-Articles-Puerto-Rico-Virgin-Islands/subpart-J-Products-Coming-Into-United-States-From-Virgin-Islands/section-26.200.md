@@ -18,7 +18,7 @@
 
 (5) Information identifying each product for Internal Revenue Code and/or FAA Act purposes.
 
-(e) Distilled spirits, natural wines, and beer in bulk containers may be released from customs custody without payment of tax under the provisions of subpart Oa of this part and thereafter removed subject to tax from internal revenue bonded premises. The tax will be collected and paid under the provisions of parts 19, 24, and 25 of this chapter, respectively.
+(e) Distilled spirits, natural wines, and beer in bulk containers may be released from customs custody without payment of tax under the provisions of subpart Oa of this part and thereafter removed subject to tax from, respectively, a distilled spirits plant, bonded wine cellar, or brewery. The tax will be collected and paid under the provisions of parts 19, 24, and 25 of this chapter, respectively.
 
 (f)(1) Except as provided in paragraph (f)(2) of this section, in the case of an entry for warehousing (that is, products transferred directly to a customs bonded warehouse or foreign trade zone), the last day for payment of the tax shall not be later than the 14th day after the last day of the semimonthly period during which the products are removed from the first such warehouse, even if the products have been removed from that customs bonded warehouse or foreign trade zone for transfer to another customs bonded warehouse or foreign trade zone.
 
@@ -26,4 +26,4 @@
 
 (g) Regardless of the method of filing, the person bringing the liquors into the United States must retain as a record the information required by this section, any information provided to CBP to meet CBP requirements, and any supporting documentation. These records must be retained in accordance with the record retention requirements of § 26.276, and the records must be made available upon request of the appropriate TTB officer or a customs officer.
 
-(26 U.S.C. 5001, 5054, 5061, 5232, 5364, 5418, 7652)(Approved by the Office of Management and Budget under control number 1513-0064)[T.D. ATF-175, 49 FR 20804, May 16, 1984, as amended by T.D. ATF-206, 50 FR 15888, Apr. 23, 1985. Redesignated and amended by T.D. ATF-459, 66 FR 38550, 38552, July 25, 2001; T.D. TTB-145, 81 FR 94200, Dec. 22, 2016]
+(26 U.S.C. 5001, 5054, 5061, 5232, 5364, 5418, 7652)(Approved by the Office of Management and Budget under control number 1513-0064)[T.D. ATF-175, 49 FR 20804, May 16, 1984, as amended by T.D. ATF-206, 50 FR 15888, Apr. 23, 1985. Redesignated and amended by T.D. ATF-459, 66 FR 38550, 38552, July 25, 2001; T.D. TTB-145, 81 FR 94200, Dec. 22, 2016; T.D. TTB-159, 85 FR 33542, June 2, 2020]

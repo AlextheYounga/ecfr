@@ -1,5 +1,7 @@
 ##### § 422.312 Announcement of annual capitation rate, benchmarks, and methodology changes. #####
 
+Link to an amendment published at 85 FR 33908, June 2, 2020.
+
 (a) *Capitation rates* - (1) *Initial announcement.* Not later than the first Monday in April each year, CMS announces to MA organizations and other interested parties the following information for each MA payment area for the following calendar year:
 
 (i) The annual MA capitation rate.

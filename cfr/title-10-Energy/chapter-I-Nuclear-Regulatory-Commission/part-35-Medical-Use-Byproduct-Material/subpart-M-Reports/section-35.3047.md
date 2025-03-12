@@ -1,5 +1,7 @@
 ##### § 35.3047 Report and notification of a dose to an embryo/fetus or a nursing child. #####
 
+Link to an amendment published at 85 FR 33530, June 2, 2020.
+
 (a) A licensee shall report any dose to an embryo/fetus that is greater than 50 mSv (5 rem) dose equivalent that is a result of an administration of byproduct material or radiation from byproduct material to a pregnant individual unless the dose to the embryo/fetus was specifically approved, in advance, by the authorized user.
 
 (b) A licensee shall report any dose to a nursing child that is a result of an administration of byproduct material to a breast-feeding individual that -

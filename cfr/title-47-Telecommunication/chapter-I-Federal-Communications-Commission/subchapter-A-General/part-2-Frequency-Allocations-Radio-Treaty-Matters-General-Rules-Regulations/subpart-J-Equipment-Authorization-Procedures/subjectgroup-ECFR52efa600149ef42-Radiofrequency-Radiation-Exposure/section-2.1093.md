@@ -1,6 +1,6 @@
 ##### § 2.1093 Radiofrequency radiation exposure evaluation: portable devices. #####
 
-Link to an amendment published at 85 FR 18147, Apr. 1, 2020.
+Link to an amendment published at 85 FR 18147, Apr. 1, 2020.Link to a correction of the above amendment published at 85 FR 33578, June 2, 2020.
 
 (a) Requirements of this section are a consequence of Commission responsibilities under the National Environmental Policy Act to evaluate the environmental significance of its actions. See subpart I of part 1 of this chapter, in particular § 1.1307(b).
 
@@ -42,4 +42,4 @@ Link to an amendment published at 85 FR 18147, Apr. 1, 2020.
 
 (5) Time-averaging provisions of the MPE guidelines identified in § 1.1310 of this chapter may not be used in determining typical exposure levels for portable devices intended for use by consumers, such as hand-held cellular telephones, that are considered to operate in general population/uncontrolled environments as defined above. However, “source-based” time-averaging based on an inherent property or duty-cycle of a device is allowed. An example of this would be the determination of exposure from a device that uses digital technology such as a time-division multiple-access (TDMA) scheme for transmission of a signal. In general, maximum average power levels must be used to determine compliance.
 
-[61 FR 41017, Aug. 7, 1996, as amended at 62 FR 4655, Jan. 31, 1997; 62 FR 9658, Mar. 3, 1997; 62 FR 47967, Sept. 12, 1997; 65 FR 44007, July 17, 2000; 68 FR 38638, June 30, 2003; 69 FR 3264, Jan. 23, 2004; 70 FR 24725, May 11, 2005; 74 FR 22704, May 14, 2009; 76 FR 67607, Nov. 2, 2011; 78 FR 21559, Apr. 11, 2013; 78 FR 33652, June 4, 2013; 80 FR 36221, June 23, 2015; 81 FR 79936, Nov. 14, 2016; 82 FR 43870, Sept. 20, 2017; 84 FR 25689, June 4, 2019]
+[61 FR 41017, Aug. 7, 1996, as amended at 62 FR 4655, Jan. 31, 1997; 62 FR 9658, Mar. 3, 1997; 62 FR 47967, Sept. 12, 1997; 65 FR 44007, July 17, 2000; 68 FR 38638, June 30, 2003; 69 FR 3264, Jan. 23, 2004; 70 FR 24725, May 11, 2005; 74 FR 22704, May 14, 2009; 76 FR 67607, Nov. 2, 2011; 78 FR 21559, Apr. 11, 2013; 78 FR 33652, June 4, 2013; 80 FR 36221, June 23, 2015; 81 FR 79936, Nov. 14, 2016; 82 FR 43870, Sept. 20, 2017; 84 FR 25689, June 4, 2019]Effective Date Note:At 85 FR 18147, Apr. 1, 2020, § 2.1093 was amended by revising paragraphs (b) through (d). At 85 FR 33578, June 2, 2020, this revision was delayed indefinitely.

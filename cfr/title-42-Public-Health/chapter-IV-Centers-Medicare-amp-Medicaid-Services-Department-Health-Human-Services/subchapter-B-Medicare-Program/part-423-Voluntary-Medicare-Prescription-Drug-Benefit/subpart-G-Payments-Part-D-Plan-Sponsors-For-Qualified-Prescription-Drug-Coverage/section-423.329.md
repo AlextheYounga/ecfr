@@ -1,5 +1,7 @@
 ##### § 423.329 Determination of payments. #####
 
+Link to an amendment published at 85 FR 33911, June 2, 2020.
+
 (a) *Subsidy payments* - (1) *Direct subsidy.* CMS makes a direct subsidy payment for each Part D eligible beneficiary enrolled in a Part D plan for a month equal to the amount of the plan's approved standardized bid, adjusted for health status (as determined under § 423.329(b)(1)), and reduced by the base beneficiary premium for the plan (as determined under § 423.286(c) and adjusted in § 423.286(d)(1)). The direct subsidy payment may be increased by the excess amount of a negative premium as described in § 423.286(d)(1), if applicable.
 
 (2) *Subsidy through reinsurance.* CMS makes reinsurance subsidy payments as provided under paragraph (c) of this section.

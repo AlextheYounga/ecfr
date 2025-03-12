@@ -1,6 +1,6 @@
 ##### § 520.2044 Pyrantel pamoate paste. #####
 
-(a) *Specifications* - (1) Each milliliter (mL) contains 180 milligrams (mg) pyrantel base (as pyrantel pamoate).
+(a) *Specifications*—(1) Each milliliter (mL) contains 180 milligrams (mg) pyrantel base (as pyrantel pamoate).
 
 (2) Each mL contains 226 mg pyrantel base (as pyrantel pamoate).
 
@@ -18,7 +18,7 @@
 
 (d) *Conditions of use.* It is used in horses and ponies as follows:
 
-(1) *Amounts and indications for use* - (i) 3 mg per pound (/lb) body weight as single oral dose for removal and control of infections from the following mature parasites: large strongyles (*Strongylus vulgaris*, *S. edentatus*, *S. equinus*); small strongyles; pinworms (*Oxyuris equi*); and large roundworms (*Parascaris equorum*).
+(1) *Amounts and indications for use.* (i) 3 mg per pound (/lb) body weight as single oral dose for removal and control of infections from the following mature parasites: large strongyles (*Strongylus vulgaris*, *S. edentatus*, *S. equinus*); small strongyles; pinworms (*Oxyuris equi*); and large roundworms (*Parascaris equorum*).
 
 (ii) 6 mg/lb body weight as single oral dose for the removal and control of mature infections of tapeworms (*Anoplocephala perfoliata*).
 

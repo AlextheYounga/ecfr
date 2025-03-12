@@ -1,5 +1,7 @@
 ##### § 422.2440 Credibility adjustment. #####
 
+Link to an amendment published at 85 FR 33908, June 2, 2020.
+
 (a) An MA organization may add a credibility adjustment to a contract's MLR if the contract's experience is partially credible, as determined by CMS.
 
 (b) An MA organization may not add a credibility adjustment to a contract's MLR if the contract's experience is fully credible, as determined by CMS.

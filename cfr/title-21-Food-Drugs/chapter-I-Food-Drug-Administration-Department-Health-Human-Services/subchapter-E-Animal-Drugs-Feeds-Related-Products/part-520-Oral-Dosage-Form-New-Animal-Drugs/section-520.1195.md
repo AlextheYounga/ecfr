@@ -1,6 +1,6 @@
 ##### § 520.1195 Ivermectin liquid. #####
 
-(a) *Specifications* - (1) Each milliliter (mL) contains 10 milligrams (mg) ivermectin.
+(a) *Specifications.* (1) Each milliliter (mL) contains 10 milligrams (mg) ivermectin.
 
 (2) Each mL of micellar solution contains 0.8 mg ivermectin.
 

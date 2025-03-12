@@ -1,5 +1,7 @@
 ##### § 165.929 Safety Zones; Annual events requiring safety zones in the Captain of the Port Lake Michigan zone. #####
 
+Link to an amendment published at 85 FR 33555, June 2, 2020.
+
 (a) *Regulations.* The following regulations apply to the safety zones listed in Table 165.929 of this section.
 
 (1) The general regulations in § 165.23.

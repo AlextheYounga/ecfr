@@ -14,7 +14,7 @@
 
 (3) No. 000061 for use of product described in paragraph (a)(2) as in paragraphs (c)(1)(iv) and (c)(2) of this section.
 
-(c) *Conditions of use in cattle* - (1) *Amount and indications for use* - (i) Administer 375 µg by intramuscular injection to induce abortion in pregnant feedlot heifers from 1 week after mating until 41/2 months of gestation.
+(c) *Conditions of use in cattle*—(1) *Amount and indications for use.* (i) Administer 375 µg by intramuscular injection to induce abortion in pregnant feedlot heifers from 1 week after mating until 41/2 months of gestation.
 
 (ii) Administer 500 µg by intramuscular injection for abortion of unwanted pregnancies from mismatings from 1 week after mating until 5 months after conception; for unobserved (non-detected) estrus; for treatment of mummified fetus, luteal cysts, and pyometra or chronic endometritis in beef cows, lactating dairy cows, and replacement beef and dairy heifers.
 

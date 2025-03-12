@@ -1,5 +1,7 @@
 ##### § 422.62 Election of coverage under an MA plan. #####
 
+Link to an amendment published at 85 FR 33901, June 2, 2020.
+
 (a) *General: Coverage election periods* - (1) *Initial coverage election period for MA.* The initial coverage election period is the period during which a newly MA-eligible individual may make an initial election. This period begins 3 months before the month the individual is first entitled to both Part A and Part B and ends on the later of -
 
 (i) The last day of the month preceding the month of entitlement; or

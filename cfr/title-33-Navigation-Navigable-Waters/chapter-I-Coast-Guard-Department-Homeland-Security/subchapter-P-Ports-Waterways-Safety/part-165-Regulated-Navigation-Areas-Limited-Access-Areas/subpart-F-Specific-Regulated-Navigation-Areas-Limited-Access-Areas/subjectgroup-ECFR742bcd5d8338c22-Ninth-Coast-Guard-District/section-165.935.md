@@ -1,5 +1,7 @@
 ##### § 165.935 Safety Zone, Milwaukee Harbor, Milwaukee, WI. #####
 
+Link to an amendment published at 85 FR 33561, June 2, 2020.
+
 (a) *Location.* The following area is a safety zone: the waters of Lake Michigan within Milwaukee Harbor including the Harbor Island Lagoon enclosed by a line connecting the following points: beginning at 43°02′00″ N, 087°53′53″ W; then south to 43°01′44″ N, 087°53′53″ W; then east to 43°01′44″ N, 087°53′25″ W; then north to 43°02′00″ N, 087°53′25″ W; then west to the point of origin.
 
 (b) *Definitions.* The following definitions apply to this section:

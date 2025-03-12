@@ -1,6 +1,6 @@
 ##### § 1.1307 Actions that may have a significant environmental effect, for which Environmental Assessments (EAs) must be prepared. #####
 
-Link to an amendment published at 85 FR 18142, Apr. 1, 2020.
+Link to an amendment published at 85 FR 18142, Apr. 1, 2020.Link to a correction of the above amendment published at 85 FR 33578, June 2, 2020.
 
 (a) Commission actions with respect to the following types of facilities may significantly affect the environment and thus require the preparation of EAs by the applicant (see §§ 1.1308 and 1.1311) and may require further Commission environmental processing (*see* §§ 1.1314, 1.1315 and 1.1317):
 
@@ -123,4 +123,4 @@ Pending a final determination as to what, if any, permanent measures should be a
 
 (4) The term *direct-to-home satellite services* means the distribution or broadcasting of programming or services by satellite directly to the subscriber's premises without the use of ground receiving or distribution equipment, except at the subscriber's premises or in the uplink process to the satellite.
 
-[51 FR 15000, Apr. 22, 1986]Editorial Note:For Federal Register citations affecting § 1.1307, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[51 FR 15000, Apr. 22, 1986]Editorial Note:For Federal Register citations affecting § 1.1307, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 85 FR 18142, Apr. 1, 2020, § 1.1307 was amended by revising paragraph (b). At 85 FR 33578, June 2, 2020, this revision was delayed indefinitely.

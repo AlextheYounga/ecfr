@@ -1,5 +1,7 @@
 ##### § 100.903 Harborfest Dragon Boat Race; South Haven, MI. #####
 
+Link to an amendment published at 85 FR 33548, June 2, 2020.
+
 (a) *Regulated Area.* A regulated area is established on the Black River in South Haven, MI within the following coordinates starting at 42°24′13.6″ N, 086°16′41″ W; then southeast 42°24′12.6″ N, 086°16′40″ W; then northeast to 42°24′19.2″ N, 086°16′26.5″ W; then northwest to 42°24′20.22″ N, 086°16′27.4″ W; then back to point of origin (NAD 83).
 
 (b) *Special Local Regulations.* The regulations in § 100.901 apply. No vessel may enter, transit through, or anchor within the regulated area without the permission of the Coast Guard Patrol Commander.

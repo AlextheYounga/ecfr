@@ -1,5 +1,7 @@
 ##### § 417.416 Qualifying condition: Furnishing of services. #####
 
+Link to an amendment published at 85 FR 33901, June 2, 2020.
+
 (a) *Condition.* The HMO or CMP must furnish the required services to its Medicare enrollees through providers and suppliers that meet applicable Medicare statutory definitions and implementing regulations. The HMO or CMP must also ensure that the required services, additional services, and any other supplemental services for which the Medicare enrollee has contracted are available and accessible and are furnished in a manner that ensures continuity.
 
 (b) *Standard: Conformance with conditions of participation, conditions for coverage, and conditions for certification.* (1) Hospitals, SNFs, HHAs, CORFs, and providers of outpatient physical therapy or speech-language pathology services must meet the applicable conditions of participation in Medicare, as set forth elsewhere in this chapter.

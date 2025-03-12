@@ -8,7 +8,7 @@
 
 (d) *Special considerations.* See § 500.25 of this chapter.
 
-(e) *Conditions of use* - (1) *Horses* - (i) *Indications for use and amounts* - (A) For control of large strongyles (*Strongylus edentatus*, *S. equinus*, *S. vulgaris*), small strongyles, pinworms (*Oxyuris equi*), and ascarids (*Parascaris equorum*): 2.3 mg per pound (/lb) of body weight, or for foals and weanlings (less than 18 months of age), 4.6 mg/lb of body weight. Retreatment at intervals of 6 to 8 weeks may be required.
+(e) *Conditions of use* - (1) *Horses* - (i) *Indications for use and amounts.* (A) For control of large strongyles (*Strongylus edentatus*, *S. equinus*, *S. vulgaris*), small strongyles, pinworms (*Oxyuris equi*), and ascarids (*Parascaris equorum*): 2.3 mg per pound (/lb) of body weight, or for foals and weanlings (less than 18 months of age), 4.6 mg/lb of body weight. Retreatment at intervals of 6 to 8 weeks may be required.
 
 (B) For control of arteritis caused by the fourth-stage larvae of S. vulgaris: 4.6 mg/lb of body weight daily for 5 days. Treatment should be initiated in the spring and repeated in 6 months.
 

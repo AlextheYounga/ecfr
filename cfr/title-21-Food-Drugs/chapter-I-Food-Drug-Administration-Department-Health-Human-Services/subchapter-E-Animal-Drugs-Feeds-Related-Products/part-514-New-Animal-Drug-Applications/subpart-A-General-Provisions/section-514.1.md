@@ -144,11 +144,11 @@
 
 (vii) Explain any omission of reports from any investigator to whom the investigational new animal drug has been made available. The unexplained omission of any reports of investigations made with the new animal drug by the applicant or submitted to him by an investigator or the unexplained omission of any pertinent reports of investigations or clinical experience received or otherwise obtained by the applicant from published literature or other sources that would bias an evaluation of the safety of the new animal drug or its effectiveness in use, constitutes grounds for the refusal or withdrawal of the approval of an application.
 
-(viii) If a sponsor has transferred any obligations for the conduct of any clinical study to a contract research organization, the application is required to include a statement containing the name and address of the contract research organization, identifying the clinical study, and listing the obligations transferred. If all obligations governing the conduct of the study have been transferred, a general statement of this transfer - in lieu of a listing of the specific obligations transferred - may be submitted.
+(viii) If a sponsor has transferred any obligations for the conduct of any clinical study to a contract research organization, the application is required to include a statement containing the name and address of the contract research organization, identifying the clinical study, and listing the obligations transferred. If all obligations governing the conduct of the study have been transferred, a general statement of this transfer—in lieu of a listing of the specific obligations transferred—may be submitted.
 
 (ix) If original subject records were audited or reviewed by the sponsor in the course of monitoring any clinical study to verify the accuracy of the case reports submitted to the sponsor, a list identifying each clinical study so audited or reviewed.
 
-(9) *Veterinary feed directive.* Three copies of a veterinary feed directive (VFD) must be submitted in a form that accounts for the information described under §§ 558.6(b)(3) and 558.6(b)(4) of this chapter.
+(9) *Veterinary feed directive.* Three copies of a veterinary feed directive (VFD) must be submitted in a form that accounts for the information described under § 558.6(b)(3) and 558.6(b)(4) of this chapter.
 
 (10) *Supplemental applications.* If it is a supplemental application, full information shall be submitted on each proposed change concerning any statement made in the approved application.
 

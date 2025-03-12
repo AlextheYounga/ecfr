@@ -14,7 +14,7 @@
 
 (d) *Conditions of use.* It is used as follows:
 
-(1) *Horses* - (i) [Reserved]
+(1) *Horses.* (i) [Reserved]
 
 (ii) *Route of administration.* In feed.
 
@@ -30,7 +30,7 @@
 
 (*2*) *Limitations.* Administer in a single dosage mixed with the normal grain ration given at one feeding. Warning: Not for use in horses intended for food.
 
-(2) *Cattle* - (i) *Route of administration.* In feed block.
+(2) *Cattle*—(i) *Route of administration.* In feed block.
 
 (ii) *Amount.* 3.3 percent block consumed at the recommended level of 0.11 pound per 100 pounds of body weight per day.
 

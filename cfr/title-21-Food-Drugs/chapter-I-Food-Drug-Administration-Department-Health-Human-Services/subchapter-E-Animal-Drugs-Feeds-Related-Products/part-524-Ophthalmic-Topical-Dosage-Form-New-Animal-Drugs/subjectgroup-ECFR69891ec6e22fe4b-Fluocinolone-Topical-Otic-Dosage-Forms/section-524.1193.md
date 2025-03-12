@@ -14,7 +14,7 @@
 
 (e) *Conditions of use in cattle* - (1) *Amount.* One mL per 22 pounds (0.5 milligram per kilogram) of body weight applied topically to the back of the animal.
 
-(2) *Indications for use* - (i) It is used for the treatment and control of: Gastrointestinal roundworms (adults and fourth-stage larvae) *Ostertagia ostertagi* (including inhibited stage), *Haemonchus placei*, *Trichostrongylus axei*, *T. colubriformis*, *Cooperia oncophora*, *C. punctata*, *C. surnabada*, *Oesophagostomum radiatum*; (adults) *Strongyloides papillosus*, *Trichuris* spp.; lungworms (adults and fourth-stage larvae) *Dictyocaulus viviparus*; cattle grubs (parasitic stages) *Hypoderma bovis*, *H. lineatum*; mites *Sarcoptes scabiei* var. *bovis*; lice *Linognathus vituli*, *Haematopinus eurysternus*, *Damalinia bovis*, *Solenoptes capillatus*; and horn flies *Haematobia irritans.*
+(2) *Indications for use.* (i) It is used for the treatment and control of: Gastrointestinal roundworms (adults and fourth-stage larvae) *Ostertagia ostertagi* (including inhibited stage), *Haemonchus placei*, *Trichostrongylus axei*, *T. colubriformis*, *Cooperia oncophora*, *C. punctata*, *C. surnabada*, *Oesophagostomum radiatum*; (adults) *Strongyloides papillosus*, *Trichuris* spp.; lungworms (adults and fourth-stage larvae) *Dictyocaulus viviparus*; cattle grubs (parasitic stages) *Hypoderma bovis*, *H. lineatum*; mites *Sarcoptes scabiei* var. *bovis*; lice *Linognathus vituli*, *Haematopinus eurysternus*, *Damalinia bovis*, *Solenoptes capillatus*; and horn flies *Haematobia irritans.*
 
 (ii) It controls infections and prevents reinfection with *O. ostertagi*, *O. radiatum*, *H. placei*, *T. axei*, *C. punctata*, and *C. oncophora* for 14 days after treatment.
 

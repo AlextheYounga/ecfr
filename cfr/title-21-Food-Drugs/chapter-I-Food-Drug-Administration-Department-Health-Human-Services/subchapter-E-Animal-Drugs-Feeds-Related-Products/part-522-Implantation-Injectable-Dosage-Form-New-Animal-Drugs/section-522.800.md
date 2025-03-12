@@ -4,9 +4,7 @@
 
 (b) *Sponsor.* See No. 000061 in § 510.600(c) of this chapter.
 
-(c) *Conditions of use* - (1) *Amount.*
-
-(i) For analgesia and tranquilization, administer as follows:
+(c) *Conditions of use*—(1) *Amount.* (i) For analgesia and tranquilization, administer as follows:
 
 (A) 1 milliliter (mL) per 15 to 20 pounds (lbs) of body weight by intramuscular injection in conjunction with atropine sulfate administered at the rate of 0.02 mg per pound of body weight; or
 

@@ -18,9 +18,7 @@
 
 (2) The expiration date of VFDs for chlortetracycline and sulfamethazine medicated feeds must not exceed 6 months from the date of issuance. VFDs for chlortetracycline and sulfamethazine shall not be refilled.
 
-(e) *Conditions of use* -
-
-(1) *Cattle* -
+(e) *Conditions of use* - (1) *Cattle* -
 
 |                       Chlortetracycline and sulfamethazine amount                       |                                                 Indications for use                                                 |                                                                                        Limitations                                                                                        |     Sponsors      |
 |-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
