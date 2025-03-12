@@ -1,0 +1,3 @@
+##### § 13.1316 Commercial transport of passengers by motor vehicles. #####
+
+Commercial transport of passengers by motor vehicles on Exit Glacier Road is allowed without a written permit. However, if required to protect public health and safety or park resources, or to provide for the equitable use of park facilities, the Superintendent may establish a permit requirement with appropriate terms and conditions for the transport of passengers. Failure to comply with permit terms and conditions is prohibited.

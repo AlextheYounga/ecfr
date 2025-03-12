@@ -1,0 +1,3 @@
+##### § 13.1140 Who determines eligibility? #####
+
+The superintendent will make a written determination of an applicant's eligibility for the lifetime access permit based on information provided. A copy of the determination will be mailed to the applicant. If additional information is required to make an eligibility determination, the applicant will be notified in writing of that need and be given an opportunity to provide it.

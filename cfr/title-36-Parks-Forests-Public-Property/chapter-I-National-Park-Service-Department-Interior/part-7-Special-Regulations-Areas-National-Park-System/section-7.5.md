@@ -1,28 +1,12 @@
 ##### § 7.5 Mount Rainier National Park. #####
 
-Link to an amendment published at 88 FR 3664, Jan. 20, 2023.
+(a) *Fishing.* (1) Fishing closures and restrictions are established by the Superintendent based on management objectives for the preservation of the park's natural resources.
 
-(a) *Fishing.* (1) The following waters are closed to fishing:
+(2) The Superintendent may establish closures and restrictions, in accordance with the criteria and procedures of § 1.5 of this chapter, on any activity pertaining to fishing, including, but not limited to species of fish that may be taken, seasons and hours during which fishing may take place, methods of taking, and size, creel, and possession limits.
 
-(i) Tipsoo Lake.
+(3) Except in emergency situations, the Superintendent will notify the public of any such closures or restrictions through one or more methods listed in § 1.7 of this chapter, including publication in the Superintendent's Compendium (or written compilation) of discretionary actions referred to § 1.7(b).
 
-(ii) Shadow Lake.
-
-(iii) Klickitat Creek above the White River Entrance water supply intake.
-
-(iv) Laughing Water Creek above the Ohanapecosh water supply intake.
-
-(v) Frozen Lake.
-
-(vi) Reflection Lakes.
-
-(vii) Ipsut Creek above the Ipsut Creek Campground water supply intake.
-
-(2) Except for artificial fly fishing, the Ohanapecosh River and its tributaries are closed to all fishing.
-
-(3) There shall be no minimum size limit on fish that may be possessed.
-
-(4) The daily catch and possession limit for fish taken from park waters shall be six pounds and one fish, not to exceed 12 fish.
+(4) Fishing in closed waters or violating a condition or restriction established by the Superintendent under this paragraph (a) is prohibited.
 
 (b) *Climbing and hiking.* (1) Registration with the Superintendent is required prior to and upon return from any climbing or hiking on glaciers or above the normal high camps such as Camp Muir and Camp Schurman.
 
@@ -30,7 +14,7 @@ Link to an amendment published at 88 FR 3664, Jan. 20, 2023.
 
 (3) A party traveling above the high camps must consist of a minimum of two persons unless prior permission for a solo climb has been obtained from the Superintendent. The Superintendent will consider the following points when reviewing a request for a solo climb: The weather prediction for the estimated duration of the climb, and the likelihood of new snowfall, sleet, fog , or hail along the route, the feasibility of climbing the chosen route because of normal inherent hazards, current route conditions, adequacy of equipment and clothing, and qualifying experience necessary for the route contemplated.
 
-(c) *Backcountry Camping* - (1) *Backcountry camping permits required.* No person or group of persons traveling together may camp in the backcountry without a valid backcountry camping permit. Permits may be issued to each permittee or to the leader of the group for a group of persons. The permit must be attached to the pack or camping equipment of each permittee in a clearly visible location. No person may camp in any location other than that designated in the permit for a given date.
+(c) *Backcountry Camping*—(1) *Backcountry camping permits required.* No person or group of persons traveling together may camp in the backcountry without a valid backcountry camping permit. Permits may be issued to each permittee or to the leader of the group for a group of persons. The permit must be attached to the pack or camping equipment of each permittee in a clearly visible location. No person may camp in any location other than that designated in the permit for a given date.
 
 (2) *Group size limitations.* Groups exceeding five persons must camp at a group site, but groups may not exceed twelve persons. The Superintendent may, however,
 
@@ -38,7 +22,7 @@ Link to an amendment published at 88 FR 3664, Jan. 20, 2023.
 
 (ii) Establish special zones and group size limitations during the winter season to balance the impact of cross-country skiers, snowshoers, and snowmobilers on the resource.
 
-(d) *Snowmobile use* - (1) *Designated routes.* (i) That portion of the West Side Road south of Round Pass.
+(d) *Snowmobile use*—(1) *Designated routes.* (i) That portion of the West Side Road south of Round Pass.
 
 (ii) The Mather Memorial Parkway (State Route 410) from its intersection with the White River Road north to the park boundary.
 
@@ -48,4 +32,4 @@ Link to an amendment published at 88 FR 3664, Jan. 20, 2023.
 
 (v) The Stevens Canyon Road from Stevens Canyon Entrance to the Stevens Canyon Road tunnel at Box Canyon.
 
-[34 FR 17520, Oct. 30, 1969, as amended at 40 FR 31938, July 30, 1975; 41 FR 14863, Apr. 8, 1976; 41 FR 33264, Aug. 9, 1976; 42 FR 22557, May 4, 1977; 48 FR 30293, June 30, 1983]
+[34 FR 17520, Oct. 30, 1969, as amended at 40 FR 31938, July 30, 1975; 41 FR 14863, Apr. 8, 1976; 41 FR 33264, Aug. 9, 1976; 42 FR 22557, May 4, 1977; 48 FR 30293, June 30, 1983; 88 FR 3664, Jan. 20, 2023]

@@ -1,5 +1,7 @@
 ##### § 2.36 Annual report. #####
 
+Link to an amendment published at 88 FR 10713, Feb. 21, 2023.
+
 (a) The reporting facility shall be that segment of the research facility, or that department, agency, or instrumentality of the United States that uses or intends to use live animals in research, tests, experiments, or for teaching. Each reporting facility shall submit an annual report to the Deputy Administrator on or before December 1 of each calendar year. The report shall cover the previous Federal fiscal year. The Annual Report of Research Facility (APHIS Form 7023), Continuation Sheet for Annual Report of Research Facility (APHIS Form 7023A), and Annual Report of Research Facility Column E Explanation (APHIS Form 7023B) are forms which may be used to submit the information required by paragraph (b) of this section.
 
 (b) The annual report shall:

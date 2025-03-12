@@ -1,0 +1,3 @@
+##### § 293.8 Permanent structures and commercial services. #####
+
+Motels, summer homes, stores, resorts, organization camps, hunting and fishing lodges, electronic installations, and similar structures and uses are prohibited in National Forest Wilderness. The Chief, Forest Service, may permit temporary structures and commercial services within National Forest Wilderness to the extent necessary for realizing the recreational or other wilderness purposes, which may include, but are not limited to, the public services generally offered by packers, outfitters, and guides.

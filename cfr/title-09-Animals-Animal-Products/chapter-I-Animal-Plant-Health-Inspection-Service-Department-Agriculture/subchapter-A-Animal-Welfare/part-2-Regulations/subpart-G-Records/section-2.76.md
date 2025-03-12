@@ -1,5 +1,7 @@
 ##### § 2.76 Records: Operators of auction sales and brokers. #####
 
+Link to an amendment published at 88 FR 10714, Feb. 21, 2023.
+
 (a) Every operator of an auction sale or broker shall make, keep, and maintain records or forms which fully and correctly disclose the following information concerning each animal consigned for auction or sold, whether or not a fee or commission is charged:
 
 (1) The name and address of the person who owned or consigned the animal(s) for sale;

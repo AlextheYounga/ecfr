@@ -1,5 +1,7 @@
 ##### § 2.5 Duration of license and termination of license. #####
 
+Link to an amendment published at 88 FR 10713, Feb. 21, 2023.
+
 (a) A license issued under this part shall be valid and effective for 3 years unless:
 
 (1) The license has been revoked or suspended pursuant to section 19 of the Act or terminated pursuant to § 2.12.

@@ -1,0 +1,7 @@
+##### § 292.42 Management standards and guidelines. #####
+
+(a) In addition to existing statutory and regulatory authority governing administration of National Forest System lands and resources, the standards and guidelines in §§ 292.43 to 292.48 of this subpart prescribe the scope and extent of certain activities that may occur in the HCNRA. These standards and guidelines are consistent with the overall objective of administering the HCNRA to preserve its natural beauty, historical and archaeological values and enhance its recreational and ecological values and the public's enjoyment. The standards and guidelines may vary depending on whether the land where the proposed activity is contemplated is within the Wilderness Lands, Wild and Scenic Rivers, or the Other Lands.
+
+(b) The standards and guidelines of this subpart govern the previous programmatic direction in the Comprehensive Management Plan that has been incorporated into the Wallowa-Whitman National Forest Land and Resource Management Plan. Site specific environmental analysis may be required even in those situations where a use or activity is permissible under the standards and guidelines set forth in this subpart.
+
+(c) The standards and guidelines of this subpart may be enforced by the authorized officer pursuant to 36 CFR part 261.

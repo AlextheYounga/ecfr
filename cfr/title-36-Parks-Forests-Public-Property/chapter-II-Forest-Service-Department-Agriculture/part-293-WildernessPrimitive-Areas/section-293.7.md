@@ -1,0 +1,5 @@
+##### § 293.7 Grazing of livestock. #####
+
+(a) The grazing of livestock, where such use was established before the date of legislation which includes an area in the National Wilderness Preservation System, shall be permitted to continue under the general regulations covering grazing of livestock on the National Forests and in accordance with special provisions covering grazing use in units of National Forest Wilderness which the Chief of the Forest Service may prescribe for general application in such units or may arrange to have prescribed for individual units.
+
+(b) The Chief, Forest Service, may permit, subject to such conditions as he deems necessary, the maintenance, reconstruction, or relocation of those livestock management improvements and structures which existed within a Wilderness when it was incorporated into the National Wilderness Preservation System. Additional improvements or structures may be built when necessary to protect wilderness value.

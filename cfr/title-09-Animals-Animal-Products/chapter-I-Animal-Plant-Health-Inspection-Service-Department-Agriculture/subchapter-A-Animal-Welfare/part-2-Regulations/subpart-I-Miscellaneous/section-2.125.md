@@ -1,3 +1,5 @@
 ##### § 2.125 Information as to business; furnishing of same by dealers, exhibitors, operators of auction sales, intermediate handlers, and carriers. #####
 
+Link to an amendment published at 88 FR 10714, Feb. 21, 2023.
+
 Each dealer, exhibitor, operator of an auction sale, intermediate handler, and carrier shall furnish to any APHIS official any information concerning the business of the dealer, exhibitor, operator of an auction sale, intermediate handler or carrier which the APHIS official may request in connection with the enforcement of the provisions of the Act, the regulations and the standards in this subchapter. The information shall be furnished within a reasonable time and as may be specified in the request for information.

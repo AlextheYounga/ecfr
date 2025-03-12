@@ -1,0 +1,3 @@
+##### § 293.4 Maintenance of records. #####
+
+The Chief, Forest Service, in accordance with section 3(a)(2) of the Wilderness Act, shall establish uniform procedures and standards for the maintenance and availability to the public of records pertaining to National Forest Wilderness, including maps and legal descriptions; copies of regulations governing Wilderness; and copies of public notices and reports submitted to Congress regarding pending additions, eliminations, or modifications. Copies of such information pertaining to National Forest Wilderness within their respective jurisdictions shall be available to the public in the appropriate offices of the Regional Foresters, Forest Supervisors, and Forest Rangers.

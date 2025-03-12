@@ -1,0 +1,3 @@
+##### § 13.1144 How often will commercial fishing lifetime access permit be renewed? #####
+
+The superintendent will renew lifetime access permit at 5-year intervals for the lifetime of a permittee who continues to hold a valid State limited entry commercial fishing permit, and for halibut an International Pacific Halibut Commission quota share, and is otherwise eligible to participate in the fishery under Federal and State law.

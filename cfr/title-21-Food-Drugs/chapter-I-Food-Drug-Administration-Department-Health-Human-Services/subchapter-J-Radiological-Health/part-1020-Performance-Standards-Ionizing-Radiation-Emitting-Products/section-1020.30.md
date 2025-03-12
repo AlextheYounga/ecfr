@@ -1,7 +1,5 @@
 ##### § 1020.30 Diagnostic x-ray systems and their major components. #####
 
-Link to an amendment published at 88 FR 3654, Jan. 20, 2023.
-
 (a) *Applicability.* (1) The provisions of this section are applicable to:
 
 (i) The following components of diagnostic x-ray systems:
@@ -278,13 +276,13 @@ Percent line-voltage regulation = 100(Vn − Vi)/Viwhere:Vn = No-load line poten
 
 (d) *Assemblers' responsibility.* An assembler who installs one or more components certified as required by paragraph (c) of this section shall install certified components that are of the type required by § 1020.31, § 1020.32, or § 1020.33 and shall assemble, install, adjust, and test the certified components according to the instructions of their respective manufacturers. Assemblers shall not be liable for noncompliance of a certified component if the assembly of that component was according to the component manufacturer's instruction.
 
-(1) *Reports of assembly.* All assemblers who install certified components shall file a report of assembly, except as specified in paragraph (d)(2) of this section. The report will be construed as the assembler's certification and identification under §§ 1010.2 and 1010.3 of this chapter. The assembler shall affirm in the report that the manufacturer's instructions were followed in the assembly or that the certified components as assembled into the system meet all applicable requirements of §§ 1020.30 through 1020.33. All assembler reports must be on a form prescribed by the Director, CDRH. Completed reports must be submitted to the Director, the purchaser, and, where applicable, to the State agency responsible for radiation protection within 15 days following completion of the assembly.
+(1) *Reports of assembly.* All assemblers who install certified components shall file a report of assembly, except as specified in paragraph (d)(2) of this section. The report will be construed as the assembler's certification and identification under §§ 1010.2 and 1010.3 of this chapter. The assembler shall affirm in the report that the manufacturer's instructions were followed in the assembly or that the certified components as assembled into the system meet all applicable requirements of §§ 1020.30 through 1020.33. All assembler reports must be on a form (Form FDA 2579 made available at *https://www.fda.gov/about-fda/reports-manuals-forms/forms*) prescribed by the Director, Center for Devices and Radiological Health. Completed reports must be submitted to the purchaser and, where applicable, to the State agency responsible for radiation protection within 15 days following completion of the assembly.
 
 (2) *Exceptions to reporting requirements.* Reports of assembly need not be submitted for any of the following:
 
 (i) Reloaded or replacement tube housing assemblies that are reinstalled in or newly assembled into an existing x-ray system;
 
-(ii) Certified accessory components that have been identified as such to CDRH in the report required under § 1002.10 of this chapter;
+(ii) Certified accessory components;
 
 (iii) Repaired components, whether or not removed from the system and reinstalled during the course of repair, provided the original installation into the system was reported; or
 
@@ -380,30 +378,30 @@ Temporarily Installed ComponentThis certified component has been assembled, inst
 
 (l) *Radiation from components other than the diagnostic source assembly.* The radiation emitted by a component other than the diagnostic source assembly shall not exceed an air kerma of 18 microGy (vice 2 mR exposure) in 1 hour at 5 cm from any accessible surface of the component when it is operated in an assembled x-ray system under any conditions for which it was designed. Compliance shall be determined by measurements averaged over an area of 100 square cm with no linear dimension greater than 20 cm.
 
-(m) *Beam quality* - (1) *Half-value layer (HVL).* The HVL of the useful beam for a given x-ray tube potential shall not be less than the appropriate value shown in table 1 in paragraph (m)(1) of this section under the heading “Specified Dental Systems,” for any dental x-ray system designed for use with intraoral image receptors and manufactured after December 1, 1980; under the heading “I - Other X-Ray Systems,” for any dental x-ray system designed for use with intraoral image receptors and manufactured before December 1, 1980, and all other x-ray systems subject to this section and manufactured before June 10, 2006; and under the heading “II - Other X-Ray Systems,” for all x-ray systems, except dental x-ray systems designed for use with intraoral image receptors, subject to this section and manufactured on or after June 10, 2006. If it is necessary to determine such HVL at an x-ray tube potential which is not listed in table 1 in paragraph (m)(1) of this section, linear interpolation or extrapolation may be made. Positive means2 shall be provided to ensure that at least the minimum filtration needed to achieve the above beam quality requirements is in the useful beam during each exposure. Table 1 follows:
+(m) *Beam quality*—(1) *Half-value layer (HVL).* The HVL of the useful beam for a given x-ray tube potential shall not be less than the appropriate value shown in table 1 in paragraph (m)(1) of this section under the heading “Specified Dental Systems,” for any dental x-ray system designed for use with intraoral image receptors and manufactured after December 1, 1980; under the heading “I—Other X-Ray Systems,” for any dental x-ray system designed for use with intraoral image receptors and manufactured before December 1, 1980, and all other x-ray systems subject to this section and manufactured before June 10, 2006; and under the heading “II—Other X-Ray Systems,” for all x-ray systems, except dental x-ray systems designed for use with intraoral image receptors, subject to this section and manufactured on or after June 10, 2006. If it is necessary to determine such HVL at an x-ray tube potential which is not listed in table 1 in paragraph (m)(1) of this section, linear interpolation or extrapolation may be made. Positive means2 shall be provided to ensure that at least the minimum filtration needed to achieve the above beam quality requirements is in the useful beam during each exposure. Table 1 follows:
 
 2 In the case of a system, which is to be operated with more than one thickness of filtration, this requirement can be met by a filter interlocked with the kilovoltage selector which will prevent x-ray emissions if the minimum required filtration is not in place.
 
 Table 1
 
-|X-Ray Tube Voltage  <br/>(kilovolt peak)|Minimum HVL  <br/>(mm of aluminum)|                                    |                                   |                                    |
-|----------------------------------------|----------------------------------|------------------------------------|-----------------------------------|------------------------------------|
-|        Designed Operating Range        |   Measured Operating Potential   |Specified Dental Systems<sup>1</sup>|I - Other X-Ray Systems<sup>2</sup>|II - Other X-Ray Systems<sup>3</sup>|
-|                Below 51                |                30                |                1.5                 |                0.3                |                0.3                 |
-|                                        |                40                |                1.5                 |                0.4                |                0.4                 |
-|                                        |                50                |                1.5                 |                0.5                |                0.5                 |
-|                51 to 70                |                51                |                1.5                 |                1.2                |                1.3                 |
-|                                        |                60                |                1.5                 |                1.3                |                1.5                 |
-|                                        |                70                |                1.5                 |                1.5                |                1.8                 |
-|                Above 70                |                71                |                2.1                 |                2.1                |                2.5                 |
-|                                        |                80                |                2.3                 |                2.3                |                2.9                 |
-|                                        |                90                |                2.5                 |                2.5                |                3.2                 |
-|                                        |               100                |                2.7                 |                2.7                |                3.6                 |
-|                                        |               110                |                3.0                 |                3.0                |                3.9                 |
-|                                        |               120                |                3.2                 |                3.2                |                4.3                 |
-|                                        |               130                |                3.5                 |                3.5                |                4.7                 |
-|                                        |               140                |                3.8                 |                3.8                |                5.0                 |
-|                                        |               150                |                4.1                 |                4.1                |                5.4                 |
+|X-Ray Tube Voltage  <br/>(kilovolt peak)|Minimum HVL  <br/>(mm of aluminum)|                                    |                                 |                                  |
+|----------------------------------------|----------------------------------|------------------------------------|---------------------------------|----------------------------------|
+|        Designed Operating Range        |   Measured Operating Potential   |Specified Dental Systems<sup>1</sup>|I—Other X-Ray Systems<sup>2</sup>|II—Other X-Ray Systems<sup>3</sup>|
+|                Below 51                |                30                |                1.5                 |               0.3               |               0.3                |
+|                                        |                40                |                1.5                 |               0.4               |               0.4                |
+|                                        |                50                |                1.5                 |               0.5               |               0.5                |
+|                51 to 70                |                51                |                1.5                 |               1.2               |               1.3                |
+|                                        |                60                |                1.5                 |               1.3               |               1.5                |
+|                                        |                70                |                1.5                 |               1.5               |               1.8                |
+|                Above 70                |                71                |                2.1                 |               2.1               |               2.5                |
+|                                        |                80                |                2.3                 |               2.3               |               2.9                |
+|                                        |                90                |                2.5                 |               2.5               |               3.2                |
+|                                        |               100                |                2.7                 |               2.7               |               3.6                |
+|                                        |               110                |                3.0                 |               3.0               |               3.9                |
+|                                        |               120                |                3.2                 |               3.2               |               4.3                |
+|                                        |               130                |                3.5                 |               3.5               |               4.7                |
+|                                        |               140                |                3.8                 |               3.8               |               5.0                |
+|                                        |               150                |                4.1                 |               4.1               |               5.4                |
 
 <sup>1</sup> Dental x-ray systems designed for use with intraoral image receptors and manufactured after December 1, 1980.
 
@@ -439,4 +437,4 @@ Table 2
 
 (2) The owner of a diagnostic x-ray system who uses the system in a professional or commercial capacity may modify the system, provided the modification does not result in the failure of the system or component to comply with the applicable requirements of this section or of § 1020.31, 1020.32, or 1020.33. The owner who causes such modification need not submit the reports required by subpart B of part 1002 of this chapter, provided the owner records the date and the details of the modification in the system records and maintains this information, and provided the modification of the x-ray system does not result in a failure to comply with § 1020.31, 1020.32, or 1020.33.
 
-[71 FR 34028, June 10, 2006, as amended at 72 FR 17401, Apr. 9, 2007; 83 FR 13864, Apr. 2, 2018]
+[71 FR 34028, June 10, 2006, as amended at 72 FR 17401, Apr. 9, 2007; 83 FR 13864, Apr. 2, 2018; 88 FR 3654, Jan. 20, 202]

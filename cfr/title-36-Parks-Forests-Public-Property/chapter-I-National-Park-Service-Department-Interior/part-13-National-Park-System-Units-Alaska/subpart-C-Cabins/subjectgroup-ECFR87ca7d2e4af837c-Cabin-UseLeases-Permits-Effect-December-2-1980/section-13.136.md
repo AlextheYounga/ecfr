@@ -1,0 +1,3 @@
+##### § 13.136 Use and/or occupancy pursuant to a valid existing lease or permit. #####
+
+A person who holds a valid lease or permit in effect on December 2, 1980, for a cabin, homesite or similar structure not subject to the provisions of §§ 13.146-13.149 of this subpart, on Federal lands in a park area, may continue the use authorized by that lease or permit, subject to the conditions in §§ 13.138-13.142.

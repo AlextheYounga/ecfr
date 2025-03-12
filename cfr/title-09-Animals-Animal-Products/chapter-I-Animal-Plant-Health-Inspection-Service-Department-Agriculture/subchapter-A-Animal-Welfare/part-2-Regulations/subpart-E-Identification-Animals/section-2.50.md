@@ -1,5 +1,7 @@
 ##### § 2.50 Time and method of identification. #####
 
+Link to an amendment published at 88 FR 10714, Feb. 21, 2023.
+
 (a) A class “A” dealer (breeder) shall identify all live dogs and cats on the premises as follows:
 
 (1) All live dogs and cats held on the premises, purchased, or otherwise acquired, sold or otherwise disposed of, or removed from the premises for delivery to a research facility or exhibitor or to another dealer, or for sale, through an auction sale or to any person for use as a pet, shall be identified by an official tag of the type described in § 2.51 affixed to the animal's neck by means of a collar made of material generally considered acceptable to pet owners as a means of identifying their pet dogs or cats2, or shall be identified by a distinctive and legible tattoo marking acceptable to and approved by the Administrator.

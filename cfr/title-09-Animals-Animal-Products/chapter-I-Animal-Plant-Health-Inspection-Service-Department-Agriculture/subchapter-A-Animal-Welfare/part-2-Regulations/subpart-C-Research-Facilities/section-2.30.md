@@ -1,5 +1,7 @@
 ##### § 2.30 Registration. #####
 
+Link to an amendment published at 88 FR 10713, Feb. 21, 2023.
+
 (a) *Requirements and procedures.* (1) Each research facility, other than a Federal research facility, shall register with the Secretary by completing and filing a properly executed form which will be furnished, upon request, by the Deputy Administrator. The registration form shall be filed with the Deputy Administrator. Except as provided in paragraph (a)(2) of this section, where a school or department of a university or college uses or intends to use live animals for research, tests, experiments, or teaching, the university or college rather than the school or department will be considered the research facility and will be required to register with the Secretary. An official who has the legal authority to bind the parent organization shall sign the registration form.
 
 (2) In any situation in which a school or department of a university or college demonstrates to the Secretary that it is a separate legal entity and its operations and administration are independent of those of the university or college, the school or department will be registered rather than the university or college.

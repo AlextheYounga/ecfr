@@ -1,0 +1,3 @@
+##### § 13.932 How many permits will be issued each summer? #####
+
+The superintendent is authorized, under this subpart, to issue no more than 10,512 motor vehicle permits each year for access to the restricted section of the road. The superintendent will issue the permits for the period that begins on the Saturday of Memorial Day weekend and continues through the second Thursday following Labor Day or September 15, whichever comes first. Each permit allows one vehicle one entry onto the restricted portion of the Park road.

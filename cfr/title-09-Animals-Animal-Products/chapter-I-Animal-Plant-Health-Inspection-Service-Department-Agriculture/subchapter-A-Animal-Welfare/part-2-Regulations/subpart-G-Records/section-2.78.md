@@ -1,5 +1,7 @@
 ##### § 2.78 Health certification and identification. #####
 
+Link to an amendment published at 88 FR 10714, Feb. 21, 2023.
+
 (a) No dealer, exhibitor, operator of an auction sale, broker, or department, agency, or instrumentality of the United States or of any State or local government shall deliver to any intermediate handler or carrier for transportation, in commerce, or shall transport in commerce any dog, cat, or nonhuman primate unless the dog, cat, or nonhuman primate is accompanied by a health certificate executed and issued by a licensed veterinarian. The health certificate shall state that:
 
 (1) The licensed veterinarian inspected the dog, cat, or nonhuman primate on a specified date which shall not be more than 10 days prior to the delivery of the dog, cat, or nonhuman primate for transportation; and

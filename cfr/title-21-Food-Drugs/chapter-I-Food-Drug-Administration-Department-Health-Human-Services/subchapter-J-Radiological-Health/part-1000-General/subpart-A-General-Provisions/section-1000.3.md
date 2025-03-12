@@ -1,10 +1,8 @@
 ##### § 1000.3 Definitions. #####
 
-Link to an amendment published at 88 FR 3652, Jan. 20, 2023.
-
 As used in this subchapter J:
 
-(a) *Accidental radiation occurrence* means a single event or series of events that has/have resulted in injurious or potentially injurious exposure of any person to electronic product radiation as a result of the manufacturing, testing, or use of an electronic product.
+(a) *Accidental radiation occurrence* means a single accidental event or series of accidental events that has/have resulted in injurious or potentially injurious exposure of any person to electronic product radiation as a result of the manufacturing, testing, or use of an electronic product.
 
 (b) *Act* means the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360hh-360ss).
 
@@ -70,10 +68,8 @@ As used in this subchapter J:
 
 (2) Uncharged particles, such as neutrons, which can initiate a nuclear transformation or liberate charged particles having sufficient kinetic energy to produce ionization or atomic or electron excitation.
 
-(s) *Phototherapy product* means any ultraviolet lamp, or product containing such lamp, that is intended for irradiation of any part of the living human body by light in the wavelength range of 200 to 400 nanometers, in order to perform a therapeutic function.
+(s) *Purchaser* means the first person who, for value, or as an award or prize, acquires an electronic product for purposes other than resale, and includes a person who leases an electronic product for purposes other than subleasing.
 
-(t) *Purchaser* means the first person who, for value, or as an award or prize, acquires an electronic product for purposes other than resale, and includes a person who leases an electronic product for purposes other than subleasing.
+(t) *State* means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
 
-(u) *State* means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
-
-[60 FR 48380, Sept. 19, 1995; 61 FR 13422, Mar. 27, 1996]
+[60 FR 48380, Sept. 19, 1995; 61 FR 13422, Mar. 27, 1996, as amended at 88 FR 3652, Jan. 20, 2023]

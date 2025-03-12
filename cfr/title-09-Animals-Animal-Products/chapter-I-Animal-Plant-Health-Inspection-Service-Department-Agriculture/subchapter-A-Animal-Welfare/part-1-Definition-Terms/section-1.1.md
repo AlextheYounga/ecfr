@@ -1,5 +1,7 @@
 ##### § 1.1 Definitions. #####
 
+Link to an amendment published at 88 FR 10712, Feb. 21, 2023.
+
 For the purposes of this subchapter, unless the context otherwise requires, the following terms shall have the meanings assigned to them in this section. The singular form shall also signify the plural and the masculine form shall also signify the feminine. Words undefined in the following paragraphs shall have the meaning attributed to them in general usage as reflected by definitions in a standard dictionary.
 
 *Act* means the Act of August 24, 1966 (Pub. L. 89-544), (commonly known as the Laboratory Animal Welfare Act), as amended by the Act of December 24, 1970 (Pub. L. 91-579), (the Animal Welfare Act of 1970), the Act of April 22, 1976 (Pub. L. 94-279), (the Animal Welfare Act of 1976), and the Act of December 23, 1985 (Pub. L. 99-198), (the Food Security Act of 1985), and as it may be subsequently amended.

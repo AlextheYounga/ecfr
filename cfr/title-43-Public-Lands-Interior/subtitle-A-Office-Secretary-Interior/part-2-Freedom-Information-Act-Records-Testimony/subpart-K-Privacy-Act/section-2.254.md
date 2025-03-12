@@ -18,7 +18,7 @@
 
 (1) INTERIOR/DOI-50, Insider Threat Program.
 
-(2) [Reserved]
+(2) INTERIOR/DOI-45, Personnel Security Program Files.
 
 (c) *Law enforcement records exempt under 5 U.S.C. 552a(k)(2).* Pursuant to 5 U.S.C. 552a(k)(2), the following systems of records are exempted from paragraphs (c)(3), (d), (e)(1), (e)(4)(G), (H), and (I), and (f) of 5 U.S.C. 552a and the provisions of the regulations in this subpart implementing these paragraphs:
 
@@ -58,11 +58,13 @@
 
 (19) INTERIOR/DOI-46, Physical Security Access Files.
 
+(20) INTERIOR/DOI-45, Personnel Security Program Files.
+
 (d) *Records maintained in connection with providing protective services exempt under 5 U.S.C. 552a(k)(3).* Pursuant to 5 U.S.C. 552a(k)(3), the following systems of records have been exempted from paragraphs (c)(3), (d), (e)(1), (e)(4)(G), (H), and (I) and (f) of 5 U.S.C. 552a and the provisions of the regulations in this subpart implementing these paragraphs:
 
 (1) INTERIOR/DOI-46, Physical Security Access Files.
 
-(2) [Reserved]
+(2) INTERIOR/DOI-45, Personnel Security Program Files.
 
 (e) *Investigatory records exempt under 5 U.S.C. 552a(k)(5).* Pursuant to 5 U.S.C. 552a(k)(5), the following systems of records have been exempted from paragraphs (c)(3), (d), (e)(1), (e)(4)(G), (H), and (I), and (f) of 5 U.S.C. 552a and the provisions of the regulations in this subpart implementing these paragraphs:
 
@@ -78,4 +80,12 @@
 
 (6) INTERIOR/DOI-50, Insider Threat Program.
 
-[86 FR 49928, Sept. 7, 2021, as amended at 87 FR 8428, Feb. 15, 2022]
+(7) INTERIOR/DOI-45, Personnel Security Program Files.
+
+(f) *Records maintained on testing and examination material exempt under 5 U.S.C. 552a(k)(6).* Pursuant to U.S.C. 552a(k)(6), the following systems of records have been exempted from 5 U.S.C. 552a(c)(3), (d), (e)(1), (e)(4)(G), (H) and (I), and (f) and the provisions of the regulations in this subpart implementing these paragraphs.
+
+(1) INTERIOR/DOI-45, Personnel Security Program Files.
+
+(2) [Reserved]
+
+[86 FR 49928, Sept. 7, 2021, as amended at 87 FR 8428, Feb. 15, 2022; 88 FR 10480, Feb. 21, 2023]

@@ -1,0 +1,3 @@
+##### § 13.144 Use and occupancy of a cabin prior to December 18, 1973. #####
+
+A cabin or other residential structure in existence and occupied by a claimant, both prior to December 18, 1973, with the claimant's occupancy continuing for a substantial portion of the time, may continue to be used and occupied by the claimant pursuant to a renewable, nontransferable five-year permit. Upon the request of the claimant or a successor who is an immediate family member and residing in the cabin or structure, the Superintendent shall renew this permit every five years until the death of the last immediate family member of the claimant who was residing with the claimant in the structure under permit at the time of issuance of the original permit.

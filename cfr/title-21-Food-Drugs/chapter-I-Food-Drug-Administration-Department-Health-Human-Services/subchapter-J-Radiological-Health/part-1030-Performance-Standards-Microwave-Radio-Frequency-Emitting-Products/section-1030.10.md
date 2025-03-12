@@ -1,10 +1,8 @@
 ##### § 1030.10 Microwave ovens. #####
 
-Link to an amendment published at 88 FR 3654, Jan. 20, 2023.
-
 (a) *Applicability.* The provisions of this standard are applicable to microwave ovens manufactured after October 6, 1971.
 
-(b) *Definitions* - (1) *Microwave oven* means a device designed to heat, cook, or dry food through the application of electromagnetic energy at frequencies assigned by the Federal Communications Commission in the normal ISM heating bands ranging from 890 megahertz to 6,000 megahertz. As defined in this standard, “microwave ovens” are limited to those manufactured for use in homes, restaurants, food vending, or service establishments, on interstate carriers, and in similar facilities.
+(b) *Definitions*—(1) *Microwave oven* means a device designed to heat, cook, or dry food through the application of electromagnetic energy at frequencies assigned by the Federal Communications Commission in the normal ISM heating bands ranging from 890 megahertz to 6,000 megahertz. As defined in this standard, “microwave ovens” are limited to those manufactured for use in homes, restaurants, food vending, or service establishments, on interstate carriers, and in similar facilities.
 
 (2) *Cavity* means that portion of the microwave oven in which food may be heated, cooked, or dried.
 
@@ -20,7 +18,7 @@ Link to an amendment published at 88 FR 3654, Jan. 20, 2023.
 
 (8) *Equivalent plane-wave power density* means the square of the root-mean-square (rms) electric field strength divided by the impedance of free space (377 ohms).
 
-(c) *Requirements* - (1) *Power density limit.* The equivalent plane-wave power density existing in the proximity of the external oven surface shall not exceed 1 milliwatt per square centimeter at any point 5 centimeters or more from the external surface of the oven, measured prior to acquisition by a purchaser, and, thereafter, 5 milliwatts per square centimeter at any such point.
+(c) *Requirements*—(1) *Power density limit.* The equivalent plane-wave power density existing in the proximity of the external oven surface shall not exceed 1 milliwatt per square centimeter at any point 5 centimeters or more from the external surface of the oven, measured prior to acquisition by a purchaser, and, thereafter, 5 milliwatts per square centimeter at any such point.
 
 (2) *Safety interlocks.* (i) Microwave ovens shall have a minimum of two operative safety interlocks. At least one operative safety interlock on a fully assembled microwave oven shall not be operable by any part of the human body, or any object with a straight insertable length of 10 centimeters. Such interlock must also be concealed, unless its actuation is prevented when access to the interlock is possible. Any visible actuator or device to prevent actuation of this safety interlock must not be removable without disassembly of the oven or its door. A magnetically operated interlock is considered to be concealed, or its actuation is considered to be prevented, only if a test magnet held in place on the oven by gravity or its own attraction cannot operate the safety interlock. The test magnet shall be capable of lifting vertically at zero air gap at least 4.5 kilograms, and at 1 centimeter air gap at least 450 grams when the face of the magnet, which is toward the interlock when the magnet is in the test position, is pulling against one of the large faces of a mild steel armature having dimensions of 80 millimeters by 50 millimeters by 8 millimeters.
 
@@ -104,7 +102,7 @@ Caution: This Device is to be Serviced Only by Properly Qualified Service Person
 
 (iii) The labels provided in accordance with paragraphs (c)(6)(i) and (ii) of this section shall bear only the statements specified in that paragraph, except for additional radiation safety warnings or instructions which may be necessary for particular oven designs or models, as determined by the Director, Center for Devices and Radiological Health or the manufacturer.
 
-(iv) Upon application by a manufacturer, the Director, Center for Devices and Radiological Health, Food and Drug Administration, may grant an exemption from one or more of the statements (radiation safety warnings) specified in paragraph (c)(6)(i) of this section. Such exemption shall be based upon a determination by the Director that the microwave oven model for which the exemption is sought should continue to comply with paragraphs (c) (1), (2), and (3) of this section under the adverse condition of use addressed by such precautionary statement(s). An original and two copies of applications shall be submitted to the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852. Copies of the written portion of the application, including supporting data and information, and the Director's action on the application will be maintained by the Branch for public review. The application shall include:
+(iv) Upon application by a manufacturer, the Director, Center for Devices and radiological Health, Food and Drug Administration, may grant an exemption from one or more of the statements (radiation safety warnings) specified in paragraph (c)(6)(i) of this section. Such exemption shall be based upon a determination by the Director that the microwave oven model for which the exemption is sought should continue to comply with paragraphs (c)(1) through (3) of this section under the adverse condition of use addressed by such precautionary statement(s). An application shall be submitted to the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852. Copies of the written portion of the application, including supporting data and information, and the Director's action on the application will be maintained by the Dockets Management Branch for public review. The application shall include:
 
 (*a*) The specific microwave oven model(s) for which the exemption is sought.
 
@@ -114,4 +112,4 @@ Caution: This Device is to be Serviced Only by Properly Qualified Service Person
 
 (*d*) Such other information and a sample of the applicable product if required by regulation or by the Director, Center for Devices and Radiological Health, to evaluate and act on the application.
 
-[38 FR 28640, Oct. 15, 1973, as amended at 40 FR 14752, Apr. 4, 1975; 40 FR 52007, Nov. 7, 1975; 46 FR 8461, Jan. 27, 1981; 48 FR 57482, Dec. 30, 1983; 50 FR 13566, Apr. 5, 1985; 53 FR 11254, Apr. 6, 1988; 59 FR 14365, Mar. 28, 1994]
+[38 FR 28640, Oct. 15, 1973, as amended at 40 FR 14752, Apr. 4, 1975; 40 FR 52007, Nov. 7, 1975; 46 FR 8461, Jan. 27, 1981; 48 FR 57482, Dec. 30, 1983; 50 FR 13566, Apr. 5, 1985; 53 FR 11254, Apr. 6, 1988; 59 FR 14365, Mar. 28, 1994; 88 FR 3654, Jan. 20, 202]

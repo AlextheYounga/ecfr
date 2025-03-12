@@ -1,0 +1,3 @@
+##### § 13.1120 Bartlett Cove Developed Area closures and restrictions. #####
+
+The Superintendent may prohibit or otherwise restrict activities in the Bartlett Cove Developed Area to protect public health, safety, or park resources, or to provide for the equitable and orderly use of park facilities. Information on closures and restrictions will be available at the park visitor information center. Violating Bartlett Cove Developed Area closures or restrictions is prohibited.
