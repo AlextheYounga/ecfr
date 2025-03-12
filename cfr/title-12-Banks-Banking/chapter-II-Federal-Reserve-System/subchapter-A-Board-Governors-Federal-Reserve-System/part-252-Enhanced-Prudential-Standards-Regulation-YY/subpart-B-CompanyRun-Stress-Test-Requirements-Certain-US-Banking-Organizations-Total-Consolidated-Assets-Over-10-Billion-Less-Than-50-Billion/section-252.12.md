@@ -1,6 +1,6 @@
 ##### § 252.12 Definitions. #####
 
-Link to an amendment published at 84 FR 4245, Feb. 14, 2019.
+Link to an amendment published at 84 FR 4245, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
 
 For purposes of this subpart, the following definitions apply:
 

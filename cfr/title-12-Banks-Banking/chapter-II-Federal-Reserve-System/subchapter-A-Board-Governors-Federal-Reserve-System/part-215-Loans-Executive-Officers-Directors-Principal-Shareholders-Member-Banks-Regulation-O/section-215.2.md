@@ -1,6 +1,6 @@
 ##### § 215.2 Definitions. #####
 
-Link to an amendment published at 84 FR 4241, Feb. 14, 2019.
+Link to an amendment published at 84 FR 4241, Feb. 14, 2019.This amendment was delayed until July 1, 2019, at 84 FR 11879, Mar. 29, 2019.
 
 For purposes of this part, the following definitions apply unless otherwise specified:
 

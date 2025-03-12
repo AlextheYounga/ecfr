@@ -1,6 +1,6 @@
 ##### § 325.5 Methodologies and practices. #####
 
-Link to an amendment published at 84 FR 4249, Feb. 14, 2019.
+Link to an amendment published at 84 FR 4249, Feb. 14, 2019.This amendment was delayed until July 1, 2019, at 84 FR 11879, Mar. 29, 2019.
 
 (a) *Potential impact on capital.* In conducting a stress test under this subpart, during each quarter of the planning horizon, each covered bank must estimate the following for each scenario required to be used:
 

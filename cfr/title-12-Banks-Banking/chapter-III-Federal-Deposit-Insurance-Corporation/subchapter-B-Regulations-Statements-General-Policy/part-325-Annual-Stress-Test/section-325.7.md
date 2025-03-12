@@ -1,6 +1,6 @@
 ##### § 325.7 Publication of stress test results. #####
 
-Link to an amendment published at 84 FR 4249, Feb. 14, 2019.
+Link to an amendment published at 84 FR 4249, Feb. 14, 2019.This amendment was delayed until July 1, 2019, at 84 FR 11879, Mar. 29, 2019.
 
 *(a) Publication date* - (1) *$10 billion to $50 billion covered bank.* (i) Prior to January 1, 2016, a $10 billion to $50 billion covered bank must publish a summary of the results of its annual stress test in the period starting June 15 and ending June 30 (for the stress test cycle beginning October 1, 2014).
 

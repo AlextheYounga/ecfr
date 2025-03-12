@@ -1,6 +1,6 @@
 ##### § 46.8 Publication of disclosures. #####
 
-Link to an amendment published at 84 FR 4240, Feb. 14, 2019.
+Link to an amendment published at 84 FR 4240, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
 
 (a) *Publication date.* (1) *$50 billion or over covered institution.* A $50 billion or over covered institution must publish a summary of the results of its annual stress test in the period starting June 15 and ending July 15 provided:
 

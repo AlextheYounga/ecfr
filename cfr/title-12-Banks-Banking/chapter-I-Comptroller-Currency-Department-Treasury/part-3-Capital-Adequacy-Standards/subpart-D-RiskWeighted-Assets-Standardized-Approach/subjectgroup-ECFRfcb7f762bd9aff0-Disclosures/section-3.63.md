@@ -1,6 +1,6 @@
 ##### § 3.63 Disclosures by national banks or Federal savings associations described in § 3.61. #####
 
-Link to an amendment published at 84 FR 4238, Feb. 14, 2019.
+Link to an amendment published at 84 FR 4238, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
 
 (a) Except as provided in § 3.62, a national bank or Federal savings association described in § 3.61 must make the disclosures described in Tables 1 through 10 of this section. The national bank or Federal savings association must make these disclosures publicly available for each of the last three years (that is, twelve quarters) or such shorter period beginning on January 1, 2015.
 

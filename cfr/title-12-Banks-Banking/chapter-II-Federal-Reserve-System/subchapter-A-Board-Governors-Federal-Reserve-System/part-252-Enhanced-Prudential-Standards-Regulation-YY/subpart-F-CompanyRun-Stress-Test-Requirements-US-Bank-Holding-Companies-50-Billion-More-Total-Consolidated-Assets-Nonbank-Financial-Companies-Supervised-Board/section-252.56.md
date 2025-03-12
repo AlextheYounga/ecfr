@@ -1,6 +1,6 @@
 ##### § 252.56 Methodologies and practices. #####
 
-Link to an amendment published at 84 FR 4246, Feb. 14, 2019.
+Link to an amendment published at 84 FR 4246, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
 
 (a) *Potential impact on capital.* In conducting a stress test under §§ 252.54 and 252.55, for each quarter of the planning horizon, a covered company must estimate the following for each scenario required to be used:
 

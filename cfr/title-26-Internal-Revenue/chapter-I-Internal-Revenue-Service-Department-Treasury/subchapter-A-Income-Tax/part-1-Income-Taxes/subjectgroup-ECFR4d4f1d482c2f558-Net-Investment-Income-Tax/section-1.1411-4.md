@@ -1,8 +1,8 @@
 ##### § 1.1411-4 Definition of net investment income. #####
 
-(a) *In general.* For purposes of section 1411 and the regulations thereunder, net investment income means the excess (if any) of -
+(a) *In general.* For purposes of section 1411 and the regulations thereunder, net investment income means the excess (if any) of—
 
-(1) The sum of -
+(1) The sum of—
 
 (i) Gross income from interest, dividends, annuities, royalties, and rents, except to the extent excluded by the ordinary course of a trade or business exception described in paragraph (b) of this section;
 
@@ -16,7 +16,7 @@
 
 (1) In the case of an individual, estate, or trust that owns or engages in a trade or business directly (or indirectly through ownership of an interest in an entity that is disregarded as an entity separate from its owner under § 301.7701-3), the determination of whether gross income described in paragraph (a)(1)(i) of this section is derived in a trade or business is made at the individual, estate, or trust level.
 
-(2) In the case of an individual, estate, or trust that owns an interest in a passthrough entity (for example, a partnership or S corporation), and that entity is engaged in a trade or business, the determination of whether gross income described in paragraph (a)(1)(i) of this section is -
+(2) In the case of an individual, estate, or trust that owns an interest in a passthrough entity (for example, a partnership or S corporation), and that entity is engaged in a trade or business, the determination of whether gross income described in paragraph (a)(1)(i) of this section is—
 
 (i) Derived in a trade or business described in § 1.1411-5(a)(1) is made at the owner level; and
 
@@ -34,7 +34,7 @@ Example 1. Multiple passthrough entities.A, an individual, owns an interest in U
 
 (2) *Limitation.* The calculation of net gain may not be less than zero. Losses allowable under section 1211(b) are permitted to offset gain from the disposition of assets other than capital assets that are subject to section 1411.
 
-(3) *Net gain attributable to the disposition of property* - (i) *General rule.* Net gain attributable to the disposition of property is the gain described in section 61(a)(3) recognized from the disposition of property reduced, but not below zero, by losses deductible under section 165, including losses attributable to casualty, theft, and abandonment or other worthlessness. The rules in subchapter O of chapter 1 and the regulations thereunder apply. See, for example, § 1.61-6(b). For purposes of this paragraph, net gain includes, but is not limited to, gain or loss attributable to the disposition of property from the investment of working capital (as defined in § 1.1411-6); gain or loss attributable to the disposition of a life insurance contract; and gain attributable to the disposition of an annuity contract to the extent the sales price of the annuity exceeds the annuity's surrender value.
+(3) *Net gain attributable to the disposition of property*—(i) *General rule.* Net gain attributable to the disposition of property is the gain described in section 61(a)(3) recognized from the disposition of property reduced, but not below zero, by losses deductible under section 165, including losses attributable to casualty, theft, and abandonment or other worthlessness. The rules in subchapter O of chapter 1 and the regulations thereunder apply. See, for example, § 1.61-6(b). For purposes of this paragraph, net gain includes, but is not limited to, gain or loss attributable to the disposition of property from the investment of working capital (as defined in § 1.1411-6); gain or loss attributable to the disposition of a life insurance contract; and gain attributable to the disposition of an annuity contract to the extent the sales price of the annuity exceeds the annuity's surrender value.
 
 (ii) *Examples.* The following examples illustrate the provisions of this paragraph (d)(3). For purposes of these examples, assume that the taxpayer is a United States citizen, uses a calendar taxable year, and Year 1 and all subsequent years are taxable years in which section 1411 is in effect:
 
@@ -58,15 +58,15 @@ Example 4. Section 1031 like-kind exchange.(i) In Year 1, A, an unmarried indivi
 
 (v) In Year 5, for income tax purposes, A recognizes capital gain of $20,000 ($35,000 sale price minus $15,000 basis). For purposes of section 1411, A's net investment income includes the $20,000 gain recognized from the sale of Blackacre.
 
-(4) *Gains and losses excluded from net investment income* - (i) *Exception for gain or loss attributable to property held in a trade or business not described in § 1.1411-5* - (A) *General rule.* Net gain does not include gain or loss attributable to property (other than property from the investment of working capital (as described in § 1.1411-6)) held in a trade or business not described in § 1.1411-5.
+(4) *Gains and losses excluded from net investment income*—(i) *Exception for gain or loss attributable to property held in a trade or business not described in § 1.1411-5*—(A) *General rule.* Net gain does not include gain or loss attributable to property (other than property from the investment of working capital (as described in § 1.1411-6)) held in a trade or business not described in § 1.1411-5.
 
-(B) *Special rules for determining whether property is held in a trade or business.* To determine whether net gain described in paragraph (a)(1)(iii) of this section is from property held in a trade or business -
+(B) *Special rules for determining whether property is held in a trade or business.* To determine whether net gain described in paragraph (a)(1)(iii) of this section is from property held in a trade or business—
 
 (*1*) A partnership interest or S corporation stock generally is not property held in a trade or business. Therefore, gain from the sale of a partnership interest or S corporation stock is generally gain described in paragraph (a)(1)(iii) of this section. However, net gain does not include certain gain or loss attributable to the disposition of certain interests in partnerships and S corporations as provided in § 1.1411-7.
 
 (*2*) In the case of an individual, estate, or trust that owns or engages in a trade or business directly (or indirectly through ownership of an interest in an entity that is disregarded as an entity separate from its owner under § 301.7701-3), the determination of whether net gain described in paragraph (a)(1)(iii) of this section is attributable to property held in a trade or business is made at the individual, estate, or trust level.
 
-(*3*) In the case of an individual, estate, or trust that owns an interest in a passthrough entity (for example, a partnership or S corporation), and that entity is engaged in a trade or business, the determination of whether net gain described in paragraph (a)(1)(iii) of this section from such entity is attributable to -
+(*3*) In the case of an individual, estate, or trust that owns an interest in a passthrough entity (for example, a partnership or S corporation), and that entity is engaged in a trade or business, the determination of whether net gain described in paragraph (a)(1)(iii) of this section from such entity is attributable to—
 
 (*i*) Property held in a trade or business described in § 1.1411-5(a)(1) is made at the owner level; and
 
@@ -74,7 +74,7 @@ Example 4. Section 1031 like-kind exchange.(i) In Year 1, A, an unmarried indivi
 
 (C) *Examples.* The following examples illustrate the provisions of this paragraph (d)(4)(i). For purposes of these examples, assume the taxpayer is a United States citizen, uses a calendar taxable year, and Year 1 and all subsequent years are taxable years in which section 1411 is in effect:
 
-Example 1. Gain from rental activity.A, an unmarried individual, rents a boat to B for $100,000 in Year 1. A's rental activity does not involve the conduct of a section 162 trade or business, and under section 469(c)(2), A's rental activity is a passive activity. In Year 2, A sells the boat to B, and A realizes and recognizes taxable gain attributable to the disposition of the boat of $500,000. Because the exception provided in paragraph (d)(4)(i)(A) of this section requires a trade or business, this exception is inapplicable, and therefore, A's $500,000 gain will be taken into account under § 1.1411-4(a)(1)(iii).Example 2. Installment sale.(i) PRS, a partnership for Federal income tax purposes, operates an automobile dealership. Therefore, with respect to B and C, PRS is not a trade or business described in section 1411(c)(2) and § 1.1411-5. D owns the remaining 20% of PRS. Assume, for purposes of this example, that PRS is a passive activity with respect to D, and therefore is a trade or business described in section 1411(c)(2)(A) and § 1.1411-5(a)(1).
+Example 1. Gain from rental activity.A, an unmarried individual, rents a boat to B for $100,000 in Year 1. A's rental activity does not involve the conduct of a section 162 trade or business, and under section 469(c)(2), A's rental activity is a passive activity. In Year 2, A sells the boat to B, and A realizes and recognizes taxable gain attributable to the disposition of the boat of $500,000. Because the exception provided in paragraph (d)(4)(i)(A) of this section requires a trade or business, this exception is inapplicable, and therefore, A's $500,000 gain will be taken into account under § 1.1411-4(a)(1)(iii).Example 2. Installment sale.(i) PRS, a partnership for Federal income tax purposes, operates an automobile dealership. B and C, unmarried individuals, each own a 40% interest in PRS and both materially participate in the activities of PRS for all relevant years. Therefore, with respect to B and C, PRS is not a trade or business described in section 1411(c)(2) and § 1.1411-5. D owns the remaining 20% of PRS. Assume, for purposes of this example, that PRS is a passive activity with respect to D, and therefore is a trade or business described in section 1411(c)(2)(A) and § 1.1411-5(a)(1).
 
 (ii)(A) In Year 0, a year preceding the effective date of section 1411, PRS relocates its dealership to a larger location. As a result of the relocation, PRS sells its old dealership facility to a real estate developer in exchange for $1,000,000 cash and a $4,500,000 promissory note, fully amortizing over the subsequent 15 years, and bearing adequate stated interest. PRS reports the sale transaction under section 453. PRS's adjusted tax basis in the old dealership facility is $1,075,000. Assume for purposes of this example that PRS has $300,000 of recapture income (within the meaning of section 453(i)); the buyer is not related to PRS, B, C, or D; and the buyer is not assuming any liabilities of PRS in the transaction.
 
@@ -100,7 +100,7 @@ Example 1. Gain from rental activity.A, an unmarried individual, rents a boat to
 
 (iii) *Adjustment for capital loss carryforwards for previously excluded income.* [Reserved]
 
-(e) *Net investment income attributable to certain entities* - (1) *Distributions from estates and trusts* - (i) *In general.* Net investment income includes a beneficiary's share of distributable net income, as described in sections 652(a) and 662(a), to the extent that, under sections 652(b) and 662(b), the character of such income constitutes gross income from items described in paragraphs (a)(1)(i) and (ii) of this section or net gain attributable to items described in paragraph (a)(1)(iii) of this section, with further computations consistent with the principles of this section, as provided in § 1.1411-3(e).
+(e) *Net investment income attributable to certain entities*—(1) *Distributions from estates and trusts*—(i) *In general.* Net investment income includes a beneficiary's share of distributable net income, as described in sections 652(a) and 662(a), to the extent that, under sections 652(b) and 662(b), the character of such income constitutes gross income from items described in paragraphs (a)(1)(i) and (ii) of this section or net gain attributable to items described in paragraph (a)(1)(iii) of this section, with further computations consistent with the principles of this section, as provided in § 1.1411-3(e).
 
 (ii) *Distributions of accumulated net investment income from foreign nongrantor trusts to United States beneficiaries.* [Reserved]
 
@@ -108,11 +108,11 @@ Example 1. Gain from rental activity.A, an unmarried individual, rents a boat to
 
 (3) *Treatment of income from common trust funds.* [Reserved]
 
-(f) *Properly allocable deductions* - (1) *General rule* - (i) *In general.* Unless provided elsewhere in §§ 1.1411-1 through 1.1411-10, only properly allocable deductions described in this paragraph (f) may be taken into account in determining net investment income.
+(f) *Properly allocable deductions*—(1) *General rule*—(i) *In general.* Unless provided elsewhere in §§ 1.1411-1 through 1.1411-10, only properly allocable deductions described in this paragraph (f) may be taken into account in determining net investment income.
 
 (ii) *Limitations.* Any deductions described in this paragraph (f) in excess of gross income and net gain described in section 1411(c)(1)(A) are not taken into account in determining net investment income in any other taxable year, except as allowed under chapter 1.
 
-(2) *Properly allocable deductions described in section 62* - (i) *Deductions allocable to gross income from rents and royalties.* Deductions described in section 62(a)(4) allocable to rents and royalties described in paragraph (a)(1)(i) of this section are taken into account in determining net investment income.
+(2) *Properly allocable deductions described in section 62*—(i) *Deductions allocable to gross income from rents and royalties.* Deductions described in section 62(a)(4) allocable to rents and royalties described in paragraph (a)(1)(i) of this section are taken into account in determining net investment income.
 
 (ii) *Deductions allocable to gross income from trades or businesses described in § 1.1411-5.* Deductions described in section 62(a)(1) allocable to income from a trade or business described in § 1.1411-5 are taken into account in determining net investment income to the extent the deductions have not been taken into account in determining self-employment income within the meaning of § 1.1411-9.
 
@@ -128,7 +128,7 @@ Example 1.(i) A, an individual, is a 40% shareholder in SCo, an S corporation. S
 
 (iii) As a result of A's at risk limitation, for chapter 1 purposes, A may only deduct $7,000 of the operating deductions in excess of the gross operating income. The remaining $4,000 deductions are suspended because A's amount at risk at the end of Year 1 is zero.
 
-(iv) For purposes of section 469, A has passive activity gross income of $29,000 and passive activity deductions of $36,000 ($40,000 of operating deductions allocable to A less $4,000 suspended under section 465). Because A has no other passive activity income from any other source, section 469 limits A's passive activity deductions to A's passive activity gross income. As a result, section 469 allows A to deduct $29,000 of SCo's operating deductionsand suspends the remaining $7,000.
+(iv) For purposes of section 469, A has passive activity gross income of $29,000 and passive activity deductions of $36,000 ($40,000 of operating deductions allocable to A less $4,000 suspended under section 465). Because A has no other passive activity income from any other source, section 469 limits A's passive activity deductions to A's passive activity gross income. As a result, section 469 allows A to deduct $29,000 of SCo's operating deductions and suspends the remaining $7,000.
 
 (v) For purposes of calculating A's net investment income, A has $29,000 of properly allocable deductions allowed by section 1411(c)(1)(B) and paragraph (f)(2)(ii) of this section.
 
@@ -164,7 +164,7 @@ Example 2.(i) Same facts as *Example 1.* In Year 2, SCo reported net income of $
 
 (viii) *Fiduciary expenses.* In the case of an estate or trust, amounts described in § 1.212-1(i) to the extent they are allocable to net investment income pursuant to paragraph (g)(1) of this section.
 
-(4) *Loss deductions* - (i) *General rule.* Losses described in section 165, whether described in section 62 or section 63(d), are allowed as properly allocable deductions to the extent such losses exceed the amount of gain described in section 61(a)(3) and are not taken into account in computing net gain by reason of paragraph (d) of this section.
+(4) *Loss deductions*—(i) *General rule.* Losses described in section 165, whether described in section 62 or section 63(d), are allowed as properly allocable deductions to the extent such losses exceed the amount of gain described in section 61(a)(3) and are not taken into account in computing net gain by reason of paragraph (d) of this section.
 
 (ii) *Examples.* The following examples illustrate the provisions of this paragraph (f)(4). For purposes of these examples, assume the taxpayer is a United States citizen, uses a calendar taxable year, and Year 1 and all subsequent years are taxable years in which section 1411 is in effect:
 
@@ -211,14 +211,14 @@ Example 3.(i) In Year 1, B, an unmarried individual, incurs a short-term capital
 (A) A, an unmarried individual, has adjusted gross income in Year 1 as follows:
 
 |        Wages        |$1,600,000|
-|:--------------------|---------:|
+|---------------------|----------|
 |   Interest income   | 400,000  |
 |Adjusted gross income|2,000,000 |
 
 In addition, A has the following items of expense qualifying as itemized deductions:
 
 |    Investment expenses    |$70,000|
-|:--------------------------|------:|
+|---------------------------|-------|
 |   Job-related expenses    |30,000 |
 |Investment interest expense|75,000 |
 |    State income taxes     |120,000|
@@ -236,7 +236,7 @@ A's investment expenses and job-related expenses are miscellaneous itemized dedu
 (2) A's total itemized deductions allowed subject to the limitation under section 68 and after application of section 67, but before the application of section 68, are the following:
 
 |Miscellaneous itemized deductions|$60,000|
-|:--------------------------------|------:|
+|---------------------------------|-------|
 |        State income tax         |120,000|
 |Deductions subject to section 68 |180,000|
 
@@ -244,13 +244,13 @@ A's investment expenses and job-related expenses are miscellaneous itemized dedu
 
 (E) Under paragraph (f)(7)(ii) of this section, the amount of itemized deductions allowed in determining net investment income after applying sections 67 and 68 is the lesser of $80,000 (the sum of $60,000 determined under paragraph (C)(2) and $20,000 state income tax allocable to net investment income) or $126,000 (determined under (D)(3)). Therefore, A's itemized deductions that are properly allocable to net investment income are $155,000 ($80,000 of properly allocable itemized deductions subject to section 67 or 68 plus $75,000 of investment interest expense (which is not subject to either section 67 or section 68 limitations)).
 
-(g) *Special rules* - (1) *Deductions allocable to both net investment income and excluded income.* In the case of a properly allocable deduction described in section 1411(c)(1)(B) and paragraph (f) of this section that is allocable to both net investment income and excluded income, the portion of the deduction that is properly allocable to net investment income may be determined by taxpayers using any reasonable method. Examples of reasonable methods of allocation include, but are not limited to, an allocation of the deduction based on the ratio of the amount of a taxpayer's gross income (including net gain) described in § 1.1411-4(a)(1) to the amount of the taxpayer's adjusted gross income (as defined under section 62 (or section 67(e) in the case of an estate or trust)). In the case of an estate or trust, an allocation of a deduction pursuant to rules described in § 1.652(b)-3(b) (and § 1.641(c)-1(h) in the case of an ESBT) is also a reasonable method.
+(g) *Special rules*—(1) *Deductions allocable to both net investment income and excluded income.* In the case of a properly allocable deduction described in section 1411(c)(1)(B) and paragraph (f) of this section that is allocable to both net investment income and excluded income, the portion of the deduction that is properly allocable to net investment income may be determined by taxpayers using any reasonable method. Examples of reasonable methods of allocation include, but are not limited to, an allocation of the deduction based on the ratio of the amount of a taxpayer's gross income (including net gain) described in § 1.1411-4(a)(1) to the amount of the taxpayer's adjusted gross income (as defined under section 62 (or section 67(e) in the case of an estate or trust)). In the case of an estate or trust, an allocation of a deduction pursuant to rules described in § 1.652(b)-3(b) (and § 1.641(c)-1(h) in the case of an ESBT) is also a reasonable method.
 
-(2) *Recoveries of properly allocable deductions* - (i) *General rule.* If a taxpayer is refunded, reimbursed, or otherwise recovers any portion of an amount deducted as a section 1411(c)(1)(B) properly allocable deduction in a prior year, and such amount is not otherwise included in net investment income in the year of recovery under section 1411(c)(1)(A), the amount of the recovery will reduce the taxpayer's total section 1411(c)(1)(B) properly allocable deductions in the year of recovery (but not below zero). The preceding sentence applies regardless of whether the amount of the recovery is excluded from gross income by reason of section 111.
+(2) *Recoveries of properly allocable deductions*—(i) *General rule.* If a taxpayer is refunded, reimbursed, or otherwise recovers any portion of an amount deducted as a section 1411(c)(1)(B) properly allocable deduction in a prior year, and such amount is not otherwise included in net investment income in the year of recovery under section 1411(c)(1)(A), the amount of the recovery will reduce the taxpayer's total section 1411(c)(1)(B) properly allocable deductions in the year of recovery (but not below zero). The preceding sentence applies regardless of whether the amount of the recovery is excluded from gross income by reason of section 111.
 
 (ii) *Recoveries of items allocated between net investment income and excluded income.* In the case of a refund of any item that was deducted under section 1411(c)(1)(B) in a prior year and the gross amount of the deduction was allocated between items of net investment income and excluded income pursuant to paragraph (g)(1) of this section, the amount of the reduction in section 1411(c)(1)(B) properly allocable deductions in the year of receipt under this paragraph (g)(2) is the total amount of the refund multiplied by a fraction. The numerator of the fraction is the amount of the total deduction allocable to net investment income in the prior year to which the refund relates. The denominator of the fraction is the total amount of the deduction in the prior year to which the refund relates.
 
-(iii) *Recoveries with no prior year benefit.* For purposes of this paragraph (g)(2), section 111 applies to reduce the amount of any reduction required by paragraph (g)(2)(i) of this section to the extent that such previously deducted amount did not reduce the tax imposed by section 1411. To the extent a deduction is taken into account in computing a taxpayer's net operating loss deduction under paragraph (h) of this section, section 111(c) applies. Except as provided in the preceding sentence, for purposes of this paragraph (g)(2), no reduction of section 1411(c)(1)(B) properly allocable deductions is required in a year when such recovered item is attributable to an amount deducted in a taxable year -
+(iii) *Recoveries with no prior year benefit.* For purposes of this paragraph (g)(2), section 111 applies to reduce the amount of any reduction required by paragraph (g)(2)(i) of this section to the extent that such previously deducted amount did not reduce the tax imposed by section 1411. To the extent a deduction is taken into account in computing a taxpayer's net operating loss deduction under paragraph (h) of this section, section 111(c) applies. Except as provided in the preceding sentence, for purposes of this paragraph (g)(2), no reduction of section 1411(c)(1)(B) properly allocable deductions is required in a year when such recovered item is attributable to an amount deducted in a taxable year—
 
 (A) Preceding the effective date of section 1411, or
 
@@ -262,7 +262,7 @@ Example 1. Recovery of amount included in income.A, an individual, is a 40% limi
 
 (3) *Deductions described in section 691(b).* For purposes of paragraph (f) of this section, properly allocable deductions include items of deduction described in section 691(b), provided that the item otherwise would have been deductible to the decedent under § 1.1411-4(f). For example, an estate may deduct the decedent's unpaid investment interest expense in computing its net investment income because section 691(b) specifically allows the deduction under section 163, and § 1.1411-4(f)(3)(i) allows those deductions as well. However, an estate or trust may not deduct a payment of real estate taxes on the decedent's principal residence that were unpaid at death in computing its net investment income because, although real estate taxes are deductible under section 164 and specifically are allowed by section 691(b), the real estate taxes would not have been a properly allocable deduction of the decedent under § 1.1411-4(f).
 
-(4) *Amounts described in section 642(h).* For purposes of the calculation of net investment income under this section, one or more beneficiaries succeeding to the property of the estate or trust, within the meaning of section 642(h), shall -
+(4) *Amounts described in section 642(h).* For purposes of the calculation of net investment income under this section, one or more beneficiaries succeeding to the property of the estate or trust, within the meaning of section 642(h), shall—
 
 (i) Treat excess capital losses of the estate or trust described in section 642(h)(1) as capital losses of the beneficiary in the calculation of net gain in paragraph (d) and paragraph (f)(4) of this section, as applicable, in a manner consistent with section 642(h)(1);
 
@@ -272,23 +272,23 @@ Example 1. Recovery of amount included in income.A, an individual, is a 40% limi
 
 (5) *Treatment of self-charged interest income.* Gross income from interest (within the meaning of section 1411(c)(1)(A)(i) and paragraph (a)(1)(i) of this section) that is received by the taxpayer from a nonpassive activity of such taxpayer, solely for purposes of section 1411, is treated as derived in the ordinary course of a trade or business not described in § 1.1411-5. The amount of interest income that is treated as derived in the ordinary course of a trade or business not described in § 1.1411-5, and thus excluded from the calculation of net investment income, under this paragraph (g)(5) is limited to the amount that would have been considered passive activity gross income under the rules of § 1.469-7 if the payor was a passive activity of the taxpayer. For purposes of this rule, the term nonpassive activity does not include a trade or business described in § 1.1411-5(a)(2). However, this rule does not apply to the extent the corresponding deduction is taken into account in determining self-employment income that is subject to tax under section 1401(b).
 
-(6) *Treatment of certain nonpassive rental activities* - (i) *Gross income from rents.* To the extent that gross rental income described in paragraph (a)(1)(i) of this section is treated as not derived from a passive activity by reason of § 1.469-2(f)(6) or as a consequence of a taxpayer grouping a rental activity with a trade or business activity under § 1.469-4(d)(1), such gross rental income is deemed to be derived in the ordinary course of a trade or business within the meaning of paragraph (b) of this section.
+(6) *Treatment of certain nonpassive rental activities*—(i) *Gross income from rents.* To the extent that gross rental income described in paragraph (a)(1)(i) of this section is treated as not derived from a passive activity by reason of § 1.469-2(f)(6) or as a consequence of a taxpayer grouping a rental activity with a trade or business activity under § 1.469-4(d)(1), such gross rental income is deemed to be derived in the ordinary course of a trade or business within the meaning of paragraph (b) of this section.
 
 (ii) *Gain or loss from the disposition of property.* To the extent that gain or loss resulting from the disposition of property is treated as nonpassive gain or loss by reason of § 1.469-2(f)(6) or as a consequence of a taxpayer grouping a rental activity with a trade or business activity under § 1.469-4(d)(1), then such gain or loss is deemed to be derived from property used in the ordinary course of a trade or business within the meaning of paragraph (d)(4)(i) of this section.
 
-(7) *Treatment of certain real estate professionals* - (i) *Safe Harbor.* In the case of a real estate professional (as defined in section 469(c)(7)(B)) that participates in a rental real estate activity for more than 500 hours during such year, or has participated in such real estate activities for more than 500 hours in any five taxable years (whether or not consecutive) during the ten taxable years that immediately precede the taxable year, then -
+(7) *Treatment of certain real estate professionals*—(i) *Safe Harbor.* In the case of a real estate professional (as defined in section 469(c)(7)(B)) that participates in a rental real estate activity for more than 500 hours during such year, or has participated in such real estate activities for more than 500 hours in any five taxable years (whether or not consecutive) during the ten taxable years that immediately precede the taxable year, then—
 
 (A) Such gross rental income from that rental activity is deemed to be derived in the ordinary course of a trade or business within the meaning of paragraph (b) of this section; and
 
 (B) Gain or loss resulting from the disposition of property used in such rental real estate activity is deemed to be derived from property used in the ordinary course of a trade or business within the meaning of paragraph (d)(4)(i) of this section.
 
-(ii) *Definitions* - (A) *Participation.* For purposes of establishing participation under this paragraph (g)(7), any participation in the activity that would count towards establishing material participation under section 469 shall be considered.
+(ii) *Definitions*—(A) *Participation.* For purposes of establishing participation under this paragraph (g)(7), any participation in the activity that would count towards establishing material participation under section 469 shall be considered.
 
 (B) *Rental real estate activity.* The term *rental real estate activity* used in this paragraph (g)(7) is a rental activity within the meaning of § 1.469-1T(e)(3). An election to treat all rental real estate as a single rental activity under § 1.469-9(g) also applies for purposes of this paragraph (g)(7). However, any rental real estate that the taxpayer grouped with a trade or business activity under § 1.469-4(d)(1)(i)(A) or (d)(1)(i)(C) is not a rental real estate activity.
 
 (iii) *Effect of safe harbor.* The inability of a real estate professional to satisfy the safe harbor in this paragraph (g)(7) does not preclude such taxpayer from establishing that such gross rental income and gain or loss from the disposition of property, as applicable, is not included in net investment income under any other provision of section 1411.
 
-(8) *Treatment of former passive activities* - (i) *Section 469(f)(1)(A) losses.* Losses allowed in computing taxable income by reason of the rules governing former passive activities in section 469(f)(1)(A) are taken into account in computing net gain under paragraph (d) of this section or as properly allocable deductions under paragraph (f) of this section, as applicable, in the same manner as such losses are taken into account in computing taxable income (as defined in section 63). The preceding sentence applies only to the extent the net income or net gain from the former passive activity (as defined in section 469(f)(3)) is included in net investment income.
+(8) *Treatment of former passive activities*—(i) *Section 469(f)(1)(A) losses.* Losses allowed in computing taxable income by reason of the rules governing former passive activities in section 469(f)(1)(A) are taken into account in computing net gain under paragraph (d) of this section or as properly allocable deductions under paragraph (f) of this section, as applicable, in the same manner as such losses are taken into account in computing taxable income (as defined in section 63). The preceding sentence applies only to the extent the net income or net gain from the former passive activity (as defined in section 469(f)(3)) is included in net investment income.
 
 (ii) *Section 469(f)(1)(C) losses.* Losses allowed in computing taxable income by reason of section 469(f)(1)(C) are taken into account in computing net gain under paragraph (d) of this section or as properly allocable deductions under paragraph (f) of this section, as applicable, in the same manner as such losses are taken into account in computing taxable income (as defined in section 63).
 
@@ -312,7 +312,7 @@ Example 2.Same facts as *Example 1.* In Year 2, B materially participates in the
 
 (13) *Treatment of income or loss from REMIC residual interests.* [Reserved]
 
-(h) *Net operating loss* - (1) *General rule.* For purposes of paragraph (f)(2)(iv) of this section, the total section 1411 NOL amount of a net operating loss deduction for a taxable year is calculated by first determining the applicable portion of the taxpayer's net operating loss for each loss year under paragraph (h)(2) of this section. Next, the applicable portion for each loss year is used to determine the section 1411 NOL amount for each net operating loss carried from a loss year and deducted in the taxable year as provided in paragraph (h)(3) of this section. The section 1411 NOL amounts of each net operating loss carried from a loss year and deducted in the taxable year are then added together as provided in paragraph (h)(4) of this section. This sum is the total section 1411 NOL amount of the net operating loss deduction for the taxable year that is allowed as a properly allocable deduction in determining net investment income for the taxable year. For purposes of this paragraph (h), both the amount of a net operating loss for a loss year and the amount of a net operating loss deduction refer to such amounts as determined for purposes of chapter 1.
+(h) *Net operating loss*—(1) *General rule.* For purposes of paragraph (f)(2)(iv) of this section, the total section 1411 NOL amount of a net operating loss deduction for a taxable year is calculated by first determining the applicable portion of the taxpayer's net operating loss for each loss year under paragraph (h)(2) of this section. Next, the applicable portion for each loss year is used to determine the section 1411 NOL amount for each net operating loss carried from a loss year and deducted in the taxable year as provided in paragraph (h)(3) of this section. The section 1411 NOL amounts of each net operating loss carried from a loss year and deducted in the taxable year are then added together as provided in paragraph (h)(4) of this section. This sum is the total section 1411 NOL amount of the net operating loss deduction for the taxable year that is allowed as a properly allocable deduction in determining net investment income for the taxable year. For purposes of this paragraph (h), both the amount of a net operating loss for a loss year and the amount of a net operating loss deduction refer to such amounts as determined for purposes of chapter 1.
 
 (2) *Applicable portion of a net operating loss.* In any taxable year beginning after December 31, 2012, in which a taxpayer incurs a net operating loss, the applicable portion of such loss is the lesser of:
 

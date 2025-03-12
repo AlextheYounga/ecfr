@@ -1,6 +1,6 @@
 ##### § 5.37 Investment in national bank or Federal savings association premises. #####
 
-Link to an amendment published at 84 FR 4240, Feb. 14, 2019.
+Link to an amendment published at 84 FR 4240, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
 
 (a) *Authority.* 12 U.S.C. 29, 93a, 317d, 1464(c)(2), 1464(c)(4)(B), 1828(m), and 5412(b)(2)(B).
 

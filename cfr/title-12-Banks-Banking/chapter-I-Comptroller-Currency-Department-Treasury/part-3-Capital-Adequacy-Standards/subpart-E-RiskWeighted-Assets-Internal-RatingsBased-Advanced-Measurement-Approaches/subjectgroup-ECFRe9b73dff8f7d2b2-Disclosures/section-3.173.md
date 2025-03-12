@@ -1,6 +1,6 @@
 ##### § 3.173 Disclosures by certain advanced approaches national banks or Federal savings associations. #####
 
-Link to an amendment published at 84 FR 4238, Feb. 14, 2019.
+Link to an amendment published at 84 FR 4238, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
 
 (a)(1) An advanced approaches national bank or Federal savings association described in § 3.172(b) must make the disclosures described in Tables 1 through 12 to § 3.173.
 

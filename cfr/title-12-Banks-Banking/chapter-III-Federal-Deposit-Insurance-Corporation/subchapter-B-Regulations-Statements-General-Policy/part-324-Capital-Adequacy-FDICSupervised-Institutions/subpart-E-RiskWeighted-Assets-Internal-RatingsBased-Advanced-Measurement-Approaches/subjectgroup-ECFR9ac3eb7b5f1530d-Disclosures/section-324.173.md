@@ -1,6 +1,6 @@
 ##### § 324.173 Disclosures by certain advanced approaches FDIC-supervised institutions. #####
 
-Link to an amendment published at 84 FR 4247, Feb. 14, 2019.
+Link to an amendment published at 84 FR 4247, Feb. 14, 2019.This amendment was delayed until July 1, 2019, at 84 FR 11879, Mar. 29, 2019.
 
 (a)(1) An advanced approaches FDIC-supervised institution described in § 324.172(b) must make the disclosures described in Tables 1 through 12 to § 324.173.
 
