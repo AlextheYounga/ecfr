@@ -1,6 +1,6 @@
 ##### § 12.41 Monitoring instruments. #####
 
-Link to an amendment published at 87 FR 1519, Jan. 11, 2022.
+Link to an amendment published at 87 FR 1519, Jan. 11, 2022.Link to a correction published at 87 FR 8411, Feb. 15, 2022.
 
 (a) In designing a project, a licensee must make adequate provision for installing and maintaining appropriate monitoring instrumentation whenever any physical condition that might affect the stability of a project structure has been discovered or is anticipated. The instrumentation must be satisfactory to the Regional Engineer and may include, for example, instruments to monitor movement of joints, foundation or embankment deformation, seismic effects, hydrostatic pore pressures, structural cracking, or internal stresses on the structure.
 

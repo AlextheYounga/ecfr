@@ -1,0 +1,3 @@
+##### § 1167.6 Office of Inspector General employees. #####
+
+Notwithstanding the requirements set forth in §§ 1167.1 through 1167.5, when an employee of the agency's Office of the Inspector General receives a demand or request to provide testimony or produce official records and information, the Inspector General or his or her designee shall be responsible for performing the functions assigned to the General Counsel under this part with respect to such demand or request.

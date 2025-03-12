@@ -1,6 +1,6 @@
 ##### § 12.44 Testing spillway gates. #####
 
-Link to an amendment published at 87 FR 1519, Jan. 11, 2022.
+Link to an amendment published at 87 FR 1519, Jan. 11, 2022.Link to a correction published at 87 FR 8411, Feb. 15, 2022.
 
 (a) *General requirement.* An applicant or licensee must make adequate provision, to the satisfaction of the Regional Engineer or other authorized Commission representative, to ensure that all spillway gates are operable at all times, particularly during adverse weather conditions.
 

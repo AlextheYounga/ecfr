@@ -14,7 +14,11 @@
 
 (6) INTERIOR/DOI-50, Insider Threat Program.
 
-(b) [Reserved]
+(b) *Classified records exempt under 5 U.S.C. 552a(k)(1).* Pursuant to 5 U.S.C. 552a(k)(1), the following systems of records have been exempted from paragraphs (c)(3), (d), (e)(1), (e)(4)(G), (H), and (I), and (f) of 5 U.S.C. 552a and the provisions of the regulations in this subpart implementing these paragraphs:
+
+(1) INTERIOR/DOI-50, Insider Threat Program.
+
+(2) [Reserved]
 
 (c) *Law enforcement records exempt under 5 U.S.C. 552a(k)(2).* Pursuant to 5 U.S.C. 552a(k)(2), the following systems of records are exempted from paragraphs (c)(3), (d), (e)(1), (e)(4)(G), (H), and (I), and (f) of 5 U.S.C. 552a and the provisions of the regulations in this subpart implementing these paragraphs:
 
@@ -60,7 +64,7 @@
 
 (2) [Reserved]
 
-(e) *Investigatory records exempt under 5 U.S.C. 552a(k)(5).* Pursuant to 5 U.S.C. 552a(k)(5), the following systems of records have been exempted from paragraphs (c)(3), (d), (e)(1), (e)(4)(G), (H), and (I) and (f) of 5 U.S.C. 552a and the provisions of the regulations in this subpart implementing these paragraphs:
+(e) *Investigatory records exempt under 5 U.S.C. 552a(k)(5).* Pursuant to 5 U.S.C. 552a(k)(5), the following systems of records have been exempted from paragraphs (c)(3), (d), (e)(1), (e)(4)(G), (H), and (I), and (f) of 5 U.S.C. 552a and the provisions of the regulations in this subpart implementing these paragraphs:
 
 (1) [Reserved]
 
@@ -72,4 +76,6 @@
 
 (5) INTERIOR/DOI-46, Physical Security Access Files.
 
-[86 FR 49928, Sept. 7, 2021]
+(6) INTERIOR/DOI-50, Insider Threat Program.
+
+[86 FR 49928, Sept. 7, 2021, as amended at 87 FR 8428, Feb. 15, 2022]

@@ -1,6 +1,6 @@
 ##### § 12.43 Power and communication lines and gas pipelines. #####
 
-Link to an amendment published at 87 FR 1519, Jan. 11, 2022.
+Link to an amendment published at 87 FR 1519, Jan. 11, 2022.Link to a correction published at 87 FR 8411, Feb. 15, 2022.
 
 (a) A licensee must take all reasonable precautions, and comply with all reasonable specifications that may be provided by the Regional Engineer, to ensure that any power or communication line or gas pipeline that is located over, under, or in project waters does not obstruct navigation for recreational or commercial purposes or otherwise endanger public safety.
 

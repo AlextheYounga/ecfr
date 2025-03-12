@@ -1,6 +1,6 @@
 ##### § 12.10 Reporting safety-related incidents. #####
 
-Link to an amendment published at 87 FR 1514, Jan. 11, 2022.Link to a correction published at 87 FR 2702, Jan. 19, 2022.
+Link to an amendment published at 87 FR 1514, Jan. 11, 2022.Link to a correction published at 87 FR 2702, Jan. 19, 2022.Link to a correction published at 87 FR 8411, Feb. 15, 2022.
 
 (a) *Conditions affecting the safety of a project or its works* - (1) *Oral reports.* An applicant or licensee must report by telephone to the Regional Engineer any condition affecting the safety of a project or projects works, as defined in § 12.3(b)(4). The initial oral report must be made as soon as practicable after that condition is discovered, without unduly interfering with any necessary or appropriate emergency repair, alarm, or other emergency action procedure.
 

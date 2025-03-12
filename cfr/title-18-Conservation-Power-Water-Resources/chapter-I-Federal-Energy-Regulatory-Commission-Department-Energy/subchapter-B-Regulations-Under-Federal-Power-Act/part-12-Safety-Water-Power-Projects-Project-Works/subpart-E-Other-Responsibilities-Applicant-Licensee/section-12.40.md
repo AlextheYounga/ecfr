@@ -1,6 +1,6 @@
 ##### § 12.40 Quality control programs. #####
 
-Link to an amendment published at 87 FR 1519, Jan. 11, 2022.
+Link to an amendment published at 87 FR 1519, Jan. 11, 2022.Link to a correction published at 87 FR 8411, Feb. 15, 2022.
 
 (a) *General rule.* During any construction, repair, or modification of project works, including any corrective measures taken pursuant to § 12.39 of this part, the applicant or licensee must maintain any quality control program that may be required by the Regional Engineer, commensurate with the scope of the work and meeting any requirements or standards set by the Regional Engineer. If a quality control program is required, the construction, repair, or modification may not begin until the Regional Engineer has approved the program.
 
