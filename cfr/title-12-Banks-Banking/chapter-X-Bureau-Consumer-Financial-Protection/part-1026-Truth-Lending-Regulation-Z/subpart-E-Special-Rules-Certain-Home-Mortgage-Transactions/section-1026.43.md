@@ -1,6 +1,6 @@
 ##### § 1026.43 Minimum standards for transactions secured by a dwelling. #####
 
-Link to an amendment published at 85 FR 86394, Dec. 29, 2020.Link to an amendment published at 85 FR 86452, Dec. 29, 2020.
+Link to an amendment published at 85 FR 86394, Dec. 29, 2020.Link to an amendment published at 85 FR 86452, Dec. 29, 2020.Link to a correction published at 86 FR 8283, Feb. 5, 2021.
 
 (a) *Scope.* This section applies to any consumer credit transaction that is secured by a dwelling, as defined in § 1026.2(a)(19), including any real property attached to a dwelling, other than:
 

@@ -1,7 +1,5 @@
 ##### § 425.605 Calculation of shared savings and losses under the BASIC track. #####
 
-Link to an amendment published at 85 FR 85042, Dec. 28, 2020.
-
 (a) *General rules.* For each performance year, CMS determines whether the estimated average per capita Medicare Parts A and B fee-for-service expenditures for Medicare fee-for-service beneficiaries assigned to the ACO are above or below the updated benchmark determined under § 425.601. In order to qualify for a shared savings payment under the BASIC track, or to be responsible for sharing losses with CMS, an ACO's average per capita Medicare Parts A and B fee-for-service expenditures for its assigned beneficiary population for the performance year must be below or above the updated benchmark, respectively, by at least the minimum savings or loss rate under paragraph (b) of this section.
 
 (1) CMS uses an ACO's prospective HCC risk score to adjust the benchmark for changes in severity and case mix in the assigned beneficiary population between BY3 and the performance year.
@@ -60,21 +58,31 @@ Link to an amendment published at 85 FR 85042, Dec. 28, 2020.
 
 (4) To be responsible for sharing losses with the Medicare program, an ACO's average per capita Medicare Parts A and B fee-for-service expenditures for its assigned beneficiary population for the performance year must be above its updated benchmark costs for the year by at least the MLR established for the ACO.
 
+(c) *Qualification for shared savings payment* - (1) *For performance years beginning on or before January 1, 2020.* To qualify for shared savings, an ACO must meet the minimum savings rate requirement established under paragraph (b) of this section, meet the minimum quality performance standards established under § 425.502, and otherwise maintain its eligibility to participate in the Shared Savings Program under this part.
+
+(2) *For performance years beginning on or after January 1, 2021.* To qualify for shared savings, an ACO must meet the minimum savings rate requirement established under paragraph (b) of this section, meet the quality performance standard established under § 425.512, and otherwise maintain its eligibility to participate in the Shared Savings Program under this part.
+
 (d) *Levels of risk and potential reward.* (1) The following levels of risk and potential reward apply to an ACO in the BASIC track, as permitted under § 425.600(d).
 
-(i) *Level A (one-sided model)* - (A)
+(i) *Level A (one-sided model)* - (A)*Final sharing rate* - (*1*) *For performance years beginning on or before January 1, 2020.* An ACO that meets all the requirements for receiving shared savings payments under the BASIC track, Level A, receives a shared savings payment of up to 40 percent of all the savings under the updated benchmark, as determined on the basis of its quality performance under § 425.502 (up to the performance payment limit described in paragraph (d)(1)(i)(B) of this section).
+
+(*2*) *For performance years beginning on or after January 1, 2021.* An ACO that meets all the requirements for receiving shared savings payments under the BASIC track, Level A, receives a shared savings payment of 40 percent of all the savings under the updated benchmark (up to the performance payment limit described in paragraph (d)(1)(i)(B) of this section).
 
 (B) *Performance payment.* (*1*) If an ACO qualifies for savings by meeting or exceeding the MSR, the final sharing rate specified in paragraph (d)(1)(i)(A) of this section applies to an ACO's savings on a first dollar basis.
 
 (*2*) The amount of shared savings an eligible ACO receives under the BASIC track, Level A, may not exceed 10 percent of its updated benchmark.
 
-(ii) *Level B (one-sided model)* - (A)
+(ii) *Level B (one-sided model)* - (A) *Final sharing rate* - (*1*) *For performance years beginning on or before January 1, 2020.* An ACO that meets all the requirements for receiving shared savings payments under the BASIC track, Level B, receives a shared savings payment of up to 40 percent of all the savings under the updated benchmark, as determined on the basis of its quality performance under § 425.502 (up to the performance payment limit described in paragraph (d)(1)(ii)(B) of this section).
+
+(*2*) *For performance years beginning on or after January 1, 2021.* An ACO that meets all the requirements for receiving shared savings payments under the BASIC track, Level B, receives a shared savings payment of 40 percent of all the savings under the updated benchmark (up to the performance payment limit described in paragraph (d)(1)(ii)(B) of this section).
 
 (B) *Performance payment.* (*1*) If an ACO qualifies for savings by meeting or exceeding the MSR, the final sharing rate specified in paragraph (d)(1)(ii)(A) of this section applies to an ACO's savings on a first dollar basis.
 
 (*2*) The amount of shared savings an eligible ACO receives under the BASIC track, Level B, may not exceed 10 percent of its updated benchmark.
 
-(iii) *Level C (two-sided model)* -
+(iii) *Level C (two-sided model)* - (A) *Final sharing rate* - (*1*) *For performance years beginning on or before January 1, 2020.* An ACO that meets all the requirements for receiving shared savings payments under the BASIC track, Level C, receives a shared savings payment of up to 50 percent of all the savings under the updated benchmark, as determined on the basis of its quality performance under § 425.502 (up to the performance payment limit described in paragraph (d)(1)(iii)(B) of this section).
+
+(*2*) *For performance years beginning on or after January 1, 2021.* An ACO that meets all the requirements for receiving shared savings payments under the BASIC track, Level C, receives a shared savings payment of 50 percent of all the savings under the updated benchmark (up to the performance payment limit described in paragraph (d)(1)(iii)(B) of this section).
 
 (B) *Performance payment.* (*1*) If an ACO qualifies for savings by meeting or exceeding the MSR, the final sharing rate specified in paragraph (d)(1)(iii)(A) of this section applies to an ACO's savings on a first dollar basis.
 
@@ -86,7 +94,9 @@ Link to an amendment published at 85 FR 85042, Dec. 28, 2020.
 
 (*2*) Instead of the revenue-based loss recoupment limit determined under paragraph (d)(1)(iii)(D)(*1*) of this section, the loss recoupment limit for the ACO is 1 percent of the ACO's updated benchmark as determined under § 425.601, if the amount determined under paragraph (d)(1)(iii)(D)(*1*) of this section exceeds the amount that is 1 percent of the ACO's updated benchmark as determined under § 425.601.
 
-(iv) *Level D (two-sided model)* -
+(iv) *Level D (two-sided model)* - (A) *Final sharing rate* - (*1*) *For performance years beginning on or before January 1, 2020.* An ACO that meets all the requirements for receiving shared savings payments under the BASIC track, Level D, receives a shared savings payment of up to 50 percent of all the savings under the updated benchmark, as determined on the basis of its quality performance under § 425.502 (up to the performance payment limit described in paragraph (d)(1)(iv)(B) of this section).
+
+(*2*) *For performance years beginning on or after January 1, 2021.* An ACO that meets all the requirements for receiving shared savings payments under the BASIC track, Level D, receives a shared savings payment of 50 percent of all the savings under the updated benchmark (up to the performance payment limit described in paragraph (d)(1)(iv)(B) of this section).
 
 (B) *Performance payment.* (*1*) If an ACO qualifies for savings by meeting or exceeding the MSR, the final sharing rate specified in paragraph (d)(1)(iv)(A) of this section applies to an ACO's savings on a first dollar basis.
 
@@ -98,7 +108,9 @@ Link to an amendment published at 85 FR 85042, Dec. 28, 2020.
 
 (*2*) Instead of the revenue-based loss recoupment limit determined under paragraph (d)(1)(iv)(D)(*1*) of this section, the loss recoupment limit for the ACO is 2 percent of the ACO's updated benchmark as determined under § 425.601, if the amount determined under paragraph (d)(1)(iv)(D)(*1*) of this section exceeds the amount that is 2 percent of the ACO's updated benchmark as determined under § 425.601.
 
-(v) *Level E (two-sided model)* -
+(v) *Level E (two-sided model)* - (A) *Final sharing rate* - (*1*) *For performance years beginning on or before January 1, 2020.* An ACO that meets all the requirements for receiving shared savings payments under the BASIC track, Level E, receives a shared savings payment of up to 50 percent of all the savings under the updated benchmark, as determined on the basis of its quality performance under § 425.502 (up to the performance payment limit described in paragraph (d)(1)(v)(B) of this section).
+
+(*2*) *For performance years beginning on or after January 1, 2021.* An ACO that meets all the requirements for receiving shared savings payments under the BASIC track, Level E, receives a shared savings payment of 50 percent of all the savings under the updated benchmark (up to the performance payment limit described in paragraph (d)(1)(v)(B) of this section).
 
 (B) *Performance payment.* (*1*) If an ACO qualifies for savings by meeting or exceeding the MSR, the final sharing rate specified in paragraph (d)(1)(v)(A) of this section applies to an ACO's savings on a first dollar basis.
 
