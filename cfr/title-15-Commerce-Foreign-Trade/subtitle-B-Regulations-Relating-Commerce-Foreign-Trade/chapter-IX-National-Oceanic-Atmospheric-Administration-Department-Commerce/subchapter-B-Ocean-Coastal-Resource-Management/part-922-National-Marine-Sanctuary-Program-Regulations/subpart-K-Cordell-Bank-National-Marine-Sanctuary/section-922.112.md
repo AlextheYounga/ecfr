@@ -1,7 +1,5 @@
 ##### § 922.112 Prohibited or otherwise regulated activities. #####
 
-Link to an amendment published at 83 FR 55967, Nov. 9, 2018.
-
 (a) The following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted within the Sanctuary:
 
 (1) Exploring for, developing, or producing oil, gas, or minerals.
@@ -14,9 +12,11 @@ Link to an amendment published at 83 FR 55967, Nov. 9, 2018.
 
 (C) Clean vessel deck wash down, clean vessel engine cooling water, clean vessel generator cooling water, clean bilge water, or anchor wash;
 
-(D) For a vessel less than 300 GRT or a vessel 300 GRT or greater without sufficient holding capacity to hold graywater while within the Sanctuary, clean graywater as defined by section 312 of the FWPCA; or
+(D) For a vessel less than 300 GRT or a vessel 300 GRT or greater without sufficient holding capacity to hold graywater while within the Sanctuary, clean graywater as defined by section 312 of the FWPCA;
 
-(E) Vessel engine or generator exhaust.
+(E) Vessel engine or generator exhaust; or
+
+(F) For a United States Coast Guard vessel without sufficient holding tank capacity and without a Type I or II marine sanitation device, and operating within the designated area [2015 expansion area] defined in appendix C of this subpart, sewage and non-clean graywater as defined by section 312 of the FWPCA generated incidental to vessel use, and ammunition, pyrotechnics or other materials directly related to search and rescue and live ammunition training activities conducted by United States Coast Guard vessels and aircraft in the designated areas defined in appendix C of this subpart.
 
 (ii) Discharging or depositing from within or into the Sanctuary any material or other matter from a cruise ship except clean vessel engine cooling water, clean vessel generator cooling water, vessel engine or generator exhaust, clean bilge water, or anchor wash.
 
@@ -45,3 +45,5 @@ Link to an amendment published at 83 FR 55967, Nov. 9, 2018.
 (d) The prohibitions in paragraphs (a)(2) through (7) of this section do not apply to any activity executed in accordance with the scope, purpose, terms, and conditions of a National Marine Sanctuary permit issued pursuant to §§ 922.48 and 922.113 or a Special Use permit issued pursuant to section 310 of the Act.
 
 (e) Where necessary to prevent immediate, serious, and irreversible damage to a Sanctuary resource, any activity may be regulated within the limits of the Act on an emergency basis for no more than 120 days.
+
+[80 FR 13115, Mar. 12, 2015, as amended at 83 FR 55967, Nov. 9, 2018]

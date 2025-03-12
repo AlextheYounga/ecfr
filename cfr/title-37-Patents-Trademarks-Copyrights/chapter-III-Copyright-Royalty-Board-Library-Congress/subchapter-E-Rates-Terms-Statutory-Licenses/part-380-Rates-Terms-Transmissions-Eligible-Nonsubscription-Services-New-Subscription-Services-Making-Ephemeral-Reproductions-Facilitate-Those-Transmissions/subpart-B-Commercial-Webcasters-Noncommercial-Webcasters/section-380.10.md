@@ -1,6 +1,6 @@
 ##### § 380.10 Royalty fees for the public performance of sound recordings and the making of ephemeral recordings. #####
 
-Link to an amendment published at 83 FR 61125, November 28, 2018.
+Link to an amendment published at 83 FR 61125, November 28, 2018.Link to an amendment published at 83 FR 63419, December 10, 2018.
 
 (a) *Royalty fees.* For the year 2018, Licensees must pay royalty fees for all Eligible Transmissions of sound recordings at the following rates:
 

@@ -1,7 +1,5 @@
 ##### § 922.82 Prohibited or otherwise regulated activities. #####
 
-Link to an amendment published at 83 FR 55966, Nov. 9, 2018.
-
 (a) The following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted within the Sanctuary:
 
 (1) Exploring for, developing, or producing oil, gas or minerals.
@@ -14,13 +12,15 @@ Link to an amendment published at 83 FR 55966, Nov. 9, 2018.
 
 (iii) Clean vessel deck wash down, clean vessel engine cooling water, clean vessel generator cooling water, clean bilge water, or anchor wash;
 
-(iv) For a vessel less than 300 GRT or a vessel 300 GRT or greater without sufficient holding capacity to hold graywater while within the Sanctuary, clean graywater as defined by section 312 of the FWPCA; or
+(iv) For a vessel less than 300 GRT or a vessel 300 GRT or greater without sufficient holding capacity to hold graywater while within the Sanctuary, clean graywater as defined by section 312 of the FWPCA;
 
-(v) Vessel engine or generator exhaust.
+(v) Vessel engine or generator exhaust; or
+
+(vi) For a United States Coast Guard vessel without sufficient holding tank capacity and without a Type I or II marine sanitation device, and operating within the designated area [2015 expansion area] defined in appendix G of this subpart, sewage and non-clean graywater as defined by section 312 of the FWPCA generated incidental to vessel use, and ammunition, pyrotechnics or other materials directly related to search and rescue and live ammunition training activities conducted by United States Coast Guard vessels and aircraft in the designated areas defined in appendix G of this subpart.
 
 (3) Discharging or depositing from within or into the Sanctuary any material or other matter from a cruise ship except clean vessel engine cooling water, clean vessel generator cooling water, vessel engine or generator exhaust, clean bilge water, or anchor wash.
 
-(4) Discharging or depositing, from beyond the boundary of the Sanctuary, any material or other matter that subsequently enters the Sanctuary and injures a Sanctuary resource or quality, except for the material or other matter excepted in paragraphs (a)(2)(i) through (v) and (a)(3) of this section.
+(4) Discharging or depositing, from beyond the boundary of the Sanctuary, any material or other matter that subsequently enters the Sanctuary and injures a Sanctuary resource or quality, except for the material or other matter excepted in paragraphs (a)(2)(i) through (vi) and (a)(3) of this section.
 
 (5) Constructing any structure other than a navigation aid on or in the submerged lands of the Sanctuary; placing or abandoning any structure on or in the submerged lands of the Sanctuary; or drilling into, dredging, or otherwise altering the submerged lands of the Sanctuary in any way, except:
 
@@ -65,3 +65,5 @@ Link to an amendment published at 83 FR 55966, Nov. 9, 2018.
 (c) The prohibitions in paragraph (a) of this section do not apply to activities necessary to respond to an emergency threatening life, property, or the environment.
 
 (d) The prohibitions in paragraphs (a)(2) through (9) and (a)(11) through (16) of this section do not apply to any activity executed in accordance with the scope, purpose, terms, and conditions of a National Marine Sanctuary permit issued pursuant to §§ 922.48 and 922.83 or a Special Use permit issued pursuant to section 310 of the Act.
+
+[80 FR 13108, Mar. 12, 2015, as amended at 83 FR 55966, Nov. 9, 2018]
