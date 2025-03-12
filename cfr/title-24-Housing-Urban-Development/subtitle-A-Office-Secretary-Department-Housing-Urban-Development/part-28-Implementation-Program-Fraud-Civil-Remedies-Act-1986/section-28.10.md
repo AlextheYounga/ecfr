@@ -2,6 +2,8 @@
 
 (a) *Claims.* (1) A civil penalty of not more than $11,803 may be imposed upon any person who makes, presents, or submits, or causes to be made, presented, or submitted, a claim that the person knows or has reason to know:
 
+(i) Is false, fictitious, or fraudulent;
+
 (ii) Includes or is supported by a written statement which asserts a material fact which is false, fictitious, or fraudulent;
 
 (iii) Includes or is supported by any written statement that:
@@ -46,4 +48,4 @@
 
 (e) *Joint and several liability.* A civil penalty or assessment may be imposed jointly and severally if more than one person is determined to be liable.
 
-[61 FR 50213, Sept. 24, 1996, as amended at 68 FR 12787, Mar. 17, 2003; 72 FR 5588, Feb. 6, 2007; 73 FR 76831, Dec. 17, 2008; 78 FR 4059, Jan. 18, 2013; 81 FR 38935, June 15, 2016; 82 FR 24524, May 30, 2017; 83 FR 32793, July 16, 2018; 84 FR 9453, Mar. 15, 2019; 85 FR 13043, Mar. 6, 2020; 86 FR 14372, Mar. 16, 2021]
+[61 FR 50213, Sept. 24, 1996, as amended at 68 FR 12787, Mar. 17, 2003; 72 FR 5588, Feb. 6, 2007; 73 FR 76831, Dec. 17, 2008; 78 FR 4059, Jan. 18, 2013; 81 FR 38935, June 15, 2016; 82 FR 24524, May 30, 2017; 83 FR 32793, July 16, 2018; 84 FR 9453, Mar. 15, 2019; 85 FR 13043, Mar. 6, 2020; 86 FR 14372, Mar. 16, 2021; 86 FR 31619, June 15, 2021]

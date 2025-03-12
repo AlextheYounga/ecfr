@@ -1,0 +1,15 @@
+##### § 302.3 Who may apply. #####
+
+(a) *Eligible recipient.* To apply for a CMC grant under this part, an applicant must be an eligible recipient in an anchor community as defined in § 302.2. NTIA will rely on the following sources of information to determine whether an applicant is an eligible recipient:
+
+|                                       Type                                       |                                                                 NTIA Validation method                                                                  |
+|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                 Historically Black College or University (HBCU)                  |                                                             Most recent NCES list of HBCUs.                                                             |
+|                        Hispanic-Serving Institution (HSI)                        |          Defined as eligible or potentially eligible in the most recent Dep't of Education Eligibility Matrix available, in the HSI category.           |
+|                        Tribal College or University (TCU)                        |                                                             Most recent NCES list of TCUs.                                                              |
+|                     Alaska Native and Native Hawaiian (ANNH)                     |    Defined as eligible or potentially eligible in the most recent Dep't of Education Eligibility Matrix available, in the ANNH or ANNH F categories.    |
+|                      Predominantly Black Institution (PBI)                       |    Defined as eligible or potentially eligible in the most recent Dep't of Education Eligibility Matrix available, in the PBI F or PBI A categories.    |
+|Asian American and Native American Pacific Islander-Serving Institution (AANAPISI)|Defined as eligible or potentially eligible in the most recent Dep't of Education Eligibility Matrix available, in the AANAPISI or AANAPISI F categories.|
+|             Native American-Serving Non-Tribal Institution (NASNTI)              |  Defined as eligible or potentially eligible in the most recent Dep't of Education Eligibility Matrix available, in the NASNTI or NASNTI F categories.  |
+
+(b) *Eligibility for consortia members.* For consortium applications led by eligible recipients described in paragraph (a) of this section, NTIA will require that any Minority Business Enterprise (MBE) consortium member self-certify that it is a MBE-designated entity. For consortium members that claim tax-exempt status, NTIA will utilize the Internal Revenue Service's 501(c)(3) certification portal/database to verify the consortium member's tax-exempt status.

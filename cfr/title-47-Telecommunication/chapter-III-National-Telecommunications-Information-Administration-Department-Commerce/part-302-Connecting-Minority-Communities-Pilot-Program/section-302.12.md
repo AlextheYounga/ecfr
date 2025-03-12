@@ -1,0 +1,3 @@
+##### § 302.12 Program termination. #####
+
+Except with respect to the report required under the Consolidated Appropriations Act, 2021, Division N, Title IX, section 902(c)(7), and the authority of the Secretary of Commerce and the Inspector General of the Department of Commerce described in section 902(c)(8), the CMC Pilot Program, including all reporting requirements under section 902, shall terminate on the date on which the amounts made available to carry out the CMC Pilot Program are fully expended.

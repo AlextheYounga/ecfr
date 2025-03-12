@@ -1,6 +1,6 @@
 ##### § 50.4 Definitions. #####
 
-Link to an amendment published at 86 FR 30540, June 9, 2021.
+Link to an amendment published at 86 FR 30540, June 9, 2021.Link to an amendment published at 86 FR 31620, June 15, 2021.
 
 For purposes of this part:
 
