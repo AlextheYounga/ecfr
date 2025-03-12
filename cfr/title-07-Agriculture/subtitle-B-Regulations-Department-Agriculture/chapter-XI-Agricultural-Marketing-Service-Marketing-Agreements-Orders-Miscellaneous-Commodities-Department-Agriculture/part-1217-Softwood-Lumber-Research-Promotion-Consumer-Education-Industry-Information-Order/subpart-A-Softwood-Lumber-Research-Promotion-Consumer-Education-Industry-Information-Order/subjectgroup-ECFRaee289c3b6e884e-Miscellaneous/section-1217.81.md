@@ -1,5 +1,7 @@
 ##### § 1217.81 Referenda. #####
 
+Link to an amendment published at 84 FR 50300, Sept. 25, 2019.
+
 (a) *Initial referendum.* The Order shall not become effective unless the Order is approved by a majority of domestic manufacturers and importers voting in the referendum who also represent a majority of the volume of softwood lumber represented in the referendum who, during a representative period determined by the Secretary, have been engaged in the domestic manufacturing or importation of softwood lumber. A single entity who domestically manufactures and imports softwood lumber may cast one vote in the referendum.
 
 (b) *Subsequent referenda.* The Secretary shall conduct subsequent referenda:

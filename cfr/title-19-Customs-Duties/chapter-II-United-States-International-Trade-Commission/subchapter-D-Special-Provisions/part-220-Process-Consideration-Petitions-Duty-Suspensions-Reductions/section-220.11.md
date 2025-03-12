@@ -1,37 +1,35 @@
-##### § 220.11 Commission preliminary report. #####
+##### § 220.11 Public comment period. #####
 
-Link to an amendment published at 84 FR 44693, Aug. 27, 2019.
+(a) *Time for filing.* Not later than 30 days after expiration of the 60-day period for filing petitions, the Commission will also publish in the Federal Register and on its website a notice requesting members of the public to submit comments on the petitions for duty suspensions and reductions. To be considered, such comments must be filed through the Commission's secure web portal during the 45-day period following publication of the Commission's notice requesting comments from members of the public. For purposes of this section, all petitions posted by the Commission on its website, whether or not posted early, shall be deemed to be officially published by the Commission on its website on the date of publication of the notice seeking written comments from members of the public on the petitions.
 
-(a) Not later than 150 days after the Commission publishes the petitions and Commission disclosure forms submitted, the Commission will submit a preliminary report on the petitions filed to the Committees. The report will include the following information for each petition filed -
+(b) *In general.* The comment shall include the following information:
 
-(1) The HTS heading or subheading in which each article that is the subject of a petition is classified, as identified by documentation supplied to the Commission and any supporting information obtained by the Commission.
+(1) The name, telephone number, and postal and email address of the commenter, and if appropriate, its representative in the matter;
 
-(2) A determination of whether or not domestic production of the article that is the subject of the petition exists, taking into account the report of the Secretary of Commerce under section 3(c)(1) of the Act, and, if such production exists, whether or not a domestic producer of the article objects to the duty suspension or reduction.
+(2) A statement as to whether the commenter is a U.S. producer, importer, government entity, trade association or group, or other;
 
-(3) Any technical changes to the description of the article that is the subject of the petition for the duty suspension or reduction that are necessary for purposes of administration when the article is presented for importation, taking into account the report of the Secretary of Commerce under section 3(c)(2) of the Act.
+(3) A statement as to whether the comment supports the petition; objects to the petition; or takes no position with respect to the petitions/provides other comment;
 
-(4) An estimate of the amount of loss in revenue to the United States that would no longer be collected if the duty suspension or reduction takes effect.
+(4) If the commenter is an importer, a list of the leading source countries of the product;
 
-(5) A determination of whether or not the duty suspension or reduction is available to any person that imports the article that is the subject of the duty suspension or reduction.
+(5) A certification from the commenter that the information supplied is complete and correct to the best of the commenter's knowledge and belief, and an acknowledgement from the commenter that the information submitted is subject to audit and verification by the Commission; and
 
-(6) The likely beneficiaries of each duty suspension or reduction, including whether the petitioner is a likely beneficiary.
+(6) Comment formats may be constrained in size, length, attachments, file type, etc., by system limitations in the Commission's secure web portal. See the Commission's Handbook on MTB Filing Procedures as posted on the Commission's website for further information.
 
-(b) The preliminary report will also include the following information:
+(c) *Comments from domestic producers.* Comments from a firm claiming to be a domestic producer, as defined in § 220.2(g), shall also include:
 
-(1) A list of petitions for duty suspensions and reductions that meet the requirements of the Act without modifications.
+(1) A description of the product alleged to be identical, like, or directly competitive with the product that is the subject of the petition;
 
-(2) A list of petitions for duty suspensions and reductions for which the Commission recommends technical corrections (*i.e.,* corrections to the article description that do not otherwise substantially alter the scope or HTS classification of the articles covered by the petition) in order to meet the requirements of the Act, with the correction specified.
+(2) The Chemical Abstracts Service registry number for the product (if applicable);
 
-(3) A list of petitions for duty suspensions and reductions for which the Commission recommends modifications to the amount of the duty suspension or reduction that is the subject of the petition to comply with the requirements of the Act, with the modification specified.
+(3) A statement as to whether an identical, like, or directly competitive product was produced in the current calendar year and, if not, the year in which the product was last produced or in which production is expected to begin within the United States;
 
-(4) A list of petitions for duty suspensions and reductions for which the Commission recommends modifications to the scope of the articles that are the subject of the petitions in order to address objections by domestic producers to such petitions, with the modifications specified.
+(4) A statement as to whether such product is generally available for sale, and if not, an explanation of its lack of availability for sale; and/or
 
-(5) A list of the following:
+(5) The physical address(es) for the location(s) of the production facility(ies) producing the product within the United States; and
 
-(i) Petitions for duty suspensions and reductions that the Commission has determined do not contain the information required under section 3(b)(2) of the Act.
+(6) Evidence demonstrating the existence of domestic production (*e.g.,* catalogs, press releases, marketing materials, specification sheets, copies of orders for the product).
 
-(ii) Petitions for duty suspensions and reductions with respect to which the Commission has determined the petitioner is not a likely beneficiary.
+(d) *Additional comment period.* The Commission may provide additional opportunity for public comment and, if so, will announce that comment period in the Federal Register.
 
-(6) A list of petitions for duty suspensions and reductions that the Commission does not recommend for inclusion in a miscellaneous tariff bill, other than petitions specified in section 3(b)(3)(C)(ii)(V) of the Act.
-
-(c) The Commission will forward to the Committees any additional information submitted to the Commission by the Secretary of Commerce after the Commission transmits its preliminary report.
+[84 FR 44693, Aug. 27, 2019]

@@ -1,5 +1,7 @@
 ##### § 1217.41 Nominations and appointments. #####
 
+Link to an amendment published at 84 FR 50299, Sept. 25, 2019.
+
 (a) Initial nominations will be submitted to the Secretary by the Blue Ribbon Commission. Before considering any nominations, the BRC shall publicize the nomination process, using trade press or other means it deems appropriate, and shall outreach to all known manufacturers for the U.S. market who domestically manufacture and/or import 15 million board feet or more of softwood lumber per fiscal year in order to generate nominees that reflect the different operations within the softwood lumber industry. The BRC may use regional caucuses, mail or other methods to elicit potential nominees. The BRC shall submit the nominations to the Secretary and recommend two nominees for each Board position specified in paragraphs (b)(1), (b)(2)(i) and (b)(2)(ii) of § 1217.40. All nominees solicited pursuant to § 1217.40(b)(2)(iii) shall be submitted to the Secretary through the BRC. From the nominations submitted by the BRC, the Secretary shall select the members of the Board.
 
 (b) Subsequent nominations shall be conducted as follows:

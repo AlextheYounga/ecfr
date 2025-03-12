@@ -1,6 +1,6 @@
 ##### § 402.16 Reinitiation of formal consultation. #####
 
-Link to an amendment published at 84 FR 45017, Aug. 27, 2019.
+Link to an amendment published at 84 FR 45017, Aug. 27, 2019.This amendment was delayed until Oct. 28, 2019, at 84 FR 50333, Sept. 25, 2019.
 
 Reinitiation of formal consultation is required and shall be requested by the Federal agency or by the Service, where discretionary Federal involvement or control over the action has been retained or is authorized by law and:
 

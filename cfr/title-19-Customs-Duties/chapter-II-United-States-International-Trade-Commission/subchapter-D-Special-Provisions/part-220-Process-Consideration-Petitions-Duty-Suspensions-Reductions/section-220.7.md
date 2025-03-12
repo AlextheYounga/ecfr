@@ -1,6 +1,4 @@
-##### § 220.7 Properly filed petition. #####
-
-Link to an amendment published at 84 FR 44693, Aug. 27, 2019.
+##### § 220.7 Properly filed petition; identical and overlapping petitions from same petitioner. #####
 
 (a) *In general.* A petition will not be considered to be properly filed unless the petition and the Commission disclosure form are filed in accordance with and contain the information required by §§ 220.3 through 220.5
 

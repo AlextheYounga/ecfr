@@ -1,9 +1,17 @@
-##### § 220.13 Confidential business information. #####
+##### § 220.13 Commission final report. #####
 
-Link to an amendment published at 84 FR 44693, Aug. 27, 2019.
+(a) The Commission will submit its final report on each petition for a duty suspension or reduction specified in the preliminary report to the Committees not later than 60 days after the Commission submits its preliminary report. The final report will contain the following information—
 
-(a) *In general.* The Commission will not release information which the Commission considers to be confidential business information within the meaning of § 201.6(a) of this chapter unless the party submitting the confidential business information had notice, at the time of submission, that such information would be released by the Commission, or such party subsequently consents to the release of the information.
+(1) The information required to be included in a preliminary report under section 3(b)(3)(C)(i)-(ii) of the Act and updated as appropriate after considering any information submitted by the Committees under section 3(b)(3)(D) of the Act.
 
-(b) *Exceptions.* (1) In calculating the estimated revenue loss required under the Act, the Commission may base its estimates in whole or in part on the estimated values of imports submitted by petitioners in their petitions.
+(2) A determination of the Commission whether—
 
-(2) The Commission may disclose some or all of the confidential business information provided to the Commission in petitions and public comments to the U.S. Department of Commerce for use in preparing its report to the Commission and the Committees, and to the U.S. Department of Agriculture and CBP for use in providing information for Commerce's report.
+(i) The duty suspension or reduction can likely be administered by U.S. Customs and Border Protection;
+
+(ii) The estimated loss in revenue to the United States from the duty suspension or reduction does not exceed $500,000 in a calendar year during which the duty suspension or reduction would be in effect; and
+
+(iii) The duty suspension or reduction is available to any person importing the articles that is the subject of the duty suspension or reduction.
+
+(b) [Reserved]
+
+[81 FR 67149, Sept. 30, 2016. Redesignated at 84 FR 44693, Aug. 27, 2019]
