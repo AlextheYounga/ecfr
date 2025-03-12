@@ -1,6 +1,6 @@
 ##### § 17.85 Special rules - invertebrates. #####
 
-Link to an amendment published at 87 FR 8965, Feb. 17, 2022.Link to an amendment published at 87 FR 15145, Mar. 17, 2022.
+Link to an amendment published at 87 FR 15145, Mar. 17, 2022.
 
 (a) *Seventeen mollusks in the Tennessee River.* The species in the following table comprise nonessential experimental populations (NEPs):
 
@@ -15,7 +15,7 @@ Link to an amendment published at 87 FR 8965, Feb. 17, 2022.Link to an amendment
 |        Cumberlandian combshell        |      Epioblasma brevidens      |
 |          Alabama lampmussel           |      Lampsilis virescens       |
 |       winged mapleleaf (mussel)       |        Quadrula fragosa        |
-| Cumberland monkeyface (pearlymussel)  |      Quadrula intermedia       |
+| Cumberland monkeyface (pearlymussel)  |     Theliderma intermedia.     |
 |             oyster mussel             |    Epioblasma capsaeformis     |
 |         birdwing pearlymussel         |         Lemiox rimosus         |
 |         cracking pearlymussel         |         Hemistena lata         |
@@ -51,8 +51,8 @@ Link to an amendment published at 87 FR 8965, Feb. 17, 2022.Link to an amendment
 |   Cumberland bean (pearlymussel)    |    Villosa trabalis    |
 |       Cumberlandian combshell       |  Epioblasma brevidens  |
 |              fanshell               |  Cyprogenia stegaria   |
-|Appalachian monkeyface (pearlymussel)|    Quadrula sparsa     |
-|Cumberland monkeyface (pearlymussel) |  Quadrula intermedia   |
+|Appalachian monkeyface (pearlymussel)|   Theliderma sparsa.   |
+|Cumberland monkeyface (pearlymussel) | Theliderma intermedia. |
 |            oyster mussel            |Epioblasma capsaeformis |
 |        birdwing pearlymussel        |     Lemiox rimosus     |
 |        cracking pearlymussel        |     Hemistena lata     |
@@ -159,4 +159,4 @@ Link to an amendment published at 87 FR 8965, Feb. 17, 2022.Link to an amendment
 
 (iii) *Note:* Map of Saddle Mountain NEP area for the Oregon silverspot butterfly follows:
 
-![](/graphics/er23jn17.003.gif)[66 FR 32263, June 14, 2001, as amended at 72 FR 52459, Sept. 13, 2007; 77 FR 16717, Mar. 22, 2012; 82 FR 28578, June 23, 2017]
+![](/graphics/er23jn17.003.gif)[66 FR 32263, June 14, 2001, as amended at 72 FR 52459, Sept. 13, 2007; 77 FR 16717, Mar. 22, 2012; 82 FR 28578, June 23, 2017; 87 FR 8965, Feb.17, 2022]
