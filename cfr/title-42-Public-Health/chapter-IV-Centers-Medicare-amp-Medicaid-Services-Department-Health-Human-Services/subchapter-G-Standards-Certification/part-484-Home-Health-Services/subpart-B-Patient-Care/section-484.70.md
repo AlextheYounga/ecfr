@@ -1,5 +1,7 @@
 ##### § 484.70 Condition of participation: Infection prevention and control. #####
 
+Link to an amendment published at 88 FR 36510, June 5, 2023.
+
 The HHA must maintain and document an infection control program which has as its goal the prevention and control of infections and communicable diseases.
 
 (a) *Standard: Prevention.* The HHA must follow accepted standards of practice, including the use of standard precautions, to prevent the transmission of infections and communicable diseases.

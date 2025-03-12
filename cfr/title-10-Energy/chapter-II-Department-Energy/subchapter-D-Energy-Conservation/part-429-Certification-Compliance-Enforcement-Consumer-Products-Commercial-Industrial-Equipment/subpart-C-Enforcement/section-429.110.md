@@ -1,7 +1,5 @@
 ##### § 429.110 Enforcement testing. #####
 
-Link to an amendment published at 88 FR 28837, May 4, 2023.
-
 (a) *General provisions.* (1) If DOE has reason to believe that a basic model is not in compliance it may test for enforcement.
 
 (2) For variable refrigerant flow multi-split air conditioners and heat pumps (other than air-cooled with rated cooling capacity less than 65,000 Btu/h), when determining compliance with an energy conservation standard based on IEER, DOE may test for enforcement if DOE has reason to believe that a basic model is not in compliance, has invalid certified operational settings for critical parameter values, or has an otherwise invalid certified rating.
@@ -46,7 +44,7 @@ Link to an amendment published at 88 FR 28837, May 4, 2023.
 
 (1) For products with applicable energy conservation standard(s) in § 430.32 of this chapter, and commercial prerinse spray valves, illuminated exit signs, traffic signal modules and pedestrian modules, commercial clothes washers, dedicated-purpose pool pumps, circulator pumps, and metal halide lamp ballasts, DOE will use a sample size of not more than 21 units and follow the sampling plans in appendix A of this subpart (Sampling for Enforcement Testing of Covered Consumer Products and Certain High-Volume Commercial Equipment).
 
-(2) For automatic commercial ice makers; commercial refrigerators, freezers, and refrigerator-freezers; refrigerated bottled or canned vending machines; commercial air conditioners and heat pumps; commercial packaged boilers; commercial warm air furnaces; commercial water heating equipment; and walk-in cooler and walk-in freezer refrigeration systems, DOE will use an initial sample size of not more than four units and follow the sampling plans in appendix B of this subpart (Sampling Plan for Enforcement Testing of Covered Equipment and Certain Low-Volume Covered Products).
+(2) For automatic commercial ice makers; commercial refrigerators, freezers, and refrigerator-freezers; refrigerated bottled or canned vending machines; commercial air conditioners and heat pumps; commercial packaged boilers; commercial warm air furnaces; commercial water heating equipment; and walk-in cooler and walk-in freezer doors, panels, and refrigeration systems, DOE will use an initial sample size of not more than four units and follow the sampling plans in appendix B to this subpart.
 
 (3) If fewer than four units of a basic model are available for testing (under paragraphs (e)(1) or (2) of this section) when the manufacturer receives the notice, then:
 
@@ -78,4 +76,4 @@ Link to an amendment published at 88 FR 28837, May 4, 2023.
 
 (9) For the purposes of this section, available units are those that are available for distribution in commerce within the United States.
 
-[76 FR 12451, Mar. 7, 2011, as amended at 81 FR 4145, Jan. 25, 2016; 81 FR 31841, May 20, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 36918, Aug. 7, 2017; 87 FR 57298, Sept. 19, 2022; 87 FR 63895, Oct. 20, 2022]
+[76 FR 12451, Mar. 7, 2011, as amended at 81 FR 4145, Jan. 25, 2016; 81 FR 31841, May 20, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 36918, Aug. 7, 2017; 87 FR 57298, Sept. 19, 2022; 87 FR 63895, Oct. 20, 2022; 88 FR 28837, May 4, 2023]

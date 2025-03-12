@@ -1,16 +1,16 @@
 ##### § 422.112 Access to services. #####
 
-Link to an amendment published at 88 FR 22330, Apr. 12, 2023.
-
 (a) *Rules for coordinated care plans.* An MA organization that offers an MA coordinated care plan may specify the networks of providers from whom enrollees may obtain services if the MA organization ensures that all covered services, including supplemental services contracted for by (or on behalf of) the Medicare enrollee, are available and accessible under the plan. To accomplish this, the MA organization must meet the following requirements:
 
-(1) *Provider network.* (i) Maintain and monitor a network of appropriate providers that is supported by written agreements and is sufficient to provide adequate access to covered services to meet the needs of the population served. These providers are typically used in the network as primary care providers (PCPs), specialists, hospitals, skilled nursing facilities, home health agencies, ambulatory clinics, and other providers.
+(1) *Provider network.* (i) Maintain and monitor a network of appropriate providers that is supported by written agreements and is sufficient to provide adequate access to covered services to meet the needs of the population served. These providers are typically used in the network as primary care providers (PCPs), specialists, hospitals, skilled nursing facilities, home health agencies, ambulatory clinics, and other providers. The network must include providers that specialize in behavioral health services.
 
 (ii) *Exception*: MA regional plans, upon CMS pre-approval, can use methods other than written agreements to establish that access requirements are met.
 
+(iii) Arrange for and cover any medically necessary covered benefit outside of the plan provider network, but at in-network cost sharing, when an in-network provider or benefit is unavailable or inadequate to meet an enrollee's medical needs.
+
 (2) *PCP panel.* Establish a panel of PCPs from which the enrollee may select a PCP. If an MA organization requires its enrollees to obtain a referral in most situations before receiving services from a specialist, the MA organization must either assign a PCP for purposes of making the needed referral or make other arrangements to ensure access to medically necessary specialty care.
 
-(3) *Specialty care.* Provide or arrange for necessary specialty care, and in particular give women enrollees the option of direct access to a women's health specialist within the network for women's routine and preventive health care services provided as basic benefits (as defined in § 422.2). The MA organization arranges for specialty care outside of the plan provider network when network providers are unavailable or inadequate to meet an enrollee's medical needs.
+(3) *Specialty care.* Provide or arrange for necessary specialty care, and in particular give women enrollees the option of direct access to a women's health specialist within the network for women's routine and preventive health care services provided as basic benefits (as defined in § 422.2).
 
 (4) *Service area expansion.* If seeking a service area expansion for an MA plan, demonstrate that the number and type of providers available to plan enrollees are sufficient to meet projected needs of the population to be served.
 
@@ -18,7 +18,13 @@ Link to an amendment published at 88 FR 22330, Apr. 12, 2023.
 
 (6) *Written standards.* Establish written standards for the following:
 
-(i) Timeliness of access to care and member services that meet or exceed standards established by CMS. Timely access to care and member services within a plan's provider network must be continuously monitored to ensure compliance with these standards, and the MA organization must take corrective action as necessary.
+(i) Timeliness of access to care and member services that meet or exceed standards in this paragraph. The MA organization must continuously monitor access to care and member services and must take corrective action as necessary to ensure that appointment wait times in the provider network comply with these standards. The minimum standards for appointment wait times for primary care and behavioral health services are as follows for appointments:
+
+(A) Urgently needed services or emergency—immediately;
+
+(B) Services that are not emergency or urgently needed, but the enrollee requires medical attention—within 7 business days; and
+
+(C) Routine and preventive care—within 30 business days.
 
 (ii) Policies and procedures (coverage rules, practice guidelines, payment policies, and utilization management) that allow for individual medical necessity determinations.
 
@@ -30,7 +36,21 @@ Link to an amendment published at 88 FR 22330, Apr. 12, 2023.
 
 (ii) Plan services are available 24 hours a day, 7 days a week, when medically necessary.
 
-(8) *Cultural considerations.* Ensure that services are provided in a culturally competent manner to all enrollees, including those with limited English proficiency or reading skills, and diverse cultural and ethnic backgrounds.
+(8) *Ensuring equitable access to Medicare Advantage (MA) Services.* Ensure that services are provided in a culturally competent manner and to promote equitable access to all enrollees, including the following:
+
+(i) People with limited English proficiency or reading skills.
+
+(ii) People of ethnic, cultural, racial, or religious minorities.
+
+(iii) People with disabilities.
+
+(iv) People who identify as lesbian, gay, bisexual, or other diverse sexual orientations.
+
+(v) People who identify as transgender, nonbinary, and other diverse gender identities, or people who were born intersex.
+
+(vi) People living in rural areas and other areas with high levels of deprivation.
+
+(vii) People otherwise adversely affected by persistent poverty or inequality.
 
 (9) *Ambulance services, emergency and urgently needed services, and post-stabilization care services coverage.* Provide coverage for ambulance services, emergency and urgently needed services, and post-stabilization care services in accordance with § 422.113.
 
@@ -52,7 +72,7 @@ Link to an amendment published at 88 FR 22330, Apr. 12, 2023.
 
 (2) Offering to provide each enrollee with an ongoing source of primary care and providing a primary care source to each enrollee who accepts the offer;
 
-(3) Programs for coordination of plan services with community and social services generally available through contracting or noncontracting providers in the area served by the MA plan, including nursing home and community-based services; and
+(3) Programs for coordination of plan services with community and social services generally available through contracting or noncontracting providers in the area served by the MA plan, including nursing home and community-based services, and behavioral health services; and
 
 (4) Procedures to ensure that the MA organization and its provider network have the information required for effective and continuous patient care and quality review, including procedures to ensure that—
 
@@ -72,6 +92,18 @@ Link to an amendment published at 88 FR 22330, Apr. 12, 2023.
 
 (ii) Issue the determination and authorize or provide the benefit under Part A or Part B or as a benefit under Part D as expeditiously as the enrollee's health condition requires, in accordance with the requirements of subpart M of this part and subpart M of part 423 of this chapter, as appropriate, when a party requests a coverage determination.
 
+(8)(i) With respect to basic benefits, policies for using prior authorization that at a minimum include that for enrollees undergoing an active course of treatment—
+
+(A) Approval of a prior authorization request for a course of treatment must be valid for as long as medically necessary to avoid disruptions in care, in accordance with applicable coverage criteria, the individual patient's medical history, and the treating provider's recommendation; and
+
+(B) A minimum 90-day transition period for any active course(s) of treatment when an enrollee has enrolled in an MA plan after starting a course of treatment, even if the service is furnished by an out-of-network provider. This includes enrollees new to a plan and enrollees new to Medicare. The MA organization must not disrupt or require reauthorization for an active course of treatment for new plan enrollees for a period of at least 90 days.
+
+(ii) For purposes of this paragraph (b)(8), the following definitions apply:
+
+(A) *Course of treatment* means as a prescribed order or ordered course of treatment for a specific individual with a specific condition is outlined and decided upon ahead of time with the patient and provider. A course of treatment may but is not required to be part of a treatment plan.
+
+(B) *Active course of treatment* means a course of treatment in which a patient is actively seeing the provider and following the course of treatment.
+
 (c) *Essential hospital.* An MA regional plan may seek, upon application to CMS, to designate a noncontracting hospital as an essential hospital as defined in section 1858(h) of the Act under the following conditions:
 
 (1) The hospital that the MA regional plan seeks to designate as essential is a general acute care hospital identified as a “subsection(d)” hospital as defined in section 1886(d)(1)(B) of the Act.
@@ -88,4 +120,4 @@ Link to an amendment published at 88 FR 22330, Apr. 12, 2023.
 
 (7) If CMS determines the requirements in paragraphs (c)(1) through (c)(4) of this section have been met, (and if they continue to be met upon annual renewal of the CMS contract with the MA organization offering the MA regional plan), then the hospital designated by the MA regional plan in paragraph (c)(1) of this section shall be “deemed” to be a network hospital to that MA regional plan based on the exception in paragraph (a)(1)(ii) of this section and normal in-network inpatient hospital cost sharing levels (including the catastrophic limit described in § 422.101(d)(2)) shall apply to all plan members accessing covered inpatient hospital services in that hospital.
 
-[64 FR 7980, Feb. 17, 1999, as amended at 65 FR 40321, June 29, 2000; 70 FR 4722, Jan. 28, 2005; 70 FR 76197, Dec. 23, 2005; 75 FR 19805, Apr. 15, 2010; 76 FR 21563, Apr. 15, 2011; 80 FR 7959, Feb. 12, 2015]
+[64 FR 7980, Feb. 17, 1999, as amended at 65 FR 40321, June 29, 2000; 70 FR 4722, Jan. 28, 2005; 70 FR 76197, Dec. 23, 2005; 75 FR 19805, Apr. 15, 2010; 76 FR 21563, Apr. 15, 2011; 80 FR 7959, Feb. 12, 2015; 88 FR 22330, Apr. 12, 2023]

@@ -32,12 +32,6 @@
 
 (5) For a protest alleging that the protested concern failed to attempt to maintain compliance with the 35% HUBZone residency requirement during the performance of a HUBZone contract, the protest must state all specific grounds explaining why the protester believes that at least 20% of the protested firm's employees do not reside in a HUBZone.
 
-(2) For a protest filed against a HUBZone joint venture, the protest must state all specific grounds for why—
-
-(i) The HUBZone small business concern partner to the joint venture did not meet the HUBZone eligibility requirements set forth in § 126.200 at the time the concern applied for certification or at the time SBA last recertified the concern as a HUBZone small business concern; and/or
-
-(ii) The protested HUBZone joint venture did not meet the requirements set forth in § 126.616 at the time the joint venture submitted an offer for a HUBZone contract.
-
 (c) *Filing.* (1) An interested party other than a contracting officer or SBA must submit its written protest to the contracting officer.
 
 (2) A contracting officer and SBA must submit their protest to the D/HUB.

@@ -1,7 +1,5 @@
 ##### § 422.111 Disclosure requirements. #####
 
-Link to an amendment published at 88 FR 22329, Apr. 12, 2023.
-
 (a) *Detailed description.* An MA organization must disclose the information specified in paragraph (b) of this section in the manner specified by CMS—
 
 (1) To each enrollee electing an MA plan it offers;
@@ -24,7 +22,7 @@ Link to an amendment published at 88 FR 22329, Apr. 12, 2023.
 
 (iv) The availability of the Medicare hospice option and any approved hospices in the service area, including those the MA organization owns, controls, or has a financial interest in.
 
-(3) *Access.* (i) The number, mix, and distribution (addresses) of providers from whom enrollees may reasonably be expected to obtain services; any out-of network coverage; any point-of-service option, including the supplemental premium for that option; and how the MA organization meets the requirements of §§ 422.112 and 422.114 for access to services offered under the plan.
+(3) *Access.* (i) The number, mix, and distribution (addresses) of providers from whom enrollees may reasonably be expected to obtain services; each provider's cultural and linguistic capabilities, including languages (including American Sign Language) offered by the provider or a skilled medical interpreter at the provider's office; any out-of-network coverage; any point-of-service option, including the supplemental premium for that option; and how the MA organization meets the requirements of §§ 422.112 and 422.114 for access to services offered under the plan.
 
 (ii) The process MA regional plan enrollees should follow to secure in-network cost sharing when covered services are not readily available from contracted network providers.
 
@@ -76,7 +74,23 @@ Link to an amendment published at 88 FR 22329, Apr. 12, 2023.
 
 (3) For all other changes, notify all enrollees at least 30 days before the intended effective date of the changes.
 
-(e) *Changes to provider network.* The MA organization must make a good faith effort to provide written notice of a termination of a contracted provider at least 30 calendar days before the termination effective date to all enrollees who are patients seen on a regular basis by the provider whose contract is terminating, irrespective of whether the termination was for cause or without cause. When a contract termination involves a primary care professional, all enrollees who are patients of that primary care professional must be notified.
+(e) *Changes to provider network.* The MA organization must provide enrollees notice of a termination of a contracted provider, irrespective of whether the termination was for cause or without cause, in accordance with § 422.2267(e)(12). The MA organization must make a good faith effort to provide enrollees notice of a for-cause termination of a contracted provider within the timeframes required by this paragraph (e). For all terminations, the MA organization must meet the following requirements:
+
+(1) For contract terminations that involve a primary care or behavioral health provider:
+
+(i) Provide written notice and make one attempt at telephonic notice to those enrollees identified in paragraph (e)(1)(iii) of this section who have not opted out of calls regarding plan business as described in § 422.2264(b),
+
+(ii) At least 45 calendar days before the termination effective date, and
+
+(iii) To all enrollees who are currently assigned to that primary care provider and to enrollees who have been patients of that primary care or behavioral health provider within the past three years.
+
+(2) For contract terminations that involve specialty types other than primary care or behavioral health:
+
+(i) Provide written notice,
+
+(ii) At least 30 calendar days before the termination effective date, and
+
+(iii) To all enrollees who are patients seen on a regular basis by the provider whose contract is terminating. The phrase “enrollees who are patients seen on a regular basis by the provider whose contract is terminating” means enrollees who are assigned to, currently receiving care from, or have received care within the past three months from a provider or facility being terminated.
 
 (f) *Disclosable information*—(1) *Benefits under original Medicare.* (i) Covered services.
 
@@ -238,4 +252,4 @@ Link to an amendment published at 88 FR 22329, Apr. 12, 2023.
 
 (5) *Exceptions.* MA organizations are not required to send the explanation of benefits to dual-eligible enrollees.
 
-[63 FR 35077, June 26, 1998, as amended at 64 FR 7980, Feb. 17, 1999; 65 FR 40321, June 29, 2000; 68 FR 50857, Aug. 22, 2003; 70 FR 4722, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 73 FR 54220, 54249, Sept. 18, 2008; 75 FR 19805, Apr. 15, 2010; 76 FR 21563, Apr. 15, 2011; 77 FR 22167, Apr. 12, 2012; 80 FR 7959, Feb. 12, 2015; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019; 86 FR 6095, Jan. 19, 2021]
+[63 FR 35077, June 26, 1998, as amended at 64 FR 7980, Feb. 17, 1999; 65 FR 40321, June 29, 2000; 68 FR 50857, Aug. 22, 2003; 70 FR 4722, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 73 FR 54220, 54249, Sept. 18, 2008; 75 FR 19805, Apr. 15, 2010; 76 FR 21563, Apr. 15, 2011; 77 FR 22167, Apr. 12, 2012; 80 FR 7959, Feb. 12, 2015; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019; 86 FR 6095, Jan. 19, 2021; 88 FR 22329, Apr. 12, 2023]

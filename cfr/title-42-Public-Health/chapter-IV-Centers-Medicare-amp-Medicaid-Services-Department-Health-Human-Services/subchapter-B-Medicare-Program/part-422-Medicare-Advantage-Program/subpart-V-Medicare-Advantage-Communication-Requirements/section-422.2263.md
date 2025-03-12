@@ -1,7 +1,5 @@
 ##### § 422.2263 General marketing requirements. #####
 
-Link to an amendment published at 88 FR 22335, Apr. 12, 2023.
-
 Marketing is a subset of communications and therefore must follow the requirements outlined in § 422.2262 as well as this section. Marketing (as defined in § 422.2260) must additionally meet the following requirements:
 
 (a) MA organizations may begin marketing prospective plan year offerings on October 1 of each year for the following contract year. MA organizations may market the current and prospective year simultaneously provided materials clearly indicate what year is being discussed.
@@ -44,6 +42,18 @@ Marketing is a subset of communications and therefore must follow the requiremen
 
 (D) Call or otherwise contact former enrollees who have selected a new plan during the AEP.
 
+(8) Advertise benefits that are not available to beneficiaries in the service area(s) where the marketing appears, unless the advertisement is in local media that serves the service area(s) where the benefits are available and reaching beneficiaries who reside in other service areas is unavoidable.
+
+(9) Market any products or plans, benefits, or costs, unless the MA organization or marketing name(s) as listed in HPMS of the entities offering the referenced products or plans, benefits, or costs are identified in the marketing material.
+
+(i) MA organization or marketing names must be in 12-point font in print and may not be in the form of a disclaimer or fine print.
+
+(ii) For television, online, or social media, the MA organization or marketing name(s) must be either read at the same pace as the phone number or must be displayed throughout the entire advertisement in a font size equivalent to the advertised phone number, contact information, or benefits.
+
+(iii) For radio or other voice-based advertisements, MA organization or marketing names must be read at the same pace as the advertised phone numbers or other contact information.
+
+(10) MA organizations may not include information about savings available to potential enrollees that are based on a comparison of typical expenses borne by uninsured individuals, unpaid costs of dually eligible beneficiaries, or other unrealized costs of a Medicare beneficiary.
+
 (c) The following requirements apply to how MA organizations must display CMS-issued Star Ratings:
 
 (1) References to individual Star Rating measure(s) must also include references to the overall Star Rating for MA-PDs and the summary rating for MA-only plans.
@@ -70,4 +80,4 @@ Marketing is a subset of communications and therefore must follow the requiremen
 
 (iii) May not attempt to refute or minimize Low Performing Status.
 
-[86 FR 6105, Jan. 19, 2021]
+[86 FR 6105, Jan. 19, 2021, as amended at 88 FR 22335, Apr. 12, 2023]

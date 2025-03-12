@@ -1,7 +1,5 @@
 ##### § 423.2264 Beneficiary contact. #####
 
-Link to an amendment published at 88 FR 22340, Apr. 12, 2023.Link to a correction published at 88 FR 34780, May 31, 2023.
-
 For the purpose of this section, beneficiary contact means any outreach activities to a beneficiary or a beneficiary's caregivers by the Part D sponsor or its agents and brokers.
 
 (a) *Unsolicited contact.* Subject to the rules for contact for plan business in paragraph (b) of this section, the following rules apply when materials or activities are given or supplied to a beneficiary or their caregiver without prior request:
@@ -11,6 +9,10 @@ For the purpose of this section, beneficiary contact means any outreach activiti
 (2) Part D sponsors may not do any of the following if unsolicited:
 
 (i) Use door to door solicitation, including leaving information of any kind, except that information may be left when an appointment is pre-scheduled but the beneficiary is not home.
+
+(A) Contact is unsolicited door-to-door contact unless an appointment, at the beneficiary's home at the applicable time and date, was previously scheduled.
+
+(B) [Reserved]
 
 (ii) Approach enrollees in common areas such as parking lots, hallways, lobbies.
 
@@ -52,7 +54,7 @@ For the purpose of this section, beneficiary contact means any outreach activiti
 
 (v) Part D sponsors may not make unsolicited calls about other lines of business as a means of generating leads for Medicare plans.
 
-(2) When reaching out to a beneficiary regarding plan business, as outlined in this section, Part D sponsor must offer the beneficiary the ability to opt out of future calls regarding plan business.
+(2) If the Part D sponsor reaches out to beneficiaries regarding plan business, as outlined in this section, the Part D sponsor must provide notice to all beneficiaries whom the plan contacts as least once annually, in writing, of the individual's ability to opt out of future calls regarding plan business.
 
 (c) *Events with beneficiaries.* Part D sponsors and their agent or brokers may hold educational events, marketing or sales events, and personal marketing appointments to meet with Medicare beneficiaries, either face-to-face or virtually. The requirements for each type of event are as follows:
 
@@ -66,11 +68,9 @@ For the purpose of this section, beneficiary contact means any outreach activiti
 
 (B) Answer beneficiary initiated questions pertaining to Part D plans.
 
-(C) Set up future personal marketing appointments.
+(C) Distribute business cards.
 
-(D) Distribute business cards.
-
-(E) Obtain beneficiary contact information, including Scope of Appointment forms.
+(D) Make available and receive beneficiary contact information, including Business Reply Cards, but not including Scope of Appointment forms.
 
 (iii) Part D sponsors holding or participating in educational events may not conduct sales or marketing presentations or distribute or accept plan applications.
 
@@ -78,7 +78,7 @@ For the purpose of this section, beneficiary contact means any outreach activiti
 
 (2) Marketing or sales events are group events that fall within the definition of marketing at § 423.2260.
 
-(i) If a marketing event directly follows an educational event, the beneficiary must be made aware of the change and given the opportunity to leave prior to the marketing event beginning.
+(i) Marketing events are prohibited from taking place within 12 hours of an educational event, in the same location. The same location is defined as the entire building or adjacent buildings.
 
 (ii) Part D sponsors holding or participating in marketing events may do any of the following:
 
@@ -100,7 +100,11 @@ For the purpose of this section, beneficiary contact means any outreach activiti
 
 (3) Personal marketing appointments are those appointments that are tailored to an individual or small group (for example, a married couple). Personal marketing appointments are not defined by the location.
 
-(i) Prior to the personal marketing appointment beginning, the Part D sponsor (or the agent or broker, as applicable) must agree upon and record the Scope of Appointment with the beneficiary(ies).
+(i) At least 48 hours prior to the scheduled personal marketing appointment, the Part D plan (or agent or broker, as applicable) must agree upon and record the Scope of Appointment with the beneficiary(ies), except for:
+
+(A) SOAs that are completed during the last four days prior to a valid election period for the beneficiary.
+
+(B) Unscheduled in person visits (walk-ins) initiated by the beneficiary.
 
 (ii) Part D sponsors holding a personal marketing appointment may do any of the following:
 
@@ -114,10 +118,10 @@ For the purpose of this section, beneficiary contact means any outreach activiti
 
 (iii) Part D sponsors holding a personal marketing appointment may not do any of the following:
 
-(A) Market any health care related product during a marketing appointment beyond the scope agreed upon by the beneficiary, and documented by the plan, prior to the appointment.
+(A) Market any health care related product during a marketing appointment beyond the scope agreed upon by the beneficiary, and documented by the plan in a Scope of Appointment, business reply card, or request to receive additional information, which is valid for 12 months following the date of beneficiary's signature date or the date of the beneficiary's initial request for information.
 
-(B) Market additional health related lines of plan business not identified prior to an individual appointment without a separate scope of appointment identifying the additional lines of business to be discussed.
+(B) Market additional health related lines of plan business not identified prior to an individual appointment without a separate Scope of Appointment, identifying the additional lines of business to be discussed; such Scope of Appointment is valid for 12 months following the beneficiary's signature date.
 
 (C) Market non-health related products such as annuities.
 
-[86 FR 6124, Jan. 19, 2021]
+[86 FR 6124, Jan. 19, 2021, as amended at 88 FR 22340, Apr. 12, 2023; 88 FR 34780, May 31, 2023]

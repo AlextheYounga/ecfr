@@ -56,8 +56,12 @@
 
 (d) *Invoice filing deadline.* Invoices must be submitted to the Administrator within 60 days from the date of the funding commitment decision letter; a revised funding commitment decision letter approving a post-commitment change or a successful appeal of previously denied or reduced funding; or service delivery date, whichever is later.
 
-(e) *Service delivery date.* (1) For the initial filing window set forth in § 54.1708(b) and second application filing window, the service delivery date for equipment, other non-recurring services, and recurring services is June 30, 2023.
+(e) *Service delivery date.* (1) Except as provided in paragraphs (e)(1)(i) and (ii) of this section, for the initial filing window set forth in § 54.1708(b) and second application filing window, the service delivery date for equipment, other non-recurring services, and recurring services is June 30, 2023.
 
-(2) For the third application filing window and any subsequent filing windows covering funding for purchases made between July 1, 2022, and December 31, 2023, the service delivery date for equipment, other non-recurring services, and recurring services is December 31, 2023.
+(i) If the funding commitment decision letter or a revised funding commitment decision letter approving an appeal, waiver, or post-commitment request for equipment, is received on or after July 1, 2022, the service delivery date for service funding requests is 14 months from the date of that letter or June 30, 2024, whichever date is earlier.
 
-[, as amended at 86 FR 41409, Aug. 2, 2021, as amended at 86 FR 70985, Dec. 14, 2021; 87 FR 14181, Mar. 14, 2022; 87 FR 19395, Apr. 4, 2022]
+(ii) If the funding commitment decision letter or a revised funding commitment decision letter approving an appeal, waiver, or post-commitment request for equipment, is received on or after January 1, 2023, the service delivery date for equipment is 180 days from the date of that letter or June 30, 2024, whichever date is earlier.
+
+(2) For the third application filing window and any subsequent filing windows covering funding for purchases made between July 1, 2022, and June 30, 2024, the service delivery date for equipment, other non-recurring services, and recurring services is June 30, 2024.
+
+[, as amended at 86 FR 41409, Aug. 2, 2021, as amended at 86 FR 70985, Dec. 14, 2021; 87 FR 14181, Mar. 14, 2022; 87 FR 19395, Apr. 4, 2022; 88 FR 36513, June 5, 2023]

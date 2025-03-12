@@ -1,10 +1,8 @@
 ##### § 890.302 Coverage of family members. #####
 
-Link to an amendment published at 88 FR 20403, Apr. 6, 2023.
+(a)(1) *Enrollment.* An enrollment for self plus one includes the enrollee and one eligible family member. An enrollment for self and family includes all family members who are eligible to be covered by the enrollment except as provided in § 890.308(h). Proof of family member eligibility may be required, and must be provided upon request, to the carrier, the employing office, or OPM. Except as provided in paragraph (a)(2) of this section, no employee, former employee, annuitant, child, or former spouse may enroll or be covered as a family member if they are already covered under another person's self plus one or self and family enrollment.
 
-(a)(1) *Enrollment.* An enrollment for self plus one includes the enrollee and one eligible family member. An enrollment for self and family includes all family members who are eligible to be covered by the enrollment except as provided in § 890.308(h). Proof of family member eligibility may be required, and must be provided upon request, to the carrier, the employing office or OPM. Except as provided in paragraph (a)(2) of this section, no employee, former employee, annuitant, child, or former spouse may enroll or be covered as a family member if he or she is already covered under another person's self plus one or self and family enrollment in the FEHB Program.
-
-(2) *Dual enrollment.* (i) A dual enrollment exists when an individual is covered under more than one FEHB Program enrollment. Dual enrollments are prohibited except when an eligible individual would otherwise not have access to coverage and the dual enrollment has been authorized by the employing office.
+(2) *Dual enrollment.*—(i) *Prohibition on dual enrollment.* A dual enrollment exists when an individual is covered under more than one enrollment under this part. Dual enrollments are prohibited except when an eligible individual would otherwise not have access to coverage and the dual enrollment has been authorized by the employing office.
 
 (ii) *Exception.* An individual described in paragraph (a)(2)(i) of this section may enroll if he or she or his or her eligible family members would otherwise not have access to coverage, in which case the individual may enroll in his or her own right for self only, self plus one, or self and family coverage, as appropriate. However, an eligible individual is entitled to receive benefits under only one enrollment regardless of whether he or she qualifies as a family member under a spouse's or parent's enrollment. To ensure that no person receives benefits under more than one enrollment, each enrollee must promptly notify the insurance carrier as to which person(s) will be covered under his or her enrollment. These individuals are not covered under the other enrollment. Examples include but are not limited to:
 
@@ -46,4 +44,4 @@ Link to an amendment published at 88 FR 20403, Apr. 6, 2023.
 
 (2) Switching a covered family member under a self plus one enrollment will be effective on the first day of the first pay period that begins after the date the employing office receives an appropriate request to switch the covered family member.
 
-[78 FR 64876, Oct. 30, 2013, as amended at 80 FR 55735, Sept. 17, 2015; 81 FR 86906, Dec. 2, 2016; 83 FR 3061, Jan. 23, 2018; 83 FR 32192, July 12, 2018]
+[78 FR 64876, Oct. 30, 2013, as amended at 80 FR 55735, Sept. 17, 2015; 81 FR 86906, Dec. 2, 2016; 83 FR 3061, Jan. 23, 2018; 83 FR 32192, July 12, 2018; 88 FR 20403, Apr. 6, 2023]

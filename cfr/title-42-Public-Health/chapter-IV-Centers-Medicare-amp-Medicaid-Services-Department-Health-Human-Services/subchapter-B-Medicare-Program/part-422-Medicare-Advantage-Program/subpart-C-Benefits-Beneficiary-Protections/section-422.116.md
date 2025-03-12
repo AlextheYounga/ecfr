@@ -1,8 +1,6 @@
 ##### § 422.116 Network adequacy. #####
 
-Link to an amendment published at 88 FR 22330, Apr. 12, 2023.
-
-(a) *General rules*—(1) *Access.* (i) A network-based MA plan, as described in § 422.114(a)(3)(ii) but not including MSA plans, must demonstrate that it has an adequate contracted provider network that is sufficient to provide access to covered services in accordance with access standards described in section 1852(d)(1) of the Act and in §§ 422.112(a) and 422.114(a)(1) and by meeting the standard in paragraph (a)(2) of this section. When required by CMS, an MA organization must attest that it has an adequate network for access and availability of a specific provider or facility type that CMS does not independently evaluate in a given year.
+(a) *General rules*—(1) *Access.* (i) A network-based MA plan, as described in § 422.2 but not including MSA plans, must demonstrate that it has an adequate contracted provider network that is sufficient to provide access to covered services in accordance with access standards described in section 1852(d)(1) of the Act and in §§ 422.112(a) and 422.114(a)(1) and by meeting the standard in paragraph (a)(2) of this section. When required by CMS, an MA organization must attest that it has an adequate network for access and availability of a specific provider or facility type that CMS does not independently evaluate in a given year.
 
 (ii) Beginning with contract year 2024, an applicant for a new or expanding service area must demonstrate compliance with this section as part of its application for a new or expanding service area and CMS may deny an application on the basis of an evaluation of the applicant's network for the new or expanding service area.
 
@@ -96,6 +94,10 @@ Link to an amendment published at 88 FR 22330, Apr. 12, 2023.
 
 (xxvii) Cardiothoracic Surgery.
 
+(xxviii) Clinical Psychology.
+
+(xxix) Clinical Social Work.
+
 (2) *Facility-specialty types.* The facility specialty types are as follows:
 
 (i) Acute Inpatient Hospitals.
@@ -179,6 +181,7 @@ Table 1 to Paragraph (d)(2)
 |             Allergy and Immunology              |        30        |      15      |        45        |      30      |        80        |      60      |        90        |      75      |       125        |110|
 |                   Cardiology                    |        20        |      10      |        30        |      20      |        50        |      35      |        75        |      60      |        95        |85 |
 |                  Chiropractor                   |        30        |      15      |        45        |      30      |        80        |      60      |        90        |      75      |       125        |110|
+|               Clinical Psychology               |        20        |      10      |        45        |      30      |        60        |      45      |        75        |      60      |       145        |130|
 |                   Dermatology                   |        20        |      10      |        45        |      30      |        60        |      45      |        75        |      60      |       110        |100|
 |                  Endocrinology                  |        30        |      15      |        60        |      40      |       100        |      75      |       110        |      90      |       145        |130|
 |               ENT/Otolaryngology                |        30        |      15      |        45        |      30      |        80        |      60      |        90        |      75      |       125        |110|
@@ -186,6 +189,7 @@ Table 1 to Paragraph (d)(2)
 |                 General Surgery                 |        20        |      10      |        30        |      20      |        50        |      35      |        75        |      60      |        95        |85 |
 |               Gynecology, OB/GYN                |        30        |      15      |        45        |      30      |        80        |      60      |        90        |      75      |       125        |110|
 |               Infectious Diseases               |        30        |      15      |        60        |      40      |       100        |      75      |       110        |      90      |       145        |130|
+|          Licensed Clinical Social Work          |        20        |      10      |        30        |      20      |        50        |      35      |        75        |      60      |       125        |110|
 |                   Nephrology                    |        30        |      15      |        45        |      30      |        80        |      60      |        90        |      75      |       125        |110|
 |                    Neurology                    |        20        |      10      |        45        |      30      |        60        |      45      |        75        |      60      |       110        |100|
 |                  Neurosurgery                   |        30        |      15      |        60        |      40      |       100        |      75      |       110        |      90      |       145        |130|
@@ -258,6 +262,12 @@ Table 1 to Paragraph (d)(2)
 
 (xii) Infectious Diseases.
 
+(xiii) Clinical Psychology.
+
+(xiv)-(xxiii) [Reserved]
+
+(xxiv) Clinical Social Work.
+
 (6) *State Certificate of Need (CON) laws.* In a State with CON laws, or other state imposed anti-competitive restrictions that limit the number of providers or facilities in the State or a county in the State, CMS will award the MA organization a 10-percentage point credit towards the percentage of beneficiaries residing within published time and distance standards for affected providers and facilities in paragraph (b) of this section or, when necessary due to utilization or supply patterns, customize the base time and distance standards.
 
 (7) *New or expanding service area applicants.* Beginning with contract year 2024, an applicant for a new or expanding service area receives a 10-percentage point credit towards the percentage of beneficiaries residing within published time and distance standards for the contracted network in the pending service area, at the time of application and for the duration of the application review. In addition, applicants may use a Letter of Intent (LOI), signed by both the MA organization (MAO) and the provider or facility with which the MAO has started or intends to negotiate, in lieu of a signed contract at the time of application and for the duration of the application review, to meet network standards. As part of the network adequacy review process, applicants must notify CMS of their use of LOIs to meet network standards in lieu of a signed contract and submit copies upon request and in the form and manner directed by CMS. At the beginning of the applicable contract year, the credit and the use of LOIs no longer apply and if the application is approved, the MA organization must be in full compliance with this section, including having signed contracts with the provider or facility.
@@ -294,6 +304,8 @@ Table 2 to Paragraph (e)(3)(i)(C)
 |       Allergy and Immunology        |   0.05    |0.05 |0.04 |0.04 |0.04|
 |             Cardiology              |   0.27    |0.27 |0.23 |0.23 |0.23|
 |            Chiropractor             |   0.10    |0.10 |0.09 |0.09 |0.09|
+|         Clinical Psychology         |   0.15    |0.15 |0.13 |0.13 |0.13|
+|        Clinical Social Work         |   0.25    |0.25 |0.22 |0.22 |0.22|
 |             Dermatology             |   0.16    |0.16 |0.14 |0.14 |0.14|
 |            Endocrinology            |   0.04    |0.04 |0.03 |0.03 |0.03|
 |         ENT/Otolaryngology          |   0.06    |0.06 |0.05 |0.05 |0.05|
@@ -355,4 +367,4 @@ Table 2 to Paragraph (e)(3)(i)(C)
 
 (iii) Approval of the exception is in the best interests of beneficiaries.
 
-[85 FR 33904, June 2, 2020, as amended at 87 FR 27895, May 9, 2022]
+[85 FR 33904, June 2, 2020, as amended at 87 FR 27895, May 9, 2022; 88 FR 22330, Apr. 12, 2023]

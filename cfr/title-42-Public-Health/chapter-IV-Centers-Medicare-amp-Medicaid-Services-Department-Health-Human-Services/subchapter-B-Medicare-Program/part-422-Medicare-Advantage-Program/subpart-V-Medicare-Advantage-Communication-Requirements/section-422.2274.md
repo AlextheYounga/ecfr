@@ -1,7 +1,5 @@
 ##### § 422.2274 Agent, broker, and other third-party requirements. #####
 
-Link to an amendment published at 88 FR 22337, Apr. 12, 2023.
-
 If an MA organization uses agents and brokers to sell its Medicare plans, the requirements in paragraphs (a) through (e) of this section are applicable. If an MA organization makes payments to third parties, the requirements in paragraph (f) of this section are applicable.
 
 (a) *Definitions.* For purposes of this section, the following definitions are applicable:
@@ -83,6 +81,8 @@ If an MA organization uses agents and brokers to sell its Medicare plans, the re
 (10) Demonstrate that marketing resources are allocated to marketing to the disabled Medicare population as well as to Medicare beneficiaries age 65 and over.
 
 (11) Must comply with State requests for information about the performance of a licensed agent or broker as part of a state investigation into the individual's conduct. CMS will establish and maintain a memorandum of understanding (MOU) to share compliance and oversight information with States that agree to the MOU.
+
+(12) Ensure that, prior to an enrollment, CMS' required questions and topics regarding beneficiary needs in a health plan choice are fully discussed. Topics include information regarding primary care providers and specialists (that is, whether or not the beneficiary's current providers are in the plan's network), regarding pharmacies (that is, whether or not the beneficiary's current pharmacy is in the plan's network), prescription drug coverage and costs (including whether or not the beneficiary's current prescriptions are covered), costs of health care services, premiums, benefits, and specific health care needs.
 
 (d) *Compensation requirements.* MA organizations must ensure they meet the requirements in paragraphs (d)(1) through (5) of this section in order to pay compensation. These compensation requirements only apply to independent agents and brokers.
 
@@ -190,7 +190,7 @@ If an MA organization uses agents and brokers to sell its Medicare plans, the re
 
 (i) Discloses to the MA organization any subcontracted relationships used for marketing, lead generation, and enrollment.
 
-(ii) Records all calls with beneficiaries in their entirety, including the enrollment process.
+(ii) Record all marketing, sales, and enrollment calls, including the audio portion of calls via web-based technology, in their entirety.
 
 (iii) Reports to plans monthly any staff disciplinary actions or violations of any requirements that apply to the MA plan associated with beneficiary interaction to the plan.
 
@@ -208,4 +208,4 @@ If an MA organization uses agents and brokers to sell its Medicare plans, the re
 
 (ii) Disclose to the beneficiary that he or she is being transferred to a licensed agent who can enroll him or her into a new plan.
 
-[86 FR 6112, Jan. 19, 2021, as amended at 87 FR 27899, May 9, 2022]
+[86 FR 6112, Jan. 19, 2021, as amended at 87 FR 27899, May 9, 2022; 88 FR 22337, Apr. 12, 2023]

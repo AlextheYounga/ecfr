@@ -1,7 +1,5 @@
 ##### § 422.100 General requirements. #####
 
-Link to an amendment published at 88 FR 22328, Apr. 12, 2023.
-
 (a) *Basic rule.* Subject to the conditions and limitations set forth in this subpart, an MA organization offering an MA plan must provide enrollees in that plan with coverage of the basic benefits described in paragraph (c)(1) of this section (except that additional telehealth benefits may be, but are not required to be, offered by the MA plan) and, to the extent applicable, supplemental benefits as described in paragraph (c)(2) of this section, by furnishing the benefits directly or through arrangements, or by paying for the benefits. CMS reviews these benefits subject to the requirements of this section and the requirements in subpart G of this part.
 
 (b) *Services of noncontracting providers and suppliers.* (1) An MA organization must make timely and reasonable payment to or on behalf of the plan enrollee for the following services obtained from a provider or supplier that does not contract with the MA organization to provide services covered by the MA plan:
@@ -312,4 +310,10 @@ Link to an amendment published at 88 FR 22328, Apr. 12, 2023.
 
 (6) *Disruption of access to health care.* A disruption of access to health care for the purpose of paragraph (m) of this section is an interruption or interference in the service area (as defined at § 422.2) such that enrollees do not have the ability to access contracted providers or contracted providers do not have the ability to provide needed services to enrollees, resulting in MA plans failing to meet the normal prevailing patterns of community health care delivery in the service area under § 422.112(a).
 
-[65 FR 40319, June 29, 2000, as amended at 67 FR 13288, Mar. 22, 2002; 70 FR 4719, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 75 FR 19804, Apr. 15, 2010; 76 FR 21562, Apr. 15, 2011; 77 FR 22166, Apr. 12, 2012; 80 FR 7959, Feb. 12, 2015; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019; 86 FR 6094, Jan. 19, 2021; 87 FR 22423, Apr. 14, 2022; 87 FR 27893, May 9, 2022]
+(n) *Digital health education program.* MA organizations must establish procedures to identify and offer digital health education to enrollees with low digital health literacy to assist with accessing any medically necessary covered benefits that are furnished when the enrollee and the provider are not in the same location using electronic exchange, as defined in § 422.135.
+
+(1) The MA organization must make information about its digital health literacy screening and digital health education programs available to CMS upon request. Requested information may include, but is not limited to, statistics on the number of enrollees identified with low digital health literacy and receiving digital health education, manner(s) or method of digital health literacy screening and digital health education, financial impact of the programs on the MA organization, evaluations of effectiveness of digital health literacy interventions, and demonstration of compliance with the requirements of this section.
+
+(2) [Reserved]
+
+[65 FR 40319, June 29, 2000, as amended at 67 FR 13288, Mar. 22, 2002; 70 FR 4719, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 75 FR 19804, Apr. 15, 2010; 76 FR 21562, Apr. 15, 2011; 77 FR 22166, Apr. 12, 2012; 80 FR 7959, Feb. 12, 2015; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019; 86 FR 6094, Jan. 19, 2021; 87 FR 22423, Apr. 14, 2022; 87 FR 27893, May 9, 2022; 88 FR 22328, Apr. 12, 2023]

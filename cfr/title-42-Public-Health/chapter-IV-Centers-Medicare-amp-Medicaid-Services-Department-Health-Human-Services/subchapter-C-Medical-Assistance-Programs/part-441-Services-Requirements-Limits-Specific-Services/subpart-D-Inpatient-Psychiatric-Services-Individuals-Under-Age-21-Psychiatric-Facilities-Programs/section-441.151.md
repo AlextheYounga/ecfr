@@ -1,5 +1,7 @@
 ##### § 441.151 General requirements. #####
 
+Link to an amendment published at 88 FR 36510, June 5, 2023.
+
 (a) Inpatient psychiatric services for individuals under age 21 must be:
 
 (1) Provided under the direction of a physician;

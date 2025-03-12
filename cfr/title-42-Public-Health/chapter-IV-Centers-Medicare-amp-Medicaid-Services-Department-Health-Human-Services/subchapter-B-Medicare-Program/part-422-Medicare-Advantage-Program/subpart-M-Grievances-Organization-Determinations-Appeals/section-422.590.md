@@ -1,12 +1,10 @@
 ##### § 422.590 Timeframes and responsibility for reconsiderations. #####
 
-Link to an amendment published at 88 FR 22334, Apr. 12, 2023.
-
 (a) *Standard reconsideration: Requests for service or item.* (1) Except as provided in paragraph (f) of this section, if the MA organization makes a reconsidered determination that is completely favorable to the enrollee, the MA organization must issue the determination (and effectuate it in accordance with § 422.618(a)) as expeditiously as the enrollee's health condition requires, but no later than 30 calendar days from the date it receives the request for a standard reconsideration.
 
 (2) If the MA organization makes a reconsidered determination that affirms, in whole or in part, its adverse organization determination, it must prepare a written explanation and send the case file to the independent entity contracted by CMS as expeditiously as the enrollee's health condition requires, but no later than 30 calendar days from the date it receives the request for a standard reconsideration (or no later than the expiration of an extension described in paragraph (a)(1) of this section). The organization must make reasonable and diligent efforts to assist in gathering and forwarding information to the independent entity.
 
-(b) *Standard reconsideration: Requests for payment.* (1) If the MA organization makes a reconsidered determination that is completely favorable to the enrollee, the MA organization must issue its reconsidered determination to the enrollee (and effectuate it in accordance with § 422.618(a)(1)) no later than 60 calendar days from the date it receives the request for a standard reconsideration.
+(b) *Standard reconsideration: Requests for payment.* (1) If the MA organization makes a reconsidered determination that is completely favorable to the enrollee, the MA organization must issue its reconsidered determination to the enrollee (and effectuate it in accordance with § 422.618(a)(2)) no later than 60 calendar days from the date it receives the request for a standard reconsideration.
 
 (2) If the MA organization affirms, in whole or in part, its adverse organization determination, it must prepare a written explanation and send the case file to the independent entity contracted by CMS no later than 60 calendar days from the date it receives the request for a standard reconsideration. The organization must make reasonable and diligent efforts to assist in gathering and forwarding information to the independent entity.
 
@@ -44,4 +42,4 @@ Link to an amendment published at 88 FR 22334, Apr. 12, 2023.
 
 (i) *Requests for review of a dismissal by the independent entity.* If the MA organization dismisses a request for a reconsideration in accordance with §§ 422.582(f) and 422.584(g), the enrollee or other proper party under § 422.578 has the right to request review of the dismissal by the independent entity. A request for review of a dismissal must be filed in writing with the independent entity within 60 calendar days from the date of the MA organization's dismissal notice.
 
-[84 FR 23881, May 23, 2019, as amended at 86 FR 6102, Jan. 19, 2021]
+[84 FR 23881, May 23, 2019, as amended at 86 FR 6102, Jan. 19, 2021; 88 FR 22334, Apr. 12, 2023]

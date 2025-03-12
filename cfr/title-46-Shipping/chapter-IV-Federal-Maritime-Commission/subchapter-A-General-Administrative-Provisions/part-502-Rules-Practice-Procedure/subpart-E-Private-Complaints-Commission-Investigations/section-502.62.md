@@ -1,7 +1,5 @@
 ##### § 502.62 Private party complaints for formal adjudication. #####
 
-Link to an amendment published at 88 FR 16897, Mar. 21, 2023.
-
 (a) *Filing a complaint for formal adjudication.* (1) A person may file a sworn complaint alleging violation of the Shipping Act of 1984, 46 U.S.C. 40101 *et seq.*
 
 (2) *Form.* Complaints should be drafted in accordance with the rules in this section.
@@ -30,7 +28,7 @@ Link to an amendment published at 88 FR 16897, Mar. 21, 2023.
 
 (5) *Oral hearing.* The complaint should designate whether an oral hearing is requested and the desired place for any oral hearing. The presiding officer will determine whether an oral hearing is necessary.
 
-(6) *Filing fee.* The complaint must be accompanied by remittance of a $288 filing fee.
+(6) *Filing fee.* The complaint must be accompanied by remittance of a $387 filing fee.
 
 (7) A complaint is deemed filed on the date it is received by the Commission.
 
@@ -56,4 +54,4 @@ Link to an amendment published at 88 FR 16897, Mar. 21, 2023.
 
 (ii) A party may make a motion for initial decision on default. [Rule 62.]
 
-[77 FR 61524, Oct. 10, 2012; 77 FR 64758, Oct. 23, 2012, as amended at 80 FR 14319, Mar. 19, 2015; 81 FR 59143, Aug. 29, 2016; 83 FR 50294, Oct. 5, 2018; 85 FR 72577, Nov. 13, 2020]
+[77 FR 61524, Oct. 10, 2012; 77 FR 64758, Oct. 23, 2012, as amended at 80 FR 14319, Mar. 19, 2015; 81 FR 59143, Aug. 29, 2016; 83 FR 50294, Oct. 5, 2018; 85 FR 72577, Nov. 13, 2020; 88 FR 16897, Mar. 21, 2023]

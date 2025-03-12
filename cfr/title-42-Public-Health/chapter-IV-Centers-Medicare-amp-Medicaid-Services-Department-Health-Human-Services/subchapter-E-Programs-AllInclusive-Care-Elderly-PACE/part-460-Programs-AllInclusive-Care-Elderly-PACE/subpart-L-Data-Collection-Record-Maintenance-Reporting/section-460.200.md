@@ -1,7 +1,5 @@
 ##### § 460.200 Maintenance of records and reporting of data. #####
 
-Link to an amendment published at 88 FR 22345, Apr. 12, 2023.
-
 (a) *General rule.* A PACE organization must collect data, maintain records, and submit reports as required by CMS and the State administering agency.
 
 (b) *Access to data and records.* A PACE organization must allow CMS and the State administering agency access to data and records including, but not limited to, the following:
@@ -22,7 +20,11 @@ Link to an amendment published at 88 FR 22345, Apr. 12, 2023.
 
 (1) Establish written policies and implement procedures to safeguard all data, books, and records against loss, destruction, unauthorized use, or inappropriate alteration.
 
-(2) Maintain all written communications received from participants or other parties in their original form when the communications relate to a participant's care, health, or safety in accordance with § 460.210(b)(6).
+(2) Maintain all written communications received in any format (for example, emails, faxes, letters, etc.) from participants or other parties in their original form when the communications relate to a participant's care, health, or safety including, but not limited to the following:
+
+(i) Communications from the participant, his or her designated representative, a family member, a caregiver, or any other individual who provides information pertinent to a participant's, care, health, or safety.
+
+(ii) Communications from an advocacy or governmental agency such as Adult Protective Services.
 
 (e) *Confidentiality of health information.* A PACE organization must establish written policies and implement procedures to do the following:
 
@@ -44,4 +46,4 @@ Link to an amendment published at 88 FR 22345, Apr. 12, 2023.
 
 (2) If litigation, a claim, a financial management review, or an audit arising from the operation of the PACE program is started before the expiration of the retention period, specified in paragraph (f)(1) of this section, the PACE organization must retain the records until the completion of the litigation, or resolution of the claims or audit findings.
 
-[64 FR 66279, Nov. 24, 1999, as amended at 84 FR 25677, June 3, 2019; 86 FR 6134, Jan. 19, 2021]
+[64 FR 66279, Nov. 24, 1999, as amended at 84 FR 25677, June 3, 2019; 86 FR 6134, Jan. 19, 2021; 88 FR 22345, Apr. 12, 2023]

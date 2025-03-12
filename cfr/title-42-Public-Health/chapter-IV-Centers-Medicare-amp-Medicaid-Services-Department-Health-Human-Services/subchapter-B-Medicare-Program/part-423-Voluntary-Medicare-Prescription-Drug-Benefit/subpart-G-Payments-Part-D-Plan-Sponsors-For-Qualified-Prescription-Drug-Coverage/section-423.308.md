@@ -1,7 +1,5 @@
 ##### § 423.308 Definitions and terminology. #####
 
-Link to an amendment published at 88 FR 22340, Apr. 12, 2023.
-
 For the purposes of this subpart, the following definitions apply—
 
 *Actually paid* means that the costs must be actually incurred by the Part D sponsor and must be net of any direct or indirect remuneration (including discounts, charge backs or rebates, cash discounts, free goods contingent on a purchase agreement, up-front payments, coupons, goods in kind, free or reduced-price services, grants, or other price concessions or similar benefits offered to some or all purchasers) from any source (including manufacturers, pharmacies, enrollees, or any other person) that would serve to decrease the costs incurred under the Part D plan. Direct and indirect remuneration includes discounts, chargebacks or rebates, cash discounts, free goods contingent on a purchase agreement, up-front payments, coupons, goods in kind, free or reduced-price services, grants, or other price concessions or similar benefits from manufacturers, pharmacies or similar entities obtained by an intermediary contracting organization with which the Part D plan sponsor has contracted, regardless of whether the intermediary contracting organization retains all or a portion of the direct and indirect remuneration or passes the entire direct and indirect remuneration to the Part D plan sponsor and regardless of the terms of the contract between the plan sponsor and the intermediary contracting organization.
@@ -24,9 +22,9 @@ For the purposes of this subpart, the following definitions apply—
 
 *Coverage year* means a calendar year in which covered Part D drugs are dispensed if the claim for those drugs (and payment on the claim) is made not later than 3 months after the end of the year
 
-*Gross covered prescription drug costs* mean those actually paid costs incurred under a Part D plan, excluding administrative costs, but including dispensing fees, during the coverage year. They equal the sum of the following:
+*Gross covered prescription drug costs* means those costs incurred under a Part D plan, excluding administrative costs, but including dispensing fees, during the coverage year. They equal the sum of the following:
 
-(1) The share of actual costs (as defined by § 423.100 of this part) actually paid by the Part D plan that is received as reimbursement by the pharmacy, or other dispensing entity, reimbursement paid to indemnify an enrollee when the reimbursement is associated with an enrollee obtaining covered Part D drugs under the Part D plan, or payments made by the Part D sponsor to other parties listed in § 423.464(f)(1) of this part with which the Part D sponsor must coordinate benefits, including other Part D plans, or as the result of any reconciliation process developed by CMS under § 423.464 of this part.
+(1) The share of actual costs (as defined by § 423.100 of this part) paid by the Part D plan that is received as reimbursement by the pharmacy, or other dispensing entity, reimbursement paid to indemnify an enrollee when the reimbursement is associated with an enrollee obtaining covered Part D drugs under the Part D plan, or payments made by the Part D sponsor to other parties listed in § 423.464(f)(1) of this part with which the Part D sponsor must coordinate benefits, including other Part D plans, or as the result of any reconciliation process developed by CMS under § 423.464 of this part.
 
 (2) Nominal cost-sharing paid by or on behalf of an enrollee which is associated with drugs that would otherwise be covered Part D drugs, as defined in § 423.100 of this part, but are instead paid for, with the exception of said nominal cost-sharing, by a patient assistance program providing assistance outside the Part D benefit, provided that documentation of such nominal cost-sharing has been submitted to the Part D plan consistent with the plan processes and instructions for the submission of such information.
 
@@ -34,4 +32,4 @@ For the purposes of this subpart, the following definitions apply—
 
 *Target amount* means the total amount of payments (from both CMS and by or on behalf of enrollees) to a Part D plan for the coverage year for all standardized bid amounts as risk adjusted under § 423.329(b)(1) of this part, less the administrative expenses (including return on investment) assumed in the standardized bids.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1544, Jan. 12, 2009; 75 FR 19819, Apr. 15, 2010]
+[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1544, Jan. 12, 2009; 75 FR 19819, Apr. 15, 2010; 88 FR 22340, Apr. 12, 2023]

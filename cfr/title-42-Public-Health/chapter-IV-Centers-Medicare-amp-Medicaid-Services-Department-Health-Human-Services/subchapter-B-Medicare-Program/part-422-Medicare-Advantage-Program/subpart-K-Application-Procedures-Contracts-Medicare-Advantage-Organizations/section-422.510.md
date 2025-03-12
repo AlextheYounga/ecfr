@@ -1,7 +1,5 @@
 ##### § 422.510 Termination of contract by CMS. #####
 
-Link to an amendment published at 88 FR 22334, Apr. 12, 2023.
-
 (a) *Termination by CMS.* CMS may at any time terminate a contract if CMS determines that the MA organization meets any of the following:
 
 (1) Has failed substantially to carry out the contract.
@@ -41,6 +39,8 @@ Link to an amendment published at 88 FR 22334, Apr. 12, 2023.
 (xiv) The MA organization has committed any of the acts in § 422.752(a) that support the imposition of intermediate sanctions or civil money penalties under subpart O of this part.
 
 (xv) Following the issuance of a notice to the MA organization no later than August 1, CMS must terminate, effective December 31 of the same year, an individual MA plan if that plan does not have a sufficient number of enrollees to establish that it is a viable independent plan option.
+
+(xvi) Meets the criteria in § 422.514(d)(1) or (2).
 
 (b) *Notice.* If CMS decides to terminate a contract it gives notice of the termination as follows:
 
@@ -82,4 +82,4 @@ Link to an amendment published at 88 FR 22334, Apr. 12, 2023.
 
 (d) *Appeal rights.* If CMS decides to terminate a contract, it sends written notice to the MA organization informing it of its termination appeal rights in accordance with subpart N of this part.
 
-[63 FR 35099, June 26, 1998, as amended at 65 FR 40328, June 29, 2000; 70 FR 52027, Sept. 1, 2005; 72 FR 68723, Dec. 5, 2007; 75 FR 19811, Apr. 15, 2010; 77 FR 22168, Apr. 12, 2012; 78 FR 31307, May 23, 2013; 79 FR 29959, May 23, 2014; 81 FR 80557, Nov. 15, 2016; 83 FR 16734, Apr. 16, 2018]
+[63 FR 35099, June 26, 1998, as amended at 65 FR 40328, June 29, 2000; 70 FR 52027, Sept. 1, 2005; 72 FR 68723, Dec. 5, 2007; 75 FR 19811, Apr. 15, 2010; 77 FR 22168, Apr. 12, 2012; 78 FR 31307, May 23, 2013; 79 FR 29959, May 23, 2014; 81 FR 80557, Nov. 15, 2016; 83 FR 16734, Apr. 16, 2018; 88 FR 22334, Apr. 12, 2023]

@@ -1,0 +1,11 @@
+##### § 54.1524 Disaster preparation and response measures; Disaster Information Reporting System. #####
+
+(a) Each recipient of support under § 54.1504(b) or § 54.1516 shall maintain a Disaster Preparation and Response Plan document approved by the Bureau for Stage 2 of the Uniendo a Puerto Rico Fund or Connect USVI Fund, as applicable, that describes and commits to the methods and procedures that it will use, during the period in which it receives support under § 54.1516 or § 54.1504(b), to prepare for and respond to disasters in the Territories, including detailed descriptions of methods and processes to strengthen infrastructure; to ensure network diversity; to ensure backup power; to monitor its network; and to prepare for emergencies. If an eligible recipient has not previously submitted a Disaster Preparation and Response Plan that was approved by the Bureau prior to the authorization to receive fixed or mobile support, as applicable, the eligible recipient must submit a Disaster Preparation and Response Plan for Bureau approval by July 1, 2023. Phase-down support shall be suspended if a recipient fails to submit a Disaster Preparation and Response Plan by the requisite deadline or fails to receive approval from the Bureau.
+
+(b) Each recipient of support under § 54.1504(b) or § 54.1516 shall maintain the Disaster Preparation and Response Plan approved by the Bureau for Stage 2 of each funding mechanism that completely and thoroughly address the criteria enumerated in paragraph (a) of this section. Recipients shall materially comply with the representations in the document and shall amend their Disaster Preparation and Response Plan following any material change(s) to internal processes and responsibilities and provide the updated Disaster Preparation and Response Plan to the Bureau within 10 business days following the material change(s).
+
+(c) Each recipient of support under § 54.1504(b) or § 54.1516 shall perform mandatory Disaster Information Reporting System reporting.
+
+(d) A recipient's failure to comply with the requirements of this section may result in the withholding of transitional or phase-down support until the support recipient has cured deficiencies identified by the Bureau.
+
+[88 FR 29000, May 5, 2023]

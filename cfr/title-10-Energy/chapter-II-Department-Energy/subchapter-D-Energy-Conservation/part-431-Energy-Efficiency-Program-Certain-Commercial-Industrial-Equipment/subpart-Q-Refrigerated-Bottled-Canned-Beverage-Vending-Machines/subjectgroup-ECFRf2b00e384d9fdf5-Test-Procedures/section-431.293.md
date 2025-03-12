@@ -1,19 +1,23 @@
 ##### § 431.293 Materials incorporated by reference. #####
 
-Link to an amendment published at 88 FR 28400, May 4, 2023.
+(a) Certain material is incorporated by reference into this subpart with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the DOE must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at DOE, and at the National Archives and Records Administration (NARA). Contact DOE at: the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, 1000 Independence Ave. SW, EE-5B, Washington, DC 20585, (202) 586-9127, *Buildings@ee.doe.gov, https://www.energy.gov/eere/buildings/building-technologies-office.* For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations.html* or email *fr.inspection@nara.gov.* The material may be obtained from the sources in the following paragraphs of this section:
 
-(a) *General.* DOE incorporates by reference the following standards into subpart Q of part 431. The material listed has been approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Any subsequent amendment to a standard by the standard-setting organization will not affect the DOE regulations unless and until amended by DOE. Material is incorporated as it exists on the date of the approval and a notice of any change in the material will be published in the Federal Register. All approved material is available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030 or visit *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* This material is also available for inspection at U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, 6th Floor, 950 L'Enfant Plaza, SW., Washington, DC 20024, 202-586-2945, or visit *http://www1.eere.energy.gov/buildings/appliance\_standards.* Standards can be obtained from the sources listed below.
+(b) *AHAM.* Association of Home Appliance Manufacturers, 1111 19th Street NW, Suite 402, Washington, DC 20036; (202) 872-5955; *www.aham.org.*
 
-(b) *ASHRAE.* American Society of Heating, Refrigerating and Air-Conditioning Engineers, 1791 Tullie Circle, NE. Atlanta, GA 30329, 404-636-8400, or *www.ashrae.org.*
-
-(1) ANSI/ASHRAE Standard 32.1-2010, (“ANSI/ASHRAE 32.1”), “Methods of Testing for Rating Vending Machines for Sealed Beverages,” approved July 23, 2010, IBR approved for § 431.292 and appendices A and B to subpart Q of this part.
+(1) AHAM HRF-1-2016, *Energy and Internal Volume of Refrigerating Appliances,* copyright 2016; IBR approved for appendix B to this subpart.
 
 (2) [Reserved]
 
-(c) *ASTM.* ASTM International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959, (877) 909-2786, or go to *www.astm.org*.
+(c) *ASHRAE.* American Society of Heating, Refrigerating and Air-Conditioning Engineers, Inc., 1791 Tullie Circle NE, Atlanta, GA 30329; (404) 636-8400; *www.ashrae.org.*
 
-(1) ASTM E 1084-86 (Reapproved 2009), “Standard Test Method for Solar Transmittance (Terrestrial) of Sheet Materials Using Sunlight,” approved April 1, 2009, IBR approved for § 431.292.
+(1) ANSI/ASHRAE Standard 32.1-2022 (ANSI/ASHRAE 32.1), *Methods of Testing for Rating Refrigerated Vending Machines for Sealed Beverages,* approved December 30, 2022; IBR approved for § 431.292 and appendix B to this subpart.
 
 (2) [Reserved]
 
-[74 FR 44967, Aug. 31, 2009, as amended at 80 FR 45792, July 31, 2015; 81 FR 1113, Jan. 8, 2016]
+(d) *ASTM.* ASTM International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959; (877) 909-2786; *www.astm.org.*
+
+(1) ASTM E 1084-86 (Reapproved 2009), *Standard Test Method for Solar Transmittance (Terrestrial) of Sheet Materials Using Sunlight,* approved April 1, 2009; IBR approved for § 431.292.
+
+(2) [Reserved]
+
+[88 FR 28400, May 4, 2023]

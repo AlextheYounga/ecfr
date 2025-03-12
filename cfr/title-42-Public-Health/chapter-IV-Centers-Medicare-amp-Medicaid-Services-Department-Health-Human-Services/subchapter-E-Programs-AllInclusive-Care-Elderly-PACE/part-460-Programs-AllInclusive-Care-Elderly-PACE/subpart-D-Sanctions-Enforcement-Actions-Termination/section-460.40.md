@@ -1,7 +1,5 @@
 ##### § 460.40 Violations for which CMS may impose sanctions. #####
 
-Link to an amendment published at 88 FR 22345, Apr. 12, 2023.
-
 (a) In addition to other remedies authorized by law, CMS may impose any of the sanctions specified in §§ 460.42 and 460.46 if CMS determines that a PACE organization commits any of the following violations:
 
 (1) Fails substantially to provide to a participant medically necessary items and services that are covered PACE services, if the failure has adversely affected (or has substantial likelihood of adversely affecting) the participant.
@@ -28,6 +26,6 @@ Link to an amendment published at 88 FR 22345, Apr. 12, 2023.
 
 (10) Makes payment to any individual or entity that is included on the preclusion list, defined in § 422.2 of this chapter.
 
-(b) If CMS or the State administering agency makes a determination that could lead to termination of a PACE program agreement under § 460.50, CMS may impose any of the sanctions specified at §§ 460.42 and 460.46.
+(b) If CMS or the State administering agency makes a determination under § 460.50 that could lead to termination of a PACE program agreement, CMS may impose any of the sanctions specified at §§ 460.42 and 460.46. If CMS or the State administering agency determines that the circumstances in § 460.50(b)(1) exist, neither CMS nor the State administrating agency has to determine that the circumstances in § 460.50(b)(2) exist prior to imposing a CMP or enrollment and/or payment suspension.
 
-[64 FR 66279, Nov. 24, 1999, as amended at 81 FR 80561, Nov. 15, 2016; 83 FR 16756, Apr. 16, 2018; 84 FR 25672, June 3, 2019]
+[64 FR 66279, Nov. 24, 1999, as amended at 81 FR 80561, Nov. 15, 2016; 83 FR 16756, Apr. 16, 2018; 84 FR 25672, June 3, 2019; 88 FR 22345, Apr. 12, 2023]

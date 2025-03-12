@@ -1,7 +1,5 @@
 ##### § 422.2265 Websites. #####
 
-Link to an amendment published at 88 FR 22336, Apr. 12, 2023.
-
 As required under § 422.111(h)(2), MA organizations must have a website.
 
 (a) *General website requirements.* (1) MA organization websites must meet all of the following requirements:
@@ -32,7 +30,7 @@ As required under § 422.111(h)(2), MA organizations must have a website.
 
 (3) A PDF or copy of a printable provider directory.
 
-(4) A searchable provider directory.
+(4) A provider directory searchable by every element required in the model provider directory, such as name, location, specialty.
 
 (5) When applicable, a searchable pharmacy directory combined with a provider directory.
 
@@ -82,4 +80,4 @@ As required under § 422.111(h)(2), MA organizations must have a website.
 
 (iv) CMS Star Ratings document, which must be posted within 21 days after its release on the Medicare Plan Finder.
 
-[86 FR 6107, Jan. 19, 2021, as amended at 87 FR 27898, May 9, 2022]
+[86 FR 6107, Jan. 19, 2021, as amended at 87 FR 27898, May 9, 2022; 88 FR 22336, Apr. 12, 2023]

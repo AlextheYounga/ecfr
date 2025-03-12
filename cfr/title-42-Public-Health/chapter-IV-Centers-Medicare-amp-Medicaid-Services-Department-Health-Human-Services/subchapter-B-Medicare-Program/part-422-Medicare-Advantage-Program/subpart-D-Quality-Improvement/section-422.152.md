@@ -1,7 +1,5 @@
 ##### § 422.152 Quality improvement program. #####
 
-Link to an amendment published at 88 FR 22332, Apr. 12, 2023.
-
 (a) *General rule.* Each MA organization that offers one or more MA plan must have, for each plan, an ongoing quality improvement program that meets applicable requirements of this section for the service it furnishes to its MA enrollees. As part of its ongoing quality improvement program, a plan must do all of the following:
 
 (1) Create a quality improvement program plan that sufficiently outlines the elements of the plan's quality improvement program.
@@ -11,6 +9,8 @@ Link to an amendment published at 88 FR 22332, Apr. 12, 2023.
 (3) [Reserved]
 
 (4) Encourage its providers to participate in CMS and HHS quality improvement initiatives.
+
+(5) Incorporate one or more activities that reduce disparities in health and health care. These activities must be broadly accessible irrespective of race, ethnicity, national origin, religion, sex, or gender. These activities may be based upon health status and health needs, geography, or factors not listed in the previous sentence only as appropriate to address the relevant disparities in health and health care.
 
 (b) *Requirements for MA coordinated care plans (except for regional MA plans) and including local PPO plans that are offered by organizations that are licensed or organized under State law as HMOs.* An MA coordinated care plan's (except for regional PPO plans and local PPO plans as defined in paragraph (e) of this section) quality improvement program must—
 
@@ -114,4 +114,4 @@ Link to an amendment published at 88 FR 22332, Apr. 12, 2023.
 
 (h) *Requirements for MA private-fee-for-service plans and Medicare medical savings account plans.* MA PFFS and MSA plans are subject to the requirement that may not exceed the requirement specified in § 422.152(e).
 
-[70 FR 4723, Jan. 28, 2005, as amended at 70 FR 52026, Sept. 1, 2005; 73 FR 54249, Sept. 18, 2008; 75 FR 19805, Apr. 15, 2010; 76 FR 21564, Apr. 15, 2011; 80 FR 7959, Feb. 12, 2015; 83 FR 16725, Apr. 16, 2018; 85 FR 19290, Apr. 6, 2020]
+[70 FR 4723, Jan. 28, 2005, as amended at 70 FR 52026, Sept. 1, 2005; 73 FR 54249, Sept. 18, 2008; 75 FR 19805, Apr. 15, 2010; 76 FR 21564, Apr. 15, 2011; 80 FR 7959, Feb. 12, 2015; 83 FR 16725, Apr. 16, 2018; 85 FR 19290, Apr. 6, 2020; 88 FR 22332, Apr. 12, 2023]

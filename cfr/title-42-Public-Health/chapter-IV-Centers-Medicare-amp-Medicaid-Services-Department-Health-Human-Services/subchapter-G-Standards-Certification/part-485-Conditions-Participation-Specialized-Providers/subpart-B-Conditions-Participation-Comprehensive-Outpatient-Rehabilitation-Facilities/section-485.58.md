@@ -1,5 +1,7 @@
 ##### § 485.58 Condition of participation: Comprehensive rehabilitation program. #####
 
+Link to an amendment published at 88 FR 36510, June 5, 2023.
+
 The facility must provide a coordinated rehabilitation program that includes, at a minimum, physicians' services, physical therapy services, and social or psychological services. These services must be furnished by personnel that meet the qualifications set forth in §§ 485.70 and 484.115 of this chapter and must be consistent with the plan of treatment and the results of comprehensive patient assessments.
 
 (a) *Standard: Physician services.* (1) A facility physician must be present in the facility for a sufficient time to—

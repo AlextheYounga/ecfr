@@ -1,5 +1,7 @@
 ##### § 486.525 Required services. #####
 
+Link to an amendment published at 88 FR 36510, June 5, 2023.
+
 (a) The qualified home infusion therapy supplier must provide the following services on a 7-day-a-week, 24-hour-a-day basis in accordance with the plan of care:
 
 (1) Professional services, including nursing services.

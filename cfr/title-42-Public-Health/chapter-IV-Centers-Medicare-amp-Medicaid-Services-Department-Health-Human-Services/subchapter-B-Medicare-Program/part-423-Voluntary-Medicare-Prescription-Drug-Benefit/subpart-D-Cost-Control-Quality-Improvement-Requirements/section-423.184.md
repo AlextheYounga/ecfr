@@ -1,7 +1,5 @@
 ##### § 423.184 Adding, updating, and removing measures. #####
 
-Link to an amendment published at 88 FR 22338, Apr. 12, 2023.
-
 (a) *General.* CMS adds, updates, and removes measures used to calculate the Star Ratings as provided in this section. CMS lists the measures used for a particular Star Rating each year in the Technical Notes or similar guidance document with publication of the Star Ratings.
 
 (b) *Review of data quality.* CMS reviews the quality of the data on which performance, scoring and rating of a measure is based before using the data to score and rate performance or in calculating a Star Rating. This includes review of variation in scores among MA organizations and Part D plan sponsors, and the accuracy, reliability, and validity of measures and performance data before making a final determination about inclusion of measures in each year's Star Ratings.
@@ -41,6 +39,8 @@ Link to an amendment published at 88 FR 22338, Apr. 12, 2023.
 (ii) A measure shows low statistical reliability.
 
 (2) CMS will announce in advance of the measurement period the removal of a measure based upon its application of this paragraph (e) through the process described for changes in and adoption of payment and risk adjustment policies in section 1853(b) of the Act in advance of the measurement period.
+
+(iii) The measure steward other than CMS retires a measure.
 
 (f) *Improvement measure.* CMS will calculate improvement measure scores based on a comparison of the measure scores for the current year to the immediately preceding year as provided in this paragraph (f); the improvement measure score would be calculated for Parts C and D separately by taking a weighted sum of net improvement divided by the weighted sum of the number of eligible measures.
 
@@ -126,4 +126,4 @@ Link to an amendment published at 88 FR 22338, Apr. 12, 2023.
 
 (i) [Reserved]
 
-[83 FR 16743, Apr. 16, 2018, as amended at 84 FR 15842, Apr. 16, 2019; 85 FR 19291, Apr. 6, 2020; 86 FR 6118, Jan. 19, 2021; 87 FR 27899, May 9, 2022]
+[83 FR 16743, Apr. 16, 2018, as amended at 84 FR 15842, Apr. 16, 2019; 85 FR 19291, Apr. 6, 2020; 86 FR 6118, Jan. 19, 2021; 87 FR 27899, May 9, 2022; 88 FR 22338, Apr. 12, 2023]

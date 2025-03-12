@@ -1,5 +1,7 @@
 ##### § 460.74 Infection control. #####
 
+Link to an amendment published at 88 FR 36510, June 5, 2023.
+
 (a) *Standard procedures.* The PACE organization must follow accepted policies and standard procedures with respect to infection control, including at least the standard precautions developed by the Centers for Disease Control and Prevention.
 
 (b) *Infection control plan.* The PACE organization must establish, implement, and maintain a documented infection control plan that meets the following requirements:

@@ -1,7 +1,5 @@
 ##### § 422.514 Enrollment requirements. #####
 
-Link to an amendment published at 88 FR 22334, Apr. 12, 2023.
-
 (a) *Minimum enrollment rules.*Except as provided in paragraph (b) of this section, CMS does not enter into a contract under this subpart unless the organization meets the following minimum enrollment requirement—
 
 (1) At least 5,000 individuals (or 1,500 individuals if the organization is a PSO) are enrolled for the purpose of receiving health benefits from the organization; or
@@ -22,11 +20,11 @@ Link to an amendment published at 88 FR 22334, Apr. 12, 2023.
 
 (d) *Rule on dual eligible enrollment.* In any state where there is a dual eligible special needs plan or any other plan authorized by CMS to exclusively enroll individuals entitled to medical assistance under a state plan under title XIX, CMS does not:
 
-(1) Enter into a contract under this subpart, for plan year 2022 and subsequent years, for a new MA plan that—
+(1) Enter into or renew a contract under this subpart, for plan year 2024 and subsequent years, for a MA plan that—
 
 (i) Is not a specialized MA plan for special needs individuals as defined in § 422.2; and
 
-(ii) Projects enrollment in its bid submitted under § 422.254 that 80 percent or more enrollees of the plan's total enrollment are enrollees entitled to medical assistance under a state plan under title XIX.
+(ii) Projects enrollment in its bid submitted under § 422.254 that 80 percent or more enrollees of the plan's total enrollment are enrollees entitled to medical assistance under a State plan under title XIX.
 
 (2) Renew a contract under this subpart, for plan year 2023 and subsequent years, for an MA plan that—
 
@@ -56,4 +54,6 @@ Link to an amendment published at 88 FR 22334, Apr. 12, 2023.
 
 (f) *Special considerations.* Actions taken pursuant to paragraph (d) of this section warrant special consideration to exempt affected MA organizations from the denial of an application for a new contract or service area expansion in accordance with §§ 422.502(b)(3) and (4), 422.503(b)(6) and (7), 422.506(a)(3) and (4), 422.508(c) and (d), and 422.512(e)(1) and (2).
 
-[63 FR 35099, June 26, 1998, as amended at 65 FR 40328, June 29, 2000; 83 FR 16734, Apr. 16, 2018; 85 FR 33908, June 2, 2020]
+(g) *Applicability to segments.* The rules under paragraphs (d) through (f) of this section also apply to segments of the MA plan as provided for local MA plans under § 422.262(c)(2).
+
+[63 FR 35099, June 26, 1998, as amended at 65 FR 40328, June 29, 2000; 83 FR 16734, Apr. 16, 2018; 85 FR 33908, June 2, 2020; 88 FR 22334, Apr. 12, 2023]

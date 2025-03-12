@@ -1,5 +1,7 @@
 ##### § 485.725 Condition of participation: Infection control. #####
 
+Link to an amendment published at 88 FR 36510, June 5, 2023.
+
 The organization that provides outpatient physical therapy services establishes an infection-control committee of representative professional staff with responsibility for overall infection control. All necessary housekeeping and maintenance services are provided to maintain a sanitary and comfortable environment and to help prevent the development and transmission of infection.
 
 (a) *Standard: Infection-control committee.* The infection-control committee establishes policies and procedures for investigating, controlling, and preventing infections in the organization and monitors staff performance to ensure that the policies and procedures are executed.

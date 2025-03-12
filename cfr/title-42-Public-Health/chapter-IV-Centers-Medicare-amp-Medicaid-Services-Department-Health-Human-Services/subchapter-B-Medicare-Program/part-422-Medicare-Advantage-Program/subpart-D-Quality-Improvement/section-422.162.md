@@ -1,7 +1,5 @@
 ##### § 422.162 Medicare Advantage Quality Rating System. #####
 
-Link to an amendment published at 88 FR 22332, Apr. 12, 2023.
-
 (a) *Definitions.* In this subpart the following terms have the meanings:
 
 *Absolute percentage cap* is a cap applied to non-CAHPS measures that are on a 0 to 100 scale that restricts movement of the current year's measure-threshold-specific cut point to no more than the stated percentage as compared to the prior year's cut point.
@@ -28,11 +26,13 @@ Link to an amendment published at 88 FR 22332, Apr. 12, 2023.
 
 *Guardrail* is a bidirectional cap that restricts both upward and downward movement of a measure-threshold-specific cut point for the current year's measure-level Star Ratings as compared to the prior year's measure-threshold-specific cut point.
 
+*Health equity index* means an index that summarizes contract performance among those with specified social risk factors (SRFs) across multiple measures into a single score.
+
 *HEDIS* is the Healthcare Effectiveness Data and Information Set which is a widely used set of performance measures in the managed care industry, developed and maintained by the National Committee for Quality Assurance (NCQA). HEDIS data include clinical measures assessing the effectiveness of care, access/availability measures, and service use measures.
 
 *Highest rating* means the overall rating for MA-PDs, the Part C summary rating for MA-only contracts, and the Part D summary rating for PDPs.
 
-*Highly-rated contract* means a contract that has 4 or more stars for its highest rating when calculated without the improvement measures and with all applicable adjustments (CAI and the reward factor).
+*Highly-rated contract* means a contract that has 4 or more stars for its highest rating when calculated without the improvement measures and with all applicable adjustments in § 422.166(f).
 
 *HOS* means the Medicare Health Outcomes Survey which is the first patient reported outcomes measure that was used in Medicare managed care. The goal of the Medicare HOS program is to gather valid, reliable, and clinically meaningful health status data in the Medicare Advantage (MA) program for use in quality improvement activities, pay for performance, program oversight, public reporting, and improving health. All managed care organizations with MA contracts must participate.
 
@@ -70,7 +70,7 @@ Link to an amendment published at 88 FR 22332, Apr. 12, 2023.
 
 *Tukey outer fence outliers* are measure scores that are below a certain point (first quartile−3.0 × (third quartile−first quartile)) or above a certain point (third quartile + 3.0 × (third quartile−first quartile)).
 
-(b) *Contract ratings*—(1) *General.* CMS calculates an overall Star Rating, Part C summary rating, and Part D summary rating for each MA-PD contract, and a Part C summary rating for each MA-only contract using the 5-star rating system described in this subpart. Measures are assigned stars at the contract level and weighted in accordance with § 422.166(a). Domain ratings are the unweighted mean of the individual measure ratings under the topic area in accordance with § 422.166(b). Summary ratings are the weighted mean of the individual measure ratings for Part C or Part D in accordance with § 422.166(c), with both the reward factor and CAI applied as applicable, as described in § 422.166(f). Overall Star Ratings are calculated by using the weighted mean of the individual measure ratings in accordance with § 422.166(d) with both the reward factor and CAI applied as applicable, as described in § 422.166(f).
+(b) *Contract ratings*—(1) *General.* CMS calculates an overall Star Rating, Part C summary rating, and Part D summary rating for each MA-PD contract, and a Part C summary rating for each MA-only contract using the 5-star rating system described in this subpart. Measures are assigned stars at the contract level and weighted in accordance with § 422.166(a). Domain ratings are the unweighted mean of the individual measure ratings under the topic area in accordance with § 422.166(b). Summary ratings are the weighted mean of the individual measure ratings for Part C or Part D in accordance with § 422.166(c), with the applicable adjustments provided in paragraph (f) of this section. Overall Star Ratings are calculated by using the weighted mean of the individual measure ratings in accordance with § 422.166(d), with the applicable adjustments provided in paragraph (f) of this section. CMS includes the Star Ratings measures in the overall and summary ratings that are associated with the contract type for the Star Ratings year.
 
 (2) *Plan benefit packages.* All plan benefit packages (PBPs) offered under an MA contract have the same overall and/or summary Star Ratings as the contract under which the PBP is offered by the MA organization. Data from all the PBPs offered under a contract are used to calculate the measure and domain ratings for the contract except for Special Needs Plan (SNP)-specific measures collected at the PBP level; a contract level score for such measures is calculated using an enrollment-weighted mean of the PBP scores and enrollment reported as part of the measure specification in each PBP.
 
@@ -82,7 +82,7 @@ Link to an amendment published at 88 FR 22332, Apr. 12, 2023.
 
 (iv) The Star Ratings posted on Medicare Plan Finder for contracts that consolidate are as follows:
 
-(A)(*1*) For the first year after consolidation, CMS uses enrollment-weighted measure scores using the July enrollment of the measurement period of the consumed and surviving contracts for all measures, except survey-based measures and call center measures. The survey-based measures would use enrollment of the surviving and consumed contracts at the time the sample is pulled for the rating year. The call center measures would use average enrollment during the study period.
+(A)(*1*) For the first year after consolidation, CMS uses enrollment-weighted measure scores using the July enrollment of the measurement period of the consumed and surviving contracts for all measures, except survey-based measures, call center measures, and improvement measures. The survey-based measures will use enrollment of the surviving and consumed contracts at the time the sample is pulled for the rating year. The call center measures will use average enrollment during the study period. The Part C and D improvement measures are not calculated for first year consolidations.
 
 (*2*) For contract consolidations approved on or after January 1, 2022, if a measure score for a consumed or surviving contract is missing due to a data integrity issue as described in § 422.164(g)(1)(i) and (ii), CMS assigns a score of zero for the missing measure score in the calculation of the enrollment-weighted measure score.
 
@@ -100,4 +100,4 @@ Link to an amendment published at 88 FR 22332, Apr. 12, 2023.
 
 (2) MA organizations are required to collect, analyze, and report data that permit measurement of health outcomes and other indices of quality. MA organizations must provide unbiased, accurate, and complete quality data described in paragraph (c)(1) of this section to CMS on a timely basis as requested by CMS.
 
-[83 FR 16725, Apr. 16, 2018, as amended at 84 FR 15829, Apr. 16, 2019; 85 FR 33907, June 2, 2020; 86 FR 6097, Jan. 19, 2021]
+[83 FR 16725, Apr. 16, 2018, as amended at 84 FR 15829, Apr. 16, 2019; 85 FR 33907, June 2, 2020; 86 FR 6097, Jan. 19, 2021; 88 FR 22332, Apr. 12, 2023]

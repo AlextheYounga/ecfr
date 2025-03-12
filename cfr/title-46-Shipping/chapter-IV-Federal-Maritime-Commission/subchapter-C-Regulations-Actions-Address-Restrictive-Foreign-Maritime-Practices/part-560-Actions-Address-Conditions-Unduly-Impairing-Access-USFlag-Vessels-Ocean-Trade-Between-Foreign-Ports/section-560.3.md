@@ -1,10 +1,8 @@
 ##### § 560.3 Petitions for relief. #####
 
-Link to an amendment published at 88 FR 16899, Mar. 21, 2023.
-
 (a) *Filing.* (1) Any owner or operator of a liner, bulk, tramp or other vessel documented under the laws of the United States who believes that its access to ocean trade between foreign ports has been, or will be, unduly impaired may file a written petition for relief under the provisions of this part.
 
-(2) An original and fifteen copies of such a petition including any supporting documents shall be filed with the Secretary, Federal Maritime Commission, Washington, DC 20573. The petition must be accompanied by remittance of a $306 filing fee.
+(2) An original and fifteen copies of such a petition including any supporting documents shall be filed with the Secretary, Federal Maritime Commission, Washington, DC 20573. The petition must be accompanied by remittance of a $450 filing fee.
 
 (b) *Contents.* Petitions for relief shall include the following and shall also include an affidavit attesting to the truth and accuracy of the information submitted:
 
@@ -36,4 +34,4 @@ Link to an amendment published at 88 FR 16899, Mar. 21, 2023.
 
 (c) *Deficient petition.* A petition which substantially fails to comply with the requirements of paragraph (b) of this section shall be rejected and the person filing the petition shall be notified of the reasons for such rejection. Rejection is without prejudice to filing of an amended petition.
 
-[49 FR 45406, Nov. 15, 1984, as amended at 63 FR 50537, Sept. 22, 1998; 67 FR 39862, June 11, 2002; 70 FR 10331, Mar. 3, 2005; 81 FR 59145, Aug. 29, 2016; 83 FR 50295, Oct. 5, 2018; 85 FR 72579, Nov. 13, 2020]
+[49 FR 45406, Nov. 15, 1984, as amended at 63 FR 50537, Sept. 22, 1998; 67 FR 39862, June 11, 2002; 70 FR 10331, Mar. 3, 2005; 81 FR 59145, Aug. 29, 2016; 83 FR 50295, Oct. 5, 2018; 85 FR 72579, Nov. 13, 2020; 88 FR 16899, Mar. 21, 2023]

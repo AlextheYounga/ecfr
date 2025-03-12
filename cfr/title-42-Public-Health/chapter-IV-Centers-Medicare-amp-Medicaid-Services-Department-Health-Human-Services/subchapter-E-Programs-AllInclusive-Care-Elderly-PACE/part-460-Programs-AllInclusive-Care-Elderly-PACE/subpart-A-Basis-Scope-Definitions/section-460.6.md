@@ -1,10 +1,8 @@
 ##### § 460.6 Definitions. #####
 
-Link to an amendment published at 88 FR 22344, Apr. 12, 2023.
-
 As used in this part, unless the context indicates otherwise, the following definitions apply:
 
-*Contract year* means the term of a PACE program agreement, which is a calendar year, except that a PACE organization's initial contract year may be from 12 to 23 months, as determined by CMS.
+*Contract year* means the term of a PACE program agreement, which is a calendar year, except that a PACE organization's initial contract year may be from 19 to 30 months, as determined by CMS, but in any event will end on December 31.
 
 *Medicare beneficiary* means an individual who is entitled to Medicare Part A benefits or enrolled under Medicare Part B, or both.
 
@@ -30,4 +28,4 @@ As used in this part, unless the context indicates otherwise, the following defi
 
 *Trial period* means the first 3 contract years in which a PACE organization operates under a PACE program agreement, including any contract year during which the entity operated under a PACE demonstration waiver program.
 
-[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71334, Dec. 8, 2006; 86 FR 6131, Jan. 19, 2021]
+[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71334, Dec. 8, 2006; 86 FR 6131, Jan. 19, 2021; 88 FR 22344, Apr. 12, 2023]

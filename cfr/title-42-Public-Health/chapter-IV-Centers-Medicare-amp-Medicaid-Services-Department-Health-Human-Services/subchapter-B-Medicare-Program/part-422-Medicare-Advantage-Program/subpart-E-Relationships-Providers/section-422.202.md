@@ -1,7 +1,5 @@
 ##### § 422.202 Participation procedures. #####
 
-Link to an amendment published at 88 FR 22334, Apr. 12, 2023.
-
 (a) *Notice and appeal rights.* An MA organization that operates a coordinated care plan or network MSA plan must provide for the participation of individual physicians, and the management and members of groups of physicians, through reasonable procedures that include the following:
 
 (1) Written notice of rules of participation including terms of payment, credentialing, and other rules directly related to participation decisions.
@@ -16,7 +14,7 @@ Link to an amendment published at 88 FR 22334, Apr. 12, 2023.
 
 (1) Practice guidelines and utilization management guidelines—
 
-(i) Are based on reasonable medical evidence or a consensus of health care professionals in the particular field;
+(i) Are based on current evidence in widely used treatment guidelines or clinical literature;
 
 (ii) Consider the needs of the enrolled population;
 
@@ -44,4 +42,4 @@ Link to an amendment published at 88 FR 22334, Apr. 12, 2023.
 
 (4) *Timeframes.* An MA organization and a contracting provider must provide at least 60 days written notice to each other before terminating the contract without cause.
 
-[64 FR 7981, Feb. 17, 1999, as amended at 65 FR 40324, June 29, 2000; 68 FR 50857, Aug. 22, 2003; 70 FR 4724, Jan. 28, 2005]
+[64 FR 7981, Feb. 17, 1999, as amended at 65 FR 40324, June 29, 2000; 68 FR 50857, Aug. 22, 2003; 70 FR 4724, Jan. 28, 2005; 88 FR 22334, Apr. 12, 2023]

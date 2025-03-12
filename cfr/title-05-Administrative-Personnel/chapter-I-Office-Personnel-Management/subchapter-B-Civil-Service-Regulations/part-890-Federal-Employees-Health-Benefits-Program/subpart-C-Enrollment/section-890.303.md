@@ -1,7 +1,5 @@
 ##### § 890.303 Continuation of enrollment. #####
 
-Link to an amendment published at 88 FR 20403, Apr. 6, 2023.
-
 (a) *On transfer or retirement.* (1) Except as otherwise provided by this part, the enrollment of an employee or annuitant eligible to continue enrollment continues without change when he or she moves from one employing office to another, without a break in service of more than 3 days, whether the personnel action is designated as a transfer or not.
 
 (2) In order for an employee to continue an enrollment as an annuitant, he or she must meet the participation requirements set forth at 8905(b) of title 5, United States Code, for continuing an enrollment as an annuitant as of the commencing date of his or her annuity or monthly compensation.
@@ -43,5 +41,7 @@ Link to an amendment published at 88 FR 20403, Apr. 6, 2023.
 (2) An employee in nonpay status is entitled to continued coverage under paragraph (e) of this section if the employee's entitlement to benefits under part 353 of this chapter, or similar authority, ends before the expiration of 365 days in nonpay status.
 
 (3) If the enrollment of an employee had terminated due to the expiration of 365 days in nonpay status or because of the employee's separation from service, it may be reinstated for the remainder of the 24-month period beginning on the date that the employee is placed on leave without pay or separated from service to perform active duty in the uniformed services, provided that the employee continues to be entitled to continued coverage under part 353 of this chapter, or similar authority.
+
+(j) *On transfer to or from Postal Service.* The eligibility of a Postal Service employee to continue enrollment under 5 U.S.C. chapter 89 continues without change when they move from the Postal Service to another employing office, without a break in service of more than 3 days, whether the personnel action is designated as a transfer or not. In such a circumstance they may no longer enroll in a PSHB plan under subpart P of this part, and they may only enroll in an FEHB plan. The eligibility of an employee or annuitant to continue enrollment under 5 U.S.C. chapter 89 continues without change when they move from another employing office to the Postal Service, without a break in service of more than 3 days, whether the personnel action is designated as a transfer or not; however, they may no longer enroll in an FEHB plan, and they may only enroll in a PSHB plan under subpart P.
 
 [33 FR 12510, Sept. 4, 1968]Editorial Note:For Federal Register citations affecting § 890.303, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

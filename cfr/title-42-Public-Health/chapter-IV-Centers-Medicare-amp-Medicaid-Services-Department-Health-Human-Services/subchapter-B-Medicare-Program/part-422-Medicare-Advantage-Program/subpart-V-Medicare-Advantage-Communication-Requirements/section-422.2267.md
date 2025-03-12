@@ -1,7 +1,5 @@
 ##### § 422.2267 Required materials and content. #####
 
-Link to an amendment published at 88 FR 22336, Apr. 12, 2023.Link to a correction published at 88 FR 34780, May 31, 2023.
-
 For information CMS deems to be vital to the beneficiary, including information related to enrollment, benefits, health, and rights, the agency may develop materials or content that are either standardized or provided in a model form. Such materials and content are collectively referred to as required.
 
 (a) *Standards for required materials and content.* All required materials and content, regardless of categorization as standardized in paragraph (b) of this section or model in paragraph (c) of this section, must meet the following:
@@ -10,7 +8,11 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (2) For markets with a significant non-English speaking population, be in the language of these individuals. Specifically, MA organizations must translate required materials into any non-English language that is the primary language of at least 5 percent of the individuals in a plan benefit package (PBP) service area.
 
-(3) Be provided to the beneficiary within CMS's specified timeframes.
+(3) Be provided to enrollees on a standing basis in any non-English language identified in paragraphs (a)(2) and (4) of this section or accessible format upon receiving a request for the materials in a non-English language or accessible format or when otherwise learning of the enrollee's primary language or need for an accessible format. This requirement also applies to the individualized plans of care described in § 422.101(f)(1)(ii) for special needs plan enrollees.
+
+(4) For any fully integrated dual eligible special needs plan or highly integrated dual eligible special needs plan, as defined at § 422.2, or applicable integrated plan, as defined at § 422.561, be translated into the language(s) required by the Medicaid translation standard as specified through their capitated Medicaid managed care contract in addition to the language(s) required by the Medicare translation standard in paragraph (a)(2) of this section.
+
+(5) Be provided to the beneficiary within CMS's specified timeframes.
 
 (b) *Standardized materials.* Standardized materials and content are required materials and content that must be used in the form and manner provided by CMS.
 
@@ -84,7 +86,7 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (ii) Enrollees with an October 1, November 1, or December 1 effective date must receive within 10 calendar days from receipt of CMS confirmation of enrollment or by last day of month prior to effective date, whichever is later.
 
-(4) *Pre-Enrollment checklist (PECL).* The PECL is a standardized communications material that plans must provide to prospective enrollees with the enrollment form, so that the enrollees understand important plan benefits and rules. It references information on the following:
+(4) *Pre-Enrollment checklist (PECL).* The PECL is a standardized communications material that plans must provide to prospective enrollees with the enrollment form, so that the enrollees understand important plan benefits and rules. For telephonic enrollments, the contents of the PECL must be reviewed with the prospective enrollee prior to the completion of the enrollment. It references information on the following:
 
 (i) The EOC.
 
@@ -100,6 +102,8 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (vii) Plan-type rules.
 
+(viii) Effect on current coverage.
+
 (5) *Summary of Benefits (SB).* MA organizations must disseminate a summary of highly utilized coverage that include benefits and cost sharing to prospective enrollees, known as the SB. The SB is a model marketing material. It must be in a clear and accurate form.
 
 (i) The SB must be provided with an enrollment form as follows:
@@ -112,7 +116,7 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (ii) The SB must include the following information:
 
-(A) Information on medical benefits, including:
+(A) Information on the following medical benefits, starting in the top half of the first page and in the order as identified in paragraphs (A)(1) through (A)(10), including—
 
 (*1*) Monthly Plan Premium.
 
@@ -180,7 +184,7 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (B) The notice must also appear on the MA organization's website.
 
-(10) *Non-renewal Notice.* This is a model communications material through which plans must provide the information required under § 422.506.
+(10) *Non-renewal Notice.* This is a standardized communications material through which plans must provide the information required under § 422.506.
 
 (i) The Non-renewal Notice must be provided at least 90 calendar days before the date on which the nonrenewal is effective. For contracts ending on December 31, the notice must be dated October 2 to ensure national consistency in the application of Medigap Guaranteed Issue (GI) rights to all enrollees, except for those enrollees in special needs plans (SNPs). Information about non-renewals or service area reductions may not be released to the public, including the Non-renewal Notice, until CMS provides notification to the plan.
 
@@ -218,11 +222,23 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (*2*) Hard copy directories that include separate updates via addenda are considered up-to-date.
 
-(12) *Provider Termination Notice.* This is a model communications material through which plans must provide the information required under § 422.111(e). The provider termination notice must be both of the following:
+(12) *Provider Termination Notice.* This is a model communications material through which plans must provide the information required under § 422.111(e).
 
-(i) Provided in hard copy.
+(i) The written Provider Termination Notice must be provided in hard copy via U.S. mail (first class postage is recommended, but not required).
 
-(ii) Sent via U.S. mail (first class postage is recommended, but not required).
+(ii) The written Provider Termination Notice must do all of the following:
+
+(A) Inform the enrollee that the provider will no longer be in the network and the date the provider will leave the network.
+
+(B) Include names and phone numbers of in-network providers that the enrollee may access for continued care (this information may be supplemented with information for accessing a current provider directory, including both online and direct mail options).
+
+(C) Explain how the enrollee may request a continuation of ongoing medical treatment or therapies with their current provider.
+
+(D) Provide information about the annual coordinated election period and the MA open enrollment period, as well as explain that an enrollee who is impacted by the provider termination may contact 1-800-MEDICARE to request assistance in identifying and switching to other coverage, or to request consideration for a special election period, as specified in § 422.62(b)(26), based on the individual's unique circumstances and consistent with existing parameters for this SEP.
+
+(E) Include the MA organization's call center telephone number, TTY number, and hours and days of operation.
+
+(iii) The telephonic Provider Termination Notice specified in § 422.111(e)(1)(i) must relay the same information as the written Provider Termination Notice as described in paragraph (e)(12)(ii) of this section.
 
 (13) *Star Ratings Document.* This is a standardized marketing material through which Star Ratings information is conveyed to prospective enrollees.
 
@@ -292,7 +308,7 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (v) Must be updated whenever information on a member's existing card changes; in such cases an updated card must be provided to the member;
 
-(vi) Is excluded from the translation requirement under paragraph (a)(2) of this section; and
+(vi) Is excluded from the translation requirement under paragraphs (a)(2) through (4) of this section; and
 
 (vii) Is excluded from the 12-point font size requirement under paragraph (a)(1) of this section.
 
@@ -388,9 +404,9 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (iv) Not include numeric SNP approval scores.
 
-(41) *Third-party marketing organization disclaimer.* This is standardized content. The disclaimer consists of the statement: “We do not offer every plan available in your area. Any information we provide is limited to those plans we do offer in your area. Please contact Medicare.gov or 1-800-MEDICARE to get information on all of your options.” The MA organization must ensure that the disclaimer is as follows:
+(41) *Third-party marketing organization disclaimer.* This is standardized content. If a TPMO does not sell for all MA organizations in the service area the disclaimer consists of the statement: “We do not offer every plan available in your area. Currently we represent [insert number of organizations] organizations which offer [insert number of plans] products in your area. Please contact *Medicare.gov*, 1-800-MEDICARE, or your local State Health Insurance Program to get information on all of your options.” If the TPMO sells for all MA organizations in the service area the disclaimer consists of the statement: “Currently we represent [insert number of organizations] organizations which offer [insert number of plans] products in your area. You can always contact *Medicare.gov*, 1-800-MEDICARE, or your local State Health Insurance Program for help with plan choices.” The MA organization must ensure that the disclaimer is as follows:
 
-(i) Used by any TPMO, as defined under § 422.2260, that sells plans on behalf of more than one MA organization unless the TPMO sells all commercially available MA plans in a given service area.
+(i) Used by any TPMO, as defined under § 422.2260, that sells plans on behalf of more than one MA organization.
 
 (ii) Verbally conveyed within the first minute of a sales call.
 
@@ -400,4 +416,4 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (v) Included in any marketing materials, including print materials and television advertisements, developed, used or distributed by the TPMO.
 
-[86 FR 6108, Jan. 19, 2021, as amended at 87 FR 27898, May 9, 2022]
+[86 FR 6108, Jan. 19, 2021, as amended at 87 FR 27898, May 9, 2022; 88 FR 22336, Apr. 12, 2023; 88 FR 34780, May 31, 2023]

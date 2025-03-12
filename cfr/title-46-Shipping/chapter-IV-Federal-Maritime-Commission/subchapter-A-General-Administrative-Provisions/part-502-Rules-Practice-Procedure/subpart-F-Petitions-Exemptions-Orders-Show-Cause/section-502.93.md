@@ -1,12 +1,10 @@
 ##### § 502.93 Declaratory orders and fee. #####
 
-Link to an amendment published at 88 FR 16897, Mar. 21, 2023.
-
 (a)(1) The Commission may, in its discretion, issue a declaratory order to terminate a controversy or to remove uncertainty.
 
 (2) Petitions for the issuance thereof must: state clearly and concisely the controversy or uncertainty; name the persons and cite the statutory authority involved; include a complete statement of the facts and grounds prompting the petition, together with full disclosure of petitioner's interest; be served upon all parties named therein; and conform to the requirements of subpart H of this part.
 
-(3) Petitions must be accompanied by remittance of a $306 filing fee.
+(3) Petitions must be accompanied by remittance of a $450 filing fee.
 
 (b) Petitions under this section must be limited to matters involving conduct or activity regulated by the Commission under statutes administered by the Commission. The procedures of this section must be invoked solely for the purpose of obtaining declaratory rulings which will allow persons to act without peril upon their own view. Controversies involving an allegation of violation by another person of statutes administered by the Commission, for which coercive rulings such as payment of reparation or cease and desist orders are sought, are not proper subjects of petitions under this section. Such matters must be adjudicated either by filing of a complaint under section 11 of the Shipping Act of 1984 (46 U.S.C. 41301-41302, 41305-41307(a)) and § 502.62, or by filing of a petition for investigation under § 502.76.
 
@@ -24,4 +22,4 @@ Link to an amendment published at 88 FR 16897, Mar. 21, 2023.
 
 (g) Petitions for declaratory order which conform to the requirements of this section will be referred to a formal docket. Referral to a formal docket is not to be construed as the exercise by the Commission of its discretion to issue an order on the merits of the petition. [Rule 75.]
 
-[77 FR 61524, Oct. 10, 2012, as amended at 81 FR 59143, Aug. 29, 2016. Redesignated at 81 FR 93836, Dec. 22, 2016, as amended at 83 FR 50294, Oct. 5, 2018; 85 FR 72578, Nov. 13, 2020]
+[77 FR 61524, Oct. 10, 2012, as amended at 81 FR 59143, Aug. 29, 2016. Redesignated at 81 FR 93836, Dec. 22, 2016, as amended at 83 FR 50294, Oct. 5, 2018; 85 FR 72578, Nov. 13, 2020; 88 FR 16897, Mar. 21, 2023]

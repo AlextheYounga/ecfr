@@ -1,7 +1,5 @@
 ##### § 422.2262 General communications materials and activities requirements. #####
 
-Link to an amendment published at 88 FR 22335, Apr. 12, 2023.
-
 MA organizations may not mislead, confuse, or provide materially inaccurate information to current or potential enrollees.
 
 (a) *General rules.* MA organizations must ensure their statements and the terminology used in communications activities and materials adhere to the following requirements:
@@ -10,7 +8,11 @@ MA organizations may not mislead, confuse, or provide materially inaccurate info
 
 (i) Provide information that is inaccurate or misleading.
 
-(ii) Make unsubstantiated statements, except when used in logos or taglines.
+(ii) Use of superlatives, unless sources of documentation or data supportive of the superlative is also referenced in the material. Such supportive documentation or data must reflect data, reports, studies, or other documentation that applies to the current or prior contract year.
+
+(A) Including data older than the prior contract year is permitted provided the current and prior contract year data are specifically identified.
+
+(B) [Reserved]
 
 (iii) Engage in activities that could mislead or confuse Medicare beneficiaries, or misrepresent the MA organization.
 
@@ -43,6 +45,8 @@ MA organizations may not mislead, confuse, or provide materially inaccurate info
 (xvii) Target marketing efforts primarily to dual eligible individuals, unless the plan is a dual eligible special needs plan or comparable plan as determined by the Secretary.
 
 (xviii) Claim a relationship with the state Medicaid agency, unless a contract to coordinate Medicaid services for enrollees in that plan is in place.
+
+(xix) Use the Medicare name, CMS logo, and products or information issued by the Federal Government, including the Medicare card, in a misleading way. Use of the Medicare card image is permitted only with authorization from CMS.
 
 (2) MA organizations may do the following:
 
@@ -114,4 +118,4 @@ MA organizations may not mislead, confuse, or provide materially inaccurate info
 
 (4) Non-English and alternate format materials, based on previously created materials, may have the same SMID as the material on which they are based.
 
-[86 FR 6104, Jan. 19, 2021]
+[86 FR 6104, Jan. 19, 2021, as amended at 88 FR 22335, Apr. 12, 2023]

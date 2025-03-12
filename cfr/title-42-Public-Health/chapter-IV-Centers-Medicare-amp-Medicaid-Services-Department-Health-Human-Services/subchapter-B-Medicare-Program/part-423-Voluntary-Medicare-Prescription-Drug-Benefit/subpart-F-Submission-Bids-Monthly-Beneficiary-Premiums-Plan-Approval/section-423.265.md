@@ -1,14 +1,16 @@
 ##### § 423.265 Submission of bids and related information. #####
 
-Link to an amendment published at 88 FR 22339, Apr. 12, 2023.
-
 (a) *Eligibility for bidding.* An applicant may submit a bid to become a Part D plan sponsor.
 
 (b) *Bid submission*—(1) *General.* Not later than the first Monday in June, each potential Part D sponsor must submit bids and supplemental information described in this section for each Part D plan it intends to offer in the subsequent calendar year.
 
-(2) *Limit on number of plan offerings.* Potential Part D sponsors' bid submissions may include no more than three stand-alone prescription drug plan offerings in a service area and must include only one basic prescription drug plan offering.
+(2) *Substantial differences between bids*—(i) *General rule.* Except as provided in paragraph (b)(2)(ii) of this section, potential Part D sponsors' bid submissions must reflect differences in benefit packages or plan costs that CMS determines to represent substantial differences relative to a sponsor's other bid submissions. In order to be considered “substantially different,” each bid must be significantly different from the sponsor's other bids with respect to beneficiary out-of-pocket costs or formulary structures.
 
-(3) CMS may decline to accept any or every bid submitted by a Part D sponsor or potential Part D sponsor.
+(ii) *Exception.* A potential Part D sponsor's enhanced bid submission does not have to reflect the substantial differences as required in paragraph (b)(2)(i) of this section relative to any of its other enhanced bid submissions.
+
+(3) *Limit on number of plan offerings.* Potential Part D sponsors' bid submissions may include no more than three stand-alone prescription drug plan offerings in a service area and must include only one basic prescription drug plan offering.
+
+(4) *Bid acceptance.* CMS may decline to accept any or every bid submitted by a Part D sponsor or potential Part D sponsor.
 
 (c) *Basic rule for bid.* Each potential Part D sponsor must submit a bid and supplemental information in a format to be specified by CMS for each Part D plan it offers. Each bid must reflect a uniform benefit package, including premium (except as provided for the late enrollment penalty described in § 423.286(d)(3)) and all applicable cost sharing, for all individuals enrolled in the plan. Each bid must reflect the applicant's estimate of its average monthly revenue requirements to provide qualified prescription drug coverage (including any supplemental coverage) for a Part D eligible individual with a national average risk profile for the factors described in § 423.329(b)(1).
 
@@ -52,4 +54,4 @@ Link to an amendment published at 88 FR 22339, Apr. 12, 2023.
 
 (f) *Special rule for fallback prescription drug plans.* Fallback prescription drug plan bids are not subject to the rules in this section. They must follow requirements specified in § 423.863.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19818, Apr. 15, 2010; 76 FR 21573, Apr. 15, 2011; 83 FR 16749, Apr. 16, 2018; 86 FR 6118, Jan. 19, 2021]
+[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19818, Apr. 15, 2010; 76 FR 21573, Apr. 15, 2011; 83 FR 16749, Apr. 16, 2018; 86 FR 6118, Jan. 19, 2021; 88 FR 22339, Apr. 12, 2023]

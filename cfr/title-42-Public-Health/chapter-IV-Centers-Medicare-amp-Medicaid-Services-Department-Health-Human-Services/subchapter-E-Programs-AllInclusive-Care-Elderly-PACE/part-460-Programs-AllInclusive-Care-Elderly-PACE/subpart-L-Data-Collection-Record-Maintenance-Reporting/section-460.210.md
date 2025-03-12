@@ -1,7 +1,5 @@
 ##### § 460.210 Medical records. #####
 
-Link to an amendment published at 88 FR 22345, Apr. 12, 2023.
-
 (a) *Maintenance of medical records.* (1) A PACE organization must maintain a single, comprehensive medical record for each participant, in accordance with accepted professional standards.
 
 (2) The medical record for each participant must meet the following requirements:
@@ -36,11 +34,13 @@ Link to an amendment published at 88 FR 22345, Apr. 12, 2023.
 
 (5) If a service recommended by an employee or contractor of the PACE organization, including a specialist, is not approved or provided, the reason(s) for not approving or providing that service.
 
-(6) Original documentation, or an unaltered electronic copy, of any written communication the PACE organization receives relating to the care, health or safety of a participant, in any format (for example, emails, faxes, letters, etc.) and including, but not limited to the following:
+(6) Original documentation, or an unaltered electronic copy, of any written communication as described in § 460.200(d)(2) must be maintained in the participant's medical record unless the following requirements are met:
 
-(i) Communications from the participant, his or her designated representative, a family member, a caregiver, or any other individual who provides information pertinent to a participant's health or safety or both.
+(i) The medical record contains a thorough and accurate summary of the communication including all relevant aspects of the communication,
 
-(ii) Communications from an advocacy or governmental agency such as Adult Protective Services.
+(ii) Original documentation of the communication is maintained outside of the medical record and is accessible by employees and contractors of the PACE organization when necessary, and in accordance with § 460.200(e), and
+
+(iii) Original documentation of the communication is available to CMS and the SAA upon request.
 
 (7) Laboratory, radiological and other test reports.
 
@@ -66,4 +66,4 @@ Link to an amendment published at 88 FR 22345, Apr. 12, 2023.
 
 (2) Authentication must include signatures or a secured computer entry by a unique identifier of the primary author who has reviewed and approved the entry.
 
-[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71337, Dec. 8, 2006; 86 FR 6135, Jan. 19, 2021]
+[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71337, Dec. 8, 2006; 86 FR 6135, Jan. 19, 2021; 88 FR 22345, Apr. 12, 2023 ]

@@ -1,6 +1,4 @@
-##### § 422.109 Effect of national coverage determinations (NCDs) and legislative changes in benefits. #####
-
-Link to an amendment published at 88 FR 22329, Apr. 12, 2023.
+##### § 422.109 Effect of national coverage determinations (NCDs) and legislative changes in benefits; coverage of clinical trials and A and B device trials. #####
 
 (a) *Definitions.* The term *significant cost,* as it relates to a particular NCD or legislative change in benefits, means either of the following:
 
@@ -34,4 +32,18 @@ Link to an amendment published at 88 FR 22329, Apr. 12, 2023.
 
 (d) *After payment adjustments become effective.* For the contract year in which payment adjustments that take into account the significant cost of the NCD service or legislative change in benefits are in effect, the service or benefit is included in the MA organization's contract with CMS, and is a covered benefit under the contract. Subject to all applicable rules under this part, the MA organization must furnish, arrange, or pay for the NCD service or legislative change in benefits. MA organizations may establish separate plan rules for these services and benefits, subject to CMS review and approval. CMS may, at its discretion, issue overriding instructions limiting or revising the MA plan rules, depending on the specific NCD or legislative change in benefits. For these services or benefits, the Medicare enrollee will be responsible for MA plan cost sharing, as approved by CMS or unless otherwise instructed by CMS.
 
-[68 FR 50856, Aug. 22, 2003, as amended at 70 FR 4721, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005]
+(e) *Clinical trials specified in NCD 310.1.* (1) With the exception specified in paragraph (e)(3) of this section, original Medicare is responsible for coverage of MA enrollees participating in CMS-approved clinical trials to include routine costs, as specified in NCD 310.1, and any coverage for the diagnosis or treatment of complications related to the clinical trial.
+
+(2) MA enrollees are not charged traditional Medicare Part A and B deductibles for clinical trial coverage.
+
+(3) MA plans are responsible for paying the difference between traditional Medicare cost-sharing incurred for qualifying clinical trial items and services and the MA plan's in-network cost-sharing for the same category of items and services.
+
+(4) An enrollee's in-network cost-sharing portion must be included in the MA plan's maximum out-of-pocket calculation.
+
+(5) MA plans may not require prior authorization for participation in a Medicare-qualified clinical trial not sponsored by the plan, nor may it create impediments to an enrollee's participation in a non-plan-sponsored clinical trial.
+
+(f) *A and B IDE trials.* (1) MA plans are responsible for payment of routine care items and services in CMS-approved Category A and Category B IDE studies that are covered under § 405.211(a) of this chapter.
+
+(2) MA plans are responsible for coverage of CMS-approved Category B devices that are covered under § 405.211(b) of this chapter.
+
+[68 FR 50856, Aug. 22, 2003, as amended at 70 FR 4721, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 88 FR 22329, Apr. 12, 2023]

@@ -1,7 +1,5 @@
 ##### § 423.2267 Required materials and content. #####
 
-Link to an amendment published at 88 FR 22341, Apr. 12, 2023.Link to a correction published at 88 FR 34780, May 31, 2023.
-
 For information CMS deems to be vital to the beneficiary, including information related to enrollment, benefits, health, and rights, the agency may develop materials or content that are either standardized or provided in a model form. Such materials and content are collectively referred to as required.
 
 (a) *Standards for required materials and content.* All required materials and content, regardless of categorization as standardized in paragraph (b) of this section or model in paragraph (c) of this section, must meet the following:
@@ -10,7 +8,11 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (2) For markets with a significant non-English speaking population, be in the language of these individuals. Specifically, Part D sponsors must translate required materials into any non-English language that is the primary language of at least 5 percent of the individuals in a plan benefit package (PBP) service area.
 
-(3) Be provided to the beneficiary within CMS's specified timeframes.
+(3) Be provided to enrollees on a standing basis in any non-English language identified in paragraphs (a)(2) and (4) of this section and/or accessible format using auxiliary aids and services upon receiving a request for the materials in a non-English language or accessible format or when otherwise learning of the enrollee's primary language and/or need for an accessible format. This requirement also applies to the individualized plans of care described in § 422.101(f)(1)(ii) of this chapter for special needs plan enrollees.
+
+(4) For any fully integrated dual eligible special needs plan or highly integrated dual eligible special needs plan as defined at § 422.2 of this chapter, or applicable integrated plan as defined at § 422.561 of this chapter, be translated into the language(s) required by the Medicaid translation standard as specified through their capitated Medicaid managed care contract in addition to the language(s) required by the Medicare translation standard in paragraph (a)(2) of this section.
+
+(5) Be provided to the beneficiary within CMS's specified timeframes.
 
 (b) *Standardized materials.* Standardized materials and content are required materials and content that must be used in the form and manner provided by CMS.
 
@@ -86,7 +88,7 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (ii) Enrollees with an October 1, November 1, or December 1 effective date must receive within 10 calendar days from receipt of CMS confirmation of enrollment or by last day of month prior to effective date, whichever is later.
 
-(4) *Pre-Enrollment Checklist (PECL).* The PECL is a standardized communications material that plans must provide to prospective enrollees with the enrollment form so that the enrollees understand important plan benefits and rules. The PECL references information on the following:
+(4) *Pre-enrollment checklist (PECL).* The PECL is a standardized communications material that plans must provide to prospective enrollees with the enrollment form, so that the enrollees understand important plan benefits and rules. For telephonic enrollments the contents of the PECL must be reviewed with the prospective enrollee prior to the completion of the enrollment. It references information on the following:
 
 (i) The EOC.
 
@@ -101,6 +103,8 @@ For information CMS deems to be vital to the beneficiary, including information 
 (vi) Emergency/urgent coverage.
 
 (vii) Plan-type rules.
+
+(viii) Effect on current coverage.
 
 (5) *Summary of Benefits (SB).* Part D sponsors must disseminate a summary of highly utilized coverage that include benefits and cost sharing to prospective enrollees, known as the SB. The SB is a model marketing material. It must be in a clear and accurate format.
 
@@ -158,7 +162,7 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (B) The notice must also appear on the MA organization's website.
 
-(13) *Non-renewal Notice.* This is a model communications material through which plans must provide the information required under § 423.507.
+(13) *Non-renewal notice.* This is a standardized communications material through which plans must provide the information required under § 423.507.
 
 (i) The Non-renewal Notice must be provided at least 90 calendar days before the date on which the nonrenewal is effective. For contracts ending on December 31, the notice must be dated October 2 to ensure national consistency in the application of Medigap Guaranteed Issue (GI) rights to all enrollees, except for those enrollees in Medicare-Medicaid Plans (MMPs) and special needs plans (SNPs). Information about non-renewals or service area reductions may not be released to the public, including the Non-renewal Notice in this section, until CMS provides notification to the plan.
 
@@ -262,7 +266,7 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (v) Must be updated whenever information on a member's existing card changes; in such cases an updated card must be provided to the member;
 
-(vi) Is excluded from the translation requirement under paragraph (a)(2) of this section; and
+(vi) Is excluded from the translation requirement under paragraphs (a)(2) through (4) of this section; and
 
 (vii) Is excluded from the 12-point font size requirement under paragraph (a)(1) of this section.
 
@@ -344,9 +348,9 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (ii) Include the following language: “\<insert organization/plan name\>'s pharmacy network includes limited lower-cost, preferred pharmacies in \<insert geographic area type(s) and state(s) for which plan is an outlier)\>. The lower costs advertised in our plan materials for these pharmacies may not be available at the pharmacy you use. For up-to-date information about our network pharmacies, including whether there are any lower-cost preferred pharmacies in your area, please call \<insert Member Services phone number and TTY\> or consult the online pharmacy directory at \<insert website\>.”
 
-(41) *Third-party marketing organization disclaimer.* This is standardized content. The disclaimer consists of the statement: “We do not offer every plan available in your area. Any information we provide is limited to those plans we do offer in your area. Please contact Medicare.gov or 1-800-MEDICARE to get information on all of your options.” The Part D sponsor must ensure that the disclaimer is as follows:
+(41) *Third-party marketing organization disclaimer.* This is standardized content. If a TPMO does not sell for all Part D sponsors in the service area the disclaimer consists of the statement: “We do not offer every plan available in your area. Currently we represent [insert number of organizations] organizations which offer [insert number of plans] products in your area. Please contact *Medicare.gov*, 1-800-MEDICARE, or your local State Health Insurance Program to get information on all of your options.” If the TPMO sells for all Part D sponsors in the service area the disclaimer consists of the statement: “Currently we represent [insert number of organizations] organizations which offer [insert number of plans] products in your area. You can always contact *Medicare.gov*, 1-800-MEDICARE, or your local State Health Insurance Program for help with plan choices.” The Part D sponsor must ensure that the disclaimer is as follows:
 
-(i) Used by any TPMO, as defined under § 423.2260, that sells plans on behalf of more than one Part D sponsor unless the TPMO sells all commercially available Part D plans in a given service area.
+(i) Used by any TPMO, as defined under § 422.2260, that sells plans on behalf of more than one Part D sponsor.
 
 (ii) Verbally conveyed within the first minute of a sales call.
 
@@ -354,6 +358,12 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (iv) Prominently displayed on TPMO websites.
 
-(v) Included in any TPMO marketing materials, including print materials and television advertising.
+(v) Included in any marketing materials, including print materials and television advertisements, developed, used or distributed by the TPMO.
 
-[86 FR 6126, Jan. 19, 2021, as amended at 86 FR 29528, June 2, 2021; 87 FR 27901, May 9, 2022]
+(42) [Reserved]
+
+(43) *Comprehensive medication review—written summary.* This is the standardized communications material Part D sponsors must provide to all MTM program enrollees who receive a comprehensive medication review, as required under § 423.153(d)(1)(vii)(B).
+
+(44) *Safe disposal information.* This is model communications material Part D sponsors must provide to all enrollees targeted for its MTM program, as required under § 423.153(d)(1)(vii)(E).
+
+[86 FR 6126, Jan. 19, 2021, as amended at 86 FR 29528, June 2, 2021; 87 FR 27901, May 9, 2022; 88 FR 22341, Apr. 12, 2023; 88 FR 34780, May 31, 2023]

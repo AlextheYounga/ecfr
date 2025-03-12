@@ -1,0 +1,5 @@
+##### § 54.1522 Security reporting. #####
+
+By August 31, 2023, support recipients under § 54.1516 shall file their first network security report that identifies and explains the network security controls implemented, their effectiveness in fending off cybersecurity attacks, and how those controls are commensurate with established network security best practices and standards or an established risk management framework. By March 31, 2025, support recipients under § 54.1516 shall file their second network security report, covering the time period between August 31, 2023, and March 1, 2025, that identifies and explains the network security controls implemented, their effectiveness in fending off cybersecurity attacks and how those controls are commensurate with established network security best practices and standards or an established risk management framework.
+
+[88 FR 29000, May 5, 2023]

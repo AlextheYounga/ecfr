@@ -2316,7 +2316,7 @@ Map provided is for informational purposes only. Map follows:
 
 (ii) Map of Unit 6 follows:
 
-![](/graphics/er06my14.010.gif)Family Brassicaceae: *Leavenworthia texana* (Texas golden gladecress)
+![](/graphics/er06my14.010.gif)Family Brassicaceae: *Leavenworthia texana*(Texas golden gladecress)
 
 (1) Critical habitat units are depicted for San Augustine and Sabine Counties, Texas, on the maps below.
 
@@ -2350,7 +2350,97 @@ Map provided is for informational purposes only. Map follows:
 
 (9) Unit 4: Northwest Caney Creek Glades, San Augustine County, Texas. Map of Unit 4 is depicted in paragraph (8) of this entry.
 
-Family Brassicaceae: *Lesquerella kingii* ssp. *bernardina* (San Bernardino Mountains bladderpod)
+Family Brassicaceae: *Lepidium papilliferum* (Slickspot Peppergrass)
+
+(1) Critical habitat units are depicted for Ada, Elmore, Gem, Owyhee, and Payette, Counties, Idaho, on the maps in this entry.
+
+(2) Within these areas, the specific physical or biological features (PBFs) essential to the conservation of slickspot peppergrass consist of four components:
+
+(i) Ecologically functional microsites or “slick spots” that are characterized by:
+
+(A) A high sodium and clay content, and a three-layer soil profile, which allows for successful seed germination, seedling growth, and maintenance of the seed bank. The surface horizon consists of a thin, silty vesicular, pored (small cavity) layer that forms a physical crust (the silt layer). The subsoil horizon is a restrictive clay layer, with an abruptic (referring to an abrupt change in texture) boundary with the surface layer, that is natric or natric-like in properties (a type of argillic (clay-based) horizon with distinct structural and chemical features); this is the restrictive layer. The second argillic subsoil layer (that is less distinct than the upper argillic horizon) retains moisture through part of the year (the moist clay layer).
+
+(B) Sparse vegetation, with invasive, nonnative plant species cover absent or limited to low to moderate levels.
+
+(ii) Relatively intact, native Wyoming big sagebrush (*Artemisia tridentata* ssp. *wyomingensis*) vegetation assemblages, represented by native bunchgrasses, shrubs, and forbs, within 500 m (1,640 ft) of slickspot peppergrass element occurrences to protect slick spots and slickspot peppergrass from disturbance from wildfire, slow the invasion of slick spots by nonnative plant species and native harvester ants, and provide the habitats needed by slickspot peppergrass' pollinators.
+
+(iii) A diversity of native plants whose blooming times overlap to provide pollinator species with flowers for foraging throughout the seasons and to provide nesting and egg-laying sites; appropriate nesting materials; and sheltered, undisturbed places for hibernation and overwintering of pollinator species. In order for genetic exchange of slickspot peppergrass to occur, pollinators must be able to move freely between slick spots. Alternative pollen and nectar sources (other plant species within the surrounding sagebrush vegetation) are needed to support pollinators during times when slickspot peppergrass is not flowering, when distances between slick spots are long, and in years when slickspot peppergrass is not a prolific flowerer.
+
+(iv) Sufficient pollinators for successful fruit and seed production, particularly pollinator species of the sphecid and vespid wasp families, species of the bombyliid and tachnid fly families, and halictid bee species, most of which are solitary insects that nest outside of slick spots in the surrounding sagebrush-steppe vegetation, both in the ground and within the vegetation.
+
+(3) Critical habitat does not include human-made structures (such as buildings, aqueducts, runways, roads, and other paved areas), cultivated agricultural fields, areas dominated by turf grass such as parks, and the land on which they are located existing within the legal boundaries on June 5, 2023.
+
+(4) Data layers defining map units were developed using ESRI ArcGIS 10.7.1 mapping software along with various spatial layers. Feature class data for element occurrences (EOs) were derived from the Idaho Department of Fish and Game's Idaho Fish and Wildlife Information System (IFWIS) database (July 2021). EOs were depicted as points or polygons in the IFWIS database, and an E.O. could consist of one or more points or polygons. For ArcGIS analyses, we dissolved a 500-m (1,640-ft) exterior insect pollinator buffer on each point or polygon that comprised an E.O. and calculated acreages based on these dissolved, buffered polygons. Overlapping polygons were merged to prevent a double count of critical habitat hectares. Critical habitat polygon outlines are exaggerated (using 1- or 2-point size, depending on map scale) to allow for better visibility. The critical habitat polygons were then overlaid upon aerial imagery, including the ArcGIS World Imagery layer, aerial imagery from Google Earth Pro, and the 2019 National Agricultural Imagery Program Idaho layer, which has a spatial resolution of a 60-centimeter ground sample distance.
+
+(i) Lands that visually lacked the necessary PBFs were manually removed from the critical habitat polygons; any such lands inadvertently left inside critical habitat boundaries shown on the maps of this final rule are excluded by this text and are not designated as critical habitat. Areas that lack PBFs include land covered in human-made structures (such as buildings, roads, runways, and other paved areas), cultivated farmland, and riparian areas.
+
+(ii) The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *https://www.fws.gov/species/slickspot-peppergrass-lepidium-papilliferum,* at *https://www.regulations.gov* at Docket No. FWS-R1-ES-2010-0071, and at the Idaho Fish and Wildlife Office. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map follows:
+
+Figure 1 to *Lepidium papilliferum* (slickspot peppergrass) paragraph (5)![](/graphics/er04my23.103.gif)
+
+(6) *Unit 1:* Payette and Gem Counties, Idaho.
+
+(i) *General Description:* Unit 1 contains 704 ha (1,741 ac) of critical habitat in Payette and Gem Counties, Idaho, consisting of Bureau of Land Management (BLM) land in the Four Rivers Field Office area (695 ha (1,718 ac)) and Bureau of Reclamation (BOR) land (9 ha (23 ac)).
+
+(ii) Map of Unit 1 follows:
+
+Figure 2 to *Lepidium papilliferum* (slickspot peppergrass) paragraph (6)(ii)![](/graphics/er04my23.104.gif)
+
+(7) *Unit 2:* Gem and Ada Counties, Idaho.
+
+(i) *Subunit 2a General Description:* Subunit 2a contains 874 ha (2,160 ac) of critical habitat on BLM land in Gem and Ada Counties, Idaho.
+
+(ii) Map of Unit 2, Subunit 2a follows:
+
+Figure 3 to *Lepidium papilliferum* (slickspot peppergrass) paragraph (7)(ii)![](/graphics/er04my23.105.gif)
+
+(iii) *Subunit 2b General Description:* Subunit 2b contains 5,423 ha (13,401 ac) of critical habitat in Ada County, Idaho, within the BLM's Morley Nelson Snake River Birds of Prey National Conservation Area south of Kuna, Idaho.
+
+(iv) Map of Unit 2, Subunit 2b follows:
+
+Figure 4 to *Lepidium papilliferum* (slickspot peppergrass) paragraph (7)(iv)![](/graphics/er04my23.106.gif)
+
+(v) *Subunit 2c General Description:* Subunit 2c contains 657 ha (1,623 ac) of critical habitat in Ada County, Idaho, on BLM land within the Four Rivers Field Office area.
+
+(vi) Map of Unit 2, Subunit 2c follows:
+
+Figure 5 to *Lepidium papilliferum* (slickspot peppergrass) paragraph (7)(vi)![](/graphics/er04my23.107.gif)
+
+(vii) *Subunit 2d General Description:* Subunit 2d contains 1,707 ha (4,218 ac) of critical habitat in Ada County, Idaho, consisting of BLM land (1,689 ha (4,173 ac)) and BOR land (18 ha (45 ac)). Critical habitat within Subunit 2d is adjacent to the Idaho Army National Guard-administered Orchard Combat Training Center (formerly known as the Orchard Training Area).
+
+(viii) Map of Unit 2, Subunit 2d follows:
+
+Figure 6 to *Lepidium papilliferum* (slickspot peppergrass) paragraph (7)(viii)![](/graphics/er04my23.108.gif)
+
+(8) *Unit 3:* Ada and Elmore Counties, Idaho.
+
+(i) *Subunit 3a General Description:* Subunit 3a contains 1,554 ha (3,839 ac) of critical habitat in Ada and Elmore Counties, Idaho, consisting of BLM, Four Rivers Field Office area land (1,502 ha (3,711 ac)) and BOR land (52 ha (128 ac)).
+
+(ii) Map of Unit 3, Subunit 3a follows:
+
+Figure 7 to *Lepidium papilliferum* (slickspot peppergrass) paragraph (8)(ii)![](/graphics/er04my23.109.gif)
+
+(iii) *Subunit 3b General Description:* Subunit 3b contains 1,957 ha (4,835 ac) of critical habitat in Elmore County, Idaho, consisting of BLM land (1,890 ha (4,671 ac)) and BOR land (66 ha (164 ac)). BLM land includes the Four Rivers Field Office area and the Morley Nelson Birds of Prey National Conservation Area.
+
+(iv) Map of Unit 3, Subunit 3b follows:
+
+Figure 8 to *Lepidium papilliferum* (slickspot peppergrass) paragraph (8)(iv)![](/graphics/er04my23.110.gif)
+
+(v) *Subunit 3c General Description:* Subunit 3c contains 2,485 ha (6,142 ac) of critical habitat in Elmore County, Idaho consisting of consisting of BLM land (2,453 ha (6,062 ac)) and BOR land (32 ha (80 ac)).
+
+(vi) Map of Unit 3, Subunit 3c follows:
+
+Figure 9 to *Lepidium papilliferum* (slickspot peppergrass) paragraph (8)(vi)![](/graphics/er04my23.111.gif)
+
+(9) *Unit 4:* Owyhee County, Idaho.
+
+(i) *General description:* Unit 4 contains 16,310 ha (40,303 ac) of critical habitat in Owyhee County, Idaho, within the BLM Jarbidge Field Office area.
+
+(ii) Map of Unit 4 follows:
+
+Figure 10 to *Lepidium papilliferum* (slickspot peppergrass) paragraph (9)(ii)![](/graphics/er04my23.112.gif)Family Brassicaceae: *Lesquerella kingii* ssp. *bernardina* (San Bernardino Mountains bladderpod)
 
 (1) Critical habitat units are depicted for San Bernardino County, California, on the map in this entry. The map provided is for informational purposes only.
 

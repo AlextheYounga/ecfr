@@ -1,5 +1,7 @@
 ##### § 483.430 Condition of participation: Facility staffing. #####
 
+Link to an amendment published at 88 FR 36510, June 5, 2023.
+
 (a) *Standard: Qualified intellectual disability professional.* Each client's active treatment program must be integrated, coordinated and monitored by a qualified intellectual disability professional who—
 
 (1) Has at least one year of experience working directly with persons with intellectual disability or other developmental disabilities; and

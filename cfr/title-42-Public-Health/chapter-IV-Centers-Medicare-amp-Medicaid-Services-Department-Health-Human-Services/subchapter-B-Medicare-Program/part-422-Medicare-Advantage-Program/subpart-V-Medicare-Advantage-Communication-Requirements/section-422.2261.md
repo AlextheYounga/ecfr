@@ -1,14 +1,10 @@
 ##### § 422.2261 Submission, review, and distribution of materials. #####
 
-Link to an amendment published at 88 FR 22335, Apr. 12, 2023.
-
 (a) *General requirements.* MA organizations must submit all marketing materials, all election forms, and certain designated communications materials for CMS review.
 
 (1) The Health Plan Management System (HPMS) Marketing Module is the primary system of record for the collection, review, and storage of materials that must be submitted for review.
 
-(2) Materials must be submitted to the HPMS Marketing Module by the MA organization.
-
-(3) Unless specified by CMS, third party and downstream entities are not permitted to submit materials directly to CMS.
+(2) Materials must be submitted to the HPMS Marketing Module by the MA organization or, where materials have been developed by a Third Party Marketing Organization for multiple MA organizations or plans, by a Third Party Marketing Organization with prior review of each MA organization on whose behalf the materials were created or will be used.
 
 (b) *CMS review of marketing materials and election forms.* MA organizations may not distribute or otherwise make available any marketing materials or election forms unless one of the following occurs:
 
@@ -36,4 +32,4 @@ Link to an amendment published at 88 FR 22335, Apr. 12, 2023.
 
 (3) CMS may determine, upon review of such materials, that the materials must be modified, or may no longer be used.
 
-[86 FR 6104, Jan. 19, 2021]
+[86 FR 6104, Jan. 19, 2021, as amended at 88 FR 22335, Apr. 12, 2023]

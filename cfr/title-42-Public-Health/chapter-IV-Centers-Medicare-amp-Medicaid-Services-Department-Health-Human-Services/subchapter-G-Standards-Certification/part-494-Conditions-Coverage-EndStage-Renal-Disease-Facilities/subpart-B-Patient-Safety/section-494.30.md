@@ -1,5 +1,7 @@
 ##### § 494.30 Condition: Infection control. #####
 
+Link to an amendment published at 88 FR 36510, June 5, 2023.
+
 The dialysis facility must provide and monitor a sanitary environment to minimize the transmission of infectious agents within and between the unit and any adjacent hospital or other public areas.
 
 (a) *Standard: Procedures for infection control.* The facility must demonstrate that it follows standard infection control precautions by implementing—

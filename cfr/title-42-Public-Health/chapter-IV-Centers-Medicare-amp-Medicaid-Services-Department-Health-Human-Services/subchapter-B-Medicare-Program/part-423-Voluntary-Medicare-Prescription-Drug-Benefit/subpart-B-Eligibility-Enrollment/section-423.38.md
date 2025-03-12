@@ -1,7 +1,5 @@
 ##### § 423.38 Enrollment periods. #####
 
-Link to an amendment published at 88 FR 22337, Apr. 12, 2023.
-
 (a) *Initial enrollment period for Part D—Basic rule.* The initial enrollment period is the period during which an individual is first eligible to enroll in a Part D plan.
 
 (1) *In 2005.* An individual who is first eligible to enroll in a Part D plan on or prior to January 31, 2006, has an initial enrollment period from November 15, 2005 through May 15, 2006.
@@ -76,7 +74,7 @@ Link to an amendment published at 88 FR 22337, Apr. 12, 2023.
 
 (15) The individual moves into, resides in, or moves out of an institution, as defined by CMS, and elects to enroll in, or disenroll from, a Part D plan.
 
-(16) The individual is not entitled to premium free Part A and enrolls in Part B during the General Enrollment Period for Part B (January through March) for an effective date of July 1st are eligible to request enrollment in a Part D plan that begins April 1st and ends June 30th, with a Part D plan enrollment effective date of July 1st.
+(16) The individual who is not entitled to premium free Part A and enrolls in Part B during the General Enrollment Period for Part B that starts January 1, 2023, is eligible to request enrollment in a Part D plan. The special enrollment period begins when the individual submits their Part B application and continues for the first 2 months of Part B enrollment. The Part D plan enrollment is effective the first of the month following the month the Part D sponsor receives the enrollment request.
 
 (17) The individual belongs to a qualified State Pharmaceutical Assistance Program (SPAP) and is requesting enrollment in a Part D plan.
 
@@ -158,10 +156,12 @@ Link to an amendment published at 88 FR 22337, Apr. 12, 2023.
 
 (33) The individual was involuntarily disenrolled from an MA-PD plan due to loss of Part B but continues to be entitled to Part A. This SEP begins when the individual is advised of the loss of Part B and continues for 2 additional months.
 
-(34) The individual meets other exceptional circumstances as CMS may provide.
+(34) The individual enrolls in Medicare premium-Part A or Part B using an exceptional condition SEP, as described in 42 CFR parts 406.27 and 407.23. The SEP begins when the individual submits their premium-Part A or Part B application and continues for the first 2 months of enrollment in premium Part A or Part B. The Part D plan enrollment is effective the first of the month following the month the Part D plan receives the enrollment request.
+
+(35) The individual meets other exceptional circumstances as CMS may provide.
 
 (d) *Enrollment period to coordinate with MA annual 45-day disenrollment period.* Through 2018, an individual enrolled in an MA plan who elects Original Medicare from January 1 through February 14, as described in § 422.62(a)(5) of this chapter, may also elect a PDP during this time.
 
 (e) *Enrollment period to coordinate with MA open enrollment period.* For 2019 and subsequent years, an individual who makes an election as described in § 422.62(a)(3) of this chapter, may make an election to enroll in or disenroll from Part D coverage. An individual who elects Original Medicare during the MA open enrollment period may elect to enroll in a PDP during this time.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19816, Apr. 15, 2010; 76 FR 21570, Apr. 15, 2011; 83 FR 16737, Apr. 16, 2018; 85 FR 33909, June 2, 2020]
+[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19816, Apr. 15, 2010; 76 FR 21570, Apr. 15, 2011; 83 FR 16737, Apr. 16, 2018; 85 FR 33909, June 2, 2020; 88 FR 22337, Apr. 12, 2023]

@@ -56,9 +56,11 @@ The State's triennial Highway Safety Plan documents a three-year period of the S
 
 (*3*) Justification for each performance target that explains how the target is data-driven, including a discussion of the factors that influenced the performance target selection; and
 
-(C) State HSP performance targets are identical to the State DOT targets for common performance measures (fatality, fatality rate, and serious injuries) reported in the HSIP annual report, as coordinated through the State SHSP.
+(C) Except as provided in paragraph (b)(3)(iv) of this section, State HSP performance targets are identical to the State DOT targets for common performance measures (fatality, fatality rate, and serious injuries) reported in the HSIP annual report, as coordinated through the State SHSP.
 
 (iii) Additional performance measures not included under paragraph (b)(3)(ii) of this section. For program areas identified by the State where performance measures have not been jointly developed (e.g., risky drivers, vulnerable road users, etc.) and for which States are using highway safety program grant funds, the State shall develop its own performance measures and performance targets that are data-driven, and shall provide the same information as required under paragraph (b)(3)(ii) of this section.
+
+(iv) For fiscal year 2024 only, the performance targets submitted for common performance measures under paragraph (b)(3)(ii)(C) of this section are not required to be identical to the State DOT targets reported in the HSIP annual report.
 
 (4) *Countermeasure strategy for programming funds.* For each program area identified by the State during the planning process conducted under paragraph (b)(1) of this section, a description of the countermeasure strategies that will guide the State's program implementation and annual project selection in order to achieve specific performance targets described in paragraph (b)(3) of this section, including, at a minimum—
 
@@ -94,3 +96,5 @@ P\>(vi) A description of the manner in which the countermeasure strategy was inf
 (ii) A letter of disapproval to the Governor's Representative for Highway Safety informing the State of the reasons for disapproval and requiring resubmission of the triennial HSP with any modifications necessary for approval.
 
 (4) *Resubmission of disapproved triennial Highway Safety Plan.* The State shall resubmit the triennial HSP with necessary modifications within 30 days after the date of disapproval. The Regional Administrator shall issue a letter of approval or disapproval within 30 days after receipt of a revised triennial HSP resubmitted as provided in paragraph (c)(3)(ii) of this section.
+
+[88 FR 7804, Feb. 6, 2023, as amended at 88 FR 36475, June 5, 2023]

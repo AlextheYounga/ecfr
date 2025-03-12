@@ -1,7 +1,5 @@
 ##### § 460.121 Service determination process. #####
 
-Link to an amendment published at 88 FR 22345, Apr. 12, 2023.
-
 (a) *Written procedures.* Each PACE organization must have formal written procedures for identifying and processing service determination requests in accordance with the requirements of this Part.
 
 (b) *What is a service determination request*—(1) *Requests that constitute a service determination request.* Except as provided in paragraph (b)(2) of this section, the following requests constitute service determination requests:
@@ -58,7 +56,7 @@ Link to an amendment published at 88 FR 22345, Apr. 12, 2023.
 
 (ii) The extension is in the participant's interest because the interdisciplinary team needs additional information from an individual not directly employed by the PACE organization that may change the interdisciplinary team's decision to deny a service. The interdisciplinary team must document the circumstances that led to the extension and demonstrate how the extension is in the participant's best interest.
 
-(2) *Notice of extension.* When the interdisciplinary team extends the timeframe, it must notify the participant or their designated representative in writing. The notice must explain the reason(s) for the delay and must be issued as expeditiously as the participant's condition requires, but no later than 24 hours after the IDT decides to extend the timeframe.
+(2) *Notice of extension.* When the interdisciplinary team extends the timeframe, it must notify the participant or their designated representative either orally or in writing. The notice must explain the reason(s) for the delay and must be issued as expeditiously as the participant's condition requires, but no later than 24 hours after the IDT decides to extend the timeframe.
 
 (j) *Notification requirements*—(1) *Notice of decisions to approve a service determination request.* If the interdisciplinary team makes a determination to approve a service determination request, it must provide the participant or the designated representative either oral or written notice of the determination. Notice of any decision to approve a service determination request must explain the conditions of the approval in understandable language, including when the participant may expect to receive the approved service.
 
@@ -82,4 +80,4 @@ Link to an amendment published at 88 FR 22345, Apr. 12, 2023.
 
 (m) *Recordkeeping.* The PACE organization must establish and implement a process to document, track, and maintain records related to all processing requirements for service determination requests received both orally and in writing. These records must be available to the interdisciplinary team to ensure that all members remain alert to pertinent participant information.
 
-[86 FR 6132, Jan. 19, 2021]
+[86 FR 6132, Jan. 19, 2021, as amended at 88 FR 22345, Apr. 12, 2023]

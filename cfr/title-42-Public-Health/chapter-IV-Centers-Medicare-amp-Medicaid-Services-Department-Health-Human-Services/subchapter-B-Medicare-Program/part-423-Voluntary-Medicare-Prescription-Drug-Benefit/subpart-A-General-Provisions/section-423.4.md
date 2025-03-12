@@ -1,7 +1,5 @@
 ##### § 423.4 Definitions. #####
 
-Link to an amendment published at 88 FR 22337, Apr. 12, 2023.
-
 The following definitions apply to this part, unless the context indicates otherwise:
 
 *Actuarial equivalence* means a state of equivalent value demonstrated through the use of generally accepted actuarial principles and in accordance with section 1860D-11(c) of the Act and with CMS actuarial guidelines.
@@ -38,6 +36,8 @@ The following definitions apply to this part, unless the context indicates other
 
 *Group health plan* is defined at § 423.882.
 
+*Immediate need individual* means a beneficiary whose enrollment into LI NET is on the basis of presumed low income subsidy eligibility and immediate need of a Part D drug.
+
 *Inappropriate prescribing* means that, after consideration of all the facts and circumstances of a particular situation identified through investigation or other information or actions taken by Medicare Advantage (MA) organizations and Part D plan sponsors, there is an established pattern of potential fraud, waste, and abuse related to prescribing of opioids, as reported by the plan sponsors. Beneficiaries with cancer and sickle-cell disease, as well as those patients receiving hospice and long term care (LTC) services are excluded, when determining inappropriate prescribing. Plan sponsors may consider any number of factors including, but not limited, to the following:
 
 (1) Documentation of a patient's medical condition.
@@ -59,6 +59,8 @@ The following definitions apply to this part, unless the context indicates other
 (9) Refill frequency and factors associated with increased risk of opioid overdose.
 
 *Insurance risk* means, for a participating pharmacy, risk of the type commonly assumed only by insurers licensed by a State and does not include payment variations designed to reflect performance-based measures of activities within the control of the pharmacy, such as formulary compliance and generic drug substitutions, nor does it include elements potentially in the control of the pharmacy (for example, labor costs or productivity).
+
+*Limited Income Newly Eligible Transition (LI NET) sponsor* means a Part D sponsor selected by CMS to administer the LI NET program.
 
 *MA* stands for Medicare Advantage, which refers to the program authorized under Part C of title XVIII of the Act.
 
@@ -124,4 +126,4 @@ The following definitions apply to this part, unless the context indicates other
 
 *Tiered cost-sharing* means a process of grouping Part D drugs into different cost sharing levels within a Part D sponsor's formulary.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 72 FR 68731, Dec. 5, 2007; 76 FR 21570, Apr. 15, 2011; 84 FR 25671, June 3, 2019; 86 FR 6114, Jan. 19, 2021]
+[70 FR 4525, Jan. 28, 2005, as amended at 72 FR 68731, Dec. 5, 2007; 76 FR 21570, Apr. 15, 2011; 84 FR 25671, June 3, 2019; 86 FR 6114, Jan. 19, 2021; 88 FR 22337, Apr. 12, 2023]

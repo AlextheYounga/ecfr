@@ -1,7 +1,5 @@
 ##### § 423.773 Requirements for eligibility. #####
 
-Link to an amendment published at 88 FR 22340, Apr. 12, 2023.
-
 (a) *Subsidy eligible individual.* A subsidy eligible individual is a Part D eligible individual residing in a State who is enrolled in, or seeking to enroll in a Part D plan and meets the following requirements:
 
 (1) Has income below 150 percent of the FPL applicable to the individual's family size.
@@ -10,13 +8,15 @@ Link to an amendment published at 88 FR 22340, Apr. 12, 2023.
 
 (b) *Full subsidy eligible individual.* A full subsidy eligible individual is a subsidy eligible individual who—
 
-(1) Has income below 135 percent of the FPL applicable to the individual's family size; and
+(1) Has income below 135 percent of the FPL applicable to the individual's family size or, with respect to a plan year beginning on or after January 1, 2024, has income below 150 percent of the FPL applicable to the individual's family size; and
 
 (2) Has resources that do not exceed—
 
 (i) For 2006, 3 times the amount of resources an individual may have and still be eligible for benefits under the Supplemental Security Income (SSI) program under title XVI of the Act (including the assets or resources of the individual's spouse).
 
-(ii) For subsequent years, the amount of resources allowable for the previous year under this paragraph (b)(2) increased by the annual percentage increase in the consumer price index (all items, U.S. city average) as of September of that previous year, rounded to the nearest multiple of $10. The nearest multiple are rounded up if it is equal to or greater than $5 and down if it is less than $5.
+(ii) For years 2007 through 2023, the amount of resources allowable for the previous year under this paragraph (b)(2) increased by the annual percentage increase in the consumer price index (all items, U.S. city average) as of September of that previous year, rounded to the nearest multiple of $10. The nearest multiple are rounded up if it is equal to or greater than $5 and down if it is less than $5.
+
+(iii) For plan years beginning on or after January 1, 2024, the amount of resources specified at paragraph (d)(2) of this section.
 
 (c)(1) *Individuals treated as full subsidy eligible.* An individual must be treated as meeting the eligibility requirements for full subsidy eligible individuals under paragraph (b) of this section if the individual is a—
 
@@ -32,7 +32,7 @@ Link to an amendment published at 88 FR 22340, Apr. 12, 2023.
 
 (ii) For an individual deemed eligible between July 1 and December 31 of a calendar year, the individual is deemed eligible for the remainder of the calendar year and the following calendar year.
 
-(d) *Other low-income subsidy individuals.* Other low-income subsidy individuals are subsidy eligible individuals who—
+(d) *Other low-income subsidy individuals.* Other low-income subsidy individuals are subsidy eligible individuals who, for plan years beginning before January 1, 2024—
 
 (1) Have income less than 150 percent of the FPL applicable to the individual's family size; and
 
@@ -42,4 +42,4 @@ Link to an amendment published at 88 FR 22340, Apr. 12, 2023.
 
 (ii) For subsequent years, the resource amount allowable for the previous year under this paragraph (d)(2), increased by the annual percentage increase in the consumer price index (all items, U.S. city average) as of September of the previous year, rounded to the nearest multiple of $10. The nearest multiple will be rounded up if it is equal to or greater than $5 and down if it is less than $5.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19825, Apr. 15, 2010]
+[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19825, Apr. 15, 2010; 88 FR 22340, Apr. 12, 2023]

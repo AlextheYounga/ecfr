@@ -1,5 +1,7 @@
 ##### § 418.60 Condition of participation: Infection control. #####
 
+Link to an amendment published at 88 FR 36510, June 5, 2023.
+
 The hospice must maintain and document an effective infection control program that protects patients, families, visitors, and hospice personnel by preventing and controlling infections and communicable diseases.
 
 (a) *Standard: Prevention.* The hospice must follow accepted standards of practice to prevent the transmission of infections and communicable diseases, including the use of standard precautions.

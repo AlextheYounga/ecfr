@@ -1,7 +1,5 @@
 ##### § 422.629 General requirements for applicable integrated plans. #####
 
-Link to an amendment published at 88 FR 22335, Apr. 12, 2023.
-
 (a) *Scope.* The provisions in this section and in §§ 422.630 through 422.634 set forth requirements for unified appeals and grievance processes with which applicable integrated plans must comply. Beginning January 1, 2021, these provisions apply to an applicable integrated plan in lieu of §§ 422.564, 422.566(c) and (d), and 422.568 through 422.590, and 422.618(a) and §§ 438.404 through 438.424 of this chapter; provisions governing Part B drugs in §§ 422.568(b)(2), 422.570(d)(2), 422.572(a)(2), 422.584(d)(1), 422.590(c), and 422.590(e)(2) apply to an applicable integrated plan.
 
 (b) *General process.* An applicable integrated plan must create integrated processes for enrollees for integrated grievances, integrated organization determinations, and integrated reconsiderations.
@@ -66,7 +64,7 @@ Link to an amendment published at 88 FR 22335, Apr. 12, 2023.
 
 (B) A grievance that involves clinical issues.
 
-(3) *Integrated organization determinations.* If the applicable integrated plan expects to issue a partially or fully adverse medical necessity (or any substantively equivalent term used to describe the concept of medical necessity) decision based on the initial review of the request, the integrated organization determination must be reviewed by a physician or other appropriate health care professional with sufficient medical and other expertise, including knowledge of Medicare and Medicaid coverage criteria, before the applicable integrated plan issues the integrated organization determination. Any physician or other health care professional who reviews an integrated organization determination must have a current and unrestricted license to practice within the scope of his or her profession.
+(3) *Integrated organization determinations.* If the applicable integrated plan expects to issue a partially or fully adverse medical necessity (or any substantively equivalent term used to describe the concept of medical necessity) decision based on the initial review of the request, the integrated organization determination must be reviewed by a physician or other appropriate health care professional with expertise in the field of medicine or health care that is appropriate for the services at issue, including knowledge of Medicare and Medicaid coverage criteria, before the applicable integrated plan issues the integrated organization determination decision. The physician or health care professional reviewing the request need not, in all cases, be of the same specialty or subspecialty as the treating physician or other health care provider. The physician or other health care professional must have a current and unrestricted license to practice within the scope of his or her profession in a State, Territory, Commonwealth of the United States (that is, Puerto Rico), or the District of Columbia.
 
 (4) *Integrated reconsideration determinations.* Individuals making an integrated reconsideration determination must be individuals who—
 
@@ -90,4 +88,4 @@ Link to an amendment published at 88 FR 22335, Apr. 12, 2023.
 
 (ii) Any other provider or entity (other than the applicable integrated plan) who has an appealable interest in the proceeding.
 
-[84 FR 15835, Apr. 16, 2019, as amended at 84 FR 23883, May 23, 2019; 86 FR 6102, Jan. 19, 2021; 87 FR 27897, May 9, 2022]
+[84 FR 15835, Apr. 16, 2019, as amended at 84 FR 23883, May 23, 2019; 86 FR 6102, Jan. 19, 2021; 87 FR 27897, May 9, 2022; 88 FR 22335, Apr. 12, 2023]

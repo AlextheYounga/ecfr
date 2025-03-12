@@ -1,7 +1,5 @@
 ##### § 429.70 Alternative methods for determining energy efficiency and energy use. #####
 
-Link to an amendment published at 88 FR 28835, May 4, 2023.
-
 (a) *General.* A manufacturer of covered products or covered equipment explicitly authorized to use an AEDM in §§ 429.14 through 429.69 may not distribute any basic model of such product or equipment in commerce unless the manufacturer has determined the energy consumption or energy efficiency of the basic model, either from testing the basic model in conjunction with DOE's certification sampling plans and statistics or from applying an alternative method for determining energy efficiency or energy use (*i.e.,* AEDM) to the basic model, in accordance with the requirements of this section. In instances where a manufacturer has tested a basic model to validate the AEDM, the represented value of energy consumption or efficiency of that basic model must be determined and certified according to results from actual testing in conjunction with 10 CFR part 429, subpart B certification sampling plans and statistics. In addition, a manufacturer may not knowingly use an AEDM to overrate the efficiency of a basic model.
 
 (b) *Testing.* Testing for each covered product or covered equipment must be done in accordance with the sampling plan provisions established in § 429.11 and the testing procedures in parts 430 and 431 of this chapter.
@@ -190,6 +188,8 @@ Table 2 to Paragraph (c)(5)(vi)(B)
 
 (viii) *AEDM use.* (A) If DOE has determined that a manufacturer made invalid ratings on two or more models rated using the same AEDM within a 24 month period, the manufacturer must take the action listed in the table corresponding to the number of invalid certified ratings. The twenty-four month period begins with a DOE determination that a rating is invalid through the process outlined above. Additional invalid ratings apply for the purposes of determining the appropriate consequences if the subsequent determination(s) is based on selection of a unit for testing within the twenty-four month period (i.e., subsequent determinations need not be made within 24 months).
 
+Table 3 to Paragraph (c)(5)(viii)(A)
+
 |Number of invalid certified ratings from the same AEDM<sup>2</sup> within a rolling 24 month period<sup>3</sup>|                                                                                                                                                                                     Required manufacturer actions                                                                                                                                                                                     |
 |---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                                                       2                                                       |                                                                                                            Submit different test data and reports from testing to validate that AEDM within the validation classes to which it is applied.<sup>1</sup> Adjust the ratings as appropriate.                                                                                                             |
@@ -344,11 +344,18 @@ Table 2 to Paragraph (c)(5)(vi)(B)
 
 (*4*) Obtaining DOE authorization to resume use of an AEDM.
 
-(f) *Alternative efficiency determination method (AEDM) for walk-in refrigeration equipment*—(1) *Criteria an AEDM must satisfy.* A manufacturer may not apply an AEDM to a basic model to determine its efficiency pursuant to this section unless:
+(f) *Alternative efficiency determination method (AEDM) for walk-in refrigeration systems and doors*—
+(1) *Criteria an AEDM must satisfy.* A manufacturer may not apply an AEDM to a basic model to determine its efficiency pursuant to this section unless:
 
 (i) The AEDM is derived from a mathematical model that estimates the energy efficiency or energy consumption characteristics of the basic model as measured by the applicable DOE test procedure;
 
 (ii) The AEDM is based on engineering or statistical analysis, computer simulation or modeling, or other analytical evaluation of performance data; and
+
+(A) For refrigeration systems, which are subject to an energy efficiency metric, the predicted efficiency for each model calculated by applying the AEDM may not be more than five percent greater than the efficiency determined from the corresponding test of the model.
+
+(B) For doors, which are subject to an energy consumption metric the predicted daily energy consumption for each model calculated by applying the AEDM may not be more than five percent less than the daily energy consumption determined from the corresponding test of the model.
+
+(C) The predicted energy efficiency or energy consumption for each model calculated by applying the AEDM must meet or exceed the applicable federal energy conservation standard.
 
 (iii) The manufacturer has validated the AEDM, in accordance with paragraph (f)(2) of this section.
 
@@ -368,28 +375,66 @@ Table 2 to Paragraph (c)(5)(vi)(B)
 
 (D) For rating WICF refrigeration system components, an AEDM may not simulate or model portions of the system that are not required to be tested by the DOE test procedure. That is, if the test results used to validate the AEDM are for either a unit cooler only or a condensing unit only, the AEDM must estimate the system rating using the nominal values specified in the DOE test procedure for the other part of the refrigeration system.
 
-(iv) *WICF refrigeration validation classes.*
+(E) For rating doors, an AEDM may not simulate or model components of the door that are not required to be tested by the DOE test procedure. That is, if the test results used to validate the AEDM are for the U-factor test of the door, the AEDM must estimate the daily energy consumption, specifically the conduction thermal load, and the direct and indirect electrical energy consumption, using the nominal values and calculation procedure specified in the DOE test procedure.
 
-|                            Validation class                            |Minimum number of distinct models that must be tested|
-|------------------------------------------------------------------------|-----------------------------------------------------|
-|        Dedicated Condensing, Medium Temperature, Indoor System         |                   2 Basic Models.                   |
-|  Dedicated Condensing, Medium Temperature, Outdoor System<sup>1</sup>  |                   2 Basic Models.                   |
-|          Dedicated Condensing, Low Temperature, Indoor System          |                   2 Basic Models.                   |
-|   Dedicated Condensing, Low Temperature, Outdoor System<sup>2</sup>    |                   2 Basic Models.                   |
-|Unit Cooler connected to a Multiplex Condensing Unit, Medium Temperature|                   2 Basic Models.                   |
-| Unit Cooler connected to a Multiplex Condensing Unit, Low Temperature  |                   2 Basic Models.                   |
-|               Medium Temperature, Indoor Condensing Unit               |                   2 Basic Models.                   |
-|        Medium Temperature, Outdoor Condensing Unit<sup>3</sup>         |                   2 Basic Models.                   |
-|                Low Temperature, Indoor Condensing Unit                 |                   2 Basic Models.                   |
-|          Low Temperature, Outdoor Condensing Unit<sup>4</sup>          |                   2 Basic Models.                   |
+(iv) *WICF validation classes*—(A) *Doors.*
 
-<sup>1</sup> AEDMs validated for dedicated condensing, medium temperature, outdoor systems may be used to determine representative values for dedicated condensing, medium temperature, indoor systems, and additional validation testing is not required. AEDMs validated for only dedicated condensing, medium temperature, indoor systems may not be used to determine representative values for dedicated condensing, medium temperature, outdoor systems.
+Table 4 to Paragraph (f)(2)(iv)(A)
 
-<sup>2</sup> AEDMs validated for dedicated condensing, low temperature, outdoor systems may be used to determine representative values for dedicated condensing, low temperature, indoor systems, and additional validation testing is not required. AEDMs validated for only dedicated condensing, low temperature, indoor systems may not be used to determine representative values for dedicated condensing, low temperature, outdoor systems.
+|          Validation class           |Minimum number of distinct models that must be tested|
+|-------------------------------------|-----------------------------------------------------|
+|  Display Doors, Medium Temperature  |                   2 Basic Models.                   |
+|   Display Doors, Low Temperature    |                   2 Basic Models.                   |
+|Non-display Doors, Medium Temperature|                   2 Basic Models.                   |
+| Non-display Doors, Low Temperature  |                   2 Basic Models.                   |
 
-<sup>3</sup> AEDMs validated for medium temperature, outdoor condensing units may be used to determine representative values for medium temperature, indoor condensing units, and additional validation testing is not required. AEDMs validated for only medium temperature, indoor condensing units may not be used to determine representative values for medium temperature, outdoor condensing units.
+(B) *Refrigeration systems.* (*1*) For representations made prior to the compliance date of revised energy conservation standards for walk-in cooler and walk-in freezer refrigeration systems, use the following validation classes.
 
-<sup>4</sup> AEDMs validated for low temperature, outdoor condensing units may be used to determine representative values for low temperature, indoor condensing units, and additional validation testing is not required. AEDMs validated for only low temperature, indoor condensing units may not be used to determine representative values for low temperature, outdoor condensing units.
+Table 5 to Paragraph (f)(2)(iv)(B)(1)
+
+|                                Validation class                                 |Minimum number of distinct models that must be tested|
+|---------------------------------------------------------------------------------|-----------------------------------------------------|
+|      Dedicated Condensing, Medium Temperature, Matched Pair Indoor System       |                   2 Basic Models.                   |
+|Dedicated Condensing, Medium Temperature, Matched Pair Outdoor System<sup>1</sup>|                   2 Basic Models.                   |
+|        Dedicated Condensing, Low Temperature, Matched Pair Indoor System        |                   2 Basic Models.                   |
+| Dedicated Condensing, Low Temperature, Matched Pair Outdoor System<sup>1</sup>  |                   2 Basic Models.                   |
+|                          Unit Cooler, High-temperature                          |                   2 Basic Models.                   |
+|                         Unit Cooler, Medium Temperature                         |                   2 Basic Models.                   |
+|                          Unit Cooler, Low Temperature                           |                   2 Basic Models.                   |
+|                   Medium Temperature, Indoor Condensing Unit                    |                   2 Basic Models.                   |
+|             Medium Temperature, Outdoor Condensing Unit<sup>1</sup>             |                   2 Basic Models.                   |
+|                     Low Temperature, Indoor Condensing Unit                     |                   2 Basic Models.                   |
+|              Low Temperature, Outdoor Condensing Unit<sup>1</sup>               |                   2 Basic Models.                   |
+
+<sup>1</sup> AEDMs validated for an outdoor class by testing only outdoor models of that class may be used to determine representative values for the corresponding indoor class, and additional validation testing is not required. AEDMs validated only for a given indoor class by testing indoor models or a mix of indoor and outdoor models may not be used to determine representative values for the corresponding outdoor class.
+
+(*2*) For representations made on or after the compliance date of revised energy conservation standards for walk-in cooler and walk-in freezer refrigeration systems, use the following validation classes.
+
+Table 6 to Paragraph (f)(2)(iv)(B)(2)
+
+|                                  Validation class                                  |Minimum number of distinct models that must be tested|
+|------------------------------------------------------------------------------------|-----------------------------------------------------|
+|            Dedicated Condensing Unit, Medium Temperature, Indoor System            |                   2 Basic Models.                   |
+|     Dedicated Condensing Unit, Medium Temperature, Outdoor System<sup>1</sup>      |                   2 Basic Models.                   |
+|             Dedicated Condensing Unit, Low Temperature, Indoor System              |                   2 Basic Models.                   |
+|       Dedicated Condensing Unit, Low Temperature, Outdoor System<sup>1</sup>       |                   2 Basic Models.                   |
+|       Single-packaged Dedicated Condensing, High-temperature, Indoor System        |                   2 Basic Models.                   |
+| Single-packaged Dedicated Condensing, High-temperature, Outdoor System<sup>1</sup> |                   2 Basic Models.                   |
+|      Single-packaged Dedicated Condensing, Medium Temperature, Indoor System       |                   2 Basic Models.                   |
+|Single-packaged Dedicated Condensing, Medium Temperature, Outdoor System<sup>1</sup>|                   2 Basic Models.                   |
+|        Single-packaged Dedicated Condensing, Low Temperature, Indoor System        |                   2 Basic Models.                   |
+|  Single-packaged Dedicated Condensing, Low Temperature, Indoor System<sup>1</sup>  |                   2 Basic Models.                   |
+|               Matched Pair, High-temperature, Indoor Condensing Unit               |                   2 Basic Models.                   |
+|        Matched Pair, High-temperature, Outdoor Condensing Unit<sup>1</sup>         |                   2 Basic Models.                   |
+|              Matched Pair, Medium Temperature, Indoor Condensing Unit              |                   2 Basic Models.                   |
+|       Matched Pair, Medium Temperature, Outdoor Condensing Unit<sup>1</sup>        |                   2 Basic Models.                   |
+|               Matched Pair, Low Temperature, Indoor Condensing Unit                |                   2 Basic Models.                   |
+|         Matched Pair, Low Temperature, Outdoor Condensing Unit<sup>1</sup>         |                   2 Basic Models.                   |
+|                           Unit Cooler, High-temperature                            |                   2 Basic Models.                   |
+|                          Unit Cooler, Medium Temperature                           |                   2 Basic Models.                   |
+|                            Unit Cooler, Low Temperature                            |                   2 Basic Models.                   |
+
+<sup>1</sup> AEDMs validated for an outdoor class by testing only outdoor models of that class may be used to determine representative values for the corresponding indoor class, and additional validation testing is not required. AEDMs validated only for a given indoor class by testing indoor models or a mix of indoor and outdoor models may not be used to determine representative values for the corresponding outdoor class.
 
 (3) *AEDM records retention requirements.* If a manufacturer has used an AEDM to determine representative values pursuant to this section, the manufacturer must have available upon request for inspection by the Department records showing:
 
@@ -427,11 +472,14 @@ Table 2 to Paragraph (c)(5)(vi)(B)
 
 (v) *Failure to meet certified rating.* If a model tests worse than its certified rating by an amount exceeding the tolerance prescribed in paragraph (f)(5)(vi) of this section, DOE will notify the manufacturer. DOE will provide the manufacturer with all documentation related to the test set up, test conditions, and test results for the unit. Within the timeframe allotted by DOE, the manufacturer may then present all claims regarding testing validity.
 
-(vi) *Tolerances.* for efficiency metrics, the result from a DOE verification test must be greater than or equal to the certified rating × (1 − the applicable tolerance).
+(vi) *Tolerances.* For efficiency metrics, the result from a DOE verification test must be greater than or equal to the certified rating × (1−the applicable tolerance). For energy consumption metrics, the result from a DOE verification test must be less than or equal to the certified rating × (1 + the applicable tolerance).
 
-|                 Equipment                  |Metric|Applicable  <br/>tolerance|
-|--------------------------------------------|------|--------------------------|
-|Refrigeration systems (including components)| AWEF |            5%            |
+Table 7 to Paragraph (f)(5)(iv)
+
+|                 Equipment                  |         Metric         |Applicable  <br/>tolerance  <br/>(%)|
+|--------------------------------------------|------------------------|------------------------------------|
+|Refrigeration systems (including components)|       AWEF/AWEF2       |                 5                  |
+|                   Doors                    |Daily Energy Consumption|                 5                  |
 
 (vii) *Invalid rating.* If, following discussions with the manufacturer and a retest where applicable, DOE determines that the testing was conducted appropriately in accordance with the DOE test procedure, the rating for the model will be considered invalid. Pursuant to 10 CFR 429.13(b), DOE may require a manufacturer to conduct additional testing as a remedial measure.
 
@@ -470,6 +518,8 @@ Table 2 to Paragraph (c)(5)(vi)(B)
 (C) Each test must have been performed in accordance with the applicable DOE test procedure with which compliance is required at the time the basic models used for validation are distributed in commerce.
 
 (iv) *Compressor validation classes.*
+
+Table 8 to Paragraph (h)(2)(iv)
 
 |   Validation class   |Minimum number of distinct basic models that must be tested|
 |----------------------|-----------------------------------------------------------|
@@ -749,7 +799,7 @@ Table 2 to Paragraph (c)(5)(vi)(B)
 
 (vi) *Tolerances.* For consumption metrics, the result from a DOE verification test must be less than or equal to the certified rating × (1 + the applicable tolerance).
 
-Table 7 to Paragraph (m)(5)(vi)
+Table 9 to Paragraph (m)(5)(vi)
 
 |  Equipment  |                  Metric                   |Applicable  <br/>tolerance  <br/>(%)|
 |-------------|-------------------------------------------|------------------------------------|
@@ -761,7 +811,7 @@ Table 7 to Paragraph (m)(5)(vi)
 
 (A) If DOE has determined that a manufacturer made invalid ratings on two or more models rated using the same AEDM within a 24-month period, the manufacturer must take the action listed in the table corresponding to the number of invalid certified ratings. The twenty-four month period begins with a DOE determination that a rating is invalid through the process outlined previously. Additional invalid ratings apply for the purposes of determining the appropriate consequences if the subsequent determination(s) is based on selection of a unit for testing within the twenty-four-month period (*i.e.,* subsequent determinations need not be made within 24 months).
 
-Table 8 to Paragraph (m)(5)(viii)(A)
+Table 10 to Paragraph (m)(5)(viii)(A)
 
 |Number of invalid certified ratings from the same AEDM<sup>1</sup> within a  <br/>rolling 24-month period<sup>2</sup>|                                                                                                                             Required manufacturer actions                                                                                                                              |
 |---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -828,4 +878,4 @@ Table 8 to Paragraph (m)(5)(viii)(A)
 
 (C) Conduct testing of basic models selected by the Department.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24780, May 2, 2011, as amended at 78 FR 79595, Dec. 31, 2013; 79 FR 25505, May 5, 2014; 79 FR 27410, May 13, 2014; 80 FR 152, Jan. 5, 2015; 79 FR 40565, July 11, 2014; 81 FR 4145, Jan. 25, 2016; 81 FR 37054, June 8, 2016; 81 FR 89304, Dec. 9, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 1475, Jan. 5, 2017; 87 FR 43979, July 22, 2022; 87 FR 45195, July 27, 2022; 87 FR 63649, Oct. 19, 2022; 87 FR 63894, Oct. 20, 2022; 87 FR 77321, Dec. 16, 2022; 88 FR 17973, Mar. 24, 2023; 88 FR 21837 Apr. 11, 2023; 88 FR 27388, May 1, 2023]
+[76 FR 12451, Mar. 7, 2011; 76 FR 24780, May 2, 2011, as amended at 78 FR 79595, Dec. 31, 2013; 79 FR 25505, May 5, 2014; 79 FR 27410, May 13, 2014; 80 FR 152, Jan. 5, 2015; 79 FR 40565, July 11, 2014; 81 FR 4145, Jan. 25, 2016; 81 FR 37054, June 8, 2016; 81 FR 89304, Dec. 9, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 1475, Jan. 5, 2017; 87 FR 43979, July 22, 2022; 87 FR 45195, July 27, 2022; 87 FR 63649, Oct. 19, 2022; 87 FR 63894, Oct. 20, 2022; 87 FR 77321, Dec. 16, 2022; 88 FR 17973, Mar. 24, 2023; 88 FR 21837 Apr. 11, 2023; 88 FR 27388, May 1, 2023; 88 FR 28835, May 4, 2023]

@@ -1,5 +1,7 @@
 ##### § 416.51 Conditions for coverage—Infection control. #####
 
+Link to an amendment published at 88 FR 36510, June 5, 2023.
+
 The ASC must maintain an infection control program that seeks to minimize infections and communicable diseases.
 
 (a) *Standard: Sanitary environment.* The ASC must provide a functional and sanitary environment for the provision of surgical services by adhering to professionally acceptable standards of practice.

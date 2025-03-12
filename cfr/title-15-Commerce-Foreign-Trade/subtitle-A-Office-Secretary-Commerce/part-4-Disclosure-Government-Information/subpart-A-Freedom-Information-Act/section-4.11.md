@@ -8,8 +8,6 @@
 
 (2) *Direct costs* means those expenses a component incurs in searching for and duplicating (and, in the case of commercial use requests, reviewing) records to respond to a FOIA request. The hourly processing fees for calculating direct costs for Department or component personnel searching for, duplication, and reviewing records are reflected in Table 1. Note that the 16% overhead has already been included in the hourly rates identified in Table 1.
 
-Table 1—FOIA Hourly Processing Fees
-
 |     Type     |                    Grade                     |Hourly rate|
 |--------------|----------------------------------------------|-----------|
 |Administrative|              E-9/GS-8 and below              |    $28    |
@@ -43,14 +41,14 @@ Example 1.A request from a professor or a student of geology at a university for
 
 (2) Uniform fee schedule.
 
-|                                                                                                                    Service                                                                                                                    |                                                   Rate                                                   |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-|                                                                                                               (i) Manual search                                                                                                               |                              Hourly rate from Table 1 of employee involved.                              |
-|                                                                                                           (ii) Computerized search                                                                                                            |Actual direct cost, including operator time, using the hourly rate from Table 1, of the employee involved.|
-|                                                                                                            (iii) Review of records                                                                                                            |                              Hourly rate from Table 1 of employee involved.                              |
-|                                                                                                         (iv) Duplication of records:                                                                                                          |                                                                                                          |
-|                                                                                                          (A) Paper copy reproduction                                                                                                          |                                              $.08 per page.                                              |
-|(B) Other reproduction (e.g., converting paper into an electronic format (e.g., scanning), computer disk or printout, or other electronically-formatted reproduction (e.g., uploading records made available to the requester into FOIAonline))|Actual direct cost, including operator time, using the hourly rate from Table 1, of the employee involved.|
+|                                                                                                            Service                                                                                                            |                                                   Rate                                                   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+|                                                                                                       (i) Manual search                                                                                                       |                              Hourly rate from Table 1 of employee involved.                              |
+|                                                                                                   (ii) Computerized search                                                                                                    |Actual direct cost, including operator time, using the hourly rate from Table 1, of the employee involved.|
+|                                                                                                    (iii) Review of records                                                                                                    |                              Hourly rate from Table 1 of employee involved.                              |
+|                                                                                                 (iv) Duplication of records:                                                                                                  |                                                                                                          |
+|                                                                                                  (A) Paper copy reproduction                                                                                                  |                                              $.08 per page.                                              |
+|(B) Other reproduction (e.g., converting paper into an electronic format (e.g., scanning), computer disk or printout, or other electronically-formatted reproduction (e.g., uploading records made available to the requester))|Actual direct cost, including operator time, using the hourly rate from Table 1, of the employee involved.|
 
 (3) *Search.* (i) Search fees shall be charged for all requests—other than requests made by educational institutions, noncommercial scientific institutions, or representatives of the news media—subject to the limitations of paragraph (d) of this section. Components shall charge for time spent searching even if they do not locate any responsive records or if they withhold any records located as entirely exempt from disclosure. Search fees shall be the direct costs of conducting the search by the involved employees.
 
@@ -138,4 +136,4 @@ Example 1.A request from a professor or a student of geology at a university for
 
 (5) Requests for the waiver or reduction of fees should address the factors listed in paragraphs (l)(2) and (3) of this section, insofar as they apply to each request.
 
-[66 FR 65632, Dec. 20, 2001, as amended at 79 FR 62562, Oct. 20, 2014; 83 FR 39594, Aug. 10, 2018]
+[66 FR 65632, Dec. 20, 2001, as amended at 79 FR 62562, Oct. 20, 2014; 83 FR 39594, Aug. 10, 2018; 88 FR 36471, June 5, 2023]

@@ -1,7 +1,7 @@
-##### § 54.1504 Term of Stage 2 fixed support and phase-down of legacy fixed support. #####
-
-Link to an amendment published at 88 FR 29000, May 5, 2023.
+##### § 54.1504 Term of Stage 2 fixed support, phase-down of legacy fixed support, and reporting obligations for phase-down support recipient. #####
 
 (a) *Term of support.* Support awarded through Stage 2 of the fixed Uniendo a Puerto Rico Fund and of the fixed Connect USVI Fund shall be provided for ten years.
 
-(b) *Phase-down of legacy support.* Stage 2 of the fixed Uniendo a Puerto Rico and of the fixed Connect USVI Fund shall replace the legacy frozen high-cost support for the Territories. Beginning on a date determined by the Wireline Competition Bureau and announced by public notice following authorization of a winning application, frozen support recipient carriers will receive2/3 frozen fixed support amortized for the first 12 months following the date announced by public notice;1/3 frozen fixed support amortized over the second 12-month period; and zero frozen support thereafter.
+(b) *Phase-down of legacy support.* Stage 2 of the fixed Uniendo a Puerto Rico Fund and of the fixed Connect USVI Fund shall replace the legacy frozen high-cost support for the Territories. Beginning on a date determined by the Wireline Competition Bureau and announced by public notice following authorization of a winning application, frozen support recipient carriers will receive2/3 frozen fixed support amortized for the first 12 months following the date announced by public notice; and1/3 frozen fixed support amortized over the second 12-month period. Beginning June 1, 2023, legacy frozen support recipient carriers that continue receiving phase-down legacy support for use in accordance with applicable rules shall be authorized to continue to receive1/3 frozen fixed support for the geographic areas in which it was not selected as the winning applicant of the Stage 2 competitive process. The frozen support recipient carriers shall receive a monthly support amount equal to the amortized monthly1/3 frozen fixed support amount until December 31, 2025, and zero frozen support thereafter.
+
+[84 FR 59963, Nov. 7, 2019, as amended at 88 FR 29000, May 5, 2023]

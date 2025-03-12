@@ -20,7 +20,7 @@
 
 (e) *Multi-track processing.* (1) A component must use two or more processing tracks by distinguishing between simple and more complex requests based on the amount of work and/or time needed to process the request, including the amount of pages involved, the need to consult with or refer to other agencies or Department components or for commercial confidential information to a third party, or whether the request qualifies for unusual circumstances as described in paragraph (d)(2) of this section, and whether the request qualifies for expedited processing as described in paragraph (f) of this section.
 
-(2) A component using multi-track processing may provide requesters in its slower track(s) with an opportunity to limit the scope of their requests in order to qualify for faster processing. A component doing so shall contact the requester by telephone, email, letter, or through the FOIAonline Web site, *http://foiaonline.regulations.gov,* whichever is the most efficient in each case.
+(2) A component using multi-track processing may provide requesters in its slower track(s) with an opportunity to limit the scope of their requests in order to qualify for faster processing. A component doing so shall contact the requester by telephone, email, letter, or online FOIA case management system, whichever is the most efficient in each case.
 
 (f) *Expedited processing.* (1) Requests and appeals shall be taken out of order and given expedited treatment whenever it is determined that they involve:
 
@@ -38,4 +38,4 @@
 
 (4) Within ten calendar days of its receipt of a request for expedited processing, the proper component shall decide whether to grant it and shall notify the requester of the decision. Solely for purposes of calculating the foregoing time limit, any request for expedited processing shall always be considered received on the actual date of receipt by the proper component. If a request for expedited processing is granted, the request shall be given priority and processed as soon as practicable, subject to § 4.11(i). If a request for expedited processing is denied, any appeal of that decision shall be acted on expeditiously.
 
-[66 FR 65632, Dec. 20, 2001, as amended at 79 FR 62559, Oct. 20, 2014; 83 FR 39591, Aug. 10, 2018]
+[66 FR 65632, Dec. 20, 2001, as amended at 79 FR 62559, Oct. 20, 2014; 83 FR 39591, Aug. 10, 2018; 88 FR 36470, June 5, 2023]

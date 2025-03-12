@@ -1,7 +1,5 @@
 ##### § 417.454 Charges to Medicare enrollees. #####
 
-Link to an amendment published at 88 FR 22328, Apr. 12, 2023.
-
 (a) *Limits on charges.* The HMO or CMP must agree to charge its Medicare enrollees only for the—
 
 (1) Deductible and coinsurance amounts applicable to furnished covered services;
@@ -24,6 +22,6 @@ Link to an amendment published at 88 FR 22328, Apr. 12, 2023.
 
 (3) Skilled nursing care defined as services provided during a covered stay in a skilled nursing facility during the period for which cost sharing would apply under Original Medicare.
 
-(4) A COVID-19 vaccine and its administration described in section 1861(s)(10)(A) for the duration of the emergency period defined in paragraph (1)(B) of section 1135(g) of the Act.
+(4) A COVID-19 vaccine and its administration described in section 1861(s)(10)(A) of the Act.
 
-[50 FR 1346, Jan. 10, 1985, as amended at 58 FR 38082, July 15, 1993; 59 FR 59941, Nov. 21, 1994; 60 FR 45678, Sept. 1, 1995; 76 FR 21561, Apr. 15, 2011; 85 FR 71197, Nov. 6, 2020]
+[50 FR 1346, Jan. 10, 1985, as amended at 58 FR 38082, July 15, 1993; 59 FR 59941, Nov. 21, 1994; 60 FR 45678, Sept. 1, 1995; 76 FR 21561, Apr. 15, 2011; 85 FR 71197, Nov. 6, 2020; 88 FR 22328, Apr. 12, 2023]

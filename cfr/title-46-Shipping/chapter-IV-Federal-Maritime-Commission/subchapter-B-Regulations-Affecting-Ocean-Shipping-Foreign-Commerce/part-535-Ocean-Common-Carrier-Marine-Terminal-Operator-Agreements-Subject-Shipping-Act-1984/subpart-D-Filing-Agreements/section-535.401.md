@@ -1,7 +1,5 @@
 ##### § 535.401 General requirements. #####
 
-Link to an amendment published at 88 FR 16898, Mar. 21, 2023.
-
 (a) All agreements (including oral agreements reduced to writing in accordance with the Act) subject to this part and filed with the Commission for review and disposition pursuant to section 6 of the Act (46 U.S.C. 40304, 40306, 41307(b)-(d)), must be submitted to the Commission either in paper during regular business hours to the Secretary, Federal Maritime Commission, Washington, DC 20573, or electronically using the automated agreement filing system.
 
 (1) *Paper filings.* Paper filings must include:
@@ -40,8 +38,8 @@ Link to an amendment published at 88 FR 16898, Mar. 21, 2023.
 
 (f) Parties to agreements with expiration dates shall file any modification seeking renewal for a specific term or elimination of a termination date in sufficient time to accommodate the 45-day waiting period required under the Act.
 
-(g) The filing fee is $3,454 for new agreements and any agreement modifications requiring Commission review and action; $526 for agreements processed under delegated authority (for types of agreements that can be processed under delegated authority, see § 501.27(e) of this chapter); $296 for carrier exempt agreements; and $87 for terminal exempt agreements.
+(g) The filing fee is $3,980 for new agreements and $4,637 for any agreement modifications requiring Commission review and action; $1,174 for agreements processed under delegated authority (for types of agreements that can be processed under delegated authority, see § 501.27(e) of this chapter); $343 for carrier exempt agreements; and $96 for terminal exempt agreements.
 
 (h) The fee for a request for expedited review of an agreement pursuant to § 535.605 is $151. This fee must be paid in addition to the carrier agreement filing fee required by paragraph (g) of this section.
 
-[69 FR 64414, Nov. 4, 2004, as amended at 70 FR 10330, Mar. 3, 2005; 74 FR 50728, Oct. 1, 2009; 75 FR 29455, May 26, 2010; 81 FR 24705, Apr. 27, 2016; 81 FR 59145, Aug. 29, 2016; 83 FR 50295, Oct. 5, 2018; 85 FR 72578, Nov. 13, 2020]
+[69 FR 64414, Nov. 4, 2004, as amended at 70 FR 10330, Mar. 3, 2005; 74 FR 50728, Oct. 1, 2009; 75 FR 29455, May 26, 2010; 81 FR 24705, Apr. 27, 2016; 81 FR 59145, Aug. 29, 2016; 83 FR 50295, Oct. 5, 2018; 85 FR 72578, Nov. 13, 2020; 88 FR 16898, Mar. 21, 2023]

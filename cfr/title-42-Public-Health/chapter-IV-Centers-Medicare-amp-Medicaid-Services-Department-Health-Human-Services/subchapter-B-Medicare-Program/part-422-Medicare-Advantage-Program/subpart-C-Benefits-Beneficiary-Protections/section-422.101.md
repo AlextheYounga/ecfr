@@ -1,7 +1,5 @@
 ##### § 422.101 Requirements relating to basic benefits. #####
 
-Link to an amendment published at 88 FR 22328, Apr. 12, 2023.
-
 Except as specified in § 422.318 (for entitlement that begins or ends during a hospital stay) and § 422.320 (with respect to hospice care), each MA organization must meet the following requirements:
 
 (a) Provide coverage of, by furnishing, arranging for, or making payment for, all services that are covered by Part A and Part B of Medicare (if the enrollee is entitled to benefits under both parts) or by Medicare Part B (if entitled only under Part B) and that are available to beneficiaries residing in the plan's service area. Services may be provided outside of the service area of the plan if the services are accessible and available to enrollees.
@@ -10,7 +8,7 @@ Except as specified in § 422.318 (for entitlement that begins or ends during a 
 
 (1) CMS's national coverage determinations;
 
-(2) General coverage guidelines included in original Medicare manuals and instructions unless superseded by regulations in this part or related instructions; and
+(2) General coverage and benefit conditions included in Traditional Medicare laws, unless superseded by laws applicable to MA plans. This includes criteria for determining whether an item or service is a benefit available under Traditional Medicare. For example, this includes payment criteria for inpatient admissions at 42 CFR 412.3, services and procedures that the Secretary designates as requiring inpatient care under 42 CFR 419.22(n), and requirements for payment of Skilled Nursing Facility (SNF) Care, Home Health Services under 42 CFR part 409, and Inpatient Rehabilitation Facilities (IRF) at 42 CFR 412.622(a)(3).
 
 (3) Written coverage decisions of local Medicare contractors with jurisdiction for claims in the geographic area in which services are covered under the MA plan. If an MA plan covers geographic areas encompassing more than one local coverage policy area, the MA organization offering such an MA plan may elect to apply to plan enrollees in all areas uniformly the coverage policy that is the most beneficial to MA enrollees. MA organizations that elect this option must notify CMS before selecting the area that has local coverage policies that are most beneficial to enrollees as follows:
 
@@ -22,7 +20,37 @@ Except as specified in § 422.318 (for entitlement that begins or ends during a 
 
 (5) If an MA organization offering an MA local plan elects to exercise the option in paragraph (b)(3) of this section related to a local MA plan, or if an MA organization offering an MA regional plan elects to exercise the option in paragraph (b)(4) of this section related to an MA regional plan, then the MA organization must make information on the selected local coverage policy readily available, including through the Internet, to enrollees and health care providers.
 
-(c) MA organizations may elect to furnish, as part of their Medicare covered benefits, coverage of posthospital SNF care as described in subparts C and D of this part, in the absence of the prior qualifying hospital stay that would otherwise be required for coverage of this care.
+(6) MA organizations may create publicly accessible internal coverage criteria that are based on current evidence in widely used treatment guidelines or clinical literature when coverage criteria are not fully established in applicable Medicare statutes, regulations, NCDs or LCDs. Current, widely-used treatment guidelines are those developed by organizations representing clinical medical specialties, and refers to guidelines for the treatment of specific diseases or conditions. Acceptable clinical literature includes large, randomized controlled trials or prospective cohort studies with clear results, published in a peer-reviewed journal, and specifically designed to answer the relevant clinical question, or large systematic reviews or meta-analyses summarizing the literature of the specific clinical question.
+
+(i) *Coverage criteria not fully established.* Coverage criteria are not fully established when:
+
+(A) additional, unspecified criteria are needed to interpret or supplement general provisions in order to determine medical necessity consistently. The MA organization must demonstrate that the additional criteria provide clinical benefits that are highly likely to outweigh any clinical harms, including from delayed or decreased access to items or services;
+
+(B) NCDs or LCDs include flexibility that explicitly allows for coverage in circumstances beyond the specific indications that are listed in an NCD or LCD; or
+
+(C) There is an absence of any applicable Medicare statutes, regulations, NCDs or LCDs setting forth coverage criteria.
+
+(ii) *Publicly accessible.* For internal coverage policies, the MA organization must provide in a publicly accessible way the following:
+
+(A) The internal coverage criteria in use and a summary of evidence that was considered during the development of the internal coverage criteria used to make medical necessity determinations;
+
+(B) A list of the sources of such evidence; and
+
+(C) An explanation of the rationale that supports the adoption of the coverage criteria used to make a medical necessity determination. When coverage criteria are not fully established as described in paragraph (6)(i)(A), the MA organization must identify the general provisions that are being supplemented or interpreted and explain how the additional criteria provide clinical benefits that are highly likely to outweigh any clinical harms, including from delayed or decreased access to items or services.
+
+(c) Medical necessity determinations and special coverage provisions—(1) *Medical necessity determinations.* (i) MA organizations must make medical necessity determinations based on all of the following:
+
+(A) Coverage and benefit criteria as specified at paragraphs (b) and (c) of this section and may not deny coverage for basic benefits based on coverage criteria not specified in paragraph (b) or (c) of this section.
+
+(B) Whether the provision of items or services is reasonable and necessary under section 1862(a)(1) of the Act.
+
+(C) The enrollee's medical history (for example, diagnoses, conditions, functional status), physician recommendations, and clinical notes.
+
+(D) Where appropriate, involvement of the organization's medical director as required at § 422.562(a)(4).
+
+(ii) [Reserved]
+
+(2) *Exception for qualifying hospital stay.* MA organizations may elect to furnish, as part of their Medicare covered benefits, coverage of posthospital SNF care as described in subparts C and D of this part, in the absence of the prior qualifying hospital stay that would otherwise be required for coverage of this care.
 
 (d) *Special cost-sharing rules for MA regional plans.* In addition to the requirements in paragraph (a) through paragraph (c) of this section, MA regional plans must provide for the following:
 
@@ -102,4 +130,4 @@ Except as specified in § 422.318 (for entitlement that begins or ends during a 
 
 (iii) Each element of the model of care of a plan must meet a minimum benchmark score of 50 percent, and a plan's model of care will only be approved if each element of the model of care meets the minimum benchmark.
 
-[65 FR 40319, June 29, 2000, as amended at 68 FR 50856, Aug. 22, 2003; 70 FR 4720, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 73 FR 54248, Sept. 18, 2008; 74 FR 1541, Jan. 12, 2009; 76 FR 21562, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22167, Apr. 12, 2012; 83 FR 16724, Apr. 16, 2018; 86 FR 6094, Jan. 19, 2021; 86 FR 29528, June 2, 2021; 87 FR 22427, Apr. 14, 2022; 87 FR 27894, May 9, 2022]
+[65 FR 40319, June 29, 2000, as amended at 68 FR 50856, Aug. 22, 2003; 70 FR 4720, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 73 FR 54248, Sept. 18, 2008; 74 FR 1541, Jan. 12, 2009; 76 FR 21562, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22167, Apr. 12, 2012; 83 FR 16724, Apr. 16, 2018; 86 FR 6094, Jan. 19, 2021; 86 FR 29528, June 2, 2021; 87 FR 22427, Apr. 14, 2022; 87 FR 27894, May 9, 2022; 88 FR 22328, Apr. 12, 2023]

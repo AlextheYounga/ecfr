@@ -1,7 +1,5 @@
 ##### § 422.503 General provisions. #####
 
-Link to an amendment published at 88 FR 22334, Apr. 12, 2023.
-
 (a) *Basic rule.* In order to qualify as an MA organization, enroll beneficiaries in any MA plans it offers, and be paid on behalf of Medicare beneficiaries enrolled in those plans, an MA organization must enter into a contract with CMS.
 
 (b) *Conditions necessary to contract as an MA organization.* Any entity seeking to contract as an MA organization must:
@@ -128,8 +126,8 @@ Link to an amendment published at 88 FR 22334, Apr. 12, 2023.
 
 (e) *Severability of contracts.* The contract must provide that, upon CMS's request—
 
-(1) The contract will be amended to exclude any MA plan or State-licensed entity specified by CMS; and
+(1) The contract will be amended to exclude any MA plan, MA plan segment, or State-licensed entity specified by CMS; and
 
-(2) A separate contract for any such excluded plan or entity will be deemed to be in place when such a request is made.
+(2) A separate contract for any such excluded plan, segment, or entity will be deemed to be in place when such a request is made.
 
-[63 FR 35099, June 26, 1998, as amended at 65 FR 40327, June 29, 2000. Redesignated at 70 FR 4736, Jan. 28, 2005, and amended at 70 FR 4737, Jan. 28, 2005; 70 FR 52027, Sept. 1, 2005; 70 FR 76198, Dec. 23, 2005; 72 FR 68722, Dec. 5, 2007; 75 FR 19809, Apr. 15, 2010; 79 FR 29958, May 23, 2014; 80 FR 7960, Feb. 12, 2015; 83 FR 16733, Apr. 16, 2018; 86 FR 6099, Jan. 19, 2021; 87 FR 27896, May 9, 2022]
+[63 FR 35099, June 26, 1998, as amended at 65 FR 40327, June 29, 2000. Redesignated at 70 FR 4736, Jan. 28, 2005, and amended at 70 FR 4737, Jan. 28, 2005; 70 FR 52027, Sept. 1, 2005; 70 FR 76198, Dec. 23, 2005; 72 FR 68722, Dec. 5, 2007; 75 FR 19809, Apr. 15, 2010; 79 FR 29958, May 23, 2014; 80 FR 7960, Feb. 12, 2015; 83 FR 16733, Apr. 16, 2018; 86 FR 6099, Jan. 19, 2021; 87 FR 27896, May 9, 2022; 88 FR 22334, Apr. 12, 2023]

@@ -1,7 +1,5 @@
 ##### § 423.2274 Agent, broker, and other third-party requirements. #####
 
-Link to an amendment published at 88 FR 22342, Apr. 12, 2023.
-
 If a Part D sponsor uses agents and brokers to sell its Medicare Part D plans, the requirements in paragraphs (a) through (e) of this section are applicable. If a Part D sponsor makes payments to third parties, the requirements in paragraph (f) of this section are applicable.
 
 (a) *Definitions.* For purposes of this section, the following definitions are applicable:
@@ -83,6 +81,8 @@ If a Part D sponsor uses agents and brokers to sell its Medicare Part D plans, t
 (10) Demonstrate that marketing resources are allocated to marketing to the disabled Medicare population as well as to Medicare beneficiaries age 65 and over.
 
 (11) Must comply with State requests for information about the performance of a licensed agent or broker as part of a state investigation into the individual's conduct. CMS will establish and maintain a memorandum of understanding (MOU) to share compliance and oversight information with States that agree to the MOU.
+
+(12) Ensure that, prior to an enrollment CMS' required questions and topics regarding beneficiary needs in a health plan choice are fully discussed. Topics include information regarding pharmacies (that is, whether or not the beneficiary's current pharmacy is in the plan's network), prescription drug coverage and costs (including whether or not the beneficiary's current prescriptions are covered), premiums, and other services or incentives.
 
 (d) *Compensation requirements.* Part D sponsors must ensure they meet the requirements in paragraphs (d)(1) through (5) of this section in order to pay compensation. These compensation requirements only apply to independent agents and brokers.
 
@@ -188,7 +188,7 @@ If a Part D sponsor uses agents and brokers to sell its Medicare Part D plans, t
 
 (i) Discloses to the plan any subcontracted relationships used for marketing, lead generation, and enrollment.
 
-(ii) Record all calls with beneficiaries in their entirety, including the enrollment process.
+(ii) Record all marketing, sales, and enrollment calls, including the audio portion of calls occurring via web-based technology, in their entirety.
 
 (iii) Report to plans monthly any staff disciplinary actions or violations of any requirements that apply to the Part D sponsor associated with beneficiary interaction to the plan.
 
@@ -206,4 +206,4 @@ If a Part D sponsor uses agents and brokers to sell its Medicare Part D plans, t
 
 (ii) When applicable, disclose to the beneficiary that he or she is being transferred to a licensed agent who can enroll him or her into a new plan.
 
-[86 FR 6129, Jan. 19, 2021, as amended at 87 FR 27901, May 9, 2022]
+[86 FR 6129, Jan. 19, 2021, as amended at 87 FR 27901, May 9, 2022; 88 FR 22342, Apr. 12, 2023]

@@ -1,8 +1,6 @@
 ##### § 890.101 Definitions; time computations. #####
 
-Link to an amendment published at 88 FR 20402, Apr. 6, 2023.
-
-(a) In this part, the terms *annuitant, carrier, employee, employee organization, former spouse, health benefits plan, member of family,* and *service,* have the meanings set forth in section 8901 of title 5, United States Code, and supplement the following definitions:
+(a) In this part, the terms *annuitant, carrier, employee, employee organization, former spouse, health benefits plan, member of family,* and *service* have the meanings set forth in 5 U.S.C. 8901; the terms *Postal Service, Postal Service annuitant,* and *Postal Service employee* have the meanings set forth in 5 U.S.C. 8903c; and these terms supplement the following definitions:
 
 *Appropriate request* means a properly completed health benefits registration form or an alternative method acceptable to both the employing office and OPM. Alternative methods must be capable of transmitting to the health benefits plans the information they require before accepting an enrollment, change of enrollment, or cancellation. Electronic signatures, including the use of Personal Identification Numbers (PIN), have the same validity as a written signature.
 
@@ -54,6 +52,10 @@ Link to an amendment published at 88 FR 20402, Apr. 6, 2023.
 
 *Enrollee* means the individual in whose name the enrollment is carried. The term includes employees, annuitants, former employees, former spouses, or children who are enrolled after completing an appropriate request under the provisions of §§ 890.301, 890.306, 890.601, 890.803, or 890.1103 or have continued an enrollment as an annuitant or survivor annuitant under 5 U.S.C. 8905(b) or § 890.303.
 
+*Federal Employees Health Benefits (FEHB) Program* means the health insurance program administered by the Office of Personnel Management and established under 5 U.S.C. chapter 89.
+
+*FEHB plan* means a health benefits plan as defined in 5 U.S.C. 8901(6) and governed by this part, with the exception of a PSHB plan.
+
 *Foster child* means a child who:
 
 (1) Lives with an employee, former employee, or annuitant or with a child enrolled under § 890.1103(a)(2) in a regular parent-child relationship and
@@ -66,6 +68,8 @@ Link to an amendment published at 88 FR 20402, Apr. 6, 2023.
 
 *Letter of credit* is defined in 48 CFR 1602.170-10.
 
+*Medicare covered member of family* means an individual who is both a covered Medicare individual and a member of family of a Postal Service Medicare covered annuitant.
+
 *Member of Congress* means a member of the Senate or of the House of Representatives, a Delegate to the House of Representatives, and the Resident Commissioner of Puerto Rico.
 
 *Option* means a level of benefits. It does not include distinctions as to whether the members of the family are covered.
@@ -73,6 +77,12 @@ Link to an amendment published at 88 FR 20402, Apr. 6, 2023.
 *OWCP* means the Office of Workers' Compensation Programs, U.S. Department of Labor, which administers subchapter I of chapter 81 of title 5, United States Code.
 
 *Pay period* means the biweekly pay period established pursuant to section 5504 of title 5, United States Code, for the employees to whom that section applies and the regular pay period for employees not covered by that section. *Pay period,* as it relates to a former spouse or annuitant who is not actively receiving an annuity, including surviving spouses receiving a basic employee death benefit, and enrollees temporarily continuing coverage under subpart K of this part, means any regular pay period for employees of the agency to which jurisdiction and responsibility for health benefits actions for the enrollee have been delegated as provided under the definition of “employing office” in this section. *Pay period* for annuitants in active receipt of annuity means the period for which a single installment of annuity is customarily paid.
+
+*Postal Service Health Benefits (PSHB) Program* means the health insurance program established under 5 U.S.C. 8903c within the Federal Employees Health Benefits Program.
+
+*Postal Service Medicare covered annuitant* means an individual who is both a covered Medicare individual and a Postal Service annuitant.
+
+*PSHB plan* means a health benefits plan offered under the PSHB Program.
 
 *Reconsideration* means the final level of administrative review of an employing office's initial decision to determine if the employing office correctly applied the law and regulations.
 

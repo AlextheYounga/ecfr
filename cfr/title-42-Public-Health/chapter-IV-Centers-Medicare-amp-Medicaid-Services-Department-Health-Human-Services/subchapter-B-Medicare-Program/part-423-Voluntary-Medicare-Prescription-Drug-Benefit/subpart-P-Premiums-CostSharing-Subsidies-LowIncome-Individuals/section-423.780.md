@@ -1,7 +1,5 @@
 ##### § 423.780 Premium subsidy. #####
 
-Link to an amendment published at 88 FR 22340, Apr. 12, 2023.
-
 (a) *Full subsidy eligible individuals.* Full subsidy eligible individuals are entitled to a premium subsidy equal to 100 percent of the premium subsidy amount.
 
 (b) *Premium subsidy amount.* (1) The premium subsidy amount is equal to the lesser of—
@@ -22,7 +20,7 @@ Link to an amendment published at 88 FR 22340, Apr. 12, 2023.
 
 (c) *Special rule for 2006 to weight the low-income benchmark premium.* For purposes of calculating the low-income benchmark premium amount for 2006, CMS assigns equal weighting to PDP sponsors (including fallback entities) and assigns MA-PD plans a weight based on prior enrollment. New MA-PD plans are assigned a zero weight. PACE, private fee-for-service plans and 1876 cost plans are not included.
 
-(d) *Other low-income subsidy eligible individuals—sliding scale premium.* Other low-income subsidy eligible individuals are entitled to a premium subsidy based on a linear sliding scale ranging from 100 percent of the premium subsidy amount described in paragraph (b) of this section as follows:
+(d) *Other low-income subsidy eligible individuals—sliding scale premium.* Other low-income subsidy eligible individuals are entitled to a premium subsidy for plan years beginning before January 1, 2024, based on a linear sliding scale ranging from 100 percent of the premium subsidy amount described in paragraph (b) of this section as follows:
 
 (1) For individuals with income at or below 135 percent of the FPL applicable to their family size, the full premium subsidy amount.
 
@@ -36,4 +34,4 @@ Link to an amendment published at 88 FR 22340, Apr. 12, 2023.
 
 (f) *Waiver of de minimis premium amounts.* CMS will permit a Part D plan to waive a de minimis amount that is above the monthly beneficiary premium defined in § 423.780(b)(2)(ii)(A) or (B) for full subsidy individuals as defined in § 423.780(a) or § 423.780(d)(1), provided waiving the de minimis amount results in a monthly beneficiary premium that is equal to the established low income benchmark as defined in § 423.780(b)(2).
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 18182, Apr. 3, 2008; 73 FR 20508, Apr. 15, 2008; 73 FR 54253, Sept. 18, 2008; 76 FR 21576, Apr. 15, 2011]
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 18182, Apr. 3, 2008; 73 FR 20508, Apr. 15, 2008; 73 FR 54253, Sept. 18, 2008; 76 FR 21576, Apr. 15, 2011; 88 FR 22340, Apr. 12, 2023]

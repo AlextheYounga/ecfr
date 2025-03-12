@@ -1,10 +1,8 @@
 ##### § 33.76 Bird ingestion. #####
 
-Link to an amendment published at 88 FR 19810, Apr. 4, 2023.
+(a) *General.* Compliance with paragraphs (b) through (e) of this section shall be in accordance with the following:
 
-(a) *General.* Compliance with paragraphs (b), (c), and (d) of this section shall be in accordance with the following:
-
-(1) Except as specified in paragraph (d) of this section, all ingestion tests must be conducted with the engine stabilized at no less than 100-percent takeoff power or thrust, for test day ambient conditions prior to the ingestion. In addition, the demonstration of compliance must account for engine operation at sea level takeoff conditions on the hottest day that a minimum engine can achieve maximum rated takeoff thrust or power.
+(1) Except as specified in paragraphs (d) and (e) of this section, all ingestion tests must be conducted with the engine stabilized at no less than 100 percent takeoff power or thrust, for test day ambient conditions prior to the ingestion. In addition, the demonstration of compliance must account for engine operation at sea level takeoff conditions on the hottest day that a minimum engine can achieve maximum rated takeoff thrust or power.
 
 (2) The engine inlet throat area as used in this section to determine the bird quantity and weights will be established by the applicant and identified as a limitation in the installation instructions required under § 33.5.
 
@@ -12,7 +10,7 @@ Link to an amendment published at 88 FR 19810, Apr. 4, 2023.
 
 (4) For an engine that incorporates an inlet protection device, compliance with this section shall be established with the device functioning. The engine approval will be endorsed to show that compliance with the requirements has been established with the device functioning.
 
-(5) Objects that are accepted by the Administrator may be substituted for birds when conducting the bird ingestion tests required by paragraphs (b), (c) and (d) of this section.
+(5) Objects that are accepted by the Administrator may be substituted for birds when conducting the bird ingestion tests required by paragraphs (b) through (e) of this section.
 
 (6) If compliance with the requirements of this section is not established, the engine type certification documentation will show that the engine shall be limited to aircraft installations in which it is shown that a bird cannot strike the engine, or be ingested into the engine, or adversely restrict airflow into the engine.
 
@@ -25,8 +23,6 @@ Link to an amendment published at 88 FR 19810, Apr. 4, 2023.
 (3) Ingestion of a single large bird tested under the conditions prescribed in this section may not result in any condition described in § 33.75(g)(2) of this part.
 
 (4) Compliance with the large bird ingestion requirements of this paragraph may be shown by demonstrating that the requirements of § 33.94(a) constitute a more severe demonstration of blade containment and rotor unbalance than the requirements of this paragraph.
-
-Table 1 to § 33.76—Large Bird Weight Requirements
 
 |Engine Inlet Throat Area (A)—Square-meters (square-inches)|                                   Bird weight kg. (lb.)                                   |
 |----------------------------------------------------------|-------------------------------------------------------------------------------------------|
@@ -94,8 +90,6 @@ Table 1 to § 33.76—Large Bird Weight Requirements
 
 (10) If any engine operating limit(s) is exceeded during the initial 2 minutes without power lever movement, as provided by paragraph (c)(7)(ii) of this section, then it shall be established that the limit exceedence will not result in an unsafe condition.
 
-Table 2 to § 33.76—Medium Flocking Bird Weight and Quantity Requirements
-
 |Engine Inlet Throat Area (A)—  <br/>Square-meters (square-inches)|Bird quantity|Bird weight kg. (lb.)|
 |-----------------------------------------------------------------|-------------|---------------------|
 |                         0.05 (77.5)\>A                          |    none     |                     |
@@ -115,8 +109,6 @@ Table 2 to § 33.76—Medium Flocking Bird Weight and Quantity Requirements
 |                                                                 |   plus 6    |     0.70 (1.54)     |
 |                   3.90 (6045)≤A \<4.50 (6975)                   |      3      |     1.15 (2.53)     |
 |                          4.50 (6975)≤A                          |      4      |     1.15 (2.53)     |
-
-Table 3 to § 33.76—Additional Integrity Assessment
 
 |Engine Inlet Throat Area (A)—  <br/>square-meters (square-inches)|Bird quantity|Bird weight kg. (lb.)|
 |-----------------------------------------------------------------|-------------|---------------------|
@@ -170,8 +162,6 @@ Table 3 to § 33.76—Additional Integrity Assessment
 
 (7) Applicants must show that an unsafe condition will not result if any engine operating limit is exceeded during the run-on period.
 
-Table 4 to § 33.76—Large Flocking Bird Mass and Weight
-
 |Engine inlet throat area  <br/>(square meters/square inches)|Bird quantity|Bird mass and weight  <br/>(kg (lbs))|
 |------------------------------------------------------------|-------------|-------------------------------------|
 |                      A \<2.50 (3875)                       |    none     |                                     |
@@ -179,4 +169,90 @@ Table 4 to § 33.76—Large Flocking Bird Mass and Weight
 |                3.50 (5425) ≤A \<3.90 (6045)                |      1      |             2.10 (4.63)             |
 |                       3.90 (6045) ≤A                       |      1      |             2.50 (5.51)             |
 
-[Doc. No. FAA-1998-4815, 65 FR 55854, Sept. 14, 2000, as amended by Amdt. 33-20, 68 FR 75391, Dec. 31, 2003; Amdt. 33-24, 72 FR 50868, Sept. 4, 2007; Amdt. 33-23, 72 FR 58974, Oct. 17, 2007]
+(e) *Core flocking bird test.* Except as provided in paragraph (e)(4) of this section, for turbofan engines, an engine test must be performed in accordance with either paragraph (e)(1) or (2) of this section. The test specified in paragraph (e)(2) must be conducted if testing or validated analysis shows that no bird material will be ingested into the engine core during the test under the conditions specified in paragraph (e)(1).
+
+(1) *Climb flocking bird test.* (i) Test requirements are as follows:
+
+(A) Before ingestion, the engine must be stabilized at the mechanical rotor speed of the first exposed stage or stages that produce the lowest expected power or thrust required during climb through 3,000 feet above mean sea level (MSL) at standard day conditions.
+
+(B) The climb flocking bird test shall be conducted using one bird of the highest weight specified in table 2 to this section for the engine inlet area.
+
+(C) Ingestion must be at 261-knots true airspeed.
+
+(D) The bird must be aimed at the first exposed rotating stage or stages, at the blade airfoil height, as measured at the leading edge that will result in maximum bird material ingestion into the engine core.
+
+(ii) Ingestion of a flocking bird into the engine core under the conditions prescribed in paragraph (e)(1)(i) of this section must not cause any of the following:
+
+(A) Sustained power or thrust reduction to less than 50 percent maximum rated takeoff power or thrust during the run-on segment specified under paragraph (e)(1)(iii)(B) of this section, that cannot be restored only by movement of the power lever.
+
+(B) Sustained power or thrust reduction to less than flight idle power or thrust during the run-on segment specified under paragraph (e)(1)(iii)(B) of this section.
+
+(C) Engine shutdown during the required run-on demonstration specified in paragraph (e)(1)(iii) of this section.
+
+(D) Any condition specified in § 33.75(g)(2).
+
+(iii) The following test schedule must be used (power lever movement between conditions must occur within 10 seconds or less, unless otherwise noted):
+
+Note 1 to paragraph (e)(1)(iii) introductory text. Durations specified are times at the defined conditions in paragraphs (e)(1)(iii)(A) through (I) of this section.
+
+(A) Ingestion.
+
+(B) Followed by 1 minute without power lever movement.
+
+(C) Followed by power lever movement to increase power or thrust to not less than 50 percent maximum rated takeoff power or thrust, if the initial bird ingestion resulted in a reduction in power or thrust below that level.
+
+(D) Followed by 13 minutes at not less than 50 percent maximum rated takeoff power or thrust. Power lever movement in this condition is unlimited.
+
+(E) Followed by 2 minutes at 30-35 percent maximum rated takeoff power or thrust.
+
+(F) Followed by 1 minute with power or thrust increased from that set in paragraph (e)(1)(iii)(E) of this section, by 5-10 percent maximum rated takeoff power or thrust.
+
+(G) Followed by 2 minutes with power or thrust reduced from that set in paragraph (e)(1)(iii)(F) of this section, by 5-10 percent maximum rated takeoff power or thrust.
+
+(H) Followed by 1 minute minimum at ground idle.
+
+(I) Followed by engine shutdown.
+
+(2) *Approach flocking bird test.* (i) Test requirements are as follows:
+
+(A) Before ingestion, the engine must be stabilized at the mechanical rotor speed of the first exposed stage or stages that produce approach idle thrust when descending through 3,000 feet MSL at standard day conditions.
+
+(B) The approach flocking bird test shall be conducted using one bird of the highest weight specified in table 2 to this section for the engine inlet area.
+
+(C) Ingestion must be at 209-knots true airspeed.
+
+(D) The bird must be aimed at the first exposed rotating stage or stages, at the blade airfoil height measured at the leading edge that will result in maximum bird material ingestion into the engine core.
+
+(ii) Ingestion of a flocking bird into the engine core under the conditions prescribed in paragraph (e)(2)(i) of this section may not cause any of the following:
+
+(A) Power or thrust reduction to less than flight idle power or thrust during the run-on segment specified under paragraph (e)(2)(iii)(B) of this section.
+
+(B) Engine shutdown during the required run-on demonstration specified in paragraph (e)(2)(iii) of this section.
+
+(C) Any condition specified in § 33.75(g)(2).
+
+(iii) The following test schedule must be used (power lever movement between conditions must occur within 10 seconds or less, unless otherwise noted):
+
+Note 2 to paragraph (e)(2)(iii) introductory text. Durations specified are times at the defined conditions in paragraphs (e)(2)(iii)(A) through (H) of this section.
+
+(A) Ingestion.
+
+(B) Followed by 1 minute without power lever movement.
+
+(C) Followed by 2 minutes at 30-35 percent maximum rated takeoff power or thrust. Power lever movement in this condition is unlimited.
+
+(D) Followed by 1 minute with power or thrust increased from that set in paragraph (e)(2)(iii)(C) of this section, by 5-10 percent maximum rated takeoff power or thrust.
+
+(E) Followed by 2 minutes with power or thrust reduced from that set in paragraph (e)(2)(iii)(D) of this section, by 5-10 percent maximum rated takeoff power or thrust.
+
+(F) Followed by 1 minute minimum at ground idle.
+
+(G) Followed by engine shutdown.
+
+(H) Power lever movement between each condition must be 10 seconds or less, except that any power lever movements are allowed within the time period of paragraph (e)(2)(iii)(C) of this section.
+
+(3) *Results of exceeding engine-operating limits.* Applicants must show that an unsafe condition will not result if any engine-operating limit is exceeded during the run-on period.
+
+(4) *Combining tests.* The climb flocking bird test of paragraph (e)(1) of this section may be combined with the medium flocking bird test of paragraph (c) of this section, if the climb first stage rotor speed calculated in paragraph (e)(1) of this section is within 3 percent of the first stage rotor speed required by paragraph (c)(1) of this section. As used in this paragraph (e)(4), “combined” means that, instead of separately conducting the tests specified in paragraphs (c) and (e)(1) of this section, the test conducted under paragraph (c) of this section satisfies the requirements of paragraph (e) of this section if the bird aimed at the core of the engine meets the bird ingestion speed criteria of paragraph (e)(1)(i)(C) of this section.
+
+[Doc. No. FAA-1998-4815, 65 FR 55854, Sept. 14, 2000, as amended by Amdt. 33-20, 68 FR 75391, Dec. 31, 2003; Amdt. 33-24, 72 FR 50868, Sept. 4, 2007; Amdt. 33-23, 72 FR 58974, Oct. 17, 2007; Amdt. 33-36, 88 FR 19810, Apr. 4, 2023]

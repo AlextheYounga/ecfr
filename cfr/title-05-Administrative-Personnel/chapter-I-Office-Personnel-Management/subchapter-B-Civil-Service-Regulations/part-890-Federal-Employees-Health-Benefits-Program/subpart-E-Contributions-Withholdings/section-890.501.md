@@ -1,10 +1,8 @@
 ##### § 890.501 Government contributions. #####
 
-Link to an amendment published at 88 FR 20403, Apr. 6, 2023.
-
 (a) The Government contribution toward subscription charges under all health benefits plans, for each enrolled employee who is paid biweekly, is the amount provided in section 8906 of title 5, United States Code, plus 4 percent of that amount.
 
-(b) In accordance with the provisions of 5 U.S.C. 8906(a) which take effect with the contract year that begins in January 1999, OPM will determine the amounts representing the weighted average of subscription charges in effect for each contract year, for self only, self plus one, and self and family enrollments, as follows:
+(b) In accordance with the provisions of 5 U.S.C. 8906(a) which takes effect with the contract year that begins in January 1999, OPM will determine the amounts representing the weighted average of subscription charges in effect for each contract year, for FEHB plans and for PSHB plans, respectively, for self only, self plus one, and self and family enrollments, as follows:
 
 (1) The determination of the weighted average of subscription charges will only include those health benefits plans which are continuing FEHB Program participation from one contract year to the next.
 
@@ -36,4 +34,4 @@ Link to an amendment published at 88 FR 20403, Apr. 6, 2023.
 
 (2) Government contributions and employee withholdings for employees who enroll in a health benefit plan offered through an appropriate SHOP as determined by the Director, pursuant to section 1312(d)(3)(D) of the Patient Protection and Affordable Care Act, Public Law 111-148, as amended by the Health Care and Education Reconciliation Act, Public Law 111-152 (the Affordable Care Act or the Act) shall be accounted for pursuant to section 8909 of title 5 and such monies shall only be available for payment of premiums, and costs in accordance with section 8909(a)(2) of title 5.
 
-[33 FR 12510, Sept. 4, 1968, as amended at 47 FR 30963, July 16, 1982; 54 FR 7756, Feb. 23, 1989; 56 FR 10143, Mar. 11, 1991; 60 FR 45658, Sept. 1, 1995; 63 FR 45934, Aug. 28, 1998; 64 FR 31488, June 11, 1999; 78 FR 60656, Oct. 2, 2013; 80 FR 55736, Sept. 17, 2015]Editorial Note:At 79 FR 46638, Aug. 8, 2014, § 890.501 was amended by adding paragraph (h); however, the amendatory instruction could not be followed because paragraph (h) already appeared in the section.
+[33 FR 12510, Sept. 4, 1968, as amended at 47 FR 30963, July 16, 1982; 54 FR 7756, Feb. 23, 1989; 56 FR 10143, Mar. 11, 1991; 60 FR 45658, Sept. 1, 1995; 63 FR 45934, Aug. 28, 1998; 64 FR 31488, June 11, 1999; 78 FR 60656, Oct. 2, 2013; 80 FR 55736, Sept. 17, 2015; 88 FR 20403, Apr. 6, 2023]Editorial Note:At 79 FR 46638, Aug. 8, 2014, § 890.501 was amended by adding paragraph (h); however, the amendatory instruction could not be followed because paragraph (h) already appeared in the section.

@@ -1,7 +1,5 @@
 ##### § 423.182 Part D Prescription Drug Plan Quality Rating System. #####
 
-Link to an amendment published at 88 FR 22337, Apr. 12, 2023.
-
 (a) *Definitions.* In this subpart the following terms have the meanings:
 
 *Absolute percentage cap* is a cap applied to non-CAHPS measures that are on a 0 to 100 scale that restricts movement of the current year's measure-threshold-specific cut point to no more than the stated percentage as compared to the prior year's cut point.
@@ -28,9 +26,11 @@ Link to an amendment published at 88 FR 22337, Apr. 12, 2023.
 
 *Guardrail* is a bidirectional cap that restricts both upward and downward movement of a measure-threshold-specific cut point for the current year's measure-level Star Ratings as compared to the prior year's measure-threshold-specific cut point.
 
+*Health equity index* means an index that summarizes contract performance among those with specified social risk factors (SRFs) across multiple measures into a single score.
+
 *Highest rating* means the overall rating for MA-PDs, the Part C summary rating for MA-only contracts, and the Part D summary rating for PDPs.
 
-*Highly-rated contract* means a contract that has 4 or more stars for its highest rating when calculated without the improvement measures and with all applicable adjustments (CAI and the reward factor).
+*Highly-rated contract* means a contract that has 4 or more stars for its highest rating when calculated without the improvement measures and with all applicable adjustments in § 423.186(f).
 
 *Low-income subsidy (LIS)* means the subsidy that a beneficiary receives to help pay for prescription drug coverage (see § 423.34 for definition of a low-income subsidy eligible individual).
 
@@ -66,7 +66,7 @@ Link to an amendment published at 88 FR 22337, Apr. 12, 2023.
 
 *Tukey outer fence outliers* are measure scores that are below a certain point (first quartile−3.0 × (third quartile−first quartile)) or above a certain point (third quartile + 3.0 × (third quartile−first quartile)).
 
-(b) *Contract ratings*—(1) *General.* CMS calculates an overall Star Rating, Part C summary rating, and Part D summary rating for each MA-PD contract and a Part D summary rating for each PDP contract using the 5-star rating system described in this subpart. For PDP contracts, the Part D summary rating is the highest rating. Measures are assigned stars at the contract level and weighted in accordance with § 423.186(a). Domain ratings are the unweighted mean of the individual measure ratings under the topic area in accordance with § 423.186(b). Summary ratings are the weighted mean of the individual measure ratings for Part C or Part D in accordance with § 423.186(c), with both the reward factor and CAI applied as applicable, as described in § 423.186(f). Overall Star Ratings are calculated by using the weighted mean of the individual measure ratings in accordance with § 423.186(d) with both the reward factor and CAI applied as applicable, as described in § 423.186(f).
+(b) *Contract ratings*—(1) *General.* CMS calculates an overall Star Rating, Part C summary rating, and Part D summary rating for each MA-PD contract and a Part D summary rating for each PDP contract using the 5-star rating system described in this subpart. For PDP contracts, the Part D summary rating is the highest rating. Measures are assigned stars at the contract level and weighted in accordance with § 423.186(a). Domain ratings are the unweighted mean of the individual measure ratings under the topic area in accordance with § 423.186(b). Summary ratings are the weighted mean of the individual measure ratings for Part C or Part D in accordance with § 423.186(c), with the applicable adjustments provided in paragraph (f) of this section. Overall Star Ratings are calculated by using the weighted mean of the individual measure ratings in accordance with § 423.186(d), with the applicable adjustments provided in paragraph (f) of this section. CMS includes the Star Ratings measures in the overall and summary ratings that are associated with the contract type for the Star Ratings year.
 
 (2) *Plan benefit packages.* All plan benefit packages (PBPs) offered under an MA contract or PDP plan sponsor have the same overall and/or summary Star Ratings as the contract under which the PBP is offered by the MA organization or PDP plan sponsor. Data from all the PBPs offered under a contract are used to calculate the measure and domain ratings for the contract.
 
@@ -74,7 +74,7 @@ Link to an amendment published at 88 FR 22337, Apr. 12, 2023.
 
 (ii) The Star Ratings posted on Medicare Plan Finder for contracts that consolidate are as follows:
 
-(A)(*1*) For the first year after consolidation, CMS uses enrollment-weighted measure scores using the July enrollment of the measurement period of the consumed and surviving contracts for all measures, except survey-based measures and call center measures. The survey-based measures would use enrollment of the surviving and consumed contracts at the time the sample is pulled for the rating year. The call center measures would use average enrollment during the study period.
+(A)(*1*) For the first year after consolidation, CMS uses enrollment-weighted measure scores using the July enrollment of the measurement period of the consumed and surviving contracts for all measures, except survey-based measures, call center measures, and improvement measures. The survey-based measures will use enrollment of the surviving and consumed contracts at the time the sample is pulled for the rating year. The call center measures will use average enrollment during the study period. The Part C and D improvement measures are not calculated for first year consolidations.
 
 (*2*) For contract consolidations approved on or after January 1, 2022, if a measure score for a consumed or surviving contract is missing due to a data integrity issue as described in § 423.184(g)(1)(i) and (ii), CMS assigns a score of zero for the missing measure score in the calculation of the enrollment-weighted measure score.
 
@@ -90,4 +90,4 @@ Link to an amendment published at 88 FR 22337, Apr. 12, 2023.
 
 (3) For 2021 Star Ratings only, Part D sponsors are not required to submit CAHPS data that would otherwise be required for the calculation of the 2021 Star Ratings.
 
-[83 FR 16743, Apr. 16, 2018; 84 FR 15841, Apr. 16, 2019, as amended at 85 FR 19290, Apr. 6, 2020; 85 FR 33911, June 2, 2020; 86 FR 6118, Jan. 19, 2021]
+[83 FR 16743, Apr. 16, 2018; 84 FR 15841, Apr. 16, 2019, as amended at 85 FR 19290, Apr. 6, 2020; 85 FR 33911, June 2, 2020; 86 FR 6118, Jan. 19, 2021; 88 FR 22337, Apr. 12, 2023]

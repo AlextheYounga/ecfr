@@ -1,7 +1,5 @@
 ##### § 890.308 Disenrollment and removal from enrollment. #####
 
-Link to an amendment published at 88 FR 20403, Apr. 6, 2023.
-
 (a) *Carrier disenrollment: Enrollment reconciliation.* (1) Except as otherwise provided in this section, a carrier that cannot reconcile its record of an individual's enrollment with agency enrollment records or does not receive documentation necessary to resolve the discrepancy from the employing office within 31 days of a request must provide written notice to the individual that the employing office of record does not show him or her as enrolled in the carrier's plan and that he or she will be disenrolled 31 calendar days after the date of the notice unless the enrollee provides appropriate documentation to resolve the discrepancy. Appropriate documentation includes, but is not limited to, a copy of the Standard Form 2809 (basic enrollment document) (or a letter confirming an electronic transaction), the Standard Form 2810 transferring the enrollment into the gaining employing office (or the equivalent electronic submission), copies of earnings and leave statements or annuity statements showing withholdings for the health benefits plan, or a document or other credible information from the enrollee's employing office stating that the individual is entitled to continued enrollment in the plan and that the premiums are being paid. After receiving documentation from the enrollee, the carrier must notify both the enrollee and the employing office of record of their decision on the information.
 
 (2) If the carrier does not receive documentation required under paragraph (a)(1) of this section within the specified time frame, the carrier should disenroll the individual, without further notice.
@@ -74,4 +72,6 @@ Link to an amendment published at 88 FR 20403, Apr. 6, 2023.
 
 (5) If an employing office approves a request for removal, the employing office must notify the enrollee and the carrier of the removal immediately. For removals under paragraph (h)(1)(ii) of this section, the employing office must also immediately notify the child of the removal using the last known contact provided by the enrollee.
 
-[63 FR 59459, Nov. 4, 1998, as amended at 83 FR 3061, Jan. 23, 2018]
+(i) *Disenrollment and removal from enrollment: Medicare enrollment requirement for certain Postal Service annuitants and family members.* Postal Service Medicare covered annuitants not enrolled in Medicare Part B may be disenrolled, and Medicare covered members of family not enrolled in Medicare Part B may be removed from coverage, pursuant to § 890.1608(b).
+
+[63 FR 59459, Nov. 4, 1998, as amended at 83 FR 3061, Jan. 23, 2018; 88 FR 20403, Apr. 6, 2023]

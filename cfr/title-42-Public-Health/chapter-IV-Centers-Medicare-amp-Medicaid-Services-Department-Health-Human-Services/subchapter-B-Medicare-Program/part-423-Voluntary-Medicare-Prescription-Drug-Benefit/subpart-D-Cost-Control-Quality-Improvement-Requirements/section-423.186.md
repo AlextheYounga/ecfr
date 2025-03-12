@@ -1,12 +1,10 @@
 ##### § 423.186 Calculation of Star Ratings. #####
 
-Link to an amendment published at 88 FR 22338, Apr. 12, 2023.
-
 (a) *Measure Star Ratings*—(1) *Cut points.* CMS will determine cut points for the assignment of a Star Rating for each numeric measure score by applying either a clustering or a relative distribution and significance testing methodology. For the Part D measures, CMS will determine MA-PD and PDP cut points separately.
 
 (2) Clustering algorithm for all measures except CAHPS measures.
 
-(i) The method maximizes differences across the star categories and minimizes the differences within star categories using mean resampling with the hierarchal clustering of the current year's data. Effective for the Star Ratings issued in October 2022 and subsequent years, CMS will add a guardrail so that the measure-threshold-specific cut points for non-CAHPS measures do not increase or decrease more than the value of the cap from one year to the next. The cap is equal to 5 percentage points for measures having a 0 to 100 scale (absolute percentage cap) or 5 percent of the restricted range for measures not having a 0 to 100 scale (restricted range cap). New measures that have been in the Part C and D Star Rating program for 3 years or less use the hierarchal clustering methodology with mean resampling with no guardrail for the first 3 years of the program.
+(i) The method maximizes differences across the star categories and minimizes the differences within star categories using mean resampling with the hierarchal clustering of the current year's data. Effective for the Star Ratings issued in October 2023 and subsequent years, prior to applying mean resampling with hierarchal clustering, Tukey outer fence outliers are removed. Effective for the Star Ratings issued in October 2022 and subsequent years, CMS will add a guardrail so that the measure-threshold-specific cut points for non-CAHPS measures do not increase or decrease more than the value of the cap from 1 year to the next. The cap is equal to 5 percentage points for measures having a 0 to 100 scale (absolute percentage cap) or 5 percent of the restricted range for measures not having a 0 to 100 scale (restricted range cap). New measures that have been in the Part C and D Star Rating program for 3 years or less use the hierarchal clustering methodology with mean resampling with no guardrail for the first 3 years in the program.
 
 (ii) In cases where multiple clusters have the same measure score value range, those clusters would be combined, leading to fewer than 5 clusters.
 
@@ -74,7 +72,7 @@ Link to an amendment published at 88 FR 22338, Apr. 12, 2023.
 
 (ii) The domain ratings are on a 1 to 5 star scale ranging from 1 (worst rating) to 5 (best rating) in whole star increments using traditional rounding rules.
 
-(c) *Part D summary ratings.* (1) CMS will calculate the Part D summary ratings using the weighted mean of the measure-level Star Ratings for Part D, weighted in accordance with paragraph (e) with an adjustment to reward consistently high performance described and the application of the CAI, under paragraph (f) of this section.
+(c) *Part D summary ratings.* (1) CMS will calculate the Part D summary ratings using the weighted mean of the measure-level Star Ratings for Part D, weighted in accordance with paragraph (e) of this section and with the applicable adjustments provided in paragraph (f) of this section.
 
 (2)(i) A contract must have scores for at least 50 percent of the measures required to be reported for the contract type to have a summary rating calculated.
 
@@ -82,7 +80,7 @@ Link to an amendment published at 88 FR 22338, Apr. 12, 2023.
 
 (3) The summary ratings are on a 1 to 5 star scale ranging from 1 (worst rating) to 5 (best rating) in half-star increments using traditional rounding rules.
 
-(d) *Overall MA-PD rating.* (1) The overall rating for a MA-PD contract will be calculated using a weighted mean of the Part C and Part D measure-level Star Ratings, weighted in accordance with paragraph (e) of this section and with an adjustment to reward consistently high performance described and the application of the CAI, under paragraph (f) of this section.
+(d) *Overall MA-PD rating.* (1) The overall rating for a MA-PD contract will be calculated using a weighted mean of the Part C and Part D measure-level Star Ratings, weighted in accordance with paragraph (e) of this section and with the applicable adjustments provided in paragraph (f) of this section.
 
 (2)(i) An MA-PD must have both Part C and Part D summary ratings and scores for at least 50 percent of the measures required to be reported for the contract type to have the overall rating calculated.
 
@@ -98,9 +96,9 @@ Link to an amendment published at 88 FR 22338, Apr. 12, 2023.
 
 (ii) Outcome and Intermediate outcome measures receive a weight of 3.
 
-(iii) Patient experience and complaint measures receive a weight of 4.
+(iii) Through the 2025 Star Ratings, patient experience and complaint measures receive a weight of 4. Starting with the 2026 Star Ratings and subsequent Star Ratings years, patient experience and complaint measures receive a weight of 2.
 
-(iv) Access measures receive a weight of 4.
+(iv) Through the 2025 Star Ratings, access measures receive a weight of 4. Starting with the 2026 Star Ratings and subsequent Star Ratings years, access measures receive a weight of 2.
 
 (v) Process measures receive a weight of 1.
 
@@ -110,7 +108,7 @@ Link to an amendment published at 88 FR 22338, Apr. 12, 2023.
 
 (f) *Completing the Part D summary and overall rating calculations.* CMS will adjust the summary and overall rating calculations to take into account the reward factor (if applicable) and the categorical adjustment index (CAI) as provided in this paragraph (f).
 
-(1) *Reward factor.* This rating-specific factor is added to both the summary and overall ratings of contracts that qualify for the reward factor based on both high and stable relative performance for the rating level.
+(1) *Reward factor.* Through the 2026 Star Ratings, this rating-specific reward factor is added to both the summary and overall ratings of contracts that qualify for this reward factor based on both high and stable relative performance for the rating level.
 
 (i) The contract's performance will be assessed using its weighted mean and its ranking relative to all rated contracts in the rating level (overall for MA-PDs and Part D summary for MA-PDs and PDPs) for the same Star Ratings year. The contract's stability of performance will be assessed using the weighted variance and its ranking relative to all rated contracts in the rating type (overall for MA-PDs and Part D summary for MA-PDs and PDPs). The weighted mean and weighted variance are compared separately for MA-PD and standalone Part D contracts (PDPs). The measure weights are specified in paragraph (e) of this section. Since highly-rated contracts may have the improvement measure(s) excluded in the determination of their final highest rating, each contract's weighted variance and weighted mean will be calculated both with and without the improvement measures. For an MA-PD's Part C and D summary ratings, its ranking is relative to all other contracts' weighted variance and weighted mean for the rating type (Part C summary, Part D summary) with the improvement measure. For the 2022 Star Ratings only, since all contracts may have the improvement measure(s) excluded in the determination of their highest rating and summary rating(s), each contract's weighted variance and weighted mean are calculated both with and without the improvement measures.
 
@@ -132,7 +130,7 @@ Link to an amendment published at 88 FR 22338, Apr. 12, 2023.
 
 (2) *Categorical adjustment index.* CMS applies the categorical adjustment index (CAI) as provided in this paragraph(f)(2) to adjust for the average within-contract disparity in performance associated with the percentages of beneficiaries who receive a low income subsidy or are dual eligible (LIS/DE) or have disability status. The factor is calculated as the mean difference in the adjusted and unadjusted ratings (overall, Part D for MA-PDs, Part D for PDPs) of the contracts that lie within each final adjustment category for each rating type.
 
-(i) The CAI is added to or subtracted from the contract's overall and summary ratings and is applied after the reward factor adjustment (if applicable).
+(i) The CAI is added to or subtracted from the contract's overall and summary ratings and is applied after the reward factor adjustment described in paragraph (f)(1) of this section (if applicable).
 
 (A) The adjustment factor is monotonic (that is, as the proportion of LIS/DE and disabled increases in a contract, the adjustment factor increases in at least one of the dimensions) and varies by a contract's categorization into a final adjustment category that is determined by a contract's proportion of LIS/DE and disabled beneficiaries.
 
@@ -186,11 +184,47 @@ Link to an amendment published at 88 FR 22338, Apr. 12, 2023.
 
 (C) The model's coefficient and intercept are updated annually and published in the Technical Notes.
 
-(g) *Applying the improvement measure scores.* (1) CMS runs the calculations twice for the highest rating for each contract-type (overall rating for MA-PD contracts and Part D summary rating for PDPs), with all applicable adjustments (CAI and the reward factor), once including the improvement measure(s) and once without including the improvement measure(s). In deciding whether to include the improvement measures in a contract's highest rating, CMS applies the following rules:
+(3) *Health equity index.* Starting with the 2027 Star Ratings year and subsequent Star Ratings years, CMS applies a health equity index rating-specific factor to both the summary and overall ratings of contracts that qualify based on an assessment of contract performance on quality measures among enrollees with certain social risk factors (SRFs).
 
-(i) If the highest rating for each contract-type is 4 stars or more without the use of the improvement measure(s) and with all applicable adjustments (CAI and the reward factor), a comparison of the highest rating with and without the improvement measure(s) is done. The higher rating is used for the rating.
+(i) The health equity index (HEI) is calculated separately for the overall rating for MA-PDs and cost contracts including the applicable Part C and D measures; Part C summary rating for MA-only, MA-PD, and cost contracts including the applicable Part C measures; Part D summary rating for MA-PDs and cost contracts including the applicable Part D measures; and Part D summary rating for PDPs including the applicable Part D measures.
 
-(ii) If the highest rating is less than 4 stars without the use of the improvement measure(s) and with all applicable adjustments (CAI and the reward factor), the rating will be calculated with the improvement measure(s).
+(A) The SRFs included in the HEI are receipt of the low-income subsidy or being dually eligible for Medicare and Medicaid (LIS/DE), or having a disability. Enrollees will be identified as LIS/DE or as having a disability as specified in paragraph (f)(2)(i)(B) of this section. If a person meets the LIS/DE criteria for only one of the two measurement years included in the HEI, the data for that person for just that year are used. Measures that are case-mix adjusted in the Star Ratings are adjusted using all standard case-mix adjustors for the measure except for those adjusters that are the SRFs of interest in the index, are strongly correlated with the SRFs of interest, or are conceptually similar to the SRFs of interest.
+
+(B) The HEI is calculated by combining measure-level scores for the subset of enrollees with SRFs of interest included in the HEI across the two most recent measurement years using a modeling approach that includes year as an adjustor to account for potential differences in performance across years and to adjust the data to reflect performance in the second of the 2 years of data used. Measure-level scores are used for contracts that have data for only the most recent of the 2 years, but measure-level scores are not used for contracts that have data for only the first of the 2 years.
+
+(ii) In determining the HEI scores, a measure will be excluded from the calculation of the index if the measure meets any of the following:
+
+(A) The focus of the measurement is not the enrollee but rather the plan or provider.
+
+(B) The measure is retired, moved to display, or has a substantive specification change in either year of data used to construct the HEI.
+
+(C) The measure is applicable only to SNPs.
+
+(D) At least 25 percent of contracts are unable to meet the criteria specified in paragraph (f)(3)(iv) of this section. For Part D measures, this criterion is assessed separately for MA-PDs and cost contracts, and for PDPs.
+
+(iii) The Star Ratings measures that remain after the exclusion criteria in paragraph (f)(3)(ii) of this section have been applied will be included in the calculation of the HEI. CMS will announce the measures being evaluated for inclusion in the calculation of the HEI under this paragraph (f)(3) of this section through the process described for changes in and adoption of payment and risk adjustment policies in section 1853(b) of the Act.
+
+(iv) For a measure to be included in the calculation of a contract's HEI score, the measure must meet both of the following criteria:
+
+(A) The measure must have a reliability of at least 0.7 for the contract when calculated for the combined subset of enrollees with the SRF(s) specified in paragraph (f)(3)(i)(A) of this section across 2 years of data.
+
+(B) The measure-specific denominator criteria must be met for the contract using only the combined subset of enrollees with the SRF(s) specified in paragraph (f)(3)(i)(A) of this section across 2 years of data.
+
+(v) To calculate the rating-specific HEI score, the distribution of contract performance on each eligible measure for the subset of enrollees that have one or more of the specified SRFs will be assessed and separated into thirds, with the top third of contracts receiving 1 point, the middle third of contracts receiving 0 points, and the bottom third of contracts receiving −1 point. The rating-specific HEI will then be calculated as the weighted sum of points across all measures included in the index using the Star Ratings measure weight for each measure divided by the weighted sum of the number of eligible measures for the given contract. The measure weight for each measure is the weight used for the measure in the current Star Ratings year as specified in paragraph (e) of this section.
+
+(vi) To have the HEI calculated, contracts must have at least 500 enrollees in the most recent measurement year used in the HEI and have at least half of the measures included in the HEI meet the criteria specified under paragraph (f)(3)(iv) of this section.
+
+(vii) In order to qualify for the full HEI reward, contracts must have percentages of enrollees with the specified SRFs combined greater than or equal to the contract-level median in the most recent year of data used to calculate the HEI and a rating-specific minimum index score of greater than zero. In order to qualify for one-half of the HEI reward, contracts must have percentages of enrollees with SRFs greater than or equal to one-half of the contract-level median up to, but not including, the contract-level median percentage of enrollees with SRFs in the most recent year of data used to calculate the HEI and a rating-specific minimum index score of greater than zero. One-half of the contract-level median and the contract-level median enrollment percentages are assessed separately for contracts that offer Part C and stand-alone Part D contracts.
+
+(A) For contracts with service areas wholly located in Puerto Rico, the percentage of enrollees that are LIS/DE or disabled is calculated by adding the number of DE/disabled enrollees to the estimated LIS percentage calculated by taking the percentage LIS/DE as calculated at §§ 422.166(f)(2)(vi) and (vii) and 423.186(f)(2)(vi) and (vii) and subtracting the percentage of DE enrollees.
+
+(B) Contracts with service areas wholly located in Puerto Rico are excluded from the calculation of one-half of the contract-level median and the contract-level median.
+
+(viii) For contracts that have percentages of enrollees with SRFs greater than or equal to the contract-level median enrollment percentage, the HEI reward added to the contract's summary and overall ratings will vary from 0 to 0.4 on a linear scale with a contract receiving 0 if the contract receives a score of 0 or less on the HEI and 0.4 if the contract receives a score of 1 on the HEI. For contracts that have percentages of enrollees with SRFs greater than or equal to one-half the median percentage of enrollees with SRFs up to, but not including, the contract-level median percentage of enrollees with SRFs, the HEI reward added to the contract's summary and overall ratings will vary from 0 to 0.2 on a linear scale, with a contract receiving 0 if the contract receives a score of 0 or less on the HEI and 0.2 if the contract receives a score of 1 on the HEI. The HEI reward is rounded and displayed with 6 decimal places. Contracts that cannot have a HEI score calculated (that is, contracts that are not scored on at least half of the measures included in the index) will not receive an HEI reward.
+
+(ix) The HEI reward is calculated separately for, and then added to, the overall rating, Part C rating for MA-PDs and MA-only contracts (and cost contracts), Part D rating for MA-PDs (and cost contracts), and Part D rating for PDPs after the addition of the CAI as specified in paragraph (f)(2) of this section and application of the improvement measures as specified in paragraph (g) of this section and before the final overall and Part C and D summary ratings are calculated by rounding to the nearest half star.
+
+(g) *Applying the improvement measure scores.* (1) CMS runs the calculations twice for the highest level rating for each contract-type (overall rating for MA-PD contracts and Part D summary rating for PDPs), with the reward factor adjustment if applicable and the CAI adjustment, once including the improvement measure(s) and once without including the improvement measure(s). In deciding whether to include the improvement measures in a contract's final highest rating, CMS applies the following rules:
 
 (2) The Part D summary rating for MA-PDs will include the Part D improvement measure.
 
@@ -250,11 +284,11 @@ Link to an amendment published at 88 FR 22338, Apr. 12, 2023.
 
 (6) *Missing data.* For an affected contract that has missing data in the current or previous year, the final measure rating comes from the current year unless an exemption described in paragraph (i)(2)(ii) of this section applies. Missing data includes data where there is a data integrity issue as defined at § 423.184(g)(1).
 
-(7) *Cut points for non-CAHPS measures.* (i) CMS excludes the numeric values for affected contracts with 60 percent or more of their enrollees in the FEMA-designated Individual Assistance area at the time of the extreme and uncontrollable circumstance from the clustering algorithms described in paragraph (a)(2) of this section.
+(7) *Cut points for non-CAHPS measures.* (i) Through the 2025 Star Ratings, CMS excludes the numeric values for affected contracts with 60 percent or more of their enrollees in the FEMA-designated Individual Assistance area at the time of the extreme and uncontrollable circumstance from the clustering algorithms described in paragraph (a)(2) of this section.
 
 (ii) The cut points calculated as described in paragraph (i)(7)(i) of this section are used to assess all affected contracts' measure Star Ratings.
 
-(8) *Reward factor.* (i) CMS excludes the numeric values for affected contracts with 60 percent or more of their enrollees in the FEMA-designated Individual Assistance area at the time of the extreme and uncontrollable circumstance from the determination of the performance summary and variance thresholds for the Reward Factor described in paragraph (f)(1) of this section.
+(8) *Reward factor.* (i) Through the 2025 Star Ratings, CMS excludes the numeric values for affected contracts with 60 percent or more of their enrollees in the FEMA-designated Individual Assistance area at the time of the extreme and uncontrollable circumstance from the determination of the performance summary and variance thresholds for the reward factor described in paragraph (f)(1) of this section.
 
 (ii) All affected contracts are eligible for the Reward Factor based on the calculations described in paragraph (i)(8)(i) of this section.
 
@@ -272,4 +306,4 @@ Link to an amendment published at 88 FR 22338, Apr. 12, 2023.
 
 (2) [Reserved]
 
-[83 FR 16743, Apr. 16, 2018, as amended at 84 FR 15842, Apr. 16, 2019; 85 FR 19291, Apr. 6, 2020; 85 FR 33911, June 2, 2020; 85 FR 54872, Sept. 2, 2020; 86 FR 6118, Jan. 19, 2021; 87 FR 27899, May 9, 2022]
+[83 FR 16743, Apr. 16, 2018, as amended at 84 FR 15842, Apr. 16, 2019; 85 FR 19291, Apr. 6, 2020; 85 FR 33911, June 2, 2020; 85 FR 54872, Sept. 2, 2020; 86 FR 6118, Jan. 19, 2021; 87 FR 27899, May 9, 2022; 88 FR 22338, Apr. 12, 2023]

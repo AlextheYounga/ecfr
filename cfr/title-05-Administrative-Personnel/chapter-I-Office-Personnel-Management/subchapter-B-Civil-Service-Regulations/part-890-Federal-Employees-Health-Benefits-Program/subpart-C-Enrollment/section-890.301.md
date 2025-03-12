@@ -1,7 +1,5 @@
 ##### § 890.301 Opportunities for employees to enroll or change enrollment; effective dates. #####
 
-Link to an amendment published at 88 FR 20403, Apr. 6, 2023.
-
 (a) *Initial opportunity to enroll.* An employee who becomes eligible may elect to enroll or not to enroll within 60 days after becoming eligible.
 
 (b) *Effective date—generally.* Except as otherwise provided, an enrollment or change of enrollment takes effect on the first day of the first pay period that begins after the date the employing office receives an appropriate request to enroll or change the enrollment and that follows a pay period during any part of which the employee is in pay status.
@@ -104,4 +102,6 @@ Link to an amendment published at 88 FR 20403, Apr. 6, 2023.
 
 (o) *Pay status during a lapse in appropriations.* An employee, who is furloughed or excepted from furlough and working without pay as a result of a lapse in appropriations, is deemed to be in pay status, during the lapse, for purposes of this section.
 
-[62 FR 38435, July 18, 1997; 62 FR 49557, Sept. 22, 1997, as amended at 65 FR 44646, July 19, 2000; 68 FR 56524, Oct. 1, 2003; 69 FR 56928, Sept. 23, 2004; 72 FR 1912, Jan. 17, 2007; 75 FR 76616, Dec. 9, 2010; 79 FR 62329, Oct. 17, 2014; 80 FR 55734, Sept. 17, 2015; 80 FR 65882, Oct. 28, 2015; 86 FR 17274, Apr. 2, 2021]
+(p) *Postal Service employees and Postal Service annuitants eligible to enroll only in PSHB plans.* After December 31, 2024, a Postal Service employee or Postal Service annuitant is not eligible to be enrolled in an FEHB plan but may only enroll in a PSHB plan in accordance with subpart P of this part.
+
+[62 FR 38435, July 18, 1997; 62 FR 49557, Sept. 22, 1997, as amended at 65 FR 44646, July 19, 2000; 68 FR 56524, Oct. 1, 2003; 69 FR 56928, Sept. 23, 2004; 72 FR 1912, Jan. 17, 2007; 75 FR 76616, Dec. 9, 2010; 79 FR 62329, Oct. 17, 2014; 80 FR 55734, Sept. 17, 2015; 80 FR 65882, Oct. 28, 2015; 86 FR 17274, Apr. 2, 2021; 88 FR 20403, Apr. 6, 2023]
