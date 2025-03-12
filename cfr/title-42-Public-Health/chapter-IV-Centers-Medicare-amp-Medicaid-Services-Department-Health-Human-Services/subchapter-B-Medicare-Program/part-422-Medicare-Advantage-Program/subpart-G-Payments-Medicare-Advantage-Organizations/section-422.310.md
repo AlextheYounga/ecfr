@@ -1,7 +1,5 @@
 ##### § 422.310 Risk adjustment data. #####
 
-Link to an amendment published at 83 FR 16733, April 16, 2018.
-
 (a) *Definition of risk adjustment data.* Risk adjustment data are all data that are used in the development and application of a risk adjustment payment model.
 
 (b) *Data collection: Basic rule.* Each MA organization must submit to CMS (in accordance with CMS instructions) the data necessary to characterize the context and purposes of each item and service provided to a Medicare enrollee by a provider, supplier, physician, or other practitioner. CMS may also collect data necessary to characterize the functional limitations of enrollees of each MA organization.
@@ -23,6 +21,8 @@ Link to an amendment published at 83 FR 16733, April 16, 2018.
 (3) MA organizations must obtain the risk adjustment data required by CMS from the provider, supplier, physician, or other practitioner that furnished the item or service.
 
 (4) MA organizations may include in their contracts with providers, suppliers, physicians, and other practitioners, provisions that require submission of complete and accurate risk adjustment data as required by CMS. These provisions may include financial penalties for failure to submit complete data.
+
+(5) For data described in paragraph (d)(1) of this section as data equivalent to Medicare fee-for-service data, which is also known as MA encounter data, MA organizations must submit a NPI in a billing provider field on each MA encounter data record, per CMS guidance.
 
 (e) *Validation of risk adjustment data.* MA organizations and their providers and practitioners will be required to submit a sample of medical records for the validation of risk adjustment data, as required by CMS. There may be penalties for submission of false data.
 
@@ -84,4 +84,4 @@ Link to an amendment published at 83 FR 16733, April 16, 2018.
 
 (3) Submission of corrected risk adjustment data in accordance with overpayments after the final risk adjustment data submission deadline, as described in paragraph (g)(2) of this section, must be made as provided in § 422.326.
 
-[73 FR 48757, Aug. 19, 2008, as amended at 79 FR 29956, May 23, 2014; 79 FR 50358, Aug. 22, 2014; 80 FR 7960, Feb. 12, 2015]
+[73 FR 48757, Aug. 19, 2008, as amended at 79 FR 29956, May 23, 2014; 79 FR 50358, Aug. 22, 2014; 80 FR 7960, Feb. 12, 2015; 83 FR 16733, Apr. 16, 2018]

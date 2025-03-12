@@ -1,7 +1,5 @@
 ##### § 423.782 Cost-sharing subsidy. #####
 
-Link to an amendment published at 83 FR 16753, April 16, 2018.
-
 (a) *Full subsidy eligible individuals.* Full subsidy eligible individuals are entitled to the following:
 
 (1) Elimination of the annual deductible under § 423.104(d)(1).
@@ -18,7 +16,7 @@ Link to an amendment published at 83 FR 16753, April 16, 2018.
 
 (iii) Full-benefit dual eligible individuals with incomes that do not exceed 100 percent of the Federal poverty line applicable to the individual's family size are subject to cost-sharing for covered Part D drugs equal to the lesser of:
 
-(A) A copayment amount of not more than $1 for a generic drug or preferred drugs that are multiple source (as defined under section 1927(k)(7)(A)(i) of the Act) or $3 for any other drug in 2006, or for years after 2006 the amounts specified in this paragraph (a)(2)(iii)(A) for the percentage increase in the Consumer Price Index, rounded to the nearest multiple of 5 cents or 10 cents, respectively; or
+(A) A copayment amount of not more than $1 for a generic drug, biological product for which an application under section 351(k) of the Public Health Service Act (42 U.S.C. 262(k)) is approved, or preferred drugs that are multiple source (as defined under section 1927(k)(7)(A)(i) of the Act) or $3 for any other drug in 2006, or for years after 2006 the amounts specified in this paragraph (a)(2)(iii)(A) for the percentage increase in the Consumer Price Index, rounded to the nearest multiple of 5 cents or 10 cents, respectively; or
 
 (B) The copayment amount charged to other individuals under this paragraph (a)(2)(i) of this section.
 
@@ -30,8 +28,8 @@ Link to an amendment published at 83 FR 16753, April 16, 2018.
 
 (2) Fifteen percent coinsurance for all covered Part D drugs obtained after the annual deductible under the plan up to the out-of-pocket limit (under § 423.104(d)(5)(iii)).
 
-(3) For covered Part D drugs above the out-of-pocket limit (under § 423.104(d)(5)(iii)), in 2006, copayments not to exceed $2 for a generic drug or preferred drugs that are multiple source drugs (as defined under section 1927(k)(7)(A)(i) of the Act) and $5 for any other drug. For years beginning in 2007, the amounts specified in section paragraph (b)(3) for the previous year increased by the annual percentage increase in average per capita aggregate expenditures for covered Part D drugs, rounded to the nearest multiple of 5 cents.
+(3) For covered Part D drugs above the out-of-pocket limit (under § 423.104(d)(5)(iii)) in 2006, copayments not to exceed $2 for a generic drug, biological product for which an application under section 351(k) of the Public Health Service Act (42 U.S.C. 262(k)) is approved, or preferred drugs that are multiple source drugs (as defined under section 1927(k)(7)(A)(i) of the Act) and $5 for any other drug. For years beginning in 2007, the amounts specified in this paragraph (b)(3) for the previous years increased by the annual percentage increase in average per capita aggregate expenditures for covered Part D drugs, rounded to the nearest multiple of 5 cents.
 
 (c) When the out-of-pocket cost for a covered Part D drug under a Part D sponsor's plan benefit package is less than the maximum allowable copayment, coinsurance or deductible amounts under paragraphs (a) and (b) of this section, the Part D sponsor may only charge the lower benefit package amount.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1548, Jan. 12, 2009; 76 FR 21576, Apr. 15, 2011]
+[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1548, Jan. 12, 2009; 76 FR 21576, Apr. 15, 2011; 83 FR 16753, Apr. 16, 2018]

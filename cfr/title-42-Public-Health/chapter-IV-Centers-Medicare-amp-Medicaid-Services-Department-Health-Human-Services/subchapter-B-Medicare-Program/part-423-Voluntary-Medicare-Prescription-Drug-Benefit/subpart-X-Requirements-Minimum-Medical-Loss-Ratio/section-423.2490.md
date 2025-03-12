@@ -1,8 +1,6 @@
 ##### § 423.2490 Release of Part D MLR data. #####
 
-Link to an amendment published at 83 FR 16756, April 16, 2018.
-
-(a) *Terminology.* Subject to the exclusions in paragraph (b) of this section, Part D MLR data consists of the information contained in reports submitted under § 423.2460.
+(a) *Terminology.* Subject to the exclusions in paragraph (b) of this section, Part D MLR data consists of the information submitted under § 423.2460.
 
 (b) *Exclusions from Part D MLR data.* For the purpose of this section, the following items are excluded from Part D MLR data:
 
@@ -18,4 +16,4 @@ Link to an amendment published at 83 FR 16756, April 16, 2018.
 
 (c) *Data release.* CMS releases to the public Part D MLR data, for each contract for each contract year, no earlier than 18 months after the end of the applicable contract year
 
-[81 FR 80558, Nov. 15, 2016]
+[81 FR 80558, Nov. 15, 2016, as amended at 83 FR 16756, Apr. 16, 2018]

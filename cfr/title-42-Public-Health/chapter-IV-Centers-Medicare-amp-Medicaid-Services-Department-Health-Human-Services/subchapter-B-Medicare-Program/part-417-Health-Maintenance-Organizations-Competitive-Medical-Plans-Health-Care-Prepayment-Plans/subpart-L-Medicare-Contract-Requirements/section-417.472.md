@@ -1,7 +1,5 @@
 ##### § 417.472 Basic contract requirements. #####
 
-Link to an amendment published at 83 FR 16721, April 16, 2018.
-
 (a) *Submittal of contract.* An HMO or CMP that wishes to contract with CMS to furnish services to Medicare beneficiaries must submit a signed contract that meets the requirements of this subpart and any other requirements established by CMS.
 
 (b) *Agreement to comply with regulations and instructions.* The contract must provide that the HMO or CMP agrees to comply with all the applicable requirements and conditions set forth in this subpart and in general instructions issued by CMS.
@@ -24,4 +22,6 @@ Link to an amendment published at 83 FR 16721, April 16, 2018.
 
 (j) All coordinated care contracts (including local and regional PPOs, contracts with exclusively SNP benefit packages, private fee-for-service contracts, and MSA contracts), and all cost contracts under section 1876 of the Act, with 600 or more enrollees in July of the prior year, must contract with approved Medicare Consumer Assessment of Healthcare Providers and Systems (CAHPS) survey vendors to conduct the Medicare CAHPS satisfaction survey of Medicare plan enrollees in accordance with CMS specifications and submit the survey data to CMS.
 
-[50 FR 1346, Jan. 10, 1985; 50 FR 20570, May 17, 1985, as amended at 57 FR 8202, Mar. 6, 1992; 58 FR 38079, July 15, 1993; 60 FR 45680, Sept. 1, 1995; 63 FR 35067, June 26, 1998; 75 FR 19802, Apr. 15, 2010]
+(k) All cost contracts under section 1876 of the Act must agree to be rated under the quality rating system specified at subpart D of part 422, and for cost plans that provide the Part D prescription benefit, under the quality rating system specified at part 423 subpart D, of this chapter. Cost contacts are not required to submit data on or be rated on specific measures determined by CMS to be inapplicable to their contract or for which data are not available, including hospital readmission and call center measures.
+
+[50 FR 1346, Jan. 10, 1985; 50 FR 20570, May 17, 1985, as amended at 57 FR 8202, Mar. 6, 1992; 58 FR 38079, July 15, 1993; 60 FR 45680, Sept. 1, 1995; 63 FR 35067, June 26, 1998; 75 FR 19802, Apr. 15, 2010; 83 FR 16721, Apr. 16, 2018]

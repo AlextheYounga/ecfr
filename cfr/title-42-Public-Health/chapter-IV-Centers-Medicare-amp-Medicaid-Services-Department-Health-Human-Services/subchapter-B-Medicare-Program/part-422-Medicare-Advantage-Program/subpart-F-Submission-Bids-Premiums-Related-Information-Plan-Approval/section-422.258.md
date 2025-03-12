@@ -1,7 +1,5 @@
 ##### § 422.258 Calculation of benchmarks. #####
 
-Link to an amendment published at 83 FR 16733, April 16, 2018.
-
 (a) The term “MA area-specific non-drug monthly benchmark amount” means, for a month in a year:
 
 (1) For MA local plans with service areas entirely within a single MA local area:
@@ -80,7 +78,7 @@ Link to an amendment published at 83 FR 16733, April 16, 2018.
 
 (ii) If, for a year after 2012, there is a change in the quartile in which an area is ranked compared to the previous year's ranking, the applicable percentage for the area in the year must be the average of the applicable percentage for the previous year and the applicable percentage that would otherwise apply for the area for the year in the absence of this transitional provision.
 
-(7) *Increases to the applicable percentage for quality.* Beginning with 2012, the blended benchmark under paragraphs (a) and (b) of this section will reflect the level of quality rating at the plan or contract level, as determined by the Secretary. The quality rating for a plan is determined by the Secretary according to a 5-star rating system (based on the data collected under section 1852(e) of the Act). Specifically, the applicable percentage under paragraph (d)(5) of this section must be increased according to criteria in paragraphs (d)(7)(i) through (v) of this section if the plan or contract is determined to be a qualifying plan or a qualifying plan in a qualifying county for the year.
+(7) *Increases to the applicable percentage for quality.* Beginning with 2012, the blended benchmark under paragraphs (a) and (b) of this section will reflect the level of quality rating at the plan or contract level, as determined by the Secretary. The quality rating for a plan is determined by the Secretary according to a 5-star rating system (based on the data collected under on 1852(e) of the Act) specified in subpart D of this part 422. Specifically, the applicable percentage under paragraph (d)(5) of this section must be increased according to criteria in paragraphs (d)(7)(i) through (v) of this section if the plan or contract is determined to be a qualifying plan or a qualifying plan in a qualifying county for the year.
 
 (i) *Qualifying plan.* Beginning with 2012, a qualifying plan means a plan that had a quality rating of 4 stars or higher based on the most recent data available for such year. For a qualifying plan, the applicable percentage at paragraph (d)(5) of this section must be increased as follows:
 
@@ -160,4 +158,6 @@ Link to an amendment published at 83 FR 16733, April 16, 2018.
 
 (E) For 2016, one-sixth of the applicable amount for the area and year and five-sixths of the specified amount for the area and for year.
 
-(F) For 2017 and subsequent years, the blended benchmark equals the specified amount for the area and year.\>[70 FR 4725, Jan. 28, 2005, as amended at 76 FR 21564, Apr. 15, 2011]
+(F) For 2017 and subsequent years, the blended benchmark equals the specified amount for the area and year.
+
+[70 FR 4725, Jan. 28, 2005, as amended at 76 FR 21564, Apr. 15, 2011; 83 FR 16733, Apr. 16, 2018]

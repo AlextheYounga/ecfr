@@ -1,7 +1,5 @@
 ##### § 387.313T Forms and procedures. #####
 
-Link to an amendment published at 83 FR 16226, Apr. 16, 2018.
-
 (a) *Forms for endorsements, certificates of insurance and others* - (1) *In form prescribed.* Endorsements for policies of insurance and surety bonds, certificates of insurance, applications to qualify as a self-insurer, or for approval of other securities or agreements, and notices of cancellation must be in the form prescribed and approved by the FMCSA.
 
 (2) *Aggregation of insurance.* (i) When insurance is provided by more than one insurer in order to aggregate security limits for carriers operating only freight vehicles under 10,000 pounds Gross Vehicle Weight Rating, as defined in § 387.303T(b)(1), a separate *Form BMC 90,* with the specific amounts of underlying and limits of coverage shown thereon or appended thereto, and *Form BMC 91X* certificate is required of each insurer.
@@ -32,7 +30,7 @@ See Note for Rule 387.311. Also, it should be noted that DOT is considering pres
 
 (ii) In special or unusual circumstances, when special permission is obtained for filing certificates of insurance or surety bonds on terms meeting other particular needs of the situation.
 
-(b) *Filing and copies.* Certificates of insurance, surety bonds, and notices of cancellation must be filed with the FMCSA in triplicate.
+(b) *Filing and copies.* Certificates of insurance, surety bonds, and notices of cancellation must be filed with the FMCSA.
 
 (c) *Name of insured.* Certificates of insurance and surety bonds shall be issued in the full and correct name of the individual, partnership, corporation or other person to whom the certificate, permit, or license is, or is to be, issued. In the case of a partnership, all partners shall be named.
 
@@ -42,4 +40,4 @@ See Note for Rule 387.311. Also, it should be noted that DOT is considering pres
 
 (f) *Termination of Forms BMC-32 and BMC-34 for motor carriers transporting property other than household goods. Form BMC-32* endorsements and *Form BMC-34* certificates of insurance issued to motor carriers transporting property other than household goods that have been accepted by the FMCSA under these rules will expire on March 21, 2011.
 
-[82 FR 5308, Jan. 17, 2017]
+[82 FR 5308, Jan. 17, 2017, as amended at 83 FR 16226, Apr. 16, 2018]

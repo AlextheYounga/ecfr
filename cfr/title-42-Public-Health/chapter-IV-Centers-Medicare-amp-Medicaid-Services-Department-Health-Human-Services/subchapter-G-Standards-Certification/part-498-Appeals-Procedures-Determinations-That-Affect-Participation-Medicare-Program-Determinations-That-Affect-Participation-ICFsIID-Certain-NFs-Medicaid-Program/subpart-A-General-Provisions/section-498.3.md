@@ -1,7 +1,5 @@
 ##### § 498.3 Scope and applicability. #####
 
-Link to an amendment published at 83 FR 16757, Apr. 16, 2018.
-
 (a) *Scope.* (1) This part sets forth procedures for reviewing initial determinations that CMS makes with respect to the matters specified in paragraph (b) of this section, and that the OIG makes with respect to the matters specified in paragraph (c) of this section. It also specifies, in paragraph (d) of this section, administrative actions that are not subject to appeal under this part.
 
 (2) The determinations listed in this section affect participation in the Medicare program. Many of the procedures of this part also apply to other determinations that do not affect participation in Medicare. Some examples follow:
@@ -66,6 +64,8 @@ Link to an amendment published at 83 FR 16757, Apr. 16, 2018.
 
 (19) Whether a physician or practitioner has failed to properly opt-out, failed to maintain opt-out, failed to timely renew opt-out, failed to privately contract, or failed to properly terminate opt-out.
 
+(20) An individual or entity is to be included on the preclusion list as defined in § 422.2 or § 423.100 of this chapter.
+
 (c) *Initial determinations by the OIG.* The OIG makes initial determinations with respect to the following matters:
 
 (1) The termination of a provider agreement in accordance with part 1001, subpart C of this title.
@@ -120,4 +120,4 @@ Link to an amendment published at 83 FR 16757, Apr. 16, 2018.
 
 (e) *Exclusion of civil rights issues.* The procedures in this subpart do not apply to the adjudication of issues relating to a provider's compliance with civil rights requirements that are set forth in part 489 of this chapter. Those issues are handled through the Department's Office of Civil Rights.
 
-[52 FR 22446, June 12, 1987]Editorial Note:For Federal Register citations affecting § 498.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[52 FR 22446, June 12, 1987]Editorial Note:For Federal Register citations affecting § 498.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

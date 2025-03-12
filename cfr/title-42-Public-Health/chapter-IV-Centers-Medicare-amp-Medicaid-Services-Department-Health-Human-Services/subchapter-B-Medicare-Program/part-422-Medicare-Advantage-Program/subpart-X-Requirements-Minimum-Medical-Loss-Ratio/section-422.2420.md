@@ -1,7 +1,5 @@
 ##### § 422.2420 Calculation of the medical loss ratio. #####
 
-Link to an amendment published at 83 FR 16736, April 16, 2018.
-
 (a) *Determination of MLR.* (1) The MLR for each contract under this part is the ratio of the numerator (as defined in paragraph (b) of this section) to the denominator (as defined in paragraph (c) of this section). An MLR may be increased by a credibility adjustment according to the rules at § 422.2440, or subject to an adjustment determined by CMS to be warranted based on exceptional circumstances for areas outside the 50 states and the District of Columbia.
 
 (2) The MLR for an MA contract -
@@ -38,7 +36,7 @@ Link to an amendment published at 83 FR 16736, April 16, 2018.
 
 (viii) Claims payments recoveries received as a result of subrogation.
 
-(ix) Claims payments recoveries as a result of fraud reduction efforts, not to exceed the amount of fraud reduction expenses.
+(ix) [Reserved]
 
 (x) Reserves for contingent benefits and the medical claim portion of lawsuits.
 
@@ -156,7 +154,7 @@ Link to an amendment published at 83 FR 16736, April 16, 2018.
 
 (ii) Expenditures that benefit multiple contracts, or contracts other than those being reported, including but not limited to those that are for or benefit self-funded plans, must be reported on a pro rata share.
 
-(2) *Description of the methods used to allocate expenses.* (i) Allocation to each category must be based on a generally accepted accounting method that is expected to yield the most accurate results. Specific identification of an expense with an activity that is represented by one of the categories in § 422.2420(b) or (c) will generally be the most accurate method.
+(2) *Description of the methods used to allocate expenses.* (i) Allocation to each category must be based on a generally accepted accounting method that is expected to yield the most accurate results. Specific identification of an expense with an activity that is represented by one of the categories in paragraph (b) or (c) of this section will generally be the most accurate method.
 
 (ii) Shared expenses, including expenses under the terms of a management contract, must be apportioned pro rata to the contracts incurring the expense.
 
@@ -164,4 +162,4 @@ Link to an amendment published at 83 FR 16736, April 16, 2018.
 
 (B) Expenses that relate solely to the operations of a reporting entity, such as personnel costs associated with the adjusting and paying of claims, must be borne solely by the reporting entity and are not to be apportioned to other entities within a group.
 
-[78 FR 31307, May 23, 2013; 78 FR 43821, July 22, 2013]
+[78 FR 31307, May 23, 2013; 78 FR 43821, July 22, 2013; 83 FR 16736, Apr. 16, 2018]

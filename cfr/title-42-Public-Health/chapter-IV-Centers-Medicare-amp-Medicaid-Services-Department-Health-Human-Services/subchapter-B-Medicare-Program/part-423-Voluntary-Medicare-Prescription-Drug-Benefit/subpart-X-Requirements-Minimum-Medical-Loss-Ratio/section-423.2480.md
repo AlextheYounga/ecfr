@@ -1,8 +1,6 @@
 ##### § 423.2480 MLR review and non-compliance. #####
 
-Link to an amendment published at 83 FR 16756, April 16, 2018.
-
-To ensure the accuracy of MLR reporting, CMS conducts selected reviews of reports submitted under § 423.2460 to determine that the MLRs and remittance amounts under § 423.2410(b) and sanctions under § 423.2410(c) and (d), were accurately calculated, reported, and applied.
+To ensure the accuracy of MLR reporting, CMS conducts selected review of data submitted under § 423.2460 to determine that the MLRs and remittance amounts under § 423.2410(b) and sanctions under § 423.2410(c) and (d), were accurately calculated, reported, and applied.
 
 (a) The reviews will include a validation of amounts included in both the numerator and denominator of the MLR calculation reported to CMS.
 
@@ -12,10 +10,12 @@ To ensure the accuracy of MLR reporting, CMS conducts selected reviews of report
 
 (2) Part D sponsors must require any third party vendor supplying drug cost contracting and claim adjudication services to the Part D sponsors to provide all underlying data associated with MLR reporting to that Part D sponsor in a timely manner, when requested by the Part D sponsor, regardless of current contractual limitations, in order to validate the accuracy of MLR reporting.
 
-(d) Reports submitted under § 423.2460, calculations, or any other MLR submission required by this subpart found to be materially incorrect or fraudulent -
+(d) Data submitted under § 423.2460, calculations, or any other MLR submission required by this subpart found to be materially incorrect or fraudulent—
 
 (1) Are noted by CMS;
 
 (2) Appropriate remittance amounts are recouped by CMS; and
 
 (3) Sanctions may be imposed by CMS as provided in § 423.752.
+
+[78 FR 31310, May 23, 2013, as amended at 83 FR 16756, Apr. 16, 2018]

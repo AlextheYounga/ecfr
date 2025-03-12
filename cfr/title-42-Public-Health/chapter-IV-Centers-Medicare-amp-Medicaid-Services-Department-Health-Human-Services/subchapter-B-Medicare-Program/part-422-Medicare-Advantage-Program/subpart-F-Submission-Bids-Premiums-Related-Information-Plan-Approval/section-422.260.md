@@ -1,20 +1,18 @@
 ##### § 422.260 Appeals of quality bonus payment determinations. #####
 
-Link to an amendment published at 83 FR 16733, April 16, 2018.
-
-(a) *Scope.* The provisions of this section pertain to the administrative review process to appeal quality bonus payment status determinations based on section 1853(o) of the Act.
+(a) *Scope.* The provisions of this section pertain to the administrative review process to appeal quality bonus payment status determinations based on section 1853(o) of the Act. Such determinations are made based on the overall rating for MA-PDs and Part C summary rating for MA-only contracts for the contract assigned under subpart D of this part.
 
 (b) *Definitions.* The following definitions apply to this section:
 
-*Quality bonus payment* (QBP) means -
+*Quality bonus payment* (QBP) means—
 
 (i) Enhanced CMS payments to MA organizations based on the organization's demonstrated quality of its Medicare contract operations; or
 
 (ii) Increased beneficiary rebate retention allowances based on the organization's demonstrated quality of its Medicare contract operations.
 
-*Quality bonus payment (QBP) determination methodology* means the formula CMS adopts for evaluating whether MA organizations qualify for a QBP.
+*Quality bonus payment (QBP) determination methodology* means the quality ratings system specified in subpart D of this part 422 for assigning quality ratings to provide comparative information about MA plans and evaluating whether MA organizations qualify for a QBP. (Low enrollment contracts and new MA plans are defined in § 422.252.)
 
-*Quality bonus payment (QBP) status* means a MA organization's standing with respect to its qualification to -
+*Quality bonus payment (QBP) status* means a MA organization's standing with respect to its qualification to—
 
 (i) Receive a quality bonus payment, as determined by CMS; or
 
@@ -50,4 +48,4 @@ Link to an amendment published at 83 FR 16733, April 16, 2018.
 
 (d) *Reopening of QBP determinations.* CMS may, on its own initiative, revise an MA organization's QBP status at any time after the initial release of the QBP determinations through April 1 of each year. CMS may take this action on the basis of any credible information, including the information provided during the administrative review process that demonstrates that the initial QBP determination was incorrect.
 
-[76 FR 21566, Apr. 15, 2011]
+[76 FR 21566, Apr. 15, 2011, as amended at 83 FR 16733, Apr. 16, 2018]

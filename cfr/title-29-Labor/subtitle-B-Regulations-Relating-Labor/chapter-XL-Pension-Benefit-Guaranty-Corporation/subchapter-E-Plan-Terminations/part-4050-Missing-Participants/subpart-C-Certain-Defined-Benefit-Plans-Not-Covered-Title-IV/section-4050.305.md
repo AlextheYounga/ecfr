@@ -1,6 +1,6 @@
 ##### § 4050.305 Filing with PBGC. #####
 
-(a) *What to file.* The plan administrator of a subpart C plan must file with PBGC the information specified in the missing participants forms and instructions, and if the plan is a transferring plan, payment of -
+(a) *What to file.* The plan administrator of a subpart C plan must file with PBGC the information specified in the missing participants forms and instructions, and if the plan is a transferring plan, payment of—
 
 (1) The benefit transfer amount for the missing distributee;
 
@@ -10,9 +10,7 @@
 
 (b) *When to file.* The plan administrator must file the information and payments referred to in paragraph (a) of this section in accordance with the missing participants forms and instructions.
 
-(c) *Place, method and date of filing; time periods.*
-
-(1) For rules about where to file, see § 4000.4 of this chapter.
+(c) *Place, method and date of filing; time periods.* (1) For rules about where to file, see § 4000.4 of this chapter.
 
 (2) For rules about permissible methods of filing with PBGC under this subpart, see subpart A of part 4000 of this chapter.
 

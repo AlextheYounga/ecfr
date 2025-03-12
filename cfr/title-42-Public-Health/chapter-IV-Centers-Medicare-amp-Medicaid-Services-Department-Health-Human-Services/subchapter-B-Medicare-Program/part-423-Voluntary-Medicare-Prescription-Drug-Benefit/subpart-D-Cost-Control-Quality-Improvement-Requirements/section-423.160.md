@@ -1,7 +1,5 @@
 ##### § 423.160 Standards for electronic prescribing. #####
 
-Link to an amendment published at 83 FR 16743, April 16, 2018.
-
 (a) *General rules.* (1) Part D sponsors must establish and maintain an electronic prescription drug program that complies with the applicable standards in paragraph (b) of this section when transmitting, directly or through an intermediary, prescriptions and prescription-related information using electronic media for covered Part D drugs for Part D eligible individuals.
 
 (2) Except as provided in paragraph (a)(3) of this section, prescribers and dispensers that transmit, directly or through an intermediary, prescriptions and prescription-related information using electronic media must comply with the applicable standards in paragraph (b) of this section when e-prescribing for covered Part D drugs for Part D eligible individuals.
@@ -28,7 +26,9 @@ Link to an amendment published at 83 FR 16743, April 16, 2018.
 
 (iii) From February 8, 2014, until February 28, 2015, the standards specified in paragraphs (b)(2)(ii), (b)(3) and (4), (b)(5)(ii), and (b)(6).
 
-(iv) From March 1, 2015, the standards specified in paragraphs (b)(2)(ii), (b)(3) and (b)(4), (b)(5)(iii), and (b)(6).
+(iv) From March 1, 2015 until December 31, 2019, the standards specified in paragraphs (b)(2)(iii), (b)(3), (b)(4)(i), (b)(5)(iii), and (b)(6).
+
+(v) On or after January 1, 2020, the standards specified in paragraphs (b)(2)(iv) and (b)(3), (b)(4)(ii), (b)(5)(iii), and (b)(6) of this section.
 
 (2) *Prescription.* (i) The National Council for Prescription Drug Programs SCRIPT Standard, Implementation Guide, Version 5, Release 0, (Version 5.0) May 12, 2004 (incorporated by reference in paragraph (c)(1)(iv) of this section), or the National Council for Prescription Drug Programs Prescriber/Pharmacist Interface SCRIPT Standard, Implementation Guide, Version 8, Release 1, (Version 8.1) October 2005 (incorporated by reference in paragraph (c)(1)(i) of this section), to provide for the communication of a prescription or prescription-related information between prescribers and dispensers, for the following:
 
@@ -112,11 +112,69 @@ Link to an amendment published at 83 FR 16743, April 16, 2018.
 
 (M) Fill status notification.
 
+(iv) The National Council for Prescription Drug Programs SCRIPT standard, Implementation Guide Version 2017071 approved July 28, 2017 (incorporated by reference in paragraph (c)(1)(vii) of this section), to provide for the communication of a prescription or related prescription-related information between prescribers and dispensers for the following:
+
+(A) GetMessage.
+
+(B) Status.
+
+(C) Error.
+
+(D) NewRxRequest.
+
+(E) NewRx.
+
+(F) RxChangeRequest.
+
+(G) RxChangeResponse.
+
+(H) RxRenewal Request.
+
+(I) Resupply.
+
+(J) RxRenewalResponse.
+
+(K) Verify.
+
+(L) CancelRx.
+
+(M) CancelRxResponse.
+
+(N) RxFill.
+
+(O) DrugAdministration.
+
+(P) NewRxRequest.
+
+(Q) NewRxResponseDenied.
+
+(R) RxTransferRequest.
+
+(S) RxTransferResponse.
+
+(T) RxTransferConfirm.
+
+(U) RxFillIndicatorChange.
+
+(V) Recertification.
+
+(W) REMSIinitiationRequest.
+
+(X) REMSIinitiationResponse.
+
+(Y) REMSRequest.
+
+(Z) REMSResponse.
+
 (3) *Eligibility.* (i) The Accredited Standards Committee X12N 270/271-Health Care Eligibility Benefit Inquiry and Response, Version 5010, April 2008, ASC X12N/005010x279 (incorporated by reference in paragraph (c)(2)(i) of this section), for transmitting eligibility inquiries and responses between prescribers and Part D sponsors.
 
 (ii) The National Council for Prescription Drug Programs Telecommunication Standard Specification, Version D, Release 0 (Version D.0), August 2007, and equivalent NCPDP Batch Standard Batch Implementation Guide, Version 1, Release 2 (Version 1.2), January 2006 supporting Telecommunications Standard Implementation Guide, Version D, Release 0 (Version D.0), August 2007, for the NCPDP Data Record in the Detail Data Record (incorporated by reference in paragraph (c)(1)(iii) of this section), for transmitting eligibility inquiries and responses between dispensers and Part D sponsors.
 
-(4) *Medication history.* The National Council for Prescription Drug Programs Prescriber/Pharmacist Interface SCRIPT Standard, Implementation Guide Version 8, Release 1 (Version 8.1), October 2005 (incorporated by reference in paragraph (c)(1)(v) of this section) or the National Council for Prescription Drug Programs SCRIPT Standard, Implementation Guide Version 10.6, approved November 12, 2008 (incorporated by reference in paragraph (c)(1)(v) of this section) to provide for the communication of Medicare Part D medication history information among Medicare Part D sponsors, prescribers, and dispensers.
+(4) *Medication history.* Medication history to provide for the communication of Medicare Part D medication history information among Medicare Part D sponsors, prescribers and dispensers:
+
+(i) Until January 1, 2020, Either the National Council for Prescription Drug Programs Prescriber/Pharmacist Interface SCRIPT Standard, Implementation Guide Version 8, Release 1 (Version 8.1), October 2005 (incorporated by reference in paragraph (c)(1)(i) of this section, or the National Council for Prescription Drug Programs SCRIPT Standard, Implementation Guide Version 10.6, approved November 12, 2008 (incorporated by reference in paragraph (c)(1)(v) of this section.
+
+(ii) On or after January 1, 2020, the National Council for Prescription Drug Programs SCRIPT Standard, Implementation Guide Version 2017071, approved July 28, 2017 (incorporated by reference in paragraph (c)(1)(vii) of this section).
 
 (5) *Formulary and benefits.* The National Council for Prescription Drug Programs Formulary and Benefits Standard, Implementation Guide, Version 1, Release 0 (Version 1.0), October 2005 (incorporated by reference in paragraph (c)(1)(ii) of this section) for transmitting formulary and benefits information between prescribers and Medicare Part D sponsors.
 
@@ -144,10 +202,12 @@ Link to an amendment published at 83 FR 16743, April 16, 2018.
 
 (vi) The National Council for Prescription Drug Programs Formulary and Benefits Standard, Implementation Guide, Version 3, Release 0 (Version 3.0), published April 2012.
 
+(vii) National Council for Prescription Drug Programs SCRIPT Standard, Implementation Guide Version 2017071, approved July 28, 2017.
+
 (2) Accredited Standards Committee, 7600 Leesburg Pike, Suite 430, Falls Church, VA 22043; Telephone (301) 970-4488; and Facsimile: (703) 970-4488 or *http://www.x12.org.*
 
 (i) Accredited Standards Committee (ASC X12 Standards for Electronic Data Interchange Technical Report Type 3 - Health Care Eligibility Benefit Inquiry and Response (270/271), April 2008, ASC X12N/005010X279.
 
 (ii) [Reserved]
 
-(Authority: Section 1860D-4(e) of the Social Security Act (42 U.S.C. 1395w-104(e)))[70 FR 67593, Nov. 7, 2005, as amended at 71 FR 36023, June 23, 2006; 72 FR 66405, Nov. 27, 2007; 73 FR 18941, Apr. 7, 2008; 73 FR 69938, Nov. 19, 2008; 75 FR 38030, July 1, 2010; 77 FR 29030, May 16, 2012; 77 FR 69371, Nov. 16, 2012; 78 FR 74822, Dec. 10, 2013]
+(Authority: Section 1860D-4(e) of the Social Security Act (42 U.S.C. 1395w-104(e)))[70 FR 67593, Nov. 7, 2005, as amended at 71 FR 36023, June 23, 2006; 72 FR 66405, Nov. 27, 2007; 73 FR 18941, Apr. 7, 2008; 73 FR 69938, Nov. 19, 2008; 75 FR 38030, July 1, 2010; 77 FR 29030, May 16, 2012; 77 FR 69371, Nov. 16, 2012; 78 FR 74822, Dec. 10, 2013; 83 FR 16743, Apr. 16, 2018; 83 FR 27915, June 15, 2018]

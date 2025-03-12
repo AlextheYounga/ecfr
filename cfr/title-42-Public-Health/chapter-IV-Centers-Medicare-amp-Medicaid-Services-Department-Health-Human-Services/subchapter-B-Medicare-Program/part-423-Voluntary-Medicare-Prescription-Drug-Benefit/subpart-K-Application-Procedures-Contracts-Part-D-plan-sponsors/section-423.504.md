@@ -1,7 +1,5 @@
 ##### § 423.504 General provisions. #####
 
-Link to an amendment published at 83 FR 16750, April 16, 2018.
-
 (a) *General rule.* Subject to the provisions at § 423.265 of this part concerning submission of bids, to enroll beneficiaries in any Part D drug plan it offers and be paid on behalf of Part D eligible individuals enrolled in those plans, a Part D plan sponsor must enter into a contract with CMS. The contract may cover more than one Part D plan.
 
 (b) *Conditions necessary to contract as a Part D plan sponsor.* Any entity seeking to contract as a Part D plan sponsor must -
@@ -15,8 +13,6 @@ Link to an amendment published at 83 FR 16750, April 16, 2018.
 (4) Have administrative and management arrangements satisfactory to CMS, as demonstrated by at least the following:
 
 (i) A policy making body that exercises oversight and control over the Part D plan sponsor's policies and personnel to ensure that management actions are in the best interest of the organization and its enrollees.
-
-(ii) Personnel and systems sufficient for the Part D plan sponsor to organize, implement, control, and evaluate financial and marketing activities, the furnishing of prescription drug services, the quality assurance, medical therapy management, and drug and or utilization management programs, and the administrative and management aspects of the organization.
 
 (iii) At a minimum, an executive manager whose appointment and removal are under the control of the policy making body.
 
@@ -49,14 +45,6 @@ Link to an amendment published at 83 FR 16750, April 16, 2018.
 (*2*) The compliance officer and the compliance committee must periodically report directly to the governing body of the Part D plan sponsor on the activities and status of the compliance program, including issues identified, investigated, and resolved by the compliance program.
 
 (*3*) The governing body of the Part D plan sponsor must be knowledgeable about the content and operation of the compliance program and must exercise reasonable oversight with respect to the implementation and effectiveness of the compliance programs.
-
-(C)(*1*) Each Part D plan sponsor must establish, implement and provide effective training and education for its employees including, the chief executive and senior administrators or managers; governing body members; and first tier, downstream, and related entities.
-
-(*2*) The training and education must occur at a least annually and be a part of the orientation for new employees including, the chief executive and senior administrators or managers; governing body members; and first tier, downstream, and related entities.
-
-(*3*) First tier, downstream, and related entities who have met the fraud, waste, and abuse certification requirements through enrollment into the Medicare program or accreditation as a Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) are deemed to have met the training and educational requirements for fraud, waste, and abuse.
-
-(*4*) A Part D plan sponsor must require all of its first tier, downstream and related entities to take the CMS training and accept the certificate of completion of the CMS training as satisfaction of this requirement. Part D plan sponsors are prohibited from developing and implementing their own training or providing supplemental training materials to fulfill this requirement.
 
 (D) Establishment and implementation of effective lines of communication, ensuring confidentiality, between the compliance officer, members of the compliance committee, the Part D plan sponsor's employees, managers and governing body, and the Part D plan sponsor's first tier, downstream, and related entities. Such lines of communication must be accessible to all and allow compliance issues to be reported including a method for anonymous and confidential good faith reporting of potential compliance issues as they are identified.
 
@@ -138,4 +126,4 @@ Link to an amendment published at 83 FR 16750, April 16, 2018.
 
 (2) A separate contract for any excluded plan or entity must be deemed to be in place when a request is made.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 72 FR 68732, Dec. 5, 2007; 73 FR 20507, Apr. 15, 2008; 75 FR 19820, Apr. 15, 2010; 79 FR 29964, May 23, 2014; 80 FR 7964, Feb. 12, 2015]
+[70 FR 4525, Jan. 28, 2005, as amended at 72 FR 68732, Dec. 5, 2007; 73 FR 20507, Apr. 15, 2008; 75 FR 19820, Apr. 15, 2010; 79 FR 29964, May 23, 2014; 80 FR 7964, Feb. 12, 2015; 83 FR 16750, Apr. 16, 2018]

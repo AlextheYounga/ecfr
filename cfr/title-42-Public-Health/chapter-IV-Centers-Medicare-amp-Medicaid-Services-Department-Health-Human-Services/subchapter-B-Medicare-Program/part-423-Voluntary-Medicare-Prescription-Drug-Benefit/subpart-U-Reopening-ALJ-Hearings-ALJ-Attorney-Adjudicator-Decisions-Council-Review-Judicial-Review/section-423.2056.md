@@ -1,8 +1,6 @@
 ##### § 423.2056 Remands of requests for hearing and requests for review. #####
 
-Link to an amendment published at 83 FR 16754, April 16, 2018.
-
-(a) *Missing appeal determination or case record.* (1) If an ALJ or attorney adjudicator requests an official copy of a missing redetermination or reconsideration for an appealed coverage determination in accordance with § 423.2034, and the IRE, CMS, or Part D plan sponsor does not furnish the copy within the time frame specified in § 423.2034, an ALJ or attorney adjudicator may issue a remand directing the IRE or Part D plan sponsor to reconstruct the record or, if it is not able to do so, initiate a new appeal adjudication.
+(a) *Missing appeal determination or case record.* (1) If an ALJ or attorney adjudicator requests an official copy of a missing redetermination or reconsideration for an appealed coverage determination or at-risk determination in accordance with § 423.2034, and the IRE, CMS, or Part D plan sponsor does not furnish the copy within the time frame specified in § 423.2034, an ALJ or attorney adjudicator may issue a remand directing the IRE or Part D plan sponsor to reconstruct the record or, if it is not able to do so, initiate a new appeal adjudication.
 
 (2) If the IRE does not furnish the case file for an appealed reconsideration, an ALJ or attorney adjudicator may issue a remand directing the IRE to reconstruct the record or, if it is not able to do so, initiate a new appeal adjudication.
 
@@ -16,10 +14,10 @@ Link to an amendment published at 83 FR 16754, April 16, 2018.
 
 (d) *Remanding an IRE's dismissal of a request for reconsideration.* Consistent with § 423.2004(b), an ALJ or attorney adjudicator will remand a case to the appropriate IRE if the ALJ or attorney adjudicator determines that an IRE's dismissal of a request for reconsideration was in error.
 
-(e) *Consideration of change in condition.* The ALJ or attorney adjudicator will remand a case to the appropriate IRE if the ALJ or attorney adjudicator determines that the enrollee wants evidence on his or her change in condition after the coverage determination to be considered in the appeal.
+(e) *Consideration of change in condition.* The ALJ or attorney adjudicator will remand a case to the appropriate IRE if the ALJ or attorney adjudicator determines that the enrollee wants evidence on his or her change in condition after the coverage determination or at-risk determination to be considered in the appeal.
 
 (f) *Notice of a remand.* OMHA mails or otherwise transmits a written notice of the remand of the request for hearing or request for review to the enrollee at his or her last known address, and CMS, the IRE, and/or the Part D plan sponsor if a request to be a participant was granted by the ALJ or attorney adjudicator. The notice states that there is a right to request that the Chief ALJ or a designee review the remand.
 
 (g) *Review of remand.* Upon a request by the enrollee or CMS, the IRE, or the Part D plan sponsor filed within 30 calendar days of receiving a notice of remand, the Chief ALJ or designee will review the remand, and if the remand is not authorized by this section, vacate the remand order. The determination on a request to review a remand order is binding and not subject to further review. The review of remand procedures provided for in this paragraph are not available for and do not apply to remands that are issued under paragraph (d) of this section.
 
-[82 FR 5136, Jan. 17, 2017]
+[82 FR 5136, Jan. 17, 2017, as amended at 83 FR 16754, Apr. 16, 2018]

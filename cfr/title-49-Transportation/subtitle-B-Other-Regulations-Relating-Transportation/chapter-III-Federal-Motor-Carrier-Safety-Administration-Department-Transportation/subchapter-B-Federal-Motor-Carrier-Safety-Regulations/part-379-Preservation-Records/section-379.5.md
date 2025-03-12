@@ -1,7 +1,7 @@
 ##### § 379.5 Protection and storage of records. #####
 
-Link to an amendment published at 83 FR 16225, Apr. 16, 2018.
+(a) The entity shall protect records subject to this part from destruction, deterioration, unauthorized access, modification and/or data corruption.
 
-(a) The company shall protect records subject to this part from fires, floods, and other hazards, and safeguard the records from unnecessary exposure to deterioration from excessive humidity, dryness, or lack of ventilation.
+(b) The entity shall notify the Secretary if prescribed records are substantially destroyed, damaged, accessed and modified without authorization, or otherwise corrupted.
 
-(b) The company shall notify the Secretary if prescribed records are substantially destroyed or damaged before the term of the prescribed retention periods.
+[83 FR 16225, Apr. 16, 2018]

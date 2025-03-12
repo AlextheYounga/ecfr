@@ -1,7 +1,5 @@
 ##### § 422.62 Election of coverage under an MA plan. #####
 
-Link to an amendment published at 83 FR 16722, April 16, 2018.
-
 (a) *General: Coverage election periods* - (1) *Initial coverage election period for MA.* The initial coverage election period is the period during which a newly MA-eligible individual may make an initial election. This period begins 3 months before the month the individual is first entitled to both Part A and Part B and ends on the later of -
 
 (i) The last day of the month preceding the month of entitlement; or
@@ -16,27 +14,15 @@ Link to an amendment published at 83 FR 16722, April 16, 2018.
 
 (iv) During the annual coordinated election period, an individual eligible to enroll in an MA plan may change his or her election from an MA plan to Original Medicare or to a different MA plan, or from Original Medicare to an MA plan. If an individual changes his or her election to Original Medicare, he or she may also elect a PDP.
 
-(3) *Open enrollment and disenrollment opportunities through 2005.* Through 2005, the number of elections or changes that an MA eligible individual may make is not limited (except as provided for in paragraph (d) of this section for MA MSA plans). Subject to the MA plan being open to enrollees as provided under § 422.60(a)(2), an individual eligible to elect an MA plan may change his or her election from an MA plan to original Medicare or to a different MA plan, or from original Medicare to an MA plan.
+(3) *Open enrollment period for individuals enrolled in MA* - (i) *For 2019 and subsequent years.* Except as provided in paragraphs (a)(3)(ii) and (iii) and (a)(4) of this section, an individual who is enrolled in an MA plan may make an election once during the first 3 months of the year to enroll in another MA plan or disenroll to obtain Original Medicare. An individual who chooses to exercise this election may also make a coordinating election to enroll in or disenroll from Part D, as specified in § 423.38(e) of this chapter.
 
-(4) *Open enrollment and disenrollment during 2006.* (i) Except as provided in paragraphs (a)(4)(ii), (a)(4)(iii), and (a)(6) of this section, an individual who is not enrolled in an MA plan, but who is eligible to elect an MA plan in 2006, may elect an MA plan only once during the first 6 months of the year.
+(ii) *Newly eligible MA individual.* For 2019 and subsequent years, a newly MA eligible individual who is enrolled in a MA plan may change his or her election once during the period that begins the month the individual is entitled to both Part A and Part B and ends on the last day of the third month of the entitlement. An individual who chooses to exercise this election may also make a coordinating election to enroll in or disenroll from Part D, as specified in § 423.38(e) of this chapter.
 
-(A) An individual who is enrolled in an MA-PD plan may elect another MA-PD plan or original Medicare and coverage under a PDP. Such an individual may not elect an MA plan that does not provide qualified prescription drug coverage.
+(iii) *Single election limitation.* The limitation to one election or change in paragraphs (a)(3)(i) and (ii) of this section does not apply to elections or changes made during the annual coordinated election period specified in paragraph (a)(2) of this section, or during a special election period specified in paragraph (b) of this section.
 
-(B) An individual who is enrolled in an MA plan that does not provide qualified prescription drug coverage may elect another MA plan that does not provide that coverage or original Medicare. Such an individual may not elect an MA-PD plan or coverage under a PDP.
+(4) *Open enrollment period for institutionalized individuals.* After 2005, an individual who is eligible to elect an MA plan and who is institutionalized, as defined in § 422.2, is not limited (except as provided for in paragraph (d) of this section for MA MSA plans) in the number of elections or changes he or she may make. Subject to the MA plan being open to enrollees as provided under § 422.60(a)(2), an MA eligible institutionalized individual may at any time elect an MA plan or change his or her election from an MA plan to Original Medicare, to a different MA plan, or from Original Medicare to an MA plan.
 
-(ii) *Newly eligible MA individual.* An individual who becomes MA eligible during 2006 may elect an MA plan or change his or her election once during the period that begins the month the individual is entitled to both Part A and Part B and ends on the last day of the 6th month of the entitlement, or on December 31, whichever is earlier, subject to the limitations in paragraphs (a)(4)(i)(A) and (a)(4)(i)(B) of this section.
-
-(iii) The limitation to one election or change in paragraphs (a)(4)(i) and (a)(4)(ii) of this section does not apply to elections or changes made during the annual coordinated election period specified in paragraph (a)(2) of this section or during a special election period specified in paragraph (b) of this section.
-
-(5) *Open enrollment and disenrollment from 2007 through 2010.* (i) Open enrollment period. For 2007 through 2010, except as provided in paragraphs (a)(5)(ii), (iii), and (a)(6) of this section, an individual who is not enrolled in an MA plan but is eligible to elect an MA plan may make an election into an MA plan once during the first 3 months of the year.
-
-(ii) *Newly eligible MA individual.* An individual who becomes MA eligible in 2007 through 2010 may elect an MA plan or change his or her election once during the period that begins the month the individual is entitled to both Part A and Part B and ends on the last day of the third month of the entitlement, or on December 31, whichever is earlier, subject to the limitations in paragraphs (a)(5)(i)(A) and (a)(5)(i)(B) of this section.
-
-(iii) *Single election limitation.* The limitation to one election or change in paragraphs (a)(5)(i) and (a)(5)(ii) of this section does not apply to elections or changes made during the annual coordinated election period specified in paragraph (a)(2) of this section, or during a special election period specified in paragraph (b) of this section.
-
-(6) *Open enrollment period for institutionalized individuals.* After 2005, an individual who is eligible to elect an MA plan and who is institutionalized, as defined by CMS, is not limited (except as provided for in paragraph (d) of this section for MA MSA plans) in the number of elections or changes he or she may make. Subject to the MA plan being open to enrollees as provided under § 422.60(a)(2), an MA eligible institutionalized individual may at any time elect an MA plan or change his or her election from an MA plan to original Medicare, to a different MA plan, or from original Medicare to an MA plan.
-
-(7) *Annual 45-day period for disenrollment from MA plans to Original Medicare.* For 2011 and subsequent years, at any time from January 1 through February 14, an individual who is enrolled in an MA plan may elect Original Medicare once during this 45-day period. An individual who chooses to exercise this election may also make a coordinating election to enroll in a PDP as specified in § 423.38(d).
+(5) *Annual 45-day period for disenrollment from MA plans to Original Medicare.* Through 2018, at any time from January 1 through February 14, an individual who is enrolled in an MA plan may elect Original Medicare once during this 45-day period. An individual who chooses to exercise this election may also make a coordinating election to enroll in a PDP as specified in § 423.38(d) of this chapter.
 
 (b) *Special election periods.* An individual may at any time (that is, not limited to the annual coordinated election period) discontinue the election of an MA plan offered by an MA organization and change his or her election, in the form and manner specified by CMS, from an MA plan to original Medicare or to a different MA plan under any of the following circumstances:
 
@@ -52,7 +38,7 @@ Link to an amendment published at 83 FR 16722, April 16, 2018.
 
 (B) Failure to provide medical services in accordance with applicable quality standards; or
 
-(ii) The organization (or its agent, representative, or plan provider) materially misrepresented the plan's provisions in marketing the plan to the individual.
+(ii) The organization (or its agent, representative, or plan provider) materially misrepresented the plan's provisions in communications as outlined in subpart V of this part.
 
 (4) The individual meets such other exceptional conditions as CMS may provide.
 
@@ -68,4 +54,4 @@ Link to an amendment published at 83 FR 16722, April 16, 2018.
 
 (ii) *Exception.* An individual who elects an MA MSA plan during an annual election period and has never before elected an MA MSA plan may revoke that election, no later than December 15 of that same year, by submitting to the organization that offers the MA MSA plan a signed and dated request in the form and manner prescribed by CMS or by filing the appropriate disenrollment form through other mechanisms as determined by CMS.
 
-[63 FR 35071, June 26, 1998; 63 FR 52612, Oct. 1, 1998, as amended at 65 FR 40317, June 29, 2000; 70 FR 4717, Jan. 28, 2005; 76 FR 21561, Apr. 15, 2011]
+[63 FR 35071, June 26, 1998; 63 FR 52612, Oct. 1, 1998, as amended at 65 FR 40317, June 29, 2000; 70 FR 4717, Jan. 28, 2005; 76 FR 21561, Apr. 15, 2011; 83 FR 16722, Apr. 16, 2018]

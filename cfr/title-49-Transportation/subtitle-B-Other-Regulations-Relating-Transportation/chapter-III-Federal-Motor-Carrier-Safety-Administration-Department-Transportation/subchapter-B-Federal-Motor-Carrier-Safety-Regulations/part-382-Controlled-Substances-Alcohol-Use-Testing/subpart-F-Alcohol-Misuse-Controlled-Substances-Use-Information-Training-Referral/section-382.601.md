@@ -1,7 +1,5 @@
 ##### § 382.601 Employer obligation to promulgate a policy on the misuse of alcohol and use of controlled substances. #####
 
-Link to an amendment published at 83 FR 16226, Apr. 16, 2018.
-
 (a) *General requirements.* Each employer shall provide educational materials that explain the requirements of this part and the employer's policies and procedures with respect to meeting these requirements.
 
 (1) The employer shall ensure that a copy of these materials is distributed to each driver prior to the start of alcohol and controlled substances testing under this part and to each driver subsequently hired or transferred into a position requiring driving a commercial motor vehicle.
@@ -58,6 +56,6 @@ Link to an amendment published at 83 FR 16226, Apr. 16, 2018.
 
 (c) *Optional provision.* The materials supplied to drivers may also include information on additional employer policies with respect to the use of alcohol or controlled substances, including any consequences for a driver found to have a specified alcohol or controlled substances level, that are based on the employer's authority independent of this part. Any such additional policies or consequences must be clearly and obviously described as being based on independent authority.
 
-(d) *Certificate of receipt.* Each employer shall ensure that each driver is required to sign a statement certifying that he or she has received a copy of these materials described in this section. Each employer shall maintain the original of the signed certificate and may provide a copy of the certificate to the driver.
+(d) *Certificate of receipt.* Each employer shall ensure that each driver is required to sign a statement certifying that he or she has received a copy of these materials described in this section. Each employer shall maintain the signed certificate and may provide a copy of the certificate to the driver.
 
-[66 FR 43103, Aug. 17, 2001, as amended at 78 FR 58479, Sept. 24, 2013; 81 FR 87725, Dec. 5, 2016]
+[66 FR 43103, Aug. 17, 2001, as amended at 78 FR 58479, Sept. 24, 2013; 81 FR 87725, Dec. 5, 2016; 83 FR 16226, Apr. 16, 2018]

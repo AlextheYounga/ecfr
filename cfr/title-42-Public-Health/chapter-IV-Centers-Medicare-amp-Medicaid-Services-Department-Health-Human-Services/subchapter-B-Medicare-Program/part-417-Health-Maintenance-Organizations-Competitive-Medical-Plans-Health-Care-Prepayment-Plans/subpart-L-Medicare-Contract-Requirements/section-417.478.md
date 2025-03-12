@@ -1,8 +1,6 @@
 ##### § 417.478 Requirements of other laws and regulations. #####
 
-Link to an amendment published at 83 FR 16721, April 16, 2018.
-
-The contract must provide that the HMO or CMP agrees to comply with -
+The contract must provide that the HMO or CMP agrees to comply with—
 
 (a) The requirements for QIO review of services furnished to Medicare enrollees as set forth in subchapter D of this chapter;
 
@@ -12,6 +10,8 @@ The contract must provide that the HMO or CMP agrees to comply with -
 
 (d) The reporting requirements in § 417.126(a), which pertain to the monitoring of an HMO's or CMP's continued compliance.
 
-(e) Sections 422.222 and 422.224 of this chapter which requires all providers or suppliers that are types of individuals or entities that can enroll in Medicare in accordance with section 1861 of the Act, to be enrolled in Medicare in an approved status and prohibits payment to providers and suppliers that are excluded or revoked. This includes locum tenens suppliers and, if applicable, incident-to suppliers.
+(e)(1) The prohibitions, procedures and requirements relating to payment to individuals and entities on the preclusion list, defined in § 422.2 of this chapter, apply to HMOs and CMPs that contract with CMS under section 1876 of the Act.
 
-[50 FR 1346, Jan. 10, 1985; 50 FR 20570, May 17, 1985, as amended at 56 FR 8853, Mar. 1, 1991; 58 FR 38079, 38082, July 15, 1993; 80 FR 80556, Nov. 15, 2016]
+(2) In applying the provisions of §§ 422.2, 422.222, and 422.224 of this chapter under paragraph (e)(1) of this section, references to part 422 of this chapter must be read as references to this part, and references to MA organizations as references to HMOs and CMPs.
+
+[50 FR 1346, Jan. 10, 1985; 50 FR 20570, May 17, 1985, as amended at 56 FR 8853, Mar. 1, 1991; 58 FR 38079, 38082, July 15, 1993; 80 FR 80556, Nov. 15, 2016; 83 FR 16721, Apr. 16, 2018]

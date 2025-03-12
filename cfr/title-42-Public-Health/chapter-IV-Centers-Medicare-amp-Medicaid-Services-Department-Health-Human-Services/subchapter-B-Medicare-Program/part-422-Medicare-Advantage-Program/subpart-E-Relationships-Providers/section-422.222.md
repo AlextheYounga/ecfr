@@ -1,23 +1,9 @@
-##### § 422.222 Enrollment of MA organization network providers and suppliers; first-tier, downstream, and related entities (FDRs); cost HMO or CMP, and demonstration and pilot programs. #####
+##### § 422.222 Preclusion list. #####
 
-Link to an amendment published at 83 FR 16733, April 16, 2018.
+(a)(1) An MA organization must not make payment for a health care item or service furnished by an individual or entity that is included on the preclusion list, defined in § 422.2.
 
-(a) Providers or suppliers that are types of individuals or entities that can enroll in Medicare in accordance with section 1861 of the Act, must be enrolled in Medicare and be in an approved status in Medicare in order to provide health care items or services to a Medicare enrollee who receives his or her Medicare benefit through an MA organization. This requirement applies to all of the following providers and suppliers:
+(2) CMS sends written notice to the individual or entity via letter of their inclusion on the preclusion list. The notice must contain the reason for the inclusion and inform the individual or entity of their appeal rights. An individual or entity may appeal their inclusion on the preclusion list, defined in § 422.2, in accordance with 42 CFR part 498.
 
-(1) Network providers and suppliers.
+(b) An MA organization that does not comply with paragraph (a) of this section may be subject to sanctions under § 422.750 and termination under § 422.510.
 
-(2) First-tier, downstream, and related entities (FDR).
-
-(3) Providers and suppliers in Cost HMOs or CMPs, as defined in 42 CFR part 417.
-
-(4) Providers and suppliers participating in demonstration programs.
-
-(5) Providers and suppliers in pilot programs.
-
-(6) Locum tenens suppliers.
-
-(7) Incident-to suppliers.
-
-(b) MA organizations that do not ensure that providers and suppliers comply with paragraph (a) of this section, may be subject to sanctions under § 422.750 and termination under § 422.510.
-
-[81 FR 80556, Nov. 15, 2016]
+[83 FR 16733, Apr. 16, 2018]

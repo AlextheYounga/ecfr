@@ -1,10 +1,8 @@
 ##### § 423.564 Grievance procedures. #####
 
-Link to an amendment published at 83 FR 16751, April 16, 2018.
-
 (a) *General rule.* Each Part D plan sponsor must provide meaningful procedures for timely hearing and resolving grievances between enrollees and the Part D plan sponsor or any other entity or individual through whom the Part D plan sponsor provides covered benefits under any Part D plan it offers.
 
-(b) *Distinguished from appeals.* Grievance procedures are separate and distinct from appeal procedures, which address coverage determinations as defined in § 423.566(b). Upon receiving a complaint, a Part D plan sponsor must promptly determine and inform the enrollee whether the complaint is subject to its grievance procedures or its appeal procedures.
+(b) *Distinguished from appeals.* Grievance procedures are separate and distinct from appeal procedures, which address coverage determinations as defined in § 423.566(b) and at-risk determinations made under a drug management program in accordance with § 423.153(f). Upon receiving a complaint, a Part D plan sponsor must promptly determine and inform the enrollee whether the complaint is subject to its grievance procedures or its appeal procedures.
 
 (c) *Distinguished from the quality improvement organization complaint process.* Under section 1154(a)(14) of the Act, the quality improvement organization (QIO) must review enrollees' written complaints about the quality of services they have received under the Medicare program. This process is separate and distinct from the grievance procedures of the Part D plan sponsor. For quality of care issues, an enrollee may file a grievance with the Part D plan sponsor, file a written complaint with the QIO, or both. For any complaint submitted to a QIO, the Part D plan sponsor must cooperate with the QIO in resolving the complaint.
 
@@ -28,4 +26,4 @@ Link to an amendment published at 83 FR 16751, April 16, 2018.
 
 (g) *Record keeping.* The Part D plan sponsor must have an established process to track and maintain records on all grievances received both orally and in writing, including, at a minimum, the date of receipt, final disposition of the grievance, and the date that the enrollee was notified of the disposition.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 65363, Dec. 9, 2009]
+[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 65363, Dec. 9, 2009; 83 FR 16751, Apr. 16, 2018]

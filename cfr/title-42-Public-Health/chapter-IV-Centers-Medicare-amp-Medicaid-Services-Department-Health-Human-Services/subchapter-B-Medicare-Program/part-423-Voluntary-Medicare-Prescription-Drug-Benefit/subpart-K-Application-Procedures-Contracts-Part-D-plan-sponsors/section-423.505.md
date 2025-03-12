@@ -1,7 +1,5 @@
 ##### § 423.505 Contract provisions. #####
 
-Link to an amendment published at 83 FR 16750, April 16, 2018.
-
 (a) *General rule.* The contract between the Part D plan sponsor and CMS must contain the provisions specified in paragraph (b) of this section.
 
 (b) *Requirements for contracts.* The Part D plan sponsor agrees to -
@@ -40,8 +38,6 @@ Link to an amendment published at 83 FR 16750, April 16, 2018.
 
 (17) Provide benefits by means of point of service systems to adjudicate in a drug claims in a timely and efficient manner in compliance with CMS standards, except when necessary to provide access in underserved areas, I/T/U pharmacies (as defined in § 423.100), and long-term care pharmacies (as defined in § 423.100).
 
-(18) To agree to have a standard contract with reasonable and relevant terms and conditions of participation whereby any willing pharmacy may access the standard contract and participate as a network pharmacy.
-
 (19) Effective contract year 2010, include the prompt payment provisions described in § 423.520.
 
 (20) Effective contract year 2010, provide that pharmacies located in, or having a contract with, a long-term care facility (as defined in § 423.100) must have not less than 30 days, nor more than 90 days, to submit to the Part D sponsor claims for reimbursement under the plan.
@@ -62,9 +58,7 @@ Link to an amendment published at 83 FR 16750, April 16, 2018.
 
 (24) Provide applicable beneficiaries with applicable discounts on applicable drugs in accordance with the requirements in subpart W of part 423.
 
-(25) Maintain administrative and management capabilities sufficient for the organization to organize, implement, and control the financial, marketing, benefit administration, and quality assurance activities related to the delivery of Part D services.
-
-(26) Maintain a Part D summary plan rating score of at least 3 stars. A Part D summary plan rating is calculated by taking an average of a contract's Part D performance measure scores.
+(25) Maintain administrative and management capabilities sufficient for the organization to organize, implement, and control the financial, , benefit administration, and quality assurance activities related to the delivery of Part D services.
 
 (27) Pass an essential operations test prior to the start of the benefit year. This provision only applies to new sponsors that have not previously entered into a Part D contract with CMS and neither it, nor another subsidiary of the applicant's parent organization, is offering Part D benefits during the current year.
 
@@ -372,4 +366,4 @@ Link to an amendment published at 83 FR 16750, April 16, 2018.
 
 (v) Operation of call center customer services.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20507, Apr. 15, 2008; 73 FR 30683, May 28, 2008; 73 FR 54251, Sept. 18, 2008; 73 FR 70599, Nov. 21, 2008; 74 FR 1545, Jan. 12, 2009; 75 FR 19821, Apr. 15, 2010; 76 FR 21574, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22170, Apr. 12, 2012; 79 FR 29964, May 23, 2014; 80 FR 7964, Feb. 12, 2015; 81 FR 80557, Nov. 15, 2016]
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20507, Apr. 15, 2008; 73 FR 30683, May 28, 2008; 73 FR 54251, Sept. 18, 2008; 73 FR 70599, Nov. 21, 2008; 74 FR 1545, Jan. 12, 2009; 75 FR 19821, Apr. 15, 2010; 76 FR 21574, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22170, Apr. 12, 2012; 79 FR 29964, May 23, 2014; 80 FR 7964, Feb. 12, 2015; 81 FR 80557, Nov. 15, 2016; 83 FR 16750, Apr. 16, 2018]

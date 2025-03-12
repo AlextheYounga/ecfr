@@ -1,12 +1,10 @@
 ##### § 423.100 Definitions. #####
 
-Link to an amendment published at 83 FR 16737, April 16, 2018.
-
 As used in this part, unless otherwise specified-
 
 *Actual cost* means the negotiated price for a covered Part D drug when the drug is purchased at a network pharmacy, and the usual and customary price when a beneficiary purchases the drug at an out-of-network pharmacy consistent with § 423.124(a).
 
-*Affected enrollee* means a Part D enrollee who is currently taking a covered Part D drug that is either being removed from a Part D plan's formulary, or whose preferred or tiered cost-sharing status is changing.
+*Affected enrollee* means a Part D enrollee who is currently taking a covered Part D drug that is either being removed from a Part D plan's formulary, or whose preferred or tiered cost-sharing status is changing and such drug removal or cost-sharing change affects the Part D enrollee's access to the drug during the current plan year.
 
 *Alternative prescription drug coverage* means coverage of Part D drugs, other than standard prescription drug coverage that meets the requirements of § 423.104(e). The term alternative prescription drug coverage must be either -
 
@@ -48,9 +46,27 @@ As used in this part, unless otherwise specified-
 
 (iii) Is provided to a particular applicable beneficiary through an exception or appeal for that particular applicable beneficiary.
 
+*At-risk beneficiary* means a Part D eligible individual -
+
+(1) Who is -
+
+(i) Identified using clinical guidelines (as defined in this section);
+
+(ii) Not an exempted beneficiary; and
+
+(iii) Determined to be at-risk for misuse or abuse of such frequently abused drugs by a Part D plan sponsor under its drug management program in accordance with the requirements of § 423.153(f); or
+
+(2) With respect to whom a Part D plan sponsor receives a notice upon the beneficiary's enrollment in such sponsor's plan that the beneficiary was identified as an at-risk beneficiary (as defined in the paragraph (1) of this definition) under the prescription drug plan in which the beneficiary was most recently enrolled and such identification had not been terminated upon disenrollment.
+
 *Basic prescription drug coverage* means coverage of Part D drugs that is either standard prescription drug coverage or basic alternative coverage.
 
 *Bioequivalent* has the meaning given such term in section 505(j)(8) of the Food, Drug, and Cosmetic Act.
+
+*Clinical guidelines,* for the purposes of a drug management program under § 423.153(f), are criteria -
+
+(1) To identify potential at-risk beneficiaries who may be determined to be at-risk beneficiaries under such programs; and
+
+(2) That are developed in accordance with the standards in § 423.153(f)(16) and, beginning with contract year 2020, will be published in guidance annually.
 
 *Contracted pharmacy network* means licensed pharmacies, including retail, mail-order, and institutional pharmacies under contract with a Part D sponsor to provide covered Part D drugs at negotiated prices to Part D enrollees.
 
@@ -71,6 +87,22 @@ As used in this part, unless otherwise specified-
 (2) Include only pharmacy costs associated with ensuring that possession of the appropriate covered Part D drug is transferred to a Part D enrollee. Pharmacy costs include, but are not limited to, any reasonable costs associated with a pharmacist's time in checking the computer for information about an individual's coverage, performing quality assurance activities consistent with § 423.153(c)(2), measurement or mixing of the covered Part D drug, filling the container, physically providing the completed prescription to the Part D enrollee, delivery, special packaging, and salaries of pharmacists and other pharmacy workers as well as the costs associated with maintaining the pharmacy facility and acquiring and maintaining technology and equipment necessary to operate the pharmacy. Dispensing fees should take into consideration the number of dispensing events in a billing cycle, the incremental costs associated with the type of dispensing methodology, and with respect to Part D drugs dispensed in LTC facilities, the techniques to minimize the dispensing of unused drugs. Dispensing fees may also take into account costs associated with data collection on unused Part D drugs and restocking fees associated with return for credit and reuse in long-term care pharmacies, when return for credit and reuse is permitted under the State in law and is allowed under the contract between the Part D sponsor and the pharmacy.
 
 (3) Do not include administrative costs incurred by the Part D plan in the operation of the Part D benefit, including systems costs for interfacing with pharmacies.
+
+*Exempted beneficiary* means with respect to a drug management program, an enrollee who -
+
+(1) Has elected to receive hospice care or is receiving palliative or end-of-life care;
+
+(2) Is a resident of a long-term care facility, of a facility described in section 1905(d) of the Act, or of another facility for which frequently abused drugs are dispensed for residents through a contract with a single pharmacy; or
+
+(3) Is being treated for active cancer-related pain.
+
+*Frequently abused drug* means a controlled substance under the Federal Controlled Substances Act that the Secretary determines is frequently abused or diverted, taking into account all of the following factors:
+
+(1) The drug's schedule designation by the Drug Enforcement Administration.
+
+(2) Government or professional guidelines that address that a drug is frequently abused or misused.
+
+(3) An analysis of Medicare or other drug utilization or scientific data.
 
 *Government-funded health program* means any program established, maintained, or funded, in whole or in part, by the Government of the United States, by the government of any State or political subdivision of a State, or by any agency or instrumentality of any of the foregoing, which uses public funds, in whole or in part, to provide to, or pay on behalf of, an individual the cost of Part D drugs, including any of the following:
 
@@ -134,8 +166,6 @@ As used in this part, unless otherwise specified-
 
 *Or otherwise* means through a government-funded health program.
 
-*Other authorized prescriber* means, for purposes of § 423.120(c)(6) only, an individual other than a physician (as defined in section 1861(r) of the Act) or eligible professional (as defined in section 1848(k)(3)(B) of the Act) who is authorized under State or other applicable law to write prescriptions.
-
 *Out-of-network pharmacy* means a licensed pharmacy that is not under contract with a Part D sponsor to provide negotiated prices to Part D plan enrollees.
 
 *Part D drug* means -
@@ -176,19 +206,55 @@ As used in this part, unless otherwise specified-
 
 *Plan allowance* means the amount Part D plans that offer coverage other than defined standard coverage may use to determine their payment and Part D enrollees' cost-sharing for covered Part D drugs purchased at an out-of-network pharmacy or in a physician's office in accordance with the requirements of § 423.124(b).
 
+*Potential at-risk beneficiary* means a Part D eligible individual -
+
+(1) Who is identified using clinical guidelines (as defined in this section); or
+
+(2) With respect to whom a Part D plan sponsor receives a notice upon the beneficiary's enrollment in such sponsor's plan that the beneficiary was identified as a potential at-risk beneficiary (as defined in paragraph (1) of this definition) under the prescription drug plan in which the beneficiary was most recently enrolled and such identification had not been terminated upon disenrollment.
+
+*Preclusion list* means a CMS compiled list of prescribers who -
+
+(1) Meet all of the following requirements:
+
+(i) The prescriber is currently revoked from the Medicare program under § 424.535 of this chapter.
+
+(ii) The prescriber is currently under a reenrollment bar under § 424.535(c) of this chapter.
+
+(iii) CMS determines that the underlying conduct that led to the revocation is detrimental to the best interests of the Medicare program. In making this determination under this paragraph (1)(iii), CMS considers the following factors:
+
+(A) The seriousness of the conduct underlying the prescriber's revocation;
+
+(B) The degree to which the prescriber's conduct could affect the integrity of the Part D program; and
+
+(C) Any other evidence that CMS deems relevant to its determination; or
+
+(2) Meet both of the following requirements:
+
+(i) The prescriber has engaged in behavior for which CMS could have revoked the prescriber to the extent applicable if he or she had been enrolled in Medicare.
+
+(ii) CMS determines that the underlying conduct that would have led to the revocation is detrimental to the best interests of the Medicare program. In making this determination under this paragraph, CMS considers all of the following factors:
+
+(A) The seriousness of the conduct involved.
+
+(B) The degree to which the prescriber's conduct could affect the integrity of the Part D program.
+
+(C) Any other evidence that CMS deems relevant to its determination.
+
 *Preferred drug* means a covered Part D drug on a Part D plan's formulary for which beneficiary cost-sharing is lower than for a non-preferred drug in the plan's formulary.
 
 *Preferred pharmacy* means a network pharmacy that offers covered Part D drugs at negotiated prices to Part D enrollees at lower levels of cost-sharing than apply at a non-preferred pharmacy under its pharmacy network contract with a Part D plan.
 
-*Qualified prescription drug coverage* means any standard prescription drug coverage or alternative prescription drug coverage
+*Program size* means the estimated population of potential at-risk beneficiaries in drug management programs (described in § 423.153(f)) operated by Part D plan sponsors that the Secretary determines can be effectively managed by such sponsors as part of the process to develop clinical guidelines.
 
-*Retail pharmacy* means any licensed pharmacy that is not a mail order pharmacy from which Part D enrollees could purchase a covered Part D drug without being required to receive medical services from a provider or institution affiliated with that pharmacy.
+*Qualified prescription drug coverage* means any standard prescription drug coverage or alternative prescription drug coverage
 
 *Required prescription drug coverage* means coverage of Part D drugs under an MA-PD plan that consists of either -
 
 (1) Basic prescription drug coverage; or
 
 (2) Enhanced alternative coverage, provided there is no MA monthly supplemental beneficiary premium (as defined under section 1854(b)(2)(C) of the Act) applied under the plan due to the application of a credit against the premium of a rebate under § 422.266(b) of this chapter.
+
+*Retail pharmacy* means any licensed pharmacy that is open to dispense prescription drugs to the walk-in general public from which Part D enrollees could purchase a covered Part D drug without being required to receive medical services from a provider or institution affiliated with that pharmacy.
 
 *Rural* means a five-digit ZIP code in which the population density is less than 1,000 individuals per square mile.
 
@@ -212,4 +278,4 @@ As used in this part, unless otherwise specified-
 
 *Valid prescription* means a prescription that complies with all applicable State law requirements constituting a valid prescription.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 1543, Jan. 12, 2009; 76 FR 21571, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 77 FR 32407, June 1, 2012; 79 FR 29962, May 23, 2014; 80 FR 7963, Feb. 12, 2015; 80 FR 25966, May 6, 2015]
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 1543, Jan. 12, 2009; 76 FR 21571, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 77 FR 32407, June 1, 2012; 79 FR 29962, May 23, 2014; 80 FR 7963, Feb. 12, 2015; 80 FR 25966, May 6, 2015; 83 FR 16737, Apr. 16, 2018]

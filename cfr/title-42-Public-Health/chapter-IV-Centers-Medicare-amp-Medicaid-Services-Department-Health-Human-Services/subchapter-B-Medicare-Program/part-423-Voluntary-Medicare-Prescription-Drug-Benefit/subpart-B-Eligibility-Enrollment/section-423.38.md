@@ -1,7 +1,5 @@
 ##### § 423.38 Enrollment periods. #####
 
-Link to an amendment published at 83 FR 16737, April 16, 2018.
-
 (a) *Initial enrollment period for Part D - Basic rule.* The initial enrollment period is the period during which an individual is first eligible to enroll in a Part D plan.
 
 (1) *In 2005.* An individual who is first eligible to enroll in a Part D plan on or prior to January 31, 2006, has an initial enrollment period from November 15, 2005 through May 15, 2006.
@@ -20,7 +18,7 @@ Link to an amendment published at 83 FR 16737, April 16, 2018.
 
 (3) *For 2011 and subsequent years.* Beginning with 2011, the annual coordinated election period for the following calendar year is October 15 through December 7.
 
-(c) *Special enrollment periods.* A Part D eligible individual may enroll in a PDP or disenroll from a PDP and enroll in another PDP or MA-PD plan (as provided at § 422.62(b) of this chapter), as applicable, at any time under any of the following circumstances:
+(c) *Special enrollment periods.* A Part D eligible individual may enroll in a PDP or disenroll from a PDP and enroll in another PDP or MA-PD plan (as provided at § 422.62(b) of this chapter), as applicable, under any of the following circumstances:
 
 (1) The individual involuntarily loses creditable prescription drug coverage or such coverage is involuntarily reduced so that it is no longer creditable coverage as defined under § 423.56(a). Loss of credible prescription drug coverage due to failure to pay any required premium is not considered involuntary loss of the coverage.
 
@@ -28,7 +26,9 @@ Link to an amendment published at 83 FR 16737, April 16, 2018.
 
 (3) The individual's enrollment or non-enrollment in a Part D plan is unintentional, inadvertent, or erroneous because of the error, misrepresentation, or inaction of a Federal employee, or any person authorized by the Federal government to act on its behalf.
 
-(4) The individual is a full-subsidy eligible individual or other subsidy-eligible individual as defined in § 423.772 of this part.
+(4)(i) Except as provided in paragraph (ii), the individual is a full-subsidy eligible individual or other subsidy-eligible individual as defined in § 423.772, who is making an allowable onetime-per-calendar-quarter election between January through September.
+
+(ii) An individual described in paragraph (i) is not eligible for this special enrollment period if he or she has been notified that he or she has been identified as a “potential at-risk beneficiary” or “at-risk beneficiary” as defined in § 423.100 and such identification has not been terminated in accordance with § 423.153(f)).
 
 (5) The individual elects to disenroll from a MA-PD plan and elects coverage under Medicare Part A and Part B in accordance with § 422.62(c) of this chapter.
 
@@ -44,10 +44,16 @@ Link to an amendment published at 83 FR 16737, April 16, 2018.
 
 (B) Failure to provide benefits in accordance with applicable quality standards; or
 
-(C) The PDP (or its agent, representative, or plan provider) materially misrepresented the plan's provisions in marketing the plan to the individual.
+(C) The PDP (or its agent, representative, or plan provider) materially misrepresented the plan's provisions in communications as outlined in subpart V of this part.
 
 (ii) The individual meets other exceptional circumstances as CMS may provide.
 
-(d) *Enrollment period to coordinate with MA annual 45-day disenrollment period.* Beginning in 2011, an individual enrolled in an MA plan who elects Original Medicare from January 1 through February 14, as described in § 422.62(a)(7), may also elect a PDP during this time.
+(9) The individual is making an election within 3 months after a gain, loss, or change to Medicaid or LIS eligibility, or notification of such a change, whichever is later.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19816, Apr. 15, 2010; 76 FR 21570, Apr. 15, 2011]
+(10) The individual is making an election within 3 months after notification of a CMS or State-initiated enrollment action or that enrollment action's effective date, whichever is later.
+
+(d) *Enrollment period to coordinate with MA annual 45-day disenrollment period.* Through 2018, an individual enrolled in an MA plan who elects Original Medicare from January 1 through February 14, as described in § 422.62(a)(5) of this chapter, may also elect a PDP during this time.
+
+(e) *Enrollment period to coordinate with MA open enrollment period.* For 2019 and subsequent years, an individual who makes an election as described in § 422.62(a)(3) of this chapter, may make an election to enroll in or disenroll from Part D coverage. An individual who elects Original Medicare during the MA open enrollment period may elect to enroll in a PDP during this time.
+
+[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19816, Apr. 15, 2010; 76 FR 21570, Apr. 15, 2011; 83 FR 16737, Apr. 16, 2018]

@@ -1,12 +1,12 @@
 ##### § 422.508 Modification or termination of contract by mutual consent. #####
 
-Link to an amendment published at 83 FR 16734, April 16, 2018.
-
 (a) A contract may be modified or terminated at any time by written mutual consent.
 
 (1) If the contract is terminated by mutual consent, except as provided in paragraph (b) of this section, the MA organization must provide notice to its Medicare enrollees and the general public as provided in § 422.512(b)(2) and (b)(3).
 
 (2) If the contract is modified by mutual consent, the MA organization must notify its Medicare enrollees of any changes that CMS determines are appropriate for notification within timeframes specified by CMS.
+
+(3) If the organization submits a request to end the term of its contract after the deadline provided in § 422.506(a)(2)(i), the contract may be terminated by mutual consent in accordance with paragraphs (a) through (d) of this section. CMS may mutually consent to the contract termination if the contract termination does not negatively affect the administration of the Medicare program.
 
 (b) If the contract terminated by mutual consent is replaced the day following such termination by a new MA contract, the MA organization is not required to provide the notice specified in paragraph (a)(1) of this section.
 
@@ -20,4 +20,4 @@ Link to an amendment published at 83 FR 16734, April 16, 2018.
 
 (3) A member of the board of directors of the entity, if the organization is organized as a corporation.
 
-[63 FR 35099, June 26, 1998, as amended at 75 FR 19811, Apr. 15, 2010; 76 FR 21569, Apr. 15, 2011; 80 FR 7961, Feb. 12, 2015]
+[63 FR 35099, June 26, 1998, as amended at 75 FR 19811, Apr. 15, 2010; 76 FR 21569, Apr. 15, 2011; 80 FR 7961, Feb. 12, 2015; 83 FR 16734, Apr. 16, 2018]

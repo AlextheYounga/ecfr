@@ -1,10 +1,10 @@
 ##### § 387.7 Financial responsibility required. #####
 
-Link to an amendment published at 83 FR 16226, Apr. 16, 2018.Link to an amendment published at 83 FR 22876, May 17, 2018.
+Link to an amendment published at 83 FR 22876, May 17, 2018.
 
 (a) No motor carrier shall operate a motor vehicle until the motor carrier has obtained and has in effect the minimum levels of financial responsibility as set forth in § 387.9 of this subpart.
 
-(b)(1) Policies of insurance, surety bonds, and endorsements required under this section shall remain in effect continuously until terminated. Cancellation may be effected by the insurer or the insured motor carrier giving 35 days' notice in writing to the other. The 35 days' notice shall commence to run from the date the notice is mailed. Proof of mailing shall be sufficient proof of notice.
+(b)(1) Policies of insurance, surety bonds, and endorsements required under this section shall remain in effect continuously until terminated. Cancellation may be effected by the insurer or the insured motor carrier giving 35 days' notice in writing to the other. The 35 days' notice shall commence to run from the date the notice is transmitted. Proof of transmission shall be sufficient proof of notice.
 
 (2) *Exception.* Policies of insurance and surety bonds may be obtained for a finite period of time to cover any lapse in continuous compliance.
 
@@ -36,4 +36,4 @@ Mexician motor carriers insured under this exception are also exempt from the no
 
 (g) Any motor vehicle in which there is no evidence of financial responsibility required by paragraph (f) of this section shall be denied entry into the United States.
 
-[46 FR 30982, June 11, 1981; 46 FR 45612, Sept. 14, 1981, as amended at 48 FR 5559, Feb. 7, 1983; 48 FR 52683, Nov. 21, 1983; 51 FR 22083, June 18, 1986; 54 FR 49092, Nov. 29, 1989; 59 FR 63923, Dec. 12, 1994; 67 FR 12661, Mar. 19, 2002; 73 FR 76496, Dec. 16, 2008]
+[46 FR 30982, June 11, 1981; 46 FR 45612, Sept. 14, 1981, as amended at 48 FR 5559, Feb. 7, 1983; 48 FR 52683, Nov. 21, 1983; 51 FR 22083, June 18, 1986; 54 FR 49092, Nov. 29, 1989; 59 FR 63923, Dec. 12, 1994; 67 FR 12661, Mar. 19, 2002; 73 FR 76496, Dec. 16, 2008; 83 FR 16226, Apr. 16, 2018]

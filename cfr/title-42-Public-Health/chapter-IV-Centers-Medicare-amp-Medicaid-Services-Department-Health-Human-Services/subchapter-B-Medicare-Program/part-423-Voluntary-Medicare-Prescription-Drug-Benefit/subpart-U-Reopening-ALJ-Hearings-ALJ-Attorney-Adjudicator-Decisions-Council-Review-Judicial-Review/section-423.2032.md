@@ -1,8 +1,6 @@
 ##### § 423.2032 Issues before an ALJ or attorney adjudicator. #####
 
-Link to an amendment published at 83 FR 16754, April 16, 2018.
-
-(a) *General rule.* The issues before the ALJ or attorney adjudicator include all the issues for the appealed matter specified in the request for hearing that were brought out in the coverage determination, redetermination, or reconsideration that were not decided entirely in an enrollee's favor.
+(a) *General rule.* The issues before the ALJ or attorney adjudicator include all the issues for the appealed matter specified in the request for hearing that were brought out in the coverage determination or at-risk determination, redetermination, or reconsideration that were not decided entirely in an enrollee's favor.
 
 (b) *New issues* - (1) *When a new issue may be considered.* A new issue may include issues resulting from the participation of CMS, the IRE, or the Part D plan sponsor at the OMHA level of adjudication and from any evidence and position papers submitted by CMS, the IRE, or the Part D plan sponsor for the first time to the ALJ. The ALJ or the enrollee may raise a new issue; however, the ALJ may only consider a new issue relating to a determination or appealed matter specified in the request for hearing, including a favorable portion of a determination or appealed matter specified in the request for hearing, if its resolution could have a material impact on the appealed matter and -
 
@@ -16,4 +14,4 @@ Link to an amendment published at 83 FR 16754, April 16, 2018.
 
 (c) *Adding coverage determinations to a pending appeal.* A coverage determination on a drug that was not specified in a request for hearing may only be added to pending appeal if the coverage determination was adjudicated in the same reconsideration that is appealed, and the period to request an ALJ hearing for that reconsideration has not expired, or an ALJ or attorney adjudicator extends the time to request an ALJ hearing on the reconsideration in accordance with § 423.2014(e).
 
-[82 FR 5132, Jan. 17, 2017]
+[82 FR 5132, Jan. 17, 2017, as amended at 83 FR 16754, Apr. 16, 2018]

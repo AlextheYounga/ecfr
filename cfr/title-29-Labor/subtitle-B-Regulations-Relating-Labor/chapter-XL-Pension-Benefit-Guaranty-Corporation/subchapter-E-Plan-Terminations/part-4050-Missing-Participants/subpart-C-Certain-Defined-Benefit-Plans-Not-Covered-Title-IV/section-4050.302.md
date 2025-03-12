@@ -22,7 +22,7 @@ The following terms are defined in § 4001.2 of this chapter: Annuity, Code, ERI
 
 (2) Under the terms of the plan, the distributee's benefit is to be paid in a lump sum without the distributee's consent, and the distributee has not responded to a notice about the distribution of the lump sum.
 
-(3) Under the terms of the plan and any election made by the distributee, the distributee's benefit is to be paid in a lump sum, but the distributee does not accept the lump sum. For this purpose, a lump sum paid by check is not accepted if the check remains uncashed after -
+(3) Under the terms of the plan and any election made by the distributee, the distributee's benefit is to be paid in a lump sum, but the distributee does not accept the lump sum. For this purpose, a lump sum paid by check is not accepted if the check remains uncashed after—
 
 (i) A “cash-by” date prescribed (on the check or in an accompanying notice) that is at least 45 days after the issuance of the check, or
 
@@ -56,9 +56,9 @@ The following terms are defined in § 4001.2 of this chapter: Annuity, Code, ERI
 
 (6) Pre-retirement death benefits are disregarded.
 
-(7) Notwithstanding the expected retirement age (XRA) assumptions in §§ 4044.55 through 4044.57 of this chapter, -
+(7) Notwithstanding the expected retirement age (XRA) assumptions in §§ 4044.55 through 4044.57 of this chapter,—
 
-(i) In the case of a participant who is not in pay status and whose normal retirement date is on or after the benefit determination date, benefits are assumed to commence at the XRA, determined using the high retirement rate category under Table II-C of Appendix D to part 4044 of this chapter;
+(i) In the case of a participant who is not in pay status and whose normal retirement date is on or after the benefit determination date, benefits are assumed to commence at the XRA, determined using the high retirement rate category under Table II-C of appendix D to part 4044 of this chapter;
 
 (ii) In the case of a participant who is not in pay status and whose normal retirement date is before the benefit determination date, benefits are assumed to commence on the participant's normal retirement date (or accrual cessation date if later);
 
@@ -74,13 +74,13 @@ The following terms are defined in § 4001.2 of this chapter: Annuity, Code, ERI
 
 *QDRO* means a qualified domestic relations order as defined in section 206(d)(3) of ERISA and section 414(p) of the Code.
 
-*Qualified survivor* of a participant or beneficiary under a subpart C plan means, for any benefit with respect to the participant or beneficiary -
+*Qualified survivor* of a participant or beneficiary under a subpart C plan means, for any benefit with respect to the participant or beneficiary—
 
 (1) A person who survives the participant or beneficiary and is entitled under applicable provisions of a QDRO to receive the benefit;
 
 (2) A person that is identified by the plan in a submission to PBGC by the plan as being entitled under applicable plan provisions (including elections, designations, and waivers consistent with such provisions) to receive the benefit; or
 
-(3) If no such person is so entitled, a survivor of the participant or beneficiary who is the participant's or beneficiary's living -
+(3) If no such person is so entitled, a survivor of the participant or beneficiary who is the participant's or beneficiary's living—
 
 (i) Spouse, or if none,
 

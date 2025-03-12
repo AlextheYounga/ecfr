@@ -1,11 +1,13 @@
 ##### § 423.636 How a Part D plan sponsor must effectuate standard redeterminations, reconsiderations, or decisions. #####
 
-Link to an amendment published at 83 FR 16752, April 16, 2018.
-
 (a) *Reversals by the Part D plan sponsor* - (1) *Requests for benefits.* If, on redetermination of a request for benefit, the Part D plan sponsor reverses its coverage determination, the Part D plan sponsor must authorize or provide the benefit under dispute as expeditiously as the enrollee's health condition requires, but no later than 7 calendar days from the date it receives the request for redetermination.
 
-(2) *Requests for payment.* If, on redetermination of a request for payment, the Part D plan sponsor reverses its coverage determination, the Part D plan sponsor must authorize payment for the benefit within 7 calendar days from the date it receives the request for redetermination, and make payment no later than 30 calendar days after the date the plan sponsor receives the request for redetermination.
+(2) *Requests for payment.* If, on redetermination of a request for payment, the Part D plan sponsor reverses its coverage determination, the Part D plan sponsor must authorize payment for the benefit within 14 calendar days from the date it receives the request for redetermination, and make payment no later than 30 calendar days after the date the plan sponsor receives the request for redetermination.
+
+(3) *Review of an at-risk determination.* If, on redetermination of an at-risk determination made under a drug management program in accordance with § 423.153(f), the Part D plan sponsor reverses its at-risk determination, the Part D plan sponsor must implement the change to the at-risk determination as expeditiously as the enrollee's health condition requires, but no later than 7 calendar days from the date it receives the request for redetermination.
 
 (b) *Reversals other than by the Part D plan sponsor* - (1) *Requests for benefits.* If, on appeal of a request for benefit, the determination by the Part D plan sponsor is reversed in whole or in part by the independent review entity, or at a higher level of appeal, the Part D plan sponsor must authorize or provide the benefit under dispute within 72 hours from the date it receives notice reversing the determination. The Part D plan sponsor must inform the independent review entity that the Part D plan sponsor has effectuated the decision.
 
 (2) *Requests for payment.* If, on appeal of a request for payment, the determination by the Part D plan sponsor is reversed in whole or in part by the independent review entity, or at a higher level of appeal, the Part D plan sponsor must authorize payment for the benefit within 72 hours, but make payment no later than 30 calendar days from the date it receives notice reversing the coverage determination. The Part D plan sponsor must inform the independent review entity that the Part D plan sponsor has effectuated the decision.
+
+[70 FR 4525, Jan. 28, 2005, as amended at 83 FR 16752, Apr. 16, 2018]

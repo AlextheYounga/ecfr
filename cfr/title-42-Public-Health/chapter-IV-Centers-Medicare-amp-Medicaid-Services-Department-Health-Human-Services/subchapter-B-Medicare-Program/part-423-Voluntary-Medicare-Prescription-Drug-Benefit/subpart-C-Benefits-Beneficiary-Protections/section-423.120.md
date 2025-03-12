@@ -1,7 +1,5 @@
 ##### § 423.120 Access to covered Part D drugs. #####
 
-Link to an amendment published at 83 FR 16738, April 16, 2018.
-
 (a) *Assuring pharmacy access* - (1) *Standards for convenient access to network pharmacies.* Except as provided in paragraph (a)(7) of this section, a Part D sponsor (as defined in § 423.4 of this part) must have a contracted pharmacy network consisting of retail pharmacies sufficient to ensure that, for beneficiaries residing in each State in a PDP sponsor's service area (as defined in § 423.112(a) of this part), each State in a regional MA-organization's service area (as defined in § 422.2 of this part), the entire service area of a local MA organization (as defined in § 422.2 of this chapter) or the entire geographic area of a cost contract (as defined in § 417.401 of this chapter) all of the following requirements are satisfied:
 
 (i) At least 90 percent of Medicare beneficiaries, on average, in urban areas served by the Part D sponsor live within 2 miles of a network pharmacy that is a retail pharmacy or a pharmacy described under paragraph (a)(2) of this section.
@@ -108,23 +106,21 @@ Link to an amendment published at 83 FR 16738, April 16, 2018.
 
 (3) *Transition process.* A Part D sponsor must provide for an appropriate transition process for enrollees prescribed Part D drugs that are not on its Part D plan's formulary (including Part D drugs that are on a sponsor's formulary but require prior authorization or step therapy under a plan's utilization management rules). The transition process must:
 
-(i) Be applicable to all of the following:
+(i)(A) Be applicable to all of the following:
 
-(A) New enrollees into Part D plans following the annual coordinated election period.
+*(1)* New enrollees into Part D plans following the annual coordinated election period.
 
-(B) Newly eligible Medicare enrollees from other coverage.
+*(2)* Newly eligible Medicare enrollees from other coverage.
 
-(C) Individuals who switch from one plan to another after the start of the contract year.
+*(3)* Individuals who switch from one plan to another after the start of the contract year.
 
-(D) Current enrollees remaining in the plan affected by formulary changes.
+*(4)* Current enrollees remaining in the plan affected by formulary changes.
+
+(B) Not apply in cases in which a Part D sponsor substitutes a generic drug for a brand name drug as permitted under paragraph (b)(5)(iv) of this section.
 
 (ii) Ensure access to a temporary supply of drugs within the first 90 days of coverage under a new plan. This 90 day timeframe applies to retail, home infusion, long-term care and mail-order pharmacies,
 
-(iii) Ensure the provision of a temporary fill when an enrollee requests a fill of a non-formulary drug during the time period specified in paragraph (b)(3)(ii) of this section (including Part D drugs that are on a plan's formulary but require prior authorization or step therapy under a plan's utilization management rules).
-
-(A) In the outpatient setting, the one-time, temporary supply of non-formulary Part D drugs (including Part D drugs that are on a sponsor's formulary but require prior authorization or step therapy under a sponsor's utilization management rules) must be for at least 30 days of medication, unless the prescription is written by a prescriber for less than 30 days and requires the Part D sponsor to allow multiple fills to provide up to a total of 30 days of medication.
-
-(B) In the long-term care setting, the temporary supply of non-formulary Part D drugs (including Part D drugs that are on a sponsor's formulary but require prior authorization or step therapy under a sponsor's utilization management rules) must be for up to at least 91 days and may be up to at least 98 days, consistent with the dispensing increment, with refills provided, if needed, unless a lesser amount is actually prescribed by the prescriber.
+(iii) Ensure the provision of a temporary fill when an enrollee requests a fill of a non-formulary drug during the time period specified in paragraph (b)(3)(ii) of this section (including Part D drugs that are on a plan's formulary but require prior authorization or step therapy under a plan's utilization management rules) by providing a one-time, temporary supply of at least an approved month's supply of medication, unless the prescription is written by a prescriber for less than an approved month's supply and requires the Part D sponsor to allow multiple fills to provide up to a total of an approved month's supply of medication.
 
 (iv) Ensure written notice is provided to each affected enrollee within 3 business days after adjudication of the temporary fill. For long-term care residents dispensed multiple supplies of a Part D drug, in increments of 14-days-or-less, consistent with the requirements under § 423.154, the written notice must be provided within 3 business days after adjudication of the first temporary fill.
 
@@ -142,11 +138,11 @@ Link to an amendment published at 83 FR 16738, April 16, 2018.
 
 (4) *Limitation on changes in therapeutic classification.* Except as CMS may permit to account for new therapeutic uses and newly approved Part D drugs, a Part D sponsor may not change the therapeutic categories and classes in a formulary other than at the beginning of each plan year.
 
-(5) *Provision of notice regarding formulary changes* (i) Prior to removing a covered Part D drug from its Part D plan's formulary, or making any change in the preferred or tiered cost-sharing status of a covered Part D drug, a Part D sponsor must provide at least 60 days notice to CMS, State Pharmaceutical Assistance Programs (as defined in § 423.454), entities providing other prescription drug coverage (as described in § 423.464(f)(1)), authorized prescribers, network pharmacies, and pharmacists prior to the date such change becomes effective, and must either -
+(5) *Provision of notice regarding formulary changes* (i) Prior to removing a covered Part D drug from its Part D plan's formulary, or making any change in the preferred or tiered cost-sharing status of a covered Part D drug, a Part D sponsor must provide at least 30 days notice to CMS, State Pharmaceutical Assistance Programs (as defined in § 423.454), entities providing other prescription drug coverage (as described in § 423.464(f)(1)), authorized prescribers, network pharmacies, and pharmacists (for purposes of this paragraph (b)(5) these entities are referred to as “CMS and other specified entities”) prior to the date such change becomes effective, and must either -
 
-(A) Provide direct written notice to affected enrollees at least 60 days prior to the date the change becomes effective; or
+(A) Provide direct written notice to affected enrollees at least 30 days prior to the date the change becomes effective; or
 
-(B) At the time an affected enrollee requests a refill of the Part D drug, provide such enrollee with a 60 day supply of the Part D drug under the same terms as previously allowed, and written notice of the formulary change.
+(B) At the time an affected enrollee requests a refill of the Part D drug, provide such enrollee with an approved month's supply of the Part D drug under the same terms as previously allowed, and written notice of the formulary change.
 
 (ii) The written notice must contain the following information-
 
@@ -160,9 +156,25 @@ Link to an amendment published at 83 FR 16738, April 16, 2018.
 
 (E) The means by which enrollees may obtain a coverage determination under § 423.566 or exception under § 423.578.
 
-(iii) Part D sponsors may immediately remove from their Part D plan formularies covered Part D drugs deemed unsafe by the Food and Drug Administration or removed from the market by their manufacturer without meeting the requirements of paragraphs (b)(5)(i) of this section. Part D sponsors must provide retrospective notice of any such formulary changes to affected enrollees, CMS, State Pharmaceutical Assistance Programs (as defined in § 423.454), entities providing other prescription drug coverage (as described in § 423.464(f)(1)), authorized prescribers, network pharmacies, and pharmacists consistent with the requirements of paragraphs (b)(5)(ii)(A), (b)(5)(ii)(B), (b)(5)(ii)(C), and (b)(5)(ii)(D) of this section.
+(iii) Part D sponsors may immediately remove from their Part D plan formularies covered Part D drugs deemed unsafe by the Food and Drug Administration or removed from the market by their manufacturer without meeting the requirements of paragraphs (b)(5)(i) of this section. Part D sponsors must provide retrospective notice of any such formulary changes to affected enrollees, and CMS and other specified entities consistent with the requirements of paragraphs (b)(5)(ii)(A), (b)(5)(ii)(B), (b)(5)(ii)(C), and (b)(5)(ii)(D) of this section.
 
-(6) *Limitation on formulary changes prior to the beginning of a contract year.* Except as provided under paragraph (b)(5)(iii) of this section, a Part D sponsor may not remove a covered Part D drug from its Part D plan's formulary, or make any change in the preferred or tiered cost-sharing status of a covered Part D drug on its plan's formulary, between the beginning of the annual coordinated election period described in § 423.38(b) and 60 days after the beginning of the contract year associated with that annual coordinated election period.
+(iv) A Part D sponsor may immediately remove a brand name drug (as defined in § 423.4) from its Part D formulary or change the brand name drug's preferred or tiered cost-sharing without meeting the deadlines and refill requirements of paragraph (b)(5)(i) of this section provided that the Part D sponsor does all of the following:
+
+(A) At the same time that it removes such brand name drug or changes its preferred or tiered cost-sharing, it adds a therapeutically equivalent (as defined in § 423.100) generic drug (as defined in § 423.4) to its formulary on the same or lower cost-sharing tier and with the same or less restrictive utilization management criteria.
+
+(B) The Part D sponsor previously could not have included such therapeutically equivalent generic drug on its formulary when it submitted its initial formulary for CMS approval consistent with paragraph (b)(2) of this section because such generic drug was not yet available on the market.
+
+(C) Before making any permitted generic substitutions, the Part D sponsor provides general notice to all current and prospective enrollees in its formulary and other applicable beneficiary communication materials advising them that -
+
+(*1*) Such changes may be made at any time when a new generic is added in place of a brand name drug, and there may be no advance direct notice to the affected enrollees;
+
+(*2*) If such a substitution should occur, affected enrollees will receive direct notice including information on the specific drugs involved and steps they may take to request coverage determinations and exceptions under §§ 423.566 and 423.578;
+
+(D) Before making any permitted generic substitutions, the Part D sponsor provides advance general notice to CMS and other specified entities.
+
+(E) The Part D sponsor provides notice of any such formulary changes to affected enrollees and CMS and other specified entities consistent with the requirements of paragraphs (b)(5)(i) (as applicable) and (ii) of this section. This would include direct notice to the affected enrollees.
+
+(6) *Limitation on formulary changes prior to the beginning of a contract year.* Except as provided under paragraphs (b)(5)(iii) and (iv) of this section , a Part D sponsor may not remove a covered Part D drug from its Part D plan's formulary, or make any change in the preferred or tiered cost-sharing status of a covered Part D drug on its plan's formulary, between the beginning of the annual coordinated election period described in § 423.38(b) and 60 days after the beginning of the contract year associated with that annual coordinated election period.
 
 (7) *Provider and patient education.* A Part D sponsor must establish policies and procedures to educate and inform health care providers and enrollees concerning its formulary.
 
@@ -178,13 +190,9 @@ Link to an amendment published at 83 FR 16738, April 16, 2018.
 
 (ii) Part D cardholder identification number (RxID) to each Medicare Part D enrollee to clearly identify Medicare Part D beneficiaries.
 
-(5) Before January 1, 2016, the following are applicable:
+(5)(i) A Part D plan sponsor must reject, or must require its pharmacy benefit manager (PBM) to reject, a pharmacy claim for a Part D drug unless the claim contains the active and valid National Provider Identifier (NPI) of the prescriber who prescribed the drug.
 
-(i) A Part D sponsor must submit to CMS only a prescription drug event (PDE) record that contains an active and valid individual prescriber NPI.
-
-(ii) A Part D sponsor must ensure that the lack of an active and valid individual prescriber NPI on a network pharmacy claim does not unreasonably delay a beneficiary's access to a covered Part D drug, by taking the steps described in paragraph (c)(5)(iii) of this section.
-
-(iii) The sponsor must communicate at point-of-sale whether or not a submitted NPI is active and valid in accordance with this paragraph (c)(5)(iii).
+(ii) The sponsor must communicate at point-of sale whether or not a submitted NPI is active and valid in accordance with this paragraph (c)(5)(ii).
 
 (A) If the sponsor communicates that the NPI is not active and valid, the sponsor must permit the pharmacy to -
 
@@ -192,63 +200,41 @@ Link to an amendment published at 83 FR 16738, April 16, 2018.
 
 (*2*) Correct the NPI.
 
-(B) If the pharmacy -
+(B) If the pharmacy confirms that the NPI is active and valid or corrects the NPI, the sponsor must pay the claim if it is otherwise payable.
 
-(*1*) Confirms that the NPI is active and valid or corrects the NPI, the sponsor must pay the claim if it is otherwise payable; or
+(iii) A Part D sponsor must not later recoup payment from a network pharmacy for a claim that does not contain an active and valid individual prescriber NPI on the basis that it does not contain one, unless the sponsor -
 
-(*2*) Cannot or does not correct or confirm that the NPI is active and valid, the sponsor must require the pharmacy to resubmit the claim (when necessary), which the sponsor must pay, if it is otherwise payable, unless there is an indication of fraud or the claim involves a prescription written by a foreign prescriber (where permitted by State law).
-
-(iv) A Part D sponsor must not later recoup payment from a network pharmacy for a claim that does not contain an active and valid individual prescriber NPI on the basis that it does not contain one, unless the sponsor -
-
-(A) Has complied with paragraphs (c)(5)(ii) and (iii) of this section;
+(A) Has complied with paragraph (c)(5)(ii) of this section;
 
 (B) Has verified that a submitted NPI was not in fact active and valid; and
 
 (C) The agreement between the parties explicitly permits such recoupment.
 
-(v) With respect to requests for reimbursement submitted by Medicare beneficiaries, a Part D sponsor may not make payment to a beneficiary dependent upon the sponsor's acquisition of an active and valid individual prescriber NPI, unless there is an indication of fraud. If the sponsor is unable to retrospectively acquire an active and valid individual prescriber NPI, the sponsor may not seek recovery of any payment to the beneficiary solely on that basis.
+(iv) With respect to requests for reimbursement submitted by Medicare beneficiaries, a Part D sponsor may not make payment to a beneficiary dependent upon the sponsor's acquisition of an active and valid individual prescriber NPI, unless there is an indication of fraud. If the sponsor is unable to retrospectively acquire an active and valid individual prescriber NPI, the sponsor may not seek recovery of any payment to the beneficiary solely on that basis.
 
-(6) Beginning January 1, 2016, the following are applicable:
+(6)(i) Except as provided in paragraph (c)(6)(iv) of this section, a Part D sponsor must reject, or must require its PBM to reject, a pharmacy claim for a Part D drug if the individual who prescribed the drug is included on the preclusion list, defined in § 423.100.
 
-(i) A Part D plan sponsor must reject, or must require its pharmaceutical benefit manager (PBM) to reject, a pharmacy claim for a Part D drug unless the claim contains the active and valid National Provider Identifier (NPI) of the prescriber who prescribed the drug.
+(ii) Except as provided in paragraph (c)(6)(iv) of this section, a Part D sponsor must deny, or must require its PBM to deny, a request for reimbursement from a Medicare beneficiary if the request pertains to a Part D drug that was prescribed by an individual who is identified by name in the request and who is included on the preclusion list, defined in § 423.100.
 
-(ii)(A) Except as provided in paragraph (c)(6)(v) of this section, a Part D plan sponsor must reject, or must require its PBM to reject, a pharmacy claim for a Part D drug unless the physician or, when permitted by applicable State law, the eligible professional (as defined in section 1848(k)(3)(B) of the Act) who prescribed the drug -
+(iii) A Part D plan sponsor may not submit a prescription drug event (PDE) record to CMS unless it includes on the PDE record the active and valid individual NPI of the prescriber of the drug, and the prescriber is not included on the preclusion list, defined in § 423.100, for the date of service.
 
-(*1*) Is enrolled in the Medicare program in an approved status; or
+(iv)(A) A Part D sponsor or its PBM must not reject a pharmacy claim for a Part D drug under paragraph (c)(6)(i) of this section or deny a request for reimbursement under paragraph (c)(6)(ii) of this section unless the sponsor has provided the written notice to the beneficiary required by paragraph (c)(6)(iv)(B) of this section.
 
-(*2*) Has a valid opt-out affidavit on file with a Part A/B Medicare Administrative Contractor (MAC).
+(B) Upon receipt of a pharmacy claim or beneficiary request for reimbursement for a Part D drug that a Part D sponsor would otherwise be required to reject or deny in accordance with paragraph (c)(6)(i) or (ii) of this section, a Part D sponsor or its PBM must do the following:
 
-(B) Pharmacy claims for Part D drugs prescribed by an other authorized prescriber (as defined in § 423.100) are not subject to the requirements specified in paragraph (c)(6)(ii)(A) of this section.
+(*1*) Subject to all other Part D rules and plan coverage requirements, provide an advance written notice to any beneficiary who has received a prescription from a prescriber on the preclusion list as soon as possible but to ensure that the beneficiary receives the notice no later than 30 days after publication of the most recent preclusion list.
 
-(iii) Except as provided in paragraph (c)(6)(v) of this section, a Part D plan sponsor must deny, or must require its PBM to deny, a request for reimbursement from a Medicare beneficiary unless the request pertains to a Part D drug that was prescribed by -
+(*2*) Ensure that reasonable efforts are made to notify the prescriber of a beneficiary who was sent a notice under paragraph (c)(6)(iv)(B)(*1*) of this section.
 
-(A) A physician or, when permitted by applicable State law, other eligible professional (as defined in section 1848(k)(3)(B) of the Act) who is identified by name in the request and who -
+(v)(A) CMS sends written notice to the prescriber via letter of his or her inclusion on the preclusion list. The notice must contain the reason for the inclusion on the preclusion list and inform the prescriber of his or her appeal rights.
 
-(*1*) Is enrolled in Medicare in an approved status; or
+(B) A prescriber may appeal his or her inclusion on the preclusion list under this section in accordance with 42 CFR part 498.
 
-(*2*) Has a valid opt-out affidavit on file with a Part A/B MAC; or
+(vi) CMS has the discretion not to include a particular individual on (or if warranted, remove the individual from) the preclusion list should it determine that exceptional circumstances exist regarding beneficiary access to prescriptions. In making a determination as to whether such circumstances exist, CMS takes into account -
 
-(B) An other authorized prescriber (as defined in § 423.100) who is identified by name in the request.
+(A) The degree to which beneficiary access to Part D drugs would be impaired; and
 
-(iv) A Part D plan sponsor submitting a prescription drug event (PDE) to CMS must include on the PDE the active and valid individual NPI of the prescriber of the drug, who must -
-
-(A)(*1*) Be enrolled in Medicare in an approved status, or
-
-(*2*) Have a valid opt out affidavit on file with a Part A/B MAC; or
-
-(B) Be an other authorized prescriber (as defined in § 423.100).
-
-(v)(A) A Part D sponsor or its PBM must not reject a pharmacy claim for a Part D drug under paragraph (c)(6)(ii) of the section or deny a request for reimbursement under paragraph (c)(6)(iii) of this section unless the sponsor has provided the provisional coverage of the drug and written notice to the beneficiary required by paragraph (c)(6)(v)(B) of this section.
-
-(B) Upon receipt of a pharmacy claim or beneficiary request for reimbursement for a Part D drug that a Part D sponsor would otherwise be required to reject or deny in accordance with paragraphs (c)(6)(ii) or (iii) of this section, a Part D sponsor or its PBM must do the following:
-
-(*1*) Provide the beneficiary with the following, subject to all other Part D rules and plan coverage requirements:
-
-(*i*) A 3-month provisional supply of the drug (as prescribed by the prescriber and if allowed by applicable law).
-
-(*ii*) Written notice within 3 business days after adjudication of the claim or request in a form and manner specified by CMS.
-
-(*2*) Ensure that reasonable efforts are made to notify the prescriber of a beneficiary who was sent a notice under paragraph (c)(6)(v)(B)(*1*)(*ii*) of this section.
+(B) Any other evidence that CMS deems relevant to its determination.
 
 (d) *Treatment of compounded drug products.* With respect to multi-ingredient compounds, a Part D sponsor must -
 
@@ -272,4 +258,4 @@ Link to an amendment published at 83 FR 16738, April 16, 2018.
 
 (ii) For any non-Part D ingredient of the Part D compound (including drugs described under § 423.104(f)(1)(ii)(A)), the Part D sponsor's contract with the pharmacy must prohibit balance billing the beneficiary for the cost of any such ingredients.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 2888, Jan. 16, 2009; 75 FR 19816, Apr. 15, 2010; 75 FR 32860, June 10, 2010; 76 FR 21572, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 79 FR 29962, May 23, 2014; 80 FR 7963, Feb. 12, 2015; 80 FR 25966, May 6, 2015]
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 2888, Jan. 16, 2009; 75 FR 19816, Apr. 15, 2010; 75 FR 32860, June 10, 2010; 76 FR 21572, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 79 FR 29962, May 23, 2014; 80 FR 7963, Feb. 12, 2015; 80 FR 25966, May 6, 2015; 83 FR 16738, Apr. 16, 2018]

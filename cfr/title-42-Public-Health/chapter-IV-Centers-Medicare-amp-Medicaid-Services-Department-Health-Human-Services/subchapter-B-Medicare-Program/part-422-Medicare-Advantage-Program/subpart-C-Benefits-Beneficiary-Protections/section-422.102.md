@@ -1,7 +1,5 @@
 ##### § 422.102 Supplemental benefits. #####
 
-Link to an amendment published at 83 FR 16724, April 16, 2018.
-
 (a) *Mandatory supplemental benefits.* (1) Subject to CMS approval, an MA organization may require Medicare enrollees of an MA plan (other than an MSA plan) to accept or pay for services in addition to Medicare-covered services described in § 422.101.
 
 (2) If the MA organization imposes mandatory supplemental benefits, it must impose them on all Medicare beneficiaries enrolled in the MA plan.
@@ -14,7 +12,7 @@ Link to an amendment published at 83 FR 16724, April 16, 2018.
 
 (c) *Payment for supplemental services.* All supplemental benefits are paid for in full, directly by (or on behalf of) the enrollee of the MA plan.
 
-(d) *Marketing of supplemental benefits.* MA organizations may offer enrollees a group of services as one optional supplemental benefit, offer services individually, or offer a combination of groups and individual services.
+(d) *Supplemental benefits packaging.* MA organizations may offer enrollees a group of services as one optional supplemental benefit, offer services individually, or offer a combination of groups and individual services.
 
 (e) *Supplemental benefits for certain dual eligible special needs plans.* Subject to CMS approval, dual eligible special needs plans that meet a high standard of integration and minimum performance and quality-based standards may offer additional supplemental benefits, consistent with the requirements of this part, where CMS finds that the offering of such benefits could better integrate care for the dual eligible population provided that the special needs plan -
 
@@ -22,4 +20,4 @@ Link to an amendment published at 83 FR 16724, April 16, 2018.
 
 (2) Offers its enrollees such benefits without cost-sharing or additional premium charges.
 
-[65 FR 40320, June 29, 2000, as amended at 70 FR 4720, Jan. 28, 2005; 77 FR 22167, Apr. 12, 2012]
+[65 FR 40320, June 29, 2000, as amended at 70 FR 4720, Jan. 28, 2005; 77 FR 22167, Apr. 12, 2012; 83 FR 16724, Apr. 16, 2018]

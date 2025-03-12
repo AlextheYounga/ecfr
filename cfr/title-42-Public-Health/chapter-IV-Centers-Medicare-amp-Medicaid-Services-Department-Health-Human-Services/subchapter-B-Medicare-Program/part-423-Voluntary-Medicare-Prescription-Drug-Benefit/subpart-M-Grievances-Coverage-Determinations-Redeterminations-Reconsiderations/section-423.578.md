@@ -1,12 +1,10 @@
 ##### § 423.578 Exceptions process. #####
 
-Link to an amendment published at 83 FR 16751, April 16, 2018.
+(a) *Requests for exceptions to a plan's tiered cost-sharing structure.* Each Part D plan sponsor that provides prescription drug benefits for Part D drugs and manages this benefit through the use of a tiered formulary must establish and maintain reasonable and complete exceptions procedures subject to CMS' approval for this type of coverage determination. The Part D plan sponsor grants an exception whenever it determines that the requested non-preferred drug for treatment of the enrollee's condition is medically necessary, consistent with the physician's or other prescriber's statement under paragraph (a)(4) of this section.
 
-(a) *Requests for exceptions to a plan's tiered cost-sharing structure.* Each Part D plan sponsor that provides prescription drug benefits for Part D drugs and manages this benefit through the use of a tiered formulary must establish and maintain reasonable and complete exceptions procedures subject to CMS' approval for this type of coverage determination. The Part D plan sponsor grants an exception whenever it determines that the non-preferred drug for treatment of the enrollee's condition is medically necessary, consistent with the physician's or other prescriber's statement under paragraph (a)(4) of this section.
+(1) The tiering exceptions procedures must address situations where a formulary's tiering structure changes during the year and an enrollee is using a drug affected by the change.
 
-(1) The exceptions procedures must address situations where a formulary's tiering structure changes during the year and an enrollee is using a drug affected by the change.
-
-(2) The exceptions criteria of a Part D plan sponsor must include, but are not limited to -
+(2) Part D plan sponsors must establish criteria that provide for a tiering exception, consistent with paragraphs (a)(3) through (6) of this section.
 
 (i) A description of the criteria a Part D plan sponsor uses to evaluate a determination made by the enrollee's prescribing physician or other prescriber under paragraph (a)(4) of this section.
 
@@ -16,7 +14,7 @@ Link to an amendment published at 83 FR 16751, April 16, 2018.
 
 (3) An enrollee or the enrollee's prescribing physician or other prescriber may file a request for an exception.
 
-(4) A prescribing physician or other prescriber must provide an oral or written supporting statement that the preferred drug for the treatment of the enrollee's conditions -
+(4) A prescribing physician or other prescriber must provide an oral or written supporting statement that the preferred drug(s) for the treatment of the enrollee's condition -
 
 (i) Would not be as effective for the enrollee as the requested drug;
 
@@ -24,11 +22,19 @@ Link to an amendment published at 83 FR 16751, April 16, 2018.
 
 (iii) Both paragraphs (a)(4)(i) and (a)(4)(ii) of this section apply.
 
-(5) If the physician or other prescriber provides an oral supporting statement, the Part D plan sponsor may require the physician or other prescriber to subsequently provide a written supporting statement to demonstrate the medical necessity of the drug. The Part D plan sponsor may require the prescribing physician or other prescriber to provide additional supporting medical documentation as part of the written follow-up.
+(5) If the physician or other prescriber provides an oral supporting statement, the Part D plan sponsor may require the physician or other prescriber to subsequently provide a written supporting statement. The Part D plan sponsor may require the prescribing physician or other prescriber to provide additional supporting medical documentation as part of the written follow-up.
 
-(6) In no case is a Part D plan sponsor required to cover a non-preferred drug at the generic drug cost-sharing level if the plan maintains a separate tier dedicated to generic drugs.
+(6) Limitations on tiering exceptions: A Part D plan sponsor is permitted to design its tiering exceptions procedures such that an exception is not approvable in the following circumstances:
 
-(7) If a Part D plan sponsor maintains a formulary tier in which it places very high cost and unique items, such as genomic and biotech products, the sponsor may design its exception process so that very high cost or unique drugs are not eligible for a tiering exception.
+(i) To cover a brand name drug, as defined in § 423.4, at a preferred cost-sharing level that applies only to alternative drugs that are -
+
+(A) Generic drugs, for which an application is approved under section 505(j) of the Federal Food, Drug, and Cosmetic Act; or
+
+(B) Authorized generic drugs as defined in section 505(t)(3) of the Federal Food, Drug, and Cosmetic Act.
+
+(ii) To cover a biological product licensed under section 351 of the Public Health Service Act at a preferred cost-sharing level that does not contain any alternative drug(s) that are biological products.
+
+(iii) If a Part D plan sponsor maintains a specialty tier, as defined in § 423.560, the sponsor may design its exception process so that Part D drugs and biological products on the specialty tier are not eligible for a tiering exception.
 
 (b) *Request for exceptions involving a non-formulary Part D drug.* Each Part D plan sponsor that provides prescription drug benefits for Part D drugs and manages this benefit through the use of a formulary must establish and maintain exceptions procedures subject to CMS' approval for receipt of an off-formulary drug. The Part D plan sponsor must grant an exception whenever it determines that the drug is medically necessary, consistent with the physician's or other prescriber's statement under paragraph (b)(5) of this section, and that the drug would be covered but for the fact that it is an off-formulary drug. Formulary use includes the application of cost utilization tools, such as a dose restriction, including the dosage form, that causes a particular Part D drug not to be covered for the number of doses prescribed or a step therapy requirement that causes a particular Part D drug not to be covered until the requirements of the plan's coverage policy are met, or a therapeutic substitution requirement.
 
@@ -70,13 +76,17 @@ Link to an amendment published at 83 FR 16751, April 16, 2018.
 
 (2) When a Part D plan sponsor does not make a timely decision. If the Part D plan sponsor fails to make a decision on an exceptions request and provide notice of the decision within the timeframe required under § 423.568(a) or § 423.572(a), as applicable, the failure constitutes an adverse coverage determination, and the Part D plan sponsor must forward the enrollee's request to the IRE within 24 hours of the expiration of the adjudication timeframe.
 
-(3) *When a tiering exceptions request is approved.* Whenever an exceptions request made under § 423.578(a) is approved, the Part D plan sponsor must provide coverage for the approved prescription drug at the cost-sharing level that applies for preferred drugs, and may not require the enrollee to request approval for a refill, or a new prescription to continue using the Part D prescription drug after the refills for the initial prescription are exhausted, as long as -
+(3) *When a tiering exceptions request is approved.* Whenever an exceptions request made under paragraph (a) of this section is approved -
 
-(i) The enrollee's prescribing physician or other prescriber continues to prescribe the drug.
+(i) The Part D plan sponsor may not require the enrollee to request approval for a refill, or a new prescription to continue using the Part D prescription drug after the refills for the initial prescription are exhausted, as long as -
 
-(ii) The drug continues to be considered safe for treating the enrollee's disease or medical condition; and
+(A) The enrollee's prescribing physician or other prescriber continues to prescribe the drug;
 
-(iii) The enrollment period has not expired. If an enrollee renews his or her membership after the plan year, the plan may choose to continue coverage into the subsequent plan year.
+(B) The drug continues to be considered safe for treating the enrollee's disease or medical condition; and
+
+(C) The enrollment period has not expired. If an enrollee renews his or her membership after the plan year, the plan may choose to continue coverage into the subsequent plan year.
+
+(ii) The Part D plan sponsor must provide coverage for the approved prescription drug at the cost-sharing level that applies to preferred alternative drugs. If the plan's formulary contains alternative drugs on multiple tiers, cost-sharing must be assigned at the lowest applicable tier, under the requirements in paragraph (a) of this section.
 
 (4) *When a non-formulary exceptions request is approved.* Whenever an exceptions request made under § 423.578(b) is approved -
 

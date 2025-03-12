@@ -1,7 +1,5 @@
 ##### § 395.15 Automatic on-board recording devices. #####
 
-Link to an amendment published at 83 FR 16227, Apr. 16, 2018.Link to a correction published at 83 FR 24228, May 25, 2018.
-
 (a) *Authority to use.* (1) A motor carrier that installs and requires a driver to use an automatic on-board recording device in accordance with this section before December 18, 2017 may continue to use the compliant automatic on-board recording device no later than December 16, 2019. Otherwise, the authority to use automatic on-board recording devices under this section ends on December 18, 2017.
 
 (2) In accordance with paragraph (a)(1) of this section, a motor carrier may require a driver to use an automatic on-board recording device to record the driver's hours of service.
@@ -10,13 +8,13 @@ Link to an amendment published at 83 FR 16227, Apr. 16, 2018.Link to a correctio
 
 (b) *Information requirements.* (1) Automatic on-board recording devices shall produce, upon demand, a driver's hours of service chart, electronic display, or printout showing the time and sequence of duty status changes including the drivers' starting time at the beginning of each day.
 
-(2) The device shall provide a means whereby authorized Federal, State, or local officials can immediately check the status of a driver's hours of service. This information may be used in conjunction with handwritten or printed records of duty status, for the previous 7 days.
+(2) The device shall provide a means whereby authorized Federal, State, or local officials can immediately check the status of a driver's hours of service. This information may be used in conjunction with records of duty status maintained in other media, for the previous 7 days.
 
 (3) Support systems used in conjunction with on-board recorders at a driver's home terminal or the motor carrier's principal place of business must be capable of providing authorized Federal, State or local officials with summaries of an individual driver's hours of service records, including the information specified in § 395.8(d) of this part. The support systems must also provide information concerning on-board system sensor failures and identification of edited data. Such support systems should meet the information interchange requirements of the American National Standard Code for Information Interchange (ANSCII) (EIARS-232/CCITT V.24 port (National Bureau of Standards “Code for Information Interchange,” FIPS PUB 1-1)).
 
-(4) The driver shall have in his/her possession records of duty status for the previous 7 consecutive days available for inspection while on duty. These records shall consist of information stored in and retrievable from the automatic on-board recording device, handwitten records, computer generated records, or any combination thereof.
+(4) The driver shall have in his/her possession records of duty status for the previous 7 consecutive days available for inspection while on duty. These records shall consist of information stored in and retrievable from the automatic on-board recording device, other written records, or any combination thereof.
 
-(5) All hard copies of the driver's record of duty status must be signed by the driver. The driver's signature certifies that the information contained thereon is true and correct.
+(5) All copies of other written records of duty status referenced in paragraph (b)(4) of this section must be signed by the driver. The driver's signature certifies that the information contained thereon is true and correct.
 
 (c) The duty status and additional information shall be recorded as follows:
 
@@ -50,9 +48,9 @@ Link to an amendment published at 83 FR 16227, Apr. 16, 2018.Link to a correctio
 
 (2) Motor carriers are permitted to use location codes in lieu of the requirements of paragraph (d)(1) of this section. A list of such codes showing all possible location identifiers shall be carried in the cab of the commercial motor vehicle and available at the motor carrier's principal place of business. Such lists shall be made available to an enforcement official on request.
 
-(e) *Entries made by driver only.* If a driver is required to make written entries relating to the driver's duty status, such entries must be legible and in the driver's own handwriting.
+(e) *Entries made by driver only.* If a driver is required to make written entries relating to the driver's duty status, such entries must be made by the driver and be legible.
 
-(f) *Reconstruction of records of duty status.* Drivers are required to note any failure of automatic on-board recording devices, and to reconstruct the driver's record of duty status for the current day, and the past 7 days, less any days for which the drivers have records, and to continue to prepare a handwritten record of all subsequent duty status until the device is again operational.
+(f) *Reconstruction of records of duty status.* Drivers are required to note any failure of automatic on-board recording devices, and to reconstruct the driver's record of duty status for the current day and the past 7 days, less any days for which the drivers have records, and to continue to prepare a written record of all subsequent duty status until the device is again operational.
 
 (g) *On-board information.* Each commercial motor vehicle must have on-board the commercial motor vehicle an information packet containing the following items:
 
@@ -60,13 +58,13 @@ Link to an amendment published at 83 FR 16227, Apr. 16, 2018.Link to a correctio
 
 (2) A supply of blank driver's records of duty status graph-grids sufficient to record the driver's duty status and other related information for the duration of the current trip.
 
-(h) *Submission of driver's record of duty status.* (1) The driver shall submit, electronically or by mail, to the employing motor carrier, each record of the driver's duty status within 13 days following the completion of each record;
+(h) *Submission of driver's record of duty status.* (1) The driver shall submit to the employing motor carrier, each record of the driver's duty status within 13 days following the completion of each record;
 
 (2) The driver shall review and verify that all entries are accurate prior to submission to the employing motor carrier; and
 
 (3) The submission of the record of duty status certifies that all entries made by the driver are true and correct.
 
-(i) *Performance of recorders.* Motor carriers that use automatic on-board recording devices for recording their drivers' records of duty status in lieu of the handwritten record shall ensure that:
+(i) *Performance of recorders.* Motor carriers that use automatic on-board recording devices for recording their drivers' records of duty status shall ensure that:
 
 (1) A certificate is obtained from the manufacturer certifying that the design of the automatic on-board recorder has been sufficiently tested to meet the requirements of this section and under the conditions it will be used;
 
@@ -74,7 +72,7 @@ Link to an amendment published at 83 FR 16227, Apr. 16, 2018.Link to a correctio
 
 (3) The automatic on-board recording device and associated support systems are, to the maximum extent practicable, tamperproof and do not permit altering of the information collected concerning the driver's hours of service;
 
-(4) The automatic on-board recording device warns the driver visually and/or audibly that the device has ceased to function. Devices installed and operational as of October 31, 1988, and authorized to be used in lieu of the handwritten record of duty status by the FMCSA are exempted from this requirement.
+(4) The automatic on-board recording device warns the driver visually and/or audibly that the device has ceased to function;
 
 (5) Automatic on-board recording devices with electronic displays shall have the capability of displaying the following:
 
@@ -92,7 +90,7 @@ Link to an amendment published at 83 FR 16227, Apr. 16, 2018.Link to a correctio
 
 (6) The on-board recorder is capable of recording separately each driver's duty status when there is a multiple-driver operation;
 
-(7) The on-board recording device/system identifies sensor failures and edited data when reproduced in printed form. Devices installed and operational as of October 31, 1988, and authorized to be used in lieu of the handwritten record of duty status by the FMCSA are exempted from this requirement.
+(7) The on-board recording device/system identifies sensor failures and edited data;
 
 (8) The on-board recording device is maintained and recalibrated in accordance with the manufacturer's specifications;
 
@@ -102,7 +100,7 @@ Link to an amendment published at 83 FR 16227, Apr. 16, 2018.Link to a correctio
 
 (j) *Rescission of authority.* (1) The FMCSA may, after notice and opportunity to reply, order any motor carrier or driver to comply with the requirements of § 395.8 of this part.
 
-(2) The FMCSA may issue such an order if the FMCSA has determined that -
+(2) The FMCSA may issue such an order if the FMCSA has determined that—
 
 (i) The motor carrier has been issued a conditional or unsatisfactory safety rating by the FMCSA;
 
@@ -112,4 +110,4 @@ Link to an amendment published at 83 FR 16227, Apr. 16, 2018.Link to a correctio
 
 (iv) The motor carrier or driver has tampered with or otherwise abused the automatic on-board recording device on any commercial motor vehicle.
 
-[53 FR 38670, Sept. 30, 1988, as amended at 60 FR 38748, July 28, 1995; 68 FR 22516, Apr. 28, 2003; 70 FR 50073, Aug. 25, 2005; 75 FR 17245, Apr. 5, 2010; 77 FR 28451, May 14, 2012; 80 FR 78385, Dec. 16, 2015]
+[53 FR 38670, Sept. 30, 1988, as amended at 60 FR 38748, July 28, 1995; 68 FR 22516, Apr. 28, 2003; 70 FR 50073, Aug. 25, 2005; 75 FR 17245, Apr. 5, 2010; 77 FR 28451, May 14, 2012; 80 FR 78385, Dec. 16, 2015; 83 FR 16227, Apr. 16, 2018; 83 FR 24228, May 25, 2018]

@@ -1,8 +1,6 @@
 ##### § 422.2490 Release of Part C MLR data. #####
 
-Link to an amendment published at 83 FR 16736, April 16, 2018.
-
-(a) *Terminology.* Subject to the exclusions in paragraph (b) of this section, Part C MLR data consists of the information contained in reports submitted under § 422.2460.
+(a) *Terminology.* Subject to the exclusions in paragraph (b) of this section, Part C MLR data consists of the information submitted under § 422.2460.
 
 (b) *Exclusions from Part C MLR data.* For the purpose of this section, the following items are excluded from Part C MLR data:
 
@@ -18,4 +16,4 @@ Link to an amendment published at 83 FR 16736, April 16, 2018.
 
 (c) *Data release.* CMS releases to the public Part C MLR data, for each contract for each contract year, no earlier than 18 months after the end of the applicable contract year.
 
-[81 FR 80557, Nov. 15, 2016]
+[81 FR 80557, Nov. 15, 2016, as amended at 83 FR 16736, Apr. 16, 2018]

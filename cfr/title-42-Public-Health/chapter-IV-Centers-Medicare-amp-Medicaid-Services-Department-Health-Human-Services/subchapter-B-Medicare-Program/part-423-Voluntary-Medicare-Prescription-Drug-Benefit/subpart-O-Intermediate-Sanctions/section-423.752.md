@@ -1,7 +1,5 @@
 ##### § 423.752 Basis for imposing intermediate sanctions and civil money penalties. #####
 
-Link to an amendment published at 83 FR 16753, April 16, 2018.
-
 (a) *All intermediate sanctions.* For the violations listed in this paragraph (a), CMS may impose one or more of the sanctions specified in § 423.750(a) of this subpart on any Part D plan sponsor with a contract. The Part D plan sponsor may also be subject to other remedies authorized under law.
 
 (1) Fails substantially to provide medically necessary items and services that are required (under law or under the contract) to be provided to an individual covered under the contract, if the failure has adversely affected (or has the substantial likelihood of adversely affecting) the individual.
@@ -12,7 +10,7 @@ Link to an amendment published at 83 FR 16753, April 16, 2018.
 
 (4) Engages in any practice that would reasonably be expected to have the effect of denying or discouraging enrollment (except as permitted by this part) by eligible individuals with the organization whose medical condition or history indicates a need for substantial future medical services.
 
-(5) Misrepresents or falsifies information that it furnishes -
+(5) Misrepresents or falsifies information that it furnishes—
 
 (i) To CMS; or
 
@@ -32,11 +30,11 @@ Link to an amendment published at 83 FR 16753, April 16, 2018.
 
 (8) Transfers an individual enrolled under this part from one plan to another without the prior consent of the individual or the designee of the individual or solely for the purpose of earning a commission.
 
-(9) Fails to comply with marketing restrictions described in subpart V or applicable implementing guidance.
+(9) Fails to comply with communication restrictions described in subpart V of this part or applicable implementing guidance.
 
 (10) Employs or contracts with any individual, agent, provider, supplier or entity who engages in the conduct described in paragraphs (a)(1) through (9) of this section.
 
-(b) *Suspension of enrollment and marketing.* If CMS makes a determination that could lead to a contract termination under 423.509(a), CMS may impose the intermediate sanctions at 423.750(a)(1) and (a)(3).
+(b) *Suspension of enrollment and communications.* If CMS makes a determination that could lead to a contract termination under § 423.509(a), CMS may impose the intermediate sanctions at § 423.750(a)(1) and (3).
 
 (c) *Civil money penalties* (1) *CMS.* In addition to, or in place of, any intermediate sanctions, CMS may impose civil money penalties in the amounts specified in either of the following:
 
@@ -50,4 +48,4 @@ Link to an amendment published at 83 FR 16753, April 16, 2018.
 
 (ii) Determinations made pursuant to § 422.510(a)(4)(i) of this chapter.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 72 FR 68734, Dec. 5, 2007; 75 FR 19825, Apr. 15, 2010; 79 FR 29965, May 23, 2014]
+[70 FR 4525, Jan. 28, 2005, as amended at 72 FR 68734, Dec. 5, 2007; 75 FR 19825, Apr. 15, 2010; 79 FR 29965, May 23, 2014; 83 FR 16753, Apr. 16, 2018]

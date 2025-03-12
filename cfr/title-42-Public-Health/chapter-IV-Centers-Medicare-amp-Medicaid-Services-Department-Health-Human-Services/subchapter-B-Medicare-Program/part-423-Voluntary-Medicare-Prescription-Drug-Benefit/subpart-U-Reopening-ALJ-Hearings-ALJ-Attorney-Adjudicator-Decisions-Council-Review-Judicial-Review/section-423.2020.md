@@ -1,7 +1,5 @@
 ##### § 423.2020 Time and place for a hearing before an ALJ. #####
 
-Link to an amendment published at 83 FR 16754, April 16, 2018.
-
 (a) *General.* Consistent with § 423.1972(b), the ALJ sets the time and place for the hearing, and may change the time and place, if necessary.
 
 (b) *Determining how appearances are made.* (1) *Appearances by unrepresented enrollees.* The ALJ will direct that the appearance of an unrepresented enrollee who filed a request for hearing be conducted by video-teleconferencing if the ALJ finds that video-teleconferencing technology is available to conduct the appearance, unless the ALJ finds good cause for an in-person appearance.
@@ -24,7 +22,7 @@ Link to an amendment published at 83 FR 16754, April 16, 2018.
 
 (B) Special or extraordinary circumstances exist.
 
-(c) *Notice of hearing.* (1) A notice of hearing is sent to the enrollee, the Part D plan sponsor that issued the coverage determination, and the IRE that issued the reconsideration, advising them of the proposed time and place of the hearing.
+(c) *Notice of hearing.* (1) A notice of hearing is sent to the enrollee, the Part D plan sponsor that issued the coverage determination or at-risk determination, and the IRE that issued the reconsideration, advising them of the proposed time and place of the hearing.
 
 (2) The notice of hearing will require the enrollee to reply to the notice by:
 
@@ -98,4 +96,4 @@ Link to an amendment published at 83 FR 16754, April 16, 2018.
 
 (j) *Amended notice of hearing.* If the ALJ changes or will change the time and/or place of the hearing, an amended notice of hearing must be sent to the enrollee and CMS, the IRE, and/or the Part D plan sponsor in accordance with § 423.2022(a)(2).
 
-[74 FR 65363, Dec. 9, 2009, as amended at 82 FR 5130, Jan. 17, 2017]
+[74 FR 65363, Dec. 9, 2009, as amended at 82 FR 5130, Jan. 17, 2017; 83 FR 16754, Apr. 16, 2018]

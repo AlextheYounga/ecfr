@@ -1,12 +1,10 @@
 ##### § 387.31 Financial responsibility required. #####
 
-Link to an amendment published at 83 FR 16226, Apr. 16, 2018.
-
 (a) No motor carrier shall operate a motor vehicle transporting passengers until the motor carrier has obtained and has in effect the minimum levels of financial responsibility as set forth in § 387.33 of this subpart.
 
 (b) Policies of insurance, surety bonds, and endorsements required under this section shall remain in effect continuously until terminated.
 
-(1) Cancellation may be effected by the insurer or the insured motor carrier giving 35 days notice in writing to the other. The 35 days notice shall commence to run from the date the notice is mailed. Proof of mailing shall be sufficient proof of notice.
+(1) Cancellation may be effected by the insurer or the insured motor carrier giving 35 days' notice in writing to the other. The 35 days' notice shall commence to run from the date the notice is transmitted. Proof of transmission shall be sufficient proof of notice.
 
 (2) *Exception.* Policies of insurance and surety bonds may be obtained for a finite period of time to cover any lapse in continuous compliance.
 
@@ -20,7 +18,7 @@ Mexican motor carriers insured under this exception are also exempt from the not
 
 (c) Policies of insurance and surety bonds required under this section may be replaced by other policies of insurance or surety bonds. The liability of retiring insurer or surety, as to events after the termination date, shall be considered as having terminated on the effective date of the replacement policy of insurance or surety bond or at the end or the 35 day cancellation period required in paragraph (b) of this section, whichever is sooner.
 
-(d) Proof of the required financial responsibility shall be maintained at the motor carrier's principal place of business. The proof shall consist of -
+(d) Proof of the required financial responsibility shall be maintained at the motor carrier's principal place of business. The proof shall consist of—
 
 (1) “Endorsement(s) for Motor Carriers of Passengers Policies of Insurance for Public Liability Under Section 18 of the Bus Regulatory Reform Act of 1982” (Form MCS-90B) issued by an insurer(s); or
 
@@ -34,4 +32,4 @@ Mexican motor carriers insured under this exception are also exempt from the not
 
 (g) Any motor vehicle in which there is no evidence of financial responsibility required by paragraph (f) of this section shall be denied entry into the United States.
 
-[48 FR 52683, Nov. 21, 1983, as amended at 50 FR 7062, Feb. 20, 1985; 54 FR 49092, Nov. 29, 1989; 60 FR 38743, July 28, 1995; 73 FR 76496, Dec. 16, 2008]
+[48 FR 52683, Nov. 21, 1983, as amended at 50 FR 7062, Feb. 20, 1985; 54 FR 49092, Nov. 29, 1989; 60 FR 38743, July 28, 1995; 73 FR 76496, Dec. 16, 2008; 83 FR 16226, Apr. 16, 2018]

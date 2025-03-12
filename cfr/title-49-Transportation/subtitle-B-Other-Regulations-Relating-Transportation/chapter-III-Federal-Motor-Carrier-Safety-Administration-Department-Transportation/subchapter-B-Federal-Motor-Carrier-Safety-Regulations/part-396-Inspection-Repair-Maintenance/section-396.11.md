@@ -1,7 +1,5 @@
 ##### § 396.11 Driver vehicle inspection report(s). #####
 
-Link to an amendment published at 83 FR 16227, Apr. 16, 2018.
-
 (a) *Equipment provided by motor carrier.* (1) *Report required.* Every motor carrier shall require its drivers to report, and every driver shall prepare a report in writing at the completion of each day's work on each vehicle operated, except for intermodal equipment tendered by an intermodal equipment provider. The report shall cover at least the following parts and accessories:
 
 (i) Service brakes including trailer brake connections;
@@ -32,9 +30,9 @@ Link to an amendment published at 83 FR 16227, Apr. 16, 2018.
 
 (3) *Corrective action.* (i) Prior to requiring or permitting a driver to operate a vehicle, every motor carrier or its agent shall repair any defect or deficiency listed on the driver vehicle inspection report which would be likely to affect the safety of operation of the vehicle.
 
-(ii) Every motor carrier or its agent shall certify on the original driver vehicle inspection report which lists any defect or deficiency that the defect or deficiency has been repaired or that repair is unnecessary before the vehicle is operated again.
+(ii) Every motor carrier or its agent shall certify on the driver vehicle inspection report which lists any defect or deficiency that the defect or deficiency has been repaired or that repair is unnecessary before the vehicle is operated again.
 
-(4) *Retention period for reports.* Every motor carrier shall maintain the original driver vehicle inspection report, the certification of repairs, and the certification of the driver's review for three months from the date the written report was prepared.
+(4) *Retention period for reports.* Every motor carrier shall maintain the driver vehicle inspection report, the certification of repairs, and the certification of the driver's review for three months from the date the written report was prepared.
 
 (5) *Exceptions.* The rules in this section shall not apply to a private motor carrier of passengers (nonbusiness), a driveaway-towaway operation, or any motor carrier operating only one commercial motor vehicle.
 
@@ -76,6 +74,6 @@ Link to an amendment published at 83 FR 16227, Apr. 16, 2018.
 
 (ii) Each intermodal equipment provider or its agent must certify on the original driver's report which lists any damage, defects, or deficiencies of the intermodal equipment that the reported damage, defects, or deficiencies have been repaired, or that repair is unnecessary, before the vehicle is operated again.
 
-(4) *Retention period for reports.* Each intermodal equipment provider must maintain all documentation required by this section, including the original driver report and the certification of repairs on all intermodal equipment, for a period of three months from the date that a motor carrier or its driver submits the report to the intermodal equipment provider or its agent.
+(4) *Retention period for reports.* Each intermodal equipment provider must maintain all documentation required by this section, including the driver report and the certification of repairs on all intermodal equipment, for a period of three months from the date that a motor carrier or its driver submits the report to the intermodal equipment provider or its agent.
 
-[44 FR 38526, July 2, 1979, as amended at 45 FR 46425, July 10, 1980; 53 FR 18058, May 19, 1988; 59 FR 8753, Feb. 23, 1994; 63 FR 33279, June 18, 1998; 73 FR 76824, Dec. 17, 2008; 74 FR 68709, Dec. 29, 2009; 77 FR 34852, June 12, 2012; 77 FR 59828, Oct. 1, 2012; 78 FR 58485, Sept. 24, 2013; 79 FR 75449, Dec. 18, 2014]
+[44 FR 38526, July 2, 1979, as amended at 45 FR 46425, July 10, 1980; 53 FR 18058, May 19, 1988; 59 FR 8753, Feb. 23, 1994; 63 FR 33279, June 18, 1998; 73 FR 76824, Dec. 17, 2008; 74 FR 68709, Dec. 29, 2009; 77 FR 34852, June 12, 2012; 77 FR 59828, Oct. 1, 2012; 78 FR 58485, Sept. 24, 2013; 79 FR 75449, Dec. 18, 2014; 83 FR 16227, Apr. 16, 2018]

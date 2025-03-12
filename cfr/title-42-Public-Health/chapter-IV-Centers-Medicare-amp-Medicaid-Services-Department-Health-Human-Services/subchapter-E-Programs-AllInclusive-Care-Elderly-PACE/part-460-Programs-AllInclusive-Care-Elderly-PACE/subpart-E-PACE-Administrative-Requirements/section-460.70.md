@@ -1,7 +1,5 @@
 ##### § 460.70 Contracted services. #####
 
-Link to an amendment published at 83 FR 16756, Apr. 16, 2018.
-
 (a) *General rule.* The PACE organization must have a written contract with each outside organization, agency, or individual that furnishes administrative or care-related services not furnished directly by the PACE organization except for emergency services as described in § 460.100.
 
 (b) *Contract requirements.* A contract between a PACE organization and a contractor must meet the following requirements:
@@ -13,8 +11,6 @@ Link to an amendment published at 83 FR 16756, Apr. 16, 2018.
 (ii) A practitioner or supplier must meet Medicare or Medicaid requirements applicable to the services it furnishes.
 
 (iii) A contractor must comply with the requirements of this part with respect to service delivery, participant rights, and quality assessment and performance improvement activities.
-
-(iv) Providers or suppliers that are types of individuals or entities that can enroll in Medicare in accordance with section 1861 of the Act, must be enrolled in Medicare and be in an approved status in Medicare in order to provide health care items or services to a PACE participant who receives his or her Medicare benefit through a PACE organization.
 
 (2) A contractor must be accessible to participants, located either within or near the PACE organization's service area.
 
@@ -56,4 +52,4 @@ Link to an amendment published at 83 FR 16756, Apr. 16, 2018.
 
 (2) The PACE organization retains responsibility for all participants and may only contract for the PACE Center services identified in § 460.98(d).
 
-[64 FR 66279, Nov. 24, 1999, as amended at 67 FR 61505, Oct. 1, 2002; 71 FR 71335, Dec. 8, 2006; 81 FR 80561, Nov. 15, 2016]
+[64 FR 66279, Nov. 24, 1999, as amended at 67 FR 61505, Oct. 1, 2002; 71 FR 71335, Dec. 8, 2006; 81 FR 80561, Nov. 15, 2016; 83 FR 16756, Apr. 16, 2018]

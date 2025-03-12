@@ -1,14 +1,12 @@
 ##### § 423.2046 Notice of an ALJ or attorney adjudicator decision. #####
 
-Link to an amendment published at 83 FR 16754, April 16, 2018.
-
 (a) *Decisions on requests for hearing* - (1) *General rule.* Unless the ALJ or attorney adjudicator dismisses or remands the request for hearing, the ALJ or attorney adjudicator will issue a written decision that gives the findings of fact, conclusions of law, and the reasons for the decision.
 
 (i) The decision must be based on evidence offered at the hearing or otherwise admitted into the record, and shall include independent findings and conclusions.
 
 (ii) A copy of the decision should be mailed or otherwise transmitted to the enrollee at his or her last known address.
 
-(iii) A copy of the written decision should also be provided to the IRE that issued the reconsideration determination, and to the Part D plan sponsor that issued the coverage determination.
+(iii) A copy of the written decision should also be provided to the IRE that issued the reconsideration determination, and to the Part D plan sponsor that issued the coverage determination or at-risk determination.
 
 (2) *Content of the notice.* The decision must be provided in a manner calculated to be understood by an enrollee and must include -
 

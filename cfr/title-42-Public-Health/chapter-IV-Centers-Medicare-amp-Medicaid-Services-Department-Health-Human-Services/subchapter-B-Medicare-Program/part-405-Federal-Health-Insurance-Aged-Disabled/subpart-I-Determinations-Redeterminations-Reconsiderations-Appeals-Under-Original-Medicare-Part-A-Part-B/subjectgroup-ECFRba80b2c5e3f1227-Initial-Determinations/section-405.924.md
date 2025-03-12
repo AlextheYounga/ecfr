@@ -1,7 +1,5 @@
 ##### § 405.924 Actions that are initial determinations. #####
 
-Link to an amendment published at 83 FR 16721, Apr. 16, 2018.
-
 (a) *Applications and entitlement of individuals.* SSA makes initial determinations and processes reconsiderations with respect to an individual on the following:
 
 (1) A determination with respect to entitlement to hospital insurance or supplementary medical insurance under Medicare.
@@ -11,6 +9,8 @@ Link to an amendment published at 83 FR 16721, Apr. 16, 2018.
 (3) A denial of a request for withdrawal of an application for hospital or supplementary medical insurance, or a denial of a request for cancellation of a request for withdrawal.
 
 (4) A determination as to whether an individual, previously determined as entitled to hospital or supplementary medical insurance, is no longer entitled to those benefits, including a determination based on nonpayment of premiums.
+
+(5) An adjustment of premium for hospital or supplementary medical insurance as outlined in §§ 406.32(d), 408.20(e), and 408.22 of this chapter, and 20 CFR 418.1301.
 
 (b) *Claims made by or on behalf of beneficiaries.* The Medicare contractor makes initial determinations regarding claims for benefits under Medicare Part A and Part B. A finding that a request for payment or other submission does not meet the requirements for a Medicare claim as defined in § 424.32 of this chapter, is not considered an initial determination. An initial determination for purposes of this subpart includes, but is not limited to, determinations with respect to any of the following:
 
@@ -36,7 +36,7 @@ Link to an amendment published at 83 FR 16721, Apr. 16, 2018.
 
 (11) Any other issues having a present or potential effect on the amount of benefits to be paid under Part A or Part B of Medicare, including a determination as to whether there was an underpayment of benefits paid under Part A or Part B, and if so, the amount thereof.
 
-(12) If a waiver of adjustment or recovery under sections 1870(b) and (c) of the Act is appropriate -
+(12) If a waiver of adjustment or recovery under sections 1870(b) and (c) of the Act is appropriate—
 
 (i) When an overpayment of hospital insurance benefits or supplementary medical insurance benefits (including a payment under section 1814(e) of the Act) was made for an individual; or
 
@@ -56,4 +56,4 @@ Link to an amendment published at 83 FR 16721, Apr. 16, 2018.
 
 (2) A provider can discharge an individual from the provider of services.
 
-[70 FR 11472, Mar. 8, 2005, as amended at 74 FR 65333, Dec. 9, 2009; 79 FR 68001, Nov. 13, 2014; 80 FR 10618, Feb. 27, 2015]
+[70 FR 11472, Mar. 8, 2005, as amended at 74 FR 65333, Dec. 9, 2009; 79 FR 68001, Nov. 13, 2014; 80 FR 10618, Feb. 27, 2015; 83 FR 16721, Apr. 16, 2018]

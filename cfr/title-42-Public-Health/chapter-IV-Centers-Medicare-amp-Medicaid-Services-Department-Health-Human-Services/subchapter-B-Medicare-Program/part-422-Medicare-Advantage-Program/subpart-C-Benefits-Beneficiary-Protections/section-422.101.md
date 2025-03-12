@@ -1,7 +1,5 @@
 ##### § 422.101 Requirements relating to basic benefits. #####
 
-Link to an amendment published at 83 FR 16724, April 16, 2018.
-
 Except as specified in § 422.318 (for entitlement that begins or ends during a hospital stay) and § 422.320 (with respect to hospice care), each MA organization must meet the following requirements:
 
 (a) Provide coverage of, by furnishing, arranging for, or making payment for, all services that are covered by Part A and Part B of Medicare (if the enrollee is entitled to benefits under both parts) or by Medicare Part B (if entitled only under Part B) and that are available to beneficiaries residing in the plan's service area. Services may be provided outside of the service area of the plan if the services are accessible and available to enrollees.
@@ -36,9 +34,13 @@ Except as specified in § 422.318 (for entitlement that begins or ends during a 
 
 (iv) Must waive all Medicare-covered preventive services (as defined in § 410.152(l)) from the single deductible described paragraph (d)(1)(i) of this section.
 
-(2) *Catastrophic limit.* MA regional plans are required to establish a catastrophic limit on beneficiary out-of-pocket expenditures for in-network benefits under the Original Medicare fee-for-service program (Part A and Part B benefits) that is no greater than the annual limit set by CMS.
+(2) *Catastrophic limit.* MA regional plans are required to establish a catastrophic limit on beneficiary out-of-pocket expenditures for in-network benefits under the Medicare Fee-for-Service program (Part A and Part B benefits) that is no greater than the annual limit set by CMS using Medicare Fee-for-Service data to establish appropriate out-of-pocket limits. Beginning no earlier than January 1, 2020, CMS will set the annual limit to strike a balance between limiting maximum beneficiary out of pocket costs and potential changes in premium, benefits, and cost sharing, with the goal of ensuring beneficiary access to affordable and sustainable benefit packages.
 
-(3) *Total catastrophic limit.* MA regional plans are required to establish a total catastrophic limit on beneficiary out-of-pocket expenditures for in-network and out-of-network benefits under the Original Medicare fee-for-service program. This total out-of-pocket catastrophic limit, which would apply to both in-network and out-of-network benefits under Original Medicare, may be higher than the in-network catastrophic limit in paragraph (d)(2) of this section, but may not increase the limit described in paragraph (d)(2) of this section and may be no greater than the annual limit set by CMS.
+(3) *Total catastrophic limit.* MA regional plans are required to establish a total catastrophic limit on beneficiary out-of-pocket expenditures for in-network and out-of-network benefits under the Medicare Fee-for-Service program (Part A and Part B benefits).
+
+(i) This total out-of-pocket catastrophic limit, which would apply to both in-network and out-of-network benefits under Medicare Fee-for-Service, may be higher than the in-network catastrophic limit in paragraph (d)(2) of this section, but may not increase the limit described in paragraph (d)(2) of this section and may be no greater than the annual limit set by CMS using Medicare Fee-for-Service data.
+
+(ii) CMS sets the annual limit to strike a balance between limiting maximum beneficiary out of pocket costs and potential changes in premium, benefits, and cost sharing, with the goal of ensuring beneficiary access to affordable and sustainable benefit packages.
 
 (4) *Tracking of deductible and catastrophic limits and notification.* MA regional plans are required to track the deductible (if any) and catastrophic limits in paragraphs (d)(1) through (d)(3) of this section based on incurred out-of-pocket beneficiary costs for original Medicare covered services, and are also required to notify members and health care providers when the deductible (if any) or a limit has been reached.
 
@@ -68,4 +70,4 @@ Except as specified in § 422.318 (for entitlement that begins or ends during a 
 
 (vi) All MAOs wishing to offer or continue to offer a SNP will be required to be approved by the National Committee for Quality Assurance (NCQA) effective January 1, 2012 and subsequent years. All SNPs must submit their model of care (MOC) to CMS for NCQA evaluation and approval in accordance with CMS guidance.
 
-[65 FR 40319, June 29, 2000, as amended at 68 FR 50856, Aug. 22, 2003; 70 FR 4720, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 73 FR 54248, Sept. 18, 2008; 74 FR 1541, Jan. 12, 2009; 76 FR 21562, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22167, Apr. 12, 2012]
+[65 FR 40319, June 29, 2000, as amended at 68 FR 50856, Aug. 22, 2003; 70 FR 4720, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 73 FR 54248, Sept. 18, 2008; 74 FR 1541, Jan. 12, 2009; 76 FR 21562, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22167, Apr. 12, 2012; 83 FR 16724, Apr. 16, 2018]

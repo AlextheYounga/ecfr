@@ -1,14 +1,12 @@
 ##### § 423.128 Dissemination of Part D plan information. #####
 
-Link to an amendment published at 83 FR 16739, April 16, 2018.
-
 (a) *Detailed description.* A Part D sponsor must disclose the information specified in paragraph (b) of this section in the manner specified by CMS -
 
 (1) To each enrollee of a Part D plan offered by the Part D sponsor under this part;
 
 (2) In a clear, accurate, and standardized form; and
 
-(3) At the time of enrollment and at least annually thereafter, 15 days before the annual coordinated election period.
+(3) At the time of enrollment and at least annually thereafter, by the first day of the annual coordinated election period.
 
 (b) *Content of Part D plan description.* The Part D plan description must include the following information about the qualified prescription drug coverage offered under the Part D plan -
 
@@ -112,7 +110,7 @@ Link to an amendment published at 83 FR 16739, April 16, 2018.
 
 (ii) Includes a current formulary for its Part D plan, updated at least monthly.
 
-(iii) Provides current and prospective Part D enrollees with at least 60 days notice regarding the removal or change in the preferred or tiered cost-sharing status of a Part D drug on its Part D plan's formulary.
+(iii) Provides current and prospective Part D enrollees with notice that is timely under § 423.120(b)(5) regarding any removal or change in the preferred or tiered cost-sharing status of a Part D drug on its Part D plan's formulary.
 
 (3) The provision of information in writing, upon request.
 
@@ -146,4 +144,4 @@ Link to an amendment published at 83 FR 16739, April 16, 2018.
 
 (3) Provide notice of all other changes in accordance with notice requirements as specified in this part.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 54222, Sept. 18, 2008; 74 FR 1544, Jan. 12, 2009; 75 FR 19818, Apr. 15, 2010; 76 FR 21573, Apr. 15, 2011; 80 FR 7963, Feb. 12, 2015]
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 54222, Sept. 18, 2008; 74 FR 1544, Jan. 12, 2009; 75 FR 19818, Apr. 15, 2010; 76 FR 21573, Apr. 15, 2011; 80 FR 7963, Feb. 12, 2015; 83 FR 16739, Apr. 16, 2018]

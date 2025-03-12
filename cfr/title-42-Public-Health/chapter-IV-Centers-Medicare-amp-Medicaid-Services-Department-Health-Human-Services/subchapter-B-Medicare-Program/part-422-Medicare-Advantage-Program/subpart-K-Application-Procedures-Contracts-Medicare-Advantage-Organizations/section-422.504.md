@@ -1,10 +1,8 @@
 ##### § 422.504 Contract provisions. #####
 
-Link to an amendment published at 83 FR 16733, April 16, 2018.
-
 The contract between the MA organization and CMS must contain the following provisions:
 
-(a) *Agreement to comply with regulations and instructions.* The MA organization agrees to comply with all the applicable requirements and conditions set forth in this part and in general instructions. An MA organization's compliance with paragraphs (a)(1) through (a)(13) of this section is material to performance of the contract. The MA organization agrees -
+(a) *Agreement to comply with regulations and instructions.* The MA organization agrees to comply with all the applicable requirements and conditions set forth in this part and in general instructions. Compliance with the terms of this paragraph (a) is material to the performance of the MA contract. The MA organization agrees -
 
 (1) To accept new enrollments, make enrollments effective, process voluntary disenrollments, and limit involuntary disenrollments, as provided in subpart B of this part.
 
@@ -22,7 +20,7 @@ The contract between the MA organization and CMS must contain the following prov
 
 (5) To operate a quality assurance and performance improvement program and have an agreement for external quality review as required under subpart D of this part;
 
-(6) To comply with all applicable provider and supplier requirements in subpart E of this part, including provider certification requirements, anti-discrimination requirements, provider participation and consultation requirements, the prohibition on interference with provider advice, limits on provider indemnification, rules governing payments to providers, limits on physician incentive plans, and Medicare provider and supplier enrollment requirements.
+(6) To comply with all applicable provider and supplier requirements in subpart E of this part, including provider certification requirements, anti-discrimination requirements, provider participation and consultation requirements, the prohibition on interference with provider advice, limits on provider indemnification, rules governing payments to providers, limits on physician incentive plans, and the preclusion list requirements in §§ 422.222 and 422.224.
 
 (7) To comply with all requirements in subpart M of this part governing coverage determinations, grievances, and appeals;
 
@@ -46,11 +44,9 @@ The contract between the MA organization and CMS must contain the following prov
 
 (ii) Displaying a link to the electronic complaint form on the Medicare.gov Internet Web site on the MA plan's main Web page.
 
-(16) An MA organization's compliance with paragraphs (a)(1) through (15) and (c) of this section is material to performance of the contract.
+(16) To maintain administrative and management capabilities sufficient for the organization to organize, implement, and control the financial, marketing, benefit administration, and quality improvement activities related to the delivery of Part C services.
 
-(17) To maintain administrative and management capabilities sufficient for the organization to organize, implement, and control the financial, marketing, benefit administration, and quality improvement activities related to the delivery of Part C services.
-
-(18) To maintain a Part C summary plan rating score of at least 3 stars. A Part C summary plan rating is calculated by taking an average of a contract's Part C performance measure scores.
+(17) To maintain a Part C summary plan rating score of at least 3 stars under the 5-star rating system specified in subpart D of this part. A Part C summary plan rating is calculated as provided in § 422.166.
 
 (b) *Communication with CMS.* The MA organization must have the capacity to communicate with CMS electronically.
 
@@ -204,7 +200,7 @@ The contract between the MA organization and CMS must contain the following prov
 
 (iv) HHS', the Comptroller General's, or their designee's right to inspect, evaluate, and audit any pertinent information for any particular contract period will exist through 10 years from the final date of the contract period or from the date of completion of any audit, whichever is later.
 
-(v) They will require all of their providers and suppliers to be enrolled in Medicare in an approved status consistent with § 422.222.
+(v) They will ensure that payments are not made to individuals and entities included on the preclusion list, defined in § 422.2.
 
 (3) All contracts or written arrangements between MA organizations and first tier, downstream, and related entities must contain the following:
 
@@ -324,4 +320,4 @@ The contract between the MA organization and CMS must contain the following prov
 
 (ii) Operation of call center customer services.
 
-[63 FR 35099, June 26, 1998]Editorial Note:For Federal Register citations affecting § 422.504, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[63 FR 35099, June 26, 1998]Editorial Note:For Federal Register citations affecting § 422.504, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

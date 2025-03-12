@@ -1,7 +1,5 @@
 ##### § 422.590 Timeframes and responsibility for reconsiderations. #####
 
-Link to an amendment published at 83 FR 16734, April 16, 2018.
-
 (a) *Standard reconsideration: Request for services.* (1) Except as provided in paragraph (e) of this section, if the MA organization makes a reconsidered determination that is completely favorable to the enrollee, the MA organization must issue the determination (and effectuate it in accordance with § 422.618(a)) as expeditiously as the enrollee's health condition requires, but no later than 30 calendar days from the date it receives the request for a standard reconsideration.
 
 (2) If the MA organization makes a reconsidered determination that affirms, in whole or in part, its adverse organization determination, it must prepare a written explanation and send the case file to the independent entity contracted by CMS as expeditiously as the enrollee's health condition requires, but no later than 30 calendar days from the date it receives the request for a standard reconsideration (or no later than the expiration of an extension described in paragraph (a)(1) of this section). The organization must make reasonable and diligent efforts to assist in gathering and forwarding information to the independent entity.
@@ -30,12 +28,10 @@ Link to an amendment published at 83 FR 16734, April 16, 2018.
 
 (2) *Notice of extension.* When the MA organization extends the deadline, it must notify the enrollee in writing of the reasons for the delay and inform the enrollee of the right to file an expedited grievance if he or she disagrees with the MA organization's decision to grant an extension. The MA organization must notify the enrollee of its determination as expeditiously as the enrollee's health condition requires, but no later than upon expiration of the extension.
 
-(f) *Notification of enrollee.* If the MA organization refers the matter to the independent entity as described under this section, it must concurrently notify the enrollee of that action.
+(f) *Failure to meet timeframe for expedited reconsideration.* If the MA organization fails to provide the enrollee with the results of its reconsideration within the timeframe described in paragraph (d) of this section, this failure constitutes an adverse reconsidered determination, and the MA organization must submit the file to the independent entity within 24 hours of expiration of the timeframe set forth in paragraph (d) of this section.
 
-(g) *Failure to meet timeframe for expedited reconsideration.* If the MA organization fails to provide the enrollee with the results of its reconsideration within the timeframe described in paragraph (d) of this section, this failure constitutes an adverse reconsidered determination, and the MA organization must submit the file to the independent entity within 24 hours of expiration of the timeframe set forth in paragraph (d) of this section.
-
-(h) *Who must reconsider an adverse organization determination.* (1) A person or persons who were not involved in making the organization determination must conduct the reconsideration.
+(g) *Who must reconsider an adverse organization determination.* (1) A person or persons who were not involved in making the organization determination must conduct the reconsideration.
 
 (2) When the issue is the MA organization's denial of coverage based on a lack of medical necessity (or any substantively equivalent term used to describe the concept of medical necessity), the reconsidered determination must be made by a physician with expertise in the field of medicine that is appropriate for the services at issue. The physician making the reconsidered determination need not, in all cases, be of the same specialty or subspecialty as the treating physician.
 
-[63 FR 35107, June 26, 1998, as amended at 65 FR 40330, June 29, 2000; 70 FR 4739, Jan. 28, 2005; 80 FR 7961, Feb. 12, 2015]
+[63 FR 35107, June 26, 1998, as amended at 65 FR 40330, June 29, 2000; 70 FR 4739, Jan. 28, 2005; 80 FR 7961, Feb. 12, 2015; 83 FR 16734, Apr. 16, 2018]

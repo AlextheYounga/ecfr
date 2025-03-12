@@ -1,16 +1,14 @@
 ##### § 460.50 Termination of PACE program agreement. #####
 
-Link to an amendment published at 83 FR 16756, Apr. 16, 2018.
-
 (a) *Termination of agreement by CMS or State.* CMS or a State administering agency may terminate at any time a PACE program agreement for cause, including, but not limited to the circumstances in paragraphs (b) or (c) of this section.
 
 (b) *Termination due to uncorrected deficiencies.* CMS or the State administering agency may terminate a PACE program agreement if CMS or the State administering agency determines that both of the following circumstances exist:
 
-(1) Either -
+(1) Either—
 
 (i) There are significant deficiencies in the quality of care furnished to participants; or
 
-(ii) The PACE organization failed to comply substantially with conditions for a PACE program or PACE organization under this part, or with terms of its PACE program agreement, including employing or contracting with any provider or supplier that are types of individuals or entities that can enroll in Medicare in accordance with section 1861 of the Act, that is not enrolled in Medicare in an approved status.
+(ii) The PACE organization failed to comply substantially with conditions for a PACE program or PACE organization under this part, or with terms of its PACE program agreement, including making payment to an individual or entity that is included on the preclusion list, defined in § 422.2 of this chapter.
 
 (2) Within 30 days of the date of the receipt of written notice of a determination made under paragraph (b)(1) of this section, the PACE organization failed to develop and successfully initiate a plan to correct the deficiencies, or failed to continue implementation of the plan of correction.
 
@@ -22,4 +20,4 @@ Link to an amendment published at 83 FR 16756, Apr. 16, 2018.
 
 (2) To participants, 60 days before termination.
 
-[64 FR 66279, Nov. 24, 1999, as amended at 81 FR 80561, Nov. 15, 2016]
+[64 FR 66279, Nov. 24, 1999, as amended at 81 FR 80561, Nov. 15, 2016; 83 FR 16756, Apr. 16, 2018]

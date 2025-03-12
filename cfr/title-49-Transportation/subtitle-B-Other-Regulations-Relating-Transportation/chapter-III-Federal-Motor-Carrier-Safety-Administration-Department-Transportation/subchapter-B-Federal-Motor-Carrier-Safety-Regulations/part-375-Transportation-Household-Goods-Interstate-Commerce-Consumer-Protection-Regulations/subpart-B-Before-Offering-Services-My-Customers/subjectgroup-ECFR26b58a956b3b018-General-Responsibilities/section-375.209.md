@@ -1,7 +1,5 @@
 ##### § 375.209 How must I handle complaints and inquiries? #####
 
-Link to an amendment published at 83 FR 16224, Apr. 16, 2018.
-
 (a) You must establish and maintain a procedure for responding to complaints and inquiries from your individual shippers.
 
 (b) Your procedure must include all three of the following items:
@@ -10,8 +8,8 @@ Link to an amendment published at 83 FR 16224, Apr. 16, 2018.
 
 (2) A telephone number.
 
-(3) A written or electronic record system for recording all inquiries and complaints received from an individual shipper by any means of communication.
+(3) A system for recording in writing all inquiries and complaints received from an individual shipper by any means of communication.
 
 (c) You must produce a clear and concise written description of your procedure for distribution to individual shippers.
 
-[68 FR 35091, June 11, 2003, as amended at 77 FR 36934, June 20, 2012; 77 FR 59824, Oct. 1, 2012]
+[68 FR 35091, June 11, 2003, as amended at 77 FR 36934, June 20, 2012; 77 FR 59824, Oct. 1, 2012; 83 FR 16224, Apr. 16, 2018]

@@ -1,7 +1,5 @@
 ##### § 398.3 Qualifications of drivers or operators. #####
 
-Link to an amendment published at 83 FR 16227, Apr. 16, 2018.
-
 (a) *Compliance required.* Every motor carrier, and its officers, agents, representatives and employees who drive motor vehicles or are responsible for the hiring, supervision, training, assignment or dispatching of drivers shall comply and be conversant with the requirements of this part.
 
 (b) *Minimum physical requirements.* No person shall drive, nor shall any motor carrier require or permit any person to drive, any motor vehicle unless such person possesses the following minimum qualifications:
@@ -20,13 +18,13 @@ Link to an amendment published at 83 FR 16227, Apr. 16, 2018.
 
 (7) *Initial and periodic physical examination of drivers.* No person shall drive nor shall any motor carrier require or permit any person to drive any motor vehicle unless within the immediately preceding 36 month period such person shall have been physically examined and shall have been certified in accordance with the provisions of paragraph (b)(8) of this section by a licensed doctor of medicine or osteopathy as meeting the requirements of this subsection.
 
-(8) *Certificate of physical examination.* Every motor carrier shall have in its files at its principal place of business for every driver employed or used by it a legible certificate of a licensed doctor of medicine or osteopathy based on a physical examination as required by paragraph (b)(7) of this section or a legible photographically reproduced copy thereof, and every driver shall have in his/her possession while driving, such a certificate or a photographically reproduced copy thereof covering himself/herself.
+(8) *Certificate of physical examination.* Every motor carrier shall have in its files at its principal place of business for every driver employed or used by it a legible certificate of a licensed doctor of medicine or osteopathy based on a physical examination as required by paragraph (b)(7) of this section or a legible copy thereof, and every driver shall have in his/her possession while driving, such a certificate or a copy thereof covering himself/herself.
 
 (9) *Doctor's certificate.* The doctor's certificate shall certify as follows:
 
 Doctor's Certificate(Driver of Migrant Workers)
 
-This is to certify that I have this day examined \_\_\_\_\_\_\_ in accordance with § 398.3(b) of the Federal Motor Carrier Safety Regulations of the Federal Motor Carrier Safety Administration and that I find him/her
+This is to certify that I have this day examined \_\_\_\_\_\_\_\_\_\_\_\_\_\_ in accordance with § 398.3(b) of the Federal Motor Carrier Safety Regulations of the Federal Motor Carrier Safety Administration and that I find him/her
 
 Qualified under said rules □
 
@@ -48,4 +46,4 @@ I have kept on file in my office a completed examination.
 
 (5) *Driver's permit.* Possession of a valid permit qualifying the driver to operate the type of vehicle driven by him/her in the jurisdiction by which the permit is issued.
 
-[33 FR 19765, Dec. 25, 1968, as amended at 40 FR 44557, Sept. 29, 1975]
+[33 FR 19765, Dec. 25, 1968, as amended at 40 FR 44557, Sept. 29, 1975; 83 FR 16227, Apr. 16, 2018]

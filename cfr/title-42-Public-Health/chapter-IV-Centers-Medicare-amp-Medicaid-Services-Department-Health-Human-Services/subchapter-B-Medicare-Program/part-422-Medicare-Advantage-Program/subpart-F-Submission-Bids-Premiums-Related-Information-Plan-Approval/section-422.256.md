@@ -1,7 +1,5 @@
 ##### § 422.256 Review, negotiation, and approval of bids. #####
 
-Link to an amendment published at 83 FR 16733, April 16, 2018.
-
 (a) *Authority.* Subject to paragraphs (a)(2), (d), and (e) of this section, CMS has the authority to review the aggregate bid amounts submitted under § 422.252 and conduct negotiations with MA organizations regarding these bids (including the supplemental benefits) and the proportions of the aggregate bid attributable to basic benefits, supplemental benefits, and prescription drug benefits and may decline to approve a bid if the plan sponsor proposes significant increases in cost sharing or decreases in benefits offered under the plan.
 
 (1) When negotiating bid amounts and proportions, CMS has authority similar to that provided the Director of the Office of Personnel Management for negotiating health benefits plans under 5 U.S.C. chapter 89.
@@ -18,13 +16,9 @@ Link to an amendment published at 83 FR 16733, April 16, 2018.
 
 (3) *Limitation on enrollee cost sharing.* For coordinated care plans (including regional MA plans and specialized MA plans) and private fee-for-service plans:
 
-(i) The actuarial value of plan basic cost sharing, reduced by any supplemental benefits, may not exceed -
+(i) The actuarial value of plan basic cost sharing, reduced by any supplemental benefits, may not exceed—
 
 (ii) The actuarial value of deductibles, coinsurance, and copayments that would be applicable for the benefits to individuals entitled to benefits under Part A and enrolled under Part B in the plan's service area with a national average risk profile for the factors described in § 422.308(c) if they were not members of an MA organization for the year, except that cost sharing for non-network Medicare services in a regional MA plan is not counted under the amount described in paragraph (b)(2)(i) of this section.
-
-(4) *Substantial differences between bids* - (i) *General.* CMS approves a bid only if it finds that the benefit package and plan costs represented by that bid are substantially different from the MA organization's other bid submissions. In order to be considered “substantially different,” as provided under § 422.254(a)(4) of this subpart, each bid must be significantly different from other plans of its plan type with respect to premiums, benefits, or cost-sharing structure.
-
-(ii) Transition period for MA organizations with new acquisitions. After a 2-year transition period, CMS approves a bid offered by an MA organization (or by a parent organization to that MA organization) that recently purchased (or otherwise acquired or merged with) another MA organization only if it finds that the benefit package or plan costs represented by that bid are substantially different, as provided under paragraph (b)(4)(i) of this section, from any benefit package and plan costs represented by another bid submitted by the same MA organization (or parent organization to that MA organization).
 
 (c) *Negotiation process.* The negotiation process may include the resubmission of information to allow MA organizations to modify their initial bid submissions to account for the outcome of CMS' regional benchmark calculations required under § 422.258(c) and the outcome of CMS' calculation of the national average monthly bid amount required under section 1860D-13(a)(4) of the Act.
 
@@ -32,4 +26,4 @@ Link to an amendment published at 83 FR 16733, April 16, 2018.
 
 (e) *Exception for MSA plans.* CMS does not review, negotiate, or approve amounts submitted with respect to MA MSA plans, except to determine that the deductible does not exceed the statutory maximum, defined at § 422.103(d).
 
-[63 FR 35085, June 26, 1998, as amended at 70 FR 52026, Sept. 1, 2005; 70 FR 76198, Dec. 23, 2005; 75 FR 19806, Apr. 15, 2010; 76 FR 21564, Apr. 15, 2011]
+[63 FR 35085, June 26, 1998, as amended at 70 FR 52026, Sept. 1, 2005; 70 FR 76198, Dec. 23, 2005; 75 FR 19806, Apr. 15, 2010; 76 FR 21564, Apr. 15, 2011; 83 FR 16733, Apr. 16, 2018]

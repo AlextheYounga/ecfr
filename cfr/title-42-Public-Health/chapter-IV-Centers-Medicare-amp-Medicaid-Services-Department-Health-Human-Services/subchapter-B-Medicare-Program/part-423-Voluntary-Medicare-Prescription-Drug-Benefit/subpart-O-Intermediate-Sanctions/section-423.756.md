@@ -1,8 +1,6 @@
 ##### § 423.756 Procedures for imposing intermediate sanctions and civil money penalties. #####
 
-Link to an amendment published at 83 FR 16753, April 16, 2018.
-
-(a) *Notice of intermediate sanction and opportunity to respond* - (1) *Notice of intent.* Before imposing the intermediate sanctions, CMS -
+(a) *Notice of intermediate sanction and opportunity to respond*—(1) *Notice of intent.* Before imposing the intermediate sanctions, CMS—
 
 (i) Sends a written notice to the Part D plan sponsor stating the nature and basis of the proposed intermediate sanction, and the Part D plan sponsor's right to a hearing as specified in paragraph (b) of this section; and
 
@@ -18,7 +16,7 @@ Link to an amendment published at 83 FR 16753, April 16, 2018.
 
 (4) The Part D plan sponsor must follow the right to a hearing procedure as specified at subpart N of this part.
 
-(c) *Effective date and duration of sanctions* - (1) *Effective date.* The effective date of the sanction is the date specified by CMS in the notice.
+(c) *Effective date and duration of sanctions*—(1) *Effective date.* The effective date of the sanction is the date specified by CMS in the notice.
 
 (2) *Exception.* If CMS determines that the Part D sponsor's conduct poses a serious threat to an enrollee's health and safety, CMS may make the sanction effective on an earlier date that CMS specifies.
 
@@ -40,9 +38,9 @@ Link to an amendment published at 83 FR 16753, April 16, 2018.
 
 (2) Terminate the contract in accordance with § 423.509.
 
-(e) *Notice to impose civil money penalties* - (1) *CMS notice to OIG.* If CMS determines that a Part D sponsor has committed an act or failed to comply with a requirement as described in 423.752, CMS notifies the OIG of this determination. OIG may impose a civil money penalty upon a Part D sponsor as specified at 423.752(c)(2).
+(e) *Notice to impose civil money penalties*—(1) *CMS notice to OIG.* If CMS determines that a Part D sponsor has committed an act or failed to comply with a requirement as described in 423.752, CMS notifies the OIG of this determination. OIG may impose a civil money penalty upon a Part D sponsor as specified at 423.752(c)(2).
 
-(2) *CMS notice of civil money penalties to Part D plan sponsors.* If CMS makes a determination to impose a CMP described in 423.752(c)(1), CMS will send a written notice of the Agency's decision to impose a civil money penalty to include -
+(2) *CMS notice of civil money penalties to Part D plan sponsors.* If CMS makes a determination to impose a CMP described in 423.752(c)(1), CMS will send a written notice of the Agency's decision to impose a civil money penalty to include—
 
 (i) A description of the basis for the determination.
 
@@ -56,4 +54,4 @@ Link to an amendment published at 83 FR 16753, April 16, 2018.
 
 (vi) Information about where to file the request for hearing.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 72 FR 68735, Dec. 5, 2007; 73 FR 55764, Sept. 26, 2008; 75 FR 19825, Apr. 15, 2010; 79 FR 29965, May 23, 2014]
+[70 FR 4525, Jan. 28, 2005, as amended at 72 FR 68735, Dec. 5, 2007; 73 FR 55764, Sept. 26, 2008; 75 FR 19825, Apr. 15, 2010; 79 FR 29965, May 23, 2014; 83 FR 16753, Apr. 16, 2018]

@@ -1,7 +1,5 @@
 ##### § 395.8 Driver's record of duty status. #####
 
-Link to an amendment published at 83 FR 16227, Apr. 16, 2018.
-
 (a)(1) Except for a private motor carrier of passengers (nonbusiness), as defined in § 390.5 of this subchapter, a motor carrier subject to the requirements of this part must require each driver used by the motor carrier to record the driver's duty status for each 24-hour period using the method prescribed in paragraphs (a)(1)(i) through (iv) of this section, as applicable.
 
 (i) Subject to paragraphs (a)(1)(ii) and (iii) of this section, a motor carrier operating commercial motor vehicles must install and require each of its drivers to use an ELD to record the driver's duty status in accordance with subpart B of this part no later than December 18, 2017.
@@ -14,7 +12,7 @@ Link to an amendment published at 83 FR 16227, Apr. 16, 2018.
 
 (*2*) In a driveaway-towaway operation in which the vehicle being driven is part of the shipment being delivered;
 
-(3) In a driveaway-towaway operation in which the vehicle being transported is a motor home or a recreation vehicle trailer; or
+(*3*) In a driveaway-towaway operation in which the vehicle being transported is a motor home or a recreation vehicle trailer; or
 
 (*4*) That was manufactured before model year 2000, as reflected in the vehicle identification number as shown on the vehicle's registration.
 
@@ -84,7 +82,7 @@ If a change of duty status occurs at a location other than a city, town, or vill
 
 (1) *Entries to be current.* Drivers shall keep their records of duty status current to the time shown for the last change of duty status.
 
-(2) *Entries made by driver only.* All entries relating to driver's duty status must be legible and in the driver's own handwriting.
+(2) *Entries made by driver only.* All entries relating to a driver's duty status must be legible and made by the driver.
 
 (3) *Date.* The month, day and year for the beginning of each 24-hour period shall be shown on the form containing the driver's duty status record.
 
@@ -124,7 +122,7 @@ If a change of duty status occurs at a location other than a city, town, or vill
 
 (4) *On duty not driving.* A continuous line shall be drawn between the appropriate time markers to record the period(s) of time on duty not driving specified in § 395.2.
 
-(5) *Location - remarks.* The name of the city, town, or village, with State abbreviation where each change of duty status occurs shall be recorded.
+(5) *Location—remarks.* The name of the city, town, or village, with State abbreviation where each change of duty status occurs shall be recorded.
 
 Note:
 
@@ -158,4 +156,4 @@ The following executed specimen grid illustrates how a driver's duty status shou
 
 The driver in this instance reported for duty at the motor carrier's terminal. The driver reported for work at 6 a.m., helped load, checked with dispatch, made a pretrip inspection, and performed other duties until 7:30 a.m. when the driver began driving. At 9 a.m. the driver had a minor accident in Fredericksburg, Virginia, and spent one half hour handling details with the local police. The driver arrived at the company's Baltimore, Maryland, terminal at noon and went to lunch while minor repairs were made to the tractor. At 1 p.m. the driver resumed the trip and made a delivery in Philadelphia, Pennsylvania, between 3 p.m. and 3:30 p.m. at which time the driver started driving again. Upon arrival at Cherry Hill, New Jersey, at 4 p.m., the driver entered the sleeper berth for a rest break until 5:45 p.m. at which time the driver resumed driving again. At 7 p.m. the driver arrived at the company's terminal in Newark, New Jersey. Between 7 p.m. and 8 p.m. the driver prepared the required paperwork including completing the driver's record of duty status, driver vehicle inspection report, insurance report for the Fredericksburg, Virginia accident, checked for the next day's dispatch, etc. At 8 p.m., the driver went off duty.
 
-[47 FR 53389, Nov. 26, 1982]Editorial Note:For Federal Register citations affecting § 395.8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[47 FR 53389, Nov. 26, 1982]Editorial Note:For Federal Register citations affecting § 395.8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

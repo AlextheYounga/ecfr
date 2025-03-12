@@ -1,7 +1,5 @@
 ##### § 460.71 Oversight of direct participant care. #####
 
-Link to an amendment published at 83 FR 16756, Apr. 16, 2018.
-
 (a) The PACE organization must ensure that all employees and contracted staff furnishing care directly to participants demonstrate the skills necessary for performance of their position.
 
 (1) The PACE organization must provide each employee and all contracted staff with an orientation. The orientation must include at a minimum the organization's mission, philosophy, policies on participant rights, emergency plan, ethics, the PACE benefit, and any policies related to the job duties of specific staff.
@@ -26,6 +24,4 @@ Link to an amendment published at 83 FR 16756, Apr. 16, 2018.
 
 (6) Agree to abide by the philosophy, practices, and protocols of the PACE organization.
 
-(7) Providers or suppliers that are types of individuals or entities that can enroll in Medicare in accordance with section 1861 of the Act, must be enrolled in Medicare and be in an approved status in Medicare in order to provide health care items or services to a PACE participant who receives his or her Medicare benefit through a PACE organization.
-
-[67 FR 61505, Oct. 1, 2002, as amended at 71 FR 71335, Dec. 8, 2006; 81 FR 80562, Nov. 15, 2016]
+[67 FR 61505, Oct. 1, 2002, as amended at 71 FR 71335, Dec. 8, 2006; 81 FR 80562, Nov. 15, 2016; 83 FR 16756, Apr. 16, 2018]

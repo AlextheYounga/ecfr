@@ -1,10 +1,12 @@
 ##### § 422.2430 Activities that improve health care quality. #####
 
-Link to an amendment published at 83 FR 16736, April 16, 2018.
+(a) *Activity requirements.* (1) Activities conducted by an MA organization to improve quality must either—
 
-(a) *Activity requirements.* Activities conducted by an MA organization to improve quality must fall into one of the categories in paragraph (a)(1) of this section and meet all of the requirements in paragraph (a)(2) of this section.
+(i) Fall into one of the categories in paragraph (a)(2) of this section and meet all of the requirements in paragraph (a)(3) of this section; or
 
-(1) *Categories of quality improving activities.* The activity must be designed to achieve one or more of the following:
+(ii) Be listed in paragraph (a)(4) of this section.
+
+(2) *Categories of quality improving activities.* The activity must be designed to achieve one or more of the following:
 
 (i) To improve health outcomes through the implementation of activities such as quality reporting, effective case management, care coordination, chronic disease management, and medication and care compliance initiatives, including through the use of the medical homes model as defined for purposes of section 3602 of the Patient Protection and Affordable Care Act, for treatment or services under the plan or coverage.
 
@@ -16,7 +18,7 @@ Link to an amendment published at 83 FR 16736, April 16, 2018.
 
 (v) To enhance the use of health care data to improve quality, transparency, and outcomes and support meaningful use of health information technology. Such activities, such as Health Information Technology (HIT) expenses, are required to accomplish the activities that improve health care quality and that are designed for use by health plans, health care providers, or enrollees for the electronic creation, maintenance, access, or exchange of health information, and are consistent with meaningful use requirements, and which may in whole or in part improve quality of care, or provide the technological infrastructure to enhance current quality improving activities or make new quality improvement initiatives possible.
 
-(2) The activity must be designed for all of the following:
+(3) The activity must be designed for all of the following:
 
 (i) To improve health quality.
 
@@ -26,9 +28,13 @@ Link to an amendment published at 83 FR 16736, April 16, 2018.
 
 (iv) To be grounded in evidence-based medicine, widely accepted best clinical practice, or criteria issued by recognized professional medical associations, accreditation bodies, government agencies or other nationally recognized health care quality organizations.
 
+(4)(i) For an MA contract that includes MA-PD plans (described in § 422.2420(a)(2)), Medication Therapy Management Programs meeting the requirements of § 423.153(d) of this chapter.
+
+(ii) Fraud reduction activities, including fraud prevention, fraud detection, and fraud recovery.
+
 (b) *Exclusions.* Expenditures and activities that must not be included in quality improving activities include, but are not limited to, the following:
 
-(1) Those that are designed primarily to control or contain costs.
+(1) Those that are designed primarily to control or contain costs other than those that are related to fraud reduction.
 
 (2) The pro rata share of expenses that are for lines of business or products other than those being reported, including but not limited to, those that are for or benefit self-funded plans.
 
@@ -36,13 +42,13 @@ Link to an amendment published at 83 FR 16736, April 16, 2018.
 
 (4) Those activities that can be billed or allocated by a provider for care delivery and that are reimbursed as clinical services.
 
-(5) Establishing or maintaining a claims adjudication system, including costs directly related to upgrades in health information technology that are designed primarily or solely to improve claims payment capabilities or to meet regulatory requirements for processing claims, including ICD-10 implementation costs in excess of 0.3 percent of total revenue under this part, and maintenance of ICD-10 code sets adopted in accordance with to the Health Insurance Portability and Accountability Act (HIPAA), 42 U.S.C. 1320d-2, as amended.
+(5) Establishing or maintaining a claims adjudication system, including costs directly related to upgrades in health information technology that are designed primarily or solely to improve claims payment capabilities (and that are not related to fraud reduction activities under paragraph (a)(4)(ii) of this section) or to meet regulatory requirements for processing claims, including ICD-10 implementation costs in excess of 0.3 percent of total revenue under this part, and maintenance of ICD-10 code sets adopted in accordance with to the Health Insurance Portability and Accountability Act (HIPAA), 42 U.S.C. 1320d-2, as amended.
 
 (6) That portion of the activities of health care professional hotlines that does not meet the definition of activities that improve health quality.
 
 (7) All retrospective and concurrent utilization review.
 
-(8) Fraud prevention activities.
+(8) [Reserved]
 
 (9) The cost of developing and executing provider contracts and fees associated with establishing or managing a provider network, including fees paid to a vendor for the same reason.
 
@@ -55,3 +61,5 @@ Link to an amendment published at 83 FR 16736, April 16, 2018.
 (13) That portion of prospective utilization review that does not meet the definition of activities that improve health quality.
 
 (14) Any function or activity not expressly permitted by CMS under this part.
+
+[78 FR 31307, May 23, 2013, as amended at 83 FR 16736, Apr. 16, 2018]

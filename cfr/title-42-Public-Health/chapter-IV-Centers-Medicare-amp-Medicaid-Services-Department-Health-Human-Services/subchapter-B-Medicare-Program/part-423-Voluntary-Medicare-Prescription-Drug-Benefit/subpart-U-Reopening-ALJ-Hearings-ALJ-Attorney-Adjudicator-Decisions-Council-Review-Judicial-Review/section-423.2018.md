@@ -1,12 +1,10 @@
 ##### § 423.2018 Submitting evidence. #####
 
-Link to an amendment published at 83 FR 16754, April 16, 2018.
-
 (a) *All appeals.* An enrollee must submit any written or other evidence that he or she wishes to have considered.
 
-(1) An ALJ or attorney adjudicator will not consider any evidence submitted regarding a change in condition of an enrollee after the appealed coverage determination was made.
+(1) An ALJ or attorney adjudicator will not consider any evidence submitted regarding a change in condition of an enrollee after the appealed coverage determination or at-risk determination was made.
 
-(2) An ALJ or attorney adjudicator will remand a case to the Part D IRE where an enrollee wishes evidence on his or her change in condition after the coverage determination to be considered.
+(2) An ALJ or attorney adjudicator will remand a case to the Part D IRE where an enrollee wishes evidence on his or her change in condition after the coverage determination or at-risk determination to be considered.
 
 (b) *Non-expedited appeals.* (1) Except as provided in this paragraph, a represented enrollee must submit all written or other evidence he or she wishes to have considered with the request for hearing, by the date specified in the request for hearing in accordance with § 423.2014(a)(2), or, if a hearing is scheduled, within 10 calendar days of receiving the notice of hearing.
 
@@ -20,4 +18,4 @@ Link to an amendment published at 83 FR 16754, April 16, 2018.
 
 (d) *When this section does not apply.* The requirements of paragraphs (b) and (c) of this section do not apply to oral testimony given at a hearing.
 
-[82 FR 5130, Jan. 17, 2017]
+[82 FR 5130, Jan. 17, 2017, as amended at 83 FR 16754, Apr. 16, 2018]

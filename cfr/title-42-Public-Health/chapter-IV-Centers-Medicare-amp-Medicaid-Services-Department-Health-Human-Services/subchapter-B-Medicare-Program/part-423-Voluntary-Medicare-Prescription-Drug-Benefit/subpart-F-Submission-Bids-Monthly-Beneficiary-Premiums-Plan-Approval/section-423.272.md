@@ -1,7 +1,5 @@
 ##### § 423.272 Review and negotiation of bid and approval of plans submitted by potential Part D sponsors. #####
 
-Link to an amendment published at 83 FR 16749, April 16, 2018.
-
 (a) *Review and negotiation regarding information, terms and conditions.* CMS reviews the information filed under § 423.265(c) in order to conduct negotiations regarding the terms and conditions of the proposed bid and benefit plan. In addition to its general negotiating authority under section 1860D-11(d)(2)(A) of the Act, CMS has authority similar to that of the Director of the Office of Personnel Management for health benefit plans under Chapter 89 of title 5, U.S.C.
 
 (b) *Approval of proposed plans.* CMS approves the Part D plan only if the plan and the Part D sponsor offering the plan comply with all applicable CMS Part D requirements, including those related to the provision of qualified prescription drug coverage and actuarial determinations.
@@ -14,9 +12,9 @@ Link to an amendment published at 83 FR 16749, April 16, 2018.
 
 (iii) A plan that adopts the categories and classes discussed in paragraph (b)(2)(ii) of this section may nevertheless be found to discourage enrollment because it excludes specific drugs from the formulary.
 
-(3) *Substantial differences between bids* - (i) *General.* CMS approves a bid only if it finds that the benefit package or plan costs represented by that bid are substantially different as provided under § 423.265(b)(2) of this subpart from the benefit package or plan costs represented by another bid submitted by the same Part D sponsor.
+(3) *Substantial differences between bids*—(i) *General.* CMS approves a bid only if it finds that the benefit package or plan costs represented by that bid are substantially different as provided under § 423.265(b)(2) of this subpart from the benefit package or plan costs represented by another bid submitted by the same Part D sponsor.
 
-(ii) *Transition period for PDP sponsors with new acquisitions.* After a 2-year transition period, as determined by CMS, CMS approves a bid offered by a PDP sponsor (or by a parent organization to that PDP sponsor) that recently purchased (or otherwise acquired or merged with) another Part D sponsor if it finds that the benefit package or plan costs represented by that bid are substantially different from any benefit package or plan costs represented by another bid submitted by the same Part D sponsor (or parent organization to that Part D sponsor.
+(ii) *Transition period for PDP sponsors with new acquisitions.* After a 2-year transition period, as determined by CMS, CMS approves a bid offered by a PDP sponsor (or by a parent organization to that PDP sponsor) that recently purchased (or otherwise acquired or merged with) another Part D sponsor if it finds that the benefit package or plan costs represented by that bid are substantially different from benefit packages or plan costs represented by another bid submitted by the same Part D sponsor (or parent organization to that Part D sponsor), as provided under § 423.265(b)(2).
 
 (4) CMS may decline to approve a bid if the Part D sponsor proposes significant increases in cost sharing or decreases in benefits offered under the plan.
 
@@ -36,4 +34,4 @@ Link to an amendment published at 83 FR 16749, April 16, 2018.
 
 (e) *Special rule for plans with standardized bids sufficiently below the national average monthly bid to result in a negative premium.* In the event of a negative premium, as described in § 423.286(d)(1), CMS negotiates the incorporation of the negative premium amount into the bid as either a reduction in the supplemental premium if the Part D plan already submitted a bid with an enhanced alternative benefit, or CMS requires the addition of new enhanced alternative benefit of no less value than the amount of the negative premium.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19819, Apr. 15, 2010; 76 FR 21574, Apr. 15, 2011]
+[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19819, Apr. 15, 2010; 76 FR 21574, Apr. 15, 2011; 83 FR 16749, Apr. 16, 2018]

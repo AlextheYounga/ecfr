@@ -1,7 +1,5 @@
 ##### § 422.2 Definitions. #####
 
-Link to an amendment published at 83 FR 16722, April 16, 2018.
-
 As used in this part -
 
 *Arrangement* means a written agreement between an MA organization and a provider or provider network, under which -
@@ -92,6 +90,34 @@ As used in this part -
 
 *Point of service (POS)* means a benefit option that an MA HMO plan can offer to its Medicare enrollees as a mandatory supplemental, or optional supplemental benefit. Under the POS benefit option, the HMO plan allows members the option of receiving specified services outside of the HMO plan's provider network. In return for this flexibility, members typically have higher cost-sharing requirements for services received and, when offered as a mandatory or optional supplemental benefit, may also be charged a premium for the POS benefit option.
 
+*Preclusion list* means a CMS-compiled list of individuals and entities that -
+
+(1) Meet all of the following requirements:
+
+(i) The individual or entity is currently revoked from Medicare under § 424.535.
+
+(ii) The individual or entity is currently under a reenrollment bar under § 424.535(c).
+
+(iii) CMS determines that the underlying conduct that led to the revocation is detrimental to the best interests of the Medicare program. In making this determination under this paragraph (1)(iii), CMS considers the following factors:
+
+(A) The seriousness of the conduct underlying the individual's or entity's revocation.
+
+(B) The degree to which the individual's or entity's conduct could affect the integrity of the Medicare program.
+
+(C) Any other evidence that CMS deems relevant to its determination; or
+
+(2) Meet both of the following requirements:
+
+(i) The individual or entity has engaged in behavior for which CMS could have revoked the individual or entity to the extent applicable had they been enrolled in Medicare.
+
+(ii) CMS determines that the underlying conduct that would have led to the revocation is detrimental to the best interests of the Medicare program. In making this determination under this paragraph (2)(ii), CMS considers the following factors:
+
+(A) The seriousness of the conduct involved.
+
+(B) The degree to which the individual's or entity's conduct could affect the integrity of the Medicare program; and
+
+(C) Any other evidence that CMS deems relevant to its determination.
+
 *Prescription drug plan (PDP).* PDP has the definition set forth in § 423.4 of this chapter.
 
 *Prescription drug plan (PDP) sponsor.* A prescription drug plan sponsor has the definition set forth in § 423.4 of this chapter.
@@ -152,4 +178,4 @@ As used in this part -
 
 *Specialized MA Plans for Special Needs Individuals* means an MA coordinated care plan that exclusively enrolls special needs individuals as set forth in § 422.4(a)(1)(iv) and that provides Part D benefits under part 423 of this chapter to all enrollees; and which has been designated by CMS as meeting the requirements of an MA SNP as determined on a case-by-case basis using criteria that include the appropriateness of the target population, the existence of clinical programs or special expertise to serve the target population, and whether the proposal discriminates against sicker members of the target population.
 
-[63 FR 35068, June 26, 1998, as amended at 65 FR 40314, June 29, 2000; 68 FR 50855, Aug. 22, 2003; 70 FR 4714, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 72 FR 68722, Dec. 5, 2007; 74 FR 1540, Jan. 12, 2009; 75 FR 19803, Apr. 15, 2010; 76 FR 21561, Apr. 15, 2011; 79 FR 29955, May 23, 2014]
+[63 FR 35068, June 26, 1998, as amended at 65 FR 40314, June 29, 2000; 68 FR 50855, Aug. 22, 2003; 70 FR 4714, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 72 FR 68722, Dec. 5, 2007; 74 FR 1540, Jan. 12, 2009; 75 FR 19803, Apr. 15, 2010; 76 FR 21561, Apr. 15, 2011; 79 FR 29955, May 23, 2014; 83 FR 16722, Apr. 16, 2018]

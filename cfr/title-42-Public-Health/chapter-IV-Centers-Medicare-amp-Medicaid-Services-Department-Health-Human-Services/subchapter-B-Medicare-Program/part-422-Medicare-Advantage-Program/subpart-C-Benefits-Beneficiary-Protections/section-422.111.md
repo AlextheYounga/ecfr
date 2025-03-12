@@ -1,14 +1,12 @@
 ##### § 422.111 Disclosure requirements. #####
 
-Link to an amendment published at 83 FR 16724, April 16, 2018.
-
-(a) *Detailed description.* An MA organization must disclose the information specified in paragraph (b) of this section -
+(a) *Detailed description.* An MA organization must disclose the information specified in paragraph (b) of this section in the manner specified by CMS -
 
 (1) To each enrollee electing an MA plan it offers;
 
 (2) In clear, accurate, and standardized form; and
 
-(3) At the time of enrollment and at least annually thereafter, 15 days before the annual coordinated election period.
+(3) At the time of enrollment and at least annually thereafter, by the first day of the annual coordinated election period.
 
 (b) *Content of plan description.* The description must include the following information:
 
@@ -150,10 +148,12 @@ Link to an amendment published at 83 FR 16724, April 16, 2018.
 
 (i) The information required in paragraph (b) of this section.
 
-(ii) Copies of its evidence of coverage, summary of benefits, and information (names, addresses, phone numbers, and specialty) on the network of contracted providers. Such posting does not relieve the MA organization of its responsibility under § 422.111(a) to provide hard copies to enrollees.
+(ii) Copies of its evidence of coverage and information (names, addresses, phone numbers, and specialty) on the network of contracted providers. Posting does not relieve the MA organization of its responsibility under paragraph (a) of this section to provide hard copies to enrollees upon request.
+
+(iii) Posting does not relieve the MA organization of its responsibility under paragraph (a) of this section to provide hard copies of the Summary of Benefits to enrollees when CMS determines hard copy delivery of the Summary of Benefits is in the best interest of the beneficiary.
 
 (3) The provision of information in writing, upon request.
 
 (i) *Provision of information required for access to covered services.* MA plans must issue and reissue (as appropriate) member identification cards that enrollees may use to access covered services under the plan. The cards must comply with standards established by CMS.
 
-[63 FR 35077, June 26, 1998, as amended at 64 FR 7980, Feb. 17, 1999; 65 FR 40321, June 29, 2000; 68 FR 50857, Aug. 22, 2003; 70 FR 4722, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 73 FR 54220, 54249, Sept. 18, 2008; 75 FR 19805, Apr. 15, 2010; 76 FR 21563, Apr. 15, 2011; 77 FR 22167, Apr. 12, 2012; 80 FR 7959, Feb. 12, 2015]
+[63 FR 35077, June 26, 1998, as amended at 64 FR 7980, Feb. 17, 1999; 65 FR 40321, June 29, 2000; 68 FR 50857, Aug. 22, 2003; 70 FR 4722, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 73 FR 54220, 54249, Sept. 18, 2008; 75 FR 19805, Apr. 15, 2010; 76 FR 21563, Apr. 15, 2011; 77 FR 22167, Apr. 12, 2012; 80 FR 7959, Feb. 12, 2015; 83 FR 16724, Apr. 16, 2018]

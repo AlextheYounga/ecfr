@@ -22,11 +22,13 @@
 
 (b) Certain requirements of the following laws are not applicable to executive agency contracts for the acquisition of commercial items:
 
-(1) 40 U.S.C. chapter 37, Requirement for a certificate and clause under the Contract Work Hours and Safety Standards statute (see 22.305).
+(1) 22 U.S.C. 2593e, Requirement for a certification under Measures Against Persons Involved in Activities that Violate Arms Control Treaties or Agreements with the United States (see 9.109).
 
-(2) 41 U.S.C. 8703 and 8704, Requirement for a clause and certain other requirements related to kickbacks (see 3.502).
+(2) 40 U.S.C. chapter 37, Requirement for a certificate and clause under the Contract Work Hours and Safety Standards statute (see 22.305).
 
-(3) 49 U.S.C. 40118, Requirement for a clause under the Fly American provisions (see 47.405).
+(3) 41 U.S.C. 8703 and 8704, Requirement for a clause and certain other requirements related to kickbacks (see 3.502).
+
+(4) 49 U.S.C. 40118, Requirement for a clause under the Fly American provisions (see 47.405).
 
 (c) The applicability of the following laws have been modified in regards to Executive agency contracts for the acquisition of commercial items:
 
@@ -36,4 +38,4 @@
 
 (3) 41 U.S.C. chapter 15, Cost Accounting Standards (see 48 CFR chapter 99) (see 12.214).
 
-[60 FR 48241, Sept. 18, 1995]Editorial Note:For Federal Register citations affecting section 12.503, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[60 FR 48241, Sept. 18, 1995]Editorial Note:For Federal Register citations affecting section 12.503, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

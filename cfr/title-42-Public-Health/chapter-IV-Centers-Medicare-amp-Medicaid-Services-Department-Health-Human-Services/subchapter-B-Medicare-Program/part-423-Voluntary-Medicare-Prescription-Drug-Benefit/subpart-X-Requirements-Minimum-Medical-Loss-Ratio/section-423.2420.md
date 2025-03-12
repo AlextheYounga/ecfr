@@ -1,7 +1,5 @@
 ##### § 423.2420 Calculation of medical loss ratio. #####
 
-Link to an amendment published at 83 FR 16756, April 16, 2018.
-
 (a) *Determination of the MLR.* (1) The MLR for each contract under this part is the ratio of the numerator (as defined in paragraph (b) of this section) to the denominator (as defined in paragraph (c) of this section). An MLR may be increased by a credibility adjustment according to the rules at § 423.2440, or subject to an adjustment determined by CMS to be warranted based on exceptional circumstances for areas outside the 50 states and the District of Columbia.
 
 (2) The MLR must reflect costs and revenues for benefits described at § 423.104(d) through (f). The MLR for MA-PD plans (defined at § 422.2 of this chapter) must also reflect costs and revenues for benefits described at § 422.100(c) of this chapter.
@@ -28,7 +26,7 @@ Link to an amendment published at 83 FR 16756, April 16, 2018.
 
 (vii) Claims payments recoveries received as a result of subrogation.
 
-(viii) Claims payments recoveries received as a result of fraud reduction efforts, not to exceed the amount of fraud reduction expenses.
+(viii) [Reserved]
 
 (ix) Reserves for contingent benefits and the Part D claim portion of lawsuits.
 
@@ -130,13 +128,11 @@ Link to an amendment published at 83 FR 16756, April 16, 2018.
 
 (5) Total revenue (as defined at § 423.2420(c) of this chapter) that is reinsured for a block of business that was subject to indemnity reinsurance and administrative agreements effective before March 23, 2010, for which the assuming entity is responsible for 100 percent of the ceding entity's financial risk and takes on all of the administration of the block, must be reported by the assuming issuer and must not be reported by the ceding issuer.
 
-(d) *Allocation of expenses* - (1) *General requirements.* (i) Each expense must be included under only one type of expense, unless a portion of the expense fits under the definition of or criteria for one type of expense and the remainder fits into a different type of expense, in which case the expense must be pro-rated between types of expenses.
+(d) *Allocation of expenses*—(1) *General requirements.* (i) Each expense must be included under only one type of expense, unless a portion of the expense fits under the definition of or criteria for one type of expense and the remainder fits into a different type of expense, in which case the expense must be pro-rated between types of expenses.
 
 (ii) Expenditures that benefit multiple contracts, or contracts other than those being reported, including but not limited to those that are for or benefit self-funded plans, must be reported on a pro rata share.
 
-(2) *Description of the methods used to allocate expenses.* (i) Allocation to each category must be based on a generally accepted accounting method that is expected to yield the most accurate results.
-
-(ii) Specific identification of an expense with an activity that is represented by one of the categories in § 423.2420(b) or (c) will generally be the most accurate method.
+(2) *Description of the methods used to allocate expenses.*(i) Allocation to each category must be based on a generally accepted accounting method that is expected to yield the most accurate results. Specific identification of an expense with an activity that is represented by one of the categories in paragraph (b) or (c) of this section will generally be the most accurate method.
 
 (ii) Shared expenses, including expenses under the terms of a management contract, must be apportioned pro rata to the entities incurring the expense.
 
@@ -144,4 +140,4 @@ Link to an amendment published at 83 FR 16756, April 16, 2018.
 
 (B) Expenses that relate solely to the operations of a reporting entity, such as personnel costs associated with the adjusting and paying of claims, must be borne solely by the reporting entity and are not to be apportioned to other entities within a group.
 
-[78 FR 31310, May 23, 2013; 78 FR 43821, July 22, 2013]
+[78 FR 31310, May 23, 2013; 78 FR 43821, July 22, 2013; 83 FR 16756, Apr. 16, 2018]

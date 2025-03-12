@@ -1,12 +1,10 @@
 ##### § 375.213 What information must I provide to a prospective individual shipper? #####
 
-Link to an amendment published at 83 FR 16224, Apr. 16, 2018.
-
-(a) When you provide the written estimate to a prospective individual shipper, you must also provide the individual shipper with a copy of Department of Transportation publication FMCSA-ESA-03-005 (or its successor publication) entitled “Ready to Move? - Tips for a Successful Interstate Move.” You may provide the individual shipper with a paper copy or you may provide a hyperlink on your Internet Web site to the FMCSA Web site containing the information in FMCSA's publication “Ready to Move? - Tips for a Successful Interstate Move.”
+(a) When you provide the written estimate to a prospective individual shipper, you must also provide the individual shipper with the DOT publication titled “Ready to Move? - Tips for a Successful Interstate Move” (Department of Transportation publication FMCSA-ESA-03-005, or its successor publication). You must provide the individual shipper with a copy or provide a hyperlink on your internet website to the FMCSA website containing that publication.
 
 (b) Before you execute an order for service for a shipment of household goods, you must furnish to your prospective individual shipper all five of the following documents:
 
-(1) The contents of appendix A of this part, entitled “Your Rights and Responsibilities When You Move” (Department of Transportation publication FMCSA-ESA-03-006, or its successor publication). You may provide the individual shipper with a paper copy or you may provide a hyperlink on your Internet Web site to the FMCSA Web site containing the information in FMCSA's publication “Your Rights and Responsibilities When You Move.”
+(1) The contents of appendix A of this part, titled “Your Rights and Responsibilities When You Move” (Department of Transportation publication FMCSA-ESA-03-006, or its successor publication). You must provide the individual shipper with a copy or provide a hyperlink on your internet website to the FMCSA website containing the information in FMCSA's publication “Your Rights and Responsibilities When You Move.”
 
 (2) A concise, easy-to-read, accurate estimate of your charges.
 
@@ -30,12 +28,12 @@ Link to an amendment published at 83 FR 16224, Apr. 16, 2018.
 
 (d) Paragraphs (c)(2) and (c)(3) of this section do not apply to exact copies of appendix A published in the Federal Register, the Code of Federal Regulations, or on FMCSA's Web site.
 
-(e) If an individual shipper elects to waive physical receipt of the Federal consumer protection information by one of the methods described in paragraphs (a) and (b)(1) of this section, and elects to access the same information via the hyperlink on the Internet as provided in paragraphs (a) and (b)(1) of this section:
+(e) If an individual shipper elects to waive receipt of the Federal consumer protection information by one of the methods described in paragraphs (a) and (b)(1) of this section, and elects to access the same information via the hyperlink on the internet:
 
 (1) You must include a clear and concise statement on the written estimate described in § 375.401 that the individual shipper expressly agreed to access the Federal consumer protection information on the Internet.
 
-(2) You must obtain a signed, dated, electronic or paper receipt showing the individual shipper has received both booklets that includes, if applicable, verification of the shipper's agreement to access the Federal consumer protection information on the Internet.
+(2) You must obtain a signed, dated receipt showing the individual shipper has received both booklets that includes, if applicable, verification of the shipper's agreement to access the Federal consumer protection information on the internet.
 
 (3) You must maintain the signed receipt required by paragraph (e)(2) of this section for one year from the date the individual shipper signs the receipt. You are not required to maintain the signed receipt when you do not actually transport household goods or perform related services for the individual shipper who signed the receipt.
 
-[72 FR 36772, July 5, 2007, as amended at 75 FR 72998, Nov. 29, 2010; 77 FR 41704, Nov. 13, 2012]
+[72 FR 36772, July 5, 2007, as amended at 75 FR 72998, Nov. 29, 2010; 77 FR 41704, Nov. 13, 2012; 83 FR 16224, Apr. 16, 2018]

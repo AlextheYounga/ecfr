@@ -1,6 +1,6 @@
 ##### § 390.5T Definitions. #####
 
-Link to an amendment published at 83 FR 16226, Apr. 16, 2018.Link to a correction published at 83 FR 24228, May 25, 2018.Link to an amendment published at 83 FR 22878, May 17, 2018.Link to an amendment published at 83 FR 26860, June 11, 2018.
+Link to an amendment published at 83 FR 22878, May 17, 2018.Link to an amendment published at 83 FR 26860, June 11, 2018.
 
 Unless specifically defined elsewhere, in this subchapter:
 
@@ -102,6 +102,8 @@ either -
 *Driving a commercial motor vehicle while under the influence of alcohol* means committing any one or more of the following acts in a CMV: Driving a CMV while the person's alcohol concentration is 0.04 or more; driving under the influence of alcohol, as prescribed by State law; or refusal to undergo such testing as is required by any State or jurisdiction in the enforcement of Table 1 to § 383.51 or § 392.5(a)(2) of this subchapter.
 
 *Electronic device* includes, but is not limited to, a cellular telephone; personal digital assistant; pager; computer; or any other device used to input, write, send, receive, or read text.
+
+*Electronic signature* means a method of signing an electronic communication that identifies and authenticates a particular person as the source of the electronic communication and indicates such person's approval of the information contained in the electronic communication, in accordance with the Government Paperwork Elimination Act (Pub. L. 105-277, Title XVII, Secs. 1701-1710, 44 U.S.C. 3504 note, 112 Stat. 2681-749).
 
 *Emergency* means any hurricane, tornado, storm (*e.g.* thunderstorm, snowstorm, icestorm, blizzard, sandstorm, etc.), high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, mud slide, drought, forest fire, explosion, blackout or other occurrence, natural or man-made, which interrupts the delivery of essential services (such as, electricity, medical care, sewer, water, telecommunications, and telecommunication transmissions) or essential supplies (such as, food and fuel) or otherwise immediately threatens human life or public welfare, provided such hurricane, tornado, or other event results in:
 
@@ -299,4 +301,6 @@ either -
 
 *United States* means the 50 States and the District of Columbia.
 
-[82 FR 5311, Jan. 17, 2017]
+*Written or in writing* means printed, handwritten, or typewritten either on paper or other tangible medium, or by any method of electronic documentation that meets the requirements of 49 CFR 390.32.
+
+[82 FR 5311, Jan. 17, 2017, as amended at 83 FR 16226, Apr. 16, 2018; 83 FR 24228, May 25, 2018]

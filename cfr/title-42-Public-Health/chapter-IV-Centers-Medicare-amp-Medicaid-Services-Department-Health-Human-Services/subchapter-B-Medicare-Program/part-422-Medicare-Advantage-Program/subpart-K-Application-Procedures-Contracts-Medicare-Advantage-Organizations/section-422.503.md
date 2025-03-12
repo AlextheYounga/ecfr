@@ -1,7 +1,5 @@
 ##### § 422.503 General provisions. #####
 
-Link to an amendment published at 83 FR 16733, April 16, 2018.
-
 (a) *Basic rule.* In order to qualify as an MA organization, enroll beneficiaries in any MA plans it offers, and be paid on behalf of Medicare beneficiaries enrolled in those plans, an MA organization must enter into a contract with CMS.
 
 (b) *Conditions necessary to contract as an MA organization.* Any entity seeking to contract as an MA organization must:
@@ -16,7 +14,7 @@ Link to an amendment published at 83 FR 16733, April 16, 2018.
 
 (i) A policy making body that exercises oversight and control over the MA organization's policies and personnel to ensure that management actions are in the best interest of the organization and its enrollees.
 
-(ii) Personnel and systems sufficient for the MA organization to organize, implement, control, and evaluate financial and marketing activities, the furnishing of services, the quality improvement program, and the administrative and management aspects of the organization.
+(ii) Personnel and systems sufficient for the MA organization to organize, implement, control, and evaluate financial and communication activities, the furnishing of services, the quality improvement program, and the administrative and management aspects of the organization.
 
 (iii) At a minimum, an executive manager whose appointment and removal are under the control of the policy making body.
 
@@ -50,11 +48,9 @@ Link to an amendment published at 83 FR 16733, April 16, 2018.
 
 (*3*) The governing body of the MA organization must be knowledgeable about the content and operation of the compliance program and must exercise reasonable oversight with respect to the implementation and effectiveness of the compliance programs.
 
-(C)(*1*) Each MA organization must establish and implement effective training and education between the compliance officer and organization employees, the MA organization's chief executive or other senior administrator, managers and governing body members, and the MA organization's first tier, downstream, and related entities. Such training and education must occur at a minimum annually and must be made a part of the orientation for a new employee, new first tier, downstream and related entities, and new appointment to a chief executive, manager, or governing body member.
+(C)(*1*) Each MA organization must establish and implement effective training and education for its compliance officer and organization employees, the MA organization's chief executive and other senior administrators, managers and governing body members.
 
-(*2*) First tier, downstream, and related entities who have met the fraud, waste, and abuse certification requirements through enrollment into the Medicare program are deemed to have met the training and educational requirements for fraud, waste, and abuse.
-
-(*3*) An MA organization must require all of its first tier, downstream, and related entities to take the CMS training and accept the certificate of completion of the CMS training as satisfaction of this requirement. MA organizations are prohibited from developing and implementing their own training or providing supplemental training materials to fulfill this requirement.
+(*2*) Such training and education must occur at a minimum annually and must be made a part of the orientation for a new employee and new appointment to a chief executive, manager, or governing body member.
 
 (D) Establishment and implementation of effective lines of communication, ensuring confidentiality, between the compliance officer, members of the compliance committee, the MA organization's employees, managers and governing body, and the MA organization's first tier, downstream, and related entities. Such lines of communication must be accessible to all and allow compliance issues to be reported including a method for anonymous and confidential good faith reporting of potential compliance issues as they are identified.
 
@@ -112,4 +108,4 @@ Link to an amendment published at 83 FR 16733, April 16, 2018.
 
 (2) A separate contract for any such excluded plan or entity will be deemed to be in place when such a request is made.
 
-[63 FR 35099, June 26, 1998, as amended at 65 FR 40327, June 29, 2000. Redesignated at 70 FR 4736, Jan. 28, 2005, and amended at 70 FR 4737, Jan. 28, 2005; 70 FR 52027, Sept. 1, 2005; 70 FR 76198, Dec. 23, 2005; 72 FR 68722, Dec. 5, 2007; 75 FR 19809, Apr. 15, 2010; 79 FR 29958, May 23, 2014; 80 FR 7960, Feb. 12, 2015]Editorial Note:At 79 FR 29958, May 23, 2014, in § 422.503, paragraph (b)(4)(vi)(G)(*5* was revised; however no paragraph (b)(4)(vi)(G)(*5* exists, so it cannot be revised.
+[63 FR 35099, June 26, 1998, as amended at 65 FR 40327, June 29, 2000. Redesignated at 70 FR 4736, Jan. 28, 2005, and amended at 70 FR 4737, Jan. 28, 2005; 70 FR 52027, Sept. 1, 2005; 70 FR 76198, Dec. 23, 2005; 72 FR 68722, Dec. 5, 2007; 75 FR 19809, Apr. 15, 2010; 79 FR 29958, May 23, 2014; 80 FR 7960, Feb. 12, 2015; 83 FR 16733, Apr. 16, 2018]Editorial Note:At 79 FR 29958, May 23, 2014, in § 422.503, paragraph (b)(4)(vi)(G)(*5* was revised; however no paragraph (b)(4)(vi)(G)(*5* exists, so it cannot be revised.

@@ -1,7 +1,5 @@
 ##### § 422.100 General requirements. #####
 
-Link to an amendment published at 83 FR 16724, April 16, 2018.
-
 (a) *Basic rule.* Subject to the conditions and limitations set forth in this subpart, an MA organization offering an MA plan must provide enrollees in that plan with coverage of the basic benefits described in paragraph (c) of this section (and, to the extent applicable, the benefits described in § 422.102) by furnishing the benefits directly or through arrangements, or by paying for the benefits. CMS reviews these benefits subject to the requirements of § 422.100(g) and the requirements in subpart G of this part.
 
 (b) *Services of noncontracting providers and suppliers.* (1) An MA organization must make timely and reasonable payment to or on behalf of the plan enrollee for the following services obtained from a provider or supplier that does not contract with the MA organization to provide services covered by the MA plan:
@@ -40,19 +38,19 @@ Link to an amendment published at 83 FR 16724, April 16, 2018.
 
 (1) Medicare-covered services meet CMS fee-for-service guidelines.
 
-(2) MA organizations are not designing benefits to discriminate against beneficiaries, promote discrimination, discourage enrollment or encourage disenrollment, steer subsets of Medicare beneficiaries to particular MA plans, or inhibit access to services. and
+(2) MA organizations are not designing benefits to discriminate against beneficiaries, promote discrimination, discourage enrollment or encourage disenrollment, steer subsets of Medicare beneficiaries to particular MA plans, or inhibit access to services.
 
 (3) Benefit design meets other MA program requirements.
 
-(4) Except as provided in paragraph (f)(5), MA local plans (as defined in § 422.2) must have an out-of pocket maximum for Medicare Parts A and B services that is no greater than the annual limit set by CMS.
+(4) Except as provided in paragraph (f)(5) of this section, MA local plans (as defined in § 422.2) must have an out-of-pocket maximum for Medicare Parts A and B services that is no greater than the annual limit set by CMS using Medicare Fee-for-Service data. Beginning no earlier than January 1, 2020, CMS will set the annual limit to strike a balance between limiting maximum beneficiary out of pocket costs and potential changes in premium, benefits, and cost sharing, with the goal of ensuring beneficiary access to affordable and sustainable benefit packages.
 
-(5) With respect to a local PPO plan, the limit specified under paragraph (f)(4) applies only to use of network providers. Such local PPO plans must include a total catastrophic limit on beneficiary out-of-pocket expenditures for both in-network and out-of-network Parts A and B services that is -
+(5) With respect to a local PPO plan, the limit specified under paragraph (f)(4) of this section applies only to use of network providers. Such local PPO plans must include a total catastrophic limit on beneficiary out-of-pocket expenditures for both in-network and out-of-network Parts A and B services that is -
 
 (i) Consistent with the requirements applicable to MA regional plans at § 422.101(d)(3) of this part; and
 
-(ii) Not greater than the annual limit set by CMS.
+(ii) Not greater than the annual limit set by CMS using Medicare Fee-for-Service data to establish appropriate beneficiary out-of-pocket expenditures. Beginning no earlier than January 1, 2020, CMS will set the annual limit to strike a balance between limiting maximum beneficiary out of pocket costs and potential changes in premium, benefits, and cost sharing, with the goal of ensuring beneficiary access to affordable and sustainable benefit packages.
 
-(6) Cost sharing for Medicare Part A and B services specified by CMS does not exceed levels annually determined by CMS to be discriminatory for such services.
+(6) Cost sharing for Medicare Part A and B services specified by CMS does not exceed levels annually determined by CMS to be discriminatory for such services. CMS may use Medicare Fee-for-Service data to evaluate the possibility of discrimination and to establish non-discriminatory out-of-pocket limits; beginning no earlier than January 1, 2020, CMS may also use MA encounter data to inform patient utilization scenarios used to help identify MA plan cost sharing standards and thresholds that are not discriminatory.
 
 (g) *Benefits affecting screening mammography, influenza vaccine, and pneumoccal vaccine.* (1) Enrollees of MA organizations may directly access (through self-referral) screening mammography and influenza vaccine.
 
@@ -138,4 +136,4 @@ Link to an amendment published at 83 FR 16724, April 16, 2018.
 
 (iii) Provide the information described in paragraphs (m)(1), (2), (3), and (4)(i) of this section on its Web site.
 
-[65 FR 40319, June 29, 2000, as amended at 67 FR 13288, Mar. 22, 2002; 70 FR 4719, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 75 FR 19804, Apr. 15, 2010; 76 FR 21562, Apr. 15, 2011; 77 FR 22166, Apr. 12, 2012; 80 FR 7959, Feb. 12, 2015]
+[65 FR 40319, June 29, 2000, as amended at 67 FR 13288, Mar. 22, 2002; 70 FR 4719, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 75 FR 19804, Apr. 15, 2010; 76 FR 21562, Apr. 15, 2011; 77 FR 22166, Apr. 12, 2012; 80 FR 7959, Feb. 12, 2015; 83 FR 16724, Apr. 16, 2018]

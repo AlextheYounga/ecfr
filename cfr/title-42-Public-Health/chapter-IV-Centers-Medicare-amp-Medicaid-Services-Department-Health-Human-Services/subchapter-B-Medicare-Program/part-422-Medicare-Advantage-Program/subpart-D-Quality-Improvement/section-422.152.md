@@ -1,14 +1,12 @@
 ##### § 422.152 Quality improvement program. #####
 
-Link to an amendment published at 83 FR 16724, April 16, 2018.
-
 (a) *General rule.* Each MA organization that offers one or more MA plan must have, for each plan, an ongoing quality improvement program that meets applicable requirements of this section for the service it furnishes to its MA enrollees. As part of its ongoing quality improvement program, a plan must do all of the following:
 
 (1) Create a quality improvement program plan that sufficiently outlines the elements of the plan's quality improvement program.
 
 (2) Have a chronic care improvement program that meets the requirements of paragraph (c) of this section concerning elements of a chronic care program and addresses populations identified by CMS based on a review of current quality performance.
 
-(3) Conduct quality improvement projects that can be expected to have a favorable effect on health outcomes and enrollee satisfaction, meet the requirements of paragraph (d) of this section, and address areas identified by CMS.
+(3) {Reserved]
 
 (4) Encourage its providers to participate in CMS and HHS quality improvement initiatives.
 
@@ -42,27 +40,7 @@ Link to an amendment published at 83 FR 16724, April 16, 2018.
 
 (2) The organization must report the status and results of each program to CMS as requested.
 
-(d) *Quality improvement projects.* (1) Quality improvement projects are an organization's initiatives that focus on specified clinical and nonclinical areas and that involve the following:
-
-(i) Measurement of performance.
-
-(ii) System interventions, including the establishment or alteration of practice guidelines.
-
-(iii) Improving performance.
-
-(iv) Systematic and periodic follow-up on the effect of the interventions.
-
-(2) For each project, the organization must assess performance under the plan using quality indicators that are -
-
-(i) Objective, clearly and unambiguously defined, and based on current clinical knowledge or health services research; and
-
-(ii) Capable of measuring outcomes such as changes in health status, functional status and enrollee satisfaction, or valid proxies of those outcomes.
-
-(3) Performance assessment on the selected indicators must be based on systematic ongoing collection and analysis of valid and reliable data.
-
-(4) Interventions must achieve demonstrable improvement.
-
-(5) The organization must report the status and results of each project to CMS as requested.
+(d)[Reserved]
 
 (e) *Requirements for MA regional plans and MA local plans that are PPO plans as defined in this section* - (1) *Definition of local preferred provider organization plan.* For purposes of this section, the term local preferred provider organization (PPO) plan means an MA plan that -
 
@@ -132,4 +110,4 @@ Link to an amendment published at 83 FR 16724, April 16, 2018.
 
 (h) *Requirements for MA private-fee-for-service plans and Medicare medical savings account plans.* MA PFFS and MSA plans are subject to the requirement that may not exceed the requirement specified in § 422.152(e).
 
-[70 FR 4723, Jan. 28, 2005, as amended at 70 FR 52026, Sept. 1, 2005; 73 FR 54249, Sept. 18, 2008; 75 FR 19805, Apr. 15, 2010; 76 FR 21564, Apr. 15, 2011; 80 FR 7959, Feb. 12, 2015]
+[70 FR 4723, Jan. 28, 2005, as amended at 70 FR 52026, Sept. 1, 2005; 73 FR 54249, Sept. 18, 2008; 75 FR 19805, Apr. 15, 2010; 76 FR 21564, Apr. 15, 2011; 80 FR 7959, Feb. 12, 2015; 83 FR 16725, Apr. 16, 2018]

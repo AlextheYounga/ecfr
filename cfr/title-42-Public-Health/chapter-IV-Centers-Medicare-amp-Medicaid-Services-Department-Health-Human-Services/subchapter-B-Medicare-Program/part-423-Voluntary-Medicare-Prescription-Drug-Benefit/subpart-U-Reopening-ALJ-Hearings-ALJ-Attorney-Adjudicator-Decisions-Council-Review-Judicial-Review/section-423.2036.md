@@ -1,7 +1,5 @@
 ##### § 423.2036 Description of an ALJ hearing process. #####
 
-Link to an amendment published at 83 FR 16754, April 16, 2018.
-
 (a) *The right to appear and present evidence.* (1) An enrollee has the right to appear at the hearing before the ALJ to present evidence and to state his or her position. An enrollee may appear by video-teleconferencing, telephone, or in person as determined under § 423.2020.
 
 (2) An enrollee may also make his or her appearance by means of a representative, who may make his or her appearance by video-teleconferencing, telephone, or in person, as determined under § 423.2020.
@@ -22,7 +20,7 @@ Link to an amendment published at 83 FR 16754, April 16, 2018.
 
 (d) *Witnesses at a hearing.* Witnesses may appear at a hearing. They testify under oath or affirmation, unless the ALJ finds an important reason to excuse them from taking an oath or affirmation. The ALJ may ask the witnesses any questions relevant to the issues and allow the enrollee or his or her appointed representative, as defined at § 423.560.
 
-(e) *What evidence is admissible at a hearing.* The ALJ may receive evidence at the hearing even though the evidence is not admissible in court under the rules of evidence used by the court. However, the ALJ may not consider evidence on any change in condition of an enrollee after a coverage determination. If the enrollee wishes for the evidence to be considered, the ALJ must remand the case to the Part D IRE as set forth in § 423.2034(b)(2).
+(e) *What evidence is admissible at a hearing.* The ALJ may receive evidence at the hearing even though the evidence is not admissible in court under the rules of evidence used by the court. However, the ALJ may not consider evidence on any change in condition of an enrollee after a coverage determination or at-risk determination. If the enrollee wishes for the evidence to be considered, the ALJ must remand the case to the Part D IRE as set forth in § 423.2034(b)(2).
 
 (f)(1) *Subpoenas.* When it is reasonably necessary for the full presentation of a case, an ALJ may, on his or her own initiative, issue subpoenas for the appearance and testimony of witnesses and for the enrollee and/or the Part D plan sponsor to make books, records, correspondence, papers, or other documents that are material to an issue at the hearing available for inspection and copying. An ALJ may not issue a subpoena to CMS, or the IRE to compel an appearance, testimony, or the production of evidence, or to the Part D plan sponsor to compel an appearance or testimony.
 
@@ -44,4 +42,4 @@ Link to an amendment published at 83 FR 16754, April 16, 2018.
 
 (iv) The ALJ must promptly mail a copy of the notice and related documents to the individual or entity subject to the subpoena, to the enrollee, and to any other affected person.
 
-[74 FR 65363, Dec. 9, 2009, as amended at 82 FR 5133, Jan. 17, 2017]
+[74 FR 65363, Dec. 9, 2009, as amended at 82 FR 5133, Jan. 17, 2017; 83 FR 16754, Apr. 16, 2018]

@@ -1,7 +1,5 @@
 ##### § 460.40 Violations for which CMS may impose sanctions. #####
 
-Link to an amendment published at 83 FR 16756, Apr. 16, 2018.
-
 In addition to other remedies authorized by law, CMS may impose any of the sanctions specified in §§ 460.42 and 460.46 if CMS determines that a PACE organization commits any of the following violations:
 
 (a) Fails substantially to provide to a participant medically necessary items and services that are covered PACE services, if the failure has adversely affected (or has substantial likelihood of adversely affecting) the participant.
@@ -26,6 +24,6 @@ In addition to other remedies authorized by law, CMS may impose any of the sanct
 
 (i) Employs or contracts with any individual who is excluded from participation in Medicare or Medicaid under section 1128 or section 1128A of the Act (or with any entity that employs or contracts with that individual) for the provision of health care, utilization review, medical social work, or administrative services.
 
-(j) Employs or contracts with any provider or supplier that is a type of individual or entity that can enroll in Medicare in accordance with section 1861 of the Act, that is not enrolled in Medicare in an approved status.
+(j) Makes payment to any individual or entity that is included on the preclusion list, defined in § 422.2 of this chapter.
 
-[64 FR 66279, Nov. 24, 1999, as amended at 81 FR 80561, Nov. 15, 2016]
+[64 FR 66279, Nov. 24, 1999, as amended at 81 FR 80561, Nov. 15, 2016; 83 FR 16756, Apr. 16, 2018]
