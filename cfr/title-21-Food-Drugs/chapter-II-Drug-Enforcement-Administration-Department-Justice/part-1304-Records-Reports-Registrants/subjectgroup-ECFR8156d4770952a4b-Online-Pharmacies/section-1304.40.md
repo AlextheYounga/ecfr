@@ -1,7 +1,5 @@
 ##### § 1304.40 Notification by online pharmacies. #####
 
-Link to an amendment published at 85 FR 61601, Sept. 30, 2020.
-
 (a) Thirty days prior to offering a controlled substance for sale, delivery, distribution, or dispensing by means of the Internet, an online pharmacy shall:
 
 (1) Notify the Administrator of its intent to do so by submitting an application for a modified registration in accordance with §§ 1301.13 and 1301.19 of this chapter, with such application containing the information required by this section; and
@@ -22,7 +20,7 @@ Link to an amendment published at 85 FR 61601, Sept. 30, 2020.
 
 (ii) Every practitioner who has a contractual relationship to provide medical evaluations or issue prescriptions for controlled substances, through referrals from the Web site or at the request of the owner or operator of the Web site, or any employee or agent thereof.
 
-(c) An online pharmacy that is in operation at the time Public Law 110-425 becomes effective (April 13, 2009) must make the notifications required in this section on or before May 13, 2009. However, in accordance with section 401(h) of the Act (21 U.S.C. 841(h)), as of April 13, 2009, it is unlawful for any online pharmacy to deliver, distribute, or dispense a controlled substance by means of the Internet unless such online pharmacy is validly registered with a modification of such registration authorizing such activity.
+(c) It is unlawful for any online pharmacy to deliver, distribute, or dispense a controlled substance by means of the internet unless such online pharmacy is validly registered with a modification of such registration authorizing such activity.
 
 (d) On and after the date an online pharmacy makes the notifications required under this section, each online pharmacy shall display on the homepage of its Internet site, a declaration that it has made such notifications to the Administrator in the following form: “In accordance with the Controlled Substances Act and the DEA regulations, this online pharmacy has made the notifications to the DEA Administrator required by 21 U.S.C. 831 and 21 CFR 1304.40.”
 
@@ -32,4 +30,4 @@ Link to an amendment published at 85 FR 61601, Sept. 30, 2020.
 
 (3) If a practitioner referred to in paragraph (b)(4)(ii) of this section ceases to have a contractual relationship with the online pharmacy, the online pharmacy shall notify the Administrator no later than 30 days after the change becomes effective via the online process.
 
-[74 FR 15623, Apr. 6, 2009]
+[74 FR 15623, Apr. 6, 2009, as amended at 85 FR 61601, Sept. 30, 2020]

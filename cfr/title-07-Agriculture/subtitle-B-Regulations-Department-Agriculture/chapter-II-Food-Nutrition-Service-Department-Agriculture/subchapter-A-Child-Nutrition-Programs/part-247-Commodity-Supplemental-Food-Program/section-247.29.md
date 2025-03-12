@@ -8,7 +8,7 @@
 
 (2) *FNS-153, Monthly Report of the Commodity Supplemental Food Program and Quarterly Administrative Financial Status Report.* The State agency must submit the FNS-153 on a monthly basis. FNS may permit the data contained in the report to be submitted less frequently, or in another format. The report must be submitted within 30 days after the end of the reporting period. On the FNS-153, the State agency reports:
 
-(i) The number of program participants in each population category (e.g., infants, children, and elderly);
+(i) The number of program participants;
 
 (ii) The receipt and distribution of commodities, and beginning and ending inventories, as well as other commodity data; and
 
@@ -18,4 +18,4 @@
 
 (c) *Is there any other information that State and local agencies must provide to FNS?* FNS may require State and local agencies to provide data collected in the program to aid in the evaluation of the effect of program benefits on the low-income populations served. Any such requests for data will not include identification of particular individuals.
 
-(Approved by the Office of Management and Budget under control numbers 0584-0025, 0584-0293)[70 FR 47063, Aug. 11, 2005, as amended at 72 FR 24184, May 2, 2007; 79 FR 38751, July 9, 2014]
+(Approved by the Office of Management and Budget under control numbers 0584-0025, 0584-0293)[70 FR 47063, Aug. 11, 2005, as amended at 72 FR 24184, May 2, 2007; 79 FR 38751, July 9, 2014; 85 FR 68722, Oct. 30, 2020]

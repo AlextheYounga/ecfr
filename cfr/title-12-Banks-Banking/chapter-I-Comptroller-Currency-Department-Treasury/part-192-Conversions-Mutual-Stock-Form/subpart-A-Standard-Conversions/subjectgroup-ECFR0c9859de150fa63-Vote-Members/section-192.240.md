@@ -1,6 +1,6 @@
-##### § 192.240 What must I submit after the members' meeting? #####
+##### § 192.240 Submission of documents to the appropriate Federal banking agency after the members' meeting. #####
 
-(a) Promptly after the members' meeting, you must file all of the following information with the appropriate OCC licensing office if you are a Federal savings association, and with the appropriate FDIC region if you are a state savings association.
+(a) *Filings after members' meeting.* Promptly after the members' meeting, a savings association must file all of the following information with the appropriate OCC licensing office, if the savings association is Federally-chartered, and with the appropriate FDIC region if the savings association is State-chartered.
 
 (1) A certified copy of each adopted resolution on the conversion.
 
@@ -12,6 +12,6 @@
 
 (5) The percentage of votes necessary to approve each matter.
 
-(6) An opinion of counsel that you conducted the members' meeting in compliance with all applicable state or Federal laws and regulations.
+(6) An opinion of counsel that the savings association conducted the members' meeting in compliance with all applicable State or Federal laws and regulations.
 
-(b) Promptly after completion of the conversion, you must submit an opinion of counsel that you complied with all laws applicable to the conversion.
+(b) *Filing after conversion.* Promptly after completion of the conversion, the savings association must submit an opinion of counsel that it complied with all laws applicable to the conversion.

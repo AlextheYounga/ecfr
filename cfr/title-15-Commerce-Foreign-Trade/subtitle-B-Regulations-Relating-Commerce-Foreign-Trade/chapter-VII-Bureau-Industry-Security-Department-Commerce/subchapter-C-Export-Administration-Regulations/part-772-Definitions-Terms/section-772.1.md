@@ -1218,7 +1218,8 @@ The “superconductive” state of a material is individually characterized by a
 
 Note:
 
-The industrial standards established by INCOSE and NASA provide examples for when commodities and software operate together to perform a function as a system. References to these standards are included in this note to provide additional examples for when commodities or software operate together to perform a function as a system. See the INCOSE standards for what constitutes a system at (*http://g2sebok.incose.org/app/mss /asset.cfm?ID=INCOSE%20G2SEBOK%202.00&ST=F*), and in the (INCOSE SE Handbook v3.1 2007; ISO/IEC 15288:2008). Also see the NASA standards for examples of what constitutes a system in the (NASA SE Handbook SP-2007-6105 Rev 1).
+The industrial standards established by INCOSE and NASA provide examples for when commodities and software operate together to perform a function as a system. References to these standards are included in this note to provide additional examples for when commodities or software operate together to perform a function as a system. See the INCOSE standards for what constitutes a system at (*http://
+g2sebok.incose.org/app/mss/asset.cfm?ID=INCOSE%20G2SEBOK%202.00&ST=F*), and in the (INCOSE SE Handbook v3.1 2007; ISO/IEC 15288:2008). Also see the NASA standards for examples of what constitutes a system in the (NASA SE Handbook SP-2007-6105 Rev 1).
 
 *Technology. Technology* means:
 

@@ -1,7 +1,5 @@
 ##### § 73.3571 Processing of AM broadcast station applications. #####
 
-Link to an amendment published at 85 FR 36794, June 18, 2020.
-
 (a) Applications for AM broadcast facilities are divided into three groups.
 
 (1) In the first group are applications for new stations or for major changes in the facilities of authorized stations. A major change for an AM station authorized under this part is any change in frequency, except frequency changes to non-expanded band first, second or third adjacent channels. A major change in ownership is a situation where the original party or parties to the application do not retain more than 50% ownership interest in the application as originally filed. A major change in community of license is one in which the applicant's daytime facilities at the proposed community are not mutually exclusive, as defined in § 73.37, with the applicant's current daytime facilities, or any change in community of license of an AM station in the 1605-1705 kHz band. All other changes will be considered minor.
@@ -28,7 +26,7 @@ Link to an amendment published at 85 FR 36794, June 18, 2020.
 
 (4) The following special procedures will be followed in authorizing Class II-D daytime-only stations on 940 and 1550 kHz, and Class III daytime-only stations on the 41 regional channels listed in § 73.26(a), to operate unlimited-time.
 
-(i) Each eligible daytime-only station in the foregoing categories will receive an Order to Show Cause why its license should not be modified to specify operation during nighttime hours with the facilities it is licensed to start using at local sunrise, using the power stated in the Order to Show Cause, that the Commission finds is the highest nighttime level - not exceeding 0.5 kW - at which the station could operate without causing prohibited interference to other domestic or foreign stations, or to co-channel or adjacent channel stations for which pending applications were filed before December 1, 1987.
+(i) Each eligible daytime-only station in the foregoing categories will receive an Order to Show Cause why its license should not be modified to specify operation during nighttime hours with the facilities it is licensed to start using at local sunrise, using the power stated in the Order to Show Cause, that the Commission finds is the highest nighttime level—not exceeding 0.5 kW—at which the station could operate without causing prohibited interference to other domestic or foreign stations, or to co-channel or adjacent channel stations for which pending applications were filed before December 1, 1987.
 
 (ii) Stations accepting such modification shall be reclassified. Those authorized in such Show Cause Orders to operate during nighttime hours with a power of 0.25 kW or more, or with a power that, although less than 0.25 kW, is sufficient to enable them to attain RMS field strengths of 141 mV/m or more at 1 kilometer, shall be redesignated as Class II-B stations if they are assigned to 940 or 1550 kHz, and as unlimited-time Class III stations if they are assigned to regional channels.
 
@@ -94,7 +92,7 @@ Link to an amendment published at 85 FR 36794, June 18, 2020.
 
 (2) The daytime facilities specified by the applicant at the proposed community of license must be mutually exclusive, as defined in § 73.37, with the applicant's current daytime facilities; and
 
-(3) Notwithstanding the provisions of § 73.3580(a), the applicant must comply with the local public notice provisions of §§ 73.3580(c)(3), 73.3580(d)(3), and 73.3580(f). The exception contained in § 73.3580(e) shall not apply to an application proposing to change the community of license of an AM station.
+(3) The applicant must comply with the local public notice provisions of § 73.3580(c)(5).
 
 (k)(1) An AM applicant receiving a dispositive Section 307(b) preference is required to construct and operate technical facilities substantially as proposed in its FCC Form 175. An AM applicant, licensee, or permittee receiving a dispositive Section 307(b) preference based on its proposed service to underserved populations (under Priority (1), Priority (2), and Priority (4)) or service totals (under Priority (4)) may modify its facilities so long as it continues to provide the same priority service to substantially the same number of persons who would have received service under the initial proposal, even if the population is not the same population that would have received such service under the initial proposal. For purposes of this provision, “substantially” means that any proposed modification must not result in a decrease of more than 20 percent of any population figure that was a material factor in obtaining the dispositive Section 307(b) preference.
 
@@ -106,4 +104,4 @@ Note to § 73.3571:
 
 For purposes of paragraph (h)(1)(ii) of this section, § 73.182(k) interference standards apply when determining nighttime mutual exclusivity between applications to provide AM service that are filed in the same window. Two applications would be deemed to be mutually exclusive if either application would be subject to dismissal because it would enter into, *i.e.*, raise, the twenty-five percent exclusion RSS nighttime limit of the other.
 
-[63 FR 48625, Sept. 11, 1998, as amended at 64 FR 19501, Apr. 21, 1999; 67 FR 45374, July 9, 2002; 68 FR 26227, May 15, 2003; 71 FR 6228, Feb. 7, 2006; 71 FR 76219, Dec. 20, 2006; 75 FR 9806, Mar. 4, 2010; 76 FR 18952, Apr. 6, 2011]
+[63 FR 48625, Sept. 11, 1998, as amended at 64 FR 19501, Apr. 21, 1999; 67 FR 45374, July 9, 2002; 68 FR 26227, May 15, 2003; 71 FR 6228, Feb. 7, 2006; 71 FR 76219, Dec. 20, 2006; 75 FR 9806, Mar. 4, 2010; 76 FR 18952, Apr. 6, 2011; 85 FR 36794, June 18, 2020]

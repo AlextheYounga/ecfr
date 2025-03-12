@@ -1,0 +1,19 @@
+##### § 302.102 Notice and application for protective decree for covered broker or dealer. #####
+
+(a) SIPC and the Corporation, upon consultation with the Commission, shall jointly determine the terms of a notice and application for a protective decree that will be filed promptly with the Federal district court for the district within which the principal place of business of the covered broker or dealer is located; *provided that* if a case or proceeding under SIPA with respect to such covered broker or dealer is then pending, then such notice and application for a protective decree will be filed promptly with the Federal district court in which such case or proceeding under SIPA is pending. If such notice and application for a protective decree is filed on a date other than the appointment date, such filing shall be deemed to have occurred on the appointment date for the purposes of §§ 302.100 through 302.107.
+
+(b) A notice and application for a protective decree may, among other things, provide for notice—
+
+(1) Of the appointment of the Corporation as receiver and the appointment of SIPC as trustee for the covered broker or dealer; and
+
+(2) That the provisions of Title II of the Dodd-Frank Act and any regulations promulgated thereunder may apply, including without limitation the following:
+
+(i) Any existing case or proceeding with respect to a covered broker or dealer under the Bankruptcy Code or SIPA shall be dismissed effective as of the appointment date and no such case or proceeding may be commenced with respect to a covered broker or dealer at any time while the Corporation is receiver for such covered broker or dealer;
+
+(ii) The revesting of assets in a covered broker or dealer to the extent that they have vested in any entity other than the covered broker or dealer as a result of any case or proceeding commenced with respect to the covered broker or dealer under the Bankruptcy Code, SIPA, or any similar provision of State liquidation or insolvency law applicable to the covered broker or dealer; *provided that* any such revesting shall not apply to assets held by the covered broker or dealer, including customer property, transferred prior to the appointment date pursuant to an order entered by the bankruptcy court presiding over the case or proceeding with respect to the covered broker or dealer;
+
+(iii) The request of the Corporation as receiver for a stay in any judicial action or proceeding (other than actions dismissed in accordance with paragraph (b)(i) of this section) in which the covered broker or dealer is or becomes a party for a period of up to 90 days from the appointment date;
+
+(iv) Except as provided in paragraph (b)(v) of this section with respect to qualified financial contracts, no person may exercise any right or power to terminate, accelerate or declare a default under any contract to which the covered broker or dealer is a party (and no provision in any such contract providing for such default, termination or acceleration shall be enforceable), or to obtain possession of or exercise control over any property of the covered broker or dealer or affect any contractual rights of the covered broker or dealer without the consent of the Corporation as receiver of the covered broker or dealer upon consultation with SIPC during the 90-day period beginning from the appointment date; and
+
+(v) The exercise of rights and the performance of obligations by parties to qualified financial contracts with the covered broker or dealer may be affected, stayed, or delayed pursuant to the provisions of Title II of the Dodd-Frank Act (including 12 U.S.C. 5390(c)) and the regulations promulgated thereunder.

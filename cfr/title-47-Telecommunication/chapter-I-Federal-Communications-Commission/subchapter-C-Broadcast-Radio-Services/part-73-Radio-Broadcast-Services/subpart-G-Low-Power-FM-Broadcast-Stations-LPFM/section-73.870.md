@@ -1,10 +1,8 @@
 ##### § 73.870 Processing of LPFM broadcast station applications. #####
 
-Link to an amendment published at 85 FR 35574, June 11, 2020.
+(a) A minor change for an LPFM station authorized under this subpart is limited to transmitter site relocations not exceeding 11.2 kilometers or where the 60 dBu contour of the authorized facility overlaps the 60 dBu contour of the proposed facility. These distance limitations do not apply to amendments or applications proposing transmitter site relocation to a common location filed by applicants that are parties to a voluntary time-sharing agreement with regard to their stations pursuant to § 73.872(c) and (e). These distance limitations also do not apply to an amendment or application proposing transmitter site relocation to a common location or a location very close to another station operating on a third-adjacent channel in order to remediate interference to the other station; provided, however, that the proposed relocation is consistent with all localism certifications made by the applicant in its original application for the LPFM station. Minor changes of LPFM stations may include:
 
-(a) A minor change for an LPFM station authorized under this subpart is limited to transmitter site relocations of 5.6 kilometers or less. These distance limitations do not apply to amendments or applications proposing transmitter site relocation to a common location filed by applicants that are parties to a voluntary time-sharing agreement with regard to their stations pursuant to § 73.872 paragraphs (c) and (e). These distance limitations also do not apply to an amendment or application proposing transmitter site relocation to a common location or a location very close to another station operating on a third-adjacent channel in order to remediate interference to the other station; provided, however, that the proposed relocation is consistent with all localism certifications made by the applicant in its original application for the LPFM station. Minor changes of LPFM stations may include:
-
-(1) Changes in frequency to adjacent or IF frequencies or, upon a technical showing of reduced interference, to any frequency; and
+(1) Changes in frequency to adjacent or IF frequencies (± 1, 2, 3, 53 or 54 channels) or, upon a technical showing of reduced interference, to any frequency; and
 
 (2) Amendments to time-sharing agreements, including universal agreements that supersede involuntary arrangements.
 
@@ -18,4 +16,4 @@ Link to an amendment published at 85 FR 35574, June 11, 2020.
 
 (f) New entrants seeking to apply for unused or unwanted time on a time-sharing frequency will only be accepted during an open filing window, specified pursuant to paragraph (b) of this section.
 
-[65 FR 7640, Feb. 15, 2000, as amended at 65 FR 67304, Nov. 9, 2000; 70 FR 39186, July 7, 2005; 73 FR 3217, Jan. 17, 2008; 78 FR 2108, Jan. 9, 2013]
+[65 FR 7640, Feb. 15, 2000, as amended at 65 FR 67304, Nov. 9, 2000; 70 FR 39186, July 7, 2005; 73 FR 3217, Jan. 17, 2008; 78 FR 2108, Jan. 9, 2013; 85 FR 35574, June 11, 2020]

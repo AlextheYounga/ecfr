@@ -6,17 +6,13 @@ Following is a list of definitions that apply to the Commodity Supplemental Food
 
 *Applicant* means any person who applies to receive program benefits. Applicants include program participants applying for recertification.
 
-*Breastfeeding women* means women up to one year postpartum who are breastfeeding their infants.
-
 *Caseload* means the number of persons the State agency may serve on an average monthly basis over the course of the caseload cycle.
 
 *Caseload cycle* means the period from January 1 through the following December 31.
 
 *Certification* means the use of procedures to determine an applicant's eligibility for the program.
 
-*Certification period* means the period of time that a participant may continue to receive program benefits without a review of his or her eligibility.
-
-*Children* means persons who are at least one year of age but have not reached their sixth birthday.
+*Certification period* means the period during which a CSFP participant may continue to receive benefits under CSFP without a formal review of eligibility.
 
 *Commodities* means nutritious foods purchased by USDA to supplement the diets of CSFP participants.
 
@@ -26,7 +22,7 @@ Following is a list of definitions that apply to the Commodity Supplemental Food
 
 *Disqualification* means the act of ending Program participation of a participant as a punitive sanction.
 
-*Dual participation* means simultaneous participation by an individual in CSFP and the WIC Program, or in CSFP at more than one distribution site.
+*Dual participation* means the simultaneous participation by an individual in CSFP at more than one distribution site.
 
 *Elderly persons* means persons at least 60 years of age.
 
@@ -34,13 +30,9 @@ Following is a list of definitions that apply to the Commodity Supplemental Food
 
 *FNS* means the Food and Nutrition Service.
 
-*Infants* means persons under one year of age.
-
 *Local agency* means a public or private nonprofit agency, including an Indian tribal organization, which enters into an agreement with the State agency to administer CSFP at the local level.
 
 *Nonprofit agency* means a private agency or organization with tax-exempt status under the Internal Revenue Code, or that has applied for tax-exempt status with the Internal Revenue Service.
-
-*Postpartum women* means women up to one year after termination of pregnancy.
 
 *Proxy* means any person designated by a participant, or by the participant's adult parent or caretaker, to obtain supplemental foods on behalf of the participant.
 
@@ -56,6 +48,4 @@ Following is a list of definitions that apply to the Commodity Supplemental Food
 
 *USDA implementing regulations* include the following: 2 CFR part 400, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards; 2 CFR part 415, General Program Administrative Regulations; 2 CFR part 416, General Program Administrative Regulations for Grants and Cooperative Agreements to State and Local Governments; and 2 CFR part 418, New Restrictions on Lobbying.
 
-*WIC Program* means the Special Supplemental Nutrition Program for Women, Infants, and Children.
-
-[70 FR 47063, Aug. 11, 2005, as amended at 81 FR 66495, Sept. 28, 2016]
+[70 FR 47063, Aug. 11, 2005, as amended at 81 FR 66495, Sept. 28, 2016; 85 FR 68721, Oct. 30, 2020]

@@ -1,17 +1,21 @@
 ##### § 73.7002 Fair distribution of service on reserved band FM channels. #####
 
-Link to an amendment published at 85 FR 7891, Feb. 12, 2020.
-
 (a) If timely filed applications for full service stations on reserved FM channels are determined to be mutually exclusive, and will serve different communities, the Commission will first determine, as a threshold issue, whether grant of a particular application would substantially further the fair distribution of service goals enunciated in section 307(b) of the Communications Act, 47 U.S.C. 307(b).
 
 (b) In an analysis performed pursuant to paragraph (a) of this section, a full-service FM applicant that identifies itself as a Tribal Applicant, that proposes Tribal Coverage, and that proposes the first reserved channel NCE service owned by any Tribal Applicant at a community of license located on Tribal Lands, will be awarded a construction permit. If two or more full-service FM applicants identify themselves as Tribal Applicants and meet the above criteria, the applicant providing the most people with reserved channel NCE service to Tribal Lands will be awarded a construction permit, regardless of the magnitude of the superior service or the populations of the communities of license proposed, if different. If two or more full-service FM applicants identifying themselves as Tribal Applicants each meet the above criteria and propose identical levels of NCE aural service to Tribal Lands, only those applicants shall proceed to be considered together in a point system analysis. In an analysis performed pursuant to paragraph (a) of this section that does not include a Tribal Applicant, a full service FM applicant that will provide the first or second reserved channel noncommercial educational (NCE) aural signal received by at least 10% of the population within the station's 60dBu (1mV/m) service contours will be considered to substantially further fair distribution of service goals and to be superior to mutually exclusive applicants not proposing that level of service, provided that such service to fewer than 2,000 people will be considered insignificant. First service to 2,000 or more people will be considered superior to second service to a population of any size. If only one applicant will provide such first or second service, that applicant will be selected as a threshold matter. If more than one applicant will provide an equivalent level (first or second) of NCE aural service, the size of the population to receive such service from the mutually exclusive applicants will be compared. The applicant providing the most people with the highest level of service will be awarded a construction permit, if it will provide such service to 5,000 or more people than the next best applicant. If none of the applicants in a mutually exclusive group would substantially further fair distribution goals, all applicants will proceed to examination under a point system. If two or more applicants will provide the same level of service to an equivalent number of people (differing by less than 5,000), only those equivalent applicants will be considered together in a point system.
 
-(c) For a period of four years of on-air operations, an applicant receiving a decisive preference pursuant to this section is required to construct and operate technical facilities substantially as proposed and shall not downgrade service to the area on which the preference was based. Additionally, for a period beginning from the award of a construction permit through four years of on-air operations, a Tribal Applicant receiving a decisive preference pursuant to this section may not:
+(c)(1) For a period of four years of on-air operations, an applicant receiving a decisive preference pursuant to this section is required to construct and operate technical facilities substantially as proposed. During this period, such applicant may make minor modifications to its authorized facilities, provided that either:
 
-(1) Assign or transfer the authorization except to another party that qualifies as a Tribal Applicant;
+(i) The modification does not downgrade service to the area on which the preference was based; or
 
-(2) Change the facility's community of license; or
+(ii) Any potential loss of first and second NCE service is offset by at least equal first and, separately, combined first and second NCE service population gain(s), and the applicant would continue to qualify for a decisive Section 307(b) preference.
 
-(3) Effect a technical change that would cause the facility to provide less than full Tribal Coverage.
+(2) Additionally, for a period beginning from the award of a construction permit through four years of on-air operations, a Tribal Applicant receiving a decisive preference pursuant to this section may not:
 
-[65 FR 36380, June 8, 2000, as amended at 66 FR 15356, Mar. 19, 2001; 75 FR 9807, Mar. 4, 2010]
+(i) Assign or transfer the authorization except to another party that qualifies as a Tribal Applicant;
+
+(ii) Change the facility's community of license; or
+
+(iii) Effect a technical change that would cause the facility to provide less than full Tribal Coverage.
+
+[65 FR 36380, June 8, 2000, as amended at 66 FR 15356, Mar. 19, 2001; 75 FR 9807, Mar. 4, 2010; 85 FR 7891, Feb. 12, 2020]

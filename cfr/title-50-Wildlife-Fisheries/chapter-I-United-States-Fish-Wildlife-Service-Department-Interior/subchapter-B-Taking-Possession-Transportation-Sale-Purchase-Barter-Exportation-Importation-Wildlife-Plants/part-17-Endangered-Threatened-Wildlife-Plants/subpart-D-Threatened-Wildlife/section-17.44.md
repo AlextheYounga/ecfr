@@ -1,7 +1,5 @@
 ##### § 17.44 Special rules - fishes. #####
 
-Link to an amendment published at 85 FR 61618, Sept. 30, 2020.
-
 (a) Lahontan cutthroat trout, Paiute cutthroat trout, and Arizona trout (*Salmo clarki henshawi, Salmo clarki seleniris,* and *Salmo apache*). (1) All the provisions of § 17.31 apply to these species, except that they may be taken in accordance with applicable State law.
 
 (2) Violation of State law will also be a violation of the Act.
@@ -118,7 +116,51 @@ Link to an amendment published at 85 FR 61618, Sept. 30, 2020.
 
 (D) Repair and maintenance of U.S. Forest Service concrete plank stream crossings on the Daniel Boone National Forest (DBNF) that allow for safe vehicle passage while maintaining instream habitats, reducing bank and stream bed erosion and instream sedimentation, and improving habitat conditions for the species. These concrete plank crossings have been an effective stream crossing structure on the DBNF and have been used for decades. Over time, the planks can be buried by sediment, undercut during storm events, or simply break down and decay. If these situations occur, the DBNF must make repairs or replace the affected plank.
 
-(q) [Reserved]
+(q) Trispot darter (*Etheostoma trisella*). (1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the trispot darter. Except as provided under paragraph (q)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to the trispot darter:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(2) *Exceptions from prohibitions.* In regard to this species, you may:
+
+(i) Conduct activities as authorized by a permit issued under § 17.32.
+
+(ii) Take, as set forth at § 17.21(c)(2) through (c)(4) for endangered wildlife.
+
+(iii) Take, as set forth at § 17.31(b).
+
+(iv) Take incidental to an otherwise lawful activity caused by:
+
+(A) Species restoration efforts by State wildlife agencies, including collection of broodstock, tissue collection for genetic analysis, captive propagation, and subsequent stocking into currently occupied and unoccupied areas within the historical range of the species.
+
+(B) Channel restoration projects that create natural, physically stable, ecologically functioning streams (or stream and wetland systems) that are reconnected with their groundwater aquifers and, if the projects involve known trispot darter spawning habitat, that take place between May 1 and December 31. These projects can be accomplished using a variety of methods, but the desired outcome is a natural channel with low shear stress (force of water moving against the channel); bank heights that enable reconnection to the floodplain; a reconnection of surface and groundwater systems, resulting in perennial flows in the channel; riffles and pools comprised of existing soil, rock, and wood instead of large imported materials; low compaction of soils within adjacent riparian areas; and inclusion of riparian wetlands.
+
+(C) Streambank stabilization projects that utilize bioengineering methods to replace pre-existing, bare, eroding stream banks with vegetated, stable stream banks, thereby reducing bank erosion and instream sedimentation and improving habitat conditions for the species. Stream banks may be stabilized using live stakes (live, vegetative cuttings inserted or tamped into the ground in a manner that allows the stake to take root and grow), live fascines (live branch cuttings, usually willows, bound together into long, cigar-shaped bundles), or brush layering (cuttings or branches of easily rooted tree species layered between successive lifts of soil fill). Stream banks must not be stabilized solely through the use of quarried rock (rip-rap) or the use of rock baskets or gabion structures.
+
+(D) Silviculture practices and forest management activities that:
+
+(*1*) Implement State best management practices, particularly for streamside management zones, for stream crossings, for forest roads, for erosion control, and to maintain stable channel morphology; or
+
+(*2*) Remove logging debris or any other large material placed within natural or artificial wet weather conveyances or ephemeral, intermittent, or perennial stream channels; and
+
+(*3*) When such activities involve trispot darter spawning habitat, are carried out between May 1 and December 31.
+
+(E) Transportation projects that provide for fish passage at stream crossings that are performed between May 1 and December 31 to avoid the time period when the trispot darter will be found within spawning habitat, if such habitat is affected by the activity.
+
+(F) Projects carried out in the species' range under the Working Lands for Wildlife program of the Natural Resources Conservation Service, U.S. Department of Agriculture, that:
+
+(*1*) Do not alter habitats known to be used by the trispot darter beyond the fish's tolerances; and
+
+(*2*) Are performed between May 1 and December 31 to avoid the time period when the trispot darter will be found within its spawning habitat, if such habitat is affected by the activity.
+
+(v) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
 
 (r) Pecos bluntnose shiner (*Notropis simus pecosensis*). (1) No person shall take the species, except in accordance with applicable State fish and wildlife conservation laws and regulations in the following instances:
 

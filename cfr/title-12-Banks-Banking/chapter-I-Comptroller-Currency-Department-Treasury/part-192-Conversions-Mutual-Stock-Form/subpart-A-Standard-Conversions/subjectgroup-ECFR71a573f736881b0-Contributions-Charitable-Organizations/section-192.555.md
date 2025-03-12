@@ -1,3 +1,3 @@
-##### § 192.555 How do my members approve a charitable contribution? #####
+##### § 192.555 Member approval of charitable contributions. #####
 
-At the meeting to consider your conversion, your members must separately approve by at least a majority of the total eligible votes, a contribution of conversion shares or proceeds. If you are in mutual holding company form and adding a charitable contribution as part of a second step stock conversion, you must also have your minority shareholders separately approve the charitable contribution by a majority of their total eligible votes.
+At the meeting to consider the conversion, a savings association's members must separately approve, by a majority of the total eligible votes, a charitable contribution of conversion shares or proceeds. If the savings association is in mutual holding company form and adding a charitable contribution as part of a second step stock conversion, the savings association must also have its minority shareholders separately approve the charitable contribution by a majority of their total eligible votes.

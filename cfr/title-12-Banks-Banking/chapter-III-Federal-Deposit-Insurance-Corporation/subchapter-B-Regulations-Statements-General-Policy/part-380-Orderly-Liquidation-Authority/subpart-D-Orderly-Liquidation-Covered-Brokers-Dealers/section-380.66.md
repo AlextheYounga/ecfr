@@ -1,0 +1,5 @@
+##### § 380.66 Administrative expenses of SIPC. #####
+
+(a) In carrying out its responsibilities, SIPC, as trustee for a covered broker or dealer, may utilize the services of third parties, including private attorneys, accountants, consultants, advisors, outside experts, and other third party professionals. SIPC shall have an allowed claim for administrative expenses for any amounts paid by SIPC for such services to the extent that such services are available in the private sector, and utilization of such services is practicable, efficient, and cost effective. The term *administrative expenses of SIPC* includes the costs and expenses of such attorneys, accountants, consultants, advisors, outside experts, and other third party professionals, and other expenses that would be allowable to a third party trustee under 15 U.S.C. 78eee(b)(5)(A), including the costs and expenses of SIPC employees that would be allowable pursuant to 15 U.S.C. 78fff(e).
+
+(b) The term *administrative expenses of SIPC* shall not include advances from SIPC to satisfy customer claims for net equity.

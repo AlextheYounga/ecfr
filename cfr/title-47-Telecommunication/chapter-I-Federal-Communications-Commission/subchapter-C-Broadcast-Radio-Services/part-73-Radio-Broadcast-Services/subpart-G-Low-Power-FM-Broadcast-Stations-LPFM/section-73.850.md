@@ -1,7 +1,5 @@
 ##### § 73.850 Operating schedule. #####
 
-Link to an amendment published at 85 FR 35573, June 11, 2020.
-
 (a) All LPFM stations will be licensed for unlimited time operation, except those stations operating under a time sharing agreement pursuant to § 73.872.
 
 (b) All LPFM stations are required to operate at least 36 hours per week, consisting of at least 5 hours of operation per day on at least 6 days of the week; however, stations licensed to educational institutions are not required to operate on Saturday or Sunday or to observe the minimum operating requirements during those days designated on the official school calendar as vacation or recess periods.
@@ -16,4 +14,6 @@ Link to an amendment published at 85 FR 35573, June 11, 2020.
 
 (4) A departure from the regular schedule set forth in a time-sharing agreement will be permitted only in cases where a written agreement to that effect is reduced to writing, is signed by the licensees of the stations affected thereby, and is filed in triplicate by each licensee with the Commission, Attention: Audio Division, Media Bureau, prior to the time of the proposed change. If time is of the essence, the actual departure in operating schedule may precede the actual filing of the written agreement, provided that appropriate notice is sent to the Commission in Washington, DC, Attention: Audio Division, Media Bureau.
 
-[65 FR 7640, Feb. 15, 2000, as amended at 78 FR 2106, Jan. 9, 2013]
+(d) In the event that causes beyond the control of a permittee or licensee make it impossible to adhere to the operating schedule in paragraph (b) of this section or to continue operating, the station may limit or discontinue operation for a period not exceeding 30 days without further authority from the Commission provided that notification is sent to the Commission in Washington, DC, Attention: Audio Division, Media Bureau, no later than the 10th day of limited or discontinued operation. During such period, the permittee shall continue to adhere to the requirements of the station license pertaining to lighting of antenna structures. In the event normal operation is restored prior to the expiration of the 30 day period, the permittee or licensee will notify the FCC, Attention: Audio Division, of the date that normal operations resumed. If causes beyond the control of the permittee or licensee make it impossible to comply within the allowed period, Special Temporary Authority (see § 73.1635) must be requested to remain silent for such additional time as deemed necessary not to exceed, in total, 12 consecutive months (see § 73.873(b)).
+
+[65 FR 7640, Feb. 15, 2000, as amended at 78 FR 2106, Jan. 9, 2013; 85 FR 35573, June 11, 2020]

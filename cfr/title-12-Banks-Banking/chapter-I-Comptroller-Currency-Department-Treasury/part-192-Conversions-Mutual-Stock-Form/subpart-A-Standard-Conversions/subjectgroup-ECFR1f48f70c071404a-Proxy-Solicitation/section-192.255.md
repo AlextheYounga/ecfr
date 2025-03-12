@@ -1,4 +1,4 @@
-##### § 192.255 What must the form of proxy include? #####
+##### § 192.255 Form of proxy requirements. #####
 
 The form of proxy must include all of the following:
 
@@ -6,11 +6,11 @@ The form of proxy must include all of the following:
 
 (b) Blank spaces where the member must date and sign the proxy.
 
-(c) Clear and impartial identification of each matter or group of related matters that members will vote upon. You must include any proposed charitable contribution as an item to be voted on separately.
+(c) Clear and impartial identification of each matter or group of related matters that members will vote upon. The savings association must include any proposed charitable contribution as an item to be voted on separately.
 
 (d) The phrase “Revocable Proxy” in bold face type (at least 18 point).
 
-(e) A description of any charter or state law requirement that restricts or conditions votes by proxy.
+(e) A description of any charter or State law requirement that restricts or conditions votes by proxy.
 
 (f) An acknowledgment that the member received a proxy statement before he or she signed the form of proxy.
 

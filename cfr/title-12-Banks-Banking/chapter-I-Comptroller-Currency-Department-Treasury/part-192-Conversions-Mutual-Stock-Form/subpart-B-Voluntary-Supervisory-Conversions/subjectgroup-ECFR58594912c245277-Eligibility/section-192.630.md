@@ -9,5 +9,3 @@ A State-chartered savings bank may be eligible to convert to a Federal stock sav
 (1) The savings bank's liabilities exceed its assets, as calculated under generally accepted accounting principles, assuming the savings bank is a going concern; and
 
 (2) The savings bank will issue a sufficient amount of permanent capital stock to meet its applicable FDIC capital requirement immediately upon completion of the conversion, or the FDIC determines that the savings bank will achieve an acceptable capital level within an acceptable time period.
-
-Plan of Supervisory Conversion

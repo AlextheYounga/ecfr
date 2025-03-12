@@ -1,3 +1,3 @@
-##### § 192.230 Who is eligible to vote? #####
+##### § 192.230 Members' voting eligibility. #####
 
-You determine members' eligibility to vote by setting a voting record date. You must set a voting record date that is not more than 60 days nor less than 20 days before your meeting, unless you are a state-chartered savings association and state law requires a different voting record date.
+A savings association determines members' eligibility to vote by setting a voting record date. The savings association must set a voting record date that is not more than 60 calendar days nor less than 20 calendar days before its meeting, unless the savings association is State-chartered and State law requires a different voting record date.

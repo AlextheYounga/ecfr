@@ -28,6 +28,6 @@
 
 (e) *What is program income and how must State and local agencies use it?* Program income is income directly generated from program activities. It includes, for example, income from the sale of packing containers or pallets, and the salvage of commodities. Program income does not include interest earned from administrative funds. State and local agencies must use program income for allowable program costs, in accordance with 2 CFR part 200, subpart E, and USDA implementing regulations 2 CFR parts 400 and 415.
 
-(f) *How must State and local agencies use funds recovered as a result of claims actions?* The State agency must use funds recovered as a result of claims actions against subdistributing or local agencies in accordance with the provisions of § 250.15(c) of this chapter. The State agency must use funds recovered as a result of claims actions against participants for allowable program costs. The State agency may authorize local agencies to use such funds for allowable program costs incurred at the local level.
+(f) *How must State and local agencies use funds recovered as a result of claims actions?* The State agency must use funds recovered as a result of claims actions against subdistributing or local agencies in accordance with the provisions of § 250.17(c) of this chapter. The State agency must use funds recovered as a result of claims actions against participants for allowable program costs. The State agency may authorize local agencies to use such funds for allowable program costs incurred at the local level.
 
-[70 FR 47063, Aug. 11, 2005, as amended at 81 FR 66496, Sept. 28, 2016; 83 FR 14173, Apr. 3, 2018]
+[70 FR 47063, Aug. 11, 2005, as amended at 81 FR 66496, Sept. 28, 2016; 83 FR 14173, Apr. 3, 2018; 85 FR 68722, Oct. 30, 2020]

@@ -1,17 +1,9 @@
-##### § 192.650 What must I include in my plan of voluntary supervisory conversion? #####
+##### § 192.650 Contents of plan of voluntary supervisory conversion. #####
 
-A majority of your board of directors must adopt a plan of voluntary supervisory conversion. You must include all of the following information in your plan of voluntary supervisory conversion.
+A majority of the board of directors of the savings association must adopt a plan of voluntary supervisory conversion. The savings association must include all of the following information in its plan of voluntary supervisory conversion.
 
-(a) Your name and address.
+(a) The savings association's name and address.
 
-(b) The name, address, date and place of birth, and social security number of each proposed purchaser of conversion shares and a description of that purchaser's relationship to you.
+(b) A complete description of the proposed voluntary supervisory conversion transaction that also describes plans for any liquidation account.
 
-(c) The title, per-unit par value, number, and per-unit and aggregate offering price of shares that you will issue.
-
-(d) The number and percentage of shares that each investor will purchase.
-
-(e) The aggregate number and percentage of shares that each director, officer, and any affiliates or associates of the director or officer will purchase.
-
-(f) A description of any liquidation account.
-
-(g) Certified copies of all resolutions of your board of directors relating to the conversion.
+(c) Certified copies of all resolutions relating to the conversion adopted by the board of directors of the savings association.

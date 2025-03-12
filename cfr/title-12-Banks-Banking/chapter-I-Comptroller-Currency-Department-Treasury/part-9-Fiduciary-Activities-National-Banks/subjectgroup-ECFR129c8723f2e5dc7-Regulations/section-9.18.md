@@ -134,7 +134,7 @@
 
 (ii) *Prior request or notice.* A bank administering a collective investment fund may admit an account to or withdraw an account from a collective investment fund only if the bank has approved a request for or a notice of intention of taking that action on or before the valuation date on which the admission or withdrawal is based. No requests or notices may be canceled or countermanded after the valuation date.
 
-(iii) *Prior notice period for withdrawals from funds with assets not readily marketable* - (A) A bank administering a collective investment fund described in paragraph (a)(2) of this section that is invested primarily in real estate or other assets that are not readily marketable may require a prior notice period, not to exceed one year, for withdrawals.
+(iii) *Prior notice period for withdrawals from funds with assets not readily marketable.* (A) A bank administering a collective investment fund described in paragraph (a)(2) of this section that is invested primarily in real estate or other assets that are not readily marketable may require a prior notice period, not to exceed one year, for withdrawals.
 
 (B) A bank that requires a prior notice period for withdrawals must withdraw an account from the fund within the prior notice period or, if permissible under the fund's written plan, within one year after the date on which notice was required, except as described in paragraph (b)(5)(iii)(C) of this section.
 

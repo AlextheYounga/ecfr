@@ -1307,7 +1307,7 @@ The Director, TMA, shall issue guidelines for review of the specific high-risk c
 
 (25) Rehabilitation therapy as defined in § 199.2 of this part to improve, restore, or maintain function, or to minimize or prevent deterioration of function, of a patient when prescribed by a physician. The rehabilitation therapy must be medically necessary and appropriate medical care, rendered by an authorized provider, necessary to the establishment of a safe and effective maintenance program in connection with a specific medical condition, and must not be custodial care or otherwise excluded from coverage.
 
-(26) *National Institutes of Health clinical trials.* By law, the general prohibition against CHAMPUS cost-sharing of unproven drugs, devices, and medical treatments or procedures may be waived in connection with clinical trials sponsored or approved by the National Institutes of Health National Cancer Institute if it is determined that such a waiver will promote access by covered beneficiaries to promising new treatments and contribute to the development of such treatments. A waiver shall only be exercised as authorized under this paragraph.
+(26) *National Institutes of Health clinical trials.* By law, and pursuant to an agreement between the Department of Defense and the Department of Health and Human Services, the general prohibition against CHAMPUS cost-sharing of unproven drugs, devices, and medical treatments or procedures may be waived by the Secretary of Defense in connection with clinical trials sponsored or approved by the National Institutes of Health (NIH) or an NIH Institute or Center if it is determined that such a waiver will promote access by covered beneficiaries to promising new treatments and contribute to the development of such treatments. A waiver shall only be exercised as authorized under this paragraph.
 
 (i) *Demonstration waiver.* A waiver may be granted through a demonstration project established in accordance with Sec. 199.1(o) of this part.
 
@@ -1342,6 +1342,38 @@ The Director, TMA, shall issue guidelines for review of the specific high-risk c
 (*4*) Cost-shares and deductibles applicable to CHAMPUS will also apply under the NCI-sponsored clinical trials.
 
 (*5*) The Director, TRICARE (or designee), shall issue procedures and guidelines establishing NCI-sponsorship of clinical trials and the administrative process by which individual patients apply for and receive cost-sharing under NCI-sponsored cancer clinical trials.
+
+(iii) *Public Health Emergency Waiver.*
+
+(A) *General.* During public health emergencies (*e.g.,* a national state of emergency declared by the President), TRICARE may cover cost-sharing for TRICARE-eligible patients who participate in Phase I, II, III, or IV trials that are sponsored by the NIH or an NIH Institute for the purposes of treatment or prevention of the pandemic or public health emergency.
+
+(B) *National Institute of Allergy and Infectious Diseases (NIAID)-sponsored clinical trials for COVID-19.* For the duration of the President's national emergency regarding the COVID-19 outbreak, TRICARE will cover cost-sharing for those TRICARE-eligible patients selected to participate in NIAID-sponsored Phase I, II, III, and IV studies examining the treatment or prevention of COVID-19 and its associated sequelae (*e.g.,* cardiac and pulmonary issues). TRICARE will continue to cover cost-sharing for any eligible beneficiary enrolled in such a study until the conclusion of that study, even if the national emergency ends before the conclusion of the study.
+
+(*1*) TRICARE will cost-share all medical care (including associated health complications) and testing required to determine eligibility for an NIAID-sponsored trial, including the evaluation for eligibility at the institution conducting the NIAID-sponsored study. TRICARE will cost-share all medical care required as a result of participation in NIAID-sponsored studies. This includes purchasing and administering all approved pharmaceutical agents (except for NIAID-funded investigational drugs), all inpatient and outpatient care, including diagnostic, laboratory, rehabilitation, and home health services not otherwise reimbursed under an NIAID grant program if the following conditions are met:
+
+(*i*) Such treatments are NIAID-sponsored Phase I, Phase II, Phase III, or Phase IV protocols;
+
+(*ii*) The patient continues to meet entry criteria for said protocol;
+
+(*iii*) The institutional and individual providers are TRICARE-authorized providers; and
+
+(*iv*) The requirements for Phase I protocols in paragraph (e)(26)(iii)(B)(*2*) of this section are met.
+
+(*2*) Requirements for Phase I protocols are:
+
+(*i*) Standard treatment has been or would be ineffective, does not exist, or there is no superior non-investigational treatment alternative;
+
+(*ii*) The available clinical or preclinical data provide a reasonable expectation that the treatment will be at least as effective as the non-investigational alternative;
+
+(*iii*) The facility and personnel providing the treatment are capable of doing so by virtue of their experience, training, and volume of patients treated to maintain expertise; and
+
+(*iv*) The referring physician has concluded that the enrollee's participation in such a trial would be appropriate based upon the satisfaction of paragraphs (e)(26)(iii)(B)(*2*)(*i*) through (*iii*) of this section.
+
+(*3*) TRICARE will not provide reimbursement for care rendered in the NIH Clinical Center or costs associated with non-treatment research activities associated with the clinical trials.
+
+(*4*) Cost-shares and deductibles applicable to TRICARE will also apply under the NIAID-sponsored clinical trials.
+
+(*5*) The Director, Defense Health Agency (or designee), shall issue procedures and guidelines establishing NIAID-sponsorship of clinical trials and the administrative process by which individual patients apply for and receive cost-sharing under NIAID-sponsored COVID-19 clinical trials.
 
 (27) TRICARE will cost share forensic examinations following a sexual assault or domestic violence. The forensic examination includes a history of the event and a complete physical and collection of forensic evidence, and medical and psychological follow-up care. The examination for sexual assault also includes, but is not limited to, a test kit to retrieve forensic evidence, testing for pregnancy, testing for sexually transmitted disease and HIV, and medical services and supplies for prevention of sexually transmitted diseases, HIV, pregnancy, and counseling services.
 

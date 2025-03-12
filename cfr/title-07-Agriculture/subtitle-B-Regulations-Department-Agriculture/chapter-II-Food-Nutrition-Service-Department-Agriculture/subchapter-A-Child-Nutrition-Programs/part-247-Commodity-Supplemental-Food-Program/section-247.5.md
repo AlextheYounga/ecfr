@@ -34,7 +34,7 @@ State and local agencies are responsible for administering the program in accord
 
 (7) Establishing a financial management system that effectively accounts for funds received for program administration;
 
-(8) Developing a plan for the detection and prevention of dual participation, in coordination with CSFP local agencies and with the WIC State agency, unless no women, infants, and children remain enrolled in CSFP in the State;
+(8) Developing a plan for the detection and prevention of dual participation, in coordination with CSFP local agencies;
 
 (9) Developing a plan for providing nutrition education to participants;
 
@@ -68,4 +68,4 @@ State and local agencies are responsible for administering the program in accord
 
 (8) Pursuing claims against participants.
 
-[70 FR 47063, Aug. 11, 2005, as amended at 79 FR 38750, July 9, 2014]
+[70 FR 47063, Aug. 11, 2005, as amended at 79 FR 38750, July 9, 2014; 85 FR 68721, Oct. 30, 2020]

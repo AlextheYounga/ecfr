@@ -4,7 +4,7 @@
 
 (1) The local agency will provide notification of a decision to deny or terminate CSFP benefits, and of an individual's right to appeal this decision by requesting a fair hearing, in accordance with § 247.33(a);
 
-(2) The local agency will make nutrition education available to all adult participants, and, if applicable, to parents or caretakers of infant and child participants, and will encourage them to participate; and
+(2) The local agency will make nutrition education available to all participants and will encourage them to participate; and
 
 (3) The local agency will provide information on other nutrition, health, or assistance programs, and make referrals as appropriate.
 
@@ -14,4 +14,4 @@
 
 (2) Participants must report changes in household income or composition within 10 days after the change becomes known to the household.
 
-[70 FR 47063, Aug. 11, 2005, as amended at 79 FR 38751, July 9, 2014]
+[70 FR 47063, Aug. 11, 2005, as amended at 79 FR 38751, July 9, 2014; 85 FR 68721, Oct. 30, 2020]

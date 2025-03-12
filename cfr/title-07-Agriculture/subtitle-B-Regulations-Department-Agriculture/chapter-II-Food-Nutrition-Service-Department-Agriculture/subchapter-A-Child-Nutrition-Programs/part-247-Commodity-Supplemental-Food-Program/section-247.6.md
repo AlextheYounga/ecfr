@@ -8,7 +8,7 @@
 
 (1) The names and addresses of all local agencies and subdistributing agencies with which the State agency has entered into agreement;
 
-(2) The income eligibility standards to be used for women, infants, and children, if applicable, and the options to be used relating to income or other eligibility requirements, as provided under § 247.9;
+(2) The income eligibility standards and the options to be used relating to income or other eligibility requirements, as provided under § 247.9;
 
 (3) The nutritional risk criteria to be used, if the State chooses to establish such criteria;
 
@@ -20,7 +20,7 @@
 
 (7) A description of plans for providing nutrition education to participants;
 
-(8) A description of the means by which the State agency will detect and prevent dual participation, including, if applicable, collaboration with the State WIC agency and a copy of the agreement signed with the State WIC agency to accomplish this;
+(8) A description of the means by which the State agency will detect and prevent dual participation;
 
 (9) A description of the standards the State agency will use in determining if the pursuit of a claim against a participant is cost-effective;
 
@@ -28,6 +28,8 @@
 
 (11) Copies of all agreements entered into by the State agency.
 
+(12) The length of the State agency's certification period.
+
 (d) *When must the State agency submit amendments to the State Plan?* The State agency must submit amendments to FNS to reflect any changes in program operations or administration described in the State Plan, and to request additional caseload for the following caseload cycle. FNS may also require that the State Plan be amended to reflect changes in Federal law or policy. The State agency may submit amendments to the State Plan at any time during the fiscal year, for FNS approval. The amendments will take effect immediately upon approval, unless otherwise specified by FNS. If a State agency would like to receive additional caseload for the caseload cycle beginning the following January 1, it must submit an amendment to the Plan which conveys the request for additional caseload by November 5. The State agency must also describe in this submission any plans for serving participants at new sites. FNS action on the State agency's request for additional caseload is part of the caseload assignment process, as described under § 247.21.
 
-(Approved by the Office of Management and Budget under control number 0584-0293)[70 FR 47063, Aug. 11, 2005, as amended at 79 FR 38750, July 9, 2014]
+(Approved by the Office of Management and Budget under control number 0584-0293)[70 FR 47063, Aug. 11, 2005, as amended at 79 FR 38750, July 9, 2014; 85 FR 68721, Oct. 30, 2020]

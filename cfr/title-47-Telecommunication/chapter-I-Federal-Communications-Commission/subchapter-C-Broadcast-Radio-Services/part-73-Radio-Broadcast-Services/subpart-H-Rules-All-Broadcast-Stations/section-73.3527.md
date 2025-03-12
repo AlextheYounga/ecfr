@@ -1,7 +1,5 @@
 ##### § 73.3527 Online public inspection file of noncommercial educational stations. #####
 
-Link to an amendment published at 85 FR 36794, June 18, 2020.
-
 (a) *Responsibility to maintain a file.* The following shall maintain for public inspection a file containing the material set forth in this section.
 
 (1) Applicants for a construction permit for a new station in the noncommercial educational broadcast services shall maintain a public inspection file containing the material, relating to that station, described in paragraph (e)(2) and (e)(11) of this section. A separate file shall be maintained for each station for which an application is pending. If the application is granted, paragraph (a)(2) of this section shall apply.
@@ -44,7 +42,7 @@ Link to an amendment published at 85 FR 36794, June 18, 2020.
 
 (9) *Donor lists.* The lists of donors supporting specific programs. These lists shall be retained for two years from the date of the broadcast of the specific program supported.
 
-(10) *Local public notice announcements.* Each applicant for renewal of license shall, within 7 days of the last day of broadcast of the local public notice of filing announcements required pursuant to § 73.3580(h), place in the station's local public inspection file a statement certifying compliance with this requirement. The dates and times that the pre-filing and post-filing notices were broadcast and the text thereof shall be made part of the certifying statement. The certifying statement shall be retained in the public file for the period specified in § 73.3580 (for as long as the application to which it refers).
+(10) *Local public notice announcements.* Each applicant for renewal of license shall, within 7 days of the last day of broadcast of the local public notice of filing announcements required pursuant to § 73.3580(c)(3), place in the station's online public inspection file a statement certifying compliance with this paragraph (e)(10). The dates and times that the on-air announcements were broadcast shall be made part of the certifying statement. The certifying statement shall be retained in the public file for the period specified in § 73.3580(e)(2) (for as long as the application to which it refers).
 
 (11) *Material relating to FCC investigation or complaint.* Material having a substantial bearing on a matter which is the subject of an FCC investigation or complaint to the FCC of which the applicant, permittee, or licensee has been advised. This material shall be retained until the applicant, permittee, or licensee is notified in writing that the material may be discarded.
 
@@ -58,4 +56,4 @@ Link to an amendment published at 85 FR 36794, June 18, 2020.
 
 (2) For purposes of this section, the term “all related material” includes all exhibits, letters, and other documents tendered for filing with the FCC as part of an application, report, or other document, all amendments to the application, report, or other document, copies of all documents incorporated therein by reference and not already maintained in the public inspection file, and all correspondence between the FCC and the applicant pertaining to the application, report, or other document, which according to the provisions of §§ 0.451 through 0.461 of this chapter are open for public inspection at the offices of the FCC.
 
-[63 FR 49499, Sept. 16, 1998, as amended at 64 FR 35947, July 2, 1999; 65 FR 7457, Feb. 15, 2000; 65 FR 36378, June 8, 2000; 65 FR 53614, Sept. 5, 2000; 73 FR 15450, Mar. 24, 2008; 73 FR 36283, June 26, 2008; 76 FR 71269, Nov. 17, 2011; 77 FR 27656, May 11, 2012; 81 FR 10123, Feb. 29, 2016; 82 FR 21136, May 5, 2017; 82 FR 57883, Dec. 8, 2017; 82 FR 59987, Dec. 18, 2017; 83 FR 5545, Feb. 8, 2018; 83 FR 65558, Dec. 21, 2018; 84 FR 45668, Aug. 30, 2019; 85 FR 21078, Apr. 16, 2020]
+[63 FR 49499, Sept. 16, 1998, as amended at 64 FR 35947, July 2, 1999; 65 FR 7457, Feb. 15, 2000; 65 FR 36378, June 8, 2000; 65 FR 53614, Sept. 5, 2000; 73 FR 15450, Mar. 24, 2008; 73 FR 36283, June 26, 2008; 76 FR 71269, Nov. 17, 2011; 77 FR 27656, May 11, 2012; 81 FR 10123, Feb. 29, 2016; 82 FR 21136, May 5, 2017; 82 FR 57883, Dec. 8, 2017; 82 FR 59987, Dec. 18, 2017; 83 FR 5545, Feb. 8, 2018; 83 FR 65558, Dec. 21, 2018; 84 FR 45668, Aug. 30, 2019; 85 FR 21078, Apr. 16, 2020; 85 FR 36794, June 18, 2020]

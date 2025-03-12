@@ -1,4 +1,4 @@
-##### § 192.285 What solicitations. are prohibited? #####
+##### § 192.285 Prohibited solicitations. #####
 
 (a) *False or misleading statements.* (1) No one may use proxy solicitation material for the members' meeting if the material contains any statement which, considering the time and the circumstances of the statement:
 
