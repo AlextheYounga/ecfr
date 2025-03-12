@@ -1,6 +1,6 @@
 ##### § 121.1 Definitions. #####
 
-Link to an amendment published at 82 FR 6206, Jan. 19, 2017.
+Link to an amendment published at 82 FR 6206, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10855, Feb. 16, 2017.
 
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.
 

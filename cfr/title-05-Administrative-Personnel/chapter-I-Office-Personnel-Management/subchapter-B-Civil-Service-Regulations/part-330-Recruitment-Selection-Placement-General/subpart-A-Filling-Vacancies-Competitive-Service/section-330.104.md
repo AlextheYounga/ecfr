@@ -1,7 +1,5 @@
 ##### § 330.104 Requirements for vacancy announcements. #####
 
-Link to an amendment published at 82 FR 5339, January 18, 2017.
-
 (a) Each vacancy announcement must contain the following information:
 
 (1) Name of issuing agency;
@@ -43,3 +41,7 @@ Link to an amendment published at 82 FR 5339, January 18, 2017.
 (b)(1) An agency may use wording of its choice in its statement that conveys the availability of reasonable accommodation required by § 330.104(a)(18). In its reasonable accommodation statement, an agency may not list types of medical conditions or impairments appropriate for accommodation.
 
 (2) Agencies may use the recommended reasonable accommodation statement located on OPM's USAJOBS website.
+
+(c) If an agency is sharing a certificate of eligibles under part 332 of this chapter, the original hiring agency must provide notice in the job opportunity announcement that the resulting list of eligible candidates may be used by one or more hiring agencies, and of how the applicant may opt-in to the disclosure of his or her applicant records to other hiring agencies.
+
+[75 FR 67593, Nov. 3, 2010, as amended at 82 FR 5339, Jan. 18, 2017]

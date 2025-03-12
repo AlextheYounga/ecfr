@@ -1,6 +1,6 @@
 ##### § 121.16 Transfers. #####
 
-Link to an amendment published at 82 FR 6210, Jan. 19, 2017.
+Link to an amendment published at 82 FR 6210, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10855, Feb. 16, 2017.
 
 (a) Except as provided in paragraphs (c) and (d) of this section, a select agent or toxin may only be transferred to individuals or entities registered to possess, use, or transfer that agent or toxin. A select agent or toxin may only be transferred under the conditions of this section and must be authorized by APHIS or CDC prior to the transfer.12
 

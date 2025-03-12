@@ -1,6 +1,6 @@
 ##### § 121.6 Exemptions for overlap select agents and toxins. #####
 
-Link to an amendment published at 82 FR 6208, Jan. 19, 2017.
+Link to an amendment published at 82 FR 6208, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10855, Feb. 16, 2017.
 
 (a) Clinical or diagnostic laboratories and other entities that possess, use, or transfer an overlap select agent or toxin that is contained in a specimen presented for diagnosis or verification will be exempt from the requirements of this part for such agent or toxin contained in the specimen, provided that:
 
