@@ -1,0 +1,3 @@
+##### § 21.315 May DoD Components issue supplemental policies and procedures to implement the DoDGARs? #####
+
+Yes, Heads of DoD Components or their designees may issue regulations, procedures, or instructions to implement the DGARS or supplement the DoDGARs to satisfy needs that are specific to the DoD Component, as long as the regulations, procedures, or instructions do not impose additional costs or administrative burdens on recipients or potential recipients.

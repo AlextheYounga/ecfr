@@ -1,0 +1,12 @@
+##### § 865.126 Sample report format. #####
+
+|                                                                                                                                                              | Record review |Hearing|     Total     |       |               |   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-------|---------------|-------|---------------|---|
+|                                                                           Applied                                                                            |Number approved|Applied|Number approved|Applied|Number approved|   |
+|                                                                                                                                                              |               |       |               |       |               |   |
+|                                                                                                                                                              |               |       |               |       |               |   |
+|                                                                    Part 1 Regular Cases.                                                                     |               |       |               |       |               |   |
+|                                                                        Part 2 Other.                                                                         |               |       |               |       |               |   |
+|                                                                        Part 3 Total.                                                                         |               |       |               |       |               |   |
+|                                                                  Part 4 Cases Outstanding.                                                                   |               |       |               |       |               |   |
+|**Note:** Identify numbers separately for regional DRB hearings. Use of additional footnotes to clarify or amplify the statistic being reported is encouraged.|               |       |               |       |               |   |

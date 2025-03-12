@@ -1,0 +1,3 @@
+##### § 21.680 Technology investment agreements. #####
+
+A special class of assistance instruments used to increase involvement of commercial firms in defense research programs and for other purposes related to integrating the commercial and defense sectors of the nation's technology and industrial base. Technology investment agreements include one kind of cooperative agreement with provisions tailored for involving commercial firms, as well as one kind of other assistance transaction. Technology investment agreements are described more fully in 32 CFR part 37.

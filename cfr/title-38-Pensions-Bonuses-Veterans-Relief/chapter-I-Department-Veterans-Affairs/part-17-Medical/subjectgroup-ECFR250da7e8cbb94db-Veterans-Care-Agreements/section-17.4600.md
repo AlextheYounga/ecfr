@@ -34,7 +34,7 @@
 
 (4) Urgent care furnished under this section must meet VA's standards for quality established under 38 U.S.C. 1703C, as applicable.
 
-(d) *Copayment.* (1) Except as provided in paragraphs (d)(2) and (3) of this section, an eligible veteran, as a condition for receiving urgent care provided by VA under this section, must agree to pay VA (and is obligated to pay VA) a copayment of $30:
+(d) *Copayment.* (1) Except as provided in paragraphs (d)(2) through (4) of this section, an eligible veteran, as a condition for receiving urgent care provided by VA under this section, must agree to pay VA (and is obligated to pay VA) a copayment of $30:
 
 (i) After three visits in a calendar year if such eligible veteran is enrolled under § 17.36(b)(1) through (6), except those veterans described in § 17.36(d)(3)(iii) for all matters not covered by priority category 6.
 
@@ -43,6 +43,30 @@
 (2) An eligible veteran who receives urgent care under paragraph (b)(5)(iv) of this section or urgent care consisting solely of an immunization against influenza (flu shot) is not subject to a copayment under paragraph (d)(1) of this section and such a visit shall not count as a visit for purposes of paragraph (d)(1)(i) of this section.
 
 (3) If an eligible veteran would be required to pay more than one copayment under this section, or a copayment under this section and a copayment under § 17.108 or § 17.111, on the same day, the eligible veteran will only be charged the higher copayment.
+
+(4)(i) If an eligible veteran meets the definition of Indian or urban Indian, as defined in 25 U.S.C. 1603(13) and (28), they are exempt from copayments for all urgent care visits. To demonstrate that they meet the definition of Indian or urban Indian, the veteran must submit to VA any of the documentation described in paragraphs (d)(4)(i)(A) through (F) of this section:
+
+(A) Documentation issued by a federally recognized Indian Tribe that shows that the veteran is a member of the Tribe;
+
+(B) Documentation showing that the veteran, irrespective of whether they live on or near a reservation, is a member of a Tribe, band, or other organized group of Indians, including those tribes, bands, or groups terminated since 1940 and those recognized now or in the future by the State in which they reside, or who is a descendant, in the first or second degree, of any such member;
+
+(C) Documentation showing that the veteran is an Eskimo or Aleut or other Alaska Native;
+
+(D) Documentation issued by the Department of Interior (DOI) showing that the veteran is considered by DOI to be an Indian for any purpose;
+
+(E) Documentation showing that the veteran is considered by the Department of Health and Human Services (HHS) to be an Indian under that Department's regulations; or
+
+(F) Documentation showing that the veteran resides in an urban center and meets one or more of the following criteria:
+
+(*1*) Irrespective of whether they live on or near a reservation, is a member of a Tribe, band, or other organized group of Indians, including those tribes, bands, or groups terminated since 1940 and those recognized now or in the future by the State in which they reside, or who is a descendant, in the first or second degree, of any such member;
+
+(*2*) Is an Eskimo or Aleut or other Alaska Native;
+
+(*3*) Is considered by DOI to be an Indian for any purpose; or
+
+(*4*) Is considered by HHS to be an Indian under that Department's regulations.
+
+(ii) After VA determines the submitted documentation meets paragraph (d)(4)(i) of this section and updates the veteran's record to reflect the veteran's status as an Indian or urban Indian, VA will reimburse eligible veterans exempt under paragraph (d)(4)(i) for any copayments that were paid to VA for urgent care visits provided on or after January 5, 2022, if they would have been exempt from making such copayments if paragraph (d)(4)(i) had been in effect.
 
 (e) *Prescriptions.* Notwithstanding any other provision of this part, VA will:
 
@@ -54,4 +78,4 @@
 
 (f) *Payments.* Payments made for urgent care constitute payment in full and shall extinguish the veteran's liability to the qualifying non-VA entity or provider. The qualifying non-VA entity or provider may not impose any additional charge on a veteran or his or her health care insurer for any urgent care service for which payment is made by VA. This section does not abrogate VA's right, under 38 U.S.C. 1729, to recover or collect from a third party the reasonable charges of the care or services provided under this section.
 
-[84 FR 26018, June 5, 2019, as amended at 88 FR 13034, Mar. 2, 2023]
+(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-TBD.)[84 FR 26018, June 5, 2019, as amended at 88 FR 13034, Mar. 2, 2023; 88 FR 19873, Apr. 4, 2023]

@@ -1,0 +1,3 @@
+##### § 865.100 Purpose. #####
+
+This subpart establishes policies for the review of discharges and dismissals under 32 CFR part 70, “Discharge Review Boards Procedures and Standards,” 47 FR 37770, August 26, 1982. 1982, and explains the jurisdiction, authority, and actions of the Air Force Discharge Review Board. It applies to all Air Force activities. This subpart is affected by the Privacy Act of 1974. The system of records cited in this subpart is authorized by 10 U.S.C. 1553 and 8012. Each data gathering form or format which is required by this subpart contains a Privacy Act Statement, either incorporated in the body of the document or in a separate statement accompanying each such document.

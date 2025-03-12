@@ -1,5 +1,7 @@
 ##### § 33.76 Bird ingestion. #####
 
+Link to an amendment published at 88 FR 19810, Apr. 4, 2023.
+
 (a) *General.* Compliance with paragraphs (b), (c), and (d) of this section shall be in accordance with the following:
 
 (1) Except as specified in paragraph (d) of this section, all ingestion tests must be conducted with the engine stabilized at no less than 100-percent takeoff power or thrust, for test day ambient conditions prior to the ingestion. In addition, the demonstration of compliance must account for engine operation at sea level takeoff conditions on the hottest day that a minimum engine can achieve maximum rated takeoff thrust or power.

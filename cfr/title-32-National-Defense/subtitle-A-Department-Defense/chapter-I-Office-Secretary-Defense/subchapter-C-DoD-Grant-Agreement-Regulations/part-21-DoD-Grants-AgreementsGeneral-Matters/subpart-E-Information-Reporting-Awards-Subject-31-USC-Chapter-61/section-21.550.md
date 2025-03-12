@@ -1,0 +1,3 @@
+##### § 21.550 Must DoD Components relate reported actions to listings in the CFDA? #####
+
+Yes, DoD Components' central points must report each action as an obligation or deobligation under a specific programmatic listing in the Catalog of Federal Domestic Assistance (CFDA, see § 21.505). The programmatic listing to be shown is the one that provided the funds being obligated or deobligated. For example, if a grants officer or agreements officer in one DoD Component obligates appropriations of a second DoD Component's programmatic listing, the grants officer or agreements officer must show the CFDA programmatic listing of the second DoD Component on the DD Form 2566.

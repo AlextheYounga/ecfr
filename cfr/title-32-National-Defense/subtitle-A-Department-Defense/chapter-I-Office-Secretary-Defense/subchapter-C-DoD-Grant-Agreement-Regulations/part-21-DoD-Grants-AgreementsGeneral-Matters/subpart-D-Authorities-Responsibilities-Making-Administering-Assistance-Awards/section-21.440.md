@@ -1,0 +1,7 @@
+##### § 21.440 What are the standards for selecting and appointing grants officers and agreements officers? #####
+
+In selecting grants officers and agreements officers, DoD Components must use the following minimum standards:
+
+(a) In selecting a grants officer, the appointing official must judge whether the candidate has the necessary experience, training, education, business acumen, judgment, and knowledge of assistance instruments and contracts to function effectively as a grants officer. The appointing official also must take those attributes of the candidate into account when deciding the complexity and dollar value of the grants and cooperative agreements to be assigned.
+
+(b) In selecting an agreements officer, the appointing official must consider all of the same factors as in paragraph (a) of this section. In addition, the appointing official must consider the candidate's ability to function in the less structured environment of technology investment agreements, where the rules provide more latitude and the individual must have a greater capacity for exercising judgment. Agreements officers therefore should be individuals who have demonstrated expertise in executing complex assistance and acquisition instruments.

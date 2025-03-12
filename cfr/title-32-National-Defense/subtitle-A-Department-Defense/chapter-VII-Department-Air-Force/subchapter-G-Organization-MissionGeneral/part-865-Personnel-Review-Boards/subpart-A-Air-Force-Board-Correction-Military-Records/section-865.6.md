@@ -1,0 +1,7 @@
+##### § 865.6 Reconsideration of applications. #####
+
+(a) The Board may reconsider an application if the applicant submits newly discovered relevant evidence that was not reasonably available when the application was previously considered. The Executive Director or Team Chiefs will screen each request for reconsideration to determine whether it contains new evidence. New arguments about, or analysis of, evidence already considered, and additional statements which are cumulative to those already in the record of proceedings will not be considered new evidence.
+
+(b) If the request contains new evidence, the Executive Director or his/her designee will refer it to a panel of the Board for a decision. The Board will decide the relevance and weight of any new evidence, whether it was reasonably available to the applicant when the application was previously considered, and whether it was submitted in a timely manner. The Board may deny reconsideration if the request does not meet the criteria for reconsideration. Otherwise the Board will reconsider the application and decide the case either on timeliness or merit as appropriate.
+
+(c) If the request does not contain new evidence, the Executive Director or his/her designee will return it to the applicant without referral to the Board.

@@ -1,5 +1,7 @@
 ##### § 922.84 Certification of preexisting leases, licenses, permits, approvals, other authorizations, or rights to conduct a prohibited activity. #####
 
+Link to an amendment published at 88 FR 19829, Apr. 4, 2023.
+
 (a) A person may conduct an activity prohibited by § 922.82(a)(1) through (17) if such activity is specifically authorized by a valid Federal, State, or local lease, permit, license, approval, or other authorization in existence prior to the effective date of sanctuary expansion and within the sanctuary expansion area and complies with § 922.47 and provided that the holder of the lease, permit, license, approval, or other authorization complies with the requirements of paragraph (e) of this section.
 
 (b) In considering whether to make the certifications called for in this section, the Director may seek and consider the views of any other person or entity, within or outside the Federal government, and may hold a public hearing as deemed appropriate.

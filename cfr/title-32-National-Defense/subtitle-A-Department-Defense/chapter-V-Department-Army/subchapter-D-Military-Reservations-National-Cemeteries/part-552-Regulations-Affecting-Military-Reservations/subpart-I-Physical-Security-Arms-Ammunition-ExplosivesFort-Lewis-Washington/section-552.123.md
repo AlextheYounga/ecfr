@@ -1,0 +1,3 @@
+##### § 552.123 Storage of personal weapons other than firearms or handguns. #####
+
+Privately owned weapons, such as knives, swords, air guns, BB guns, cross bows, pellet guns, bow and arrows, of personnel residing the unit billets will be stored in a separate locked container, within a secured storage area designated for this purpose by the unit commander, in a location other than the unit arms room.

@@ -1,0 +1,3 @@
+##### § 2103.51 Information Security Oversight Committee. #####
+
+The NCS Information Security Oversight Committee shall be chaired by the Staff Counsel of the National Security Council Staff. The Committee shall be responsible for acting on all suggestions and complaints concerning the administration of the National Security Council information security program. The chairperson, who shall represent the NSC Staff on the Interagency Information Security Committee shall also be responsible for conducting an active oversight program to ensure effective implementation of Executive Order 12065.

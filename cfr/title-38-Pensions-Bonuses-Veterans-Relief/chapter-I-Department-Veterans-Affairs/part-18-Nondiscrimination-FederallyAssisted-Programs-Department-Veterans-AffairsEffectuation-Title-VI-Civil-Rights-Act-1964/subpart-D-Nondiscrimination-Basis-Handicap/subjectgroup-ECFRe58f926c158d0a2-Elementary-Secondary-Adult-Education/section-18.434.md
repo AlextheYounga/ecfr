@@ -1,0 +1,7 @@
+##### § 18.434 Education setting. #####
+
+(a) *Academic setting.* A recipient shall educate, or shall provide for the education of, each qualified handicapped person in its jurisdiction with persons who are not handicapped to the maximum extent appropriate to the needs of the handicapped person. A recipient shall place a handicapped person in the regular educational environment operated by the recipient unless it is demonstrated by the recipient that the education of the person in the regular environment with the use of supplementary aids and services cannot be achieved satisfactorily. In deciding whether to place a person in a setting other than the regular educational environment, a recipient shall consider the proximity of the alternate setting to the person's home.
+
+(b) *Nonacademic settings.* In providing or arranging for the provision of nonacademic and extracurricular services and activities, a recipient shall ensure that handicapped persons participate with nonhandicapped persons in those activities and services to the maximum extent appropriate to the needs of the handicapped person in question.
+
+(c) *Comparable facilities.* If a recipient in compliance with paragraph (a) of this section operates a facility that is identifiable as being for handicapped persons, the recipient shall ensure that the facility and the services and activities provided in that facility are comparable to the other facilities, services, and activities of the recipient.

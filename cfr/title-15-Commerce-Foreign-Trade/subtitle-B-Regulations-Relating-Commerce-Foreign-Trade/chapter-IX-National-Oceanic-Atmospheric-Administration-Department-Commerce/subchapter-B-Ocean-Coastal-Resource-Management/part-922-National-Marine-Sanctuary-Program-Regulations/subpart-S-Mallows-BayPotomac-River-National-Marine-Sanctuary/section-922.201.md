@@ -1,5 +1,7 @@
 ##### § 922.201 Definitions. #####
 
+Link to an amendment published at 88 FR 19829, Apr. 4, 2023.
+
 (a) The following terms are defined for purposes of this subpart:
 
 (1) *Sanctuary resource* means any historical resource with the Sanctuary boundaries, as defined in § 922.3. This includes, but is not limited to, any sunken watercraft and any associated rigging, gear, fittings, trappings, and equipment; the personal property of the officers, crew, and passengers, and any cargo; and any submerged or partially submerged prehistoric, historic, cultural remains, such as docks, piers, fishing-related remains (e.g., weirs, fish-traps) or other cultural heritage materials. Sanctuary resource also means any archaeological, historical, and cultural remains associated with or representative of historic or prehistoric American Indians and historic groups or peoples and their activities.

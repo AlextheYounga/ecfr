@@ -1,0 +1,9 @@
+##### § 42.112 Effect on other regulations; forms and instructions. #####
+
+(a) *Effect on other regulations.* Nothing in this subpart shall be deemed to supersede any provision of subpart A or B of this part or Executive Order 11114 or 11246, as amended, or of any other regulation or instruction which prohibits discrimination on the ground of race, color, or national origin in any program or situation to which this subpart is inapplicable, or which prohibits discrimination on any other ground.
+
+(b) *Forms and instructions.* Each responsible Department official, other than the Attorney General or Deputy Attorney General, shall issue and promptly make available to interested persons forms and detailed instructions and procedures for effectuating this subpart as applied to programs to which this subpart applies and for which he is responsible.
+
+(c) *Supervision and coordination.* The Attorney General may from time to time assign to officials of the Department, or to officials of other departments or agencies of the Government, with the consent of such departments or agencies, responsibilities in connection with the effectuation of the purposes of title VI of the Act and this subpart (other than responsibility for final decision as provided in § 42.110(e)), including the achievement of the effective coordination and maximum uniformity within the Department and within the Executive Branch of the Government in the application of title VI of the Act and this subpart to similar programs and in similar situations. Any action taken, determination made, or requirement imposed by an official of another Department or agency acting pursuant to an assignment of responsibility under this subsection shall have the same effect as though such action had been taken by the Attorney General.
+
+[Order No. 365-66, 31 FR 10265, July 29, 1966, as amended by Order No. 519-73, 38 FR 17956, July 5, 1973; Order No. 568-74, 39 FR 18646, May 29, 1974]

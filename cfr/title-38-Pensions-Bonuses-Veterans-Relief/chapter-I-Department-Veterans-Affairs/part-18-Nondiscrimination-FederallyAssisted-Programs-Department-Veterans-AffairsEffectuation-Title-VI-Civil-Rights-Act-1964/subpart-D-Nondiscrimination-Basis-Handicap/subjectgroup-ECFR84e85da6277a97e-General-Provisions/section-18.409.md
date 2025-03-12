@@ -1,0 +1,3 @@
+##### § 18.409 Administrative requirements for certain recipients. #####
+
+The Secretary may require any recipient with fewer than fifteen employees, or any class of such recipients, to comply with §§ 18.407 and 18.408 in whole or in part, when the Secretary finds a violation of this part or finds that such compliance will not significantly impair the ability of the recipient or class of recipients to provide benefits or services.

@@ -1,0 +1,3 @@
+##### § 21.415 Must the statutory authority specifically mention the use of grants or other assistance instruments? #####
+
+No, the statutory authority described in § 21.410 need not specifically say that the purpose of the program is assistance or mention the use of any type of assistance instrument. However, the intent of the statute must support a judgment that the use of an assistance instrument is appropriate. For example, a DoD Component may judge that the principal purpose of a program for which it has authorizing legislation is assistance, rather than acquisition. The DoD Component would properly use an assistance instrument to carry out that program, in accordance with 31 U.S.C. chapter 63.

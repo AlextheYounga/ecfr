@@ -4,19 +4,19 @@
 
 (b) *Copayments.* (1) Unless exempted under paragraph (f) of this section, as a condition of receiving extended care services from VA, a veteran must agree to pay VA and is obligated to pay VA a copayment as specified by this section. A veteran has no obligation to pay a copayment for the first 21 days of extended care services that VA provided the veteran in any 12-month period (the 12-month period begins on the date that VA first provided extended care services to the veteran). However, for each day that extended care services are provided beyond the first 21 days, a veteran is obligated to pay VA the copayment amount set forth below to the extent the veteran has available resources. Available resources are based on monthly calculations, as determined under paragraph (d) of this section. The following sets forth the extended care services provided by VA and the corresponding copayment amount per day:
 
-(i) Adult day health care - $15.
+(i) Adult day health care—$15.
 
-(ii) Domiciliary care - $5.
+(ii) Domiciliary care—$5.
 
-(iii) Institutional respite care - $97.
+(iii) Institutional respite care—$97.
 
-(iv) Institutional geriatric evaluation - $97.
+(iv) Institutional geriatric evaluation—$97.
 
-(v) Non-institutional geriatric evaluation - $15.
+(v) Non-institutional geriatric evaluation—$15.
 
-(vi) Non-institutional respite care - $15.
+(vi) Non-institutional respite care—$15.
 
-(vii) Nursing home care - $97.
+(vii) Nursing home care—$97.
 
 (2) For purposes of counting the number of days for which a veteran is obligated to make a copayment under this section, VA will count each day that adult day health care, non-institutional geriatric evaluation, and non-institutional respite care are provided and will count each full day and partial day for each inpatient stay except for the day of discharge.
 
@@ -40,7 +40,7 @@
 
 (8) *Respite care* means care which is of limited duration, is furnished on an intermittent basis to a veteran who is suffering from a chronic illness and who resides primarily at home, and is furnished for the purpose of helping the veteran to continue residing primarily at home. (Respite providers temporarily replace the caregivers to provide services ranging from supervision to skilled care needs.)
 
-(d) *Effect of the veteran's financial resources on obligation to pay copayment.* (1) A veteran is obligated to pay the copayment to the extent the veteran and the veteran's spouse have available resources. For veterans who have been receiving extended care services for 180 days or less, their available resources are the sum of the income of the veteran and the veteran's spouse, minus the sum of the veterans allowance, the spousal allowance, and expenses. For veterans who have been receiving extended care services for 181 days or more, their available resources are the sum of the value of the liquid assets, the fixed assets, and the income of the veteran and the veteran's spouse, minus the sum of the veterans allowance, the spousal allowance, the spousal resource protection amount, and (but only if the veteran - has a spouse or dependents residing in the community who is not institutionalized) expenses. When a veteran is legally separated from a spouse, available resources do not include spousal income, expenses, and assets or a spousal allowance.
+(d) *Effect of the veteran's financial resources on obligation to pay copayment.* (1) A veteran is obligated to pay the copayment to the extent the veteran and the veteran's spouse have available resources. For veterans who have been receiving extended care services for 180 days or less, their available resources are the sum of the income of the veteran and the veteran's spouse, minus the sum of the veterans allowance, the spousal allowance, and expenses. For veterans who have been receiving extended care services for 181 days or more, their available resources are the sum of the value of the liquid assets, the fixed assets, and the income of the veteran and the veteran's spouse, minus the sum of the veterans allowance, the spousal allowance, the spousal resource protection amount, and (but only if the veteran—has a spouse or dependents residing in the community who is not institutionalized) expenses. When a veteran is legally separated from a spouse, available resources do not include spousal income, expenses, and assets or a spousal allowance.
 
 (2) For purposes of determining available resources under this section:
 
@@ -50,7 +50,7 @@
 
 (iii) *Fixed Assets* means:
 
-(A) Real property and other non-liquid assets; except that this does not include -
+(A) Real property and other non-liquid assets; except that this does not include—
 
 (*1*) Burial plots;
 
@@ -110,4 +110,28 @@
 
 (10) A veteran who was awarded the Medal of Honor.
 
-[67 FR 35040, May 17, 2002, as amended at 69 FR 39846, July 1, 2004; 76 FR 52274, Aug. 22, 2011; 78 FR 28143, May 14, 2013; 78 FR 70864, Nov. 27, 2013; 79 FR 57414, Sept. 24, 2014; 79 FR 65585, Nov. 5, 2014; 84 FR 7815, Mar. 5, 2019; 84 FR 26307, June 5, 2019]
+(11) A veteran who meets the definition of Indian or urban Indian, as defined in 25 U.S.C. 1603(13) and (28), is exempt from copayments for noninstitutional extended care including adult day health care, noninstitutional respite care, and noninstitutional geriatric evaluation provided on or after January 5, 2022. To demonstrate that they meet the definition of Indian or urban Indian, the veteran must submit to VA any of the documentation described in paragraphs (f)(11)(i) through (vi) of this section:
+
+(i) Documentation issued by a federally recognized Indian Tribe that shows that the veteran is a member of the Tribe;
+
+(ii) Documentation showing that the veteran, irrespective of whether they live on or near a reservation, is a member of a Tribe, band, or other organized group of Indians, including those tribes, bands, or groups terminated since 1940 and those recognized now or in the future by the State in which they reside, or who is a descendant, in the first or second degree, of any such member;
+
+(iii) Documentation showing that the veteran is an Eskimo or Aleut or other Alaska Native;
+
+(iv) Documentation issued by the Department of Interior (DOI) showing that the veteran is considered by DOI to be an Indian for any purpose;
+
+(v) Documentation showing that the veteran is considered by the Department of Health and Human Services (HHS) to be an Indian under that Department's regulations; or
+
+(vi) Documentation showing that the veteran resides in an urban center and meets one or more of the following criteria:
+
+(A) Irrespective of whether they live on or near a reservation, is a member of a Tribe, band, or other organized group of Indians, including those tribes, bands, or groups terminated since 1940 and those recognized now or in the future by the State in which they reside, or who is a descendant, in the first or second degree, of any such member;
+
+(B) Is an Eskimo or Aleut or other Alaska Native;
+
+(C) Is considered by DOI to be an Indian for any purpose; or
+
+(D) Is considered by HHS to be an Indian under that Department's regulations.
+
+(g) *Retroactive copayment reimbursement.* After VA determines the submitted documentation meets paragraph (f)(11) of this section and updates the veteran's record to reflect the veteran's status as an Indian or urban Indian, VA will reimburse veterans exempt under paragraph (f)(11) for any copayments that were paid to VA for adult day health care, non-institutional respite care, and non-institutional geriatric evaluation provided on or after January 5, 2022, if they would have been exempt from making such copayments if paragraph (f)(11) had been in effect.
+
+(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-TBD.)[67 FR 35040, May 17, 2002, as amended at 69 FR 39846, July 1, 2004; 76 FR 52274, Aug. 22, 2011; 78 FR 28143, May 14, 2013; 78 FR 70864, Nov. 27, 2013; 79 FR 57414, Sept. 24, 2014; 79 FR 65585, Nov. 5, 2014; 84 FR 7815, Mar. 5, 2019; 84 FR 26307, June 5, 2019; 88 FR 19872, Apr. 4, 2023]

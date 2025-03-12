@@ -1,0 +1,13 @@
+##### § 42.504 Assurances required. #####
+
+(a) *Assurances.* Every application for Federal financial assistance covered by this subpart shall contain an assurance that the program or activity will be conducted in compliance with the requirements of section 504 and this subpart. Each agency within the Department that provides Federal financial assistance shall specify the form of the foregoing assurance and shall require applicants for Department financial assistance to obtain like assurances from subgrantees, contractors and subcontractors, transferees, successors in interest, and others connected with the program or activity. Each Department agency shall specify the extent to which an applicant will be required to confirm that the assurances provided by secondary recipients are being honored. Each assurance shall include provisions giving notice that the United States has a right to seek judicial enforcement of section 504 and the assurance.
+
+(b) *Assurances from government agencies.* Assurances from agencies of State and local governments shall extend to any other agency of the same governmental unit if the policies of the other agency will affect the program or activity for which Federal financial assistance is requested.
+
+(c) *Assurances from institutions.* The assurances required with respect to any institution or facility shall be applicable to the entire institution or facility.
+
+(d) *Duration of obligation.* Where the Federal financial assistance is to provide or is in the form of real or personal property, the assurance will obligate the recipient and any transferee for the period during which the property is being used for the purpose for which the Federal financial assistance is extended or for another purpose involving the provisions of similar benefits, or for as long as the recipient retains ownership or possession of the property, whichever is longer. In all other cases the assurance will obligate the recipient for the period during which Federal financial assistance is extended.
+
+(e) *Covenants.* With respect to any transfer of real property, the transfer document shall contain a covenant running with the land assuring nondiscrimination on the condition described in paragraph (d) of this section. Where the property is obtained from the Federal Government, the covenant may also include a condition coupled with a right to be reserved by the Department to revert title to the property in the event of a breach of the covenant.
+
+(f) *Remedies.* The failure to secure either an assurance or a sufficient assurance from a recipient shall not impair the right of the Department to enforce the requirements of section 504 and this subpart.

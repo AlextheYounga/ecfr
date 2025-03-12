@@ -1,0 +1,3 @@
+##### § 22.320 Special competitions. #####
+
+Some programs may be competed for programmatic or policy reasons among specific classes of potential recipients. An example would be a program to enhance U.S. capabilities for academic research and research-coupled graduate education in defense-critical, science and engineering disciplines, a program that would be competed specifically among institutions of higher education. All such special competitions shall be consistent with program representations in the President's budget submission to Congress and with subsequent Congressional authorizations and appropriations for the programs.

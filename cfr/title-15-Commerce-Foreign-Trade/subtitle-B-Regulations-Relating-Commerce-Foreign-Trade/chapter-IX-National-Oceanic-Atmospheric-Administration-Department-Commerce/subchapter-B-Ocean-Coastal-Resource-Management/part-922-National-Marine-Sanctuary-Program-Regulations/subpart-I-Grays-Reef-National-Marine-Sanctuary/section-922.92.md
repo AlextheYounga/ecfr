@@ -1,6 +1,6 @@
 ##### § 922.92 Prohibited or otherwise regulated activities—Sanctuary-wide. #####
 
-Link to an amendment published at 88 FR 966, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.
+Link to an amendment published at 88 FR 966, Jan. 6, 2023.Link to an amendment published at 88 FR 7357, Feb. 3, 2023, delaying the above amendment until Apr. 7, 2023.Link to an amendment published at 88 FR 19826, Apr. 4, 2023.
 
 (a) Except as specified in paragraphs (b) through (d) of this section and in § 922.94 regarding additional prohibitions in the research area, the following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted within the Sanctuary:
 

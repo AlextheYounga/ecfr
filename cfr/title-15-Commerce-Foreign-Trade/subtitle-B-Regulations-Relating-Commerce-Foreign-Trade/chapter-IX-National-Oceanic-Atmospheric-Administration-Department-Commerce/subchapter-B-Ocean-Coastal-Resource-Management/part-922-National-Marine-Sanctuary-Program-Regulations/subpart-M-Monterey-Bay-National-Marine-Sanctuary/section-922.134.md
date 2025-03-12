@@ -1,5 +1,7 @@
 ##### § 922.134 Review of certain State permits and leases. #####
 
+Link to an amendment published at 88 FR 19829, Apr. 4, 2023.
+
 (a)(1) NOAA has described in a Memorandum of Agreement (MOA) with the State of California how NOAA will coordinate review of any introduction of non-invasive introduced species from a proposed shellfish aquaculture project when considering an authorization under § 922.132(e).
 
 (2) The MOA specifies how the process of 15 CFR 922.49 will be administered within State waters within the sanctuary in coordination with State permit and lease programs as administered by the California Fish and Game Commission, the Department of Fish and Wildlife and the California Coastal Commission.

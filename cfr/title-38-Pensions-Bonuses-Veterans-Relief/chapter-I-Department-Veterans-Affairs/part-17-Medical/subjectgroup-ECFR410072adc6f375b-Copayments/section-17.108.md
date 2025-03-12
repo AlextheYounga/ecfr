@@ -62,6 +62,28 @@ The requirement that a veteran agree to pay the copayment would be met by submit
 
 (13) A veteran who was awarded the Medal of Honor.
 
+(14) A veteran who meets the definition of Indian or urban Indian, as defined in 25 U.S.C. 1603(13) and (28), for inpatient hospital care or outpatient medical care provided on or after January 5, 2022. To demonstrate that they meet the definition of Indian or urban Indian, the veteran must submit to VA any of the documentation described in paragraphs (d)(14)(i) through (vi) of this section:
+
+(i) Documentation issued by a federally recognized Indian Tribe that shows that the veteran is a member of the Tribe;
+
+(ii) Documentation showing that the veteran, irrespective of whether they live on or near a reservation, is a member of a Tribe, band, or other organized group of Indians, including those tribes, bands, or groups terminated since 1940 and those recognized now or in the future by the State in which they reside, or who is a descendant, in the first or second degree, of any such member;
+
+(iii) Documentation showing that the veteran is an Eskimo or Aleut or other Alaska Native;
+
+(iv) Documentation issued by the Department of Interior (DOI) showing that the veteran considered by DOI to be an Indian for any purpose;
+
+(v) Documentation showing that the veteran is considered by the Department of Health and Human Services (HHS) to be an Indian under that Department's regulations; or
+
+(vi) Documentation showing that the veteran resides in an urban center and meets one or more of the following criteria:
+
+(A) Irrespective of whether they live on or near a reservation, is a member of a Tribe, band, or other organized group of Indians, including those tribes, bands, or groups terminated since 1940 and those recognized now or in the future by the State in which they reside, or who is a descendant, in the first or second degree, of any such member;
+
+(B) Is an Eskimo or Aleut or other Alaska Native;
+
+(C) Is considered by the Department of Interior to be an Indian for any purpose; or
+
+(D) Is considered by HHS to be an Indian under that Department's regulations.
+
 (e) *Services not subject to copayment requirements for inpatient hospital care, outpatient medical care, or urgent care.* The following are not subject to the copayment requirements under this section or, except for § 17.108(e)(1), (2), (4), (10), and (14), the copayment requirements under § 17.4600.
 
 (1) Care provided to a veteran for a noncompensable zero percent service-connected disability;
@@ -104,4 +126,6 @@ The requirement that a veteran agree to pay the copayment would be met by submit
 
 (f) *Additional care not subject to outpatient copayment.* Outpatient care is not subject to the outpatient copayment requirements under this section when provided to a veteran during a day for which the veteran is required to make a copayment for extended care services that were provided either directly by VA or obtained for VA by contract.
 
-[66 FR 63448, Dec. 6, 2001, as amended at 68 FR 60854, Oct. 24, 2003; 70 FR 22596, May 2, 2005; 73 FR 20532, Apr. 16, 2008; 75 FR 54030, Sept. 3, 2010; 76 FR 52274, Aug. 22, 2011; 77 FR 13198, Mar. 6, 2012; 78 FR 28143, May 14, 2013; 79 FR 57414, Sept. 24, 2014; 79 FR 65584, Nov. 5, 2014; 79 FR 70939, Nov. 28, 2014; 84 FR 7815, Mar. 5, 2019; 84 FR 26017, 26306, June 5, 2019; 86 FR 52076, Sept. 20, 2021; 88 FR 2536, Jan. 17, 2023]
+(g) *Retroactive copayment reimbursement.* After VA determines that the documentation submitted by the veteran meets the criteria in paragraph (d)(14) of this section and VA updates the veteran's record to reflect the veteran's status as an Indian or urban Indian, VA will reimburse veterans exempt under paragraph (d)(14) for any copayments that were paid to VA for inpatient hospital care and outpatient medical care provided on or after January 5, 2022 if they would have been exempt from making such copayments if paragraph (d)(14) had been in effect.
+
+(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-TBD.)[66 FR 63448, Dec. 6, 2001, as amended at 68 FR 60854, Oct. 24, 2003; 70 FR 22596, May 2, 2005; 73 FR 20532, Apr. 16, 2008; 75 FR 54030, Sept. 3, 2010; 76 FR 52274, Aug. 22, 2011; 77 FR 13198, Mar. 6, 2012; 78 FR 28143, May 14, 2013; 79 FR 57414, Sept. 24, 2014; 79 FR 65584, Nov. 5, 2014; 79 FR 70939, Nov. 28, 2014; 84 FR 7815, Mar. 5, 2019; 84 FR 26017, 26306, June 5, 2019; 86 FR 52076, Sept. 20, 2021; 88 FR 2536, Jan. 17, 2023; 88 FR 19871, Apr. 4, 2023]

@@ -1,6 +1,6 @@
 ##### § 17.84 Special rules—vertebrates. #####
 
-Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
+Link to an amendment published at 88 FR 7146, Feb. 2, 2023.Link to an amendment published at 88 FR 19894, Apr. 4, 2023.
 
 (a) [Reserved]
 

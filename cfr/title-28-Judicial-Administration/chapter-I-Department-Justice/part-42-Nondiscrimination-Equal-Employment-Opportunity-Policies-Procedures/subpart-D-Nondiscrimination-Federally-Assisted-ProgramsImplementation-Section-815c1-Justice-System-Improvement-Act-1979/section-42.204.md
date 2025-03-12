@@ -1,0 +1,9 @@
+##### § 42.204 Applicants' obligations. #####
+
+(a) Every application for Federal financial assistance to which this subpart applies shall, as a condition of approval of such application and the extension of any Federal financial assistance pursuant to such application, contain or be accompanied by an assurance that the applicant will comply with all applicable nondiscrimination requirements and will obtain such assurances from its subgrantees, contractors, or subcontractors to which this subpart applies, as a condition of the extension of Federal financial assistance to them.
+
+(b) Every unit of State or local government and every agency of such unit that applies for a grant of $500,000 or more under the JSIA or the Juvenile Justice Act, must submit a copy of its current Equal Employment Opportunity Program (if required to develop one under 28 CFR 42.301, *et. seq.*) to OJARS at the same time it submits its grant application. No application for $500,000 or more will be approved until OJARS has approved the applicant's EEOP.
+
+(c) Every application for Federal financial assistance from a State or local unit of government or agency thereof shall contain an assurance that in the event a Federal or State court or Federal or State administrative agency makes a finding of discrimination after a due process hearing, on the ground of race, color, religion, national origin, or sex against the recipient State or local government unit, or agency, the recipient will forward a copy of the finding to the appropriate CJC and to OJARS.
+
+[45 FR 28705, Apr. 30, 1980, as amended at 45 FR 54037, Aug. 14, 1980]

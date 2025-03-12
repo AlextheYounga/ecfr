@@ -1,0 +1,3 @@
+##### § 552.125 Disposition of confiscated weapons. #####
+
+Commanders will maintain confiscated weapons in the unit arms room pending final disposition. They will provide written notification of the circumstances or loss or recovery of such weapons and a complete and accurate description of the weapon to Commander, I Corps and Fort Lewis, ATTN: AFZH-PMS-P, Fort Lewis, WA 98433-5000. A copy of this notification will be maintained with the weapon pending final disposition.

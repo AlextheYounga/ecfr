@@ -14,13 +14,13 @@
 
 (A) *Multi-source medication* is any one of the following:
 
-(*1*) A medication that has been and remains approved by the FDA -
+(*1*) A medication that has been and remains approved by the FDA—
 
 (*i*) Under sections 505(b)(2) or 505(j) of the Food, Drug, and Cosmetic Act (FDCA, 21 U.S.C. 355), and that has been granted an A-rating in the current version of the FDA's Approved Drug Products with Therapeutic Equivalence Evaluations (the Orange Book); or
 
 (*ii*) Under section 351(k) of the Public Health Service Act (PHSA, 42 U.S.C. 262), and that has been granted an I or B rating in the current version of the FDA's Lists of Licensed Biological Products with Reference Product Exclusivity and Biosimilarity or Interchangeability Evaluations (the Purple Book). FDA determines both therapeutic equivalence for drugs and interchangeability for biological products.
 
-(*2*) A medication that -
+(*2*) A medication that—
 
 (*i*) Has been and remains approved by the FDA pursuant to FDCA section 505(b)(1) or PHSA section 351(a);
 
@@ -28,7 +28,7 @@
 
 (*iii*) Which is covered by a contracting strategy in place with pricing such that it is lower in cost than other generic sources.
 
-(*3*) A medication that -
+(*3*) A medication that—
 
 (*i*) Has been and remains approved by the FDA pursuant to FDCA section 505(b)(1) or PHSA section 351(a); and
 
@@ -120,4 +120,28 @@ The examples in paragraphs (c)(12)(ii)(A) through (G) of this section apply even
 
 (13) Medication for an individual as part of emergent suicide care as authorized under 38 CFR 17.1200-17.1230.
 
-[66 FR 63451, Dec. 6, 2001, as amended at 74 FR 69285, Dec. 31, 2009; 75 FR 32672, June 9, 2010; 75 FR 54030, Sept. 3, 2010; 76 FR 52274, Aug. 22, 2011; 76 FR 78826, Dec. 20, 2011; 77 FR 76867, Dec. 31, 2012; 78 FR 28143, May 14, 2013; 78 FR 79317, Dec. 30, 2013; 79 FR 57414, Sept. 24, 2014; 79 FR 63821, Oct. 27, 2014; 79 FR 65585, Nov. 5, 2014; 80 FR 55545, Sept. 16, 2015; 81 FR 88120, Dec. 7, 2016; 81 FR 89390, Dec. 12, 2016; 84 FR 7815, Mar. 5, 2019; 84 FR 26306, June 5, 2019; 86 FR 52076, Sept. 20, 2021; 88 FR 2536, Jan. 17, 2023]
+(14) A veteran who meets the definition of Indian or urban Indian, as defined in 25 U.S.C. 1603(13) and (28), for medications provided on or after January 5, 2022. To demonstrate that they meet the definition of Indian or urban Indian, the veteran must submit to VA any of the documentation described in paragraphs (c)(14)(i) through (vi) of this section:
+
+(i) Documentation issued by a federally recognized Indian Tribe that shows that the veteran is a member of the Tribe;
+
+(ii) Documentation showing that the veteran, irrespective of whether they live on or near a reservation, is a member of a Tribe, band, or other organized group of Indians, including those tribes, bands, or groups terminated since 1940 and those recognized now or in the future by the State in which they reside, or who is a descendant, in the first or second degree, of any such member;
+
+(iii) Documentation showing that the veteran is an Eskimo or Aleut or other Alaska Native;
+
+(iv) Documentation issued by the Department of Interior (DOI) showing that the veteran is considered by DOI to be an Indian for any purpose;
+
+(v) Documentation showing that the veteran is considered by the Department of Health and Human Services (HHS) to be an Indian under that Department's regulations; or
+
+(vi) Documentation showing that the veteran resides in an urban center and meets one or more of the following criteria:
+
+(A) Irrespective of whether they live on or near a reservation, is a member of a Tribe, band, or other organized group of Indians, including those tribes, bands, or groups terminated since 1940 and those recognized now or in the future by the State in which they reside, or who is a descendant, in the first or second degree, of any such member;
+
+(B) Is an Eskimo or Aleut or other Alaska Native;
+
+(C) Is considered by DOI to be an Indian for any purpose; or
+
+(D) Is considered by HHS to be an Indian under that Department's regulations.
+
+(d) *Retroactive copayment reimbursement.* After VA determines the submitted documentation meets paragraph (c)(14) of this section and updates the veteran's record to reflect the veteran's status as an Indian or urban Indian, VA will reimburse veterans exempt under paragraph (c)(14) for any copayments that were paid to VA for medications provided on or after January 5, 2022, if they would have been exempt from making such copayments if paragraph (c)(14) had been in effect.
+
+(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-TBD.)[66 FR 63451, Dec. 6, 2001, as amended at 74 FR 69285, Dec. 31, 2009; 75 FR 32672, June 9, 2010; 75 FR 54030, Sept. 3, 2010; 76 FR 52274, Aug. 22, 2011; 76 FR 78826, Dec. 20, 2011; 77 FR 76867, Dec. 31, 2012; 78 FR 28143, May 14, 2013; 78 FR 79317, Dec. 30, 2013; 79 FR 57414, Sept. 24, 2014; 79 FR 63821, Oct. 27, 2014; 79 FR 65585, Nov. 5, 2014; 80 FR 55545, Sept. 16, 2015; 81 FR 88120, Dec. 7, 2016; 81 FR 89390, Dec. 12, 2016; 84 FR 7815, Mar. 5, 2019; 84 FR 26306, June 5, 2019; 86 FR 52076, Sept. 20, 2021; 88 FR 2536, Jan. 17, 2023; 88 FR 19872, Apr. 4, 2023]

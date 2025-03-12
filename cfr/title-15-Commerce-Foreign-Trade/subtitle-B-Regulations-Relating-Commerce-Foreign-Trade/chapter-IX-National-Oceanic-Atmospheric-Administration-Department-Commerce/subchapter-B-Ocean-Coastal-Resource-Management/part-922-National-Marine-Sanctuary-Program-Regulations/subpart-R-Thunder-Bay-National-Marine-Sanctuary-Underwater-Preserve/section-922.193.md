@@ -1,5 +1,7 @@
 ##### § 922.193 Prohibited or otherwise regulated activities. #####
 
+Link to an amendment published at 88 FR 19829, Apr. 4, 2023.
+
 (a) Except as specified in paragraphs (b) through (d) of this section, the following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted:
 
 (1) Recovering, altering, destroying, possessing, or attempting to recover, alter, destroy, or possess an underwater cultural resource.

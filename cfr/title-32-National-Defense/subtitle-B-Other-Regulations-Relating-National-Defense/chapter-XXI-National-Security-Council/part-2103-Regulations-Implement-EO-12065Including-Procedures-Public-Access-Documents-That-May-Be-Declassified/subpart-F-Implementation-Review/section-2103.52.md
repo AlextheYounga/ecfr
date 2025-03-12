@@ -1,0 +1,3 @@
+##### § 2103.52 Classification Review Committee. #####
+
+The NSC Classification Review Committee shall be chaired by the Staff Secretary of the National Security Council. The Committee shall decide appeals from denials of declassification requests submitted pursuant to section 3-5 of Executive Order 12065. The Committee shall consist of the chairperson, the NSC Director of Freedom of Information, and the NSC Staff member with primary subject matter responsibility for the material under review.

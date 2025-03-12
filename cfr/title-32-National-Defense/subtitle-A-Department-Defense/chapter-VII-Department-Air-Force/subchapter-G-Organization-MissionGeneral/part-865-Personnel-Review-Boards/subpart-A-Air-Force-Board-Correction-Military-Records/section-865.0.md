@@ -1,0 +1,3 @@
+##### § 865.0 Purpose. #####
+
+This subpart sets up procedures for correction of military records to remedy error or injustice. It tells how to apply for correction of military records and how the Air Force Board for Correction of Military Records (AFBCMR, or the Board) considers applications. It defines the Board's authority to act on applications. It directs collecting and maintaining information subject to the Privacy Act of 1974 authorized by 10 U.S.C. 1034 and 1552. System of Records notice F035 SAFCB A, Military Records Processed by the Air Force Correction Board, applies.

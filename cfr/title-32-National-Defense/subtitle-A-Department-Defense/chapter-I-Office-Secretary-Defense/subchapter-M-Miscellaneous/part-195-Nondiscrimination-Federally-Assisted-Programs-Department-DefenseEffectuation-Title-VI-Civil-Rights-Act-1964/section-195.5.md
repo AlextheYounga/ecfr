@@ -1,0 +1,9 @@
+##### § 195.5 Responsibilities. #####
+
+(a) The Assistant Secretary of Defense (Manpower) shall be responsible for insuring that the policies of this part are effectuated throughout the Department of Defense. He may review from time to time as he deems necessary the implementation of these policies by the components of the Department of Defense.
+
+(b) The Secretary of each Military Department is responsible for implementing this part with respect to programs and activities receiving financial assistance from his Military Department; and the Assistant Secretary of Defense (Manpower) is responsible for similarly implementing this part with respect to all other components of the Department of Defense. Each may designate official(s) to fulfill this responsibility in accordance with § 195.2(b).
+
+(c) The Assistant Secretary of Defense (Manpower) or, after consultation with the Assistant Secretary of Defense (Manpower), the Secretary of each Military Department or other responsible Department official designated by the Assistant Secretary of Defense (Manpower) may assign to officials of other departments or agencies of the Government, with the consent of such departments or agencies, responsibilities in connection with the effectuation of the purposes of Title VI of the Act and this part (other than responsibility for final decision as provided in § 195.11), including the achievement of effective coordination and maximum uniformity within the Department and within the Executive Branch of the Government in the application of Title VI and this part to similar programs and in similar situations.
+
+[29 FR 19291, Dec. 31, 1964. Redesignated and amended at 56 FR 32965, July 18, 1991]

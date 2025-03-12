@@ -1,0 +1,3 @@
+##### § 18.453 Drug and alcohol addicts. #####
+
+A recipient that operates a general hospital or outpatient facility may not discriminate, with regard to a drug or alcohol abuser or alcoholic who is suffering from a medical condition, in the admission of that person for treatment of the medical condition, or in the treatment of the medical condition because of the person's drug or alcohol abuse or alcoholism.

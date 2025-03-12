@@ -1,0 +1,3 @@
+##### § 552.115 Applicability. #####
+
+This regulation is applicable to all Active Army, Reserve Officer Training Corps (ROTC), U.S. Army Reserve (USAR), and Army National Guard (ARNG) units training and/or assigned/attached to Fort Lewis and its sub-installations. This regulation also applies to tenant units/activities stationed on Fort Lewis. It is also applicable to all persons, both military and civilian, who reside on or who otherwise enter Fort Lewis Military Reservation for whatever reason.

@@ -1,5 +1,7 @@
 ##### § 0.96 Delegations. #####
 
+Link to an amendment published at 88 FR 19839, Apr. 4, 2023.
+
 The Director of the Bureau of Prisons is authorized to exercise or perform any of the authority, functions, or duties conferred or imposed upon the Attorney General by any law relating to the commitment, control, or treatment of persons (including insane prisoners and juvenile delinquents) charged with or convicted of offenses against the United States, including the taking of final action in the following-described matters:
 
 (a) Requesting the detail of Public Health Service officers for the purpose of furnishing services to Federal penal and correctional institutions (18 U.S.C. 4005).

@@ -1,0 +1,3 @@
+##### § 552.118 Issuance from unit arms room. #####
+
+When privately owned weapons are withdrawn from the arms room, DA Form 3749 (Equipment Receipt), will be turned in and the weapon will be signed out on Headquarters Fort Lewis Form 938 (Weapons/Ammunition and Sensitive Item Issue and Turn-In Register). The armorer will provide the owner with a copy of Headquarters Fort Lewis Form 816 (Registration of Personal Firearms), which will remain with the weapon at all times. When the weapon is turned back in to the arms room, the HFL Form 816 will be turned in also.

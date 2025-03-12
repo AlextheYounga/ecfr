@@ -1,0 +1,3 @@
+##### § 2103.14 Challenges to classification. #####
+
+If holders of classified information believe that the information is improperly or unnecessarily classified, or that original classification has been extended for too long a period, they should discuss the matter with their immediate superiors or the classifier of the information. If these discussions do not satisfy the concerns of the challenger, the matter should be brought to the attention of the chairperson of the NSC Information Security Oversight Committee (see § 2103.51 of this part).
