@@ -90,7 +90,9 @@
 
 (i) *Possession and landing.* Take and retain, possess, or land more Atlantic chub mackerel, Atlantic mackerel, *Illex* squid, longfin squid, or butterfish than specified under, or after the effective date of, a notification issued under §§ 648.22 or 648.24(d).
 
-(ii) *Transfer and purchase.* (A) Purchase or otherwise receive for a commercial purpose; other than solely for transport on land; Atlantic chub mackerel, Atlantic mackerel, *Illex* squid, longfin squid, or butterfish caught by a vessel that has not been issued a Federal Atlantic mackerel, *Illex* squid, longfin squid, or butterfish vessel permit, unless the vessel fishes exclusively in state waters.
+(ii) *Recreational possession.* Take and retain, possess, or land Atlantic mackerel in excess of the recreational limits contained in § 648.26(a)(3).
+
+(iii) *Transfer and purchase.* (A) Purchase or otherwise receive for a commercial purpose; other than solely for transport on land; Atlantic chub mackerel, Atlantic mackerel, *Illex* squid, longfin squid, or butterfish caught by a vessel that has not been issued a Federal Atlantic mackerel, *Illex* squid, longfin squid, or butterfish vessel permit, unless the vessel fishes exclusively in state waters.
 
 (B) Transfer longfin squid, *Illex* squid, or butterfish within the EEZ, unless the vessels participating in the transfer have been issued the appropriate LOA from the Regional Administrator along with a valid longfin squid, butterfish, or *Illex* squid moratorium permit and are transferring species for which the vessels are permitted, or a valid squid/butterfish incidental catch permit.
 
@@ -147,7 +149,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (iii) Carry passengers for hire while fishing commercially under an Atlantic mackerel, *Illex* squid, longfin squid, or butterfish fishery permit.
 
-(4) *Presumption.* For purposes of this part, the following presumption applies: All Atlantic chub mackerel, Atlantic mackerel and butterfish possessed on board a party or charter boat issued a Federal Atlantic mackerel, *Illex* squid, longfin squid, or butterfish fishery permit are deemed to have been harvested from the EEZ, unless the preponderance of evidence demonstrates that such species were harvested by a vessel without a Federal Atlantic mackerel, *Illex* squid, longfin squid, or butterfish permit and fishing exclusively in state waters or, for Atlantic chub mackerel, outside of the Atlantic Chub Mackerel Management Unit.
+(4) *Presumption.* For purposes of this part, the following presumption applies: All Atlantic chub mackerel, Atlantic mackerel, *Illex* squid, longfin squid, or butterfish possessed on a vessel issued any permit under § 648.4 are deemed to have been harvested from the EEZ, unless the preponderance of all submitted evidence demonstrates that such species were purchased for bait or harvested by a vessel fishing exclusively in state waters or, for Atlantic chub mackerel, outside of the Atlantic Chub Mackerel Management Unit.
 
 (h) *Atlantic salmon.* Unless participating in a research activity as described in § 648.22(g), it is unlawful for any person to do any of the following:
 

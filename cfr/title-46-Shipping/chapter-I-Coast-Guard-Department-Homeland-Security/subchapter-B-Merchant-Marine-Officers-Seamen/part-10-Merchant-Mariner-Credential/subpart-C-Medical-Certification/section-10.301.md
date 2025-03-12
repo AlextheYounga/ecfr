@@ -1,8 +1,6 @@
 ##### § 10.301 General requirements. #####
 
-Link to an amendment published at 87 FR 66590, Nov. 4, 2022.
-
-(a) The Coast Guard will issue a medical certificate to a mariner meeting the medical and physical standards for merchant mariners. The medical certificate will be issued for various periods of time based upon the endorsements the mariner holds. The Coast Guard will review all information provided and will determine whether -
+(a) The Coast Guard will issue a medical certificate to a mariner meeting the medical and physical standards for merchant mariners. The medical certificate will be issued for various periods of time based upon the endorsements the mariner holds. The Coast Guard will review all information provided and will determine whether—
 
 (1) The applicant is physically and medically qualified for the medical certificate without any limitations, waivers and/or other conditions;
 
@@ -18,10 +16,10 @@ Link to an amendment published at 87 FR 66590, Nov. 4, 2022.
 
 (1) All persons employed or engaged onboard vessels to which STCW applies will be issued a medical certificate valid for 2 years unless the mariner is under the age of 18, in which case the maximum period of validity will be 1 year.
 
-(2) Medical certificates issued to a mariner who is serving as a first-class pilot, or acting as a pilot under § 15.812 of this subchapter, will be issued for a maximum period of 2 years.
+(2) Medical certificates issued to all other mariners will be issued for a maximum period of 5 years.
 
-(3) Medical certificates issued to all other mariners will be issued for a maximum period of 5 years.
+(c) Applicants seeking additional MMC endorsements holding a current medical certificate are not required to submit a new medical physical exam if their existing medical certification meets all of the requirements of this section for the endorsement sought.
 
-(4) Applicants seeking additional MMC endorsements holding a current medical certificate are not required to submit a new medical physical exam if their existing medical certification meets all of the requirements of this section for the endorsement sought.
+(d) Applicants holding no endorsement other than a staff officer endorsement need not meet the medical and physical requirements of this section.
 
-(c) Applicants holding no endorsement other than a staff officer endorsement need not meet the medical and physical requirements of this section.
+[USCG-2004-17914, 78 FR 77900, Dec. 24, 2013, as amended by USCG-2020-0069, 87 FR 66590, Nov. 4, 2022]

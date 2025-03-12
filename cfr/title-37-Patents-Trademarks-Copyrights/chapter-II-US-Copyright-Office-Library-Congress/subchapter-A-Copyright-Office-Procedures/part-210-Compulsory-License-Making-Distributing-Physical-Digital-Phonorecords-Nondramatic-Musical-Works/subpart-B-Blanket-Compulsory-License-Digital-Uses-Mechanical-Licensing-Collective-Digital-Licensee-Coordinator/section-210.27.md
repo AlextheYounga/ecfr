@@ -307,7 +307,7 @@ I certify that (1) I am duly authorized to sign this monthly report of usage on 
 
 (8) If requested by the blanket licensee, the mechanical licensing collective shall deliver a response file to the blanket licensee that contains the information required by paragraph (g)(2)(v) of this section to the extent applicable to the adjustment. The response file shall be delivered no later than 45 calendar days after receiving the relevant report of adjustment, unless the report of adjustment is combined with an annual report of usage, in which case the response file shall be delivered no later than 60 calendar days after receiving the relevant annual report of usage.
 
-(9) The mechanical licensing collective may make use of a transition period ending February 24, 2023, during which the mechanical licensing collective shall not be required to deliver invoices or response files within the timeframes specified in paragraphs (k)(4) and (8) of this section.
+(9) The mechanical licensing collective may make use of a transition period ending 30 calendar days after receiving written notice from the Copyright Office, during which the mechanical licensing collective shall not be required to deliver invoices or response files within the timeframes specified in paragraphs (k)(4) and (8) of this section.
 
 (l) *Clear statements.* The information required by this section requires intelligible, legible, and unambiguous statements in the reports of usage, without incorporation of facts or information contained in other documents or records.
 
@@ -365,4 +365,4 @@ I certify that (1) I am duly authorized to sign this monthly report of usage on 
 
 (2) The mechanical licensing collective shall maintain a current, free, and publicly accessible online list of all agreements made pursuant to paragraph (n)(1) of this section that includes the name of the blanket licensee (and, if different, the trade or consumer-facing brand name(s) of the services(s), including any specific offering(s), through which the blanket licensee engages in covered activities) and the start and end dates of the agreement. Any such agreement shall be considered a record that a copyright owner may access in accordance with 17 U.S.C. 115(d)(3)(M)(ii). Where an agreement made pursuant to paragraph (n)(1) of this section is made pursuant to an agreement to administer a voluntary license or any other agreement, only those portions that vary or supplement the procedures described in this section and that pertain to the administration of a requesting copyright owner's musical works must be made available to that copyright owner.
 
-[85 FR 58143, Sept. 17, 2020, as amended at 86 FR 12826, Mar. 5, 2021; 87 FR 31427, May 24, 2022]
+[85 FR 58143, Sept. 17, 2020, as amended at 86 FR 12826, Mar. 5, 2021; 87 FR 31427, May 24, 2022; 88 FR 6632, Feb. 1, 2023]
