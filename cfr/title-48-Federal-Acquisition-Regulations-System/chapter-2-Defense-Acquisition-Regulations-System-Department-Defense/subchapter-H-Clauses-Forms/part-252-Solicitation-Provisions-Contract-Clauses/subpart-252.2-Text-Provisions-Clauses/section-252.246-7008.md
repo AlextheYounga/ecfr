@@ -2,7 +2,7 @@
 
 As prescribed in 246.870-3(b), use the following clause:
 
-SOURCES OF ELECTRONIC PARTS (DEC 2017)
+SOURCES OF ELECTRONIC PARTS (MAY 2018)
 
 (a) *Definitions.* As used in this clause -
 
@@ -22,7 +22,7 @@ SOURCES OF ELECTRONIC PARTS (DEC 2017)
 
 *Original manufacturer* means the original component manufacturer, the original equipment manufacturer, or the contract manufacturer.
 
-(b) *Selecting suppliers.* In accordance with section 818(c)(3) of the National Defense Authorization Act for Fiscal Year 2012 (Pub. L. 112-81), as amended by section 817 of the National Defense Authorization Act for Fiscal Year 2015 (Pub. L. 113-291), the Contractor shall -
+(b) *Selecting suppliers.* In accordance with section 818(c)(3) of the National Defense Authorization Act for Fiscal Year 2012 (Pub. L. 112-81), as amended by section 817 of the National Defense Authorization Act for Fiscal Year 2015 (Pub. L. 113-291 and section 885 of the National Defense Authorization Act for Fiscal Year 2016 (Pub. L. 114-92)), the Contractor shall -
 
 (1) First obtain electronic parts that are in production by the original manufacturer or an authorized aftermarket manufacturer or currently available in stock from -
 
@@ -38,7 +38,7 @@ SOURCES OF ELECTRONIC PARTS (DEC 2017)
 
 (ii) The Contractor assumes responsibility for the authenticity of parts provided by such contractor-approved suppliers; and
 
-(iii) The Contractor's selection of such contractor-approved suppliers is subject to review and audit by the contracting officer; or
+(iii) The Contractor's selection of such contractor-approved suppliers is subject to review, audit, and approval by the Government, generally in conjunction with a contractor purchasing system review or other surveillance of purchasing practices by the contract administration office, or if the Government obtains credible evidence that a contractor-approved supplier has provided counterfeit parts. The Contractor may proceed with the acquisition of electronic parts from a contractor-approved supplier unless otherwise notified by DoD; or
 
 (3)(i) Take the actions in paragraphs paragraph (b)(3)(ii) of this clause if the Contractor -
 
@@ -86,4 +86,4 @@ SOURCES OF ELECTRONIC PARTS (DEC 2017)
 
 (e) *Subcontracts.* The Contractor shall include the substance of this clause, including this paragraph (e), in subcontracts, including subcontracts for commercial items, that are for electronic parts or assemblies containing electronic parts, unless the subcontractor is the original manufacturer.
 
-(End of clause)[81 FR 50649, Aug. 2, 2016, as amended at 81 FR 72738, Oct. 21, 2016; 82 FR 61481, Dec. 28, 2017]
+(End of clause)[81 FR 50649, Aug. 2, 2016, as amended at 81 FR 72738, Oct. 21, 2016; 82 FR 61481, Dec. 28, 2017; 83 FR 19645, May 4, 2018]

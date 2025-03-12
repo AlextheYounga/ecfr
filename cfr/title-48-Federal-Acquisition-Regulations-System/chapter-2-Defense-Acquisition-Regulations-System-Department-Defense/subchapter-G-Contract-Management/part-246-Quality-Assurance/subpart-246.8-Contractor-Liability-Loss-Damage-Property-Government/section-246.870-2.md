@@ -16,7 +16,7 @@
 
 (B) The contractor assumes responsibility for the authenticity of parts provided by such contractor-approved suppliers (see 231.205-71); and
 
-(C) The selection of such contractor-approved suppliers is subject to review and audit by the contracting officer.
+(C) The selection of such contractor-approved suppliers is subject to review, audit, and approval by the Government, generally in conjunction with a contractor purchasing system review or other surveillance of purchasing practices by the contract administration office, or if the Government obtains credible evidence that a contractor-approved supplier has provided counterfeit parts. The contractor may proceed with the acquisition of electronic parts from a contractor-approved supplier unless otherwise notified by DoD.
 
 (2) The Government requires contractors and subcontractors to comply with the notification, inspection, testing, and authentication requirements of paragraph (b)(3)(ii) through (b)(3)(iv) of the clause at 252.246-7008, Sources of Electronic Parts, if the contractor -
 
@@ -72,4 +72,4 @@
 
 (xii) Control of obsolete electronic parts.
 
-[81 FR 50648, Aug. 2, 2016]Editorial Note:At 81 FR 72738, Oct. 21, 2016, § 246.870-2(a)(2) introductory text was to be amended by removing “(b)(3)(ii) through (b)(3)(iv)” and adding “(b)(3)(ii)” in its place; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[81 FR 50648, Aug. 2, 2016, as amended at 83 FR 19645, May 4, 2018]Editorial Note:At 81 FR 72738, Oct. 21, 2016, § 246.870-2(a)(2) introductory text was to be amended by removing “(b)(3)(ii) through (b)(3)(iv)” and adding “(b)(3)(ii)” in its place; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

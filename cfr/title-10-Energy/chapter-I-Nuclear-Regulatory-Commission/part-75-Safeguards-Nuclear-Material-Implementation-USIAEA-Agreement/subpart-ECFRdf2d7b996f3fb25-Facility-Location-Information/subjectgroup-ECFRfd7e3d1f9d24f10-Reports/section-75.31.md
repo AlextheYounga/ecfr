@@ -1,0 +1,7 @@
+##### § 75.31 General requirements. #####
+
+Link to an amendment published at 83 FR 19613, May 4, 2018.
+
+Each licensee or certificate holder who has been given notice by the Commission in writing that its facility has been identified under the Safeguards Agreement shall make, in an appropriate computer-readable format, an initial inventory report, and thereafter shall make accounting reports, with respect to the facility and, in addition, licensees or certificate holders who have been given notice, under § 75.7 that their facilities are subject to the application of IAEA safeguards, shall make the special reports described in § 75.36. These reports must be based on the records kept under § 75.21. At the request of the Commission, the licensee or certificate holder shall amplify or clarify any report with respect to any matter relevant to implementation of the Safeguards Agreement. Any amplification or clarification must be in writing and must be submitted, to the address specified in the request, within 20 days or other time as may be specified by the Commission.
+
+[73 FR 78613, Dec. 23, 2008]

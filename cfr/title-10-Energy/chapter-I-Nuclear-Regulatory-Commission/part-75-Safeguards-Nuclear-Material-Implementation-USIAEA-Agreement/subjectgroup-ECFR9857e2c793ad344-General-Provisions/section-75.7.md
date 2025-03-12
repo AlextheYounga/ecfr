@@ -1,5 +1,7 @@
 ##### § 75.7 Notification of IAEA safeguards. #####
 
+Link to an amendment published at 83 FR 19610, May 4, 2018.
+
 (a) The licensee must inform the NRC:
 
 (1) Before the licensee begins an activity that may be subject to the Safeguards Agreement; or

@@ -1,0 +1,9 @@
+##### § 966.130 Application. #####
+
+Any person applying for exemption from regulations issued pursuant to § 966.52 shall file such application with the committee, or its duly authorized agent for such purpose, on forms to be furnished by such committee. Each application shall state the name and address of the applicant, the grade, size, and quality regulations from which exemption is requested; and facts demonstrating that the tomatoes, for which exemption is requested, were adversely affected by acts beyond his control or by acts beyond the applicant's reasonable expectation. Applications shall set forth such additional information as the committee may find necessary in making determinations with respect thereto, including, without limitation thereto, the information required on producers' applications by paragraphs (a) and (b) of this section.
+
+(a) The location and acreage of the farm on which tomatoes for which exemption is requested, the location where such tomatoes are to be prepared for market, and the loading point from which such tomatoes are to be shipped if exemption is granted;
+
+(b) Quantity (by grade, size, quality, and variety) of tomatoes harvested during the current season or any specific portion thereof prior to the date of application and to be harvested, subsequent to such date, during the remainder of the current season or any specific portion thereof (as may be determined pursuant to this part); an estimate of the portion of such tomatoes which can be handled under regulation issued pursuant to § 966.52, during the remainder of the season; and the reasons why all of such tomatoes cannot be handled under such regulations.
+
+[22 FR 9132, Nov. 16, 1957. Redesignated at 26 FR 12751, Dec. 30, 1961]

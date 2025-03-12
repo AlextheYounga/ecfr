@@ -1,5 +1,7 @@
 ##### § 75.8 IAEA inspections. #####
 
+Link to an amendment published at 83 FR 19610, May 4, 2018.
+
 (a) As provided in the Safeguards Agreement and Additional Protocol, inspections may be ad hoc, routine, special, or a complementary access (or a combination of the foregoing). The objectives of the IAEA inspectors in the performance of inspections are as follows:
 
 (1) Ad hoc inspections to verify information contained in the licensee's, applicant's, or certificate holder's facility information or initial inventory report, or to identify and verify changes in the situation which have occurred after the initial inventory reporting date at any location where the initial inventory report or any inspections carried out indicate that nuclear material subject to safeguards under the Safeguards Agreement may be present;

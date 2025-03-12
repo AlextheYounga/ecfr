@@ -1,5 +1,7 @@
 ##### § 75.6 Facility and location reporting. #####
 
+Link to an amendment published at 83 FR 19610, May 4, 2018.
+
 (a) Except where otherwise specified, all communications concerning the regulations in this Part shall be addressed to the U.S. Nuclear Regulatory Commission, ATTN: Document Control Desk, Washington, DC 20555-0001. Written communications may be delivered in person to the Nuclear Regulatory Commission at One White Flint North, 11555 Rockville Pike, Rockville, MD 20852-2738 between 7:30 a.m. and 4:15 p.m. eastern time. If a submittal deadline falls on a Saturday, Sunday, or a Federal holiday, the next Federal working day becomes the official due date.
 
 (b) Each applicant, licensee, or certificate holder who has been given notice by the Commission in writing that its facility or location is required to report under the Safeguards Agreement shall make its initial and subsequent reports, including attachments, in an appropriate format defined in the instructions.

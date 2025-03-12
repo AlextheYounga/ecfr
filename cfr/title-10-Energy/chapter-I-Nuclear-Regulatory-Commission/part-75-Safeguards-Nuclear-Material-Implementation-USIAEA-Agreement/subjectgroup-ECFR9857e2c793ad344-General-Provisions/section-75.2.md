@@ -1,5 +1,7 @@
 ##### § 75.2 Scope. #####
 
+Link to an amendment published at 83 FR 19609, May 4, 2018.
+
 (a) All persons licensed by the Nuclear Regulatory Commission or an Agreement State, or who hold a certificate of compliance, or construction permit or authorization issued by the Nuclear Regulatory Commission are subject to the requirements of this part. These requirements also apply to all persons who have filed an application with the NRC to construct a facility or to receive source or special nuclear material. Locations determined by the U.S. Government to be associated with activities or information of direct national security significance to the United States are excluded from these requirements. Specifically, these requirements pertain to the following locations and activities of licensees and certificate holders:
 
 (1) A facility, as defined in § 75.4, and the site of the facility;
