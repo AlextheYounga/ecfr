@@ -2,7 +2,7 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Chautauqua National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of waterfowl on designated areas of the refuge subject to the following condition: Hunters must remove boats, decoys, blinds, and blind materials at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(a) *Chautauqua National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of waterfowl on designated areas of the refuge subject to the following condition: Hunters must remove boats, decoys, blinds, and blind materials at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
 (2)-(3) [Reserved]
 
@@ -12,7 +12,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow bank fishing year-round between the boat ramp and the fishing trail in the North Pool and from Goofy Ridge Public Access to the west gate of the North Pool water control structure.
 
-(b) *Crab Orchard National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, woodcock, dove, snipe, rail, and crow on designated areas of the refuge subject to the following conditions:
+(b) *Crab Orchard National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, woodcock, dove, snipe, rail, and crow on designated areas of the refuge subject to the following conditions:
 
 (i) We require a signed hunt brochure. You must carry this signed permit when hunting on the refuge.
 
@@ -62,17 +62,23 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) On Crab Orchard Lake east of Wolf Creek Road:
 
-(A) Anglers may fish from boats March 15 through September 30.
+(A) Anglers may fish from boats March 1 through October 15.
 
 (B) Anglers may fish all year at the Wolf Creek and Route 148 causeways.
 
-(iii) On A-41, Bluegill, Managers, Honkers, and Visitors Ponds:
+(iii) On A-41 and Bluegill Ponds:
 
-(A) Anglers may fish only from legal sunrise to legal sunset from March 15 through September 30.
+(A) Anglers may fish only from legal sunrise to legal sunset from March 1 through October 15.
 
-(B) We prohibit anglers from using boats or flotation devices.
+(B) We prohibit anglers from using gas-powered boats.
 
-(iv) Trotlines/jugs:
+(iv) On Managers, Honkers, and Visitors Ponds:
+
+(A) Anglers may fish all year from legal sunrise to legal sunset.
+
+(B) We prohibit anglers from using gas-powered boats.
+
+(v) Trotlines/jugs:
 
 (A) We prohibit the use of trotlines/jugs on all refuge waters outside of Crab Orchard Lake.
 
@@ -80,27 +86,25 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (C) Anglers must attach a buoyed device that is visible on the water's surface to all trotlines.
 
-(v) Anglers may use all legal noncommercial fishing methods, except they may not use any underwater breathing apparatus.
+(vi) Anglers may use all legal noncommercial fishing methods, except they may not use any underwater breathing apparatus.
 
-(vi) Anglers may not submerge any poles or similar objects to take or locate any fish.
+(vii) Anglers may not submerge any poles or similar objects to take or locate any fish.
 
-(vii) Organizers of all fishing events must possess a Special Use Permit (FWS Form 3-1383-G or FWS Form 3-1383-C).
+(viii) Organizers of all fishing events must possess a Special Use Permit (FWS Form 3-1383-G or FWS Form 3-1383-C).
 
-(viii) We prohibit anglers from fishing within 250 yards (225 m) of an occupied waterfowl hunting blind.
+(ix) We prohibit anglers from fishing within 250 yards (228 meters) of an occupied waterfowl hunting blind.
 
-(ix) Specific creel and size limits apply on various refuge waters as listed in the Crab Orchard fishing brochure and the annual Illinois fishing digest.
+(x) Specific creel and size limits apply on various refuge waters as listed in the Crab Orchard fishing brochure and the annual Illinois fishing digest.
 
-(c) *Cypress Creek National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, woodcock, rail, dove, crow, and snipe on designated areas of the refuge subject to the following conditions:
+(c) *Cypress Creek National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, woodcock, rail, dove, crow, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) You must remove all boats, decoys, blinds, blind materials, stands, and platforms (see §§ 27.93 and 27.94 of this chapter) brought onto the refuge at the end of each day's hunt.
 
-(ii) We prohibit outboard motors larger than 10 horsepower (hp).
-
-(iii) We allow the use of dogs while hunting, provided the dog is under the immediate control of the hunter at all times.
+(ii) We allow the use of dogs while hunting, provided the dog is under the immediate control of the hunter at all times.
 
 (2) *Upland game hunting.* We allow hunting of squirrel, rabbit, bobwhite quail, raccoon, opossum, red fox, gray fox, bobcat, striped skunk, woodchuck, turkey, pheasant, Hungarian partridge, and coyote on designated areas of the refuge subject to the following condition:
 
-(i) The conditions set forth at paragraphs (c)(1)(i) through (iii) of this section apply.
+(i) The conditions set forth at paragraphs (c)(1)(i) and (ii) of this section apply.
 
 (ii) For hunting, you may use or possess only approved nontoxic shot shells while in the field, including shot shells used for hunting wild turkey (see § 32.2(k)).
 
@@ -112,19 +116,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
 
-(i) The condition set forth at paragraph (c)(1)(ii) of this section applies.
+(i) Anglers must remove all boats and fishing equipment (see § 27.93 of this chapter) brought onto the refuge at the end of each day's fishing activity.
 
-(ii) Anglers must remove all boats and fishing equipment (see § 27.93 of this chapter) brought onto the refuge at the end of each day's fishing activity.
+(ii) We prohibit the use of trotlines, jugs, yo-yos, nets, or any commercial fishing equipment except in areas where State regulations authorize commercial tackle.
 
-(iii) We prohibit the use of trotlines, jugs, yo-yos, nets, or any commercial fishing equipment except in areas where State regulations authorize commercial tackle.
+(iii) We prohibit the use of more than two poles per angler and more than two hooks or lures per pole.
 
-(iv) We prohibit the use of more than two poles per angler and more than two hooks or lures per pole.
-
-(v) We prohibit possession of bass smaller than 15 inches (37.5 centimeters) in length from refuge ponds.
-
-(vi) We prohibit possession of more than six channel catfish from refuge ponds.
-
-(d) *Emiquon National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
+(d) *Emiquon National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
 
 (i) Hunters must remove boats, decoys, blinds, and blind materials brought onto the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
@@ -144,7 +142,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit fishing in the waterfowl hunting area during the waterfowl hunting season.
 
-(e) *Great River National Wildlife Refuge* -
+(e) *Great River National Wildlife Refuge*—
 (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following condition: On the Long Island Division, we allow hunting only from blinds constructed on sites posted by the Illinois Department of Natural Resources.
 
 (2) *Upland game hunting.* We allow hunting of small game, furbearers, and game birds on designated areas of the refuge subject to the following conditions:
@@ -171,15 +169,23 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) On the Fox Island Division, we only allow bank fishing along any portion of the Fox River from January 1 through October 15.
 
-(f) *Hackmatack National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following condition: You must remove all boats, decoys, blinds, blind materials, stands, and platforms (see §§ 27.93 and 27.94 of this chapter) brought onto the refuge at the end of each day's hunt.
+(f) *Hackmatack National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
+
+(i) You must remove personal belongings, including, but not limited to, all boats, decoys, blinds, blind materials, stands, and platforms brought onto the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+
+(ii) Hunters may enter the refuge no earlier than1/2 hour before legal shooting hours and must exit the refuge no later than1/2 hour after legal shooting hours.
 
 (2) *Upland game hunting.* We allow upland game and turkey hunting on designated areas of the refuge subject to the following conditions:
 
-(i) For hunting, you may use or possess only approved nontoxic shot shells while in the field, including shot shells used for hunting wild turkey (see § 32.2(k)).
+(i) The conditions set forth at paragraphs (f)(1)(i) and (ii) of this section apply.
 
-(ii) You must remove all boats, decoys, blinds, blind materials, stands, and platforms (see §§ 27.93 and 27.94 of this chapter) brought onto the refuge at the end of each day's hunt.
+(ii) For hunting, you may use or possess only approved nontoxic shot shells while in the field, including shot shells used for hunting wild turkey (see § 32.2(k)).
 
-(3) *Big game hunting.* We allow big game hunting on designated areas of the refuge subject to the following condition: You must remove all boats, decoys, blinds, blind materials, stands, and platforms (see §§ 27.93 and 27.94 of this chapter) brought onto the refuge at the end of each day's hunt.
+(3) *Big game hunting.* We allow big game hunting on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (f)(1)(i) and (ii) of this section apply.
+
+(ii) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: We prohibit the taking of turtle and frog (see § 27.21 of this chapter).
 
@@ -189,9 +195,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) For hunting, you may possess only approved nontoxic shot shells while in the field (see § 32.2(k)).
 
-(ii) You must remove all boats, decoys, blinds, blind materials, stands, platforms, and other hunting equipment (see §§ 27.93 and 27.94 of this chapter) brought onto the refuge at the end of each day's hunt.
+(ii) You must remove personal belongings, including, but not limited to, all boats, decoys, blinds, blind materials, stands, platforms, and other hunting equipment brought onto the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
-(3) *Big game hunting.* We allow hunting of white-tailed deer on designated areas of the refuge subject to the following condition: The condition set forth at paragraph (g)(2)(ii) of this section applies.
+(3) *Big game hunting.* We allow hunting of white-tailed deer on designated areas of the refuge subject to the following conditions:
+
+(i) The condition set forth at paragraph (g)(2)(ii) of this section applies.
+
+(ii) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
 
 (4) [Reserved]
 
@@ -203,7 +213,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow access to Meredosia Lake from the boat ramp and allow foot access on refuge land along the east side of the Meredosia Lake in Morgan County from legal sunrise to legal sunset throughout the year.
 
-(i) *Middle Mississippi River National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following condition: You must remove boats, blinds, blind materials, stands, decoys, and other hunting equipment from the refuge at the end of each day (see §§ 27.93 and 27.94 of this chapter).
+(i) *Middle Mississippi River National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following condition: You must remove boats, blinds, blind materials, stands, decoys, and other hunting equipment from the refuge at the end of each day (see §§ 27.93 and 27.94 of this chapter).
 
 (2) *Upland game hunting.* We allow hunting of small game, furbearers, and game birds on designated areas of the refuge subject to the following condition: We open the refuge divisions for upland game hunting from1/2 hour before legal sunrise to1/2 hour after legal sunset.
 
@@ -225,7 +235,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (j) *Port Louisa National Wildlife Refuge.* Refer to § 32.34(f) for regulations.
 
-(k) *Two Rivers National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
+(k) *Two Rivers National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
 
 (i) Hunters must remove boats, decoys, blinds, blind materials, stands, and platforms brought onto the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
@@ -241,11 +251,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We allow the use of .22 and .17 caliber rimfire lead ammunition for the taking of small game and furbearers during open season.
 
-(v) We allow hunting from legal sunrise to legal sunset.
+(v) Hunters may only hunt from1/2 hour before legal sunrise to no later than1/2 hour after legal sunset, and they must follow all State requirements for legal hunting hours.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer on designated areas of the refuge subject to the following conditions:
 
-(i) The condition set forth at paragraph (k)(1)(i) of this section applies.
+(i) The conditions set forth at paragraphs (k)(1)(i) and (k)(2)(v) of this section apply.
 
 (ii) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
 
@@ -259,4 +269,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (l) *Upper Mississippi River National Wildlife and Fish Refuge.* Refer to § 32.42(r) for regulations.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54110, Aug. 31, 2020]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54110, Aug. 31, 2020; 86 FR 48859, Aug. 31, 2021]

@@ -2,7 +2,7 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Ash Meadows National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, snipe, and dove on designated areas of the refuge subject to the following conditions:
+(a) *Ash Meadows National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, snipe, and dove on designated areas of the refuge subject to the following conditions:
 
 (i) We only allow motorless boats or boats with electric motors on the refuge hunting area during the migratory waterfowl hunting season.
 
@@ -12,13 +12,21 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3)-(4) [Reserved]
 
-(b) *Desert National Wildlife Refuge.* (1)-(2) [Reserved]
+(b) *Desert National Wildlife Refuge.*
+
+(1) *Migratory game bird hunting.* We allow hunting of dove on designated areas of the refuge subject to the following conditions:
+
+(i) We allow hunting on designated days.
+
+(ii) You may not possess more than 25 shot shells while in the field once you have left your vehicle.
+
+(2) *Upland game hunting.* We allow hunting of chukar and quail on designated areas of the refuge subject to the following condition: The conditions set forth at paragraphs (b)(1)(i) and (ii) of this section apply.
 
 (3) *Big game hunting.* We allow hunting of bighorn sheep on designated areas of the refuge subject to the following condition: We require bighorn sheep guides to obtain a Special Use Permit (FWS Form 3-1383-C) prior to taking clients onto the refuge.
 
 (4) [Reserved]
 
-(c) *Fallon National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, swan, coot, merganser, snipe, and dove on designated areas of the refuge subject to the following conditions:
+(c) *Fallon National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, swan, coot, merganser, snipe, and dove on designated areas of the refuge subject to the following conditions:
 
 (i) We allow motorized and nonmotorized boats for hunting.
 
@@ -40,7 +48,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(d) *Pahranagat National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, snipe, and dove on designated areas of the refuge subject to the following conditions:
+(d) *Pahranagat National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, snipe, and dove on designated areas of the refuge subject to the following conditions:
 
 (i) We allow hunting on designated days.
 
@@ -60,7 +68,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: We allow fishing year-round, except that we close the North Marsh to all fishing from October 1 through February 1.
 
-(e) *Ruby Lake National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of dark goose, duck, coot, moorhen, and common snipe on designated areas of the refuge subject to the following conditions:
+(e) *Ruby Lake National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of dark goose, duck, coot, moorhen, and common snipe on designated areas of the refuge subject to the following conditions:
 
 (i) Hunters may access the refuge from 1 hour before legal sunrise until 2 hours after legal sunset.
 
@@ -78,7 +86,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We prohibit the possession of live or dead bait fish, any amphibians (including frogs), and crayfish on the refuge.
 
-(f) *Sheldon National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following condition: We allow only portable blinds and temporary blinds constructed of synthetic material.
+(f) *Sheldon National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following condition: We allow only portable blinds and temporary blinds constructed of synthetic material.
 
 (2) *Upland game hunting.* We allow hunting of quail, grouse, and chukar on designated areas of the refuge.
 
@@ -92,7 +100,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(g) *Stillwater National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, swan, coot, merganser, snipe, and dove on designated areas of the refuge subject to the following conditions:
+(g) *Stillwater National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, swan, coot, merganser, snipe, and dove on designated areas of the refuge subject to the following conditions:
 
 (i) We allow the use of dogs when hunting game birds.
 
@@ -118,4 +126,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54126, Aug. 31, 2020]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54126, Aug. 31, 2020; 86 FR 48871, Aug. 31, 2021]

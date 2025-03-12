@@ -44,7 +44,9 @@ The following hatcheries are open for sport fishing as governed by applicable Fe
 
 (f) *Entiat National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery.
 
-(g) *Harrison Lake National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery subject to the following conditions:
+(g) *Green Lake National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery.
+
+(h) *Harrison Lake National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery subject to the following conditions:
 
 (1) We only allow fishing from1/2 hour before legal sunrise until1/2 hour after legal sunset.
 
@@ -52,19 +54,19 @@ The following hatcheries are open for sport fishing as governed by applicable Fe
 
 (3) We prohibit the use of gasoline motors greater than 5 horsepower on watercraft.
 
-(h) *Hotchkiss National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery subject to the following condition: We prohibit the cleaning of fish on the hatchery.
+(i) *Hotchkiss National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery subject to the following condition: We prohibit the cleaning of fish on the hatchery.
 
-(i) *Inks Dam National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery.
+(j) *Inks Dam National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery.
 
-(j) *Lamar National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery subject to the following condition: We only allow sport fishing from legal sunrise to legal sunset.
+(k) *Lamar National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery subject to the following condition: We only allow sport fishing from legal sunrise to legal sunset.
 
-(k) *Leadville National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery subject to the following condition: We prohibit the cleaning of fish on the hatchery. See § 71.11 for hatchery-specific hunting regulations for this hatchery.
+(l) *Leadville National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery subject to the following condition: We prohibit the cleaning of fish on the hatchery. See § 71.11 for hatchery-specific hunting regulations for this hatchery.
 
-(l) *Leavenworth National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery.
+(m) *Leavenworth National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery.
 
-(m) *Little White Salmon National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery subject to the following condition: We allow fishing after legal sunset, but the hatchery access road is closed from 11 p.m. to 4 a.m.
+(n) *Little White Salmon National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery subject to the following condition: We allow fishing after legal sunset, but the hatchery access road is closed from 11 p.m. to 4 a.m.
 
-(n) *Orangeburg National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery subject to the following conditions:
+(o) *Orangeburg National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery subject to the following conditions:
 
 (1) We prohibit fishing after legal sunset.
 
@@ -72,12 +74,12 @@ The following hatcheries are open for sport fishing as governed by applicable Fe
 
 (3) We prohibit motorized boats on the hatchery while fishing.
 
-(o) *Spring Creek National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery subject to the following condition: We only allow fishing from legal sunrise to legal sunset.
+(p) *Spring Creek National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery subject to the following condition: We only allow fishing from legal sunrise to legal sunset.
 
-(p) *Tishomingo National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery.
+(q) *Tishomingo National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery.
 
-(q) *Valley City National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery subject to the following condition: We prohibit the cleaning of fish on the hatchery.
+(r) *Valley City National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery subject to the following condition: We prohibit the cleaning of fish on the hatchery.
 
-(r) *Willard National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery.
+(s) *Willard National Fish Hatchery.* We allow sport fishing on designated areas of the hatchery.
 
-[84 FR 47790, Sept. 10, 2019, as amended at 85 FR 54146, Aug. 31, 2020]
+[84 FR 47790, Sept. 10, 2019, as amended at 85 FR 54146, Aug. 31, 2020; 86 FR 48883, Aug. 31, 2021]

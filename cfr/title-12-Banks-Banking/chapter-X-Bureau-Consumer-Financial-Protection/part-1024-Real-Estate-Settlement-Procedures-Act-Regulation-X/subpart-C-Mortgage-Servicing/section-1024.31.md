@@ -1,12 +1,12 @@
 ##### § 1024.31 Definitions. #####
 
-Link to an amendment published at 86 FR 34899, June 30, 2021.
-
 For purposes of this subpart:
 
 *Confirmed successor in interest* means a successor in interest once a servicer has confirmed the successor in interest's identity and ownership interest in a property that secures a mortgage loan subject to this subpart.
 
 *Consumer reporting agency* has the meaning set forth in section 603 of the Fair Credit Reporting Act, 15 U.S.C. 1681a.
+
+*COVID-19-related hardship* means a financial hardship due, directly or indirectly, to the national emergency for the COVID-19 pandemic declared in Proclamation 9994 on March 13, 2020 (beginning on March 1, 2020) and continued on February 24, 2021, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C.1622(d)).
 
 *Day* means calendar day.
 
@@ -50,4 +50,4 @@ For purposes of this subpart:
 
 *Transferor servicer* means a servicer, including a table-funding mortgage broker or dealer on a first- lien dealer loan, that transfers or will transfer the right to perform servicing pursuant to an agreement or understanding.
 
-[78 FR 10876, Feb. 14, 2013, as amended at 81 FR 72370, Oct. 19, 2016]
+[78 FR 10876, Feb. 14, 2013, as amended at 81 FR 72370, Oct. 19, 2016; 86 FR 34899, June 30, 2021]

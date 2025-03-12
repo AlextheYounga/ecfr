@@ -76,7 +76,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) Each youth hunter (age 15 and younger) must remain within sight and voice contact and under supervision of an adult age 21 or older. Each adult may supervise no more than one youth hunter.
 
-(iii) Harvested deer, feral hog, or turkey must be checked at the designated check station prior to removing from the refuge. Hunters must complete the Big Game Harvest Report (FWS Form 3-2359).
+(iii) Harvested deer, feral hog, or turkey must be checked at the designated check station prior to removal from the refuge. Hunters must complete the Harvest Report (FWS Form 3-2542).
 
 (iv) During deer and turkey hunts, we prohibit hunters from entering the refuge earlier than 4 a.m. and staying on the refuge later than 2 hours after legal sunset.
 
@@ -106,15 +106,15 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (c) *Ernest F. Hollings ACE Basin National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
 
-(i) We require each hunter to carry at all times while hunting a signed, current refuge hunting regulations brochure (signed brochure) containing a refuge hunt permit.
+(i) We require each hunter to carry at all times while hunting a valid signed, current refuge hunting brochure.
 
-(ii) Each youth hunter (age 15 and younger) must remain within sight and normal voice contact of an adult age 21 or older. Youth hunters must have successfully completed a State-approved hunter education course.
+(ii) Each youth hunter (age 15 and younger) must remain within sight and normal voice contact of an assistant, parent, or guardian age 21 or older. Youth hunters must have successfully completed a State-approved hunter education course.
 
 (iii) We only allow hunting until 12 p.m. (noon) each day during the State waterfowl season.
 
 (iv) You must remove portable blinds and decoys at the end of each day's hunt (see § 27.93 of this chapter).
 
-(v) We only allow the use of dogs while hunting.
+(v) We only allow the use of dogs when migratory game bird hunting.
 
 (vi) We allow scouting all year from legal sunrise to legal sunset.
 
@@ -122,31 +122,35 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2) [Reserved]
 
-(3) *Big game hunting.* We allow hunting of white-tailed deer and feral hog on designated areas of the refuge subject to the following conditions:
+(3) *Big game hunting.* We allow hunting of white-tailed deer and turkey, and incidental take of feral hog, on designated areas of the refuge subject to the following conditions:
 
 (i) The conditions set forth at paragraphs (c)(1)(i) and (ii) of this section apply.
 
-(ii) Except for the special quota permit hunts, we allow only archery or muzzleloader hunting. During special quota permit hunts, we allow use of centerfire rifles or shotguns.
+(ii) Only youth hunters may hunt turkey on the refuge.
 
-(iii) On hunt days, hunters may enter the refuge no earlier than 5 a.m. and must leave the refuge no later than 1 hour after legal sunset.
+(iii) Except for the special quota permit hunts, we allow only archery or muzzleloader hunting for deer. During special quota permit hunts, we allow use of centerfire rifles or shotguns. We only allow shotguns for turkey hunts.
 
-(iv) We require all deer taken during any hunt to be checked at the designated refuge check station before removal from the refuge. In addition, all deer must be tagged with an antlerless tag (State-issued) provided by the refuge.
+(iv) On hunt days, hunters and assistants, parents, or guardians may enter the refuge no earlier than 5 a.m. and must leave the refuge no later than 1 hour after legal sunset. We allow hunting from1/2 hour before official sunrise until1/2 hour after official sunset.
 
-(v) The refuge daily bag limit is two antlerless deer and one antlered buck that must have at least three antler points on one side. We define a “point” as an antler projection of at least 1 inch (2.5 centimeters) or more in length.
+(v) We require all deer taken during any hunt to be checked at the designated refuge check station before removal from the refuge. In addition, all deer and turkey must be tagged (State-issued).
 
-(vi) You may take feral hogs during refuge deer hunts. There is no size or bag limit on hogs. We may offer special hog hunts during and after deer season to further control this invasive species. We prohibit removal of live hogs from the refuge.
+(vi) The refuge daily bag limit is two antlerless deer and one antlered buck that must have at least three antler points on one side. We define a “point” as an antler projection of at least 1 inch (2.5 centimeters) or more in length. The youth turkey hunter bag limit is one male turkey.
 
-(vii) You must hunt deer and feral hogs from an elevated deer stand. We prohibit shooting big game from a boat.
+(vii) We allow incidental take of feral hog during deer hunts only. There is no size or bag limit on hogs. We may offer special hog hunts during and after deer season to further control this invasive species. We prohibit removal of live hogs from the refuge.
 
-(viii) All permanently fixed ground blinds are for the mobility-impaired hunt only.
+(viii) You must hunt deer from an elevated deer stand. We prohibit shooting big game from a boat.
 
-(ix) We prohibit crossbows on the archery hunts. We only allow muzzleloading rifles using a single projectile on the muzzleloader hunts. We prohibit buckshot.
+(ix) All permanently fixed ground blinds are for the mobility-impaired hunt only.
 
-(x) You may use flagging to mark the site of hunter entry from roads or trails and again at the stand site. You may use clothespins with reflective tape between these sites to mark the route to the stand. Hunters must label all such markers with their last name and State hunting license number.
+(x) We prohibit crossbows on the archery hunts. We only allow muzzleloading rifles using a single projectile on the muzzleloader hunts. We prohibit buckshot.
 
-(xi) We require hunters to wear an outer garment visible above the waist that contains a minimum of 500 square inches (3,226 square centimeters) of solid, florescent-orange material at all times during the muzzleloader and mobility-impaired hunts.
+(xi) You may use flagging to mark the site of hunter entry from roads or trails and again at the stand site. You may use clothespins with reflective tape between these sites to mark the route to the stand. Hunters must label all such markers with their last name and State hunting license number.
 
-(xii) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
+(xii) We require hunters to wear an outer garment visible above the waist that contains a minimum of 500 square inches (3,226 square centimeters) of solid, florescent-orange material at all times during the muzzleloader and mobility-impaired hunts for deer.
+
+(xiii) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
+
+(xiv) We prohibit accessing hunt units by watercraft.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
@@ -304,4 +308,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54139, Aug. 31, 2020]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54139, Aug. 31, 2020; 86 FR 48875, Aug. 31, 2021]

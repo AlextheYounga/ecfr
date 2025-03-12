@@ -317,14 +317,12 @@ Link to an amendment published at 86 FR 44273, Aug. 12, 2021.
 |(48) N,N-diethyl-2-(2-(4 isopropoxybenzyl)-5-nitro-1H-benzimidazol-1-yl)ethan-1-amine, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other names: isotonitazene; N,N-diethyl-2-[[4-(1-methylethoxy)phenyl]methyl]-5-nitro-1H-benzimidazole-1-ethanamine)|9614|
 |     (49) 1-(1-(1-(4-bromophenyl)ethyl)piperidin-4-yl)-1,3-dihydro-2H-benzo[d]imidazol-2-one, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other names: brorphine; 1-[1-[1-(4-bromophenyl)ethyl]-4-piperidinyl]-1,3-dihydro-2H-benzimidazol-2-one)     |9098|
 
-[39 FR 22141, June 20, 1974]Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Notes:1. At 83 FR 44478, Aug. 31, 2018, § 1308.11 was amended by adding paragraph (h)(36) effective Aug. 31, 2018, through Aug. 31, 2020. At 85 FR 52915, Aug. 27, 2020, the effective period was extended to Aug. 31, 2021.
+[39 FR 22141, June 20, 1974]Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Notes:1. At 84 FR 15511, Apr. 16, 2019, § 1308.11 was amended by adding paragraphs (h)(37) through (h)(41) effective Apr. 16, 2019, through Apr. 16, 2021. At 86 FR 16669, Mar. 31, 2021, the effective period was extended to Apr. 16, 2022.
 
-2. At 84 FR 15511, Apr. 16, 2019, § 1308.11 was amended by adding paragraphs (h)(37) through (h)(41) effective Apr. 16, 2019, through Apr. 16, 2021. At 86 FR 16669, Mar. 31, 2021, the effective period was extended to Apr. 16, 2022.
+2. At 84 FR 34297, July 17, 2019, § 1308.11 was amended by adding paragraphs (h)(42) through (h)(47) effective July 18, 2019, through July 18, 2021. At 86 FR 37672, July 16, 2021, the effective period was extended to July 18, 2022.
 
-3. At 84 FR 34297, July 17, 2019, § 1308.11 was amended by adding paragraphs (h)(42) through (h)(47) effective July 18, 2019, through July 18, 2021. At 86 FR 37672, July 16, 2021, the effective period was extended to July 18, 2022.
+3.At 83 FR 5191, Feb. 6, 2018, § 1308.11 was amended by adding paragraph (h)(30), effective Feb. 6, 2018, through Feb. 6, 2020. Effective Feb. 6, 2020, Congress extended the effective period for paragraph (h)(30) until May 6, 2021, by Public Law 116-114. Effective May 4, 2021, Congress extended the effective period for paragraph (h)(30) until October 22, 2021, by Public Law 117-12.
 
-4.At 83 FR 5191, Feb. 6, 2018, § 1308.11 was amended by adding paragraph (h)(30), effective Feb. 6, 2018, through Feb. 6, 2020. Effective Feb. 6, 2020, Congress extended the effective period for paragraph (h)(30) until May 6, 2021, by Public Law 116-114. Effective May 4, 2021, Congress extended the effective period for paragraph (h)(30) until October 22, 2021, by Public Law 117-12.
-
-5. At 85 51346, Aug. 20, 2020, § 1308.11 was amended by adding paragraph (h)(48), effective Aug. 20, 2020, through Aug. 20, 2022.
+4. At 85 51346, Aug. 20, 2020, § 1308.11 was amended by adding paragraph (h)(48), effective Aug. 20, 2020, through Aug. 20, 2022.
 
 6. At 86 FR 11866, Mar. 1, 2021, § 1308.11 was amended by adding paragraph (h)(49), effective Mar. 1, 2021 through Mar. 1, 2023.

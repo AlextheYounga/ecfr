@@ -54,7 +54,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) You may use and leave fish houses on the ice overnight until March 15.
 
-(d) *Arrowwood Wetland Management District* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(d) *Arrowwood Wetland Management District*—(1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
 (2) *Upland game hunting.* We allow upland game hunting on designated areas of the district.
 
@@ -72,15 +72,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3) *Big game hunting.* We allow hunting of white-tailed and mule deer on designated areas of the refuge subject to the following conditions:
 
-(i) We close the refuge to hunting during the State's special youth deer hunting season.
+(i) Hunters may use designated refuge roads to retrieve downed deer.
 
-(ii) Hunters may use designated refuge roads to retrieve downed deer.
-
-(iii) We allow only portable tree stands. You must remove all tree stands at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(ii) We allow only portable tree stands. You must remove all tree stands at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
 (4) *Sport fishing.* We allow ice fishing on designated areas of the refuge.
 
-(f) *Audubon Wetland Management District* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(f) *Audubon Wetland Management District*—(1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
 (2) *Upland game hunting.* We allow upland game hunting on designated areas of the district.
 
@@ -128,7 +126,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: Access is controlled by the individual landowner.
 
-(k) *Canefield Lake National Wildlife Refuge.* (1) [Reserved]
+(k) *Canfield Lake National Wildlife Refuge.* (1) [Reserved]
 
 (2) *Upland game hunting.* We allow hunting of all State-defined species subject to the following condition: Access is controlled by the individual landowner.
 
@@ -146,7 +144,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(m) *Chase Lake Wetland Management District* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following conditions: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(m) *Chase Lake Wetland Management District*—(1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following conditions: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
 (2) *Upland game hunting.* We allow upland game hunting on designated areas of the district.
 
@@ -162,7 +160,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: Access is controlled by the individual landowner.
 
-(o) *Crosby Wetland Management District* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(o) *Crosby Wetland Management District*—(1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
 (2) *Upland game hunting.* We allow upland game hunting on designated areas of the district.
 
@@ -204,7 +202,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(r) *Devils Lake Wetland Management District* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(r) *Devils Lake Wetland Management District*—(1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
 (2) *Upland game hunting.* We allow upland game hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
@@ -256,7 +254,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit boats during the regular North Dakota waterfowl season.
 
-(w) *J. Clark Salyer National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following condition: We allow the use of dogs for hunting and retrieving game birds.
+(w) *J. Clark Salyer National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following condition: We allow the use of dogs for hunting and retrieving game birds.
 
 (2) *Upland game hunting.* We allow hunting of ruffed and sharp-tailed grouse, Hungarian partridge, turkey, ring-necked pheasant, and fox on designated areas of the refuge subject to the following conditions:
 
@@ -278,7 +276,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow ice fishing and dark house spearfishing. We allow snowmobiles, all-terrain vehicles (ATVs), utility terrain vehicles (UTVs), motor vehicles, and fish houses on the ice as conditions allow.
 
-(x) *J. Clark Salyer Wetland Management District* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(x) *J. Clark Salyer Wetland Management District*—(1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
 (2) *Upland game hunting.* We allow upland game hunting on designated areas of the district.
 
@@ -298,7 +296,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit boats during the regular North Dakota waterfowl season.
 
-(z) *Kulm Wetland Management District* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(z) *Kulm Wetland Management District*—(1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
 (2) *Upland game hunting.* We allow upland game hunting on designated areas of the district.
 
@@ -306,7 +304,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the district subject to the following condition: You must remove boats, motor vehicles, fishing equipment, and other personal property (excluding ice houses) by the end of each day's fishing activity (see §§ 27.93 and 27.94 of this chapter).
 
-(aa) *Lake Alice National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the refuge subject to the following conditions:
+(aa) *Lake Alice National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the refuge subject to the following conditions:
 
 (i) We allow motorized boats only during the migratory game bird hunting season; however, motors must not exceed 10 horsepower.
 
@@ -438,7 +436,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: We only allow fishing from legal sunrise to legal sunset.
 
-(ll) *Long Lake Wetland Management District* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(ll) *Long Lake Wetland Management District*—(1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
 (2) *Upland game hunting.* We allow upland game hunting on designated areas of the district.
 
@@ -478,7 +476,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(pp) *Lostwood Wetland Management District* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(pp) *Lostwood Wetland Management District*—(1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
 (2) *Upland game hunting.* We allow upland game hunting on designated areas of the district.
 
@@ -676,7 +674,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(iii) *Tewaukon Wetland Management District* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(iii) *Tewaukon Wetland Management District*—(1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
 (2) *Upland game hunting.* We allow upland game hunting on designated areas of the district.
 
@@ -776,4 +774,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit boats during the regular North Dakota waterfowl season.
 
-[85 FR 54130, Aug. 31, 2020]
+[85 FR 54130, Aug. 31, 2020, as amended at 86 FR 48874, Aug. 31, 2021]

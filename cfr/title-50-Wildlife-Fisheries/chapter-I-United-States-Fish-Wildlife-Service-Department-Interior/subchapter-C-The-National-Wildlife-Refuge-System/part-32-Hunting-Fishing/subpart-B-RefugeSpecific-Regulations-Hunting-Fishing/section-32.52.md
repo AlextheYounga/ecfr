@@ -2,7 +2,7 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Alligator River National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, tundra swan, coot, mourning dove, snipe and woodcock on designated areas of the refuge subject to the following conditions:
+(a) *Alligator River National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, tundra swan, coot, mourning dove, snipe and woodcock on designated areas of the refuge subject to the following conditions:
 
 (i) We require all hunters to possess and carry a signed, self-service refuge hunting regulations and permit (signed brochure) while hunting on the refuge.
 
@@ -34,7 +34,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) You must only take frogs by use of frog gigs.
 
-(b) *Cedar Island National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of tundra swan, Canada and snow goose, brant, duck, teal, and coot on designated areas of the refuge subject to the following conditions:
+(b) *Cedar Island National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of tundra swan, Canada and snow goose, brant, duck, teal, and coot on designated areas of the refuge subject to the following conditions:
 
 (i) We allow portable blinds. Hunters must remove blinds, decoys, and other personal property from the refuge at the end of each day's hunt (see § 27.93 of this chapter).
 
@@ -44,7 +44,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2)-(4) [Reserved]
 
-(c) *Currituck National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of swan, goose, duck, and coot on designated areas of the refuge subject to the following conditions:
+(c) *Currituck National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of swan, goose, duck, and coot on designated areas of the refuge subject to the following conditions:
 
 (i) We require a North Carolina Waterfowl Hunt Permit or a refuge hunt permit (signed brochure). You must carry a permit while hunting on the refuge.
 
@@ -72,13 +72,25 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(d) *Great Dismal Swamp National Wildlife Refuge.* Refer to § 32.65(e) for regulations.
+(d) *Great Dismal Swamp National Wildlife Refuge.* Refer to § 32.65(g) for regulations.
 
-(e) *Mackay Island National Wildlife Refuge.* (1)-(2) [Reserved]
+(e) *Mackay Island National Wildlife Refuge.* (1)—*Migratory game bird hunting.* We allow hunting of swan, light and dark goose, duck, merganser, coot, moorhen, and gallinule on designated areas of the refuge subject to the following conditions:
 
-(3) *Big game hunting.* We allow hunting of deer on designated areas of the refuge subject to the following conditions:
+(i) We require a North Carolina Waterfowl Hunt Permit or a signed refuge hunt brochure that must be carried while hunting on the refuge.
 
-(i) We require a refuge deer hunting permit (signed brochure) that hunters must sign and carry while hunting on the refuge.
+(ii) Hunters must hunt from their assigned blind location.
+
+(iii) We allow hunting from1/2 hour before legal sunrise to 4:20 p.m. (as governed by County regulations).
+
+(iv) We allow hunters to access the refuge 11/2 hours before legal shooting time until 5:20 p.m.
+
+(v) We allow incidental take of coyote and feral hog while hunting.
+
+(2) [Reserved]
+
+(3) *Big game hunting.* We allow hunting of deer, and incidental take of feral hog, on designated areas of the refuge subject to the following conditions:
+
+(i) We require a signed refuge hunt brochure that hunters must sign and carry while hunting on the refuge.
 
 (ii) We allow the use of shotguns, muzzleloading rifles/shotguns, pistols, crossbows, and bows. We prohibit the use of all other rifles.
 
@@ -86,13 +98,15 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We prohibit carrying a loaded firearm on or within 50 feet (15 meters) of gravel roads.
 
+(v) The condition set forth at paragraph (e)(1)(v) of this section applies.
+
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
 (i) We allow fishing only from legal sunrise to legal sunset from March 15 through October 15, except that we allow fishing along the Marsh Causeway year-round. The 0.3 Mile Loop Trail and the terminus of the canal immediately adjacent to the Visitor Center are open year-round, but we close them during the refuge permit deer hunts.
 
 (ii) Anglers must attend all fishing lines.
 
-(f) *Mattamuskeet National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow the hunting of tundra swan, goose, duck, and coot on designated areas of the refuge subject to the following conditions:
+(f) *Mattamuskeet National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow the hunting of tundra swan, goose, duck, and coot on designated areas of the refuge subject to the following conditions:
 
 (i) We require refuge-issued permits (name and address) that you must validate at the refuge headquarters, sign, and possess while hunting.
 
@@ -172,7 +186,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing and crabbing on designated areas of the refuge subject to the following condition: We require all recreational nighttime surf anglers to possess and carry a signed, self-service refuge nighttime surf fishing permit (signed brochure) while fishing on the refuge between1/2 hour after legal sunset and1/2 hour before legal sunrise.
 
-(h) *Pee Dee National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of dove on designated dates and areas of the refuge subject to the following conditions:
+(h) *Pee Dee National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of dove on designated dates and areas of the refuge subject to the following conditions:
 
 (i) We require all hunters to possess and carry a signed refuge general hunt permit (signed brochure) and government-issued picture identification while in the field.
 
@@ -190,7 +204,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The conditions set forth at paragraphs (h)(1)(i) through (iii) of this section apply (with the following exception to the condition at paragraph (h)(1)(ii): Each adult may supervise no more than one youth hunter).
 
-(ii) We require each person participating in a muzzleloader or firearms quota hunt to possess a nontransferable refuge quota hunt permit. You may apply for quota hunt permits by submitting a completed hunt application (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) available at the refuge office.
+(ii) We require each person participating in a muzzleloader or firearms quota hunt to possess a nontransferable refuge quota hunt permit. You may apply for quota hunt permits by submitting a completed hunt application (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System) available at the refuge office.
 
 (iii) During big game hunts, we prohibit hunters from entering the refuge earlier than 4 a.m., and they must leave the refuge no later than 2 hours after legal sunset.
 
@@ -214,7 +228,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit possession or use of trotlines, set hooks, gigs, jug lines, limblines, snagging devices, nets, seines, fish traps, or other special devices.
 
-(i) *Pocosin Lakes National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, swan, dove, woodcock, rail, and snipe on designated areas of the refuge subject to the following conditions:
+(i) *Pocosin Lakes National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, swan, dove, woodcock, rail, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We require consent from refuge personnel to enter and retrieve legally taken game animals from closed areas, including “No Hunting Zones.”
 
@@ -268,7 +282,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow fishing only from1/2 hour before legal sunrise until1/2 hour after legal sunset.
 
-(j) *Roanoke River National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck and coot on designated areas of the refuge.
+(j) *Roanoke River National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck and coot on designated areas of the refuge.
 
 (2) *Upland game hunting.* We allow hunting of squirrel, raccoon, and opossum on designated areas of the refuge.
 
@@ -276,7 +290,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(k) *Swanquarter National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow the hunting of tundra swan, goose, brant, duck, teal, and coot on designated areas of the refuge subject to the following conditions:
+(k) *Swanquarter National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow the hunting of tundra swan, goose, brant, duck, teal, and coot on designated areas of the refuge subject to the following conditions:
 
 (i) We allow portable blinds. You must remove blinds, decoys, and other personal property at the end of each day's hunt (see § 27.93 of this chapter).
 
@@ -286,4 +300,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2)-(4) [Reserved]
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54129, Aug. 31, 2020]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54129, Aug. 31, 2020; 86 FR 48873, Aug. 31, 2021]

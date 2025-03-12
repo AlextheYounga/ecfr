@@ -48,7 +48,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(c) *Ouray National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, coot, and goose on designated areas of the refuge subject to the following condition: During hunting season, the refuge is open from 11/2 hours before legal sunrise to 11/2 hours after legal sunset.
+(c) *Ouray National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, coot, sandhill crane, and goose on designated areas of the refuge subject to the following condition: During hunting season, the refuge is open from 11/2 hours before legal sunrise to 11/2 hours after legal sunset.
 
 (2) *Upland game hunting.* We allow hunting of pheasant and turkey on designated areas of the refuge subject to the following conditions:
 
@@ -56,7 +56,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow turkey hunting for youth hunters only.
 
-(3) *Big game hunting.* We allow hunting of deer and elk on designated areas of the refuge subject to the following conditions:
+(3) *Big game hunting.* We allow hunting of deer, pronghorn, and elk on designated areas of the refuge subject to the following conditions:
 
 (i) You must remove all tree stands and blinds no later than the last day of the hunting season for which you have a permit (see § 27.93 of this chapter).
 
@@ -72,4 +72,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) You must release unharmed any of the following four endangered fish if caught: Razorback sucker, Colorado pikeminnow, humpback chub, and bonytailed chub.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54141, Aug. 31, 2020]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54141, Aug. 31, 2020; 86 FR 48878, Aug. 31, 2021]

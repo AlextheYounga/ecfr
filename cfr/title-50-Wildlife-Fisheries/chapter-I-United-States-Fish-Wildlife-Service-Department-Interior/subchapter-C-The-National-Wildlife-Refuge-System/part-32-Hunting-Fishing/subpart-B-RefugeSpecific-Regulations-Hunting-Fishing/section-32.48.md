@@ -2,7 +2,7 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Great Bay National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of waterfowl on designated areas of the refuge subject to the following conditions:
+(a) *Great Bay National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of waterfowl on designated areas of the refuge subject to the following conditions:
 
 (i) You must access waterfowl hunting areas by boat launched from off-refuge sites only. We prohibit overland access through the refuge.
 
@@ -16,7 +16,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow hunting for deer during a 2-day hunt during the first weekend of the State's firearms season subject to the following conditions:
 
-(A) We require hunters to have a lottery-issued refuge firearms deer hunt permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) and to possess it at all times while scouting and hunting on the refuge.
+(A) We require hunters to have a lottery-issued refuge firearms deer hunt permit (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System) and to possess it at all times while scouting and hunting on the refuge.
 
 (B) We allow scouting during the week prior to the first day of the firearms deer hunt.
 
@@ -28,7 +28,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We allow archery deer and archery turkey hunting during the fall season subject to the following conditions:
 
-(A) We require hunters to have a lottery-issued refuge hunt permit (Big/Upland Game Hunt Application, FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) and to possess it at all times while scouting and hunting on the refuge.
+(A) We require hunters to have a lottery-issued refuge hunt permit (Big/Upland Game Hunt Application, FWS Form 3-2439, Hunt Application—National Wildlife Refuge System) and to possess it at all times while scouting and hunting on the refuge.
 
 (B) We allow scouting during the week prior to the season opening.
 
@@ -38,15 +38,25 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(b) *Silvio O. Conte National Fish and Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, common snipe, and American woodcock on designated areas of the refuge subject to the following condition: We allow the use of dogs consistent with State regulations.
+(b) *Silvio O. Conte National Fish and Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, common snipe, and American woodcock on designated areas of the refuge subject to the following condition: We allow the use of dogs consistent with State regulations, except hunters using more than two dogs must possess a Special Use Permit (FWS Form 3-1383-G) issued by the refuge manager.
 
-(2) *Upland game hunting.* We allow hunting of coyote, fox, raccoon, woodchuck, red squirrel, eastern gray squirrel, porcupine, skunk, crow, snowshoe hare, ring-necked pheasant, and ruffed grouse on designated areas of the refuge subject to the following condition: We allow the use of dogs consistent with State regulations.
+(2) *Upland game hunting.* We allow hunting of coyote, fox, raccoon, woodchuck, red squirrel, eastern gray squirrel, porcupine, skunk, crow, snowshoe hare, muskrat, opossum, fisher, mink, weasel, ring-necked pheasant, and ruffed grouse on designated areas of the refuge subject to the following conditions:
 
-(3) *Big game hunting.* We allow hunting of white-tailed deer, moose, black bear, and wild turkey on designated areas of the refuge subject to the following condition: We allow tree stands and blinds that are clearly marked with the owner's State hunting license number.
+(i) We allow the use of dogs consistent with State regulations, except hunters using more than two dogs must possess a Special Use Permit (FWS Form 3-1383-G) issued by the refuge manager.
 
-(4) [Reserved]
+(ii) We allow the training of dogs as governed by State regulations during daylight hours beginning August 1, if the trainer possesses a Special Use Permit (FWS Form 3-1383-G) issued by the refuge manager.
 
-(c) *Umbagog National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, snipe, coot, crow, and woodcock on designated areas of the refuge subject to the following condition: We allow the use of dogs consistent with State regulations.
+(3) *Big game hunting.* We allow hunting of white-tailed deer, moose, black bear, and wild turkey on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (b)(2)(i) and (ii) of this section apply.
+
+(ii) We allow tree stands and blinds that are clearly marked with the owner's State hunting license number.
+
+(iii) You must remove your tree stand(s) and blind(s) no later than 72 hours after the close of the season (see § 27.93 of this chapter).
+
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
+
+(c) *Umbagog National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, snipe, coot, crow, and woodcock on designated areas of the refuge subject to the following condition: We allow the use of dogs consistent with State regulations.
 
 (2) *Upland game hunting.* We allow hunting of fox, raccoon, woodchuck, squirrel, porcupine, skunk, snowshoe hare, ring-necked pheasant, and ruffed grouse on designated areas of the refuge subject to the following conditions:
 
@@ -64,4 +74,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54126, Aug. 31, 2020]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54126, Aug. 31, 2020; 86 FR 48871, Aug. 31, 2021]

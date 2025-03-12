@@ -1,12 +1,10 @@
 ##### § 1024.41 Loss mitigation procedures. #####
 
-Link to an amendment published at 86 FR 34899, June 30, 2021.
-
 (a) *Enforcement and limitations.* A borrower may enforce the provisions of this section pursuant to section 6(f) of RESPA (12 U.S.C. 2605(f)). Nothing in § 1024.41 imposes a duty on a servicer to provide any borrower with any specific loss mitigation option. Nothing in § 1024.41 should be construed to create a right for a borrower to enforce the terms of any agreement between a servicer and the owner or assignee of a mortgage loan, including with respect to the evaluation for, or offer of, any loss mitigation option or to eliminate any such right that may exist pursuant to applicable law.
 
-(b) *Receipt of a loss mitigation application* - (1) *Complete loss mitigation application.* A complete loss mitigation application means an application in connection with which a servicer has received all the information that the servicer requires from a borrower in evaluating applications for the loss mitigation options available to the borrower. A servicer shall exercise reasonable diligence in obtaining documents and information to complete a loss mitigation application.
+(b) *Receipt of a loss mitigation application*—(1) *Complete loss mitigation application.* A complete loss mitigation application means an application in connection with which a servicer has received all the information that the servicer requires from a borrower in evaluating applications for the loss mitigation options available to the borrower. A servicer shall exercise reasonable diligence in obtaining documents and information to complete a loss mitigation application.
 
-(2) *Review of loss mitigation application submission* - (i) *Requirements.* If a servicer receives a loss mitigation application 45 days or more before a foreclosure sale, a servicer shall:
+(2) *Review of loss mitigation application submission*—(i) *Requirements.* If a servicer receives a loss mitigation application 45 days or more before a foreclosure sale, a servicer shall:
 
 (A) Promptly upon receipt of a loss mitigation application, review the loss mitigation application to determine if the loss mitigation application is complete; and
 
@@ -16,13 +14,13 @@ Link to an amendment published at 86 FR 34899, June 30, 2021.
 
 (3) *Determining protections.* To the extent a determination of whether protections under this section apply to a borrower is made on the basis of the number of days between when a complete loss mitigation application is received and when a foreclosure sale occurs, such determination shall be made as of the date a complete loss mitigation application is received.
 
-(c) *Evaluation of loss mitigation applications* - (1) *Complete loss mitigation application.* Except as provided in paragraph (c)(4)(ii) of this section, if a servicer receives a complete loss mitigation application more than 37 days before a foreclosure sale, then, within 30 days of receiving the complete loss mitigation application, a servicer shall:
+(c) *Evaluation of loss mitigation applications*—(1) *Complete loss mitigation application.* Except as provided in paragraph (c)(4)(ii) of this section, if a servicer receives a complete loss mitigation application more than 37 days before a foreclosure sale, then, within 30 days of receiving the complete loss mitigation application, a servicer shall:
 
 (i) Evaluate the borrower for all loss mitigation options available to the borrower; and
 
 (ii) Provide the borrower with a notice in writing stating the servicer's determination of which loss mitigation options, if any, it will offer to the borrower on behalf of the owner or assignee of the mortgage. The servicer shall include in this notice the amount of time the borrower has to accept or reject an offer of a loss mitigation program as provided for in paragraph (e) of this section, if applicable, and a notification, if applicable, that the borrower has the right to appeal the denial of any loan modification option as well as the amount of time the borrower has to file such an appeal and any requirements for making an appeal, as provided for in paragraph (h) of this section.
 
-(2) *Incomplete loss mitigation application evaluation* - (i) *In general.* Except as set forth in paragraphs (c)(2)(ii), (iii), and (v) of this section, a servicer shall not evade the requirement to evaluate a complete loss mitigation application for all loss mitigation options available to the borrower by offering a loss mitigation option based upon an evaluation of any information provided by a borrower in connection with an incomplete loss mitigation application.
+(2) *Incomplete loss mitigation application evaluation*—(i) *In general.* Except as set forth in paragraphs (c)(2)(ii), (iii), (v), and (vi) of this section, a servicer shall not evade the requirement to evaluate a complete loss mitigation application for all loss mitigation options available to the borrower by offering a loss mitigation option based upon an evaluation of any information provided by a borrower in connection with an incomplete loss mitigation application.
 
 (ii) *Reasonable time.* Notwithstanding paragraph (c)(2)(i) of this section, if a servicer has exercised reasonable diligence in obtaining documents and information to complete a loss mitigation application, but a loss mitigation application remains incomplete for a significant period of time under the circumstances without further progress by a borrower to make the loss mitigation application complete, a servicer may, in its discretion, evaluate an incomplete loss mitigation application and offer a borrower a loss mitigation option. Any such evaluation and offer is not subject to the requirements of this section and shall not constitute an evaluation of a single complete loss mitigation application for purposes of paragraph (i) of this section.
 
@@ -32,13 +30,27 @@ Link to an amendment published at 86 FR 34899, June 30, 2021.
 
 (v) *Certain COVID-19-related loss mitigation options.* (A) Notwithstanding paragraph (c)(2)(i) of this section, a servicer may offer a borrower a loss mitigation option based upon evaluation of an incomplete application, provided that all of the following criteria are met:
 
-(*1*) The loss mitigation option permits the borrower to delay paying covered amounts until the mortgage loan is refinanced, the mortgaged property is sold, the term of the mortgage loan ends, or, for a mortgage loan insured by the Federal Housing Administration, the mortgage insurance terminates. For purposes of this paragraph (c)(2)(v)(A)(*1*), “covered amounts” includes, without limitation, all principal and interest payments forborne under a payment forbearance program made available to borrowers experiencing a financial hardship due, directly or indirectly, to the COVID-19 emergency, including a payment forbearance program made pursuant to the Coronavirus Economic Stabilization Act, section 4022 (15 U.S.C. 9056); it also includes, without limitation, all other principal and interest payments that are due and unpaid by a borrower experiencing financial hardship due, directly or indirectly, to the COVID-19 emergency. For purposes of this paragraph (c)(2)(v)(A)(*1*), “COVID-19 emergency” has the same meaning as under the Coronavirus Economic Stabilization Act, section 4022(a)(1) (15 U.S.C. 9056(a)(1)). For purposes of this paragraph (c)(2)(v)(A)(*1*), “the term of the mortgage loan” means the term of the mortgage loan according to the obligation between the parties in effect when the borrower is offered the loss mitigation option.
+(*1*) The loss mitigation option permits the borrower to delay paying covered amounts until the mortgage loan is refinanced, the mortgaged property is sold, the term of the mortgage loan ends, or, for a mortgage loan insured by the Federal Housing Administration, the mortgage insurance terminates. For purposes of this paragraph (c)(2)(v)(A)(*1*), “covered amounts” includes, without limitation, all principal and interest payments forborne under a payment forbearance program made available to borrowers experiencing a COVID-19-related hardship, including a payment forbearance program made pursuant to the Coronavirus Economic Stabilization Act, section 4022 (15 U.S.C. 9056); it also includes, without limitation, all other principal and interest payments that are due and unpaid by a borrower experiencing a COVID-19-related hardship. For purposes of this paragraph (c)(2)(v)(A)(*1*), “the term of the mortgage loan” means the term of the mortgage loan according to the obligation between the parties in effect when the borrower is offered the loss mitigation option.
 
 (*2*) Any amounts that the borrower may delay paying as described in paragraph (c)(2)(v)(A)(*1*) of this section do not accrue interest; the servicer does not charge any fee in connection with the loss mitigation option; and the servicer waives all existing late charges, penalties, stop payment fees, or similar charges promptly upon the borrower's acceptance of the loss mitigation option.
 
 (*3*) The borrower's acceptance of an offer made pursuant to paragraph (c)(2)(v)(A) of this section ends any pre-existing delinquency on the mortgage loan.
 
 (B) Once the borrower accepts an offer made pursuant to paragraph (c)(2)(v)(A) of this section, the servicer is not required to comply with paragraph (b)(1) or (2) of this section with regard to any loss mitigation application the borrower submitted prior to the servicer's offer of the loss mitigation option described in paragraph (c)(2)(v)(A) of this section.
+
+(vi) *Certain COVID-19-related loan modification options.* (A) Notwithstanding paragraph (c)(2)(i) of this section, a servicer may offer a borrower a loan modification based upon evaluation of an incomplete application, provided that all of the following criteria are met:
+
+(*1*) The loan modification extends the term of the loan by no more than 480 months from the date the loan modification is effective and, for the entire modified term, does not cause the borrower's monthly required principal and interest payment to increase beyond the monthly principal and interest payment required prior to the loan modification.
+
+(*2*) If the loan modification permits the borrower to delay paying certain amounts until the mortgage loan is refinanced, the mortgaged property is sold, the loan modification matures, or, for a mortgage loan insured by the Federal Housing Administration, the mortgage insurance terminates, those amounts do not accrue interest.
+
+(*3*) The loan modification is made available to borrowers experiencing a COVID-19-related hardship.
+
+(*4*) Either the borrower's acceptance of an offer pursuant to this paragraph (c)(2)(vi)(A) ends any preexisting delinquency on the mortgage loan or the loan modification offered pursuant to this paragraph (c)(2)(vi)(A) is designed to end any preexisting delinquency on the mortgage loan upon the borrower satisfying the servicer's requirements for completing a trial loan modification plan and accepting a permanent loan modification.
+
+(*5*) The servicer does not charge any fee in connection with the loan modification, and the servicer waives all existing late charges, penalties, stop payment fees, or similar charges that were incurred on or after March 1, 2020, promptly upon the borrower's acceptance of the loan modification.
+
+(B) Once the borrower accepts an offer made pursuant to paragraph (c)(2)(vi)(A) of this section, the servicer is not required to comply with paragraph (b)(1) or (2) of this section with regard to any loss mitigation application the borrower submitted prior to the servicer's offer of the loan modification described in paragraph (c)(2)(vi)(A) of this section. However, if the borrower fails to perform under a trial loan modification plan offered pursuant to paragraph (c)(2)(vi)(A) of this section or requests further assistance, the servicer must immediately resume reasonable diligence efforts as required under paragraph (b)(1) of this section with regard to any loss mitigation application the borrower submitted prior to the servicer's offer of the trial loan modification plan and must provide the borrower with the notice required by paragraph (b)(2)(i)(B) of this section with regard to the most recent loss mitigation application the borrower submitted prior to the servicer's offer of the loan modification described in paragraph (c)(2)(vi)(A) of this section, unless the servicer has already provided such notice to the borrower.
 
 (3) *Notice of complete application.* (i) Except as provided in paragraph (c)(3)(ii) of this section, within 5 days (excluding legal public holidays, Saturdays, and Sundays) after receiving a borrower's complete loss mitigation application, a servicer shall provide the borrower a written notice that sets forth the following information:
 
@@ -66,7 +78,7 @@ Link to an amendment published at 86 FR 34899, June 30, 2021.
 
 (C) The servicer has already provided the borrower a notice regarding the application under paragraph (c)(1)(ii) of this section.
 
-(4) *Information not in the borrower's control* - (i) *Reasonable diligence.* If a servicer requires documents or information not in the borrower's control to determine which loss mitigation options, if any, it will offer to the borrower, the servicer must exercise reasonable diligence in obtaining such documents or information.
+(4) *Information not in the borrower's control*—(i) *Reasonable diligence.* If a servicer requires documents or information not in the borrower's control to determine which loss mitigation options, if any, it will offer to the borrower, the servicer must exercise reasonable diligence in obtaining such documents or information.
 
 (ii) *Effect in case of delay.* (A)(*1*) Except as provided in paragraph (c)(4)(ii)(A)(*2*) of this section, a servicer must not deny a complete loss mitigation application solely because the servicer lacks required documents or information not in the borrower's control.
 
@@ -86,15 +98,15 @@ Link to an amendment published at 86 FR 34899, June 30, 2021.
 
 (d) *Denial of loan modification options.* If a borrower's complete loss mitigation application is denied for any trial or permanent loan modification option available to the borrower pursuant to paragraph (c) of this section, a servicer shall state in the notice sent to the borrower pursuant to paragraph (c)(1)(ii) of this section the specific reason or reasons for the servicer's determination for each such trial or permanent loan modification option and, if applicable, that the borrower was not evaluated on other criteria.
 
-(e) *Borrower response* - (1) *In general.* Subject to paragraphs (e)(2)(ii) and (iii) of this section, if a complete loss mitigation application is received 90 days or more before a foreclosure sale, a servicer may require that a borrower accept or reject an offer of a loss mitigation option no earlier than 14 days after the servicer provides the offer of a loss mitigation option to the borrower. If a complete loss mitigation application is received less than 90 days before a foreclosure sale, but more than 37 days before a foreclosure sale, a servicer may require that a borrower accept or reject an offer of a loss mitigation option no earlier than 7 days after the servicer provides the offer of a loss mitigation option to the borrower.
+(e) *Borrower response*—(1) *In general.* Subject to paragraphs (e)(2)(ii) and (iii) of this section, if a complete loss mitigation application is received 90 days or more before a foreclosure sale, a servicer may require that a borrower accept or reject an offer of a loss mitigation option no earlier than 14 days after the servicer provides the offer of a loss mitigation option to the borrower. If a complete loss mitigation application is received less than 90 days before a foreclosure sale, but more than 37 days before a foreclosure sale, a servicer may require that a borrower accept or reject an offer of a loss mitigation option no earlier than 7 days after the servicer provides the offer of a loss mitigation option to the borrower.
 
-(2) *Rejection* - (i) *In general.* Except as set forth in paragraphs (e)(2)(ii) and (iii) of this section, a servicer may deem a borrower that has not accepted an offer of a loss mitigation option within the deadline established pursuant to paragraph (e)(1) of this section to have rejected the offer of a loss mitigation option.
+(2) *Rejection*—(i) *In general.* Except as set forth in paragraphs (e)(2)(ii) and (iii) of this section, a servicer may deem a borrower that has not accepted an offer of a loss mitigation option within the deadline established pursuant to paragraph (e)(1) of this section to have rejected the offer of a loss mitigation option.
 
 (ii) *Trial Loan Modification Plan.* A borrower who does not satisfy the servicer's requirements for accepting a trial loan modification plan, but submits the payments that would be owed pursuant to any such plan within the deadline established pursuant to paragraph (e)(1) of this section, shall be provided a reasonable period of time to fulfill any remaining requirements of the servicer for acceptance of the trial loan modification plan beyond the deadline established pursuant to paragraph (e)(1) of this section.
 
 (iii) *Interaction with appeal process.* If a borrower makes an appeal pursuant to paragraph (h) of this section, the borrower's deadline for accepting a loss mitigation option offered pursuant to paragraph (c)(1)(ii) of this section shall be extended until 14 days after the servicer provides the notice required pursuant to paragraph (h)(4) of this section.
 
-(f) *Prohibition on foreclosure referral* - (1) *Pre-foreclosure review period.* A servicer shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process unless:
+(f) *Prohibition on foreclosure referral*—(1) *Pre-foreclosure review period.* A servicer shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process unless:
 
 (i) A borrower's mortgage loan obligation is more than 120 days delinquent;
 
@@ -110,6 +122,30 @@ Link to an amendment published at 86 FR 34899, June 30, 2021.
 
 (iii) The borrower fails to perform under an agreement on a loss mitigation option.
 
+(3) *Temporary Special COVID-19 Loss Mitigation Procedural Safeguards*—(i) *In general.* To give a borrower a meaningful opportunity to pursue loss mitigation options, a servicer must ensure that one of the procedural safeguards described in paragraph (f)(3)(ii) of this section has been met before making the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process because of a delinquency under paragraph (f)(1)(i) if:
+
+(A) The borrower's mortgage loan obligation became more than 120 days delinquent on or after March 1, 2020; and
+
+(B) The statute of limitations applicable to the foreclosure action being taken in the laws of the State where the property securing the mortgage loan is located expires on or after January 1, 2022.
+
+(ii) *Procedural safeguards.* A procedural safeguard is met if:
+
+(A) *Complete loss mitigation application evaluated.* The borrower submitted a complete loss mitigation application, remained delinquent at all times since submitting the application, and paragraph (f)(2) of this section permitted the servicer to make the first notice or filing required for foreclosure;
+
+(B) *Abandoned property.* The property securing the mortgage loan is abandoned according to the laws of the State or municipality where the property is located when the servicer makes the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process; or
+
+(C) *Unresponsive borrower.* The servicer did not receive any communications from the borrower for at least 90 days before the servicer makes the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process and all of the following conditions are met:
+
+(*1*) The servicer made good faith efforts to establish live contact with the borrower after each payment due date, as required by § 1024.39(a), during the 90-day period before the servicer makes the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process;
+
+(*2*) The servicer sent the written notice required by § 1024.39(b) at least 10 days and no more than 45 days before the servicer makes the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process;
+
+(*3*) The servicer sent all notices required by this section, as applicable, during the 90-day period before the servicer makes the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process; and
+
+(*4*) The borrower's forbearance program, if applicable, ended at least 30 days before the servicer makes the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process.
+
+(iii) *Sunset date.* This paragraph (f)(3) does not apply if a servicer makes the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process on or after January 1, 2022.
+
 (g) *Prohibition on foreclosure sale.* If a borrower submits a complete loss mitigation application after a servicer has made the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process but more than 37 days before a foreclosure sale, a servicer shall not move for foreclosure judgment or order of sale, or conduct a foreclosure sale, unless:
 
 (1) The servicer has sent the borrower a notice pursuant to paragraph (c)(1)(ii) of this section that the borrower is not eligible for any loss mitigation option and the appeal process in paragraph (h) of this section is not applicable, the borrower has not requested an appeal within the applicable time period for requesting an appeal, or the borrower's appeal has been denied;
@@ -118,7 +154,7 @@ Link to an amendment published at 86 FR 34899, June 30, 2021.
 
 (3) The borrower fails to perform under an agreement on a loss mitigation option.
 
-(h) *Appeal process* - (1) *Appeal process required for loan modification denials.* If a servicer receives a complete loss mitigation application 90 days or more before a foreclosure sale or during the period set forth in paragraph (f) of this section, a servicer shall permit a borrower to appeal the servicer's determination to deny a borrower's loss mitigation application for any trial or permanent loan modification program available to the borrower.
+(h) *Appeal process*—(1) *Appeal process required for loan modification denials.* If a servicer receives a complete loss mitigation application 90 days or more before a foreclosure sale or during the period set forth in paragraph (f) of this section, a servicer shall permit a borrower to appeal the servicer's determination to deny a borrower's loss mitigation application for any trial or permanent loan modification program available to the borrower.
 
 (2) *Deadlines.* A servicer shall permit a borrower to make an appeal within 14 days after the servicer provides the offer of a loss mitigation option to the borrower pursuant to paragraph (c)(1)(ii) of this section.
 
@@ -130,11 +166,11 @@ Link to an amendment published at 86 FR 34899, June 30, 2021.
 
 (j) *Small servicer requirements.* A small servicer shall be subject to the prohibition on foreclosure referral in paragraph (f)(1) of this section. A small servicer shall not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure process and shall not move for foreclosure judgment or order of sale, or conduct a foreclosure sale, if a borrower is performing pursuant to the terms of an agreement on a loss mitigation option.
 
-(k) *Servicing transfers* - (1) *In general* - (i) *Timing of compliance.* Except as provided in paragraphs (k)(2) through (4) of this section, if a transferee servicer acquires the servicing of a mortgage loan for which a loss mitigation application is pending as of the transfer date, the transferee servicer must comply with the requirements of this section for that loss mitigation application within the timeframes that were applicable to the transferor servicer based on the date the transferor servicer received the loss mitigation application. All rights and protections under paragraphs (c) through (h) of this section to which a borrower was entitled before a transfer continue to apply notwithstanding the transfer.
+(k) *Servicing transfers*—(1) *In general*—(i) *Timing of compliance.* Except as provided in paragraphs (k)(2) through (4) of this section, if a transferee servicer acquires the servicing of a mortgage loan for which a loss mitigation application is pending as of the transfer date, the transferee servicer must comply with the requirements of this section for that loss mitigation application within the timeframes that were applicable to the transferor servicer based on the date the transferor servicer received the loss mitigation application. All rights and protections under paragraphs (c) through (h) of this section to which a borrower was entitled before a transfer continue to apply notwithstanding the transfer.
 
 (ii) *Transfer date defined.* For purposes of this paragraph (k), the transfer date is the date on which the transferee servicer will begin accepting payments relating to the mortgage loan, as disclosed on the notice of transfer of loan servicing pursuant to § 1024.33(b)(4)(iv).
 
-(2) *Acknowledgment notices* - (i) *Transferee servicer timeframes.* If a transferee servicer acquires the servicing of a mortgage loan for which the period to provide the notice required by paragraph (b)(2)(i)(B) of this section has not expired as of the transfer date and the transferor servicer has not provided such notice, the transferee servicer must provide the notice within 10 days (excluding legal public holidays, Saturdays, and Sundays) of the transfer date.
+(2) *Acknowledgment notices*—(i) *Transferee servicer timeframes.* If a transferee servicer acquires the servicing of a mortgage loan for which the period to provide the notice required by paragraph (b)(2)(i)(B) of this section has not expired as of the transfer date and the transferor servicer has not provided such notice, the transferee servicer must provide the notice within 10 days (excluding legal public holidays, Saturdays, and Sundays) of the transfer date.
 
 (ii) *Prohibitions.* A transferee servicer that must provide the notice required by paragraph (b)(2)(i)(B) of this section under this paragraph (k)(2):
 
@@ -152,4 +188,4 @@ Link to an amendment published at 86 FR 34899, June 30, 2021.
 
 (5) *Pending loss mitigation offers.* A transfer does not affect a borrower's ability to accept or reject a loss mitigation option offered under paragraph (c) or (h) of this section. If a transferee servicer acquires the servicing of a mortgage loan for which the borrower's time period under paragraph (e) or (h) of this section for accepting or rejecting a loss mitigation option offered by the transferor servicer has not expired as of the transfer date, the transferee servicer must allow the borrower to accept or reject the offer during the unexpired balance of the applicable time period.
 
-[78 FR 10876, Feb. 14, 2013, as amended at 78 FR 60437, Oct. 1, 2013; 81 FR 72373, Oct. 19, 2016; 85 FR 39065, June 30, 2020]
+[78 FR 10876, Feb. 14, 2013, as amended at 78 FR 60437, Oct. 1, 2013; 81 FR 72373, Oct. 19, 2016; 85 FR 39065, June 30, 2020; 86 FR 34899, June 30, 2021]

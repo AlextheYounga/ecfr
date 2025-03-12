@@ -10,9 +10,9 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2) *Upland game hunting.* We allow hunting of quail, squirrel, rabbit, opossum, raccoon, coyote, and bobcat on designated areas of the refuge subject to the following conditions:
 
-(i) We require hunters to hunt as governed by Alabama Department of Conservation and Natural Resources' William R. Ireland, Sr. - Cahaba River Wildlife Management Area hunting permit conditions.
+(i) We require hunters to hunt as governed by Alabama Department of Conservation and Natural Resources' William R. Ireland, Sr.—Cahaba River Wildlife Management Area hunting permit conditions.
 
-(ii) We require hunters to possess and carry a current and signed Alabama Department of Conservation and Natural Resources' William R. Ireland, Sr. - Cahaba River Wildlife Management Area hunting permit when hunting on the refuge.
+(ii) We require hunters to possess and carry a current and signed Alabama Department of Conservation and Natural Resources' William R. Ireland, Sr.—Cahaba River Wildlife Management Area hunting permit when hunting on the refuge.
 
 (iii) Hunters may hunt with shotguns using only #4 shot or smaller, rifles and handguns using rim-fire ammunition only, or archery equipment that complies with State and Federal regulations.
 
@@ -32,53 +32,63 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(c) *Choctaw National Wildlife Refuge.* (1) [Reserved]
+(c) *Choctaw National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, light and dark geese, coot, and merganser on designated areas of the refuge subject to the following conditions:
 
-(2) *Upland game hunting.* We allow hunting of squirrel, rabbit, coyote, beaver, and nutria on designated areas of the refuge subject to the following conditions:
+(i) We only allow migratory game bird hunting during the Special Youth, Veteran, and Active Military Personnel Waterfowl Hunting Days determined by the State. Regular waterfowl season shooting hours, bag limits, and legal arms and ammunition apply to the special days.
+
+(ii) You must remove all decoys, blind materials, and harvested game from the refuge (see § 27.93 of this chapter) by 1 p.m. each day.
+
+(iii) Hunters may enter the refuge at 4 a.m. and must stop hunting at 12 p.m. (noon) each day.
+
+(iv) We allow the use of dogs for retrieval of migratory birds.
+
+(v) We allow the incidental take of coyote, beaver, opossum, nutria, raccoon, and feral hog during any refuge hunt with the weapons legal for that hunt, as governed by the State of Alabama.
+
+(2) *Upland game hunting.* We allow hunting of squirrel and rabbit, and incidental take of coyote, beaver, raccoon, opossum, and nutria, on designated areas of the refuge subject to the following conditions:
 
 (i) We prohibit leaving unattended personal property, including, but not limited to, boats or vehicles of any type, geocaches, lumber, and cameras, overnight on the refuge (see § 27.93 of this chapter).
 
-(ii) You may only take incidental species (coyote, beaver, nutria, and feral hog) during any other refuge hunt with those weapons legal during those hunts as governed by the State of Alabama.
+(ii) All persons age 15 or younger, while hunting on the refuge, must be in the presence and under direct supervision of a licensed or exempt hunter age 21 or older. A licensed hunter supervising a youth must hold a valid State license for the species being hunted. One adult may supervise no more than two youth hunters.
 
-(iii) You must possess and carry a signed refuge hunt permit (signed brochure) when hunting.
+(iii) We allow the use of dogs when hunting squirrel and rabbit.
 
-(iv) All persons age 15 or younger, while hunting on the refuge, must be in the presence and under direct supervision of a licensed or exempt hunter age 21 or older. A licensed hunter supervising a youth must hold a valid State license for the species being hunted. One adult may supervise no more than two youth hunters.
+(iv) Hunters may only hunt during designated days and times.
 
-(v) We require all hunters to record hours hunted and all harvested game on the Visitor Check-In Permit and Report (FWS Form 3-2405) at the conclusion of each day at one of the refuge check stations.
+(v) The condition set forth at paragraph (c)(1)(v) of this section applies.
 
-(vi) We allow the use of dogs when hunting squirrel and rabbit.
+(3) *Big game hunting.* We allow hunting of white-tailed deer and incidental take of feral hog subject to the following conditions:
 
-(vii) Hunters may only hunt during designated days and times.
+(i) The conditions set forth at paragraphs (c)(1)(v), and (c)(2)(i) and (ii) of this section apply.
 
-(viii) For hunting, you may use only approved nontoxic shot (see § 32.2(k)), .22 caliber rimfire or smaller rifles, or legal archery equipment as governed by State regulations.
-
-(3) *Big game hunting.* We allow archery hunting of white-tailed deer and incidental take of feral hog subject to the following conditions:
-
-(i) The conditions set forth at paragraphs (c)(2)(ii), (iii), (iv), and (viii) of this section apply.
-
-(ii) Deer hunters may place one portable stand or blind on the refuge for use while deer hunting, but only during the open deer season. The stand must be clearly labeled with the hunter's State hunting license number. You may leave the stand or blind on the refuge overnight during the deer season in a non-hunting position at ground level.
+(ii) Deer hunters may place one portable stand or blind on the refuge for use while deer hunting, but only during the open deer season. The stand must be clearly labeled with the hunter's State hunting license number. You may leave the stand or blind on the refuge overnight during the deer season.
 
 (iii) While climbing a tree, installing a tree stand that uses climbing aids, or hunting from a tree stand on the refuge, hunters must use a fall-arrest system (full body harness) that is manufactured to the Tree Stand Manufacturers Association's standards.
+
+(iv) Deer hunts are archery only except during the State Special Opportunity Areas (SOA) hunt.
+
+(v) The State SOA hunt will occur 4 days per year on the refuge as specified by State SOA regulations.
+
+(vi) Hunters must be selected for and possess a State limited quota permit in order to participate in the State SOA hunt on the refuge.
+
+(vii) We allow the use of muzzleloaders only during the State SOA hunt.
 
 (4) *Sport fishing.* We allow fishing in designated areas of the refuge subject to the following conditions:
 
 (i) We allow fishing year-round, except in the waterfowl sanctuary area as depicted within the refuge brochure. The waterfowl sanctuary is closed to fishing from November 15 through March 1.
 
-(ii) The condition set forth at paragraph (c)(2)(iii) of this section applies.
+(ii) We allow a rod and reel and pole and line. We prohibit all other methods of fishing, including bow fishing.
 
-(iii) We allow a rod and reel and pole and line. We prohibit all other methods of fishing, including bow fishing.
+(iii) We prohibit the taking of frogs, turtles, and crawfish (see § 27.21 of this chapter).
 
-(iv) We prohibit the taking of frogs, turtles, and crawfish (see § 27.21 of this chapter).
+(iv) We prohibit fishing tournaments on all refuge waters.
 
-(v) We prohibit fishing tournaments on all refuge waters.
-
-(d) *Eufaula National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning dove and Eurasian-collared dove, duck, and goose on designated areas of the refuge subject to the following conditions:
+(d) *Eufaula National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of mourning dove and Eurasian-collared dove, duck, and goose on designated areas of the refuge subject to the following conditions:
 
 (i) You must possess and carry a signed refuge hunt permit (signed brochure) when hunting.
 
 (ii) All youth hunters (ages 10 through 15) must remain within sight and normal voice contact of a properly licensed hunting adult age 21 or older. Youth hunters must possess and carry verification of passing a State-approved hunter education course. One adult may supervise no more than two youth hunters.
 
-(iii) All waterfowl hunting opportunities are spaced-blind and assigned by lottery. Hunters wishing to participate in our waterfowl hunt must submit a Waterfowl Lottery Application (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
+(iii) All waterfowl hunting opportunities are spaced-blind and assigned by lottery. Hunters wishing to participate in our waterfowl hunt must submit a Waterfowl Lottery Application (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System).
 
 (iv) Hunters must remove all stands/blinds and other personal property at the end of each day's hunt (see § 27.93 of this chapter).
 
@@ -98,7 +108,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The conditions set forth at paragraphs (d)(1)(i) and (v) through (vii) of this section apply.
 
-(ii) We allow youth gun hunting opportunities that are spaced-blind and assigned by lottery. Hunters wishing to participate in our youth gun hunt must submit a Big/Upland Game Hunt Application (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
+(ii) We allow youth gun hunting opportunities that are spaced-blind and assigned by lottery. Hunters wishing to participate in our youth gun hunt must submit a Big/Upland Game Hunt Application (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System).
 
 (iii) All youth hunters must remain within sight and normal voice contact of a properly hunting-licensed adult age 21 or older. Youth hunters must possess and carry verification of passing a State-approved hunter education course. One adult may supervise no more than one youth hunter.
 
@@ -116,7 +126,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (e) *Grand Bay National Wildlife Refuge.* Refer to § 32.43(d) for regulations.
 
-(f) *Key Cave National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning and white-winged dove, crow, woodcock, and snipe on designated areas of the refuge subject to the following conditions:
+(f) *Key Cave National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of mourning and white-winged dove, crow, woodcock, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We require hunters to possess and carry a current and signed Key Cave National Wildlife Refuge permit, which is included with the Alabama Department of Conservation and Natural Resources' Seven Mile Island Wildlife Management Area hunting permit, when hunting on the refuge.
 
@@ -148,7 +158,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(g) *Mountain Longleaf National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of woodcock on designated areas of the refuge subject to the following conditions:
+(g) *Mountain Longleaf National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of woodcock on designated areas of the refuge subject to the following conditions:
 
 (i) We require hunters to hunt as governed by Alabama Department of Conservation and Natural Resources' Choccolocco Wildlife Management Area hunting permit conditions.
 
@@ -217,3 +227,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (iv) You may only hunt feral hog during the refuge archery and flintlock deer season.
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following condition: We open all refuge waters to fishing year-round unless otherwise posted.
+
+[58 FR 5064, Jan. 19, 1993, as amended at 86 FR 48849, Aug. 31, 2021]

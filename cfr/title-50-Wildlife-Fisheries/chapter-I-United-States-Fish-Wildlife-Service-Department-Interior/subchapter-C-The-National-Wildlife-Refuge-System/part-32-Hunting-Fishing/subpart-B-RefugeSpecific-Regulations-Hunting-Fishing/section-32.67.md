@@ -2,7 +2,7 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Canaan Valley National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, rail, coot, gallinule, mourning dove, snipe, and woodcock on designated areas of the refuge subject to the following conditions:
+(a) *Canaan Valley National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, rail, coot, gallinule, mourning dove, snipe, and woodcock on designated areas of the refuge subject to the following conditions:
 
 (i) We require each hunter to possess and carry a signed refuge hunting brochure (signed brochure).
 
@@ -34,7 +34,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: We prohibit the use of lead fishing tackle on designated areas of the refuge.
 
-(b) *Ohio River Islands National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
+(b) *Ohio River Islands National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
 
 (i) We require each hunter to possess and carry a signed refuge hunting brochure (signed brochure).
 
@@ -42,13 +42,17 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We allow the use of dogs consistent with State regulations.
 
-(2) *Upland game hunting.* We allow hunting of upland game on designated areas of the refuge subject to the following condition: The conditions set forth at paragraphs (b)(1)(i), (ii), and (iii) of this section apply.
+(2) *Upland game hunting.* We allow hunting of squirrel, Eastern cottontail rabbit, red and gray fox, coyote, bobcat, opossum, raccoon, skunk, woodchuck, weasel, ruffed grouse, quail, pheasant, and crow on designated areas of the refuge subject to the following condition: The conditions set forth at paragraphs (b)(1)(i) through (iii) of this section apply.
 
-(3) *Big game hunting.* We allow hunting of big game on designated areas of the refuge subject to the following conditions:
+(3) *Big game hunting.* We allow hunting of white-tailed deer, wild turkey, and black bear on designated areas of the refuge subject to the following conditions:
 
 (i) The conditions set forth at paragraphs (b)(1)(i) and (ii) of this section apply.
 
-(ii) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
+(ii) We only allow the use of archery equipment.
+
+(iii) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
+
+(iv) You must label portable tree stands with your last name and State license number. You may erect your stand(s) on the first day of the hunting season. You must remove your stand(s) by the last day of the hunting season (see § 27.93 of this chapter).
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
@@ -56,4 +60,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit trotlines (setlines) and turtle lines.
 
-[85 FR 54143, Aug. 31, 2020]
+[85 FR 54143, Aug. 31, 2020, as amended at 86 FR 48882, Aug. 31, 2021]

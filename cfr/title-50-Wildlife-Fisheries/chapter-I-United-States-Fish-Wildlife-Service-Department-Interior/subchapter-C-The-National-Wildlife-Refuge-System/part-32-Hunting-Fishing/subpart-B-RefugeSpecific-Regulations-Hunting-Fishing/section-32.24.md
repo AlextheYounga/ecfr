@@ -72,7 +72,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) Hunters may only hunt during designated days and times.
 
-(ii) During the 2 weeks before the opening of the hunt season, you may bring a boat into Ponds AB1, A2E, AB2, A3N, A3W, A5, A7, and A8N, and moor it at a designated site. You may use your boat to access the hunting ponds, and you may leave your boat on the refuge during the hunt season. You must remove your boat within 2 weeks following the close of the hunt season. We allow nonmotorized boats and motorized boats powered by electric, gasoline direct fuel injection 2-stroke, or 4-stroke gasoline motors only.
+(ii) During the 2 weeks before the opening of the hunt season, you may bring a boat into Ponds AB1, A2E, AB2, A3N, A3W, A5, A7, and A8, and moor it at a designated site. You may use your boat to access the hunting ponds, and you may leave your boat on the refuge during the hunt season. You must remove your boat within 2 weeks following the close of the hunt season. We allow nonmotorized boats and motorized boats powered by electric, gasoline direct fuel injection 2-stroke, or 4-stroke gasoline motors only.
 
 (iii) You may maintain an existing blind in the ponds open to hunting if you have a refuge permit (name and signature required), but the blind will be open for general use on a first-come, first-served basis.
 
@@ -82,7 +82,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) We allow the use of dogs when hunting.
 
-(vii) You may not possess more than 25 shot shells while in the field once you have left your assigned parking lot or boat launch.
+(vii) You may not possess more than 25 shot shells while in the field once you have left your assigned parking lot for Ponds AB1, A2E, AB2, A3N, A3W, A5, A7, and A8, and the Ravenswood Unit.
 
 (viii) At the Ravenswood Unit only, we only allow portable blinds or construction of temporary blinds made from natural materials.
 
@@ -122,7 +122,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (h) *Imperial National Wildlife Refuge.* Refer to § 32.22(f) for regulations.
 
-(i) *Kern National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and moorhen on designated areas of the refuge subject to the following conditions:
+(i) *Kern National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, snipe, and moorhen on designated areas of the refuge subject to the following conditions:
 
 (i) Hunters assigned to the spaced blind unit must remain within 100 feet (30.5 meters) of the numbered steel post (blind site) except when pursuing crippled birds, placing decoys, or traveling to and from the parking area.
 
@@ -430,4 +430,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3)-(4) [Reserved]
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54105, Aug. 31, 2020]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54105, Aug. 31, 2020; 86 FR 48857, Aug. 31, 2021]

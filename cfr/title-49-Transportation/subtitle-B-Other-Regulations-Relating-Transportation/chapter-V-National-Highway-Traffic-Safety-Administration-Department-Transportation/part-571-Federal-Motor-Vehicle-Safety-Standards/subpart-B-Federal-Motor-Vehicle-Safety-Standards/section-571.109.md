@@ -1,5 +1,7 @@
 ##### § 571.109 Standard No. 109; New pneumatic and certain specialty tires. #####
 
+Link to an amendment published at 86 FR 48542, Aug. 31, 2021.
+
 S1. *Scope.* This standard specifies tire dimensions and laboratory test requirements for bead unseating resistance, strength, endurance, and high speed performance; defines tire load ratings; and specifies labeling requirements for passenger car tires.
 
 S2 *Application.* This standard applies to new pneumatic radial tires for use on passenger cars manufactured before 1975, new pneumatic bias ply tires, T-type spare tires, ST, FI, and 8-12 rim diameter and below tires for use on passenger cars manufactured after 1948. However, it does not apply to any tire that has been so altered so as to render impossible its use, or its repair for use, as motor vehicle equipment.

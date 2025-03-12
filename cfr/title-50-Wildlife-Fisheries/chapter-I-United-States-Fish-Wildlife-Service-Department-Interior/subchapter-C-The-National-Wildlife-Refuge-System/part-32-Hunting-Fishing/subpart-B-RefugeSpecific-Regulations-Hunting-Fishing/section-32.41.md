@@ -2,7 +2,7 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Detroit River International Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, rail, gallinule, coot, woodcock, and snipe on designated areas of the refuge subject to the following conditions:
+(a) *Detroit River International Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, rail, gallinule, coot, woodcock, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) You must remove all of your blinds, boats, and decoys from the refuge each day (see § 27.93 of this chapter).
 
@@ -54,13 +54,31 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(b) *Harbor Island National Wildlife Refuge.* (1)-(2) [Reserved]
+(b) *Harbor Island National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
 
-(3) *Big game hunting.* We allow hunting of white-tailed deer and black bear subject to the following condition: We prohibit the use of dogs when hunting.
+(i) Hunters may enter the refuge no earlier than 1 hour before legal sunrise and must leave the refuge no later than 1 hour after legal sunset.
 
-(4) [Reserved]
+(ii) You must remove boats, blinds, blind materials, stands, decoys, and other hunting equipment from the refuge at the end of each day (see §§ 27.93 and 27.94 of this chapter).
 
-(c) *Kirtland's Warbler Wildlife Management Area* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting.
+(iii) We allow the use of dogs while hunting in accordance with Michigan State regulations, provided the dog is under the immediate control of the hunter at all times.
+
+(2) *Upland game hunting.* We allow upland game hunting on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (b)(1)(i) through (iii) of this section apply.
+
+(ii) For hunting, you may possess only approved nontoxic shot shells while in the field, including shot shells used for hunting wild turkey (see § 32.2(k)).
+
+(3) *Big game hunting.* We allow hunting of big game subject to the following conditions:
+
+(i) The condition set forth at paragraph (b)(1)(i) of this section applies.
+
+(ii) We prohibit dogs for big game hunting.
+
+(iii) Deer hunters may place one portable stand or blind on the refuge for use while deer hunting, but only during the open deer season. The stand must be clearly labeled with the hunter's Michigan license/sportsmen's identification number. The stand must be removed by the end of the season (see §§ 27.93 and 27.94 of this chapter).
+
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: We prohibit the taking of any mussel (clam), crayfish, leech, frog, toad, salamander, snake, lizard, turtle, and other non-fish species by any method on the refuge (see § 27.21 of this chapter).
+
+(c) *Kirtland's Warbler Wildlife Management Area*—(1) *Migratory game bird hunting.* We allow migratory game bird hunting.
 
 (2) *Upland game hunting.* We allow upland game hunting.
 
@@ -68,7 +86,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(d) *Michigan Wetland Management District* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds subject to the following conditions:
+(d) *Michigan Wetland Management District*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds subject to the following conditions:
 
 (i) Hunters must remove boats, decoys, blinds, and blind materials at the end of each day (see § 27.93 of this chapter).
 
@@ -80,7 +98,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(e) *Seney National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of woodcock and snipe on designated areas of the refuge subject to the following condition: We allow the use of dogs when hunting migratory birds, provided the dog is under the immediate control of the hunter at all times.
+(e) *Seney National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of woodcock and snipe on designated areas of the refuge subject to the following condition: We allow the use of dogs when hunting migratory birds, provided the dog is under the immediate control of the hunter at all times.
 
 (2) *Upland game hunting.* We allow hunting of ruffed grouse and snowshoe hare on designated areas of the refuge subject to the following condition: We allow the use of dogs when hunting upland game, provided the dog is under the immediate control of the hunter at all times.
 
@@ -98,7 +116,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) We allow fishing only from legal sunrise to legal sunset.
 
-(f) *Shiawassee National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of waterfowl (duck and goose), American coot, common gallinule, sora, Virginia rail, and Wilson's snipe on designated areas of the refuge subject to the following conditions:
+(f) *Shiawassee National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of waterfowl (duck and goose), American coot, common gallinule, sora, Virginia rail, and Wilson's snipe on designated areas of the refuge subject to the following conditions:
 
 (i) You must possess and carry a refuge check-in card.
 
@@ -137,3 +155,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (i) We allow fishing by boat in navigable waterways but not within any managed refuge units.
 
 (ii) We allow bank fishing from legal sunrise to legal sunset only at designated sites along the Tittabawassee and Cass Rivers.
+
+[58 FR 5064, Jan. 19, 1993, as amended at 86 FR 48868, Aug. 31, 2021]

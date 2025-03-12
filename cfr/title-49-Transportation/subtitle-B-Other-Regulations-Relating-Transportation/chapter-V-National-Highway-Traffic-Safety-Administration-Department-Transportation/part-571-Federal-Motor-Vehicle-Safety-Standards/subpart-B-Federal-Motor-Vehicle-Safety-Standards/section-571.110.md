@@ -1,5 +1,7 @@
 ##### § 571.110 Tire selection and rims and motor home/recreation vehicle trailer load carrying capacity information for motor vehicles with a GVWR of 4,536 kilograms (10,000 pounds) or less. #####
 
+Link to an amendment published at 86 FR 48542, Aug. 31, 2021.
+
 S1. *Purpose and scope.* This standard specifies requirements for tire selection to prevent tire overloading and for motor home/recreation vehicle trailer load carrying capacity information.
 
 S2. *Application.* This standard applies to motor vehicles with a gross vehicle weight rating (GVWR or 4,536 kilograms (10,000 pounds) or less, except for motorcycles, and to non-pneumatic spare tire assemblies for those vehicles.

@@ -2,7 +2,7 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Huron Wetland Management District* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(a) *Huron Wetland Management District*—(1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
 (2) *Upland game hunting.* We allow upland game hunting on designated areas of the district.
 
@@ -10,7 +10,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the district subject to the following condition: You must remove boats, motor vehicles, fishing equipment, and other personal property (excluding ice houses) by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
-(b) *LaCreek National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow the hunting of goose, duck, coot, common snipe, sandhill crane, crow, and mourning dove on designated areas of the refuge subject to the following conditions:
+(b) *LaCreek National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow the hunting of goose, duck, coot, common snipe, sandhill crane, crow, and mourning dove on designated areas of the refuge subject to the following conditions:
 
 (i) Hunters may enter the refuge 2 hours before legal sunrise and remain no longer than 2 hours after legal sunset. We allow access from refuge parking areas, adjacent public lands, and adjacent private lands enrolled in public access programs.
 
@@ -44,11 +44,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
-(i) We prohibit the use or possession of live minnows or bait fish in Pools 3, 4, 7, and 10 and the Cedar Creek Trout Ponds.
+(i) We prohibit the use or possession of live minnows or bait fish.
 
 (ii) We open designated fishing areas from1/2 hour before legal sunrise to1/2 hour after legal sunset, except the Little White River Recreation Area.
 
-(c) *Lake Andes National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the refuge.
+(iii) We prohibit the use of lead fishing sinkers on all waters of the refuge except the Little River Recreation Area.
+
+(c) *Lake Andes National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the refuge.
 
 (2) *Upland game hunting.* We allow upland game hunting on designated areas of the refuge.
 
@@ -56,7 +58,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: You must remove all boats, motor vehicles, fishing equipment, and other personal property, excluding ice houses, by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
-(d) *Lake Andes Wetland Management District* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(d) *Lake Andes Wetland Management District*—(1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
 (2) *Upland game hunting.* We allow upland game hunting on designated areas of the district.
 
@@ -64,7 +66,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the district subject to the following condition: You must remove boats, motor vehicles, fishing equipment, and other personal property (excluding ice houses) by the end of each day's fishing activity (see §§ 27.93 and 27.94 of this chapter).
 
-(e) *Madison Wetland Management District* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(e) *Madison Wetland Management District*—(1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
 (2) *Upland game hunting.* We allow upland game hunting on designated areas of the district.
 
@@ -72,7 +74,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the district subject to the following condition: You must remove boats, motor vehicles, fishing equipment, and other personal property (excluding ice houses) by the end of each day's fishing activity (see §§ 27.93 and 27.94 of this chapter).
 
-(f) *Sand Lake National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of waterfowl on designated portions of the refuge subject to the following condition: Unarmed waterfowl hunters on the perimeter of the refuge may retrieve downed waterfowl up to 100 yards (90 meters) inside the refuge boundary.
+(f) *Sand Lake National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of waterfowl on designated portions of the refuge subject to the following condition: Unarmed waterfowl hunters on the perimeter of the refuge may retrieve downed waterfowl up to 100 yards (90 meters) inside the refuge boundary.
 
 (2) *Upland game hunting.* We allow hunting of pheasant, sharp-tailed grouse, and partridge on designated portions of the refuge subject to the following conditions:
 
@@ -98,7 +100,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow ice fishing shanties, but anglers must remove them at the end of each day's fishing activity (see § 27.93 of this chapter).
 
-(g) *Sand Lake Wetland Management District* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district and subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(g) *Sand Lake Wetland Management District*—(1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district and subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
 (2) *Upland game hunting.* We allow upland game hunting on designated areas of the district.
 
@@ -122,17 +124,17 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We prohibit organized deer drives during archery season. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
 
-(4) *Sport fishing.* We allow ice fishing on designated areas of the refuge subject to the following conditions:
+(4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
 
-(i) We prohibit open water fishing at any time.
+(i) Ice fishing anglers must not be on the ice until 1 hour prior to legal sunrise and must be off the ice by 1 hour after legal sunset.
 
-(ii) Anglers must not be on the ice until 1 hour prior to legal sunrise and must be off the ice by 1 hour after legal sunset.
+(ii) Ice fishing anglers must remove ice shacks by 1 hour after legal sunset (see § 27.93 of this chapter).
 
-(iii) Anglers must remove ice shacks by 1 hour after legal sunset (see § 27.93 of this chapter).
+(iii) We restrict angler foot travel to posted access points, public roads, and lake ice.
 
-(iv) We restrict angler foot travel to posted access points, public roads, and lake ice.
+(iv) We allow fishing with the use of nonmotorized boats, canoes, and kayaks.
 
-(i) *Waubay Wetland Management District* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(i) *Waubay Wetland Management District*—(1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction by the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
 (2) *Upland game hunting.* We allow upland game hunting on designated areas of the district.
 
@@ -144,4 +146,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the district subject to the following condition: You must remove boats, motor vehicles, fishing equipment, and other personal property (excluding ice houses) by the end of each day's fishing activity (see §§ 27.93 and 27.94 of this chapter).
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54139, Aug. 31, 2020]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54139, Aug. 31, 2020; 86 FR 48876, Aug. 31, 2021]

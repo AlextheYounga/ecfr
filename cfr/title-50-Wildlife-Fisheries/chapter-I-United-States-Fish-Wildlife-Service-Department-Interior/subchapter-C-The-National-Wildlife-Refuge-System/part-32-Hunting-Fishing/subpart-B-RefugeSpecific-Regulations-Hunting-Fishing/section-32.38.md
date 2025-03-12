@@ -2,31 +2,39 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Moosehorn National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, American woodcock, and snipe on designated areas of the refuge subject to the following conditions:
+(a) *Franklin Island National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of waterfowl on designated areas of the refuge subject to the following conditions:
 
-(i) We require every hunter to possess and carry a personally signed refuge permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
+(i) We allow the use of dogs consistent with State regulations.
 
-(ii) We allow hunters to enter the refuge 2 hours before legal shooting hours, and they must exit the refuge by 1 hour past legal shooting hours.
+(ii) We allow temporary or portable blinds. We require hunters to remove all portable or temporary blinds and decoys from the refuge following each day's hunt (see § 27.93 of this chapter).
+
+(2)-(4) [Reserved]
+
+(b) *Moosehorn National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, American woodcock, and snipe on designated areas of the refuge subject to the following conditions:
+
+(i) We allow the use of dogs consistent with State regulations.
+
+(ii) We allow hunters to enter the refuge 1 hour before legal shooting hours, and they must exit the refuge by 1 hour past legal shooting hours.
 
 (iii) We only allow portable or temporary blinds and decoys that must be removed from the refuge following each day's hunt (see § 27.93 of this chapter).
 
-(iv) We allow the use of dogs consistent with State regulations.
+(iv) Hunters must retrieve all species harvested on the refuge.
 
-(2) *Upland game hunting.* We allow hunting of ruffed grouse, snowshoe hare, red fox, gray and red squirrel, raccoon, skunk, and woodchuck on designated areas of the refuge subject to the following condition: The conditions set forth at paragraphs (a)(1)(i), (ii) (except for hunters pursuing raccoon at night), and (iv) of this section apply.
+(2) *Upland game hunting.* We allow hunting of bobcat, eastern coyote, ruffed grouse, snowshoe hare, red fox, gray and red squirrel, raccoon, skunk, porcupine, and woodchuck on designated areas of the refuge subject to the following conditions:
 
-(3) *Big game hunting.* We allow hunting of black bear, bobcat, eastern coyote, moose, and white-tailed deer on designated areas of the refuge subject to the following conditions:
+(i) The conditions set forth at paragraphs (b)(1)(i), (ii) (except for hunters pursuing raccoon and coyote at night), (iii), and (iv) of this section apply.
 
-(i) The conditions set forth at paragraphs (a)(1)(i), (ii) (except for hunters pursuing eastern coyote at night), and (iv) of this section apply.
+(ii) We allow hunting for eastern coyote, red squirrel, and woodchuck only from October 1 to March 31.
 
-(ii) The hunter must retrieve all species harvested on the refuge.
+(3) *Big game hunting.* We allow hunting of black bear, moose, and white-tailed deer on designated areas of the refuge subject to the following conditions:
 
-(iii) We allow eastern coyote hunting from October 1 to March 31.
+(i) The conditions set forth at paragraphs (b)(1)(i), (ii), and (iv) of this section apply.
 
-(iv) We allow tree stands, blinds, and ladders. You must clearly label any tree stand, blind, or ladder left on the refuge overnight with your hunting license number. You must remove your tree stand(s), blind(s), and/or ladder(s) from the refuge on the last day of the muzzleloader deer season (see § 27.93 of this chapter).
+(ii) We allow tree stands, blinds, and ladders to be set up on the opening day of the archery deer season. Hunters must clearly label tree stands, blinds, or ladders left on the refuge overnight with your State hunting license number and last name. Hunters must remove tree stand(s), blind(s), and/or ladder(s) from the refuge on the last day of the muzzleloader deer season (see § 27.93 of this chapter).
 
-(v) You may hunt black bear, eastern coyote, and white-tailed deer during the State archery and firearms deer seasons on the Baring Division east of State Route 191.
+(iii) You may hunt black bear, eastern coyote, and white-tailed deer during the State archery and firearms deer seasons on the Baring Division east of State Route 191.
 
-(vi) We prohibit use of firearms to hunt bear and coyote during the archery deer season on the Baring Division east of Route 191. We prohibit the use of firearms, other than a muzzleloader, to hunt coyote during the deer muzzleloader season on the Baring Division east of Route 191.
+(iv) We prohibit use of firearms to hunt bear during the archery deer season on the Baring Division east of Route 191. We prohibit the use of firearms, other than a muzzleloader, to hunt coyote during the deer muzzleloader season on the Baring Division east of Route 191.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
@@ -34,13 +42,17 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit trapping fish for use as bait.
 
-(b) *Petit Manan National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, woodcock, rail, and snipe on designated areas of the refuge subject to the following condition: We allow the use of dogs consistent with State regulations.
-
-(2) *Upland game hunting.* We allow hunting of upland game on designated areas of the refuge subject to the following conditions:
+(c) *Petit Manan National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, seaduck, brant, woodcock, rail, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We allow the use of dogs consistent with State regulations.
 
-(ii) You may hunt coyotes from November 1 to March 31.
+(ii) We allow temporary or portable blinds. We require hunters to remove all portable or temporary blinds and decoys from the refuge following each day's hunt (see § 27.93 of this chapter).
+
+(2) *Upland game hunting.* We allow hunting of ruffed grouse, gray squirrel, red squirrel, skunk, snowshoe hare, fox, coyote, porcupine woodchuck, bobcat, and raccoon on designated areas of the refuge subject to the following conditions:
+
+(i) We prohibit the use of dogs for pursuing game.
+
+(ii) We allow hunting for coyotes, red squirrel, porcupine, and woodchuck from November 1 to March 31.
 
 (iii) Hunters must retrieve all species harvested on the refuge.
 
@@ -48,17 +60,27 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer and black bear on designated areas of the refuge subject to the following conditions:
 
-(i) Petit Manan Point is open only during the State-prescribed muzzleloader deer season.
+(i) Petit Manan Point is open only during the muzzleloader deer season.
 
 (ii) We allow black bear hunting during the firearm season for white-tailed deer.
 
-(iii) We allow hunters to enter the refuge 1 hour prior to legal sunrise and remain on the refuge 1 hour after legal sunset.
+(iii) We allow hunters to enter the refuge 1 hour before legal sunrise, and they must exit the refuge no later than 1 hour after legal sunset.
 
 (iv) We prohibit the use of dogs when hunting black bear.
 
+(v) We require hunters to remove all tree stands, blinds, and ladders from the refuge on the last day of muzzleloader deer season (see § 27.93 of this chapter).
+
 (4) [Reserved]
 
-(c) *Rachel Carson National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, woodcock, and snipe on designated areas of the refuge subject to the following conditions:
+(d) *Pond Island National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of waterfowl on designated areas of the refuge subject to the following conditions:
+
+(i) We allow the use of dogs consistent with State regulations.
+
+(ii) We allow temporary or portable blinds. We require hunters to remove all portable or temporary blinds and decoys from the refuge following each day's hunt (see § 27.93 of this chapter).
+
+(2)-(4) [Reserved]
+
+(e) *Rachel Carson National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, woodcock, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) Prior to entering designated refuge hunting areas, you must obtain a refuge permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) and sign and carry the permit at all times.
 
@@ -70,13 +92,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2) *Upland game hunting.* We allow hunting of pheasant, quail, grouse, fox, and coyote on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (c)(1)(i) and (iii) of this section apply.
+(i) The conditions set forth at paragraphs (e)(1)(i) and (iii) of this section apply.
 
 (ii) We allow take of pheasant, quail, and grouse by falconry on the refuge during State seasons.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer and turkey on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions as set forth at paragraphs (c)(1)(i) and (iv) of this section apply.
+(i) The conditions as set forth at paragraphs (e)(1)(i) and (iv) of this section apply.
 
 (ii) We allow hunting with shotgun and archery only. We prohibit rifles and muzzleloading firearms for hunting.
 
@@ -96,29 +118,31 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We prohibit trapping fish for use as bait.
 
-(d) *Sunkhaze Meadows National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following condition: We allow the use of dogs consistent with State regulations.
+(f) *Sunkhaze Meadows National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, rail, American woodcock, and Wilson's snipe on designated areas of the refuge subject to the following conditions:
 
-(2) *Upland game hunting.* We allow hunting of upland game on designated areas of the refuge subject to the following conditions:
-
-(i) We allow hunters to enter the refuge 1 hour before legal shooting hours, and they must exit the refuge by 1 hour past legal shooting hours, except for hunters pursuing raccoons at night.
+(i) We allow the use of dogs consistent with State regulations.
 
 (ii) The hunter must retrieve all species harvested on the refuge.
 
-(iii) We allow the use of dogs consistent with State regulations.
+(iii) We only allow portable or temporary blinds and decoys that must be removed from the refuge following each day's hunt (see § 27.93 of this chapter).
 
-(3) *Big game hunting.* We allow hunting of black bear, bobcat, moose, coyote, and white-tailed deer on designated areas of the refuge subject to the following conditions:
+(iv) We allow hunters to enter the refuge 1 hour before legal shooting hours, and they must exit the refuge no later than 1 hour after legal shooting hours.
 
-(i) We allow hunters to enter the refuge 1 hour before legal shooting hours, and they must exit the refuge by 1 hour after legal shooting hours, except for hunters pursuing coyotes at night.
+(2) *Upland game hunting.* We allow hunting of bobcat, coyote, ruffed grouse, hare, red fox, gray squirrel, red squirrel, raccoon, skunk, and woodchuck on designated areas of the refuge subject to the following conditions:
 
-(ii) We allow tree stands, blinds, and ladders. You must clearly label tree stands, blinds, or ladders left on the refuge overnight with your State hunting license number. You must remove your tree stand(s), blind(s), and/or ladder(s) from the refuge on the last day of the muzzleloader deer season (see § 27.93 of this chapter).
+(i) The conditions set forth at paragraphs (f)(1)(i) through (iv) (except for hunters pursing raccoon or coyote at night) of this section apply.
 
-(iii) We allow the use of dogs consistent with State regulations.
+(ii) We allow hunting for eastern coyote, red squirrel, and woodchuck only from October 1 to March 31.
 
-(iv) We allow coyote hunting from October 1 to March 31.
+(3) *Big game hunting.* We allow hunting of black bear, moose, wild turkey, and white-tailed deer on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (f)(1)(i), (ii), and (iv) of this section apply.
+
+(ii) We allow tree stands, blinds, and ladders to be set up on the opening day of the archery deer season. Hunters must clearly label tree stands, blinds, or ladders left on the refuge overnight with your State hunting license number and last name. Hunters must remove tree stand(s), blind(s), and/or ladder(s) from the refuge on the last day of the muzzleloader deer season (see § 27.93 of this chapter).
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: We prohibit trapping fish for use as bait.
 
-(e) *Umbagog National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, snipe, coot, crow, and woodcock on designated areas of the refuge subject to the following condition: We allow the use of dogs consistent with State regulations.
+(g) *Umbagog National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, snipe, coot, crow, and woodcock on designated areas of the refuge subject to the following condition: We allow the use of dogs consistent with State regulations.
 
 (2) *Upland game hunting.* We allow hunting of fox, raccoon, woodchuck, squirrel, porcupine, skunk, snowshoe hare, ring-necked pheasant, and ruffed grouse on designated areas of the refuge subject to the following conditions:
 
@@ -136,4 +160,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-[85 FR 54115, Aug. 31, 2020]
+[85 FR 54115, Aug. 31, 2020, as amended at 86 FR 48867, Aug. 31, 2021]

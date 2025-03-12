@@ -10,7 +10,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(b) *Cokeville Meadows National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of dove, duck, dark goose, coot, merganser, light goose, snipe, Virginia rail, Sora rail, sandhill crane, and mourning dove on designated areas of the refuge subject to the following conditions:
+(b) *Cokeville Meadows National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of dove, duck, dark goose, coot, merganser, light goose, snipe, Virginia rail, Sora rail, sandhill crane, and mourning dove on designated areas of the refuge subject to the following conditions:
 
 (i) We allow the use of dogs when hunting.
 
@@ -28,7 +28,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(c) *Hutton Lake National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow youth hunting of goose, duck, coot, and merganser on designated areas of the refuge during the Wyoming Zone C2 “special youth waterfowl hunting days” subject to the following conditions:
+(c) *Hutton Lake National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow youth hunting of goose, duck, coot, and merganser on designated areas of the refuge during the Wyoming Zone C2 “special youth waterfowl hunting days” subject to the following conditions:
 
 (i) We allow the use of dogs when hunting.
 
@@ -46,15 +46,25 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (d) *National Elk Refuge.* (1)-(2) [Reserved]
 
-(3) *Big game hunting.* We allow hunting of elk and bison on designated areas of the refuge subject to the following conditions:
+(3) *Big game hunting.* We allow hunting of elk, pronghorn, white-tailed deer, and bison on designated areas of the refuge subject to the following conditions:
 
 (i) We require refuge permits (issued by State of Wyoming).
 
 (ii) We prohibit shooting from or across refuge roads and parking areas.
 
+(iii) We allow hunting of pronghorn with a firearm in Pronghorn Hunt Area 1 from September 10 through October 31, and in Pronghorn Hunt Area 2 from October 1 through 31.
+
+(iv) We allow archery hunting of pronghorn in Pronghorn Hunt Area 1 in accordance with State seasons and regulations.
+
+(v) We allow hunting of white-tailed deer with a firearm in the White-tailed Deer Hunt Area from September 15 through October 30.
+
+(vi) We allow archery hunting of white-tailed deer in the White-tailed Deer Hunt Area in accordance with State seasons and regulations.
+
+(vii) The refuge hunt brochure will specify the type of ammunition approved for hunting on the refuge.
+
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(e) *Pathfinder National Wildlife Refuge* - (1) (1) *Migratory game bird hunting.* We allow hunting of dove, goose, duck, and coot on designated areas of the refuge.
+(e) *Pathfinder National Wildlife Refuge*—(1) (1) *Migratory game bird hunting.* We allow hunting of dove, goose, duck, and coot on designated areas of the refuge.
 
 (2) *Upland game hunting.* We allow hunting of sage grouse and cottontail rabbit on designated areas of the refuge.
 
@@ -62,7 +72,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(f) *Seedskadee National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of dark goose, duck, coot, merganser, dove, snipe, and rail on designated areas of the refuge subject to the following conditions:
+(f) *Seedskadee National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of dark goose, duck, coot, merganser, dove, snipe, and rail on designated areas of the refuge subject to the following conditions:
 
 (i) We open the refuge to the general public from1/2 hour before legal sunrise to1/2 hour after legal sunset. Waterfowl hunters may enter the refuge 1 hour before legal shooting hours to set up decoys and blinds.
 
@@ -82,4 +92,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit taking of mollusk, crustacean, reptile, and amphibian from the refuge (see § 27.21 of this chapter).
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54144, Aug. 31, 2020]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54144, Aug. 31, 2020; 86 FR 48883, Aug. 31, 2021]

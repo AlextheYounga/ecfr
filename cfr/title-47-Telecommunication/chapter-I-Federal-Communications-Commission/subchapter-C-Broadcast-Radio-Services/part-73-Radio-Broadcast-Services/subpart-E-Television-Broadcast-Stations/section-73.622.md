@@ -1729,7 +1729,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |       Omaha        |             \*17, 20, 22, 38, 43, 45              |
 |    Scottsbluff     |                      17, 29                       |
 |       Sidney       |                         7                         |
-|      Superior      |                         4                         |
+|        York        |                        24                         |
 |       NEVADA       |                                                   |
 |        Elko        |                        10                         |
 |        Ely         |                        27                         |
@@ -1995,7 +1995,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |      El Paso       |        \*13, 15, 16, 17, 18, 25, \*39, 51         |
 |      Farwell       |                        18                         |
 |     Fort Worth     |                   9, 19, 29, 41                   |
-|   Fredericksburg   |                         5                         |
+|   Fredericksburg   |                         8                         |
 |     Galveston      |                     \*23, 48                      |
 |      Garland       |                        23                         |
 |     Greenville     |                        46                         |

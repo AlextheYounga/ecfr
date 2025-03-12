@@ -164,25 +164,27 @@ Refuge units open to hunting and/or sport fishing in accordance with the provisi
 
 (5) Everglades Headwaters National Wildlife Refuge.
 
-(6) Hobe Sound National Wildlife Refuge.
+(6) Florida Panther National Wildlife Refuge.
 
-(7) J.N. “Ding” Darling National Wildlife Refuge.
+(7) Hobe Sound National Wildlife Refuge.
 
-(8) Lake Woodruff National Wildlife Refuge.
+(8) J.N. “Ding” Darling National Wildlife Refuge.
 
-(9) Lower Suwannee National Wildlife Refuge.
+(9) Lake Woodruff National Wildlife Refuge.
 
-(10) Merritt Island National Wildlife Refuge.
+(10) Lower Suwannee National Wildlife Refuge.
 
-(11) Pelican Island National Wildlife Refuge.
+(11) Merritt Island National Wildlife Refuge.
 
-(12) Pinellas National Wildlife Refuge.
+(12) Pelican Island National Wildlife Refuge.
 
-(13) St. Marks National Wildlife Refuge.
+(13) Pinellas National Wildlife Refuge.
 
-(14) St. Vincent National Wildlife Refuge.
+(14) St. Marks National Wildlife Refuge.
 
-(15) Ten Thousand Islands National Wildlife Refuge.
+(15) St. Vincent National Wildlife Refuge.
+
+(16) Ten Thousand Islands National Wildlife Refuge.
 
 (j) *Georgia.* (1) Banks Lake National Wildlife Refuge.
 
@@ -324,15 +326,19 @@ Refuge units open to hunting and/or sport fishing in accordance with the provisi
 
 (21) Upper Ouachita National Wildlife Refuge.
 
-(s) *Maine.* (1) Moosehorn National Wildlife Refuge.
+(s) *Maine.* (1) Franklin Island National Wildlife Refuge.
 
-(2) Petit Manan National Wildlife Refuge.
+(2) Moosehorn National Wildlife Refuge.
 
-(3) Rachel Carson National Wildlife Refuge.
+(3) Petit Manan National Wildlife Refuge.
 
-(4) Sunkhaze Meadows National Wildlife Refuge.
+(4) Pond Island National Wildlife Refuge.
 
-(5) Umbagog National Wildlife Refuge.
+(5) Rachel Carson National Wildlife Refuge.
+
+(6) Sunkhaze Meadows National Wildlife Refuge.
+
+(7) Umbagog National Wildlife Refuge.
 
 (t) *Maryland.* (1) Blackwater National Wildlife Refuge.
 
@@ -480,23 +486,21 @@ Refuge units open to hunting and/or sport fishing in accordance with the provisi
 
 (16) Medicine Lake National Wildlife Refuge.
 
-(17) National Bison Range.
+(17) Ninepipe National Wildlife Refuge.
 
-(18) Ninepipe National Wildlife Refuge.
+(18) Northeast Montana Wetland Management District.
 
-(19) Northeast Montana Wetland Management District.
+(19) Northwest Montana Wetland Management District.
 
-(20) Northwest Montana Wetland Management District.
+(20) Pablo National Wildlife Refuge.
 
-(21) Pablo National Wildlife Refuge.
+(21) Red Rock Lakes National Wildlife Refuge.
 
-(22) Red Rock Lakes National Wildlife Refuge.
+(22) Swan River National Wildlife Refuge.
 
-(23) Swan River National Wildlife Refuge.
+(23) UL Bend National Wildlife Refuge.
 
-(24) UL Bend National Wildlife Refuge.
-
-(25) War Horse National Wildlife Refuge.
+(24) War Horse National Wildlife Refuge.
 
 (aa) *Nebraska.* (1) Boyer Chute National Wildlife Refuge.
 
@@ -882,11 +886,15 @@ Refuge units open to hunting and/or sport fishing in accordance with the provisi
 
 (11) McFaddin National Wildlife Refuge.
 
-(12) San Bernard National Wildlife Refuge.
+(12) Muleshoe National Wildlife Refuge.
 
-(13) Texas Point National Wildlife Refuge.
+(13) Neches River National Wildlife Refuge.
 
-(14) Trinity River National Wildlife Refuge.
+(14) San Bernard National Wildlife Refuge.
+
+(15) Texas Point National Wildlife Refuge.
+
+(16) Trinity River National Wildlife Refuge.
 
 (rr) *Utah.* (1) Bear River Migratory Bird Refuge.
 
@@ -906,21 +914,25 @@ Refuge units open to hunting and/or sport fishing in accordance with the provisi
 
 (4) Elizabeth Hartwell Mason Neck National Wildlife Refuge.
 
-(5) Great Dismal Swamp National Wildlife Refuge.
+(5) Featherstone National Wildlife Refuge.
 
-(6) James River National Wildilfe Refuge.
+(6) Fisherman Island National Wildlife Refuge.
 
-(7) Mackay Island National Wildlife Refuge.
+(7) Great Dismal Swamp National Wildlife Refuge.
 
-(8) Occoquan Bay National Wildlife Refuge.
+(8) James River National Wildilfe Refuge.
 
-(9) Plum Tree Island National Wildlife Refuge.
+(9) Mackay Island National Wildlife Refuge.
 
-(10) Presquile National Wildlife Refuge.
+(10) Occoquan Bay National Wildlife Refuge.
 
-(11) Rappahannock River Valley National Wildlife Refuge.
+(11) Plum Tree Island National Wildlife Refuge.
 
-(12) Wallops Island National Wildlife Refuge.
+(12) Presquile National Wildlife Refuge.
+
+(13) Rappahannock River Valley National Wildlife Refuge.
+
+(14) Wallops Island National Wildlife Refuge.
 
 (uu) *Washington.* (1) Billy Frank Jr. Nisqually National Wildlife Refuge.
 
@@ -990,4 +1002,4 @@ Refuge units open to hunting and/or sport fishing in accordance with the provisi
 
 (2) [Reserved]
 
-[84 FR 47671, Sept. 10, 2019, as amended at 85 FR 54103, Aug. 31, 2020]
+[84 FR 47671, Sept. 10, 2019, as amended at 85 FR 54103, Aug. 31, 2020; 86 FR 48849, Aug. 31, 2021]

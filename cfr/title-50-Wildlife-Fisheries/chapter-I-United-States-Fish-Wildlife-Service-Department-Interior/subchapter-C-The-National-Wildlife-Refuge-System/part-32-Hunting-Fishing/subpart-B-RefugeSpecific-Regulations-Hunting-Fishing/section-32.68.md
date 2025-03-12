@@ -28,21 +28,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: We only allow fishing from the shoreline; we prohibit fishing from docks, piers, and other structures.
 
-(c) *Hackmatack National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following condition: You must remove all boats, decoys, blinds, blind materials, stands, platforms, and other hunting equipment (see §§ 27.93 and 27.94 of this chapter) brought onto the refuge at the end of each day's hunt.
-
-(2) *Upland game hunting.* We allow upland game and turkey hunting on designated areas of the refuge subject to the following conditions:
-
-(i) For hunting, you may use or possess only approved nontoxic shot shells while in the field, including shot shells used for hunting wild turkey (see § 32.2(k)).
-
-(ii) You must remove all boats, decoys, blinds, blind materials, stands, platforms, and other hunting equipment (see §§ 27.93 and 27.94 of this chapter) brought onto the refuge at the end of each day's hunt.
-
-(3) *Big game hunting.* We allow big game hunting on designated areas of the refuge subject to the following conditions:
-
-(i) You must remove all boats, decoys, blinds, blind materials, stands, platforms, and other hunting equipment (see §§ 27.93 and 27.94 of this chapter) brought onto the refuge at the end of each day's hunt.
-
-(ii) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
-
-(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: We prohibit the taking of turtle and frog (see § 27.21 of this chapter).
+(c) *Hackmatack National Wildlife Refuge.* Refer to § 32.32(f) for regulations.
 
 (d) *Horicon National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, common moorhen, and American woodcock on designated areas of the refuge subject to the following condition: We allow only participants in the Learn to Hunt and other special programs to hunt goose, duck, coot, and common moorhen.
 
@@ -98,7 +84,15 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on WPAs throughout the district.
 
-(f) *Necedah National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following condition: We allow the use of dogs while hunting migratory game birds, provided the dog is under the immediate control of the hunter at all times.
+(f) *Necedah National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, merganser, dove, moorhen/gallinule, rail, snipe, and woodcock on designated areas of the refuge subject to the following conditions:
+
+(i) Hunters may enter the refuge no earlier than 1 hour before legal shooting hours and must exit the refuge no later than 1 hour after legal shooting hours.
+
+(ii) You must remove all boats, decoys, blinds, blind materials, stands, platforms, and other hunting equipment (see §§ 27.93 and 27.94 of this chapter) brought onto the refuge at the end of each day's hunt.
+
+(iii) We allow the use of dogs while hunting, provided the dog is under the immediate control of the hunter at all times.
+
+(iv) We prohibit hunting or shooting within 50 feet (15 meters (m)) of the centerline of all public roads, service roads, and trails, and around parking lots. It is considered hunting if you have a loaded weapon, if you have a nocked arrow while bow hunting, or if you are in an elevated tree stand or ground blind with a means to take, within these areas.
 
 (2) *Upland game hunting.* We allow hunting of wild turkey, ruffed grouse, gray squirrel, fox squirrel, cottontail rabbit, snowshoe hare, and raccoon on designated areas of the refuge subject to the following conditions:
 
@@ -112,31 +106,35 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) You may only hunt snowshoe hare during the season for cottontail rabbit.
 
+(vi) The conditions set forth at paragraphs (f)(1)(i), (ii), and (iv) of this section apply.
+
 (3) *Big game hunting.* We allow hunting of white-tailed deer on designated areas of the refuge subject to the following conditions:
 
-(i) We prohibit possession of a loaded firearm or a nocked arrow on a bow within 50 feet (15 meters (m)) of the centerline of all public roads. During the gun deer season, we prohibit possession of a loaded firearm within 50 feet (15 m) of the center of refuge trails, and we prohibit discharge of guns from, across, down, or alongside these trails.
+(i) The conditions set forth at paragraphs (f)(1)(i) and (iv) of this section apply.
 
 (ii) You may use portable elevated devices, but you must lower them to ground level at the close of shooting hours each day. You must remove all blinds, stands, platforms, and ladders from the refuge at the end of the hunting season (see §§ 27.93 and 27.94 of this chapter).
 
-(iii) You must clearly mark all non-natural blinds, stands, platforms, and ladders on the exterior with the hunter's State hunting license number in letters that are at least 1 inch (2.5 centimeters) high. You may also use an attached metal tag with stamped or engraved lettering that is clearly visible.
+(iii) You must clearly mark all non-natural blinds, stands, platforms, and ladders on the exterior with the hunter's Wisconsin Department of Natural Resources customer identification number.
 
-(iv) We open Refuge Area 2 to deer hunting during State archery, gun, and muzzleloader seasons, except for any early antlerless-only hunts.
+(iv) We open Refuge Area 2 to deer hunting during the State archery, gun, and muzzleloader seasons, except that we close Refuge Area 2 to deer hunting during any early State antlerless-only hunts.
 
-(v) We open Refuge Area 3 to deer hunting during the State regular gun, muzzleloader, and late archery seasons. Unarmed deer hunters may enter Area 3 to scout beginning the Saturday prior to the gun deer season.
+(v) We open Refuge Area 3 to deer hunting during the State regular gun, muzzleloader, and late archery seasons. Unarmed deer hunters may enter Refuge Area 3 to scout beginning the Saturday prior to the gun deer season.
 
-(vi) You may use clothespins marked with flagging or reflective material. We prohibit all other types of marking. You must clearly identify the hunter's State hunting license number on the clothes pin or the flagging itself. You must remove all clothes pins by the last day of archery season (see §§ 27.93 and 27.94 of this chapter).
+(vi) You must remove flagging used during hunting by the close of the archery deer season (see §§ 27.93 and 27.94 of this chapter).
 
-(vii) Beginning the Saturday prior to the opening of the State regular gun deer season, you may use nonmotorized boats on Sprague-Goose Pools until freeze-up in order to access areas for deer hunting.
-
-(viii) Any ground blind used during any gun deer season must display at least 144 square inches (929 square centimeters) of solid-blaze-orange material visible from all directions.
+(vii) Any ground blind used during any gun deer season must display at least 144 square inches (929 square centimeters) of solid-blaze-orange or fluorescent pink material visible from all directions.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
-(i) We allow use of nonmotorized boats in Sprague-Goose pools only when we open these pools to fishing.
+(i) Fishing areas are open from 30 minutes prior to legal sunrise to 30 minutes after legal sunset during refuge-specific seasons.
 
-(ii) We allow motorized boats in Suk Cerney Pool.
+(ii) We allow use of nonmotorized boats in Sprague-Goose pools only when we open these pools to fishing.
 
-(iii) We allow fishing by hook and line only.
+(iii) We allow motorized boats in Suk Cerney Pool.
+
+(iv) We allow fishing by hook and line only.
+
+(v) We prohibit the taking of any mussel (clam), crayfish, frog, leech, or turtle species by any method on the refuge (see § 27.21 of this chapter).
 
 (g) *St. Croix Wetland Management District* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas throughout the district subject to the following conditions:
 
@@ -220,4 +218,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit the taking of any mussel (clam), crayfish, frog, leech, or turtle species by any method on the refuge (see § 27.21 of this chapter).
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54144, Aug. 31, 2020]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54144, Aug. 31, 2020; 86 FR 48882, Aug. 31, 2021]

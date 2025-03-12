@@ -2,35 +2,45 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Bill Williams River National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning and white-winged dove on designated areas of the refuge subject to the following conditions:
+(a) *Bill Williams River National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of mourning and white-winged dove on designated areas of the refuge subject to the following conditions:
 
-(i) We allow shotguns, muzzleloaders, pistols, pneumatic guns, and archery equipment for hunting.
+(i) We allow only shotguns and archery equipment for hunting.
 
-(ii) We prohibit hunting within 50 yards (45 meters) of any building, road, or levee open to public use.
+(ii) We prohibit hunting within 50 yards (45 meters) of any road or trail open to public use and within1/4 mile (402 meters) of any building.
 
-(iii) You must remove boats, equipment, cameras, temporary blinds, stands, etc., at the end of each day's activities (see § 27.93 of this chapter).
+(iii) You must remove boats, equipment, temporary blinds, stands, etc., at the end of each day's activities (see § 27.93 of this chapter).
 
-(2) *Upland game hunting.* We allow hunting of Gambel's quail and cottontail rabbit on designated areas of the refuge subject to the following conditions:
+(iv) Hunters may enter the refuge1/2 hour before legal sunrise and must leave the refuge no later than1/2 hour after legal sunset.
 
-(i) The conditions set forth at paragraphs (a)(1)(i) and (iii) of this section apply.
+(2) *Upland game hunting.* We allow hunting of Gambel's quail, Eurasian collared-dove, cottontail rabbit, coyote, gray fox, and kit fox on designated areas of the refuge subject to the following conditions:
 
-(ii) We allow hunting of cottontail rabbit from September 1 to the close of the State season.
+(i) The conditions set forth at paragraphs (a)(1)(i) through (iv) of this section apply, except that we also allow muzzleloading shotguns for cottontail rabbit hunting.
 
-(3) *Big game hunting.* We allow hunting of desert bighorn sheep on designated areas of the refuge subject to the following conditions:
+(ii) We allow hunting of Gambel's quail in alignment with the State quail season.
 
-(i) The conditions set forth at paragraphs (a)(1)(i) and (iii) of this section apply.
+(iii) We allow hunting of cottontail rabbit from September through February aligning with the beginning of the State dove season and the end of the State quail season.
 
-(ii) We allow the possession of rifles for desert bighorn sheep hunting.
+(iv) We allow hunting of Eurasian collared-dove during the State mourning and white-winged dove season.
+
+(v) We prohibit night hunting from1/2 hour after legal sunset until1/2 hour before legal sunrise the following day.
+
+(3) *Big game hunting.* We allow hunting of desert bighorn sheep and javelina on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (a)(1)(ii) through (iv) of this section apply.
+
+(ii) We allow the use of rifles, muzzleloaders, and archery for desert bighorn sheep hunting.
+
+(iii) We allow shotguns shooting slugs and archery equipment for javelina hunting.
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following condition: The condition set forth at paragraph (a)(1)(iii) of this section applies.
 
-(b) *Buenos Aires National Wildlife Refuge* - (1) *Migratory game bird hunting.*We allow hunting of goose, duck, coot, merganser, moorhen (gallinule), common snipe, and mourning, white-winged, and Eurasian collared-dove on designated areas of the refuge subject to the following conditions:
+(b) *Buenos Aires National Wildlife Refuge*—(1) *Migratory game bird hunting.*We allow hunting of goose, duck, coot, merganser, moorhen (gallinule), common snipe, and mourning, white-winged, and Eurasian collared-dove on designated areas of the refuge subject to the following conditions:
 
 (i) We allow portable or temporary blinds and stands, but you must remove them at the end of each day's hunt (see § 27.93 of this chapter).
 
 (ii) We prohibit falconry.
 
-(iii) We allow dogs only for the retrieval of birds.
+(iii) We allow the use of dogs when hunting.
 
 (2) *Upland game hunting.* We allow hunting of black-tailed and antelope jackrabbit; cottontail rabbit; badger; bobcat; coati; kit and gray fox; raccoon; ringtail; coyote; and hog-nosed, hooded, spotted, and striped skunk on designated areas of the refuge subject to the following conditions:
 
@@ -46,9 +56,9 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(c) *Cabeza Prieta National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning dove on designated areas of the refuge subject to the following conditions:
+(c) *Cabeza Prieta National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of mourning dove on designated areas of the refuge subject to the following conditions:
 
-(i) We require hunters to obtain a Barry M. Goldwater Range Entry Permit (Department of Defense form/requirement) from the refuge.
+(i) We require hunters to obtain a visitor access permit (Department of Defense form/requirement) from the refuge.
 
 (ii) We prohibit falconry.
 
@@ -56,7 +66,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We allow hunting only during the late season dove hunt.
 
-(2) *Upland game hunting.* We allow hunting of Gambel's quail, Eurasian collared-dove, desert cottontail rabbit, antelope and black-tailed jackrabbit, coyote, bobcat, and fox in designated areas of the refuge subject to the following conditions:
+(2) *Upland game hunting.* We allow hunting of Gambel's quail, Eurasian collared-dove, desert cottontail rabbit, antelope jackrabbit and black-tailed jackrabbit, coyote, bobcat, and kit and gray fox in designated areas of the refuge subject to the following conditions:
 
 (i) The conditions set forth at paragraphs (c)(1)(i) through (iii) of this section apply.
 
@@ -68,13 +78,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The conditions set forth at paragraphs (c)(1)(i) and (c)(2)(ii) of this section apply.
 
-(ii) We require Special Use Permits for all hunters (FWS Form 3-1383-G), guides (FWS Form 3-1383-C), and stock animals (FWS Form 3-1383-G).
+(ii) We require Special Use Permits for all guides (FWS Form 3-1383-C), stock animals (FWS Form 3-1383-G), and bighorn sheep hunters (FWS Form 3-1383-G).
 
 (iii) We prohibit the use of dogs when hunting big game.
 
 (4) [Reserved]
 
-(d) *Cibola National Wildlife Refuge* -
+(d) *Cibola National Wildlife Refuge*—
 (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen (gallinule), common snipe, mourning and white-winged dove, and Eurasian collared-dove on designated areas of the refuge subject to the following conditions:
 
 (i) We allow only shotgun and archery.
@@ -97,47 +107,53 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing and frogging subject to the following condition: Cibola Lake is open to fishing and frogging from March 15 through September 30.
 
-(e) *Havasu National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning and white-winged dove, duck, coot, moorhen (gallinule), goose, and common snipe on designated areas of the refuge subject to the following conditions:
+(e) *Havasu National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of mourning and white-winged dove, duck, American coot, common gallinule, goose, and snipe on designated areas of the refuge subject to the following conditions:
 
-(i) We allow shotguns, muzzleloaders, pistols, pneumatic guns, and archery equipment for hunting.
+(i) We prohibit falconry.
 
-(ii) You must remove all boats, equipment, cameras, temporary blinds, stands, etc., at the end of each day's activities (see § 27.93 of this chapter).
+(ii) We allow only shotguns, crossbows, and archery equipment for hunting.
 
-(iii) We allow the use of dogs when hunting.
+(iii) You must remove all decoys, boats, trash items, cameras, temporary blinds, stands, and other equipment at the end of each day's activities (see §§ 27.93 and 27.94 of this chapter).
 
-(iv) The following conditions apply to Pintail Slough (all refuge lands north of North Dike):
+(iv) We allow the use of dogs when hunting.
 
-(A) We prohibit falconry.
+(v) The following conditions apply to Pintail Slough (Quota Hunt Area):
+
+(A) We require a fee for Quota waterfowl hunting.
 
 (B) We limit the number of persons at each waterfowl hunt blind or field to four. Observers cannot hold shells or guns for hunting unless in possession of a valid State hunting license and stamps.
 
-(C) Waterfowl hunters must possess at least four decoys per designated blind or field.
+(C) Waterfowl hunters must hunt within the designated boundaries of their assigned blind or field.
 
-(D) You may use dead vegetation or materials for making or fixing hunt blinds.
+(D) You may use only native vegetation or materials for making or fixing hunt blinds.
 
 (E) We allow waterfowl hunting on Wednesdays, Saturdays, and Sundays. Waterfowl hunting ends at 2 p.m. MST (Mountain Standard Time). Hunters must be out of the Pintail Slough area by 3 p.m. MST.
 
-(2) *Upland game hunting.* We allow hunting of Gambel's quail and cottontail rabbit on designated areas of the refuge subject to the following conditions:
+(F) We allow dove hunting at the Pintail Slough Quota Hunt Area outside the general State waterfowl season.
 
-(i) The conditions set forth at paragraphs (e)(1)(i) through (iii) of this section apply.
+(2) *Upland game hunting.* We allow hunting of Gambel's quail, cottontail rabbit, Eurasian collared-dove, African collared-dove, black-tailed jackrabbit, bobcat, coyote, gray fox, and kit fox on designated areas of the refuge subject to the following conditions:
 
-(ii) We allow hunting of Gambel's quail and cottontail rabbit in Pintail Slough prior to and following the State waterfowl season.
+(i) The conditions set forth at paragraphs (e)(1)(i) through (iv) of this section apply, except that we also allow pneumatic weapons, muzzleloaders, and hand guns for upland game hunting.
 
-(iii) We allow the incidental take of quail and cottontail rabbit in Pintail Slough during the State waterfowl season by hunters possessing a valid permit at their designated waterfowl hunt blind or field.
+(ii) We prohibit night hunting from1/2 hour after legal sunset until1/2 hour before legal sunrise the following day.
 
-(3) *Big game hunting.* We allow hunting of desert bighorn sheep on designated areas of the refuge subject to the following conditions:
+(iii) We allow hunting of Gambel's quail, cottontail rabbit, Eurasian collared-dove, African collared-dove, black-tailed jackrabbit, bobcat, coyote, gray fox, and kit fox from September 1-March 15.
 
-(i) The conditions set forth at paragraphs (e)(1)(i) through (iii) of this section apply.
+(iv) We allow the incidental take of Gambel's quail, cottontail rabbit, Eurasian collared-dove, African collared-dove, black-tailed jackrabbit, bobcat, coyote, gray fox, and kit fox in the Pintail Slough Quota Hunt Area during the general State waterfowl season by hunters possessing a valid permit (FWS Form 3-2439) at their designated waterfowl hunt blind or field.
 
-(ii) We allow the possession of rifles for desert bighorn sheep hunting.
+(3) *Big game hunting.* We allow hunting of desert bighorn sheep and the incidental take of feral hog on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (e)(1)(i) and (iii) of this section apply.
+
+(ii) We allow only rifles for desert bighorn sheep hunting.
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
 
-(i) The condition set forth at paragraph (e)(1)(ii) of this section applies.
+(i) The condition set forth at paragraph (e)(1)(iii) of this section applies.
 
-(ii) We prohibit overnight boat mooring and shore anchoring unless actively fishing as governed by State regulations (see § 27.93 of this chapter).
+(ii) We prohibit overnight boat mooring and shore anchoring unless actively fishing, as governed by State regulations.
 
-(f) *Imperial National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning and white-winged dove, duck, coot, moorhen (gallinule), goose, and common snipe on designated areas of the refuge subject to the following conditions:
+(f) *Imperial National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of mourning and white-winged dove, duck, coot, moorhen (gallinule), goose, and common snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We allow shotgun, archery, and crossbow.
 
@@ -171,7 +187,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(h) *Leslie Canyon National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning, white-winged, and Eurasian collared-dove on designated areas of the refuge subject to the following conditions:
+(h) *Leslie Canyon National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of mourning, white-winged, and Eurasian collared-dove on designated areas of the refuge subject to the following conditions:
 
 (i) We prohibit falconry.
 
@@ -179,11 +195,15 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We prohibit pneumatic weapons.
 
+(iv) You must remove all equipment, cameras, temporary blinds, stands, etc., at the end of each day's activities (see § 27.93 of this chapter).
+
+(v) We allow Eurasian collared-dove hunting only during mourning and white-winged dove seasons.
+
 (2) *Upland game hunting.* We allow hunting of Gambel's and scaled quail; cottontail; black-tailed jackrabbit; gray fox; coati; badger; striped, hooded, spotted, and hog-nosed skunk; bobcat; raccoon; ring-tailed cat; and coyote on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (h)(1)(i) through (iii) of this section apply.
+(ii) We prohibit night hunting from1/2 hour after legal sunset until1/2 hour before legal sunrise the following day.
 
-(ii) We prohibit night hunting.
+(iii) We allow quail hunting during State seasons. For all other upland game species, we only allow hunting when a species season dates overlap with a general or archery State deer or javelina hunt season, except for youth-only seasons.
 
 (iii) We will allow hunting of these upland game species only when the State season dates overlap with a general or archery State deer and/or javelina hunt season.
 
@@ -191,11 +211,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The conditions set forth at paragraphs (h)(2)(i) and (ii) of this section apply.
 
-(ii) We will allow hunting of black bear only when the State season dates overlap with a general or archery State deer and/or javelina hunt season.
+(ii) We allow hunting of black bear only when the State season dates overlap with a general or archery State deer or javelina hunt season, except for youth-only seasons.
 
 (4) [Reserved]
 
-(i) *San Bernardino National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning and white-winged dove on designated areas of the refuge subject to the following condition: We allow the use of dogs while hunting.
+(i) *San Bernardino National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of mourning and white-winged dove on designated areas of the refuge subject to the following condition: We allow the use of dogs while hunting.
 
 (2) *Upland game hunting.* We allow hunting of Gambel's, scaled, and Mearns' quail and cottontail rabbit on designated areas of the refuge subject to the following conditions:
 
@@ -207,4 +227,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3)-(4) [Reserved]
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54104, Aug. 31, 2020]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54104, Aug. 31, 2020; 86 FR 48849, Aug. 31, 2021]

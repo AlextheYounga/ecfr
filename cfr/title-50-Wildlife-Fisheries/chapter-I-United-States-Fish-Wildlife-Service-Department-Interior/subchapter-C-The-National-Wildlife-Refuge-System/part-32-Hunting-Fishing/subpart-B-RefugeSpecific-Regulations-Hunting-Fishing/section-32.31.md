@@ -2,7 +2,7 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Bear Lake National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, and snipe on designated areas of the refuge subject to the following conditions:
+(a) *Bear Lake National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We allow boats, except air thrust boats, after September 20 within the designated refuge hunting areas, for the purposes of hunting.
 
@@ -14,17 +14,33 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following condition: We prohibit use and possession of lead weights or sinkers.
 
-(b) *Camas National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, and snipe on designated areas of the refuge subject to the following conditions:
+(b) *Camas National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, snipe, and dove on designated areas of the refuge subject to the following conditions:
 
 (i) We allow hunters to access the refuge 1 hour before legal shooting time.
 
 (ii) You may only use portable blinds or construct temporary blinds of natural vegetation. Blinds will be available for general use on a first-come, first-served basis. You must remove portable blinds, decoys, and other personal property at the end of each day's hunt (see § 27.93 of this chapter).
 
-(2) *Upland game hunting.* We allow hunting of pheasant, grouse, and partridge on designated areas of the refuge.
+(iii) We allow the use of dogs when hunting.
+
+(iv) You may take Eurasian collared-doves only during the State seasons for migratory birds and upland game birds.
+
+(2) *Upland game hunting.* We allow hunting of pheasant, grouse, and partridge on designated areas of the refuge subject to the following conditions:
+
+(i) The condition set forth at paragraph (b)(1)(iii) of this section applies.
+
+(ii) We allow hunters to access the refuge1/2 hour before legal shooting time.
+
+(iii) Hunters must wear a minimum of 36 square inches (232.3 square centimeters) of blaze orange, and a blaze orange head covering.
+
+(3) *Big game hunting.* We allow hunting of elk on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (b)(2)(ii) and (iii) of this section apply.
+
+(ii) You must carry a signed copy of the refuge hunting regulations and hunt map (signed brochure) in the field while hunting.
 
 (3)-(4) [Reserved]
 
-(c) *Deer Flat National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, common snipe, and dove on designated areas of the refuge subject to the following conditions:
+(c) *Deer Flat National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, common snipe, and dove on designated areas of the refuge subject to the following conditions:
 
 (i) Hunters in the South Side Recreation Area may use float tubes, nonmotorized boats, or boats equipped with electric motors within 200 yards (180 meters) of the shoreline. We prohibit the use or possession of gas-powered motors.
 
@@ -54,7 +70,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) From February 1 through June 30, we prohibit fishing from all islands in the Snake River Islands Unit.
 
-(d) *Grays Lake National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, and snipe on designated areas of the refuge subject to the following conditions:
+(d) *Grays Lake National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) Blinds will be available for general use on a first-come, first-served basis. You must remove portable blinds, decoys, boats, and other personal property from the refuge at the end of each day's hunt (see § 27.93 of this chapter).
 
@@ -62,7 +78,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2)-(4) [Reserved]
 
-(e) *Kootenai National Wildlife Refuge* -
+(e) *Kootenai National Wildlife Refuge*—
 (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We allow hunting only on Tuesdays, Thursdays, Saturdays, and Sundays.
@@ -89,9 +105,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) You may possess only approved nontoxic ammunition for hunting (see § 32.2(k)).
 
-(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: We allow bank fishing only.
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
-(f) *Minidoka National Wildlife Refuge* - (1)
+(i) We allow bank fishing only.
+
+(ii) We prohibit launching boats from, and landing boats on, the banks of Deep Creek.
+
+(f) *Minidoka National Wildlife Refuge*—(1)
 (1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, snipe, dove, and crow on designated areas of the refuge subject to the following conditions:
 
 (i) We allow only hunters and dogs to retrieve game in designated hunting areas.
@@ -108,4 +128,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54109, Aug. 31, 2020]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54109, Aug. 31, 2020; 86 FR 48858, Aug. 31, 2021]

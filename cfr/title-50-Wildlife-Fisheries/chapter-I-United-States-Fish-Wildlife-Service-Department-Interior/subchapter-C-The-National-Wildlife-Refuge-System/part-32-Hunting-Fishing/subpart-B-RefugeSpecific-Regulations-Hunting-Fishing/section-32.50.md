@@ -2,7 +2,7 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Bitter Lake National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose; duck; coot; mourning and white-winged dove; and sandhill crane on designated areas of the refuge subject to the following conditions:
+(a) *Bitter Lake National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose; duck; coot; mourning and white-winged dove; and sandhill crane on designated areas of the refuge subject to the following conditions:
 
 (i) We restrict hunting in the Middle Tract to the following times:
 
@@ -32,9 +32,9 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(b) *Bosque del Apache National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning dove, white-winged dove, and light goose on designated areas of the refuge subject to the following conditions:
+(b) *Bosque del Apache National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of mourning dove, white-winged dove, and light goose on designated areas of the refuge subject to the following conditions:
 
-(i) We allow hunting of light goose in the North Special Hunt Area on dates to be determined by refuge staff. Hunters must possess a permit available through a lottery drawing (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
+(i) We allow hunting of light goose in the North Special Hunt Area on dates to be determined by refuge staff. Hunters must possess a permit available through a lottery drawing (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System).
 
 (ii) Hunting hours for mourning and white-winged dove are from1/2 hour before legal sunrise to legal sunset. Hunting hours for light goose are from1/2 hour before legal sunrise to 12:00 p.m. (noon) Mountain Time.
 
@@ -56,9 +56,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The conditions set forth at paragraphs (b)(1)(vi) and (b)(2)(ii) of this section apply.
 
-(ii) We allow hunting of bearded Rio Grande turkey for youth hunters in the North Special Hunt Area and South Special Hunt Area during the State-established youth hunt and on weekends April through May during the State-established general spring turkey hunt. All hunters must fill out FWS Form 3-2439 (Hunt Application - National Wildlife Refuge System) and pay a fee. The permit is available through a lottery drawing. If selected, you must carry your refuge hunt permit (FWS Form 3-2439) at all times during the hunt.
+(ii) We allow hunting of bearded Rio Grande turkey for youth hunters in the North Special Hunt Area and South Special Hunt Area during the State-established youth hunt and on weekends April through May during the State-established general spring turkey hunt. All hunters must fill out FWS Form 3-2439 (Hunt Application—National Wildlife Refuge System) and pay a fee. The permit is available through a lottery drawing. If selected, you must carry your refuge hunt permit (FWS Form 3-2439) at all times during the hunt.
 
-(iii) We allow incidental take of feral hog by those legally licensed for, and participating in, other big game hunting activities. You may take feral hog only with a method allowed within each refuge hunt unit. We prohibit the use of dogs for this activity.
+(iii) We allow hunting of bearded Rio Grande turkey on the Bajada Hunt Unit, East Hunt Unit, and West Hunt Unit during the general spring turkey season only, as defined by the State. You may take bearded Rio Grande turkey only with a method allowed within each refuge hunt unit.
+
+(iv) We allow incidental take of feral hog by those legally licensed for, and participating in, other big game hunting activities. You may take feral hog only with a method allowed within each refuge hunt unit. We prohibit the use of dogs for this activity.
+
+(v) In the Bajada Hunt Unit, we restrict the methods of take to bow and arrow, crossbow, and muzzleloader or muzzleloading shotguns only, as defined by the State. In the East Hunt Unit and West Hunt Unit, we allow any legal weapon during State big game hunting designated dates.
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
 
@@ -70,19 +74,39 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We allow frogging for bullfrog on the refuge in areas that are open to fishing. We allow the use of hook and line, spears, gigs, and archery equipment to take bullfrog.
 
-(c) *Las Vegas National Wildlife Refuge* - (1) *Migratory Game Bird Hunting.* We allow hunting of mourning dove and goose on designated areas of the refuge subject to the following conditions:
+(c) *Las Vegas National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of mourning and white-winged dove and goose on designated areas of the refuge subject to the following conditions:
 
-(i) You must possess and carry a refuge hunt permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
+(i) We allow the use of dogs when hunting.
 
-(ii) We allow the use of dogs when hunting.
+(ii) Hunters must possess a permit (FWS Form 3-2439).
 
-(iii) We allow hunting of goose on dates to be determined by refuge staff. Hunters must possess a permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
+(iii) We allow the hunting of dove from September 1 to September 30.
 
-(iv) Shooting hours for geese are from1/2 hour before legal sunrise to 1 p.m. local time.
+(iv) We allow the hunting of goose on dates to be determined by refuge staff.
 
-(v) We assign a bag limit for both light goose and Canada goose.
+(v) Shooting hours for geese are from1/2 hour before legal sunrise until 1 p.m. local time.
 
-(2) - (4) [Reserved]
+(vi) We assign an aggregate bag limit for geese.
+
+(vii) We prohibit falconry on the refuge.
+
+(2) *Upland game hunting.* We allow hunting of Eurasian collared-dove, desert cottontail, and Eastern cottontail on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (c)(1)(i), (ii), and (vii) of this section apply.
+
+(ii) We allow the hunting of Eurasian collared-dove and cottontail rabbits from September 1 to September 30.
+
+(iii) We allow only shotgun, muzzleloading shotgun firing shot, bow and arrow, and crossbow for hunting.
+
+(3) *Big game hunting.* We allow youth elk hunts on designated areas of the refuge subject to the following conditions:
+
+(i) Hunters must attend a refuge hunter orientation before hunting on the refuge.
+
+(ii) Hunters may be accompanied by a maximum of two non-hunting guests.
+
+(iii) Hunters are assigned a hunt unit.
+
+(4) [Reserved]
 
 (d) *Maxwell National Wildlife Refuge.* (1)-(3) [Reserved]
 
@@ -102,7 +126,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(f) *Sevilleta National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning dove, white-winged dove, goose, duck, and coot on designated areas of the refuge subject to the following conditions:
+(f) *Sevilleta National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of mourning dove, white-winged dove, goose, duck, and coot on designated areas of the refuge subject to the following conditions:
 
 (i) In Units A and B, legal hunting hours begin from1/2 hour before legal sunrise and will not extend past 1 p.m. on each hunt day. Hunters may access Units A and B from 1 hour before legal sunrise until 1 hour after legal sunset.
 
@@ -110,7 +134,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We allow the use of dogs when hunting.
 
-(iv) At Unit A, in the Cornerstone Marsh Unit, we give priority use to disabled hunters (per Mobility-Impaired Certification in the State Hunting Rules and Information pamphlet).
+(iv) In Units A and B, the Cornerstone Marsh Unit and Pintail blind, we require a Mobility-Impaired Certification (per Mobility-Impaired Certification in the State hunting rules and information pamphlet).
 
 (2) *Upland game hunting.* We allow hunting of Gambel's quail and Eurasian collared-dove on designated areas of the refuge subject to the following conditions:
 
@@ -124,4 +148,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3)-(4) [Reserved]
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54127, Aug. 31, 2020]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54127, Aug. 31, 2020; 86 FR 48872, Aug. 31, 2021]

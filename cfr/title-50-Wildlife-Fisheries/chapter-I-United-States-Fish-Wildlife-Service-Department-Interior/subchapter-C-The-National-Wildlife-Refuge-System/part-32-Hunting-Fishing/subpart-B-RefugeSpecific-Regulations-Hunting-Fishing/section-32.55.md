@@ -2,9 +2,9 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Deep Fork National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, dark geese, merganser, and coot on designated areas of the refuge subject to the following conditions:
+(a) *Deep Fork National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, dark geese, merganser, and coot on designated areas of the refuge subject to the following conditions:
 
-(i) You must possess and carry a signed refuge hunt tearsheet (signed brochure).
+(i) You must possess and carry a signed refuge hunt brochure.
 
 (ii) We allow waterfowl hunting on Fridays, Saturdays, Sundays, and Mondays, from1/2 hour before legal sunrise until 1 p.m.
 
@@ -22,7 +22,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer, wild turkey, and feral hog on designated areas of the refuge subject to the following conditions:
 
-(i) You must possess and carry a signed refuge tearsheet (signed brochure) for the archery deer hunt. Hunters must turn in a Big Game Harvest Report (FWS Form 3-2359) by December 31 annually. Failure to submit the report will render the hunter ineligible for the next year's limited season archery deer hunt.
+(i) You must possess and carry a signed refuge hunt brochure for the archery deer hunt. Hunters must turn in a Harvest Report (FWS Form 3-2542) by December 31 annually. Failure to submit the report will render the hunter ineligible for the next year's limited season archery deer hunt.
 
 (ii) We will offer a limited season archery deer hunt following the controlled deer hunt.
 
@@ -40,13 +40,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We allow the use of trotlines, juglines, limblines, and yo-yos only in the Deep Fork River; we prohibit their use in any other areas on the refuge.
 
-(b) *Little River National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck on designated areas of the refuge subject to the following conditions:
+(b) *Little River National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck on designated areas of the refuge subject to the following conditions:
 
 (i) You may only use portable blinds. You must remove blinds, decoys, and all personal equipment from the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
 (ii) You may hunt from1/2 hour before legal sunrise until 12 p.m. (noon) each day.
 
-(iii) You must possess and carry a signed refuge tearsheet (signed brochure) while hunting.
+(iii) You must possess and carry a signed refuge hunt brochure while hunting.
 
 (iv) We close the refuge to duck hunting during controlled deer hunts.
 
@@ -56,7 +56,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We open rabbit season from October 1 through the Friday before the State deer muzzleloader season. We reopen rabbit season on the Monday after the last refuge controlled deer hunt through January 31.
 
-(iii) You may take take beaver, raccoon, and coyote as incidental take to any daytime established refuge hunt with legal weapons and a signed hunt tearsheet for the current hunt season.
+(iii) You may take beaver, raccoon, and coyote as incidental take to any daytime established refuge hunt with legal weapons and a signed hunt brochure for the current hunt season.
 
 (iv) Hunters may only hunt upland game during designated refuge seasons.
 
@@ -74,13 +74,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) Shotgun hunters may only possess approved nontoxic shot (see § 32.2(k)) while in the field while hunting turkey.
 
-(vi) You may hunt feral hog during any established refuge hunting season. Refuge signed tearsheet (signed brochure) and legal weapons apply for the current hunting season.
+(vi) You may hunt feral hog during any established refuge hunting season. Signed refuge hunt brochure and legal weapons apply for the current hunting season.
 
 (vii) Hunters may only hunt big game during designated refuge seasons.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(c) *Optima National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning dove on designated areas of the refuge.
+(c) *Optima National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of mourning dove on designated areas of the refuge.
 
 (2) *Upland game hunting.* We allow hunting of ring-necked pheasant, bobwhite and scaled quail, cottontail rabbit, and jackrabbit on the refuge subject to the following condition: We allow only shotguns for upland game hunting.
 
@@ -96,7 +96,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2) *Upland game hunting.* We allow hunting of cottontail rabbit and gray and fox squirrel on designated areas of the refuge subject to the following conditions:
 
-(i) You must possess and carry a signed refuge tearsheet (signed brochure).
+(i) You must possess and carry a signed refuge hunt brochure.
 
 (ii) We prohibit falconry.
 
@@ -114,7 +114,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(e) *Salt Plains National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, American coot, sandhill crane, mourning dove, white-winged dove, Eurasian collared dove, and rock dove on designated areas of the refuge subject to the following conditions:
+(e) *Salt Plains National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, American coot, sandhill crane, mourning dove, white-winged dove, Eurasian collared dove, and rock dove on designated areas of the refuge subject to the following conditions:
 
 (i) We allow hunting from1/2 hour before legal sunrise until 12 p.m. (noon).
 
@@ -150,29 +150,27 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (C) We restrict Bonham Pond to catch-and-release fishing only.
 
-(f) *Sequoyah National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, mourning dove, American coot, snipe, and woodcock on designated areas of the refuge subject to the following conditions:
+(f) *Sequoyah National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, mourning dove, American coot, snipe, and woodcock on designated areas of the refuge subject to the following conditions:
 
-(i) You must possess and carry a signed refuge hunt tearsheet (signed brochure).
+(i) You must possess and carry a signed refuge hunt brochure.
 
-(ii) We open the refuge to hunting only on Saturdays, Sundays, Mondays, and Tuesdays. We prohibit hunters from entering the land portion of the Sandtown Bottom Unit or any portion of Sally Jones Lake before 5 a.m. Hunters must leave the area by 1 hour after legal sunset.
+(ii) We open the refuge to hunting only on Saturdays, Sundays, Mondays, and Tuesdays. We allow hunters to enter the Sandtown Bottom Unit or any portion of Sally Jones Lake beginning at 5 a.m., and hunters must leave the area by 1 hour after legal sunset.
 
 (iii) We prohibit hunting or shooting within 50 feet (15 meters) of designated roads or parking areas.
 
-(iv) Season lengths and bag limits will be governed by State regulations with the exception that all hunting, except for the conservation light goose season, will close on January 31 of each year. If a conservation light goose season is in effect, State regulations apply with the exception of special hunting days.
+(iv) You must remove stands, blinds, boats, and other personal property from the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
-(v) You must remove stands, blinds, boats, and other personal property from the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
-
-(vi) We prohibit hunters from using refuge boat ramps to access hunting areas outside the refuge boundary:
+(v) We prohibit hunters from using refuge boat ramps to access hunting areas outside the refuge boundary:
 
 (A) On days when we close the refuge to hunting for certain species; and/or
 
 (B) When hunting species that we do not allow to be hunted on the refuge.
 
-(vii) We restrict the use of airboats within the refuge boundary to the navigation channel and the designated hunting areas from September 1 through March 31.
+(vi) We restrict the use of airboats within the refuge boundary to the navigation channel and the designated hunting areas from September 1 through March 31.
 
-(2) *Upland game hunting.* We allow hunting of eastern gray and fox squirrel and swamp and eastern cottontail rabbit on designated areas of the refuge subject to the following conditions:
+(2) *Upland game hunting.* We allow hunting of Eastern gray and fox squirrel and swamp and Eastern cottontail rabbit on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (f)(1)(i) through (iii) and (v) through (vii) of this section apply.
+(i) The conditions set forth at paragraphs (f)(1)(i) through (vi) of this section apply.
 
 (ii) Season lengths and bag limits will be governed by State regulations with the exception that all upland game hunting will close on January 31 of each year.
 
@@ -182,9 +180,9 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer, wild turkey, and feral hog on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (f)(1)(i) through (iii) and (v) through (vii) of this section apply.
+(i) The conditions set forth at paragraphs (f)(1)(i) through (iii) and (vi) of this section apply.
 
-(ii) We require a limited hunt permit (State-issued) for controlled hunts for archery deer, and for spring wild turkey hunts.
+(ii) We require a limited hunt permit (State-issued) for controlled hunts for muzzleloader and archery deer, and for spring wild turkey hunts.
 
 (iii) Hunters must apply to the State-controlled deer hunt drawing administered by the Oklahoma Department of Wildlife Conservation for selection. You must attend a pre-hunt briefing.
 
@@ -192,17 +190,21 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow fishing and frogging on designated areas of the refuge subject to the following conditions:
 
-(i) We prohibit fishing or frogging from September 1 through March 31 in the closed zone south of refuge headquarters, as designated by buoys and signs.
+(i) We prohibit fishing or frogging from September 1 through March 31 in the waterfowl sanctuary south of refuge headquarters, as designated by buoys and signs.
 
-(ii) You must remove trotlines from the closed zone before September 1 (see § 27.93 of this chapter).
+(ii) You must remove setlines (trotlines, throwlines, juglines, limblines, yo-yos) from the waterfowl sanctuary before September 1 (see § 27.93 of this chapter).
 
 (iii) The conditions set forth at paragraphs (f)(1)(v) and (vii) of this section apply.
 
-(g) *Tishomingo National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow the hunting of duck, teal, light geese, dark geese, snipe, gallinule, American coot, and merganser on designated areas of the refuge subject to the following conditions:
+(iv) We prohibit the take of reptiles, amphibians (except bullfrogs), mollusks, and crayfish (see § 27.21 of this chapter).
+
+(v) We prohibit the use of setlines in creeks and tributaries entering the Arkansas River or Canadian River on the refuge.
+
+(g) *Tishomingo National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow the hunting of duck, teal, light geese, dark geese, snipe, gallinule, American coot, and merganser on designated areas of the refuge subject to the following conditions:
 
 (i) We allow the hunting of migratory birds every day, but waterfowl hunters must be off the unit by 1 p.m.
 
-(ii) Hunters must possess and carry a signed hunt tearsheet (signed brochure).
+(ii) Hunters must possess and carry a signed hunt brochure.
 
 (iii) We require the hunters to self-check-in and self-check-out.
 
@@ -224,7 +226,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) Anglers may bank and wade fish with pole and line or rod and reel year-round.
 
-(ii) Anglers may use boats from March 1 through September 30 in designated waters unless otherwise specified on the fishing tearsheet.
+(ii) Anglers may use boats from March 1 through September 30 in designated waters unless otherwise specified on the fishing brochure.
 
 (iii) Anglers may “no-wake” boat fish during the boating season with line and pole or rod and reel, except in areas designated as sanctuary zones.
 
@@ -242,7 +244,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (x) We prohibit the take of frog, turtle, or mussel (see § 27.21 of this chapter).
 
-(h) *Tishomingo Wildlife Management Unit* - (1) *Migratory game bird hunting.* We allow hunting of mourning dove and waterfowl on the Tishomingo Wildlife Management Unit of Tishomingo National Wildlife Refuge.
+(h) *Tishomingo Wildlife Management Unit*—(1) *Migratory game bird hunting.* We allow hunting of mourning dove and waterfowl on the Tishomingo Wildlife Management Unit of Tishomingo National Wildlife Refuge.
 
 (2) *Upland game hunting.* We allow hunting of quail, squirrel, turkey, and rabbit on the Tishomingo Wildlife Management Unit of Tishomingo National Wildlife Refuge.
 
@@ -250,9 +252,9 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on the Tishomingo Wildlife Management Unit of Tishomingo National Wildlife Refuge.
 
-(i) *Washita National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, merganser, sandhill crane, mourning, white-winged, and Eurasian collared-dove on designated areas of the refuge subject to the following conditions:
+(i) *Washita National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, merganser, sandhill crane, mourning, white-winged, and Eurasian collared-dove on designated areas of the refuge subject to the following conditions:
 
-(i) We require hunters to carry a signed tearsheet (signed brochure) while hunting duck, goose, merganser, and sandhill crane.
+(i) We require hunters to carry a signed refuge hunt brochure while hunting duck, goose, merganser, and sandhill crane.
 
 (ii) Duck, goose, merganser, and sandhill crane hunters must hunt only in designated fields on specified days at specified hours.
 
@@ -278,9 +280,9 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) Anglers may bank fish year-round in the Washita River and Foss Reservoir from open areas.
 
-(j) *Wichita Mountains National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, merganser, and coot on designated portions of the refuge subject to the following conditions:
+(j) *Wichita Mountains National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, merganser, and coot on designated portions of the refuge subject to the following conditions:
 
-(i) Hunters must possess a current signed refuge hunting tearsheet (signed brochure) while hunting on the refuge.
+(i) Hunters must possess a current signed refuge hunt brochure while hunting on the refuge.
 
 (ii) We prohibit waterfowl hunting during the refuge controlled elk and deer hunts.
 
@@ -330,6 +332,14 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) Anglers may use motorized boats on Elmer Thomas Lake; however, we enforce a no-wake rule on the lake.
 
-(iv) We allow fishing after legal sunset on the refuge, but we prohibit all other boating after legal sunset.
+(iv) Anglers may use hand-powered boats or boats 14 feet or less in length with an electric trolling motor only on Elmer Thomas, Jed Johnson, Rush, Quanah Parker, and French Lakes.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54137, Aug. 31, 2020]
+(v) We allow fishing after legal sunset on the refuge including by boat, but we prohibit all other boating after legal sunset.
+
+(vi) We prohibit fishing from public roadways and bridges opened to motorized vehicles.
+
+(vii) We allow wading when fishing, provided that wading anglers must use tube-type floaters, life jackets, or buoyant vests.
+
+(viii) We close Kiowa Lake to fishing except for shoreline fishing associated with a U.S. Fish and Wildlife Service-sponsored aquatic education program.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54137, Aug. 31, 2020; 86 FR 48874, Aug. 31, 2021]

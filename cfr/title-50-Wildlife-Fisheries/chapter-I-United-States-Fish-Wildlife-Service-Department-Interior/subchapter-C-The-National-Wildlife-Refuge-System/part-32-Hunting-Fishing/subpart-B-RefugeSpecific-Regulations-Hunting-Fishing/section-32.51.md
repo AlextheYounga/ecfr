@@ -24,7 +24,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (D) We require a refuge hunt permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
 
-(E) We allow hunting from legal starting time until 12 p.m. (noon). We require hunters to return a completed Migratory Bird Hunt Report (FWS Form 3-2361) no later than 1 p.m. on the day of the hunt.
+(E) We allow hunting from legal starting time until 12 p.m. (noon). We require hunters to return a completed Harvest Report (FWS Form 3-2542) no later than 1 p.m. on the day of the hunt.
 
 (F) Hunters must remain in designated hunting areas, unless actively pursuing downed or crippled birds.
 
@@ -58,35 +58,35 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) We allow the use of dogs consistent with State regulations.
 
-(ii) For the regular waterfowl season:
+(ii) For the regular waterfowl season and October through January season for Canada goose:
 
-(A) We require daily refuge permits (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) and reservations; we issue permits to hunters with a reservation for that hunt day. We require you to complete and return your permit by the end of the hunt day.
+(A) We require daily refuge permits (FWS Form 3-2542) and reservations; we issue permits to hunters with a reservation for that hunt day. Permits may become available on a first-come/first-served, self-serve basis during New York State's second split, subject to hunting conditions and the refuge manager's discretion. We require you to complete and return your permit by the end of the hunt day.
 
-(B) We allow hunting only on Tuesdays, Thursdays, and Saturdays during the established refuge season set within the State western zone season. We allow a youth waterfowl hunt during New York State's established youth waterfowl hunt each year.
+(B) We allow hunting only on Tuesdays, Thursdays, and Saturdays during the established refuge season set within the State western zone season, and during New York State's established special hunts, which can occur any day of the week as set by the State.
 
 (C) All hunters with reservations and their hunting companions must check-in at the Route 89 Hunter Check Station area at least 1 hour before legal shooting time or forfeit their reservation.
 
-(D) We allow motorless boats to hunt waterfowl. We limit hunters to one boat per reservation and one motor vehicle in the hunt area per reservation.
+(D) We allow motorless boats to hunt waterfowl. We limit hunters to one boat per reservation and one motor vehicle in the hunt area per reservation. Hunters may enter the refuge/Hunter Check Station area no earlier than 2 hours before legal sunrise.
 
-(E) We prohibit shooting from within 500 feet (152.4 meters) of the Tschache Pool observation tower.
+(E) We prohibit shooting from within 500 feet (152 meters) of the Tschache Pool observation tower.
 
 (F) We require proof of successful completion of the New York State waterfowl identification course, the Montezuma nonresident waterfowl identification course, or a suitable nonresident State waterfowl identification course. All hunters must show proof of successful course completion each time they hunt.
 
-(G) You may hunt gallinule only during the regular waterfowl season.
+(G) You may hunt gallinule and Canada goose on refuge areas designated for the regular waterfowl season only during the regular waterfowl season.
 
-(iii) For Canada goose and snow goose hunting:
+(iii) For Canada goose in September and snow goose hunting:
 
-(A) We allow hunting of Canada goose during the New York State September season and of snow goose during portions of the New York State snow goose season and portions of the period covered by the Light Goose Conservation Order.
+(A) We allow hunting of Canada goose during the New York State September season and hunting of snow goose during portions of the New York State snow goose season and portions of the period covered by the Light Goose Conservation Order.
 
-(B) You must possess a valid daily hunt permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System). We require you to complete and return the daily hunt permit card by the end of the hunt day.
+(B) You must possess a valid daily hunt permit (FWS Form 3-2542). We require you to complete and return the daily hunt permit card by the end of the hunt day.
 
-(C) For snow goose hunting, hunters may enter the refuge no earlier than 4 hours before legal sunrise. For Canada goose hunting, hunters may enter the refuge no earlier than 2 hours before legal sunrise.
+(C) For snow goose hunting, hunters may enter the refuge/Hunter Check Station area no earlier than 4 hours before legal sunrise. For Canada goose hunting, hunters may enter the refuge/Hunter Check Station area no earlier than 2 hours before legal sunrise.
 
 (2) *Upland game hunting.* We allow hunting of rabbit and squirrel on designated areas of the refuge subject to the following conditions:
 
 (i) The condition set forth at paragraph (d)(1)(i) of this section applies.
 
-(ii) You must possess a valid daily hunt permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) and are required to complete and return the daily hunt permit card by the end of each hunt day.
+(ii) You must possess a valid daily hunt permit (FWS Form 3-2542) and are required to complete and return the daily hunt permit card by the end of each hunt day.
 
 (iii) We allow upland game hunters to access the refuge from 2 hours before legal sunrise until 2 hours after legal sunset.
 
@@ -96,7 +96,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The condition set forth at paragraph (d)(1)(i) of this section applies.
 
-(ii) You must possess a valid daily hunt permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System). We require you to complete and return the daily hunt permit card by the end of the hunt day.
+(ii) You must possess a valid daily hunt permit (FWS Form 3-2542). We require you to complete and return the daily hunt permit card by the end of the hunt day.
 
 (iii) We allow white-tailed deer and turkey hunters to access the refuge from 2 hours before legal sunrise until 2 hours after the end of legal shooting time.
 
@@ -144,11 +144,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We allow the use of dogs consistent with State regulations.
 
-(2) *Upland game hunting.* We allow hunting of rabbit/hare, gray/black/fox squirrel, pheasant, bobwhite quail, ruffed grouse, crow, red/gray fox, coyote, bobcat, raccoon, skunk, mink, weasel, and opossum on designated areas of the refuge subject to the following conditions:
+(2) *Upland game hunting.* We allow hunting of rabbit/hare, gray/black/fox squirrel, pheasant, jackrabbit, chukar, woodchuck, bobwhite quail, ruffed grouse, crow, red/gray fox, coyote, bobcat, raccoon, skunk, mink, weasel, and opossum on designated areas of the refuge subject to the following conditions:
 
 (i) The conditions set forth at paragraphs (i)(1)(i) through (iii) of this section apply.
 
-(ii) We allow hunting from legal sunrise to legal sunset.
+(ii) We prohibit night hunting from1/2 hour after legal sunset until1/2 hour before legal sunrise the following day.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer, bear, and wild turkey on designated areas of the refuge subject to the following conditions:
 
@@ -156,15 +156,17 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
 
+(iii) We require nontoxic ammunition while hunting turkey.
+
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
-(i) We open Owens Station Crossing for catch-and-release fishing only.
+(i) At Owens Station Crossing and Hidden Ponds fishing areas, we allow catch-and-release fishing only.
 
 (ii) We allow fishing from1/2 hour before legal sunrise to1/2 hour after legal sunset.
 
-(iii) We prohibit the taking of amphibians and reptiles.
+(iii) We prohibit the taking of amphibians and reptiles (see § 27.21 of this chapter).
 
-(iv) We prohibit minnow/bait trapping.
+(iv) We prohibit minnow and bait trapping.
 
 (j) *Wertheim National Wildlife Refuge.* (1)-(2) [Reserved]
 
@@ -186,4 +188,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We prohibit the taking of baitfish and frogs.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54128, Aug. 31, 2020]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54128, Aug. 31, 2020; 86 FR 48873, Aug. 31, 2021]

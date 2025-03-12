@@ -1,5 +1,7 @@
 ##### § 571.119 Standard No. 119; New pneumatic tires for motor vehicles with a GVWR of more than 4,536 kilograms (10,000 pounds) and motorcycles. #####
 
+Link to an amendment published at 86 FR 48543, Aug. 31, 2021.
+
 *S1. Scope.* This standard establishes performance and marking requirements for tires for use on motor vehicles with a GVWR of more than 10,000 pounds and motorcycles.
 
 *S2. Purpose.* The purpose of this standard is to provide safe operational performance levels for tires used on motor vehicles with a GVWR of more than 10,000 pounds, trailers, and motorcycles, and to place sufficient information on the tires to permit their proper selection and use.

@@ -2,11 +2,11 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Bombay Hook National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
+(a) *Bombay Hook National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
 
-(i) We require a refuge permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) for waterfowl hunting.
+(i) We require a refuge permit (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System) for waterfowl hunting.
 
-(ii) You must complete and return a Migratory Bird Hunt Report (FWS Form 3-2361), available at the refuge administration office or on the refuge's website, within 15 days of the close of the season.
+(ii) You must complete and return a Harvest Report (FWS Form 3-2542), available at the refuge administration office or on the refuge's website, within 15 days of the close of the season.
 
 (iii) We allow the use of dogs consistent with State regulations.
 
@@ -14,17 +14,17 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3) *Big game hunting.* We allow hunting of turkey and deer on designated areas of the refuge subject to the following conditions:
 
-(i) We require a refuge permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
+(i) We require a refuge permit (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System).
 
-(ii) Hunting on the headquarters deer hunt area will be by lottery. You must obtain and possess a refuge permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) from the refuge office or website and have the permit in your possession while hunting.
+(ii) Hunting on the headquarters deer hunt area will be by lottery. You must obtain and possess a refuge permit (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System) from the refuge office or website and have the permit in your possession while hunting.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: We prohibit the use of lead fishing tackle on the refuge.
 
-(b) *Prime Hook National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow the hunting of waterfowl, coot, mourning dove, snipe, and woodcock on designated areas of the refuge subject to the following conditions:
+(b) *Prime Hook National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow the hunting of waterfowl, coot, mourning dove, snipe, and woodcock on designated areas of the refuge subject to the following conditions:
 
-(i) You must obtain and possess a refuge permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) from the refuge office or website and have the permit in your possession while hunting.
+(i) You must obtain and possess a refuge permit (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System) from the refuge office or website and have the permit in your possession while hunting.
 
-(ii) You must complete and return a Migratory Bird Hunt Report (FWS Form 3-2361), available at the refuge administration office or on the refuge's website, within 15 days of the close of the season.
+(ii) You must complete and return a Harvest Report (FWS Form 3-2542), available at the refuge administration office or on the refuge's website, within 15 days of the close of the season.
 
 (iii) We allow State certified hunters with disabilities hunting privileges in the Disabled Waterfowl Draw Area subject to the following condition: We do not allow assistants to enter a designated disabled hunting area unless they are accompanied by a certified disabled hunter.
 
@@ -48,4 +48,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) You must remove all personal property at the end of each day's fishing activity (see §§ 27.93 and 27.94 of this chapter).
 
-[85 FR 54106, Aug. 31, 2020]
+[85 FR 54106, Aug. 31, 2020, as amended at 86 FR 48857, Aug. 31, 2021]

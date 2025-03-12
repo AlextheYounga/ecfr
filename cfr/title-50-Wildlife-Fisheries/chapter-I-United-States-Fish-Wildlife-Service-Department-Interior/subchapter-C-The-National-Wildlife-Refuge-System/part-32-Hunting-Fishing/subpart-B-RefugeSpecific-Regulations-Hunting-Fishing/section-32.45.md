@@ -64,13 +64,15 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2) *Upland game hunting.* We allow hunting of upland game birds, turkey, and coyote on designated areas of the refuge subject to the following condition: We allow coyote hunting from the first day of antelope rifle season through March 1 annually.
 
-(3) *Big game hunting.* We allow hunting of big game on designated areas of the refuge subject to the following conditions:
+(3) *Big game hunting.* We allow hunting of elk, pronghorn, white-tailed deer, mule deer, and mountain lion on designated areas of the refuge subject to the following conditions:
 
 (i) We allow the use of portable blinds and stands.
 
 (ii) We limit each hunter to three stands or blinds. The hunter must have their automated licensing system (ALS) number visibly marked on the stand(s) or blind(s).
 
 (iii) You may install portable stands and blinds no sooner than August 1, and you must remove them by December 15 of each year (see § 27.93 of this chapter).
+
+(iv) Mountain lion hunting will follow State-established dates for the archery-only and fall seasons.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
@@ -204,15 +206,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(q) *National Bison Range.* (1)-(3) [Reserved]
-
-(4) *Sport fishing.* We allow sport fishing on designated areas of the National Bison Range as governed by joint State and Confederated Salish and Kootenai Tribal regulations for non-members and Confederated Salish and Kootenai Tribal regulations for members of the Confederated Salish and Kootenai Tribe subject to the following condition: We prohibit the use of lead or lead-based lures or sinkers.
-
-(r) *Ninepipe National Wildlife Refuge.* (1)-(3) [Reserved]
+(q) *Ninepipe National Wildlife Refuge.* (1)-(3) [Reserved]
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge as governed by joint State and Confederated Salish and Kootenai Tribal regulations for non-members and Confederated Salish and Kootenai Tribal regulations for members of the Confederated Salish and Kootenai Tribe subject to the following condition: We prohibit the use of lead or lead-based tackle.
 
-(s) *Northeast Montana Wetland Management District* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction at the end of each day (see §§ 27.93 and 27.94 of this chapter).
+(r) *Northeast Montana Wetland Management District* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction at the end of each day (see §§ 27.93 and 27.94 of this chapter).
 
 (2) *Upland game hunting.* We allow upland game hunting on designated areas of the district.
 
@@ -224,7 +222,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(t) *Northwest Montana Wetland Management District* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district as governed by State law (Flathead County waterfowl production areas (WPAs)) and joint State and Confederated Salish and Kootenai Tribal regulations for non-members and Confederated Salish and Kootenai Tribal regulations for members of the Confederated Salish and Kootenai Tribe (Lake County WPAs), subject to the following conditions:
+(s) *Northwest Montana Wetland Management District* - (1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the district as governed by State law (Flathead County waterfowl production areas (WPAs)) and joint State and Confederated Salish and Kootenai Tribal regulations for non-members and Confederated Salish and Kootenai Tribal regulations for members of the Confederated Salish and Kootenai Tribe (Lake County WPAs), subject to the following conditions:
 
 (i) Hunters must remove all boats, decoys, portable blinds (including those made of native materials), boat blinds, and all other personal property at the end of each day (see §§ 27.93 and 27.94 of this chapter).
 
@@ -248,11 +246,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on all WPAs throughout the district as governed by State law (Flathead County WPAs) and joint State and Confederated Salish and Kootenai Tribal regulations for non-members and Confederated Salish and Kootenai Tribal regulations for members of the Confederated Salish and Kootenai Tribe (Lake County WPAs).
 
-(u) *Pablo National Wildlife Refuge.* (1)-(3) [Reserved]
+(t) *Pablo National Wildlife Refuge.* (1)-(3) [Reserved]
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge as governed by joint State and Confederated Salish and Kootenai Tribal regulations for non-members and Confederated Salish and Kootenai Tribal regulations for members of the Confederated Salish and Kootenai Tribe subject to the following condition: We prohibit the use of lead or lead-based lures or sinkers.
 
-(v) *Red Rock Lakes National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following conditions:
+(u) *Red Rock Lakes National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following conditions:
 
 (i) Hunters must remove all blinds, decoys, shell casings, and other personal equipment from the refuge each day (see §§ 27.93 and 27.94 of this chapter).
 
@@ -280,7 +278,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We prohibit the use or possession of lead sinkers or any lead fishing product while fishing.
 
-(w) *Swan River National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge.
+(v) *Swan River National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge.
 
 (2) [Reserved]
 
@@ -296,11 +294,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(x) *UL Bend National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge.
+(w) *UL Bend National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge.
 
 (2) *Upland game hunting.* We allow hunting of upland game birds and coyote on designated areas of the refuge subject to the following condition: We allow coyote hunting from the first day of antelope rifle season through March 1 annually.
 
-(3) *Big game hunting.* We allow hunting of big game on designated areas of the refuge subject to the following conditions:
+(3) *Big game hunting.* We allow hunting of elk, pronghorn, white-tailed deer, mule deer, and mountain lion on designated areas of the refuge subject to the following conditions:
 
 (i) We allow the use of portable blinds and stands.
 
@@ -308,9 +306,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) You may install portable stands and blinds no sooner than August 1, and you must remove them by December 15 of each year (see § 27.93 of this chapter).
 
+(iv) Mountain lion hunting will follow State-established dates for the archery-only and fall seasons.
+
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(y) *War Horse National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge.
+(x) *War Horse National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge.
 
 (2) *Upland game hunting.* We allow hunting of upland game birds on designated areas of the refuge.
 
@@ -318,4 +318,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54124, Aug. 31, 2020]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54124, Aug. 31, 2020; 86 FR 48871, Aug. 31, 2021]

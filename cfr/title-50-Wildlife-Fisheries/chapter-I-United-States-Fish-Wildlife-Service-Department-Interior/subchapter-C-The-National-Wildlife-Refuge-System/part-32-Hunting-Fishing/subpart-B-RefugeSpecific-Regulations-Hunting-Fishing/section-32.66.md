@@ -118,7 +118,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We require hunters to attend a refuge-specific orientation session each year prior to hunting on the refuge.
 
-(v) We require hunters to sign in and out each day at the refuge headquarters. When signing out for the day, you must report hunting success or failure, and any hit-but-not-retrieved animals on the Big Game Harvest Report (FWS Form 3-2359).
+(v) We require hunters to sign in and out each day at the refuge headquarters. When signing out for the day, you must report hunting success or failure, and any hit-but-not-retrieved animals on the Harvest Report (FWS Form 3-2542).
 
 (vi) Additional persons may assist hunters during elk retrieval only. No more than one unlicensed person may assist each licensed hunter during the hunt or during elk retrieval.
 
@@ -184,7 +184,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We allow hunting on designated portions of the River “S” Unit on Tuesdays, Thursdays, and Saturdays, excluding Federal holidays, during the regular State waterfowl hunting season.
 
-(iv) Prior to entering the hunt area, you must check in at the refuge check station, and obtain a Migratory Bird Hunt Report (FWS Form 3-2361). You must carry the Migratory Bird Hunt Report while hunting as proof of blind assignment and user fee payment.
+(iv) Prior to entering the hunt area, you must check in at the refuge check station, and obtain a Harvest Report (FWS Form 3-2542). You must carry the Harvest Report while hunting as proof of blind assignment and user fee payment.
 
 (v) We allow access to the refuge check station 2 hours before legal shooting time. We require hunters to depart the refuge no later than 1 hour after legal shooting time.
 
@@ -196,9 +196,9 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ix) We allow the use of dogs when hunting.
 
-(x) Prior to switching blinds, you must first report to the refuge check station to obtain a new blind assignment. You must submit an accurate Migratory Bird Hunt Report (FWS Form 3-2361) for the blind being vacated, and obtain a new Migratory Bird Hunt Report for the new blind.
+(x) Prior to switching blinds, you must first report to the refuge check station to obtain a new blind assignment. You must submit an accurate Harvest Report (FWS Form 3-2542) for the blind being vacated, and obtain a new Harvest Report for the new blind.
 
-(xi) Prior to leaving the hunt area, you must check out at the refuge check station, submit an accurate Migratory Bird Hunt Report (FWS Form 3-2361), and present all harvested birds for inspection by check station personnel.
+(xi) Prior to leaving the hunt area, you must check out at the refuge check station, submit an accurate Harvest Report (FWS Form 3-2542), and present all harvested birds for inspection by check station personnel.
 
 (xii) We reserve Blind 1A for exclusive use by hunters with permanent disabilities who qualify for a valid State Disabled Hunter Permit or America the Beautiful access pass, and their nonhunting assistants.
 
@@ -330,4 +330,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54142, Aug. 31, 2020]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54142, Aug. 31, 2020; 86 FR 48882, Aug. 31, 2021]

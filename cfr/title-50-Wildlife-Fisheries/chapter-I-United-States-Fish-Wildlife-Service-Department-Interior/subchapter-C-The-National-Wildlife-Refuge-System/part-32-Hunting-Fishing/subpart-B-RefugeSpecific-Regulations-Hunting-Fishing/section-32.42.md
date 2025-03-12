@@ -2,7 +2,7 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Agassiz National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow youth waterfowl hunting on designated areas of the refuge subject to the following conditions:
+(a) *Agassiz National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow youth waterfowl hunting on designated areas of the refuge subject to the following conditions:
 
 (i) We allow the use of dogs while hunting, provided the dog is under the immediate control of the hunter at all times.
 
@@ -32,7 +32,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(b) *Big Stone National Wildlife Refuge* - (1) *Migratory game bird hunting.* We prohibit the hunting of migratory game birds. We allow the unarmed retrieval of waterfowl, legally taken outside the refuge, up to 100 yards (90 meters) inside the refuge boundary.
+(b) *Big Stone National Wildlife Refuge*—(1) *Migratory game bird hunting.* We prohibit the hunting of migratory game birds. We allow the unarmed retrieval of waterfowl, legally taken outside the refuge, up to 100 yards (90 meters) inside the refuge boundary.
 
 (2) *Upland game hunting.* We allow hunting of ring-necked pheasant, Hungarian partridge, cottontail and jack rabbit, raccoon, striped skunk, gray and fox squirrel, red and gray fox, and wild turkey on designated areas of the refuge subject to the following conditions:
 
@@ -60,7 +60,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit the taking of any turtle, frog, leech, minnow, crayfish, and mussel (clam) species by any method on the refuge (see § 27.21 of this chapter).
 
-(c) *Big Stone Wetland Management District* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds throughout the district subject to the following conditions:
+(c) *Big Stone Wetland Management District*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds throughout the district subject to the following conditions:
 
 (i) We allow the use of dogs for hunting, provided the dog is under the immediate control of the hunter at all times.
 
@@ -78,7 +78,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow fishing throughout the district subject to the following condition: The condition set forth at paragraph (c)(1)(iii) of this section applies.
 
-(d) *Crane Meadows National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow the hunting of goose, duck, merganser, coot, woodcock, common moorhen, mourning dove, Sora/Virginia rail, crow, and common snipe on designated areas of the refuge subject to the following conditions:
+(d) *Crane Meadows National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow the hunting of goose, duck, merganser, coot, woodcock, common moorhen, mourning dove, Sora/Virginia rail, crow, and common snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We require a signed hunt brochure. You must carry this signed brochure when hunting on the refuge.
 
@@ -108,7 +108,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(e) *Detroit Lakes Wetland Management District* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds throughout the district, except that we prohibit hunting on the Headquarters waterfowl production area (WPA) in Becker County, the Hitterdal WPA in Clay County, and the McIntosh WPA in Polk County. The following conditions apply:
+(e) *Detroit Lakes Wetland Management District*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds throughout the district, except that we prohibit hunting on the Headquarters waterfowl production area (WPA) in Becker County, the Hitterdal WPA in Clay County, and the McIntosh WPA in Polk County. The following conditions apply:
 
 (i) We allow the use of dogs for hunting, provided the dog is under the immediate control of the hunter at all times.
 
@@ -130,7 +130,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing throughout the district subject to the following condition: The condition set forth at paragraph (e)(1)(iii) of this section applies.
 
-(f) *Fergus Falls Wetland Management District* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds throughout the district, except that we prohibit hunting on the Townsend, Mavis, and Gilmore waterfowl production areas (WPAs) and the building and administrative area of Knollwood WPA in Otter Tail County, and on the Larson WPA in Douglas County. The following conditions apply:
+(f) *Fergus Falls Wetland Management District*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds throughout the district, except that we prohibit hunting on the Townsend, Mavis, and Gilmore waterfowl production areas (WPAs) and the building and administrative area of Knollwood WPA in Otter Tail County, and on the Larson WPA in Douglas County. The following conditions apply:
 
 (i) We allow the use of dogs while hunting, provided the dog is under the immediate control of the hunter at all times.
 
@@ -148,7 +148,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing throughout the district, except that we prohibit hunting on the Townsend, Mavis, and Gilmore WPAs and the building and administrative area of Knollwood WPA in Otter Tail County, and on the Larson WPA in Douglas County. The following condition applies: The condition set forth at paragraph (f)(1)(iii) of this section applies.
 
-(g) *Glacial Ridge National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, woodcock, snipe, rail, and mourning dove on designated areas of the refuge subject to the following conditions:
+(g) *Glacial Ridge National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, woodcock, snipe, rail, and mourning dove on designated areas of the refuge subject to the following conditions:
 
 (i) We allow the use of dogs while hunting, provided the dog is under the immediate control of the hunter at all times.
 
@@ -180,7 +180,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(h) *Hamden Slough National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of waterfowl on designated areas of the refuge subject to the following conditions:
+(h) *Hamden Slough National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of waterfowl on designated areas of the refuge subject to the following conditions:
 
 (i) We only allow youth waterfowl hunting on the State's youth waterfowl day.
 
@@ -202,7 +202,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(i) *Litchfield Wetland Management District* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds throughout the district, except we prohibit hunting on that part of the Phare Lake waterfowl production area (WPA) in Renville County that lies within the Phare Lake State Game Refuge. The following conditions apply:
+(i) *Litchfield Wetland Management District*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds throughout the district, except we prohibit hunting on that part of the Phare Lake waterfowl production area (WPA) in Renville County that lies within the Phare Lake State Game Refuge. The following conditions apply:
 
 (i) We allow the use of dogs while hunting, provided the dog is under the immediate control of the hunter at all times.
 
@@ -220,7 +220,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing throughout the district subject to the following condition: The condition set forth at paragraph (i)(1)(iii) of this section applies.
 
-(j) *Minnesota Valley National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow the hunting of goose, duck, merganser, moorhen, coot, rail, woodcock, common snipe, and mourning dove on designated areas of the refuge subject to the following conditions:
+(j) *Minnesota Valley National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow the hunting of goose, duck, merganser, moorhen, coot, rail, woodcock, common snipe, and mourning dove on designated areas of the refuge subject to the following conditions:
 
 (i) We require a special use permit (FWS Form 3-1383-G) for refuge-specific special hunts and refuge-specific population management hunts.
 
@@ -260,7 +260,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit the taking of any turtle, frog, leech, minnow, crayfish, and mussel (clam) species by any method on the refuge (see § 27.21 of this chapter).
 
-(k) *Minnesota Valley Wetland Management District* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds throughout the district subject to the following conditions:
+(k) *Minnesota Valley Wetland Management District*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds throughout the district subject to the following conditions:
 
 (i) Hunters must dismantle hunting blinds, platforms, and ladders made from natural vegetation at the end of each day.
 
@@ -284,7 +284,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing throughout the district subject to the following conditions: The condition set forth at paragraph (k)(1)(ii) of this section applies.
 
-(l) *Morris Wetland Management District* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds throughout the district, except that we prohibit hunting on the designated portions of the Edward-Long Lake waterfowl production area (WPA) in Stevens County. The following conditions apply:
+(l) *Morris Wetland Management District*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds throughout the district, except that we prohibit hunting on the designated portions of the Edward-Long Lake waterfowl production area (WPA) in Stevens County. The following conditions apply:
 
 (i) We allow the use of dogs while hunting, provided the dog is under the immediate control of the hunter at all times.
 
@@ -302,7 +302,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow fishing throughout the district, except that we prohibit fishing on the designated portions of the Edward-Long WPA in Stevens County. The following condition applies: The condition set forth at paragraph (l)(1)(iii) of this section applies.
 
-(m) *Northern Tallgrass Prairie National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, merganser, moorhen, coot, rail (Virginia and sora only), woodcock, common snipe, mourning dove, and sandhill crane subject to the following conditions:
+(m) *Northern Tallgrass Prairie National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, merganser, moorhen, coot, rail (Virginia and sora only), woodcock, common snipe, mourning dove, and sandhill crane subject to the following conditions:
 
 (i) We allow the use of dogs while hunting, provided the dog is under the immediate control of the hunter at all times.
 
@@ -334,7 +334,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) The condition set forth at paragraph (m)(1)(iii) of this section applies.
 
-(n) *Rice Lake National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of woodcock and common snipe on designated areas of the refuge subject to the following conditions:
+(n) *Rice Lake National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of woodcock and common snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We allow the use of dogs while hunting, provided the dog is under the immediate control of the hunter at all times.
 
@@ -360,7 +360,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We prohibit the taking of any turtle, frog, leech, minnow, crayfish, and mussel (clam) species by any method on the refuge (see § 27.21 of this chapter).
 
-(o) *Rydell National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, woodcock, and mourning dove on designated areas of the refuge subject to the following conditions:
+(o) *Rydell National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, woodcock, and mourning dove on designated areas of the refuge subject to the following conditions:
 
 (i) We only allow hunting of goose, duck, and coot during the special State-administered youth waterfowl season.
 
@@ -398,7 +398,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow fishing from May 1 through November 1.
 
-(p) *Sherburne National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, rail, woodcock, and snipe on designated areas of the refuge subject to the following conditions:
+(p) *Sherburne National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, merganser, coot, Sora/Virginia rail, woodcock, snipe, common moorhen/gallinule, mourning dove, and American crow on designated areas of the refuge subject to the following conditions:
 
 (i) We allow the use of dogs while hunting, provided the dog is under the immediate control of the hunter at all times.
 
@@ -408,7 +408,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We prohibit entry onto the refuge earlier than 2 hours before legal shooting time, and we require hunters to leave the refuge no later than 2 hours after legal shooting time.
 
-(v) We prohibit hunting from March 1 through August 31.
+(v) You may only hunt American crow from September 1 through the end of February within the migratory bird hunting area. We prohibit hunting from March 1 through August 31.
 
 (vi) We allow only nonmotorized boats, and they must be launched at designated access sites.
 
@@ -416,7 +416,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The conditions set forth at paragraphs (p)(1)(i) through (v) of this section apply.
 
-(ii) We close the refuge to turkey hunting, except we allow a turkey hunt for youth hunters and persons with disabilities by special use permit (FWS Form 3-1383-G).
+(ii) We allow spring turkey hunting for youth hunters and persons with disabilities, and fall turkey hunting for all hunters, on designated areas of the refuge.
 
 (iii) You may use or possess only approved nontoxic shot shells (see § 32.2(k)) in the field while hunting turkey.
 
@@ -432,7 +432,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) From March 1 through August 31 (the refuge wildlife sanctuary period), we allow fishing only from nonmotorized boats on the designated canoe route and on banks within 100 yards (91.44 meters) both upstream and downstream of designated access points.
 
-(q) *Tamarac National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow the hunting of goose, duck, coot, woodcock, snipe, rail (Virginia and Sora), mourning dove, and American crow on designated areas of the refuge subject to the following conditions:
+(q) *Tamarac National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow the hunting of goose, duck, coot, woodcock, snipe, rail (Virginia and Sora), mourning dove, and American crow on designated areas of the refuge subject to the following conditions:
 
 (i) Hunting by tribal members is governed by White Earth Reservation regulations on those portions of the Reservation that are a part of the refuge.
 
@@ -476,7 +476,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) The condition set forth at paragraph (q)(1)(ii) of this section applies.
 
-(r) *Upper Mississippi River National Wildlife and Fish Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
+(r) *Upper Mississippi River National Wildlife and Fish Refuge*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
 
 (i) We prohibit migratory bird hunting from March 16 through August 31 each year.
 
@@ -484,7 +484,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) In areas posted and shown on maps as “Closed to All Access,” we prohibit public entry, to include hunting and fishing, at all times. This area is named and located as follows: Crooked Slough Backwater, Pool 13, Illinois, 2,453 acres.
 
-(iv) In areas posted and shown on maps as “No Entry - Sanctuary,” we prohibit hunting at all times and all public entry except as specified. These areas are named and located as follows:
+(iv) In areas posted and shown on maps as “No Entry—Sanctuary,” we prohibit hunting at all times and all public entry except as specified. These areas are named and located as follows:
 
 (A) Pool Slough, Pool 9, Minnesota/Iowa, 1,126 acres.
 
@@ -494,7 +494,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (D) Spring Lake, Pool 13, Illinois, 3,697 acres.
 
-(v) In areas posted and shown on maps as “Area Closed” and “Area Closed - No Motors,” we prohibit migratory bird hunting at all times. We ask that you practice voluntary avoidance of these areas by any means or for any purpose from October 15 to the end of the respective State duck season. In areas also marked “no motors,” we prohibit the use of motors on watercraft from October 15 to the end of the respective State duck season.
+(v) In areas posted and shown on maps as “Area Closed” and “Area Closed—No Motors,” we prohibit migratory bird hunting at all times. We ask that you practice voluntary avoidance of these areas by any means or for any purpose from October 15 to the end of the respective State duck season. In areas also marked “no motors,” we prohibit the use of motors on watercraft from October 15 to the end of the respective State duck season.
 
 (A) The areas posted and marked on maps as “Area Closed” are named and located as follows:
 
@@ -520,7 +520,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (*11*) Elk River, Pool 13, Iowa, 1,248 acres.
 
-(B) The areas posted and marked on maps as “Area Closed - No Motors” are named and located as follows:
+(B) The areas posted and marked on maps as “Area Closed—No Motors” are named and located as follows:
 
 (*1*) Peterson Lake, Pool 4, Wisconsin 572 acres.
 
@@ -586,7 +586,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) The conditions set forth at paragraphs (r)(1)(ii) through (iv), (vi), (ix), (xi), and (xiii) of this section apply
 
-(iii) In areas posted and shown on maps as “Area Closed” and “Area Closed - No Motors,” we allow upland game hunting beginning the day after the respective State duck hunting season until upland game season closure or March 15, whichever comes first, except we allow spring turkey hunting during State seasons. In areas also marked “Area Closed - No Motors,” we prohibit the use of motors on watercraft from October 15 to the end of the respective State duck season.
+(iii) In areas posted and shown on maps as “Area Closed” and “Area Closed—No Motors,” we allow upland game hunting beginning the day after the respective State duck hunting season until upland game season closure or March 15, whichever comes first, except we allow spring turkey hunting during State seasons. In areas also marked “Area Closed—No Motors,” we prohibit the use of motors on watercraft from October 15 to the end of the respective State duck season.
 
 (iv) In the area posted and shown on maps as “Mesquaki Lake No Hunting Zone,” Pool 13, Illinois, we prohibit hunting upland game from April 1 to September 30.
 
@@ -600,9 +600,9 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) The conditions set forth at paragraphs (r)(1)(ii) through (iv), (vi), (ix), (xi), and (xiii) and (r)(2)(v) of this section apply.
 
-(iv) In areas posted and shown on maps as “No Entry - Sanctuary” we allow big game hunting beginning the day after the respective State duck hunting season until big game season closure or March 15, whichever comes first. We describe these areas more fully at paragraph (r)(1)(iv) of this section.
+(iv) In areas posted and shown on maps as “No Entry—Sanctuary” we allow big game hunting beginning the day after the respective State duck hunting season until big game season closure or March 15, whichever comes first. We describe these areas more fully at paragraph (r)(1)(iv) of this section.
 
-(v) In areas posted and shown on maps as “Area Closed” and “Area Closed - No Motors,” we allow big game hunting beginning the day after the respective State duck hunting season until big game season closure or March 15, whichever comes first. In areas also marked “Area Closed - No Motors,” we prohibit the use of motors on watercraft from October 15 to the end of the respective State duck season.
+(v) In areas posted and shown on maps as “Area Closed” and “Area Closed—No Motors,” we allow big game hunting beginning the day after the respective State duck hunting season until big game season closure or March 15, whichever comes first. In areas also marked “Area Closed—No Motors,” we prohibit the use of motors on watercraft from October 15 to the end of the respective State duck season.
 
 (vi) In the area posted and shown on maps as “Mesquaki Lake No Hunting Zone,” Pool 13, Illinois, we prohibit big game hunting from April 1 to September 30.
 
@@ -612,11 +612,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The conditions set forth at paragraphs (r)(1)(iii) and (xi) of this section apply.
 
-(ii) In areas also marked “Area Closed - No Motors,” we prohibit the use of motors on watercraft from October 15 to the end of the respective State duck season.
+(ii) In areas also marked “Area Closed—No Motors,” we prohibit the use of motors on watercraft from October 15 to the end of the respective State duck season.
 
 (iii) Commercial fishing in Spring Lake, Pool 13, Illinois, requires a Special Use Permit (FWS Form 3-1383-C) issued by the refuge or district manager (see § 31.13 of this chapter).
 
-(s) *Windom Wetland Management District* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the district, except that we prohibit hunting on the Worthington waterfowl production area (WPA) in Nobles County and on designated portions of the Wolf Lake WPA in Cottonwood County. The following conditions apply:
+(s) *Windom Wetland Management District*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the district, except that we prohibit hunting on the Worthington waterfowl production area (WPA) in Nobles County and on designated portions of the Wolf Lake WPA in Cottonwood County. The following conditions apply:
 
 (i) You must remove all boats, decoys, blind materials, stands, platforms, and other personal property brought onto the district at the end of each day (see §§ 27.93 and 27.94 of this chapter).
 
@@ -632,4 +632,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow fishing throughout the district subject to the following condition: The condition set forth at paragraph (s)(1)(i) of this section applies.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54119, Aug. 31, 2020]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54119, Aug. 31, 2020; 86 FR 48868, Aug. 31, 2021]

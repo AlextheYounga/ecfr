@@ -2,7 +2,7 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Big Muddy National Fish and Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following condition: You must remove all your blinds, boats, and decoys from the refuge each day (see § 27.93 of this chapter), except for blinds made entirely of marsh vegetation.
+(a) *Big Muddy National Fish and Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following condition: You must remove all your blinds, boats, and decoys from the refuge each day (see § 27.93 of this chapter), except for blinds made entirely of marsh vegetation.
 
 (2) *Upland game hunting.* We allow upland game hunting on designated areas of the refuge subject to the following condition: On the 131-acre mainland unit of Boone's Crossing, we allow upland game hunting with archery methods only. On Johnson Island, we allow hunting of game animals during Statewide seasons using archery methods or shotguns using shot no larger than BB.
 
@@ -22,7 +22,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer on designated areas of the refuge subject to the following conditions:
 
-(i) You must register at the hunter sign-in/out station and record the sex and age of deer harvested on the Big Game Harvest Report (FWS Form 3-2359).
+(i) You must register at the hunter sign-in/out station and record the sex and age of deer harvested on the Harvest Report (FWS Form 3-2542).
 
 (ii) We prohibit shooting at deer that are on any portion of the main perimeter levee.
 
@@ -42,7 +42,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (c) *Great River National Wildlife Refuge.* Refer to § 32.32(e) for regulations.
 
-(d) *Loess Bluffs National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of light goose on designated areas of the refuge subject to the following conditions:
+(d) *Loess Bluffs National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of light goose on designated areas of the refuge subject to the following conditions:
 
 (i) We allow hunting of light geese only during the spring conservation order season.
 
@@ -76,7 +76,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (e) *Middle Mississippi River National Wildlife Refuge.* Refer to § 32.32(i) for regulations.
 
-(f) *Mingo National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow waterfowl hunting in Pool 7 and Pool 8 subject to the following conditions:
+(f) *Mingo National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow waterfowl hunting in Pool 7 and Pool 8 subject to the following conditions:
 
 (i) We allow the use of dogs for waterfowl hunting, provided the dogs are under the immediate control of the hunter at all times.
 
@@ -96,7 +96,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow hunter access from 11/2 hours before legal shooting time until 11/2 hours after legal shooting time.
 
-(iii) We require that all hunters register at the hunter sign-in stations and complete an Upland Game Hunt Report (FWS Form 3-2362) located at the exit kiosks prior to exiting the refuge.
+(iii) We require that all hunters complete a Harvest Report (FWS Form 3-2542) located at the exit kiosks prior to exiting the refuge.
 
 (iv) We allow squirrel hunting from the State opening day until the day before the State opening of archery deer season.
 
@@ -108,7 +108,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The conditions set forth at paragraphs (f)(1)(iii), (v), and (vi) and (f)(2)(ii) of this section apply.
 
-(ii) We require that all hunters register at the hunter sign-in stations and complete the Big Game Harvest Report (FWS Form 3-2359) located at the exit kiosks prior to exiting the refuge.
+(ii) We require that all hunters complete the Harvest Report (FWS Form 3-2542) located at the exit kiosks prior to exiting the refuge.
 
 (iii) We allow archery hunting for deer and turkey during the fall season.
 
@@ -142,7 +142,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (viii) We allow the take of common snapping turtle and soft-shelled turtle using only pole and line. We require all anglers to immediately release all alligator snapping turtles.
 
-(g) *Swan Lake National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of waterfowl, dove, rail, snipe, and woodcock on the refuge subject to the following conditions:
+(g) *Swan Lake National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of waterfowl, dove, rail, snipe, and woodcock on the refuge subject to the following conditions:
 
 (i) We require the Missouri Department of Conservation “Green Card” while hunting waterfowl.
 
@@ -211,3 +211,5 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (iv) Anglers must remove all boats from the refuge at the end of each day (see § 27.93 of this chapter).
 
 (h) *Two Rivers National Wildlife Refuge.* Refer to § 32.32(k) for regulations.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 86 FR 48871, Aug. 31, 2021]

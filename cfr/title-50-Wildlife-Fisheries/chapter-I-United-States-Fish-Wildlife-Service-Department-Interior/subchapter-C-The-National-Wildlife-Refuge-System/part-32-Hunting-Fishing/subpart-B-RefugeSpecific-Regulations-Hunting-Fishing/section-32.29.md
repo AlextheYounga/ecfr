@@ -127,21 +127,25 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (e) *Harris Neck National Wildlife Refuge.* (1)-(2) [Reserved]
 
-(3) *Big game hunting.* We allow hunting of white-tailed deer and feral hog on designated areas of the refuge subject to the following conditions:
+(3) *Big game hunting.* We allow hunting of white-tailed deer and turkey, and the incidental take of coyote, armadillo, and feral hog, on designated areas of the refuge subject to the following conditions:
 
-(i) We require a refuge hunt permit (electronic form) for all hunters age 16 and older. Hunters must sign the permit and carry it with them at all times when hunting.
+(i) We require a signed refuge hunt permit (FWS Form 3-2439) for all hunters age 16 and older. Hunters must sign the permit and carry it with them at all times when hunting.
 
-(ii) Each hunter may place one stand on the refuge during the week preceding each hunt, but you must remove stands by the end of each hunt (see § 27.93 of this chapter).
+(ii) Each hunter may place one stand on the refuge during the week preceding each hunt, but must remove the stand by the end of each hunt (see § 27.93 of this chapter).
 
-(iii) We prohibit hunting within 100 yards (91.4 meters) of Harris Neck Road, the refuge entrance drive, Visitor Contact Station/Office, Barbour River Landing, Barbour River Road, or Gould's Cemetery.
+(iii) We prohibit hunting within 100 yards (91 meters) of Harris Neck Road, the refuge entrance drive, Visitor Contact Station/Office, Barbour River Landing, Barbour River Road, or Gould's Cemetery.
 
 (iv) We require hunters to check-in and check-out each hunt day. We require personal identification to check-in and check-out.
 
 (v) We require hunters to check all harvested game at the check station before leaving the refuge each day.
 
-(vi) Hunters may take five deer (no more than two antlered), and we will issue State bonus tags for two of these. There is no bag limit for feral hog.
+(vi) Hunters may take five deer (no more than two antlered), and we will issue State bonus tags for two of these.
 
-(vii) During the gun hunt, we allow only shotguns (20 gauge or larger; slugs only), muzzleloaders, and bows as governed by State regulations.
+(vii) During the gun hunt, we allow only shotguns (20 gauge or larger), muzzleloaders, bows, air rifles (.30 caliber or larger), and air bows, as governed by State regulations. We prohibit the use of centerfire rifles.
+
+(viii) We allow the incidental take of armadillo, feral hog, and coyote during any refuge hunt with the weapons legal for that hunt, subject to applicable State seasons and regulations. There is no bag limit for these species.
+
+(ix) The turkey hunt is a youth-only, archery hunt limited to 2 days per year. To participate in the turkey hunt, youth must complete an application (FWS Form 3-2439), submit the completed application to the refuge, and be selected by lottery. Each youth hunter selected by lottery to participate in the turkey hunt must possess a free signed refuge hunt brochure while hunting.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
@@ -339,4 +343,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions: We allow saltwater fishing year-round in the estuarine waters adjacent to the refuge.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54109, Aug. 31, 2020]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54109, Aug. 31, 2020; 86 FR 48858, Aug. 31, 2021]

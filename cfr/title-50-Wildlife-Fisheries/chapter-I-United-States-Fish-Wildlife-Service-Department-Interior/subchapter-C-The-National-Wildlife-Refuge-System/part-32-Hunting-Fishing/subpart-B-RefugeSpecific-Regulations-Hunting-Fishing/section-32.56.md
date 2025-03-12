@@ -150,7 +150,8 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3)-(4) [Reserved]
 
-(k) *Malheur National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of dove, goose, duck, merganser, coot, snipe, and pigeon on designated areas of the refuge subject to the following conditions:
+(k) *Malheur National Wildlife Refuge* -
+(1) *Migratory game bird hunting.* We allow hunting of dove, goose, duck, merganser, coot, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We allow nonmotorized boats or boats equipped with only electric motors on the North and South Malheur Lake Hunt Units.
 
@@ -158,17 +159,15 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) You must remove boats, decoys, blinds, materials, and all personal property at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
-(iv) The South Malheur Lake and Buena Vista Hunt Units open for migratory bird hunting on the fourth Saturday of October and close at the end of the State waterfowl season.
+(iv) You may take Eurasian collared-dove only during the State mourning dove season.
 
-(v) You may access the South Malheur Lake Hunt Unit from the North Malheur Lake Hunt Unit, but no earlier than the fourth Saturday of October.
+(2) *Upland game hunting.* We allow hunting of pheasant, quail, partridge, chukar, rabbit, hare, and coyote on designated areas of the refuge.
 
-(2) *Upland game hunting.* We allow hunting of pheasant, quail, partridge, chukar, and rabbit on designated areas of the refuge subject to the following conditions:
+(3) *Big game hunting.* We allow hunting of deer and pronghorn on designated areas of the refuge subject to the following conditions:
 
-(i) We allow hunting of upland game species on designated areas of the Blitzen Valley east of Highway 205 from the fourth Saturday in October through the end of the State pheasant season.
+(i) We allow only short-range weapons (archery, shotgun, and muzzleloader) on the Buena Vista Unit.
 
-(ii) We allow hunting of upland game species on the North Malheur Lake Hunt Unit concurrent with the State pheasant season.
-
-(3) *Big game hunting.* We allow hunting of deer and pronghorn on designated areas of the refuge.
+(ii) Mule deer hunting in the Buena Vista Unit will close the Friday before the opening day of the Oregon Statewide rooster pheasant season.
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
 
@@ -265,7 +264,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (x) All hunters must have visible means of retrieving waterfowl such as float tube, waders, or a dog capable of retrieving.
 
-(xi) Hunters must check-in and check-out with a Refuge representative and submit a Migratory Bird Hunt Report (FWS Form 3-2361) when checking out.
+(xi) Hunters must check-in and check-out with a refuge representative and submit a Harvest Report (FWS Form 3-2542) when checking out.
 
 (2)-(4) [Reserved]
 
@@ -307,7 +306,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing in designated areas of the refuge.
 
-(t) *Wapato Lake National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
+(t) *Wapato Lake National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck and coot on designated areas of the refuge subject to the following conditions:
 
 (i) We allow hunting on Tuesdays, Thursdays, and Saturdays during the State waterfowl season.
 
@@ -323,19 +322,33 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vii) We allow the use of dogs for retrieving waterfowl.
 
-(viii) Hunters must submit a Migratory Bird Hunt Report (FWS Form 3-2361) at the end of each day's hunt.
+(viii) Hunters must submit a Harvest Report (FWS Form 3-2542) at the end of each day's hunt.
 
 (2)-(4) [Reserved]
 
-(u) *William L. Finley National Wildlife Refuge.* (1)-(2) [Reserved]
+(u) *William L. Finley National Wildlife Refuge.* -(1) *Migratory game bird hunting.* We allow hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
+
+(i) We allow only portable and temporary hunting blinds.
+
+(ii) You must remove all blinds, decoys, shotshell hulls, and other personal equipment and garbage from the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+
+(iii) Hunters may enter the refuge no earlier than 2 hours before legal shooting hours and must exit the refuge no later than 1 hour after legal shooting hours.
+
+(iv) We allow the use of dogs when hunting.
+
+(2) [Reserved]
 
 (3) *Big game hunting.* We allow deer and elk hunting on designated areas of the refuge subject to the following conditions:
 
-(i) You may harvest only antlerless elk with appropriate State-issued tags.
+(i) You may harvest only antlerless elk.
 
-(ii) We prohibit hunting from any refuge structure, observation blind, or boardwalk.
+(ii) We require a refuge permit (FWS Form 3-2439) for hunting elk.
 
-(iii) We require all hunters to register at a self-service hunt kiosk. All hunters must complete a Big Game Harvest Report (FWS Form 3-2359) at the end of each hunt day.
+(iii) We prohibit hunting from any refuge structure, observation blind, or boardwalk.
+
+(iv) We allow short-range weapons only. We allow archery hunting only on the William L. Finley and Snag Boat Bend Zone 2 hunt units.
+
+(v) Hunters may enter the refuge no earlier than 1 hour before legal shooting hours and must exit the refuge no later than 1 hour after legal shooting hours.
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
 
@@ -343,4 +356,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow anglers to use only pole and line, or rod and reel. Anglers must attend their line.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54137, Aug. 31, 2020]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54137, Aug. 31, 2020; 86 FR 48875, Aug. 31, 2021]

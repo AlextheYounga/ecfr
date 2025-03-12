@@ -10,11 +10,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We allow the use of dogs consistent with State regulations.
 
-(2) *Upland game hunting.* We allow hunting of squirrel, grouse, rabbit, pheasant, quail, woodchuck, crow, fox, raccoon, opossum, skunk, weasel, coyote, and bobcat on designated areas of the refuge subject to the following conditions:
+(2) *Upland game hunting.* We allow hunting of squirrel, grouse, rabbit, pheasant, quail, woodchuck, crow, fox, raccoon, opossum, skunk, weasel, coyote, chukar, and bobcat on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (a)(1)(i), (ii), and (iii) of this section apply.
+(i) The conditions set forth at paragraphs (a)(1)(i) and (iii) of this section apply.
 
-(ii) We allow hunting from legal sunrise to legal sunset.
+(ii) We prohibit night hunting from1/2 hour after legal sunset until1/2 hour before legal sunrise the following day.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer, bear, and wild turkey on designated areas of the refuge subject to the following conditions:
 
@@ -86,4 +86,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (d) *Ohio River Islands National Wildlife Refuge.* Refer to § 32.67(b) for regulations.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54137, Aug. 31, 2020]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54137, Aug. 31, 2020; 86 FR 48875, Aug. 31, 2021]
