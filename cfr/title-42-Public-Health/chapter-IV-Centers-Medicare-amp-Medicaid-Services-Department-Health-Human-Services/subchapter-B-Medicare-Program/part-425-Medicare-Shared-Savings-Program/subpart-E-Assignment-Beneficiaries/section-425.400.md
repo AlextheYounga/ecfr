@@ -1,5 +1,7 @@
 ##### § 425.400 General. #####
 
+Link to an amendment published at 82 FR 53369, Nov. 15, 2017.
+
 (a)(1) *General.* CMS employs the assignment methodology described in § 425.402 and § 425.404 for purposes of benchmarking, preliminary prospective assignment (including quarterly updates), retrospective reconciliation, and prospective assignment.
 
 (i) A Medicare fee-for-service beneficiary is assigned to an ACO if the -

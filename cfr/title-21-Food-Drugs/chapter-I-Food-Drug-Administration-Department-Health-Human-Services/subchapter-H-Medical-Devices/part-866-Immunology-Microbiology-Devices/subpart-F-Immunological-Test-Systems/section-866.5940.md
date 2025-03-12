@@ -2,7 +2,7 @@
 
 (a) *Identification.* Autosomal recessive carrier screening gene mutation detection system is a qualitative in vitro molecular diagnostic system used for genotyping of clinically relevant variants in genomic DNA isolated from human specimens intended for prescription use or over-the-counter use. The device is intended for autosomal recessive disease carrier screening in adults of reproductive age. The device is not intended for copy number variation, cytogenetic, or biochemical testing.
 
-(b) *Classification.* Class II (special controls). Autosomal recessive carrier screening gene mutation detection system must comply with the following special controls:
+(b) *Classification.* Class II (special controls). The device is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to the limitations in § 866.9, except § 866.9(c)(2). Autosomal recessive carrier screening gene mutation detection system must comply with the following special controls:
 
 (1) If the device is offered over-the-counter, the device manufacturer must provide information to a potential purchaser or actual test report recipient about how to obtain access to a board-certified clinical molecular geneticist or equivalent to assist in pre- and post-test counseling.
 
@@ -90,7 +90,7 @@
 
 (*3*) Completion rate, non-responder rate, and reasons for non-response/data exclusion, as well as a summary table of comprehension rates regarding comprehension concepts (purpose of test, test results, test limitations, ethnicity relevance for the test results, etc.) for each study report.
 
-(b) *Classification.* Class II (special controls). The device is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to the limitations in § 866.9, except § 866.9(c)(2). Autosomal recessive carrier screening gene mutation detection system must comply with the following special controls:
+(4) Your 21 CFR 809.10 compliant labeling and any test report generated must include the following warning and limitation statements, as applicable:
 
 (i) A warning that reads “The test is intended only for autosomal recessive carrier screening in adults of reproductive age.”
 

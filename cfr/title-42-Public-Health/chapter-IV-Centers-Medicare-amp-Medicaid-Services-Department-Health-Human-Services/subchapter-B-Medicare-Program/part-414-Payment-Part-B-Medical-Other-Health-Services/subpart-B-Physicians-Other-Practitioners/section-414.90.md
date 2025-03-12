@@ -1,5 +1,7 @@
 ##### § 414.90 Physician Quality Reporting System (PQRS). #####
 
+Link to an amendment published at 82 FR 53362, Nov. 15, 2017.
+
 (a) *Basis and scope.* This section implements the following provisions of the Act:
 
 (1) 1848(a) - Payment Based on Fee Schedule.

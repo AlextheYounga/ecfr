@@ -1,5 +1,7 @@
 ##### § 414.1325 Data submission requirements. #####
 
+Link to an amendment published at 82 FR 53953, Nov. 16, 2017.
+
 (a) *Data submission performance categories.* MIPS eligible clinicians and groups must submit measures, objectives, and activities for the quality, improvement activities, and advancing care information performance categories.
 
 (b) *Data submission mechanisms for individual eligible clinicians.* An individual MIPS eligible clinician may elect to submit their MIPS data using:

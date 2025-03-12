@@ -1,5 +1,7 @@
 ##### § 414.1335 Data submission criteria for the quality performance category. #####
 
+Link to an amendment published at 82 FR 53953, Nov. 16, 2017.
+
 (a) *Criteria.* A MIPS eligible clinician or group must submit data on MIPS quality measures in one of the following manners, as applicable:
 
 (1) *Via claims, qualified registry, EHR or QCDR submission mechanism.* For the performance period -

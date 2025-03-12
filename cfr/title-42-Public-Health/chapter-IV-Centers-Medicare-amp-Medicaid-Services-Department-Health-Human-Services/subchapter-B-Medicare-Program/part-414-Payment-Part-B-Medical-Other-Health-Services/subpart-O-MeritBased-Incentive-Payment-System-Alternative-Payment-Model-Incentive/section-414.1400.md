@@ -1,5 +1,7 @@
 ##### § 414.1400 Third party data submission. #####
 
+Link to an amendment published at 82 FR 53959, Nov. 16, 2017.
+
 (a) *General.* (1) MIPS data may be submitted by third party intermediaries on behalf of a MIPS eligible clinician or group by:
 
 (i) A qualified registry;

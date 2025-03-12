@@ -1,5 +1,7 @@
 ##### § 425.404 Special assignment conditions for ACOs including FQHCs and RHCs. #####
 
+Link to an amendment published at 82 FR 53369, Nov. 15, 2017.
+
 CMS assigns beneficiaries to ACOs based on services furnished in FQHCs or RHCs or both consistent with the general assignment methodology in § 425.402, with two special conditions:
 
 (a) Such ACOs are required to identify, through an attestation, physicians who directly provide primary care services in each FQHC or RHC that is an ACO participant and/or ACO provider/supplier in the ACO.

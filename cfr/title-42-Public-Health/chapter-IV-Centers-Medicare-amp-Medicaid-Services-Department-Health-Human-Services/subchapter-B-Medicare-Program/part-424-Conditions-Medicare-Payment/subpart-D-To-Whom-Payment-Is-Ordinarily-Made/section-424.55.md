@@ -1,5 +1,7 @@
 ##### § 424.55 Payment to the supplier. #####
 
+Link to an amendment published at 82 FR 53364, Nov. 15, 2017.
+
 (a) Medicare pays the supplier for covered services if the beneficiary (or the person authorized to request payment on the beneficiary's behalf) assigns the claim to the supplier and the supplier accepts assignment.
 
 (b) In accepting assignment, the supplier agrees to the following:

@@ -1,5 +1,7 @@
 ##### § 100.1106 Special Local Regulation; Annual Mavericks Invitational Big Wave Surf Competition. #####
 
+Link to an amendment published at 82 FR 53417, Nov. 16, 2017.
+
 (a) *Location.* This special local regulation establishes a regulated area on the waters of Half Moon Bay, located in the vicinity of Pillar Point. Movement within marinas, pier spaces, and facilities within Pillar Point Harbor is not regulated by this section.
 
 (b) *Enforcement Period.* The following regulations will be enforced between the hours of 6 a.m. and 6 p.m. on one day between November 1 of each year and March 31 of the following year. Annual notice of the specific enforcement dates and times of these regulations will be announced via Broadcast Notice to Mariners and published by the Coast Guard in a Boating Public Safety Notice at least 24 hours in advance of the competition. Annual notice of the specific enforcement dates and times will also be published in a Notice of Enforcement in the Federal Register each year.

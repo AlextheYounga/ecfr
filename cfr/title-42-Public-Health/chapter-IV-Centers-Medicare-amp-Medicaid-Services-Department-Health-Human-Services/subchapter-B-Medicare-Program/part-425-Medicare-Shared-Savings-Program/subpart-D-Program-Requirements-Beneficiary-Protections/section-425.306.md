@@ -1,5 +1,7 @@
 ##### § 425.306 Participant agreement and exclusivity of ACO participants. #####
 
+Link to an amendment published at 82 FR 53369, Nov. 15, 2017.
+
 (a) Each ACO participant must commit to the term of the participation agreement and sign an ACO participant agreement that complies with the requirements of this part.
 
 (b)(1) Except as specified in paragraph (b)(2) of this section, ACO participants are not required to be exclusive to one Shared Savings Program ACO.

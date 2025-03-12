@@ -1,0 +1,3 @@
+##### § 97.252 Responsibilities of CAIR authorized account representative. #####
+
+Following the establishment of a CAIR SO2 Allowance Tracking System account, all submissions to the Administrator pertaining to the account, including, but not limited to, submissions concerning the deduction or transfer of CAIR SO2 allowances in the account, shall be made only by the CAIR authorized account representative for the account.

@@ -1,5 +1,7 @@
 ##### § 414.1375 Advancing care information performance category. #####
 
+Link to an amendment published at 82 FR 53955, Nov. 16, 2017.
+
 (a) *Final score.* Subject to CMS's authority to reweight performance category weights under section 1848(q)(5)(E)(ii) and (q)(5)(F) of the Act, performance in the advancing care information performance category will comprise 25 percent of a MIPS eligible clinician's final score for MIPS payment year 2019 and each MIPS payment year thereafter.
 
 (b) *Reporting for the advancing care information performance category:* To earn a performance category score for the advancing care information performance category for inclusion in the final score, a MIPS eligible clinician must:

@@ -1,5 +1,7 @@
 ##### § 414.1415 Advanced APM criteria. #####
 
+Link to an amendment published at 82 FR 53960, Nov. 16, 2017.
+
 (a) *Use of certified electronic health record technology (CEHRT)* - (1) *Required use of CEHRT.* To be an Advanced APM, an APM must:
 
 (i) Require at least 50 percent of eligible clinicians in each participating APM Entity group, or, for APMs in which hospitals are the APM Entities, each hospital, to use CEHRT to document and communicate clinical care to their patients or other health care providers; or

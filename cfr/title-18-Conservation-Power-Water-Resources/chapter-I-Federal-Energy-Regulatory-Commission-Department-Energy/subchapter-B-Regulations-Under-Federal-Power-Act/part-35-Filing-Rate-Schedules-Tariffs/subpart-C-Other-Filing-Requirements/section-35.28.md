@@ -1,5 +1,7 @@
 ##### § 35.28 Non-discriminatory open access transmission tariff. #####
 
+Link to an amendment published at 82 FR 53410, Nov. 16, 2017.
+
 (a) *Applicability.* This section applies to any public utility that owns, controls or operates facilities used for the transmission of electric energy in interstate commerce and to any non-public utility that seeks voluntary compliance with jurisdictional transmission tariff reciprocity conditions.
 
 (b) *Definitions* - (1) *Requirements service agreement* means a contract or rate schedule under which a public utility provides any portion of a customer's bundled wholesale power requirements.

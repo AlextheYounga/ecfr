@@ -1,5 +1,7 @@
 ##### § 414.1410 Advanced APM determination. #####
 
+Link to an amendment published at 82 FR 53960, Nov. 16, 2017.
+
 (a) *General.* An APM is an Advanced APM for a payment year if CMS determines that it meets the criteria in § 414.1415 during the QP Performance Period.
 
 (b) *Advanced APM and Other Payer Advanced APM determination process.* CMS identifies Advanced APMs and Other Payer Advanced APMs in the following manner:

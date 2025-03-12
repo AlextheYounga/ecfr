@@ -8,7 +8,7 @@
 
 (2) The total amount of civil monetary penalties imposed on each applicable manufacturer or group purchasing organization (regardless of whether the applicable manufacturer was a part of a consolidated report) with respect to knowing failures to report in an annual submission of information will not exceed $1,000,000 as adjusted annually under 45 CFR part 102.
 
-(c) *Total annual civil monetary penalties.* The amount of civil monetary penalties imposed on each applicable manufacturer or applicable group purchasing organization under paragraphs (a)(1) and (b)(1) of this section are -
+(c) *Total annual civil monetary penalties.* The amount of civil monetary penalties imposed on each applicable manufacturer or applicable group purchasing organization under paragraphs (a)(1) and (b)(1) of this section are—
 
 (1) Aggregated separately;
 
@@ -38,4 +38,4 @@
 
 (g) *Notice, hearings, appeals, and collection.* Civil monetary penalties imposed under this section are subject to the provisions set forth in subparts A and B of part 402 of this chapter, including those pertaining to notice, opportunity for a hearing, appeals procedures, and collection of penalties.
 
-[78 FR 9521, Feb. 8, 2013, as amended at 81 FR 61561, Sept. 6, 2016; 82 FR 42749, Sept. 12, 2017}
+[78 FR 9521, Feb. 8, 2013, as amended at 81 FR 61561, Sept. 6, 2016; 82 FR 42749, Sept. 12, 2017]

@@ -1,5 +1,7 @@
 ##### § 425.610 Calculation of shared savings and losses under Track 3. #####
 
+Link to an amendment published at 82 FR 53370, Nov. 15, 2017.
+
 (a) *General rule.* For each performance year, CMS determines whether the estimated average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for Parts A and B services are above or below the updated benchmark determined under § 425.602. In order to qualify for a shared savings payment under Track 3, or to be responsible for sharing losses with CMS, an ACO's average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for Parts A and B services for the performance year must be below or above the updated benchmark, respectively, by at least the minimum savings or loss rate under paragraph (b) of this section.
 
 (1) *Newly assigned beneficiaries.* CMS uses an ACO's HCC prospective risk score to adjust the benchmark for changes in severity and case mix in this population.

@@ -1,5 +1,7 @@
 ##### § 425.204 Content of the application. #####
 
+Link to an amendment published at 82 FR 53369, Nov. 15, 2017.
+
 (a) *Accountability for beneficiaries.* As part of its application and participation agreement, the ACO must certify that the ACO, its ACO participants, and its ACO providers/suppliers have agreed to become accountable for the quality, cost, and overall care of the Medicare fee-for-service beneficiaries assigned to the ACO.
 
 (b) *Disclosure of prior participation.* (1) The ACO must disclose to CMS whether the ACO, its ACO participants, or its ACO providers/suppliers have participated in the Medicare Shared Savings Program under the same or a different name, or is related to or has an affiliation with another Shared Savings Program ACO.

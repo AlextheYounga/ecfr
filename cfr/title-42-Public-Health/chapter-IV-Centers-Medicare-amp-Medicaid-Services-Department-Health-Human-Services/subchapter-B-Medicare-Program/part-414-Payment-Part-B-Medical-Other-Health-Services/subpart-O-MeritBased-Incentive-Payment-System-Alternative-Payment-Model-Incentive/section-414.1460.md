@@ -1,5 +1,7 @@
 ##### § 414.1460 Monitoring and program integrity. #####
 
+Link to an amendment published at 82 FR 53965, Nov. 16, 2017.
+
 (a) *Vetting eligible clinicians prior to payment of the APM Incentive Payment.* Prior to payment of the APM Incentive Payment, CMS determines if eligible clinicians were in compliance with all Medicare conditions of participation and the terms of the relevant Advanced APMs in which they participate during the QP Performance Period. For QPs not meeting these standards there may be a reduction or denial of the APM Incentive Payment. A determination under this provision is not binding for other purposes.
 
 (b) *Termination by Advanced APMs.* CMS may reduce or deny an APM Incentive Payment to eligible clinicians who are terminated by APMs or whose Advanced APM Entities are terminated by APMs for non-compliance with all Medicare conditions of participation or the terms of the relevant Advanced APMS in which they participate during the QP Performance Periods.

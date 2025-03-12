@@ -1,5 +1,7 @@
 ##### § 414.1275 Value-based payment modifier quality-tiering scoring methodology. #####
 
+Link to an amendment published at 82 FR 53363, Nov. 15, 2017.
+
 (a) The value-based payment modifier amount for a group and a solo practitioner subject to the value-based payment modifier is based upon a comparison of the composite of quality of care measures and a composite of cost measures.
 
 (b) Quality composite and cost composite are classified into high, average, and low categories based on whether the composites are statistically above, not different from, or below the mean composite scores.

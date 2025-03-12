@@ -1,0 +1,3 @@
+##### § 97.301 Purpose. #####
+
+This subpart and subparts BBBB through IIII set forth the general provisions and the designated representative, permitting, allowance, monitoring, and opt-in provisions for the Federal Clean Air Interstate Rule (CAIR) NOX Ozone Season Trading Program, under section 110 of the Clean Air Act and § 52.35 of this chapter, as a means of mitigating interstate transport of ozone and nitrogen oxides.

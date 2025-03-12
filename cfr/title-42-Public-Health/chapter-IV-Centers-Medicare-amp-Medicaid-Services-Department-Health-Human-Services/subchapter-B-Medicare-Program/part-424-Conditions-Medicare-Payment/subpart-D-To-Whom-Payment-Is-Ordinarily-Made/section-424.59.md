@@ -1,5 +1,7 @@
 ##### § 424.59 Requirements for Medicare diabetes prevention program suppliers. #####
 
+Link to an amendment published at 82 FR 53364, Nov. 15, 2017.
+
 (a) *Conditions for enrollment.* An entity may enroll as an MDPP supplier if it satisfies all of the following criteria and meets all other applicable Medicare enrollment requirements:
 
 (1) At the time of enrollment has full CDC DPRP recognition.

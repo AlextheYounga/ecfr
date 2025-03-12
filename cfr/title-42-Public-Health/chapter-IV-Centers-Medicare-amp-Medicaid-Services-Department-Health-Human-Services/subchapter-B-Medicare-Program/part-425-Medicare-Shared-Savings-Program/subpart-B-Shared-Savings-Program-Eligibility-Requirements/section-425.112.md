@@ -1,5 +1,7 @@
 ##### § 425.112 Required processes and patient-centeredness criteria. #####
 
+Link to an amendment published at 82 FR 53368, Nov. 15, 2017.
+
 (a) *General.* (1) An ACO must -
 
 (i) Promote evidence-based medicine and beneficiary engagement, internally report on quality and cost metrics, and coordinate care;

@@ -1,5 +1,7 @@
 ##### § 425.604 Calculation of savings under the one-sided model. #####
 
+Link to an amendment published at 82 FR 53370, Nov. 15, 2017.
+
 (a) *Savings determination.* For each performance year, CMS determines whether the estimated average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for Parts A and B services are below the applicable updated benchmark determined under § 425.602.
 
 (1) *Newly assigned beneficiaries.* CMS uses an ACO's HCC prospective risk score to adjust the benchmark for changes in severity and case mix in this population.

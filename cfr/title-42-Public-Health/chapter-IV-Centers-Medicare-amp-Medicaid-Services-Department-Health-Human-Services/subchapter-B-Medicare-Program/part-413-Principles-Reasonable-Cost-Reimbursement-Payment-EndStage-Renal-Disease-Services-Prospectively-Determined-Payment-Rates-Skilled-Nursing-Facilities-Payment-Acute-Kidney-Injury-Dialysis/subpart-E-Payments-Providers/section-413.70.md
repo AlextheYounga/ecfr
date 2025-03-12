@@ -136,4 +136,4 @@
 
 (3) Payment for inpatient services of distinct part rehabilitation units of CAHs is made in accordance with regulations governing the inpatient rehabilitation facilities prospective payment system at subpart P (§ 412.600 through § 412.632) of part 412 of this subchapter.
 
-[65 FR 47109, Aug. 1, 2000, as amended at 82 FR 38515, Aug. 14, 2017]Editorial Note:For Federal Register citations affecting § 413.70, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[65 FR 47109, Aug. 1, 2000]Editorial Note:For Federal Register citations affecting § 413.70, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

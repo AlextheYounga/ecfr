@@ -1,5 +1,7 @@
 ##### § 414.1390 Data validation and auditing. #####
 
+Link to an amendment published at 82 FR 53959, Nov. 16, 2017.
+
 (a) *General.* CMS will selectively audit MIPS eligible clinicians and groups on a yearly basis. If a MIPS eligible clinician or group is selected for audit, the MIPS eligible clinician or group will be required to do the following in accordance with applicable law and timelines CMS establishes:
 
 (1) Comply with data sharing requests, providing all data as requested by CMS or our designated entity. All data must be shared with CMS or our designated entity within 45 days of the data sharing request, or an alternate timeframe that is agreed to by CMS and the MIPS eligible clinician or group. Data will be submitted via email, facsimile, or an electronic method via a secure Web site maintained by CMS.

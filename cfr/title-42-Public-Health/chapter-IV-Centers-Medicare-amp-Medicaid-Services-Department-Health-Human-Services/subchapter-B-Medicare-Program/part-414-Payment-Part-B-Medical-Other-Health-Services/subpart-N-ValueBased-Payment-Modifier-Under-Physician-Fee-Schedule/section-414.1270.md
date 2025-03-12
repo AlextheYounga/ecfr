@@ -1,5 +1,7 @@
 ##### § 414.1270 Determination and calculation of Value-Based Payment Modifier adjustments. #####
 
+Link to an amendment published at 82 FR 53363, Nov. 15, 2017.
+
 (a) For the CY 2015 payment adjustment period:
 
 (1) *Downward payment adjustments.* A downward payment adjustment will be applied to a group of physicians subject to the value-based payment modifier if -

@@ -1,5 +1,7 @@
 ##### § 414.1425 Qualifying APM participant determination: In general. #####
 
+Link to an amendment published at 82 FR 53961, Nov. 16, 2017.
+
 (a) *List used for QP determination.* (1) For Advanced APMs with Advanced APM Entities that include eligible clinicians on a Participation List, the Participation List defines the APM Entity group, regardless of whether the Advanced APM Entity also has eligible clinicians on an Affiliated Practitioner List.
 
 (2) For Advanced APMs with Advanced APM Entities that do not include eligible clinicians on a Participation List but do include eligible clinicians on an Affiliated Practitioner List, the Affiliated Practitioner List defines the eligible clinicians who will be assessed to become QPs.

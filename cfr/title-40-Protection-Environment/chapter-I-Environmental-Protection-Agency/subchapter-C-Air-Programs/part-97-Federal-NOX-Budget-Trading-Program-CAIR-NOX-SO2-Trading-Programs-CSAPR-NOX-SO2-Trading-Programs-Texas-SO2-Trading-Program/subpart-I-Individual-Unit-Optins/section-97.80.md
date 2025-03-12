@@ -1,0 +1,3 @@
+##### § 97.80 Applicability. #####
+
+A unit that is in a State (as defined in § 97.2), is not a NOX Budget unit under § 97.4(a), is not a unit exempt under § 97.4(b), vents all of its emissions to a stack, and is operating, may qualify to be a NOX Budget opt-in unit under this subpart. A unit that is a NOX Budget unit under § 97.4(a), is covered by an exemption under § 97.4(b) or § 97.5 that is in effect, or is not operating is not eligible to be a NOX Budget opt-in unit.

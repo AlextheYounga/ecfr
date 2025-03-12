@@ -1,5 +1,7 @@
 ##### § 414.1445 Identification of other payer advanced APMs. #####
 
+Link to an amendment published at 82 FR 53964, Nov. 16, 2017.
+
 (a) *Identification of Medicaid APMs.* CMS will make an annual determination prior to the QP Performance Period to identify Medicaid Medical Home Models and Medicaid APMs.
 
 (b) *Data used to calculate the Threshold Score under the All-Payer Combination Option.* To be assessed under the All-Payer Combination Option, APM Entities or eligible clinicians must submit the following information for each other payment arrangement in a manner and by a date specified by CMS:

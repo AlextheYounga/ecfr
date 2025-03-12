@@ -1,0 +1,3 @@
+##### § 97.901 Purpose. #####
+
+This subpart sets forth the general, designated representative, allowance, and monitoring provisions for the Texas SO2 Trading Program under sections 110 and 169A of the Clean Air Act and 40 CFR 52.2312, as a means of addressing Texas' obligations with respect to BART, reasonable progress, and interstate visibility transport as those obligations relate to sulfur dioxide emissions from electricity generating units.

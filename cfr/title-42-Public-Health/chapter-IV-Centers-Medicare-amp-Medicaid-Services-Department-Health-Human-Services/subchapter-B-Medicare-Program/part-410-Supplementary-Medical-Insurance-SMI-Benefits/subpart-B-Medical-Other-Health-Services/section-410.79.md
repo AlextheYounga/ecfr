@@ -1,5 +1,7 @@
 ##### § 410.79 Medicare diabetes prevention program expanded model: Conditions of coverage. #####
 
+Link to an amendment published at 82 FR 53358, Nov. 15, 2017.
+
 (a) Medicare Diabetes Prevention Program (MDPP) services will be available beginning on January 1, 2018.
 
 (b) *Definitions.* For purposes of this section, the following definitions apply:
