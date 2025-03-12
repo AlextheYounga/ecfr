@@ -1,5 +1,7 @@
 ##### § 80.59 Compulsory ship inspections. #####
 
+Link to an amendment published at 88 FR 44736, July 13, 2023.
+
 (a) Inspection of ships subject to the Communications Act or the Safety Convention.
 
 (1) The FCC will not normally conduct the required inspections of ships subject to the inspection requirements of the Communications Act or the Safety Convention.

@@ -1,7 +1,5 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 88 FR 38627, June 13, 2023.
-
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
 (a) *Refrigerators and refrigerator-freezers.* (1) The estimated annual operating cost for models without an anti-sweat heater switch shall be the product of the following three factors, with the resulting product then being rounded to the nearest dollar per year:
@@ -570,5 +568,7 @@ ETGE = EAGE + ETLPWhere:EAGE is the conventional gas cooking top annual active m
 (i) The annual energy consumption as calculated in accordance with section 7 of appendix FF of this subpart, and
 
 (ii) A representative average unit cost of electrical energy in dollars per kilowatt-hour as provided by the Secretary, the resulting product then being rounded off to the nearest dollar per year.
+
+(ii) *Portable electric spas.* Measure the standby loss in watts and the fill volume in gallons of a portable electric spa in accordance with appendix GG to this subpart.
 
 [42 FR 27898, June 1, 1977]Editorial Note:For Federal Register citations affecting § 430.23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

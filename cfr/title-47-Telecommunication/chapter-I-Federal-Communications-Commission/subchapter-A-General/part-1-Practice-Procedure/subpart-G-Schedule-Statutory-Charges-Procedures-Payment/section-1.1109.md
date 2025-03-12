@@ -1,5 +1,7 @@
 ##### § 1.1109 Schedule of charges for applications and other filings for the Homeland services. #####
 
+Link to an amendment published at 88 FR 44736, July 13, 2023.
+
 Payments should be made electronically using the Commission's electronic filing and payment system “Fee Filer” (*www.fcc.gov/feefiler*). Manual filings and/or payments for these services are no longer accepted.
 
 |                             Service                             |FCC Form No.|Fee amount|Payment type code|

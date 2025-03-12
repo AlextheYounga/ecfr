@@ -1,8 +1,8 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 88 FR 38627, June 13, 2023.Link to an amendment published at 88 FR 40473, June 21, 2023.
+Link to an amendment published at 88 FR 40473, June 21, 2023.
 
-(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at the DOE and at the National Archives and Records Administration (NARA). Contact DOE at: The U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-9127, *Buildings@ee.doe.gov, https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at DOE and at the National Archives and Records Administration (NARA). Contact DOE at: The U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, 1000 Independence Ave. SW, EE-5B, Washington, DC 20585, (202) 586-9127, *Buildings@ee.doe.gov, https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program.* For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations.html* or email *fr.inspection@nara.gov.* The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) Air Movement and Control Association International, Inc. (AMCA), 30 West University Drive, Arlington Heights, IL 60004, (847) 394-0150, or by going to *http://www.amca.org/store/item.aspx?ItemId=81.*
 
@@ -290,11 +290,11 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (4) ASTM E741-11 (Reapproved 2017) (“ASTM E741-11(2017)”), *Standard Test Method for Determining Air Change in a Single Zone Means of a Tracer Gas Dilution* Approved Sept. 1, 2017; IBR approved for appendix FF to subpart B.
 
-(k) *Canadian Standards Association (CSA).* CSA Group, 178 Rexdale Blvd., Toronto, ON, Canada M9W 1R3, 1-800-463-6727 or 416-747-4044, *www.csagroup.org.*
+(k) *CSA.* CSA Group, 178 Rexdale Blvd., Toronto, ON, Canada M9W 1R3, 1-800-463-6727 or 416-747-4044, *www.csagroup.org.*
 
 (1) ANSI Z21.86-2016 • CSA 2.32-2016 (“ANSI Z21.86-2016”), Vented gas-fired space heating appliances, ANSI-approved December 21, 2016; IBR approved for appendix O to subpart B.
 
-(2) [Reserved]
+(2) CSA C374:11 (R2021), Energy performance of hot tubs and spas, published November 2011, Update No. 1—National Standard of Canada—April 2012; IBR approved for appendix GG to subpart B of this part.
 
 (l) *CEA.* Consumer Electronics Association, Technology & Standards Department, 1919 S. Eads Street, Arlington, VA 22202, 703-907-7600, or go to *www.CE.org.*
 
@@ -504,13 +504,19 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (2) [Reserved]
 
-(w) *SMPTE.* Society of Motion Picture and Television Engineers, 3 Barker Ave., 5th Floor, White Plains, NY 10601, 914-761-1100, or go to *http://standards.smpte.org.*
+(w) *PHTA.* Pool & Hot Tub Alliance, 2111 Eisenhower Avenue, Suite 500, Alexandria, VA 22314 (*www.phta.org*), (703) 838-0083.
+
+(1) ANSI/APSP/ICC-14 2019, American National Standard for Portable Electric Spa Energy Efficiency, ANSI-approved November 19, 2019; IBR approved for appendix GG to subpart B of this part.
+
+(2) [Reserved]
+
+(x) *SMPTE.* Society of Motion Picture and Television Engineers, 3 Barker Ave., 5th Floor, White Plains, NY 10601, 914-761-1100, or go to *http://standards.smpte.org.*
 
 (1) SMPTE 170M-2004, (“SMPTE 170M-2004”), *SMPTE Standard for Television—Composite Analog Video Signal—NTSC for Studio Applications,* approved November 30, 2004; IBR approved for § 430.2.
 
 (2) [Reserved]
 
-(x) *UL.* Underwriters Laboratories, Inc., 2600 NW. Lake Rd., Camas, WA 98607-8542 (*www.UL.com*)
+(y) *UL.* Underwriters Laboratories, Inc., 2600 NW. Lake Rd., Camas, WA 98607-8542 (*www.UL.com*)
 
 (1) UL 729 (“UL 729-2016”), Standard for Safety for Oil-Fired Floor Furnaces, Sixth Edition, dated August 29, 2003, including revisions through November 22, 2016; IBR approved for appendix O to subpart B.
 

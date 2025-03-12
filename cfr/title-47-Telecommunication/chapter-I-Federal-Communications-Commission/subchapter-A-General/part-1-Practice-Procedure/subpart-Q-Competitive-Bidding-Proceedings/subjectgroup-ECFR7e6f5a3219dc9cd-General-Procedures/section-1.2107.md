@@ -1,5 +1,7 @@
 ##### § 1.2107 Submission of down payment and filing of long-form applications. #####
 
+Link to an amendment published at 88 FR 44736, July 13, 2023.
+
 (a) After bidding has ended, the Commission will identify and notify the high bidder and declare the bidding closed.
 
 (b) Unless otherwise specified by public notice, within ten (10) business days after being notified that it is a high bidder on a particular license(s), a high bidder must submit to the Commission's lockbox bank such additional funds (the “down payment”) as are necessary to bring its total deposits (not including upfront payments applied to satisfy bid withdrawal or default payments) up to twenty (20) percent of its high bid(s). (In single round sealed bid auctions conducted under § 1.2103, however, bidders may be required to submit their down payments with their bids.) Unless otherwise specified by public notice, this down payment must be made by wire transfer in U.S. dollars from a financial institution whose deposits are insured by the Federal Deposit Insurance Corporation and must be made payable to the Federal Communications Commission. Down payments will be held by the Commission until the high bidder has been awarded the license and has paid the remaining balance due on the license or authorization, in which case it will not be returned, or until the winning bidder is found unqualified to be a licensee or has defaulted, in which case it will be returned, less applicable payments. No interest on any down payment will be paid to the bidders.
