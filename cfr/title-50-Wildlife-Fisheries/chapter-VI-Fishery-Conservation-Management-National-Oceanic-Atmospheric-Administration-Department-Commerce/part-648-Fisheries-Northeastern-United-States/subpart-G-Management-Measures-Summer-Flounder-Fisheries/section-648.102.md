@@ -52,7 +52,7 @@
 
 (1) *Coastwide measures.* Annual coastwide management measures that constrain the recreational summer flounder fishery to the recreational harvest limit, or
 
-(2) *Conservation equivalent measures.* Individual states, or regions formed voluntarily by adjacent states (*i.e.,* multi-state conservation equivalency regions), may implement different combinations of minimum fish sizes, possession limits, and closed seasons that achieve equivalent conservation as the coastwide measures established under paragraph (e)(1) of this section. Each state or multi-state conservation equivalency region may implement measures by mode or area only if the proportional standard error of recreational landing estimates by mode or area for that state is less than 30 percent.
+(2) *Conservation equivalent measures.* Individual states, or regions formed voluntarily by adjacent states (*i.e.,* multi-state conservation equivalency regions), may implement different combinations of minimum and/or maximum fish sizes, possession limits, and closed seasons that achieve equivalent conservation as the coastwide measures established under paragraph (e)(1) of this section. Each state or multi-state conservation equivalency region may implement measures by mode or area only if the proportional standard error of recreational landing estimates by mode or area for that state is less than 30 percent.
 
 (i) After review of the recommendations, the Regional Administrator will publish a proposed rule in the Federal Register as soon as possible to implement the overall percent adjustment in recreational landings required for the fishing year, and the ASMFC's recommendation concerning conservation equivalency, the precautionary default measures, and coastwide measures.
 
@@ -64,4 +64,4 @@
 
 (e) *Research quota.* See § 648.22(g).
 
-[76 FR 60626, Sept. 29, 2011, as amended at 76 FR 81849, Dec. 29, 2011; 80 FR 37196, June 30, 2015; 84 FR 65702, Nov. 29, 2019]
+[76 FR 60626, Sept. 29, 2011, as amended at 76 FR 81849, Dec. 29, 2011; 80 FR 37196, June 30, 2015; 84 FR 65702, Nov. 29, 2019; 85 FR 36803, June 18, 2020]

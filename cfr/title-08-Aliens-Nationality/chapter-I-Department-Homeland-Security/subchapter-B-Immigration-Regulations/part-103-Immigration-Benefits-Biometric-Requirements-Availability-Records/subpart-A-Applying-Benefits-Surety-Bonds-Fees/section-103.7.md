@@ -1,7 +1,5 @@
 ##### § 103.7 Fees. #####
 
-Link to an amendment published at 85 FR 29309, May 14, 2020.
-
 (a) *Remittances.* (1) Fees shall be submitted with any formal application or petition prescribed in this chapter in the amount prescribed by law or regulation. Except for fees remitted directly to the Board of Immigration Appeals pursuant to the provisions of 8 CFR 1003.8, or as the Attorney General otherwise may provide by regulation, any fee relating to any Department of Justice Executive Office for Immigration Review proceeding shall be paid to, and accepted by, any USCIS office authorized to accept fees. The immigration court does not collect fees. Payment of any fee under this section does not constitute filing of the document with the Board of Immigration Appeals or with the Immigration Court. The Department of Homeland Security shall return to the payer, at the time of payment, a receipt for any fee paid. The USCIS shall also return to the payer any documents, submitted with the fee, relating to any Immigration Court proceeding.
 
 (2) Remittances must be drawn on a bank or other institution located in the United States and be payable in United States currency. Remittances must be made payable in accordance with the guidance specific to the applicable U.S. Government office when submitting to a Department of Homeland Security office located outside of the United States. Remittances to the Board of Immigration Appeals must be made payable to the “United States Department of Justice,” in accordance with 8 CFR 1003.8. If a remittance in payment of a fee or any other matter is not honored by the bank or financial institution on which it is drawn:
@@ -54,7 +52,7 @@ Link to an amendment published at 85 FR 29309, May 14, 2020.
 
 (I) *Petition for a Nonimmigrant Worker,* Form I-129. For filing a petition for a nonimmigrant worker: $460.
 
-(J) *Petition for Nonimmigrant Worker in CNMI,* Form I-129CW. For an employer to petition on behalf of one or more beneficiaries: $460 plus a supplemental CNMI education funding fee of $150 per beneficiary per year. The CNMI education funding fee cannot be waived.
+(J) Petition for Nonimmigrant Worker in CNMI, Form I-129CW. For an employer to petition on behalf of one or more beneficiaries: $460 plus the following fees: A supplemental CNMI education funding fee of $200 per beneficiary per year and a $50 fraud prevention and detection fee per employer filing a petition. The CNMI education and fraud fees cannot be waived. The Secretary may adjust the education fee annually by notice in the Federal Register for petitions filed on or after each adjustment's effective date, based on a percentage equal to the annual change in the unadjusted All Items Consumer Price Index for All Urban Consumers (CPI-U) for the U.S. City Average published by the Bureau of Labor Statistics.
 
 (K) *Petition for Alien Fiancé(e),* Form I-129F. For filing a petition to classify a nonimmigrant as a fiancée or fiancé under section 214(d) of the Act: $535; there is no fee for a K-3 spouse as designated in 8 CFR 214.1(a)(2) who is the beneficiary of an immigrant petition filed by a United States citizen on a Petition for Alien Relative, Form I-130.
 

@@ -1,7 +1,5 @@
 ##### § 208.2 Jurisdiction. #####
 
-Link to an amendment published at 85 FR 29310, May 14, 2020.
-
 (a) *Refugee, Asylum, and International Operations (RAIO)* Except as provided in paragraph (b) or (c) of this section, RAIO shall have initial jurisdiction over an asylum application filed by an alien physically present in the United States or seeking admission at a port-of-entry. RAIO shall also have initial jurisdiction over credible fear determinations under § 208.30 and reasonable fear determinations under § 208.31.
 
 (b) *Jurisdiction of Immigration Court in general.* Immigration judges shall have exclusive jurisdiction over asylum applications filed by an alien who has been served a Form I-221, Order to Show Cause; Form I-122, Notice to Applicant for Admission Detained for a Hearing before an Immigration Judge; or Form I-862, Notice to Appear, after the charging document has been filed with the Immigration Court. Immigration judges shall also have jurisdiction over any asylum applications filed prior to April 1, 1997, by alien crewmembers who have remained in the United States longer than authorized, by applicants for admission under the Visa Waiver Pilot Program, and by aliens who have been admitted to the United States under the Visa Waiver Pilot Program. Immigration judges shall also have the authority to review reasonable fear determinations referred to the Immigration Court under § 208.31, and credible fear determinations referred to the Immigration Court under § 208.30.
@@ -18,17 +16,17 @@ Link to an amendment published at 85 FR 29310, May 14, 2020.
 
 (ii) An alien stowaway who has been found to have a credible fear of persecution or torture pursuant to the procedures set forth in subpart B of this part;
 
-(iii) An alien who is an applicant for admission pursuant to the Visa Waiver Program under section 217 of the Act, except that if such an alien is an applicant for admission to the Commonwealth of the Northern Mariana Islands, then he or she shall not be eligible for asylum prior to January 1, 2015;
+(iii) An alien who is an applicant for admission pursuant to the Visa Waiver Program under section 217 of the Act, except that if such an alien is an applicant for admission to the Commonwealth of the Northern Mariana Islands, then he or she shall not be eligible for asylum prior to January 1, 2030;
 
-(iv) An alien who was admitted to the United States pursuant to the Visa Waiver Program under section 217 of the Act and has remained longer than authorized or has otherwise violated his or her immigration status, except that if such an alien was admitted to the Commonwealth of the Northern Mariana Islands, then he or she shall not be eligible for asylum in the Commonwealth of the Northern Mariana Islands prior to January 1, 2015;
+(iv) An alien who was admitted to the United States pursuant to the Visa Waiver Program under section 217 of the Act and has remained longer than authorized or has otherwise violated his or her immigration status, except that if such an alien was admitted to the Commonwealth of the Northern Mariana Islands, then he or she shall not be eligible for asylum in the Commonwealth of the Northern Mariana Islands prior to January 1, 2030;
 
 (v) An alien who has been ordered removed under § 235(c) of the Act, as described in § 235.8(a) of this chapter (applicable only in the event that the alien is referred for proceedings under this paragraph by the Regional Director pursuant to section 235.8(b)(2)(ii) of this chapter);
 
 (vi) An alien who is an applicant for admission, or has been admitted, as an alien classified under section 101(a)(15)(S) of the Act (applicable only in the event that the alien is referred for proceedings under this paragraph by the district director);
 
-(vii) An alien who is an applicant for admission to Guam or the Commonwealth of the Northern Mariana Islands pursuant to the Guam-CNMI Visa Waiver Program under section 212(l) of the Act, except that if such an alien is an applicant for admission to the Commonwealth of the Northern Mariana Islands, then he or she shall not be eligible for asylum prior to January 1, 2015; or
+(vii) An alien who is an applicant for admission to Guam or the Commonwealth of the Northern Mariana Islands pursuant to the Guam-CNMI Visa Waiver Program under section 212(l) of the Act, except that if such an alien is an applicant for admission to the Commonwealth of the Northern Mariana Islands, then he or she shall not be eligible for asylum prior to January 1, 2030; or
 
-(viii) An alien who was admitted to Guam or the Commonwealth of the Northern Mariana Islands pursuant to the Guam-CNMI Visa Waiver Program under section 212(l) of the Act and has remained longer than authorized or has otherwise violated his or her immigration status, except that if such an alien was admitted to the Commonwealth of the Northern Mariana Islands, then he or she shall not be eligible for asylum in the Commonwealth of the Northern Mariana Islands prior to January 1, 2015.
+(viii) An alien who was admitted to Guam or the Commonwealth of the Northern Mariana Islands pursuant to the Guam-CNMI Visa Waiver Program under section 212(l) of the Act and has remained longer than authorized or has otherwise violated his or her immigration status, except that if such an alien was admitted to the Commonwealth of the Northern Mariana Islands, then he or she shall not be eligible for asylum in the Commonwealth of the Northern Mariana Islands prior to January 1, 2030.
 
 (2) *Withholding of removal applications only.* After Form I-863, Notice of Referral to Immigration Judge, has been filed with the Immigration Court, an immigration judge shall have exclusive jurisdiction over any application for withholding of removal filed by:
 
@@ -48,4 +46,4 @@ Link to an amendment published at 85 FR 29310, May 14, 2020.
 
 (iii) *Relief.* The filing of a motion to reopen shall not stay removal of the alien unless the immigration judge issues an order granting a stay pending disposition of the motion. An alien who fails to appear for a proceeding under this section shall not be eligible for relief under section 240A, 240B, 245, 248, or 249 of the Act for a period of 10 years after the date of the denial, unless the applicant can show exceptional circumstances resulted in his or her failure to appear.
 
-[65 FR 76130, Dec. 6, 2000, as amended at 74 FR 55736, Oct. 28, 2009; 76 FR 53784, Aug. 29, 2011]
+[65 FR 76130, Dec. 6, 2000, as amended at 74 FR 55736, Oct. 28, 2009; 76 FR 53784, Aug. 29, 2011; 85 FR 29310, May 14, 2020]

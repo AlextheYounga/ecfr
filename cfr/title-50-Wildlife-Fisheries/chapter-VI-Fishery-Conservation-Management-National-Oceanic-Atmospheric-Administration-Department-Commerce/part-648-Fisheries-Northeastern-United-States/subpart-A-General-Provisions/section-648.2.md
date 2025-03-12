@@ -1,7 +1,5 @@
 ##### § 648.2 Definitions. #####
 
-Link to an amendment published at 85 FR 29876, May 19, 2020.
-
 In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, the terms used in this part have the following meanings:
 
 *Alewife* means *Alosa pseudoharengus.*
@@ -653,6 +651,8 @@ Yellowtail flounder - *Pleuronectes ferruginea.*
 *Stock of concern,* with respect to the NE multispecies fishery, means a stock that is in an overfished condition, or that is subject to overfishing.
 
 *Stocks targeted by the default measures,* with respect to the NE multispecies fishery, are: American plaice, and SNE/MA yellowtail flounder for the 2006 fishing year; and American plaice, GB cod, GOM cod, CC/GOM yellowtail flounder, SNE/MA yellowtail flounder, white hake and SNE/MA winter flounder for the 2009 fishing year.
+
+*Straight line,* with regard to regulated areas, means a rhumb line, unless explicitly stated otherwise.
 
 *Stretched mesh*, with respect to the NE multispecies Ruhle Trawl, means mesh that is pulled so that slack in the mesh is eliminated and the mesh opening is closed.
 

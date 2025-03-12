@@ -1138,6 +1138,10 @@ Note to the defintion of “Stability”:
 
 For gyroscopes, “stability” can be estimated by determining the Allan variance noise-analysis value at the integration period (*i.e.,* sample time) consistent with the stated measurement period, which may include extrapolating the Allan variance noise analysis beyond the instability point into the rate random walk or rate ramp regions to an integration period consistent with the stated measurement period (Reference: IEEE Std. 952-1997 [R2008]). Allan variance noise analysis is often used to characterize Micro Electro Mechanical Systems (MEMS) gyroscopes, and is applicable to other gyroscopes, such as Ring Laser Gyroscopes (RLGs) and Fiber Optic Gyroscopes (FOGs).
 
+*Standard.* This term is equivalent to “standard” or “technical standard” as defined in Office of Management and Budget Circular A-119 (Rev. 2016) (81 FR 4673 (Jan. 27, 2016)), “Federal Participation in the Development and Use of Voluntary Consensus Standards and in Conformity Assessment Activities” section 2.a, available at *https://www.nist.gov/system/files/revised\_circular\_a-119\_as\_of\_01-22-2016.pdf.*
+
+*Standards organization.* This term is equivalent to “voluntary consensus standards body,” as defined in Office of Management and Budget Circular A-119 (Rev. 2016) (81 FR 4673 (Jan. 27, 2016)), “Federal Participation in the Development and Use of Voluntary Consensus Standards and in Conformity Assessment Activities” section 2.e, available at *https://www.nist.gov/system/files/revised\_circular\_a-119\_as\_of\_01-22-2016.pdf.*
+
 *Steady state mode.* (Cat 9) The term “steady state mode” defines engine operation conditions, where the engine parameters, such as thrust/power, rpm and others, have no appreciable fluctuations, when the ambient air temperature and pressure at the engine inlet are constant.
 
 *Stored program controlled.* (Cat 2, 3, and 5) - A control using instructions stored in an electronic storage that a processor can execute in order to direct the performance of predetermined functions.

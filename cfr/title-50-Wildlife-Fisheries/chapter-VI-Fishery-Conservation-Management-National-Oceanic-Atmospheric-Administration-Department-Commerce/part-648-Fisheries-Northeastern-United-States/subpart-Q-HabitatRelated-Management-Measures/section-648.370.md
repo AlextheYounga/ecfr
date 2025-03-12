@@ -1,7 +1,5 @@
 ##### § 648.370 Habitat Management Areas. #####
 
-Link to an amendment published at 85 FR 29876, May 19, 2020.
-
 Unless otherwise specified, no fishing vessel or person on a fishing vessel may fish with bottom-tending mobile gear in the areas defined in this section. Copies of charts depicting these areas are available from the Regional Administrator upon request.
 
 (a) *Eastern Maine Habitat Management Area.* The Eastern Maine HMA is bounded on the northwest by the outer limit of Maine state waters, and bounded on all other sides by straight lines connecting the following points in the order stated:
@@ -128,22 +126,75 @@ Great South Channel HMA
 |GSCH5|41°30.2′ N|69°49.3′ W |
 |GSCH1|41°30.3′ N|69°31.0′ W |
 
-(2) *Hydraulic Clam Dredge Exemption.* (i) Except for the portion of the Great South Channel HMA defined in paragraph (h)(2)(iii) of this section, surfclam and ocean quahog permitted vessels may fish with hydraulic clam dredges in the Great South Channel HMA.
+(2) *Atlantic Surfclam and Mussel Dredge Exemption Areas.* (i) *Dredge Exemption Area Requirements.* A vessel may fish in one or more of the Dredge Exemption Areas below, provided the area is open and the vessel meets the following requirements:
 
-(ii) The Hydraulic clam dredge exemption is effective until April 9, 2019, after which, no vessels fishing with hydraulic clam dredges may fish within the Great South Channel HMA.
+(A) Holds a federal Atlantic surfclam vessel permit.
 
-(iii) The hydraulic clam dredge exemption does not apply in the area defined as the straight lines connecting the following points in the order stated:
+(B) Has been issued a Letter of Authorization to fish in the Great South Channel HMA from the Regional Administrator.
 
-|Point|N latitude|W longitude|
-|-----|----------|-----------|
-|GSC1 |41°30.3′ N|69°31.0′ W |
-|MBTG2|41°21.0′ N|69°27.2′ W |
-|MBTG3|41°21.0′ N|69°43.0′ W |
-|MBTG4|41°30.0′ N|69°43.0′ W |
-|GSC1 |41°30.3′ N|69°31.0′ W |
+(C) Has a NMFS-approved VMS unit capable of automatically transmitting a signal indicating the vessel's accurate position at least once every 5 minutes while in or near the Great South Channel HMA.
+
+(D) Declares each trip into the HMA through the VMS and fishes exclusively inside HMA dredge exemption areas on such trips.
+
+(E) When fishing for surfclams in an HMA exemption area, uses only hydraulic clam dredge gear.
+
+(F) When fishing for blue mussels in an HMA exemption area, any dredge on board the vessel does not exceed 8 ft (2.4 m), measured at the widest point in the bail of the dredge, and the vessel does not possess, or land any species of fish other than blue mussels.
+
+(ii) *McBlair Dredge Exemption Area.* (A) The McBlair Dredge Exemption Area is defined by the following points connected in the order listed by straight lines:
+
+McBlair Dredge Exemption Area
+
+|Point| Longitude  |  Latitude  |
+|-----|------------|------------|
+|  1  |69°49.255′ W|41°25.878′ N|
+|  2  |69°46.951′ W|41°25.878′ N|
+|  3  |69°46.951′ W|41°19.34′ N |
+|  4  |69°49.187′ W|41°19.34′ N |
+|  1  |69°49.255′ W|41°25.878′ N|
+
+(B) The McBlair Dredge Exemption Area is open year-round.
+
+(iii) *Old South Dredge Exemption Area.* (A) The Old South Dredge Exemption Area is defined by the following points connected in the order listed by straight lines:
+
+Old South Dredge Exemption Area
+
+|Point| Longitude  |  Latitude  |
+|-----|------------|------------|
+|  1  |  69°47′ W  |  41°15′ N  |
+|  2  |  69°44′ W  |  41°15′ N  |
+|  3  |69°44.22′ W |41°10.432′ N|
+|  4  |  69°45′ W  |  41°7′ N   |
+|  5  |  69°47′ W  |  41°7′ N   |
+|  6  |  69°47′ W  |  41°11′ N  |
+|  7  |69°49.101′ W|  41°11′ N  |
+|  8  |69°49.116′ W| 41°12.5′ N |
+|  9  |  69°47′ W  | 41°12.5′ N |
+|  1  |  69°47′ W  |  41°15′ N  |
+
+(B) The Old South Dredge Exemption Area is open from May 1-October 31, and closed to all mobile bottom-tending gear November 1-April 30.
+
+(iv) *Fishing Rip Dredge Exemption Area.* (A) The Fishing Rip Dredge Exemption Area is defined by the following points connected in the order listed by straight lines:
+
+Fishing Rip Dredge Exemption Area
+
+|Point| Longitude  |  Latitude  |
+|-----|------------|------------|
+|  1  |69°28.829′ W|41°10.963′ N|
+|  2  |69°27.106′ W|41°10.485′ N|
+|  3  |69°29.311′ W|41°6.699′ N |
+|  4  |69°27.034′ W|41°6.609′ N |
+|  5  |69°27.376′ W|41°3.198′ N |
+|  6  |69°29.905′ W|41°1.297′ N |
+|  7  |69°32.579′ W|41°5.368′ N |
+|  8  |69°31.193′ W|41°7.356′ N |
+|  1  |69°28.829′ W|41°10.963′ N|
+
+(B) The Fishing Rip Dredge Exemption Area is open year-round.
 
 (i) *Transiting.* Unless otherwise restricted, a vessel may transit the habitat management areas described in this section provided that its gear is stowed and not available for immediate use as defined in § 648.2.
 
 (j) *Other habitat protection measures.* The Inshore Gulf of Maine/Georges Bank Restricted Roller Gear Area described in § 648.80(a)(3)(vii) is considered a habitat protection measure and the restrictions outlined in that section apply to all bottom trawl gear.
 
 (k) *Review of habitat management measures.* The New England Fishery Management Council will develop a strategic process to evaluate the boundaries, scope, characteristics, and timing of habitat and spawning protection areas to facilitate review of these areas at 10-year intervals.
+
+[83 FR 15275, Apr. 9, 2018, as amended at 85 FR 29876, May 19, 2020]

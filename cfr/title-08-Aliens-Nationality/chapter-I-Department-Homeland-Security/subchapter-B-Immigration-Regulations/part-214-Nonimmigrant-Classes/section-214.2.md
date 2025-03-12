@@ -1,7 +1,5 @@
 ##### § 214.2 Special requirements for admission, extension, and maintenance of status. #####
 
-Link to an amendment published at 85 FR 29311, May 14, 2020.
-
 The general requirements in § 214.1 are modified for the following nonimmigrant classes:
 
 (a) *Foreign government officials* - (1) *General.* The determination by a consular officer prior to admission and the recognition by the Secretary of State subsequent to admission is evidence of the proper classification of a nonimmigrant under section 101(a)(15)(A) of the Act. An alien who has a nonimmigrant status under section 101(a)(15)(A)(i) or (ii) of the Act is to be admitted for the duration of the period for which the alien continues to be recognized by the Secretary of State as being entitled to that status. An alien defined in section (101)(a)(15)(A)(iii) of the Act is to be admitted for an initial period of not more than three years, and may be granted extensions of temporary stay in increments of not more than two years. In addition, the application for extension of temporary stay must be accompanied by a statement signed by the employing official stating that he/she intends to continue to employ the applicant and describing the type of work the applicant will perform.
@@ -308,7 +306,7 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (E) *Public organization* means a CNMI public corporation or an agency of the CNMI government.
 
-(F) *Transition period* means the period beginning on the transition program effective date and ending on December 31, 2014.
+(F) Transition period means the period beginning on the transition program effective date and ending on December 31, 2029.
 
 (iii) *Long-term investor status.* Long-term investor status under the immigration laws of the CNMI includes only the following investor classifications under CNMI immigration laws as in effect on or before November 27, 2009:
 
@@ -396,7 +394,7 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (xiii) *Change of status.* An alien lawfully admitted to the United States in another valid nonimmigrant status who is continuing to maintain that status may apply to change nonimmigrant status to E-2 CNMI Investor in accordance with paragraph (e)(21) of this section, if otherwise eligible, including but not limited to having been in CNMI long-term investor status on the transition date and within the period provided by paragraph (e)(23)(v) of this section.
 
-(xiv) *Expiration of initial transition period.* Upon expiration of the initial transition period, the E-2 CNMI Investor nonimmigrant status will automatically terminate.
+(xiv) *Expiration of the transition period.* Upon expiration of the transition period, the E-2 CNMI Investor nonimmigrant status will automatically terminate.
 
 (xv) *Fee waiver.* An alien applying for E-2 CNMI Investor nonimmigrant status is eligible for a waiver of the required fee for an application based upon inability to pay as provided by 8 CFR 103.7(c)(1).
 
@@ -3292,41 +3290,91 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (w) *CNMI-Only Transitional Worker (CW-1)* - (1) *Definitions.* The following definitions apply to petitions for and maintenance of CW status in the Commonwealth of the Northern Mariana Islands (the CNMI or the Commonwealth):
 
-(i) *Direct Guam transit* means travel from the CNMI to the Philippines by an alien in CW status, or from the Philippines to the CNMI by an alien with a valid CW visa, on a direct itinerary involving a flight stopover or connection in Guam (and no other place) within 8 hours of arrival in Guam, without the alien leaving the Guam airport.
+(i) *CW-1 Application for Temporary Employment Certification* means the Office of Management and Budget (OMB)-approved Form ETA-9142C (or successor form) and the appropriate appendices, a valid prevailing wage determination (Form ETA-9141C, or successor form), and all supporting documentation submitted by an employer, as set forth in the U.S. Department of Labor's (DOL) regulations at 20 CFR 655.420 through 655.422, to secure a temporary labor certification determination from DOL's Office of Foreign Labor Certification (OFLC) Administrator.
 
-(ii) *Doing business* means the regular, systematic, and continuous provision of goods or services by an employer as defined in this paragraph and does not include the mere presence of an agent or office of the employer in the CNMI.
+(ii) *Direct Guam transit* means travel from the CNMI to a foreign place by an alien in CW status, or from a foreign place to the CNMI by an alien with a valid CW visa, on a direct itinerary involving a flight stopover or connection in Guam (and no other place).
 
-(iii) *Employer* means a person, firm, corporation, contractor, or other association, or organization which:
+(iii) *Doing business* means the regular, systematic, and continuous provision of goods or services by an employer as defined in this paragraph and does not include the mere presence of an agent or office of the employer in the CNMI.
+
+(iv) *Employer* means a person, firm, corporation, contractor, or other association, or organization which:
 
 (A) Engages a person to work within the CNMI; and
 
 (B) Has or will have an employer-employee relationship with the CW-1 nonimmigrant being petitioned for.
 
-(iv) *Employer-employee relationship* means that the employer will hire, pay, fire, supervise, and control the work of the employee.
+(v) *Employer-employee relationship* means that the employer will hire, pay, fire, supervise, and control the work of the employee.
 
-(v) *Lawfully present in the CNMI* means that the alien:
+(vi) *Lawfully present in the CNMI* means that the alien was lawfully admitted or paroled into the CNMI under the immigration laws on or after the transition program effective date, other than an alien admitted or paroled as a visitor for business or pleasure (B-1 or B-2, under any visa-free travel provision or parole of certain visitors from Russia and the People's Republic of China), and remains in a lawful immigration status or if paroled into the CNMI, the authorized parole period has not expired.
 
-(A) At the time the application for CW status is filed, is an alien lawfully present in the CNMI under 48 U.S.C. 1806(e); or
+(vii) *Legitimate business,* as determined by DHS, means a real, active, and operating commercial or entrepreneurial undertaking that:
 
-(B) Was lawfully admitted or paroled into the CNMI under the immigration laws on or after the transition program effective date, other than an alien admitted or paroled as a visitor for business or pleasure (B-1 or B-2, under any visa-free travel provision or parole of certain visitors from Russia and the People's Republic of China), and remains in a lawful immigration status.
+(A) Produces services or goods for profit, or is a governmental, charitable or other validly recognized nonprofit entity;
 
-(vi) *Legitimate business* means a real, active, and operating commercial or entrepreneurial undertaking which produces services or goods for profit, or is a governmental, charitable or other validly recognized nonprofit entity. The business must meet applicable legal requirements for doing business in the CNMI. A business will not be considered legitimate if it engages directly or indirectly in prostitution, trafficking in minors, or any other activity that is illegal under Federal or CNMI law. DHS will determine whether a business is legitimate.
+(B) Meets applicable legal requirements for doing business in the CNMI;
 
-(vii) *Minor child* means a child as defined in section 101(b)(1) of the Act who is under 18 years of age.
+(C) Has substantially complied with wage and hour laws, occupational safety and health requirements, nondiscrimination, and all other Federal, CNMI, and local requirements relating to employment during the five-year period immediately preceding the date of filing the petition, and continues to be in substantial compliance with such requirements;
 
-(viii) *Numerical limitation* means the maximum number of persons who may be granted CW-1 status in a given fiscal year or other period as determined by DHS, as follows:
+(D) Does not directly or indirectly engage in, or knowingly benefit from, prostitution, human trafficking, or any other activity that is illegal under Federal, CNMI, or local law;
 
-(A) For fiscal year 2011, the numerical limitation is 22,417 per fiscal year.
+(E) Is a participant in good standing in the E-Verify program;
 
-(B) For fiscal year 2012, the numerical limitation is 22,416 per fiscal year.
+(F) Does not have, as an owner, investor, manager, operator, or person meaningfully involved with the undertaking, any individual who has been an owner, investor, manager, operator, or person otherwise meaningfully involved with an undertaking that was not in compliance with paragraph (w)(1)(vii)(C) of this section at the time of the individual's involvement and within the five years immediately preceding the date of filing the petition; or that was not in compliance with clause paragraph (w)(1)(vii)(D) of this section at any time during which the individual was involved with the undertaking, or is an agent of such individual; and
 
-(C) For each fiscal year beginning on October 1, 2012 until the end of the transition period, the numerical limitation will be a number less than 22,416 that is determined by DHS and published via Notice in the Federal Register. The numerical limitation for any fiscal year will be less than the number for the previous fiscal year, and will be a number reasonably calculated in DHS's discretion to reduce the number of CW-1 nonimmigrants to zero by the end of the transition period.
+(G) Is not a successor in interest to an undertaking that has not complied with paragraphs (C) or (D).
 
-(D) DHS may adjust the numerical limitation for a fiscal year or other period in its discretion at any time via Notice in the Federal Register, as long as such adjustment is consistent with paragraph (w)(1)(viii)(C) of this section.
+(viii) *Long-term worker* means an alien who was admitted to the CNMI, or otherwise granted status, as a CW-1 nonimmigrant during fiscal year 2015, and during each of fiscal years 2016 through 2018.
+
+(ix) *Minor child* means a child as defined in section 101(b)(1) of the Act who is under 18 years of age.
+
+(x) *Numerical limitation* means the maximum number of persons who may be granted CW-1 status in a given fiscal year, as follows:
+
+(A) For fiscal years 2018 through the first quarter of fiscal year 2030, the numerical limitations are:
+
+(*1*) 9,998 for fiscal year 2018;
+
+(*2*) 13,000 for fiscal year 2019;
+
+(*3*) 12,500 for fiscal year 2020;
+
+(*4*) 12,000 for fiscal year 2021;
+
+(*5*) 11,500 for fiscal year 2022;
+
+(*6*) 11,000 for fiscal year 2023;
+
+(*7*) 10,000 for fiscal year 2024;
+
+(*8*) 9,000 for fiscal year 2025;
+
+(*9*) 8,000 for fiscal year 2026;
+
+(*10*) 7,000 for fiscal year 2027;
+
+*(11*) 6,000 for fiscal year 2028;
+
+(*12*) 5,000 for fiscal year 2029; and
+
+(*13*) 1,000 for the first quarter of fiscal year 2030.
+
+(B) A long-term worker granted CW-1 nonimmigrant status for a period exceeding one year shall be counted toward the numerical limitation, and toward any reservation of CW-1 numbers, as described in paragraph (w)(1)(x)(D)(*1*) of this section, if applicable, for each fiscal year within the period of petition validity.
+
+(C) For each petition revoked entirely or in part in a fiscal year, the numerical limitation for the next fiscal year shall be increased by the number of beneficiaries of such petitions subject to such revocation before the end of the validity period of the petition.
+
+(D)(*1*) Within the numerical limitations described in paragraph (w)(1)(x)(A) of this section, the following reservations of CW-1 numbers for specified occupational categories shall apply:
+
+(*i*) 200 for occupational categories 29-0000 (Healthcare Practitioners and Technical Occupations) and 31-0000 (Healthcare Support Occupations); and
+
+(*ii*) 60 for occupational categories related to the operations of the CNMI public utilities services, including, but not limited to, 17-2081 (Water/Waste Water Engineers), 17-2071 (Electrical Engineers), 17-2141 (Mechanical Engineers), and Trades Technicians.
+
+(*2*) Reserved CW-1 numbers described in paragraph (w)(1)(x)(D)(*1*) of this section will be made available to eligible petitioners requesting such numbers for a fiscal year in order of filing, separately under either paragraph (w)(1)(x)(D)(*1*)(*i*) or (*ii*) of this section, until exhausted. Unused reserved numbers under either paragraph (w)(1)(x)(D)(*1*)(*i*) or (*ii*) of this section will not be available to other petitioners.
+
+(*3*) DHS may adjust the reservation of numbers for specified occupational categories for a fiscal year or other period via publication of a notice in the Federal Register, as long as such adjustment is consistent with paragraph (w)(1)(x)(A) of this section. DHS will base any such adjustment on factors including: The level of past demand for reserved numbers compared to supply; whether a reservation of numbers has resulted in unused numbers; reservation of numbers compared to overall numerical limitation in a fiscal year; and any recommendation received from the Governor of the CNMI regarding the adjustment of the reservation of numbers.
 
 (E) If the numerical limitation is not reached for a specified fiscal year, unused numbers do not carry over to the next fiscal year.
 
-(ix) *Occupational category* means those employment activities that DHS has determined require alien workers to supplement the resident workforce and includes:
+(F) If USCIS receives a sufficient number of petitions to meet the numerical limitation in paragraph (w)(1)(x)(A) of this section in a fiscal year, USCIS will cease processing further cap-subject petitions in that fiscal year, and DOL may cease processing cap-subject applications for temporary labor certification for that fiscal year.
+
+(xi) *Occupational category* means those employment activities that DHS has determined require alien workers to supplement the resident workforce and includes:
 
 (A) Professional, technical, or management occupations;
 
@@ -3346,15 +3394,39 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (I) Miscellaneous occupations.
 
-(x) *Petition* means USCIS Form I-129CW, Petition for a CNMI-Only Nonimmigrant Transitional Worker, a successor form, other form, or electronic equivalent, any supplemental information requested by USCIS, and additional evidence as may be prescribed or requested by USCIS.
+(xii) *Participant in good standing in the E-Verify program* means an employer, as defined in paragraph (w)(1)(iv) of this section, that has enrolled in E-Verify with respect to all hiring sites in the United States as of the time of filing a petition; is in compliance with all requirements of the E-Verify program, including but not limited to verifying the employment eligibility of newly hired employees in the United States; and continues to be a participant in good standing in E-Verify at any time during which the employer employs any CW-1 nonimmigrant.
 
-(xi) *Transition period* means the period beginning on the transition program effective date and ending on December 31, 2014, unless the CNMI-only transitional worker program is extended by the Secretary of Labor, in which case the transition period will end for purposes of the CW transitional worker program on the date designated by the Secretary of Labor.
+(xiii) *Petition* means USCIS Form I-129CW, Petition for a CNMI-Only Nonimmigrant Transitional Worker, a successor form, other form, or electronic equivalent, any supplemental information requested by USCIS, and additional evidence as may be prescribed or requested by USCIS.
 
-(xii) *United States worker* means a national of the United States, an alien lawfully admitted for permanent residence, or a national of the Federated States of Micronesia, the Republic of the Marshall Islands, or the Republic of Palau who is eligible for nonimmigrant admission and is employment-authorized under the Compacts of Free Association between the United States and those nations.
+(xiv) *Successor in interest* means an employer that is controlling and carrying on the business of a previous employer. The following factors may be considered in determining whether an employer is a successor in interest; no one factor is dispositive, but all of the circumstances will be considered as a whole:
+
+(A) Substantial continuity of the same business operations;
+
+(B) Use of the same facilities;
+
+(C) Continuity of the work force;
+
+(D) Similarity of jobs and working conditions;
+
+(E) Similarity of supervisory personnel;
+
+(F) Whether the former management or owner retains a direct or indirect interest in the new enterprise;
+
+(G) Similarity in machinery, equipment, and production methods;
+
+(H) Similarity of products and services; and
+
+(I) The ability of the predecessor to provide relief.
+
+(xv) *Temporary Labor Certification* or *TLC* means the certification made by the DOL OFLC Administrator, based on the *CW-1 Application for Temporary Employment Certification,* and all supporting documentation, with respect to an employer seeking to file with a CW-1 petition.
+
+(xvi) *Transition period* means the period beginning on the transition program effective date and ending on December 31, 2029.
+
+(xvii) *United States worker* means a citizen or national of the United States, an alien lawfully admitted for permanent residence, or a citizen of the Federated States of Micronesia, the Republic of the Marshall Islands, or the Republic of Palau who is eligible for nonimmigrant admission and is employment-authorized under the Compacts of Free Association between the United States and those nations.
 
 (2) *Eligible aliens.* Subject to the numerical limitation, an alien may be classified as a CW-1 nonimmigrant if, during the transition period, the alien:
 
-(i) Will enter or remain in the CNMI for the purpose of employment in the transition period in an occupational category that DHS has designated as requiring alien workers to supplement the resident workforce;
+(i) Will enter or remain in the CNMI for the purpose of employment within the transition period in an occupational category that DHS has designated as requiring alien workers to supplement the resident workforce;
 
 (ii) Is petitioned for by an employer;
 
@@ -3362,9 +3434,11 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (iv) If present in the CNMI, is lawfully present in the CNMI;
 
-(v) Is not inadmissible to the United States as a nonimmigrant or has been granted a waiver of each applicable ground of inadmissibility; and
+(v) Is not inadmissible to the United States as a nonimmigrant or has been granted a waiver of each applicable ground of inadmissibility;
 
-(vi) Is ineligible for status in a nonimmigrant worker classification under section 101(a)(15) of the Act.
+(vi) Is ineligible for status in a nonimmigrant worker classification under section 101(a)(15) of the Act; and
+
+(vii) Will not be employed in a Construction and Extraction Occupation (as defined by the U.S. Department of Labor as Standard Occupational Classification Group 47-0000 or successor provision) unless the alien is a long-term worker.
 
 (3) *Derivative beneficiaries - CW-2 nonimmigrant classification.* The spouse or minor child of a CW-1 nonimmigrant may accompany or follow the alien as a CW-2 nonimmigrant if the alien:
 
@@ -3378,13 +3452,13 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (i) Be engaged in legitimate business;
 
-(ii) Consider all available United States workers for the position being filled by the CW-1 worker;
+(ii) Obtain a TLC from DOL and consider all available United States workers for the position being filled by the CW-1 worker;
 
 (iii) Offer terms and conditions of employment which are consistent with the nature of the petitioner's business and the nature of the occupation, activity, and industry in the CNMI; and
 
 (iv) Comply with all Federal and Commonwealth requirements relating to employment, including but not limited to nondiscrimination, occupational safety, and minimum wage requirements.
 
-(5) *Petition requirements.* An employer who seeks to classify an alien as a CW-1 worker must file a petition with USCIS and pay the requisite petition fee plus the CNMI education fee of $150 per beneficiary per year. An employer filing a petition is eligible to apply for a waiver of the fee based upon inability to pay as provided by 8 CFR 103.7(c). If the beneficiary will perform services for more than one employer, each employer must file a separate petition with fees with USCIS.
+(5) *Petition requirements.* An employer who seeks to classify an alien as a CW-1 worker must file a petition with USCIS and pay the requisite petition fees as provided in 8 CFR 103.7(b)(1)(i)(J), along with any required documents and in accordance with form instructions. An employer filing a petition is eligible to apply for a waiver of the petition fee (but not the CNMI education fee or the fraud prevention and detection fee) based upon inability to pay as provided by 8 CFR 103.7(c). If the beneficiary will perform services for more than one employer, each employer must file a separate petition with fees with USCIS.
 
 (6) *Appropriate documents.* Documentary evidence establishing eligibility for CW status is required. A petition must be accompanied by:
 
@@ -3392,11 +3466,11 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (ii) An attestation by the petitioner certified as true and accurate by an appropriate official of the petitioner, of the following:
 
-(A) No qualified United States worker is available to fill the position;
+(A) The employer has not displaced and will not displace a United States worker in order to employ the beneficiary as agreed to in the *CW-1 Application for Temporary Employment Certification;*
 
-(B) The employer is doing business as defined in paragraph (w)(1)(ii) of this section;
+(B) The employer is doing business as defined in paragraph (w)(1)(iii) of this section;
 
-(C) The employer is a legitimate business as defined in paragraph (w)(1)(vi) of this section;
+(C) The employer is a legitimate business as defined in paragraph (w)(1)(vii) of this section;
 
 (D) The employer is an eligible employer as described in paragraph (w)(4) of this section and will continue to comply with the requirements for an eligible employer until such time as the employer no longer employs the CW-1 nonimmigrant worker;
 
@@ -3404,9 +3478,19 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (F) The beneficiary, if present in the CNMI, is lawfully present in the CNMI;
 
-(G) The position is not temporary or seasonal employment, and the petitioner does not reasonably believe it to qualify for any other nonimmigrant worker classification; and
+(G) The position is not temporary or seasonal employment, and the petitioner does not reasonably believe it to qualify as eligible for any other nonimmigrant worker classification, including H-2A or H-2B;
 
-(H) The position falls within the list of occupational categories designated by DHS.
+(H) The position falls within the list of occupational categories designated by DHS;
+
+(I) The petitioner will pay the beneficiary a wage that is not less than the greater of -
+
+(*1*) The CNMI minimum wage;
+
+(*2*) The Federal minimum wage; or
+
+(*3*) The prevailing wage in the CNMI for the occupation in which the beneficiary will be employed as established by the U.S. Department of Labor; and
+
+(J) The petitioner will comply with the reporting and retention requirements in paragraph 26.
 
 (iii) Evidence of licensure if an occupation requires a Commonwealth or local license for an individual to fully perform the duties of the occupation. Categories of valid licensure for CW-1 classification are:
 
@@ -3416,55 +3500,59 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (C) *Duties without licensure.* If the CNMI allows an individual to fully practice the occupation that usually requires a license without a license under the supervision of licensed senior or supervisory personnel in that occupation, USCIS may grant CW-1 status at its discretion after considering the duties performed, the degree of supervision received, and any limitations placed on the alien if the facts demonstrate that the alien under supervision could fully perform the duties of the occupation.
 
+(iv) For any petition requesting an employment start date on or after October 1, 2019, including both new petitions and petitions for renewal of an existing permit, a TLC approved by DOL, confirming that there are not sufficient United States workers in the CNMI who are able, willing, qualified, and available at the time and place needed to perform the services or labor involved in the petition, and that the employment of the CW-1 nonimmigrant will not adversely affect the wages and working conditions of similarly employed United States workers. If the TLC accepts certain education, training, experience, or special requirements of the beneficiary, the petition must also be accompanied by documentation that the CW-1 nonimmigrant worker qualifies for the job offer as specified in the TLC.
+
 (7) *Change of employers.* A change of employment to a new employer inconsistent with paragraphs (w)(7)(i) and (ii) of this section will constitute a failure to maintain status within the meaning of section 237(a)(1)(C)(i) of the Act. A CW-1 nonimmigrant may change employers if:
 
 (i) The prospective new employer files a petition to classify the alien as a CW-1 worker in accordance with paragraph (w)(5) of this section, and
 
 (ii) An extension of the alien's stay is requested if necessary for the validity period of the petition.
 
-(iii) A CW-1 may work for a prospective new employer after the prospective new employer files a Form I-129CW petition on the employee's behalf if:
+(iii) A CW-1 worker may work for a prospective new employer after the prospective new employer files a Form I-129CW petition on the employee's behalf if:
 
-(A) The prospective employer has filed a nonfrivolous petition for new employment before the date of expiration of the CW-1's authorized period of stay; and
+(A) The prospective employer has filed a nonfrivolous petition for new employment before the date of expiration of the CW-1 worker's authorized period of stay; and
 
-(B) Subsequent to his or her lawful admission, the CW-1 has not been employed without authorization in the United States.
+(B) Subsequent to his or her lawful admission, the CW-1 worker has not been employed without authorization in the United States.
 
 (iv) Employment authorization shall continue for such alien until the new petition is adjudicated. If the new petition is denied, such authorization shall cease.
 
-(v) If a CW-1's employment has been terminated prior to the filing of a petition by a prospective new employer consistent with paragraphs (w)(7)(i) and (ii), the CW-1 will not be considered to be in violation of his or her CW-1 status during the 30-day period immediately following the date on which the CW-1's employment terminated if a nonfrivolous petition for new employment is filed consistent with this paragraph within that 30-day period and the CW-1 does not otherwise violate the terms and conditions of his or her status during that 30-day period.
+(v) If a CW-1 worker's employment has been terminated prior to the filing of a petition by a prospective new employer consistent with paragraphs (w)(7)(i) and (ii), or if the CW-1's current petition has been revoked (other than for the reason described in paragraph (w)(27)(iii)(A)(*7*) of this section) the CW-1 worker will not be considered to be in violation of his or her CW-1 status during the 30-day period immediately following the date on which the CW-1 worker's employment terminated if a nonfrivolous petition for new employment is filed consistent with this paragraph within that 30-day period and the CW-1 worker does not otherwise violate the terms and conditions of his or her status during that 30-day period.
 
-(8) *Amended or new petition.* If there are any material changes in the terms and conditions of employment, the petitioner must file an amended or new petition to reflect the changes.
+(8) *Amended or new petition.* If there are any material changes in the terms and conditions of employment, the petitioner must file an amended or new petition to reflect the changes. An amended or new petition must be submitted with a new TLC approved by DOL.
 
-(9) *Multiple beneficiaries.* A petitioning employer may include more than one beneficiary in a CW-1 petition if the beneficiaries will be working in the same occupational category, for the same period of time, and in the same location.
+(9) *Multiple beneficiaries.* A petitioning employer may include more than one beneficiary in a CW-1 petition if the beneficiaries will be working in the same occupational category, under the same terms and conditions, for the same period of time, and in the same location.
 
-(10) *Named beneficiaries.* The petition must include the name of the beneficiary and other required information, as indicated in the form instructions, at the time of filing. Unnamed beneficiaries will not be permitted.
+(10) *Named beneficiaries.* The petition must include the name of the beneficiary and other required information, as indicated in the form instructions, at the time of filing. Unnamed beneficiaries are not permitted.
 
 (11) *Early termination.* The petitioning employer must pay the reasonable cost of return transportation of the alien to the alien's last place of foreign residence if the alien is dismissed from employment for any reason by the employer before the end of the period of authorized admission.
 
-(12) *Approval.* USCIS will consider all the evidence submitted and such other evidence required in the form instructions to adjudicate the petition. USCIS will notify the petitioner of the approval of the petition on Form I-797, Notice of Action, or in another form as USCIS may prescribe:
+(12) *Approval.* USCIS will consider all the evidence submitted and such other evidence required in the form instructions to adjudicate the petition. USCIS will notify the petitioner of the approval of the petition on Form I-797, Notice of Action, or in another form as USCIS may prescribe.
 
-(i) The approval notice will include the classification and name of the beneficiary or beneficiaries and the petition's period of validity. A petition for more than one beneficiary may be approved in whole or in part.
+(i) The approval notice will include the CW-1 classification and name of the beneficiary or beneficiaries and the petition's period of validity. A petition for more than one beneficiary may be approved in whole or in part.
 
-(ii) The petition may not be filed or approved earlier than six months before the date of actual need for the beneficiary's services.
+(ii) The application for a TLC may not be filed with DOL earlier than 120 days before the date of actual need for the beneficiary's services for an initial petition for CW-1 status, or 180 days before the date of expiration of CW-1 status in the case of an extension petition described in paragraph (w)(18) of this section. The petition may then be filed with USCIS after the TLC is approved. If DOL debars an employer from obtaining a CW-1 TLC, USCIS may not approve future petitions during the debarment period.
 
-(13) *Petition validity.* An approved petition will be valid for a period of up to one year.
+(13) *Petition validity.* An approved petition will be valid for a period of up to one year, unless the beneficiary is a long-term worker in which case an approved petition will be valid for a period of up to three years.
 
-(14) *How to apply for CW-1 or CW-2 status.* (i) Upon approval of the petition, a beneficiary, his or her eligible spouse, and or his or her minor child(ren) outside the CNMI will be informed in the approval notice of where they may apply for a visa authorizing admission in CW-1 or CW-2 status.
+(14) *Validity of the labor certification.* A TLC is valid only for the period of employment as approved on the *CW-1 Application for Temporary Employment Certification.* The TLC expires on the last day of authorized employment.
+
+(15) *How to apply for CW-1 or CW-2 status.* (i) Upon approval of the petition, a beneficiary, his or her eligible spouse, and his or her minor child(ren) outside the CNMI will be informed in the approval notice of where they may apply for a visa authorizing admission in CW-1 or CW-2 status.
 
 (ii) If the beneficiary is present in the CNMI, the petition also serves as the application for a grant of status as a CW-1.
 
 (iii) If the eligible spouse and/or minor child(ren) are present in the CNMI, the spouse or child(ren) may apply for CW-2 dependent status on Form I-539 (or such alternative form as USCIS may designate) in accordance with the form instructions. The CW-2 status may not be approved until approval of the CW-1 petition. A spouse or child applying for CW-2 status on Form I-539 is eligible to apply for a waiver of the fee based upon inability to pay as provided by 8 CFR 103.7(c).
 
-(15) *Biometrics and other information.* The beneficiary of a CW-1 petition or the spouse or child applying for a grant or, extension of CW-2 status, or a change of status to CW-2 status, must submit biometric information as requested by USCIS. For a Form I-129CW petition where the beneficiary is present in the CNMI, the employer must submit the biometric service fee described in 8 CFR 103.7(b)(1) with the petition for each beneficiary for which CW-1 status is being requested or request a fee waiver for any biometric services provided, including but not limited to reuse of previously provided biometric information for background checks. For a Form I-539 application where the applicant is present in the CNMI, the applicant must submit a biometric service fee for each CW-2 nonimmigrant on the application with the application or obtain a waiver of the biometric service fee described in 8 CFR 103.7(b)(1) for any biometric services provided, including but not limited to reuse of previously provided biometric information for background checks. A biometric service fee is not required for beneficiaries under the age of 14, or who are at least 79 years of age.
+(16) *Biometrics and other information.* The beneficiary of a CW-1 petition or the spouse or child applying for a grant or, extension of CW-2 status, or a change of status to CW-2 status, must submit biometric information as requested by USCIS. For a petition where the beneficiary is present in the CNMI, the employer must submit the biometric service fee described in 8 CFR 103.7(b)(1) with the petition for each beneficiary for which CW-1 status is being requested or request a fee waiver for any biometric services provided, including but not limited to reuse of previously provided biometric information for background checks. For a Form I-539 application where the applicant is present in the CNMI, the applicant must submit a biometric service fee for each CW-2 nonimmigrant on the application with the application or obtain a waiver of the biometric service fee described in 8 CFR 103.7(b)(1) for any biometric services provided, including but not limited to reuse of previously provided biometric information for background checks. A biometric service fee is not required for beneficiaries under the age of 14, or who are at least 79 years of age.
 
-(16) *Period of admission.* (i) A CW-1 nonimmigrant will be admitted for the period of petition validity, plus up to 10 days before the validity period begins and 10 days after the validity period ends. The CW-1 nonimmigrant may not work except during the validity period of the petition. A CW-2 spouse will be admitted for the same period as the principal alien. A CW-2 minor child will be admitted for the same period as the principal alien, but such admission will not extend beyond the child's 18th birthday.
+(17) *Period of admission.* (i) A CW-1 nonimmigrant will be admitted for the period of petition validity, plus up to 10 days before the validity period begins and 10 days after the validity period ends. The CW-1 nonimmigrant may not work except during the validity period of the petition. A CW-2 spouse will be admitted for the same period as the principal alien. A CW-2 minor child will be admitted for the same period as the principal alien, but such admission will not extend beyond the child's 18th birthday.
 
 (ii) The temporary departure from the CNMI of the CW-1 nonimmigrant will not affect the derivative status of the CW-2 spouse and minor children, provided the familial relationship continues to exist and the principal remains eligible for admission as a CW-1 nonimmigrant.
 
-(17) *Extension of petition validity and extension of stay.* (i) The petitioner may request an extension of an employee's CW-1 nonimmigrant status by filing a new petition.
+(18) *Extension of petition validity and extension of stay.* (i) The petitioner may request an extension of an employee's CW-1 nonimmigrant status by filing a new petition.
 
 (ii) A request for a petition extension may be filed only if the validity of the original petition has not expired.
 
-(iii) Extensions of CW-1 status may be granted for a period of up to 1 year until the end of the transition period, subject to the numerical limitation.
+(iii) Extensions of CW-1 status may be granted for a period of up to 1 year (or a period of up to 3 years if the beneficiary is a long-term worker) until the end of the transition period, subject to any numerical limitation.
 
 (iv) To qualify for an extension of stay, the petitioner must demonstrate that the beneficiary or beneficiaries:
 
@@ -3474,11 +3562,13 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (C) Remains eligible for CW-1 classification.
 
-(v) The derivative CW-2 nonimmigrant may file an application for extension of nonimmigrant stay on Form I-539 (or such alternative form as USCIS may designate) in accordance with the form instructions. The CW-2 status extension may not be approved until approval of the CW-1 extension petition.
+(v) A beneficiary (other than a long-term worker) may not be granted CW-1 status beyond three consecutive petition validity periods unless the beneficiary has departed and remained outside of the United States for a continuous period of at least 30 days after the expiration of the third petition validity period and before the filing of any new petition on behalf of the beneficiary.
 
-(18) *Change or adjustment of status.* A CW-1 or CW-2 nonimmigrant can apply to change nonimmigrant status under section 248 of the Act or apply for adjustment of status under section 245 of the Act, if otherwise eligible. During the transition period, CW-1 or CW-2 nonimmigrants may be the beneficiary of a petition for or may apply for any nonimmigrant or immigrant visa classification for which they may qualify.
+(vi) The derivative CW-2 nonimmigrant may file an application for extension of nonimmigrant stay on Form I-539 (or such alternative form as USCIS may designate) in accordance with the form instructions. The CW-2 status extension may not be approved until approval of the CW-1 extension petition.
 
-(19) *Effect of filing an application for or approval of a permanent labor certification, preference petition, or filing of an application for adjustment of status on CW-1 or CW-2 classification.* An alien may be granted, be admitted in and maintain lawful CW-1 or CW-2 nonimmigrant status while, at the same time, lawfully seeking to become a lawful permanent resident of the United States, provided he or she intends to depart the CNMI voluntarily at the end of the period of authorized stay. The filing of an application for or approval of a permanent labor certification or an immigrant visa preference petition, the filing of an application for adjustment of status, or the lack of residence abroad will not be the basis for denying:
+(19) *Change or adjustment of status.* A CW-1 or CW-2 nonimmigrant can apply to change nonimmigrant status under section 248 of the Act or apply for adjustment of status under section 245 of the Act, if otherwise eligible. During the transition period, CW-1 or CW-2 nonimmigrants may be the beneficiary of a petition for or may apply for any nonimmigrant or immigrant visa classification for which they may qualify.
+
+(20) *Effect of filing an application for or approval of a permanent labor certification, preference petition, or filing of an application for adjustment of status on CW-1 or CW-2 classification.* An alien may be granted, be admitted in and maintain lawful CW-1 or CW-2 nonimmigrant status while, at the same time, lawfully seeking to become a lawful permanent resident of the United States, provided he or she intends to depart the CNMI voluntarily at the end of the period of authorized stay. The filing of an application for or approval of a permanent labor certification or an immigrant visa preference petition, the filing of an application for adjustment of status, or the lack of residence abroad will not be the basis for denying:
 
 (i) A CW-1 petition filed on behalf of the alien;
 
@@ -3490,23 +3580,67 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (v) An application for admission as a CW-1 or CW-2 nonimmigrant.
 
-(20) *Rejection.* USCIS may reject an employer's petition for new or extended CW-1 status if the numerical limitation has been met. In that case, the petition and accompanying fee will be rejected and returned with the notice that numbers are unavailable for the CW nonimmigrant classification. The beneficiary's application for admission based upon an approved petition will not be rejected based upon the numerical limitation.
+(21) *Rejection.* USCIS may reject an employer's petition for new or extended CW-1 status if any numerical limitation has been met. In that case, the petition and accompanying fee will be rejected and returned with the notice that numbers are unavailable for the CW nonimmigrant classification. The beneficiary's application for admission based upon an approved petition will not be rejected based upon the numerical limitation.
 
-(21) *Denial.* The ultimate decision to grant or deny CW-1 or CW-2 classification or status is a discretionary determination, and the petition or the application may be denied for failure of the petitioner or the applicant to demonstrate eligibility or for other good cause. The denial of a petition to classify an alien as a CW-1 may be appealed to the USCIS Administrative Appeals Office or any successor body. The denial of a grant of CW-1 or CW-2 status within the CNMI, or of an application for change or extension of status filed under this section, may not be appealed.
+(22) *Denial.* The ultimate decision to grant or deny CW-1 or CW-2 classification or status is a discretionary determination, and the petition or the application may be denied for failure of the petitioner or the applicant to demonstrate eligibility or for other good cause. The denial of a petition to classify an alien as a CW-1 may be appealed to the USCIS Administrative Appeals Office or any successor body. The denial of CW-1 or CW-2 status within the CNMI, or of an application for change or extension of status filed under this section, may not be appealed.
 
-(22) *Terms and conditions of CW Nonimmigrant status* - (i) *Geographical limitations.* CW-1 and CW-2 statuses are only applicable in the CNMI. Entry, employment and residence in the rest of the United States (including Guam) require the appropriate visa or visa waiver. Except as provided in paragraph (w)(22)(iii) of this section, an alien with CW-1 or CW-2 status who enters or attempts to enter, or travels or attempts to travel to any other part of the United States without an appropriate visa or visa waiver, or who violates conditions of nonimmigrant stay applicable to any such authorized status in any other part of the United States, will be deemed to have violated CW-1 or CW-2 status.
+(23) *Terms and conditions of CW Nonimmigrant status* - (i) *Geographical limitations.* CW-1 and CW-2 statuses are only applicable in the CNMI. Entry, employment and residence in the rest of the United States (including Guam) require the appropriate visa or visa waiver and nonimmigrant classification. Except as provided in paragraph (w)(23)(iii) of this section, an alien with CW-1 or CW-2 status who enters or attempts to enter, or travels or attempts to travel to any other part of the United States without an appropriate visa or visa waiver, or who violates conditions of nonimmigrant stay applicable to any such authorized status in any other part of the United States, will be deemed to have violated CW-1 or CW-2 status.
 
 (ii) *Re-entry.* An alien with CW-1 or CW-2 status who travels abroad from the CNMI will require a CW-1 or CW-2 or other appropriate visa to be re-admitted to the CNMI.
 
-(iii) *Direct Guam transit* - (A) *Travel from the CNMI to the Philippines.* An alien with CW-1 or CW-2 status who is a national of the Philippines may travel to the Philippines via a direct Guam transit without being deemed to violate that status.
+(iii) *Travel outside the CNMI* - (A) *Direct Guam transit from the CNMI.* An alien with CW-1 or CW-2 status may travel to a foreign place via a direct Guam transit without being deemed to violate that status.
 
-(B) *Travel from the Philippines to the CNMI.* An alien who is a national of the Philippines may travel to the CNMI via a direct Guam transit under the following conditions: If an immigration officer determines that the alien warrants a discretionary exercise of parole authority, the alien may be paroled into Guam via direct Guam transit to undergo preinspection outbound from Guam for admission to the CNMI pursuant to 8 CFR 235.5(a) or to proceed for inspection upon arrival in the CNMI. During any such preinspection, the alien will be admitted in CW-1 or CW-2 status if the immigration officer in Guam determines that the alien is admissible to the CNMI. A condition of the admission is that the alien must complete the direct Guam transit. DHS, in its discretion, may exempt such alien from the provisions of 8 CFR 235.5(a) relating to separation and boarding of passengers after inspection.
+(B) *Travel from a foreign place to the CNMI.* An alien with a valid CW-1 or CW-2 visa, who is admissible to the CNMI in such status, may be admitted to the United States in CW-1 or CW-2 status in Guam for the purpose of a direct Guam transit to the CNMI. An alien who violates the terms of direct Guam transit violates his or her CW-1 or CW-2 status.
 
 (iv) *Employment authorization.* An alien with CW-1 nonimmigrant status is only authorized employment in the CNMI for the petitioning employer. An alien with CW-2 status is not authorized to be employed.
 
-(23) *Expiration of status.* CW-1 status expires when the alien violates his or her CW-1 status (or in the case of a CW-1 status violation caused solely by termination of the alien's employment, at the end of the 30 day period described in section 214.2(w)(7)(v)), 10 days after the end of the petition's validity period, or at the end of the transitional worker program, whichever is earlier. CW-2 nonimmigrant status expires when the status of the related CW-1 alien expires, on a CW-2 minor child's 18th birthday, when the alien violates his or her status, or at the end of the transitional worker program, whichever is earlier. No alien will be eligible for admission to the CNMI in CW-1 or CW-2 status, and no CW-1 or CW-2 visa will be valid for travel to the CNMI, after the transitional worker program ends.
+(24) *Expiration of status.* CW-1 status expires when the alien violates his or her CW-1 status (or in the case of a CW-1 status violation caused solely by termination of the alien's employment, at the end of the 30 day period described in paragraph (w)(7)(v) of this section), 10 days after the end of the petition's validity period, when the petition is revoked, or at the end of the transitional worker program, whichever is earlier. CW-2 nonimmigrant status expires when the status of the related CW-1 alien expires, on a CW-2 minor child's 18th birthday, when the alien violates his or her status, or at the end of the transitional worker program, whichever is earlier. No alien will be eligible for admission to the CNMI in CW-1 or CW-2 status, and no CW-1 or CW-2 visa will be valid for travel to the CNMI, after the transitional worker program ends.
 
-(24) *Waivers of inadmissibility for applicants lawfully present in the CNMI.* An applicant for CW-1 or CW-2 nonimmigrant status, who is otherwise eligible for such status and otherwise admissible to the United States, and who possesses appropriate documents demonstrating that the applicant is lawfully present in the CNMI, may be granted a waiver of inadmissibility under section 212(d)(3)(A)(ii) of the Act, including the grounds of inadmissibility described in sections 212(a)(6)(A)(i) and 212(a)(7)(B)(i)(II) of the Act, as a matter of discretion for the purpose of granting the CW-1 or CW-2 nonimmigrant status. Such waiver may be granted without additional form or fee. Appropriate documents required for such a waiver include a valid unexpired passport and other documentary evidence demonstrating that the applicant is lawfully present in the CNMI, such as an “umbrella permit” or a DHS-issued Form I-94. Evidence that the applicant possesses appropriate documents may be provided by an employer to accompany a petition, by an eligible spouse or minor child to accompany the Form I-539 (or such alternative form as USCIS may designate), or in such other manner as USCIS may designate.
+(25) *Waivers of inadmissibility for applicants lawfully present in the CNMI.* An applicant for CW-1 or CW-2 nonimmigrant status, who is otherwise eligible for such status and otherwise admissible to the United States, and who possesses appropriate documents demonstrating that the applicant is lawfully present in the CNMI, may be granted a waiver of inadmissibility under section 212(d)(3)(A)(ii) of the Act, including the grounds of inadmissibility described in sections 212(a)(6)(A)(i) and 212(a)(7)(B)(i)(II) of the Act, as a matter of discretion for the purpose of granting the CW-1 or CW-2 nonimmigrant status. Such waiver may be granted without additional form or fee. Appropriate documents required for such a waiver include a valid unexpired passport and other documentary evidence demonstrating that the applicant is lawfully present in the CNMI, such as a DHS-issued Form I-94. Evidence that the applicant possesses appropriate documents may be provided by an employer to accompany a petition, by an eligible spouse or minor child to accompany the Form I-539 (or such alternative form as USCIS may designate), or in such other manner as USCIS may designate.
+
+(26) *Semiannual report* - (i) *Filing.* During the validity period of the petition, an employer whose petition has been approved for an employment start date on or after October 1, 2019 and for a validity period of six months or more, shall file a semiannual report, every six months after the petition validity start date up to and including the sixth month preceding the petition's validity end date. The semiannual report must be filed within a 60 day window surrounding the six month anniversary of the petition validity start date, with the filing window opening 30 days before and closing 30 days after the six month anniversary of the petition validity start date. The semiannual report must be filed with USCIS in the form and containing such evidence as USCIS may direct, to verify the continuing employment and payment of the beneficiary under the terms and conditions of the approved petition.
+
+(ii) *Use.* DHS may provide such semiannual reports to other federal partners, including DOL for investigative or other use as the DOL may deem appropriate. Failure to comply with the requirements of paragraph (w)(26) of this section may be a basis for revocation of an approved petition as provided in paragraph (w)(27) of this section, or for denial of subsequent petitions filed by the employer.
+
+(iii) *Document retention.* (A) An employer must retain all documents and records in support of an approved petition, and any semiannual report. An employer must retain evidence that supports the semiannual report including, but not limited to:
+
+(*1*) Personnel records for each CW-1 worker including the name, address of current residence in the Commonwealth, age, domicile, citizenship, point of hire, and approved employment contract termination date;
+
+(*2*) Payroll records for each CW-1 worker including the O\*NET job classification; wage rate or salary, number of hours worked each week, gross compensation, itemized deductions, and evidence of net payments made and received biweekly; and
+
+(*3*) Direct evidence of payment of wages and overtime, such as receipts for cash payments, cancelled checks or deposit records. Petitioners must provide such documents and records to DHS and DOL at any time, during the retention period specified in paragraph (w)(26)(iii)(B) of this section.
+
+(B) An employer must retain documents and records until the date that is three years after the ending date of the petition validity period.
+
+(27) *Revocation of approval of petition* - (i) *General.* (A) The petitioner shall immediately notify USCIS of any changes in the terms and conditions of employment of a beneficiary which may affect eligibility under this paragraph (w). To notify USCIS of such changes, an amended petition shall be filed when the petitioner continues to employ the beneficiary. If the petitioner no longer employs the beneficiary, the petitioner shall send a letter to the office at which the CW-1 petition was filed explaining the basis on which the specific CW-1 nonimmigrant is no longer employed.
+
+(B) USCIS may revoke a petition at any time, even after the expiration of the petition.
+
+(ii) *Immediate and automatic revocation.* The approval of any petition is immediately and automatically revoked if the petitioner ceases operations, files a written withdrawal of the petition, or the U.S. Department of Labor revokes the temporary labor certification upon which the petition is based.
+
+(iii) *Revocation on notice* - (A) *Grounds for revocation.* USCIS may in its discretion send to the petitioner a notice of intent to revoke the petition in relevant part, for good cause, including, if it finds that:
+
+(*1*) The beneficiary is no longer employed by the petitioner in the capacity specified in the petition;
+
+(*2*) The facts contained in the petition or on the application for a temporary labor certification was not true and correct, inaccurate, fraudulent, or misrepresented a material fact;
+
+(*3*) The petitioner violated terms and conditions of the approved petition;
+
+(*4*) The petitioner violated a requirement of paragraph (w) of this section;
+
+(*5*) The approval of the petition violated paragraph (w) this section or involved gross error;
+
+(*6*) The petitioner failed to maintain the continuous employment of the CW-1 nonimmigrant, failed to pay the nonimmigrant, failed to timely file a semiannual report described in paragraph (w)(26) of this section, committed any other violation of the terms and conditions of employment, or otherwise ceased to operate as a legitimate business;
+
+(*7*) The beneficiary did not apply for admission to the CNMI within 10 days after the beginning of the petition validity period if the petition has been approved for consular processing; or
+
+(*8*) The employer failed to provide a former, current, or prospective CW-1 nonimmigrant, not later than 21 business days after a written request from such individual, with the original (or a certified copy of the original) of all petitions, notices, and other written communication related to the worker (other than sensitive financial or proprietary information of the employer which may be redacted) that has been exchanged between the employer and the Department of Labor, the Department of Homeland Security, or any other Federal agency or department.
+
+(B) *Notice and decision.* The notice of intent to revoke shall state the grounds for the revocation. The petitioner may submit evidence in rebuttal within 30 days of receipt of the notice. USCIS shall consider all relevant evidence presented in deciding whether to revoke the petition in whole or in part. If the petition is revoked in part, the remainder of the petition shall remain approved and a revised approval notice shall be sent to the petitioner with the revocation notice.
+
+(28) *Appeal of a revocation of a petition.* A petition that has been revoked on notice in whole or in part may be appealed under part 103 of this chapter. Automatic revocations may not be appealed.
+
+(29) *Notice to DOL.* USCIS will provide notice to DOL of CW-1 petition revocations.
 
 (Title VI of the Health Professions Educational Assistance Act of 1976 (Pub. L. 94-484; 90 Stat. 2303); secs. 103 and 214, Immigration and Nationality Act (8 U.S.C. 1103 and 1184))[38 FR 35425, Dec. 28, 1973]Editorial Note:For Federal Register citations affecting § 214.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Notes:1. At 85 FR 21744, Apr. 20, 2020, § 214.2 was amended by adding paragraph (h)(21), effective Apr. 20, 2020, through Aug. 18, 2020.
 

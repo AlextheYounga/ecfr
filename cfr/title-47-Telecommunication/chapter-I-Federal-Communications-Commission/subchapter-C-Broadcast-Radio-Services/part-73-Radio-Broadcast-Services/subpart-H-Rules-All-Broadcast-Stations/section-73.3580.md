@@ -1,5 +1,7 @@
 ##### § 73.3580 Local public notice of filing of broadcast applications. #####
 
+Link to an amendment published at 85 FR 36794, June 18, 2020.
+
 (a) All applications for instruments of authorization in the broadcast service (and major amendments thereto, as indicated in §§ 73.3571, 73.3572, 73.3573, 73.3574 and 73.3578) are subject to the local public notice provisions of this section, except applications for:
 
 (1) A minor change in the facilities of an authorized station, as indicated in §§ 73.3571, 73.3572, 73.3573 and 73.3574.

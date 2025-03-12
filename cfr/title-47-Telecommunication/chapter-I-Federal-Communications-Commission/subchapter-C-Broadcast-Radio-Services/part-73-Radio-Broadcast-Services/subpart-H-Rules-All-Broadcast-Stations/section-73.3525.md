@@ -1,5 +1,7 @@
 ##### § 73.3525 Agreements for removing application conflicts. #####
 
+Link to an amendment published at 85 FR 36794, June 18, 2020.
+
 (a) Except as provided in § 73.3523 regarding dismissal of applications in comparative renewal proceedings, whenever applicants for a construction permit for a broadcast station enter into an agreement to procure the removal of a conflict between applications pending before the FCC by withdrawal or amendment of an application or by its dismissal pursuant to § 73.3568, all parties thereto shall, within 5 days after entering into the agreement, file with the FCC a joint request for approval of such agreement. The joint request shall be accompanied by a copy of the agreement, including any ancillary agreements, and an affidavit of each party to the agreement setting forth:
 
 (1) The reasons why it is considered that such agreement is in the public interest;

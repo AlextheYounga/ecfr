@@ -122,9 +122,9 @@ Link to an amendment published at 85 FR 35601, June 11, 2020.
 
 (*2*) In years where the Pacific halibut total constant exploitation yield is not known by January 1, NMFS will issue QP in two parts. On or about January 1, NMFS will deposit QP based on some portion of the International Pacific Halibut Commission's staff recommended total constant exploitation yield from their interim meeting. After the final Pacific halibut total constant exploitation yield is established from the International Pacific Halibut Commission's annual meeting, NMFS will deposit additional QP to the QS account.
 
-(D) For the trawl fishery, NMFS will issue QP based on the following shorebased trawl allocations:
+(D) *Pacific whiting and non-whiting QP shorebased trawl allocations.* For the trawl fishery, NMFS will issue QP based on the following shorebased trawl allocations:
 
-Table 1 to Paragraph (d)(1)(ii)(D)
+Table 1 To Paragraph (d)(1)(ii)(D)
 
 |        IFQ species         |        Area         |2019 Shorebased  <br/>trawl allocation  <br/>(mt)|2020 Shorebased  <br/>trawl allocation  <br/>(mt)|
 |----------------------------|---------------------|-------------------------------------------------|-------------------------------------------------|
@@ -132,7 +132,7 @@ Table 1 to Paragraph (d)(1)(ii)(D)
 |          Bocaccio          |South of 40°10′ N lat|                      800.7                      |                      767.1                      |
 |      Canary rockfish       |      Coastwide      |                      953.6                      |                      894.3                      |
 |        Chilipepper         |South of 40°10′ N lat|                     1,838.3                     |                     1,743.8                     |
-|           COWCOD           |South of 40°10′ N lat|                       2.2                       |                       2.2                       |
+|           COWCOD           |South of 40°10′ N lat|                       2.2                       |                       3.2                       |
 |   Darkblotched rockfish    |      Coastwide      |                      658.4                      |                      703.4                      |
 |         Dover sole         |      Coastwide      |                    45,979.2                     |                    45,979.2                     |
 |        English sole        |      Coastwide      |                     9,375.1                     |                     9,417.9                     |
@@ -146,7 +146,7 @@ Table 1 to Paragraph (d)(1)(ii)(D)
 |   Other Flatfish complex   |      Coastwide      |                     5,603.7                     |                     5,192.4                     |
 |        Pacific cod         |      Coastwide      |                     1,034.1                     |                     1,034.1                     |
 |    Pacific ocean perch     |North of 40°10′ N lat|                     3,697.3                     |                     3,602.2                     |
-|      Pacific whiting       |      Coastwide      |                    152,326.5                    |                       TBD                       |
+|      Pacific whiting       |      Coastwide      |                    152,326.5                    |                     146,567                     |
 |        Petrale sole        |      Coastwide      |                     2,453.0                     |                     2,393.2                     |
 |         Sablefish          | North of 36° N lat  |                     2,581.3                     |                     2,636.8                     |
 |         Sablefish          | South of 36° N lat  |                      834.0                      |                      851.7                      |

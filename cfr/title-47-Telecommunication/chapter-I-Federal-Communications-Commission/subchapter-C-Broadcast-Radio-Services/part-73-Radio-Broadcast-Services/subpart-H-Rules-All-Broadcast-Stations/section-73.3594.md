@@ -1,5 +1,7 @@
 ##### § 73.3594 Local public notice of designation for hearing. #####
 
+Link to an amendment published at 85 FR 36797, June 18, 2020.
+
 (a) Except as otherwise provided in paragraph (c) of this section when an application subject to the provisions of § 73.3580 (except for applications for International broadcast, low power TV, TV translator, FM translator, and FM booster stations) is designated for hearing, the applicant shall give notice of such designation as follows: Notice shall be given at least twice a week, for 2 consecutive weeks within the 3-week period immediately following release of the FCC's order, specifying the time and place of the commencement of the hearing, in a daily newspaper of general circulation published in the community in which the station is located or proposed to be located.
 
 (1) However, if there is no such daily newspaper published in the community, the notice shall be given as follows:

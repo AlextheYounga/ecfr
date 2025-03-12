@@ -1,5 +1,7 @@
 ##### § 73.3571 Processing of AM broadcast station applications. #####
 
+Link to an amendment published at 85 FR 36794, June 18, 2020.
+
 (a) Applications for AM broadcast facilities are divided into three groups.
 
 (1) In the first group are applications for new stations or for major changes in the facilities of authorized stations. A major change for an AM station authorized under this part is any change in frequency, except frequency changes to non-expanded band first, second or third adjacent channels. A major change in ownership is a situation where the original party or parties to the application do not retain more than 50% ownership interest in the application as originally filed. A major change in community of license is one in which the applicant's daytime facilities at the proposed community are not mutually exclusive, as defined in § 73.37, with the applicant's current daytime facilities, or any change in community of license of an AM station in the 1605-1705 kHz band. All other changes will be considered minor.
