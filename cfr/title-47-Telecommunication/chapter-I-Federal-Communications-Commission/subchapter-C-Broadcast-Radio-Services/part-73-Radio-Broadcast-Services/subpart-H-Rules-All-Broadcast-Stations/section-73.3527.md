@@ -1,7 +1,5 @@
 ##### § 73.3527 Online public inspection file of noncommercial educational stations. #####
 
-Link to an amendment published at 86 FR 32239, June 17, 2021.
-
 (a) *Responsibility to maintain a file.* The following shall maintain for public inspection a file containing the material set forth in this section.
 
 (1) Applicants for a construction permit for a new station in the noncommercial educational broadcast services shall maintain a public inspection file containing the material, relating to that station, described in paragraph (e)(2) and (e)(11) of this section. A separate file shall be maintained for each station for which an application is pending. If the application is granted, paragraph (a)(2) of this section shall apply.
@@ -54,8 +52,10 @@ Link to an amendment published at 86 FR 32239, June 17, 2021.
 
 (14) *Information on Third-Party Fundraising.* For noncommercial educational broadcast stations that interrupt regular programming to conduct fundraising activities on behalf of a third-party non-profit organization pursuant to § 73.503(e) (FM stations) or § 73.621(f) (television stations), every three months, the following information for each third-party fundraising program or activity: The date, time, and duration of the fundraiser; the type of fundraising activity; the name of the non-profit organization benefitted by the fundraiser; a brief description of the specific cause or project, if any, supported by the fundraiser; and, to the extent that the station participated in tallying or receiving any funds for the non-profit group, an approximation of the total funds raised. The information for each calendar quarter is to be filed by the tenth day of the succeeding calendar quarter (e.g., January 10 for the quarter October-December, April 10 for the quarter January-March, etc.).
 
+(15) *Foreign sponsorship disclosures.* Documentation sufficient to demonstrate that the station is continuing to meet the requirements set forth at § 73.1212(j)(7).
+
 (f)(1) For purposes of this section, a decision made with respect to an application tendered with the FCC becomes final when that decision is no longer subject to reconsideration, review, or appeal either at the FCC or in the courts.
 
 (2) For purposes of this section, the term “all related material” includes all exhibits, letters, and other documents tendered for filing with the FCC as part of an application, report, or other document, all amendments to the application, report, or other document, copies of all documents incorporated therein by reference and not already maintained in the public inspection file, and all correspondence between the FCC and the applicant pertaining to the application, report, or other document, which according to the provisions of §§ 0.451 through 0.461 of this chapter are open for public inspection at the offices of the FCC.
 
-[63 FR 49499, Sept. 16, 1998, as amended at 64 FR 35947, July 2, 1999; 65 FR 7457, Feb. 15, 2000; 65 FR 36378, June 8, 2000; 65 FR 53614, Sept. 5, 2000; 73 FR 15450, Mar. 24, 2008; 73 FR 36283, June 26, 2008; 76 FR 71269, Nov. 17, 2011; 77 FR 27656, May 11, 2012; 81 FR 10123, Feb. 29, 2016; 82 FR 21136, May 5, 2017; 82 FR 57883, Dec. 8, 2017; 82 FR 59987, Dec. 18, 2017; 83 FR 5545, Feb. 8, 2018; 83 FR 65558, Dec. 21, 2018; 84 FR 45668, Aug. 30, 2019; 85 FR 21078, Apr. 16, 2020; 85 FR 36794, June 18, 2020]
+[63 FR 49499, Sept. 16, 1998, as amended at 64 FR 35947, July 2, 1999; 65 FR 7457, Feb. 15, 2000; 65 FR 36378, June 8, 2000; 65 FR 53614, Sept. 5, 2000; 73 FR 15450, Mar. 24, 2008; 73 FR 36283, June 26, 2008; 76 FR 71269, Nov. 17, 2011; 77 FR 27656, May 11, 2012; 81 FR 10123, Feb. 29, 2016; 82 FR 21136, May 5, 2017; 82 FR 57883, Dec. 8, 2017; 82 FR 59987, Dec. 18, 2017; 83 FR 5545, Feb. 8, 2018; 83 FR 65558, Dec. 21, 2018; 84 FR 45668, Aug. 30, 2019; 85 FR 21078, Apr. 16, 2020; 85 FR 36794, June 18, 2020; 86 FR 32239, June 17, 2021]

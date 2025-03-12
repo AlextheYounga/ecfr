@@ -1,0 +1,11 @@
+##### § 45.3 Authorized claimants. #####
+
+(a) *In general.* This section describes who may file a claim under this part. A claim may be filed only by a member of a uniformed service or an authorized representative on behalf of a member who is deceased or otherwise unable to file the claim due to incapacitation. A member of the uniformed services includes a cadet or midshipman from the military academies. It does not include an applicant to join a uniformed service or a delayed entry program recruit who has not been accessed into active duty.
+
+(1) As provided in section 2733a(b)(1), the claim must be filed by the member of the uniformed services who is the subject of the medical malpractice claim or by an authorized representative on behalf of such member who is deceased or otherwise unable to file the claim due to incapacitation.
+
+(2) In some circumstances, a claim otherwise payable under this part may be filed by or on behalf of a reserve component member. As provided in section 2733a(i)(3), those circumstances are that the claim is in connection with personal injury or death that occurred while the member was in a Federal duty status. This circumstance includes personal injury, death, or negligent diagnosis resulting from a negligent or wrongful act or omission that occurred while the member was in a Federal duty status. In the case of a member of the National Guard of the United States, a period of Federal duty status may be under Title 10, U.S. Code, or, based on 10 U.S.C. 12602, duty under title 32, U.S. Code. Other duty under State control is not covered.
+
+(b) *Third party claims not allowed.* The statute only authorizes claims by members of the uniformed services. Thus, the regulation does not permit derivative claims or other claims from third parties alleging a separate injury as a result of harm to a member of the uniformed services. This prohibition includes claims by family members or survivors arising out of the circumstances of personal injury or death of a member.
+
+(c) *Incident to service requirement.* Under section 2733a(a), the member's personal injury or death must be incident to service. An injury or death is incident to service if the medical care provided is based on the member's status under this section.

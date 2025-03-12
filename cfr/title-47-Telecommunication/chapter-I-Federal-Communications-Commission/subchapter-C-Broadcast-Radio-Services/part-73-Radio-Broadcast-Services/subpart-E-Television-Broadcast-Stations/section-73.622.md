@@ -1583,7 +1583,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |       Minden       |                        21                         |
 |       Monroe       |                      8, \*13                      |
 |     New Iberia     |                        50                         |
-|    New Orleans     |      \*11, 15, 21, 26, 29, \*31, 36, 43, 50       |
+|    New Orleans     |      15, 21, 26, \*28, 29, \*31, 36, 43, 50       |
 |     Shreveport     |               17, \*24, 28, 34, 44                |
 |      Slidell       |                        24                         |
 |    West Monroe     |                      36, 38                       |

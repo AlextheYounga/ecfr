@@ -1,0 +1,17 @@
+##### § 45.6 Element of payable claim: negligent or wrongful act or omission. #####
+
+(a) *In general.* To establish the element of a negligent or wrongful act or omission, a member of a uniformed service (“claimant”) allegedly harmed incident to service by medical malpractice must prove by a preponderance of the evidence that one or more DoD health care providers in a covered MTF acting within the scope of employment had a professional duty to the patient involved and by act or omission breached that duty which proximately caused the injury or death.
+
+(b) *Standard of care.* The professional duty referred to in paragraph (a) of this section is a duty to exercise the same degree of skill, care, and knowledge ordinarily expected of providers in the same field or specialty in a comparable clinical setting. The standard of care is determined based on generally recognized national standards, not on the standards of a particular region, State or locality. However, standard of care in the military context may be impacted by the particular setting and the availability of resources in that setting.
+
+(c) *Breach of the standard of care.* A breach referred to in paragraph (a) occurs if the health care provider or providers by act or omission did not meet the standard of care.
+
+(d) *Presenting evidence of the standard of care.* A claimant may present evidence to support what the claimant believes is the standard of care relevant to the care involved in the claim.
+
+(e) *Presenting evidence of a failure to meet the standard of care.* (1) A claimant may present evidence to support what the claimant believes demonstrates the failure of one or more DoD health care providers to meet the standard of care. That evidence may be based on the medical records of the patient involved and other documentary evidence of the acts or omissions of health care providers involved, including expert reports.
+
+(2) Evidence of an apology by a health care provider or any other DoD or Military Department personnel, such as hospital directors or commanders, to or regarding a patient will not be considered evidence of medical malpractice. Providers often apologize for unexpected or adverse outcomes independent of whether the provider's acts or omissions met the standard of care.
+
+(f) *Information DoD will consider in assessing whether there was a negligent or wrongful act or omission.* (1) In addition to the information submitted by the claimant, DoD may consider all relevant information in DoD records and information systems or otherwise available to DoD, including information prepared by or on behalf of DoD in connection with adjudication of the claim.
+
+(2) DoD will consider medical quality assurance records relevant to the health care provided to the patient. DoD's Clinical Quality Management Program features reviews of many circumstances of clinical care. Results of any such reviews of the care involved in the claim that occurred before or after the claim was filed may be considered by DoD in the adjudication of the claim. As required by 10 U.S.C. 1102, DoD medical quality assurance records are confidential. While such records may be used by DoD, any information contained in or derived from such records may not be disclosed to the claimant.

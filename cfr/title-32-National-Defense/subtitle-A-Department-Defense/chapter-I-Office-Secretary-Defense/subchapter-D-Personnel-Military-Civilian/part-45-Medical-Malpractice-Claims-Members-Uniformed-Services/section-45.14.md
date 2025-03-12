@@ -1,0 +1,7 @@
+##### § 45.14 Final and conclusive resolution. #####
+
+(a) *Administrative adjudication final.* As provided in 10 U.S.C. 2735, the adjudication and settlement of a claim under this part is final and conclusive and not subject to review in any court. Unlike the FTCA, the Military Claims Act, 10 U.S.C. chapter 163, which provides the authority for this part, does not give Federal courts jurisdiction over claims. Further, no claim under this Part may be paid unless the amount tendered is accepted by the claimant in full satisfaction.
+
+(b) *Additional terms of settlement agreement.* (1) Settlement agreements under this part will incorporate the requirement of section 2733a(g)(1) that no attorney may charge, demand, receive, or collect for services rendered, fees in excess of 20 percent of any claim payment amount under this part.
+
+(2) Because settlement and payment of a claim under this part is under section 2733a(b)(5) conditional on the claim not being allowed to be settled and paid under any other provision of law, a settlement agreement under this part will include a provision that it bars any other claim against the United States or DoD health care providers arising from the same set of facts.
