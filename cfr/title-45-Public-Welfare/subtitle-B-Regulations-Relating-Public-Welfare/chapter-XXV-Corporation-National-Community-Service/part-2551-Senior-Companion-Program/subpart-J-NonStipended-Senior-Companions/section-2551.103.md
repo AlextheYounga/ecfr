@@ -1,5 +1,5 @@
 ##### § 2551.103 Must a sponsor be required to enroll non-stipended Senior Companions? #####
 
-Link to an amendment published at 83 FR 64648, Dec. 17, 2018.
+No. Enrollment of non-stipended Senior Companions is not a condition for a sponsor to receive a new or continuation grant.
 
-Enrollment of non-stipended Senior Companions is not a factor in the award of new or continuation grants.
+[83 FR 64648, Dec. 17, 2018]

@@ -14,7 +14,7 @@
 
 (C) Is a statement in which the person making the statement has a duty to include the material fact; or
 
-(iv) Is for payment for the provision of property or services which the person has not provided as claimed, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $11,181 for each claim.
+(iv) Is for payment for the provision of property or services which the person has not provided as claimed, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $11,463 for each claim.
 
 (2) Each voucher, invoice, claim form, or other individual request or demand for property, services, or money constitutes a separate claim.
 
@@ -32,7 +32,7 @@
 
 (B) Is false, fictitious, or fraudulent because it omits a material fact that the person making the statement has a duty to include in the statement; and
 
-(ii) Contains or is accompanied by an express certification or affirmation of the truthfulness and accuracy of the contents of the statement, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $11,181 for each statement.
+(ii) Contains or is accompanied by an express certification or affirmation of the truthfulness and accuracy of the contents of the statement, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $11,463 for each statement.
 
 (2) Each written representation, certification, or affirmation constitutes a separate statement, except that a certification or affirmation of the truthfulness and accuracy of the contents of a statement is not a separate statement.
 
@@ -52,4 +52,4 @@
 
 (f) In any case in which it is determined that more than one person is liable for making a claim under this section on which the Government has made a payment (including transferred property or provided services), an assessment may be imposed against any of these persons or jointly and severally against any combination of these persons.
 
-(Authority: 28 U.S.C. 2461; 31 U.S.C. 3802)[53 FR 16710, May 11, 1988, as amended at 61 FR 56449, Nov. 1, 1996; 81 FR 40525, June 22, 2016; 83 FR 8946, Mar. 2, 2018]
+(Authority: 28 U.S.C. 2461; 31 U.S.C. 3802)[53 FR 16710, May 11, 1988, as amended at 61 FR 56449, Nov. 1, 1996; 81 FR 40525, June 22, 2016; 83 FR 8946, Mar. 2, 2018; 84 FR 537, Jan. 31, 2019]

@@ -20,7 +20,7 @@ Where a mixture of cash and non-cash consideration is to be received, the aggreg
 
 (1) Is an entity organized under the laws of the United States or Canada, or any State, Province, Territory or possession thereof, or the District of Columbia, with its principal place of business in the United States or Canada;
 
-(2) Is not subject to section 13 or 15(d) of the Securities Exchange Act of 1934 (the “Exchange Act”) (15 U.S.C. 78a *et seq.*) immediately before the offering;
+(2) [Reserved]
 
 (3) Is not a development stage company that either has no specific business plan or purpose, or has indicated that its business plan is to merge with or acquire an unidentified company or companies;
 
@@ -28,7 +28,7 @@ Where a mixture of cash and non-cash consideration is to be received, the aggreg
 
 (5) Is not issuing fractional undivided interests in oil or gas rights, or a similar interest in other mineral rights;
 
-(6) Is not, and has not been, subject to any order of the Commission entered pursuant to Section 12(j) of the Exchange Act (15 U.S.C. 78*l*(j)) within five years before the filing of the offering statement;
+(6) Is not, and has not been, subject to any order of the Commission entered pursuant to Section 12(j) (15 U.S.C. 78l(j)) of the Securities Exchange Act of 1934 (the “Exchange Act”) (15 U.S.C. 78a *et seq.*) within five years before the filing of the offering statement;
 
 (7) Has filed with the Commission all reports required to be filed, if any, pursuant to Rule 257 (§ 230.257) during the two years before the filing of the offering statement (or for such shorter period that the issuer was required to file such reports); and
 
@@ -118,4 +118,4 @@ When securities underlying warrants or convertible securities are being qualifie
 
 (f) *Electronic filing.* Documents filed or otherwise provided to the Commission pursuant to this Regulation A must be submitted in electronic format by means of EDGAR in accordance with the EDGAR rules set forth in Regulation S-T (17 CFR part 232).
 
-[80 FR 21895, Apr. 20, 2015]
+[80 FR 21895, Apr. 20, 2015, as amended at 84 FR 529, Jan. 31, 2019]

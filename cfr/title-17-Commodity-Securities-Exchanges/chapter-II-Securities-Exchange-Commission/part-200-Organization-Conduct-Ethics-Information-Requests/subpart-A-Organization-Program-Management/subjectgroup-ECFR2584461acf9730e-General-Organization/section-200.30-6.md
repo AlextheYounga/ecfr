@@ -20,4 +20,4 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, the Securities and E
 
 (e) Notwithstanding anything in the foregoing, in any case in which the Regional Director believes it appropriate, he may submit the matter to the Commission.
 
-[28 FR 2856, Mar. 22, 1963, as amended at 36 FR 7659, Apr. 23, 1971. Redesignated at 37 FR 16792, Aug. 19, 1972]Editorial Note:For Federal Register citations affecting § 200.30-6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[28 FR 2856, Mar. 22, 1963, as amended at 36 FR 7659, Apr. 23, 1971. Redesignated at 37 FR 16792, Aug. 19, 1972]Editorial Note:For Federal Register citations affecting § 200.30-6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

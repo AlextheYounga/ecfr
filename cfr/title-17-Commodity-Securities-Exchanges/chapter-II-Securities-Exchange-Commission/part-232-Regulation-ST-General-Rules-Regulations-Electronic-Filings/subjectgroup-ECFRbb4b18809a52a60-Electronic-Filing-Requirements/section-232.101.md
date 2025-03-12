@@ -126,4 +126,4 @@ Failure to submit a required electronic filing pursuant to this paragraph (a), a
 
 (d) All documents, including any information with respect to which confidential treatment is requested, filed pursuant to section 13(n) of the Exchange Act (15 U.S.C. 78m(n)) and the rules and regulations thereunder shall be filed in electronic format.
 
-[58 FR 14670, Mar. 18, 1993; 58 FR 26383, May 3, 1993]Editorial Note:For Federal Register citations affecting § 232.101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[58 FR 14670, Mar. 18, 1993; 58 FR 26383, May 3, 1993]Editorial Note:For Federal Register citations affecting § 232.101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

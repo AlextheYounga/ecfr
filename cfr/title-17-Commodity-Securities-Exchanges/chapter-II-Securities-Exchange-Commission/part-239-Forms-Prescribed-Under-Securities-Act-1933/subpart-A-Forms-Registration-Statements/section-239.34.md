@@ -12,4 +12,4 @@ This form may be used by any foreign private issuer, as defined in rule 405 (§ 
 
 (e) In more than one of the kinds of transactions listed in paragraphs (a) through (d) registered on one registration statement.
 
-[56 FR 30058, July 1, 1991]Editorial Note:For Federal Register citations affecting Form F-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[56 FR 30058, July 1, 1991]Editorial Note:For Federal Register citations affecting Form F-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

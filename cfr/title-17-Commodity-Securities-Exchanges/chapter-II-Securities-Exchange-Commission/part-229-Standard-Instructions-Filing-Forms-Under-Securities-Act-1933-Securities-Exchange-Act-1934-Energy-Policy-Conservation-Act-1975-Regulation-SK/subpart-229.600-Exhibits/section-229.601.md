@@ -360,4 +360,4 @@ Instruction 1 to paragraphs (b)(101)(i) and (ii): When an Interactive Data File 
 
 (106) *Static pool.* If not included in the prospectus filed in accordance with § 230.424(b)(2) or (5) and (h) of this chapter, static pool disclosure as required by § 229.1105.
 
-[47 FR 11401, Mar. 16, 1982]Editorial Note:For Federal Register citations affecting § 229.601, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[47 FR 11401, Mar. 16, 1982]Editorial Note:For Federal Register citations affecting § 229.601, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

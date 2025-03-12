@@ -1,10 +1,8 @@
 ##### § 2552.92 What are project funding requirements? #####
 
-Link to an amendment published at 83 FR 64652, Dec. 17, 2018.
+(a) *Is non-CNCS support required?* A CNCS grant may be awarded to fund up to 90 percent of the cost of development and operation of a Foster Grandparent project. The sponsor is required to contribute at least 10 percent of the total project cost from non-Federal sources or authorized Federal sources.
 
-(a) *Is non-Corporation support required?* A Corporation grant may be awarded to fund up to 90 percent of the cost of development and operation of a Foster Grandparent project. The sponsor is required to contribute at least 10 percent of the total project cost from non-Federal sources or authorized Federal sources.
-
-(b) *Under what circumstances does the Corporation allow less than the 10 percent non-Corporation support?* The Corporation may allow exceptions to the 10 percent local support requirement in cases of demonstrated need such as:
+(b) *Under what circumstances does CNCS allow less than the 10 percent non-CNCS support?* CNCS may allow exceptions to the 10 percent local support requirement in cases of demonstrated need such as:
 
 (1) Initial difficulties in the development of local funding sources during the first three years of operations; or
 
@@ -12,20 +10,10 @@ Link to an amendment published at 83 FR 64652, Dec. 17, 2018.
 
 (3) The unexpected discontinuation of local support from one or more sources that a project has relied on for a period of years.
 
-(c) *May the Corporation restrict how a sponsor uses locally generated contributions in excess of the 10 percent non-Corporation support required?* Whenever locally generated contributions to Foster Grandparent projects are in excess of the minimum 10 percent non-Corporation support required, the Corporation may not restrict the manner in which such contributions are expended provided such expenditures are consistent with the provisions of the Act.
+(c) *May CNCS restrict how a sponsor uses locally generated contributions in excess of the 10 percent non-CNCS support required?* Whenever locally generated contributions to Foster Grandparent projects are in excess of the minimum 10 percent non-CNCS support required, CNCS may not restrict the manner in which such contributions are expended provided such expenditures are consistent with the provisions of the Act.
 
-(d) *Are program expenditures subject to audit?* All expenditures by the grantee of Federal and non-Federal funds, including expenditures from excess locally generated contributions in support of the grant, are subject to audit by the Corporation, its Inspector General or their authorized agents.
+(d) *Are program expenditures subject to audit*? All expenditures by the grantee of Federal and non-Federal funds, including expenditures from excess locally generated contributions in support of the grant are subject to audit by CNCS, its Inspector General, or their authorized agents.
 
-(e) *How are Foster Grandparent cost reimbursements budgeted?* (1) Except as provided in (e)(2) of this section, the total of cost reimbursements for Foster Grandparents, including stipends, insurance, transportation, meals, physical examinations, and recognition, shall be a sum equal to at least 80 percent of the amount of the Federal share of the grant award. Federal, required non-Federal, and excess non-Federal resources can be used to make up the amount allotted for cost reimbursements.
+(e) *May a sponsor pay stipends at rates different than those established by CNCS?* No, a sponsor shall pay stipends at rates established by CNCS.
 
-(2) The Corporation may allow exceptions to the 80 percent cost reimbursement requirement in cases of demonstrated need such as:
-
-(i) Initial difficulties in the development of local funding sources during the first three years of operations; or
-
-(ii) An economic downturn, the occurrence of a natural disaster, or similar events in the service area that severely restrict or reduce sources of local funding support; or
-
-(iii) The unexpected discontinuation of local support from one or more sources that a project has relied on for a period of years.
-
-(f) *May a sponsor pay stipends at a rate different than the rate established by the Corporation?* A sponsor shall pay stipends at the same rate as that established by the Corporation.
-
-[64 FR 14126, Mar. 24, 1999, as amended at 75 FR 51415, Aug. 20, 2010]
+[64 FR 14126, Mar. 24, 1999, as amended at 75 FR 51415, Aug. 20, 2010; 83 FR 64652, Dec. 17, 2018]

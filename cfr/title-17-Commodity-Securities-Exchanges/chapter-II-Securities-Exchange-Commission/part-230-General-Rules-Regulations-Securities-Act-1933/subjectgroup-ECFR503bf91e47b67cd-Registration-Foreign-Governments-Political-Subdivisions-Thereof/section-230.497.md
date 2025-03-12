@@ -26,4 +26,4 @@
 
 (k) *Summary prospectus filing requirements.* This paragraph (k), and not the other provisions of § 230.497, shall govern the filing of summary prospectuses under § 230.498. Each definitive form of a summary prospectus under § 230.498 shall be filed with the Commission no later than the date that it is first used.
 
-(Securities Act of 1933)[48 FR 37939, Aug. 22, 1983]Editorial Note:For Federal Register citations affecting § 230.497, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Securities Act of 1933)[48 FR 37939, Aug. 22, 1983]Editorial Note:For Federal Register citations affecting § 230.497, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

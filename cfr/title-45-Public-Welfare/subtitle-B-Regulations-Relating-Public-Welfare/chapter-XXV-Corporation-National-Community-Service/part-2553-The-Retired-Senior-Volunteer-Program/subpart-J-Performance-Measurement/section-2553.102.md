@@ -1,11 +1,19 @@
 ##### § 2553.102 What performance measurement information must be part of an application for funding under RSVP? #####
 
-Link to an amendment published at 83 FR 64658, Dec. 17, 2018.
+An application to CNCS for funding under RSVP must contain:
 
-An application to the Corporation for funding under RSVP must contain:
+(a) In a year one renewal application:
 
-(a) Performance measures.
+(1) Performance measures.
 
-(b) Estimated performance data for the project years covered by the application.
+(2) Estimated performance data for the project years covered by the application.
 
-(c) Actual performance data, where available, for the preceding completed project year.
+(b) In a year two or three continuation application:
+
+(1) Performance measures.
+
+(2) Estimated performance data for the project years covered by the application.
+
+(3) Actual performance data, where available, for the preceding completed project year.
+
+[83 FR 64658, Dec. 17, 2018]

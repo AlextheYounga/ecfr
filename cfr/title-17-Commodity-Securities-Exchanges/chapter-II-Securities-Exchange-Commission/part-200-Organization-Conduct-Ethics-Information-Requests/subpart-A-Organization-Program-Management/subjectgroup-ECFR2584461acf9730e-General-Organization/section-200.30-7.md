@@ -36,4 +36,4 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394 (15 U.S.C. 78d-1), th
 
 (e) Notwithstanding anything in the foregoing, in any case in which the Secretary of the Commission believes it appropriate he or she may submit the matter to the Commission.
 
-[35 FR 17989, Nov. 24, 1970. Redesignated at 37 FR 16792, Aug. 19, 1972]Editorial Note:For Federal Register citations affecting § 200.30-7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[35 FR 17989, Nov. 24, 1970. Redesignated at 37 FR 16792, Aug. 19, 1972]Editorial Note:For Federal Register citations affecting § 200.30-7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

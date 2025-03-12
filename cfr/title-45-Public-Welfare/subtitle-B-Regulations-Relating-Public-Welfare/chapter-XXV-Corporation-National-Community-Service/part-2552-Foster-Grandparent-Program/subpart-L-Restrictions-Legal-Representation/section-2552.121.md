@@ -1,7 +1,4 @@
-##### § 2552.121 What legal limitations apply to the operation of the Foster Grandparent Program and to the expenditure of grant funds?
-- #####
-
-Link to an amendment published at 83 FR 64653, Dec. 17, 2018.
+##### § 2552.121 What legal limitations apply to the operation of the Foster Grandparent Program and to the expenditure of grant funds? #####
 
 (a) *Political activities.* (1) No part of any grant shall be used to finance, directly or indirectly, any activity to influence the outcome of any election to public office, or any voter registration activity.
 
@@ -23,7 +20,7 @@ Link to an amendment published at 83 FR 64653, Dec. 17, 2018.
 
 (c) *Compensation for service.* (1) An agency or organization to which NSSC volunteers are assigned, or which operates or supervises any NSSC program shall not request or receive any compensation from NSSC volunteers or from beneficiaries for services of NSSC volunteers.
 
-(2) This section does not prohibit a sponsor from soliciting and accepting voluntary contributions from the community at large to meet its local support obligations under the grant or from entering into agreements with parties other than beneficiaries to support additional volunteers beyond those supported by the Corporation grant.
+(2) This section does not prohibit a sponsor from soliciting and accepting voluntary contributions from the community at large to meet its local support obligations under the grant or from entering into agreements with parties other than beneficiaries to support additional volunteers beyond those supported by CNCS.
 
 (3) A Foster Grandparent volunteer station may contribute to the financial support of the FGP. However, this support shall not be a required precondition for a potential station to obtain Foster Grandparent service.
 
@@ -37,10 +34,10 @@ Link to an amendment published at 83 FR 64653, Dec. 17, 2018.
 
 (f) *Nondiscrimination.* A sponsor or sponsor employee shall not discriminate against a Foster Grandparent on the basis of race, color, national origin, sex, age, religion, or political affiliation, or on the basis of disability, if the Foster Grandparent with a disability is qualified to serve.
 
-(g) *Religious activities.* (1) A Foster Grandparent or a member of the project staff funded by the Corporation shall not give religious instruction, conduct worship services or engage in any form of proselytization as part of his or her duties.
+(g) *Religious activities.* (1) A Foster Grandparent or a member of the project staff funded by CNCS shall not give religious instruction, conduct worship services or engage in any form of proselytization as part of his/her duties.
 
-(2) A sponsor or volunteer station may retain its independence and may continue to carry out its mission, including the definition, development, practice, and expression of its religious beliefs, provided that it does not use Corporation funds to support any inherently religious activities, such as worship, religious instruction, or proselytization, as part of the programs or services funded. If an organization conducts such activities, the activities must be offered separately, in time or location, from the programs or services funded under this part.
+(2) A sponsor or volunteer station may retain its independence and may continue to carry out its mission, including the definition, development, practice, and expression of its religious beliefs, provided that it does not use CNCS funds to support any inherently religious activities, such as worship, religious instruction, or proselytization, as part of the programs or services funded. If an organization conducts such activities, the activities must be offered separately, in time or location, from the programs or services funded under this part.
 
-(h) *Nepotism.* Persons selected for project staff positions shall not be related by blood or marriage to other project staff, sponsor staff or officers, or members of the sponsor Board of Directors, unless there is written concurrence from the community group established by the sponsor under Subpart B of this part and with notification to the Corporation.
+(h) *Nepotism.* Persons selected for project staff positions shall not be related by blood or marriage to other project staff, sponsor staff or officers, or members of the sponsor Board of Directors, unless there is written concurrence from the Advisory Council or community group established by the sponsor under subpart B of this part, and with notification to CNCS.
 
-[64 FR 14126, Mar. 24, 1999, as amended at 69 FR 60095, Oct. 7, 2004]
+[64 FR 14126, Mar. 24, 1999, as amended at 69 FR 60095, Oct. 7, 2004; 83 FR 64653, Dec. 17, 2018]

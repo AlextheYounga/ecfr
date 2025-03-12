@@ -72,4 +72,4 @@
 
 (l) Registrants and any non-U.S. person acting as trustee with respect to the securities being registered shall each file a Form F-X (§ 239.42 of this chapter) with the Commission at the time of filing this Form.
 
-[56 FR 30065, July 1, 1991]Editorial Note:For Federal Register citations affecting Form F-80, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[56 FR 30065, July 1, 1991]Editorial Note:For Federal Register citations affecting Form F-80, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

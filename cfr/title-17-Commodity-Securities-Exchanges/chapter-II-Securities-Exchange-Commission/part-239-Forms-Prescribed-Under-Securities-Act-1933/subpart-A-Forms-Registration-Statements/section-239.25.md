@@ -2,4 +2,4 @@
 
 This form may be used for registration under the Securities Act of 1933 of securities to be issued (a) in a transaction of the type specified in paragraph (a) of Rule 145 (§ 230.145 of this chapter); (b) in a merger in which the applicable state law would not require the solicitation of the votes or consents of all of the security holders of the company being acquired; (c) in an exchange offer for securities of the issuer or another entity; (d) in a public reoffering or resale of any such securities acquired pursuant to this registration statement; or (e) in more than one of the kinds of transactions listed in paragraphs (a) through (d) registered on one registration statement.
 
-[50 FR 19001, May 6, 1985]Editorial Note:For Federal Register citations affecting Form S-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[50 FR 19001, May 6, 1985]Editorial Note:For Federal Register citations affecting Form S-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

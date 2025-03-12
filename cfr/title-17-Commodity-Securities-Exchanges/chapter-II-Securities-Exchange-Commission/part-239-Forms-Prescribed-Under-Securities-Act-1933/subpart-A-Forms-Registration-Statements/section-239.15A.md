@@ -2,4 +2,4 @@
 
 Form N-1A shall be used for the registration under the Securities Act of 1933 of securities of open-end management investment companies other than separate accounts of insurance companies registered under the Investment Company Act of 1940 (on form N-1) (§ 270.11 of this chapter). This form is also to be used for the registration statement of such companies pursuant to section 8(b) of the Investment Company Act of 1940 (§ 270.11A of this chapter). This form is not applicable for small business investment companies which register pursuant to §§ 239.24 and 274.5 of this chapter.
 
-[48 FR 37940, Aug. 22, 1983]Editorial Note:For Federal Register citations affecting Form N-1A, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[48 FR 37940, Aug. 22, 1983]Editorial Note:For Federal Register citations affecting Form N-1A, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

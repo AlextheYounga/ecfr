@@ -324,4 +324,4 @@ Note to definition of “written communication.”
 
 A communication that is a radio or television broadcast is a written communication regardless of the means of transmission of the broadcast.
 
-[47 FR 11435, Mar. 16, 1982]Editorial Note:For Federal Register citations affecting § 230.405, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[47 FR 11435, Mar. 16, 1982]Editorial Note:For Federal Register citations affecting § 230.405, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

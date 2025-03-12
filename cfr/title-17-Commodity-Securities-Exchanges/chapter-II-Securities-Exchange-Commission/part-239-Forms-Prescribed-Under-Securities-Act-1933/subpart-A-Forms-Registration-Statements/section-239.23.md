@@ -12,4 +12,4 @@ This form shall be used by a registered investment company or a business develop
 
 (e) In more than one of the kinds of transactions listed in paragraphs (a) through (d) registered on one registration statement.
 
-[50 FR 48383, Nov. 25, 1985]Editorial Note:For Federal Register citations affecting Form N-14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[50 FR 48383, Nov. 25, 1985]Editorial Note:For Federal Register citations affecting Form N-14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

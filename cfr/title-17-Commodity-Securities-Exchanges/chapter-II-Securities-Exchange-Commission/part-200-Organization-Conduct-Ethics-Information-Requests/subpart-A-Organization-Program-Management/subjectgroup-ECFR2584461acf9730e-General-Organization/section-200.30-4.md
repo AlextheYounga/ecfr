@@ -38,4 +38,4 @@ Pursuant to the provisions of Pub. L. No. 100-181, 101 Stat. 1254, 1255 (15 U.S.
 
 (b) Notwithstanding anything in the foregoing, in any case in which the Director of the Division of Enforcement believes it appropriate, he may submit the matter to the Commission.
 
-[37 FR 16796, Aug. 19, 1972]Editorial Note:For Federal Register citations affecting § 200.30-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[37 FR 16796, Aug. 19, 1972]Editorial Note:For Federal Register citations affecting § 200.30-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -288,4 +288,4 @@ Notes:
 
 (3) The term “Form 10 information” means the information that is required by Form 10 or Form 20-F (§ 249.210 or § 249.220f of this chapter), as applicable to the issuer of the securities, to register under the Exchange Act each class of securities being sold under this rule. The issuer may provide the Form 10 information in any filing of the issuer with the Commission. The Form 10 information is deemed filed when the initial filing is made with the Commission.
 
-[37 FR 596, Jan. 14, 1972]Editorial Note:For Federal Register citations affecting § 230.144, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[37 FR 596, Jan. 14, 1972]Editorial Note:For Federal Register citations affecting § 230.144, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

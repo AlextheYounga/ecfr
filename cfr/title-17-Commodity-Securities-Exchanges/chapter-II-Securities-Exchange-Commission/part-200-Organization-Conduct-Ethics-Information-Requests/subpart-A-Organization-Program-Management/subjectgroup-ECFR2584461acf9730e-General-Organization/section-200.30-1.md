@@ -138,4 +138,4 @@ Pursuant to the provisions of Pub. L., No. 87-592, 76 Stat. 394 (15 U.S.C. 78d-1
 
 (l) With respect to the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), the Trust Indenture Act of 1939 (15 U.S.C. 77aaa *et seq.*), and Regulation S-T thereunder (part 232 of this chapter), to set the terms of, and grant or deny as appropriate, continuing hardship exemptions, pursuant to Rule 202 of Regulation S-T, (§ 232.202 of this chapter), from the electronic submission requirements of Regulation S-T (part 232 of this chapter).
 
-[41 FR 29375, July 16, 1976]Editorial Note:For Federal Register citations affecting § 200.30-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[41 FR 29375, July 16, 1976]Editorial Note:For Federal Register citations affecting § 200.30-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

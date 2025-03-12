@@ -26,4 +26,4 @@
 
 (iii) 90 days for all other registrants.
 
-[45 FR 62687, Sept. 25, 1980]Editorial Note:For Federal Register citations affecting § 210.3-12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[45 FR 62687, Sept. 25, 1980]Editorial Note:For Federal Register citations affecting § 210.3-12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

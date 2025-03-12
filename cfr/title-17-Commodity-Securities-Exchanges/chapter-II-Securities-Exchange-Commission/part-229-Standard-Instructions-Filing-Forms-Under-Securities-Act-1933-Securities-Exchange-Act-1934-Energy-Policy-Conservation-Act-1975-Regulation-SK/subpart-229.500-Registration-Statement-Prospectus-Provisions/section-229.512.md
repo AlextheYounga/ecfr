@@ -112,4 +112,4 @@ The undersigned registrant hereby undertakes to file an application for the purp
 
 The undersigned registrant hereby undertakes that, for purposes of determining any liability under the Securities Act of 1933, each filing of the annual report pursuant to section 13(a) or section 15(d) of the Securities Exchange Act of 1934 of a third party that is incorporated by reference in the registration statement in accordance with Item 1100(c)(1) of Regulation AB (17 CFR 229.1100(c)(1)) shall be deemed to be a new registration statement relating to the securities offered therein, and the offering of such securities at that time shall be deemed to be the initial bona fide offering thereof.
 
-[47 FR 11401, Mar. 16, 1982]Editorial Note:For Federal Register citations affecting § 229.512, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[47 FR 11401, Mar. 16, 1982]Editorial Note:For Federal Register citations affecting § 229.512, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

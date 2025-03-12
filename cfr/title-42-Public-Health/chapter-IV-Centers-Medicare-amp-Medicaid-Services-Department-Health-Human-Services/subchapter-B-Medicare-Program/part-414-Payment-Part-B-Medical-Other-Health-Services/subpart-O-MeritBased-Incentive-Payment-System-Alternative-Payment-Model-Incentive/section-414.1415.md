@@ -1,6 +1,6 @@
 ##### § 414.1415 Advanced APM criteria. #####
 
-Link to an amendment published at 83 FR 60090, November 23, 2018.
+Link to an amendment published at 83 FR 60090, Nov. 23, 2018.Link to a correction of the above amendment published at 84 FR 540, Jan. 31, 2019.
 
 (a) *Use of certified electronic health record technology (CEHRT)* - (1) *Required use of CEHRT.* To be an Advanced APM, an APM must:
 

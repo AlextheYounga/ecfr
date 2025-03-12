@@ -1,51 +1,49 @@
 ##### § 2551.12 Definitions. #####
 
-Link to an amendment published at 83 FR 64644, Dec. 17, 2018.
+*Act.* The Domestic Volunteer Service Act of 1973, as amended, Pub. L. 93-113, Oct. 1, 1973, 87 Stat. 396, 42 U.S.C. 4950 *et seq.*
 
-(a) *Act.* The Domestic Volunteer Service Act of 1973, as amended, Pub. L. 93-113, Oct. 1, 1973, 87 Stat. 396, 42 U.S.C. 4950 *et seq.*
+*Adequate staffing level.* The number of project staff or full time equivalent needed by a sponsor to manage the National Senior Service Corps (NSSC) project operations considering such factors as: Number of budgeted Volunteer Service Years (VSYs), number of volunteer stations, and the size of the service area.
 
-(b) *Adult with special needs.* Any individual over 21 years of age who has one or more physical, emotional, or mental health limitations and is in need of assistance to achieve and maintain their highest level of independent living.
+*Adult with special needs.* Any individual over 21 years of age who has one or more physical, emotional, or mental health limitations and is in need of assistance to achieve and maintain their highest level of independent living.
 
-(c) *Adequate staffing level.* The number of project staff or full-time equivalent needed by a sponsor to manage NSSC project operations considering such factors as: number of budgeted Volunteer Service Years (VSY), number of volunteer stations, and the size of the service area.
+*Annual income.* Total cash and in-kind receipts from all sources over the preceding 12 months including: the applicant or enrollee's income and, the applicant or enrollee's spouse's income, if the spouse lives in the same residence. The value of shelter, food, and clothing, shall be counted if provided at no cost by persons related to the applicant/enrollee, or spouse.
 
-(d) *Annual income.* Total cash and in-kind receipts from all sources over the preceding 12 months including: the applicant or enrollee's income and, the applicant or enrollee's spouse's income, if the spouse lives in the same residence. The value of shelter, food, and clothing, shall be counted if provided at no cost by persons related to the applicant/enrollee, or spouse.
+*Chief Executive Officer.* The Chief Executive Officer of CNCS appointed under the National and Community Service Act of 1990, as amended, (NCSA), 42 U.S.C. 12501 *et seq.*
 
-(e) *Chief Executive Officer.* The Chief Executive Officer of the Corporation appointed under the National and Community Service Act of 1990, as amended, (NCSA), 42 U.S.C. 12501 *et seq.*
+*CNCS.* The Corporation for National and Community Service established under the NCSA, as amended, 42 U.S.C. 12501 *et seq.*
 
-(f) *Corporation.* The Corporation for National and Community Service established under the Trust Act. The Corporation is also sometimes referred to as CNCS.
+*Cost reimbursements.* Reimbursements budgeted as Volunteer Expenses and provided to volunteers, including stipends to cover incidental costs, transportation, meals, recognition, supplemental accident, personal liability and excess automobile liability insurance and other expenses as negotiated in the Memorandum of Understanding.
 
-(g) *Cost reimbursements.* Reimbursements provided to volunteers such as stipends to cover incidental costs, meals, and transportation, to enable them to serve without cost to themselves. Also included are the costs of annual physical examinations, volunteer insurance and recognition which are budgeted as Volunteer Expenses.
+*In-home.* The non-institutional assignment of a Senior Companion in a private residence.
 
-(h) *In-home.* The non-institutional assignment of a Senior Companion in a private residence.
+*Letter of Agreement.* A written agreement between a volunteer station or sponsor, and person(s) served or the person legally responsible for that person. It authorizes the assignment of an SCP volunteer in the home of a client, defines SCP volunteer activities, and specifies supervision arrangements.
 
-(i) *Letter of Agreement.* A written agreement between a volunteer station, the sponsor and the adult served or the persons legally responsible for that adult. It authorizes the assignment of a Senior Companion in the clients home, defines the Senior Companion's activities and delineates specific arrangements for supervision.
+*Memorandum of Understanding.* A written statement prepared and signed by the Senior Companion project sponsor and the volunteer station that identifies project requirements, working relationships and mutual responsibilities.
 
-(j) *Memorandum of Understanding.* A written statement prepared and signed by the Senior Companion project sponsor and the volunteer station that identifies project requirements, working relationships and mutual responsibilities.
+*National Senior Service Corps (NSSC).* The collective name for the Senior Companion Program (SCP), the Foster Grandparent Program (FGP), the Retired and Senior Volunteer Program (RSVP), and Demonstration Programs, all of which are established under Parts A, B, C, and E, Title II of the Act. NSSC is also referred to as the “Senior Corps”.
 
-(k) *National Senior Service Corps (NSSC).* The collective name for the Foster Grandparent Program (FGP), the Retired and Senior Volunteer Program (RSVP), the Senior Companion Program (SCP), and Demonstration Programs established under Title II Parts A, B, C, and E, of the Act. NSSC is also referred to as the “Senior Corps”.
+*Non-CNCS support (excess).* The amount of non-CNCS cash and in-kind contributions generated by a sponsor in excess of the required percentage.
 
-(l) *Non-Corporation support (required).* The percentage share of non-Federal cash and in-kind contributions, required to be raised by the sponsor in support of the grant.
+*Non-CNCS support (match).* The percentage share of non-CNCS cash and in-kind contributions required to be raised by the sponsor in support of the grant.
 
-(m) *Non-Corporation support (excess).* The amount of non-Federal cash and in-kind contributions generated by a sponsor in excess of the required percentage.
+*Performance measures.* Indicators that help determine the impact of an SCP project on the community and clients served, including the volunteers.
 
-(n) *Project.* The locally planned and implemented Senior Companion Program activity or set of activities as agreed upon between a sponsor and the Corporation.
+*Project.* The locally planned SCP activity or set of activities in a service area as approved by CNCS and implemented by the sponsor.
 
-(o) *Qualified individual with a disability.* An individual with a disability (as defined in the Rehabilitation Act, 29 U.S.C. 705 (20)) who, with or without reasonable accommodation, can perform the essential functions of a volunteer position that such individual holds or desires. If a sponsor has prepared a written description before advertising or interviewing applicants for the position, the written description may be considered evidence of the essential functions of the volunteer position.
+*Proprietary Health Care Organizations.* Private, for-profit health care organization that serves one or more vulnerable populations.
 
-(p) *Service area.* The geographically defined area in which Senior Companions are recruited, enrolled, and placed on assignments.
+*Service area.* The geographically defined area(s) in which Senior Companions are enrolled and placed on assignments.
 
-(q) *Service schedule.* A written delineation of the days and times a Senior Companion serves each week.
+*Service schedule.* A written delineation of the days and times a Senior Companion serves each week.
 
-(r) Sponsor. A public agency or private non-profit organization, either secular or faith-based, that is responsible for the operation of a Senior Companion project.
+*Sponsor.* A public agency, including Indian tribes as defined in section 421(5) of the Act, and private, non-profit organizations, both secular and faith-based, in the United States that have authority to accept and the capability to administer a Senior Companion project.
 
-(s) *Stipend.* A payment to Senior Companions to enable them to serve without cost to themselves. The amount of the stipend is determined by the Corporation and is payable in regular installments. The minimum amount of the stipend is set by law and shall be adjusted by the CEO from time to time.
+*Stipend.* A payment to Senior Companions to enable them to serve without cost to themselves. The amount of the stipend is set by CNCS in accordance with federal law.
 
-(t) *Trust Act.* The National and Community Service Trust Act of 1993, Pub. L. 103-82, Sept. 21, 1993, 107 Stat. 785.
+*United States and Territories.* Each of the several States, the District of Columbia, the U.S. Virgin Islands, the Commonwealth of Puerto Rico, Guam and American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territories of the Pacific Islands.
 
-(u) *United States and States.* Each of the several States, the District of Columbia, the U.S. Virgin Islands, the Commonwealth of Puerto Rico, Guam and American Samoa, and Trust Territories of the Pacific Islands.
+*Volunteer assignment plan.* A written description of a Senior Companion's assignment with a client. The plan identifies specific outcomes for the client served and the activities of the Senior Companion.
 
-(v) *Volunteer assignment plan.* A written description of a Senior Companion's assignment with a client. The plan identifies specific outcomes for the client served and the activities of the Senior Companion.
+*Volunteer station.* A public agency; a private, non-profit organization, secular or faith-based; or a proprietary health care organization. A volunteer station must accept responsibility for the assignment and supervision of Senior Companions in health, education, social service or related settings such as multi-purpose centers, home health care agencies, or similar establishments. Each volunteer station must be licensed or otherwise certified, when required, by the appropriate state or local government. Private homes are not volunteer stations.
 
-(w) Volunteer station. A public agency, secular or faith-based private non-profit organization, or proprietary health care organization that accepts the responsibility for assignment and supervision of Senior Companions in health, education, social service or related settings such as multi-purpose centers, home health care agencies, or similar establishments. Each volunteer station must be licensed or otherwise certified, when required, by the appropriate state or local government. Private homes are not volunteer stations.
-
-[64 FR 14115, Mar. 24, 1999, as amended at 69 FR 60094, Oct. 7, 2004]
+[64 FR 14115, Mar. 24, 1999, as amended at 69 FR 60094, Oct. 7, 2004; 83 FR 64644, Dec. 17, 2018]

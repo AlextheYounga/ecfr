@@ -1,6 +1,4 @@
-##### § 2552.72 Is a written volunteer assignment plan required for each volunteer? #####
-
-Link to an amendment published at 83 FR 64652, Dec. 17, 2018.
+##### § 2552.72 Is a written volunteer assignment plan required for each Foster Grandparent? #####
 
 (a) All Foster Grandparents shall receive a written volunteer assignment plan developed by the volunteer station that:
 
@@ -12,6 +10,8 @@ Link to an amendment published at 83 FR 64652, Dec. 17, 2018.
 
 (4) Addresses the period of time each child should receive such services; and
 
-(5) Is used to review the status of the Foster Grandparent's services in working with the assigned child, as well as the impact of the assignment on the child's development.
+(5) Is used to review the impact of the assignment on the child(ren).
 
-(b) If there is an existing plan that incorporates paragraphs (a)(2), (3), and (4) of this section, that plan shall meet the requirement.
+(b) [Reserved]
+
+[64 FR 14126, Mar. 24, 1999, as amended at 83 FR 64652, Dec. 17, 2018]

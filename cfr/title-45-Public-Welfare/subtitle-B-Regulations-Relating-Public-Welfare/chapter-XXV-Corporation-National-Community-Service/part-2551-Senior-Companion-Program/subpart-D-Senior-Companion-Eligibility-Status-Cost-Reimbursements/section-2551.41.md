@@ -1,17 +1,11 @@
 ##### § 2551.41 Who is eligible to be a Senior Companion? #####
 
-Link to an amendment published at 83 FR 64645, Dec. 17, 2018.
-
 (a) To be a Senior Companion, an individual must:
 
-(1) Be 55 years of age or older;
+(1) Be 55 years of age or older; and
 
-(2) Be determined by a physical examination to be capable, with or without reasonable accommodation, of serving adults with special needs without detriment to either himself/herself or the adults served;
+(2) In order to receive a stipend, have an income that is within the income eligibility guidelines specified in this subpart D.
 
-(3) Agree to abide by all requirements as set forth in this part; and
+(b) Eligibility to serve as a Senior Companion shall not be restricted on the basis of formal education, experience, race, color, national origin including limited English proficiency, gender, age, religion, sexual orientation, disability, gender identity or expression, political affiliation, marital or parental status, or military service.
 
-(4) In order to receive a stipend, have an income that is within the income eligibility guidelines specified in this subpart D.
-
-(b) Eligibility to be a Senior Companion shall not be restricted on the basis of formal education, experience, race, religion, color, national origin, sex, age, handicap, or political affiliation.
-
-[64 FR 14115, Mar. 24, 1999, as amended at 74 FR 46508, Sept. 10, 2009]
+[64 FR 14115, Mar. 24, 1999, as amended at 74 FR 46508, Sept. 10, 2009; 83 FR 64645, Dec. 17, 2018]

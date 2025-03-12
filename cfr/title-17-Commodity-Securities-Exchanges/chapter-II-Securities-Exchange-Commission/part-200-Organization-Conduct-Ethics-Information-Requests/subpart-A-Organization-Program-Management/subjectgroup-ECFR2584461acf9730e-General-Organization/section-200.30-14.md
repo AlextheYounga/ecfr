@@ -88,4 +88,4 @@ Pursuant to the provisions of Pub. L. 101-181, 101 Stat. 1254, 101 Stat. 1255, 1
 
 (2) To terminate the authority of officers to administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records in the course of investigations instituted by the Commission pursuant to Section 21 of the Securities Exchange Act of 1934 (15 U.S.C. 78u) including for possible violations by attorneys of Rule 102(e) of the Commission Rules of Practice (17 CFR 201.102(e)).
 
-[47 FR 20288, May 12, 1982]Editorial Note:For Federal Register citations affecting § 200.30-14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[47 FR 20288, May 12, 1982]Editorial Note:For Federal Register citations affecting § 200.30-14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
