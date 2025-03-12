@@ -1,0 +1,27 @@
+##### § 301.6057-3 Required use of magnetic media for filing requirements relating to deferred vested retirement benefit. #####
+
+(a) *Magnetic media filing requirements under section 6057.* A registration statement required under section 6057(a) or a notification required under section 6057(b) with respect to an employee benefit plan must be filed on magnetic media if the filer is required by the Internal Revenue Code or regulations to file at least 250 returns during the calendar year that includes the first day of the plan year. Returns filed on magnetic media must be made in accordance with applicable revenue procedures, publications, forms, instructions, or other guidance on the IRS.gov Internet Web site. In prescribing revenue procedures, publications, forms, instructions, or other guidance on the IRS.gov Internet Web site, the Commissioner may direct the type of magnetic media filing. See § 601.601(d)(2)(ii)(*b*) of this chapter.
+
+(b) *Economic hardship waiver.* The Commissioner may waive the requirements of this section in cases of undue economic hardship. The principal factor in determining hardship will be the amount, if any, by which the cost of filing the registration statements or notifications on magnetic media in accordance with this section exceeds the cost of filing the registration statements or notifications on other media. A request for a waiver must be made in accordance with applicable published guidance, publications, forms, instructions, or other guidance on the IRS.gov Internet Web site. See § 601.601(d)(2)(ii)(*b*) of this chapter. The waiver will specify the type of filing (that is, a registration statement or notification under section 6057) and the period to which it applies. In addition, the waiver will be subject to such terms and conditions regarding the method of filing as may be prescribed by the Commissioner.
+
+(c) *Failure to file.* If a filer required to file a registration statement or other notification under section 6057 fails to file the statement or other notification on magnetic media when required to do so by this section, the filer is deemed to have failed to file the statement or other notification. See section 6652(d) for the amount imposed for the failure to file a registration statement or other notification required under section 6057. In determining whether there is reasonable cause for the failure to file the registration statement or notification under section 6057, § 301.6652-3(b) and rules similar to the rules in § 301.6724-1(c)(3)(ii) (regarding undue economic hardship related to filing information returns on magnetic media) will apply.
+
+(d) *Meaning of terms.* The following definitions apply for purposes of this section.
+
+(1) *Magnetic media.* The term *magnetic media* means electronic filing, as well as other media specifically permitted under applicable regulations, revenue procedures, or publications, forms, instructions, or other guidance on the IRS.gov Internet Web site. See § 601.601(d)(2)(ii)(*b*) of this chapter.
+
+(2) *Registration statement required under section 6057(a).* The term *registration statement required under section 6057(a)* means a Form 8955-SSA (or its successor).
+
+(3) *Notification required under section 6057(b).* The term *notification required under section 6057(b)* means either a Form 8955-SSA (or its successor) or a return in the Form 5500 series (or its successor).
+
+(4) *Determination of 250 returns* - (i) *In general.* For purposes of this section, a filer is required to file at least 250 returns if, during the calendar year that includes the first day of the plan year, the filer is required to file at least 250 returns of any type, including information returns (for example, Forms W-2 and Forms 1099), income tax returns, employment tax returns, and excise tax returns.
+
+(ii) *Definition of filer.* For purposes of this section, the term *filer* means the plan administrator within the meaning of section 414(g). If the plan administrator within the meaning of section 414(g) is the employer, the special rules in § 1.6058-2(d)(3)(iii) will apply.
+
+(e) *Example.* The following example illustrates the provisions of paragraph (d)(4) of this section:
+
+Example.In 2015, P, the plan administrator of Plan B, is required to file 252 returns (including Forms 1099-R, “Distributions From Pensions, Annuities, Retirement or Profit-Sharing Plans, IRAs, Insurance Contracts, etc.;” Form 8955-SSA, “Annual Registration Statement Identifying Separated Participants with Deferred Vested Benefits;” Form 5500, “Annual Return/Report of Employee Benefit Plan;” and Form 945, “Annual Return of Withheld Federal Income Tax”). Plan B's plan year is the calendar year. Because P is required to file at least 250 returns during the 2015 calendar year, P must file the 2015 Form 8955-SSA for Plan B electronically.
+
+(f) *Effective/applicability date.* This section is applicable for registration statements and other notifications required to be filed under section 6057 for plan years that begin on or after January 1, 2014, but only for filings with a filing deadline (not taking into account extensions) on or after July 31, 2015.
+
+[T.D. 9695, 79 FR 58258, Sept. 29, 2014]

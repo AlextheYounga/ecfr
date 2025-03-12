@@ -1,0 +1,3 @@
+##### § 20.2202-1 Missionaries in foreign service. #####
+
+Section 2202 provides that a duly commissioned missionary, dying while in foreign missionary service under a board of foreign missions of a religious denomination in the United States, is presumed to have retained a United States residence (see paragraph (b)(1) of § 20.0-1) held at the time of his commission and departure for foreign service, in the absence of relevant facts other than his intention to remain permanently in such foreign service.

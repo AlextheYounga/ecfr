@@ -1,6 +1,6 @@
 ##### § 1.6050H-2 Time, form, and manner of reporting interest received on qualified mortgage. #####
 
-(a) *Requirement to file return* - (1) *Form of return.* An interest recipient must file a return required by § 1.6050H-1(a) on Form 1098 (with Form 1096 as the transmittal form). An interest recipient may use forms containing provisions substantially similar to those in Forms 1098 and 1096 if it complies with applicable revenue procedures relating to substitute Forms 1098 and 1096. An interest recipient must file a separate return for each qualified mortgage for which it receives $600 or more of interest for a calendar year.
+(a) *Requirement to file return*—(1) *Form of return.* An interest recipient must file a return required by § 1.6050H-1(a) on Form 1098 (with Form 1096 as the transmittal form). An interest recipient may use forms containing provisions substantially similar to those in Forms 1098 and 1096 if it complies with applicable revenue procedures relating to substitute Forms 1098 and 1096. An interest recipient must file a separate return for each qualified mortgage for which it receives $600 or more of interest for a calendar year.
 
 (2) *Information included on return.* An interest recipient must include on Form 1098:
 
@@ -10,7 +10,7 @@
 
 (iii) The amount of interest (other than points) required to be reported with respect to the qualified mortgage for the calendar year;
 
-(iv) With respect to reimbursements of interest on a qualified mortgage (as discussed in paragraph (a)(3) of this section) made to the payor of record in the calendar year -
+(iv) With respect to reimbursements of interest on a qualified mortgage (as discussed in paragraph (a)(3) of this section) made to the payor of record in the calendar year—
 
 (A) Reimbursements aggregating $600 or more; and
 
@@ -28,13 +28,13 @@ Section 1.6050H-1(e) contains rules to determine the amount of interest received
 
 (5) *Use of magnetic media.* An interest recipient must file the return required by paragraph (a) of this section on magnetic media only if required by section 6011(e) and the regulations thereunder. An interest recipient not required by section 6011(e) to file returns on magnetic media may request permission to do so. Section 301.6011-2 contains rules relating to the use of magnetic media. A failure to file on magnetic media when required constitutes a failure to file an information return under section 6721.
 
-(b) *Requirement to furnish statement* - (1) *In general.* An interest recipient that must file a return under paragraph (a) of this section must furnish a statement to the payor of record.
+(b) *Requirement to furnish statement*—(1) *In general.* An interest recipient that must file a return under paragraph (a) of this section must furnish a statement to the payor of record.
 
 (2) *Information included on statement.* An interest recipient must include on the statement that it must furnish to a payor of record:
 
 (i) The information required under paragraph (a)(2) of this section;
 
-(ii) A legend that -
+(ii) A legend that—
 
 (A) Identifies the statement as important tax information that is being furnished to the IRS; and
 
@@ -52,13 +52,13 @@ Section 1.6050H-1(e) contains rules to determine the amount of interest received
 
 (6) *Time and place for furnishing statement.* An interest recipient must furnish a statement required by paragraph (b)(1) of this section to a payor of record on or before January 31 of the year following the calendar year for which it receives the mortgage interest. If no mortgage interest is required to be reported for the calendar year, but a reimbursement of interest on a qualified mortgage is required to be reported for the calendar year, then the statement required by paragraph (b)(1) of this section must be furnished on or before January 31 of the year following the calendar year in which the reimbursement was made. The interest recipient will be considered to have furnished the statement to the payor of record if it mails the statement to the payor of record's last known address.
 
-(c) *Notice requirement for use of Rule of 78s method of accounting* - (1) *In general.* An interest recipient seeking to report interest received on a mortgage under the Rule of 78s method of accounting as permitted under § 1.6050H-1(e)(4) must notify the payor of record that the Rule of 78s method of accounting was used to calculate interest received on the mortgage and that the payor of record may not deduct as interest the amount calculated under the Rule of 78s method of accounting unless the payor of record properly uses that method to determine interest deductions. The notice must state that the payor of record may use the Rule of 78s method of accounting to determine interest paid for Federal income tax purposes only for a self-amortizing consumer loan requiring level payments at regular intervals (at least annually) over no longer than a five-year period, with no balloon payment at the end of the loan term, and only when the loan agreement provides for use of the Rule of 78s method of accounting to determine interest earned. See Rev. Proc. 83-40, 1983-1 C.B. 774; Rev. Rul. 83-84, 1983-1 C.B. 97.
+(c) *Notice requirement for use of Rule of 78s method of accounting*—(1) *In general.* An interest recipient seeking to report interest received on a mortgage under the Rule of 78s method of accounting as permitted under § 1.6050H-1(e)(4) must notify the payor of record that the Rule of 78s method of accounting was used to calculate interest received on the mortgage and that the payor of record may not deduct as interest the amount calculated under the Rule of 78s method of accounting unless the payor of record properly uses that method to determine interest deductions. The notice must state that the payor of record may use the Rule of 78s method of accounting to determine interest paid for Federal income tax purposes only for a self-amortizing consumer loan requiring level payments at regular intervals (at least annually) over no longer than a five-year period, with no balloon payment at the end of the loan term, and only when the loan agreement provides for use of the Rule of 78s method of accounting to determine interest earned. See Rev. Proc. 83-40, 1983-1 C.B. 774; Rev. Rul. 83-84, 1983-1 C.B. 97.
 
 (2) *Time and manner.* An interest recipient must provide notice required by paragraph (c)(1) of this section to a payor of record on or with the statement required by paragraph (b) of this section. An interest recipient may provide notice on a separate paper or on the statement required by paragraph (b) of this section.
 
-(d) *Reporting under designation agreement* - (1) *In general.* An interest recipient that receives or collects interest (including points) on a mortgage may designate a qualified person to satisfy the reporting requirements of paragraphs (a), (b), and (c) of this section. If a designated qualified person reports as permitted under this paragraph (d), it will satisfy the requirement of paragraph (a)(2)(ii) of this section by including on Form 1098 (and Form 1096) the name, address, and TIN of the designated qualified person.
+(d) *Reporting under designation agreement*—(1) *In general.* An interest recipient that receives or collects interest (including points) on a mortgage may designate a qualified person to satisfy the reporting requirements of paragraphs (a), (b), and (c) of this section. If a designated qualified person reports as permitted under this paragraph (d), it will satisfy the requirement of paragraph (a)(2)(ii) of this section by including on Form 1098 (and Form 1096) the name, address, and TIN of the designated qualified person.
 
-(2) *Qualified person.* A qualified person is either -
+(2) *Qualified person.* A qualified person is either—
 
 (i) A trade or business with respect to which the interest recipient is under common control within the meaning of § 1.414(c)-2; or
 
@@ -68,7 +68,7 @@ Section 1.6050H-1(e) contains rules to determine the amount of interest received
 
 (4) *Penalties.* A designated qualified person is subject to any applicable penalties provided in part II of subchapter B of chapter 68 of the Internal Revenue Code as if it were an interest recipient. A designator is relieved from liability for applicable penalties by designating a qualified person under the provisions of paragraph (d)(3) of this section. Paragraph (e) of this section describes applicable penalties.
 
-(e) *Penalty provisions* - (1) *Returns and statements the due date for which (determined without regard for extensions) is after December 31, 1987, and before December 31, 1989.* For purposes of this paragraph (e)(1) only, all references to sections of the Internal Revenue Code refer to sections of the Internal Revenue Code of 1986, as amended on or before December 31, 1987.
+(e) *Penalty provisions*—(1) *Returns and statements the due date for which (determined without regard for extensions) is after December 31, 1987, and before December 31, 1989.* For purposes of this paragraph (e)(1) only, all references to sections of the Internal Revenue Code refer to sections of the Internal Revenue Code of 1986, as amended on or before December 31, 1987.
 
 (i) *Failure to file return or to furnish statement.* The section 6721 penalty applies to an interest recipient that fails to file a return required by paragraph (a) of this section with respect to a payor of record. The section 6722 penalty applies to an interest recipient that fails to furnish a statement required by paragraph (b) of this section to a payor of record.
 
@@ -76,18 +76,18 @@ Section 1.6050H-1(e) contains rules to determine the amount of interest received
 
 (iii) *Failure to include correct information.* The section 6723 penalty may apply to an interest recipient that fails to include correct information on a return required by paragraph (a) of this section or on a statement required by paragraph (b) of this section to be furnished to a payor of record.
 
-(2) *Returns and statements the due date for which (determined without regard for extensions) is after December 31, 1989* - (i) *Failure to file return or to furnish statement.* The section 6721 penalty applies to an interest recipient that fails to file a return required by paragraph (a) of this section with respect to a payor of record. The section 6722 penalty applies to an interest recipient that fails to furnish a statement required by paragraph (b) of this section to a payor of record.
+(2) *Returns and statements the due date for which (determined without regard for extensions) is after December 31, 1989*—(i) *Failure to file return or to furnish statement.* The section 6721 penalty applies to an interest recipient that fails to file a return required by paragraph (a) of this section with respect to a payor of record. The section 6722 penalty applies to an interest recipient that fails to furnish a statement required by paragraph (b) of this section to a payor of record.
 
 (ii) *Failure to furnish TIN.* The section 6721 penalty may apply to an interest recipient that fails to furnish the TIN of a payor of record on a return required by paragraph (a) of this section. The section 6721 penalty may apply to an interest recipient that fails to request and to obtain the TIN of a payor of record under paragraph (f) of this section.
 
 (iii) *Failure to include correct information.* The section 6721 penalty may apply to an interest recipient that fails to include correct information on a return required by paragraph (a) of this section. The section 6722 penalty may apply to an interest recipient that fails to include correct information on a statement required by paragraph (b) of this section to be furnished to a payor record.
 
-(f) *Requirement to request and to obtain TIN* - (1) *In general.* For obligations incurred after December 31, 1987, an interest recipient must make all reasonable efforts to obtain the TIN of a payor of record when the payor of record incurs the obligation. For example, an interest recipient may require a borrower to furnish a TIN during the mortgage approval or application process. If an interest recipient does not maintain the TIN of a payor of record on a mortgage, whenever incurred, it must request the TIN at least annually and must process responses properly and promptly.
+(f) *Requirement to request and to obtain TIN*—(1) *In general.* For obligations incurred after December 31, 1987, an interest recipient must make all reasonable efforts to obtain the TIN of a payor of record when the payor of record incurs the obligation. For example, an interest recipient may require a borrower to furnish a TIN during the mortgage approval or application process. If an interest recipient does not maintain the TIN of a payor of record on a mortgage, whenever incurred, it must request the TIN at least annually and must process responses properly and promptly.
 
 (2) *Manner of requesting TIN.* An interest recipient need not separately mail a request for a TIN. An interest recipient may include a request in its regular mailing of payment coupon booklets or annual statements. If an interest recipient makes no mailing to a payor of record during the year in which the payor of record incurs the obligation, it must request the TIN in a separate mailing. No particular form is required to request a TIN. Nevertheless, an interest recipient must make the request on a separate paper and must clearly notify a payor of record that the Internal Revenue Service requires the payor of record to furnish a TIN in order to verify any mortgage interest deduction. An interest recipient must notify a payor of record that failure to furnish a TIN subjects the payor of record to a $50 penalty imposed by the Internal Revenue Service. A request for a TIN made on Form W-9 satisfies the requirement of this paragraph (f)(2).
 
-(g) *Effective date* - (1) *In general.* Except as provided in paragraph (g)(2) of this section, this section is effective for mortgage interest received after December 31, 1987. Section 1.6050H-1T contains rules for reporting mortgage interest received after December 31, 1984, and before January 1, 1988.
+(g) *Effective date*—(1) *In general.* Except as provided in paragraph (g)(2) of this section, this section is effective for mortgage interest received after December 31, 1987.
 
 (2) *Points.* The reporting requirement of this section does not apply to prepaid interest in the form of points received before January 1, 1995.
 
-[T.D. 8191, 53 FR 12005, Apr. 12, 1988, as amended by T.D. 8507, 58 FR 68753, Dec. 29, 1993; T.D. 8571, 59 FR 63253, Dec. 8, 1994; T.D. 8895, 65 FR 50408, Aug. 18, 2000]
+[T.D. 8191, 53 FR 12005, Apr. 12, 1988, as amended by T.D. 8507, 58 FR 68753, Dec. 29, 1993; T.D. 8571, 59 FR 63253, Dec. 8, 1994; T.D. 8895, 65 FR 50408, Aug. 18, 2000; T.D. 9849, 84 FR 9237, Mar. 14, 2019]

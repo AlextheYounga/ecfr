@@ -1,0 +1,5 @@
+##### § 1.822-6 Real estate owned and occupied. #####
+
+Section 822(d)(1) provides that the amount allowable as a deduction for taxes, expenses, and depreciation on or with respect to any real estate owned and occupied in whole or in part by a mutual insurance company subject to the tax imposed by section 821 shall be limited to an amount which bears the same ratio to such deduction (computed without regard to this limitation) as the rental value of the space not so occupied bears to the rental value of the entire property. For example, if the rental value of the space not occupied by the company is equal to one-half of the rental value of the entire property, the deduction for taxes, expenses, and depreciation is one-half of the taxes, expenses, and depreciation on account of the entire property. Where a deduction is claimed as provided in this section, the parts of the property occupied and the parts not occupied by the company, together with the respective rental values thereof, must be shown in a statement accompanying the return.
+
+[T.D. 6610, 27 FR 8722, Aug. 31, 1962]

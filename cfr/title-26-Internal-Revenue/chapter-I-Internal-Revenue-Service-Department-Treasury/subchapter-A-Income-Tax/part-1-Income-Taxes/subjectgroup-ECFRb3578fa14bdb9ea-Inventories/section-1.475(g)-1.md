@@ -30,9 +30,7 @@
 
 (3) Section 1.475(b)-2(c) (concerning identification in the context of integrated transactions under § 1.1275-6) applies on and after August 13, 1996 (the effective date of § 1.1275-6).
 
-(g) [Reserved]
-
-(h) Section 1.475(b)-4 (concerning transitional issues relating to exemptions) applies to taxable years ending on or after December 31, 1993.
+(g)-(h) [Reserved]
 
 (i) Section 1.475(c)-1 applies as follows:
 
@@ -60,4 +58,4 @@
 
 (k) Section 1.475(d)-1 (concerning the character of gain or loss) applies to taxable years ending on or after December 31, 1993.
 
-[T.D. 8700, 61 FR 67725, Dec. 24, 1996. Redesignated and amended by T.D. 9328, 72 FR 32181, June 12, 2007]
+[T.D. 8700, 61 FR 67725, Dec. 24, 1996. Redesignated and amended by T.D. 9328, 72 FR 32181, June 12, 2007; T.D. 9849, 84 FR 9235, Mar. 14, 2019]

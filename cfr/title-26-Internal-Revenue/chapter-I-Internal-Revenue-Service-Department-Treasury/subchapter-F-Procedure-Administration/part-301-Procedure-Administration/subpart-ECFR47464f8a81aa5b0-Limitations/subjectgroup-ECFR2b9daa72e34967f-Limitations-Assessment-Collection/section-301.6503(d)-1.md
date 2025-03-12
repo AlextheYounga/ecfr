@@ -1,0 +1,3 @@
+##### § 301.6503(d)-1 Suspension of running of period of limitation; extension of time for payment of estate tax. #####
+
+Where an estate is granted an extension of time as provided in section 6161 (a)(2) or (b)(2), or under the provisions of section 6166, for payment of any estate tax, the running of the period of limitations for collection of such tax is suspended for the period of time for which the extension is granted.

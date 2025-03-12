@@ -1,0 +1,3 @@
+##### § 301.6501(f)-1 Personal holding company tax. #####
+
+If a corporation which is a personal holding company for any taxable year fails to file with its income tax return for such year a schedule setting forth the items of gross income described in section 543(a) received by the corporation during such year, and the names and addresses of the individuals who owned, within the meaning of section 544, at any time during the last half of such taxable year, more than 50 percent in value of the outstanding capital stock of the corporation, the personal holding company tax for such year may be assessed, or a proceeding in court for the collection thereof may be begun without assessment, at any time within 6 years after the return for such year was filed.

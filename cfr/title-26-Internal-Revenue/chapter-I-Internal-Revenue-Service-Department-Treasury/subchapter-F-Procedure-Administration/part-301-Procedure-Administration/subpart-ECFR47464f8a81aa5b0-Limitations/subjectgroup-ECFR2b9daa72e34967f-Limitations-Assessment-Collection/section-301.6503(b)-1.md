@@ -1,0 +1,5 @@
+##### § 301.6503(b)-1 Suspension of running of period of limitation; assets of taxpayer in control or custody of court. #####
+
+Where all or substantially all of the assets of a taxpayer are in the control or custody of the court in any proceeding before any court of the United States, or of any State of the United States, or of the District of Columbia, the period of limitations on collection after assessment prescribed in section 6502 is suspended with respect to the outstanding amount due on the assessment for the period such assets are in the control or custody of the court, and for 6 months thereafter. In the case of an estate of a decedent or an incompetent, the period of limitations on collection is suspended only for periods beginning after November 2, 1966, during which assets are in the control or custody of a court, and for 6 months thereafter.
+
+[T.D. 7121, 36 FR 10782, June 3, 1971]

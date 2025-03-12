@@ -12,7 +12,7 @@
 
 (5) *Provider of a fringe benefit referred to as an employer.* The “provider” of a fringe benefit is that person for whom the services are performed, regardless of whether that person actually provides the fringe benefit to the recipient. The provider of a fringe benefit need not be the employer of the recipient of the fringe benefit, but may be, for example, a client or customer of the employer or of an independent contractor. For convenience, the term “employer” includes any provider of a fringe benefit in connection with payment for the performance of services, unless otherwise specifically provided in this section.
 
-(6) *Effective date.* Except as otherwise provided, this section is effective as of January 1, 1989 with respect to fringe benefits provided after December 31, 1988. See § 1.61-2T for rules in effect from January 1, 1985, to December 31, 1988.
+(6) *Effective date.* Except as otherwise provided, this section is effective as of January 1, 1989 with respect to fringe benefits provided after December 31, 1988.
 
 (7) *Outline of this section.* The following is an outline of the regulations in this section relating to fringe benefits:
 
@@ -732,4 +732,4 @@ Example 1.A and B are word-processing clerks employed by Y, an accounting firm i
 
 (8) *Effective date.* This paragraph (k) applies to employer-provided transportation provided to a qualified employee on or after July 1, 1991.
 
-[T.D. 8256, 54 FR 28582, July 6, 1989, as amended by T.D. 8389, 57 FR 1870, Jan. 16, 1992; T.D. 8457, 57 FR 62195, Dec. 30, 1992; T.D. 9597, 77 FR 45483, Aug. 1, 2012]
+[T.D. 8256, 54 FR 28582, July 6, 1989, as amended by T.D. 8389, 57 FR 1870, Jan. 16, 1992; T.D. 8457, 57 FR 62195, Dec. 30, 1992; T.D. 9597, 77 FR 45483, Aug. 1, 2012; T.D. 9849, 84 FR 9233, Mar. 14, 2019]

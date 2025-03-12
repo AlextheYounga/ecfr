@@ -1,8 +1,8 @@
 ##### § 1.475-0 Table of contents. #####
 
-This section lists the major captions in §§ 1.475(a)-3, 1.475(a)-4, 1.475(b)-1, 1.475(b)-2, 1.475(b)-4, 1.475(c)-1, 1.475(c)-2, 1.475(d)-1 and 1.475(g)-1.
+This section lists the major captions in §§ 1.475(a)-3, 1.475(a)-4, 1.475(b)-1, 1.475(b)-2, 1.475(c)-1, 1.475(c)-2, 1.475(d)-1 and 1.475(g)-1.
 
-§§ 1.475(a)-1 - 1.475(a)-2 [Reserved]§ 1.475(a)-3 Acquisition by a dealer of a security with a substituted basis.
+§§ 1.475(a)-1—1.475(a)-2 [Reserved]§ 1.475(a)-3 Acquisition by a dealer of a security with a substituted basis.
 
 (a) Scope.
 
@@ -182,7 +182,7 @@ This section lists the major captions in §§ 1.475(a)-3, 1.475(a)-4, 1.475(b)-1
 
 (iii) Applicability.
 
-§ 1.475(b)-2 Exemptions - identification requirements.
+§ 1.475(b)-2 Exemptions—identification requirements.
 
 (a) Identification of the basis for exemption.
 
@@ -196,29 +196,7 @@ This section lists the major captions in §§ 1.475(a)-3, 1.475(a)-4, 1.475(b)-1
 
 (3) Securities held after legging out.
 
-§ 1.475(b)-3 [Reserved]§ 1.475(b)-4 Exemptions - transitional issues.
-
-(a) Transitional identification.
-
-(1) Certain securities previously identified under section 1236.
-
-(2) Consistency requirement for other securities.
-
-(b) Corrections on or before January 31, 1994.
-
-(1) Purpose.
-
-(2) To conform to § 1.475(b)-1(a).
-
-(i) Added identifications.
-
-(ii) Limitations.
-
-(3) To conform to § 1.475(b)-1(c).
-
-(c) Effect of corrections.
-
-§ 1.475(c)-1 Definitions - dealer in securities.
+§ 1.475(b)-3 [Reserved]§ 1.475(c)-1 Definitions—dealer in securities.
 
 (a) Dealer-customer relationship.
 
@@ -284,7 +262,7 @@ This section lists the major captions in §§ 1.475(a)-3, 1.475(a)-4, 1.475(b)-1
 
 (d) Issuance of life insurance products.
 
-§ 1.475(c)-2 Definitions - security.
+§ 1.475(c)-2 Definitions—security.
 
 (a) Items that are not securities.
 
@@ -302,4 +280,4 @@ This section lists the major captions in §§ 1.475(a)-3, 1.475(a)-4, 1.475(b)-1
 
 (b) Ordinary treatment for notional principal contracts and derivatives held by dealers in notional principal contracts and derivatives.
 
-§ 1.475(g)-1 Effective dates.[T.D. 8700, 61 FR 67719, Dec. 24, 1996, as amended by T.D. 9328, 72 FR 32177, June 12, 2007]
+§ 1.475(g)-1 Effective dates.[T.D. 8700, 61 FR 67719, Dec. 24, 1996, as amended by T.D. 9328, 72 FR 32177, June 12, 2007; T.D. 9849, 84 FR 9235, Mar. 14, 2019]

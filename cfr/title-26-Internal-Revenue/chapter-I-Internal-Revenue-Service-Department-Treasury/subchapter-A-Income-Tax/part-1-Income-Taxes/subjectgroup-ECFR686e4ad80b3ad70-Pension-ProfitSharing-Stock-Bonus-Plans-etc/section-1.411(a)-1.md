@@ -1,18 +1,18 @@
 ##### § 1.411(a)-1 Minimum vesting standards; general rules. #####
 
-(a) *In general.* A plan is not a qualified plan (and a trust forming a part of such plan is not a qualified trust) unless -
+(a) *In general.* A plan is not a qualified plan (and a trust forming a part of such plan is not a qualified trust) unless—
 
 (1) The plan provides that an employee's right to his normal retirement benefit (see § 1.411(a)-7(c)) is nonforfeitable (see § 1.411(a)-4) upon and after the attainment of normal retirement age (see § 1.411(a)-7(b)),
 
 (2) The plan provides that an employee's rights in his accrued benefit derived from his own contributions (see § 1.411(c)-1) are nonforfeitable at all times, and
 
-(3) The plan satisfies the requirements of -
+(3) The plan satisfies the requirements of—
 
 (A) Section 411(a)(2) and § 1.411(a)-3 (relating to vesting in accrued benefit derived from employer contributions), and
 
 (B) In the case of a defined benefit plan, section 411(b)(1) and § 1.411(b)-1 (relating to accrued benefit).
 
-(b) *Organization of regulations relating to minimum vesting standards* - (1) *General rules.* This section prescribes general rules relating to the minimum vesting standards provided by section 411.
+(b) *Organization of regulations relating to minimum vesting standards*—(1) *General rules.* This section prescribes general rules relating to the minimum vesting standards provided by section 411.
 
 (2) *Effective dates.* Section 1.411(a)-2 provides rules under section 1017 of the Employee Retirement Income Security Act of 1974 relating to effective dates under section 411.
 
@@ -28,7 +28,7 @@
 
 (8) *Changes in vesting schedule.* Section 1.411(a)-8 provides rules under section 411(a)(10) relating to changes in the vesting schedule of a plan.
 
-(9) *Breaks in service.* Section 1.411(a)-9 provides special rules relating to breaks in service.
+(9) [Reserved]
 
 (10) *Accrued benefits.* See § 1.411(b)-1 for rules under section 411(b) relating to accrued benefit requirements under defined benefit plans.
 
@@ -36,7 +36,7 @@
 
 (12) *Discrimination, etc.* See § 1.411(d)-1 for rules relating to the coordination of section 411 with section 401(a)(4) (relating to discrimination) and other rules under section 411(d).
 
-(c) *Application of standards to certain plans* - (1) *General rule.* Except as provided in subparagraph (2) of this paragraph, section 411 does not apply to -
+(c) *Application of standards to certain plans*—(1) *General rule.* Except as provided in subparagraph (2) of this paragraph, section 411 does not apply to—
 
 (i) A governmental plan (within the meaning of section 414(d) and the regulations thereunder),
 
@@ -50,4 +50,4 @@
 
 (d) *Supersession.* Sections 11.411(a)-1 through 11.411(d)-3, inclusive, of the Temporary Income Tax Regulations under the Employee Retirement Income Security Act of 1974 are superseded by this section and §§ 1.411(a)-2 through 1.411(d)-3.
 
-(Sec. 411 (88 Stat. 901; 26 U.S.C. 411))[T.D. 7501, 42 FR 42324, Aug. 23, 1977]
+(Sec. 411 (88 Stat. 901; 26 U.S.C. 411))[T.D. 7501, 42 FR 42324, Aug. 23, 1977, as amended by T.D. 9849, 84 FR 9234, Mar. 14, 2019]

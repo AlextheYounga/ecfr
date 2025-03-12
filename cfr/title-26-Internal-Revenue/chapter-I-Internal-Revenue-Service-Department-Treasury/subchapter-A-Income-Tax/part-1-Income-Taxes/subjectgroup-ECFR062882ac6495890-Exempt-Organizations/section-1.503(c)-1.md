@@ -6,6 +6,6 @@
 
 (c) For taxable years beginning after December 31, 1969, the denial of an exemption pursuant to this section, for a taxable year prior to January 1, 1970, of an organization described in section 501(c)(3) shall not cause such organization to cease to be described in section 501(c)(3) for purposes of part II of subchapter F, chapter 1 and for purposes of the application of chapter 42 taxes.
 
-(d) In the case of an organization described in section 501(c)(3), which has lost its exemption pursuant to section 503, and which has not notified the Commissioner that it is applying for recognition of its exempt status under section 508(a) and this section, no gift or contribution made after December 31, 1969, which would otherwise be deductible under section 170, 642(c), or 545(b)(2) shall be allowed as a deduction. For rules relating to the denial of deductions with respect to gifts or contributions made before January 1, 1970, see, § 1.503(e)-4.
+(d) In the case of an organization described in section 501(c)(3), which has lost its exemption pursuant to section 503, and which has not notified the Commissioner that it is applying for recognition of its exempt status under section 508(a) and this section, no gift or contribution made after December 31, 1969, which would otherwise be deductible under section 170, 642(c), or 545(b)(2) shall be allowed as a deduction.
 
-[T.D. 7428, 41 FR 34622, Aug. 16, 1976, as amended by T.D. 7896, 48 FR 23817, May 27, 1983]
+[T.D. 7428, 41 FR 34622, Aug. 16, 1976, as amended by T.D. 7896, 48 FR 23817, May 27, 1983; T.D. 9849, 84 FR 9235, Mar. 14, 2019]

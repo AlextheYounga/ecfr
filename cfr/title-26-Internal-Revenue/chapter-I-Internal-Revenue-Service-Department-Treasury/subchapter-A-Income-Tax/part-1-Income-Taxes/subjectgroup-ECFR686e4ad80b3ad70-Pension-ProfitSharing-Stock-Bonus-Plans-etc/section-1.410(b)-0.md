@@ -1,50 +1,6 @@
 ##### § 1.410(b)-0 Table of contents. #####
 
-This section contains a listing of the major headings of §§ 1.410(b)-1 through 1.410(b)-10.
-
-§ 1.410(b)-1 Minimum coverage requirements (before 1994).
-
-(a) In general.
-
-(b) Coverage tests.
-
-(1) Percentage test.
-
-(2) Classification test.
-
-(c) Exclusion of certain employees.
-
-(1) Bargaining unit.
-
-(2) Air pilots.
-
-(3) Nonresident aliens.
-
-(d) Special rules.
-
-(1) Highly compensated.
-
-(2) Discrimination.
-
-(3) Multiple plans.
-
-(4) Profit-sharing plans.
-
-(5) Certain classifications.
-
-(6) Integration with Social Security Act.
-
-(7) Different age and service requirements.
-
-(i) Application.
-
-(ii) General rule.
-
-(8) Certain controlled groups.
-
-(9) Transitional rule.
-
-(e) Example.
+This section contains a listing of the major headings of §§ 1.410(b)-2 through 1.410(b)-10.
 
 § 1.410(b)-2 Minimum coverage requirements (after 1993).
 
@@ -408,4 +364,4 @@ Section 401(m) plan.
 
 (d) Effective date for governmental plans.
 
-[T.D. 8363, 56 FR 47641, Sept. 19, 1991; 57 FR 10954, Mar. 31, 1992, as amended by T.D. 8487, 58 FR 46838, Sept. 3, 1993; T.D. 8548, 59 FR 32914, June 27, 1994; T.D. 9275, 71 FR 41359, July 21, 2006]
+[T.D. 8363, 56 FR 47641, Sept. 19, 1991; 57 FR 10954, Mar. 31, 1992, as amended by T.D. 8487, 58 FR 46838, Sept. 3, 1993; T.D. 8548, 59 FR 32914, June 27, 1994; T.D. 9275, 71 FR 41359, July 21, 2006; T.D. 9849, 84 FR 9234, Mar. 14, 2019]

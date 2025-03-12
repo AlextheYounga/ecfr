@@ -4,7 +4,7 @@
 
 (1) Verified copies of all the instruments constituting or evidencing the plan, including trust indentures, group annuity contracts, specimen copy of each type of individual contract, and specimen copy of formal announcement and comprehensive detailed description to employees, with all amendments to any such instruments.
 
-(2) A statement describing the plan which identifies it and which sets forth the name or names of the employers, the effective date of the plan and of any amendments thereto, the method of distribution or of disbursing benefits (whether by trustee, insurance company, or otherwise), the dates when the instruments or amendments were executed, the date of formal announcement and the dates when comprehensive detailed description of the plan and of each amendment thereto were made available to employees generally, the dates when the plan and when the trust or the contract evidencing the plan and of any amendments thereto were put into effect so that contributions thereunder were irrevocable and a summary of the provisions and rules relating to -
+(2) A statement describing the plan which identifies it and which sets forth the name or names of the employers, the effective date of the plan and of any amendments thereto, the method of distribution or of disbursing benefits (whether by trustee, insurance company, or otherwise), the dates when the instruments or amendments were executed, the date of formal announcement and the dates when comprehensive detailed description of the plan and of each amendment thereto were made available to employees generally, the dates when the plan and when the trust or the contract evidencing the plan and of any amendments thereto were put into effect so that contributions thereunder were irrevocable and a summary of the provisions and rules relating to—
 
 (i) Employee eligibility requirements for participation in the plan,
 
@@ -126,7 +126,7 @@ In the case of corporate employers, the information required to be submitted by 
 
 (g) In the case of a plan which covers employees, some or all of whom are self-employed individuals and with respect to which a deduction is claimed under section 404(a) (1), (2), (3), or (7), paragraphs (a) and (b) of this section, and the provision of paragraph (d) of this section relating to the time for filing the information required by this section, shall not apply, but in lieu of the information required to be submitted by paragraphs (a) and (b) of this section, the employer shall, with the return for the taxable year in which the deduction is claimed, submit the information required by the form provided by the Internal Revenue Service for such purpose.
 
-(h) When a custodial account forms a part of a plan for which a deduction is claimed under section 404(a) (1), (2), (3), or (7), the information which under this section is to be submitted with respect to a qualified trust must be submitted with respect to such custodial account. Thus, for purposes of this section -
+(h) When a custodial account forms a part of a plan for which a deduction is claimed under section 404(a) (1), (2), (3), or (7), the information which under this section is to be submitted with respect to a qualified trust must be submitted with respect to such custodial account. Thus, for purposes of this section—
 
 (1) The term “trust” includes custodial account,
 
@@ -134,6 +134,6 @@ In the case of corporate employers, the information required to be submitted by 
 
 (3) The term “trust indenture” includes custodial agreement.
 
-(i) Except as provided under § 1.503(d)-1(a) and § 601.201 of this chapter (Statement of Procedural Rules) in the case of a request for the determination of qualification of a trust under section 401 and exemption under section 501, paragraphs (a) through (h) of this section shall not apply for taxable years ending on or after December 31, 1971. For information to be furnished for taxable years ending on or after December 31, 1971, see § 1.404(a)-2A.
+(i) Except as provided under § 1.503(d)-1(a) and § 601.201 of this chapter (Statement of Procedural Rules) in the case of a request for the determination of qualification of a trust under section 401 and exemption under section 501, paragraphs (a) through (h) of this section shall not apply for taxable years ending on or after December 31, 1971. For information to be furnished for taxable years ending on or after December 31, 1971, and before December 31, 1975, see § 1.404(a)-2A of the Treasury Regulations in effect on April 1, 2017.
 
-[T.D. 6500, 25 FR 11683, Nov. 26, 1960, as amended by T.D. 6599, 27 FR 4475, May 10, 1962; T.D. 6676, 28 FR 10144, Sept. 17, 1963; T.D. 7165, 37 FR 5025, Mar. 9, 1972; T.D. 7168, 37 FR 5491, Mar. 16, 1972]
+[T.D. 6500, 25 FR 11683, Nov. 26, 1960, as amended by T.D. 6599, 27 FR 4475, May 10, 1962; T.D. 6676, 28 FR 10144, Sept. 17, 1963; T.D. 7165, 37 FR 5025, Mar. 9, 1972; T.D. 7168, 37 FR 5491, Mar. 16, 1972; T.D. 9849, 84 FR 9234, Mar. 14, 2019]

@@ -1,0 +1,7 @@
+##### § 301.6511(f)-1 Special rules for chapter 42 taxes. #####
+
+(a) *In general.* Claims for credit or refund of an overpayment of any tax imposed by chapter 42 shall be filed by the taxpayer within 3 years from the time a return was filed by the private foundation or trust (as the case may be) with respect to such tax, or within 2 years from the time the tax was paid, whichever of such periods expire the later.
+
+(b) *Examples.* This section may be illustrated by the following examples:
+
+Example 1.In 1972, D, an individual taxpayer who was a disqualified person under the provisions of section 4946(a)(1), participated in an act of self-dealing with a private foundation and incurred a tax under section 4941(a)(1). The private foundation files a Form 990-PF on May 15, 1973, and discloses thereon that it has engaged in an act of self-dealing with D. D files a Form 4720 on July 2, 1973, and pays the amount of tax imposed by section 4941(a) with respect to such act of self-dealing. For purposes of this section, the return was filed on May 15, 1973, and any claim for credit or refund by D must be filed by May 17, 1976 (May 15, 1976, was a Saturday).Example 2.Assume the same facts as in example 1 except that D filed a Form 4720 on July 1, 1974, and pays the tax on that date. D must then file any claim for credit or refund by July 1, 1976.[T.D. 7838, 47 FR 44252, Oct. 7, 1982]

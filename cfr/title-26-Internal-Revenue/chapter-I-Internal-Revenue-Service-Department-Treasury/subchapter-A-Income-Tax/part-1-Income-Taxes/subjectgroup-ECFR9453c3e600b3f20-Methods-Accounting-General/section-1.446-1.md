@@ -124,4 +124,4 @@ Example 1.Although the sale of merchandise is an income producing factor, and th
 
 (iii) *Effective/applicability date for paragraph (e)(3)(i).* The rules of paragraph (e)(3)(i) of this section apply to corporate reorganizations and tax-free liquidations described in section 381(a) that occur on or after August 31, 2011.
 
-[T.D. 6500, 25 FR 11708, Nov. 26, 1960]Editorial Note:For Federal Register citations affecting § 1.446-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[T.D. 6500, 25 FR 11708, Nov. 26, 1960]Editorial Note:For Federal Register citations affecting § 1.446-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

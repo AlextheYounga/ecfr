@@ -1,0 +1,23 @@
+##### § 301.6502-1 Collection after assessment. #####
+
+(a) *General rule.* In any case in which a tax has been assessed within the applicable statutory period of limitations on assessment, a proceeding in court to collect the tax may be commenced, or a levy to collect the tax may be made, within 10 years after the date of assessment.
+
+(b) *Agreement to extend the period of limitations on collection.* The Secretary may enter into an agreement with a taxpayer to extend the period of limitations on collection in the following circumstances:
+
+(1) *Extension agreement entered into in connection with an installment agreement.* If the Secretary and the taxpayer enter into an installment agreement for the tax liability prior to the expiration of the period of limitations on collection, the Secretary and the taxpayer, at the time the installment agreement is entered into, may enter into a written agreement to extend the period of limitations on collection to a date certain. A written extension agreement entered into under this paragraph shall extend the period of limitations on collection until the 89th day after the date agreed upon in the written agreement.
+
+(2) *Extension agreement entered into in connection with the release of a levy under section 6343.* If the Secretary has levied on any part of the taxpayer's property prior to the expiration of the period of limitations on collection and the levy is subsequently released pursuant to section 6343 after the expiration of the period of limitations on collection, the Secretary and the taxpayer, prior to the release of the levy, may enter into a written agreement to extend the period of limitations on collection to a date certain. A written extension agreement entered into under this paragraph shall extend the period of limitations on collection until the date agreed upon in the extension agreement.
+
+(c) *Proceeding in court for the collection of the tax.* If a proceeding in court for the collection of a tax is begun within the period provided in paragraph (a) of this section (or within any extended period as provided in paragraph (b) of this section), the period during which the tax may be collected by levy is extended until the liability for the tax or a judgment against the taxpayer arising from the liability is satisfied or becomes unenforceable.
+
+(d) *Effect of statutory suspensions of the period of limitations on collection if executed collection extension agreement is in effect.* (1) Any statutory suspension of the period of limitations on collection tolls the running of the period of limitations on collection, as extended pursuant to an executed extension agreement under paragraph (b) of this section, for the amount of time set forth in the relevant statute.
+
+(2) The following example illustrates the principle set forth in this paragraph (d):
+
+Example.In June of 2003, the Internal Revenue Service (IRS) enters into an installment agreement with the taxpayer to provide for periodic payments of the taxpayer's timely assessed tax liabilities. At the time the installment agreement is entered into, the taxpayer and the IRS execute a written agreement to extend the period of limitations on collection. The extension agreement executed in connection with the installment agreement operates to extend the period of limitations on collection to the date agreed upon in the extension agreement, plus 89 days. Subsequently, and prior to the expiration of the extended period of limitations on collection, the taxpayer files a bankruptcy petition under chapter 7 of the Bankruptcy Code and receives a discharge from bankruptcy a few months later. Assuming the tax is not discharged in the bankruptcy, section 6503(h) of the Internal Revenue Code operates to suspend the running of the previously extended period of limitations on collection for the period of time the IRS is prohibited from collecting due to the bankruptcy proceeding, and for 6 months thereafter. The new expiration date for the IRS to collect the tax is the date agreed upon in the previously executed extension agreement, plus 89 days, plus the period during which the IRS is prohibited from collecting due to the bankruptcy proceeding, plus 6 months.
+
+(e) *Date when levy is considered made.* The date on which a levy on property or rights to property is considered made is the date on which the notice of seizure required under section 6335(a) is given.
+
+(f) *Effective date.* This section is applicable on September 6, 2006.
+
+[T.D. 9284, 71 FR 52445, Sept. 6, 2006]

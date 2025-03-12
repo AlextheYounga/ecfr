@@ -1,6 +1,6 @@
 ##### § 1.404(e)-1A Contributions on behalf of a self-employed individual to or under a qualified pension, annuity, or profit-sharing plan. #####
 
-(a) *In general.* This section provides rules relating to employer contributions to qualified plans on behalf of self-employed individuals described in subsections (a) (8) and (9), (e), and (f) of section 404. Unless otherwise specifically provided, this section applies to taxable years of an employer beginning after December 31, 1973. See section 1.404(e)-1 for rules relating to plans for self-employed individuals for taxable years beginning before January 1, 1974. Paragraph (b) of this section provides general rules of deductibility, paragraph (c) provides rules relating to defined contribution plans, paragraph (d) provides rules relating to defined benefit plans, paragraph (e) provides rules relating to combinations of plans, paragraph (f) provides rules for partnerships, paragraph (g) provides rules for insurance, paragraph (h) provides rules for loans, and paragraph (i) provides definitions.
+(a) *In general.* This section provides rules relating to employer contributions to qualified plans on behalf of self-employed individuals described in subsections (a) (8) and (9), (e), and (f) of section 404. Unless otherwise specifically provided, this section applies to taxable years of an employer beginning after December 31, 1973. Paragraph (b) of this section provides general rules of deductibility, paragraph (c) provides rules relating to defined contribution plans, paragraph (d) provides rules relating to defined benefit plans, paragraph (e) provides rules relating to combinations of plans, paragraph (f) provides rules for partnerships, paragraph (g) provides rules for insurance, paragraph (h) provides rules for loans, and paragraph (i) provides definitions.
 
 (b) *Determination of the amount deductible.* (1) If a defined contribution plan covers employees, some of whom are self-employed individuals, the determination of the amount deductible is made on the basis of independent consideration of the common-law employees and of the self-employed individuals. See subparagraphs (2) and (3) of this paragraph. For purposes of determining the amount deductible with respect to contributions on behalf of a self-employed individual, such contributions shall be considered to satisfy the conditions of section 162 (relating to trade or business expenses) or 212 (relating to expenses for the production of income), but only to the extent that such contributions do not exceed the earned income of such individual derived from the trade or business with respect to which the plan is established. However, the portion of such contribution, if any, attributable to the purchase of life, accident, health, or other insurance protection shall be considered payment of a personal expense which does not satisfy the requirements of section 162 or 212. See paragraph (g) of this section.
 
@@ -38,7 +38,7 @@ Under section 404(e)(4), notwithstanding the provisions of subparagraphs (1) and
 
 (h) *Rules applicable to loans.* Under section 404(f), for purposes of section 404, any amount paid, directly or indirectly, by an owner-employee in repayment of any loan which under section 72(m)(4)(B) was treated as an amount received from a qualified trust or plan shall be treated as a contribution to such trust or under such plan on behalf of such owner-employee.
 
-(i) *Definitions.* Under section 404(a)(8), for purposes of section 404 and the regulations thereunder -
+(i) *Definitions.* Under section 404(a)(8), for purposes of section 404 and the regulations thereunder—
 
 (1) The term “employee” includes an employee as defined in section 401(c)(1) and the term “employer” means the person treated as the employer of such individual under section 401(c)(4);
 
@@ -48,4 +48,4 @@ Under section 404(e)(4), notwithstanding the provisions of subparagraphs (1) and
 
 (4) The term “compensation” when used with respect to an individual who is an employee described in subparagraph (1) of this paragraph shall be considered to be a reference to the earned income of such individual derived from the trade or business with respect to which the plan is established.
 
-[T.D. 7636, 44 FR 47056, Aug. 10, 1979]
+[T.D. 7636, 44 FR 47056, Aug. 10, 1979, as amended by T.D. 9849, 84 FR 9234, Mar. 14, 2019]

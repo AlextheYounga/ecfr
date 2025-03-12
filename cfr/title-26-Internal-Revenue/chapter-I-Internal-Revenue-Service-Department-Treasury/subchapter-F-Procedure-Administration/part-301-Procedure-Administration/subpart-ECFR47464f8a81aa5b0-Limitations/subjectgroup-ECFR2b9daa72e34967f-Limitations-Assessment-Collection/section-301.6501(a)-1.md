@@ -1,0 +1,5 @@
+##### § 301.6501(a)-1 Period of limitations upon assessment and collection. #####
+
+(a) The amount of any tax imposed by the Code (other than a tax collected by means of stamps) shall be assessed within 3 years after the return was filed. For rules applicable in cases where the return is filed prior to the due date thereof, see section 6501(b). In the case of taxes payable by stamp, assessment shall be made at any time after the tax became due and before the expiration of 3 years after the date on which any part of the tax was paid. For exceptions and additional rules, see subsections (b) to (g) of section 6501, and for cross references to other provisions relating to limitations on assessment and collection, see sections 6501(h) and 6504.
+
+(b) No proceeding in court without assessment for the collection of any tax shall be begun after the expiration of the applicable period for the assessment of such tax.

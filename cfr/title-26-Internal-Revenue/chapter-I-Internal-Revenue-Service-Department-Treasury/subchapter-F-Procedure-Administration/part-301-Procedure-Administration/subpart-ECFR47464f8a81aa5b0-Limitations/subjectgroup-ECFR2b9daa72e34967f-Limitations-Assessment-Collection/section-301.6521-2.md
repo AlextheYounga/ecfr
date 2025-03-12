@@ -1,0 +1,5 @@
+##### § 301.6521-2 Law applicable in determination of error. #####
+
+The question of whether there was an erroneous treatment of self-employment income or of wages is determined under the provisions of law and regulations applicable with respect to the year or other taxable period as to which the error was made. The fact that the error was in pursuance of an interpretation, either judicial or administrative, accorded such provisions of law and regulations at the time the action involved was taken is not necessarily determinative of this question. For example, if a later judicial decision authoritatively alters such interpretation so that such action is contrary to the applicable provisions of the law and regulations as later interpreted, the error comes within the scope of section 6521.
+
+Periods of Limitation in Judicial Proceedings

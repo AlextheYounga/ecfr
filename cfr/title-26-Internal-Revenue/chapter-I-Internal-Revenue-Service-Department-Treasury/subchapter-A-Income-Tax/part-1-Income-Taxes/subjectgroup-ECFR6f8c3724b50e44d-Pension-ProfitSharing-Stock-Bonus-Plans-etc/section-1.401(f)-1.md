@@ -1,6 +1,6 @@
 ##### § 1.401(f)-1 Certain custodial accounts and annuity contracts. #####
 
-(a) *Treatment of a custodial account or an annuity contract as a qualified trust.* Beginning on January 1, 1974, a custodial account or an annuity contract may be used, in lieu of a trust, under any qualified pension, profitsharing, or stock bonus plan if the requirements of paragraph (b) of this section are met. A custodial account or an annuity contract may be used under such a plan, whether the plan covers common-law employees, self-employed individuals who are treated as employees by reason of section 401(c), or both. The use of a custodial account or annuity contract as part of a plan does not preclude the use of a trust or another custodial account or another annuity contract as part of the same plan. A plan under which a custodial account or an annuity contract is used may be considered in connection with other plans of the employer in determining whether the requirements of section 401 are satisfied. For regulations relating to the period before January 1, 1974, see § 1.401-8.
+(a) *Treatment of a custodial account or an annuity contract as a qualified trust.* Beginning on January 1, 1974, a custodial account or an annuity contract may be used, in lieu of a trust, under any qualified pension, profitsharing, or stock bonus plan if the requirements of paragraph (b) of this section are met. A custodial account or an annuity contract may be used under such a plan, whether the plan covers common-law employees, self-employed individuals who are treated as employees by reason of section 401(c), or both. The use of a custodial account or annuity contract as part of a plan does not preclude the use of a trust or another custodial account or another annuity contract as part of the same plan. A plan under which a custodial account or an annuity contract is used may be considered in connection with other plans of the employer in determining whether the requirements of section 401 are satisfied.
 
 (b) *Rules applicable to custodial accounts and annuity contracts.* (1) Beginning on January 1, 1974, a custodial account or an annuity contract is treated as a qualified trust under section 401 if the following requirements are met:
 
@@ -22,7 +22,7 @@
 
 (3) The beneficiary of an annuity contract which satisfies the requirements of paragraph (b) of this section is taxed as if he were the beneficiary of an annuity contract described in section 403(a).
 
-(d) *Definitions.* For purposes of this section -
+(d) *Definitions.* For purposes of this section—
 
 (1) The term *bank* means a bank as defined in section 408(n).
 
@@ -32,4 +32,4 @@
 
 (f) *Cross reference.* For the requirement that the assets of an employee benefit plan be placed in trust, and exceptions thereto, see section 403 of the Employee Retirement Income Security Act of 1974, 29 U.S.C. 1103, and the regulations prescribed thereunder by the Secretary of Labor.
 
-(Secs. 401(f)(2), 7805, Internal Revenue Code of 1954 (88 Stat. 939 and 68A Stat. 917; 26 U.S.C. 401(f)(2), 7805))[43 FR 41204, Sept. 15, 1978. Redesignated and amended by T.D. 7748, 46 FR 1695, 1696, Jan. 7, 1981; T.D. 8635, 60 FR 65549, Dec. 20, 1995]
+(Secs. 401(f)(2), 7805, Internal Revenue Code of 1954 (88 Stat. 939 and 68A Stat. 917; 26 U.S.C. 401(f)(2), 7805))[43 FR 41204, Sept. 15, 1978. Redesignated and amended by T.D. 7748, 46 FR 1695, 1696, Jan. 7, 1981; T.D. 8635, 60 FR 65549, Dec. 20, 1995; T.D. 9849, 84 FR 9234, Mar. 14, 2019]

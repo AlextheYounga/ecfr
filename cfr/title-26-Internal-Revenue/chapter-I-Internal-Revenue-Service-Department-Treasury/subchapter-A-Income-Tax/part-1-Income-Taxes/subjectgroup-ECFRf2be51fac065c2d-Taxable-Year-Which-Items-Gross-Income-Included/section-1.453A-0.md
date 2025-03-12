@@ -30,16 +30,6 @@ This section lists the paragraphs and subparagraphs contained in §§ 1.453A-1 t
 
 (h) Effective date.
 
-§ 1.453A-2 Treatment of revolving credit plans; taxable years beginning on or before December 31, 1986.
-
-(a) In general.
-
-(b) Coordination with traditional installment plan.
-
-(c) Revolving credit plans.
-
-(d) Effective date.
-
 § 1.453A-3 Requirements for adoption of or change to installment method by dealers in personal property.
 
 (a) In general.
@@ -60,4 +50,4 @@ This section lists the paragraphs and subparagraphs contained in §§ 1.453A-1 t
 
 (e) Effective date.
 
-[T.D. 8270, 54 FR 46376, Nov. 3, 1989]
+[T.D. 8270, 54 FR 46376, Nov. 3, 1989, as amended by T.D. 9849, 84 FR 9235, Mar. 14, 2019]

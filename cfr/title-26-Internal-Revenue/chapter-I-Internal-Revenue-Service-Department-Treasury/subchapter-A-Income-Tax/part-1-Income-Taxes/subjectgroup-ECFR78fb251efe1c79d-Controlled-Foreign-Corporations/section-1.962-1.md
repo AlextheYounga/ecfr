@@ -6,7 +6,7 @@
 
 (2) For purposes of applying section 960(a)(1) (relating to foreign tax credit) such amounts shall be treated as if received by a domestic corporation (as provided in paragraph (b)(2) of this section).
 
-Thus, an individual United States shareholder may elect to be subject to tax at corporate rates on amounts included in his gross income under section 951(a) and to have the benefit of a credit for certain foreign taxes paid with respect to the earnings and profits attributable to such amounts. Section 962 also provides rules for the treatment of an actual distribution of earnings and profits previously taxed in accordance with an election of the benefits of this section. See § 1.962-3. For transitional rules for certain taxable years, see § 1.962-4.
+(3) Thus, an individual United States shareholder may elect to be subject to tax at corporate rates on amounts included in his gross income under section 951(a) and to have the benefit of a credit for certain foreign taxes paid with respect to the earnings and profits attributable to such amounts. Section 962 also provides rules for the treatment of an actual distribution of earnings and profits previously taxed in accordance with an election of the benefits of this section. See § 1.962-3.
 
 (b) *Rules of application.* For purposes of this section -
 
@@ -89,4 +89,4 @@ Apart from his section 951(a) income, A has gross income of $200,600 and $100,00
 
 (d) *Applicability dates.* Paragraph (b)(1)(i) of this section applies beginning the last taxable year of a foreign corporation that begins before January 1, 2018, and with respect to a United States person, for the taxable year in which or with which such taxable year of the foreign corporation ends.
 
-[T.D. 6858, 30 FR 13695, Oct. 28, 1965, as amended by T.D. 7413, 41 FR 12640, Mar. 26, 1976; T.D. 9846, 84 FR 1874, Feb. 5, 2019]
+[T.D. 6858, 30 FR 13695, Oct. 28, 1965, as amended by T.D. 7413, 41 FR 12640, Mar. 26, 1976; T.D. 9846, 84 FR 1874, Feb. 5, 2019; T.D. 9849, 84 FR 9236, Mar. 14, 2019]

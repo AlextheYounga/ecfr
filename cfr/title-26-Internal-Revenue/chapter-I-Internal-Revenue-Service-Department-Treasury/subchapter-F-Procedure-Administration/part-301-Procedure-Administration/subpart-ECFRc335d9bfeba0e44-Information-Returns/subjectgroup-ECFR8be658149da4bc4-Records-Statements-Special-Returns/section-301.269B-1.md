@@ -1,0 +1,5 @@
+##### § 301.269B-1 Stapled foreign corporations. #####
+
+In accordance with section 269B(a)(1), a stapled foreign corporation is subject to the same taxes that apply to a domestic corporation under title 26 of the Internal Revenue Code. For provisions concerning taxes other than income for which the stapled foreign corporation is liable, apply the same rules as set forth in § 1.269B-1(a) through (f)(1)(i), and (g) of this Chapter, except that references to *income tax* shall be replaced with the term *tax.* In addition, for purposes of collecting those taxes solely from the stapled foreign corporation, the term *tax* means any tax liability imposed on a domestic corporation under title 26 of the United States Code, including additions to tax, additional amounts, penalties, and interest related to that tax liability.
+
+[T.D. 9216, 70 FR 43760, July 29, 2005]

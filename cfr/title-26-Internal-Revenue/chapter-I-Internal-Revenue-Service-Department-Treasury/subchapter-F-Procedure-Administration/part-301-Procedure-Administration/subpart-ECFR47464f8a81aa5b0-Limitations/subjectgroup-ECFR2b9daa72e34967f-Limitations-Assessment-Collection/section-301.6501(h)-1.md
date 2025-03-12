@@ -1,0 +1,5 @@
+##### § 301.6501(h)-1 Net operating loss or capital loss carrybacks. #####
+
+In the case of a deficiency attributable to the application to the taxpayer of a net operating loss or capital loss carryback (including deficiencies which may be assessed pursuant to the provisions of section 6213(b)(2)), such deficiency may be assessed at any time before the expiration of the period within which a deficiency for the taxable year of the net operating loss or net capital loss which results in such carryback may be assessed. In the case of a deficiency attributable to the application of a net operating loss carryback, such deficiency may be assessed within 18 months after the date on which the taxpayer files in accordance with section 172(b)(3) a copy of the certification (with respect to such taxable year) issued under section 317 of the Trade Expansion Act of 1962, if later than the date prescribed by the preceding sentence.
+
+[T.D. 7301, 39 FR 974, Jan. 4, 1974]

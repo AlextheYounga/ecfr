@@ -1,0 +1,37 @@
+##### § 301.6211-1 Deficiency defined. #####
+
+(a) In the case of the income tax imposed by subtitle A of the Code, the estate tax imposed by chapter 11, subtitle B, of the Code, the gift tax imposed by chapter 12, subtitle B, of the Code, and any excise tax imposed by chapter 41, 42, 43, or 44 of the Code, the term “deficiency” means the excess of the tax, (income, estate, gift, or excise tax as the case may be) over the sum of the amount shown as such tax by the taxpayer upon his return and the amounts previously assessed (or collected without assessment) as a deficiency; but such sum shall first be reduced by the amount of rebates made. If no return is made, or if the return (except a return of income tax pursuant to sec. 6014) does not show any tax, for the purpose of the definition “the amount shown as the tax by the taxpayer upon his return” shall be considered as zero. Accordingly, in any such case, if no deficiencies with respect to the tax have been assessed, or collected without assessment, and no rebates with respect to the tax have been made, the deficiency is the amount of the income tax imposed by subtitle A, the estate tax imposed by chapter 11, the gift tax imposed by chapter 12, or any excise tax imposed by chapter 41, 42, 43, or 44. Any amount shown as additional tax on an “amended return,” so-called (other than amounts of additional tax which such return clearly indicates the taxpayer is protesting rather than admitting) filed after the due date of the return, shall be treated as an amount shown by the taxpayer “upon his return” for purposes of computing the amount of a deficiency.
+
+(b) For purposes of the definition, the income tax imposed by subtitle A and the income tax shown on the return shall both be determined without regard to the credit provided in section 31 for income tax withheld at the source and without regard to so much of the credit provided in section 32 for income taxes withheld at the source as exceeds 2 percent of the interest on tax-free covenant bonds described in section 1451. Payments on account of estimated income tax, like other payments of tax by the taxpayer, shall likewise be disregarded in the determination of a deficiency. Any credit resulting from the collection of amounts assessed under section 6851 or 6852 as the result of a termination assessment shall not be taken into account in determining a deficiency.
+
+(c) The computation by the Internal Revenue Service, pursuant to section 6014, of the income tax imposed by subtitle A shall be considered as having been made by the taxpayer and the tax so computed shall be considered as the tax shown by the taxpayer upon his return.
+
+(d) If so much of the credit claimed on the return for income taxes withheld at the source as exceeds 2 percent of the interest on tax-free convenant bonds is greater than the amount of such credit allowable, the unpaid portion of the tax attributable to such difference will be collected not as a deficiency but as an underpayment of the tax shown on the return.
+
+(e) This section may be illustrated by the following examples:
+
+Example 1.The amount of income tax shown by the taxpayer upon his return for the calendar year 1954 was $1,600. The taxpayer had no amounts previously assessed (or collected without assessment) as a deficiency. He claimed a credit in the amount of $2,050 for tax withheld at source on wages under section 3402, and a refund of $450 (not a rebate under section 6211) was made to him as an overpayment of tax for the taxable year. It is later determined that the correct tax for the taxable year is $1,850. A deficiency of $250 is determined as follows:
+
+|                        Tax imposed by subtitle A                        |$1,850|      |
+|-------------------------------------------------------------------------|------|------|
+|                           Tax shown on return                           |$1,600|      |
+|Tax previously assessed (or collected without assessment) as a deficiency| None |      |
+|                                  Total                                  |1,600 |      |
+|                         Amount of rebates made                          | None |      |
+|                                 Balance                                 |      |51,600|
+|                               Deficiency                                |      | 250  |
+
+Example 2.The taxpayer made a return for the calendar year 1954 showing a tax of $1,250 before any credits for tax withheld at the source. He claimed a credit in the amount of $800 for tax withheld at source on wages under section 3402 and $60 for tax paid at source under section 1451 upon interest on bonds containing a tax-free covenant. The taxpayer had no amounts previously assessed (or collected without assessment) as a deficiency. The district director determines that the 2 percent tax paid at the source on tax-free covenant bonds is $40 instead of $60 as claimed by the taxpayer and that the tax imposed by subtitle A is $1,360 (total tax $1,400 less $40 paid at source on tax-free covenant bonds). A deficiency in the amount of $170 is determined as follows:
+
+|              Tax imposed by subtitle A ($1,400 minus $40)               |$1,360|     |
+|-------------------------------------------------------------------------|------|-----|
+|                 Tax shown on return ($1,250 minus $60)                  |$1,190|     |
+|Tax previously assessed (or collected without assessment) as a deficiency| None |     |
+|                                  Total                                  |1,190 |     |
+|                         Amount of rebates made                          | None |     |
+|                                 Balance                                 |      |1,190|
+|                               Deficiency                                |      | 170 |
+
+(f) As used in section 6211, the term *rebate* means so much of an abatement, credit, refund, or other repayment as is made on the ground that the income tax imposed by subtitle A, the estate tax imposed by chapter 11, the gift tax imposed by chapter 12, or the excise tax imposed by chapter 41, 42, 43, or 44, is less than the excess of (1) the amount shown as the tax by the taxpayer upon the return increased by the amount previously assessed (or collected without assessment) as a deficiency over (2) the amount of rebates previously made. For example, assume that the amount of income tax shown by the taxpayer upon his return for the taxable year is $600 and the amount claimed as a credit under section 31 for income tax withheld at the source is $900. If the district director determines that the tax imposed by subtitle A is $600 and makes a refund of $300, no part of such refund constitutes a “rebate” since the refund is not made on the ground that the tax imposed by subtitle A is less than the tax shown on the return. If, however, the district director determines that the tax imposed by subtitle A is $500 and refunds $400, the amount of $100 of such refund would constitute a rebate since it is made on the ground that the tax imposed by subtitle A ($500) is less than the tax shown on the return ($600). The amount of such rebate ($100) would be taken into account in arriving at the amount of any deficiency subsequently determined.
+
+[32 FR 15241, Nov. 3, 1967, as amended by T.D. 7102, 36 FR 5498, Mar. 24, 1971; T.D. 7575, 43 FR 58817, Dec. 18, 1978; T.D. 7838, 47 FR 44249, Oct. 7, 1982; T.D. 8628, 60 FR 62212, Dec. 5, 1995]

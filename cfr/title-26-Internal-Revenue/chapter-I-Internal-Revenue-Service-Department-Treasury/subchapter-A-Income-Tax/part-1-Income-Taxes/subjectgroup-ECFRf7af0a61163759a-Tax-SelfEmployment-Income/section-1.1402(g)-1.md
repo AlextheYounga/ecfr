@@ -24,4 +24,6 @@
 
 (2) The request should be filed with the district director of internal revenue with whom the latest of the returns specified in the request pursuant to subparagraph (1)(iii) of this paragraph was filed.
 
-(c) *Cross references.* For regulations relating to section 3121 (b)(8) and (k), see §§ 31.3121(b)(8)-2 and 31.3121(k)-1 of subpart B of part 31 of this chapter (Employment Tax Regulations). For regulations relating to exemption from income tax of an organization described in section 501(c)(3), see § 1.501(c)(3)-1.
+(c) *Cross references.* For regulations relating to exemption from income tax of an organization described in section 501(c)(3), see § 1.501(c)(3)-1.
+
+[T.D. 6500, 25 FR 11402, Nov. 26, 1960, as amended by T.D. 9849, 84 FR 9237, Mar. 14, 2019]

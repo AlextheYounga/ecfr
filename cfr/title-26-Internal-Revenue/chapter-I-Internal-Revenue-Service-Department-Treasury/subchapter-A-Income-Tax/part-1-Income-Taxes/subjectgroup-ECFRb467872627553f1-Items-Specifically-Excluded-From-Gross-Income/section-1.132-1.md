@@ -1,6 +1,6 @@
 ##### § 1.132-1 Exclusion from gross income for certain fringe benefits. #####
 
-(a) *In general.* Gross income does not include any fringe benefit which qualifies as a -
+(a) *In general.* Gross income does not include any fringe benefit which qualifies as a—
 
 (1) No-additional-cost service,
 
@@ -12,7 +12,7 @@
 
 Special rules apply with respect to certain on-premises gyms and other athletic facilities (§ 1.132-1(e)), demonstration use of employer-provided automobiles by full-time automobile salesmen (§ 1.132-5(o)), parking provided to an employee on or near the business premises of the employer (§ 1.132-5(p)), and on-premises eating facilities (§ 1.132-7).
 
-(b) *Definition of employee* - (1) *No-additional-cost services and qualified employee discounts.* For purposes of section 132(a)(1) (relating to no-additonal-cost services) and section 132(a)(2) (relating to qualified employee discounts), the term “employee” (with respect to a line of business of an employer means -
+(b) *Definition of employee*—(1) *No-additional-cost services and qualified employee discounts.* For purposes of section 132(a)(1) (relating to no-additional-cost services) and section 132(a)(2) (relating to qualified employee discounts), the term “employee” (with respect to a line of business of an employer means—
 
 (i) Any individual who is currently employed by the employer in the line of business,
 
@@ -22,7 +22,7 @@ Special rules apply with respect to certain on-premises gyms and other athletic 
 
 For purposes of this paragraph (b)(1), any partner who performs services for a partnership is considered employed by the partnership. In addition, any use by the spouse or dependent child (as defined in paragraph (b)(5) of this section) of the employee will be treated as use by the employee. For purposes of section 132(a)(1) (relating to no-additional-cost services), any use of air transportation by a parent of an employee (determined without regard to section 132(f)(1)(B) and paragraph (b)(1)(iii) of this section) will be treated as use by the employee.
 
-(2) *Working condition fringes.* For purposes of section 132(a)(3) (relating to working condition fringes), the term “employee” means -
+(2) *Working condition fringes.* For purposes of section 132(a)(3) (relating to working condition fringes), the term “employee” means—
 
 (i) Any individual who is currently employed by the employer,
 
@@ -34,7 +34,7 @@ For purposes of this paragraph (b)(1), any partner who performs services for a p
 
 Notwithstanding anything in this paragraph (b)(2) to the contrary, an independent contractor who performs services for the employer cannot exclude the value of parking or the use of consumer goods provided pursuant to a product testing program under § 1.132-5(n); in addition, any director of the employer cannot exclude the value of the use of consumer goods provided pursuant to a product testing program under § 1.132-5(n).
 
-(3) *On-premises athletic facilities.* For purposes of section 132(h)(5) (relating to on-premises athletic facilities), the term “employee” means -
+(3) *On-premises athletic facilities.* For purposes of section 132(h)(5) (relating to on-premises athletic facilities), the term “employee” means—
 
 (i) Any individual who is currently employed by the employer,
 
@@ -48,11 +48,11 @@ For purposes of this paragraph (b)(3), any partner who performs services for a p
 
 (5) *Dependent child.* The term “dependent child” means any son, stepson, daughter, or stepdaughter of the employee who is a dependent of the employee, or both of whose parents are deceased and who has not attained age 25. Any child to whom section 152(e) applies will be treated as the dependent of both parents.
 
-(c) *Special rules for employers - Effect of section 414.* All employees treated as employed by a single employer under section 414 (b), (c), (m), or (o) will be treated as employed by a single employer for purposes of this section. Thus, employees of one corporation that is part of a controlled group of corporations may under certain circumstances be eligible to receive section 132 benefits from the other corporations that comprise the controlled group. However, the aggregation of employers described in this paragraph (c) does not change the other requirements for an exclusion, such as the line of business requirement. Thus, for example, if a controlled group of corporations consists of two corporations that operate in different lines of business, the corporations are not treated as operating in the same line of business even though the corporations are treated as one employer.
+(c) *Special rules for employers—Effect of section 414.* All employees treated as employed by a single employer under section 414 (b), (c), (m), or (o) will be treated as employed by a single employer for purposes of this section. Thus, employees of one corporation that is part of a controlled group of corporations may under certain circumstances be eligible to receive section 132 benefits from the other corporations that comprise the controlled group. However, the aggregation of employers described in this paragraph (c) does not change the other requirements for an exclusion, such as the line of business requirement. Thus, for example, if a controlled group of corporations consists of two corporations that operate in different lines of business, the corporations are not treated as operating in the same line of business even though the corporations are treated as one employer.
 
 (d) *Customers not to include employees.* For purposes of section 132 and the regulations thereunder, the term “customer” means any customer who is not an employee. However, the preceding sentence does not apply to section 132(c)(2) (relating to the gross profit percentage for determining a qualified employee discount). Thus, an employer that provides employee discounts cannot exclude sales made to employees in determining the aggregate sales to customers.
 
-(e) *Treatment of on-premises athletic facilities* - (1) *In general.* Gross income does not include the value of any on-premises athletic facility provided by an employer to its employees. For purposes of section 132(h)(5) and this paragraph (e), the term “on-premises athletic facility” means any gym or other athletic facility (such as a pool, tennis court, or golf course) -
+(e) *Treatment of on-premises athletic facilities*—(1) *In general.* Gross income does not include the value of any on-premises athletic facility provided by an employer to its employees. For purposes of section 132(h)(5) and this paragraph (e), the term “on-premises athletic facility” means any gym or other athletic facility (such as a pool, tennis court, or golf course)—
 
 (i) Which is located on the premises of the employer, (ii) Which is operated by the employer, and (iii) Substantially all of the use of which during the calendar year is by employees of the employer, their spouses, and their dependent children.
 
@@ -66,10 +66,10 @@ For purposes of paragraph (e) (1) (iii) of this section, the term “dependent c
 
 (5) *Nonapplicability of nondiscrimination rules.* The nondiscrimination rules of section 132 and § 1.132-8 do not apply to on-premises athletic facilities.
 
-(f) *Nonapplicability of section 132 in certain cases* - (1) Tax treatment provided for in another section. If the tax treatment or a particular fringe benefit is expressly provided for in another section of Chapter 1 of the Internal Revenue Code of 1986, section 132 and the applicable regulations (except for section 132 (e) and the regulations thereunder) do not apply to such fringe benefit. For example, because section 129 provides an exclusion from gross income for amounts paid or incurred by an employer for dependent care assistance for an employee, the exclusions under section 132 and this section do not apply to the provision by an employer to an employee of dependent care assistance. Similarly, because section 117 (d) applies to tuition reductions, the exclusions under section 132 do not apply to free or discounted tuition provided to an employee by an organization operated by the employer, whether the tuition is for study at or below the graduate level. Of course, if the amounts paid by the employer are for education relating to the employee's trade or business of being an employee of the employer so that, if the employee paid for the education, the amount paid could be deducted under section 162, the costs of the education may be eligible for exclusion as a working condition fringe.
+(f) *Nonapplicability of section 132 in certain cases*—(1) Tax treatment provided for in another section. If the tax treatment or a particular fringe benefit is expressly provided for in another section of Chapter 1 of the Internal Revenue Code of 1986, section 132 and the applicable regulations (except for section 132 (e) and the regulations thereunder) do not apply to such fringe benefit. For example, because section 129 provides an exclusion from gross income for amounts paid or incurred by an employer for dependent care assistance for an employee, the exclusions under section 132 and this section do not apply to the provision by an employer to an employee of dependent care assistance. Similarly, because section 117 (d) applies to tuition reductions, the exclusions under section 132 do not apply to free or discounted tuition provided to an employee by an organization operated by the employer, whether the tuition is for study at or below the graduate level. Of course, if the amounts paid by the employer are for education relating to the employee's trade or business of being an employee of the employer so that, if the employee paid for the education, the amount paid could be deducted under section 162, the costs of the education may be eligible for exclusion as a working condition fringe.
 
 (2) *Limited statutory exclusions.* If another section of Chapter 1 of the Internal Revenue Code of 1986 provides an exclusion from gross income based on the cost of the benefit provided to the employee and such exclusion is a limited amount, section 132 and the regulations thereunder may apply to the extent the cost of the benefit exceeds the statutory exclusion.
 
-(g) *Effective date.* Sections 1.132-0, 1.132-1, 1.132-2, 1.132-3, 1.132-4, 1.132-5, 1.132-6, 1.132-7 and 1.132-8 are effective as of January 1, 1989, except that §§ 1.132-1(b)(1) with respect to the use of air transportation by a parent of an employee and 1.132-4(d) are effective as of January 1, 1985. Furthermore, in § 1.132-5, the eleventh sentence of paragraph (m)(1), *Examples 6* and *7* in paragraph (m)(8), and paragraphs (m)(2)(i), (m)(2)(v), (m)(3)(iv), (m)(6), (m)(7), and (r) are effective December 30, 1992; however, taxpayers may treat the rules as applicable to benefits provided on or after January 1, 1989. For the applicable rules relating to employer-provided transportation for security concerns prior to December 30, 1992, see § 1.132-5(m) (as contained in 26 CFR part 1 (§§ 1.61 to 1.169) revised April 1, 1992). See §§ 1.132-1T, 1.132-2T, 1.132-3T, 1.132-4T, 1.132-5T, 1.132-6T, 1.132-7T and 1.132-8T for rules in effect for benefits received from January 1, 1985, to December 31, 1988.
+(g) *Effective date.* Sections 1.132-0, 1.132-1, 1.132-2, 1.132-3, 1.132-4, 1.132-5, 1.132-6, 1.132-7 and 1.132-8 are effective as of January 1, 1989, except that §§ 1.132-1(b)(1) with respect to the use of air transportation by a parent of an employee and 1.132-4(d) are effective as of January 1, 1985. Furthermore, in § 1.132-5, the eleventh sentence of paragraph (m)(1), *Examples 6* and *7* in paragraph (m)(8), and paragraphs (m)(2)(i), (m)(2)(v), (m)(3)(iv), (m)(6), (m)(7), and (r) are effective December 30, 1992; however, taxpayers may treat the rules as applicable to benefits provided on or after January 1, 1989. For the applicable rules relating to employer-provided transportation for security concerns prior to December 30, 1992, see § 1.132-5(m) (as contained in 26 CFR part 1 (§§ 1.61 to 1.169) revised April 1, 1992).
 
-[T.D. 8256, 54 FR 28601, July 6, 1989, as amended by T.D. 8457, 57 FR 62196, Dec. 30, 1992; 58 FR 7296, Feb. 5, 1993]
+[T.D. 8256, 54 FR 28601, July 6, 1989, as amended by T.D. 8457, 57 FR 62196, Dec. 30, 1992; 58 FR 7296, Feb. 5, 1993; T.D. 9849, 84 FR 9233, Mar. 14, 2019]

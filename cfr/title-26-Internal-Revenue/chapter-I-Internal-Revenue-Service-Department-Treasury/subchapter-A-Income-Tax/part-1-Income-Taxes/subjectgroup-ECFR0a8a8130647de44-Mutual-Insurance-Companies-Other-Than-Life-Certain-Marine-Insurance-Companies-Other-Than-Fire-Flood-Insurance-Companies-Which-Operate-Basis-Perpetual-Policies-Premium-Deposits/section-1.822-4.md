@@ -1,0 +1,5 @@
+##### § 1.822-4 Taxable years affected. #####
+
+Section 1.822-3 is applicable only to taxable years beginning after December 31, 1953, but before January 1, 1955, and ending after August 16, 1954, and all references to sections of part II, subchapter L, chapter 1 of the Code are to the Internal Revenue Code of 1954, before amendments. Sections 1.822-5 through 1.822-7 are applicable only to taxable years beginning after December 31, 1954, but before January 1, 1963, and all references to sections of part II, subchapter L, chapter 1 of the Code are to the Internal Revenue Code of 1954, as amended by the Life Insurance Company Tax Act for 1955 (70 Stat. 36). Sections 1.822-8 through 1.822-12 are applicable only to taxable years beginning after December 31, 1962, and all references to sections of parts II and III, subchapter L, chapter 1 of the Code are to the Internal Revenue Code of 1954 as amended by section 8 of the Revenue Act of 1962 (76 Stat. 989).
+
+[T.D. 6681, 28 FR 11113, Oct. 17, 1963, as amended by T.D. 9849, 84 FR 9236, Mar. 14, 2019]

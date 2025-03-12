@@ -1,7 +1,5 @@
 ##### § 203.18 Maximum mortgage amounts. #####
 
-Link to an amendment published at 83 FR 64272, Dec. 14, 2018.
-
 (a) *Mortgagors of principal or secondary residences.* The principal amount of the mortgage must not exceed the lesser of the following amounts that apply:
 
 (1) The dollar amount limitation that applies for the area under section 203(b)(2)(A) of the National Housing Act including any increase in the dollar limitation under § 203.29, as announced in accordance with § 203.18(h);
@@ -10,9 +8,7 @@ Link to an amendment published at 83 FR 64272, Dec. 14, 2018.
 
 (ii) If section 203(b)(10) is not in effect or otherwise does not apply to the mortgage, the lesser of the amounts based on appraised value that are permitted by section 203(b)(2)(B) of the National Housing Act and paragraph (g) of this section;
 
-(3) An amount equal to 90 percent of the appraised value, if the dwelling is a new home that was completed 1 year or less from the date of the mortgage insurance application and the dwelling is neither approved before the beginning of construction or covered by an acceptable consumer protection or warranty plan as provided in section 203(b)(2)(B) of the National Housing Act; or
-
-(4) An amount equal to 85 percent of the appraised value if the mortgage covers a dwelling that is to be occupied as a secondary residence (as defined in paragraph (f)(2) of this section).
+(3) An amount equal to 85 percent of the appraised value if the mortgage covers a dwelling that is to be occupied as a secondary residence (as defined in paragraph (f)(2) of this section).
 
 (b) *Veteran qualifications.* The special veteran terms provided in section 203(b)(2) of the National Housing Act shall apply only if the mortgagor submits one of the following certifications:
 
@@ -70,7 +66,7 @@ Link to an amendment published at 83 FR 64272, Dec. 14, 2018.
 
 (2) Secondary residence means a dwelling: (i) Where the mortgagor maintains or will maintain a part-time place of abode and typically spends (or will spend) less than a majority of the calendar year; (ii) which is not a vacation home; and (iii) which the Commissioner has determined to be eligible for insurance in order to avoid undue hardship to the mortgagor. A person may have only one secondary residence at a time.
 
-(3) *Eligible non-occupant mortgagor* means a mortgagor (or co-mortgagor, as appropriate) who is not to occupy the dwelling as a principal residence or a secondary residence and who is -
+(3) *Eligible non-occupant mortgagor* means a mortgagor (or co-mortgagor, as appropriate) who is not to occupy the dwelling as a principal residence or a secondary residence and who is—
 
 (i) A public entity, as provided in section 214 or 247 of the National Housing Act, or any other State or local government or agency thereof;
 

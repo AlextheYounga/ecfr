@@ -1,12 +1,12 @@
 ##### § 1.441-1 Period for computation of taxable income. #####
 
-(a) *Computation of taxable income* - (1) *In general.* Taxable income must be computed and a return must be made for a period known as the taxable year. For rules relating to methods of accounting, the taxable year for which items of gross income are included and deductions are taken, inventories, and adjustments, see parts II and III (section 446 and following), subchapter E, chapter 1 of the Internal Revenue Code, and the regulations thereunder.
+(a) *Computation of taxable income*—(1) *In general.* Taxable income must be computed and a return must be made for a period known as the taxable year. For rules relating to methods of accounting, the taxable year for which items of gross income are included and deductions are taken, inventories, and adjustments, see parts II and III (section 446 and following), subchapter E, chapter 1 of the Internal Revenue Code, and the regulations thereunder.
 
 (2) *Length of taxable year.* Except as otherwise provided in the Internal Revenue Code and the regulations thereunder (e.g., § 1.441-2 regarding 52-53-week taxable years), a taxable year may not cover a period of more than 12 calendar months.
 
 (b) *General rules and definitions.* The general rules and definitions in this paragraph (b) apply for purposes of sections 441 and 442 and the regulations thereunder.
 
-(1) *Taxable year. Taxable year* means -
+(1) *Taxable year. Taxable year* means—
 
 (i) The period for which a return is made, if a return is made for a period of less than 12 months (short period). See section 443 and the regulations thereunder;
 
@@ -16,9 +16,9 @@
 
 (iv) Except as provided in paragraphs (b)(1)(i) and (ii) of this section, the calendar year, if the taxpayer keeps no books, does not have an annual accounting period, or has an annual accounting period that does not qualify as a fiscal year.
 
-(2) *Required taxable year* - (i) *In general.* Certain taxpayers must use the particular taxable year that is required under the Internal Revenue Code and the regulations thereunder (the required taxable year). For example, the required taxable year is -
+(2) *Required taxable year*—(i) *In general.* Certain taxpayers must use the particular taxable year that is required under the Internal Revenue Code and the regulations thereunder (the required taxable year). For example, the required taxable year is—
 
-(A) In the case of a foreign sales corporation or domestic international sales corporation, the taxable year determined under section 441(h) and § 1.921-1T(a)(11), (b)(4), and (b)(6);
+(A) [Reserved]
 
 (B) In the case of a personal service corporation (PSC), the taxable year determined under section 441(i) and § 1.441-3;
 
@@ -56,7 +56,7 @@
 
 (4) *Calendar year. Calendar year* means a period of 12 consecutive months ending on December 31. A taxpayer who has not established a fiscal year must make its return on the basis of a calendar year.
 
-(5) *Fiscal year* - (i) *Definition. Fiscal year* means -
+(5) *Fiscal year*—(i) *Definition. Fiscal year* means—
 
 (A) A period of 12 consecutive months ending on the last day of any month other than December; or
 
@@ -70,9 +70,9 @@
 
 (8) *Taxpayer. Taxpayer* has the same meaning as the term *person* as defined in section 7701(a)(1) (*e.g.,* an individual, trust, estate, partnership, association, or corporation) rather than the meaning of the term taxpayer as defined in section 7701(a)(14) (any person subject to tax).
 
-(c) *Adoption of taxable year* - (1) *In general.* Except as provided in paragraph (c)(2) of this section, a new taxpayer may adopt any taxable year that satisfies the requirements of section 441 and the regulations thereunder without the approval of the Commissioner. A taxable year of a new taxpayer is adopted by filing its first Federal income tax return using that taxable year. The filing of an application for automatic extension of time to file a Federal income tax return (*e.g.,* Form 7004, “Application for Automatic Extension of Time to File Corporation Income Tax Return”), the filing of an application for an employer identification number (*i.e.,* Form SS-4, “Application for Employer Identification Number”), or the payment of estimated taxes, for a particular taxable year do not constitute an adoption of that taxable year.
+(c) *Adoption of taxable year*—(1) *In general.* Except as provided in paragraph (c)(2) of this section, a new taxpayer may adopt any taxable year that satisfies the requirements of section 441 and the regulations thereunder without the approval of the Commissioner. A taxable year of a new taxpayer is adopted by filing its first Federal income tax return using that taxable year. The filing of an application for automatic extension of time to file a Federal income tax return (*e.g.,* Form 7004, “Application for Automatic Extension of Time to File Corporation Income Tax Return”), the filing of an application for an employer identification number (*i.e.,* Form SS-4, “Application for Employer Identification Number”), or the payment of estimated taxes, for a particular taxable year do not constitute an adoption of that taxable year.
 
-(2) *Approval required* - (i) *Taxpayers with required taxable years.* A newly-formed partnership, S corporation, or PSC that wants to adopt a taxable year other than its required taxable year, a taxable year elected under section 444, or a 52-53-week taxable year that ends with reference to its required taxable year or a taxable year elected under section 444 must establish a business purpose and obtain the approval of the Commissioner under section 442.
+(2) *Approval required*—(i) *Taxpayers with required taxable years.* A newly-formed partnership, S corporation, or PSC that wants to adopt a taxable year other than its required taxable year, a taxable year elected under section 444, or a 52-53-week taxable year that ends with reference to its required taxable year or a taxable year elected under section 444 must establish a business purpose and obtain the approval of the Commissioner under section 442.
 
 (ii) *Taxpayers without books.* A taxpayer that must use a calendar year under section 441(g) and paragraph (f) of this section may not adopt a fiscal year without obtaining the approval of the Commissioner.
 
@@ -82,4 +82,4 @@
 
 (f) *Obtaining approval of the Commissioner or making a section 444 election.* See § 1.442-1(b) for procedures for obtaining approval of the Commissioner (automatically or otherwise) to adopt, change, or retain an annual accounting period. See §§ 1.444-1T and 1.444-2T for qualifications, and 1.444-3T for procedures, for making an election under section 444.
 
-[T.D. 8996, 67 FR 35012, May 17, 2002]
+[T.D. 8996, 67 FR 35012, May 17, 2002, as amended at by T.D. 9849, 84 FR 9234, Mar. 14, 2019]

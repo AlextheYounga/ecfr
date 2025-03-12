@@ -1,6 +1,6 @@
 ##### § 1.411(d)-2 Termination or partial termination; discontinuance of contributions. #####
 
-(a) *General rule* - (1) *Required nonforfeitability.* A plan is not a qualified plan (and a trust forming a part of such plan is not a qualified trust) unless the plan provides that -
+(a) *General rule*—(1) *Required nonforfeitability.* A plan is not a qualified plan (and a trust forming a part of such plan is not a qualified trust) unless the plan provides that—
 
 (i) Upon the termination or partial termination of the plan, or
 
@@ -14,15 +14,15 @@ the rights of each affected employee to benefits accrued to the date of such ter
 
 (iii) Paragraphs (a)(2) (i) and (ii) of this section do not require the allocation of amounts to the account of any employee if such amounts are not required to be used to satisfy the liabilities with respect to employees and their beneficiaries under the plan (see section 401(a)(2)).
 
-(b) *Partial termination* - (1) *General rule.* Whether or not a partial termination of a qualified plan occurs (and the time of such event) shall be determined by the Commissioner with regard to all the facts and circumstances in a particular case. Such facts and circumstances include: the exclusion, by reason of a plan amendment or severance by the employer, of a group of employees who have previously been covered by the plan; and plan amendments which adversely affect the rights of employees to vest in benefits under the plan.
+(b) *Partial termination*—(1) *General rule.* Whether or not a partial termination of a qualified plan occurs (and the time of such event) shall be determined by the Commissioner with regard to all the facts and circumstances in a particular case. Such facts and circumstances include: the exclusion, by reason of a plan amendment or severance by the employer, of a group of employees who have previously been covered by the plan; and plan amendments which adversely affect the rights of employees to vest in benefits under the plan.
 
 (2) *Special rule.* If a defined benefit plan ceases or decreases future benefit accruals under the plan, a partial termination shall be deemed to occur if, as a result of such cessation or decrease, a potential reversion to the employer, or employers, maintaining the plan (determined as of the date such cessation or decrease is adopted) is created or increased. If no such reversion is created or increased, a partial termination shall be deemed not to occur by reason of such cessation or decrease. However, the Commissioner may determine that a partial termination of such a plan occurs pursuant to subparagraph (1) of this paragraph for reasons other than such cessation or decrease.
 
 (3) *Effect of partial termination.* If a termination of a qualified plan occurs, the provisions of section 411(d)(3) apply only to the part of the plan that is terminated.
 
-(c) *Termination* - (1) *Application.* This paragraph applies to a plan other than a plan described in section 411(e)(1) (relating to governmental, certain church plans, etc.).
+(c) *Termination*—(1) *Application.* This paragraph applies to a plan other than a plan described in section 411(e)(1) (relating to governmental, certain church plans, etc.).
 
-(2) *Plans subject to termination insurance.* For purposes of this section, a plan to which title IV of the Employee Retirement Income Security Act of 1974 applies is considered terminated on a particular date if, as of that date -
+(2) *Plans subject to termination insurance.* For purposes of this section, a plan to which title IV of the Employee Retirement Income Security Act of 1974 applies is considered terminated on a particular date if, as of that date—
 
 (i) The plan is voluntarily terminated by the plan administrator under section 4041 of the Employee Retirement Income Security Act of 1974, or
 
@@ -32,7 +32,7 @@ For purposes of this subparagraph, the particular date of termination shall be t
 
 (3) *Other plans.* In the case of a plan not described in paragraph (c)(2) of this section, a plan is considered terminated on a particular date if, as of that date, the plan is voluntarily terminated by the employer, or employers, maintaining the plan.
 
-(d) *Complete discontinuance* - (1) *General rule.* For purposes of this section, a complete discontiuance of contributions under the plan is contrasted with a suspension of contributions under the plan which is merely a temporary cessation of contributions by the employer. A complete discontinuance of contributions may occur although some amounts are contributed by the employer under the plan if such amounts are not substantial enough to reflect the intent on the part of the employer to continue to maintain the plan. The determination of whether a complete discontinuance of contributions under the plan has occurred will be made with regard to all the facts and circumstances in the particular case, and without regard to the amount of any contributions made under the plan by employees. Among the factors to be considered in determining whether a suspension constitutes a discontinuance are:
+(d) *Complete discontinuance*—(1) *General rule.* For purposes of this section, a complete discontiuance of contributions under the plan is contrasted with a suspension of contributions under the plan which is merely a temporary cessation of contributions by the employer. A complete discontinuance of contributions may occur although some amounts are contributed by the employer under the plan if such amounts are not substantial enough to reflect the intent on the part of the employer to continue to maintain the plan. The determination of whether a complete discontinuance of contributions under the plan has occurred will be made with regard to all the facts and circumstances in the particular case, and without regard to the amount of any contributions made under the plan by employees. Among the factors to be considered in determining whether a suspension constitutes a discontinuance are:
 
 (i) Whether the employer may merely be calling an actual discontinuance of contributions a suspension of such contributions in order to avoid the requirement of full vesting as in the case of a discontinuance, or for any other reason;
 
@@ -42,6 +42,6 @@ For purposes of this subparagraph, the particular date of termination shall be t
 
 (2) *Time of discontinuance.* In any case in which a suspension of a profit-sharing plan maintained by a single employer is considered a discontinuance, the discontinuance becomes effective not later than the last day of the taxable year of the employer following the last taxable year of such employer for which a substantial contribution was made under the profit-sharing plan. In the case of a profit-sharing plan maintained by more than one employer, the discontinuance becomes effective not later than the last day of the plan year following the plan year within which any employer made a substantial contribution under the plan.
 
-(e) *Contributions or benefits which remain forfeitable.* Under section 411 (d) (2) and (3), section 411(a) and this section do not apply to plan benefits which may not be provided for designated employees in the event of early termination of the plan under provisions of the plan adopted pursuant to regulations prescribed by the Secretary or his delegate to preclude the discrimination prohibited by section 401(a)(4). Accordingly, in such a case, plan benefits may be required to be reallocated without regard to this section. See § 1.401-4(c).
+(e) *Contributions or benefits which remain forfeitable.* Under section 411 (d) (2) and (3), section 411(a) and this section do not apply to plan benefits which may not be provided for designated employees in the event of early termination of the plan under provisions of the plan adopted pursuant to regulations prescribed by the Secretary or his delegate to preclude the discrimination prohibited by section 401(a)(4). Accordingly, in such a case, plan benefits may be required to be reallocated without regard to this section.
 
-(Sec. 411 (88 Stat. 901; 26 U.S.C. 411))[T.D. 7501, 42 FR 42339, Aug. 23, 1977]
+(Sec. 411 (88 Stat. 901; 26 U.S.C. 411))[T.D. 7501, 42 FR 42339, Aug. 23, 1977; T.D. 9849, 84 FR 9234, Mar. 14, 2019]

@@ -10,8 +10,8 @@
 
 (e) As to inclusion of full-time life insurance salesmen within the class of persons considered to be employees, see section 7701(a)(20).
 
-(f) For purposes of this section and § 1.403(a)-2, the term “employee” includes a self-employed individual who is treated as an employee under section 401(c)(1) and paragraph (b) of § 1.401-10, and the term “employer” means the person treated as the employer of such individual under section 401(c)(4). For the rules relating to annuity plans covering self-employed individuals, see section 404(a)(2) and §§ 1.404(a)-8 and 1.401-10 through 1.401-13.
+(f) For purposes of this section and § 1.403(a)-2, the term “employee” includes a self-employed individual who is treated as an employee under section 401(c)(1) and paragraph (b) of § 1.401-10, and the term “employer” means the person treated as the employer of such individual under section 401(c)(4). For the rules relating to annuity plans covering self-employed individuals, see section 404(a)(2) and §§ 1.404(a)-8 and 1.401-10.
 
 (g) The rules of § 1.402(a)-1(e) apply for purposes of determining the treatment of amounts paid to provide accident and health insurance benefits.
 
-[T.D. 6500, 25 FR 11680, Nov. 26, 1960, as amended by T.D. 6676, 28 FR 10143, Sept. 17, 1963; T.D. 6722, 29 FR 5073, Apr. 14, 1964; T.D. 6783, 29 FR 18359, Dec. 24, 1964; T.D. 6885, 31 FR 7801, June 2, 1966; T.D. 9340, 72 FR 41159, July 26, 2007; T.D. 9665, 79 FR 26843, May 12, 2014]
+[T.D. 6500, 25 FR 11680, Nov. 26, 1960, as amended by T.D. 6676, 28 FR 10143, Sept. 17, 1963; T.D. 6722, 29 FR 5073, Apr. 14, 1964; T.D. 6783, 29 FR 18359, Dec. 24, 1964; T.D. 6885, 31 FR 7801, June 2, 1966; T.D. 9340, 72 FR 41159, July 26, 2007; T.D. 9665, 79 FR 26843, May 12, 2014; T.D. 9849, 84 FR 9234, Mar. 14, 2019]

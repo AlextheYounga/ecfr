@@ -1,6 +1,6 @@
 ##### § 1.453A-1 Installment method of reporting income by dealers on personal property. #####
 
-(a) *In general.* A dealer (as defined in paragraph (c)(1) of this section) may elect to return the income from the sale of personal property on the installment method if such sale is a sale on the installment plan (as defined in paragraphs (c)(3) and (d) of this section). Under the installment method of accounting, a taxpayer may return as income from installment sales in any taxable year that proportion of the installment payments actually received in that year which the gross profit realized or to be realized when the property is paid for bears to the total contract price. For this purpose, gross profit means sales less cost of goods sold. See paragraph (d) of this section for additional rules relating to the computation of income under the installment method of accounting. In addition, see § 1.453A-2 for rules treating revolving credit plans as installment plans for taxable years beginning on or before December 31, 1986.
+(a) *In general.* A dealer (as defined in paragraph (c)(1) of this section) may elect to return the income from the sale of personal property on the installment method if such sale is a sale on the installment plan (as defined in paragraphs (c)(3) and (d) of this section). Under the installment method of accounting, a taxpayer may return as income from installment sales in any taxable year that proportion of the installment payments actually received in that year which the gross profit realized or to be realized when the property is paid for bears to the total contract price. For this purpose, gross profit means sales less cost of goods sold. See paragraph (d) of this section for additional rules relating to the computation of income under the installment method of accounting.
 
 (b) *Effect of security.* A dealer may adopt (but is not required to do so) one of the following four ways of protecting against loss in case of default by the purchaser:
 
@@ -12,23 +12,23 @@
 
 (4) A conveyance to a trustee pending performance of the contract and subject to its provisions.
 
-(c) *Definitions of dealer, sale, and sale on the installment plan.* For purposes of the regulations under section 453A -
+(c) *Definitions of dealer, sale, and sale on the installment plan.* For purposes of the regulations under section 453A—
 
 (1) The term “dealer” means a person who regularly sells or otherwise disposes of personal property on the installment plan;
 
 (2) The term “sale” includes sales and other dispositions; and
 
-(3) Except as provided in paragraph (d)(2) of this section, the term “sale on the installment plan” means -
+(3) Except as provided in paragraph (d)(2) of this section, the term “sale on the installment plan” means—
 
 (i) A sale of personal property by the taxpayer under any plan for the sale of personal property, which plan, by its terms and conditions, contemplates that each sale under the plan will be paid for in two or more payments; or
 
-(ii) A sale of personal property by the taxpayer under any plan for the sale of personal property -
+(ii) A sale of personal property by the taxpayer under any plan for the sale of personal property—
 
 (A) Which plan, by its terms and conditions, contemplates that such sale will be paid for in two or more payments; and
 
 (B) Which sale is in fact paid for in two or more payments.
 
-(d) *Installment plans* - (1) *Traditional installment plans.* A traditional installment plan usually has the following characteristics:
+(d) *Installment plans*—(1) *Traditional installment plans.* A traditional installment plan usually has the following characteristics:
 
 (i) The execution of a separate installment contract for each sale or disposition of personal property; and
 
@@ -36,13 +36,13 @@
 
 Normally, a sale under a traditional installment plan meets the requirements of paragraph (c)(3)(i) of this section.
 
-(2) *Revolving credit plans.* Sales under a revolving credit plan (within the meaning of § 1.453A-2(c)(1)) -
+(2) *Revolving credit plans.* Sales under a revolving credit plan (within the meaning of § 1.453A-2(c)(1))—
 
 (i) Are treated, for taxable years beginning on or before December 31, 1986, as sales on the installment plan to the extent provided in § 1.453A-2, which provides for the application of the requirements of paragraph (c)(3)(ii) of this section to sales under revolving credit plans; and
 
 (ii) Are not treated as sales on the installment plan for taxable years beginning after December 31, 1986.
 
-(e) *Installment income of dealers in personal property* - (1) *In general.* The income from sales on the installment plan of a dealer may be ascertained by treating as income that proportion of the total payments received in the taxable year from sales on the installment plan (such payments being allocated to the year against the sales of which they apply) which the gross profit realized or to be realized on the total sales on the installment plan made during each year bears to the total contract price of all such sales made during that respective year. However, if the dealer demonstrates to the satisfaction of the district director that income from sales on the installment plan is clearly reflected, the income from such sales may be ascertained by treating as income that proportion of the total payments received in the taxable year from sales on the installment plan (such payments being allocated to the year against the sales of which they apply) which either:
+(e) *Installment income of dealers in personal property*—(1) *In general.* The income from sales on the installment plan of a dealer may be ascertained by treating as income that proportion of the total payments received in the taxable year from sales on the installment plan (such payments being allocated to the year against the sales of which they apply) which the gross profit realized or to be realized on the total sales on the installment plan made during each year bears to the total contract price of all such sales made during that respective year. However, if the dealer demonstrates to the satisfaction of the district director that income from sales on the installment plan is clearly reflected, the income from such sales may be ascertained by treating as income that proportion of the total payments received in the taxable year from sales on the installment plan (such payments being allocated to the year against the sales of which they apply) which either:
 
 (i) The gross profit realized or to be realized on the total credit sales made during each year bears to the total contract price of all credit sales during that respective year, or
 
@@ -66,4 +66,4 @@ Any change in the amount of the carrying charges or interest in a year subsequen
 
 (h) *Effective date.* This section applies for taxable years beginning after December 31, 1953, and ending after August 16, 1954, but generally does not apply to sales made after December 31, 1987, in taxable years ending after such date. For sales made after December 31, 1987, sales made by a dealer in personal or real property shall not be treated as sales on the installment plan. (However, see section 453(l)(2) for exceptions to this rule.)
 
-[T.D. 8270, 54 FR 46377, Nov. 3, 1989]
+[T.D. 8270, 54 FR 46377, Nov. 3, 1989, as amended by T.D. 9849, 84 FR 9235, Mar. 14, 2019]

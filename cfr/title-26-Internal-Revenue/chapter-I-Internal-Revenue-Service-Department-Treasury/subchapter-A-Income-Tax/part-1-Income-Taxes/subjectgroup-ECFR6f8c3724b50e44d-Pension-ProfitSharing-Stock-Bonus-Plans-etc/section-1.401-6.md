@@ -14,7 +14,7 @@
 
 (c) *Complete discontinuance defined.* (1) For purposes of this section, a complete discontinuance of contributions under the plan is contrasted with a suspension of contributions under the plan, which is merely a temporary cessation of contributions by the employer. A complete discontinuance of contributions may occur although some amounts are contributed by the employer under the plan if such amounts are not substantial enough to reflect the intent on the part of the employer to continue to maintain the plan. The determination of whether a complete discontinuance of contributions under the plan has occurred will be made with regard to all the facts and circumstances in the particular case, and without regard to the amount of any contributions made under the plan by employees.
 
-(2) In the case of a pension plan, a suspension of contributions will not constitute a discontinuance if -
+(2) In the case of a pension plan, a suspension of contributions will not constitute a discontinuance if—
 
 (i) The benefits to be paid or made available under the plan are not affected at any time by the suspension, and
 
@@ -22,8 +22,8 @@
 
 (3) In any case in which a suspension of a profit-sharing plan is considered a discontinuance, the discontinuance becomes effective not later than the last day of the taxable year of the employer following the last taxable year of such employer for which a substantial contribution was made under the profit-sharing plan.
 
-(d) *Contributions or benefits which remain forfeitable.* The provisions of this section do not apply to amounts which are reallocated to prevent the discrimination prohibited by section 401(a)(4) (see paragraph (c) of § 1.401-4).
+(d) *Contributions or benefits which remain forfeitable.* The provisions of this section do not apply to amounts which are reallocated to prevent the discrimination prohibited by section 401(a)(4).
 
 (e) *Effective date.* This section shall apply to taxable years of a qualified plan commencing after September 30, 1963. In the case of the termination or complete discontinuance (as defined in this section) of any qualified plan during any such taxable year, the rights accorded to each employee covered under the plan must conform to the requirements of this section. However, a plan which is qualified on September 30, 1963, will not be disqualified merely because it does not expressly include the provisions prescribed by this section.
 
-[T.D. 6675, 28 FR 10120, Sept. 17, 1963]
+[T.D. 6675, 28 FR 10120, Sept. 17, 1963, as amended by T.D. 9849, Mar. 14, 2019]

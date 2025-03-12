@@ -2,7 +2,7 @@
 
 (a) *In general.* The provisions of this section shall apply for purposes of determining when books or records are sufficient for purposes of § 1.964-3 to verify the classes of income described in such section.
 
-(b) *Subpart F income.* Books or records sufficient to verify the subpart F income of a controlled foreign corporation must establish for the taxable year -
+(b) *Subpart F income.* Books or records sufficient to verify the subpart F income of a controlled foreign corporation must establish for the taxable year—
 
 (1) Its gross income and deductions,
 
@@ -10,13 +10,13 @@
 
 (3) The foreign base company income (as provided in paragraph (d) of this section), and
 
-(4) In the case of a United States shareholder claiming the benefit of the exclusion provided in section 952(b) or the limitation provided in section 952(c) -
+(4) In the case of a United States shareholder claiming the benefit of the exclusion provided in section 952(b) or the limitation provided in section 952(c)—
 
 (i) The items of income excluded from subpart F income by paragraph (b) of § 1.952-1 as income derived from sources within the United States, the United States income tax incurred with respect thereto, and the deductions properly allocable thereto and connected therewith, and
 
 (ii) The earnings and profits, or deficit in earnings and profits, of any foreign corporation necessary for the determinations provided in paragraphs (c) and (d) of § 1.952-1.
 
-(c) *Income from insurance of United States risks.* Books or records sufficient to verify the income of a controlled foreign corporation from the insurance of United States risks must establish for the taxable year -
+(c) *Income from insurance of United States risks.* Books or records sufficient to verify the income of a controlled foreign corporation from the insurance of United States risks must establish for the taxable year—
 
 (1) That the 5-percent minimum premium requirement prescribed in paragraph (b) of § 1.953-1 has not been exceeded, or
 
@@ -24,7 +24,7 @@
 
 (d) *Foreign base company income and exclusions therefrom.* Books or records sufficient to verify the income of a controlled foreign corporation which is foreign base company income must establish for the taxable year the following items:
 
-(1) *Foreign personal holding company income.* The foreign personal holding company income to which section 954(c) and § 1.954-2 apply, for which purpose there must be established the gross income from -
+(1) *Foreign personal holding company income.* The foreign personal holding company income to which section 954(c) and § 1.954-2 apply, for which purpose there must be established the gross income from—
 
 (i) All rents and royalties,
 
@@ -50,7 +50,7 @@
 
 (xii) All compensation for the use of corporate property by shareholders described in section 553(a)(6).
 
-(2) *Foreign base company sales income.* The foreign base company sales income to which section 954(d) and § 1.954-3 apply, for which purpose there must be established the gross income from -
+(2) *Foreign base company sales income.* The foreign base company sales income to which section 954(d) and § 1.954-3 apply, for which purpose there must be established the gross income from—
 
 (i) All sales by the controlled foreign corporation of its personal property and all purchases or sales of personal property by such corporation on behalf of another person,
 
@@ -64,7 +64,7 @@
 
 Where an item of income falls within more than one of subdivisions (ii) through (v) of this subparagraph, it shall be sufficient to establish that it falls within any one of them. If a branch or similar establishment is treated as a wholly owned subsidiary corporation through the application of section 954(d)(2) and paragraph (b) of § 1.954-3, the requirements of this subparagraph shall be satisfied separately for each branch or similar establishment so treated and for the remainder of the controlled foreign corporation.
 
-(3) *Foreign base company services income.* The foreign base company services income to which section 954(e) and § 1.954-4 apply, for which purpose there must be established the gross income from -
+(3) *Foreign base company services income.* The foreign base company services income to which section 954(e) and § 1.954-4 apply, for which purpose there must be established the gross income from—
 
 (i) All services performed by the controlled foreign corporation,
 
@@ -76,7 +76,7 @@ Where an item of income falls within more than one of subdivisions (ii) through 
 
 Where an item of income falls within more than one of subdivisions (ii) through (iv) of this subparagraph, it shall be sufficient to establish that it falls within any one of them.
 
-(4) *Foreign base company oil related income.* (i) The foreign base company oil related income described in section 954(g) and § 1.954-8, for which purpose there must be established, with respect to each foreign country, the gross income derived from -
+(4) *Foreign base company oil related income.* (i) The foreign base company oil related income described in section 954(g) and § 1.954-8, for which purpose there must be established, with respect to each foreign country, the gross income derived from—
 
 (A) The processing of minerals extracted (by the taxpayer or by any other person) from oil or gas wells into their primary products, as determined under section 907(c)(2)(A),
 
@@ -96,7 +96,7 @@ Where an item of income falls within more than one of the listings in paragraphs
 
 (6) *Income derived from aircraft or ships.* For rules in effect for taxable years of foreign corporations beginning before January 1, 1976, see CFR § 1.964-4(d)(5) (Revised as of April 1, 1975).
 
-(7) *Foreign base company shipping income.* The foreign base company shipping income to which section 954(f) and § 1.954-6 apply, for which purpose there must be established -
+(7) *Foreign base company shipping income.* The foreign base company shipping income to which section 954(f) and § 1.954-6 apply, for which purpose there must be established—
 
 (i) Gross income derived from, or in connection with, the use (or hiring or leasing for use) of any aircraft or vessel in foreign commerce, as determined under § 1.954-6(c),
 
@@ -122,9 +122,9 @@ If the controlled foreign corporation has income derived from or in connection w
 
 (11) *Deductions.* The deductions allocable, under paragraph (c) of § 1.954-1, to each of the classes and subclasses of gross income described in subparagraphs (1) through (9) of this paragraph.
 
-(e) *Exclusion under section 963.* Books or records sufficient to verify the application of the exclusion provided by section 963 with respect to the subpart F income for the taxable year of a controlled foreign corporation must establish that the conditions set forth in paragraph (a)(2) of § 1.963-1 have been met.
+(e) [Reserved]
 
-(f) *Exclusion under section 970(a).* Books or records sufficient to verify the application for the taxable year of the exclusion provided by section 970(a) in respect of export trade income which is foreign base company income must establish for such year -
+(f) *Exclusion under section 970(a).* Books or records sufficient to verify the application for the taxable year of the exclusion provided by section 970(a) in respect of export trade income which is foreign base company income must establish for such year—
 
 (1) That the controlled foreign corporation is an export trade corporation, as defined in section 971(a) and paragraph (a) of § 1.971-1,
 
@@ -136,7 +136,7 @@ If the controlled foreign corporation has income derived from or in connection w
 
 (5) The increase in investments in export trade assets, as determined under section 970(c)(2) and paragraph (d)(2) of § 1.970-1.
 
-(g-1) *Withdrawal of previously excluded subpart F income from qualified investment in less developed countries.* Books or records sufficient to verify the previously excluded subpart F income of the controlled foreign corporation withdrawn from investment in less developed countries for the taxable year must establish -
+(g-1) *Withdrawal of previously excluded subpart F income from qualified investment in less developed countries.* Books or records sufficient to verify the previously excluded subpart F income of the controlled foreign corporation withdrawn from investment in less developed countries for the taxable year must establish—
 
 (1) The sum of the amounts of income excluded from foreign base company income under section 954(b)(1) and paragraph (b)(1) of § 1.954-1 (as in effect for taxable years beginning before January 1, 1976; see 26 CFR 1.954-1(b)(1) (Revised as of April 1, 1975)) for all prior taxable years,
 
@@ -144,7 +144,7 @@ If the controlled foreign corporation has income derived from or in connection w
 
 (3) The amount withdrawn from investment in less developed countries for the taxable year as determined under section 955(a) (as in effect before the enactment of the Tax Reduction Act of 1975) and paragraph (b) of § 1.955-1.
 
-(g-2) *Withdrawal of previously excluded subpart F income from investment in foreign base company shipping operations.* Books or records sufficient to verify the previously excluded subpart F income of the controlled foreign corporation withdrawn from investment in foreign base company shipping operations for the taxable year must establish -
+(g-2) *Withdrawal of previously excluded subpart F income from investment in foreign base company shipping operations.* Books or records sufficient to verify the previously excluded subpart F income of the controlled foreign corporation withdrawn from investment in foreign base company shipping operations for the taxable year must establish—
 
 (1) The sum of the amounts of income excluded from foreign base company income under section 954(b)(2) and paragraph (b)(1) of § 1.954-1 for all prior taxable years,
 
@@ -154,7 +154,7 @@ If the controlled foreign corporation has income derived from or in connection w
 
 (4) If the carryover (as described in § 1.955A-1(b)(3)) of amounts relating to investments in less developed country shipping companies (as described in § 1.995-5(b)) is applicable, (i) the amount of the corporation's qualified investments (determined under § 1.955-2 other than paragraph (b)(5) thereof) in less developed country shipping companies at the close of the last taxable year of the corporation beginning before January 1, 1976, and (ii) the amount of the limitation with respect to previously excluded subpart F income (determined under § 1.955-1(b)(1)(i)(*b*)) for the first taxable year of the corporation beginning after December 31, 1975.
 
-(h) *Withdrawal of previously excluded export trade income from investment.* Books or records sufficient to verify the previously excluded export trade income of the controlled foreign corporation withdrawn from investment for the taxable year must establish the United States shareholder's proportionate share of -
+(h) *Withdrawal of previously excluded export trade income from investment.* Books or records sufficient to verify the previously excluded export trade income of the controlled foreign corporation withdrawn from investment for the taxable year must establish the United States shareholder's proportionate share of—
 
 (1) The sum of the amounts by which the subpart F income of such corporation was reduced for all prior taxable years under section 970(a) and paragraph (b) of § 1.970-1,
 
@@ -164,7 +164,7 @@ If the controlled foreign corporation has income derived from or in connection w
 
 (4) The amount withdrawn from investment under section 970(b) and paragraph (c) of § 1.970-1 for the taxable year.
 
-(i) *Increase in earnings invested in United States property.* Books or records sufficient to verify the increase for the taxable year in earnings invested by the controlled foreign corporations in United States property must establish -
+(i) *Increase in earnings invested in United States property.* Books or records sufficient to verify the increase for the taxable year in earnings invested by the controlled foreign corporations in United States property must establish—
 
 (1) The amount of such corporation's earnings invested in United States property (as defined in section 956(b)(1) and paragraph (a) of § 1.956-2) at the close of the current and preceding taxable years, as determined under paragraph (b) of § 1.956-1,
 
@@ -174,4 +174,4 @@ If the controlled foreign corporation has income derived from or in connection w
 
 (4) The amount of increase in earnings invested by such corporation in United States property which is excluded from the United States shareholder's gross income for the taxable year under section 959(a)(2) and paragraph (c) of § 1.959-1.
 
-[T.D. 6824, 30 FR 6481, May 11, 1965, as amended by T.D. 7211, 37 FR 21436, Oct. 11, 1972; T.D. 7893, 48 FR 22511, May 19, 1983; T.D. 8331, 56 FR 2849, Jan. 25, 1991]
+[T.D. 6824, 30 FR 6481, May 11, 1965, as amended by T.D. 7211, 37 FR 21436, Oct. 11, 1972; T.D. 7893, 48 FR 22511, May 19, 1983; T.D. 8331, 56 FR 2849, Jan. 25, 1991; T.D. 9849, 84 FR 9237, Mar. 14, 2019]

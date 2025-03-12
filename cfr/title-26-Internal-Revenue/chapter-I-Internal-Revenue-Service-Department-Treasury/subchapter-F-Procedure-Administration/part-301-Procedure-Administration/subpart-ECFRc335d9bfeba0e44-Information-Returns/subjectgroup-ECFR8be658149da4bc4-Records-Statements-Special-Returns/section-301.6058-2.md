@@ -1,0 +1,27 @@
+##### § 301.6058-2 Required use of magnetic media for filing requirements relating to information required in connection with certain plans of deferred compensation. #####
+
+(a) *Magnetic media filing requirements under section 6058.* A return required under section 6058 with respect to an employee benefit plan must be filed on magnetic media if the filer is required by the Internal Revenue Code or regulations to file at least 250 returns during the calendar year that includes the first day of the plan year. Returns filed on magnetic media must be made in accordance with applicable revenue procedures, publications, forms, instructions, or other guidance on the IRS.gov Internet Web site. In prescribing revenue procedures, publications, forms, and instructions, or other guidance on the IRS.gov Internet site, the Commissioner may direct the type of magnetic media filing. See § 601.601(d)(2)(ii)(*b*) of this chapter.
+
+(b) *Economic hardship waiver.* The Commissioner may waive the requirements of this section in cases of undue economic hardship. The principal factor in determining hardship will be the amount, if any, by which the cost of filing the return on magnetic media in accordance with this section exceeds the cost of filing the returns on other media. A request for a waiver must be made in accordance with applicable published guidance, publications, forms, instructions, or other guidance on the IRS.gov Internet Web site. See § 601.601(d)(2)(ii)(*b*) of this chapter. The waiver will specify the type of filing (that is, a return required under section 6058) and the period to which it applies. In addition, the waiver will be subject to such terms and conditions regarding the method of filing as may be prescribed by the Commissioner.
+
+(c) *Failure to file.* If a filer required to file a return under section 6058 fails to file the return on magnetic media when required to do so by this section, the filer is deemed to have failed to file the return. See section 6652(e) for the amount imposed for the failure to file a return required under section 6058. In determining whether there is reasonable cause for failure to file the return, § 301.6652-3(b) and rules similar to the rules in § 301.6724-1(c)(3)(ii) (regarding undue economic hardship related to filing information returns on magnetic media) will apply.
+
+(d) *Meaning of terms.* The following definitions apply for purposes of this section.
+
+(1) *Magnetic media.* The term *magnetic media* means electronic filing, as well as other media specifically permitted under applicable regulations, revenue procedures, or publications, forms, instructions, or other guidance on the IRS.gov Internet Web site. See § 601.601(d)(2)(ii)(*b*) of this chapter.
+
+(2) *Return required under section 6058.* The term *return required under section 6058* means a return in the Form 5500 series (or its successor).
+
+(3) *Determination of 250 returns* - (i) *In general.* For purposes of this section, a filer is required to file at least 250 returns if, during the calendar year that includes the first day of the plan year, the filer is required to file at least 250 returns of any type, including information returns (for example, Forms W-2 and Forms 1099), income tax returns, employment tax returns, and excise tax returns.
+
+(ii) *Definition of filer.* For purposes of this section, the term *filer* means the employer or employers maintaining the plan and the plan administrator within the meaning of section 414(g).
+
+(iii) *Special rules relating to determining 250 returns.* For purposes of applying paragraph (d)(3)(ii) of this section, the aggregation rules of section 414(b), (c), (m), and (o) will apply to a filer that is or includes an employer. Thus, for example, a filer that is a member of a controlled group of corporations within the meaning of section 414(b) must file the Form 5500 series on magnetic media if the aggregate number of returns required to be filed by all members of the controlled group of corporations is at least 250.
+
+(e) *Example.* The following example illustrates the provisions of paragraph (d)(3) of this section:
+
+Example.In 2016 Employer X (the plan sponsor of Plan A) and P (the plan administrator of Plan A) are required to file 267 returns. Employer X is required to file the following: one Form 1120, “U.S. Corporation Income Tax Return;” 195 Forms W-2, “Wage and Tax Statement;” 25 Forms 1099-DIV, “Dividends and Distributions;” one Form 940, “Employer's Annual Federal Unemployment (FUTA) Tax Return;” and four Forms 941, “Employer's Quarterly Federal Tax Return.” P is required to file 40 Forms 1099-R, “Distributions From Pensions, Annuities, Retirement, Profit-Sharing Plans, IRAs, Insurance Contracts, etc.” P and Employer X are jointly required to file one Form 5500 series return. Plan A's plan year is the calendar year. Because P and Employer X, in the aggregate, are required to file at least 250 returns during the calendar year, the 2016 Form 5500 for Plan A must be filed electronically.
+
+(f) *Effective/applicability date.* This section is applicable for returns required to be filed under section 6058 for plan years that begin on or after January 1, 2015, but only for filings with a filing deadline (not taking into account extensions) after December 31, 2015.
+
+[T.D. 9695, 79 FR 58259, Sept. 29, 2014]

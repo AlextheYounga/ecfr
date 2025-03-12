@@ -10,7 +10,7 @@
 
 (4) For the place for filing information returns by trusts claiming charitable deductions under section 642(c), see paragraph (c) of § 1.6034-1.
 
-(5) For the place for filing information returns by officers, directors, and shareholders of foreign personal holding companies, see § 1.6035-1.
+(5) [Reserved]
 
 (6) For the place for filing information returns relating to certain stock option transactions, see paragraph (c) of § 1.6039-1.
 
@@ -38,4 +38,4 @@
 
 (c) *Effective/Applicability date.* Paragraph (b)(17) of this section shall apply to partnership taxable years beginning after *April 29, 2008.*
 
-[T.D. 6500, 25 FR 12108, Nov. 26, 1960, as amended by T.D. 6887, 31 FR 8814, June 24, 1966; T.D. 6922, 32 FR 8713, June 17, 1967; T.D. 7284, 38 FR 20829, Aug. 3, 1973; T.D. 7385, 40 FR 50264, Oct. 29, 1975; T.D. 8734, 62 FR 53493, Oct. 14, 1997; T.D. 9156, 69 FR 55744, Sept. 16, 2004; T.D. 9394, 73 FR 23085, Apr. 29, 2008]
+[T.D. 6500, 25 FR 12108, Nov. 26, 1960, as amended by T.D. 6887, 31 FR 8814, June 24, 1966; T.D. 6922, 32 FR 8713, June 17, 1967; T.D. 7284, 38 FR 20829, Aug. 3, 1973; T.D. 7385, 40 FR 50264, Oct. 29, 1975; T.D. 8734, 62 FR 53493, Oct. 14, 1997; T.D. 9156, 69 FR 55744, Sept. 16, 2004; T.D. 9394, 73 FR 23085, Apr. 29, 2008; T.D. 9849, 84 FR 9237, Mar. 14, 2019]

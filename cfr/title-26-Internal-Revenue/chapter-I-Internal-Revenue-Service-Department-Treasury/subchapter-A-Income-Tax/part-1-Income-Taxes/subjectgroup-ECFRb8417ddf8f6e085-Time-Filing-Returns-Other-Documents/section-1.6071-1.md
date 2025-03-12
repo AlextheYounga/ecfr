@@ -12,7 +12,7 @@
 
 (4) For provisions relating to the time for filing returns by trusts claiming charitable deductions under section 642(c), see paragraph (c) of § 1.6034-1.
 
-(5) For provisions relating to the time for filing information returns by officers, directors, and shareholders of foreign personal holding companies, see §§ 1.6035-1 and 1.6035-2.
+(5) [Reserved}
 
 (6) For provisions relating to the time for filing information returns with respect to certain stock option transactions, see paragraph (c) of § 1.6039-1.
 
@@ -38,4 +38,4 @@
 
 (d) *Effective/Applicability date.* The references to Form 8805 and § 1.1446-3(d) in paragraph (c)(15) of this section shall apply to partnership taxable years beginning after *April 29, 2008.*
 
-[T.D. 6500, 25 FR 12108, Nov. 26, 1960, as amended by T.D. 6887, 31 FR 8814, June 24, 1966; T.D. 6908, 31 FR 16775, Dec. 31, 1966; T.D. 7284, 38 FR 20829, Aug. 3, 1973; T.D. 7533, 43 FR 6604, Feb. 15, 1978; T.D. 8734, 62 FR 53492, Oct. 14, 1997; T.D. 9394, 73 FR 23085, Apr. 29, 2008]
+[T.D. 6500, 25 FR 12108, Nov. 26, 1960, as amended by T.D. 6887, 31 FR 8814, June 24, 1966; T.D. 6908, 31 FR 16775, Dec. 31, 1966; T.D. 7284, 38 FR 20829, Aug. 3, 1973; T.D. 7533, 43 FR 6604, Feb. 15, 1978; T.D. 8734, 62 FR 53492, Oct. 14, 1997; T.D. 9394, 73 FR 23085, Apr. 29, 2008; T.D. 9849, 84 FR 9237, Mar. 14, 2019]

@@ -18,7 +18,7 @@ Thus, if property acquired as the result of a compulsory or involuntary conversi
 
 (f) The period for which the taxpayer has held stock or securities issued to him by a corporation pursuant to the exercise by him of rights to acquire such stock or securities from the corporation will, in every case and whether or not the receipt of taxable gain was recognized in connection with the distribution of the rights, begin with and include the day upon which the rights to acquire such stock or securities were exercised. A taxpayer will be deemed to have exercised rights received from a corporation to acquire stock or securities therein where there is an expression of assent to the terms of such rights made by the taxpayer in the manner requested or authorized by the corporation.
 
-(g) The period for which the taxpayer has held a residence, the acquisition of which resulted under the provisions of section 1034 in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, shall include the period for which such other residence had been held as of the date of such sale or exchange. See § 1.1034-1. For purposes of this paragraph, the term *sale or exchange* includes an involuntary conversion occurring after December 31, 1950, and before January 1, 1954.
+(g) The period for which the taxpayer has held a residence, the acquisition of which resulted under the provisions of section 1034 in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, shall include the period for which such other residence had been held as of the date of such sale or exchange. For purposes of this paragraph, the term *sale or exchange* includes an involuntary conversion occurring after December 31, 1950, and before January 1, 1954.
 
 (h) If a taxpayer accepts delivery of a commodity in satisfaction of a commodity futures contract, the holding period of the commodity shall include the period for which the taxpayer held the commodity futures contract, if such futures contract was a capital asset in his hands.
 
@@ -36,4 +36,4 @@ The provisions of this paragraph apply to sales of such property included in the
 
 (l) *Effective/applicability date.* This section applies January 19, 2017. For rules before January 19, 2017, see § 1.1223-1 as contained in 26 CFR part 1 revised as of April 1, 2016.
 
-[T.D. 6500, 25 FR 12005, Nov. 26, 1960, as amended by T.D. 7238, 37 FR 28717, Dec. 29, 1972; T.D. 7728, 45 FR 72650, Nov. 3, 1980; T.D. 9811, 82 FR 6241, Jan. 19, 2017]
+[T.D. 6500, 25 FR 12005, Nov. 26, 1960, as amended by T.D. 7238, 37 FR 28717, Dec. 29, 1972; T.D. 7728, 45 FR 72650, Nov. 3, 1980; T.D. 9811, 82 FR 6241, Jan. 19, 2017; T.D. 9849, 84 FR 9237, Mar. 14, 2019]
