@@ -1,5 +1,7 @@
 ##### § 429.15 Room air conditioners. #####
 
+Link to an amendment published at 86 FR 16475, Mar. 29, 2021.
+
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to room air conditioners; and
 
 (2) For each basic model of room air conditioners, a sample of sufficient size shall be randomly selected and tested to ensure that -

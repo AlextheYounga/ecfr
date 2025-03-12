@@ -1,7 +1,5 @@
 ##### § 201.10 Notices of termination of transfers and licenses. #####
 
-Link to an amendment published at 86 FR 11641, Feb. 26, 2021.
-
 This section covers notices of termination of transfers and licenses under 17 U.S.C. 203, 304(c), and 304(d). A termination under section 304(d) is possible only if no termination was made under section 304(c), and federal copyright was originally secured on or between January 1, 1923, and October 26, 1939.
 
 (a) *Form.* The Copyright Office does not provide printed forms for the use of persons serving notices of termination.
@@ -58,7 +56,19 @@ This section covers notices of termination of transfers and licenses under 17 U.
 
 (5) The handwritten signature of each person effecting the termination shall either be accompanied by a statement of the full name and address of that person, typewritten or printed legibly by hand, or shall clearly correspond to such a statement elsewhere in the notice.
 
-(d) *Service.* (1) The notice of termination shall be served upon each grantee whose rights are being terminated, or the grantee's successor in title, by personal service, or by first class mail sent to an address which, after a reasonable investigation, is found to be the last known address of the grantee or successor in title.
+(d) *Service.*(1) The notice of termination shall be served upon each grantee whose rights are being terminated, or the grantee's successor in title, by:
+
+(i) Personal service;
+
+(ii) First class mail sent or by reputable courier service delivered to an address which, after a reasonable investigation, is found to be the last known address of the grantee or successor in title; or
+
+(iii) Means of electronic transmission to:
+
+(A) An email address designated for service of notices of termination and/or legal process that is listed as such on the website of the grantee or successor in title in a location accessible to the public;
+
+(B) An email address provided to the terminating party by the grantee or successor in title, provided that the grantee, successor in title, or an agent thereof who is duly authorized to accept service on behalf of the grantee or successor in title expressly consents in writing to accept service at the address provided within thirty days before such service is made; or
+
+(C) An email address for the grantee or successor in title provided in accordance with instructions provided on the Office's website in a public directory that the Office in its discretion may establish and maintain.
 
 (2) The service provision of 17 U.S.C. 203, 304(c), or 304(d), whichever applies, will be satisfied if, before the notice of termination is served, a reasonable investigation is made by the person or persons executing the notice as to the current ownership of the rights being terminated, and based on such investigation:
 
@@ -70,7 +80,7 @@ This section covers notices of termination of transfers and licenses under 17 U.
 
 (4) Compliance with the provisions of paragraphs (d)(2) and (d)(3) of this section will satisfy the service requirements of 17 U.S.C. 203, 304(c), or 304(d), whichever applies. However, as long as the statutory requirements have been met, the failure to comply with the regulatory provisions of paragraph (d)(2) or (d)(3) of this section will not affect the validity of the service.
 
-(e) *Harmless errors.* (1) Harmless errors in a notice that do not materially affect the adequacy of the information required to serve the purposes of 17 U.S.C. 203, 304(c), or 304(d), whichever applies, shall not render the notice invalid.
+(e) *Harmless errors.* (1) Harmless errors in a notice, statement of service, or indexing information provided electronically or in a cover sheet shall not render the notice invalid. For purposes of this paragraph, an error is “harmless” if it does not materially affect the adequacy of the information required to serve the purposes of 17 U.S.C. 203, 304(c), or 304(d), whichever applies.
 
 (2) Without prejudice to the general rule provided by paragraph (e)(1) of this section, errors made in giving the date or registration number referred to in paragraph (b)(1)(iii), (b)(2)(iii), or (b)(2)(iv) of this section, or in complying with the provisions of paragraph (b)(1)(vii) or (b)(2)(vii) of this section, or in describing the precise relationships under paragraph (c)(2) or (c)(3) of this section, shall not affect the validity of the notice if the errors were made in good faith and without any intention to deceive, mislead, or conceal relevant information.
 
@@ -78,17 +88,17 @@ This section covers notices of termination of transfers and licenses under 17 U.
 
 (1) *Requirements.* The following requirements must be met before a copy of a notice of termination may be recorded in the Copyright Office.
 
-(i) *What must be submitted* - (A) *Copy of notice of termination.* A copy of a notice of termination submitted for recordation must be, and be certified to be, a true, correct, complete, and legible copy of the signed notice of termination as served. Where separate copies of the same notice were served on more than one grantee or successor-in-title, only one copy need be submitted for recordation.
+(i) *What must be submitted*—(A) *Copy of notice of termination.* A copy of a notice of termination submitted for recordation must be, and be certified to be, a true, correct, complete, and legible copy of the signed notice of termination as served. Where separate copies of the same notice were served on more than one grantee or successor-in-title, only one copy need be submitted for recordation.
 
 (B) *Statement of service.* The copy submitted for recordation must be accompanied by a statement setting forth the date on which the notice was served and the manner of service, unless such information is contained in the notice. In instances where service is made by first class mail, the date of service shall be the day the notice of termination was deposited with the United States Postal Service.
 
-(ii) *Timeliness.* (A) The Copyright Office will refuse recordation of a notice of termination as such if, in the judgment of the Copyright Office, such notice of termination is untimely. Conditions under which a notice of termination will be considered untimely include: the effective date of termination does not fall within the five-year period described in section 203(a)(3) or section 304(c)(3), as applicable, of title 17, United States Code; the documents submitted indicate that the notice of termination was served less than two or more than ten years before the effective date of termination; or the date of recordation is after the effective date of termination.
+(ii) *Timeliness.* (A) The Copyright Office may refuse recordation of a notice of termination as such if, in the judgment of the Copyright Office, such notice of termination is untimely. Conditions under which a notice of termination may be considered untimely include: the effective date of termination does not fall within the five-year period described in section 203(a)(3) or section 304(c)(3), as applicable, of title 17, United States Code; the documents submitted indicate that the notice of termination was served less than two or more than ten years before the effective date of termination; or the date of recordation is on or after the effective date of termination.
 
 (B) If a notice of termination is untimely, the Office will offer to record the document as a “document pertaining to a copyright” pursuant to § 201.4, but the Office will not index the document as a notice of termination.
 
 (C) In any case where an author agreed, prior to January 1, 1978, to a grant of a transfer or license of rights in a work that was not created until on or after January 1, 1978, a notice of termination of a grant under section 203 of title 17 may be recorded if it recites, as the date of execution, the date on which the work was created.
 
-(2) *Paper submission procedure* - (i) *Process.* A copy of a notice of termination may be submitted for recordation by sending it to the appropriate address in § 201.1(c) or to such other address as the Office may specify, accompanied by a cover sheet, the statement of service, and the proper fee.
+(2) *Paper submission procedure*—(i) *Process.* A copy of a notice of termination may be submitted for recordation by sending it to the appropriate address in § 201.1(c) or to such other address as the Office may specify, accompanied by a cover sheet, the statement of service, and the proper fee.
 
 (ii) *Cover sheet required.* Submission of a copy of a notice of termination must be accompanied by a completed Recordation Notice of Termination Cover Sheet (Form TCS), available on the Copyright Office Web site. Remitters must follow all instructions provided by the Office in completing Form TCS, including by providing all requested indexing information. Form TCS may be used to provide the statement of service and to make any of the certifications required by this paragraph (f). Form TCS will not be considered part of the recorded notice, but will be used by the Office for examination, indexing, and other administrative purposes. The Office may reject any notice submitted for recordation that includes an improperly prepared cover sheet.
 
@@ -96,7 +106,7 @@ This section covers notices of termination of transfers and licenses under 17 U.
 
 (iv) *Remitter certification.* The remitter must certify that he or she has appropriate authority to submit the notice for recordation and that all information submitted to the Office by the remitter is true, accurate, and complete to the best of the remitter's knowledge.
 
-(3) *Date of recordation.* The date of recordation is the date when all of the elements required for recordation, including the prescribed fee and, if required, the statement of service, have been received in the Copyright Office. After recordation, the notice, including any accompanying statement, is returned to the sender with a certificate of recordation.
+(3) *Date of recordation.* The date of recordation is the date when a copy of the notice of termination is received in the Copyright Office. After recordation, the notice, including any accompanying statement, is returned to the sender with a certificate of recordation.
 
 (4) *Effect of recordation.* The fact that the Office has recorded a notice is not a determination by the Office of the notice's validity or legal effect. Recordation of a notice of termination by the Copyright Office is without prejudice to any party claiming that the legal or formal requirements for effectuating termination (including the requirements pertaining to service and recordation of the notice of termination) have not been met, including before a court of competent jurisdiction.
 
@@ -114,4 +124,4 @@ This section covers notices of termination of transfers and licenses under 17 U.
 
 (v) *Date of recordation.* In any situation where the date of recordation for a submission cannot be established or, if established, would ordinarily be changed, if due to an issue with the electronic system, the Office may assign an equitable date as the date of recordation.
 
-(Pub. L. 94-553; 17 U.S.C. 304(c), 702, 708(11))[42 FR 45920, Sept. 13, 1977, as amended at 56 FR 59885, Nov. 26, 1991; 60 FR 34168, June 30, 1995; 64 FR 29521, June 1, 1999; 64 FR 36574, July 7, 1999; 66 FR 34372, June 28, 2001; 67 FR 69136, Nov. 15, 2002; 67 FR 78176, Dec. 23, 2002; 68 FR 16959, Apr. 8, 2003; 71 FR 36486, June 27, 2006; 74 FR 12556, Mar. 25, 2009; 76 FR 32320, June 6, 2011; 78 FR 42874, July 18, 2013; 82 FR 9356, Feb. 6, 2017; 82 FR 52220, Nov. 13, 2017; 85 FR 3855, Jan. 23, 2020]
+(Pub. L. 94-553; 17 U.S.C. 304(c), 702, 708(11))[42 FR 45920, Sept. 13, 1977, as amended at 56 FR 59885, Nov. 26, 1991; 60 FR 34168, June 30, 1995; 64 FR 29521, June 1, 1999; 64 FR 36574, July 7, 1999; 66 FR 34372, June 28, 2001; 67 FR 69136, Nov. 15, 2002; 67 FR 78176, Dec. 23, 2002; 68 FR 16959, Apr. 8, 2003; 71 FR 36486, June 27, 2006; 74 FR 12556, Mar. 25, 2009; 76 FR 32320, June 6, 2011; 78 FR 42874, July 18, 2013; 82 FR 9356, Feb. 6, 2017; 82 FR 52220, Nov. 13, 2017; 85 FR 3855, Jan. 23, 2020; 86 FR 11641, Feb. 26, 2021]

@@ -1,0 +1,3 @@
+##### § 361.108 Loss of electronic licensing privileges. #####
+
+Should Commerce determine that a filer consistently files inaccurate licensing information or otherwise abuses the licensing system, Commerce may revoke its electronic licensing privileges without prior notice. The filer will then only be able to obtain a license directly from Commerce. Because of the additional time needed to review such forms, Commerce may require up to 10 working days to process such forms. Delays in filing caused by the removal of a filer's electronic filing privilege will not be considered a mitigating factor by CBP.

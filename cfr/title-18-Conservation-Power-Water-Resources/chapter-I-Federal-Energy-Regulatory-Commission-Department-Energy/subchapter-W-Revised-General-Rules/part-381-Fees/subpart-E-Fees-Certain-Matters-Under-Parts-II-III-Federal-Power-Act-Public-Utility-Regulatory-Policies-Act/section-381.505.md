@@ -1,8 +1,6 @@
 ##### § 381.505 Certification of qualifying status as a small power production facility or cogeneration facility. #####
 
-Link to an amendment published at 86 FR 11425, Feb. 25, 2021.
-
-(a) Unless the Commission orders direct billing under § 381.107 of this chapter or otherwise, the fee established for an application for Commission certification as a qualifying small power production facility, as defined in section 3(17) of the Federal Power Act, is $25,850 and the fee established for an application for Commission certification as a qualifying cogeneration facility, as defined in section 3(18) of the Federal Power Act, is $29,260.
+(a) Unless the Commission orders direct billing under § 381.107 of this chapter or otherwise, the fee established for an application for Commission certification as a qualifying small power production facility, as defined in section 3(17) of the Federal Power Act, is $26,790 and the fee established for an application for Commission certification as a qualifying cogeneration facility, as defined in section 3(18) of the Federal Power Act, is $30,330.
 
 (b) The fee filed under this section must be submitted in accordance with subpart A of this part and § 292.207(b)(2) of this chapter.
 

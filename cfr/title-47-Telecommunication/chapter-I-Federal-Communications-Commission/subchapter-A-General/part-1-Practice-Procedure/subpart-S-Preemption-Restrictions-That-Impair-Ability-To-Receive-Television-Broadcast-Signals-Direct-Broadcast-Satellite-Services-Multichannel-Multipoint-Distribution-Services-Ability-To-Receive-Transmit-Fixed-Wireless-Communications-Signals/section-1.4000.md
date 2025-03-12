@@ -1,18 +1,16 @@
 ##### § 1.4000 Restrictions impairing reception of television broadcast signals, direct broadcast satellite services or multichannel multipoint distribution services. #####
 
-Link to an amendment published at 86 FR 11442, Feb. 25, 2021.
-
 (a)(1) Any restriction, including but not limited to any state or local law or regulation, including zoning, land-use, or building regulations, or any private covenant, contract provision, lease provision, homeowners' association rule or similar restriction, on property within the exclusive use or control of the antenna user where the user has a direct or indirect ownership or leasehold interest in the property that impairs the installation, maintenance, or use of:
 
 (i) An antenna that is:
 
-(A) Used to receive direct broadcast satellite service, including direct-to-home satellite service, or to receive or transmit fixed wireless signals via satellite, and
+(A) Used to receive direct broadcast satellite service, including direct-to-home satellite service, or to receive or transmit fixed wireless signals via satellite, including a hub or relay antenna used to receive or transmit fixed wireless services that are not classified as telecommunications services, and
 
 (B) One meter or less in diameter or is located in Alaska;
 
 (ii) An antenna that is:
 
-(A) Used to receive video programming services via multipoint distribution services, including multichannel multipoint distribution services, instructional television fixed services, and local multipoint distribution services, or to receive or transmit fixed wireless signals other than via satellite, and
+(A) Used to receive video programming services via multipoint distribution services, including multichannel multipoint distribution services, instructional television fixed services, and local multipoint distribution services, or to receive or transmit fixed wireless signals other than via satellite, including a hub or relay antenna used to receive or transmit fixed wireless services that are not classified as telecommunications services, and
 
 (B) That is one meter or less in diameter or diagonal measurement;
 
@@ -31,6 +29,8 @@ Link to an amendment published at 86 FR 11442, Feb. 25, 2021.
 (iii) Precludes reception or transmission of an acceptable quality signal.
 
 (4) Any fee or cost imposed on a user by a rule, law, regulation or restriction must be reasonable in light of the cost of the equipment or services and the rule, law, regulation or restriction's treatment of comparable devices. No civil, criminal, administrative, or other legal action of any kind shall be taken to enforce any restriction or regulation prohibited by this section except pursuant to paragraph (d) or (e) of this section. In addition, except with respect to restrictions pertaining to safety and historic preservation as described in paragraph (b) of this section, if a proceeding is initiated pursuant to paragraph (d) or (e) of this section, the entity seeking to enforce the antenna restrictions in question must suspend all enforcement efforts pending completion of review. No attorney's fees shall be collected or assessed and no fine or other penalties shall accrue against an antenna user while a proceeding is pending to determine the validity of any restriction. If a ruling is issued adverse to a user, the user shall be granted at least a 21-day grace period in which to comply with the adverse ruling; and neither a fine nor a penalty may be collected from the user if the user complies with the adverse ruling during this grace period, unless the proponent of the restriction demonstrates, in the same proceeding which resulted in the adverse ruling, that the user's claim in the proceeding was frivolous.
+
+(5) For purposes of this section, “hub or relay antenna” means any antenna that is used to receive or transmit fixed wireless signals for the distribution of fixed wireless services to multiple customer locations as long as the antenna serves a customer on whose premises it is located, but excludes any hub or relay antenna that is used to provide any telecommunications services or services that are provided on a commingled basis with telecommunications services.
 
 (b) Any restriction otherwise prohibited by paragraph (a) of this section is permitted if:
 
@@ -52,4 +52,4 @@ Link to an amendment published at 86 FR 11442, Feb. 25, 2021.
 
 (h) All allegations of fact contained in petitions and related pleadings before the Commission must be supported by affidavit of a person or persons with actual knowledge thereof. An original and two copies of all petitions and pleadings should be addressed to the Secretary at the FCC's main office, located at the address indicated in 47 CFR 0.401(a). Copies of the petitions and related pleadings will be available for public inspection in the Reference Information Center, Consumer and Governmental Affairs Bureau, located at the address of the FCC's main office indicated in 47 CFR 0.401(a).
 
-[66 FR 2333, Jan. 11, 2001, as amended at 67 FR 13224, Mar. 21, 2002; 82 FR 41103, Aug. 29, 2017; 85 FR 18146, Apr. 1, 2020; 85 FR 64405, Oct. 13, 2020]
+[66 FR 2333, Jan. 11, 2001, as amended at 67 FR 13224, Mar. 21, 2002; 82 FR 41103, Aug. 29, 2017; 85 FR 18146, Apr. 1, 2020; 85 FR 64405, Oct. 13, 2020; 86 FR 11442, Feb. 25, 2021]

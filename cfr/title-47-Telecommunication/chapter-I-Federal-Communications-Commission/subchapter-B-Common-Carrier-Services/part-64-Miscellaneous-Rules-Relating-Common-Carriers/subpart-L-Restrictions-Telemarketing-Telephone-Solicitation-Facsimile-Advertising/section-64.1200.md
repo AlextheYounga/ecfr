@@ -1,6 +1,6 @@
 ##### § 64.1200 Delivery restrictions. #####
 
-Link to an amendment published at 86 FR 11447, Feb. 25, 2021.Link to an amendment published at 86 FR 11448, Feb. 25, 2021.
+Link to an amendment published at 86 FR 11448, Feb. 25, 2021.
 
 (a) No person or entity may:
 
@@ -12,7 +12,7 @@ Link to an amendment published at 86 FR 11447, Feb. 25, 2021.Link to an amendmen
 
 (iii) To any telephone number assigned to a paging service, cellular telephone service, specialized mobile radio service, or other radio common carrier service, or any service for which the called party is charged for the call.
 
-(iv) A person will not be liable for violating the prohibition in paragraph (a)(1)(iii) of this section when the call is placed to a wireless number that has been ported from wireline service and such call is a voice call; not knowingly made to a wireless number; and made within 15 days of the porting of the number from wireline to wireless service, provided the number is not already on the national do-not-call registry or caller's company-specific do-not-call list.
+(iv) A person will not be liable for violating the prohibition in paragraph (a)(1)(iii) of this section when the call is placed to a wireless number that has been ported from wireline service and such call is a voice call; not knowingly made to a wireless number; and made within 15 days of the porting of the number from wireline to wireless service, provided the number is not already on the national do-not-call registry or caller's company-specific do-not-call list. A person will not be liable for violating the prohibition in paragraph (a)(1)(iii) of this section when making calls exempted by paragraph (a)(9) of this section.
 
 (2) Initiate, or cause to be initiated, any telephone call that includes or introduces an advertisement or constitutes telemarketing, using an automatic telephone dialing system or an artificial or prerecorded voice, to any of the lines or telephone numbers described in paragraphs (a)(1)(i) through (iii) of this section, other than a call made with the prior express written consent of the called party or the prior express consent of the called party when the call is made by or on behalf of a tax-exempt nonprofit organization, or a call that delivers a “health care” message made by, or on behalf of, a “covered entity” or its “business associate,” as those terms are defined in the HIPAA Privacy Rule, 45 CFR 160.103.
 
@@ -87,6 +87,74 @@ Link to an amendment published at 86 FR 11447, Feb. 25, 2021.Link to an amendmen
 (iv) Calls made by or on behalf of tax-exempt nonprofit organizations are not covered by this paragraph (a)(7).
 
 (8) Use any technology to dial any telephone number for the purpose of determining whether the line is a facsimile or voice line.
+
+(9) A person will not be liable for violating the prohibition in paragraph (a)(1)(iii) of this section for making any call exempted in this paragraph (a)(9), provided that the call is not charged to the called person or counted against the called person's plan limits on minutes or texts. As used in this paragraph (a)(9), the term “call” includes a text message, including a short message service (SMS) call.
+
+(i) Calls made by a package delivery company to notify a consumer about a package delivery, provided that all of the following conditions are met:
+
+(A) The notification must be sent only to the telephone number for the package recipient;
+
+(B) The notification must identify the name of the package delivery company and include contact information for the package delivery company;
+
+(C) The notification must not include any telemarketing, solicitation, or advertising content;
+
+(D) The voice call or text message notification must be concise, generally one minute or less in length for voice calls or 160 characters or less in length for text messages;
+
+(E) The package delivery company shall send only one notification (whether by voice call or text message) per package, except that one additional notification may be sent for each attempt to deliver the package, up to two attempts, if the recipient's signature is required for the package and the recipient was not available to sign for the package on the previous delivery attempt;
+
+(F) The package delivery company must offer package recipients the ability to opt out of receiving future delivery notification calls and messages and must honor an opt-out request within a reasonable time from the date such request is made, not to exceed 30 days; and,
+
+(G) Each notification must include information on how to opt out of future delivery notifications; voice call notifications that could be answered by a live person must include an automated, interactive voice- and/or key press-activated opt-out mechanism that enables the called person to make an opt-out request prior to terminating the call; voice call notifications that could be answered by an answering machine or voice mail service must include a toll-free number that the consumer can call to opt out of future package delivery notifications; text notifications must include the ability for the recipient to opt out by replying “STOP.”
+
+(ii) Calls made by an inmate collect call service provider following an unsuccessful collect call to establish a billing arrangement with the called party to enable future collect calls, provided that all of the following conditions are met:
+
+(A) Notifications must identify the name of the inmate collect call service provider and include contact information;
+
+(B) Notifications must not include any telemarketing, solicitation, debt collection, or advertising content;
+
+(C) Notifications must be clear and concise, generally one minute or less;
+
+(D) Inmate collect call service providers shall send no more than three notifications following each inmate collect call that is unsuccessful due to the lack of an established billing arrangement, and shall not retain the called party's number after call completion or, in the alternative, after the third notification attempt; and
+
+(E) Each notification call must include information on how to opt out of future calls; voice calls that could be answered by a live person must include an automated, interactive voice- and/or key press-activated opt-out mechanism that enables the called person to make an opt-out request prior to terminating the call; voice calls that could be answered by an answering machine or voice mail service must include a toll-free number that the consumer can call to opt out of future notification calls; and,
+
+(F) The inmate collect call service provider must honor opt-out requests immediately.
+
+(iii) Calls made by any financial institution as defined in section 4(k) of the Bank Holding Company Act of 1956, 15 U.S.C. 6809(3)(A), provided that all of the following conditions are met:
+
+(A) Voice calls and text messages must be sent only to the wireless telephone number provided by the customer of the financial institution;
+
+(B) Voice calls and text messages must state the name and contact information of the financial institution (for voice calls, these disclosures must be made at the beginning of the call);
+
+(C) Voice calls and text messages are strictly limited to those for the following purposes: transactions and events that suggest a risk of fraud or identity theft; possible breaches of the security of customers' personal information; steps consumers can take to prevent or remedy harm caused by data security breaches; and actions needed to arrange for receipt of pending money transfers;
+
+(D) Voice calls and text messages must not include any telemarketing, cross-marketing, solicitation, debt collection, or advertising content;
+
+(E) Voice calls and text messages must be concise, generally one minute or less in length for voice calls (unless more time is needed to obtain customer responses or answer customer questions) or 160 characters or less in length for text messages;
+
+(F) A financial institution may initiate no more than three messages (whether by voice call or text message) per event over a three-day period for an affected account;
+
+(G) A financial institution must offer recipients within each message an easy means to opt out of future such messages; voice calls that could be answered by a live person must include an automated, interactive voice- and/or key press-activated opt-out mechanism that enables the call recipient to make an opt-out request prior to terminating the call; voice calls that could be answered by an answering machine or voice mail service must include a toll-free number that the consumer can call to opt out of future calls; text messages must inform recipients of the ability to opt out by replying “STOP,” which will be the exclusive means by which consumers may opt out of such messages; and,
+
+(H) A financial institution must honor opt-out requests immediately.
+
+(iv) Calls made by, or on behalf of, healthcare providers, which include hospitals, emergency care centers, medical physician or service offices, poison control centers, and other healthcare professionals, provided that all of the following conditions are met:
+
+(A) Voice calls and text messages must be sent only to the wireless telephone number provided by the patient;
+
+(B) Voice calls and text messages must state the name and contact information of the healthcare provider (for voice calls, these disclosures would need to be made at the beginning of the call);
+
+(C) Voice calls and text messages are strictly limited to those for the following purposes: appointment and exam confirmations and reminders, wellness checkups, hospital pre-registration instructions, pre-operative instructions, lab results, post-discharge follow-up intended to prevent readmission, prescription notifications, and home healthcare instructions;
+
+(D) Voice calls and text messages must not include any telemarketing, solicitation, or advertising; may not include accounting, billing, debt-collection, or other financial content; and must comply with HIPAA privacy rules, 45 CFR 160.103;
+
+(E) Voice calls and text messages must be concise, generally one minute or less in length for voice calls or 160 characters or less in length for text messages;
+
+(F) A healthcare provider may initiate only one message (whether by voice call or text message) per day to each patient, up to a maximum of three voice calls or text messages combined per week to each patient;
+
+(G) A healthcare provider must offer recipients within each message an easy means to opt out of future such messages; voice calls that could be answered by a live person must include an automated, interactive voice- and/or key press-activated opt-out mechanism that enables the call recipient to make an opt-out request prior to terminating the call; voice calls that could be answered by an answering machine or voice mail service must include a toll-free number that the consumer can call to opt out of future healthcare calls; text messages must inform recipients of the ability to opt out by replying “STOP,” which will be the exclusive means by which consumers may opt out of such messages; and,
+
+(H) A healthcare provider must honor opt-out requests immediately.
 
 (b) All artificial or prerecorded voice telephone messages shall:
 
@@ -260,4 +328,4 @@ The requirement in paragraph 64.1200(c)(2)(i)(D) for persons or entities to empl
 
 (2) The person's call to the number was the result of the database erroneously returning a response of “no” to the person's query consisting of the number for which prior express consent was obtained as required in paragraph (a)(1), (2), or (3) of this section and the date on which such prior express consent was obtained.
 
-[68 FR 44177, July 25, 2003, as amended at 68 FR 59131, Oct. 14, 2003; 69 FR 60316, Oct. 8, 2004; 70 FR 19337, Apr. 13, 2005; 71 FR 25977, May 3, 2006; 71 FR 56893, Sept. 28, 2006; 71 FR 75122, Dec. 14, 2006; 73 FR 40185, July 14, 2008; 77 FR 34246, June 11, 2012; 83 FR 1577, Jan. 12, 2018; 84 FR 10267, Mar. 20, 2019; 84 FR 11232, Mar. 26, 2019; 85 FR 56534, Sept. 14, 2020; 86 FR 2563, Jan. 13, 2021]
+[68 FR 44177, July 25, 2003, as amended at 68 FR 59131, Oct. 14, 2003; 69 FR 60316, Oct. 8, 2004; 70 FR 19337, Apr. 13, 2005; 71 FR 25977, May 3, 2006; 71 FR 56893, Sept. 28, 2006; 71 FR 75122, Dec. 14, 2006; 73 FR 40185, July 14, 2008; 77 FR 34246, June 11, 2012; 83 FR 1577, Jan. 12, 2018; 84 FR 10267, Mar. 20, 2019; 84 FR 11232, Mar. 26, 2019; 85 FR 56534, Sept. 14, 2020; 86 FR 2563, Jan. 13, 2021; 86 FR 11447, Feb. 25, 2021]
