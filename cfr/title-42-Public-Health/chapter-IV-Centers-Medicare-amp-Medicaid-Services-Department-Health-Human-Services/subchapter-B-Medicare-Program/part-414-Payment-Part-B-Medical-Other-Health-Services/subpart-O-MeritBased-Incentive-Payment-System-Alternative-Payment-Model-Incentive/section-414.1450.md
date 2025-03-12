@@ -1,7 +1,5 @@
 ##### § 414.1450 APM incentive payment. #####
 
-Link to an amendment published at 87 FR 70230, Nov. 18, 2022.
-
 (a) *In general.* (1) CMS makes a lump sum payment to QPs in the amount described in paragraph (b) of this section in the manner described in paragraphs (d) and (e) of this section.
 
 (2) CMS provides notice of the amount of the APM Incentive Payment to QPs as soon as practicable following the calculation and validation of the APM Incentive Payment amount, but in any event no later than 1 year after the incentive payment base period.
@@ -46,7 +44,7 @@ Link to an amendment published at 87 FR 70230, Nov. 18, 2022.
 
 (7) Any TIN associated with the QP that submitted a claim for covered professional services furnished by the QP during the APM Incentive Payment base period, even if such TIN has no relationship to any APM Entity or APM; then
 
-(8) If we have not identified any TIN associated with the QP to which we can make the APM Incentive Payment, we will attempt to contact the QP via a public notice to request their Medicare payment information. The QPs identified in the public notice, or any other eligible clinicians who believe that they are entitled to an APM Incentive Payment must then notify CMS of their claim as directed in the public notice by November 1 of the payment year, or 60 days after CMS announces that initial payments for the year have been made, whichever is later. After that time, any claims by a QP to an APM Incentive Payment will be forfeited for such payment year.
+(8) If we have not identified any TIN associated with the QP to which we can make the APM Incentive Payment, we will attempt to contact the QP via a public notice to request their Medicare payment information. The QPs identified in the public notice, or any other eligible clinicians who believe that they are entitled to an APM Incentive Payment must then notify CMS of their claim as directed in the public notice by September 1 of the payment year, or 60 days after CMS announces that initial payments for the year have been made, whichever is later. After that time, any claims by a QP to an APM Incentive Payment will be forfeited for such payment year.
 
 (d) *Timing of the APM Incentive Payment.* APM Incentive Payments made under this section are made as soon as practicable following the calculation and validation of the APM Incentive Payment amount, but in any event no later than 1 year after the incentive payment base period.
 
@@ -56,4 +54,4 @@ Link to an amendment published at 87 FR 70230, Nov. 18, 2022.
 
 (f) *Treatment of APM Incentive Payment for other Medicare incentive payments and payment adjustments.* APM Incentive Payments made under this section will not be included in determining the amount of incentive payment made to eligible clinicians under section 1833(m), (x), and (y) of the Act.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 85 FR 85035, Dec. 28, 2020; 86 FR 65681, Nov. 19, 2021]
+[81 FR 77537, Nov. 4, 2016, as amended at 85 FR 85035, Dec. 28, 2020; 86 FR 65681, Nov. 19, 2021; 87 FR 70230, Nov. 18, 2022]

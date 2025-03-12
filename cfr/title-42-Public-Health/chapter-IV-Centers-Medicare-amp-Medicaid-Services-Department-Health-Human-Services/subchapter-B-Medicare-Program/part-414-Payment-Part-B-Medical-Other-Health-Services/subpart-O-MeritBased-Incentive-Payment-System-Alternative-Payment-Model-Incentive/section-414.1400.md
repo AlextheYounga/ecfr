@@ -1,7 +1,5 @@
 ##### § 414.1400 Third party intermediaries. #####
 
-Link to an amendment published at 87 FR 70229, Nov. 18, 2022.
-
 (a) *General.* (1) MIPS data may be submitted on behalf of a MIPS eligible clinician, group, virtual group, subgroup, or APM Entity by any of the following third party intermediaries:
 
 (i) QCDR;
@@ -12,7 +10,7 @@ Link to an amendment published at 87 FR 70229, Nov. 18, 2022.
 
 (iv) CMS-approved survey vendor.
 
-(2) Third party intermediary approval criteria -
+(2) Third party intermediary approval criteria—
 
 (i) To be approved as a third party intermediary, an entity must agree to meet the applicable requirements of this section, including, but not limited to, the following:
 
@@ -38,7 +36,7 @@ Link to an amendment published at 87 FR 70229, Nov. 18, 2022.
 
 (3) All data submitted to CMS by a third party intermediary on behalf of a MIPS eligible clinician, group, virtual group, subgroup, or APM Entity must be certified by the third party intermediary as true, accurate, and complete to the best of its knowledge. Such certification must be made in a form and manner and at such time as specified by CMS.
 
-(b) *Additional requirements for QCDRs and qualified registries* - (1) *General.* (i) Beginning with the CY 2021 performance period/2023 MIPS payment year, QCDRs and qualified registries must be able to submit data for all of the following MIPS performance categories:
+(b) *Additional requirements for QCDRs and qualified registries*—(1) *General.* (i) Beginning with the CY 2021 performance period/2023 MIPS payment year, QCDRs and qualified registries must be able to submit data for all of the following MIPS performance categories:
 
 (A) Quality, except:
 
@@ -108,11 +106,11 @@ Link to an amendment published at 87 FR 70229, Nov. 18, 2022.
 
 (viii) Beginning with the CY 2024 performance period/2026 MIPS payment year, a QCDR or qualified registry that was approved but did not submit any MIPS data for either of the 2 years preceding the applicable self-nomination period must submit a participation plan for CMS' approval. This participation plan must include the QCDR's and/or qualified registry's detailed plans about how the QCDR or qualified registry intends to encourage clinicians to submit MIPS data to CMS through the QCDR or qualified registry.
 
-(4) *QCDR measures for the quality performance category* - (i) *QCDR measure self-nomination requirements.* For the CY 2018 performance period/2020 MIPS payment year and future years, at the time of self-nomination an entity seeking to become a QCDR must submit the following information for any measure it intends to submit for the payment year.
+(4) *QCDR measures for the quality performance category*—(i) *QCDR measure self-nomination requirements.* For the CY 2018 performance period/2020 MIPS payment year and future years, at the time of self-nomination an entity seeking to become a QCDR must submit the following information for any measure it intends to submit for the payment year.
 
 (A) For MIPS quality measures, the entity must submit specifications including the MIPS measure IDs and specialty-specific measure sets, as applicable.
 
-(B) For QCDR measures, the entity must submit for CMS-approval measure specifications including: Name/title of measures, NQF number (if NQF- endorsed), descriptions of the denominator, numerator, and when applicable, denominator exceptions, denominator exclusions, risk adjustment variables, and risk adjustment algorithms. In addition, no later than 15 calendar days following CMS approval of any QCDR measure specifications, the entity must publicly post the measure specifications for that QCDR measure (including the CMS- assigned QCDR measure ID) and provide CMS with a link to where this information is posted.
+(B) For a QCDR measure, the entity must submit for CMS approval measure specifications including: Name/title of measure, NQF number (if NQF-endorsed), descriptions of the denominator, numerator, and when applicable, denominator exceptions, denominator exclusions, risk adjustment variables, and risk adjustment algorithms. In addition, no later than 15 calendar days following CMS posting of all approved specifications for a QCDR measure, the entity must publicly post the CMS-approved measure specifications for the QCDR measure (including the CMS-assigned QCDR measure ID) and provide CMS with a link to where this information is posted.
 
 (ii) *QCDR measure submission requirements.* A QCDR must include the CMS-assigned QCDR measure ID when submitting data on any QCDR measure to CMS.
 
@@ -122,11 +120,7 @@ Link to an amendment published at 87 FR 70229, Nov. 18, 2022.
 
 (*2*) QCDR measures that address significant variation in performance.
 
-(*3*) Beginning with the CY 2022 performance period/2024 MIPS payment year, all QCDR measures must meet face validity. To be approved for the CY 2023 performance period/2025 MIPS payment year, all QCDR measures must meet face validity for the initial MIPS payment year for which it is approved. For subsequent years after being initially approved, all QCDR measures must be fully developed and tested, with complete testing results at the clinician level, prior to submitting the QCDR measure at the time of self-nomination.
-
-(*i*) To be included in an MVP for the CY 2022 performance period/2024 MIPS payment year and future years, a QCDR measure must be fully tested.
-
-(*ii*) [Reserved]
+(*3*) Beginning with the CY 2022 performance period/2024 MIPS payment year, CMS may approve a QCDR measure only if the QCDR measure meets face validity. Beginning with the CY 2024 performance period/2026 MIPS payment year, a QCDR measure approved for a previous performance year must be fully developed and tested, with complete testing results at the clinician level, prior to self-nomination.
 
 (*4*) Beginning with the CY 2022 performance period/2023 MIPS payment year, QCDRs are required to collect data on a QCDR measure, appropriate to the measure type, prior to submitting the QCDR measure for CMS consideration during the self-nomination period.
 
@@ -256,15 +250,17 @@ Link to an amendment published at 87 FR 70229, Nov. 18, 2022.
 
 (A) The issues that contributed to the non-compliance.
 
-(B) The impact to individual clinicians, groups, or virtual groups, regardless of whether they are participating in the program because they are MIPS eligible, voluntary participating, or opting in to participating in the MIPS program.
+(B) The impact to individual clinicians, groups, virtual groups, subgroups, or APM Entities, regardless of whether they are participating in the program because they are MIPS eligible, voluntarily participating, or opting in to participating in the MIPS program, and any QCDRs that were granted licenses to the measures of a QCDR upon which a CAP has been imposed.
 
 (C) The corrective actions to be implemented by the third party intermediary to ensure that the non-compliance has been resolved and will not recur in the future.
 
 (D) The detailed timeline for achieving compliance with the applicable requirements.
 
+(E) The communication plan for communicating the impact to the parties identified in paragraph (e)(1)(i)(B) of this section.
+
 (ii) Publicly disclose the entity's data error rate on the CMS website until the data error rate falls below 3 percent.
 
-(2) CMS may immediately or with advance notice terminate the ability of a third party intermediary to submit MIPS data on behalf of a MIPS eligible clinician, group, or virtual group for one or more of the following reasons:
+(2) CMS may immediately or with advance notice terminate a third party intermediary for one or more of the following reasons:
 
 (i) CMS has grounds to impose remedial action;
 
@@ -272,7 +268,7 @@ Link to an amendment published at 87 FR 70229, Nov. 18, 2022.
 
 (iii) The third party intermediary fails to correct the deficiencies or data errors by the date specified by CMS.
 
-(3) Contains data inaccuracies affecting the third party intermediary's total clinicians may lead to remedial action/termination of the third party intermediary for future program year(s) based on CMS discretion.
+(3) A data submission that contains data inaccuracies affecting the third party intermediary's total clinicians may lead to remedial action/termination of the third party intermediary for future program year(s) based on CMS discretion.
 
 (4) For purposes of this paragraph (e), CMS may determine that submitted data are inaccurate, unusable, or otherwise compromised, including but not limited to, if the submitted data:
 
@@ -280,12 +276,14 @@ Link to an amendment published at 87 FR 70229, Nov. 18, 2022.
 
 (ii) [Reserved]
 
+(5) Beginning with the CY 2024 performance period/2026 MIPS payment year, a QCDR or qualified registry that submits a participation plan as required under paragraph (b)(3)(viii) of this section, but does not submit MIPS data for the applicable performance period for which they self-nominated under paragraph (b)(3)(viii) of this section, will be terminated.
+
 (f) *Auditing of entities submitting MIPS data.* Any third party intermediary must comply with the following procedures as a condition of its qualification and approval to participate in MIPS as a third party intermediary.
 
-(1) The entity must make available to CMS the contact information of each MIPS eligible clinician or group on behalf of whom it submits data. The contact information must include, at a minimum, the MIPS eligible clinician or group's practice phone number, address, and, if available, email.
+(1) The entity must make available to CMS the contact information of each MIPS eligible clinician, group, virtual group, subgroup, or APM Entity on behalf of whom it submits data. The contact information must include, at a minimum, the MIPS eligible clinician, group, virtual group, subgroup, or APM Entity phone number, address, and, if available, email.
 
 (2) The entity must retain all data submitted to CMS for purposes of MIPS for 6 years from the end of the MIPS performance period.
 
 (3) For the purposes of auditing, CMS may request any records or data retained for the purposes of MIPS for up to 6 years from the end of the MIPS performance period.
 
-[86 FR 65677, Nov. 19, 2021]
+[86 FR 65677, Nov. 19, 2021, as amended at 87 FR 70229, Nov. 18, 2022]

@@ -1,7 +1,5 @@
 ##### § 411.351 Definitions. #####
 
-Link to an amendment published at 87 FR 72285, Nov. 23, 2022.
-
 The definitions in this subpart apply only for purposes of section 1877 of the Act and this subpart. As used in this subpart, unless the context indicates otherwise:
 
 *Centralized building* means all or part of a building, including, for purposes of this subpart only, a mobile vehicle, van, or trailer that is owned or leased on a full-time basis (that is, 24 hours per day, 7 days per week, for a term of not less than 6 months) by a group practice and that is used exclusively by the group practice. Space in a building or a mobile vehicle, van, or trailer that is shared by more than one group practice, by a group practice and one or more solo practitioners, or by a group practice and another provider or supplier (for example, a diagnostic imaging facility) is not a centralized building for purposes of this subpart. This provision does not preclude a group practice from providing services to other providers or suppliers (for example, purchased diagnostic tests) in the group practice's centralized building. A group practice may have more than one centralized building.
@@ -54,7 +52,7 @@ The definitions in this subpart apply only for purposes of section 1877 of the A
 
 (iv) Long-Term Care Hospital (LTCH PPS).
 
-*Does not violate the anti-kickback statute,* as used in this subpart only, means that the particular arrangement -
+*Does not violate the anti-kickback statute,* as used in this subpart only, means that the particular arrangement—
 
 (1)(i) Meets a safe harbor under the anti-kickback statute, as set forth at § 1001.952 of this title, “Exceptions”;
 
@@ -62,7 +60,7 @@ The definitions in this subpart apply only for purposes of section 1877 of the A
 
 (iii) Does not violate the anti-kickback provisions in section 1128B(b) of the Act.
 
-(2) For purposes of this definition, a favorable advisory opinion means an opinion in which the OIG opines that -
+(2) For purposes of this definition, a favorable advisory opinion means an opinion in which the OIG opines that—
 
 (i) The party's specific arrangement does not implicate the anti-kickback statute, does not constitute prohibited remuneration, or fits in a safe harbor under § 1001.952 of this title; or
 
@@ -76,9 +74,9 @@ The definitions in this subpart apply only for purposes of section 1877 of the A
 
 *Employee* means any individual who, under the common law rules that apply in determining the employer-employee relationship (as applied for purposes of section 3121(d)(2) of the Internal Revenue Code of 1986), is considered to be employed by, or an employee of, an entity. (Application of these common law rules is discussed in 20 CFR 404.1007 and 26 CFR 31.3121(d)-1(c).)
 
-*Entity* means -
+*Entity* means—
 
-(1) A physician's sole practice or a practice of multiple physicians or any other person, sole proprietorship, public or private agency or trust, corporation, partnership, limited liability company, foundation, nonprofit corporation, or unincorporated association that furnishes DHS. An entity does not include the referring physician himself or herself, but does include his or her medical practice. A person or entity is considered to be furnishing DHS if it -
+(1) A physician's sole practice or a practice of multiple physicians or any other person, sole proprietorship, public or private agency or trust, corporation, partnership, limited liability company, foundation, nonprofit corporation, or unincorporated association that furnishes DHS. An entity does not include the referring physician himself or herself, but does include his or her medical practice. A person or entity is considered to be furnishing DHS if it—
 
 (i) Is the person or entity that has performed services that are billed as DHS; or
 
@@ -88,7 +86,7 @@ The definitions in this subpart apply only for purposes of section 1877 of the A
 
 (3) For purposes of this subpart, “entity” does not include a physician's practice when it bills Medicare for the technical component or professional component of a diagnostic test for which the anti-markup provision is applicable in accordance with § 414.50 of this chapter and Pub. 100-04, Medicare Claims Processing Manual, Chapter 1, Section 30.2.9.
 
-*Fair market value* means -
+*Fair market value* means—
 
 (1) *General.* The value in an arm's-length transaction, consistent with the general market value of the subject transaction.
 
@@ -96,7 +94,7 @@ The definitions in this subpart apply only for purposes of section 1877 of the A
 
 (3) *Rental of office space.* With respect to the rental of office space, the value in an arm's-length transaction of rental property for general commercial purposes (not taking into account its intended use), without adjustment to reflect the additional value the prospective lessee or lessor would attribute to the proximity or convenience to the lessor where the lessor is a potential source of patient referrals to the lessee, and consistent with the general market value of the subject transaction.
 
-*General market value* means -
+*General market value* means—
 
 (1) *Assets.* With respect to the purchase of an asset, the price that an asset would bring on the date of acquisition of the asset as the result of *bona fide* bargaining between a well-informed buyer and seller that are not otherwise in a position to generate business for each other.
 
@@ -116,13 +114,13 @@ The definitions in this subpart apply only for purposes of section 1877 of the A
 
 *Inpatient hospital services* means those services defined in section 1861(b) of the Act and § 409.10(a) and (b) of this chapter and include inpatient psychiatric hospital services listed in section 1861(c) of the Act and inpatient critical access hospital services, as defined in section 1861(mm)(2) of the Act. “Inpatient hospital services” do not include emergency inpatient services provided by a hospital located outside of the U.S. and covered under the authority in section 1814(f)(2) of the Act and part 424, subpart H of this chapter, or emergency inpatient services provided by a nonparticipating hospital within the U.S., as authorized by section 1814(d) of the Act and described in part 424, subpart G of this chapter. “Inpatient hospital services” also do not include dialysis furnished by a hospital that is not certified to provide end-stage renal dialysis (ESRD) services under subpart U of part 405 of this chapter. “Inpatient hospital services” include services that are furnished either by the hospital directly or under arrangements made by the hospital with others. “Inpatient hospital services” do not include professional services performed by physicians, physician assistants, nurse practitioners, clinical nurse specialists, certified nurse midwives, and certified registered nurse anesthetists and qualified psychologists if Medicare reimburses the services independently and not as part of the inpatient hospital service (even if they are billed by a hospital under an assignment or reassignment).
 
-*Interoperable* means -
+*Interoperable* means—
 
 (1) Able to securely exchange data with and use data from other health information technology; and
 
 (2) Allows for complete access, exchange, and use of all electronically accessible health information for authorized use under applicable State or Federal law.
 
-*Isolated financial transaction* - (1) Isolated financial transaction means a one-time transaction involving a single payment between two or more persons or a one-time transaction that involves integrally related installment payments, provided that -
+*Isolated financial transaction*—(1) Isolated financial transaction means a one-time transaction involving a single payment between two or more persons or a one-time transaction that involves integrally related installment payments, provided that—
 
 (i) The total aggregate payment is fixed before the first payment is made and does not take into account the volume or value of referrals or other business generated by the physician; and
 
@@ -152,7 +150,7 @@ The definitions in this subpart apply only for purposes of section 1877 of the A
 
 *Physical therapy, occupational therapy, and outpatient speech-language pathology services* means those particular services so identified on the List of CPT/HCPCS Codes. All services so identified on the List of CPT/HCPCS Codes are physical therapy, occupational therapy, and outpatient speech-language pathology services for purposes of this subpart. Any service not specifically identified as physical therapy, occupational therapy or outpatient speech-language pathology on the List of CPT/HCPCS Codes is not a physical therapy, occupational therapy, or outpatient speech-language pathology service for purposes of this subpart. The list of codes identifying physical therapy, occupational therapy, and outpatient speech-language pathology services for purposes of this regulation includes the following:
 
-(1) *Physical therapy services,* meaning those outpatient physical therapy services described in section 1861(p) of the Act that are covered under Medicare Part A or Part B, regardless of who provides them, if the services include -
+(1) *Physical therapy services,* meaning those outpatient physical therapy services described in section 1861(p) of the Act that are covered under Medicare Part A or Part B, regardless of who provides them, if the services include—
 
 (i) Assessments, function tests, and measurements of strength, balance, endurance, range of motion, and activities of daily living;
 
@@ -160,7 +158,7 @@ The definitions in this subpart apply only for purposes of section 1877 of the A
 
 (iii) Establishment of a maintenance therapy program for an individual whose restoration potential has been reached; however, maintenance therapy itself is not covered as part of these services.
 
-(2) *Occupational therapy services,* meaning those services described in section 1861(g) of the Act that are covered under Medicare Part A or Part B, regardless of who provides them, if the services include -
+(2) *Occupational therapy services,* meaning those services described in section 1861(g) of the Act that are covered under Medicare Part A or Part B, regardless of who provides them, if the services include—
 
 (i) Teaching of compensatory techniques to permit an individual with a physical or cognitive impairment or limitation to engage in daily activities;
 
@@ -196,11 +194,11 @@ The definitions in this subpart apply only for purposes of section 1877 of the A
 
 *Radiation therapy services and supplies* means those particular services and supplies, including (effective January 1, 2007) therapeutic nuclear medicine services and supplies, so identified on the List of CPT/HCPCS Codes. All services and supplies so identified on the List of CPT/HCPCS Codes are radiation therapy services and supplies for purposes of this subpart. Any service or supply not specifically identified as radiation therapy services or supplies on the List of CPT/HCPCS Codes is not a radiation therapy service or supply for purposes of this subpart. The list of codes identifying radiation therapy services and supplies is based on section 1861(s)(4) of the Act and § 410.35 of this chapter.
 
-*Radiology and certain other imaging services* means those particular services so identified on the List of CPT/HCPCS Codes. All services identified on the List of CPT/HCPCS Codes are radiology and certain other imaging services for purposes of this subpart. Any service not specifically identified as radiology and certain other imaging services on the List of CPT/HCPCS Codes is not a radiology or certain other imaging service for purposes of this subpart. The list of codes identifying radiology and certain other imaging services includes the professional and technical components of any diagnostic test or procedure using x-rays, ultrasound, computerized axial tomography, magnetic resonance imaging, nuclear medicine (effective January 1, 2007), or other imaging services. All codes identified as radiology and certain other imaging services are covered under section 1861(s)(3) of the Act and §§ 410.32 and 410.34 of this chapter, but do not include -
+*Radiology and certain other imaging services* means those particular services so identified on the List of CPT/HCPCS Codes. All services identified on the List of CPT/HCPCS Codes are radiology and certain other imaging services for purposes of this subpart. Any service not specifically identified as radiology and certain other imaging services on the List of CPT/HCPCS Codes is not a radiology or certain other imaging service for purposes of this subpart. The list of codes identifying radiology and certain other imaging services includes the professional and technical components of any diagnostic test or procedure using x-rays, ultrasound, computerized axial tomography, magnetic resonance imaging, nuclear medicine (effective January 1, 2007), or other imaging services. All codes identified as radiology and certain other imaging services are covered under section 1861(s)(3) of the Act and §§ 410.32 and 410.34 of this chapter, but do not include—
 
 (1) X-ray, fluoroscopy, or ultrasound procedures that require the insertion of a needle, catheter, tube, or probe through the skin or into a body orifice;
 
-(2) Radiology or certain other imaging services that are integral to the performance of a medical procedure that is not identified on the list of CPT/HCPCS codes as a radiology or certain other imaging service and is performed -
+(2) Radiology or certain other imaging services that are integral to the performance of a medical procedure that is not identified on the list of CPT/HCPCS codes as a radiology or certain other imaging service and is performed—
 
 (i) Immediately prior to or during the medical procedure; or
 
@@ -208,7 +206,7 @@ The definitions in this subpart apply only for purposes of section 1877 of the A
 
 (3) Radiology and certain other imaging services that are “covered ancillary services,” as defined at § 416.164(b), for which separate payment is made to an ASC.
 
-*Referral* -
+*Referral*—
 
 (1) Means either of the following:
 
@@ -216,7 +214,7 @@ The definitions in this subpart apply only for purposes of section 1877 of the A
 
 (ii) Except as provided in paragraph (2) of this definition, a request by a physician that includes the provision of any designated health service for which payment may be made under Medicare, the establishment of a plan of care by a physician that includes the provision of such a designated health service, or the certifying or recertifying of the need for such a designated health service, but not including any designated health service personally performed or provided by the referring physician. A designated health service is not personally performed or provided by the referring physician if it is performed or provided by any other person including, but not limited to, the referring physician's employees, independent contractors, or group practice members.
 
-(2) Does not include a request by a pathologist for clinical diagnostic laboratory tests and pathological examination services, by a radiologist for diagnostic radiology services, and by a radiation oncologist for radiation therapy or ancillary services necessary for, and integral to, the provision of radiation therapy, if -
+(2) Does not include a request by a pathologist for clinical diagnostic laboratory tests and pathological examination services, by a radiologist for diagnostic radiology services, and by a radiation oncologist for radiation therapy or ancillary services necessary for, and integral to, the provision of radiation therapy, if—
 
 (i) The request results from a consultation initiated by another physician (whether the request for a consultation was made to a particular physician or to an entity with which the physician is affiliated); and
 
@@ -246,7 +244,7 @@ The definitions in this subpart apply only for purposes of section 1877 of the A
 
 (vi) Communicating the results of tests or procedures for the entity furnishing the items, devices or supplies.
 
-(3) A payment made by an insurer or a self-insured plan (or a subcontractor of the insurer or self-insured plan) to a physician to satisfy a claim, submitted on a fee-for-service basis, for the furnishing of health services by that physician to an individual who is covered by a policy with the insurer or by the self-insured plan, if -
+(3) A payment made by an insurer or a self-insured plan (or a subcontractor of the insurer or self-insured plan) to a physician to satisfy a claim, submitted on a fee-for-service basis, for the furnishing of health services by that physician to an individual who is covered by a policy with the insurer or by the self-insured plan, if—
 
 (i) The health services are not furnished, and the payment is not made, under a contract or other arrangement between the insurer or the self-insured plan (or a subcontractor of the insurer or self-insured plan) and the physician;
 
@@ -254,9 +252,9 @@ The definitions in this subpart apply only for purposes of section 1877 of the A
 
 (iii) The amount of the payment is set in advance, does not exceed fair market value, and is not determined in any manner that takes into account the volume or value of referrals.
 
-*Rural area* means an area that is not an urban area as defined at § 412.62(f)(1)(ii) of this chapter.
+Rural area means an area that is not an urban area as defined at § 412.64(b) of this chapter.
 
-*Same building* means a structure with, or combination of structures that share, a single street address as assigned by the U.S. Postal Service, excluding all exterior spaces (for example, lawns, courtyards, driveways, parking lots) and interior loading docks or parking garages. For purposes of this section, the “same building” does not include a mobile vehicle, van, or trailer.
+Rural emergency hospital has the meaning set forth in section 1861(kkk)(2) of the Act and § 419.91 of this chapter.
 
 *Specialty hospital* means:
 
@@ -270,7 +268,7 @@ The definitions in this subpart apply only for purposes of section 1877 of the A
 
 (iv) Any other specialized category of services that the Secretary designates as inconsistent with the purpose of permitting physician ownership and investment interests in a hospital.
 
-(2) A “specialty hospital” does not include any hospital -
+(2) A “specialty hospital” does not include any hospital—
 
 (i) Determined by the Secretary to be in operation before or under development as of November 18, 2003;
 
@@ -282,7 +280,7 @@ The definitions in this subpart apply only for purposes of section 1877 of the A
 
 (v) That meets such other requirements as the Secretary may specify.
 
-*Target patient population* means an identified patient population selected by a value-based enterprise or its VBE participants based on legitimate and verifiable criteria that -
+*Target patient population* means an identified patient population selected by a value-based enterprise or its VBE participants based on legitimate and verifiable criteria that—
 
 (1) Are set out in writing in advance of the commencement of the value-based arrangement; and
 
@@ -298,13 +296,13 @@ The definitions in this subpart apply only for purposes of section 1877 of the A
 
 (3) The refraining from taking an action.
 
-*Value-based arrangement* means an arrangement for the provision of at least one value-based activity for a target patient population to which the only parties are -
+*Value-based arrangement* means an arrangement for the provision of at least one value-based activity for a target patient population to which the only parties are—
 
 (1) The value-based enterprise and one or more of its VBE participants; or
 
 (2) VBE participants in the same value-based enterprise.
 
-*Value-based enterprise (VBE)* means two or more VBE participants -
+*Value-based enterprise (VBE)* means two or more VBE participants—
 
 (1) Collaborating to achieve at least one value-based purpose;
 
@@ -326,4 +324,4 @@ The definitions in this subpart apply only for purposes of section 1877 of the A
 
 *VBE participant* means a person or entity that engages in at least one value-based activity as part of a value-based enterprise.
 
-[85 FR 77656, Dec. 2, 2020, as amended at 86 FR 65667, Nov. 19, 2021]
+[85 FR 77656, Dec. 2, 2020, as amended at 86 FR 65667, Nov. 19, 2021; 87 FR 72285, Nov. 23, 2022]

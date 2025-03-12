@@ -60,7 +60,7 @@ KA = (1−W) × KG + (0.5 × W)
 
 (3) The risk weight for the exposure (expressed as a percent) is equal to *K*SSFA*× 1,250.*
 
-(e) *Gross-up approach* - (1) *Applicability.* A System institution may apply the gross-up approach set forth in this section instead of the SSFA to determine the risk weight of its securitization exposures, provided that it applies the gross-up approach to all of its securitization exposures, except as otherwise provided for certain securitization exposures in §§ 628.44 and 628.45.
+(e) *Gross-up approach*—(1) *Applicability.* A System institution may apply the gross-up approach set forth in this section instead of the SSFA to determine the risk weight of its securitization exposures, provided that it applies the gross-up approach to all of its securitization exposures, except as otherwise provided for certain securitization exposures in §§ 628.44 and 628.45.
 
 (2) To use the gross-up approach, a System institution must calculate the following four inputs:
 

@@ -1,8 +1,6 @@
 ##### § 406.33 Determination of months to be counted for premium increase: Enrollment. #####
 
-Link to an amendment published at 87 FR 66505, Nov. 3, 2022.
-
-(a) *Enrollment before April 1, 1981, or after September 30, 1981.* The months to be counted for premium increase are the months from the end of the initial enrollment period through the end of the general enrollment period, the special enrollment period, or the transfer enrollment period in which the individual enrolls, excluding the following:
+(a) *Enrollment before April 1, 1981 or after September 30, 1981 and before January 1, 2023.* The months to be counted for premium increase are the months from the end of the initial enrollment period through the end of the general enrollment period, the special enrollment period, or the transfer enrollment period in which the individual enrolls, excluding the following:
 
 (1) Any months before September 1973.
 
@@ -18,7 +16,13 @@ Link to an amendment published at 87 FR 66505, Nov. 3, 2022.
 
 (b) *Enrollment during the period April 1 through September 30, 1981.* The months to be counted for premium increase are the months from the end of the initial enrollment period through the month in which the individual enrolled, excluding any months before September 1973.
 
-(c) *Examples.* (1) John F's initial enrollment period ended July 1979 but he did not enroll until January 1980. The months to be counted are August 1979 through March 1980. Since only 8 months elapsed, there is no premium increase.
+(c) *Enrollment on or after January 1, 2023.* The months to be counted for premium increase are the months from the end of the initial enrollment period through the end of the month in which the individual enrolls, excluding both of the following:
+
+(1) The months described in paragraphs (a)(1) through (6) of this section.
+
+(2) Any months of non-coverage in accordance with an individual's use of an exceptional conditions SEP under § 406.27 provided the individual enrolls within the duration of the SEP.
+
+(d) *Examples.* (1) John F's initial enrollment period ended July 1979 but he did not enroll until January 1980. The months to be counted are August 1979 through March 1980. Since only 8 months elapsed, there is no premium increase.
 
 (2) Mary T's initial enrollment period ended in April 1980 but she did not enroll until May 1981. The months to be counted are May 1980 through May 1981. Since 13 months has elapsed, the premium would be increased by 10 percent.
 
@@ -28,4 +32,4 @@ Link to an amendment published at 87 FR 66505, Nov. 3, 2022.
 
 (5) Terry P enrolled in the 1987 general enrollment period, with coverage effective July 1987. There were 28 months after the end of his initial enrollment period through the end of the 1987 general enrollment period. His premium is increased by 10 percent. The increase will be eliminated after he has paid the additional 10 percent for 48 months.
 
-[48 FR 12536, Mar. 25, 1983. Redesignated at 51 FR 41338, Nov. 14, 1986, as amended at 53 FR 47203, Nov. 22, 1988. Further redesignated and amended at 57 FR 36014, Aug. 12, 1992; 73 FR 36468, June 27, 2008]
+[48 FR 12536, Mar. 25, 1983. Redesignated at 51 FR 41338, Nov. 14, 1986, as amended at 53 FR 47203, Nov. 22, 1988. Further redesignated and amended at 57 FR 36014, Aug. 12, 1992; 73 FR 36468, June 27, 2008; 87 FR 66505, Nov. 3, 2022]

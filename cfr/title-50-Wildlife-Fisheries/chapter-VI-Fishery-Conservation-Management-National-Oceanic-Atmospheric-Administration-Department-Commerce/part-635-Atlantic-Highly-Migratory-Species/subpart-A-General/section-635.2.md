@@ -1,7 +1,5 @@
 ##### § 635.2 Definitions. #####
 
-Link to an amendment published at 87 FR 59997, Oct. 3, 2022.
-
 In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 of this chapter, the terms used in this part have following meanings. If applicable, the terms used in this part supercede those used in § 600.10:
 
 *Archival tag* means a device that is implanted or affixed to a fish to electronically record scientific information about the migratory behavior of that fish.
@@ -20,6 +18,8 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *BAYS* means Atlantic bigeye, albacore, yellowfin, and skipjack tunas as defined in § 600.10 of this part.
 
+*BFT* means Atlantic bluefin tuna as defined in § 600.10 of this chapter.
+
 *BFT landings quota* means the portion of the ICCAT BFT catch quota allocated to the United States against which landings of BFT are counted.
 
 *Bottom longline* means a longline that is deployed with enough weights and/or anchors to maintain contact with the ocean bottom. For the purposes of this part, a vessel is considered to have bottom longline gear on board when a power-operated longline hauler, a mainline, weights and/or anchors capable of maintaining contact between the mainline and the ocean bottom, and leaders (gangions) with hooks are on board. Removal of any of these elements constitutes removal of bottom longline gear. Bottom longline vessels may have a limited number of floats and/or high flyers onboard for the purposes of marking the location of the gear but removal of these floats does not constitute removal of bottom longline gear.
@@ -30,7 +30,7 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *Caudal keel* means the horizontal ridges along each side of a fish at the base of the tail fin.
 
-*CFL* (curved fork length) means the length of a fish measured from the tip of the upper jaw to the fork of the tail along the contour of the body in a line that runs along the top of the pectoral fin and the top of the caudal keel.
+*CFL (curved fork length)* means the length of a fish measured from the tip of the upper jaw to the fork of the tail along the contour of the body in a line that runs along the top of the pectoral fin and the top of the caudal keel (*i.e.,* in dorsal direction above caudal keel).
 
 *Charter/headboat commercial sale endorsement* means an authorization added to an HMS Charter/Headboat permit that is required for vessels that sell or intend to sell Atlantic tunas, sharks, and swordfish, provided that all other requirements in this part are also met.
 
@@ -71,6 +71,8 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 *Edges 40 Fathom Contour closed area* means a parallelogram-shaped area in the Gulf of Mexico bounded by straight lines connecting the following coordinates in the order stated: 28° 51' N. lat., 85° 16' W. long.; 28° 51' N. lat., 85° 04' W. long.; 28° 14' N. lat., 84° 42' W. long.; 28° 14' N. lat., 84° 54' W. long.
 
 *EFP* means an exempted fishing permit issued pursuant to § 600.745 of this chapter or to § 635.32(c).
+
+*Electronic monitoring (EM) system* means a system of video cameras and recording and other related equipment installed on a vessel.
 
 *Eviscerated* means a fish that has only the alimentary organs removed.
 
@@ -124,6 +126,8 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *Highly migratory species (HMS)* means bluefin, bigeye, yellowfin, albacore, and skipjack tunas; swordfish; sharks (listed in Table 1 of appendix A to this part); white marlin; blue marlin; sailfish; longbill spearfish; and roundscale spearfish.
 
+*IBQ (individual bluefin quota)* refers to limited access privileges under the IBQ Program (§ 635.15), implemented for the management of Atlantic BFT incidentally caught by Atlantic Tunas Longline category LAP holders.
+
 *Importer*, for purposes of this subpart, means the principal party responsible for the import of product into a country. For imports into the United States, and for purposes of this subpart, “importer” means the consignee as identified on entry documentation or any authorized, equivalent electronic medium required for release of shipments, or any authorized equivalent entry documentation from the customs authority of the United States or the separate customs territory of a U.S. insular possession. If a consignee is not declared, then the importer of record is considered to be the consignee.
 
 *In transit* means non-stop progression through an area without any fishing activity occurring.
@@ -166,7 +170,7 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *North Atlantic swordfish or North Atlantic swordfish stock* means those swordfish occurring in the Atlantic Ocean north of 5° N. lat.
 
-*Northeast Distant gear restricted area* means the Atlantic Ocean area bounded by straight lines connecting the following coordinates in the order stated: 35°00′ N. lat., 60°00′ W. long.; 55°00′ N. lat., 60°00′ W. long.; 55°00′ N. lat., 20°00′ W. long.; 35°00′ N. lat., 20°00′ W. long.; 35°00′ N. lat., 60°00′ W. long.
+*Northeast Distant gear restricted area (NED)* means the Atlantic Ocean area bounded by straight lines connecting the following coordinates in the order stated: 35°00′ N. lat., 60°00′ W. long.; 55°00′ N. lat., 60°00′ W. long.; 55°00′ N. lat., 20°00′ W. long.; 35°00′ N. lat., 20°00′ W. long.; 35°00′ N. lat., 60°00′ W. long.
 
 *Northeastern United States Pelagic Longline Monitoring Area* means the area bounded by straight lines connecting the following coordinates in the order stated: 40°00′ N lat., 74°00′ W long.; 40°00′ N lat., 68°00′ W long.; 39°00′ N lat., 68°00′ W long.; and 39°00′ N lat., 74°00′ W long.
 
@@ -231,6 +235,8 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 *Trip limit* means the total allowable take from a single trip as defined in § 600.10 of this chapter.
 
 *Tuna or tuna-like* means the Scombriformes (with the exception of families Trichiuridae and Gempylidae and the genus Scomber) and such other species of fishes that are regulated by ICCAT in the Atlantic Ocean.
+
+*Vessel monitoring plan (VMP)* means an on-board, EM system reference document required by § 635.9(e)(1).
 
 *Weighout slip* means a document provided to the owner or operator of the vessel by a person who weighs fish or parts thereof that are landed from a fishing vessel. A document, such as a “tally sheet,” “trip ticket,” or “sales receipt,” that contains such information is considered a weighout slip.
 

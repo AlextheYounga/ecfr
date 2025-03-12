@@ -1,8 +1,6 @@
 ##### § 413.1 Introduction. #####
 
-Link to an amendment published at 87 FR 72287, Nov. 23, 2022.
-
-(a) *Basis, scope, and applicability* - (1) *Statutory basis* - (i) *Basic provisions.* (A) Section 1815 of the Act requires that the Secretary make interim payments to providers and periodically determine the amount that should be paid under Part A of Medicare to each provider for the services it furnishes.
+(a) *Basis, scope, and applicability*—(1) *Statutory basis*—(i) *Basic provisions.* (A) Section 1815 of the Act requires that the Secretary make interim payments to providers and periodically determine the amount that should be paid under Part A of Medicare to each provider for the services it furnishes.
 
 (B) Section 1814(b) of the Act (for Part A) and section 1833(a) (for Part B) provide for payment on the basis of the lesser of a provider's reasonable costs or customary charges.
 
@@ -30,9 +28,11 @@ Link to an amendment published at 87 FR 72287, Nov. 23, 2022.
 
 (K) Section 1886(h) of the Act provides for payment to a hospital for the services of interns and residents in approved teaching programs on the basis of a “per resident” amount.
 
-(2) *Scope.* This part sets forth regulations governing Medicare payment for services furnished to beneficiaries by -
+(L) Section 1834(x) of the Act authorizes payment for services furnished by rural emergency hospitals (REHs) and establishes the payment methodology.
 
-(i) Hospitals and critical access hospitals (CAHs);
+(2) *Scope.* This part sets forth regulations governing Medicare payment for services furnished to beneficiaries by—
+
+(i) Hospitals, critical access hospitals (CAHs), and rural emergency hospitals (REHs);
 
 (ii) Skilled nursing facilities (SNFs);
 
@@ -84,7 +84,7 @@ Link to an amendment published at 87 FR 72287, Nov. 23, 2022.
 
 (g) *Payment for services furnished in SNFs.* (1) Except as specified in paragraph (g)(2)(ii) of this section, the amount paid for services furnished in cost reporting periods beginning before July 1, 1998, is determined on a reasonable cost basis or, where applicable, in accordance with the prospectively determined payment rates for low-volume SNFs established under section 1888(d) of the Act, as set forth in subpart I of this part.
 
-(2) The amount paid for services (other than those described in § 411.15(p)(2) of this chapter) -
+(2) The amount paid for services (other than those described in § 411.15(p)(2) of this chapter)—
 
 (i) That are furnished in cost reporting periods beginning on or after July 1, 1998, to a resident who is in a covered Part A stay, is determined in accordance with the prospectively determined payment rates for SNFs established under section 1888(e) of the Act, as set forth in subpart J of this part.
 

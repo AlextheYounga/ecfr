@@ -1,7 +1,5 @@
 ##### § 413.178 ESRD quality incentive program. #####
 
-Link to an amendment published at 87 FR 67302, Nov. 7, 2022.
-
 (a) *Definitions.* As used in this section:
 
 (1) *Achievement threshold* means the 15th percentile of national ESRD facility performance on a clinical measure during the baseline period for a payment year.
@@ -18,7 +16,7 @@ Link to an amendment published at 87 FR 67302, Nov. 7, 2022.
 
 (7) *Improvement threshold* means an ESRD facility's performance on a clinical measure during the baseline period that applies to the measure for a payment year.
 
-(8) *Minimum total performance score (mTPS)* means, with respect to a payment year, the total performance score that an ESRD facility would receive if, during the baseline period, it performed at the 50th percentile of national ESRD facility performance on all clinical measures and the median of national ESRD facility performance on all reporting measures.
+(8) Minimum total performance score (mTPS) means, with respect to a payment year except payment year 2023, the total performance score that an ESRD facility would receive if, during the baseline period, it performed at the 50th percentile of national ESRD facility performance on all clinical measures and the median of national ESRD facility performance on all reporting measures.
 
 (9) *Payment reduction* means the reduction, as specified by CMS, to each payment that would otherwise be made to an ESRD facility under § 413.230 for a calendar year based on the TPS earned by the ESRD facility for the corresponding payment year that is lower than the mTPS score established for that payment year.
 
@@ -48,7 +46,7 @@ Link to an amendment published at 87 FR 67302, Nov. 7, 2022.
 
 (d) *Data submission requirement.* (1) Except as provided in paragraph (d)(3) and (4) of this section, and for a payment year, facilities must submit to CMS data on each measure specified by CMS under paragraph (c) of this section. Facilities must submit these data in the form, manner, and at a time specified by CMS.
 
-(2) For purposes of paragraph (d)(1) of this section, the baseline period that applies to the 2023 payment year is calendar year 2019 for purposes of calculating the achievement threshold, benchmark and minimum total performance score, and calendar year 2020 for purposes of calculating the improvement threshold, and the performance period that applies to the 2023 payment year is calendar year 2021. Beginning with the 2024 payment year, the performance period and corresponding baseline periods are each advanced 1 year for each successive payment year.
+(2) For purposes of paragraph (d)(1) of this section, the baseline period that applies to each of payment year 2023 and payment year 2024 is calendar year 2019 for purposes of calculating the achievement threshold, benchmark and minimum total performance score, and calendar year 2019 for purposes of calculating the improvement threshold. The baseline period that applies to payment year 2025 is calendar year 2021 for purposes of calculating the achievement threshold, benchmark and minimum total performance score, and calendar year 2022 for purposes of calculating the improvement threshold, and the performance period that applies to payment year 2025 is calendar year 2023. Beginning with payment year 2026, the performance period and corresponding baseline periods are each advanced 1 year for each successive payment year.
 
 (3) A facility may request and CMS may grant exceptions to the reporting requirements under paragraph (d)(1) of this section for one or more calendar days, when there are certain extraordinary circumstances beyond the control of the facility.
 
@@ -122,4 +120,8 @@ Link to an amendment published at 87 FR 67302, Nov. 7, 2022.
 
 (2) CMS will not establish a mTPS for PY 2022.
 
-[83 FR 57068, Nov. 14, 2018, as amended at 84 FR 60803, Nov. 8, 2019; 85 FR 54872, Sept. 2, 2020; 86 FR 62020, Nov. 8, 2021]
+(i) *Special rules for payment year 2023.* (1) CMS will calculate a measure rate for, but will not score facility performance on or include in the TPS for any facility under paragraph (e) of this section, the following measures: Standardized Hospitalization Ratio (SHR) clinical measure, Standardized Readmission Ratio (SRR) clinical measure, Long-Term Catheter Rate clinical measure, Standardized Fistula Rate clinical measure, ICH CAHPS clinical measure, Percentage of Prevalent Patients Waitlisted (PPPW) clinical measure, and Kt/V Dialysis Adequacy clinical measure.
+
+(2) The mTPS for payment year 2023 is the total performance score that an ESRD facility would receive if, during the calendar year 2019 baseline period, it performed at the 50th percentile of national ESRD facility performance on Hypercalcemia clinical measure, NHSN Blood Stream Infection (BSI) clinical measure, and the median of national ESRD facility performance on Clinical Depression Screening and Follow-Up reporting measure, Standardized Transfusion Ratio (STrR) reporting measure, Ultrafiltration Rate reporting measure, NHSN Dialysis Event reporting measure, and Medication Reconciliation (MedRec) reporting measure.
+
+[83 FR 57068, Nov. 14, 2018, as amended at 84 FR 60803, Nov. 8, 2019; 85 FR 54872, Sept. 2, 2020; 86 FR 62020, Nov. 8, 2021; 87 FR 67302, Nov. 7, 2022]

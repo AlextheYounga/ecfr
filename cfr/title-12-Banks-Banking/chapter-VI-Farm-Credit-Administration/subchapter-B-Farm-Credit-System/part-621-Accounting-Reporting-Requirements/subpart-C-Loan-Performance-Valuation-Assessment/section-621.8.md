@@ -1,7 +1,5 @@
 ##### § 621.8 Application of payments and income recognition on nonaccrual loans. #####
 
-Link to an amendment published at 87 FR 27492, May 9, 2022.
-
 Each institution shall employ the following practices with respect to application of cash payments on nonaccrual loans:
 
 (a) If the ultimate collectibility of the recorded investment, in whole or in part, is in doubt, any payment received on such loan shall be applied to reduce the recorded investment to the extent necessary to eliminate such doubt.
@@ -18,4 +16,6 @@ Each institution shall employ the following practices with respect to applicatio
 
 (1) Earned but uncollected interest income that was accrued in the current fiscal year and is determined to be uncollectible shall be reversed from interest income; and
 
-(2) Earned but uncollected interest income that was accrued in prior fiscal years and is determined to be uncollectible shall be charged off against the allowance for loan losses.
+(2) Earned but uncollected interest income that was accrued in prior fiscal years and is determined to be uncollectible shall be charged off against the allowance for credit losses.
+
+[58 FR 48786, Sept. 20, 1993, as amended at 87 FR 27492, May 9, 2022]

@@ -1,7 +1,5 @@
 ##### § 410.78 Telehealth services. #####
 
-Link to an amendment published at 87 FR 70224, Nov. 18, 2022.
-
 (a) *Definitions.* For the purposes of this section the following definitions apply:
 
 (1) *Asynchronous store and forward technologies* means the transmission of a patient's medical information from an originating site to the physician or practitioner at the distant site. The physician or practitioner at the distant site can review the medical case without the patient being present. An asynchronous telecommunications system in single media format does not include telephone calls, images transmitted via facsimile machines and text messages without visualization of the patient (electronic mail). Photographs visualized by a telecommunications system must be specific to the patient's medical condition and adequate for furnishing or confirming a diagnosis and or treatment plan. Dermatological photographs, for example, a photograph of a skin lesion, may be considered to meet the requirement of a single media format under this provision.
@@ -64,7 +62,7 @@ Link to an amendment published at 87 FR 70224, Nov. 18, 2022.
 
 (xiii) A rural emergency hospital (as defined in section 1861(kkk)(2) of the Act), for services furnished on or after January 1, 2023.
 
-(xiv) The home of a beneficiary for the purposes of diagnosis, evaluation, and/or treatment of a mental health disorder for services furnished on or after the first day after the end of the PHE as defined in our regulation at § 400.200 except as otherwise provided in this paragraph. Payment will not be made for a telehealth service furnished under this paragraph unless the following conditions are met:
+(xiv) The home of a beneficiary for the purposes of diagnosis, evaluation, and/or treatment of a mental health disorder for services furnished on or after the day that is the 152nd day after the end of the PHE as defined in our regulation at § 400.200 except as otherwise provided in this paragraph. Payment will not be made for a telehealth service furnished under this paragraph unless the following conditions are met:
 
 (A) The physician or practitioner has furnished an item or service in-person, without the use of telehealth, for which Medicare payment was made (or would have been made if the patient were entitled to, or enrolled for, Medicare benefits at the time the item or service is furnished) within 6 months prior to the initial telehealth service;
 
@@ -102,4 +100,4 @@ Link to an amendment published at 87 FR 70224, Nov. 18, 2022.
 
 (f) *Process for adding or deleting services.* Except as otherwise provided in this paragraph (f), changes to the list of Medicare telehealth services are made through the annual physician fee schedule rulemaking process. During the Public Health Emergency, as defined in § 400.200 of this chapter, we will use a subregulatory process to modify the services included on the Medicare telehealth list during the Public Health Emergency, taking into consideration infection control, patient safety, and other public health concerns resulting from the emergency. CMS maintains the list of services that are Medicare telehealth services under this section, including the current HCPCS codes that describe the services on the CMS website.
 
-[66 FR 55330, Nov. 1, 2001, as amended at 67 FR 80041, Dec. 31, 2002; 69 FR 66423, Nov. 15, 2004; 70 FR 70330, Nov. 21, 2005; 72 FR 66399, Nov. 27, 2007; 73 FR 69934, Nov. 19, 2008; 74 FR 62005, Nov. 25, 2009; 75 FR 73615, Nov. 29, 2010; 76 FR 73470, Nov. 28, 2011; 77 FR 69363, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014; 80 FR 71373, Nov. 16, 2015; 83 FR 60073, Nov. 23, 2018; 85 FR 19286, Apr. 6, 2020; 85 FR 27621, May 8, 2020; 85 FR 85027, Dec. 28, 2020; 86 FR 65666, Nov. 19, 2021]
+[66 FR 55330, Nov. 1, 2001, as amended at 67 FR 80041, Dec. 31, 2002; 69 FR 66423, Nov. 15, 2004; 70 FR 70330, Nov. 21, 2005; 72 FR 66399, Nov. 27, 2007; 73 FR 69934, Nov. 19, 2008; 74 FR 62005, Nov. 25, 2009; 75 FR 73615, Nov. 29, 2010; 76 FR 73470, Nov. 28, 2011; 77 FR 69363, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014; 80 FR 71373, Nov. 16, 2015; 83 FR 60073, Nov. 23, 2018; 85 FR 19286, Apr. 6, 2020; 85 FR 27621, May 8, 2020; 85 FR 85027, Dec. 28, 2020; 86 FR 65666, Nov. 19, 2021; 87 FR 70224, Nov. 18, 2022]

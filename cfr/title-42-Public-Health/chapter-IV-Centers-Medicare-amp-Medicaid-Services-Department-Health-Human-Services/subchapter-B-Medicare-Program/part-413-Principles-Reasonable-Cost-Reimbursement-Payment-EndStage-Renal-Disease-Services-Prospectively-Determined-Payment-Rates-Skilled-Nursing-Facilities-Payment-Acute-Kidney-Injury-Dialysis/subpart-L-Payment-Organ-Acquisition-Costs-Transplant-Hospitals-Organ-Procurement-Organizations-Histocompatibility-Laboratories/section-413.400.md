@@ -1,12 +1,10 @@
 ##### § 413.400 Definitions. #####
 
-Link to an amendment published at 87 FR 72287, Nov. 23, 2022.
-
 As used in this subpart:
 
 *Histocompatibility laboratory* means a laboratory meeting the requirements set forth in § 493.1227 of this chapter and providing the services for the acquisition of kidneys or other organs for transplantation.
 
-*Hospital-based organ procurement organization (HOPO)* means an organ procurement organization that is considered a department of the transplant hospital and reports organ acquisition costs it incurs on the transplant hospital's Medicare cost report.
+*Hospital-based organ procurement organization (HOPO)* means an organ procurement organization that is considered a department of the TH and reports organ acquisition costs it incurs on the TH's Medicare cost report.
 
 *Independent organ procurement organization (IOPO)* means an organ procurement organization that files a Medicare cost report separate from a hospital and meets all of the following:
 
@@ -26,8 +24,10 @@ As used in this subpart:
 
 *Standard acquisition charge (SAC)* means a charge as defined in § 413.404 of this chapter.
 
-*Transplant hospital* means a hospital that furnishes organ transplants and other medical and surgical specialty services required for the care of transplant patients.
+*Transplant hospital (TH)* means a hospital that furnishes organ transplants and other medical and surgical specialty services required for the care of transplant patients.
 
-*Transplant hospital/HOPO (TH/HOPO)* refers to a transplant hospital, or a transplant hospital that operates a HOPO (as previously defined in this section) and performs organ procurement activities as one entity reported on the transplant hospital's Medicare cost report.
+*Transplant hospital/HOPO (TH/HOPO)* refers to a TH, or a TH that operates a HOPO (as previously defined in this section) and performs organ procurement activities as one entity reported on the TH's Medicare cost report.
 
-*Transplant program* means an organ-specific transplant program within a transplant hospital (as defined in this section).
+*Transplant program* means an organ-specific transplant program within a TH (as defined in this section).
+
+[86 FR 73515, Dec. 27, 2021, as amended at 87 FR 72287, Nov. 23, 2022]

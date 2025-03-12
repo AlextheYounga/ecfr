@@ -1,7 +1,5 @@
 ##### § 414.1365 MIPS Value Pathways. #####
 
-Link to an amendment published at 87 FR 70227, Nov. 18, 2022.
-
 (a) *General.* (1) Beginning with the CY 2023 MIPS performance period/2025 MIPS payment year, CMS uses MVPs included in the MIPS final inventory of MVPs established by CMS through rulemaking to assess performance for the quality, cost, improvement activities, and Promoting Interoperability performance categories.
 
 (2) [Reserved]
@@ -14,7 +12,9 @@ Link to an amendment published at 87 FR 70227, Nov. 18, 2022.
 
 (ii) Each subgroup must submit a list of each TIN/NPI associated with the subgroup and a plain language name for the subgroup.
 
-(c) *MVP reporting requirement*s - (1) Quality. Except as provided in paragraph (c)(1)(i) of this section, an MVP Participant must select and report, if applicable, 4 quality measures, including 1 outcome measure (or, if an outcome measure is not available, 1 high priority measure), included in the MVP, excluding the population health measure required under paragraph (c)(4)(ii) of this section.
+(iii) TINs must provide a description of each subgroup that is registered.
+
+(c) *MVP reporting requirement*s—(1) Quality. Except as provided in paragraph (c)(1)(i) of this section, an MVP Participant must select and report, if applicable, 4 quality measures, including 1 outcome measure (or, if an outcome measure is not available, 1 high priority measure), included in the MVP, excluding the population health measure required under paragraph (c)(4)(ii) of this section.
 
 (i) Paragraph (c)(1) introductory text of this section does not apply to a small practice that reports on an MVP that includes fewer than 4 Medicare Part B claims measures, provided that the small practice reports each such measure that is applicable.
 
@@ -30,7 +30,7 @@ Link to an amendment published at 87 FR 70227, Nov. 18, 2022.
 
 (iii) Participation in a certified or recognized patient-centered medical home (PCMH) or comparable specialty practice, as described at § 414.1380(b)(3)(ii).
 
-(4) *Foundational layer* - (i) Promoting interoperability. An MVP Participant is required to meet the Promoting Interoperability performance category reporting requirements described at § 414.1375(b).
+(4) *Foundational layer*—(i) Promoting interoperability. An MVP Participant is required to meet the Promoting Interoperability performance category reporting requirements described at § 414.1375(b).
 
 (A) For the CY 2023 and 2024 performance periods/2025 and 2026 MIPS payment years, an MVP Participant that is a subgroup is required to submit its affiliated group's data for the Promoting Interoperability performance category.
 
@@ -38,7 +38,7 @@ Link to an amendment published at 87 FR 70227, Nov. 18, 2022.
 
 (ii) *Population health measures.* Each MVP Participant is scored on 1 population health measure in accordance with paragraph (d)(1) of this section.
 
-(d) *MVP scoring* - (1) General. An MVP Participant that is not an APM Entity is scored on measures and activities included in the MVP in accordance with paragraphs (d)(1) through (3) of this section. An MVP Participant that is an APM Entity is scored on measures and activities included in the MVP in accordance with § 414.1317(b).
+(d) *MVP scoring*—(1) General. An MVP Participant that is not an APM Entity is scored on measures and activities included in the MVP in accordance with paragraphs (d)(1) through (3) of this section. An MVP Participant that is an APM Entity is scored on measures and activities included in the MVP in accordance with § 414.1317(b).
 
 (2) *Performance standards.* Unless otherwise indicated in this paragraph (d), the performance standards described at § 414.1380(a)(1)(i) through (iv) apply to the measures and activities included in the MVP.
 
@@ -48,13 +48,21 @@ Link to an amendment published at 87 FR 70227, Nov. 18, 2022.
 
 (A) *Population health measures.* Except as provided in paragraph (d)(3)(i)(A)(*1*) of this section, each selected population health measure that does not have a benchmark or meet the case minimum requirement is excluded from the MVP participant's total measure achievement points and total available measure achievement points.
 
-(*1*) Subgroups are scored on each selected population health measure that does not have a benchmark or meet the case minimum requirement based on their affiliated group score, if available. If the subgroup's affiliated group score is not available, each such measure is excluded from the subgroup's total measure achievement points and total available measure achievement points.
+(*1*) A subgroup is scored on each selected population health measure based on its affiliated group score, if available. If the subgroup's affiliated group score is not available, each such measure is excluded from the subgroup's total measure achievement points and total available measure achievement points.
 
 (*2*) [Reserved]
 
 (B) *Outcomes-based administrative claims measures.* MVP Participants receive zero measure achievement points for each selected outcomes-based administrative claims measure that does not have a benchmark or meet the case minimum requirement.
 
+(*1*) A subgroup is scored on each selected outcomes-based administrative claims measure based on its affiliated group score, if available. If the subgroup's affiliated group score is not available, each such measure will receive zero measure achievement points.
+
+(*2*) [Reserved]
+
 (ii) *Cost performance category.* The cost performance category score is calculated for an MVP Participant using the methodology at § 414.1380(b)(2)(i) through (v) and the cost measures included in the MVP that they select and report.
+
+(A) A subgroup is scored on each cost measure included in the MVP that it selects and reports based on its affiliated group score for each such measure, if available. If the subgroup's affiliated group score is not available for a measure, the measure is excluded from the subgroup's total measure achievement points and total available measure achievement points, as described under § 414.1380(b)(2)(i) through (v).
+
+(B) [Reserved]
 
 (iii) *Improvement activities performance category.* The improvement activities performance category score is calculated based on the submission of high- and medium-weighted improvement activities. MVP Participants will receive 20 points for each medium-weighted improvement activity and 40 points for each high-weighted improvement activity required under § 414.1360 on which data is submitted in accordance with § 414.1325 or for participation in a certified or recognized patient-centered medical home (PCMH) or comparable specialty practice, as described at § 414.1380(b)(3)(ii).
 
@@ -68,7 +76,7 @@ Link to an amendment published at 87 FR 70227, Nov. 18, 2022.
 
 (1) *MVP performance category weights.* For an MVP Participant that is not an APM Entity, the final score is calculated using the performance category weights described at § 414.1380(c)(1). For an MVP Participant that is an APM Entity, the final score is calculated using the performance category weights described at § 414.1317(b).
 
-(2) *Reweighting MVP performance categories* - (i) General reweighting. For an MVP Participant that is not an APM Entity, in accordance with paragraph (e)(2)(iii) of this section, a scoring weight different from the weights described at § 414.1380(c)(1) will be assigned to a performance category, and its weight as described at § 414.1380(c)(1) will be redistributed to another performance category or categories, in the circumstances described at § 414.1380(c)(2)(i)(A)(2) through (9) and § 414.1380(c)(2)(i)(C). For an MVP Participant that is an APM Entity, the performance category weights will be redistributed in accordance with § 414.1317(b).
+(2) *Reweighting MVP performance categories*—(i) General reweighting. For an MVP Participant that is not an APM Entity, in accordance with paragraph (e)(2)(iii) of this section, a scoring weight different from the weights described at § 414.1380(c)(1) will be assigned to a performance category, and its weight as described at § 414.1380(c)(1) will be redistributed to another performance category or categories, in the circumstances described at § 414.1380(c)(2)(i)(A)(2) through (9) and § 414.1380(c)(2)(i)(C). For an MVP Participant that is an APM Entity, the performance category weights will be redistributed in accordance with § 414.1317(b).
 
 (ii) *Subgroups.* For an MVP Participant that is a subgroup, any reweighting applied to its affiliated group will also be applied to the subgroup. In addition, if reweighting is not applied to the affiliated group, the subgroup may receive reweighting in the following circumstances independent of the affiliated group:
 
@@ -82,4 +90,4 @@ Link to an amendment published at 87 FR 70227, Nov. 18, 2022.
 
 (4) *Complex patient bonus.* A complex patient bonus will be added to the final score for an MVP Participant in accordance with § 414.1380(c)(3).
 
-[86 FR 65671, Nov. 19, 2021]
+[86 FR 65671, Nov. 19, 2021, as amended at 87 FR 70227, Nov. 18, 2022]

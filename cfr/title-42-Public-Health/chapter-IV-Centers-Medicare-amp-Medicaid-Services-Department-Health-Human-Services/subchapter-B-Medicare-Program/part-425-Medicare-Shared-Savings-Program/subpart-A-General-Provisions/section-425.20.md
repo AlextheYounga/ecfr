@@ -1,8 +1,6 @@
 ##### § 425.20 Definitions. #####
 
-Link to an amendment published at 87 FR 70232, Nov. 18, 2022.
-
-As used in this part, unless otherwise indicated -
+As used in this part, unless otherwise indicated—
 
 *Accountable care organization* (ACO) means a legal entity that is recognized and authorized under applicable State, Federal, or Tribal law, is identified by a Taxpayer Identification Number (TIN), and is formed by one or more ACO participants(s) that is(are) defined at § 425.102(a) and may also include any other ACO participants described at § 425.102(b).
 
@@ -24,7 +22,7 @@ As used in this part, unless otherwise indicated -
 
 *ACO provider/supplier* means an individual or entity that meets all of the following:
 
-(1) Is a -
+(1) Is a—
 
 (i) Provider (as defined at § 400.202 of this chapter); or
 
@@ -48,7 +46,7 @@ As used in this part, unless otherwise indicated -
 
 *Assignment window* means the 12-month period used to assign beneficiaries to an ACO.
 
-*At-risk beneficiary* means, but is not limited to, a beneficiary who -
+*At-risk beneficiary* means, but is not limited to, a beneficiary who—
 
 (1) Has a high risk score on the CMS-HCC risk adjustment model;
 
@@ -84,7 +82,7 @@ As used in this part, unless otherwise indicated -
 
 (1) The ACO is the same legal entity as a current or previous ACO that is participating in, or has participated in, a performance-based risk Medicare ACO initiative as defined under this section, or that deferred its entry into a second Shared Savings Program agreement period under a two-sided model under § 425.200(e).
 
-(2) Forty percent or more of the ACO's ACO participants participated in a performance-based risk Medicare ACO initiative, as defined under this section, or in an ACO that deferred its entry into a second Shared Savings Program agreement period under a two-sided model under § 425.200(e), in any of the 5 most recent performance years prior to the agreement start date.
+(2) Forty percent or more of the ACO's ACO participants participated in a performance-based risk Medicare ACO initiative, as defined under this section, or in an ACO that deferred its entry into a second Shared Savings Program agreement period under a two-sided model under § 425.200(e), in any of the 5 most recent performance years.
 
 *Federally qualified health center (FQHC)* has the same meaning given to this term under § 405.2401(b) of this chapter.
 
@@ -96,13 +94,13 @@ As used in this part, unless otherwise indicated -
 
 (1) The ACO is a legal entity that has not participated in any performance-based risk Medicare ACO initiative as defined under this section, and has not deferred its entry into a second Shared Savings Program agreement period under a two-sided model under § 425.200(e).
 
-(2) Less than 40 percent of the ACO's ACO participants participated in a performance-based risk Medicare ACO initiative, as defined under this section, or in an ACO that deferred its entry into a second Shared Savings Program agreement period under a two-sided model under § 425.200(e), in each of the 5 most recent performance years prior to the agreement start date.
+(2) Less than 40 percent of the ACO's ACO participants participated in a performance-based risk Medicare ACO initiative, as defined under this section, or in an ACO that deferred its entry into a second Shared Savings Program agreement period under a two-sided model under § 425.200(e), in each of the 5 most recent performance years.
 
 *Low revenue ACO* means an ACO whose total Medicare Parts A and B fee-for-service revenue of its ACO participants based on revenue for the most recent calendar year for which 12 months of data are available, is less than 35 percent of the total Medicare Parts A and B fee-for-service expenditures for the ACO's assigned beneficiaries based on expenditures for the most recent calendar year for which 12 months of data are available.
 
 *Marketing materials and activities* include, but are not limited to, general audience materials such as brochures, advertisements, outreach events, letters to beneficiaries, Web pages, data sharing opt out letters, mailings, social media, or other activities conducted by or on behalf of the ACO, or by ACO participants, or ACO providers/suppliers participating in the ACO, when used to educate, solicit, notify, or contact Medicare beneficiaries or providers and suppliers regarding the Shared Savings Program. The following beneficiary communications are not marketing materials and activities: Certain informational materials customized or limited to a subset of beneficiaries; materials that do not include information about the ACO, its ACO participants, or its ACO providers/suppliers; materials that cover beneficiary-specific billing and claims issues or other specific individual health related issues; educational information on specific medical conditions (for example, flu shot reminders), written referrals for health care items and services, and materials or activities that do not constitute “marketing” under 45 CFR 164.501 and 164.508(a)(3)(i).
 
-*Medicare fee-for-service beneficiary* means an individual who is -
+*Medicare fee-for-service beneficiary* means an individual who is—
 
 (1) Enrolled in the original Medicare fee-for-service program under both parts A and B; and
 
@@ -126,11 +124,13 @@ As used in this part, unless otherwise indicated -
 
 (1) Participation options within the Shared Savings Program as follows:
 
-(i) BASIC track (Levels A through E).
+(i) For performance years beginning prior to January 1, 2023, BASIC track (Levels A through E).
 
-(ii) ENHANCED track.
+(ii) For performance years beginning January 1, 2023 and in subsequent years, BASIC track (Levels C through E).
 
-(iii) Track 2.
+(iii) ENHANCED track.
+
+(iv) Track 2.
 
 (2) The Innovation Center ACO models under which an ACO accepts risk for shared losses as follows:
 
@@ -164,7 +164,7 @@ As used in this part, unless otherwise indicated -
 
 *Re-entering ACO* means an ACO that does not meet the definition of a renewing ACO and meets either of the following conditions:
 
-(1) Is the same legal entity as an ACO, as defined in this section, that previously participated in the program and is applying to participate in the program after a break in participation, because it is either -
+(1) Is the same legal entity as an ACO, as defined in this section, that previously participated in the program and is applying to participate in the program after a break in participation, because it is either—
 
 (i) An ACO whose participation agreement expired without having been renewed; or
 
@@ -172,7 +172,7 @@ As used in this part, unless otherwise indicated -
 
 (2) Is a new legal entity that has never participated in the Shared Savings Program and is applying to participate in the program and more than 50 percent of its ACO participants were included on the ACO participant list under § 425.118, of the same ACO in any of the 5 most recent performance years prior to the agreement start date.
 
-*Renewing ACO* means an ACO that continues its participation in the program for a consecutive agreement period, without a break in participation, because it is either -
+*Renewing ACO* means an ACO that continues its participation in the program for a consecutive agreement period, without a break in participation, because it is either—
 
 (1) An ACO whose participation agreement expired and that immediately enters a new agreement period to continue its participation in the program; or
 
@@ -190,4 +190,4 @@ As used in this part, unless otherwise indicated -
 
 *Two-sided model* means a model under which the ACO may share savings with the Medicare program, if it meets the requirements for doing so, and is also liable for sharing any losses incurred under subpart G of this part.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32833, June 9, 2015; 80 FR 71385, Nov. 16, 2015; 81 FR 38013, June 10, 2016; 82 FR 53368, Nov. 15, 2017; 83 FR 60092, Nov. 23, 2018; 83 FR 68062, Dec. 31, 2018]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32833, June 9, 2015; 80 FR 71385, Nov. 16, 2015; 81 FR 38013, June 10, 2016; 82 FR 53368, Nov. 15, 2017; 83 FR 60092, Nov. 23, 2018; 83 FR 68062, Dec. 31, 2018; 87 FR 70232, Nov. 18, 2022]

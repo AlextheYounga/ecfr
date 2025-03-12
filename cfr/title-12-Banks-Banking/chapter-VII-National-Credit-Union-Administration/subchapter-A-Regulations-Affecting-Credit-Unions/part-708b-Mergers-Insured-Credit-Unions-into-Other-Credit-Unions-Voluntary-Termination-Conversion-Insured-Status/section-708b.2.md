@@ -1,7 +1,5 @@
 ##### § 708b.2 Definitions. #####
 
-Link to an amendment published at 87 FR 45010, July 27, 2022.
-
 As used in this part:
 
 *Conducted by an independent entity* means:
@@ -32,7 +30,7 @@ As used in this part:
 
 *Record date* means a date announced by the board of directors of a merging credit union as the date by which a person must have been a member of the merging credit union to be eligible to vote on a proposed merger.
 
-*Regional Director* means either the director for the NCUA Regional Office for the region where a natural person credit union's main office is located or the director of the NCUA's Office of Credit Union Resources and Expansion. For corporate credit unions and natural person credit unions defined as covered credit unions under part 702 of this chapter, Regional Director means the director of NCUA's Office of National Examinations and Supervision.
+*Regional Director* means either the director for the NCUA Regional Office for the region where a natural person credit union's main office is located or the director of the NCUA's Office of Credit Union Resources and Expansion. For corporate credit unions and natural person credit unions defined as ONES credit unions under part 700 of this chapter, Regional Director means the Director of NCUA's Office of National Examinations and Supervision.
 
 *Secret ballot* means no credit union employee or official can determine how a particular member voted. Credit union employees and officials are prohibited from assisting members in completing ballots or handling completed ballots.
 
@@ -50,4 +48,4 @@ As used in this part:
 
 *Uninsured* means there is no share or deposit insurance available on the credit union accounts.
 
-[70 FR 3288, Jan. 24, 2005, as amended at 75 FR 80680, Dec. 23, 2010; 75 FR 81393, Dec. 28, 2010; 78 FR 32544, May 31, 2013; 81 FR 76496, Nov. 3, 2016; 82 FR 60292, Dec. 20, 2017; 83 FR 30310, June 28, 2018; 84 FR 1607, Feb. 5, 2019; 86 FR 15401, Mar. 23, 2021]
+[70 FR 3288, Jan. 24, 2005, as amended at 75 FR 80680, Dec. 23, 2010; 75 FR 81393, Dec. 28, 2010; 78 FR 32544, May 31, 2013; 81 FR 76496, Nov. 3, 2016; 82 FR 60292, Dec. 20, 2017; 83 FR 30310, June 28, 2018; 84 FR 1607, Feb. 5, 2019; 86 FR 15401, Mar. 23, 2021; 87 FR 45010, July 27, 2022]

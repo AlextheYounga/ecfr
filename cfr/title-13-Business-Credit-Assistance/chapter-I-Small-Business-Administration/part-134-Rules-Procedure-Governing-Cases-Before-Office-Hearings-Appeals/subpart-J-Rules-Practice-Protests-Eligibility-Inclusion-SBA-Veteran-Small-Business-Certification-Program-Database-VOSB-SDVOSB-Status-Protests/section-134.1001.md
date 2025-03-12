@@ -1,0 +1,9 @@
+##### § 134.1001 Scope of rules. #####
+
+(a) The rules of practice in this subpart apply to VOSB or SDVOSB status protests. A VOSB or SDVOSB status protest is the process by which an interested party (*see* § 134.1002(b)) may challenge a concern's inclusion in the SBA Veteran Small Business Certification Program database or the VOSB or SDVOSB status of an apparent successful offeror on a VOSB or SDVOSB contract, including a joint venture submitting an offer under § 128.402 of this chapter. OHA will also consider a protest challenging whether a prime contractor is unduly reliant on a small, non-similarly situated entity subcontractor or if such subcontractor performs the primary and vital requirements of the contract.
+
+(b) Except where inconsistent with this subpart, the provisions of subparts A and B of this part apply to protests listed in paragraph (a) of this section.
+
+(c) The protest procedures described in this subpart are separate from those governing size protests and size appeals. All protests relating to whether a VOSB or SDVOSB is a “small” business for purposes of any Federal program are subject to part 121 of this chapter and must be filed in accordance with that part. If a protester protests both the size of a VOSB or SDVOSB and the concern's eligibility for the SBA Veteran Small Business Certification Program, SBA will process each protest concurrently, under the procedures set forth in part 121 of this chapter and this part. SBA does not review issues concerning the administration of a VOSB or SDVOSB contract.
+
+(d) Appeals of denials and cancellations of certification for inclusion in the Veteran Small Business Certification Program are governed by subpart K of this part.

@@ -1,7 +1,5 @@
 ##### § 414.626 Data reporting by ground ambulance organizations. #####
 
-Link to an amendment published at 87 FR 70226, Nov. 18, 2022.
-
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 *Data collection period* means, with respect to a year, the 12-month period that reflects the ground ambulance organization's annual accounting period.
@@ -36,7 +34,7 @@ Link to an amendment published at 87 FR 70226, Nov. 18, 2022.
 
 (d) *Hardship exemption.* A ground ambulance organization selected under paragraph (c) of this section may request and CMS may grant an exception to the reporting requirements under paragraph (b) of this section in the event of a significant hardship, such as a natural disaster, bankruptcy, or similar situation that the Secretary determines interfered with the ability of the ground ambulance organization to submit such information in a timely manner for the data collection period selected by the ground ambulance organization.
 
-(1) To request a hardship exemption, the ground ambulance organization must submit a request form (accessed on the Ambulances Services Center website (*https://www.cms.gov/Center/Provider-Type/Ambulances-Services-Center.html*) to CMS within 90 calendar days of the date that CMS notified the ground ambulance organization that it would receive a 10 percent payment reduction as a result of not submitting sufficient information under the data collection system. The request form must include all of the following:
+(1) To request a hardship exemption, the ground ambulance organization must submit a request to CMS, in the form and manner specified by CMS, within 90 calendar days of the date that CMS notified the ground ambulance organization that it would receive a 10 percent payment reduction as a result of not submitting sufficient information under the data collection system. The request form must include all of the following:
 
 (i) Ground ambulance organization name.
 
@@ -58,7 +56,7 @@ Link to an amendment published at 87 FR 70226, Nov. 18, 2022.
 
 (e) *Notification of non-compliance and informal review.* (1) *Notification of non-compliance.* A ground ambulance organization selected under paragraph (c) of this section for a year that does not sufficiently report data under paragraph (b) of this section, will receive written notification from CMS that it will receive a payment reduction under § 414.610(c)(9).
 
-(2) *Informal review.* A ground ambulance organization that receives a written notification under paragraph (e)(1) of a payment reduction under § 414.610(c)(9) may submit a request for an informal review within 90 days of the date it received the notification by submitting all of the following information:
+(2) *Informal review.* A ground ambulance organization that receives a written notification under paragraph (e)(1) of a payment reduction under § 414.610(c)(9) may submit a request for an informal review within 90 days of the date it received the notificationby submitting a request to CMS, in the form and manner specified by CMS, that includes all of the following information:
 
 (i) Ground ambulance organization name.
 
@@ -74,4 +72,4 @@ Link to an amendment published at 87 FR 70226, Nov. 18, 2022.
 
 (g) *Limitations on review.* There is no administrative or judicial review under section 1869 or section 1878 of the Act, or otherwise of the data required for submission under paragraph (b) of this section or the selection of ground ambulance organizations under paragraph (c) of this section.
 
-[84 FR 63193, Nov. 15, 2019, as amended at 86 FR 65669, Nov. 19, 2021]
+[84 FR 63193, Nov. 15, 2019, as amended at 86 FR 65669, Nov. 19, 2021; 87 FR 70226, Nov. 18, 2022]

@@ -1,7 +1,5 @@
 ##### § 228.12 Definitions. #####
 
-Link to an amendment published at 87 FR 78831, Dec. 23, 2022.
-
 For purposes of this part, the following definitions apply:
 
 (a) *Affiliate* means any company that controls, is controlled by, or is under common control with another company. The term “control” has the meaning given to that term in 12 U.S.C. 1841(a)(2), and a company is under common control with another company if both companies are directly or indirectly controlled by the same company.
@@ -28,13 +26,13 @@ For purposes of this part, the following definitions apply:
 
 (3) Activities that promote economic development by financing businesses or farms that meet the size eligibility standards of the Small Business Administration's Development Company or Small Business Investment Company programs (13 CFR 121.301) or have gross annual revenues of $1 million or less; or
 
-(4) Activities that revitalize or stabilize -
+(4) Activities that revitalize or stabilize—
 
 (i) Low-or moderate-income geographies;
 
 (ii) Designated disaster areas; or
 
-(iii) Distressed or underserved nonmetropolitan middle-income geographies designated by the Board, Federal Deposit Insurance Corporation, and Office of the Comptroller of the Currency, based on -
+(iii) Distressed or underserved nonmetropolitan middle-income geographies designated by the Board, Federal Deposit Insurance Corporation, and Office of the Comptroller of the Currency, based on—
 
 (A) Rates of poverty, unemployment, and population loss; or
 
@@ -102,7 +100,7 @@ For purposes of this part, the following definitions apply:
 
 (t) *Qualified investment* means a lawful investment, deposit, membership share, or grant that has as its primary purpose community development.
 
-(u) *Small bank* - (1) *Definition. Small bank* means a bank that, as of December 31 of either of the prior two calendar years, had assets of less than $1.384 billion. *Intermediate small bank* means a small bank with assets of at least $346 million as of December 31 of both of the prior two calendar years and less than $1.384 billion as of December 31 of either of the prior two calendar years.
+(u) *Small bank*—(1) *Definition. Small bank* means a bank that, as of December 31 of either of the prior two calendar years, had assets of less than $1.503 billion. *Intermediate small bank* means a small bank with assets of at least $376 million as of December 31 of both of the prior two calendar years and less than $1.503 billion as of December 31 of either of the prior two calendar years.
 
 (2) *Adjustment.* The dollar figures in paragraph (u)(1) of this section shall be adjusted annually and published by the Board, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve-month period ending in November, with rounding to the nearest million.
 

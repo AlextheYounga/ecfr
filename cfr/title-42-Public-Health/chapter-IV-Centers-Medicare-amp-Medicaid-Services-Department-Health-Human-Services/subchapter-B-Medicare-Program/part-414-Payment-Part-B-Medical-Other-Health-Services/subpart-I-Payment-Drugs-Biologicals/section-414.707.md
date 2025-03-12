@@ -1,8 +1,6 @@
 ##### § 414.707 Basis of payment. #####
 
-Link to an amendment published at 87 FR 70226, Nov. 18, 2022.
-
-(a) *Method of payment.* (1) Payment for a drug in calendar year 2004 is based on the lesser of -
+(a) *Method of payment.* (1) Payment for a drug in calendar year 2004 is based on the lesser of—
 
 (i) The actual charge on the claim for program benefits; or
 
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 70226, Nov. 18, 2022.
 
 (ii) A drug or biological furnished during 2004 that was not available for Medicare payment as of April 1, 2003.
 
-(iii) Pneumococcal, influenza, and COVID-19 vaccines as well as hepatitis B vaccine that is furnished to individuals at high or intermediate risk of contracting hepatitis B (as determined by the Secretary).
+(iii) Pneumococcal, influenza, and COVID-19 vaccines as well as hepatitis B vaccine that is furnished to individuals at high or intermediate risk of contracting hepatitis B (as defined in § 410.63(a) of this subchapter).
 
 (iv) A drug or biological furnished during 2004 in connection with the furnishing of renal dialysis services if separately billed by renal dialysis facilities.
 
@@ -71,4 +69,4 @@ Link to an amendment published at 87 FR 70226, Nov. 18, 2022.
 
 (2) Each request for payment for use of erythropoiesis stimulating agents must report the beneficiary's most recent hemoglobin or hematocrit level.
 
-[69 FR 1116, Jan. 7, 2004, as amended at 72 FR 66402, Nov. 27, 2007; 85 FR 71197, Nov. 6, 2020]
+[69 FR 1116, Jan. 7, 2004, as amended at 72 FR 66402, Nov. 27, 2007; 85 FR 71197, Nov. 6, 2020; 87 FR 70226, Nov. 18, 2022]

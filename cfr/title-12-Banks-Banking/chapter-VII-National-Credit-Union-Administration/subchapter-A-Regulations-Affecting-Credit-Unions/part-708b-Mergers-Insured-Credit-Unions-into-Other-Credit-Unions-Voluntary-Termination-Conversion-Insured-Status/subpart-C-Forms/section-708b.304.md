@@ -80,7 +80,7 @@ A: [Name of merging credit union] will not distribute a portion of its net worth
 
 B: [Name of merging credit union] will distribute a portion of its net worth to its members in the merger. The board of directors has determined to distribute a portion of [name of merging credit union]'s net worth as [describe method of calculating share adjustment or other provisions for reserves, undivided earnings or dividends.]
 
-*Locations of merging and continuing credit union:* [Name of merging credit union]'s main office at [street address, city] will [close/remain open/remain open for\_\_\_\_]. [If the merging credit union has branches, insert the same statement about the branch locations]. [Name of continuing credit union] has the following locations that are near [name of merging credit union]. [List address and type of location - i.e. main office, full-service branch for each non-ATM location of the continuing credit union in reasonable proximity to the locations of the merging credit unions.]
+*Locations of merging and continuing credit union:* [Name of merging credit union]'s main office at [street address, city] will [close/remain open/remain open for\_\_\_\_]. [If the merging credit union has branches, insert the same statement about the branch locations]. [Name of continuing credit union] has the following locations that are near [name of merging credit union]. [List address and type of location—i.e. main office, full-service branch for each non-ATM location of the continuing credit union in reasonable proximity to the locations of the merging credit unions.]
 
 *Changes to services and member benefits:* [If applicable, explain any loss of services, such as increases in fees or loss of ATM access, as well as any changes to benefits such as life savings protection insurance or loan protection insurance. If inapplicable, delete entire section.]
 
@@ -88,13 +88,13 @@ B: [Name of merging credit union] will distribute a portion of its net worth to 
 
 [If inapplicable, delete entire section.] NCUA Regulations require merging credit unions to disclose certain increases in compensation that any of the merging credit union's officials or the five most highly compensated employees have received or will receive in connection with the merger. The following individuals have received or will receive such compensation:
 
-|Name|Title|Description of increase|Amount|
-|----|-----|-----------------------|------|
-|    |     |                       |      |
-|    |     |                       |      |
-|    |     |                       |      |
-|    |     |                       |      |
-|    |     |                       |      |
+|**Name**|**Title**|**Description of increase**|**Amount**|
+|--------|---------|---------------------------|----------|
+|        |         |                           |          |
+|        |         |                           |          |
+|        |         |                           |          |
+|        |         |                           |          |
+|        |         |                           |          |
 
 Please note that the proposed merger must have the approval of the majority of members who vote.
 
@@ -166,8 +166,6 @@ ADDITIONS: Cash is valued at book less any known potential losses. Loans are val
 
 DEDUCTIONS: Notes Payable are valued at book. Accounts Payable are valued at book. Other Liabilities are valued at book. Contingent and/or Unrecorded Liabilities are valued at the most realistic known value. This item should include any unrecorded dividends not accrued for the accounting period. Subsidiary Ledger Differences are deducted if the credit union is likely to suffer a loss due to the problem. Other Losses include any other known losses. Do not include deficits in undivided earnings or net losses because they have already reduced assets if properly recorded.
 
-Probable Asset/Share Ratio - Continuing Credit Union
-
 |                                                   |Book Value|Market Value|
 |---------------------------------------------------|----------|------------|
 |                    ADDITIONS:                     |          |            |
@@ -187,8 +185,6 @@ Probable Asset/Share Ratio - Continuing Credit Union
 |             Net Value of Assets (A−B)             |          |            |
 |                   Total Shares                    |          |            |
 |            Probable Asset/Share Ratio             |          |            |
-
-Probable Asset/Share Ratio - Merging Credit Union
 
 |                                                   |Book Value|Market Value|
 |---------------------------------------------------|----------|------------|

@@ -1,8 +1,6 @@
 ##### § 435.4 Definitions and use of terms. #####
 
-Link to an amendment published at 87 FR 66510, Nov. 3, 2022.
-
-As used in this part -
+As used in this part—
 
 *AABD* means aid to the aged, blind, and disabled under title XVI of the Act;
 
@@ -28,7 +26,7 @@ As used in this part -
 
 *Beneficiary* means an individual who has been determined eligible and is currently receiving Medicaid.
 
-*Caretaker relative* means a relative of a dependent child by blood, adoption, or marriage with whom the child is living, who assumes primary responsibility for the child's care (as may, but is not required to, be indicated by claiming the child as a tax dependent for Federal income tax purposes), and who is one of the following -
+*Caretaker relative* means a relative of a dependent child by blood, adoption, or marriage with whom the child is living, who assumes primary responsibility for the child's care (as may, but is not required to, be indicated by claiming the child as a tax dependent for Federal income tax purposes), and who is one of the following—
 
 (1) The child's father, mother, grandfather, grandmother, brother, sister, stepfather, stepmother, stepbrother, stepsister, uncle, aunt, first cousin, nephew, or niece.
 
@@ -48,7 +46,7 @@ As used in this part -
 
 (2) Any notice sent by the agency to another insurance affordability program regarding an individual's eligibility for Medicaid;
 
-(3) The potential impact, if any, of -
+(3) The potential impact, if any, of—
 
 (i) The agency's determination of eligibility or ineligibility for Medicaid on eligibility for another insurance affordability program; or
 
@@ -92,6 +90,8 @@ As used in this part -
 
 *Medically needy* refers to families, children, aged, blind, or disabled individuals, and pregnant women listed under subpart D of this part who are not listed in subparts B and C of this part as categorically needy but who may be eligible for Medicaid under this part because their income and resources are within limits set by the State under its Medicaid plan (including persons whose income and resources fall within these limits after their incurred expenses for medical or remedial care are deducted) (Specific financial requirements for determining eligibility of the medically needy appear in subpart I of this part.);
 
+*Medicare Savings Programs* means four Medicaid eligibility groups authorized under section 1902(a)(10)(E) and 1905(p) and (s) of the Act that serve certain low-income Medicare beneficiaries. These groups include the Qualified Medicare Beneficiary, Specified Low-Income Medicare Beneficiary, Qualifying Individual, and Qualified Disabled and Working Individual eligibility groups, each separately codified in §§ 435.123 through 435.126.
+
 *Minimum essential coverage* means coverage defined in section 5000A(f) of subtitle D of the Internal Revenue Code, as added by section 1401 of the Affordable Care Act, and implementing regulations of such section issued by the Secretary of the Treasury.
 
 *Modified adjusted gross income (MAGI)* has the meaning provided at 26 CFR 1.36B-1(e)(2).
@@ -120,13 +120,13 @@ As used in this part -
 
 (B) Does not exceed the income level specified for such child to be eligible for medical assistance under the policies of the State plan under title XIX on June 1, 1997.
 
-(2) *No other coverage and State maintenance of effort.* An optional targeted low-income child is not covered under a group health plan or health insurance coverage, or would not be eligible for Medicaid under the policies of the State plan in effect on March 31, 1997; except that, for purposes of this standard -
+(2) *No other coverage and State maintenance of effort.* An optional targeted low-income child is not covered under a group health plan or health insurance coverage, or would not be eligible for Medicaid under the policies of the State plan in effect on March 31, 1997; except that, for purposes of this standard—
 
 (i) A child shall not be considered to be covered by health insurance coverage based on coverage offered by the State under a program in operation prior to July 1, 1997 if that program received no Federal financial participation;
 
 (ii) A child shall not be considered to be covered under a group health plan or health insurance coverage if the child did not have reasonable geographic access to care under that coverage.
 
-(3) For purposes of this section, policies of the State plan a under title XIX plan include policies under a Statewide demonstration project under section 1115(a) of the Act other than a demonstration project that covered an expanded group of eligible children but that either -
+(3) For purposes of this section, policies of the State plan a under title XIX plan include policies under a Statewide demonstration project under section 1115(a) of the Act other than a demonstration project that covered an expanded group of eligible children but that either—
 
 (i) Did not provide inpatient hospital coverage; or
 
@@ -146,4 +146,4 @@ As used in this part -
 
 *Tax dependent* has the same meaning as the term “dependent” under section 152 of the Internal Revenue Code, as an individual for whom another individual claims a deduction for a personal exemption under section 151 of the Internal Revenue Code for a taxable year.
 
-[43 FR 45204, Sept. 29, 1978, as amended at 45 FR 24883, Apr. 11, 1980; 46 FR 6909, Jan. 22, 1981; 46 FR 47984, Sept. 30, 1981; 51 FR 7211, Feb. 28, 1986; 58 FR 4925, Jan. 19, 1993; 66 FR 2666, Jan. 11, 2001; 77 FR 17203, Mar. 23, 2012; 81 FR 86450, Nov. 30, 2016]
+[43 FR 45204, Sept. 29, 1978, as amended at 45 FR 24883, Apr. 11, 1980; 46 FR 6909, Jan. 22, 1981; 46 FR 47984, Sept. 30, 1981; 51 FR 7211, Feb. 28, 1986; 58 FR 4925, Jan. 19, 1993; 66 FR 2666, Jan. 11, 2001; 77 FR 17203, Mar. 23, 2012; 81 FR 86450, Nov. 30, 2016; 87 FR 66510, Nov. 3, 2022]

@@ -1,8 +1,6 @@
 ##### § 414.902 Definitions. #####
 
-Link to an amendment published at 87 FR 70226, Nov. 18, 2022.
-
-As used in this subpart, unless the context indicates otherwise -
+As used in this subpart, unless the context indicates otherwise—
 
 *Approved CAP vendor* means an entity that has been awarded a contract by CMS to participate in the competitive acquisition program under 1847B of the Act.
 
@@ -40,6 +38,14 @@ As used in this subpart, unless the context indicates otherwise -
 
 *Reference biological product* means the biological product licensed under such section 351 of the PHSA that is referred to in the application of the biosimilar biological product as defined at section 1847A(c)(6)(I) of the Act.
 
+*Refundable single-dose container or single-use package drug* means a single source drug or biological or a biosimilar biological product for which payment is made under this part and that is furnished from a single-dose container or single-use package based on FDA-approved labeling or product information. The term “refundable single-dose container or single-use package drug” excludes—
+
+(1) A drug that is a therapeutic radiopharmaceutical, a diagnostic radiopharmaceutical, or an imaging agent as identified in the drug's FDA-approved labeling.
+
+(2) A drug for which the FDA-approved labeling for any National Drug Code assigned to a billing and payment code of such drug requires filtration during the drug preparation process, prior to dilution and administration and that any unused portion of such drug after the filtration process be discarded after the completion of such filtration process.
+
+(3) A drug approved or licensed by the FDA on or after November 15, 2021, until the last day of the sixth full quarter for which the drug has been marketed (as reported to CMS) for the first National Drug Code assigned to the billing and payment code of such drug.
+
 *Routine delivery* means delivery of a drug within 2 business days in appropriate shipping and packaging in all areas of the United States and its territories, with the exception of the Pacific Territories. In the Pacific Territories, routine delivery of drug means delivery of a CAP drug within 7 business days in appropriate shipping and packaging. In each case, this timeframe will be reduced if product stability requires it, meaning that the manufacturer's labeling instructions, drug compendia, or specialized drug stability references indicate that a shorter delivery timeframe is necessary to avoid adversely affecting the product's integrity, safety, or efficacy.
 
 *Single source drug* means a drug described by section 1847A(c)(6)(D) of the Act.
@@ -50,4 +56,4 @@ As used in this subpart, unless the context indicates otherwise -
 
 *Wholesale acquisition cost (WAC)* means the price described by section 1847A(c)(6)(B) of the Act.
 
-[69 FR 66424, Nov. 15, 2004, as amended at 70 FR 39093, July 6, 2005; 75 FR 73626, Nov. 29, 2010]
+[69 FR 66424, Nov. 15, 2004, as amended at 70 FR 39093, July 6, 2005; 75 FR 73626, Nov. 29, 2010; 87 FR 70226, Nov. 18, 2022]

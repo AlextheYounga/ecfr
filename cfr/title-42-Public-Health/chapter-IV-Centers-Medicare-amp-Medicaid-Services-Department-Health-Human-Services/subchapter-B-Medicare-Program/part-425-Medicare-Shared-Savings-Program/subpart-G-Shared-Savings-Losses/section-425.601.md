@@ -1,12 +1,10 @@
-##### § 425.601 Establishing, adjusting, and updating the benchmark for agreement periods beginning on July 1, 2019, and in subsequent years. #####
-
-Link to an amendment published at 87 FR 70237, Nov. 18, 2022.
+##### § 425.601 Establishing, adjusting, and updating the benchmark for agreement periods beginning on or after July 1, 2019, and before January 1, 2024. #####
 
 (a) *Computing per capita Medicare Part A and Part B benchmark expenditures for an ACO's first agreement period.* For agreement periods beginning on July 1, 2019, and in subsequent years, in computing an ACO's historical benchmark for its first agreement period under the Shared Savings Program, CMS determines the per capita Parts A and B fee-for-service expenditures for beneficiaries that would have been assigned to the ACO in any of the 3 most recent years prior to the start of the agreement period using the ACO participant TINs identified before the start of the agreement period as required under § 425.118(a) and the beneficiary assignment methodology selected by the ACO for the first performance year of the agreement period as required under § 425.226(a)(1). CMS does all of the following:
 
 (1) Calculates the payment amounts included in Parts A and B fee-for-service claims using a 3-month claims run out with a completion factor.
 
-(i) This calculation excludes indirect medical education (IME) and disproportionate share hospital (DSH) payments.
+(i) This calculation excludes indirect medical education (IME) and disproportionate share hospital (DSH) payments, and the supplemental payment for IHS/Tribal hospitals and Puerto Rico hospitals.
 
 (ii) This calculation includes individually beneficiary identifiable final payments made under a demonstration, pilot or time limited program.
 
@@ -36,7 +34,7 @@ Link to an amendment published at 87 FR 70237, Nov. 18, 2022.
 
 (B) Determine the ACO's regional expenditures as specified under paragraphs (c) and (d) of this section.
 
-(iv) The national and regional growth rates are blended together by taking a weighted average of the two. The weight applied to the -
+(iv) The national and regional growth rates are blended together by taking a weighted average of the two. The weight applied to the—
 
 (A) National growth rate is calculated as the share of assignable beneficiaries in the ACO's regional service area for BY3 that are assigned to the ACO in BY3, as calculated in paragraph (a)(5)(v) of this section; and
 
@@ -118,7 +116,7 @@ Link to an amendment published at 87 FR 70237, Nov. 18, 2022.
 
 (ii) Determine the ACO's regional expenditures as specified under paragraphs (c) and (d) of this section.
 
-(4) The national and regional growth rates are blended together by taking a weighted average of the two. The weight applied to the -
+(4) The national and regional growth rates are blended together by taking a weighted average of the two. The weight applied to the—
 
 (i) National growth rate is calculated as the share of assignable beneficiaries in the ACO's regional service area that are assigned to the ACO for the applicable performance year as specified in paragraph (a)(5)(v) of this section; and
 
@@ -138,9 +136,9 @@ Link to an amendment published at 87 FR 70237, Nov. 18, 2022.
 
 (D) Aged/non-dual eligible Medicare and Medicaid beneficiaries.
 
-(2) Calculates assignable beneficiary expenditures using the payment amounts included in Parts A and B fee-for-service claims with dates of service in the 12-month calendar year for the relevant benchmark or performance year, using a 3-month claims run out with a completion factor. The calculation -
+(2) Calculates assignable beneficiary expenditures using the payment amounts included in Parts A and B fee-for-service claims with dates of service in the 12-month calendar year for the relevant benchmark or performance year, using a 3-month claims run out with a completion factor. The calculation—
 
-(i) Excludes IME and DSH payments; and
+(i) Excludes IME and DSH payments, and the supplemental payment for IHS/Tribal hospitals and Puerto Rico hospitals; and
 
 (ii) Considers individually beneficiary identifiable final payments made under a demonstration, pilot or time limited program.
 
@@ -156,7 +154,7 @@ Link to an amendment published at 87 FR 70237, Nov. 18, 2022.
 
 (iv) Aged/non-dual eligible Medicare and Medicaid beneficiaries.
 
-(d) *Calculating regional expenditures.* For all agreement periods beginning on July 1, 2019, and in subsequent years, CMS calculates an ACO's risk adjusted regional expenditures by -
+(d) *Calculating regional expenditures.* For all agreement periods beginning on July 1, 2019, and in subsequent years, CMS calculates an ACO's risk adjusted regional expenditures by:
 
 (1) Weighting the risk-adjusted county-level fee-for-service expenditures determined under paragraph (c) of this section according to the ACO's proportion of assigned beneficiaries in the county, determined by the number of the ACO's assigned beneficiaries in the applicable population (according to Medicare enrollment type) residing in the county in relation to the ACO's total number of assigned beneficiaries in the applicable population (according to Medicare enrollment type) for the relevant benchmark or performance year for each of the following populations of beneficiaries:
 
@@ -166,11 +164,9 @@ Link to an amendment published at 87 FR 70237, Nov. 18, 2022.
 
 (iii) Aged/dual eligible Medicare and Medicaid beneficiaries.
 
-(iv) Aged/non-dual eligible Medicare and Medicaid beneficiaries;
+(iv) Aged/non-dual eligible Medicare and Medicaid beneficiaries.
 
-(2) Aggregating the values determined under paragraph (d)(1) of this section for each population of beneficiaries (according to Medicare enrollment type) across all counties within the ACO's regional service area; and
-
-(3) Weighting the aggregate expenditure values determined for each population of beneficiaries (according to Medicare enrollment type) under paragraph (d)(2) of this section by a weight reflecting the proportion of the ACO's overall beneficiary population in the applicable Medicare enrollment type for the relevant benchmark or performance year.
+(2) Aggregating the values determined under paragraph (d)(1) of this section for each population of beneficiaries (according to Medicare enrollment type) across all counties within the ACO's regional service area.
 
 (e) *Resetting the benchmark.* (1) An ACO's benchmark is reset at the start of each subsequent agreement period.
 
@@ -178,7 +174,7 @@ Link to an amendment published at 87 FR 70237, Nov. 18, 2022.
 
 (i) Rather than weighting each year of the benchmark using the percentages provided in paragraph (a)(7) of this section, each benchmark year is weighted equally.
 
-(ii) For a renewing ACO or re-entering ACO whose prior agreement period benchmark was calculated according to § 425.603(c), to determine the weight used in the regional adjustment calculation described in paragraph (f) of this section, CMS considers the agreement period the ACO is entering into according to § 425.600(f) in combination with either of the following -
+(ii) For a renewing ACO or re-entering ACO whose prior agreement period benchmark was calculated according to § 425.603(c), to determine the weight used in the regional adjustment calculation described in paragraph (f) of this section, CMS considers the agreement period the ACO is entering into according to § 425.600(f) in combination with either of the following—
 
 (A) The weight previously applied to calculate the regional adjustment to the ACO's benchmark under § 425.603(c)(9) in its most recent prior agreement period; or
 
@@ -208,11 +204,11 @@ Link to an amendment published at 87 FR 70237, Nov. 18, 2022.
 
 (i) Multiplies the difference between the average per capita amount of expenditures for the ACO's regional service area and the average per capita amount of the ACO's historical benchmark for each population of beneficiaries (ESRD, Disabled, Aged/dual eligible Medicare and Medicaid beneficiaries, Aged/non-dual eligible Medicare and Medicaid beneficiaries) as calculated under either paragraph (a)(8)(ii)(A) or (e) of this section by the applicable proportion of the ACO's assigned beneficiary population (ESRD, Disabled, Aged/dual eligible Medicare and Medicaid beneficiaries, Aged/non-dual eligible Medicare and Medicaid beneficiaries) for BY3 of the historical benchmark.
 
-(ii) Sums the amounts determined in paragraph (f)(4)(i) of this section across the populations of beneficiaries (ESRD, Disabled, Aged/dual eligible Medicare and Medicaid beneficiaries, Aged/non-dual eligible Medicare and Medicaid beneficiaries).
+(ii) Sums the amounts determined in paragraph (f)(5)(i) of this section across the populations of beneficiaries (ESRD, Disabled, Aged/dual eligible Medicare and Medicaid beneficiaries, Aged/non-dual eligible Medicare and Medicaid beneficiaries).
 
 (iii) If the resulting sum is a net positive value, the ACO is considered to have lower spending compared to the ACO's regional service area. If the resulting sum is a net negative value, the ACO is considered to have higher spending compared to the ACO's regional service area.
 
-(iv) If during the term of the agreement period CMS adjusts the ACO's benchmark, as specified in paragraph (a)(9) of this section, CMS redetermines whether the ACO is considered to have lower spending or higher spending compared to the ACO's regional service area for purposes of determining the percentage in paragraphs (f)(1) and (2) of this section used in calculating the adjustment under either paragraph (a)(8) or (e) of this section.
+(iv) If during the term of the agreement period CMS adjusts the ACO's benchmark, as specified in paragraph (a)(9) of this section, CMS redetermines whether the ACO is considered to have lower spending or higher spending compared to the ACO's regional service area for purposes of determining the percentage in paragraphs (f)(1) through (3) of this section used in calculating the adjustment under either paragraph (a)(8) or (e) of this section.
 
 (g) *July 1, 2019 through December 31, 2019 performance year.* In determining performance for the July 1, 2019 through December 31, 2019 performance year described in § 425.609(c), CMS does all of the following:
 
@@ -220,4 +216,4 @@ Link to an amendment published at 87 FR 70237, Nov. 18, 2022.
 
 (2) When updating the benchmark using the methodology set forth in paragraph (b) of this section and § 425.609(c), CMS updates the benchmark based on growth between BY3 and CY 2019.
 
-[83 FR 68071, Dec. 31, 2018, as amended at 85 FR 85042, Dec. 28, 2020]
+[83 FR 68071, Dec. 31, 2018, as amended at 85 FR 85042, Dec. 28, 2020; 87 FR 70237, Nov. 18, 2022]

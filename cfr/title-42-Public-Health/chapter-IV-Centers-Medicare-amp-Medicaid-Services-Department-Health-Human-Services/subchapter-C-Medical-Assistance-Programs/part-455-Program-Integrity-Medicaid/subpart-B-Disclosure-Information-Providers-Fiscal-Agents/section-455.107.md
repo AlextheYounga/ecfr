@@ -1,7 +1,5 @@
 ##### § 455.107 Disclosure of affiliations. #####
 
-Link to an amendment published at 87 FR 70249, Nov. 18, 2022.
-
 (a) *Definitions.* For purposes of this section only, the following terms apply to the definition of disclosable event in § 455.101:
 
 (1) “Uncollected debt” only applies to the following:
@@ -16,7 +14,7 @@ Link to an amendment published at 87 FR 70249, Nov. 18, 2022.
 
 (b) *General.* (1)(i) *Selection of option.* A State, in consultation with CMS, must select one of the two options identified in paragraph (b)(2) of this section for requiring the disclosure of affiliation information.
 
-(ii) *Change of selection.* A State may not change its selection under paragraph (b) of this section after it has been made.
+(ii) *Change of selection.* A State may, in consultation with CMS, change its selection after it has been made from the option in paragraph (b)(2)(ii) of this section to that in paragraph (b)(2)(i) of this section.
 
 (2)(i) *First option.* In a State that has selected the option in this paragraph (b)(2)(i), a provider that is not enrolled in Medicare but is initially enrolling in Medicaid or CHIP (or is revalidating its Medicaid or CHIP enrollment information) must disclose any and all affiliations that it or any of its owning or managing employees or organizations (consistent with the terms “person with an ownership or control interest” and “managing employee” as defined in § 455.101) has or, within the previous 5 years, had with a currently or formerly enrolled Medicare, Medicaid, or CHIP provider or supplier that has a disclosable event (as defined in § 455.101).
 
@@ -68,7 +66,7 @@ Link to an amendment published at 87 FR 70249, Nov. 18, 2022.
 
 (iii) Whether the affiliation existed when the disclosable event occurred or was imposed.
 
-(iv) If the disclosable event is an uncollected debt -
+(iv) If the disclosable event is an uncollected debt—
 
 (A) The amount of the debt;
 
@@ -84,4 +82,4 @@ Link to an amendment published at 87 FR 70249, Nov. 18, 2022.
 
 (h) *Undisclosed affiliations.* The State, in consultation with CMS, may apply paragraph (g) of this section to situations where a reportable affiliation (as described in paragraphs (b) and (c) of this section) poses an undue risk of fraud, waste, or abuse, but the provider has not yet disclosed or is not required at that time to disclose the affiliation to the State.
 
-[84 FR 47856, Sept. 10, 2019]
+[84 FR 47856, Sept. 10, 2019, as amended at 87 FR 70249, Nov. 18, 2022]

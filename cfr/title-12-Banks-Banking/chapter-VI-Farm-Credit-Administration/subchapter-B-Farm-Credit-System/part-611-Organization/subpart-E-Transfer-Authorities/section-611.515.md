@@ -1,7 +1,5 @@
 ##### § 611.515 Information statement. #####
 
-Link to an amendment published at 87 FR 27492, May 9, 2022.
-
 (a) The bank and association shall prepare an information statement which will inform stockholders about the provisions of the proposed transfer of authorities and the effect of the proposal on the bank and the association.
 
 (b) The information statement for each institution involved shall contain the following materials as applicable to the institution:
@@ -32,7 +30,7 @@ THE FARM CREDIT ADMINISTRATION HAS NEITHER APPROVED NOR PASSED UPON THE ACCURACY
 
 (D) If the request is made more than 45 days after the end of the most recent quarter, the institution's financial statements shall be as of the end of that quarter.
 
-(E) The financial statements must be accompanied by appropriate notes, describing any assets being transferred and including data relating to high-risk assets and other property owned, allowance for loan losses, and current year-to-date chargeoffs.
+(E) The financial statements must be accompanied by appropriate notes, describing any assets being transferred and including data relating to high-risk assets and other property owned, allowance for credit losses, and current year-to-date chargeoffs.
 
 (F) The amount and nature of start-up costs estimated to be associated with the transfer.
 
@@ -54,4 +52,4 @@ THE FARM CREDIT ADMINISTRATION HAS NEITHER APPROVED NOR PASSED UPON THE ACCURACY
 
 (c) No bank or association director, officer, or employee shall make any untrue or misleading statement of a material fact, or fail to disclose any material fact necessary under the circumstances to make statements made not misleading, to a stockholder of the association in connection with a transfer under this subpart.
 
-[53 FR 50393, Dec. 15, 1988, as amended at 58 FR 48790, Sept. 20, 1993]
+[53 FR 50393, Dec. 15, 1988, as amended at 58 FR 48790, Sept. 20, 1993; 87 FR 27492, May 9, 2022]

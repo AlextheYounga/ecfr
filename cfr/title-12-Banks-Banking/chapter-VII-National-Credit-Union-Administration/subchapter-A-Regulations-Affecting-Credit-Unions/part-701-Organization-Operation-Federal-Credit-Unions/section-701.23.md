@@ -103,10 +103,4 @@ insured credit union and the obligations are either:
 
 (3) *Appeal to NCUA Board.* A Federal credit union may request the regional director to reconsider a denied request for expanded authority and/or file an appeal with the NCUA Board in accordance with the procedures set forth in subpart B to part 746 of this chapter.
 
-(i) *Temporary regulatory relief in response to COVID-19.* Notwithstanding § 701.23(b), during the period commencing on April 21, 2020 and concluding on December 31, 2022, a Federal credit union may:
-
-(1) Purchase, in whole or in part, and within the limitations of the board of directors' written purchase policies, any eligible obligations pursuant to paragraph (b)(1)(i) and (b)(2)(i) of this section without regard to whether they are loans the credit union is empowered to grant or are refinancing to ensure the obligations are ones the purchasing credit union is empowered to grant; and
-
-(2) Purchase and hold the obligations described in § 701.23(b)(2)(i) through (iv) if the Federal credit union's CAMELS composite rating is “1,” “2,” or “3”.
-
-[44 FR 27071, May 9, 1979, as amended at 46 FR 38680, July 29, 1981. Redesignated at 49 FR 30688, Aug. 1, 1984, and amended at 53 FR 4844, Feb. 18, 1988; 56 FR 15036, Apr. 15, 1991; 56 FR 35811, July 29, 1991; 60 FR 58504, Nov. 28, 1995; 63 FR 70998, Dec. 23, 1998; 72 FR 65442, Nov. 21, 2007; 77 FR 31990, May 31, 2012; 78 FR 37958, June 25, 2013; 80 FR 66706, Oct. 29, 2015; 82 FR 50291, Oct. 30, 2017; 84 FR 1605, Feb. 5, 2019; 85 FR 22014, Apr. 21, 2020; 85 FR 83409, Dec. 22, 2020; 86 FR 59288, Oct. 27, 2021; 86 FR 72520, Dec. 22, 2021]Effective Date Note:At 85 FR 22014, Apr. 21, 2020, § 701.23 was amended by adding paragraph (i), effective until Dec. 31, 2020. At 85 FR 83405, Dec. 22, 2020, the effective date was extended until Dec. 31, 2021. At 86 FR 72520, Dec. 22, 2021, the effective date was extended until Dec. 31, 2022.
+[44 FR 27071, May 9, 1979, as amended at 46 FR 38680, July 29, 1981. Redesignated at 49 FR 30688, Aug. 1, 1984]Editorial Note:For Federal Register citations affecting § 701.23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

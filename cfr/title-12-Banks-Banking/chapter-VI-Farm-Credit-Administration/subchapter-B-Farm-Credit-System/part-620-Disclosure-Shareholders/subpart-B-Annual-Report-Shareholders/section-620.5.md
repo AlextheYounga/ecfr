@@ -1,7 +1,5 @@
 ##### § 620.5 Contents of the annual report to shareholders. #####
 
-Link to an amendment published at 87 FR 27492, May 9, 2022.
-
 The report must contain the following items in substantially the same order:
 
 (a) *Description of business.* The description must include a brief discussion of the following items:
@@ -92,7 +90,7 @@ The report must contain the following items in substantially the same order:
 
 (f) *Selected financial data.* Furnish in comparative columnar form for each of the last 5 fiscal years the following financial data, if material:
 
-(1) *For banks and direct lender associations* - (i) *Balance sheet.*
+(1) *For banks and direct lender associations*—(i) *Balance sheet.*
 
 (A) Total assets.
 
@@ -100,7 +98,7 @@ The report must contain the following items in substantially the same order:
 
 (C) Loans.
 
-(D) Allowance for losses.
+(D) Allowance for credit losses.
 
 (E) Net loans.
 
@@ -124,7 +122,7 @@ The report must contain the following items in substantially the same order:
 
 (ii) *Statement of income.* (A) Net interest income.
 
-(B) Provision for loan losses.
+(B) Provision for credit losses.
 
 (C) Extraordinary items.
 
@@ -140,7 +138,7 @@ The report must contain the following items in substantially the same order:
 
 (E) Net chargeoffs-to-average loans.
 
-(F) Allowance for loan losses-to-loans.
+(F) Allowance for credit losses-to-loans.
 
 (iv) *Net income distributed.* (A) Dividends.
 
@@ -198,13 +196,13 @@ The report must contain the following items in substantially the same order:
 
 (A) An analysis of high-risk assets and loan performance categories, to include, but not limited to, a discussion of the nature and extent of significant potential credit risks within the loan portfolio, or other information that could adversely impact performance of the loan portfolio in the near future;
 
-(B) An analysis of the allowance for loan losses that includes the ratios of the allowance to loans and net chargeoffs to average loans, and a discussion of the adequacy of the allowance for losses;
+(B) An analysis of the allowance for credit losses that includes the ratios of the allowance for credit losses to loans and net chargeoffs to average loans, and a discussion of the adequacy of the allowance for credit losses given reasonable and supportable forecasts;
 
 (C) Financial assistance given or received under districtwide or Systemwide loss-sharing or capital preservation agreements or otherwise;
 
 (D) For banks, a description in the aggregate of the recent loss experience of related associations that are its shareholders, including the items enumerated in paragraphs (g)(1)(iv) (A), (B), and (C) of this section.
 
-(E) Describe any material obligations with respect to loans sold and the amount of any material contributions made in connection with loans sold into the secondary market. Further disclose the amount of risk of loss associated with such obligations and the amount included in the allowance for losses to provide for such risk.
+(E) Describe any material obligations with respect to loans sold and the amount of any material contributions made in connection with loans sold into the secondary market. Further disclose the amount of risk of loss associated with such obligations and the amount included in the allowance for credit losses to provide for such risk.
 
 (2) *Results of operations.* (i) Describe, on a comparative basis, changes in the major components of net interest income during the last 2 fiscal years, describing significant factors that contributed to the changes and quantifying the amount of change(s) due to an increase in volume or the introduction of new services and the amount due to changes in interest rates earned and paid, based on averages for each period.
 
@@ -220,7 +218,7 @@ The report must contain the following items in substantially the same order:
 
 (vii) Describe any known trends or uncertainties that have had, or that the institution reasonably expects will have, a material impact on net interest income or net income. Disclose any events known to management that will cause a material change in the relationship between costs and revenues.
 
-(3) *Liquidity and funding sources* - (i) *Funding sources.* (A) Describe the average and year end amounts, maturities, and interest rates on outstanding consolidated System-wide debt obligations, bond obligations, or any other obligations used to fund the institution's lending operations.
+(3) *Liquidity and funding sources*—(i) *Funding sources.* (A) Describe the average and year end amounts, maturities, and interest rates on outstanding consolidated System-wide debt obligations, bond obligations, or any other obligations used to fund the institution's lending operations.
 
 (B) Describe existing lines of credit and their terms.
 
@@ -264,4 +262,4 @@ The report must contain the following items in substantially the same order:
 
 (3) Each Farm Credit bank must include a summary report of the quantitative YBS data from its affiliated direct lender associations as described in FCA's instructions for the annual YBS yearend report. The report must include the definitions of “young,” “beginning,” and “small” farmers and ranchers. A narrative report may be necessary for an ample understanding of the YBS mission results.
 
-[51 FR 8656, Mar. 13, 1986, as amended at 69 FR 16471, Mar. 30, 2004; 70 FR 53909, Sept. 13, 2005; 71 FR 5764, Feb. 2, 2006; 71 FR 76119, Dec. 20, 2006; 72 FR 4414, Jan. 31, 2007; 74 FR 28599, June 17, 2009; 75 FR 18744, Apr. 12, 2010; 77 FR 60597, Oct. 3, 2012; 78 FR 31834, May 28, 2013; 79 FR 17856, Mar. 31, 2014; 81 FR 49778, July 28, 2016; 86 FR 54357, Oct. 1, 2021]
+[51 FR 8656, Mar. 13, 1986, as amended at 69 FR 16471, Mar. 30, 2004; 70 FR 53909, Sept. 13, 2005; 71 FR 5764, Feb. 2, 2006; 71 FR 76119, Dec. 20, 2006; 72 FR 4414, Jan. 31, 2007; 74 FR 28599, June 17, 2009; 75 FR 18744, Apr. 12, 2010; 77 FR 60597, Oct. 3, 2012; 78 FR 31834, May 28, 2013; 79 FR 17856, Mar. 31, 2014; 81 FR 49778, July 28, 2016; 86 FR 54357, Oct. 1, 2021; 87 FR 27492, May 9, 2022]

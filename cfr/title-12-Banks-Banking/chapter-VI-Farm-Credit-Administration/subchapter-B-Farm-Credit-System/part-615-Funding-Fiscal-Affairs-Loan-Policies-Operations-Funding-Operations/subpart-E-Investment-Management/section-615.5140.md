@@ -1,8 +1,6 @@
 ##### § 615.5140 Eligible investments. #####
 
-Link to an amendment published at 87 FR 27492, May 9, 2022.
-
-(a) *Farm Credit banks* - (1) *Investment eligibility criteria.* A Farm Credit bank may purchase an investment only if it satisfies the following investment eligibility criteria:
+(a) *Farm Credit banks*—(1) *Investment eligibility criteria.* A Farm Credit bank may purchase an investment only if it satisfies the following investment eligibility criteria:
 
 (i) The investment must be purchased and held for one or more investment purposes authorized in § 615.5132.
 
@@ -34,7 +32,7 @@ Link to an amendment published at 87 FR 27492, May 9, 2022.
 
 (2) *Resecuritizations.* Notwithstanding any other provision of this section, System banks may *not* purchase resecuritizations (except when both principal and interest are fully and explicitly guaranteed by the U.S. Government or a GSE) without approval under paragraph (e) of this section.
 
-(b) *Farm Credit associations* - (1) *Risk management investments.* Each Farm Credit System association, with the approval of its funding bank, may purchase and hold investments to manage risks. Each association must identify and evaluate how the investments that it purchases contributes to management of its risks. Only securities that are issued by, or are unconditionally guaranteed or insured as to the timely payment of principal and interest by, the United States Government or its agencies are investments that associations may acquire for risk management purposes under this paragraph (b).
+(b) *Farm Credit associations*—(1) *Risk management investments.* Each Farm Credit System association, with the approval of its funding bank, may purchase and hold investments to manage risks. Each association must identify and evaluate how the investments that it purchases contributes to management of its risks. Only securities that are issued by, or are unconditionally guaranteed or insured as to the timely payment of principal and interest by, the United States Government or its agencies are investments that associations may acquire for risk management purposes under this paragraph (b).
 
 (2) *Secondary market Government-guaranteed loans.* In addition to investing in the securities described in paragraph (b)(1) of this section, each Farm Credit System association may also manage risk by holding those portions of loans that:
 
@@ -56,7 +54,7 @@ Link to an amendment published at 87 FR 27492, May 9, 2022.
 
 (i) Include in the numerator the daily (point-in-time) balance of all investments purchased and held under this section. Unless otherwise directed by FCA, associations must use the investment balance on the last business day of the quarter when calculating the numerator of the portfolio limit under this paragraph. For this calculation, value investments at amortized cost and accrued interest.
 
-(ii) Include in the denominator the 90-day average daily balance of total outstanding loans as defined in § 615.5131. For this calculation, value loans at amortized cost and include accrued interest. The denominator does not include any allowance for loan loss adjustments.
+(ii) Include in the denominator the 90-day average daily balance of total outstanding loans as defined in § 615.5131. For this calculation, value loans at amortized cost and include accrued interest. The denominator does not include any allowance for credit loss adjustments.
 
 (iii) Exclude from the numerator the following:
 
@@ -90,4 +88,4 @@ Link to an amendment published at 87 FR 27492, May 9, 2022.
 
 (e) *Other investments approved by FCA.* You may purchase and hold investments that we approve. Your request for our approval must explain the risk characteristics of the investment and your purpose and objectives for making the investment.
 
-[83 FR 27502, June 12, 2018; 83 FR 30833, July 2, 2018, as amended at 85 FR 62949, Oct. 6, 2020; 85 FR 70955, Nov. 6, 2020]
+[83 FR 27502, June 12, 2018; 83 FR 30833, July 2, 2018, as amended at 85 FR 62949, Oct. 6, 2020; 85 FR 70955, Nov. 6, 2020; 87 FR 27492, May 9, 2022]

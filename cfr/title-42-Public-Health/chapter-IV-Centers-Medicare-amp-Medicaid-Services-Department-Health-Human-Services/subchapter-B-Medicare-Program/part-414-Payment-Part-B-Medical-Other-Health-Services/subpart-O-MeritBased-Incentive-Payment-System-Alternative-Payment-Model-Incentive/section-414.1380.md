@@ -1,7 +1,5 @@
 ##### § 414.1380 Scoring. #####
 
-Link to an amendment published at 87 FR 70228, Nov. 18, 2022.
-
 (a) *General.* MIPS eligible clinicians are scored under MIPS based on their performance on measures and activities in four performance categories. MIPS eligible clinicians are scored against performance standards for each performance category and receive a final score, composed of their performance category scores, and calculated according to the final score methodology.
 
 (1) *Performance standards.* (i) For the quality performance category, measures are scored between zero and 10 measure achievement points. Performance is measured against benchmarks. Measure bonus points are available for submitting high-priority measures, submitting measures using end-to-end electronic reporting, and in small practices that submit data on at least 1 quality measure. Beginning with the 2020 MIPS payment year, improvement scoring is available in the quality performance category.
@@ -47,6 +45,8 @@ Link to an amendment published at 87 FR 70228, Nov. 18, 2022.
 (B) CMS Web Interface collection type uses benchmarks from the corresponding reporting year of the Shared Savings Program.
 
 (C) Beginning with the 2022 MIPS payment year, for each measure that has a benchmark that CMS determines may have the potential to result in inappropriate treatment, CMS will set benchmarks using a flat percentage for all collection types where the top decile is higher than 90 percent under the methodology at paragraph (b)(1)(ii) of this section.
+
+(D) Beginning with the CY 2023 performance period/2025 MIPS payment year, CMS will calculate a benchmark for an administrative claims quality measure using the performance on the measures during the current performance period.
 
 (iii) *Minimum case requirements.* Except as otherwise specified in the MIPS final list of quality measures described in § 414.1330(a)(1), the minimum case requirement is 20 cases.
 
@@ -136,7 +136,7 @@ Link to an amendment published at 87 FR 70228, Nov. 18, 2022.
 
 (D) The cost improvement score cannot be lower than zero percentage points.
 
-(E) The maximum cost improvement score for the 2020, 2021, 2022, and 2023 MIPS payment years is zero percentage points.
+(E) The maximum cost improvement score for the 2020, 2021, 2022, and 2023 MIPS payment years is zero percentage points. The maximum cost improvement score beginning with the 2024 MIPS payment year is 1 percentage point.
 
 (v) A cost performance category score is not calculated if a MIPS eligible clinician or group is not attributed any cost measures for the performance period because the clinician or group has not met the minimum case volume specified by CMS for any of the cost measures or a benchmark has not been created for any of the cost measures that would otherwise be attributed to the clinician or group.
 
@@ -186,9 +186,9 @@ Link to an amendment published at 87 FR 70228, Nov. 18, 2022.
 
 (A) A MIPS eligible clinician earns a score for each measure by reporting, as applicable: the numerator (of at least one) and denominator, or a yes/no statement. If an exclusion is reported for a measure, the points available for that measure are redistributed to another measure(s).
 
-(B) Each required measure is worth 10, 20, or 40 points, as specified by CMS.
+(B) For the 2019 performance period/2021 MIPS payment year through the 2022 performance period/2024 MIPS payment year, each required measure is worth 10, 20, or 40 points, as specified by CMS. For the 2023 performance period/2025 MIPS payment year and subsequent years, each required measure is worth 10, 15, 25 or 30 points, as specified by CMS.
 
-(C) Each optional measure is worth five or ten bonus points, as specified by CMS.
+(C) For the 2019 performance period/2021 MIPS payment year through the 2022 performance period/2024 MIPS payment year, each optional measure is worth five or ten bonus points, as specified by CMS. For the 2023 performance period/2025 MIPS payment year and subsequent years, each optional measure is worth five bonus points, as specified by CMS.
 
 (c) *Final score calculation.* Each MIPS eligible clinician receives a final score of 0 to 100 points for a performance period for a MIPS payment year calculated as follows. If a MIPS eligible clinician is scored on fewer than 2 performance categories, he or she receives a final score equal to the performance threshold.
 
@@ -223,11 +223,11 @@ Table 1 to Paragraph (c) Introductory Text
 
 (*3*) Beginning with the 2021 MIPS payment year, for the quality, cost, improvement activities, and Promoting Interoperability performance categories, the MIPS eligible clinician joins an existing practice during the final 3 months of the performance period year that is not participating in MIPS as a group or joins a practice that is newly formed during the final 3 months of the performance period year.
 
-(*4*) *For the Promoting Interoperability performance category:* (*i*) For the 2021 through 2024 MIPS payment years, the MIPS eligible clinician is a physical therapist, occupational therapist, clinical psychologist, qualified audiologist, qualified speech-language pathologist, or a registered dietitian or nutrition professional. In the event that a MIPS eligible clinician submits data for the Promoting Interoperability performance category, the scoring weight specified in paragraph (c)(1) of this section will be applied and its weight will not be redistributed.
+(*4*) *For the Promoting Interoperability performance category:* (*i*) For the 2021 through 2025 MIPS payment years, the MIPS eligible clinician is a physical therapist, occupational therapist, clinical psychologist, qualified audiologist, qualified speech-language pathologist, or a registered dietitian or nutrition professional. In the event that a MIPS eligible clinician submits data for the Promoting Interoperability performance category, the scoring weight specified in paragraph (c)(1) of this section will be applied and its weight will not be redistributed.
 
 (*ii*) For the 2019 through 2024 MIPS payment years, the MIPS eligible clinician is a nurse practitioner, physician assistant, clinical nurse specialist, or certified registered nurse anesthetist. In the event that a MIPS eligible clinician submits data for the Promoting Interoperability performance category, the scoring weight specified in paragraph (c)(1) of this section will be applied and its weight will not be redistributed.
 
-(*iii*) For the 2024 MIPS payment year, the MIPS eligible clinician is a clinical social worker. In the event that a MIPS eligible clinician submits data for the Promoting Interoperability performance category, the scoring weight specified in paragraph (c)(1) of this section will be applied and its weight will not be redistributed.
+(*iii*) For the 2024 through 2025 MIPS payment years, the MIPS eligible clinician is a clinical social worker. In the event that a MIPS eligible clinician submits data for the Promoting Interoperability performance category, the scoring weight specified in paragraph (c)(1) of this section will be applied and its weight will not be redistributed.
 
 (*5*) [Reserved]
 
@@ -394,7 +394,7 @@ Table 8 to Paragraph (c)(2)(ii)(G)
 
 (iii) For the Promoting Interoperability performance category to be reweighted in accordance with paragraph (c)(2)(ii) of this section for a MIPS eligible clinician who elects to participate in MIPS as part of a group or virtual group, all of the MIPS eligible clinicians in the group or virtual group must qualify for reweighting based on the circumstances described in paragraph (c)(2)(i) of this section, or the group or virtual group must meet the definition of a hospital-based MIPS eligible clinician or a non-patient facing MIPS eligible clinician as defined in § 414.1305.
 
-(3) *Complex patient bonus.* For the CY 2020, 2021, 2022, and 2023 MIPS payment years and associated performance periods, provided that a MIPS eligible clinician, group, virtual group or APM Entity submits data for at least one MIPS performance category for the applicable performance period for the MIPS payment year, a complex patient bonus will be added to the final score for the MIPS payment year, as stated in paragraphs (c)(3)(i) through (iv) of this section. Beginning with the CY 2022 MIPS performance period/CY 2024 MIPS payment year, provided that a MIPS eligible clinician, group, subgroup, virtual group or APM Entity submits data for at least one MIPS performance category for the applicable performance period for the MIPS payment year, a complex patient bonus will be added to the final score for the MIPS payment year, if applicable, as described in paragraphs (c)(3)(v) through (viii) of this section.
+(3) *Complex patient bonus.* For the CY 2020, 2021, 2022, and 2023 MIPS payment years and associated performance periods, provided that a MIPS eligible clinician, group, virtual group or APM Entity submits data for at least one MIPS performance category for the applicable performance period for the MIPS payment year, a complex patient bonus will be added to the final score for the MIPS payment year, as stated in paragraphs (c)(3)(i) through (iv) of this section. For the CY 2022 MIPS performance period/CY 2024 MIPS payment year, provided that a MIPS eligible clinician, group, subgroup, virtual group or APM Entity submits data for at least one MIPS performance category for the applicable performance period for the MIPS payment year, a complex patient bonus will be added to the final score for the MIPS payment year, if applicable, as described in paragraphs (c)(3)(v) through (viii) of this section. Beginning with the CY 2023 MIPS performance period/CY 2025 MIPS payment year, provided that a MIPS eligible clinician, group, subgroup, virtual group or APM Entity submits data for at least one MIPS performance category for the applicable performance period for the MIPS payment year, or is a facility-based MIPS eligible clinician, a complex patient bonus will be added to the final score for the MIPS payment year, if applicable, as described in paragraphs (c)(3)(v) through (viii) of this section.
 
 (i) For the CY 2020, 2021, 2022, and 2023 MIPS payment years and associated performance periods, for MIPS eligible clinicians and groups, the complex patient bonus is calculated as follows: [The average HCC risk score assigned to beneficiaries (pursuant to the HCC risk adjustment model established by CMS pursuant to section 1853(a)(1) of the Act) seen by the MIPS eligible clinician or seen by clinicians in a group] + [the dual eligible ratio × 5].
 
@@ -424,7 +424,7 @@ Table 8 to Paragraph (c)(2)(ii)(G)
 
 (ii) Beginning with the 2021 MIPS payment year, the scoring methodology applicable for MIPS eligible clinicians scored with facility-based measurement is the Total Performance Score methodology adopted for the Hospital VBP Program, for the fiscal year for which payment begins during the applicable MIPS performance period.
 
-(2) *Eligibility for facility-based measurement.* MIPS eligible clinicians are eligible for facility-based measurement for a MIPS payment year if they are determined to be facility-based as an individual clinician or as part of a group, as follows:
+(2) *Eligibility for facility-based measurement.* A MIPS eligible clinician is eligible for facility-based measurement for a MIPS payment year if CMS determines the MIPS eligible clinician to be facility-based as an individual clinician or as part of a group, or beginning with the 2023 performance period/2025 MIPS payment year, a virtual group, as follows:
 
 (i) *Facility-based individual determination.* A MIPS eligible clinician is facility-based if the clinician meets all of the following criteria:
 
@@ -434,15 +434,17 @@ Table 8 to Paragraph (c)(2)(ii)(G)
 
 (C) Can be assigned, under the methodology specified in paragraph (e)(5) of this section, to a facility with a value-based purchasing score for the applicable period.
 
-(ii) *Facility-based group determination.* A facility-based group is a group in which 75 percent or more of its eligible clinician NPIs billing under the group's TIN meet the requirements under paragraph (e)(2)(i) of this section.
+(ii) *Facility-based MIPS eligible group determination.* A facility-based MIPS eligible group is a group in which 75 percent or more of its eligible clinician NPIs billing under the group's TIN meet the requirements under paragraph (e)(2)(i) of this section.
 
 (3) [Reserved]
 
-(4) *Data submission for facility-based measurement.* There are no data submission requirements for individual clinicians to be scored under facility-based measurement. A group must submit data in the improvement activities or Promoting Interoperability performance categories in order to be scored as a facility-based group.
+(4) *Data submission for facility-based measurement.* There are no data submission requirements for a MIPS eligible individual clinician to be scored under facility-based measurement. A MIPS eligible group must submit data in the improvement activities or Promoting Interoperability performance categories in order toto be scored as a facility-based MIPS eligible group.
 
-(5) *Determination of applicable facility score.* (i) A facility-based clinician is scored with facility-based measurement using the score derived from the value-based purchasing score for the facility at which the clinician provided services to the most Medicare beneficiaries during the period the claims are drawn from in paragraph (e)(2) of this section. If there is an equal number of Medicare beneficiaries treated at more than one facility, the value-based purchasing score for the highest scoring facility is used.
+(5) *Determination of applicable facility score.*
 
-(ii) A facility-based group is scored with facility-based measurement using the score derived from the value-based purchasing score for the facility at which the plurality of clinicians identified as facility-based would have had their score determined under paragraph (e)(5)(i) of this section.
+(i) A facility-based MIPS eligible clinician is scored with facility-based measurement using the score derived from the value-based purchasing score for the facility at which the clinician provided services to the most Medicare beneficiaries during the period the claims are drawn from in paragraph (e)(2) of this section. If there is an equal number of Medicare beneficiaries treated at more than one facility, the value-based purchasing score for the highest scoring facility is used.
+
+(ii) A facility-based MIPS eligible group is scored with facility-based measurement using the score derived from the value-based purchasing score for the facility at which the plurality of clinicians identified as facility-based would have had their score determined under paragraph (e)(5)(i) of this section.
 
 (6) *MIPS performance category scoring under the facility-based measurement scoring standard* - (i) *Measures.* The quality and cost measures are those adopted under the value-based purchasing program of the facility for the year described in paragraph (e)(1)(i) of this section.
 
@@ -450,18 +452,14 @@ Table 8 to Paragraph (c)(2)(ii)(G)
 
 (iii) *Performance period.* The performance period for facility-based measurement is the performance period for the measures adopted under the value-based purchasing program of the facility program for the year described in paragraph (e)(1) of this section.
 
-(iv) *Quality.* The quality performance category score is established by determining the percentile performance of the facility in the value-based purchasing program for the specified year as described in paragraph (e)(1) of this section and awarding a score associated with that same percentile performance in the MIPS quality performance category score for those MIPS-eligible clinicians who are not eligible to be scored using facility-based measurement for the MIPS payment year. A clinician or group receiving a facility-based performance score will not earn improvement points based on prior performance in the MIPS quality performance category
+(iv) *Quality.* The quality performance category score is established by determining the percentile performance of the facility in the value-based purchasing program for the specified year as described in paragraph (e)(1) of this section and awarding a score associated with that same percentile performance in the MIPS quality performance category score for those MIPS-eligible clinicians who are not eligible to be scored using facility-based measurement for the MIPS payment year. A MIPS eligible clinician or group receiving a facility-based performance score will not earn improvement points based on prior performance in the MIPS quality performance category.
 
-(v) *Cost.* The cost performance category score is established by determining the percentile performance of the facility in the value-based purchasing program for the specified year as described in paragraph (e)(1) of this section and awarding a score associated with that same percentile performance in the MIPS cost performance category score for those MIPS eligible clinicians who are not eligible to be scored using facility-based measurement for the MIPS payment year. A clinician or group receiving a facility-based performance score will not earn improvement points based on prior performance in the MIPS cost performance category.
-
-(A) *Other cost measures.* MIPS eligible clinicians who are scored under facility-based measurement are not scored on cost measures described in paragraph (b)(2) of this section.
-
-(B) [Reserved]
+(v) *Cost.* The cost performance category score is established by determining the percentile performance of the facility in the value-based purchasing program for the specified year as described in paragraph (e)(1) of this section and awarding a score associated with that same percentile performance in the MIPS cost performance category score for those MIPS eligible clinicians who are not eligible to be scored using facility-based measurement for the MIPS payment year. A MIPS eligible clinician or MIPS eligible group receiving a facility-based performance score will not earn improvement points based on prior performance in the MIPS cost performance category.
 
 (vi) *Use of score from facility-based measurement.* The MIPS quality and cost performance category scores will be based on the facility-based measurement scoring methodology described in paragraph (e)(6) of this section unless:
 
-(A) For the CY 2019 MIPS performance period/2021 MIPS payment year, through the CY 2021 MIPS performance period/2023 MIPS payment year, a clinician or group receives a higher combined MIPS quality and cost performance category score through another MIPS submission.
+(A) For the CY 2019 MIPS performance period/2021 MIPS payment year, through the CY 2021 MIPS performance period/2023 MIPS payment year, a MIPS eligible clinician or group receives a higher combined MIPS quality and cost performance category score through another MIPS submission.
 
-(B) Beginning with the CY 2022 MIPS performance period/2024 MIPS payment year, a clinician or group receives a higher MIPS final score through another MIPS submission.
+(B) Beginning with the CY 2022 MIPS performance period/2024 MIPS payment year, a MIPS eligible clinician or group receives a higher MIPS final score through another MIPS submission.
 
-[83 FR 60081, Nov. 23, 2018, as amended at 84 FR 63196, Nov. 15, 2019; 85 FR 19287, Apr. 6, 2020; 85 FR 85031, Dec. 28, 2020; 86 FR 65673, Nov. 19, 2021; 86 FR 73159, Dec. 27, 2021; 87 FR 7747, Feb. 10, 2022]
+[83 FR 60081, Nov. 23, 2018, as amended at 84 FR 63196, Nov. 15, 2019; 85 FR 19287, Apr. 6, 2020; 85 FR 85031, Dec. 28, 2020; 86 FR 65673, Nov. 19, 2021; 86 FR 73159, Dec. 27, 2021; 87 FR 7747, Feb. 10, 2022; 87 FR 70228, Nov. 18, 2022]

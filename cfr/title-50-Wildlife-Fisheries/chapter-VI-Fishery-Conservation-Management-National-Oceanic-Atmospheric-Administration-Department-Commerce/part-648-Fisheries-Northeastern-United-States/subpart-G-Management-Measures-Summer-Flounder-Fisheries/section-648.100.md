@@ -1,10 +1,8 @@
 ##### § 648.100 Summer flounder Annual Catch Limit (ACL). #####
 
-Link to an amendment published at 87 FR 68929, Nov. 17, 2022.
-
 (a) The Summer Flounder Monitoring Committee shall recommend to the MAFMC separate ACLs for the commercial and recreational summer flounder fisheries, the sum total of which shall be equal to the ABC recommended by the SSC.
 
-(1) *Sector allocations.* The commercial and recreational fishing sector ACLs will be established consistent with the allocation guidelines contained in the Summer Flounder, Scup, and Black Sea Bass Fishery Management Plan (FMP).
+(1) *Sector allocations.* The commercial and recreational fishing sector ACLs will be established based on the allocations defined in the Summer Flounder, Scup, and Black Sea Bass Fishery Management Plan (FMP).
 
 (2) *Periodicity.* The summer flounder commercial and recreational sector ACLs may be established on an annual basis for up to 3 years at a time, dependent on whether the SSC provides single or multiple year ABC recommendations.
 
@@ -16,4 +14,4 @@ Link to an amendment published at 87 FR 68929, Nov. 17, 2022.
 
 (3) Performance reviews shall not substitute for annual reviews that occur to ascertain if prior year ACLs have been exceeded but may be conducted in conjunction with such reviews.
 
-[76 FR 60626, Sept. 29, 2011]
+[76 FR 60626, Sept. 29, 2011, as amended at 87 FR 68929, Nov. 17, 2022]

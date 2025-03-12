@@ -1,7 +1,5 @@
 ##### § 425.224 Application procedures for renewing ACOs and re-entering ACOs. #####
 
-Link to an amendment published at 87 FR 70232, Nov. 18, 2022.
-
 (a) *General rules.* A renewing ACO or a re-entering ACO may apply to enter a new participation agreement with CMS for participation in the Shared Savings Program.
 
 (1) In order to obtain a determination regarding whether it meets the requirements to participate in the Shared Savings Program, the ACO must submit a complete application in the form and manner and by the deadline specified by CMS.
@@ -10,7 +8,7 @@ Link to an amendment published at 87 FR 70232, Nov. 18, 2022.
 
 (3) An ACO that seeks to enter a new participation agreement under the Shared Savings Program and was newly formed after March 23, 2010, as defined in the Antitrust Policy Statement, must agree that CMS can share a copy of its application with the Antitrust Agencies.
 
-(4) The ACO must select a participation option in accordance with the requirements specified in § 425.600. Regardless of the date of termination or expiration of the participation agreement, a renewing ACO or re-entering ACO that was previously under a two-sided model, or a one-sided model of the BASIC track's glide path (Level A or Level B), may only reapply for participation in a two-sided model.
+(4) The ACO must select a participation option in accordance with the requirements specified in § 425.600. Regardless of the date of termination or expiration of the participation agreement, a renewing ACO or re-entering ACO that was previously under a two-sided model may only reapply for participation in a two-sided model.
 
 (b) *Review of application.* (1) CMS determines whether to approve a renewing ACO's or re-entering ACO's application based on an evaluation of all of the following factors:
 
@@ -48,10 +46,10 @@ Link to an amendment published at 87 FR 70232, Nov. 18, 2022.
 
 (c) *Notice of determination.* (1) CMS notifies the ACO in writing of its determination to approve or deny the ACO's application.
 
-(2) If CMS denies the application, the notice of determination -
+(2) If CMS denies the application, the notice of determination—
 
 (i) Specifies the reasons for the denial; and
 
 (ii) Informs the ACO of its right to request reconsideration review in accordance with the procedures specified in subpart I of this part.
 
-[80 FR 32839, June 9, 2015, as amended at 83 FR 68065, Dec. 31, 2018; 85 FR 85039, Dec. 28, 2020]
+[80 FR 32839, June 9, 2015, as amended at 83 FR 68065, Dec. 31, 2018; 85 FR 85039, Dec. 28, 2020; 87 FR 70232, Nov. 18, 2022]

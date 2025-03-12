@@ -1,8 +1,6 @@
 ##### § 611.1255 Exit fee calculation. #####
 
-Link to an amendment published at 87 FR 27492, May 9, 2022.
-
-(a) *Final exit fee calculation - terminating association.* Calculate the final exit fee in the following order:
+(a) *Final exit fee calculation—terminating association.* Calculate the final exit fee in the following order:
 
 (1) Base your exit fee calculation on the average daily balances of assets and liabilities for the 12-month period preceding the termination date. Assume for this calculation that you have not paid or accrued the items described in paragraph (a)(4)(ii) and (iii) of this section.
 
@@ -26,7 +24,7 @@ Link to an amendment published at 87 FR 27492, May 9, 2022.
 
 (6) Multiply assets by 6 percent, and subtract this amount from total capital. This is your final exit fee.
 
-(b) *Final exit fee calculation - terminating bank.* (1) The individual exit fees of affiliated associations that are terminating with you must be calculated as described in paragraph (a) of this section.
+(b) *Final exit fee calculation—terminating bank.* (1) The individual exit fees of affiliated associations that are terminating with you must be calculated as described in paragraph (a) of this section.
 
 (2) Base your exit fee calculation on the average daily balances of assets and liabilities for the 12-month period preceding the termination date. Assume for this calculation that you have not paid or accrued the items described in paragraph (b)(5)(iii)(B) and (b)(5)(iv) of this section.
 
@@ -40,7 +38,7 @@ Link to an amendment published at 87 FR 27492, May 9, 2022.
 
 (A) Expenses you have incurred related to termination. Related expenses include, but are not limited to, legal services, accounting services, tax services, studies, auditing, business planning, payments of severance and special retirements, equity holder meetings, and application fees for the termination and reorganization. Do not add back to assets expenses related to a requirement by the FCA to engage independent experts to conduct assessments, analyses, or studies, or to request rulings that solely address the impact of the termination on the System or parties other than the terminating institution and its stockholders.
 
-(B) Any specific allowance for losses, and a pro rata share of any general allowance for losses, on direct loans to associations that are paid off or transferred before or at termination.
+(B) Any specific allowance for losses, and a pro rata share of any general allowance for credit losses, on direct loans to associations that are paid off or transferred before or at termination.
 
 (ii) Subtract from your assets and liabilities your direct loans to affiliated associations that were paid off or transferred in the 12-month period before termination or at termination.
 
@@ -80,4 +78,4 @@ Link to an amendment published at 87 FR 27492, May 9, 2022.
 
 (e) *Additional payment.* If the amount held in escrow is not enough to pay the amounts under paragraph (d)(1) and (d)(2) of this section, the successor institution must pay any remaining liability to the escrow agent for distribution to the appropriate parties. The termination application must include evidence that, after termination, the successor institution will pay any remaining amounts owed.
 
-[67 FR 17909, Apr. 12, 2002, as amended at 71 FR 76118, Dec. 20, 2006]
+[67 FR 17909, Apr. 12, 2002, as amended at 71 FR 76118, Dec. 20, 2006; 87 FR 27492, May 9, 2022]

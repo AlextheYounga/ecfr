@@ -1,16 +1,14 @@
 ##### § 628.2 Definitions. #####
 
-Link to an amendment published at 87 FR 27493, May 9, 2022.
-
 As used in this part:
 
 *Additional tier 1 capital (AT1)* is defined in § 628.20(c).
 
+*Adjusted allowances for credit losses (AACL)* means valuation allowances that have been established through a charge against earnings or retained earnings for expected credit losses on financial assets measured at amortized cost and a lessor's net investment in leases that have been established to reduce the amortized cost basis of the assets to amounts expected to be collected as determined in accordance with GAAP. For purposes of this part, adjusted allowances for credit losses includes allowances for expected credit losses on off-balance sheet credit exposures not accounted for as insurance as determined in accordance with GAAP. Adjusted allowances for credit losses excludes allowances created that reflect credit losses on purchased credit deteriorated assets and available-for-sale debt securities.
+
 *Allocated equities* means stock or surplus representing a patronage payment to a member-borrower that a System institution has retained for the benefit of its membership.1 Allocated equities include qualified allocated equities and nonqualified allocated equities. Allocated equities are redeemable at the System institution board's discretion. Allocated equities contain no voting rights and are generally subordinated to borrower stock in receivership, insolvency, liquidation, or similar proceeding.
 
 1 System institutions as cooperatives are required to send borrowers a written notice of allocation specifying the amount of patronage payments retained as equity pursuant to the Internal Revenue Code section 1388.
-
-*Allowances for loan losses (ALL)* means valuation allowances that have been established through a charge against earnings to cover estimated credit losses on loans, lease financing receivables, or other extensions of credit as determined in accordance with generally accepted accounting principles (GAAP). For purposes of this part, ALL includes allowances that have been established through a charge against earnings to cover estimated credit losses associated with off-balance sheet credit exposures as determined in accordance with GAAP.
 
 *Bank holding company* means a bank holding company as defined in section 2 of the Bank Holding Company Act.
 
@@ -22,7 +20,7 @@ As used in this part:
 
 *Call Report* means reports of condition and performance, as described in subpart D of part 621 of this chapter.
 
-*Carrying value* means, with respect to an asset, the value of the asset on the balance sheet of the System institution, determined in accordance with GAAP.
+*Carrying value* means, with respect to an asset, the value of the asset on the balance sheet of the System institution, determined in accordance with GAAP. For all assets other than available-for-sale debt securities or purchased credit deteriorated assets, the carrying value is not reduced by any associated credit loss allowance that is determined in accordance with GAAP.
 
 *Central counterparty (CCP)* means a counterparty (for example, a clearinghouse) that facilitates trades between counterparties in one or more financial markets by either guaranteeing trades or novating contracts.
 
@@ -544,7 +542,7 @@ As used in this part:
 
 (vi) [Reserved]
 
-(2) Any amount of the System institution's allowance for loan losses that is not included in tier 2 capital.
+(2) Any amount of the System institution's adjusted allowance for credit losses that is not included in tier 2 capital.
 
 *Subsidiary* means, with respect to a company, a company controlled by that company.
 
@@ -620,4 +618,4 @@ As used in this part:
 
 *U.S. Government agency* means an instrumentality of the U.S. Government whose obligations are fully guaranteed as to the timely payment of principal and interest by the full faith and credit of the U.S. Government.
 
-[81 FR 49779, July 28, 2016, as amended at 86 FR 54357, Oct. 1, 2021]
+[81 FR 49779, July 28, 2016, as amended at 86 FR 54357, Oct. 1, 2021; 87 FR 27493, May 9, 2022]

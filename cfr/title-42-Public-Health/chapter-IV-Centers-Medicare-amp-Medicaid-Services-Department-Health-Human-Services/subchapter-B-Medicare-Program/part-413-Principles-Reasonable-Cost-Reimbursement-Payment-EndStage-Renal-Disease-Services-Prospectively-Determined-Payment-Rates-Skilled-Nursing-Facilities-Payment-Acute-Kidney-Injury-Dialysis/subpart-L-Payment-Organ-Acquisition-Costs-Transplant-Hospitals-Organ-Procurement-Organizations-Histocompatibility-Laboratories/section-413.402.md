@@ -1,8 +1,6 @@
 ##### § 413.402 Organ acquisition costs. #####
 
-Link to an amendment published at 87 FR 72288, Nov. 23, 2022.
-
-(a) *Costs related to organ acquisition.* Costs recognized in paragraph (b) of this section are costs incurred in the acquisition of organs from a living donor or a cadaveric donor, by the hospital or an organ procurement organization, as appropriate. Additionally, there are administrative and general costs that may be allowable and included on the cost report for an OPO or TH/HOPO.
+(a) *Costs related to organ acquisition.* Costs recognized in paragraph (b) of this section are allowable costs incurred in the acquisition of organs intended for transplant, including those organs that are subsequently determined unsuitable for transplant and furnished for research from a living donor or a deceased donor by the hospital, or from a deceased donor by an OPO. Additionally, there are administrative and general costs that may be allowable and included on the cost report for an OPO or a TH.
 
 (b) *Types of costs.* Organ acquisition costs are as follows:
 
@@ -10,21 +8,21 @@ Link to an amendment published at 87 FR 72288, Nov. 23, 2022.
 
 (2) Donor and beneficiary evaluation.
 
-(3) Other costs associated with excising organs, such as general routine and special care services (for example, intensive care unit or critical care unit services), provided to the living or cadaveric donor.
+(3) Other costs associated with excising organs, such as general routine and special care services (for example, intensive care unit or critical care unit services), provided to the living or deceased donor.
 
-(4) Operating room and other inpatient ancillary services applicable to the living or cadaveric donor.
+(4) Operating room and other inpatient ancillary services applicable to the living or deceased donor.
 
 (5) Organ preservation and perfusion costs.
 
 (6) Organ Procurement and Transplantation Network registration fees, and the reasonable and necessary cost of other fees, such as the registration fees for a kidney paired exchange, to register candidates for organ transplants. These allowable registry fees must support or promote organ transplantation and must not be duplicative in nature.
 
-(7) Surgeons' fees for excising cadaveric organs (currently limited to $1,250 for kidneys).
+(7) Surgeons' fees for excising deceased organs (currently limited to $1,250 for kidneys).
 
 (8) Transportation of the:
 
-(i) Excised organ to the transplant hospital; and
+(i) Excised organ to the TH; and
 
-(ii) Cadaveric donor to procure organs when it is necessary to preserve clinical outcomes or to avoid loss of potentially transplantable organs.
+(ii) Deceased donor to procure organs when it is necessary to preserve clinical outcomes or to avoid loss of potentially transplantable organs.
 
 (9) Costs of organs acquired from other hospitals or organ procurement organizations.
 
@@ -52,7 +50,7 @@ Link to an amendment published at 87 FR 72288, Nov. 23, 2022.
 
 (i) Donor burial and funeral expenses.
 
-(ii) Transportation costs of the cadaveric donor after organ procurement for funeral services or for burial.
+(ii) Transportation costs of the deceased donor after organ procurement for funeral services or for burial.
 
 (iii) Transportation costs for a living donor.
 
@@ -61,3 +59,5 @@ Link to an amendment published at 87 FR 72288, Nov. 23, 2022.
 (v) Costs associated with and incurred for OPO-sponsored seminars where continuing education credits are given and where the attendee is not on the OPO's staff (as described at § 486.326(b)).
 
 (vi) Unreasonable costs incurred for administrator's duties associated with professional organizations.
+
+[86 FR 73515, Dec. 27, 2021, as amended at 87 FR 72288, Nov. 23, 2022]

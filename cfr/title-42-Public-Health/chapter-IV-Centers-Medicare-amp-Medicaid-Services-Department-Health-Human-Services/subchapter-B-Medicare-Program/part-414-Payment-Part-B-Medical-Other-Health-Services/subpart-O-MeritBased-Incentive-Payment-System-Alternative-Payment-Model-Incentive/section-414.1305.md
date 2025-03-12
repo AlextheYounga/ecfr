@@ -1,8 +1,6 @@
 ##### § 414.1305 Definitions. #####
 
-Link to an amendment published at 87 FR 70227, Nov. 18, 2022.
-
-As used in this section, unless otherwise indicated -
+As used in this section, unless otherwise indicated—
 
 *Additional performance threshold* means the numerical threshold for a MIPS payment year against which the final scores of MIPS eligible clinicians are compared to determine the additional MIPS payment adjustment factors for exceptional performance.
 
@@ -80,11 +78,11 @@ As used in this section, unless otherwise indicated -
 
 (i) The 2014 Edition Base EHR definition (as defined at 45 CFR 170.102) and that has been certified to the certification criteria that are necessary to report on applicable objectives and measures specified for the MIPS advancing care information performance category, including the applicable measure calculation certification criterion at 45 CFR 170.314(g)(1) or (2) for all certification criteria that support an objective with a percentage-based measure.
 
-(ii) Certification to -
+(ii) Certification to—
 
 (A) The following certification criteria:
 
-(*1*) CPOE at -
+(*1*) CPOE at—
 
 (*i*) 45 CFR 170.314(a)(1), (18), (19) or (20); or
 
@@ -154,7 +152,7 @@ As used in this section, unless otherwise indicated -
 
 (*xxi*) 45 CFR 170.315(b)(1), (h)(1), and (h)(2); and
 
-(B) Clinical quality measures at -
+(B) Clinical quality measures at—
 
 (*1*) 45 CFR 170.314(c)(1) or 170.315(c)(1);
 
@@ -162,7 +160,7 @@ As used in this section, unless otherwise indicated -
 
 (*3*) Clinical quality measure certification criteria that support the calculation and reporting of clinical quality measures at 45 CFR 170.314(c)(2) and (3) and optionally (4); or 45 CFR 170.315(c)(3)(i) and (ii) and optionally (c)(4); and can be electronically accepted by CMS if the data is submitted electronically.
 
-(C) Privacy and security at -
+(C) Privacy and security at—
 
 (*1*) 45 CFR 170.314(d)(1) or 170.315(d)(1);
 
@@ -184,7 +182,7 @@ As used in this section, unless otherwise indicated -
 
 (iii) The definition for 2019 and subsequent years specified in paragraph (2) of this definition.
 
-(2) For 2019 and subsequent years, EHR technology (which could include multiple technologies) certified under the ONC Health IT Certification Program that meets the 2015 Edition Base EHR definition (as defined at 45 CFR 170.102) and has been certified to the 2015 Edition health IT certification criteria -
+(2) For 2019 and subsequent years, EHR technology (which could include multiple technologies) certified under the ONC Health IT Certification Program that meets the 2015 Edition Base EHR definition (as defined at 45 CFR 170.102) and has been certified to the 2015 Edition health IT certification criteria—
 
 (i) At 45 CFR 170.315(a)(12) (family health history) and 45 CFR 170.315(e)(3) (patient health information capture); and
 
@@ -222,7 +220,9 @@ As used in this section, unless otherwise indicated -
 
 *Estimated aggregate payment amounts* means the total payments to a QP for Medicare Part B covered professional services for the incentive payment base period, estimated by CMS as described in § 414.1450(b).
 
-*Facility-based MIPS eligible clinician* means an individual MIPS eligible clinician who furnishes 75 percent or more of their covered professional services (as defined in section 1848(k)(3)(A) of the Act) in sites of service identified by the Place of Service (POS) codes used in the HIPAA standard transaction as an inpatient hospital, as identified by POS code 21, or an emergency room, as identified by POS code 23, based on claims during the facility-based determination period, and a group provided that more than 75 percent of the NPIs billing under the group's TIN meet the definition of a facility-based individual MIPS eligible clinician during the facility-based determination period.
+*Facility-based group* means a group that CMS determines meets the criteria specified in § 414.1380(e)(2)(ii).
+
+*Facility-based MIPS eligible clinician* means an individual MIPS eligible clinician who CMS determines meets the criteria specified in § 414.1380(e)(2)(i).
 
 *Final score* means a composite assessment (using a scoring scale of 0 to 100) for each MIPS eligible clinician for a performance period determined using the methodology for assessing the total performance of a MIPS eligible clinician according to performance standards for applicable measures and activities for each performance category.
 
@@ -232,11 +232,7 @@ As used in this section, unless otherwise indicated -
 
 *Health Professional Shortage Areas (HPSA)* means areas as designated under section 332(a)(1)(A) of the Public Health Service Act.
 
-*High priority measure* means:
-
-(1) For the 2019 and 2020 MIPS payment years, an outcome (including intermediate-outcome and patient-reported outcome), appropriate use, patient safety, efficiency, patient experience, or care coordination quality measure.
-
-(2) Beginning with the 2021 MIPS payment year, an outcome (including intermediate-outcome and patient-reported outcome), appropriate use, patient safety, efficiency, patient experience, care coordination, or opioid-related quality measure.
+*High priority measure* means an outcome (including intermediate-outcome and patient-reported outcome), appropriate use, patient safety, efficiency, patient experience, care coordination, opioid, or health equity-related quality measure.
 
 *Hospital-based MIPS eligible clinician* means:
 
@@ -378,7 +374,7 @@ As used in this section, unless otherwise indicated -
 
 *MIPS Value Pathway* means a subset of measures and activities established through rulemaking.
 
-*Multispecialty group* means a group that consists of two or more specialty types.
+*Multispecialty group* means a group as defined at § 414.1305 that consists of two or more specialty types as determined by CMS using Medicare Part B claims.
 
 *MVP participant* means an individual MIPS eligible clinician, multispecialty group, single-specialty group, subgroup, or APM Entity that is assessed on an MVP in accordance with § 414.1365 for all MIPS performance categories. For the CY 2026 performance period/2028 MIPS payment year and future years, MVP Participant means an individual MIPS eligible clinician, single-specialty group, subgroup, or APM Entity that is assessed on an MVP in accordance with § 414.1365 for all MIPS performance categories.
 
@@ -460,7 +456,7 @@ As used in this section, unless otherwise indicated -
 
 *Rural area* means a ZIP code designated as rural by the Federal Office of Rural Health Policy (FORHP), using the most recent FORHP Eligible ZIP Code file available.
 
-*Single specialty group* means a group that consists of one specialty type.
+*Single specialty group* means a group as defined at § 414.1305 that consists of one specialty type as determined by CMS using Medicare Part B claims.
 
 *Small practice* means:
 
@@ -498,7 +494,7 @@ As used in this section, unless otherwise indicated -
 
 *Submitter type* means the MIPS eligible clinician, group, Virtual Group, APM Entity, or third party intermediary acting on behalf of a MIPS eligible clinician, group, Virtual Group, or APM Entity, as applicable, that submits data on measures and activities under MIPS.
 
-*Third party intermediary* means an entity that has been approved under § 414.1400 to submit data on behalf of a MIPS eligible clinician, group, or virtual group for one or more of the quality, improvement activities, and promoting interoperability performance categories.
+*Third party intermediary* means an entity that CMS has approved under § 414.1400 to submit data on behalf of a MIPS eligible clinician, group, virtual group, subgroup, or APM Entity for one or more of the quality, improvement activities, and Promoting Interoperability performance categories.
 
 *Threshold Score* means the percentage value that CMS determines for an eligible clinician based on the calculations described in § 414.1435 or § 414.1440.
 
@@ -508,4 +504,4 @@ As used in this section, unless otherwise indicated -
 
 *Virtual group* means a combination of two or more TINs assigned to one or more solo practitioners or to one or more groups consisting of 10 or fewer eligible clinicians, or both, that elect to form a virtual group for a performance period for a year.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53950, Nov. 16, 2017; 83 FR 60075, Nov. 23, 2018; 84 FR 63194, Nov. 15, 2019; 85 FR 54872, Sept. 2, 2020; 85 FR 85029, Dec. 28, 2020; 86 FR 65670, Nov. 19, 2021; 86 FR 73159, Dec. 27, 2021]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53950, Nov. 16, 2017; 83 FR 60075, Nov. 23, 2018; 84 FR 63194, Nov. 15, 2019; 85 FR 54872, Sept. 2, 2020; 85 FR 85029, Dec. 28, 2020; 86 FR 65670, Nov. 19, 2021; 86 FR 73159, Dec. 27, 2021; 87 FR 70227, Nov. 18, 2022]

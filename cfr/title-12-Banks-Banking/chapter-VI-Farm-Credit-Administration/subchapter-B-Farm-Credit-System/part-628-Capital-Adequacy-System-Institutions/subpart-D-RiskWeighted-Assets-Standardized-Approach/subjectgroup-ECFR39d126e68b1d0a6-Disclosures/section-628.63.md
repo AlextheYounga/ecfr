@@ -1,7 +1,5 @@
 ##### § 628.63 Disclosures. #####
 
-Link to an amendment published at 87 FR 27493, May 9, 2022.
-
 (a) Except as provided in § 628.62, a System bank must make the disclosures described in Tables 1 through 10 of this section. The System bank must make these disclosures publicly available for each of the last 3 years (that is, 12 quarters) or such shorter period beginning on January 1, 2017.
 
 (b) A System bank must publicly disclose each quarter the following:
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 27493, May 9, 2022.
 
 (4) A reconciliation of regulatory capital elements using month-end balances as they relate to its balance sheet in any applicable audited consolidated financial statements. The reconciliation must include a statement that compliance with the regulatory capital requirements outlined in subpart B of this part is determined using average daily balances for the most recent 3 months.
 
-Table 1 to § 628.63 - Scope of Application
+Table 1 to § 628.63—Scope of Application
 
 |                        |                                                                                                                                                                                                                          |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -32,7 +30,7 @@ Table 1 to § 628.63 - Scope of Application
 
 <sup>2</sup> Entities include any subsidiaries authorized by the FCA, including operating subsidiaries, service corporations, and unincorporated business entities.
 
-Table 2 to § 628.63 - Capital Structure
+Table 2 to § 628.63—Capital Structure
 
 |                        |                                                                                                                            |
 |------------------------|----------------------------------------------------------------------------------------------------------------------------|
@@ -56,7 +54,7 @@ Table 2 to § 628.63 - Capital Structure
 |                        |                           (2) Tier 2 capital elements, including tier 2 capital instruments; and                           |
 |                        |(3) Regulatory adjustments and deductions made to total capital, including deductions of third-party capital under § 628.23.|
 
-Table 3 to § 628.63 - Capital Adequacy
+Table 3 to § 628.63—Capital Adequacy
 
 |                        |                                                                                                                                                                                                          |
 |------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -80,7 +78,7 @@ Table 3 to § 628.63 - Capital Adequacy
 |                        |                                                        (d) Common equity tier 1, tier 1 and total risk-based capital ratios for the System bank.                                                         |
 |                        |                                                                               (e) Total standardized risk-weighted assets.                                                                               |
 
-Table 4 to § 628.63 - Capital Buffers
+Table 4 to § 628.63—Capital Buffers
 
 |                        |                                                                                                                                                                                                                                                                                                              |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -90,7 +88,7 @@ Table 4 to § 628.63 - Capital Buffers
 
 (c) *General qualitative disclosure requirement.* For each separate risk area described in tables 5 through 10 of this section, the System bank must describe its risk management objectives and policies, including: Strategies and processes; the structure and organization of the relevant risk management function; the scope and nature of risk reporting and/or measurement systems; policies for hedging and/or mitigating risk and strategies and processes for monitoring the continuing effectiveness of hedges/mitigants.
 
-Table 5 to § 628.63<sup>1</sup> - Credit Risk: General Disclosures
+Table 5 to § 628.63<sup>1</sup>—Credit Risk: General Disclosures
 
 |                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -99,7 +97,7 @@ Table 5 to § 628.63<sup>1</sup> - Credit Risk: General Disclosures
 |                        |                                                                                                                                                                                                                (2) Policy for placing loans in nonaccrual status;                                                                                                                                                                                                                 |
 |                        |                                                                                                                                                                                                                 (3) Policy for returning loans to accrual status;                                                                                                                                                                                                                 |
 |                        |                                                                                                                                                                                         (4) Definition of and policy for identifying impaired loans (for financial accounting purposes);                                                                                                                                                                                          |
-|                        |                                                                                                                                                           (5) Description of the methodology that the System bank uses to estimate its allowance for loan losses, including statistical methods used where applicable;                                                                                                                                                            |
+|                        |                                                                                                                                                      (5) Description of the methodology that the System bank uses to estimate its adjusted allowance for credit losses, including statistical methods used where applicable;                                                                                                                                                      |
 |                        |                                                                                                                                                                                                              (6) Policy for charging-off uncollectible amounts; and                                                                                                                                                                                                               |
 |                        |                                                                                                                                                                                                        (7) Discussion of the System bank's credit risk management policy.                                                                                                                                                                                                         |
 |Quantitative Disclosures|(b) Total credit risk exposures and average credit risk exposures, after accounting offsets in accordance with GAAP, without taking into account the effects of credit risk mitigation techniques (for example, collateral and netting not permitted under GAAP), over the period categorized by major types of credit exposure. For example, System banks could use categories similar to that used for financial statement purposes. Such categories might include, for instance:|
@@ -113,10 +111,10 @@ Table 5 to § 628.63<sup>1</sup> - Credit Risk: General Disclosures
 |                        |                                                                                                                                                                                                 (2) Amount of impaired loans for which there was no related allowance under GAAP;                                                                                                                                                                                                 |
 |                        |                                                                                                                                                                                                          (3) Amount of loans past due 90 days and in nonaccrual status;                                                                                                                                                                                                           |
 |                        |                                                                                                                                                                                                       (4) Amount of loans past due 90 days and still accruing;<sup>4</sup>                                                                                                                                                                                                        |
-|                        |                                                                                                                                                                                         (5) The balance in the allowance for loan losses at the end of each period according to GAAP; and                                                                                                                                                                                         |
+|                        |                                                                                                                                                                                   (5) The balance in the adjusted allowance for credit losses at the end of each period according to GAAP; and                                                                                                                                                                                    |
 |                        |                                                                                                                                                                                                                        (6) Charge-offs during the period.                                                                                                                                                                                                                         |
 |                        |                                                                                                        (f) Amount of impaired loans and, if available, the amount of past due loans categorized by significant geographic areas including, if practical, the amounts of allowances related to each geographical area,<sup>5</sup> further categorized as required by GAAP.                                                                                                        |
-|                        |                                                                                                                                                                                                     (g) Reconciliation of changes in allowances for loan losses.<sup>6</sup>                                                                                                                                                                                                      |
+|                        |                                                                                                                                                                                                (g) Reconciliation of changes in adjusted allowance for credit losses.<sup>6</sup>                                                                                                                                                                                                 |
 |                        |                                                                                                                                                                      (h) Remaining contractual maturity delineation (for example, one year or less) of the whole portfolio, categorized by credit exposure.                                                                                                                                                                       |
 
 <sup>1</sup> This Table 5 does not cover equity exposures, which should be reported in Table 9 of this section.
@@ -129,9 +127,9 @@ Table 5 to § 628.63<sup>1</sup> - Credit Risk: General Disclosures
 
 <sup>5</sup> The portion of the general allowance that is not allocated to a geographical area should be disclosed separately.
 
-<sup>6</sup> The reconciliation should include the following: A description of the allowance; the opening balance of the allowance; charge-offs taken against the allowance during the period; amounts provided (or reversed) for estimated probable loan losses during the period; any other adjustments (for example, exchange rate differences, business combinations, acquisitions and disposals of subsidiaries), including transfers between allowances; and the closing balance of the allowance. Charge-offs and recoveries that have been recorded directly to the income statement should be disclosed separately.
+<sup>6</sup> The reconciliation should include the following: A description of the allowance; the opening balance of the allowance; charge-offs taken against the allowance during the period; amounts provided (or reversed) for estimated credit losses during the period; any other adjustments (for example, exchange rate differences, business combinations, acquisitions and disposals of subsidiaries), including transfers between allowances; and the closing balance of the allowance. Charge-offs and recoveries that have been recorded directly to the income statement should be disclosed separately.
 
-Table 6 to § 628.63 - General Disclosure for Counterparty Credit Risk-Related Exposures
+Table 6 to § 628.63—General Disclosure for Counterparty Credit Risk-Related Exposures
 
 |                        |                                                                                                                                                                                                                                                                                                                                                                                      |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -147,7 +145,7 @@ Table 6 to § 628.63 - General Disclosure for Counterparty Credit Risk-Related E
 
 <sup>2</sup> This may include interest rate derivative contracts, foreign exchange derivative contracts, equity derivative contracts, credit derivatives, commodity or other derivative contracts, repo-style transactions, and eligible margin loans.
 
-Table 7 to § 628.63 - Credit Risk Mitigation<sup>1 2</sup>
+Table 7 to § 628.63—Credit Risk Mitigation<sup>1 2</sup>
 
 |Qualitative Disclosures |                                      (a) The general qualitative disclosure requirement with respect to credit risk mitigation, including:                                       |
 |:-----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -162,7 +160,7 @@ Table 7 to § 628.63 - Credit Risk Mitigation<sup>1 2</sup>
 
 <sup>2</sup> Credit derivatives that are treated, for the purposes of this subpart, as synthetic securitization exposures should be excluded from the credit risk mitigation disclosures and included within those relating to securitization (Table 8 of this section).
 
-Table 8 to § 628.63 - Securitization<sup>1</sup>
+Table 8 to § 628.63—Securitization<sup>1</sup>
 
 |                        |                                                                                                                                                                                                                                                                                                                                 |
 |------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -210,7 +208,7 @@ Table 8 to § 628.63 - Securitization<sup>1</sup>
 
 <sup>6</sup> For example, charge-offs/allowances (if the assets remain on the System bank's balance sheet) or credit-related OTTI of interest-only strips and other retained residual interests, as well as recognition of liabilities for probable future financial support required of the System bank with respect to securitized assets.
 
-Table 9 to § 628.63 - Equities
+Table 9 to § 628.63—Equities
 
 |                        |                                                                                                                                                                                                                                                                                  |
 |------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -231,11 +229,11 @@ Table 9 to § 628.63 - Equities
 
 <sup>2</sup> Unrealized gains (losses) not recognized either on the balance sheet or through earnings.
 
-Table 10 to § 628.63 - Interest Rate Risk for Non-Trading Activities
+Table 10 to § 628.63—Interest Rate Risk for Non-Trading Activities
 
 |                        |                                                                                                                                                                                                                                                                                                                     |
 |------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Qualitative disclosures |(a) The general qualitative disclosure requirement, including the nature of interest rate risk for non-trading activities and key assumptions, including assumptions regarding loan prepayments and behavior of non-maturity deposits, and frequency of measurement of interest rate risk for non-trading activities.|
 |Quantitative disclosures|    (b) The increase (decline) in earnings or economic value (or market value of equity or other relevant measure used by management) for upward and downward rate shocks according to management's method for measuring interest rate risk for non-trading activities, categorized by currency (as appropriate).    |
 
-[81 FR 49779, July 28, 2016, as amended at 86 FR 54360, Oct. 1, 2021]
+[81 FR 49779, July 28, 2016, as amended at 86 FR 54360, Oct. 1, 2021; 87 FR 27493, May 9, 2022]

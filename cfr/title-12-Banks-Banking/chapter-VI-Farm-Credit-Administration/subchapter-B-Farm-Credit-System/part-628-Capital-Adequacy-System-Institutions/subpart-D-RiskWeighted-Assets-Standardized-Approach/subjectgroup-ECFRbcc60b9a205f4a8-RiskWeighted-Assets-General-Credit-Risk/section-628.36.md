@@ -1,6 +1,6 @@
 ##### § 628.36 Guarantees and credit derivatives: Substitution treatment. #####
 
-(a) *Scope* - (1) *General.* A System institution may recognize the credit risk mitigation benefits of an eligible guarantee or eligible credit derivative by substituting the risk weight associated with the protection provider for the risk weight assigned to an exposure, as provided under this section.
+(a) *Scope*—(1) *General.* A System institution may recognize the credit risk mitigation benefits of an eligible guarantee or eligible credit derivative by substituting the risk weight associated with the protection provider for the risk weight assigned to an exposure, as provided under this section.
 
 (2) This section applies to exposures for which:
 
@@ -22,7 +22,7 @@
 
 (ii) The reference exposure and the hedged exposure are to the same legal entity, and legally enforceable cross-default or cross-acceleration clauses are in place to ensure payments under the credit derivative are triggered when the obligated party of the hedged exposure fails to pay under the terms of the hedged exposure.
 
-(c) *Substitution approach* - (1) *Full coverage.* If an eligible guarantee or eligible credit derivative meets the conditions in paragraphs (a) and (b) of this section and the protection amount (P) of the guarantee or credit derivative is greater than or equal to the exposure amount of the hedged exposure, a System institution may recognize the guarantee or credit derivative in determining the risk-weighted asset amount for the hedged exposure by substituting the risk weight applicable to the guarantor or credit derivative protection provider under § 628.32 for the risk weight assigned to the exposure.
+(c) *Substitution approach*—(1) *Full coverage.* If an eligible guarantee or eligible credit derivative meets the conditions in paragraphs (a) and (b) of this section and the protection amount (P) of the guarantee or credit derivative is greater than or equal to the exposure amount of the hedged exposure, a System institution may recognize the guarantee or credit derivative in determining the risk-weighted asset amount for the hedged exposure by substituting the risk weight applicable to the guarantor or credit derivative protection provider under § 628.32 for the risk weight assigned to the exposure.
 
 (2) *Partial coverage.* If an eligible guarantee or eligible credit derivative meets the conditions in §§ 628.36(a) and 628.37(b) and the protection amount (P) of the guarantee or credit derivative is less than the exposure amount of the hedged exposure, the System institution must treat the hedged exposure as two separate exposures (protected and unprotected) in order to recognize the credit risk mitigation benefit of the guarantee or credit derivative.
 

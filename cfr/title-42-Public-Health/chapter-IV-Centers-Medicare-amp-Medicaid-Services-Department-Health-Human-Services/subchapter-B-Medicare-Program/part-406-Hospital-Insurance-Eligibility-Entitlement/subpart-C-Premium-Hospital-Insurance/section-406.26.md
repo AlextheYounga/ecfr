@@ -1,8 +1,6 @@
 ##### § 406.26 Enrollment under State buy-in. #####
 
-Link to an amendment published at 87 FR 66504, Nov. 3, 2022.
-
-(a) *Enrollment of QMBs under a State buy-in agreement* - (1) *Effective date.* Beginning with calendar year 1990, a State may request and be granted a modification of its buy-in agreement to include enrollment and payment of Part A premiums for QMBs (as defined in section 1905(p)(1) of the Act) who can become entitled to Medicare Part A only by paying a premium.
+(a) *Enrollment of QMBs under a State buy-in agreement*—(1) *Effective date.* Beginning with calendar year 1990, a State may request and be granted a modification of its buy-in agreement to include enrollment and payment of Part A premiums for QMBs (as defined in section 1905(p)(1) of the Act) who can become entitled to Medicare Part A only by paying a premium.
 
 (i) Any State that has a buy-in agreement in effect must participate in daily exchanges of enrollment data with CMS.
 
@@ -10,11 +8,13 @@ Link to an amendment published at 87 FR 66504, Nov. 3, 2022.
 
 (2) *Amount of premium.* Premiums paid under State buy-in are not subject to increase because of late enrollment or reenrollment.
 
+(3) *Enrollment without discrimination.* A State that has a buy-in agreement in effect must enroll in premium health insurance any applicant who meets the eligibility requirement for the QMB eligibility group, with the State paying the premiums on the individual's behalf.
+
 (b) *Beginning of coverage under buy-in.* The coverage period begins with the latest of the following:
 
 (1) The third month following the month in which the agreement modification covering QMBs is effectuated.
 
-(2) The first month in which the individual is entitled to premium hospital insurance under § 406.20(b) and has QMB status.
+(2) The first month in which the individual is entitled to premium hospital insurance under § 406.20(b) and has QMB status. Under a State buy-in agreement, as defined in § 407.40 of this subchapter, QMB-eligible individuals can enroll in premium hospital insurance at any time of the year, without regard to Medicare enrollment periods.
 
 (3) The date specified in the agreement modification.
 
@@ -28,7 +28,7 @@ Link to an amendment published at 87 FR 66504, Nov. 3, 2022.
 
 (4) *Entitlement to premium-free Part A.* If the individual becomes entitled to premium-free Part A, buy-in coverage ends on the last day of entitlement to premium Part A.
 
-(d) *Continuation of coverage: Individual enrollment following termination of buy-in coverage* - (1) *Deemed enrollment.* If coverage under a buy-in agreement ends because the agreement is terminated or the individual loses QMB status, the individual -
+(d) *Continuation of coverage: Individual enrollment following termination of buy-in coverage*—(1) *Deemed enrollment.* If coverage under a buy-in agreement ends because the agreement is terminated or the individual loses QMB status, the individual—
 
 (i) Is considered to have enrolled during his or her initial enrollment period; and
 
@@ -44,4 +44,4 @@ Link to an amendment published at 87 FR 66504, Nov. 3, 2022.
 
 (C) If the individual files the request later than the 6th month after buy-in coverage ends, entitlement ends at the end of the month after the month in which request is filed.
 
-[56 FR 38080, Aug. 12, 1991, as amended at 85 FR 25632, May 1, 2020]
+[56 FR 38080, Aug. 12, 1991, as amended at 85 FR 25632, May 1, 2020; 87 FR 66504, Nov. 3, 2022]

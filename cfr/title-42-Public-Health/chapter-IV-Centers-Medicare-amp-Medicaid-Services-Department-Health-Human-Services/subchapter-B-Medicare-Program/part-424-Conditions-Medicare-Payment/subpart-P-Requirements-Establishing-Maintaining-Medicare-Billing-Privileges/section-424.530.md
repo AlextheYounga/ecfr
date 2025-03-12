@@ -1,20 +1,20 @@
 ##### § 424.530 Denial of enrollment in the Medicare program. #####
 
-Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
-
 (a) *Reasons for denial.* CMS may deny a provider's or supplier's enrollment in the Medicare program for the following reasons:
 
 (1) *Noncompliance.* The provider or supplier is determined to not be in compliance with the enrollment requirements in this subpart P or in the enrollment application applicable for its provider or supplier type, and has not submitted a plan of corrective action as outlined in part 488 of this chapter.
 
-(2) *Provider or supplier conduct.* The provider or supplier, or any owner, managing employee, authorized or delegated official, medical director, supervising physician, or other health care or administrative or management services personnel furnishing services payable by a Federal health care program, of the provider or supplier is -
+(2) *Provider or supplier conduct.* (i) The provider or supplier, or any owner, managing employee, managing organization, officer, director, authorized or delegated official, medical director, supervising physician, or other health care or administrative or management services personnel furnishing services payable by a federal health care program, of the provider or supplier is—
 
-(i) Excluded from the Medicare, Medicaid and any other Federal health care programs, as defined in § 1001.2 of this chapter, in accordance with section 1128, 1128A, 1156, 1842, 1862, 1867 or 1892 of the Act.
+(A) Excluded from the Medicare, Medicaid, and any other Federal health care program, as defined in § 1001.2 of this chapter, in accordance with section 1128, 1128A, 1156, 1842, 1862, 1867 or 1892 of the Act.
 
-(ii) Debarred, suspended, or otherwise excluded from participating in any other Federal procurement or nonprocurement activity in accordance with section 2455 of the Federal Acquisition Streamlining Act (FASA).
+(B) Debarred, suspended, or otherwise excluded from participating in any other Federal procurement or nonprocurement activity in accordance with section 2455 of the Federal Acquisition Streamlining Act (FASA).
 
-(3) *Felonies.* The provider, supplier, or any owner or managing employee of the provider or supplier was, within the preceding 10 years, convicted (as that term is defined in 42 CFR 1001.2) of a Federal or State felony offense that CMS determines is detrimental to the best interests of the Medicare program and its beneficiaries.
+(ii) The individuals and organizations identified in paragraph (a)(2)(i) of this section include, but are not limited to, W-2 employees and contracted individuals and organizations of the provider or supplier.
 
-(i) Offenses include, but are not limited in scope or severity to -
+(3) *Felonies.* The provider, supplier, or any owner, managing employee, managing organization, officer, or director of the provider or supplier was, within the preceding 10 years, convicted (as that term is defined in 42 CFR 1001.2) of a Federal or State felony offense that CMS determines is detrimental to the best interests of the Medicare program and its beneficiaries.
+
+(i) Offenses include, but are not limited in scope or severity to—
 
 (A) Felony crimes against persons, such as murder, rape, assault, and other similar crimes for which the individual was convicted, including guilty pleas and adjudicated pretrial diversions.
 
@@ -25,6 +25,8 @@ Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
 (D) Any felonies that would result in mandatory exclusion under section 1128(a) of the Act.
 
 (ii) Denials based on felony convictions are for a period to be determined by the Secretary, but not less than 10 years from the date of conviction if the individual has been convicted on one previous occasion for one or more offenses.
+
+(iii) The individuals and organizations identified in paragraph (a)(3) of this section include, but are not limited to, W-2 employees and contracted individuals and organizations of the provider or supplier.
 
 (4) *False or misleading information.* The provider or supplier has submitted false or misleading information on the enrollment application to gain enrollment in the Medicare program. (Offenders may be referred to the Office of Inspector General for investigation and possible criminal, civil, or administrative sanctions.)
 
@@ -144,7 +146,7 @@ Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
 
 (2) Was appealed, the provider or supplier may reapply after notification that the determination was upheld.
 
-(c) *Reversal of denial.* If the denial was due to adverse activity (sanction, exclusion, debt, felony) of an owner, managing employee, an authorized or delegated official, medical director, supervising physician, or other health care personnel of the provider or supplier furnishing Medicare reimbursable services, the denial may be reversed if the provider or supplier terminates and submits proof that it has terminated its business relationship with that individual or organization within 30 days of the denial notification.
+(c) *Reversal of denial.* If the denial was due to adverse activity (sanction, exclusion, debt, felony) of an owner, managing employee, managing organization, officer, director, authorized or delegated official, medical director, supervising physician, or other health care personnel of the provider or supplier furnishing Medicare reimbursable services, the denial may be reversed if the provider or supplier terminates and submits proof that it has terminated its business relationship with that individual or organization within 30 days of the denial notification.
 
 (d) *Additional review.* When a provider or supplier is denied enrollment in Medicare, CMS automatically reviews all other related Medicare enrollment files that the denied provider or supplier has an association with (for example, as an owner or managing employee) to determine if the denial warrants an adverse action of the associated Medicare provider or supplier.
 
@@ -164,4 +166,4 @@ Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
 
 (iv) Any other information that CMS deems relevant to its determination.
 
-[71 FR 20776, Apr. 21, 2006, as amended at 73 FR 69940, Nov. 19, 2008; 75 FR 70464, Nov. 17, 2010; 76 FR 5964, Feb. 2, 2011; 79 FR 29968, May 23, 2014; 79 FR 72531, Dec. 5, 2014; 84 FR 47853, Sept. 10, 2019; 84 FR 63203, Nov. 15, 2019; 86 FR 65682, Nov. 19, 2021]
+[71 FR 20776, Apr. 21, 2006, as amended at 73 FR 69940, Nov. 19, 2008; 75 FR 70464, Nov. 17, 2010; 76 FR 5964, Feb. 2, 2011; 79 FR 29968, May 23, 2014; 79 FR 72531, Dec. 5, 2014; 84 FR 47853, Sept. 10, 2019; 84 FR 63203, Nov. 15, 2019; 86 FR 65682, Nov. 19, 2021; 87 FR 70231, Nov. 18, 2022]

@@ -1,11 +1,11 @@
 ##### § 385.11 Royalty rates. #####
 
-Link to an amendment published at 87 FR 76942, Dec. 16, 2022.
+(a) *Physical phonorecords and Permanent Downloads*—(1) *2023 rate.* For the year 2023, for every physical phonorecord and Permanent Download the Licensee makes and distributes or authorizes to be made and distributed, the royalty rate payable for each work embodied in the phonorecord or Permanent Download shall be either 12.0 cents or 2.31 cents per minute of playing time or fraction thereof, whichever amount is larger.
 
-(a) *Physical phonorecord deliveries and Permanent Downloads.* For every physical phonorecord and Permanent Download the Licensee makes and distributes or authorizes to be made and distributed, the royalty rate payable for each work embodied in the phonorecord or Permanent Download shall be either 9.1 cents or 1.75 cents per minute of playing time or fraction thereof, whichever amount is larger.
+(2) *Annual rate adjustment.* The Copyright Royalty Judges shall adjust the royalty rates in paragraph (a)(1) of this section each year to reflect any changes occurring in the cost of living as determined by the most recent Consumer Price Index for All Urban Consumers (U.S. City Average, all items) (CPI-U) published by the Secretary of Labor before December 1 of the preceding year. The calculation of the rate for each year shall be cumulative based on a calculation of the percentage increase in the CPI-U from the CPI-U published in November, 2022 (the Base Rate) and shall be made according to the following formulas: for the per-work rate, (1 + (Cy−Base Rate)/Base Rate) × 12¢, rounded to the nearest tenth of a cent; for the per-minute rate, (1 + (Cy−Base Rate)/Base Rate) × 2.31¢, rounded to the nearest hundredth of a cent; where Cy is the CPI-U published by the Secretary of Labor before December 1 of the preceding year. The Judges shall publish notice of the adjusted fees in the Federal Register at least 25 days before January 1. The adjusted fees shall be effective on January 1.
 
 (b) *Ringtones.* For every Ringtone the Licensee makes and distributes or authorizes to be made and distributed, the royalty rate payable for each work embodied therein shall be 24 cents.
 
 (c) *Music Bundles.* For a Music Bundle, the royalty rate for each element of the Music Bundle shall be the rate required under paragraph (a) or (b) of this section, as appropriate.
 
-[84 FR 2031, Feb. 5, 2019, as amended at 84 FR 32316, July 8, 2019]
+[84 FR 2031, Feb. 5, 2019, as amended at 84 FR 32316, July 8, 2019; 87 FR 76942, Dec. 16, 2022]

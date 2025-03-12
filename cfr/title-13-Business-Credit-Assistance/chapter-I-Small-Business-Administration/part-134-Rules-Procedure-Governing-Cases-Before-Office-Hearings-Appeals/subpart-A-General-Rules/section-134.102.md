@@ -1,7 +1,5 @@
 ##### § 134.102 Jurisdiction of OHA. #####
 
-Link to an amendment published at 87 FR 73425, Nov. 29, 2022.
-
 OHA has authority to conduct proceedings in the following cases:
 
 (a) The revocation or suspension of Small Business Investment Company licenses, cease and desist orders, and the removal or suspension of directors and officers of licensees, under the Investment Act and part 107 of this chapter;
@@ -38,7 +36,7 @@ OHA has authority to conduct proceedings in the following cases:
 
 (p) Certain matters involving debarments and suspensions under 2 CFR parts 180 and 2700;
 
-(q) Appeals from the Service-Disabled Veteran-owned SBC Program ownership and control status under part 125 of this chapter;
+(q) [Reserved]
 
 (r) Appeals from SBA Employee Dispute Resolution Process cases (Employee Disputes) under Standard Operating Procedure (SOP) 37 71 (available at *http://www.sba.gov/tools/resourcelibrary/sops/index.html* or through OHA's Web site *http://www.sba.gov/oha*) and subpart H of this part;
 
@@ -46,10 +44,10 @@ OHA has authority to conduct proceedings in the following cases:
 
 (t) Petitions for reconsideration of revised, modified, or established size standards pursuant to 15 U.S.C. 632(a)(9);
 
-(u) Protests of eligibility for inclusion in the Department of Veterans Affairs Center for Verification and Evaluation (CVE) database;
+(u) Protests of eligibility for inclusion in the Veteran Small Business Certification Program;
 
-(v) Appeals of denials and cancellations of inclusion in the CVE database; and
+(v) Appeals of denials of certification in and decertification from the Veteran Small Business Certification Program; and
 
 (w) Appeals of certain SBA loan review decisions as defined in 13 CFR 134.1201.
 
-[61 FR 2683, Jan. 29, 1996, as amended at 66 FR 47074, Sept. 11, 2001; 67 FR 47246, July 18, 2002; 69 FR 25271, May 5, 2004; 69 FR 29208, May 21, 2004; 70 FR 17587, Apr. 7, 2005; 72 FR 39730, July 20, 2007; 73 FR 56954, Oct. 1, 2008; 75 FR 47438, Aug. 6, 2010; 75 FR 62292, Oct. 7, 2010; 82 FR 25506, June 2, 2017; 83 FR 13628, Mar. 30, 2018; 85 FR 14784, Mar. 16, 2020; 85 FR 52887, Aug. 27, 2020]
+[61 FR 2683, Jan. 29, 1996, as amended at 66 FR 47074, Sept. 11, 2001; 67 FR 47246, July 18, 2002; 69 FR 25271, May 5, 2004; 69 FR 29208, May 21, 2004; 70 FR 17587, Apr. 7, 2005; 72 FR 39730, July 20, 2007; 73 FR 56954, Oct. 1, 2008; 75 FR 47438, Aug. 6, 2010; 75 FR 62292, Oct. 7, 2010; 82 FR 25506, June 2, 2017; 83 FR 13628, Mar. 30, 2018; 85 FR 14784, Mar. 16, 2020; 85 FR 52887, Aug. 27, 2020; 87 FR 73425, Nov. 29, 2022]

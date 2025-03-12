@@ -1,7 +1,5 @@
 ##### § 611.1153 General restrictions and prohibitions on the use of UBEs. #####
 
-Link to an amendment published at 86 FR 58559, Oct. 22, 2021.
-
 (a) *Authorized UBE business activity.* All UBE business activity must be:
 
 (1) Necessary or expedient to the business of one or more System institutions owning the UBE; and
@@ -16,7 +14,7 @@ Link to an amendment published at 86 FR 58559, Oct. 22, 2021.
 
 (2) The business transactions, accounts, and records of the UBE are not commingled with those of the System institution; and
 
-(3) All transactions between the UBE and System institution directors, officers, employees, and agents are conducted at arm's length, in the interest of the System institution, and in compliance with standards of conduct rules in §§ 612.2130 through 612.2270.
+(3) All transactions between the UBE and System institution directors, officers, employees, and agents are conducted at arm's length, in the interest of the System institution, and in compliance with the standards of conduct rules in 12 CFR 612, subpart A of this chapter.
 
 (d) *Limit on one-member UBEs.* A UBE owned solely by a single System institution (including between and among a parent agricultural credit association and its production credit association and Federal land credit association subsidiaries and between a parent agricultural credit bank and its subsidiary Farm Credit Bank) as a one-member UBE is limited to the following special purposes:
 
@@ -45,3 +43,5 @@ Link to an amendment published at 86 FR 58559, Oct. 22, 2021.
 (j) *Limitation on non-System equity investments.* Non-System persons or entities may not invest in a UBE that is controlled by a System institution except that non-System persons or entities may own 20 percent or less of the equity of a System-controlled UBE organized to deliver services integral to the daily internal operations of a System institution.
 
 (k) *UBEs formed for acquiring and managing collateral.* The provisions of paragraphs (i) and (j) of this section do not apply to UBEs formed for the purpose of acquiring and managing unusual or complex collateral associated with multiple-lender loan transactions in which non-System persons or entities are participants.
+
+[78 FR 31831, May 28, 2013, as amended at 86 FR 58559, Oct. 22, 2021]

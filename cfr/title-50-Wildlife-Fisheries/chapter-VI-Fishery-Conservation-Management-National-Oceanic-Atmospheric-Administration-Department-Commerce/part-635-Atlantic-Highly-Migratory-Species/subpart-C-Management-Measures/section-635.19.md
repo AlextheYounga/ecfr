@@ -1,24 +1,36 @@
 ##### § 635.19 Authorized gears. #####
 
-Link to an amendment published at 87 FR 60003, Oct. 3, 2022.
-
 (a) *General.* No person may fish for, catch, possess, or retain any Atlantic HMS with gears other than the primary gears specifically authorized in this part. Consistent with § 635.21(a), secondary gears may be used at boat side to aid and assist in subduing, or bringing on board a vessel, Atlantic HMS that have first been caught or captured using primary gears. For purposes of this part, secondary gears include, but are not limited to, dart harpoons, gaffs, flying gaffs, tail ropes, etc. Secondary gears may not be used to capture, or attempt to capture, free-swimming or undersized HMS. Except for vessels permitted under § 635.4(o) or as specified in this section, a vessel using or having onboard in the Atlantic Ocean any unauthorized gear may not possess an Atlantic HMS on board.
 
-(b) *Atlantic tunas.* A person that fishes for, retains, or possesses an Atlantic bluefin tuna may not have on board a vessel or use on board a vessel any primary gear other than those authorized for the category for which the Atlantic tunas or HMS permit has been issued for such vessel. Primary gears are the gears specifically authorized in this section. When fishing for Atlantic tunas other than bluefin tuna, primary gear authorized for any Atlantic Tunas permit category may be used, except that purse seine gear may be used only on board vessels permitted in the Purse Seine category and pelagic longline gear may be used only on board vessels issued an Atlantic Tunas Longline category tuna permit, a LAP other than handgear for swordfish, and a LAP for sharks. A person issued an HMS Commercial Caribbean Small Boat permit who fishes for, retains, or possesses BAYS tunas in the U.S. Caribbean, as defined at § 622.2 of this chapter, may have on board and use handline, harpoon, rod and reel, bandit gear, green-stick gear, and buoy gear.
+(b) *Atlantic tunas.* Primary gears are the gears specifically authorized in this section for fishing for, catching, retaining, or possessing Atlantic BFT and BAYS.
 
-(1) *Angling.* Speargun (for BAYS tunas only), and rod and reel (including downriggers) and handline (for all tunas).
+(1) *Atlantic BFT.* A person that fishes for, catches, retains, or possesses an Atlantic BFT may not have on board a vessel or use on board a vessel any primary gear other than those authorized for the specific permit category issued (Atlantic tunas or HMS permit categories) and listed here:
 
-(2) *Charter/headboat.* Rod and reel (including downriggers), bandit gear, handline, and green-stick gear are authorized for all recreational and commercial Atlantic tuna fisheries. Speargun is authorized for recreational Atlantic BAYS tuna fisheries only.
+(i) *Angling category.* Rod and reel (including downriggers) and handline.
 
-(3) *General.* Rod and reel (including downriggers), handline, harpoon, bandit gear, and green-stick.
+(ii) *Charter/headboat category.* Rod and reel (including downriggers), bandit gear, handline, and green-stick gear.
 
-(4) *Harpoon.* Harpoon.
+(iii) *General category.* Rod and reel (including downriggers), handline, harpoon, bandit gear, and green-stick gear.
 
-(5) *Longline.* Longline and green-stick.
+(iv) *Harpoon category.* Harpoon.
 
-(6) *Purse seine.* Purse seine.
+(v) *Trap category.* Pound net and fish weir.
 
-(7) *Trap.* Pound net and fish weir.
+(vi) *Longline category.* Longline and green-stick gear.
+
+(2) *BAYS.* Subject to paragraph (b)(1) of this section that applies to possession or retention of BFT or fishing for or catching BFT, a person may otherwise use the primary gears authorized for the Atlantic Tunas or HMS permit categories and listed here to fish for, catch, retain, or possess BAYS:
+
+(i) *Angling category.* Speargun, rod and reel (including downriggers), and handline.
+
+(ii) *Charter/Headboat category.* Rod and reel (including downriggers), bandit gear, handline, and green-stick gear are authorized for all recreational and commercial Atlantic tuna fisheries. Speargun is authorized for recreational Atlantic BAYS tuna fisheries only.
+
+(iii) *General category.* Rod and reel (including downriggers), handline, harpoon, bandit gear, and green-stick gear.
+
+(iv) *Harpoon category.* Harpoon.
+
+(v) *Longline category.* Longline and green-stick gear.
+
+(3) *HMS Commercial Caribbean Small Boat Permit.* A person issued an HMS Commercial Caribbean Small Boat permit may use handline, harpoon, rod and reel, bandit gear, green-stick gear, and buoy gear to fish for, retain, or possess BAYS tunas in the U.S. Caribbean, as defined at § 622.2.
 
 (c) *Billfish.* (1) Only persons who have been issued a valid HMS Angling or valid Charter/Headboat permit, or who have been issued a valid Atlantic Tunas General category or Swordfish General Commercial permit and are participating in a tournament as provided in § 635.4(c), may possess a blue marlin, white marlin, or roundscale spearfish in, or take a blue marlin, white marlin, or roundscale spearfish from, its management unit. Blue marlin, white marlin, or roundscale spearfish may only be harvested by rod and reel.
 
@@ -42,4 +54,4 @@ Link to an amendment published at 87 FR 60003, Oct. 3, 2022.
 
 (5) A person aboard a vessel issued or required to be issued a valid Swordfish General Commercial permit may only possess North Atlantic swordfish taken from its management unit by rod and reel, handline, bandit gear, green-stick, or harpoon gear.
 
-[79 FR 71594, Dec. 2, 2014, as amended at 80 FR 73144, Nov. 24, 2015; 82 FR 16506, Apr. 4, 2017; 82 FR 57549, Dec. 6, 2017; 83 FR 33154, July 17, 2018; 87 FR 11324, Mar. 1, 2022]
+[79 FR 71594, Dec. 2, 2014, as amended at 80 FR 73144, Nov. 24, 2015; 82 FR 16506, Apr. 4, 2017; 82 FR 57549, Dec. 6, 2017; 83 FR 33154, July 17, 2018; 87 FR 11324, Mar. 1, 2022; 87 FR 60003, Oct. 3, 2022]

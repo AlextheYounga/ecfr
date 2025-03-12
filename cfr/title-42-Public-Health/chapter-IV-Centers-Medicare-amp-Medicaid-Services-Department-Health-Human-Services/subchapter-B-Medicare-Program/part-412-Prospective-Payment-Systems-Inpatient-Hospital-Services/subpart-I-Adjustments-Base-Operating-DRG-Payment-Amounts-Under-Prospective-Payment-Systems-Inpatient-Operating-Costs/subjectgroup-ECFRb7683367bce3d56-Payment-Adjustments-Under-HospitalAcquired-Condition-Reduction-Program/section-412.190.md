@@ -1,7 +1,5 @@
 ##### § 412.190 Overall Hospital Quality Star Rating. #####
 
-Link to an amendment published at 87 FR 72287, Nov. 23, 2022.
-
 (a) *Purpose.* (1) The Overall Hospital Quality Star Rating (Overall Star Rating) is a summary of certain publicly reported hospital measure data for the benefit of stakeholders, such as patients, consumers, and hospitals.
 
 (2) The guiding principles of the Overall Star Rating are as follows. In developing and maintaining the Overall Star Ratings, we strive to:
@@ -14,29 +12,29 @@ Link to an amendment published at 87 FR 72287, Nov. 23, 2022.
 
 (iv) Be responsive to stakeholder input.
 
-(b) *Data included in Overall Star Rating* - (1) *Source of data.* The Overall Star Rating is calculated based on measure data collected and publicly reported on *Hospital Compare* or its successor site under the following CMS hospital inpatient and outpatient programs:
+(b) *Data included in Overall Star Rating*—(1) *Source of data.* The Overall Star Rating is calculated based on measure data collected and publicly reported on *Hospital Compare* or its successor site under the following CMS hospital inpatient and outpatient programs:
 
-(i) Hospital Inpatient Quality Reporting (IQR) Program - section 1886(b)(3)(B)(viii)(VII) of the Act.
+(i) Hospital Inpatient Quality Reporting (IQR) Program—section 1886(b)(3)(B)(viii)(VII) of the Act.
 
-(ii) Hospital-Acquired Condition Reduction Program - section 1886(p)(6)(A) of the Act.
+(ii) Hospital-Acquired Condition Reduction Program—section 1886(p)(6)(A) of the Act.
 
-(iii) Hospital Value-based Purchasing Program - section 1886(o)(10)(A) of the Act.
+(iii) Hospital Value-based Purchasing Program—section 1886(o)(10)(A) of the Act.
 
-(iv) Hospital Readmissions Reduction Program - section 1886(q)(6)(A) of the Act.
+(iv) Hospital Readmissions Reduction Program—section 1886(q)(6)(A) of the Act.
 
-(v) Hospital Outpatient Quality Reporting (OQR) Program - section 1833(t)(17)(e) of the Act.
+(v) Hospital Outpatient Quality Reporting (OQR) Program—section 1833(t)(17)(e) of the Act.
 
 (2) *Hospitals included in Overall Star Rating.* Subsection (d) hospitals subject to the CMS quality programs specified in paragraph (b)(1) of this section that also have their data publicly reported on one of CMS' websites are included in the Overall Star Rating.
 
-(3) *Critical Access Hospitals.* Critical Access Hospitals (CAHs) that wish to be voluntarily included in the Overall Star Rating must have elected to -
+(3) *Critical Access Hospitals.* Critical Access Hospitals (CAHs) that wish to be voluntarily included in the Overall Star Rating must have elected to—
 
 (i) Voluntarily submit quality measures included in and as specified under CMS hospital programs; and
 
 (ii) Publicly report their quality measure data on *Hospital Compare* or its successor site.
 
-(c) *Frequency of publication and data used.* The Overall Star Rating are published once annually using data publicly reported on *Hospital Compare* or its successor website from a quarter within the prior year.
+(c) Frequency of publication and data used. The Overall Star Rating are published once annually using data publicly reported on Hospital Compare or its successor website from a quarter within the previous 12 months.
 
-(d) *Methodology* - (1) *Selection of measures.* Measures are selected from those publicly reported on *Hospital Compare* or its successor website through certain CMS quality programs under paragraph (b)(1) of this section.
+(d) *Methodology*—(1) *Selection of measures.* Measures are selected from those publicly reported on *Hospital Compare* or its successor website through certain CMS quality programs under paragraph (b)(1) of this section.
 
 (i) From this group of measures, measures falling into one or more of the exclusions in paragraphs (d)(1)(i)(A) through (E) of this section will be removed from consideration:
 
@@ -94,7 +92,7 @@ Link to an amendment published at 87 FR 72287, Nov. 23, 2022.
 
 (e) *Preview period prior to publication.* CMS provides hospitals the opportunity to preview their Overall Star Rating prior to publication. Hospitals have at least 30 days to preview their results, and if necessary, can reach out to CMS with questions.
 
-(f) *Suppression of Overall Star Rating* - (1) *Subsection (d) hospitals.* CMS may consider suppressing Overall Star Rating for subsection (d) hospitals only under extenuating circumstances that affect numerous hospitals (as in, not an individualized or localized issue) as determined by CMS, or when CMS is at fault, including but not limited to when:
+(f) *Suppression of Overall Star Rating*—(1) *Subsection (d) hospitals.* CMS may consider suppressing Overall Star Rating for subsection (d) hospitals only under extenuating circumstances that affect numerous hospitals (as in, not an individualized or localized issue) as determined by CMS, or when CMS is at fault, including but not limited to when:
 
 (i) There is an Overall Star Rating calculation error by CMS;
 
@@ -106,4 +104,4 @@ Link to an amendment published at 87 FR 72287, Nov. 23, 2022.
 
 (ii) CAHs may request to have their Overall Star Rating withheld from publication on *Hospital Compare* or its successor website, as well as their data from the public input file, so long as the request is made during the CMS quality program-level 30-day confidential preview period for the *Hospital Compare* refresh data used to calculate the Overall Star Ratings.
 
-[85 FR 86300, Dec. 29, 2020]
+[85 FR 86300, Dec. 29, 2020, as amended at 87 FR 72287, Nov. 23, 2022]

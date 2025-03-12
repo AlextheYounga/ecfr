@@ -10,4 +10,4 @@
 
 (2) When a member natural person credit union withdraws from membership in a corporate credit union which is an Agent or a member of an Agent group, the stock subscription of the Agent, or in the case of an Agent group, the stock subscription of the Agent group representative, will be adjusted after the waiting period which would apply under paragraph (a) or (b) of this section if the withdrawing credit union were a member of the Facility.
 
-[44 FR 49437, Aug. 23, 1979]Effective Date Note:At 86 FR 15571, Mar. 24, 2021, § 725.6 was amended by staying paragraphs (a) and (b), effective Mar. 24, 2021, through Jan. 1, 2023.
+[44 FR 49437, Aug. 23, 1979]

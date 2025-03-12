@@ -1,47 +1,27 @@
 ##### § 407.42 Buy-in groups available to the 50 States, the District of Columbia, and the Northern Mariana Islands. #####
 
-Link to an amendment published at 87 FR 66507, Nov. 3, 2022.
+(a) *Basic rule.* The 50 States, the District of Columbia, and the Northern Mariana Islands must select one of the buy-in groups described in paragraph (b) in their buy-in agreements.
 
-(a) *Categories included in the buy-in groups.* The buy-in groups that are available to the 50 States, the District of Columbia, and the Northern Mariana Islands are specified in paragraph (b) of this section in terms of the following categories:
+(b) *Buy-in groups available*—(1) *Group 1.* Cash Assistance and Deemed Recipients of Cash Assistance: This buy-in group includes all of the following:
 
-(1) *Category A:* Individuals who -
+(i) Individuals who receive SSI or SSP or both and are covered under the State's Medicaid state plan as categorically needy.
 
-(i) Receive SSI or SSP or both; and
+(ii) Individuals who under the Act or any other provision of Federal Law are treated, for Medicaid eligibility purposes, as though the individual was receiving SSI or SSP and are covered under the State's Medicaid state plan as categorically needy.
 
-(ii) Are covered under the State's Medicaid plan as categorically needy.
+(iii) At State option, individuals whom the State must consider to be recipients of AFDC. Individuals a State would be required to include in electing this option would be, but not limited to, individuals eligible for Medicaid on the basis of section 1931(b) of the Act or their receipt of adoption assistance, foster care or guardianship care under Part E of title IV of the Act, in accordance with § 435.145 of this chapter.
 
-(2) *Category B:* Individuals who -
+(2) *Group 2.* Cash Assistance and Deemed Recipients of Cash Assistance and three Medicare Savings Program eligibility groups. This buy-in group includes both of the following:
 
-(i) Under the Act or any other provision of Federal law are treated, for Medicaid eligibility purposes, as though they were receiving SSI or SSP; and
+(i) Group 1.
 
-(ii) Are covered under the State's Medicaid plan as categorically needy.
+(ii) Individuals enrolled in the—
 
-(3) *Category C:* Individuals who are receiving AFDC.
+(A) Qualified Medicare Beneficiary eligibility group described in § 435.123 of this chapter;
 
-(4) *Category D:* Individuals who, under the Act or any other provision of Federal law, are treated, for Medicaid eligibility purposes, as though they were receiving AFDC.
+(B) Specified Low-Income Beneficiary eligibility group described in § 435.124 of this chapter; and
 
-(5) *Category E:* Individuals who, in accordance with § 435.134 of this chapter, are covered under the State's Medicaid plan despite the increase in social security benefits provided by Public Law 92-336.
+(C) Qualifying Individual eligibility group described in § 435.125 of this chapter.
 
-(6) *Category F:* Individuals who are Qualified Medicare Beneficiaries.1
+(3) *Group 3.* All Medicaid Eligibility Groups: This buy-in group includes all individuals eligible for Medicaid.
 
-1 Rules for buy-in for premium hospital insurance for QMBs are set forth in § 406.26 of this chapter.
-
-(7) *Category G:* All other individuals who are eligible for Medicaid.
-
-(b) *Buy-in groups available.* Any of the 50 States, the District of Columbia, and the Northern Mariana Islands may buy-in for one of the following groups:
-
-(1) *Group 1:* Categories A through G.
-
-(2) *Group 2:* Categories A through F.
-
-(3) *Group 3:* Categories A through E.
-
-(4) *Group 4:* Categories A, B, and F, individuals in categories C and D who are not social security or railroad retirement beneficiaries, and individuals in category E who are included in that category (in accordance with § 435.134 of this chapter) because they received OAA, AB, APTD, or AABD in August 1972 or would have been eligible to receive such cash assistance for that month if they had applied or had not been institutionalized.
-
-(5) *Group 5:* Categories A and B, individuals in categories C and D who are not social security or railroad retirement beneficiaries, and individuals in category E who are included in that category (in accordance with § 435.134 of this chapter) because they received OAA, AB, APTD, or AABD in August 1972 or would have been eligible to receive such cash assistance for that month if they had applied or had not been institutionalized.
-
-(6) *Group 6:* Categories A, B, and F, and individuals in category E who are included in that category (in accordance with § 435.134 of this chapter) because they received AABD in August 1972 or would have been eligible to receive AABD for that month if they had applied or had not been institutionalized. This option is available only to those States that had an AABD program as of December 31, 1973.
-
-(7) *Group 7:* Categories A and B, and individuals in category E who are included in that category (in accordance with § 435.134 of this chapter) because they received AABD in August 1972 or would have been eligible to receive AABD for that month if they had applied or had not been institutionalized. This option is available only to those States that had an AABD program as of December 31, 1973.
-
-[56 FR 38081, Aug. 12, 1991, as amended at 81 FR 86447, Nov. 30, 2016]
+[87 FR 66507, Nov. 3, 2022]

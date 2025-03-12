@@ -1,7 +1,5 @@
 ##### § 410.26 Services and supplies incident to a physician's professional services: Conditions. #####
 
-Link to an amendment published at 87 FR 70223, Nov. 18, 2022.
-
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 (1) *Auxiliary personnel* means any individual who is acting under the supervision of a physician (or other practitioner), regardless of whether the individual is an employee, leased employee, or independent contractor of the physician (or other practitioner) or of the same entity that employs or contracts with the physician (or other practitioner), has not been excluded from the Medicare, Medicaid and all other federally funded health care programs by the Office of Inspector General or had his or her Medicare enrollment revoked, and meets any applicable requirements to provide incident to services, including licensure, imposed by the State in which the services are being furnished.
@@ -30,7 +28,7 @@ Link to an amendment published at 87 FR 70223, Nov. 18, 2022.
 
 (4) Services and supplies must be of a type that are commonly furnished in the office or clinic of a physician (or other practitioner).
 
-(5) In general, services and supplies must be furnished under the direct supervision of the physician (or other practitioner). Designated care management services can be furnished under general supervision of the physician (or other practitioner) when these services or supplies are provided incident to the services of a physician (or other practitioner). The physician (or other practitioner) supervising the auxiliary personnel need not be the same physician (or other practitioner) who is treating the patient more broadly. However, only the supervising physician (or other practitioner) may bill Medicare for incident to services.
+(5) In general, services and supplies must be furnished under the direct supervision of the physician (or other practitioner). Designated care management services can be furnished under general supervision of the physician (or other practitioner) when these services or supplies are provided incident to the services of a physician (or other practitioner). Behavioral health services can be furnished under general supervision of the physician (or other practitioner) when these services or supplies are provided by auxiliary personnel incident to the services of a physician (or other practitioner). The physician (or other practitioner) supervising the auxiliary personnel need not be the same physician (or other practitioner) who is treating the patient more broadly. However, only the supervising physician (or other practitioner) may bill Medicare for incident to services.
 
 (6) Services and supplies must be furnished by the physician, practitioner with an incident to benefit, or auxiliary personnel.
 
@@ -44,4 +42,4 @@ Link to an amendment published at 87 FR 70223, Nov. 18, 2022.
 
 (2) Physical therapy, occupational therapy and speech-language pathology services provided incident to a physician's professional services are subject to the provisions established in §§ 410.59(a)(3)(iii), 410.60(a)(3)(iii), and 410.62(a)(3)(ii).
 
-[51 FR 41339, Nov. 14, 1986, as amended at 66 FR 55328, Nov. 1, 2001; 67 FR 20684, Apr. 26, 2002; 69 FR 66421, Nov. 15, 2004; 77 FR 69361, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014; 80 FR 14870, Mar. 20, 2015; 80 FR 71372, Nov. 16, 2015; 81 FR 80552, Nov. 15, 2016]
+[51 FR 41339, Nov. 14, 1986, as amended at 66 FR 55328, Nov. 1, 2001; 67 FR 20684, Apr. 26, 2002; 69 FR 66421, Nov. 15, 2004; 77 FR 69361, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014; 80 FR 14870, Mar. 20, 2015; 80 FR 71372, Nov. 16, 2015; 81 FR 80552, Nov. 15, 2016; 87 FR 70223, Nov. 18, 2022]

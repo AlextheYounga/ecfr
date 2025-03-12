@@ -1,6 +1,4 @@
-##### § 611.1223 Plan of termination - contents. #####
-
-Link to an amendment published at 87 FR 27492, May 9, 2022.
+##### § 611.1223 Plan of termination—contents. #####
 
 (a) *Disclaimer.* Place the following statement in boldface type in the material to be sent to equity holders, either on the notice of meeting or the first page of the plan of termination:
 
@@ -100,7 +98,7 @@ Link to an amendment published at 87 FR 27492, May 9, 2022.
 
 (E) A pro forma summary of earnings for the successor institution presented as if the termination had been effective at the beginning of the interim period between the end of the last fiscal year and the date of the balance sheet presented under paragraph (d)(23)(i)(D) of this section.
 
-(ii) The format for the balance sheet and income statement must be the same as the format in your annual report and must contain appropriate footnote disclosures, including data on high-risk assets, other property owned, and allowance for losses.
+(ii) The format for the balance sheet and income statement must be the same as the format in your annual report and must contain appropriate footnote disclosures, including data on high-risk assets, other property owned, and allowance for credit losses.
 
 (iii) The financial statements must include either:
 
@@ -127,3 +125,5 @@ Link to an amendment published at 87 FR 27492, May 9, 2022.
 (2) Copies of any additional written information on the termination that you have given or give to current or prospective equity holders before termination; and
 
 (3) A description of any subsequent event(s) that could have a material impact on any information in the plan of termination or on the termination.
+
+[71 FR 44420, Aug. 4, 2006, as amended at 87 FR 27492, May 9, 2022]

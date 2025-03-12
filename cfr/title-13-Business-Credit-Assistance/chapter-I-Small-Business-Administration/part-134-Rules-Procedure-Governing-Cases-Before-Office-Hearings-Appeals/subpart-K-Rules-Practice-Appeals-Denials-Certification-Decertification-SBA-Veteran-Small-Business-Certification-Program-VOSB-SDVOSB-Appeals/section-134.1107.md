@@ -1,0 +1,3 @@
+##### § 134.1107 Transmission of the case file. #####
+
+Once a VOSB or SDVOSB appeal is filed, the D/GC must deliver to OHA the entire case file relating to the denial or decertification. The Judge will issue a notice and order establishing the timetable for transmitting the case file to OHA. The D/GC must certify and authenticate that the case file, to the best of his/her knowledge, is a true and correct copy of the case file.

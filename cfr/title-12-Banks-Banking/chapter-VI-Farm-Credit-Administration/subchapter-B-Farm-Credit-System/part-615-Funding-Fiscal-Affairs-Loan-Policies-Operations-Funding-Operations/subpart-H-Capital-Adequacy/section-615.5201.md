@@ -1,7 +1,5 @@
 ##### § 615.5201 Definitions. #####
 
-Link to an amendment published at 87 FR 27492, May 9, 2022.
-
 For the purpose of this subpart, the following definitions apply:
 
 *Allocated investment* means earnings allocated but not paid in cash by a System bank to an association or other recipient.
@@ -46,7 +44,7 @@ For the purpose of this subpart, the following definitions apply:
 
 *Preferred stock* means stock that is permanent capital and has dividend and/or liquidation preference over common stock.
 
-*Risk-adjusted asset base* means “standardized total risk-weighted assets” as defined in § 628.2 of this chapter, adjusted in accordance with § 615.5207 and excluding the deduction in paragraph (2) of that definition for the amount of the System institution's allowance for loan losses that is not included in tier 2 capital.
+*Risk-adjusted asset base* means “standardized total risk-weighted assets” as defined in § 628.2 of this chapter, adjusted in accordance with § 615.5207 and excluding the deduction in paragraph (2) of that definition for the amount of the System institution's adjusted allowance for credit losses that is not included in tier 2 capital.
 
 *Stock* means stock and participation certificates.
 
@@ -56,4 +54,4 @@ For the purpose of this subpart, the following definitions apply:
 
 *Term preferred stock* means preferred stock with an original maturity of at least 5 years and on which, if cumulative, the board of directors has the option to defer dividends, provided that, at the beginning of each of the last 5 years of the term of the stock, the amount that is eligible to be counted as permanent capital is reduced by 20 percent of the original amount of the stock (net of redemptions).
 
-[81 FR 49773, July 28, 2016, as amended at 86 FR 54356, Oct. 1, 2021]
+[81 FR 49773, July 28, 2016, as amended at 86 FR 54356, Oct. 1, 2021; 87 FR 27492, May 9, 2022]

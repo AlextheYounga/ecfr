@@ -1,7 +1,5 @@
 ##### § 660.74 Latitude/longitude coordinates defining the 180 fm (329 m) through 250 fm (457 m) depth contours. #####
 
-Link to an amendment published at 87 FR 77020, Dec. 16, 2022.
-
 Boundaries for some GCAs are defined by straight lines connecting a series of latitude/longitude coordinates. This section provides coordinates for the 180 fm (329 m) through 250 fm (457 m) depth contours.
 
 (a) The 180-fm (329-m) depth contour used between the U.S. border with Canada and the U.S. border with Mexico is defined by straight lines connecting all of the following points in the order stated:
@@ -636,15 +634,17 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (d) The 180 fm (329 m) depth contour used around Lasuen Knoll off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
-(1) 33°25.12′ N. lat., 118°01.09′ W. long.;
+(1) 33°25.05′ N lat., 118°01.70′ W long.;
 
-(2) 33°25.41′ N. lat., 117°59.36′ W. long.;
+(2) 33°25.41′ N lat., 117°59.36′ W long.;
 
-(3) 33°23.49′ N. lat., 117°57.47′ W. long.;
+(3) 33°23.49′ N lat., 117°57.47′ W long.;
 
-(4) 33°23.02′ N. lat., 117°59.58′ W. long.; and
+(4) 33°23.02′ N lat., 117°59.78′ W long.;
 
-(5) 33°25.12′ N. lat., 118°01.09′ W. long.
+(5) 33°23.85′ N lat., 118°00.88′ W long.; and
+
+(6) 33°25.05′ N lat., 118°01.70′ W long.
 
 (e) The 180 fm (329 m) depth contour used around San Diego Rise off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
@@ -1484,15 +1484,17 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (j) The 200 fm (366 m) depth contour used around Lasuen Knoll off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
-(1) 33°25.91′ N. lat., 117°59.44′ W. long.;
+(1) 33°25.91′ N lat., 117°59.44′ W long.;
 
-(2) 33°23.37′ N. lat., 117°56.97′ W. long.;
+(2) 33°23.37′ N lat., 117°56.97′ W long.;
 
-(3) 33°22.82′ N. lat., 117°59.50′ W. long.;
+(3) 33°22.88′ N lat., 117°59.72′ W long.;
 
-(4) 33°25.24′ N. lat., 118°01.68′ W. long.; and
+(4) 33°23.85′ N lat., 118°01.03′ W long.;
 
-(5) 33°25.91′ N. lat., 117°59.44′ W. long.
+(5) 33°25.20′ N lat., 118°01.89′ W long.; and
+
+(6) 33°25.91′ N lat., 117°59.44′ W long.
 
 (k) The 200 fm (366 m) depth contour used around San Diego Rise off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
@@ -2484,15 +2486,15 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (2) 33°25.30′ N. lat., 117°57.88′ W. long.;
 
-(3) 33°23.37′ N. lat., 117°56.14′ W. long.;
+(3) 33°23.83′ N lat., 117°56.19′ W long.;
 
-(4) 33°22.06′ N. lat., 117°57.06′ W. long.;
+(4) 33°22.24′ N lat., 117°57.20′ W long.;
 
-(5) 33°22.85′ N. lat., 117°59.47′ W. long.;
+(5) 33°22.78′ N lat., 117°59.68′ W long.;
 
-(6) 33°23.97′ N. lat., 118°00.72′ W. long.;
+(6) 33°23.79′ N lat., 118°01.32′ W long.;
 
-(7) 33°25.98′ N. lat., 118°01.63′ W. long.; and
+(7) 33°25.79′ N lat., 118°02.25′ W long.;
 
 (8) 33°26.76′ N. lat., 118°00.77′ W. long.
 
@@ -2504,7 +2506,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (3) 32°37.05′ N. lat., 117°42.02′ W. long.;
 
-(4) 32°36.07′ N. lat., 117°44.29′ W. long.;
+(4) 32°36.07′ N lat., 117°44.29′ W long.;
 
 (5) 32°47.03′ N. lat., 117°50.97′ W. long.;
 
@@ -2976,4 +2978,4 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (231) 32°35.61′ N. lat., 117°30.15′ W. long.
 
-[69 FR 77069, Dec. 23, 2004; 70 FR 13119, Mar. 18, 2005, as amended at 70 FR 16149, Mar. 30, 2005; 71 FR 78687, Dec. 29, 2006; 72 FR 13045, Mar. 20, 2007; 72 FR 53167, Sept. 18, 2007; 74 FR 9911, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27531, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 78 FR 589, Jan. 3, 2013; 80 FR 12573, Mar. 10, 2015; 84 FR 63974, Nov. 19, 2019]
+[69 FR 77069, Dec. 23, 2004; 70 FR 13119, Mar. 18, 2005, as amended at 70 FR 16149, Mar. 30, 2005; 71 FR 78687, Dec. 29, 2006; 72 FR 13045, Mar. 20, 2007; 72 FR 53167, Sept. 18, 2007; 74 FR 9911, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27531, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 78 FR 589, Jan. 3, 2013; 80 FR 12573, Mar. 10, 2015; 84 FR 63974, Nov. 19, 2019; 87 FR 77020, Dec. 16, 2022]

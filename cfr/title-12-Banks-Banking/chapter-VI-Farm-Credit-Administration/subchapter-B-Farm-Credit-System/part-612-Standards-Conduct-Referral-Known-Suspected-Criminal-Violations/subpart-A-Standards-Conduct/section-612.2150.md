@@ -1,33 +1,49 @@
-##### § 612.2150 Employees - prohibited conduct. #####
+##### § 612.2150 Prohibited conduct. #####
 
-An employee of a System institution shall not:
+(a) *General.* If you are a System institution director or employee you must not act inconsistently with the Standards of Conduct core principles set forth in this subpart. You also must not act in the following manner:
 
-(a) Participate, directly or indirectly, in deliberations on, or the determination of, any matter affecting, directly or indirectly, the financial interest of the employee, any relative of the employee, any person residing in the employee's household, any business partner of the employee, or any entity controlled by the employee or such persons (alone or in concert), except those matters of general applicability that affect all shareholders/borrowers in a nondiscriminating way, e.g. a determination of interest rates.
+(1) *Use your position for personal gain or advantage.* Do not participate in deliberations on, or the determination of, any matter affecting your financial interest either directly or indirectly. Matters affecting your financial interest include financial interests of family or reportable business entities. You also may not use your position as a director or employee of the institution to obtain special advantage or favoritism for yourself, your family, or a reportable business entity. However, you may participate in matters of general applicability affecting shareholders or borrowers of a particular class if your participation occurs in a nondiscriminatory way.
 
-(b) Divulge or make use of, except in the performance of official duties, any fact, information, or document not generally available to the public that is acquired by virtue of employment with a System institution.
+(2) *Divulge confidential information.* Do not make use of or disclose any fact, information, or document not generally available to the public that you acquired by virtue of your position as a director or employee of the institution. You may use confidential information in the performance of your official duties.
 
-(c) Use the employee's position to obtain or attempt to obtain special advantage or favoritism for the employee, any relative of the employee, any person residing in the employee's household, any business partner of the employee, any entity controlled by the employee or such persons (alone or in concert), any other System institution, or any person transacting business with the institution, including borrowers and loan applicants.
+(3) *Accept prohibited gifts.* Do not solicit, obtain, or accept (directly or indirectly), any gift, fee, or other compensation that is offered or requested based on your position as a director or employee of an institution if it could be viewed as being offered to influence your decision-making, an official action, or to obtain information related to your institution's operations.
 
-(d) Serve as an officer or director of an entity other than a System institution that transacts business with a System institution in the district or of any commercial bank, savings and loan, or other non-System financial institution, except employee credit unions. For the purposes of this paragraph, “transacts business” does not include loans by a System institution to a family-owned entity, service on the board of directors of the Federal Agricultural Mortgage Corporation, or transactions with nonprofit entities or entities in which the System institution has an ownership interest. With the prior approval of the board of the employing institution, an employee of a Farm Credit Bank or association may serve as a director of a cooperative that borrows from a bank for cooperatives. Prior to approving an employee request, the board shall determine whether the employee's proposed service as a director is likely to cause the employee to violate any regulations in this part or the institution's policies, e.g., the requirements relating to devotion of time to official duties.
+(4) *Purchase property owned by the institution.* Do not knowingly purchase or otherwise acquire (directly or indirectly) any interest (including mineral interests) in any real or personal property that currently is owned, or within the past 12 months was owned, by your institution, your supervising institution, or institutions supervised by your institution as a result of foreclosure, deed in lieu, or similar action. The prohibition in this paragraph (a)(4) extends to property held or sold by a chartered service corporation or a System unincorporated business entity. The prohibition does not apply in the following situations:
 
-(e) Use the employee's position or information acquired in connection with the employee's position to solicit or obtain any gift, fee, or other present or deferred compensation or for any other personal benefit for the employee, any relative of the employee, any person residing in the employee's household, any business partner of the employee, any entity controlled by the employee or such persons (alone or in concert), any other System institution, or any person transacting business with the institution, including borrowers and loan applicants.
+(i) You acquire the property by inheritance.
 
-(f) Accept, directly or indirectly, any gift, fee, or other present or deferred compensation that is offered or could reasonably be viewed as being offered to influence official action or to obtain information the employee has access to by reason of employment with a System institution.
+(ii) You are exercising your rights of first refusal under section 4.36 of the Act.
 
-(g) Knowingly acquire, directly or indirectly, except by inheritance, any interest in any real or personal property, including mineral interests, that was owned by the employing, supervising, or any supervised institution within the preceding 12 months and that had been acquired by any such institution as a result of foreclosure or similar action.
+(iii) If you are a director of the institution, you may purchase property from a System institution when the property is sold through public auction or similar open, competitive bidding process. The exception in this paragraph (a)(4)(iii) only applies if you did not participate in the decision to foreclose upon the property nor did you participate in deciding how the institution would dispose of the property. Participating in these decisions includes setting the sale terms or receiving information as a result of your position with the institution that could give you an advantage over other potential bidders or purchasers of the property.
 
-(h) Directly or indirectly borrow from, lend to, or become financially obligated with or on behalf of a director, employee, or agent of the employing, supervising, or a supervised institution or a borrower or loan applicant of the employing institution, unless:
+(5) *Enter into transactions with prohibited sources.* Do not directly or indirectly borrow from, lend to, or become financially obligated with or on behalf of a director, employee, or agent of your institution, your supervising institution, or institution supervised by your institution. You are also prohibited from directly or indirectly borrowing, lending to, or becoming financially obligated with or on behalf of a borrower or loan applicant of your institution. The transaction prohibition does not apply to:
 
-(1) The transaction is with a relative or any person residing in the employee's household;
+(i) Transactions with family members.
 
-(2) The transaction is undertaken in an official capacity in connection with the institution's discounting, lending, or participation relationships with OFIs and other lenders; or
+(ii) Transactions that occur in the ordinary course of business as determined and documented by the written policies and procedures of your institution.
 
-(3) The Standards of Conduct Official determines, pursuant to policies and procedures adopted by the board, that the potential for conflict is insignificant because the transaction is in the ordinary course of business or is not material in amount and the employee does not participate in the determination of any matter affecting the financial interests of the other party to the transaction except those matters affecting all shareholders/borrowers in a nondiscriminatory way.
+(iii) Transactions undertaken in an official capacity and in connection with the institution's discounting, lending, or participation relationships with other financing institutions (OFIs) and other lenders.
 
-(i) Violate an institution's policies and procedures governing standards of conduct.
+(6) *Purchase System obligations.* Do not purchase any obligation of a System institution, including any joint, consolidated or System-wide obligation, unless such obligation is part of an offering available to the public and you either purchase it through a dealer or dealer bank affiliated with a member of the selling group designated by the Funding Corporation or purchase it in the secondary markets.
 
-(j) Act as a real estate agent or broker; provided that this paragraph shall not apply to transactions involving the purchase or sale of real estate intended for the use of the employee, a member of the employee's family, or a person residing in the employee's household.
+(i) Do not purchase or retire any stock in advance of the release of material, non-public, information concerning the institution to other stockholders.
 
-(k) Act as an agent or broker in connection with the sale and placement of insurance; provided that this paragraph shall not apply to the sale or placement of insurance authorized by section 4.29 of the Act.
+(ii) If you are a director or employee of the Funding Corporation, do not purchase or otherwise acquire, directly or indirectly, except by inheritance, any obligation or equity of a System institution, including any joint, consolidated or System-wide obligations, unless it is a common cooperative equity as defined in § 628.2 of this chapter.
 
-[59 FR 24894, May 13, 1994, as amended at 71 FR 5762, Feb. 2, 2006]
+(b) *Employees only.* In addition to the prohibitions under paragraph (a) of this section, if you are an institution employee you must not:
+
+(1) *Serve as a director or employee of certain entities.* Do not serve as a director or employee of any commercial bank, savings and loan, or other non-System financial institution. You may not serve as a director or employee of a non-System entity that transacts business with a System institution within your institution's district unless specifically allowed in this paragraph (b). For the purpose of this paragraph (b)(1), “transacts business” does not include loans by a System institution to a family-owned entity or a reportable business entity; service on the board of directors of the Federal Agricultural Mortgage Corporation; transactions with non-profit entities; or transactions with entities in which the System institution has an ownership interest. The prohibition in this paragraph (b)(1) does not apply in the following situations:
+
+(i) You may serve as a director or employee of an employee credit union.
+
+(ii) You may serve as a director of a cooperative that borrows from the System under the Act's Title III authorities if you are not employed at an institution with Title III lending authority and your employing institution approves your service on the cooperative's board.
+
+(2) *Act as a real estate agent or broker.* Do not act as a real estate agent or broker unless you are buying or selling real estate for your own use or for family.
+
+(3) *Act as an insurance agent or broker.* Do not act as an insurance agent or broker for the sale and placement of insurance, unless authorized by section 4.29 of the Act.
+
+(4) *Serve as a joint employee.* Do not serve as an employee for your supervising institution if you are an officer at your association. Do not serve as an employee for a supervised institution if you are an officer at your Farm Credit bank. The prohibition in this paragraph (b)(4) does not apply in the following situations:
+
+(i) You may be both a non-officer employee at a Farm Credit bank and a supervised association if the employment expenses are appropriately reflected in each institution's financial statements.
+
+(ii) If you are currently employed with a Farm Credit bank as other than an officer, in extraordinary circumstances, FCA may approve your serving as an officer of a supervised association. This requires the boards at both institutions to agree to the joint service and for the duties and compensation at each institution to be delineated in the board approval documents. The board documents, along with the request, must be sent at least 10 business days before the effective date to the Director of Regulatory Policy, Farm Credit Administration.

@@ -1,0 +1,13 @@
+##### § 128.303 What must a concern submit to apply for VOSB or SDVOSB certification? #####
+
+(a) To be certified by SBA as a VOSB or SDVOSB, a concern must provide documents and information demonstrating that it is owned and controlled by one or more qualifying veterans and qualifies as a small business concern as defined in part 121 of this chapter under the size standard corresponding to any NAICS code listed in its SAM profile. A list of the minimum required documents that must be submitted can be found on SBA's website at *www.sba.gov* on or before January 1, 2023.
+
+(b) Where an Applicant small business concern is a participant in the 8(a) Business Development (BD) Program and the individual upon whom 8(a) BD Program eligibility is based is a qualifying veteran, the Applicant may use documentation of its most recent annual review, or documentation of its 8(a) BD Program acceptance if it has not yet had an annual review, in support of its application for certification as a VOSB or SDVOSB. An Applicant must certify that there have been no material changes in its ownership or control since its 8(a) BD Program certification or annual review and demonstrate that the individual(s) who own and control it are qualifying veterans.
+
+(c) A small business concern that is certified by the WOSB/EDWOSB Program and the individual(s) upon whom WOSB/EDWOSB Program eligibility is based is one or more qualifying veterans may use documentation of its most recent annual recertification, or documentation of its acceptance in support of its application for certification. An Applicant must certify that there are no material changes in its ownership or control since its WOSB certification or recertification and demonstrate that the individuals who own and control it are qualifying veterans.
+
+(d) If a concern was decertified or previously denied certification from the Veteran Small Business Certification Program within the past 3 years, it must include with its application for certification a full explanation of why it was decertified or denied certification, and what, if any, changes have been made. If SBA is not satisfied with the explanation provided, SBA will deny the concern.
+
+(e) If the concern was decertified for failure to notify SBA of a material change affecting its eligibility pursuant to § 128.307, it must include with its application for certification a full explanation of why it failed to notify SBA of the material change. If SBA is not satisfied with the explanation provided, SBA will deny the concern.
+
+(f) Participants must retain documentation demonstrating satisfaction of all qualifying requirements during the entire period of participation.

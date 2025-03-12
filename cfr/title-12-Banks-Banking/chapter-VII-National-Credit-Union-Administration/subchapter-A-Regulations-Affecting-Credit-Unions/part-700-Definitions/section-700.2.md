@@ -1,7 +1,5 @@
 ##### § 700.2 Definitions. #####
 
-Link to an amendment published at 87 FR 45009, July 27, 2022.
-
 As used in this chapter:
 
 *Act* means the Federal Credit Union Act (12 U.S.C. 1751, *et seq.*).
@@ -36,11 +34,13 @@ As used in this chapter:
 
 *Non-federally insured credit union* means a credit union chartered under the laws of any State, the District of Columbia, the several territories and possessions of the United States, the Panama Canal Zone, or the Commonwealth of Puerto Rico, whose member accounts are not insured by the NCUA.
 
+*ONES credit union* means a credit union subject to supervision by the Office of National Examinations and Supervision (ONES) and includes tier II and tier III credit unions, as defined under part 702 of this chapter. Tier I credit unions are subject to supervision by the appropriate Regional Office.
+
 *Paid-in and unimpaired capital and surplus* or *unimpaired capital and surplus* mean shares plus post-closing, undivided earnings. This does not include regular reserves or special reserves required by law, regulation or special agreement between the credit union and its regulator or share insurer. “Paid-in and unimpaired capital and surplus” for purposes of the Central Liquidity Facility is defined in § 725.2(o) of this chapter.
 
-*Regional Director* means the representative of NCUA in the designated geographical area in which the office of the federally insured credit union is located or, for covered credit unions under part 702 of this chapter, the Director of the Office of National Examinations and Supervision.
+*Regional Director* means the representative of NCUA in the designated geographical area in which the office of the federally insured credit union is located or, for ONES credit unions, the Director of the Office of National Examinations and Supervision.
 
-*Regional Office* means the office of NCUA located in the designated geographical areas in which the office of the federally insured credit union is located or, for covered credit unions under part 702 of this chapter, the Office of National Examinations and Supervision.
+*Regional Office* means the office of NCUA located in the designated geographical areas in which the office of the federally insured credit union is located or, for ONES credit unions, the Office of National Examinations and Supervision.
 
 *State* means a state of the United States, the District of Columbia, any of the several territories and possessions of the United States, and the Commonwealth of Puerto Rico.
 

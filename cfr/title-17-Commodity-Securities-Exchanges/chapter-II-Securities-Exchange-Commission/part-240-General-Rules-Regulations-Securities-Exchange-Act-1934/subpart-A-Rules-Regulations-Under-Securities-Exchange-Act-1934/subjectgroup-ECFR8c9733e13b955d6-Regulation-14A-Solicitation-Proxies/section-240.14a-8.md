@@ -60,14 +60,6 @@ This section addresses when a company must include a shareholder's proposal in i
 
 (*3*) Your written statement that you intend to continue to hold the requisite amount of securities, determined in accordance with paragraph (b)(1)(i)(A) through (C) of this section, through the date of the company's annual or special meeting.
 
-(3) If you continuously held at least $2,000 of a company's securities entitled to vote on the proposal for at least one year as of January 4, 2021, and you have continuously maintained a minimum investment of at least $2,000 of such securities from January 4, 2021 through the date the proposal is submitted to the company, you will be eligible to submit a proposal to such company for an annual or special meeting to be held prior to January 1, 2023. If you rely on this provision, you must provide the company with your written statement that you intend to continue to hold at least $2,000 of such securities through the date of the shareholders' meeting for which the proposal is submitted. You must also follow the procedures set forth in paragraph (b)(2) of this section to demonstrate that:
-
-(i) You continuously held at least $2,000 of the company's securities entitled to vote on the proposal for at least one year as of January 4, 2021; and
-
-(ii) You have continuously maintained a minimum investment of at least $2,000 of such securities from January 4, 2021 through the date the proposal is submitted to the company.
-
-(iii) This paragraph (b)(3) will expire on January 1, 2023.
-
 (c) *Question 3:* How many proposals may I submit? Each person may submit no more than one proposal, directly or indirectly, to a company for a particular shareholders' meeting. A person may not rely on the securities holdings of another person for the purpose of meeting the eligibility requirements and submitting multiple proposals for a particular shareholders' meeting.
 
 (d) *Question 4:* How long can my proposal be? The proposal, including any accompanying supporting statement, may not exceed 500 words.
@@ -180,4 +172,4 @@ Yes, you may submit a response, but it is not required. You should try to submit
 
 (ii) In all other cases, the company must provide you with a copy of its opposition statements no later than 30 calendar days before its files definitive copies of its proxy statement and form of proxy under § 240.14a-6.
 
-[63 FR 29119, May 28, 1998; 63 FR 50622, 50623, Sept. 22, 1998, as amended at 72 FR 4168, Jan. 29, 2007; 72 FR 70456, Dec. 11, 2007; 73 FR 977, Jan. 4, 2008; 76 FR 6045, Feb. 2, 2011; 75 FR 56782, Sept. 16, 2010; 85 FR 70294, Nov. 4, 2020]Effective Date Note:At 85 FR 70294, Nov. 4, 2020, § 240.14a-8 was amended by adding paragraph (b)(3), effective Jan. 4, 2021 through Jan. 1, 2023.
+[63 FR 29119, May 28, 1998; 63 FR 50622, 50623, Sept. 22, 1998, as amended at 72 FR 4168, Jan. 29, 2007; 72 FR 70456, Dec. 11, 2007; 73 FR 977, Jan. 4, 2008; 76 FR 6045, Feb. 2, 2011; 75 FR 56782, Sept. 16, 2010; 85 FR 70294, Nov. 4, 2020]

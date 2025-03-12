@@ -1,7 +1,5 @@
 ##### § 635.71 Prohibitions. #####
 
-Link to an amendment published at 87 FR 60007, Oct. 3, 2022.
-
 In addition to the prohibitions specified in § 600.725 of this chapter, it is unlawful for any person subject to the jurisdiction of the United States to violate any provision of this part, ATCA, the Magnuson-Stevens Act, or any other rules promulgated under ATCA or the Magnuson-Stevens Act.
 
 (a) *General.* It is unlawful for any person or vessel subject to the jurisdiction of the United States to:
@@ -32,7 +30,7 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (13) Interfere with, delay, or prevent by any means, the apprehension of another person, knowing that such person has committed any act prohibited by this part.
 
-(14) Fail to install, activate, repair, or replace a NMFS-approved E-MTU vessel monitoring system prior to leaving port with pelagic longline gear, bottom longline gear, gillnet gear, or purse seine gear on board the vessel as specified in § 635.69.
+(14) Fail to install, activate, repair, or replace a NMFS-approved E-MTU vessel monitoring system prior to leaving port with pelagic longline gear, bottom longline gear, or gillnet gear on board the vessel, or with green-stick gear on board a vessel issued an Atlantic Tunas Longline category permit as specified in § 635.69.
 
 (15) Tamper with, or fail to operate and maintain a vessel monitoring system as specified in § 635.69.
 
@@ -82,7 +80,7 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (36) Fish with bottom or pelagic longline and shark gillnet gear for HMS without adhering to the gear operation and deployment restrictions required in 50 CFR 635.21.
 
-(37) Fail to report to NMFS, at the number designated by NMFS, the incidental capture of listed whales with shark gillnet gear as required by § 635.21(g)(1).
+(37) Fail to report to NMFS, at the number designated by NMFS, the incidental capture of listed whales with shark gillnet gear as required by § 635.21(f)(1).
 
 (38) Fish for, or possess on board a fishing vessel, species regulated under this part in unauthorized fishing areas as specified in § 635.25.
 
@@ -140,7 +138,7 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (2) [Reserved]
 
-(3) Fish for, catch, retain, or possess a BFT less than the large medium size class by a person aboard a vessel other than one that has on board a valid HMS Angling or Charter/Headboat permit, or an Atlantic tunas Purse Seine category permit as authorized under § 635.23 (b), (c), and (e)(2).
+(3) Fish for, catch, retain, or possess a BFT less than the large medium size class by a person aboard a vessel other than one that has on board a valid HMS Angling or Charter/Headboat permit as authorized under § 635.23(b) and (c).
 
 (4) Fail to inspect a vessel's permit, fail to affix a dealer tag to a large medium or giant BFT, or fail to use such tag as specified in § 635.5(b)(2).
 
@@ -150,11 +148,11 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (7) Fish for, catch, retain, or possess a bluefin tuna with gear not authorized for the category permit issued to the vessel or to have such gear on board when in possession of a bluefin tuna, as specified in § 635.19(b).
 
-(8) Fail to request an inspection of a purse seine vessel, as specified in § 635.21(e)(2).
+(8) Fail to pay cost recovery fees as instructed by NMFS, as specified at § 635.15(m)(4).
 
-(9) Fish for or catch BFT in a directed fishery with purse seine nets without an allocation made under § 635.27(a)(4).
+(9) Hold or acquire more than 25 percent of the total IBQ shares or associated allocations annually as specified under § 635.15(n).
 
-(10) Fish for or catch any Atlantic tunas in a directed fishery with purse seine nets if there is no remaining BFT allocation made under § 635.27 (a)(4).
+(10) Fail to retain and land all dead large medium or giant BFT when pelagic longline gear is on board a vessel, as specified in § 635.23(e)(2).
 
 (11) Exceed the recreational catch limit for yellowfin tuna, as specified in § 635.22(d).
 
@@ -168,17 +166,13 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (16) Retain a BFT caught under the catch and release program specified in § 635.26.
 
-(17) As a vessel with an Atlantic Tunas Purse Seine category permit, catch, possess, retain, or land bluefin in excess of its allocation of the Purse Seine category quota as specified in § 635.23(e), or fish for bluefin under that allocation prior to the commencement date of the directed bluefin purse seine fishery as specified in § 635.27(a)(4).
+(17) Fish for, catch, retain, or possess BAYS tunas with gear not authorized for the category permit issued to the vessel, as specified in § 635.19(b).
 
-(18) As a vessel with a Purse Seine category Atlantic tunas permit, land BFT smaller than the large medium size class except as specified under § 635.23(e)(2).
+(18) [Reserved]
 
 (19) Fish for, retain, possess, or land a BFT when the fishery is closed, as specified in § 635.28(a), except as may be authorized for catch and release under § 635.26.
 
-(20) Approach to within 100 yd (91.5 m) of the cork line of a purse seine net used by a vessel fishing for Atlantic tuna, or for a purse seine vessel to approach to within 100 yd (91.5 m) of a vessel actively fishing for Atlantic tuna, except that two vessels that have Atlantic Tunas Purse Seine category LAPs may approach closer to each other.
-
-(21) Transfer a tuna as specified in § 635.29(a), except as may be authorized for the transfer of Atlantic BFT between purse seine vessels, as specified in § 635.29(c).
-
-(22) As the owner or operator of a purse seine vessel, fail to comply with the requirement for possession at sea and landing of BFT under § 635.30(a).
+(20)—(22) [Reserved]
 
 (23) Fish for, catch, possess, or retain a bluefin tuna, except as specified under § 635.23.
 
@@ -194,29 +188,29 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (29) [Reserved]
 
-(30) Fish for any HMS, other than Atlantic BAYS tunas, with speargun fishing gear, as specified at § 635.21(i).
+(30) Fish for any HMS, other than Atlantic BAYS tunas, with speargun fishing gear, as specified at § 635.21(h).
 
-(31) Harvest or fish for BAYS tunas using speargun gear with powerheads, or any other explosive devices, as specified in § 635.21(i).
+(31) Harvest or fish for BAYS tunas using speargun gear with powerheads, or any other explosive devices, as specified in § 635.21(h).
 
 (32) Sell, purchase, barter for, or trade for an Atlantic BAYS tuna harvested with speargun fishing gear, as specified at § 635.31(a)(1).
 
-(33) Fire or discharge speargun gear without being physically in the water, as specified at § 635.21(i).
+(33) Fire or discharge speargun gear without being physically in the water, as specified at § 635.21(h).
 
-(34) Use speargun gear to harvest a BAYS tuna restricted by fishing lines or other means, as specified at § 635.21(i).
+(34) Use speargun gear to harvest a BAYS tuna restricted by fishing lines or other means, as specified at § 635.21(h).
 
-(35) Use speargun gear to fish for BAYS tunas from a vessel that does not possess either a valid HMS Angling or HMS Charter/Headboat permit, as specified at § 635.21(i).
+(35) Use speargun gear to fish for BAYS tunas from a vessel that does not possess either a valid HMS Angling or HMS Charter/Headboat category permit, as specified at § 635.21(h).
 
-(36) Possess J-hooks onboard a vessel that has pelagic longline gear on board, and that has been issued or required to be issued a LAP under this part, except when green-stick gear is on board, as specified at § 635.21(c)(2)(v)(A) and (c)(5)(iii)(C).
+(36) Possess J-hooks onboard a vessel that has pelagic longline gear on board, and that has been issued or required to be issued a LAP under this part, except when green-stick gear is on board, as specified at § 635.21(c)(2)(iv) and (c)(5)(iii)(C).
 
 (37) Use or deploy J-hooks with pelagic longline gear from a vessel that has been issued, or required to be issued a LAP under this part, as specified in § 635.21(c)(5)(iii)(C).
 
 (38) As specified in § 635.21(c)(5)(iii)(C), possess more than 20 J-hooks on board a vessel that has been issued or required to be issued a LAP under this part, when possessing onboard both pelagic longline gear and green-stick gear as defined in § 635.2.
 
-(39) Use or deploy more than 10 hooks at one time on any individual green-stick gear, as specified in § 635.21(c)(2)(v)(A), (c)(5)(iii)(C), or (j).
+(39) Use or deploy more than 10 hooks at one time on any individual green-stick gear, as specified in § 635.21(c)(2)(iv), (c)(5)(iii)(C), or (i).
 
-(40) Possess, use, or deploy J-hooks smaller than 1.5 inch (38.1 mm), when measured in a straight line over the longest distance from the eye to any part of the hook, when fishing with or possessing green-stick gear on board a vessel that has been issued or required to be issued a LAP under this part, as specified at § 635.21(c)(2)(v)(A) or (c)(5)(iii)(C).
+(40) Possess, use, or deploy J-hooks smaller than 1.5 inch (38.1 mm), when measured in a straight line over the longest distance from the eye to any part of the hook, when fishing with or possessing green-stick gear on board a vessel that has been issued or required to be issued a LAP under this part, as specified at § 635.21(c)(2)(iv) or (c)(5)(iii)(C).
 
-(41) Fail to report bluefin catch by pelagic longline or purse seine gear, through VMS as specified at § 635.69(e)(4).
+(41) Fail to report BFT catch by pelagic longline, through VMS as specified at § 635.69(e)(4).
 
 (42) Fail to report all dead discards or landings of bluefin through the NMFS electronic catch reporting system within 24 hours of landing or the end of the trip as specified at § 635.5(a)(4).
 
@@ -226,33 +220,33 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (45) Fail to comply with landing report requirements, as specified under § 635.5(b)(2)(i)(A).
 
-(46) Deploy or fish with any fishing gear from a vessel with a pelagic longline on board that does not have an approved and working EM system as specified in § 635.9; tamper with, or fail to install, operate or maintain one or more components of the EM system; obstruct the view of the camera(s); or fail to handle bluefin tuna in a manner that allows the camera to record the fish; as specified in § 635.9.
+(46) Deploy or fish with any fishing gear from a vessel with a pelagic longline on board that does not have an approved and fully operational, working EM system as specified in § 635.9; tamper with, or fail to install, operate or maintain one or more components of the EM system; obstruct the view of the camera(s); or fail to handle BFT in a manner that allows the camera to record the fish as specified in § 635.9; or fail to comply with the standardized reference grid, hard drive, vessel monitoring plan and other requirements under § 635.9.
 
-(47) Depart on a fishing trip or deploy or fish with any fishing gear from a vessel with a pelagic longline on board without a minimum amount of IBQ allocation available for that vessel, as specified in § 635.15(b)(3), as applicable.
+(47) Depart on a fishing trip or deploy or fish with any fishing gear from a vessel with a pelagic longline on board without a minimum amount of IBQ allocation available for that vessel, as specified in § 635.15(f)(2), as applicable.
 
-(48) Depart on a fishing trip or deploy or fish with any fishing gear from a vessel with a pelagic longline on board without accounting for bluefin caught as specified in § 635.15(b)(4).
+(48) Depart on a fishing trip or deploy or fish with any fishing gear from a vessel with a pelagic longline on board without accounting for BFT as specified in § 635.15(f)(3).
 
-(49) Lease bluefin quota allocation to or from the owner of a vessel not issued a valid Atlantic Tunas Longline permit or not an Atlantic Tunas Purse Seine participant as specified under § 635.15(c)(1).
+(49) Lease BFT quota allocation to or from the owner of a vessel not issued a valid Atlantic Tunas Longline permit as specified under § 635.15(g)(1).
 
-(50) Fish in the Gulf of Mexico with pelagic longline gear on board if the vessel has only designated Atlantic IBQ allocation, as specified under § 635.15(b)(2).
+(50) Fish in the Gulf of Mexico with pelagic longline gear on board if the vessel has only designated Atlantic IBQ allocation, as specified under § 635.15(c)(3).
 
-(51) Depart on a fishing trip or deploy or fish with any fishing gear from a vessel with a pelagic longline on board in the Gulf of Mexico, without a minimum amount of designated GOM IBQ allocation available for that vessel, as specified in § 635.15(b)(3).
+(51) Depart on a fishing trip or deploy or fish with any fishing gear from a vessel with a pelagic longline on board in the Gulf of Mexico, without a minimum amount of designated GOM IBQ allocation available for that vessel, as specified in § 635.15(f)(2).
 
-(52) If leasing IBQ allocation, fail to provide all required information on the application, as specified under § 635.15(c)(2).
+(52) If leasing IBQ allocation, fail to provide all required information on the application, as specified under § 635.15(g)(2).
 
-(53) Lease IBQ allocation in an amount that exceeds the amount of IBQ allocation associated with the lessor, as specified under § 635.15(c)(2).
+(53) Lease IBQ allocation in an amount that exceeds the amount of IBQ allocation associated with the lessor, as specified under § 635.15(g)(2).
 
-(54) Sell quota share, as specified under § 635.15(d).
+(54) Sell quota share, as specified under § 635.15(h).
 
-(55) Fail to provide bluefin tuna landings and dead discard information as specified at § 635.15(b)(4)(iii).
+(55) Fail to provide BFT landings and dead discard information as specified at § 635.15(f)(3)(iii).
 
-(56) Fish with or have pelagic longline gear on board if any quota debt associated with the permit from a preceding calendar year quarter has not been settled as specified in § 635.15(b)(5)(i).
+(56) Fish with or have pelagic longline gear on board if any quota debt associated with the permit from a preceding calendar year quarter has not been settled as specified in § 635.15(f)(4)(i).
 
-(57) Lease IBQ allocation during the period from 6 p.m. December 31 to 2 p.m. January 1 (Eastern Time) as specified at § 635.15(c)(3)(iv).
+(57) Lease IBQ allocation during the period from 6 p.m. December 31 to 2 p.m. January 1 (Eastern Time) as specified at § 635.15(g)(3)(iv).
 
-(58) Lease IBQ allocation if the conditions of paragraph § 635.15(c)(2) are not met.
+(58) Lease IBQ allocation if the conditions of § 635.15(g)(2) are not met.
 
-(59) Fish with or have pelagic longline gear on board if any annual level quota debt associated with the vessel from a preceding year has not been settled, as specified at § 635.15(b)(5)(ii).
+(59) Fish with or have pelagic longline gear on board if any annual level quota debt associated with the vessel from a preceding year has not been settled, as specified at § 635.15(f)(4)(ii).
 
 (c) *Billfish.* It is unlawful for any person or vessel subject to the jurisdiction of the United States to:
 
@@ -268,7 +262,7 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (6) As the owner of a vessel permitted, or required to be permitted, in the Atlantic HMS Angling or Atlantic HMS Charter/Headboat category, fail to report a billfish, as specified in § 635.5(c)(2) or (c)(3).
 
-(7) Deploy a J-hook or an offset circle hook in combination with natural bait or a natural bait/artificial lure combination when participating in a tournament for, or including, Atlantic billfish, as specified in § 635.21(f).
+(7) Deploy a J-hook or an offset circle hook in combination with natural bait or a natural bait/artificial lure combination when participating in a tournament for, or including, Atlantic billfish, as specified in § 635.21(e).
 
 (8) Take, retain, or possess an Atlantic blue marlin, white marlin, and roundscale spearfish when the fishery for these species has been restricted to catch and release fishing only, as specified in § 635.27(d).
 
@@ -298,7 +292,7 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (12) Fish for Atlantic sharks with unauthorized gear or possess Atlantic sharks on board a vessel with unauthorized gear on board as specified in § 635.19(d).
 
-(13) Fish for Atlantic sharks with a gillnet or possess Atlantic sharks on board a vessel with a gillnet on board, except as specified in § 635.21(g).
+(13) Fish for Atlantic sharks with a gillnet or possess Atlantic sharks on board a vessel with a gillnet on board, except as specified in § 635.21(f).
 
 (14) First receive or attempt to first receive Atlantic sharks without making available for inspection, at each of the dealer's places of business listed on the dealer permit which first receives Atlantic sharks, an original, valid dealer or proxy Atlantic shark identification workshop certificate issued by NMFS to the dealer or proxy in violation of § 635.8(b), except that trucks or other conveyances of the business must possess a copy of such certificate.
 
@@ -316,19 +310,19 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (21) Fish for, retain, possess, or land sharks without a shark endorsement, as specified in § 635.4(b) and (c).
 
-(22) Except when fishing only with flies or artificial lures, fish for, retain, possess, or land sharks without deploying non-offset, corrodible circle hooks when fishing at a registered recreational HMS fishing tournament that has awards or prizes for sharks, as specified in § 635.21(f) and (k).
+(22) Except when fishing only with flies or artificial lures, fish for, retain, possess, or land sharks without deploying non-offset, corrodible circle hooks when fishing at a registered recreational HMS fishing tournament that has awards or prizes for sharks, as specified in § 635.21(e) and (j).
 
-(23) Except when fishing only with flies or artificial lures, fish for, retain, possess, or land sharks without deploying non-offset, corrodible circle hooks when issued an Atlantic HMS Angling permit or HMS Charter/Headboat permit with a shark endorsement, as specified in § 635.21(f) and (k).
+(23) Except when fishing only with flies or artificial lures, fish for, retain, possess, or land sharks without deploying non-offset, corrodible circle hooks when issued an Atlantic HMS Angling permit or HMS Charter/Headboat category permit with a shark endorsement, as specified in § 635.21(e) and (j).
 
 (24) Release sharks with more than 3 feet (91.4 cm) of trailing gear, as specified in § 635.21(c)(6).
 
-(25) Fail to follow the fleet communication and relocation protocol for dusky sharks as specified at § 635.21(c)(6), (d)(2), and (g)(5).
+(25) Fail to follow the fleet communication and relocation protocol for dusky sharks as specified at § 635.21(c)(6), (d)(2), and (f)(5).
 
 (26) Deploy bottom longline gear without circle hooks, or have on board both bottom longline gear and non-circle hooks, as specified at § 635.21(d)(4).
 
 (27) Retain, land, or possess a shortfin mako shark that was caught with gear other than pelagic longline, bottom longline, or gillnet gear as specified at § 635.21(a).
 
-(28) Retain, land, or possess a shortfin mako shark that was caught with pelagic longline, bottom longline, or gillnet gear and was alive at haulback as specified at § 635.21(c)(1), (d)(5), and (g)(6).
+(28) Retain, land, or possess a shortfin mako shark that was caught with pelagic longline, bottom longline, or gillnet gear and was alive at haulback as specified at § 635.21(c)(1), (d)(5), and (f)(6).
 
 (29) As specified at § 635.21(c)(1), retain, land, or possess a shortfin mako shark that was caught with pelagic longline gear when the electronic monitoring system was not installed and functioning in compliance with the requirements at § 635.9.
 
@@ -354,7 +348,7 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (10) Fish for, catch, possess, retain, or land an Atlantic swordfish using, or captured on, “buoy gear” as defined at § 635.2, unless, as specified in § 635.19(e)(3), the vessel owner has been issued a swordfish directed LAP or a swordfish handgear LAP in accordance with § 635.4(f) or a valid HMS Commercial Caribbean Small Boat permit in accordance with § 635.4(o).
 
-(11) As the owner of a vessel permitted, or required to be permitted, in the swordfish directed, swordfish handgear LAP category, or issued a valid HMS Commercial Caribbean Small Boat permit and utilizing buoy gear, to possess or deploy more than 35 individual floatation devices, to deploy more than 35 individual buoy gears per vessel, or to deploy buoy gear without affixed monitoring equipment, as specified at § 635.21(h).
+(11) Possess or deploy more than 35 individual floatation devices, to deploy more than 35 individual buoy gears per vessel, or to deploy buoy gear without affixed monitoring equipment, as specified at § 635.21(g).
 
 (12) Fail to mark each buoy gear as required at § 635.6(c)(1).
 
@@ -366,7 +360,7 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (16) Possess any HMS, other than Atlantic swordfish, harvested with buoy gear as specified at § 635.19 unless issued a valid HMS Commercial Caribbean Small Boat permit and operating within the U.S. Caribbean as defined at § 622.2 of this chapter.
 
-(17) Failure to construct, deploy, or retrieve buoy gear as specified at § 635.21(h).
+(17) Fail to construct, deploy, or retrieve buoy gear as specified at § 635.21(g).
 
 (18) As the owner of a vessel permitted, or required to be permitted, in the Swordfish General Commercial permit category, possess North Atlantic swordfish taken from its management unit by any gear other than rod and reel, handline, bandit gear, green-stick, or harpoon gear, as specified in § 635.19(e).
 

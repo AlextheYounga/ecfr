@@ -1,10 +1,8 @@
-##### § 660.230 Fixed gear fishery - management measures. #####
-
-Link to an amendment published at 87 FR 77027, Dec. 16, 2022.
+##### § 660.230 Fixed gear fishery—management measures. #####
 
 (a) General. Most species taken in limited entry fixed gear (longline and pot/trap) fisheries will be managed with cumulative trip limits (see trip limits in Tables 2 (North) and 2 (South) of this subpart), size limits (see § 660.60(h)(5)), seasons (see trip limits in Tables 2 (North) and 2 (South) of this subpart and sablefish primary season details in § 660.231), gear restrictions (see paragraph (b) of this section), and closed areas (see paragraph (d) of this section and §§ 660.70 through 660.79). Cowcod retention is prohibited in all fisheries, and groundfish vessels operating south of Point Conception must adhere to CCA restrictions (see paragraph (d)(10) of this section and § 660.70). Yelloweye rockfish retention is prohibited in the limited entry fixed gear fisheries. Regulations governing and tier limits for the limited entry, fixed gear sablefish primary season north of 36° N lat. are found in § 660.231. Vessels not participating in the sablefish primary season are subject to daily or weekly sablefish limits in addition to cumulative limits for each cumulative limit period. Only one sablefish landing per week may be made in excess of the daily trip limit and, if the vessel chooses to make a landing in excess of that daily trip limit, then that is the only sablefish landing permitted for that week. The trip limit for black rockfish caught with hook-and-line gear also applies, see § 660.230(e). The trip limits in Table 2 (North) and Table 2 (South) of this subpart apply to vessels participating in the limited entry groundfish fixed gear fishery and may not be exceeded. Federal commercial groundfish regulations are not intended to supersede any more restrictive state commercial groundfish regulations relating to federally-managed groundfish.
 
-(b) *Gear restrictions* - (1) Longline and pot or trap gear are authorized in the limited entry fixed gear fishery, providing the gear is in compliance with the restrictions set forth in this section, and gear marking requirements described in § 660.219 of this subpart.
+(b) *Gear restrictions*—(1) Longline and pot or trap gear are authorized in the limited entry fixed gear fishery, providing the gear is in compliance with the restrictions set forth in this section, and gear marking requirements described in § 660.219 of this subpart.
 
 (2) Vessels participating in the limited entry fixed gear fishery may also fish with open access gear subject to the gear restrictions at § 660.330(b), subpart F, but will be subject to the most restrictive trip limits for the gear used as specified at § 660.60(h)(7), subpart C.
 
@@ -18,11 +16,11 @@ Link to an amendment published at 87 FR 77027, Dec. 16, 2022.
 
 (2) For limited entry fixed gear vessels, the following species must be sorted:
 
-(i) *Coastwide* - widow rockfish, canary rockfish, darkblotched rockfish, yelloweye rockfish, shortbelly rockfish, black rockfish, blue/deacon rockfish, minor nearshore rockfish, minor shelf rockfish, minor slope rockfish, shortraker rockfish, rougheye/blackspotted rockfish, shortspine and longspine thornyhead, Dover sole, arrowtooth flounder, petrale sole, starry flounder, English sole, other flatfish, lingcod, sablefish, Pacific cod, spiny dogfish, other fish, longnose skate, big skate, and Pacific whiting;
+(i) *Coastwide*—arrowtooth flounder, big skate, black rockfish, blue/deacon rockfish, canary rockfish, darkblotched rockfish, Dover sole, English sole, lingcod, longnose skate, longspine thornyhead, petrale sole, minor nearshore rockfish, minor shelf rockfish, minor slope rockfish, other fish, other flatfish, Pacific cod, Pacific whiting, rougheye/blackspotted rockfish, sablefish, shortbelly rockfish, shortraker rockfish, shortspine thornyhead, spiny dogfish, starry flounder, widow rockfish, and yelloweye rockfish;
 
-(ii) *North of 40°10′ N lat.* - POP, yellowtail rockfish, cabezon (California), Washington cabezon/kelp greenling complex, Oregon cabezon/kelp greenling complex; and
+(ii) *North of 40°10′ N lat.*—cabezon (California), copper rockfish (California), Oregon cabezon/kelp greenling complex, POP, quillback rockfish (California), Washington cabezon/kelp greenling complex, yellowtail rockfish; and
 
-(iii) South of 40°10′ N. lat. - minor shallow nearshore rockfish, minor deeper nearshore rockfish, California scorpionfish, chilipepper, bocaccio, splitnose rockfish, Pacific sanddabs, cowcod, bronzespotted rockfish, blackgill rockfish and cabezon.
+(iii) *South of 40°10′ N lat.*—blackgill rockfish, bocaccio, bronzespotted rockfish, cabezon, California scorpionfish, chilipepper rockfish, copper rockfish, cowcod, minor shallow nearshore rockfish, minor deeper nearshore rockfish, Pacific sanddabs, quillback rockfish, splitnose rockfish, and vermilion rockfish.
 
 (d) *Groundfish conservation areas.* GCAs are defined by coordinates expressed in degrees of latitude and longitude. The latitude and longitude coordinates of the GCA boundaries are specified at §§ 660.70 through 660.74. A vessel that is authorized by this paragraph to fish within a GCA (*e.g.,* fishing for “other flatfish” with hook and line gear only), may not simultaneously have other gear on board the vessel that is unlawful to use for fishing within the GCA. The following GCAs apply to vessels participating in the limited entry fixed gear fishery.
 
@@ -60,6 +58,8 @@ Link to an amendment published at 87 FR 77027, Dec. 16, 2022.
 
 (iv) It is lawful to fish within the nontrawl RCA with limited entry fixed gear using hook and line gear only when trip limits authorize such fishing, and provided a valid declaration report as required at § 660.13(d), subpart C, has been filed with NMFS OLE.
 
+(v) It is lawful to fish within the non-trawl RCA seaward of Oregon and California (between 46°16′ N lat. and the U.S./Mexico border) with open access non-bottom contact hook-and-line gear configurations as specified at § 660.330(b)(3)(i) through (ii), subject to applicable crossover provisions at § 660.60(h)(7), and provided that a valid declaration report as required at § 660.13(d) has been filed with NMFS OLE.
+
 (12) *Farallon Islands.* Under California law, commercial fishing for all groundfish is prohibited between the shoreline and the 10 fm (18 m) depth contour around the Farallon Islands. An exception to this prohibition is that commercial fishing for “other flatfish” is allowed around the Farallon Islands using hook and line gear only. (See Table 2 (South) of this subpart.) For a definition of the Farallon Islands, see § 660.70, subpart C.
 
 (13) *Cordell Banks.* Commercial fishing for groundfish is prohibited in waters of depths less than 100 fm (183 m) around Cordell Banks, as defined by specific latitude and longitude coordinates at § 660.70, subpart C. An exception to this prohibition is that commercial fishing for “other flatfish” is allowed around Cordell Banks using hook and line gear only.
@@ -70,4 +70,4 @@ Link to an amendment published at 87 FR 77027, Dec. 16, 2022.
 
 (g) *Essential Fish Habitat Conservation Areas (EFHCA).* EFHCAs, defined at § 660.11 and with latitude and longitude coordinates at §§ 660.75 through 660.79, apply to vessels using bottom contact gear, defined at § 660.11, and includes limited entry fixed gear (*e.g.,* longline and pot/trap,) among other gear types. EFHCAs closed to bottom contact gear are listed at § 660.12(a).
 
-[75 FR 60897, Oct. 1, 2010, as amended at 76 FR 27549, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 78 FR 634, Jan. 3, 2013; 80 FR 12593, Mar. 10, 2015; 80 FR 71981, Nov. 18, 2015; 82 FR 9662, Feb. 7, 2017; 82 FR 60569, Dec. 21, 2017; 83 FR 64006, Dec. 12, 2018; 84 FR 49962, Sept. 24, 2019; 84 FR 63991, Nov. 19, 2019; 85 FR 79921, Dec. 11, 2020; 86 FR 14381, Mar. 16, 2021]
+[75 FR 60897, Oct. 1, 2010, as amended at 76 FR 27549, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 78 FR 634, Jan. 3, 2013; 80 FR 12593, Mar. 10, 2015; 80 FR 71981, Nov. 18, 2015; 82 FR 9662, Feb. 7, 2017; 82 FR 60569, Dec. 21, 2017; 83 FR 64006, Dec. 12, 2018; 84 FR 49962, Sept. 24, 2019; 84 FR 63991, Nov. 19, 2019; 85 FR 79921, Dec. 11, 2020; 86 FR 14381, Mar. 16, 2021; 87 FR 77027, Dec. 16, 2022]

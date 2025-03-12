@@ -1,7 +1,5 @@
 ##### § 305.2 Definitions. #####
 
-Link to an amendment published at 86 FR 9282, Feb. 12, 2021.
-
 (a) *Act* means the Energy Policy and Conservation Act (Pub. L. 94-163), and amendments thereto.
 
 (b) *ANSI* means the American National Standards Institute and, as used herein, is the prefix for national standards and codes adopted by ANSI.
@@ -22,7 +20,7 @@ Link to an amendment published at 86 FR 9282, Feb. 12, 2021.
 
 (j) *Commission* means the Federal Trade Commission.
 
-(k) *Consumer product* means any article (other than an automobile, as “automobile” is defined in 15 U.S.C. 2001(1) [sec. 501(1) of the Motor Vehicle Information and Cost Savings Act]) of a type -
+(k) *Consumer product* means any article (other than an automobile, as “automobile” is defined in 15 U.S.C. 2001(1) [sec. 501(1) of the Motor Vehicle Information and Cost Savings Act]) of a type—
 
 (1) Which in operation consumes, or is designed to consume, energy or, with respect to showerheads, faucets, water closets, and urinals, water; and
 
@@ -30,7 +28,7 @@ Link to an amendment published at 86 FR 9282, Feb. 12, 2021.
 
 (l) *Consumer appliance product* means any of the following consumer products, excluding those products designed solely for use in recreational vehicles and other mobile equipment:
 
-(1) Refrigerators, refrigerator-freezers, and freezers that can be operated by alternating current electricity, excluding -
+(1) Refrigerators, refrigerator-freezers, and freezers that can be operated by alternating current electricity, excluding—
 
 (i) Any type designed to be used without doors; and
 
@@ -88,9 +86,9 @@ Link to an amendment published at 86 FR 9282, Feb. 12, 2021.
 
 (o) *Distributor* means a person (other than a manufacturer or retailer) to whom a consumer appliance product is delivered or sold for purposes of distribution in commerce.
 
-(p) *Energy efficiency rating* means the following product-specific energy usage descriptors: *annual fuel utilization efficiency (AFUE)* for furnaces; *combined energy efficiency ratio (CEER)* for room air conditioners; *seasonal energy efficiency ratio (SEER)* for the cooling function of central air conditioners and heat pumps; *heating seasonal performance factor (HSPF)* for the heating function of heat pumps; *airflow efficiency* for ceiling fans; and, *thermal efficiency (TE)* for pool heaters, as these descriptors are determined in accordance with tests prescribed under section 323 of the Act (42 U.S.C. 6293). These product-specific energy usage descriptors shall be used in satisfying all the requirements of this part.
+(p) *Energy efficiency rating* means the following product-specific energy usage descriptors: Annual fuel utilization efficiency (AFUE) for furnaces; combined energy efficiency ratio (CEER) for room and portable air conditioners; seasonal energy efficiency ratio 2 (SEER2) for the cooling function of central air conditioners and heat pumps; heating seasonal performance factor 2 (HSPF2) for the heating function of heat pumps; airflow efficiency for ceiling fans; and, thermal efficiency (TE) for pool heaters, as these descriptors are determined in accordance with tests prescribed under section 323 of the Act (42 U.S.C. 6293). These product-specific energy usage descriptors shall be used in satisfying all the requirements of this part.
 
-(q) *Estimated annual energy consumption and estimated annual operating or energy cost* - (1) *Estimated annual energy consumption* means the energy or (for plumbing products) water that is likely to be consumed annually in representative use of a consumer product, as determined in accordance with tests prescribed under section 323 of the Act (42 U.S.C. 6293).
+(q) *Estimated annual energy consumption and estimated annual operating or energy cost*—(1) *Estimated annual energy consumption* means the energy or (for plumbing products) water that is likely to be consumed annually in representative use of a consumer product, as determined in accordance with tests prescribed under section 323 of the Act (42 U.S.C. 6293).
 
 (i) *Kilowatt-hour use per year,* or *kWh/yr.,* means estimated annual energy consumption expressed in kilowatt-hours of electricity.
 

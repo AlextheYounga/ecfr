@@ -1,0 +1,3 @@
+##### § 128.307 What are a Participant's ongoing obligations to SBA? #####
+
+Once certified, a VOSB or SDVOSB must notify SBA of any material changes that could affect its eligibility, within 30 calendar days of any such change, and attest to its continued eligibility. Material changes include, but are not limited to, a change in the firm's ownership, business structure, or control, filing of bankruptcy, or change in active duty status. The method for notifying SBA can be found on SBA's web page. A concern's failure to notify SBA of a material change may result in decertification, pursuant to § 128.310. In addition, SBA may seek the imposition of penalties under § 128.600.

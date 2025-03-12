@@ -1,6 +1,6 @@
 ##### § 660.160 Catcher/processor (C/P) Coop Program. #####
 
-Link to an amendment published at 87 FR 77027, Dec. 16, 2022.Link to an amendment published at 87 FR 77006, Dec. 16, 2022.
+Link to an amendment published at 87 FR 77006, Dec. 16, 2022.
 
 (a) *General.* The C/P Coop Program is a limited access program that applies to vessels in the C/P sector of the Pacific whiting at-sea trawl fishery and is a single voluntary coop. Eligible harvesters and processors must meet the requirements set forth in this section of the Pacific Coast groundfish regulations. In addition to the requirements of this section, the C/P Coop Program is subject to the following groundfish regulations:
 
@@ -78,7 +78,7 @@ Link to an amendment published at 87 FR 77027, Dec. 16, 2022.Link to an amendmen
 
 (i) Species with formal allocations to the C/P Coop Program: Pacific whiting.
 
-(ii) Species with set-asides for the MS and C/P Programs, as described in Table 1d and Table 2d to subpart C of this part.
+(ii) Species with set-asides for the MS and C/P Programs, as described in the biennial specifications.
 
 (2) *C/P Coop Program annual allocations.* The C/P Coop Program allocation of Pacific whiting is equal to the catcher/processor sector allocation. Only a single coop may be formed in the catcher/processor sector with the one permitted coop receiving the catcher/processor sector allocation.
 
@@ -540,4 +540,4 @@ Link to an amendment published at 87 FR 77027, Dec. 16, 2022.Link to an amendmen
 
 (H) The person or entity has the ability through any means whatsoever to control or have a controlling influence over the entity to which a permit associated QS is registered, with the exception of those activities allowed under paragraphs (h)(5)(v)(C) and (G) of this section.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78419, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 77 FR 55158, Sept. 7, 2012; 78 FR 75282, Dec. 11, 2013; 80 FR 22297, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 763, Jan. 8, 2018; 83 FR 64004, Dec. 12, 2018; 84 FR 68812, Dec. 17, 2019; 85 FR 35601, June 11, 2020; 85 FR 37029, June 19, 2020; 86 FR 26443, May 14, 2021; 86 FR 58813, Oct. 25, 2021; 87 FR 54910, Sept. 8, 2022]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78419, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 77 FR 55158, Sept. 7, 2012; 78 FR 75282, Dec. 11, 2013; 80 FR 22297, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 763, Jan. 8, 2018; 83 FR 64004, Dec. 12, 2018; 84 FR 68812, Dec. 17, 2019; 85 FR 35601, June 11, 2020; 85 FR 37029, June 19, 2020; 86 FR 26443, May 14, 2021; 86 FR 58813, Oct. 25, 2021; 87 FR 54910, Sept. 8, 2022; 87 FR 77027, Dec. 16, 2022]

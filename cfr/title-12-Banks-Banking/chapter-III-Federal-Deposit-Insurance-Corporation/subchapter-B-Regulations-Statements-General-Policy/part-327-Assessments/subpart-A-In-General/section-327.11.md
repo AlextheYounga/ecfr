@@ -1,8 +1,6 @@
 ##### § 327.11 Surcharges and assessments required to raise the reserve ratio of the DIF to 1.35 percent. #####
 
-Link to an amendment published at 87 FR 64339, Oct. 24, 2022.
-
-(a) *Surcharge* - (1) *Institutions subject to surcharge.* The following insured depository institutions are subject to the surcharge described in this paragraph:
+(a) *Surcharge*—(1) *Institutions subject to surcharge.* The following insured depository institutions are subject to the surcharge described in this paragraph:
 
 (i) Large institutions, as defined in § 327.8(f);
 
@@ -18,7 +16,7 @@ Link to an amendment published at 87 FR 64339, Oct. 24, 2022.
 
 (5) *Calculation of surcharge.* An insured depository institution's surcharge for each assessment period during the surcharge period shall be determined by multiplying 1.125 basis points times the institution's surcharge base for the assessment period.
 
-(i) *Surcharge base - Insured depository institution that has no affiliated insured depository institution subject to the surcharge.* The surcharge base for an assessment period for an insured depository institution subject to the surcharge that has no affiliated insured depository institution subject to the surcharge shall equal:
+(i) *Surcharge base—Insured depository institution that has no affiliated insured depository institution subject to the surcharge.* The surcharge base for an assessment period for an insured depository institution subject to the surcharge that has no affiliated insured depository institution subject to the surcharge shall equal:
 
 (A) The institution's deposit insurance assessment base for the assessment period, determined according to § 327.5; plus
 
@@ -26,7 +24,7 @@ Link to an amendment published at 87 FR 64339, Oct. 24, 2022.
 
 (C) $10 billion; provided, however, that an institution's surcharge base for an assessment period cannot be negative.
 
-(ii) *Surcharge base - insured depository institution that has one or more affiliated insured depository institutions subject to the surcharge.* The surcharge base for an assessment period for an insured depository institution subject to the surcharge that has one or more affiliated insured depository institutions subject to the surcharge shall equal:
+(ii) *Surcharge base—insured depository institution that has one or more affiliated insured depository institutions subject to the surcharge.* The surcharge base for an assessment period for an insured depository institution subject to the surcharge that has one or more affiliated insured depository institutions subject to the surcharge shall equal:
 
 (A) The institution's deposit insurance assessment base for the assessment period, determined according to § 327.5; plus
 
@@ -34,7 +32,7 @@ Link to an amendment published at 87 FR 64339, Oct. 24, 2022.
 
 (C) The institution's portion, determined according to paragraph (a)(5)(v) of this section, of $10 billion; provided, however, that an institution's surcharge base for an assessment period cannot be negative.
 
-(iii) *Surcharge base - determination of increase amount.* The increase amount for an assessment period shall equal:
+(iii) *Surcharge base—determination of increase amount.* The increase amount for an assessment period shall equal:
 
 (A) The amount of the aggregate deposit insurance assessment bases for the assessment period, determined according to § 327.5, of all of the institution's affiliated insured depository institutions that are not subject to the surcharge, minus
 
@@ -42,20 +40,18 @@ Link to an amendment published at 87 FR 64339, Oct. 24, 2022.
 
 (iv) *Increase multiplier for the assessment periods during the surcharge period.* During the surcharge period, the increase multiplier shall be the amount prescribed in the following schedule:
 
-Increase Multipliers for the Assessment Periods During the Surcharge Period
-
-| For the assessment period ending -|         |
-|-----------------------------------|---------|
-|        September 30, 2016         |1.0740995|
-|         December 31, 2016         |1.1000000|
-|          March 31, 2017           |1.1265251|
-|           June 30, 2017           |1.1536897|
-|        September 30, 2017         |1.1815094|
-|         December 31, 2017         |1.2100000|
-|           March 31, 2018          |1.2391776|
-|           June 30, 2018           |1.2690587|
-|        September 30, 2018         |1.2996604|
-|         December 31, 2018         |1.3310000|
+|For the assessment period ending—|         |
+|---------------------------------|---------|
+|       September 30, 2016        |1.0740995|
+|        December 31, 2016        |1.1000000|
+|         March 31, 2017          |1.1265251|
+|          June 30, 2017          |1.1536897|
+|       September 30, 2017        |1.1815094|
+|        December 31, 2017        |1.2100000|
+|         March 31, 2018          |1.2391776|
+|          June 30, 2018          |1.2690587|
+|       September 30, 2018        |1.2996604|
+|        December 31, 2018        |1.3310000|
 
 (A) For the assessment period ending September 30, 2016, the increase multiplier shall be 1.0740995.
 
@@ -77,7 +73,7 @@ Increase Multipliers for the Assessment Periods During the Surcharge Period
 
 (J) For the assessment period ending December 31, 2018, the increase multiplier shall be 1.33100000.
 
-(v) *Surcharge base - institution's portion.* For purposes of paragraphs (a)(5)(ii)(B) and (C) of this section, an institution's portion shall equal the ratio of the institution's deposit insurance assessment base for the assessment period, determined according to § 327.5, to the sum of the institution's deposit insurance assessment base for the assessment period, determined according to § 327.5, and the deposit insurance assessment bases for the assessment period, determined according to § 327.5, of all of the institution's affiliated insured depository institutions subject to the surcharge.
+(v) *Surcharge base—institution's portion.* For purposes of paragraphs (a)(5)(ii)(B) and (C) of this section, an institution's portion shall equal the ratio of the institution's deposit insurance assessment base for the assessment period, determined according to § 327.5, to the sum of the institution's deposit insurance assessment base for the assessment period, determined according to § 327.5, and the deposit insurance assessment bases for the assessment period, determined according to § 327.5, of all of the institution's affiliated insured depository institutions subject to the surcharge.
 
 (vi) For the purposes of this section, an affiliated insured depository institution is an insured depository institution that meets the definition of “affiliate” in section 3 of the FDI Act, 12 U.S.C. 1813(w)(6).
 
@@ -85,7 +81,7 @@ Increase Multipliers for the Assessment Periods During the Surcharge Period
 
 (ii) If an insured depository institution not subject to the surcharge is the surviving or resulting institution in a merger or consolidation with an insured depository institution that is subject to the surcharge or acquires all or substantially all of the assets, or assumes all or substantially all of the deposit liabilities, of an insured depository institution subject to the surcharge, then the surviving or resulting insured deposit institution or the insured depository institution that acquires such assets or assumes such deposit liabilities is subject to the surcharge.
 
-(b) *Shortfall assessment.* - (1) *Institutions subject to shortfall assessment.* Any insured depository institution that was subject to a surcharge under paragraph (a)(1) of this section, in any assessment period during the surcharge period described in paragraph (a)(2) of this section, shall be subject to the shortfall assessment described in this paragraph (b). If surcharges under paragraph (a) of this section have not been in effect, the insured depository institutions subject to the shortfall assessment described in this paragraph (b) will be the insured depository institutions described in paragraph (a)(1) of this section as of the assessment period in which the reserve ratio of the DIF reaches or exceeds 1.15 percent.
+(b) *Shortfall assessment*—(1) *Institutions subject to shortfall assessment.* Any insured depository institution that was subject to a surcharge under paragraph (a)(1) of this section, in any assessment period during the surcharge period described in paragraph (a)(2) of this section, shall be subject to the shortfall assessment described in this paragraph (b). If surcharges under paragraph (a) of this section have not been in effect, the insured depository institutions subject to the shortfall assessment described in this paragraph (b) will be the insured depository institutions described in paragraph (a)(1) of this section as of the assessment period in which the reserve ratio of the DIF reaches or exceeds 1.15 percent.
 
 (2) *Notification of shortfall.* The FDIC shall notify each insured depository institution subject to the shortfall assessment of the amount of such institution's share of the shortfall assessment described in paragraph (b)(5) of this section no later than 15 days before such shortfall assessment is due, as described in paragraph (b)(3) of this section.
 
@@ -119,13 +115,13 @@ Increase Multipliers for the Assessment Periods During the Surcharge Period
 
 (3) *Determination of aggregate assessment credit awards to all eligible institutions.* The FDIC shall award an aggregate amount of assessment credits equal to the product of the *fraction of quarterly regular deposit insurance assessments paid by credit accruing institutions* during the credit calculation period and the amount by which the *DIF increase,* as determined under paragraph (c)(3)(ii) or (iii) of this section, exceeds total surcharges imposed under paragraph (b) of this section; provided, however, that the aggregate amount of assessment credits cannot exceed the aggregate amount of quarterly deposit insurance assessments paid by credit accruing institutions during the credit calculation period.
 
-(i) *Fraction of quarterly regular deposit insurance assessments paid by credit accruing institutions.* The fraction of assessments paid by credit accruing institutions shall equal quarterly deposit insurance assessments, as determined under §§ 327.9 and 327.16, paid by such institutions for each assessment period during the credit calculation period, divided by the total amount of quarterly deposit insurance assessments paid by all insured depository institutions during the credit calculation period, excluding the aggregate amount of surcharges imposed under paragraph (b) of this section.
+(i) *Fraction of quarterly regular deposit insurance assessments paid by credit accruing institutions.* The fraction of assessments paid by credit accruing institutions shall equal quarterly deposit insurance assessments, as determined under § 327.16, paid by such institutions for each assessment period during the credit calculation period, divided by the total amount of quarterly deposit insurance assessments paid by all insured depository institutions during the credit calculation period, excluding the aggregate amount of surcharges imposed under paragraph (b) of this section.
 
 (ii) *DIF increase if the DIF reserve ratio has reached 1.35 percent by December 31, 2018.* If the DIF reserve ratio has reached 1.35 percent by December 31, 2018, the DIF increase shall equal 0.2 percent of estimated insured deposits as of the date that the DIF reserve ratio first reaches or exceeds 1.35 percent.
 
 (iii) *DIF Increase if the DIF reserve ratio has not reached 1.35 percent by December 31, 2018.* If the DIF reserve ratio has not reached 1.35 percent by December 31, 2018, the DIF increase shall equal the DIF balance on December 31, 2018, minus 1.15 percent of estimated insured deposits on that date.
 
-(4) *Determination of individual eligible institutions' shares of aggregate assessment Credit* - (i) *Assessment credit share.* To determine an eligible institution's assessment credit share, the aggregate assessment credits awarded by the FDIC shall be apportioned among all eligible institutions in proportion to their respective assessment credit bases, as described in paragraph (c)(4)(ii) of this section.
+(4) *Determination of individual eligible institutions' shares of aggregate assessment Credit*—(i) *Assessment credit share.* To determine an eligible institution's assessment credit share, the aggregate assessment credits awarded by the FDIC shall be apportioned among all eligible institutions in proportion to their respective assessment credit bases, as described in paragraph (c)(4)(ii) of this section.
 
 (ii) *Assessment credit base.* An eligible institution's assessment credit base shall equal the average of its quarterly deposit insurance assessment bases, as determined under § 327.5, during the credit calculation period, as defined in paragraph (c)(2) of this section. An eligible institution's credit base shall be deemed to equal zero for any assessment period during which the institution was not a credit accruing institution.
 
@@ -135,7 +131,7 @@ Increase Multipliers for the Assessment Periods During the Surcharge Period
 
 (6) *Effect of call report amendments.* Amendments to the quarterly Reports of Condition and Income or the quarterly Reports of Assets and Liabilities of U.S. Branches and Agencies of Foreign Banks that occur subsequent to the payment date for the final assessment period of the credit calculation period shall not affect an eligible institution's credit share.
 
-(7) *Award and notice of assessment credits* - (i) *Award of assessment credits.* As soon as practicable after the earlier of either December 31, 2018, or the date on which the reserve ratio of the DIF reaches 1.35 percent, the FDIC shall notify an eligible institution of the FDIC's preliminary estimate of such institution's assessment credits and the manner in which the FDIC calculated such credits.
+(7) *Award and notice of assessment credits*—(i) *Award of assessment credits.* As soon as practicable after the earlier of either December 31, 2018, or the date on which the reserve ratio of the DIF reaches 1.35 percent, the FDIC shall notify an eligible institution of the FDIC's preliminary estimate of such institution's assessment credits and the manner in which the FDIC calculated such credits.
 
 (ii) *Notice of assessment credits.* The FDIC shall provide eligible institutions with periodic updated notices reflecting adjustments to the institution's assessment credits resulting from requests for review or appeals, mergers or consolidations, or the FDIC's application of credits to an institution's quarterly deposit insurance assessments.
 
@@ -173,4 +169,4 @@ Increase Multipliers for the Assessment Periods During the Surcharge Period
 
 (5) *Adjustments to assessment credits.* Once the Director of the Division of Finance, or the Assessment Appeals Committee, as appropriate, has notified the requesting bank of its final determination, the FDIC will make appropriate adjustments to assessment credit amounts consistent with that determination. Adjustments to an insured depository institution's assessment credit amounts will not be applied retroactively to reduce or increase the quarterly deposit insurance assessment for a prior assessment period.
 
-[81 FR 16069, Mar. 25, 2016, as amended at 83 FR 14568, Apr. 5, 2018; 84 FR 65275, Nov. 27, 2019]
+[81 FR 16069, Mar. 25, 2016, as amended at 83 FR 14568, Apr. 5, 2018; 84 FR 65275, Nov. 27, 2019; 87 FR 64339, Oct. 24, 2022]

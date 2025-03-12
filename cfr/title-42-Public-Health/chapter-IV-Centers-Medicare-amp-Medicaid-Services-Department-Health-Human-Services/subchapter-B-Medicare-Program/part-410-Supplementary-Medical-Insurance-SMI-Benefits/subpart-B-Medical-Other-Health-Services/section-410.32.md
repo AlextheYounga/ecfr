@@ -1,7 +1,5 @@
 ##### § 410.32 Diagnostic x-ray tests, diagnostic laboratory tests, and other diagnostic tests: Conditions. #####
 
-Link to an amendment published at 87 FR 70223, Nov. 18, 2022.
-
 (a) *Ordering diagnostic tests.* Except as otherwise provided in this section, all diagnostic x-ray tests, diagnostic laboratory tests, and other diagnostic tests must be ordered by the physician who is treating the beneficiary, that is, the physician who furnishes a consultation or treats a beneficiary for a specific medical problem and who uses the results in the management of the beneficiary's specific medical problem. Tests not ordered by the physician who is treating the beneficiary are not reasonable and necessary (see § 411.15(k)(1) of this chapter).
 
 (1) *Mammography exception.* A physician who meets the qualification requirements for an interpreting physician under section 354 of the Public Health Service Act as provided in § 410.34(a)(7) may order a diagnostic mammogram based on the findings of a screening mammogram even though the physician does not treat the beneficiary.
@@ -10,7 +8,9 @@ Link to an amendment published at 87 FR 70223, Nov. 18, 2022.
 
 (3) *Public Health Emergency exceptions.* During the Public Health Emergency for COVID-19, as defined in § 400.200 of this chapter, the order of a physician or other applicable practitioner is not required for one otherwise covered diagnostic laboratory test for COVID-19 and for one otherwise covered diagnostic laboratory test each for influenza virus or similar respiratory condition needed to obtain a final COVID-19 diagnosis when performed in conjunction with COVID-19 diagnostic laboratory test in order to rule-out influenza virus or related diagnosis. Subsequent otherwise covered COVID-19 and related tests described in the previous sentence are reasonable and necessary when ordered by a physician or nonphysician practitioner in accordance with this paragraph (a), or when ordered by a pharmacist or other healthcare professional who is authorized under applicable state law to order diagnostic laboratory tests. FDA-authorized COVID-19 serology tests are included as covered tests subject to the same order requirements during the Public Health Emergency for COVID-19, as defined in § 400.20 of this chapter, as they are reasonable and necessary under section 1862(a)(1)(A) of the Act for beneficiaries with known current or known prior COVID-19 infection or suspected current or suspected prior COVID-19 infection.
 
-(b) *Diagnostic x-ray and other diagnostic tests* -
+(4) *Application to audiologists.* Except as otherwise provided in this paragraph, audiologists may personally furnish diagnostic audiology tests for a patient once per patient per 12-month period without an order from the physician or nonphysician practitioner treating the patient. Such diagnostic audiology tests can be for non-acute hearing conditions, but may not include audiology services that are related to disequilibrium, or hearing aids, or examinations for the purpose of prescribing, fitting, or changing hearing aids that are outlined at § 411.15(d). Audiology services furnished without an order from the treating physician or practitioner are billed using a modifier CMS designates for this purpose.
+
+(b) *Diagnostic x-ray and other diagnostic tests*—
 (1) *Basic rule.* Except as indicated in paragraph (b)(2) of this section, all diagnostic x-ray and other diagnostic tests covered under section 1861(s)(3) of the Act and payable under the physician fee schedule must be furnished under the appropriate level of supervision by a physician as defined in section 1861(r) of the Act or, to the extent that they are authorized to do so under their scope of practice and applicable State law, by a nurse practitioner, clinical nurse specialist, physician assistant, certified registered nurse anesthetist, or a certified nurse-midwife. Services furnished without the required level of supervision are not reasonable and necessary (see § 411.15(k)(1) of this chapter).
 
 (2) *Exceptions.* The following diagnostic tests payable under the physician fee schedule are excluded from the basic rule set forth in paragraph (b)(1) of this section:
@@ -19,7 +19,7 @@ Link to an amendment published at 87 FR 70223, Nov. 18, 2022.
 
 (ii) Diagnostic tests personally furnished by a qualified audiologist as defined in section 1861(ll)(3) of the Act.
 
-(iii) Diagnostic psychological and neuropsychological testing services when -
+(iii) Diagnostic psychological and neuropsychological testing services when—
 
 (A) Personally furnished by a clinical psychologist or an independently practicing psychologist as defined in program instructions; or
 
@@ -55,7 +55,7 @@ Link to an amendment published at 87 FR 70223, Nov. 18, 2022.
 
 (3) The supplier of these services meets the requirements set forth in part 486, subpart C of this chapter, concerning conditions for coverage for portable x-ray services.
 
-(4) The procedures are limited to -
+(4) The procedures are limited to—
 
 (i) Skeletal films involving the extremities, pelvis, vertebral column, or skull;
 
@@ -63,7 +63,7 @@ Link to an amendment published at 87 FR 70223, Nov. 18, 2022.
 
 (iii) Diagnostic mammograms if the approved portable x-ray supplier, as defined in subpart C of part 486 of this chapter, meets the certification requirements of section 354 of the Public Health Service Act, as implemented by 21 CFR part 900, subpart B.
 
-(d) *Diagnostic laboratory tests* - (1) *Who may furnish services.* Medicare Part B pays for covered diagnostic laboratory tests that are furnished by any of the following:
+(d) *Diagnostic laboratory tests*—(1) *Who may furnish services.* Medicare Part B pays for covered diagnostic laboratory tests that are furnished by any of the following:
 
 (i) A participating hospital or participating RPCH.
 
@@ -79,7 +79,7 @@ Link to an amendment published at 87 FR 70223, Nov. 18, 2022.
 
 (vii) An SNF to its resident under § 411.15(p) of this chapter, either directly (in accordance with § 483.75(k)(1)(i) of this chapter) or under an arrangement (as defined in § 409.3 of this chapter) with another entity described in this paragraph.
 
-(2) *Documentation and recordkeeping requirements* -
+(2) *Documentation and recordkeeping requirements*—
 
 (i) *Ordering the service.* Except for tests described in paragraph (a)(3) of this section, the physician (or qualified nonphysician practitioner, as defined in paragraph (a)(2) of this section), who orders the service must maintain documentation of medical necessity in the beneficiary's medical record.
 
@@ -117,4 +117,4 @@ Link to an amendment published at 87 FR 70223, Nov. 18, 2022.
 
 (e) *Diagnostic laboratory tests furnished in hospitals and CAHs.* The provisions of paragraphs (a) and (d)(2) through (d)(4) of this section, inclusive, of this section apply to all diagnostic laboratory test furnished by hospitals and CAHs to outpatients.
 
-[62 FR 59098, Oct. 31, 1997, as amended at 63 FR 26308, May 12, 1998; 63 FR 53307, Oct. 5, 1998; 63 FR 58906, Nov. 2, 1998; 64 FR 59440, Nov. 2, 1999; 66 FR 58809, Nov. 23, 2001; 69 FR 66421, Nov. 15, 2004; 72 FR 66398, Nov. 27, 2007; 75 FR 73615, Nov. 29, 2010; 77 FR 69361, Nov. 16, 2012; 83 FR 60073, Nov. 23, 2018; 85 FR 19286, Apr. 6, 2020; 85 FR 27620, May 8, 2020; 85 FR 54871, Sept. 2, 2020; 85 FR 85026, Dec. 28, 2020]
+[62 FR 59098, Oct. 31, 1997, as amended at 63 FR 26308, May 12, 1998; 63 FR 53307, Oct. 5, 1998; 63 FR 58906, Nov. 2, 1998; 64 FR 59440, Nov. 2, 1999; 66 FR 58809, Nov. 23, 2001; 69 FR 66421, Nov. 15, 2004; 72 FR 66398, Nov. 27, 2007; 75 FR 73615, Nov. 29, 2010; 77 FR 69361, Nov. 16, 2012; 83 FR 60073, Nov. 23, 2018; 85 FR 19286, Apr. 6, 2020; 85 FR 27620, May 8, 2020; 85 FR 54871, Sept. 2, 2020; 85 FR 85026, Dec. 28, 2020; 87 FR 70223, Nov. 18, 2022]

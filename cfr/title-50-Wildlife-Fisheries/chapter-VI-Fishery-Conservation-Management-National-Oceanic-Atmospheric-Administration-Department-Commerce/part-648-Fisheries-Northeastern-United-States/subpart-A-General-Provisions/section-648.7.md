@@ -26,119 +26,7 @@
 
 (4) [Reserved]
 
-(b) *Vessel owners or operators* - (1) *Fishing Vessel Trip Reports* - (1) *Fishing Vessel Trip Reports.* The owner or operator of any vessel issued a valid permit, or eligible to renew a limited access permit under this part must maintain on board the vessel, and submit, and accurate fishing log report for each fishing trip, regardless of species fished for or taken, by electronic means. This report must be entered into and submitted through a software application approved by NMFS.
-
-(i) *Vessel owners or operators.* With the exception of those vessel owners or operators fishing under a surfclam or ocean quahog permit, at least the following information as applicable and any other information required by the Regional Administrator must be provided:
-
-(A) Vessel name;
-
-(B) USCG documentation number (or state registration number, if undocumented);
-
-(C) Permit number;
-
-(D) Date/time sailed;
-
-(E) Date/time landed;
-
-(F) Trip type;
-
-(G) Number of crew;
-
-(H) Number of anglers (if a charter or party boat);
-
-(I) Gear fished;
-
-(J) Quantity and size of gear;
-
-(K) Mesh/ring size;
-
-(L) Chart area fished;
-
-(M) Average depth;
-
-(N) Latitude/longitude;
-
-(O) Total hauls per area fished;
-
-(P) Average tow time duration;
-
-(Q) Hail weight, in pounds (or count of individual fish, if a party or charter vessel), by species, of all species, or parts of species, such as monkfish livers, landed or discarded; and, in the case of skate discards, “small” (*i.e.,* less than 23 inches (58.42 cm), total length) or “large” (*i.e.,* 23 inches (58.42 cm) or greater, total length) skates;
-
-(R) Dealer permit number;
-
-(S) Dealer name;
-
-(T) Date sold, port and state landed; and
-
-(U) Vessel operator's name, signature, and operator's permit number (if applicable).
-
-(ii) *Atlantic mackerel owners or operators.* The owner or operator of a vessel issued a limited access Atlantic mackerel permit must report catch (retained and discarded) of Atlantic mackerel daily via VMS, unless exempted by the Regional Administrator. The report must include at least the following information, and any other information required by the Regional Administrator: Fishing Vessel Trip Report serial number; month, day, and year Atlantic mackerel was caught; total pounds of Atlantic mackerel retained and total pounds of all fish retained. Daily Atlantic mackerel VMS catch reports must be submitted in 24-hr intervals for each day and must be submitted by 0900 hr on the following day. Reports are required even if Atlantic mackerel caught that day have not yet been landed. This report does not exempt the owner or operator from other applicable reporting requirements of this section.
-
-(iii) *Surfclam and Ocean Quahog owners or operators.* The owner or operator of any vessel conducting any surfclam and ocean quahog fishing operations must provide at least the following information and any other information required by the Regional Administrator:
-
-(A) Name and permit number of the vessel;
-
-(B) Total amount in bushels of each species taken;
-
-(C) Date(s) caught;
-
-(D) Time at sea;
-
-(E) Duration of fishing time;
-
-(F) Locality fished;
-
-(G) Crew size;
-
-(H) Crew share by percentage;
-
-(I) Landing port;
-
-(J) Date sold;
-
-(K) Price per bushel;
-
-(L) Buyer;
-
-(M) Tag numbers from cages used;
-
-(N) Quantity of surfclams and ocean quahogs discarded; and
-
-(O) Allocation permit number.
-
-(iv) *Private tilefish recreational vessel owners and operators.* The owner or operator of any fishing vessel that holds a Federal private recreational tilefish permit, must report for each recreational trip fishing for or retaining blueline or golden tilefish in the Tilefish Management Unit. The required Vessel Trip Report must be submitted by electronic means. This report must be submitted through a NMFS-approved electronic reporting system within 24 hours of the trip returning to port. The vessel operator may keep paper records while onboard and upload the data after landing. The report must contain the following information:
-
-(A) Vessel name;
-
-(B) USCG documentation number (or state registration number, if undocumented);
-
-(C) Permit number;
-
-(D) Date/time sailed;
-
-(E) Date/time landed;
-
-(F) Trip type;
-
-(G) Number of anglers;
-
-(H) Species;
-
-(I) Gear fished;
-
-(J) Quantity and size of gear;
-
-(K) Soak time;
-
-(L) Depth;
-
-(M) Chart Area;
-
-(N) Latitude/longitude where fishing occurred;
-
-(O) Count of individual golden and blueline tilefish landed or discarded; and
-
-(P) Port and state landed.
+(b) *Vessel owners or operators* - (1) [Reserved]
 
 (2) *IVR system reports* - (i) *Atlantic herring vessel owners or operators issued a Category D Herring Permit.* The owner or operator of a vessel issued a Category D Herring Permit to fish for herring must report catch (retained and discarded) of herring via an IVR system for each week herring was caught, unless exempted by the Regional Administrator. IVR reports are not required for weeks when no herring was caught. The report shall include at least the following information, and any other information required by the Regional Administrator: Vessel identification; week in which herring are caught; management areas fished; and pounds retained and pounds discarded of herring caught in each management area. The IVR reporting week begins on Sunday at 0001 hour (hr) (12:01 a.m.) local time and ends Saturday at 2400 hr (12 midnight). Weekly Atlantic herring catch reports must be submitted via the IVR system by midnight each Tuesday, eastern time, for the previous week. Reports are required even if herring caught during the week has not yet been landed. This report does not exempt the owner or operator from other applicable reporting requirements of this section.
 
@@ -198,4 +86,4 @@
 
 (h) *At-sea monitor/electronic monitoring reports.* Any at-sea monitor assigned to observe a sector trip and any third-party service provider analyzing data from electronic monitoring equipment deployed on a sector trip must submit reports on catch, discard, and other data elements specified by the Regional Administrator to NMFS, the sector manager, and monitoring contractor, as instructed by the Regional Administrator.
 
-[61 FR 34968, July 3, 1996]Editorial Note:For Federal Register citations affecting § 648.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 87 FR 48448, Aug. 9, 2022, § 648.7 was amended by revising paragraph (b)(1), eff. Aug. 9, 2022 through Dec. 31, 2022.
+[61 FR 34968, July 3, 1996]Editorial Note:For Federal Register citations affecting § 648.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,8 +1,6 @@
 ##### § 410.63 Hepatitis B vaccine and blood clotting factors: Conditions. #####
 
-Link to an amendment published at 87 FR 70223, Nov. 18, 2022.
-
-Notwithstanding the exclusion from coverage of vaccines (see § 405.310 of this chapter) and self-administered drugs (see § 410.29), the following services are included as medical and other health services covered under § 410.10, subject to the specified conditions:
+Notwithstanding the exclusion from coverage of vaccines (see § 411.15 of this chapter) and self-administered drugs (see § 410.29), the following services are included as medical and other health services covered under § 410.10, subject to the specified conditions:
 
 (a) *Hepatitis B vaccine: Conditions.* Effective September 1, 1984, hepatitis B vaccinations that are reasonable and necessary for the prevention of illness for those individuals who are at high or intermediate risk of contracting hepatitis B as listed below:
 
@@ -36,4 +34,4 @@ Notwithstanding the exclusion from coverage of vaccines (see § 405.310 of this 
 
 (2) The furnishing fee for blood clotting factors furnished in 2006 or a subsequent year is be equal to the furnishing fee paid the previous year increased by the percentage increase in the consumer price index for medical care for the 12-month period ending with June of the previous year.
 
-[55 FR 22790, June 4, 1990; 55 FR 31186, Aug. 1, 1990, as amended at 69 FR 66422, Nov. 15, 2004; 77 FR 69363, Nov. 16, 2012]
+[55 FR 22790, June 4, 1990; 55 FR 31186, Aug. 1, 1990, as amended at 69 FR 66422, Nov. 15, 2004; 77 FR 69363, Nov. 16, 2012; 87 FR 70223, Nov. 18, 2022]

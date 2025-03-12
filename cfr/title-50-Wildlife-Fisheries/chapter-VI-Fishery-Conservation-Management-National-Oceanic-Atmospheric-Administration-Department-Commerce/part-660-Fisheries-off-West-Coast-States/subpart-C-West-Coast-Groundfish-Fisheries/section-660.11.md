@@ -1,7 +1,5 @@
 ##### § 660.11 General definitions. #####
 
-Link to an amendment published at 87 FR 59728, Oct. 3, 2022.Link to an amendment published at 87 FR 77014, Dec. 16, 2022.
-
 These definitions are specific to the fisheries covered in subparts C through G of this part.
 
 *Acceptable Biological Catch (ABC)* means a harvest specification that is set below the overfishing limit to account for scientific uncertainty in the estimate of OFL, and other scientific uncertainty.
@@ -66,7 +64,7 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 (B) *Non-Trawl (Limited Entry Fixed Gear and Open Access Non-trawl Gears) RCAs.* Non-trawl RCAs are intended to protect a complex of species, such as overfished shelf rockfish species, and have boundaries defined by specific latitude and longitude coordinates approximating depth contours. Boundaries for the non-trawl RCA throughout the year are provided in Table 2 (North) and Table 2 (South) of subpart E of this part, and Table 3 (North) and Table 3 (South) of subpart F of this part, and may be modified by NMFS inseason pursuant to § 660.60(c).
 
-(C) *Recreational RCAs.* Recreational RCAs are closed areas intended to protect overfished rockfish species. Recreational RCAs may either have boundaries defined by general depth contours or boundaries defined by specific latitude and longitude coordinates approximating depth contours. Boundaries for the recreational RCAs throughout the year are provided in the text in subpart G of this part under each state (Washington, Oregon and California) and may be modified by NMFS inseason pursuant to § 660.60(c).
+(C) *Recreational RCAs.* Recreational RCAs are closed areas intended to protect overfished rockfish species. In the EEZ seaward of California, recreational RCAs are also intended to limit catch of non-overfished groundfish species. Recreational RCAs may either have boundaries defined by general depth contours or boundaries defined by specific latitude and longitude coordinates approximating depth contours. Boundaries for the recreational RCAs throughout the year are provided in the text in subpart G of this part under each state (Washington, Oregon and California) and may be modified by NMFS inseason pursuant to § 660.60(c).
 
 (vii) *Yelloweye Rockfish Conservation Areas* or *YRCAs* are defined at § 660.70.
 
@@ -114,7 +112,7 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 *Fishing gear* includes the following types of gear and equipment:
 
-(1) *Bottom contact gear* means fishing gear designed or modified to make contact with the bottom. This includes, but is not limited to, beam trawl, bottom trawl, dredge, fixed gear, set net, demersal seine, dinglebar gear, and other gear (including experimental gear) designed or modified to make contact with the bottom. Gear used to harvest bottom dwelling organisms (e.g. by hand, rakes, and knives) are also considered bottom contact gear for purposes of this subpart.
+(1) *Bottom contact gear* means fishing gear designed or modified to make contact with the bottom. This includes, but is not limited to, beam trawl, bottom trawl, dredge, fixed gear, set net, demersal seine, dinglebar gear, and other gear (including experimental gear) designed or modified to make contact with the bottom. Gear used to harvest bottom dwelling organisms (e.g. by hand, rakes, and knives) are also considered bottom contact gear for purposes of this subpart. Non-bottom contact gear is defined in paragraph (12) of this definition.
 
 (2) *Demersal seine* means a net designed to encircle fish on the seabed. The demersal seine is characterized by having its net bounded by lead-weighted ropes that are not encircled with bobbins or rollers. Demersal seine gear is fished without the use of steel cables or otter boards (trawl doors). Scottish and Danish Seines are demersal seines. Purse seines, as defined at § 600.10 of this chapter, are not demersal seines. Demersal seine gear is included in the definition of bottom trawl gear in paragraph (11)(i) of this definition.
 
@@ -188,6 +186,8 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 (K) *Trawl riblines* means a heavy rope or line that runs down the sides, top, or underside of a trawl net from the mouth of the net to the terminal end of the codend to strengthen the net during fishing.
 
+(12) *Non-bottom contact gear* means fishing gear designed or modified to not make contact with the bottom. This includes, but is not limited to, commercial vertical hook-and-line gear not anchored to the bottom (e.g., vertical jig gear or rod-and-reel gear with weights suspended off the bottom) and troll gear.
+
 *Fishing or Calendar year* means the year beginning at 0001 local time on January 1 and ending at 2400 local time on December 31 of the same year. There are two fishing years in each biennial fishing period.
 
 *Fishing trip* means a period of time between landings when fishing is conducted.
@@ -252,7 +252,7 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 (9) “Other Fish”: kelp greenling (*Hexagrammos decagrammus*) off California and leopard shark (*Trakis semifasciata*).
 
-(10) “Ecosystem component species” means species that are included in the PCGFMP but are not “in the fishery” and therefore not actively managed and do not require harvest specifications. Ecosystem component species are not targeted in any fishery, not generally retained for sale or personal use, and are not determined to be subject to overfishing, approaching an overfished condition, or overfished, nor are they likely to become subject to overfishing or overfished in the absence of conservation and management measures. Ecosystem component species include: All skates listed here in paragraph (2), except longnose skate and big skate; all grenadiers listed here in paragraph (5); soupfin shark; ratfish; and finescale codling.
+(10) “Ecosystem component species” means species that are included in the PCGFMP but are not “in the fishery” and therefore not actively managed and do not require harvest specifications. Ecosystem component species are not targeted in any fishery, not generally retained for sale or personal use, and are not determined to be subject to overfishing, approaching an overfished condition, or overfished, nor are they likely to become subject to overfishing or overfished in the absence of conservation and management measures. Ecosystem component species include: All skates listed here in paragraph (2), except longnose skate and big skate; all grenadiers listed here in paragraph (5); soupfin shark; ratfish; finescale codling; and shortbelly rockfish as listed here in paragraph (7)(ii).
 
 *Groundfish trawl* means trawl gear that is used under the authority of a valid limited entry permit issued under subparts C and D of this part endorsed for trawl gear and which meets the gear requirements specified in subpart D of this part. It does not include any type of trawl gear listed as non-groundfish trawl gear (previously called “exempted gear”).
 
@@ -298,7 +298,7 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 *North-South management area* means the management areas defined in paragraph (1) of this definition, or defined and bounded by one or more or the commonly used geographic coordinates set out in paragraph (2) of this definition for the purposes of implementing different management measures in separate geographic areas of the U.S. West Coast.
 
-(1) *Management areas* - (i) *Vancouver.* (A) The northeastern boundary is that part of a line connecting the light on Tatoosh Island, WA, with the light on Bonilla Point on Vancouver Island, British Columbia (at 48°35.73′ N. lat., 124°43.00′ W. long.) south of the International Boundary between the U.S. and Canada (at 48°29.62′ N. lat., 124°43.55′ W. long.), and north of the point where that line intersects with the boundary of the U.S. territorial sea.
+(1) *Management areas*—(i) *Vancouver.* (A) The northeastern boundary is that part of a line connecting the light on Tatoosh Island, WA, with the light on Bonilla Point on Vancouver Island, British Columbia (at 48°35.73′ N. lat., 124°43.00′ W. long.) south of the International Boundary between the U.S. and Canada (at 48°29.62′ N. lat., 124°43.55′ W. long.), and north of the point where that line intersects with the boundary of the U.S. territorial sea.
 
 (B) The northern and northwestern boundary is a line connecting the following coordinates in the order listed, which is the provisional international boundary of the EEZ as shown on NOAA/NOS Charts 18480 and 18007:
 
@@ -357,53 +357,53 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 (2) *Commonly used geographic coordinates.*
 
-(i) Cape Alava, WA - 48°10.00′ N. lat.
+(i) Cape Alava, WA—48°10.00′ N. lat.
 
-(ii) Queets River, WA - 47°31.70′ N. lat.
+(ii) Queets River, WA—47°31.70′ N. lat.
 
-(iii) Pt. Chehalis, WA - 46°53.30′ N. lat.
+(iii) Pt. Chehalis, WA—46°53.30′ N. lat.
 
-(iv) Leadbetter Point, WA - 46°38.17′ N. lat.
+(iv) Leadbetter Point, WA—46°38.17′ N. lat.
 
-(v) Columbia River - 46°16.00′ N. lat.
+(v) Columbia River—46°16.00′ N. lat.
 
-(vi) Cape Falcon, OR - 45°46.00′ N. lat.
+(vi) Cape Falcon, OR—45°46.00′ N. lat.
 
-(vii) Cape Lookout, OR - 45°20.25′ N. lat.
+(vii) Cape Lookout, OR—45°20.25′ N. lat.
 
-(viii) Cascade Head, OR - 45°03.83′ N. lat.
+(viii) Cascade Head, OR—45°03.83′ N. lat.
 
-(ix) Heceta Head, OR - 44°08.30′ N. lat.
+(ix) Heceta Head, OR—44°08.30′ N. lat.
 
-(x) Cape Arago, OR - 43°20.83′ N. lat.
+(x) Cape Arago, OR—43°20.83′ N. lat.
 
-(xi) Cape Blanco, OR - 42°50.00′ N. lat.
+(xi) Cape Blanco, OR—42°50.00′ N. lat.
 
-(xii) Humbug Mountain - 42°40.50′ N. lat.
+(xii) Humbug Mountain—42°40.50′ N. lat.
 
-(xiii) Marck Arch, OR - 42°13.67′ N. lat.
+(xiii) Marck Arch, OR—42°13.67′ N. lat.
 
-(xiv) Oregon/California border - 42°00.00′ N. lat.
+(xiv) Oregon/California border—42°00.00′ N. lat.
 
-(xv) Cape Mendocino, CA - 40°30.00′ N. lat.
+(xv) Cape Mendocino, CA—40°30.00′ N. lat.
 
-(xvi) North/South management line - 40°10.00′ N. lat.
+(xvi) North/South management line—40°10.00′ N. lat.
 
-(xvii) Cape Vizcaino, CA - 39°44.00′ N. lat.
+(xvii) Cape Vizcaino, CA—39°44.00′ N. lat.
 
-(xviii) Point Arena, CA - management line - 38°57.50′ N lat.
+(xviii) Point Arena, CA—management line—38°57.50′ N lat.
 
-(xvix) Point San Pedro, CA - 37°35.67′ N. lat.
+(xvix) Point San Pedro, CA—37°35.67′ N. lat.
 
-(xx) Pigeon Point, CA - 37°11.00′ N. lat.
+(xx) Pigeon Point, CA—37°11.00′ N. lat.
 
-(xxi) Ano Nuevo, CA - 37°07.00′ N. lat.
+(xxi) Ano Nuevo, CA—37°07.00′ N. lat.
 
-(xxii) Point Lopez, CA - 36°00.00′ N. lat.
+(xxii) Point Lopez, CA—36°00.00′ N. lat.
 
-(xxiii) Point Conception, CA - 34°27.00′ N. lat. [Note: Regulations that apply to waters north of 34°27.00′ N. lat. are applicable only west of 120°28.00′ W. long.; regulations that apply to waters south of 34°27.00′ N. lat. also apply to all waters both east of 120°28.00′ W. long. and north of 34°27.00′ N. lat.]
+(xxiii) Point Conception, CA—34°27.00′ N. lat. [Note: Regulations that apply to waters north of 34°27.00′ N. lat. are applicable only west of 120°28.00′ W. long.; regulations that apply to waters south of 34°27.00′ N. lat. also apply to all waters both east of 120°28.00′ W. long. and north of 34°27.00′ N. lat.]
 
-*Observer.* (*See* § 600.10 of this chapter - U.S. Observer or Observer)
+*Observer.* (*See* § 600.10 of this chapter—U.S. Observer or Observer)
 
 *Observer Program or Observer Program Office* means the Observer Program Office of the Northwest Fisheries Science Center, National Marine Fisheries Service, Seattle, Washington. Branch offices within the Observer Program include the West Coast Groundfish Observer Program and the At-sea Hake Observer Program.
 
@@ -412,6 +412,10 @@ These definitions are specific to the fisheries covered in subparts C through G 
 *Office of Law Enforcement or OLE* refers to the National Marine Fisheries Service, Office of Law Enforcement, Western Division.
 
 *Open access fishery* means the fishery composed of commercial vessels using open access gear fished pursuant to the harvest guidelines, quotas, and other management measures governing the harvest of open access allocations (detailed in § 660.55) or governing the fishing activities of open access vessels (detailed in subpart F of this part). Any commercial vessel that is not registered to a limited entry permit and which takes and retains, possesses or lands groundfish is a participant in the open access groundfish fishery.
+
+(1) For the purpose of the non-trawl logbook requirements at § 660.13 and the provision to fish inside the nontrawl RCA at § 660.330(b)(3), directed open access fishery means that a fishing vessel is target fishing for groundfish under the requirements of 50 CFR 660 subpart F, is only declared into an open access groundfish gear type or sector as defined in § 660.13(d)(4)(iv)(A), and has not declared into any other gear type or sector.
+
+(2) [Reserved]
 
 *Open access gear* means all types of fishing gear except:
 
@@ -461,7 +465,7 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 *Processor* means a person, vessel, or facility that engages in commercial processing; or receives live groundfish directly from a fishing vessel for retail sale without further processing. (Also see the definition for processors at § 660.140, which defines processor for the purposes of qualifying for initial issuance of QS in the Shorebased IFQ Program.)
 
-(1) For the purposes of economic data collection or EDC in the Shorebased IFQ Program, shorebased processor means a person that engages in commercial processing, that is an operation working on U.S. soil or permanently fixed to land, that takes delivery of fish that has not been subject to at-sea processing or shorebased processing; and that thereafter engages that particular fish in shorebased processing; and excludes retailers, such as grocery stores and markets, which receive whole or headed and gutted fish that are then filleted and packaged for retail sale. At § 660.114(b), trawl fishery - economic data collection program, the definition of processor is further refined to describe which shorebased processors are required to submit their economic data collection forms.
+(1) For the purposes of economic data collection or EDC in the Shorebased IFQ Program, shorebased processor means a person that engages in commercial processing, that is an operation working on U.S. soil or permanently fixed to land, that takes delivery of fish that has not been subject to at-sea processing or shorebased processing; and that thereafter engages that particular fish in shorebased processing; and excludes retailers, such as grocery stores and markets, which receive whole or headed and gutted fish that are then filleted and packaged for retail sale. At § 660.114(b), trawl fishery—economic data collection program, the definition of processor is further refined to describe which shorebased processors are required to submit their economic data collection forms.
 
 (2) [Reserved]
 
@@ -531,4 +535,4 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 *Vessel owner or owner of a vessel,* as used in subparts C through G of this part, means a person identified as the current owner in the Certificate of Documentation (CG-1270) issued by the USCG for a documented vessel, or in a registration certificate issued by a state or the USCG for an undocumented vessel.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78373, Dec. 15, 2010; 76 FR 27529, May 11, 2011; 76 FR 53834, Aug. 30, 2011; 76 FR 74733, Dec. 1, 2011; 78 FR 587, Jan. 3, 2013; 78 FR 68767, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 80 FR 12571, Mar. 10, 2015; 80 FR 22279, Apr. 21, 2015; 80 FR 71980, Nov. 18, 2015; 80 FR 77270, Dec. 14, 2015; 81 FR 36807, June 8, 2016; 81 FR 84425, Nov. 23, 2016; 82 FR 9638, Feb. 7, 2017; 82 FR 60569, Dec. 21, 2017; 83 FR 62275, Dec. 3, 2018; 83 FR 63990, Dec. 12, 2018; 84 FR 49961, Sept. 24, 2019; 84 FR 63972, Nov. 19, 2019; 85 FR 35600, June 11, 2020; 85 FR 79892, Dec. 11, 2020; 86 FR 10867, Feb. 23, 2021]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78373, Dec. 15, 2010; 76 FR 27529, May 11, 2011; 76 FR 53834, Aug. 30, 2011; 76 FR 74733, Dec. 1, 2011; 78 FR 587, Jan. 3, 2013; 78 FR 68767, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 80 FR 12571, Mar. 10, 2015; 80 FR 22279, Apr. 21, 2015; 80 FR 71980, Nov. 18, 2015; 80 FR 77270, Dec. 14, 2015; 81 FR 36807, June 8, 2016; 81 FR 84425, Nov. 23, 2016; 82 FR 9638, Feb. 7, 2017; 82 FR 60569, Dec. 21, 2017; 83 FR 62275, Dec. 3, 2018; 83 FR 63990, Dec. 12, 2018; 84 FR 49961, Sept. 24, 2019; 84 FR 63972, Nov. 19, 2019; 85 FR 35600, June 11, 2020; 85 FR 79892, Dec. 11, 2020; 86 FR 10867, Feb. 23, 2021; 87 FR 59728, Oct. 3, 2022; 87 FR 77014, Dec. 16, 2022]

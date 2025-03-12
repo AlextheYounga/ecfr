@@ -1,0 +1,71 @@
+##### § 385.21 Royalty rates and calculations. #####
+
+(a) *Applicable royalty.* Licensees that engage in Licensed Activity covered by this subpart pursuant to 17 U.S.C. 115 shall pay royalties therefor that are calculated as provided in this section.
+
+(b) *Rate calculation.* Royalty payments for Licensed Activity in this subpart shall be calculated as provided in this paragraph (b). If a Service Provider makes available different Offerings, royalties must be calculated separately with respect to each Offering taking into consideration Service Provider Revenue, TCC, subscribers, Plays, expenses, and Performance Royalties associated with each Offering. A Service Provider shall not be required to subject the same portion of Service Provider Revenue, TCC, subscribers, Plays, expenses, or Performance Royalties to the calculation of royalties for more than one Offering in an Accounting Period.
+
+(1) *Step 1: Calculate the all-in royalty for the Offering.* For each Accounting Period, the all-in royalty for each Offering in this subpart with the exception of Mixed Service Bundles shall be the greater of:
+
+(i) The applicable percent of Service Provider Revenue, as set forth in Table 1 to this paragraph (b)(1), and
+
+(ii) The result of the TCC Prong Calculation for the respective type of Offering as set forth in Table 2 to this paragraph (b)(1). For Mixed Service Bundles, the all-in royalty shall be the result of the TCC Prong Calculation as set forth in Table 2.
+
+Table 1 to Paragraph (b)(1)
+
+|           Royalty year:           |2023|2024|2025 |2026|2027 |
+|-----------------------------------|----|----|-----|----|-----|
+|Percent of Service Provider Revenue|15.1|15.2|15.25|15.3|15.35|
+
+Table 2 to Paragraph (b)(1)
+
+|                              Type of offering                               |                                                           TCC prong calculation                                                           |
+|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+|        Standalone Non-Portable Subscription Offering—Streaming Only         |The lesser of (i) 26.2% of TCC for the Accounting Period or (ii) the aggregate amount of 60 cents per subscriber for the Accounting Period.|
+|             Standalone Non-Portable Subscription Offering—Mixed             |The lesser of (i) 26.2% of TCC for the Accounting Period or (ii) the aggregate amount of 60 cents per subscriber for the Accounting Period.|
+|                  Standalone Portable Subscription Offering                  | The lesser of (i) 26.2% of TCC for the Accounting Period or (ii) the aggregate amount of $1.10 per subscriber for the Accounting Period.  |
+|Free nonsubscription/ad-supported services free of any charge to the End User|                                                  26.2% of TCC for the Accounting Period.                                                  |
+|                        Bundled Subscription Offering                        |                                                  24.5% of TCC for the Accounting Period.                                                  |
+|                            Mixed Service Bundle                             |                                                  26.2% of TCC for the Accounting Period.                                                  |
+|                      Purchased Content Locker Service                       |                                                  26.2% of TCC for the Accounting Period.                                                  |
+|                         Standalone Limited Offering                         |                                                  26.2% of TCC for the Accounting Period.                                                  |
+|                             Paid Locker Service                             |                                                  26.2% of TCC for the Accounting Period.                                                  |
+
+(2) *Step 2: Subtract applicable Performance Royalties.* From the amount determined in step 1 in paragraph (b)(1) of this section, for each Offering of the Service Provider, subtract the total amount of Performance Royalties that the Service Provider has expensed or will expense pursuant to public performance licenses in connection with uses of musical works through that Offering during the Accounting Period that constitute Licensed Activity. Although this amount may be the total of the Service Provider's payments for that Offering for the Accounting Period, it will be less than the total of the performance royalties if the Service Provider is also engaging in public performance of musical works that does not constitute Licensed Activity. In the case in which the Service Provider is also engaging in the public performance of musical works that does not constitute Licensed Activity, the amount to be subtracted for Performance Royalties shall be the amount allocable to Licensed Activity uses through the relevant Offering as determined in relation to all uses of musical works for which the Service Provider pays performance royalties for the Accounting Period. The Service Provider shall make this allocation on the basis of Plays of musical works, provided that if the Service Provider is not capable of tracking Play information, including because of bona fide limitations of the available technology for Offerings of that nature or of devices useable with the Offering, the allocation may instead be accomplished in a manner consistent with the methodology used for making royalty payment allocations for the use of individual sound recordings, and further provided that, if the Service Provider is also not capable of utilizing a manner consistent with a methodology used for making royalty payment allocations for the use of individual sound recordings, the Service Provider may use an alternative, good faith methodology that is reasonable, identifiable, and implemented consistently.
+
+(3) *Step 3: Determine the payable royalty pool.* The payable royalty pool is the amount payable for the reproduction and distribution of all musical works used by the Service Provider by virtue of its Licensed Activity for a particular Offering during the Accounting Period. This amount is the greater of:
+
+(i) The result determined in step 2 in paragraph (b)(2) of this section; and
+
+(ii) The royalty floor (if any) resulting from the calculations described in paragraph (d) of this section.
+
+(4) *Step 4: Calculate the per-work royalty allocation.* This is the amount payable for the reproduction and distribution of each musical work used by the Service Provider by virtue of its Licensed Activity through a particular Offering during the Accounting Period. To determine this amount, the result determined in step 3 in paragraph (b)(3) of this section must be allocated to each musical work used through the Offering. The allocation shall be accomplished by the Mechanical Licensing Collective by dividing the payable royalty pool determined in step 3 for the Offering by the total number of Plays of all musical works through the Offering during the Accounting Period (other than Plays subject to subpart D of this part) to yield a per-Play allocation, and multiplying that result by the number of Plays of each musical work (other than Plays subject to subpart D of this part) through the Offering during the Accounting Period. For purposes of determining the per-work royalty allocation in all calculations under step 4 in this paragraph (b)(4) only (*i.e.,* after the payable royalty pool has been determined), for sound recordings of musical works with a playing time of over 5 minutes, each Play shall be counted as provided in paragraph (c) of this section. Notwithstanding the foregoing, if the Service Provider is not capable of tracking Play information because of bona fide limitations of the available technology for Offerings of that nature or of devices useable with the Offering, the per-work royalty allocation may instead be accomplished in a manner consistent with the methodology used for making royalty payment allocations for the use of individual sound recordings.
+
+(c) *Overtime adjustment.* For purposes of the calculations in step 4 in paragraph (b)(4) of this section only, for sound recordings of musical works with a playing time of over 5 minutes, adjust the number of Plays as follows.
+
+(1) 5:01 to 6:00 minutes—Each Play = 1.2 Plays.
+
+(2) 6:01 to 7:00 minutes—Each Play = 1.4 Plays.
+
+(3) 7:01 to 8:00 minutes—Each Play = 1.6 Plays.
+
+(4) 8:01 to 9:00 minutes—Each Play = 1.8 Plays.
+
+(5) 9:01 to 10:00 minutes—EachPlay = 2.0 Plays.
+
+(6) For playing times of greater than 10 minutes, continue to add 0.2 Plays for each additional minute or fraction thereof.
+
+(d) *Royalty floors for specific types of Offerings.* The following royalty floors for use in step 3 in paragraph (b)(3) of this section shall apply to the respective types of Offerings:
+
+(1) *Standalone non-portable Subscription Offerings—streaming only.* Except as provided in paragraphs (d)(4) and (6) of this section with respect to Standalone Limited Offerings, in the case of a Subscription Offering through which an End User can listen to sound recordings only in the form of Eligible Interactive Streams and only from a non-portable device to which those Eligible Interactive Streams are originally transmitted while the device has a live network connection, the royalty floor for use in step 3 in paragraph (b)(3) of this section is the aggregate amount of 18 cents per subscriber per Accounting Period.
+
+(2) *Standalone non-portable Subscription Offerings—mixed.* Except as provided in paragraphs (d)(4) and (6) of this section with respect to Standalone Limited Offerings, in the case of a Subscription Offering through which an End User can listen to sound recordings either in the form of Eligible Interactive Streams or Eligible Limited Downloads but only from a non-portable device to which those Eligible Interactive Streams or Eligible Limited Downloads are originally transmitted, the royalty floor for use in step 3 in paragraph (b)(3) of this section is the aggregate amount of 36 cents per subscriber per Accounting Period.
+
+(3) *Standalone portable Subscription Offerings.* Except as provided in paragraphs (d)(4) and (6) of this section with respect to Standalone Limited Offerings, in the case of a Subscription Offering through which an End User can listen to sound recordings in the form of Eligible Interactive Streams or Eligible Limited Downloads from a portable device, the royalty floor for use in step 3 in paragraph (b)(3) of this section is the aggregate amount of 60 cents per subscriber per Accounting Period.
+
+(4) *Bundled Subscription Offerings.* In the case of a Bundled Subscription Offering, the royalty floor for use in step 3 in paragraph (b)(3) of this section is the aggregate amount of 33 cents per Accounting Period for each Active Subscriber. Notwithstanding the foregoing, solely where the Licensed Activity provided as part of a Bundled Subscription Offering would qualify as a Standalone Limited Offering if offered on a standalone basis, the royalty floor for use in step 3 in paragraph (b)(3) of this section is the aggregate amount of 25 cents per Accounting Period for each Active Subscriber.
+
+(5) *Mixed Service Bundles.* In the case of a Mixed Service Bundle, the royalty floor for use in step 3 in paragraph (b)(3) of this section is the aggregate amount of 25 cents per Accounting Period for each Active Subscriber.
+
+(6) *Other Offerings.* A Standalone Limited Offering, a Paid Locker Service, a Purchased Content Locker Service, and a free nonsubscription/ad-supported service free of any charge to the End User shall not be subject to a royalty floor in step 3 in paragraph (b)(3) of this section.
+
+(e) *Computation of per-subscriber rates and royalty floors.* For purposes of this section, to determine the per-subscriber rates in step 1 in paragraph (b)(1) of this section and the royalty floors in step 3 in paragraph (b)(3) of this section, as applicable to any particular Offering, the total number of subscribers for the Accounting Period shall be calculated by taking all End Users who were subscribers for a complete Accounting Period, prorating in the case of End Users who were subscribers for only part of an Accounting Period (such proration may take into account the subscriber's billing period), and deducting on a prorated basis for End Users covered by an Offering subject to subpart D of this part, except in the case of a Bundled Subscription Offering, subscribers shall be determined with respect to Active Subscribers. The product of the total number of subscribers for the Accounting Period and the specified number of cents per subscriber (or Active Subscriber, as the case may be) shall be used as the subscriber-based components of the royalty calculation for the Accounting Period. A Family Plan subscription shall be treated as 1.75 subscribers per Accounting Period, prorated in the case of a Family Plan subscription in effect for only part of an Accounting Period. A Student Plan subscription shall be treated as 0.5 subscribers per Accounting Period, prorated in the case of a Student Plan subscription in effect for only part of an Accounting Period. A Bundled Subscription Offering containing a Family Plan with one or more Active Subscriber(s) shall be treated as having 1.75 Active Subscribers. A Bundled Subscription Offering containing a Student Plan with an Active Subscriber shall be treated as having 0.5 Active Subscribers. For the purposes of calculating per-subscriber rates and royalty floors under this section, Artificial Accounts shall not be counted as subscribers, Active Subscribers, or End Users.

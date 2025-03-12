@@ -1,6 +1,6 @@
 ##### § 6.1 International schedule of classes of goods and services. #####
 
-Link to an amendment published at 87 FR 61246, Oct. 11, 2022.Goods
+Goods
 
 1. Chemicals for use in industry, science and photography, as well as in agriculture, horticulture and forestry; unprocessed artificial resins, unprocessed plastics; fire extinguishing and fire prevention compositions; tempering and soldering preparations; substances for tanning animal skins and hides; adhesives for use in industry; putties and other paste fillers; compost, manures, fertilizers; biological preparations for use in industry and science.
 
@@ -74,7 +74,7 @@ Services
 
 35. Advertising; business management, organization and administration; office functions.
 
-36. Financial, monetary and banking services; insurance services; real estate affairs.
+36. Financial, monetary and banking services; insurance services; real estate services.
 
 37. Construction services; installation and repair services; mining extraction, oil and gas drilling.
 
@@ -92,6 +92,6 @@ Services
 
 44. Medical services; veterinary services; hygienic and beauty care for human beings or animals; agriculture, aquaculture, horticulture and forestry services.
 
-45. Legal services; security services for the physical protection of tangible property and individuals; personal and social services rendered by others to meet the needs of individuals.
+45. Legal services; security services for the physical protection of tangible property and individuals; dating services, online social networking services; funerary services; babysitting.
 
-[86 FR 55500, Oct. 6, 2021]
+[87 FR 61246, Oct. 11, 2022]

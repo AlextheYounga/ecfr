@@ -1,8 +1,6 @@
 ##### § 512.370 Benchmarking and scoring. #####
 
-Link to an amendment published at 87 FR 67302, Nov. 7, 2022.
-
-(a) *General.* (1) CMS assesses the home dialysis rate and transplant rate for each ETC Participant against the applicable benchmarks to calculate an -
+(a) *General.* (1) CMS assesses the home dialysis rate and transplant rate for each ETC Participant against the applicable benchmarks to calculate an—
 
 (i) Achievement score, as described in paragraph (b) of this section; and
 
@@ -12,11 +10,9 @@ Link to an amendment published at 87 FR 67302, Nov. 7, 2022.
 
 (ii) The ETC Participant's MPS determines the ETC Participant's PPA, as described in § 512.380.
 
-(b) *Achievement scoring.* CMS assesses ETC Participant performance at the aggregation group level on the home dialysis rate and transplant rate against achievement benchmarks constructed based on the home dialysis rate and transplant rate among aggregation groups of ESRD facilities and Managing Clinicians located in Comparison Geographic Areas during the Benchmark Year. Achievement benchmarks are calculated as described in paragraph (b)(1) of this section and, for MY3 through MY10, are stratified as described in paragraph (b)(2) of this section.
+(b) *Achievement Scoring.* CMS assesses ETC Participant performance at the aggregation group level on the home dialysis rate and transplant rate against achievement benchmarks constructed based on the home dialysis rate and transplant rate among aggregation groups of ESRD facilities and Managing Clinicians located in Comparison Geographic Areas during the Benchmark Year. Achievement benchmarks are calculated as described in paragraph (b)(1) of this section and, for MY3 through MY10, are stratified as described in paragraph (b)(2) of this section. For MY5 through MY10, the ETC Participant's achievement score is subject to the restriction described in paragraph (b)(3) of this section.
 
 (1) *Achievement benchmarks.* CMS uses the following scoring methodology to assess an ETC Participant's achievement score.
-
-Table 1 to § 512.370(b)(1) - ETC Model Schedule of PPA Achievment Benchmarks by Measurement Year
 
 |                                         MY1 and MY2                                          |                                                MY3 and MY4                                                 |                                              MY5 and MY6                                              |                                              MY7 and MY8                                              |                                             MY9 and MY10                                              |Points|
 |----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|------|
@@ -31,6 +27,8 @@ Table 1 to § 512.370(b)(1) - ETC Model Schedule of PPA Achievment Benchmarks by
 (i) *Stratum 1:* 50 percent or more of attributed beneficiary years during the MY are for beneficiaries who are dual eligible or LIS recipients.
 
 (ii) *Stratum 2:* Less than 50 percent of attributed beneficiary years during the MY are for beneficiaries who are dual eligible or LIS recipients.
+
+(3) For MY5 through MY10, CMS will assign an achievement score to an ETC Participant for the home dialysis rate or the transplant rate only if the ETC Participant's aggregation group has a home dialysis rate or a transplant rate greater than zero for the MY.
 
 (c) *Improvement scoring.* CMS assesses ETC Participant improvement on the home dialysis rate and transplant rate against benchmarks constructed based on the ETC Participant's aggregation group's historical performance on the home dialysis rate and transplant rate during the Benchmark Year to calculate the ETC Participant's improvement score, as specified in paragraph (c)(1) of this section. For MY3 through MY10, CMS assesses ETC Participant improvement on the home dialysis rate and transplant rate for ESRD Beneficiaries and, if applicable, Pre-emptive LDT Beneficiaries, who are dual eligible or LIS recipients to determine whether to add the Health Equity Incentive to the ETC Participant's improvement score, as specified in paragraph (c)(2) of this section.
 
@@ -60,4 +58,4 @@ Table 1 to § 512.370(b)(1) - ETC Model Schedule of PPA Achievment Benchmarks by
 
 (2) For MY3 through MY10, CMS calculates the ETC Participant's MPS as the higher of the ETC Participant's achievement score for the home dialysis rate or the sum of the ETC Participant's improvement score for the home dialysis rate calculated as specified in paragraph (c)(1) of this section and, if applicable, the Health Equity Incentive, calculated as described in paragraph (c)(2)(i) of this section, together with the higher of the ETC Participant's achievement score for the transplant rate or the sum of the ETC Participant's improvement score for the transplant rate calculated as specified in paragraph (c)(1) of this section and, if applicable, the Heath Equity Incentive, calculated as described in paragraph (c)(2)(ii) of this section, weighted such that the ETC Participant's score for the home dialysis rate constitutes2/3 of the MPS and the ETC Participant's score for the transplant rate constitutes1/3 of the MPS. CMS uses the following formula to calculate the ETC Participant's MPS for MY3 through MY10:
 
-*Modality Performance Score* = 2 × (*Higher of the home dialysis achievement or* (*home dialysis improvement score* + *Health Equity Bonus* †)) + (*Higher of the transplant achievement or* (*transplant improvement score* + *Health Equity Bonus*†))† The Health Equity Incentive is applied to the home dialysis improvement score or transplant improvement score only if earned by the ETC Participant.[85 FR 61362, Sept. 29, 2020, as amended at 86 FR 62023, Nov. 8, 2021]
+*Modality Performance Score* = 2 × (*Higher of the home dialysis achievement or* (*home dialysis improvement score* + *Health Equity Bonus* †)) + (*Higher of the transplant achievement or* (*transplant improvement score* + *Health Equity Bonus*†))† The Health Equity Incentive is applied to the home dialysis improvement score or transplant improvement score only if earned by the ETC Participant.[85 FR 61362, Sept. 29, 2020, as amended at 86 FR 62023, Nov. 8, 2021; 87 FR 67302, Nov. 7, 2022]

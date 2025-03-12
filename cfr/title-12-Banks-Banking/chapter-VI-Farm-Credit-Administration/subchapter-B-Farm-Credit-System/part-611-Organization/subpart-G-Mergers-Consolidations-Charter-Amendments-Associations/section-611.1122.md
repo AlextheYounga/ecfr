@@ -1,7 +1,5 @@
 ##### § 611.1122 Requirements for association mergers or consolidations. #####
 
-Link to an amendment published at 87 FR 27492, May 9, 2022.
-
 (a) Where two or more associations plan to merge or consolidate, or where the funding bank board has adopted a reorganization plan for the associations in the district, the associations involved must jointly submit a request to the funding bank containing the following:
 
 (1) In the case of a merger, a copy of the charter of the continuing association reflecting any proposed amendments. In the case of consolidation, a copy of the proposed charter of the new association;
@@ -58,7 +56,8 @@ THE FARM CREDIT ADMINISTRATION HAS NEITHER APPROVED NOR PASSED UPON THE ACCURACY
 
 (ii) A balance sheet for each constituent association as of a date within 90 days of the date the request for preliminary approval is forwarded to the FCA presented on a comparative basis with the corresponding period of the prior fiscal year.
 
-(iii) An income statement for the interim period between the end of the last fiscal year and the date of the required balance sheet presented on a comparative basis with the corresponding period of the preceding fiscal year. The balance sheet and income statement format must be that contained in the association's annual report to stockholders; must contain any significant changes in accounting policies that differ from those in the latest association annual report to stockholders; and must contain appropriate footnote disclosures, including data relating to high-risk assets and other property owned, and allowance for loan losses, including net chargeoffs as required in paragraph (e)(10) of this section.
+(iii) An income statement for the interim period between the end of the last fiscal year and the date of the required balance sheet presented on a comparative basis with the corresponding period of the preceding fiscal year. The balance sheet and income statement format must be that contained in the association's annual report to stockholders; must contain any significant changes in accounting policies that differ from those in the latest association annual report to stockholders; and must contain appropriate footnote disclosures, including data relating to high-risk assets and other property owned, and allowance for credit
+losses, including net chargeoffs as required in paragraph (e)(10) of this section.
 
 (7) The financial statements (balance sheet and income statement) must be in sufficient detail to show separately all significant categories of interest-earning assets and interest-bearing liabilities and the income or expense accrued thereon.
 
@@ -70,7 +69,7 @@ THE FARM CREDIT ADMINISTRATION HAS NEITHER APPROVED NOR PASSED UPON THE ACCURACY
 
 (9) A presentation for each constituent association regarding its policy on accounting for loan performance, together with the number and dollar amount of loans in all performance categories, including those categorized as high-risk assets.
 
-(10) Information of each constituent association concerning the amount of loans charged off in each of the 2 fiscal years preceding the date of the balance sheet, the current year-to-date net chargeoff amount, and the balance in the allowance for loan losses account and a statement regarding whether, in the opinion of management, the allowance for loan losses is adequate to absorb the risk currently existing in the loan portfolio. This information may be appropriately included in the footnotes to the financial statements.
+(10) Information of each constituent association concerning the amount of loans charged off in each of the 2 fiscal years preceding the date of the balance sheet, the current year-to-date net chargeoff amount, and the balance in the allowance for credit losses account and a statement regarding whether, in the opinion of management, the allowance for credit losses is adequate to absorb the risk currently existing in the loan portfolio. This information may be appropriately included in the footnotes to the financial statements.
 
 (11) A management discussion and analysis of the financial condition and results of operation for the past 2 fiscal years for each constituent institution. This requirement can be satisfied by including the materials contained in the management discussion and analysis of each institution's most recent annual report.
 
@@ -110,4 +109,4 @@ THE FARM CREDIT ADMINISTRATION HAS NEITHER APPROVED NOR PASSED UPON THE ACCURACY
 
 (2) When a Farm Credit institution, or any of its employees, officers, directors, agents, or other person participating in the conduct of the affairs thereof, make disclosures or representations in connection with an association merger or consolidation that, in the judgment of the FCA, are incomplete, inaccurate, or misleading, whether or not such disclosure or representation is made in disclosure statements required by this subpart, such institution must make such additional or corrective disclosure as directed by the FCA and as is necessary to provide stockholders and the general public with full and fair disclosure.
 
-[80 FR 51117, Aug. 24, 2015]
+[80 FR 51117, Aug. 24, 2015, as amended at 87 FR 27492, May 9, 2022]

@@ -1,7 +1,5 @@
 ##### § 423.160 Standards for electronic prescribing. #####
 
-Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
-
 (a) *General rules.* (1) Part D sponsors must establish and maintain an electronic prescription drug program that complies with the applicable standards in paragraph (b) of this section when transmitting, directly or through an intermediary, prescriptions and prescription-related information using electronic media for covered Part D drugs for Part D eligible individuals.
 
 (2) Except as provided in paragraph (a)(3) of this section, prescribers and dispensers that transmit, directly or through an intermediary, prescriptions and prescription-related information using electronic media must comply with the applicable standards in paragraph (b) of this section when e-prescribing for covered Part D drugs for Part D eligible individuals.
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
 
 (iv) Until November 1, 2014, entities transmitting prescriptions or prescription-related information where the prescriber is required by law to issue a prescription for a patient to a non-prescribing provider (such as a nursing facility) that in turn forwards the prescription to a dispenser are exempt from the requirement to use the NCPDP SCRIPT Standard adopted by this section in transmitting such prescriptions or prescription-related information. As of November 1, 2014, such entities will be required to use the adopted NCPCP SCRIPT standard(s).
 
-(4) In accordance with section 1860D-4(e)(5) of the Act, the standards under this paragraph (b) of this section supersede any State law or regulation that -
+(4) In accordance with section 1860D-4(e)(5) of the Act, the standards under this paragraph (b) of this section supersede any State law or regulation that—
 
 (i) Is contrary to the standards or restricts the ability to carry out Part D of Title XVIII of the Act; and
 
@@ -24,9 +22,9 @@ Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
 
 (i) Prescriber and dispensing pharmacy are the same entity.
 
-(ii) Prescriber issues 100 or fewer controlled substance prescriptions for Part D drugs per calendar year as determined using CMS claims data as of December 31st of the preceding year.
+(ii) Prescriber issues 100 or fewer controlled substance prescriptions for Part D drugs per calendar year as determined using CMS claims data with dates of service as of December 31st of the current year.
 
-(iii) Prescriber has an NCPDP database address in the geographic area of an emergency or disaster declared by a Federal, State, or local government entity.
+(iii) Prescriber has an address in PECOS in the geographic area of an emergency or disaster declared by a Federal, State, or local government entity. If a prescriber does not have an address in PECOS, prescriber has an address in NPPES in the geographic area of an emergency or disaster declared by a Federal, State, or local government entity.
 
 (iv) Prescriber has received a CMS-approved waiver because the prescriber is unable to conduct electronic prescribing of controlled substances (EPCS) due to circumstances beyond the prescriber's control.
 
@@ -222,7 +220,7 @@ Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
 
 (iii) National Council for Prescription Drug Programs Telecommunication Standard Specification, Version D, Release 0 (Version D.0), August 2007 and equivalent National Council for Prescription Drug Programs (NCPDP) Batch Standard Batch Implementation Guide, Version 1, Release 2 (Version 1.2), August 2007 supporting Telecommunication Standard Implementation Guide, Version D, Release 0 (Version D.0) for the NCPDP Data Record in the Detail Data Record.
 
-(iv) National Council for Prescription Drug Programs SCRIPT Standard, Implementation Guide, Version 5, Release 0, May 12, 2004, excluding the Prescription Fill Status Notification Transaction (and its three business cases; Prescription Fill Status Notification Transaction - Filled, Prescription Fill Status Notification Transaction - Not Filled, and Prescription Fill Status Notification Transaction - Partial Fill).
+(iv) National Council for Prescription Drug Programs SCRIPT Standard, Implementation Guide, Version 5, Release 0, May 12, 2004, excluding the Prescription Fill Status Notification Transaction (and its three business cases; Prescription Fill Status Notification Transaction—Filled, Prescription Fill Status Notification Transaction—Not Filled, and Prescription Fill Status Notification Transaction—Partial Fill).
 
 (v) National Council for Prescription Drug Programs SCRIPT Standard, Implementation Guide Version 10.6, approved November 12, 2008.
 
@@ -232,8 +230,8 @@ Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
 
 (2) Accredited Standards Committee, 7600 Leesburg Pike, Suite 430, Falls Church, VA 22043; Telephone (301) 970-4488; and Facsimile: (703) 970-4488 or *http://www.x12.org.*
 
-(i) Accredited Standards Committee (ASC X12 Standards for Electronic Data Interchange Technical Report Type 3 - Health Care Eligibility Benefit Inquiry and Response (270/271), April 2008, ASC X12N/005010X279.
+(i) Accredited Standards Committee (ASC X12 Standards for Electronic Data Interchange Technical Report Type 3—Health Care Eligibility Benefit Inquiry and Response (270/271), April 2008, ASC X12N/005010X279.
 
 (ii) [Reserved]
 
-(Authority: Section 1860D-4(e) of the Social Security Act (42 U.S.C. 1395w-104(e)))[70 FR 67593, Nov. 7, 2005, as amended at 71 FR 36023, June 23, 2006; 72 FR 66405, Nov. 27, 2007; 73 FR 18941, Apr. 7, 2008; 73 FR 69938, Nov. 19, 2008; 75 FR 38030, July 1, 2010; 77 FR 29030, May 16, 2012; 77 FR 69371, Nov. 16, 2012; 78 FR 74822, Dec. 10, 2013; 83 FR 16743, Apr. 16, 2018; 83 FR 27915, June 15, 2018; 84 FR 23883, May 23, 2019; 85 FR 85037, Dec. 28, 2020; 85 FR 86835, Dec. 31, 2020; 86 FR 65682, Nov. 19, 2021]
+(Authority: Section 1860D-4(e) of the Social Security Act (42 U.S.C. 1395w-104(e)))[70 FR 67593, Nov. 7, 2005, as amended at 71 FR 36023, June 23, 2006; 72 FR 66405, Nov. 27, 2007; 73 FR 18941, Apr. 7, 2008; 73 FR 69938, Nov. 19, 2008; 75 FR 38030, July 1, 2010; 77 FR 29030, May 16, 2012; 77 FR 69371, Nov. 16, 2012; 78 FR 74822, Dec. 10, 2013; 83 FR 16743, Apr. 16, 2018; 83 FR 27915, June 15, 2018; 84 FR 23883, May 23, 2019; 85 FR 85037, Dec. 28, 2020; 85 FR 86835, Dec. 31, 2020; 86 FR 65682, Nov. 19, 2021; 87 FR 70231, Nov. 18, 2022]

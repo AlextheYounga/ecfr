@@ -1,7 +1,5 @@
 ##### § 630.20 Contents of the annual report to investors. #####
 
-Link to an amendment published at 87 FR 27493, May 9, 2022.
-
 The annual report must contain the following:
 
 (a) *Description of business.* (1) The description shall include a brief discussion of the following:
@@ -20,7 +18,7 @@ The annual report must contain the following:
 
 (2) List the address of the headquarters of each disclosure entity and service corporation of the System.
 
-(b) *Federal regulation and insurance* - (1) *Farm Credit Administration.* Describe the regulatory and enforcement authority of the FCA over System institutions under the Act.
+(b) *Federal regulation and insurance*—(1) *Farm Credit Administration.* Describe the regulatory and enforcement authority of the FCA over System institutions under the Act.
 
 (2) *Farm Credit System Insurance Corporation.* (i) Describe the role and authorities of the Farm Credit System Insurance Corporation (FCSIC) under part E of title V of the Act. Describe specifically the role of the FCSIC in insuring the timely payment of principal and interest on FCS debt obligations and in providing assistance to System institutions.
 
@@ -60,7 +58,7 @@ The annual report must contain the following:
 
 (i) Loans.
 
-(ii) Allowance for losses.
+(ii) Allowance for credit losses.
 
 (iii) Net loans.
 
@@ -82,7 +80,7 @@ The annual report must contain the following:
 
 (ii) Net other expenses.
 
-(iii) Provision for loan losses.
+(iii) Provision for credit losses.
 
 (iv) Extraordinary items.
 
@@ -98,7 +96,7 @@ The annual report must contain the following:
 
 (iv) Net loan chargeoffs as a percentage of average loans.
 
-(v) Allowance for loan losses as a percentage of gross loans outstanding at yearend.
+(v) Allowance for credit losses as a percentage of gross loans outstanding at yearend.
 
 (vi) Capital stock and surplus as a percentage of total assets at yearend.
 
@@ -106,11 +104,11 @@ The annual report must contain the following:
 
 (g) *Discussion and analysis.* Fully discuss any material aspects of financial condition, changes in financial condition, and results of operations of System institutions, on a combined basis, for the comparative years required by paragraph (g)(6)(ii) of this section or such other time periods specified in the following paragraphs of this section. Identify favorable and unfavorable trends, and significant events or uncertainties necessary to understand the financial condition and results of operations of the System. At a minimum, the discussion shall include the following:
 
-(1) *Loan portfolio* - (i) *Categorization.* Describe the loan portfolio of the System by major loan purpose category, indicating the amount and approximate percentage of the total dollar portfolio represented by each major category.
+(1) *Loan portfolio*—(i) *Categorization.* Describe the loan portfolio of the System by major loan purpose category, indicating the amount and approximate percentage of the total dollar portfolio represented by each major category.
 
 (ii) *Risk exposure.* (A) Describe and analyze all high-risk assets, including an analysis of the nature and extent of significant current and potential credit risks within the loan portfolio and of other information that could adversely affect the loan portfolio and other property owned.
 
-(B) Provide an analysis of the allowance for loan losses that includes the ratios of the allowance for loan losses to loans (outstanding at yearend) and net chargeoffs to average loans, and a discussion of the adequacy of the allowance for loan losses to absorb the risk inherent in the loan portfolio and the basis for such determination.
+(B) An analysis of the allowance for credit losses to loans and net chargeoffs to average loans and a discussion of the adequacy of the allowance for credit losses given reasonable and supportable forecasts.
 
 (iii) *Secondary market activities.* (A) If material, quantify System institutions' secondary market activities and the risk involved in such activities.
 
@@ -128,7 +126,7 @@ The annual report must contain the following:
 
 (vi) Explain the changes that have taken place, by major components on a comparative basis, in Insurance Fund assets and related restricted capital and how such changes affected reported income.
 
-(3) *Funding sources and liquidity* - (i) *Funding sources.* (A) Provide, in tabular form, the component amounts and the total amount of FCS debt obligations, debt obligations issued by banks individually, and Financial Assistance Corporation debt obligations outstanding at yearend for each of the past 2 fiscal years. List debt obligations issued by System institutions separately by type, also separating insured obligations from uninsured obligations. For each type of debt obligation listed, provide the following, at a minimum, for each fiscal year listed:
+(3) *Funding sources and liquidity*—(i) *Funding sources.* (A) Provide, in tabular form, the component amounts and the total amount of FCS debt obligations, debt obligations issued by banks individually, and Financial Assistance Corporation debt obligations outstanding at yearend for each of the past 2 fiscal years. List debt obligations issued by System institutions separately by type, also separating insured obligations from uninsured obligations. For each type of debt obligation listed, provide the following, at a minimum, for each fiscal year listed:
 
 (*1*) The beginning balance, the total amount of debt issued, the total amount of debt retired, and the yearend balance; and
 
@@ -168,7 +166,7 @@ The annual report must contain the following:
 
 (B) Matters that have had an impact on reported operations but are not expected to have an impact on future operations.
 
-(h) *Directors and management* - (1) *Board of directors.* Briefly describe the composition of boards of directors of the disclosure entities. List the name of each director of such entities, including the director's term of office and principal occupation during the past 5 years, or state that such information is available upon request.
+(h) *Directors and management*—(1) *Board of directors.* Briefly describe the composition of boards of directors of the disclosure entities. List the name of each director of such entities, including the director's term of office and principal occupation during the past 5 years, or state that such information is available upon request.
 
 (2) *Senior officers.* List the names of all senior officers employed by the disclosure entities, including position title and length of service at current position.
 
@@ -238,4 +236,4 @@ The annual report must contain the following:
 
 (p) *Credit and services to young, beginning, and small farmers and ranchers and producers or harvesters of aquatic products.* The Farm Credit banks must include a report on consolidated YBS lending data of their affiliated associations. The report must include the definitions of “young,” “beginning,” and “small” farmers and ranchers. A narrative report may be necessary for an ample understanding of the YBS mission results.
 
-[59 FR 46742, Sept. 12, 1994, as amended at 63 FR 36549, July 7, 1998; 69 FR 16471, Mar. 30, 2004; 71 FR 5767, Feb. 2, 2006; 71 FR 76122, Dec. 20, 2006; 77 FR 59052, Sept. 26, 2012; 78 FR 31835, May 28, 2013; 79 FR 17856, Mar. 31, 2014]
+[59 FR 46742, Sept. 12, 1994, as amended at 63 FR 36549, July 7, 1998; 69 FR 16471, Mar. 30, 2004; 71 FR 5767, Feb. 2, 2006; 71 FR 76122, Dec. 20, 2006; 77 FR 59052, Sept. 26, 2012; 78 FR 31835, May 28, 2013; 79 FR 17856, Mar. 31, 2014; 87 FR 27493, May 9, 2022]

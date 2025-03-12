@@ -1,8 +1,6 @@
 ##### § 405.2463 What constitutes a visit. #####
 
-Link to an amendment published at 87 FR 70222, Nov. 18, 2022.
-
-(a) *Visit - General.* (1) For RHCs, a visit is either of the following:
+(a) *Visit—General.* (1) For RHCs, a visit is either of the following:
 
 (i) Face-to-face encounter (or, for mental health disorders only, an encounter that meets the requirements under paragraph (b)(3) of this section) between an RHC patient and one of the following:
 
@@ -32,7 +30,7 @@ Link to an amendment published at 87 FR 70222, Nov. 18, 2022.
 
 (B) A qualified provider of outpatient diabetes self-management training services as defined in part 410, subpart H, of this chapter.
 
-(b) *Visit - Medical.* (1) A medical visit is a face-to-face encounter between a RHC or FQHC patient and one of the following:
+(b) *Visit—Medical.* (1) A medical visit is a face-to-face encounter between a RHC or FQHC patient and one of the following:
 
 (i) Physician.
 
@@ -50,7 +48,7 @@ Link to an amendment published at 87 FR 70222, Nov. 18, 2022.
 
 (ii) Diabetes outpatient self-management training visit.
 
-(3) *Visit - Mental health.* A mental health visit is a face-to-face encounter or an encounter furnished using interactive, real-time, audio and video telecommunications technology or audio-only interactions in cases where the patient is not capable of, or does not consent to, the use of video technology for the purposes of diagnosis, evaluation or treatment of a mental health disorder, including an in-person mental health service furnished within 6 months prior to the furnishing of the telecommunications service and that an in-person mental health service (without the use of telecommunications technology) must be provided at least every 12 months while the beneficiary is receiving services furnished via telecommunications technology for diagnosis, evaluation, or treatment of mental health disorders, unless, for a particular 12-month period, the physician or practitioner and patient agree that the risks and burdens outweigh the benefits associated with furnishing the in-person item or service, and the practitioner documents the reasons for this decision in the patient's medical record, between an RHC or FQHC patient and one of the following:
+(3) *Visit—Mental health.* A mental health visit is a face-to-face encounter or an encounter furnished using interactive, real-time, audio and video telecommunications technology or audio-only interactions in cases where the patient is not capable of, or does not consent to, the use of video technology for the purposes of diagnosis, evaluation or treatment of a mental health disorder, including an in-person mental health service, beginning 152 days after the end of the COVID-19 public health emergency, furnished within 6 months prior to the furnishing of the telecommunications service and that an in-person mental health service (without the use of telecommunications technology) must be provided at least every 12 months while the beneficiary is receiving services furnished via telecommunications technology for diagnosis, evaluation, or treatment of mental health disorders, unless, for a particular 12-month period, the physician or practitioner and patient agree that the risks and burdens outweigh the benefits associated with furnishing the in-person item or service, and the practitioner documents the reasons for this decision in the patient's medical record, between an RHC or FQHC patient and one of the following:
 
 (i) Clinical psychologist.
 
@@ -58,7 +56,7 @@ Link to an amendment published at 87 FR 70222, Nov. 18, 2022.
 
 (iii) Other RHC or FQHC practitioner, in accordance with paragraph (b)(1) of this section, for mental health services.
 
-(c) *Visit - Multiple.* (1) For RHCs and FQHCs that are authorized to bill under the reasonable cost system, encounters with more than one health professional and multiple encounters with the same health professional that take place on the same day and at a single location constitute a single visit, except when the patient -
+(c) *Visit—Multiple.* (1) For RHCs and FQHCs that are authorized to bill under the reasonable cost system, encounters with more than one health professional and multiple encounters with the same health professional that take place on the same day and at a single location constitute a single visit, except when the patient—
 
 (i) Suffers an illness or injury subsequent to the first visit that requires additional diagnosis or treatment on the same day;
 
@@ -70,10 +68,10 @@ Link to an amendment published at 87 FR 70222, Nov. 18, 2022.
 
 (3) For FQHCs that are authorized to bill under the reasonable cost system, Medicare pays for more than 1 visit per day when a DSMT or MNT visit is furnished on the same day as a visit described in paragraph (c)(1) of this section are met.
 
-(4) For FQHCs billing under the PPS, and grandfathered tribal FQHCs that are authorized to bill as a FQHC at the outpatient per visit rate for Medicare as set annually by the Indian Health Service -
+(4) For FQHCs billing under the PPS, and grandfathered tribal FQHCs that are authorized to bill as a FQHC at the outpatient per visit rate for Medicare as set annually by the Indian Health Service—
 
 (i) Suffers an illness or injury subsequent to the first visit that requires additional diagnosis or treatment on the same day; or
 
 (ii) Has a medical visit and a mental health visit on the same day.
 
-[79 FR 68001, Nov. 13, 2014, as amended at 80 FR 71372, Nov. 16, 2015; 86 FR 65661, Nov. 19, 2021]
+[79 FR 68001, Nov. 13, 2014, as amended at 80 FR 71372, Nov. 16, 2015; 86 FR 65661, Nov. 19, 2021; 87 FR 70222, Nov. 18, 2022]

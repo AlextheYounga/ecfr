@@ -1,10 +1,8 @@
 ##### § 412.113 Other payments. #####
 
-Link to an amendment published at 87 FR 72286, Nov. 23, 2022.
+(a) *Capital-related costs*—(1) *Payment.* Subject to the reductions described in paragraph (a)(2) of this section, payment for capital-related costs (as described in § 413.130 of this chapter) for cost reporting periods beginning before October 1, 1991 is determined on a reasonable cost basis.
 
-(a) *Capital-related costs* - (1) *Payment.* Subject to the reductions described in paragraph (a)(2) of this section, payment for capital-related costs (as described in § 413.130 of this chapter) for cost reporting periods beginning before October 1, 1991 is determined on a reasonable cost basis.
-
-(2) *Reduction to capital-related payments.* (i) Except for sole community hospitals as defined in § 412.92, the amount of capital-related payments for cost-reporting periods beginning before October 1, 1991 (including a return on equity capital as provided under § 413.157 of this chapter) is reduced by -
+(2) *Reduction to capital-related payments.* (i) Except for sole community hospitals as defined in § 412.92, the amount of capital-related payments for cost-reporting periods beginning before October 1, 1991 (including a return on equity capital as provided under § 413.157 of this chapter) is reduced by—
 
 (A) Three and one-half percent for payments attributable to portions of cost reporting periods occurring during Federal FY 1987;
 
@@ -69,5 +67,9 @@ Link to an amendment published at 87 FR 72286, Nov. 23, 2022.
 (3) A subsection (d) hospital that furnishes inpatient allogeneic hematopoietic stem cell transplants is required to hold all allogeneic hematopoietic stem cell acquisition charges and bill them to Medicare using the appropriate revenue code, when the transplant occurs.
 
 (4) A subsection (d) hospital must maintain an itemized statement that identifies, for all costs defined in paragraph (e)(2) of this section, the services furnished in collecting hematopoietic stem cells including all invoices or statements for purchased services for all donors and their service charges. Records must be for the person receiving the services (donor or recipient; for all donor sources, the hospital must identify the prospective recipient), and the recipient's Medicare beneficiary identification number.
+
+(f) *Additional resource costs of domestic National Institute for Occupational Safety and Health approved surgical N95 respirators.* (1) For cost reporting periods beginning on or after January 1, 2023, a payment adjustment to a hospital for the additional resource costs of domestic National Institute for Occupational Safety and Health approved surgical N95 respirators is made as described in paragraph (f)(2) of this section.
+
+(2) The payment adjustment is based on the estimated difference in the reasonable cost incurred by the hospital for domestic National Institute for Occupational Safety and Health approved surgical N95 respirators purchased during the cost reporting period as compared to other National Institute for Occupational Safety and Health approved surgical N95 respirators purchased during the cost reporting period.
 
 [50 FR 12741, Mar. 29, 1985]Editorial Note:For Federal Register citations affecting § 412.113, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

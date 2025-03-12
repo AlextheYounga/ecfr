@@ -1,7 +1,5 @@
 ##### § 121.404 When is the size status of a business concern determined? #####
 
-Link to an amendment published at 87 FR 73412, Nov. 29, 2022.
-
 (a) *Time of size.* SBA determines the size status of a concern, including its affiliates, as of the date the concern submits a written self-certification that it is small to the procuring activity as part of its initial offer or response which includes price.
 
 (1) *Multiple award contracts.* With respect to Multiple Award Contracts, orders issued against a Multiple Award Contract, and Blanket Purchase Agreements issued against a Multiple Award Contract:
@@ -28,7 +26,7 @@ Link to an amendment published at 87 FR 73412, Nov. 29, 2022.
 
 (c) *Certificates of competency.* The size status of an applicant for a Certificate of Competency (COC) relating to an unrestricted procurement is determined as of the date of the concern's application for the COC.
 
-(d) *Nonmanufacturer rule, ostensible subcontractor rule, and joint venture agreements.* Compliance with the nonmanufacturer rule set forth in § 121.406(b)(1), the ostensible subcontractor rule set forth in § 121.103(h)(2), and the joint venture agreement requirements in § 124.513(c) and (d), § 125.8(b) and (c), § 125.18(b)(2) and (3), § 126.616(c) and (d), or § 127.506(c) and (d) of this chapter, as appropriate, is determined as of the date of the final proposal revision for negotiated acquisitions and final bid for sealed bidding.
+(d) *Nonmanufacturer rule, ostensible subcontractor rule, and joint venture agreements.* Compliance with the nonmanufacturer rule set forth in § 121.406(b)(1), the ostensible subcontractor rule set forth in § 121.103(h)(2), and the joint venture agreement requirements in § 124.513(c) and (d), § 125.8(b) and (c), § 128.402(c) and (d), § 126.616(c) and (d), or § 127.506(c) and (d) of this chapter, as appropriate, is determined as of the date of the final proposal revision for negotiated acquisitions and final bid for sealed bidding.
 
 (e) *Subcontracting.* For subcontracting purposes, a concern must qualify as small as of the date that it certifies that it is small for the subcontract. The applicable size standard is that which is set forth in § 121.410 and which is in effect at the time the concern self-certifies that it is small for the subcontract. A prime contractor may rely on the self-certification of subcontractor provided it does not have a reason to doubt the concern's self-certification.
 
@@ -72,4 +70,4 @@ Example 1 to paragraph (g)(2)(iii). Indian Tribe X owns 100% of small business A
 
 (h) *Follow-on contracts.* A follow-on or renewal contract is a new contracting action. As such, size is determined as of the date the concern submits a written self-certification that it is small to the procuring agency as part of its initial offer including price for the follow-on or renewal contract.
 
-[69 FR 29205, May 21, 2004, as amended at 71 FR 19813, Apr. 18, 2006; 71 FR 66443, Nov. 15, 2006; 76 FR 5683, Feb. 2, 2011; 76 FR 8252, Feb. 11, 2011; 78 FR 42403, July 16, 2013; 78 FR 38817, June 28, 2013; 78 FR 61131, Oct. 2, 2013; 81 FR 34259, May 31, 2016; 81 FR 48578, July 25, 2016; 83 FR 12851, Mar. 26, 2018; 84 FR 65239, Nov. 26, 2019; 84 FR 65661, Nov. 29, 2019; 85 FR 66180, Oct. 16, 2020; 85 FR 72917, Nov. 16, 2020; 86 FR 2959, Jan. 14, 2021; 86 FR 10732, Feb. 23, 2021; 86 FR 38538, July 22, 2021]
+[69 FR 29205, May 21, 2004, as amended at 71 FR 19813, Apr. 18, 2006; 71 FR 66443, Nov. 15, 2006; 76 FR 5683, Feb. 2, 2011; 76 FR 8252, Feb. 11, 2011; 78 FR 42403, July 16, 2013; 78 FR 38817, June 28, 2013; 78 FR 61131, Oct. 2, 2013; 81 FR 34259, May 31, 2016; 81 FR 48578, July 25, 2016; 83 FR 12851, Mar. 26, 2018; 84 FR 65239, Nov. 26, 2019; 84 FR 65661, Nov. 29, 2019; 85 FR 66180, Oct. 16, 2020; 85 FR 72917, Nov. 16, 2020; 86 FR 2959, Jan. 14, 2021; 86 FR 10732, Feb. 23, 2021; 86 FR 38538, July 22, 2021; 87 FR 73412, Nov. 29, 2022]

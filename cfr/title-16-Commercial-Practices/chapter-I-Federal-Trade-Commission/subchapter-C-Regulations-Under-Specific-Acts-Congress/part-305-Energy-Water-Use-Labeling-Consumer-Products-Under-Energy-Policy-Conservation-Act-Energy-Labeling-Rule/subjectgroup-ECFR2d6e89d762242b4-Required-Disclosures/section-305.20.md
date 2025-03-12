@@ -1,7 +1,5 @@
 ##### § 305.20 Labeling for central air conditioners, heat pumps, and furnaces. #####
 
-Link to an amendment published at 86 FR 9283, Feb. 12, 2021.
-
 (a) *Layout.* All energy labels for central air conditioners, heat pumps, and furnaces (including boilers) shall use one size, similar colors, and typefaces with consistent positioning of headline, copy, and charts to maintain uniformity for immediate consumer recognition and readability. Trim size dimensions for all labels shall be as follows: width must be between 51/4 inches and 51/2 inches (13.34 cm. and 13.97 cm.); length must be between 73/8 inches (18.78 cm.) and 75/8 (19.34 cm.). Copy is to be set between 27 picas and 29 picas and copy page should be centered (right to left and top to bottom). Depth is variable but should follow closely the prototype labels appearing at the end of this part illustrating the basic layout. All positioning, spacing, type sizes, and line widths should be similar to and consistent with the prototype and sample labels in appendix L.
 
 (b) *Type style and setting.* The Arial series typeface or equivalent shall be used exclusively on the label. Specific sizes and faces to be used are indicated on the prototype labels. No hyphenation should be used in setting headline or copy text. Positioning and spacing should follow the prototypes closely. Generally, text must be set flush left with two points leading except where otherwise indicated. See the prototype labels for specific directions.
@@ -60,9 +58,9 @@ Federal law prohibits removal of this label before consumer purchase.
 
 (4) The model's capacity. Inclusion of capacity is optional at the discretion of the manufacturer or private labeler for all models except split-system labels, which may not disclose capacity.
 
-(5) The seasonal energy efficiency ratio (SEER) for the cooling function of central air conditioners as determined in accordance with this part. For the heating function, the heating seasonal performance factor (HSPF) shall be calculated for heating Region IV for the standardized design heating requirement nearest the capacity measured in the High Temperature Test in accordance with this part. In addition, as illustrated in the sample labels in appendix L to this part, the ratings for any split-system air conditioner condenser evaporator coil combinations shall be the minimum rating of all condenser-evaporator coil combinations certified to the Department of Energy pursuant to 10 CFR part 430. The ratings for any split-system heat pump condenser-evaporator coil combinations shall include the low and high ratings of all condenser-evaporator coil combinations certified to the Department of Energy pursuant to 10 CFR part 430.
+(5) The seasonal energy efficiency ratio 2 (SEER2) for the cooling function of central air conditioners as determined in accordance with this part. For the heating function, the heating seasonal performance factor 2 (HSPF2) shall be calculated for heating Region IV for the standardized design heating requirement nearest the capacity measured in the High Temperature Test in accordance with this part. In addition, as illustrated in the sample labels in appendix L to this part, the ratings for any split-system air conditioner condenser evaporator coil combinations shall be the minimum rating of all condenser-evaporator coil combinations certified to the Department of Energy pursuant to 10 CFR part 430. The ratings for any split-system heat pump condenser-evaporator coil combinations shall include the low and high ratings of all condenser-evaporator coil combinations certified to the Department of Energy pursuant to 10 CFR part 430.
 
-(6)(i) Each cooling-only central air conditioner label shall contain a range of comparability consisting of the lowest and highest SEER for all cooling-only central air conditioners consistent with sample label 7 in appendix L to this part.
+(6)(i) Each cooling-only central air conditioner label shall contain a range of comparability consisting of the lowest and highest SEER2 for all cooling-only central air conditioners consistent with sample label 7 in appendix L to this part.
 
 (ii) Each heat pump label, except as noted in paragraph (g)(6)(iii) of this section, shall contain two ranges of comparability. The first range shall consist of the lowest and highest seasonal energy efficiency ratios for the cooling side of all heat pumps consistent with sample label 8 in appendix L to this part. The second range shall consist of the lowest and highest heating seasonal performance factors for the heating side of all heat pumps consistent with sample label 8 in appendix L to this part.
 
@@ -76,15 +74,15 @@ For energy cost info, visit *productinfo.energy.gov.*
 
 (9) All labels on split-system condenser units must contain one of the following three statements:
 
-(i) For labels disclosing only the seasonal energy efficiency ratio for cooling, the statement should read:
+(i) For labels disclosing only the seasonal Energy Efficiency Ratio 2 for cooling, the statement should read:
 
 \* Your air conditioner's efficiency rating may be better depending on the coil your contractor installs.
 
-(ii) For labels disclosing both the seasonal energy efficiency ratio for cooling and the heating seasonal performance factor for heating, the statement should read:
+(ii) For labels disclosing both the seasonal Energy Efficiency Ratio 2 for cooling and the heating seasonal performance factor 2 for heating, the statement should read:
 
 This system's efficiency ratings depend on the coil your contractor installs with this unit. The heating efficiency rating varies slightly in different geographic regions. Ask your contractor for details.
 
-(iii) For labels disclosing only the heating seasonal performance factor for heating, the statement should read:
+(iii) For labels disclosing only the heating seasonal performance factor 2 for heating, the statement should read:
 
 This system's efficiency rating depends on the coil your contractor installs with this unit. The efficiency rating varies slightly in different geographic regions. Ask your contractor for details.
 
@@ -92,49 +90,57 @@ This system's efficiency rating depends on the coil your contractor installs wit
 
 Federal law prohibits removal of this label before consumer purchase.
 
-(11) For any single-package air conditioner with a minimum Energy Efficiency Ratio (EER) of at least 11.0, any split system central air conditioner with a rated cooling capacity of at least 45,000 Btu/h and minimum efficiency ratings of at least 14 SEER and 11.7 EER, and any split-system central air conditioners with a rated cooling capacity less than 45,000 Btu/h and minimum efficiency ratings of at least 14 SEER and 12.2 EER, the label must contain the following regional standards information:
+(11) For any single-package air conditioner with a minimum Energy Efficiency Ratio 2 (EER2) of at least 10.6, any split system central air conditioner with a rated cooling capacity of at least 45,000 Btu/h and minimum efficiency ratings of at least 13.8 SEER2 and 11.2 EER2 or at least 15.2 SEER2 and 9.8 EER2, and any split-system central air conditioners with a rated cooling capacity less than 45,000 Btu/h and minimum efficiency ratings of at least 14.3 SEER2 and 11.7 EER2 or at least 15.2 SEER2 and 9.8 EER2, the label must contain the following regional standards information:
 
 (i) A statement that reads:
 
-Notice Federal law allows this unit to be installed in all U.S. states and territories.
+Notice
+
+Federal law allows this unit to be installed in all U.S. states and territories.
 
 (ii) For split systems, a statement that reads:
 
-Energy Efficiency Ratio (EER): The installed system's minimum EERis \_\_\_\_.
+Energy Efficiency Ratio 2 (EER2): The installed system's minimum EER2 is \_\_\_\_.
 
 (iii) For single-package air conditioners, a statement that reads:
 
-Energy Efficiency Ratio (EER): This model's EER is [\_\_\_\_].
+Energy Efficiency Ratio 2 (EER2): This model's EER2 is [\_\_\_\_].
 
-(12) For any split system central air conditioner with a rated cooling capacity of at least 45,000 Btu/h and minimum efficiency ratings of at least 14 SEER but lower than 11.7 EER, and any split-system central air conditioners with a rated cooling capacity less than 45,000 Btu/h and minimum efficiency ratings of at least 14 SEER but lower than 12.2 EER, the label must contain the following regional standards information.
+(12) For any split system central air conditioner with a rated cooling capacity of at least 45,000 Btu/h and minimum efficiency ratings of at least 13.8 SEER2 but lower than 11.2 EER2 or at least 15.2 SEER2 but lower than 9.8 EER2, and any split-system central air conditioners with a rated cooling capacity less than 45,000 Btu/h and minimum efficiency ratings of at least 14.3 SEER2 but lower than 11.7 EER2 or at least 15.2 SEER2 but lower than 9.8 EER2, the label must contain the following regional standards information:
 
 (i) A statement that reads:
 
-Notice Federal law allows this unit to be installed only in: AK, AL, AR, CO, CT, DC, DE, FL, GA, HI, ID, IL, IA, IN, KS, KY, LA, MA, ME, MD, MI, MN, MO, MS, MT, NC, ND, NE., NH, NJ, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WV, WI, WY and U.S. territories. Federal law prohibits installation of this unit in other states.
+Notice
+
+Federal law allows this unit to be installed only in: AK, AL, AR, CO, CT, DC, DE, FL, GA, HI, ID, IL, IA, IN, KS, KY, LA, MA, ME, MD, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WV, WI, WY and U.S. territories. Federal law prohibits installation of this unit in other states.
 
 (ii) A map appropriate for the model and accompanying text as illustrated in the sample label 7 in appendix L of this part.
 
 (iii) A statement that reads:
 
-Energy Efficiency Ratio (EER): The installed system's minimum EERis \_\_\_\_.
+Energy Efficiency Ratio 2 (EER2): The installed system's minimum EER2 is \_\_\_\_.
 
-(13) For any split system central air conditioner with a minimum rated efficiency rating less than 14 SEER, the label must contain the following regional standards information:
+(13) For any split system central air conditioner with a rated cooling capacity of at least 45,000 Btu/h and a minimum rated efficiency rating less than 13.8 SEER2, and any split-system central air conditioners with a rated cooling capacity less than 45,000 Btu/h and minimum efficiency ratings of less than 14.3 SEER2, the label must contain the following regional standards information:
 
 (i) A statement that reads:
 
-Notice Federal law allows this unit to be installed only in: AK, CO, CT, ID, IL, IA, IN, KS, MA, ME, MI, MN, MO, MT, ND, NE., NH, NJ, NY, OH, OR, PA, RI, SD, UT, VT, WA, WV, WI, WY, and U.S. Territories. Federal law prohibits installation of this unit in other states.
+Notice
+
+Federal law allows this unit to be installed only in: AK, CO, CT, ID, IL, IA, IN, KS, MA, ME, MI, MN, MO, MT, ND, NE, NH, NJ, NY, OH, OR, PA, RI, SD, UT, VT, WA, WV, WI, and WY. Federal law prohibits installation of this unit in other states.
 
 (ii) A map appropriate for the model and accompanying text as illustrated in the sample label 7 in appendix L of this part.
 
 (iii) A statement that reads:
 
-Energy Efficiency Ratio (EER): The installed system's minimum EER is \_\_\_\_.
+Energy Efficiency Ratio 2 (EER2): The installed system's minimum EER2 is \_\_\_\_.
 
-(14) For any single-package air conditioner with a minimum EER below 11.0, the label must contain the following regional standards information:
+(14) For any single-package air conditioner with a minimum EER2 below 10.6, the label must contain the following regional standards information:
 
 (i) A statement that reads:
 
-Notice Federal law allows this unit to be installed only in: AK, AL, AR, CO, CT, DC, DE, FL, GA, HI, ID, IL, IA, IN, KS, KY, LA, MA, ME, MD, MI, MN, MO, MS, MT, NC, ND, NE., NH, NJ, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WV, WI, WY and U.S. territories. Federal law prohibits installation of this unit in other states.
+Notice
+
+Federal law allows this unit to be installed only in: AK, AL, AR, CO, CT, DC, DE, FL, GA, HI, ID, IL, IA, IN, KS, KY, LA, MA, ME, MD, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WV, WI, WY and U.S. territories. Federal law prohibits installation of this unit in other states.
 
 (ii) A map appropriate for the model and accompanying text as illustrated in the sample label 7 in appendix L of this part.
 
@@ -146,4 +152,4 @@ Notice Federal law allows this unit to be installed only in: AK, AL, AR, CO, CT,
 
 (iii) The manufacturer may include the ENERGY STAR logo on the label for certified products in a location consistent with the sample labels in appendix L to this part. The logo must be no larger than 1 inch by 3 inches in size. Only manufacturers that have signed a Memorandum of Understanding with the Department of Energy or the Environmental Protection Agency may add the ENERGY STAR logo to labels on qualifying covered products; such manufacturers may add the ENERGY STAR logo to labels only on those covered products that are contemplated by the Memorandum of Understanding.
 
-[72 FR 49969, Aug. 29, 2007, as amended at 78 FR 2208, Jan. 10, 2013; 78 FR 8374, Feb. 6, 2013; 78 FR 43982, July 23, 2013; 79 FR 77870, Dec. 29, 2014; 81 FR 63648, Sept. 15, 2016; 83 FR 7596, Feb. 22, 2018. Redesignated at 84 FR 58029, Oct. 30, 2019, as amended at 84 FR 58037, Oct. 30, 2019]
+[72 FR 49969, Aug. 29, 2007, as amended at 78 FR 2208, Jan. 10, 2013; 78 FR 8374, Feb. 6, 2013; 78 FR 43982, July 23, 2013; 79 FR 77870, Dec. 29, 2014; 81 FR 63648, Sept. 15, 2016; 83 FR 7596, Feb. 22, 2018. Redesignated at 84 FR 58029, Oct. 30, 2019, as amended at 84 FR 58037, Oct. 30, 2019; 86 FR 9283, Feb. 12, 2021]

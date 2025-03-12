@@ -1,7 +1,5 @@
 ##### § 125.1 What definitions are important to SBA's Government Contracting Programs? #####
 
-Link to an amendment published at 87 FR 73412, Nov. 29, 2022.
-
 *Chief Acquisition Officer* means the employee of a Federal agency designated as such pursuant to section 16(a) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(a)).
 
 *Commercial off-the-shelf item* has the same definition as set forth in 41 U.S.C. 101 (as renumbered) and Federal Acquisition Regulation (FAR) 2.101 (48 U.S.C. 2.101).
@@ -48,7 +46,7 @@ Link to an amendment published at 87 FR 73412, Nov. 29, 2022.
 
 *Reserve* means, for a Multiple Award Contract,
 
-(1) An acquisition conducted using full and open competition where the contracting officer makes -
+(1) An acquisition conducted using full and open competition where the contracting officer makes—
 
 (i) Two or more contract awards to any one type of small business concern (*e.g.,* small business, 8(a), HUBZone, SDVO SBC, WOSB or EDWOSB) and competes any orders solely amongst the specified types of small business concerns if the “rule of two” or any alternative set-aside requirements provided in the small business program have been met;
 
@@ -66,7 +64,7 @@ Link to an amendment published at 87 FR 73412, Nov. 29, 2022.
 
 *Separate smaller contract* means a contract that has previously been performed by one or more small business concerns or was suitable for award to one or more small business concerns.
 
-*Similarly situated entity* is a subcontractor that has the same small business program status as the prime contractor. This means that: For a HUBZone requirement, a subcontractor that is a certified HUBZone small business concern; for a small business set-aside, partial set-aside, or reserve a subcontractor that is a small business concern; for a SDVO small business requirement, a subcontractor that is a self-certified SDVO SBC; for an 8(a) requirement, a subcontractor that is an 8(a) certified Program Participant; for a WOSB or EDWOSB contract, a subcontractor that has complied with the requirements of part 127. In addition to sharing the same small business program status as the prime contractor, a similarly situated entity must also be small for the NAICS code that the prime contractor assigned to the subcontract the subcontractor will perform.
+*Similarly situated entity* means a subcontractor that has the same small business program status as the prime contractor. This means that: For a HUBZone contract, a subcontractor that is a certified HUBZone small business concern; for a small business set-aside, partial set-aside, or reserve, a subcontractor that is a small business concern; for a SDVOSB contract, a subcontractor that is a certified SDVOSB; for a VOSB contract, a subcontractor that is a certified VOSB; for an 8(a) contract, a subcontractor that is a certified 8(a) BD Program Participant; for a WOSB or EDWOSB contract, a subcontractor that is a certified WOSB or EDWOSB. In addition to sharing the same small business program status as the prime contractor, a similarly situated entity must also be small for the NAICS code that the prime contractor assigned to the subcontract the subcontractor will perform.
 
 *Single contract* means any contract or order (including those placed against a GSA Schedule Contract or an indefinite delivery, indefinite quantity contract) resulting in one or more awardee(s).
 
@@ -80,4 +78,4 @@ Link to an amendment published at 87 FR 73412, Nov. 29, 2022.
 
 (3) $2.5 million or more for all other agencies.
 
-[78 FR 61134, Oct. 2, 2013, as amended at 81 FR 34261, May 31, 2016; 84 FR 65239, Nov. 26, 2019; 87 FR 50927, Aug. 19, 2022]
+[78 FR 61134, Oct. 2, 2013, as amended at 81 FR 34261, May 31, 2016; 84 FR 65239, Nov. 26, 2019; 87 FR 50927, Aug. 19, 2022; 87 FR 73412, Nov. 29, 2022]

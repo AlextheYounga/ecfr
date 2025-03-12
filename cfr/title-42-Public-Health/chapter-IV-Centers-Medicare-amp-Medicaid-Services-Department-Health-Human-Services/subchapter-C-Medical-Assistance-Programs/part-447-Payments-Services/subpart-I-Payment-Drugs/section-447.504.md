@@ -1,7 +1,5 @@
 ##### § 447.504 Determination of average manufacturer price. #####
 
-Link to an amendment published at 85 FR 87102, Dec. 31, 2020.
-
 (a) *Definitions.* For the purpose of this section, the following definitions apply:
 
 *Average manufacturer price (AMP)* means, for a covered outpatient drug of a manufacturer (including those sold under an NDA approved under section 505(c) of the Federal Food, Drug, and Cosmetic Act), the average price paid to the manufacturer for the drug in the United States by wholesalers for drugs distributed to retail community pharmacies and retail community pharmacies that purchase drugs directly from the manufacturer.
@@ -72,15 +70,15 @@ Link to an amendment published at 85 FR 87102, Dec. 31, 2020.
 
 (24) Free goods, not contingent upon any purchase requirement.
 
-(25) Manufacturer coupons to a consumer redeemed by the manufacturer, agent, pharmacy or another entity acting on behalf of the manufacturer, but only to the extent that the full value of the coupon is passed on to the consumer and the pharmacy, agent, or other AMP-eligible entity does not receive any price concession.
+(25) Manufacturer coupons to a consumer redeemed by the manufacturer, agent, pharmacy or another entity acting on behalf of the manufacturer, but only to the extent that the manufacturer ensures the full value of the coupon is passed on to the consumer and the pharmacy, agent, or other AMP-eligible entity does not receive any price concession.
 
-(26) Manufacturer-sponsored programs that provide free goods, including but not limited to vouchers and patient assistance programs, but only to the extent that: The voucher or benefit of such a program is not contingent on any other purchase requirement; the full value of the voucher or benefit of such a program is passed on to the consumer; and the pharmacy, agent, or other AMP eligible entity does not receive any price concession.
+(26) Manufacturer-sponsored programs that provide free goods, including but not limited to vouchers and patient assistance programs, but only to the extent that the manufacturer ensures: the voucher or benefit of such a program is not contingent on any other purchase requirement; the full value of the voucher or benefit of such a program is passed on to the consumer; and the pharmacy, agent, or other AMP-eligible entity does not receive any price concession.
 
-(27) Manufacturer-sponsored drug discount card programs, but only to the extent that the full value of the discount is passed on to the consumer and the pharmacy, agent, or other AMP eligible entity does not receive any price concession.
+(27) Manufacturer-sponsored drug discount card programs, but only to the extent that the manufacturer ensures the full value of the discount is passed on to the consumer and the pharmacy, agent, or the other AMP-eligible entity does not receive any price concession.
 
-(28) Manufacturer-sponsored patient refund/rebate programs, to the extent that the manufacturer provides a full or partial refund or rebate to the patient for out-of-pocket costs and the pharmacy, agent, or other AMP eligible entity does not receive any price concessions.
+(28) Manufacturer-sponsored patient refund/rebate programs, to the extent that the manufacturer ensures that the manufacturer provides a full or partial refund or rebate to the patient for out-of-pocket costs and the pharmacy, agent, or other AMP-eligible entity does not receive any price concession.
 
-(29) Manufacturer copayment assistance programs, to the extent that the program benefits are provided entirely to the patient and the pharmacy, agent, or other AMP eligible entity does not receive any price concession.
+(29) Manufacturer copayment assistance programs, to the extent that the manufacturer ensures the program benefits are provided entirely to the patient and the pharmacy, agent, or other AMP-eligible entity does not receive any price concession
 
 (30) Any rebates, discounts, or price concessions provided to a designated State Pharmacy Assistance Program (SPAP).
 
@@ -132,15 +130,15 @@ Link to an amendment published at 85 FR 87102, Dec. 31, 2020.
 
 (12) Free goods, not contingent upon any purchase requirement.
 
-(13) Manufacturer coupons to a consumer redeemed by the manufacturer, agent, pharmacy or another entity acting on behalf of the manufacturer, but only to the extent that the full value of the coupon is passed on to the consumer and the pharmacy, agent, or other AMP eligible entity does not receive any price concession.
+(13) Manufacturer coupons to a consumer redeemed by the manufacturer, agent, pharmacy or another entity acting on behalf of the manufacturer, but only to the extent that the manufacturer ensures the full value of the coupon is passed on to the consumer and the pharmacy, agent, or other AMP-eligible entity does not receive any price concession
 
-(14) Manufacturer-sponsored programs that provide free goods, including, but not limited to vouchers and patient assistance programs, but only to the extent that the voucher or benefit of such a program is not contingent on any other purchase requirement; the full value of the voucher or benefit of such a program is passed on to the consumer; and the pharmacy, agent, or other AMP eligible entity does not receive any price concession.
+(14) Manufacturer-sponsored programs that provide free goods, including, but not limited to vouchers and patient assistance programs, but only to the extent that the manufacturer ensures: the voucher or benefit of such a program is not contingent on any other purchase requirement; the full value of the voucher or benefit of such a program is passed on to the consumer; and the pharmacy, agent, or other AMP-eligible entity does not receive any price concession.
 
-(15) Manufacturer-sponsored drug discount card programs, but only to the extent that the full value of the discount is passed on to the consumer and the pharmacy, agent, or other AMP eligible entity does not receive any price concession.
+(15) Manufacturer-sponsored drug discount card programs, but only to the extent that the manufacturer ensures the full value of the discount is passed on to the consumer and the pharmacy, agent, or the other AMP-eligible entity does not receive any price concession.
 
-(16) Manufacturer-sponsored patient refund/rebate programs, to the extent that the manufacturer provides a full or partial refund or rebate to the patient for out-of-pocket costs and the pharmacy, agent, or other AMP eligible entity does not receive any price concessions.
+(16) Manufacturer-sponsored patient refund/rebate programs, to the extent that the manufacturer ensures the manufacturer provided a full or partial refund or rebate to the patient for out-of-pocket costs and the pharmacy agent, or other AMP-eligible entity does not receive any price concession.
 
-(17) Manufacturer copayment assistance programs, to the extent that the program benefits are provided entirely to the patient and the pharmacy, agent, or other AMP eligible entity does not receive any price concession.
+(17) Manufacturer copayment assistance programs, to the extent that the manufacturer ensures the program benefits are provided entirely to the patient and the pharmacy agent, or other AMP-eligible entity does not receive any price concession
 
 (18) Sales to government pharmacies (for example, a Federal, State, county, or municipal-owned pharmacy).
 

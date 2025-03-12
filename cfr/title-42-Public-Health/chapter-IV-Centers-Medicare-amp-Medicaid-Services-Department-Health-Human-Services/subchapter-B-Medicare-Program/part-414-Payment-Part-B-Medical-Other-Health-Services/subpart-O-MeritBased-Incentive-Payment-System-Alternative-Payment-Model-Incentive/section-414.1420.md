@@ -1,7 +1,5 @@
 ##### § 414.1420 Other payer advanced APM criteria. #####
 
-Link to an amendment published at 87 FR 70230, Nov. 18, 2022.
-
 (a) *Other Payer Advanced APM criteria.* A payment arrangement with a payer other than Medicare is an Other Payer Advanced APM for a QP Performance Period if CMS determines that the arrangement meets the following criteria during the QP Performance Period:
 
 (1) Use of CEHRT, as described in paragraph (b) of this section;
@@ -44,7 +42,9 @@ Link to an amendment published at 87 FR 70230, Nov. 18, 2022.
 
 (i) For QP Performance Periods before January 1, 2020, use an outcome measure if there is an applicable outcome measure on the MIPS quality measure list. This criterion also applies for payment arrangements determined to be Other Payer Advanced APMs on or before January 1, 2020, but only for the Other Payer Advanced APM determination made with respect to the arrangement for the CY 2020 QP Performance Period (regardless of whether that determination is a single- or multi-year determination).
 
-(ii) For QP Performance Periods on or after January 1, 2020, in addition to the quality measure described under paragraph (c)(2) of this section, use at least one additional measure that is an outcome measure and meets the criteria in paragraph (c)(2)(ii) of this section if there is such an applicable outcome measure on the MIPS quality measure list.
+(ii) For QP Performance Periods on or after January 1, 2020, use at least one measure that is an outcome measure and meets the criteria in paragraph (c)(2)(ii) of this section if there is such an applicable outcome measure on the MIPS quality measure list.
+
+(4) A single quality measure that meets the criteria under both paragraphs (c)(2) and (3) of this section may be used to satisfy the requirements of paragraph (c)(1) of this section.
 
 (d) *Financial risk.* To be an Other Payer Advanced APM, except as described in paragraph (d)(7) of this section, a payment arrangement must meet either the financial risk standard under paragraph (d)(1) or (2) of this section and the nominal amount standard under paragraph (d)(3) or (4) of this section, or be a Medicaid Medical Home Model with criteria comparable to an expanded Medical Home Model under section 1115A(c) of the Act.
 
@@ -68,7 +68,7 @@ Link to an amendment published at 87 FR 70230, Nov. 18, 2022.
 
 (3) *Generally applicable nominal amount standard.* Except for payment arrangements described in paragraph (d)(2) of this section, the total amount an APM Entity potentially owes a payer or foregoes under a payment arrangement must be at least:
 
-(i) For QP Performance Periods 2019 through 2024, 8 percent of the total combined revenues from the payer to providers and other entities under the payment arrangement if financial risk is expressly defined in terms of revenue; or, 3 percent of the expected expenditures for which an APM Entity is responsible under the payment arrangement.
+(i) For QP Performance Periods beginning in 2023, 8 percent of the total combined revenues from the payer to providers and other entities under the payment arrangement if financial risk is expressly defined in terms of revenue; or, 3 percent of the expected expenditures for which an APM Entity is responsible under the payment arrangement.
 
 (ii) Except for risk arrangements described under paragraph (d)(2) of this section, the risk arrangement must have a marginal risk rate of at least 30 percent.
 
@@ -92,6 +92,6 @@ Link to an amendment published at 87 FR 70230, Nov. 18, 2022.
 
 (7) *Capitation.* A full capitation arrangement meets this Other Payer Advanced APM criterion. For purposes of paragraph (d)(3) of this section, a full capitation arrangement means a payment arrangement in which a per capita or otherwise predetermined payment is made under the payment arrangement for all items and services furnished to a population of beneficiaries during a fixed period of time, and no settlement is performed for the purposes of reconciling or sharing losses incurred or savings earned by the participant. Arrangements made directly between CMS and Medicare Advantage Organizations under the Medicare Advantage program (part 422 of this title) are not considered capitation arrangements for purposes of this paragraph.
 
-(8) *Aligned Other Payer Medical Home Model and Medicaid Medical Home Model 50 eligible clinician limit.* Notwithstanding paragraphs (d)(2) and (4) of this section, if an APM Entity participating in an Aligned Other Payer Medical Home Model or Medicaid Medical Home Model is owned and operated by an organization with 50 or more eligible clinicians whose Medicare billing rights have been reassigned to the TIN(s) of the organization(s) or any of the organization's subsidiary entities, the requirements of paragraphs (d)(1) and (3) of this section apply.
+(8) *Aligned Other Payer Medical Home Model and Medicaid Medical Home Model 50 eligible clinician limit.* Beginning with the 2023 QP Performance Period, notwithstanding paragraphs (d)(2) and (4) of this section, if an APM Entity participating in an Aligned Other Payer Medical Home Model or Medicaid Medical Home Model is comprised of 50 or more eligible clinicians is comprised of more than 50 eligible clinicians, as determined by the information submitted for any of the three QP determination dates (March 31, June 30, and August 31 of the QP Performance Period) as specified in § 414.1440(e), the requirements of paragraphs (d)(1) and (3) of this section apply.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53961, Nov. 16, 2017; 83 FR 23610, May 22, 2018; 83 FR 60090, Nov. 23, 2018; 84 FR 63200, Nov. 15, 2019]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53961, Nov. 16, 2017; 83 FR 23610, May 22, 2018; 83 FR 60090, Nov. 23, 2018; 84 FR 63200, Nov. 15, 2019; 87 FR 70230, Nov. 18, 2022]

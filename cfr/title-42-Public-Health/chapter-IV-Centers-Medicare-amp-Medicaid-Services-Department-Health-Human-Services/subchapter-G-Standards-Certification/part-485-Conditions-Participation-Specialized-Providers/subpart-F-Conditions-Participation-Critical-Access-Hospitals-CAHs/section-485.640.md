@@ -1,7 +1,5 @@
 ##### § 485.640 Condition of participation: Infection prevention and control and antibiotic stewardship programs. #####
 
-Link to an amendment published at 87 FR 72309, Nov. 23, 2022.
-
 The CAH must have active facility-wide programs, for the surveillance, prevention, and control of HAIs and other infectious diseases and for the optimization of antibiotic use through stewardship. The programs must demonstrate adherence to nationally recognized infection prevention and control guidelines, as well as to best practices for improving antibiotic use where applicable, and for reducing the development and transmission of HAIs and antibiotic-resistant organisms. Infection prevention and control problems and antibiotic use issues identified in the programs must be addressed in coordination with the facility-wide quality assessment and performance improvement (QAPI) program.
 
 (a) *Standard: Infection prevention and control program organization and policies.* The CAH must demonstrate that:
@@ -138,4 +136,14 @@ The CAH must have active facility-wide programs, for the surveillance, preventio
 
 (x) Contingency plans for staff who are not fully vaccinated for COVID-19.
 
-[84 FR 51827, Sept. 30, 2019, as amended at 85 FR 54873, Sept. 2, 2020; 85 FR 86304, Dec. 29, 2020; 86 FR 61623, Nov. 5, 2021; 87 FR 49410, Aug. 10, 2022]Editorial Note:At 85 FR 86304, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.
+(g) *Standard: Unified and integrated infection prevention and control and antibiotic stewardship programs for a CAH in a multi-facility system.* If a CAH is part of a system consisting of multiple separately certified hospitals, CAHs, and/or REHs using a system governing body that is legally responsible for the conduct of two or more hospitals, CAHs, and/or REHs, the system governing body can elect to have unified and integrated infection prevention and control and antibiotic stewardship programs for all of its member facilities after determining that such a decision is in accordance with all applicable state and local laws. The system governing body is responsible and accountable for ensuring that each of its separately certified CAHs meets all of the requirements of this section. Each separately certified CAH subject to the system governing body must demonstrate that:
+
+(1) The unified and integrated infection prevention and control and antibiotic stewardship programs are established in a manner that takes into account each member CAH's unique circumstances and any significant differences in patient populations and services offered in each CAH;
+
+(2) The unified and integrated infection prevention and control and antibiotic stewardship programs establish and implement policies and procedures to ensure that the needs and concerns of each of its separately certified CAHs, regardless of practice or location, are given due consideration;
+
+(3) The unified and integrated infection prevention and control and antibiotic stewardship programs have mechanisms in place to ensure that issues localized to particular CAHs are duly considered and addressed; and
+
+(4) A qualified individual (or individuals) with expertise in infection prevention and control and in antibiotic stewardship has been designated at the CAH as responsible for communicating with the unified infection prevention and control and antibiotic stewardship programs, for implementing and maintaining the policies and procedures governing infection prevention and control and antibiotic stewardship as directed by the unified infection prevention and control and antibiotic stewardship programs, and for providing education and training on the practical applications of infection prevention and control and antibiotic stewardship to CAH staff.
+
+[84 FR 51827, Sept. 30, 2019, as amended at 85 FR 54873, Sept. 2, 2020; 85 FR 86304, Dec. 29, 2020; 86 FR 61623, Nov. 5, 2021; 87 FR 49410, Aug. 10, 2022; 87 FR 72309, Nov. 23, 2022]Editorial Note:At 85 FR 86304, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.

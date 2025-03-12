@@ -1,7 +1,5 @@
 ##### § 660.50 Pacific Coast treaty Indian fisheries. #####
 
-Link to an amendment published at 87 FR 77015, Dec. 16, 2022.
-
 (a) *Pacific Coast treaty Indian tribes have treaty rights.* Pacific Coast treaty Indian tribes have treaty rights to harvest groundfish in their usual and accustomed fishing areas in U.S. waters. In 1994, the United States formally recognized that the four Washington coastal treaty Indian tribes (Makah, Quileute, Hoh, and Quinault) have treaty rights to fish for groundfish in the Pacific Ocean, and concluded that, in general terms, the quantification of those rights is 50 percent of the harvestable surplus of groundfish that pass through the tribes U&A fishing areas.
 
 (b) *Pacific Coast treaty Indian tribes.* For the purposes of this part, Pacific Coast treaty Indian tribes means the Hoh Indian Tribe, Makah Indian Tribe, Quileute Indian Tribe and the Quinault Indian Nation.
@@ -32,7 +30,7 @@ Link to an amendment published at 87 FR 77015, Dec. 16, 2022.
 
 (2) *Sablefish.* (i) The sablefish allocation to Pacific coast treaty Indian Tribes is 10 percent of the sablefish ACL for the area north of 36° N. lat. This allocation represents the total amount available to the treaty Indian fisheries before deductions for discard mortality.
 
-(ii) The Tribal allocation is 689.2 mt in 2021 and 656.6 mt in 2022 per year. This allocation is, for each year, 10 percent of the Monterey through Vancouver area (North of 36° N lat.) ACL. The Tribal allocation is reduced by 1.7 percent for estimated discard mortality.
+(ii) The Tribal allocation is 849 mt in 2023 and 778 mt in 2024 per year. This allocation is, for each year, 10 percent of the Monterey through Vancouver area (North of 36° N lat.) ACL. The Tribal allocation is reduced by 1.7 percent for estimated discard mortality.
 
 (3) *Lingcod.* Lingcod taken in the treaty fisheries are subject to a harvest guideline of 250 mt.
 
@@ -52,9 +50,9 @@ Link to an amendment published at 87 FR 77015, Dec. 16, 2022.
 
 (1) *Rockfish.* The tribes will require full retention of all overfished rockfish species and all other marketable rockfish species during treaty fisheries.
 
-(2) *Yelloweye rockfish* - are subject to a 100-lb (45-kg) trip limit.
+(2) *Yelloweye rockfish*—are subject to a 100-lb (45-kg) trip limit.
 
-(3) *Other rockfish* - (i) *Minor nearshore rockfish.* Minor nearshore rockfish are subject to a 300-lb (136-kg) trip limit per species or species group, or to the non-tribal limited entry trip limit for those species if those limits are less restrictive than 300 lb (136 kg) per trip. Limited entry trip limits for waters off Washington are specified in Table 1 (North) to subpart D, and Table 2 (North) to subpart E of this part.
+(3) *Other rockfish*—(i) *Minor nearshore rockfish.* Minor nearshore rockfish are subject to a 300-lb (136-kg) trip limit per species or species group, or to the non-tribal limited entry trip limit for those species if those limits are less restrictive than 300 lb (136 kg) per trip. Limited entry trip limits for waters off Washington are specified in Table 1 (North) to subpart D, and Table 2 (North) to subpart E of this part.
 
 (ii) *Minor shelf rockfish and minor slope rockfish.* Redstripe rockfish are subject to an 800 lb (363 kg) trip limit. Minor shelf (excluding redstripe rockfish), and minor slope rockfish groups are subject to a 300 lb (136 kg) trip limit per species or species group, or to the non-tribal limited entry fixed gear trip limit for those species if those limits are less restrictive than 300 lb (136 kg) per trip. Limited entry fixed gear trip limits are specified in Table 2 (North) to subpart E of this part.
 
@@ -70,4 +68,4 @@ Link to an amendment published at 87 FR 77015, Dec. 16, 2022.
 
 (h) *Salmon bycatch.* This fishery may be closed through automatic action at § 660.60(d)(1)(v).
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 75421, Dec. 3, 2010; 75 FR 82300, Dec. 30, 2010; 76 FR 27529, May 11, 2011; 76 FR 28903, May 19, 2011; 77 FR 28507, May 15, 2012; 78 FR 588, Jan. 3, 2013; 78 FR 26532, May 7, 2013; 79 FR 27204, May 13, 2014; 80 FR 12572, Mar. 10, 2015; 80 FR 27593, May 14, 2015; 81 FR 30208, May 16, 2016; 81 FR 36807, June 8, 2016; 82 FR 9639, Feb. 7, 2017; 82 FR 21321, May 8, 2017; 83 FR 22405, May 15, 2018; 83 FR 63991, Dec. 12, 2018; 84 FR 20584, May 10, 2019; 85 FR 36812, June 18, 2020; 85 FR 79893, Dec. 11, 2020; 86 FR 10867, Feb. 23, 2021; 86 FR 32809, June 23, 2021; 87 FR 33441, June 2, 2022]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 75421, Dec. 3, 2010; 75 FR 82300, Dec. 30, 2010; 76 FR 27529, May 11, 2011; 76 FR 28903, May 19, 2011; 77 FR 28507, May 15, 2012; 78 FR 588, Jan. 3, 2013; 78 FR 26532, May 7, 2013; 79 FR 27204, May 13, 2014; 80 FR 12572, Mar. 10, 2015; 80 FR 27593, May 14, 2015; 81 FR 30208, May 16, 2016; 81 FR 36807, June 8, 2016; 82 FR 9639, Feb. 7, 2017; 82 FR 21321, May 8, 2017; 83 FR 22405, May 15, 2018; 83 FR 63991, Dec. 12, 2018; 84 FR 20584, May 10, 2019; 85 FR 36812, June 18, 2020; 85 FR 79893, Dec. 11, 2020; 86 FR 10867, Feb. 23, 2021; 86 FR 32809, June 23, 2021; 87 FR 33441, June 2, 2022; 87 FR 77015, Dec. 16, 2022]

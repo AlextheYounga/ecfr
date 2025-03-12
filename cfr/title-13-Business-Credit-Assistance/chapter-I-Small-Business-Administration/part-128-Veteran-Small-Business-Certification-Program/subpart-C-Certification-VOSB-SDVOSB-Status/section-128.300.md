@@ -1,0 +1,3 @@
+##### § 128.300 How is a concern certified as a VOSB or SDVOSB? #####
+
+A concern must apply to SBA for certification as a VOSB or SDVOSB. The concern must submit evidence that it is a small business owned and controlled by one or more qualifying veterans. SBA will consider the information provided by the concern in order to determine whether the concern qualifies. If SBA determines that a concern meets the eligibility requirements of a VOSB or SDVOSB, it will notify the concern and designate the concern as a certified VOSB or SDVOSB in the certification database.

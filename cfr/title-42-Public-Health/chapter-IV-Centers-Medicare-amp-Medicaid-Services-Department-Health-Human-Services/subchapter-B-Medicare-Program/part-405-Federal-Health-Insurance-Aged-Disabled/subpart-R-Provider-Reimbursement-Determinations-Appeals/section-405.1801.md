@@ -1,7 +1,5 @@
 ##### § 405.1801 Introduction. #####
 
-Link to an amendment published at 87 FR 72284, Nov. 23, 2022.
-
 (a) *Definitions.* As used in this subpart:
 
 *Administrator* means the Administrator or Deputy Administrator of CMS.
@@ -50,11 +48,11 @@ Link to an amendment published at 87 FR 72284, Nov. 23, 2022.
 
 *Reviewing entity* means the contractor hearing officer(s), a CMS reviewing official, the Board, or the Administrator.
 
-(b) *General rules* - (1) *Providers.* In order to be paid for covered services furnished to Medicare beneficiaries, a provider must file a cost report with its contractor as specified in § 413.24 of this chapter. For purposes of this subpart, the term “provider” includes a hospital (as described in part 482 of this chapter), hospice program (as described in § 418.3 of this chapter), critical access hospital (CAH), comprehensive outpatient rehabilitation facility (CORF), renal dialysis facility, Federally qualified health center (FQHC), home health agency (HHA), rural health clinic (RHC), skilled nursing facility (SNF), and any other entity included under the Act. (FQHCs and RHCs are providers, for purposes of this subpart, effective with cost reporting periods beginning on or after October 1, 1991).
+(b) *General rules*—(1) *Providers.* In order to be paid for covered services furnished to Medicare beneficiaries, a provider must file a cost report with its contractor as specified in § 413.24 of this chapter. For purposes of this subpart, the term “provider” includes a hospital (as described in part 482 of this chapter), hospice program (as described in § 418.3 of this chapter), critical access hospital (CAH), comprehensive outpatient rehabilitation facility (CORF), renal dialysis facility, Federally qualified health center (FQHC), home health agency (HHA), rural health clinic (RHC), skilled nursing facility (SNF), and any other entity included under the Act. (FQHCs and RHCs are providers, for purposes of this subpart, effective with cost reporting periods beginning on or after October 1, 1991).
 
 (2) *Other nonprovider entities participating in Medicare Part A.* (i) Providers of services, as well as, other entities (including, but not limited to health maintenance organizations (HMOs) and competitive medical plans (CMPs) (as described in § 400.200 of this chapter)) may participate in the Medicare program, but do not qualify as providers under the Act or this subpart.
 
-(ii) Some of these nonprovider entities are required to file periodic cost reports and are paid on the basis of information furnished in these reports. Except as provided at § 413.200(g), these nonprovider entities may not obtain a contractor hearing or a Board hearing under section 1878 of the Act or this subpart.
+(ii) Some of these nonprovider entities are required to file periodic cost reports and are paid on the basis of information furnished in these reports. Except as provided at § 413.420(g) of this chapter, these nonprovider entities may not obtain a contractor hearing or a Board hearing under section 1878 of the Act or this subpart.
 
 (iii) Some other hearing will be available to these nonprovider entities, if the amount in controversy is at least $1,000.
 
@@ -74,10 +72,10 @@ Link to an amendment published at 87 FR 72284, Nov. 23, 2022.
 
 (3) If the last day of the designated time period is a Saturday, a Sunday, a Federal legal holiday (as enumerated in Rule 6(a) of the Federal Rules of Civil Procedure), or a day on which the reviewing entity is unable to conduct business in the usual manner, the deadline becomes the next day that is not one of the aforementioned days.
 
-(4) For purposes of paragraph (d) of this section, the reviewing entity is deemed to also include -
+(4) For purposes of paragraph (d) of this section, the reviewing entity is deemed to also include—
 
 (i) The contractor, if the contractor hearing officer(s) is not yet appointed (or none is currently presiding); and
 
 (ii) The Office of the Attorney Advisor.
 
-[39 FR 34515, Sept. 26, 1974. Redesignated at 42 FR 52826, Sept. 30, 1977, as amended at 48 FR 39834, Sept. 1, 1983; 48 FR 45773, Oct. 7, 1983; 49 FR 322, Jan. 3, 1984; 49 FR 23013, June 1, 1984; 51 FR 34793, Sept. 30, 1986; 61 FR 63749, Dec. 2, 1996; 73 FR 30243, May 23, 2008; 73 FR 49356, Aug. 21, 2008; 80 FR 70597, Nov. 13, 2015; 85 FR 59018, Sept. 18, 2020]
+[39 FR 34515, Sept. 26, 1974. Redesignated at 42 FR 52826, Sept. 30, 1977, as amended at 48 FR 39834, Sept. 1, 1983; 48 FR 45773, Oct. 7, 1983; 49 FR 322, Jan. 3, 1984; 49 FR 23013, June 1, 1984; 51 FR 34793, Sept. 30, 1986; 61 FR 63749, Dec. 2, 1996; 73 FR 30243, May 23, 2008; 73 FR 49356, Aug. 21, 2008; 80 FR 70597, Nov. 13, 2015; 85 FR 59018, Sept. 18, 2020; 87 FR 72284, Nov. 23, 2022]

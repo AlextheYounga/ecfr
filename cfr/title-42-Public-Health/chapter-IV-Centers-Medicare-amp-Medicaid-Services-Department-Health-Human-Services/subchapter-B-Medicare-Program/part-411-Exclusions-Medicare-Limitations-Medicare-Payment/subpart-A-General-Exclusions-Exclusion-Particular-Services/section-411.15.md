@@ -1,7 +1,5 @@
 ##### § 411.15 Particular services excluded from coverage. #####
 
-Link to an amendment published at 87 FR 70224, Nov. 18, 2022.
-
 The following services are excluded from coverage:
 
 (a) Routine physical checkups such as:
@@ -10,7 +8,7 @@ The following services are excluded from coverage:
 
 (2) Examinations required by insurance companies, business establishments, government agencies, or other third parties.
 
-(b) *Low vision aid exclusion* - (1) *Scope.* The scope of the eyeglass exclusion encompasses all devices irrespective of their size, form, or technological features that use one or more lens to aid vision or provide magnification of images for impaired vision.
+(b) *Low vision aid exclusion*—(1) *Scope.* The scope of the eyeglass exclusion encompasses all devices irrespective of their size, form, or technological features that use one or more lens to aid vision or provide magnification of images for impaired vision.
 
 (2) *Exceptions.* (i) Post-surgical prosthetic lenses customarily used during convalescence for eye surgery in which the lens of the eye was removed (for example, cataract surgery).
 
@@ -30,7 +28,7 @@ The following services are excluded from coverage:
 
 (ii) Cochlear implants and auditory brainstem implants that replace the function of cochlear structures or auditory nerve and provide electrical energy to auditory nerve fibers and other neural tissue via implanted electrode arrays.
 
-(e) *Immunizations, except for* -
+(e) *Immunizations, except for*—
 
 (1) Vaccinations or inoculations directly related to the treatment of an injury or direct exposure such as antirabies treatment, tetanus antitoxin or booster vaccine, botulin antitoxin, antivenom sera, or immune globulin;
 
@@ -48,13 +46,27 @@ The following services are excluded from coverage:
 
 (h) *Cosmetic surgery and related services,* except as required for the prompt repair of accidental injury or to improve the functioning of a malformed body member.
 
-(i) *Dental services* in connection with the care, treatment, filling, removal, or replacement of teeth, or structures directly supporting the teeth, *except for* inpatient hospital services in connection with such dental procedures when hospitalization is required because of -
+(i) *Dental services*—(1) *Basic rule. Dental services* in connection with the care, treatment, filling, removal, or replacement of teeth, or structures directly supporting the teeth.
 
-(1) The individual's underlying medical condition and clinical status; or
+(2) *Exception. Except f*or inpatient hospital services in connection with such dental procedures when hospitalization is required because of—
 
-(2) The severity of the dental procedures.1
+(i) The individual's underlying medical condition and clinical status; or
 
-1 Before July 1981, inpatient hospital care in connection with dental procedures was covered only when required by the patient's underlying medical condition and clinical status.
+(ii) The severity of the dental procedures.577
+
+577 Before July 1981, inpatient hospital care in connection with dental procedures was covered only when required by the patient's underlying medical condition and clinical status.
+
+(3) *Inapplicability.* (i) Dental services that are inextricably linked to, and substantially related and integral to the clinical success of, a certain covered medical service are not excluded; payment may be made under Medicare Parts A and B for services furnished in the inpatient or outpatient setting. Such services include, but are not limited to:
+
+(A) Dental or oral examination performed as part of a comprehensive workup in either the inpatient or outpatient setting prior to Medicare-covered organ transplant, cardiac valve replacement, or valvuloplasty procedures; and, medically necessary diagnostic and treatment services to eliminate an oral or dental infection prior to, or contemporaneously with, the organ transplant, cardiac valve replacement, or valvuloplasty procedure.
+
+(B) The reconstruction of a dental ridge performed as a result of and at the same time as the surgical removal of a tumor.
+
+(C) The stabilization or immobilization of teeth in connection with the reduction of a jaw fracture, and dental splints only when used in conjunction with covered treatment of a covered medical condition such as dislocated jaw joints.
+
+(D) The extraction of teeth to prepare the jaw for radiation treatment of neoplastic disease.
+
+(ii) Ancillary services and supplies furnished incident to covered dental services are not excluded, and Medicare payment may be made under Part A or Part B, as applicable, whether the service is performed in the inpatient or outpatient setting, including, but not limited to the administration of anesthesia, diagnostic x-rays, use of operating room, and other related procedures.
 
 (j) *Personal comfort services, except* as necessary for the palliation or management of terminal illness as provided in part 418 of this chapter. The use of a television set or a telephone are examples of personal *comfort* services.
 
@@ -92,7 +104,7 @@ The following services are excluded from coverage:
 
 (16) In the case of an annual wellness visit providing a personalized prevention plan, subject to the conditions and limitations specified in § 410.15 of this subpart.
 
-(l) *Foot care* - (1) *Basic rule.* Except as provided in paragraph (l)(2) of this section, any services furnished in connection with the following:
+(l) *Foot care*—(1) *Basic rule.* Except as provided in paragraph (l)(2) of this section, any services furnished in connection with the following:
 
 (i) *Routine foot care,* such as the cutting or removal of corns, or calluses, the trimming of nails, routine hygienic care (preventive maintenance care ordinarily within the realm of self care), and any service performed in the absence of localized illness, injury, or symptoms involving the feet.
 
@@ -104,13 +116,13 @@ The following services are excluded from coverage:
 
 (ii) Treatment of mycotic toenails may be covered if it is furnished no more often than every 60 days or the billing physician documents the need for more frequent treatment.
 
-(iii) The services listed in paragraph (l)(1) of this section are not excluded if they are furnished -
+(iii) The services listed in paragraph (l)(1) of this section are not excluded if they are furnished—
 
 (A) As an incident to, at the same time as, or as a necessary integral part of a primary covered procedure performed on the foot; or
 
 (B) As initial diagnostic services (regardless of the resulting diagnosis) in connection with a specific symptom or complaint that might arise from a condition whose treatment would be covered.
 
-(m) *Services to hospital patients* - (1) *Basic rule.* Except as provided in paragraph (m)(3) of this section, any service furnished to an inpatient of a hospital or to a hospital outpatient (as defined in § 410.2 of this chapter) during an encounter (as defined in § 410.2 of this chapter) by an entity other than the hospital unless the hospital has an arrangement (as defined in § 409.3 of this chapter) with that entity to furnish that particular service to the hospital's patients. As used in this paragraph (m)(1), the term “hospital” includes a CAH.
+(m) *Services to hospital patients*—(1) *Basic rule.* Except as provided in paragraph (m)(3) of this section, any service furnished to an inpatient of a hospital or to a hospital outpatient (as defined in § 410.2 of this chapter) during an encounter (as defined in § 410.2 of this chapter) by an entity other than the hospital unless the hospital has an arrangement (as defined in § 409.3 of this chapter) with that entity to furnish that particular service to the hospital's patients. As used in this paragraph (m)(1), the term “hospital” includes a CAH.
 
 (2) *Scope of exclusion.* Services subject to exclusion from coverage under the provisions of this paragraph (m) include, but are not limited to, clinical laboratory services; pacemakers and other prostheses and prosthetic devices (other than dental) that replace all or part of an internal body organ (for example, intraocular lenses); artificial limbs, knees, and hips; equipment and supplies covered under the prosthetic device benefits; and services incident to a physician service.
 
@@ -138,7 +150,7 @@ The following services are excluded from coverage:
 
 (2) Furnished in accordance with the coverage requirements in § 405.211(b).
 
-(p) *Services furnished to SNF residents* - (1) *Basic rule.* Except as provided in paragraph (p)(2) of this section, any service furnished to a resident of an SNF during a covered Part A stay by an entity other than the SNF, unless the SNF has an arrangement (as defined in § 409.3 of this chapter) with that entity to furnish that particular service to the SNF's residents. Services subject to exclusion under this paragraph include, but are not limited to -
+(p) *Services furnished to SNF residents*—(1) *Basic rule.* Except as provided in paragraph (p)(2) of this section, any service furnished to a resident of an SNF during a covered Part A stay by an entity other than the SNF, unless the SNF has an arrangement (as defined in § 409.3 of this chapter) with that entity to furnish that particular service to the SNF's residents. Services subject to exclusion under this paragraph include, but are not limited to—
 
 (i) Any physical, occupational, or speech-language therapy services, regardless of whether the services are furnished by (or under the supervision of) a physician or other health care professional, and regardless of whether the resident who receives the services is in a covered Part A stay; and
 
@@ -182,7 +194,7 @@ The following services are excluded from coverage:
 
 (xviii) Those RHC and FQHC services that are described in § 405.2411(b)(2) of this chapter.
 
-(3) *SNF resident defined.* For purposes of this paragraph, a beneficiary who is admitted to a Medicare-participating SNF is considered to be a resident of the SNF for the duration of the beneficiary's covered Part A stay. In addition, for purposes of the services described in paragraph (p)(1)(i) of this section, a beneficiary who is admitted to a Medicare-participating SNF is considered to be a resident of the SNF regardless of whether the beneficiary is in a covered Part A stay. Whenever the beneficiary leaves the facility, the beneficiary's status as an SNF resident for purposes of this paragraph (along with the SNF's responsibility to furnish or make arrangements for the services described in paragraph (p)(1) of this section) ends when one of the following events occurs -
+(3) *SNF resident defined.* For purposes of this paragraph, a beneficiary who is admitted to a Medicare-participating SNF is considered to be a resident of the SNF for the duration of the beneficiary's covered Part A stay. In addition, for purposes of the services described in paragraph (p)(1)(i) of this section, a beneficiary who is admitted to a Medicare-participating SNF is considered to be a resident of the SNF regardless of whether the beneficiary is in a covered Part A stay. Whenever the beneficiary leaves the facility, the beneficiary's status as an SNF resident for purposes of this paragraph (along with the SNF's responsibility to furnish or make arrangements for the services described in paragraph (p)(1) of this section) ends when one of the following events occurs—
 
 (i) The beneficiary is admitted as an inpatient to a Medicare-participating hospital or CAH, or as a resident to another SNF;
 

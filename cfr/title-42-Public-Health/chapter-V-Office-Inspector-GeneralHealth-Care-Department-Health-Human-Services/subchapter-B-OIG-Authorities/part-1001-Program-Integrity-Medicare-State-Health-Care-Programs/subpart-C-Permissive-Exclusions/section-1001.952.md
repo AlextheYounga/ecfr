@@ -1,12 +1,10 @@
 ##### § 1001.952 Exceptions. #####
 
-Link to an amendment published at 85 FR 76730, Nov. 30, 2020.This amendment was corrected and a portion was delayed until Mar. 22, 2021, at 86 FR 7815, Feb. 2, 2021.Link to a correction published at 86 FR 7815, Feb. 2, 2021.This amendment was delayed until Jan. 1, 2023, at 86 FR 10181, Feb. 19, 2021.These amendments and corrections were further delayed until Jan. 1, 2023, at 86 FR 15076, Mar. 22, 2021.
-
 The following payment practices shall not be treated as a criminal offense under section 1128B of the Act and shall not serve as the basis for an exclusion:
 
 (a) *Investment interests.* As used in section 1128B of the Act, “remuneration” does not include any payment that is a return on an investment interest, such as a dividend or interest income, made to an investor as long as all of the applicable standards are met within one of the following three categories of entities:
 
-(1) If, within the previous fiscal year or previous 12 month period, the entity possesses more than $50,000,000 in undepreciated net tangible assets (based on the net acquisition cost of purchasing such assets from an unrelated entity) related to the furnishing of health care items and services, all of the following five standards must be met -
+(1) If, within the previous fiscal year or previous 12 month period, the entity possesses more than $50,000,000 in undepreciated net tangible assets (based on the net acquisition cost of purchasing such assets from an unrelated entity) related to the furnishing of health care items and services, all of the following five standards must be met—
 
 (i) With respect to an investment interest that is an equity security, the equity security must be registered with the Securities and Exchange Commission under 15 U.S.C. 781 (b) or (g).
 
@@ -18,7 +16,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (v) The amount of payment to an investor in return for the investment interest must be directly proportional to the amount of the capital investment of that investor.
 
-(2) If the entity possesses investment interests that are held by either active or passive investors, all of the following eight applicable standards must be met -
+(2) If the entity possesses investment interests that are held by either active or passive investors, all of the following eight applicable standards must be met—
 
 (i) No more than 40 percent of the value of the investment interests of each class of investment interests may be held in the previous fiscal year or previous 12 month period by investors who are in a position to make or influence referrals to, furnish items or services to, or otherwise generate business for the entity. (For purposes of paragraph (a)(2)(i) of this section, equivalent classes of equity investments may be combined, and equivalent classes of debt instruments may be combined.)
 
@@ -36,7 +34,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (viii) The amount of payment to an investor in return for the investment interest must be directly proportional to the amount of the capital investment (including the fair market value of any pre-operational services rendered) of that investor.
 
-(3)(i) If the entity possesses investment interests that are held by either active or passive investors and is located in an underserved area, all of the following eight standards must be met -
+(3)(i) If the entity possesses investment interests that are held by either active or passive investors and is located in an underserved area, all of the following eight standards must be met—
 
 (A) No more than 50 percent of the value of the investment interests of each class of investments may be held in the previous fiscal year or previous 12-month period by investors who are in a position to make or influence referrals to, furnish items or services to, or otherwise generate business for, the entity. (For purposes of paragraph (a)(3)(i)(A) of this section, equivalent classes of equity investments may be combined, and equivalent classes of debt instruments may be combined.)
 
@@ -62,7 +60,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (4) For purposes of paragraph (a) of this section, the following terms apply. *Active investor* means an investor either who is responsible for the day-to-day management of the entity and is a bona fide general partner in a partnership under the Uniform Partnership Act or who agrees in writing to undertake liability for the actions of the entity's agents acting within the scope of their agency. *Investment interest* means a security issued by an entity, and may include the following classes of investments: shares in a corporation, interests or units in a partnership or limited liability company, bonds, debentures, notes, or other debt instruments. *Investor* means an individual or entity either who directly holds an investment interest in an entity, or who holds such investment interest indirectly by, including but not limited to, such means as having a family member hold such investment interest or holding a legal or beneficial interest in another entity (such as a trust or holding company) that holds such investment interest. *Passive investor* means an investor who is not an active investor, such as a limited partner in a partnership under the Uniform Partnership Act, a shareholder in a corporation, or a holder of a debt security. *Underserved area* means any defined geographic area that is designated as a Medically Underserved Area (MUA) in accordance with regulations issued by the Department. *Medically underserved population* means a Medically Underserved Population (MUP) in accordance with regulations issued by the Department.
 
-(b) *Space rental.* As used in section 1128B of the Act, “remuneration” does not include any payment made by a lessee to a lessor for the use of premises, as long as all of the following six standards are met -
+(b) *Space rental.* As used in section 1128B of the Act, “remuneration” does not include any payment made by a lessee to a lessor for the use of premises, as long as all of the following six standards are met—
 
 (1) The lease agreement is set out in writing and signed by the parties.
 
@@ -76,7 +74,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (6) The aggregate space rented does not exceed that which is reasonably necessary to accomplish the commercially reasonable business purpose of the rental. Note that for purposes of paragraph (b) of this section, the term *fair market value* means the value of the rental property for general commercial purposes, but shall not be adjusted to reflect the additional value that one party (either the prospective lessee or lessor) would attribute to the property as a result of its proximity or convenience to sources of referrals or business otherwise generated for which payment may be made in whole or in part under Medicare, Medicaid and all other Federal health care programs.
 
-(c) *Equipment rental.* As used in section 1128B of the Act, “remuneration” does not include any payment made by a lessee of equipment to the lessor of the equipment for the use of the equipment, as long as all of the following six standards are met -
+(c) *Equipment rental.* As used in section 1128B of the Act, “remuneration” does not include any payment made by a lessee of equipment to the lessor of the equipment for the use of the equipment, as long as all of the following six standards are met—
 
 (1) The lease agreement is set out in writing and signed by the parties.
 
@@ -168,7 +166,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (C) Based solely on patient satisfaction or patient convenience measures.
 
-(e) *Sale of practice.* (1) As used in section 1128B of the Act, “remuneration” does not include any payment made to a practitioner by another practitioner where the former practitioner is selling his or her practice to the latter practitioner, as long as both of the following two standards are met -
+(e) *Sale of practice.* (1) As used in section 1128B of the Act, “remuneration” does not include any payment made to a practitioner by another practitioner where the former practitioner is selling his or her practice to the latter practitioner, as long as both of the following two standards are met—
 
 (i) The period from the date of the first agreement pertaining to the sale to the completion of the sale is not more than one year.
 
@@ -188,7 +186,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (B) Will satisfy the conditions of the practitioner recruitment safe harbor in accordance with paragraph (n) of this section.
 
-(f) *Referral services.* As used in section 1128B of the Act, “remuneration” does not include any payment or exchange of anything of value between an individual or entity (“participant”) and another entity serving as a referral service (“referral service”), as long as all of the following four standards are met -
+(f) *Referral services.* As used in section 1128B of the Act, “remuneration” does not include any payment or exchange of anything of value between an individual or entity (“participant”) and another entity serving as a referral service (“referral service”), as long as all of the following four standards are met—
 
 (1) The referral service does not exclude as a participant in the referral service any individual or entity who meets the qualifications for participation.
 
@@ -196,7 +194,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (3) The referral service imposes no requirements on the manner in which the participant provides services to a referred person, except that the referral service may require that the participant charge the person referred at the same rate as it charges other persons not referred by the referral service, or that these services be furnished free of charge or at reduced charge.
 
-(4) The referral service makes the following five disclosures to each person seeking a referral, with each such disclosure maintained by the referral service in a written record certifying such disclosure and signed by either such person seeking a referral or by the individual making the disclosure on behalf of the referral service -
+(4) The referral service makes the following five disclosures to each person seeking a referral, with each such disclosure maintained by the referral service in a written record certifying such disclosure and signed by either such person seeking a referral or by the individual making the disclosure on behalf of the referral service—
 
 (i) The manner in which it selects the group of participants in the referral service to which it could make a referral;
 
@@ -236,11 +234,11 @@ The following payment practices shall not be treated as a criminal offense under
 
 (h) *Discounts.* As used in section 1128B of the Act, “remuneration” does not include a discount, as defined in paragraph (h)(5) of this section, on an item or service for which payment may be made in whole or in part under Medicare, Medicaid or other Federal health care programs for a buyer as long as the buyer complies with the applicable standards of paragraph (h)(1) of this section; a seller as long as the seller complies with the applicable standards of paragraph (h)(2) of this section; and an offeror of a discount who is not a seller under paragraph (h)(2) of this section so long as such offeror complies with the applicable standards of paragraph (h)(3) of this section.
 
-(1) With respect to the following three categories of buyers, the buyer must comply with all of the applicable standards within one of the three following categories -
+(1) With respect to the following three categories of buyers, the buyer must comply with all of the applicable standards within one of the three following categories—
 
 (i) If the buyer is an entity which is a health maintenance organization (HMO) or a competitive medical plan (CMP) acting in accordance with a risk contract under section 1876(g) or 1903(m) of the Act, or under another State health care program, it need not report the discount except as otherwise may be required under the risk contract.
 
-(ii) If the buyer is an entity which reports its costs on a cost report required by the Department or a State health care program, it must comply with all of the following four standards -
+(ii) If the buyer is an entity which reports its costs on a cost report required by the Department or a State health care program, it must comply with all of the following four standards—
 
 (A) The discount must be earned based on purchases of that same good or service bought within a single fiscal year of the buyer;
 
@@ -250,39 +248,39 @@ The following payment practices shall not be treated as a criminal offense under
 
 (D) the buyer must provide, upon request by the Secretary or a State agency, information provided by the seller as specified in paragraph (h)(2)(ii) of this section, or information provided by the offeror as specified in paragraph (h)(3)(ii) of this section.
 
-(iii) If the buyer is an individual or entity in whose name a claim or request for payment is submitted for the discounted item or service and payment may be made, in whole or in part, under Medicare, Medicaid or other Federal health care programs (not including individuals or entities defined as buyers in paragraph (h)(1)(i) or (h)(1)(ii) of this section), the buyer must comply with both of the following standards -
+(iii) If the buyer is an individual or entity in whose name a claim or request for payment is submitted for the discounted item or service and payment may be made, in whole or in part, under Medicare, Medicaid or other Federal health care programs (not including individuals or entities defined as buyers in paragraph (h)(1)(i) or (h)(1)(ii) of this section), the buyer must comply with both of the following standards—
 
 (A) The discount must be made at the time of the sale of the good or service or the terms of the rebate must be fixed and disclosed in writing to the buyer at the time of the initial sale of the good or service; and
 
 (B) the buyer (if submitting the claim) must provide, upon request by the Secretary or a State agency, information provided by the seller as specified in paragraph (h)(2)(iii)(B) of this section, or information provided by the offeror as specified in paragraph (h)(3)(iii)(A) of this section.
 
-(2) The seller is an individual or entity that supplies an item or service for which payment may be made, in whole or in part, under Medicare, Medicaid or other Federal health care programs to the buyer and who permits a discount to be taken off the buyer's purchase price. The seller must comply with all of the applicable standards within one of the following three categories -
+(2) The seller is an individual or entity that supplies an item or service for which payment may be made, in whole or in part, under Medicare, Medicaid or other Federal health care programs to the buyer and who permits a discount to be taken off the buyer's purchase price. The seller must comply with all of the applicable standards within one of the following three categories—
 
 (i) If the buyer is an entity which is an HMO a CMP acting in accordance with a risk contract under section 1876(g) or 1903(m) of the Act, or under another State health care program, the seller need not report the discount to the buyer for purposes of this provision.
 
-(ii) If the buyer is an entity that reports its costs on a cost report required by the Department or a State agency, the seller must comply with either of the following two standards -
+(ii) If the buyer is an entity that reports its costs on a cost report required by the Department or a State agency, the seller must comply with either of the following two standards—
 
 (A) Where a discount is required to be reported to Medicare or a State health care program under paragraph (h)(1) of this section, the seller must fully and accurately report such discount on the invoice, coupon or statement submitted to the buyer; inform the buyer in a manner that is reasonably calculated to give notice to the buyer of its obligations to report such discount and to provide information upon request under paragraph (h)(1) of this section; and refrain from doing anything that would impede the buyer from meeting its obligations under this paragraph; or
 
 (B) Where the value of the discount is not known at the time of sale, the seller must fully and accurately report the existence of a discount program on the invoice, coupon or statement submitted to the buyer; inform the buyer in a manner reasonably calculated to give notice to the buyer of its obligations to report such discount and to provide information upon request under paragraph (h)(1) of this section; when the value of the discount becomes known, provide the buyer with documentation of the calculation of the discount identifying the specific goods or services purchased to which the discount will be applied; and refrain from doing anything which would impede the buyer from meeting its obligations under this paragraph.
 
-(iii) If the buyer is an individual or entity not included in paragraph (h)(2)(i) or (h)(2)(ii) of this section, the seller must comply with either of the following two standards -
+(iii) If the buyer is an individual or entity not included in paragraph (h)(2)(i) or (h)(2)(ii) of this section, the seller must comply with either of the following two standards—
 
 (A) Where the seller submits a claim or request for payment on behalf of the buyer and the item or service is separately claimed, the seller must provide, upon request by the Secretary or a State agency, information provided by the offeror as specified in paragraph (h)(3)(iii)(A) of this section; or
 
 (B) Where the buyer submits a claim, the seller must fully and accurately report such discount on the invoice, coupon or statement submitted to the buyer; inform the buyer in a manner reasonably calculated to give notice to the buyer of its obligations to report such discount and to provide information upon request under paragraph (h)(1) of this section; and refrain from doing anything that would impede the buyer from meeting its obligations under this paragraph.
 
-(3) The offeror of a discount is an individual or entity who is not a seller under paragraph (h)(2) of this section, but promotes the purchase of an item or service by a buyer under paragraph (h)(1) of this section at a reduced price for which payment may be made, in whole or in part, under Medicare, Medicaid or other Federal health care programs. The offeror must comply with all of the applicable standards within the following three categories -
+(3) The offeror of a discount is an individual or entity who is not a seller under paragraph (h)(2) of this section, but promotes the purchase of an item or service by a buyer under paragraph (h)(1) of this section at a reduced price for which payment may be made, in whole or in part, under Medicare, Medicaid or other Federal health care programs. The offeror must comply with all of the applicable standards within the following three categories—
 
 (i) If the buyer is an entity which is an HMO or a CMP acting in accordance with a risk contract under section 1876(g) or 1903(m) of the Act, or under another State health care program, the offeror need not report the discount to the buyer for purposes of this provision.
 
-(ii) If the buyer is an entity that reports its costs on a cost report required by the Department or a State agency, the offeror must comply with the following two standards -
+(ii) If the buyer is an entity that reports its costs on a cost report required by the Department or a State agency, the offeror must comply with the following two standards—
 
 (A) The offeror must inform the buyer in a manner reasonably calculated to give notice to the buyer of its obligations to report such a discount and to provide information upon request under paragraph (h)(1) of this section; and
 
 (B) The offeror of the discount must refrain from doing anything that would impede the buyer's ability to meet its obligations under this paragraph.
 
-(iii) If the buyer is an individual or entity in whose name a request for payment is submitted for the discounted item or service and payment may be made, in whole or in part, under Medicare, Medicaid or other Federal health care programs (not including individuals or entities defined as buyers in paragraph (h)(1)(i) or (h)(1)(ii) of this section), the offeror must comply with the following two standards -
+(iii) If the buyer is an individual or entity in whose name a request for payment is submitted for the discounted item or service and payment may be made, in whole or in part, under Medicare, Medicaid or other Federal health care programs (not including individuals or entities defined as buyers in paragraph (h)(1)(i) or (h)(1)(ii) of this section), the offeror must comply with the following two standards—
 
 (A) The offeror must inform the individual or entity submitting the claim or request for payment in a manner reasonably calculated to give notice to the individual or entity of its obligations to report such a discount and to provide information upon request under paragraphs (h)(1) and (h)(2) of this section; and
 
@@ -290,7 +288,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (4) For purposes of this paragraph, a *rebate* is any discount the terms of which are fixed and disclosed in writing to the buyer at the time of the initial purchase to which the discount applies, but which is not given at the time of sale.
 
-(5) For purposes of this paragraph, the term *discount* means a reduction in the amount a buyer (who buys either directly or through a wholesaler or a group purchasing organization) is charged for an item or service based on an arms-length transaction. The term *discount* does not include -
+(5) For purposes of this paragraph, the term *discount* means a reduction in the amount a buyer (who buys either directly or through a wholesaler or a group purchasing organization) is charged for an item or service based on an arms-length transaction. The term *discount* does not include—
 
 (i) Cash payment or cash equivalents (except that rebates as defined in paragraph (h)(4) of this section may be in the form of a check);
 
@@ -302,15 +300,25 @@ The following payment practices shall not be treated as a criminal offense under
 
 (v) Warranties;
 
-(vi) Services provided in accordance with a personal or management services contract; or
+(vi) Services provided in accordance with a personal or management services contract;
 
-(vii) Other remuneration, in cash or in kind, not explicitly described in paragraph (h)(5) of this section.
+(vii) Other remuneration, in cash or in kind, not explicitly described in this paragraph (h)(5); or
+
+(viii) A reduction in price or other remuneration in connection with the sale or purchase of a prescription pharmaceutical product from a manufacturer to a plan sponsor under Medicare Part D either directly to the plan sponsor under Medicare Part D, or indirectly through a pharmacy benefit manager acting under contract with a plan sponsor under Medicare Part D, unless it is a price reduction or rebate that is required by law.
+
+(6) For purposes of this paragraph (h), the term manufacturer carries the meaning ascribed to it in Social Security Act section 1927(k)(5).
+
+(7) For purposes of this paragraph (h), the terms wholesaler and distributor are used interchangeably and carry the same meaning as the term “wholesaler” defined in Social Security Act section 1927(k)(11).
+
+(8) For purposes of this paragraph (h), the term pharmacy benefit manager or PBM means any entity that provides pharmacy benefit management on behalf of a health plan that manages prescription drug coverage.
+
+(9) For purposes of this paragraph (h), a prescription pharmaceutical product means either a drug or biological product as those terms are described in Social Security Act section 1927(k)(2)(A), (B), and (C).
 
 (i) *Employees.* As used in section 1128B of the Act, “remuneration” does not include any amount paid by an employer to an employee, who has a bona fide employment relationship with the employer, for employment in the furnishing of any item or service for which payment may be made in whole or in part under Medicare, Medicaid or other Federal health care programs. For purposes of paragraph (i) of this section, the term *employee* has the same meaning as it does for purposes of 26 U.S.C. 3121(d)(2).
 
-(j) *Group purchasing organizations.* As used in section 1128B of the Act, “remuneration” does not include any payment by a vendor of goods or services to a group purchasing organization (GPO), as part of an agreement to furnish such goods or services to an individual or entity as long as both of the following two standards are met -
+(j) *Group purchasing organizations.* As used in section 1128B of the Act, “remuneration” does not include any payment by a vendor of goods or services to a group purchasing organization (GPO), as part of an agreement to furnish such goods or services to an individual or entity as long as both of the following two standards are met—
 
-(1) The GPO must have a written agreement with each individual or entity, for which items or services are furnished, that provides for either of the following -
+(1) The GPO must have a written agreement with each individual or entity, for which items or services are furnished, that provides for either of the following—
 
 (i) The agreement states that participating vendors from which the individual or entity will purchase goods or services will pay a fee to the GPO of 3 percent or less of the purchase price of the goods or services provided by that vendor.
 
@@ -354,13 +362,13 @@ The following payment practices shall not be treated as a criminal offense under
 
 (i) If the health plan is a risk-based health maintenance organization, competitive medical plan, prepaid health plan, or other health plan under contract with CMS or a State health care program and operating in accordance with section 1876(g) or 1903(m) of the Act, under a Federal statutory demonstration authority, or under other Federal statutory or regulatory authority, it must offer the same increased coverage or reduced cost-sharing or premium amounts to all Medicare or State health care program enrollees covered by the contract unless otherwise approved by CMS or by a State health care program.
 
-(ii) If the health plan is a health maintenance organization, competitive medical plan, health care prepayment plan, prepaid health plan or other health plan that has executed a contract or agreement with CMS or with a State health care program to receive payment for enrollees on a reasonable cost or similar basis, it must comply with both of the following two standards -
+(ii) If the health plan is a health maintenance organization, competitive medical plan, health care prepayment plan, prepaid health plan or other health plan that has executed a contract or agreement with CMS or with a State health care program to receive payment for enrollees on a reasonable cost or similar basis, it must comply with both of the following two standards—
 
 (A) The health plan must offer the same increased coverage or reduced cost-sharing or premium amounts to all Medicare or State health care program enrollees covered by the contract or agreement unless otherwise approved by CMS or by a State health care program; and
 
 (B) The health plan must not claim the costs of the increased coverage or the reduced cost-sharing or premium amounts as a bad debt for payment purposes under Medicare or a State health care program or otherwise shift the burden of the increased coverage or reduced cost-sharing or premium amounts to the extent that increased payments are claimed from Medicare or a State health care program.
 
-(2) For purposes of paragraph (l) of this section, the terms -
+(2) For purposes of paragraph (l) of this section, the terms—
 
 *Contract health care provider* means an individual or entity under contract with a health plan to furnish items or services to enrollees who are covered by the health plan, Medicare, or a State health care program.
 
@@ -380,7 +388,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (i) If the health plan is a risk-based health maintenance organization, competitive medical plan, or prepaid health plan under contract with CMS or a State agency and operating in accordance with section 1876(g) or 1903(m) of the Act, under a Federal statutory demonstration authority, or under other Federal statutory or regulatory authority, the contract health care provider must not claim payment in any form from the Department or the State agency for items or services furnished in accordance with the agreement except as approved by CMS or the State health care program, or otherwise shift the burden of such an agreement to the extent that increased payments are claimed from Medicare or a State health care program.
 
-(ii) If the health plan is a health maintenance organization, competitive medical plan, health care prepayment plan, prepaid health plan, or other health plan that has executed a contract or agreement with CMS or a State health care program to receive payment for enrollees on a reasonable cost or similar basis, the health plan and contract health care provider must comply with all of the following four standards -
+(ii) If the health plan is a health maintenance organization, competitive medical plan, health care prepayment plan, prepaid health plan, or other health plan that has executed a contract or agreement with CMS or a State health care program to receive payment for enrollees on a reasonable cost or similar basis, the health plan and contract health care provider must comply with all of the following four standards—
 
 (A) The term of the agreement between the health plan and the contract health care provider must be for not less than one year;
 
@@ -390,7 +398,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (D) The contract health care provider must not claim payment in any form from the Department or the State health care program for items or services furnished in accordance with the agreement except as approved by CMS or the State health care program, or otherwise shift the burden of such an agreement to the extent that increased payments are claimed from Medicare or a State health care program.
 
-(iii) If the health plan is not described in paragraphs (m)(1)(i) or (m)(1)(ii) of this section and the contract health care provider is not paid on an at-risk, capitated basis, both the health plan and contract health care provider must comply with all of the following six standards -
+(iii) If the health plan is not described in paragraphs (m)(1)(i) or (m)(1)(ii) of this section and the contract health care provider is not paid on an at-risk, capitated basis, both the health plan and contract health care provider must comply with all of the following six standards—
 
 (A) The term of the agreement between the health plan and the contract health care provider must be for not less than one year;
 
@@ -404,7 +412,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (F) The party to the agreement, which does not have the responsibility under the agreement for filing claims or requests for payment, must not claim or request payment in any form from the Department or the State health care program for items or services furnished in accordance with the agreement, or otherwise shift the burden of such an agreement to the extent that increased payments are claimed from Medicare or a State health care program.
 
-(iv) If the health plan is not described in paragraphs (m)(1)(i) or (m)(1)(ii) of this section, and the contract health care provider is paid on an at-risk, capitated basis, both the health plan and contract health care provider must comply with all of the following five standards -
+(iv) If the health plan is not described in paragraphs (m)(1)(i) or (m)(1)(ii) of this section, and the contract health care provider is paid on an at-risk, capitated basis, both the health plan and contract health care provider must comply with all of the following five standards—
 
 (A) The term of the agreement between the health plan and the contract health provider must be for not less than one year;
 
@@ -418,7 +426,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (2) For purposes of this paragraph, the terms *contract health care provider, enrollee,* and *health plan* have the same meaning as in paragraph (l)(2) of this section.
 
-(n) *Practitioner recruitment.* As used in section 1128B of the Act, “remuneration” does not include any payment or exchange of anything of value by an entity in order to induce a practitioner who has been practicing within his or her current specialty for less than one year to locate, or to induce any other practitioner to relocate, his or her primary place of practice into a HPSA for his or her specialty area, as defined in Departmental regulations, that is served by the entity, as long as all of the following nine standards are met -
+(n) *Practitioner recruitment.* As used in section 1128B of the Act, “remuneration” does not include any payment or exchange of anything of value by an entity in order to induce a practitioner who has been practicing within his or her current specialty for less than one year to locate, or to induce any other practitioner to relocate, his or her primary place of practice into a HPSA for his or her specialty area, as defined in Departmental regulations, that is served by the entity, as long as all of the following nine standards are met—
 
 (1) The arrangement is set forth in a written agreement signed by the parties that specifies the benefits provided by the entity, the terms under which the benefits are to be provided, and the obligations of each party.
 
@@ -438,17 +446,17 @@ The following payment practices shall not be treated as a criminal offense under
 
 (9) The payment or exchange of anything of value may not directly or indirectly benefit any person (other than the practitioner being recruited) or entity in a position to make or influence referrals to the entity providing the recruitment payments or benefits of items or services payable by a Federal health care program.
 
-(o) *Obstetrical malpractice insurance subsidies.* As used in section 1128B of the Act, “remuneration” does not include any payment made by a hospital or other entity to another entity that is providing malpractice insurance (including a self-funded entity), where such payment is used to pay for some or all of the costs of malpractice insurance premiums for a practitioner (including a certified nurse-midwife as defined in section 1861(gg) of the Act) who engages in obstetrical practice as a routine part of his or her medical practice in a primary care HPSA, as long as all of the following seven standards are met -
+(o) *Obstetrical malpractice insurance subsidies.* As used in section 1128B of the Act, “remuneration” does not include any payment made by a hospital or other entity to another entity that is providing malpractice insurance (including a self-funded entity), where such payment is used to pay for some or all of the costs of malpractice insurance premiums for a practitioner (including a certified nurse-midwife as defined in section 1861(gg) of the Act) who engages in obstetrical practice as a routine part of his or her medical practice in a primary care HPSA, as long as all of the following seven standards are met—
 
 (1) The payment is made in accordance with a written agreement between the entity paying the premiums and the practitioner, which sets out the payments to be made by the entity, and the terms under which the payments are to be provided.
 
-(2)(i) The practitioner must certify that for the initial coverage period (not to exceed one year) the practitioner has a reasonable basis for believing that at least 75 percent of the practitioner's obstetrical patients treated under the coverage of the malpractice insurance will either -
+(2)(i) The practitioner must certify that for the initial coverage period (not to exceed one year) the practitioner has a reasonable basis for believing that at least 75 percent of the practitioner's obstetrical patients treated under the coverage of the malpractice insurance will either—
 
 (A) Reside in a HPSA or MUA, as defined in paragraph (a) of this section; or
 
 (B) Be part of a MUP, as defined in paragraph (a) of this section.
 
-(ii) Thereafter, for each additional coverage period (not to exceed one year), at least 75 percent of the practitioner's obstetrical patients treated under the prior coverage period (not to exceed one year) must have -
+(ii) Thereafter, for each additional coverage period (not to exceed one year), at least 75 percent of the practitioner's obstetrical patients treated under the prior coverage period (not to exceed one year) must have—
 
 (A) Resided in a HPSA or MUA, as defined in paragraph (a) of this section; or
 
@@ -472,7 +480,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (B) Related exclusively to obstetrical services provided in a primary care HPSA.
 
-(p) *Investments in group practices.* As used in section 1128B of the Act, “remuneration” does not include any payment that is a return on an investment interest, such as a dividend or interest income, made to a solo or group practitioner investing in his or her own practice or group practice if the following four standards are met -
+(p) *Investments in group practices.* As used in section 1128B of the Act, “remuneration” does not include any payment that is a return on an investment interest, such as a dividend or interest income, made to a solo or group practitioner investing in his or her own practice or group practice if the following four standards are met—
 
 (1) The equity interests in the practice or group must be held by licensed health care professionals who practice in the practice or group.
 
@@ -486,15 +494,15 @@ The following payment practices shall not be treated as a criminal offense under
 
 (4) Revenues from ancillary services, if any, must be derived from “in-office ancillary services” that meet the definition of such term in section 1877(b)(2) of the Act and implementing regulations.
 
-(q) *Cooperative hospital service organizations.* As used in section 1128B of the Act, “remuneration” does not include any payment made between a cooperative hospital service organization (CHSO) and its patron-hospital, both of which are described in section 501(e) of the Internal Revenue Code of 1986 and are tax-exempt under section 501(c)(3) of the Internal Revenue Code, where the CHSO is wholly owned by two or more patron-hospitals, as long as the following standards are met -
+(q) *Cooperative hospital service organizations.* As used in section 1128B of the Act, “remuneration” does not include any payment made between a cooperative hospital service organization (CHSO) and its patron-hospital, both of which are described in section 501(e) of the Internal Revenue Code of 1986 and are tax-exempt under section 501(c)(3) of the Internal Revenue Code, where the CHSO is wholly owned by two or more patron-hospitals, as long as the following standards are met—
 
 (1) If the patron-hospital makes a payment to the CHSO, the payment must be for the purpose of paying for the bona fide operating expenses of the CHSO, or
 
 (2) If the CHSO makes a payment to the patron-hospital, the payment must be for the purpose of paying a distribution of net earnings required to be made under section 501(e)(2) of the Internal Revenue Code of 1986.
 
-(r) *Ambulatory surgical centers.* As used in section 1128B of the Act, “remuneration” does not include any payment that is a return on an investment interest, such as a dividend or interest income, made to an investor, as long as the investment entity is a certified ambulatory surgical center (ASC) under part 416 of this title, whose operating and recovery room space is dedicated exclusively to the ASC, patients referred to the investment entity by an investor are fully informed of the investor's investment interest, and all of the applicable standards are met within one of the following four categories -
+(r) *Ambulatory surgical centers.* As used in section 1128B of the Act, “remuneration” does not include any payment that is a return on an investment interest, such as a dividend or interest income, made to an investor, as long as the investment entity is a certified ambulatory surgical center (ASC) under part 416 of this title, whose operating and recovery room space is dedicated exclusively to the ASC, patients referred to the investment entity by an investor are fully informed of the investor's investment interest, and all of the applicable standards are met within one of the following four categories—
 
-(1) *Surgeon-owned ASCs* - If all of the investors are general surgeons or surgeons engaged in the same surgical specialty, who are in a position to refer patients directly to the entity and perform surgery on such referred patients; surgical group practices (as defined in this paragraph) composed exclusively of such surgeons; or investors who are not employed by the entity or by any investor, are not in a position to provide items or services to the entity or any of its investors, and are not in a position to make or influence referrals directly or indirectly to the entity or any of its investors, all of the following six standards must be met -
+(1) *Surgeon-owned ASCs*—If all of the investors are general surgeons or surgeons engaged in the same surgical specialty, who are in a position to refer patients directly to the entity and perform surgery on such referred patients; surgical group practices (as defined in this paragraph) composed exclusively of such surgeons; or investors who are not employed by the entity or by any investor, are not in a position to provide items or services to the entity or any of its investors, and are not in a position to make or influence referrals directly or indirectly to the entity or any of its investors, all of the following six standards must be met—
 
 (i) The terms on which an investment interest is offered to an investor must not be related to the previous or expected volume of referrals, services furnished, or the amount of business otherwise generated from that investor to the entity.
 
@@ -508,7 +516,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (vi) The entity and any surgeon investors must treat patients receiving medical benefits or assistance under any Federal health care program in a nondiscriminatory manner.
 
-(2) *Single-Specialty ASCs* - If all of the investors are physicians engaged in the same medical practice specialty who are in a position to refer patients directly to the entity and perform procedures on such referred patients; group practices (as defined in this paragraph) composed exclusively of such physicians; or investors who are not employed by the entity or by any investor, are not in a position to provide items or services to the entity or any of its investors, and are not in a position to make or influence referrals directly or indirectly to the entity or any of its investors, all of the following six standards must be met -
+(2) *Single-Specialty ASCs*—If all of the investors are physicians engaged in the same medical practice specialty who are in a position to refer patients directly to the entity and perform procedures on such referred patients; group practices (as defined in this paragraph) composed exclusively of such physicians; or investors who are not employed by the entity or by any investor, are not in a position to provide items or services to the entity or any of its investors, and are not in a position to make or influence referrals directly or indirectly to the entity or any of its investors, all of the following six standards must be met—
 
 (i) The terms on which an investment interest is offered to an investor must not be related to the previous or expected volume of referrals, services furnished, or the amount of business otherwise generated from that investor to the entity.
 
@@ -522,7 +530,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (vi) The entity and any physician investors must treat patients receiving medical benefits or assistance under any Federal health care program in a nondiscriminatory manner.
 
-(3) *Multi-Specialty ASCs* - If all of the investors are physicians who are in a position to refer patients directly to the entity and perform procedures on such referred patients; group practices, as defined in this paragraph, composed exclusively of such physicians; or investors who are not employed by the entity or by any investor, are not in a position to provide items or services to the entity or any of its investors, and are not in a position to make or influence referrals directly or indirectly to the entity or any of its investors, all of the following seven standards must be met -
+(3) *Multi-Specialty ASCs*—If all of the investors are physicians who are in a position to refer patients directly to the entity and perform procedures on such referred patients; group practices, as defined in this paragraph, composed exclusively of such physicians; or investors who are not employed by the entity or by any investor, are not in a position to provide items or services to the entity or any of its investors, and are not in a position to make or influence referrals directly or indirectly to the entity or any of its investors, all of the following seven standards must be met—
 
 (i) The terms on which an investment interest is offered to an investor must not be related to the previous or expected volume of referrals, services furnished, or the amount of business otherwise generated from that investor to the entity.
 
@@ -538,7 +546,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (vii) The entity and any physician investors must treat patients receiving medical benefits or assistance under any Federal health care program in a nondiscriminatory manner.
 
-(4) *Hospital/Physician ASCs* - If at least one investor is a hospital, and all of the remaining investors are physicians who meet the requirements of paragraphs (r)(1), (r)(2) or (r)(3) of this section; group practices (as defined in this paragraph) composed of such physicians; surgical group practices (as defined in this paragraph); or investors who are not employed by the entity or by any investor, are not in a position to provide items or services to the entity or any of its investors, and are not in a position to refer patients directly or indirectly to the entity or any of its investors, all of the following eight standards must be met -
+(4) *Hospital/Physician ASCs*—If at least one investor is a hospital, and all of the remaining investors are physicians who meet the requirements of paragraphs (r)(1), (r)(2) or (r)(3) of this section; group practices (as defined in this paragraph) composed of such physicians; surgical group practices (as defined in this paragraph); or investors who are not employed by the entity or by any investor, are not in a position to provide items or services to the entity or any of its investors, and are not in a position to refer patients directly or indirectly to the entity or any of its investors, all of the following eight standards must be met—
 
 (i) The terms on which an investment interest is offered to an investor must not be related to the previous or expected volume of referrals, services furnished, or the amount of business otherwise generated from that investor to the entity.
 
@@ -558,7 +566,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (5) For purposes of paragraph (r) of this section, *procedures* means any procedure or procedures on the list of Medicare-covered procedures for ambulatory surgical centers in accordance with regulations issued by the Department and *group practice* means a group practice that meets all of the standards of paragraph (p) of this section. *Surgical group practice* means a group practice that meets all of the standards of paragraph (p) of this section and is composed exclusively of surgeons who meet the requirements of paragraph (r)(1) of this section.
 
-(s) *Referral arrangements for specialty services.* As used in section 1128B of the Act, “remuneration” does not include any exchange of value among individuals and entities where one party agrees to refer a patient to the other party for the provision of a specialty service payable in whole or in part under Medicare, Medicaid or any other Federal health care programs in return for an agreement on the part of the other party to refer that patient back at a mutually agreed upon time or circumstance as long as the following four standards are met -
+(s) *Referral arrangements for specialty services.* As used in section 1128B of the Act, “remuneration” does not include any exchange of value among individuals and entities where one party agrees to refer a patient to the other party for the provision of a specialty service payable in whole or in part under Medicare, Medicaid or any other Federal health care programs in return for an agreement on the part of the other party to refer that patient back at a mutually agreed upon time or circumstance as long as the following four standards are met—
 
 (1) The mutually agreed upon time or circumstance for referring the patient back to the originating individual or entity is clinically appropriate.
 
@@ -570,7 +578,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (t) *Price reductions offered to eligible managed care organizations.* (1) As used in section 1128(B) of the Act, “remuneration” does not include any payment between:
 
-(i) An eligible managed care organization and any first tier contractor for providing or arranging for items or services, as long as the following three standards are met -
+(i) An eligible managed care organization and any first tier contractor for providing or arranging for items or services, as long as the following three standards are met—
 
 (A) The eligible managed care organization and the first tier contractor have an agreement that:
 
@@ -592,7 +600,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (C) Neither party to the agreement shifts the financial burden of the agreement to the extent that increased payments are claimed from a Federal health care program.
 
-(ii) A first tier contractor and a downstream contractor or between two downstream contractors to provide or arrange for items or services, as long as the following four standards are met -
+(ii) A first tier contractor and a downstream contractor or between two downstream contractors to provide or arrange for items or services, as long as the following four standards are met—
 
 (A) The parties have an agreement that:
 
@@ -620,7 +628,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (i) *Downstream contractor* means an individual or entity that has a subcontract directly or indirectly with a first tier contractor for the provision or arrangement of items or services that are covered by an agreement between an eligible managed care organization and the first tier contractor.
 
-(ii) *Eligible managed care organization*1 means -
+(ii) *Eligible managed care organization*1 means—
 
 1 The eligible managed care organizations in paragraphs (u)(2)(ii)(A)-(F) of this section are only eligible with respect to items or services covered by the contracts specified in those paragraphs.
 
@@ -642,7 +650,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (u) *Price reductions offered by contractors with substantial financial risk to managed care organizations.* (1) As used in section 1128(B) of the Act, “remuneration” does not include any payment between:
 
-(i) A qualified managed care plan and a first tier contractor for providing or arranging for items or services, where the following five standards are met -
+(i) A qualified managed care plan and a first tier contractor for providing or arranging for items or services, where the following five standards are met—
 
 (A) The agreement between the qualified managed care plan and first tier contractor must:
 
@@ -666,7 +674,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (*3*) Inpatient Federal health care program diagnosis-related groups (DRGs) (other than those for psychiatric services);
 
-(*4*) Bonus and withhold arrangements, provided -
+(*4*) Bonus and withhold arrangements, provided—
 
 (*i*) The target payment for first tier contractors that are individuals or non-institutional providers is at least 20 percent greater than the minimum payment, and for first tier contractors that are institutional providers, i.e., hospitals and nursing homes, is at least 10 percent greater than the minimum payment;
 
@@ -678,25 +686,25 @@ The following payment practices shall not be treated as a criminal offense under
 
 (*v*) Alternatively, for a first tier contractor that is a physician, the qualified managed care plan has placed the physician at risk for referral services in an amount that exceeds the substantial financial risk threshold set forth in 42 CFR 417.479(f) and the arrangement is in compliance with the stop-loss and beneficiary survey requirements of 42 CFR 417.479(g).
 
-(D) Payments for items and services reimbursable by Federal health care program must comply with the following two standards -
+(D) Payments for items and services reimbursable by Federal health care program must comply with the following two standards—
 
 (*1*) The qualified managed care plan (or in the case of a self-funded employer plan that contracts with a qualified managed care plan to provide administrative services, the self-funded employer plan) must submit the claims directly to the Federal health care program, in accordance with a valid reassignment agreement, for items or services reimbursed by the Federal health care program. (Notwithstanding the foregoing, inpatient hospital services, other than psychiatric services, will be deemed to comply if the hospital is reimbursed by a Federal health care program under a DRG methodology.)
 
 (*2*) Payments to first tier contractors and any downstream contractors for providing or arranging for items or services reimbursed by a Federal health care program must be identical to payment arrangements to or between such parties for the same items or services provided to other beneficiaries with similar health status, provided that such payments may be adjusted where the adjustments are related to utilization patterns or costs of providing items or services to the relevant population.
 
-(E) In establishing the terms of an arrangement -
+(E) In establishing the terms of an arrangement—
 
 (*1*) Neither party gives or receives remuneration in return for or to induce the provision or acceptance of business (other than business covered by the arrangement) for which payment may be made in whole or in part by a Federal health care program on a fee-for-service or cost basis; and
 
 (*2*) Neither party to the arrangement shifts the financial burden of such arrangement to the extent that increased payments are claimed from a Federal health care program.
 
-(ii) A first tier contractor and a downstream contractor, or between downstream contractors, to provide or arrange for items or services, as long as the following three standards are met -
+(ii) A first tier contractor and a downstream contractor, or between downstream contractors, to provide or arrange for items or services, as long as the following three standards are met—
 
 (A) Both parties are being paid for the provision or arrangement of items or services in accordance with one of the payment methodologies set out in paragraph (u)(1)(i)(C) of this section;
 
 (B) Payment arrangements for items and services reimbursable by a Federal health care program comply with paragraph (u)(1)(i)(D) of this section; and
 
-(C) In establishing the terms of an arrangement -
+(C) In establishing the terms of an arrangement—
 
 (*1*) Neither party gives or receives remuneration in return for or to induce the provision or acceptance of business (other than business covered by the arrangement) for which payment may be made in whole or in part by a Federal health care program on a fee-for-service or cost basis; and
 
@@ -726,7 +734,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (A) Provides a comprehensive range of health services;
 
-(B) Provides or arranges for -
+(B) Provides or arranges for—
 
 (*1*) Reasonable utilization goals to avoid inappropriate utilization;
 
@@ -740,7 +748,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (*6*) Treatment for Federal health care program beneficiaries that is not different than treatment for other enrollees because of their status as Federal health care program beneficiaries; and
 
-(C) Covers a beneficiary population of which either -
+(C) Covers a beneficiary population of which either—
 
 (*1*) No more than 10 percent are Medicare beneficiaries, not including persons for whom a Federal health care program is the secondary payer; or
 
@@ -754,7 +762,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (v) *Ambulance replenishing.* (1) As used in section 1128B of the Act, “remuneration” does not include any gift or transfer of drugs or medical supplies (including linens) by a hospital or other receiving facility to an ambulance provider for the purpose of replenishing comparable drugs or medical supplies (including linens) used by the ambulance provider (or a first responder) in connection with the transport of a patient by ambulance to the hospital or other receiving facility if all of the standards in paragraph (v)(2) of this section are satisfied *and* all of the applicable standards in *either* paragraph (v)(3)(i), (v)(3)(ii) or (v)(3)(iii) of this section are satisfied. However, to qualify under paragraph (v), the ambulance that is replenished must be used to provide emergency ambulance services an average of three times per week, as measured over a reasonable period of time. Drugs and medical supplies (including linens) initially used by a first responder and replenished at the scene of the illness or injury by the ambulance provider that transports the patient to the hospital or other receiving facility will be deemed to have been used by the ambulance provider.
 
-(2) To qualify under paragraph (v) of this section, the ambulance replenishing arrangement must satisfy *all* of the following four conditions -
+(2) To qualify under paragraph (v) of this section, the ambulance replenishing arrangement must satisfy *all* of the following four conditions—
 
 (i)(A) Under no circumstances may the ambulance provider (or first responder) and the receiving facility both bill for the same replenished drug or supply. Replenished drugs or supplies may only be billed (including claiming bad debt) to a Federal health care program by either the ambulance provider (or first responder) or the receiving facility.
 
@@ -780,7 +788,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (3) To qualify under paragraph (v) of this section, the arrangement must satisfy *all* of the standards in *one* of the following three categories:
 
-(i) *General replenishing.* (A) The receiving facility must replenish medical supplies or drugs on an equal basis for all ambulance providers that bring patients to the receiving facility in any one of the categories described in paragraph (v)(3)(i)(A)(*1*), (*2*), or (*3*) of this section. A receiving facility may offer replenishing to one or more of the categories and may offer different replenishing arrangements to different categories, so long as the replenishing is conducted uniformly within each category. For example, a receiving facility may offer to replenish a broader array of drugs or supplies for ambulance providers that do no not charge for their services than for ambulance providers that charge for their services. Within each category, the receiving facility may limit its replenishing arrangements to the replenishing of emergency ambulance transports only. A receiving facility may offer replenishing to one or more of the categories -
+(i) *General replenishing.* (A) The receiving facility must replenish medical supplies or drugs on an equal basis for all ambulance providers that bring patients to the receiving facility in any one of the categories described in paragraph (v)(3)(i)(A)(*1*), (*2*), or (*3*) of this section. A receiving facility may offer replenishing to one or more of the categories and may offer different replenishing arrangements to different categories, so long as the replenishing is conducted uniformly within each category. For example, a receiving facility may offer to replenish a broader array of drugs or supplies for ambulance providers that do no not charge for their services than for ambulance providers that charge for their services. Within each category, the receiving facility may limit its replenishing arrangements to the replenishing of emergency ambulance transports only. A receiving facility may offer replenishing to one or more of the categories—
 
 (*1*) All ambulance providers that do not bill any patient or insurer (including Federal health care programs) for ambulance services, regardless of the payor or the patient's ability to pay (i.e., ambulance providers, such as volunteer companies, that provide ambulance services without charge to any person or entity);
 
@@ -802,7 +810,7 @@ The following payment practices shall not be treated as a criminal offense under
 
 (iii) *Government mandated replenishing.* The replenishing arrangement is undertaken in accordance with a State or local statute, ordinance, regulation or binding protocol that requires hospitals or receiving facilities in the area subject to such requirement to replenish ambulances that deliver patients to the hospital with drugs or medical supplies (including linens) that are used during the transport of that patient.
 
-(4) For purposes of paragraph (v) of this section -
+(4) For purposes of paragraph (v) of this section—
 
 (i) A *receiving facility* is a hospital or other facility that provides emergency medical services.
 
@@ -814,9 +822,9 @@ The following payment practices shall not be treated as a criminal offense under
 
 (v) *Medical supplies* includes linens, unless otherwise provided.
 
-(w) *Health centers.* As used in section 1128B of the Act, “remuneration” does not include the transfer of any goods, items, services, donations or loans (whether the donation or loan is in cash or in-kind), or combination thereof from an individual or entity to a health center (as defined in this paragraph), as long as the following nine standards are met -
+(w) *Health centers.* As used in section 1128B of the Act, “remuneration” does not include the transfer of any goods, items, services, donations or loans (whether the donation or loan is in cash or in-kind), or combination thereof from an individual or entity to a health center (as defined in this paragraph), as long as the following nine standards are met—
 
-(1)(i) The transfer is made pursuant to a contract, lease, grant, loan, or other agreement that -
+(1)(i) The transfer is made pursuant to a contract, lease, grant, loan, or other agreement that—
 
 (A) Is set out in writing;
 
@@ -850,7 +858,7 @@ For purposes of this paragraph, the term “health center” means a Federally Q
 
 (x) *Electronic prescribing items and services.* As used in section 1128B of the Act, “remuneration” does not include nonmonetary remuneration (consisting of items and services in the form of hardware, software, or information technology and training services) necessary and used solely to receive and transmit electronic prescription information, if all of the following conditions are met:
 
-(1) The items and services are provided by a -
+(1) The items and services are provided by a—
 
 (i) Hospital to a physician who is a member of its medical staff;
 
@@ -868,7 +876,7 @@ For purposes of this paragraph, the term “health center” means a Federally Q
 
 (6) Neither the eligibility of a beneficiary for the items or services, nor the amount or nature of the items or services, is determined in a manner that takes into account the volume or value of referrals or other business generated between the parties.
 
-(7) The arrangement is set forth in a written agreement that -
+(7) The arrangement is set forth in a written agreement that—
 
 (i) Is signed by the parties;
 
@@ -916,7 +924,7 @@ For purposes of paragraph (x) of this section, *group practice* shall have the m
 
 (vii) The determination is made in any reasonable and verifiable manner that does not directly take into account the volume or value of referrals or other business generated between the parties.
 
-(6) The arrangement is set forth in a written agreement that -
+(6) The arrangement is set forth in a written agreement that —
 
 (i) Is signed by the parties;
 
@@ -970,7 +978,7 @@ For purposes of paragraph (x) of this section, *group practice* shall have the m
 
 (1) To Federal health care program beneficiaries if all the following conditions are met:
 
-(i) The availability of the free or discounted local transportation services -
+(i) The availability of the free or discounted local transportation services—
 
 (A) Is set forth in a policy, which the eligible entity applies uniformly and consistently; and
 
@@ -1020,7 +1028,37 @@ For purposes of paragraph (x) of this section, *group practice* shall have the m
 
 (B) The following New England counties, which are deemed to be parts of urban areas under section 601(g) of the Social Security Amendments of 1983 (Pub. L. 98-21, 42 U.S.C. 1395ww (note)): Litchfield County, Connecticut; York County, Maine; Sagadahoc County, Maine; Merrimack County, New Hampshire; and Newport County, Rhode Island.
 
-(cc)-(dd) [Reserved]
+(cc) *Point-of-sale reductions in price for prescription pharmaceutical products.* (1) As used in section 1128B of the Act, “remuneration” does not include a reduction in price from a manufacturer to a plan sponsor under Medicare Part D or a Medicaid Managed Care Organization for a prescription pharmaceutical product that is payable, in whole or in part, by a plan sponsor under Medicare Part D or a Medicaid Managed Care Organization, provided the following conditions are met with regard to that reduction in price:
+
+(i) The manufacturer and the plan sponsor under Medicare Part D, a Medicaid MCO, or the PBM acting under contract with either, set the reduction in price in advance, in writing, by the time of the first purchase of the product at that reduced price by the plan sponsor or Medicaid MCO on behalf of an enrollee;
+
+(ii) The reduction in price does not involve a rebate unless the full value of the reduction in price is provided to the dispensing pharmacy by the manufacturer, directly or indirectly, through a point-of-sale chargeback or series of point-of-sale chargebacks, or is required by law; and
+
+(iii) The reduction in price must be completely reflected in the price of the prescription pharmaceutical product at the time the pharmacy dispenses it to the beneficiary.
+
+(2)(i) For purposes of this paragraph (cc), the terms manufacturer, pharmacy benefit manager or PBM, prescription pharmaceutical product, and rebate have the meanings ascribed to them in paragraph (h) of this section.
+
+(ii) For purposes of this paragraph (cc), a point-of-sale chargeback is a payment by a manufacturer made directly or indirectly (through a PBM or other entity) to a dispensing pharmacy equal to the reduction in price agreed upon in writing between the Plan Sponsor under Part D, the Medicaid MCO, or a PBM acting under contract with either, and the manufacturer of the prescription pharmaceutical product.
+
+(iii) For purposes of this paragraph (cc), the term Medicaid Managed Care Organization or Medicaid MCO carries the meaning ascribed to it in section 1903(m) of the Social Security Act.
+
+(dd) *PBM service fees.* (1) As used in section 1128B of the Act, “remuneration” does not include any payment by a pharmaceutical manufacturer to a pharmacy benefit manager (PBM) for services the PBM provides to the pharmaceutical manufacturer related to the pharmacy benefit management services that the PBM furnishes to one or more health plans as long as the following conditions are met:
+
+(i) The PBM has a written agreement with the pharmaceutical manufacturer, signed by the parties, that covers all of the services the PBM provides to the manufacturer in connection with the PBM's arrangements with health plans for the term of the agreement and specifies each of the services to be provided by the PBM and the compensation associated with such services.
+
+(ii) The services performed under the agreement do not involve the counseling or promotion of a business arrangement or other activity that violates any State or Federal law.
+
+(iii) The compensation paid to the PBM is:
+
+(A) Is consistent with fair market value in an arm's-length transaction;
+
+(B) Is a fixed payment, not based on a percentage of sales; and
+
+(C) Is not determined in a manner that takes into account the volume or value of any referrals or business otherwise generated between the parties, or between the manufacturer and the PBM's health plans, for which payment may be made in whole or in part under Medicare, Medicaid, or other Federal health care programs.
+
+(iv) The PBM discloses in writing to each health plan with which it contracts at least annually the services rendered to each pharmaceutical manufacturer related to the PBM's arrangements to furnish pharmacy benefit management services to the health plan, and to the Secretary upon request, the services rendered to each pharmaceutical manufacturer related to the PBM's arrangements to furnish pharmacy benefit management services to the health plan and the fees paid for such services.
+
+(2) For purposes of safe harbor in this paragraph (dd), the terms manufacturer, pharmacy benefit manager or PBM, and prescription pharmaceutical product have the meanings ascribed to them in paragraph (h) of this section, and health plan has the meaning ascribed to it in paragraph (l) of this section.
 
 (ee) *Care coordination arrangements to improve quality, health outcomes, and efficiency.* As used in section 1128B of the Act, “remuneration” does not include the exchange of anything of value between a VBE and VBE participant or between VBE participants pursuant to a value-based arrangement if all of the standards in paragraphs (ee)(1) through (13) of this section are met:
 
@@ -1384,7 +1422,7 @@ For purposes of paragraph (x) of this section, *group practice* shall have the m
 
 (ii) An entity listed in paragraph (hh)(1) of this section.
 
-(5) The aggregate retail value of patient engagement tools and supports furnished to a patient by a VBE participant on an annual basis does not exceed $500. The monetary cap set forth in this paragraph (hh)(5) is adjusted each calendar year to the nearest whole dollar by the increase in the Consumer Price Index - Urban All Items (CPI-U) for the 12-month period ending the preceding September 30. OIG will publish guidance after September 30 of each year reflecting the increase in the CPI-U for the 12-month period ending September 30 and the new monetary cap applicable for the following calendar year.
+(5) The aggregate retail value of patient engagement tools and supports furnished to a patient by a VBE participant on an annual basis does not exceed $500. The monetary cap set forth in this paragraph (hh)(5) is adjusted each calendar year to the nearest whole dollar by the increase in the Consumer Price Index—Urban All Items (CPI-U) for the 12-month period ending the preceding September 30. OIG will publish guidance after September 30 of each year reflecting the increase in the CPI-U for the 12-month period ending September 30 and the new monetary cap applicable for the following calendar year.
 
 (6) The VBE participant or any eligible agent does not exchange or use the patient engagement tools or supports to market other reimbursable items or services or for patient recruitment purposes.
 
@@ -1478,4 +1516,4 @@ For purposes of paragraph (x) of this section, *group practice* shall have the m
 
 (kk) *ACO Beneficiary Incentive Program.* As used in section 1128B of the Act, “remuneration” does not include an incentive payment made by an ACO to an assigned beneficiary under a beneficiary incentive program established under section 1899(m) of the Act, as amended by Congress from time to time, if the incentive payment is made in accordance with the requirements found in such subsection.
 
-[57 FR 3330, Jan. 29, 1992, as amended at 57 FR 52729, Nov. 5, 1992; 61 FR 2135, Jan. 25, 1996; 64 FR 63513, Nov. 19, 1999; 64 FR 63551, Nov. 19, 1999; 64 FR 71317, Dec. 21, 1999; 66 FR 62989, Dec. 4, 2001; 66 FR 63749, Dec. 10, 2001; 67 FR 11933, Mar. 18, 2002; 71 FR 45136, Aug. 8, 2006; 72 FR 56644, Oct. 4, 2007; 78 FR 79219, Dec. 27, 2013; 81 FR 3012, Jan. 20, 2016; 81 FR 88407, Dec. 7, 2016; 85 FR 77887, Dec. 2, 2020]
+[57 FR 3330, Jan. 29, 1992]Editorial Note:For Federal Register citations affecting § 1001.952, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

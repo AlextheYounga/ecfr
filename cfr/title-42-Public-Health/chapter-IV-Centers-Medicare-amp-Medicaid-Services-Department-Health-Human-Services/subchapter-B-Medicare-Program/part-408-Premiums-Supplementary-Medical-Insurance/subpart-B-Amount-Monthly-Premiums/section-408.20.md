@@ -1,7 +1,5 @@
 ##### § 408.20 Monthly premiums. #####
 
-Link to an amendment published at 87 FR 66509, Nov. 3, 2022.
-
 (a) *Statutory provisions.* (1) The law established a monthly premium of $3 for the initial period of the program. It also set forth criteria and procedures for the Secretary to follow each December, beginning with December 1968, to determine and promulgate the standard monthly premium for the 12-month period beginning with July of the following year.
 
 (2) The law was amended in 1983 to require that the Secretary promulgate the standard monthly premium in September of that year, and each year thereafter, to be effective for the 12 months beginning with the following January.
@@ -34,7 +32,7 @@ Link to an amendment published at 87 FR 66509, Nov. 3, 2022.
 
 (4) In no case shall payment made for transitional assistance costs under part 403, subpart H of this chapter be included in the formula used to calculate actuarial rates or standard monthly premiums.
 
-(c) *Premiums for calendar years 1984 through 1990 and 1996 through 1998.* For calendar years 1984 through 1990 and 1996 through 1998, the standard monthly premium for all enrollees -
+(c) *Premiums for calendar years 1984 through 1990 and 1996 through 1998.* For calendar years 1984 through 1990 and 1996 through 1998, the standard monthly premium for all enrollees—
 
 (1) Is equal to 50 percent of the actuarial rate for enrollees age 65 or over, that is, is calculated on the basis of 25 percent of program costs without regard to any cost-of-living increase in old age insurance benefits; and
 
@@ -42,7 +40,7 @@ Link to an amendment published at 87 FR 66509, Nov. 3, 2022.
 
 (d) *Limitation on increase of standard premium: 1987 and 1988.* If there is no cost-of-living increase in old age or disability benefits for December 1985 or December 1986, the standard monthly premiums for 1987 and 1988 (promulgated in September 1986 and September 1987, respectively) may not be increased.
 
-(e) *Nonstandard premiums for certain cases* - (1) *Basic rule.* A nonstandard premium may be established in individual cases only if the individual is entitled to old age or disability benefits for the months of November and December, and actually receives the corresponding benefit checks in December and January.
+(e) *Nonstandard premiums for certain cases*—(1) *Basic rule.* A nonstandard premium may be established in individual cases only if the individual is entitled to old age or disability benefits for the months of November and December, and actually receives the corresponding benefit checks in December and January.
 
 (2) *Special rules: Calendar years 1987 and 1988.* For calendar years 1987 and 1988, the following rules apply:
 
@@ -60,7 +58,7 @@ Link to an amendment published at 87 FR 66509, Nov. 3, 2022.
 
 (i) The premium paid for December.
 
-(ii) The standard premium promulgated for January, reduced as necessary to compensate for -
+(ii) The standard premium promulgated for January, reduced as necessary to compensate for—
 
 (A) The fact that the cost-of-living increase was less than the increase in the standard premium; or
 
@@ -70,4 +68,14 @@ Link to an amendment published at 87 FR 66509, Nov. 3, 2022.
 
 (6) *Effect of late enrollment or reenrollment.* A nonstandard premium is subject to increase for late enrollment or reenrollment as required under other sections of this subpart. The increase is computed on the basis of the standard premium and added to the nonstandard premium.
 
-[56 FR 8839, Mar. 1, 1991, as amended at 59 FR 26959, May 25, 1994; 68 FR 69927, Dec. 15, 2003; 73 FR 36468, June 27, 2008]
+(f) *Part B-ID premiums*—(1) *Premium amount.* Beginning in 2022, and every year thereafter, the Secretary, as mandated by section 1839(j) of the Act, will determine and promulgate a monthly premium rate in September for the succeeding calendar year for individuals enrolled only in the Part B-ID benefit. Such premium is equal to 15 percent of the monthly actuarial rate for enrollees age 65 and over for that succeeding calendar year.
+
+(2) *Premium adjustments.* (i) The Part B-ID benefit premium is subject to adjustments specified in §§ 408.20(e), 408.27, and 408.28.
+
+(ii) The Part B-ID benefit premium is not subject to § 408.22.
+
+(3) *Premium collection.* Premiums for the Part B-ID benefit are collected as set out in § 408.6 and subpart C of this part.
+
+(4) *Premium deductions.* Part B-ID premiums are to be deducted following the rules set forth in § 408.40.
+
+[56 FR 8839, Mar. 1, 1991, as amended at 59 FR 26959, May 25, 1994; 68 FR 69927, Dec. 15, 2003; 73 FR 36468, June 27, 2008; 87 FR 66509, Nov. 3, 2022]

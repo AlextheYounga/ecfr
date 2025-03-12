@@ -1,8 +1,6 @@
 ##### § 611.1250 Preliminary exit fee estimate. #####
 
-Link to an amendment published at 87 FR 27492, May 9, 2022.
-
-(a) *Preliminary exit fee estimate - terminating association.* You must provide a preliminary exit fee estimate to us when you submit the plan of termination under § 611.1221. Calculate the preliminary exit fee estimate in the following order:
+(a) *Preliminary exit fee estimate—terminating association.* You must provide a preliminary exit fee estimate to us when you submit the plan of termination under § 611.1221. Calculate the preliminary exit fee estimate in the following order:
 
 (1) Base your exit fee calculation on the average daily balances of assets and liabilities for the 12-month period as of the quarter end immediately before the date you send us your plan of termination.
 
@@ -28,7 +26,7 @@ Link to an amendment published at 87 FR 27492, May 9, 2022.
 
 (8) Multiply assets as adjusted above by 6 percent, and subtract this amount from preliminary total capital. This is your preliminary exit fee estimate.
 
-(b) *Preliminary exit fee estimate - terminating bank.* (1) Affiliated associations that are terminating with you must calculate their individual preliminary exit fee estimates as described in paragraph (a) of this section.
+(b) *Preliminary exit fee estimate—terminating bank.* (1) Affiliated associations that are terminating with you must calculate their individual preliminary exit fee estimates as described in paragraph (a) of this section.
 
 (2) Base your exit fee calculation on the average daily balances of assets and liabilities for the 12-month period as of the quarter end immediately before the date you send us your plan of termination.
 
@@ -42,7 +40,7 @@ Link to an amendment published at 87 FR 27492, May 9, 2022.
 
 (A) Expenses you have incurred related to termination. Related expenses include, but are not limited to, legal services, accounting services, tax services, studies, auditing, business planning, equity holder meetings, and application fees for the termination and reorganization. Do not add back to assets expenses related to a requirement by the FCA to engage independent experts to conduct assessments, analyses, or studies, or to request rulings that solely address the impact of the termination on the System or parties other than the terminating institution and its stockholders.
 
-(B) Any specific allowance for losses, and a pro rata portion of any general allowance for loan losses, on direct loans to associations that you do not expect to incur before or at termination.
+(B) Any specific allowance for losses, and a pro rata portion of any general allowance for credit losses, on direct loans to associations that you do not expect to incur before or at termination.
 
 (ii) Subtract from your assets and liabilities an amount equal to your direct loans to your affiliated associations that are not terminating.
 
@@ -92,4 +90,4 @@ Link to an amendment published at 87 FR 27492, May 9, 2022.
 
 (4) We may require you to make these adjustments to the preliminary exit fee estimate that is disclosed in the information statement, the final exit fee calculation, and the calculations of the value of equities held by dissenting stockholders, Farm Credit institutions that choose to have their equities retired at termination, and reaffiliating associations.
 
-[67 FR 17909, Apr. 12, 2002, as amended at 71 FR 76118, Dec. 20, 2006]
+[67 FR 17909, Apr. 12, 2002, as amended at 71 FR 76118, Dec. 20, 2006; 87 FR 27492, May 9, 2022]

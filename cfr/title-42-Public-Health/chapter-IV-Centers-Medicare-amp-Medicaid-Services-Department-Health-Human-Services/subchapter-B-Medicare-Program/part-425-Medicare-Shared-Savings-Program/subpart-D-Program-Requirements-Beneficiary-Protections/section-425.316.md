@@ -1,7 +1,5 @@
 ##### § 425.316 Monitoring of ACOs. #####
 
-Link to an amendment published at 87 FR 70233, Nov. 18, 2022.
-
 (a) *General rule.* (1) In order to ensure that the ACO continues to satisfy the eligibility and program requirements under this part, CMS monitors and assesses the performance of ACOs, their ACO participants, and ACO providers/suppliers.
 
 (2) CMS employs a range of methods to monitor and assess the performance of ACOs, ACO participants, and ACO providers/suppliers, including but not limited to any of the following, as appropriate:
@@ -16,7 +14,7 @@ Link to an amendment published at 87 FR 70233, Nov. 18, 2022.
 
 (2)(i) CMS, at its sole discretion, may take any of the pre-termination actions set forth in § 425.216(a)(1) or immediately terminate, if it determines that an ACO, its ACO participants, any ACO providers/suppliers, or other individuals or entities performing functions or services related to the ACO's activities avoids at-risk beneficiaries.
 
-(ii) If CMS requires the ACO to submit a CAP, the ACO will -
+(ii) If CMS requires the ACO to submit a CAP, the ACO will—
 
 (A) Submit a CAP that addresses actions the ACO will take to ensure that the ACO, ACO participants, ACO providers/suppliers, or other individuals or entities performing functions or services related to the ACO's activities cease avoidance of at-risk beneficiaries.
 
@@ -52,4 +50,14 @@ Link to an amendment published at 87 FR 70233, Nov. 18, 2022.
 
 (3) If the Medicare Parts A and B fee-for-service expenditures for the ACO's assigned beneficiaries for the performance year exceed the ACO's updated benchmark as specified in paragraph (d)(1) of this section for another performance year of the agreement period, CMS may immediately or with advance notice terminate the ACO's participation agreement under § 425.218.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32840, June 9, 2015; 81 FR 80559, Nov. 15, 2016; 83 FR 68069, Dec. 31, 2018; 85 FR 85039, Dec. 28, 2020]
+(e) *Monitoring ACO eligibility for advance investment payments.* (1) CMS monitors an ACO that receives advance investment payments pursuant to § 425.630 for changes in its ACO participants that may cause the ACO to no longer meet the standards specified in § 425.630(b)(3) and (4).
+
+(2) If CMS determines during any performance year of the agreement period that an ACO receiving advance investment payments is experienced with performance-based risk Medicare ACO initiatives or is a high revenue ACO, CMS—
+
+(i) Will cease payment of advance investment payments, starting the quarter after the ACO became experienced with performance-based risk Medicare ACO initiatives or became a high revenue ACO.
+
+(ii) May take compliance action as specified in §§ 425.216 and 425.218.
+
+(3) If an ACO remains an ACO experienced with performance-based risk Medicare ACO initiatives or a high revenue ACO after a deadline specified by CMS pursuant to compliance action under this section, the ACO must repay all advance investment payments it received. CMS will provide written notification to the ACO of the amount due and the ACO must pay such amount no later than 90 days after the receipt of such notification.
+
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32840, June 9, 2015; 81 FR 80559, Nov. 15, 2016; 83 FR 68069, Dec. 31, 2018; 85 FR 85039, Dec. 28, 2020; 87 FR 70233, Nov. 18, 2022]

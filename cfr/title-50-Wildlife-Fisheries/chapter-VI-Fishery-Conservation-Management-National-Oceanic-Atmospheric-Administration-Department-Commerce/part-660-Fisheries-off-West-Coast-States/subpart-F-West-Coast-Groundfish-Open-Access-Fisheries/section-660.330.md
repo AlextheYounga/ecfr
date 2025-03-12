@@ -1,7 +1,5 @@
 ##### § 660.330 Open access fishery - management measures. #####
 
-Link to an amendment published at 87 FR 77029, Dec. 16, 2022.
-
 (a) *General.* Groundfish species taken in open access fisheries will be managed with cumulative trip limits (see trip limits in Tables 3 (North) and 3 (South) of this subpart), size limits (see § 660.60(h)(5)), seasons (see seasons in Tables 3 (North) and 3 (South) of this subpart), gear restrictions (see paragraph (b) of this section), and closed areas (see paragraph (d) of this section and §§ 660.70 through 660.79). Unless otherwise specified, a vessel operating in the open access fishery is subject to, and must not exceed any trip limit, frequency limit, and/or size limit for the open access fishery. Cowcod retention is prohibited in all fisheries and groundfish vessels operating south of Point Conception must adhere to CCA restrictions (see paragraph (d)(11) of this section and § 660.70). Retention of yelloweye rockfish is prohibited in all open access fisheries. For information on the open access daily/weekly trip limit fishery for sablefish, see § 660.332 of this subpart and the trip limits in Tables 3 (North) and 3 (South) of this subpart. Open access vessels are subject to daily or weekly sablefish limits in addition to cumulative limits for each cumulative limit period. Only one sablefish landing per week may be made in excess of the daily trip limit and, if the vessel chooses to make a landing in excess of that daily trip limit, then that is the only sablefish landing permitted for that week. The trip limit for black rockfish caught with hook-and-line gear also applies, see paragraph (e) of this section. Open access vessels that fish with non-groundfish trawl gear or in the salmon troll fishery north of 40°10′ N lat. are subject the cumulative limits and closed areas (except the pink shrimp fishery which is not subject to RCA restrictions) listed in Tables 3 (North) and 3 (South) of this subpart. Federal commercial groundfish regulations are not intended to supersede any more restrictive state commercial groundfish regulations relating to federally managed groundfish.
 
 (b) *Gear restrictions.* Open access gear includes longline, trap, pot, hook-and-line (fixed or mobile), setnet (anchored gillnet or trammel net, which are permissible south of 38° N. lat. only), spear and non-groundfish trawl gear (trawls used to target non-groundfish species: pink shrimp or ridgeback prawns, and, south of Pt. Arena, CA (38°57.50' N. lat.), California halibut or sea cucumbers). Restrictions for gears used in the open access fisheries are as follows:
@@ -20,15 +18,39 @@ Link to an amendment published at 87 FR 77029, Dec. 16, 2022.
 
 (iv) *Spears.* Spears may be propelled by hand or by mechanical means.
 
+(3) *Non-trawl RCA gear.* Inside the non-trawl RCA, only legal non-bottom contact hook-and-line gear configurations may be used for target fishing for groundfish by vessels that participate in the directed open access sector as defined at § 660.11. Legal non-bottom contact hook-and-line gear means stationary vertical jig gear attached to the vessel and not anchored to the bottom, and groundfish troll gear, subject to the specifications below.
+
+(i) *Stationary vertical jig gear.* The following requirements apply to stationary vertical jig gear:
+
+(A) Must be a minimum of 50 feet between the bottom weight and the lowest fishing hook;
+
+(B) No more than 4 vertical mainlines may be used in the water at one time with no more than 25 hooks on each mainline;
+
+(C) No more than 100 hooks may be in the water at one time, with no more than 25 extra hooks on board the vessel; and
+
+(D) Natural bait or weighted hooks may not be used nor be on board the vessel. Artificial lures and flies are permitted.
+
+(ii) *Groundfish troll gear.* The following requirements apply to groundfish troll gear:
+
+(A) Must be a minimum of 50 feet between the bottom weight and the troll wire's connection to the horizontal mainline;
+
+(B) No more than 1 mainline may be used in the water at one time;
+
+(C) No more than 500 hooks may be in the water at one time, with no more than 25 extra hooks on board the vessel;
+
+(D) Hooks must be spaced apart by a visible maker (e.g., floats, line wraps, colored line splices), with no more than 25 hooks between each marker and no more than 20 markers on the mainline; and
+
+(E) Natural bait or weighted hooks may not be used nor be on board the vessel. Artificial lures and flies are permitted.
+
 (c) *Sorting requirements.* (1) In addition to the requirements at § 660.12(a)(8) the States of Washington, Oregon, and California may also require that vessels record their landings as sorted on their state landing receipts.
 
 (2) For open access vessels, the following species must be sorted:
 
-(i) *Coastwide* - widow rockfish, canary rockfish, darkblotched rockfish, yelloweye rockfish, shortbelly rockfish, black rockfish, blue/deacon rockfish, minor nearshore rockfish, minor shelf rockfish, minor slope rockfish, shortraker rockfish, rougheye/blackspotted rockfish, shortspine and longspine thornyhead, Dover sole, arrowtooth flounder, petrale sole, starry flounder, English sole, other flatfish, lingcod, sablefish, Pacific cod, spiny dogfish, longnose skate, other fish, Pacific whiting, big skate, and Pacific sanddabs;
+(i) *Coastwide* - arrowtooth flounder, big skate, black rockfish, blue/deacon rockfish, canary rockfish, darkblotched rockfish, Dover sole, English sole, lingcod, longnose skate, longspine thornyhead, minor nearshore rockfish, minor shelf rockfish, minor slope rockfish, other fish, other flatfish, Pacific cod, Pacific sanddabs, Pacific whiting, petrale sole, shortbelly rockfish, shortraker rockfish, rougheye/blackspotted rockfish, sablefish, shortspine thornyhead, spiny dogfish, starry flounder, widow rockfish, and yelloweye rockfish;
 
-(ii) *North of 40°10′ N. lat.* - POP, yellowtail rockfish, cabezon (California), Washington cabezon/kelp greenling complex, Oregon cabezon/kelp greenling complex; and
+(ii) *North of 40°10′ N lat.* - cabezon (California), copper rockfish (California), Oregon cabezon/kelp greenling complex, POP, quillback rockfish (California), Washington cabezon/kelp greenling complex, yellowtail rockfish; and
 
-(iii) South of 40°10′ N. lat. - minor shallow nearshore rockfish, minor deeper nearshore rockfish, chilipepper, bocaccio, splitnose rockfish, cowcod, bronzespotted rockfish, blackgill rockfish and cabezon.
+(iii) *South of 40°10′ N lat.* - blackgill rockfish, bocaccio, bronzespotted rockfish, cabezon, chilipepper rockfish, copper rockfish, cowcod, minor shallow nearshore rockfish, minor deeper nearshore rockfish, quillback rockfish, splitnose rockfish, and vermilion rockfish.
 
 (d) *Groundfish conservation areas (GCAs).* GCAs, a type of closed area, are defined at § 660.11 and with latitude and longitude coordinates at §§ 660.70 through 660.74. A vessel that is authorized by this paragraph to fish within a GCA (*e.g.,* fishing for “other flatfish” using hook and line gear only), may not simultaneously have other gear on board the vessel that is unlawful to use for fishing within the GCA. The following GCAs apply to vessels participating in the open access groundfish fishery.
 
@@ -68,6 +90,8 @@ Link to an amendment published at 87 FR 77029, Dec. 16, 2022.
 
 (iv) Fishing for “other flatfish” off California (between 42° N lat. south to the U.S./Mexico border) is allowed within the nontrawl RCA with hook and line gear only; and provided a valid declaration report as required at § 660.13(d), has been filed with NMFS OLE.
 
+(v) Target fishing for groundfish off Oregon and California (between 46°16′ N lat. and the U.S./Mexico border) is allowed within the non-trawl RCA for vessels participating in the directed open access sector as defined at § 660.11, subject to the gear restrictions at § 660.330(b)(3)(i-ii), and provided a valid declaration report as required at § 660.13(d) has been filed with NMFS OLE.
+
 (13) *Non-groundfish trawl rockfish conservation areas for the open access non-groundfish trawl fisheries.* The non-groundfish trawl RCAs are closed areas, defined by specific latitude and longitude coordinates (specified at §§ 660.70 through 660.74, subpart C) designed to approximate specific depth contours, where fishing for groundfish with nontrawl gear is prohibited. Boundaries for the nontrawl RCA throughout the year are provided in the open access trip limit tables, Table 3 (North) and Table 3 (South) of this subpart and may be modified by NMFS in season pursuant to § 660.60(c).
 
 (i) It is unlawful to operate a vessel in the non-groundfish trawl RCA with non-groundfish trawl gear onboard, except for the purpose of continuous transiting, or when the use of trawl gear is authorized in part 660. It is unlawful to take and retain, possess, or land groundfish taken with non-groundfish trawl gear within the nontrawl RCA, unless otherwise authorized in part 660.
@@ -92,4 +116,4 @@ Link to an amendment published at 87 FR 77029, Dec. 16, 2022.
 
 (g) *Essential fish habitat conservation areas (EFHCA).* EFHCAs, defined at § 660.11 and with latitude and longitude coordinates at §§ 660.75 through 660.79, apply to vessels using bottom trawl gear or bottom contact gear, defined at § 660.11, and includes non-groundfish trawl gear and limited entry fixed gear (*e.g.,* longline and pot/trap,) among other gear types. EFHCAs closed to bottom contact gear are listed at § 660.12(a). EFHCAs closed to bottom trawl gear are listed at § 660.312(d).
 
-[75 FR 60897, Oct. 1, 2010, as amended at 76 FR 27554, May 11, 2011; 76 FR 53839, Aug. 30, 2011; 78 FR 638, Jan. 3, 2013; 80 FR 12597, Mar. 10, 2015; 80 FR 71981, Nov. 18, 2015; 82 FR 9665, Feb. 7, 2017; 82 FR 60570, Dec. 21, 2017; 83 FR 64010, Dec. 12, 2018; 84 FR 49962, Sept. 24, 2019; 84 FR 63992, Nov. 19, 2019; 86 FR 14383, Mar. 16, 2021]
+[75 FR 60897, Oct. 1, 2010, as amended at 76 FR 27554, May 11, 2011; 76 FR 53839, Aug. 30, 2011; 78 FR 638, Jan. 3, 2013; 80 FR 12597, Mar. 10, 2015; 80 FR 71981, Nov. 18, 2015; 82 FR 9665, Feb. 7, 2017; 82 FR 60570, Dec. 21, 2017; 83 FR 64010, Dec. 12, 2018; 84 FR 49962, Sept. 24, 2019; 84 FR 63992, Nov. 19, 2019; 86 FR 14383, Mar. 16, 2021; 87 FR 77029, Dec. 16, 2022]

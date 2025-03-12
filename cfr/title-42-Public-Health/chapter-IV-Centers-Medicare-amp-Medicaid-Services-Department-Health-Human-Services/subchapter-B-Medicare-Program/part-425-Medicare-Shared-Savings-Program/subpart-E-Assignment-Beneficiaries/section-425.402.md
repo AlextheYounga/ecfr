@@ -1,7 +1,5 @@
 ##### § 425.402 Basic assignment methodology. #####
 
-Link to an amendment published at 87 FR 70234, Nov. 18, 2022.
-
 (a) For performance years 2012 through 2015, CMS employs the following step-wise methodology to assign Medicare beneficiaries to an ACO after identifying all patients that had at least one primary care service with a physician who is an ACO professional of that ACO:
 
 (1)(i) Identify all primary care services rendered by primary care physicians during one of the following:
@@ -10,13 +8,13 @@ Link to an amendment published at 87 FR 70234, Nov. 18, 2022.
 
 (B) The performance year (for purposes of final assignment).
 
-(ii) The beneficiary is assigned to an ACO if the allowed charges for primary care services furnished to the beneficiary by all the primary care physicians who are ACO professionals in the ACO are greater than the allowed charges for primary care services furnished by primary care physicians who are -
+(ii) The beneficiary is assigned to an ACO if the allowed charges for primary care services furnished to the beneficiary by all the primary care physicians who are ACO professionals in the ACO are greater than the allowed charges for primary care services furnished by primary care physicians who are—
 
 (A) ACO professionals in any other ACO; and
 
 (B) Not affiliated with any ACO and identified by a Medicare-enrolled TIN.
 
-(2) The second step considers the remainder of the beneficiaries who have received at least one primary care service from an ACO physician, but who have not had a primary care service rendered by any primary care physician, either inside or outside the ACO. The beneficiary will be assigned to an ACO if the allowed charges for primary care services furnished to the beneficiary by all ACO professionals in the ACO are greater than the allowed charges for primary care services furnished by -
+(2) The second step considers the remainder of the beneficiaries who have received at least one primary care service from an ACO physician, but who have not had a primary care service rendered by any primary care physician, either inside or outside the ACO. The beneficiary will be assigned to an ACO if the allowed charges for primary care services furnished to the beneficiary by all ACO professionals in the ACO are greater than the allowed charges for primary care services furnished by—
 
 (i) All ACO professionals in any other ACO; and
 
@@ -28,13 +26,13 @@ Link to an amendment published at 87 FR 70234, Nov. 18, 2022.
 
 (2) Identify all primary care services furnished to beneficiaries identified in paragraph (b)(1) of this section by ACO professionals of that ACO who are primary care physicians as defined under § 425.20, non-physician ACO professionals, and physicians with specialty designations included in paragraph (c) of this section during the applicable assignment window.
 
-(3) Under the first step, a beneficiary identified in paragraph (b)(1) of this section is assigned to an ACO if the allowed charges for primary care services furnished to the beneficiary by primary care physicians who are ACO professionals and non-physician ACO professionals in the ACO are greater than the allowed charges for primary care services furnished by primary care physicians, nurse practitioners, physician assistants, and clinical nurse specialists who are -
+(3) Under the first step, a beneficiary identified in paragraph (b)(1) of this section is assigned to an ACO if the allowed charges for primary care services furnished to the beneficiary by primary care physicians who are ACO professionals and non-physician ACO professionals in the ACO are greater than the allowed charges for primary care services furnished by primary care physicians, nurse practitioners, physician assistants, and clinical nurse specialists who are—
 
 (i) ACO professionals in any other ACO; or
 
 (ii) Not affiliated with any ACO and identified by a Medicare-enrolled billing TIN.
 
-(4) The second step considers the remainder of the beneficiaries identified in paragraph (b)(1) of this section who have not had a primary care service rendered by any primary care physician, nurse practitioner, physician assistant, or clinical nurse specialist, either inside the ACO or outside the ACO. The beneficiary will be assigned to an ACO if the allowed charges for primary care services furnished to the beneficiary by physicians who are ACO professionals with specialty designations as specified in paragraph (c) of this section are greater than the allowed charges for primary care services furnished by physicians with specialty designations as specified in paragraph (c) of this section -
+(4) The second step considers the remainder of the beneficiaries identified in paragraph (b)(1) of this section who have not had a primary care service rendered by any primary care physician, nurse practitioner, physician assistant, or clinical nurse specialist, either inside the ACO or outside the ACO. The beneficiary will be assigned to an ACO if the allowed charges for primary care services furnished to the beneficiary by physicians who are ACO professionals with specialty designations as specified in paragraph (c) of this section are greater than the allowed charges for primary care services furnished by physicians with specialty designations as specified in paragraph (c) of this section—
 
 (i) Who are ACO professionals in any other ACO; or
 
@@ -114,4 +112,18 @@ Link to an amendment published at 87 FR 70234, Nov. 18, 2022.
 
 (ii) Withholding or threatening to withhold medical services or limiting or threatening to limit access to care.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32841, June 9, 2015; 80 FR 71386, Nov. 16, 2015; 81 FR 80559, Nov. 15, 2016; 83 FR 60093, Nov. 23, 2018; 83 FR 68069, Dec. 31, 2018]
+(f) For performance year 2023 and subsequent performance years, CMS employs the following process to identify services furnished by FQHCs, RHCs, Method II CAHs, and ETA hospitals for purposes of the beneficiary assignment methodology under this section.
+
+(1) Prior to the start of the performance year and periodically during the performance year, CMS will determine the CCNs for all FQHCs, RHCs, Method II CAHs, and ETA hospitals enrolled under the TIN of an ACO participant, including all CCNs with an active enrollment in Medicare and all CCNs with a deactivated enrollment status.
+
+(2) CMS uses the CCNs identified in paragraph (f)(1) of this section in determining assignment for the performance year.
+
+(3) CMS accounts for changes in CCN enrollment status during the performance year as follows:
+
+(i) If a CCN with no prior Medicare claims experience enrolls under the TIN of an ACO participant after the ACO certifies its ACO participant list for a performance year as required under § 425.118(a)(3), CMS will consider services furnished by that CCN in determining beneficiary assignment to the ACO for the applicable performance year for ACOs under preliminary prospective assignment with retrospective reconciliation.
+
+(ii) Services furnished by a CCN with a deactivated enrollment status that is enrolled under an ACO participant at the start of a performance year will be considered in determining beneficiary assignment to the ACO for the applicable performance year or benchmark year.
+
+(iii) If a CCN enrolled under the TIN of an ACO participant at the start of the performance year enrolls under a different TIN during a performance year, CMS will continue to treat services billed by the CCN as services furnished by the ACO participant it was enrolled under at the start of the performance year for purposes of determining beneficiary assignment to the ACO for the applicable performance year.
+
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32841, June 9, 2015; 80 FR 71386, Nov. 16, 2015; 81 FR 80559, Nov. 15, 2016; 83 FR 60093, Nov. 23, 2018; 83 FR 68069, Dec. 31, 2018; 87 FR 70234, Nov. 18, 2022]

@@ -1,7 +1,5 @@
 ##### § 660.12 General groundfish prohibitions. #####
 
-Link to an amendment published at 87 FR 59728, Oct. 3, 2022.
-
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to:
 
 (a) *General.* (1) Retain any prohibited or protected species caught by means of fishing gear authorized under this subpart, unless otherwise authorized. Except as otherwise authorized, prohibited and protected species must be returned to the sea as soon as practicable with a minimum of injury when caught and brought on board.
@@ -46,7 +44,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (2) Fail to retain on board a vessel from which groundfish is landed, and provide to an authorized officer upon request, copies of any and all reports of groundfish landings, or receipts containing all data, and made in the exact manner required by the applicable state law throughout the cumulative limit period during which such landings occurred and for 15 days thereafter.
 
-(3) Falsify or fail to prepare and/or file, retain or make available records of fishing activities as specified in § 660.13(a)(1).
+(3) Falsify or fail to prepare and/or file, retain or make available records of fishing activities as specified in § 660.13(a)(1) or (2).
 
 (c) *Limited entry fisheries.* (1) Carry on board a vessel, or deploy, limited entry gear when the limited entry fishery for that gear is closed, except that a vessel may carry on board limited entry groundfish trawl gear as provided in § 660.112(a)(1), subpart D.
 
@@ -128,4 +126,4 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (8) Falsify any declaration report that is required, as specified at § 660.13.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78374, Dec. 15, 2010; 76 FR 27529, May 11, 2011; 76 FR 53834, Aug. 30, 2011; 76 FR 74733, Dec. 1, 2011; 78 FR 587, Jan. 3, 2013; 78 FR 68767, Nov. 15, 2013; 80 FR 22279, Apr. 21, 2015; 80 FR 71980, Nov. 18, 2015; 80 FR 77270, Dec. 14, 2015; 81 FR 36807, June 8, 2016; 81 FR 84425, Nov. 23, 2016; 84 FR 32098, July 5, 2019; 84 FR 63973, Nov. 19, 2019; 86 FR 10867, Feb. 23, 2021]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78374, Dec. 15, 2010; 76 FR 27529, May 11, 2011; 76 FR 53834, Aug. 30, 2011; 76 FR 74733, Dec. 1, 2011; 78 FR 587, Jan. 3, 2013; 78 FR 68767, Nov. 15, 2013; 80 FR 22279, Apr. 21, 2015; 80 FR 71980, Nov. 18, 2015; 80 FR 77270, Dec. 14, 2015; 81 FR 36807, June 8, 2016; 81 FR 84425, Nov. 23, 2016; 84 FR 32098, July 5, 2019; 84 FR 63973, Nov. 19, 2019; 86 FR 10867, Feb. 23, 2021; 87 FR 59728, Oct. 3, 2022]

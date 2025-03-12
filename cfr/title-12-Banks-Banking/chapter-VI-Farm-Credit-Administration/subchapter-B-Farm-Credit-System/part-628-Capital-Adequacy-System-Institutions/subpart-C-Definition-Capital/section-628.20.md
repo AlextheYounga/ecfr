@@ -1,7 +1,5 @@
 ##### § 628.20 Capital components and eligibility criteria for tier 1 and tier 2 capital instruments. #####
 
-Link to an amendment published at 87 FR 27493, May 9, 2022.
-
 (a) *Regulatory capital components.* A System institution's regulatory capital components are:
 
 (1) CET1 capital;
@@ -156,7 +154,7 @@ Link to an amendment published at 87 FR 27493, May 9, 2022.
 
 (2) [Reserved]
 
-(3) ALL up to 1.25 percent of the System institution's total risk-weighted assets not including any amount of the ALL.
+(3) AACL up to 1.25 percent of the System institution's total risk-weighted assets not including any amount of the AACL.
 
 (4)-(6) [Reserved]
 
@@ -202,4 +200,4 @@ Link to an amendment published at 87 FR 27493, May 9, 2022.
 
 (iii) Equities that the institution is required to cancel under § 615.5290 of this chapter in connection with a restructuring under part 617 of this chapter.
 
-[81 FR 49779, July 28, 2016, as amended at 86 FR 54359, Oct. 1, 2021]
+[81 FR 49779, July 28, 2016, as amended at 86 FR 54359, Oct. 1, 2021; 87 FR 27493, May 9, 2022]

@@ -1,0 +1,25 @@
+##### § 165.706 Safety Zone; Hurricanes, Tropical Storms and Other Disasters in South Florida. #####
+
+(a) *Regulated Areas.* All navigable waters, as defined in 33 CFR 2.36, within Sector Miami COTP zone, Miami, Florida, as described in 33 CFR 3.35-10, during specified conditions.
+
+(b) *Definitions.* (1) The term “designated representative” means Coast Guard Patrol Commanders, including Coast Guard coxswains, petty officers, and other officers operating Coast Guard vessels, and Federal, state, and local officers designated by or assisting the COTP Miami, in the enforcement of the regulated areas.
+
+(2) Port Condition WHISKEY means a condition set by the COTP when weather advisories indicate sustained tropical storm force winds from a tropical or hurricane force storm are predicted to make landfall at the port within 72 hours.
+
+(3) Port Condition X-RAY means a condition set by the COTP when weather advisories indicate sustained tropical storm force winds from a tropical or hurricane force storm are predicted to make landfall at the port within 48 hours.
+
+(4) Port Condition YANKEE means a condition set by the COTP when weather advisories indicate that sustained tropical storm force winds from a tropical or hurricane force storm are predicted to make landfall at the port within 24 hours.
+
+(5) Port Condition ZULU means a condition set by the COTP when weather advisories indicate that sustained tropical storm force winds from a tropical or hurricane force storm are predicted to make landfall at the port within 12 hours.
+
+(c) *Regulations*—(1) *Port Condition WHISKEY.* All vessel and port facilities must exercise due diligence in preparation for potential storm impacts. Slow-moving vessels may be ordered to depart to ensure safe avoidance of the incoming storm upon the anticipation of the setting of Port Condition X-RAY. Ports and waterfront facilities shall begin removing all debris and securing potential flying hazards. Container stacking plans shall be implemented. Waterfront facilities that are unable to reduce container-stacking height to no more than four high must submit a container stacking protocol to the COTP.
+
+(2) *Port Condition X-RAY.* All vessels and port facilities shall ensure that potential flying debris is removed or secured. Hazardous materials/pollution hazards must be secured in a safe manner and away from waterfront areas. Facilities shall continue to implement container-stacking protocol. Containers must not exceed four tiers, unless previously approved by the COTP. Containers carrying hazardous materials may not be stacked above the second tier. All oceangoing commercial vessels greater than 500-gross tons must prepare to depart ports and anchorages within the affected regulated area. These vessels shall depart immediately upon the setting of Port Condition YANKEE. During this condition, slow-moving vessels may be ordered to depart to ensure safe avoidance of the incoming storm. Vessels that are unable to depart the port must contact the COTP to request and receive permission to remain in port. Vessels with COTP's permission to remain in port must implement their pre-approved mooring arrangement. Terminal operators shall prepare to terminate all cargo operations. The COTP may require additional precautions to ensure the safety of the ports and waterways.
+
+(3) *Port Condition YANKEE.* Affected ports would be closed to inbound vessel traffic. All oceangoing commercial vessels greater than 500-gross tons must have departed designated ports within the Sector Miami COTP zone. Appropriate container stacking protocol must be completed. Terminal operators must terminate all cargo operations not associated with storm preparations. Cargo operations associated with storm preparations include moving cargo within or off the port for securing purposes, crane and other port/facility equipment preparations, and similar activities, but do not include moving cargo onto the port or vessel loading/discharging operations unless specifically authorized by the COTP. All facilities shall continue to operate in accordance with approved Facility Security Plans and comply with the requirements of the Maritime Transportation Security Act (MTSA).
+
+(4) *Port Condition ZULU.* All port waterfront operations are suspended, except final preparations that are expressly permitted by the COTP as necessary to ensure the safety of the ports and facilities. Coast Guard Port Assessment Teams will conduct final port assessments.
+
+(5) *Emergency Restrictions for Other Disasters.* Any natural or other disasters that are anticipated to affect the Sector Miami COTP zone will result in the prohibition of facility operations and commercial vessel traffic transiting or remaining in the affected port.
+
+[USCG-2016-1067, 85 FR 13522, Mar. 9, 2020]

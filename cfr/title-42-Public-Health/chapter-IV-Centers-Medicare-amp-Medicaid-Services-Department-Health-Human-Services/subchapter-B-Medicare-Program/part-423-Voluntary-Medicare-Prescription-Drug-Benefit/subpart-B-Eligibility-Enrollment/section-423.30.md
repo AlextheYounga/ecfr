@@ -1,10 +1,8 @@
 ##### § 423.30 Eligibility and enrollment. #####
 
-Link to an amendment published at 87 FR 66510, Nov. 3, 2022.
-
 (a) *General rule.* (1) An individual is eligible for Part D if he or she does all of the following:
 
-(i) Is entitled to Medicare benefits under Part A or enrolled in Medicare Part B.
+(i) Is entitled to Medicare benefits under Part A or enrolled in Medicare Part B (but not including an individual enrolled solely for coverage of immunosuppressive drugs under § 407.1(a)(6)) of this subchapter.
 
 (ii) Lives in the service area of a Part D plan, as defined under § 423.4.
 
@@ -30,4 +28,4 @@ Link to an amendment published at 87 FR 66510, Nov. 3, 2022.
 
 (d) *Enrollment in a cost-based HMO or CMP.* A Part D eligible individual enrolled in a cost-based HMO or CMP (as defined under part 417 of this chapter) that elects to receive qualified prescription drug coverage under such plan is ineligible to enroll in another Part D plan. A Part D eligible individual enrolled in a cost-based HMO or CMP offering qualified prescription drug coverage is eligible to enroll in a PDP if the individual does not elect to receive qualified prescription drug coverage under the cost-based HMO or CMP and otherwise meets the requirements of paragraph (a)(2) of this section.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 80 FR 7962, Feb. 12, 2015]
+[70 FR 4525, Jan. 28, 2005, as amended at 80 FR 7962, Feb. 12, 2015; 87 FR 66510, Nov. 3, 2022]

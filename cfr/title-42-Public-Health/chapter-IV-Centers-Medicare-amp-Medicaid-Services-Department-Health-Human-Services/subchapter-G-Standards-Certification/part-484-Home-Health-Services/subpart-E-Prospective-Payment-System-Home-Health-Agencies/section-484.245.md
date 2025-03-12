@@ -1,16 +1,18 @@
 ##### § 484.245 Requirements under the Home Health Quality Reporting Program (HH QRP). #####
 
-Link to an amendment published at 87 FR 66886, Nov. 4, 2022.
-
 (a) *Participation.* Beginning January 1, 2007, an HHA must report Home Health Quality Reporting Program (HH QRP) data in accordance with the requirements of this section.
 
 (b) *Data submission.* (1) Except as provided in paragraph (d) of this section, and for a program year, an HHA must submit all of the following to CMS:
 
-(i) Data on measures specified under sections 1899B(c)(1) and 1899B(d)(1) of the Act.
+(i) Data—
+
+(A) Required under section 1895(b)(3)(B)(v)(II) of the Act, including HHCAHPS survey data; and
+
+(B) On measures specified under sections 1899B(c)(1) and 1899B(d)(1) of the Act.
 
 (ii) Standardized patient assessment data required under section 1899B(b)(1) of the Act.
 
-(iii) Quality data required under section 1895(b)(3)(B)(v)(II) of the Act, including HHCAHPS survey data. For purposes of HHCAHPS survey data submission, the following additional requirements apply:
+(iii) For purposes of HHCAHPS survey data submission, the following additional requirements apply:
 
 (A) *Patient count.* An HHA that has less than 60 eligible unique HHCAHPS patients must annually submit to CMS their total HHCAHPS patient count to CMS to be exempt from the HHCAHPS reporting requirements for a calendar year.
 
@@ -27,6 +29,24 @@ Link to an amendment published at 87 FR 66886, Nov. 4, 2022.
 (E) *Compliance with oversight activities.* Approved HHCAHPS survey vendors must fully comply with all HHCAHPS oversight activities, including allowing CMS and its HHCAHPS program team to perform site visits at the vendors' company locations.
 
 (2) The data submitted under paragraph (b) of this section must be submitted in the form and manner, and at a time, specified by CMS.
+
+(3) *Measure removal factors.* CMS may remove a quality measure from the HH QRP based on one or more of the following factors:
+
+(i) Measure performance among HHAs is so high and unvarying that meaningful distinctions in improvements in performance can no longer be made.
+
+(ii) Performance or improvement on a measure does not result in better patient outcomes.
+
+(iii) A measure does not align with current clinical guidelines or practice.
+
+(iv) The availability of a more broadly applicable (across settings, populations, or conditions) measure for the particular topic.
+
+(v) The availability of a measure that is more proximal in time to desired patient outcomes for the particular topic.
+
+(vi) The availability of a measure that is more strongly associated with desired patient outcomes for the particular topic.
+
+(vii) Collection or public reporting of a measure leads to negative unintended consequences other than patient harm.
+
+(viii) The costs associated with a measure outweigh the benefit of its continued use in the program.
 
 (c) *Exceptions and extension requirements.* (1) An HHA may request and CMS may grant exceptions or extensions to the reporting requirements under paragraph (b) of this section for one or more quarters, when there are certain extraordinary circumstances beyond the control of the HHA.
 
@@ -78,4 +98,4 @@ Link to an amendment published at 87 FR 66886, Nov. 4, 2022.
 
 (e) *Appeals.* An HHA that is dissatisfied with CMS' decision on a request for reconsideration submitted under paragraph (d) of this section may file an appeal with the Provider Reimbursement Review Board (PRRB) under 42 CFR part 405, subpart R.
 
-[84 FR 60645, Nov. 8, 2019]
+[84 FR 60645, Nov. 8, 2019, as amended at 87 FR 66886, Nov. 4, 2022]

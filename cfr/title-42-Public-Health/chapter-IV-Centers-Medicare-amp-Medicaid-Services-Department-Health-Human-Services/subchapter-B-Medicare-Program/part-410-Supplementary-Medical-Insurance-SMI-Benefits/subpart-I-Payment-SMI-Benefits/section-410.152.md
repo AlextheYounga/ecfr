@@ -1,8 +1,6 @@
 ##### § 410.152 Amounts of payment. #####
 
-Link to an amendment published at 87 FR 70224, Nov. 18, 2022.
-
-(a) *General provisions* - (1) *Exclusion from incurred expenses.* As used in this section, “incurred expenses” are expenses incurred by an individual, during his or her coverage period, for covered Part B services, excluding the following:
+(a) *General provisions*—(1) *Exclusion from incurred expenses.* As used in this section, “incurred expenses” are expenses incurred by an individual, during his or her coverage period, for covered Part B services, excluding the following:
 
 (i) Expenses incurred for services for which the beneficiary is entitled to have payment made under Medicare Part A or would be so entitled except for the application of the Part A deductible and coinsurance requirements.
 
@@ -42,7 +40,7 @@ Link to an amendment published at 87 FR 70224, Nov. 18, 2022.
 
 (2) For services furnished by an HHA that is not a nominal charge provider, the lesser of the reasonable cost of the services and the customary charges for the services.
 
-(d) *Amount of payment: DME furnished as a home health service* - (1) *Basic rule.* Except as specified in paragraph (d)(2) of this section -
+(d) *Amount of payment: DME furnished as a home health service*—(1) *Basic rule.* Except as specified in paragraph (d)(2) of this section—
 
 (i) For DME furnished by an HHA that is a nominal charge provider, Medicare Part B pays 80 percent of fair compensation.
 
@@ -52,7 +50,7 @@ Link to an amendment published at 87 FR 70224, Nov. 18, 2022.
 
 (B) The reasonable cost of, or the customary charge for, the service, whichever is less, minus 20 percent of the customary (insofar as reasonable) charge for the service.
 
-(2) *Exception.* If the DME is used DME purchased by or on behalf of the beneficiary at a price at least 25 percent less than the reasonable charge for new equipment -
+(2) *Exception.* If the DME is used DME purchased by or on behalf of the beneficiary at a price at least 25 percent less than the reasonable charge for new equipment—
 
 (i) For used DME furnished by an HHA that is a nominal charge provider, Medicare Part B pays 100 percent of fair compensation.
 
@@ -74,15 +72,21 @@ Link to an amendment published at 87 FR 70224, Nov. 18, 2022.
 
 (3) For used DME furnished by other than a provider, 100 percent of the reasonable charge.
 
-(h) *Amount of payment: Pneumococcal vaccine.* Medicare Part B pays for pneumococcal vaccine and its administration as follows:
+(h) *Amount of payment: Preventive vaccine administration.* For the administration of the preventive vaccines described in paragraph (l)(1) of this section, as furnished by providers described in §§ 409.100 and 410.150 of this subchapter, Medicare Part B pays the following amounts, except as otherwise provided under this subchapter:
 
-(1) For services furnished by a nominal charge provider, 100 percent of fair compensation.
+(1) Effective January 1, 2022, for administration of an influenza, hepatitis B or pneumococcal vaccine, $30 per dose.
 
-(2) For services furnished by a provider that is not a nominal charge provider, the reasonable cost of the services or the customary charge for the service, whichever is less.
+(2) Effective January 1, 2022, for administration of a COVID-19 vaccine, $40 per dose.
 
-(3) For services furnished by other than a provider, a rural health clinic or a Federally qualified health center, 100 percent of the reasonable charge.
+(3) For services furnished on or after January 1 of the year following the year in which the Secretary ends the Emergency Use Authorization for drugs and biologicals issued pursuant to section 564 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb-3), for administration of a COVID-19 vaccine, an amount equal to the amount that would be paid for the administration of a preventive vaccine described in paragraph (h)(1).
 
-(4) For services furnished by a rural health clinic or a Federally qualified health center, 100 percent of the reasonable cost.
+(4) The payment amount for the administration of a preventive vaccine described in paragraphs (h)(1) through (3) of this section is adjusted to reflect geographic cost variations:
+
+(i) For services furnished before January 1, 2023, using the Geographic Practice Cost Indices (GPCIs) established for the year, as described in section 1848(e)(1) of the Act and §§ 414.2 and 414.26 of this subchapter.
+
+(ii) For services furnished on or after January 1, 2023, using the Geographic Adjustment Factor (GAF) established for the year as described in section 1848(e)(2) of the Act and §§ 414.2 and 414.26 of this subchapter.
+
+(5) The payment amount for administration of a preventive vaccine described in paragraphs (h)(1) through (3) of this section is updated annually using the percentage change in the Medicare Economic Index (MEI) as described in section 1842(i)(3) of the Act and § 405.504(d) of this subchapter.
 
 (i) *Amount of payment: ASC facility services.* (1) For ASC facility services furnished on or after July 1, 1987 and before January 1, 2008, in connection with the surgical procedures specified in part 416 of this chapter, Medicare Part B pays 80 percent of a standard overhead amount as specified in § 416.120(c) of this chapter, except that, for screening flexible sigmoidoscopies and screening colonoscopies, Part B coinsurance is 25 percent of the standard overhead amount and Medicare Part B pays 75 percent of the standard overhead amount.
 
@@ -100,7 +104,7 @@ Link to an amendment published at 87 FR 70224, Nov. 18, 2022.
 
 (l) *Amount of payment*: Preventive services. Except as provided otherwise in this paragraph, Medicare Part B pays 100 percent of the Medicare payment amount established under the applicable payment methodology for the service furnished by a provider or supplier for the following preventive services:
 
-(1) Pneumococcal (as specified in paragraph (h) of this section), influenza, hepatitis B, and COVID-19 vaccine and administration.
+(1) Pneumococcal, influenza, hepatitis B, and COVID-19 vaccine and administration.
 
 (2) Screening mammography.
 

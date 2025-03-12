@@ -1,8 +1,6 @@
 ##### § 413.13 Amount of payment if customary charges for services furnished are less than reasonable costs. #####
 
-Link to an amendment published at 87 FR 72287, Nov. 23, 2022.
-
-(a) *Definitions.* As used in this section -
+(a) *Definitions.* As used in this section—
 
 *Customary charges* means the regular rates that providers charge both beneficiaries and other paying patients for the services furnished to them.
 
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 72287, Nov. 23, 2022.
 
 *Reasonable cost* means cost actually incurred, to the extent that cost is necessary for the efficient delivery of the service, and subject to the exclusions specified in paragraph (d) of this section.
 
-(b) *Application of the lesser of costs or charges (LCC) principle* - (1) *General rule.* Except as provided in paragraph (c) of this section, CMS pays providers the lesser of the reasonable cost or the customary charges for services furnished to Medicare beneficiaries. Reasonable cost and customary charges are compared separately for Part A services and Part B services.
+(b) *Application of the lesser of costs or charges (LCC) principle*—(1) *General rule.* Except as provided in paragraph (c) of this section, CMS pays providers the lesser of the reasonable cost or the customary charges for services furnished to Medicare beneficiaries. Reasonable cost and customary charges are compared separately for Part A services and Part B services.
 
 (2) *Example.* (i) A provider's reasonable cost for covered services furnished to Medicare beneficiaries during a cost reporting period is $125,000.
 
@@ -22,7 +20,7 @@ Link to an amendment published at 87 FR 72287, Nov. 23, 2022.
 
 (iii) CMS pays the provider $110,000 less the deductible and coinsurance amounts for which the beneficiaries are responsible.
 
-(c) *Exceptions to the LCC principle* - (1) *Providers not subject to the LCC principle.* CMS pays the following providers the fair compensation for the services they furnish:
+(c) *Exceptions to the LCC principle*—(1) *Providers not subject to the LCC principle.* CMS pays the following providers the fair compensation for the services they furnish:
 
 (i) CORFs.
 
@@ -48,6 +46,8 @@ Link to an amendment published at 87 FR 72287, Nov. 23, 2022.
 
 (vi) *Skilled nursing facility services.* Skilled nursing facility services subject to the payment methodology set forth in §§ 413.330 et seq.
 
+(vii) Services furnished by a rural emergency hospital (REH). Services furnished by a rural emergency hospital are subject to the payment methodology set forth in part 419, subpart J, of this chapter.
+
 (d) *Exclusions from reasonable cost.* For purposes of comparison with customary charges under this section, reasonable cost does not include the following:
 
 (1) Payments made to a provider as reimbursement for bad debts arising from noncollection of Medicare deductible and coinsurance amounts, as provided in § 413.89.
@@ -60,7 +60,7 @@ Link to an amendment published at 87 FR 72287, Nov. 23, 2022.
 
 (5) Except as provided in paragraph (f)(2)(iii) of this section for making nominal charge determinations in special situations, graduate medical education costs.
 
-(e) *Reductions in customary charges.* Customary charges are reduced in proportion to the ratio of the aggregate amount actually collected from charge-paying non-Medicare patients to the amount that would have been realized had customary charges been paid, if the provider -
+(e) *Reductions in customary charges.* Customary charges are reduced in proportion to the ratio of the aggregate amount actually collected from charge-paying non-Medicare patients to the amount that would have been realized had customary charges been paid, if the provider—
 
 (1) Did not actually impose charges on most of the patients liable for payment for its services on a charge basis; or
 
@@ -70,7 +70,7 @@ Link to an amendment published at 87 FR 72287, Nov. 23, 2022.
 
 (1) *General rule.* The determination is based on charges actually billed to charge-paying, non-Medicare patients, and (except for clinical diagnostic laboratory tests that are paid under section 1833(h) of the Act) is made separately for Part A services and Part B services.
 
-(2) *Determination in special situations.* (i) *Charges based on ability to pay.* For providers that have a sliding scale or discounted charges based on patients' ability to pay, the determination -
+(2) *Determination in special situations.* (i) *Charges based on ability to pay.* For providers that have a sliding scale or discounted charges based on patients' ability to pay, the determination—
 
 (A) Is based on charges billed to all charge-paying patients;
 
@@ -82,4 +82,4 @@ Link to an amendment published at 87 FR 72287, Nov. 23, 2022.
 
 (iii) *Graduate medical education.* When making the nominal charge determination, graduate medical education payments (or the provider's reasonable costs for that education, if supported by appropriate data) are included in reasonable costs.
 
-[65 FR 8661, Feb. 22, 2000, as amended at 70 FR 47487, Aug. 12, 2005]
+[65 FR 8661, Feb. 22, 2000, as amended at 70 FR 47487, Aug. 12, 2005; 87 FR 72287, Nov. 23, 2022]

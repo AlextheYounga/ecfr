@@ -1,5 +1,3 @@
 ##### § 385.3 Late payments. #####
 
-A Licensee shall pay a late fee of 1.5% per month, or the highest lawful rate, whichever is lower, for any payment owed to a Copyright Owner and remaining unpaid after the due date established in 17 U.S.C. 115(c)(2)(I) or 115(d)(4)(A)(i), as applicable and detailed in part 210 of this title. Late fees shall accrue from the due date until the Copyright Owner receives payment.
-
-[84 FR 2031, Feb. 5, 2019, as amended at 84 FR 32316, July 8, 2019]
+A Licensee shall pay a late fee of 1.5% per month, or the highest lawful rate, whichever is lower, for any payment owed to a Copyright Owner and remaining unpaid after the due date established in 17 U.S.C. 115(c)(2)(I) or 17 U.S.C. 115(d)(4)(A)(i), as applicable and detailed in part 210 of this title. Late fees shall accrue from the due date until the Copyright Owner receives payment.

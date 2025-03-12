@@ -1,8 +1,6 @@
 ##### § 424.502 Definitions. #####
 
-Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
-
-As used in this subpart, unless the context indicates otherwise -
+As used in this subpart, unless the context indicates otherwise—
 
 *Affiliation* means, for purposes of applying § 424.519, any of the following:
 
@@ -28,9 +26,11 @@ As used in this subpart, unless the context indicates otherwise -
 
 *Deny/Denial* means the enrolling provider or supplier has been determined to be ineligible to receive Medicare billing privileges for Medicare covered items or services provided to Medicare beneficiaries.
 
+*Director* means a director of a corporation, regardless of whether the provider or supplier is a non-profit entity. This includes any member of the corporation's governing body irrespective of the precise title of either the board or the member.
+
 *Disclosable event* means, for purposes of § 424.519, any of the following:
 
-(1) Currently has an uncollected debt to Medicare, Medicaid, or CHIP, regardless of -
+(1) Currently has an uncollected debt to Medicare, Medicaid, or CHIP, regardless of—
 
 (i) The amount of the debt;
 
@@ -42,7 +42,7 @@ As used in this subpart, unless the context indicates otherwise -
 
 (3) Has been or is excluded by the OIG from participation in Medicare, Medicaid, or CHIP, regardless of whether the exclusion is currently being appealed or when the exclusion occurred or was imposed; or
 
-(4) Has had its Medicare, Medicaid, or CHIP enrollment denied, revoked, or terminated, regardless of -
+(4) Has had its Medicare, Medicaid, or CHIP enrollment denied, revoked, or terminated, regardless of—
 
 (i) The reason for the denial, revocation, or termination;
 
@@ -50,7 +50,7 @@ As used in this subpart, unless the context indicates otherwise -
 
 (iii) When the denial, revocation, or termination occurred or was imposed.
 
-*Enroll/Enrollment* means the process that Medicare uses to establish eligibility to submit claims for Medicare-covered items and services, and the process that Medicare uses to establish eligibility to order or certify Medicare-covered items and services. The process includes -
+*Enroll/Enrollment* means the process that Medicare uses to establish eligibility to submit claims for Medicare-covered items and services, and the process that Medicare uses to establish eligibility to order or certify Medicare-covered items and services. The process includes—
 
 (1) Identification of a provider or supplier;
 
@@ -78,7 +78,11 @@ As used in this subpart, unless the context indicates otherwise -
 
 *Managing employee* means a general manager, business manager, administrator, director, or other individual that exercises operational or managerial control over, or who directly or indirectly conducts, the day-to-day operation of the provider or supplier, either under contract or through some other arrangement, whether or not the individual is a W-2 employee of the provider or supplier.
 
+*Managing organization* means an entity that exercises operational or managerial control over, or that directly or indirectly conducts, the day-to-day operations of the provider or supplier, either under contract or through some other arrangement.
+
 *NPI* stands for National Provider Identifier.
+
+*Officer* means an officer of a corporation, regardless of whether the provider or supplier is a non-profit entity.
 
 *Operational* means the provider or supplier has a qualified physical practice location, is open to the public for the purpose of providing health care related services, is prepared to submit valid Medicare claims, and is properly staffed, equipped, and stocked (as applicable, based on the type of facility or organization, provider or supplier specialty, or the services or items being rendered), to furnish these items or services.
 
@@ -96,4 +100,4 @@ As used in this subpart, unless the context indicates otherwise -
 
 *Voluntary termination* means that a provider or supplier, including an individual physician or nonphysician practitioner, submits written confirmation to CMS of its decision to discontinue enrollment in the Medicare program.
 
-[71 FR 20776, Apr. 21, 2006, as amended at 73 FR 69939, Nov. 19, 2008; 75 FR 70464, Nov. 17, 2010; 75 FR 73628, Nov. 29, 2010; 76 FR 5962, Feb. 2, 2011; 79 FR 72531, Dec. 5, 2014; 82 FR 53368, Nov. 15, 2017; 84 FR 47852, Sept. 10, 2019; 84 FR 63203, Nov. 15, 2019; 86 FR 65682, Nov. 19, 2021]
+[71 FR 20776, Apr. 21, 2006, as amended at 73 FR 69939, Nov. 19, 2008; 75 FR 70464, Nov. 17, 2010; 75 FR 73628, Nov. 29, 2010; 76 FR 5962, Feb. 2, 2011; 79 FR 72531, Dec. 5, 2014; 82 FR 53368, Nov. 15, 2017; 84 FR 47852, Sept. 10, 2019; 84 FR 63203, Nov. 15, 2019; 86 FR 65682, Nov. 19, 2021; 87 FR 70231, Nov. 18, 2022]

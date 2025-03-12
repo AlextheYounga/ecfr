@@ -6,27 +6,27 @@ Link to an amendment published at 87 FR 66508, Nov. 3, 2022.
 
 (1) The individual's meeting the SMI eligibility requirements and the requirements for being a member of the buy-in group; and
 
-(2) The effective date of the buy-in agreement or agreement modification that covers the group to which the individual belongs, and which may not be earlier than the third month after the month in which the agreement or modification is executed.
+(2) The effective date of the buy-in agreement or agreement modification that covers the buy-in group to which the individual belongs, and which may not be earlier than the third month after the month in which the agreement or modification is executed. The State must apply the earliest applicable start date for the applicable buy-in group.
 
-(b) *Application of general rule: Medicaid eligibles who are, or are treated as, cash assistance beneficiaries.* For Medicaid eligibles who are, or are treated as, cash assistance beneficiaries (that is, are members of categories A through E of § 407.42(a) or categories A through C of § 407.43(a)), coverage begins with the later of the following:
+(b) *Application of general rule: Medicaid eligibles who are, or are treated as, cash assistance beneficiaries.* For Medicaid eligibles who are, or are treated as, cash assistance beneficiaries, coverage begins with the later of the following:
 
-(1) The first month in which the individual -
+(1) The first month in which the individual—
 
 (i) Meets the SMI eligibility requirements specified in § 407.10; and
 
-(ii) Is a member of one of those categories.
+(ii) Is, or is treated as, a cash assistance beneficiary.
 
 (2) The month in which the buy-in agreement is effective.
 
-(c) *Application of general rule: Qualified Medicare Beneficiaries.* For individuals who are QMBs (that is, are members of category F of § 407.42 or category D of § 407.43(a)), coverage begins with the later of the following:
+(c) *Application of general rule: Qualified Medicare Beneficiaries.* For individuals who are QMBs as defined under § 435.123 of this chapter, coverage begins with the later of the following:
 
 (1) The first month in which the individual meets the SMI eligibility requirements specified in § 407.10, and has QMB status.
 
 (2) The month in which the buy-in agreement or agreement modification covering QMBs is effective.
 
-(d) *Application of general rule: Other individuals eligible for Medicaid.* For individuals who are members of category G of § 407.42(a) or category E of § 407.43(a), coverage begins with the later of the following:
+(d) *Application of general rule: Other individuals eligible for Medicaid.* For individuals who are not cash assistance beneficiaries, are not treated as cash assistance beneficiaries, and are not QMBs, coverage begins with the later of the following:
 
-(1) The second month after the month in which the individual -
+(1) The second month after the month in which the individual—
 
 (i) Meets the SMI eligibility requirements specified in § 407.10; and
 
@@ -36,4 +36,8 @@ Link to an amendment published at 87 FR 66508, Nov. 3, 2022.
 
 (e) *Coverage based on erroneous report.* If the State erroneously reports to SSA that an individual is a member of its coverage group, the rules of paragraphs (a) through (d) of this section apply, and coverage begins as though the individual were in fact a member of the group. Coverage will end only as provided in § 407.48.
 
-[56 FR 38082, Aug. 12, 1991]
+(f) [Reserved]
+
+(g) *Part B enrollment under a buy-in agreement.* Individuals in a buy-in group can enroll in Part B at any time of the year, without regard to Medicare enrollment periods.
+
+[56 FR 38082, Aug. 12, 1991, as amended at 87 FR 66508, Nov. 3, 2022]

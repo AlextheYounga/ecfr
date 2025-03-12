@@ -1,7 +1,5 @@
 ##### § 628.22 Regulatory capital adjustments and deductions. #####
 
-Link to an amendment published at 87 FR 27493, May 9, 2022.
-
 (a) *Regulatory capital deductions from CET1 capital.* A System institution must deduct from the sum of its CET1 capital elements the items set forth in this paragraph (a):
 
 (1) Goodwill, net of associated deferred tax liabilities (DTLs) in accordance with paragraph (e) of this section;
@@ -26,7 +24,7 @@ Link to an amendment published at 87 FR 27493, May 9, 2022.
 
 (c) *Deductions from regulatory capital*.6 (1) [Reserved]
 
-6 The System institution must calculate amounts deducted under paragraphs (c) through (f) of this section and § 628.23 after it calculates the amount of ALL includable in tier 2 capital under § 628.20(d)(3).
+6 The System institution must calculate amounts deducted under paragraphs (c) through (f) of this section and § 628.23 after it calculates the amount of AACL includable in tier 2 capital under § 628.20(d)(3).
 
 (2) *Corresponding deduction approach*. For purposes of subpart C of this part, the corresponding deduction approach is the methodology used for the deductions from regulatory capital related to purchased equity investments in another System institution (as described in paragraph (c)(5) of this section). Under the corresponding deduction approach, a System institution must make deductions from the component of capital for which the underlying instrument would qualify if it were issued by the System institution itself. If the System institution does not have a sufficient amount of a specific component of capital to effect the required deduction, the shortfall must be deducted according to paragraph (f) of this section.
 
@@ -56,4 +54,4 @@ Link to an amendment published at 87 FR 27493, May 9, 2022.
 
 (h) [Reserved]
 
-[81 FR 49779, July 28, 2016, as amended at 86 FR 54360, Oct. 1, 2021]
+[81 FR 49779, July 28, 2016, as amended at 86 FR 54360, Oct. 1, 2021; 87 FR 27493, May 9, 2022]

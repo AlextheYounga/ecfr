@@ -1,0 +1,13 @@
+##### § 134.1003 Grounds for filing a VOSB or SDVOSB status protest. #####
+
+(a) *Veteran status.* In cases where the protest is based on service-connected disability, permanent and severe disability, or veteran status, the Judge will only consider a protest that presents specific allegations supporting the contention that the owner(s) cannot provide documentation from the VA, Department of Defense, or the U.S. National Archives and Records Administration to show that they meet the definition of veteran, service-disabled veteran, or service-disabled veteran with a permanent and severe disability.
+
+(b) *Ownership and control.* In cases where the protest is based on ownership and/or control, the Judge will consider a protest only if the protester presents credible evidence that the concern is not 51% owned and controlled by one or more veterans or service-disabled veterans.
+
+(c) *Ostensible subcontractor.* In cases where the protest is based on an allegation that the prime contractor appears unduly reliant on one or more, non-VOSB or non-SDVOSB subcontractors, or the non-VOSB or non-SDVOSB subcontractor is performing the primary and vital requirements of the contract, OHA will consider a protest only if the protester presents credible evidence of the alleged undue reliance or credible evidence that the primary and vital requirements will be performed by the subcontractor(s).
+
+(d) *Joint ventures.* A VOSB or SDVOSB joint venture may be protested regarding the status of the managing VOSB or SDVOSB joint venture partner or for failure to meet the requirements of § 128.402 of this chapter. If the joint venture is found to be ineligible solely based on failure to meet the requirements of that section, the joint venture will be ineligible for the contract at issue. The finding of ineligibility is limited to that contract and will not affect the underlying eligibility of the VOSB or SDVOSB joint venture partner.
+
+(e) *Date for determining eligibility.* (1) If the VOSB or SDVOSB status protest pertains to a procurement, the Judge will determine a protested concern's eligibility as a VOSB or SDVOSB as of the date of its initial offer or response which includes price. For a protest challenging an ostensible subcontractor or a joint venture's compliance with the joint venture agreement requirements set forth in § 128.402(c), the Judge will determine eligibility as of the date of the final proposal revision for negotiated acquisitions or as of final bid for sealed bidding.
+
+(2) If the VOSB or SDVOSB status protest does not pertain to a procurement, the Judge will determine a protested concern's eligibility as a VOSB or SDVOSB as of the date the VOSB or SDVOSB status protest was filed.

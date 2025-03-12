@@ -1,7 +1,5 @@
 ##### § 412.2 Basis of payment. #####
 
-Link to an amendment published at 87 FR 72286, Nov. 23, 2022.
-
 (a) *Payment on a per discharge basis.* Under both the inpatient operating and inpatient capital-related prospective payment systems, hospitals are paid a predetermined amount per discharge for inpatient hospital services furnished to Medicare beneficiaries. The prospective payment rate for each discharge (as defined in § 412.4) is determined according to the methodology described in subpart D, E, or G of this part, as appropriate, for operating costs, and according to the methodology described in subpart M of this part for capital-related costs. An additional payment is made for both inpatient operating and inpatient capital-related costs, in accordance with subpart F of this part, for cases that are extraordinarily costly to treat.
 
 (b) *Payment in full.* (1) The prospective payment amount paid for inpatient hospital services is the total Medicare payment for the inpatient operating costs (as described in paragraph (c) of this section) and the inpatient capital-related costs (as described in paragraph (d) of this section) incurred in furnishing services covered by the Medicare program.
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 72286, Nov. 23, 2022.
 
 (3) If a patient is admitted to an acute care hospital and then the acute care hospital meets the criteria at § 412.23(e) to be paid as a LTCH, during the course of the patient's hospitalization, Medicare considers all the days of the patient stay in the facility (days prior to and after the designation of LTCH status) to be a single episode of LTCH care. Medicare will not make payment under subpart H for any part of the hospitalization. Payment for the entire patient stay (days prior to and after the designation of LTCH status) will be made in accordance with the requirements specified in § 412.521. The requirements of this paragraph (b)(3) apply only to a patient stay in which a patient is in an acute care hospital and that hospital is designated as a LTCH on or after October 1, 2004.
 
-(c) *Inpatient operating costs.* The prospective payment system provides a payment amount for inpatient operating costs, including -
+(c) *Inpatient operating costs.* The prospective payment system provides a payment amount for inpatient operating costs, including—
 
 (1) Operating costs for routine services (as described in § 413.53(b) of this chapter), such as the costs of room, board, and routine nursing services;
 
@@ -73,6 +71,8 @@ Link to an amendment published at 87 FR 72286, Nov. 23, 2022.
 (8) For discharges on or after June 19, 1990, and before October 1, 1994, and for discharges on or after October 1, 1997, a payment amount per unit for blood clotting factor provided to Medicare inpatients who have hemophilia. For discharges occurring on or after October 1, 2005, the additional payment is made based on the average sales price methodology specified in subpart K, part 414 of this subchapter and the furnishing fee specified in § 410.63 of this subchapter.
 
 (9) Special additional payment for certain new technology as specified in §§ 412.87 and 412.88 of subpart F.
+
+(10) A payment adjustment for the additional resource costs of domestic National Institute for Occupational Safety and Health approved surgical N95 respirators as specified in § 412.113.
 
 (g) *Payment adjustment for certain replaced devices.* CMS makes a payment adjustment for certain replaced devices, as provided under § 412.89.
 

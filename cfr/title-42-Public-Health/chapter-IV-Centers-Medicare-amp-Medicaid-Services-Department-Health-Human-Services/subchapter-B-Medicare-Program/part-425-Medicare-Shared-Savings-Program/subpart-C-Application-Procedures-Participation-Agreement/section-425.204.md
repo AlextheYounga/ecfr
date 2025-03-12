@@ -1,7 +1,5 @@
 ##### § 425.204 Content of the application. #####
 
-Link to an amendment published at 87 FR 70232, Nov. 18, 2022.
-
 (a) *Accountability for beneficiaries.* As part of its application and participation agreement, the ACO must certify that the ACO, its ACO participants, and its ACO providers/suppliers have agreed to become accountable for the quality, cost, and overall care of the Medicare fee-for-service beneficiaries assigned to the ACO.
 
 (b) *Prior participation*. Upon request by CMS during the application cycle, the ACO must submit information regarding prior participation in the Medicare Shared Savings Program by the ACO, its ACO participants, or its ACO providers/suppliers, including such information as may be necessary for CMS to determine whether to approve an ACO's application in accordance with § 425.224(b).
@@ -18,7 +16,7 @@ Link to an amendment published at 87 FR 70232, Nov. 18, 2022.
 
 (iii) Materials documenting the ACO's organization and management structure, including an organizational chart, a list of committees (including names of committee members) and their structures, and job descriptions for senior administrative and clinical leaders specifically noted in § 425.108 and § 425.112(a)(2).
 
-(iv) Evidence that the governing body -
+(iv) Evidence that the governing body—
 
 (A) Is an identifiable body;
 
@@ -50,7 +48,7 @@ Link to an amendment published at 87 FR 70232, Nov. 18, 2022.
 
 (viii) Resumes and other documentation required for leaders of the ACO.
 
-(3) If an ACO requests an exception to the governing body requirement in § 425.106(c)(2) or (c)(3), the ACO must describe -
+(3) If an ACO requests an exception to the governing body requirement in § 425.106(c)(2) or (c)(3), the ACO must describe—
 
 (i) Why it seeks to differ from the requirement; and
 
@@ -158,7 +156,7 @@ Link to an amendment published at 87 FR 70232, Nov. 18, 2022.
 
 (C) CMS determines that the ACO does not owe any shared losses under the Shared Savings Program for any of the performance years of the agreement period.
 
-(g) *Consideration of claims billed under merged and acquired entities' TINs.* An ACO may request that CMS consider, for purposes of beneficiary assignment and establishing the ACO's benchmark under § 425.601, § 425.602, or § 425.603, claims billed under the TINs of entities that have been acquired through sale or merger by an ACO participant.
+(g) *Consideration of claims billed under merged and acquired entities' TINs.* An ACO may request that CMS consider, for purposes of beneficiary assignment and establishing the ACO's benchmark under §§ 425.601, 425.602, 425.603, or 425.652, claims billed under the TINs of entities that have been acquired through sale or merger by an ACO participant.
 
 (1) The ACO may include an acquired entity's TIN on its ACO participant list under the following circumstances:
 
@@ -170,7 +168,7 @@ Link to an amendment published at 87 FR 70232, Nov. 18, 2022.
 
 (2) The ACO must submit the following supporting documentation in the form and manner specified by CMS.
 
-(i) An attestation that -
+(i) An attestation that—
 
 (A) Identifies by TIN both the acquired entity and the ACO participant that acquired it;
 
@@ -180,4 +178,4 @@ Link to an amendment published at 87 FR 70232, Nov. 18, 2022.
 
 (ii) Documentation sufficient to demonstrate that the acquired entity's TIN was merged with or purchased by the ACO participant.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32837, June 9, 2015; 81 FR 80559, Nov. 15, 2016; 82 FR 53369, Nov. 15, 2017; 83 FR 68063, Dec. 31, 2018; 85 FR 85038, Dec. 28, 2020; 86 FR 65683, Nov. 19, 2021]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32837, June 9, 2015; 81 FR 80559, Nov. 15, 2016; 82 FR 53369, Nov. 15, 2017; 83 FR 68063, Dec. 31, 2018; 85 FR 85038, Dec. 28, 2020; 86 FR 65683, Nov. 19, 2021; 87 FR 70232, Nov. 18, 2022]

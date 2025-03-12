@@ -1,6 +1,6 @@
 ##### § 1.16 National application filing, search, and examination fees. #####
 
-Link to an amendment published at 86 FR 66193, Nov. 22, 2021.Link to an amendment published at 87 FR 80073, Dec. 29, 2022.Link to an amendment published at 87 FR 80074, Dec. 29, 2022.
+Link to an amendment published at 85 FR 46985, Aug. 3, 2020.Link to an amendment published at 86 FR 66193, Nov. 22, 2021.Link to an amendment published at 87 FR 80073, Dec. 29, 2022.Link to an amendment published at 87 FR 80074, Dec. 29, 2022.
 
 (a) Basic fee for filing each application under 35 U.S.C. 111 for an original patent, except design, plant, or provisional applications:
 
@@ -197,4 +197,4 @@ Note to § 1.16:
 
 See §§ 1.445, 1.482 and 1.492 for international application filing and processing fees.
 
-[70 FR 3887, Jan. 27, 2005, as amended at 70 FR 30365, May 26, 2005; 72 FR 46901, Aug. 22, 2007; 73 FR 47540, Aug. 14, 2008; 76 FR 70653, Nov. 15, 2011; 77 FR 48812, Aug. 14, 2012; 77 FR 54365, Sept. 5, 2012; 78 FR 4284, Jan. 18, 2013; 78 FR 62395, Oct. 21, 2013; 80 FR 17954, Apr. 2, 2015; 82 FR 52813, Nov. 14, 2017; 85 FR 46985, Aug. 3, 2020]Effective Date Note:At 85 FR 46985, Aug. 3, 2020, § 1.16 was amended by adding paragraph (u), effective Jan. 1, 2022. This effective date was delayed until Jan. 1, 2023 at 86 FR 66193, Nov. 22, 2021.
+[70 FR 3887, Jan. 27, 2005, as amended at 70 FR 30365, May 26, 2005; 72 FR 46901, Aug. 22, 2007; 73 FR 47540, Aug. 14, 2008; 76 FR 70653, Nov. 15, 2011; 77 FR 48812, Aug. 14, 2012; 77 FR 54365, Sept. 5, 2012; 78 FR 4284, Jan. 18, 2013; 78 FR 62395, Oct. 21, 2013; 80 FR 17954, Apr. 2, 2015; 82 FR 52813, Nov. 14, 2017; 85 FR 46985, Aug. 3, 2020]Effective Date Note:At 85 FR 46985, Aug. 3, 2020, § 1.16 was amended by adding paragraph (u), effective Jan. 1, 2022. This effective date was delayed until Jan. 1, 2023 at 86 FR 66193, Nov. 22, 2021. At 87 FR 80073, Dec. 29, 2022, the effective date was further delayed to Apr. 3, 2023.

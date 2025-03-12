@@ -1,7 +1,5 @@
 ##### § 660.73 Latitude/longitude coordinates defining the 100 fm (183 m) through 150 fm (274 m) depth contours. #####
 
-Link to an amendment published at 87 FR 77017, Dec. 16, 2022.
-
 Boundaries for some GCAs are defined by straight lines connecting a series of latitude/longitude coordinates. This section provides coordinates for the 100 fm (183 m) through 150 fm (274 m) depth contours.
 
 (a) The 100-fm (183-m) depth contour used between the U.S. border with Canada and the U.S. border with Mexico is defined by straight lines connecting all of the following points in the order stated:
@@ -322,333 +320,347 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (158) 40°40.14′ N. lat., 124°30.90′ W. long.;
 
-(159) 40°37.35′ N. lat., 124°29.05′ W. long.;
+(159) 40°39.44′ N lat., 124°29.08′ W long.;
 
-(160) 40°34.76′ N. lat., 124°29.82′ W. long.;
+(160) 40°37.08′ N lat., 124°28.29′ W long.;
 
-(161) 40°36.78′ N. lat., 124°37.06′ W. long.;
+(161) 40°34.76′ N lat., 124°29.82′ W long.;
 
-(162) 40°32.44′ N. lat., 124°39.58′ W. long.;
+(162) 40°36.78′ N lat., 124°37.06′ W long.;
 
-(163) 40°30.37′ N. lat., 124°37.30′ W. long.;
+(163) 40°32.44′ N lat., 124°39.58′ W long.;
 
-(164) 40°28.48′ N. lat., 124°36.95′ W. long.;
+(164) 40°30.37′ N lat., 124°37.30′ W long.;
 
-(165) 40°24.82′ N. lat., 124°35.12′ W. long.;
+(165) 40°28.48′ N lat., 124°36.95′ W long.;
 
-(166) 40°23.30′ N. lat., 124°31.60′ W. long.;
+(166) 40°24.82′ N lat., 124°35.12′ W long.;
 
-(167) 40°23.52′ N. lat., 124°28.78′ W. long.;
+(167) 40°23.30′ N lat., 124°31.60′ W long.;
 
-(168) 40°22.43′ N. lat., 124°25.00′ W. long.;
+(168) 40°23.52′ N lat., 124°28.78′ W long.;
 
-(169) 40°21.72′ N. lat., 124°24.94′ W. long.;
+(169) 40°22.43′ N lat., 124°25.00′ W long.;
 
-(170) 40°21.87′ N. lat., 124°27.96′ W. long.;
+(170) 40°21.72′ N lat., 124°24.94′ W long.;
 
-(171) 40°21.40′ N. lat., 124°28.74′ W. long.;
+(171) 40°21.87′ N lat., 124°27.96′ W long.;
 
-(172) 40°19.68′ N. lat., 124°28.49′ W. long.;
+(172) 40°21.40′ N lat., 124°28.74′ W long.;
 
-(173) 40°17.73′ N. lat., 124°25.43′ W. long.;
+(173) 40°19.68′ N lat., 124°28.49′ W long.;
 
-(174) 40°18.37′ N. lat., 124°23.35′ W. long.;
+(174) 40°17.73′ N lat., 124°25.43′ W long.;
 
-(175) 40°15.75′ N. lat., 124°26.05′ W. long.;
+(175) 40°18.37′ N lat., 124°23.35′ W long.;
 
-(176) 40°16.75′ N. lat., 124°33.71′ W. long.;
+(176) 40°15.75′ N lat., 124°26.05′ W long.;
 
-(177) 40°16.29′ N. lat., 124°34.36′ W. long.;
+(177) 40°16.75′ N lat., 124°33.71′ W long.;
 
-(178) 40°10.13′ N lat., 124°21.92′ W long.;
+(178) 40°16.29′ N lat., 124°34.36′ W long.;
 
-(179) 40°07.70′ N. lat., 124°18.44′ W. long.;
+(179) 40°10.13′ N lat., 124°21.92′ W long.;
 
-(180) 40°08.84′ N. lat., 124°15.86′ W. long.;
+(180) 40°07.70′ N lat., 124°18.44′ W long.;
 
-(181) 40°06.39′ N lat., 124°17.26′ W long.;
+(181) 40°08.84′ N lat., 124°15.86′ W long.;
 
-(182) 40°03.15′ N. lat., 124°14.43′ W. long.;
+(182) 40°06.39′ N lat., 124°17.26′ W long.;
 
-(183) 40°02.19′ N. lat., 124°12.85′ W. long.;
+(183) 40°03.15′ N lat., 124°14.43′ W long.;
 
-(184) 40°02.89′ N. lat., 124°11.78′ W. long.;
+(184) 40°02.19′ N lat., 124°12.85′ W long.;
 
-(185) 40°02.78′ N. lat., 124°10.70′ W. long.;
+(185) 40°02.89′ N lat., 124°11.78′ W long.;
 
-(186) 40°04.57′ N. lat., 124°10.08′ W. long.;
+(186) 40°02.78′ N lat., 124°10.70′ W long.;
 
-(187) 40°06.06′ N. lat., 124°08.30′ W. long.;
+(187) 40°04.57′ N lat., 124°10.08′ W long.;
 
-(188) 40°04.05′ N. lat., 124°08.93′ W. long.;
+(188) 40°06.06′ N lat., 124°08.30′ W long.;
 
-(189) 40°01.17′ N. lat., 124°08.80′ W. long.;
+(189) 40°04.05′ N lat., 124°08.93′ W long.;
 
-(190) 40°01.00′ N lat., 124°09.96′ W long.;
+(190) 40°01.17′ N lat., 124°08.80′ W long.;
 
-(191) 39°58.07′ N lat., 124°11.81′ W long.;
+(191) 40°01.00′ N lat., 124°09.96′ W long.;
 
-(192) 39°56.39′ N lat., 124°08.69′ W long.;
+(192) 39°58.07′ N lat., 124°11.81′ W long.;
 
-(193) 39°54.64′ N. lat., 124°07.30′ W. long.;
+(193) 39°56.39′ N lat., 124°08.69′ W long.;
 
-(194) 39°53.86′ N. lat., 124°07.95′ W. long.;
+(194) 39°54.64′ N lat., 124°07.30′ W long.;
 
-(195) 39°51.95′ N. lat., 124°07.63′ W. long.;
+(195) 39°53.86′ N lat., 124°07.95′ W long.;
 
-(196) 39°48.78′ N. lat., 124°03.29′ W. long.;
+(196) 39°51.95′ N lat., 124°07.63′ W long.;
 
-(197) 39°47.36′ N. lat., 124°03.31′ W. long.;
+(197) 39°48.78′ N lat., 124°03.29′ W long.;
 
-(198) 39°40.08′ N. lat., 123°58.37′ W. long.;
+(198) 39°47.36′ N lat., 124°03.31′ W long.;
 
-(199) 39°36.16′ N. lat., 123°56.90′ W. long.;
+(199) 39°40.08′ N lat., 123°58.37′ W long.;
 
-(200) 39°30.75′ N. lat., 123°55.86′ W. long.;
+(200) 39°36.16′ N lat., 123°56.90′ W long.;
 
-(201) 39°31.62′ N. lat., 123°57.33′ W. long.;
+(201) 39°30.75′ N lat., 123°55.86′ W long.;
 
-(202) 39°30.91′ N. lat., 123°57.88′ W. long.;
+(202) 39°31.62′ N lat., 123°57.33′ W long.;
 
-(203) 39°01.79′ N. lat., 123°56.59′ W. long.;
+(203) 39°30.91′ N lat., 123°57.88′ W long.;
 
-(204) 38°59.42′ N. lat., 123°55.67′ W. long.;
+(204) 39°01.79′ N lat., 123°56.59′ W long.;
 
-(205) 38°58.89′ N. lat., 123°56.28′ W. long.;
+(205) 38°59.42′ N lat., 123°55.67′ W long.;
 
-(206) 38°57.50′ N. lat., 123°56.28′ W. long.;
+(206) 38°58.89′ N lat., 123°56.28′ W long.;
 
-(207) 38°54.72′ N. lat., 123°55.68′ W. long.;
+(207) 38°57.50′ N lat., 123°56.28′ W long.;
 
-(208) 38°48.95′ N. lat., 123°51.85′ W. long.;
+(208) 38°54.72′ N lat., 123°55.68′ W long.;
 
-(209) 38°36.67′ N. lat., 123°40.20′ W. long.;
+(209) 38°48.95′ N lat., 123°51.85′ W long.;
 
-(210) 38°33.82′ N. lat., 123°39.23′ W. long.;
+(210) 38°36.67′ N lat., 123°40.20′ W long.;
 
-(211) 38°29.02′ N. lat., 123°33.52′ W. long.;
+(211) 38°33.82′ N lat., 123°39.23′ W long.;
 
-(212) 38°18.88′ N. lat., 123°25.93′ W. long.;
+(212) 38°29.02′ N lat., 123°33.52′ W long.;
 
-(213) 38°14.12′ N. lat., 123°23.26′ W. long.;
+(213) 38°18.88′ N lat., 123°25.93′ W long.;
 
-(214) 38°11.07′ N. lat., 123°22.07′ W. long.;
+(214) 38°14.12′ N lat., 123°23.26′ W long.;
 
-(215) 38°03.18′ N. lat., 123°20.77′ W. long.;
+(215) 38°11.07′ N lat., 123°22.07′ W long.;
 
-(216) 38°00.00′ N. lat., 123°23.08′ W. long.;
+(216) 38°03.18′ N lat., 123°20.77′ W long.;
 
-(217) 37°55.07′ N. lat., 123°26.81′ W. long.;
+(217) 38°00.00′ N lat., 123°23.08′ W long.;
 
-(218) 37°50.66′ N. lat., 123°23.06′ W. long.;
+(218) 37°55.07′ N lat., 123°26.81′ W long.;
 
-(219) 37°45.18′ N. lat., 123°11.88′ W. long.;
+(219) 37°50.66′ N lat., 123°23.06′ W long.;
 
-(220) 37°35.67′ N. lat., 123°01.20′ W. long.;
+(220) 37°45.18′ N lat., 123°11.88′ W long.;
 
-(221) 37°26.81′ N. lat., 122°55.57′ W. long.;
+(221) 37°35.67′ N lat., 123°01.20′ W long.;
 
-(222) 37°26.78′ N. lat., 122°53.91′ W. long.;
+(222) 37°26.81′ N lat., 122°55.57′ W long.;
 
-(223) 37°25.74′ N. lat., 122°54.13′ W. long.;
+(223) 37°26.78′ N lat., 122°53.91′ W long.;
 
-(224) 37°25.33′ N. lat., 122°53.59′ W. long.;
+(224) 37°25.74′ N lat., 122°54.13′ W long.;
 
-(225) 37°25.29′ N. lat., 122°52.57′ W. long.;
+(225) 37°25.33′ N lat., 122°53.59′ W long.;
 
-(226) 37°24.50′ N. lat., 122°52.09′ W. long.;
+(226) 37°25.29′ N lat., 122°52.57′ W long.;
 
-(227) 37°23.25′ N. lat., 122°53.12′ W. long.;
+(227) 37°24.50′ N lat., 122°52.09′ W long.;
 
-(228) 37°15.58′ N. lat., 122°48.36′ W. long.;
+(228) 37°23.25′ N lat., 122°53.12′ W long.;
 
-(229) 37°11.00′ N. lat., 122°44.50′ W. long.;
+(229) 37°15.58′ N lat., 122°48.36′ W long.;
 
-(230) 37°07.00′ N. lat., 122°41.25′ W. long.;
+(230) 37°11.00′ N lat., 122°44.50′ W long.;
 
-(231) 37°03.18′ N. lat., 122°38.15′ W. long.;
+(231) 37°07.00′ N lat., 122°41.25′ W long.;
 
-(232) 37°00.48′ N. lat., 122°33.93′ W. long.;
+(232) 37°03.18′ N lat., 122°38.15′ W long.;
 
-(233) 36°58.70′ N. lat., 122°27.22′ W. long.;
+(233) 37°00.48′ N lat., 122°33.93′ W long.;
 
-(234) 37°00.85′ N. lat., 122°24.70′ W. long.;
+(234) 36°58.70′ N lat., 122°27.22′ W long.;
 
-(235) 36°58.00′ N. lat., 122°24.14′ W. long.;
+(235) 37°00.85′ N lat., 122°24.70′ W long.;
 
-(236) 36°58.74′ N. lat., 122°21.51′ W. long.;
+(236) 36°58.00′ N lat., 122°24.14′ W long.;
 
-(237) 36°56.97′ N. lat., 122°21.32′ W. long.;
+(237) 36°58.74′ N lat., 122°21.51′ W long.;
 
-(238) 36°51.52′ N. lat., 122°10.68′ W. long.;
+(238) 36°56.97′ N lat., 122°21.32′ W long.;
 
-(239) 36°48.39′ N. lat., 122°07.60′ W. long.;
+(239) 36°51.52′ N lat., 122°10.68′ W long.;
 
-(240) 36°47.43′ N. lat., 122°03.22′ W. long.;
+(240) 36°48.39′ N lat., 122°07.60′ W long.;
 
-(241) 36°50.95′ N. lat., 121°58.03′ W. long.;
+(241) 36°47.43′ N lat., 122°03.22′ W long.;
 
-(242) 36°49.92′ N. lat., 121°58.01′ W. long.;
+(242) 36°50.95′ N lat., 121°58.03′ W long.;
 
-(243) 36°48.88′ N. lat., 121°58.90′ W. long.;
+(243) 36°49.92′ N lat., 121°58.01′ W long.;
 
-(244) 36°47.70′ N. lat., 121°58.75′ W. long.;
+(244) 36°48.86′ N lat., 121°58.80′ W long.;
 
-(245) 36°48.37′ N. lat., 121°51.14′ W. long.;
+(245) 36°47.76′ N lat., 121°58.68′ W long.;
 
-(246) 36°45.74′ N. lat., 121°54.17′ W. long.;
+(246) 36°48.39′ N lat., 121°51.10′ W long.;
 
-(247) 36°45.51′ N. lat., 121°57.72′ W. long.;
+(247) 36°45.74′ N lat., 121°54.17′ W long.;
 
-(248) 36°38.84′ N. lat., 122°01.32′ W. long.;
+(248) 36°45.51′ N lat., 121°57.72′ W long.;
 
-(249) 36°35.62′ N. lat., 122°00.98′ W. long.;
+(249) 36°38.84′ N lat., 122°01.32′ W long.;
 
-(250) 36°32.46′ N. lat., 121°59.15′ W. long.;
+(250) 36°35.62′ N lat., 122°00.98′ W long.;
 
-(251) 36°32.79′ N. lat., 121°57.67′ W. long.;
+(251) 36°32.46′ N lat., 121°59.15′ W long.;
 
-(252) 36°31.98′ N. lat., 121°56.55′ W. long.;
+(252) 36°32.79′ N lat., 121°57.67′ W long.;
 
-(253) 36°31.79′ N. lat., 121°58.40′ W. long.;
+(253) 36°31.98′ N lat., 121°56.55′ W long.;
 
-(254) 36°30.73′ N. lat., 121°59.70′ W. long.;
+(254) 36°31.79′ N lat., 121°58.40′ W long.;
 
-(255) 36°30.31′ N. lat., 122°00.22′ W. long.;
+(255) 36°30.73′ N lat., 121°59.70′ W long.;
 
-(256) 36°29.35′ N. lat., 122°00.36′ W. long.;
+(256) 36°30.31′ N lat., 122°00.22′ W long.;
 
-(257) 36°27.66′ N. lat., 121°59.80′ W. long.;
+(257) 36°29.35′ N lat., 122°00.28′ W long.;
 
-(258) 36°26.22′ N. lat., 121°58.35′ W. long.;
+(258) 36°27.66′ N lat., 121°59.80′ W long.;
 
-(259) 36°21.20′ N. lat., 122°00.72′ W. long.;
+(259) 36°26.22′ N lat., 121°58.35′ W long.;
 
-(260) 36°20.47′ N. lat., 122°02.92′ W. long.;
+(260) 36°21.20′ N lat., 122°00.72′ W long.;
 
-(261) 36°18.46′ N. lat., 122°04.51′ W. long.;
+(261) 36°20.47′ N lat., 122°02.92′ W long.;
 
-(262) 36°15.92′ N. lat., 122°01.33′ W. long.;
+(262) 36°18.46′ N lat., 122°04.51′ W long.;
 
-(263) 36°13.76′ N. lat., 121°57.27′ W. long.;
+(263) 36°15.92′ N lat., 122°01.33′ W long.;
 
-(264) 36°14.43′ N. lat., 121°55.43′ W. long.;
+(264) 36°13.81′ N lat., 121°57.40′ W long.;
 
-(265) 36°10.24′ N. lat., 121°43.08′ W. long.;
+(265) 36°14.43′ N lat., 121°55.43′ W long.;
 
-(266) 36°07.66′ N. lat., 121°40.91′ W. long.;
+(266) 36°10.24′ N lat., 121°43.08′ W long.;
 
-(267) 36°02.49′ N. lat., 121°36.51′ W. long.;
+(267) 36°07.66′ N lat., 121°40.91′ W long.;
 
-(268) 36°01.08′ N. lat., 121°36.63′ W. long.;
+(268) 36°02.49′ N lat., 121°36.51′ W long.;
 
-(269) 36°00.00′ N. lat., 121°35.41′ W. long.;
+(269) 36°01.08′ N lat., 121°36.63′ W long.;
 
-(270) 35°57.84′ N. lat., 121°32.81′ W. long.;
+(270) 36°00.00′ N lat., 121°35.41′ W long.;
 
-(271) 35°50.36′ N. lat., 121°29.32′ W. long.;
+(271) 35°57.84′ N lat., 121°32.81′ W long.;
 
-(272) 35°39.03′ N. lat., 121°22.86′ W. long.;
+(272) 35°50.36′ N lat., 121°29.32′ W long.;
 
-(273) 35°24.30′ N. lat., 121°02.56′ W. long.;
+(273) 35°39.03′ N lat., 121°22.86′ W long.;
 
-(274) 35°16.53′ N. lat., 121°00.39′ W. long.;
+(274) 35°24.27′ N lat., 121°02.74′ W long.;
 
-(275) 35°04.82′ N. lat., 120°53.96′ W. long.;
+(275) 35°16.53′ N lat., 121°00.39′ W long.;
 
-(276) 34°52.51′ N. lat., 120°51.62′ W. long.;
+(276) 35°04.82′ N lat., 120°53.96′ W long.;
 
-(277) 34°43.36′ N. lat., 120°52.12′ W. long.;
+(277) 34°52.51′ N lat., 120°51.62′ W long.;
 
-(278) 34°37.64′ N. lat., 120°49.99′ W. long.;
+(278) 34°43.36′ N lat., 120°52.12′ W long.;
 
-(279) 34°30.80′ N. lat., 120°45.02′ W. long.;
+(279) 34°38.06′ N lat., 120°49.65′ W long.;
 
-(280) 34°27.00′ N. lat., 120°39.00′ W. long.;
+(280) 34°30.85′ N lat., 120°44.76′ W long.;
 
-(281) 34°21.90′ N. lat., 120°25.25′ W. long.;
+(281) 34°27.00′ N lat., 120°39.00′ W long.;
 
-(282) 34°24.86′ N. lat., 120°16.81′ W. long.;
+(282) 34°21.90′ N lat., 120°25.25′ W long.;
 
-(283) 34°22.80′ N. lat., 119°57.06′ W. long.;
+(283) 34°24.86′ N lat., 120°16.81′ W long.;
 
-(284) 34°18.59′ N. lat., 119°44.84′ W. long.;
+(284) 34°22.80′ N lat., 119°57.06′ W long.;
 
-(285) 34°15.04′ N. lat., 119°40.34′ W. long.;
+(285) 34°18.59′ N lat., 119°44.84′ W long.;
 
-(286) 34°14.40′ N. lat., 119°45.39′ W. long.;
+(286) 34°15.04′ N lat., 119°40.34′ W long.;
 
-(287) 34°12.32′ N. lat., 119°42.41′ W. long.;
+(287) 34°14.40′ N lat., 119°45.39′ W long.;
 
-(288) 34°09.71′ N. lat., 119°28.85′ W. long.;
+(288) 34°12.32′ N lat., 119°42.41′ W long.;
 
-(289) 34°04.70′ N. lat., 119°15.38′ W. long.;
+(289) 34°09.71′ N lat., 119°28.85′ W long.;
 
-(290) 34°03.33′ N lat., 119°12.93′ W long.;
+(290) 34°04.70′ N lat., 119°15.38′ W long.;
 
-(291) 34°02.72′ N. lat., 119°07.01′ W. long.;
+(291) 34°03.33′ N lat., 119°12.93′ W long.;
 
-(292) 34°03.90′ N. lat., 119°04.64′ W. long.;
+(292) 34°02.72′ N lat., 119°07.01′ W long.;
 
-(293) 34°01.80′ N. lat., 119°03.23′ W. long.;
+(293) 34°03.90′ N lat., 119°04.64′ W long.;
 
-(294) 33°59.32′ N. lat., 119°03.50′ W. long.;
+(294) 34°02.75′ N lat., 119°02.88′ W long.;
 
-(295) 33°59.00′ N. lat., 118°59.55′ W. long.;
+(295) 33°59.44′ N lat., 119°03.43′ W long.;
 
-(296) 33°59.51′ N. lat., 118°57.25′ W. long.;
+(296) 33°59.12′ N lat., 118°59.59′ W long.;
 
-(297) 33°58.82′ N. lat., 118°52.47′ W. long.;
+(297) 33°59.84′ N lat., 118°57.29′ W long.;
 
-(298) 33°58.54′ N. lat., 118°41.86′ W. long.;
+(298) 33°58.83′ N lat., 118°46.69′ W long.;
 
-(299) 33°55.07′ N. lat., 118°34.25′ W. long.;
+(299) 33°58.73′ N lat., 118°41.76′ W long.;
 
-(300) 33°54.28′ N. lat., 118°38.68′ W. long.;
+(300) 33°55.09′ N lat., 118°34.11′ W long.;
 
-(301) 33°51.00′ N. lat., 118°36.66′ W. long.;
+(301) 33°54.09′ N lat., 118°38.42′ W long.;
 
-(302) 33°39.77′ N. lat., 118°18.41′ W. long.;
+(302) 33°51.00′ N lat., 118°36.66′ W long.;
 
-(303) 33°35.50′ N. lat., 118°16.85′ W. long.;
+(303) 33°49.06′ N lat., 118°31.86′ W long.;
 
-(304) 33°32.68′ N. lat., 118°09.82′ W. long.;
+(304) 33°49.69′ N lat., 118°26.49′ W long.;
 
-(305) 33°34.09′ N. lat., 117°54.06′ W. long.;
+(305) 33°49.35′ N lat., 118°26.04′ W long.;
 
-(306) 33°31.60′ N. lat., 117°49.28′ W. long.;
+(306) 33°47.60′ N lat., 118°31.13′ W long.;
 
-(307) 33°16.07′ N. lat., 117°34.74′ W. long.;
+(307) 33°39.82′ N lat., 118°18.31′ W long.;
 
-(308) 33°07.06′ N. lat., 117°22.71′ W. long.;
+(308) 33°35.68′ N lat., 118°16.81′ W long.;
 
-(309) 33°2.81′ N lat., 117°21.17′ W long.;
+(309) 33°32.85′ N lat., 118°09.41′ W long.;
 
-(310) 33°1.76′ N lat., 117°20.51′ W long.;
+(310) 33°35.14′ N lat., 118°04.95′ W long.;
 
-(311) 32°59.90′ N lat., 117°19.38′ W long.;
+(311) 33°33.56′ N lat., 118°00.63′ W long.;
 
-(312) 32°57.29′ N lat., 117°18.94′ W long.;
+(312) 33°34.25′ N lat., 117°53.44′ W long.;
 
-(313) 32°56.15′ N lat., 117°19.54′ W long.;
+(313) 33°31.65′ N lat., 117°49.21′ W long.;
 
-(314) 32°55.30′ N lat., 117°19.38′ W long.; and
+(314) 33°16.07′ N lat., 117°34.74′ W long.;
 
-(315) 32°54.27′ N lat., 117°17.17′ W long.
+(315) 33°07.06′ N lat., 117°22.71′ W long.;
 
-(316) 32°52.94′ N lat., 117°17.11′ W long.;
+(316) 33°02.81′ N lat., 117°21.17′ W long.;
 
-(317) 32°52.66′ N lat., 117°19.67′ W long.;
+(317) 33°01.76′ N lat., 117°20.51′ W long.;
 
-(318) 32°50.95′ N lat., 117°21.17′ W long.;
+(318) 32°59.90′ N lat., 117°19.38′ W long.;
 
-(319) 32°47.11′ N lat., 117°22.98′ W long.;
+(319) 32°57.29′ N lat., 117°18.94′ W long.;
 
-(320) 32°45.60′ N lat., 117°22.64′ W long.; and
+(320) 32°56.15′ N lat., 117°19.54′ W long.;
 
-(321) 32°42.79′ N lat., 117°21.16′ W long.;
+(321) 32°55.30′ N lat., 117°19.38′ W long.;
 
-(322) 32°34.22′ N lat., 117°21.20′ W long.
+(322) 32°54.27′ N lat., 117°17.17′ W long.;
+
+(323) 32°52.94′ N lat., 117°17.11′ W long.;
+
+(324) 32°52.66′ N lat., 117°19.67′ W long.;
+
+(325) 32°50.95′ N lat., 117°21.17′ W long.;
+
+(326) 32°47.11′ N lat., 117°22.98′ W long.;
+
+(327) 32°45.60′ N lat., 117°22.64′ W long.;
+
+(328) 32°42.79′ N lat., 117°21.16′ W long.; and
+
+(329) 32°34.22′ N lat., 117°21.20′ W long.
 
 (b) The 100 fm (183 m) depth contour around San Clemente Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
@@ -738,7 +750,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (9) 34°04.76′ N lat., 119°26.28′ W long.;
 
-(10) 34°02.93′ N lat., 119°18.06′ W long.;
+(10) 34°02.97′ N lat., 119°16.89′ W long.;
 
 (11) 34°00.97′ N lat., 119°18.78′ W long.;
 
@@ -1160,9 +1172,9 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (187) 40°23.40′ N. lat., 124°28.65′ W. long.;
 
-(188) 40°22.30′ N. lat., 124°25.27′ W. long.;
+(188) 40°22.32′ N lat., 124°25.15′ W long.;
 
-(189) 40°21.91′ N. lat., 124°25.18′ W. long.;
+(189) 40°21.85′ N lat., 124°25.09′ W long.;
 
 (190) 40°21.91′ N. lat., 124°27.97′ W. long.;
 
@@ -1312,7 +1324,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (263) 36°52.16′ N lat., 122°12.17′ W long.;
 
-(264) 36°51.53′ N lat., 122°10.67′ W long.;
+(264) 36°51.44′ N lat., 122°10.79′ W long.;
 
 (265) 36°48.05′ N lat., 122°07.59′ W long.;
 
@@ -1328,15 +1340,15 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (271) 36°45.74′ N lat., 121°54.18′ W long.;
 
-(272) 36°45.50′ N lat., 121°57.73′ W long.;
+(272) 36°45.52′ N lat., 121°57.74′ W long.;
 
 (273) 36°44.02′ N lat., 121°58.55′ W long.;
 
-(274) 36°38.84′ N lat., 122°01.32′ W long.;
+(274) 36°38.84′ N lat., 122°01.44′ W long.;
 
-(275) 36°35.63′ N lat., 122°00.98′ W long.;
+(275) 36°35.62′ N lat., 122°01.06′ W long.;
 
-(276) 36°32.47′ N lat., 121°59.17′ W long.;
+(276) 36°32.41′ N lat., 121°59.18′ W long.;
 
 (277) 36°32.52′ N lat., 121°57.62′ W long.;
 
@@ -1352,11 +1364,11 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (283) 36°14.45′ N lat., 121°59.44′ W long.;
 
-(284) 36°13.73′ N lat., 121°57.38′ W long.;
+(284) 36°13.66′ N lat., 121°57.17′ W long.;
 
-(285) 36°14.41′ N lat., 121°55.45′ W long.;
+(285) 36°14.35′ N lat., 121°55.38′ W long.;
 
-(286) 36°10.25′ N lat., 121°43.08′ W long.;
+(286) 36°10.18′ N lat., 121°43.26′ W long.;
 
 (287) 36°07.67′ N lat., 121°40.92′ W long.;
 
@@ -1364,7 +1376,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (289) 36°01.04′ N lat., 121°36.68′ W long.;
 
-(290) 36°00.00′ N lat., 121°35.15′ W long.;
+(290) 35°59.96′ N lat., 121°35.39′ W long.;
 
 (291) 35°57.84′ N lat., 121°33.10′ W long.;
 
@@ -1420,17 +1432,17 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (317) 34°06.85′ N lat., 120°05.60′ W long.;
 
-(318) 34°07.03′ N lat., 120°10.47′ W long.;
+(318) 34°07.06′ N lat., 120°10.42′ W long.;
 
-(319) 34°08.77′ N lat., 120°18.46′ W long.;
+(319) 34°08.93′ N lat., 120°18.34′ W long.;
 
-(320) 34°11.89′ N lat., 120°28.09′ W long.;
+(320) 34°11.04′ N lat., 120°25.20′ W long.;
 
-(321) 34°12.53′ N lat., 120°29.82′ W long.;
+(321) 34°13.01′ N lat., 120°29.29′ W long.;
 
-(322) 34°09.02′ N lat., 120°37.47′ W long.;
+(322) 34°09.41′ N lat., 120°37.69′ W long.;
 
-(323) 34°01.01′ N lat., 120°31.17′ W long.;
+(323) 34°03.20′ N lat., 120°34.52′ W long.;
 
 (324) 33°58.07′ N lat., 120°28.33′ W long.;
 
@@ -1484,63 +1496,81 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (349) 33°50.88′ N lat., 118°37.02′ W long.;
 
-(350) 33°39.78′ N lat., 118°18.40′ W long.;
+(350) 33°48.70′ N lat., 118°31.99′ W long.;
 
-(351) 33°35.50′ N lat., 118°16.85′ W long.;
+(351) 33°48.87′ N lat., 118°29.47′ W long.;
 
-(352) 33°32.46′ N lat., 118°10.90′ W long.;
+(352) 33°48.37′ N lat., 118°29.40′ W long.;
 
-(353) 33°34.11′ N lat., 117°54.07′ W long.;
+(353) 33°47.63′ N lat., 118°31.57′ W long.;
 
-(354) 33°31.61′ N lat., 117°49.30′ W long.;
+(354) 33°39.78′ N lat., 118°18.40′ W long.;
 
-(355) 33°16.36′ N lat., 117°35.48′ W long.;
+(355) 33°35.50′ N lat., 118°16.85′ W long.;
 
-(356) 33°06.81′ N lat., 117°22.93′ W long.;
+(356) 33°32.46′ N lat., 118°10.90′ W long.;
 
-(357) 32°59.28′ N lat., 117°19.69′ W long.;
+(357) 33°32.81′ N lat., 118°07.30′ W long.;
 
-(358) 32°55.37′ N lat., 117°19.55′ W long.;
+(358) 33°34.38′ N lat., 118°05.94′ W long.;
 
-(359) 32°53.35′ N lat., 117°17.05′ W long.;
+(359) 33°34.42′ N lat., 118°03.95′ W long.;
 
-(360) 32°53.36′ N lat., 117°19.12′ W long.;
+(360) 33°33.40′ N lat., 118°01.26′ W long.;
 
-(361) 32°46.42′ N lat., 117°23.45′ W long.;
+(361) 33°34.11′ N lat., 117°54.07′ W long.;
 
-(362) 32°42.71′ N lat., 117°21.45′ W long.; and
+(362) 33°31.61′ N lat., 117°49.30′ W long.;
 
-(363) 32°34.54′ N lat., 117°23.04′ W long.
+(363) 33°16.36′ N lat., 117°35.48′ W long.;
+
+(364) 33°06.81′ N lat., 117°22.93′ W long.;
+
+(365) 32°59.28′ N lat., 117°19.69′ W long.;
+
+(366) 32°55.37′ N lat., 117°19.55′ W long.;
+
+(367) 32°53.12′ N lat., 117°17.49′ W long.;
+
+(368) 32°52.56′ N lat., 117°20.75′ W long.;
+
+(369) 32°46.42′ N lat., 117°23.45′ W long.;
+
+(370) 32°42.71′ N lat., 117°21.45′ W long.; and
+
+(371) 32°34.54′ N lat., 117°23.04′ W long.
 
 (f) The 125 fm (229 m) depth contour around San Clemente Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
-(1) 33°04.73′ N. lat., 118°37.99′ W. long.;
+(1) 33°04.86′ N lat., 118°37.89′ W long.;
 
-(2) 33°02.67′ N. lat., 118°34.07′ W. long.;
+(2) 33°02.67′ N lat., 118°34.07′ W long.;
 
-(3) 32°55.97′ N. lat., 118°28.95′ W. long.;
+(3) 32°55.97′ N lat., 118°28.95′ W long.;
 
-(4) 32°49.79′ N. lat., 118°20.89′ W. long.;
+(4) 32°55.06′ N lat., 118°27.66′ W long.;
 
-(5) 32°48.02′ N. lat., 118°19.49′ W. long.;
+(5) 32°49.79′ N lat., 118°20.84′ W long.;
 
-(6) 32°47.37′ N. lat., 118°21.72′ W. long.;
+(6) 32°48.02′ N lat., 118°19.49′ W long.;
 
-(7) 32°43.58′ N. lat., 118°24.54′ W. long.;
+(7) 32°47.37′ N lat., 118°21.72′ W long.;
 
-(8) 32°49.74′ N. lat., 118°32.11′ W. long.;
+(8) 32°43.58′ N lat., 118°24.54′ W long.;
 
-(9) 32°53.36′ N. lat., 118°33.44′ W. long.;
+(9) 32°47.74′ N lat., 118°30.39′ W long.;
 
-(10) 32°55.03′ N. lat., 118°34.64′ W. long.;
+(10) 32°49.74′ N lat., 118°32.11′ W long.;
 
-(11) 32°54.89′ N. lat., 118°35.37′ W. long.;
+(11) 32°53.36′ N lat., 118°33.44′ W long.;
 
-(12) 33°00.20′ N. lat., 118°38.72′ W. long.;
+(12) 32°54.89′ N lat., 118°35.37′ W long.;
 
-(13) 33°03.15′ N. lat., 118°39.80′ W. long.; and
+(13) 33°00.20′ N lat., 118°38.72′ W long.;
 
-(14) 33°04.73′ N. lat., 118°37.99′ W. long.
+(14) 33°03.15′ N lat., 118°39.80′ W long.; and
+
+(15) 33°04.86′ N lat., 118°37.89′ W long.;
 
 (g) The 125 fm (229 m) depth contour around Santa Catalina Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
@@ -1566,9 +1596,9 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (11) 33°18.11′ N. lat., 118°27.96′ W. long.;
 
-(12) 33°19.83′ N. lat., 118°32.16′ W. long.;
+(12) 33°19.85′ N lat., 118°32.25′ W long.;
 
-(13) 33°20.81′ N. lat., 118°32.94′ W. long.;
+(13) 33°20.82′ N lat., 118°32.98′ W long.;
 
 (14) 33°21.99′ N. lat., 118°32.04′ W. long.;
 
@@ -1582,15 +1612,15 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (h) The 125 fm (229 m) depth contour around Lasuen Knoll off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
-(1) 33°24.57′ N. lat., 118°00.15′ W. long.;
+(1) 33°24.50′ N lat., 118°01.08′ W long.;
 
-(2) 33°23.42′ N. lat., 117°59.43′ W. long.;
+(2) 33°23.35′ N lat., 117°59.83′ W long.;
 
-(3) 33°23.69′ N. lat., 117°58.72′ W. long.;
+(3) 33°23.69′ N lat., 117°58.47′ W long.;
 
-(4) 33°24.72′ N. lat., 117°59.51′ W. long.; and
+(4) 33°24.76′ N lat., 117°59.33′ W long.; and
 
-(5) 33°24.57′ N. lat., 118°00.15′ W. long.
+(5) 33°24.50′ N lat., 118°01.08′ W long.
 
 (i) The 150-fm (274-m) depth contour used between the U.S. border with Canada and the U.S. border with Mexico is defined by straight lines connecting all of the following points in the order stated:
 
@@ -2286,15 +2316,15 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (l) The 150 fm (274 m) depth contour used around Lasuen Knoll off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
-(1) 33°24.99′ N. lat., 117°59.32′ W. long.;
+(1) 33°25.07′ N lat., 117°59.26′ W long.;
 
-(2) 33°23.66′ N. lat., 117°58.28′ W. long.;
+(2) 33°23.69′ N lat., 117°58.13′ W long.;
 
-(3) 33°23.21′ N. lat., 117°59.55′ W. long.;
+(3) 33°23.18′ N lat., 117°59.87′ W long.;
 
-(4) 33°24.74′ N. lat., 118°00.61′ W. long.; and
+(4) 33°24.61′ N lat., 118°01.31′ W long.; and
 
-(5) 33°24.99′ N. lat., 117°59.32′ W. long.
+(5) 33°25.07′ N lat., 117°59.26′ W long.
 
 (m) The 150 fm (274 m) depth contour used between the U.S. border with Canada and 40°10′ N. lat., modified to allow fishing in petrale sole areas, is defined by straight lines connecting all of the following points in the order stated:
 
@@ -2666,4 +2696,4 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (184) 40°10.00′ N. lat., 124°22.96′ W. long.
 
-[69 FR 77059, Dec. 23, 2004; 70 FR 13119, Mar. 18, 2005, as amended at 70 FR 16149, Mar. 30, 2005; 71 FR 8500, Feb. 17, 2006; 71 FR 78678, Dec. 29, 2006; 74 FR 9905, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27531, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 78 FR 589, Jan. 3, 2013; 80 FR 12573, Mar. 10, 2015; 82 FR 9640, Feb. 7, 2017; 83 FR 63992, Dec. 12, 2018; 83 FR 66639, Dec. 27, 2018; 84 FR 63974, Nov. 19, 2019; 85 FR 79893, Dec. 11, 2020; 86 FR 14381, Mar. 16, 2021]
+[69 FR 77059, Dec. 23, 2004; 70 FR 13119, Mar. 18, 2005, as amended at 70 FR 16149, Mar. 30, 2005; 71 FR 8500, Feb. 17, 2006; 71 FR 78678, Dec. 29, 2006; 74 FR 9905, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27531, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 78 FR 589, Jan. 3, 2013; 80 FR 12573, Mar. 10, 2015; 82 FR 9640, Feb. 7, 2017; 83 FR 63992, Dec. 12, 2018; 83 FR 66639, Dec. 27, 2018; 84 FR 63974, Nov. 19, 2019; 85 FR 79893, Dec. 11, 2020; 86 FR 14381, Mar. 16, 2021; 87 FR 77017, Dec. 16, 2022]

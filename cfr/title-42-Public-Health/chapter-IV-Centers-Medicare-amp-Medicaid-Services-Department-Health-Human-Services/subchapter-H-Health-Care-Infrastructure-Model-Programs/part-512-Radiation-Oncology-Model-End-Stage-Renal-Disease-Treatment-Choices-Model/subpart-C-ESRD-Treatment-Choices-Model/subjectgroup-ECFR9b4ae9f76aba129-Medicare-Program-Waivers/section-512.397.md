@@ -1,7 +1,5 @@
 ##### § 512.397 ETC Model Medicare program waivers and additional flexibilities. #####
 
-Link to an amendment published at 87 FR 67302, Nov. 7, 2022.
-
 The following provisions are waived solely for purposes of testing the ETC Model.
 
 (a)(1) *Medicare payment waivers.* CMS waives the requirements of sections 1833(a), 1833(b), 1848(a)(1), 1881(b), and 1881(h)(1)(A) of the Act only to the extent necessary to make the payment adjustments under the ETC Model described in this subpart.
@@ -10,7 +8,7 @@ The following provisions are waived solely for purposes of testing the ETC Model
 
 (b) CMS waives the following requirements of title XVIII of the Act solely for purposes of testing the ETC Model:
 
-(1) CMS waives the requirement under section 1861(ggg)(2)(A)(i) of the Act and § 410.48(a) of this chapter that only doctors, physician assistants, nurse practitioners, and clinical nurse specialists can furnish kidney disease patient education services to allow kidney disease patient education services to be provided by clinical staff (as defined at § 512.310) under the direction of and incident to the services of the Managing Clinician who is an ETC Participant. The kidney disease patient education services may be furnished only by qualified staff (as defined at § 512.310).
+(1) CMS waives the requirement under section 1861(ggg)(2)(A)(i) of the Act and § 410.48(a) of this chapter that only doctors, physician assistants, nurse practitioners, and clinical nurse specialists can furnish kidney disease patient education services to allow kidney disease patient education services to be provided by clinical staff (as defined at § 512.310) under the direction of and incident to the services of the Managing Clinician who is an ETC Participant. The kidney disease patient education services may be furnished only by qualified staff (as defined at § 512.310). Beginning MY5, only clinical staff that are not leased from or otherwise provided by an ESRD facility or related entity may furnish kidney disease patient education services pursuant to the waiver described in this section.
 
 (2) CMS waives the requirement that kidney disease patient education services are covered only for Stage IV chronic kidney disease (CKD) patients under section 1861(ggg)(1)(A) of the Act and § 410.48(b)(1) of this chapter to permit beneficiaries diagnosed with CKD Stage V or within the first 6 months of starting dialysis to receive kidney disease patient education services.
 
@@ -44,4 +42,4 @@ The following provisions are waived solely for purposes of testing the ETC Model
 
 (3) The Federal anti-kickback statute safe harbor for CMS-sponsored model patient incentives (42 CFR 1001.952(ii)(2)) is available to protect the kidney disease patient education coinsurance waivers that satisfy the requirements of such safe harbor and paragraph (c)(1) of this section.
 
-[85 FR 61362, Sept. 29, 2020, as amended at 86 FR 62025, Nov. 8, 2021]
+[85 FR 61362, Sept. 29, 2020, as amended at 86 FR 62025, Nov. 8, 2021; 87 FR 67302, Nov. 7, 2022]

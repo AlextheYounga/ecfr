@@ -1,8 +1,6 @@
 ##### § 489.24 Special responsibilities of Medicare hospitals in emergency cases. #####
 
-Link to an amendment published at 87 FR 72309, Nov. 23, 2022.
-
-(a) *Applicability of provisions of this section.* (1) In the case of a hospital that has an emergency department, if an individual (whether or not eligible for Medicare benefits and regardless of ability to pay) “comes to the emergency department”, as defined in paragraph (b) of this section, the hospital must -
+(a) *Applicability of provisions of this section.* (1) In the case of a hospital that has an emergency department, if an individual (whether or not eligible for Medicare benefits and regardless of ability to pay) “comes to the emergency department”, as defined in paragraph (b) of this section, the hospital must—
 
 (i) Provide an appropriate medical screening examination within the capability of the hospital's emergency department, including ancillary services routinely available to the emergency department, to determine whether or not an emergency medical condition exists. The examination must be conducted by an individual(s) who is determined qualified by hospital bylaws or rules and regulations and who meets the requirements of § 482.55 of this chapter concerning emergency services personnel and direction; and
 
@@ -22,17 +20,17 @@ Link to an amendment published at 87 FR 72309, Nov. 23, 2022.
 
 (ii) A waiver of these sanctions is limited to a 72-hour period beginning upon the implementation of a hospital disaster protocol, except that, if a public health emergency involves a pandemic infectious disease (such as pandemic influenza), the waiver will continue in effect until the termination of the applicable declaration of a public health emergency, as provided under section 1135(e)(1)(B) of the Act.
 
-(b) *Definitions.* As used in this subpart -
+(b) *Definitions.* As used in this subpart—
 
 *Capacity* means the ability of the hospital to accommodate the individual requesting examination or treatment of the transferred individual. Capacity encompasses such things as numbers and availability of qualified staff, beds and equipment and the hospital's past practices of accommodating additional patients in excess of its occupancy limits.
 
-*Comes to the emergency department* means, with respect to an individual who is not a patient (as defined in this section), the individual -
+*Comes to the emergency department* means, with respect to an individual who is not a patient (as defined in this section), the individual—
 
 (1) Has presented at a hospital's dedicated emergency department, as defined in this section, and requests examination or treatment for a medical condition, or has such a request made on his or her behalf. In the absence of such a request by or on behalf of the individual, a request on behalf of the individual will be considered to exist if a prudent layperson observer would believe, based on the individual's appearance or behavior, that the individual needs examination or treatment for a medical condition;
 
 (2) Has presented on hospital property, as defined in this section, other than the dedicated emergency department, and requests examination or treatment for what may be an emergency medical condition, or has such a request made on his or her behalf. In the absence of such a request by or on behalf of the individual, a request on behalf of the individual will be considered to exist if a prudent layperson observer would believe, based on the individual's appearance or behavior, that the individual needs emergency examination or treatment;
 
-(3) Is in a ground or air ambulance owned and operated by the hospital for purposes of examination and treatment for a medical condition at a hospital's dedicated emergency department, even if the ambulance is not on hospital grounds. However, an individual in an ambulance owned and operated by the hospital is not considered to have “come to the hospital's emergency department” if -
+(3) Is in a ground or air ambulance owned and operated by the hospital for purposes of examination and treatment for a medical condition at a hospital's dedicated emergency department, even if the ambulance is not on hospital grounds. However, an individual in an ambulance owned and operated by the hospital is not considered to have “come to the hospital's emergency department” if—
 
 (i) The ambulance is operated under communitywide emergency medical service (EMS) protocols that direct it to transport the individual to a hospital other than the hospital that owns the ambulance; for example, to the closest appropriate facility. In this case, the individual is considered to have come to the emergency department of the hospital to which the individual is transported, at the time the individual is brought onto hospital property;
 
@@ -48,9 +46,9 @@ Link to an amendment published at 87 FR 72309, Nov. 23, 2022.
 
 (3) During the calendar year immediately preceding the calendar year in which a determination under this section is being made, based on a representative sample of patient visits that occurred during that calendar year, it provides at least one-third of all of its outpatient visits for the treatment of emergency medical conditions on an urgent basis without requiring a previously scheduled appointment.
 
-*Emergency medical condition* means -
+*Emergency medical condition* means—
 
-(1) A medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain, psychiatric disturbances and/or symptoms of substance abuse) such that the absence of immediate medical attention could reasonably be expected to result in -
+(1) A medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain, psychiatric disturbances and/or symptoms of substance abuse) such that the absence of immediate medical attention could reasonably be expected to result in—
 
 (i) Placing the health of the individual (or, with respect to a pregnant woman, the health of the woman or her unborn child) in serious jeopardy;
 
@@ -58,13 +56,13 @@ Link to an amendment published at 87 FR 72309, Nov. 23, 2022.
 
 (iii) Serious dysfunction of any bodily organ or part; or
 
-(2) With respect to a pregnant woman who is having contractions -
+(2) With respect to a pregnant woman who is having contractions—
 
 (i) That there is inadequate time to effect a safe transfer to another hospital before delivery; or
 
 (ii) That transfer may pose a threat to the health or safety of the woman or the unborn child.
 
-*Hospital* includes a critical access hospital as defined in section 1861(mm)(1) of the Act.
+*Hospital* includes a critical access hospital as defined in section 1861(mm)(1) of the Act and a rural emergency hospital as defined in section 1861(kkk)(2).
 
 *Hospital property* means the entire main hospital campus as defined in § 413.65(b) of this chapter, including the parking lot, sidewalk, and driveway, but excluding other areas or structures of the hospital's main building that are not part of the hospital, such as physician offices, rural health centers, skilled nursing facilities, or other entities that participate separately under Medicare, or restaurants, shops, or other nonmedical facilities.
 
@@ -74,9 +72,15 @@ Link to an amendment published at 87 FR 72309, Nov. 23, 2022.
 
 *Labor* means the process of childbirth beginning with the latent or early phase of labor and continuing through the delivery of the placenta. A woman experiencing contractions is in true labor unless a physician, certified nurse-midwife, or other qualified medical person acting within his or her scope of practice as defined in hospital medical staff bylaws and State law, certifies that, after a reasonable time of observation, the woman is in false labor.
 
-*Participating hospital* means (1) a hospital or (2) a critical access hospital as defined in section 1861(mm)(1) of the Act that has entered into a Medicare provider agreement under section 1866 of the Act.
+*Participating hospital* means:
 
-*Patient* means -
+(i) A hospital;
+
+(ii) A critical access hospital as defined in section 1861(mm)(1) of the Act that has entered into a Medicare provider agreement under section 1866 of the Act; or
+
+(iii) A rural emergency hospital as defined in section 1861(kkk)(2) of the Act.
+
+*Patient* means—
 
 (1) An individual who has begun to receive outpatient services as part of an encounter, as defined in § 410.2 of this chapter, other than an encounter that the hospital is obligated by this section to provide;
 
@@ -90,7 +94,7 @@ Link to an amendment published at 87 FR 72309, Nov. 23, 2022.
 
 (c) *Use of dedicated emergency department for nonemergency services.* If an individual comes to a hospital's dedicated emergency department and a request is made on his or her behalf for examination or treatment for a medical condition, but the nature of the request makes it clear that the medical condition is not of an emergency nature, the hospital is required only to perform such screening as would be appropriate for any individual presenting in that manner, to determine that the individual does not have an emergency medical condition.
 
-(d) *Necessary stabilizing treatment for emergency medical conditions* - (1) *General.* Subject to the provisions of paragraph (d)(2) of this section, if any individual (whether or not eligible for Medicare benefits) comes to a hospital and the hospital determines that the individual has an emergency medical condition, the hospital must provide either -
+(d) *Necessary stabilizing treatment for emergency medical conditions*—(1) *General.* Subject to the provisions of paragraph (d)(2) of this section, if any individual (whether or not eligible for Medicare benefits) comes to a hospital and the hospital determines that the individual has an emergency medical condition, the hospital must provide either—
 
 (i) Within the capabilities of the staff and facilities available at the hospital, for further medical examination and treatment as required to stabilize the medical condition.
 
@@ -114,7 +118,7 @@ Link to an amendment published at 87 FR 72309, Nov. 23, 2022.
 
 (5) *Refusal to consent to transfer.* A hospital meets the requirements of paragraph (d)(1)(ii) of this section with respect to an individual if the hospital offers to transfer the individual to another medical facility in accordance with paragraph (e) of this section and informs the individual (or a person acting on his or her behalf) of the risks and benefits to the individual of the transfer, but the individual (or a person acting on the individual's behalf) does not consent to the transfer. The hospital must take all reasonable steps to secure the individual's written informed refusal (or that of a person acting on his or her behalf). The written document must indicate the person has been informed of the risks and benefits of the transfer and state the reasons for the individual's refusal. The medical record must contain a description of the proposed transfer that was refused by or on behalf of the individual.
 
-(e) *Restricting transfer until the individual is stabilized* - (1) *General.* If an individual at a hospital has an emergency medical condition that has not been stabilized (as defined in paragraph (b) of this section), the hospital may not transfer the individual unless -
+(e) *Restricting transfer until the individual is stabilized*—(1) *General.* If an individual at a hospital has an emergency medical condition that has not been stabilized (as defined in paragraph (b) of this section), the hospital may not transfer the individual unless—
 
 (i) The transfer is an appropriate transfer (within the meaning of paragraph (e)(2) of this section); and
 
@@ -124,11 +128,11 @@ Link to an amendment published at 87 FR 72309, Nov. 23, 2022.
 
 (C) If a physician is not physically present in the emergency department at the time an individual is transferred, a qualified medical person (as determined by the hospital in its by-laws or rules and regulations) has signed a certification described in paragraph (e)(1)(ii)(B) of this section after a physician (as defined in section 1861(r)(1) of the Act) in consultation with the qualified medical person, agrees with the certification and subsequently countersigns the certification. The certification must contain a summary of the risks and benefits upon which it is based.
 
-(2) A transfer to another medical facility will be appropriate only in those cases in which -
+(2) A transfer to another medical facility will be appropriate only in those cases in which—
 
 (i) The transferring hospital provides medical treatment within its capacity that minimizes the risks to the individual's health and, in the case of a woman in labor, the health of the unborn child;
 
-(ii) The receiving facility -
+(ii) The receiving facility—
 
 (A) Has available space and qualified personnel for the treatment of the individual; and
 
@@ -148,9 +152,9 @@ Link to an amendment published at 87 FR 72309, Nov. 23, 2022.
 
 (g) *Termination of provider agreement.* If a hospital fails to meet the requirements of paragraph (a) through (f) of this section, CMS may terminate the provider agreement in accordance with § 489.53.
 
-(h) *Consultation with Quality Improvement Organizations (QIOs)* - (1) *General.* Except as provided in paragraph (h)(3) of this section, in cases where a medical opinion is necessary to determine a physician's or hospital's liability under section 1867(d)(1) of the Act, CMS requests the appropriate QIO (with a contract under Part B of title XI of the Act) to review the alleged section 1867(d) violation and provide a report on its findings in accordance with paragraph (h)(2)(iv) and (v) of this section. CMS provides to the QIO all information relevant to the case and within its possession or control. CMS, in consultation with the OIG, also provides to the QIO a list of relevant questions to which the QIO must respond in its report.
+(h) *Consultation with Quality Improvement Organizations (QIOs)*—(1) *General.* Except as provided in paragraph (h)(3) of this section, in cases where a medical opinion is necessary to determine a physician's or hospital's liability under section 1867(d)(1) of the Act, CMS requests the appropriate QIO (with a contract under Part B of title XI of the Act) to review the alleged section 1867(d) violation and provide a report on its findings in accordance with paragraph (h)(2)(iv) and (v) of this section. CMS provides to the QIO all information relevant to the case and within its possession or control. CMS, in consultation with the OIG, also provides to the QIO a list of relevant questions to which the QIO must respond in its report.
 
-(2) *Notice of review and opportunity for discussion and additional information.* The QIO shall provide the physician and hospital reasonable notice of its review, a reasonable opportunity for discussion, and an opportunity for the physician and hospital to submit additional information before issuing its report. When a QIO receives a request for consultation under paragraph (h)(1) of this section, the following provisions apply -
+(2) *Notice of review and opportunity for discussion and additional information.* The QIO shall provide the physician and hospital reasonable notice of its review, a reasonable opportunity for discussion, and an opportunity for the physician and hospital to submit additional information before issuing its report. When a QIO receives a request for consultation under paragraph (h)(1) of this section, the following provisions apply—
 
 (i) The QIO reviews the case before the 15th calendar day and makes its tentative findings.
 
@@ -188,11 +192,11 @@ Link to an amendment published at 87 FR 72309, Nov. 23, 2022.
 
 (i) *Release of QIO assessments.* Upon request, CMS may release a QIO assessment to the physician and/or hospital, or the affected individual, or his or her representative. The QIO physician's identity is confidential unless he or she consents to its release. (See §§ 476.132 and 476.133 of this chapter.)
 
-(j) *Availability of on-call physicians.* In accordance with the on-call list requirements specified in § 489.20(r)(2), a hospital must have written policies and procedures in place -
+(j) *Availability of on-call physicians.* In accordance with the on-call list requirements specified in § 489.20(r)(2), a hospital must have written policies and procedures in place—
 
 (1) To respond to situations in which a particular specialty is not available or the on-call physician cannot respond because of circumstances beyond the physician's control; and
 
-(2) To provide that emergency services are available to meet the needs of individuals with emergency medical conditions if a hospital elects to -
+(2) To provide that emergency services are available to meet the needs of individuals with emergency medical conditions if a hospital elects to—
 
 (i) Permit on-call physicians to schedule elective surgery during the time that they are on call;
 
@@ -212,4 +216,4 @@ Link to an amendment published at 87 FR 72309, Nov. 23, 2022.
 
 (F) An annual assessment of the community call plan by the participating hospitals.
 
-[59 FR 32120, June 22, 1994, as amended at 62 FR 46037, Aug. 29, 1997; 65 FR 18548, Apr. 7, 2000; 65 FR 59748, Oct. 6, 2000; 66 FR 1599, Jan. 9, 2001; 66 FR 59923, Nov. 30, 2001; 68 FR 53262, Sept. 9, 2003; 71 FR 48143, Aug. 18, 2006; 72 FR 47413, Aug. 22, 2007; 73 FR 48758, Aug. 19, 2008; 74 FR 44001, Aug. 27, 2009; 78 FR 50971, Aug. 19, 2013]Effective Date Note:At 59 FR 32120, June 22, 1994, § 489.24 was added. Paragraphs (d) and (g) of this section contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[59 FR 32120, June 22, 1994, as amended at 62 FR 46037, Aug. 29, 1997; 65 FR 18548, Apr. 7, 2000; 65 FR 59748, Oct. 6, 2000; 66 FR 1599, Jan. 9, 2001; 66 FR 59923, Nov. 30, 2001; 68 FR 53262, Sept. 9, 2003; 71 FR 48143, Aug. 18, 2006; 72 FR 47413, Aug. 22, 2007; 73 FR 48758, Aug. 19, 2008; 74 FR 44001, Aug. 27, 2009; 78 FR 50971, Aug. 19, 2013; 87 FR 72309, Nov. 23, 2022]Effective Date Note:At 59 FR 32120, June 22, 1994, § 489.24 was added. Paragraphs (d) and (g) of this section contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

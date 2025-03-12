@@ -1,7 +1,5 @@
 ##### § 622.41 Annual catch limits (ACLs), annual catch targets (ACTs), and accountability measures (AMs). #####
 
-Link to an amendment published at 87 FR 74021, Dec. 2, 2022.
-
 (a) *Greater amberjack* - (1) *Commercial sector.* (i) If commercial landings, as estimated by the SRD, reach or are projected to reach the annual catch target (ACT) specified in § 622.39(a)(1)(v)(commercial quota), the Assistant Administrator for Fisheries, NOAA, (AA) will file a notification with the Office of the Federal Register to close the commercial sector for the remainder of the fishing year.
 
 (ii) In addition to the measures specified in paragraph (a)(1)(i) of this section, if commercial landings, as estimated by the SRD, exceed the commercial ACL, as specified in (a)(1)(iii) of this section, the AA will file a notification with the Office of the Federal Register, at or near the beginning of the following fishing year to reduce the commercial ACT (commercial quota) and the commercial ACL for that following year by the amount of any commercial ACL overage in the prior fishing year.
@@ -88,8 +86,8 @@ Link to an amendment published at 87 FR 74021, Dec. 2, 2022.
 
 (A) [Reserved]
 
-(B) *Federal charter vessel/headboat component ACT.* The Federal charter vessel/headboat component ACT applies to vessels that have been issued a valid Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. A person aboard a vessel that has been issued a charter vessel/headboat permit for Gulf reef fish any time during the fishing year may not harvest or possess red snapper in or from the Gulf EEZ when the Federal charter vessel/headboat component is closed. The component ACT is 2.848 million lb (1.292 million kg), round weight.
+(B) *Federal charter vessel/headboat component ACT.* The Federal charter vessel/headboat component ACT applies to vessels that have been issued a valid Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. A person aboard a vessel that has been issued a charter vessel/headboat permit for Gulf reef fish any time during the fishing year may not harvest or possess red snapper in or from the Gulf EEZ when the Federal charter vessel/headboat component is closed. The component ACT is 2,904,682 lb (1,317,542 kg), round weight.
 
-(C) *Private angling component ACT.* The private angling component ACT applies to vessels that fish under the bag limit and have not been issued a Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. The component ACT is 3.415 million lb (1.549 million kg), round weight.
+(C) *Private angling component ACT.* The private angling component ACT applies to vessels that fish under the bag limit and have not been issued a Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. The component ACT is 2,904,682 lb (1,317,542 kg), round weight.
 
 [78 FR 22952, Apr. 17, 2013]Editorial Note:For Federal Register citations affecting § 622.41, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

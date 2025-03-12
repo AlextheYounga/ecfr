@@ -1,0 +1,3 @@
+##### § 128.304 Can an Applicant appeal SBA's initial decision to deny an application? #####
+
+An Applicant may appeal SBA's decision to deny an application for certification as a VOSB or SDVOSB by filing an appeal with the SBA's Office of Hearings and Appeals (OHA) in accordance with part 134 of this chapter. A denial or decertification based on the failure to provide sufficient evidence of the qualifying individual's status as a veteran or a service-disabled veteran is not subject to appeal to OHA.

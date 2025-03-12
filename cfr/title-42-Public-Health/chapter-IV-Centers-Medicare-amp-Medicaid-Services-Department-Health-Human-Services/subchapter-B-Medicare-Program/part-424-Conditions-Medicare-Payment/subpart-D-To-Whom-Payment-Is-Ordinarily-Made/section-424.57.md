@@ -1,7 +1,5 @@
 ##### § 424.57 Special payment rules for items furnished by DMEPOS suppliers and issuance of DMEPOS supplier billing privileges. #####
 
-Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
-
 (a) *Definitions.* As used in this section, the following definitions apply:
 
 *Accredited DMEPOS suppliers* means suppliers that have been accredited by a recognized independent accreditation organization approved by CMS in accordance with the requirements at § 424.58.
@@ -66,13 +64,15 @@ Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
 
 (5) The supplier has furnished to CMS all information or documentation required to process the claim.
 
+(6) The supplier is in compliance with all conditions of payment in paragraph (b) of this section, as well as with paragraph (c)(1)(ii)(A) of this section, at the time the item or service is furnished.
+
 (c) *Application certification standards.* The supplier must meet and must certify in its application for billing privileges that it meets and will continue to meet the following standards:
 
 (1) Operates its business and furnishes Medicare-covered items in compliance with the following applicable laws:
 
 (i) Federal regulatory requirements that specify requirements for the provision of DMEPOS and ensure accessibility for the disabled.
 
-(ii) *State licensure and regulatory requirements.* If a State requires licensure to furnish certain items or services, a DMEPOS supplier -
+(ii) *State licensure and regulatory requirements.* If a State requires licensure to furnish certain items or services, a DMEPOS supplier—
 
 (A) Must be licensed to provide the item or service; and
 
@@ -92,7 +92,7 @@ Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
 
 (i) Must meet the following criteria:
 
-(A)(*1*) Except for orthotic and prosthetic personnel described in paragraph (c)(7)(i)(A)(*2*) of this section, maintains a practice location that is at least 200 square feet beginning -
+(A)(*1*) Except for orthotic and prosthetic personnel described in paragraph (c)(7)(i)(A)(*2*) of this section, maintains a practice location that is at least 200 square feet beginning—
 
 (*i*) September 27, 2010 for a prospective DMEPOS supplier;
 
@@ -100,7 +100,7 @@ Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
 
 (*iii*) September 27, 2013, for an existing DMEPOS supplier with a lease that expires on or after September 27, 2013.
 
-(*2*) Orthotic and prosthetic personnel providing custom fabricated orthotics or prosthetics in private practice do not have to meet the practice location requirements in paragraph (c)(7)(i)(A)(*1*) of this section if the orthotic and prosthetic personnel are -
+(*2*) Orthotic and prosthetic personnel providing custom fabricated orthotics or prosthetics in private practice do not have to meet the practice location requirements in paragraph (c)(7)(i)(A)(*1*) of this section if the orthotic and prosthetic personnel are—
 
 (*i*) State-licensed; or
 
@@ -188,7 +188,7 @@ Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
 
 (B) Where a physical or occupational therapist whose services are defined in sections 1861(p) and 1861(g) of the Act, furnishes items to his or her own patient as part of his or her professional service.
 
-(C) Where a DMEPOS supplier is co-located with and owned by an enrolled Medicare provider (as described in § 489.2(b) of this chapter). The DMEPOS supplier -
+(C) Where a DMEPOS supplier is co-located with and owned by an enrolled Medicare provider (as described in § 489.2(b) of this chapter). The DMEPOS supplier—
 
 (*1*) Must operate as a separate unit; and
 
@@ -196,7 +196,7 @@ Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
 
 (30)(i) Except as specified in paragraph (c)(30)(ii) of this section, is open to the public a minimum of 30 hours per week.
 
-(ii) The provision of paragraph (c)(30)(i) of this section is not applicable at a practice location where a -
+(ii) The provision of paragraph (c)(30)(i) of this section is not applicable at a practice location where a—
 
 (A) Physician whose services are defined in section 1848(j)(3) of the Act furnishes items to his or her own patient(s) as part of his or her professional service;
 
@@ -204,7 +204,7 @@ Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
 
 (C) DMEPOS supplier is working with custom made orthotics and prosthetics.
 
-(d) *Surety bonds requirements* - (1) *Effective date of surety bond requirements* - (i) *DMEPOS suppliers seeking enrollment or with a change in ownership.* Except as provided in paragraph (d)(15) of this section, beginning May 4, 2009, DMEPOS suppliers seeking to enroll or to change the ownership of a supplier of DMEPOS must meet the requirements of paragraph (d) of this section for each assigned NPI for which the DMEPOS supplier is seeking to obtain Medicare billing privileges.
+(d) *Surety bonds requirements*—(1) *Effective date of surety bond requirements*—(i) *DMEPOS suppliers seeking enrollment or with a change in ownership.* Except as provided in paragraph (d)(15) of this section, beginning May 4, 2009, DMEPOS suppliers seeking to enroll or to change the ownership of a supplier of DMEPOS must meet the requirements of paragraph (d) of this section for each assigned NPI for which the DMEPOS supplier is seeking to obtain Medicare billing privileges.
 
 (ii) *Existing DMEPOS suppliers.* Except as provided in paragraph (d)(15) of this section, beginning October 2, 2009, each Medicare-enrolled DMEPOS supplier must meet the requirements of paragraph (d) of this section for each assigned NPI to which Medicare has granted billing privileges.
 
@@ -218,7 +218,7 @@ Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
 
 (ii) The CMS contractor prescribes an elevated surety bond amount of $50,000 per occurrence of an adverse legal action within the 10 years preceding enrollment, revalidation, or reenrollment, as defined in paragraph (a) of this section.
 
-(4) *Type and terms of the surety bond* - (i) *Type of bond.* A DMEPOS supplier must submit a bond that is continuous.
+(4) *Type and terms of the surety bond*—(i) *Type of bond.* A DMEPOS supplier must submit a bond that is continuous.
 
 (ii) *Minimum requirements of liability coverage.* (A) The terms of the bond submitted by a DMEPOS supplier for the purpose of complying with this section must meet the minimum requirements of liability coverage ($50,000) and surety and DMEPOS supplier responsibility as set forth in this section.
 
@@ -232,7 +232,7 @@ Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
 
 (ii) The bond must provide the following: The surety is liable for unpaid claims, CMPs, or assessments that occur during the term of the bond.
 
-(iii) If the DMEPOS supplier fails to furnish a bond meeting the requirements of paragraph (d) of this section, fails to submit a rider when required, or if the DMEPOS supplier's billing privileges are revoked, the last bond or rider submitted by the DMEPOS supplier remains in effect until the last day of the surety bond coverage period and the surety remains liable for unpaid claims, CMPs, or assessments that -
+(iii) If the DMEPOS supplier fails to furnish a bond meeting the requirements of paragraph (d) of this section, fails to submit a rider when required, or if the DMEPOS supplier's billing privileges are revoked, the last bond or rider submitted by the DMEPOS supplier remains in effect until the last day of the surety bond coverage period and the surety remains liable for unpaid claims, CMPs, or assessments that—
 
 (A) CMS or the OIG imposes or asserts against the DMEPOS supplier based on overpayments or other events that took place during the term of the bond or rider; and
 
@@ -266,9 +266,9 @@ Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
 
 (14) *Effect of review reversing determination.* If a surety has paid CMS on the basis of liability incurred under a surety bond and to the extent the DMEPOS supplier that obtained the bond is subsequently successful in appealing the determination that was the basis of the unpaid claim, CMP, or assessment that caused the DMEPOS supplier to pay CMS under the bond, CMS refunds the DMEPOS supplier the amount the DMEPOS supplier paid to CMS to the extent that the amount relates to the matter that was successfully appealed, provided all review, including judicial review, has been completed on the matter.
 
-(15) *Exception to the surety bond requirement* - (i) *Qualifying entities and requirements.* (A) Government-operated DMEPOS suppliers are provided an exception to the surety bond requirement if the DMEPOS supplier has provided CMS with a comparable surety bond under State law.
+(15) *Exception to the surety bond requirement*—(i) *Qualifying entities and requirements.* (A) Government-operated DMEPOS suppliers are provided an exception to the surety bond requirement if the DMEPOS supplier has provided CMS with a comparable surety bond under State law.
 
-(B) State-licensed orthotic and prosthetic personnel in private practice making custom made orthotics and prosthetics are provided an exception to the surety bond requirement if -
+(B) State-licensed orthotic and prosthetic personnel in private practice making custom made orthotics and prosthetics are provided an exception to the surety bond requirement if—
 
 (*1*) The business is solely-owned and operated by the orthotic and prosthetic personnel, and
 
@@ -276,7 +276,7 @@ Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
 
 (C) Physicians and nonphysician practitioners as defined in section 1842(b)(18) of the Act are provided an exception to the surety bond requirement when items are furnished only to the physician or nonphysician practitioner's own patients as part of his or her physician service.
 
-(D) Physical and occupational therapists in private practice are provided an exception to the surety bond requirement if -
+(D) Physical and occupational therapists in private practice are provided an exception to the surety bond requirement if—
 
 (*1*) The business is solely-owned and operated by the physical or occupational therapist;
 
@@ -286,7 +286,7 @@ Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
 
 (ii) *Loss of a DMEPOS supplier exception.* A DMEPOS supplier that no longer qualifies for an exception as described in paragraph (d)(15)(i) of this section must submit a surety bond to the CMS contractor in accordance with requirements of paragraph (d) of this section within 60 days after it knows or has reason to know that it no longer meets the criteria for an exception.
 
-(e) *Failure to meet standards* - (1) *Revocation.* CMS revokes a supplier's billing privileges if it is found not to meet the standards in paragraphs (b) and (c) of this section. Except as otherwise provided in this section, the revocation is effective 30 days after the entity is sent notice of the revocation, as specified in § 405.874 of this subchapter.
+(e) *Failure to meet standards*—(1) *Revocation.* CMS revokes a supplier's billing privileges if it is found not to meet the standards in paragraphs (b) and (c) of this section. Except as otherwise provided in this section, the revocation is effective 30 days after the entity is sent notice of the revocation, as specified in § 405.874 of this subchapter.
 
 (2) *Overpayments associated with final adverse actions.* CMS or a CMS contractor may reopen (in accordance with § 405.980 of this chapter) all Medicare claims paid on or after the date of a final adverse action (as defined in paragraph (a) of this section) in order to establish an overpayment determination.
 
@@ -294,4 +294,4 @@ Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
 
 (g) *Revalidation of billing privileges.* A supplier must revalidate its application for billing privileges every 3 years after the billing privileges are first granted. (Each supplier must complete a new application for billing privileges 3 years after its last revalidation.)
 
-[65 FR 60377, Oct. 11, 2000, as amended at 71 FR 48409, Aug. 18, 2006; 73 FR 69939, Nov. 19, 2008; 75 FR 52648, Aug. 27, 2010; 76 FR 5962, Feb. 2, 2011; 77 FR 14994, Mar. 14, 2012; 79 FR 69773, Nov. 24, 2014]
+[65 FR 60377, Oct. 11, 2000, as amended at 71 FR 48409, Aug. 18, 2006; 73 FR 69939, Nov. 19, 2008; 75 FR 52648, Aug. 27, 2010; 76 FR 5962, Feb. 2, 2011; 77 FR 14994, Mar. 14, 2012; 79 FR 69773, Nov. 24, 2014; 87 FR 70231, Nov. 18, 2022]

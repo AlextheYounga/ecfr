@@ -1,7 +1,5 @@
 ##### § 708a.301 Definitions. #####
 
-Link to an amendment published at 87 FR 45010, July 27, 2022.
-
 As used in this part:
 
 *Bank* has the same meaning as in section 3(a) of the Federal Deposit Insurance Act, 12 U.S.C. 1813(a).
@@ -22,7 +20,7 @@ As used in this part:
 
 *Federal banking agencies* have the same meaning as in section 3 of the Federal Deposit Insurance Act.
 
-*Merger* means any transaction in which a credit union transfers all, or substantially all, of its assets to a bank. The term *merger* includes any purported conversion of a credit union to a bank if the purported conversion is conducted pursuant to an agreement between a preexisting bank and the credit union that provides -
+*Merger* means any transaction in which a credit union transfers all, or substantially all, of its assets to a bank. The term *merger* includes any purported conversion of a credit union to a bank if the purported conversion is conducted pursuant to an agreement between a preexisting bank and the credit union that provides—
 
 (1) The credit union will not conduct business as a stand-alone bank, and
 
@@ -32,10 +30,10 @@ As used in this part:
 
 *Qualified appraisal entity* means entity that has significant experience in the valuation of depository institutions and that has no past financial relationship with the merging credit union; the continuing bank, the continuing bank's owners, affiliates, or holding companies; or any law firm representing the credit union or the bank in connection with the merger.
 
-*Regional Director* means the director of the NCUA Regional Office for the region where a natural person credit union's main office is located. For corporate credit unions and natural person credit unions defined as covered credit unions under part 702 of this chapter, Regional Director means the director of NCUA's Office of National Examinations and Supervision.
+*Regional Director* means the director of the NCUA Regional Office for the region where a natural person credit union's main office is located. For corporate credit unions and natural person credit unions defined as ONES credit unions under part 700 of this chapter, Regional Director means the Director of NCUA's Office of National Examinations and Supervision.
 
 *Secret ballot* means no credit union employee or official can determine how a particular member voted. Credit union employees and officials are prohibited from assisting members in completing ballots or handling completed ballots.
 
 *Senior management official* means a chief executive officer, an assistant chief executive officer, a chief financial officer, and any other senior executive officer as defined by the appropriate Federal banking agencies pursuant to section 32(f) of the Federal Deposit Insurance Act.
 
-[75 FR 81387, Dec. 28, 2010, as amended at 78 FR 32544, May 31, 2013; 86 FR 15401, Mar. 23, 2021]
+[75 FR 81387, Dec. 28, 2010, as amended at 78 FR 32544, May 31, 2013; 86 FR 15401, Mar. 23, 2021; 87 FR 45010, July 27, 2022]
