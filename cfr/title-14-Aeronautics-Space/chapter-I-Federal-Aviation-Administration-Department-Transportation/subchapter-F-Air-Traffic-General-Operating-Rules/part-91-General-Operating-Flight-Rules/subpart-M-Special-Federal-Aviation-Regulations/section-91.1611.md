@@ -1,4 +1,4 @@
-##### § 91.1611 Special Federal Aviation Regulation No. 115 - Prohibition Against Certain Flights in Specified Areas of the Sanaa Flight Information Region (FIR) (OYSC). #####
+##### § 91.1611 Special Federal Aviation Regulation No. 115—Prohibition Against Certain Flights in Specified Areas of the Sanaa Flight Information Region (FIR) (OYSC). #####
 
 (a) *Applicability.* This Special Federal Aviation Regulation (SFAR) applies to the following persons:
 
@@ -18,6 +18,6 @@
 
 (d) *Emergency situations.* In an emergency that requires immediate decision and action for the safety of the flight, the pilot in command of an aircraft may deviate from this section to the extent required by that emergency. Except for U.S. air carriers and commercial operators that are subject to the requirements of 14 CFR part 119, 121, 125, or 135, each person who deviates from this section must, within 10 days of the deviation, excluding Saturdays, Sundays, and Federal holidays, submit to the responsible Flight Standards office a complete report of the operations of the aircraft involved in the deviation, including a description of the deviation and the reasons for it.
 
-(e) *Expiration.* This SFAR will remain in effect until January 7, 2022. The FAA may amend, rescind, or extend this SFAR as necessary.
+(e) *Expiration.* This SFAR will remain in effect until January 7, 2025. The FAA may amend, rescind, or extend this SFAR, as necessary.
 
-[Amdt. 91-340B, 84 FR 67665, Dec. 11, 2019]
+[Amdt. 91-340B, 84 FR 67665, Dec. 11, 2019, as amended by Amdt. 91-340C, 86 FR 69173, Dec. 7, 2021]
