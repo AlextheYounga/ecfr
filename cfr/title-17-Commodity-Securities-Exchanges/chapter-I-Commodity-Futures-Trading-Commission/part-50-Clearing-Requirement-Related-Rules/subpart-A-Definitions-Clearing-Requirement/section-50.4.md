@@ -88,4 +88,4 @@ Table 4
 |                  |  iTraxx Europe HiVol 5Y: Series 10 and all subsequent Series, up to and including the current Series.  |
 |     Tranched     |                                                  No.                                                   |
 
-[77 FR 74337, Dec. 13, 2012, as amended at 81 FR 71239, Oct. 14, 2016]
+[77 FR 74335, Dec. 13, 2012, as amended at 81 FR 71239, Oct. 14, 2016]

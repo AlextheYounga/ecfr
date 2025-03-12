@@ -88,7 +88,7 @@
 
 (4) The timing and amount of the contribution which resulted in the prohibition;
 
-(5) The nature of the election (*e.g.,* federal, state or local); and
+(5) The nature of the election (e.g., federal, state or local); and
 
 (6) The contributor's apparent intent or motive in making the contribution that resulted in the prohibition, as evidenced by the facts and circumstances surrounding the contribution.
 

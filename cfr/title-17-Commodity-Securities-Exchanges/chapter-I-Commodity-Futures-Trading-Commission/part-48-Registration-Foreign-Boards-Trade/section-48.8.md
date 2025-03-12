@@ -2,9 +2,7 @@
 
 Upon registration under this part, and on an ongoing basis thereafter, the foreign board of trade and the clearing organization shall comply with the applicable conditions of registration set forth in this section and any additional conditions that the Commission deems necessary and may impose, in its discretion, and after appropriate notice and opportunity to respond. Such conditions could include, but are not limited to, additional conditions applicable to the listing of swap contracts. Continued registration is expressly conditioned upon satisfaction of these conditions.
 
-(a) Specified Conditions for Maintaining Registration
-
-(1) Registration Requirements: The foreign board of trade and its clearing organization shall continue to satisfy all of the requirements for registration set forth in § 48.7.
+(a) *Specified conditions for maintaining registration.* (1) Registration Requirements: The foreign board of trade and its clearing organization shall continue to satisfy all of the requirements for registration set forth in § 48.7.
 
 (2) Regulatory Regime:
 
@@ -60,9 +58,7 @@ Upon registration under this part, and on an ongoing basis thereafter, the forei
 
 (ii) The foreign board of trade will agree to coordinate with the Commission with respect to arrangements established to address cross market oversight issues involving swap trading, including surveillance, emergency actions and the monitoring of trading.
 
-(b) Other Continuing Obligations.
-
-(1) Registered foreign boards of trade and their clearing organizations will continue to comply with the following obligations on an ongoing basis:
+(b) *Other continuing obligations.* (1) Registered foreign boards of trade and their clearing organizations will continue to comply with the following obligations on an ongoing basis:
 
 (i) The foreign board of trade will maintain the following updated information and submit such information to the Commission on at least a quarterly basis, not later than 30 days following the end of the quarter, and at any time promptly upon the request of a Commission representative, computed based upon separating buy sides and sell sides, in a format as determined by the Commission:
 
@@ -108,7 +104,7 @@ Upon registration under this part, and on an ongoing basis thereafter, the forei
 
 (2) The above-referenced annual reports must be signed by an officer of the foreign board of trade or the clearing organization who maintains the authority to bind the foreign board of trade or clearing organization, as applicable, and must be based on the officer's personal knowledge.
 
-(c) Additional Specified Conditions for Foreign Boards of Trade with Linked Contacts. If a registered foreign board of trade grants members or other participants direct access and makes available for trading a linked contract, the following additional conditions apply:
+(c) *Additional specified conditions for foreign boards of trade with linked contacts.* If a registered foreign board of trade grants members or other participants direct access and makes available for trading a linked contract, the following additional conditions apply:
 
 (1) Statutory Conditions.
 
@@ -120,7 +116,7 @@ Upon registration under this part, and on an ongoing basis thereafter, the forei
 
 (B) Have the authority to require or direct any market participant to limit, reduce, or liquidate any position the foreign board of trade (or its regulatory authority) determines to be necessary to prevent or reduce the threat of price manipulation, excessive speculation as described in section 4a of the Act, price distortion, or disruption of delivery on the cash settlement process;
 
-(C) Agree to promptly notify the Commission, with regard to the linked contract, of any change regarding -
+(C) Agree to promptly notify the Commission, with regard to the linked contract, of any change regarding—
 
 (*1*) The information that the foreign board of trade will make publicly available,
 

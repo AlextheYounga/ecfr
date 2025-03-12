@@ -1,5 +1,7 @@
 ##### § 165.9 Criteria for determining amount of award. #####
 
+Link to an amendment published at 82 FR 24500, May 30, 2017.
+
 The determination of the amount of an award shall be in the discretion of the Commission. The Commission may exercise this discretion directly or through delegated authority pursuant to § 165.15.
 
 (a) In determining the amount of an award, the Commission shall take into consideration -

@@ -20,7 +20,7 @@
 
 (ii) A radio frequency device that is in the conceptual, developmental, design or pre-production stage may be offered for sale solely to business, commercial, industrial, scientific or medical users (but not an offer for sale to other parties or to end users located in a residential environment) if the prospective buyer is advised in writing at the time of the offer for sale that the equipment is subject to the FCC rules and that the equipment will comply with the appropriate rules before delivery to the buyer or to centers of distribution.
 
-(iii) (A) A radio frequency device may be advertised or displayed, (*e.g.,* at a trade show or exhibition) if accompanied by a conspicuous notice containing this language:
+(iii) (A) A radio frequency device may be advertised or displayed, (e.g., at a trade show or exhibition) if accompanied by a conspicuous notice containing this language:
 
 This device has not been authorized as required by the rules of the Federal Communications Commission. This device is not, and may not be, offered for sale or lease, or sold or leased, until authorization is obtained.
 

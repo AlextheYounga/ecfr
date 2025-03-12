@@ -1,5 +1,7 @@
 ##### § 165.11 Awards based upon related actions. #####
 
+Link to an amendment published at 82 FR 24500, May 30, 2017.
+
 Provided that a whistleblower or whistleblowers comply with the requirements in §§ 165.3, 165.5 and 165.7, and pursuant to § 165.8, the Commission or its delegate may grant an award based on the amount of monetary sanctions collected in a “related action” or “related actions” rather than on the amount collected in a covered judicial or administrative action, where:
 
 (a) A “related action” is a judicial or administrative action that is brought by:

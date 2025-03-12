@@ -16,7 +16,7 @@
 
 (4) Time and dates of proposed operation.
 
-(5) Class(es) of station (*e.g.* fixed, mobile, or both) and call sign of station (if applicable).
+(5) Class(es) of station (e.g., fixed, mobile, or both) and call sign of station (if applicable).
 
 (6) Description of the location(s) and, if applicable, geographical coordinates of the proposed operation.
 

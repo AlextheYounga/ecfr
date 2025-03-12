@@ -1,5 +1,7 @@
 ##### § 165.12 Payment of awards from the Fund, financing of customer education initiatives, and deposits and credits to the Fund. #####
 
+Link to an amendment published at 82 FR 24500, May 30, 2017.
+
 (a) The Commission shall pay awards to whistleblowers from the Fund.
 
 (b) The Commission shall deposit into or credit to the Fund:

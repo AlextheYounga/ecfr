@@ -8,7 +8,7 @@
 
 (3) A foreign board of trade whose registration has been revoked for failure to satisfy a registration requirement or condition of registration may apply for re-registration 360 days after the issuance of the Order Revoking Registration if the deficiency causing the revocation has been cured or relevant facts and circumstances have changed.
 
-(b) Other Events that Could Result in Revocation. Notwithstanding § 48.9(a), revocation under these circumstances will be handled by the Commission as relevant facts or circumstances warrant.
+(b) *Other events that could result in revocation.* Notwithstanding § 48.9(a), revocation under these circumstances will be handled by the Commission as relevant facts or circumstances warrant.
 
 (1) The Commission may revoke a foreign board of trade's registration, after appropriate notice and an opportunity to respond, if the Commission determines that a representation made in the foreign board of trade's application for registration is found to be untrue or materially misleading or if the foreign board of trade failed to include information in the application that would have been material to the Commission's determination as to whether to issue an Order of Registration.
 

@@ -48,7 +48,7 @@
 
 (2) For the purpose of applying non-spot-month position limits, a trader's position in a Referenced Contract shall be combined and the net resulting position shall be applied towards determining the trader's aggregate single-month and all-months-combined position.
 
-(d) *Establishing and effective dates of position limits* - (1) *Initial spot-month position limits for Referenced Contracts* - (i) Sixty days after the term “swap” is further defined under the Wall Street Transparency and Accountability Act of 2010, the spot-month position limits for Referenced Contracts referred to in appendix A shall apply to all the provisions of this part.
+(d) *Establishing and effective dates of position limits* - (1) *Initial spot-month position limits for Referenced Contracts.* (i) Sixty days after the term “swap” is further defined under the Wall Street Transparency and Accountability Act of 2010, the spot-month position limits for Referenced Contracts referred to in appendix A shall apply to all the provisions of this part.
 
 (2) *Subsequent spot-month position limits for Referenced Contracts.* (i) Commencing January 1st of the second calendar year after the term “swap” is further defined under the Wall Street Transparency and Accountability Act of 2010, the Commission shall fix position limits by Commission order that shall supersede the initial limits established under paragraph (d)(1) of this section.
 

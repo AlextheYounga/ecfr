@@ -1,5 +1,7 @@
 ##### § 1.35 Records of commodity interest and related cash or forward transactions. #####
 
+Link to an amendment published at 82 FR 24487, May 30, 2017.
+
 (a) *Futures commission merchants, retail foreign exchange dealers, introducing brokers, and members of designated contract markets or swap execution facilities* - (1) *Futures commission merchants, retail foreign exchange dealers, and certain introducing brokers.* Each futures commission merchant, retail foreign exchange dealer, and introducing broker that has generated over the preceding three years more than $5 million in aggregate gross revenues from its activities as an introducing broker, shall:
 
 (i) Keep full, complete, and systematic records (including all pertinent data and memoranda) of all transactions relating to its business of dealing in commodity interests and related cash or forward transactions, which shall include all orders (filled, unfilled, or canceled), trading cards, signature cards, street books, journals, ledgers, canceled checks, copies of confirmations, copies of statements of purchase and sale, and all other records, which have been prepared in the course of its business of dealing in commodity interests and related cash or forward transactions (for purposes of this section, all records described in this paragraph (a)(1)(i) are referred to as “*commodity interest and related records*”);

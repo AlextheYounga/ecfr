@@ -4,7 +4,7 @@
 
 (2) Notwithstanding paragraph (a)(1) of this section, a banking entity may:
 
-(i) Acquire and retain any ownership interest in a covered fund in accordance with the requirements of §§ 75.11, 75.12, or 75.13; and
+(i) Acquire and retain any ownership interest in a covered fund in accordance with the requirements of § 75.11, § 75.12, or § 75.13; and
 
 (ii) Enter into any prime brokerage transaction with any covered fund in which a covered fund managed, sponsored, or advised by such banking entity (or an affiliate thereof) has taken an ownership interest, if:
 

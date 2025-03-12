@@ -20,7 +20,7 @@
 
 (iv) The total volume of trading, excluding transfer trades or office trades:
 
-(A) For swaps and options on swaps, trading volume shall be reported in terms of the number of contracts traded for standard-sized contracts (i.e., contracts with a set contract size for all transactions) or in terms of notional value for non-standard-sized contracts (i.e., contracts whose contract size is not set and can vary for each transaction).
+(A) For swaps and options on swaps, trading volume shall be reported in terms of the number of contracts traded for standard-sized contracts (*i.e.*, contracts with a set contract size for all transactions) or in terms of notional value for non-standard-sized contracts (*i.e.*, contracts whose contract size is not set and can vary for each transaction).
 
 (B) [Reserved]
 

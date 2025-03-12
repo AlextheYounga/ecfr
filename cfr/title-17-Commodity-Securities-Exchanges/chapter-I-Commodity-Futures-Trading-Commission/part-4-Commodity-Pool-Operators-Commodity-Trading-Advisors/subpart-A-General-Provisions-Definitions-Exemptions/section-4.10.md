@@ -6,7 +6,7 @@ For purposes of this part:
 
 (b) *Net asset value* means total assets minus total liabilities, determined in accord with generally accepted accounting principles, with each position in a commodity interest accounted for at fair market value.
 
-(c) *Participant* means any person that has any direct financial interest in a pool (*e.g.,* a limited partner).
+(c) *Participant* means any person that has any direct financial interest in a pool (e.g., a limited partner).
 
 (d)(1) *Pool* means any investment trust, syndicate or similar form of enterprise operated for the purpose of trading commodity interests.
 
@@ -18,7 +18,7 @@ For purposes of this part:
 
 (3) *Principal-protected pool* means a pool (commonly referred to as a “guaranteed pool”) that is designed to limit the loss of the initial investment of its participants.
 
-(4) *Investee pool* means any pool in which another pool or account participates or invests, *e.g.,* as a limited partner thereof.
+(4) *Investee pool* means any pool in which another pool or account participates or invests, e.g., as a limited partner thereof.
 
 (5) *Major investee pool* means, with respect to a pool, any investee pool that is allocated or intended to be allocated at least ten percent of the net asset value of the pool.
 

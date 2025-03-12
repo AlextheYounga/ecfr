@@ -1,5 +1,7 @@
 ##### § 165.15 Delegations of authority. #####
 
+Link to an amendment published at 82 FR 24501, May 30, 2017.
+
 (a) *Delegation of authority to the Executive Director.* The Commission hereby delegates, until such time as the Commission orders otherwise, to the Executive Director or to any Commission employee under the Executive Director's supervision as he or she may designate, the authority to take the following actions to carry out this part 165 and the requirements of Section 23(h) of Commodity Exchange Act.
 
 (1) *Delegated authority under § 165.12(a), (b).* The Executive Director's delegated authority to deposit into or credit collected monetary sanctions to the Fund and the payment of awards therefrom shall be with the concurrence of the General Counsel and the Director of the Division of Enforcement or of their respective designees.

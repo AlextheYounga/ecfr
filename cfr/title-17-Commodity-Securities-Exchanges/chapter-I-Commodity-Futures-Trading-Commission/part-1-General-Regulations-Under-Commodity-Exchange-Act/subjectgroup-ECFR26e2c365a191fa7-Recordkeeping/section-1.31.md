@@ -1,5 +1,7 @@
 ##### § 1.31 Books and records; keeping and inspection. #####
 
+Link to an amendment published at 82 FR 24486, May 30, 2017.
+
 (a)(1) All books and records required to be kept by the Act or by these regulations shall be kept in their original form (for paper records) or native file format (for electronic records) for a period of five years from the date thereof and shall be readily accessible during the first 2 years of the 5-year period; *Provided, however,* That records of any swap or related cash or forward transaction shall be kept until the termination, maturity, expiration, transfer, assignment, or novation date of the transaction and for a period of five years after such date. Records of oral communications kept pursuant to §§ 1.35(a) and 23.202(a)(1) and (b)(1) of this chapter shall be kept for a period of one year. All such books and records shall be open to inspection by any representative of the Commission, or the United States Department of Justice. For purposes of this section, native file format means an electronic file that exists in the format in which it was originally created.
 
 (2) Persons required to keep books and records by the Act or by these regulations shall produce such records in a form specified by any representative of the Commission. Such production shall be made, at the expense of the person required to keep the book or record, to a Commission representative upon the representative's request. Instead of furnishing a copy, such person may provide the original book or record for reproduction, which the representative may temporarily remove from such person's premises for this purpose. All copies or originals shall be provided promptly. Upon request, the Commission representative shall issue a receipt provided by such person for any copy or original book or record received. At the request of the Commission representative, such person shall, upon the return thereof, issue a receipt for any copy or original book or record returned by the representative.
@@ -26,7 +28,7 @@
 
 (ii) Be ready at all times to provide, and immediately provide at the expense of the person required to keep such records, any easily readable hard-copy image that representatives of the Commission or Department of Justice may request;
 
-(iii) Keep only Commission-required records on the individual medium employed (*e.g.,* a disk or sheets of microfiche);
+(iii) Keep only Commission-required records on the individual medium employed (e.g., a disk or sheets of microfiche);
 
 (iv) Store a duplicate of the record, in any medium acceptable under this regulation, at a location separate from the original for the period of time required for maintenance of the original; and
 

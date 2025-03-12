@@ -4,7 +4,7 @@
 
 (b) A transmission system consisting of an intentional radiator, an external radio frequency power amplifier, and an antenna, may be authorized, marketed and used under this part. Except as described otherwise in this section, when a transmission system is authorized as a system, it must always be marketed as a complete system and must always be used in the configuration in which it was authorized.
 
-(c) An intentional radiator may be operated only with the antenna with which it is authorized. If an antenna is marketed with the intentional radiator, it shall be of a type which is authorized with the intentional radiator. An intentional radiator may be authorized with multiple antenna types. Exceptions to the following provisions, if any, are noted in the rule section under which the transmitter operates, *e.g.,* § 15.255(b)(1)(ii) of this part.
+(c) An intentional radiator may be operated only with the antenna with which it is authorized. If an antenna is marketed with the intentional radiator, it shall be of a type which is authorized with the intentional radiator. An intentional radiator may be authorized with multiple antenna types. Exceptions to the following provisions, if any, are noted in the rule section under which the transmitter operates, e.g., § 15.255(b)(1)(ii) of this part.
 
 (1) The antenna type, as used in this paragraph, refers to antennas that have similar in-band and out-of-band radiation patterns.
 

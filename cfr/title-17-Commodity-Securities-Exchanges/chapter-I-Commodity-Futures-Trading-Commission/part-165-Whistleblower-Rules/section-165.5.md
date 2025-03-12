@@ -1,5 +1,7 @@
 ##### § 165.5 Prerequisites to the consideration of an award. #####
 
+Link to an amendment published at 82 FR 24498, May 30, 2017.
+
 (a) Subject to the eligibility requirements described in these rules, the Commission will pay an award to one or more whistleblowers who:
 
 (1) Provide a voluntary submission to the Commission;

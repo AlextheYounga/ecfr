@@ -1,5 +1,7 @@
 ##### § 30.80 Factors in determining amount of civil money penalty. #####
 
+Link to an amendment published at 82 FR 24525, May 30, 2017.
+
 After determining that a respondent has committed a violation as described in subpart B of this part that subjects the respondent to liability under this part, the officials designated in subpart B of this part shall consider the following factors to determine the amount of penalty to seek against a respondent, if any:
 
 (a) The gravity of the offense;

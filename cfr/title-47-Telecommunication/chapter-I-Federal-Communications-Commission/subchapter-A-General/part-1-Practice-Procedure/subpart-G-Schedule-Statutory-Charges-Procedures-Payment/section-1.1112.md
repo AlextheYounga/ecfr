@@ -20,7 +20,7 @@
 
 (2) The Commission will notify the party in writing that future payments must be made by cashier's check until further notice. If, subsequent to such notice, payment is not made by cashier's check, the party's payment will not be accepted and its application or other filing will be returned.
 
-(e) Annual and multiple year regulatory fee payments shall be submitted by online ACH payment, online Visa, MasterCard, American Express, or Discover credit card payment, or wire transfer payment denominated in U.S. dollars and drawn on a United States financial institution and made payable to the Federal Communications Commission. No other credit card is acceptable. Any other form of payment for regulatory fees (*e.g.,* paper checks) will be rejected and sent back to the payor.
+(e) Annual and multiple year regulatory fee payments shall be submitted by online ACH payment, online Visa, MasterCard, American Express, or Discover credit card payment, or wire transfer payment denominated in U.S. dollars and drawn on a United States financial institution and made payable to the Federal Communications Commission. No other credit card is acceptable. Any other form of payment for regulatory fees (e.g., paper checks) will be rejected and sent back to the payor.
 
 (f) All fees collected will be paid into the general fund of the United States Treasury in accordance with Pub. L. 99-272.
 

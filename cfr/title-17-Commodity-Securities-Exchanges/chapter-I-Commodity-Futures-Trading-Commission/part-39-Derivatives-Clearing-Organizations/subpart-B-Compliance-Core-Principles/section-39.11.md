@@ -56,7 +56,7 @@
 
 (iii) The derivatives clearing organization may take into account a committed line of credit or similar facility for the purpose of meeting the remainder of the requirement under paragraph (e)(1)(ii) of this section.
 
-(2) The financial resources allocated by the derivatives clearing organization to meet the requirements of paragraph (a)(2) of this section must include unencumbered, liquid financial assets (i.e., cash and/or highly liquid securities) equal to at least six months' operating costs. If any portion of such financial resources is not sufficiently liquid, the derivatives clearing organization may take into account a committed line of credit or similar facility for the purpose of meeting this requirement.
+(2) The financial resources allocated by the derivatives clearing organization to meet the requirements of paragraph (a)(2) of this section must include unencumbered, liquid financial assets (*i.e.*, cash and/or highly liquid securities) equal to at least six months' operating costs. If any portion of such financial resources is not sufficiently liquid, the derivatives clearing organization may take into account a committed line of credit or similar facility for the purpose of meeting this requirement.
 
 (3)(i) Assets in a guaranty fund shall have minimal credit, market, and liquidity risks and shall be readily accessible on a same-day basis;
 

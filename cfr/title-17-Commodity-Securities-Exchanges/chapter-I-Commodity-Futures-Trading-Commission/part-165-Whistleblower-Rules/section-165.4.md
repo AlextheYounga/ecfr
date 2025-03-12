@@ -1,5 +1,7 @@
 ##### § 165.4 Confidentiality. #####
 
+Link to an amendment published at 82 FR 24497, May 30, 2017.
+
 (a) *In general.* Section 23(h)(2) of the Commodity Exchange Act requires that the Commission not disclose information that could reasonably be expected to reveal the identity of a whistleblower, except that the Commission may disclose such information in the following circumstances:
 
 (1) When disclosure is required to a defendant or respondent in connection with a public proceeding that the Commission institutes or in another public proceeding that is filed by an authority to which the Commission provides the information, as described below;

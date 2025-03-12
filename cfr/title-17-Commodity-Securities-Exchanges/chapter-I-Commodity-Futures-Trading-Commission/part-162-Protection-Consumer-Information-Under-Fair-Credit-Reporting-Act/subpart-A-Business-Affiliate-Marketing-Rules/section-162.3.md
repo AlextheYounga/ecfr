@@ -1,6 +1,6 @@
 ##### § 162.3 Affiliate marketing opt out and exceptions. #####
 
-(a) *Initial notice and opt out.* A covered affiliate may not use eligibility information about a consumer that the covered affiliate receives from an affiliate with the consumer to make a solicitation for marketing purposes to such consumer unless -
+(a) *Initial notice and opt out.* A covered affiliate may not use eligibility information about a consumer that the covered affiliate receives from an affiliate with the consumer to make a solicitation for marketing purposes to such consumer unless—
 
 (1) It is clearly and conspicuously disclosed to the consumer in writing or if the consumer agrees, electronically, in a concise notice that the person may use shared eligibility information about that consumer received from an affiliate to make solicitations for marketing purposes to such consumer;
 
@@ -28,7 +28,7 @@
 
 (6) If compliance by a person with these regulations would prevent that person's compliance with state insurance laws pertaining to unfair discrimination.
 
-(d) *Making solicitations.* - (1) *When a solicitation occurs.* A covered affiliate makes a solicitation for marketing purposes if the person -
+(d) *Making solicitations*—(1) *When a solicitation occurs.* A covered affiliate makes a solicitation for marketing purposes if the person—
 
 (i) Receives eligibility information from an affiliate;
 
@@ -52,7 +52,7 @@
 
 (ii) Directs its service provider to use the affiliate's own eligibility information that it obtained in connection with a pre-existing business relationship it has or previously had with the consumer to market the covered affiliate's financial products or services to the consumer, and the covered affiliate does not communicate directly with the service provider regarding that use.
 
-(5) *Use of eligibility information by a service provider* - (i) *In general.* A covered affiliate does not make a solicitation subject to this subpart if a service provider (including an affiliated or third-party service provider that maintains or accesses a common database that the covered affiliate may access) receives eligibility information from an affiliate that has or previously had a pre-existing business relationship with the consumer and uses that eligibility information to market the covered affiliate's financial products or services to the consumer, so long as -
+(5) *Use of eligibility information by a service provider*—(i) *In general.* A covered affiliate does not make a solicitation subject to this subpart if a service provider (including an affiliated or third-party service provider that maintains or accesses a common database that the covered affiliate may access) receives eligibility information from an affiliate that has or previously had a pre-existing business relationship with the consumer and uses that eligibility information to market the covered affiliate's financial products or services to the consumer, so long as—
 
 (A) The affiliate controls access to and use of its eligibility information by the service provider (including the right to establish the specific terms and conditions under which the service provider may use such information to market the covered affiliate's financial products or services);
 

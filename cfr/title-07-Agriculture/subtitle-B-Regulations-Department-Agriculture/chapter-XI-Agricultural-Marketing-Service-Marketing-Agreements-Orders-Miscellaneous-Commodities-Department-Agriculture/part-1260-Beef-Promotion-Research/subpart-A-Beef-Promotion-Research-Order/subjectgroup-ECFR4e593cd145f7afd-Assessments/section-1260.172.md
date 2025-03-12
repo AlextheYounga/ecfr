@@ -1,5 +1,7 @@
 ##### § 1260.172 Assessments. #####
 
+Link to an amendment published at 82 FR 24457, May 30, 2017.
+
 (a) *Domestic assessments.* (1) Except as prescribed by regulations approved by the Secretary, each person making payment to a producer for cattle purchased from such producer shall be a collecting person and shall collect an assessment from the producer, and each producer shall pay such assessment to the collecting person, at the rate of one dollar ($1) per head of cattle purchased and such collecting person shall remit the assessment to the Board or to a qualified State beef council pursuant to § 1260.172(a)(5).
 
 (2) Any producer marketing cattle of that producer's own production in the form of beef or beef products to consumers, either directly or through retail or wholesale outlets, or for export purposes, shall remit to a qualified State beef council or to the Board an assessment on such cattle at the rate of one dollar ($1) per head of cattle or the equivalent thereof.

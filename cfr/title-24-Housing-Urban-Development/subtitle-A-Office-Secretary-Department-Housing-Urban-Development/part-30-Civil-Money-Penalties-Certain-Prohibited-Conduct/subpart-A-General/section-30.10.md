@@ -1,5 +1,7 @@
 ##### § 30.10 Definitions. #####
 
+Link to an amendment published at 82 FR 24524, May 30, 2017.
+
 Since this part is primarily procedural, terms not defined in this section shall have the meanings given them in relevant program regulations. Comprehensive definitions are in 24 CFR part 4 (HUD Reform Act). The terms *ALJ, Department, HUD,* and *Secretary* are defined in 24 CFR part 5.
 
 *Ability to pay.* Determined based on an assessment of the respondent's resources available both presently and prospectively from which the Department could ultimately recover the total award, which may be predicted based on historical evidence.

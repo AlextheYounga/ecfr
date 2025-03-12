@@ -1,5 +1,7 @@
 ##### § 165.6 Whistleblowers ineligible for an award. #####
 
+Link to an amendment published at 82 FR 24498, May 30, 2017.
+
 (a) No award under § 165.7 shall be made:
 
 (1) To any whistleblower who is, or was at the time the whistleblower acquired the original information submitted to the Commission, a member, officer, or employee of: the Commission; the Board of Governors of the Federal Reserve System; the Office of the Comptroller of the Currency; the Board of Directors of the Federal Deposit Insurance Corporation; the Director of the Office of Thrift Supervision; the National Credit Union Administration Board; the Securities and Exchange Commission; the Department of Justice; a registered entity; a registered futures association; a self-regulatory organization; or a law enforcement organization;

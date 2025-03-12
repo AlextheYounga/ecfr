@@ -1,5 +1,7 @@
 ##### § 23.203 Records; retention and inspection. #####
 
+Link to an amendment published at 82 FR 24487, May 30, 2017.
+
 (a) *Location of records* - (1) *Records.* All records required to be kept by a swap dealer or major swap participant by the Act and by Commission regulations shall be kept at the principal place of business of the swap dealer or major swap participant or such other principal office as shall be designated by the swap dealer or major swap participant. If the principal place of business is outside of the United States, its territories or possessions, then upon the request of a Commission representative, the swap dealer or major swap participant must provide such records as requested at the place in the United States, its territories, or possessions designated by the representative within 72 hours after receiving the request.
 
 (2) *Contact information.* Each swap dealer and major swap participant shall maintain for each of its offices a listing, by name or title, of each person at that office who, without delay, can explain the types of records the swap dealer or major swap participant maintains at that office and the information contained in those records.

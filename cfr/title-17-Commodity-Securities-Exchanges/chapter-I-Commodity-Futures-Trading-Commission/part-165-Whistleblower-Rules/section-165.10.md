@@ -1,5 +1,7 @@
 ##### § 165.10 Contents of record for award determinations. #####
 
+Link to an amendment published at 82 FR 24500, May 30, 2017.
+
 (a) The following items constitute the record upon which the award determination under § 165.7 shall be made:
 
 (1) The whistleblower's Form TCR, “Tip, Complaint or Referral,” including related attachments, and other documentation provided by the whistleblower to the Commission;

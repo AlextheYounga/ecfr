@@ -1,5 +1,7 @@
 ##### § 30.45 Multifamily and section 202 or 811 mortgagors. #####
 
+Link to an amendment published at 82 FR 24524, May 30, 2017.
+
 (a) *Definitions.* The following definitions apply to this section only:
 
 (1) *Agent employed to manage the property that has an identity of interest* and *identity of interest agent.* An entity:

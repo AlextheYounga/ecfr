@@ -1,6 +1,6 @@
 ##### § 1.1158 Form of payment for regulatory fees. #####
 
-Any annual and multiple year regulatory fee payment must be submitted by online Automatic Clearing House (ACH) payment, online Visa, MasterCard, American Express, or Discover credit card payment, or wire transfer payment denominated in U.S. dollars and drawn on a United States financial institution and made payable to the Federal Communications Commission. No other credit card is acceptable. Any other form of payment for annual and multiple year regulatory fees (*e.g.,* paper checks, cash) will be rejected and sent back to the payor. The Commission will not be responsible for cash, under any circumstances, sent through the mail.
+Any annual and multiple year regulatory fee payment must be submitted by online Automatic Clearing House (ACH) payment, online Visa, MasterCard, American Express, or Discover credit card payment, or wire transfer payment denominated in U.S. dollars and drawn on a United States financial institution and made payable to the Federal Communications Commission. No other credit card is acceptable. Any other form of payment for annual and multiple year regulatory fees (e.g., paper checks, cash) will be rejected and sent back to the payor. The Commission will not be responsible for cash, under any circumstances, sent through the mail.
 
 (a) Payors making wire transfer payments must submit an accompanying FCC Form 159-E via facsimile.
 
