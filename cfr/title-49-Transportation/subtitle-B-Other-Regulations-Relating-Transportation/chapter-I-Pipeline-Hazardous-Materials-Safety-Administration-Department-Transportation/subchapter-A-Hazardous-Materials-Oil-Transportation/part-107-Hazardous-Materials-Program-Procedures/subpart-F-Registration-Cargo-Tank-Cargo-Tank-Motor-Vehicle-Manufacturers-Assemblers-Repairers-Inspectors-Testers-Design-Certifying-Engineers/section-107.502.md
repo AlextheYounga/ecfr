@@ -1,8 +1,6 @@
 ##### § 107.502 General registration requirements. #####
 
-Link to an amendment published at 87 FR 79765, Dec. 27, 2022.
-
-(a) *Definitions:* For purposes of this subpart -
+(a) *Definitions:* For purposes of this subpart—
 
 (1) *Assembly* means the performance of any of the following functions when the function does not involve welding on the cargo tank wall:
 
@@ -20,8 +18,8 @@ Link to an amendment published at 87 FR 79765, Dec. 27, 2022.
 
 (c) A person who performs functions which are subject to the provisions of this subpart may perform only those functions which have been identified to the Department in accordance with the procedures of this subpart.
 
-(d) Registration statements must be in English, contain all of the information required by this subpart, and be submitted to: FMCSA Hazardous Materials Division - MC-ECH, West Building, MC-ECH, 1200 New Jersey Avenue, SE., Washington, DC 20590.
+(d) Registration statements must be in English, contain all the information required by this subpart, and be submitted to: FMCSA Hazardous Materials Division—MC-SEH, West Building, 1200 New Jersey Avenue SE, Washington, DC 20590.
 
 (e) Upon determination that a registration statement contains all the information required by this subpart, the Department will send the registrant a letter confirming receipt of the registration application and assigning a registration number to that person. A separate registration number will be assigned for each cargo tank manufacturing, assembly, repair facility or other place of business identified by the registrant.
 
-[Amdt. 107-20, 54 FR 25003, June 12, 1989; 55 FR 37047, Sept. 7, 1990, as amended by Amdt. 107-22, 55 FR 39978, Oct. 1, 1990; Amdt. 107-23, 56 FR 66157, Dec. 20, 1991; Amdt. 107-28, 58 FR 46873, Sept. 3, 1993; Amdt. 107-39, 61 FR 51337, Oct. 1, 1996; 67 FR 61011, Sept. 27, 2002; 68 FR 19273, Apr. 18, 2003; 72 FR 55683, Oct. 1, 2007; 82 FR 15832, Mar. 30, 2017]
+[Amdt. 107-20, 54 FR 25003, June 12, 1989; 55 FR 37047, Sept. 7, 1990, as amended by Amdt. 107-22, 55 FR 39978, Oct. 1, 1990; Amdt. 107-23, 56 FR 66157, Dec. 20, 1991; Amdt. 107-28, 58 FR 46873, Sept. 3, 1993; Amdt. 107-39, 61 FR 51337, Oct. 1, 1996; 67 FR 61011, Sept. 27, 2002; 68 FR 19273, Apr. 18, 2003; 72 FR 55683, Oct. 1, 2007; 82 FR 15832, Mar. 30, 2017; 87 FR 79765, Dec. 27, 2022]

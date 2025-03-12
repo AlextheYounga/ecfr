@@ -1,7 +1,5 @@
 ##### § 178.601 General requirements. #####
 
-Link to an amendment published at 87 FR 79784, Dec. 27, 2022.
-
 (a) *General.* The test procedures prescribed in this subpart are intended to ensure that packages containing hazardous materials can withstand normal conditions of transportation and are considered minimum requirements. Each packaging must be manufactured and assembled so as to be capable of successfully passing the prescribed tests and of conforming to the requirements of § 173.24 of this subchapter at all times while in transportation.
 
 (b) *Responsibility.* It is the responsibility of the packaging manufacturer to assure that each package is capable of passing the prescribed tests. To the extent that a package assembly function, including final closure, is performed by the person who offers a hazardous material for transportation, that person is responsible for performing the function in accordance with §§ 173.22 and 178.2 of this subchapter.
@@ -38,9 +36,9 @@ Link to an amendment published at 87 FR 79784, Dec. 27, 2022.
 
 (1) *Selective testing of combination packagings. Variation 1.* Variations are permitted in inner packagings of a tested combination package, without further testing of the package, provided an equivalent level of performance is maintained and, when a package is altered under Variation 1 after October 1, 2010, the methodology used to determine that the inner packaging, including closure, maintains an equivalent level of performance is documented in writing by the person certifying compliance with this paragraph and retained in accordance with paragraph (l) of this section. Permitted variations are as follows:
 
-(i) Inner packagings of equivalent or smaller size may be used provided -
+(i) Inner packagings of equivalent or smaller size may be used provided—
 
-(A) The inner packagings are of similar design to the tested inner packagings (*i.e.*, shape - round, rectangular, etc.);
+(A) The inner packagings are of similar design to the tested inner packagings (*i.e.*, shape—round, rectangular, etc.);
 
 (B) The material of construction of the inner packagings (glass, plastic, metal, etc.) offers resistance to impact and stacking forces equal to or greater than that of the originally tested inner packaging;
 
@@ -66,7 +64,7 @@ Link to an amendment published at 87 FR 79784, Dec. 27, 2022.
 
 (v) Inner packagings containing liquids must be completely surrounded with a sufficient quantity of absorbent material to absorb the entire liquid contents of the inner packagings;
 
-(vi) When the outer packaging is intended to contain inner packagings for liquids and is not leakproof, or is intended to contain inner packagings for solids and is not siftproof, a means of containing any liquid or solid contents in the event of leakage must be provided in the form of a leakproof liner, plastic bag, or other equally efficient means of containment. For packagings containing liquids, the absorbent material required in paragraph (g)(2)(v) of this section must be placed inside the means of containing liquid contents; and
+(vi) When the outer packaging is intended to contain inner packagings for liquids and is not leakproof or is intended to contain inner packagings for solids and is not siftproof, a means of containing any liquid or solid contents in the event of leakage must be provided in the form of a leakproof liner, plastic bag, or other equally efficient means of containment. For packagings containing liquids, the absorbent material required in paragraph (g)(2)(v) of this section must be placed inside as the means of containing liquid contents; and
 
 (vii) Packagings must be marked in accordance with § 178.503 of this part as having been tested to Packing Group I performance for combination packagings. The marked maximum gross mass may not exceed the sum of the mass of the outer packaging plus one half the mass of the filled inner packagings of the tested combination packaging. In addition, the marking required by § 178.503(a)(2) of this part must include the letter “V”.
 
@@ -138,7 +136,7 @@ Replacement closures and gasketings qualified under the above test requirements 
 
 (h) *Approval of equivalent packagings.* A packaging having specifications different from those in §§ 178.504-178.523 of this part, or which is tested using methods or test intervals, other than those specified in subpart M of this part, may be used if approved by the Associate Administrator. Such packagings must be shown to be equally effective, and testing methods used must be equivalent.
 
-(i) *Proof of compliance.* Notwithstanding the periodic retest intervals specified in paragraph (e) of this section, the Associate Administrator may at any time require demonstration of compliance by a manufacturer, through testing in accordance with this subpart, that packagings meet the requirements of this subpart. As required by the Associate Administrator, the manufacturer shall either -
+(i) *Proof of compliance.* Notwithstanding the periodic retest intervals specified in paragraph (e) of this section, the Associate Administrator may at any time require demonstration of compliance by a manufacturer, through testing in accordance with this subpart, that packagings meet the requirements of this subpart. As required by the Associate Administrator, the manufacturer shall either—
 
 (1) Conduct performance tests, or have tests conducted by an independent testing facility, in accordance with this subpart; or
 
@@ -196,4 +194,4 @@ Replacement closures and gasketings qualified under the above test requirements 
 
 (x) Signed with the name and title of signatory.
 
-[Amdt. 178-97, 55 FR 52723, Dec. 21, 1990, as amended at 56 FR 66285, Dec. 20, 1991; 57 FR 45465, Oct. 1, 1992; Amdt. 178-102, 59 FR 28494, June 2, 1994; Amdt. 178-106, 59 FR 67521, 67522, Dec. 29, 1994; Amdt. 178-117, 61 FR 50628, Sept. 26, 1996; 66 FR 45386, Aug. 28, 2001; 67 FR 53143, Aug. 14, 2002; 68 FR 75758, Dec. 31, 2003; 68 FR 61942, Oct. 30, 2003; 75 FR 5396, Feb. 2, 2010; 75 FR 60339, Sept. 30, 2010; 77 FR 60944, Oct. 5, 2012; 78 FR 1118, Jan. 7, 2013; 78 FR 14715, Mar. 7, 2013; 78 FR 65487, Oct. 31, 2013; 85 FR 27901, May 11, 2020]
+[Amdt. 178-97, 55 FR 52723, Dec. 21, 1990, as amended at 56 FR 66285, Dec. 20, 1991; 57 FR 45465, Oct. 1, 1992; Amdt. 178-102, 59 FR 28494, June 2, 1994; Amdt. 178-106, 59 FR 67521, 67522, Dec. 29, 1994; Amdt. 178-117, 61 FR 50628, Sept. 26, 1996; 66 FR 45386, Aug. 28, 2001; 67 FR 53143, Aug. 14, 2002; 68 FR 75758, Dec. 31, 2003; 68 FR 61942, Oct. 30, 2003; 75 FR 5396, Feb. 2, 2010; 75 FR 60339, Sept. 30, 2010; 77 FR 60944, Oct. 5, 2012; 78 FR 1118, Jan. 7, 2013; 78 FR 14715, Mar. 7, 2013; 78 FR 65487, Oct. 31, 2013; 85 FR 27901, May 11, 2020; 87 FR 79784, Dec. 27, 2022]

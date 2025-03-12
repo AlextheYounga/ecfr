@@ -1,8 +1,8 @@
-##### § 17.40 Special rules - mammals. #####
+##### § 17.40 Special rules—mammals. #####
 
-Link to an amendment published at 87 FR 73504, Nov. 30, 2022.
+Link to an amendment published at 87 FR 73504, Nov. 30, 2022 (delayed).Link to an amendment published at 88 FR 4908, Jan. 26, 2023, delaying the above amendment from Jan. 30, 2023, to Mar. 31, 2023.
 
-(a) Mazama pocket gophers (Olympia, Roy Prairie, Tenino, and Yelm) (*Thomomys mazama pugetensis, glacialis, tumuli,* and *yelmensis*) - (1) *Which populations of the Mazama pocket gopher are covered by this special rule?* This special rule covers the four Thurston/Pierce subspecies of the Mazama pocket gopher (Olympia, Roy Prairie, Tenino, and Yelm) (*Thomomys mazama pugetensis, glacialis, tumuli,* and *yelmensis*) wherever they occur.
+(a) Mazama pocket gophers (Olympia, Roy Prairie, Tenino, and Yelm) (*Thomomys mazama pugetensis, glacialis, tumuli,* and *yelmensis*)—(1) *Which populations of the Mazama pocket gopher are covered by this special rule?* This special rule covers the four Thurston/Pierce subspecies of the Mazama pocket gopher (Olympia, Roy Prairie, Tenino, and Yelm) (*Thomomys mazama pugetensis, glacialis, tumuli,* and *yelmensis*) wherever they occur.
 
 (2) *What activities are prohibited?* Except as noted in paragraphs (a)(3) through (7) of this section, all prohibitions of § 17.31 apply to the Olympia, Roy Prairie, Tenino, and Yelm pocket gophers.
 
@@ -80,7 +80,7 @@ Link to an amendment published at 87 FR 73504, Nov. 30, 2022.
 
 (iv) Repair or maintenance of fences.
 
-(b) Grizzly bear (*Ursus arctos horribilis*) - (1) *Prohibitions.* The following prohibitions apply to the grizzly bear:
+(b) Grizzly bear (*Ursus arctos horribilis*)—(1) *Prohibitions.* The following prohibitions apply to the grizzly bear:
 
 (i) *Taking.* (A) Except as provided in paragraphs (b)(1)(i)(B) through (F) of this section, no person shall take any grizzly bear in the 48 conterminous states of the United States.
 
@@ -420,7 +420,7 @@ In all other parts of its range the argali is classified as endangered and cover
 
 (4) *Where does this rule apply?* The take exemptions provided by this rule are applicable within the entire range of the Preble's meadow jumping mouse.
 
-(m) Vicuña (*Vicugna vicugna*) - (1) *What activities involving vicuña are prohibited by this rule?* (i) *Appendix I populations.* All provisions of § 17.31 (a) and (b) and § 17.32 apply to vicuña and vicuña parts and products originating from populations currently listed in Appendix I of the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES).
+(m) Vicuña (*Vicugna vicugna*)— (1) *What activities involving vicuña are prohibited by this rule?* (i) *Appendix I populations.* All provisions of § 17.31 (a) and (b) and § 17.32 apply to vicuña and vicuña parts and products originating from populations currently listed in Appendix I of the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES).
 
 (ii) *Import, export, and re-export.* Except as provided in paragraph (m)(2) of this section, it is unlawful to import, export, or re-export, or present for export or re-export without valid permits as required under parts 17 and 23 of this subchapter, any vicuña or vicuña parts and products. For import of embryos, blood, other tissue samples, or live vicuña, permits required under § 17.32 and part 23 will be issued only for bona fide scientific research contributing to the conservation of the species in the wild.
 
@@ -440,7 +440,7 @@ In all other parts of its range the argali is classified as endangered and cover
 
 (A) An identification tag with a code identifying the country of origin of the raw vicuña wool and the CITES export permit number; and
 
-(B) The vicuña logotype as defined in 50 CFR part 23 and the words “VICUÑA - COUNTRY OF ORIGIN”, where country of origin is the name of the country from which the raw vicuña wool was first exported.
+(B) The vicuña logotype as defined in 50 CFR part 23 and the words “VICUÑA—COUNTRY OF ORIGIN”, where country of origin is the name of the country from which the raw vicuña wool was first exported.
 
 (v) At the time of import, the country of origin and each country of re-export involved in the trade of a particular shipment have not been identified by the CITES Conference of the Parties, the CITES Standing Committee, or in a Notification from the CITES Secretariat as a country from which Parties should not accept permits.
 
@@ -462,7 +462,7 @@ In all other parts of its range the argali is classified as endangered and cover
 
 (F) Other natural or man-made factors affecting the species' recovery.
 
-(4) *What must vicuña range countries do in order to be authorized under the special rule to export to the United States?* - (i) *Annual Report.* Range country governments (Argentina, Bolivia, Chile, and Peru) wishing to export specimens of vicuña to the United States will need to provide an annual report containing the most recent information available on the status of the species, following the information guidelines specified below. The first submission of a status report will be required as of July 1, 2003, and every year thereafter on the anniversary of that date. For each range country, the following information should be provided in the annual report:
+(4) *What must vicuña range countries do in order to be authorized under the special rule to export to the United States?*—(i) *Annual Report.* Range country governments (Argentina, Bolivia, Chile, and Peru) wishing to export specimens of vicuña to the United States will need to provide an annual report containing the most recent information available on the status of the species, following the information guidelines specified below. The first submission of a status report will be required as of July 1, 2003, and every year thereafter on the anniversary of that date. For each range country, the following information should be provided in the annual report:
 
 (A) A description of any revisions to the management program, especially any changes in management approaches or emphasis;
 

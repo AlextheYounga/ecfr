@@ -6,7 +6,7 @@
 
 (1) *Retrospective.* A benefit or benefit increase must not be adopted during the SFA coverage period if it is in whole or in part attributable to service accrued or other events occurring before the adoption date of the amendment.
 
-(2) *Prospective.* A benefit or benefit increase must not be adopted during the SFA coverage period unless -
+(2) *Prospective.* A benefit or benefit increase must not be adopted during the SFA coverage period unless—
 
 (i) The plan actuary certifies that employer contribution increases projected to be sufficient to pay for the benefit increase have been adopted or agreed to; and
 
@@ -94,7 +94,7 @@
 
 (ix) Any additional information PBGC determines it needs to review a request for approval of a proposed contribution change.
 
-(e) *Allocating contributions and other practices* - (1) *In general.* During the SFA coverage period, a decrease in the proportion of income or an increase in the proportion of expenses allocated to a plan that receives special financial assistance pursuant to a written or oral agreement or practice (other than a written agreement in existence on March 11, 2021, to the extent not subsequently amended or modified) under which the income or expenses are divided or to be divided between a plan that receives special financial assistance and one or more other employee benefit plans is prohibited. The prohibition in the preceding sentence does not apply to a good faith allocation of:
+(e) *Allocating contributions and other practices*—(1) *In general.* During the SFA coverage period, a decrease in the proportion of income or an increase in the proportion of expenses allocated to a plan that receives special financial assistance pursuant to a written or oral agreement or practice (other than a written agreement in existence on March 11, 2021, to the extent not subsequently amended or modified) under which the income or expenses are divided or to be divided between a plan that receives special financial assistance and one or more other employee benefit plans is prohibited. The prohibition in the preceding sentence does not apply to a good faith allocation of:
 
 (i) Contributions pursuant to a reciprocity agreement;
 
@@ -194,7 +194,7 @@
 
 (v) For the condition described in paragraph (g)(2) of this section (withdrawal liability amount of special financial assistance required to be phased in), the merged plan must apply the special financial assistance phase-in condition to determine the unfunded vested benefits that arose under the plan that received special financial assistance before the date of the merger for purposes of allocating unfunded vested benefits under subpart D of part 4211 of this chapter and determining withdrawal liability for employers that participated in that plan.
 
-(4) *Waiver of conditions with respect to an approved merger.* A plan may request a waiver of the condition in paragraph (b)(1) of this section (retrospective benefit increase), paragraph (d) of this section (contribution decreases), and the condition in paragraph (e) of this section relating to allocating contributions and other income for the merged plan in the plan's request for PBGC's approval of a merger pursuant to paragraph (f)(1) of this section. If any of the plans involved in the merger engage in multiple transactions in any 1-year period, the transactions will be considered in the aggregate. The plan's application must demonstrate the following requirements for a waiver -
+(4) *Waiver of conditions with respect to an approved merger.* A plan may request a waiver of the condition in paragraph (b)(1) of this section (retrospective benefit increase), paragraph (d) of this section (contribution decreases), and the condition in paragraph (e) of this section relating to allocating contributions and other income for the merged plan in the plan's request for PBGC's approval of a merger pursuant to paragraph (f)(1) of this section. If any of the plans involved in the merger engage in multiple transactions in any 1-year period, the transactions will be considered in the aggregate. The plan's application must demonstrate the following requirements for a waiver—
 
 (i) The total current value of assets of the plans that received special financial assistance before the merger must be 25 percent or less of the total current value of assets of the merged plan, calculated using the current value of assets most recently required before the merger to be entered by the plans on the Form 5500 Schedule MB.
 
@@ -202,7 +202,7 @@
 
 (iii) In the most recent certification of plan status for any plan that did not receive special financial assistance before the merger, the plan actuary must have certified that the plan is not in endangered or critical status (including critical and declining status) and is not projected to be in critical status within 5 years from the date of the plan's request for approval, and the plan must not be described in section 432(b)(5) of the Code.
 
-(g) *Withdrawal liability determination* - (1) *Interest assumptions.* A plan must use the interest assumptions in appendix B to part 4044 of this chapter in determining the unfunded vested benefits of the plan under section 4213(c) of ERISA (for the purpose of determining withdrawal liability), and in determining the amortization schedule under section 4219(c)(1)(A) of ERISA, beginning with the first plan year in which the plan receives payment of special financial assistance under § 4262.12 and until the later of -
+(g) *Withdrawal liability determination*—(1) *Interest assumptions.* A plan must use the interest assumptions in appendix B to part 4044 of this chapter in determining the unfunded vested benefits of the plan under section 4213(c) of ERISA (for the purpose of determining withdrawal liability), and in determining the amortization schedule under section 4219(c)(1)(A) of ERISA, beginning with the first plan year in which the plan receives payment of special financial assistance under § 4262.12 and until the later of—
 
 (i) The end of the tenth plan year after the first plan year in which the plan receives payment of special financial assistance under § 4262.12; or
 
@@ -212,7 +212,7 @@
 
 (iv) The end of the plan year by which, according to the plan's projection, the plan is projected to exhaust any SFA assets, as determined under § 4262.4(b). However, if the first plan year in which the plan receives payment of special financial assistance is after the plan year that includes the plan's SFA measurement date, the plan year by which the plan is projected to exhaust any SFA assets is deferred by the number of years by which the first plan year in which the plan receives payment of special financial assistance is after the plan year that includes the plan's SFA measurement date.
 
-(2) *Phase-in of SFA* - (i) *In general.* In determining unfunded vested benefits under section 4213(c) of ERISA (for the purpose of determining withdrawal liability), the procedures in this paragraph (g)(2) must be followed.
+(2) *Phase-in of SFA*—(i) *In general.* In determining unfunded vested benefits under section 4213(c) of ERISA (for the purpose of determining withdrawal liability), the procedures in this paragraph (g)(2) must be followed.
 
 (ii) *Phase-in period.* The procedures in this paragraph (g)(2) apply to the determination of unfunded vested benefits as of the end of any determination year that is not earlier than the payment year or later than the exhaustion year.
 
@@ -250,13 +250,37 @@
 
 (C) *Example 3.* Plan C, a calendar-year plan, filed an application for special financial assistance under this part with an SFA measurement date in plan year 2024 and received a special financial assistance payment of $1,000,000 in 2025. According to the plan's application, Plan C is projected to exhaust its SFA assets during plan year 2024. Accordingly, the payment year is 2025 and the exhaustion year is 2025 (the projected SFA exhaustion year in the application plus 1 year for the difference between the plan year that includes the SFA measurement date and the payment year). Employer T withdraws from Plan C in 2026. For Employer T: {1} the determination year is 2025; {2} the numerator of the phase-in fraction is 1 (2025 to 2025); {3} the denominator of the phase-in fraction is 1 (2025 to 2025); and {4} the phased in amount is $1,000,000 ($1,000,000 ×1/1). If total assets (assuming no phased recognition of SFA) are $100,000,000, unfunded vested benefits are based on assets of $99,000,000.
 
-(h) *Withdrawal liability settlement.* (1) During the SFA coverage period, a plan must obtain PBGC approval for a proposed settlement of withdrawal liability if the amount of the liability settled is greater than $50 million calculated as the lesser of -
+(3) *Request for exception.* The plan sponsor of a plan eligible for special financial assistance may request approval from PBGC for an exception from the conditions under paragraphs (g)(1) and (2) of this section by demonstrating to the satisfaction of PBGC that the exception lessens the risk of loss to plan participants and beneficiaries and does not increase expected employer withdrawals. The plan sponsor must also demonstrate to the satisfaction of PBGC that the exception does not increase the amount of the plan's special financial assistance or unreasonably increase PBGC's risk of loss. A request for PBGC approval of an exception must be submitted by the plan sponsor, or its duly authorized representative, either before an initial application or before a revised application for special financial assistance is filed by the plan, and must contain all of the following identifying, actuarial, and financial information:
+
+(i) Name, address, email, and telephone number of the plan sponsor and the plan sponsor's authorized representatives, if any.
+
+(ii) The nine-digit employer identification number (EIN) assigned to the plan sponsor by the IRS and the three-digit plan identification number (PN) assigned to the plan by the plan sponsor, and, if different, the EIN and PN last filed with PBGC. If an EIN or PN has not been assigned, that should be indicated.
+
+(iii) Most recent plan document or restatement of the plan document and all subsequent amendments adopted (if any) and most recent Declaration of Trust.
+
+(iv) Administrative manuals and other documents governing the plan's assessment or administration of withdrawal liability.
+
+(v) A copy of the most recent actuarial valuation performed for the plan before the date of the plan's submission of a request for approval under this paragraph (g)(3), and the actuarial valuation performed for each of the 2 plan years immediately preceding the most recent actuarial valuation.
+
+(vi) A copy of the plan actuary's most recent certification under section 305(b)(3) of ERISA, including a detailed description of the assumptions used in the certification, and the basis under which they were determined. The description must include information about the assumptions used for the projection of future contributions, withdrawal liability payments, and investment returns, and any other assumption that may have a material effect on projections.
+
+(vii) A statement of whether the plan sponsor is requesting an exception from the condition under paragraph (g)(1) or (2) of this section or both and a demonstration of how the proposed exception lessens the risk of loss to plan participants and beneficiaries and does not increase expected employer withdrawals. The statement must also include a demonstration that the exception does not increase the amount of the plan's special financial assistance or unreasonably increase PBGC's risk of loss.
+
+(viii) A list of employers contributing greater than 5 percent of plan contributions in a plan year.
+
+(ix) A certification by the plan's actuary that the amount of special financial assistance that will be requested in the plan's application for special financial assistance will be determined assuming the exception will be approved.
+
+(x) A detailed statement certified by an enrolled actuary of the effect of the proposed exception, and a demonstration for 30 years that the estimated withdrawal liability payments and contributions with the proposed exception exceed the estimated withdrawal liability payments and contributions without the proposed exception. The demonstration must show an aggregate of all withdrawal liability payments and an aggregate of all contributions for each year in the 30-year period and include representative examples of employer withdrawal liability payments and contributions. An individual employer's withdrawal liability assessment reflecting the proposed exception must be no less than what would be assessed without the proposed exception.
+
+(xi) Any additional information PBGC determines it needs to review a request for approval of a proposed exception.
+
+(h) *Withdrawal liability settlement.* (1) During the SFA coverage period, a plan must obtain PBGC approval for a proposed settlement of withdrawal liability if the amount of the liability settled is greater than $50 million calculated as the lesser of—
 
 (i) The allocation of unfunded vested benefits to the employer under section 4211 of ERISA; or
 
 (ii) The present value of withdrawal liability payments assessed for the employer discounted using the interest assumptions in appendix B to part 4044 of this chapter.
 
-(2) PBGC will approve a proposed settlement of withdrawal liability if it determines -
+(2) PBGC will approve a proposed settlement of withdrawal liability if it determines—
 
 (i) Implementation of the settlement is in the best interests of participants and beneficiaries; and
 
@@ -270,7 +294,7 @@
 
 (iii) A copy of the proposed settlement agreement.
 
-(iv) A description of the facts leading up to the proposed settlement, including -
+(iv) A description of the facts leading up to the proposed settlement, including—
 
 (A) The date the employer withdrew from the plan;
 
@@ -288,7 +312,7 @@
 
 (viii) Any additional information PBGC determines it needs to review a request for approval of a proposed withdrawal liability settlement.
 
-(i) *Reporting.* In accordance with the statement of compliance instructions on PBGC's website at *www.pbgc.gov,* a plan sponsor must file with PBGC for each plan year, beginning with the plan year in which the plan received payment of special financial assistance and through the last plan year ending in 2051, a statement of compliance with the terms and conditions of the special financial assistance under this part and section 4262 of ERISA as follows -
+(i) *Reporting.* In accordance with the statement of compliance instructions on PBGC's website at *www.pbgc.gov,* a plan sponsor must file with PBGC for each plan year, beginning with the plan year in which the plan received payment of special financial assistance and through the last plan year ending in 2051, a statement of compliance with the terms and conditions of the special financial assistance under this part and section 4262 of ERISA as follows—
 
 (1) Except as provided in paragraph (i)(2) of this section, a plan's statement of compliance for each plan year must be filed no later than 90 days after the end of the plan year.
 
@@ -303,3 +327,5 @@
 (1) *Method of filing.* A filing described under paragraph (b), (d), (f), (h), or (i) of this section must be made electronically in accordance with the rules in part 4000 of this chapter. The time period for filing a request or statement of compliance must be computed under the rules in subpart D of part 4000 of this chapter.
 
 (2) *Where to file.* A filing described under paragraph (b), (d), (f), (h), or (i) of this section must be submitted as described in § 4000.4 of this chapter.
+
+[87 FR 41006, July 8, 2022, as amended at 88 FR 4905, Jan. 26, 2023]

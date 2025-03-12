@@ -1,14 +1,12 @@
 ##### § 174.67 Tank car unloading. #####
 
-Link to an amendment published at 87 FR 79783, Dec. 27, 2022.
-
 For transloading operations, the following rules must be observed:
 
 (a) *General requirements.* (1) Unloading operations must be performed by hazmat employees properly instructed in unloading hazardous materials and made responsible for compliance with this section.
 
 (2) Each hazmat employee who is responsible for unloading must apply the handbrake and block at least one wheel to prevent motion in any direction. If multiple tank cars are coupled together, sufficient hand brakes must be set and wheels blocked to prevent motion in both directions.
 
-(3) Each hazmat employee who is responsible for unloading must secure access to the track to prevent entry by other rail equipment, including motorized service vehicles. This requirement may be satisfied by lining each switch providing access to the unloading area against shifting and securing each switch with an effective locking device, or by using derails, portable bumper blocks, or other equipment that provides an equivalent level of safety.
+(3) Each hazmat employee who is responsible for unloading must secure access to the track to prevent entry by other rail equipment, including motorized service vehicles. This requirement may be satisfied by lining each switch providing access to the unloading area against motion and securing each switch with an effective locking device, or by using derails, portable bumper blocks, or other equipment that provides an equivalent level of safety.
 
 (4) Each hazmat employee who is responsible for unloading must display caution signs on the track or on the tank cars to warn persons approaching the cars from the open end of the track and must be left up until after all closures are secured and the cars are in proper condition for transportation. The caution signs must be of metal or other durable material, rectangular, at 30.48 cm (12 inches) high by 38.10 cm (15 inches) wide, and bear the word “STOP.” The word “STOP” must appear in letters at least 10.16 cm (4 inches) high. The letters must be white on a blue background. Additional words, such as “Tank Car Connected” or “Crew at Work,” may also appear in white letters under the word “STOP.”
 
@@ -50,7 +48,7 @@ For transloading operations, the following rules must be observed:
 
 (1) Attended by a designated hazmat employee who is physically present and who has an unobstructed view of the unloading operation; or
 
-(2) Monitored by a signaling system (*e.g.,* video system, sensing equipment, or mechanical equipment) that is observed by a designated hazmat employee located either in the immediate area of the tank car or at a remote location within the facility, such as a control room. The signaling system must -
+(2) Monitored by a signaling system (*e.g.,* video system, sensing equipment, or mechanical equipment) that is observed by a designated hazmat employee located either in the immediate area of the tank car or at a remote location within the facility, such as a control room. The signaling system must—
 
 (i) Provide a level of surveillance equivalent to that provided in subparagraph (1) of this paragraph (i); and
 
@@ -84,4 +82,4 @@ For transloading operations, the following rules must be observed:
 
 (o) All tools and implements used in connection with unloading must be kept free of oil, dirt, and grit.
 
-[Amdt. 174-26, 41 FR 16092, Apr. 15, 1976, as amended by Amdt. 174-26A, 41 FR 40685, Sept. 20, 1976; Amdt. 174-43, 48 FR 27699, June 16, 1983; Amdt. 174-68, 55 FR 52678, Dec. 21, 1990; 56 FR 66280, Dec. 20, 1991; Amdt. 174-81, 60 FR 49111, Sept. 21, 1995; Amdt. 174-83, 61 FR 28678, June 5, 1996; 68 FR 61941, Oct. 30, 2003; 70 FR 20034, Apr. 15, 2005; 72 FR 55693, Oct. 1, 2007; 76 FR 43530, July 20, 2011; 81 FR 3682, Jan. 21, 2016; 85 FR 83401, Dec. 21, 2020]
+[Amdt. 174-26, 41 FR 16092, Apr. 15, 1976]Editorial Note:For Federal Register citations affecting § 174.67, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

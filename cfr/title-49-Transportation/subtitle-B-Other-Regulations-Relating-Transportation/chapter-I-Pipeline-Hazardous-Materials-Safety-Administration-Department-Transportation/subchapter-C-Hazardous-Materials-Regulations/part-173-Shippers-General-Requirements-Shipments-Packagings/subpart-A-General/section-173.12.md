@@ -1,7 +1,5 @@
 ##### § 173.12 Exceptions for shipment of waste materials. #####
 
-Link to an amendment published at 87 FR 79775, Dec. 27, 2022.
-
 (a) *Open head drums.* If a hazardous material that is a hazardous waste is required by this subchapter to be shipped in a closed head drum (i.e., a drum with a 7.0 cm (3 inches) or less bung opening) and the hazardous waste contains solids or semisolids that make its placement in a closed head drum impracticable, an equivalent (except for closure) open head drum may be used for the hazardous waste.
 
 (b) *Lab packs.* (1) Waste materials prohibited by paragraph (b)(3) of this section are not authorized for transport in packages authorized by this paragraph (b). Waste materials classed as Class or Division 3, 4.1, 4.2, 4.3, 5.1, 5.2, 6.1, 8, or 9 are excepted from the specification packaging requirements of this subchapter for combination packagings if packaged in accordance with this paragraph (b) and transported for disposal or recovery by highway, rail or cargo vessel. In addition, a generic description from the § 172.101 Hazardous Materials Table may be used in place of specific chemical names, when two or more chemically compatible waste materials in the same hazard class are packaged in the same outside packaging.
@@ -72,12 +70,12 @@ Link to an amendment published at 87 FR 79775, Dec. 27, 2022.
 
 (g) *Household waste.* Household waste, as defined in § 171.8 of this subchapter, is not subject to the requirements of this subchapter when transported in accordance with applicable state, local, or tribal requirements.
 
-(h) *Shrink-wrapped or stretch-wrapped pallets of limited quantity waste.* Shrink-wrapped or stretch-wrapped pallets containing packages of waste ORM-D or limited quantity materials may be transported by motor vehicle and cargo vessel under the following conditions:
+(h) *Shrink-wrapped or stretch-wrapped pallets of limited quantity waste.* Shrink-wrapped or stretch-wrapped pallets containing packages of waste limited quantity materials may be transported by motor vehicle and cargo vessel under the following conditions:
 
-(1) The waste materials must be in their original undamaged packaging and marked with the “Consumer Commodity ORM-D” marking in conformance with § 172.316 or an authorized limited quantity marking in conformance with § 172.315 of this subchapter, as appropriate. The word “waste” in association with the proper shipping name is not required on individual packages;
+(1) The waste materials must be in their original undamaged packaging marked with the authorized limited quantity marking in conformance with § 172.315 of this subchapter, as appropriate. The word “waste” in association with the proper shipping name is not required on individual packages;
 
 (2) Packages must be securely affixed to a pallet and shrink-wrapped or stretch-wrapped;
 
-(3) The outside of the shrink-wrap or stretch-wrap must be marked on opposite sides with either “Waste, Consumer Commodity, ORM-D” or “Waste, Limited Quantity.”
+(3) The outside of the shrink-wrap or stretch-wrap must be marked on opposite sides with “Waste, Limited Quantity.”
 
 [Amdt. 173-224, 55 FR 52609, Dec. 21, 1990]Editorial Note:For Federal Register citations affecting § 173.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

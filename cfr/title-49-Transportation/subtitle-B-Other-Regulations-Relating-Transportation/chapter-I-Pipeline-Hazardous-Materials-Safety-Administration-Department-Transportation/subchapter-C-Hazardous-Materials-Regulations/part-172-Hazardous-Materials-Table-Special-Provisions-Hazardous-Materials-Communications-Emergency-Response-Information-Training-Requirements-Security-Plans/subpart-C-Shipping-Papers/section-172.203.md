@@ -1,7 +1,5 @@
 ##### § 172.203 Additional description requirements. #####
 
-Link to an amendment published at 87 FR 79772, Dec. 27, 2022.
-
 (a) *Special permits.* Except as provided in § 173.23 of this subchapter, each shipping paper issued in connection with a shipment made under a special permit must bear the notation “DOT-SP” followed by the special permit number assigned and located so that the notation is clearly associated with the description to which the special permit applies. Each shipping paper issued in connection with a shipment made under an exemption or special permit issued prior to October 1, 2007, may bear the notation “DOT-E” followed by the number assigned and so located that the notation is clearly associated with the description to which it applies.
 
 (b) *Limited quantities.* When a shipping paper is required by this subchapter, the description for a material offered for transportation as “limited quantity,” as authorized by this subchapter, must include the words “Limited Quantity” or “Ltd Qty” following the basic description.
@@ -46,7 +44,7 @@ Link to an amendment published at 87 FR 79772, Dec. 27, 2022.
 
 (e) *Empty packagings.* (1) The description on the shipping paper for a packaging containing the residue of a hazardous material may include the words “RESIDUE: Last Contained \* \* \*” immediately before or after the basic shipping description on the shipping paper.
 
-(2) The description on the shipping paper for a tank car containing the residue of a hazardous material must include the phrase, “RESIDUE: LAST CONTAINED \* \* \*” immediately before or after the basic shipping description or immediately preceding the proper shipping name of the material on the shipping paper.
+(2) The description on the shipping paper for a tank car containing the residue of a hazardous material must include the phrase, “RESIDUE: Last Contained \* \* \*” immediately before or after the basic shipping description or immediately preceding the proper shipping name of the material on the shipping paper.
 
 (f) *Transportation by air.* A statement indicating that the shipment is within the limitations prescribed for either passenger and cargo aircraft or cargo aircraft only must be entered on the shipping paper.
 
@@ -56,7 +54,7 @@ Link to an amendment published at 87 FR 79772, Dec. 27, 2022.
 
 (3) When shipments of elevated temperature materials are transported under the exception permitted in § 173.247(h)(3) of this subchapter, the shipping paper must contain an appropriate notation, such as “Maximum operating speed 15 mph.”.
 
-(h) *Transportation by highway.* Following the basic description for a hazardous material in a Specification MC 330 or MC 331 cargo tank, there must be entered for -
+(h) *Transportation by highway.* Following the basic description for a hazardous material in a Specification MC 330 or MC 331 cargo tank, there must be entered for—
 
 (1) *Anhydrous ammonia.* (i) The words “0.2 PERCENT WATER” to indicate the suitability for shipping anhydrous ammonia in a cargo tank made of quenched and tempered steel as authorized by § 173.315(a), Note 14 of this subchapter, or
 
@@ -72,7 +70,7 @@ Link to an amendment published at 87 FR 79772, Dec. 27, 2022.
 
 (2) A minimum flashpoint, if 60 °C (140 °F) or below (in °C closed cup (c.c.)), in association with the basic description, for Class 3 flammable liquid materials (as a primary or subsidiary hazard). For lab packs packaged in conformance with § 173.12(b) of this subchapter, an indication that the lowest flashpoint of all hazardous materials contained in the lab pack is below 23 °C or that the flash point is not less than 23 °C but not more than 60 °C must be identified on the shipping paper in lieu of the minimum flashpoint.
 
-(3) For a hazardous material consigned under an “n.o.s.” entry not included in the segregation groups listed in section 3.1.4 of the IMDG Code (IBR see § 171.7 of this subchapter) but belonging, in the opinion of the consignor, to one of these groups, the appropriate segregation group must be shown in association with the basic description (for example, IMDG Code segregation group - 1 Acids). When no segregation group is applicable, there is no requirement to indicate that condition.
+(3) For a hazardous material consigned under an “n.o.s.” entry not included in the segregation groups listed in section 3.1.4 of the IMDG Code (IBR see § 171.7 of this subchapter) but belonging, in the opinion of the consignor, to one of these groups, the appropriate segregation group must be shown in association with the basic description (for example, IMDG Code segregation group—1 Acids). When no segregation group is applicable, there is no requirement to indicate that condition.
 
 (4) For lithium cells or batteries transported in accordance with § 173.185(f), “DAMAGED/DEFECTIVE”; and for lithium cells or batteries transported for purposes of disposal or recycling, “LITHIUM BATTERIES FOR DISPOSAL” or “LITHIUM BATTERIES FOR RECYCLING”, as appropriate.
 
@@ -82,7 +80,7 @@ Link to an amendment published at 87 FR 79772, Dec. 27, 2022.
 
 (1) If a hazardous material is a mixture or solution of two or more hazardous materials, the technical names of at least two components most predominately contributing to the hazards of the mixture or solution must be entered on the shipping paper as required by paragraph (k) of this section. For example, “UN 2924, Flammable liquid, corrosive, n.o.s., 3 (8), II (contains Methanol, Potassium hydroxide)”.
 
-(2) The provisions of this paragraph do not apply -
+(2) The provisions of this paragraph do not apply—
 
 (i) To a material that is a hazardous waste and described using the proper shipping name “Hazardous waste, liquid *or* solid, n.o.s.”, classed as a miscellaneous Class 9, provided the EPA hazardous waste number is included on the shipping paper in association with the basic description, or provided the material is described in accordance with the provisions of § 172.203(c) of this part.
 

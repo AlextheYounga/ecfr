@@ -1,6 +1,4 @@
-##### § 177.837 Class 3 materials. #####
-
-Link to an amendment published at 87 FR 79784, Dec. 27, 2022.
+##### § 177.837 Class 3 (flammable liquid) materials. #####
 
 (See also § 177.834 (a) to (j).)
 

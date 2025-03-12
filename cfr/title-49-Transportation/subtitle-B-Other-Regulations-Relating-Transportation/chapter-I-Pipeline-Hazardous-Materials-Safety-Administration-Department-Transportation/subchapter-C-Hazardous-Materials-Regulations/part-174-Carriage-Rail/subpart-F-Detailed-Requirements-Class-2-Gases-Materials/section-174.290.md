@@ -1,7 +1,5 @@
 ##### § 174.290 Materials extremely poisonous by inhalation shipped by, for, or to the Department of Defense. #####
 
-Link to an amendment published at 87 FR 79783, Dec. 27, 2022.
-
 (a) General. The provisions of this section apply only to materials extremely poisonous by inhalation which are Division 2.3 materials in Hazard Zone A and Division 6.1 materials in Hazard Zone A, as defined in § 173.133(a)(2) of this subchapter. Such materials when shipped by, for, or to the Department of Defense may be transported by rail only if loaded and handled in accordance with the requirements of this section.
 
 (b) A Division 2.3 Hazard Zone A or a Division 6.1 Hazard Zone A material extremely poisonous by inhalation may be transported in:
@@ -24,8 +22,8 @@ Link to an amendment published at 87 FR 79783, Dec. 27, 2022.
 
 (g) When a material extremely poisonous by inhalation is transported in drums with filling holes in the sides, they must be loaded on their sides with the filling holes up. They must be loaded lengthwise of the car in rows and any space between the sides of the car and the nearest row of drums must be filled in with wooden boards or lumber nailed to sides of the car sufficient in length and width to contact both hoops of the drums.
 
-(h) When a material extremely poisonous by inhalation is transported in drums in a boxcar, they must be loaded from ends of the car toward the space between the car doors, and there braced by center gates and wedges. See Sketch 1, Bureau of Explosives Pamphlet No. 6.
+(h) When a material extremely poisonous by inhalation is transported in drums in a boxcar, they must be loaded from ends of the car toward the space between the car doors, and there braced by center gates and wedges.
 
-(i) The doorways of a boxcar in which a material poisonous by inhalation is being transported must be protected by one of the methods prescribed in Sketch 1, Bureau of Explosives Pamphlet No. 6A.
+(i) The doorways of a boxcar in which a material poisonous by inhalation is being transported must be protected.
 
-[Amdt. 174-68, 55 FR 52683, Dec. 21, 1990; Amdt. 174-74, 58 FR 51533, Oct. 1, 1993; 65 FR 58630, Sept. 29, 2000]
+[Amdt. 174-68, 55 FR 52683, Dec. 21, 1990; Amdt. 174-74, 58 FR 51533, Oct. 1, 1993; 65 FR 58630, Sept. 29, 2000; 87 FR 79783, Dec. 27, 2022]

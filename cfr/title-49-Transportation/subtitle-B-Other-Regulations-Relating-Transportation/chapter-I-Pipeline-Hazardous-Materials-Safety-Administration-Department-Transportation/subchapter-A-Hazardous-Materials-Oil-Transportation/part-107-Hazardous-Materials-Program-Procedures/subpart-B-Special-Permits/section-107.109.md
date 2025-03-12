@@ -1,7 +1,5 @@
 ##### § 107.109 Application for renewal. #####
 
-Link to an amendment published at 87 FR 79764, Dec. 27, 2022.
-
 (a) Each application for renewal of a special permit or party status to a special permit must conform to the following requirements:
 
 (1) The application must:
@@ -16,7 +14,7 @@ Link to an amendment published at 87 FR 79764, Dec. 27, 2022.
 
 (3) The application must state the name, mailing address, physical address(es) of all known new locations not previously identified in the application where the special permit would be used and all locations not previously identified where the special permit was used, e-mail address (if available), and telephone number of the applicant. If the applicant is not an individual, the application must state the name, mailing address, physical address(es) of all known new locations not previously identified in the application where the special permit would be used and all locations not previously identified where the special permit was used, e-mail address (if available), and telephone number of an individual designated as the point of contact for the applicant for all purposes related to the application, the name of the company Chief Executive Officer (CEO), president, or ranking executive officer, and the Dun and Bradstreet Data Universal Numbering System (D-U-N-S) identifier. In addition, each applicant for renewal of party status must state why party status to the special permit is needed and must submit a certification of understanding of the provisions of the special permit to which party status is being requested.
 
-(4) The application must include either a certification by the applicant that the original application, as it may have been updated by any application for renewal, remains accurate (*e.g.,* all section references, shipping descriptions, *etc.*) and complete; or include an amendment to the previously submitted application as is necessary to update and ensure the accuracy and completeness of the application, with certification by the applicant that the application as amended is accurate and complete.
+(4) The application must include either a certification by the applicant that the original application, as it may have been updated by any application for renewal, remains accurate (*e.g.,* all section references, shipping descriptions, email address, etc.) and complete; or include an amendment to the previously submitted application as is necessary to update and ensure the accuracy and completeness of the application, with certification by the applicant that the application as amended is accurate and complete.
 
 (5) The application must include a statement describing all relevant operational, shipping, and incident experience of which the applicant is aware in connection with the special permit since its issuance or most recent renewal. If the applicant is aware of no incidents, the applicant must so certify. When known to the applicant, the statement must indicate the approximate number of shipments made or packages shipped, as applicable, and the number of shipments or packages involved in any loss of contents, including loss by venting other than as authorized in subchapter C.
 
@@ -36,4 +34,4 @@ Link to an amendment published at 87 FR 79764, Dec. 27, 2022.
 
 (b) If, at least 60 days before an existing special permit expires the holder files an application for renewal that is complete and conforms to the requirements of this section, the special permit will not expire until final administrative action on the application for renewal has been taken.
 
-[76 FR 462, Jan. 5, 2011, as amended at 76 FR 44501, July 26, 2011; 76 FR 43524, July 20, 2011; 76 FR 56310, Sept. 13, 2011]
+[76 FR 462, Jan. 5, 2011, as amended at 76 FR 44501, July 26, 2011; 76 FR 43524, July 20, 2011; 76 FR 56310, Sept. 13, 2011; 87 FR 79764, Dec. 27, 2022]

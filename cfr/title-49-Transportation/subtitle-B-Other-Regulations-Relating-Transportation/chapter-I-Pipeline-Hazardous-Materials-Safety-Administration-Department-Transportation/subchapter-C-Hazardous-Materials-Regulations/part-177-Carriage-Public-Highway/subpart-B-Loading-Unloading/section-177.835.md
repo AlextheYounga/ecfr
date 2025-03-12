@@ -1,6 +1,4 @@
-##### § 177.835 Class 1 materials. #####
-
-Link to an amendment published at 87 FR 79784, Dec. 27, 2022.
+##### § 177.835 Class 1 (explosive) materials. #####
 
 (See also § 177.834 (a) to (j).)
 
@@ -36,17 +34,17 @@ Link to an amendment published at 87 FR 79784, Dec. 27, 2022.
 
 (f) *Class 1 (explosive) materials vehicles, floors tight and lined.* Motor vehicles transporting Division 1.1, 1.2, or 1.3 (explosive) materials shall have tight floors; shall have that portion of the interior in contact with the load lined with either non-metallic material or non-ferrous metals, except that the lining is not required for truck load shipments loaded by the Departments of the Army, Navy or Air Force of the United States Government provided the Class 1 (explosive) materials are of such nature that they are not liable to leakage of dust, powder, or vapor which might become the cause of an explosion. The interior of the cargo space must be in good condition so that there will not be any likelihood of containers being damaged by exposed bolts, nuts, broken side panels or floor boards, or any similar projections.
 
-(g) No detonator assembly or booster with detonator may be transported on the same motor vehicle with any Division 1.1, 1.2 or 1.3 material (except other detonator assemblies, boosters with detonators or detonators), detonating cord Division 1.4 material or Division 1.5 material. No detonator may be transported on the same motor vehicle with any Division 1.1, 1.2 or 1.3 material (except other detonators, detonator assemblies or boosters with detonators), detonating cord Division 1.4 material or Division 1.5 material unless -
+(g) No detonator assembly or booster with detonator may be transported on the same motor vehicle with any Division 1.1, 1.2 or 1.3 material (except other detonator assemblies, boosters with detonators or detonators), detonating cord Division 1.4 material or Division 1.5 material. No detonator may be transported on the same motor vehicle with any Division 1.1, 1.2 or 1.3 material (except other detonators, detonator assemblies or boosters with detonators), detonating cord Division 1.4 material or Division 1.5 material unless—
 
 (1) It is packed in a specification MC 201 (§ 178.318 of this subchapter) container; or
 
-(2) The package conforms with requirements prescribed in § 173.62 of this subchapter, and its use is restricted to instances when -
+(2) The package conforms with requirements prescribed in § 173.62 of this subchapter, and its use is restricted to instances when—
 
 (i) There is no Division 1.1, 1.2, 1.3 or 1.5 material loaded on the motor vehicle; and
 
 (ii) A separation of 61 cm (24 inches) is maintained between each package of detonators and each package of detonating cord; or
 
-(3) It is packed and loaded in accordance with a method approved by the Associate Administrator. One approved method requires that -
+(3) It is packed and loaded in accordance with a method approved by the Associate Administrator. One approved method requires that—
 
 (i) The detonators are in packagings as prescribed in § 173.63 of this subchapter which in turn are loaded into suitable containers or separate compartments; and
 

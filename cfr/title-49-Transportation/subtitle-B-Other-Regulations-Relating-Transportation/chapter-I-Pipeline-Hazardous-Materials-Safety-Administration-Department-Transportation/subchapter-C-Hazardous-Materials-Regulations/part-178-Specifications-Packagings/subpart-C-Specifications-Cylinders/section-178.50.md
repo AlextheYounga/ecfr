@@ -1,8 +1,6 @@
 ##### § 178.50 Specification 4B welded or brazed steel cylinders. #####
 
-Link to an amendment published at 87 FR 79784, Dec. 27, 2022.
-
-(a) *Type, size, pressure, and application.* A DOT 4B is a welded or brazed steel cylinder with longitudinal seams that are forged lap-welded or brazed and with water capacity (nominal) not over 1,000 pounds and a service pressure of at least 150 but not over 500 psig. Cylinders closed in by spinning process are not authorized.
+(a) *Type, size, pressure, and application.* A DOT 4B is a welded or brazed steel cylinder with water capacity (nominal) not over 1,000 pounds and a service pressure of at least 150 but not over 500 psig. Longitudinal seams must be forged lap-welded or brazed. Cylinders closed in by spinning process are not authorized.
 
 (b) *Steel.* Open-hearth, electric or basic oxygen process steel of uniform quality must be used. Content percent may not exceed the following: Carbon, 0.25; phosphorus, 0.045; sulphur, 0.050. The cylinder manufacturer must maintain a record of intentionally added alloying elements.
 
@@ -96,7 +94,7 @@ S = [P(1.3D2 + 0.4d2)]/(D2 − d2)Where:S = wall stress in psig;P = minimum test
 
 (k) *Elongation.* Mechanical test specimens must show at least a 40 percent elongation for a 2-inch gauge length or at least 20 percent in other cases. However, elongation percentages may be reduced numerically by 2 percent for 2-inch specimens, and by 1 percent in other cases, for each 7,500 psig increase of tensile strength above 50,000 psig. The tensile strength may be incrementally increased by four increments of 7,500 psig for a maximum total of 30,000 psig.
 
-(l) *Flattening test* - (1) *Cylinders.* After pressure testing, a flattening test must be performed on one cylinder taken at random out of each lot of 200 or fewer by placing the cylinder between wedge-shaped knife edges having a 60 degree included angle, rounded to a half-inch radius. The longitudinal axis of the cylinder must be at a 90-degree angle to knife edges during the test. For lots of 30 or fewer, flattening tests are authorized to be performed on a ring of at least 8 inches long removed from each cylinder and subjected to the same heat treatment as the finished cylinder.
+(l) *Flattening test*—(1) *Cylinders.* After pressure testing, a flattening test must be performed on one cylinder taken at random out of each lot of 200 or fewer by placing the cylinder between wedge-shaped knife edges having a 60 degree included angle, rounded to a half-inch radius. The longitudinal axis of the cylinder must be at a 90-degree angle to knife edges during the test. For lots of 30 or fewer, flattening tests are authorized to be performed on a ring of at least 8 inches long removed from each cylinder and subjected to the same heat treatment as the finished cylinder.
 
 (2) *Pipes.* When cylinders are constructed of lap welded pipe, an additional flattening test is required, without evidence of cracking, up to six (6) times the wall thickness. In such case, the rings (crop ends) removed from each end of the pipe, must be tested with the weld 45 °F or less from the point of greatest stress.
 
@@ -120,4 +118,4 @@ S = [P(1.3D2 + 0.4d2)]/(D2 − d2)Where:S = wall stress in psig;P = minimum test
 
 (2) Embossing the cylinder head or sidewall is not permitted.
 
-[85 FR 85422, Dec. 28, 2020]
+[85 FR 85422, Dec. 28, 2020, as amended at 87 FR 79784, Dec. 27, 2022]

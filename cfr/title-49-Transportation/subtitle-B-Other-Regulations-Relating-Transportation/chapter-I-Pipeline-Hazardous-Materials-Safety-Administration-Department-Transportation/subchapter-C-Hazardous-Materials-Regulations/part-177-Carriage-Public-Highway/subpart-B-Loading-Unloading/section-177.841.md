@@ -1,6 +1,4 @@
-##### § 177.841 Division 6.1 and Division 2.3 materials. #####
-
-Link to an amendment published at 87 FR 79784, Dec. 27, 2022.
+##### § 177.841 Division 6.1 (poisonous) materials and Division 2.3 (poisonous gas) materials. #####
 
 (See also § 177.834 (a) to (j).)
 

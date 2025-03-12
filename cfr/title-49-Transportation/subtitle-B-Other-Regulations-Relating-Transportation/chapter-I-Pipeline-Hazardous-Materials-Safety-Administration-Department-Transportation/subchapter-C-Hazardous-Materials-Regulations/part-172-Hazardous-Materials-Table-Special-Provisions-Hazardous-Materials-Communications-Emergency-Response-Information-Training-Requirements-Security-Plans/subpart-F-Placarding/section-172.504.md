@@ -1,12 +1,10 @@
 ##### § 172.504 General placarding requirements. #####
 
-Link to an amendment published at 87 FR 79773, Dec. 27, 2022.
-
 (a) *General.* Except as otherwise provided in this subchapter, each bulk packaging, freight container, unit load device, transport vehicle or rail car containing any quantity of a hazardous material must be placarded on each side and each end with the type of placards specified in tables 1 and 2 of this section and in accordance with other placarding requirements of this subpart, including the specifications for the placards named in the tables and described in detail in §§ 172.519 through 172.560.
 
 (b) *DANGEROUS placard.* A freight container, unit load device, transport vehicle, or rail car which contains non-bulk packages with two or more categories of hazardous materials that require different placards specified in table 2 of paragraph (e) of this section may be placarded with a DANGEROUS placard instead of the separate placarding specified for each of the materials in table 2 of paragraph (e) of this section. However, when 1,000 kg (2,205 pounds) aggregate gross weight or more of one category of material is loaded therein at one loading facility on a freight container, unit load device, transport vehicle, or rail car, the placard specified in table 2 of paragraph (e) of this section for that category must be applied.
 
-(c) *Exception for less than 454 kg (1,001 pounds).* Except for bulk packagings and hazardous materials subject to § 172.505, when hazardous materials covered by table 2 of this section are transported by highway or rail, placards are not required on -
+(c) *Exception for less than 454 kg (1,001 pounds).* Except for bulk packagings and hazardous materials subject to § 172.505, when hazardous materials covered by table 2 of this section are transported by highway or rail, placards are not required on—
 
 (1) A transport vehicle or freight container which contains less than 454 kg (1001 pounds) aggregate gross weight of hazardous materials covered by table 2 of paragraph (e) of this section; or
 
@@ -18,45 +16,39 @@ The exceptions provided in paragraph (c) of this section do not prohibit the dis
 
 (e) *Placarding tables.* Placards are specified for hazardous materials in accordance with the following tables:
 
-Table 1
+|                                                                                              Category of material (Hazard class or division number and additional description, as appropriate)                                                                                              |      Placard name      |Placard design section reference (§ )|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-------------------------------------|
+|                                                                                                                                             1.1                                                                                                                                             |     EXPLOSIVES 1.1     |               172.522               |
+|                                                                                                                                             1.2                                                                                                                                             |     EXPLOSIVES 1.2     |               172.522               |
+|                                                                                                                                             1.3                                                                                                                                             |     EXPLOSIVES 1.3     |               172.522               |
+|                                                                                                                                             2.3                                                                                                                                             |       POISON GAS       |               172.540               |
+|                                                                                                                                             4.3                                                                                                                                             |   DANGEROUS WHEN WET   |               172.548               |
+|                                                                                                           5.2 (Organic peroxide, Type B, liquid or solid, temperature controlled)                                                                                                           |    ORGANIC PEROXIDE    |               172.552               |
+|                                                                                                           6.1 (material poisonous by inhalation (see § 171.8 of this subchapter))                                                                                                           |POISON INHALATION HAZARD|               172.555               |
+|                                                                                                                            7 (Radioactive Yellow III label only)                                                                                                                            |RADIOACTIVE <sup>1</sup>|               172.556               |
+|<sup>1</sup> RADIOACTIVE placards are also required for: All shipments of unpackaged LSA-I material or SCO-I; all shipments required by §§ 173.427, 173.441, and 173.457 of this subchapter to be operated under exclusive use; and all closed vehicles used in accordance with § 173.443(d).|                        |                                     |
 
-|Category of material (Hazard class or division number and additional description, as appropriate)|      Placard name      |Placard design section reference (§ )|
-|-------------------------------------------------------------------------------------------------|------------------------|-------------------------------------|
-|                                               1.1                                               |     EXPLOSIVES 1.1     |               172.522               |
-|                                               1.2                                               |     EXPLOSIVES 1.2     |               172.522               |
-|                                               1.3                                               |     EXPLOSIVES 1.3     |               172.522               |
-|                                               2.3                                               |       POISON GAS       |               172.540               |
-|                                               4.3                                               |   DANGEROUS WHEN WET   |               172.548               |
-|             5.2 (Organic peroxide, Type B, liquid or solid, temperature controlled)             |    ORGANIC PEROXIDE    |               172.552               |
-|             6.1 (material poisonous by inhalation (see § 171.8 of this subchapter))             |POISON INHALATION HAZARD|               172.555               |
-|                              7 (Radioactive Yellow III label only)                              |RADIOACTIVE<sup>1</sup> |               172.556               |
-
-<sup>1</sup> RADIOACTIVE placards are also required for: All shipments of unpackaged LSA-I material or SCO-I; all shipments required by §§ 173.427, 173.441, and 173.457 of this subchapter to be operated under exclusive use; and all closed vehicles used in accordance with § 173.443(d).
-
-Table 2
-
-|Category of material (Hazard class or division number and additional description, as appropriate)|        Placard name         |Placard design section reference (§ )|
-|-------------------------------------------------------------------------------------------------|-----------------------------|-------------------------------------|
-|                                               1.4                                               |       EXPLOSIVES 1.4        |               172.523               |
-|                                               1.5                                               |       EXPLOSIVES 1.5        |               172.524               |
-|                                               1.6                                               |       EXPLOSIVES 1.6        |               172.525               |
-|                                               2.1                                               |        FLAMMABLE GAS        |               172.532               |
-|                                               2.2                                               |      NON-FLAMMABLE GAS      |               172.528               |
-|                                                3                                                |          FLAMMABLE          |               172.542               |
-|                                       Combustible liquid                                        |         COMBUSTIBLE         |               172.544               |
-|                                               4.1                                               |       FLAMMABLE SOLID       |               172.546               |
-|                                               4.2                                               |  SPONTANEOUSLY COMBUSTIBLE  |               172.547               |
-|                                               5.1                                               |          OXIDIZER           |               172.550               |
-|       5.2 (Other than organic peroxide, Type B, liquid or solid, temperature controlled)        |      ORGANIC PEROXIDE       |               172.552               |
-|                        6.1 (other than material poisonous by inhalation)                        |           POISON            |               172.554               |
-|                                               6.2                                               |           (None)            |                                     |
-|                                                8                                                |          CORROSIVE          |               172.558               |
-|                                                9                                                |Class 9 (see § 172.504(f)(9))|               172.560               |
-|                                              ORM-D                                              |           (None)            |                                     |
+|Category of material  <br/>(hazard class or division number and additional description, as appropriate)|        Placard name         |Placard  <br/>design  <br/>section  <br/>reference  <br/>(§ )|
+|-------------------------------------------------------------------------------------------------------|-----------------------------|-------------------------------------------------------------|
+|                                                  1.4                                                  |       EXPLOSIVES 1.4        |                           172.523                           |
+|                                                  1.5                                                  |       EXPLOSIVES 1.5        |                           172.524                           |
+|                                                  1.6                                                  |       EXPLOSIVES 1.6        |                           172.525                           |
+|                                                  2.1                                                  |        FLAMMABLE GAS        |                           172.532                           |
+|                                                  2.2                                                  |      NON-FLAMMABLE GAS      |                           172.528                           |
+|                                                   3                                                   |          FLAMMABLE          |                           172.542                           |
+|                                          Combustible liquid                                           |         COMBUSTIBLE         |                           172.544                           |
+|                                                  4.1                                                  |       FLAMMABLE SOLID       |                           172.546                           |
+|                                                  4.2                                                  |  SPONTANEOUSLY COMBUSTIBLE  |                           172.547                           |
+|                                                  5.1                                                  |          OXIDIZER           |                           172.550                           |
+|          5.2 (Other than organic peroxide, Type B, liquid or solid, temperature controlled)           |      ORGANIC PEROXIDE       |                           172.552                           |
+|                           6.1 (other than material poisonous by inhalation)                           |           POISON            |                           172.554                           |
+|                                                  6.2                                                  |            NONE             |                                                             |
+|                                                   8                                                   |          CORROSIVE          |                           172.558                           |
+|                                                   9                                                   |CLASS 9 (see § 172.504(f)(9))|                           172.560                           |
 
 (f) *Additional placarding exceptions.* (1) When more than one division placard is required for Class 1 materials on a transport vehicle, rail car, freight container or unit load device, only the placard representing the lowest division number must be displayed.
 
-(2) A FLAMMABLE placard may be used in place of a COMBUSTIBLE placard on -
+(2) A FLAMMABLE placard may be used in place of a COMBUSTIBLE placard on—
 
 (i) A cargo tank or portable tank.
 

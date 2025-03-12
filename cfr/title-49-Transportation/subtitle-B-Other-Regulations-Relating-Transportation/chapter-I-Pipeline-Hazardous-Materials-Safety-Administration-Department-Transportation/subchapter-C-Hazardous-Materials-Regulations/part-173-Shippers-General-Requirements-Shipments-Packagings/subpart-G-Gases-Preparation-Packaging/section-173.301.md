@@ -1,7 +1,5 @@
 ##### § 173.301 General requirements for shipment of compressed gases and other hazardous materials in cylinders, UN pressure receptacles and spherical pressure vessels. #####
 
-Link to an amendment published at 87 FR 79779, Dec. 27, 2022.
-
 (a) *General qualifications for use of cylinders.* Unless otherwise stated, as used in this section, the term “cylinder” includes a UN pressure receptacle. As used in this subpart, filled or charged means an introduction or presence of a hazardous material in a cylinder. A cylinder filled with a Class 2 hazardous material (gas) and offered for transportation must meet the requirements in this section and §§ 173.301a through 173.305, as applicable.
 
 (1) Compressed gases must be in UN pressure receptacles built in accordance with the UN standards or in metal cylinders and containers built in accordance with the DOT and ICC specifications and part 178 of this subchapter in effect at the time of manufacture or CRC, BTC, CTC or TC specification, and requalified and marked as prescribed in subpart C in part 180 of this subchapter, if applicable. The DOT, ICC, CRC, BTC, CTC and TC specifications authorized for use are as follows:
@@ -73,15 +71,15 @@ Packagings<sup>1</sup>
 
 (iv) A pressure relief device for oxidizing gases transported by air in a DOT 39 cylinder must meet the requirements of § 173.302(f)(2)(iii) of this subpart for permanent gases and § 173.304(f)(2)(iii) for liquefied compressed gases.
 
-(5) A pressure relief device is not required on -
+(5) A pressure relief device is not required on—
 
 (i) A cylinder 305 mm (12 inches) or less in length, exclusive of neck, and 114 mm (4.5 inches) or less in outside diameter, except when the cylinder is filled with a liquefied gas for which this part requires a service pressure of 1800 psig or higher or a nonliquefied gas to a pressure of 1800 psig or higher at 21 °C (70 °F);
 
-(ii) A cylinder with a water capacity of less than 454 kg (1000 lbs) filled with a nonliquefied gas to a pressure of 300 psig or less at 21 °C (70 °F), except for a DOT 39 cylinder or a cylinder used for acetylene in solution; or
+(ii) A cylinder with a water capacity of less than 454 kg (1000 lbs.) filled with a nonliquefied gas to a pressure of 300 psig or less at 21 °C (70 °F), except for a DOT 39 cylinder or a cylinder used for acetylene in solution;
 
-(iii) A cylinder containing a Class 3 or a Class 8 material without pressurization, unless otherwise specified for the hazardous material.
+(iii) A cylinder containing a Class 3 or a Class 8 material without pressurization, unless otherwise specified for the hazardous material; or
 
-(iv) A UN pressure receptacle transported in accordance with paragraph (k) or (l) or this section.
+(iv) A UN pressure receptacle transported in accordance with paragraph (k) or (l) of this section.
 
 (6) A pressure relief device is prohibited on a cylinder filled with a Division 2.3 or 6.1 material in Hazard Zone A.
 

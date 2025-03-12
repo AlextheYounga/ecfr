@@ -1,7 +1,5 @@
 ##### § 171.8 Definitions and abbreviations. #####
 
-Link to an amendment published at 87 FR 79765, Dec. 27, 2022.
-
 In this subchapter,
 
 *Administrator* means the Administrator, Pipeline and Hazardous Materials Safety Administration.
@@ -10,7 +8,7 @@ In this subchapter,
 
 *Aerosol* means an article consisting of any non-refillable receptacle containing a gas compressed, liquefied or dissolved under pressure, the sole purpose of which is to expel a nonpoisonous (other than a Division 6.1 Packing Group III material) liquid, paste, or powder and fitted with a self-closing release device allowing the contents to be ejected by the gas.
 
-*Agricultural product* means a hazardous material, other than a hazardous waste, whose end use directly supports the production of an agricultural commodity including, but not limited to a fertilizer, pesticide, soil amendment or fuel. An *agricultural product* is limited to a material in Class 3, 8 or 9, Division 2.1, 2.2, 5.1, or 6.1, or an ORM-D material.
+*Agricultural product* means a hazardous material, other than a hazardous waste, whose end use directly supports the production of an agricultural commodity including, but not limited to a fertilizer, pesticide, soil amendment or fuel. An *agricultural product* is limited to a material in Class 3, 8 or 9, Division 2.1, 2.2, 5.1, or 6.1.
 
 *Aircraft battery* means a battery designed in accordance with a recognized aircraft battery design standard (e.g. FAA technical standard order) that is capable of meeting all aircraft airworthiness requirements and operating regulations.
 
@@ -250,13 +248,13 @@ In this subchapter,
 
 *Hazardous material* means a substance or material that the Secretary of Transportation has determined is capable of posing an unreasonable risk to health, safety, and property when transported in commerce, and has designated as hazardous under section 5103 of Federal hazardous materials transportation law (49 U.S.C. 5103). The term includes hazardous substances, hazardous wastes, marine pollutants, elevated temperature materials, materials designated as hazardous in the Hazardous Materials Table (see 49 CFR 172.101), and materials that meet the defining criteria for hazard classes and divisions in part 173 of this subchapter.
 
-*Hazardous substance* for the purposes of this subchapter, means a material, including its mixtures and solutions, that -
+*Hazardous substance* for the purposes of this subchapter, means a material, including its mixtures and solutions, that—
 
 (1) Is listed in the appendix A to § 172.101 of this subchapter;
 
 (2) Is in a quantity, in one package, which equals or exceeds the reportable quantity (RQ) listed in the appendix A to § 172.101 of this subchapter; and
 
-(3) When in a mixture or solution -
+(3) When in a mixture or solution—
 
 (i) For radionuclides, conforms to paragraph 7 of the appendix A to § 172.101.
 
@@ -359,7 +357,7 @@ The term does not include petroleum, including crude oil or any fraction thereof
 
 *Intermodal portable tank* or *IM portable tank* means a specific class of portable tanks designed primarily for international intermodal use.
 
-*International transportation* means transportation -
+*International transportation* means transportation—
 
 (1) Between any place in the United States and any place in a foreign country;
 
@@ -371,7 +369,7 @@ The term does not include petroleum, including crude oil or any fraction thereof
 
 *Jerrican* means a metal or plastic packaging of rectangular or polygonal cross-section.
 
-*Large packaging* means a packaging that -
+*Large packaging* means a packaging that—
 
 (1) Consists of an outer packaging that contains articles or inner packagings;
 
@@ -383,7 +381,7 @@ The term does not include petroleum, including crude oil or any fraction thereof
 
 (5) Conforms to the requirements for the construction, testing and marking of Large Packagings as specified in subparts P and Q of part 178 of this subchapter.
 
-*Large salvage packaging* means a special packaging into which damaged, defective, leaking or non-conforming hazardous materials packages, or hazardous materials that have spilled or leaked are placed for the purpose of transport for recovery or disposal, that -
+*Large salvage packaging* means a special packaging into which damaged, defective, leaking or non-conforming hazardous materials packages, or hazardous materials that have spilled or leaked are placed for the purpose of transport for recovery or disposal, that—
 
 (1) Is designed for mechanical handling; and
 
@@ -417,7 +415,7 @@ The term does not include petroleum, including crude oil or any fraction thereof
 
 *Marking* means a descriptive name, identification number, instructions, cautions, weight, specification, or UN marks, or combinations thereof, required by this subchapter on outer packagings of hazardous materials.
 
-*Material of trade* means a hazardous material, other than a hazardous waste, that is carried on a motor vehicle -
+*Material of trade* means a hazardous material, other than a hazardous waste, that is carried on a motor vehicle—
 
 (1) For the purpose of protecting the health and safety of the motor vehicle operator or passengers;
 
@@ -509,8 +507,6 @@ The term does not include petroleum, including crude oil or any fraction thereof
 
 *Oxidizer.* See § 173.127 of this subchapter.
 
-*Oxidizing gas* means a gas which may, generally by providing oxygen, cause or contribute to the combustion of other material more than air does.
-
 *Oxidizing gas* means a gas that may, generally by providing oxygen, cause or contribute to the combustion of other material more than air does. Specifically, this means a pure gas or gas mixture with an oxidizing power greater than 23.5% as determined by a method specified in ISO 10156: or 10156-2: (IBR, *see* § 171.7 of this subchapter) (*see also* § 173.115(k)).
 
 *Oxygen generator (chemical)* means a device containing chemicals that upon activation release oxygen as a product of chemical reaction.
@@ -533,7 +529,7 @@ The term does not include petroleum, including crude oil or any fraction thereof
 
 *Passenger-carrying aircraft* means an aircraft that carries any person other than a crewmember, company employee, an authorized representative of the United States, or a person accompanying the shipment.
 
-*Passenger vessel* means -
+*Passenger vessel* means—
 
 (1) A vessel subject to any of the requirements of the International Convention for the Safety of Life at Sea, 1974, which carries more than 12 passengers;
 
@@ -567,7 +563,7 @@ The term does not include petroleum, including crude oil or any fraction thereof
 
 *Preferred route* or *Preferred highway* is a highway for shipment of *highway route controlled quantities* of radioactive materials so designated by a State routing agency, and any Interstate System highway for which an alternative highway has not been designated by such State agency as provided by § 397.103 of this title.
 
-*Pre-transportation function* means a function specified in the HMR that is required to assure the safe transportation of a hazardous material in commerce, including -
+*Pre-transportation function* means a function specified in the HMR that is required to assure the safe transportation of a hazardous material in commerce, including—
 
 (1) Determining the hazard class of a hazardous material.
 
@@ -701,7 +697,7 @@ The term does not include petroleum, including crude oil or any fraction thereof
 
 *Storage incidental to movement* means storage of a transport vehicle, freight container, or package containing a hazardous material by any person between the time that a carrier takes physical possession of the hazardous material for the purpose of transporting it in commerce until the package containing the hazardous material is physically delivered to the destination indicated on a shipping document, package marking, or other medium, or, in the case of a private motor carrier, between the time that a motor vehicle driver takes physical possession of the hazardous material for the purpose of transporting it in commerce until the driver relinquishes possession of the package at its destination and is no longer responsible for performing functions subject to the HMR with respect to that particular package.
 
-(1) *Storage incidental to movement* includes -
+(1) *Storage incidental to movement* includes—
 
 (i) Storage at the destination shown on a shipping document, including storage at a transloading facility, provided the shipping documentation identifies the shipment as a through-shipment and identifies the final destination or destinations of the hazardous material; and
 

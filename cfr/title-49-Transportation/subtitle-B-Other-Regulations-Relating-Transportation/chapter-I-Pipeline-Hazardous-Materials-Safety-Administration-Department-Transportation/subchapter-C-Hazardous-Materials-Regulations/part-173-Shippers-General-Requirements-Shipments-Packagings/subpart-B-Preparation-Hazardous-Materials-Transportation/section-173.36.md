@@ -1,10 +1,8 @@
 ##### § 173.36 Hazardous materials in Large Packagings. #####
 
-Link to an amendment published at 87 FR 79776, Dec. 27, 2022.
-
 (a) No person may offer or accept a hazardous material for transportation in a Large Packaging except as authorized by this subchapter. Except as otherwise provided in this subchapter, no Large Packaging may be filled with a Packing Group I or II material. Each Large Packaging used for the transportation of hazardous materials must conform to the requirements of its specification and regulations for the transportation of the particular commodity.
 
-(b) *Packaging design* - (1) *Inner packaging closures.* A Large Packaging containing liquid hazardous materials must be packed so that closures on inner packagings are upright.
+(b) *Packaging design*—(1) *Inner packaging closures.* A Large Packaging containing liquid hazardous materials must be packed so that closures on inner packagings are upright.
 
 (2) *Flexible Large Packagings.* Flexible Large Packagings (*e.g.,* 51H) are only authorized for use with flexible inner packagings.
 
@@ -20,7 +18,7 @@ Link to an amendment published at 87 FR 79776, Dec. 27, 2022.
 
 (2) The Large Packaging is marked in accordance with requirements in § 178.910 of this subchapter. Additional marking allowed for each design type may be present. Required markings that are missing, damaged or difficult to read must be restored or returned to original condition.
 
-(d) During transportation -
+(d) During transportation—
 
 (1) No hazardous material may remain on the outside of the Large Packaging; and
 
@@ -32,13 +30,13 @@ Link to an amendment published at 87 FR 79776, Dec. 27, 2022.
 
 (g) A Large Packaging used to transport hazardous materials may not exceed 3 cubic meters (106 cubic feet) capacity.
 
-(h) *Mixed contents.* (1) An outer Large Packaging may contain more than one hazardous material only when -
+(h) *Mixed contents.* (1) An outer Large Packaging may contain more than one hazardous material only when—
 
 (i) The inner and outer packagings used for each hazardous material conform to the relevant packaging sections of this part applicable to that hazardous material, and not result in a violation of § 173.21;
 
 (ii) The package as prepared for shipment meets the performance tests prescribed in part 178 of this subchapter for the hazardous materials contained in the package;
 
-(iii) Corrosive materials (except ORM-D) in bottles are further packed in securely closed inner receptacles before packing in outer packagings; and
+(iii) Corrosive materials in bottles are further packed in securely closed inner receptacles before packing in outer packagings; and
 
 (iv) For transportation by aircraft, the total net quantity does not exceed the lowest permitted maximum net quantity per package as shown in Column 9a or 9b, as appropriate, of the § 172.101 table. The permitted maximum net quantity must be calculated in kilograms if a package contains both a liquid and a solid.
 
@@ -46,4 +44,4 @@ Link to an amendment published at 87 FR 79776, Dec. 27, 2022.
 
 (i) When a Large Packaging is used for the transportation of liquids with a flash point of 60.5 °C (141 °F) (closed cup) or lower, or powders with the potential for dust explosion, measures must be taken during product loading and unloading to prevent a dangerous electrostatic discharge.
 
-[75 FR 5393, Feb. 2, 2010]
+[75 FR 5393, Feb. 2, 2010, as amended at 87 FR 79776, Dec. 27, 2022]

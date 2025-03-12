@@ -1,7 +1,5 @@
 ##### § 172.204 Shipper's certification. #####
 
-Link to an amendment published at 87 FR 79772, Dec. 27, 2022.
-
 (a) *General.* Except as provided in paragraphs (b) and (c) of this section, each person who offers a hazardous material for transportation shall certify that the material is offered for transportation in accordance with this subchapter by printing (manually or mechanically) on the shipping paper containing the required shipping description the certification contained in paragraph (a)(1) of this section or the certification (declaration) containing the language contained in paragraph (a)(2) of this section. For transportation by rail only, the certification may be received verbally or with an electronic signature in conformance with paragraphs (a)(3)(i) and (a)(3)(ii) of this section.
 
 (1) “This is to certify that the above-named materials are properly classified, described, packaged, marked and labeled, and are in proper condition for transportation according to the applicable regulations of the Department of Transportation.”
@@ -20,7 +18,7 @@ In the certification the word “above” may be substituted for the word “bel
 
 (i) *Verbal Certification.* When received telephonically, by the carrier reading the complete shipping description that will accompany the shipment back to the offeror and receiving verbal acknowledgment that the description is as required. This verbal acknowledgement must be recorded, either on the shipping document or in a separate record, e.g., the waybill, in accordance with § 174.24, and must include the date and name of the person who provided this information; or
 
-(ii) *Electronic Signature Certification.* When transmitted electronically, by completing the field designated for the shipper's signature, the shipper is also certifying its compliance with the certification specified in § 172.204(a).” The name of the principal partner, officer, or employee of the offeror or their agent must be substituted for the asterisks;
+(ii) *Electronic certification.* When transmitted electronically, by completing the field designated for the shipper's signature with the name of the principal person, partner, officer, or employee of the offeror or their agent, the shipper is also certifying its compliance with the certification specified in this paragraph (a).
 
 (b) *Exceptions.* (1) Except for a hazardous waste, no certification is required for a hazardous material offered for transportation by motor vehicle and transported:
 
@@ -30,7 +28,7 @@ In the certification the word “above” may be substituted for the word “bel
 
 (2) No certification is required for the return of an empty tank car which previously contained a hazardous material and which has not been cleaned or purged.
 
-(c) *Transportation by air* - (1) *General.* Certification containing the following language may be used in place of the certification required by paragraph (a) of this section:
+(c) *Transportation by air*—(1) *General.* Certification containing the following language may be used in place of the certification required by paragraph (a) of this section:
 
 I hereby certify that the contents of this consignment are fully and accurately described above by proper shipping name and are classified, packaged, marked and labeled, and in proper condition for carriage by air according to applicable national governmental regulations.
 

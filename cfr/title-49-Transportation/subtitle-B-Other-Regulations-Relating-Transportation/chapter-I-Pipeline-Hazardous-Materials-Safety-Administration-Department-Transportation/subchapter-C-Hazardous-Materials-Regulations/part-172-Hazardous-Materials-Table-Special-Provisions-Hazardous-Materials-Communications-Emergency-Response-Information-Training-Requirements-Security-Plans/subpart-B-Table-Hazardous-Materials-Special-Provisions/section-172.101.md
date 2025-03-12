@@ -1,7 +1,5 @@
 ##### § 172.101 Purpose and use of hazardous materials table. #####
 
-Link to an amendment published at 87 FR 79766, Dec. 27, 2022.Link to an amendment published at 88 FR 4759, Jan. 25, 2023.
-
 (a) The Hazardous Materials Table (Table) in this section designates the materials listed therein as hazardous materials for the purpose of transportation of those materials. For each listed material, the Table identifies the hazard class or specifies that the material is forbidden in transportation, and gives the proper shipping name or directs the user to the preferred proper shipping name. In addition, the Table specifies or references requirements in this subchapter pertaining to labeling, packaging, quantity limits aboard aircraft and stowage of hazardous materials aboard vessels.
 
 (b) *Column 1: Symbols.* Column 1 of the Table contains six symbols (“ + ”, “A”, “D”, “G”, “I” and “W”) as follows:
@@ -38,7 +36,7 @@ Link to an amendment published at 87 FR 79766, Dec. 27, 2022.Link to an amendmen
 
 (9) *Hazardous wastes.* If the word “waste” is not included in the hazardous material description in Column 2 of the Table, the proper shipping name for a hazardous waste (as defined in § 171.8 of this subchapter), shall include the word “Waste” preceding the proper shipping name of the material. For example: Waste acetone.
 
-(10) *Mixtures and solutions.* (i) A mixture or solution meeting the definition of one or more hazard class that is not identified specifically by name, comprised of a single predominant hazardous material identified in the Table by technical name and one or more hazardous and/or non-hazardous material, must be described using the proper shipping name of the hazardous material and the qualifying word “mixture” or “solution”, as appropriate, unless -
+(10) *Mixtures and solutions.* (i) A mixture or solution meeting the definition of one or more hazard class that is not identified specifically by name, comprised of a single predominant hazardous material identified in the Table by technical name and one or more hazardous and/or non-hazardous material, must be described using the proper shipping name of the hazardous material and the qualifying word “mixture” or “solution”, as appropriate, unless—
 
 (A) Except as provided in § 172.101(i)(4) the packaging specified in Column 8 is inappropriate to the physical state of the material;
 
@@ -76,7 +74,7 @@ Note to paragraph (c)(11):
 
 For the transportation of samples of self-reactive materials, organic peroxides, explosives or lighters, *see* § 173.224(c)(3), § 173.225(c)(2), § 173.56(d) or § 173.308(b)(2) of this subchapter, respectively.
 
-(12) Except when the proper shipping name in the Table is preceded by a plus (+) -
+(12) Except when the proper shipping name in the Table is preceded by a plus (+)—
 
 (i) If it is specifically determined that a material meets the definition of a hazard class, packing group or hazard zone, other than the class, packing group or hazard zone shown in association with the proper shipping name, or does not meet the defining criteria for a subsidiary hazard shown in Column 6 of the Table, the material shall be described by an appropriate proper shipping name listed in association with the correct hazard class, packing group, hazard zone, or subsidiary hazard for the material.
 
@@ -108,7 +106,7 @@ For the transportation of samples of self-reactive materials, organic peroxides,
 
 (e) *Column 4: Identification number.* Column 4 lists the identification number assigned to each proper shipping name. Those preceded by the letters “UN” are associated with proper shipping names considered appropriate for international transportation as well as domestic transportation. Those preceded by the letters “NA” are associated with proper shipping names not recognized for transportation outside of the United States. Identification numbers in the “NA9000” series are associated with proper shipping names not appropriately covered by international hazardous materials (dangerous goods) transportation standards, or not appropriately addressed by international transportation standards for emergency response information purposes, except for transportation in the United States. Those preceded by the letters “ID” are associated with proper shipping names recognized by the ICAO Technical Instructions (see § 171.7 of this subchapter for availability).
 
-(f) *Column 5: Packing group.* Column 5 specifies one or more packing groups assigned to a material corresponding to the proper shipping name and hazard class for that material. Class 2, Class 7, Division 6.2 (other than regulated medical wastes), and ORM-D materials, do not have packing groups. Articles in other than Class 1 are not assigned to packing groups. For packing purposes, any requirement for a specific packaging performance level is set out in the applicable packing authorizations of part 173. Packing Groups I, II and III indicate the degree of danger presented by the material is great, medium or minor, respectively. If more than one packing group is indicated for an entry, the packing group for the hazardous material is determined using the criteria for assignment of packing groups specified in subpart D of part 173. When a reevaluation of test data or new data indicates a need to modify the specified packing group(s), the data should be submitted to the Associate Administrator. Each reference in this column to a material which is a hazardous waste or a hazardous substance, and whose proper shipping name is preceded in Column 1 of the Table by the letter “A” or “W”, is modified to read “III” on those occasions when the material is offered for transportation or transported by a mode in which its transportation is not otherwise subject to requirements of this subchapter.
+(f) *Column 5: Packing group.* Column 5 specifies one or more packing groups assigned to a material corresponding to the proper shipping name and hazard class for that material. Class 2, Class 7, and Division 6.2 do not have packing groups. Articles in classes other than Class 1 are not assigned to packing groups. For packing purposes, any requirement for a specific packaging performance level is set out in the applicable packing authorizations of part 173. Packing Groups I, II, and III indicate the degree of danger presented by the material is great, medium, or minor, respectively. If more than one packing group is indicated for an entry, the packing group for the hazardous material is determined using the criteria for assignment of packing groups specified in subpart D of part 173. When a reevaluation of test data or new data indicates a need to modify the specified packing group(s), the data should be submitted to the Associate Administrator. Each reference in this column to a material that is a hazardous waste or a hazardous substance, and whose proper shipping name preceded in Column 1 of the Table by the letter “A” or “W,” is modified to read “III” on those occasions when the material is offered for transportation or transported by a mode in which its transportation is not otherwise subject to requirements of this subchapter.
 
 (g) *Column 6: Labels.* Column 6 specifies codes which represent the hazard warning labels required for a package filled with a material conforming to the associated hazard class and proper shipping name, unless the package is otherwise excepted from labeling by a provision in subpart E of this part, or part 173 of this subchapter. The first code is indicative of the primary hazard of the material. Additional label codes are indicative of subsidiary hazards. Provisions in § 172.402 may require that a label other than that specified in Column 6 be affixed to the package in addition to that specified in Column 6. No label is required for a material classed as a combustible liquid or for a Class 3 material that is reclassed as a combustible liquid. For “Empty” label requirements, see § 173.428 of this subchapter. The codes contained in Column 6 are defined according to the following table:
 
@@ -153,6 +151,12 @@ Label Substitution Table
 
 (3) *Bulk packaging.* Column (8C) specifies the section in part 173 of this subchapter that prescribes packaging requirements for bulk packagings, subject to the limitations, requirements, and additional authorizations of Columns (7) and (8B). A “None” in Column (8C) means bulk packagings are not authorized, except as may be provided by special provisions in Column (7) and in packaging authorizations Column (8B). Additional authorizations and limitations for use of UN portable tanks are set forth in Column 7. For each reference in this column to a material that is a hazardous waste or a hazardous substance, and whose proper shipping name is preceded in Column 1 of the Table by the letter “A” or “W” and that is offered for transportation or transported by a mode in which its transportation is not otherwise subject to the requirements of this subchapter:
 
+(i) The column reference is § 173.240 or § 173.241, as appropriate.
+
+(ii) For a solid material, the exception provided in special provision B54 is applicable.
+
+(iii) For a Class 9 material, which meets the definition of an elevated temperature material, the column reference is § 173.247.
+
 (4) For a hazardous material which is specifically named in the Table and whose packaging sections specify packagings not applicable to the form of the material (e.g., packaging specified is for solid material and the material is being offered for transportation in a liquid form) the following table should be used to determine the appropriate packaging section:
 
 |Packaging section reference for solid materials|Corresponding packaging section for liquid materials|
@@ -182,7 +186,7 @@ Label Substitution Table
 
 (1) Stowage category “A” means the material may be stowed “on deck” or “under deck” on a cargo vessel or on a passenger vessel.
 
-(2) Stowage category “B” means -
+(2) Stowage category “B” means—
 
 (i) The material may be stowed “on deck” or “under deck” on a cargo vessel and on a passenger vessel carrying a number of passengers limited to not more than the larger of 25 passengers, or one passenger per each 3 m of overall vessel length; and
 
@@ -204,7 +208,7 @@ Label Substitution Table
 
 (10) Stowage category “05” means the material may be stowed “on deck” in closed cargo transport units on a cargo vessel (up to 12 passengers) but the material is prohibited on a passenger vessel.
 
-(l) *Changes to the Table.* (1) Unless specifically stated otherwise in a rule document published in the Federal Register amending the Table -
+(l) *Changes to the Table.* (1) Unless specifically stated otherwise in a rule document published in the Federal Register amending the Table—
 
 (i) Such a change does not apply to the shipment of any package filled prior to the effective date of the amendment; and
 
@@ -391,8 +395,8 @@ Label Substitution Table
 |              G               |                                                                                                  Amine, flammable, corrosive, n.o.s. or Polyamines, flammable, corrosive, n.o.s                                                                                                   |           3            |        UN2733         |         I         |    3, 8    |                                 T14, TP1, TP27                                 |    None     |     201     |              243              |     0.5 L     |     2.5 L     |  D  |               40, 52                |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |    3, 8    |                              IB2, T11, TP1, TP27                               |     150     |     202     |              243              |      1 L      |      5 L      |  B  |               40, 52                |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |    3, 8    |                             B1, IB3, T7, TP1, TP28                             |     150     |     203     |              242              |      5 L      |     60 L      |  A  |               40, 52                |
-|              G               |                                                                                          Amine, liquid, corrosive, flammable, n.o.s. or Polyamines, liquid, corrosive, flammable, n.o.s                                                                                           |           8            |        UN2734         |         I         |    8, 3    |                          A3, A6, N34, T14, TP2, TP27                           |    None     |     201     |              243              |     0.5L      |     2.5L      |  A  |                 52                  |
-|                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |    8, 3    |                              IB2, T11, TP2, TP27                               |     154     |     201     |              243              |      1L       |      30L      |  A  |                 52                  |
+|              G               |                                                                                          Amine, liquid, corrosive, flammable, n.o.s. or Polyamines, liquid, corrosive, flammable, n.o.s.                                                                                          |           8            |        UN2734         |         I         |    8, 3    |                            A3, N34, T14, TP2, TP27                             |    None     |     201     |              243              |     0.5 L     |     2.5 L     |  A  |                 52                  |
+|                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |    8, 3    |                              IB2, T11, TP2, TP27                               |     154     |     202     |              243              |      1 L      |     30 L      |  A  |                 52                  |
 |              G               |                                                                                                     Amines, liquid, corrosive, n.o.s. or Polyamines, liquid, corrosive, n.o.s                                                                                                     |           8            |        UN2735         |         I         |     8      |                            B10, N34, T14, TP2, TP27                            |    None     |     201     |              243              |     0.5 L     |     2.5 L     |  A  |                 52                  |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |     8      |                            B2, IB2, T11, TP1, TP27                             |     154     |     202     |              242              |      1 L      |     30 L      |  A  |                 52                  |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |     8      |                               IB3, T7, TP1, TP28                               |     154     |     203     |              241              |      5 L      |     60 L      |  A  |                 52                  |
@@ -490,7 +494,7 @@ Label Substitution Table
 |                              |                                                                                                                                  Amyl butyrates                                                                                                                                   |           3            |        UN2620         |        III        |     3      |                                B1, IB3, T2, TP1                                |     150     |     203     |              242              |     60 L      |     220 L     |  A  |                                     |
 |                              |                                                                                                                                   Amyl chloride                                                                                                                                   |           3            |        UN1107         |        II         |     3      |                                  IB2, T4, TP1                                  |     150     |     202     |              242              |      5 L      |     60 L      |  B  |                                     |
 |                              |                                                                                                                                   Amyl formates                                                                                                                                   |           3            |        UN1109         |        III        |     3      |                                B1, IB3, T2, TP1                                |     150     |     203     |              242              |     60 L      |     220 L     |  A  |                                     |
-|                              |                                                                                                                                  Amyl mercaptan                                                                                                                                   |           3            |        UN1111         |        II         |     3      |                              A3, A6, IB2, T4, TP1                              |     150     |     202     |              242              |      5 L      |     60 L      |  B  |               95, 102               |
+|                              |                                                                                                                                  Amyl mercaptan                                                                                                                                   |           3            |        UN1111         |        II         |     3      |                                A3, IB2, T4, TP1                                |     150     |     202     |              242              |      5 L      |     60 L      |  B  |               95, 102               |
 |                              |                                                                                                                               n-Amyl methyl ketone                                                                                                                                |           3            |        UN1110         |        III        |     3      |                                B1, IB3, T2, TP1                                |     150     |     203     |              242              |     60 L      |     220 L     |  A  |                                     |
 |                              |                                                                                                                                   Amyl nitrate                                                                                                                                    |           3            |        UN1112         |        III        |     3      |                                B1, IB3, T2, TP1                                |     150     |     203     |              242              |     60 L      |     220 L     |  A  |                 40                  |
 |                              |                                                                                                                                   Amyl nitrite                                                                                                                                    |           3            |        UN1113         |        II         |     3      |                                  IB2, T4, TP1                                  |     150     |     202     |              242              |      5 L      |     60 L      |  E  |                 40                  |
@@ -513,7 +517,7 @@ Label Substitution Table
 |                              |                                                                                                                          Antimony pentachloride, liquid                                                                                                                           |           8            |        UN1730         |        II         |     8      |                                B2, IB2, T7, TP2                                |     154     |     202     |              242              |      1 L      |     30 L      |  C  |             40, 53, 58              |
 |                              |                                                                                                                         Antimony pentachloride, solutions                                                                                                                         |           8            |        UN1731         |        II         |     8      |                                B2, IB2, T7, TP2                                |     154     |     202     |              242              |      1 L      |     30 L      |  C  |             40, 53, 58              |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |     8      |                                  IB3, T4, TP1                                  |     154     |     203     |              241              |      5 L      |     60 L      |  C  |             40, 53, 58              |
-|                              |                                                                                                                              Antimony pentafluoride                                                                                                                               |           8            |        UN1732         |        II         |   8, 6.1   |                     A3, A6, A7, A10, IB2, N3, N36, T7, TP2                     |     154     |     202     |              243              |   Forbidden   |     30 L      |  D  |    40, 44, 53, 58, 89, 100, 141     |
+|                              |                                                                                                                              Antimony pentafluoride                                                                                                                               |           8            |        UN1732         |        II         |   8, 6.1   |                       A3, A7, A10, IB2, N3, N36, T7, TP2                       |     154     |     202     |              243              |   Forbidden   |     30 L      |  D  |    40, 44, 53, 58, 89, 100, 141     |
 |                              |                                                                                                                            Antimony potassium tartrate                                                                                                                            |          6.1           |        UN1551         |        III        |    6.1     |                               IB8, IP3, T1, TP33                               |     153     |     213     |              240              |    100 kg     |    200 kg     |  A  |                                     |
 |                              |                                                                                                                                  Antimony powder                                                                                                                                  |          6.1           |        UN2871         |        III        |    6.1     |                               IB8, IP3, T1, TP33                               |     153     |     213     |              240              |    100 kg     |    200 kg     |  A  |                                     |
 |                              |                                                                                                                   Antimony sulfide and a chlorate, mixtures of                                                                                                                    |       Forbidden        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
@@ -929,13 +933,11 @@ Label Substitution Table
 |                              |                                                                                                                             Cartridges, power device                                                                                                                              |          1.4C          |        UN0276         |                   |    1.4C    |                                      110                                       |    None     |     62      |              62               |   Forbidden   |     75 kg     | 02  |                 25                  |
 |                              |                                                                                                                             Cartridges, power device                                                                                                                              |          1.4S          |        UN0323         |                   |    1.4S    |                                    110, 347                                    |     63      |     62      |              62               |     25 kg     |    100 kg     | 01  |                 25                  |
 |                              |                                                                                                                             Cartridges, power device                                                                                                                              |          1.2C          |        UN0381         |                   |    1.2C    |                                                                                |    None     |     62      |              62               |   Forbidden   |   Forbidden   | 03  |                 25                  |
-|              D               |                                                                                                            Cartridges power device (used to project fastening devices)                                                                                                            |         ORM-D          |                       |                   |    None    |                                      222                                       |     63      |    None     |             None              |  30 kg gross  |   Forbidden   |  A  |                                     |
 |                              |                                                                                                      Cartridges, safety, blank, see Cartridges for weapons, blank (UN 0014)                                                                                                       |                        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
 |                              |                                                                         Cartridges, safety, see Cartriges for weapons, inert projectile, or Cartridges, small arms or Cartridges, power device (UN 0323)                                                                          |                        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
 |                              |                                                                                                                                Cartridges, signal                                                                                                                                 |          1.3G          |        UN0054         |                   |    1.3G    |                                                                                |    None     |     62      |             None              |   Forbidden   |     75 kg     | 03  |                 25                  |
 |                              |                                                                                                                                Cartridges, signal                                                                                                                                 |          1.4G          |        UN0312         |                   |    1.4G    |                                                                                |    None     |     62      |             None              |   Forbidden   |     75 kg     | 02  |                 25                  |
 |                              |                                                                                                                                Cartridges, signal                                                                                                                                 |          1.4S          |        UN0405         |                   |    1.4S    |                                                                                |    None     |     62      |             None              |     25 kg     |    100 kg     | 01  |                 25                  |
-|               D              |                                                                                                                              Cartridges, small arms                                                                                                                               |         ORM-D          |                       |                   |    None    |                                      222                                       |     63      |    None     |             None              |  30 kg gross  |   Forbidden   |  A  |                                     |
 |                              |                                                                                                           Cartridges, starter, jet engine, see Cartridges, power device                                                                                                           |                        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
 |                              |                                                                                                                        Cases, cartridge, empty with primer                                                                                                                        |          1.4S          |        UN0055         |                   |    1.4S    |                                       50                                       |     63      |     62      |             None              |     25 kg     |    100 kg     | 01  |                 25                  |
 |                              |                                                                                                                       Cases, cartridges, empty with primer                                                                                                                        |          1.4C          |        UN0379         |                   |    1.4C    |                                       50                                       |    None     |     62      |             None              |   Forbidden   |     75 kg     | 02  |                 25                  |
@@ -1114,7 +1116,7 @@ Label Substitution Table
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |     3      |                             B1, IB3, T4, TP1, TP29                             |     150     |     203     |              242              |     60 L      |     220 L     |  A  |                                     |
 |                              |                                                                        Coal tar dye, corrosive, liquid, n.o.s, see Dyes, liquid or solid, n.o.s. or Dye intermediates, liquid or solid, corrosive, n.o.s.                                                                         |                        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
 |                              |                                                               Coating solution (includes surface treatments or coatings used for industrial or other purposes such as vehicle undercoating, drum or barrel lining)                                                                |           3            |        UN1139         |         I         |     3      |                              T11, TP1, TP8, TP27                               |     150     |     201     |              243              |      1 L      |     30 L      |  E  |                                     |
-|                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |     3      |                             149, IB2, T4, TP1, TP8                             |     150     |     202     |              242              |      5 L      |     60 L      |  B  |                                     |
+|                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |     3      |                          149, 383, IB2, T4, TP1, TP8                           |     150     |     202     |              242              |      5 L      |     60 L      |  B  |                                     |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |     3      |                                B1, IB3, T2, TP1                                |     150     |     203     |              242              |     60 L      |     220 L     |  A  |                                     |
 |                              |                                                                                                                            Cobalt naphthenates, powder                                                                                                                            |          4.1           |        UN2001         |        III        |    4.1     |                            A19, IB8, IP3, T1, TP33                             |     151     |     213     |              240              |     25 kg     |    100 kg     |  A  |                                     |
 |                              |                                                                                                                           Cobalt resinate, precipitated                                                                                                                           |          4.1           |        UN1318         |        III        |    4.1     |                             A1, A19, IB6, T1, TP33                             |     151     |     213     |              240              |     25 kg     |    100 kg     |  A  |                                     |
@@ -1168,7 +1170,6 @@ Label Substitution Table
 |              G               |                                                                                                         Compressed gas, toxic, oxidizing, n.o.s. Inhalation Hazard Zone B                                                                                                         |          2.3           |        UN3303         |                   |  2.3, 5.1  |                                   2, B9, B14                                   |    None     |  302, 305   |           314, 315            |   Forbidden   |   Forbidden   |  D  |                 40                  |
 |              G               |                                                                                                         Compressed gas, toxic, oxidizing, n.o.s. Inhalation Hazard Zone C                                                                                                         |          2.3           |        UN3303         |                   |  2.3, 5.1  |                                     3, B14                                     |    None     |  302, 305   |           314, 315            |   Forbidden   |   Forbidden   |  D  |                 40                  |
 |              G               |                                                                                                         Compressed gas, toxic, oxidizing, n.o.s. Inhalation Hazard Zone D                                                                                                         |          2.3           |        UN3303         |                   |  2.3, 5.1  |                                       4                                        |    None     |  302, 305   |           314, 315            |   Forbidden   |   Forbidden   |  D  |                 40                  |
-|              D               |                                                                                                                                Consumer commodity                                                                                                                                 |         ORM-D          |                       |                   |    None    |                                      222                                       |  156, 306   |  156, 306   |             None              |  30 kg gross  |   Forbidden   |  A  |                                     |
 |                              |                                                                                                                                Consumer commodity                                                                                                                                 |           9            |        ID8000         |                   |     9      |                                                                                |     167     |     167     |             None              |  30 kg gross  |  30 kg gross  |     |                                     |
 |              G               |                                                                                                Contrivances, water-activated, with burster, expelling charge or propelling charge                                                                                                 |          1.2L          |        UN0248         |                   |    1.2L    |                                                                                |    None     |     62      |             None              |   Forbidden   |   Forbidden   | 05  |          25, 14E, 15E, 17E          |
 |              G               |                                                                                                Contrivances, water-activated, with burster, expelling charge or propelling charge                                                                                                 |          1.3L          |        UN0249         |                   |    1.3L    |                                                                                |    None     |     62      |             None              |   Forbidden   |   Forbidden   | 05  |          25, 14E, 15E, 17E          |
@@ -1216,13 +1217,13 @@ Label Substitution Table
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |     8      |                               IB3, T7, TP1, TP28                               |     154     |     203     |              241              |      5 L      |     60 L      |  A  |               40, 52                |
 |              G               |                                                                                                                       Corrosive liquid, self-heating, n.o.s                                                                                                                       |           8            |        UN3301         |         I         |   8, 4.2   |                                      B10                                       |    None     |     201     |              243              |     0.5 L     |     2.5 L     |  D  |                                     |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |   8, 4.2   |                                    B2, IB1                                     |     154     |     202     |              242              |      1 L      |     30 L      |  D  |                                     |
-|                              |                                                                                                                        Corrosive liquids, flammable, n.o.s                                                                                                                        |           8            |        UN2920         |         I         |    8, 3    |                            A6, B10, T14, TP2, TP27                             |    None     |     201     |              243              |     0.5 L     |     2.5 L     |  C  |               25, 40                |
+|              G               |                                                                                                                       Corrosive liquids, flammable, n.o.s.                                                                                                                        |           8            |        UN2920         |         I         |    8, 3    |                              B10, T14, TP2, TP27                               |    None     |     201     |              243              |     0.5 L     |     2.5 L     |  C  |               25, 40                |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |    8, 3    |                            B2, IB2, T11, TP2, TP27                             |     154     |     202     |              243              |      1 L      |     30 L      |  C  |               25, 40                |
 |              G               |                                                                                                                             Corrosive liquids, n.o.s                                                                                                                              |           8            |        UN1760         |         I         |     8      |                            A7, B10, T14, TP2, TP27                             |    None     |     201     |              243              |     0.5 L     |     2.5 L     |  B  |                 40                  |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |     8      |                            B2, IB2, T11, TP2, TP27                             |     154     |     202     |              242              |      1 L      |     30 L      |  B  |                 40                  |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |     8      |                               IB3, T7, TP1, TP28                               |     154     |     203     |              241              |      5 L      |     60 L      |  A  |                 40                  |
-|              G               |                                                                                                                        Corrosive liquids, oxidizing, n.o.s                                                                                                                        |           8            |        UN3093         |         I         |   8, 5.1   |                                     A6, A7                                     |    None     |     201     |              243              |   Forbidden   |     2.5 L     |  C  |                 89                  |
-|                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |   8, 5.1   |                                  A6, A7, IB2                                   |     154     |     202     |              243              |      1 L      |     30 L      |  C  |                 89                  |
+|              G               |                                                                                                                       Corrosive liquids, oxidizing, n.o.s.                                                                                                                        |           8            |        UN3093         |         I         |   8, 5.1   |                                       A7                                       |    None     |     201     |              243              |   Forbidden   |     2.5 L     |  C  |                 89                  |
+|                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |   8, 5.1   |                                    A7, IB2                                     |     154     |     202     |              243              |      1 L      |     30 L      |  C  |                 89                  |
 |              G               |                                                                                                                          Corrosive liquids, toxic, n.o.s                                                                                                                          |           8            |        UN2922         |         I         |   8, 6.1   |                         A7, B10, T14, TP2, TP13, TP27                          |    None     |     201     |              243              |     0.5 L     |     2.5 L     |  B  |                 40                  |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |   8, 6.1   |                                B3, IB2, T7, TP2                                |     154     |     202     |              243              |      1 L      |     30 L      |  B  |                 40                  |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |   8, 6.1   |                               IB3, T7, TP1, TP28                               |     154     |     203     |              241              |      5 L      |     60 L      |  B  |                 40                  |
@@ -1240,13 +1241,13 @@ Label Substitution Table
 |              G               |                                                                                                                      Corrosive solid, basic, organic, n.o.s.                                                                                                                      |           8            |        UN3263         |         I         |     8      |                               IB7, IP1, T6, TP33                               |    None     |     211     |              242              |     1 kg      |     25 kg     |  B  |                 52                  |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |     8      |                            IB8, IP2, IP4, T3, TP33                             |     154     |     212     |              240              |     15 kg     |     50 kg     |  B  |                 52                  |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |     8      |                               IB8, IP3, T1, TP33                               |     154     |     213     |              240              |     25 kg     |    100 kg     |  A  |                 52                  |
-|                              |                                                                                                                        Corrosive solids, flammable, n.o.s                                                                                                                         |           8            |        UN2921         |         I         |   8, 4.1   |                                 IB6, T6, TP33                                  |    None     |     211     |              242              |     1 kg      |     25 kg     |  B  |               12, 25                |
+|              G               |                                                                                                                        Corrosive solids, flammable, n.o.s.                                                                                                                        |           8            |        UN2921         |         I         |   8, 4.1   |                                 IB6, T6, TP33                                  |    None     |     211     |              242              |     1 kg      |     25 kg     |  B  |               12, 25                |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |   8, 4.1   |                            IB8, IP2, IP4, T3, TP33                             |     154     |     212     |              242              |     15 kg     |     50 kg     |  B  |               12, 25                |
 |              G               |                                                                                                                             Corrosive solids, n.o.s.                                                                                                                              |           8            |        UN1759         |         I         |     8      |                               IB7, IP1, T6, TP33                               |    None     |     211     |              242              |     1 kg      |     25 kg     |  B  |                                     |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |     8      |                          128, IB8, IP2, IP4, T3, TP33                          |     154     |     212     |              240              |     15 kg     |     50 kg     |  A  |                                     |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |     8      |                            128, IB8, IP3, T1, TP33                             |     154     |     213     |              240              |     25 kg     |    100 kg     |  A  |                                     |
-|              G               |                                                                                                                        Corrosive solids, oxidizing, n.o.s                                                                                                                         |           8            |        UN3084         |         I         |   8, 5.1   |                                    T6, TP33                                    |    None     |     211     |              242              |     1 kg      |     25 kg     |  C  |                                     |
-|                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |   8, 5.1   |                            154, IB6, IP2, T3, TP33                             |     154     |     212     |              242              |     15 kg     |     50 kg     |  C  |                                     |
+|              G               |                                                                                                                        Corrosive solids, oxidizing, n.o.s.                                                                                                                        |           8            |        UN3084         |         I         |   8, 5.1   |                                    T6, TP33                                    |    None     |     211     |              242              |     1 kg      |     25 kg     |  C  |                                     |
+|                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |   8, 5.1   |                               IB6, IP2, T3, TP33                               |     154     |     212     |              242              |     15 kg     |     50 kg     |  C  |                                     |
 |              G               |                                                                                                                       Corrosive solids, self-heating, n.o.s                                                                                                                       |           8            |        UN3095         |         I         |   8, 4.2   |                                    T6, TP33                                    |    None     |     211     |              243              |     1 kg      |     25 kg     |  C  |                                     |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |   8, 4.2   |                               IB6, IP2, T3, TP33                               |     154     |     212     |              242              |     15 kg     |     50 kg     |  C  |                                     |
 |              G               |                                                                                                                          Corrosive solids, toxic, n.o.s                                                                                                                           |           8            |        UN2923         |         I         |   8, 6.1   |                                 IB7, T6, TP33                                  |    None     |     211     |              242              |     1 kg      |     25 kg     |  B  |                 40                  |
@@ -1328,7 +1329,7 @@ Label Substitution Table
 |                              |                                                                     Cyclotrimethylenetrinitramine, wetted or Cyclonite, wetted or Hexogen, wetted or RDX, wetted with not less than 15 percent water by mass                                                                      |          1.1D          |        UN0072         |                   |    1.1D    |                                                                                |    None     |     62      |             None              |   Forbidden   |   Forbidden   | 04  |                 25                  |
 |                              |                                                                                                                                      Cymenes                                                                                                                                      |           3            |        UN2046         |        III        |     3      |                                B1, IB3, T2, TP1                                |     150     |     203     |              242              |     60 L      |     220 L     |  A  |                                     |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
-|                              |                                                                                            Dangerous goods in articles or Dangerous goods in machinery or Dangerous goods in apparatus                                                                                            |           9            |        UN3363         |                   |            |                                   136, A105                                    |    None     |     222     |             None              |   See A105    |   See A105    |  A  |                                     |
+|                              |                                                                                            Dangerous goods in articles or Dangerous goods in machinery or Dangerous goods in apparatus                                                                                            |           9            |        UN3363         |                   |     9      |                                   136, A105                                    |    None     |     222     |             None              |   See A105    |   See A105    |  A  |                                     |
 |                              |                                                                                                                                    Decaborane                                                                                                                                     |          4.1           |        UN1868         |        II         |  4.1, 6.1  |                       A19, A20, IB6, IP2, T3, TP33, W31                        |     151     |     212     |             None              |   Forbidden   |     50 kg     |  A  |                 74                  |
 |                              |                                                                                                                               Decahydronaphthalene                                                                                                                                |           3            |        UN1147         |        III        |     3      |                                B1, IB3, T2, TP1                                |     150     |     203     |              242              |     60 L      |     220 L     |  A  |                                     |
 |                              |                                                                                                                                     n-Decane                                                                                                                                      |           3            |        UN2247         |        III        |     3      |                                B1, IB3, T2, TP1                                |     150     |     203     |              242              |     60 L      |     220 L     |  A  |                                     |
@@ -1451,7 +1452,7 @@ Label Substitution Table
 |                              |                                                                                                                                  Diethyl ketone                                                                                                                                   |           3            |        UN1156         |        II         |     3      |                                  IB2, T4, TP1                                  |     150     |     202     |              242              |      5 L      |     60 L      |  B  |                                     |
 |                              |                                                                                                         Diethyl peroxydicarbonate, with more than 27 percent in solution                                                                                                          |       Forbidden        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
 |                              |                                                                                                                                  Diethyl sulfate                                                                                                                                  |          6.1           |        UN1594         |        II         |    6.1     |                                  IB2, T7, TP2                                  |     153     |     202     |              243              |      5 L      |     60 L      |  C  |                                     |
-|                              |                                                                                                                                  Diethyl sulfide                                                                                                                                  |           3            |        UN2375         |        II         |     3      |                               IB2, T7, TP1, TP13                               |     150     |     202     |              243              |      5 L      |     60 L      |  E  |                 52                  |
+|                              |                                                                                                                                  Diethyl sulfide                                                                                                                                  |           3            |        UN2375         |        II         |     3      |                               IB2, T7, TP1, TP13                               |     150     |     202     |              243              |      5 L      |     60 L      |  E  |                                     |
 |                              |                                                                                                                                   Diethylamine                                                                                                                                    |           3            |        UN1154         |        II         |    3, 8    |                             A3, IB2, N34, T7, TP1                              |     150     |     202     |              243              |      1 L      |      5 L      |  E  |               40, 52                |
 |                              |                                                                                                                               2-Diethylaminoethanol                                                                                                                               |           8            |        UN2686         |        II         |    8, 3    |                                B2, IB2, T7, TP2                                |     154     |     202     |              243              |      1 L      |     30 L      |  A  |                 52                  |
 |                              |                                                                                                                             3-Diethyamino-propylamine                                                                                                                             |           3            |        UN2684         |        III        |    3, 8    |                                B1, IB3, T4, TP1                                |     150     |     203     |              242              |      5 L      |     60 L      |  A  |                 52                  |
@@ -1468,7 +1469,7 @@ Label Substitution Table
 |                              |                                                                                                                   1,1-Difluoroethane or Refrigerant gas R 152a                                                                                                                    |          2.1           |        UN1030         |                   |    2.1     |                                      T50                                       |     306     |     304     |           314, 315            |   Forbidden   |    150 kg     |  B  |                 40                  |
 |                              |                                                                                                                  1,1-Difluoroethylene or Refrigerant gas R 1132a                                                                                                                  |          2.1           |        UN1959         |                   |    2.1     |                                                                                |     306     |     304     |             None              |   Forbidden   |    150 kg     |  E  |                 40                  |
 |                              |                                                                                                                      Difluoromethane or Refrigerant gas R 32                                                                                                                      |          2.1           |        UN3252         |                   |    2.1     |                                      T50                                       |     306     |     304     |           314, 315            |   Forbidden   |    150 kg     |  D  |                 40                  |
-|                              |                                                                                                                        Difluorophosphoric acid, anhydrous                                                                                                                         |           8            |        UN1768         |        II         |     8      |                       A6, A7, B2, IB2, N5, N34, T8, TP2                        |     154     |     202     |              242              |      1 L      |     30 L      |  A  |             40, 53, 58              |
+|                              |                                                                                                                        Difluorophosphoric acid, anhydrous                                                                                                                         |           8            |        UN1768         |        II         |     8      |                         A7, B2, IB2, N5, N34, T8, TP2                          |     154     |     202     |              242              |      1 L      |     30 L      |  A  |             40, 53, 58              |
 |                              |                                                                                                                                 2,3-Dihydropyran                                                                                                                                  |           3            |        UN2376         |        II         |     3      |                                  IB2, T4, TP1                                  |     150     |     202     |              242              |      5 L      |     60 L      |  B  |                                     |
 |                              |                                                                                                         1,8-Dihydroxy-2,4,5,7-tetranitroanthraquinone (chrysamminic acid)                                                                                                         |       Forbidden        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
 |                              |                                                                                                                                  Diiodoacetylene                                                                                                                                  |       Forbidden        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
@@ -1745,7 +1746,7 @@ Label Substitution Table
 |                              |                                                                                                                                     Fireworks                                                                                                                                     |          1.4G          |        UN0336         |                   |    1.4G    |                                    108, 200                                    |    None     |     62      |             None              |   Forbidden   |     75 kg     | 02  |                 25                  |
 |                              |                                                                                                                                     Fireworks                                                                                                                                     |          1.4S          |        UN0337         |                   |    1.4S    |                                      108                                       |    None     |     62      |             None              |     25 kg     |    100 kg     | 01  |                 25                  |
 |                              |                                                                                                                                   First aid kit                                                                                                                                   |           9            |        UN3316         |                   |     9      |                                       15                                       |     161     |     161     |             None              |     10 kg     |     10 kg     |  A  |                                     |
-|             A, W             |                                                                                                                  Fish meal, stabilized or Fish scrap, stabilized                                                                                                                  |           9            |        UN2216         |        III        |            |                            155, IB8, IP3, T1, TP33                             |     155     |     218     |              218              |    100 kg     |    200 kg     |  B  |          25, 88, 122, 128           |
+|             A, W             |                                                                                                                  Fish meal, stabilized or Fish scrap, stabilized                                                                                                                  |           9            |        UN2216         |        III        |    None    |                         155, B136, IB8, IP3, T1, TP33                          |     155     |     218     |              218              |    100 kg     |    200 kg     |  B  |          25, 88, 122, 128           |
 |                              |                                                                                                                Fish meal, unstablized or Fish scrap, unstabilized                                                                                                                 |          4.2           |        UN1374         |        II         |    4.2     |                155, A1, A19, IB8, IP2, IP4, T3, TP33, W31, W40                 |    None     |     212     |              241              |   Forbidden   |   Forbidden   |  B  |             18, 25, 128             |
 |                              |                                                                                                     Flammable compressed gas, see Compressed or Liquefied gas, flammable, etc                                                                                                     |                        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
 |                              |                                                                              Flammable compressed gas (small receptacles not fitted with a dispersion device, not refillable), see Receptacles, etc                                                                               |                        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
@@ -1771,7 +1772,7 @@ Label Substitution Table
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |  4.1, 5.1  |                                 131, T1, TP33                                  |     151     |     214     |              214              |   Forbidden   |   Forbidden   |  D  |                 40                  |
 |              G               |                                                                                                                     Flammable solid, toxic, inorganic, n.o.s.                                                                                                                     |          4.1           |        UN3179         |        II         |  4.1, 6.1  |                             A1, IB6, IP2, T3, TP33                             |     151     |     212     |              242              |     15 kg     |     50 kg     |  B  |                 40                  |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |  4.1, 6.1  |                               A1, IB6, T1, TP33                                |     151     |     213     |              242              |     25 kg     |    100 kg     |  B  |                 40                  |
-|                              |                                                                                                                    Flammable solids, corrosive, organic, n.o.s                                                                                                                    |          4.1           |        UN2925         |        II         |   4.1, 8   |                             A1, IB6, IP2, T3, TP33                             |     151     |     212     |              242              |     15 kg     |     50 kg     |  D  |                 40                  |
+|              G               |                                                                                                                   Flammable solids, corrosive, organic, n.o.s.                                                                                                                    |          4.1           |        UN2925         |        II         |   4.1, 8   |                             A1, IB6, IP2, T3, TP33                             |     151     |     212     |              242              |     15 kg     |     50 kg     |  D  |                 40                  |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |   4.1, 8   |                               A1, IB6, T1, TP33                                |     151     |     213     |              242              |     25 kg     |    100 kg     |  D  |                 40                  |
 |              G               |                                                                                                                         Flammable solids, organic, n.o.s.                                                                                                                         |          4.1           |        UN1325         |        II         |    4.1     |                          A1, IB8, IP2, IP4, T3, TP33                           |     151     |     212     |              240              |     15 kg     |     50 kg     |  B  |                                     |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |    4.1     |                             A1, IB8, IP3, T1, TP33                             |     151     |     213     |              240              |     25 kg     |    100 kg     |  B  |                                     |
@@ -1797,9 +1798,9 @@ Label Substitution Table
 |                              |                                                                                                                                  Fluoroanilines                                                                                                                                   |          6.1           |        UN2941         |        III        |    6.1     |                                  IB3, T4, TP1                                  |     153     |     203     |              241              |     60 L      |     220 L     |  A  |                                     |
 |                              |                                                                                                                                   Fluorobenzene                                                                                                                                   |           3            |        UN2387         |        II         |     3      |                                  IB2, T4, TP1                                  |     150     |     202     |              242              |      5 L      |     60 L      |  B  |                                     |
 |                              |                                                                                                                                 Fluoroboric acid                                                                                                                                  |           8            |        UN1775         |        II         |     8      |                       A7, B2, B15, IB2, N3, N34, T7, TP2                       |     154     |     202     |              242              |      1 L      |     30 L      |  A  |               53, 58                |
-|                              |                                                                                                                          Fluorophosphoric acid anhydrous                                                                                                                          |           8            |        UN1776         |        II         |     8      |                       A6, A7, B2, IB2, N3, N34, T8, TP2                        |     154     |     202     |              242              |      1 L      |     30 L      |  A  |               53, 58                |
+|                              |                                                                                                                          Fluorophosphoric acid anhydrous                                                                                                                          |           8            |        UN1776         |        II         |     8      |                         A7, B2, IB2, N3, N34, T8, TP2                          |     154     |     202     |              242              |      1 L      |     30 L      |  A  |               53, 58                |
 |              G               |                                                                                                                              Fluorosilicates, n.o.s                                                                                                                               |          6.1           |        UN2856         |        III        |    6.1     |                               IB8, IP3, T1, TP33                               |     153     |     213     |              240              |    100 kg     |    200 kg     |  A  |                 52                  |
-|                              |                                                                                                                                Fluorosilicic acid                                                                                                                                 |           8            |        UN1778         |        II         |     8      |                     A6, A7, B2, B15, IB2, N3, N34, T8, TP2                     |     154     |     202     |              242              |      1 L      |     30 L      |  A  |               53, 58                |
+|                              |                                                                                                                                Fluorosilicic acid                                                                                                                                 |           8            |        UN1778         |        II         |     8      |                       A7, B2, B15, IB2, N3, N34, T8, TP2                       |     154     |     202     |              242              |      1 L      |     30 L      |  A  |               53, 58                |
 |                              |                                                                                                                                Fluorosulfonic acid                                                                                                                                |           8            |        UN1777         |         I         |     8      |                      A7, A10, B6, B10, N3, N36, T10, TP2                       |    None     |     201     |              243              |     0.5 L     |     2.5 L     |  D  |             40, 53, 58              |
 |                              |                                                                                                                                  Fluorotoluenes                                                                                                                                   |           3            |        UN2388         |        II         |     3      |                                  IB2, T4, TP1                                  |     150     |     202     |              242              |      5 L      |     60 L      |  B  |                 40                  |
 |                              |                                                                                                                         Forbidden materials. See § 173.21                                                                                                                         |       Forbidden        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
@@ -1924,14 +1925,14 @@ Label Substitution Table
 |                              |                                                                                                                         Hexafluoroacetone hydrate, liquid                                                                                                                         |          6.1           |        UN2552         |        II         |    6.1     |                                  IB2, T7, TP2                                  |     153     |     202     |              243              |      5 L      |     60 L      |  B  |                 40                  |
 |                              |                                                                                                                         Hexafluoroacetone hydrate, solid                                                                                                                          |          6.1           |        UN3436         |        II         |    6.1     |                            IB8, IP2, IP4, T3, TP33                             |     153     |     212     |              242              |     25 kg     |    100 kg     |  B  |                 40                  |
 |                              |                                                                                                                    Hexafluoroethane, or Refrigerant gas R 116                                                                                                                     |          2.2           |        UN2193         |                   |    2.2     |                                                                                |     306     |     304     |           314, 315            |     75 kg     |    150 kg     |  A  |                                     |
-|                              |                                                                                                                             Hexafluorophosphoric acid                                                                                                                             |           8            |        UN1782         |        II         |     8      |                       A6, A7, B2, IB2, N3, N34, T8, TP2                        |     154     |     202     |              242              |      1 L      |     30 L      |  A  |               53, 58                |
+|                              |                                                                                                                             Hexafluorophosphoric acid                                                                                                                             |           8            |        UN1782         |        II         |     8      |                         A7, B2, IB2, N3, N34, T8, TP2                          |     154     |     202     |              242              |      1 L      |     30 L      |  A  |               53, 58                |
 |                              |                                                                                                             Hexafluoropropylene compressed or Refrigerant gas R 1216                                                                                                              |          2.2           |        UN1858         |                   |    2.2     |                                      T50                                       |     306     |     304     |           314, 315            |     75 kg     |    150 kg     |  A  |                                     |
 |                              |                                                                                                                                    Hexaldehyde                                                                                                                                    |           3            |        UN1207         |        III        |     3      |                                B1, IB3, T2, TP1                                |     150     |     203     |              242              |     60 L      |     220 L     |  A  |                                     |
 |                              |                                                                                                                            Hexamethylene diisocyanate                                                                                                                             |          6.1           |        UN2281         |        II         |    6.1     |                               IB2, T7, TP2, TP13                               |     153     |     202     |              243              |      5 L      |     60 L      |  C  |               13, 40                |
 |                              |                                                                                                                      Hexamethylene triperoxide diamine (dry)                                                                                                                      |       Forbidden        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
 |                              |                                                                                                                            Hexamethylenediamine, solid                                                                                                                            |           8            |        UN2280         |        III        |     8      |                               IB8, IP3, T1, TP33                               |     154     |     213     |              240              |     25 kg     |    100 kg     |  A  |             12, 25, 52              |
 |                              |                                                                                                                           Hexamethylenediamine solution                                                                                                                           |           8            |        UN1783         |        II         |     8      |                                  IB2, T7, TP2                                  |     154     |     202     |              242              |      1 L      |     30 L      |  A  |                 52                  |
-|                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |     8      |                                  IB3, T4, TP1                                  |     154     |     203     |              241              |      5 L      |     60 L      |  A  |                                     |
+|                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |     8      |                                  IB3, T4, TP1                                  |     154     |     203     |              241              |      5 L      |     60 L      |  A  |                 52                  |
 |                              |                                                                                                                                Hexamethyleneimine                                                                                                                                 |           3            |        UN2493         |        II         |    3, 8    |                                  IB2, T7, TP1                                  |     150     |     202     |              243              |      1 L      |      5 L      |  B  |                 40                  |
 |                              |                                                                                                                              Hexamethylenetetramine                                                                                                                               |          4.1           |        UN1328         |        III        |    4.1     |                             A1, IB8, IP3, T1, TP33                             |     151     |     213     |              240              |     25 kg     |    100 kg     |  A  |                                     |
 |                              |                                                                                                                         Hexamethylol benzene hexanitrate                                                                                                                          |       Forbidden        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
@@ -1976,8 +1977,8 @@ Label Substitution Table
 |                              |                                                                                                           Hydrobromic acid, anhydrous, see Hydrogen bromide, anhydrous                                                                                                            |                        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
 |                              |                                                                                                           Hydrobromic acid, with more than 49 percent hydrobromic acid                                                                                                            |           8            |        UN1788         |        II         |     8      |                           B2, B15, IB2, N41, T7, TP2                           |     154     |     202     |              242              |   Forbidden   |   Forbidden   |  C  |               53, 58                |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |     8      |                                  IB3, T4, TP1                                  |     154     |     203     |              241              |   Forbidden   |   Forbidden   |  C  |              8, 53, 58              |
-|                              |                                                                                                         Hydrobromic acid, with not more than 49 percent hydrobromic acid                                                                                                          |           8            |        UN1788         |        II         |     8      |                         A3, B2, B15, IB2, N41, T7, TP2                         |     154     |     202     |              242              |      1 L      |     30 L      |  C  |                                     |
-|                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |     8      |                                A3, IB3, T4, TP1                                |     154     |     203     |              241              |      5 L      |     60 L      |  C  |                  8                  |
+|                              |                                                                                                         Hydrobromic acid, with not more than 49 percent hydrobromic acid                                                                                                          |           8            |        UN1788         |        II         |     8      |                         A3, B2, B15, IB2, N41, T7, TP2                         |     154     |     202     |              242              |      1 L      |     30 L      |  C  |               53, 58                |
+|                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |     8      |                                A3, IB3, T4, TP1                                |     154     |     203     |              241              |      5 L      |     60 L      |  C  |              8, 53, 58              |
 |                              |                                                                                                                    Hydrocarbon gas mixture, compressed, n.o.s.                                                                                                                    |          2.1           |        UN1964         |                   |    2.1     |                                                                                |     306     |     302     |           314, 315            |   Forbidden   |    150 kg     |  E  |                 40                  |
 |                              |                                                                                                                    Hydrocarbon gas mixture, liquefied, n.o.s.                                                                                                                     |          2.1           |        UN1965         |                   |    2.1     |                                      T50                                       |     306     |     304     |           314, 315            |   Forbidden   |    150 kg     |  E  |                 40                  |
 |                              |                                                                                                                           Hydrocarbons, liquid, n.o.s.                                                                                                                            |           3            |        UN3295         |         I         |     3      |                            144, T11, TP1, TP8, TP28                            |     150     |     201     |              243              |      1 L      |     30 L      |  E  |                                     |
@@ -2009,9 +2010,9 @@ Label Substitution Table
 |                              |                                                Hydrogen in a metal hydride storage system or Hydrogen in a metal hydride storage system contained in equipment or Hydrogen in a metal hydride storage system packed with equipment                                                |          2.1           |        UN3468         |                   |    2.1     |                                      167                                       |    None     |     311     |             None              |   Forbidden   |    100 kg     |  D  |                                     |
 |                              |                                                                                                                            Hydrogen iodide, anhydrous                                                                                                                             |          2.3           |        UN2197         |                   |   2.3, 8   |                                3, B14, N86, N89                                |    None     |     304     |           314, 315            |   Forbidden   |   Forbidden   |  D  |                 40                  |
 |                              |                                                                                                                   Hydrogen iodide solution, see Hydriodic acid                                                                                                                    |                        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
-|                              |                                                                           Hydrogen peroxide and peroxyacetic acid mixtures, stabilized with acids, water, and not more than 5 percent peroxyacetic acid                                                                           |          5.1           |        UN3149         |        II         |   5.1, 8   |               145, A2, A3, A6, B53, IB2, IP5, T7, TP2, TP6, TP24               |     152     |     202     |              243              |      1 L      |      5 L      |  D  |             25, 66, 75              |
-|                              |                                                                     Hydrogen, peroxide, aqueous solutions with more than 40 percent but not more than 60 percent hydrogen peroxide (stabilized as necessary)                                                                      |          5.1           |        UN2014         |        II         |   5.1, 8   |        12, A60, B53, B80, B81, B85, IB2, IP5, T7, TP2, TP6, TP24, TP37         |     152     |     202     |              243              |   Forbidden   |   Forbidden   |  D  |             25, 66, 75              |
-|                              |                                                                    Hydrogen peroxide, aqueous solutions with not less than 20 percent but not more than 40 percent hydrogen peroxide (stabilized as necessary)                                                                    |          5.1           |        UN2014         |        II         |   5.1, 8   |              A2, A3, A6, B53, IB2, IP5, T7, TP2, TP6, TP24, TP37               |     152     |     202     |              243              |      1 L      |      5 L      |  D  |             25, 66, 75              |
+|                              |                                                                           Hydrogen peroxide and peroxyacetic acid mixtures, stabilized with acids, water, and not more than 5 percent peroxyacetic acid                                                                           |          5.1           |        UN3149         |        II         |   5.1, 8   |                 145, A2, A3, B53, IB2, IP5, T7, TP2, TP6, TP24                 |     152     |     202     |              243              |      1 L      |      5 L      |  D  |             25, 66, 75              |
+|                              |                                                                      Hydrogen peroxide, aqueous solutions with more than 40 percent but not more than 60 percent hydrogen peroxide (stabilized as necessary)                                                                      |          5.1           |        UN2014         |        II         |   5.1, 8   |        12, A60, B53, B80, B81, B85, IB2, IP5, T7, TP2, TP6, TP24, TP37         |     152     |     202     |              243              |   Forbidden   |   Forbidden   |  D  |             25, 66, 75              |
+|                              |                                                                    Hydrogen peroxide, aqueous solutions with not less than 20 percent but not more than 40 percent hydrogen peroxide (stabilized as necessary)                                                                    |          5.1           |        UN2014         |        II         |   5.1, 8   |                A2, A3, B53, IB2, IP5, T7, TP2, TP6, TP24, TP37                 |     152     |     202     |              243              |      1 L      |      5 L      |  D  |             25, 66, 75              |
 |                              |                                                                      Hydrogen, peroxide, aqueous solutions with not less than 8 percent but less than 20 percent hydrogen peroxide (stabilized as necessary)                                                                      |          5.1           |        UN2984         |        III        |    5.1     |                     A1, IB2, IP5, T4, TP1, TP6, TP24, TP37                     |     152     |     203     |              241              |     2.5 L     |     30 L      |  B  |             25, 66, 75              |
 |                              |                                                                           Hydrogen peroxide, stabilized or Hydrogen peroxide aqueous solutions, stabilized with more than 60 percent hydrogen peroxide                                                                            |          5.1           |        UN2015         |         I         |   5.1, 8   |                12, B53, B80, B81, B85, T9, TP2, TP6, TP24, TP37                |    None     |     201     |              243              |   Forbidden   |   Forbidden   |  D  |             25, 66, 75.             |
 |                              |                                                                                                                 Hydrogen, refrigerated liquid (cryogenic liquid)                                                                                                                  |          2.1           |        UN1966         |                   |    2.1     |                                    T75, TP5                                    |    None     |     316     |           318, 319            |   Forbidden   |   Forbidden   |  D  |               40, 57                |
@@ -2019,8 +2020,8 @@ Label Substitution Table
 |                              |                                                                                                                           Hydrogen selenide, anhydrous                                                                                                                            |          2.3           |        UN2202         |                   |  2.3, 2.1  |                                       1                                        |    None     |     192     |              245              |   Forbidden   |   Forbidden   |  D  |                 40                  |
 |                              |                                                                                                                        Hydrogen sulfate, see Sulfuric acid                                                                                                                        |                        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
 |                              |                                                                                                                                 Hydrogen sulfide                                                                                                                                  |          2.3           |        UN1053         |                   |  2.3, 2.1  |                                2, B9, B14, N89                                 |    None     |     304     |           314, 315            |   Forbidden   |   Forbidden   |  D  |                 40                  |
-|                              |                                                                                                                         Hydrogendifluoride, solid, n.o.s                                                                                                                          |           8            |        UN1740         |        II         |     8      |                        IB8, IP2, IP4, N3, N34, T3, TP33                        |     154     |     212     |              240              |     15 kg     |     50 kg     |  A  |         25, 40, 52, 53, 58          |
-|                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |     8      |                          IB8, IP3, N3, N34, T1, TP33                           |     154     |     213     |              240              |     25 kg     |    100 kg     |  A  |             25, 40, 52              |
+|                              |                                                                                                                         Hydrogendifluoride, solid, n.o.s.                                                                                                                         |           8            |        UN1740         |        II         |     8      |                        IB8, IP2, IP4, N3, N34, T3, TP33                        |     154     |     212     |              240              |     15 kg     |     50 kg     |  A  |         25, 40, 52, 53, 58          |
+|                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |     8      |                          IB8, IP3, N3, N34, T1, TP33                           |     154     |     213     |              240              |     25 kg     |    100 kg     |  A  |         25, 40, 52, 53, 58          |
 |                              |                                                                                                                        Hydrogendifluoride solution, n.o.s                                                                                                                         |           8            |        UN3471         |        II         |   8, 6.1   |                                  IB2, T7, TP2                                  |     154     |     202     |              242              |      1 L      |     30 L      |  A  |             25, 40, 52.             |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |   8, 6.1   |                                  IB3, T4, TP1                                  |     154     |     203     |              241              |      5 L      |     60 L      |  A  |             25, 40, 52.             |
 |                              |                                                                                                                  Hydrosilicofluoric acid, see Fluorosilicic acid                                                                                                                  |                        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
@@ -2282,8 +2283,8 @@ Label Substitution Table
 |                              |                                                                                               Mercaptans, liquid, flammable, n.o.s. or Mercaptan mixture, liquid, flammable, n.o.s                                                                                                |           3            |        UN3336         |         I         |     3      |                                    T11, TP2                                    |     150     |     201     |              243              |      1 L      |     30 L      |  E  |               95, 102               |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |     3      |                            IB2, T7, TP1, TP8, TP28                             |     150     |     202     |              242              |      5 L      |     60 L      |  B  |               95, 102               |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |     3      |                          B1, B52, IB3, T4, TP1, TP29                           |     150     |     203     |              241              |     60 L      |     220 L     |  B  |               95, 102               |
-|                              |                                                                                        Mercaptans, liquid, flammable, toxic, n.o.s. or Mercaptan mixtures, liquid, flammable, toxic, n.o.s                                                                                        |           3            |        UN1228         |        II         |   3, 6.1   |                              IB2, T11, TP2, TP27                               |     150     |     202     |              243              |   Forbidden   |     60 L      |  B  |             40, 95, 102             |
-|                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |   3, 6.1   |                           A6, B1, IB3, T7, TP1, TP28                           |     150     |     203     |              242              |      5 L      |     220 L     |  A  |             40, 95, 102             |
+|                              |                                                                                       Mercaptans, liquid, flammable, toxic, n.o.s. or Mercaptan mixtures, liquid, flammable, toxic, n.o.s.                                                                                        |           3            |        UN1228         |        II         |   3, 6.1   |                              IB2, T11, TP2, TP27                               |     150     |     202     |              243              |   Forbidden   |     60 L      |  B  |             40, 95, 102             |
+|                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |   3, 6.1   |                             B1, IB3, T7, TP1, TP28                             |     150     |     203     |              242              |      5 L      |     220 L     |  A  |             40, 95, 102             |
 |                              |                                                                   Mercaptans, liquid, toxic, flammable, n.o.s. or Mercaptan mixtures, liquid, toxic, flammable, n.o.s., flash point not less than 23 degrees C                                                                    |          6.1           |        UN3071         |        II         |   6.1, 3   |                           IB2, T11, TP2, TP13, TP27                            |     153     |     202     |              243              |      5 L      |     60 L      |  C  |            40, 102, 121             |
 |                              |                                                                                                                         5-Mercaptotetrazol-1-acetic acid                                                                                                                          |          1.4C          |        UN0448         |                   |    1.4C    |                                                                                |    None     |     62      |             None              |   Forbidden   |     75 kg     | 02  |                 25                  |
 |                              |                                                                                                                                 Mercuric arsenate                                                                                                                                 |          6.1           |        UN1623         |        II         |    6.1     |                            IB8, IP2, IP4, T3, TP33                             |     153     |     212     |              242              |     25 kg     |    100 kg     |  A  |                                     |
@@ -2545,18 +2546,15 @@ Label Substitution Table
 |                              |                                                                                                      Nitrating acid mixtures spent with not more than 50 percent nitric acid                                                                                                      |           8            |        UN1826         |        II         |     8      |                              A7, B2, IB2, T8, TP2                              |     154     |     158     |              242              |   Forbidden   |     30 L      |  D  |             40, 53, 58              |
 |                              |                                                                                                           Nitrating acid mixtures with more than 50 percent nitric acid                                                                                                           |           8            |        UN1796         |         I         |   8, 5.1   |                               A7, T10, TP2, TP13                               |    None     |     158     |              243              |   Forbidden   |     2.5 L     |  D  |           40, 53, 58, 66            |
 |                              |                                                                                                         Nitrating acid mixtures with not more than 50 percent nitric acid                                                                                                         |           8            |        UN1796         |        II         |     8      |                           A7, B2, IB2, T8, TP2, TP13                           |     154     |     158     |              242              |   Forbidden   |     30 L      |  D  |             40, 53, 58              |
-|                              |                                                                                       Nitric acid other than red fuming, with at least 65 percent, but not more than 70 percent nitric acid                                                                                       |           8            |        UN2031         |        II         |   8, 5.1   |                      A6, B2, B47, B53, IB2, IP15, T8, TP2                      |     154     |     158     |              242              |   Forbidden   |     30 L      |  D  |       53, 58, 66, 74, 89, 90        |
-|                              |                                                                                         Nitric acid other than red fuming, with more than 20 percent and less than 65 percent nitric acid                                                                                         |           8            |        UN2031         |        II         |     8      |                   A6, A212, B2, B47, B53, IB2, IP15, T8, TP2                   |     154     |     158     |              242              |   Forbidden   |     30 L      |  D  |     44, 66, 53, 58, 74, 89, 90      |
-|                              |                                                                                                    Nitric acid other than red fuming with not more than 20 percent nitric acid                                                                                                    |           8            |        UN2031         |        II         |     8      |                         A6, B2, B47, B53, IB2, T8, TP2                         |     154     |     158     |              242              |      1 L      |     30 L      |  D  |               53, 58                |
+|                              |                                                                                       Nitric acid other than red fuming, with at least 65 percent, but not more than 70 percent nitric acid                                                                                       |           8            |        UN2031         |        II         |   8, 5.1   |                        B2, B47, B53, IB2, IP15, T8, TP2                        |     154     |     158     |              242              |   Forbidden   |     30 L      |  D  |       53, 58, 66, 74, 89, 90        |
+|                              |                                                                                         Nitric acid other than red fuming, with more than 20 percent and less than 65 percent nitric acid                                                                                         |           8            |        UN2031         |        II         |     8      |                     A212, B2, B47, B53, IB2, IP15, T8, TP2                     |     154     |     158     |              242              |   Forbidden   |     30 L      |  D  |     44, 66, 53, 58, 74, 89, 90      |
+|                              |                                                                                                    Nitric acid other than red fuming with not more than 20 percent nitric acid                                                                                                    |           8            |        UN2031         |        II         |     8      |                           B2, B47, B53, IB2, T8, TP2                           |     154     |     158     |              242              |      1 L      |     30 L      |  D  |               53, 58                |
 |              \+              |                                                                                                                              Nitric acid, red fuming                                                                                                                              |           8            |        UN2032         |         I         |8, 5.1, 6.1 |                     2, B9, B32, T20, TP2, TP13, TP38, TP45                     |    None     |     227     |              244              |   Forbidden   |   Forbidden   |  D  |     40, 53, 58, 66, 74, 89, 90      |
 |                              |                                                                                                     Nitric acid other than red fuming, with more than 70 percent nitric acid                                                                                                      |           8            |        UN2031         |         I         |   8, 5.1   |                         B47, B53, T10, TP2, TP12, TP13                         |    None     |     158     |              243              |   Forbidden   |     2.5 L     |  D  |  44, 53, 58, 66, 89, 90, 110, 111   |
 |                              |                                                                                                                             Nitric oxide, compressed                                                                                                                              |          2.3           |        UN1660         |                   |2.3, 5.1, 8 |                                     1, B77                                     |    None     |     337     |             None              |   Forbidden   |   Forbidden   |  D  |             40, 89, 90              |
 |                              |                                                                                           Nitric oxide and dinitrogen tetroxide mixtures or Nitric oxide and nitrogen dioxide mixtures                                                                                            |          2.3           |        UN1975         |                   |2.3, 5.1, 8 |                                     1, B77                                     |    None     |     337     |             None              |   Forbidden   |   Forbidden   |  D  |             40, 89, 90              |
 |              G               |                                                                                                                        Nitriles, flammable, toxic, n.o.s.                                                                                                                         |           3            |        UN3273         |         I         |   3, 6.1   |                              T14, TP2, TP13, TP27                              |    None     |     201     |              243              |   Forbidden   |     30 L      |  E  |               40, 52                |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |   3, 6.1   |                           IB2, T11, TP2, TP13, TP27                            |     150     |     202     |              243              |      1 L      |     60 L      |  B  |               40, 52                |
-|              G               |                                                                                                                   Nitrites, inorganic, aqueous solution, n.o.s                                                                                                                    |          5.1           |        UN3219         |        II         |    5.1     |                               148, IB1, T4, TP1                                |     152     |     202     |              242              |      1 L      |      5 L      |  B  |           46, 56, 58, 133           |
-|                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |    5.1     |                                  IB2, T4, TP1                                  |     152     |     203     |              241              |     2.5 L     |     30 L      |  B  |           46, 56, 58, 133           |
-|              G               |                                                                                                                            Nitrites, inorganic, n.o.s                                                                                                                             |          5.1           |        UN2627         |        II         |    5.1     |                          33, IB8, IP2, IP4, T3, TP33                           |     152     |     212     |             None              |     5 kg      |     25 kg     |  A  |           46, 56, 58, 13            |
 |              G               |                                                                                                                          Nitriles, liquid, toxic, n.o.s.                                                                                                                          |          6.1           |        UN3276         |         I         |    6.1     |                            5, T14, TP2, TP13, TP27                             |    None     |     201     |              243              |      1 L      |     30 L      |  B  |                 52                  |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |    6.1     |                              IB2, T11, TP2, TP27                               |     153     |     202     |              243              |      5 L      |     60 L      |  B  |                 52                  |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |    6.1     |                               IB3, T7, TP1, TP28                               |     153     |     203     |              241              |     60 L      |     220 L     |  A  |                 52                  |
@@ -2565,6 +2563,9 @@ Label Substitution Table
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |    6.1     |                               IB8, IP3, T1, TP33                               |     153     |     213     |              240              |    100 kg     |    200 kg     |  A  |                 52                  |
 |              G               |                                                                                                                        Nitriles, toxic, flammable, n.o.s.                                                                                                                         |          6.1           |        UN3275         |         I         |   6.1, 3   |                            5, T14, TP2, TP13, TP27                             |    None     |     201     |              243              |      1 L      |     30 L      |  B  |               40, 52                |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |   6.1, 3   |                           IB2, T11, TP2, TP13, TP27                            |     153     |     202     |              243              |      5 L      |     60 L      |  B  |               40, 52                |
+|              G               |                                                                                                                   Nitrites, inorganic, aqueous solution, n.o.s                                                                                                                    |          5.1           |        UN3219         |        II         |    5.1     |                               148, IB1, T4, TP1                                |     152     |     202     |              242              |      1 L      |      5 L      |  B  |           46, 56, 58, 133           |
+|                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |    5.1     |                                  IB2, T4, TP1                                  |     152     |     203     |              241              |     2.5 L     |     30 L      |  B  |           46, 56, 58, 133           |
+|              G               |                                                                                                                            Nitrites, inorganic, n.o.s.                                                                                                                            |          5.1           |        UN2627         |        II         |    5.1     |                          33, IB8, IP2, IP4, T3, TP33                           |     152     |     212     |             None              |     5 kg      |     25 kg     |  A  |           46, 56, 58, 133           |
 |                              |                                                                                                                         3-Nitro-4-chlorobenzotrifluoride                                                                                                                          |          6.1           |        UN2307         |        II         |    6.1     |                                  IB2, T7, TP2                                  |     153     |     202     |              243              |      5 L      |     60 L      |  A  |                 40                  |
 |                              |                                                                                                                   6-Nitro-4-diazotoluene-3-sulfonic acid (dry)                                                                                                                    |       Forbidden        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
 |                              |                                                                                                                         Nitro isobutane triol trinitrate                                                                                                                          |       Forbidden        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
@@ -2780,7 +2781,7 @@ Label Substitution Table
 |                              |                                                                                                                                 Osmium tetroxide                                                                                                                                  |          6.1           |        UN2471         |         I         |    6.1     |                     A8, IB7, IP1, N33, N34, T6, TP33, W31                      |    None     |     211     |              242              |     5 kg      |     50 kg     |  B  |                 40                  |
 |             D G              |                                                                                                                     Other regulated substances, liquid, n.o.s                                                                                                                     |           9            |        NA3082         |        III        |     9      |                               A189, IB3, T2, TP1                               |     155     |     203     |              241              |   No limit    |   No limit    |  A  |                                     |
 |             D G              |                                                                                                                     Other regulated substances, solid, n.o.s                                                                                                                      |           9            |        NA3077         |        III        |     9      |                          384, B54, IB8, IP2, T1, TP33                          |     155     |     213     |              240              |   No limit    |   No limit    |  A  |                                     |
-|              G               |                                                                                                                        Oxidizing liquid, corrosive, n.o.s                                                                                                                         |          5.1           |        UN3098         |         I         |   5.1, 8   |                                     62, A6                                     |    None     |     201     |              244              |   Forbidden   |     2.5 L     |  D  |           13, 56, 58, 138           |
+|              G               |                                                                                                                        Oxidizing liquid, corrosive, n.o.s.                                                                                                                        |          5.1           |        UN3098         |         I         |   5.1, 8   |                                       62                                       |    None     |     201     |              244              |   Forbidden   |     2.5 L     |  D  |           13, 56, 58, 138           |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |   5.1, 8   |                                    62, IB1                                     |     152     |     202     |              243              |      1 L      |      5 L      |  B  |           13, 56, 58, 138           |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |   5.1, 8   |                                    62, IB2                                     |     152     |     203     |              242              |     2.5 L     |     30 L      |  B  |           13, 56, 58, 138           |
 |              G               |                                                                                                                              Oxidizing liquid, n.o.s                                                                                                                              |          5.1           |        UN3139         |         I         |    5.1     |                                  62, 127, A2                                   |    None     |     201     |              243              |   Forbidden   |     2.5 L     |  D  |             56, 58, 138             |
@@ -2808,8 +2809,8 @@ Label Substitution Table
 |                              |                                                           Oxygen generator, chemical (including when contained in associated equipment, e.g., passenger service units (PSUs), portable breathing equipment (PBE), etc)                                                            |          5.1           |        UN3356         |                   |    5.1     |                                                                                |    None     |     168     |             None              |   Forbidden   |     25 kg     |  D  |           56, 58, 69, 106           |
 |              \+              |                                                                                                                         Oxygen generator, chemical, spent                                                                                                                         |           9            |        NA3356         |        III        |     9      |                                       61                                       |    None     |     213     |             None              |   Forbidden   |   Forbidden   |  A  |                                     |
 |                              |                                                                                                                  Oxygen, refrigerated liquid (cryogenic liquid)                                                                                                                   |          2.2           |        UN1073         |                   |  2.2, 5.1  |                                 T75, TP5, TP22                                 |     320     |     316     |              318              |   Forbidden   |   Forbidden   |  D  |                                     |
-|                              |                                                                             Paint including paint, lacquer, enamel, stain, shellac solutions, varnish, polish, liquid filler and liquid lacquer base                                                                              |           3            |        UN1263         |         I         |     3      |                            367, T11, TP1, TP8, TP27                            |     150     |     201     |              243              |      1 L      |     30 L      |  E  |                                     |
-|                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |     3      |                  149, 367, B52, B131, IB2, T4, TP1, TP8, TP28                  |     150     |     173     |              242              |      5 L      |     60 L      |  B  |                                     |
+|                              |                                                                            Paint (including paint, lacquer, enamel, stain, shellac solutions, varnish, polish, liquid filler and liquid lacquer base)                                                                             |           3            |        UN1263         |         I         |     3      |                            367, T11, TP1, TP8, TP27                            |     150     |     201     |              243              |      1 L      |     30 L      |  E  |                                     |
+|                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |     3      |               149, 367, 383, B52, B131, IB2, T4, TP1, TP8, TP28                |     150     |     173     |              242              |      5 L      |     60 L      |  B  |                                     |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |     3      |                     367, B1, B52, B131, IB3, T2, TP1, TP29                     |     150     |     173     |              242              |     60 L      |     220 L     |  A  |                                     |
 |                              |                                                                                                                          Paint or Paint related material                                                                                                                          |           8            |        UN3066         |        II         |     8      |                          367, B2, IB2, T7, TP2, TP28                           |     154     |     173     |              242              |      1 L      |     30 L      |  A  |                 40                  |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |     8      |                          367, B52, IB3, T4, TP1, TP29                          |     154     |     173     |              241              |      5 L      |     60 L      |  A  |                 40                  |
@@ -2877,7 +2878,6 @@ Label Substitution Table
 |                              |                                                                                                                  Persulfates, inorganic, aqueous solution, n.o.s                                                                                                                  |          5.1           |        UN3216         |        III        |    5.1     |                               IB2, T4, TP1, TP29                               |     152     |     203     |              241              |     2.5 L     |     30 L      |  A  |             56, 58, 133             |
 |                              |                                                                                                                          Persulfates, inorganic, n.o.s.                                                                                                                           |          5.1           |        UN3215         |        III        |    5.1     |                               IB8, IP3, T1, TP33                               |     152     |     213     |              240              |     25 kg     |    100 kg     |  A  |               56, 58                |
 |              G               |                                                                                                     Pesticides, liquid, flammable, toxic, flash point less than 23 degrees C                                                                                                      |           3            |        UN3021         |         I         |   3, 6.1   |                            B5, T14, TP2, TP13, TP27                            |    None     |     201     |              243              |   Forbidden   |     30 L      |  B  |                 40                  |
-|                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |   3, 6.1   |                           IB2, T11, TP2, TP13, TP27                            |     150     |     202     |              243              |      1 L      |     60 L      |  B  |                 40                  |
 |              G               |                                                                                                Pesticides, liquid, toxic, flammable, n.o.s. flash point not less than 23 degrees C                                                                                                |          6.1           |        UN2903         |         I         |   6.1, 3   |                              T14, TP2, TP13, TP27                              |    None     |     201     |              243              |      1 L      |     30 L      |  B  |                 40                  |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |   6.1, 3   |                           IB2, T11, TP2, TP13, TP27                            |     153     |     202     |              243              |      5 L      |     60 L      |  B  |                 40                  |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |   6.1, 3   |                                B1, IB3, T7, TP2                                |     153     |     203     |              242              |     60 L      |     220 L     |  A  |                 40                  |
@@ -2965,7 +2965,7 @@ Label Substitution Table
 |                              |                                                                                                           Phosphorus pentasulfide, free from yellow or white phosphorus                                                                                                           |          4.3           |        UN1340         |        II         |  4.3, 4.1  |                       A20, B59, IB4, T3, TP33, W31, W40                        |     151     |     212     |              242              |     15 kg     |     50 kg     |  B  |             13, 74, 148             |
 |                              |                                                                                                                               Phosphorus pentoxide                                                                                                                                |           8            |        UN1807         |        II         |     8      |                        A7, IB8, IP2, IP4, N34, T3, TP33                        |     154     |     212     |              240              |     15 kg     |     50 kg     |  A  |               53, 58                |
 |                              |                                                                                                          Phosphorus sesquisulfide, free from yellow or white phosphorus                                                                                                           |          4.1           |        UN1341         |        II         |    4.1     |                          A20, IB4, N34, T3, TP33, W31                          |     151     |     212     |              240              |     15 kg     |     50 kg     |  B  |                 74                  |
-|                              |                                                                                                                               Phosphorus tribromide                                                                                                                               |           8            |        UN1808         |        II         |     8      |                  A3, A6, A7, B2, B25, IB2, N34, N43, T7, TP2                   |     154     |     202     |              242              |   Forbidden   |     30 L      |  C  |             40, 53, 58              |
+|                              |                                                                                                                               Phosphorus tribromide                                                                                                                               |           8            |        UN1808         |        II         |     8      |                    A3, A7, B2, B25, IB2, N34, N43, T7, TP2                     |     154     |     202     |              242              |   Forbidden   |     30 L      |  C  |             40, 53, 58              |
 |                              |                                                                                                                              Phosphorus trichloride                                                                                                                               |          6.1           |        UN1809         |         I         |   6.1, 8   |           2, B9, B14, B15, B32, B77, N34, T20, TP2, TP13, TP38, TP45           |    None     |     227     |              244              |   Forbidden   |   Forbidden   |  C  |             40, 53, 58              |
 |                              |                                                                                                                                Phosphorus trioxide                                                                                                                                |           8            |        UN2578         |        III        |     8      |                               IB8, IP3, T1, TP33                               |     154     |     213     |              240              |     25 kg     |    100 kg     |  A  |           12, 25, 53, 58            |
 |                              |                                                                                                            Phosphorus trisulfide, free from yellow or white phosphorus                                                                                                            |          4.1           |        UN1343         |        II         |    4.1     |                          A20, IB4, N34, T3, TP33, W31                          |     151     |     212     |              240              |     15 kg     |     50 kg     |  B  |          13, 74, 147, 148           |
@@ -3119,7 +3119,7 @@ Label Substitution Table
 |                              |                                                                                                                              Propylene chlorohydrin                                                                                                                               |          6.1           |        UN2611         |        II         |   6.1, 3   |                               IB2, T7, TP2, TP13                               |     153     |     202     |              243              |      5 L      |     60 L      |  A  |             12, 25, 40              |
 |                              |                                                                                                                                  Propylene oxide                                                                                                                                  |           3            |        UN1280         |         I         |     3      |                               N34, T11, TP2, TP7                               |    None     |     201     |              243              |      1 L      |     30 L      |  E  |                 40                  |
 |                              |                                                                                                                                Propylene tetramer                                                                                                                                 |           3            |        UN2850         |        III        |     3      |                                B1, IB3, T2, TP2                                |     150     |     203     |              242              |     60 L      |     220 L     |  A  |                                     |
-|                              |                                                                                                                               1,2-Propylenediamine                                                                                                                                |           8            |        UN2258         |        II         |    8, 3    |                           A3, A6, IB2, N34, T7, TP2                            |     154     |     202     |              243              |      1 L      |     30 L      |  A  |               40, 52                |
+|                              |                                                                                                                               1,2-Propylenediamine                                                                                                                                |           8            |        UN2258         |        II         |    8, 3    |                             A3, IB2, N34, T7, TP2                              |     154     |     202     |              243              |      1 L      |     30 L      |  A  |               40, 52                |
 |                              |                                                                                                                            Propyleneimine, stabilized                                                                                                                             |           3            |        UN1921         |         I         |   3, 6.1   |                              N34, T14, TP2, TP13                               |    None     |     201     |              243              |      1 L      |     30 L      |  D  |                 40                  |
 |                              |                                                                                                                               Propyltrichlorosilane                                                                                                                               |           8            |        UN1816         |        II         |    8, 3    |                      A7, B2, B6, N34, T10, TP2, TP7, TP13                      |    None     |     206     |              243              |   Forbidden   |     30 L      |  C  |             40, 53, 58              |
 |                              |                                                                                                                        Prussic acid, see Hydrogen cyanide                                                                                                                         |                        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
@@ -3545,7 +3545,7 @@ Label Substitution Table
 |                              |                                                                                                                                 Tetramethylsilane                                                                                                                                 |           3            |        UN2749         |         I         |     3      |                                  A7, T14, TP2                                  |    None     |     201     |              243              |   Forbidden   |     30 L      |  D  |                                     |
 |                              |                                                                                                                               Tetranitro diglycerin                                                                                                                               |       Forbidden        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
 |                              |                                                                                                                                 Tetranitroaniline                                                                                                                                 |          1.1D          |        UN0207         |                   |    1.1D    |                                                                                |    None     |     62      |             None              |   Forbidden   |   Forbidden   | 04  |                 25                  |
-|              \+              |                                                                                                                                 Tetranitromethane                                                                                                                                 |          6.1           |        UN1510         |         I         |  6.1, 5.1  |                       2, B32, T20, TP2, TP13, TP38, TP44                       |    None     |     227     |             None              |   Forbidden   |   Forbidden   |  D  |                40, 6                |
+|              \+              |                                                                                                                                 Tetranitromethane                                                                                                                                 |          6.1           |        UN1510         |         I         |  6.1, 5.1  |                       2, B32, T20, TP2, TP13, TP38, TP44                       |    None     |     227     |             None              |   Forbidden   |   Forbidden   |  D  |               40, 66                |
 |                              |                                                                                                                             2,3,4,6-Tetranitrophenol                                                                                                                              |       Forbidden        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
 |                              |                                                                                                                     2,3,4,6-Tetranitrophenyl methyl nitramine                                                                                                                     |       Forbidden        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
 |                              |                                                                                                                         2,3,4,6-Tetranitrophenylnitramine                                                                                                                         |       Forbidden        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
@@ -3855,7 +3855,7 @@ Label Substitution Table
 |              G               |                                                                                                                        Water-reactive solid, toxic, n.o.s                                                                                                                         |          4.3           |        UN3134         |         I         |  4.3, 6.1  |                             A8, IB4, IP1, N40, W31                             |    None     |     211     |              242              |   Forbidden   |     15 kg     |  D  |               13, 148               |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        II         |  4.3, 6.1  |                          IB5, IP2, T3, TP33, W31, W40                          |     151     |     212     |              242              |     15 kg     |     50 kg     |  E  |             13, 85, 148             |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |  4.3, 6.1  |                            IB8, IP4, T1, TP33, W31                             |     151     |     213     |              241              |     25 kg     |    100 kg     |  E  |             13, 85, 148             |
-|                              |                                                                                                  Wheel chair, electric, see Battery powered vehicle or Battery powered equipment                                                                                                  |                        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
+|                              |                                                                                                  Wheelchair, electric, see Battery powered vehicle or Battery powered equipment                                                                                                   |                        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
 |                              |                                                                                                                         White acid, see Hydrofluoric acid                                                                                                                         |                        |                       |                   |            |                                                                                |             |             |                               |               |               |     |                                     |
 |                              |                                                                                                                            Wood preservatives, liquid                                                                                                                             |           3            |        UN1306         |        II         |     3      |                             149, IB2, T4, TP1, TP8                             |     150     |     202     |              242              |      5 L      |     60 L      |  B  |                                     |
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |     3      |                                B1, IB3, T2, TP1                                |     150     |     203     |              242              |     60 L      |     220 L     |  A  |                 40                  |
@@ -3913,11 +3913,11 @@ Label Substitution Table
 |                              |                                                                                                                                                                                                                                                                                   |                        |                       |        III        |     3      |                                    B1, IB2                                     |     150     |     203     |              242              |     60 L      |     220 L     |  B  |                                     |
 |                              |                                                                                                                              Zirconium tetrachloride                                                                                                                              |           8            |        UN2503         |        III        |     8      |                               IB8, IP3, T1, TP33                               |     154     |     213     |              240              |     25 kg     |    100 kg     |  A  |               53, 58                |
 
-Appendix A to § 172.101 - List of Hazardous Substances and Reportable Quantities
+Appendix A to § 172.101—List of Hazardous Substances and Reportable Quantities
 
 1. This appendix lists materials and their corresponding reportable quantities (RQ's) that are listed or designated as “hazardous substances” under section 101(14) of the Comprehensive Environmental Response, Compensation, and Liability Act, 42 U.S.C. 9601(14) (CERCLA; 42 U.S.C. 9601 *et seq*). This listing fulfills the requirement of CERCLA, 42 U.S.C. 9656(a), that all “hazardous substances,” as defined in 42 U.S.C. 9601(14), be listed and regulated as hazardous materials under 49 U.S.C. 5101-5127. That definition includes substances listed under sections 311(b)(2)(A) and 307(a) of the Federal Water Pollution Control Act, 33 U.S.C. 1321(b)(2)(A) and 1317(a), section 3001 of the Solid Waste Disposal Act, 42 U.S.C. 6921, and section 112 of the Clean Air Act, 42 U.S.C. 7412. In addition, this list contains materials that the Administrator of the Environmental Protection Agency has determined to be hazardous substances in accordance with section 102 of CERCLA, 42 U.S.C. 9602. It should be noted that 42 U.S.C. 9656(b) provides that common and contract carriers may be held liable under laws other than CERCLA for the release of a hazardous substance as defined in that Act, during transportation that commenced before the effective date of the listing and regulating of that substance as a hazardous material under 49 U.S.C. 5101-5127.
 
-2. This appendix is divided into two TABLES which are entitled “TABLE 1 - HAZARDOUS SUBSTANCES OTHER THAN RADIONUCLIDES” and “TABLE 2 - RADIONUCLIDES.” A material listed in this appendix is regulated as a hazardous material and a hazardous substance under this subchapter if it meets the definition of a hazardous substance in § 171.8 of this subchapter.
+2. This appendix is divided into two TABLES which are entitled “TABLE 1—HAZARDOUS SUBSTANCES OTHER THAN RADIONUCLIDES” and “TABLE 2—RADIONUCLIDES.” A material listed in this appendix is regulated as a hazardous material and a hazardous substance under this subchapter if it meets the definition of a hazardous substance in § 171.8 of this subchapter.
 
 3. The procedure for selecting a proper shipping name for a hazardous substance is set forth in § 172.101(c).
 
@@ -3929,7 +3929,7 @@ Appendix A to § 172.101 - List of Hazardous Substances and Reportable Quantitie
 
 7. For mixtures of radionuclides, the following requirements shall be used in determining if a package contains an RQ of a hazardous substance: (i) if the identity and quantity (in curies or terabecquerels) of each radionuclide in a mixture or solution is known, the ratio between the quantity per package (in curies or terabecquerels) and the RQ for the radionuclide must be determined for each radionuclide. A package contains an RQ of a hazardous substance when the sum of the ratios for the radionuclides in the mixture or solution is equal to or greater than one; (ii) if the identity of each radionuclide in a mixture or solution is known but the quantity per package (in curies or terabecquerels) of one or more of the radionuclides is unknown, an RQ of a hazardous substance is present in a package when the total quantity (in curies or terabecquerels) of the mixture or solution is equal to or greater than the lowest RQ of any individual radionuclide in the mixture or solution; and (iii) if the identity of one or more radionuclides in a mixture or solution is unknown (or if the identity of a radionuclide by itself is unknown), an RQ of a hazardous substance is present when the total quantity (in curies or terabecquerels) in a package is equal to or greater than either one curie or the lowest RQ of any known individual radionuclide in the mixture or solution, whichever is lower.
 
-Table 1 to Appendix A - Hazardous Substances Other Than Radionuclides
+Table 1 to Appendix A—Hazardous Substances Other Than Radionuclides
 
 |                                                                                Hazardous substance                                                                                 |Reportable  <br/>quantity (RQ)  <br/>pounds  <br/>(kilograms)|
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
@@ -5291,789 +5291,789 @@ Table 1 to Appendix A - Hazardous Substances Other Than Radionuclides
 
 @ Indicates that the name was added by PHMSA because (1) the name is a synonym for a specific hazardous substance and (2) the name appears in the Hazardous Materials Table as a proper shipping name.
 
-\# To provide consistency with EPA regulations, two entries with different CAS numbers are provided. Refer to the EPA Table 302.4 - List of Hazardous Substances and Reportable Quantities for an explanation of the two entries.
+\# To provide consistency with EPA regulations, two entries with different CAS numbers are provided. Refer to the EPA Table 302.4—List of Hazardous Substances and Reportable Quantities for an explanation of the two entries.
 
 List of Hazardous Substances and Reportable Quantities
 
-Table 2 to Appendix A - Radionuclides
+Table 2 to Appendix A—Radionuclides
 
-|      (1) - Radionuclide       |(2) - Atomic Number|(3) - Reportable Quantity (RQ) Ci (TBq)|
-|-------------------------------|-------------------|---------------------------------------|
-|         Actinium-224          |        89         |               100 (3.7)               |
-|         Actinium-225          |        89         |               1 (.037)                |
-|         Actinium-226          |        89         |               10 (.37)                |
-|         Actinium-227          |        89         |            0.001 (.000037)            |
-|         Actinium-228          |        89         |               10 (.37)                |
-|          Aluminum-26          |        13         |               10 (.37)                |
-|         Americium-237         |        95         |               1000 (37)               |
-|         Americium-238         |        95         |               100 (3.7)               |
-|         Americium-239         |        95         |               100 (3.7)               |
-|         Americium-240         |        95         |               10 (.37)                |
-|         Americium-241         |        95         |             0.01 (.00037)             |
-|         Americium-242         |        95         |               100 (3.7)               |
-|        Americium-242m         |        95         |             0.01 (.00037)             |
-|         Americium-243         |        95         |             0.01 (.00037)             |
-|         Americium-244         |        95         |               10 (.37)                |
-|        Americium-244m         |        95         |               1000 (37)               |
-|         Americium-245         |        95         |               1000 (37)               |
-|         Americium-246         |        95         |               1000 (37)               |
-|        Americium-246m         |        95         |               1000 (37)               |
-|         Antimony-115          |        51         |               1000 (37)               |
-|         Antimony-116          |        51         |               1000 (37)               |
-|         Antimony-116m         |        51         |               100 (3.7)               |
-|         Antimony-117          |        51         |               1000 (37)               |
-|         Antimony-118m         |        51         |               10 (.37)                |
-|         Antimony-119          |        51         |               1000 (37)               |
-|     Antimony-120 (16 min)     |        51         |               1000 (37)               |
-|    Antimony-120 (5.76 day)    |        51         |               10 (.37)                |
-|         Antimony-122          |        51         |               10 (.37)                |
-|         Antimony-124          |        51         |               10 (.37)                |
-|         Antimony-124m         |        51         |               1000 (37)               |
-|         Antimony-125          |        51         |               10 (.37)                |
-|         Antimony-126          |        51         |               10 (.37)                |
-|         Antimony-126m         |        51         |               1000 (37)               |
-|         Antimony-127          |        51         |               10 (.37)                |
-|    Antimony-128 (10.4 min)    |        51         |               1000 (37)               |
-|    Antimony-128 (9.01 hr)     |        51         |               10 (.37)                |
-|         Antimony-129          |        51         |               100 (3.7)               |
-|         Antimony-130          |        51         |               100 (3.7)               |
-|         Antimony-131          |        51         |               1000 (37)               |
-|           Argon-39            |        18         |               1000 (37)               |
-|           Argon-41            |        18         |               10 (.37)                |
-|          Arsenic-69           |        33         |               1000 (37)               |
-|          Arsenic-70           |        33         |               100 (3.7)               |
-|          Arsenic-71           |        33         |               100 (3.7)               |
-|          Arsenic-72           |        33         |               10 (.37)                |
-|          Arsenic-73           |        33         |               100 (3.7)               |
-|          Arsenic-74           |        33         |               10 (.37)                |
-|          Arsenic-76           |        33         |               100 (3.7)               |
-|          Arsenic-77           |        33         |               1000 (37)               |
-|          Arsenic-78           |        33         |               100 (3.7)               |
-|         Astatine-207          |        85         |               100 (3.7)               |
-|         Astatine-211          |        85         |               100 (3.7)               |
-|          Barium-126           |        56         |               1000 (37)               |
-|          Barium-128           |        56         |               10 (.37)                |
-|          Barium-131           |        56         |               10 (.37)                |
-|          Barium-131m          |        56         |               1000 (37)               |
-|          Barium-133           |        56         |               10 (.37)                |
-|          Barium-133m          |        56         |               100 (3.7)               |
-|          Barium-135m          |        56         |               1000 (37)               |
-|          Barium-139           |        56         |               1000 (37)               |
-|          Barium-140           |        56         |               10 (.37)                |
-|          Barium-141           |        56         |               1000 (37)               |
-|          Barium-142           |        56         |               1000 (37)               |
-|         Berkelium-245         |        97         |               100 (3.7)               |
-|         Berkelium-246         |        97         |               10 (.37)                |
-|         Berkelium-247         |        97         |             0.01 (.00037)             |
-|         Berkelium-249         |        97         |               1 (.037)                |
-|         Berkelium-250         |        97         |               100 (3.7)               |
-|         Beryllium-10          |         4         |               1 (.037)                |
-|          Beryllium-7          |         4         |               100 (3.7)               |
-|          Bismuth-200          |        83         |               100 (3.7)               |
-|          Bismuth-201          |        83         |               100 (3.7)               |
-|          Bismuth-202          |        83         |               1000 (37)               |
-|          Bismuth-203          |        83         |               10 (.37)                |
-|          Bismuth-205          |        83         |               10 (.37)                |
-|          Bismuth-206          |        83         |               10 (.37)                |
-|          Bismuth-207          |        83         |               10 (.37)                |
-|          Bismuth-210          |        83         |               10 (.37)                |
-|         Bismuth-210m          |        83         |              0.1 (.0037)              |
-|          Bismuth-212          |        83         |               100 (3.7)               |
-|          Bismuth-213          |        83         |               100 (3.7)               |
-|          Bismuth-214          |        83         |               100 (3.7)               |
-|          Bromine-74           |        35         |               100 (3.7)               |
-|          Bromine-74m          |        35         |               100 (3.7)               |
-|          Bromine-75           |        35         |               100 (3.7)               |
-|          Bromine-76           |        35         |               10 (.37)                |
-|          Bromine-77           |        35         |               100 (3.7)               |
-|          Bromine-80           |        35         |               1000 (37)               |
-|          Bromine-80m          |        35         |               1000 (37)               |
-|          Bromine-82           |        35         |               10 (.37)                |
-|          Bromine-83           |        35         |               1000 (37)               |
-|          Bromine-84           |        35         |               100 (3.7)               |
-|          Cadmium-104          |        48         |               1000 (37)               |
-|          Cadmium-107          |        48         |               1000 (37)               |
-|          Cadmium-109          |        48         |               1 (.037)                |
-|          Cadmium-113          |        48         |              0.1 (.0037)              |
-|         Cadmium-113m          |        48         |              0.1 (.0037)              |
-|          Cadmium-115          |        48         |               100 (3.7)               |
-|         Cadmium-115m          |        48         |               10 (.37)                |
-|          Cadmium-117          |        48         |               100 (3.7)               |
-|         Cadmium-117m          |        48         |               10 (.37)                |
-|          Calcium-41           |        20         |               10 (.37)                |
-|          Calcium-45           |        20         |               10 (.37)                |
-|          Calcium-47           |        20         |               10 (.37)                |
-|        Californium-244        |        98         |               1000 (37)               |
-|        Californium-246        |        98         |               10 (.37)                |
-|        Californium-248        |        98         |              0.1 (.0037)              |
-|        Californium-249        |        98         |             0.01 (.00037)             |
-|        Californium-250        |        98         |             0.01 (.00037)             |
-|        Californium-251        |        98         |             0.01 (.00037)             |
-|        Californium-252        |        98         |              0.1 (.0037)              |
-|        Californium-253        |        98         |               10 (.37)                |
-|        Californium-254        |        98         |              0.1 (.0037)              |
-|           Carbon-11           |         6         |               1000 (37)               |
-|           Carbon-14           |         6         |               10 (.37)                |
-|          Cerium-134           |        58         |               10 (.37)                |
-|          Cerium-135           |        58         |               10 (.37)                |
-|          Cerium-137           |        58         |               1000 (37)               |
-|          Cerium-137m          |        58         |               100 (3.7)               |
-|          Cerium-139           |        58         |               100 (3.7)               |
-|          Cerium-141           |        58         |               10 (.37)                |
-|          Cerium-143           |        58         |               100 (3.7)               |
-|          Cerium-144           |        58         |               1 (.037)                |
-|          Cesium-125           |        55         |               1000 (37)               |
-|          Cesium-127           |        55         |               100 (3.7)               |
-|          Cesium-129           |        55         |               100 (3.7)               |
-|          Cesium-130           |        55         |               1000 (37)               |
-|          Cesium-131           |        55         |               1000 (37)               |
-|          Cesium-132           |        55         |               10 (.37)                |
-|          Cesium-134           |        55         |               1 (.037)                |
-|          Cesium-134m          |        55         |               1000 (37)               |
-|          Cesium-135           |        55         |               10 (.37)                |
-|          Cesium-135m          |        55         |               100 (3.7)               |
-|          Cesium-136           |        55         |               10 (.37)                |
-|          Cesium-137           |        55         |               1 (.037)                |
-|          Cesium-138           |        55         |               100 (3.7)               |
-|          Chlorine-36          |        17         |               10 (.37)                |
-|          Chlorine-38          |        17         |               100 (3.7)               |
-|          Chlorine-39          |        17         |               100 (3.7)               |
-|          Chromium-48          |        24         |               100 (3.7)               |
-|          Chromium-49          |        24         |               1000 (37)               |
-|          Chromium-51          |        24         |               1000 (37)               |
-|           Cobalt-55           |        27         |               10 (.37)                |
-|           Cobalt-56           |        27         |               10 (.37)                |
-|           Cobalt-57           |        27         |               100 (3.7)               |
-|           Cobalt-58           |        27         |               10 (.37)                |
-|          Cobalt-58m           |        27         |               1000 (37)               |
-|           Cobalt-60           |        27         |               10 (.37)                |
-|          Cobalt-60m           |        27         |               1000 (37)               |
-|           Cobalt-61           |        27         |               1000 (37)               |
-|          Cobalt-62m           |        27         |               1000 (37)               |
-|           Copper-60           |        29         |               100 (3.7)               |
-|           Copper-61           |        29         |               100 (3.7)               |
-|           Copper-64           |        29         |               1000 (37)               |
-|           Copper-67           |        29         |               100 (3.7)               |
-|          Curium-238           |        96         |               1000 (37)               |
-|          Curium-240           |        96         |               1 (.037)                |
-|          Curium-241           |        96         |               10 (.37)                |
-|          Curium-242           |        96         |               1 (.037)                |
-|          Curium-243           |        96         |             0.01 (.00037)             |
-|          Curium-244           |        96         |             0.01 (.00037)             |
-|          Curium-245           |        96         |             0.01 (.00037)             |
-|          Curium-246           |        96         |             0.01 (.00037)             |
-|          Curium-247           |        96         |             0.01 (.00037)             |
-|          Curium-248           |        96         |            0.001 (.000037)            |
-|          Curium-249           |        96         |               1000 (37)               |
-|        Dysprosium-155         |        66         |               100 (3.7)               |
-|        Dysprosium-157         |        66         |               100 (3.7)               |
-|        Dysprosium-159         |        66         |               100 (3.7)               |
-|        Dysprosium-165         |        66         |               1000 (37)               |
-|        Dysprosium-166         |        66         |               10 (.37)                |
-|        Einsteinium-250        |        99         |               10 (.37)                |
-|        Einsteinium-251        |        99         |               1000 (37)               |
-|        Einsteinium-253        |        99         |               10 (.37)                |
-|        Einsteinium-254        |        99         |              0.1 (.0037)              |
-|       Einsteinium-254m        |        99         |               1 (.037)                |
-|          Erbium-161           |        68         |               100 (3.7)               |
-|          Erbium-165           |        68         |               1000 (37)               |
-|          Erbium-169           |        68         |               100 (3.7)               |
-|          Erbium-171           |        68         |               100 (3.7)               |
-|          Erbium-172           |        68         |               10 (.37)                |
-|         Europium-145          |        63         |               10 (.37)                |
-|         Europium-146          |        63         |               10 (.37)                |
-|         Europium-147          |        63         |               10 (.37)                |
-|         Europium-148          |        63         |               10 (.37)                |
-|         Europium-149          |        63         |               100 (3.7)               |
-|    Europium-150 (12.6 hr)     |        63         |               1000 (37)               |
-|    Europium-150 (34.2 yr)     |        63         |               10 (.37)                |
-|         Europium-152          |        63         |               10 (.37)                |
-|         Europium-152m         |        63         |               100 (3.7)               |
-|         Europium-154          |        63         |               10 (.37)                |
-|         Europium-155          |        63         |               10 (.37)                |
-|         Europium-156          |        63         |               10 (.37)                |
-|         Europium-157          |        63         |               10 (.37)                |
-|         Europium-158          |        63         |               1000 (37)               |
-|          Fermium-252          |        100        |               10 (.37)                |
-|          Fermium-253          |        100        |               10 (.37)                |
-|          Fermium-254          |        100        |               100 (3.7)               |
-|          Fermium-255          |        100        |               100 (3.7)               |
-|          Fermium-257          |        100        |               1 (.037)                |
-|          Fluorine-18          |         9         |               1000 (37)               |
-|         Francium-222          |        87         |               100 (3.7)               |
-|         Francium-223          |        87         |               100 (3.7)               |
-|        Gadolinium-145         |        64         |               100 (3.7)               |
-|        Gadolinium-146         |        64         |               10 (.37)                |
-|        Gadolinium-147         |        64         |               10 (.37)                |
-|        Gadolinium-148         |        64         |            0.001 (.000037)            |
-|        Gadolinium-149         |        64         |               100 (3.7)               |
-|        Gadolinium-151         |        64         |               100 (3.7)               |
-|        Gadolinium-152         |        64         |            0.001 (.000037)            |
-|        Gadolinium-153         |        64         |               10 (.37)                |
-|        Gadolinium-159         |        64         |               1000 (37)               |
-|          Gallium-65           |        31         |               1000 (37)               |
-|          Gallium-66           |        31         |               10 (.37)                |
-|          Gallium-67           |        31         |               100 (3.7)               |
-|          Gallium-68           |        31         |               1000 (37)               |
-|          Gallium-70           |        31         |               1000 (37)               |
-|          Gallium-72           |        31         |               10 (.37)                |
-|          Gallium-73           |        31         |               100 (3.7)               |
-|         Germanium-66          |        32         |               100 (3.7)               |
-|         Germanium-67          |        32         |               1000 (37)               |
-|         Germanium-68          |        32         |               10 (.37)                |
-|         Germanium-69          |        32         |               10 (.37)                |
-|         Germanium-71          |        32         |               1000 (37)               |
-|         Germanium-75          |        32         |               1000 (37)               |
-|         Germanium-77          |        32         |               10 (.37)                |
-|         Germanium-78          |        32         |               1000 (37)               |
-|           Gold-193            |        79         |               100 (3.7)               |
-|           Gold-194            |        79         |               10 (.37)                |
-|           Gold-195            |        79         |               100 (3.7)               |
-|           Gold-198            |        79         |               100 (3.7)               |
-|           Gold-198m           |        79         |               10 (.37)                |
-|           Gold-199            |        79         |               100 (3.7)               |
-|           Gold-200            |        79         |               1000 (37)               |
-|           Gold-200m           |        79         |               10 (.37)                |
-|           Gold-201            |        79         |               1000 (37)               |
-|          Hafnium-170          |        72         |               100 (3.7)               |
-|          Hafnium-172          |        72         |               1 (.037)                |
-|          Hafnium-173          |        72         |               100 (3.7)               |
-|          Hafnium-175          |        72         |               100 (3.7)               |
-|         Hafnium-177m          |        72         |               1000 (37)               |
-|         Hafnium-178m          |        72         |              0.1 (.0037)              |
-|         Hafnium-179m          |        72         |               100 (3.7)               |
-|         Hafnium-180m          |        72         |               100 (3.7)               |
-|          Hafnium-181          |        72         |               10 (.37)                |
-|          Hafnium-182          |        72         |              0.1 (.0037)              |
-|         Hafnium-182m          |        72         |               100 (3.7)               |
-|          Hafnium-183          |        72         |               100 (3.7)               |
-|          Hafnium-184          |        72         |               100 (3.7)               |
-|          Holmium-155          |        67         |               1000 (37)               |
-|          Holmium-157          |        67         |               1000 (37)               |
-|          Holmium-159          |        67         |               1000 (37)               |
-|          Holmium-161          |        67         |               1000 (37)               |
-|          Holmium-162          |        67         |               1000 (37)               |
-|         Holmium-162m          |        67         |               1000 (37)               |
-|          Holmium-164          |        67         |               1000 (37)               |
-|         Holmium-164m          |        67         |               1000 (37)               |
-|          Holmium-166          |        67         |               100 (3.7)               |
-|         Holmium-166m          |        67         |               1 (.037)                |
-|          Holmium-167          |        67         |               100 (3.7)               |
-|          Hydrogen-3           |         1         |               100 (3.7)               |
-|          Indium-109           |        49         |               100 (3.7)               |
-|      Indium-110 (4.9 hr)      |        49         |               10 (.37)                |
-|     Indium-110 (69.1 min)     |        49         |               100 (3.7)               |
-|          Indium-111           |        49         |               100 (3.7)               |
-|          Indium-112           |        49         |               1000 (37)               |
-|          Indium-113m          |        49         |               1000 (37)               |
-|          Indium-114m          |        49         |               10 (.37)                |
-|          Indium-115           |        49         |              0.1 (.0037)              |
-|          Indium-115m          |        49         |               100 (3.7)               |
-|          Indium-116m          |        49         |               100 (3.7)               |
-|          Indium-117           |        49         |               1000 (37)               |
-|          Indium-117m          |        49         |               100 (3.7)               |
-|          Indium-119m          |        49         |               1000 (37)               |
-|          Iodine-120           |        53         |               10 (.37)                |
-|          Iodine-120m          |        53         |               100 (3.7)               |
-|          Iodine-121           |        53         |               100 (3.7)               |
-|          Iodine-123           |        53         |               10 (.37)                |
-|          Iodine-124           |        53         |              0.1 (.0037)              |
-|          Iodine-125           |        53         |             0.01 (.00037)             |
-|          Iodine-126           |        53         |             0.01 (.00037)             |
-|          Iodine-128           |        53         |               1000 (37)               |
-|          Iodine-129           |        53         |            0.001 (.000037)            |
-|          Iodine-130           |        53         |               1 (.037)                |
-|          Iodine-131           |        53         |             0.01 (.00037)             |
-|          Iodine-132           |        53         |               10 (.37)                |
-|          Iodine-132m          |        53         |               10 (.37)                |
-|          Iodine-133           |        53         |              0.1 (.0037)              |
-|          Iodine-134           |        53         |               100 (3.7)               |
-|          Iodine-135           |        53         |               10 (.37)                |
-|          Iridium-182          |        77         |               1000 (37)               |
-|          Iridium-184          |        77         |               100 (3.7)               |
-|          Iridium-185          |        77         |               100 (3.7)               |
-|          Iridium-186          |        77         |               10 (.37)                |
-|          Iridium-187          |        77         |               100 (3.7)               |
-|          Iridium-188          |        77         |               10 (.37)                |
-|          Iridium-189          |        77         |               100 (3.7)               |
-|          Iridium-190          |        77         |               10 (.37)                |
-|         Iridium-190m          |        77         |               1000 (37)               |
-|          Iridium-192          |        77         |               10 (.37)                |
-|         Iridium-192m          |        77         |               100 (3.7)               |
-|          Iridium-194          |        77         |               100 (3.7)               |
-|         Iridium-194m          |        77         |               10 (.37)                |
-|          Iridium-195          |        77         |               1000 (37)               |
-|         Iridium-195m          |        77         |               100 (3.7)               |
-|            Iron-52            |        26         |               100 (3.7)               |
-|            Iron-55            |        26         |               100 (3.7)               |
-|            Iron-59            |        26         |               10 (.37)                |
-|            Iron-60            |        26         |              0.1 (.0037)              |
-|          Krypton-74           |        36         |               10 (.37)                |
-|          Krypton-76           |        36         |               10 (.37)                |
-|          Krypton-77           |        36         |               10 (.37)                |
-|          Krypton-79           |        36         |               100 (3.7)               |
-|          Krypton-81           |        36         |               1000 (37)               |
-|          Krypton-83m          |        36         |               1000 (37)               |
-|          Krypton-85           |        36         |               1000 (37)               |
-|          Krypton-85m          |        36         |               100 (3.7)               |
-|          Krypton-87           |        36         |               10 (.37)                |
-|          Krypton-88           |        36         |               10 (.37)                |
-|         Lanthanum-131         |        57         |               1000 (37)               |
-|         Lanthanum-132         |        57         |               100 (3.7)               |
-|         Lanthanum-135         |        57         |               1000 (37)               |
-|         Lanthanum-137         |        57         |               10 (.37)                |
-|         Lanthanum-138         |        57         |               1 (.037)                |
-|         Lanthanum-140         |        57         |               10 (.37)                |
-|         Lanthanum-141         |        57         |               1000 (37)               |
-|         Lanthanum-142         |        57         |               100 (3.7)               |
-|         Lanthanum-143         |        57         |               1000 (37)               |
-|           Lead-195m           |        82         |               1000 (37)               |
-|           Lead-198            |        82         |               100 (3.7)               |
-|           Lead-199            |        82         |               100 (3.7)               |
-|           Lead-200            |        82         |               100 (3.7)               |
-|           Lead-201            |        82         |               100 (3.7)               |
-|           Lead-202            |        82         |               1 (.037)                |
-|           Lead-202m           |        82         |               10 (.37)                |
-|           Lead-203            |        82         |               100 (3.7)               |
-|           Lead-205            |        82         |               100 (3.7)               |
-|           Lead-209            |        82         |               1000 (37)               |
-|           Lead-210            |        82         |             0.01 (.00037)             |
-|           Lead-211            |        82         |               100 (3.7)               |
-|           Lead-212            |        82         |               10 (.37)                |
-|           Lead-214            |        82         |               100 (3.7)               |
-|         Lutetium-169          |        71         |               10 (.37)                |
-|         Lutetium-170          |        71         |               10 (.37)                |
-|         Lutetium-171          |        71         |               10 (.37)                |
-|         Lutetium-172          |        71         |               10 (.37)                |
-|         Lutetium-173          |        71         |               100 (3.7)               |
-|         Lutetium-174          |        71         |               10 (.37)                |
-|         Lutetium-174m         |        71         |               10 (.37)                |
-|         Lutetium-176          |        71         |               1 (.037)                |
-|         Lutetium-176m         |        71         |               1000 (37)               |
-|         Lutetium-177          |        71         |               100 (3.7)               |
-|         Lutetium-177m         |        71         |               10 (.37)                |
-|         Lutetium-178          |        71         |               1000 (37)               |
-|         Lutetium-178m         |        71         |               1000 (37)               |
-|         Lutetium-179          |        71         |               1000 (37)               |
-|         Magnesium-28          |        12         |               10 (.37)                |
-|         Manganese-51          |        25         |               1000 (37)               |
-|         Manganese-52          |        25         |               10 (.37)                |
-|         Manganese-52m         |        25         |               1000 (37)               |
-|         Manganese-53          |        25         |               1000 (37)               |
-|         Manganese-54          |        25         |               10 (.37)                |
-|         Manganese-56          |        25         |               100 (3.7)               |
-|        Mendelevium-257        |        101        |               100 (3.7)               |
-|        Mendelevium-258        |        101        |               1 (.037)                |
-|          Mercury-193          |        80         |               100 (3.7)               |
-|         Mercury-193m          |        80         |               10 (.37)                |
-|          Mercury-194          |        80         |              0.1 (.0037)              |
-|          Mercury-195          |        80         |               100 (3.7)               |
-|         Mercury-195m          |        80         |               100 (3.7)               |
-|          Mercury-197          |        80         |               1000 (37)               |
-|         Mercury-197m          |        80         |               1000 (37)               |
-|         Mercury-199m          |        80         |               1000 (37)               |
-|          Mercury-203          |        80         |               10 (.37)                |
-|        Molybdenum-101         |        42         |               1000 (37)               |
-|         Molybdenum-90         |        42         |               100 (3.7)               |
-|         Molybdenum-93         |        42         |               100 (3.7)               |
-|        Molybdenum-93m         |        42         |               10 (.37)                |
-|         Molybdenum-99         |        42         |               100 (3.7)               |
-|         Neodymium-136         |        60         |               1000 (37)               |
-|         Neodymium-138         |        60         |               1000 (37)               |
-|         Neodymium-139         |        60         |               1000 (37)               |
-|        Neodymium-139m         |        60         |               100 (3.7)               |
-|         Neodymium-141         |        60         |               1000 (37)               |
-|         Neodymium-147         |        60         |               10 (.37)                |
-|         Neodymium-149         |        60         |               100 (3.7)               |
-|         Neodymium-151         |        60         |               1000 (37)               |
-|         Neptunium-232         |        93         |               1000 (37)               |
-|         Neptunium-233         |        93         |               1000 (37)               |
-|         Neptunium-234         |        93         |               10 (.37)                |
-|         Neptunium-235         |        93         |               1000 (37)               |
-|  Neptunium-236 (1.2 E 5 yr)   |        93         |              0.1 (.0037)              |
-|    Neptunium-236 (22.5 hr)    |        93         |               100 (3.7)               |
-|         Neptunium-237         |        93         |             0.01 (.00037)             |
-|         Neptunium-238         |        93         |               10 (.37)                |
-|         Neptunium-239         |        93         |               100 (3.7)               |
-|         Neptunium-240         |        93         |               100 (3.7)               |
-|           Nickel-56           |        28         |               10 (.37)                |
-|           Nickel-57           |        28         |               10 (.37)                |
-|           Nickel-59           |        28         |               100 (3.7)               |
-|           Nickel-63           |        28         |               100 (3.7)               |
-|           Nickel-65           |        28         |               100 (3.7)               |
-|           Nickel-66           |        28         |               10 (.37)                |
-|          Niobium-88           |        41         |               100 (3.7)               |
-|     Niobium-89 (122 min)      |        41         |               100 (3.7)               |
-|      Niobium-89 (66 min)      |        41         |               100 (3.7)               |
-|          Niobium-90           |        41         |               10 (.37)                |
-|          Niobium-93m          |        41         |               100 (3.7)               |
-|          Niobium-94           |        41         |               10 (.37)                |
-|          Niobium-95           |        41         |               10 (.37)                |
-|          Niobium-95m          |        41         |               100 (3.7)               |
-|          Niobium-96           |        41         |               10 (.37)                |
-|          Niobium-97           |        41         |               100 (3.7)               |
-|          Niobium-98           |        41         |               1000 (37)               |
-|          Osmium-180           |        76         |               1000 (37)               |
-|          Osmium-181           |        76         |               100 (3.7)               |
-|          Osmium-182           |        76         |               100 (3.7)               |
-|          Osmium-185           |        76         |               10 (.37)                |
-|          Osmium-189m          |        76         |               1000 (37)               |
-|          Osmium-191           |        76         |               100 (3.7)               |
-|          Osmium-191m          |        76         |               1000 (37)               |
-|          Osmium-193           |        76         |               100 (3.7)               |
-|          Osmium-194           |        76         |               1 (.037)                |
-|         Palladium-100         |        46         |               100 (3.7)               |
-|         Palladium-101         |        46         |               100 (3.7)               |
-|         Palladium-103         |        46         |               100 (3.7)               |
-|         Palladium-107         |        46         |               100 (3.7)               |
-|         Palladium-109         |        46         |               1000 (37)               |
-|         Phosphorus-32         |        15         |              0.1 (.0037)              |
-|         Phosphorus-33         |        15         |               1 (.037)                |
-|         Platinum-186          |        78         |               100 (3.7)               |
-|         Platinum-188          |        78         |               100 (3.7)               |
-|         Platinum-189          |        78         |               100 (3.7)               |
-|         Platinum-191          |        78         |               100 (3.7)               |
-|         Platinum-193          |        78         |               1000 (37)               |
-|         Platinum-193m         |        78         |               100 (3.7)               |
-|         Platinum-195m         |        78         |               100 (3.7)               |
-|         Platinum-197          |        78         |               1000 (37)               |
-|         Platinum-197m         |        78         |               1000 (37)               |
-|         Platinum-199          |        78         |               1000 (37)               |
-|         Platinum-200          |        78         |               100 (3.7)               |
-|         Plutonium-234         |        94         |               1000 (37)               |
-|         Plutonium-235         |        94         |               1000 (37)               |
-|         Plutonium-236         |        94         |              0.1 (.0037)              |
-|         Plutonium-237         |        94         |               1000 (37)               |
-|         Plutonium-238         |        94         |             0.01 (.00037)             |
-|         Plutonium-239         |        94         |             0.01 (.00037)             |
-|         Plutonium-240         |        94         |             0.01 (.00037)             |
-|         Plutonium-241         |        94         |               1 (.037)                |
-|         Plutonium-242         |        94         |             0.01 (.00037)             |
-|         Plutonium-243         |        94         |               1000 (37)               |
-|         Plutonium-244         |        94         |             0.01 (.00037)             |
-|         Plutonium-245         |        94         |               100 (3.7)               |
-|         Polonium-203          |        84         |               100 (3.7)               |
-|         Polonium-205          |        84         |               100 (3.7)               |
-|         Polonium-207          |        84         |               10 (.37)                |
-|         Polonium-210          |        84         |             0.01 (.00037)             |
-|         Potassium-40          |        19         |               1 (.037)                |
-|         Potassium-42          |        19         |               100 (3.7)               |
-|         Potassium-43          |        19         |               10 (.37)                |
-|         Potassium-44          |        19         |               100 (3.7)               |
-|         Potassium-45          |        19         |               1000 (37)               |
-|       Praseodymium-136        |        59         |               1000 (37)               |
-|       Praseodymium-137        |        59         |               1000 (37)               |
-|       Praseodymium-138m       |        59         |               100 (3.7)               |
-|       Praseodymium-139        |        59         |               1000 (37)               |
-|       Praseodymium-142        |        59         |               100 (3.7)               |
-|       Praseodymium-142m       |        59         |               1000 (37)               |
-|       Praseodymium-143        |        59         |               10 (.37)                |
-|       Praseodymium-144        |        59         |               1000 (37)               |
-|       Praseodymium-145        |        59         |               1000 (37)               |
-|       Praseodymium-147        |        59         |               1000 (37)               |
-|        Promethium-141         |        61         |               1000 (37)               |
-|        Promethium-143         |        61         |               100 (3.7)               |
-|        Promethium-144         |        61         |               10 (.37)                |
-|        Promethium-145         |        61         |               100 (3.7)               |
-|        Promethium-146         |        61         |               10 (.37)                |
-|        Promethium-147         |        61         |               10 (.37)                |
-|        Promethium-148         |        61         |               10 (.37)                |
-|        Promethium-148m        |        61         |               10 (.37)                |
-|        Promethium-149         |        61         |               100 (3.7)               |
-|        Promethium-150         |        61         |               100 (3.7)               |
-|        Promethium-151         |        61         |               100 (3.7)               |
-|       Protactinium-227        |        91         |               100 (3.7)               |
-|       Protactinium-228        |        91         |               10 (.37)                |
-|       Protactinium-230        |        91         |               10 (.37)                |
-|       Protactinium-231        |        91         |             0.01 (.00037)             |
-|       Protactinium-232        |        91         |               10 (.37)                |
-|       Protactinium-233        |        91         |               100 (3.7)               |
-|       Protactinium-234        |        91         |               10 (.37)                |
-|       RADIONUCLIDES $†        |                   |               1 (.037)                |
-|          Radium-223           |        88         |               1 (.037)                |
-|          Radium-224           |        88         |               10 (.37)                |
-|          Radium-225           |        88         |               1 (.037)                |
-|        Radium-226 \*\*        |        88         |              0.1 (.0037)              |
-|          Radium-227           |        88         |               1000 (37)               |
-|          Radium-228           |        88         |              0.1 (.0037)              |
-|           Radon-220           |        86         |              0.1 (.0037)              |
-|           Radon-222           |        86         |              0.1 (.0037)              |
-|          Rhenium-177          |        75         |               1000 (37)               |
-|          Rhenium-178          |        75         |               1000 (37)               |
-|          Rhenium-181          |        75         |               100 (3.7)               |
-|     Rhenium-182 (12.7 hr)     |        75         |               10 (.37)                |
-|     Rhenium-182 (64.0 hr)     |        75         |               10 (.37)                |
-|          Rhenium-184          |        75         |               10 (.37)                |
-|         Rhenium-184m          |        75         |               10 (.37)                |
-|          Rhenium-186          |        75         |               100 (3.7)               |
-|         Rhenium-186m          |        75         |               10 (.37)                |
-|          Rhenium-187          |        75         |               1000 (37)               |
-|          Rhenium-188          |        75         |               1000 (37)               |
-|         Rhenium-188m          |        75         |               1000 (37)               |
-|          Rhenium-189          |        75         |               1000 (37)               |
-|          Rhodium-100          |        45         |               10 (.37)                |
-|          Rhodium-101          |        45         |               10 (.37)                |
-|         Rhodium-101m          |        45         |               100 (3.7)               |
-|          Rhodium-102          |        45         |               10 (.37)                |
-|         Rhodium-102m          |        45         |               10 (.37)                |
-|         Rhodium-103m          |        45         |               1000 (37)               |
-|          Rhodium-105          |        45         |               100 (3.7)               |
-|         Rhodium-106m          |        45         |               10 (.37)                |
-|          Rhodium-107          |        45         |               1000 (37)               |
-|          Rhodium-99           |        45         |               10 (.37)                |
-|          Rhodium-99m          |        45         |               100 (3.7)               |
-|          Rubidium-79          |        37         |               1000 (37)               |
-|          Rubidium-81          |        37         |               100 (3.7)               |
-|         Rubidium-81m          |        37         |               1000 (37)               |
-|         Rubidium-82m          |        37         |               10 (.37)                |
-|          Rubidium-83          |        37         |               10 (.37)                |
-|          Rubidium-84          |        37         |               10 (.37)                |
-|          Rubidium-86          |        37         |               10 (.37)                |
-|          Rubidium-87          |        37         |               10 (.37)                |
-|          Rubidium-88          |        37         |               1000 (37)               |
-|          Rubidium-89          |        37         |               1000 (37)               |
-|         Ruthenium-103         |        44         |               10 (.37)                |
-|         Ruthenium-105         |        44         |               100 (3.7)               |
-|         Ruthenium-106         |        44         |               1 (.037)                |
-|         Ruthenium-94          |        44         |               1000 (37)               |
-|         Ruthenium-97          |        44         |               100 (3.7)               |
-|         Samarium-141          |        62         |               1000 (37)               |
-|         Samarium-141m         |        62         |               1000 (37)               |
-|         Samarium-142          |        62         |               1000 (37)               |
-|         Samarium-145          |        62         |               100 (3.7)               |
-|         Samarium-146          |        62         |             0.01 (.00037)             |
-|         Samarium-147          |        62         |             0.01 (.00037)             |
-|         Samarium-151          |        62         |               10 (.37)                |
-|         Samarium-153          |        62         |               100 (3.7)               |
-|         Samarium-155          |        62         |               1000 (37)               |
-|         Samarium-156          |        62         |               100 (3.7)               |
-|          Scandium-43          |        21         |               1000 (37)               |
-|          Scandium-44          |        21         |               100 (3.7)               |
-|         Scandium-44m          |        21         |               10 (.37)                |
-|          Scandium-46          |        21         |               10 (.37)                |
-|          Scandium-47          |        21         |               100 (3.7)               |
-|          Scandium-48          |        21         |               10 (.37)                |
-|          Scandium-49          |        21         |               1000 (37)               |
-|          Selenium-70          |        34         |               1000 (37)               |
-|          Selenium-73          |        34         |               10 (.37)                |
-|         Selenium-73m          |        34         |               100 (3.7)               |
-|          Selenium-75          |        34         |               10 (.37)                |
-|          Selenium-79          |        34         |               10 (.37)                |
-|          Selenium-81          |        34         |               1000 (37)               |
-|         Selenium-81m          |        34         |               1000 (37)               |
-|          Selenium-83          |        34         |               1000 (37)               |
-|          Silicon-31           |        14         |               1000 (37)               |
-|          Silicon-32           |        14         |               1 (.037)                |
-|          Silver-102           |        47         |               100 (3.7)               |
-|          Silver-103           |        47         |               1000 (37)               |
-|          Silver-104           |        47         |               1000 (37)               |
-|          Silver-104m          |        47         |               1000 (37)               |
-|          Silver-105           |        47         |               10 (.37)                |
-|          Silver-106           |        47         |               1000 (37)               |
-|          Silver-106m          |        47         |               10 (.37)                |
-|          Silver-108m          |        47         |               10 (.37)                |
-|          Silver-110m          |        47         |               10 (.37)                |
-|          Silver-111           |        47         |               10 (.37)                |
-|          Silver-112           |        47         |               100 (3.7)               |
-|          Silver-115           |        47         |               1000 (37)               |
-|           Sodium-22           |        11         |               10 (.37)                |
-|           Sodium-24           |        11         |               10 (.37)                |
-|         Strontium-80          |        38         |               100 (3.7)               |
-|         Strontium-81          |        38         |               1000 (37)               |
-|         Strontium-83          |        38         |               100 (3.7)               |
-|         Strontium-85          |        38         |               10 (.37)                |
-|         Strontium-85m         |        38         |               1000 (37)               |
-|         Strontium-87m         |        38         |               100 (3.7)               |
-|         Strontium-89          |        38         |               10 (.37)                |
-|         Strontium-90          |        38         |              0.1 (.0037)              |
-|         Strontium-91          |        38         |               10 (.37)                |
-|         Strontium-92          |        38         |               100 (3.7)               |
-|           Sulfur-35           |        16         |               1 (.037)                |
-|         Tantalum-172          |        73         |               100 (3.7)               |
-|         Tantalum-173          |        73         |               100 (3.7)               |
-|         Tantalum-174          |        73         |               100 (3.7)               |
-|         Tantalum-175          |        73         |               100 (3.7)               |
-|         Tantalum-176          |        73         |               10 (.37)                |
-|         Tantalum-177          |        73         |               1000 (37)               |
-|         Tantalum-178          |        73         |               1000 (37)               |
-|         Tantalum-179          |        73         |               1000 (37)               |
-|         Tantalum-180          |        73         |               100 (3.7)               |
-|         Tantalum-180m         |        73         |               1000 (37)               |
-|         Tantalum-182          |        73         |               10 (.37)                |
-|         Tantalum-182m         |        73         |               1000 (37)               |
-|         Tantalum-183          |        73         |               100 (3.7)               |
-|         Tantalum-184          |        73         |               10 (.37)                |
-|         Tantalum-185          |        73         |               1000 (37)               |
-|         Tantalum-186          |        73         |               1000 (37)               |
-|        Technetium-101         |        43         |               1000 (37)               |
-|        Technetium-104         |        43         |               1000 (37)               |
-|         Technetium-93         |        43         |               100 (3.7)               |
-|        Technetium-93m         |        43         |               1000 (37)               |
-|         Technetium-94         |        43         |               10 (.37)                |
-|        Technetium-94m         |        43         |               100 (3.7)               |
-|         Technetium-96         |        43         |               10 (.37)                |
-|        Technetium-96m         |        43         |               1000 (37)               |
-|         Technetium-97         |        43         |               100 (3.7)               |
-|        Technetium-97m         |        43         |               100 (3.7)               |
-|         Technetium-98         |        43         |               10 (.37)                |
-|         Technetium-99         |        43         |               10 (.37)                |
-|        Technetium-99m         |        43         |               100 (3.7)               |
-|         Tellurium-116         |        52         |               1000 (37)               |
-|         Tellurium-121         |        52         |               10 (.37)                |
-|        Tellurium-121m         |        52         |               10 (.37)                |
-|         Tellurium-123         |        52         |               10 (.37)                |
-|        Tellurium-123m         |        52         |               10 (.37)                |
-|        Tellurium-125m         |        52         |               10 (.37)                |
-|         Tellurium-127         |        52         |               1000 (37)               |
-|        Tellurium-127m         |        52         |               10 (.37)                |
-|         Tellurium-129         |        52         |               1000 (37)               |
-|        Tellurium-129m         |        52         |               10 (.37)                |
-|         Tellurium-131         |        52         |               1000 (37)               |
-|        Tellurium-131m         |        52         |               10 (.37)                |
-|         Tellurium-132         |        52         |               10 (.37)                |
-|         Tellurium-133         |        52         |               1000 (37)               |
-|        Tellurium-133m         |        52         |               1000 (37)               |
-|         Tellurium-134         |        52         |               1000 (37)               |
-|          Terbium-147          |        65         |               100 (3.7)               |
-|          Terbium-149          |        65         |               100 (3.7)               |
-|          Terbium-150          |        65         |               100 (3.7)               |
-|          Terbium-151          |        65         |               10 (.37)                |
-|          Terbium-153          |        65         |               100 (3.7)               |
-|          Terbium-154          |        65         |               10 (.37)                |
-|          Terbium-155          |        65         |               100 (3.7)               |
-|          Terbium-156          |        65         |               10 (.37)                |
-|    Terbium-156m (24.4 hr)     |        65         |               1000 (37)               |
-|     Terbium-156m (5.0 hr)     |        65         |               1000 (37)               |
-|          Terbium-157          |        65         |               100 (3.7)               |
-|          Terbium-158          |        65         |               10 (.37)                |
-|          Terbium-160          |        65         |               10 (.37)                |
-|          Terbium-161          |        65         |               100 (3.7)               |
-|         Thallium-194          |        81         |               1000 (37)               |
-|         Thallium-194m         |        81         |               100 (3.7)               |
-|         Thallium-195          |        81         |               100 (3.7)               |
-|         Thallium-197          |        81         |               100 (3.7)               |
-|         Thallium-198          |        81         |               10 (.37)                |
-|         Thallium-198m         |        81         |               100 (3.7)               |
-|         Thallium-199          |        81         |               100 (3.7)               |
-|         Thallium-200          |        81         |               10 (.37)                |
-|         Thallium-201          |        81         |               1000 (37)               |
-|         Thallium-202          |        81         |               10 (.37)                |
-|         Thallium-204          |        81         |               10 (.37)                |
-|     Thorium (Irradiated)      |        90         |                \*\*\*                 |
-|       Thorium (Natural)       |        90         |                 \*\*                  |
-|          Thorium-226          |        90         |               100 (3.7)               |
-|          Thorium-227          |        90         |               1 (.037)                |
-|          Thorium-228          |        90         |             0.01 (.00037)             |
-|          Thorium-229          |        90         |            0.001 (.000037)            |
-|          Thorium-230          |        90         |             0.01 (.00037)             |
-|          Thorium-231          |        90         |               100 (3.7)               |
-|       Thorium-232 \*\*        |        90         |            0.001 (.000037)            |
-|          Thorium-234          |        90         |               100 (3.7)               |
-|          Thulium-162          |        69         |               1000 (37)               |
-|          Thulium-166          |        69         |               10 (.37)                |
-|          Thulium-167          |        69         |               100 (3.7)               |
-|          Thulium-170          |        69         |               10 (.37)                |
-|          Thulium-171          |        69         |               100 (3.7)               |
-|          Thulium-172          |        69         |               100 (3.7)               |
-|          Thulium-173          |        69         |               100 (3.7)               |
-|          Thulium-175          |        69         |               1000 (37)               |
-|            Tin-110            |        50         |               100 (3.7)               |
-|            Tin-111            |        50         |               1000 (37)               |
-|            Tin-113            |        50         |               10 (.37)                |
-|           Tin-117m            |        50         |               100 (3.7)               |
-|           Tin-119m            |        50         |               10 (.37)                |
-|            Tin-121            |        50         |               1000 (37)               |
-|           Tin-121m            |        50         |               10 (.37)                |
-|            Tin-123            |        50         |               10 (.37)                |
-|           Tin-123m            |        50         |               1000 (37)               |
-|            Tin-125            |        50         |               10 (.37)                |
-|            Tin-126            |        50         |               1 (.037)                |
-|            Tin-127            |        50         |               100 (3.7)               |
-|            Tin-128            |        50         |               1000 (37)               |
-|          Titanium-44          |        22         |               1 (.037)                |
-|          Titanium-45          |        22         |               1000 (37)               |
-|         Tungsten-176          |        74         |               1000 (37)               |
-|         Tungsten-177          |        74         |               100 (3.7)               |
-|         Tungsten-178          |        74         |               100 (3.7)               |
-|         Tungsten-179          |        74         |               1000 (37)               |
-|         Tungsten-181          |        74         |               100 (3.7)               |
-|         Tungsten-185          |        74         |               10 (.37)                |
-|         Tungsten-187          |        74         |               100 (3.7)               |
-|         Tungsten-188          |        74         |               10 (.37)                |
-|      Uranium (Depleted)       |        92         |                \*\*\*                 |
-|     Uranium (Irradiated)      |        92         |                \*\*\*                 |
-|       Uranium (Natural)       |        92         |                 \*\*                  |
-|Uranium Enriched 20% or greater|        92         |                \*\*\*                 |
-|Uranium Enriched less than 20% |        92         |                \*\*\*                 |
-|          Uranium-230          |        92         |               1 (.037)                |
-|          Uranium-231          |        92         |               1000 (37)               |
-|          Uranium-232          |        92         |             0.01 (.00037)             |
-|          Uranium-233          |        92         |              0.1 (.0037)              |
-|       Uranium-234 \*\*        |        92         |              0.1 (.0037)              |
-|       Uranium-235 \*\*        |        92         |              0.1 (.0037)              |
-|          Uranium-236          |        92         |              0.1 (.0037)              |
-|          Uranium-237          |        92         |               100 (3.7)               |
-|       Uranium-238 \*\*        |        92         |              0.1 (.0037)              |
-|          Uranium-239          |        92         |               1000 (37)               |
-|          Uranium-240          |        92         |               1000 (37)               |
-|          Vanadium-47          |        23         |               1000 (37)               |
-|          Vanadium-48          |        23         |               10 (.37)                |
-|          Vanadium-49          |        23         |               1000 (37)               |
-|           Xenon-120           |        54         |               100 (3.7)               |
-|           Xenon-121           |        54         |               10 (.37)                |
-|           Xenon-122           |        54         |               100 (3.7)               |
-|           Xenon-123           |        54         |               10 (.37)                |
-|           Xenon-125           |        54         |               100 (3.7)               |
-|           Xenon-127           |        54         |               100 (3.7)               |
-|          Xenon-129m           |        54         |               1000 (37)               |
-|          Xenon-131m           |        54         |               1000 (37)               |
-|           Xenon-133           |        54         |               1000 (37)               |
-|          Xenon-133m           |        54         |               1000 (37)               |
-|           Xenon-135           |        54         |               100 (3.7)               |
-|          Xenon-135m           |        54         |               10 (.37)                |
-|           Xenon-138           |        54         |               10 (.37)                |
-|         Ytterbium-162         |        70         |               1000 (37)               |
-|         Ytterbium-166         |        70         |               10 (.37)                |
-|         Ytterbium-167         |        70         |               1000 (37)               |
-|         Ytterbium-169         |        70         |               10 (.37)                |
-|         Ytterbium-175         |        70         |               100 (3.7)               |
-|         Ytterbium-177         |        70         |               1000 (37)               |
-|         Ytterbium-178         |        70         |               1000 (37)               |
-|          Yttrium-86           |        39         |               10 (.37)                |
-|          Yttrium-86m          |        39         |               1000 (37)               |
-|          Yttrium-87           |        39         |               10 (.37)                |
-|          Yttrium-88           |        39         |               10 (.37)                |
-|          Yttrium-90           |        39         |               10 (.37)                |
-|          Yttrium-90m          |        39         |               100 (3.7)               |
-|          Yttrium-91           |        39         |               10 (.37)                |
-|          Yttrium-91m          |        39         |               1000 (37)               |
-|          Yttrium-92           |        39         |               100 (3.7)               |
-|          Yttrium-93           |        39         |               100 (3.7)               |
-|          Yttrium-94           |        39         |               1000 (37)               |
-|          Yttrium-95           |        39         |               1000 (37)               |
-|            Zinc-62            |        30         |               100 (3.7)               |
-|            Zinc-63            |        30         |               1000 (37)               |
-|            Zinc-65            |        30         |               10 (.37)                |
-|            Zinc-69            |        30         |               1000 (37)               |
-|           Zinc-69m            |        30         |               100 (3.7)               |
-|           Zinc-71m            |        30         |               100 (3.7)               |
-|            Zinc-72            |        30         |               100 (3.7)               |
-|         Zirconium-86          |        40         |               100 (3.7)               |
-|         Zirconium-88          |        40         |               10 (.37)                |
-|         Zirconium-89          |        40         |               100 (3.7)               |
-|         Zirconium-93          |        40         |               1 (.037)                |
-|         Zirconium-95          |        40         |               10 (.37)                |
-|         Zirconium-97          |        40         |               10 (.37)                |
+|       (1)—Radionuclide        |(2)—Atomic Number|(3)—Reportable Quantity (RQ) Ci (TBq)|
+|-------------------------------|-----------------|-------------------------------------|
+|         Actinium-224          |       89        |              100 (3.7)              |
+|         Actinium-225          |       89        |              1 (.037)               |
+|         Actinium-226          |       89        |              10 (.37)               |
+|         Actinium-227          |       89        |           0.001 (.000037)           |
+|         Actinium-228          |       89        |              10 (.37)               |
+|          Aluminum-26          |       13        |              10 (.37)               |
+|         Americium-237         |       95        |              1000 (37)              |
+|         Americium-238         |       95        |              100 (3.7)              |
+|         Americium-239         |       95        |              100 (3.7)              |
+|         Americium-240         |       95        |              10 (.37)               |
+|         Americium-241         |       95        |            0.01 (.00037)            |
+|         Americium-242         |       95        |              100 (3.7)              |
+|        Americium-242m         |       95        |            0.01 (.00037)            |
+|         Americium-243         |       95        |            0.01 (.00037)            |
+|         Americium-244         |       95        |              10 (.37)               |
+|        Americium-244m         |       95        |              1000 (37)              |
+|         Americium-245         |       95        |              1000 (37)              |
+|         Americium-246         |       95        |              1000 (37)              |
+|        Americium-246m         |       95        |              1000 (37)              |
+|         Antimony-115          |       51        |              1000 (37)              |
+|         Antimony-116          |       51        |              1000 (37)              |
+|         Antimony-116m         |       51        |              100 (3.7)              |
+|         Antimony-117          |       51        |              1000 (37)              |
+|         Antimony-118m         |       51        |              10 (.37)               |
+|         Antimony-119          |       51        |              1000 (37)              |
+|     Antimony-120 (16 min)     |       51        |              1000 (37)              |
+|    Antimony-120 (5.76 day)    |       51        |              10 (.37)               |
+|         Antimony-122          |       51        |              10 (.37)               |
+|         Antimony-124          |       51        |              10 (.37)               |
+|         Antimony-124m         |       51        |              1000 (37)              |
+|         Antimony-125          |       51        |              10 (.37)               |
+|         Antimony-126          |       51        |              10 (.37)               |
+|         Antimony-126m         |       51        |              1000 (37)              |
+|         Antimony-127          |       51        |              10 (.37)               |
+|    Antimony-128 (10.4 min)    |       51        |              1000 (37)              |
+|    Antimony-128 (9.01 hr)     |       51        |              10 (.37)               |
+|         Antimony-129          |       51        |              100 (3.7)              |
+|         Antimony-130          |       51        |              100 (3.7)              |
+|         Antimony-131          |       51        |              1000 (37)              |
+|           Argon-39            |       18        |              1000 (37)              |
+|           Argon-41            |       18        |              10 (.37)               |
+|          Arsenic-69           |       33        |              1000 (37)              |
+|          Arsenic-70           |       33        |              100 (3.7)              |
+|          Arsenic-71           |       33        |              100 (3.7)              |
+|          Arsenic-72           |       33        |              10 (.37)               |
+|          Arsenic-73           |       33        |              100 (3.7)              |
+|          Arsenic-74           |       33        |              10 (.37)               |
+|          Arsenic-76           |       33        |              100 (3.7)              |
+|          Arsenic-77           |       33        |              1000 (37)              |
+|          Arsenic-78           |       33        |              100 (3.7)              |
+|         Astatine-207          |       85        |              100 (3.7)              |
+|         Astatine-211          |       85        |              100 (3.7)              |
+|          Barium-126           |       56        |              1000 (37)              |
+|          Barium-128           |       56        |              10 (.37)               |
+|          Barium-131           |       56        |              10 (.37)               |
+|          Barium-131m          |       56        |              1000 (37)              |
+|          Barium-133           |       56        |              10 (.37)               |
+|          Barium-133m          |       56        |              100 (3.7)              |
+|          Barium-135m          |       56        |              1000 (37)              |
+|          Barium-139           |       56        |              1000 (37)              |
+|          Barium-140           |       56        |              10 (.37)               |
+|          Barium-141           |       56        |              1000 (37)              |
+|          Barium-142           |       56        |              1000 (37)              |
+|         Berkelium-245         |       97        |              100 (3.7)              |
+|         Berkelium-246         |       97        |              10 (.37)               |
+|         Berkelium-247         |       97        |            0.01 (.00037)            |
+|         Berkelium-249         |       97        |              1 (.037)               |
+|         Berkelium-250         |       97        |              100 (3.7)              |
+|         Beryllium-10          |        4        |              1 (.037)               |
+|          Beryllium-7          |        4        |              100 (3.7)              |
+|          Bismuth-200          |       83        |              100 (3.7)              |
+|          Bismuth-201          |       83        |              100 (3.7)              |
+|          Bismuth-202          |       83        |              1000 (37)              |
+|          Bismuth-203          |       83        |              10 (.37)               |
+|          Bismuth-205          |       83        |              10 (.37)               |
+|          Bismuth-206          |       83        |              10 (.37)               |
+|          Bismuth-207          |       83        |              10 (.37)               |
+|          Bismuth-210          |       83        |              10 (.37)               |
+|         Bismuth-210m          |       83        |             0.1 (.0037)             |
+|          Bismuth-212          |       83        |              100 (3.7)              |
+|          Bismuth-213          |       83        |              100 (3.7)              |
+|          Bismuth-214          |       83        |              100 (3.7)              |
+|          Bromine-74           |       35        |              100 (3.7)              |
+|          Bromine-74m          |       35        |              100 (3.7)              |
+|          Bromine-75           |       35        |              100 (3.7)              |
+|          Bromine-76           |       35        |              10 (.37)               |
+|          Bromine-77           |       35        |              100 (3.7)              |
+|          Bromine-80           |       35        |              1000 (37)              |
+|          Bromine-80m          |       35        |              1000 (37)              |
+|          Bromine-82           |       35        |              10 (.37)               |
+|          Bromine-83           |       35        |              1000 (37)              |
+|          Bromine-84           |       35        |              100 (3.7)              |
+|          Cadmium-104          |       48        |              1000 (37)              |
+|          Cadmium-107          |       48        |              1000 (37)              |
+|          Cadmium-109          |       48        |              1 (.037)               |
+|          Cadmium-113          |       48        |             0.1 (.0037)             |
+|         Cadmium-113m          |       48        |             0.1 (.0037)             |
+|          Cadmium-115          |       48        |              100 (3.7)              |
+|         Cadmium-115m          |       48        |              10 (.37)               |
+|          Cadmium-117          |       48        |              100 (3.7)              |
+|         Cadmium-117m          |       48        |              10 (.37)               |
+|          Calcium-41           |       20        |              10 (.37)               |
+|          Calcium-45           |       20        |              10 (.37)               |
+|          Calcium-47           |       20        |              10 (.37)               |
+|        Californium-244        |       98        |              1000 (37)              |
+|        Californium-246        |       98        |              10 (.37)               |
+|        Californium-248        |       98        |             0.1 (.0037)             |
+|        Californium-249        |       98        |            0.01 (.00037)            |
+|        Californium-250        |       98        |            0.01 (.00037)            |
+|        Californium-251        |       98        |            0.01 (.00037)            |
+|        Californium-252        |       98        |             0.1 (.0037)             |
+|        Californium-253        |       98        |              10 (.37)               |
+|        Californium-254        |       98        |             0.1 (.0037)             |
+|           Carbon-11           |        6        |              1000 (37)              |
+|           Carbon-14           |        6        |              10 (.37)               |
+|          Cerium-134           |       58        |              10 (.37)               |
+|          Cerium-135           |       58        |              10 (.37)               |
+|          Cerium-137           |       58        |              1000 (37)              |
+|          Cerium-137m          |       58        |              100 (3.7)              |
+|          Cerium-139           |       58        |              100 (3.7)              |
+|          Cerium-141           |       58        |              10 (.37)               |
+|          Cerium-143           |       58        |              100 (3.7)              |
+|          Cerium-144           |       58        |              1 (.037)               |
+|          Cesium-125           |       55        |              1000 (37)              |
+|          Cesium-127           |       55        |              100 (3.7)              |
+|          Cesium-129           |       55        |              100 (3.7)              |
+|          Cesium-130           |       55        |              1000 (37)              |
+|          Cesium-131           |       55        |              1000 (37)              |
+|          Cesium-132           |       55        |              10 (.37)               |
+|          Cesium-134           |       55        |              1 (.037)               |
+|          Cesium-134m          |       55        |              1000 (37)              |
+|          Cesium-135           |       55        |              10 (.37)               |
+|          Cesium-135m          |       55        |              100 (3.7)              |
+|          Cesium-136           |       55        |              10 (.37)               |
+|          Cesium-137           |       55        |              1 (.037)               |
+|          Cesium-138           |       55        |              100 (3.7)              |
+|          Chlorine-36          |       17        |              10 (.37)               |
+|          Chlorine-38          |       17        |              100 (3.7)              |
+|          Chlorine-39          |       17        |              100 (3.7)              |
+|          Chromium-48          |       24        |              100 (3.7)              |
+|          Chromium-49          |       24        |              1000 (37)              |
+|          Chromium-51          |       24        |              1000 (37)              |
+|           Cobalt-55           |       27        |              10 (.37)               |
+|           Cobalt-56           |       27        |              10 (.37)               |
+|           Cobalt-57           |       27        |              100 (3.7)              |
+|           Cobalt-58           |       27        |              10 (.37)               |
+|          Cobalt-58m           |       27        |              1000 (37)              |
+|           Cobalt-60           |       27        |              10 (.37)               |
+|          Cobalt-60m           |       27        |              1000 (37)              |
+|           Cobalt-61           |       27        |              1000 (37)              |
+|          Cobalt-62m           |       27        |              1000 (37)              |
+|           Copper-60           |       29        |              100 (3.7)              |
+|           Copper-61           |       29        |              100 (3.7)              |
+|           Copper-64           |       29        |              1000 (37)              |
+|           Copper-67           |       29        |              100 (3.7)              |
+|          Curium-238           |       96        |              1000 (37)              |
+|          Curium-240           |       96        |              1 (.037)               |
+|          Curium-241           |       96        |              10 (.37)               |
+|          Curium-242           |       96        |              1 (.037)               |
+|          Curium-243           |       96        |            0.01 (.00037)            |
+|          Curium-244           |       96        |            0.01 (.00037)            |
+|          Curium-245           |       96        |            0.01 (.00037)            |
+|          Curium-246           |       96        |            0.01 (.00037)            |
+|          Curium-247           |       96        |            0.01 (.00037)            |
+|          Curium-248           |       96        |           0.001 (.000037)           |
+|          Curium-249           |       96        |              1000 (37)              |
+|        Dysprosium-155         |       66        |              100 (3.7)              |
+|        Dysprosium-157         |       66        |              100 (3.7)              |
+|        Dysprosium-159         |       66        |              100 (3.7)              |
+|        Dysprosium-165         |       66        |              1000 (37)              |
+|        Dysprosium-166         |       66        |              10 (.37)               |
+|        Einsteinium-250        |       99        |              10 (.37)               |
+|        Einsteinium-251        |       99        |              1000 (37)              |
+|        Einsteinium-253        |       99        |              10 (.37)               |
+|        Einsteinium-254        |       99        |             0.1 (.0037)             |
+|       Einsteinium-254m        |       99        |              1 (.037)               |
+|          Erbium-161           |       68        |              100 (3.7)              |
+|          Erbium-165           |       68        |              1000 (37)              |
+|          Erbium-169           |       68        |              100 (3.7)              |
+|          Erbium-171           |       68        |              100 (3.7)              |
+|          Erbium-172           |       68        |              10 (.37)               |
+|         Europium-145          |       63        |              10 (.37)               |
+|         Europium-146          |       63        |              10 (.37)               |
+|         Europium-147          |       63        |              10 (.37)               |
+|         Europium-148          |       63        |              10 (.37)               |
+|         Europium-149          |       63        |              100 (3.7)              |
+|    Europium-150 (12.6 hr)     |       63        |              1000 (37)              |
+|    Europium-150 (34.2 yr)     |       63        |              10 (.37)               |
+|         Europium-152          |       63        |              10 (.37)               |
+|         Europium-152m         |       63        |              100 (3.7)              |
+|         Europium-154          |       63        |              10 (.37)               |
+|         Europium-155          |       63        |              10 (.37)               |
+|         Europium-156          |       63        |              10 (.37)               |
+|         Europium-157          |       63        |              10 (.37)               |
+|         Europium-158          |       63        |              1000 (37)              |
+|          Fermium-252          |       100       |              10 (.37)               |
+|          Fermium-253          |       100       |              10 (.37)               |
+|          Fermium-254          |       100       |              100 (3.7)              |
+|          Fermium-255          |       100       |              100 (3.7)              |
+|          Fermium-257          |       100       |              1 (.037)               |
+|          Fluorine-18          |        9        |              1000 (37)              |
+|         Francium-222          |       87        |              100 (3.7)              |
+|         Francium-223          |       87        |              100 (3.7)              |
+|        Gadolinium-145         |       64        |              100 (3.7)              |
+|        Gadolinium-146         |       64        |              10 (.37)               |
+|        Gadolinium-147         |       64        |              10 (.37)               |
+|        Gadolinium-148         |       64        |           0.001 (.000037)           |
+|        Gadolinium-149         |       64        |              100 (3.7)              |
+|        Gadolinium-151         |       64        |              100 (3.7)              |
+|        Gadolinium-152         |       64        |           0.001 (.000037)           |
+|        Gadolinium-153         |       64        |              10 (.37)               |
+|        Gadolinium-159         |       64        |              1000 (37)              |
+|          Gallium-65           |       31        |              1000 (37)              |
+|          Gallium-66           |       31        |              10 (.37)               |
+|          Gallium-67           |       31        |              100 (3.7)              |
+|          Gallium-68           |       31        |              1000 (37)              |
+|          Gallium-70           |       31        |              1000 (37)              |
+|          Gallium-72           |       31        |              10 (.37)               |
+|          Gallium-73           |       31        |              100 (3.7)              |
+|         Germanium-66          |       32        |              100 (3.7)              |
+|         Germanium-67          |       32        |              1000 (37)              |
+|         Germanium-68          |       32        |              10 (.37)               |
+|         Germanium-69          |       32        |              10 (.37)               |
+|         Germanium-71          |       32        |              1000 (37)              |
+|         Germanium-75          |       32        |              1000 (37)              |
+|         Germanium-77          |       32        |              10 (.37)               |
+|         Germanium-78          |       32        |              1000 (37)              |
+|           Gold-193            |       79        |              100 (3.7)              |
+|           Gold-194            |       79        |              10 (.37)               |
+|           Gold-195            |       79        |              100 (3.7)              |
+|           Gold-198            |       79        |              100 (3.7)              |
+|           Gold-198m           |       79        |              10 (.37)               |
+|           Gold-199            |       79        |              100 (3.7)              |
+|           Gold-200            |       79        |              1000 (37)              |
+|           Gold-200m           |       79        |              10 (.37)               |
+|           Gold-201            |       79        |              1000 (37)              |
+|          Hafnium-170          |       72        |              100 (3.7)              |
+|          Hafnium-172          |       72        |              1 (.037)               |
+|          Hafnium-173          |       72        |              100 (3.7)              |
+|          Hafnium-175          |       72        |              100 (3.7)              |
+|         Hafnium-177m          |       72        |              1000 (37)              |
+|         Hafnium-178m          |       72        |             0.1 (.0037)             |
+|         Hafnium-179m          |       72        |              100 (3.7)              |
+|         Hafnium-180m          |       72        |              100 (3.7)              |
+|          Hafnium-181          |       72        |              10 (.37)               |
+|          Hafnium-182          |       72        |             0.1 (.0037)             |
+|         Hafnium-182m          |       72        |              100 (3.7)              |
+|          Hafnium-183          |       72        |              100 (3.7)              |
+|          Hafnium-184          |       72        |              100 (3.7)              |
+|          Holmium-155          |       67        |              1000 (37)              |
+|          Holmium-157          |       67        |              1000 (37)              |
+|          Holmium-159          |       67        |              1000 (37)              |
+|          Holmium-161          |       67        |              1000 (37)              |
+|          Holmium-162          |       67        |              1000 (37)              |
+|         Holmium-162m          |       67        |              1000 (37)              |
+|          Holmium-164          |       67        |              1000 (37)              |
+|         Holmium-164m          |       67        |              1000 (37)              |
+|          Holmium-166          |       67        |              100 (3.7)              |
+|         Holmium-166m          |       67        |              1 (.037)               |
+|          Holmium-167          |       67        |              100 (3.7)              |
+|          Hydrogen-3           |        1        |              100 (3.7)              |
+|          Indium-109           |       49        |              100 (3.7)              |
+|      Indium-110 (4.9 hr)      |       49        |              10 (.37)               |
+|     Indium-110 (69.1 min)     |       49        |              100 (3.7)              |
+|          Indium-111           |       49        |              100 (3.7)              |
+|          Indium-112           |       49        |              1000 (37)              |
+|          Indium-113m          |       49        |              1000 (37)              |
+|          Indium-114m          |       49        |              10 (.37)               |
+|          Indium-115           |       49        |             0.1 (.0037)             |
+|          Indium-115m          |       49        |              100 (3.7)              |
+|          Indium-116m          |       49        |              100 (3.7)              |
+|          Indium-117           |       49        |              1000 (37)              |
+|          Indium-117m          |       49        |              100 (3.7)              |
+|          Indium-119m          |       49        |              1000 (37)              |
+|          Iodine-120           |       53        |              10 (.37)               |
+|          Iodine-120m          |       53        |              100 (3.7)              |
+|          Iodine-121           |       53        |              100 (3.7)              |
+|          Iodine-123           |       53        |              10 (.37)               |
+|          Iodine-124           |       53        |             0.1 (.0037)             |
+|          Iodine-125           |       53        |            0.01 (.00037)            |
+|          Iodine-126           |       53        |            0.01 (.00037)            |
+|          Iodine-128           |       53        |              1000 (37)              |
+|          Iodine-129           |       53        |           0.001 (.000037)           |
+|          Iodine-130           |       53        |              1 (.037)               |
+|          Iodine-131           |       53        |            0.01 (.00037)            |
+|          Iodine-132           |       53        |              10 (.37)               |
+|          Iodine-132m          |       53        |              10 (.37)               |
+|          Iodine-133           |       53        |             0.1 (.0037)             |
+|          Iodine-134           |       53        |              100 (3.7)              |
+|          Iodine-135           |       53        |              10 (.37)               |
+|          Iridium-182          |       77        |              1000 (37)              |
+|          Iridium-184          |       77        |              100 (3.7)              |
+|          Iridium-185          |       77        |              100 (3.7)              |
+|          Iridium-186          |       77        |              10 (.37)               |
+|          Iridium-187          |       77        |              100 (3.7)              |
+|          Iridium-188          |       77        |              10 (.37)               |
+|          Iridium-189          |       77        |              100 (3.7)              |
+|          Iridium-190          |       77        |              10 (.37)               |
+|         Iridium-190m          |       77        |              1000 (37)              |
+|          Iridium-192          |       77        |              10 (.37)               |
+|         Iridium-192m          |       77        |              100 (3.7)              |
+|          Iridium-194          |       77        |              100 (3.7)              |
+|         Iridium-194m          |       77        |              10 (.37)               |
+|          Iridium-195          |       77        |              1000 (37)              |
+|         Iridium-195m          |       77        |              100 (3.7)              |
+|            Iron-52            |       26        |              100 (3.7)              |
+|            Iron-55            |       26        |              100 (3.7)              |
+|            Iron-59            |       26        |              10 (.37)               |
+|            Iron-60            |       26        |             0.1 (.0037)             |
+|          Krypton-74           |       36        |              10 (.37)               |
+|          Krypton-76           |       36        |              10 (.37)               |
+|          Krypton-77           |       36        |              10 (.37)               |
+|          Krypton-79           |       36        |              100 (3.7)              |
+|          Krypton-81           |       36        |              1000 (37)              |
+|          Krypton-83m          |       36        |              1000 (37)              |
+|          Krypton-85           |       36        |              1000 (37)              |
+|          Krypton-85m          |       36        |              100 (3.7)              |
+|          Krypton-87           |       36        |              10 (.37)               |
+|          Krypton-88           |       36        |              10 (.37)               |
+|         Lanthanum-131         |       57        |              1000 (37)              |
+|         Lanthanum-132         |       57        |              100 (3.7)              |
+|         Lanthanum-135         |       57        |              1000 (37)              |
+|         Lanthanum-137         |       57        |              10 (.37)               |
+|         Lanthanum-138         |       57        |              1 (.037)               |
+|         Lanthanum-140         |       57        |              10 (.37)               |
+|         Lanthanum-141         |       57        |              1000 (37)              |
+|         Lanthanum-142         |       57        |              100 (3.7)              |
+|         Lanthanum-143         |       57        |              1000 (37)              |
+|           Lead-195m           |       82        |              1000 (37)              |
+|           Lead-198            |       82        |              100 (3.7)              |
+|           Lead-199            |       82        |              100 (3.7)              |
+|           Lead-200            |       82        |              100 (3.7)              |
+|           Lead-201            |       82        |              100 (3.7)              |
+|           Lead-202            |       82        |              1 (.037)               |
+|           Lead-202m           |       82        |              10 (.37)               |
+|           Lead-203            |       82        |              100 (3.7)              |
+|           Lead-205            |       82        |              100 (3.7)              |
+|           Lead-209            |       82        |              1000 (37)              |
+|           Lead-210            |       82        |            0.01 (.00037)            |
+|           Lead-211            |       82        |              100 (3.7)              |
+|           Lead-212            |       82        |              10 (.37)               |
+|           Lead-214            |       82        |              100 (3.7)              |
+|         Lutetium-169          |       71        |              10 (.37)               |
+|         Lutetium-170          |       71        |              10 (.37)               |
+|         Lutetium-171          |       71        |              10 (.37)               |
+|         Lutetium-172          |       71        |              10 (.37)               |
+|         Lutetium-173          |       71        |              100 (3.7)              |
+|         Lutetium-174          |       71        |              10 (.37)               |
+|         Lutetium-174m         |       71        |              10 (.37)               |
+|         Lutetium-176          |       71        |              1 (.037)               |
+|         Lutetium-176m         |       71        |              1000 (37)              |
+|         Lutetium-177          |       71        |              100 (3.7)              |
+|         Lutetium-177m         |       71        |              10 (.37)               |
+|         Lutetium-178          |       71        |              1000 (37)              |
+|         Lutetium-178m         |       71        |              1000 (37)              |
+|         Lutetium-179          |       71        |              1000 (37)              |
+|         Magnesium-28          |       12        |              10 (.37)               |
+|         Manganese-51          |       25        |              1000 (37)              |
+|         Manganese-52          |       25        |              10 (.37)               |
+|         Manganese-52m         |       25        |              1000 (37)              |
+|         Manganese-53          |       25        |              1000 (37)              |
+|         Manganese-54          |       25        |              10 (.37)               |
+|         Manganese-56          |       25        |              100 (3.7)              |
+|        Mendelevium-257        |       101       |              100 (3.7)              |
+|        Mendelevium-258        |       101       |              1 (.037)               |
+|          Mercury-193          |       80        |              100 (3.7)              |
+|         Mercury-193m          |       80        |              10 (.37)               |
+|          Mercury-194          |       80        |             0.1 (.0037)             |
+|          Mercury-195          |       80        |              100 (3.7)              |
+|         Mercury-195m          |       80        |              100 (3.7)              |
+|          Mercury-197          |       80        |              1000 (37)              |
+|         Mercury-197m          |       80        |              1000 (37)              |
+|         Mercury-199m          |       80        |              1000 (37)              |
+|          Mercury-203          |       80        |              10 (.37)               |
+|        Molybdenum-101         |       42        |              1000 (37)              |
+|         Molybdenum-90         |       42        |              100 (3.7)              |
+|         Molybdenum-93         |       42        |              100 (3.7)              |
+|        Molybdenum-93m         |       42        |              10 (.37)               |
+|         Molybdenum-99         |       42        |              100 (3.7)              |
+|         Neodymium-136         |       60        |              1000 (37)              |
+|         Neodymium-138         |       60        |              1000 (37)              |
+|         Neodymium-139         |       60        |              1000 (37)              |
+|        Neodymium-139m         |       60        |              100 (3.7)              |
+|         Neodymium-141         |       60        |              1000 (37)              |
+|         Neodymium-147         |       60        |              10 (.37)               |
+|         Neodymium-149         |       60        |              100 (3.7)              |
+|         Neodymium-151         |       60        |              1000 (37)              |
+|         Neptunium-232         |       93        |              1000 (37)              |
+|         Neptunium-233         |       93        |              1000 (37)              |
+|         Neptunium-234         |       93        |              10 (.37)               |
+|         Neptunium-235         |       93        |              1000 (37)              |
+|  Neptunium-236 (1.2 E 5 yr)   |       93        |             0.1 (.0037)             |
+|    Neptunium-236 (22.5 hr)    |       93        |              100 (3.7)              |
+|         Neptunium-237         |       93        |            0.01 (.00037)            |
+|         Neptunium-238         |       93        |              10 (.37)               |
+|         Neptunium-239         |       93        |              100 (3.7)              |
+|         Neptunium-240         |       93        |              100 (3.7)              |
+|           Nickel-56           |       28        |              10 (.37)               |
+|           Nickel-57           |       28        |              10 (.37)               |
+|           Nickel-59           |       28        |              100 (3.7)              |
+|           Nickel-63           |       28        |              100 (3.7)              |
+|           Nickel-65           |       28        |              100 (3.7)              |
+|           Nickel-66           |       28        |              10 (.37)               |
+|          Niobium-88           |       41        |              100 (3.7)              |
+|     Niobium-89 (122 min)      |       41        |              100 (3.7)              |
+|      Niobium-89 (66 min)      |       41        |              100 (3.7)              |
+|          Niobium-90           |       41        |              10 (.37)               |
+|          Niobium-93m          |       41        |              100 (3.7)              |
+|          Niobium-94           |       41        |              10 (.37)               |
+|          Niobium-95           |       41        |              10 (.37)               |
+|          Niobium-95m          |       41        |              100 (3.7)              |
+|          Niobium-96           |       41        |              10 (.37)               |
+|          Niobium-97           |       41        |              100 (3.7)              |
+|          Niobium-98           |       41        |              1000 (37)              |
+|          Osmium-180           |       76        |              1000 (37)              |
+|          Osmium-181           |       76        |              100 (3.7)              |
+|          Osmium-182           |       76        |              100 (3.7)              |
+|          Osmium-185           |       76        |              10 (.37)               |
+|          Osmium-189m          |       76        |              1000 (37)              |
+|          Osmium-191           |       76        |              100 (3.7)              |
+|          Osmium-191m          |       76        |              1000 (37)              |
+|          Osmium-193           |       76        |              100 (3.7)              |
+|          Osmium-194           |       76        |              1 (.037)               |
+|         Palladium-100         |       46        |              100 (3.7)              |
+|         Palladium-101         |       46        |              100 (3.7)              |
+|         Palladium-103         |       46        |              100 (3.7)              |
+|         Palladium-107         |       46        |              100 (3.7)              |
+|         Palladium-109         |       46        |              1000 (37)              |
+|         Phosphorus-32         |       15        |             0.1 (.0037)             |
+|         Phosphorus-33         |       15        |              1 (.037)               |
+|         Platinum-186          |       78        |              100 (3.7)              |
+|         Platinum-188          |       78        |              100 (3.7)              |
+|         Platinum-189          |       78        |              100 (3.7)              |
+|         Platinum-191          |       78        |              100 (3.7)              |
+|         Platinum-193          |       78        |              1000 (37)              |
+|         Platinum-193m         |       78        |              100 (3.7)              |
+|         Platinum-195m         |       78        |              100 (3.7)              |
+|         Platinum-197          |       78        |              1000 (37)              |
+|         Platinum-197m         |       78        |              1000 (37)              |
+|         Platinum-199          |       78        |              1000 (37)              |
+|         Platinum-200          |       78        |              100 (3.7)              |
+|         Plutonium-234         |       94        |              1000 (37)              |
+|         Plutonium-235         |       94        |              1000 (37)              |
+|         Plutonium-236         |       94        |             0.1 (.0037)             |
+|         Plutonium-237         |       94        |              1000 (37)              |
+|         Plutonium-238         |       94        |            0.01 (.00037)            |
+|         Plutonium-239         |       94        |            0.01 (.00037)            |
+|         Plutonium-240         |       94        |            0.01 (.00037)            |
+|         Plutonium-241         |       94        |              1 (.037)               |
+|         Plutonium-242         |       94        |            0.01 (.00037)            |
+|         Plutonium-243         |       94        |              1000 (37)              |
+|         Plutonium-244         |       94        |            0.01 (.00037)            |
+|         Plutonium-245         |       94        |              100 (3.7)              |
+|         Polonium-203          |       84        |              100 (3.7)              |
+|         Polonium-205          |       84        |              100 (3.7)              |
+|         Polonium-207          |       84        |              10 (.37)               |
+|         Polonium-210          |       84        |            0.01 (.00037)            |
+|         Potassium-40          |       19        |              1 (.037)               |
+|         Potassium-42          |       19        |              100 (3.7)              |
+|         Potassium-43          |       19        |              10 (.37)               |
+|         Potassium-44          |       19        |              100 (3.7)              |
+|         Potassium-45          |       19        |              1000 (37)              |
+|       Praseodymium-136        |       59        |              1000 (37)              |
+|       Praseodymium-137        |       59        |              1000 (37)              |
+|       Praseodymium-138m       |       59        |              100 (3.7)              |
+|       Praseodymium-139        |       59        |              1000 (37)              |
+|       Praseodymium-142        |       59        |              100 (3.7)              |
+|       Praseodymium-142m       |       59        |              1000 (37)              |
+|       Praseodymium-143        |       59        |              10 (.37)               |
+|       Praseodymium-144        |       59        |              1000 (37)              |
+|       Praseodymium-145        |       59        |              1000 (37)              |
+|       Praseodymium-147        |       59        |              1000 (37)              |
+|        Promethium-141         |       61        |              1000 (37)              |
+|        Promethium-143         |       61        |              100 (3.7)              |
+|        Promethium-144         |       61        |              10 (.37)               |
+|        Promethium-145         |       61        |              100 (3.7)              |
+|        Promethium-146         |       61        |              10 (.37)               |
+|        Promethium-147         |       61        |              10 (.37)               |
+|        Promethium-148         |       61        |              10 (.37)               |
+|        Promethium-148m        |       61        |              10 (.37)               |
+|        Promethium-149         |       61        |              100 (3.7)              |
+|        Promethium-150         |       61        |              100 (3.7)              |
+|        Promethium-151         |       61        |              100 (3.7)              |
+|       Protactinium-227        |       91        |              100 (3.7)              |
+|       Protactinium-228        |       91        |              10 (.37)               |
+|       Protactinium-230        |       91        |              10 (.37)               |
+|       Protactinium-231        |       91        |            0.01 (.00037)            |
+|       Protactinium-232        |       91        |              10 (.37)               |
+|       Protactinium-233        |       91        |              100 (3.7)              |
+|       Protactinium-234        |       91        |              10 (.37)               |
+|       RADIONUCLIDES $†        |                 |              1 (.037)               |
+|          Radium-223           |       88        |              1 (.037)               |
+|          Radium-224           |       88        |              10 (.37)               |
+|          Radium-225           |       88        |              1 (.037)               |
+|        Radium-226 \*\*        |       88        |             0.1 (.0037)             |
+|          Radium-227           |       88        |              1000 (37)              |
+|          Radium-228           |       88        |             0.1 (.0037)             |
+|           Radon-220           |       86        |             0.1 (.0037)             |
+|           Radon-222           |       86        |             0.1 (.0037)             |
+|          Rhenium-177          |       75        |              1000 (37)              |
+|          Rhenium-178          |       75        |              1000 (37)              |
+|          Rhenium-181          |       75        |              100 (3.7)              |
+|     Rhenium-182 (12.7 hr)     |       75        |              10 (.37)               |
+|     Rhenium-182 (64.0 hr)     |       75        |              10 (.37)               |
+|          Rhenium-184          |       75        |              10 (.37)               |
+|         Rhenium-184m          |       75        |              10 (.37)               |
+|          Rhenium-186          |       75        |              100 (3.7)              |
+|         Rhenium-186m          |       75        |              10 (.37)               |
+|          Rhenium-187          |       75        |              1000 (37)              |
+|          Rhenium-188          |       75        |              1000 (37)              |
+|         Rhenium-188m          |       75        |              1000 (37)              |
+|          Rhenium-189          |       75        |              1000 (37)              |
+|          Rhodium-100          |       45        |              10 (.37)               |
+|          Rhodium-101          |       45        |              10 (.37)               |
+|         Rhodium-101m          |       45        |              100 (3.7)              |
+|          Rhodium-102          |       45        |              10 (.37)               |
+|         Rhodium-102m          |       45        |              10 (.37)               |
+|         Rhodium-103m          |       45        |              1000 (37)              |
+|          Rhodium-105          |       45        |              100 (3.7)              |
+|         Rhodium-106m          |       45        |              10 (.37)               |
+|          Rhodium-107          |       45        |              1000 (37)              |
+|          Rhodium-99           |       45        |              10 (.37)               |
+|          Rhodium-99m          |       45        |              100 (3.7)              |
+|          Rubidium-79          |       37        |              1000 (37)              |
+|          Rubidium-81          |       37        |              100 (3.7)              |
+|         Rubidium-81m          |       37        |              1000 (37)              |
+|         Rubidium-82m          |       37        |              10 (.37)               |
+|          Rubidium-83          |       37        |              10 (.37)               |
+|          Rubidium-84          |       37        |              10 (.37)               |
+|          Rubidium-86          |       37        |              10 (.37)               |
+|          Rubidium-87          |       37        |              10 (.37)               |
+|          Rubidium-88          |       37        |              1000 (37)              |
+|          Rubidium-89          |       37        |              1000 (37)              |
+|         Ruthenium-103         |       44        |              10 (.37)               |
+|         Ruthenium-105         |       44        |              100 (3.7)              |
+|         Ruthenium-106         |       44        |              1 (.037)               |
+|         Ruthenium-94          |       44        |              1000 (37)              |
+|         Ruthenium-97          |       44        |              100 (3.7)              |
+|         Samarium-141          |       62        |              1000 (37)              |
+|         Samarium-141m         |       62        |              1000 (37)              |
+|         Samarium-142          |       62        |              1000 (37)              |
+|         Samarium-145          |       62        |              100 (3.7)              |
+|         Samarium-146          |       62        |            0.01 (.00037)            |
+|         Samarium-147          |       62        |            0.01 (.00037)            |
+|         Samarium-151          |       62        |              10 (.37)               |
+|         Samarium-153          |       62        |              100 (3.7)              |
+|         Samarium-155          |       62        |              1000 (37)              |
+|         Samarium-156          |       62        |              100 (3.7)              |
+|          Scandium-43          |       21        |              1000 (37)              |
+|          Scandium-44          |       21        |              100 (3.7)              |
+|         Scandium-44m          |       21        |              10 (.37)               |
+|          Scandium-46          |       21        |              10 (.37)               |
+|          Scandium-47          |       21        |              100 (3.7)              |
+|          Scandium-48          |       21        |              10 (.37)               |
+|          Scandium-49          |       21        |              1000 (37)              |
+|          Selenium-70          |       34        |              1000 (37)              |
+|          Selenium-73          |       34        |              10 (.37)               |
+|         Selenium-73m          |       34        |              100 (3.7)              |
+|          Selenium-75          |       34        |              10 (.37)               |
+|          Selenium-79          |       34        |              10 (.37)               |
+|          Selenium-81          |       34        |              1000 (37)              |
+|         Selenium-81m          |       34        |              1000 (37)              |
+|          Selenium-83          |       34        |              1000 (37)              |
+|          Silicon-31           |       14        |              1000 (37)              |
+|          Silicon-32           |       14        |              1 (.037)               |
+|          Silver-102           |       47        |              100 (3.7)              |
+|          Silver-103           |       47        |              1000 (37)              |
+|          Silver-104           |       47        |              1000 (37)              |
+|          Silver-104m          |       47        |              1000 (37)              |
+|          Silver-105           |       47        |              10 (.37)               |
+|          Silver-106           |       47        |              1000 (37)              |
+|          Silver-106m          |       47        |              10 (.37)               |
+|          Silver-108m          |       47        |              10 (.37)               |
+|          Silver-110m          |       47        |              10 (.37)               |
+|          Silver-111           |       47        |              10 (.37)               |
+|          Silver-112           |       47        |              100 (3.7)              |
+|          Silver-115           |       47        |              1000 (37)              |
+|           Sodium-22           |       11        |              10 (.37)               |
+|           Sodium-24           |       11        |              10 (.37)               |
+|         Strontium-80          |       38        |              100 (3.7)              |
+|         Strontium-81          |       38        |              1000 (37)              |
+|         Strontium-83          |       38        |              100 (3.7)              |
+|         Strontium-85          |       38        |              10 (.37)               |
+|         Strontium-85m         |       38        |              1000 (37)              |
+|         Strontium-87m         |       38        |              100 (3.7)              |
+|         Strontium-89          |       38        |              10 (.37)               |
+|         Strontium-90          |       38        |             0.1 (.0037)             |
+|         Strontium-91          |       38        |              10 (.37)               |
+|         Strontium-92          |       38        |              100 (3.7)              |
+|           Sulfur-35           |       16        |              1 (.037)               |
+|         Tantalum-172          |       73        |              100 (3.7)              |
+|         Tantalum-173          |       73        |              100 (3.7)              |
+|         Tantalum-174          |       73        |              100 (3.7)              |
+|         Tantalum-175          |       73        |              100 (3.7)              |
+|         Tantalum-176          |       73        |              10 (.37)               |
+|         Tantalum-177          |       73        |              1000 (37)              |
+|         Tantalum-178          |       73        |              1000 (37)              |
+|         Tantalum-179          |       73        |              1000 (37)              |
+|         Tantalum-180          |       73        |              100 (3.7)              |
+|         Tantalum-180m         |       73        |              1000 (37)              |
+|         Tantalum-182          |       73        |              10 (.37)               |
+|         Tantalum-182m         |       73        |              1000 (37)              |
+|         Tantalum-183          |       73        |              100 (3.7)              |
+|         Tantalum-184          |       73        |              10 (.37)               |
+|         Tantalum-185          |       73        |              1000 (37)              |
+|         Tantalum-186          |       73        |              1000 (37)              |
+|        Technetium-101         |       43        |              1000 (37)              |
+|        Technetium-104         |       43        |              1000 (37)              |
+|         Technetium-93         |       43        |              100 (3.7)              |
+|        Technetium-93m         |       43        |              1000 (37)              |
+|         Technetium-94         |       43        |              10 (.37)               |
+|        Technetium-94m         |       43        |              100 (3.7)              |
+|         Technetium-96         |       43        |              10 (.37)               |
+|        Technetium-96m         |       43        |              1000 (37)              |
+|         Technetium-97         |       43        |              100 (3.7)              |
+|        Technetium-97m         |       43        |              100 (3.7)              |
+|         Technetium-98         |       43        |              10 (.37)               |
+|         Technetium-99         |       43        |              10 (.37)               |
+|        Technetium-99m         |       43        |              100 (3.7)              |
+|         Tellurium-116         |       52        |              1000 (37)              |
+|         Tellurium-121         |       52        |              10 (.37)               |
+|        Tellurium-121m         |       52        |              10 (.37)               |
+|         Tellurium-123         |       52        |              10 (.37)               |
+|        Tellurium-123m         |       52        |              10 (.37)               |
+|        Tellurium-125m         |       52        |              10 (.37)               |
+|         Tellurium-127         |       52        |              1000 (37)              |
+|        Tellurium-127m         |       52        |              10 (.37)               |
+|         Tellurium-129         |       52        |              1000 (37)              |
+|        Tellurium-129m         |       52        |              10 (.37)               |
+|         Tellurium-131         |       52        |              1000 (37)              |
+|        Tellurium-131m         |       52        |              10 (.37)               |
+|         Tellurium-132         |       52        |              10 (.37)               |
+|         Tellurium-133         |       52        |              1000 (37)              |
+|        Tellurium-133m         |       52        |              1000 (37)              |
+|         Tellurium-134         |       52        |              1000 (37)              |
+|          Terbium-147          |       65        |              100 (3.7)              |
+|          Terbium-149          |       65        |              100 (3.7)              |
+|          Terbium-150          |       65        |              100 (3.7)              |
+|          Terbium-151          |       65        |              10 (.37)               |
+|          Terbium-153          |       65        |              100 (3.7)              |
+|          Terbium-154          |       65        |              10 (.37)               |
+|          Terbium-155          |       65        |              100 (3.7)              |
+|          Terbium-156          |       65        |              10 (.37)               |
+|    Terbium-156m (24.4 hr)     |       65        |              1000 (37)              |
+|     Terbium-156m (5.0 hr)     |       65        |              1000 (37)              |
+|          Terbium-157          |       65        |              100 (3.7)              |
+|          Terbium-158          |       65        |              10 (.37)               |
+|          Terbium-160          |       65        |              10 (.37)               |
+|          Terbium-161          |       65        |              100 (3.7)              |
+|         Thallium-194          |       81        |              1000 (37)              |
+|         Thallium-194m         |       81        |              100 (3.7)              |
+|         Thallium-195          |       81        |              100 (3.7)              |
+|         Thallium-197          |       81        |              100 (3.7)              |
+|         Thallium-198          |       81        |              10 (.37)               |
+|         Thallium-198m         |       81        |              100 (3.7)              |
+|         Thallium-199          |       81        |              100 (3.7)              |
+|         Thallium-200          |       81        |              10 (.37)               |
+|         Thallium-201          |       81        |              1000 (37)              |
+|         Thallium-202          |       81        |              10 (.37)               |
+|         Thallium-204          |       81        |              10 (.37)               |
+|     Thorium (Irradiated)      |       90        |               \*\*\*                |
+|       Thorium (Natural)       |       90        |                \*\*                 |
+|          Thorium-226          |       90        |              100 (3.7)              |
+|          Thorium-227          |       90        |              1 (.037)               |
+|          Thorium-228          |       90        |            0.01 (.00037)            |
+|          Thorium-229          |       90        |           0.001 (.000037)           |
+|          Thorium-230          |       90        |            0.01 (.00037)            |
+|          Thorium-231          |       90        |              100 (3.7)              |
+|       Thorium-232 \*\*        |       90        |           0.001 (.000037)           |
+|          Thorium-234          |       90        |              100 (3.7)              |
+|          Thulium-162          |       69        |              1000 (37)              |
+|          Thulium-166          |       69        |              10 (.37)               |
+|          Thulium-167          |       69        |              100 (3.7)              |
+|          Thulium-170          |       69        |              10 (.37)               |
+|          Thulium-171          |       69        |              100 (3.7)              |
+|          Thulium-172          |       69        |              100 (3.7)              |
+|          Thulium-173          |       69        |              100 (3.7)              |
+|          Thulium-175          |       69        |              1000 (37)              |
+|            Tin-110            |       50        |              100 (3.7)              |
+|            Tin-111            |       50        |              1000 (37)              |
+|            Tin-113            |       50        |              10 (.37)               |
+|           Tin-117m            |       50        |              100 (3.7)              |
+|           Tin-119m            |       50        |              10 (.37)               |
+|            Tin-121            |       50        |              1000 (37)              |
+|           Tin-121m            |       50        |              10 (.37)               |
+|            Tin-123            |       50        |              10 (.37)               |
+|           Tin-123m            |       50        |              1000 (37)              |
+|            Tin-125            |       50        |              10 (.37)               |
+|            Tin-126            |       50        |              1 (.037)               |
+|            Tin-127            |       50        |              100 (3.7)              |
+|            Tin-128            |       50        |              1000 (37)              |
+|          Titanium-44          |       22        |              1 (.037)               |
+|          Titanium-45          |       22        |              1000 (37)              |
+|         Tungsten-176          |       74        |              1000 (37)              |
+|         Tungsten-177          |       74        |              100 (3.7)              |
+|         Tungsten-178          |       74        |              100 (3.7)              |
+|         Tungsten-179          |       74        |              1000 (37)              |
+|         Tungsten-181          |       74        |              100 (3.7)              |
+|         Tungsten-185          |       74        |              10 (.37)               |
+|         Tungsten-187          |       74        |              100 (3.7)              |
+|         Tungsten-188          |       74        |              10 (.37)               |
+|      Uranium (Depleted)       |       92        |               \*\*\*                |
+|     Uranium (Irradiated)      |       92        |               \*\*\*                |
+|       Uranium (Natural)       |       92        |                \*\*                 |
+|Uranium Enriched 20% or greater|       92        |               \*\*\*                |
+|Uranium Enriched less than 20% |       92        |               \*\*\*                |
+|          Uranium-230          |       92        |              1 (.037)               |
+|          Uranium-231          |       92        |              1000 (37)              |
+|          Uranium-232          |       92        |            0.01 (.00037)            |
+|          Uranium-233          |       92        |             0.1 (.0037)             |
+|       Uranium-234 \*\*        |       92        |             0.1 (.0037)             |
+|       Uranium-235 \*\*        |       92        |             0.1 (.0037)             |
+|          Uranium-236          |       92        |             0.1 (.0037)             |
+|          Uranium-237          |       92        |              100 (3.7)              |
+|       Uranium-238 \*\*        |       92        |             0.1 (.0037)             |
+|          Uranium-239          |       92        |              1000 (37)              |
+|          Uranium-240          |       92        |              1000 (37)              |
+|          Vanadium-47          |       23        |              1000 (37)              |
+|          Vanadium-48          |       23        |              10 (.37)               |
+|          Vanadium-49          |       23        |              1000 (37)              |
+|           Xenon-120           |       54        |              100 (3.7)              |
+|           Xenon-121           |       54        |              10 (.37)               |
+|           Xenon-122           |       54        |              100 (3.7)              |
+|           Xenon-123           |       54        |              10 (.37)               |
+|           Xenon-125           |       54        |              100 (3.7)              |
+|           Xenon-127           |       54        |              100 (3.7)              |
+|          Xenon-129m           |       54        |              1000 (37)              |
+|          Xenon-131m           |       54        |              1000 (37)              |
+|           Xenon-133           |       54        |              1000 (37)              |
+|          Xenon-133m           |       54        |              1000 (37)              |
+|           Xenon-135           |       54        |              100 (3.7)              |
+|          Xenon-135m           |       54        |              10 (.37)               |
+|           Xenon-138           |       54        |              10 (.37)               |
+|         Ytterbium-162         |       70        |              1000 (37)              |
+|         Ytterbium-166         |       70        |              10 (.37)               |
+|         Ytterbium-167         |       70        |              1000 (37)              |
+|         Ytterbium-169         |       70        |              10 (.37)               |
+|         Ytterbium-175         |       70        |              100 (3.7)              |
+|         Ytterbium-177         |       70        |              1000 (37)              |
+|         Ytterbium-178         |       70        |              1000 (37)              |
+|          Yttrium-86           |       39        |              10 (.37)               |
+|          Yttrium-86m          |       39        |              1000 (37)              |
+|          Yttrium-87           |       39        |              10 (.37)               |
+|          Yttrium-88           |       39        |              10 (.37)               |
+|          Yttrium-90           |       39        |              10 (.37)               |
+|          Yttrium-90m          |       39        |              100 (3.7)              |
+|          Yttrium-91           |       39        |              10 (.37)               |
+|          Yttrium-91m          |       39        |              1000 (37)              |
+|          Yttrium-92           |       39        |              100 (3.7)              |
+|          Yttrium-93           |       39        |              100 (3.7)              |
+|          Yttrium-94           |       39        |              1000 (37)              |
+|          Yttrium-95           |       39        |              1000 (37)              |
+|            Zinc-62            |       30        |              100 (3.7)              |
+|            Zinc-63            |       30        |              1000 (37)              |
+|            Zinc-65            |       30        |              10 (.37)               |
+|            Zinc-69            |       30        |              1000 (37)              |
+|           Zinc-69m            |       30        |              100 (3.7)              |
+|           Zinc-71m            |       30        |              100 (3.7)              |
+|            Zinc-72            |       30        |              100 (3.7)              |
+|         Zirconium-86          |       40        |              100 (3.7)              |
+|         Zirconium-88          |       40        |              10 (.37)               |
+|         Zirconium-89          |       40        |              100 (3.7)              |
+|         Zirconium-93          |       40        |              1 (.037)               |
+|         Zirconium-95          |       40        |              10 (.37)               |
+|         Zirconium-97          |       40        |              10 (.37)               |
 
 $ The RQs for all radionuclides apply to chemical compounds containing the radionuclides and elemental forms regardless of the diameter of pieces of solid material.
 
-† The RQ of one curie applies to all radionuclides not otherwise listed. Whenever the RQs in TABLE 1 - HAZARDOUS SUBSTANCES OTHER THAN RADIONUCLIDES and this table conflict, the lowest RQ shall apply. For example, uranyl acetate and uranyl nitrate have RQs shown in TABLE 1 of 100 pounds, equivalent to about one-tenth the RQ level for uranium-238 in this table.
+† The RQ of one curie applies to all radionuclides not otherwise listed. Whenever the RQs in TABLE 1—HAZARDOUS SUBSTANCES OTHER THAN RADIONUCLIDES and this table conflict, the lowest RQ shall apply. For example, uranyl acetate and uranyl nitrate have RQs shown in TABLE 1 of 100 pounds, equivalent to about one-tenth the RQ level for uranium-238 in this table.
 
 \*\* The method to determine the RQs for mixtures or solutions of radionuclides can be found in paragraph 7 of the note preceding TABLE 1 of this appendix. RQs for the following four common radionuclide mixtures are provided: radium-226 in secular equilibrium with its daughters (0.053 curie); natural uranium (0.1 curie); natural uranium in secular equilibrium with its daughters (0.052 curie); and natural thorium in secular equilibrium with its daughters (0.011 curie).
 
 \*\*\* Indicates that the name was added by PHMSA because it appears in the list of radionuclides in 49 CFR 173.435. The reportable quantity (RQ), if not specifically listed elsewhere in this appendix, shall be determined in accordance with the procedures in paragraph 7 of this appendix.
 
-Appendix B to § 172.101 - List of Marine Pollutants
+Appendix B to § 172.101—List of Marine Pollutants
 
 1. See § 171.4 of this subchapter for applicability to marine pollutants. This appendix lists potential marine pollutants as defined in § 171.8 of this subchapter.
 
@@ -6608,7 +6608,7 @@ List of Marine Pollutants
 |                |                                                                      Tribromomethane                                                                       |
 |       PP       |                                                                   Tributyltin compounds                                                                    |
 |                |                                                                        Trichlorfon                                                                         |
-|       PP       |                                                                  1,2,3 - Trichlorobenzene                                                                  |
+|       PP       |                                                                   1,2,3—Trichlorobenzene                                                                   |
 |                |                                                                 Trichlorobenzenes, liquid                                                                  |
 |                |                                                                      Trichlorobutene                                                                       |
 |                |                                                                     Trichlorobutylene                                                                      |

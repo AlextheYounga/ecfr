@@ -1,7 +1,5 @@
 ##### § 173.230 Fuel cell cartridges containing hazardous material. #####
 
-Link to an amendment published at 87 FR 79779, Dec. 27, 2022.
-
 (a) *Requirements for Fuel Cell Cartridges.* Fuel cell cartridges, including when contained in or packed with equipment, must be designed and constructed to prevent fuel leakage under normal conditions of transportation. Fuel cell cartridge design types using liquids as fuels must pass an internal pressure test at a gauge pressure of 100 kPa (15 psig) without leakage. Except for fuel cell cartridges containing hydrogen in metal hydride which must be in conformance with paragraph (d) of this section, each fuel cell cartridge design type including when contained in or packed with equipment, must pass a 1.2 meter (3.9 feet) drop test onto an unyielding surface in the orientation most likely to result in the failure of the containment system with no loss of contents. Fuel cell cartridges installed in or integral to a fuel cell system are regarded as contained in equipment. Fuel cell cartridges containing a Division 2.1, Division 4.3 or Class 8 material must meet the following additional requirements.
 
 (b) A fuel cell cartridge designed to contain a Division 4.3 or a Class 8 material may contain an activator provided it is fitted with two independent means of preventing unintended mixing with the fuel during transport.
@@ -114,6 +112,6 @@ Link to an amendment published at 87 FR 79779, Dec. 27, 2022.
 
 (v) For hydrogen in metal hydride, in fuel cell cartridges not over 120 mL (4 fluid ounces) net capacity per cartridge, packed in strong outer packaging. Additionally, each package may contain no more than 0.5 kg (net mass) of fuel cell cartridges.
 
-(h) *Consumer commodities.* Until December 31, 2020, for other than transportation by aircraft, a limited quantity that conforms to the provisions of paragraph (g) of this section and is also a “consumer commodity” as defined in § 171.8 of this subchapter, may be renamed “Consumer commodity” and reclassed as ORM-D. In addition to the exceptions provided by paragraph (g) of this section, shipments of ORM-D materials are not subject to the shipping paper requirements of subpart C of part 172 of this subchapter, unless the materials meet the definition of a hazardous substance, hazardous waste, marine pollutant, or are offered for transportation by aircraft, and are eligible for the exceptions provided in § 173.156 of this part.
+(h) [Reserved]
 
-[74 FR 2263, Jan. 14, 2009, as amended at 75 FR 73, Jan. 4, 2010; 76 FR 3379, Jan. 19, 2011; 78 FR 1090, 1115, Jan. 7, 2013; 78 FR 65485, Oct. 31, 2013]
+[74 FR 2263, Jan. 14, 2009, as amended at 75 FR 73, Jan. 4, 2010; 76 FR 3379, Jan. 19, 2011; 78 FR 1090, 1115, Jan. 7, 2013; 78 FR 65485, Oct. 31, 2013; 87 FR 79779, Dec. 27, 2022]

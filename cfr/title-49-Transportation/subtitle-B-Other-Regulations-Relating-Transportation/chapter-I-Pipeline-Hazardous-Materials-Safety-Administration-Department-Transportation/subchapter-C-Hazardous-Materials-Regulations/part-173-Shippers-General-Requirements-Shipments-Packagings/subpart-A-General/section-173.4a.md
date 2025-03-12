@@ -1,7 +1,5 @@
 ##### § 173.4a Excepted quantities. #####
 
-Link to an amendment published at 87 FR 79774, Dec. 27, 2022.
-
 (a) Excepted quantities of materials, other than articles (e.g., aerosols), are not subject to requirements of this subchapter except for:
 
 (1) The shipper's responsibilities to properly class their material in accordance with § 173.22 of this subchapter;
@@ -34,7 +32,7 @@ Link to an amendment published at 87 FR 79774, Dec. 27, 2022.
 
 (c) *Inner packaging limits.* The maximum quantity of hazardous materials in each inner packaging is limited to:
 
-(1) For toxic material with a Division 6.1 primary or subsidiary hazard, PG I or II -
+(1) For toxic material with a Division 6.1 primary or subsidiary hazard, PG I or II—
 
 (i) 1 g (0.04 ounce) for solids; or
 
@@ -48,11 +46,11 @@ Link to an amendment published at 87 FR 79774, Dec. 27, 2022.
 
 (1) For other than a Division 2.2 or Division 5.2 material:
 
-(i) Packing Group I - 300 g (0.66 pounds) for solids or 300 mL (0.08 gallons) for liquids;
+(i) Packing Group I—300 g (0.66 pounds) for solids or 300 mL (0.08 gallons) for liquids;
 
-(ii) Packing Group II - 500 g (1.1 pounds) for solids or 500 mL (0.1 gallons) for liquids;
+(ii) Packing Group II—500 g (1.1 pounds) for solids or 500 mL (0.1 gallons) for liquids;
 
-(iii) Packing Group III - 1 kg (2.2 pounds) for solids or 1 L (0.2 gallons) for liquids;
+(iii) Packing Group III—1 kg (2.2 pounds) for solids or 1 L (0.2 gallons) for liquids;
 
 (2) For Division 2.2 material, 1 L (61 cubic inches); or
 
@@ -114,11 +112,7 @@ Link to an amendment published at 87 FR 79774, Dec. 27, 2022.
 
 (1) The “\*” must be replaced by the primary hazard class, or when assigned, the division of each of the hazardous materials contained in the package. The “\*\*” must be replaced by the name of the shipper or consignee if not shown elsewhere on the package.
 
-(2) The marking must be durable and clearly visible and in the form of a square. The hatching must be of the same color, black or red on white or a suitable contrasting background. The minimum dimensions must not be less than 100 mm (3.9 inches) by 100 mm (3.9 inches) as measured from the outside of the hatching forming the border. Where dimensions are not specified, all features shall be in approximate proportion to those shown.
-
-(i) *Transitional exception* - A marking in conformance with the requirements of this paragraph in effect on December 31, 2014, may continue to be used until December 31, 2016.
-
-(ii) For domestic transportation, a packaging marked prior to January 1, 2017 and in conformance with the requirements of this paragraph in effect on December 31, 2014, may continue in service until the end of its useful life.
+(2) The marking must be durable and clearly visible and in the form of a square. The hatching must be of the same color, black or red on white or a suitable contrasting background. The minimum dimensions must not be less than 100 mm (3.9 inches) by 100 mm (3.9 inches) as measured from the outside of the hatching forming the border. Where dimensions are not specified, all features shall be in approximate proportion to those shown. For domestic transportation, a packaging marked prior to January 1, 2017, and in conformance with the requirements of this paragraph in effect on December 31, 2014, may continue in service until the end of its useful life.
 
 (3) For transportation by aircraft, the entire mark must appear on one side of the package.
 
@@ -134,4 +128,4 @@ Link to an amendment published at 87 FR 79774, Dec. 27, 2022.
 
 (j) *Restrictions.* Hazardous material packaged in accordance with this section may not be carried in checked or carry-on baggage.
 
-[74 FR 2254, Jan. 14, 2009, as amended at 75 FR 72, Jan. 4, 2010; 76 FR 3368, Jan. 19, 2011; 80 FR 1152, Jan. 8, 2015; 81 FR 35541, June 2, 2016; 82 FR 15874, Mar. 30, 2017; 87 FR 44991, July 26, 2022]
+[74 FR 2254, Jan. 14, 2009, as amended at 75 FR 72, Jan. 4, 2010; 76 FR 3368, Jan. 19, 2011; 80 FR 1152, Jan. 8, 2015; 81 FR 35541, June 2, 2016; 82 FR 15874, Mar. 30, 2017; 87 FR 44991, July 26, 2022; 87 FR 79774, Dec. 27, 2022]

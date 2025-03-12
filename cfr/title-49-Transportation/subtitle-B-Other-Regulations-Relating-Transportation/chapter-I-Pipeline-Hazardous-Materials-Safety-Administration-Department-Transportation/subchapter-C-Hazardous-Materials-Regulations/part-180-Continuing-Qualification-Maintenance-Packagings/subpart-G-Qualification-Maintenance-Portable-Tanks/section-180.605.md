@@ -1,6 +1,4 @@
-##### § 180.605 Requirements for periodic testing, inspection and repair of portable tanks. #####
-
-Link to an amendment published at 87 FR 79785, Dec. 27, 2022.
+##### § 180.605 Requirements for periodic testing, inspection, and repair of portable tanks. #####
 
 (a) A portable tank constructed in accordance with a DOT specification for which a test or inspection specified in this subpart has become due, must be tested or inspected prior to being returned for transportation.
 
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 79785, Dec. 27, 2022.
 
 (4) The portable tank has been modified from its original design specification.
 
-(5) The portable tank is in an unsafe operating condition based on the existence of probable cause.
+(5) The portable tank is in an unsafe operating condition.
 
 (c) *Schedule for periodic inspections and tests.* Each Specification portable tank must be tested and inspected in accordance with the following schedule:
 
@@ -66,4 +64,4 @@ Link to an amendment published at 87 FR 79785, Dec. 27, 2022.
 
 (2) If the owner does not have the manufacturer's certificate required by the specification and the manufacturer's data report required by the ASME, the owner may contact the National Board for a copy of the manufacturer's data report, if the portable tank was registered with the National Board, or copy the information contained on the portable tanks specification plate and ASME Code data plates.
 
-[Amdt. 180-2, 54 FR 25032, June 12, 1989, as amended at 67 FR 15744, Apr. 3, 2002; 68 FR 45042, July 31, 2003; 74 FR 53189, Oct. 16, 2009; 82 FR 15897, Mar. 30, 2017; 83 FR 55811, Nov. 7, 2018]
+[Amdt. 180-2, 54 FR 25032, June 12, 1989, as amended at 67 FR 15744, Apr. 3, 2002; 68 FR 45042, July 31, 2003; 74 FR 53189, Oct. 16, 2009; 82 FR 15897, Mar. 30, 2017; 83 FR 55811, Nov. 7, 2018; 87 FR 79785, Dec. 27, 2022]

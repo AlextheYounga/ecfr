@@ -1,8 +1,6 @@
 ##### § 178.337-1 General requirements. #####
 
-Link to an amendment published at 87 FR 79784, Dec. 27, 2022.
-
-(a) *ASME Code construction.* Tanks must be -
+(a) *ASME Code construction.* Tanks must be—
 
 (1) Seamless or welded construction, or a combination of both;
 
@@ -32,7 +30,7 @@ The term *design pressure* as used in this specification, is identical to the te
 
 (2) Each cargo tank intended for chlorine; carbon dioxide, refrigerated liquid; or nitrous oxide, refrigerated liquid service must have suitable insulation of such thickness that the overall thermal conductance is not more than 0.08 Btu per square foot per °F differential per hour. The conductance must be determined at 60 °F. Insulation material used on cargo tanks for nitrous oxide, refrigerated liquid must be noncombustible. Insulating material used on cargo tanks for chlorine must be corkboard or polyurethane foam, with a minimum thickness of 4 inches, or 2 inches minimum thickness of ceramic fiber/fiberglass of 4 pounds per cubic foot minimum density covered by 2 inches minimum thickness of fiber.
 
-(f) *Postweld heat treatment.* Postweld heat treatment must be as prescribed in the ASME Code except that each cargo tank constructed in accordance with Part UHT of Section VIII of the ASME Code must be postweld heat treated. Each chlorine cargo tank must be fully radiographed and postweld heat treated in accordance with the provisions in Section VIII of the ASME Code under which it is constructed. Where postweld heat treatment is required, the cargo tank must be treated as a unit after completion of all the welds in and/or to the shells and heads. The method must be as prescribed in Section VIII of the ASME Code. Welded attachments to pads may be made after postweld heat treatment. A cargo tank used for anhydrous ammonia must be postweld heat treated. The postweld heat treatment must be as prescribed in Section VIII of the ASME Code, but in no event at less than 1,050 § F cargo tank metal temperature.
+(f) *Postweld heat treatment.* Postweld heat treatment must be as prescribed in the ASME Code except that each cargo tank constructed in accordance with Part UHT of Section VIII of the ASME Code must be postweld heat treated. Each chlorine cargo tank must be fully radiographed and postweld heat treated in accordance with the provisions in Section VIII of the ASME Code under which it is constructed. Where postweld heat treatment is required, the cargo tank must be treated as a unit after completion of all the welds in and/or to the shells and heads. The method must be as prescribed in Section VIII of the ASME Code. Welded attachments to pads may be made after postweld heat treatment. A cargo tank used for anhydrous ammonia must be postweld heat treated. The postweld heat treatment must be as prescribed in Section VIII of the ASME Code, but in no event at less than 1,050 °F cargo tank metal temperature.
 
 (g) *Definitions.* The following definitions apply to §§ 178.337-1 through 178.337-18:
 

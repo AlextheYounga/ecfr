@@ -1,16 +1,14 @@
 ##### § 173.6 Materials of trade exceptions. #####
 
-Link to an amendment published at 87 FR 79774, Dec. 27, 2022.
-
 When transported by motor vehicle in conformance with this section, a material of trade (see § 171.8 of this subchapter) is not subject to any other requirements of this subchapter besides those set forth or referenced in this section.
 
 (a) *Materials and amounts.* A material of trade is limited to the following:
 
-(1) A Class 3, 8, 9, Division 4.1, 5.1, 5.2, 6.1, or ORM-D material contained in a packaging having a gross mass or capacity not over -
+(1) A Class 3, 8, 9, Division 4.1, 5.1, 5.2, or 6.1 material contained in a packaging having a gross mass or capacity not over—
 
 (i) 0.5 kg (1 pound) or 0.5 L (1 pint) for a Packing Group I material;
 
-(ii) 30 kg (66 pounds) or 30 L (8 gallons) for a Packing Group II, Packing Group III, or ORM-D material;
+(ii) 30 kg (66 pounds) or 30 L (8 gallons) for a Packing Group II or Packing Group III material;
 
 (iii) 1500 L (400 gallons) for a diluted mixture, not to exceed 2 percent concentration, of a Class 9 material.
 
@@ -60,4 +58,4 @@ When transported by motor vehicle in conformance with this section, a material o
 
 (e) *Other exceptions.* A material of trade may be transported on a motor vehicle under the provisions of this section with other hazardous materials without affecting its eligibility for exceptions provided by this section.
 
-[Amdt. 173-259, 62 FR 1216, Jan. 8, 1997, as amended by Amdt. 173-262, 62 FR 49566, Sept. 22, 1997; 62 FR 51560, Oct. 1, 1997; Amdt. 173-259, 63 FR 8142, Feb. 18, 1998; 63 FR 52849, Oct. 1, 1998; 66 FR 45381, Aug. 28, 2001; 67 FR 53137, Aug. 14, 2002; 68 FR 75742, Dec. 31, 2003; 68 FR 61941, Oct. 30, 2003; 71 FR 32258, June 2, 2006; 72 FR 55692, Oct. 1, 2007; 78 FR 1113, Jan. 7, 2013; 78 FR 15326, Mar. 11, 2013; 78 FR 65478, Oct. 31, 2013; 85 FR 27878, May 11, 2020]
+[Amdt. 173-259, 62 FR 1216, Jan. 8, 1997, as amended by Amdt. 173-262, 62 FR 49566, Sept. 22, 1997; 62 FR 51560, Oct. 1, 1997; Amdt. 173-259, 63 FR 8142, Feb. 18, 1998; 63 FR 52849, Oct. 1, 1998; 66 FR 45381, Aug. 28, 2001; 67 FR 53137, Aug. 14, 2002; 68 FR 75742, Dec. 31, 2003; 68 FR 61941, Oct. 30, 2003; 71 FR 32258, June 2, 2006; 72 FR 55692, Oct. 1, 2007; 78 FR 1113, Jan. 7, 2013; 78 FR 15326, Mar. 11, 2013; 78 FR 65478, Oct. 31, 2013; 85 FR 27878, May 11, 2020; 87 FR 79774, Dec. 27, 2022]

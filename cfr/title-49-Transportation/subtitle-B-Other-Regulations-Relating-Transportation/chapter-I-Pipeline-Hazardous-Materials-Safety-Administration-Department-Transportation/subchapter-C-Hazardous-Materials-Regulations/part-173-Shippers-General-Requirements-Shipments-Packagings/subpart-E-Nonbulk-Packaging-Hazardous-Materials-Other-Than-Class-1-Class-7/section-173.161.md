@@ -1,7 +1,5 @@
 ##### § 173.161 Chemical kits and first aid kits. #####
 
-Link to an amendment published at 87 FR 79776, Dec. 27, 2022.
-
 (a) *Applicability.* Chemical kits and first aid kits contain one or more compatible items of hazardous materials in boxes, cases, *etc.* that, for example, are used for medical, analytical, diagnostic, testing, or repair purposes.
 
 (b) *Authorized materials.* (1) The kits may only contain hazardous materials for which packaging exceptions are provided in column 8(A) of the § 172.101 Hazardous Materials Table in this subchapter. For transportation by aircraft, the kits may only contain quantities of hazardous materials authorized as excepted quantities or as limited quantities in §§ 173.4a and 173.27(f) of this part, respectively. Materials forbidden for transportation by passenger aircraft or cargo aircraft may not be included in the kits.
@@ -28,8 +26,6 @@ Link to an amendment published at 87 FR 79776, Dec. 27, 2022.
 
 (ii) A package conforming to the provisions of this section is not subject to the shipping paper requirements of subpart C of part 172 of this subchapter, unless the material meets the definition of a hazardous substance, hazardous waste, marine pollutant, or is offered for transportation and transported by aircraft or vessel. Chemical kits and First aid kits conforming to this section may be marked as a limited quantity as prescribed in § 172.315 of this subchapter and, if applicable, are eligible for the exceptions provided in § 173.156 of this part. Additionally, chemical and first aid kits conforming to this section are not subject to part 174 (carriage by rail) or part 177 (carriage by highway) of this subchapter when marked in accordance with § 172.315 of this subchapter.
 
-(2) Consumer commodities. Until December 31, 2020, a limited quantity package containing a “consumer commodity” as defined in § 171.8 of this subchapter may be renamed “Consumer commodity” and reclassed as ORM-D or, until December 31, 2012, as ORM-D-AIR material and offered for transportation and transported in accordance with the applicable provisions of this subchapter in effect on October 1, 2010.
+(2) Kits that are carried on board transport vehicles for first aid or operating purposes are not subject to the requirements of this subchapter.
 
-(3) Kits that are carried on board transport vehicles for first aid or operating purposes are not subject to the requirements of this subchapter.
-
-[76 FR 3375, Jan. 19, 2011, as amended at 78 FR 1115, Jan. 7, 2013; 80 FR 1157, Jan. 8, 2015]
+[76 FR 3375, Jan. 19, 2011, as amended at 78 FR 1115, Jan. 7, 2013; 80 FR 1157, Jan. 8, 2015; 87 FR 79776, Dec. 27, 2022]

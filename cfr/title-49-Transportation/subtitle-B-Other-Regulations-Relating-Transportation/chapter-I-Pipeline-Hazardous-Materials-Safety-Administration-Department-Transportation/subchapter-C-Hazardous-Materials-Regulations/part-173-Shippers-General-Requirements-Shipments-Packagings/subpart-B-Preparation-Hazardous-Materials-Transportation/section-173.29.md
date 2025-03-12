@@ -1,14 +1,12 @@
 ##### § 173.29 Empty packagings. #####
 
-Link to an amendment published at 87 FR 79776, Dec. 27, 2022.
-
 (a) *General.* Except as otherwise provided in this section, an empty packaging containing only the residue of a hazardous material shall be offered for transportation and transported in the same manner as when it previously contained a greater quantity of that hazardous material.
 
 (b) Notwithstanding the requirements of paragraph (a) of this section, an empty packaging is not subject to any other requirements of this subchapter if it conforms to the following provisions:
 
 (1) Any hazardous material shipping name and identification number markings, any hazard warning labels or placards, and any other markings indicating that the material is hazardous (e.g., RQ, INHALATION HAZARD) are removed, obliterated, or securely covered in transportation. This provision does not apply to transportation in a transport vehicle or a freight container if the packaging is not visible in transportation and the packaging is loaded by the shipper and unloaded by the shipper or consignee;
 
-(2) The packaging -
+(2) The packaging—
 
 (i) Is unused;
 
@@ -16,15 +14,15 @@ Link to an amendment published at 87 FR 79776, Dec. 27, 2022.
 
 (iii) Is refilled with a material which is not hazardous to such an extent that any residue remaining in the packaging no longer poses a hazard; or
 
-(iv) Contains only the residue of -
+(iv) Contains only the residue of—
 
-(A) A limited quantity or an ORM-D material; or
+(A) A limited quantity material; or
 
 (B) A Division 2.2 non-flammable gas, other than ammonia, anhydrous, and with no subsidiary hazard, at a gauge pressure less than 200 kPa (29.0 psig); at 20 °C (68 °F); and
 
 (3) Any material contained in the packaging does not meet the definitions in § 171.8 of this subchapter for a hazardous substance, a hazardous waste, or a marine pollutant.
 
-(c) A non-bulk packaging containing only the residue of a hazardous material covered by Table 2 of § 172.504 of this subchapter that is not a material poisonous by inhalation or its residue shipped under the subsidiary placarding provisions of § 172.505 -
+(c) A non-bulk packaging containing only the residue of a hazardous material covered by Table 2 of § 172.504 of this subchapter that is not a material poisonous by inhalation or its residue shipped under the subsidiary placarding provisions of § 172.505—
 
 (1) Does not have to be included in determining the applicability of the placarding requirements of subpart F of part 172 of this subchapter; and
 
@@ -56,4 +54,4 @@ Link to an amendment published at 87 FR 79776, Dec. 27, 2022.
 
 (h) A package that contains a residue of a hazardous substance, Class 9, listed in the § 172.101 Table, Appendix A, Table I, that does not meet the definition of another hazard class and is not a hazardous waste or marine pollutant, may remain marked, labeled and, if applicable, placarded in the same manner as when it contained a greater quantity of the material even though it no longer meets the definition in § 171.8 of this subchapter for a hazardous substance.
 
-[Amdt. 173-224, 55 FR 52614, Dec. 21, 1990, as amended by Amdt. 173-227, 56 FR 49989, Oct. 2, 1991; Amdt. 173-231, 57 FR 52939, Nov. 5, 1992; Amdt. 173-251, 61 FR 28676, June 5, 1996; Amdt. 173-260, 62 FR 1236, Jan. 8, 1997; 64 FR 10776, Mar. 5, 1999; 68 FR 48569, Aug. 14, 2003; 69 FR 64473, Nov. 4, 2004; 75 FR 72, Jan. 4, 2010; 81 FR 3672, Jan. 21, 2016; 85 FR 83382, Dec. 21, 2020]
+[Amdt. 173-224, 55 FR 52614, Dec. 21, 1990, as amended by Amdt. 173-227, 56 FR 49989, Oct. 2, 1991; Amdt. 173-231, 57 FR 52939, Nov. 5, 1992; Amdt. 173-251, 61 FR 28676, June 5, 1996; Amdt. 173-260, 62 FR 1236, Jan. 8, 1997; 64 FR 10776, Mar. 5, 1999; 68 FR 48569, Aug. 14, 2003; 69 FR 64473, Nov. 4, 2004; 75 FR 72, Jan. 4, 2010; 81 FR 3672, Jan. 21, 2016; 87 FR 79776, Dec. 27, 2022]

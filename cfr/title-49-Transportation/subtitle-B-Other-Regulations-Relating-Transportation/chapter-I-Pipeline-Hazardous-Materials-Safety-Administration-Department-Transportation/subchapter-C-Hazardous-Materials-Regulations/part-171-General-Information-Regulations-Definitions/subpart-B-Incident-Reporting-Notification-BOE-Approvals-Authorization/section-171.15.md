@@ -1,8 +1,6 @@
 ##### § 171.15 Immediate notice of certain hazardous materials incidents. #####
 
-Link to an amendment published at 87 FR 79766, Dec. 27, 2022.
-
-(a) *General.* As soon as practical but no later than 12 hours after the occurrence of any incident described in paragraph (b) of this section, each person in physical possession of the hazardous material must provide notice by telephone to the National Response Center (NRC) on 800-424-8802 (toll free) or 202-267-2675 (toll call) or online at *http://www.nrc.uscg.mil.* Each notice must include the following information:
+(a) *General.* As soon as practical but no later than 12 hours after the occurrence of any incident described in paragraph (b) of this section, each person in physical possession of the hazardous material must provide notice by telephone to the National Response Center (NRC) on 800-424-8802 (toll free) or 202-267-2675 (toll call). Each notice must include the following information:
 
 (1) Name of reporter;
 
@@ -20,7 +18,7 @@ Link to an amendment published at 87 FR 79766, Dec. 27, 2022.
 
 (b) *Reportable incident.* A telephone report is required whenever any of the following occurs during the course of transportation in commerce (including loading, unloading, and temporary storage):
 
-(1) As a direct result of a hazardous material -
+(1) As a direct result of a hazardous material—
 
 (i) A person is killed;
 
@@ -48,4 +46,4 @@ Note to § 171.15:
 
 Under 40 CFR 302.6, EPA requires persons in charge of facilities (including transport vehicles, vessels, and aircraft) to report any release of a hazardous substance in a quantity equal to or greater than its reportable quantity, as soon as that person has knowledge of the release, to DOT's National Response Center at (toll free) 800-424-8802 or (toll) 202-267-2675.
 
-[68 FR 67759, Dec. 3, 2003, as amended at 72 FR 55684, Oct. 1, 2007; 74 FR 2233, Jan. 14, 2009; 74 FR 53186, Oct. 16, 2009; 76 FR 43525, July 20, 2011]
+[68 FR 67759, Dec. 3, 2003, as amended at 72 FR 55684, Oct. 1, 2007; 74 FR 2233, Jan. 14, 2009; 74 FR 53186, Oct. 16, 2009; 76 FR 43525, July 20, 2011; 87 FR 79766, Dec. 27, 2022]

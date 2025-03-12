@@ -1,14 +1,12 @@
 ##### § 172.202 Description of hazardous material on shipping papers. #####
 
-Link to an amendment published at 87 FR 79772, Dec. 27, 2022.
-
 (a) The shipping description of a hazardous material on the shipping paper must include:
 
 (1) The identification number prescribed for the material as shown in Column (4) of the § 172.101 table;
 
 (2) The proper shipping name prescribed for the material in Column (2) of the § 172.101 table;
 
-(3) The hazard class or division number prescribed for the material, as shown in Column (3) of the § 172.101 table. The subsidiary hazard class or division number is not required to be entered when a corresponding subsidiary hazard label is not required. Except for combustible liquids, the subsidiary hazard class(es) or subsidiary division number(s) must be entered in parentheses immediately following the primary hazard class or division number. In addition -
+(3) The hazard class or division number prescribed for the material, as shown in Column (3) of the § 172.101 table. The subsidiary hazard class or division number is not required to be entered when a corresponding subsidiary hazard label is not required. Except for combustible liquids, the subsidiary hazard class(es) or subsidiary division number(s) must be entered in parentheses immediately following the primary hazard class or division number. In addition—
 
 (i) The words “Class” or “Division” may be included preceding the primary and subsidiary hazard class or division numbers.
 
@@ -16,7 +14,7 @@ Link to an amendment published at 87 FR 79772, Dec. 27, 2022.
 
 (iii) For domestic shipments, primary and subsidiary hazard class or division names may be entered following the numerical hazard class or division, or following the basic description.
 
-(4) The packing group in Roman numerals, as designated for the hazardous material in Column (5) of the § 172.101 table. Class 1 (explosives) materials; self-reactive substances; batteries other than those containing lithium, lithium ions, or sodium; Division 5.2 materials; and entries that are not assigned a packing group (*e.g.*, Class 7) are excepted from this requirement. The packing group may be preceded by the letters “PG” (for example, “PG II”); and
+(4) The packing group in Roman numerals, as designated for the hazardous material in Column (5) of the § 172.101 table. Class 1 (explosives) materials; self-reactive substances; Division 5.2 materials; and entries that are not assigned a packing group (*e.g.,* Class 7) are excepted from this requirement. The packing group may be preceded by the letters “PG” (for example, “PG II”); and
 
 (5) Except for transportation by aircraft, the total quantity of hazardous materials covered by the description must be indicated (by mass or volume, or by activity for Class 7 materials) and must include an indication of the applicable unit of measurement, for example, “200 kg” (440 pounds) or “50 L” (13 gallons). The following provisions also apply:
 

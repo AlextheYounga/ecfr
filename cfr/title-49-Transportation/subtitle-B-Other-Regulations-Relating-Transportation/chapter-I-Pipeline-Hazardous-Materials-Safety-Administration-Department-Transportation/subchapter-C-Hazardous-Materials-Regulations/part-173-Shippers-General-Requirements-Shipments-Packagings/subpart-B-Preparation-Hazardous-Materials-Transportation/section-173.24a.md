@@ -1,7 +1,5 @@
 ##### § 173.24a Additional general requirements for non-bulk packagings and packages. #####
 
-Link to an amendment published at 87 FR 79775, Dec. 27, 2022.
-
 (a) *Packaging design.* Except as provided in § 172.312 of this subchapter:
 
 (1) *Inner packaging closures.* A combination packaging containing liquid hazardous materials must be packed so that closures on inner packagings are upright.
@@ -42,17 +40,17 @@ Link to an amendment published at 87 FR 79775, Dec. 27, 2022.
 
 (5) No hazardous material may remain on the outside of a package after filling.
 
-(c) *Mixed contents.* (1) An outer non-bulk packaging may contain more than one hazardous material only when -
+(c) *Mixed contents.* (1) An outer non-bulk packaging may contain more than one hazardous material only when—
 
 (i) The inner and outer packagings used for each hazardous material conform to the relevant packaging sections of this part applicable to that hazardous material;
 
 (ii) The package as prepared for shipment meets the performance tests prescribed in part 178 of this subchapter for the packing group indicating the highest order of hazard for the hazardous materials contained in the package;
 
-(iii) Corrosive materials (except ORM-D) in bottles are further packed in securely closed inner receptacles before packing in outer packagings; and
+(iii) Corrosive materials in bottles are further packed in securely closed inner receptacles before packing in outer packagings; and
 
 (iv) For transportation by aircraft, the total net quantity does not exceed the lowest permitted maximum net quantity per package as shown in Column (9a) or (9b), as appropriate, of the § 172.101 Table of this subchapter. The permitted maximum net quantity must be calculated in kilograms if a package contains both a liquid and a solid. These requirements do not apply to limited quantity hazardous materials packaged in accordance with § 173.27(f)(2).
 
-(2) A packaging containing inner packagings of Division 6.2 materials may not contain other hazardous materials except -
+(2) A packaging containing inner packagings of Division 6.2 materials may not contain other hazardous materials except—
 
 (i) Refrigerants, such as dry ice or liquid nitrogen, as authorized under the HMR;
 
@@ -62,4 +60,4 @@ Link to an amendment published at 87 FR 79775, Dec. 27, 2022.
 
 (d) Liquids must not completely fill a receptacle at a temperature of 55 °C (131 °F) or less.
 
-[Amdt. 173-224, 55 FR 52611, Dec. 21, 1990, as amended at 56 FR 66265, Dec. 20, 1991; 57 FR 45460, Oct. 1, 1992; 58 FR 51532, Oct. 1, 1993; Amdt. 173-255, 61 FR 50624, Sept. 26, 1996; 66 FR 45380, Aug. 28, 2001; 68 FR 61941, Oct. 30, 2003; 71 FR 32258, June 2, 2006; 81 FR 35541, June 2, 2016; 83 FR 55808, Nov. 7, 2018]
+[Amdt. 173-224, 55 FR 52611, Dec. 21, 1990, as amended at 56 FR 66265, Dec. 20, 1991; 57 FR 45460, Oct. 1, 1992; 58 FR 51532, Oct. 1, 1993; Amdt. 173-255, 61 FR 50624, Sept. 26, 1996; 66 FR 45380, Aug. 28, 2001; 68 FR 61941, Oct. 30, 2003; 71 FR 32258, June 2, 2006; 81 FR 35541, June 2, 2016; 83 FR 55808, Nov. 7, 2018; 87 FR 79775, Dec. 27, 2022]

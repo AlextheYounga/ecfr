@@ -1,7 +1,5 @@
 ##### § 173.63 Packaging exceptions. #####
 
-Link to an amendment published at 87 FR 79776, Dec. 27, 2022.
-
 (a) Cord, detonating (UN 0065), having an explosive content not exceeding 6.5 g (0.23 ounces) per 30 centimeter length (one linear foot) may be offered for transportation domestically and transported as Cord, detonating (UN 0289), Division 1.4 Compatibility Group D (1.4D) explosives, if the gross weight of all packages containing Cord, detonating (UN 0065), does not exceed 45 kg (99 pounds) per:
 
 (1) Transport vehicle, freight container, or cargo-only aircraft;
@@ -12,11 +10,9 @@ Link to an amendment published at 87 FR 79776, Dec. 27, 2022.
 
 (4) Passenger-carrying aircraft used to transport personnel to remote work sites, such as offshore drilling units.
 
-(b) *Limited quantities of Cartridges, small arms, Cartridges, power device, Cartridges for tools, blank, and Cases, cartridge, empty with primer.* (1)(i) Cartridges, small arms, Cartridges, power device (*used to project fastening devices*), Cartridges for tools, blank, and Cases, cartridge, empty with primer that have been classed as Division 1.4S explosive may be offered for transportation and transported as limited quantities when packaged in accordance with paragraph (b)(2) of this section. Packages containing such articles may be marked with either the marking prescribed in § 172.315(a) or (b) of this subchapter and offered for transportation and transported by any mode. For transportation by aircraft, the package must conform to the applicable requirements of § 173.27 of this part. In addition, packages containing such articles offered for transportation by aircraft must be marked with the proper shipping name as prescribed in the § 172.101 Hazardous Materials Table of this subchapter. Packages containing such articles are not subject to the shipping paper requirements of subpart C of part 172 of this subchapter unless the material meets the definition of a hazardous substance, hazardous waste, marine pollutant, or is offered for transportation and transported by aircraft or vessel. Additionally, packages containing such articles are excepted from the requirements of subparts E (Labeling) and F (Placarding) of part 172 of this subchapter.
+(b) *Limited quantities of Cartridges, small arms, Cartridges, power device, Cartridges for tools, blank, and Cases, cartridge, empty with primer.* (1)(i) Cartridges, small arms, Cartridges, power device (used to project fastening devices), Cartridges for tools, blank, and Cases, cartridge, empty with primer that have been classed as Division 1.4S explosive may be offered for transportation and transported as limited quantities when packaged in accordance with paragraph (b)(2) of this section. Packages containing such articles may be marked with either the marking prescribed in § 172.315(a) or (b) of this subchapter and offered for transportation and transported by any mode. For transportation by aircraft, the package must conform to the applicable requirements of § 173.27 of this part. In addition, packages containing such articles offered for transportation by aircraft must be marked with the proper shipping name as prescribed in the § 172.101 Hazardous Materials Table of this subchapter. Packages containing such articles are not subject to the shipping paper requirements of subpart C of part 172 of this subchapter unless the material meets the definition of a hazardous substance, hazardous waste, marine pollutant, or is offered for transportation and transported by aircraft or vessel. Additionally, packages containing such articles are excepted from the requirements of subparts E (Labeling) and F (Placarding) of part 172 of this subchapter.
 
-(ii) Until December 31, 2012, a package containing such articles may be marked with the proper shipping name “Cartridges, small arms” or “Cartridges, power device (*used to project fastening devices*)” and reclassed as “ORM-D-AIR” material if it contains properly packaged articles as authorized by this subchapter on October 1, 2010. Additionally, for transportation by aircraft, Cartridge, power devices must be successfully tested under the UN Test Series 6(d) criteria for reclassification as ORM-D-AIR material effective July 1, 2011. Until December 31, 2020, a package containing such articles may be marked with the proper shipping name “Cartridges, small arms” or “Cartridges, power device (*used to project fastening devices*),” “Cartridges for tools, blank,” and “Cases, cartridge empty with primer” and reclassed as “ORM-D” material if it contains properly packaged articles as authorized by this subchapter on October 1, 2010.
-
-(iii) Cartridges, small arms, Cartridges, power device (*used to project fastening devices*), Cartridges for tools, blank, and Cases, cartridge empty with primer that may be shipped as a limited quantity or ORM-D material are as follows:
+(ii) Cartridges, small arms, Cartridges, power device (*used to project fastening devices*), Cartridges for tools, blank, and Cases, cartridge empty with primer that may be shipped as a limited quantity are as follows:
 
 (A) Ammunition for rifle, pistol or shotgun;
 
@@ -32,7 +28,7 @@ Link to an amendment published at 87 FR 79776, Dec. 27, 2022.
 
 (G) Cartridges, power device (*used to project fastening devices*).
 
-(2) Packaging for Cartridges, small arms, Cartridges for tools, blank, Cases, cartridge empty with primer, and eligible Cartridges, power device as limited quantity or ORM-D material must be as follows:
+(2) Packaging for Cartridges, small arms, Cartridges for tools, blank, Cases, cartridge empty with primer, and eligible Cartridges, power device as limited quantity must be as follows:
 
 (i) Ammunition must be packed in inside boxes, or in partitions that fit snugly in the outside packaging, or in metal clips;
 
@@ -70,4 +66,4 @@ Link to an amendment published at 87 FR 79776, Dec. 27, 2022.
 
 (4) Each inner packaging is marked “l.4B Detonators” or “1.4S Detonators”, as appropriate.
 
-[Amdt. 173-224, 55 FR 52617, Dec. 21, 1990, as amended at 56 FR 66268, Dec. 20, 1991; Amdt. 173-236, 58 FR 50536, Sept. 24, 1993; Amdt. 173-253, 61 FR 27175, May 30, 1996; 68 FR 75743, Dec. 31, 2003; 71 FR 14602, Mar. 22, 2006; 76 FR 3371, Jan. 19, 2011; 78 FR 1084, 1113, Jan. 7, 2013; 78 FR 65480, Oct. 31, 2013; 81 FR 18539, Mar. 31, 2016]
+[Amdt. 173-224, 55 FR 52617, Dec. 21, 1990, as amended at 56 FR 66268, Dec. 20, 1991; Amdt. 173-236, 58 FR 50536, Sept. 24, 1993; Amdt. 173-253, 61 FR 27175, May 30, 1996; 68 FR 75743, Dec. 31, 2003; 71 FR 14602, Mar. 22, 2006; 76 FR 3371, Jan. 19, 2011; 78 FR 1084, 1113, Jan. 7, 2013; 78 FR 65480, Oct. 31, 2013; 81 FR 18539, Mar. 31, 2016; 87 FR 79776, Dec. 27, 2022]

@@ -1,7 +1,5 @@
 ##### § 173.303 Charging of cylinders with compressed gas in solution (acetylene). #####
 
-Link to an amendment published at 87 FR 79779, Dec. 27, 2022.
-
 (a) *Cylinder, filler and solvent requirements.* (Refer to applicable parts of Specification 8 and 8AL). Acetylene gas must be shipped in Specification 8 or 8AL cylinders (§ 178.59 or § 178.60 of this subchapter). The cylinders shall consist of metal shells filled with a porous material, and this material must be charged with a suitable solvent. The cylinders containing the porous material and solvent shall be successfully tested in accordance with CGA C-12 (IBR, see § 171.7 of this subchapter). Representative samples of cylinders charged with acetylene must be successfully tested in accordance with CGA C-12.
 
 (b) *Filling limits.* For DOT specification cylinders, the pressure in the cylinder containing acetylene gas may not exceed 250 psig at 70 °F. If cylinders are marked for a lower allowable charging pressure at 70 °F., that pressure must not be exceeded. For UN cylinders, the pressure in the cylinder may not exceed the limits specified in § 173.304b(b)(2).
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 79779, Dec. 27, 2022.
 
 (f) *UN cylinders.* (1) UN cylinders and bundles of cylinders are authorized for the transport of acetylene gas as specified in this section.
 
-(i) Each UN acetylene cylinder must conform to ISO 3807:2013€: (IBR, see § 171.7 of this subchapter), have a homogeneous monolithic porous mass filler and be charged with acetone or a suitable solvent as specified in the standard. UN acetylene cylinders must have a minimum test pressure of 52 bar and may be filled up to the pressure limits specified in ISO 3807:2013(E). The use of UN tubes and MEGCs is not authorized.
+(i) Each UN acetylene cylinder must conform to ISO 3807:2013(E): (IBR, see § 171.7 of this subchapter), have a homogeneous monolithic porous mass filler and be charged with acetone or a suitable solvent as specified in the standard. UN acetylene cylinders must have a minimum test pressure of 52 bar and may be filled up to the pressure limits specified in ISO 3807:2013(E). The use of UN tubes and MEGCs is not authorized.
 
 (ii) Until December 31, 2020, cylinders conforming to the requirements in ISO 3807-2(E) (IBR, *see* § 171.7 of this subchapter), having a homogeneous monolithic porous mass filler and charged with acetone or a suitable solvent as specified in the standard are authorized. UN acetylene cylinders must have a minimum test pressure of 52 bar and may be filled up to the pressure limits specified in ISO 3807-2(E).
 

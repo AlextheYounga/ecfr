@@ -1,8 +1,6 @@
 ##### § 173.165 Polyester resin kits. #####
 
-Link to an amendment published at 87 FR 79777, Dec. 27, 2022.
-
-(a) *General requirements.* Polyester resin kits consisting of a base material component (Class 3, Packing Group II or III) or (Division 4.1, Packing Group II or III) and an activator component (Type D, E, or F organic peroxide that does not require temperature control) -
+(a) *General requirements.* Polyester resin kits consisting of a base material component (Class 3, Packing Group II or III) or (Division 4.1, Packing Group II or III) and an activator component (Type D, E, or F organic peroxide that does not require temperature control)—
 
 (1) The organic peroxide component must be packed in inner packagings not over 125 mL (4.22 fluid ounces) net capacity each for liquids or 500 g (17.64 ounces) net capacity each for solids.
 
@@ -48,6 +46,6 @@ Link to an amendment published at 87 FR 79777, Dec. 27, 2022.
 
 (v) *Stack test capability.* Packages of consumer commodities must be capable of withstanding, without failure or leakage of any inner packaging and without any significant reduction in effectiveness, a force applied to the top surface for a duration of 24 hours equivalent to the total weight of identical packages if stacked to a height of 3.0 m (including the test sample).
 
-(d) *Consumer commodities.* Until December 31, 2020, a limited quantity package of polyester resin kits that are also consumer commodities as defined in § 171.8 of this subchapter may be renamed “Consumer commodity” and reclassed as ORM-D or, until December 31, 2012, as ORM-D-AIR material and offered for transportation and transported in accordance with the applicable provisions of 49 CFR subchapter C (revised as of October 1, 2010).
+(d) [Reserved]
 
-[82 FR 15880, Mar. 30, 2017]
+[82 FR 15880, Mar. 30, 2017, as amended at 87 FR 79777, Dec. 27, 2022]

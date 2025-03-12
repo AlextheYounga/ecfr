@@ -1,7 +1,5 @@
 ##### § 172.315 Limited quantities. #####
 
-Link to an amendment published at 87 FR 79772, Dec. 27, 2022.
-
 (a) *Modes other than air transport.* Except for an article or substance of Class 7 prepared in accordance with subpart I of part 173, a package prepared in accordance with applicable limited quantity requirements in part 173 of this subchapter and offered for transportation by a mode other than air must display the limited quantity marking shown in paragraph (a)(1) of this section. A package displaying this mark is not subject to the marking requirements of § 172.301 of this subpart unless the limited quantity package also contains a hazardous substance or a hazardous waste. Required markings need not be duplicated if already marked as prescribed elsewhere in this subpart. As an alternative, a packaging may display the limited quantity “Y” mark shown in paragraph (b) of this section if the package conforms to authorized substance and article provisions and the inner and outer package quantity limits in § 173.27(f) of this subchapter.
 
 (1) *Marking description.* The top and bottom portions of the square-on-point and the border forming the square-on-point must be black and the center white or of a suitable contrasting background as follows:
@@ -42,8 +40,6 @@ Link to an amendment published at 87 FR 79772, Dec. 27, 2022.
 
 (c) Limited quantity markings prescribed in paragraphs (a) and (b) of this section may use the packaging itself as the contrasting background for the center portion of the marking if the color sufficiently contrasts so that the black border, top and bottom portions of the square-on-point, and the “Y” symbol, if applicable, are clearly recognizable.
 
-(d) *Transitional exceptions* - (1) *Alternative markings.* Except for transportation by aircraft and until December 31, 2015, a package containing a limited quantity may continue to be marked in accordance with the requirements of this section in effect on October 1, 2010 (i.e., square-on-point with identification number only) as an alternative to the marking required by paragraph (a) of this section.
+(d) [Reserved]
 
-(2) *ORM-D marked packaging.* Except for transportation by aircraft and until December 31, 2020, a packaging marked in accordance with § 172.316 of this part is not required to be marked with the limited quantity marking required by paragraph (a) of this section. For transportation by aircraft and until December 31, 2012, a packaging marked in accordance with § 172.316(a)(1) is not required to be marked with the limited quantity “Y” marking required by paragraph (b) of this section.
-
-[76 FR 82174, Dec. 30, 2011, as amended at 78 FR 1073, Jan. 7, 2013; 78 FR 65478, Oct. 31, 2013; 80 FR 1149, Jan. 8, 2015; 81 FR 3671, Jan. 21, 2016; 87 FR 44990, July 26, 2022]
+[76 FR 82174, Dec. 30, 2011, as amended at 78 FR 1073, Jan. 7, 2013; 78 FR 65478, Oct. 31, 2013; 80 FR 1149, Jan. 8, 2015; 81 FR 3671, Jan. 21, 2016; 87 FR 44990, July 26, 2022; 87 FR 79772, Dec. 27, 2022]

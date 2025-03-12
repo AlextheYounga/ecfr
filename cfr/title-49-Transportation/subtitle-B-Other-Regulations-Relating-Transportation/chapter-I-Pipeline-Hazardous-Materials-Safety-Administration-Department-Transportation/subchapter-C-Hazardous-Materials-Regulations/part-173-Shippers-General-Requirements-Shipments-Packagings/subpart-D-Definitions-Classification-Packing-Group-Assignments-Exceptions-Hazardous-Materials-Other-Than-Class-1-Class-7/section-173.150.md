@@ -1,7 +1,5 @@
 ##### § 173.150 Exceptions for Class 3 (flammable and combustible liquids). #####
 
-Link to an amendment published at 87 FR 79776, Dec. 27, 2022.
-
 (a) *General.* Exceptions for hazardous materials shipments in the following paragraphs are permitted only if this section is referenced for the specific hazardous material in the § 172.101 Table of this subchapter.
 
 (b) *Limited quantities.* Limited quantities of flammable liquids (Class 3) and combustible liquids are excepted from labeling requirements, unless the material is offered for transportation or transported by aircraft, and are excepted from the specification packaging requirements of this subchapter when packaged in combination packagings according to this paragraph. For transportation by aircraft, the package must also conform to applicable requirements of § 173.27 of this part (*e.g.,* authorized materials, inner packaging quantity limits and closure securement) and only hazardous material authorized aboard passenger-carrying aircraft may be transported as a limited quantity. A limited quantity package that conforms to the provisions of this section is not subject to the shipping paper requirements of subpart C of part 172 of this subchapter, unless the material meets the definition of a hazardous substance, hazardous waste, marine pollutant, or is offered for transportation and transported by aircraft or vessel, and is eligible for the exceptions provided in § 173.156 of this part. In addition, shipments of limited quantities are not subject to subpart F (Placarding) of part 172 of this subchapter. Each package must conform to the packaging requirements of subpart B of this part and may not exceed 30 kg (66 pounds) gross weight. Except for transportation by aircraft, the following combination packagings are authorized:
@@ -12,7 +10,7 @@ Link to an amendment published at 87 FR 79776, Dec. 27, 2022.
 
 (3) For flammable liquids in Packing Group III and combustible liquids, inner packagings not over 5.0 L (1.3 gallons) net capacity each, packed in a strong outer packaging.
 
-(c) *Consumer commodities.* Until December 31, 2020, a limited quantity package containing a “consumer commodity” as defined in § 171.8 of this subchapter, may be renamed “Consumer commodity” and reclassed as ORM-D or, until December 31, 2012, as ORM-D-AIR material and offered for transportation and transported in accordance with the applicable provisions of this subchapter in effect on October 1, 2010.
+(c) [Reserved]
 
 (d) *Alcoholic beverages.* (1) An alcoholic beverage (wine and distilled spirits as defined in 27 CFR 4.10 and 5.11), when transported via motor vehicle, vessel, or rail, is not subject to the requirements of this subchapter if the alcoholic beverage:
 
@@ -30,7 +28,7 @@ Link to an amendment published at 87 FR 79776, Dec. 27, 2022.
 
 (iii) When carried as cargo, contains more than 24% but not more than 70% alcohol by volume in an inner packaging not exceeding 5 L (1.3 gallons).
 
-(e) *Aqueous solutions of alcohol.* An aqueous solution containing 24 percent or less alcohol by volume and no other hazardous material -
+(e) *Aqueous solutions of alcohol.* An aqueous solution containing 24 percent or less alcohol by volume and no other hazardous material—
 
 (1) May be reclassed as a combustible liquid.
 
@@ -64,7 +62,7 @@ Link to an amendment published at 87 FR 79776, Dec. 27, 2022.
 
 (xi) For bulk packagings only, registration requirements of subpart G of part 107 of this subchapter.
 
-(4) A combustible liquid that is not a hazardous substance, a hazardous waste, or a marine pollutant is not subject to the requirements of this subchapter if it is a mixture of one or more components that -
+(4) A combustible liquid that is not a hazardous substance, a hazardous waste, or a marine pollutant is not subject to the requirements of this subchapter if it is a mixture of one or more components that—
 
 (i) Has a flash point at or above 93 °C (200 °F),
 

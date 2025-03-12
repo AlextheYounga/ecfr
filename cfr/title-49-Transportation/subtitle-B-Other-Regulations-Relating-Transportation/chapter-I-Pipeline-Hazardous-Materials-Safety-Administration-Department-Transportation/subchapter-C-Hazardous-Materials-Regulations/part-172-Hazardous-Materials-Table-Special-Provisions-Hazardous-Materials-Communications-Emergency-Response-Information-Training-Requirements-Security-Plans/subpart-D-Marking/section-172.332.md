@@ -1,7 +1,5 @@
 ##### § 172.332 Identification number markings. #####
 
-Link to an amendment published at 87 FR 79772, Dec. 27, 2022.
-
 (a) *General.* When required by § 172.301, § 172.302, § 172.313, § 172.326, § 172.328, § 172.330, or § 172.331, identification number markings must be displayed on orange panels or placards as specified in this section, or on white square-on-point configurations as prescribed in § 172.336(b).
 
 (b) *Orange panels.* Display of an identification number on an orange panel shall be in conformance with the following:
@@ -30,6 +28,6 @@ Link to an amendment published at 87 FR 79772, Dec. 27, 2022.
 
 (6) If an identification number is placed over the word(s) on a placard, the word(s) should be substantially covered to maximize the effectiveness of the identification number.
 
-(d) Except for size and color, the display of an identification number on a placard shall be as illustrated for Acetone:
+(d) *Example.* Except for size and color, the display of an identification number on a placard shall be as illustrated for Acetone:
 
-![](/graphics/ec02mr91.014.gif)[Amdt. 172-101, 45 FR 74667, Nov. 10, 1980, as amended by Amdt. 172-81, 48 FR 28099, June 20, 1983; Amdt. 172-110, 52 FR 29527, Aug. 10, 1987; Amdt. 172-123, 55 FR 52593, Dec. 21, 1990; 56 FR 66255, Dec. 20, 1991; Amdt. 172-151, 62 FR 1228, Jan. 8, 1997; 65 FR 50459, Aug. 18, 2000; 68 FR 57632, Oct. 6, 2003]
+![](/graphics/er27de22.034.gif)[Amdt. 172-101, 45 FR 74667, Nov. 10, 1980, as amended by Amdt. 172-81, 48 FR 28099, June 20, 1983; Amdt. 172-110, 52 FR 29527, Aug. 10, 1987; Amdt. 172-123, 55 FR 52593, Dec. 21, 1990; 56 FR 66255, Dec. 20, 1991; Amdt. 172-151, 62 FR 1228, Jan. 8, 1997; 65 FR 50459, Aug. 18, 2000; 68 FR 57632, Oct. 6, 2003; 87 FR 79772, Dec. 27, 2022]
