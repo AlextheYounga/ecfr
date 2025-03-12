@@ -4,13 +4,7 @@ The New Markets Tax Credit (NMTC) program is administered by the U.S. Department
 
 (a) *Guaranteed Loans Directly to Qualified Active Low-Income Community Businesses (QALICB).* (1) A lender that is CDE or sub-CDE under the direct control of a regulated lender or an approved non-regulated lender does not need to separately meet the requirements of § 5001.130 to make a guaranteed loan directly to a qualified active low-income community business (QALICB).
 
-(2) The provisions of § 5001.121(c)(2) notwithstanding, a lender that is a CDE or sub-CDE may have an ownership interest in the borrower provided that each condition specified in paragraphs (a)(2)(i) through (iii) of this section is met.
-
-(i) The lender does not have an ownership interest in the borrower prior to the application.
-
-(ii) The lender does not take a controlling interest in the borrower.
-
-(iii) The lender does not provide equity or take an ownership interest in a borrower at a level that would result in the lender owning 20 percent or more interest in the borrower.
+(2) The provisions of § 5001.127(f) notwithstanding, a lender that is a CDE or sub-CDE may have an ownership interest in the borrower provided that each condition specified in paragraphs (a)(2)(i) through (iii) of this section is met.
 
 (3) Notwithstanding § 5001.115(f), a lender that is a CDE or sub-CDE taking an ownership interest in the borrower does not constitute a conflict of interest. The Agency will mitigate the potential for a conflict of interest by requiring appropriate loan covenants establishing, at a minimum, limitations on dividends and distributions of earnings in the loan agreement between the lender and borrower. The Agency will also ensure that the lender limits any waivers of loan covenants and future modifications of loan documents in compliance with this part.
 
@@ -59,3 +53,5 @@ The New Markets Tax Credit (NMTC) program is administered by the U.S. Department
 (12) The lender is responsible for ensuring that the NMTC project complies with the planning, performing, development and project monitoring provisions in § 5001.205 of this part and the lender is also responsible for ensuring the NMTC project complies with all applicable Treasury NMTC requirements.
 
 (13) Sections 5001.401 through 5001.408 of this part apply to both the borrower and the QALICB in a NMTC transaction.
+
+[85 FR 42518, July 14, 2020, as amended at 86 FR 70356, Dec. 10, 2021]

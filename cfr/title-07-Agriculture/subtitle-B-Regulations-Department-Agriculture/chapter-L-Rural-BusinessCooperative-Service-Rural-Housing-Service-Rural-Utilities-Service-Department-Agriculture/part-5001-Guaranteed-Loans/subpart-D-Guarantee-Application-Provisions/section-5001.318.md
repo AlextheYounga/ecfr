@@ -1,6 +1,6 @@
 ##### § 5001.318 B&I project priority point system. #####
 
-This section applies to B&I projects seeking a loan guarantee. When applications on hand have the same priority score, the Agency will give preference to applications involving guaranteed loans from veterans. A maximum of 105 points can be awarded.
+This section applies to B&I projects seeking a loan guarantee. When applications on hand have the same priority score, the Agency will give preference to applications involving guaranteed loans from veterans. To receive veteran points, a veteran or veterans must own 20 percent or more interest in the borrower and the borrower must sign a certification in its application to indicate that the borrower has veteran status. A maximum of 100 points can be awarded.
 
 (a) *Population priority.* If the project is located in an unincorporated area or in a city with a population under 25,000, 5 points will be awarded.
 
@@ -14,15 +14,13 @@ This section applies to B&I projects seeking a loan guarantee. When applications
 
 (4) The boundaries of a federally recognized Indian Tribe's reservation, within Tribal trust lands, or within land owned by an Alaska Native Regional or Village Corporation as defined by the Alaska Native Claims Settlement Act, 5 points will be awarded.
 
-(c) *Guaranteed Loan features.* An application is eligible to receive points under each of the categories identified in paragraphs (c)(1) through (4) of this section as follows:
+(c) *Guaranteed loan features.* An application is eligible to receive points under each of the categories identified in paragraphs (c)(1) through (3) of this section as follows:
 
 (1) If the lender will price the guaranteed loan at an interest rate equal to or less than the equivalent of the *Wall Street Journal* published Prime Rate plus 1.5 percent, 5 points will be awarded.
 
 (2) If the guaranteed loan is less than 60 percent of the total project cost, 5 points will be awarded.
 
-(3) For guaranteed loans not requesting an exception under § 5001.456(c)(2), if the percentage of guarantee is 10 or more percentage points less than the maximum allowable, 5 points will be awarded.
-
-(4) If the business is owned by a qualified veteran, 5 points will be awarded.
+(3) If the business is owned by a qualified veteran, 5 points will be awarded.
 
 (d) *High impact business development investment priorities.* An application is eligible to receive points under each of the categories identified in paragraphs (d)(1) through (7) of this section below:
 
@@ -47,3 +45,5 @@ This section applies to B&I projects seeking a loan guarantee. When applications
 (2) For projects requesting funds from the national reserve account, the State Director may request up to 10 administrative points from the Administrator.
 
 (3) If an application is for a loan in excess of 10 million dollars, the Administrator may assign up to an additional 10 points to account for the nationwide geographic distribution of funds, or projects that will fulfill an Agency special initiative.
+
+[85 FR 42518, July 14, 2020, as amended at 86 FR 70357, Dec. 10, 2021]

@@ -8,6 +8,8 @@
 
 (2) Guaranteed loans must require a periodic payment schedule that will retire the debt over the term of the loan without a balloon payment.
 
-(3) If the promissory note provides for an interest-only period, interest must be paid at least annually starting on a date that is no more than one year from the date of the promissory note. The first full payment on the guaranteed loan including principal and interest must be due and payable within three years from the date of the promissory note or as soon as the project is operational and has begun to generate income, whichever occurs first.
+(3) If the promissory note provides for an interest-only period, interest must be paid at least annually starting on a date that is no more than one year from the date of the promissory note. Scheduling of the first payment of principal and interest will be subject to consideration of whether the facility is operational and generates adequate income. However, the scheduling of the first full principal and interest payment must commence not more than 3 years from the date of the promissory note and be paid at least annually thereafter.
 
 (4) There must be no “due-on-demand” clauses without cause. Regardless of any “due-on-demand” with cause provision in a lender's promissory note, the Agency must concur in any acceleration of the guaranteed loan unless the basis for acceleration is monetary default.
+
+[86 FR 42518, July 14, 2020, as amended at 86 FR 70357, Dec. 10, 2021]

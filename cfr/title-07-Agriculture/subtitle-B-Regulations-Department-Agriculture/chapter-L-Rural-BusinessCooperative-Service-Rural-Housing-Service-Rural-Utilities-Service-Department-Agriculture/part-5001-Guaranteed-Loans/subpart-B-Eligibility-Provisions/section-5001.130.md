@@ -14,6 +14,8 @@ To become a lender under this part, the lending entity must meet the requirement
 
 (5) Maintain internal audit and management control systems to evaluate and monitor the overall quality of its loan origination and servicing activities.
 
+(6) Be registered in and maintain an account in the System for Award Management (SAM) in accordance with 2 CFR 25.200.
+
 (b) *Regulated lending entities.* Regulated lending entities identified in paragraphs (b)(1) through (10) of this section are eligible to receive a loan guarantee under this part without documentation to the Agency provided they are subject to supervision and credit examination by the applicable agency of the United States or a state, or were created specifically by state statute and operate under the direct supervision of a state government authority.
 
 (1) Federal and State chartered banks.
@@ -74,7 +76,7 @@ To become a lender under this part, the lending entity must meet the requirement
 
 (vii) The lender's loan classification scale including their loan classification criteria;
 
-(viii) Information on lending experience, including -
+(viii) Information on lending experience, including—
 
 (A) Length of time in the lending business;
 
@@ -112,7 +114,7 @@ To become a lender under this part, the lending entity must meet the requirement
 
 (d) *Non-regulated lending entities serving tribal trust lands.* The Agency may approve a lending entity serving tribal trust lands that does not meet the criteria of paragraph (b) or (c) of this section to become a lender for a five-year period. A non-regulated lending entity approved to originate and service guaranteed loans for projects located only on tribal trust lands is restricted to such areas. To make and service guaranteed loans not on tribal trust lands, the lending entity must meet the criteria of paragraph (b) or (c) of this section. When the lending entity is a multi-tiered entity, the Agency will consider the lending entity in its entirety for approval.
 
-(1) *Conditions.* To be approved as a lender, a non-regulated lending entity serving only tribal trust lands must -
+(1) *Conditions.* To be approved as a lender, a non-regulated lending entity serving only tribal trust lands must—
 
 (i) Have the legal authority necessary to operate a lending program to borrowers located on tribal trust lands.
 
@@ -142,4 +144,4 @@ To become a lender under this part, the lending entity must meet the requirement
 
 (e) Previously approved lenders. Lenders that have been previously approved by the Agency under one of the guaranteed loan programs identified in § 5001.1(b)(1) through (4) of this part cannot originate new guaranteed loans after the effective date of this rule unless the lender is approved under the applicable conditions of paragraphs (a) through (d), as applicable, of this section.
 
-[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020]
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020; 86 FR 70356, Dec. 10, 2021]

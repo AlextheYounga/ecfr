@@ -2,7 +2,7 @@
 
 (a) The lender must not close the guaranteed loan until all conditions of the conditional commitment are met.
 
-(b) Simultaneously with or immediately after the guaranteed loan closing, the lender must provide to the Agency the guarantee fee, any secondary market assignment documents, and the following forms and documents:
+(b) Simultaneously with or immediately after the guaranteed loan closing, the lender must provide to the Agency the guarantee fee, and the following forms and documents:
 
 (1) An Agency-approved, “Guaranteed Loan Closing Report”;
 
@@ -56,11 +56,11 @@
 
 (K) The borrower has marketable title to the collateral then owned by the borrower, subject to the rights of the guaranteed loan and to any other exceptions approved in writing by the Agency.
 
-(L) Where required, necessary or prudent, the borrower has obtained -
+(L) Where required, necessary or prudent, the borrower has obtained—
 
 (*1*) A legal opinion relative to the title and accessibility to any rights-of-way and easements; and
 
-(*2*) A title opinion or title insurance showing the borrower has good and marketable title to real property and other collateral and all mortgages or other lien defects, restrictions, or encumbrances, if any.
+(*2*) A title opinion or title insurance showing the borrower has good and marketable title to the real property and other collateral and fully addressing all existing mortgages or other lien defects, restrictions or encumbrances. In those cases where there is adequate gap coverage, a title commitment may be acceptable.
 
 (M) All project funds have been or will be disbursed for purposes and in amounts consistent with the conditional commitment (or Agency-approved amendment thereof) and the application submitted to the Agency. Appropriate lender controls were used to ensure that all funds were properly disbursed, including funds for working capital. A copy of a settlement statement by the lender detailing the use of loan and matching/equity funds must be attached to support this certification.
 
@@ -90,4 +90,4 @@
 
 (e) For all B&I projects a borrower whose project involves locally or regionally produced agricultural food products and is not located in a rural area must include in an appropriate agreement with retail and institutional facilities to which the borrower sells locally or regionally produced agricultural food products a requirement to inform consumers of the retail or institutional facilities that the consumers are purchasing or consuming locally or regionally produced agricultural food products.
 
-[85 FR 42518, July 14, 2020, as amended at 85 FR 62198, Oct. 2, 2020]
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62198, Oct. 2, 2020; 86 FR 70358, Dec. 10, 2021]

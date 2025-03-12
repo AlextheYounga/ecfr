@@ -22,25 +22,7 @@ For each application, the lender must prepare a credit evaluation that is consis
 
 (ii) The lender should discount collateral consistent with sound loan-to-discounted value practices which must be adequate to secure the guaranteed loan in accordance with this section. To assess collateral adequacy and appropriate levels of discounting, the lender should give consideration to the type, quality, location, marketability, and alternative uses of the collateral and the basis for the valuation of the collateral, *e.g.* collateral valued on a cost or replacement valuation or market or comparable sales valuation may require variance of discount factors. The lender must provide satisfactory justification of the discounts being used.
 
-(5) *Conditions.* This factor refers to the general business environment, including the regulatory environment affecting the business or industry, and status of the Borrower's industry. Consideration will be given to items listed below and, when applicable, the lender should submit supporting documentation (*e.g.,* feasibility study, market study, preliminary architectural or engineering reports, etc.):
-
-(i) Availability and depth of resource/feedstock market, strength and duration of purchase agreements and availability of substitutes;
-
-(ii) Analysis of current and future market potential and off-take agreements, competition, type of project (service, product, or commodity based),
-
-(iii) Energy infrastructure, availability and dependability, transportation and other infrastructure, and environmental considerations;
-
-(iv) Technical feasibility including demonstrated performance of the technology and integrated processing equipment and systems, developer system performance guarantees, or technology insurance;
-
-(v) Complexity of construction and completion, terms of construction contracts, experience and financial strength of the construction contractor or engineering, procurement, and construction (EPC) contractor;
-
-(vi) Contracts and intellectual property rights, licenses, permits, and state and local regulations;
-
-(vii) Creditworthiness of any counterparties, as applicable;
-
-(viii) Industry-related public policy issues; and
-
-(ix) Other criteria that the lender or Agency deems relevant to the project.
+(5) *Conditions.* This factor refers to the general business environment, including the regulatory environment affecting the business or industry, and status of the Borrower's industry. Consideration will be given to items listed below and, when applicable, the lender should submit supporting documentation (*e.g.,* feasibility study, market study, preliminary architectural or engineering reports, etc.) in accordance with §§ 5001.304 through 5001.307:
 
 (6) *Content.* The credit evaluation must be sufficiently detailed to describe the proposed loan, business and project scenario and document that the proposed loan is sound. The credit evaluation must include:
 
@@ -56,4 +38,4 @@ For each application, the lender must prepare a credit evaluation that is consis
 
 (vi) Operational cash flow analysis on a quarterly basis from the current financial statements through start-up or occupancy for projects involving construction when lenders are requesting the loan note guarantee prior to completion of construction.
 
-[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020]
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020; 86 FR 70356, Dec. 10, 2021]

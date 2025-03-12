@@ -1,6 +1,6 @@
 ##### § 5.37 Alcohol content. #####
 
-(a) *Statements* - (1) *Mandatory statement.* The alcohol content for distilled spirits shall be stated in percent-alcohol-by-volume. Products such as “Rock and Rye” or similar products containing a significant amount of solid material shall state the alcohol content at the time of bottling as follows: “Bottled at \_\_\_ percent-alcohol-by-volume.”
+(a) *Statements* - (1) *Mandatory statement.* The alcohol content for distilled spirits shall be stated in percent-alcohol-by-volume. Products such as “Rock and Rye” or similar products containing a significant amount of solid material shall state the alcohol content at the time of bottling as follows: “Bottled at \_\_ percent-alcohol-by-volume.”
 
 (2) *Optional statement.* In addition, the label may also state the alcohol content in degrees of proof if this information appears in direct conjunction (*i.e.*, with no intervening material) with the statement expressed in percent-alcohol-by-volume. If both forms of alcohol content are shown, the optional statement in degrees of proof shall be placed in parentheses, in brackets, or otherwise distinguished from the mandatory statement in percent-alcohol-by-by-volume to emphasize the fact that both expressions of alcohol content mean the same thing.
 

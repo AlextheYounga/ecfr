@@ -1,12 +1,12 @@
 ##### § 5001.105 Eligible B&I projects and requirements. #####
 
-For a B&I project to be eligible for a loan guarantee under this part, it must meet the criteria specified in § 5001.102 and this section and be for a borrower eligible to submit an application for the project in accordance with § 5001.126.
+For a B&I project to be eligible for a loan guarantee under this part, it must meet the criteria specified in § 5001.102, be for a borrower eligible to submit an application for the project in accordance with § 5001.126, and the uses of loan funds include, but are not limited to, the following:
 
 (a) *Purpose.* The purpose of the project must be to improve, develop, or finance business, industry, and employment and improve the economic and environmental climate in rural communities; the conservation, development, and use of water for aquaculture purposes; and reducing reliance on nonrenewable energy resources through development and construction of solar energy and other renewable energy systems.
 
 (b) *Type of project.* The project must be for one or more of the uses described in paragraphs (b)(1) through (22) of this section.
 
-(1) Purchase and development of land, buildings, and associated infrastructure for commercial or industrial properties, including expansion or modernization.
+(1) Purchase and development of land, buildings, or infrastructure for public or private commercial enterprises or industrial properties, including expansion or modernization.
 
 (2) Business acquisitions, start-ups, and expansions if jobs will be created or saved. A business acquisition is considered the acquisition of an entire business, not a partial stock acquisition in a business. However, acquisition or change of ownership between existing owners is an eligible project when the remaining owner(s) held their ownership and actively participated in the business operation for at least the past 24 months and the selling owner will not retain any ownership interest in the business directly or indirectly including through other entities or trusts or property rights.
 
@@ -38,11 +38,11 @@ For a B&I project to be eligible for a loan guarantee under this part, it must m
 
 (G) Production of algae and aquaculture, including conservation, development, and utilization of water for aquaculture.
 
-(8) Tourist and recreation facilities, including hotels, motels, bed and breakfast establishments, and resort trailer parks and campgrounds.
+(8) Tourist and recreation facilities, including hotels, motels, bed and breakfast establishments, and resort trailer parks and campgrounds operated as a public or private commercial enterprise. Owner-occupied housing, such as bed and breakfasts, hotels and motels are only allowed when the pro rata value of a direct owner's living quarters, based on square footage, is deducted from the use of loan proceeds.
 
-(9) Educational or training facilities.
+(9) Educational or training facilities including other CF projects when not eligible for financing through Rural Housing Service or Community Facilities programs.
 
-(10) CF projects consistent with § 5001.103 when not eligible for financing through Rural Housing Service or Community Facilities programs.
+(10) Development and construction of broadband and telecommunication systems, including modification of existing systems, that are not otherwise eligible for funding in the RUS program or if funding is unavailable in the RUS program, subject to the Public Notice Filing requirements of 7 CFR 1738.106(a) and the additional reporting requirements of 7 CFR 1738.107.
 
 (11) Industries undergoing adjustment from terminated Federal agricultural price and income support programs or increased competition from foreign trade.
 
@@ -118,39 +118,37 @@ For a B&I project to be eligible for a loan guarantee under this part, it must m
 
 (1) Existing businesses must meet one of the following requirements:
 
-(i) A minimum of 10 percent balance sheet equity (including subordinated debt when subject to a standstill agreement), or a maximum debt-to-balance sheet equity ratio of 9 to 1, at loan closing;
+(i) A minimum of 10 percent balance sheet equity (including subordinated debt when subject to a standstill agreement for the life of the loan), or a maximum debt-to-balance sheet equity ratio of 9 to 1, at loan closing;
 
-(ii) A 10 percent or more of total eligible project costs, borrower investment of equity or other funds into the project including grants or subordinated debt when subject to a standstill agreement;
+(ii) A 10 percent or more of total eligible project costs, borrower investment of equity or other funds into the project including grants or subordinated debt when subject to a standstill agreement for the life of the loan;
 
 (iii) Balance sheet equity includes owner-contributed capital of ten percent or more of total fixed assets (net total fixed assets plus depreciation.)
 
 (2) New businesses with sales contract(s) with proceeds in an amount adequate to meet debt service and the term of the sales contract(s) are at least equal to the term of the guaranteed loan, and subject to Agency acceptance of the credit worthiness of the counterparty, the borrower must meet one of the following requirements:
 
-(i) A minimum of 10 percent balance sheet equity (including subordinated debt when subject to a standstill agreement), or a maximum debt-to-balance sheet equity ratio of 9 to 1 at loan closing; or
+(i) A minimum of 10 percent balance sheet equity (including subordinated debt when subject to a standstill agreement for the life of the loan), or a maximum debt-to-balance sheet equity ratio of 9 to 1 at loan closing; or
 
-(ii) Borrower investment of equity or other funds (including subordinated debt when subject to a standstill agreement and grants) into the project in an amount of 10 percent or more of total eligible project cost;
+(ii) Borrower investment of equity or other funds (including subordinated debt when subject to a standstill agreement for the life of the loan and grants) into the project in an amount of 10 percent or more of total eligible project cost;
 
 (3) New businesses with a project involving construction and when the lender will request the loan note guarantee prior to completion of construction must meet one of the following requirements:
 
-(i) A minimum of 25 percent balance sheet equity at guaranteed loan closing; or
+(i) A minimum of 25 percent balance sheet equity (including subordinated debt when subject to a standstill agreement for the life of the loan), or a maximum debt-to-equity ratio of 3 to 1, at guaranteed loan closing; or
 
-(ii) Borrower investment of equity or other funds into the project in an amount of 25 percent or more of total eligible project cost;
+(ii) Borrower investment of equity or other funds (including subordinated debt when subject to a standstill agreement for the life of the loan and grants) into the project in an amount of 25 percent or more of total eligible project cost;
 
 (4) All other borrowers that are new businesses must meet one of the following requirements:
 
-(i) A minimum of 20 percent balance sheet equity, or a maximum debt-to-equity ratio of 4 to 1, at guaranteed loan closing, or;
+(i) A minimum of 20 percent balance sheet equity (including subordinated debt when subject to a standstill agreement for the life of the loan), or a maximum debt-to-equity ratio of 4 to 1, at guaranteed loan closing, or;
 
-(ii) Borrower investment of equity or other funds into the project in an amount of 25 percent or more of total eligible project cost;
+(ii) Borrower investment of equity or other funds (including subordinated debt when subject to a standstill agreement for the life of the loan and grants) into the project in an amount of 25 percent or more of total eligible project cost;
 
 (5) Variances in capital and equity requirements:
 
 (i) *Increases.* The Agency may increase the capital or equity requirement specified under paragraphs (d)(1) through (4) of this section for guaranteed loans the Agency determines carry a higher risk. In determining whether a project or guaranteed loan carries a higher risk, the Agency will consider the current status of the industry, concentration of the industry in the Agency's portfolio, collateral coverage, value of personal or corporate guarantees, cash flow, and contractual relationships with suppliers and buyers; credit rating of the borrower; and the strength of the feasibility study and experience of management. The Agency may also increase the capital or equity requirement for new businesses using integrated processing equipment and systems such as biorefineries, renewable energy systems, chemical manufacturing facilities, and businesses producing new products to sell into new and emerging markets.
 
-(ii) *Reductions.* The Agency may reduce the minimum equity requirement for an existing business when personal or corporate guarantees are obtained in accordance with § 5001.204 of this part; and all pro forma and historical financial statements indicate the business to be financed meets or exceeds the median quartile (as identified in the Risk Management Association's Annual Statement Studies or similar publication) for the current ratio, quick ratio, debt-to-worth ratio, and debt service coverage ratio.
+(ii) *Reductions.* The Agency may reduce the minimum equity requirement for an existing business when personal or corporate guarantees are obtained in accordance with § 5001.204 of this part; and all pro forma statements indicate the business to be financed meets or exceeds the median quartile (as identified in the Risk Management Association's Annual Statement Studies or similar publication) for the current ratio, quick ratio, debt-to-worth ratio, and debt service coverage ratio.
 
 (6) Certification: The lender must certify that, as of the date the guaranteed Loan was closed, its credit analysis indicated that the borrower had sufficient capital or equity to mitigate the financial and operational risks of the business, and that the borrower met the minimum equity required by the Agency in its conditional commitment, or that the minimum borrower capital contribution toward project costs, as applicable and required by the Agency, was met. A copy of the borrower's loan closing balance sheet must be included with the lender's certification.
-
-Table 1 to § 5001.105(d) - Capital Equity Requirements Summary
 
 |                                                                                     Borrower                                                                                      |Borrower must meet one of the following at the time of the closing of the guaranteed loan:|                                                                                                  |   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---|
@@ -160,4 +158,4 @@ Table 1 to § 5001.105(d) - Capital Equity Requirements Summary
 |          Borrowers that are new businesses for a project involving construction and the lender will request the loan note guarantee prior to completion of construction.          |                                           ≥25                                            |                                               ≥25                                                |N/A|
 |                                                                    All other borrowers that are new businesses                                                                    |                                           ≥20                                            |                                               ≥25                                                |N/A|
 
-[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020]
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020; 86 FR 70355, Dec. 10, 2021]

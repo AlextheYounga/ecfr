@@ -4,7 +4,11 @@ The following definitions are applicable to the capitalized terms used in this p
 
 *Administrator* means the Administrator of the Rural Housing Service, the Rural Utilities Service, or the Rural Business-Cooperative Service (or the applicable Service's successor), as applicable, within the Rural Development mission area of the U.S. Department of Agriculture (USDA).
 
-*Affiliates* means persons who control or have the power to control another entity, or a third party or parties that control or have the power to control both.
+*Affiliate* means a person where one of the following circumstances exists:
+
+(1) The person controls or has the power to control another person, or a third party or parties' controls or has the power to control both. Factors such as ownership, management, current and previous relationships with or ties to another person, and contractual relationships, shall be considered in determining whether affiliation exists. It does not matter whether control is actually exercised, so long as the power to control exists. Entities owned and controlled by Indian Tribes, Alaskan Native Corporations (ANCs), Native Hawaiian Organizations (NHOs), Community Development Corporations (CDCs), or wholly-owned entities of Indian Tribes, ANCs, NHOs, or CDCs, are not considered to be affiliated with other entities owned by these entities solely because of their common ownership or common management.
+
+(2) There is a family relationship and identical or substantially identical business or economic interests amongst persons (such as where the immediate family operate entities in the same or similar industry in the same geographic area); however, a person may rebut such determination with evidence showing that the business or economic interests are not identical or substantially identical.
 
 *Agency* means USDA Rural Development, which includes the Rural Housing Service; the Rural Utilities Service; and the Rural Business-Cooperative Service or their successors.
 
@@ -104,7 +108,7 @@ The following definitions are applicable to the capitalized terms used in this p
 
 (4) An individual with a 4-year engineering or architectural degree with at least three years of experience and who has completed at least five similar type energy audits.
 
-*Energy efficiency improvement (EEI)* means improvements to or replacement of an existing building or systems, or equipment that reduces measurable energy consumption on an annual basis.
+*Energy efficiency improvement (EEI)* means improvements to or replacement of an existing building or systems, or equipment owned by the borrower, that reduces measurable energy consumption on an annual basis.
 
 *Energy efficient equipment and systems (EEE)* means equipment or systems for agricultural production or processing that exceed any of the following standards:
 
@@ -118,7 +122,8 @@ The following definitions are applicable to the capitalized terms used in this p
 
 *Essential community facility* means a public improvement, operated on a non-profit basis, needed for the orderly development of a rural community where the rural community is a city or town, or its equivalent county or multi-county area. The term “facility” refers to both the physical structure financed, and the resulting service provided to rural residents or rural businesses. Facilities may include, but are not be limited to, courthouses, community centers, libraries, firehouses, health care, education, transportation, and industrial parks. An industrial park consists of land and the necessary access ways and utilities to the site, but not improvements erected on such site.
 
-*Existing business* means a business that has been in operation for at least one full year. The following will be treated as existing businesses provided there is not a significant change in operations of the existing business: Mergers by an existing business with a new or existing businesses, a change in the business name, or a new business and an existing business applying as co-borrowers,
+*Existing business* means a business that has been in operation for at least one full year and has achieved full operational capacity or stable operations as determined by the Administrator.
+The following will be treated as existing businesses provided there is not a significant change in operations of the existing business: Mergers by an existing business with a new or existing businesses, a change in the business name, or a new business and an existing business applying as co-borrowers,
 
 *Farmer or rancher cooperative* means an entity that is owned and controlled by agricultural producers and that is incorporated, or otherwise recognized by the State in which it operates as a cooperatively-operated business or an entity that is not legally chartered as a cooperative but is owned and operated for the benefit of its members, with returns of residual earnings paid to such members on the basis of patronage.
 
@@ -128,7 +133,7 @@ The following definitions are applicable to the capitalized terms used in this p
 
 *Federal fiscal year* means the 12-month period beginning October 1 of each year and ends on September 30 of the following year; it is designated by the calendar year in which it ends.
 
-*Final loss claim* means the Agency's payment of a final settlement amount with the lender after the collateral is liquidated or after settlement and compromise actions have been completed and as further set forth in § 5001.521(d)(3)(e).
+*Final loss claim* means the Agency's payment of a final settlement amount with the lender after the collateral is liquidated or after settlement and compromise actions have been completed and as further set forth in § 5001.521(e).
 
 *Financial feasibility* means the ability of a project to achieve sufficient income, credit, and cash flow to financially sustain the project over the long term and meet all debt obligations.
 
@@ -234,7 +239,7 @@ The following definitions are applicable to the capitalized terms used in this p
 
 *Negligent loan servicing* means the failure of a lender to perform those services that a reasonably prudent lender would perform in servicing (including liquidation of) its own portfolio of loans that are not guaranteed. The term includes the concepts of failure to act, not acting in a timely manner, and acting in a manner contrary to the manner in which a reasonably prudent lender would act.
 
-*New business* means a business that has been in operation for less than one full year, including a new enterprise or new affiliate of an existing business moving or expanding into a new location involving new market or labor areas.
+*New business* means a business that has been in operation for less than one full year and a business that has been in operation for at least one full year and has not achieved full operational capacity or stable operations as determined by the Administrator, including a new enterprise or new affiliate of an existing business moving or expanding into a new location involving new market or labor areas.
 
 *Non-monetary default* means a situation where a borrower is not in compliance with the covenants or requirements of the loan documents, program requirements or loan.
 
@@ -262,7 +267,7 @@ The following definitions are applicable to the capitalized terms used in this p
 
 *Person* means an individual or entity organized under the laws of a State or a Tribe.
 
-*Power purchase agreement* means the terms and conditions governing the sale and transportation of electricity produced by the borrower to another party.
+*Power purchase agreement* means the terms and conditions governing the sale and transportation of power produced by the borrower to another party.
 
 *Professional service* means services used by the borrower for planning and developing a project, including, but not limited to, appraisals, architectural services, surveys, environmental impact analyses, implementing mitigation measures, and establishing or acquiring property rights. Such services are generally rendered by persons licensed or certified by States or accreditation associations, such as architects, engineers, accountants, attorneys, or appraisers, and those rendered by loan packagers, but not including loan finders.
 
@@ -422,4 +427,4 @@ The following definitions are applicable to the capitalized terms used in this p
 
 *Working Capital* means current assets available to support a business' operations and growth. Working capital is calculated as current assets less current liabilities.
 
-[85 FR 42518, July 14, 2020, as amended at 85 FR 62196, Oct. 2, 2020]
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62196, Oct. 2, 2020; 86 FR 70354, Dec. 10, 2021]

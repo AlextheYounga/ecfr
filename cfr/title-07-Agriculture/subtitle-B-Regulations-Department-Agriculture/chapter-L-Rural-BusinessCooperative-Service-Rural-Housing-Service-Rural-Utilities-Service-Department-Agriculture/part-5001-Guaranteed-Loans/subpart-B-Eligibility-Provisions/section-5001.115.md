@@ -1,4 +1,4 @@
-##### § 5001.115 Ineligible projects - general. #####
+##### § 5001.115 Ineligible projects—general. #####
 
 The Agency will not issue a loan guarantee under this part for any of the projects identified in this section, unless otherwise noted. The following are ineligible projects for the CF, WWD, B&I and REAP programs:
 
@@ -28,7 +28,7 @@ The Agency will not issue a loan guarantee under this part for any of the projec
 
 (m) New combined sanitary and storm water sewer facilities.
 
-(n) Owner-occupied housing.
+(n) Except as provided in § 5001.105(b)(8), owner-occupied housing.
 
 (o) Loans on which the interest is excludable from income under current or a successor statute of the Internal Revenue Code. Funds generated through the issuance of tax-exempt obligations cannot be used to purchase the guaranteed portion of any Agency guaranteed loan and an Agency guaranteed loan cannot serve as collateral for a tax-exempt issue.
 
@@ -38,6 +38,4 @@ The Agency will not issue a loan guarantee under this part for any of the projec
 
 (r) Loans supporting inherently religious activities, such as worship, religious instruction, proselytization, or to pay costs associated with acquisition, construction, or rehabilitation of structures for inherently religious activities, including the financing of multi-purpose facilities where religious activities will be among the activities conducted. However, religious organizations may participate in projects eligible for funding under section 306(a)(24) of the Consolidated Farm and Rural Development Act, 7 U.S.C. 1926(a)(24), provided they do not use Agency assistance for inherently religious activities in accordance with 7 CFR part 16, “Equal Opportunity for Religious Organizations.”
 
-(s) Self-storage facilities.
-
-[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020]
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020; 86 FR 70356, Dec. 10, 2021]

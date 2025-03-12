@@ -112,7 +112,7 @@
 
 (*1*) *Emergency rule extending sablefish primary season.* Effective October 29, 2021, until December 31, 2021, notwithstanding any other section of these regulations, the primary sablefish season described at § 660.231 is April 1 through December 31 for vessels registered to a sablefish-endorsed limited entry permit using bottom longline gear, as defined at § 660.11.
 
-(*2*) [Reserved]
+(*2*) *Emergency rule extending sablefish primary season for vessels using pot gear.* Effective December 10, 2021, until December 31, 2021, notwithstanding any other section of this part, the primary sablefish season described at § 660.231 is extended until December 31 for vessels registered to a sablefish-endorsed limited entry permit using pot/trap gear, as defined at § 660.11.
 
 (D) *Change in MS/CV endorsement registration.* The requirements for a change in MS/CV endorsement registration between limited entry trawl permits are specified at § 660.150(g)(2)(iv).
 
@@ -127,6 +127,8 @@
 (*1*) *Emergency rule extending sablefish primary season.* Effective October 29, 2021, until December 31, 2021, notwithstanding any other section of these regulations, the primary sablefish season described at § 660.231 is April 1 through December 31 for vessels registered to a sablefish-endorsed limited entry permit using bottom longline gear, as defined at § 660.11.
 
 (*2*) *Temporary changes in vessel registration.* Effective October 29, 2021, until December 31, 2021, a change in vessel registration that causes the new vessel to exceed the permit stacking limits will expire at 11:59 p.m. on December 31, 2021. At 11:59 p.m. on December 31, 2021, NMFS will return any sablefish-endorsed limited entry permit exceeding the permit stacking limit to the original vessel.
+
+(*3*) *Emergency rule extending sablefish primary season for vessels using pot gear.* Effective December 10, 2021, until December 31, 2021, notwithstanding any other section of this part, the primary sablefish season described at § 660.231 is extended until December 31 for vessels registered to a sablefish-endorsed limited entry permit using pot/trap gear, as defined at § 660.11.
 
 (vii) *Restriction on frequency of changes in vessel registration* - (A) *General.* A permit owner may designate the vessel registration for a permit as “unidentified,” meaning that no vessel has been identified as registered for use with that permit. No vessel is authorized to use a permit with the vessel registration designated as “unidentified.” A vessel owner who removes a permit from his vessel and registers that permit as “unidentified” is not exempt from VMS requirements at § 660.14, unless specifically authorized by that section. When a permit owner requests that the permit's vessel registration be designated as “unidentified,” the transaction is not considered a change in vessel registration for purposes of this section. Any subsequent request by a permit owner to change from the “unidentified” status of the permit in order to register the permit with a specific vessel will be considered a change in vessel registration and subject to the restriction on frequency and timing of changes in vessel registration.
 
@@ -228,6 +230,8 @@
 
 (v) Shall be considered a grant of permission to the holder of the permit, license, or account to engage in activities permitted by such permit, license, or account.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78381, Dec. 15, 2010; 76 FR 53835, Aug. 30, 2011; 76 FR 74734, Dec. 1, 2011; 77 FR 55155, Sept. 7, 2012; 78 FR 68767, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 81 FR 84426, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018; 85 FR 37029, June 19, 2020; 85 FR 68003, Oct. 27, 2020; 86 FR 26442, May 14, 2021; 86 FR 58813, Oct. 25, 2021; 86 FR 59875, Oct. 29, 2021]Effective Date Notes:1. At 86 FR 26442, May 14, 2021, § 660.25 was amended by adding paragraph (b)(4)(vii)(D), effective May 14, 2021, until Nov. 10, 2021. At 86 FR 58811, Oct. 25, 2021, the effective date was extended to Dec. 31, 2021.
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78381, Dec. 15, 2010; 76 FR 53835, Aug. 30, 2011; 76 FR 74734, Dec. 1, 2011; 77 FR 55155, Sept. 7, 2012; 78 FR 68767, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 81 FR 84426, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018; 85 FR 37029, June 19, 2020; 85 FR 68003, Oct. 27, 2020; 86 FR 26442, May 14, 2021; 86 FR 58813, Oct. 25, 2021; 86 FR 59875, Oct. 29, 2021; 86 FR 70422, Dec. 10, 2021]Effective Date Notes:1. At 86 FR 26442, May 14, 2021, § 660.25 was amended by adding paragraph (b)(4)(vii)(D), effective May 14, 2021, until Nov. 10, 2021. At 86 FR 58811, Oct. 25, 2021, the effective date was extended to Dec. 31, 2021.
 
-2. At 86 FR 59875, Oct. 29, 2021, § 660.25 was amended by adding paragraphs (b)(3)(ii)(A) and (B), (b)(3)(iv)(A)(*3*), (b)(4)(iii)(A) and (B), (b)(4)(v)(C)(*1*) and (*2*), (b)(4)(vi)(D)(*1*) and (*2*), and (b)(4)(vii)(B)(*1*) and (*2*), effective Oct. 29, 2021, until Dec. 31, 2021.
+2. At 86 FR 59875, Oct. 29, 2021, § 660.25 was amended by adding paragraphs (b)(3)(ii)(A) and (B), (b)(3)(iv)(A)(*3*), (b)(4)(iii)(A) and (B), (b)(4)(v)(C)(*1*), (b)(4)(vi)(D)(*1*) and (*2*), and (b)(4)(vii)(B)(*1*) and (*2*), effective Oct. 29, 2021, until Dec. 31, 2021.
+
+3. At 86 FR 70422, Dec. 10, 2021, § 660.25 was amended by adding paragraphs (b)(4)(v)(C)(*2*) and (b)(4)(vi)(D)(*3*), effective Dec. 10, 2021, until Dec. 31, 2021.

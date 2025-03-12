@@ -4,10 +4,18 @@ In addition to the requirements specified in § 5001.303 as applicable, a lender
 
 (a) *Financial feasibility analysis.* The financial feasibility analysis will be prepared by a qualified firm or individual who may be the lender. Financial feasibility analysis requirements are outlined in appendix B to subpart D of this part. The lender's credit evaluation may serve as the financial feasibility analysis provided it includes the items outlined in appendix B to subpart D of this part. A financial feasibility analysis will be required if any of the following circumstances exist:
 
-(1) Guaranteed loans of $5 million or less;
+(1) Guaranteed loans of $25 million or less to existing community facilities;
 
 (2) Guaranteed loans secured by a general obligation bond, or other tax supported income sufficient to pay the debt service for the life of the loan; or
 
 (3) Borrowers with audited financial statements, if the last three years indicate the ability to pay all existing and new debt service.
 
+(4) The Agency may require a Feasibility Study when the lender's analysis, borrower's business plan, or project information is not sufficient to determine the technical feasibility, market feasibility, or economic viability of the project.
+
+(i) For guaranteed loans greater than $1,000,000.00 to a new entity or an entity conducting a new activity, a feasibility study prepared by an independent qualified consultant acceptable to the Agency is required. The scope of the feasibility study will be determined by the Agency and is dependent on the complexity of the project and the borrower.
+
+(ii) For loans of $1,000,000.00 or less to new and existing entities, the Agency may require a feasibility study when the lender's analysis or other borrower information is not sufficient to determine the technical feasibility or economic viability of the project, or if the project will significantly affect the operations of a borrower who is an existing entity and its historic cash flow.
+
 (b) *Financial feasibility study with examination opinion.* The report must be prepared in accordance with the standards of attestation of the American Institute of Certified Public Accountants, and the preparer must have the requisite professional liability insurance in place. A financial feasibility study with examination opinion will be required for all guaranteed loans that do not meet the requirements for a financial feasibility analysis outlined in paragraph (a) of this section. The financial feasibility study with examination opinion will typically include the items outlined in appendix B to subpart D of this part.
+
+[85 FR 42518, July 14, 2020, as amended at 86 FR 70357, Dec. 10, 2021]

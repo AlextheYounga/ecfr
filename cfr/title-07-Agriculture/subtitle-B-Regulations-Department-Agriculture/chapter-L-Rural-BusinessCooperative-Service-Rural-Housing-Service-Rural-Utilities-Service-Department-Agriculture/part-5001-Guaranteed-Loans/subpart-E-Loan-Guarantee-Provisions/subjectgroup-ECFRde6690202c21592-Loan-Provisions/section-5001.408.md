@@ -18,7 +18,7 @@
 
 (5) *Secondary market.* The lender must properly close their loan and fully disburse loan funds of a promissory note for the purposes intended prior to assignment of the guaranteed portion of the promissory note(s) on the secondary market. The lender can assign all or part of the guaranteed portion of the loan only if the loan is not in default.
 
-(b) *Lender's servicing fee to holder.* The assignment guarantee agreement must clearly state the guarantee portion of loan as a percentage and corresponding dollar amount of the guaranteed portion of the guaranteed loan it represents and the lender's servicing fee. The lender must maintain a minimum servicing fee of 50 basis points from any holder. The lender cannot charge the Agency a servicing fee and servicing fees are not eligible expenses for loss claim.
+(b) *Lender's servicing fee to holder.* The assignment guarantee agreement must clearly state the guarantee portion of loan as a percentage and corresponding dollar amount of the guaranteed portion of the guaranteed loan it represents and the lender's servicing fee. The lender cannot charge the Agency a servicing fee and servicing fees are not eligible expenses for loss claim.
 
 (c) *Distribution of proceeds.* The lender must apply all loan payments and collateral proceeds received, after payment of liquidation expenses, to the guaranteed and unguaranteed portions of the loan on a pro rata basis.
 
@@ -48,4 +48,4 @@
 
 (3) The lender must reimburse the Agency for any payments the Agency makes to a holder on the lender's behalf under the loan note guarantee, given the lender would not be entitled to the payments had they retained the entire interest in the loan.
 
-[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020]
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020; 86 FR 70358, Dec. 10, 2021]

@@ -12,10 +12,12 @@
 
 (d) *Fixed rate to variable rate change.* Fixed rates can be changed to variable rates to reduce the borrower's interest rate only when the variable rate has a ceiling that is less than or equal to the original fixed rate.
 
-(e) *Variable rate to fixed rate change.* Variable rates can be changed to a fixed rate that is lower or equal to the current variable rate.
+(e) *Variable rate to fixed rate change.* Variable rates can be changed to a fixed rate at the request of the borrower, agreement of the holder, if any, and Agency concurrence.
 
 (f) *After adjustments.* The interest rates, after adjustments, must comply with the requirements for interest rates on new loans as established by paragraph § 5001.401.
 
 (g) *Documentation.* The lender is responsible for the legal documentation of interest rate changes by an endorsement or any other legally effective amendment to the promissory note; however, no new promissory notes can be issued. The lender must provide copies of all such documents to the Agency within 10 calendar days of the change.
 
 (3) In a final loss settlement when qualifying interest rate changes are made in compliance with this part, the lender must calculate interest based on the periods the given rates were in effect. The lender must maintain records that adequately document the accrued interest claimed, which must be determined in accordance with § 5001.450(c).
+
+[85 FR 42518, July 14, 2020, as amended at 86 FR 70358, Dec. 10, 2021]

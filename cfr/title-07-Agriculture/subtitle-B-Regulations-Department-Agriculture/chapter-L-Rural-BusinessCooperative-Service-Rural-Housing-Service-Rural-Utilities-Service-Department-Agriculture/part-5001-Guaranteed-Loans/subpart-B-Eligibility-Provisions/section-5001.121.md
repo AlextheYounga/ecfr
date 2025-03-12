@@ -1,6 +1,6 @@
 ##### § 5001.121 Eligible uses of loan funds. #####
 
-Guaranteed loan funds can only be used for the items specified in this section.
+Guaranteed loan funds can only be used for the items specified in this section. In addition, RD may allow a recipient of a loan guarantee under this Part to use up to 10 percent of project funds to construct, improve, or acquire broadband infrastructure related to the project financed, subject to the requirements of 7 CFR part 1980, subpart M.
 
 (a) *CF projects.* Guaranteed loan funds for an essential CF project receiving a loan guarantee under § 5001.1 may be used to pay the expenses identified in paragraphs (a)(1) through (3) of this section.
 
@@ -74,7 +74,7 @@ Guaranteed loan funds can only be used for the items specified in this section.
 
 (5) Pollution control and abatement.
 
-(6) Takeout of interim financing: Guaranteeing a loan that provides for permanent, long-term financing after project completion to pay off a lender's interim loan will not be treated as debt refinancing provided that the lender submits a complete preapplication or application that proposes such interim financing prior to closing the interim loan. The borrower must take no action until the conclusion of the environmental review process prior to any action that would have an adverse effect on the environment or limit the choices of any reasonable alternatives to be considered by the Agency.
+(6) Takeout of interim financing: Guaranteeing a loan that provides for permanent, long-term financing after project completion to pay off a lender's interim loan will not be treated as debt refinancing provided that the lender submits a complete request for preliminary eligibility review or complete application that proposes such interim financing prior to closing the interim loan. The borrower must take no action until the conclusion of the environmental review process prior to any action that would have an adverse effect on the environment or limit the choices of any reasonable alternatives to be considered by the Agency.
 
 (7) Guarantee fees, as determined under § 5001.454.
 
@@ -116,7 +116,7 @@ Guaranteed loan funds can only be used for the items specified in this section.
 
 (13) Land, building, and equipment for an existing RES.
 
-(14) Refinancing outstanding debt when -
+(14) Refinancing outstanding debt when—
 
 (i) The original purpose of the debt being refinanced meets the eligible project requirements of § 5001.106, § 5001.107 or § 5001.108, as applicable, of this part;
 
@@ -128,4 +128,4 @@ Guaranteed loan funds can only be used for the items specified in this section.
 
 (v) The lender is providing better rates or terms for the loan being refinanced.
 
-[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020]
+[85 FR 42518, July 14, 2020, as amended at 85 FR 62197, Oct. 2, 2020; 86 FR 70356, Dec. 10, 2021]

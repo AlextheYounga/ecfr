@@ -6,8 +6,6 @@ The guarantee fee is a one-time, non-refundable fee paid by the lender to the Ag
 
 (b) *Guarantee fee rates.* The guarantee fee rate is established by the Agency in an annual document published in the Federal Register. While the fee rate may vary annually, they will not exceed the limits in table 1:
 
-Table 1 to § 5001.454(b) - Guarantee Fee
-
 |                                |Maximum guarantee fee  <br/>(percent)|
 |--------------------------------|-------------------------------------|
 |      Community Facilities      |                  4                  |
@@ -15,11 +13,11 @@ Table 1 to § 5001.454(b) - Guarantee Fee
 |     Business and Industry      |                  5                  |
 |Rural Energy for America Program|                  3                  |
 
-(c) *Loan note guarantee prior to completion.* If the loan note guarantee is issued prior to completion of the project's construction under § 5001.205(e)(2), an additional guarantee fee of 0.50 percent will be added. This additional 0.50 percent fee may not be passed on to the borrower.
+(c) *Loan note guarantee prior to completion.* If the loan note guarantee is issued prior to completion of the project's construction under § 5001.205(e)(2), an additional guarantee fee of 0.50 percent will be added.
 
 (d) *Reduced fee.* Subject to annual limits set by the Agency and published in an annual Federal Register document, the Agency may charge a reduced guarantee fee if requested by the lender when the borrower's project meets any one of the following criteria:
 
-(1) Is located in a rural community that -
+(1) Is located in a rural community that—
 
 (i) Is a distressed community in accordance with the Economic Innovation Group distressed community index. The list can be found on the Agency's website at: *https://www.rd.usda.gov/onerdguarantee;*
 
@@ -44,3 +42,5 @@ Table 1 to § 5001.454(b) - Guarantee Fee
 (4) Is part of a strategic economic development and community development plan on a multi-jurisdictional and multi-sectoral basis in accordance with Section 6401 of the Agricultural Improvement Act of 2018 (Pub. L. 115-334); or
 
 (5) Provides an additional market for existing local businesses by purchasing substantial amounts of products or services from, selling product to, or providing services to existing local and regional businesses.
+
+[85 FR 42518, July 14, 2020, as amended at 86 FR 70358, Dec. 10, 2021]

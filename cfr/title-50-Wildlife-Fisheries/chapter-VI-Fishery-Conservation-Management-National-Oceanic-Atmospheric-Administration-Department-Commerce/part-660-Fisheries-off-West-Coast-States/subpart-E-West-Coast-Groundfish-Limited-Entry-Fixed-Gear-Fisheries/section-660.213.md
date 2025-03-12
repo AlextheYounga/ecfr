@@ -12,7 +12,7 @@
 
 (i) *Emergency rule extending sablefish primary season.* Effective October 29, 2021, until December 31, 2021, notwithstanding any other section of these regulations, the primary sablefish season described at § 660.231 is April 1 through December 31 for vessels registered to a sablefish-endorsed limited entry permit using bottom longline gear, as defined at § 660.11.
 
-(ii) [Reserved]
+(ii) *Emergency rule extending sablefish primary season for vessels using pot gear.* Effective December 10, 2021, until December 31, 2021, notwithstanding any other section of this part, the primary sablefish season described at § 660.231 is extended until December 31 for vessels registered to a sablefish-endorsed limited entry permit using pot/trap gear, as defined at § 660.11.
 
 (e) *Electronic fish ticket.* The first receiver, as defined at § 660.11, subpart C, of fish, if that fish includes any amount of sablefish, from a limited entry fixed gear vessel, is responsible for compliance with all reporting requirements described in this paragraph. Per requirements at § 660.212(a), all fish, if that fish includes any amount of sablefish, must be reported via electronic fish ticket. When used in this paragraph, submit means to transmit final electronic fish ticket information via web-based form or, if a waiver is granted, by paper form. When used in this paragraph, record means the action of documenting electronic fish ticket information in any written format.
 
@@ -76,4 +76,6 @@
 
 (5) *Reporting requirements when a temporary waiver has been granted.* Receivers that have been granted a temporary waiver from the requirement to submit electronic fish tickets must submit on paper the same data as is required on electronic fish tickets within 24 hours of the date received during the period that the waiver is in effect. Paper fish tickets must be sent by facsimile to NMFS, West Coast Region, Sustainable Fisheries Division, 206-526-6736 or by delivering it in person to 7600 Sand Point Way NE., Seattle, WA 98115. The requirements for submissions of paper tickets in this paragraph are separate from, and in addition to existing state requirements for landing receipts or fish receiving tickets.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 78 FR 68773, Nov. 15, 2013; 81 FR 84430, Nov. 23, 2016; 85 FR 68004, Oct. 27, 2020; 86 FR 14693, Mar. 18, 2021; 86 FR 59876, Oct. 29, 2021]Effective Date Note:At 86 FR 59876, Oct. 29, 2021, § 660.213 was amended by adding paragraphs (d)(2)(i) and (ii), effective Oct. 29, 2021, until Dec. 31, 2021.
+[75 FR 60897, Oct. 1, 2010, as amended at 78 FR 68773, Nov. 15, 2013; 81 FR 84430, Nov. 23, 2016; 85 FR 68004, Oct. 27, 2020; 86 FR 14693, Mar. 18, 2021; 86 FR 59876, Oct. 29, 2021; 86 FR 70422, Dec. 10, 2021]Effective Date Notes:1. At 86 FR 59876, Oct. 29, 2021, § 660.213 was amended by adding paragraph (d)(2)(i), effective Oct. 29, 2021, until Dec. 31, 2021.
+
+2. At 86 FR 70422, Dec. 10, 2021, § 660.213 was amended by adding paragraph (d)(2)(ii), effective Dec. 10, 2021, until Dec. 31, 2021.

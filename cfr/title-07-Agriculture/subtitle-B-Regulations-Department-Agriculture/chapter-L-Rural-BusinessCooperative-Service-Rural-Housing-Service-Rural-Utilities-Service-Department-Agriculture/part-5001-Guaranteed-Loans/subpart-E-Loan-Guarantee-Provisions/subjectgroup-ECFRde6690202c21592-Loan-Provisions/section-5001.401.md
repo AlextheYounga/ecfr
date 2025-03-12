@@ -14,4 +14,6 @@ Interest rates, interest rate caps, and incremental interest rate adjustment lim
 
 (c) *Multi-rates.* When multi-rates are used, the lender must provide the Agency with the overall effective Interest rate for the entire loan.
 
-(d) *Interest rate changes.* Any change in the base rate or fixed interest rate between issuance of the conditional commitment and the issuance of the loan note guarantee must be approved by the Agency. Approval of such a change must be shown as an amendment to the conditional commitment and must be reflected on the guaranteed loan closing report form.
+(d) *Interest rate changes.* Any change in the base rate or fixed interest rate between issuance of the conditional commitment and loan closing must be approved by the Agency. Approval of such a change must be shown as an amendment to the conditional commitment and must be reflected on the guaranteed loan closing report form.
+
+[85 FR 42518, July 14, 2020, as amended at 86 FR 70357, Dec. 10, 2021]
