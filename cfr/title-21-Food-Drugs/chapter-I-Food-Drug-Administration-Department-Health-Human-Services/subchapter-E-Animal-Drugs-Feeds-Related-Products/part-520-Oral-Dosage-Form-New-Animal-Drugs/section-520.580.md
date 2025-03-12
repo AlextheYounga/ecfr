@@ -1,14 +1,12 @@
 ##### § 520.580 Dichlorophene and toluene. #####
 
-Link to an amendment published at 83 FR 48944, Sept. 28, 2018.
-
 (a) *Specifications.* Each capsule contains 50 milligrams (mg) of dichlorophene and 60 mg of toluene, or multiples thereof.
 
 (b) *Sponsors.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (c) of this section:
 
-(1) Nos. 017135, 023851, 051311, and 058670 for use only as a single dose.
+(1) Nos. 017135, 023851, and 058670 for use only as a single dose.
 
-(2) Nos. 000061 and 054771 for use in a single dose or divided-dosage regimen.
+(2) Nos. 000061, 054771, and 069043 for use in a single dose or divided-dosage regimen.
 
 (c) *Required statement.* Consult your veterinarian for assistance in the diagnosis, treatment, and control of parasitism, and before administering to weak or debilitated animals.
 

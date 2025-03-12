@@ -1,13 +1,10 @@
 ##### § 520.2380a Thiabendazole top dressing and mineral protein block. #####
 
-Link to an amendment published at 83 FR 48946, Sept. 28, 2018.
-
 (a) *Specifications.* Conforms to N.F. XII.
 
 (b) *Sponsors.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (d) of this section.
 
-(1)
-No. 051311 for use as in paragraph (d)(1)(i) of this section.
+(1) [Reserved]
 
 (2) No. 050604 for use as in paragraph (d)(1)(ii) of this section.
 
@@ -17,13 +14,7 @@ No. 051311 for use as in paragraph (d)(1)(i) of this section.
 
 (d) *Conditions of use.* It is used as follows:
 
-(1) *Horses* - (i)*Route of administration.* In feed, as a top dressing.
-
-(*a*) *Amount.* 2 grams per 100 pounds of body weight.
-
-(*b*) *Indications for use.* For control of large strongyles, small strongyles, pinworms, and threadworms (including members of the genera *Strongylus, Cyathostomum, Cylicobrachytus,* and related genera, *Craterostomum, Oesophagodontus, Poteriostomum, Oxyuris,* and *Strongyloides*).
-
-(*c*) *Limitations.* Add to the usual feed of horses mixed into that amount of the feed normally consumed at one feeding. Warning: Not for use in horses intended for food.
+(1) *Horses* - (i) [Reserved]
 
 (ii) *Route of administration.* In feed.
 
@@ -47,4 +38,4 @@ No. 051311 for use as in paragraph (d)(1)(i) of this section.
 
 (iv) *Limitations.* Administer to cattle on pasture or range accustomed to mineral protein block feeding for 3 days. Milk taken from animals during treatment and within 96 hours (8 milkings) after the latest treatment must not be used for food. Do not treat cattle within 3 days of slaughter. For a satisfactory diagnosis, a microscopic fecal examination should be performed by a veterinarian or diagnostic laboratory prior to worming. Animals maintained under conditions of constant worm exposure may require re-treatment within 2 to 3 weeks. Animals that are severely parasitized, sick, or off feed should be isolated and a veterinarian consulted for advice concerning treatment.
 
-[40 FR 13838, Mar. 27, 1975, as amended at 41 FR 9149, Mar. 3, 1976; 62 FR 63271, Nov. 28, 1997; 70 FR 32489, June 3, 2005; 73 FR 35340, June 23, 2008; 79 FR 28832, May 20, 2014]
+[40 FR 13838, Mar. 27, 1975, as amended at 41 FR 9149, Mar. 3, 1976; 62 FR 63271, Nov. 28, 1997; 70 FR 32489, June 3, 2005; 73 FR 35340, June 23, 2008; 79 FR 28832, May 20, 2014; 83 FR 48946, Sept. 28, 2018]

@@ -1,7 +1,5 @@
 ##### § 3.262 Evaluation of income. #####
 
-Link to an amendment published at 83 FR 47268, Sept. 18, 2018.
-
 (a) *Total income.* All income from sources such as wages, salaries, earnings, bonuses from employers, income from a business or profession or from investments or rents as well as the fair value of personal services, goods or room and board received in lieu thereof will be included.
 
 (1) Salary is not determined by “takehome” pay, but includes deductions made under a retirement act or plan and amounts withheld by virtue of income tax laws.
@@ -90,7 +88,7 @@ This exclusion will not apply where the net profit is applied to the price of a 
 
 (Authority: 38 U.S.C. 1503(a)(14))
 
-(l) *Unusual medical expenses.* Within the provisions of paragraphs (l)(1) through (4) of this section there will be excluded from the amount of the claimant's annual income any unreimbursed amounts which have been paid within the calendar year for unusual medical expenses regardless of the year the indebtedness was incurred. The term *unusual* means *excessive.* It does not describe the nature of a medical condition but rather the amount expended for medical treatment in relationship to the claimant's resources available for sustaining a reasonable mode of life. Unreimbursed expenditures which exceed 5 percent of the claimant's reported annual income will be considered unusual. Health, accident, sickness and hospitalization insurance premiums will be included as medical expenses in determining whether the claimant's unreimbursed medical expenses meet the criterion for *unusual.* A claimant's statement as to amounts expended for medical expenses ordinarily will be accepted unless the circumstances create doubt as to its credibility. An estimate based on a clear and reasonable expectation that unusual medical expenditure will be realized may be accepted for the purpose of authorizing prospective payments of benefits subject to necessary adjustment in the award upon receipt of an amended estimate or after the end of the calendar year upon receipt of an income questionnaire.
+(l) *Unusual medical expenses.* Within the provisions of paragraphs (l)(1) through (4) of this section there will be excluded from the amount of the claimant's annual income any unreimbursed amounts which have been paid within the calendar year for unusual medical expenses regardless of the year the indebtedness was incurred. The term *unusual* means *excessive.* It does not describe the nature of a medical condition but rather the amount expended for medical treatment in relationship to the claimant's resources available for sustaining a reasonable mode of life. Unreimbursed expenditures which exceed 5 percent of the claimant's reported annual income will be considered unusual. Health, accident, sickness and hospitalization insurance premiums will be included as medical expenses in determining whether the claimant's unreimbursed medical expenses meet the criterion for *unusual.* A claimant's statement as to amounts expended for medical expenses ordinarily will be accepted unless the circumstances create doubt as to its credibility. An estimate based on a clear and reasonable expectation that unusual medical expenditure will be realized may be accepted for the purpose of authorizing prospective payments of benefits subject to necessary adjustment in the award upon receipt of an amended estimate or after the end of the calendar year upon receipt of an income questionnaire. For the definition of what constitutes a medical expense, see § 3.278, Deductible medical expenses.
 
 (1) *Veterans.* For the purpose of section 306 pension, there will be excluded unreimbursed amounts paid by the veteran for unusual medical expenses of self, spouse, and other relatives of the veteran in the ascending as well as descending class who are members or constructive members of the veteran's household and whom the veteran has a moral or legal obligation to support.
 
@@ -140,11 +138,7 @@ This exclusion will not apply where the net profit is applied to the price of a 
 
 (Authority: Sec. 653, Pub. L. 100-456; 102 Stat. 1991)
 
-(s) *Agent Orange settlement payments.* In claims for pension and parents' dependency and indemnity income, there shall be excluded from computation of income payments received by any person in the case of In re Agent Orange Product Liability Litigation in the United States District Court for the Eastern District of New York (MDL No. 381). (January 1, 1989)
-
-(Authority: Pub. L. 101-201, 103 Stat. 1795)
-
-(t) *Reimbursement for casualty loss.* The following sources of reimbursements for casualty loss will not be considered as income in determining entitlement to benefits under the programs specified. Amounts to be excluded from computation in parens' dependency and indemnity compensation claims are limited to amounts of reimbursement which do not exceed the greater of the fair market value or the reasonable replacement cost of the property involved at the time immediately preceding the loss.
+(s) *Reimbursement for casualty loss.* The following sources of reimbursements for casualty loss will not be considered as income in determining entitlement to benefits under the programs specified. Amounts to be excluded from computation in parens' dependency and indemnity compensation claims are limited to amounts of reimbursement which do not exceed the greater of the fair market value or the reasonable replacement cost of the property involved at the time immediately preceding the loss.
 
 (1) Reimbursement for casualty loss of any kind in determining entitlement to parents' dependency and indemnity compensation benefits. For purposes of paragraph (t) of this section, the term “casualty loss” means the complete or partial destruction of property resulting from an identifiable event of a sudden, unexpected or unusual nature.
 
@@ -152,28 +146,14 @@ This exclusion will not apply where the net profit is applied to the price of a 
 
 (Authority: 38 U.S.C. 1315(f))
 
-(u) *Restitution to individuals of Japanese ancestry.* Effective August 10, 1988, for the purposes of old law pension, section 306 pension, parents' death compensation, and parents' dependency and indemnity compensation, there shall be excluded from income computation any payment made as restitution under Public Law 100-383 to individuals of Japanese ancestry who were interned, evacuated, or relocated during the period December 7, 1941, through June 30, 1946, pursuant to any law, Executive order, Presidential proclamation, directive, or other official action respecting these individuals.
-
-(v) *Income received by American Indian beneficiaries from trust or restricted lands.* There shall be excluded from income computation payments of up to $2,000 per calendar year to an individual Indian from trust lands or restricted lands as defined in 25 CFR 151.2. (January 1, 1994)
-
-(Authority: Sec. 13736, Pub. L. 103-66; 107 Stat. 663)
-
-(w) *Radiation Exposure Compensation Act.* For the purposes of parents' dependency and indemnity compensation, there shall be excluded from income computation payments under Section 6 of the Radiation Exposure Compensation Act of 1990.
+(t) *Radiation Exposure Compensation Act.* For the purposes of parents' dependency and indemnity compensation and dependency of parents under § 3.250, there shall be excluded from income computation payments under Section 6 of the Radiation Exposure Compensation Act of 1990.
 
 (Authority: 42 U.S.C. 2210 note)
 
-(x) *Alaska Native Claims Settlement Act.* There shall be excluded from income computation any cash (including cash dividends on stock received from a Native Corporation) to the extent that it does not, in the aggregate, exceed $2,000 per individual per annum; stock (including stock issued or distributed by a Native Corporation as a dividend or distribution on stock); a partnership interest; land or an interest in land (including land or an interest in land received from a Native Corporation as a dividend or distribution on stock); and an interest in a settlement trust. (November 2, 1994)
+(u) *Income tax returns.* VA will exclude from income payments from income tax returns. See § 3.279(d)(1).
 
-(Authority: Sec. 506, Pub. L. 103-446)
+(Authority: 26 U.S.C. 6409)
 
-(y) *Monetary allowance under 38 U.S.C. chapter 18 for certain individuals who are children of Vietnam veterans or children of veterans with covered service in Korea.* There shall be excluded from income computation any allowance paid under the provisions of 38 U.S.C. chapter 18 to or for an individual who is a child of a Vietnam veteran or a child of a veteran with covered service in Korea.
-
-(Authority: 38 U.S.C. 1833(c))
-
-(z) *Victims of Crime Act.* For purposes of old law pension, section 306 pension, and parents' dependency and indemnity compensation, amounts received as compensation under the Victims of Crime Act of 1984 will not be considered income unless the total amount of assistance received from all federally funded programs is sufficient to fully compensate the claimant for losses suffered as a result of the crime.
-
-(Authority: 42 U.S.C. 10602(c))
-
-(aa) *Medicare Prescription Drug Discount Card and Transitional Assistance Program.* For purposes of old law pension, section 306 pension, and parents' dependency and indemnity compensation, the payments received under the Medicare transitional assistance program and any savings associated with the Medicare prescription drug discount card will not be considered income.
+(v) *Statutory exclusions.* Other amounts excluded from income by statute. See § 3.279. VA will exclude from income any amount designated by statute as not countable as income, regardless of whether or not it is listed in this section or in § 3.279.
 
 (Authority: 42 U.S.C. 1395w-141(g)(6))[28 FR 32, Jan. 1, 1963]Editorial Note:For Federal Register citations affecting § 3.262, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

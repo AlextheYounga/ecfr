@@ -1,7 +1,5 @@
 ##### § 522.1182 Iron injection. #####
 
-Link to an amendment published at 83 FR 48946, Sept. 28, 2018.
-
 (a) *Specifications.* See § 510.440 of this chapter. Each milliliter (mL) of solution contains the equivalent of:
 
 (1) 100 milligrams (mg) of elemental iron derived from:
@@ -34,7 +32,7 @@ Link to an amendment published at 83 FR 48946, Sept. 28, 2018.
 
 (ii) For the treatment of iron deficiency anemia, administer intramuscularly an amount of drug containing 100 to 200 mg of elemental iron per animal. Dosage may be repeated in 10 days to 2 weeks.
 
-(4) Nos. 051311 and 054771 for use of product described in paragraph (a)(1)(ii) of this section as follows:
+(4) No. 054771 for use of product described in paragraph (a)(1)(ii) of this section as follows:
 
 (i) For prevention of iron deficiency anemia, administer 1 mL by intramuscular injection at 2 to 5 days of age. Dosage may be repeated at 2 weeks of age.
 
@@ -58,4 +56,4 @@ Link to an amendment published at 83 FR 48946, Sept. 28, 2018.
 
 (ii) For treatment of anemia due to iron deficiency, intramuscularly inject 200 mg of elemental iron at the first sign of anemia.
 
-[73 FR 12635, Mar. 10, 2008, as amended at 73 FR 14385, Mar. 18, 2008; 78 FR 17597, Mar. 22, 2013; 78 FR 44433, July 24, 2013; 79 FR 16190, Mar. 25, 2014; 81 FR 22524, Apr. 18, 2016; 81 FR 59134, Aug. 29, 2016; 82 FR 11508, Feb. 24, 2017]
+[73 FR 12635, Mar. 10, 2008, as amended at 73 FR 14385, Mar. 18, 2008; 78 FR 17597, Mar. 22, 2013; 78 FR 44433, July 24, 2013; 79 FR 16190, Mar. 25, 2014; 81 FR 22524, Apr. 18, 2016; 81 FR 59134, Aug. 29, 2016; 82 FR 11508, Feb. 24, 2017; 83 FR 48946, Sept. 28, 2018]
