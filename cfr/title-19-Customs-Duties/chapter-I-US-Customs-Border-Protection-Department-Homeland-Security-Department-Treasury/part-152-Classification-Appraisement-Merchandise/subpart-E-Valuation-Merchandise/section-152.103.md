@@ -1,10 +1,10 @@
 ##### § 152.103 Transaction value. #####
 
-(a) *Price actually paid or payable* - (1) *General.* In determining transaction value, the price actually paid or payable will be considered without regard to its method of derivation. It may be the result of discounts, increases, or negotiations, or may be arrived at by the application of a formula, such as the price in effect on the date of export in the London Commodity Market. The word “payable” refers to a situation in which the price has been agreed upon, but actual payment has not been made at the time of importation. Payment may be made by letters of credit or negotiable instruments and may be made directly or indirectly.
+(a) *Price actually paid or payable*—(1) *General.* In determining transaction value, the price actually paid or payable will be considered without regard to its method of derivation. It may be the result of discounts, increases, or negotiations, or may be arrived at by the application of a formula, such as the price in effect on the date of export in the London Commodity Market. The word “payable” refers to a situation in which the price has been agreed upon, but actual payment has not been made at the time of importation. Payment may be made by letters of credit or negotiable instruments and may be made directly or indirectly.
 
 Example 1.In a transaction with foreign Company X, a U.S. firm pays Company X $10,000 for a shipment of meat products, packed ready for shipment to the United States. No selling commission, assist, royalty, or license fee is involved. Company X is not related to the U.S. purchaser and imposes no condition or limitation on the buyer.
 
-The customs value of the imported meat products is $10,000 - the transaction value of the imported merchandise.
+The customs value of the imported meat products is $10,000—the transaction value of the imported merchandise.
 
 Example 2.A foreign shipper sold merchandise at $100 per unit to a U.S. importer. Subsequently, the foreign shipper increased its price to $110 per unit. The merchandise was exported after the effective date of the price increase. The invoice price of $100 was the price originally agreed upon and the price the U.S. importer actually paid for the merchandise.
 
@@ -34,7 +34,7 @@ Example 1.The importer previously has supplied an unrelated foreign assembler wi
 
 (4) *Rebate.* Any rebate of, or other decrease in, the price actually paid or payable made or otherwise effected between the buyer and seller after the date of importation of the merchandise will be disregarded in determining the transaction value under § 152.103(b).
 
-(5) *Foreign inland freight and other inland charges incident to the international shipment of merchandise* - (i) *Ex-factory sales.* If the price actually paid or payable by the buyer to the seller for the imported merchandise does not include a charge for foreign inland freight and other charges for services incident to the international shipment of merchandise (an ex-factory price), those charges will not be added to the price.
+(5) *Foreign inland freight and other inland charges incident to the international shipment of merchandise*—(i) *Ex-factory sales.* If the price actually paid or payable by the buyer to the seller for the imported merchandise does not include a charge for foreign inland freight and other charges for services incident to the international shipment of merchandise (an ex-factory price), those charges will not be added to the price.
 
 (ii) *Sales other than ex-factory.* As a general rule, in those situations where the price actually paid or payable for imported merchandise includes a charge for foreign inland freight, whether or not itemized separately on the invoices or other commercial documents, that charge will be part of the transaction value to the extent included in the price. However, charges for foreign inland freight and other services incident to the shipment of the merchandise to the United States may be considered incident to the international shipment of that merchandise within the meaning of § 152.102(f) if they are identified separately and they occur after the merchandise has been sold for export to the United States and placed with a carrier for through shipment to the United States.
 
@@ -98,7 +98,7 @@ Example.The importer purchases a painting. By purchasing the painting, the owner
 
 (i) *Exclusions from transaction value.* The transaction value of imported merchandise does not include any of the following, if identified separately from the price actually paid or payable and from any cost or other item referred to in paragraph (b) of this section:
 
-(1) Any reasonable cost or charge that is incurred for -
+(1) Any reasonable cost or charge that is incurred for—
 
 (i) The construction, erection, assembly, or maintenance of, or the technical assistance provided with respect to, the merchandise after its importation into the United States; or
 
@@ -110,7 +110,7 @@ Example.A foreign shipper sells a piece of equipment to a U.S. buyer. The total 
 
 Should the appraised value include the technical assistance? No, transaction value does not include any reasonable costs for construction, erection, assembly, maintenance of, or technical assistance, for the imported merchandise after its importation into the U.S., the cost of which can be accurately identified as being separate from the price actually paid or payable for the merchandise to which they relate.
 
-(j) *Limitations on use of transaction value* - (1) *In general.* The transaction value of imported merchandise will be the appraised value only if:
+(j) *Limitations on use of transaction value*—(1) *In general.* The transaction value of imported merchandise will be the appraised value only if:
 
 (i) There are no restrictions on the disposition or use of the imported merchandise by the buyer, other than restrictions which are imposed or required by law, limit the geographical area in which the merchandise may be resold, or do not affect substantially the value of the merchandise;
 
@@ -150,7 +150,7 @@ Should the appraised value include the technical assistance? No, transaction val
 
 (iii) *Interpretative note 3.* The price of the imported merchandise is established on the basis of a form of payment extraneous to the merchandise, such as where the merchandise is to be further processed by the buyer, and has been provided by the seller on condition that he will receive a specified quantity of the finished merchandise.
 
-(l) *Related buyer and seller* - (1) *Validation of transaction.* The Center director shall not disregard a transaction value solely because the buyer and seller are related. There will be related person transactions in which validation of the transaction value, using the procedures contained in § 152.103(j)(2), may not be necessary.
+(l) *Related buyer and seller*—(1) *Validation of transaction.* The Center director shall not disregard a transaction value solely because the buyer and seller are related. There will be related person transactions in which validation of the transaction value, using the procedures contained in § 152.103(j)(2), may not be necessary.
 
 (i) *Interpretative note 1.* Customs may have previously examined the relationship or may already have sufficient detailed information concerning the buyer and seller to be satisfied that the relationship did not influence the price actually paid or payable. In such case, if Customs has no doubts about the acceptability of the price, the price will be accepted without requesting further information from the importer. If Customs does have doubts about the acceptability of the price and is unable to accept the transaction value without further inquiry, the importer will be given an opportunity to supply such further detailed information as may be necessary to enable Customs to examine the circumstances of the sale. In this context, Customs will examine relevant aspects of the transaction, including the way in which the buyer and seller organize their commercial relations and the way in which the price in question was arrived at in order to determine whether the relationship influenced the price.
 
@@ -178,7 +178,7 @@ Transaction value based on the price actually paid or payable. A transaction val
 
 Example.In applying any of the test values, if the transaction value in the sale under consideration is rejected because 95 does not closely approximate 100, then a transaction value for the sale of the same merchandise at 105 occurring at or about the same time likewise would have to be rejected. Similarly, if 103 were considered to closely approximate 100, a transaction value of 97 likewise would closely approximate 100.
 
-(iii) If one of the test values provided in § 152.103(j)(2)(i) has been found to be appropriate, the port director shall not seek to determine if the relationship between the buyer and seller influenced the price. If the Center director already has sufficient information to be satisfied, without further detailed inquiries, that one of the test values is appropriate, he shall not require the importer to demonstrate that the test value is appropriate.
+(iii) If one of the test values provided in § 152.103(j)(2)(i) has been found to be appropriate, the Center director shall not seek to determine if the relationship between the buyer and seller influenced the price. If the Center director already has sufficient information to be satisfied, without further detailed inquiries, that one of the test values is appropriate, he shall not require the importer to demonstrate that the test value is appropriate.
 
 (m) *Rejection of transaction value.* When CBP has grounds for rejecting the transaction value declared by an importer and that rejection increases the duty liability, the Center director shall inform the importer of the grounds for the rejection. The importer will be afforded 20 days to respond in writing to the Center director if in disagreement. This procedure will not affect or replace the administrative ruling procedures contained in part 177 of this chapter, or any other CBP procedures.
 

@@ -10,4 +10,4 @@
 
 (c) Pursuant to sections 212(n)(2)(C)(v) and (t)(3)(C)(v) of the INA, an H-1B nonimmigrant who has filed a complaint alleging that an employer has discriminated against the employee in violation of paragraph (a)(1) of this section may be allowed to seek other appropriate employment in the United States, provided the employee is otherwise eligible to remain and work in the United States. Such employment may not exceed the maximum period of stay authorized for a nonimmigrant classified under sections 212(n) or (t) of the INA, as applicable. Further information concerning this provision should be sought from the United States Citizenship and Immigration Services of the Department of Homeland Security.
 
-[65 FR 80233, Dec. 20, 2000, as amended at 69 FR 68229, Nov. 23, 2004; 71 FR 35521, June 21, 2006; 81 FR 43448, July 1, 2016; 82 FR 5380, Jan. 18, 2017]]
+[65 FR 80233, Dec. 20, 2000, as amended at 69 FR 68229, Nov. 23, 2004; 71 FR 35521, June 21, 2006; 81 FR 43448, July 1, 2016; 82 FR 5380, Jan. 18, 2017]

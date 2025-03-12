@@ -1,5 +1,7 @@
 ##### § 300.4 Enrolled agent special enrollment examination fee. #####
 
+Link to an amendment published at 82 FR 33012, July 19, 2017.
+
 (a) *Applicability.* This section applies to the special enrollment examination to become an enrolled agent pursuant to 31 CFR 10.4(a).
 
 (b) *Fee.* The fee for taking the special enrollment examination is $11 per part, which is the government cost for overseeing the examination and does not include any fees charged by the examination administrator.

@@ -1,5 +1,7 @@
 ##### 1552.219-71 Procedures for Participation in the EPA Mentor-Protégé Program. #####
 
+Link to an amendment published at 82 FR 33022, July 19, 2017.
+
 As prescribed in 1519.203(b), insert the following provision:
 
 Procedures for Participation in the EPA Mentor-Protégé Program (JUL 2016)

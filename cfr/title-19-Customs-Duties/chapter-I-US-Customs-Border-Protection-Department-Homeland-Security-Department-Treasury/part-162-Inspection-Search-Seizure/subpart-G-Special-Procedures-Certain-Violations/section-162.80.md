@@ -1,8 +1,8 @@
 ##### § 162.80 Liability for duties; liquidation of entries. #####
 
-(a)(1) When an entry is the subject of an investigation for possible violation of section 592, Tariff Act of 1930, as amended (19 U.S.C. 1592), or of a penalty action established under that section, the Center director, subject to the provisions of paragraph (a)(2) of this section, may liquidate the entry and CBP, either at theport of entry or electronically, may collect duties before the conclusion of the investigation or final disposition of the penalty action if the Center director determines that liquidation would be in the interest of the Government.
+(a)(1) When an entry is the subject of an investigation for possible violation of section 592, Tariff Act of 1930, as amended (19 U.S.C. 1592), or of a penalty action established under that section, the Center director, subject to the provisions of paragraph (a)(2) of this section, may liquidate the entry and CBP, either at the port of entry or electronically, may collect duties before the conclusion of the investigation or final disposition of the penalty action if the Center director determines that liquidation would be in the interest of the Government.
 
-(2)(i) An entry not liquidated within 1 year from the date of entry or final withdrawal of all merchandise covered by a warehouse entry shall be deemed liquidated at the rate of duty, value, quantity, and amount of duties asserted at the time of entry by the importer, his consignee, or agent unless the time for liquidation is extended by the Center director because -
+(2)(i) An entry not liquidated within 1 year from the date of entry or final withdrawal of all merchandise covered by a warehouse entry shall be deemed liquidated at the rate of duty, value, quantity, and amount of duties asserted at the time of entry by the importer, his consignee, or agent unless the time for liquidation is extended by the Center director because—
 
 (A) Information needed by Customs for the proper appraisement or classification of the merchandise is not available.
 

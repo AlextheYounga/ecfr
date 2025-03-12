@@ -1,5 +1,7 @@
 ##### 1509.507-1 Solicitation provisions. #####
 
+Link to an amendment published at 82 FR 33019, July 19, 2017.
+
 (a) *Advance notice of limitations.* The Contracting Officer shall alert prospective contractors by placing a notice in the solicitation whenever a particular acquisition might create an organizational conflict of interest. The notice will:
 
 (1) Include the information prescribed in (FAR) 48 CFR 9.507-1;

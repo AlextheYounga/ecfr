@@ -1,5 +1,7 @@
 ##### 1552.227-76 Project employee confidentiality agreement. #####
 
+Link to an amendment published at 82 FR 33023, July 19, 2017.
+
 As prescribed in 1527.409, insert the following clause:
 
 Project Employee Confidentiality Agreement (MAY 1994)

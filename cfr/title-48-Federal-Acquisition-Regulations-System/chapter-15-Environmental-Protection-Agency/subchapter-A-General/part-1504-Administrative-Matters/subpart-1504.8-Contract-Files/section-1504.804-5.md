@@ -1,5 +1,7 @@
 ##### 1504.804-5 Detailed procedures for closing out contract files. #####
 
+Link to an amendment published at 82 FR 33019, July 19, 2017.
+
 In addition to those procedures set forth in FAR 4.804-5, the contracting office shall, before final payment is made under a cost reimbursement type contract, verify the allowability, allocability, and reasonableness of costs claimed. Verification of total costs incurred should be obtained from the Office of Audit through the Financial Analysis and Oversight Service Center in the form of a final audit report. Similar verification of actual costs shall be made for other contracts when cost incentives, price redeterminations, or cost-reimbursement elements are involved. Termination settlement proposals shall be submitted to the Financial Analysis and Oversight Service Centerfor review by the Office of Audit as prescribed by FAR 49.107. All such audits will be coordinated through the cost advisory group in the contracting office. Exceptions to these procedures are the quick close-out procedures as described in FAR 42.708 and Unit 42 of the EPA Acquisition Handbook.
 
 [49 FR 28246, July 11, 1984, as amended at 63 FR 46899, Sept. 3, 1998; 78 FR 46289, July 31, 2013]

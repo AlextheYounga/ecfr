@@ -6,12 +6,12 @@
 
 (2) *Customhouse broker or his employee.* When a protest is filed by a customhouse broker, or an authorized employee acting in his behalf, as agent or attorney in fact for the principal, the signing of the protest by the customhouse broker or an authorized employee in his behalf shall be considered a declaration by the broker that he or the employee signing in his behalf, is authorized to sign and file the protest for the principal. The customhouse broker shall have, however, a general power of attorney to transact Customs business for the principal on Customs Form 5291.
 
-(b) *Execution of power of attorney* - (1) *Corporation.* A corporate power of attorney to file protests shall be signed by a duly authorized officer or employee of the corporation. If the Center director is otherwise satisfied as to the authority of such corporate officer or employee to grant such power of attorney, compliance with the requirements of § 141.37 of this chapter may be waived with respect to such power.
+(b) *Execution of power of attorney*—(1) *Corporation.* A corporate power of attorney to file protests shall be signed by a duly authorized officer or employee of the corporation. If the Center director is otherwise satisfied as to the authority of such corporate officer or employee to grant such power of attorney, compliance with the requirements of § 141.37 of this chapter may be waived with respect to such power.
 
 (2) *Partnership.* A partnership power of attorney to file protests may be signed by one member in the name of the partnership, provided the power recites the name of all the members.
 
 (c) *Duration.* Powers of attorney issued by a partnership shall be limited to a period not to exceed 2 years from the date of receipt thereof by the Center director. All other powers of attorney may be granted for an unlimited period.
 
-(d) *Revocation.* Any power of attorney shall be subject to revocation at any time by written notice given to and received by CBP, either at the port of entryor electronically.
+(d) *Revocation.* Any power of attorney shall be subject to revocation at any time by written notice given to and received by CBP, either at the port of entry or electronically.
 
 (Secs. 514, 515, 46 Stat. 734, as amended; 19 U.S.C. 1514, 1515)[T.D. 70-181, 35 FR 13429, Aug. 22, 1970, as amended by T.D. 70-224, 35 FR 16243, Oct. 16, 1970; T.D. 73-175, 38 FR 17487, July 2, 1973; CBP Dec. No. 16-26, 81 FR 93025, Dec. 20, 2016]

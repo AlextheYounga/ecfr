@@ -1,5 +1,7 @@
 ##### 1552.209-71 Organizational conflicts of interest. #####
 
+Link to an amendment published at 82 FR 33021, July 19, 2017.
+
 As prescribed in 1509.507-2, insert the following contract clause in all contracts except:
 
 (a) When specific clauses are required per EPAAR part 1509;

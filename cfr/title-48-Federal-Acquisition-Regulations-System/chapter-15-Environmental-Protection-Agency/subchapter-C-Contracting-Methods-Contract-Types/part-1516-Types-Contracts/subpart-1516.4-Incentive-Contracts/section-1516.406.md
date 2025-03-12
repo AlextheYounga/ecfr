@@ -1,5 +1,7 @@
 ##### 1516.406 Contract clauses. #####
 
+Link to an amendment published at 82 FR 33019, July 19, 2017.
+
 (a) The Contracting Officer shall insert the clause at 1552.216-70, Award fee (MAY 2000), in solicitations and contracts where a cost-plus-award-fee contract is contemplated.
 
 (b) The Contracting Officer shall insert the clause at 1552.216-75, Base Fee and Award Fee Proposal, in all solicitations which contemplate the award of cost-plus-award-fee contracts. The Contracting Officer shall insert the appropriate percentages.

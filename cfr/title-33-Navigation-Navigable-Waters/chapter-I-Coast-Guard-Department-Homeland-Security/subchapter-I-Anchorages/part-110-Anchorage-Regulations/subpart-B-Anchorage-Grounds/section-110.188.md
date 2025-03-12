@@ -1,31 +1,39 @@
 ##### § 110.188 Atlantic Ocean off Miami and Miami Beach, Fla. #####
 
-Link to an amendment published at 82 FR 27775, June 19, 2017.
+(a) *The anchorage areas.* (1) *Anchorage A.* All area of the Atlantic Ocean, encompassed by a line connecting the points of the following North America Datum 83 coordinates:
 
-(a) *The anchorage grounds.* The area to the eastward of a line bearing 12° (N. 12° E.) through a point X, which is 11/2 nautical miles due east of the intersection of the Miami Beach shore line with the north jetty; to the northward of a line bearing 102° (S. 78° E.) and intersecting the 12° line at a point A, one-half nautical mile north of the said point X; and to the southward of a line bearing 102° (S. 78° E.) and intersecting the 12° line at a point B, 21/2 nautical miles north of the said point X. The northern and southern extremities of the 12° line are marked by spar buoys. The entire anchorage area lies north of the entrance channel to Miami Harbor.
+|    Latitude    |    Longitude    |
+|----------------|-----------------|
+|25°47′57.687″ N.|080°05′37.225″ W.|
+|25°47′57.341″ N.|080°05′26.466″ W.|
+|25°46′31.443″ N.|080°05′27.069″ W.|
+|25°46′31.557″ N.|080°05′37.868″ W.|
 
-(b) *The rules and regulations.* (1) Except in cases of great emergency, no vessel shall be anchored in the Atlantic Ocean in the vicinity of the entrances to the approach channels leading to the cities of Miami Beach and Miami, Fla., outside of the anchorage area hereby defined and established - that is, they shall not anchor shoreward of the line first named nor southward of the second nor northward of the third line - but may anchor as far to the eastward as may be desired.
+(2) *Anchorage B.* All area of the Atlantic Ocean, encompassed by a line connecting the points of the following North America Datum 83 coordinates:
 
-(2) Any vessel anchoring under circumstances of great emergency outside of the anchorage area shall be shifted to new berths within the area immediately after the emergency ceases.
+|    Latitude    |    Longitude    |
+|----------------|-----------------|
+|25°48′13.841″ N.|080°04′59.155″ W.|
+|25°48′04.617″ N.|080°04′04.582″ W.|
+|25°46′32.712″ N.|080°04′28.387″ W.|
+|25°46′43.770″ N.|080°05′02.360″ W.|
 
-(3) All vessels shall lie at anchor with as short a cable as conditions will permit.
+*(b) The regulations.* (1) Vessels in the Atlantic Ocean in the vicinity of Port of Miami must anchor only within the anchorage areas hereby defined and established, except in cases of emergency.
 
-(4) A vessel upon being notified to move into the anchorage limits or to shift its position on the anchorage ground must get under way at once or signal for a tug, and must change position as directed with reasonable promptness.
+(2) Prior to entering the anchorage areas, all vessels must notify the Coast Guard Captain of the Port via VHF-FM channel 16.
 
-(5) Whenever the maritime or commercial interests of the United States so require, the Captain of the Port, U.S. Coast Guard, Miami, Fla., is hereby empowered to shift the position of any vessel anchored on the anchorage ground or outside thereof, or of any vessel moored or anchored so as to impede or obstruct vessel movements or obstruct or interfere with range lights.
+(3) All vessels within the designated anchorages must maintain a 24-hour bridge watch by a licensed or credentialed deck officer proficient in English, monitoring VHF-FM channel 16. This individual must confirm that the ship's crew performs frequent checks of the vessel's position to ensure the vessel is not dragging anchor.
 
-(6) Vessels carrying explosives shall be anchored only under a written permit issued by the Captain of the Port and at such point as he may direct.
+(4) Vessels may anchor anywhere within the designated anchorage areas provided that: Such anchoring does not interfere with the operations of any other vessels currently at anchorage; and all anchor and chain or cable is positioned in such a manner to preclude dragging over reefs.
 
-(7) Vessels carrying explosives shall be at all times in charge of a competent person, and must display by day a red flag, of not less than 16 square feet, at the masthead, or not less than 10 feet above the upper deck if the vessel has no mast; at night a red light shall be displayed in the positions specified for the red flag.
+(5) No vessel may anchor in a “dead ship” status (that is, propulsion or control unavailable for normal operations) without the prior approval of the Captain of the Port. Vessels experiencing casualties, such as main propulsion, main steering, or anchoring equipment malfunction, or which are planning to perform main propulsion engine repairs or maintenance, must immediately notify the Coast Guard Captain of the Port via Coast Guard Sector Miami on VHF-FM channel 16.
 
-(8) Nothing in this paragraph shall be construed as relieving the owner or person in charge of any vessel from the penalties of the law for obstructing navigation, or for obstructing or interfering with range lights, or for not complying with the navigation laws in regard to lights, fog signals, or other aids to navigation, or for otherwise violating law.
+(6) No vessel may anchor within the designated anchorages for more than 72 hours without the prior approval of the Captain of the Port. To obtain this approval, contact the Coast Guard Captain of the Port via VHF-FM channel 16.
 
-(9) All vessels desiring to use the Anchorage must notify the Coast Guard Captain of the Port, via the Biscayne Bay Pilots on VHF-FM Channel 12 or 16.
+(7) The Coast Guard Captain of the Port may close the anchorage areas and direct vessels to depart the anchorage during periods of adverse weather or at other times as deemed necessary in the interest of port safety or security.
 
-(10) All vessels anchored within the anchorage area shall maintain a 24-hour bridge watch by an English speaking licensed or credentialed deck officer monitoring VHF-FM Channel 16. This individual shall perform frequent checks of the vessel's position to ensure the vessel is not dragging anchor.
+(8) Commercial vessels anchoring under emergency circumstances outside the anchorage areas must shift to new positions within the anchorage areas immediately after the emergency ceases.
 
-(11) Vessels experiencing casualties such as a main propulsion, main steering or anchoring equipment malfunction or which are planning to perform main propulsion engine repairs or maintenance, shall immediately notify the Coast Guard Captain of the Port via the Coast Guard Sector Miami on VHF-FM Channel 16.
+(9) Whenever the maritime or commercial interests of the United States so require, the Captain of the Port, U.S. Coast Guard, Miami, Florida, may direct relocation of any vessel anchored within the anchorage areas. Once directed, such vessel must get underway at once or signal for a tug, and must change position as directed.
 
-(12) The Coast Guard Captain of the Port may close the anchorage area and direct vessels to depart the anchorage during periods of adverse weather or at other times as deemed necessary in the interest of port safety.
-
-[CGFR 67-46, 32 FR 17728, Dec. 12, 1967, as amended by CGD07-99-002, 64 FR 22554, Apr. 27, 1999; USCG-2006-25556, 72 FR 36328, July 2, 2007; USCG-2006-24371, 74 FR 11212, Mar. 16, 2009]
+[USCG-2015-0729, 82 FR 27775, June 19, 2017]

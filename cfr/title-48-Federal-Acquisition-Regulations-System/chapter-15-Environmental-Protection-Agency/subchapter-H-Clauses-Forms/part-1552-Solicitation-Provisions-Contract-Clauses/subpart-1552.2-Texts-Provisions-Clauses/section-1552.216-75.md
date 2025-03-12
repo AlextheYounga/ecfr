@@ -1,5 +1,7 @@
 ##### 1552.216-75 Base fee and award fee proposal. #####
 
+Link to an amendment published at 82 FR 33021, July 19, 2017.
+
 As prescribed in 1516.406(b), insert the following clause:
 
 Base Fee and Award Fee Proposal (FEB 1999)

@@ -1,5 +1,7 @@
 ##### 1552.217-77 Option to extend the term of the contract fixed price. #####
 
+Link to an amendment published at 82 FR 33021, July 19, 2017.
+
 As prescribed in 1517.208(g), insert the following clause:
 
 Option To Extend the Term of the Contract Fixed Price (OCT 2000)

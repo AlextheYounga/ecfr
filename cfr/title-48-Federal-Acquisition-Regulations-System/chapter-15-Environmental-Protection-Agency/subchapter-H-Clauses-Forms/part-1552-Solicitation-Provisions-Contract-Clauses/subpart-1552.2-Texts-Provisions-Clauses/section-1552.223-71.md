@@ -1,5 +1,7 @@
 ##### 1552.223-71 EPA Green Meetings and Conferences. #####
 
+Link to an amendment published at 82 FR 33022, July 19, 2017.
+
 As prescribed in 1523.703-1, insert the following provision, or language substantially the same as the provision, in solicitations for meetings and conference facilities.
 
 EPA Green Meetings and Conferences March 2015

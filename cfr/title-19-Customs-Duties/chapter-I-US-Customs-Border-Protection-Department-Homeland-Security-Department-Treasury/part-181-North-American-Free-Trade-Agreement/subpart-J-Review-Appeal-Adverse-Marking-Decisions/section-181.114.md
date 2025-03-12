@@ -1,6 +1,6 @@
 ##### § 181.114 Customs response to request. #####
 
-(a) *Time for response.* The port director will issue a written response to the requestor within 30 days of receipt of a request containing the information specified in § 181.113 of this part. If the request is incomplete, such that the transaction in question cannot be identified, the Center director will notify the requestor in writing within 30 days of receipt of the request regarding what information is needed.
+(a) *Time for response.* The Center director will issue a written response to the requestor within 30 days of receipt of a request containing the information specified in § 181.113 of this part. If the request is incomplete, such that the transaction in question cannot be identified, the Center director will notify the requestor in writing within 30 days of receipt of the request regarding what information is needed.
 
 (b) *Content.* The response by the Center director shall include the following:
 

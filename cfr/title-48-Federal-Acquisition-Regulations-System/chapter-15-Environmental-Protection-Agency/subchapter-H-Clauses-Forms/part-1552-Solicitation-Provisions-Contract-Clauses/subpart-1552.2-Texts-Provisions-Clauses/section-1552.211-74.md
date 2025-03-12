@@ -1,5 +1,7 @@
 ##### 1552.211-74 Work assignments. #####
 
+Link to an amendment published at 82 FR 33021, July 19, 2017.
+
 As prescribed in 1511.011-74, insert the following contract clause in cost-reimbursement contracts when work assignments are to be used.
 
 Work Assignments (DEC 2014)

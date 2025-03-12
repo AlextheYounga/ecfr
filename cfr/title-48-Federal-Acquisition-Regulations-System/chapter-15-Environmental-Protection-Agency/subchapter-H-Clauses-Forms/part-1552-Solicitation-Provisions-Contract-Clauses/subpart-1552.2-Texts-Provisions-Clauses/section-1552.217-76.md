@@ -1,5 +1,7 @@
 ##### 1552.217-76 Option to extend the effective period of the contract - indefinite delivery/indefinite quantity contract. #####
 
+Link to an amendment published at 82 FR 33021, July 19, 2017.
+
 As prescribed in 1517.208(g), the following is used in indefinite delivery/indefinite quantity type contracts with options to extend the effective period of the contract. The clause may be adjusted depending upon the number of options. If only one option period is used, modify (b) and (c) accordingly.
 
 Option To Extend the Effective Period of the Contract - Indefinite Delivery/Indefinite Quantity Contract

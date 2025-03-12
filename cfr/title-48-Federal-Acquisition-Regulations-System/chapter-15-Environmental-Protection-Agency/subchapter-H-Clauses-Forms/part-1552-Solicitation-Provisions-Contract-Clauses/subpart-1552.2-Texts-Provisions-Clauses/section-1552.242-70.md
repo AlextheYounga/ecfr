@@ -1,5 +1,7 @@
 ##### 1552.242-70 Indirect costs. #####
 
+Link to an amendment published at 82 FR 33023, July 19, 2017.
+
 As prescribed in 1542.705-70, insert the following clause in all cost-reimbursement and non-commercial time and materials type contracts. If ceilings are not being established, enter “not applicable” in paragraph (c) of the clause.
 
 Indirect Costs (APR 1984)

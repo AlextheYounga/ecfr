@@ -1,6 +1,6 @@
 ##### § 142.13 When entry summary must be filed at time of entry. #####
 
-(a) *Authority of port director.* The CBP may require that the entry summary documentation be filed and that estimated duties, if any, be deposited at the time of entry before the merchandise is released if the importer:
+(a) *Authority of CBP.* The CBP may require that the entry summary documentation be filed and that estimated duties, if any, be deposited at the time of entry before the merchandise is released if the importer:
 
 (1) Has failed repeatedly to file timely entry summary documentation without justification,
 
@@ -10,7 +10,7 @@
 
 (4) Is substantially or habitually delinquent in the payment of Customs bills. See § 142.14.
 
-(b) *Special classes of merchandise* - (1) *Quota-class merchandise.* Quota-class merchandise shall not be released upon delivery of entry documentation before presentation of:
+(b) *Special classes of merchandise*—(1) *Quota-class merchandise.* Quota-class merchandise shall not be released upon delivery of entry documentation before presentation of:
 
 (i) An entry summary for consumption with estimated duties attached; or
 

@@ -2,11 +2,9 @@
 
 (a) *Evaluation.* Evaluation of each package design under normal conditions of transport must include a determination of the effect on that design of the conditions and tests specified in this section. Separate specimens may be used for the free drop test, the compression test, and the penetration test, if each specimen is subjected to the water spray test before being subjected to any of the other tests.
 
-(b) *Initial conditions.* With respect to the initial conditions for the tests in this section, the demonstration of compliance with the requirements of this part must be based on the ambient temperature preceding and following the tests remaining constant at that value between −29 °C (−20 °F) and +38 °C (+100 °F) which is most unfavorable for the feature under consideration. The initial internal pressure within the containment system must be considered to be the maximum normal operating pressure, unless a lower internal pressure consistent with the ambient temperature considered to precede and follow the tests is more unfavorable.
+(b) *Initial conditions.* With respect to the initial conditions for the tests in this section, the demonstration of compliance with the requirements of this part must be based on the ambient temperature preceding and following the tests remaining constant at that value between −29 °C (−20 °F) and + 38 °C ( + 100 °F) which is most unfavorable for the feature under consideration. The initial internal pressure within the containment system must be considered to be the maximum normal operating pressure, unless a lower internal pressure consistent with the ambient temperature considered to precede and follow the tests is more unfavorable.
 
-(c) *Conditions and tests* - (1) *Heat.* An ambient temperature of 38 °C (100 °F) in still air, and insolation according to the following table:
-
-Insolation Data
+(c) *Conditions and tests*—(1) *Heat.* An ambient temperature of 38 °C (100 °F) in still air, and insolation according to the following table:
 
 |       Form and location of surface       |Total insolation for a 12-hour period  <br/>(g cal/cm<sup>2</sup>)|
 |------------------------------------------|------------------------------------------------------------------|
@@ -27,8 +25,6 @@ Insolation Data
 (6) *Water spray.* A water spray that simulates exposure to rainfall of approximately 5 cm/h (2 in/h) for at least 1 hour.
 
 (7) *Free drop.* Between 1.5 and 2.5 hours after the conclusion of the water spray test, a free drop through the distance specified below onto a flat, essentially unyielding, horizontal surface, striking the surface in a position for which maximum damage is expected.
-
-Criteria for Free Drop Test (Weight/Distance)
 
 | Package weight |Free drop distance|      |      |
 |----------------|------------------|------|------|

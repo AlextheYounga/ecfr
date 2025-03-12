@@ -1,5 +1,7 @@
 ##### 1517.208 Solicitation provisions and contract clauses. #####
 
+Link to an amendment published at 82 FR 33019, July 19, 2017.
+
 (a) The Contracting Officer shall insert the clause at 1552.217-71, Option To Extend the Term of the Contract - Cost-Type Contract, when applicable.
 
 (b) The Contracting Officer shall insert the clause at 1552.217-72, Option To Extend the Term of the Contract - Cost-Plus-Award-Fee Contract, when applicable.

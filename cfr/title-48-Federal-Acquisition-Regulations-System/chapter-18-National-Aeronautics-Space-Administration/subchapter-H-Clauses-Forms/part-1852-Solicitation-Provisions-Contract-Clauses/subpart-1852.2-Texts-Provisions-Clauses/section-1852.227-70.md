@@ -1,14 +1,14 @@
-##### 1852.227-70 New Technology - Other than a Small Business Firm or Nonprofit Organization. #####
+##### 1852.227-70 New Technology—Other than a Small Business Firm or Nonprofit Organization. #####
 
 As prescribed in 1827.303(d)(1), insert the following clause:
 
-New Technology - Other than a Small Business Firm or Nonprofit Organization (APR 2015)
+New Technology—Other Than a Small Business Firm or Nonprofit Organization (APR 2015)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 “Administrator” means the Administrator of the National Aeronautics and Space Administration (NASA) or duly authorized representative.
 
-“Made” means -
+“Made” means—
 
 (1) When used in relation to any invention other than a plant variety, the conception or first actual reduction to practice of the invention; or
 
@@ -24,7 +24,7 @@ New Technology - Other than a Small Business Firm or Nonprofit Organization (APR
 
 “Subject invention” means any reportable item which is or may be patentable or otherwise protectible under Title 35 of the United States Code, or any novel variety of plant that is or may be protectible under the Plant Variety Protection Act (7 U.S.C. 2321, *et seq.*).
 
-(b) *Allocation of principal rights* - (1) *Presumption of title.* (i) Any reportable item that the Administrator considers to be a subject invention shall be presumed to have been made in the manner specified in paragraph (1)(A) or (1)(B) of Section 20135(b) of the National Aeronautics and Space Act (51 U.S.C. 20135(b)) (hereinafter “the Act”), and the above presumption shall be conclusive unless at the time of reporting the reportable item in accordance with paragraph (e)(2) of this clause the Contractor submits to the Contracting Officer a written statement, containing supporting details, demonstrating that the reportable item was not made in the manner specified in the Act.
+(b) *Allocation of principal rights*—(1) *Presumption of title.* (i) Any reportable item that the Administrator considers to be a subject invention shall be presumed to have been made in the manner specified in paragraph (1)(A) or (1)(B) of Section 20135(b) of the National Aeronautics and Space Act (51 U.S.C. 20135(b)) (hereinafter “the Act”), and the above presumption shall be conclusive unless at the time of reporting the reportable item in accordance with paragraph (e)(2) of this clause the Contractor submits to the Contracting Officer a written statement, containing supporting details, demonstrating that the reportable item was not made in the manner specified in the Act.
 
 (ii) Regardless of whether title to a given subject invention would otherwise be subject to an advance waiver or is the subject of a petition for waiver as described in paragraph (b)(3) of this clause, the Contractor may nevertheless file the statement described in paragraph (b)(1)(i) of this clause. The Administrator will review the information furnished by the Contractor in any such statement and any other available information relating to the circumstances surrounding the making of the subject invention and will notify the Contractor whether the Administrator has determined that the subject invention was made in the manner specified in paragraph (1)(A) or (1)(B) of Section 20135(b) of the Act.
 
@@ -36,7 +36,7 @@ New Technology - Other than a Small Business Firm or Nonprofit Organization (APR
 
 (c) Minimum rights reserved by the Government.
 
-(1) With respect to each subject invention for which a waiver of rights has been granted, the Government reserves -
+(1) With respect to each subject invention for which a waiver of rights has been granted, the Government reserves—
 
 (i) An irrevocable, nonexclusive, nontransferable, royalty-free license for the practice of such invention throughout the world by or on behalf of the United States or any foreign government in accordance with any treaty or agreement with the United States; and
 
@@ -54,9 +54,9 @@ New Technology - Other than a Small Business Firm or Nonprofit Organization (APR
 
 (e) Contractor's obligations.
 
-(1) The Contractor shall establish and maintain active and effective procedures to assure that reportable items are promptly identified and disclosed to Contractor personnel responsible for the administration of this New Technology - Other Than a Small Business Firm or Nonprofit Organization clause within six months of conception and/or first actual reduction to practice, whichever occurs first in the performance of work under this contract. These procedures shall include the maintenance of laboratory notebooks or equivalent records and other records as are reasonably necessary to document the conception and/or the first actual reduction to practice of the reportable items, and records that show that the procedures for identifying and disclosing reportable items are followed. Upon request, the Contractor shall furnish the Contracting Officer a description of such procedures for evaluation and for determination as to their effectiveness.
+(1) The Contractor shall establish and maintain active and effective procedures to assure that reportable items are promptly identified and disclosed to Contractor personnel responsible for the administration of this New Technology—Other Than a Small Business Firm or Nonprofit Organization clause within six months of conception and/or first actual reduction to practice, whichever occurs first in the performance of work under this contract. These procedures shall include the maintenance of laboratory notebooks or equivalent records and other records as are reasonably necessary to document the conception and/or the first actual reduction to practice of the reportable items, and records that show that the procedures for identifying and disclosing reportable items are followed. Upon request, the Contractor shall furnish the Contracting Officer a description of such procedures for evaluation and for determination as to their effectiveness.
 
-(2) The Contractor shall disclose in writing each reportable item to the Contracting Officer within two months after the inventor discloses it in writing to Contractor personnel responsible for the administration of this New Technology - Other Than a Small Business Firm or Nonprofit Organization clause or within six months after the Contractor becomes aware that a reportable item has been made, whichever is earlier, but in any event for subject inventions before any on sale, public use, or publication of such invention known to the Contractor. The disclosure to the agency shall identify the inventor(s) or innovator(s) and this contract under which the reportable item was made. It shall be sufficiently complete in technical detail to convey a clear understanding, to the extent known at the time of the disclosure, of the nature, purpose, operation, and physical, chemical, biological, or electrical characteristics of the reportable item. The disclosure shall also identify any publication, sale or offer for sale, or public use of any subject invention and whether a manuscript describing such invention has been submitted for publication and, if so, whether it has been accepted for publication at the time of disclosure. In addition, after disclosure to the agency, the Contractor will promptly notify the agency of the acceptance of any manuscript describing a subject invention for publication or of any sale, offer for sale, or public use planned by the Contractor for such invention.
+(2) The Contractor shall disclose in writing each reportable item to the Contracting Officer within two months after the inventor discloses it in writing to Contractor personnel responsible for the administration of this New Technology—Other Than a Small Business Firm or Nonprofit Organization clause or within six months after the Contractor becomes aware that a reportable item has been made, whichever is earlier, but in any event for subject inventions before any on sale, public use, or publication of such invention known to the Contractor. The disclosure to the agency shall identify the inventor(s) or innovator(s) and this contract under which the reportable item was made. It shall be sufficiently complete in technical detail to convey a clear understanding, to the extent known at the time of the disclosure, of the nature, purpose, operation, and physical, chemical, biological, or electrical characteristics of the reportable item. The disclosure shall also identify any publication, sale or offer for sale, or public use of any subject invention and whether a manuscript describing such invention has been submitted for publication and, if so, whether it has been accepted for publication at the time of disclosure. In addition, after disclosure to the agency, the Contractor will promptly notify the agency of the acceptance of any manuscript describing a subject invention for publication or of any sale, offer for sale, or public use planned by the Contractor for such invention.
 
 (3) The Contractor may use whatever format is convenient to disclose reportable items required in subparagraph (e)(2). NASA prefers that the Contractor use either the electronic or paper version of NASA Form 1679, Disclosure of Invention and New Technology (including computer software) to disclose reportable items. Both the electronic and paper versions of NASA Form 1679 may be accessed at the electronic New Technology Reporting Web site *http://invention.nasa.gov.*
 
@@ -72,7 +72,7 @@ New Technology - Other than a Small Business Firm or Nonprofit Organization (APR
 
 (f) Examination of records relating to inventions.
 
-(1) The Contracting Officer or any authorized representative shall, until 3 years after final payment under this contract, have the right to examine any books (including laboratory notebooks), records, and documents of the Contractor relating to the conception or first actual reduction to practice of inventions in the same field of technology as the work under this contract to determine whether -
+(1) The Contracting Officer or any authorized representative shall, until 3 years after final payment under this contract, have the right to examine any books (including laboratory notebooks), records, and documents of the Contractor relating to the conception or first actual reduction to practice of inventions in the same field of technology as the work under this contract to determine whether—
 
 (i) Any such inventions are subject inventions;
 
@@ -86,7 +86,7 @@ New Technology - Other than a Small Business Firm or Nonprofit Organization (APR
 
 (g) Withholding of payment (this paragraph does not apply to subcontracts).
 
-(1) Any time before final payment under this contract, the Contracting Officer may, in the Government's interest, withhold payment until a reserve not exceeding $50,000 or 5 percent of the amount of this contract, whichever is less, shall have been set aside if, in the Contracting Officer's opinion, the Contractor fails to -
+(1) Any time before final payment under this contract, the Contracting Officer may, in the Government's interest, withhold payment until a reserve not exceeding $50,000 or 5 percent of the amount of this contract, whichever is less, shall have been set aside if, in the Contracting Officer's opinion, the Contractor fails to—
 
 (i) Establish, maintain, and follow effective procedures for identifying and disclosing reportable items pursuant to paragraph (e)(1) of this clause;
 
@@ -104,7 +104,7 @@ New Technology - Other than a Small Business Firm or Nonprofit Organization (APR
 
 (h) Subcontracts.
 
-(1) Unless otherwise authorized or directed by the Contracting Officer, the Contractor shall -
+(1) Unless otherwise authorized or directed by the Contracting Officer, the Contractor shall—
 
 (i) Include this clause (suitably modified to identify the parties) in any subcontract hereunder (regardless of tier) with other than a small business firm or nonprofit organization for the performance of experimental, developmental, or research work; or
 
@@ -112,7 +112,7 @@ New Technology - Other than a Small Business Firm or Nonprofit Organization (APR
 
 (iii) Modify the applicable clause in any subcontract hereunder (regardless of tier) to identify the parties as follows: references to the Government are not changed, and in all references to the Contractor, the subcontractor is substituted for the Contractor so that the subcontractor has all rights and obligations of the Contractor in the clause.
 
-(2) In the event of a refusal by a prospective subcontractor to accept such a clause the Contractor -
+(2) In the event of a refusal by a prospective subcontractor to accept such a clause the Contractor—
 
 (i) Shall promptly submit a written notice to the Contracting Officer setting forth the subcontractor's reasons for such refusal and other pertinent information that may expedite disposition of the matter; and
 

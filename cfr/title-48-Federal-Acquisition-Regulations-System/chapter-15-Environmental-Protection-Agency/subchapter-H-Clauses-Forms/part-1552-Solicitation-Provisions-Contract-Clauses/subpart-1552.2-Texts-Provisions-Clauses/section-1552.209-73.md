@@ -1,5 +1,7 @@
 ##### 1552.209-73 Notification of conflicts of interest regarding personnel. #####
 
+Link to an amendment published at 82 FR 33021, July 19, 2017.
+
 As prescribed in 1509.507-2(b) insert the following clause:
 
 Notification of Conflicts of Interest Regarding Personnel (MAY 1994)
