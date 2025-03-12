@@ -2,7 +2,8 @@
 
 Link to an amendment published at 85 FR 57107, Sept. 15, 2020.
 
-Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394 (15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Director of the Division of Investment Management, to be performed by him or under his direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
+Pursuant to the provisions of sections 4A and 4B of the Securities Exchange Act of 1934, as amended,
+(15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Director of the Division of Investment Management, to be performed by the Director or under the Director's direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
 
 (a) With respect to the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*):
 
@@ -16,7 +17,7 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394 (15 U.S.C. 78d-1, 78d
 
 (i) To grant reasonable extensions of time, upon a showing of good cause and that it would not be contrary to the public interest or inconsistent with the protection of investors; and
 
-(ii) To deny requests for extensions of time, provided the applicant is advised that he can request Commission review of any such denial.
+(ii) To deny requests for extensions of time, provided the applicant is advised that the applicant can request Commission review of any such denial.
 
 (5) [Reserved]
 
@@ -46,9 +47,9 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394 (15 U.S.C. 78d-1, 78d
 
 (b) With respect to matters pertaining to investment companies registered under the Investment Company Act of 1940 (15 U.S.C. 80a *et seq.*), pooled investment funds or accounts, and the general assets or separate accounts of insurance companies, all arising under the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), and the Trust Indenture Act of 1939 (15 U.S.C. 77aaa *et seq.*), the same functions as are delegated to the Director of the Division of Corporation Finance in regard to companies other than such investment companies in paragraphs (a), (e), and (f) of § 200.30-1.
 
-(b-1) *With respect to the Securities Act of 1933.* (1) To issue notices with respect to applications for orders under section 3(a)(2) exempting from section 5 interests or participations issued in connection with stock bonus, pension, profit-sharing, or annuity plans covering employees some or all of whom are employees within the meaning of section 401(c)(1) of the Internal Revenue Code of 1954 where, upon examination, the matter does not appear to him to present issues not previously settled by the Commission or to raise questions of fact or policy indicating that the public interest or the interest of investors requires that a hearing be held.
+(b-1) *With respect to the Securities Act of 1933.* (1) To issue notices with respect to applications for orders under section 3(a)(2) exempting from section 5 interests or participations issued in connection with stock bonus, pension, profit-sharing, or annuity plans covering employees some or all of whom are employees within the meaning of section 401(c)(1) of the Internal Revenue Code of 1954 where, upon examination, the matter does not appear to the Director to present issues not previously settled by the Commission or to raise questions of fact or policy indicating that the public interest or the interest of investors requires that a hearing be held.
 
-(2) To authorize the issuance of orders where a notice has been issued and no request for a hearing has been received from any interested person within the period specified in the notice and the matter involved presents no issue that he believes has not been settled previously by the Commission and it does not appear to him to be necessary in the public interest or the interest of investors that a hearing be held.
+(2) To authorize the issuance of orders where a notice has been issued and no request for a hearing has been received from any interested person within the period specified in the notice and the matter involved presents no issue that the Director believes has not been settled previously by the Commission and it does not appear to the Director to be necessary in the public interest or the interest of investors that a hearing be held.
 
 (b-2) With respect to post-effective amendments filed pursuant to § 230.485(a) or § 230.486(a) of this chapter:
 
@@ -118,9 +119,9 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394 (15 U.S.C. 78d-1, 78d
 
 (h) Notwithstanding anything in the foregoing:
 
-(1) The Director of the Division of Investment Management shall have the same authority with respect to the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), §§ 230.251-230.263, and §§ 230.651-230.703(T) of this chapter as that delegated to each Regional Director in § 200.30-6 (b) and (c).
+(1) [Reserved]
 
-(2) In any case in which the Director of the Division of Investment Management believes it appropriate, he may submit the matter to the Commission.
+(2) In any case in which the Director of the Division of Investment Management believes it appropriate, the Director may submit the matter to the Commission.
 
 (i) With respect to the Investment Company Act of 1940 (15 U.S.C. 80a *et seq.*), the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), the Trust Indenture Act of 1939 (15 U.S.C. 77aaa *et seq.*), and Regulation S-T thereunder (part 232 of this chapter), to grant or deny a request submitted under Regulation S-T to adjust the filing date of an electronic filing.
 

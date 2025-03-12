@@ -1,12 +1,10 @@
 ##### 9.406-2 Causes for debarment. #####
 
-Link to an amendment published at 86 FR 3678, Jan. 14, 2021.
+The debarring official may debar—
 
-The debarring official may debar -
+(a) A contractor for a conviction of or civil judgment for—
 
-(a) A contractor for a conviction of or civil judgment for -
-
-(1) Commission of fraud or a criminal offense in connection with -
+(1) Commission of fraud or a criminal offense in connection with—
 
 (i) Obtaining;
 
@@ -22,15 +20,15 @@ The debarring official may debar -
 
 (5) Commission of any other offense indicating a lack of business integrity or business honesty that seriously and directly affects the present responsibility of a Government contractor or subcontractor.
 
-(b)(1) A contractor, based upon a preponderance of the evidence, for any of the following -
+(b)(1) A contractor, based upon a preponderance of the evidence, for any of the following—
 
-(i) Violation of the terms of a Government contract or subcontract so serious as to justify debarment, such as -
+(i) Violation of the terms of a Government contract or subcontract so serious as to justify debarment, such as—
 
 (A) Willful failure to perform in accordance with the terms of one or more contracts; or
 
 (B) A history of failure to perform, or of unsatisfactory performance of, one or more contracts.
 
-(ii) Violations of 41 U.S.C. chapter 81, Drug-Free Workplace, as indicated by -
+(ii) Violations of 41 U.S.C. chapter 81, Drug-Free Workplace, as indicated by—
 
 (A) Failure to comply with the requirements of the clause at 52.223-6, Drug-Free Workplace; or
 
@@ -56,7 +54,7 @@ The debarring official may debar -
 
 (*4*) *The taxpayer has filed for bankruptcy protection.* The taxpayer is not delinquent because enforced collection action is stayed under 11 U.S.C. 362 (the Bankruptcy Code).
 
-(vi) Knowing failure by a principal, until 3 years after final payment on any Government contract awarded to the contractor, to timely disclose to the Government, in connection with the award, performance, or closeout of the contract or a subcontract thereunder, credible evidence of -
+(vi) Knowing failure by a principal, until 3 years after final payment on any Government contract awarded to the contractor, to timely disclose to the Government, in connection with the award, performance, or closeout of the contract or a subcontract thereunder, credible evidence of—
 
 (A) Violation of Federal criminal law involving fraud, conflict of interest, bribery, or gratuity violations found in Title 18 of the United States Code;
 
@@ -64,8 +62,10 @@ The debarring official may debar -
 
 (C) Significant overpayment(s) on the contract, other than overpayments resulting from contract financing payments as defined in 32.001.
 
+(vii) Determination of a false certification under 52.209-13, Violation of Arms Control Treaties or Agreements-Certification.
+
 (2) A contractor, based on a determination by the Secretary of Homeland Security or the Attorney General of the United States, that the contractor is not in compliance with Immigration and Nationality Act employment provisions (see Executive Order 12989, as amended by Executive Order 13286). Such determination is not reviewable in the debarment proceedings.
 
 (c) A contractor or subcontractor based on any other cause of so serious or compelling a nature that it affects the present responsibility of the contractor or subcontractor.
 
-[48 FR 42142, Sept. 19, 1983, as amended at 54 FR 4968, Jan. 31, 1989; 54 FR 19815, May 8, 1989; 55 FR 21707, May 25, 1990; 59 FR 11372, Mar. 10, 1994; 61 FR 2633, Jan. 26, 1996; 61 FR 41473, Aug. 8, 1996; 61 FR 69291, Dec. 31, 1996; 68 FR 28080, May 22, 2003; 69 FR 34230, June 18, 2004; 73 FR 21798, Apr. 22, 2008; 73 FR 67091, Nov. 12, 2008; 79 FR 24199, Apr. 29, 2014; 80 FR 38296, July 2, 2015; 84 FR 19845, May 6, 2019; 85 FR 40067, July 2, 2020]
+[48 FR 42142, Sept. 19, 1983, as amended at 54 FR 4968, Jan. 31, 1989; 54 FR 19815, May 8, 1989; 55 FR 21707, May 25, 1990; 59 FR 11372, Mar. 10, 1994; 61 FR 2633, Jan. 26, 1996; 61 FR 41473, Aug. 8, 1996; 61 FR 69291, Dec. 31, 1996; 68 FR 28080, May 22, 2003; 69 FR 34230, June 18, 2004; 73 FR 21798, Apr. 22, 2008; 73 FR 67091, Nov. 12, 2008; 79 FR 24199, Apr. 29, 2014; 80 FR 38296, July 2, 2015; 84 FR 19845, May 6, 2019; 85 FR 40067, July 2, 2020; 86 FR 3679, Jan. 14, 2021]

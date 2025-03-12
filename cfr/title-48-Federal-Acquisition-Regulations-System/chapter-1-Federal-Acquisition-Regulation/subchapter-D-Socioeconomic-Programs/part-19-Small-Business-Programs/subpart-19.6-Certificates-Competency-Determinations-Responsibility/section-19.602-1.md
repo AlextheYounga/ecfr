@@ -1,12 +1,10 @@
 ##### 19.602-1 Referral. #####
 
-Link to an amendment published at 86 FR 3684, Jan. 14, 2021.
-
-(a) Upon determining and documenting that an apparent successful small business offeror lacks certain elements of responsibility (including, but not limited to, capability, competency, capacity, credit, integrity, perseverance, tenacity, and limitations on subcontracting but for sureties see 28.101-3(f) and 28.203(c)), the contracting officer shall -
+(a) Upon determining and documenting that an apparent successful small business offeror lacks certain elements of responsibility (including, but not limited to, capability, competency, capacity, credit, integrity, perseverance, tenacity, and limitations on subcontracting but for sureties see 28.101-3(f) and 28.203-1(e)), the contracting officer shall—
 
 (1) Withhold contract award (see 19.602-3); and
 
-(2) Refer the matter to the cognizant SBA Government Contracting Area Office (Area Office) serving the area in which the headquarters of the offeror is located, in accordance with agency procedures, except that referral is not necessary if the small business concern -
+(2) Refer the matter to the cognizant SBA Government Contracting Area Office (Area Office) serving the area in which the headquarters of the offeror is located, in accordance with agency procedures, except that referral is not necessary if the small business concern—
 
 (i) Is determined to be unqualified and ineligible because it does not meet the standard in 9.104-1(g); *provided,* that the determination is approved by the chief of the contracting office; or
 
@@ -14,7 +12,7 @@ Link to an amendment published at 86 FR 3684, Jan. 14, 2021.
 
 (b) If a partial set-aside is involved, the contracting officer shall refer to the SBA the entire quantity to which the concern may be entitled, if responsible.
 
-(c) The referral shall include -
+(c) The referral shall include—
 
 (1) A notice that a small business concern has been determined to be nonresponsible, specifying the elements of responsibility the contracting officer found lacking; and
 
@@ -36,4 +34,4 @@ Link to an amendment published at 86 FR 3684, Jan. 14, 2021.
 
 (e) Contract award shall be withheld by the contracting officer for a period of 15 business days (or longer if agreed to by the SBA and the contracting officer) following receipt by the appropriate SBA Area Office of a referral that includes all required documentation.
 
-[48 FR 42240, Sept. 19, 1983, as amended at 51 FR 27489, July 31, 1986; 62 FR 44820, Aug. 22, 1997; 70 FR 57461, Sept. 30, 2005]
+[48 FR 42240, Sept. 19, 1983, as amended at 51 FR 27489, July 31, 1986; 62 FR 44820, Aug. 22, 1997; 70 FR 57461, Sept. 30, 2005; 86 FR 3684, Jan. 14, 2021]

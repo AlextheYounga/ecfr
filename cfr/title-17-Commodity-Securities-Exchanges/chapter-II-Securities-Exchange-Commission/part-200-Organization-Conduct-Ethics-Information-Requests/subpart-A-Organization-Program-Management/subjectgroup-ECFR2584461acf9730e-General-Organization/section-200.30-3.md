@@ -1,12 +1,12 @@
 ##### § 200.30-3 Delegation of authority to Director of Division of Trading and Markets. #####
 
-Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Director of the Division of Trading and Markets to be performed by him or under his direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
+Pursuant to sections 4A and 4B of the Securities Exchange Act of 1934, as amended (15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Director of the Division of Trading and Markets to be performed by the Director or under the Director's direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
 
 (a) With respect to the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*):
 
 (1) To approve the withdrawal or striking from listing and registration of securities registered on any national securities exchange pursuant to section 12(d) of the Act (15 U.S.C. 78*l*(d)) and Rules 12d2-1 and 12d2-2 thereunder (§§ 240.12d2-1 and 240.12d2-2 of this chapter);
 
-(2) To extend unlisted trading privileges and to deny applications for unlisted trading privileges by national securities exchanges pursuant to section 12(f)(2) of the Act, 15 U.S.C. 78*l*(f)(2), and Rule 12f-1 thereunder, 17 CFR 240.12f-1, provided that any applicant exchange denied unlisted trading privileges is advised of its right to have such denial reviewed by the Commission.
+(2) [Reserved]
 
 (3) Pursuant to section 15(b) of the Act (15 U.S.C. 78*o*(b)):
 
@@ -20,7 +20,7 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d
 
 (ii) To extend the time for Commission consideration of notices for admission to membership or participation in a self-regulatory organization or association with a member of persons subject to a statutory disqualification pursuant to paragraph (a)(7) of that rule.
 
-(5) Pursuant to § 240.17a-5(m)(3) of this chapter (Rule 17a-5(m)(3)), to consider applications by brokers and dealers for exemptions from, and extension of time within which to file, reports required by § 240.17a-5 of this chapter (Rule 17a-5) and to grant, and to authorize the issuance of orders denying, such applications, provided such applicant is advised of his right to have such denial reviewed by the Commission.
+(5) Pursuant to § 240.17a-5(m)(3) of this chapter (Rule 17a-5(m)(3)), to consider applications by brokers and dealers for exemptions from, and extension of time within which to file, reports required by § 240.17a-5 of this chapter (Rule 17a-5) and to grant, and to authorize the issuance of orders denying, such applications, provided such applicant is advised of the applicant's right to have such denial reviewed by the Commission.
 
 (6) Pursuant to Rules 14e-4(c), 14e-5(d), and 15c2-11(h) (§§ 240.14e-4(c), 240.14e-5(d), and 240.15c2-11(h) of this chapter), and Rules 101(d), 102(e), 104(j), and 105(c) of Regulation M (§§ 242.101(d), 242.102(e), 242.104(j), and 242.105(c) of this chapter), to grant requests for exemptions from Rules 14e-4, 14e-5, and 15c2-11 (§§ 240.14e-4, 240.14e-5, and 240.15c2-11 of this chapter), and Rules 101, 102, 104, and 105 of Regulation M (§§ 242.101, 242.102, 242.104, and 242.105 of this chapter).
 
@@ -54,9 +54,9 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d
 
 (C) To examine a proposed subordinated loan agreement filed by a security-based swap dealer and to find it acceptable pursuant to § 240.18a-1d(c)(5) of this chapter.
 
-(8) Pursuant to Rule 17a-10(d) (§ 240.17a-10(d) of this chapter), to consider applications by broker-dealers for extensions of time in which to file reports required by Rule 17a-10(§ 240.17a-10 of this chapter), and to grant, and to authorize the issuance of orders denying, such applications provided such applicant is advised of his right to have such denial reviewed by the Commission. Any extension granted shall not be for more than 150 days after the close of the calendar year for which the report on Form X-17A-10 (§ 249.618 of this chapter) is made.
+(8) Pursuant to Rule 17a-10(d) (§ 240.17a-10(d) of this chapter), to consider applications by broker-dealers for extensions of time in which to file reports required by Rule 17a-10(§ 240.17a-10 of this chapter), and to grant, and to authorize the issuance of orders denying, such applications provided such applicant is advised of the applicant's right to have such denial reviewed by the Commission. Any extension granted shall not be for more than 150 days after the close of the calendar year for which the report on Form X-17A-10 (§ 249.618 of this chapter) is made.
 
-(9) Pursuant to Rule 10b-17(b)(2) (§ 240.10b-17(b)(2) of this chapter), to review applications of various issuers for exemption from the notice requirements of Rule 10b-17 (§ 240.10b-17 of this chapter) and to grant or deny such applications, with authority to issue orders granting and denying same, provided each applicant is advised of his right to have a denial reviewed by the Commission.
+(9) Pursuant to Rule 10b-17(b)(2) (§ 240.10b-17(b)(2) of this chapter), to review applications of various issuers for exemption from the notice requirements of Rule 10b-17 (§ 240.10b-17 of this chapter) and to grant or deny such applications, with authority to issue orders granting and denying same, provided each applicant is advised of the applicant's right to have a denial reviewed by the Commission.
 
 (10)(i) Pursuant to Rule 15c3-3 (§ 240.15c3-3 of this chapter) and Rule 18a-4 (§ 240.18a-4 of this chapter) to find and designate as control locations for purposes of Rule 15c3-3(c)(7) (§ 240.15c3-3(c)(7) of this chapter), Rule 15c3-3(p)(2)(ii)(E) (§ 240.15c3-3(p)(2)(ii)(E) of this chapter), and Rule 18a-4(b)(2)(v) (§ 240.18a-4(b)(2)(v) of this chapter), certain broker-dealer and security-based swap accounts which are adequate for the protection of customer securities.
 
@@ -72,7 +72,7 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d
 
 (14) Pursuant to section 17A(c)(2) of the Act (15 U.S.C. 78q-1(c)(2)), to authorize the issuance of orders accelerating registration of transfer agents for which the Commission is the appropriate regulatory agency before the expiration of thirty days following the dates on which applications for registration as a transfer agent are filed.
 
-(15) Pursuant to Rule 10a-1(f) [§ 240.10a-1(f)] to grant requests for exemptions from Rule 10a-1;
+(15) [Reserved]
 
 (16) Pursuant to sections 17A(b)(1), 17A(b)(2) and 19(a) of the Act (15 U.S.C. 78q-1(b)(1), 78q-1(b)(2) and 78s(a)), to publish notice of the filing of applications for registration and for exemption from registration as a clearing agency.
 
@@ -102,9 +102,7 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d
 
 (25) Pursuant to Rule 17f-1 (§ 240.17f-1 of this chapter), to designate persons not subject to § 240.17f-1 as reporting institutions upon specified terms, conditions, and time periods.
 
-(26) [Reserved]
-
-(27) [Reserved]
+(26)-27[Reserved]
 
 (28) To grant exemptions from Rule 602 (17 CFR 242.602), pursuant to Rule 602(d) (17 CFR 242.602(d)).
 
@@ -124,7 +122,7 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d
 
 (36) To grant exemptions from Rule 603 (17 CFR 242.603), pursuant to Rule 603(d) (17 CFR 242.603(d)).
 
-(37) Pursuant to Rule 600 (17 CFR 242.600), to publish notice of the filing of a designation plan with respect to national market system securities, or any proposed amendment thereto, and to approve such plan or amendment.
+(37) [Reserved]
 
 (38) To disclose:
 
@@ -138,25 +136,25 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d
 
 (ii) To require refiling of an amendment to an options disclosure document pursuant to the procedure set forth in § 240.9b-1(b)(2)(i) of this chapter.
 
-(40) Pursuant to section 15B(b)(2)(B) of the Act, 15 U.S.C., 78o-4(b), to review and, where appropriate, approve the selection by the Municipal Securities Rulemaking Board (“Board”) of public representatives to serve on the Board.
+(40) [Reserved]
 
 (41) Pursuant to Rule 6a-2(c) (§ 240.6a-2 of this chapter) to exempt registered national securities exchanges from the filing requirements imposed by Rule 6a-2 with respect to certain affiliates and subsidiaries of the exchange.
 
 (42) Under 17 CFR 242.608(e), to grant or deny exemptions from 17 CFR 242.608.
 
-(43) To grant or deny exemptions from Rule 17Ad-14 (§ 240.17Ad-14 of this chapter), pursuant to Rule 17Ad-14(d) (§ 240.17Ad-14(d) of this chapter). (Pub. L. 87-592, 76 Stat. 394, 15 U.S.C 78d-1, 78d-2).
+(43) To grant or deny exemptions from Rule 17Ad-14 (§ 240.17Ad-14 of this chapter), pursuant to Rule 17Ad-14(d) (§ 240.17Ad-14(d) of this chapter).(sections 4A and 4B of the Securities Exchange Act of 1934, as amended , 15 U.S.C 78d-1, 78d-2).
 
 (44) To review, publish notice of, and where appropriate, approve plans, and amendments to plans, submitted by self-regulatory organizations pursuant to Rule 19d-1(c) under the Act (§ 240.19d-1(c)).
 
-(45) To grant exemptions from Rule 3b-9 under the Act. (§ 240.3b-9(c) of this chapter).
+(45) [Reserved]
 
 (46) Pursuant to section 15(b)(9) of the Act, 15 U.S.C. 78*o*(b)(9) to review and, where appropriate, grant exemptions from the requirement of section 15(b)(8) of the Act, 15 U.S.C. 78*o*(b)(8).
 
-(47) Pursuant to section 15(a)(2) of the Act, 15 U.S.C. 78*o*(a)(2), to review and, either unconditionally or on specified terms and conditions, grant exemptions from the broker-dealer registration requirements of section 15(a)(1) of the Act, 15 U.S.C. 78*o*(a)(1), to government securities brokers or government securities dealers that have registered with the Commission under section 15(a)(2) of the Act, 15 U.S.C. 78*o*−5(a)(2), solely with respect to effecting any transactions in, or inducing or attempting to induce the purchase or sale of, any security principally backed by a guaranty of the United States.
+(47) Pursuant to section 15(a)(2) of the Act, 15 U.S.C. 78o(a)(2), to review and, either unconditionally or on specified terms and conditions, grant exemptions from the broker-dealer registration requirements of section 15(a)(1) of the Act, 15 U.S.C. 78o(a)(1), to Government securities brokers or Government securities dealers that have registered with the Commission under section 15C(a)(2) of the Act, 15 U.S.C. 78o-5(a)(2), solely with respect to effecting any transactions in, or inducing or attempting to induce the purchase or sale of, any security principally backed by a guaranty of the United States.
 
-(48) Pursuant to paragraph (d) of Rule 15c2-12 (17 CFR 15c2-12), to grant or deny exemptions, either unconditionally or on specified terms and conditions, from Rule 15c2-12.
+(48) [Reserved]
 
-(49) Pursuant to section 11A(b) of the Act (15 U.S.C. 78k-1(b)) and Rule 609 thereunder (17 CFR 242.609), to publish notice of and, by order, grant under section 11A(b) of the Act and Rule 609 thereunder: Applications for registration as a securities information processor; and exemptions from that section and any rules or regulations promulgated thereunder, either conditionally or unconditionally.
+(49) Pursuant to section 11A(b) of the Act (15 U.S.C. 78k-1(b)) and 17 CFR 242.609 (Rule 609 thereunder), to publish notice of and, by order, grant under section 11A(b) of the Act and Rule 609 thereunder: Applications for registration as a securities information processor; and exemptions from Rule 609, either conditionally or unconditionally.
 
 (50) Pursuant to sections 17A(b) and 19(a) of the Act (15 U.S.C. 78q-1(b) and 78s(a)):
 
@@ -186,7 +184,7 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d
 
 (59) Pursuant to paragraph (f)(6)(iii) of Rule 19b-4 (§ 240.19b-4 of this chapter), to reduce the period before which a proposed rule change can become operative, and to reduce the period between an SRO submission of a filing and a pre-filing notification.
 
-(60) To grant exemptions from Rule 17a-23 (§ 240.17a-23 of this chapter), pursuant to Rule 17a-23(i) (§ 240.17a-23(i) of this chapter).
+(60) [Reserved]
 
 (61) To grant exemptions from Rule 604 (17 CFR 242.604), pursuant to Rule 604(c) (17 CFR 242.604(c)).
 
@@ -204,7 +202,7 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d
 
 (66) To issue orders under Rules 15b3-1(c)(4), 15b6-1(e), 15Ba2-2(e)(4), 15Bc3-1(e), 15Ca2-1(c)(4), and 15Cc1-1(d) (17 CFR 240.15b3-1(c)(4), 240.15b6-1(e), 240.15Ba2-2(e)(4), 240.15Bc3-1(e), 240.15Ca2-1(c)(4), and 240.15Cc1-1(d)).
 
-(67) Pursuant to Section 36(a) of the Act, 15 U.S.C. 78mm(a), to grant requests for exemptions from the tender offer provisions of Rule 14e-1 of Regulation 14E (§ 240.14e-1 of this chapter).
+(67) [Reserved]
 
 (68) Pursuant to Rule 605(b) (17 CFR 242.605(b)), to grant or deny exemptions, conditionally or unconditionally, from any provision or provisions of Rule 605 (17 CFR 242.605).
 
@@ -246,13 +244,29 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d
 
 (83) To grant or deny exemptions from Rule 612 (17 CFR 242.612), pursuant to Rule 612(c) (17 CFR 242.612(c)).
 
-(84) To issue notices pursuant to 17 CFR 242.610T(b)(1)(i) and (c) (Rule 610T(b)(1)(i) and (c)).
+(84) [Reserved]
 
 (85) Pursuant to Rule 608(b)(1)(ii) (17 CFR 242.608(b)(1)(ii)), to publish notice of the filing of a proposed amendment to an effective national market system plan; pursuant to Rule 608(b)(1)(iii) (17 CFR 242.608(b)(1)(iii)), to notify plan participants that the filing of a national market system plan or a proposed amendment to an effective national market system plan does not comply with paragraph (a) of Rule 608 (17 CFR 242.608) or plan filing requirements in other sections of Regulation NMS and 17 CFR 240, subpart A, and to determine that such plan or amendment is unusually lengthy and complex or raises novel regulatory issues and to inform the plan participants of such determination; pursuant to Rule 608(b)(2)(i) (17 CFR 242.608(b)(2)(i)), to institute proceedings to determine whether such plan or amendment should be disapproved, to provide the plan participants notice of the grounds for disapproval under consideration, and to extend for a period not exceeding 240 days from the date of publication of notice of the filing of such plan or amendment the period during which the Commission must issue an order approving or disapproving such plan or amendment and to determine whether such longer period is appropriate and publish the reasons for such determination; pursuant to Rule 608(b)(3)(iii) (17 CFR 242.608(b)(3)(iii)), to summarily abrogate a proposed amendment put into effect upon filing with the Commission and require that such amendment be refiled in accordance with paragraph (a)(1) of Rule 608 and reviewed in accordance with paragraph (b)(2) of Rule 608; and pursuant to Rule 608(b)(4) (17 CFR 242.608(b)(4), to put a proposed amendment into effect summarily upon publication of notice and on a temporary basis not to exceed 120 days.
 
-(b) To designate officers empowered to administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records in the course of investigations instituted by the Commission pursuant to section 21(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78u(b)).
+(86) To authorize the issuance of orders granting on-going registration to security-based swap dealers and major security-based swap participants based on the security-based swap dealer's or major security-based swap participant's application, pursuant to § 240.15Fb2-1(e) of this chapter (Rule 15Fb2-1(e)).
 
-(c) In nonpublic investigatory proceedings within the responsibility of the Director or Deputy Director, to grant requests of persons to procure copies of the transcript of their testimony given pursuant to Rule 6 of the Commission's rules relating to investigations as in effect subsequent to November 16, 1972 (17 CFR 203.6).
+(87) To authorize the issuance of orders canceling the registration of security-based swap dealers and major security-based swap participants registered pursuant to § 240.15Fb2-1 of this chapter (Rule 15Fb2-1) if such persons are no longer in existence or have ceased to do business as security-based swap dealers or major security-based swap participants, pursuant to § 240.15Fb3-3(a) of this chapter (Rule 15Fb3-3(a)).
+
+(88) To determine by order, pursuant to § 240.15Fb3-2(b) of this chapter (Rule 15Fb3-2(b)), whether notices of withdrawal of registration filed by security-based swap dealers or major security-based swap participants pursuant to section 15F(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78o-10(b)) shall become effective sooner than the normal 60 day period provided in Rule 15Fb3-2(b) (§ 240.15Fb3-2(b) of this chapter).
+
+(89) To authorize the publication in the Federal Register of notices that a complete application for substituted compliance has been submitted to the Commission, pursuant to § 240.0-13 of this chapter (Rule 0-13).
+
+(90) To grant applications made pursuant to § 201.194 of this chapter (Rule 194 of the Commission's Rules of Practice).
+
+(91) Pursuant to section 19(b) of the Act, 15 U.S.C. 78s(b), and § 240.19b-4(n) of this chapter (Rule 19b-4), to publish notices of advance notices filed by designated clearing agencies.
+
+(92) Pursuant to section 19(b) of the Act, 15 U.S.C. 78s(b), and § 240.19b-4(n) of this chapter (Rule 19b-4), to publish notices of withdrawals of advance notices filed by designated clearing agencies.
+
+(93) Pursuant to section 806(e)(1) of the Payment, Clearing, and Settlement Supervision Act of 2010, 12 U.S.C. 5465(e)(1)(D), to require a designated clearing agency to provide any information necessary to assess the effect the proposed change would have on the nature or level of risks associated with the designated clearing agency's payment, clearing, or settlement activities and the sufficiency of any proposed risk management techniques.
+
+(94) Pursuant to section 806(e)(1) of the Payment, Clearing, and Settlement Supervision Act of 2010, 12 U.S.C. 5465(e)(1)(H), to extend the review period for an additional 60 days for proposed changes that raise novel or complex issues and provide the designated clearing agency with prompt written notice of such extension.
+
+(b)-(c) [Reserved]
 
 (d) To notify the Securities Investor Protection Corporation (“SIPC”) of facts concerning the activities and the operational and financial condition of any registered broker or dealer which is or appears to be a member of SIPC and which is in or approaching financial difficulty within the meaning of section 5 of the Securities Investor Protection Act of 1970, as amended, 15 U.S.C. 78aaa *et seq.*
 
@@ -284,6 +298,6 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d
 
 (k) With respect to the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), the Securities Exchange Act of 1934 (15 U.S.C.) 78a *et seq.*), the Trust Indenture Act of 1939 (15 U.S.C. 77aaa *et seq.*), and Regulation S-T thereunder (part 232 of this chapter) to set the terms of, and grant or deny as appropriate, continuing hardship exemptions, pursuant to Rule 202 of Regulation S-T (§ 232.202 of this chapter), from the electronic submission requirements of Regulation S-T (part 232 of this chapter).
 
-(l) Notwithstanding anything in the foregoing, in any case in which the Director of the Division of Market Regulation believes it appropriate, he may submit the matter to the Commission.
+(l) Notwithstanding anything in paragraphs (a) through (k) of this section, in any case in which the Director of the Division of Trading and Markets believes it appropriate, the Director may submit the matter to the Commission.
 
 [37 FR 16795, Aug. 19, 1972]Editorial Note:For Federal Register citations affecting § 200.30-3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

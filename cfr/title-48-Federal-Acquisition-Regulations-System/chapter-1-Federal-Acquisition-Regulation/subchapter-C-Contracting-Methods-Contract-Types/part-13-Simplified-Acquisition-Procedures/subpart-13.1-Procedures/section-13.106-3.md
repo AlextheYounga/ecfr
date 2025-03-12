@@ -1,12 +1,10 @@
 ##### 13.106-3 Award and documentation. #####
 
-Link to an amendment published at 86 FR 3681, Jan. 14, 2021.
-
 (a) *Basis for award.* Before making award, the contracting officer must determine that the proposed price is fair and reasonable.
 
 (1) Whenever possible, base price reasonableness on competitive quotations or offers.
 
-(2) If only one response is received, include a statement of price reasonableness in the contract file. The contracting officer may base the statement on -
+(2) If only one response is received, include a statement of price reasonableness in the contract file. The contracting officer may base the statement on—
 
 (i) Market research;
 
@@ -30,11 +28,13 @@ Link to an amendment published at 86 FR 3681, Jan. 14, 2021.
 
 (2) *Written solicitations* (see 2.101). For acquisitions not exceeding the simplified acquisition threshold, limit written records of solicitations or offers to notes or abstracts to show prices, delivery, references to printed price lists used, the supplier or suppliers contacted, and other pertinent data.
 
-(3) *Special situations.* Include additional statements -
+(3) *Special situations.* Include additional statements, when applicable—
 
-(i) Explaining the absence of competition (see 13.106-1 for brand name purchases) if only one source is solicited and the acquisition does not exceed the simplified acquisition threshold (does not apply to an acquisition of utility services available from only one source); or
+(i) Explaining the absence of competition (see 13.106-1 for brand name purchases) if only one source is solicited and the acquisition does not exceed the simplified acquisition threshold (does not apply to an acquisition of utility services available from only one source);
 
-(ii) Supporting the award decision if other than price-related factors were considered in selecting the supplier.
+(ii) Supporting the award decision if other than price-related factors were considered in selecting the supplier; and
+
+(iii) Except for DoD, when using lowest price technically acceptable source selection process, justifying the use of such process.
 
 (c) *Notification.* For acquisitions that do not exceed the simplified acquisition threshold and for which automatic notification is not provided through an electronic commerce method that employs widespread electronic public notice, notification to unsuccessful suppliers shall be given only if requested or required by 5.301.
 
@@ -42,4 +42,4 @@ Link to an amendment published at 86 FR 3681, Jan. 14, 2021.
 
 (e) *Taxpayer Identification Number.* If an oral solicitation is used, the contracting officer shall ensure that the copy of the award document sent to the payment office is annotated with the contractor's Taxpayer Identification Number (TIN) and type of organization (see 4.203), unless this information will be obtained from some other source (e.g., centralized database). The contracting officer shall disclose to the contractor that the TIN may be used by the Government to collect and report on any delinquent amounts arising out of the contractor's relationship with the Government (31 U.S.C. 7701(c)(3)).
 
-[62 FR 64917, Dec. 9, 1997, as amended at 63 FR 58589, 58593, Oct. 30, 1998; 64 FR 51836, Sept. 24, 1999; 71 FR 57360, Sept. 28, 2006; 72 FR 63076, Nov. 7, 2007]
+[62 FR 64917, Dec. 9, 1997, as amended at 63 FR 58589, 58593, Oct. 30, 1998; 64 FR 51836, Sept. 24, 1999; 71 FR 57360, Sept. 28, 2006; 72 FR 63076, Nov. 7, 2007; 86 FR 3681, Jan. 14, 2021]

@@ -1,7 +1,5 @@
 ##### § 292.309 Termination of obligation to purchase from qualifying facilities. #####
 
-Link to an amendment published at 85 FR 86725, Dec. 30, 2020.
-
 (a) After August 8, 2005, an electric utility shall not be required, under this part, to enter into a new contract or obligation to purchase electric energy from a qualifying cogeneration facility or a qualifying small power production facility if the Commission finds that the qualifying cogeneration facility or qualifying small power facility production has nondiscriminatory access to:
 
 (1)(i) Independently administered, auction-based day ahead and real time wholesale markets for the sale of electric energy; and
@@ -38,21 +36,53 @@ Link to an amendment published at 85 FR 86725, Dec. 30, 2020.
 
 (2) For purposes of paragraphs (a)(1), (2), and (3) of this section, there is a rebuttable presumption that a qualifying small power production facility with a capacity at or below 5 megawatts does not have nondiscriminatory access to the market.
 
-(3) Nothing in paragraphs (d)(1) through (3) of this section affects the rights the rights or remedies of any party under any contract or obligation, in effect or pending approval before the appropriate State regulatory authority or non-regulated electric utility on or before December 31, 2020, to purchase electric energy or capacity from or to sell electric energy or capacity to a small power production facility between 5 megawatts and 20 megawatts under this Act (including the right to recover costs of purchasing electric energy or capacity).
+(3) Nothing in paragraphs (d)(1) through (3) affects the rights the rights or remedies of any party under any contract or obligation, in effect or pending approval before the appropriate State regulatory authority or non-regulated electric utility on or before February 16, 2021, to purchase electric energy or capacity from or to sell electric energy or capacity to a small power production facility between 5 megawatts and 20 megawatts under this Act (including the right to recover costs of purchasing electric energy or capacity).
 
 (4) For purposes of implementing paragraphs (d)(1) and (2) of this section, the Commission will not be bound by the standards set forth in § 292.204(a)(2).
 
-(e) Midcontinent Independent System Operator, Inc. (MISO), PJM Interconnection, L.L.C. (PJM), ISO New England Inc. (ISO-NE), and New York Independent System Operator, Inc. (NYISO) qualify as markets described in paragraphs (a)(1)(i) and (ii) of this section, and there is a rebuttable presumption that small power production facilities with a capacity greater than 5 megawatts and cogeneration facilities with a capacity greater than 20 megawatts have nondiscriminatory access to those markets through Commission-approved open access transmission tariffs and interconnection rules, and that electric utilities that are members of such regional transmission organizations or independent system operators (RTO/ISOs) should be relieved of the obligation to purchase electric energy from the qualifying facilities. A qualifying facility may seek to rebut this presumption by demonstrating, *inter alia,* that:
+(e) Midcontinent Independent System Operator, Inc. (MISO), PJM Interconnection, L.L.C. (PJM), ISO New England Inc. (ISO-NE), and New York Independent System Operator, Inc. (NYISO) qualify as markets described in paragraphs (a)(1)(i) and (ii) of this section, and there is a rebuttable presumption that small power production facilities with a capacity greater than 5 megawatts and cogeneration facilities with a capacity greater than 20 megawatts have nondiscriminatory access to those markets through Commission-approved open access transmission tariffs and interconnection rules, and that electric utilities that are members of such regional transmission organizations or independent system operators should be relieved of the obligation to purchase electric energy from the qualifying facilities.
 
-(1) The qualifying facility has certain operational characteristics that effectively prevent the qualifying facility's participation in a market; or
+(1) A qualifying facility above 20 MW may seek to rebut this presumption by demonstrating, *inter alia,* that:
 
-(2) The qualifying facility lacks access to markets due to transmission constraints. The qualifying facility may show that it is located in an area where persistent transmission constraints in effect cause the qualifying facility not to have access to markets outside a persistently congested area to sell the qualifying facility output or capacity.
+(i) The qualifying facility has certain operational characteristics that effectively prevent the qualifying facility's participation in a market; or
 
-(f) The Electric Reliability Council of Texas (ERCOT) qualifies as a market described in paragraph (a)(3) of this section, and there is a rebuttable presumption that small power production facilities with a capacity greater than five megawatts and cogeneration facilities with a capacity greater than 20 megawatts have nondiscriminatory access to that market through Public Utility Commission of Texas (PUCT) approved open access protocols, and that electric utilities that operate within ERCOT should be relieved of the obligation to purchase electric energy from the qualifying facilities. A qualifying facility may seek to rebut this presumption by demonstrating, *inter alia,* that:
+(ii) The qualifying facility lacks access to markets due to transmission constraints. The qualifying facility may show that it is located in an area where persistent transmission constraints in effect cause the qualifying facility not to have access to markets outside a persistently congested area to sell the qualifying facility output or capacity.
 
-(1) The qualifying facility has certain operational characteristics that effectively prevent the qualifying facility's participation in a market; or
+(2) A small power producer qualifying facility between 5 megawatts and 20 megawatts may show it does not have access to the market in light of consideration of other factors, including, but not limited to:
 
-(2) The qualifying facility lacks access to markets due to transmission constraints. The qualifying facility may show that it is located in an area where persistent transmission constraints in effect cause the qualifying facility not to have access to markets outside a persistently congested area to sell the qualifying facility output or capacity.
+(i) Specific barriers to connecting to the interstate transmission grid, such as excessively high costs and pancaked delivery rates;
+
+(ii) Unique circumstances impacting the time or length of interconnection studies or queues to process the small power production facility's interconnection request;
+
+(iii) A lack of affiliation with entities that participate in the markets in section § 292.309(a)(1), (2), and (3);
+
+(iv) The qualifying small power production facility has a predominant purpose other than selling electricity and should be treated similarly to qualifying cogeneration facilities;
+
+(v) The qualifying small power production facility has certain operational characteristics that effectively prevent the qualifying facility's participation in a market; or
+
+(vi) The qualifying small power production facility lacks access to markets due to transmission constraints. The qualifying small power production facility may show that it is located in an area where persistent transmission constraints in effect cause the qualifying facility not to have access to markets outside a persistently congested area to sell the qualifying facility output or capacity.
+
+(f) The Electric Reliability Council of Texas (ERCOT) qualifies as a market described in paragraph (a)(3) of this section, and there is a rebuttable presumption that small power production facilities with a capacity greater than five megawatts and cogeneration facilities with a capacity greater than 20 megawatts have nondiscriminatory access to that market through Public Utility Commission of Texas (PUCT) approved open access protocols, and that electric utilities that operate within ERCOT should be relieved of the obligation to purchase electric energy from the qualifying facilities.
+
+(1) A qualifying facility above 20 MW may seek to rebut this presumption by demonstrating, *inter alia,* that:
+
+(i) The qualifying facility has certain operational characteristics that effectively prevent the qualifying facility's participation in a market; or
+
+(ii) The qualifying facility lacks access to markets due to transmission constraints. The qualifying facility may show that it is located in an area where persistent transmission constraints in effect cause the qualifying facility not to have access to markets outside a persistently congested area to sell the qualifying facility output or capacity.
+
+(2) A small power producer qualifying facility between 5 megawatts and 20 megawatts may show it does not have access to the market in light of consideration of other factors, including, but not limited to:
+
+(i) Specific barriers to connecting to the interstate transmission grid, such as excessively high costs and pancaked delivery rates;
+
+(ii) Unique circumstances impacting the time or length of interconnection studies or queues to process the small power production facility's interconnection request;
+
+(iii) A lack of affiliation with entities that participate in the markets in section § 292.309(a)(1), (2), and (3);
+
+(iv) The qualifying small power production facility has a predominant purpose other than selling electricity and should be treated similarly to qualifying cogeneration facilities;
+
+(v) The qualifying small power production facility has certain operational characteristics that effectively prevent the qualifying facility's participation in a market; or
+
+(vi) The qualifying small power production facility lacks access to markets due to transmission constraints. The qualifying small power production facility may show that it is located in an area where persistent transmission constraints in effect cause the qualifying facility not to have access to markets outside a persistently congested area to sell the qualifying facility output or capacity.
 
 (g) The California Independent System Operator and Southwest Power Pool, Inc. satisfy the criteria of § 292.309(a)(2)(i).
 
@@ -66,4 +96,4 @@ Link to an amendment published at 85 FR 86725, Dec. 30, 2020.
 
 (j) For purposes of § 292.309(h), a “new qualifying cogeneration facility” is a facility that satisfies the criteria for qualifying cogeneration facilities pursuant to § 292.205.
 
-[Order 688, 71 FR 64372, Nov. 1, 2006; 71 FR 75662, Dec. 18, 2006; Order 872, 85 FR 54735, Sept. 2, 2020]
+[Order 688, 71 FR 64372, Nov. 1, 2006; 71 FR 75662, Dec. 18, 2006; Order 872, 85 FR 54735, Sept. 2, 2020; 85 FR 86725, Dec. 30, 2020]

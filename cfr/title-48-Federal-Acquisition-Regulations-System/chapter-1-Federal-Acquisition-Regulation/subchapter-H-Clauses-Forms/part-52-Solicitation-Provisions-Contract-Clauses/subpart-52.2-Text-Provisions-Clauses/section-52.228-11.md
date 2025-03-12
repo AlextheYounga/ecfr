@@ -1,27 +1,31 @@
-##### 52.228-11 Pledges of Assets. #####
+##### 52.228-11 Individual Surety—Pledge of Assets. #####
 
-Link to an amendment published at 86 FR 3686, Jan. 14, 2021.
+As prescribed in 28.203-4(b), insert the following clause:
 
-As prescribed in 28.203-6, insert the following clause:
+Individual Surety—Pledge of Assets (FEB 2021)
 
-Pledges of Assets (AUG 2018)
+(a) The Contractor shall obtain from each person acting as an individual surety on a performance bond or a payment bond—
 
-(a) Offerors shall obtain from each person acting as an individual surety on a bid guarantee, a performance bond, or a payment bond -
-
-(1) Pledge of assets; and
+(1) A pledge of assets that meets the eligibility, valuation, and security requirements described in the Federal Acquisition Regulation (FAR) 28.203-1; and
 
 (2) Standard Form 28, Affidavit of Individual Surety.
 
-(b) Pledges of assets from each person acting as an individual surety shall be in the form of -
+(b) The Contracting Officer may release a portion of the security interest on the individual surety's assets based upon substantial performance of the Contractor's obligations under its performance bond. The security interest in support of a performance bond shall be maintained—
 
-(1) Evidence of an escrow account containing cash, certificates of deposit, commercial or Government securities, or other assets described in FAR 28.203-2 (except see 28.203-2(b)(2) with respect to Government securities held in book entry form); and/or
+(1) *Contracts for the construction, alteration, or repair of any public building or public work of the Federal Government exceeding $150,000 (40 U.S.C. 3131).* Until completion of any warranty period, or for 1 year following final payment, whichever is later.
 
-(2) A recorded lien on real estate. The offeror will be required to provide -
+(2) *Contracts subject to alternative payment protection (see FAR 28.102-1(b)(1)).* For the full contract performance period plus 1 year.
 
-(i) A mortgagee title insurance policy, in an insurance amount equal to the amount of the lien, or other evidence of title that is consistent with the requirements of Section 2 of the United States Department of Justice Title Standards at *https://www.justice.gov/enrd/page/file/922431/download*. This title evidence must show fee simple title vested in the surety along with any concurrent owners; whether any real estate taxes are due and payable; and any recorded encumbrances against the property, including the lien filed in favor of the Government as required by FAR 28.203-3(d);
+(3) *Other contracts not subject to the requirements of paragraph (b)(1) of this clause.* Until completion of any warranty period, or for 90 days following final payment, whichever is later.
 
-(ii) Evidence of the amount due under any encumbrance shown in the evidence of title;
+(c) A surety's assets pledged in support of a payment bond may be released to a subcontractor or supplier upon Government receipt of a Federal district court judgment, or a sworn statement by the subcontractor or supplier that the claim is correct along with a notarized authorization of the release by the surety stating that it approves of such release. The security interest on the individual surety's assets in support of a payment bond shall be maintained—
 
-(iii) A copy of the current real estate tax assessment of the property or a current appraisal dated no earlier than 6 months prior to the date of the bond, prepared by a professional appraiser who certifies that the appraisal has been conducted in accordance with the generally accepted appraisal standards as reflected in the Uniform Standards of Professional Appraisal Practice, as promulgated by the Appraisal Foundation.
+(1) *Contracts for the construction, alteration, or repair of any public building or public work of the Federal Government exceeding $150,000 which require performance and payment bonds (40 U.S.C. 3131).* For 1 year following final payment, or until resolution of all pending claims filed against the payment bond during the 1-year period following final payment, whichever is later.
 
-(End of clause)[54 FR 48995, Nov. 28, 1989, as amended at 56 FR 67137, Dec. 27, 1991; 74 FR 40467, Aug. 11, 2009; 77 FR 205, Jan. 3, 2012; 83 FR 42576, Aug. 22, 2018]
+(2) *Contracts subject to alternative payment protection (see FAR 28.102-1(b)(1)).* For the full contract performance period plus 1 year.
+
+(3) *Other contracts not subject to the requirements of paragraph (c)(1) of this clause.* For 90 days following final payment.
+
+(d) The Contracting Officer may allow the Contractor to substitute an individual surety, for a performance or payment bond, after contract award. The Contractor shall comply with the requirements of paragraph (a) of this clause within the timeframe established by the Contracting Officer.
+
+(End of clause)[86 FR 3686, Jan. 14, 2021]

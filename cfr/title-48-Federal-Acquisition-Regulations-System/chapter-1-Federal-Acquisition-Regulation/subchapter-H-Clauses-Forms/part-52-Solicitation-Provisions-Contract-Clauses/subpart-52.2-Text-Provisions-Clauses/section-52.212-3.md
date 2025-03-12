@@ -1,10 +1,8 @@
 ##### 52.212-3 Offeror Representations and Certifications - Commercial Items. #####
 
-Link to an amendment published at 86 FR 3687, Jan. 14, 2021.
-
 As prescribed in 12.301(b)(2), insert the following provision:
 
-Offeror Representations and Certifications - Commercial Items (JAN 2021)
+Offeror Representations and Certifications - Commercial Items (FEB 2021)
 
 The Offeror shall complete only paragraph (b) of this provision if the Offeror has completed the annual representations and certification electronically in the System for Award Management (SAM) accessed through *https://www.sam.gov.* If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (v)) of this provision.
 
@@ -200,9 +198,13 @@ Complete paragraphs (c)(8) and (9) only if this solicitation is expected to exce
 
 (2) Foreign End Products:
 
-Line Item No.:Country of Origin:
+|Line item No.|Country of origin|
+|-------------|-----------------|
+|             |                 |
+|             |                 |
+|             |                 |
 
-(List as necessary)
+[List as necessary]
 
 (3) The Government will evaluate offers in accordance with the policies and procedures of FAR Part 25.
 
@@ -216,18 +218,25 @@ Line Item No.:Country of Origin:
 
 Free Trade Agreement Country End Products (Other than Bahrainian, Moroccan, Omani, Panamanian, or Peruvian End Products) or Israeli End Products:
 
-|   Line Item No.   |   |Country of Origin|
-|-------------------|---|-----------------|
-|                   |   |                 |
-|                   |   |                 |
-|                   |   |                 |
-|[List as necessary]|   |                 |
+|Line item No.|Country of origin|
+|-------------|-----------------|
+|             |                 |
+|             |                 |
+|             |                 |
+
+[List as necessary]
 
 (iii) The Offeror shall list those supplies that are foreign end products (other than those listed in paragraph (g)(1)(ii) of this provision) as defined in the clause of this solicitation entitled “Buy American - Free Trade Agreements - Israeli Trade Act.” The Offeror shall list as other foreign end products those end products manufactured in the United States that do not qualify as domestic end products.
 
-Other Foreign End ProductsLine Item No.:Country of Origin:
+Other Foreign End Products:
 
-(List as necessary)
+|Line item No.|Country of origin|
+|-------------|-----------------|
+|             |                 |
+|             |                 |
+|             |                 |
+
+[List as necessary]
 
 (iv) The Government will evaluate offers in accordance with the policies and procedures of FAR Part 25.
 
@@ -235,17 +244,29 @@ Other Foreign End ProductsLine Item No.:Country of Origin:
 
 (g)(1)(ii) The offeror certifies that the following supplies are Canadian end products as defined in the clause of this solicitation entitled “Buy American - Free Trade Agreements - Israeli Trade Act”:
 
-Canadian End Products:Line Item No.
+Canadian End Products:
 
-(*List as necessary*)
+|Line item No.|
+|-------------|
+|             |
+|             |
+|             |
+
+[List as necessary]
 
 (3) *Buy American - Free Trade Agreements - Israeli Trade Act Certificate, Alternate II.* If *Alternate II* to the clause at FAR 52.225-3 is included in this solicitation, substitute the following paragraph (g)(1)(ii) for paragraph (g)(1)(ii) of the basic provision:
 
 (g)(1)(ii) The offeror certifies that the following supplies are Canadian end products or Israeli end products as defined in the clause of this solicitation entitled “Buy American - Free Trade Agreements - Israeli Trade Act”:
 
-Canadian or Israeli End Products:Line Item No.Country of Origin
+Canadian or Israeli End Products:
 
-(*List as necessary*)
+|Line item No.|Country of origin|
+|-------------|-----------------|
+|             |                 |
+|             |                 |
+|             |                 |
+
+[List as necessary]
 
 (g)(4) *Buy American - Free Trade Agreements - Israeli Trade Act Certificate, Alternate III.* If Alternate III to the clause at FAR 52.225-3 is included in this solicitation, substitute the following paragraph (g)(1)(ii) for paragraph (g)(1)(ii) of the basic provision:
 
@@ -253,12 +274,13 @@ Canadian or Israeli End Products:Line Item No.Country of Origin
 
 Free Trade Agreement Country End Products (Other than Bahrainian, Korean, Moroccan, Omani, Panamanian, or Peruvian End Products) or Israeli End Products:
 
-|   Line Item No.   |   |Country of Origin|
-|-------------------|---|-----------------|
-|                   |   |                 |
-|                   |   |                 |
-|                   |   |                 |
-|[List as necessary]|   |                 |
+|Line item No.|Country of origin|
+|-------------|-----------------|
+|             |                 |
+|             |                 |
+|             |                 |
+
+[List as necessary]
 
 (5) *Trade Agreements Certificate.* (Applies only if the clause at FAR 52.225-5, Trade Agreements, is included in this solicitation.)
 
@@ -266,14 +288,13 @@ Free Trade Agreement Country End Products (Other than Bahrainian, Korean, Morocc
 
 (ii) The offeror shall list as other end products those end products that are not U.S.-made or designated country end products.
 
-Other End Products:
+|Line item No.|Country of origin|
+|-------------|-----------------|
+|             |                 |
+|             |                 |
+|             |                 |
 
-|   Line Item No.   |   |Country of Origin|
-|-------------------|---|-----------------|
-|                   |   |                 |
-|                   |   |                 |
-|                   |   |                 |
-|[List as necessary]|   |                 |
+[List as necessary]
 
 (iii) The Government will evaluate offers in accordance with the policies and procedures of FAR Part 25. For line items covered by the WTO GPA, the Government will evaluate offers of U.S.-made or designated country end products without regard to the restrictions of the Buy American statute. The Government will consider for award only offers of U.S.-made or designated country end products unless the Contracting Officer determines that there are no offers for such products or that the offers for such products are insufficient to fulfill the requirements of the solicitation.
 
@@ -305,7 +326,11 @@ Other End Products:
 
 (1) *Listed end products.*
 
-Listed End ProductListed Countries of Origin
+|Listed end product|Listed countries of  <br/>origin|
+|------------------|--------------------------------|
+|                  |                                |
+|                  |                                |
+|                  |                                |
 
 (2) *Certification.* [*If the Contracting Officer has identified end products and countries of origin in paragraph (i)(1) of this provision, then the offeror must certify to either (i)(2)(i) or (i)(2)(ii) by checking the appropriate block.*]
 

@@ -1,7 +1,5 @@
 ##### 53.300 Listing of Standard, Optional, and Agency forms. #####
 
-Link to an amendment published at 86 FR 3687, Jan. 14, 2021.
-
 This subpart identifies, in numerical sequence, Standard Forms (SF), Optional Forms (OF) and agency forms that are specified by the FAR for use in acquisitions.
 
 (a) You can access the forms in Table 53-1 at the GSA Forms Library at *https://www.gsa.gov/forms.*
@@ -71,7 +69,6 @@ Table 53-1 - Forms in the GSA Forms Library
 |SF 1447 |                              Solicitation/Contract.                               |
 |SF 1449 |                 Solicitation/Contract/Order for Commercial Items.                 |
 | OF 17  |                                   Offer Label.                                    |
-| OF 90  |                         Release of Lien on Real Property.                         |
 | OF 91  |                     Release of Personal Property From Escrow.                     |
 | OF 307 |                                  Contract Award.                                  |
 | OF 308 |                  Solicitation and Offer-Negotiated Acquisition.                   |
@@ -91,4 +88,4 @@ Table 53-2 - Other Forms
 |Form DD 441|              Department of Defense Security Agreement              |https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0441\_2020.pdf|
 |Form WH-347|                  Payroll-U.S. Department of Labor                  |                https://www.dol.gov/whd/forms/wh347.pdf.                 |
 
-[83 FR 42577, Aug. 22, 2018, as amended at 85 FR 40064, July 2, 2020]
+[83 FR 42577, Aug. 22, 2018, as amended at 85 FR 40064, July 2, 2020; 86 FR 3687, Jan. 14, 2021]

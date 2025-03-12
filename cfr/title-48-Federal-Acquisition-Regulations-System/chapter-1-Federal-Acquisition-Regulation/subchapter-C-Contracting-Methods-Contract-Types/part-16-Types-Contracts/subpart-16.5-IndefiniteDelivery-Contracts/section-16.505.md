@@ -1,7 +1,5 @@
 ##### 16.505 Ordering. #####
 
-Link to an amendment published at 86 FR 3682, Jan. 14, 2021.
-
 (a) *General.* (1) In general, the contracting officer does not synopsize orders under indefinite-delivery contracts; except see 16.505(a)(4) and (11), and 16.505(b)(2)(ii)(D).
 
 (2) Individual orders shall clearly describe all services to be performed or supplies to be delivered so the full cost or price for the performance of the work can be established when the order is placed. Orders shall be within the scope, issued within the period of performance, and be within the maximum value of the contract.
@@ -90,7 +88,7 @@ Link to an amendment published at 86 FR 3682, Jan. 14, 2021.
 
 (B) Orders issued under 19.504(c)(1)(ii).
 
-(ii) The contracting officer may exercise broad discretion in developing appropriate order placement procedures. The contracting officer should keep submission requirements to a minimum. Contracting officers may use streamlined procedures, including oral presentations. If the order does not exceed the simplified acquisition threshold, the contracting officer need not contact each of the multiple awardees under the contract before selecting an order awardee if the contracting officer has information available to ensure that each awardee is provided a fair opportunity to be considered for each order. The competition requirements in part 6 and the policies in subpart 15.3 do not apply to the ordering process. However, the contracting officer must -
+(ii) The contracting officer may exercise broad discretion in developing appropriate order placement procedures. The contracting officer should keep submission requirements to a minimum. Contracting officers may use streamlined procedures, including oral presentations. If the order does not exceed the simplified acquisition threshold, the contracting officer need not contact each of the multiple awardees under the contract before selecting an order awardee if the contracting officer has information available to ensure that each awardee is provided a fair opportunity to be considered for each order. The competition requirements in part 6 and the policies in subpart 15.3 do not apply to the ordering process. However, the contracting officer shall -
 
 (A) Develop placement procedures that will provide each awardee a fair opportunity to be considered for each order and that reflect the requirement and other aspects of the contracting environment;
 
@@ -98,9 +96,13 @@ Link to an amendment published at 86 FR 3682, Jan. 14, 2021.
 
 (C) Tailor the procedures to each acquisition;
 
-(D) Include the procedures in the solicitation and the contract; and
+(D) Include the procedures in the solicitation and the contract;
 
-(E) Consider price or cost under each order as one of the factors in the selection decision.
+(E) Consider price or cost under each order as one of the factors in the selection decision;
+
+(F) Except for DoD, ensure the criteria at 15.101-2(c)(1)-(5) are met when using the lowest price technically acceptable source selection process; and
+
+(G) Except for DoD, avoid using the lowest price technically acceptable source selection process to acquire certain supplies and services in accordance with 15.101-2(d).
 
 (iii) *Orders exceeding the simplified acquisition threshold.* (A) Each order exceeding the simplified acquisition threshold shall be placed on a competitive basis in accordance with paragraph (b)(1)(iii)(B) of this section, unless supported by a written determination that one of the circumstances described at 16.505(b)(2)(i) applies to the order and the requirement is waived on the basis of a justification that is prepared in accordance with 16.505(b)(2)(ii)(B);
 
@@ -241,6 +243,8 @@ Link to an amendment published at 86 FR 3682, Jan. 14, 2021.
 (7) *Decision documentation for orders.* (i) The contracting officer shall document in the contract file the rationale for placement and price of each order, including the basis for award and the rationale for any tradeoffs among cost or price and non-cost considerations in making the award decision. This documentation need not quantify the tradeoffs that led to the decision.
 
 (ii) The contract file shall also identify the basis for using an exception to the fair opportunity process (*see* paragraph (b)(2) of this section).
+
+(iii) Except for DoD, the contracting officer shall document in the contract file a justification for use of the lowest price technically acceptable source selection process, when applicable.
 
 (8) *Task-order and delivery-order ombudsman.* The head of the agency shall designate a task-order and delivery-order ombudsman. The ombudsman must review complaints from contractors and ensure they are afforded a fair opportunity to be considered, consistent with the procedures in the contract. The ombudsman must be a senior agency official who is independent of the contracting officer and may be the agency's advocate for competition.
 

@@ -1,6 +1,6 @@
 ##### § 200.21a The Ethics Counsel. #####
 
-(a) The Ethics Counsel is responsible for administering the Commission's Ethics Program and for interpreting subpart M of this part and 5 CFR part 2635. He or she serves as Counselor to the Commission and its staff with regard to ethical and conflicts of interest questions and acts as the Commission's liaison on such matters with the Office of Human Resources, the Office of Government Ethics, the Office of the Inspector General and the Department of Justice. When appropriate and subject to the authority of, and in consultation with, the Inspector General, the Ethics Counsel shall inquire into alleged violations of subparts C, F, and M of this part, and 5 CFR part 2635.
+(a) The Ethics Counsel is responsible for administering the Commission's Ethics Program and for interpreting subpart M of this part and 5 CFR part 2635. The Ethics Counsel serves as Counselor to the Commission and its staff with regard to ethical and conflicts of interest questions and acts as the Commission's liaison on such matters with the Office of Human Resources, the Office of Government Ethics, the Office of the Inspector General, and the Department of Justice. When appropriate and subject to the authority of, and in consultation with, the Inspector General, the Ethics Counsel shall inquire into alleged violations of subparts C, F, and M of this part, and 5 CFR part 2635.
 
 (b) The Ethics Counsel shall:
 
@@ -18,4 +18,4 @@
 
 (7) Draft rules and regulations as necessary to implement the Commission's Ethics Program.
 
-[60 FR 14626, Mar. 20, 1995, as amended at 73 FR 32224, June 5, 2008; 76 FR 71449, Nov. 18, 2011; 79 FR 1735, Jan. 10, 2014]
+[60 FR 14626, Mar. 20, 1995, as amended at 73 FR 32224, June 5, 2008; 76 FR 71449, Nov. 18, 2011; 79 FR 1735, Jan. 10, 2014; 86 FR 9443, Feb. 16, 2021]

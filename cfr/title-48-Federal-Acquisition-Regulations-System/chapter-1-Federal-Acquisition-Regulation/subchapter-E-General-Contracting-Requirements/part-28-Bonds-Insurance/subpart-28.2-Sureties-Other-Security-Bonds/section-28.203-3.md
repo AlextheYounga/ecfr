@@ -1,31 +1,21 @@
-##### 28.203-3 Acceptance of real property. #####
+##### 28.203-3 Release of security interest. #####
 
-(a) Whenever a bond with a security interest in real property is submitted, the individual surety shall provide -
+(a) After consultation with legal counsel, the contracting officer shall release the security interest on the individual surety's assets using the Optional Form 91, Release of Personal Property from Escrow, or a similar release as soon as possible consistent with the conditions in subparagraphs (a)(1) and (2) of this section. A surety's assets pledged in support of a payment bond may be released to a subcontractor or supplier upon Government receipt of a Federal district court judgment, or a sworn statement by the subcontractor or supplier that the claim is correct along with a notarized authorization of the release by the surety stating that it approves of such release.
 
-(1) A mortgagee title insurance policy, in an insurance amount equal to the amount of the lien, or other evidence of title that is consistent with the requirements of Section 2 of the United States Department of Justice Title Standards at *https://www.justice.gov/enrd/page/file/922431/download.* This title evidence must show fee simple title vested in the surety along with any concurrent owners; whether any real estate taxes are due and payable; and any recorded encumbrances against the property, including the lien filed in favor of the Government under paragraph (d) of this subsection. Agency contracting officers should request the assistance of their designated agency legal counsel in determining if the title evidence is consistent with the Department of Justice standards;
+(1) *Contracts subject to the Bonds statute.* See section 1.110 and section 28.102-1, paragraph (a). The security interest shall be maintained for the later of—
 
-(2) Evidence of the amount due under any encumbrance shown in the evidence of title;
+(i) 1 year following final payment;
 
-(3) A copy of the current real estate tax assessment of the property or a current appraisal dated no earlier than 6 months prior to the date of the bond, prepared by a professional appraiser who certifies that the appraisal has been conducted in accordance with the generally accepted appraisal standards as reflected in the Uniform Standards of Professional Appraisal Practice as promulgated by the Appraisal Foundation, 1029 Vermont Avenue NW., Washington, DC 20005.
+(ii) Until completion of any warranty period (applicable only to performance bonds); or
 
-(b) Failure to provide evidence that the lien has been properly recorded will render the offeror nonresponsible.
+(iii) Pending resolution of all claims filed against the payment bond during the 1 year period following final payment.
 
-(c) The individual surety is liable for the payment of all administrative costs of the Government, including legal fees, associated with the liquidation of pledged real estate.
+(2) *Contracts subject to alternative payment protection.* See section 28.102-1, paragraph (b)(1). The security interest shall be maintained for the full contract performance period plus 1 year.
 
-(d) The following format, or any document substantially the same, shall be signed by all owners of the property and used by the surety and recorded in the local recorder's office when a surety pledges real estate on Standard Form 28, Affidavit of Individual Surety.
+(3) *Other contracts not subject to the Bonds statute.* The security interest shall be maintained for 90 days following final payment or until completion of any warranty period (applicable only to performance bonds), whichever is later.
 
-Lien on Real Estate
+(b) Upon written request by the individual surety, the contracting officer may release the security interest on the individual surety's assets in support of a bid guarantee based upon evidence that the offer supported by the individual surety will not result in contract award.
 
-I/we agree that this instrument constitutes a lien in the amount of $\_\_\_\_ on the property described in this lien. The rights of the United States Government shall take precedence over any subsequent lien or encumbrance until the lien is formally released by a duly authorized representative of the United States. I/we hereby grant the United States the power of sale of subject property, including the right to satisfy its reasonable administrative costs, including legal fees associated with any sale of subject property, in the event of contractor default if I/we otherwise fail to satisfy the underlying ( ) bid guarantee, ( ) performance bond, ( ) or payment bond obligations as an individual surety on solicitation/contract number \_\_\_\_. The lien is upon the real estate now owned by me/us described as follows: (legal description, street address and other identifying description)
+(c) Upon written request by the individual surety, the contracting officer may release a portion of the security interest on the individual surety's assets based upon substantial performance of the contractor's obligations under its performance bond. Release of the security interest in support of a payment bond must comply with the subparagraphs (a)(1) through (3) of this section. In making this determination, the contracting officer will give consideration as to whether the unreleased portion of the security is sufficient to cover the remaining contract obligations, including payments to subcontractors and other potential liabilities. The individual surety shall, as a condition of the partial release, furnish an affidavit agreeing that the release of such assets does not relieve the individual surety of its obligations under the bond(s).
 
-IN WITNESS HEREOF, I/we have hereunto affixed my/our hand(s) and seal(s) this \_\_ DAY OF \_\_\_\_\_\_\_\_\_\_\_ 20\_\_.
-
-WITNESS:(SEAL)
-
-I, \_\_\_, a Notary Public in and for the (CITY) \_\_\_, (STATE) \_\_\_, do hereby certify that \_\_\_, a party or parties to a certain Agreement bearing the date \_\_\_ day of \_\_\_\_\_\_ 20\_, and hereunto annexed, personally appeared before me, the said \_\_\_ being personally well known to me as the person(s) who executed said lien, and acknowledged the same to be his/her/their act and deed. GIVEN under my hand and seal this \_\_\_ day of \_\_\_\_\_ 20\_\_.
-
-NOTARY PUBLIC, STATE
-
-My Commission expires:
-
-[54 FR 48987, Nov. 28, 1989, as amended at 70 FR 11763, Mar. 9, 2005; 74 FR 40467, Aug. 11, 2009; 77 FR 204, Jan. 3, 2012; 83 FR 42573, Aug. 22, 2018]
+[86 FR 3685, Jan. 14, 2021]

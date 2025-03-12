@@ -1,7 +1,5 @@
 ##### 32.202-4 Security for Government financing. #####
 
-Link to an amendment published at 86 FR 3686, Jan. 14, 2021.
-
 (a) *Policy.* (1) 10 U.S.C. 2307(f) and 41 U.S.C. 4505 require the Government to obtain adequate security for Government financing. The contracting officer shall specify in the solicitation the type of security the Government will accept. If the Government is willing to accept more than one form of security, the offeror shall be required to specify the form of security it will provide. If acceptable to the contracting officer, the resulting contract shall specify the security (see 32.206(b)(1)(iv)).
 
 (2) Subject to agency regulations, the contracting officer may determine the offeror's financial condition to be adequate security, provided the offeror agrees to provide additional security should that financial condition become inadequate as security (see paragraph (c) of the clause at 52.232-29, Terms for Financing of Purchases of Commercial Items). Assessment of the contractor's financial condition shall consider both net worth and liquidity. If the contracting officer finds the offeror's financial condition is not adequate security, the contracting officer shall require other adequate security. Paragraphs (b), (c), and (d) of this subsection list other (but not all) forms of security that the contracting officer may find acceptable.
@@ -14,7 +12,7 @@ Link to an amendment published at 86 FR 3686, Jan. 14, 2021.
 
 (3) Provision of Government financing shall be conditioned upon a contractor certification that the assets subject to the lien are free from any prior encumbrances. Prior liens may result from such things as capital equipment loans, installment purchases, working capital loans, various lines of credit, and revolving credit arrangements.
 
-(c) *Other assets as security.* Contracting officers may consider the guidance at 28.203-2, 28.203-3, and 28.204 in determining which types of assets may be acceptable as security. For the purpose of applying the guidance in part 28 to this subsection, the term “surety” and/or “individual surety” should be interpreted to mean “offeror” and/or “contractor.”
+(c) *Other assets as security.* Contracting officers may consider the guidance at 28.203 and 28.204 in determining which types of assets may be acceptable as security. For the purpose of applying the guidance in part 28 to this subsection, the term “surety” and/or “individual surety” should be interpreted to mean “offeror” and/or “contractor.”
 
 (d) *Other forms of security.* Other acceptable forms of security include -
 
@@ -28,4 +26,4 @@ Link to an amendment published at 86 FR 3686, Jan. 14, 2021.
 
 (e) *Management of risk and security.* In establishing contract financing terms, the contracting officer must be aware of certain risks. For example, very high amounts of financing early in the contract (front-end loading) may unduly increase the risk to the Government. The security and the amounts and timing of financing payments must be analyzed as a whole to determine whether the arrangement will be in the best interest of the Government.
 
-[60 FR 49711, Sept. 26, 1995, as amended at 79 FR 24211, Apr. 29, 2014]
+[60 FR 49711, Sept. 26, 1995, as amended at 79 FR 24211, Apr. 29, 2014; 86 FR 3686, Jan. 14, 2021]

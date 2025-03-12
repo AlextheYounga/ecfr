@@ -1,7 +1,5 @@
 ##### § 1206.2 Definitions. #####
 
-Link to an amendment published at 85 FR 82198, Dec. 17, 2020.
-
 As used in this part:
 
 *Act* means the Federal Housing Finance Regulatory Reform Act of 2008.
@@ -22,12 +20,8 @@ As used in this part:
 
 *Surplus funds* means any amounts that are not obligated as of September 30 of the fiscal year for which the assessment was made.
 
-*Total exposure* means the sum, as of the most recent June quarterly minimum capital report of the Enterprise, of the amounts of the following assets and off-balance sheet obligations that are used to calculate the quarterly minimum capital requirement of the Enterprise under 12 CFR part 1750:
-
-(1) On-balance sheet assets;
-
-(2) Guaranteed mortgage-backed securities; and
-
-(3) Other off-balance sheet obligations as determined by the Director.
+*Total exposure* has the same meaning given to adjusted total assets in 12 CFR 1240.2.
 
 *Working capital fund* means an account for amounts collected from the Regulated Entities to establish an operating reserve that is intended to provide for the payment of large or multiyear capital and operating expenditures, as well as unanticipated expenses.
+
+[73 FR 56713, Sept. 30, 2008, as amended at 85 FR 82198, Dec. 17 2020]

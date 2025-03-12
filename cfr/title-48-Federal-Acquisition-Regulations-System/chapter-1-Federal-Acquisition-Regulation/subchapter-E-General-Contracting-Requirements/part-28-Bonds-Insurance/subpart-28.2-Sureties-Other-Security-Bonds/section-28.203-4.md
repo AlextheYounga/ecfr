@@ -1,5 +1,7 @@
-##### 28.203-4 Substitution of assets. #####
+##### 28.203-4 Solicitation provision and contract clause. #####
 
-An individual surety may request the Government to accept a substitute asset for that currently pledged by submitting a written request to the responsible contracting officer. The contracting officer may agree to the substitution of assets upon determining, after consultation with legal counsel, that the substitute assets to be pledged are adequate to protect the outstanding bond or guarantee obiligations. If acceptable, the substitute assets shall be pledged as provided for in subpart 28.2.
+(a) Insert the provision at 52.228-17, Individual Surety—Pledge of Assets (Bid Guarantee), in solicitations that require the submission of a bid guarantee.
 
-[54 FR 48988, Nov. 28, 1989]
+(b) Insert the clause at 52.228-11, Individual Surety—Pledge of Assets, in solicitations and contracts that require the submission of performance or payment bonds.
+
+[86 FR 3685, Jan. 14, 2021]

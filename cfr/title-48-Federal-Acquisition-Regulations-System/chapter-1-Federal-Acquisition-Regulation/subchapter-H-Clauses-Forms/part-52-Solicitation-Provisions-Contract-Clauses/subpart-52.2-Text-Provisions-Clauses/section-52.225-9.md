@@ -1,10 +1,8 @@
 ##### 52.225-9 Buy American - Construction Materials. #####
 
-Link to an amendment published at 86 FR 3689, Jan. 14, 2021.
-
 As prescribed in 25.1102(a), insert the following clause:
 
-Buy American - Construction Materials (JAN 2021)
+Buy American - Construction Materials (FEB 2021)
 
 (a) *Definitions.* As used in this clause -
 
@@ -55,6 +53,8 @@ Buy American - Construction Materials (JAN 2021)
 (b) *Domestic preference.* (1) This clause implements 41 U.S.C. chapter 83, Buy American, by providing a preference for domestic construction material. In accordance with 41 U.S.C. 1907, the domestic content test of the Buy American statute is waived for construction material that is a COTS item, except that for construction material that consists wholly or predominantly of iron or steel or a combination of both, the domestic content test is applied only to the iron and steel content of the construction materials, excluding COTS fasteners. (See FAR 12.505(a)(2)). The Contractor shall use only domestic construction material in performing this contract, except as provided in paragraphs (b)(2) and (b)(3) of this clause.
 
 (2) This requirement does not apply to information technology that is a commercial item or to the construction materials or components listed by the Government as follows:
+
+\_\_\_\_ *[Contracting Officer to list applicable excepted materials or indicate “none”]*
 
 (3) The Contracting Officer may add other foreign construction material to the list in paragraph (b)(2) of this clause if the Government determines that -
 
@@ -111,4 +111,4 @@ Foreign and Domestic Construction Materials Price Comparison
 
 [Include other applicable supporting information.]
 
-(End of clause)[64 FR 72437, Dec. 27, 1999; 65 FR 4633, Jan. 31, 2000; 66 FR 65350, Dec. 18, 2001; 67 FR 21537, Apr. 30, 2002; 68 FR 28086, May 22, 2003; 69 FR 77877, Dec. 28, 2004; 74 FR 2723, Jan. 15, 2009; 75 FR 60267, Sept. 29, 2010; 79 FR 24221, Apr. 29, 2014; 86 FR 6191, Jan. 19, 2021]
+(End of clause)[64 FR 72437, Dec. 27, 1999; 65 FR 4633, Jan. 31, 2000; 66 FR 65350, Dec. 18, 2001; 67 FR 21537, Apr. 30, 2002; 68 FR 28086, May 22, 2003; 69 FR 77877, Dec. 28, 2004; 74 FR 2723, Jan. 15, 2009; 75 FR 60267, Sept. 29, 2010; 79 FR 24221, Apr. 29, 2014; 86 FR 3689, Jan. 14, 2021; 86 FR 6191, Jan. 19, 2021]

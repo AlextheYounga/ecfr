@@ -1,7 +1,5 @@
 ##### § 37.3 Requirements and procedures for registration. #####
 
-Link to an amendment published at 85 FR 82329, Dec. 18, 2020.
-
 (a) *Requirements for registration.* (1) Any person operating a facility that offers a trading system or platform in which more than one market participant has the ability to execute or trade swaps with more than one other market participant on the system or platform shall register the facility as a swap execution facility under this part or as a designated contract market under part 38 of this chapter.
 
 (2) *Minimum trading functionality.* A swap execution facility shall, at a minimum, offer an Order Book as defined in paragraph (a)(3) of this section.
@@ -13,6 +11,8 @@ Link to an amendment published at 85 FR 82329, Dec. 18, 2020.
 (ii) A trading facility, as that term is defined in section 1a(51) of the Act; or
 
 (iii) A trading system or platform in which all market participants in the trading system or platform have the ability to enter multiple bids and offers, observe or receive bids and offers entered by other market participants, and transact on such bids and offers.
+
+(4) A swap execution facility is not required to provide an order book under this section for transactions defined in § 37.9(d)(2), (3), and (4), except that a swap execution facility must provide an order book under this section for Required Transactions that are components of transactions defined in § 37.9(d)(2), (3), and (4) of this part when such Required Transactions are not executed as components of transactions defined in § 37.9(d)(2), (3), and (4).
 
 (b) *Procedures for full registration.* (1) An applicant requesting registration as a swap execution facility shall:
 
@@ -106,4 +106,4 @@ Link to an amendment published at 85 FR 82329, Dec. 18, 2020.
 
 (h) *Delegation of authority.* The Commission hereby delegates, until it orders otherwise, to the Director of the Division of Market Oversight or such other employee or employees as the Director may designate from time to time, upon consultation with the General Counsel or the General Counsel's delegate, authority to notify an applicant seeking registration that its application is incomplete and that it will not be deemed to have been submitted for purposes of the Commission's review, to notify an applicant seeking registration under section 6(a) of the Act that its application is materially incomplete and the running of the 180-day period is stayed, and to notify an applicant seeking temporary registration that its request is granted or denied. The Director may submit to the Commission for its consideration any matter that has been delegated in this paragraph. Nothing in this paragraph prohibits the Commission, at its election, from exercising the authority delegated in this paragraph.
 
-[78 FR 33582, June 4, 2013]
+[78 FR 33582, June 4, 2013, as amended at 85 FR 82329, Dec. 18, 2020]

@@ -1,6 +1,6 @@
 ##### § 303.184 Moving an insured branch of a foreign bank. #####
 
-(a) *Filing procedures* - (1) *Where and when to file.* An application by an insured branch of a foreign bank seeking the FDIC's consent to move from one location to another, as required by section 18(d)(1) of the FDI Act (12 U.S.C. 1828(d)(1)), shall be submitted in writing to the appropriate FDIC office on the date the notice required by paragraph (c) of this section is published, or within 5 days after the date of the last required publication.
+(a) *Filing procedures*—(1) *Where and when to file.* An application by an insured branch of a foreign bank seeking the FDIC's consent to move from one location to another, as required by section 18(d)(1) of the FDI Act (12 U.S.C. 1828(d)(1)), shall be submitted in writing to the appropriate FDIC office on the date the notice required by paragraph (c) of this section is published, or within 5 days after the date of the last required publication.
 
 (2) *Content of filing.* A complete letter application shall include the following information:
 
@@ -8,19 +8,15 @@
 
 (ii) Details concerning any involvement in the proposal by an insider of the applicant, as defined in § 303.2(u), including any financial arrangements relating to fees, the acquisition of property, leasing of property, and construction contracts;
 
-(iii) A statement of the impact of the proposal on the human environment, including information on compliance with local zoning laws and regulations and the effect on traffic patterns, for purposes of complying with the applicable provisions of the NEPA, and the FDIC “Statement of Policy on NEPA” (1 FDIC Law, Regulations, Related Acts 5185; see § 309.4(a) and (b) of this chapter for availability).
+(iii) Comments on any changes in services to be offered, the community to be served, or any other effect the proposal may have on the applicant's compliance with the CRA; and
 
-(iv) A statement as to whether or not the site is eligible for inclusion in the National Register of Historic Places for purposes of complying with the applicable provisions of the NHPA, and the FDIC AStatement of Policy on NHPA” (1 FDIC Law, Regulations, Related Acts 5175; see § 309.4(a) and (b) of this chapter for availability), including documentation of consultation with the State Historic Preservation Officer, as appropriate.
-
-(v) Comments on any changes in services to be offered, the community to be served, or any other effect the proposal may have on the applicant's compliance with the CRA; and
-
-(vi) A copy of the newspaper publication required by paragraph (c) of this section, as well as the name and address of the newspaper and the date of the publication.
+(iv) A copy of the newspaper publication required by paragraph (c) of this section, as well as the name and address of the newspaper and the date of the publication.
 
 (3) *Comptroller's application.* If the applicant is filing an application with the Comptroller which contains the information required by paragraph (a)(2) of this section, the applicant may submit a copy to the FDIC in lieu of a separate application.
 
 (4) *Additional information.* The FDIC may request additional information to complete processing.
 
-(b) Processing - (1) *Expedited processing for eligible insured branches.* An application filed by an eligible insured branch as defined in § 303.181(c) of this part will be acknowledged in writing by the FDIC and will receive expedited processing if the applicant is proposing to move within the same state, unless the applicant is notified to the contrary and provided with the basis for that decision. The FDIC may remove an application from expedited processing for any of the reasons set forth in § 303.11(c)(2) of this part. Absent such removal, an application processed under expedited processing will be deemed approved on the latest of the following:
+(b) Processing—(1) *Expedited processing for eligible insured branches.* An application filed by an eligible insured branch as defined in § 303.181(c) of this part will be acknowledged in writing by the FDIC and will receive expedited processing if the applicant is proposing to move within the same state, unless the applicant is notified to the contrary and provided with the basis for that decision. The FDIC may remove an application from expedited processing for any of the reasons set forth in § 303.11(c)(2) of this part. Absent such removal, an application processed under expedited processing will be deemed approved on the latest of the following:
 
 (i) The 21st day after the FDIC's receipt of a substantially complete application; or
 
@@ -28,7 +24,7 @@
 
 (2) *Standard processing.* For those applications that are not processed pursuant to the expedited procedures, the FDIC will provide the applicant with written notification of the final action as soon as the decision is rendered.
 
-(c) *Publication requirement and comment period* - (1) *Newspaper publications.* The applicant shall publish a notice of its proposal to move from one location to another, as described in § 303.7(b), in a newspaper of general circulation in the community in which the insured branch is located prior to its being moved and in the community to which it is to be moved. The notice shall include the insured branch's current and proposed addresses.
+(c) *Publication requirement and comment period*—(1) *Newspaper publications.* The applicant shall publish a notice of its proposal to move from one location to another, as described in § 303.7(b), in a newspaper of general circulation in the community in which the insured branch is located prior to its being moved and in the community to which it is to be moved. The notice shall include the insured branch's current and proposed addresses.
 
 (2) *Public comments.* All public comments must be received by the appropriate regional director within 15 days after the date of the last newspaper publication required by paragraph (c)(1) of this section, unless the comment period has been extended or reopened in accordance with § 303.9(b)(2).
 
@@ -54,4 +50,4 @@
 
 (ii) Obtain any required regulatory approvals from the appropriate state licensing authority of the state to which the insured branch proposes to relocate before relocating the existing branch operations and surrendering its existing license to the appropriate state licensing authority of the state from which the branch is relocating.
 
-[67 FR 79247, Dec. 27, 2002, as amended at 70 FR 17559, Apr. 6, 2005; 78 FR 55470, Sept. 10, 2013; 83 FR 17739, Apr. 24, 2018; 85 FR 72555, Nov. 13, 2020]Editorial Note:At 85 FR 72555, Nov. 13, 2020, § 303.184 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.
+[67 FR 79247, Dec. 27, 2002, as amended at 70 FR 17559, Apr. 6, 2005; 78 FR 55470, Sept. 10, 2013; 83 FR 17739, Apr. 24, 2018; 85 FR 72555, Nov. 13, 2020; 86 FR 9433, Feb. 16, 2021]

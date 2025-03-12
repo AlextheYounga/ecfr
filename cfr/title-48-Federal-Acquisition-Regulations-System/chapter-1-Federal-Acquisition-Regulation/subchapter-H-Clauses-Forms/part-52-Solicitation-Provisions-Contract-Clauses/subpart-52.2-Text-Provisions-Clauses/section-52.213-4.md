@@ -1,10 +1,8 @@
 ##### 52.213-4 Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items). #####
 
-Link to an amendment published at 86 FR 3688, Jan. 14, 2021.
-
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JAN 2021)
+Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (FEB 2021)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -45,6 +43,8 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JA
 (vii) 52.233-1, Disputes (MAY 2014).
 
 (viii) 52.244-6, Subcontracts for Commercial Items (NOV 2020)
+
+(ix) 52.253-1, Computer Generated Forms (JAN 1991).
 
 (b) The Contractor shall comply with the following FAR clauses, incorporated by reference, unless the circumstances do not apply:
 

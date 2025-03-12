@@ -1,7 +1,5 @@
 ##### 28.106-1 Bonds and bond related forms. #####
 
-Link to an amendment published at 86 FR 3684, Jan. 14, 2021.
-
 The following Standard Forms (SF's) and Optional Forms (OF's) shall be used, except in foreign countries, when a bid bond, performance or payment bond, or an individual surety is required. The bond forms shall be used as indicated in the instruction portion of each form.
 
 (a) SF 24, Bid Bond (see 28.101).
@@ -32,8 +30,6 @@ The following Standard Forms (SF's) and Optional Forms (OF's) shall be used, exc
 
 (n) SF 1418, Performance Bond for Other Than Construction Contracts (see 28.103-2 and 28.106-3(b)).
 
-(o) OF 90, Release of Lien on Real Property (see 28.203-5).
+(o) OF 91, Release of Personal Property from Escrow (see 28.203-3).
 
-(p) OF 91, Release of Personal Property from Escrow (see 28.203-5).
-
-[48 FR 42286, Sept. 19, 1983, as amended at 54 FR 48986, Nov. 28, 1989; 61 FR 39213, July 26, 1996; 79 FR 24210, Apr. 29, 2014; 83 FR 42573, Aug. 22, 2018]
+[48 FR 42286, Sept. 19, 1983, as amended at 54 FR 48986, Nov. 28, 1989; 61 FR 39213, July 26, 1996; 79 FR 24210, Apr. 29, 2014; 83 FR 42573, Aug. 22, 2018; 86 FR 3684, Jan. 14, 2021]

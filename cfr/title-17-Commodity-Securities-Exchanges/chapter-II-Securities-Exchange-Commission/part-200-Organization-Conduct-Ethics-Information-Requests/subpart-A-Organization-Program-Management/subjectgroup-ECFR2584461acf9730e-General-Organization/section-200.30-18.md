@@ -1,14 +1,10 @@
-##### § 200.30-18 Delegation of authority to Director of the Office of Compliance Inspections and Examinations. #####
+##### § 200.30-18 Delegation of authority to Director of the Division of Examinations. #####
 
-Pursuant to the provisions of Pub. L. 100-181, 101 Stat. 1254, 1255 (15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following authority to the Director of the Office of Compliance Inspections and Examinations (“OCIE”) to be performed by the Director or by such other person or persons as may be designated from time to time by the Chairman of the Commission:
+Pursuant to the provisions of Public Law 100-181, 101 Stat. 1254, 1255 (15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following authority to the Director of the Division of Examinations (“Examinations”) to be performed by the Director or by such other person or persons as may be designated from time to time by the Chairman of the Commission:
 
 (a) To administer the provisions of § 240.24c-1 of this chapter; provided that access to nonpublic information as defined in such Section shall be provided only with the concurrence of the head of the Commission division or office responsible for such information or the files containing such information.
 
-(b) Pursuant to the Securities Exchange Act of 1934 (“the Exchange Act”) (15 U.S.C. 78a *et seq.*):
-
-(1) To grant and deny applications for confidential treatment filed pursuant to Section 24(b) of the Exchange Act (15 U.S.C. 78x(b)) and Rule 24b-2 thereunder (§ 240.24b-2 of this chapter); and
-
-(2) To revoke a grant of confidential treatment for any such application.
+(b) [Reserved]
 
 (c)(1) Pursuant to Section 17(b) of the Exchange Act (15 U.S.C. 78q(b)), prior to any examination of a registered clearing agency, registered transfer agent, or registered municipal securities dealer whose appropriate regulatory agency is not the Commission, to notify and consult with the appropriate regulatory agency for such clearing agency, transfer agent, or municipal securities dealer.
 
@@ -22,17 +18,7 @@ Pursuant to the provisions of Pub. L. 100-181, 101 Stat. 1254, 1255 (15 U.S.C. 7
 
 (3) To furnish to the appropriate regulatory agency on request a copy of the report of any examination of any such clearing agency, transfer agent, or municipal securities dealer conducted by the Commission and any data supplied to it in connection with such examination.
 
-(e) To administer the provisions of Section 24(d) of the Exchange Act (15 U.S.C. 78x(d)).
-
-(f) To notify the Securities Investor Protection Corporation (“SIPC”) of facts concerning the activities and the operational and financial condition of any registered broker or dealer which is or appears to be a member of SIPC and which is in or approaching financial difficulty within the meaning of Section 5 of the Securities Investor Protection Act of 1970, as amended, 15 U.S.C. 78aa *et seq.*
-
-(g) Pursuant to Section 15(b)(2)(C) of the Exchange Act (15 U.S.C. 78o(b)(2)(C)):
-
-(1) To delay until the second six month period from registration with the Commission the inspection of newly registered broker-dealers that have not commenced actual operations within six months of their registration with the Commission; and
-
-(2) To delay until the second six month period from registration with the Commission the inspection of newly registered broker-dealers to determine whether they are in compliance with applicable provisions of the Exchange Act and rules thereunder, other than financial responsibility rules.
-
-(h) Pursuant to Section 36 of the Exchange Act (15 U.S.C. 78mm) to review and, either unconditionally or on specified terms and conditions, grant, or deny exemptions from rule 17a-25 of the Act (§ 240.17a-25 of this chapter), provided that the Division of Trading and Markets is notified of any such granting or denial of an exemption.
+(e)-(h) [Reserved]
 
 (i) With respect to the Investment Advisers Act of 1940 (“Advisers Act”) (15 U.S.C. 80b-1 *et seq.*):
 
@@ -106,14 +92,24 @@ Pursuant to the provisions of Pub. L. 100-181, 101 Stat. 1254, 1255 (15 U.S.C. 7
 
 (ii) To grant registration of investment advisers sooner than 45 days after receipt by the Commission of acceptable applications for registration.
 
-(2) Under section 203(h) of the Act (15 U.S.C. 80b-3(h)), to authorize the issuance of orders canceling registrations of investment advisers, or pending applications for registration, if such investment advisers or applicants for registration are no longer in existence or are not engaged in business as investment advisers.
+(2) [Reserved]
 
 (l) With respect to the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa *et seq.*):
 
-(1) To cause a written notice to be sent by registered or certified mail, upon receipt of a copy of a notice sent by or on behalf of the Securities Investor Protection Corporation that a broker or dealer has failed to timely file any report or information or to pay when due all or any part of an assessment as required under section 10(a) of this Act, to such delinquent member advising such member that it is unlawful for him or her under the provisions of such section of the Act to engage in business as a broker-dealer while in violation of such requirements of the Act and requesting an explanation in writing within ten days stating what he or she intends to do in order to cure such delinquency;
+(1) To cause a written notice to be sent by registered or certified mail, upon receipt of a copy of a notice sent by or on behalf of the Securities Investor Protection Corporation that a broker or dealer has failed to timely file any report or information or to pay when due all or any part of an assessment as required under section 10(a) of this Act, to such delinquent member advising such member that it is unlawful for the member under the provisions of such section of the Act to engage in business as a broker-dealer while in violation of such requirements of the Act and requesting an explanation in writing within ten days stating what he or she intends to do in order to cure such delinquency;
 
 (2) To authorize formerly delinquent brokers or dealers, upon receipt of written confirmation from or on behalf of the Securities Investor Protection Corporation that the delinquencies referred to in paragraph (c)(1) of this section have been cured, and upon having been advised by the appropriate regional office of this Commission and the Division of Enforcement and Division of Trading and Markets that there is no objection to such member being authorized to resume business, and upon there appearing to be no unusual or novel circumstances which would warrant direct consideration of the matter by this Commission, to resume business as registered broker-dealers as provided in section 10(a) of this Act.
 
-(m) Notwithstanding anything in the foregoing, in any case in which the Director of the OCIE believes it appropriate, the Director may submit the matter to the Commission.
+(m) With respect to the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*):
 
-[60 FR 39644, Aug. 3, 1995, as amended at 66 FR 35842, July 9, 2001; 69 FR 41938, July 13, 2004; 73 FR 40152, July 11, 2008; 73 FR 69532, Nov. 19, 2008; 78 FR 67632, Nov. 12, 2013]
+(1) Under section 15F(b) of the Act (15 U.S.C. 78o-10(b)):
+
+(i) To authorize the issuance of orders granting on-going registration to security-based swap dealers and major security-based swap participants based on the security-based swap dealer's or major security-based swap participant's application, pursuant to § 240.15Fb2-1(e) of this chapter (Rule 15Fb2-1(e));
+
+(ii) To authorize the issuance of orders canceling the registration of security-based swap dealers and major security-based swap participants registered pursuant to § 240.15Fb2-1 of this chapter (Rule 15Fb2-1) if such persons are no longer in existence or have ceased to do business as security-based swap dealers or major security-based swap participants, pursuant to § 240.15Fb3-3(a) of this chapter (Rule 15Fb3-3(a)); and
+
+(iii) To determine by order, pursuant to § 240.15Fb3-2(b) of this chapter (Rule 15Fb3-2(b)), whether notices of withdrawal of registration filed by security-based swap dealers or major security-based swap participants pursuant to section 15F(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78o-10(b)) shall become effective sooner than the normal 60 day waiting period provided in Rule 15Fb3-2(b) (§ 240.15Fb3-2(b) of this chapter).
+
+(n) Notwithstanding anything in paragraphs (a) through (m) of this section, in any case in which the Director of the Examinations believes it appropriate, the Director may submit the matter to the Commission.
+
+[60 FR 39644, Aug. 3, 1995, as amended at 66 FR 35842, July 9, 2001; 69 FR 41938, July 13, 2004; 73 FR 40152, July 11, 2008; 73 FR 69532, Nov. 19, 2008; 78 FR 67632, Nov. 12, 2013; 86 FR 9447, Feb. 16, 2021]

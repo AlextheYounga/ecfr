@@ -18,6 +18,6 @@
 
 (8) Unless waived by the parties, prepare an initial decision containing the conclusions as to the factual and legal issues presented, and issue an appropriate order.
 
-(b) The Chief Administrative Law Judge performs the duties of an Administrative Law Judge under the Administrative Procedure Act and the duties delegated to him or her by the Commission that are compatible with those duties. The Chief Administrative Law Judge is responsible for the orderly functioning of the Office of Administrative Law Judges apart from the conduct of administrative proceedings and acts as liaison between that Office and the Commission.
+(b) The Chief Administrative Law Judge performs the duties of an Administrative Law Judge under the Administrative Procedure Act and the duties delegated to the Chief Administrative Law Judge by the Commission that are compatible with those duties. The Chief Administrative Law Judge is responsible for the orderly functioning of the Office of Administrative Law Judges apart from the conduct of administrative proceedings and acts as liaison between that Office and the Commission.
 
-[60 FR 14625, Mar. 20, 1995]
+[60 FR 14625, Mar. 20, 1995, as amended at 86 FR 9442, Feb. 16, 2021]

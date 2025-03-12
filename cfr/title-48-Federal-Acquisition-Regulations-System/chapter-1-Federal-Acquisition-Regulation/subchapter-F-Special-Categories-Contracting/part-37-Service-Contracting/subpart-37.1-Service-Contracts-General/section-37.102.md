@@ -1,10 +1,8 @@
 ##### 37.102 Policy. #####
 
-Link to an amendment published at 86 FR 3682, Jan. 14, 2021.
+(a) Performance-based acquisition (see Subpart 37.6) is the preferred method for acquiring services (Public Law 106-398, section 821). When acquiring services, including those acquired under supply contracts or orders, agencies must—
 
-(a) Performance-based acquisition (see Subpart 37.6) is the preferred method for acquiring services (Public Law 106-398, section 821). When acquiring services, including those acquired under supply contracts or orders, agencies must -
-
-(1) Use performance-based acquisition methods to the maximum extent practicable, except for -
+(1) Use performance-based acquisition methods to the maximum extent practicable, except for—
 
 (i) Architect-engineer services acquired in accordance with 40 U.S.C. 1101 *et seq.* (see part 36);
 
@@ -38,4 +36,6 @@ Link to an amendment published at 86 FR 3682, Jan. 14, 2021.
 
 (i) Agencies shall ensure that service contracts that require the delivery, use, or furnishing of products are consistent with part 23.
 
-[61 FR 2630, Jan. 26, 1996, as amended at 62 FR 12694, Mar. 17, 1997; 62 FR 44815, Aug. 22, 1997; 66 FR 22083, May 2, 2001; 70 FR 57454, Sept. 30, 2005; 71 FR 218, Jan. 3, 2006; 76 FR 31401, May 31, 2011]
+(j) Except for DoD, see 15.101-2(d) for limitations on the use of the lowest price technically acceptable source selection process to acquire certain services.
+
+[61 FR 2630, Jan. 26, 1996, as amended at 62 FR 12694, Mar. 17, 1997; 62 FR 44815, Aug. 22, 1997; 66 FR 22083, May 2, 2001; 70 FR 57454, Sept. 30, 2005; 71 FR 218, Jan. 3, 2006; 76 FR 31401, May 31, 2011; 86 FR 3682, Jan. 14, 2021]

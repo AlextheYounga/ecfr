@@ -1,10 +1,11 @@
 ##### § 200.30-14 Delegation of authority to the General Counsel. #####
 
-Pursuant to the provisions of Pub. L. 101-181, 101 Stat. 1254, 101 Stat. 1255, 15 U.S.C. 78d-1, 15 U.S.C. 78d-2, and 5 U.S.C. 552a(d)(2)(B)(ii), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the General Counsel of the Commission, to be performed by him or her or under his or her direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
+Pursuant to the provisions of Pub. L. 101-181, 101 Stat. 1254, 101 Stat. 1255, 15 U.S.C. 78d-1, 15 U.S.C. 78d-2, and 5 U.S.C. 552a(d)(2)(B)(ii), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the General Counsel of the Commission, to be performed by the General Counsel or under the General Counsel's
+direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
 
 (a) Grant waivers of imputed disqualification requested pursuant to 17 CFR 200.735-8(d).
 
-(b) Determine whether the Commission will submit, after consultation with any Division or Office of the Commission designated by the Commission, and amicus curiae brief in private litigation on issues previously considered and designated by the Commission as appropriate for the exercise of delegated authority. A list of the issues designated by the Commission as subject to this delegated authority and, where determined by the Commission, the position to be taken on each such issue, may be obtained on request addressed to Securities and Exchange Commission, Washington, DC 20549.
+(b) Determine whether the Commission will submit, after consultation with any Division or Office of the Commission designated by the Commission, an amicus curiae brief in private litigation on issues previously considered and designated by the Commission as appropriate for the exercise of delegated authority. A list of the issues designated by the Commission as subject to this delegated authority and, where determined by the Commission, the position to be taken on each such issue, may be obtained on request addressed to Securities and Exchange Commission, Washington, DC 20549.
 
 (c) Determine the appropriate disposition of all Freedom of Information Act and confidential treatment appeals in accordance with §§ 200.80(f) and (g)(12) and 200.83(e), (f), and (h).
 
@@ -28,7 +29,7 @@ Pursuant to the provisions of Pub. L. 101-181, 101 Stat. 1254, 101 Stat. 1255, 1
 
 (ii) To consider an interlocutory ruling which an administrative judge has certified, and to affirm such ruling upon determining that such action is appropriate.
 
-(iii) To issue any order pursuant to an initial decision as to any person who has not filed a petition for review within the time provided, or has withdrawn his appeal, where the Commission has not on its own motion ordered that the initial decision be reviewed.
+(iii) To issue any order pursuant to an initial decision as to any person who has not filed a petition for review within the time provided, or has withdrawn an appeal, where the Commission has not on its own motion ordered that the initial decision be reviewed.
 
 (iv) Except where the Commission otherwise directs, to issue findings and orders pursuant to offers of settlement which the Commission has determined should be accepted.
 
@@ -68,7 +69,7 @@ Pursuant to the provisions of Pub. L. 101-181, 101 Stat. 1254, 101 Stat. 1255, 1
 
 (8) In connection with Commission review of actions taken by the Public Company Accounting Oversight Board pursuant to Title I of the Sarbanes-Oxley Act of 2002, 15 U.S.C. 7211-7219, to determine whether to lift the automatic stay of a disciplinary sanction.
 
-(i) Notwithstanding anything in paragraph (g) of this section, the functions described in paragraph (g) of this section are not delegated to the General Counsel with respect to proceedings in which the Chairman or the General Counsel determines that separation of functions requirements or other circumstances would make inappropriate the General Counsel's exercise of such delegated functions. With respect to such proceedings, such functions are delegated to the Executive Assistant to the Chairman pursuant to § 200.30-16 of this chapter.
+(i) Notwithstanding anything in paragraph (h) of this section, the functions described in paragraph (h) are not delegated to the General Counsel with respect to proceedings in which the Chairman or the General Counsel determines that separation of functions requirements or other circumstances would make inappropriate the General Counsel's exercise of such delegated functions. With respect to such proceedings, such functions are delegated to the Secretary of the Commission pursuant to § 200.30-7 of this chapter.
 
 (j)(1) With respect to a proceeding conducted pursuant to the Securities Act of 1933, 15 U.S.C. 77a *et seq.,* the Securities Exchange Act of 1934, 15 U.S.C. 78a *et seq.;* the Investment Company Act of 1940, 15 U.S.C. 80a-1 *et seq.;* the Investment Advisers Act of 1940, 15 U.S.C. 80b-1 *et seq.;* and the provisions of Rule 102(e) of the Commission's Rules of Practice, 17 CFR 201.102(e), that has been set for hearing before the Commission pursuant to Rule 110 of the Commission's Rules of Practice, 17 CFR 201.110:
 
@@ -80,7 +81,7 @@ Pursuant to the provisions of Pub. L. 101-181, 101 Stat. 1254, 101 Stat. 1255, 1
 
 (k) Notwithstanding anything in paragraph (i) of this section, the functions described in paragraph (i) of this section are not delegated to the General Counsel with respect to proceedings in which the Chairman or the General Counsel determines that separation of functions requirements or other circumstances would make inappropriate the General Counsel's exercise of such delegated functions. With respect to such proceedings, such functions are delegated to the Secretary of the Commission pursuant to § 200.30-7.
 
-(l) Notwithstanding anything in paragraphs (g) or (i) of this section, in any case described in paragraphs (g) or (i) of this section in which the General Counsel believes it appropriate, he or she may submit the matter to the Commission.
+(l) Notwithstanding anything in paragraph (h) or (j) of this section, in any case described in paragraph (h) or (j) of this section in which the General Counsel believes it appropriate, the General Counsel may submit the matter to the Commission.
 
 (m) With respect to the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*):
 

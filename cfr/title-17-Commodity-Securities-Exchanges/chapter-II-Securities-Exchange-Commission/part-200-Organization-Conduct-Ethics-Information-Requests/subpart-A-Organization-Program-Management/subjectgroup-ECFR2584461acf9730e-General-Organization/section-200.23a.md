@@ -1,5 +1,5 @@
-##### § 200.23a Office of Economic Analysis. #####
+##### § 200.23a Director of the Division of Economic and Risk Analysis and Chief Economist. #####
 
-The Office of Economic Analysis is responsible for providing an objective economic perspective to understand and evaluate the economic dimension of the Commission's regulatory oversight. It performs economic analyses of proposed rule changes, current or proposed policies, and capital market developments and offers advice on the basis of these analyses. The Office also assists the Commission's enforcement effort by applying economic analysis and statistical tools to issues raised in enforcement cases. It reviews certifications and initial and final regulatory flexibility analyses prepared by the operating divisions under the Regulatory Flexibility Act.
+The Director of the Division of Economic and Risk Analysis and Chief Economist serves as economic advisor to the Commission and its staff and is responsible to the Commission for sound economic analysis of market events and conditions; economic analysis in support of Commission rulemaking; economic and risk analysis to inform and support the Commission's enforcement actions and its examination program; development of financial and market data analysis tools; preparation of economic statistics; promotion of data standards; review and guidance of staff research and publications; and assisting the Commission and its staff in responding to policy, legislative, or international issues relating to securities markets.
 
-[60 FR 14627, Mar. 20, 1995]
+[86 FR 9443, Feb. 16, 2021]

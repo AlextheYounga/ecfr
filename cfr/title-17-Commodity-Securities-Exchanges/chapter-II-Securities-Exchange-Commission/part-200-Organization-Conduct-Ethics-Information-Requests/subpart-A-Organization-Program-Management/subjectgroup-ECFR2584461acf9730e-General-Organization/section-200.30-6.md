@@ -1,6 +1,6 @@
 ##### § 200.30-6 Delegation of authority to Regional Directors. #####
 
-Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to each Regional Director, to be performed by him or under his direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
+Pursuant to sections 4A and 4B of the Securities Exchange Act of 1934, as amended (15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to each Regional Director, to be performed by the Regional Director or under the Regional Director's direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
 
 (a) With respect to the Securities Exchange Act of 1934, 15 U.S.C. 78 *et seq.:*
 
@@ -18,6 +18,6 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, the Securities and E
 
 (d) To notify the Securities Investor Protection Corporation (“SIPC”) of facts concerning the activities and the operational and financial condition of any registered broker or dealer which is or appears to be a member of SIPC and which is in or approaching financial difficulty within the meaning of section 5 of the Securities Investor Protection Act of 1970, as amended, 15 U.S.C. 78aaa *et seq.*
 
-(e) Notwithstanding anything in the foregoing, in any case in which the Regional Director believes it appropriate, he may submit the matter to the Commission.
+(e) Notwithstanding anything in paragraphs (a) through (d) of this section, in any case in which the Regional Director believes it appropriate, the Regional Director may submit the matter to the Commission.
 
 [28 FR 2856, Mar. 22, 1963, as amended at 36 FR 7659, Apr. 23, 1971. Redesignated at 37 FR 16792, Aug. 19, 1972]Editorial Note:For Federal Register citations affecting § 200.30-6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

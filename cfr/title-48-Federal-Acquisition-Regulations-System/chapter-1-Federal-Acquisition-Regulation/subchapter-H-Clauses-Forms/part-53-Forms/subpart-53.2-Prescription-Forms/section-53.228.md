@@ -1,7 +1,5 @@
 ##### 53.228 Bonds and insurance. #####
 
-Link to an amendment published at 86 FR 3687, Jan. 14, 2021.
-
 The following standard forms are prescribed for use for bond and insurance requirements, as specified in part 28. These forms can be found at the GSA Forms Library at *https://www.gsa.gov/forms.* All the following forms are authorized for local reproduction, except for SF 25B.
 
 (a) SF 24 (Rev. 8/2016) Bid Bond. (See 28.106-1.)
@@ -12,7 +10,7 @@ The following standard forms are prescribed for use for bond and insurance requi
 
 (d) SF 25B (For Standard Forms 24, 25, and 25A) (Rev. 10/1983) Continuation Sheet for Standard Forms 24, 25 and 25A. (See 28.106-1(c).)
 
-(e) SF 28 (Rev. 6/2003) Affidavit of Individual Surety. (See 28.106-1(e) and 28.203(b).)
+(e) SF 28 (Rev. FEB 2021) Affidavit of Individual Surety. (See 28.106-1(e) and 28.203-1(b)(3).)
 
 (f) SF 34 (Rev 8/2016) Annual Bid Bond. (See 28.106-1(f).)
 
@@ -32,8 +30,6 @@ The following standard forms are prescribed for use for bond and insurance requi
 
 (n) SF 1418 (Rev. 2/1999) Performance Bond For Other Than Construction Contracts. (See 28.106-1(n).)
 
-(o) OF 90 (Rev. 1/1990), Release of Lien on Real Property. (See 28.106-1(o) and 28.203-5(a).)
+(o) OF 91 (Rev. 1/1990), Release of Personal Property from Escrow. (See 28.106-1(o) and 28.203-3(a).)
 
-(p) OF 91 (Rev. 1/1990), Release of Personal Property from Escrow. (See 28.106-1(p) and 28.203-5(a).)
-
-[83 FR 42576, Aug. 22, 2018, as amended at 85 FR 67629, Oct. 23, 2020]
+[83 FR 42576, Aug. 22, 2018, as amended at 85 FR 67629, Oct. 23, 2020; 86 FR 3687, Jan. 14, 2021]

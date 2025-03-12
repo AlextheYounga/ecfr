@@ -2,7 +2,7 @@
 
 (a) Carriers intending to establish or alter operations based on the suspension granted pursuant to § 320.2 shall, as a condition to the right to operate under the suspension, notify the Manager, Mailing Standards, U.S. Postal Service, 475 L'Enfant Plaza SW, Rm. 3436, Washington, DC 20260-3436, of their intention to establish such operations not later than the beginning of such operations. Such notification, on a form available from the office of Mailing Standards, shall include information on the identity and authority of the carrier and the scope of its proposed operations.
 
-(b) Carriers operating under the suspension granted pursuant to § 320.2 are responsible for making sure that their carriage of matter under the suspension meets all conditions contained in § 320.2. (See § 310.4.) The containers or covers of any matter carried under the suspension must be made available for examination upon request by a properly identified representative of Mailing Standards. Carrier records - either in the form of notations on the containers or covers of any matter carried under the suspension granted pursuant to § 320.2 or in the form of records kept by employees of the actual times they make delivery or pickup stops - must be sufficient to show that the delivery of such matter was completed within the applicable time limitation prescribed in § 320.2. The provisions of this paragraph shall not restrict the Postal Service in the exercise of search powers conferred upon it by law.
+(b) Carriers operating under the suspension granted pursuant to § 320.2 are responsible for making sure that their carriage of matter under the suspension meets all conditions contained in § 320.2. (See § 310.4.) The containers or covers of any matter carried under the suspension must be made available for examination upon request by a properly identified representative of Mailing Standards. Carrier records—either in the form of notations on the containers or covers of any matter carried under the suspension granted pursuant to § 320.2 or in the form of records kept by employees of the actual times they make delivery or pickup stops—must be sufficient to show that the delivery of such matter was completed within the applicable time limitation prescribed in § 320.2. The provisions of this paragraph shall not restrict the Postal Service in the exercise of search powers conferred upon it by law.
 
 (c) The filing of notifications under this section does not relieve the operator of responsibility for assuring that its operations conform to applicable statutes and regulations.
 
@@ -24,7 +24,7 @@ Notice of Intent To Establish Operations Under Suspension of the Private Express
 
 (Signature of Officer)(Name and Title)
 
-Subscribed and sworn to before me this \_\_ day of \_\_\_\_\_, 197\_\_.
+Subscribed and sworn to before me this —— day of —————, 197——.
 
 Notary Public
 

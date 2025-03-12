@@ -1,16 +1,18 @@
 ##### 52.223-3 Hazardous Material Identification and Material Safety Data. #####
 
-Link to an amendment published at 86 FR 3688, Jan. 14, 2021.
-
 As prescribed in 23.303, insert the following clause:
 
-Hazardous Material Identification and Material Safety Data (JAN 1997)
+Hazardous Material Identification and Material Safety Data (FEB 2021)
 
 (a) *Hazardous material,* as used in this clause, includes any material defined as hazardous under the latest version of Federal Standard No. 313 (including revisions adopted during the term of the contract).
 
 (b) The offeror must list any hazardous material, as defined in paragraph (a) of this clause, to be delivered under this contract. The hazardous material shall be properly identified and include any applicable identification number, such as National Stock Number or Special Item Number. This information shall also be included on the Material Safety Data Sheet submitted under this contract.
 
-Material (If none, insert *None*)Identification No.
+|Material (if none,  <br/>insert None)|Identification No.|
+|-------------------------------------|------------------|
+|                                     |                  |
+|                                     |                  |
+|                                     |                  |
 
 (c) This list must be updated during performance of the contract whenever the Contractor determines that any other material to be delivered under this contract is hazardous.
 
@@ -24,7 +26,7 @@ Material (If none, insert *None*)Identification No.
 
 (h) The Government's rights in data furnished under this contract with respect to hazardous material are as follows:
 
-(1) To use, duplicate and disclose any data to which this clause is applicable. The purposes of this right are to -
+(1) To use, duplicate and disclose any data to which this clause is applicable. The purposes of this right are to—
 
 (i) Apprise personnel of the hazards to which they may be exposed in using, handling, packaging, transporting, or disposing of hazardous materials;
 
@@ -46,4 +48,4 @@ Material (If none, insert *None*)Identification No.
 
 (2) For items shipped to consignees identified by mailing address as agency depots, distribution centers or customer supply centers, the Contractor shall provide one copy of the MSDS's in or on each shipping container. If affixed to the outside of each container, the MSDS must be placed in a weather resistant envelope.
 
-[56 FR 55375, Oct. 25, 1991, as amended at 60 FR 34740, July 3, 1995; 62 FR 238, Jan. 2, 1997]
+[56 FR 55375, Oct. 25, 1991, as amended at 60 FR 34740, July 3, 1995; 62 FR 238, Jan. 2, 1997; 86 FR 3688, Jan. 14, 2021]

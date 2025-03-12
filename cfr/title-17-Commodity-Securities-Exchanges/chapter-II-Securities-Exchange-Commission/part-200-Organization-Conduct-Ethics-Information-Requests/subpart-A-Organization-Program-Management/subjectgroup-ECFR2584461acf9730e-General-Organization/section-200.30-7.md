@@ -1,6 +1,6 @@
 ##### § 200.30-7 Delegation of authority to Secretary of the Commission. #####
 
-Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394 (15 U.S.C. 78d-1), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Secretary of the Commission to be performed by him or under his direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
+Pursuant to sections 4A and 4B of the Securities Exchange Act of 1934, as amended (15 U.S.C. 78d-1, 78d-2)(15 U.S.C. 78d-1), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Secretary of the Commission to be performed by the Secretary or under the Secretary's direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
 
 (a) With respect to proceedings conducted pursuant to the Securities Act of 1933, 15 U.S.C. 77a *et seq.,* the Securities Exchange Act of 1934, 15 U.S.C. 78a *et seq.,* the Trust Indenture Act of 1939, 15 U.S.C. 77aaa *et seq.,* the Investment Company Act of 1940, 15 U.S.C. 80a-1 *et seq.,* the Investment Advisers Act of 1940, 15 U.S.C. 80b-1 *et seq.,* the Securities Investor Protection Act of 1970, 15 U.S.C. 78aaa *et seq.,* the provisions of Rule 102(e) of the Commission's Rules of Practice, Section 201.102(e) of this chapter, and Title I of the Sarbanes-Oxley Act of 2002, 15 U.S.C. 7211-7219;
 
@@ -32,8 +32,8 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394 (15 U.S.C. 78d-1), th
 
 (c) To authenticate all Commission documents produced for administrative or judicial proceedings.
 
-(d) The functions otherwise delegated to the General Counsel under § 200.30-14(i), with respect to any proceeding in which the Chairman or the General Counsel has determined, pursuant to § 200.30-14(j), that separation of functions requirements or other circumstances would make inappropriate the General Counsel's exercise of such delegated functions.
+(d) The functions otherwise delegated to the General Counsel under § 200.30-14(h) and (j), with respect to any proceeding in which the Chairman or the General Counsel has determined, pursuant to § 200.30-14(i) and (k), that separation of functions requirements or other circumstances would make inappropriate the General Counsel's exercise of such delegated functions.
 
-(e) Notwithstanding anything in the foregoing, in any case in which the Secretary of the Commission believes it appropriate he or she may submit the matter to the Commission.
+(e) Notwithstanding anything in paragraphs (a) through (d) of this section, in any case in which the Secretary of the Commission believes it appropriate the Secretary may submit the matter to the Commission.
 
 [35 FR 17989, Nov. 24, 1970. Redesignated at 37 FR 16792, Aug. 19, 1972]Editorial Note:For Federal Register citations affecting § 200.30-7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

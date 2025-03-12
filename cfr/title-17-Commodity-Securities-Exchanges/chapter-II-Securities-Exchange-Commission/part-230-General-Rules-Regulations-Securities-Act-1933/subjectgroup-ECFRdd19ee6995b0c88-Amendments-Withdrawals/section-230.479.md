@@ -6,6 +6,6 @@ When a registration statement, or a post-effective amendment to such a statement
 
 (b) If the registrant or the agent for service fails to respond to such notice by filing a substantive amendment or withdrawing the registration statement and does not furnish a satisfactory explanation as to why it has not done so within such 30 days, the Commission may, where consistent with the public interest and the protection of investors, enter an order declaring the registration statement or amendment abandoned.
 
-(c) When such an order is entered by the Commission the papers comprising the registration statement or amendment will not be removed from the files of the Commission but an order shall be included in the file for the registration statement in the following manner: “Declared abandoned by order dated \_\_\_.”
+(c) When such an order is entered by the Commission the papers comprising the registration statement or amendment will not be removed from the files of the Commission but an order shall be included in the file for the registration statement in the following manner: “Declared abandoned by order dated \_\_\_.”\_\_\_
 
 [47 FR 11446, Mar. 16, 1982, as amended at 76 FR 71876, Nov. 21, 2011]

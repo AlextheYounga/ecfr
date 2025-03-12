@@ -1,6 +1,6 @@
 ##### § 200.30-1 Delegation of authority to Director of Division of Corporation Finance. #####
 
-Pursuant to the provisions of Pub. L., No. 87-592, 76 Stat. 394 (15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Director of the Division of Corporation Finance, to be performed by him or under his direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
+Pursuant to sections 4A and 4B of the Securities Exchange Act of 1934, as amended (15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Director of the Division of Corporation Finance, to be performed by the Director or under the Director's direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
 
 (a) With respect to registration of securities pursuant to the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), and Regulation C thereunder (§ 230.400 *et seq.* of this chapter):
 
@@ -8,7 +8,7 @@ Pursuant to the provisions of Pub. L., No. 87-592, 76 Stat. 394 (15 U.S.C. 78d-1
 
 (2) To consent to the withdrawal of registration statements or amendments or exhibits thereto, pursuant to Rule 477 (§ 230.477 of this chapter), and to issue orders declaring registration statements abandoned, pursuant to Rule 479 (§ 230.479 of this chapter).
 
-(3) To grant applications for confidential treatment of contract provisions pursuant to Rule 406 (§ 230.406 of this chapter) under the Act; to issue orders scheduling hearings on such applications and to deny any such application as to which the applicant waives his right to a hearing, provided such applicant is advised of his right to have such denial reviewed by the Commission.
+(3) To grant applications for confidential treatment of contract provisions pursuant to § 230.406 of this chapter (Rule 406 under the Act); to issue orders scheduling hearings on such applications and to deny any such application as to which the applicant waives the applicant's right to a hearing, provided such applicant is advised of the applicant's right to have such denial reviewed by the Commission.
 
 (4) To accelerate the use or publication of any summary prospectus filed with the Commission pursuant to section 10(b) of the Act (15 U.S.C. 77j(b)) and Rule 431(g) (§ 230.431(g) of this chapter) thereunder.
 
@@ -70,7 +70,7 @@ Pursuant to the provisions of Pub. L., No. 87-592, 76 Stat. 394 (15 U.S.C. 78d-1
 
 (2) Pursuant to instructions as to financial statements contained in forms adopted under the Act:
 
-(i) To extend the time for filing or to permit the ommission of one or more financial statements therein required or the filing in substitution therefor of appropriate statements of comparable character.
+(i) To extend the time for filing or to permit the omission of one or more financial statements therein required or the filing in substitution therefor of appropriate statements of comparable character.
 
 (ii) To require the filing of other financial statements in addition to, or in substitution for, the statements therein required;
 
@@ -80,7 +80,7 @@ Pursuant to the provisions of Pub. L., No. 87-592, 76 Stat. 394 (15 U.S.C. 78d-1
 
 (4) To authorize the use of forms of proxies, proxy statements, or other soliciting material within periods of time less than that prescribed in §§ 240.14a-6, 240.14a-8(d), and 240.14a-11 of this chapter; to authorize the filing of information statements within periods of time less than that prescribed in § 240.14c-5a of this chapter; and to authorize the filing of information under § 240.14f-1 of this chapter within periods of time less than that prescribed therein.
 
-(5) To grant or deny applications filed pursuant to section 12(g)(1) of the Act (15 U.S.C. 78*l*(g)(1)) for extensions of time within which to file registration statements pursuant to that section, provided the applicant is advised of his right to have any such denial reviewed by the Commission.
+(5) To grant or deny applications filed pursuant to section 12(g)(1) of the Act (15 U.S.C. 78l(g)(1)) for extensions of time within which to file registration statements pursuant to that section, provided the applicant is advised of the applicant's right to have any such denial reviewed by the Commission.
 
 (6) To accelerate at the request of the issuer the effective date of registration statements filed pursuant to section 12(g) of the Act (15 U.S.C. 78*l*(g)).
 
@@ -126,7 +126,7 @@ Pursuant to the provisions of Pub. L., No. 87-592, 76 Stat. 394 (15 U.S.C. 78d-1
 
 (1) Matters arising under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*), the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*) and the Trust Indenture Act of 1939 (15 U.S.C. 77aaa *et seq.*) pertaining to investment companies registered under the Investment Company Act of 1940 are not within the scope of the functions delegated to the Director of the Division of Corporation Finance, except those arising under section 30(f) of the Investment Company Act of 1940 (15 U.S.C. 80a-29(f));
 
-(2) In any case in which the Director of the Division of Corporation Finance believes it appropriate, he may submit the matter to the Commission.
+(2) In any case in which the Director of the Division of Corporation Finance believes it appropriate, the Director may submit the matter to the Commission.
 
 (h) With respect to the Securities Act of 1933 (15 U.S.C. 77a *et seq.*) and Rule 701 thereunder (§ 230.701 of this chapter), to authorize the granting of applications under Rule 703(b) (§ 230.703(b) of this chapter) upon a showing of good cause that it is not necessary under the circumstances that an exemption under Rule 701 be denied.
 
