@@ -64,6 +64,14 @@
 
 (17) S4.2 and S5 of 49 CFR 571.226, on the side of the vehicle where a seat on that side of the vehicle must be changed to accommodate a person with a disability.
 
+(18) 49 CFR 571.216a, in any case in which:
+
+(i) The disability necessitates raising the roof; and,
+
+(ii) The vehicle, after modification, meets 49 CFR 571.220.
+
+(19) S5.5.1, S5.5.2, S6.2.1, and S6.2.2 of 49 CFR 571.111, in any case in which a personal mobility device transporter is temporarily installed on a vehicle by way of a trailer hitch to carry a personal mobility device (*e.g.,* a wheelchair, powered wheelchair, or powered scooter) used by a driver or a passenger with a disability.
+
 (d) The label required by paragraph (b) of this section shall:
 
 (1) Be permanently affixed to the vehicle,
@@ -86,4 +94,4 @@
 
 (5) Indicate any reduction in the load carrying capacity of the vehicle of more than 100 kg (220 lb) after the modifications are completed. In providing this information, the modifier must state whether the weight of a user's wheelchair is included in the available load capacity.
 
-[66 FR 12655, Feb. 27, 2001, as amended at 69 FR 21069, Apr. 20, 2004; 70 FR 51678, Aug. 31, 2005; 75 FR 47489, Aug. 6, 2010; 76 FR 37028, June 24, 2011; 76 FR 47083, Aug. 4, 2011; 79 FR 38795, July 9, 2014]
+[66 FR 12655, Feb. 27, 2001, as amended at 69 FR 21069, Apr. 20, 2004; 70 FR 51678, Aug. 31, 2005; 75 FR 47489, Aug. 6, 2010; 76 FR 37028, June 24, 2011; 76 FR 47083, Aug. 4, 2011; 79 FR 38795, July 9, 2014; 87 FR 14418, Mar. 15, 2022]
