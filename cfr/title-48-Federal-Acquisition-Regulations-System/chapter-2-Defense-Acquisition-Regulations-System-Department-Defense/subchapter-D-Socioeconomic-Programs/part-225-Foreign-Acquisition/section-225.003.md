@@ -1,12 +1,12 @@
 ##### 225.003 Definitions. #####
 
-                                                                                                                As used in this part -
+                                                                                                                As used in this part—
 
                                                                                                                 *600 series of the Commerce Control List* means the series of 5-character export control classification numbers (ECCNs) of the Commerce Control List of the Export Administration Regulations in 15 CFR part 774, supplement no. 1, that have a “6” as the third character. The 600 series constitutes the munitions and munitions-related ECCNs within the larger Commerce Control List. (See definition of “600 series” in 15 CFR 772.)
 
                                                                                                                 *Caribbean Basin country end product* includes petroleum or any product derived from petroleum.
 
-                                                                                                                *Communist Chinese military company* means any entity, regardless of geographic location, that is -
+                                                                                                                *Communist Chinese military company* means any entity, regardless of geographic location, that is—
 
                                                                                                                 (1) A part of the commercial or defense industrial base of the People's Republic of China (including a subsidiary or affiliate of such entity); or
 
@@ -14,17 +14,33 @@
 
                                                                                                                 *Defense equipment* means any equipment, item of supply, component, or end product purchased by DoD.
 
-                                                                                                                *Domestic concern* means -
+                                                                                                                *Domestic concern* means—
 
                                                                                                                 (1) A concern incorporated in the United States (including a subsidiary that is incorporated in the United States, even if the parent corporation is a foreign concern; or
 
                                                                                                                 (2) An unincorporated concern having its principal place of business in the United States.
 
-                                                                                                                *Domestic end product* has the meaning given in the clauses at 252.225-7001, Buy American and Balance of Payments Program; and 252.225-7036, Buy American - Free Trade Agreements - Balance of Payments Program, instead of the meaning in FAR 25.003.
+                                                                                                                *Domestic end product* means—
 
-                                                                                                                *Eligible product* means, instead of the definition in FAR 25.003 -
+                                                                                                                (1) For an end product that does not consist wholly or predominantly of iron or steel or a combination of both—
 
-                                                                                                                (1) A foreign end product that -
+                                                                                                                (i) An unmanufactured end product mined or produced in the United States; or
+
+                                                                                                                (ii) An end product manufactured in the United States if—
+
+                                                                                                                (A) The cost of its qualifying country components and its components that are mined, produced, or manufactured in the United States exceeds 55 percent of the cost of all its components. The cost of components includes transportation costs to the place of incorporation into the end product and U.S. duty (whether or not a duty-free entry certificate is issued). Components of unknown origin are treated as foreign. Scrap generated, collected, and prepared for processing in the United States is considered domestic. A component is considered to have been mined, produced, or manufactured in the United States (regardless of its source in fact) if the end product in which it is incorporated is manufactured in the United States and the component is of a class or kind for which the Government has determined that—
+
+                                                                                                                (*1*) Sufficient and reasonably available commercial quantities of a satisfactory quality are not mined, produced, or manufactured in the United States; or
+
+                                                                                                                (*2*) It is inconsistent with the public interest to apply the restrictions of the Buy American statute; or
+
+                                                                                                                (B) The end product is a commercially available off-the-shelf (COTS) item; or
+
+                                                                                                                (2) For an end product that consists wholly or predominantly of iron or steel or a combination of both, an end product manufactured in the United States, if the cost of iron and steel not produced in the United States or a qualifying country constitutes less than 5 percent of the cost of all the components used in the end product (produced in the United States or a qualifying country means that all manufacturing processes of the iron or steel must take place in the United States or a qualifying country, except metallurgical processes involving refinement of steel additives). The cost of iron and steel not produced in the United States or a qualifying country includes but is not limited to the cost of iron or steel mill products (such as bar, billet, slab, wire, plate, or sheet), castings, or forgings, not produced in the United States or a qualifying country, utilized in the manufacture of the end product and a good faith estimate of the cost of all iron or steel components not produced in the United States or a qualifying country, excluding COTS fasteners. Iron or steel components of unknown origin are treated as foreign. If the end product contains multiple components, the cost of all the materials used in such end product is calculated in accordance with the explanation of cost of components in paragraph (1)(ii)(A) of this definition.
+
+                                                                                                                *Eligible product* means, instead of the definition in FAR 25.003—
+
+                                                                                                                (1) A foreign end product that—
 
                                                                                                                 (i) Is in a category listed in 225.401-70; and
 
@@ -46,7 +62,23 @@
 
                                                                                                                 AustraliaAustriaBelgiumCanadaCzech RepublicDenmarkEgyptEstoniaFinlandFranceGermanyGreeceIsraelItalyJapanLatviaLithuaniaLuxembourgNetherlandsNorwayPolandPortugalSloveniaSpainSwedenSwitzerlandTurkeyUnited Kingdom of Great Britain and Northern Ireland.
 
-*Qualifying country component* and *qualifying country end product* are defined in the clauses at 252.225-7001, Buy American and Balance of Payments Program; and 252.225-7036, Buy American - Free Trade Agreements - Balance of Payments Program. *Qualifying country end product* is also defined in the clause at 252.225-7021, Trade Agreements.
+*Qualifying country component* means a component mined, produced, or manufactured in a qualifying country.
+
+*Qualifying country end product* means—
+
+(1) An unmanufactured end product mined or produced in a qualifying country; or
+
+(2) An end product manufactured in a qualifying country if—
+
+(i) The cost of the following types of components exceeds 50 percent of the cost of all its components:
+
+(A) Components mined, produced, or manufactured in a qualifying country.
+
+(B) Components mined, produced, or manufactured in the United States.
+
+(C) Components of foreign origin of a class or kind for which the Government has determined that sufficient and reasonably available commercial quantities of a satisfactory quality are not mined, produced, or manufactured in the United States. Components of unknown origin are treated as foreign; or
+
+(ii) The end product is a COTS item.*Qualifying country end product* is also defined in the clause at 252.225-7021, Trade Agreements.
 
 *Qualifying country offer* means an offer of a qualifying country end product, including the price of transportation to destination.
 
@@ -54,13 +86,13 @@
 
 *South Caucasus/Central and South Asian (SC/CASA) state* means Armenia, Azerbaijan, Georgia, Kazakhstan, Kyrgyzstan, Pakistan, Tajikistan, Turkmenistan, or Uzbekistan.
 
-*South Caucasus/Central and South Asian (SC/CASA) state construction material* means construction material that -
+*South Caucasus/Central and South Asian (SC/CASA) state construction material* means construction material that—
 
 (1) Is wholly the growth, product, or manufacture of an SC/CASA state; or
 
 (2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in an SC/CASA state into a new and different construction material distinct from the material from which it was transformed.
 
-*South Caucasus/Central and South Asian (SC/CASA) state end product* means an article that -
+*South Caucasus/Central and South Asian (SC/CASA) state end product* means an article that—
 
 (1) Is wholly the growth, product, or manufacture of an SC/CASA state; or
 
@@ -68,4 +100,4 @@
 
 *United States Munitions List* means the munitions list of the International Traffic in Arms Regulation in 22 CFR part 121.
 
-[68 FR 15618, Mar. 31, 2003, as amended at 69 FR 1927, Jan. 13, 2004; 70 FR 73153, Dec. 9, 2005; 73 FR 76971, Dec. 18, 2008; 74 FR 37651, July 29, 2009; 75 FR 34945, June 21, 2010; 75 FR 81916, Dec. 29, 2010; 77 FR 35880, June 15, 2012; 77 FR 38737, June 29, 2012; 77 FR 76942, Dec. 31, 2012; 81 FR 50651, Aug. 2, 2016; 81 FR 93840, Dec. 22, 2016; 82 FR 61484, Dec. 28, 2017; 83 FR 66071, Dec. 21, 2018; 87 FR 15816, Mar. 18, 2022]
+[68 FR 15618, Mar. 31, 2003, as amended at 69 FR 1927, Jan. 13, 2004; 70 FR 73153, Dec. 9, 2005; 73 FR 76971, Dec. 18, 2008; 74 FR 37651, July 29, 2009; 75 FR 34945, June 21, 2010; 75 FR 81916, Dec. 29, 2010; 77 FR 35880, June 15, 2012; 77 FR 38737, June 29, 2012; 77 FR 76942, Dec. 31, 2012; 81 FR 50651, Aug. 2, 2016; 81 FR 93840, Dec. 22, 2016; 82 FR 61484, Dec. 28, 2017; 83 FR 66071, Dec. 21, 2018; 87 FR 15816, Mar. 18, 2022; 87 FR 37443, June 23, 2022]

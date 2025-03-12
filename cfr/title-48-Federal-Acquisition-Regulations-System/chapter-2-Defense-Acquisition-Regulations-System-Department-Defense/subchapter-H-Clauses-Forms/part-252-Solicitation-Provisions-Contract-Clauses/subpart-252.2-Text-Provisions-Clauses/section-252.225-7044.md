@@ -2,21 +2,21 @@
 
 *Basic.* As prescribed in 225.7503(a) and (a)(1), use the following clause:
 
-Balance of Payments Program - Construction Material - Basic (NOV 2014)
+Balance of Payments Program - Construction Material - Basic (JUN 2022)
 
 (a) *Definitions.* As used in this clause -
 
 *Commercially available off-the-shelf (COTS) item* -
 
-(i) Means any item of supply (including construction material) that is -
+(1) Means any item of supply (including construction material) that is -
 
-(A) A commercial item (as defined in paragraph (1) of the definition of “commercial item” in section 2.101 of the Federal Acquisition Regulation);
+(i) A commercial item (as defined in paragraph (1) of the definition of “commercial item” in section 2.101 of the Federal Acquisition Regulation);
 
-(B) Sold in substantial quantities in the commercial marketplace; and
+(ii) Sold in substantial quantities in the commercial marketplace; and
 
-(C) Offered to the Government, under a contract or subcontract at any tier, without modification, in the same form in which it is sold in the commercial marketplace; and
+(iii) Offered to the Government, under a contract or subcontract at any tier, without modification, in the same form in which it is sold in the commercial marketplace; and
 
-(ii) Does not include bulk cargo, as defined in 46 U.S.C. 40102(4), such as agricultural products and petroleum products.
+(2) Does not include bulk cargo, as defined in 46 U.S.C. 40102(4), such as agricultural products and petroleum products.
 
 *Component* means any article, material, or supply incorporated directly into construction material.
 
@@ -24,19 +24,27 @@ Balance of Payments Program - Construction Material - Basic (NOV 2014)
 
 *Cost of components* means -
 
-(i) For components purchased by the Contractor, the acquisition cost, including transportation costs to the place of incorporation into the end product (whether or not such costs are paid to a domestic firm), and any applicable duty (whether or not a duty-free entry certificate is issued); or
+(1) For components purchased by the Contractor, the acquisition cost, including transportation costs to the place of incorporation into the end product (whether or not such costs are paid to a domestic firm), and any applicable duty (whether or not a duty-free entry certificate is issued); or
 
-(ii) For components manufactured by the Contractor, all costs associated with the manufacture of the component, including transportation costs as described in paragraph (1) of this definition, plus allocable overhead costs, but excluding profit. Cost of components does not include any costs associated with the manufacture of the construction material.
+(2) For components manufactured by the Contractor, all costs associated with the manufacture of the component, including transportation costs as described in paragraph (1) of this definition, plus allocable overhead costs, but excluding profit. Cost of components does not include any costs associated with the manufacture of the construction material.
 
 *Domestic construction material* means -
+
+(1) For construction material that does not consist wholly or predominantly of iron or steel or a combination of both -
 
 (i) An unmanufactured construction material mined or produced in the United States; or
 
 (ii) A construction material manufactured in the United States, if -
 
-(A) The cost of its components mined, produced, or manufactured in the United States exceeds 50 percent of the cost of all its components. Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic; or
+(A) The cost of its components mined, produced, or manufactured in the United States exceeds 55 percent of the cost of all its components. Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or
 
-(B) The construction material is a COTS item.
+(B) The construction material is a COTS item; or
+
+(2) For construction material that consists wholly or predominantly of iron or steel or a combination of both, a construction material manufactured in the United States if the cost of iron and steel not produced in the United States (excluding fasteners) as estimated in good faith by the contractor, constitutes less than 5 percent of the cost of all the components used in such construction material (produced in the United States means that all manufacturing processes of the iron or steel must take place in the United States, except metallurgical processes involving refinement of steel additives). The cost of iron and steel not produced in the United States includes but is not limited to the cost of iron or steel mill products (such as bar, billet, slab, wire, plate, or sheet), castings, or forgings, not produced in the United States, utilized in the manufacture of the end product and a good faith estimate of the cost of all iron or steel components not produced in the United States, excluding COTS fasteners. Iron or steel components of unknown origin are treated as foreign. If the construction material contains multiple components, the cost of all the materials used in such construction material is calculated in accordance with the definition of “cost of components” in this clause.
+
+*Predominantly of iron or steel or a combination of both* means that the cost of the iron and steel content exceeds 50 percent of the total cost of all its components. The cost of iron and steel is the cost of the iron or steel mill products (such as bar, billet, slab, wire, plate, or sheet), castings, or forgings utilized in the manufacture of the product and a good faith estimate of the cost of iron or steel components excluding COTS fasteners.
+
+*Steel* means an alloy that includes at least 50 percent iron, between 0.02 and 2 percent carbon, and may include other elements.
 
 *United States* means the 50 States, the District of Columbia, and outlying areas.
 
@@ -52,21 +60,21 @@ Balance of Payments Program - Construction Material - Basic (NOV 2014)
 
 *Alternate I.* As prescribed in 225.7503(a) and (a)(2), use the following clause, which adds definitions for *South Caucasus/Central and South Asian (SC/CASA) state* and *SC/CASA state construction material* to paragraph (a), and uses “domestic construction material or SC/CASA state construction material” instead of “domestic construction material” in the second sentence of paragraph (b):
 
-Balance of Payments Program - Construction Material - Alternate I (NOV 2014)
+Balance of Payments Program - Construction Material - Alternate I (JUN 2022)
 
 (a) *Definitions.* As used in this clause -
 
-*Commercially available off-the-shelf (COTS) item”* -
+*Commercially available off-the-shelf (COTS) item* -
 
-(i) Means any item of supply (including construction material) that is -
+(1) Means any item of supply (including construction material) that is -
 
-(A) A commercial item (as defined in paragraph (1) of the definition of *commercial item* in section 2.101 of the Federal Acquisition Regulation);
+(i) A commercial item (as defined in paragraph (1) of the definition of *commercial item* in section 2.101 of the Federal Acquisition Regulation);
 
-(B) Sold in substantial quantities in the commercial marketplace; and
+(ii) Sold in substantial quantities in the commercial marketplace; and
 
-(C) Offered to the Government, under a contract or subcontract at any tier, without modification, in the same form in which it is sold in the commercial marketplace; and
+(iii) Offered to the Government, under a contract or subcontract at any tier, without modification, in the same form in which it is sold in the commercial marketplace; and
 
-(ii) Does not include bulk cargo, as defined in 46 U.S.C. 40102(4), such as agricultural products and petroleum products.
+(2) Does not include bulk cargo, as defined in 46 U.S.C. 40102(4), such as agricultural products and petroleum products.
 
 *Component* means any article, material, or supply incorporated directly into construction material.
 
@@ -74,27 +82,35 @@ Balance of Payments Program - Construction Material - Alternate I (NOV 2014)
 
 *Cost of components* means -
 
-(i) For components purchased by the Contractor, the acquisition cost, including transportation costs to the place of incorporation into the end product (whether or not such costs are paid to a domestic firm), and any applicable duty (whether or not a duty-free entry certificate is issued); or
+(1) For components purchased by the Contractor, the acquisition cost, including transportation costs to the place of incorporation into the end product (whether or not such costs are paid to a domestic firm), and any applicable duty (whether or not a duty-free entry certificate is issued); or
 
-(ii) For components manufactured by the Contractor, all costs associated with the manufacture of the component, including transportation costs as described in paragraph (1) of this definition, plus allocable overhead costs, but excluding profit. Cost of components does not include any costs associated with the manufacture of the construction material.
+(2) For components manufactured by the Contractor, all costs associated with the manufacture of the component, including transportation costs as described in paragraph (1) of this definition, plus allocable overhead costs, but excluding profit. Cost of components does not include any costs associated with the manufacture of the construction material.
 
 *Domestic construction material* means -
+
+(1) For construction material that does not consist wholly or predominantly of iron or steel or a combination of both -
 
 (i) An unmanufactured construction material mined or produced in the United States; or
 
 (ii) A construction material manufactured in the United States, if -
 
-(A) The cost of its components mined, produced, or manufactured in the United States exceeds 50 percent of the cost of all its components. Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic; or
+(A) The cost of its components mined, produced, or manufactured in the United States exceeds 55 percent of the cost of all its components. Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or
 
-(B) The construction material is a COTS item.
+(B) The construction material is a COTS item; or
+
+(2) For construction material that consists wholly or predominantly of iron or steel or a combination of both, a construction material manufactured in the United States if the cost of iron and steel not produced in the United States (excluding fasteners) as estimated in good faith by the contractor, constitutes less than 5 percent of the cost of all the components used in such construction material (produced in the United States means that all manufacturing processes of the iron or steel must take place in the United States, except metallurgical processes involving refinement of steel additives). The cost of iron and steel not produced in the United States includes but is not limited to the cost of iron or steel mill products (such as bar, billet, slab, wire, plate, or sheet), castings, or forgings, not produced in the United States, utilized in the manufacture of the construction material and a good faith estimate of the cost of all iron or steel components not produced in the United States, excluding COTS fasteners. Iron or steel components of unknown origin are treated as foreign. If the construction material contains multiple components, the cost of all the materials used in such construction material is calculated in accordance with the definition of “cost of components” in this clause.
+
+*Predominantly of iron or steel or a combination of both* means that the cost of the iron and steel content exceeds 50 percent of the total cost of all its components. The cost of iron and steel is the cost of the iron or steel mill products (such as bar, billet, slab, wire, plate, or sheet), castings, or forgings utilized in the manufacture of the product and a good faith estimate of the cost of iron or steel components excluding COTS fasteners.
 
 *South Caucasus/Central and South Asian (SC/CASA) state* means Armenia, Azerbaijan, Georgia, Kazakhstan, Kyrgyzstan, Pakistan, Tajikistan, Turkmenistan, or Uzbekistan.
 
 *SC/CASA state construction material* means construction material that -
 
-(i) Is wholly the growth, product, or manufacture of an SC/CASA state; or
+(1) Is wholly the growth, product, or manufacture of an SC/CASA state; or
 
-(ii) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in an SC/CASA state into a new and different construction material distinct from the material from which it was transformed.
+(2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in an SC/CASA state into a new and different construction material distinct from the material from which it was transformed.
+
+*Steel* means an alloy that includes at least 50 percent iron, between 0.02 and 2 percent carbon, and may include other elements.
 
 *United States* means the 50 States, the District of Columbia, and outlying areas.
 
@@ -106,4 +122,4 @@ Balance of Payments Program - Construction Material - Alternate I (NOV 2014)
 
 (3) The construction material or components listed by the Government as follows:
 
-[*Contracting Officer to list applicable excepted materials or indicate “none”*].(End of clause)[67 FR 20695, Apr. 26, 2002, as amended at 70 FR 2365, Jan. 13, 2005; 70 FR 35548, June 21, 2005; 74 FR 2424, Jan. 15, 2009; 75 FR 66686, Oct. 29, 2010; 75 FR 81920, Dec. 29, 2010; 77 FR 35882, June 15, 2012; 79 FR 65830, Nov. 5, 2014; 80 FR 36899, June 26, 2015]
+[*Contracting Officer to list applicable excepted materials or indicate “none”*].(End of clause)[67 FR 20695, Apr. 26, 2002, as amended at 70 FR 2365, Jan. 13, 2005; 70 FR 35548, June 21, 2005; 74 FR 2424, Jan. 15, 2009; 75 FR 66686, Oct. 29, 2010; 75 FR 81920, Dec. 29, 2010; 77 FR 35882, June 15, 2012; 79 FR 65830, Nov. 5, 2014; 80 FR 36899, June 26, 2015; 87 FR 37450, June 23, 2022]

@@ -18,17 +18,17 @@
 
 (A) If the low offer is a domestic offer, award on that offer.
 
-(B) If there are no domestic offers, award on the low offer (see example in 225.504(1)).
+(B) If there are no domestic offers, award on the low offer (see example in PGI 225.504(1)).
 
 (C) If the low offer is a foreign offer that is exempt from application of the Buy American or Balance of Payments Program evaluation factor, award on that offer. (If the low offer is a qualifying country offer from a country listed at 225.872-1(b), execute a determination in accordance with 225.872-4.)
 
-(D) If the low offer is a foreign offer that is not exempt from application of the Buy American or Balance of Payments Program evaluation factor, and there is another foreign offer that is exempt and is lower than the lowest domestic offer, award on the low foreign offer (see example in 225.504(2)).
+(D) If the low offer is a foreign offer that is not exempt from application of the Buy American or Balance of Payments Program evaluation factor, and there is another foreign offer that is exempt and is lower than the lowest domestic offer, award on the low foreign offer (see example in PGI 225.504(2)).
 
 (E) Otherwise, apply the 50 percent evaluation factor to the low foreign offer.
 
-(*1*) If the price of the low domestic offer is less than the evaluated price of the low foreign offer, award on the low domestic offer (see example in 225.504(3)).
+(*1*) If the price of the low domestic offer is less than the evaluated price of the low foreign offer, award on the low domestic offer (see example in PGI 225.504(3)).
 
-(*2*) If the evaluated price of the low foreign offer remains less than the low domestic offer, award on the low foreign offer (see example in 225.504(4)).
+(*2*) If the evaluated price of the low foreign offer remains less than the low domestic offer, award on the low foreign offer (see example in PGI 225.504(4)).
 
 (iii) If price is not the determining factor, use the following procedures:
 
@@ -40,4 +40,4 @@
 
 (iv) If the solicitation includes the provision at 252.225-7023, Preference for Products or Services from Afghanistan, use the evaluation procedures at 225.7703-3.
 
-[68 FR 15620, Mar. 31, 2003, as amended at 69 FR 1928, Jan. 13, 2004; 69 FR 74992, Dec. 15, 2004; 70 FR 2363, Jan. 13, 2005; 73 FR 53152, Sept. 15, 2008; 75 FR 81916, Dec. 29, 2010; 77 FR 35881, June 15, 2012; 78 FR 59857, Sept. 30, 2013]
+[68 FR 15620, Mar. 31, 2003, as amended at 69 FR 1928, Jan. 13, 2004; 69 FR 74992, Dec. 15, 2004; 70 FR 2363, Jan. 13, 2005; 73 FR 53152, Sept. 15, 2008; 75 FR 81916, Dec. 29, 2010; 77 FR 35881, June 15, 2012; 78 FR 59857, Sept. 30, 2013; 87 FR 37443, June 23, 2022]

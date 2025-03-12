@@ -1,6 +1,6 @@
 ##### § 1130.2 Definitions. #####
 
-Link to an amendment published at 86 FR 33071, June 23, 2021.Link to an amendment published at 87 FR 8673, Feb. 15, 2022.
+Link to an amendment published at 87 FR 8673, Feb. 15, 2022.
 
 In addition to the definitions given in section 3 of the Consumer Product Safety Act (15 U.S.C. 2052), the following definitions apply:
 
@@ -28,7 +28,7 @@ In addition to the definitions given in section 3 of the Consumer Product Safety
 
 (11) Swings;
 
-(12) Bassinets and cradles, including bedside sleepers;
+(12) Bassinets and cradles, including bedside sleepers and infant sleep products;
 
 (13) Children's folding chairs and children's folding stools;
 
@@ -46,4 +46,4 @@ In addition to the definitions given in section 3 of the Consumer Product Safety
 
 (d) *Safety alert* means notice or warning of a potential problem with an individual product or class of products so that consumers and other users of the affected products respond accordingly to reduce or eliminate the potential for injury.
 
-[74 FR 68676, Dec. 29, 2009, as amended at 82 FR 59511, Dec. 15, 2017; 84 FR 49950, Sept. 24, 2019]
+[74 FR 68676, Dec. 29, 2009, as amended at 82 FR 59511, Dec. 15, 2017; 84 FR 49950, Sept. 24, 2019; 87 FR 26658, May 17, 2021; 86 FR 33071, June 23, 2021]

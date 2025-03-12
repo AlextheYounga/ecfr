@@ -1,6 +1,6 @@
 ##### § 1112.15 When can a third party conformity assessment body apply for CPSC acceptance for a particular CPSC rule or test method? #####
 
-Link to an amendment published at 86 FR 33071, June 23, 2021.Link to an amendment published at 87 FR 8673, Feb. 15, 2022.
+Link to an amendment published at 87 FR 8673, Feb. 15, 2022.
 
 (a) Once the CPSC publishes the requirements for accreditation to a particular CPSC rule or test method, a third party conformity assessment body may apply to the CPSC for acceptance to that scope of accreditation. An application may be made for acceptance of accreditation to more than one CPSC rule or test method. Once accepted by the CPSC, a third party conformity assessment body may apply at any time to expand the scope of its acceptance to include additional CPSC rules or test methods. A third party conformity assessment body may only issue test results for purposes of section 14 of the CPSA that fall within a scope for which the CPSC has accepted the third party conformity assessment body's accreditation.
 
@@ -210,7 +210,7 @@ Link to an amendment published at 86 FR 33071, June 23, 2021.Link to an amendmen
 
 (45) 16 CFR part 1235, Safety Standard for Baby Changing Products.
 
-(46) [Reserved]
+(46) 16 CFR part 1236, Safety Standard for Infant Sleep Products.
 
 (47) 16 CFR part 1237, Safety Standard for Booster Seats.
 
