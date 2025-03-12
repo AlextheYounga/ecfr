@@ -1,7 +1,5 @@
 ##### § 307.7 Revolving Loan Fund award requirements. #####
 
-Link to an amendment published at 82 FR 57055, Dec. 1, 2017.
-
 (a) For Eligible Applicants seeking to capitalize or recapitalize an RLF, EDA will review applications for the following, as applicable:
 
 (1) Need for a new or expanded public financing tool to:
@@ -14,10 +12,10 @@ Link to an amendment published at 82 FR 57055, Dec. 1, 2017.
 
 (3) Capacity of the RLF organization to manage lending activities, create networks between the business community and other financial providers, and implement the CEDS.
 
-(b) RLF Grants shall comply with the requirements set forth in this part and in the following publications:
+(b) RLF Grants shall comply with the requirements set forth in this part, as well as relevant provisions of parts 300 through 303, 305, and 314 of this chapter and in the following publications:
 
 (1) EDA's RLF Standard Terms and Conditions; and
 
-(2) The Compliance Supplement to OMB Circular A-133. The Compliance Supplement is available via the Internet at *http://www.omb.gov.*
+(2) The Compliance Supplement, which is appendix XI to 2 CFR part 200 and is available on the OMB Web site at *https://www.whitehouse.gov/omb/circulars\_default.*
 
-[79 FR 76133, Dec. 19, 2014]
+[79 FR 76133, Dec. 19, 2014, as amended at 82 FR 57055, Dec. 1, 2017]

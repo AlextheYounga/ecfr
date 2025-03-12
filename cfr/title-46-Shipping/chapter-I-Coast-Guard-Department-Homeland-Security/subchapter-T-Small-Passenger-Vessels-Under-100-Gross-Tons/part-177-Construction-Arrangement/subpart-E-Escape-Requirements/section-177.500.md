@@ -1,5 +1,7 @@
 ##### § 177.500 Means of escape. #####
 
+Link to an amendment published at 86 FR 73172, Dec. 27, 2021.
+
 (a) Except as otherwise provided in this section, each space accessible to passengers or used by the crew on a regular basis, must have at least two means of escape, one of which must not be a watertight door.
 
 (b) The two required means of escape must be widely separated and, if possible, at opposite ends or sides of the space to minimize the possibility of one incident blocking both escapes.

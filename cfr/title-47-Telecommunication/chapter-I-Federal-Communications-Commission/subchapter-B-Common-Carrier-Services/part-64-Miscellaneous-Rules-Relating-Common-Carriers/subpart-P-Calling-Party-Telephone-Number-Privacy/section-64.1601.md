@@ -1,7 +1,5 @@
 ##### § 64.1601 Delivery requirements and privacy restrictions. #####
 
-Link to an amendment published at 82 FR 56917, December 1, 2017.
-
 (a) *Delivery.* Except as provided in paragraphs (d) and (e) of this section:
 
 (1) Telecommunications carriers and providers of interconnected Voice over Internet Protocol (VoIP) services, in originating interstate or intrastate traffic on the public switched telephone network (PSTN) or originating interstate or intrastate traffic that is destined for the PSTN (collectively “PSTN Traffic”), are required to transmit for all PSTN Traffic the telephone number received from or assigned to or otherwise associated with the calling party to the next provider in the path from the originating provider to the terminating provider. This provision applies regardless of the voice call signaling and transmission technology used by the carrier or VoIP provider. Entities subject to this provision that use Signaling System 7 (SS7) are required to transmit the calling party number (CPN) associated with all PSTN Traffic in the SS7 ISUP (ISDN User Part) CPN field to interconnecting providers, and are required to transmit the calling party's charge number (CN) in the SS7 ISUP CN field to interconnecting providers for any PSTN Traffic where CN differs from CPN. Entities subject to this provision who use multi-frequency (MF) signaling are required to transmit CPN, or CN if it differs from CPN, associated with all PSTN Traffic in the MF signaling automatic numbering information (ANI) field.
@@ -28,7 +26,7 @@ Link to an amendment published at 82 FR 56917, December 1, 2017.
 
 (i) Is used solely in connection with calls within the same limited system, including (but not limited to) a Centrex system, virtual private network, or Private Branch Exchange;
 
-(ii) Is used on a public agency's emergency telephone line or in conjunction with 911 emergency services, or on any entity's emergency assistance poison control telephone line; or
+(ii) Is used on a public agency's emergency telephone line or in conjunction with 911 emergency services, on a telephone line to contact non-public emergency services licensed by the state or municipality, or on any entity's emergency assistance poison control telephone line; or
 
 (iii) Is provided in connection with legally authorized call tracing or trapping procedures specifically requested by a law enforcement agency.
 
@@ -40,4 +38,20 @@ Link to an amendment published at 82 FR 56917, December 1, 2017.
 
 (3) Tax-exempt nonprofit organizations are not required to comply with this paragraph.
 
-[60 FR 29490, June 5, 1995; 60 FR 54449, Oct. 24, 1995, as amended at 62 FR 34015, June 24, 1997; 68 FR 44179, July 25, 2003; 71 FR 75122, Dec. 14, 2006; 76 FR 73882, Nov. 29, 2011]
+(f) Paragraph (b) of this section shall not apply when CPN delivery is made in connection with a threatening call. Upon report of such a threatening call by law enforcement on behalf of the threatened party, the carrier will provide any CPN of the calling party to law enforcement and, as directed by law enforcement, to security personnel for the called party for the purpose of identifying the party responsible for the threatening call.
+
+(g) For law enforcement or security personnel of the called party investigating the threat:
+
+(1) The CPN on incoming restricted calls may not be passed on to the line called;
+
+(2) Any system used to record CPN must be operated in a secure way, limiting access to designated telecommunications and security personnel, as directed by law enforcement;
+
+(3) Telecommunications and security personnel, as directed by law enforcement, may access restricted CPN data only when investigating phone calls of a threatening and serious nature, and shall document that access as part of the investigative report;
+
+(4) Carriers transmitting restricted CPN information must take reasonable measures to ensure security of such communications;
+
+(5) CPN information must be destroyed in a secure manner after a reasonable retention period; and
+
+(6) Any violation of these conditions must be reported promptly to the Commission.
+
+[60 FR 29490, June 5, 1995; 60 FR 54449, Oct. 24, 1995, as amended at 62 FR 34015, June 24, 1997; 68 FR 44179, July 25, 2003; 71 FR 75122, Dec. 14, 2006; 76 FR 73882, Nov. 29, 2011; 82 FR 56917, Dec. 1, 2017]Effective Date Note:At 82 FR 56917, Dec. 1, 2017, § 64.1601 was amended by revising paragraphs (d)(4)(ii) and adding paragraph (f). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

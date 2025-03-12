@@ -1,7 +1,5 @@
 ##### § 300.3 Definitions. #####
 
-Link to an amendment published at 82 FR 57052, Dec. 1, 2017.
-
 As used in this chapter, the following terms shall have the following meanings:
 
 *Assistant Secretary* means the Assistant Secretary for Economic Development within the Department.
@@ -9,6 +7,8 @@ As used in this chapter, the following terms shall have the following meanings:
 *Comprehensive Economic Development Strategy* or *CEDS* means a strategy that meets the requirements of § 303.7 of this chapter.
 
 *Cooperative Agreement* means the financial assistance award of EDA funds to an Eligible Recipient where substantial involvement is expected between EDA and the Eligible Recipient in carrying out a purpose or activity authorized under PWEDA or another statute. *See* 31 U.S.C. 6305.
+
+*Co-Recipient* means one of multiple Recipients awarded Investment Assistance under a single award. Unless otherwise provided in the terms and conditions of the Investment Assistance, each Co-Recipient is jointly and severally liable for fulfilling the terms of the Investment Assistance.
 
 *Department* means the U.S. Department of Commerce.
 
@@ -46,7 +46,7 @@ As used in this chapter, the following terms shall have the following meanings:
 
 *Immediate Family* means a person's spouse (or domestic partner or significant other), parents, grandparents, siblings, children and grandchildren, but does not include distant relatives, such as cousins, unless the distant relative lives in the same household as the person.
 
-*In-Kind Contribution(s)* means non-cash contributions, which may include contributions of space, equipment, services and assumptions of debt that are fairly evaluated by EDA and that satisfy applicable Federal cost principles and the requirements of 15 CFR parts 14 or 24, as applicable.
+*In-Kind Contribution(s)* means non-cash contributions, which may include contributions of space, equipment, services and assumptions of debt that are fairly evaluated by EDA and that satisfy applicable Federal uniform administrative requirements and cost principles as set out in 2 CFR part 200.
 
 *Indian Tribe* means an entity on the list of recognized tribes published pursuant to the Federally Recognized Indian Tribe List Act of 1994, as amended (Pub. L. 103-454) (25 U.S.C. 479a *et seq.*), and any Alaska Native Village or Regional Corporation (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 *et seq.*). This term includes the governing body of an Indian Tribe, non-profit Indian corporation (restricted to Indians), Indian authority, or other non-profit Indian tribal organization or entity; provided that the Indian tribal organization or entity is wholly owned by, and established for the benefit of, the Indian Tribe or Alaska Native Village.
 
@@ -60,7 +60,7 @@ As used in this chapter, the following terms shall have the following meanings:
 
 *Presidentially Declared Disaster* means a major disaster or emergency declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act, as amended (42 U.S.C. 5121 *et seq.*).
 
-*Project* means the proposed or authorized activity (or activities) the purpose of which fulfills EDA's mission and program requirements as set forth in PWEDA and this chapter and which may be funded in whole or in part by EDA Investment Assistance.
+*Project* means the proposed or authorized activity (or activities) the purpose of which fulfills EDA's mission and program requirements as set forth in PWEDA or Stevenson-Wydler and this chapter and which may be funded in whole or in part by EDA Investment Assistance.
 
 *PWEDA* means the Public Works and Economic Development Act of 1965, as amended (42 U.S.C. 3121 *et seq.*).
 
@@ -110,8 +110,12 @@ As used in this chapter, the following terms shall have the following meanings:
 
 *State* means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the U.S. Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
+*Stevenson-Wydler,* for purposes of EDA, means the Stevenson-Wydler Technology Innovation Act of 1980, as amended (15 U.S.C. 3701 *et seq.*).
+
+*Subrecipient* means an Eligible Recipient that receives a redistribution of Investment Assistance in the form of a subgrant, under part 309 of this chapter, from another Eligible Recipient to carry out part of a Federal program.
+
 *Trade Act,* for purposes of EDA, means title II, chapters 3, 4 and 5, of the Trade Act of 1974, as amended (19 U.S.C. 2341 *et seq.*).
 
 *United States* means all of the States.
 
-[71 FR 56675, Sept. 27, 2006, as amended at 73 FR 62865, Oct. 22, 2008; 79 FR 76123, Dec. 19, 2014]
+[71 FR 56675, Sept. 27, 2006, as amended at 73 FR 62865, Oct. 22, 2008; 79 FR 76123, Dec. 19, 2014; 82 FR 57052, Dec. 1, 2017]

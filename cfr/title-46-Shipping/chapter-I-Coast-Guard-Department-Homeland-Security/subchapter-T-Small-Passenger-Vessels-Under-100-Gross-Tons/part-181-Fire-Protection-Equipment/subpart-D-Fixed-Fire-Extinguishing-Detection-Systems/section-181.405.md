@@ -1,5 +1,7 @@
 ##### § 181.405 Spaces required to have fire detection systems. #####
 
+Link to an amendment published at 86 FR 73172, Dec. 27, 2021.
+
 (a) The following spaces must be equipped with a fire detection and alarm system of an approved type installed in accordance with 46 CFR part 76, except when a fixed-gas fire extinguishing system that is capable of automatic discharge upon heat detection is installed or when the space is manned:
 
 (1) A space containing propulsion machinery.

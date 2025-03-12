@@ -1,0 +1,3 @@
+##### § 641.230 Must the individual assessment conducted by the SCSEP grantee or sub-recipient and the assessment performed by the One-Stop delivery system be accepted for use by either entity to determine the individual's need for services in the SCSEP and adult programs under title I, subtitle B of WIOA? #####
+
+Yes, sec. 502(b)(3) of the OAA provides that an assessment or IEP completed by the SCSEP satisfies any condition for an assessment, service strategy, or IEP completed at the One-Stop and vice-versa. (OAA sec. 502(b)(3).) These reciprocal arrangements and the contents of the SCSEP IEP and WIOA IEP should be negotiated in the MOU.

@@ -1,39 +1,31 @@
-##### § 307.20 Partial liquidation; liquidation upon termination. #####
+##### § 307.20 Noncompliance. #####
 
-Link to an amendment published at 82 FR 57058, Dec. 1, 2017.
+EDA will take appropriate compliance actions as detailed in § 307.21 for the RLF Recipient's failure to operate the RLF in accordance with the RLF Plan, the terms and conditions of the RLF Grant, or this subpart, including but not limited to:
 
-(a) *Partial liquidation or disallowance of a portion of an RLF Grant.* If the RLF Recipient engages in certain problematic practices, EDA may disallow a corresponding proportion of the Grant or direct the RLF Recipient to transfer loans to an RLF Third Party for liquidation. Problematic practices for which EDA may disallow a portion of an RLF Grant and recover the pro-rata Federal Share (as defined in § 314.5 of this chapter) include the RLF Recipient:
+(a) Failing to obtain prior EDA approval for material changes to the RLF Plan, including provisions for administering the RLF;
 
-(1) Having RLF loans that are more than 120 days delinquent;
+(b) Failing to submit an updated RLF Plan to EDA in accordance with § 307.9(c);
 
-(2) Having excess cash sequestered for 12 months or longer and EDA has not approved an extension request;
+(c) Failing to submit timely progress, financial, and audit reports in the format required by the RLF Grant and § 307.14, including the Form ED-209 RLF report;
 
-(3) Making an ineligible loan;
+(d) Failing to manage the RLF Grant in accordance with Prudent Lending Practices, as defined in § 307.8;
 
-(4) Failing to disburse the EDA funds in accordance with the time schedule prescribed in the RLF Grant; or
+(e) Holding RLF Cash Available for Lending so that it is 50 percent or more of the RLF Capital Base for 24 months without an EDA-approved extension request based on other EDA risk analysis factors or other extenuating circumstances;
 
-(5) Determining that it does not wish to further invest in the RLF or cannot maintain operations at the degree originally contemplated upon receipt of the RLF Grant and requests that a portion of the RLF Grant be disallowed, and EDA agrees to allow the disallowance.
+(f) Making an ineligible loan;
 
-(b) *Liquidation upon termination.* When EDA approves the termination of an RLF Grant, EDA may assign or transfer assets of the RLF to an RLF Third Party for liquidation.
+(g) Failing to disburse the EDA funds in accordance with the time schedule prescribed in the RLF Grant;
 
-(c) *Terms.* The following terms will govern any liquidation:
+(h) Failing to sequester funds or remit the interest on EDA's portion of the sequestered funds to the U.S. Treasury, as directed by EDA;
 
-(1) EDA shall have sole discretion in choosing the RLF Third Party;
+(i) Failing to comply with the audit requirements set forth in subpart F to 2 CFR part 200 and the related Compliance Supplement, including reference to the correctly valued EDA RLF Federal expenditures in the SEFA, timely submission of audit reports to the Federal Audit Clearinghouse, and the inclusion of the RLF program as an appropriately audited program;
 
-(2) The RLF Third Party may be an Eligible Applicant or a for-profit organization not otherwise eligible for Investment Assistance;
+(j) Failing to implement timely resolutions to audit findings or questioned costs contained in the annual audit, as applicable;
 
-(3) EDA may enter into an agreement with the RLF Third Party to liquidate the assets of one or more RLFs or RLF Recipients;
+(k) Failing to comply with an EDA-approved corrective action plan to remedy persistent noncompliance with RLF-related findings;
 
-(4) EDA may allow the RLF Third Party to retain a portion of the RLF assets, consistent with the agreement referenced in paragraph (c)(3) of this section, as reasonable compensation for services rendered in the liquidation; and
+(l) Failing to comply with the conflicts of interest provisions set forth in § 302.17; and
 
-(5) EDA may require additional reasonable terms and conditions.
+(m) Making unauthorized use of RLF Cash Available for Lending in violation of § 307.18(c).
 
-(d) *Distribution of proceeds.* The proceeds resulting from any liquidation upon termination shall be distributed in the following order of priority:
-
-(1) *First,* for any third party liquidation costs;
-
-(2) *Second*, for the payment of EDA's Federal Share; and
-
-(3) *Third,* if any proceeds remain, to the RLF Recipient.
-
-[71 FR 56675, Sept. 27, 2006, as amended at 73 FR 62869, Oct. 22, 2008; 79 FR 76135, Dec. 19, 2014]
+[82 FR 57058, Dec. 1, 2017]

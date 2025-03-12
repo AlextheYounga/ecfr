@@ -1,16 +1,14 @@
 ##### § 641.535 What services must grantees and sub-recipients provide to participants? #####
 
-Link to an amendment published at 82 FR 56883, Dec. 1, 2017.
-
 (a) When individuals are selected for participation in the SCSEP, the grantee or sub-recipient is responsible for:
 
 (1) Providing orientation to the SCSEP, including information on project goals and objectives, community service assignments, training opportunities, available supportive services, the availability of a free physical examination, participant rights and responsibilities, and permitted and prohibited political activities;
 
 (2)(i) Assessing participants' work history, skills and interests, talents, physical capabilities, aptitudes, needs for supportive services, occupational preferences, training needs, potential for performing community service assignments, and potential for transition to unsubsidized employment;
 
-(ii) Performing an initial assessment upon program entry, unless an assessment has already been performed under title I of WIA as provided in § 641.230. Subsequent assessments may be made as necessary, but must be made no less frequently than two times during a twelve month period (including the initial assessment);
+(ii) Performing an initial assessment upon program entry, unless an assessment has already been performed under title I of WIOA as provided in § 641.230. Subsequent assessments may be made as necessary, but must be made no less frequently than two times during a 12-month period (including the initial assessment);
 
-(3)(i) Using the information gathered during the initial assessment to develop an IEP that includes an appropriate employment goal for each participant, except that if an assessment has already been performed and an IEP developed under title I of WIA, the WIA assessment and IEP will satisfy the requirement for a SCSEP assessment and IEP as provided in § 641.230;
+(3)(i) Using the information gathered during the initial assessment to develop an IEP that includes an appropriate employment goal for each participant, except that if an assessment has already been performed and an IEP developed under title I of WIOA, the WIOA assessment and IEP will satisfy the requirement for a SCSEP assessment and IEP as provided in § 641.230;
 
 (ii) Updating the IEP as necessary to reflect information gathered during the subsequent participant assessments (OAA § 502(b)(1)(N));
 
@@ -22,7 +20,7 @@ Link to an amendment published at 82 FR 56883, Dec. 1, 2017.
 
 (6) Assisting participants in obtaining needed supportive services identified in their IEPs (OAA § 502(b)(1)(N));
 
-(7) Providing appropriate services for participants, or referring participants to appropriate services, through the One-Stop delivery system established under WIA (OAA § 502(b)(1)(O));
+(7) Providing appropriate services for participants, or referring participants to appropriate services, through the One-Stop delivery system established under WIOA (OAA sec. 502(b)(1)(O));
 
 (8) Providing counseling on participants' progress in meeting the goals and objectives identified in their IEPs, and in meeting their supportive service needs (OAA § 502(b)(1)(N)(iii));
 
@@ -35,3 +33,5 @@ Link to an amendment published at 82 FR 56883, Dec. 1, 2017.
 (b) The Department may issue administrative guidance that clarifies the requirements of paragraph (a).
 
 (c) Grantees may not use SCSEP funds for job ready individuals who only need job search assistance or job referral services. Grantees may provide job search assistance and job club activities to participants who are enrolled in the SCSEP and are assigned to community service assignments. (See also § 641.512).
+
+[75 FR 53812, Sept. 1, 2010, as amended at 82 FR 56883, Dec. 1, 2017]

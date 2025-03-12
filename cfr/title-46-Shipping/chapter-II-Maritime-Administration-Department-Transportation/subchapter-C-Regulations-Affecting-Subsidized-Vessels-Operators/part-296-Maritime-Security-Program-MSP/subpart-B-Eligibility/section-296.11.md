@@ -1,8 +1,6 @@
 ##### § 296.11 Vessel requirements. #####
 
-Link to an amendment published at 82 FR 56897, Dec. 1, 2017.
-
-(a) *Eligible Vessel.* A vessel is eligible to be included in an MSP Operating Agreement if:
+(a) *Eligible vessel.* A vessel is eligible to be included in an MSP Operating Agreement if:
 
 (1) The vessel is:
 
@@ -12,17 +10,11 @@ Link to an amendment published at 82 FR 56897, Dec. 1, 2017.
 
 (2) The vessel is operated or, in the case of a vessel to be purchased or constructed, will be operated to provide transportation in the foreign commerce;
 
-(3) The vessel is self-propelled and is:
+(3) The vessel is self-propelled and—
 
-(i) A Roll-on/Roll-off vessel with a carrying capacity of at least 80,000 square feet or 500 twenty-foot equivalent units and is 15 years of age or less on the date the vessel is included in the MSP;
+(i) Is a tank vessel that is 10 years of age or less on the date the vessel is included in the Fleet; or
 
-(ii) A tank vessel that is constructed in the United States after November 24, 2003;
-
-(iii) A tank vessel that is 10 years of age or less on the date the vessel is included in the MSP Fleet;
-
-(iv) A LASH vessel that is 25 years of age or less on the date the vessel is included in the MSP fleet; or
-
-(v) Any other type of vessel that is 15 years of age or less on the date the vessel is included in the MSP fleet;
+(ii) Is any other type of vessel that is 15 years of age or less on the date the vessel is included in the Fleet;
 
 (4) The vessel is:
 
@@ -40,7 +32,7 @@ Link to an amendment published at 82 FR 56897, Dec. 1, 2017.
 
 (B) [Reserved]
 
-(b) *Waiver of Age Restriction of Vessels.* The SecDef, in conjunction with the Secretary, may waive the age restriction in paragraph (a) of this section if the Secretaries jointly determine that the waiver:
+(b) *Waiver of age restriction of vessels.* The SecDef, in conjunction with the Secretary, may waive the age restriction in paragraph (a) of this section if the Secretaries jointly determine that the waiver:
 
 (1) Is in the national interest;
 
@@ -48,7 +40,7 @@ Link to an amendment published at 82 FR 56897, Dec. 1, 2017.
 
 (3) Is necessary due to the lack of availability of other vessels and operators that comply with the requirements of the MSA 2003.
 
-(c) *Telecommunications and Other Electronic Equipment.* The telecommunications and other electronic equipment on an existing vessel that is redocumented under the laws of the United States for operation under an MSP Operating Agreement shall be deemed to satisfy all Federal Communications Commission equipment certification requirements, if
+(c) *Telecommunications and other electronic equipment.* The telecommunications and other electronic equipment on an existing vessel that is redocumented under the laws of the United States for operation under an MSP Operating Agreement shall be deemed to satisfy all Federal Communications Commission equipment certification requirements, if
 
 (1) Such equipment complies with all applicable international agreements and associated guidelines as determined by the country in which the vessel was documented immediately before becoming documented under the laws of the United States;
 
@@ -56,4 +48,4 @@ Link to an amendment published at 82 FR 56897, Dec. 1, 2017.
 
 (3) At the end of its useful life, such equipment will be replaced with equipment that meets Federal Communications Commission equipment certification standards (*see* 47 CFR Chapter I).
 
-[70 FR 55588, Sept. 22, 2005; 70 FR 59400, Oct. 12, 2005]
+[70 FR 55588, Sept. 22, 2005; 70 FR 59400, Oct. 12, 2005; 82 FR 56897, Dec. 1, 2017]

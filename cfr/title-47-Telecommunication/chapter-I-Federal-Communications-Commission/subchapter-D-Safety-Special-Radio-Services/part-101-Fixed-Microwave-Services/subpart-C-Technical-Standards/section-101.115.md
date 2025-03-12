@@ -1,5 +1,7 @@
 ##### § 101.115 Directional antennas. #####
 
+Link to an amendment published at 82 FR 65, Jan. 2, 2018.
+
 (a) Unless otherwise authorized upon specific request by the applicant, each station authorized under the rules of this part must employ a directional antenna adjusted with the center of the major lobe of radiation in the horizontal plane directed toward the receiving station with which it communicates: *provided, however,* where a station communicates with more than one point, a multi- or omni-directional antenna may be authorized if necessary. New Periscope antenna systems will not, under ordinary circumstances, be authorized.
 
 (b) Fixed stations (other than temporary fixed stations and DEMS nodal stations) operating at 932.5 MHz or higher must employ transmitting and receiving antennas (excluding second receiving antennas for operations such as space diversity) meeting the appropriate performance Standard A indicated below, except that in areas not subject to frequency congestion, antennas meeting performance Standard B may be used, subject to the requirements set forth in paragraph (d) of this section. For frequencies with a Standard B1 and a Standard B2, in order to comply with Standard B an antenna must fully meet either Standard B1 or Standard B2. Licensees shall comply with the antenna standards table shown in this paragraph in the following manner:

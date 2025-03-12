@@ -1,5 +1,7 @@
 ##### § 175.400 Definitions of terms used in this subchapter. #####
 
+Link to an amendment published at 86 FR 73172, Dec. 27, 2021.
+
 The following terms are used in this subchapter:
 
 *Accommodation space* means a space (including a space that contains a microwave oven or other low heat appliance with a maximum heating element temperature of less than 121 °C (250 °F)) used as a:

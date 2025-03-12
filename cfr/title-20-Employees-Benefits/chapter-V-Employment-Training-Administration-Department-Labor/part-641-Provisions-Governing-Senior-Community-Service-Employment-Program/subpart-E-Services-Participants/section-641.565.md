@@ -1,16 +1,14 @@
 ##### § 641.565 What policies govern the provision of wages and benefits to participants? #####
 
-Link to an amendment published at 82 FR 56883, Dec. 1, 2017.
-
 (a) *Wages.* (1)(i) Grantees and sub-recipients must pay participants the highest applicable required wage for time spent in orientation, training, and community service assignments.
 
-(ii) SCSEP participants may be paid the highest applicable required wage while receiving WIA intensive services.
+(ii) SCSEP participants may be paid the highest applicable required wage while receiving WIOA career services.
 
 (2) The highest applicable required wage is either the minimum wage applicable under the Fair Labor Standards Act of 1938; the State or local minimum wage for the most nearly comparable covered employment; or the prevailing rate of pay for persons employed in similar public occupations by the same employer.
 
 (3) Grantees and sub-recipients must make any adjustments to minimum wage rates payable to participants as may be required by Federal, State, or local statute during the grant term.
 
-(b) *Benefits* - (1) *Required benefits.* Except as provided in paragraph (b)(2) of this section, grantees and sub-recipients must ensure that participants receive such benefits as are required by law.
+(b) *Benefits*—(1) *Required benefits.* Except as provided in paragraph (b)(2) of this section, grantees and sub-recipients must ensure that participants receive such benefits as are required by law.
 
 (i) Grantees and sub-recipients must provide benefits uniformly to all participants within a project or subproject, unless the Department agrees to waive this provision due to a determination that such a waiver is in the best interests of applicants, participants, and project administration.
 
@@ -43,3 +41,5 @@ Link to an amendment published at 82 FR 56883, Dec. 1, 2017.
 (C) Accumulated sick leave.
 
 (D) Bonuses. (OAA § 502(c)(6)(A)(i)).
+
+[75 FR 53812, Sept. 1, 2010, as amended at 82 FR 56883, Dec. 1, 2017]

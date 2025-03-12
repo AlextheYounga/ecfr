@@ -75,8 +75,7 @@ Herring GB Haddock Accountability Measure Area
 <sup>7</sup> The intersection of the north-facing shoreline of Cape Cod, MA, and 70° 00′ W. long.
 
 (*4*) The haddock incidental catch caps specified are for the NE multispecies fishing year (May 1-April 30), which differs from the herring fishing year (January 1-December 31). If the haddock incidental catch allowance is attained by the herring midwater trawl fishery for the GOM or GB, as specified in § 648.90(a)(4)(iii)(D), the 2,000-lb (907.2-kg) limit on herring possession in the applicable AM Area, as described in paragraph (a)(3)(ii)(A)(*2*) or (*3*) of this section, shall be in effect until the end of the NE multispecies fishing year. For example, the 2011 haddock incidental catch cap is specified for the period May 1, 2011-April 30, 2012, and the 2012 haddock catch cap would be specified for the period May 1, 2012-April 30, 2013. If the catch of haddock by herring midwater trawl vessels reached the 2011 incidental catch cap at any time prior to the end of the NE multispecies fishing year (April 30, 2012), the 2,000-lb (907.2-kg) limit on possession of herring in the applicable AM Area would extend through April 30, 2012. Beginning May 1, 2012, the 2012 catch cap would go into effect.
-
-(B) [Reserved]
+erved]
 
 (b) *Cod* - (1) *GOM cod landing limit.* Except as provided in paragraph (b)(4) of this section, or unless otherwise restricted under § 648.85, a vessel fishing under a NE multispecies DAS permit, including a vessel issued a monkfish limited access permit and fishing under the monkfish Category C or D permit provisions, may land up to 800 lb (362.9 kg) of cod for each DAS, or part of a DAS, up to 4,000 lb (1,818.2 kg) per trip. Cod on board a vessel subject to this landing limit must be separated from other species of fish and stored so as to be readily available for inspection.
 

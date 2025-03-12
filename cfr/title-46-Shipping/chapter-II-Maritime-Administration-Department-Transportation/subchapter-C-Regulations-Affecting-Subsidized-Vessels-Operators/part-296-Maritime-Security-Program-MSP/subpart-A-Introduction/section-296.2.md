@@ -1,7 +1,5 @@
 ##### § 296.2 Definitions. #####
 
-Link to an amendment published at 82 FR 56897, Dec. 1, 2017.
-
 For the purposes of this part:
 
 *Act* means the Merchant Marine Act, 1936, as amended (46 App. U.S.C. 1101 *et seq.*).
@@ -40,17 +38,11 @@ For the purposes of this part:
 
 *Fiscal Year* means any annual period beginning on October 1 and ending on September 30.
 
-*Foreign Commerce* means:
-
-(1) For any vessel other than a liquid or a dry bulk carrier, a cargo freight service, including direct and relay service, operated exclusively in the foreign trade or in mixed foreign and domestic trade allowed under a registry endorsement under section 12105 of title 46, United States Code, where the origination point or the destination point of any cargo carried is the United States, regardless of whether the vessel provides direct service between the United States and a foreign country, or commerce or trade between foreign countries; and
-
-(2) For liquid and dry bulk cargo carrying services, includes trading between ports in the United States and foreign ports or trading between foreign ports in accordance with normal commercial bulk shipping practices in such manner as will permit United States-documented vessels to freely compete with foreign-flag bulk carrying vessels in their operation or in competing for charters.
-
-*LASH Vessel* means a lighter aboard ship vessel.
+*Foreign Commerce* means a cargo freight service, including direct and relay service, operated exclusively in the foreign trade or in mixed foreign and domestic trade allowed under a registry endorsement under 46 U.S.C. 12111 where the origination point or the destination point of any cargo carried is the United States, regardless of whether the vessel provides direct service between the United States and a foreign country, or commerce or trade between foreign countries.
 
 *Militarily Useful* is defined, in terms of minimum military capabilities, according to DOD Joint Strategic Planning Capabilities Plan (JSCAP) guidance.
 
-*MSA 2003* means the Maritime Security Act of 2003.
+*MSA 2003* means the Maritime Security Act of 2003, as amended.
 
 *MSP Fleet* means the fleet of vessels established under section 53102(a) of the MSA 2003 and operated under MSP Operating Agreements.
 
@@ -66,15 +58,15 @@ For the purposes of this part:
 
 *Owner* means an entity that has title and/or beneficial ownership of a vessel. Only an owner that is a person is eligible to enter into an MSP Operating Agreement.
 
-*Participating Fleet Vessel* means any vessel that:
+*Participating Fleet Vessel* means a vessel that—
 
-(1) On October 1, 2005 -
+(1) On October 1, 2015—
 
-(i) Meets the citizenship requirements of paragraph (1), (2), (3), or (4) of section 53102(c) of the MSA 2003;
+(i) Meets the requirements of paragraph (1), (2), (3), or (4) of section 53102(c) of the MSA; and
 
-(ii) Is less than 25 years of age, or is less than 30 years of age in the case of a LASH vessel; and
+(ii) Is less than 20 years of age if the vessel is a tank vessel, or is less than 25 years of age for all other vessel types; and
 
-(2) On December 31, 2004, is covered by an MSP Operating Agreement.
+(2) on December 31, 2014, is covered by an MSP Operating Agreement under 46 U.S.C. chapter 531.
 
 *Person* includes corporations, limited liability companies, partnerships, and associations existing under or authorized by the laws of the United States, or any State, Territory, District, or possession thereof, or of any foreign country. For purposes of holding an MSP Operating Agreement, the term “person” excludes a trust.
 
@@ -82,7 +74,7 @@ For the purposes of this part:
 
 *SecDef* means Secretary of Defense acting through the Commander USTRANSCOM.
 
-*Section 2 Citizen* means a United States citizen within the meaning of section 2 of the Shipping Act, 1916, 46 U.S.C. 802, without regard to any statute that “deems” a vessel to be owned and operated by a Section 2 Citizen.
+*Section 2 Citizen* means a United States citizen within the meaning of 46 U.S.C. 50501, without regard to any statute that “deems” a vessel to be owned and operated by a United States citizen within the meaning of 46 U.S.C. 50501.
 
 *Secretary* means the Secretary of Transportation acting through the Maritime Administrator.
 
@@ -107,3 +99,5 @@ For the purposes of this part:
 (4) This definition shall not be considered to prohibit a person who is not a Section 2 Citizen from holding more than 25 percent of the beneficial interest in a trust.
 
 *United States Documented Vessel* means a vessel documented under 46 U.S.C. chapter 121.
+
+[70 FR 55588, Sept. 22, 2005, as amended at 82 FR 56897, Dec. 1, 2017]

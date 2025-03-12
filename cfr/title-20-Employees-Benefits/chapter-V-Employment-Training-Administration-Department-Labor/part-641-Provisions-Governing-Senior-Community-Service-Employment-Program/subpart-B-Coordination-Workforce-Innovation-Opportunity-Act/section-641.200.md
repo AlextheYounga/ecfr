@@ -1,0 +1,3 @@
+##### § 641.200 What is the relationship between the SCSEP and the Workforce Innovation and Opportunity Act? #####
+
+The SCSEP is a required partner under the Workforce Innovation and Opportunity Act. As such, it is a part of the One-Stop delivery system. When acting in their capacity as WIOA partners, SCSEP grantees and sub-recipients are required to follow all applicable rules under WIOA and its regulations. *See* WIOA sec. 121(b)(1)(B)(v) and 20 CFR 678.400 through 678.440.

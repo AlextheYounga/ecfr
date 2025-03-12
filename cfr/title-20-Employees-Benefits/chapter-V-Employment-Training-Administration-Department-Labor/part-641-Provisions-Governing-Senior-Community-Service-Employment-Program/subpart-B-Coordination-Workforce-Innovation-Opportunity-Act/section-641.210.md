@@ -1,0 +1,3 @@
+##### § 641.210 What services, in addition to the applicable career services, must SCSEP grantees and sub-recipients provide through the One-Stop delivery system? #####
+
+In addition to providing career services, as defined at 20 CFR 678.430, SCSEP grantees and sub-recipients must make arrangements through the One-Stop delivery system to provide eligible and ineligible individuals with referrals to WIOA career and training services and access to other activities and programs carried out by other One-Stop partners.

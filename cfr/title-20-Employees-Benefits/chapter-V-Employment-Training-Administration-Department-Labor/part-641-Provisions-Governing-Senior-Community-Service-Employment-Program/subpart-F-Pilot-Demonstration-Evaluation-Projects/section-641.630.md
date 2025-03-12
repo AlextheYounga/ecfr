@@ -1,6 +1,4 @@
-##### § 641.630 What pilot, demonstration, and evaluation project activities are allowable under § 502(e)? #####
-
-Link to an amendment published at 82 FR 56884, Dec. 1, 2017.
+##### § 641.630 What pilot, demonstration, and evaluation project activities are allowable under the Older Americans Act? #####
 
 Allowable pilot, demonstration and evaluation projects include:
 
@@ -10,7 +8,7 @@ Allowable pilot, demonstration and evaluation projects include:
 
 (1) Attract more eligible individuals into the labor force;
 
-(2) Improve the provision of services to eligible individuals under One-Stop delivery systems established under title I of WIA;
+(2) Improve the provision of services to eligible individuals under One-Stop delivery systems established under title I of WIOA;
 
 (3) Enhance the technological skills of eligible individuals; and
 
@@ -23,3 +21,5 @@ Allowable pilot, demonstration and evaluation projects include:
 (e) Dissemination of best practices relating to employment of eligible individuals; and
 
 (f) Evaluation of SCSEP activities.
+
+[75 FR 53812, Sept. 1, 2010, as amended at 82 FR 56884, Dec. 1, 2017]

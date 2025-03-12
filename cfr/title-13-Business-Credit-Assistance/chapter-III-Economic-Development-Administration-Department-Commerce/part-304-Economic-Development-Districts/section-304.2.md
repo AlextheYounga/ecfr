@@ -1,7 +1,5 @@
 ##### § 304.2 District Organizations: Formation, organizational requirements and operations. #####
 
-Link to an amendment published at 82 FR 57054, Dec. 1, 2017.
-
 (a) *General.* A “*District Organization*” is an entity that satisfies the formation and organizational requirements under paragraphs (b) and (c) of this section.
 
 (b) *Formation.* A District Organization must be organized as one of the following:
@@ -14,7 +12,7 @@ Link to an amendment published at 82 FR 57054, Dec. 1, 2017.
 
 (c) *Organization and governance.* (1) Each District Organization must meet the requirements of this paragraph (c) concerning membership composition, the maintenance of adequate staff support to perform its economic development functions, and its authorities and responsibilities for carrying out economic development functions. The District Organization's board of directors (or other governing body) also must meet these requirements.
 
-(2) The District Organization must demonstrate that its governing body is broadly representative of the principal economic interests of the Region, including the private sector, public officials, community leaders, representatives of workforce development boards, institutions of higher education, minority and labor groups, and private individuals. In addition, the governing body must demonstrate the capacity to implement the EDA-approved CEDS.
+(2) The District Organization must demonstrate that its governing body is broadly representative of the principal economic interests of the Region, which may include the private sector, public officials, community leaders, representatives of workforce development boards, institutions of higher education, minority and labor groups, and private individuals. In addition, the governing body must demonstrate the capacity to implement the EDA-approved CEDS.
 
 (3) The District Organization must be assisted by a professional staff drawn from qualified persons in economic development, planning, business development or related disciplines.
 
@@ -40,4 +38,4 @@ Link to an amendment published at 82 FR 57054, Dec. 1, 2017.
 
 (2) The District Organization may at its option contract for services to accomplish the activities listed in paragraphs (d)(1)(i) through (iii) of this section.
 
-[71 FR 56675, Sept. 27, 2006, as amended at 79 FR 76131, Dec. 19, 2014]
+[71 FR 56675, Sept. 27, 2006, as amended at 79 FR 76131, Dec. 19, 2014; 82 FR 57054, Dec. 1, 2017]

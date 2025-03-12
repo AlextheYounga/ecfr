@@ -1,5 +1,7 @@
 ##### § 30.8 5G Provider cybersecurity statement requirements. #####
 
+Link to an amendment published at 83 FR 65, Jan. 2, 2018.
+
 (a) *Statement.* Each Upper Microwave Flexible Use Service licensee is required to submit to the Commission a Statement describing its network security plans and related information, which shall be signed by a senior executive within the licensee's organization with personal knowledge of the security plans and practices within the licensee's organization. The Statement must contain, at a minimum, the following elements:
 
 (1) *Security approach.* A high-level, general description of the licensee's approach designed to safeguard the planned network's confidentiality, integrity, and availability, with respect to communications from:

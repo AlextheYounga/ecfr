@@ -8,14 +8,14 @@
 
 (2)(i) The daily base penalty amount shall be determined based on the number of persons employed in coal mine employment by the operator, or engaged in coal mine employment on behalf of the operator, on each day of the period defined by this section.
 
-For penalties assessed after January 13, 2017, the daily base penalty amount shall be computed as follows:
+For penalties assessed after January 2, 2018, the daily base penalty amount shall be computed as follows:
 
 |  Employees  |Penalty  <br/>(per day)|
 |-------------|-----------------------|
-|Less than 25 |         $136          |
-|    25-50    |          272          |
-|   51-100    |          409          |
-|More than 100|          544          |
+|Less than 25 |         $139          |
+|    25-50    |          278          |
+|   51-100    |          417          |
+|More than 100|          555          |
 
 (ii) For any period after the operator has ceased coal mining and any related activity, the daily penalty amount shall be computed based on the largest number of persons employed in coal mine employment by the operator, or engaged in coal mine employment on behalf of the operator, on any day while the operator was engaged in coal mining or any related activity. For purposes of this section, it shall be presumed, in the absence of evidence to the contrary, that any person employed by an operator is employed in coal mine employment.
 
@@ -27,12 +27,12 @@ For penalties assessed after January 13, 2017, the daily base penalty amount sha
 
 (iii) Was notified of its potential liability for a claim filed under the Black Lung Benefits Act pursuant to § 725.407 of this subchapter.
 
-(4) Commencing with the 11th day after the operator's receipt of the notification sent by the Director pursuant to § 726.303, for penalties assessed after January 13, 2017, the daily base penalty amounts set forth in paragraph (c)(2)(i) shall be increased by $136.
+(4) Commencing with the 11th day after the operator's receipt of the notification sent by the Director pursuant to § 726.303, for penalties assessed after January 2, 2018, the daily base penalty amounts set forth in paragraph (c)(2)(i) shall be increased by $139.
 
-(5) In any case in which the operator, or any of its principals, or an entity in which the operator's president, secretary, or treasurer were employed, has been the subject of a previous penalty assessment under this part, for penalties assessed after January 13, 2017, the daily base penalty amounts shall be increased by $409.
+(5) In any case in which the operator, or any of its principals, or an entity in which the operator's president, secretary, or treasurer were employed, has been the subject of a previous penalty assessment under this part, for penalties assessed after January 2, 2018, the daily base penalty amounts shall be increased by $417.
 
-(6) The maximum daily base penalty amount applicable to any violation of § 726.4 for which penalties are assessed after January 13, 2017, shall be $2,795.
+(6) The maximum daily base penalty amount applicable to any violation of § 726.4 for which penalties are assessed after January 2, 2018, shall be $2,852.
 
 (d) The penalty shall be subject to reduction for any period during which the operator had a reasonable belief that it was not required to comply with section 423 of the Act and § 726.4 or a reasonable belief that it had obtained insurance coverage to comply with section 423 of the Act and § 726.4. A notice of contest filed in accordance with § 726.307 shall not be sufficient to establish a reasonable belief that the operator was not required to comply with the Act and regulations.
 
-[65 FR 80097, Dec. 20, 2000, as amended at 81 FR 43449, July 1, 2016; 82 FR 5381, Jan. 18, 2017]
+[65 FR 80097, Dec. 20, 2000, as amended at 81 FR 43449, July 1, 2016; 82 FR 5381, Jan. 18, 2017; 83 FR 12, Jan. 2, 2018]

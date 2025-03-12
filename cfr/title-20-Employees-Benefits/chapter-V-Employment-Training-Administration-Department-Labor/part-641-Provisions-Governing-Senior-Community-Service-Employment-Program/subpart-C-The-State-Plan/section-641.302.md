@@ -1,7 +1,5 @@
 ##### § 641.302 What is a four-year strategy? #####
 
-Link to an amendment published at 82 FR 56882, Dec. 1, 2017.
-
 The State Plan must outline a four-year strategy for the statewide provision of community service employment and other authorized activities for eligible individuals under the SCSEP program. (OAA § 503(a)(1)). The four-year strategy must specifically address the following:
 
 (a) The State's long-term strategy for achieving an equitable distribution of SCSEP positions within the State that:
@@ -20,9 +18,9 @@ The State Plan must outline a four-year strategy for the statewide provision of 
 
 (e) The State's long-term strategy for engaging employers to develop and promote opportunities for the placement of SCSEP participants in unsubsidized employment;
 
-(f) The State's strategy for continuous improvement in the level of performance for entry into unsubsidized employment, and to achieve, at a minimum, the levels specified in § 513(a)(2)(E)(ii) of the OAA;
+(f) The State's strategy for continuous improvement in the level of performance for entry into unsubsidized employment;
 
-(g) Planned actions to coordinate activities of SCSEP grantees with the activities being carried out in the State under title I of WIA, including plans for using the WIA One-Stop delivery system and its partners to serve individuals aged 55 and older;
+(g) Planned actions to coordinate activities of SCSEP grantees with the activities being carried out in the State under title I of WIOA, including plans for using the WIOA One-Stop delivery system and its partners to serve individuals aged 55 and older;
 
 (h) Planned actions to coordinate activities of SCSEP grantees with the activities being carried out in the State under other titles of the OAA;
 
@@ -31,3 +29,5 @@ The State Plan must outline a four-year strategy for the statewide provision of 
 (j) Planned actions to coordinate the SCSEP with other labor market and job training initiatives; and
 
 (k) The State's long-term strategy to improve SCSEP services, including planned longer-term changes to the design of the program within the State, and planned changes in the use of SCSEP grantees and program operators to better achieve the goals of the program; this may include recommendations to the Department, as appropriate.
+
+[75 FR 53812, Sept. 1, 2010, as amended at 82 FR 56882, Dec. 1, 2017]

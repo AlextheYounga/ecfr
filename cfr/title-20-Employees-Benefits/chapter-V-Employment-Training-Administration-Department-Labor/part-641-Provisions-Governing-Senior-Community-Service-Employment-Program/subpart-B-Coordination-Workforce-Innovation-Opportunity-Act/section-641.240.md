@@ -1,0 +1,5 @@
+##### § 641.240 Are SCSEP participants eligible for career and training services under title I of WIOA? #####
+
+(a) Although SCSEP participants are not automatically eligible for career and training services under title I of WIOA, local boards may deem SCSEP participants, either individually or as a group, as satisfying the requirements for receiving adult career and training services under title I of WIOA.
+
+(b) SCSEP participants who have been assessed and for whom an IEP has been developed have received a career service under 20 CFR 680.220(a) of the WIOA regulations. In order to enhance skill development related to the IEP, it may be necessary to provide training beyond the community service assignment to enable participants to meet their unsubsidized employment objectives. The SCSEP grantee or sub-recipient, the host agency, the WIOA program, or another One-Stop partner may provide training as appropriate and as negotiated in the MOU. (See § 641.540 for a further discussion of training for SCSEP participants.)

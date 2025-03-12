@@ -1,10 +1,8 @@
 ##### § 641.920 What actions of the Department may a grantee appeal and what procedures apply to those appeals? #####
 
-Link to an amendment published at 82 FR 56886, Dec. 1, 2017.
-
 (a) Appeals from a final disallowance of costs as a result of an audit must be made under 29 CFR 96.63.
 
-(b) Appeals of suspension or termination actions taken on the grounds of discrimination are processed under 29 CFR 31 or 29 CFR 37, as appropriate.
+(b) Appeals of suspension or termination actions taken on the grounds of discrimination are processed under 29 CFR part 31 or 29 CFR part 38, as appropriate.
 
 (c) Protests and appeals of decisions not to award a grant, in whole or in part, will be handled under § 641.900.
 
@@ -23,3 +21,5 @@ Link to an amendment published at 82 FR 56886, Dec. 1, 2017.
 (4) The Administrative Law Judge should render a written decision no later than 90 days after the closing of the record. In ordering relief, the ALJ may exercise the full authority of the Secretary under the OAA.
 
 (5) The decision of the ALJ constitutes final agency action unless, within 21 days of the decision, a party dissatisfied with the ALJ's decision, in whole or in part, has filed a petition for review with the ARB (established under Secretary's Order No. 2-96), specifically identifying the procedure, fact, law, or policy to which exception is taken. The mailing address for the ARB is 200 Constitution Ave., NW., Room N5404, Washington, DC 20210. The Department will deem any exception not specifically argued to have been waived. A copy of the petition for review must be sent to the grant officer at that time. If, within 30 days of the filing of the petition for review, the ARB does not notify the parties that the case has been accepted for review, then the decision of the ALJ constitutes final agency action. Any case accepted by the ARB must be decided within 180 days of acceptance. If not so decided, the decision of the ALJ constitutes final agency action.
+
+[75 FR 53812, Sept. 1, 2010, as amended at 82 FR 56886, Dec. 1, 2017]

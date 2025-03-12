@@ -1,8 +1,6 @@
 ##### § 296.41 Payment procedures. #####
 
-Link to an amendment published at 82 FR 56898, Dec. 1, 2017.
-
-(a) *Amount payable.* An MSP Operating Agreement shall provide, subject to the availability of appropriations and to the extent the MSP Operating Agreement is in effect, for each Agreement Vessel, an annual payment equal to $2,600,000 for FY 2006, FY 2007, FY 2008; $2,900,000 for FY 2009, FY 2010, FY 2011; and $3,100,000 for FY 2012, FY 2013, FY 2014, FY 2015. This amount shall be paid in equal monthly installments at the end of each month. The annual amount payable shall not be reduced except as provided in paragraphs (b) and (c) of this section.
+(a) *Amount payable.* An MSP Operating Agreement shall provide, subject to the availability of appropriations and to the extent the MSP Operating Agreement is in effect, for each Agreement Vessel, an annual payment equal to $2,600,000 for FY 2006, FY 2007, FY 2008; $2,900,000 for FY 2009, FY 2010, FY 2011; $3,100,000 for FY 2012, FY 2013, FY 2014, and FY 2015; $3,500,000 for FY 2016; $4,999,950 for FY 2017; $5,000,000 for FY 2018, FY 2019, and FY 2020; $5,233,463 for FY 2021; and $3,700,000 for FY 2022, FY 2023, FY 2024, and FY 2025. This amount shall be paid in equal monthly installments at the end of each month. The annual amount payable shall not be reduced except as provided in paragraphs (b) and (c) of this section.
 
 (b) *Reductions in amount payable.* (1) The annual amount otherwise payable under an MSP Operating Agreement shall be reduced on a pro rata basis for each day less than 320 in a fiscal year that an Agreement Vessel:
 
@@ -33,3 +31,5 @@ Link to an amendment published at 82 FR 56898, Dec. 1, 2017.
 (3) MARAD may require, for good cause, that a portion of the funds payable under this section be withheld if the provisions of § 296.31(d) have not been met.
 
 (4) Amounts owed to MARAD for reductions applicable to a prior billing period shall be electronically transferred using MARAD's prescribed format, or a check may be forwarded to the Maritime Administration, P.O. Box 845133, Dallas, Texas 75284-5133, or the amount owed can be credited to MARAD by offsetting amounts payable in future billing periods.
+
+[70 FR 55588, Sept. 22, 2005, as amended at 82 FR 56898, Dec. 1, 2017]

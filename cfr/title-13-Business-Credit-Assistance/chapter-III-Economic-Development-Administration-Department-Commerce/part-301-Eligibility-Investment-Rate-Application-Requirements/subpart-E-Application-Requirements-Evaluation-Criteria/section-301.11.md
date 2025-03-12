@@ -1,8 +1,6 @@
 ##### § 301.11 Infrastructure. #####
 
-Link to an amendment published at 82 FR 57053, Dec. 1, 2017.
-
-(a) EDA will fund both construction and non-construction infrastructure necessary to meet a Region's strategic economic development goals and needs, which in turn results in job creation. This includes infrastructure used to develop and upgrade basic economic development assets as described in §§ 305.1 and 305.2 of this chapter, as well as infrastructure that supports innovation and entrepreneurship. The following are examples of innovation and entrepreneurship-related infrastructure that support job creation:
+(a) EDA will fund both construction and non-construction infrastructure necessary to meet a Region's strategic economic development goals and needs, which in turn results in job creation. This includes infrastructure used to develop basic economic development assets as described in §§ 305.1 and 305.2 of this chapter (*e.g.,* roads, sewers, and water lines), as well as infrastructure that supports innovation and entrepreneurship. The following are examples of innovation and entrepreneurship-related infrastructure that support job creation:
 
 (1) *Business Incubation.* Business incubation includes both physical facilities and business support services to advance the successful development of start-up companies by providing entrepreneurs with an array of targeted resources and services.
 
@@ -16,4 +14,4 @@ Link to an amendment published at 82 FR 57053, Dec. 1, 2017.
 
 (b) In general, successful Projects, including innovation and entrepreneurship-related infrastructure, require the engagement of a broad range of Regional stakeholders and resources. Therefore through appropriate FFOs and program requirements, EDA will seek to advance interagency coordination by funding Projects that demonstrate effective leveraging of other Federal Agency resources based on a Region's strategic economic development goals and needs. For all types of Projects, EDA assistance may not be used to provide direct venture capital to a for-profit entity because of the restrictions set out in section 217 of PWEDA (42 U.S.C. 3154c) and part 309 of this chapter. Nonetheless, EDA may consider an application more competitive if it includes measures to address the need to provide entrepreneurs with access to early stage capital outside of the proposed EDA Project budget. *See* § 301.8(b).
 
-[79 FR 76127, Dec. 19, 2014]
+[79 FR 76127, Dec. 19, 2014, as amended at 82 FR 57053, Dec. 1, 2017]

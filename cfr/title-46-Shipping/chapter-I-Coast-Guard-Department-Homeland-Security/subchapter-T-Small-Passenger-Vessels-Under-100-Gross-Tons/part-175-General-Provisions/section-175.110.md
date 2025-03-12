@@ -1,5 +1,7 @@
 ##### § 175.110 General applicability. #####
 
+Link to an amendment published at 86 FR 73172, Dec. 27, 2021.
+
 (a) Except as in paragraph (b) of this section, this subchapter applies to each vessel of less than 100 gross tons that carries 150 or less passengers, or has overnight accommodations for 49 or less passengers, and that -
 
 (1) Carries more than six passengers, including at least one for hire;

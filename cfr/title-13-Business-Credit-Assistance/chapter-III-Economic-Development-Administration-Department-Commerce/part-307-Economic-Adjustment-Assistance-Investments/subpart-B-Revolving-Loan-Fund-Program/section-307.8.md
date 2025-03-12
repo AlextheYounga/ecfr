@@ -1,24 +1,32 @@
 ##### § 307.8 Definitions. #####
 
-Link to an amendment published at 82 FR 57055, Dec. 1, 2017.
-
 In addition to the defined terms set forth in § 300.3 of this chapter, the following terms used in this part shall have the following meanings:
 
+*Allowable Cash Percentage* means the average percentage of the RLF Capital Base maintained as RLF Cash Available for Lending by RLF Recipients in each EDA regional office's portfolio of RLF Grants over the previous year.
+
 *Closed Loan* means any loan for which all required documentation has been received, reviewed and executed by an RLF Recipient.
+
+*Disbursement Phase* means the period of loan activity where Grant funds awarded have not been fully disbursed to the RLF Recipient.
 
 *Exempt Security* means a Security that is not subject to certain SEC or Federal Reserve Board rules.
 
 *Prudent Lending Practices* means generally accepted underwriting and lending practices for public loan programs, based on sound judgment to protect Federal and lender interests. Prudent Lending Practices include loan processing, documentation, loan approval, collections, servicing, administrative procedures, collateral protection and recovery actions. Prudent Lending Practices provide for compliance with local laws and filing requirements to perfect and maintain a security interest in RLF collateral.
 
-*Recapitalization Grants* are Investments of additional Grant funds to increase the capital base of an RLF.
+*Recapitalization Grants* are Investments of additional Grant funds to increase the RLF Capital Base.
 
-*Reporting Period*, for purposes of this subpart B only, means the period from April 1st to September 30th or the period from October 1st to March 31st.
+*Reporting Period,* for purposes of this subpart only, is based on the RLF Recipient's fiscal year end and is on an annual or semi-annual basis as determined by EDA.
 
 *Revolving Phase* means that stage of the RLF's business lending activities that commences immediately after all Grant funds have been disbursed to the RLF Recipient.
 
-*RLF Capital* means Grant funds plus Local Share plus RLF Income, less any amount used for eligible and reasonable costs necessary to administer the RLF and any amount of loan principal written off.
+*Risk Analysis System* refers to a set of measures defined by EDA to evaluate a Recipient's administration of its RLF Grant and that may include but is not limited to capital, assets, management, earnings, liquidity, strategic results, and financial controls.
 
-*RLF Income* means interest earned on outstanding loan principal and RLF accounts holding RLF funds (excluding interest earned on excess funds pursuant to § 307.16(c)(2)), all fees and charges received by the RLF, and other income generated from RLF operations. An RLF Recipient may use RLF Income only to capitalize the RLF for financing activities and to cover eligible and reasonable costs necessary to administer the RLF, unless otherwise provided for in the Grant agreement or approved in writing by EDA. RLF Income excludes repayments of principal and any interest remitted to the U.S. Treasury pursuant to § 307.16(c)(2)(i).
+*RLF Capital Base* means the total value of RLF Grant assets administered by the RLF Recipient. It is equal to the amount of Grant funds used to capitalize (and recapitalize, if applicable), the RLF, plus Local Share, plus RLF Income less any eligible and reasonable administrative expenses, plus Voluntarily Contributed Capital, less any loan losses and disallowances. Except as used to pay for eligible and reasonable administrative costs associated with the RLF's operations, the RLF Capital Base is maintained in two forms at all times: As RLF Cash Available for Lending and as outstanding loan principal.
+
+*RLF Cash Available for Lending* means the portion of the RLF Capital Base that is held as cash and available to make loans. This excludes loans that have been committed or approved but have not yet been funded.
+
+*RLF Income* means interest earned on outstanding loan principal and RLF accounts holding RLF funds, all fees and charges received by the RLF, and other income generated from RLF operations. An RLF Recipient may use RLF Income only to capitalize the RLF for financing activities and to cover eligible and reasonable costs necessary to administer the RLF, unless otherwise provided for in the Grant agreement or approved in writing by EDA. RLF Income excludes repayments of principal and any interest remitted to the U.S. Treasury pursuant to generally accepted accounting principles (GAAP) and § 307.20(h).
+
+*RLF Recipient* means the Eligible Recipient that receives an RLF Grant to manage an RLF in accordance with an RLF Plan, Prudent Lending Practices, the terms and conditions of the RLF Grant, and all applicable policies, laws, and regulations.
 
 *RLF Third Party,* for purposes of this subpart B only, means an Eligible Recipient or for-profit entity selected by EDA through a request for applications or Cooperative Agreement to facilitate or manage the intended liquidation of an RLF.
 
@@ -30,4 +38,6 @@ In addition to the defined terms set forth in § 300.3 of this chapter, the foll
 
 *Security* means any investment instrument issued by a corporation, government or other organization which offers evidence of debt or equity.
 
-[71 FR 56675, Sept. 27, 2006, as amended at 73 FR 62867, Oct. 22, 2008; 75 FR 4264, Jan. 27, 2010]
+*Voluntary Contributed Capital* means an RLF Recipient's voluntary infusion of additional non-EDA funds into the RLF Capital Base that is separate from and exceeds any Local Share that is required as a condition of the RLF Grant. Voluntary Contributed Capital is an irrevocable addition to the RLF Capital Base and must be administered in accordance with EDA regulations and policies.
+
+[71 FR 56675, Sept. 27, 2006, as amended at 73 FR 62867, Oct. 22, 2008; 75 FR 4264, Jan. 27, 2010; 82 FR 57055, Dec. 1, 2017]

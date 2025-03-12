@@ -1,7 +1,7 @@
 ##### § 309.1 Redistributions under parts 303, 305 and 306. #####
 
-Link to an amendment published at 82 FR 57059, Dec. 1, 2017.
-
-(a) *General.* Except as provided in paragraph (b) of this section, a Recipient of Investment Assistance under parts 303, 305 or 306 of this chapter may directly expend such Investment Assistance or, with prior EDA approval, may redistribute such Investment Assistance in the form of a subgrant to another Eligible Recipient that qualifies for Investment Assistance under the same part of this chapter as the Recipient, to fund required components of the scope of work approved for the Project. All subgrants made pursuant to this section shall be subject to the same terms and conditions applicable to the Recipient under the original Investment Assistance award and must satisfy the requirements of PWEDA and of this chapter.
+(a) *General.* Except as provided in paragraph (b) of this section, a Recipient of Investment Assistance under parts 303, 305 or 306 of this chapter may directly expend such Investment Assistance or, with prior EDA approval, may redistribute such Investment Assistance in the form of a subgrant to another Eligible Recipient, generally referred to as a Subrecipient, that qualifies for Investment Assistance under the same part of this chapter as the Recipient, to fund required components of the scope of work approved for the Project. All subgrants made pursuant to this section shall be subject to the same terms and conditions applicable to the Recipient under the original Investment Assistance award and must satisfy the requirements of PWEDA and of this chapter. EDA may require the Eligible Recipient under the original Investment award to agree to special award conditions and the Subrecipient to provide appropriate certifications to ensure the Subrecipient's compliance with legal requirements.
 
 (b) *Exception.* A Recipient may not make a subgrant of Investment Assistance received under parts 303 or 305 of this chapter to a for-profit entity.
+
+[71 FR 56675, Sept. 27, 2006, as amended at 82 FR 57059, Dec. 1, 2017]

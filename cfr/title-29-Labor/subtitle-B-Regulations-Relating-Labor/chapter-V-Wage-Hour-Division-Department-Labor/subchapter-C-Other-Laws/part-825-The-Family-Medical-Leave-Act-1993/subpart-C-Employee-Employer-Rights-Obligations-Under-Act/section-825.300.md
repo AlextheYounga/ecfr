@@ -1,6 +1,6 @@
 ##### § 825.300 Employer notice requirements. #####
 
-(a) *General notice.* (1) Every employer covered by the FMLA is required to post and keep posted on its premises, in conspicuous places where employees are employed, a notice explaining the Act's provisions and providing information concerning the procedures for filing complaints of violations of the Act with the Wage and Hour Division. The notice must be posted prominently where it can be readily seen by employees and applicants for employment. The poster and the text must be large enough to be easily read and contain fully legible text. Electronic posting is sufficient to meet this posting requirement as long as it otherwise meets the requirements of this section. An employer that willfully violates the posting requirement may be assessed a civil money penalty by the Wage and Hour Division not to exceed $166 for each separate offense.
+(a) *General notice.* (1) Every employer covered by the FMLA is required to post and keep posted on its premises, in conspicuous places where employees are employed, a notice explaining the Act's provisions and providing information concerning the procedures for filing complaints of violations of the Act with the Wage and Hour Division. The notice must be posted prominently where it can be readily seen by employees and applicants for employment. The poster and the text must be large enough to be easily read and contain fully legible text. Electronic posting is sufficient to meet this posting requirement as long as it otherwise meets the requirements of this section. An employer that willfully violates the posting requirement may be assessed a civil money penalty by the Wage and Hour Division not to exceed $169 for each separate offense.
 
 (2) Covered employers must post this general notice even if no employees are eligible for FMLA leave.
 
@@ -54,4 +54,4 @@
 
 (e) *Consequences of failing to provide notice.* Failure to follow the notice requirements set forth in this section may constitute an interference with, restraint, or denial of the exercise of an employee's FMLA rights. An employer may be liable for compensation and benefits lost by reason of the violation, for other actual monetary losses sustained as a direct result of the violation, and for appropriate equitable or other relief, including employment, reinstatement, promotion, or any other relief tailored to the harm suffered *See* § 825.400(c).
 
-[78 FR 8902, Feb. 6, 2013, as amended at at 81 FR 43452, July 1, 2016; 82 FR 5382, Jan. 18, 2017]
+[78 FR 8902, Feb. 6, 2013, as amended at at 81 FR 43452, July 1, 2016; 82 FR 5382, Jan. 18, 2017; 82 FR 14, Jan. 2, 2018]

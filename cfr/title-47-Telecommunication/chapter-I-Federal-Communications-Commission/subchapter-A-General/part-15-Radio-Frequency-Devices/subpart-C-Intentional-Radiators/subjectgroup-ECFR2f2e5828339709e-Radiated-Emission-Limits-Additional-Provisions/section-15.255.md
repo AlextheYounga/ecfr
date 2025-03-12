@@ -1,5 +1,7 @@
 ##### § 15.255 Operation within the band 57-71 GHz. #####
 
+Link to an amendment published at 83 FR 63, Jan. 2, 2018.
+
 (a) Operation under the provisions of this section is not permitted for the following products:
 
 (1) Equipment used on aircraft or satellites.

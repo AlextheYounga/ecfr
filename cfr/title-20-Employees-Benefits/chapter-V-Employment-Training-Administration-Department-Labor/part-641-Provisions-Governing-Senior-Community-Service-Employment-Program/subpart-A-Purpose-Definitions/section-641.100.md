@@ -1,12 +1,10 @@
 ##### § 641.100 What does this part cover? #####
 
-Link to an amendment published at 82 FR 56880, Dec. 1, 2017.
-
-Part 641 contains the Department of Labor's regulations for the Senior Community Service Employment Program (SCSEP), authorized under title V of the Older Americans Act (OAA), 42 U.S.C. 3056 *et seq.*, as amended by the Older Americans Act Amendments of 2006, Public Law 109-365. This part and other pertinent regulations set forth the regulations applicable to the SCSEP.
+Part 641 contains the Department of Labor's regulations for the Senior Community Service Employment Program (SCSEP), authorized under title V of the Older Americans Act (OAA), 42 U.S.C. 3056 *et seq.,* as amended by the Older Americans Act Reauthorization Act of 2016, Public Law 114-144 (Apr. 19, 2016). This part and other pertinent regulations set forth the regulations applicable to the SCSEP.
 
 (a) Subpart A of this part contains introductory provisions and definitions that apply to this part.
 
-(b) Subpart B of this part describes the required relationship between the OAA and the Workforce Investment Act of 1998 (WIA), 29 U.S.C. 2801 *et seq.* These provisions discuss the coordinated efforts to provide services through the integration of the SCSEP within the One-Stop delivery system.
+(b) Subpart B of this part describes the required relationship between the OAA and the Workforce Innovation and Opportunity Act (WIOA), Public Law 113-128 (July 22, 2014). These provisions discuss the coordinated efforts to provide services through the integration of the SCSEP within the One-Stop delivery system.
 
 (c) Subpart C of this part sets forth the requirements for the State Plan, such as the four-year strategy, required coordination efforts, public comments, and equitable distribution.
 
@@ -21,3 +19,5 @@ Part 641 contains the Department of Labor's regulations for the Senior Community
 (h) Subpart H of this part sets forth the administrative requirements for SCSEP funds.
 
 (i) Subpart I of this part describes the grievance and appeals processes and requirements.
+
+[75 FR 53812, Sept. 1, 2010, as amended at 82 FR 56880, Dec. 1, 2017]

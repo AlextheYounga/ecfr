@@ -1,16 +1,14 @@
 ##### § 641.140 What definitions apply to this part? #####
 
-Link to an amendment published at 82 FR 56880, Dec. 1, 2017.
-
 The following definitions apply to this part:
-
-*Additional indicators* mean retention in unsubsidized employment for 1 year; satisfaction of participants, employers and their host agencies with their experiences and the services provided; entry into volunteer work; and any other indicators of performance that the Secretary determines to be appropriate to evaluate services and performance. (OAA § 513(b)(2)).
 
 *At risk for homelessness* means an individual is likely to become homeless and the individual lacks the resources and support networks needed to obtain housing.
 
 *Authorized position level* means the number of SCSEP enrollment opportunities that can be supported for a 12-month period based on the average national unit cost. The authorized position level is derived by dividing the total amount of funds appropriated for a Program Year by the national average unit cost per participant for that Program Year as determined by the Department. The national average unit cost includes all costs of administration, other participant costs, and participant wage and benefit costs as defined in § 506(g) of the OAA.
 
-*Co-enrollment* applies to any individual who meets the qualifications for SCSEP participation and is also enrolled as a participant in WIA or another employment and training program, as provided in the Individual Employment Plan.
+*Career services* means those services described in sec. 134(c)(2) of WIOA.
+
+*Co-enrollment* applies to any individual who meets the qualifications for SCSEP participation and is also enrolled as a participant in WIOA or another employment and training program, as provided in the Individual Employment Plan (IEP).
 
 *Community service* means:
 
@@ -30,9 +28,9 @@ The following definitions apply to this part:
 
 *Community service assignment* means part-time, temporary employment paid with grant funds in projects at host agencies through which eligible individuals are engaged in community service and receive work experience and job skills that can lead to unsubsidized employment. (OAA § 518(a)(2)).
 
-*Core indicators* means hours (in the aggregate) of community service employment; entry into unsubsidized employment; retention in unsubsidized employment for six months; earnings; the number of eligible individuals served; and most-in-need (the number of individuals described in § 518 (a)(3)(B)(ii) or (b)(2) of the OAA). (OAA § 513(b)(1)).
+*Community Service Employment* means part-time, temporary employment paid with grant funds in projects at host agencies through which eligible individuals are engaged in community service and receive work experience and job skills that can lead to unsubsidized employment. (OAA sec. 518(a)(2).) The term community service assignment is used interchangeably with community service employment.
 
-*Core services* means those services described in § 134(d)(2) of WIA.
+*Core measures* means hours (in the aggregate) of community service employment; the percentage of project participants who are in unsubsidized employment during the second quarter after exit from the project; the percentage of project participants who are in unsubsidized employment during the fourth quarter after exit from the project; the median earnings of project participants who are in unsubsidized employment during the second quarter after exit from the project; indicators of effectiveness in serving employers, host agencies, and project participants; the number of eligible individuals served; and most-in-need (the number of individuals described in sec. 518(a)(3)(B)(ii) or (b)(2) of the OAA). (OAA sec. 513(b)(1).)
 
 *Department or DOL* means the United States Department of Labor, including its agencies and organizational units.
 
@@ -94,37 +92,35 @@ The following definitions apply to this part:
 
 *Individual employment plan (IEP)* means a plan for a participant that is based on an assessment of that participant conducted by the grantee or sub-recipient, or a recent assessment or plan developed by another employment and training program, and a related service strategy. The IEP must include an appropriate employment goal (except that after the first IEP, subsequent IEPs need not contain an employment goal if such a goal is not feasible), objectives that lead to the goal, a timeline for the achievement of the objectives; and be jointly agreed upon with the participant. (OAA § 502(b)(1)(N)).
 
-*Intensive services* means those services authorized by § 134(d)(3) of the Workforce Investment Act.
-
 *Jobs for Veterans Act* means Public Law 107-288 (2002). Section 2(a) of the Jobs for Veterans Act, codified at 38 U.S.C. 4215(a), provides a priority of service for Department of Labor employment and training programs for veterans, and certain spouses of veterans, who otherwise meet the eligibility requirements for participation. Priority is extended to veterans. Priority is also extended to the spouse of a veteran who died of a service-connected disability; the spouse of a member of the Armed Forces on active duty who has been listed for a total of more than 90 days as missing in action, captured in the line of duty by a hostile force, or forcibly detained by a foreign government or power; the spouse of any veteran who has a total disability resulting from a service-connected disability; and the spouse of any veteran who died while a disability so evaluated was in existence. (See § 641.520(b)).
 
 *Job ready* refers to individuals who do not require further education or training to perform work that is available in their labor market.
 
 *Limited English proficiency* means individuals who do not speak English as their primary language and who have a limited ability to read, speak, write, or understand English.
 
-*Local Board* means a Local Workforce Investment Board established under § 117 of the Workforce Investment Act.
+*Local Board* means a Local Workforce Development Board established under sec. 107 of the Workforce Innovation and Opportunity Act.
 
-*Local Workforce Investment Area or local area* means an area designated by the Governor of a State under § 116 of the Workforce Investment Act.
+*Local Workforce Development Area* or *local area* means an area designated by the Governor of a State under sec. 106 of the Workforce Innovation and Opportunity Act.
 
 *Low employment prospects* means the likelihood that an individual will not obtain employment without the assistance of the SCSEP or another workforce development program. Persons with low employment prospects have a significant barrier to employment. Significant barriers to employment may include but are not limited to: Lacking a substantial employment history, basic skills, and/or English-language proficiency; lacking a high school diploma or the equivalent; having a disability; being homeless; or residing in socially and economically isolated rural or urban areas where employment opportunities are limited.
 
 *Low literacy skills* means the individual computes or solves problems, reads, writes, or speaks at or below the 8th grade level or is unable to compute or solve problems, read, write, or speak at a level necessary to function on the job, in the individual's family, or in society.
 
-*Most-in-need* means participants with one or more of the following characteristics: Have a severe disability; are frail; are age 75 or older; are age-eligible but not receiving benefits under title II of the Social Security Act; reside in an area with persistent unemployment and have severely limited employment prospects; have limited English proficiency; have low literacy skills; have a disability; reside in a rural area; are veterans; have low employment prospects; have failed to find employment after using services provided under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 *et seq.*); or are homeless or at risk for homelessness. (OAA § 513(b)(1)(E)).
+*Most-in-need* means participants with one or more of the following characteristics: Have a severe disability; are frail; are age 75 or older; are age-eligible but not receiving benefits under title II of the Social Security Act; reside in an area with persistent unemployment and have severely limited employment prospects; have limited English proficiency; have low literacy skills; have a disability; reside in a rural area; are veterans; have low employment prospects; have failed to find employment after using services provided under title I of the Workforce Innovation and Opportunity Act; or are homeless or at risk for homelessness. (OAA sec. 513(b)(1)(F).)
 
 *National grantee* means a public or non-profit private agency or organization, or Tribal organization, that receives a grant under title V of the OAA (42 U.S.C. 3056 *et seq.*) to administer a SCSEP project. (*See* OAA § 506(g)(5)).
 
 *OAA* means the Older Americans Act, 42 U.S.C. 3001 *et seq.,* as amended.
 
-*One-Stop Center* means the One-Stop Center system in a WIA local area which must include a comprehensive One-Stop Center through which One-Stop partners provide applicable core services and which provides access to other programs and services carried out by the One-Stop partners. (*See* WIA § 134(c)(2)).
+*One-Stop Center* means the One-Stop Center system in a WIOA local area, which must include a comprehensive One-Stop Center through which One-Stop partners provide applicable career services and which provides access to other programs and services carried out by the One-Stop partners. (*See* WIOA sec. 121(e)(2).)
 
-*One-Stop delivery system* means a system under which employment and training programs, services, and activities are available through a network of eligible One-Stop partners, which assures that information about and access to core services is available regardless of where the individuals initially enter the workforce investment system. (*See* WIA § 134(c)(2)).
+*One-Stop delivery system* means a system under which employment and training programs, services, and activities are available through a network of eligible One-Stop partners, which assures that information about and access to career services are available regardless of where the individuals initially enter the workforce development system. (*See* WIOA sec. 121(e)(2).)
 
-*One-Stop partner* means an entity described in § 121(b)(1) of the Workforce Investment Act, *i.e.,* required partners, or an entity described in § 121(b)(2) of the Workforce Investment Act, *i.e.,* additional partners.
+*One-Stop partner* means an entity described in sec. 121(b)(1) of the Workforce Innovation and Opportunity Act, *i.e.,* required partners, or an entity described in sec. 121(b)(2) of the Workforce Innovation and Opportunity Act, *i.e.,* additional partners.
 
 *Other participant (enrollee) costs* means the costs of participant training, including the payment of reasonable costs to instructors, classroom rental, training supplies, materials, equipment, and tuition, and which may be provided before or during a community service assignment, in a classroom setting, or under other appropriate arrangements; job placement assistance, including job development and job search assistance; participant supportive services to enable a participant to successfully participate in a project, including the payment of reasonable costs of transportation, health care and medical services, special job-related or personal counseling, incidentals (such as work shoes, badges, uniforms, eyeglasses, and tools), child and adult care, temporary shelter, and follow-up services; and outreach, recruitment and selection, intake orientation, and assessments. (OAA § 502(c)(6)(A)(ii)-(v)).
 
-*Pacific Island and Asian Americans* means Americans having origins in any of the original peoples of the Far East, Southeast Asia, the Indian Subcontinent, or the Pacific Islands. (OAA § 518(a)(5)).
+*Pacific Island and Asian Americans* means Americans having origins in any of the original peoples of the Far East, Southeast Asia, the Indian Subcontinent, or the Pacific Islands. (OAA sec. 518(a)(6).)
 
 *Participant* means an individual who is determined to be eligible for the SCSEP, is given a community service assignment, and is receiving any service funded by the program as described in subpart E.
 
@@ -172,7 +168,7 @@ The following definitions apply to this part:
 
 *Severely limited employment prospects* means the substantial likelihood that an individual will not obtain employment without the assistance of the SCSEP or another workforce development program. Persons with severely limited employment prospects have more than one significant barrier to employment; significant barriers to employment may include but are not limited to: Lacking a substantial employment history, basic skills, and/or English-language proficiency; lacking a high school diploma or the equivalent; having a disability; being homeless; or residing in socially and economically isolated rural or urban areas where employment opportunities are limited.
 
-*State Board* means a State Workforce Investment Board established under WIA § 111.
+*State Board* means a State Workforce Development Board established under WIOA sec. 101.
 
 *State grantee* means the entity designated by the Governor, or the highest government official, to enter into a grant with the Department to administer a State or Territory SCSEP project under the OAA. Except as applied to funding distributions under § 506 of the OAA, this definition applies to the 50 States, Puerto Rico, the District of Columbia and the following Territories: Guam, American Samoa, U.S. Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
@@ -180,26 +176,20 @@ The following definitions apply to this part:
 
 *Sub-recipient* means the legal entity to which a sub-award of financial assistance is made by the grantee (or by a higher-tier sub-recipient), and that is accountable to the grantee for the use of the funds provided. As used here, “sub-recipient” includes “sub-grantee” as defined in 29 CFR 97.3 and “sub-recipient” as defined in 29 CFR 95.2(kk).
 
-*Supportive services* means services, such as transportation, health and medical services, special job-related or personal counseling, incidentals (such as work shoes, badges, uniforms, eye-glasses, and tools), child and adult care, housing, including temporary shelter, follow up services, and needs-related payments, which are necessary to enable an individual to participate in activities authorized under the SCSEP. (OAA § 502(c)(6)(A)(iv) and 518(a)(7)).
+*Supportive services* means services, such as transportation, health and medical services, special job-related or personal counseling, incidentals (such as work shoes, badges, uniforms, eye-glasses, and tools), child and adult care, housing, including temporary shelter, follow-up services, and needs-related payments, which are necessary to enable an individual to participate in activities authorized under the SCSEP. (OAA secs. 502(c)(6)(A)(iv) and 518(a)(8).)
 
 *Title V of the OAA* means 42 U.S.C. 3056 *et seq.,* as amended.
 
-*Training services* means those services authorized by WIA § 134(d)(4).
+*Training services* means those services authorized by WIOA sec. 134(c)(3).
 
 *Tribal organization* means the recognized governing body of any Indian tribe, or any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body. (42 U.S.C. 3002(54)).
 
-*Unemployed* means an individual who is without a job and who wants and is available for work, including an individual who may have occasional employment that does not result in a constant source of income. (OAA 518(a)(8)).
+*Unemployed* means an individual who is without a job and who wants and is available for work, including an individual who may have occasional employment that does not result in a constant source of income. (OAA sec. 518(a)(9).)
 
 *Veteran* means an individual who is a “covered person” for purposes of the Jobs for Veterans Act, 38 U.S.C. 4215(a)(1).
 
-*Volunteer work* means:
+*Workforce Innovation and Opportunity Act (WIOA)* means the Workforce Innovation and Opportunity Act, Public Law 113-128 (July 22, 2014), as amended.
 
-(1) For purposes of § 641.140 of this part, activities or work that former participants perform for a public agency of a State, local government or intergovernmental agency, or for a charity or not-for-profit organization, including faith-based or community-based organizations, for civic, charitable, or for humanitarian reasons, and without promise, expectation, or receipt of compensation;
+*Workforce Innovation and Opportunity Act (WIOA) regulations* means the regulations in parts 675 through 688 of this chapter, the Wagner-Peyser Act regulations in parts 651 through 654 and part 658 of this chapter, and the regulations implementing WIOA sec. 188 in 29 CFR part 38.
 
-(2) For informational reporting purposes, volunteer work also can include similar activities that a former participant performs on his or her own that are not conducted through a formal organization or agency as long as those activities are not performed for a member of the former participant's family or of the individual's own household. These types of volunteer activities will not be included in the calculation of the “entry into volunteer work” indicator under § 641.140.
-
-*Workforce Investment Act (WIA)* means the Workforce Investment Act of 1998 (Pub. L. 105-220 (Aug. 7, 1998)), 29 U.S.C. 2801 *et seq.,* as amended.
-
-*Workforce Investment Act (WIA) regulations* means regulations at 20 CFR part 652, subpart D and parts 660-671.
-
-[75 FR 53812, Sept. 1, 2010, as amended at 77 FR 4661, Jan. 31, 2012]Effective Date Note:At 77 FR 4661, Jan. 31, 2012, § 641.140 was amended by revising the definition of “additional indicators” and adding the definition of “volunteer work”. These amendments contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[75 FR 53812, Sept. 1, 2010, as amended at 77 FR 4661, Jan. 31, 2012; 82 FR 56880, Dec. 1, 2017]
