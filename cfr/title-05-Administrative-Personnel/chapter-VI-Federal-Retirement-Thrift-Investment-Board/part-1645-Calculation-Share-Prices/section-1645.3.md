@@ -1,5 +1,7 @@
 ##### § 1645.3 Calculation of total net earnings for each TSP Fund. #####
 
+Link to an amendment published at 87 FR 31681, May 24, 2022.
+
 (a) Each business day, net earnings will be calculated separately for each TSP Fund.
 
 (b) Net earnings for each fund will equal:

@@ -12,7 +12,7 @@
 
 (5) A statement by the Affiant in the following language:
 
-The foregoing is principally based on the attached exhibits which, to the best of my knowledge and belief, are complete, true and correct. I understand that this affidavit is being submitted for the purpose of inducing the Federal Government to permit the importation of \_\_\_\_\_ under the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361-1407) and regulations promulgated thereunder, and that any false statements may subject me to the criminal penalties of 18 U.S.C. 1001.
+The foregoing is principally based on the attached exhibits which, to the best of my knowledge and belief, are complete, true and correct. I understand that this affidavit is being submitted for the purpose of inducing the Federal Government to permit the importation of \_\_\_\_\_\_\_\_\_\_ under the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361-1407) and regulations promulgated thereunder, and that any false statements may subject me to the criminal penalties of 18 U.S.C. 1001.
 
 (b) Either one of two exhibits shall be attached to such affidavit, and will contain either:
 

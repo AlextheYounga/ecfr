@@ -1,5 +1,7 @@
 ##### § 1605.22 Claims for correction of Board or TSP record keeper errors; time limitations. #####
 
+Link to an amendment published at 87 FR 31679, May 24, 2022.
+
 (a) *Filing claims.* Claims for correction of Board or TSP record keeper errors under this subpart may be submitted initially either to the TSP record keeper or the Board. The claim must be in writing and may be from the affected participant or beneficiary.
 
 (b) *Board's or TSP record keeper's discovery of error.* (1) Upon discovery of an error made within the past six months involving a receipt or a disbursement, the Board or TSP record keeper must promptly correct the error on its own initiative. If the error was made more than six months before its discovery, the Board or the TSP record keeper may exercise sound discretion in deciding whether to correct the error, but, in any event, must act promptly in doing so.

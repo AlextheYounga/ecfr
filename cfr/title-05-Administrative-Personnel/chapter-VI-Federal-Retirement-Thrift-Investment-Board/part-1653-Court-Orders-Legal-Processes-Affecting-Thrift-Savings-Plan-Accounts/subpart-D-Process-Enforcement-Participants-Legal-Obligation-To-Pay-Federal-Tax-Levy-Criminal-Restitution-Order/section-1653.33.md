@@ -1,5 +1,7 @@
 ##### § 1653.33 Qualifying criminal restitution order. #####
 
+Link to an amendment published at 87 FR 31691, May 24, 2022.
+
 (a) The TSP will only honor the terms of a criminal restitution order that is qualifying under paragraph (b) of this section.
 
 (b) A criminal restitution order must meet each of the following requirements to be considered qualifying:

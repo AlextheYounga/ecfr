@@ -1,5 +1,7 @@
 ##### § 1651.2 Entitlement to funds in a deceased participant's account. #####
 
+Link to an amendment published at 87 FR 31685, May 24, 2022.
+
 (a) *Death benefits.* Except as provided in paragraph (b) of this section, the account balance of a deceased participant will be paid as a death benefit to the individual or individuals surviving the participant, in the following order of precedence:
 
 (1) To the beneficiary or beneficiaries designated by the participant on the TSP designation of beneficiary form that has been properly completed and filed in accordance with § 1651.3;

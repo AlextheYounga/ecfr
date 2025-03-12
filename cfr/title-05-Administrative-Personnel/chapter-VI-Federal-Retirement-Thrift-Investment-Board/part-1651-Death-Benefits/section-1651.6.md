@@ -1,5 +1,7 @@
 ##### § 1651.6 Child or children. #####
 
+Link to an amendment published at 87 FR 31686, May 24, 2022.
+
 If the account is to be paid to the child or children, or to descendants of deceased children by representation, as provided in § 1651.2(a)(3), the following rules apply:
 
 (a) *Child.* A child includes a natural or adopted child of the deceased participant.

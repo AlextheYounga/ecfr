@@ -1,5 +1,7 @@
 ##### § 1650.63 Executive Director's exception to the spousal notification requirement. #####
 
+Link to an amendment published at 87 FR 31684, May 24, 2022.
+
 (a) Whenever this subpart requires the Executive Director to give notice of an action to the spouse of a CSRS participant, an exception to this requirement may be granted if the participant establishes to the satisfaction of the Executive Director that the spouse's whereabouts cannot be determined. A request for such an exception must be submitted to the TSP record keeper on the appropriate TSP paper form, accompanied by the following:
 
 (1) A court order stating that the spouse's whereabouts cannot be determined;

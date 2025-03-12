@@ -1,5 +1,7 @@
 ##### § 1640.3 Statement of individual account. #####
 
+Link to an amendment published at 87 FR 31680, May 24, 2022.
+
 In the quarterly statements, the Board will furnish each participant with the following information concerning the participant's individual account:
 
 (a) Name, account number, and date of birth under which the account is established;

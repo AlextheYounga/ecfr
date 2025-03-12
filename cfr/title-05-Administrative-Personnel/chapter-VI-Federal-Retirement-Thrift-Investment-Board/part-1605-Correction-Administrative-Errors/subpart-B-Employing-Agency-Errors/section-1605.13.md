@@ -1,5 +1,7 @@
 ##### § 1605.13 Back pay awards and other retroactive pay adjustments. #####
 
+Link to an amendment published at 87 FR 31677, May 24, 2022.
+
 (a) *Participant not employed.* The following rules apply to participants who receive a back pay award or other retroactive pay adjustment for a period during which the participant was separated from Government service or was not appointed to a position that is covered by FERS, CSRS, or an equivalent system under which TSP participation is authorized:
 
 (1) If the participant is reinstated or retroactively appointed to a position that is covered by FERS, CSRS, or an equivalent system under which TSP participation is authorized, immediately upon reinstatement or retroactive appointment the employing agency must give the participant the opportunity to submit a contribution election to make current contributions. The contribution election will be effective as soon as administratively feasible, but no later than the first day of the first full pay period after it is received.

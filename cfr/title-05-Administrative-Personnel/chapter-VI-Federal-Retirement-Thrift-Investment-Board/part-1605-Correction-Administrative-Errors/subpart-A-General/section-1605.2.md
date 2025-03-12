@@ -1,5 +1,7 @@
 ##### § 1605.2 Calculating, posting, and charging breakage on late contributions and loan payments. #####
 
+Link to an amendment published at 87 FR 31676, May 24, 2022.
+
 (a) The TSP will calculate breakage on late contributions, makeup agency contributions, and loan payments as described by § 1605.15(b). This breakage calculation is subject to the following rules:
 
 (1) The TSP will not calculate breakage if contributions or loan payments are posted within 30 days of the “as of” date, or if the total amount on a late payment record or the total agency contributions on a current payment record is less than $1.00; and

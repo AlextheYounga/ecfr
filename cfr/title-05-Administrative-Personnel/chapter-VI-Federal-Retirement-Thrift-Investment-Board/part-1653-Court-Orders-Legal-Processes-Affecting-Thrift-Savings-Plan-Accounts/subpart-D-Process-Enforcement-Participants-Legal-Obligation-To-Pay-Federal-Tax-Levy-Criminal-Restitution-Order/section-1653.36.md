@@ -1,5 +1,7 @@
 ##### § 1653.36 Payment. #####
 
+Link to an amendment published at 87 FR 31692, May 24, 2022.
+
 (a) Payment pursuant to a qualifying tax levy or criminal restitution order will be made 30 days after the TSP decision letter.
 
 (b) In no case will payment exceed the participant's calculated entitlement.

@@ -1,5 +1,7 @@
 ##### § 1651.14 How payment is made. #####
 
+Link to an amendment published at 87 FR 31686, May 24, 2022.
+
 (a) Each beneficiary's death benefit will be disbursed pro rata from the participant's traditional and Roth balances. The payment from the traditional balance will be further pro rated between the tax-deferred balance and tax-exempt balance. The payment from the Roth balance will be further pro rated between contributions in the Roth balance and earnings in the Roth balance. In addition, all death benefits will be disbursed pro rata from all TSP Funds in which the deceased participant's account is invested. All pro rated amounts will be based on the balances in each TSP Fund or source of contributions on the day the disbursement is made. Disbursement will be made separately for each entitled beneficiary.
 
 (b) *Spouse beneficiaries.* The TSP will automatically transfer a surviving spouse's death benefit to a beneficiary participant account (described in § 1651.19) established in the spouse's name. The TSP will not maintain a beneficiary participant account if the balance of the beneficiary participant account is less than $200 on the date the account is established. The Agency also will not transfer this amount or pay it by electronic funds transfer. Instead the spouse will receive an immediate distribution in the form of a check.

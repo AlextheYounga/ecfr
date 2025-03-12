@@ -193,7 +193,7 @@ Table 1 to Paragraph (b)
 |      Coalgate      |          242A           |
 |      Cordell       |          229A           |
 |     Covington      |          290A           |
-|     Millerton      |          265C2          |
+|     Millerton      |                         |
 |      Savanna       |          275A           |
 |        Vici        |          249A           |
 |       Wayne        |          266A           |
@@ -203,7 +203,7 @@ Table 1 to Paragraph (b)
 |     Arlington      |          295C2          |
 |    Diamond Lake    |          251A           |
 |     Huntington     |          228C1          |
-|       Powers       |          293C2          |
+|       Powers       |                         |
 |        Vale        |          288C           |
 |    PENNSYLVANIA    |                         |
 |      Liberty       |          298A           |
@@ -263,12 +263,12 @@ Table 1 to Paragraph (b)
 |      Memphis       |          292A           |
 |       Menard       |       265A, 292A        |
 |       Milano       |          274A           |
-|  Mount Enterprise  |          279A           |
+|  Mount Enterprise  |                         |
 |       Mullin       |       224A, 277A        |
 |       Munday       |          270C1          |
 |     O'Donnell      |          249A           |
 |       Olney        |          282A           |
-|     Paint Rock     |          296C3          |
+|     Paint Rock     |                         |
 |      Palacios      |          259C1          |
 |      Pearsall      |          277A           |
 |      Premont       |       264C3, 287A       |
@@ -298,7 +298,7 @@ Table 1 to Paragraph (b)
 |      Milford       |          288C           |
 |     Paragonah      |          258A           |
 |      VERMONT       |                         |
-|      Hardwick      |          290A           |
+|      Hardwick      |                         |
 |    West Rutland    |          298A           |
 |      VIRGINIA      |                         |
 |     WASHINGTON     |                         |
@@ -326,7 +326,7 @@ Table 1 to Paragraph (b)
 |      Manville      |          255C1          |
 |     Marbleton      |          257C1          |
 |    Medicine Bow    |          259C3          |
-|     Meeteetse      |          259C           |
+|     Meeteetse      |                         |
 |    Pine Bluffs     |          287A           |
 |      Rawlins       |          298C2          |
 |       Rozet        |          256C3          |

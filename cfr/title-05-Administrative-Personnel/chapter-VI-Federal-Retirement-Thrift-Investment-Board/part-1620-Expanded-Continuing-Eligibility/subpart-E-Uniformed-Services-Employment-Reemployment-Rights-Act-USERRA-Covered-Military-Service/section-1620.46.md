@@ -1,5 +1,7 @@
 ##### § 1620.46 Agency responsibilities. #####
 
+Link to an amendment published at 87 FR 31680, May 24, 2022.
+
 (a) *General.* Each employing agency must establish procedures for implementing these regulations. These procedures must at a minimum require agency personnel to identify eligible employees and notify them of their options under these regulations and the time period within which these options must be exercised.
 
 (b) *Agency records; procedure for reimbursement.* The agency making payments to the record keeper for all contributions and attributable breakage will obtain from prior employing agencies whatever information is necessary to make accurate payments. If a prior employing agency is ultimately chargeable under § 1620.43(b) for all or part of this expense, the agency making the payments to the record keeper will determine the procedure to follow in order to collect amounts owed to it by the agency ultimately chargeable with the expense.

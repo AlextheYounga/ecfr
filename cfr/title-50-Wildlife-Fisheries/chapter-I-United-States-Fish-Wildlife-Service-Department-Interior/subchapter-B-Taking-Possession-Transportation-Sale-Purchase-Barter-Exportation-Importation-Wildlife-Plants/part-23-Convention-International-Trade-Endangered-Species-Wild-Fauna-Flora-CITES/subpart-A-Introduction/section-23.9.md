@@ -1,13 +1,21 @@
 ##### § 23.9 Incorporation by reference. #####
 
-Link to an amendment published at 87 FR 10079, Feb. 23, 2022.
+Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at U.S. Fish and Wildlife Service, International Affairs, Division of Management Authority, 703-358-2104 and is available from the sources listed elsewhere in this section. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fr.inspection@nara.gov* or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
-(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may inspect copies at the U.S. Management Authority, U.S. Fish and Wildlife Service Headquarters, MS. IA, 5275 Leesburg Pike, Falls Church, VA 22041-3803, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+(a) International Air Transport Association (IATA), 800 Place Victoria, P.O. Box 113, Montreal, Quebec, Canada H4Z 1M1, 1-800-716-6326, *www.iata.org.*
 
-(b) International Air Transport Association (IATA), 800 Place Victoria, P.O. Box 113, Montreal, Quebec, Canada H4Z 1M1, 1-800-716-6326, *http://www.iata.org.*
+(1) *Live Animals Regulations (LAR) 48th edition,* effective January 1, 2022, into §§ 23.23, 23.26, and 23.56.
 
-(1) Live Animals Regulations (LAR) 40th edition, effective October 1, 2013, into §§ 23.23, 23.26, and 23.56.
+(2) *Perishable Cargo Regulations (PCR) 21st edition,* effective January 1, 2022, into §§ 23.23, 23.26, and 23.56.
 
-(2) Perishable Cargo Regulations (PCR) 13th edition, effective July 1, 2013, into §§ 23.23, 23.26, and 23.56.
+(b) CITES Secretariat: Palais des Nations, Avenue de la Paix 8-14, 1211 Genève 10, Switzerland; telephone +41-(0)22-917-81-39/40; email *info@cites.org, www.cites.org.*
 
-[79 FR 30420, May 27, 2014, as amended at 79 FR 43967, July 29, 2014]
+(1) *CITES Guidelines for the non-air transport of live wild animals and plants,* effective January 2, 2017, into §§ 23.23, 23.26, and 23.56, available for downloading at
+
+(i) *https://cites.org/eng/resources/transport/index.php*
+
+(ii) *https://www.fws.gov/international/travel-and-trade/live-animal-transport.html*
+
+(2) [Reserved]
+
+[87 FR 10079, Feb. 23, 2022]

@@ -1,5 +1,7 @@
 ##### § 1631.3 Organization and functions. #####
 
+Link to an amendment published at 87 FR 31680, May 24, 2022.
+
 (a) The Federal Retirement Thrift Investment Board was established by the Federal Employees' Retirement System Act of 1986 (Pub. L. 99-335, 5 U.S.C. 8401 et seq.). Its primary function is to manage and invest the Thrift Savings Fund for the exclusive benefit of its participants (e.g., participating Federal employees, Federal judges, and Members of Congress). The Board is responsible for investment of the assets of the Thrift Savings Fund and the management of the Thrift Savings Plan. The Board consists of:
 
 (1) The five part-time members who serve on the Board;

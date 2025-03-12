@@ -1,5 +1,7 @@
 ##### § 1655.14 Loan payments. #####
 
+Link to an amendment published at 87 FR 31693, May 24, 2022.
+
 (a) Loan payments must be made through payroll deduction in accordance with the loan agreement. Once loan payments begin, the employing agency cannot terminate the payroll deductions at the employee's request, unless the TSP instructs it to do so.
 
 (b) The participant may make additional payments by mailing a personal check or guaranteed funds to the TSP record keeper. If the TSP receives a payment that repays the outstanding loan amount and overpays the loan by $10.00 or more, the overpayment will be refunded to the participant. Overpayments of less than $10 will be applied to the participant's account and will not be refunded. If a loan overpayment refund is returned as undeliverable, the TSP record keeper will attempt to locate the participant. If the participant does not respond within 60 days, the TSP will forfeit the overpayment refund to the Plan. The participant can claim the forfeited funds, although they will not be credited with TSP investment fund returns.

@@ -1,5 +1,7 @@
 ##### § 1655.16 Reamortization. #####
 
+Link to an amendment published at 87 FR 31694, May 24, 2022.
+
 (a) A participant may request reamortization of a loan at any time to change the amount of the payments, unless the loan is in a default status.
 
 (b) Upon reamortization, the outstanding principal balance remains the same. Any accrued interest is paid off first before payments are applied to principal and current interest.

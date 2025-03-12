@@ -1,5 +1,7 @@
 ##### § 1655.12 Loan agreement. #####
 
+Link to an amendment published at 87 FR 31693, May 24, 2022.
+
 (a) Upon determining that a loan application meets the requirements of this part, the TSP record keeper will provide the participant with the terms and conditions of the loan, as follows:
 
 (1) If the participant submits a paper loan application, the TSP record keeper will mail the loan agreement, and other information as appropriate, to the participant.

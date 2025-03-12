@@ -1,5 +1,7 @@
 ##### § 1651.8 Participant's estate. #####
 
+Link to an amendment published at 87 FR 31686, May 24, 2022.
+
 If the account is to be paid to the duly appointed executor or administrator of the participant's estate under § 1651.2(a)(5), the following rules apply:
 
 (a) *Appointment by court.* The executor or administrator must provide documentation of court appointment.

@@ -1,5 +1,7 @@
 ##### § 1690.12 Power of attorney. #####
 
+Link to an amendment published at 87 FR 31695, May 24, 2022.
+
 (a) A participant or beneficiary can appoint an agent to conduct business with the TSP on his or her behalf by using a power of attorney (POA). The agent is called an attorney-in-fact. The TSP must approve a POA before the agent can conduct business with the TSP; however, the TSP will accept a document that was signed by the agent before the TSP approved the POA. The TSP will approve a POA if it meets the following conditions:
 
 (1) The POA must give the agent either general or specific powers, as explained in paragraphs (b) and (c) of this section;

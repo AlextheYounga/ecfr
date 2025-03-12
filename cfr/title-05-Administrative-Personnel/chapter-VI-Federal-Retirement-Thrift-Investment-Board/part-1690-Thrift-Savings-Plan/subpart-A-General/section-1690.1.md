@@ -1,5 +1,7 @@
 ##### § 1690.1 Definitions. #####
 
+Link to an amendment published at 87 FR 31695, May 24, 2022.
+
 As used in this chapter:
 
 *Account* or *individual account* means the account established for a participant in the Thrift Savings Plan under 5 U.S.C. 8439(a). The TSP offers four types of accounts: civilian participant accounts, uniformed services accounts, civilian beneficiary participant accounts, and uniformed services beneficiary participant accounts. Each type of account may contain a traditional balance, a Roth balance, or both.

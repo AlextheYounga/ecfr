@@ -1,5 +1,7 @@
 ##### § 1620.22 Withdrawals. #####
 
+Link to an amendment published at 87 FR 31679, May 24, 2022.
+
 (a) *Post-employment withdrawal.* An individual covered under this subpart can make a post-employment withdrawal election described at 5 U.S.C. 8433(b):
 
 (1) Upon separation from Government employment.

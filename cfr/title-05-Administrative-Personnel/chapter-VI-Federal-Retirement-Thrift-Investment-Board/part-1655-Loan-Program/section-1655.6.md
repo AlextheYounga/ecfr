@@ -1,5 +1,7 @@
 ##### § 1655.6 Amount of loan. #####
 
+Link to an amendment published at 87 FR 31692, May 24, 2022.
+
 (a) *Minimum amount.* The initial principal amount of any loan may not be less than $1,000.
 
 (b) *Maximum amount.* The principal amount of a new loan must be less than or equal to the smallest of the following:

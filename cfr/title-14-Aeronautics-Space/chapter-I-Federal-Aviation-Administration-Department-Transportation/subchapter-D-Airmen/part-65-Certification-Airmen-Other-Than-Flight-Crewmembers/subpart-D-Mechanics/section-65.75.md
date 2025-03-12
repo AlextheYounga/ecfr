@@ -1,5 +1,7 @@
 ##### § 65.75 Knowledge requirements. #####
 
+Link to an amendment published at 87 FR 31414, May 24, 2022.
+
 (a) Each applicant for a mechanic certificate or rating must, after meeting the applicable experience requirements of § 65.77, pass a written test covering the construction and maintenance of aircraft appropriate to the rating he seeks, the regulations in this subpart, and the applicable provisions of parts 43 and 91 of this chapter. The basic principles covering the installation and maintenance of propellers are included in the powerplant test.
 
 (b) The applicant must pass each section of the test before applying for the oral and practical tests prescribed by § 65.79. A report of the written test is sent to the applicant.

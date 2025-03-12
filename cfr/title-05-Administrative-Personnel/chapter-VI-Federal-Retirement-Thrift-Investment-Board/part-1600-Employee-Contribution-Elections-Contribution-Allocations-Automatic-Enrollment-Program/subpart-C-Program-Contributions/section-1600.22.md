@@ -1,5 +1,7 @@
 ##### § 1600.22 Maximum employee contributions. #####
 
+Link to an amendment published at 87 FR 31672, May 24, 2022.
+
 A participant's employee contributions are subject to the following limitations:
 
 (a) The maximum employee contribution will be limited only by the provisions of the Internal Revenue Code (26 U.S.C.).

@@ -1,5 +1,7 @@
 ##### § 1620.42 Processing TSP contribution elections. #####
 
+Link to an amendment published at 87 FR 31679, May 24, 2022.
+
 (a) *Current contribution election.* If the employee entered nonpay status with a valid contribution election on file, the agency must immediately reinstate that election for current contributions when the employee returns to pay status, unless the employee files a new contribution election. If the employee separated to perform military service, he or she must make a new contribution election to begin current contributions.
 
 (b) *Makeup contribution election.* Upon reemployment or return to pay status, an employee has 60 days to elect to make up missed contributions. An employee's right to make retroactive TSP contributions will expire if an election is not made within 60 days of the participant's reemployment or return to pay status.

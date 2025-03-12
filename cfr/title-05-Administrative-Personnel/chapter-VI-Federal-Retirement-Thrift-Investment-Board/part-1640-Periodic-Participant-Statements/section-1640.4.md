@@ -1,5 +1,7 @@
 ##### § 1640.4 Account transactions. #####
 
+Link to an amendment published at 87 FR 31680, May 24, 2022.
+
 (a) Where relevant, the following transactions will be reported in each individual account statement:
 
 (1) Contributions;

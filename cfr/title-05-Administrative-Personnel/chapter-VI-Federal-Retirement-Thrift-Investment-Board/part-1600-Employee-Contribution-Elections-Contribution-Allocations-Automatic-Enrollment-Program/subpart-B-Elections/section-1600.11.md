@@ -1,5 +1,7 @@
 ##### § 1600.11 Types of elections. #####
 
+Link to an amendment published at 87 FR 31672, May 24, 2022.
+
 (a) *Contribution elections.* A contribution election must be made pursuant to § 1600.12 and includes the following types of elections:
 
 (1) To make employee contributions;

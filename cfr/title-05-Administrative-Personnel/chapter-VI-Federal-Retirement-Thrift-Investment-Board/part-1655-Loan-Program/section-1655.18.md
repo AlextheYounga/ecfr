@@ -1,5 +1,7 @@
 ##### § 1655.18 Spousal rights. #####
 
+Link to an amendment published at 87 FR 31694, May 24, 2022.
+
 (a) *Spouse of CSRS participant.* (1) Before a loan is disbursed to a CSRS participant, the TSP record keeper will send a notice to the participant's current spouse that the participant has applied for a loan.
 
 (2) A CSRS participant may obtain an exception to the requirement described in paragraph (a)(1) of this section if the participant establishes, to the satisfaction of the Executive Director, that the spouse's whereabouts are unknown as described in paragraph (c) of this section.

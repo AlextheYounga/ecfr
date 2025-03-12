@@ -1,5 +1,7 @@
 ##### § 1645.5 Calculation of share prices. #####
 
+Link to an amendment published at 87 FR 31681, May 24, 2022.
+
 (a) *Calculation of share price.* The share price for each TSP Fund for each business day will apply to all sources of contributions for that fund. The total net earnings (as computed under § 1645.3) for each fund will be divided by the total fund basis (as computed under § 1645.6) for that fund. The resulting number, computed to ten decimal places, represents the incremental change in the value of that fund from the last business day to the current business day. The share price for that fund for the current business day is the sum of the incremental change in the share price for the current business day plus the share price for the prior business day, truncated to two decimal places.
 
 (b) *Residual net earnings.* When the total net earnings for each business day for each TSP Fund are divided by the total fund basis in that fund, there will be residual net earnings attributable to the truncation described in paragraph (a) of this section which will not be included in the incremental change in the share price of the fund for that business day. The residual net earnings that are not included in the incremental share price for the fund may be added to the earnings for that fund on the next business day.

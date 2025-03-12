@@ -1,5 +1,7 @@
 ##### § 1605.15 Reporting and processing late contributions and late loan payments. #####
 
+Link to an amendment published at 87 FR 31678, May 24, 2022.
+
 (a) The employing agency must promptly submit late contributions to the TSP record keeper on behalf of the affected participant on late payment records as soon as the error is discovered. For each pay date involved, the employing agency must submit a separate record showing the “as of” date for the contributions. Breakage for both employee and agency contributions will be calculated, posted, and charged to the agency or forfeited to the TSP in accordance with § 1605.2.
 
 (b) If an employing agency deducts loan payments from a participant's pay, but fails to submit those payments to the TSP for the pay date for which they were deducted (or submits them in a manner that prevents them from being timely credited to the participant's account), the employing agency will be responsible for paying breakage using the procedure described in § 1605.2. The loan payment record must contain the “as of” date for which the loan payment was deducted.

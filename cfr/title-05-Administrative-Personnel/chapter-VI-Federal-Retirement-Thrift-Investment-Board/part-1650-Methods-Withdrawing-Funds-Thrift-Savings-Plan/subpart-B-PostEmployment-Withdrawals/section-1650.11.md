@@ -1,5 +1,7 @@
 ##### § 1650.11 Withdrawal elections. #####
 
+Link to an amendment published at 87 FR 31682, May 24, 2022.
+
 (a) Subject to the restrictions in this subpart, participants may elect to withdraw all or a portion of their TSP accounts in a single payment, a series of installment payments, a life annuity, or any combination of these options.
 
 (b) If a participant's account balance is less than $5.00 when he or she separates from Government service, the balance will automatically be forfeited to the TSP. The participant can reclaim the money by writing to the TSP record keeper and requesting the amount that was forfeited; however, TSP investment earnings will not be credited to the account after the date of the forfeiture.

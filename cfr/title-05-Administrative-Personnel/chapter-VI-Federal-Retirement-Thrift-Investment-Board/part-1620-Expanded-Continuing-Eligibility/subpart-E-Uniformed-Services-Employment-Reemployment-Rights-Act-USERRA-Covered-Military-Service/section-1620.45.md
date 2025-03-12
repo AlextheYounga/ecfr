@@ -1,5 +1,7 @@
 ##### § 1620.45 Suspending TSP loans, restoring post-employment withdrawals, and reversing taxable distributions. #####
 
+Link to an amendment published at 87 FR 31679, May 24, 2022.
+
 (a) *Suspending TSP loans during nonpay status.* If the TSP is notified that an employee entered into a nonpay status to perform military service, any outstanding TSP loan from a civilian TSP account will be suspended, that is, it will not be declared a taxable distribution while the employee is performing military service.
 
 (1) Interest will accrue on the loan balance during the period of suspension. When the employee returns to civilian pay status, the employing agency will resume deducting loan payments from the participant's basic pay and the TSP will reamortize the loan (which will include interest accrued during the period of military service). The maximum loan repayment term will be extended by the employee's period of military service. Consequently, when the employee returns to pay status, the TSP record keeper must receive documentation to show the beginning and ending dates of military service.

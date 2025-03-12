@@ -1,5 +1,7 @@
 ##### § 1605.21 Plan-paid breakage and other corrections. #####
 
+Link to an amendment published at 87 FR 31678, May 24, 2022.
+
 (a) *Plan-paid breakage.* (1) Subject to paragraph (a)(3) of this section, if, because of an error committed by the Board or the TSP record keeper, a participant's account is not credited or charged with the investment gains or losses the account have received had the error not occurred, the account will be credited accordingly.
 
 (2) Errors that warrant the crediting of breakage under paragraph (a)(1) of this section include, but are not limited to:

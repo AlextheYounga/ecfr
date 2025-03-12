@@ -1,5 +1,7 @@
 ##### § 1653.34 Processing Federal tax levies and criminal restitution orders. #####
 
+Link to an amendment published at 87 FR 31691, May 24, 2022.
+
 (a) The payment of tax levies and criminal restitution orders from the TSP is governed solely by the Federal Employees' Retirement Systems Act, 5 U.S.C. chapter 84, and by the terms of this subpart. Although the TSP will honor tax levies or criminal restitution orders properly issued, those entities have no jurisdiction over the TSP and the TSP cannot be made a party to the underlying proceedings.
 
 (b) The TSP will review a tax levy or criminal restitution order to determine whether it is enforceable against the TSP only after it has received a complete copy of the document. Receipt by an employing agency or any other agency of the Government does not constitute receipt by the TSP. Tax levies and criminal restitution orders should be submitted to the TSP record keeper at the current address as provided at *http://www.tsp.gov.* Receipt by the TSP record keeper is considered receipt by the TSP. To be complete, a tax levy or criminal restitution order must meet all the requirements of § 1653.32 or § 1653.33; it must also provide (or be accompanied by a document or enforcement letter that provides):

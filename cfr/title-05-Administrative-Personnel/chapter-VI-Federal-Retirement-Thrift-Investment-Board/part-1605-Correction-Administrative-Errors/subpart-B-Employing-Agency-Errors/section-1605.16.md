@@ -1,5 +1,7 @@
 ##### § 1605.16 Claims for correction of employing agency errors; time limitations. #####
 
+Link to an amendment published at 87 FR 31678, May 24, 2022.
+
 (a) *Agency's discovery of error.* (1) Upon discovery of an error made within the past six months involving the correct or timely remittance of payments to the TSP (other than a retirement system misclassification error, as covered in paragraph (c) of this section), an employing agency must promptly correct the error on its own initiative. If the error was made more than six months before it was discovered, the agency may exercise sound discretion in deciding whether to correct it, but, in any event, the agency must act promptly in doing so.
 
 (2) For errors involving incorrect dates of birth caused by employing agency error that result in default investment in the wrong L Fund, the employing agency must promptly notify the TSP that the participant is entitled to breakage if the error is discovered within 30 days of either the date the TSP provides the participant with a notice reflecting the error or the date the TSP makes available on its Web site a participant statement reflecting the error, whichever is earlier. If it is discovered after that time, the employing agency may use its sound discretion in deciding whether to pay breakage, but, in any event, must act promptly in doing so.

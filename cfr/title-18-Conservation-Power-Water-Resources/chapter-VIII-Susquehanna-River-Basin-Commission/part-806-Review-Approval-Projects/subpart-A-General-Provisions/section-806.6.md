@@ -34,4 +34,4 @@
 
 (4) The Executive Director may require hydrogeologic evaluation under § 806.12 and/or formal review and approval of any of the previously unapproved sources sooner if those sources show a substantial likelihood of environmental harm, interference with other water users or water availability issues.
 
-[80 FR 76857, Dec. 11, 2015, as amended at 82 FR 29390, June 29, 2017; 86 FR 52967, Sept. 24, 2021]
+[80 FR 76857, Dec. 11, 2015, as amended at 86 FR 52967, Sept. 24, 2021]

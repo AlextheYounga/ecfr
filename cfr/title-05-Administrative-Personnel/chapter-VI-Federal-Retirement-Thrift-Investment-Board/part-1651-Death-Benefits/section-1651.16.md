@@ -1,5 +1,7 @@
 ##### § 1651.16 Missing and unknown beneficiaries. #####
 
+Link to an amendment published at 87 FR 31687, May 24, 2022.
+
 (a) *Locate and identify beneficiaries.* (1) The TSP record keeper will attempt to identify and locate all potential beneficiaries.
 
 (2) If a beneficiary is not identified and located, and at least one year has passed since the date of the participant's death, the beneficiary will be treated as having predeceased the participant and the beneficiary's share will be paid in accordance with § 1651.10

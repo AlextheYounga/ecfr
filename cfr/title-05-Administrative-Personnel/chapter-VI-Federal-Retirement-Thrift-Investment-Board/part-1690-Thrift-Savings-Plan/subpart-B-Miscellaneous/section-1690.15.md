@@ -1,5 +1,7 @@
 ##### § 1690.15 Freezing an account - administrative holds. #####
 
+Link to an amendment published at 87 FR 31696, May 24, 2022.
+
 (a) The TSP may freeze (e.g., place an administrative hold on) a participant's account for any of the following reasons:
 
 (1) Pursuant to a qualifying retirement benefits court order as set forth in part 1653 of this chapter;

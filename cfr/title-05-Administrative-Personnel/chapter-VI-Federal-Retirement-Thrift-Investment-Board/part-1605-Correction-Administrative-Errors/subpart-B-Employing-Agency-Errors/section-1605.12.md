@@ -1,5 +1,7 @@
 ##### § 1605.12 Removal of erroneous contributions. #####
 
+Link to an amendment published at 87 FR 31677, May 24, 2022.
+
 (a) *Applicability.* This section applies to the removal of funds erroneously contributed to the TSP. The TSP calls this action a negative adjustment, and agencies may only request negative adjustments of erroneous contributions made on or after January 1, 2000. Excess contributions addressed by this section include, for example, excess employee contributions that result from employing agency error and excess employer contributions. This section does not address excess contributions resulting from a FERCCA correction; those contributions are addressed in § 1605.14.
 
 (b) *Method of correction.* Negative adjustment records must be submitted by employing agencies in accordance with this part and any other procedures provided by the Board.

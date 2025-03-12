@@ -1,5 +1,7 @@
 ##### § 1655.11 Loan acceptance. #####
 
+Link to an amendment published at 87 FR 31693, May 24, 2022.
+
 The TSP record keeper will reject a loan application if:
 
 (a) The participant is not qualified to apply for a loan under § 1655.2 or has failed to provide all required information on the loan application;

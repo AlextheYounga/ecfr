@@ -1,6 +1,6 @@
 ##### § 100.28 Subsistence taking of shellfish. #####
 
-(a) *Covered species* - (1) Regulations in this section apply to subsistence taking of Dungeness crab, king crab, Tanner crab, shrimp, clams, abalone, and other shellfish or their parts.
+(a) *Covered species*—(1) Regulations in this section apply to subsistence taking of Dungeness crab, king crab, Tanner crab, shrimp, clams, abalone, and other shellfish or their parts.
 
 (2) You may take shellfish for subsistence uses at any time in any area of the public lands by any method unless restricted by this section.
 
@@ -88,7 +88,7 @@
 
 (2) The captain and crewmembers of a charter vessel may not deploy, set, or retrieve their own gear in a subsistence shellfish fishery when that vessel is being chartered.
 
-(i) *Subsistence shellfish areas and pertinent restrictions* - (1) *Southeastern Alaska - Yakutat Area.* No marine waters are currently identified under Federal subsistence management jurisdiction, except the marine waters occurring in the vicinity of Makhnati Island as described in § \_\_.3(b)(5) of these regulations.
+(i) *Subsistence shellfish areas and pertinent restrictions*—(1) *Southeastern Alaska—Yakutat Area.* No marine waters are currently identified under Federal subsistence management jurisdiction, except the marine waters occurring in the vicinity of Makhnati Island as described in § \_\_\_\_.3(b)(5) of these regulations.
 
 (2) *Prince William Sound Area.* No marine waters are currently identified under Federal subsistence management jurisdiction.
 
@@ -140,7 +140,7 @@
 
 (C) The daily harvest and possession limit per person is 12 male crabs with a shell width 51/2 inches or greater.
 
-(5) *Alaska Peninsula - Aleutian Islands Area.* (i) The operator of a commercially licensed and registered shrimp fishing vessel must obtain a subsistence fishing permit from the ADF&G prior to subsistence shrimp fishing during a closed State commercial shrimp fishing season or within a closed commercial shrimp fishing district, section, or subsection; the permit must specify the area and the date the vessel operator intends to fish; no more than 500 pounds (227 kg) of shrimp may be in possession aboard the vessel.
+(5) *Alaska Peninsula—Aleutian Islands Area.* (i) The operator of a commercially licensed and registered shrimp fishing vessel must obtain a subsistence fishing permit from the ADF&G prior to subsistence shrimp fishing during a closed State commercial shrimp fishing season or within a closed commercial shrimp fishing district, section, or subsection; the permit must specify the area and the date the vessel operator intends to fish; no more than 500 pounds (227 kg) of shrimp may be in possession aboard the vessel.
 
 (ii) The daily harvest and possession limit is 12 male Dungeness crabs per person; only crabs with a shell width of 51/2 inches or greater may be taken or possessed.
 

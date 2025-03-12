@@ -1,5 +1,7 @@
 ##### § 1655.15 Taxable distributions. #####
 
+Link to an amendment published at 87 FR 31693, May 24, 2022.
+
 (a) The Board may declare any unpaid loan principal, plus unpaid interest, to be a taxable distribution from the Plan if:
 
 (1) A participant is in a confirmed nonpay status for a period of one year or more, has not advised the TSP that he or she is serving on active military duty, and payments are not resumed after the participant is notified the loan has been reamortized;

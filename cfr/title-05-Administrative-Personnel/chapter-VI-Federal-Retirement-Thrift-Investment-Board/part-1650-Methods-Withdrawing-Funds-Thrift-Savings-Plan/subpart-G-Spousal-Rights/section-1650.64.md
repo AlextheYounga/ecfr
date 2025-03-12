@@ -1,5 +1,7 @@
 ##### § 1650.64 Executive Director's exception to the spousal consent requirement. #####
 
+Link to an amendment published at 87 FR 31685, May 24, 2022.
+
 (a) Whenever this subpart requires the consent of a spouse of a FERS or uniformed services participant to a loan or withdrawal or a waiver of the right to a survivor annuity, an exception to this requirement may be granted if the participant establishes to the satisfaction of the Executive Director that:
 
 (1) The spouse's whereabouts cannot be determined in accordance with the provisions of this subpart; or

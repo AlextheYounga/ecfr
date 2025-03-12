@@ -1,5 +1,7 @@
 ##### § 1690.13 Guardianship and conservatorship orders. #####
 
+Link to an amendment published at 87 FR 31696, May 24, 2022.
+
 (a) A court order can authorize an agent to conduct business with the TSP on behalf of an incapacitated participant or beneficiary. The agent is called a guardian or conservator and the incapacitated person is called a ward. The TSP must approve a court order before an agent can conduct business with the TSP; however, the TSP will accept a document that was signed by the agent before the TSP approved the court order. The TSP will approve a court order appointing an agent if the following conditions are met:
 
 (1) A court of competent jurisdiction (as defined at 5 CFR 1690.1) must have issued the court order;

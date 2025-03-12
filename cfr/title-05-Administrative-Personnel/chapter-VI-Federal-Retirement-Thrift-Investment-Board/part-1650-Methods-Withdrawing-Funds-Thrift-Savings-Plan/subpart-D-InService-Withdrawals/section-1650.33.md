@@ -1,5 +1,7 @@
 ##### § 1650.33 Contributing to the TSP after an in-service withdrawal. #####
 
+Link to an amendment published at 87 FR 31684, May 24, 2022.
+
 (a) *Age-Based In-Service Withdrawals.* A participant's TSP contribution election will not be affected by an age-based in-service withdrawal; therefore, his or her TSP contributions will continue without interruption.
 
 (b) *Financial Hardship In-Service Withdrawals.* (1) A participant who obtains a financial hardship in-service withdrawal prior to September 15, 2019, may not contribute to the TSP until the earlier of:

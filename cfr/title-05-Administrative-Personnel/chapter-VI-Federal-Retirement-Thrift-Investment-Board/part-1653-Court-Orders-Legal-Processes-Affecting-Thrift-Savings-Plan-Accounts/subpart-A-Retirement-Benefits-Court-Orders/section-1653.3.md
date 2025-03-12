@@ -1,5 +1,7 @@
 ##### § 1653.3 Processing retirement benefits court orders. #####
 
+Link to an amendment published at 87 FR 31688, May 24, 2022.
+
 (a) The payment of a retirement benefits court order from the TSP is governed solely by FERSA and by the terms of this subpart. The TSP will honor retirement benefits court orders properly issued by a court (as defined in § 1653.1). However, those courts have no jurisdiction over the TSP and the TSP cannot be made a party to the underlying domestic relations proceedings.
 
 (b) The TSP will review a retirement benefits court order to determine whether it is enforceable against the TSP only after the TSP has received a complete copy of the document. Receipt by an employing agency or any other agency of the Government does not constitute receipt by the TSP. Retirement benefits court orders should be submitted to the TSP record keeper at the current address as provided at *http://www.tsp.gov.* Receipt by the TSP record keeper is considered receipt by the TSP. To be complete, a court order must be written in English or be accompanied by a certified English translation and contain all pages and attachments; it must also provide (or be accompanied by a document that provides):

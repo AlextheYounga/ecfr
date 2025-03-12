@@ -1,5 +1,7 @@
 ##### § 1653.13 Processing legal processes. #####
 
+Link to an amendment published at 87 FR 31690, May 24, 2022.
+
 (a) The payment of legal processes from the TSP is governed solely by the Federal Employees' Retirement System Act, 5 U.S.C. chapter 84, and by the terms of this subpart. Although the TSP will honor legal processes properly issued by a competent authority, those entities have no jurisdiction over the TSP and the TSP cannot be made a party to the underlying proceedings.
 
 (b) The TSP will review a legal process to determine whether it is enforceable against the TSP only after the TSP has received a complete copy of the document. Receipt by an employing agency or any other agency of the Government does not constitute receipt by the TSP. Legal processes should be submitted to the TSP record keeper at the current address as provided at *http://www.tsp.gov.* Receipt by the TSP record keeper is considered receipt by the TSP. To be complete, a legal process must contain all pages and attachments; it must also provide (or be accompanied by a document that provides):

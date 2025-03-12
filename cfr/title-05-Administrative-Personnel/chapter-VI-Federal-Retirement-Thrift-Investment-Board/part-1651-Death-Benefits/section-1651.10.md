@@ -1,5 +1,7 @@
 ##### § 1651.10 Deceased and non-existent beneficiaries. #####
 
+Link to an amendment published at 87 FR 31686, May 24, 2022.
+
 (a) *Designated beneficiary dies before participant.* The share of any designated beneficiary who predeceases the participant will be paid pro rata to the participant's other designated beneficiary or beneficiaries. If no designated beneficiary survives the participant, the account will be paid according to the order of precedence set forth in § 1651.2(a).
 
 (b) *Trust designated as beneficiary but not in existence.* If a participant designated a trust or other entity as a beneficiary and the entity does not exist on the date of the participant's death, or is not created by will or other document that is effective upon the participant's death, the amount designated to the entity will be paid in accordance with the rules of paragraph (a) of this section, as if the trust were a beneficiary that predeceased the participant.

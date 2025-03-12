@@ -1,5 +1,7 @@
 ##### § 1653.2 Qualifying retirement benefits court orders. #####
 
+Link to an amendment published at 87 FR 31688, May 24, 2022.
+
 (a) To be qualifying, and thus enforceable against the TSP, a retirement benefits court order must meet the following requirements:
 
 (1) The order must expressly relate to the Thrift Savings Plan account of a TSP participant. This means that:

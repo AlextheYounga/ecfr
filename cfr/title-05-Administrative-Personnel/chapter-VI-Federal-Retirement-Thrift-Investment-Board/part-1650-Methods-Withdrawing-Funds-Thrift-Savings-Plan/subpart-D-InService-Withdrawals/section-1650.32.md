@@ -1,5 +1,7 @@
 ##### § 1650.32 Financial hardship withdrawals. #####
 
+Link to an amendment published at 87 FR 31683, May 24, 2022.
+
 (a) A participant who has not separated from Government employment and who can certify that he or she has a financial hardship is eligible to withdraw all or a portion of his or her own contributions to the TSP (and their attributable earnings) in a single payment to meet certain specified financial obligations. The amount of a financial hardship withdrawal request must be at least $1,000.
 
 (b) To be eligible for a financial hardship withdrawal, a participant must have a financial need that results from at least one of the following five conditions:

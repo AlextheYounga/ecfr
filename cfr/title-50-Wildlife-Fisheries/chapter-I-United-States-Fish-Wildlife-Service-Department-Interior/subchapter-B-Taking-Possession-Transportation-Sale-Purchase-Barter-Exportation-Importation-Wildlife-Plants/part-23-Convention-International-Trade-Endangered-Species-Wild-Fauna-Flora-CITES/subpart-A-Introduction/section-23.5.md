@@ -1,7 +1,5 @@
 ##### § 23.5 How are the terms used in these regulations defined? #####
 
-Link to an amendment published at 87 FR 10079, Feb. 23, 2022.
-
 In addition to the definitions contained in part 10 of this subchapter, and unless the context otherwise requires, in this part:
 
 *Affected by trade* means that either a species is known to be in trade and the trade has or may have a detrimental impact on the status of the species, or a species is suspected to be in trade or there is demonstrable potential international demand for the species that may be detrimental to the survival of the species in the wild.
@@ -11,6 +9,8 @@ In addition to the definitions contained in part 10 of this subchapter, and unle
 *Appropriate and acceptable destination*, when used in an Appendix-II listing annotation for the export of, or international trade in, live animals, means that the Management Authority of the importing country has certified, based on advice from the Scientific Authority of that country, that the proposed recipient is suitably equipped to house and care for the animal (see criteria in § 23.65). Such certification must be provided before a CITES document is issued by the Management Authority of the exporting or re-exporting country.
 
 *Artificially propagated* means a cultivated plant that meets the criteria in § 23.64.
+
+*Assisted production* means a plant specimen that does not fall within the definition of “artificially propagated” and the source of the specimen is considered not to be taken from the wild because it was propagated or planted in an environment with some level of human intervention for the purpose of plant production.
 
 *ATA carnet* means a type of international customs document (see § 23.50). ATA is a combination of the French and English words “Admission Temporaire/Temporary Admission.”
 
@@ -120,4 +120,4 @@ In addition to the definitions contained in part 10 of this subchapter, and unle
 
 *Traveling exhibition* means a display of live or dead wildlife or plants for entertainment, educational, cultural, or other display purposes that is temporarily moving internationally.
 
-[72 FR 48448, Aug. 23, 2007, as amended at 79 FR 30419, May 27, 2014]
+[72 FR 48448, Aug. 23, 2007, as amended at 79 FR 30419, May 27, 2014; 87 FR 10079, Feb. 23, 2022]

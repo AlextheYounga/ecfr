@@ -1,5 +1,7 @@
 ##### § 1650.16 Required minimum distributions. #####
 
+Link to an amendment published at 87 FR 31682, May 24, 2022.
+
 (a) A separated participant must receive required minimum distributions from his or her account commencing no later than the required beginning date and, for each year thereafter, no later than December 31.
 
 (b) A separated participant may elect to withdraw from his or her account or to begin receiving payments before the required beginning date, but is not required to do so.

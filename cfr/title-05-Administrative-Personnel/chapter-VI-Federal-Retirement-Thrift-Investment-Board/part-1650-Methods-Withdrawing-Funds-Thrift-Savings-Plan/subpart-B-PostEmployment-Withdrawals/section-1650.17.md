@@ -1,5 +1,7 @@
 ##### § 1650.17 Changes and cancellation of a withdrawal request. #####
 
+Link to an amendment published at 87 FR 31683, May 24, 2022.
+
 (a) *Before processing.* A pending withdrawal request can be cancelled if the cancellation is received and can be processed before the TSP processes the withdrawal request. However, the TSP processes withdrawal requests each business day and those that are entered into the record keeping system by 12:00 noon eastern time will ordinarily be processed that night; those entered after 12:00 noon eastern time will be processed the next business day. Consequently, a cancellation request must be received and entered into the system before the cut-off for the day the withdrawal request is submitted for processing in order to be effective to cancel the withdrawal.
 
 (b) *After processing.* A withdrawal election cannot be changed or cancelled after the withdrawal request has been processed. Consequently, funds disbursed cannot be returned to the TSP record keeper.

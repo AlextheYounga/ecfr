@@ -1,5 +1,7 @@
 ##### § 1655.2 Eligibility for loans. #####
 
+Link to an amendment published at 87 FR 31692, May 24, 2022.
+
 A participant can apply for a TSP general purpose or residential loan if:
 
 (a) More than 60 calendar days have elapsed since the participant has repaid in full a TSP loan of the same type.

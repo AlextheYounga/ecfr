@@ -1,5 +1,7 @@
 ##### § 1655.13 Loan approval and issuance. #####
 
+Link to an amendment published at 87 FR 31693, May 24, 2022.
+
 (a) When the completed loan agreement is signed electronically or returned by the participant to the TSP record keeper, together with any documentation required to be submitted, the loan will be initially approved or denied by the TSP record keeper based upon the requirements of this part, including the following conditions:
 
 (1) The participant has signed the promise to repay the loan, has agreed to repay the loan through payroll deductions, and has certified that the information given is true and complete to the best of the participant's knowledge;

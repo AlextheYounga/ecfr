@@ -1,5 +1,7 @@
 ##### § 1600.37 Notice. #####
 
+Link to an amendment published at 87 FR 31673, May 24, 2022.
+
 The Board shall furnish all new employees and all rehired employees covered by the automatic enrollment program, and all employees described in paragraph (c) of § 1600.34, covered by the automatic enrollment program a notice that accurately describes:
 
 (a) That default employee contributions equal to 5 percent of the employee's basic pay will be deducted from the employee's pay and contributed to the employee's traditional TSP balance on the employee's behalf if the employee does not make an affirmative contribution election;

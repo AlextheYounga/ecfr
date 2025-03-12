@@ -1,5 +1,7 @@
 ##### § 1653.32 Qualifying Federal tax levy. #####
 
+Link to an amendment published at 87 FR 31691, May 24, 2022.
+
 (a) The TSP will only honor the terms of a tax levy that is qualifying under paragraph (b) of this section.
 
 (b) A tax levy must meet each of the following requirements to be considered qualifying:

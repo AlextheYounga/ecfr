@@ -1,5 +1,7 @@
 ##### § 1650.61 Spousal rights applicable to post-employment withdrawals. #####
 
+Link to an amendment published at 87 FR 31684, May 24, 2022.
+
 (a) The spousal rights described in this section apply to total post-employment withdrawals when the married participant's vested TSP account balance exceeds $3,500, to partial post-employment withdrawals without regard to the amount of the participant's account balance, and to any change in the amount or frequency of an existing installment payment series, including a change from payments calculated based on life expectancy to payments based on a fixed-dollar amount.
 
 (b) Unless the participant was granted an exception under this subpart to the spousal notification requirement within 90 days of the date the withdrawal request is processed by the TSP, the spouse of a CSRS participant is entitled to notice when the participant applies for a post-employment withdrawal or makes a change to the amount or frequency of an existing installment payment series. The participant must provide the TSP record keeper with the spouse's correct address. The TSP record keeper will send the required notice by first class mail to the spouse at the most recent address provided by the participant.

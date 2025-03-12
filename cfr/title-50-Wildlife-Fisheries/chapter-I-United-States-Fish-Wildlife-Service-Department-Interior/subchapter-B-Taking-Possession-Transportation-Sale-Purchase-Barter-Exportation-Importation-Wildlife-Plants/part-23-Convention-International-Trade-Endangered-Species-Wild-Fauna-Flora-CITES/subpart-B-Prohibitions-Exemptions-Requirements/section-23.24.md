@@ -1,7 +1,5 @@
 ##### § 23.24 What code is used to show the source of the specimen? #####
 
-Link to an amendment published at 87 FR 10080, Feb. 23, 2022.
-
 The Management Authority must indicate on the CITES document the source of the specimen using one of the following codes, except the code “O” for pre-Convention, which may be used in conjunction with another code:
 
 |                                                                                                                                                                                                                       Source of specimen                                                                                                                                                                                                                        |Code|
@@ -15,5 +13,7 @@ The Management Authority must indicate on the CITES document the source of the s
 |                                                                                                                                                                                                               (g) Ranched wildlife (see § 23.5).                                                                                                                                                                                                                | R  |
 |                                                                                                                                                                                            (h) Source unknown (must be justified on the face of the CITES document).                                                                                                                                                                                            | U  |
 |                                                      (i) Specimen taken from the wild:  <br/>(1) For wildlife, this includes a specimen born in captivity from an egg collected from the wild or from wildlife that mated or exchanged genetic material in the wild.  <br/>(2) For a plant, it includes a specimen propagated from a propagule collected from a wild plant, except as provided in § 23.64.                                                      | W  |
+|                                                                                                                                                                              (j) Specimens taken in the marine environment not under the jurisdiction of any country (see § 23.39)                                                                                                                                                                              | X  |
+|                                                                                                                                                                                                           (k) Assisted production plant (see § 23.5)                                                                                                                                                                                                            | Y  |
 
-[72 FR 48448, Aug. 23, 2007, as amended at 79 FR 30423, May 27, 2014]
+[72 FR 48448, Aug. 23, 2007, as amended at 79 FR 30423, May 27, 2014; 87 FR 10080, Feb. 23, 2022]

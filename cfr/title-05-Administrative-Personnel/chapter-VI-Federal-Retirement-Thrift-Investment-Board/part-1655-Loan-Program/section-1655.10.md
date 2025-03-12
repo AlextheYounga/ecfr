@@ -1,5 +1,7 @@
 ##### § 1655.10 Loan application process. #####
 
+Link to an amendment published at 87 FR 31693, May 24, 2022.
+
 (a) Any participant may apply for a loan by submitting a completed TSP loan application form to the TSP record keeper.
 
 (b) The following participants may also apply for and complete a loan request on the TSP Web site:

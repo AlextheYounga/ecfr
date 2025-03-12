@@ -20,7 +20,7 @@
 
 (6) The report will also evaluate the effectiveness of the POC (if applicable) for preventing impacts to subsistence users of sea otters, and it will assess any effects the operations may have had on the availability of sea otters for subsistence harvest.
 
-(e) All reports shall be submitted by email to *fw7\_mmm\_reports@fws.gov.*
+(e) All reports shall be submitted by email to *fw7\_\_mmm\_\_reports@fws.gov.*
 
 (f) Injured, dead, or distressed sea otters that are not associated with project activities (e.g., animals known to be from outside the project area, previously wounded animals, or carcasses with moderate to advanced decomposition or scavenger damage) must be reported to the Service within 24 hours of the discovery to either the Service MMM (1-800-362-5148, business hours); or the Alaska SeaLife Center in Seward (1-888-774-7325, 24 hours a day); or both. Photographs, video, location information, or any other available documentation shall be provided to the Service.
 

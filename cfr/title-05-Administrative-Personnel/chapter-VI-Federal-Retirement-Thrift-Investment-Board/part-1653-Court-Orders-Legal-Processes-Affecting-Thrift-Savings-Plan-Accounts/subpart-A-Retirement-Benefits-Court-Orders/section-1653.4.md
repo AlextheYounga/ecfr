@@ -1,5 +1,7 @@
 ##### § 1653.4 Calculating entitlements. #####
 
+Link to an amendment published at 87 FR 31689, May 24, 2022.
+
 (a) For purposes of computing the amount of a payee's entitlement under this section, a participant's TSP account balance will include any loan balance outstanding as of the date used for calculating the payee's entitlement, unless the court order provides otherwise.
 
 (b) If the court order awards a percentage or fraction of an account as of a specific date, the payee's entitlement will be calculated based on the account balance as of that date. If the date specified in the order is not a business day, the TSP will use the participant's account balance as of the last preceding business day.

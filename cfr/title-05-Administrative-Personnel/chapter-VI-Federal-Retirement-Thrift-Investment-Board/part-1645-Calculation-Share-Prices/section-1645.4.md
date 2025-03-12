@@ -1,5 +1,7 @@
 ##### § 1645.4 Administrative expenses attributable to each TSP Fund. #####
 
+Link to an amendment published at 87 FR 31681, May 24, 2022.
+
 A portion of the administrative expenses accrued during each business day will be charged to each TSP Fund. A fund's respective portion of administrative expenses will be determined as follows:
 
 (a) Accrued administrative expenses (other than those described in paragraph (b) of this section) will be reduced by accrued forfeitures and accrued earnings on forfeitures, abandoned accounts, and unapplied deposits;

@@ -1,5 +1,7 @@
 ##### § 1653.12 Qualifying legal processes. #####
 
+Link to an amendment published at 87 FR 31690, May 24, 2022.
+
 (a) The TSP will only honor the terms of a legal process that is qualifying under paragraph (b) of this section.
 
 (b) A legal process must meet each of the following requirements to be considered qualifying:
