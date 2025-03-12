@@ -1,7 +1,5 @@
 ##### § 310.13 Exemptions for DoD-wide systems. #####
 
-Link to an amendment published at 87 FR 30417, May 19, 2022.
-
 (a) *Use of DoD-wide exemptions.* DoD-wide exemptions for DoD-wide systems of records are established pursuant to 5 U.S.C. 552a(j) and (k) of the Privacy Act.
 
 (b) *Promises of confidentiality.* (1) Only the identity of and information furnished by sources that have been given an express promise of confidentiality may be protected from disclosure under this section, consistent with (k)(2), (k)(5), and (k)(7) of the Privacy Act, as applicable. However, the identity of sources who were given implied promises of confidentiality in inquiries conducted before September 27, 1975, also may be protected from disclosure.
@@ -158,4 +156,20 @@ Link to an amendment published at 87 FR 30417, May 19, 2022.
 
 (iv) *Exempt records from other systems.* In the course of carrying out the overall purpose for this system, exempt records from other systems of records may in turn become part of the records maintained in this system. To the extent that copies of exempt records from those other systems of records are maintained in this system, the DoD claims the same exemptions for the records from those other systems that are entered into this system, as claimed for the prior system(s) of which they are a part, provided the reason for the exemption remains valid and necessary.
 
-[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 38561, July 22, 2021; 86 FR 52072, Sept. 20, 2021; 86 FR 72524, Dec. 22, 2021; 87 FR 28775, May 11, 2022]
+(7)-(8) [Reserved]
+
+(9) *System identifier and name.* DoD-0003, “Mobilization Deployment Management Information System (MDMIS).”
+
+(i) *Exemptions.* This system of records is exempt from subsections 5 U.S.C. 552a(c)(3), (d)(1), (d)(2), (d)(3), and (d)(4) of the Privacy Act.
+
+(ii) *Authority.* 5 U.S.C. 552a(k)(1).
+
+(iii) *Exemption from the particular subsections.* Exemption from the particular subsections is justified for the following reasons:
+
+(A) *Subsection (c)(3) (accounting of disclosures).* Because records in this system may contain information properly classified pursuant to executive order, the disclosure accountings of such records may also contain information properly classified pursuant to executive order, the disclosure of which may cause damage to national security.
+
+(B) *Subsections (d)(1), (2), (3), and (4) (record subject's right to access and amend records).* Access to and amendment of records by the record subject could disclose information properly classified pursuant to executive order. Disclosure of classified records to an individual may cause damage to national security.
+
+(iv) *Exempt records from other systems.* In addition, in the course of carrying out the overall purpose for this system, exempt records from other system of records may in turn become part of the records maintained in this system. To the extent that copies of exempt records from those other systems of records are maintained in this system, the DoD claims the same exemptions for the records from those other systems that are entered into this system, as claimed for the prior system(s) of which they are a part, provided the reason for the exemption remains valid and necessary.
+
+[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 38561, July 22, 2021; 86 FR 52072, Sept. 20, 2021; 86 FR 72524, Dec. 22, 2021; 87 FR 28775, May 11, 2022; 87 FR 30417, May 19, 2022]

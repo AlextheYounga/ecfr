@@ -1,5 +1,7 @@
 ##### § 110.170 Lockwoods Folly Inlet, N.C. #####
 
+Link to an amendment published at 87 FR 36768, June 21, 2022.
+
 (a) *Explosives Anchorage.* Beginning at a point southeast of Shallotte Inlet at latitude 33°52′31″, longitude 78°18′49″; thence south to latitude 33°51′31″, longitude 78°18′42″; thence east to latitude 33°51′51″, longitude 78°14′35″; thence north to latitude 33°52′52″, longitude 78°14′40″; thence west to the point of beginning.
 
 (b) *General regulations.* (1) This anchorage is reserved for the exclusive use of vessels carrying explosives.

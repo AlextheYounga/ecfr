@@ -1,6 +1,6 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 87 FR 30790, May 20, 2022.Link to an amendment published at 87 FR 33380, June 1, 2022.
+Link to an amendment published at 87 FR 33380, June 1, 2022.
 
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at the DOE and at the National Archives and Records Administration (NARA). Contact DOE at: The U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-9127, *Buildings@ee.doe.gov, https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
@@ -128,7 +128,7 @@ Link to an amendment published at 87 FR 30790, May 20, 2022.Link to an amendment
 
 (24) ANSI Z21.50-2007 (CSA 2.22-2007), (“ANSI Z21.50”), Vented Gas Fireplaces, Fifth Edition, Approved February 22, 2007, IBR approved for § 430.2.
 
-(25) ANSI Z21.86-2008, (“ANSI Z21.86”), Vented Gas-Fired Space Heating Appliances, Fifth Edition, approved March 28, 2008, IBR approved for appendix O to subpart B.
+(25) [Reserved]
 
 (26) ANSI Z21.88-2009 (CSA 2.33-2009), (“ANSI Z21.88”), Vented Gas Fireplace Heaters, Fifth Edition, Approved March 26, 2009, IBR approved for § 430.2.
 
@@ -142,7 +142,7 @@ The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19)
 
 (2) [Reserved]
 
-(g) *ASHRAE.* American Society of Heating, Refrigerating and Air-Conditioning Engineers, Inc., Publication Sales, 1791 Tullie Circle, NE., Atlanta, GA 30329, 800-527-4723 or 404-636-8400, or go to *http://www.ashrae.org.*
+(g) *ASHRAE.* American Society of Heating, Refrigerating, and Air-Conditioning Engineers, Inc., 180 Technology Parkway NW, Peachtree Corners, GA 30092; (800) 527-4723 or (404) 636-8400; *www.ashrae.org.*
 
 (1) ANSI/ASHRAE Standard 16-2016 (“ANSI/ASHRAE 16”), Method of Testing for Rating Room Air Conditioners, Packaged Terminal Air Conditioners, and Packaged Terminal Heat Pumps for Cooling and Heating Capacity, ANSI approved November 1, 2016, IBR approved for appendix F to subpart B.
 
@@ -252,11 +252,13 @@ The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19)
 
 (15) ANSI/ASHRAE Standard 103-1993, (“ASHRAE 103-1993”), Methods of Testing for Annual Fuel Utilization Efficiency of Residential Central Furnaces and Boilers, (with Errata of October 24, 1996), except for sections 7.1, 7.2.2.2, 7.2.2.5, 7.2.3.1, 7.8, 8.2.1.3, 8.3.3.1, 8.4.1.1, 8.4.1.1.2, 8.4.1.2, 8.4.2.1.4, 8.4.2.1.6, 8.6.1.1, 8.7.2, 8.8.3, 9.1.2.2.1, 9.1.2.2.2, 9.5.1.1, 9.5.1.2.1, 9.5.1.2.2, 9.5.2.1, 9.7.1, 9.7.4, 9.7.6, 9.10, 11.5.11.1, 11.5.11.2 and appendices B and C, approved October 4, 1993, IBR approved for § 430.23 and appendix N to subpart B.
 
-(16) ANSI/ASHRAE Standard 103-2007, (“ASHRAE 103-2007”), Method of Testing for Annual Fuel Utilization Efficiency of Residential Central Furnaces and Boilers, ANSI approved March 25, 2008, IBR approved for appendices O and AA to subpart B.
+(16) ANSI/ASHRAE Standard 103-2007 (“ASHRAE 103-2007”), Method of Testing for Annual Fuel Utilization Efficiency of Residential Central Furnaces and Boilers, ANSI-approved March 25, 2008; IBR approved for appendix AA to subpart B.
 
-(17) ANSI/ASHRAE Standard 116-2010, (“ASHRAE 116-2010”), Methods of Testing for Rating Seasonal Efficiency of Unitary Air Conditioners and Heat Pumps, ANSI approved February 24, 2010, Section 7 - Methods of Test, Section 7.4 - Air Enthalpy Method - Indoor Side (Primary Method), Section 7.4.3 - Measurements, Section 7.4.3.4 - Temperature, Section 7.4.3.4.5, IBR approved for appendices M and M1 to subpart B.
+(17) ANSI/ASHRAE Standard 103-2017 (“ASHRAE 103-2017”), Method of Testing for Annual Fuel Utilization Efficiency of Residential Central Furnaces and Boilers, ANSI-approved July 3, 2017; IBR approved for appendix O to subpart B.
 
-(18) ANSI/ASHRAE Standard 146-2011 (“ASHRAE 146”), Method of Testing and Rating Pool Heaters, ASHRAE approved February 2, 2011, IBR approved for appendix P to subpart B.
+(18) ANSI/ASHRAE Standard 116-2010, (“ASHRAE 116-2010”), Methods of Testing for Rating Seasonal Efficiency of Unitary Air Conditioners and Heat Pumps, ANSI approved February 24, 2010, Section 7 - Methods of Test, Section 7.4 - Air Enthalpy Method - Indoor Side (Primary Method), Section 7.4.3 - Measurements, Section 7.4.3.4 - Temperature, Section 7.4.3.4.5, IBR approved for appendices M and M1 to subpart B.
+
+(19) ANSI/ASHRAE Standard 146-2011 (“ASHRAE 146”), Method of Testing and Rating Pool Heaters, ASHRAE approved February 2, 2011, IBR approved for appendix P to subpart B.
 
 (h) *ASME.* American Society of Mechanical Engineers, Three Park Avenue, New York, NY 10016-5990, 1-800 843-2763, or go to *www.asme.org.*
 
@@ -282,23 +284,31 @@ The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19)
 
 (j) *ASTM.* American Society for Testing and Materials International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959 (*www.astm.org*)
 
-(1) ASTM D2156-09, (“ASTM D2156”), Standard Test Method for Smoke Density in Flue Gases from Burning Distillate Fuels, ASTM approved December 1, 2009, IBR approved for appendices E and O to subpart B.
+(1) ASTM D2156-09 (“ASTM D2156”), Standard Test Method for Smoke Density in Flue Gases from Burning Distillate Fuels, ASTM-approved December 1, 2009; IBR approved for appendix E to subpart B.
 
 (2) ASTM D2156-09 (Reapproved 2013) (“ASTM D2156R13”), Standard Test Method for Smoke Density in Flue Gases from Burning Distillate Fuels, approved October 1, 2013, IBR approved for appendix N to subpart B.
 
-(k) *CEA.* Consumer Electronics Association, Technology & Standards Department, 1919 S. Eads Street, Arlington, VA 22202, 703-907-7600, or go to *www.CE.org.*
+(3) ASTM D2156-09 (Reapproved 2018) (“ASTM D2156-09 (R2018)”), Standard Test Method for Smoke Density in Flue Gases from Burning Distillate Fuels, approved October 1, 2018; IBR approved for appendix O to subpart B.
+
+(k) *Canadian Standards Association (CSA).* CSA Group, 178 Rexdale Blvd., Toronto, ON, Canada M9W 1R3, 1-800-463-6727 or 416-747-4044, *www.csagroup.org.*
+
+(1) ANSI Z21.86-2016 • CSA 2.32-2016 (“ANSI Z21.86-2016”), Vented gas-fired space heating appliances, ANSI-approved December 21, 2016; IBR approved for appendix O to subpart B.
+
+(2) [Reserved]
+
+(l) *CEA.* Consumer Electronics Association, Technology & Standards Department, 1919 S. Eads Street, Arlington, VA 22202, 703-907-7600, or go to *www.CE.org.*
 
 (1) CEA Standard, CEA-770.3-D, *High Definition TV Analog Component Video Interface,* published February 2008; IBR approved for § 430.2.
 
 (2) [Reserved]
 
-(l) *CIE.* Commission Internationale de l'Eclairage (CIE), Central Bureau, Kegelgasse 27, A-1030, Vienna, Austria, 011 + 43 1 714 31 87 0, or go to *http://www.cie.co.at.*
+(m) *CIE.* Commission Internationale de l'Eclairage (CIE), Central Bureau, Kegelgasse 27, A-1030, Vienna, Austria, 011 + 43 1 714 31 87 0, or go to *http://www.cie.co.at.*
 
 (1) CIE 13.3-1995 (“CIE 13.3”), Technical Report: Method of Measuring and Specifying Colour Rendering Properties of Light Sources, 1995, ISBN 3 900 734 57 7; IBR approved for § 430.2 and appendices R and W to subpart B.
 
 (2) CIE 15:2004 (“CIE 15”), Technical Report: Colorimetry, 3rd edition, 2004, ISBN 978 3 901906 33 6; IBR approved for appendices R and W to subpart B.
 
-(m) *Environmental Protection Agency (EPA),* ENERGY STAR documents published by the Environmental Protection Agency are available online at *http://www.energystar.gov* or by contacting the Energy Star hotline at 1-888-782-7937.
+(n) *Environmental Protection Agency (EPA),* ENERGY STAR documents published by the Environmental Protection Agency are available online at *http://www.energystar.gov* or by contacting the Energy Star hotline at 1-888-782-7937.
 
 (1) ENERGY STAR Testing Facility Guidance Manual: Building a Testing Facility and Performing the Solid State Test Method for ENERGY STAR Qualified Ceiling Fans, Version 1.1, approved December 9, 2002, IBR approved for appendix U to subpart B.
 
@@ -308,13 +318,13 @@ The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19)
 
 (4) Test Methodology for Determining the Energy Performance of Battery Charging Systems, approved December 2005, IBR approved for appendix Y to subpart B.
 
-(n) *HDMI*®. High-Definition Multimedia Interface Licensing, LLC, 1140 East Arques Avenue, Suite 100, Sunnyvale, CA 94085, 408-616-1542, or go to *www.hdmi.org.*
+(o) *HDMI*®. High-Definition Multimedia Interface Licensing, LLC, 1140 East Arques Avenue, Suite 100, Sunnyvale, CA 94085, 408-616-1542, or go to *www.hdmi.org.*
 
 (1) HDMI Specification Informational Version 1.0, *High-Definition Multimedia Interface Specification,* published September 4, 2003; IBR approved for § 430.2.
 
 (2) [Reserved]
 
-(o) *IEC.* International Electrotechnical Commission, available from the American National Standards Institute, 25 W. 43rd Street, 4th Floor, New York, NY 10036, (212) 642-4900, or go to *http://webstore.ansi.org.*
+(p) *IEC.* International Electrotechnical Commission, available from the American National Standards Institute, 25 W. 43rd Street, 4th Floor, New York, NY 10036, (212) 642-4900, or go to *http://webstore.ansi.org.*
 
 (1) IEC Standard 933-5:1992, (“IEC 60933-5 Ed. 1.0”), *Audio, video and audiovisual systems - Interconnections and matching values - Part 5: Y/C connector for video systems - Electrical matching values and description of the connector,* First Edition, 1992-12; IBR approved for § 430.2. (Note: IEC 933-5 is also known as IEC 60933-5.)
 
@@ -362,7 +372,7 @@ The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19)
 
 (9) IEC 62301, (“IEC 62301-W”), Household electrical appliances - Measurement of standby power, (Edition 2.0, 2011-01), Section 5 - Measurements, IBR approved for appendix W to subpart B.
 
-(p) *IESNA.* Illuminating Engineering Society of North America, 120 Wall Street, Floor 17, New York, NY 10005-4001, 212-248-5000, or go to *http://www.iesna.org.*
+(q) *IESNA.* Illuminating Engineering Society of North America, 120 Wall Street, Floor 17, New York, NY 10005-4001, 212-248-5000, or go to *http://www.iesna.org.*
 
 (1) *The IESNA Lighting Handbook, Reference & Application,* (“The IESNA Lighting Handbook”), 9th ed., Chapter 6, “Light Sources,” July 2000, IBR approved for § 430.2.
 
@@ -462,13 +472,13 @@ The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19)
 
 (20) IES TM-28-14, (“IES TM-28”), Projecting Long-Term Luminous Flux Maintenance of LED Lamps and Luminaires, approved May 20, 2014; IBR approved for appendix BB to subpart B.
 
-(q) International Safety Equipment Association, 1901 North Moore Street, Suite 808, Arlington, Virginia 22209, (703) 525-1695, *www.safetyequipment.org.*
+(r) International Safety Equipment Association, 1901 North Moore Street, Suite 808, Arlington, Virginia 22209, (703) 525-1695, *www.safetyequipment.org.*
 
 (1) ANSI/ISEA Z358.1-2014 (“ISEA Z358.1”), American National Standard for Emergency Eyewash and Shower Equipment, ANSI-approved January 8, 2015, IBR approved for § 430.2.
 
 (2) [Reserved]
 
-(r) *U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy.* Resource Room of the Building Technologies Program, 950 L'Enfant Plaza SW., 6th Floor, Washington, DC 20024, 202-586-2945, (Energy Star materials are also found at *http://www.energystar.gov.*)
+(s) *U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy.* Resource Room of the Building Technologies Program, 950 L'Enfant Plaza SW., 6th Floor, Washington, DC 20024, 202-586-2945, (Energy Star materials are also found at *http://www.energystar.gov.*)
 
 (1) ITU-R BT.470-6, Conventional Television Systems, published November 1998; IBR approved for § 430.2.
 
@@ -476,30 +486,30 @@ The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19)
 
 (3) International Efficiency Marking Protocol for External Power Supplies, Version 3.0, September 2013, IBR approved for § 430.32.
 
-(s) *NSF International.* NSF International, P.O. Box 130140, 789 North Dixboro Road, Ann Arbor, MI 48113-0140, 1-800-673-6275, or go to *http://www.nsf.org.*
+(t) *NSF International.* NSF International, P.O. Box 130140, 789 North Dixboro Road, Ann Arbor, MI 48113-0140, 1-800-673-6275, or go to *http://www.nsf.org.*
 
 (1) NSF/ANSI 51-2007 (“NSF/ANSI 51”), Food equipment materials, revised and adopted April 2007, IBR approved for §§ 430.2 and 430.32.
 
 (2) [Reserved]
 
-(t) *Optical Society of America. Optical Society of America,* 2010 Massachusetts Ave., NW., Washington, DC 20036-1012, 202-223-8130, or go to *http://www.opticsinfobase.org;*
+(u) *Optical Society of America. Optical Society of America,* 2010 Massachusetts Ave., NW., Washington, DC 20036-1012, 202-223-8130, or go to *http://www.opticsinfobase.org;*
 
 (1) “Computation of Correlated Color Temperature and Distribution Temperature,” A.R. Robertson, Journal of the Optical Society of America, Volume 58, Number 11, November 1968, pages 1528-1535, IBR approved for § 430.2.
 
 (2) [Reserved]
 
-(u) *SMPTE.* Society of Motion Picture and Television Engineers, 3 Barker Ave., 5th Floor, White Plains, NY 10601, 914-761-1100, or go to *http://standards.smpte.org.*
+(v) *SMPTE.* Society of Motion Picture and Television Engineers, 3 Barker Ave., 5th Floor, White Plains, NY 10601, 914-761-1100, or go to *http://standards.smpte.org.*
 
 (1) SMPTE 170M-2004, (“SMPTE 170M-2004”), *SMPTE Standard for Television - Composite Analog Video Signal - NTSC for Studio Applications,* approved November 30, 2004; IBR approved for § 430.2.
 
 (2) [Reserved]
 
-(v) *UL.* Underwriters Laboratories, Inc., 2600 NW. Lake Rd., Camas, WA 98607-8542 (*www.UL.com*)
+(w) *UL.* Underwriters Laboratories, Inc., 2600 NW. Lake Rd., Camas, WA 98607-8542 (*www.UL.com*)
 
-(1) UL 729-2003 (“UL 729”), Standard for Safety for Oil-Fired Floor Furnaces, Sixth Edition, dated August 29, 2003, including revisions through April 22, 2010, IBR approved for appendix O to subpart B.
+(1) UL 729 (“UL 729-2016”), Standard for Safety for Oil-Fired Floor Furnaces, Sixth Edition, dated August 29, 2003, including revisions through November 22, 2016; IBR approved for appendix O to subpart B.
 
-(2) UL 730-2003 (“UL 730”), Standard for Safety for Oil-Fired Wall Furnaces, Fifth Edition, dated August 29, 2003, including revisions through April 22, 2010, IBR approved for appendix O to subpart B.
+(2) UL 730 (“UL 730-2016”), Standard for Safety for Oil-Fired Wall Furnaces, Fifth Edition, dated August 29, 2003, including revisions through November 22, 2016; IBR approved for appendix O to subpart B.
 
-(3) UL 896-1993 (“UL 896”), Standard for Safety for Oil-Burning Stoves, Fifth Edition, dated July 29, 1993, including revisions through May 7, 2010, IBR approved for appendix O to subpart B.
+(3) UL 896 (“UL 896-2016”), Standard for Safety for Oil-Burning Stoves, Fifth Edition, dated July 29, 1993; including revisions through November 22, 2016, IBR approved for appendix O to subpart B.
 
 [74 FR 12066, Mar. 23, 2009]Editorial Note:For Federal Register citations affecting § 430.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
