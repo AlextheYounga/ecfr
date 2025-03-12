@@ -1,3 +1,5 @@
-##### § 875.109 Is there a delegation of authority for resolving contract disputes between OPM and the Carrier? #####
+##### § 875.109 Which board of contract appeals has jurisdiction for resolving contract disputes between OPM and the Carrier? #####
 
-For the purpose of making findings of fact and to the extent that conclusions of law may be required under any proceeding conducted in accordance with the provisions of the disputes clause included in the FLTCIP master contract, OPM delegates this function to the Armed Services Board of Contract Appeals.
+For purposes of applying chapter 71 of title 41 to disputes arising between OPM and the Carrier, the Civilian Board of Contract Appeals has jurisdiction to decide an appeal relative to such a dispute.
+
+[87 FR 68597, Nov. 16, 2022]

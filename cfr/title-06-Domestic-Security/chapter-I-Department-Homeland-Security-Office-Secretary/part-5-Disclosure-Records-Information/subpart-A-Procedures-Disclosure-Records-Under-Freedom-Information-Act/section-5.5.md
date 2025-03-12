@@ -1,5 +1,7 @@
 ##### § 5.5 Timing of responses to requests. #####
 
+Link to an amendment published at 87 FR 68601, Nov. 16, 2022.
+
 (a) *In general.* Components ordinarily will respond to requests according to their order of receipt. Appendix I to this subpart contains the list of components that are designated to accept requests. In instances involving misdirected requests that are re-routed pursuant to § 5.4(c), the response time will commence on the date that the request is received by the proper component, but in any event not later than ten working days after the request is first received by any DHS component designated in appendix I of this subpart.
 
 (b) *Multitrack processing.* All components must designate a specific track for requests that are granted expedited processing, in accordance with the standards set forth in paragraph (e) of this section. A component may also designate additional processing tracks that distinguish between simple and more complex requests based on the estimated amount of work or time needed to process the request. Among the factors a component may consider are the number of pages involved in processing the request or the need for consultations or referrals. Components shall advise requesters of the track into which their request falls, and when appropriate, shall offer requesters an opportunity to narrow their request so that the request can be placed in a different processing track.

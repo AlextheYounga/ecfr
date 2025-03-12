@@ -1,5 +1,7 @@
 ##### § 5.3 Requirements for making requests. #####
 
+Link to an amendment published at 87 FR 68601, Nov. 16, 2022.
+
 (a) *General information.* (1) DHS has a decentralized system for responding to FOIA requests, with each component designating a FOIA office to process records from that component. All components have the capability to receive requests electronically, either through email or a web portal. To make a request for DHS records, a requester should write directly to the FOIA office of the component that maintains the records being sought. A request will receive the quickest possible response if it is addressed to the FOIA office of the component that maintains the records sought. DHS's FOIA Reference Guide contains or refers the reader to descriptions of the functions of each component and provides other information that is helpful in determining where to make a request. Each component's FOIA office and any additional requirements for submitting a request to a given component are listed in appendix I of this subpart. These references can all be used by requesters to determine where to send their requests within DHS.
 
 (2) A requester may also send his or her request to the Privacy Office, U.S. Department of Homeland Security, 245 Murray Lane SW STOP-0655, or via the internet at *http://www.dhs.gov/dhs-foia-request-submission-form,* or via fax to (202) 343-4011. The Privacy Office will forward the request to the component(s) that it determines to be most likely to maintain the records that are sought.

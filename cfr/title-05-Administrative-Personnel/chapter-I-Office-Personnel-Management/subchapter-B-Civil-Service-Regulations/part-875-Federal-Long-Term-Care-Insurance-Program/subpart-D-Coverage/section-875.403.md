@@ -1,5 +1,5 @@
-##### § 875.403 May I apply for coverage outside of an open season? #####
+##### § 875.403 When may I apply for coverage? #####
 
-If you are eligible for coverage, you may submit an application at any time outside of an open season. You will be subject to full underwriting requirements. The only exceptions to the full underwriting requirements outside of an open season are described in § 875.206 and § 875.405.
+If you are an eligible individual, you may apply at any time outside of a suspension period described in § 875.110. You will be subject to full underwriting requirements. The only exceptions to the full underwriting requirements are described in § 875.402. You may apply as a qualified relative of a workforce member even if the workforce member does not apply for coverage.
 
-[68 FR 5534, Feb. 4, 2003, as amended at 70 FR 30607, May 27, 2005]
+[87 FR 68598, Nov. 16, 2022]

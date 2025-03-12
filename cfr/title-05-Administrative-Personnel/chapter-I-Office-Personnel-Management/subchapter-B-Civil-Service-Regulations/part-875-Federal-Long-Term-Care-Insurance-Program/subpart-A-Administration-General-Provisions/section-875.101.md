@@ -16,13 +16,13 @@ In this part, the terms *annuitant, employee, member of the uniformed services, 
 
 (2) For a member of the uniformed services, that you are on active duty and are physically able to perform the duties of your position.
 
-*Carrier* means a qualified carrier as defined in section 9001 of title 5, United States Code, with which OPM has contracted to provide long term care insurance coverage under this section. A Carrier may designate 1 or more administrators to perform some of its obligations.
+*Carrier* means a “qualified carrier” as defined in section 9001 of title 5, United States Code, with which OPM has contracted to provide long term care insurance coverage under this section. A Carrier may designate one or more administrators to perform some of its obligations.
 
 *Domestic partner* is defined as a person in a domestic partnership with an employee, annuitant, member of the uniformed services, or retired member of the uniformed services.
 
 *Domestic partnership* means:
 
-(1) A committed relationship between two adults, of the opposite sex or same sex, in which the partners -
+(1) A committed relationship between two adults, of the opposite sex or same sex, in which the partners—
 
 (i) Are each other's sole domestic partner and intend to remain so indefinitely;
 
@@ -44,15 +44,17 @@ In this part, the terms *annuitant, employee, member of the uniformed services, 
 
 (2) You or your domestic partner must notify the employing office if at any time between the time of application and the time coverage is scheduled to go into effect, any of the conditions listed in paragraphs (1)(i) through (vii) of this definition are no longer met, in which case a domestic partnership is deemed terminated. Such notification must be made as soon as possible, but in no event later than thirty calendar days after such conditions are no longer met.
 
-*Eligible individual* means an annuitant, active workforce member, member of the uniformed services, retired member of the uniformed services or qualified relative, as defined in section 9001 of title 5, United States Code.
+*Eligible individual* means an employee, annuitant, member of the uniformed services, retired member of the uniformed services or qualified relative, as defined in section 9001 of title 5, United States Code.
 
 *Enrollee* means an eligible individual whose application for coverage the Carrier has approved and whose coverage is in effect.
 
 *FLTCIP* means the Federal Long Term Care Insurance Program.
 
-*Free look* means that within 30 days after you receive the Benefit Booklet, you may cancel your coverage if you are not satisfied with it and receive a refund of any premium you paid. It will be as if the coverage was never issued.
+*Free look* means that within 30 days after you are approved for coverage and receive the Benefit Booklet, you may cancel that coverage if you are not satisfied with it and receive a refund of any premium you paid for that coverage. It will be as if the coverage was never issued.
 
 *Full underwriting* is the more comprehensive type of underwriting under the FLTCIP, which requires that you answer many questions about your health status to enable the Carrier to determine whether your application for coverage will be approved. The Carrier may also require review of your medical records, a phone interview, or an in-home interview.
+
+*Special application period* is a period in which active workforce members and their spouses may apply based on abbreviated underwriting. Such application periods will be provided for pursuant to OPM's authority in section 9008 of title 5, United States Code.
 
 *Stepchild(ren),* as set forth in section 9001 of title 5, United States Code, means the child(ren) of the spouse or domestic partner of an employee, annuitant, member of the uniformed services, or retired member of the uniformed services.
 
@@ -62,4 +64,4 @@ In this part, the terms *annuitant, employee, member of the uniformed services, 
 
 *Workforce member* means a Federal civilian or Postal employee, member of the uniformed services, Federal annuitant, retired member of the uniformed services, or member of any other eligible group, as defined in section 9001 of title 5, United States Code. An active workforce member is one who is currently employed or is on active duty.
 
-[68 FR 5534, Feb. 4, 2003, as amended at 70 FR 30606, May 27, 2005; 80 FR 66786, Oct. 30, 2015; 81 FR 10057, Feb. 29, 2016]
+[68 FR 5534, Feb. 4, 2003, as amended at 70 FR 30606, May 27, 2005; 80 FR 66786, Oct. 30, 2015; 81 FR 10057, Feb. 29, 2016; 87 FR 68597, Nov. 16, 2022]
