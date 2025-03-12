@@ -1,7 +1,5 @@
 ##### § 1.338-9 International aspects of section 338. #####
 
-Link to an amendment published at 87 FR 324, Jan. 4, 2022.
-
 (a) *Scope.* This section provides guidance regarding international aspects of section 338. As provided in § 1.338-2(c)(18), a foreign corporation, a DISC, or a corporation for which a section 936 election has been made is considered a target affiliate for all purposes of section 338. In addition, stock described in section 338(h)(6)(B)(ii) held by a target affiliate is not excluded from the operation of section 338.
 
 (b) *Application of section 338 to foreign targets* - (1) *In general.* For purposes of subtitle A, the deemed sale tax consequences, as defined in § 1.338-2(c)(7), of a foreign target for which a section 338 election is made (FT), and the corresponding earnings and profits, are taken into account in determining the taxation of FT and FT's direct and indirect shareholders. See, however, section 338(h)(16). For example, the income and earnings and profits of FT are determined, for purposes of sections 551, 951, 1248, and 1293, by taking into account the deemed sale tax sentence consequences.
@@ -40,7 +38,13 @@ Link to an amendment published at 87 FR 324, Jan. 4, 2022.
 
 (c) *Dividend treatment under section 1248(e).* The principles of this paragraph (b) apply to shareholders of a domestic corporation subject to section 1248(e).
 
-(d) *Allocation of foreign taxes.* If a section 338 election is made for target (whether foreign or domestic), and target's taxable year under foreign law (if any) does not close at the end of the acquisition date, foreign income taxes attributable to the foreign taxable income earned by target during such foreign taxable year are allocated to old target and new target. Such allocation is made under the principles of § 1.1502-76(b).
+(d) *Allocation of foreign income taxes* - (1) *In general.* Except as provided in paragraph (d)(3) of this section, if a section 338 election is made for target (whether foreign or domestic), and target's taxable year under foreign law (if any) does not close at the end of the acquisition date, foreign income tax as defined in § 1.901-2(a)(1)) (other than a withholding tax as defined in section 901(k)(1)(B)) paid or accrued by new target with respect to such foreign taxable year is allocated between old target and new target. If there is more than one section 338 election with respect to target during target's foreign taxable year, foreign income tax paid or accrued with respect to that foreign taxable year is allocated among all old targets and new targets. The allocation is made based on the respective portions of the taxable income (as determined under foreign law) for the foreign taxable year that are attributable under the principles of § 1.1502-76(b) to the period of existence of each old target and new target during the foreign taxable year.
+
+(2) *Foreign income taxes imposed on partnerships and disregarded entities.* If a section 338 election is made for target and target holds an interest in a disregarded entity (as described in § 301.7701-2(c)(2)(i) of this chapter) or partnership, the rules of § 1.901-2(f)(4) and (5) apply to determine the person who is considered for Federal income tax purposes to pay foreign income tax imposed at the entity level on the income of the disregarded entity or partnership.
+
+(3) *Disallowance of foreign tax credits under section 901(m).* For rules that may apply to disallow foreign tax credits by reason of a section 338 election, see section 901(m) and §§ 1.901(m)-1 through 1.901(m)-8.
+
+(4) *Applicability date.* This paragraph (d) applies to foreign income taxes paid or accrued in taxable years beginning on or after December 28, 2021.
 
 (e) *Operation of section 338(h)(16).* [Reserved]
 
@@ -80,4 +84,4 @@ Example 5. Coordination with section 936.(a) T is a corporation for which a sect
 
 (c) Because new T is treated a new corporation for purposes of subtitle A of the Internal Revenue Code, the three year testing period in section 936(a)(2)(A) begins again for new T on the day following T's acquisition date. Thus, if the character or source of old T's gross income disqualified it for the credit under section 936, a fresh start is allowed by a section 338 election.
 
-[T.D. 8515, 59 FR 2978, Jan. 20, 1994. Redesignated by T.D. 8858, 65 FR 1246, Jan. 7, 2000, as amended by T.D. 8940, 66 FR 9929, Feb. 13, 2001; 66 FR 17466, Mar. 30, 2001]
+[T.D. 8515, 59 FR 2978, Jan. 20, 1994. Redesignated by T.D. 8858, 65 FR 1246, Jan. 7, 2000, as amended by T.D. 8940, 66 FR 9929, Feb. 13, 2001; 66 FR 17466, Mar. 30, 2001; T.D. 9959, 87 FR 324, Jan. 4, 2022]

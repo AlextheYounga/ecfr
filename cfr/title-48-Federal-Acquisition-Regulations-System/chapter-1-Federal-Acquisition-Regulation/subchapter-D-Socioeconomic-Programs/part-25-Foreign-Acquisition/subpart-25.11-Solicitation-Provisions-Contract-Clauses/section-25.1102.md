@@ -1,5 +1,7 @@
 ##### 25.1102 Acquisition of construction. #####
 
+Link to an amendment published at 87 FR 12794, Mar. 7, 2022.
+
 When using funds other than those appropriated under the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5) (Recovery Act), follow the prescriptions in paragraphs (a) through (d) of this section. Otherwise, follow the prescription in paragraph (e).
 
 (a) Insert the clause at 52.225-9, Buy American - Construction Materials, in solicitations and contracts for construction that is performed in the United States valued at less than $7,032,000.

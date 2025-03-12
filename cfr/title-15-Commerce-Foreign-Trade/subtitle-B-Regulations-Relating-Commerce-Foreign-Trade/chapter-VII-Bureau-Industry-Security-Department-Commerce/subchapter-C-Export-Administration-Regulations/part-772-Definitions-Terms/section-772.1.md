@@ -1,7 +1,5 @@
 ##### § 772.1 Definitions of terms as used in the Export Administration Regulations (EAR). #####
 
-Link to an amendment published at 86 FR 58210, Oct. 21, 2021.This amendment was delayed until Mar. 7, 2022, at 87 FR 1670, Jan. 12, 2022.
-
 The following are definitions of terms as used in the Export Administration Regulations (EAR). In this part, references to the EAR are references to 15 CFR chapter VII, subchapter C. Those terms in quotation marks refer to terms used on the Commerce Control List (CCL) (supplement no. 1 to part 774 of the EAR). Parenthetical references following the terms in quotation marks (i.e., (Cat 5)) refer to the CCL category in which that term is found. If a term is used in only one Export Control Classification Number (ECCN) on the CCL, then that term will *not* appear in this part, but will be defined in the Related Definitions paragraph in the List of Items Controlled Section of that ECCN.
 
 *600 series.* ECCNs in the “xY6zz” format on the Commerce Control List (CCL) that control items on the CCL that were previously controlled on the U.S. Munitions List or that are covered by the Wassenaar Arrangement Munitions List (WAML). The “6” indicates the entry is a munitions entry on the CCL. The “x” represents the CCL category and “Y” the CCL product group. The “600 series” constitutes the munitions ECCNs within the larger CCL.
@@ -233,6 +231,8 @@ Technical Notes:
 *Customs officer.* The Customs officers in the U.S. Customs Service and postmasters unless the context indicates otherwise.
 
 *CW Laser.* (Cat 6) A CW (Continuous Wave) laser is defined as a laser that produces a nominally constant output energy for greater than 0.25 seconds.
+
+*Cyber incident response.* (§ 740.22, Cat 4) means the process of exchanging necessary information on a cybersecurity incident with individuals or organizations responsible for conducting or coordinating remediation to address the cybersecurity incident.
 
 *Data-Based Referenced Navigation (“DBRN”) Systems.* (Cat 7) Systems which use various sources of previously measured geo-mapping data integrated to provide accurate navigation information under dynamic conditions. Data sources include bathymetric maps, stellar maps, gravity maps, magnetic maps or 3-D digital terrain maps.
 
@@ -1338,6 +1338,8 @@ If an ECCN specifies one or more of the six elements of “use” in the heading
 *Vacuum electronic devices* (Cat 3) Electronic devices based on the interaction of an electron beam with an electromagnetic wave propagating in a vacuum circuit or interacting with radio-frequency vacuum cavity resonators. “Vacuum electronic devices” include klystrons, travelling-wave tubes, and their derivatives.
 
 *Vector Rate.* (Cat 4) - See: “Two dimensional Vector Rate”; “Three dimensional Vector Rate”.
+
+*Vulnerability disclosure.* (§ 740.22, Cat 4) means the process of identifying, reporting, or communicating a vulnerability to, or analyzing a vulnerability with, individuals or organizations responsible for conducting or coordinating remediation for the purpose of resolving the vulnerability.
 
 *You.* Any person, including a natural person, including a citizen of the United States or any foreign country; any firm; any government, government agency, government department, or government commission; any labor union; any fraternal or social organization; and any other association or organization whether or not organized for profit.
 

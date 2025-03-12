@@ -1,5 +1,7 @@
 ##### 52.212-3 Offeror Representations and Certifications - Commercial Products and Commercial Services. #####
 
+Link to an amendment published at 87 FR 12795, Mar. 7, 2022.
+
 As prescribed in 12.301(b)(2), insert the following provision:
 
 Offeror Representations and Certifications - Commercial Products and Commercial Services (NOV 2021)

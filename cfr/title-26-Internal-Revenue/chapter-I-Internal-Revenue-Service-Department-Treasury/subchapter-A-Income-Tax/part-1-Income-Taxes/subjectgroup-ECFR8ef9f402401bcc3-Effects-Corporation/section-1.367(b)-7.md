@@ -1,10 +1,8 @@
 ##### § 1.367(b)-7 Carryover of earnings and profits and foreign income taxes in certain foreign-to-foreign nonrecognition transactions. #####
 
-Link to an amendment published at 87 FR 325, Jan. 4, 2022.
-
 (a) *Scope.* This section applies to an acquisition by a foreign corporation (foreign acquiring corporation) of the assets of another foreign corporation (foreign target corporation) in a transaction described in section 381 (foreign section 381 transaction). This section describes the manner and extent to which earnings and profits and foreign income taxes of the foreign acquiring corporation and the foreign target corporation carry over to the surviving foreign corporation (foreign surviving corporation) and the ordering of distributions by the foreign surviving corporation. See § 1.367(b)-9 for special rules governing reorganizations described in section 368(a)(1)(F) and foreign section 381 transactions involving foreign corporations that hold no property and have no tax attributes immediately before the transaction, other than a nominal amount of assets (and related tax attributes).
 
-(b) *General rules* - (1) *Non-previously taxed earnings and profits and related taxes.* Earnings and profits and related foreign income taxes of the foreign acquiring corporation and the foreign target corporation (pre-transaction earnings and pre-transaction taxes, respectively) shall carry over to the foreign surviving corporation in the manner described in paragraphs (d), (e), and (f) of this section. Dividend distributions by the foreign surviving corporation (post-transaction distributions) shall be out of earnings and profits and shall reduce related foreign income taxes in the manner described in paragraph (c) of this section.
+(b) *General rules*—(1) *Non-previously taxed earnings and profits and related taxes.* Earnings and profits and related foreign income taxes of the foreign acquiring corporation and the foreign target corporation (pre-transaction earnings and pre-transaction taxes, respectively) shall carry over to the foreign surviving corporation in the manner described in paragraphs (d), (e), and (f) of this section. Dividend distributions by the foreign surviving corporation (post-transaction distributions) shall be out of earnings and profits and shall reduce related foreign income taxes in the manner described in paragraph (c) of this section. See paragraph (g) of this section for rules applicable to taxable years of foreign corporations beginning on or after January 1, 2018, and taxable years of United States shareholders in which or with which such taxable years of foreign corporations end (“post-2017 taxable years”).
 
 (2) *Previously taxed earnings and profits.* [Reserved]
 
@@ -16,11 +14,11 @@ Link to an amendment published at 87 FR 325, Jan. 4, 2022.
 
 (d) *Post-1986 pool.* If the foreign surviving corporation is a pooling corporation, then the post-1986 pool shall be determined under the rules of this paragraph (d).
 
-(1) *In general* - (i) *Qualifying earnings and taxes.* The post-1986 pool shall consist of the post-1986 undistributed earnings and related post-1986 foreign income taxes of the foreign acquiring corporation and the foreign target corporation.
+(1) *In general*—(i) *Qualifying earnings and taxes.* The post-1986 pool shall consist of the post-1986 undistributed earnings and related post-1986 foreign income taxes of the foreign acquiring corporation and the foreign target corporation.
 
 (ii) *Carryover rule.* Subject to paragraph (d)(2) of this section, the amounts described in paragraph (d)(1)(i) of this section attributable to the foreign acquiring corporation and the foreign target corporation shall carry over to the foreign surviving corporation and shall be combined on a separate category-by-separate category basis.
 
-(2) *Hovering deficit* - (i) *In general.* If immediately prior to the foreign section 381 transaction either the foreign acquiring corporation or the foreign target corporation has a deficit in one or more separate categories of post-1986 undistributed earnings or an aggregate deficit in pre-1987 accumulated profits, such deficit will be a hovering deficit of the foreign surviving corporation. The rules of this paragraph (d)(2) apply to hovering deficits in separate categories of post-1986 undistributed earnings. See paragraphs (e)(1)(iii) and (e)(2)(iii) of this section for rules that apply to hovering deficits in pre-1987 accumulated profits. If the foreign acquiring corporation and the foreign target corporation each have a post-1986 hovering deficit in the same separate category of post-1986 undistributed earnings, such deficits and their related post-1986 foreign income taxes shall be combined for purposes of applying this paragraph (d)(2). See also paragraphs (f)(1) and (4) of this section (describing other rules applicable to a deficit described in this paragraph (d)(2)).
+(2) *Hovering deficit*—(i) *In general.* If immediately prior to the foreign section 381 transaction either the foreign acquiring corporation or the foreign target corporation has a deficit in one or more separate categories of post-1986 undistributed earnings or an aggregate deficit in pre-1987 accumulated profits, such deficit will be a hovering deficit of the foreign surviving corporation. The rules of this paragraph (d)(2) apply to hovering deficits in separate categories of post-1986 undistributed earnings. See paragraphs (e)(1)(iii) and (e)(2)(iii) of this section for rules that apply to hovering deficits in pre-1987 accumulated profits. If the foreign acquiring corporation and the foreign target corporation each have a post-1986 hovering deficit in the same separate category of post-1986 undistributed earnings, such deficits and their related post-1986 foreign income taxes shall be combined for purposes of applying this paragraph (d)(2). See also paragraphs (f)(1) and (4) of this section (describing other rules applicable to a deficit described in this paragraph (d)(2)).
 
 (ii) *Offset rule.* A hovering deficit in a separate category of post-1986 undistributed earnings shall offset only earnings and profits accumulated by the foreign surviving corporation after the foreign section 381 transaction (post-transaction earnings) in the same separate category of post-1986 undistributed earnings. For purposes of this rule, however, post-transaction earnings do not include post-1986 undistributed earnings in the same category that are earned after the foreign section 381 transaction, but are distributed or deemed distributed in the same year they are earned (that is, that do not become accumulated). The offset shall occur as of the first day of the foreign surviving corporation's first taxable year following the year in which the post-transaction earnings accumulated.
 
@@ -30,14 +28,14 @@ Link to an amendment published at 87 FR 325, Jan. 4, 2022.
 
 Example 1.(i) *Facts.* (A) On December 31, 2006, foreign corporations A and B have the following post-1986 undistributed earnings and post-1986 foreign income taxes:
 
-|  Separate category  |E&P |Foreign taxes|
-|---------------------|----|-------------|
-|Foreign Corporation A|    |             |
-|       General       |300u|     $60     |
-|       Passive       |100u|     40      |
-|                     |400u|    $100     |
-|Foreign Corporation B|    |             |
-|       General       |300u|     $70     |
+|    Separate category    |E&P |Foreign taxes|
+|-------------------------|----|-------------|
+|**Foreign Corporation A**|    |             |
+|         General         |300u|     $60     |
+|         Passive         |100u|     40      |
+|                         |400u|    $100     |
+|**Foreign Corporation B**|    |             |
+|         General         |300u|     $70     |
 
 (B) On January 1, 2007, foreign corporation B acquires the assets of foreign corporation A in a reorganization described in section 368(a)(1)(C). Immediately following the foreign section 381 transaction, foreign surviving corporation is a CFC.
 
@@ -69,16 +67,16 @@ Example 1.(i) *Facts.* (A) On December 31, 2006, foreign corporations A and B ha
 
 Example 2.(i) *Facts.* (A) On December 31, 2006, foreign corporations A and B have the following post-1986 undistributed earnings and post-1986 foreign income taxes:
 
-|  Separate category  | E&P  |Foreign taxes|
-|---------------------|------|-------------|
-|Foreign Corporation A|      |             |
-|       General       | 200u |     $30     |
-|       Passive       |(100u)|     10      |
-|                     | 100u |     $40     |
-|Foreign Corporation B|      |             |
-|       General       | 300u |     $60     |
-|       Passive       | 100u |     30      |
-|                     | 400u |     $90     |
+|    Separate category    | E&P  |Foreign taxes|
+|-------------------------|------|-------------|
+|**Foreign Corporation A**|      |             |
+|         General         | 200u |     $30     |
+|         Passive         |(100u)|     10      |
+|                         | 100u |     $40     |
+|**Foreign Corporation B**|      |             |
+|         General         | 300u |     $60     |
+|         Passive         | 100u |     30      |
+|                         | 400u |     $90     |
 
 (B) On January 1, 2007, foreign corporation B acquires the assets of foreign corporation A in a reorganization described in section 368(a)(1)(C). Immediately following the foreign section 381 transaction, foreign surviving corporation is a CFC.
 
@@ -110,7 +108,7 @@ Example 2.(i) *Facts.* (A) On December 31, 2006, foreign corporations A and B ha
 |     Passive     |       50u        |           (100u)            |                         15                         |$10|
 |                 |       300u       |           (100u)            |                        $60                         |$10|
 
-(iv) *Post-transaction earnings* - (A) In its taxable year ending on December 31, 2008, foreign surviving corporation accumulates earnings and profits and pays related foreign income taxes as follows:
+(iv) *Post-transaction earnings*—(A) In its taxable year ending on December 31, 2008, foreign surviving corporation accumulates earnings and profits and pays related foreign income taxes as follows:
 
 |Separate category|E&P |Foreign taxes|
 |-----------------|----|-------------|
@@ -142,12 +140,12 @@ Example 3.(i) *Facts.* The facts are the same as *Example 2*, except that the 50
 
 (C) The 50u included as subpart F income constitutes previously taxed earnings and profits under section 959.Example 4.(i) *Facts.* (A) On December 31, 2006, foreign corporations A and B have the following post-1986 undistributed earnings and post-1986 foreign income taxes:
 
-|  Separate category  | E&P  |Foreign taxes|
-|---------------------|------|-------------|
-|Foreign Corporation A|      |             |
-|       General       | 50u  |     $10     |
-|Foreign Corporation B|      |             |
-|       General       |(100u)|     $20     |
+|    Separate category    | E&P  |Foreign taxes|
+|-------------------------|------|-------------|
+|**Foreign Corporation A**|      |             |
+|         General         | 50u  |     $10     |
+|**Foreign Corporation B**|      |             |
+|         General         |(100u)|     $20     |
 
 (B) On January 1, 2007, foreign corporation B acquires the assets of foreign corporation A in a reorganization described in section 368(a)(1)(C). Immediately following the foreign section 381 transaction, foreign surviving corporation is a CFC.
 
@@ -167,13 +165,13 @@ Example 3.(i) *Facts.* The facts are the same as *Example 2*, except that the 50
 |  Positive E&P   | Hovering deficit |Foreign taxes  <br/>available|Foreign taxes  <br/>associated with hovering deficit|   |
 |     General     |       50u        |            (75u)            |                        $22                         |$15|
 
-(e) *Pre-pooling annual layers* - (1) *If foreign surviving corporation is a pooling corporation.* If the foreign surviving corporation is a pooling corporation, the pre-pooling annual layers shall be determined under the rules of this paragraph (e)(1).
+(e) *Pre-pooling annual layers*—(1) *If foreign surviving corporation is a pooling corporation.* If the foreign surviving corporation is a pooling corporation, the pre-pooling annual layers shall be determined under the rules of this paragraph (e)(1).
 
 (i) *Qualifying earnings and taxes.* The pre-pooling annual layers shall consist of the pre-1987 accumulated profits and the pre-1987 foreign income taxes of the foreign acquiring corporation and the foreign target corporation.
 
 (ii) *Carryover rule.* Subject to paragraph (e)(1)(iii) of this section, the amounts described in paragraph (e)(1)(i) of this section shall carry over to the foreign surviving corporation but shall not be combined. If the foreign acquiring corporation and the foreign target corporation have pre-1987 accumulated profits in the same year and a distribution is made therefrom, the rules of § 1.902-1(b)(2)(ii) and (b)(3) shall apply separately to reduce pre-1987 accumulated profits and pre-1987 foreign income taxes of the foreign acquiring corporation and the foreign target corporation on a pro rata basis. For further guidance, see Rev. Rul. 68-351 (1968-2 C.B. 307); Rev. Rul. 70-373 (1970-2 C.B. 152) (see also § 601.601(d)(2) of this chapter); see also paragraph (f)(2) of this section (governing the reconciliation of taxable years).
 
-(iii) *Deficit* - (A) *In general.* The rules of this paragraph (e)(1)(iii) apply when, immediately prior to the foreign section 381 transaction, the foreign acquiring corporation or the foreign target corporation (or both) has a deficit in earnings and profits for one or more of the years that comprise its pre-1987 accumulated profits (see also paragraphs (f)(1) and (4) of this section, describing other rules applicable to a deficit described in this paragraph (e)(1)(iii)).
+(iii) *Deficit*—(A) *In general.* The rules of this paragraph (e)(1)(iii) apply when, immediately prior to the foreign section 381 transaction, the foreign acquiring corporation or the foreign target corporation (or both) has a deficit in earnings and profits for one or more of the years that comprise its pre-1987 accumulated profits (see also paragraphs (f)(1) and (4) of this section, describing other rules applicable to a deficit described in this paragraph (e)(1)(iii)).
 
 (B) *Aggregate positive pre-1987 accumulated profits.* If the foreign acquiring corporation or the foreign target corporation (or both) has an aggregate positive (or zero) amount of pre-1987 accumulated profits, but a deficit in earnings and profits for one or more years, then the rules otherwise applicable to such deficits shall apply separately to the pre-1987 accumulated profits and related pre-1987 foreign income taxes of such corporation. A deficit in pre-1987 accumulated profits for one or more years is applied to reduce pre-1987 accumulated profits on a LIFO basis. Any remaining deficit shall be applied to reduce pre-1987 accumulated profits in succeeding years. See Rev. Rul. 74-550 (1974-2 C.B. 209) (see also § 601.601(d)(2) of this chapter); *Champion Int'l Corp.* v. *Commissioner*, 81 T.C. 424 (1983), acq. in result, 1987-2 C.B. 1; Rev. Rul. 87-72 (1987-2 C.B. 170) (see also § 601.601(d)(2) of this chapter). As a result, no amount in excess of the aggregate positive amount of pre-1987 accumulated profits shall be distributed from the pre-transaction earnings of the foreign acquiring corporation or the foreign target corporation.
 
@@ -220,22 +218,20 @@ Example 1.(i) *Facts.* (A) On December 31, 2006, foreign corporations A and B ha
 
 (iii) *Post-transaction distribution.* (A) During 2007, foreign surviving corporation does not accumulate any earnings and profits or pay or accrue any foreign income taxes. On December 31, 2007, foreign surviving corporation distributes 1,725u to its shareholders. Under the rules of paragraph (c)(1) of this section, the distribution is first out of the post-1986 pool, and then out of the pre-pooling annual layers under the LIFO method, as follows:
 
-|                                    |  E&P   |Foreign taxes|
-|------------------------------------|--------|-------------|
-|           Post-1986 pool           | 1,000u |    $350     |
-|                2006                |  100u  |     20u     |
-|                2005                |  150u  |     30u     |
-|Two Side-by-Side Layers of 2004 E&P:|        |             |
-|           2004 layer #1            |  400u  |    160u     |
-|           2004 layer #2            |   0u   |     0u      |
-|Two Side-by-Side Layers of 2003 E&P:|        |             |
-|           2003 layer #1            | \* 50u |    2.5u     |
-|           2003 layer #2            |\*\* 25u|    2.5u     |
-|                                    | 1,725u |             |
-
-\* 100u in layer/150u aggregate 2003 earnings = 66.67% × 75u distribution.
-
-\*\* 50u in layer/150u aggregate 2003 earnings = 33.33% × 75u distribution.
+|                                                                           |  E&P   |Foreign taxes|
+|---------------------------------------------------------------------------|--------|-------------|
+|                              Post-1986 pool                               | 1,000u |    $350     |
+|                                   2006                                    |  100u  |     20u     |
+|                                   2005                                    |  150u  |     30u     |
+|                   Two Side-by-Side Layers of 2004 E&P:                    |        |             |
+|                               2004 layer #1                               |  400u  |    160u     |
+|                               2004 layer #2                               |   0u   |     0u      |
+|                   Two Side-by-Side Layers of 2003 E&P:                    |        |             |
+|                               2003 layer #1                               | \* 50u |    2.5u     |
+|                               2003 layer #2                               |\*\* 25u|    2.5u     |
+|                                                                           | 1,725u |             |
+|\* 100u in layer/150u aggregate 2003 earnings = 66.67% × 75u distribution. |        |             |
+|\*\* 50u in layer/150u aggregate 2003 earnings = 33.33% × 75u distribution.|        |             |
 
 (B) The foreign income taxes deemed paid by qualifying shareholders of foreign surviving corporation upon the distribution are subject to generally applicable rules and limitations, such as those of sections 78, 902, and 904(d).
 
@@ -282,7 +278,7 @@ Example 2.(i) *Facts.* (A) On December 31, 2006, foreign corporations A and B ha
 
 |                                    |Earnings & profits|        Foreign taxes        |                                         |   |
 |------------------------------------|------------------|-----------------------------|-----------------------------------------|---|
-|            Positive E&P            |   Deficit E&P    |Foreign taxes  <br/>available|Foreign taxes assoicated with deficit E&P|   |
+|            Positive E&P            |   Deficit E&P    |Foreign taxes  <br/>available|Foreign taxes associated with deficit E&P|   |
 |           Post-1986 pool           |      1,000u      |                             |                  $350                   |   |
 |                2006                |       100u       |                             |                   20u                   |   |
 |                2005                |                  |            (50u)            |                                         |5u |
@@ -346,7 +342,7 @@ Example 2.(i) *Facts.* (A) On December 31, 2006, foreign corporations A and B ha
 
 |                                    |Earnings & profits|        Foreign taxes        |                                              |   |
 |------------------------------------|------------------|-----------------------------|----------------------------------------------|---|
-|            Positive E&P            | Hovering deficit |Foreign taxes  <br/>available|Foreign taxes assoicated with hovering deficit|   |
+|            Positive E&P            | Hovering deficit |Foreign taxes  <br/>available|Foreign taxes associated with hovering deficit|   |
 |           Post-1986 pool           |      1,000u      |            (50u)            |                     $350                     |$0 |
 |                2006                |        0u        |                             |                     20u                      |   |
 |                2005                |        0u        |                             |                      5u                      |   |
@@ -366,7 +362,7 @@ Example 2.(i) *Facts.* (A) On December 31, 2006, foreign corporations A and B ha
 
 (ii) *Carryover rule.* Subject to paragraph (e)(2)(iii) of this section, the amounts described in paragraph (e)(2)(i) of this section shall carry over to the foreign surviving corporation but shall not be combined. If the foreign acquiring corporation and the foreign target corporation have pre-1987 accumulated profits in the same year and a distribution is made therefrom, the principles of § 1.902-1(b)(2)(ii) and (3) shall apply separately to reduce pre-1987 accumulated profits and pre-1987 foreign income taxes of the foreign acquiring corporation and the foreign target corporation on a pro rata basis. For further guidance, see Rev. Rul. 68-351 (1968-2 C.B. 307); Rev. Rul. 70-373 (1970-2 C.B. 152) (see also § 601.601(d)(2) of this chapter); see also paragraph (f)(2) of this section (governing the reconciliation of taxable years).
 
-(iii) *Deficits* - (A) *In general.* The rules of this paragraph (e)(2)(iii) apply when, immediately prior to the foreign section 381 transaction (and after application of the last sentence of paragraph (e)(2)(i) of this section), the foreign acquiring corporation or the foreign target corporation (or both) has a deficit in one or more years that comprise its pre-1987 accumulated profits. See also paragraphs (f)(1) and (4) of this section (describing other rules applicable to a deficit described in this paragraph (e)(2)(iii)).
+(iii) *Deficits*—(A) *In general.* The rules of this paragraph (e)(2)(iii) apply when, immediately prior to the foreign section 381 transaction (and after application of the last sentence of paragraph (e)(2)(i) of this section), the foreign acquiring corporation or the foreign target corporation (or both) has a deficit in one or more years that comprise its pre-1987 accumulated profits. See also paragraphs (f)(1) and (4) of this section (describing other rules applicable to a deficit described in this paragraph (e)(2)(iii)).
 
 (B) *Aggregate positive pre-1987 accumulated profits.* If the foreign acquiring corporation or the foreign target corporation (or both) has an aggregate positive (or zero) amount of pre-1987 accumulated profits, but a deficit in pre-1987 accumulated profits in one or more years, then the rules otherwise applicable to such deficits shall apply separately to the pre-1987 accumulated profits and related foreign income taxes of such corporation. A deficit in pre-1987 accumulated profits for one or more years is applied to reduce pre-1987 accumulated profits on a LIFO basis. Any remaining deficit shall be applied to reduce pre-1987 accumulated profits in succeeding years. See Rev. Rul. 74-550 (1974-2 C.B. 209) (see also § 601.601(d)(2) of this chapter); *Champion Int'l Corp.* v. *Commissioner,* 81 T.C. 424 (1983), acq. in result, 1987-2 C.B. 1; Rev. Rul. 87-72 (1987-2 C.B. 170) (see also § 601.601(d)(2) of this chapter). As a result, no amount in excess of the aggregate positive amount of pre-1987 accumulated profits shall be distributed from the pre-transaction earnings of the foreign acquiring corporation or the foreign target corporation.
 
@@ -590,22 +586,23 @@ Example 2.(i) *Facts.* (A) The facts are the same as in *Example 1* (i)(A), exce
 
 (C) Immediately after the distribution, foreign surviving corporation has the following earnings and profits and foreign income taxes:
 
-|                                            |Earnings & profits|     Foreign taxes     |                                               |   |                           |   |   |   |   |
-|--------------------------------------------|------------------|-----------------------|-----------------------------------------------|---|---------------------------|---|---|---|---|
-|                Positive E&P                |   Deficit E&P    |Foreign taxes available|Foreign taxes  <br/>associated with deficit E&P|   |                           |   |   |   |   |
-|Hovering deficit from Corp A's annual layers|                  |        (800u)         |                                               | 0 |                           |   |   |   |   |
-|    Two Side-by-Side Layers of 2006 E&P:    |                  |                       |                                               |   |                           |   |   |   |   |
-|     2006 layer #1 (from Corp A's pool)     |                  |          0u           |                                               |$20|                           |   |   |   |   |
-|    2006 layer #2 (from Corp B's layer)     |        0u        |                       |                      0u                       |   |                           |   |   |   |   |
-|             2005 (from Corp B)             |       200u       |                       |                      40u                      |   |                           |   |   |   |   |
-|    Two Side-by-Side Layers of 2004 E&P:    |                  |                       |                                               |   |                           |   |   |   |   |
-|        2004 layer #1 (from Corp A)         |                  |          0u           |                                               |10u|                           |   |   |   |   |
-|        2004 layer #2 (from Corp B)         |        0u        |                       |                      50u                      |   |                           |   |   |   |   |
-|    Two Side-by-Side Layers of 2003 E&P:    |                  |                       |                                               |   |                           |   |   |   |   |
-|        2003 layer #1 (from Corp A)         |        0u        |                       |                      5u                       |   |2003 layer #2 (from Corp B)|50u|   |5u |   |
-|                                            |       250u       |        (800u)         |                     140u                      |   |                           |   |   |   |   |
+|                                            |Earnings & profits|     Foreign taxes     |                                               |   |
+|--------------------------------------------|------------------|-----------------------|-----------------------------------------------|---|
+|                Positive E&P                |   Deficit E&P    |Foreign taxes available|Foreign taxes  <br/>associated with deficit E&P|   |
+|Hovering deficit from Corp A's annual layers|                  |        (800u)         |                                               | 0 |
+|    Two Side-by-Side Layers of 2006 E&P:    |                  |                       |                                               |   |
+|     2006 layer #1 (from Corp A's pool)     |                  |          0u           |                                               |$20|
+|    2006 layer #2 (from Corp B's layer)     |        0u        |                       |                      0u                       |   |
+|             2005 (from Corp B)             |       200u       |                       |                      40u                      |   |
+|    Two Side-by-Side Layers of 2004 E&P:    |                  |                       |                                               |   |
+|        2004 layer #1 (from Corp A)         |                  |          0u           |                                               |10u|
+|        2004 layer #2 (from Corp B)         |        0u        |                       |                      50u                      |   |
+|    Two Side-by-Side Layers of 2003 E&P:    |                  |                       |                                               |   |
+|        2003 layer #1 (from Corp A)         |        0u        |                       |                      5u                       |   |
+|        2003 layer #2 (from Corp B)         |       50u        |                       |                      5u                       |   |
+|                                            |       250u       |        (800u)         |                     140u                      |   |
 
-(f) *Special rules* - (1) *Treatment of deficit* - (i) *General rule.* Any deficit described in paragraph (d)(2), (e)(1)(iii), or (e)(2)(iii) of this section shall not be taken into account in determining current or accumulated earnings and profits of a foreign surviving corporation other than to offset post-transaction accumulated earnings, as defined in paragraph (d)(2)(ii) of this section, including for purposes of calculating -
+(f) *Special rules*—(1) *Treatment of deficit*—(i) *General rule.* Any deficit described in paragraph (d)(2), (e)(1)(iii), or (e)(2)(iii) of this section shall not be taken into account in determining current or accumulated earnings and profits of a foreign surviving corporation other than to offset post-transaction accumulated earnings, as defined in paragraph (d)(2)(ii) of this section, including for purposes of calculating—
 
 (A) The earnings and profits limitation of section 952(c)(1)(A); and
 
@@ -646,8 +643,6 @@ Example 1.(i) *Facts.* (A) On December 31, 2007, foreign corporations A and B ha
 
 (B) Neither foreign corporation A nor B has any post-1986 undistributed earnings or post-1986 foreign income taxes as of the beginning of the 2007 taxable year. For its short taxable year ending on June 30, 2007, foreign corporation B has the following post-1986 undistributed earnings and post-1986 foreign income taxes:
 
-Foreign Corporation B
-
 |Separate category| E&P  |Foreign taxes|
 |-----------------|------|-------------|
 |     General     |(200u)|     $30     |
@@ -660,7 +655,7 @@ Foreign Corporation B
 
 |Separate category|Earnings & profits|        Foreign taxes        |                                                          |   |
 |-----------------|------------------|-----------------------------|----------------------------------------------------------|---|
-|  Positive E&P   |Hoverinig deficit |Foreign taxes  <br/>available|Foreign taxes  <br/>associated with  <br/>hovering deficit|   |
+|  Positive E&P   | Hovering deficit |Foreign taxes  <br/>available|Foreign taxes  <br/>associated with  <br/>hovering deficit|   |
 |     General     |       100u       |           (100u)            |                           $55                            |$15|
 
 Example 3.(i) *Facts.* (A) On January 1, 2007, foreign corporation B and foreign corporation C have the following post-1986 undistributed earnings and post-1986 foreign income taxes:
@@ -682,7 +677,7 @@ Example 3.(i) *Facts.* (A) On January 1, 2007, foreign corporation B and foreign
 
 |Separate category|Earnings & profits|        Foreign taxes        |                                                          |   |
 |-----------------|------------------|-----------------------------|----------------------------------------------------------|---|
-|       E&P       | Hovering deficit |Foreign taxes  <br/>available|Foreign taxes  <br/>assoicated with  <br/>hovering deficit|   |
+|       E&P       | Hovering deficit |Foreign taxes  <br/>available|Foreign taxes  <br/>associated with  <br/>hovering deficit|   |
 |     General     |      (200u)      |           (300u)            |                           $40                            |$30|
 
 (iii) *Subpart F income limitations.* Even though (200u) of the current year deficit is treated as a hovering deficit, the full (400u) current year deficit in 2007 of foreign surviving corporation B meets the requirements under section 952(c)(1)(C) and therefore is available as a limitation on subpart F income, to the extent foreign corporation A, which wholly owns foreign surviving corporation B, earns any subpart F income in the 2007 taxable year. Any such offset under section 952(c)(1)(C) will have no effect on the earnings and profits and foreign income tax accounts above of foreign surviving corporation B for purposes of sections 316 and 902. Moreover, to the extent the hovering deficit reduces subpart F income under section 952(c)(1)(C), it may not also be taken into account under section 952(c)(1)(B).
@@ -691,7 +686,7 @@ Example 3.(i) *Facts.* (A) On January 1, 2007, foreign corporation B and foreign
 
 (3) *Post-transaction change of status.* If a foreign surviving corporation that is subject to the rules of paragraph (c)(2) of this section subsequently becomes a pooling corporation (by reason, for example, of a reorganization, liquidation, or change of ownership), then post-1986 undistributed earnings and post-1986 foreign income taxes that were recharacterized as pre-1987 accumulated profits and pre-1987 foreign income taxes, respectively, under paragraph (e)(2)(i) of this section retain their characterization as a pre-pooling annual layer.
 
-(4) *Ordering rule for multiple hovering deficits* - (i) *Rule.* A foreign surviving corporation shall apply the deficit rules of paragraphs (d)(2), (e)(1)(iii), and (e)(2)(iii) of this section in that order if more than one of such rules applies to the foreign surviving corporation.
+(4) *Ordering rule for multiple hovering deficits*—(i) *Rule.* A foreign surviving corporation shall apply the deficit rules of paragraphs (d)(2), (e)(1)(iii), and (e)(2)(iii) of this section in that order if more than one of such rules applies to the foreign surviving corporation.
 
 (ii) *Example.* The following example illustrates the principles of this paragraph (f)(4). The example assumes the following facts: Foreign corporation A has been a pooling corporation since its incorporation on January 1, 1998. Foreign corporation B has been a nonpooling corporation since its incorporation on January 1, 2000. Foreign corporations A and B have always had calendar taxable years. Foreign corporations A and B (and all of their respective qualified business units as defined in section 989) maintain a “u” functional currency. All earnings and profits of foreign corporation B are in the general category. Finally, unless otherwise stated, any earnings and profits in the passive category resulted from a look-through dividend that was paid by a lower-tier CFC out of earnings accumulated when the CFC was a noncontrolled section 902 corporation and that qualified for the subpart F same-country exception under section 954(c)(3)(A). The example is as follows:
 
@@ -712,16 +707,16 @@ Example.(i) *Facts.* (A) On December 31, 2006, foreign corporations A and B have
 
 (ii) *Result.* Under the rules described in paragraphs (d)(1), (d)(2), (e)(1)(i), (e)(1)(ii), and (e)(1)(iii) of this section, foreign surviving corporation has the following earnings and profits and foreign income taxes:
 
-|                                            |Earnings & profits|    Foreign taxes     |                                              |   |
-|--------------------------------------------|------------------|----------------------|----------------------------------------------|---|
-|                Positive E&P                | Hovering deficit |Foreign taxes availabe|Foreign taxes associated with hovering deficit|   |
-|     Post-1986 pool separate category:      |                  |                      |                                              |   |
-|                  Passive                   |       400u       |                      |                     $160                     |   |
-|                  General                   |                  |        (300u)        |                                              |$25|
-|Carryforward pre-pooling deficit from Corp B|                  |        (200u)        |                                              | 0 |
-|             2006 (from Corp B)             |        0u        |                      |                     50u                      |   |
-|             2005 (from Corp B)             |        0u        |                      |                     25u                      |   |
-|                                            |       400u       |        (500u)        |                                              |$25|
+|                                            |Earnings & profits|     Foreign taxes     |                                              |   |
+|--------------------------------------------|------------------|-----------------------|----------------------------------------------|---|
+|                Positive E&P                | Hovering deficit |Foreign taxes available|Foreign taxes associated with hovering deficit|   |
+|     Post-1986 pool separate category:      |                  |                       |                                              |   |
+|                  Passive                   |       400u       |                       |                     $160                     |   |
+|                  General                   |                  |        (300u)         |                                              |$25|
+|Carryforward pre-pooling deficit from Corp B|                  |        (200u)         |                                              | 0 |
+|             2006 (from Corp B)             |        0u        |                       |                     50u                      |   |
+|             2005 (from Corp B)             |        0u        |                       |                     25u                      |   |
+|                                            |       400u       |        (500u)         |                                              |$25|
 
 (iii) *Post-transaction earnings.* (A) In the taxable year ending on December 31, 2007, foreign surviving corporation accumulates earnings and profits and pays related foreign income taxes as follows:
 
@@ -751,6 +746,8 @@ Example.(i) *Facts.* (A) On December 31, 2006, foreign corporations A and B have
 
 (ii) For purposes of determining the amount of pre-transaction deficits described in paragraphs (d)(2), (e)(1)(iii), and (e)(2)(iii) of this section, of a foreign surviving corporation that has a deficit in earnings and profits in any separate category for its taxable year in which the transaction occurs, unless the actual accumulated earnings and profits, or deficit, as of such date can be shown, such pre-transaction deficit, and any related foreign income taxes, shall be deemed to have accumulated in a manner similar to that described in paragraph (f)(5)(i) of this section. See, e.g., § 1.381(c)(2)-1(a)(7) *Example 4* (illustrating application of this rule with respect to domestic corporations).
 
-(g) *Effective date.* This section shall apply to section 367(b) transactions that occur on or after November 6, 2006.
+(g) *Post-2017 taxable years.* As a result of the repeal of section 902 effective for taxable years of foreign corporations beginning on or after January 1, 2018, all foreign target corporations, foreign acquiring corporations, and foreign surviving corporations are treated as nonpooling corporations in post-2017 taxable years. Any amounts remaining in post-1986 undistributed earnings and post-1986 foreign income taxes of any such corporation in any separate category as of the end of the foreign corporation's last taxable year beginning before January 1, 2018, are treated as earnings and taxes in a single pre-pooling annual layer in the foreign corporation's post-2017 taxable years for purposes of this section. Foreign income taxes that are related to non-previously taxed earnings of a foreign acquiring corporation and a foreign target corporation that were accumulated in taxable years before the current taxable year of the foreign corporation, or in a foreign target's taxable year that ends on the date of the section 381 transaction, are not treated as current year taxes (as defined in § 1.960-1(b)(4)) of a foreign surviving corporation in any post-2017 taxable year. In addition, foreign income taxes that are related to a hovering deficit are not treated as current year taxes of the foreign surviving corporation in any post-2017 taxable year, regardless of whether the hovering deficit is absorbed.
 
-[T.D. 9273, 71 FR 44985, Aug. 8, 2006; 71 FR 57889, Oct. 2, 2006, as amended at 71 FR 70876, Dec. 7, 2006]
+(h) *Applicability dates.* Except as otherwise provided in this paragraph (h), this section applies to foreign section 381 transactions that occur on or after November 6, 2006. Paragraph (g) of this section applies to taxable years of foreign corporations ending on or after November 2, 2020, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end.
+
+[T.D. 9273, 71 FR 44985, Aug. 8, 2006; 71 FR 57889, Oct. 2, 2006; 71 FR 70876, Dec. 7, 2006, as amended by T.D. 9959, 87 FR 325, Jan. 4, 2022]

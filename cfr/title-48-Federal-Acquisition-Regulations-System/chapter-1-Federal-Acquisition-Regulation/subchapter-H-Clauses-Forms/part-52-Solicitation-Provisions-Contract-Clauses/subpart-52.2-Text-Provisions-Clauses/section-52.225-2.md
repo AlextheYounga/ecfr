@@ -1,5 +1,7 @@
 ##### 52.225-2 Buy American Certificate. #####
 
+Link to an amendment published at 87 FR 12796, Mar. 7, 2022.
+
 As prescribed in 25.1101(a)(2), insert the following provision:
 
 Buy American Certificate (FEB 2021)

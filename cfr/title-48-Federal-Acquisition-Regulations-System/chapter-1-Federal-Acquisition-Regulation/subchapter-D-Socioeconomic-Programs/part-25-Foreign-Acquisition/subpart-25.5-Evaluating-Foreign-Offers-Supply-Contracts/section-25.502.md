@@ -1,5 +1,7 @@
 ##### 25.502 Application. #####
 
+Link to an amendment published at 87 FR 12792, Mar. 7, 2022.
+
 (a) Unless otherwise specified in agency regulations, perform the following steps in the order presented:
 
 (1) Eliminate all offers or offerors that are unacceptable for reasons other than price; *e.g.,* nonresponsive, debarred or suspended, or a prohibited source (see Subpart 25.7).

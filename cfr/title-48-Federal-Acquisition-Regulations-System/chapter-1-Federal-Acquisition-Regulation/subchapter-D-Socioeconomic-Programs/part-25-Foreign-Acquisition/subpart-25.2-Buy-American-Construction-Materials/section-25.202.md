@@ -1,5 +1,7 @@
 ##### 25.202 Exceptions. #####
 
+Link to an amendment published at 87 FR 12792, Mar. 7, 2022.
+
 (a) When one of the following exceptions applies, the contracting officer may allow the contractor to acquire foreign construction materials without regard to the restrictions of the Buy American statute:
 
 (1) *Impracticable or inconsistent with public interest.* The head of the agency may determine that application of the restrictions of the Buy American statute to a particular construction material would be impracticable or would be inconsistent with the public interest. The public interest exception applies when an agency has an agreement with a foreign government that provides a blanket exception to the Buy American statute.

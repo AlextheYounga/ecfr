@@ -1,10 +1,8 @@
 ##### § 1.860G-1 Definition of regular and residual interests. #####
 
-Link to an amendment published at 87 FR 175, Jan. 4, 2022.
+(a) *Regular interest*—(1) *Designation as a regular interest.* For purposes of section 860G(a)(1), a REMIC designates an interest as a regular interest by providing to the Internal Revenue Service the information specified in § 1.860D-1(d)(2)(ii) in the time and manner specified in § 1.860D-1(d)(2).
 
-(a) *Regular interest* - (1) *Designation as a regular interest.* For purposes of section 860G(a)(1), a REMIC designates an interest as a regular interest by providing to the Internal Revenue Service the information specified in § 1.860D-1(d)(2)(ii) in the time and manner specified in § 1.860D-1(d)(2).
-
-(2) *Specified portion of the interest payments on qualified mortgages* - (i) *In general.* For purposes of section 860G(a)(1)(B)(ii), a specified portion of the interest payments on qualified mortgages means a portion of the interest payable on qualified mortgages, but only if the portion can be expressed as -
+(2) *Specified portion of the interest payments on qualified mortgages*—(i) *In general.* For purposes of section 860G(a)(1)(B)(ii), a specified portion of the interest payments on qualified mortgages means a portion of the interest payable on qualified mortgages, but only if the portion can be expressed as—
 
 (A) A fixed percentage of the interest that is payable at either a fixed rate or at a variable rate described in paragraph (a)(3) of this section on some or all of the qualified mortgages;
 
@@ -18,7 +16,7 @@ Link to an amendment published at 87 FR 175, Jan. 4, 2022.
 
 (iv) *No minimum specified principal amount is required.* If an interest in a REMIC consists of a specified portion of the interest payments on the REMIC's qualified mortgages, no minimum specified principal amount need be assigned to that interest. The specified principal amount can be zero.
 
-(v) *Specified portion includes portion of interest payable on regular interest.* (A) The specified portions that meet the requirements of paragraph (a)(2)(i) of this section include a specified portion that can be expressed as a fixed percentage of the interest that is payable on some or all of the qualified mortgages where -
+(v) *Specified portion includes portion of interest payable on regular interest.* (A) The specified portions that meet the requirements of paragraph (a)(2)(i) of this section include a specified portion that can be expressed as a fixed percentage of the interest that is payable on some or all of the qualified mortgages where—
 
 (*1*) Each of those qualified mortgages is a regular interest issued by another REMIC; and
 
@@ -46,11 +44,11 @@ Example 3.(i) A sponsor transferred a pool of fixed rate mortgages to a trustee 
 
 (i) *Rate based on current interest rate.* A qualified floating rate as defined in § 1.1275-5(b)(1) (but without the application of paragraph (b)(2) or (3) of that section) set at a current value, as defined in § 1.1275-5(a)(4), is a variable rate. In addition, a rate equal to the highest, lowest, or average of two or more qualified floating rates is a variable rate. For example, a rate based on the average cost of funds of one or more financial institutions is a variable rate.
 
-(ii) *Weighted average rate* - (A) *In general.* A rate based on a weighted average of the interest rates on some or all of the qualified mortgages held by a REMIC is a variable rate. The qualified mortgages taken into account must, however, bear interest at a fixed rate or at a rate described in this paragraph (a)(3). Generally, a weighted average interest rate is a rate that, if applied to the aggregate outstanding principal balance of a pool of mortgage loans for an accrual period, produces an amount of interest that equals the sum of the interest payable on the pooled loans for that accrual period. Thus, for an accrual period in which a pool of mortgage loans comprises $300,000 of loans bearing a 7 percent interest rate and $700,000 of loans bearing a 9.5 percent interest rate, the weighted average rate for the pool of loans is 8.75 percent.
+(ii) *Weighted average rate*—(A) *In general.* A rate based on a weighted average of the interest rates on some or all of the qualified mortgages held by a REMIC is a variable rate. The qualified mortgages taken into account must, however, bear interest at a fixed rate or at a rate described in this paragraph (a)(3). Generally, a weighted average interest rate is a rate that, if applied to the aggregate outstanding principal balance of a pool of mortgage loans for an accrual period, produces an amount of interest that equals the sum of the interest payable on the pooled loans for that accrual period. Thus, for an accrual period in which a pool of mortgage loans comprises $300,000 of loans bearing a 7 percent interest rate and $700,000 of loans bearing a 9.5 percent interest rate, the weighted average rate for the pool of loans is 8.75 percent.
 
 (B) *Reduction in underlying rate.* For purposes of paragraph (a)(3)(ii)(A) of this section, an interest rate is considered to be based on a weighted average rate even if, in determining that rate, the interest rate on some or all of the qualified mortgages is first subject to a cap or a floor, or is first reduced by a number of basis points or a fixed percentage. A rate determined by taking a weighted average of the interest rates on the qualified mortgage loans net of any servicing spread, credit enhancement fees, or other expenses of the REMIC is a rate based on a weighted average rate for the qualified mortgages. Further, the amount of any rate reduction described above may vary from mortgage to mortgage.
 
-(iii) *Additions, subtractions, and multiplications.* A rate is a variable rate if it is -
+(iii) *Additions, subtractions, and multiplications.* A rate is a variable rate if it is—
 
 (A) Expressed as the product of a rate described in paragraph (a)(3)(i) or (ii) of this section and a fixed multiplier;
 
@@ -58,15 +56,15 @@ Example 3.(i) A sponsor transferred a pool of fixed rate mortgages to a trustee 
 
 (C) Expressed as the product, plus or minus a constant number of basis points, of a rate described in paragraph (a)(3)(i) or (ii) of this section and a fixed multiplier (which may be either a positive or a negative number).
 
-(iv) *Caps and floors.* A rate is a variable rate if it is a rate that would be described in paragraph (a)(3)(i) through (iii) of this section except that it is -
+(iv) *Caps and floors.* A rate is a variable rate if it is a rate that would be described in paragraph (a)(3)(i) through (iii) of this section except that it is—
 
 (A) Limited by a cap or ceiling that establishes either a maximum rate or a maximum number of basis points by which the rate may increase from one accrual or payment period to another or over the term of the interest; or
 
 (B) Limited by a floor that establishes either a minimum rate or a maximum number of basis points by which the rate may decrease from one accrual or payment period to another or over the term of the interest.
 
-(v) *Funds-available caps* - (A) *In general.* A rate is a variable rate if it is a rate that would be described in paragraph (a)(3)(i) through (iv) of this section except that it is subject to a “funds-available” cap. A funds-available cap is a limit on the amount of interest to be paid on an instrument in any accrual or payment period that is based on the total amount available for the distribution, including both principal and interest received by an issuing entity on some or all of its qualified mortgages as well as amounts held in a reserve fund. The term “funds-available cap” does not, however, include any cap or limit on interest payments used as a device to avoid the standards of paragraph (a)(3)(i) through (iv) of this section.
+(v) *Funds-available caps*—(A) *In general.* A rate is a variable rate if it is a rate that would be described in paragraph (a)(3)(i) through (iv) of this section except that it is subject to a “funds-available” cap. A funds-available cap is a limit on the amount of interest to be paid on an instrument in any accrual or payment period that is based on the total amount available for the distribution, including both principal and interest received by an issuing entity on some or all of its qualified mortgages as well as amounts held in a reserve fund. The term “funds-available cap” does not, however, include any cap or limit on interest payments used as a device to avoid the standards of paragraph (a)(3)(i) through (iv) of this section.
 
-(B) *Facts and circumstances test.* In determining whether a cap or limit on interest payments is a funds-available cap within the meaning of this section and not a device used to avoid the standards of paragraph (a)(3)(i) through (iv) of this section, one must consider all of the facts and circumstances. Facts and circumstances that must be taken into consideration are -
+(B) *Facts and circumstances test.* In determining whether a cap or limit on interest payments is a funds-available cap within the meaning of this section and not a device used to avoid the standards of paragraph (a)(3)(i) through (iv) of this section, one must consider all of the facts and circumstances. Facts and circumstances that must be taken into consideration are—
 
 (*1*) Whether the rate of the interest payable to the regular interest holders is below the rate payable on the REMIC's qualified mortgages on the start-up day; and
 
@@ -88,13 +86,13 @@ Example 2.(i) The facts are the same as those in *Example 1,* except that the po
 
 (iii) The facts and circumstances here indicate that the use of 400 percent of One-Year LIBOR with the above-described cap is a device to pass through to the Class X certificate holder contingent interest based on mortgagor profits. Consequently, the rate paid on the Class X certificate here is not a variable rate.
 
-(vi) *Combination of rates.* A rate is a variable rate if it is based on -
+(vi) *Combination of rates.* A rate is a variable rate if it is based on—
 
 (A) One fixed rate during one or more accrual or payment periods and a different fixed rate or rates, or a rate or rates described in paragraph (a)(3) (i) through (v) of this section, during other accrual or payment periods; or
 
 (B) A rate described in paragraph (a)(3) (i) through (v) of this section during one or more accrual or payment periods and a fixed rate or rates, or a different rate or rates described in paragraph (a)(3) (i) through (v) of this section in other periods.
 
-(4) *Fixed terms on the startup day.* For purposes of section 860G(a)(1), a regular interest in a REMIC has fixed terms on the startup day if, on the startup day, the REMIC's organizational documents irrevocably specify -
+(4) *Fixed terms on the startup day.* For purposes of section 860G(a)(1), a regular interest in a REMIC has fixed terms on the startup day if, on the startup day, the REMIC's organizational documents irrevocably specify—
 
 (i) The principal amount (or other similar amount) of the regular interest;
 
@@ -102,15 +100,15 @@ Example 2.(i) The facts are the same as those in *Example 1,* except that the po
 
 (iii) The latest possible maturity date of the interest.
 
-(5) *Contingencies prohibited.* Except for the contingencies specified in paragraph (b)(3) of this section, the principal amount (or other similar amount) and the latest possible maturity date of the interest must not be contingent.
+(5) *Contingencies prohibited.* Except for the contingencies specified in paragraphs (b)(3) and (e)(4) of this section, the principal amount (or other similar amount) and the latest possible maturity date of the interest must not be contingent.
 
-(b) *Special rules for regular interests* - (1) *Call premium.* An interest in a REMIC does not qualify as a regular interest if the terms of the interest entitle the holder of that interest to the payment of any premium that is determined with reference to the length of time that the regular interest is outstanding and is not described in paragraph (b)(2) of this section.
+(b) *Special rules for regular interests*—(1) *Call premium.* An interest in a REMIC does not qualify as a regular interest if the terms of the interest entitle the holder of that interest to the payment of any premium that is determined with reference to the length of time that the regular interest is outstanding and is not described in paragraph (b)(2) of this section.
 
 (2) *Customary prepayment penalties received with respect to qualified mortgages.* An interest in a REMIC does not fail to qualify as a regular interest solely because the REMIC's organizational documents provide that the REMIC must allocate among and pay to its regular interest holders any customary prepayment penalties that the REMIC receives with respect to its qualified mortgages. Moreover, a REMIC may allocate prepayment penalties among its classes of interests in any manner specified in the REMIC's organizational documents. For example, a REMIC could allocate all or substantially all of a prepayment penalty that it receives to holders of an interest-only class of interests because that class would be most significantly affected by prepayments.
 
 (3) *Certain contingencies disregarded.* An interest in a REMIC does not fail to qualify as a regular interest solely because it is issued subject to some or all of the contingencies described in paragraph (b)(3) (i) through (vi) of this section.
 
-(i) *Prepayments, income, and expenses.* An interest does not fail to qualify as a regular interest solely because -
+(i) *Prepayments, income, and expenses.* An interest does not fail to qualify as a regular interest solely because—
 
 (A) The timing of (but not the right to or amount of) principal payments (or other similar amounts) is affected by the extent of prepayments on some or all of the qualified mortgages held by the REMIC or the amount of income from permitted investments (as defined in § 1.860G-2(g)); or
 
@@ -128,7 +126,7 @@ Example 2.(i) The facts are the same as those in *Example 1,* except that the po
 
 (4) *Form of regular interest.* A regular interest in a REMIC may be issued in the form of debt, stock, an interest in a partnership or trust, or any other form permitted by state law. If a regular interest in a REMIC is not in the form of debt, it must, except as provided in paragraph (a)(2)(iv) of this section, entitle the holder to a specified amount that would, were the interest issued in debt form, be identified as the principal amount of the debt.
 
-(5) *Interest disproportionate to principal* - (i) *In general.* An interest in a REMIC does not qualify as a regular interest if the amount of interest (or other similar amount) payable to the holder is disproportionately high relative to the principal amount or other specified amount described in paragraph (b)(4) of this section (specified principal amount). Interest payments (or other similar amounts) are considered disproportionately high if the issue price (as determined under paragraph (d) of this section) of the interest in the REMIC exceeds 125 percent of its specified principal amount.
+(5) *Interest disproportionate to principal*—(i) *In general.* An interest in a REMIC does not qualify as a regular interest if the amount of interest (or other similar amount) payable to the holder is disproportionately high relative to the principal amount or other specified amount described in paragraph (b)(4) of this section (specified principal amount). Interest payments (or other similar amounts) are considered disproportionately high if the issue price (as determined under paragraph (d) of this section) of the interest in the REMIC exceeds 125 percent of its specified principal amount.
 
 (ii) *Exception.* A regular interest in a REMIC that entitles the holder to interest payments consisting of a specified portion of interest payments on qualified mortgages qualifies as a regular interest even if the amount of interest is disproportionately high relative to the specified principal amount.
 
@@ -136,8 +134,16 @@ Example 2.(i) The facts are the same as those in *Example 1,* except that the po
 
 (c) *Residual interest.* A residual interest is an interest in a REMIC that is issued on the startup day and that is designated as a residual interest by providing the information specified in § 1.860D-1(d)(2)(ii) at the time and in the manner provided in § 1.860D-1(d)(2). A residual interest need not entitle the holder to any distributions from the REMIC.
 
-(d) *Issue price of regular and residual interests* - (1) *In general.* The issue price of any REMIC regular or residual interest is determined under section 1273(b) as if the interest were a debt instrument and, if issued for property, as if the requirements of section 1273(b)(3) were met. Thus, if a class of interests is publicly offered, then the issue price of an interest in that class is the initial offering price to the public at which a substantial amount of the class is sold. If the interest is in a class that is not publicly offered, the issue price is the price paid by the first buyer of that interest regardless of the price paid for the remainder of the class. If the interest is in a class that is retained by the sponsor, the issue price is its fair market value on the pricing date (as defined in § 1.860F-2(b)(3)(iii)), if any, or, if none, the startup day, regardless of whether the property exchanged therefor is publicly traded.
+(d) *Issue price of regular and residual interests*—(1) *In general.* The issue price of any REMIC regular or residual interest is determined under section 1273(b) as if the interest were a debt instrument and, if issued for property, as if the requirements of section 1273(b)(3) were met. Thus, if a class of interests is publicly offered, then the issue price of an interest in that class is the initial offering price to the public at which a substantial amount of the class is sold. If the interest is in a class that is not publicly offered, the issue price is the price paid by the first buyer of that interest regardless of the price paid for the remainder of the class. If the interest is in a class that is retained by the sponsor, the issue price is its fair market value on the pricing date (as defined in § 1.860F-2(b)(3)(iii)), if any, or, if none, the startup day, regardless of whether the property exchanged therefor is publicly traded.
 
 (2) *The public.* The term “the public” for purposes of this section does not include brokers or other middlemen, nor does it include the sponsor who acquires all of the regular and residual interests from the REMIC on the startup day in a transaction described in § 1.860F-2(a).
 
-[T.D. 8458, 57 FR 61306, Dec. 24, 1992; 58 FR 8098, Feb. 11, 1993; 58 FR 15089, Mar. 19, 1993; T.D. 8614, 60 FR 42787, Aug. 17, 1995]
+(e) *Transition from certain interbank offered rates*—(1) *In general.* This paragraph (e) provides rules relating to the modification of the terms of a regular interest in a REMIC or the terms of an asset held by a REMIC as part of the transition away from the London Interbank Offered Rate and certain other interbank offered rates. For purposes of this paragraph (e), *covered modification* and *discontinued IBOR* have the meanings provided in § 1.1001-6(h)(1) and (4), respectively. See § 1.1001-6 for additional rules that may apply to an interest in a REMIC that provides for a rate referencing a discontinued IBOR.
+
+(2) *Change in reference rate for a regular interest after the startup day.* A covered modification of a regular interest in a REMIC that occurs after the startup day is disregarded in determining whether the modified regular interest has fixed terms on the startup day under paragraph (a)(4) of this section.
+
+(3) *Contingencies of rate on a regular interest.* An interest in a REMIC does not fail to qualify as a regular interest solely because it is subject to a contingency whereby a rate that references a discontinued IBOR and is a variable rate permitted under paragraph (a)(3) of this section may change to a fixed rate or a different variable rate permitted under paragraph (a)(3) of this section in anticipation of the discontinued IBOR becoming unavailable or unreliable.
+
+(4) *Reasonable expenses incurred to make covered modifications.* An interest in a REMIC does not fail to qualify as a regular interest solely because it is subject to a contingency whereby the amount of payments of principal or interest (or other similar amounts) with respect to the interest in the REMIC is reduced by reasonable costs incurred to effect a covered modification. In addition, payment by a party other than the REMIC of reasonable costs incurred to effect a covered modification is not a contribution to the REMIC for purposes of section 860G(d).
+
+[T.D. 8458, 57 FR 61306, Dec. 24, 1992; 58 FR 8098, Feb. 11, 1993; 58 FR 15089, Mar. 19, 1993; T.D. 8614, 60 FR 42787, Aug. 17, 1995; T.D. 9961, 87 FR 175, Jan. 4, 2022]

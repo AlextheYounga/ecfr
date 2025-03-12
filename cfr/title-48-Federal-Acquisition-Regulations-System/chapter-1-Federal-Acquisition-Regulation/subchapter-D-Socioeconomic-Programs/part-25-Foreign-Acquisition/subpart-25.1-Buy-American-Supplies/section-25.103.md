@@ -1,5 +1,7 @@
 ##### 25.103 Exceptions. #####
 
+Link to an amendment published at 87 FR 12791, Mar. 7, 2022.
+
 When one of the following exceptions applies, the contracting officer may acquire a foreign end product without regard to the restrictions of the Buy American statute:
 
 (a) *Public interest.* The head of the agency may make a determination that domestic preference would be inconsistent with the public interest. This exception applies when an agency has an agreement with a foreign government that provides a blanket exception to the Buy American statute.

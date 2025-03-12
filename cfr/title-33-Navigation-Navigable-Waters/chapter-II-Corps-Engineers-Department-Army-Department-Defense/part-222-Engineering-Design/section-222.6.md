@@ -1020,13 +1020,13 @@ Appendix G to § 222.6National Program for Inspection of Non-Federal Dams - Mont
 
 3. Information Required for Each State Regarding Total Number of Inspections Performed (AE Inspections included) (Cumulative):
 
-3.1. Number of Inspections Initiated by on-site inspection or the review of engineering data from project records.1
+3.1. Number of Inspections Initiated by on-site inspection or the review of engineering data from project records.1/\>
 
 1 Each of the initiated inspections reported should be planned for completion within a reasonable period of time (30 days.)
 
 3.2. Number of Inspections Competed (The number of inspection reports which have been submitted to the District Engineer for review and approval).
 
-3.3 Number of Dams Reported to the Governor as Unsafe.2
+3.3 Number of Dams Reported to the Governor as Unsafe.2/\>
 
 2 An unsafe dam is defined as a dam with deficiencies of such a nature that if not corrected could result in the failure of the dam with subsequent loss of lives or substantial property damage.
 
@@ -1036,7 +1036,7 @@ Appendix G to § 222.6National Program for Inspection of Non-Federal Dams - Mont
 
 4.1. Number of Dams Contracted for Inspection by AE's with State or Corps.
 
-4.2. Number of Inspections Initiated by AE's by on-site inspection or the review of engineering data from project records.1
+4.2. Number of Inspections Initiated by AE's by on-site inspection or the review of engineering data from project records.1/\>
 
 1 See footnote on previous page.
 
@@ -1110,7 +1110,7 @@ d. *Preparation of Report.* A formal report shall be prepared for each dam inspe
 
 4. *Supervision and Approval of Work.* All work performed under this contract shall be subject to the review and approval of the Contracting Officer or his designee. Meetings will be held on a regular basis in the District office, during which the progress of inspections will be discussed and questions relating to inspection reports previously received by the Contracting Officer will be addressed. Reports will be revised as necessary when required by the Contracting Officer.
 
-5. *Coordination.* During the progress of work, the AE shall maintain liaison with the \*\_\_\_\_ and other local authorities through the Contracting Officer as required to assure the orderly progression of the inspection. Copies of all correspondence with such authorities shall be provided to the Contracting Officer.
+5. *Coordination.* During the progress of work, the AE shall maintain liaison with the \*/\>\_\_\_\_ and other local authorities through the Contracting Officer as required to assure the orderly progression of the inspection. Copies of all correspondence with such authorities shall be provided to the Contracting Officer.
 
 \* Note: Write in the designated State Authority.
 

@@ -1,0 +1,9 @@
+##### § 1989.103 Filing of retaliation complaint. #####
+
+(a) *Who may file.* A person who believes that they have been discharged or otherwise retaliated against by any person in violation of TFA may file, or have filed by any person on their behalf, a complaint alleging such retaliation.
+
+(b) *Nature of filing.* No particular form of complaint is required. A complaint may be filed orally or in writing. Oral complaints will be reduced to writing by OSHA. If the complainant is unable to file the complaint in English, OSHA will accept the complaint in any language.
+
+(c) *Place of filing.* The complaint should be filed with the OSHA office responsible for enforcement activities in the geographical area where the complainant resides or was employed, but may be filed with any OSHA officer or employee. Addresses and telephone numbers for these officials are set forth in local directories and at the following internet address: *http://www.osha.gov.* Complaints may also be filed online at *https://www.osha.gov/whistleblower/WBComplaint.html.*
+
+(d) *Time for filing.* Within 180 days after an alleged violation of TFA occurs, any person who believes that they have been retaliated against in violation of TFA may file, or have filed by any person on their behalf, a complaint alleging such retaliation. The date of the postmark, facsimile transmittal, electronic filing or transmittal, telephone call, hand-delivery, delivery to a third-party commercial carrier, or in-person filing at an OSHA office will be considered the date of filing. The time for filing a complaint may be tolled for reasons warranted by applicable case law. For example, OSHA may consider the time for filing a complaint to be tolled if a complainant mistakenly files a complaint with an agency other than OSHA within 180 days after an alleged adverse action.

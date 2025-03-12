@@ -1,9 +1,7 @@
 ##### § 1.960-7 Applicability dates. #####
 
-Link to an amendment published at 87 FR 375, Jan. 4, 2022.
-
 (a) Except as provided in paragraph (b) of this section, §§ 1.960-1 through 1.960-6 apply to each taxable year of a foreign corporation ending on or after December 4, 2018, and to each taxable year of a domestic corporation that is a United States shareholder of the foreign corporation in which or with which such taxable year of such foreign corporation ends.
 
-(b) Section 1.960-1(c)(2) and (d)(3)(ii) applies to taxable years of a foreign corporation beginning after December 31, 2019, and to each taxable year of a domestic corporation that is a United States shareholder of the foreign corporation in which or with which such taxable year of such foreign corporation ends. For taxable years of a foreign corporation that end on or after December 4, 2018, and also begin before January 1, 2020, see § 1.960-1(c)(2) and (d)(3)(ii) as in effect on December 17, 2019.
+(b) Section 1.960-1(c)(2) and (d)(3)(ii) apply to taxable years of a foreign corporation beginning after December 31, 2019, and to each taxable year of a domestic corporation that is a United States shareholder of the foreign corporation in which or with which such taxable year of such foreign corporation ends. For taxable years of a foreign corporation that end on or after December 4, 2018, and also begin before January 1, 2020, see § 1.960-1(c)(2) and (d)(3)(ii) as in effect on December 17, 2019. Paragraphs (b)(4), (5), and (6), (c)(1)(ii), (iii), and (iv), and (d)(3)(ii)(A) and (B) of § 1.960-1, and paragraphs (b)(2), (b)(3)(i), (b)(5)(i), (b)(5)(iv)(A), and (c)(4), (5), and (7) of § 1.960-2, apply to taxable years of foreign corporations beginning on or after December 28, 2021, and to each taxable year of a domestic corporation that is a United States shareholder of the foreign corporation in which or with which such taxable year of such foreign corporation ends. For taxable years of foreign corporations beginning before December 28, 2021, with respect to the paragraphs described in the preceding sentence, see §§ 1.960-1 and 1.960-2 as in effect on November 12, 2020.
 
-[T.D. 9922, 85 FR 72072, Nov. 12, 2020]
+[T.D. 9922, 85 FR 72072, Nov. 12, 2020, as amended by T.D. 9959, 87 FR 375, Jan. 4, 2022]

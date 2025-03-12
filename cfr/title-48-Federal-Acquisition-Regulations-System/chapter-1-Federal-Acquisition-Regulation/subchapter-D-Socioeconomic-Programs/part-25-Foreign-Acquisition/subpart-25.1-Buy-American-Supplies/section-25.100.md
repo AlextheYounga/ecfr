@@ -1,5 +1,7 @@
 ##### 25.100 Scope of subpart. #####
 
+Link to an amendment published at 87 FR 12790, Mar. 7, 2022.
+
 (a) This subpart implements -
 
 (1) 41 U.S.C. chapter 83, Buy American;

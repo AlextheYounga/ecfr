@@ -1,5 +1,7 @@
 ##### 25.101 General. #####
 
+Link to an amendment published at 87 FR 12790, Mar. 7, 2022.
+
 (a) The Buy American statute restricts the purchase of supplies that are not domestic end products. For manufactured end products, the Buy American statute and E.O. 13881 use a two-part test to define a domestic end product.
 
 (1) The article must be manufactured in the United States; and

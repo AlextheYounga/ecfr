@@ -1,5 +1,7 @@
 ##### 52.225-9 Buy American - Construction Materials. #####
 
+Link to an amendment published at 87 FR 12797, Mar. 7, 2022.
+
 As prescribed in 25.1102(a), insert the following clause:
 
 Buy American - Construction Materials (NOV 2021)
@@ -54,7 +56,7 @@ Buy American - Construction Materials (NOV 2021)
 
 (2) This requirement does not apply to information technology that is a commercial product or to the construction materials or components listed by the Government as follows:
 
-\_\_\_\_ *[Contracting Officer to list applicable excepted materials or indicate “none”]*
+\_\_\_\_\_\_\_\_ *[Contracting Officer to list applicable excepted materials or indicate “none”]*
 
 (3) The Contracting Officer may add other foreign construction material to the list in paragraph (b)(2) of this clause if the Government determines that -
 

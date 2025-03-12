@@ -1,5 +1,7 @@
 ##### 52.225-4 Buy American - Free Trade Agreements - Israeli Trade Act Certificate. #####
 
+Link to an amendment published at 87 FR 12797, Mar. 7, 2022.
+
 As prescribed in 25.1101(b)(2)(i), insert the following provision:
 
 Buy American - Free Trade Agreements - Israeli Trade Act Certificate (FEB 2021)

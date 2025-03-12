@@ -1,0 +1,9 @@
+##### § 1989.102 Obligations and prohibited acts. #####
+
+(a) No employer or any officer, employee, contractor, subcontractor, or agent of such employer may discharge, demote, suspend, threaten, harass, or in any other manner retaliate against, including, but not limited to, intimidating, restraining, coercing, blacklisting, or disciplining, an employee in the terms and conditions of employment in reprisal for the employee having engaged in any of the activities specified in paragraphs (b)(1) and (2) of this section.
+
+(b) An employee is protected against retaliation (as described in paragraph (a) of this section) by an employer or any officer, employee, contractor, subcontractor, or agent of such employer in reprisal for any lawful act done by the employee:
+
+(1) To provide information, cause information to be provided, or otherwise assist in an investigation regarding underpayment of tax or any conduct which the employee reasonably believes constitutes a violation of the internal revenue laws or any provision of Federal law relating to tax fraud, when the information or assistance is provided to the Internal Revenue Service, the Secretary of the Treasury, the Treasury Inspector General for Tax Administration, the Comptroller General of the United States, the Department of Justice, the United States Congress, a person with supervisory authority over the employee, or any other person working for the employer who has the authority to investigate, discover, or terminate misconduct; or
+
+(2) To testify, participate in, or otherwise assist in any administrative or judicial action taken by the Internal Revenue Service relating to an alleged underpayment of tax or any violation of the internal revenue laws or any provision of Federal law relating to tax fraud.

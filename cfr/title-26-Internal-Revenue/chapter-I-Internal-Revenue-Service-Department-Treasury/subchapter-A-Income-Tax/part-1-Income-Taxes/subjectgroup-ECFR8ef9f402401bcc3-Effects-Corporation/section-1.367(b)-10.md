@@ -1,10 +1,8 @@
 ##### § 1.367(b)-10 Acquisition of parent stock or securities for property in triangular reorganizations. #####
 
-Link to an amendment published at 87 FR 325, Jan. 4, 2022.
+(a) *In general*—(1) *Scope.* Except as provided in paragraphs (a)(2)(i) through (iii) of this section, this section applies to a triangular reorganization if P or S (or both) is a foreign corporation and, in connection with the reorganization, S acquires in exchange for property all or a portion of the P stock or P securities (P acquisition) that are used to acquire the stock, securities or property of T in the triangular reorganization. This section applies to a triangular reorganization regardless of whether P controls (within the meaning of section 368(c)) S at the time of the P acquisition.
 
-(a) *In general* - (1) *Scope.* Except as provided in paragraphs (a)(2)(i) through (iii) of this section, this section applies to a triangular reorganization if P or S (or both) is a foreign corporation and, in connection with the reorganization, S acquires in exchange for property all or a portion of the P stock or P securities (P acquisition) that are used to acquire the stock, securities or property of T in the triangular reorganization. This section applies to a triangular reorganization regardless of whether P controls (within the meaning of section 368(c)) S at the time of the P acquisition.
-
-(2) *Exceptions.* This section shall not apply if -
+(2) *Exceptions.* This section shall not apply if—
 
 (i) P and S are foreign corporations and neither P nor S is a controlled foreign corporation (within the meaning of § 1.367(b)-2(a)) immediately before or immediately after the triangular reorganization;
 
@@ -16,7 +14,7 @@ Link to an amendment published at 87 FR 325, Jan. 4, 2022.
 
 (i) The terms *P, S,* and *T* have the meanings set forth in § 1.358-6(b)(1)(i), (ii), and (iii), respectively.
 
-(ii) The term *property* has the meaning set forth in section 317(a), except that the term property also includes -
+(ii) The term *property* has the meaning set forth in section 317(a), except that the term property also includes—
 
 (A) A liability assumed by S to acquire the P stock or securities; and
 
@@ -26,7 +24,7 @@ Link to an amendment published at 87 FR 325, Jan. 4, 2022.
 
 (iv) The term *triangular reorganization* has the meaning set forth in § 1.358-6(b)(2).
 
-(b) *General rules* - (1) *Deemed distribution.* If this section applies, adjustments shall be made that have the effect of a distribution of property (with no built-in gain or loss) from S to P under section 301 (deemed distribution). The amount of the deemed distribution shall equal the sum of the amount of money transferred by S, the amount of any liabilities that are assumed by S and constitute property, and the fair market value of other property transferred by S in the P acquisition in exchange for the P stock or P securities described in paragraph (i) or (ii), respectively, of this paragraph (b)(1) -
+(b) *General rules*—(1) *Deemed distribution.* If this section applies, adjustments shall be made that have the effect of a distribution of property (with no built-in gain or loss) from S to P under section 301 (deemed distribution). The amount of the deemed distribution shall equal the sum of the amount of money transferred by S, the amount of any liabilities that are assumed by S and constitute property, and the fair market value of other property transferred by S in the P acquisition in exchange for the P stock or P securities described in paragraph (i) or (ii), respectively, of this paragraph (b)(1)—
 
 (i) P stock received by T shareholders or securityholders in an exchange to which section 354 or 356 applies.
 
@@ -46,12 +44,12 @@ Link to an amendment published at 87 FR 325, Jan. 4, 2022.
 
 (c) *Collateral adjustments.* This paragraph (c) provides additional rules that apply by reason of the deemed distribution and deemed contribution described in paragraphs (b)(1) and (b)(2), respectively, of this section.
 
-(1) *Deemed distribution.* A deemed distribution described in paragraph (b)(1) of this section shall be treated as occurring for all purposes of the Internal Revenue Code. Thus, for example, the ordering rules of section 301(c) apply to characterize the deemed distribution to P as a dividend from the earnings and profits of S, return of stock basis, or gain from the sale or exchange of property, as the case may be. Furthermore, sections 902 or 959 may apply to the deemed distribution if S is a foreign corporation, and sections 881, 882, 897, 1442, or 1445 may apply to the deemed distribution if S is a domestic corporation. Appropriate corresponding adjustments shall be made to S's earnings and profits consistent with the principles of section 312.
+(1) *Deemed distribution.* A deemed distribution described in paragraph (b)(1) of this section shall be treated as occurring for all purposes of the Internal Revenue Code. Thus, for example, the ordering rules of section 301(c) apply to characterize the deemed distribution to P as a dividend from the earnings and profits of S, return of stock basis, or gain from the sale or exchange of property, as the case may be. Furthermore, section 959 may apply to the deemed distribution if S is a foreign corporation, and sections 881, 882, 897, 1442, or 1445 may apply to the deemed distribution if S is a domestic corporation. Appropriate corresponding adjustments shall be made to S's earnings and profits consistent with the principles of section 312.
 
 (2) *Deemed contribution.* A deemed contribution described in paragraph (b)(2) of this section shall be treated as occurring for all purposes of the Internal Revenue Code. Thus, for example, appropriate adjustments shall be made to P's basis in the S stock.
 
 (d) *Anti-abuse rule.* Appropriate adjustments shall be made pursuant to this section if, in connection with a triangular reorganization, a transaction is engaged in with a view to avoid the purpose of this section. For example, if S is created, organized, or funded to avoid the application of this section with respect to the earnings and profits of a corporation related (within the meaning of section 267(b)) to P or S, the earnings and profits of S will be deemed to include the earnings and profits of such related corporation for purposes of determining the consequences of the adjustments provided in this section, and appropriate corresponding adjustments will be made to account for the application of this section to the earnings and profits of such related corporation.
 
-(e) *Effective/applicability date.* This section applies to triangular reorganizations occurring on or after May 17, 2011. For triangular reorganizations that occur prior to May 17, 2011, see § 1.367(b)-14T as contained in 26 CFR part 1 revised as of April 1, 2011.
+(e) *Applicability dates.* This section applies to triangular reorganizations occurring on or after May 17, 2011. For triangular reorganizations that occur prior to May 17, 2011, see § 1.367(b)-14T as contained in 26 CFR part 1 revised as of April 1, 2011. Paragraph (c)(1) of this section applies to deemed distributions that occur in taxable years ending on or after November 2, 2020.
 
-[T.D. 9526, 76 FR 28893, May 19, 2011]
+[T.D. 9526, 76 FR 28893, May 19, 2011, as amended by T.D. 9959, 87 FR 325, Jan. 4, 2022]

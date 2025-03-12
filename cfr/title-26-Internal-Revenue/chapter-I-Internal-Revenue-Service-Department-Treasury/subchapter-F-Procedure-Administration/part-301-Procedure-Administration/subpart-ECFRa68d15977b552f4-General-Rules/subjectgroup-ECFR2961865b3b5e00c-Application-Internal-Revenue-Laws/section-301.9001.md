@@ -2,7 +2,7 @@
 
 Section 302 of the Outer Continental Shelf Lands Act Amendments of 1978 (92 Stat. 629) provides as follows:
 
-Sec. 302. (a) There is hereby established in the Treasury of the United States an Offshore Oil Pollution Compensation Fund in an amount not to exceed $200,000,000, except that such limitation shall be increased to the extent necessary to permit any moneys recovered or collected which are referred to in subsection (b)(2) of this section to be paid into the Fund. The Fund shall be administered by the Secretary1 and the Secretary of the Treasury as specified in this title. The Fund may sue and be sued in its own name.
+Sec. 302. (a) There is hereby established in the Treasury of the United States an Offshore Oil Pollution Compensation Fund in an amount not to exceed $200,000,000, except that such limitation shall be increased to the extent necessary to permit any moneys recovered or collected which are referred to in subsection (b)(2) of this section to be paid into the Fund. The Fund shall be administered by the Secretary1/\> and the Secretary of the Treasury as specified in this title. The Fund may sue and be sued in its own name.
 
 1 “Secretary” wherever used in this section means the Secretary of Transportation.
 

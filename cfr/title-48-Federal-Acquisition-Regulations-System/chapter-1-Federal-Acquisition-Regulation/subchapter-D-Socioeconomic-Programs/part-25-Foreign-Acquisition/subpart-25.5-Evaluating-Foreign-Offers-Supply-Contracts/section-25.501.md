@@ -1,5 +1,7 @@
 ##### 25.501 General. #####
 
+Link to an amendment published at 87 FR 12792, Mar. 7, 2022.
+
 The contracting officer -
 
 (a) Must apply the evaluation procedures of this subpart to each line item of an offer unless either the offer or the solicitation specifies evaluation on a group basis (see 25.503);

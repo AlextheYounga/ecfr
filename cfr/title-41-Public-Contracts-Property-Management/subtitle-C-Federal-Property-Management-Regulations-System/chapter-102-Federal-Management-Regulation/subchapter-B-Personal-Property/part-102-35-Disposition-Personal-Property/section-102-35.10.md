@@ -1,7 +1,5 @@
 ##### § 102-35.10 How are these regulations for the disposal of personal property organized? #####
 
-Link to an amendment published at 87 FR 6043, Feb. 3, 2022.
-
 The General Services Administration (GSA) has divided its regulations for the disposal of personal property into the following program areas:
 
 (a) Disposition of excess personal property (part 102-36 of this subchapter B).
@@ -12,8 +10,10 @@ The General Services Administration (GSA) has divided its regulations for the di
 
 (d) Replacement of personal property pursuant to the exchange/sale authority (part 102-39 of this subchapter B).
 
-(e) Disposition of seized and forfeited, voluntarily abandoned, and unclaimed personal property (part 102-41 of this subchapter B).
+(e) Utilization and disposition of personal property with special handling requirements (part 102-40 of this subchapter B).
 
-(f) Utilization, donation, and disposal of foreign gifts and decorations (part 102-42 of this subchapter B).
+(f) Disposition of seized, forfeited, voluntarily abandoned, and unclaimed personal property (part 102-41 of this subchapter B).
 
-(g) Utilization and disposal of hazardous materials and certain categories of property (part 101-42 of the Federal Property Management Regulations (FPMR), 41 CFR part 101-42).
+(g) Utilization, donation, and disposal of foreign gifts and decorations (part 102-42 of this subchapter B).
+
+[72 FR 10085, Mar. 7, 2007, as amended at 87 FR 6043, Feb. 3, 2022]

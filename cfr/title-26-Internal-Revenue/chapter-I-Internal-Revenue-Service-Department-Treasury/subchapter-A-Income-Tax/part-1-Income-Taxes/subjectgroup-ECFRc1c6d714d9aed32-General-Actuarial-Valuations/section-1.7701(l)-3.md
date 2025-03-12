@@ -1,22 +1,20 @@
 ##### § 1.7701(l)-3 Recharacterizing financing arrangements involving fast-pay stock. #####
 
-Link to an amendment published at 87 FR 182, Jan. 4, 2022.
-
 (a) *Purpose and scope.* This section is intended to prevent the avoidance of tax by persons participating in fast-pay arrangements (as defined in paragraph (b)(1) of this section) and should be interpreted in a manner consistent with this purpose. This section applies to all fast-pay arrangements. Paragraph (c) of this section recharacterizes certain fast-pay arrangements to ensure the participants are taxed in a manner reflecting the economic substance of the arrangements. Paragraph (f) of this section imposes reporting requirements on certain participants.
 
-(b) *Definitions* - (1) *Fast-pay arrangement.* A fast-pay arrangement is any arrangement in which a corporation has fast-pay stock outstanding for any part of its taxable year.
+(b) *Definitions*—(1) *Fast-pay arrangement.* A fast-pay arrangement is any arrangement in which a corporation has fast-pay stock outstanding for any part of its taxable year.
 
-(2) *Fast-pay stock* - (i) *Defined.* Stock is fast-pay stock if it is structured so that dividends (as defined in section 316) paid by the corporation with respect to the stock are economically (in whole or in part) a return of the holder's investment (as opposed to only a return on the holder's investment). Unless clearly demonstrated otherwise, stock is presumed to be fast-pay stock if -
+(2) *Fast-pay stock*—(i) *Defined.* Stock is fast-pay stock if it is structured so that dividends (as defined in section 316) paid by the corporation with respect to the stock are economically (in whole or in part) a return of the holder's investment (as opposed to only a return on the holder's investment). Unless clearly demonstrated otherwise, stock is presumed to be fast-pay stock if—
 
 (A) It is structured to have a dividend rate that is reasonably expected to decline (as opposed to a dividend rate that is reasonably expected to fluctuate or remain constant); or
 
 (B) It is issued for an amount that exceeds (by more than a de minimis amount, as determined under the principles of § 1.1273-1(d)) the amount at which the holder can be compelled to dispose of the stock.
 
-(ii) *Determination.* The determination of whether stock is fast-pay stock is based on all the facts and circumstances, including any related agreements such as options or forward contracts. A related agreement includes any direct or indirect agreement or understanding, oral or written, between the holder of the stock and the issuing corporation, or between the holder of the stock and one or more other shareholders in the corporation. To determine if it is fast-pay stock, stock is examined when issued, and, for stock that is not fast-pay stock when issued, when there is a significant modification in the terms of the stock or the related agreements or a significant change in the relevant facts and circumstances. Stock is not fast-pay stock solely because a redemption is treated as a dividend as a result of section 302(d) unless there is a principal purpose of achieving the same economic and tax effect as a fast-pay arrangement.
+(ii) *Determination.* The determination of whether stock is fast-pay stock is based on all the facts and circumstances, including any related agreements such as options or forward contracts. A related agreement includes any direct or indirect agreement or understanding, oral or written, between the holder of the stock and the issuing corporation, or between the holder of the stock and one or more other shareholders in the corporation. To determine if it is fast-pay stock, stock is examined when issued, and, for stock that is not fast-pay stock when issued, when there is a significant modification in the terms of the stock or the related agreements or a significant change in the relevant facts and circumstances. Stock is not fast-pay stock solely because a redemption is treated as a dividend as a result of section 302(d) unless there is a principal purpose of achieving the same economic and tax effect as a fast-pay arrangement. See § 1.1001-6(e) for additional rules that may apply to stock that provides for a rate referencing a discontinued IBOR, as defined in § 1.1001-6(h)(4).
 
 (3) *Benefited stock.* With respect to any fast-pay stock, all other stock in the corporation (including other fast-pay stock having any significantly different characteristics) is benefited stock.
 
-(c) *Recharacterization of certain fast-pay arrangements* - (1) *Scope.* This paragraph (c) applies to any fast-pay arrangement -
+(c) *Recharacterization of certain fast-pay arrangements*—(1) *Scope.* This paragraph (c) applies to any fast-pay arrangement—
 
 (i) In which the corporation that has outstanding fast-pay stock is a regulated investment company (RIC) (as defined in section 851) or a real estate investment trust (REIT) (as defined in section 856); or
 
@@ -30,11 +28,11 @@ Link to an amendment published at 87 FR 182, Jan. 4, 2022.
 
 (iii) *Relationship between fast-pay shareholders and corporation.* For purposes of determining the relationship between the fast-pay shareholders and the corporation, the fast-pay stock is ignored. The corporation is the paying agent of the benefited shareholders with respect to the financing instruments.
 
-(3) *Other rules* - (i) *Character of the financing instruments.* The character of a financing instrument (for example, stock or debt) is determined under general tax principles and depends on all the facts and circumstances.
+(3) *Other rules*—(i) *Character of the financing instruments.* The character of a financing instrument (for example, stock or debt) is determined under general tax principles and depends on all the facts and circumstances.
 
 (ii) *Multiple types of benefited stock.* If any benefited stock has any significantly different characteristics from any other benefited stock, the recharacterization rules of this paragraph (c) apply among the different types of benefited stock as appropriate to match the economic substance of the fast-pay arrangement.
 
-(iii) Transactions affecting benefited stock - (A) Sale of benefited stock. If one person sells benefited stock to another -
+(iii) Transactions affecting benefited stock—(A) Sale of benefited stock. If one person sells benefited stock to another—
 
 (*1*) In addition to any consideration actually paid and received for the benefited stock, the buyer is deemed to pay and the seller is deemed to receive the amount necessary to terminate the seller's position in the financing instruments at fair market value; and
 
@@ -42,7 +40,7 @@ Link to an amendment published at 87 FR 182, Jan. 4, 2022.
 
 (B) *Transactions other than sales.* Except for transactions subject to paragraph (c)(3)(iii)(A) of this section, in the case of any transaction affecting benefited stock, the parties to the transaction must make appropriate adjustments to properly take into account the fast-pay arrangement as characterized under paragraph (c)(2) of this section.
 
-(iv) *Adjustment to basis for amounts accrued or paid in taxable years ending before February 27, 1997.* In the case of a fast-pay arrangement involving amounts accrued or paid in taxable years ending before February 27, 1997, and recharacterized under this paragraph (c), a benefited shareholder must decrease its basis in any benefited stock (as determined under paragraph (c)(2)(ii) of this section) by the amount (if any) that -
+(iv) *Adjustment to basis for amounts accrued or paid in taxable years ending before February 27, 1997.* In the case of a fast-pay arrangement involving amounts accrued or paid in taxable years ending before February 27, 1997, and recharacterized under this paragraph (c), a benefited shareholder must decrease its basis in any benefited stock (as determined under paragraph (c)(2)(ii) of this section) by the amount (if any) that—
 
 (A) Its income attributable to the benefited stock (reduced by deductions attributable to the financing instruments) for taxable years ending before February 27, 1997, computed by recharacterizing the fast-pay arrangement under this paragraph (c) and by treating the financing instruments as debt; exceeds
 
@@ -88,7 +86,7 @@ Example 6. Fast-pay arrangement involving amounts accrued or paid in a taxable y
 
 (ii) *Analysis.* Under paragraph (c)(3)(iv) of this section, Y's basis in the benefited stock is reduced by $600. This is the amount by which Y's 1996 income from the fast-pay arrangement as recharacterized under this section ($1,200 of income attributable to the benefited stock less $500 of deductions attributable to the financing instruments), exceeds Y's 1996 income from the fast-pay arrangement as not recharacterized under this section ($100 of income attributable to the benefited stock). Thus, in 1997 when the fast-pay arrangement is recharacterized, Y's basis in the benefited stock is $24,400.
 
-(f) *Reporting requirement* - (1) *Filing requirements* - (i) *In general.* A corporation that has fast-pay stock outstanding at any time during the taxable year must attach the statement described in paragraph (f)(2) of this section to its federal income tax return for such taxable year. This paragraph (f)(1)(i) does not apply to a corporation described in paragraphs (f)(1)(ii), (iii), or (iv) of this section.
+(f) *Reporting requirement*—(1) *Filing requirements*—(i) *In general.* A corporation that has fast-pay stock outstanding at any time during the taxable year must attach the statement described in paragraph (f)(2) of this section to its federal income tax return for such taxable year. This paragraph (f)(1)(i) does not apply to a corporation described in paragraphs (f)(1)(ii), (iii), or (iv) of this section.
 
 (ii) *Controlled foreign corporation.* In the case of a controlled foreign corporation (CFC), as defined in section 957, that has fast-pay stock outstanding at any time during its taxable year (during which time it was a CFC), each controlling United States shareholder (within the meaning of § 1.964-1(c)(5)) must attach the statement described in paragraph (f)(2) of this section to the shareholder's Form 5471 for the CFC's taxable year. The provisions of section 6038 and the regulations under section 6038 apply to any statement required by this paragraph (f)(1)(ii).
 
@@ -98,9 +96,9 @@ Example 6. Fast-pay arrangement involving amounts accrued or paid in a taxable y
 
 (2) *Statement.* The statement required under this paragraph (f) must say, “This fast-pay stock disclosure statement is required by § 1.7701(l)-3(f) of the income tax regulations.” The statement must also identify the corporation that has outstanding fast-pay stock and must contain the date on which the fast-pay stock was issued, the terms of the fast-pay stock, and (to the extent the filing person knows or has reason to know such information) the names and taxpayer identification numbers of the shareholders of any stock that is not traded on an established securities market (as described in § 1.7704-1(b)).
 
-(g) *Effective date* - (1) *In general.* Except as provided in paragraph (g)(4) of this section (relating to reporting requirements), this section applies to taxable years ending after February 26, 1997. Thus, all amounts accrued or paid during the first taxable year ending after February 26, 1997, are subject to this section.
+(g) *Effective date*—(1) *In general.* Except as provided in paragraph (g)(4) of this section (relating to reporting requirements), this section applies to taxable years ending after February 26, 1997. Thus, all amounts accrued or paid during the first taxable year ending after February 26, 1997, are subject to this section.
 
-(2) *Election to limit taxable income attributable to a recharacterized fast-pay arrangement for periods before April 1, 2000* - (i) *Limit.* For periods before April 1, 2000, provided the shareholder recharacterizes the fast-pay arrangement consistently for all such periods, a shareholder may limit its taxable income attributable to a fast-pay arrangement recharacterized under paragraph (c) of this section to the taxable income that results if the fast-pay arrangement is recharacterized under either -
+(2) *Election to limit taxable income attributable to a recharacterized fast-pay arrangement for periods before April 1, 2000*—(i) *Limit.* For periods before April 1, 2000, provided the shareholder recharacterizes the fast-pay arrangement consistently for all such periods, a shareholder may limit its taxable income attributable to a fast-pay arrangement recharacterized under paragraph (c) of this section to the taxable income that results if the fast-pay arrangement is recharacterized under either—
 
 (A) Notice 97-21, 1997-1 C.B. 407, see § 601.601(d)(2) of this chapter; or
 
@@ -116,11 +114,11 @@ Example 1. Fast-pay arrangement recharacterized under Notice 97-21; REIT holds t
 
 (C) On the day Y is formed, it acquires a five-year mortgage note (the note) issued by an unrelated third party for $200,000. The note provides for annual interest payments on December 31 of $18,000 (a coupon interest rate of 9.00 percent, compounded annually), and one payment of principal at the end of 5 years. The note can be prepaid, in whole or in part, at any time.
 
-(ii) *Recharacterization under Notice 97-21* - (A) *In general.* One way to recharacterize the fast-pay arrangement under Notice 97-21 is to treat the fast-pay shareholders and the benefited shareholders as if they jointly purchased the note from the issuer with the understanding that over the five-year term of the note the benefited shareholders would use their share of the interest to buy (on a dollar-for-dollar basis) the fast-pay shareholders' portion of the note. The benefited shareholders' and the fast-pay shareholders' yearly taxable income under Notice 97-21 can then be calculated after determining their initial portions of the note and whether those initial portions are purchased at a discount or premium.
+(ii) *Recharacterization under Notice 97-21*—(A) *In general.* One way to recharacterize the fast-pay arrangement under Notice 97-21 is to treat the fast-pay shareholders and the benefited shareholders as if they jointly purchased the note from the issuer with the understanding that over the five-year term of the note the benefited shareholders would use their share of the interest to buy (on a dollar-for-dollar basis) the fast-pay shareholders' portion of the note. The benefited shareholders' and the fast-pay shareholders' yearly taxable income under Notice 97-21 can then be calculated after determining their initial portions of the note and whether those initial portions are purchased at a discount or premium.
 
 (B) *Determining initial portions of the debt instrument.* The fast-pay shareholders' and the benefited shareholders' initial portions of the note can be determined by comparing the present values of their expected cash flows. As a group, the fast-pay shareholders expect to receive cash flows of $135,000 (five annual payments of $17,000, plus a final payment of $50,000). As a group, the benefited shareholders expect to receive cash flows of $155,000 (five annual payments of $1,000, plus a final payment of $150,000). Using a discount rate equal to the yield to maturity (as determined under § 1.1272-1(b)(1)(i)) of the mortgage note (9.00 percent, compounded annually), the present value of the fast-pay shareholders' cash flows is $98,620, and the present value of the benefited shareholders' cash flows is $101,380. Thus, the fast-pay shareholders initially acquire 49 percent of the note at a $1,380 premium (that is, they paid $100,000 for $98,620 of principal in the note). The benefited shareholders initially acquire 51 percent of the note at a $1,380 discount (that is, they paid $100,000 for $101,380 of principal in the note). Under section 171, the fast-pay shareholders' premium is amortizable based on their yield in their initial portion of the note (8.574 percent, compounded annually). The benefited shareholders' discount accrues based on the yield in their initial portion of the note (9.353 percent, compounded annually).
 
-(C) *Taxable income under Notice 97-21* - (*1*) *Fast-pay shareholders.* Under Notice 97-21, the fast-pay shareholders compute their taxable income attributable to the fast-pay arrangement for periods before January 1, 2000, by subtracting the amortizable premium from the accrued interest on the fast-pay shareholders' portion of the note. For purposes of paragraph (g)(2)(i)(A) of this section, the fast-pay shareholders' taxable income as a group is as follows:
+(C) *Taxable income under Notice 97-21*—(*1*) *Fast-pay shareholders.* Under Notice 97-21, the fast-pay shareholders compute their taxable income attributable to the fast-pay arrangement for periods before January 1, 2000, by subtracting the amortizable premium from the accrued interest on the fast-pay shareholders' portion of the note. For purposes of paragraph (g)(2)(i)(A) of this section, the fast-pay shareholders' taxable income as a group is as follows:
 
 |Taxable period |Interest  <br/>income|Amortizable premium|Taxable  <br/>income|
 |---------------|---------------------|-------------------|--------------------|
@@ -138,7 +136,7 @@ Example 1. Fast-pay arrangement recharacterized under Notice 97-21; REIT holds t
 |1/1/99-12/31/99|       10,652        |         274          |       10,926       |
 |     Total     |       29,631        |         754          |       30,385       |
 
-(iii) *Taxable income under the recharacterization of this section* - (A) *Fast-pay shareholders.* Under paragraphs (c) and (g)(2)(i)(B) of this section, the fast-pay shareholders' taxable income attributable to the fast-pay arrangement for periods before January 1, 2000, is the interest deemed paid on the financing instruments. For purposes of paragraph (g)(2)(i)(B) of this section, the fast-pay shareholders' taxable income as a group is as follows:
+(iii) *Taxable income under the recharacterization of this section*—(A) *Fast-pay shareholders.* Under paragraphs (c) and (g)(2)(i)(B) of this section, the fast-pay shareholders' taxable income attributable to the fast-pay arrangement for periods before January 1, 2000, is the interest deemed paid on the financing instruments. For purposes of paragraph (g)(2)(i)(B) of this section, the fast-pay shareholders' taxable income as a group is as follows:
 
 |Taxable period |Taxable income|
 |---------------|--------------|
@@ -156,7 +154,7 @@ Example 1. Fast-pay arrangement recharacterized under Notice 97-21; REIT holds t
 |1/1/99-12/31/99|             18,000              |                  (7,067)                   |       10,933       |
 |     Total     |             54,000              |                  (23,493)                  |       30,507       |
 
-(iv) *Limit on taxable income under paragraph (g)(2)(i) of this section* - (A) *Fast-pay shareholders.* For periods before January 1, 2000, the fast-pay shareholders have the same taxable income under the recharacterization of Notice 97-21 and paragraph (g)(2)(i)(A) of this section ($23,493) as they have under the recharacterization of paragraphs (c) and (g)(2)(i)(B) of this section ($23,493). Thus, under paragraph (g)(2)(i) of this section, the fast-pay shareholders may limit their taxable income attributable to the fast-pay arrangement for periods before January 1, 2000, to $23,493 (as a group).
+(iv) *Limit on taxable income under paragraph (g)(2)(i) of this section*—(A) *Fast-pay shareholders.* For periods before January 1, 2000, the fast-pay shareholders have the same taxable income under the recharacterization of Notice 97-21 and paragraph (g)(2)(i)(A) of this section ($23,493) as they have under the recharacterization of paragraphs (c) and (g)(2)(i)(B) of this section ($23,493). Thus, under paragraph (g)(2)(i) of this section, the fast-pay shareholders may limit their taxable income attributable to the fast-pay arrangement for periods before January 1, 2000, to $23,493 (as a group).
 
 (B) *Benefited shareholders.* For periods before January 1, 2000, the benefited shareholders have taxable income attributable to the fast-pay arrangement of $30,385 under the recharacterization of Notice 97-21 and paragraph (g)(2)(i)(A) of this section, and taxable income of $30,507 under the recharacterization of paragraphs (c) and (g)(2)(i)(B) of this section. Thus, under paragraph (g)(2)(i) of this section, the benefited shareholders may limit their taxable income attributable to the fast-pay arrangement for periods before January 1, 2000, to either $30,385 (as a group) or $30,507 (as a group).
 
@@ -194,4 +192,4 @@ Example 2. REIT holds debt issued by a benefited shareholder.(i) *Facts.* The fa
 
 (4) *Reporting requirements.* The reporting requirements of paragraph (f) of this section apply to taxable years (of the person required to file the statement) ending after January 10, 2000.
 
-[T.D. 8853, 65 FR 1313, Jan. 10, 2000; 65 FR 16317, Mar. 28, 2000]
+[T.D. 8853, 65 FR 1313, Jan. 10, 2000; 65 FR 16317, Mar. 28, 2000; T.D. 9961, 87 FR 182, Jan. 4, 2022]

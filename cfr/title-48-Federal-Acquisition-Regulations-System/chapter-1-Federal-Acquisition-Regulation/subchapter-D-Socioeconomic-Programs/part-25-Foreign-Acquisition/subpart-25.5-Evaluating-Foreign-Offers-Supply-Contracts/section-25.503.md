@@ -1,5 +1,7 @@
 ##### 25.503 Group offers. #####
 
+Link to an amendment published at 87 FR 12793, Mar. 7, 2022.
+
 (a) If the solicitation or an offer specifies that award can be made only on a group of line items or on all line items contained in the solicitation or offer, reject the offer -
 
 (1) If any part of the award would consist of prohibited end products (see Subpart 25.7); or

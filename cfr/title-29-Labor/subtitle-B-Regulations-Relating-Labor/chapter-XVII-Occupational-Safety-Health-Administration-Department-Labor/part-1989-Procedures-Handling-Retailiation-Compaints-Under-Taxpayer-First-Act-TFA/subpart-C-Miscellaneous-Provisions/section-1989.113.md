@@ -1,0 +1,3 @@
+##### § 1989.113 Judicial enforcement. #####
+
+Whenever any person has failed to comply with a preliminary order of reinstatement or a final order issued under TFA, including one approving a settlement agreement, the Secretary may file a civil action seeking enforcement of the order in the United States district court for the district in which the violation was found to have occurred. Whenever any person has failed to comply with a preliminary order of reinstatement or a final order issued under TFA, including one approving a settlement agreement, a person on whose behalf the order was issued may file a civil action seeking enforcement of the order in the appropriate United States district court.

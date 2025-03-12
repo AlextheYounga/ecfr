@@ -1,5 +1,7 @@
 ##### § 401.75 Payment of tolls. #####
 
+Link to an amendment published at 87 FR 12591, Mar. 7, 2022.
+
 (a) Every toll invoice shall be paid in Canadian funds within forty-five days after the vessel enters the Seaway, and any adjustment of the amount payable shall be provided for in a subsequent invoice.
 
 (b) Tolls established by agreement between Canada and the United States, and known as the *St. Lawrence Seaway Schedule of Tolls,* shall be paid by pleasure crafts with prepaid tickets purchased in Canadian funds using credit card ticket dispensers located at pleasure craft docks or Paypal on the Seaway Web site. At U.S. locks, the toll is paid in U.S. funds or the pre-established equivalent in Canadian funds or through payment via Pay.gov on the Seaway Web site.

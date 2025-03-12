@@ -1,5 +1,7 @@
 ##### § 401.10 Mooring lines. #####
 
+Link to an amendment published at 87 FR 12591, Mar. 7, 2022.
+
 (a) Mooring lines shall:
 
 (1) Be of a uniform thickness throughout their length;

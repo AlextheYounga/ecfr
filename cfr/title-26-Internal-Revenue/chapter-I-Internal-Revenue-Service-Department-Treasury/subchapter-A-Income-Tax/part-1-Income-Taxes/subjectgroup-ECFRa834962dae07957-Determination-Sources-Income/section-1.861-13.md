@@ -1,7 +1,5 @@
 ##### § 1.861-13 Special rules for characterization of controlled foreign corporation stock. #####
 
-Link to an amendment published at 87 FR 326, Jan. 4, 2022.
-
 (a) *Methodology.* For purposes of allocating and apportioning deductions for purposes of section 904 as the operative section, stock in a controlled foreign corporation owned directly or indirectly through a partnership or other pass-through entity by a United States shareholder is characterized by the United States shareholder under the rules described in this section. In general, paragraphs (a)(1) through (5) of this section characterize the stock of the controlled foreign corporation as an asset in the various statutory groupings and residual grouping based on the type of income that the stock of the controlled foreign corporation generates, has generated, or may reasonably be expected to generate when the income is included by the United States shareholder.
 
 (1) *Step 1: Characterize stock as generating income in statutory groupings under the asset or modified gross income method* - (i) *Asset method.* A United States shareholder of a controlled foreign corporation that apportions its interest expense on the basis of assets must characterize stock of the controlled foreign corporation using the asset method described in § 1.861-12T(c)(3)(ii) to assign the assets of the controlled foreign corporation to the statutory groupings described in paragraphs (a)(1)(i)(A)(*1*) through (*10*) and (a)(1)(i)(B) of this section. If the controlled foreign corporation owns stock in a lower-tier noncontrolled 10-percent owned foreign corporation, the assets of the lower-tier noncontrolled 10-percent owned foreign corporation are assigned to a gross subpart F income grouping to the extent such assets generate income that, if distributed to the controlled foreign corporation, would be gross subpart F income of the controlled foreign corporation. *See also* § 1.861-12(c)(4).
@@ -164,4 +162,4 @@ Link to an amendment published at 87 FR 326, Jan. 4, 2022.
 
 (d) *Applicability dates.* This section applies for taxable years that both begin after December 31, 2017, and end on or after December 4, 2018.
 
-[T.D. 9882, 84 FR 69070, Dec. 17, 2019]
+[T.D. 9882, 84 FR 69070, Dec. 17, 2019]Editorial Note:By T.D. 9959, 87 FR 326, Jan. 4, 2022, § 1.861-13 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

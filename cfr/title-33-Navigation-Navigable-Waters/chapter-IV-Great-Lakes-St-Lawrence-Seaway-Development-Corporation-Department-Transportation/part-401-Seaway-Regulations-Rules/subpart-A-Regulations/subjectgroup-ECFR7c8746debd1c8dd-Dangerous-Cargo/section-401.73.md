@@ -1,5 +1,7 @@
 ##### § 401.73 Cleaning tanks - hazardous cargo vessels. #####
 
+Link to an amendment published at 87 FR 12591, Mar. 7, 2022.
+
 (a) Cleaning and gas freeing of tanks shall not take place:
 
 (1) In a canal or a lock;

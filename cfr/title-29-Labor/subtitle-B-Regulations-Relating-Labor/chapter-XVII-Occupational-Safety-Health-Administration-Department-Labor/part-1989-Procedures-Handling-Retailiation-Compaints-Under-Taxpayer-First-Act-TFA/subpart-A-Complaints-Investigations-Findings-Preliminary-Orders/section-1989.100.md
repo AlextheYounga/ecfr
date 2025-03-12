@@ -1,0 +1,5 @@
+##### § 1989.100 Purpose and scope. #####
+
+(a) This part sets forth procedures for, and interpretations of, section 1405(b) of the Taxpayer First Act (TFA), Public Law 116-25, 133 Stat. 981 (July 1, 2019) (codified at 26 U.S.C. 7623(d)). TFA provides for employee protection from retaliation because the employee has engaged in protected activity pertaining to underpayment of tax or any conduct which the employee reasonably believes constitutes a violation of the internal revenue laws or any provision of Federal law relating to tax fraud.
+
+(b) This part establishes procedures under TFA for the expeditious handling of retaliation complaints filed by employees, or by persons acting on their behalf. These rules, together with those codified at 29 CFR part 18, set forth the procedures under TFA for submission of complaints, investigations, issuance of findings and preliminary orders, objections to findings and orders, litigation before administrative law judges (ALJs), post-hearing administrative review, and withdrawals and settlements. In addition, these rules provide the Secretary's interpretations on certain statutory issues.

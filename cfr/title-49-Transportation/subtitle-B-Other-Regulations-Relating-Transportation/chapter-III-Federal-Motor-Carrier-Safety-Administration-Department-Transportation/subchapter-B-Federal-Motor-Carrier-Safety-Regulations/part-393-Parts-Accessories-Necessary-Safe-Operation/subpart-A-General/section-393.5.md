@@ -1,5 +1,7 @@
 ##### § 393.5 Definitions. #####
 
+Link to an amendment published at 87 FR 12604, Mar. 7, 2022.
+
 As used in this part, the following words and terms are construed to mean:
 
 *Aggregate working load limit.* The summation of the working load limits or restraining capacity of all devices used to secure an article of cargo on a vehicle.

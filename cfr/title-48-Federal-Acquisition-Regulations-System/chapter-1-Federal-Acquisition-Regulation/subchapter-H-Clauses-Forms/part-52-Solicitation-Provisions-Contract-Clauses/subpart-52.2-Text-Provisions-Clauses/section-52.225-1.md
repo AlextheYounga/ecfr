@@ -1,5 +1,7 @@
 ##### 52.225-1 Buy American - Supplies. #####
 
+Link to an amendment published at 87 FR 12796, Mar. 7, 2022.
+
 As prescribed in 25.1101(a)(1), insert the following clause:
 
 Buy American - Supplies (NOV 2021)

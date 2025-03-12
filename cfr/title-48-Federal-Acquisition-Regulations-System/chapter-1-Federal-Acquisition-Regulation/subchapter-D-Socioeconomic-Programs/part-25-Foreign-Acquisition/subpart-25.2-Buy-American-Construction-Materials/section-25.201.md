@@ -1,5 +1,7 @@
 ##### 25.201 Policy. #####
 
+Link to an amendment published at 87 FR 12792, Mar. 7, 2022.
+
 (a) Except as provided in 25.202, use only domestic construction materials in construction contracts performed in the United States.
 
 (b) The Buy American statute restricts the purchase of construction materials that are not domestic construction materials. For manufactured construction materials, the Buy American statute and E.O. 13881 use a two-part test to define domestic construction materials.

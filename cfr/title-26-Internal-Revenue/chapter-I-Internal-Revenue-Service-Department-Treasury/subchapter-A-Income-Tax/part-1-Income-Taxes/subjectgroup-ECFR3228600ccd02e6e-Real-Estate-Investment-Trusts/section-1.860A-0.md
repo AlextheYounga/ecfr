@@ -1,7 +1,5 @@
 ##### § 1.860A-0 Outline of REMIC provisions. #####
 
-Link to an amendment published at 87 FR 175, Jan. 4, 2022.
-
 This section lists the paragraphs contained in §§ 1.860A-1 through 1.860G-3.
 
 Section 1.860A-1 Effective dates and transition rules.
@@ -31,6 +29,10 @@ Section 1.860A-1 Effective dates and transition rules.
 (iii) Transition obligations.
 
 (5) Accounting for REMIC net income of foreign persons.
+
+(6) Exceptions for certain modified obligations.
+
+(7) Exceptions for certain modifications of obligations that refer to certain interbank offered rates.
 
 § 1.860C-2 Determination of REMIC taxable income or net loss.
 
@@ -380,6 +382,16 @@ Section 1.860A-1 Effective dates and transition rules.
 
 (2) The public.
 
+(e) Transition from certain interbank offered rates.
+
+(1) In general.
+
+(2) Change in reference rate for a regular interest after the startup day.
+
+(3) Contingencies of rate on a regular interest.
+
+(4) Reasonable expenses incurred to make covered modifications.
+
 § 1.860G-2 Other rules.
 
 (a) Obligations principally secured by an interest in real property.
@@ -528,4 +540,4 @@ Section 1.860A-1 Effective dates and transition rules.
 
 (2) Excess inclusion income allocated by certain pass-through entities to a foreign person.
 
-[T.D. 8458, 57 FR 61299, Dec. 24, 1992; 58 FR 15089, Mar. 19, 1993, as amended by T.D. 8614, 60 FR 42787, Aug. 17, 1995; T.D. 9004, 67 FR 47453, July 19, 2002; T.D. 9128, 69 FR 26041, May 11, 2004; T.D. 9272, 71 FR 43365, Aug. 1, 2006; T.D. 9415, 73 FR 40172, July 14, 2008; T.D. 9463, 74 FR 47438, Sept. 16, 2009]
+[T.D. 8458, 57 FR 61299, Dec. 24, 1992; 58 FR 15089, Mar. 19, 1993, as amended by T.D. 8614, 60 FR 42787, Aug. 17, 1995; T.D. 9004, 67 FR 47453, July 19, 2002; T.D. 9128, 69 FR 26041, May 11, 2004; T.D. 9272, 71 FR 43365, Aug. 1, 2006; T.D. 9415, 73 FR 40172, July 14, 2008; T.D. 9463, 74 FR 47438, Sept. 16, 2009; T.D. 9961, 87 FR 175, Jan. 4, 2022]

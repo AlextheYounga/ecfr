@@ -1,7 +1,5 @@
 ##### § 1.1271-0 Original issue discount; effective date; table of contents. #####
 
-Link to an amendment published at 87 FR 182, Jan. 4, 2022.
-
 (a) *Effective date.* Except as otherwise provided, §§ 1.1271-1 through 1.1275-5 apply to debt instruments issued on or after April 4, 1994. Taxpayers, however, may rely on these sections (as contained in 26 CFR part 1 revised April 1, 1996) for debt instruments issued after December 21, 1992, and before April 4, 1994.
 
 (b) *Table of contents.* This section lists captioned paragraphs contained in §§ 1.1271-1 through 1.1275-7.
@@ -522,6 +520,18 @@ Link to an amendment published at 87 FR 182, Jan. 4, 2022.
 
 (2) Applicability dates.
 
+(m) *Transition from certain interbank offered rates.*
+
+(1) In general.
+
+(2) Single qualified floating rate.
+
+(3) Remote contingency.
+
+(4) Change in circumstances.
+
+(5) Applicability date.
+
 § 1.1275-3 OID information reporting requirements.
 
 (a) In general.
@@ -798,4 +808,4 @@ Link to an amendment published at 87 FR 182, Jan. 4, 2022.
 
 (2) TIPS issued with more than a de minimis amount of premium.
 
-[T.D. 8517, 59 FR 4808, Feb. 2, 1994, as amended by T.D. 8674, 61 FR 30139, June 14, 1996; T.D. 8709, 62 FR 617, Jan. 6, 1997; T.D. 8754, 63 FR 1057, Jan. 8, 1998; T.D. 8838, 64 FR 48547, Sept. 7, 1999; T.D. 8840, 64 FR 60343, Nov. 5, 1999; T.D. 8934, 66 FR 2815, Jan. 12, 2001; T.D. 8993, 67 FR 30548, May 7, 2002; T.D. 9599, 77 FR 56536, Sept. 13, 2012; T.D. 9609, 78 FR 668, Jan. 4, 2013; T.D. 9616, 78 FR 23126, Apr. 18, 2013; T.D. 9941, 86 FR 862, Jan. 6, 2021; 86 FR 1256, Jan. 8, 2021; T.D. 9941, 86 FR 2974, Jan. 14, 2021]
+[T.D. 8517, 59 FR 4808, Feb. 2, 1994, as amended by T.D. 8674, 61 FR 30139, June 14, 1996; T.D. 8709, 62 FR 617, Jan. 6, 1997; T.D. 8754, 63 FR 1057, Jan. 8, 1998; T.D. 8838, 64 FR 48547, Sept. 7, 1999; T.D. 8840, 64 FR 60343, Nov. 5, 1999; T.D. 8934, 66 FR 2815, Jan. 12, 2001; T.D. 8993, 67 FR 30548, May 7, 2002; T.D. 9599, 77 FR 56536, Sept. 13, 2012; T.D. 9609, 78 FR 668, Jan. 4, 2013; T.D. 9616, 78 FR 23126, Apr. 18, 2013; T.D. 9941, 86 FR 862, Jan. 6, 2021; 86 FR 1256, Jan. 8, 2021; T.D. 9941, 86 FR 2974, Jan. 14, 2021; T.D. 9961, 87 FR 182, Jan. 4, 2022]
