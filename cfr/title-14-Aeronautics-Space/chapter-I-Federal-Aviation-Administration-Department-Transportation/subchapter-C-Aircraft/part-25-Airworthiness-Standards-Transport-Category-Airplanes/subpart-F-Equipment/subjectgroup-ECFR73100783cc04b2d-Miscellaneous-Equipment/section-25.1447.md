@@ -1,7 +1,5 @@
 ##### § 25.1447 Equipment standards for oxygen dispensing units. #####
 
-Link to an amendment published at 88 FR 39161, June 15, 2023.Link to a correction of the above amendment published at 88 FR 44032, July 11, 2023.
-
 If oxygen dispensing units are installed, the following apply:
 
 (a) There must be an individual dispensing unit for each occupant for whom supplemental oxygen is to be supplied. Units must be designed to cover the nose and mouth and must be equipped with a suitable means to retain the unit in position on the face. Flight crew masks for supplemental oxygen must have provisions for the use of communication equipment.
@@ -10,7 +8,7 @@ If oxygen dispensing units are installed, the following apply:
 
 (c) If certification for operation above 25,000 feet is requested, there must be oxygen dispensing equipment meeting the following requirements:
 
-(1) There must be an oxygen dispensing unit connected to oxygen supply terminals immediately available to each occupant, wherever seated, and at least two oxygen dispensing units connected to oxygen terminals in each lavatory. The total number of dispensing units and outlets in the cabin must exceed the number of seats by at least 10 percent. The extra units must be as uniformly distributed throughout the cabin as practicable. If certification for operation above 30,000 feet is requested, the dispensing units providing the required oxygen flow must be automatically presented to the occupants before the cabin pressure altitude exceeds 15,000 feet. The crew must be provided with a manual means of making the dispensing units immediately available in the event of failure of the automatic system.
+(1) There must be an oxygen dispensing unit connected to oxygen supply terminals immediately available to each occupant wherever seated, and at least two oxygen dispensing units connected to oxygen terminals in each lavatory. The total number of dispensing units and outlets in the cabin must exceed the number of seats by at least 10 percent. The extra units must be as uniformly distributed throughout the cabin as practicable. Except as provided in paragraph (c)(5) of this section, if certification for operation above 30,000 feet is requested, the dispensing units providing the required oxygen flow must be automatically presented to the occupants before the cabin pressure altitude exceeds 15,000 feet. The crewmembers must be provided with a manual means of making the dispensing units immediately available in the event of failure of the automatic system.
 
 (2) Each flight crewmember on flight deck duty must be provided with a quick-donning type oxygen dispensing unit connected to an oxygen supply terminal. This dispensing unit must be immediately available to the flight crewmember when seated at his station, and installed so that it:
 
@@ -26,4 +24,6 @@ If oxygen dispensing units are installed, the following apply:
 
 (4) Portable oxygen equipment must be immediately available for each cabin attendant. The portable oxygen equipment must have the oxygen dispensing unit connected to the portable oxygen supply.
 
-[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-41, 42 FR 36971, July 18, 1977; Amdt. 25-87, 61 FR 28696, June 5, 1996; Amdt. 25-116, 69 FR 62789, Oct. 27, 2004]
+(5) When operating into or out of airports with elevations above 13,000 feet, the dispensing units providing the required oxygen flow must be automatically presented to the occupants at cabin pressure altitudes no higher than 2,000 feet above the airplane's maximum takeoff and landing altitude.
+
+[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-41, 42 FR 36971, July 18, 1977; Amdt. 25-87, 61 FR 28696, June 5, 1996; Amdt. 25-116, 69 FR 62789, Oct. 27, 2004; Amdt. No. 25-151, 88 FR 39161, June 15, 2023; 88 FR 44032, July 11, 2023]

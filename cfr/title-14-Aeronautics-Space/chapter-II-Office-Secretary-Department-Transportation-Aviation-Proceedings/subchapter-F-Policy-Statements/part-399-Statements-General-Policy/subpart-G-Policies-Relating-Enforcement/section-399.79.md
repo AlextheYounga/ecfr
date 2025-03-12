@@ -1,7 +1,5 @@
 ##### § 399.79 Policies relating to unfair and deceptive practices. #####
 
-Link to an amendment published at 88 FR 39353, June 16, 2023.
-
 (a) *Applicability.* This policy shall apply to the Department's aviation consumer protection actions pursuant to 49 U.S.C. 41712(a).
 
 (b) *Definitions.* (1) A practice is “unfair” to consumers if it causes or is likely to cause substantial injury, which is not reasonably avoidable, and the harm is not outweighed by benefits to consumers or competition.
@@ -22,6 +20,8 @@ Link to an amendment published at 88 FR 39353, June 16, 2023.
 
 (2) During this informal process, if the Office of Aviation Consumer Protection reaches agreement with the alleged violator to resolve the matter with the issuance of an order declaring a practice in air transportation or the sale of air transportation to be unfair or deceptive to consumers under the authority of 49 U.S.C. 41712(a), and when a regulation issued under the authority of section 41712 does not apply to the practice at issue, then the Department shall articulate in the order the basis for concluding that the practice is unfair or deceptive to consumers as defined in this section.
 
-(f) *Formal enforcement proceedings.* When there are reasonable grounds to believe that an airline or ticket agent has violated 49 U.S.C. 41712, and efforts to settle the matter have failed, the Office of Aviation Consumer Protection may issue a notice instituting an enforcement proceeding before an administrative law judge pursuant to 14 CFR 302.407. After the issues have been formulated, if the matter has not been resolved through pleadings or otherwise, the parties will receive reasonable written notice of the time and place of the hearing as set forth in 14 CFR 302.415.
+(f) *Formal enforcement proceedings before an administrative law judge.* When there are reasonable grounds to believe that an airline or ticket agent has violated 49 U.S.C. 41712, and efforts to settle the matter have failed, the Office of Aviation Consumer Protection may issue a notice instituting an enforcement proceeding before an administrative law judge pursuant to 14 CFR 302.407. After the issues have been formulated, if the matter has not been resolved through pleadings or otherwise, the parties will receive reasonable written notice of the time and place of the hearing as set forth in 14 CFR 302.415.
 
-[85 FR 78717, Dec. 7, 2020, as amended at 86 FR 17294, Apr. 2, 2021]
+(g) *Formal enforcement proceedings in U.S. District Court.* Alternatively, when there are reasonable grounds to believe that an airline or ticket agent has violated 49 U.S.C. 41712 and efforts to settle the matter have failed, the Department of Transportation may bring a civil action in a district court of the United States pursuant to 49 U.S.C. 46106 or 46107.
+
+[Docket No. DOT-OST-2019-0182, 85 FR 78717, Dec. 7, 2020, as amended at 86 FR 17294, Apr. 2, 2021; Docket No. DOT-OST-2021-0142, 88 FR 39353, June 16, 2023]

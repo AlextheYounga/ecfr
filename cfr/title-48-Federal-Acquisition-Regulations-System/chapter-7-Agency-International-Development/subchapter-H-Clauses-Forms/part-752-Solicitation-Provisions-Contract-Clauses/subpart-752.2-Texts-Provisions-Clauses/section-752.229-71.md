@@ -1,45 +1,39 @@
-##### 752.229-71 Reporting of foreign taxes. #####
+##### 752.229-71 Reporting of Foreign Taxes #####
 
-Link to an amendment published at 88 FR 39192, June 15, 2023.
+As prescribed in (48 CFR) AIDAR 729.402-70(b), insert the following clause in applicable solicitations and resulting contracts. The contracting officer must insert the address and point of contact at the Embassy, Mission, or M/CFO/CMP as appropriate under paragraph (d) of this clause.
 
-As prescribed in (48 CFR) AIDAR 729.402-70, insert the following clause in section I of applicable solicitations and resulting contracts. The contracting officer must insert address and point of contact at the Embassy, Mission, or M/CFO/CMP as appropriate under paragraph (d) of this clause.
+Reporting of Foreign Taxes (Jul 2023)
 
-Reporting of Foreign Taxes (JUL 2007)
+(a) *Definitions.* As used in this clause—
 
-(a) The contractor must annually submit a report by April 16 of the next year.
+*Foreign government* includes any foreign governmental entity.
 
-(b) *Contents of report.* The report must contain:
+*Foreign taxes* include value-added taxes and customs duties but not individual income taxes assessed to local staff.
+
+*Local staff* means Cooperating Country National employees.
+
+(b) *Annual report.* (1) The Contractor must submit a report detailing foreign taxes assessed under this contract during the prior U.S. government fiscal year. The report must be submitted annually by April 16.
+
+(2) A report is required even if the Contractor did not pay any foreign taxes during the reporting period. A cumulative report may be provided if the Contractor is performing more than one award in the foreign country.
+
+(c) *Contents of report.* The report must contain:
 
 (1) Contractor name.
 
-(2) Contact name with phone, fax number and email address.
+(2) Contact name with phone number and email address.
 
 (3) Contract number(s).
 
-(4) Amount of foreign taxes assessed by a foreign government [each foreign government must be listed separately] on commodity purchase transactions valued at $500 or more financed with U.S. foreign assistance funds under this agreement during the prior U.S. fiscal year.
+(4) Amount of foreign taxes assessed by each foreign government (listed separately) under this contract during the prior U.S. Government fiscal year.
 
-(5) Only foreign taxes assessed by the foreign government in the country receiving U.S. assistance are to be reported. Foreign taxes by a third party foreign government are not to be reported. For example, if a contractor performing in Lesotho using foreign assistance funds should purchase commodities in South Africa, any taxes imposed by South Africa would not be included in the report for Lesotho (or South Africa).
+(i) Taxes assessed on any individual transaction of less than $500 should not be reported.
 
-(6) Any reimbursements received by the contractor during the period in paragraph (b)(4) of this clause regardless of when the foreign tax was assessed and any reimbursements on the taxes reported in paragraph (b)(4) of this clause received through March 31.
+(ii) The Contractor must report only foreign taxes assessed by a foreign government receiving U.S. assistance under this contract. The Contractor must not report on foreign taxes assessed by a third-party foreign government.
 
-(7) Report is required even if the contractor did not pay any taxes during the reporting period.
+(5) Any reimbursements of foreign taxes received by the Contractor on the taxes reported in paragraph (c)(4) of this clause received through the date of the report.
 
-(8) Cumulative reports may be provided if the contractor is implementing more than one program in a foreign country.
+(d) *Submission of report.* The Contractor must submit the report to: [*Contracting Officer must insert address and point of contact at the Embassy or Mission in the country in which the contract will be performed, or CFO/CMP for USAID/W-issued contracts, as appropriate*], with a copy to the Contracting Officer's Representative.
 
-(c) *Definitions.* As used in this clause—
+(e) *Subcontracts.* The Contractor must include this reporting requirement in all subcontracts issued under this contract. The Contractor shall collect and incorporate into the Contractor's report all information received from subcontractors pursuant to this clause.
 
-(1) *Agreement* includes USAID direct and country contracts, grants, cooperative agreements and interagency agreements.
-
-(2) *Commodity* means any material, article, supply, goods, or equipment.
-
-(3) *Foreign government* includes any foreign governmental entity.
-
-(4) *Foreign taxes* means value-added taxes and customs duties assessed by a foreign government on a commodity. It does not include foreign sales taxes.
-
-(d) *Where.* Submit the reports to: [contracting officer must insert address and point of contact at the Embassy, Mission, or CFO/CMP as appropriate].
-
-(e) *Subagreements.* The contractor must include this reporting requirement in all applicable subcontracts and other subagreements.
-
-(f) For further information see *http://2001-2009.state.gov/s/d/rm/c10443.htm*.
-
-(End of clause)[81 FR 48717, July 26, 2016]
+(End of clause)[88 FR 39192, June 15, 2023]

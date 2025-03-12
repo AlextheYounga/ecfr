@@ -1,10 +1,8 @@
 ##### § 25.841 Pressurized cabins. #####
 
-Link to an amendment published at 88 FR 39160, June 15, 2023.Link to a correction of the above amendment published at 88 FR 44032, July 11, 2023.
+(a) Except as provided in paragraph (c) of this section, pressurized cabins and compartments to be occupied must be equipped to provide a cabin pressure altitude of not more than 8,000 feet under normal operating conditions.
 
-(a) Pressurized cabins and compartments to be occupied must be equipped to provide a cabin pressure altitude of not more than 8,000 feet at the maximum operating altitude of the airplane under normal operating conditions.
-
-(1) If certification for operation above 25,000 feet is requested, the airplane must be designed so that occupants will not be exposed to cabin pressure altitudes in excess of 15,000 feet after any probable failure condition in the pressurization system.
+(1) If certification for operation above 25,000 feet is requested, the airplane must be designed so that occupants will not be exposed to cabin pressure altitudes in excess of 15,000 feet after any probable failure condition in the pressurization system except as provided in paragraph (c) of this section.
 
 (2) The airplane must be designed so that occupants will not be exposed to a cabin pressure altitude that exceeds the following after decompression from any failure condition not shown to be extremely improbable:
 
@@ -26,10 +24,24 @@ Link to an amendment published at 88 FR 39160, June 15, 2023.Link to a correctio
 
 (5) Instruments at the pilot or flight engineer station to show the pressure differential, the cabin pressure altitude, and the rate of change of the cabin pressure altitude.
 
-(6) Warning indication at the pilot or flight engineer station to indicate when the safe or preset pressure differential and cabin pressure altitude limits are exceeded. Appropriate warning markings on the cabin pressure differential indicator meet the warning requirement for pressure differential limits and an aural or visual signal (in addition to cabin altitude indicating means) meets the warning requirement for cabin pressure altitude limits if it warns the flight crew when the cabin pressure altitude exceeds 10,000 feet.
+(6) Warning indication to the flightcrew when the safe or preset pressure differential or cabin pressure altitude limit is exceeded. Appropriate warning markings on the cabin pressure differential indicator meet the warning requirement for pressure differential limits. An alert meets the warning requirement for cabin pressure altitude limits if it warns the flightcrew when the cabin pressure altitude exceeds 10,000 feet, except as provided in paragraph (d) of this section.
 
 (7) A warning placard at the pilot or flight engineer station if the structure is not designed for pressure differentials up to the maximum relief valve setting in combination with landing loads.
 
 (8) The pressure sensors necessary to meet the requirements of paragraphs (b)(5) and (b)(6) of this section and § 25.1447(c), must be located and the sensing system designed so that, in the event of loss of cabin pressure in any passenger or crew compartment (including upper and lower lobe galleys), the warning and automatic presentation devices, required by those provisions, will be actuated without any delay that would significantly increase the hazards resulting from decompression.
 
-[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-38, 41 FR 55466, Dec. 20, 1976; Amdt. 25-87, 61 FR 28696, June 5, 1996]
+(c) When operating into or out of airports with elevations at or above 8,000 feet, the cabin pressure altitude in pressurized cabins and occupied compartments may be up to, or greater than, the airport elevation by 2,000 feet, provided—
+
+(1) In the event of probable failure conditions of the cabin pressurization system, the cabin pressure altitude must not exceed 15,000 feet, or 2,000 feet above the airport elevation, whichever is higher; and
+
+(2) The cabin pressurization system is designed to minimize the time in flight that occupants may be exposed to cabin pressure altitudes exceeding 8,000 feet.
+
+(d) When operating into or out of airports with elevations at or above 8,000 feet, the cabin pressure high altitude warning alert may be provided at up to 15,000 feet, or 2,000 feet above the airplane's maximum takeoff and landing altitude, whichever is greater, provided:
+
+(1) During landing, the change in cabin pressure high altitude warning alert may not occur before the start of descent into the high elevation airport and, following takeoff, the cabin pressure high altitude warning alert must be reset to 10,000 feet before beginning cruise operation;
+
+(2) Indication is provided to the flightcrew that the cabin pressure high altitude warning alert has shifted above 10,000 feet cabin pressure altitude; and
+
+(3) Either an alerting system is installed that notifies the flightcrew members on flight deck duty when to don oxygen in accordance with the applicable operating regulations, or a limitation is provided in the airplane flight manual that requires the pilot flying the airplane to don oxygen when the cabin pressure altitude warning has shifted above 10,000 feet, and requires other flightcrew members on flight deck duty to monitor the cabin pressure and utilize oxygen in accordance with the applicable operating regulations.
+
+[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-38, 41 FR 55466, Dec. 20, 1976; Amdt. 25-87, 61 FR 28696, June 5, 1996; Amdt. No. 25-151, 88 FR 39160, June 15, 2023; 88 FR 44032, July 11, 2023]

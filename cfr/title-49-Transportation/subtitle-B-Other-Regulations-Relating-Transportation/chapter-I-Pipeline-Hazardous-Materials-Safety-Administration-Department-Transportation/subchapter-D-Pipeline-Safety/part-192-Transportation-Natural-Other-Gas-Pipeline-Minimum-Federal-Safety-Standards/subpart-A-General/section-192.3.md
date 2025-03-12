@@ -154,7 +154,7 @@ Note 1 to *transmission line.* A large volume customer may receive similar volum
 
 (ii) With ripples less than 1.5 times the wall thickness of the pipe and with a wrinkle length (peak to peak) to wrinkle height (peak to valley) ratio under 12.
 
-(2)(i) If the length of the wrinkle bend cannot be reliably determined, then *wrinkle bend* means a bend in the pipe where (h/D)\*100 exceeds 2 when S is less than 37,000 psi (255 MPa), where (h/D)\*100 exceeds (47000—*S*)/10,000 +1 for psi [324—*S*)/69 +1 for MPa] when S is greater than 37,000 psi (255 MPa) but less than 47,000 psi (324 MPa), and where (h/D)\*100 exceeds 1 when S is 47,000 psi (324 MPa) or more.
+(2)(i) If the length of the wrinkle bend cannot be reliably determined, then *wrinkle bend* means a bend in the pipe where (h/D)\*100 exceeds 2 when S is less than 37,000 psi (255 MPa), where (h/D)\*100 exceeds (47000—*S*)/10,000 +1 for psi [(324—*S*)/69 +1 for MPa] when S is greater than 37,000 psi (255 MPa) but less than 47,000 psi (324 MPa), and where (h/D)\*100 exceeds 1 when S is 47,000 psi (324 MPa) or more.
 
 (ii) Where:
 

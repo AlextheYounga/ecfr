@@ -1,7 +1,5 @@
 ##### § 622.39 Quotas. #####
 
-Link to an amendment published at 88 FR 39201, June 15, 2023.
-
 See § 622.8 for general provisions regarding quota applicability and closure and reopening procedures. This section, provides quotas and specific quota closure restrictions for Gulf reef fish.
 
 (a) *Gulf reef fish*—(1) *Commercial quotas.* The following quotas apply to persons who fish under commercial vessel permits for Gulf reef fish, as required under § 622.20(a)(1).
@@ -48,11 +46,7 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (C) *Private angling component quota.* The private angling component quota applies to vessels that fish under the bag limit and have not been issued a Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. The private angling component quota is 4,611,326 lb (2,091,662 kg), round weight.
 
-(ii) *Recreational quota for greater amberjack.* (A) For the 2017-2018 fishing year—716,173 lb (324,851 kg).
-
-(B) For the 2018-2019 fishing year—902,185 lb (409,224 kg).
-
-(C) For the 2019-2020 fishing year and subsequent fishing years—1,086,985 lb (493,048 kg).
+(ii) *Recreational quota for greater amberjack.* The recreational quota for greater amberjack is 335,320 lb (152,099 kg), round weight.
 
 (b) *Restrictions applicable after a commercial quota closure.* (1) If the recreational fishery for the indicated species is open, the bag and possession limits specified in § 622.38(b) and (c) apply to all harvest or possession in or from the Gulf EEZ of the indicated species, and the sale or purchase of the indicated species taken from the Gulf EEZ is prohibited. In addition, the bag and possession limits for red snapper, when applicable, apply on board a vessel for which a commercial permit for Gulf reef fish has been issued, as required under § 622.20(a)(1), without regard to where such red snapper were harvested. The application of bag limits described in this paragraph (b)(1) notwithstanding, bag limits of Gulf reef fish may not be possessed on board a vessel with commercial quantities of Gulf reef fish, *i.e.,* Gulf reef fish in excess of applicable bag/possession limits, on board, as specified in § 622.38(a)(2). The prohibition on sale/purchase during a closure for Gulf reef fish does not apply to Gulf reef fish that were harvested, landed ashore, and sold prior to the effective date of the closure and were held in cold storage by a dealer or processor.
 

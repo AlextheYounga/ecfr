@@ -1,6 +1,6 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 88 FR 9116, Feb. 13, 2023.Link to an amendment published at 88 FR 25271, Apr. 26, 2023, delaying the above amendment indefinitely.Link to an amendment published at 88 FR 27402, May 2, 2023.Link to an amendment published at 88 FR 42587, July 3, 2023.Link to an amendment published at 88 FR 42592, July 3, 2023.
+Link to an amendment published at 88 FR 9116, Feb. 13, 2023.Link to an amendment published at 88 FR 25271, Apr. 26, 2023, delaying the above amendment indefinitely.Link to an amendment published at 88 FR 42587, July 3, 2023.Link to an amendment published at 88 FR 42592, July 3, 2023.
 
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
@@ -453,22 +453,24 @@ Certificate Expiration Date: April 6, 2035.
 
 Model Number: MPC-37, MPC-89.
 
-Certificate Number: 1042.
+*Certificate Number:* 1042.
 
-Initial Certificate Effective Date: June 7, 2017
+*Initial Certificate Effective Date:* June 7, 2017.
 
-Amendment Number 1 Effective Date: June 17, 2020.
+*Amendment Number 1 Effective Date:* June 17, 2020.
 
-Amendment Number 2 Effective Date: October 26, 2021.
+*Amendment Number 2 Effective Date:* October 26, 2021.
 
-SAR Submitted by: TN Americas LLC.
+*Amendment Number 3 Effective Date:* July 17, 2023.
 
-SAR Title: Final Safety Analysis Report for the NUHOMS® EOS Dry Spent Fuel Storage System.
+*SAR Submitted by:* TN Americas LLC.
 
-Docket Number: 72-1042.
+*SAR Title:* Final Safety Analysis Report for the NUHOMS® EOS Dry Spent Fuel Storage System.
 
-Certificate Expiration Date: June 7, 2037.
+*Docket Number:* 72-1042.
 
-Model Number: EOS-37PTH, EOS-89BTH, 61BTH Type 2.
+*Certificate Expiration Date:* June 7, 2037.
+
+*Model Number:* EOS-37PTH, EOS-89BTH, 61BTH Type 2.
 
 [55 FR 29191, July 18, 1990]Editorial Note:For Federal Register citations affecting § 72.214, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

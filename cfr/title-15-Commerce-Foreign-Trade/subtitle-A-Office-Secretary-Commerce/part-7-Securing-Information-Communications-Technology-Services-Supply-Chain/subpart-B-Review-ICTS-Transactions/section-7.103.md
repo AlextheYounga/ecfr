@@ -1,7 +1,5 @@
 ##### § 7.103 Initial review of ICTS Transactions. #####
 
-Link to an amendment published at 88 FR 39358, June 16, 2023.
-
 (a) Upon receipt of any information identified in § 7.100(a), upon written request of an appropriate agency head, or at the Secretary's discretion, the Secretary may consider any referral for review of a transaction (referral).
 
 (b) In considering a referral pursuant to paragraph (a), the Secretary shall assess whether the referral falls within the scope of § 7.3(a) of this part and involves ICTS designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to the jurisdiction or direction of a foreign adversary, and determine whether to:
@@ -48,8 +46,28 @@ Link to an amendment published at 88 FR 39358, June 16, 2023.
 
 (10) The likelihood that the ICTS Transaction will in fact cause threatened harm.
 
-(d) If the Secretary finds that an ICTS Transaction does not meet the criteria of paragraph (b) of this section:
+(d) For ICTS Transactions involving connected software applications that are accepted for review, the Secretary's assessment of whether the ICTS Transaction poses an undue or unacceptable risk may be determined by evaluating the criteria in paragraph (c) as well as the following additional criteria:
+
+(1) Ownership, control, or management by persons that support a foreign adversary's military, intelligence, or proliferation activities;
+
+(2) Use of the connected software application to conduct surveillance that enables espionage, including through a foreign adversary's access to sensitive or confidential government or business information, or sensitive personal data;
+
+(3) Ownership, control, or management of connected software applications by persons subject to the jurisdiction or direction of a foreign adversary;
+
+(4) Ownership, control, or management of connected software applications by persons involved in malicious cyber activities;
+
+(5) Whether there is regular, thorough, and reliable third-party auditing of connected software applications;
+
+(6) The scope and sensitivity of the data collected;
+
+(7) The number and sensitivity of the users with access to the connected software application; and
+
+(8) The extent to which identified risks have been or can be mitigated using measures that can be verified by independent third parties.
+
+(e) If the Secretary finds that an ICTS Transaction does not meet the criteria of paragraph (b) of this section:
 
 (1) The transaction shall no longer be under review; and
 
 (2) Future review of the transaction shall not be precluded, where additional information becomes available to the Secretary.
+
+[86 FR 4923, Jan. 19, 2021, as amended at 88 FR 39358, June 16, 2023]

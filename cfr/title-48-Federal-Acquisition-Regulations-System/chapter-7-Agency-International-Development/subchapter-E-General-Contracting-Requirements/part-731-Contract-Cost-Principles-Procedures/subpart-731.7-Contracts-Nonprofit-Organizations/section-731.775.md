@@ -1,3 +1,5 @@
-##### 731.775 xxx #####
+##### 731.775 Conference approval requirements. #####
 
-Link to an amendment published at 88 FR 39192, June 15, 2023.
+USAID's policies regarding conference approval requirements are set forth in (48 CFR) AIDAR 731.205-43. These policies are also applicable to contracts with nonprofit organizations.
+
+[88 FR 39192, June 15, 2023]

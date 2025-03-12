@@ -1,7 +1,5 @@
 ##### § 7.3 Scope of Covered ICTS Transactions. #####
 
-Link to an amendment published at 88 FR 39358, June 16, 2023.
-
 (a) This part applies only to an ICTS Transaction that:
 
 (1) Is conducted by any person subject to the jurisdiction of the United States or involves property subject to the jurisdiction of the United States;
@@ -114,15 +112,17 @@ Link to an amendment published at 88 FR 39358, June 16, 2023.
 
 (C) Drones or any other unmanned aerial system;
 
-(v) Software designed primarily for connecting with and communicating via the internet that is in use by greater than one million U.S. persons at any point over the twelve (12) months preceding an ICTS Transaction, including:
+(v) Software designed primarily to enable connecting with and communicating via the internet, which is accessible through cable, telephone line, wireless, or satellite or other means, that is in use by greater than one million U.S. persons at any point over the twelve (12) months preceding an ICTS Transaction, including:
 
 (A) Desktop applications;
 
 (B) Mobile applications;
 
-(C) Gaming applications; and
+(C) Gaming applications;
 
-(D) Web-based applications; or
+(D) Web-based applications; and
+
+(E) Connected software applications; or
 
 (vi) ICTS integral to:
 
@@ -145,3 +145,5 @@ Link to an amendment published at 88 FR 39358, June 16, 2023.
 (2) The Committee on Foreign Investment in the United States (CFIUS) is actively reviewing, or has reviewed, as a covered transaction or covered real estate transaction or as part of such a transaction under section 721 of the Defense Production Act of 1950, as amended, and its implementing regulations.
 
 (c) Notwithstanding the exemption in paragraph (b)(2) of this section, ICTS Transactions conducted by parties to transactions reviewed by CFIUS that were not part of the covered transaction or covered real estate transaction reviewed by CFIUS remain fully subject to this part.
+
+[86 FR 4923, Jan. 19, 2021, as amended at 88 FR 39358, June 16, 2023]

@@ -1,5 +1,7 @@
 ##### § 73.6029 Class A television simulcasting during the ATSC 3.0 (Next Gen TV) transition. #####
 
+Link to an amendment published at 88 FR 45367, July 17, 2023.
+
 (a) *Simulcasting arrangements.* For purposes of compliance with the simulcasting requirement in paragraph (b) of this section, a Class A television station may partner with one or more other Class A stations or with one or more full power, LPTV, or TV translator stations in a simulcasting arrangement for purposes of airing either an ATSC 1.0 or ATSC 3.0 signal on a host station's (*i.e.,* a station whose facilities are being used to transmit programming originated by another station) facilities.
 
 (1) A Class A television station airing an ATSC 1.0 or ATSC 3.0 signal on the facilities of a full power host station must comply with the rules of Part 73 of this chapter governing power levels and interference, and must comply in all other respects with the rules and policies applicable to Class A television stations, as set forth in this subpart.

@@ -1,7 +1,5 @@
 ##### § 622.41 Annual catch limits (ACLs), annual catch targets (ACTs), and accountability measures (AMs). #####
 
-Link to an amendment published at 88 FR 39201, June 15, 2023.
-
 (a) *Greater amberjack*—(1) *Commercial sector.* (i) If commercial landings, as estimated by the SRD, reach or are projected to reach the annual catch target (ACT) specified in § 622.39(a)(1)(v)(commercial quota), the Assistant Administrator for Fisheries, NOAA, (AA) will file a notification with the Office of the Federal Register to close the commercial sector for the remainder of the fishing year.
 
 (ii) In addition to the measures specified in paragraph (a)(1)(i) of this section, if commercial landings, as estimated by the SRD, exceed the commercial ACL, as specified in (a)(1)(iii) of this section, the AA will file a notification with the Office of the Federal Register, at or near the beginning of the following fishing year to reduce the commercial ACT (commercial quota) and the commercial ACL for that following year by the amount of any commercial ACL overage in the prior fishing year.
@@ -12,7 +10,7 @@ Link to an amendment published at 88 FR 39201, June 15, 2023.
 
 (ii) In addition to the measures specified in paragraph (a)(2)(i) of this section, if recreational landings, as estimated by the SRD, exceed the recreational ACL, as specified in paragraph (a)(2)(iii) of this section, the AA will file a notification with the Office of the Federal Register, at or near the beginning of the following fishing year to reduce the recreational ACT (recreational quota) and the recreational ACL for that following year by the amount of any recreational overage in the prior fishing year.
 
-(iii) The applicable recreational ACL for greater amberjack, in round weight, is 862,860 lb (391,387 kg) for the 2017-2018 fishing year, 1,086,970 lb (493,041 kg) for the 2018-2019 fishing year, and 1,309,620 lb (594,034 kg) for 2019-2020 fishing year and subsequent fishing years.
+(iii) The recreational ACL for greater amberjack, in round weight, is 404,000 lb (183,251 kg).
 
 (b) *Gray triggerfish*—(1) *Commercial sector.* If commercial landings, as estimated by the SRD, reach or are projected to reach the commercial ACT (commercial quota) specified in § 622.39(a)(1)(vi), the AA will file a notification with the Office of the Federal Register to close the commercial sector for the remainder of the fishing year. In addition, if despite such closure, commercial landings exceed the commercial ACL, the AA will file a notification with the Office of the Federal Register, at or near the beginning of the following fishing year to reduce the commercial ACL and ACT (commercial quota) for that following year by the amount the prior-year ACL was exceeded. The commercial ACL is 95,949 lb (43,522 kg), round weight.
 

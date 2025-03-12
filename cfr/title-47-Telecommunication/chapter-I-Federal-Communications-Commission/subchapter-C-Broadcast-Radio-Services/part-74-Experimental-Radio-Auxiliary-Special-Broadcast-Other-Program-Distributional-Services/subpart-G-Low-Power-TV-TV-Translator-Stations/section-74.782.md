@@ -1,5 +1,7 @@
 ##### § 74.782 Low power television and TV translator simulcasting during the ATSC 3.0 (Next Gen TV) transition. #####
 
+Link to an amendment published at 88 FR 45368, July 17, 2023.
+
 (a) *Simulcasting arrangements.* While broadcasters are voluntarily deploying ATSC 3.0, a low power television (LPTV) or TV translator station may partner with one or more other LPTV or TV translator stations or with one or more full power or Class A stations in a simulcasting arrangement for purposes of airing either an ATSC 1.0 or ATSC 3.0 signal on a host station's (*i.e.,* a station whose facilities are being used to transmit programming originated by another station) facilities.
 
 (1) An LPTV or TV translator station airing an ATSC 1.0 or ATSC 3.0 signal on the facilities of a full power host station must comply with the rules of part 73 of this chapter governing power levels and interference, and must comply in all other respects with the rules and policies applicable to low power television or TV translator stations set forth in this part.

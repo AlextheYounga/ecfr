@@ -2,7 +2,7 @@
 
 (a) *Applicability.* This section applies to onshore transmission pipelines not subject to the repair criteria in subpart O of this part, and which do not operate under an alternative MAOP in accordance with §§ 192.112, 192.328, and 192.620. Pipeline segments that are located in high consequence areas, as defined in § 192.903, must comply with the applicable actions specified by the integrity management requirements in subpart O. Pipeline segments operating under an alternative MAOP in accordance with §§ 192.112, 192.328, and 192.620 must comply with § 192.620(d)(11).
 
-(b) *General.* Each operator must, in repairing its pipeline systems, ensure that the repairs are made in a safe manner and are made to prevent damage to persons, property, and the environment. A pipeline segment's operating pressure must be less than the predicted failure pressure determined in accordance with § 192.712 during repair operations. Repairs performed in accordance with this section must use pipe and material properties that are documented in traceable, verifiable, and complete records. If documented data required for any analysis, including predicted failure pressure for determining MAOP, is not available, an operator must obtain the undocumented data through § 192.607.
+(b) *General.* Each operator must, in repairing its pipeline systems, ensure that the repairs are made in a safe manner and are made to prevent damage to persons, property, and the environment. A pipeline segment's operating pressure must be less than the predicted failure pressure determined in accordance with § 192.712 during repair operations. Repairs performed in accordance with this section must use pipe and material properties that are documented in traceable, verifiable, and complete records. If documented data required for any analysis, including predicted failure pressure for determining MAOP, is not available, an operator must obtain the undocumented data through § 192.607. Until documented material properties are available, the operator must use the conservative assumptions in either § 192.712(e)(2) or, if appropriate following a pressure test, in § 192.712(d)(3).
 
 (c) *Schedule for evaluation and remediation.* An operator must remediate conditions according to a schedule that prioritizes the conditions for evaluation and remediation. Unless paragraph (d) of this section provides a special requirement for remediating certain conditions, an operator must calculate the predicted failure pressure of anomalies or defects and follow the schedule in ASME/ANSI B31.8S (incorporated by reference, *see* § 192.7), section 7, Figure 4. If an operator cannot meet the schedule for any condition, the operator must document the reasons why it cannot meet the schedule and how the changed schedule will not jeopardize public safety. Each condition that meets any of the repair criteria in paragraph (d) of this section in an onshore steel transmission pipeline must be—
 
@@ -12,7 +12,7 @@
 
 (d) *Remediation of certain conditions.* For onshore transmission pipelines not located in high consequence areas, an operator must remediate a listed condition according to the following criteria:
 
-(1) *Immediate repair conditions.* An operator must repair the following conditions immediately upon discovery:
+(1) *Immediate repair conditions.* An operator's evaluation and remediation schedule for immediate repair conditions must follow section 7 of ASME/ANSI B31.8S (incorporated by reference, *see* § 192.7). An operator must repair the following conditions immediately upon discovery:
 
 (i) Metal loss anomalies where a calculation of the remaining strength of the pipe at the location of the anomaly shows a predicted failure pressure, determined in accordance with § 192.712(b), of less than or equal to 1.1 times the MAOP.
 
@@ -50,7 +50,7 @@
 
 (3) *Monitored conditions.* An operator must record and monitor the following conditions during subsequent risk assessments and integrity assessments for any change that may require remediation.
 
-(i) A dent that is located between the 4 o'clock and 8 o'clock positions (bottom1/3 of the pipe) with a depth greater than 6 percent of the pipeline diameter (greater than 0.50 inches in depth for a pipeline diameter less than NPS 12).
+(i) A dent that is located between the 4 o'clock and 8 o'clock positions (bottom1/3 of the pipe) with a depth greater than 6 percent of the pipeline diameter (greater than 0.50 inches in depth for a pipeline diameter less than NPS 12), and where an engineering analysis, performed in accordance with § 192.712(c), demonstrates critical strain levels are not exceeded.
 
 (ii) A dent located between the 8 o'clock and 4 o'clock positions (upper2/3 of the pipe) with a depth greater than 6 percent of the pipeline diameter (greater than 0.50 inches in depth for a pipeline diameter less than NPS 12), and where an engineering analysis performed in accordance with § 192.712(c) determines that critical strain levels are not exceeded.
 

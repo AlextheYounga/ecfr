@@ -1,12 +1,14 @@
 ##### § 7.2 Definitions. #####
 
-Link to an amendment published at 88 FR 39357, June 16, 2023.
-
 *Appropriate agency heads* means the Secretary of the Treasury, the Secretary of State, the Secretary of Defense, the Attorney General, the Secretary of Homeland Security, the United States Trade Representative, the Director of National Intelligence, the Administrator of General Services, the Chairman of the Federal Communications Commission, and the heads of any other executive departments and agencies the Secretary determines is appropriate.
 
 *Commercial item* has the same meaning given to it in Federal Acquisition Regulation (48 CFR part 2.101).
 
+*Connected software application* means software, a software program, or a group of software programs, that is designed to be used on an end-point computing device and includes as an integral functionality, the ability to collect, process, or transmit data via the internet.
+
 *Department* means the United States Department of Commerce.
+
+*End-point computing device* means a device that can receive or transmit data and includes as an integral functionality the ability to collect or transmit data via the internet.
 
 *Entity* means a partnership, association, trust, joint venture, corporation, group, subgroup, or other non-U.S. governmental organization.
 
@@ -18,7 +20,7 @@ Link to an amendment published at 88 FR 39357, June 16, 2023.
 
 *IEEPA* means the International Emergency Economic Powers Act (50 U.S.C. 1701, *et seq.*).
 
-*Information and communications technology or services or ICTS* means any hardware, software, or other product or service, including cloud-computing services, primarily intended to fulfill or enable the function of information or data processing, storage, retrieval, or communication by electronic means (including electromagnetic, magnetic, and photonic), including through transmission, storage, or display.
+*Information and communications technology or services* or *ICTS* means any hardware, software, including connected software applications, or other product or service, including cloud-computing services, primarily intended to fulfill or enable the function of information or data processing, storage, retrieval, or communication by electronic means (including electromagnetic, magnetic, and photonic), including through transmission, storage, or display.
 
 *Party or parties to a transaction* means a person engaged in an ICTS Transaction, including the person acquiring the ICTS and the person from whom the ICTS is acquired. Party or parties to a transaction include entities designed, or otherwise used with the intention, to evade or circumvent application of the Executive Order. For purposes of this rule, this definition does not include common carriers, except to the extent that a common carrier knew or should have known (as the term “knowledge” is defined in 15 CFR 772.1) that it was providing transportation services of ICTS to one or more of the parties to a transaction that has been prohibited in a final written determination made by the Secretary or, if permitted subject to mitigation measures, in violation of such mitigation measures.
 
@@ -57,3 +59,7 @@ Link to an amendment published at 88 FR 39357, June 16, 2023.
 *Undue or unacceptable risk* means those risks identified in Section 1(a)(ii) of the Executive Order.
 
 *United States person* means any United States citizen; any permanent resident alien; or any entity organized under the laws of the United States or any jurisdiction within the United States (including such entity's foreign branches).
+
+*Via the internet* means using internet protocols to transmit data, including, but not limited to, transmissions by cable, telephone lines, wireless methods, satellites, or other means.
+
+[86 FR 4923, Jan. 19, 2021, as amended at 88 FR 39357, June 16, 2023]
