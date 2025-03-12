@@ -1,5 +1,7 @@
 ##### § 100.205 Design and construction requirements. #####
 
+Link to an amendment published at 85 FR 78963, Dec. 8, 2020.
+
 (a) Covered multifamily dwellings for first occupancy after March 13, 1991 shall be designed and constructed to have at least one building entrance on an accessible route unless it is impractical to do so because of the terrain or unusual characteristics of the site. For purposes of this section, a covered multifamily dwelling shall be deemed to be designed and constructed for first occupancy on or before March 13, 1991, if the dwelling is occupied by that date, or if the last building permit or renewal thereof for the dwelling is issued by a State, County or local government on or before June 15, 1990. The burden of establishing impracticality because of terrain or unusual site characteristics is on the person or persons who designed or constructed the housing facility.
 
 (b) The application of paragraph (a) of this section may be illustrated by the following examples:

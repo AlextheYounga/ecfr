@@ -1,5 +1,7 @@
 ##### § 100.201 Definitions. #####
 
+Link to an amendment published at 85 FR 78962, Dec. 8, 2020.
+
 As used in this subpart:
 
 *Accessible,* when used with respect to the public and common use areas of a building containing covered multifamily dwellings, means that the public or common use areas of the building can be approached, entered, and used by individuals with physical disabilities. The phrase “*readily accessible to and usable by*” is synonymous with accessible. A public or common use area that complies with the appropriate requirements of ICC/ANSI A117.1-2003 (incorporated by reference at § 100.201a), ICC/ANSI A117.1-1998 (incorporated by reference at § 100.201a), CABO/ANSI A117.1-1992 (incorporated by reference at § 100.201a), ANSI A117.1-1986 (incorporated by reference at § 100.201a), or a comparable standard is deemed “*accessible*” within the meaning of this paragraph.

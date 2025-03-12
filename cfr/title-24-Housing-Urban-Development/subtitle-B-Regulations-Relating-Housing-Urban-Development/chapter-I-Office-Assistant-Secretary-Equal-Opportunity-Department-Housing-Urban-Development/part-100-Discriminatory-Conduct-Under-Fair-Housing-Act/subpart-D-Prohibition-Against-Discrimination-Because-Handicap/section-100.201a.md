@@ -1,5 +1,7 @@
 ##### § 100.201a Incorporation by reference. #####
 
+Link to an amendment published at 85 FR 78962, Dec. 8, 2020.
+
 (a) The following standards are incorporated by reference into 24 CFR part 100 pursuant to 5 U.S.C. 552(a) and 1 CFR part 51, as though set forth in full. The incorporation by reference of these standards has been approved by the Director of the Federal Register. The effect of compliance with these standards is as stated in 24 CFR 100.205.
 
 (b) The addresses of organizations from which the referenced standards can be obtained appear below:

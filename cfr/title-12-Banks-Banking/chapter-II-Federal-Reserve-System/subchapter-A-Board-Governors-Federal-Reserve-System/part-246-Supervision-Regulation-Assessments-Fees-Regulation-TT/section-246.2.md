@@ -1,5 +1,7 @@
 ##### § 246.2 Definitions. #####
 
+Link to an amendment published at 85 FR 78953, Dec. 8, 2020.
+
 As used in this part:
 
 (a) *Assessment period* means January 1 through December 31 of each calendar year.

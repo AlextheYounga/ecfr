@@ -1,18 +1,16 @@
 ##### § 1.59A-1 Base erosion and anti-abuse tax. #####
 
-Link to an amendment published at 85 FR 64363, Oct. 9, 2020.
-
 (a) *Purpose.* This section and §§ 1.59A-2 through 1.59A-10 (collectively, the “section 59A regulations”) provide rules under section 59A to determine the amount of the base erosion and anti-abuse tax. Paragraph (b) of this section provides definitions applicable to the section 59A regulations. Section 1.59A-2 provides rules regarding how to determine whether a taxpayer is an applicable taxpayer. Section 1.59A-3 provides rules regarding base erosion payments and base erosion tax benefits. Section 1.59A-4 provides rules for calculating modified taxable income. Section 1.59A-5 provides rules for calculating the base erosion minimum tax amount. Section 1.59A-6 provides rules relating to qualified derivative payments. Section 1.59A-7 provides rules regarding the application of section 59A to partnerships. Section 1.59A-8 is reserved for rules regarding the application of section 59A to certain expatriated entities. Section 1.59A-9 provides anti-abuse rules to prevent avoidance of section 59A. Finally, § 1.59A-10 provides the applicability date for the section 59A regulations.
 
 (b) *Definitions.* For purposes of this section and §§ 1.59A-2 through 1.59A-10, the following terms have the meanings provided in this paragraph (b).
 
-(1) Aggregate group. The term *aggregate group* means the group of corporations determined by -
+(1) Aggregate group. The term *aggregate group* means the group of corporations determined by—
 
 (i) Identifying a controlled group of corporations as defined in section 1563(a), except that the phrase “more than 50 percent” is substituted for “at least 80 percent” each place it appears in section 1563(a)(1) and the determination is made without regard to sections 1563(a)(4) and (e)(3)(C), and
 
 (ii) Once the controlled group of corporations is determined, excluding foreign corporations except with regard to income that is, or is treated as, effectively connected with the conduct of a trade or business in the United States under an applicable provision of the Internal Revenue Code or regulations published under 26 CFR chapter I. Notwithstanding the foregoing, if a foreign corporation is subject to tax on a net basis pursuant to an applicable income tax treaty of the United States, it is excluded from the controlled group of corporations except with regard to income taken into account in determining its net taxable income.
 
-(2) Applicable section 38 credits. The term *applicable section 38 credits* means the credits allowed under section 38 for the taxable year that are properly allocable to -
+(2) Applicable section 38 credits. The term *applicable section 38 credits* means the credits allowed under section 38 for the taxable year that are properly allocable to—
 
 (i) The low-income housing credit determined under section 42(a),
 
@@ -26,11 +24,11 @@ Link to an amendment published at 85 FR 64363, Oct. 9, 2020.
 
 (5) *Base erosion and anti-abuse tax rate.* The term *base erosion and anti-abuse tax rate* means the percentage that the taxpayer applies to its modified taxable income for the taxable year to calculate its base erosion minimum tax amount. See § 1.59A-5(c) for the base erosion and anti-abuse tax rate applicable for the relevant taxable year.
 
-(6) *Business interest expense.* The term *business interest expense,* with respect to a taxpayer and a taxable year, has the meaning provided in § 1.163(j)-1(b)(2).
+(6) *Business interest expense.* The term *business interest expense,* with respect to a taxpayer and a taxable year, has the meaning provided in § 1.163(j)-1(b)(3).
 
 (7) *Deduction.* The term *deduction* means any deduction allowable under chapter 1 of subtitle A of the Internal Revenue Code.
 
-(8) *Disallowed business interest expense carryforward.* The term *disallowed business interest expense carryforward* has the meaning provided in § 1.163(j)-1(b)(9).
+(8) *Disallowed business interest expense carryforward.* The term *disallowed business interest expense carryforward* has the meaning provided in § 1.163(j)-1(b)(11).
 
 (9) *Domestic related business interest expense.* The term *domestic related business interest expense* for any taxable year is the taxpayer's business interest expense paid or accrued to a related party that is not a foreign related party.
 
@@ -48,7 +46,7 @@ Link to an amendment published at 85 FR 64363, Oct. 9, 2020.
 
 (16) *Regular tax liability.* The term *regular tax liability* has the meaning provided in section 26(b).
 
-(17) *Related party* - (i) *In general.* A *related party,* with respect to an applicable taxpayer, is -
+(17) *Related party*—(i) *In general.* A *related party,* with respect to an applicable taxpayer, is—
 
 (A) Any 25-percent owner of the taxpayer;
 
@@ -56,13 +54,13 @@ Link to an amendment published at 85 FR 64363, Oct. 9, 2020.
 
 (C) A controlled taxpayer within the meaning of § 1.482-1(i)(5) together with, or with respect to, the taxpayer.
 
-(ii) *25-percent owner.* With respect to any corporation, a *25-percent owner* means any person who owns at least 25 percent of -
+(ii) *25-percent owner.* With respect to any corporation, a *25-percent owner* means any person who owns at least 25 percent of—
 
 (A) The total voting power of all classes of stock of the corporation entitled to vote; or
 
 (B) The total value of all classes of stock of the corporation.
 
-(iii) *Application of section 318.* Section 318 applies for purposes of paragraphs (b)(17)(i) and (ii) of this section, except that -
+(iii) *Application of section 318.* Section 318 applies for purposes of paragraphs (b)(17)(i) and (ii) of this section, except that—
 
 (A) “10 percent” is substituted for “50 percent” in section 318(a)(2)(C); and
 
@@ -76,4 +74,4 @@ Link to an amendment published at 85 FR 64363, Oct. 9, 2020.
 
 (21) *Unrelated business interest expense.* The term *unrelated business interest expense* for any taxable year is the taxpayer's business interest expense paid or accrued to a party that is not a related party.
 
-[T.D. 9885, 84 FR 67017, Dec. 6, 2019]
+[T.D. 9885, 84 FR 67017, Dec. 6, 2019, as amended by T.D. 9910, 85 FR 64363, Oct. 9, 2020]

@@ -1,6 +1,6 @@
 ##### § 230.144A Private resales of securities to institutions. #####
 
-Link to an amendment published at 85 FR 64276, Oct. 9, 2020.Preliminary Notes:
+Preliminary Notes:
 
 1. This section relates solely to the application of section 5 of the Act and not to antifraud or other provisions of the federal securities laws.
 
@@ -28,7 +28,7 @@ A purchase by an insurance company for one or more of its separate accounts, as 
 
 (B) Any *investment company* registered under the Investment Company Act or any *business development company* as defined in section 2(a)(48) of that Act;
 
-(C) Any *Small Business Investment Company* licensed by the U.S. Small Business Administration under section 301(c) or (d) of the Small Business Investment Act of 1958;
+(C) Any *Small Business Investment Company* licensed by the U.S. Small Business Administration under section 301(c) or (d) of the Small Business Investment Act of 1958 or any *Rural Business Investment Company* as defined in section 384A of the Consolidated Farm and Rural Development Act;
 
 (D) Any *plan* established and maintained by a state, its political subdivisions, or any agency or instrumentality of a state or its political subdivisions, for the benefit of its employees;
 
@@ -38,9 +38,15 @@ A purchase by an insurance company for one or more of its separate accounts, as 
 
 (G) Any *business development company* as defined in section 202(a)(22) of the Investment Advisers Act of 1940;
 
-(H) Any organization described in section 501(c)(3) of the Internal Revenue Code, corporation (other than a bank as defined in section 3(a)(2) of the Act or a savings and loan association or other institution referenced in section 3(a)(5)(A) of the Act or a foreign bank or savings and loan association or equivalent institution), partnership, or Massachusetts or similar business trust; and
+(H) Any organization described in section 501(c)(3) of the Internal Revenue Code, corporation (other than a bank as defined in section 3(a)(2) of the Act or a savings and loan association or other institution referenced in section 3(a)(5)(A) of the Act or a foreign bank or savings and loan association or equivalent institution), partnership, limited liability company, or Massachusetts or similar business trust;
 
-(I) Any *investment adviser* registered under the Investment Advisers Act.
+(I) Any *investment adviser* registered under the Investment Advisers Act; and
+
+(J) Any institutional accredited investor, as defined in rule 501(a) under the Act (17 CFR 230.501(a)), of a type not listed in paragraphs (a)(1)(i)(A) through (I) or paragraphs (a)(1)(ii) through (vi).
+
+Note 1 to paragraph (a)(1)(i)(J):
+
+An entity seeking qualified institutional buyer status under Rule 144A(a)(1)(i)(J) may be formed for the purpose of acquiring the securities being offered under this section.
 
 (ii) Any *dealer* registered pursuant to section 15 of the Exchange Act, acting for its own account or the accounts of other qualified institutional buyers, that in the aggregate owns and invests on a discretionary basis at least $10 million of securities of issuers that are not affiliated with the dealer, *Provided,* That securities constituting the whole or a part of an unsold allotment to or subscription by a dealer as a participant in a public offering shall not be deemed to be owned by such dealer;
 
@@ -108,4 +114,4 @@ A registered dealer may act as agent, on a non-discretionary basis, in a transac
 
 (e) Offers and sales of securities pursuant to this section shall be deemed not to affect the availability of any exemption or safe harbor relating to any previous or subsequent offer or sale of such securities by the issuer or any prior or subsequent holder thereof.
 
-[55 FR 17945, Apr. 30, 1990, as amended at 57 FR 48722, Oct. 28, 1992; 78 FR 44804, July 24, 2013]
+[55 FR 17945, Apr. 30, 1990, as amended at 57 FR 48722, Oct. 28, 1992; 78 FR 44804, July 24, 2013; 85 FR 64276, Oct. 9, 2020]

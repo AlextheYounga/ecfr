@@ -1,5 +1,7 @@
 ##### § 246.1 Authority, purpose and scope. #####
 
+Link to an amendment published at 85 FR 78953, Dec. 8, 2020.
+
 (a) *Authority.* This part (Regulation TT) is issued by the Board of Governors of the Federal Reserve System (Board) under section 318 of Title III of the Dodd-Frank Wall Street Reform and Consumer Protection Act (the Dodd-Frank Act) (Pub. L. 111-203, 124 Stat. 1376, 1423-32, 12 U.S.C. 5365 and 5366) and section 11(s) of the Federal Reserve Act (12 U.S.C. 248(s)).
 
 (b) *Scope.* This part applies to:

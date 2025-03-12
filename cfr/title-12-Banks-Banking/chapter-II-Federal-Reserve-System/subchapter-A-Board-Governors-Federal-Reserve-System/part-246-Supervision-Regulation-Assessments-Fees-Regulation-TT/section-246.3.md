@@ -1,5 +1,7 @@
 ##### § 246.3 Assessed companies. #####
 
+Link to an amendment published at 85 FR 78953, Dec. 8, 2020.
+
 An assessed company is any company that:
 
 (a) Is a top-tier company that, on December 31 of the assessment period:

@@ -1,5 +1,7 @@
 ##### § 246.4 Assessments. #####
 
+Link to an amendment published at 85 FR 78954, Dec. 8, 2020.
+
 (a) *Assessment.* Each assessed company shall pay to the Board an assessment for any assessment period for which the Board determines the company to be an assessed company.
 
 (b)(1) *Assessment formula.* Except as provided in paragraph (b)(2) of this section, the assessment will be calculated according to the Assessment Formula, as follows:
