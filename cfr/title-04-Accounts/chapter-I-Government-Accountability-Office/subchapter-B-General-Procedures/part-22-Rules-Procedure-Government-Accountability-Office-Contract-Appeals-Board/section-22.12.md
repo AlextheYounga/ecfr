@@ -1,0 +1,11 @@
+##### § 22.12 Interrogatories [Rule 12]. #####
+
+(a) *When interrogatories may be served.* After an appeal has been docketed by the Board and a complaint has been filed, a party may serve on an adverse party written interrogatories to be answered by the party served or, if the party served is a public or private corporation or a partnership or association, by any officer or agent who shall furnish such information as is available to the party.
+
+(b) *Answers.* The interrogatories shall be answered separately and fully in writing, signed under oath by the person answering them, and served on the party submitting the interrogatories. Objections to the interrogatories shall be signed by counsel for the party responding to the interrogatories. An interrogatory is not necessarily objectionable merely because an answer to the interrogatory may involve an opinion or contention that relates to fact or the application of law to fact; however, the Board may order that such interrogatory need not be answered until after discovery has been completed or some other event has occurred.
+
+(c) *Scope and use as evidence.* Interrogatories may relate to any matters which can be inquired into under § 22.11 of this part [Rule 11] (Depositions), and the answers may be used to the same extent as provided for the use of the deposition of a party.
+
+(d) *Limits.* The number of interrogatories or sets of interrogatories to be served shall not be limited except as the Board may require to protect a party from annoyance, burden, or harassment.
+
+(e) *Option to produce business records.* Where the answer to an interrogatory may be derived or ascertained from the business records of the party upon which the interrogatory has been served, and the burden of deriving or ascertaining the answer is substantially the same for the party serving the interrogatory as for the party served, it is a sufficient answer to such interrogatory to specify the record(s) from which the answer may be derived or ascertained and to afford the party serving the interrogatory a reasonable opportunity to examine, audit, or inspect such records and to make copies thereof. Such specification shall be in sufficient detail to permit the interrogating party to locate and to identify, as readily as can the party served, the record(s) from which the answer may be ascertained.

@@ -1,0 +1,3 @@
+##### § 28.111 Scope. #####
+
+The Board shall consider, decide and order corrective action (as appropriate) in cases arising from the determination of appropriate units of employment for collective bargaining and cases arising from elections and certifications of collective bargaining representatives. Board decisions in these matters will be made with due regard for relevant provisions of GAO Orders and with the objective of insuring that the GAO labor relations program is consistent with Chapter 71 of Title 5, United States Code, which prescribes the standards for the labor relations program in the executive branch.

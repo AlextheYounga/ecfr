@@ -1,0 +1,5 @@
+##### § 22.20 Mistakes and Corrections [Rule 20]. #####
+
+(a) *To decisions and orders.* Clerical mistakes in decisions or orders of the Board may be corrected at any time on the Board's own initiative or upon motion of a party, except that if an appeal has been filed with another tribunal, such mistakes may be corrected only with leave of that tribunal.
+
+(b) *To the official transcript.* Corrections to an official transcript of a hearing will be made only when they involve errors affecting its substance. The Board may order such corrections on motion or on its own initiative and only after notice to the parties giving them an opportunity to object. Such corrections will ordinarily be made either by hand with pen and ink or by the appending of an errata sheet, or the Board may require that the reporter provide substitute or additional pages.

@@ -1,0 +1,3 @@
+##### § 28.50 Enforcement. #####
+
+If a person has been served with a Board subpoena but fails or refuses to comply with its terms, the party seeking compliance may file a written motion for enforcement with the administrative judge or make an oral motion for enforcement while on record at a hearing. The party shall present the return of service and, except where the witness was required to appear before the administrative judge, shall submit affidavit evidence of the failure or refusal to obey the subpoena. The Board may then request the appropriate United States district court to enforce the subpoena.

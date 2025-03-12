@@ -1,0 +1,9 @@
+##### § 81.5 Records originating outside GAO, records of interviews, or records involving work in progress. #####
+
+(a) It is the policy of GAO not to provide records from its files that originate in another agency or nonfederal organization to persons who may not be entitled to obtain the records from the originator. In such instances, requesters will be referred to the person or organization that originated the records.
+
+(b) It is the policy of GAO that prior to the release of a record of interview created by GAO in connection with an audit, evaluation, or investigation of a program, activity, or funding of a government entity, GAO will notify the agency from which an interview was obtained of the request. GAO will provide that agency with a reasonable opportunity to indicate whether the record of interview or portions thereof should be exempt from disclosure and the reason(s) for the exemption. The public disclosure of a record of interview remains within the discretion of GAO's Chief Quality Officer, but GAO will consider the views of the agency and the exemptions provided for under § 81.6 or any other law or regulation in deciding whether to release all or portions of a record of interview.
+
+(c) In order to avoid disruption of work in progress, and in the interests of fairness to those who might be adversely affected by the release of information which has not been fully reviewed to assure its accuracy and completeness, it is the policy of GAO not to provide records which are part of ongoing reviews or other current projects. In response to such requests, GAO will inform the requester of the estimated completion date of the review or project so that the requester may then ask for the records. At that time, the records may be released unless exempt from disclosure under § 81.6.
+
+[68 FR 33832, June 6, 2003, as amended at 72 FR 50643, Sept. 4, 2007]

@@ -1,0 +1,3 @@
+##### § 22.29 Inspection of the Record [Rule 29]. #####
+
+The notice of appeal, the complaint, the answer, the documents required to be filed therewith pursuant to § 22.4 of this part [Rule 4], all papers filed by the parties with the Board pursuant to these rules, and all correspondence exchanged between the Board and the parties or their attorneys shall be available for inspection at the offices of the Board. Prior arrangements for inspection of the file should be made with a member of the Board.

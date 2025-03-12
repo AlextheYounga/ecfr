@@ -1,0 +1,3 @@
+##### § 28.140 Personnel actions involving SES members. #####
+
+Members of the GAO Senior Executive Service (SES) may appeal adverse actions relating to misconduct, malfeasance or similar action to the Board in accordance with Subpart B of this part. Members of the GAO SES who allege that they have been subjected to a personnel action that constitutes a prohibited personnel practice or prohibited discrimination may appeal to the Board in accordance with subpart B or subpart D of this part respectively.

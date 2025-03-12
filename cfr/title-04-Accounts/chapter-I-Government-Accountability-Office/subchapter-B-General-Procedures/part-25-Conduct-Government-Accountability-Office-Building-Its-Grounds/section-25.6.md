@@ -1,0 +1,3 @@
+##### § 25.6 Disturbances. #####
+
+Loitering, disorderly conduct, or other conduct in the GAO Building or on its grounds which creates loud or unusual noise or a nuisance; which unreasonably obstructs the usual use of entrances, foyers, lobbies, corridors, offices, elevators, escalators, stairways, or parking areas; which otherwise impedes or disrupts the performance of official duties by government employees; or which prevents the general public from obtaining the administrative services provided in the GAO Building in a timely manner, is prohibited.

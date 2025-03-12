@@ -1,0 +1,3 @@
+##### § 11.2 Practice by attorneys. #####
+
+Any person who is a member in good standing of the bar of the Supreme Court of the United States or of the highest court of any State, territory, or the District of Columbia, and is not under any order of any court suspending, enjoining, restraining, disbarring, or otherwise restricting him in the practice of law, may represent others before the Government Accountability Office.

@@ -1,0 +1,9 @@
+##### § 22.11 Depositions [Rule 11]. #####
+
+(a) *When depositions may be taken.* After an appeal has been docketed by the Board and a complaint has been filed, either party may take the testimony of any person by deposition upon oral examination or written questions, for the purpose of discovery or for use as evidence in the appeal proceedings, or for both purposes.
+
+(b) *Time, place, and manner of taking.* The time, place, and manner of taking depositions shall be as mutually agreed to by the parties or, failing such agreement, be governed by order of the Board.
+
+(c) *Limits.* The number of depositions taken shall not be limited except as the Board may require to protect a party from annoyance, burden, or harassment.
+
+(d) *Use as evidence.* No testimony taken by deposition shall be considered as part of the evidence in the hearing of an appeal unless and until such testimony is offered and received in evidence at the hearing. Depositions ordinarily will not be received in evidence if the deponent is present and can testify personally at the hearing; however, depositions may be used to contradict or impeach the testimony of a deponent as a witness. If only a part of a deposition is offered in evidence by a party, an adverse party may require the offering party to introduce any other part which in fairness ought to be considered with the part introduced. In any case, the Board, upon the agreement of the parties, may permit the introduction of relevant portions of depositions as designated by the parties. If no hearing has been conducted and the appeal has been submitted on the record pursuant to § 22.17 of this part [Rule 17], the Board, in its discretion, may receive depositions in evidence to supplement the record.

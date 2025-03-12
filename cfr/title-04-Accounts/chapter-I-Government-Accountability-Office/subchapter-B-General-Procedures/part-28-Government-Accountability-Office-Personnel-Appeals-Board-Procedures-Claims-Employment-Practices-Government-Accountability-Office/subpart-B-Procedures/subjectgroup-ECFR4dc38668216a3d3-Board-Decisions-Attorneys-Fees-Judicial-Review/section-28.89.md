@@ -1,0 +1,5 @@
+##### § 28.89 Attorney's fees and costs. #####
+
+Within 20 days after service of a final decision by the Board, or within 20 days after the date on which an initial decision becomes final pursuant to § 28.87(d), the petitioner, if he or she is the prevailing party, may submit a request for the award of reasonable attorney's fees and costs. GAO may file a response within 20 days after service of the request. Motions for attorney's fees shall be filed in accordance with § 28.21 of these regulations. Rulings on attorney's fees and costs shall be consistent with the standards set forth at 5 U.S.C. 7701(g). The decision of the administrative judge concerning attorney's fees and costs shall be subject to review and shall become final according to the provisions of § 28.87.
+
+[68 FR 69302, Dec. 12, 2003]

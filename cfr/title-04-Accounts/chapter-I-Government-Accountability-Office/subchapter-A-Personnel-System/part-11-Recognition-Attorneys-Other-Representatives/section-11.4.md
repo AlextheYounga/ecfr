@@ -1,0 +1,3 @@
+##### § 11.4 Authority to represent in other cases. #####
+
+When an attorney acting in a representative capacity appears in person or signs a document submitted to the Government Accountability Office in connection with a matter other than one involving a payment to be made by the United States, his personal appearance or signature shall constitute a representation that he is authorized and qualified to represent the particular party in whose behalf he acts. In the case of representatives other than attorneys, a simple written declaration from the principal will be accepted as evidence of the authority of the representative to act on behalf of the principal.

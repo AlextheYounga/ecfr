@@ -1,0 +1,3 @@
+##### § 25.7 Gambling. #####
+
+Participating in games for money or other personal property or operating gambling devices, conducting a lottery or pool, or selling or purchasing numbers tickets in the GAO Building or on its grounds is prohibited. This prohibition shall not apply to the vending or exchange of chances by licensed blind operators of vending facilities for any lottery set forth in a law of the District of Columbia and conducted by the District of Columbia and authorized by section 2(a)(5) of the Randolph-Sheppard Act (20 U.S.C. 107, *et seq.*).

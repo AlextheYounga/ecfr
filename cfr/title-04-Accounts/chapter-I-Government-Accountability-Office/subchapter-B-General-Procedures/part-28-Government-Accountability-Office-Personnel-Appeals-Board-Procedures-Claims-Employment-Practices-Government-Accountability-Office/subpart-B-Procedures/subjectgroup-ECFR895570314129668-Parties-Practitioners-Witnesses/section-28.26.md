@@ -1,0 +1,11 @@
+##### § 28.26 Witness fees. #####
+
+The costs involved in the appearance of witnesses in any Board proceeding shall be allocated as follows:
+
+(a) Persons employed by the GAO shall, upon request by the administrative judge to GAO, be made available to participate in the hearing and shall be in official duty status for this purpose and shall not receive witness fees. Payment of travel and per diem expenses shall be governed by applicable laws and regulations.
+
+(b) Employees of other federal agencies called to testify at a Board hearing shall, at the request of the administrative judge and with the approval of the employing agency, be in official duty status during any period of absence from their normal duties caused by their testimony, and shall not receive witness fees. Payment of travel and per diem expenses shall be governed by applicable laws and regulations. A party planning to call an employee of another federal agency as a witness shall promptly notify the administrative judge of the need to submit to the federal agency a request that the employee be granted official duty status. In the event that the employing agency refuses the request to release the employee-witness in an official duty status, the employee-witness may be paid a witness fee in accordance with paragraph (c) of this section.
+
+(c) Witnesses who are not covered by paragraphs (a) or (b) of this section are entitled to the same witness fees as those paid to subpoenaed witnesses under 28 U.S.C. 1821. The fees shall be paid, in the first instance, by the party requesting the appearance of the witness, subject to a subsequent decision otherwise in accordance with § 28.89, concerning the award of attorneys fees and costs. Such fees shall be tendered to the witness at the time the subpoena is served, or, when the witness appears voluntarily, at the time of appearance. A federal agency or corporation is not required to tender witness fees in advance. Payment of travel and per diem expenses shall be governed by applicable law and regulation.
+
+(d) When the General Counsel is the petitioner or is representing the petitioner, the General Counsel shall pay the witness fees and arrange for the travel and per diem expenses that are required by paragraph (c) of this section.

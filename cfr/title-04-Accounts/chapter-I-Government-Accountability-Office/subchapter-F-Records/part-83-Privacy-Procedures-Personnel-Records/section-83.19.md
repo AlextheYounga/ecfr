@@ -1,0 +1,3 @@
+##### § 83.19 Government contractors. #####
+
+When GAO provides by a contract for the operation by or on behalf of GAO of a system of personnel records to accomplish a function of GAO, GAO shall, consistent with its authority, cause the requirements of this part to be applied to such system. Any such contractor and any employee of such contractor, if such contract is agreed to on or after the effective date of this section, shall be considered, for the purposes of this part, to be an employee of GAO. Contractor employees will be required to observe the confidentiality requirements of this part. Violations of this part by contractor employees may be a sufficient ground for contract termination.

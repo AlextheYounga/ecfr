@@ -1,0 +1,3 @@
+##### § 83.10 First Amendment rights. #####
+
+Personnel records or entries thereon describing how individuals exercise rights guaranteed by the First Amendment to the United States Constitution are prohibited, unless expressly authorized by statute or by the individual concerned, or unless pertinent to and within the scope of an authorized law enforcement activity. These rights include, but are not limited to, free exercise of religious and political beliefs, freedom of speech and the press, and freedom to assemble and to petition the Government.

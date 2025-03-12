@@ -1,0 +1,5 @@
+##### § 22.24 Alternative Dispute Resolution [Rule 24]. #####
+
+(a) *Docketed appeals.* The Board considers Alternative Dispute Resolution (ADR) to be an efficient way to timely resolve many contract disputes, and therefore encourages the parties to use ADR as an effective means to resolve their contract dispute. ADR with Board participation is available at the initiative of the Board or upon the joint motion of both parties. Guidelines, procedures, and requirements for implementing ADR will be prescribed by agreement of the parties and the Board. Ordinarily, ADR will be performed by a Board member, designated by the Chairman of the Board, that is not one of the three panel members deciding the dispute.
+
+(b) *Other matters.* Upon request and in the Board's discretion, the Board can make an ADR neutral available for an ADR proceeding, even if the contracting officer's decision has not been issued or is not contemplated. Such a request should be directed to the Chairman of the Board.

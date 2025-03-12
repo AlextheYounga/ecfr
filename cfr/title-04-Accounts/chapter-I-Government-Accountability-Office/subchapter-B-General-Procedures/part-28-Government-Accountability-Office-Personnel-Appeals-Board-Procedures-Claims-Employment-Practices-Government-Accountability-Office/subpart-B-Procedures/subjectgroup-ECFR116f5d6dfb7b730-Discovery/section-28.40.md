@@ -1,0 +1,3 @@
+##### § 28.40 Statement of purpose. #####
+
+Proceedings before the Board shall be conducted as expeditiously as possible with due regard to the rights of the parties. Discovery is designed to enable a party to obtain relevant information needed for presentation of the party's case. These regulations are intended to provide a simple method of discovery. They will be interpreted and applied so as to avoid delay and to facilitate adjudication of the case. The parties are expected to initiate and complete needed discovery with a minimum of Board intervention.

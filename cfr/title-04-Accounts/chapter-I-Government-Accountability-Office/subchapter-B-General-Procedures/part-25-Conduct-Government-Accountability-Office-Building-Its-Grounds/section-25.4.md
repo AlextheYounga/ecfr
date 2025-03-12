@@ -1,0 +1,3 @@
+##### § 25.4 Preservation of property. #####
+
+The improper disposal of rubbish in the GAO Building or on its grounds, the willful destruction of or damage to the GAO Building or to its grounds or fixtures, the theft of property, the creation of any hazard to persons or things in the GAO Building or on its grounds, the throwing of articles of any kind from or at the GAO Building, or the climbing on any part of the GAO Building, is prohibited.

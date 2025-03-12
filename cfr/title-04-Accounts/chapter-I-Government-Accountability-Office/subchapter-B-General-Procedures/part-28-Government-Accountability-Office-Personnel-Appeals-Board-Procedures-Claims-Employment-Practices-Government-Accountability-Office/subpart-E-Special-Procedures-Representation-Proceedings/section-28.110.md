@@ -1,0 +1,3 @@
+##### § 28.110 Purpose. #####
+
+The procedures in this subpart relate to the Board's duty under 31 U.S.C. 753(a) (4) and (5) to determine appropriate units of GAO employees for collective bargaining, to conduct elections in order to determine whether the employees in any such units wish to select a labor organization to represent them in collective bargaining, and, thereafter, to certify labor organizations so selected as the designated exclusive bargaining representative. They are referred to in these regulations as “representation proceedings”.

@@ -1,0 +1,3 @@
+##### § 11.5 Revocation of authority to represent. #####
+
+Prior to the conclusion of action by the Government Accountability Office on a matter in which a principal is represented by another person whose authority to act is established under either § 11.3 or § 11.4, the principal may revoke the authority of his representative. Such revocation is not effective unless it is in writing and signed by the principal and until the written revocation is received by the Government Accountability Office. Upon notification of the death of the principal during the pendency of any matter involving representation of the principal by an attorney or other party, the Government Accountability Office will consider the representative's authority to have been automatically revoked.

@@ -1,0 +1,3 @@
+##### § 27.2 The Chair, Vice Chair. #####
+
+The members of the Board shall select from among its membership a Chairperson, hereinafter the Chair, who shall serve as the chief executive and administrative officer of the Board. The Members of the Board may select from among its membership a Vice Chairperson, hereinafter the Vice Chair, who shall serve in the absence of the Chair and in other matters delegated by the Chair.

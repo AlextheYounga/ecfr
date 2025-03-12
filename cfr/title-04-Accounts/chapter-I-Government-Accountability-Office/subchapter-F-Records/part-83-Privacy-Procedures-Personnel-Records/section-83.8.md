@@ -1,0 +1,5 @@
+##### § 83.8 Standards of conduct. #####
+
+(a) GAO employees whose official duties involve the maintenance and handling of personnel records shall not disclose information from any personnel record unless disclosure is part of their official duties or required by statute, regulation, or internal procedure.
+
+(b) Any GAO employee who makes an unauthorized disclosure of personnel records or a disclosure of information derived from such records, knowing that such disclosure is unauthorized, or otherwise knowingly violates these regulations, shall be subject to appropriate disciplinary action. GAO employees are prohibited from using personnel information not available to the public, obtained through official duties, for commercial solicitation or sale, or for personal gain. Any employee who knowingly violates this prohibition shall be subject to appropriate disciplinary action.

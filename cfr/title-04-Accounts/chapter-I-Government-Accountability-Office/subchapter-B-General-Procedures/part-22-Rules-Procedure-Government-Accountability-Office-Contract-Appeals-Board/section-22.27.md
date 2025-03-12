@@ -1,0 +1,3 @@
+##### § 22.27 Ex Parte Communications [Rule 27]. #####
+
+No member of the Board shall entertain, nor shall any person directly or indirectly involved in an appeal submit to the Board, any evidence, explanation, analysis, or advice, whether written or oral, regarding any matter at issue in an appeal without the knowledge and consent of the adverse party. This provision does not apply to consultation among Board members or to ex parte communications concerning the Board's administrative functions or procedures.

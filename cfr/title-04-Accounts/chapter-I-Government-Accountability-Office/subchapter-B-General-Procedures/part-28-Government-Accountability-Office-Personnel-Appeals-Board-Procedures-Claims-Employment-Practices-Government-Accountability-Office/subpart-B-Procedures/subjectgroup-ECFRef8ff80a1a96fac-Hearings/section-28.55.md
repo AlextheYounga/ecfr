@@ -1,0 +1,3 @@
+##### § 28.55 Scheduling the hearing. #####
+
+The notice of initial hearing shall fix the date, time and place of hearing. GAO, upon request of the administrative judge, shall provide appropriate hearing space. Motions for postponement by either party shall be made in writing, shall set forth the reasons for the request and shall be granted only upon a showing of good cause. When the parties agree on postponement, motions may be made orally and shall be granted only upon a showing of good cause.

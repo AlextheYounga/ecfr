@@ -1,0 +1,9 @@
+##### § 22.14 Production of Documents, Electronically Stored Information, Other Tangible Things, or Entry Onto Land [Rule 14]. #####
+
+(a) *When documents, electronically stored information, other tangible things, or entry onto land may be requested.* After an appeal has been docketed by the Board and a complaint has been filed, any party may serve on any other party a request—
+
+(1) To produce and permit the inspection, copying, or photographing of any designated documents or electronically stored information (including writings, papers, books, accounts, photographs, drawings, graphs, charts, recordings, and other data or data compilations), or other tangible things, not privileged, which are in his, her, or its possession, custody, or control and which are within the scope of discovery as described in § 22.8(b) of this part [Rule 8(b)]; or
+
+(2) To permit entry onto designated land or other property in his or its possession or control for the purpose of inspecting, measuring, surveying, filming, or photographing the property or any designated object or operation thereon which is within the scope of discovery as described in § 22.8(b) of this part [Rule 8(b)].
+
+(b) *Time, place, and manner.* The request shall specify the time, place, and manner of making the inspection and taking the copies and photographs. The Board may make an order that the inspection, copying, measuring, surveying, filming, or photographing shall be limited to certain matters; or the Board may make any other order which, in its discretion, it deems appropriate to protect the party from annoyance, burden, or harassment.

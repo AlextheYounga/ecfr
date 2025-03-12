@@ -1,0 +1,3 @@
+##### § 28.67 Production of statements. #####
+
+After an individual has given evidence in a proceeding, any party may request a copy of any prior signed statement made by that individual which is relevant to the evidence given. If the party refuses to furnish the statement, the administrative judge may draw an adverse inference from the failure to produce or may exclude the relevant evidence given by the individual from consideration.

@@ -1,0 +1,3 @@
+##### § 22.21 Motion for Reconsideration [Rule 21]. #####
+
+A motion for reconsideration, if filed by either party, shall set forth specifically the ground or grounds relied upon to sustain the motion, and shall be filed within 15 days of receipt of a copy of the Board's decision. Mere disagreement with a decision, re-argument of points already made, or the presentation of new evidence that could have been presented during the appeal but was not, are not sufficient grounds for reconsideration. A motion pending under § 22.21 [Rule 21] does not affect the finality of a decision or suspend its operation.

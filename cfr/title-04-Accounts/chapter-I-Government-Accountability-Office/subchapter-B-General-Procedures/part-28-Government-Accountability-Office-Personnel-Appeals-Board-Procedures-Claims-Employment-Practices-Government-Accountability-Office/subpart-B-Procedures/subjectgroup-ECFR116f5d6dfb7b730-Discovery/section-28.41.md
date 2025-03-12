@@ -1,0 +1,9 @@
+##### § 28.41 Explanation, scope and methods. #####
+
+(a) *Explanation.* Discovery is the process apart from the hearing whereby a party may obtain relevant information from another person, including a party, which has not otherwise been provided. Relevant information includes information which appears reasonably calculated to lead to the discovery of admissible evidence. This information is obtained for the purpose of assisting the parties in developing, preparing, and presenting their cases. The Federal Rules of Civil Procedure may be used as a general guide for discovery practices in proceedings before the Board, except as to matters specifically covered by these regulations. The Federal Rules of Civil Procedure shall be interpreted as instructive rather than controlling.
+
+(b) *Scope.* Any person may be examined pursuant to paragraph (c) of this section regarding any nonprivileged matter which is relevant to the issue under review, including the existence, description, nature, custody, condition and location of documents or other tangible things, and the identity and location of persons having knowledge of relevant facts. The information sought must appear reasonably calculated to lead to the discovery of admissible evidence.
+
+(c) *Methods.* Discovery may be obtained by one or more of the methods provided under the Federal Rules of Civil Procedure, including written interrogatories, depositions, production of documents or things for inspection or copying, and requests for admission addressed to parties.
+
+[58 FR 61992, Nov. 23, 1993, as amended at 68 FR 69301, Dec. 12, 2003]
