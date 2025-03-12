@@ -1,7 +1,5 @@
 ##### § 438.3 Standard contract requirements. #####
 
-Link to an amendment published at 85 FR 37243, June 19, 2020.
-
 (a) *CMS review.* The CMS must review and approve all MCO, PIHP, and PAHP contracts, including those risk and nonrisk contracts that, on the basis of their value, are not subject to the prior approval requirement in § 438.806. Proposed final contracts must be submitted in the form and manner established by CMS. For States seeking approval of contracts prior to a specific effective date, proposed final contracts must be submitted to CMS for review no later than 90 days prior to the effective date of the contract.
 
 (b) *Entities eligible for comprehensive risk contracts.* A State may enter into a comprehensive risk contract only with the following:
@@ -34,7 +32,7 @@ Link to an amendment published at 85 FR 37243, June 19, 2020.
 
 (3) The MCO, PIHP, PAHP, PCCM or PCCM entity will not, on the basis of health status or need for health care services, discriminate against individuals eligible to enroll.
 
-(4) The MCO, PIHP, PAHP, PCCM or PCCM entity will not discriminate against individuals eligible to enroll on the basis of race, color, national origin, sex, sexual orientation, gender identity, or disability and will not use any policy or practice that has the effect of discriminating on the basis of race, color, or national origin, sex, sexual orientation gender identity, or disability.
+(4) The MCO, PIHP, PAHP, PCCM or PCCM entity will not discriminate against individuals eligible to enroll on the basis of race, color, national origin, sex, or disability and will not use any policy or practice that has the effect of discriminating on the basis of race, color, or national origin, sex, or disability.
 
 (e) *Services that may be covered by an MCO, PIHP, or PAHP.* (1) An MCO, PIHP, or PAHP may cover, for enrollees, services that are in addition to those covered under the State plan as follows:
 
@@ -121,3 +119,5 @@ Link to an amendment published at 85 FR 37243, June 19, 2020.
 (u) *Recordkeeping requirements.* MCOs, PIHPs, and PAHPs must retain, and require subcontractors to retain, as applicable, the following information: enrollee grievance and appeal records in § 438.416, base data in § 438.5(c), MLR reports in § 438.8(k), and the data, information, and documentation specified in §§ 438.604, 438.606, 438.608, and 438.610 for a period of no less than 10 years.
 
 (v) *Applicability date.* Sections 438.3(h) and (q) apply to the rating period for contracts with MCOs, PIHPs, PAHPs, PCCMs, and PCCM entities beginning on or after July 1, 2017. Until that applicability date, states are required to continue to comply with § 438.6(g) and (k) contained in the 42 CFR, parts 430 to 481, edition revised as of October 1, 2015.
+
+[81 FR 27853, May 6, 2016, as amended at 85 FR 37243, June 19, 2020]

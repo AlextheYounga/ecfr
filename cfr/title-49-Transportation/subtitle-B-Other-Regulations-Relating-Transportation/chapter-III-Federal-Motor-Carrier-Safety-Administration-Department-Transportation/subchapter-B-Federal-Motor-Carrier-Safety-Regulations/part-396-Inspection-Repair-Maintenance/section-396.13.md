@@ -1,5 +1,7 @@
 ##### § 396.13 Driver inspection. #####
 
+Link to an amendment published at 85 FR 50793, Aug. 18, 2020.
+
 Before driving a motor vehicle, the driver shall:
 
 (a) Be satisfied that the motor vehicle is in safe operating condition;

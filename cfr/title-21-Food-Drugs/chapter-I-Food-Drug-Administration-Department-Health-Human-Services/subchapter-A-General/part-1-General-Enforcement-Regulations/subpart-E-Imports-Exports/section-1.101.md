@@ -34,11 +34,11 @@
 
 (2) The notification shall be sent to the following addresses:
 
-(i) For biological products and devices regulated by the Center for Biologics Evaluation and Research - Food and Drug Administration, Center for Biologics Evaluation and Research, Document Control Center, 10903 New Hampshire Ave., Bldg. 71, Rm. G112, Silver Spring, MD 20993-0002.
+(i) For biological products and devices regulated by the Center for Biologics Evaluation and Research—Food and Drug Administration, Center for Biologics Evaluation and Research, Document Control Center, 10903 New Hampshire Ave., Bldg. 71, Rm. G112, Silver Spring, MD 20993-0002.
 
-(ii) For human drug products, biological products, and devices regulated by the Center for Drug Evaluation and Research - Division of New Drugs and Labeling Compliance, Center for Drug Evaluation and Research, Food and Drug Administration, 10903 New Hampshire Ave., Silver Spring, MD 20993-0002.
+(ii) For human drug products, biological products, and devices regulated by the Center for Drug Evaluation and Research—Office of Drug Security, Integrity and Response, Center for Drug Evaluation and Research, Food and Drug Administration, 10903 New Hampshire Ave., Silver Spring, MD 20993-0002.
 
-(iii) For devices - Food and Drug Administration, Center for Devices and Radiological Health, Division of Program Operations, 10903 New Hampshire Ave., Bldg. 66, rm. 5429, Silver Spring, MD 20993-0002.
+(iii) For devices—DRP2: Division of Establishment Support, Office of Regulatory Programs, Office of Product Evaluation and Quality, Center for Devices and Radiological Health, 10903 New Hampshire Ave., Bldg. 66, Rm. 1423, Silver Spring, MD 20993.
 
 (e) *Recordkeeping requirements for products subject to section 802(g) of the act.* (1) Any person exporting a product under any provision of section 802 of the act shall maintain records of all drugs, biological products, and devices exported and the countries to which the products were exported. In addition to the requirements in paragraph (b) of this section, such records include, but are not limited to, the following:
 
@@ -54,4 +54,4 @@
 
 (2) These records shall be kept at the site from which the products were exported or manufactured, and be maintained for the same period of time as required for records subject to good manufacturing practice or quality systems regulations applicable to the product. The records shall be made available to FDA, upon request, during an inspection for review and copying by FDA.
 
-[66 FR 65447, Dec. 19, 2001, as amended at 69 FR 48774, Aug. 11, 2004; 70 FR 14980, Mar. 24, 2005; 74 FR 13112, Mar. 26, 2009; 75 FR 20914, Apr. 22, 2010; 77 FR 5176, Feb. 2, 2012; 80 FR 18090, Apr. 3, 2015]
+[66 FR 65447, Dec. 19, 2001, as amended at 69 FR 48774, Aug. 11, 2004; 70 FR 14980, Mar. 24, 2005; 74 FR 13112, Mar. 26, 2009; 75 FR 20914, Apr. 22, 2010; 77 FR 5176, Feb. 2, 2012; 80 FR 18090, Apr. 3, 2015; 85 FR 50782, Aug. 18, 2020]

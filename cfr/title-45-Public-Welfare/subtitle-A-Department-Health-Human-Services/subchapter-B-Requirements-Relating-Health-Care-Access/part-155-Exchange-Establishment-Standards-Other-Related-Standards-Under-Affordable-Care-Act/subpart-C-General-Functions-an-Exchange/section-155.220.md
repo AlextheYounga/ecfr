@@ -1,7 +1,5 @@
 ##### § 155.220 Ability of States to permit agents and brokers and web-brokers to assist qualified individuals, qualified employers, or qualified employees enrolling in QHPs. #####
 
-Link to an amendment published at 85 FR 37248, June 19, 2020.
-
 (a) *General rule.* A State may permit agents, brokers, and web-brokers to -
 
 (1) Enroll individuals, employers or employees in any QHP in the individual or small group market as soon as the QHP is offered through an Exchange in the State;
@@ -148,7 +146,7 @@ Link to an amendment published at 85 FR 37248, June 19, 2020.
 
 (2) Standards of conduct. An individual or entity described in paragraph (j)(1) of this section must -
 
-(i) Provide consumers with correct information, without omission of material fact, regarding the Federally-facilitated Exchanges, QHPs offered through the Federally-facilitated Exchanges, and insurance affordability programs, and refrain from marketing or conduct that is misleading (including by having a direct enrollment Web site that HHS determines could mislead a consumer into believing they are visiting *HealthCare.gov*), coercive, or discriminates based on race, color, national origin, disability, age, sex, gender identity, or sexual orientation;
+(i) Provide consumers with correct information, without omission of material fact, regarding the Federally-facilitated Exchanges, QHPs offered through the Federally-facilitated Exchanges, and insurance affordability programs, and refrain from marketing or conduct that is misleading (including by having a direct enrollment website that HHS determines could mislead a consumer into believing they are visiting *HealthCare.gov*), coercive, or discriminates based on race, color, national origin, disability, age, or sex;
 
 (ii) Provide the Federally-facilitated Exchanges with correct information under section 1411(b) of the Affordable Care Act;
 
@@ -178,4 +176,4 @@ Link to an amendment published at 85 FR 37248, June 19, 2020.
 
 (3) The Exchange may collect information from a web-broker during its registration with the Exchange under paragraph (d)(1) of this section, or at another time on an annual basis, in a form and manner to be specified by HHS, sufficient to establish the identities of the individuals who comprise its corporate ownership and leadership and to ascertain any corporate or business relationships it has with other entities that may seek to register with the Federally-facilitated Exchange as web-brokers.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 54134, Aug. 30, 2013; 79 FR 13837, Mar. 11, 2014; 81 FR 12338, Mar. 8, 2016; 81 FR 94176, Dec. 22, 2016; 84 FR 17563, Apr. 25, 2019]Editorial Note:At 78 FR 54134, Aug. 30, 2013, § 155.220 was amended by revising (d)(3); however, the amendment could not be incorporated because there was no regulatory text provided in the amendment for (d)(3).
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 54134, Aug. 30, 2013; 79 FR 13837, Mar. 11, 2014; 81 FR 12338, Mar. 8, 2016; 81 FR 94176, Dec. 22, 2016; 84 FR 17563, Apr. 25, 2019; 85 FR 37248, June 19, 2020]Editorial Note:At 78 FR 54134, Aug. 30, 2013, § 155.220 was amended by revising (d)(3); however, the amendment could not be incorporated because there was no regulatory text provided in the amendment for (d)(3).

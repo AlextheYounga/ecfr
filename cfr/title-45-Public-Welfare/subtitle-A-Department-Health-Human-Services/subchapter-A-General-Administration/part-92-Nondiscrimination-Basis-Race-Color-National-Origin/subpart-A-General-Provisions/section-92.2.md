@@ -1,9 +1,13 @@
-##### § 92.2 Application. #####
+##### § 92.2 Nondiscrimination requirements. #####
 
-(a) Except as provided otherwise in this part, this part applies to every health program or activity, any part of which receives Federal financial assistance provided or made available by the Department; every health program or activity administered by the Department; and every health program or activity administered by a Title I entity.
+(a) Except as provided in Title I of the Patient Protection and Affordable Care Act (or any amendment thereto), an individual shall not, on any of the grounds set forth in paragraph (b) of this section, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any health program or activity, any part of which is receiving Federal financial assistance (including credits, subsidies, or contracts of insurance) provided by the U.S. Department of Health and Human Services; or under any program or activity administered by the Department under such Title; or under any program or activity administered by any entity established under such Title.
 
-(b)(1) Exclusions to the application of the Age Discrimination Act of 1975, as set forth at 45 CFR 91.3(b)(1), apply to claims of discrimination based on age under Section 1557 or this part.
+(b) The grounds are the grounds prohibited under the following statutes:
 
-(2) Insofar as the application of any requirement under this part would violate applicable Federal statutory protections for religious freedom and conscience, such application shall not be required.
+(1) Title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d *et seq.*) (race, color, national origin);
 
-(c) Any provision of this part held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, shall be construed so as to continue to give maximum effect to the provision permitted by law, unless such holding shall be one of utter invalidity or unenforceability, in which event the provision shall be severable from this part and shall not affect the remainder thereof or the application of the provision to other persons not similarly situated or to other, dissimilar circumstances.
+(2) Title IX of the Education Amendments of 1972 (20 U.S.C. 1681 *et seq.*) (sex);
+
+(3) The Age Discrimination Act of 1975 (42 U.S.C. 6101 *et seq.*) (age); or
+
+(4) Section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794) (disability).

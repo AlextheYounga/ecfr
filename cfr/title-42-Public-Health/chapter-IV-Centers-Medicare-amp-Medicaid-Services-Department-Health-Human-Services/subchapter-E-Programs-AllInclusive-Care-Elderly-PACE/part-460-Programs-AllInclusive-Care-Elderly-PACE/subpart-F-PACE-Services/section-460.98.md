@@ -1,14 +1,12 @@
 ##### § 460.98 Service delivery. #####
 
-Link to an amendment published at 85 FR 37243, June 19, 2020.
-
 (a) *Plan.* A PACE organization must establish and implement a written plan to furnish care that meets the needs of each participant in all care settings 24 hours a day, every day of the year.
 
 (b) *Provision of services.* (1) The PACE organization must furnish comprehensive medical, health, and social services that integrate acute and long-term care.
 
 (2) These services must be furnished in at least the PACE center, the home, and inpatient facilities.
 
-(3) The PACE organization may not discriminate against any participant in the delivery of required PACE services based on race, ethnicity, national origin, religion, sex, age, sexual orientation, mental or physical disability, or source of payment.
+(3) The PACE organization may not discriminate against any participant in the delivery of required PACE services based on race, ethnicity, national origin, religion, sex, age, mental or physical disability, or source of payment.
 
 (c) *Minimum services furnished at each PACE center.* At a minimum, the following services must be furnished at each PACE center:
 
@@ -34,4 +32,4 @@ Link to an amendment published at 85 FR 37243, June 19, 2020.
 
 (e) *Center attendance.* The frequency of a participant's attendance at a center is determined by the interdisciplinary team, based on the needs and preferences of each participant.
 
-[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71334, 71335, Dec. 8, 2006; 84 FR 25674, June 3, 2019]
+[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71334, 71335, Dec. 8, 2006; 84 FR 25674, June 3, 2019; 85 FR 37243, June 19, 2020]

@@ -1,0 +1,3 @@
+##### § 92.105 Requirement to make reasonable modifications. #####
+
+Any entity to which section 1557 applies (as defined in § 92.3 of this part) shall make reasonable modifications to its policies, practices, or procedures when such modifications are necessary to avoid discrimination on the basis of disability, unless the covered entity can demonstrate that making the modifications would fundamentally alter the nature of the health program or activity. For the purposes of this section, the term “reasonable modifications” shall be interpreted in a manner consistent with the term as set forth in the regulation promulgated under Title II of the Americans with Disabilities Act, at 28 CFR 35.130(b)(7).

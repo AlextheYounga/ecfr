@@ -1,5 +1,7 @@
 ##### § 315.3 Availability of contact lens prescriptions to patients. #####
 
+Link to an amendment published at 85 FR 50717, Aug. 17, 2020.
+
 (a) *In general.* When a prescriber completes a contact lens fitting, the prescriber:
 
 (1) Whether or not requested by the patient, shall provide to the patient a copy of the contact lens prescription; and

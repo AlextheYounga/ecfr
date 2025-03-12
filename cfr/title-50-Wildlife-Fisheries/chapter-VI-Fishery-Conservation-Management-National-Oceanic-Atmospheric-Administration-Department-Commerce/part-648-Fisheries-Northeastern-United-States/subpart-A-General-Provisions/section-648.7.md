@@ -1,6 +1,6 @@
 ##### § 648.7 Recordkeeping and reporting requirements. #####
 
-Link to an amendment published at 85 FR 47111, Aug. 4, 2020.
+Link to an amendment published at 85 FR 47111, Aug. 4, 2020.Link to a correction published at 85 FR 50793, Aug. 18, 2020.
 
 (a) *Dealers* - (1) Federally permitted dealers, and any individual acting in the capacity of a dealer, must submit to the Regional Administrator or to the official designee a detailed report of all fish purchased or received for a commercial purpose, other than solely for transport on land, within the time period specified in paragraph (f) of this section, by one of the available electronic reporting mechanisms approved by NMFS, unless otherwise directed by the Regional Administrator. The dealer reporting requirements specified in this paragraph (a)(1) for dealers purchasing or receiving for a commercial purpose Atlantic chub mackerel are effective through December 31, 2020. The following information, and any other information required by the Regional Administrator, must be provided in each report:
 

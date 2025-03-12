@@ -1,5 +1,7 @@
 ##### § 315.2 Definitions. #####
 
+Link to an amendment published at 85 FR 50717, Aug. 17, 2020.
+
 For purposes of this part, the following definitions shall apply:
 
 *Business hour* means an hour between 9 a.m. and 5 p.m., during a weekday (Monday through Friday), excluding Federal holidays. “Business hour” also may include, at the seller's option, a prescriber's regular business hours on Saturdays, provided that the seller has actual knowledge of these hours. “Business hour” shall be determined based on the time zone of the prescriber.

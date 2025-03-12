@@ -1,3 +1,9 @@
-##### § 86.18 xxx #####
+##### § 86.18 Amendments to conform to statutory exemptions. #####
 
-Link to an amendment published at 85 FR 37243, June 19, 2020.
+(a) Nothing in this part shall be construed to force or require any individual or hospital or any other institution, program, or activity receiving Federal funds to perform or pay for an abortion.
+
+(b) Nothing in this part shall be construed to require or prohibit any person, or public or private entity, to provide or pay for any benefit or service, including the use of facilities, related to an abortion. Nothing in the preceding sentence shall be construed to permit a penalty to be imposed on any person or individual because such person or individual is seeking or has received any benefit or service related to a legal abortion.
+
+(c) This part shall be construed consistently with, as applicable, the First Amendment to the Constitution, Title IX's religious exemptions (20 U.S.C. 1681(a)(3) and 1687(4)), the Religious Freedom Restoration Act (42 U.S.C. 2000b *et seq.*), and provisions related to abortion in the Church Amendments (42 U.S.C. 300a-7), the Coats-Snowe Amendment (42 U.S.C. 238n), section 1303 of the Patient Protection and Affordable Care Act (42 U.S.C. 18023), and appropriation rider provisions relating to abortion, to the extent they remain in effect or applicable, such as the Hyde Amendment (*e.g.,* Consolidated Appropriations Act, 2019, Pub. L. 115-245, Div. B, secs. 506-07), the Helms Amendment (*e.g.,* Continuing Appropriations Act, 2019, Pub. L. 116-6, Div. F, Title III), and the Weldon Amendment (*e.g.,* Consolidated Appropriations Act, 2019, Pub. L. 115-245, Div. B, sec. 507(d)).
+
+[85 FR 37243, June 19, 2020]

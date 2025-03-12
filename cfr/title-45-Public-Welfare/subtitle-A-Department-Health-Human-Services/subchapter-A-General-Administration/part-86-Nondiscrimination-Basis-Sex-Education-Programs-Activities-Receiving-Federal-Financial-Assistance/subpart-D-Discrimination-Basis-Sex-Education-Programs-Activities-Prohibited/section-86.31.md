@@ -1,10 +1,8 @@
 ##### § 86.31 Education programs or activities. #####
 
-Link to an amendment published at 85 FR 37244, June 19, 2020.
-
 (a) *General.* Except as provided elsewhere in this part, no person shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any academic, extracurricular, research, occupational training, or other education program or activity operated by a recipient which receives Federal financial assistance. This subpart does not apply to actions of a recipient in connection with admission of its students to an education program or activity of (1) a recipient to which Subpart C does not apply, or (2) an entity, not a recipient, to which Subpart C would not apply if the entity were a recipient.
 
-(b) *Specific prohibitions.* Except as provided in this subpart, in providing any aid, benefit, or service to a student, a recipient shall not, on the basis of sex:
+(b) *Specific prohibitions.* Except as provided in this subsection, in providing any aid, benefit, or service to a student, a recipient shall not, on the basis of sex:
 
 (1) Treat one person differently from another in determining whether such person satisfies any requirement or condition for the provision of such aid, benefit, or service;
 
@@ -14,13 +12,11 @@ Link to an amendment published at 85 FR 37244, June 19, 2020.
 
 (4) Subject any person to separate or different rules of behavior, sanctions, or other treatment;
 
-(5) Discriminate against any person in the application of any rules of appearance;
+(5) Apply any rule concerning the domicile or residence of a student or applicant, including eligibility for in-State fees and tuition;
 
-(6) Apply any rule concerning the domicile or residence of a student or applicant, including eligibility for in-state fees and tuition;
+(6) Aid or perpetuate discrimination against any person by providing significant assistance to any agency, organization, or person which discriminates on the basis of sex in providing any aid, benefit or service to students or employees;
 
-(7) Aid or perpetuate discrimination against any person by providing significant assistance to any agency, organization, or person which discriminates on the basis of sex in providing any aid, benefit or service to students or employees;
-
-(8) Otherwise limit any person in the enjoyment of any right, privilege, advantage, or opportunity.
+(7) Otherwise limit any person in the enjoyment of any right, privilege, advantage, or opportunity.
 
 (c) *Assistance administered by a recipient educational institution to study at a foreign institution.* A recipient educational institution may administer or assist in the administration of scholarships, fellowships, or other awards established by foreign or domestic wills, trusts, or similar legal instruments, or by acts of foreign governments and restricted to members of one sex, which are designed to provide opportunities to study abroad, and which are awarded to students who are already matriculating at or who are graduates of the recipient institution; *Provided,* a recipient educational institution which administers or assists in the administration of such scholarships, fellowship, or other awards which are restricted to members of one sex provides, or otherwise makes available reasonable opportunities for similar studies for members of the other sex. Such opportunities may be derived from either domestic or foreign sources.
 
@@ -32,4 +28,4 @@ Link to an amendment published at 85 FR 37244, June 19, 2020.
 
 (ii) Shall not facilitate, require, permit, or consider such participation if such action occurs.
 
-(Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682)[40 FR 24137, June 4, 1975, as amended at 70 FR 24321, May 9, 2005]
+(Secs. 901, 902, Education Amendments of 1972, 86 Stat. 373, 374; 20 U.S.C. 1681, 1682)[40 FR 24137, June 4, 1975, as amended at 70 FR 24321, May 9, 2005; 85 FR 37244, June 19, 2020]

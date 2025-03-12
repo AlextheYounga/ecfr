@@ -1,0 +1,13 @@
+##### § 92.103 Accessibility standards for buildings and facilities. #####
+
+(a) Each facility or part of a facility in which health programs or activities are conducted that is constructed or altered by or on behalf of, or for the use of, a recipient or State Exchange shall comply with the 2010 Standards, if the construction or alteration was commenced after July 18, 2016, except that if a facility or part of a facility in which health programs or activities are conducted that is constructed or altered by or on behalf of, or for the use of, a recipient or State Exchange, was not covered by the 2010 Standards prior to July 18, 2016, such facility or part of a facility shall comply with the 2010 Standards if the construction was commenced after January 18, 2018. Departures from particular technical and scoping requirements by the use of other methods are permitted where substantially equivalent or greater access to and usability of the facility is provided. All newly constructed or altered buildings or facilities subject to this section shall comply with the requirements for a “public building or facility” as defined in section 106.5 of the 2010 Standards.
+
+(b) Each facility or part of a facility in which health programs or activities under this part are conducted that is constructed or altered by or on behalf of, or for the use of, a recipient or State Exchange in conformance with the 1991 Standards at appendix D to 28 CFR part 36 or the 2010 Standards shall be deemed to comply with the requirements of this section and with 45 CFR 84.23(a) and (b) with respect to those facilities, if the construction or alteration was commenced on or before July 18, 2016. Each facility or part of a facility in which health programs or activities are conducted that is constructed or altered by or on behalf of, or for the use of, a recipient or State Exchange in conformance with UFAS shall be deemed to comply with the requirements of this section and with 45 CFR 84.23(a) and (b), if the construction was commenced on or before July 18, 2016 and such facility was not covered by the 1991 Standards or 2010 Standards.
+
+(c) For purposes of this part:
+
+(1) “1991 Standards” refers to the 1991 Americans with Disabilities Act Standards for Accessible Design at appendix D to 28 CFR part 36.
+
+(2) “2010 Standards” refers to the 2010 ADA Standards for Accessible Design, as defined in 28 CFR 35.104.
+
+(3) “UFAS” refers to the Uniform Federal Accessibility Standards as promulgated in 49 FR 31528 (Aug. 7, 1984).

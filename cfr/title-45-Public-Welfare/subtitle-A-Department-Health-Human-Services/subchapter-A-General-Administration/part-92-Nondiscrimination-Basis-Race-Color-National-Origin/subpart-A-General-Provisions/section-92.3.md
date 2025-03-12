@@ -1,5 +1,15 @@
-##### § 92.3 Relationship to other laws. #####
+##### § 92.3 Scope of application. #####
 
-(a) *Rule of interpretation.* Neither Section 1557 nor this part shall be construed to apply a lesser standard for the protection of individuals from discrimination than the standards applied under Title VI of the Civil Rights Act of 1964, Title IX of the Education Amendments of 1972, Section 504 of the Rehabilitation Act of 1973, the Age Discrimination Act of 1975, or the regulations issued pursuant to those laws.
+(a) Except as otherwise provided in this part, this part applies to
 
-(b) *Other laws.* Nothing in this part shall be construed to invalidate or limit the rights, remedies, procedures, or legal standards available to individuals under Title VI of the Civil Rights Act of 1964, Title VII of the Civil Rights Act of 1964, the Architectural Barriers Act of 1968, Title IX of the Education Amendments of 1972, Sections 504 or 508 of the Rehabilitation Act of 1973, the Age Discrimination Act of 1975, the Americans with Disabilities Act of 1990, as amended by the Americans with Disabilities Act Amendments Act of 2008, or other Federal laws or to supersede State or local laws that provide additional protections against discrimination on any basis described in § 92.1.
+(1) Any health program or activity, any part of which is receiving Federal financial assistance (including credits, subsidies, or contracts of insurance) provided by the Department;
+
+(2) Any program or activity administered by the Department under Title I of the Patient Protection and Affordable Care Act; or
+
+(3) Any program or activity administered by any entity established under such Title.
+
+(b) As used in this part, “health program or activity” encompasses all of the operations of entities principally engaged in the business of providing healthcare that receive Federal financial assistance as described in paragraph (a)(1) of this section. For any entity not principally engaged in the business of providing healthcare, the requirements applicable to a “health program or activity” under this part shall apply to such entity's operations only to the extent any such operation receives Federal financial assistance as described in paragraph (a)(1) of this section.
+
+(c) For purposes of this part, an entity principally or otherwise engaged in the business of providing health insurance shall not, by virtue of such provision, be considered to be principally engaged in the business of providing healthcare.
+
+(d) Any provision of this part held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, shall be construed so as to continue to give maximum effect to the provision permitted by law, unless such holding shall be one of utter invalidity or unenforceability, in which event the provision shall be severable from this part and shall not affect the remainder thereof or the application of the provision to other persons not similarly situated or to other, dissimilar circumstances.

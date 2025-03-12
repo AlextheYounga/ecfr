@@ -1,10 +1,8 @@
 ##### § 86.2 Definitions. #####
 
-Link to an amendment published at 85 FR 37243, June 19, 2020.
+As used in this part, the term—
 
-As used in this part, the term -
-
-(a) *Title IX* means title IX of the Education Amendments of 1972, Pub. L. 92-318, as amended by section 3 of Pub. L. 93-568, 88 Stat. 1855, except sections 904 and 906 thereof; 20 U.S.C. 1681, 1682, 1683, 1685, 1686.
+(a) *Title IX* means title IX of the Education Amendments of 1972, Pub. L. 92-318, as amended by section 3 of Pub. L. 93-568, 88 Stat. 1855, except sections 904 and 906 thereof; 20 U.S.C. 1681, 1682, 1683, 1685, 1686, 1687, 1688.
 
 (b) *Department* means the Department of Health and Human Services.
 
@@ -32,7 +30,7 @@ As used in this part, the term -
 
 (5) Any other contract, agreement, or arrangement which has as one of its purposes the provision of assistance to any education program or activity, except a contract of insurance or guaranty.
 
-(h) *Program or activity* and *program* means all of the operations of -
+(h) *Program or activity* and *program* means all of the operations of—
 
 (1)(i) A department, agency, special purpose district, or other instrumentality of a State or of a local government; or
 
@@ -42,7 +40,7 @@ As used in this part, the term -
 
 (ii) A local educational agency (as defined in 20 U.S.C. 7801), system of vocational education, or other school system;
 
-(3)(i) An entire corporation, partnership, or other private organization, or an entire sole proprietorship -
+(3)(i) An entire corporation, partnership, or other private organization, or an entire sole proprietorship—
 
 (A) If assistance is extended to such corporation, partnership, private organization, or sole proprietorship as a whole; or
 
@@ -74,7 +72,7 @@ As used in this part, the term -
 
 (3) An agency or body which certifies credentials or offers degrees, but which may or may not offer academic study.
 
-(n) *Institution of professional education* means an institution (except any institution of undergraduate higher education) which offers a program of academic study that leads to a first professional degree in a field for which there is a national specialized accrediting agency recognized by the United States Commissioner of Education.
+(n) *Institution of professional education* means an institution (except any institution of undergraduate higher education) which offers a program of academic study that leads to a first professional degree in a field for which there is a national specialized accrediting agency recognized by the Secretary of Education.
 
 (o) *Institution of vocational education* means a school or institution (except an institution of professional or graduate or undergraduate higher education) which has as its primary purpose preparation of students to pursue a technical, skilled, or semiskilled occupation or trade, or to pursue study in a technical field, whether or not the school or institution offers certificates, diplomas, or degrees and whether or not it offers fulltime study.
 
@@ -86,4 +84,4 @@ As used in this part, the term -
 
 (s) *Transition plan* means a plan subject to the approval of the United States Commissioner of Education pursuant to section 901(a)(2) of the Education Amendments of 1972, under which an educational institution operates in making the transition from being an educational institution which admits only students of one sex to being one which admits students of both sexes without discrimination.
 
-(Secs. 901, 902, 908, Education Amendments of 1972, 20 U.S.C. 1681, 1682, 1687)[40 FR 24137, June 4, 1975, as amended at 70 FR 24320, May 9, 2005]
+(Secs. 901, 902, 908, Education Amendments of 1972, 20 U.S.C. 1681, 1682, 1687)[40 FR 24137, June 4, 1975, as amended at 70 FR 24320, May 9, 2005; 85 FR 37243, June 19, 2020]

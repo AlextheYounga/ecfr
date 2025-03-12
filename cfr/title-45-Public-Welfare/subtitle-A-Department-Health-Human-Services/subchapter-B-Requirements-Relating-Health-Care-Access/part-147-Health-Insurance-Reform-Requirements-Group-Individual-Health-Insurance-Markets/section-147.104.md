@@ -1,7 +1,5 @@
 ##### § 147.104 Guaranteed availability of coverage. #####
 
-Link to an amendment published at 85 FR 37247, June 19, 2020.
-
 (a) *Guaranteed availability of coverage in the individual and group market.* Subject to paragraphs (b) through (d) of this section, a health insurance issuer that offers health insurance coverage in the individual, small group, or large group market in a State must offer to any individual or employer in the State all products that are approved for sale in the applicable market, and must accept any individual or employer that applies for any of those products.
 
 (b) *Enrollment periods.* A health insurance issuer may restrict enrollment in health insurance coverage to open or special enrollment periods.
@@ -72,7 +70,7 @@ Link to an amendment published at 85 FR 37247, June 19, 2020.
 
 (5) An applicable state authority may provide for the application of this paragraph (d) on a service-area-specific basis.
 
-(e) *Marketing.* A health insurance issuer and its officials, employees, agents and representatives must comply with any applicable state laws and regulations regarding marketing by health insurance issuers and cannot employ marketing practices or benefit designs that will have the effect of discouraging the enrollment of individuals with significant health needs in health insurance coverage or discriminate based on an individual's race, color, national origin, present or predicted disability, age, sex, gender identity, sexual orientation, expected length of life, degree of medical dependency, quality of life, or other health conditions.
+(e) *Marketing.* A health insurance issuer and its officials, employees, agents and representatives must comply with any applicable State laws and regulations regarding marketing by health insurance issuers and cannot employ marketing practices or benefit designs that will have the effect of discouraging the enrollment of individuals with significant health needs in health insurance coverage or discriminate based on an individual's race, color, national origin, present or predicted disability, age, sex, expected length of life, degree of medical dependency, quality of life, or other health conditions.
 
 (f) *Calendar year plans.* An issuer that offers coverage in the individual market, or in a merged market in a State that has elected to merge the individual market and small group market risk pools in accordance with section 1312(c)(3) of the Affordable Care Act, must ensure that such coverage is offered on a calendar year basis with a policy year ending on December 31 of each calendar year.
 
@@ -82,4 +80,4 @@ Link to an amendment published at 85 FR 37247, June 19, 2020.
 
 (i) *Construction.* Nothing in this section should be construed to require an issuer to offer coverage otherwise prohibited under applicable Federal law.
 
-[78 FR 13437, Feb. 27, 2013, as amended at 78 FR 65092, Oct. 30, 2013; 78 FR 76217, Dec. 17, 2013; 79 FR 30339, May 27, 2014; 79 FR 59138, Oct. 1, 2014; 80 FR 10862, Feb. 27, 2015; 81 FR 94173, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 83 FR 17058, Apr. 17, 2018]
+[78 FR 13437, Feb. 27, 2013, as amended at 78 FR 65092, Oct. 30, 2013; 78 FR 76217, Dec. 17, 2013; 79 FR 30339, May 27, 2014; 79 FR 59138, Oct. 1, 2014; 80 FR 10862, Feb. 27, 2015; 81 FR 94173, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 83 FR 17058, Apr. 17, 2018; 85 FR 37247, June 19, 2020]

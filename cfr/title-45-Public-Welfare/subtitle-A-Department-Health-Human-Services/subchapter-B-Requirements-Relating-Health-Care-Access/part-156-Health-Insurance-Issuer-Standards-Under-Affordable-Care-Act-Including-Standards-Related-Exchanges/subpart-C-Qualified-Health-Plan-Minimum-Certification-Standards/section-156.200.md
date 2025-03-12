@@ -1,7 +1,5 @@
 ##### § 156.200 QHP issuer participation standards. #####
 
-Link to an amendment published at 85 FR 37248, June 19, 2020.
-
 (a) *General requirement.* In order to participate in an Exchange, a health insurance issuer must have in effect a certification issued or recognized by the Exchange to demonstrate that each health plan it offers in the Exchange is a QHP.
 
 (b) *QHP issuer requirement.* A QHP issuer must -
@@ -28,7 +26,7 @@ Link to an amendment published at 85 FR 37248, June 19, 2020.
 
 (d) *State requirements.* A QHP issuer certified by an Exchange must adhere to the requirements of this subpart and any provisions imposed by the Exchange, or a State in connection with its Exchange, that are conditions of participation or certification with respect to each of its QHPs.
 
-(e) *Non-discrimination.* A QHP issuer must not, with respect to its QHP, discriminate on the basis of race, color, national origin, disability, age, sex, gender identity or sexual orientation.
+(e) *Non-discrimination.* A QHP issuer must not, with respect to its QHP, discriminate on the basis of race, color, national origin, disability, age, or sex.
 
 (f) *Broker compensation in a Federally-facilitated Exchange.* A QHP issuer must pay the same broker compensation for QHPs offered through a Federally-facilitated Exchange that the QHP issuer pays for similar health plans offered in the State outside a Federally-facilitated Exchange.
 
@@ -42,4 +40,4 @@ Link to an amendment published at 85 FR 37248, June 19, 2020.
 
 (h) *Operational requirements.* As a condition of certification of a QHP, an issuer must attest that it will comply with all QHP operational requirements described in subparts D, E, H, K, L, and M of this part.
 
-[77 FR 18469, Mar. 27, 2012, as amended at 78 FR 15535, Mar. 11, 2013; 79 FR 30351, May 27, 2014; 80 FR 10873, Feb. 27, 2015; 81 FR 94181, Dec. 22, 2016; 83 FR 17069, Apr. 17, 2018]
+[77 FR 18469, Mar. 27, 2012, as amended at 78 FR 15535, Mar. 11, 2013; 79 FR 30351, May 27, 2014; 80 FR 10873, Feb. 27, 2015; 81 FR 94181, Dec. 22, 2016; 83 FR 17069, Apr. 17, 2018; 85 FR 37248, June 19, 2020]

@@ -1,5 +1,7 @@
 ##### § 315.5 Prescriber verification. #####
 
+Link to an amendment published at 85 FR 50717, Aug. 17, 2020.
+
 (a) *Prescription requirement.* A seller may sell contact lenses only in accordance with a contact lens prescription for the patient that is:
 
 (1) Presented to the seller by the patient or prescriber directly or by facsimile; or
