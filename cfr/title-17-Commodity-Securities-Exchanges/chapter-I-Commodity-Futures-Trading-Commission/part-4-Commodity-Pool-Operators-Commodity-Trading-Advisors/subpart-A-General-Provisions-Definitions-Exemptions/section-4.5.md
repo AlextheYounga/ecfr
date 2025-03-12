@@ -1,10 +1,8 @@
 ##### § 4.5 Exclusion for certain otherwise regulated persons from the definition of the term “commodity pool operator.” #####
 
-Link to an amendment published at 84 FR 67353, Dec. 10, 2019.
-
 (a) Subject to compliance with the provisions of this section, the following persons, and any principal or employee thereof, shall be excluded from the definition of the term “commodity pool operator” with respect to the operation of a qualifying entity specified in paragraph (b) of this section:
 
-(1) An investment company registered as such under the Investment Company Act of 1940;
+(1) An investment adviser registered under the Investment Advisers Act of 1940, as amended;
 
 (2) An insurance company subject to regulation by any State;
 
@@ -24,7 +22,7 @@ Link to an amendment published at 84 FR 67353, Dec. 10, 2019.
 
 (b) For the purposes of this section, the term “qualifying entity” means:
 
-(1) With respect to any person specified in paragraph (a)(1) of this section, an investment company registered as such under the Investment Company Act of 1940;
+(1) With respect to any person specified in paragraph (a)(1) of this section, an investment company registered under the Investment Company Act of 1940, as amended, or a business development company that elected an exemption from registration as an investment company under the Investment Company Act of 1940;
 
 (2) With respect to any person specified in paragraph (a)(2) of this section, a separate account established and maintained or offered by an insurance company pursuant to the laws of any State or territory of the United States, under which income gains and losses, whether or not realized, from assets allocated to such account, are, in accordance with the applicable contract, credited to or charged against such account, without regard to other income, gains, or losses of the insurance company;
 
@@ -44,13 +42,13 @@ Link to an amendment published at 84 FR 67353, Dec. 10, 2019.
 
 (iv) The applicable subparagraph of paragraph (b) of this section pursuant to which such entity is a qualifying entity.
 
-(2) The notice of eligibility must contain representations that such person will operate the qualifying entity specified therein in a manner such that the qualifying entity:
+(2) The notice of eligibility must contain representations that such person will operate the qualifying entity specified therein in the following ways, as applicable:
 
-(i) Will disclose in writing to each participant, whether existing or prospective, that the qualifying entity is operated by a person who has claimed an exclusion from the definition of the term “commodity pool operator” under the Act and, therefore, who is not subject to registration or regulation as a pool operator under the Act; *Provided*, that such disclosure is made in accordance with the requirements of any other federal or state regulatory authority to which the qualifying entity is subject. The qualifying entity may make such disclosure by including the information in any document that its other Federal or State regulator requires to be furnished routinely to participants or, if no such document is furnished routinely, the information may be disclosed in any instrument establishing the entity's investment policies and objectives that the other regulator requires to be made available to the entity's participants; and
+(i) The person will disclose in writing to each participant, whether existing or prospective, that the qualifying entity is operated by a person who has claimed an exclusion from the definition of the term “commodity pool operator” under the Act and, therefore, is not subject to registration or regulation as a pool operator under the Act; Provided, that such disclosure is made in accordance with the requirements of any other federal or state regulatory authority to which the qualifying entity is subject. The qualifying entity may make such disclosure by including the information in any document that its other Federal or State regulator requires to be furnished routinely to participants or, if no such document is furnished routinely, the information may be disclosed in any instrument establishing the entity's investment policies and objectives that the other regulator requires to be made available to the entity's participants; and
 
-(ii) Will submit to such special calls as the Commission may make to require the qualifying entity to demonstrate compliance with the provisions of this § 4.5(c); *Provided, however,* that the making of such representations shall not be deemed a substitute for compliance with any criteria applicable to commodity futures or commodity options trading established by any regulator to which such person or qualifying entity is subject.
+(ii) The person will submit to such special calls as the Commission may make to require the qualifying entity to demonstrate compliance with the provisions of this paragraph (c); Provided, however, that the making of such representations shall not be deemed a substitute for compliance with any criteria applicable to commodity futures or commodity options trading established by any regulator to which such person or qualifying entity is subject; and
 
-(iii) Furthermore, if the person claiming the exclusion is an investment company registered as such under the Investment Company Act of 1940, then the notice of eligibility must also contain representations that such person will operate the qualifying entity as described in Rule 4.5(b)(1) in a manner such that the qualifying entity:
+(iii) If the person is an investment adviser claiming an exclusion with respect to the operation of a qualifying entity under paragraph (b)(1) of this section, then the notice of eligibility must also contain representations that such person will operate that qualifying entity in a manner such that the qualifying entity:
 
 (A) Will use commodity futures or commodity options contracts, or swaps solely for bona fide hedging purposes within the meaning and intent of the definition of bona fide hedging transactions and positions for excluded commodities in §§ 1.3 and 151.5 of this chapter; Provided however, That, in addition, with respect to positions in commodity futures or commodity options contracts, or swaps which do not come within the meaning and intent of the definition of bona fide hedging transactions and positions for excluded commodities in §§ 1.3 and 151.5 of this chapter, a qualifying entity may represent that the aggregate initial margin and premiums required to establish such positions will not exceed five percent of the liquidation value of the qualifying entity's portfolio, after taking into account unrealized profits and unrealized losses on any such contracts it has entered into; and, Provided further, That in the case of an option that is in-the-money at the time of the purchase, the in-the-money amount as defined in § 190.01(x) of this chapter may be excluded in computing such five percent; or
 
@@ -82,4 +80,4 @@ Link to an amendment published at 84 FR 67353, Dec. 10, 2019.
 
 (g) The filing of a notice of eligibility or the application of “non-pool status” under this section will not affect the ability of a person to qualify for an exemption from registration as a commodity pool operator under § 4.13 in connection with the operation of another trading vehicle that is not covered under this § 4.5.
 
-[50 FR 15882, Apr. 23, 1985; 50 FR 18859, May 3, 1985, as amended at 58 FR 6374, Jan. 28, 1993; 58 FR 43793, Aug. 18, 1993; 65 FR 24128, Apr. 25, 2000; 65 FR 25980, May 4, 2000; 67 FR 77410, Dec. 18, 2002; 68 FR 47230, Aug. 8, 2003; 72 FR 1662, Jan. 16, 2007; 77 FR 11283, Feb. 24, 2012; 77 FR 17328, Mar. 26, 2012; 83 FR 7995, Feb. 23, 2018]
+[50 FR 15882, Apr. 23, 1985; 50 FR 18859, May 3, 1985, as amended at 58 FR 6374, Jan. 28, 1993; 58 FR 43793, Aug. 18, 1993; 65 FR 24128, Apr. 25, 2000; 65 FR 25980, May 4, 2000; 67 FR 77410, Dec. 18, 2002; 68 FR 47230, Aug. 8, 2003; 72 FR 1662, Jan. 16, 2007; 77 FR 11283, Feb. 24, 2012; 77 FR 17328, Mar. 26, 2012; 83 FR 7995, Feb. 23, 2018; 84 FR 67353, Dec. 10, 2019]

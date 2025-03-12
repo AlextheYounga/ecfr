@@ -1,7 +1,5 @@
 ##### § 302-17.1 What special terms apply to this part? #####
 
-Link to an amendment published at 84 FR 64781, Nov. 25, 2019.
-
 The following definitions apply to this part:
 
 *Allowance* means*:*
@@ -32,7 +30,7 @@ The *gross-up* allows for the fact that every reimbursement of taxes is itself t
 
 *Local income tax* means a tax imposed by a recognized city or county tax authority that is deductible for Federal income tax purposes as a *local income tax* under the IRC, at 26 U.S.C. 164(a)(3). (See the definitions for the terms *city* and *county* in this section.)
 
-*Marginal tax rate (MTR)* means the tax rate that applies to the last increment of taxable income after taxable relocation benefits have been added to the employee's income. For example, suppose a married employee who files jointly has a taxable income of $120,000. According to the IRS 2011 Tax Rate Schedules, taxable income between $69,000 and $139,350 is taxed at the 25 percent tax rate; therefore, the $120,000 taxable income of the employee and spouse is in this range, so they have a 25 percent *MTR.* If the employee receives $30,000 of taxable relocation benefits, the taxable income for the employee and spouse is now $150,000, which is in the next highest tax bracket. In this example, the employee and spouse now have a Federal *MTR* of 28 percent once the taxable relocation benefits have been added to their income.
+*Marginal tax rate (MTR)* means the tax rate that applies to the last increment of taxable income after taxable relocation benefits have been added to the employee's income. Examples of how to determine the marginal tax rate using the IRS Tax Rate Schedules are published in an FTR bulletin at *https://gsa.gov/ftrbulletins*.
 
 *Reimbursement* means money paid to you to cover expenses that you have already paid for out of your own funds.
 
@@ -45,3 +43,5 @@ The *gross-up* allows for the fact that every reimbursement of taxes is itself t
 *State income tax* means a tax imposed by a state tax authority that is deductible for Federal income tax purposes under the IRC, specifically 26 U.S.C. 164(a)(3).
 
 *Withholding tax allowance (WTA)* means the amount paid to the Federal IRS by the agency as withholding of income taxes for any taxable relocation allowance, reimbursement, or direct payment to a vendor.
+
+[FTR Amdt. 2014-01, 79 FR 49645, Aug. 21, 2014, as amended by FTR Amdt. 2020-02, 84 FR 64781, Nov. 25, 2019]

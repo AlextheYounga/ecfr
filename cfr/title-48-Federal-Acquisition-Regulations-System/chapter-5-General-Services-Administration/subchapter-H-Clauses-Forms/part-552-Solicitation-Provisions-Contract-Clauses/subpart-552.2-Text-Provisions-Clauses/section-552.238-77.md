@@ -1,5 +1,7 @@
 ##### 552.238-77 Submission and Distribution of Authorized Federal Supply Schedule (FSS) Price Lists. #####
 
+Link to an amendment published at 85 FR 1128, Jan. 9, 2020.
+
 As prescribed in 538.273(d)(1), insert the following clause:
 
 Submission and Distribution of Authorized Federal Supply Schedule (FSS) Price Lists (MAY 2019)

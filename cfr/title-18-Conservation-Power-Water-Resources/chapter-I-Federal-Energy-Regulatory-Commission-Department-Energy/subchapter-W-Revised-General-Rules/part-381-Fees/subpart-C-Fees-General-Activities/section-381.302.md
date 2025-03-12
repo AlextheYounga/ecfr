@@ -1,4 +1,6 @@
-##### § 381.302 Petition for issuance of a declaratory order (except under Part I of the Federal Power Act.) #####
+##### § 381.302 Petition for issuance of a declaratory order (except under Part I of the Federal Power Act). #####
+
+Link to an amendment published at 85 FR 1103, Jan. 9, 2020.
 
 (a) Except as provided in paragraph (b) of this section, the fee established for filing a petition for issuance of a declaratory order under § 385.207 of this chapter is $28,990. The fee must be submitted in accordance with subpart A of this part.
 

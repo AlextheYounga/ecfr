@@ -20,4 +20,4 @@
 
 (c) An option shall not be used if the market price is likely to change substantially and an economic price adjustment clause inadequately protects the Government's interest.
 
-[84 FR 3717, Feb. 13, 2019]
+[84 FR 3716, Feb. 13, 2019]

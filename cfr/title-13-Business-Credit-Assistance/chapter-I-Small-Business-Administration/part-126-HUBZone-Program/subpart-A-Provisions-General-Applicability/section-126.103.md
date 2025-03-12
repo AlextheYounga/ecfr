@@ -94,20 +94,6 @@
 
 (7) Governor-designated covered areas.
 
-*HUBZone* means a historically underutilized business zone, which is an area located within one or more:
-
-(1) Qualified census tracts;
-
-(2) Qualified non-metropolitan counties;
-
-(3) Lands within the external boundaries of an Indian reservation;
-
-(4) Qualified base closure areas;
-
-(5) Redesignated areas; or
-
-(6) Qualified disaster areas.
-
 *HUBZone small business concern or certified HUBZone small business concern* means a small business concern that meets the requirements described in § 126.200 and that SBA has certified as eligible for federal contracting assistance under the HUBZone program. A concern that was a certified HUBZone small business concern as of December 12, 2017, and that had its principal office located in a redesignated area set to expire prior to January 1, 2020, shall remain a certified HUBZone small business concern until December 31, 2021, so long as all other HUBZone eligibility requirements are met.
 
 *Indian reservation* (1) Has the same meaning as the term “Indian country” in 18 U.S.C. 1151, except that such term does not include:
@@ -194,4 +180,4 @@
 
 *Small business concern (SBC)* means a concern that, with its affiliates, meets the size standard for its primary industry, pursuant to part 121 of this chapter.
 
-[63 FR 31908, June 11, 1998, as amended at 66 FR 4645, Jan. 18, 2001; 69 FR 29421, May 24, 2004; 70 FR 51248, Aug. 30, 2005; 72 FR 50041, Aug. 30, 2007; 74 FR 45754, Sept. 4, 2009; 74 FR 56702, Nov. 3, 2009; 78 FR 61144, Oct. 2, 2013; 81 FR 51313, Aug. 4, 2016; 82 FR 48904, Oct. 23, 2017; 84 FR 65239, Nov. 26, 2019; 84 FR 62449, Nov. 15, 2019]
+[63 FR 31908, June 11, 1998, as amended at 66 FR 4645, Jan. 18, 2001; 69 FR 29421, May 24, 2004; 70 FR 51248, Aug. 30, 2005; 72 FR 50041, Aug. 30, 2007; 74 FR 45754, Sept. 4, 2009; 74 FR 56702, Nov. 3, 2009; 78 FR 61144, Oct. 2, 2013; 81 FR 51313, Aug. 4, 2016; 82 FR 48904, Oct. 23, 2017; 84 FR 62449, Nov. 15, 2019; 84 FR 65239, Nov. 26, 2019]

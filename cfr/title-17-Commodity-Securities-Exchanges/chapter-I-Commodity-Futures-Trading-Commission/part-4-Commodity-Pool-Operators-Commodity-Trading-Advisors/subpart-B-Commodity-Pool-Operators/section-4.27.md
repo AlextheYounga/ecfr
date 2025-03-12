@@ -1,6 +1,4 @@
-##### § 4.27 Additional reporting by advisors of certain large commodity pools. #####
-
-Link to an amendment published at 84 FR 67354, Dec. 10, 2019.
+##### § 4.27 Additional reporting by commodity pool operators and commodity trading advisors. #####
 
 (a) *General definitions.* For the purposes of this section:
 
@@ -16,11 +14,21 @@ Link to an amendment published at 84 FR 67354, Dec. 10, 2019.
 
 (6) *Reporting period* means the reporting period as defined in the forms promulgated hereunder;
 
-(b) *Persons required to report.* A reporting person is:
+(b) *Persons required to report.* (1) Except as provided in paragraph (b)(2) of this section, a reporting person is:
 
-(1) Any commodity pool operator that is registered or required to be registered under the Commodity Exchange Act and the Commission's regulations thereunder; or
+(i) Any commodity pool operator that is registered or required to be registered under the Commodity Exchange Act and the Commission's regulations thereunder; or
 
-(2) Any commodity trading advisor that is registered or required to be registered under the Commodity Exchange Act and the Commission's regulations thereunder.
+(ii) Any commodity trading advisor that is registered or required to be registered under the Commodity Exchange Act and the Commission's regulations thereunder.
+
+(2) The following categories of persons shall not be considered reporting persons, as that term is defined in paragraph (b)(1) of this section:
+
+(i) A commodity pool operator that is registered, but operates only pools for which it maintains an exclusion from the definition of the term “commodity pool operator” in § 4.5 and/or an exemption from registration as a commodity pool operator in § 4.13;
+
+(ii) A commodity trading advisor that is registered, but does not direct, as that term is defined in § 4.10(f), the trading of any commodity interest accounts;
+
+(iii) A commodity trading advisor that is registered, but directs only the accounts of commodity pools for which it is registered as a commodity pool operator and, though registered, complies with § 4.14(a)(4); and
+
+(iv) A commodity trading advisor that is registered, but directs only the accounts of commodity pools for which it is exempt from registration as a commodity pool operator, and though registered, complies with § 4.14(a)(5).
 
 (c) *Reporting.* (1) Except as provided in paragraph (c)(2) of this section, each reporting person shall file with the National Futures Association, a report with respect to the directed assets of each pool under the advisement of the commodity pool operator consistent with appendix A to this part or commodity trading advisor consistent with appendix C to this part.
 
@@ -40,4 +48,4 @@ Link to an amendment published at 84 FR 67354, Dec. 10, 2019.
 
 (g) *Public records.* Reports filed pursuant to this section shall not be considered Public Records as defined in § 145.0 of this chapter.
 
-[77 FR 17330, Mar. 26, 2012, as amended at 81 FR 85155, Nov. 25, 2016]
+[77 FR 17330, Mar. 26, 2012, as amended at 81 FR 85155, Nov. 25, 2016; 84 FR 67354, Dec. 10, 2019]

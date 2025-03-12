@@ -1,5 +1,7 @@
 ##### § 64.601 Definitions and provisions of general applicability. #####
 
+Link to an amendment published at 85 FR 1127, Jan. 9, 2020.
+
 (a) For purposes of this subpart, the term affiliate is defined in 47 CFR 52.12(a)(1)(i), and the terms majority and debt are defined in 47 CFR 52.12(a)(1)(ii).
 
 (b) For purposes of this subpart, all regulations and requirements applicable to common carriers shall also be applicable to providers of interconnected VoIP service.

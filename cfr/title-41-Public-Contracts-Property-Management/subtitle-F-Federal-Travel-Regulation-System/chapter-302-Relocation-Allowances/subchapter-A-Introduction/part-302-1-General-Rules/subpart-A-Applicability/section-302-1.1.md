@@ -1,12 +1,10 @@
 ##### § 302-1.1 Who is eligible for relocation expense allowances under this chapter? #####
 
-Link to an amendment published at 84 FR 64781, Nov. 25, 2019.
-
 You are generally eligible for relocation expense allowances under this chapter if you are:
 
 (a) A new appointee appointed to your first official station (as discussed in this chapter);
 
-(b) An employee transferring in the interest of the Government from one agency or duty station to another for permanent duty, and your new duty station is at least 50 miles distant from your old duty station (see § 302-2.6 of this chapter);
+(b) An employee transferring in the interest of the Government from one agency or duty station to another for permanent duty, and your new duty station meets the 50-mile distance test (see § 302-2.6 of this chapter);
 
 (c) An employee of the United States Postal Service transferred for permanent duty, under 39 U.S.C. 1006, from the Postal Service to an agency as defined in 5 U.S.C. 5721;
 
@@ -24,4 +22,4 @@ You are generally eligible for relocation expense allowances under this chapter 
 
 (j) An employee that is being assigned to a temporary duty station in connection with long-term assignment.
 
-[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001, as amended by FTR Amdt. 108, 67 FR 57968, Sept. 13, 2002; FTR Amdt. 2010-07, 75 FR 72968, Nov. 29, 2010]
+[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001, as amended by FTR Amdt. 108, 67 FR 57968, Sept. 13, 2002; FTR Amdt. 2010-07, 75 FR 72968, Nov. 29, 2010; FTR Amdt. 2020-02, 84 FR 64781, Nov. 25, 2019]
