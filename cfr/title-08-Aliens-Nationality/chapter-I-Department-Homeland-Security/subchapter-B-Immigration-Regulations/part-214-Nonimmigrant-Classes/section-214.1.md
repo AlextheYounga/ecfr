@@ -1,6 +1,6 @@
 ##### § 214.1 Requirements for admission, extension, and maintenance of status. #####
 
-(a) *General* - (1) *Nonimmigrant classes.* For the purpose of administering the nonimmigrant provisions of the Act, the following administrative subclassifications of nonimmigrant classifications as defined in section 101(a)(15) of the Act are established:
+(a) *General*—(1) *Nonimmigrant classes.* For the purpose of administering the nonimmigrant provisions of the Act, the following administrative subclassifications of nonimmigrant classifications as defined in section 101(a)(15) of the Act are established:
 
 (i) Section 101(a)(15)(B) is divided into (B)(i) for visitors for business and (B)(ii) for visitors for pleasure;
 
@@ -104,7 +104,7 @@ The classification designation V-1 is for the spouse of a lawful permanent resid
 
 (iii) At the time a nonimmigrant alien applies for admission or extension of stay, he or she must post a bond on Form I-352 in the sum of not less than $500, to ensure the maintenance of his or her nonimmigrant status and departure from the United States, if required to do so by the Commissioner of CBP, the Director of U.S. Citizenship and Immigration Services, an immigration judge, or the Board of Immigration Appeals.
 
-(b) *Readmission of nonimmigrants under section 101(a)(15) (F), (J), (M), or (Q)(ii) to complete unexpired periods of previous admission or extension of stay* - (1) *Section 101(a)(15)(F).* The inspecting immigration officer shall readmit for duration of status as defined in § 214.2(f)(5)(i), any nonimmigrant alien whose nonimmigrant visa is considered automatically revalidated pursuant to 22 CFR 41.112(d) and who is applying for readmission under section 101(a)(15)(F) of the Act, if the alien:
+(b) *Readmission of nonimmigrants under section 101(a)(15) (F), (J), (M), or (Q)(ii) to complete unexpired periods of previous admission or extension of stay*—(1) *Section 101(a)(15)(F).* The inspecting immigration officer shall readmit for duration of status as defined in § 214.2(f)(5)(i), any nonimmigrant alien whose nonimmigrant visa is considered automatically revalidated pursuant to 22 CFR 41.112(d) and who is applying for readmission under section 101(a)(15)(F) of the Act, if the alien:
 
 (i) Is admissible;
 
@@ -126,7 +126,7 @@ The classification designation V-1 is for the spouse of a lawful permanent resid
 
 (iii) Is in possession of a valid passport unless exempt from the requirement for the presentation of a passport; and
 
-(iv) Presents, or is the accompanying spouse or child of an alien who presents, Form I-94 issued to the alien in connection with the previous admission or stay or the last Form DS-“2019 issued to the alien. Form I-94 or Form IAP-66 must show the unexpired period of the alien's stay properly endorsed.
+(iv) Presents, or is the accompanying spouse or child of an alien who presents, Form I-94 issued to the alien in connection with the previous admission or stay or the last Form DS-2019 issued to the alien. Form I-94 or Form DS-2019 must show the unexpired period of the alien's stay properly endorsed.
 
 (3) *Section 101(a)(15)(M).* The inspecting immigration officer shall readmit for the unexpired period of stay authorized prior to the alien's departure, any nonimmigrant alien whose nonimmigrant visa is considered automatically revalidated pursuant to 22 CFR 41.112(d) and who is applying for readmission under section 101(a)(15)(M) of the Act, if the alien:
 
@@ -148,7 +148,7 @@ The classification designation V-1 is for the spouse of a lawful permanent resid
 
 (iv) Presents, or is the accompanying spouse or child of an alien who presents, an Arrival-Departure Record, Form I-94, issued to the alien in connection with the previous admission or stay. The principal alien must also present a Certification Letter issued by the Department of State's Program Administrator.
 
-(c) *Extensions of stay* - (1) *Extension of stay for certain employment-based nonimmigrant workers.* A petitioner seeking the services of an E-1, E-2, E-3, H-1B, H-1B1, H-2A, H-2B, H-3, L-1, O-1, O-2, P-1, P-2, P-3, Q-1, R-1, or TN nonimmigrant beyond the period previously granted, must apply for an extension of stay on the form designated by USCIS, with the fee prescribed in 8 CFR 106.2, with the initial evidence specified in § 214.2, and in accordance with the form instructions. Dependents holding derivative status may be included in the petition if it is for only one worker and the form version specifically provides for their inclusion. In all other cases dependents of the worker should file on Form I-539.
+(c) *Extensions of stay*—(1) *Extension of stay for certain employment-based nonimmigrant workers.* A petitioner seeking the services of an E-1, E-2, E-3, H-1B, H-1B1, H-2A, H-2B, H-3, L-1, O-1, O-2, P-1, P-2, P-3, Q-1, R-1, or TN nonimmigrant beyond the period previously granted, must apply for an extension of stay on the form designated by USCIS, with the fee prescribed in 8 CFR 106.2, with the initial evidence specified in § 214.2, and in accordance with the form instructions. Dependents holding derivative status may be included in the petition if it is for only one worker and the form version specifically provides for their inclusion. In all other cases dependents of the worker should file on Form I-539.
 
 (2) *Filing on Form I-539.* Any other nonimmigrant alien, except an alien in F or J status who has been granted duration of status, who seeks to extend his or her stay beyond the currently authorized period of admission, must apply for an extension of stay on Form I-539 with the fee required in 8 CFR 106.2 together with any initial evidence specified in the applicable provisions of § 214.2, and on the application form. More than one person may be included in an application where the co-applicants are all members of a single family group and either all hold the same nonimmigrant status or one holds a nonimmigrant status and the other co-applicants are his or her spouse and/or children who hold derivative nonimmigrant status based on his or her status. Extensions granted to members of a family group must be for the same period of time. The shortest period granted to any member of the family shall be granted to all members of the family. In order to be eligible for an extension of stay, nonimmigrant aliens in K-3/K-4 status must do so in accordance with § 214.2(k)(10).
 

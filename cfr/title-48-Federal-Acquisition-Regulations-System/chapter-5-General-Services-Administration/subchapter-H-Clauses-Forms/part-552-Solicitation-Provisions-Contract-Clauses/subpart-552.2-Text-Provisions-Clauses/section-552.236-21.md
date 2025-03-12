@@ -28,7 +28,7 @@ The requirements of the clause entitled “Specifications and Drawings for Const
 
 (End of clause)
 
-*Alternate I* (MAR 2019). As prescribed in 536.521, add the following paragraph to the basic clause:
+*Alternate I* (DEC 2022). As prescribed in 536.521, add the following paragraph to the basic clause:
 
 (h) For the purposes of this clause, specifications and drawings refer only to those included among the contract documents, and not to those produced by the Contractor pursuant to its responsibilities under the contract.
 
@@ -36,4 +36,4 @@ The requirements of the clause entitled “Specifications and Drawings for Const
 
 (h) For the purposes of this clause, specifications and drawings refer only to the construction documents, meaning the 100 percent complete specifications and construction drawings developed during the design phase.
 
-[84 FR 3720, Feb. 13, 2019, as amended at 84 FR 69636, Dec. 19, 2019]
+[84 FR 3720, Feb. 13, 2019, as amended at 84 FR 69636, Dec. 19, 2019; 87 FR 76584, Dec. 15, 2022]

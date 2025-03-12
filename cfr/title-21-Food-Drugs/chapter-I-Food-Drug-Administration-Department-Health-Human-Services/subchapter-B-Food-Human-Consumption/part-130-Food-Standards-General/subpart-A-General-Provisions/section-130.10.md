@@ -1,5 +1,7 @@
 ##### § 130.10 Requirements for foods named by use of a nutrient content claim and a standardized term. #####
 
+Link to an amendment published at 87 FR 76568, Dec. 15, 2022.
+
 (a) *Description.* The foods prescribed by this general definition and standard of identity are those foods that substitute (see § 101.13(d) of this chapter) for a standardized food defined in parts 131 through 169 of this chapter and that use the name of that standardized food in their statement of identity but that do not comply with the standard of identity because of a deviation that is described by an expressed nutrient content claim that has been defined by FDA regulation. The nutrient content claim shall comply with the requirements of § 101.13 of this chapter and with the requirements of the regulations in part 101 of this chapter that define the particular nutrient content claim that is used. The food shall comply with the relevant standard in all other respects except as provided in paragraphs (b), (c), and (d) of this section.
 
 (b) *Nutrient addition.* (1) Nutrients shall be added to the food to restore nutrient levels so that the product is not nutritionally inferior, as defined in § 101.3(e)(4) of this chapter, to the standardized food as defined in parts 131 through 169 of this chapter. The addition of nutrients shall be reflected in the ingredient statement.

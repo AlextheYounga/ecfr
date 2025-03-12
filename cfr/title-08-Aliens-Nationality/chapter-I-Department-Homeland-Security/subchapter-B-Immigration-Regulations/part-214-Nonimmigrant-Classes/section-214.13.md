@@ -18,9 +18,9 @@
 
 (d) *Time for payment of SEVIS fee.* An alien who is subject to payment of the SEVIS fee must remit the fee directly to DHS as follows:
 
-(1) An alien seeking an F-1, F-3, J-1, M-1, or M-3 visa from a consular officer abroad for initial attendance at a an SEVP-certified school or to commence participation in a Department of State-designated exchange visitor program, must pay the fee to DHS before issuance of the visa.
+(1) An alien seeking an F-1, F-3, J-1, M-1, or M-3 visa from a consular officer abroad for initial attendance at an SEVP-certified school or to commence participation in a Department of State-designated exchange visitor program, must pay the fee to DHS before issuance of the visa.
 
-(2) An alien who is exempt from the visa requirement described in section 212(d)(4) of the Act must pay the fee to DHS before the alien applies for admission at a U.S. port-of-entry to begin initial attendance at a an SEVP-certified school or initial participation in a Department of State-designated exchange visitor program.
+(2) An alien who is exempt from the visa requirement described in section 212(d)(4) of the Act must pay the fee to DHS before the alien applies for admission at a U.S. port-of-entry to begin initial attendance at an SEVP-certified school or initial participation in a Department of State-designated exchange visitor program.
 
 (3) A nonimmigrant alien in the United States seeking a change of status to F-1, F-3, J-1, M-1, or M-3 must pay the fee to DHS before the alien is granted the change of nonimmigrant status, except as provided in paragraph (e)(4) of this section.
 
@@ -64,7 +64,7 @@
 
 (f) [Reserved]
 
-(g) *Procedures for payment of the SEVIS fee* - (1) *Options for payment.* An alien subject to payment of a fee under this section may pay the fee by any procedure approved by DHS, including:
+(g) *Procedures for payment of the SEVIS fee*—(1) *Options for payment.* An alien subject to payment of a fee under this section may pay the fee by any procedure approved by DHS, including:
 
 (i) Submission of Form I-901, to DHS by mail, along with the proper fee paid by check, money order, or foreign draft drawn on a financial institution in the United States and payable in United States currency, as provided by 8 CFR 103.7(d)(8);
 

@@ -2,7 +2,7 @@
 
 (a) *In general. Minimum essential coverage* means coverage under a government-sponsored program (described in paragraph (b) of this section), an eligible employer-sponsored plan (described in paragraph (c) of this section), a plan in the individual market (described in paragraph (d) of this section), a grandfathered health plan (described in paragraph (e) of this section), or other health benefits coverage (described in paragraph (f) of this section). Minimum essential coverage does not include coverage described in paragraph (g) of this section. All terms defined in this section apply for purposes of this section and § 1.5000A-1 and §§ 1.5000A-3 through 1.5000A-5.
 
-(b) *Government-sponsored program* - (1) *In general.* Except as provided in paragraph (2), *government-sponsored program* means any of the following:
+(b) *Government-sponsored program*—(1) *In general.* Except as provided in paragraph (2), *government-sponsored program* means any of the following:
 
 (i) *Medicare.* The Medicare program under part A of Title XVIII of the Social Security Act (42 U.S.C. 1395c and following sections);
 
@@ -38,13 +38,15 @@
 
 (vi) Coverage authorized under section 1115(a) of the Social Security Act (42 U.S.C. 1315(a));
 
-(vii) Coverage under section 1079(a), 1086(c)(1), or 1086(d)(1) of title 10, U.S.C., that is solely limited to space available care in a facility of the uniformed services for individuals excluded from TRICARE coverage for care from private sector providers; and
+(vii) Coverage under 10 U.S.C. 1079(a), 1086(c)(1), or 1086(d)(1) that is solely limited to space available care in a facility of the uniformed services for individuals excluded from TRICARE coverage for care from private sector providers;
 
-(viii) Coverage under sections 1074a and 1074b of title 10, U.S.C., for an injury, illness, or disease incurred or aggravated in the line of duty for individuals who are not on active duty.
+(viii) Coverage under 10 U.S.C. 1074a and 1074b for an injury, illness, or disease incurred or aggravated in the line of duty for individuals who are not on active duty; and
 
-(c) *Eligible employer-sponsored plan* - (1) *In general. Eligible employer-sponsored plan* means, with respect to any employee:
+(ix) Medicaid coverage limited to COVID-19 testing and diagnostic services provided under section 6004(a)(3) of the Families First Coronavirus Response Act, Pub. L. 116-127, 134 Stat. 178 (March 18, 2020).
 
-(i) Group health insurance coverage offered by, or on behalf of, an employer to the employee that is -
+(c) *Eligible employer-sponsored plan*—(1) *In general. Eligible employer-sponsored plan* means, with respect to any employee:
+
+(i) Group health insurance coverage offered by, or on behalf of, an employer to the employee that is—
 
 (A) A governmental plan (within the meaning of section 2791(d)(8) of the Public Health Service Act (42 U.S.C. 300gg-91(d)(8)));
 
@@ -56,7 +58,7 @@
 
 (2) *Government-sponsored program generally not an eligible employer-sponsored plan.* Except for the program identified in paragraph (b)(1)(vii) of this section, a government-sponsored program described in paragraph (b) of this section is not an eligible employer-sponsored plan.
 
-(d) *Plan in the individual market* - (1) *In general. Plan in the individual market* means health insurance coverage offered to individuals in the individual market within a state, other than short-term limited duration insurance within the meaning of section 2791(b)(5) of the Public Health Service Act (42 U.S.C. 300gg-91(b)(5)).
+(d) *Plan in the individual market*—(1) *In general. Plan in the individual market* means health insurance coverage offered to individuals in the individual market within a state, other than short-term limited duration insurance within the meaning of section 2791(b)(5) of the Public Health Service Act (42 U.S.C. 300gg-91(b)(5)).
 
 (2) *Qualified health plan offered by an Exchange.* A qualified health plan offered by an Exchange is a plan in the individual market. If a territory of the United States elects to establish an Exchange under section 1323(a)(1) and (b) of the Affordable Care Act (42 U.S.C. 18043(a)(1), (b)), a qualified health plan offered by that Exchange is a plan in the individual market.
 
@@ -66,4 +68,4 @@
 
 (g) *Excepted benefits not minimum essential coverage.* Minimum essential coverage does not include any coverage that consists solely of excepted benefits described in section 2791(c)(1), (c)(2), (c)(3), or (c)(4) of the Public Health Service Act (42 U.S.C. 300gg-91(c)).
 
-[T.D. 9632, 78 FR 53655, Aug. 30, 2013, as amended at 78 FR 78255, Dec. 26, 2013; T.D. 9705, 79 FR 70469, Nov. 26, 2014]
+[T.D. 9632, 78 FR 53655, Aug. 30, 2013, as amended at 78 FR 78255, Dec. 26, 2013; T.D. 9705, 79 FR 70469, Nov. 26, 2014; T.D. 9970, 87 FR 76575, Dec. 15, 2022]

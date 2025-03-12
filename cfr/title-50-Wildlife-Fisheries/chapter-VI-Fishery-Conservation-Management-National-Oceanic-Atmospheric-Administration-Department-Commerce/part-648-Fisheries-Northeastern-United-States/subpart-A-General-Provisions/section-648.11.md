@@ -338,6 +338,10 @@ Link to an amendment published at 87 FR 75877, Dec. 9, 2022.
 
 (vi) Perform periodic review of monitoring program for effectiveness.
 
+(5) *Sector monitoring coverage levels.* (i) through (ii) [Reserved]
+
+(iii) *Geographic exclusion from the at-sea monitoring program.* Vessels fishing exclusively west of 71°30′ W Longitude on a sector trip are excluded from the requirement to carry an at-sea monitor. Vessels on a trip excluded from the at-sea monitoring requirement under this paragraph (l)(5)(iii) must comply with the VMS declaration requirements at § 648.10(g)(3), and the transiting requirements at § 648.81(e) when east of 71°30′ W Longitude. Vessels using electronic monitoring to satisfy the sector monitoring requirement in this section must have their system turned on and comply with their vessel monitoring plan on all trips, including trips fishing exclusively west of 71°30′ W Longitude.
+
 (m) *Atlantic herring monitoring coverage* - (1) *Monitoring requirements.* (i) In addition to the requirement for any vessel holding an Atlantic herring permit to carry a NMFS-certified observer described in paragraph (a) of this section, vessels issued a Category A or B Herring Permit are subject to industry-funded monitoring (IFM) requirements on declared Atlantic herring trips, unless the vessel is carrying a NMFS-certified observer to fulfill Standard Bycatch Reporting Methodology requirements. An owner of a midwater trawl vessel, required to carry a NMFS-certified observer when fishing in Northeast Multispecies Closed Areas at § 648.202(b), may purchase an IFM high volume fisheries (HVF) observer to access Closed Areas on a trip-by-trip basis. General requirements for IFM programs in New England Council FMPs are specified in paragraph (g) of this section. Possible IFM monitoring for the Atlantic herring fishery includes NMFS-certified observers, at-sea monitors, and electronic monitoring and portside samplers, as defined in § 648.2.
 
 (A) IFM HVF observers shall collect the following information:
@@ -488,4 +492,4 @@ Link to an amendment published at 87 FR 75877, Dec. 9, 2022.
 
 (iv) If catch is slipped by a vessel issued a limited access Atlantic mackerel permit for any reason not described in paragraph (n)(3)(i) of this section, the vessel operator must immediately terminate the trip and return to port. No fishing activity may occur during the return to port.
 
-[85 FR 7431, Feb. 7, 2020, as amended at 85 FR 26882, May 6, 2020; 85 FR 43152, July 15, 2020; 85 FR 47112, Aug. 4, 2020; 86 FR 1823, Jan. 11, 2021; 87 FR 18283, Mar. 30, 2022; 87 FR 54909, Sept. 8, 2022]
+[85 FR 7431, Feb. 7, 2020, as amended at 85 FR 26882, May 6, 2020; 85 FR 43152, July 15, 2020; 85 FR 47112, Aug. 4, 2020; 86 FR 1823, Jan. 11, 2021; 87 FR 18283, Mar. 30, 2022; 87 FR 54909, Sept. 8, 2022; 87 FR 75877, Dec. 9, 2022]

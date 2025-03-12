@@ -1,5 +1,7 @@
 ##### § 131.200 Yogurt. #####
 
+Link to an amendment published at 87 FR 76568, Dec. 15, 2022.
+
 (a) *Description.* Yogurt is the food produced by culturing one or more of the basic dairy ingredients specified in paragraph (b) of this section and any of the optional dairy ingredients specified in paragraph (c) of this section with a characterizing bacterial culture that contains the lactic acid-producing bacteria, *Lactobacillus delbrueckii* subsp. *bulgaricus* and *Streptococcus thermophilus.* The ingredients specified in paragraphs (b) and (c) of this section may be homogenized and must be pasteurized or ultra-pasteurized before the addition of the characterizing bacterial culture. One or more of the other optional ingredients specified in paragraph (d) of this section may also be added. Yogurt, before the addition of bulky flavoring ingredients, contains not less than 3.25 percent milkfat and not less than 8.25 percent milk solids not fat and has either a titratable acidity of not less than 0.7 percent, expressed as lactic acid, or a pH of 4.6 or lower. To extend the shelf life of the food, yogurt may be treated after culturing to inactivate viable microorganisms.
 
 (b) *Basic dairy ingredients.* Cream, milk, partially skimmed milk, skim milk, or the reconstituted versions of these ingredients may be used alone or in combination.

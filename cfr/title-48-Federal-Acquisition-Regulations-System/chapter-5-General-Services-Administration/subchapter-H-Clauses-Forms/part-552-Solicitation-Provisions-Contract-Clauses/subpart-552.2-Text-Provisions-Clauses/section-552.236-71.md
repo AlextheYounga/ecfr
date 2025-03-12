@@ -20,7 +20,7 @@ Contractor Responsibilities (MAR 2019)
 
 (End of clause)
 
-*Alternate I* (MAR 2019). As prescribed in 536.571, substitute the following paragraphs (d), (e), (f), and (g) for paragraphs (d), (e), (f), and (g) of the basic clause:
+*Alternate I* (DEC 2022). As prescribed in 536.571(a), substitute the following paragraphs (d), (e), (f), and (g) for paragraphs (d), (e), (f), and (g) of the basic clause:
 
 (d) The Contractor shall be responsible for providing professional design services unless this responsibility is expressly excluded from the contract. In the performance of such work, the Contractor shall be responsible for retaining licensed design professionals, who shall sign and seal all drawings, calculations, specifications and other submittals that the licensed professional prepares. The Contractor shall be responsible for, and GSA shall be entitled to rely upon, the adequacy and completeness of all professional design services provided under the contract.
 
@@ -46,4 +46,4 @@ Contractor Responsibilities (MAR 2019)
 
 (j) The Contractor is responsible to construct the project in accordance with the drawings and specifications. The final Estimated Cost of the Construction Work (ECW) may be determined based upon incomplete design documents. In those instances in which the drawings and specifications are not complete at the time the final ECW is established, the Contractor shall exercise reasonable care and judgment to determine the intent of the design and shall calculate the final ECW on the basis of the quality of construction, materials, and finishes that can be reasonably inferred from the design documents or other specified sources.
 
-[84 FR 3722, Feb. 13, 2019, as amended at 84 FR 69636, Dec. 19, 2019; 86 FR 55524, Oct. 6, 2021]
+[84 FR 3722, Feb. 13, 2019, as amended at 84 FR 69636, Dec. 19, 2019; 86 FR 55524, Oct. 6, 2021; 87 FR 76584, Dec. 15, 2022]
