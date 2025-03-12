@@ -1,5 +1,7 @@
 ##### 25.504-4 Group award basis. #####
 
+Link to an amendment published at 86 FR 6188, Jan. 19, 2021.
+
 (a) *Example 1.*
 
 |Item|   Offers   |            |             |

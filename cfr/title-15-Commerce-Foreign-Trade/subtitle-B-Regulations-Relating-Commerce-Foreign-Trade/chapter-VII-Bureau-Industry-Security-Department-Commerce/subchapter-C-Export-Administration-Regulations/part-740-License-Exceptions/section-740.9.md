@@ -12,7 +12,7 @@ This License Exception authorizes various temporary exports and reexports; expor
 
 (iii) Use of personal firewalls on electronic devices that store the software authorized under this license exception.
 
-(2) *Sudan.* Notwithstanding the exclusion of destinations in Country Group E:1 in paragraphs (a)(1) and (3) of this section, items listed in § 740.19(b) of the EAR may be exported or reexported as tools of trade to Sudan. All other requirements and limitations of this paragraph (a) apply to such exports and reexports.
+(2) [Reserved]
 
 (3) “Technology,” regardless of media or format, may be exported, reexported, or transferred (in-country) by or to a U.S. person, or a foreign person employee of a U.S. person traveling or on temporary assignment abroad, subject to the following restrictions:
 
@@ -40,7 +40,7 @@ This License Exception authorizes various temporary exports and reexports; expor
 
 (8) *Assembly in Mexico.* Commodities may be exported to Mexico under Customs entries that require return to the United States after processing, assembly, or incorporation into end products by companies, factories, or facilities participating in Mexico's in-bond industrialization program (IMMEX) under this paragraph (a)(8), provided that all resulting end-products (or the commodities themselves) are returned to the United States as soon as practicable but no later than four years after the date of export or reexport.
 
-(9) *News media.* (i) Commodities necessary for news-gathering purposes (and software necessary to use such commodities) may be temporarily exported or reexported for accredited news media personnel (i.e., persons with credentials from a news-gathering or reporting firm) to Cuba, North Korea, Sudan, or Syria (see supplement no. 1 to part 740) if the commodities:
+(9) *News media.* (i) Commodities necessary for news-gathering purposes (and software necessary to use such commodities) may be temporarily exported or reexported for accredited news media personnel (i.e., persons with credentials from a news-gathering or reporting firm) to Cuba, North Korea, or Syria (see supplement no. 1 to part 740) if the commodities:
 
 (A) Are retained under “effective control” of the exporting news-gathering firm in the country of destination;
 
@@ -150,7 +150,7 @@ A shipment originating in Canada or Mexico that incidentally transits the United
 
 (c) *Exports of beta test software* - (1) *Scope.* The provisions of this paragraph (c) authorize exports and reexports to eligible countries of beta test software intended for distribution to the general public.
 
-(2) *Eligible countries.* Encryption software controlled under ECCN 5D002 is not eligible for export or reexport to a country in Country Group E:1 under the provisions of this paragraph (c). All other beta test software is eligible for export or reexport to all destinations, except Cuba, Iran, and Sudan under the provisions of this paragraph (c).
+(2) *Eligible countries.* Encryption software controlled under ECCN 5D002 is not eligible for export or reexport to a country in Country Group E:1 under the provisions of this paragraph (c). All other beta test software is eligible for export or reexport to all destinations, except Cuba, and Iran under the provisions of this paragraph (c).
 
 (3) *Eligible software.* All software that is controlled by the Commerce Control List (supplement no.1 to part 774 of the EAR), and under Commerce licensing jurisdiction, is eligible for export and reexport, subject to the restrictions of this paragraph (c). Encryption software controlled for “EI” reasons under ECCN 5D002 is eligible for export and reexport under this paragraph (c), provided that the exporter has submitted the information described in paragraph (c)(8) of this section by the time of export. Final encryption products produced by the testing consignee are subject to any applicable provisions in § 742.15(b) of the EAR (for mass market encryption commodities and software with symmetric key length exceeding 64-bits) or § 740.17 of the EAR (License Exception ENC), including review and reporting requirements.
 

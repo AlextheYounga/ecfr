@@ -1,8 +1,6 @@
 ##### § 5400.0-3 Authority. #####
 
-Link to an amendment published at 85 FR 82373, Dec. 18, 2020.
-
-(a) The Act of August 28, 1937 (43 U.S.C. 1181a) authorizes the sale of timber from the Revested Oregon and California Railroad and Reconveyed Coos Bay Wagon Road Grant Lands and directs that such lands shall be managed for permanent forest production and the timber thereon sold, cut and removed in conformity with the principle of sustained yield for the purpose of providing a permanent source of timber supply, protecting watersheds, regulating streamflow and contributing to the economic stability of local communities and industries, and providing recreational facilities.
+(a) The Act of August 28, 1937 (43 U.S.C. 2601) authorizes the sale of timber from the Revested Oregon and California Railroad and Reconveyed Coos Bay Wagon Road Grant Lands and directs that such lands shall be managed for permanent forest production and the timber thereon sold, cut, and removed in conformity with the principle of sustained yield for the purpose of providing a permanent source of timber supply, protecting watersheds, regulating streamflow and contributing to the economic stability of local communities and industries, and providing recreational facilities.
 
 (b) The Act of July 31, 1947, as amended (30 U.S.C. 601 *et seq.*) authorizes the disposal of timber and other vegetative resources on public lands of the United States including lands embraced within an unpatented mining claim located after July 23, 1955, if the disposal of such resources is not otherwise expressly authorized by law including, but not limited to, the Act of June 28, 1934, as amended (43 U.S.C. 315 through 315o-1) and the U.S. mining laws; is not expressly prohibited by laws of the United States; and would not be detrimental to the public interest.
 
@@ -12,10 +10,10 @@ Link to an amendment published at 85 FR 82373, Dec. 18, 2020.
 
 (3) The provisions of the Act in disposal of vegetative or mineral materials do not apply to lands in any national park, or national monument or to any Indian lands or lands set aside or held for the use or benefit of Indians including lands over which jurisdiction has been transferred to the Department of the Interior by Executive order for the use of Indians.
 
-(c) The Department of the Interior and Related Agencies Appropriation Act, 1976 (Pub. L. 94-165) prohibits the use of funds appropriated thereunder for sale of unprocessed timber from Federal lands west of the 100th meridian in the contiguous 48 States which will be exported from the United States, or which will be used as a substitute for timber from private lands which is exported by the purchaser. The law also provides that the export restriction shall not apply to specific quantities of grades and species of timber which the Secretary of the Interior determines to be surplus to domestic lumber and plywood manufacturing needs.
+(c) Public Law 101-382 (104 Stat. 714) Forest Resources Conservation and Shortage Relief Act of 1990 (16 U.S.C. 620) restrictions on exports of unprocessed timber originating from Federal lands.
 
 (d) Authority for small sales of timber for use in Alaska is contained in the Act of May 14, 1898, as amended (16 U.S.C. 615a).
 
 (e) Authority to enforce the provisions of this title is contained in the Federal Land Policy and Management Act of 1976, as amended (43 U.S.C. 1701 *et seq.).*
 
-[37 FR 22797, Oct. 25, 1972, as amended at 41 FR 12659, Mar. 26, 1976; 56 FR 10174, Mar. 11, 1991]
+[37 FR 22797, Oct. 25, 1972, as amended at 41 FR 12659, Mar. 26, 1976; 56 FR 10174, Mar. 11, 1991; 85 FR 82373, Dec. 18, 2020]

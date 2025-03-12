@@ -1,7 +1,5 @@
 ##### § 76.10 Review. #####
 
-Link to an amendment published at 85 FR 81812, Dec. 17, 2020.
-
 (a) *Interlocutory review.* (1) Except as provided below, no party may seek review of interlocutory rulings until a decision on the merits has been issued by the staff or administrative law judge.
 
 (2) Rulings listed in this paragraph are reviewable as a matter of right. An application for review of such ruling may not be deferred and raised as an exception to a decision on the merits.
@@ -16,6 +14,6 @@ Link to an amendment published at 85 FR 81812, Dec. 17, 2020.
 
 (c) *Application for review.* (1) Any party to a part 76 proceeding aggrieved by any decision on the merits issued by the staff pursuant to delegated authority may file an application for review by the Commission in accordance with § 1.115 of this chapter.
 
-(2) Any party to a part 76 proceeding aggrieved by any decision on the merits by an administrative law judge may file an appeal of the decision directly with the Commission, in accordance with §§ 1.276(a) and 1.277(a) through (c) of this chapter, except that in proceedings brought pursuant to §§ 76.1003, 76.1302, and 76.1513 of this part, unless a stay is granted by the Commission, the decision by the administrative law judge will become effective upon release and will remain in effect pending appeal.
+(2) Any party to a proceeding under this part aggrieved by any decision on the merits by an administrative law judge may file an appeal of the decision directly with the Commission, in accordance with §§ 1.276(a) and 1.277(a) through (c) of this chapter.
 
-[64 FR 6571, Feb. 10, 1999]
+[64 FR 6571, Feb. 10, 1999, as amended at 85 FR 81812, Dec. 17, 2020]

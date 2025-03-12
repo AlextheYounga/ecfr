@@ -1,5 +1,7 @@
 ##### § 460.96 Excluded services. #####
 
+Link to an amendment published at 86 FR 6132, Jan. 19, 2021.
+
 The following services are excluded from coverage under PACE:
 
 (a) Any service that is not authorized by the interdisciplinary team, even if it is a required service, unless it is an emergency service.

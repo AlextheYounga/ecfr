@@ -1,0 +1,3 @@
+##### § 219.3 Permissible methods of taking. #####
+
+Under LOAs issued pursuant to §§ 216.106 of this chapter and 219.7, the Holder of the LOA (hereinafter “SWFSC”) may incidentally, but not intentionally, take marine mammals within the area described in § 219.1(b) by Level B harassment associated with use of active acoustic systems and physical or visual disturbance of hauled-out pinnipeds and by Level A harassment, serious injury, or mortality associated with use of fisheries research gear, provided the activity is in compliance with all terms, conditions, and requirements of the regulations in this subpart and the appropriate LOA.

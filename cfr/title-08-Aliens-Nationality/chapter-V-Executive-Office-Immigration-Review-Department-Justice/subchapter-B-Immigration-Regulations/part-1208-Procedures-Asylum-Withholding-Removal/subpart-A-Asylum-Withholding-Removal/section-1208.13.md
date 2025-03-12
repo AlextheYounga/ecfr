@@ -1,6 +1,6 @@
 ##### § 1208.13 Establishing asylum eligibility. #####
 
-Link to an amendment published at 85 FR 82289, Dec. 17, 2020.Link to an amendment published at 85 FR 84196, Dec. 23, 2020.
+Link to an amendment published at 85 FR 84196, Dec. 23, 2020.
 
 (a) *Burden of proof.* The burden of proof is on the applicant for asylum to establish that he or she is a refugee as defined in section 101(a)(42) of the Act. The testimony of the applicant, if credible, may be sufficient to sustain the burden of proof without corroboration. The fact that the applicant previously established a credible fear of persecution for purposes of section 235(b)(1)(B) of the Act does not relieve the alien of the additional burden of establishing eligibility for asylum.
 
@@ -70,11 +70,11 @@ Link to an amendment published at 85 FR 82289, Dec. 17, 2020.Link to an amendmen
 
 (4) *Additional limitation on eligibility for asylum.* Notwithstanding the provisions of 8 CFR 208.15, any alien who enters, attempts to enter, or arrives in the United States across the southern land border on or after July 16, 2019, after transiting through at least one country outside the alien's country of citizenship, nationality, or last lawful habitual residence en route to the United States, shall be found ineligible for asylum unless:
 
-(i) The alien demonstrates that he or she applied for protection from persecution or torture in at least one country outside the alien's country of citizenship, nationality, or last lawful habitual residence through which the alien transited en route to the United States and the alien received a final judgment denying the alien protection in such country;
+(i) The alien demonstrates that he or she applied for protection from persecution in at least one country outside the alien's country of citizenship, nationality, or last lawful habitual residence through which the alien transited en route to the United States and the alien received a final judgment denying the alien protection in such country.
 
 (ii) The alien demonstrates that he or she satisfies the definition of “victim of a severe form of trafficking in persons” provided in 8 CFR 214.11; or
 
-(iii) The only country or countries through which the alien transited en route to the United States were, at the time of the transit, not parties to the 1951 United Nations Convention relating to the Status of Refugees, the 1967 Protocol, or the United Nations Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment.
+(iii) The only country or countries through which the alien transited en route to the United States were, at the time of the transit, not parties to the 1951 United Nations Convention relating to the Status of Refugees or the 1967 Protocol relating to the Status of Refugees.
 
 (5) *Non-binding determinations.* Determinations made with respect to paragraph (c)(4)(ii) of this section are not binding on Federal departments or agencies in subsequent determinations of eligibility for T or U nonimmigrant status under section 101(a)(15)(T) or (U) of the Act or for benefits or services under 22 U.S.C. 7105 or 8 U.S.C. 1641(c)(4).
 
@@ -220,4 +220,4 @@ Link to an amendment published at 85 FR 82289, Dec. 17, 2020.Link to an amendmen
 
 (2) Notwithstanding any other provision of this part, upon his or her own authority, an immigration judge shall, if warranted by the record, pretermit and deny any application for asylum, withholding of removal under section 241(b)(3) of the Act, or protection under the regulations issued pursuant to the Convention Against Torture's implementing legislation if the alien has not established a prima facie claim for relief or protection under applicable law, provided that the immigration judge shall give the parties at least 10 days' notice prior to entering such an order. An immigration judge need not conduct a hearing prior to pretermitting and denying an application under this paragraph (e)(2) but must consider any filings by the parties within the 10-day period before making a decision.
 
-[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 65 FR 76133, Dec. 6, 2000; 83 FR 55952, Nov. 9, 2018; 84 FR 33844, July 16, 2019; 85 FR 67259, Oct. 21, 2020; 85 FR 80396, Dec. 11, 2020]
+[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 65 FR 76133, Dec. 6, 2000; 83 FR 55952, Nov. 9, 2018; 84 FR 33844, July 16, 2019; 85 FR 67259, Oct. 21, 2020; 85 FR 80396, Dec. 11, 2020; 85 FR 82289, Dec. 17, 2020]Editorial Note:At 85 FR 82289, Dec. 17, 2020, § 1208.13 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.

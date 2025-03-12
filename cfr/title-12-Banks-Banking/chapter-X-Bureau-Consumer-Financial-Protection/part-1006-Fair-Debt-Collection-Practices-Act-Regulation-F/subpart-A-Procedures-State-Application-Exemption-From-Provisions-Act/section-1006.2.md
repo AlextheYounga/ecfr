@@ -1,3 +1,5 @@
 ##### § 1006.2 Application. #####
 
+Link to an amendment published at 86 FR 5853, Jan. 19, 2021.
+
 Any state may apply to the Bureau pursuant to the terms of this part for a determination that, under the laws of that state, any class of debt collection practices within that state is subject to requirements that are substantially similar to, or provide greater protection for consumers than, those imposed under sections 803 through 812 of the Act, and that there is adequate provision for state enforcement of such requirements. The application shall be in writing, addressed to the Bureau, signed by the Governor, Attorney General or state official having primary enforcement or responsibility under the state law which is applicable to the class of debt collection practices, and shall be supported by the documents specified in this subpart.

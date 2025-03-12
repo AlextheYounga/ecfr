@@ -1,5 +1,5 @@
-##### § 49.4263-4 Members of the armed forces. #####
+##### § 49.4263-4 Cross reference. #####
 
-The tax imposed by section 4261 does not apply to amounts paid for transportation or for seating or sleeping accommodations furnished under special tariffs providing for fares of not more than 2.5 cents per mile applicable to round-trip tickets sold to personnel of the United States Army, Air Force, Navy, Marine Corps, and Coast Guard, including authorized cadets and midshipmen, traveling in uniform of the United States at their own expense when on official leave, furlough, or pass. A person claiming exemption under this section will be required to exhibit to the agent of the carrier a properly executed certificate to show that he is traveling on official leave, furlough, or pass, but the submission of an exemption certificate on Form 731 is not necessary in such case.
+For the rules applicable under section 4263(d) see § 49.4261-4 relating to payments made within the United States.
 
-[T.D. 6430, 24 FR 9665, Dec. 3, 1959. Redesignated by T.D. 6618, 27 FR 11226, Nov. 14, 1962]
+[T.D. 6430, 24 FR 9665, Dec. 3, 1959. Redesignated and amended by T.D. 9948, 86 FR 5007, Jan. 19, 2021]

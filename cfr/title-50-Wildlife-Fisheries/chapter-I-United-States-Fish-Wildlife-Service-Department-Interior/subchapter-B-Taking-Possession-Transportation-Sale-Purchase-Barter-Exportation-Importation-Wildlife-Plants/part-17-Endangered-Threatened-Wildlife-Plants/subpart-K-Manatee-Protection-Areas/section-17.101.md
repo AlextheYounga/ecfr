@@ -1,0 +1,3 @@
+##### § 17.101 Scope. #####
+
+This subpart applies to the West Indian manatee (*Trichechus manatus*), also known as the Florida manatee and as the sea cow. The provisions of this subpart are in addition to, and not in lieu of, other regulations contained in this chapter I which may require a permit or prescribe additional restrictions on the importation, exportation, transportation, or taking of wildlife, and the regulations contained in title 33, CFR, which regulate the use of navigable waters.

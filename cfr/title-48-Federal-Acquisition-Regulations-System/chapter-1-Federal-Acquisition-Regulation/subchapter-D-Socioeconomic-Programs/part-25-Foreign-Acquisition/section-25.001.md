@@ -1,5 +1,7 @@
 ##### 25.001 General. #####
 
+Link to an amendment published at 86 FR 6186, Jan. 19, 2021.
+
 (a) 41 U.S.C. chapter 83, Buy American -
 
 (1) Restricts the purchase of supplies, that are not domestic end products, for use within the United States. A foreign end product may be purchased if the contracting officer determines that the price of the lowest domestic offer is unreasonable or if another exception applies (see Subpart 25.1); and

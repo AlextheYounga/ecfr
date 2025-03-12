@@ -20,11 +20,13 @@
 
 (2) Cattle inventory owned between April 16, 2020, to May 14, 2020, multiplied by the CCC payment rate in paragraph (h) of this section.
 
-(d) Payments for hogs and pigs will be equal to the sum of the results of the following two calculations:
+(d) Payments for hogs and pigs will be equal to the sum of the results of the following three calculations:
 
-(1) Unpriced hogs and pigs sold between January 15, 2020, to April 15, 2020, multiplied by the CARES Act payment rate in paragraph (h) of this section; and
+(1) Unpriced hogs and pigs sold between January 15, 2020, to April 15, 2020, multiplied by the CARES Act payment rate in paragraph (h) of this section;
 
-(2) Hog and pig inventory owned between April 16, 2020, to May 14, 2020, multiplied by the CCC payment rate in paragraph (h) of this section.
+(2) Hog and pig inventory owned between April 16, 2020, to May 14, 2020, multiplied by the CCC payment rate in paragraph (h) of this section; and
+
+(3) Hog and pig inventory owned between April 16, 2020, to May 14, 2020, multiplied by a payment rate of $17 per head.
 
 (e) Payments for dairy will be equal to the sum of the results of the following two calculations:
 
@@ -151,4 +153,4 @@ Table 2 to Paragraph (h) - Payment Rates for Non-Specialty Crops, Dairy, Livesto
 
 (k) An initial payment will be issued for 80 percent of each CFAP payment calculated. A final payment will be issued on a date determined by the Secretary, to the extent such funds are available. The total of all CFAP payments made, including all initial and final payments, cannot exceed a total of $9.5 billion for CARES Act funds and $6.5 billion for CCC funds.
 
-[85 FR 30830, May 21, 2020, as amended at 85 FR 35799, June 12, 2020' 85 FR 41329, July 10, 2020; 85 FR 49594, Aug. 14, 2020; 85 FR 59175, Sept. 21, 2020. Redesignated at 85 FR 59385, Sept. 22, 2020]
+[85 FR 30830, May 21, 2020, as amended at 85 FR 35799, June 12, 2020' 85 FR 41329, July 10, 2020; 85 FR 49594, Aug. 14, 2020; 85 FR 59175, Sept. 21, 2020. Redesignated at 85 FR 59385, Sept. 22, 2020; 86 FR 4882, Jan. 19, 2021]

@@ -2,9 +2,11 @@
 
 (a) A completed application under this subpart must be submitted in person, by mail, email, or facsimile to any FSA county office by the close of business on:
 
-(1) September 11, 2020, for payments issued under § 9.102 of this part; and
+(1) September 11, 2020, for payments issued under § 9.102;
 
-(2) December 11, 2020, for payments issued under § 9.202 of this part.
+(2) December 11, 2020, for payments issued under § 9.203, except for applications for pullets, turfgrass sod, and contract producers; and
+
+(3) February 26, 2021, for payments issued under § 9.203 for applications for pullets, turfgrass sod, and contract producers.
 
 (b) Failure of an individual, entity, or a member of an entity to submit the following payment limitation and payment eligibility forms within 60-days from the date of signing the CFAP application, may result in no payment or a reduced payment:
 
@@ -26,6 +28,6 @@
 
 (3) Establishes the applicant's value at risk in the commodity.
 
-(d) A producer applying for assistance for a crop subject to § 9.202(a) or (b) must file a report of all acreage of the crop on FSA-578, Report of Acreage.
+(d) A producer applying for assistance for a crop subject to § 9.203(a) or (b) must file a report of all acreage of the crop on FSA-578, Report of Acreage.
 
-[85 FR 30830, May 21, 2020, as amended at 85 FR 49594, Aug. 14, 2020; 85 FR 59384, Sept. 22, 2020]
+[85 FR 30830, May 21, 2020, as amended at 85 FR 49594, Aug. 14, 2020; 85 FR 59384, Sept. 22, 2020; 86 FR 4882, Jan. 15, 2021]

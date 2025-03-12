@@ -1,7 +1,5 @@
 ##### § 5400.0-5 Definitions. #####
 
-Link to an amendment published at 85 FR 82373, Dec. 18, 2020.
-
 Except as the context may otherwise indicate, as the terms are used in parts 5400-5490 of this chapter and in contracts issued thereunder:
 
 *Affiliate* means a business entity including but not limited to an individual, partnership, corporation, or association, which controls or is controlled by a purchaser, or, along with a purchaser, is controlled by a third business entity.
@@ -14,7 +12,9 @@ Except as the context may otherwise indicate, as the terms are used in parts 540
 
 *Director* means the Director of the Bureau of Land Management.
 
-*Fair Market value* means the price forest products will return when offered for competitive sale on the open market. Determination of fair market value will be made in accordance with procedures in BLM Manual 9354.
+*Export* means the transporting or causing to be transported, either directly or through another party, unprocessed timber to a foreign country. Export occurs on the date that a person enters into an agreement to sell, trade, or otherwise convey such timber to a person for delivery to a foreign country. If the date in the preceding sentence cannot be established, export occurs when unprocessed timber is placed in an export facility for preparation, including but not limited to, sorting or bundling, and container loading, for shipment outside the United States, or when unprocessed timber is placed on board an oceangoing vessel, rail car, or other conveyance destined for a foreign country, port, or facility.
+
+*Fair Market value* means the price forest products will return when offered for competitive sale on the open market.
 
 *Federal lands* means all lands administered by the Department of the Interior west of the 100th meridian in the contiguous 48 States with the exception of tribal and trust allotted lands managed by the Bureau of Indian Affairs on behalf of the Indians.
 
@@ -23,6 +23,8 @@ Except as the context may otherwise indicate, as the terms are used in parts 540
 *Incidental use* means personal use of other vegetative resources on the site where they are obtained, or, if they are transported to a secondary location, personal use of the resources within a reasonable period of time by the person obtaining them.
 
 *Loading point* means any landing or other area in which logs are capable of being loaded for transportation out of the contract area: *Provided, however,* That right-of-way timber which has been cut shall not be considered to be at a loading point until such time as logs from any source are actually transported over that portion of the right-of-way.
+
+*Lump-sum* means a sale where the total quantity of forest product that is designated for removal is estimated and established prior to the sale.
 
 *Nonwillful* means an action which is inadvertent, mitigated in character by the belief that the conduct is reasonable or legal.
 
@@ -46,15 +48,19 @@ Except as the context may otherwise indicate, as the terms are used in parts 540
 
 *Sale value* means the contract value of the stumpage sold under the contract.
 
+*Scale sale* means a sale where the total quantity of forest product that is designated for removal is determined after cutting, but before its conversion or end use.
+
 *Set-aside* means a designation of timber for sale which is limited to bidding by small business concerns as defined by the Small Business Administration in its regulations (13 CFR part 121) under the authority of section 15 of the Small Business Act of July 18, 1958 (72 Stat. 384).
+
+*Sourcing area* means a geographic area approved by the Secretary of the Interior where prohibitions for direct and indirect substitution shall not apply with respect to the acquisition of unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States by a person who, in the previous 24 months, has not exported unprocessed timber originating from private lands within the sourcing area; and during the period in which such approval is in effect, does not export unprocessed timber originating from private lands within the sourcing area.
 
 *Substitution* means:
 
-(1) The purchase of a greater volume of Federal timber by an individual purchaser than has been his historic pattern within twelve (12) months of the sale of export by the same purchaser of a greater volume of his private timber than has been his historic pattern during the preceding twelve (12) months, exclusive of Federal timber purchased by negotiated sale for right-of-way purposes, and
+(1) The purchase of a greater volume of Federal timber by an individual purchaser than has been his historic pattern within twenty-four (24) months of the sale of export by the same purchaser of a greater volume of his private timber than has been his historic pattern during the preceding twenty-four (24) months; and
 
 (2) The increase of both the purchase of Federal timber and export of timber from private lands tributary to the plant for which Bureau of Land Management timber covered by a specific contract is delivered or expected to be delivered.
 
-*Third party scaling* means the measurement of logs by a scaling organization, other than a Government agency, approved by the Bureau.
+*Third party scaling* means the measurement of logs by a scaling organization or weight scale certified by a State, other than a Government agency, approved by the Bureau.
 
 *Timber* means standing trees, downed trees or logs which are capable of being measured in board feet.
 
@@ -72,4 +78,4 @@ Except as the context may otherwise indicate, as the terms are used in parts 540
 
 *Willful* means a knowing act or omission that constitutes the voluntary or conscious performance of a prohibited act or indifference to or reckless disregard for the law.
 
-[35 FR 9783, June 13, 1970, as amended at 38 FR 6280, Mar. 8, 1973; 41 FR 12659, Mar. 26, 1976; 41 FR 31381, July 28, 1976; 56 FR 10175, Mar. 11, 1991; 57 FR 62235, Dec. 30, 1992]
+[35 FR 9783, June 13, 1970, as amended at 38 FR 6280, Mar. 8, 1973; 41 FR 12659, Mar. 26, 1976; 41 FR 31381, July 28, 1976; 56 FR 10175, Mar. 11, 1991; 57 FR 62235, Dec. 30, 1992; 85 FR 82373, Dec. 18, 2020]

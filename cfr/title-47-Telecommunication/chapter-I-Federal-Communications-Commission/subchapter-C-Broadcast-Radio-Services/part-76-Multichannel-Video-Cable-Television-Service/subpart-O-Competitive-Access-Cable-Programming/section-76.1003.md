@@ -1,6 +1,4 @@
-##### § 76.1003 Program access proceedings. #####
-
-Link to an amendment published at 85 FR 81812, Dec. 17, 2020.
+##### § 76.1003 Program access proceedings #####
 
 (a) *Complaints.* Any multichannel video programming distributor aggrieved by conduct that it believes constitute a violation of the regulations set forth in this subpart may commence an adjudicatory proceeding at the Commission to obtain enforcement of the rules through the filing of a complaint. The complaint shall be filed and responded to in accordance with the procedures specified in § 76.7 of this part with the following additions or changes:
 
@@ -70,9 +68,9 @@ Link to an amendment published at 85 FR 81812, Dec. 17, 2020.
 
 (2) The satellite cable programming vendor, satellite broadcast programming vendor, or terrestrial cable programming vendor offers to sell programming to the complainant pursuant to terms that the complainant alleges to violate one or more of the rules contained in this subpart, and such offer to sell programming is unrelated to any existing contract between the complainant and the satellite cable programming vendor, satellite broadcast programming vendor, or terrestrial cable programming vendor; or
 
-(3) The complainant has notified a cable operator, or a satellite cable programming vendor or a satellite broadcast programming vendor that it intends to file a complaint with the Commission based on a request to purchase or negotiate to purchase satellite cable programming, satellite broadcast programming, or terrestrial cable programming, or has made a request to amend an existing contract pertaining to such programming pursuant to § 76.1002(f) of this part that has been denied or unacknowledged, allegedly in violation of one or more of the rules contained in this subpart.
+(3) A cable operator, or a satellite cable programming vendor or a satellite broadcast programming vendor has denied or failed to acknowledge a request to purchase or negotiate to purchase satellite cable programming, satellite broadcast programming, or terrestrial cable programming, or a request to amend an existing contract pertaining to such programming pursuant to § 76.1002(f), allegedly in violation of one or more of the rules contained in this subpart.
 
-(h) *Remedies for violations* - (1) *Remedies authorized.* Upon completion of such adjudicatory proceeding, the Commission shall order appropriate remedies, including, if necessary, the imposition of damages, and/or the establishment of prices, terms, and conditions for the sale of programming to the aggrieved multichannel video programming distributor. Such order shall set forth a timetable for compliance, and shall become effective upon release.
+(h) *Remedies for violations*—(1) *Remedies authorized.* Upon completion of such adjudicatory proceeding, the Commission, Commission staff, or Administrative Law Judge shall order appropriate remedies, including, if necessary, the imposition of damages, and/or the establishment of prices, terms, and conditions for the sale of programming to the aggrieved multichannel video programming distributor. Such order shall set forth a timetable for compliance. Such order issued by the Commission or Commission staff shall be effective upon release. See §§ 1.102(b) and 1.103 of this chapter. The effective date of such order issued by the Administrative Law Judge is set forth in § 1.276(d) of this chapter.
 
 (2) *Additional sanctions.* The remedies provided in paragraph (h)(1) of this section are in addition to and not in lieu of the sanctions available under title V or any other provision of the Communications Act.
 
@@ -122,4 +120,4 @@ Link to an amendment published at 85 FR 81812, Dec. 17, 2020.
 
 (m) *Deadline for Media Bureau action on complaints alleging a denial of programming.* For complaints alleging a denial of programming, the Chief, Media Bureau shall release a decision resolving the complaint within six (6) months from the date the complaint is filed.
 
-[64 FR 6572, Feb. 10, 1999, as amended at 67 FR 13235, Mar. 21, 2002; 72 FR 56661, Oct. 4, 2007; 75 FR 9724, Mar. 3, 2010; 77 FR 66048, Oct. 31, 2012]
+[64 FR 6572, Feb. 10, 1999, as amended at 67 FR 13235, Mar. 21, 2002; 72 FR 56661, Oct. 4, 2007; 75 FR 9724, Mar. 3, 2010; 77 FR 66048, Oct. 31, 2012; 85 FR 81812, Dec. 17, 2020]

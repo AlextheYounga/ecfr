@@ -1,5 +1,7 @@
 ##### 52.225-22 Notice of Required Use of American Iron, Steel, and Manufactured Goods - Buy American Statute - Construction Materials. #####
 
+Link to an amendment published at 86 FR 6193, Jan. 19, 2021.
+
 As prescribed in 25.1102(e), insert the following provision:
 
 Notice of Required Use of American Iron, Steel, and Manufactured Goods - Buy American Statute - Construction Materials (MAY 2014)

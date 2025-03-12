@@ -1,7 +1,5 @@
 ##### § 2.4 Definitions. #####
 
-Link to an amendment published at 85 FR 70437, Nov. 5, 2020.
-
 As used in this part,
 
 *ACRS* means the Advisory Committee on Reactor Safeguards established by the Act.
@@ -10,7 +8,7 @@ As used in this part,
 
 *Adjudication* means the process for the formulation of an order for the final disposition of the whole or any part of any proceeding subject to this part, other than rule making.
 
-*Administrative Law Judge* means an individual appointed pursuant to section 11 of the Administrative Procedure Act to conduct proceedings subject to this part.
+*Administrative Law Judge* means an individual appointed by the Commission pursuant to 5 U.S.C. 3105 to conduct proceedings subject to this part.
 
 *Commission* means the Commission of five members or a quorum thereof sitting as a body, as provided by section 201 of the Energy Reorganization Act of 1974 (88 Stat. 1242), or any officer to whom has been delegated authority pursuant to section 161n of the Act.
 

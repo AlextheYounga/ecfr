@@ -1,6 +1,6 @@
 ##### § 411.352 Group practice. #####
 
-Link to an amendment published at 85 FR 77656, Dec. 2, 2020.Link to an amendment published at 85 FR 77682, Dec. 2, 2020.
+Link to an amendment published at 85 FR 77682, Dec. 2, 2020.
 
 For purposes of this subpart, a group practice is a physician practice that meets the following conditions:
 
@@ -16,7 +16,7 @@ For purposes of this subpart, a group practice is a physician practice that meet
 
 (c) *Range of care.* Each physician who is a member of the group, as defined at § 411.351, must furnish substantially the full range of patient care services that the physician routinely furnishes, including medical care, consultation, diagnosis, and treatment, through the joint use of shared office space, facilities, equipment, and personnel.
 
-(d) *Services furnished by group practice members.* (1) Except as otherwise provided in paragraphs (d)(3), (d)(4), (d)(5), and (d)(6) of this section, substantially all of the patient care services of the physicians who are members of the group (that is, at least 75 percent of the total patient care services of the group practice members) must be furnished through the group and billed under a billing number assigned to the group, and the amounts received must be treated as receipts of the group. *Patient care services* must be measured by one of the following:
+(d) *Services furnished by group practice members.* (1) Except as otherwise provided in paragraphs (d)(3) through (6) of this section, substantially all of the patient care services of the physicians who are members of the group (that is, at least 75 percent of the total patient care services of the group practice members) must be furnished through the group and billed under a billing number assigned to the group, and the amounts received must be treated as receipts of the group. *Patient care services* must be measured by one of the following:
 
 (i) The total time each member spends on patient care services documented by any reasonable means (including, but not limited to, time cards, appointment schedules, or personal diaries). (For example, if a physician practices 40 hours a week and spends 30 hours a week on patient care services for a group practice, the physician has spent 75 percent of his or her time providing patient care services for the group.)
 
@@ -38,7 +38,7 @@ For purposes of this subpart, a group practice is a physician practice that meet
 
 (ii) This paragraph (d)(6) does not apply when an existing group practice reorganizes or admits a new member who is not relocating his or her medical practice.
 
-(e) *Distribution of expenses and income.* The overhead expenses of, and income from, the practice must be distributed according to methods that are determined before the receipt of payment for the services giving rise to the overhead expense or producing the income. Nothing in this section prevents a group practice from adjusting its compensation methodology prospectively, subject to restrictions on the distribution of revenue from DHS under § 411.352(i).
+(e) *Distribution of expenses and income.* The overhead expenses of, and income from, the practice must be distributed according to methods that are determined before the receipt of payment for the services giving rise to the overhead expense or producing the income. Nothing in this section prevents a group practice from adjusting its compensation methodology prospectively, subject to restrictions on the distribution of revenue from DHS under paragraph (i) of this section.
 
 (f) *Unified business.* (1) The group practice must be a unified business having at least the following features:
 
@@ -46,15 +46,15 @@ For purposes of this subpart, a group practice is a physician practice that meet
 
 (ii) Consolidated billing, accounting, and financial reporting.
 
-(2) Location and specialty-based compensation practices are permitted with respect to revenues derived from services that are not DHS and may be permitted with respect to revenues derived from DHS under § 411.352(i).
+(2) Location and specialty-based compensation practices are permitted with respect to revenues derived from services that are not DHS and may be permitted with respect to revenues derived from DHS under paragraph (i) of this section.
 
-(g) *Volume or value of referrals.* No physician who is a member of the group practice directly or indirectly receives compensation based on the volume or value of his or her referrals, except as provided in § 411.352(i).
+(g) *Volume or value of referrals.* No physician who is a member of the group practice directly or indirectly receives compensation based on the volume or value of his or her referrals, except as provided in paragraph (i) of this section.
 
 (h) *Physician-patient encounters.* Members of the group must personally conduct no less than 75 percent of the physician-patient encounters of the group practice.
 
 (i) *Special rule for productivity bonuses and profit shares.* (1) A physician in the group practice may be paid a share of overall profits of the group, provided that the share is not determined in any manner that is directly related to the volume or value of referrals of DHS by the physician. A physician in the group practice may be paid a productivity bonus based on services that he or she has personally performed, or services “incident to” such personally performed services, or both, provided that the bonus is not determined in any manner that is directly related to the volume or value of referrals of DHS by the physician (except that the bonus may directly relate to the volume or value of DHS referrals by the physician if the referrals are for services “incident to” the physician's personally performed services).
 
-(2) Overall profits means the group's entire profits derived from DHS payable by Medicare or Medicaid or the profits derived from DHS payable by Medicare or Medicaid of any component of the group practice that consists of at least five physicians. Overall profits should be divided in a reasonable and verifiable manner that is not directly related to the volume or value of the physician's referrals of DHS. The share of overall profits will be deemed *not* to relate directly to the volume or value of referrals if *one* of the following conditions is met:
+(2) Overall profits means the group's entire profits derived from DHS payable by Medicare or Medicaid or the profits derived from DHS payable by Medicare or Medicaid of any component of the group practice that consists of at least five physicians. Overall profits should be divided in a reasonable and verifiable manner that is not directly related to the volume or value of the physician's referrals of DHS. The share of overall profits will be deemed not to relate directly to the volume or value of referrals if one of the following conditions is met:
 
 (i) The group's profits are divided per capita (for example, per member of the group or per physician in the group).
 
@@ -70,6 +70,6 @@ For purposes of this subpart, a group practice is a physician practice that meet
 
 (iii) Revenues derived from DHS are less than 5 percent of the group practice's total revenues, and the allocated portion of those revenues to each physician in the group practice constitutes 5 percent or less of his or her total compensation from the group practice.
 
-(4) Supporting documentation verifying the method used to calculate the profit share or productivity bonus under paragraphs (i)(2) and (i)(3) of this section, and the resulting amount of compensation, must be made available to the Secretary upon request.
+(4) Supporting documentation verifying the method used to calculate the profit share or productivity bonus under paragraphs (i)(2) and (3) of this section, and the resulting amount of compensation, must be made available to the Secretary upon request.
 
-[72 FR 51084, Sept. 5, 2007]
+[85 FR 77656, Dec. 2, 2020]

@@ -1,0 +1,3 @@
+##### § 1318.07 Non-liability of Drug Enforcement Administration. #####
+
+The Administration shall have no liability with respect to the performance of any contractual terms agreed to by a grower and buyer of bulk cannabis, including but not limited to the quality of any cannabis delivered to a buyer. In the event that a buyer deems the delivered cannabis to be defective, the buyer's sole remedy for damages shall be against the grower and not the Administration.

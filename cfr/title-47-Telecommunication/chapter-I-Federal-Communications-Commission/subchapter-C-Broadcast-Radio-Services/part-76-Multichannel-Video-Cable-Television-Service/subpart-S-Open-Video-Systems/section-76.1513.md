@@ -1,7 +1,5 @@
 ##### § 76.1513 Open video dispute resolution. #####
 
-Link to an amendment published at 85 FR 81812, Dec. 17, 2020.
-
 (a) *Complaints.* Any party aggrieved by conduct that it believes constitute a violation of the regulations set forth in this part or in section 653 of the Communications Act (47 U.S.C. 573) may commence an adjudicatory proceeding at the Commission to obtain enforcement of the rules through the filing of a complaint. The Commission shall resolve any such dispute within 180 days after the filing of a complaint. The complaint shall be filed and responded to in accordance with the procedures specified in § 76.7 of this part with the following additions or changes.
 
 (b) *Alternate dispute resolution.* An open video system operator may not provide in its carriage contracts with programming providers that any dispute must be submitted to arbitration, mediation, or any other alternative method for dispute resolution prior to submission of a complaint to the Commission.
@@ -34,10 +32,10 @@ Upon request by a complainant, the preliminary carriage rate estimate shall incl
 
 (2) The open video system operator offers to carry programming for the complainant pursuant to terms that the complainant alleges to violate one or more of the rules contained in this part, and such offer to carry programming is unrelated to any existing contract between the complainant and the open video system operator; or
 
-(3) The complainant has notified an open video system operator that it intends to file a complaint with the Commission based on a request for such operator to carry the complainant's programming on its open video system that has been denied or unacknowledged, allegedly in violation of one or more of the rules contained in this part.
+(3) An open video system operator has denied or failed to acknowledge a request for such operator to carry the complainant's programming on its open video system, allegedly in violation of one or more of the rules contained in this part.
 
-(h) *Remedies for violations* - (1) *Remedies authorized.* Upon completion of such adjudicatory proceeding, the Commission shall order appropriate remedies, including, if necessary, the requiring carriage, awarding damages to any person denied carriage, or any combination of such sanctions. Such order shall set forth a timetable for compliance, and shall become effective upon release.
+(h) *Remedies for violations*—(1) *Remedies authorized.* Upon completion of such adjudicatory proceeding, the Commission, Commission staff, or Administrative Law Judge shall order appropriate remedies, including, if necessary, the requiring carriage, awarding damages to any person denied carriage, or any combination of such sanctions. Such order shall set forth a timetable for compliance. Such order issued by the Commission or Commission staff shall be effective upon release. See §§ 1.102(b) and 1.103 of this chapter. The effective date of such order issued by the Administrative Law Judge is set forth in § 1.276(d) of this chapter.
 
 (2) *Additional sanctions.* The remedies provided in paragraph (h)(1) of this section are in addition to and not in lieu of the sanctions available under title V or any other provision of the Communications Act.
 
-[61 FR 28708, June 5, 1996, as amended at 61 FR 43178, Aug. 21, 1996; 62 FR 26239, May 13, 1997; 64 FR 6575, Feb. 10, 1999]
+[61 FR 28708, June 5, 1996, as amended at 61 FR 43178, Aug. 21, 1996; 62 FR 26239, May 13, 1997; 64 FR 6575, Feb. 10, 1999; 85 FR 81812, Dec. 17, 2020]

@@ -1,14 +1,14 @@
 ##### § 2.202 Orders. #####
 
-Link to an amendment published at 85 FR 70438, Nov. 5, 2020.
-
 (a) The Commission may institute a proceeding to modify, suspend, or revoke a license or to take such other action as may be proper by serving on the licensee or other person subject to the jurisdiction of the Commission an order that will:
 
 (1) Allege the violations with which the licensee or other person subject to the Commission's jurisdiction is charged, or the potentially hazardous conditions or other facts deemed to be sufficient ground for the proposed action, and specify the action proposed;
 
 (2) Provide that the licensee or other person must file a written answer to the order under oath or affirmation within twenty (20) days of its date, or such other time as may be specified in the order;
 
-(3) Inform the licensee or any other person adversely affected by the order of his or her right, within twenty (20) days of the date of the order, or such other time as may be specified in the order, to demand a hearing on all or part of the order, except in a case where the licensee or other person has consented in writing to the order;
+(3)(i) Inform the licensee or any other person to whom the order was issued of their right, within twenty (20) days of the date of the order, or within such other time as may be specified in the order, to demand a hearing on all or part of the order, except in a case where the licensee or other person to whom the order was issued has consented in writing to the order;
+
+(3)(ii) State that a request for a hearing by any other person who may be adversely affected by the order must be made within twenty (20) days of the date of the order, or within such other time as may be specified in the order, and must meet the requirements of § 2.309;
 
 (4) Specify the issues for hearing; and
 
@@ -50,4 +50,4 @@ Link to an amendment published at 85 FR 70438, Nov. 5, 2020.
 
 (6) If the order involves a modification of a manufacturing license under subpart F of part 52, the requirements of § 52.171 of this chapter must be followed, unless the applicant or licensee has consented to the action required.
 
-[56 FR 40684, Aug. 15, 1991, as amended at 57 FR 20198, May 12, 1992; 72 FR 49474, Aug. 28, 2007; 80 FR 63419, Oct. 20, 2015]
+[56 FR 40684, Aug. 15, 1991, as amended at 57 FR 20198, May 12, 1992; 72 FR 49474, Aug. 28, 2007; 80 FR 63419, Oct. 20, 2015; 85 FR 70438, Nov. 5, 2020]

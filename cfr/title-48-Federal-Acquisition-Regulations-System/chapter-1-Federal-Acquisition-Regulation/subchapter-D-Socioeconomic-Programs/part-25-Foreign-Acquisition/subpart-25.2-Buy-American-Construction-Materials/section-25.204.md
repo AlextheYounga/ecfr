@@ -1,5 +1,7 @@
 ##### 25.204 Evaluating offers of foreign construction material. #####
 
+Link to an amendment published at 86 FR 6187, Jan. 19, 2021.
+
 (a) Offerors proposing to use foreign construction material other than that listed by the Government in the applicable clause at 52.225-9, paragraph (b)(2), or 52.225-11, paragraph (b)(3), or covered by the WTO GPA or a Free Trade Agreement (paragraph (b)(2) of 52.225-11), must provide the information required by paragraphs (c) and (d) of the respective clauses.
 
 (b) Unless the head of the agency specifies a higher percentage, the contracting officer must add to the offered price 6 percent of the cost of any foreign construction material proposed for exception from the requirements of the Buy American statute based on the unreasonable cost of domestic construction materials. In the case of a tie, the contracting officer must give preference to an offer that does not include foreign construction material excepted at the request of the offeror on the basis of unreasonable cost.

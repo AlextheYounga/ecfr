@@ -1,8 +1,8 @@
 ##### § 740.19 Consumer Communications Devices (CCD). #####
 
-(a) *Authorizations.* This section authorizes the export or reexport of commodities and software to Cuba or Sudan subject to the requirements stated herein. This section does not authorize U.S.-owned or -controlled entities in third countries to engage in reexports of foreign produced commodities to Cuba for which no license would be issued by the Department of the Treasury pursuant to 31 CFR 515.559.
+(a) *Authorizations.* This section authorizes the export or reexport of commodities and software to Cuba subject to the requirements stated herein. This section does not authorize U.S.-owned or -controlled entities in third countries to engage in reexports of foreign produced commodities to Cuba for which no license would be issued by the Department of the Treasury pursuant to 31 CFR 515.559.
 
-(b) *Eligible commodities and software.* Commodities and software in paragraphs (b)(1) through (17) of this section are eligible for export or reexport under this section to Cuba or Sudan. Commodities in paragraph (b)(18) of this section are eligible for export or reexport under this section to Sudan only.
+(b) *Eligible commodities and software.* Commodities and software in paragraphs (b)(1) through (17) of this section are eligible for export or reexport under this section to Cuba. Commodities in paragraph (b)(18) of this section are eligible for export or reexport under this section to Sudan only.
 
 (1) Consumer computers designated EAR99 or classified under Export Control Classification Numbers (ECCN) 5A992.c or 4A994.b;
 
@@ -38,8 +38,6 @@
 
 (17) Consumer “software” (except “encryption source code”) classified under ECCNs 4D994, 5D991 or 5D992.c or designated EAR99 to be used for equipment described in paragraphs (b)(1) through (b)(16) of this section; and
 
-(18) (Sudan only) Global Positioning System receivers or similar satellite receivers controlled under ECCN 7A994.
-
 Note to paragraph (b):
 
 In this paragraph, the term “consumer” refers to items that are:
@@ -56,11 +54,11 @@ d. Telephone call transactions; and
 
 2. Designed for installation by the user without further substantial support by the supplier.
 
-(c) *Eligible and ineligible end-users* - (1) *Organizations.* (i) This license exception may be used to export or reexport eligible commodities and software to and for the use of independent non-governmental organizations in Cuba or Sudan.
+(c) *Eligible and ineligible end-users* - (1) *Organizations.* (i) This license exception may be used to export or reexport eligible commodities and software to and for the use of independent non-governmental organizations in Cuba.
 
 (ii) The Cuban Government or the Cuban Communist Party and organizations they administer or control are not eligible end-users.
 
-(iii) The Government of Sudan is not an eligible end-user for any item exported or reexported pursuant to this license exception except for consumer software that is authorized under paragraph (b)(12) or (b)(17) of this section and that is distributed free of charge.
+(iii) [Reserved]
 
 (2) *Individuals.* This License Exception may be used to export eligible commodities and software to and for the use of individuals other than the following:
 
@@ -68,4 +66,4 @@ d. Telephone call transactions; and
 
 (ii) *Ineligible Cuban Communist Party Officials.* Members of the Politburo.
 
-[74 FR 45989, Sept. 8, 2009, as amended at 80 FR 2289, Jan. 16, 2015; 80 FR 8523, Feb. 18, 2015; 80 FR 56902, Sept. 21, 2015; 81 FR 71367, Oct. 17, 2016; 82 FR 51985, Nov. 9, 2017]
+[74 FR 45989, Sept. 8, 2009, as amended at 80 FR 2289, Jan. 16, 2015; 80 FR 8523, Feb. 18, 2015; 80 FR 56902, Sept. 21, 2015; 81 FR 71367, Oct. 17, 2016; 82 FR 51985, Nov. 9, 2017; 86 FR 4933, Jan. 19, 2021]

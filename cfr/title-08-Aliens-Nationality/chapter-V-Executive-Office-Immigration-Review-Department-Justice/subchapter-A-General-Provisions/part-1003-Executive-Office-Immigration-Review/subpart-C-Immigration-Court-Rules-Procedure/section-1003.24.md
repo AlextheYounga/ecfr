@@ -1,8 +1,6 @@
 ##### § 1003.24 Fees pertaining to matters within the jurisdiction of an immigration judge. #####
 
-Link to an amendment published at 85 FR 82793, Dec. 18, 2020.
-
-(a) *Generally.* All fees for the filing of motions and applications in connection with proceedings before the immigration judges are paid to the Department of Homeland Security in accordance with 8 CFR 103.7, including fees for applications published by the Executive Office for Immigration Review. The immigration court does not collect fees.
+(a) *Generally.* All fees for the filing of motions and applications in connection with proceedings before the immigration judges are paid to the Department of Homeland Security in accordance with 8 CFR 103.7 and 8 CFR part 106, including fees for applications published by the Executive Office for Immigration Review. The immigration court does not collect fees.
 
 (b) *Motions to reopen or reconsider* - (1) *When a fee is required.* Except as provided in paragraph (b)(2) of this section, a filing fee prescribed in 8 CFR 1103.7, or a fee waiver request pursuant to paragraph (d) of this section, is required in connection with the filing of a motion to reopen or a motion to reconsider.
 
@@ -30,4 +28,4 @@ Link to an amendment published at 85 FR 82793, Dec. 18, 2020.
 
 (d) *Fee waivers.* The immigration judge has the discretion to waive a fee for a motion or application for relief upon a showing that the filing party is unable to pay the fee. The request for a fee waiver must be accompanied by a properly executed affidavit or unsworn declaration made pursuant to 28 U.S.C. 1746 substantiating the filing party's inability to pay the fee. If the request for a fee waiver is denied, the application or motion will not be deemed properly filed.
 
-[69 FR 44906, July 28, 2004, as amended at 85 FR 81750, Dec. 16, 2020]
+[69 FR 44906, July 28, 2004, as amended at 85 FR 81750, Dec. 16, 2020; 85 FR 82793, Dec. 18, 2020]

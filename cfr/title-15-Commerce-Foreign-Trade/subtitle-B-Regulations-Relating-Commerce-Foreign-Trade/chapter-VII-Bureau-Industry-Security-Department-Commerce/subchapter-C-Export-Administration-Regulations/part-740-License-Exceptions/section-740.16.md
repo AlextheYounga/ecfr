@@ -48,7 +48,7 @@ This License Exception allows the following reexports:
 
 (h) Shipments of foreign-made products that incorporate U.S.-origin components may be accompanied by U.S.-origin controlled spare parts, provided that they do not exceed 10 percent of the value of the foreign-made product, subject to the restrictions in § 734.4 of the EAR.
 
-(i) Reexports to Sudan of items controlled by ECCNs 2A994; 3A992.a; 5A991.g; 5A992; 6A991; 6A998; 7A994; 8A992.d, .e, .f, and .g; 9A990.a and .b; and 9A991.d and .e. In addition, items in these ECCNs are not counted as controlled U.S. content for purposes of determining license requirements for U.S. parts, components, and materials incorporated in foreign-made products. However, the export from the United States to any destination with knowledge that they will be reexported directly or indirectly, in whole or in part to Sudan is prohibited without a license.
+(i) [Reserved]
 
 (j) Reexports of items controlled by NP Column 1 (see supplement no. 1 to part 774 of the EAR) to, among, and from countries described in Country Group A:4 (see supplement no. 1 to part 740), except:
 

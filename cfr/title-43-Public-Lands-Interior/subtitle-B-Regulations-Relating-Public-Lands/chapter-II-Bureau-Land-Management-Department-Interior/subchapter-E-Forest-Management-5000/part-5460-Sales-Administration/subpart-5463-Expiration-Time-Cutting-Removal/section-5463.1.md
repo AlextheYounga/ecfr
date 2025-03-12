@@ -1,7 +1,5 @@
 ##### § 5463.1 Time for cutting and removal. #####
 
-Link to an amendment published at 85 FR 82375, Dec. 18, 2020.
+Time for cutting and removal of timber or other vegetative resources sold shall not exceed a period of forty-eight months such time for cutting and removal may be extended as provided in 43 CFR part 5470, subpart 5473.
 
-Time for cutting and removal of timber or other vegetative resources sold shall not exceed a period of thirty-six months except that such time for cutting and removal may be extended as provided in subpart 5473.
-
-[35 FR 9787, June 13, 1970, as amended at 56 FR 33832, July 23, 1991]
+[85 FR 82375, Dec. 18, 2020]

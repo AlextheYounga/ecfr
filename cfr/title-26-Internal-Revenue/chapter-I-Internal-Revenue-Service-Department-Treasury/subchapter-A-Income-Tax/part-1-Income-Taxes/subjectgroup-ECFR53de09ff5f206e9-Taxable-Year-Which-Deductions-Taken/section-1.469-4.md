@@ -2,9 +2,9 @@
 
 (a) *Scope and purpose.* This section sets forth the rules for grouping a taxpayer's trade or business activities and rental activities for purposes of applying the passive activity loss and credit limitation rules of section 469. A taxpayer's activities include those conducted through C corporations that are subject to section 469, S corporations, and partnerships.
 
-(b) *Definitions.* The following definitions apply for purposes of this section -
+(b) *Definitions.* The following definitions apply for purposes of this section—
 
-(1) *Trade or business activities. Trade or business activities* are activities, other than rental activities or activities that are treated under § 1.469-1T(e)(3)(vi)(B) as incidental to an activity of holding property for investment, that -
+(1) *Trade or business activities. Trade or business activities* are activities, other than rental activities or activities that are treated under § 1.469-1T(e)(3)(vi)(B) as incidental to an activity of holding property for investment, that—
 
 (i) Involve the conduct of a trade or business (within the meaning of section 162);
 
@@ -14,9 +14,9 @@
 
 (2) *Rental activities. Rental activities* are activities that constitute rental activities within the meaning of § 1.469-1T(e)(3).
 
-(c) *General rules for grouping activities* - (1) *Appropriate economic unit.* One or more trade or business activities or rental activities may be treated as a single activity if the activities constitute an appropriate economic unit for the measurement of gain or loss for purposes of section 469.
+(c) *General rules for grouping activities*—(1) *Appropriate economic unit.* One or more trade or business activities or rental activities may be treated as a single activity if the activities constitute an appropriate economic unit for the measurement of gain or loss for purposes of section 469.
 
-(2) *Facts and circumstances test.* Except as otherwise provided in this section, whether activities constitute an appropriate economic unit and, therefore, may be treated as a single activity depends upon all the relevant facts and circumstances. A taxpayer may use any reasonable method of applying the relevant facts and circumstances in grouping activities. The factors listed below, not all of which are necessary for a taxpayer to treat more than one activity as a single activity, are given the greatest weight in determining whether activities constitute an appropriate economic unit for the measurement of gain or loss for purposes of section 469 -
+(2) *Facts and circumstances test.* Except as otherwise provided in this section, whether activities constitute an appropriate economic unit and, therefore, may be treated as a single activity depends upon all the relevant facts and circumstances. A taxpayer may use any reasonable method of applying the relevant facts and circumstances in grouping activities. The factors listed below, not all of which are necessary for a taxpayer to treat more than one activity as a single activity, are given the greatest weight in determining whether activities constitute an appropriate economic unit for the measurement of gain or loss for purposes of section 469—
 
 (i) Similarities and differences in types of trades or businesses;
 
@@ -34,7 +34,7 @@ Example 1.Taxpayer *C* has a significant ownership interest in a bakery and a mo
 
 (d) *Limitation on grouping certain activities.* The grouping of activities under this section is subject to the following limitations:
 
-(1) *Grouping rental activities with other trade or business activities* - (i) *Rule.* A rental activity may not be grouped with a trade or business activity unless the activities being grouped together constitute an appropriate economic unit under paragraph (c) of this section and -
+(1) *Grouping rental activities with other trade or business activities*—(i) *Rule.* A rental activity may not be grouped with a trade or business activity unless the activities being grouped together constitute an appropriate economic unit under paragraph (c) of this section and—
 
 (A) The rental activity is insubstantial in relation to the trade or business activity;
 
@@ -52,7 +52,7 @@ Example 2.Attorney *D* is a sole practitioner in town *X. D* also wholly owns re
 
 (2) *Grouping real property rentals and personal property rentals prohibited.* An activity involving the rental of real property and an activity involving the rental of personal property (other than personal property provided in connection with the real property or real property provided in connection with the personal property) may not be treated as a single activity.
 
-(3) *Certain activities of limited partners and limited entrepreneurs* - (i) *In general.* Except as provided in this paragraph, a taxpayer that owns an interest, as a limited partner or a limited entrepreneur (as defined in section 464(e)(2)), in an activity described in section 465(c)(1), may not group that activity with any other activity. A taxpayer that owns an interest as a limited partner or a limited entrepreneur in an activity described in the preceding sentence may group that activity with another activity in the same type of business if the grouping is appropriate under the provisions of paragraph (c) of this section.
+(3) *Certain activities of limited partners and limited entrepreneurs*—(i) *In general.* Except as provided in this paragraph, a taxpayer that owns an interest, as a limited partner or a limited entrepreneur (as defined in section 464(e)(2)), in an activity described in section 465(c)(1), may not group that activity with any other activity. A taxpayer that owns an interest as a limited partner or a limited entrepreneur in an activity described in the preceding sentence may group that activity with another activity in the same type of business if the grouping is appropriate under the provisions of paragraph (c) of this section.
 
 (ii) *Example.* The following example illustrates the application of this paragraph (d)(3):
 
@@ -64,15 +64,17 @@ Example.(i) Taxpayer *A,* an individual, owns and operates a farm. *A* is also a
 
 (4) *Other activities identified by the Commissioner.* A taxpayer that owns an interest in an activity identified in guidance issued by the Commissioner as an activity covered by this paragraph (d)(4) may not group that activity with any other activity, except as provided in the guidance issued by the Commissioner.
 
-(5) *Activities conducted through section 469 entities* - (i) *In general.* A C corporation subject to section 469, an S corporation, or a partnership (a section 469 entity) must group its activities under the rules of this section. Once the section 469 entity groups its activities, a shareholder or partner may group those activities with each other, with activities conducted directly by the shareholder or partner, and with activities conducted through other section 469 entities, in accordance with the rules of this section. A shareholder or partner may not treat activities grouped together by a section 469 entity as separate activities.
+(5) *Activities conducted through section 469 entities*—(i) *In general.* A C corporation subject to section 469, an S corporation, or a partnership (a section 469 entity) must group its activities under the rules of this section. Once the section 469 entity groups its activities, a shareholder or partner may group those activities with each other, with activities conducted directly by the shareholder or partner, and with activities conducted through other section 469 entities, in accordance with the rules of this section. A shareholder or partner may not treat activities grouped together by a section 469 entity as separate activities.
 
 (ii) *Cross reference.* An activity that a taxpayer conducts through a C corporation subject to section 469 may be grouped with another activity of the taxpayer, but only for purposes of determining whether the taxpayer materially or significantly participates in the other activity. See § 1.469-2T(c)(3)(i)(A) and (c)(4)(i) for the rules regarding dividends on C corporation stock and compensation paid for personal services.
 
-(e) *Disclosure and consistency requirements* - (1) *Original groupings.* Except as provided in paragraph (e)(2) of this section and § 1.469-11, once a taxpayer has grouped activities under this section, the taxpayer may not regroup those activities in subsequent taxable years. Taxpayers must comply with disclosure requirements that the Commissioner may prescribe with respect to both their original groupings and the addition and disposition of specific activities within those chosen groupings in subsequent taxable years.
+(6) *Activities described in section 163(d)(5)(A)(ii).* With respect to any taxpayer that is an individual, trust, estate, closely held C corporation or personal service corporation, an activity described in § 1.469-1T(e)(6) and subject to section 163(d)(5)(A)(ii) that involves the conduct of a trade or business which is not a passive activity of the taxpayer and with respect to which the taxpayer does not materially participate may not be grouped with any other activity or activities of the taxpayer, including any other activity described in § 1.469-1T(e)(6) and subject to section 163(d)(5)(A)(ii).
+
+(e) *Disclosure and consistency requirements*—(1) *Original groupings.* Except as provided in paragraph (e)(2) of this section and § 1.469-11, once a taxpayer has grouped activities under this section, the taxpayer may not regroup those activities in subsequent taxable years. Taxpayers must comply with disclosure requirements that the Commissioner may prescribe with respect to both their original groupings and the addition and disposition of specific activities within those chosen groupings in subsequent taxable years.
 
 (2) *Regroupings.* If it is determined that a taxpayer's original grouping was clearly inappropriate or a material change in the facts and circumstances has occurred that makes the original grouping clearly inappropriate, the taxpayer must regroup the activities and must comply with disclosure requirements that the Commissioner may prescribe.
 
-(f) *Grouping by Commissioner to prevent tax avoidance* - (1) *Rule.* The Commissioner may regroup a taxpayer's activities if any of the activities resulting from the taxpayer's grouping is not an appropriate economic unit and a principal purpose of the taxpayer's grouping (or failure to regroup under paragraph (e) of this section) is to circumvent the underlying purposes of section 469.
+(f) *Grouping by Commissioner to prevent tax avoidance*—(1) *Rule.* The Commissioner may regroup a taxpayer's activities if any of the activities resulting from the taxpayer's grouping is not an appropriate economic unit and a principal purpose of the taxpayer's grouping (or failure to regroup under paragraph (e) of this section) is to circumvent the underlying purposes of section 469.
 
 (2) *Example.* The following example illustrates the application of this paragraph (f):
 
@@ -80,7 +82,7 @@ Example.(i) Taxpayers *D, E, F, G,* and *H* are doctors who operate separate med
 
 (ii) For each of the taxpayers, the taxpayer's own medical practice and the services provided by the partnership constitute an appropriate economic unit, but the services provided by the partnership do not separately constitute an appropriate economic unit. Moreover, a principal purpose of treating the medical practices and the partnership's services as separate activities is to circumvent the underlying purposes of section 469. Accordingly, the Commissioner may require the taxpayers to treat their medical practices and their interests in the partnership as a single activity, regardless of whether the separate medical practices are conducted through C corporations subject to section 469, S corporations, partnerships, or sole proprietorships. The Commissioner may assert penalties under section 6662 against the taxpayers in appropriate circumstances.
 
-(g) *Treatment of partial dispositions.* A taxpayer may, for the taxable year in which there is a disposition of substantially all of an activity, treat the part disposed of as a separate activity, but only if the taxpayer can establish with reasonable certainty -
+(g) *Treatment of partial dispositions.* A taxpayer may, for the taxable year in which there is a disposition of substantially all of an activity, treat the part disposed of as a separate activity, but only if the taxpayer can establish with reasonable certainty—
 
 (1) The amount of deductions and credits allocable to that part of the activity for the taxable year under § 1.469-1(f)(4) (relating to carryover of disallowed deductions and credits); and
 
@@ -88,4 +90,4 @@ Example.(i) Taxpayers *D, E, F, G,* and *H* are doctors who operate separate med
 
 (h) *Rules for grouping rental real estate activities for taxpayers qualifying under section 469(c)(7).* See § 1.469-9 for rules for certain rental real estate activities.
 
-[T.D. 8565, 59 FR 50487, Oct. 4, 1994, as amended by T.D. 8645, 60 FR 66499, Dec. 22, 1995]
+[T.D. 8565, 59 FR 50487, Oct. 4, 1994, as amended by T.D. 8645, 60 FR 66499, Dec. 22, 1995; T.D. 9943, 86 FR 5540, Jan. 19, 2021]

@@ -1,7 +1,5 @@
 ##### § 5424.0-6 Policy. #####
 
-Link to an amendment published at 85 FR 82374, Dec. 18, 2020.
-
 (a) All timber sales shall be made on contract or permit forms approved by the Director, BLM.
 
 (b) Other than for incidental use, the severance and/or removal of any vegetative resource for personal or commercial use requires a written contract or permit issued by the authorized officer or other person authorized by the United States. All contracts or permits shall contain the following:
@@ -20,7 +18,7 @@ Link to an amendment published at 85 FR 82374, Dec. 18, 2020.
 
 (c) The authorized officer may include additional provisions in the contract or permit to cover conditions peculiar to the sale area, such as road construction, logging methods, silvicultural practices, reforestation, snag felling, slash disposal, fire prevention, fire control, and the protection of improvements, watersheds, recreational values, and the prevention of pollution or other environmental degradation.
 
-(d) The contract or permit from and any additional provisions shall be made available for inspection by prospective bidders during the advertising period. When sales are negotiated, all additional provisions shall be made part of the contract or permit.
+(d) The contract or permit form and any additional provisions shall be made available for inspection by prospective bidders during the advertising period. When sales are negotiated, all additional provisions shall be made part of the contract or permit.
 
 (e) Except for such specific quantities of grades and species of unprocessed timber determined to be surplus to domestic lumber and plywood manufacturing needs, each timber sale contract shall include provisions that prohibit:
 
@@ -28,4 +26,4 @@ Link to an amendment published at 85 FR 82374, Dec. 18, 2020.
 
 (2) The use of any timber of sawing or peeler grades, sold pursuant to the contract, as a substitute for timber from private lands which is exported or sold for export by the purchaser, an affiliate of the purchaser, or any other parties.
 
-[56 FR 10175, Mar. 11, 1991]
+[56 FR 10175, Mar. 11, 1991, as amended at 85 FR 82374, Dec. 18, 2020]

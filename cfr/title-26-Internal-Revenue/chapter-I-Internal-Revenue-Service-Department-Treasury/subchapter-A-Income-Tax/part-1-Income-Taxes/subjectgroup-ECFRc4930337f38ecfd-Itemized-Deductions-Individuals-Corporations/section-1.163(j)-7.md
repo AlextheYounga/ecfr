@@ -1,17 +1,359 @@
 ##### § 1.163(j)-7 Application of the section 163(j) limitation to foreign corporations and United States shareholders. #####
 
-(a) *Overview.* This section provides rules for the application of section 163(j) to relevant foreign corporations with shareholders that are United States persons. Paragraph (b) of this section describes the general rule regarding the application of section 163(j) to relevant foreign corporations. Paragraphs (c) through (f) of this section are reserved. Paragraph (g) of this section provides rules concerning the computation of ATI of a relevant foreign corporation. Paragraphs (h) through (k) of this section are reserved.
+(a) *Overview.* This section provides rules for the application of section 163(j) to relevant foreign corporations and United States shareholders of relevant foreign corporations. Paragraph (b) of this section provides the general rule regarding the application of section 163(j) to a relevant foreign corporation. Paragraph (c) of this section provides rules for applying section 163(j) to CFC group members of a CFC group. Paragraph (d) of this section provides rules for determining a specified group and specified group members. Paragraph (e) of this section provides rules and procedures for treating a specified group member as a CFC group member and for determining a CFC group. Paragraph (f) of this section provides rules regarding the treatment of a CFC group member that has ECI. Paragraph (g) of this section provides rules concerning the computation of ATI of an applicable CFC. Paragraph (h) of this section provides a safe harbor that exempts certain stand-alone applicable CFCs and CFC groups from the application of section 163(j) for a taxable year. Paragraphs (i) and (j) of this section are reserved. Paragraph (k) of this section provides definitions that apply for purposes of this section (see also § 1.163(j)-1 for additional definitions). Paragraph (l) of this section provides examples illustrating the application of this section.
 
 (b) *General rule regarding the application of section 163(j) to relevant foreign corporations.* Except as otherwise provided in this section, section 163(j) and the section 163(j) regulations apply to determine the deductibility of a relevant foreign corporation's business interest expense for purposes of computing its taxable income for U.S. income tax purposes (if any) in the same manner as those provisions apply to determine the deductibility of a domestic C corporation's business interest expense for purposes of computing its taxable income. See also § 1.952-2. If a relevant foreign corporation is a direct or indirect partner in a partnership, see § 1.163(j)-6 (concerning the application of section 163(j) to partnerships).
 
-(c)-(f) [Reserved]
+(c) *Application of section 163(j) to CFC group members of a CFC group* - (1) *Scope.* This paragraph (c) provides rules for applying section 163(j) to a CFC group and a CFC group member. Paragraph (c)(2) of this section provides rules for computing a single section 163(j) limitation for a specified period of a CFC group. Paragraph (c)(3) of this section provides rules for allocating a CFC group's section 163(j) limitation to CFC group members for specified taxable years. Paragraph (c)(4) of this section provides currency translation rules. Paragraph (c)(5) of this section provides special rules for specified periods beginning in 2019 or 2020.
+
+(2) *Calculation of section 163(j) limitation for a CFC group for a specified period* - (i) *In general.* A single section 163(j) limitation is computed for a specified period of a CFC group. For purposes of applying section 163(j) and the section 163(j) regulations, the current-year business interest expense, disallowed business interest expense carryforwards, business interest income, floor plan financing interest expense, and ATI of a CFC group for a specified period equal the sums of each CFC group member's respective amounts for its specified taxable year with respect to the specified period. A CFC group member's current-year business interest expense, business interest income, floor plan financing interest expense, and ATI for a specified taxable year are generally determined on a separate-company basis. For purposes of determining the ATI of a CFC group, § 1.163(j)-1(b)(1)(vii) (providing that ATI cannot be less than zero) applies with respect to the ATI of the CFC group but not the ATI of any CFC group member.
+
+(ii) *Certain transactions between CFC group members disregarded.* Any transaction between CFC group members of a CFC group that is entered into with a principal purpose of affecting a CFC group or a CFC group member's section 163(j) limitation by increasing or decreasing a CFC group or a CFC group member's ATI or business interest income for a specified taxable year is disregarded for purposes of applying section 163(j) and the section 163(j) regulations.
+
+(3) *Deduction of business interest expense* - (i) *CFC group business interest expense* - (A) *In general.* The extent to which a CFC group member's current-year business interest expense and disallowed business interest expense carryforwards for a specified taxable year that ends with or within a specified period may be deducted under section 163(j) is determined under the rules and principles of § 1.163(j)-5(a)(2) and (b)(3)(ii), subject to the modifications described in paragraph (c)(3)(i)(B) of this section.
+
+(B) *Modifications to relevant terms.* For purposes of paragraph (c)(3)(i)(A) of this section, the rules and principles of § 1.163(j)-5(b)(3)(ii) are applied by -
+
+(*1*) Replacing “§ 1.163(j)-4(d)(2)” in § 1.163(j)-5(a)(2)(ii) with “§ 1.163(j)-7(c)(2)(i)”;
+
+(*2*) Replacing the term “allocable share of the consolidated group's remaining section 163(j) limitation” with “allocable share of the CFC group's remaining section 163(j) limitation”;
+
+(*3*) Replacing the terms “consolidated group” and “group” with “CFC group”;
+
+(*4*) Replacing the term “consolidated group's remaining section 163(j) limitation” with “CFC group's remaining section 163(j) limitation”;
+
+(*5*) Replacing the term “consolidated return year” with “specified period”;
+
+(*6*) Replacing the term “current year” or “current-year” with “current specified period” or “specified taxable year with respect to the current specified period,” as the context requires;
+
+(*7*) Replacing the term “member” with “CFC group member”; and
+
+(*8*) Replacing the term “taxable year” with “specified taxable year with respect to a specified period.”
+
+(ii) *Carryforwards treated as attributable to the same taxable year.* For purposes of applying the principles of § 1.163(j)-5(b)(3)(ii), as required under paragraph (c)(3)(i) of this section, CFC group members' disallowed business interest expense carryforwards that arose in specified taxable years with respect to the same specified period are treated as disallowed business interest expense carryforwards from taxable years ending on the same date and are deducted on a pro rata basis, under the principles of § 1.163(j)-5(b)(3)(ii)(C)(*3*), pursuant to paragraph (c)(3)(i) of this section.
+
+(iii) *Multiple specified taxable years of a CFC group member with respect to a specified period.* If a CFC group member has more than one specified taxable year (each year, an *applicable specified taxable year*) with respect to a single specified period of a CFC group, then all the applicable specified taxable years are taken into account for purposes of applying the principles of § 1.163(j)-5(b)(3)(ii), as required under paragraph (c)(3)(i) of this section, with respect to the specified period. The portion of the section 163(j) limitation allocable to disallowed business interest expense carryforwards of the CFC group member that arose in taxable years before the first applicable specified taxable year is prorated among the applicable specified taxable years in proportion to the number of days in each applicable specified taxable year.
+
+(iv) *Limitation on pre-group disallowed business interest expense carryforward* - (A) *General rule* - (*1*) *CFC group member pre-group disallowed business interest expense carryforward.* This paragraph (c)(3)(iv) applies to pre-group disallowed business interest expense carryforwards of a CFC group member. The amount of the pre-group disallowed business interest expense carryforwards described in the preceding sentence that may be included in any CFC group member's business interest expense deduction for any specified taxable year under this paragraph (c)(3) may not exceed the aggregate section 163(j) limitation for all specified periods of the CFC group, determined by reference only to the CFC group member's items of income, gain, deduction, and loss, and reduced (including below zero) by the CFC group member's business interest expense (including disallowed business interest expense carryforwards) taken into account as a deduction by the CFC group member in all specified taxable years in which the CFC group member has continuously been a CFC group member of the CFC group (*cumulative section 163(j) pre-group carryforward limitation*).
+
+(*2*) *Subgrouping.* In the case of a pre-group disallowed business interest expense carryforward, a pre-group subgroup is composed of the CFC group member with the pre-group disallowed business interest expense carryforward (the *loss member*) and each other CFC group member of the loss member's CFC group (the *current group*) that was a member of the CFC group in which the pre-group disallowed business interest expense carryforward arose and joined the specified group of the current group at the same time as the loss member. A CFC group member that is a member of a pre-group subgroup remains a member of the pre-group subgroup until its first taxable year during which it ceases to be a member of the same specified group as the loss member. For purposes of this paragraph (c), the rules and principles of § 1.163(j)-5(d)(1)(B) apply to a pre-group subgroup as if the pre-group subgroup were a SRLY subgroup.
+
+(*3*) *Transition rule.* Solely for purposes of paragraph (c)(3)(iv)(A)(*2*) of this section, a CFC group includes a group of applicable CFCs for which a CFC group election was made under guidance under section 163(j) published on December 28, 2018. Therefore, if the requirements of paragraph (c)(3)(iv)(A)(*2*) of this section are satisfied, a group of applicable CFCs described in the preceding sentence may be treated as a pre-group subgroup.
+
+(B) *Deduction of pre-group disallowed business interest expense carryforwards.* Notwithstanding paragraph (c)(3)(iv)(A)(*1*) of this section, pre-group disallowed business interest expense carryforwards are available for deduction by a CFC group member in its specified taxable year only to the extent the CFC group has remaining section 163(j) limitation for the specified period after the deduction of current-year business interest expense and disallowed business interest expense carryforwards from earlier taxable years that are permitted to be deducted in specified taxable years of CFC group members with respect to the specified period. See paragraph (c)(3)(i) of this section and § 1.163(j)-5(b)(3)(ii)(A). Pre-group disallowed business interest expense carryforwards are deducted on a pro rata basis (under the principles of paragraph (c)(3)(i) of this section and § 1.163(j)-5(b)(3)(ii)(C)(*4*)) with other disallowed business interest expense carryforwards from taxable years ending on the same date.
+
+(4) *Currency translation.* For purposes of applying this paragraph (c), items of a CFC group member are translated into a single currency for the CFC group and back to the functional currency of the CFC group member using the average exchange rate for the CFC group member's specified taxable year. The single currency for the CFC group may be the U.S. dollar or the functional currency of a plurality of the CFC group members.
+
+(5) *Special rule for specified periods beginning in 2019 or 2020* - (i) *50 percent ATI limitation applies to a specified period of a CFC group.* In the case of a CFC group, § 1.163(j)-2(b)(2) (including the election under § 1.163(j)-2(b)(2)(ii)) applies to a specified period of the CFC group beginning in 2019 or 2020, rather than to a specified taxable year of a CFC group member. An election under § 1.163(j)-2(b)(2)(ii) for a specified period of a CFC group is not effective unless made by each designated U.S. person. Except as otherwise provided in this paragraph (c)(5)(i), the election is made in accordance with Revenue Procedure 2020-22, 2020-18 I.R.B. 745. For purposes of applying § 1.964-1(c), the election is treated as if made for each CFC group member.
+
+(ii) *Election to use 2019 ATI applies to a specified period of a CFC group* - (A) *In general.* In the case of a CFC group, for purposes of applying paragraph (c)(2) of this section, an election under § 1.163(j)-2(b)(3)(i) is made for a specified period of a CFC group beginning in 2020 and applies to the specified taxable years of each CFC group member with respect to such specified period, taking into account the application of paragraph (c)(5)(ii)(B) of this section. The election under § 1.163(j)-2(b)(3)(i) does not apply to any specified taxable year of a CFC group member other than those described in the preceding sentence. An election under § 1.163(j)-2(b)(3)(i) for a specified period of a CFC group is not effective unless made by each designated U.S. person. Except as otherwise provided in this paragraph (c)(5)(ii)(A), the election is made in accordance with Revenue Procedure 2020-22, 2020-18 I.R.B. 745. For purposes of applying § 1.964-1(c), the election is treated as if made for each CFC group member.
+
+(B) *Specified taxable years that do not begin in 2020.* If a specified taxable year of a CFC group member with respect to the specified period described in paragraph (c)(5)(ii)(A) of this section begins in 2019, then, for purposes of applying paragraph (c)(2) of this section, § 1.163(j)-2(b)(3) is applied to such specified taxable year by substituting “2018” for “2019” and “2019” for “2020.” If a specified taxable year of a CFC group member with respect to the specified period described in paragraph (c)(5)(ii)(A) of this section begins in 2021, then, for purposes of applying paragraph (c)(2) of this section, § 1.163(j)-2(b)(3) is applied to such specified taxable year by substituting “2020” for “2019” and “2021” for “2020.”
+
+(d) *Determination of a specified group and specified group members* - (1) *Scope.* This paragraph (d) provides rules for determining a specified group and specified group members. Paragraph (d)(2) of this section provides rules for determining a specified group. Paragraph (d)(3) of this section provides rules for determining specified group members.
+
+(2) *Rules for determining a specified group* - (i) *Definition of a specified group.* Subject to paragraph (d)(2)(ii) of this section, the term *specified group* means one or more applicable CFCs or chains of applicable CFCs connected through stock ownership with a specified group parent (which is included in the specified group only if it is an applicable CFC), but only if -
+
+(A) The specified group parent owns directly or indirectly stock meeting the requirements of section 1504(a)(2)(B) in at least one applicable CFC; and
+
+(B) Stock meeting the requirements of section 1504(a)(2)(B) in each of the applicable CFCs (except the specified group parent) is owned directly or indirectly by one or more of the other applicable CFCs or the specified group parent.
+
+(ii) *Indirect ownership.* For purposes of applying paragraph (d)(2)(i) of this section, stock is owned indirectly only if it is owned under section 318(a)(2)(A) through a partnership or under section 318(a)(2)(A) or (B) through an estate or trust not described in section 7701(a)(30).
+
+(iii) *Specified group parent.* The term *specified group parent* means a qualified U.S. person or an applicable CFC.
+
+(iv) *Qualified U.S. person.* The term *qualified U.S. person* means a United States person described in section 7701(a)(30)(A) or (C). For purposes of this paragraph (d), members of a consolidated group that file (or that are required to file) a consolidated U.S. Federal income tax return are treated as a single qualified U.S person and individuals described in section 7701(a)(30)(A) whose filing status is married filing jointly are treated as a single qualified U.S. person.
+
+(v) *Stock.* For purposes of this paragraph (d)(2), the term *stock* has the same meaning as “stock” in section 1504 (without regard to § 1.1504-4, except as provided in paragraph (d)(2)(vi) of this section) and all shares of stock within a single class are considered to have the same value. Thus, control premiums and minority and blockage discounts within a single class are not taken into account.
+
+(vi) *Options treated as exercised.* For purposes of this paragraph (d)(2), options that are reasonably certain to be exercised, as determined under § 1.1504-4(g), are treated as exercised. For purposes of this paragraph (d)(2)(vi), options include call options, warrants, convertible obligations, put options, and any other instrument treated as an option under § 1.1504-4(d), determined by replacing the term “a principal purpose of avoiding the application of section 1504 and this section” with “a principal purpose of avoiding the application of section 163(j).”
+
+(vii) *When a specified group ceases to exist.* The principles of § 1.1502-75(d)(1), (d)(2)(i) and (ii), and (d)(3)(i) through (iv) apply for purposes of determining when a specified group ceases to exist. Solely for purposes of applying these principles, references to the common parent are treated as references to the specified group parent and each applicable CFC that is treated as a specified group member for a taxable year with respect to a specified period is treated as affiliated with the specified group parent from the beginning to the end of the specified period, without regard to the beginning or end of its taxable year.
+
+(3) *Rules for determining a specified group member.* If two or more applicable CFCs are included in a specified group on the last day of a taxable year of each applicable CFC that ends with or within a specified period, then each applicable CFC is a *specified group member* with respect to the specified period for its entire taxable year ending with or within the specified period. If only one applicable CFC is included in a specified group on the last day of its taxable year that ends with or within the specified period, it is not a specified group member. If an applicable CFC has multiple taxable years that end with or within a specified period, this paragraph (d)(3) is applied separately to each taxable year to determine if the applicable CFC is a specified group member for such taxable year.
+
+(e) *Rules and procedures for treating a specified group as a CFC group* - (1) *Scope.* This paragraph (e) provides rules and procedures for treating a specified group member as a CFC group member and for determining a CFC group for purposes of applying section 163(j) and the section 163(j) regulations.
+
+(2) *CFC group and CFC group member* - (i) *CFC group.* The term *CFC group* means, with respect to a specified period, all CFC group members for their specified taxable years.
+
+(ii) *CFC group member.* The term *CFC group member* means, with respect to a specified taxable year and a specified period, a specified group member of a specified group for which a CFC group election is in effect. However, notwithstanding the prior sentence, a specified group member is not treated as a CFC group member for a taxable year of the specified group member beginning before January 1, 2018.
+
+(3) *Duration of a CFC group.* A CFC group continues until the CFC group election is revoked, or there is no longer a specified period with respect to the specified group. A failure to provide the information described in paragraph (e)(6) of this section does not terminate a CFC group election.
+
+(4) *Joining or leaving a CFC group.* If an applicable CFC becomes a specified group member for a specified taxable year with respect to a specified period of a specified group for which a CFC group election is in effect, the CFC group election applies to the applicable CFC and the applicable CFC becomes a CFC group member. If an applicable CFC ceases to be a specified group member for a specified taxable year with respect to a specified period of a specified group for which a CFC group election is in effect, the CFC group election terminates solely with respect to the applicable CFC.
+
+(5) *Manner of making or revoking a CFC group election* - (i) *In general.* An election is made or revoked under this paragraph (e)(5) (*CFC group election*) with respect to a specified period of a specified group. A CFC group election remains in effect for each specified period of the specified group until revoked. A CFC group election that is in effect with respect to a specified period of a specified group applies to each specified group member for its specified taxable year that ends with or within the specified period. The making or revoking of a CFC group election is not effective unless made or revoked by each designated U.S. person.
+
+(ii) *Revocation by election.* A CFC group election cannot be revoked with respect to any specified period beginning before 60 months following the last day of the specified period for which the election was made. Once a CFC group election has been revoked, a new CFC group election cannot be made with respect to any specified period beginning before 60 months following the last day of the specified period for which the election was revoked.
+
+(iii) *Timing.* A CFC group election must be made or revoked with respect to a specified period of a specified group no later than the due date (taking into account extensions, if any) of the original Federal income tax return for the taxable year of each designated U.S. person in which or with which the specified period ends.
+
+(iv) *Election statement.* To make or revoke a CFC group election for a specified period of a specified group, each designated U.S. person must attach a statement to its relevant Federal income tax or information return in accordance with publications, forms, instructions, or other guidance. The statement must include the name and taxpayer identification number of all designated U.S. persons, a statement that the CFC group election is being made or revoked, as applicable, the specified period for which the CFC group election is being made or revoked, and the name of each CFC group member and its specified taxable year with respect to the specified period. The statement must be filed in the manner prescribed in publications, forms, instructions, or other guidance.
+
+(v) *Effect of prior CFC group election.* A CFC group election is made solely pursuant to the provisions of this paragraph (e)(5), without regard to whether a CFC group election described in guidance under section 163(j) published on December 28, 2018, was in effect.
+
+(6) *Annual information reporting.* Each designated U.S. person must attach a statement to its relevant Federal income tax or information return for each taxable year in which a CFC group election is in effect that contains information concerning the computation of the CFC group's section 163(j) limitation and the application of paragraph (c)(3) of this section to the CFC group in accordance with publications, forms, instructions, or other guidance.
+
+(f) *Treatment of a CFC group member that has ECI* - (1) *In general.* If a CFC group member has ECI in its specified taxable year, then for purposes of section 163(j) and the section 163(j) regulations -
+
+(i) The items, disallowed business interest expense carryforwards, and other attributes of the CFC group member that are ECI are treated as items, disallowed business interest expense carryforwards, and attributes of a separate applicable CFC (such deemed corporation, an *ECI deemed corporation*) that has the same taxable year and shareholders as the applicable CFC; and
+
+(ii) The ECI deemed corporation is not treated as a specified group member for the specified taxable year.
+
+(2) [Reserved]
 
 (g) *Rules concerning the computation of adjusted taxable income of a relevant foreign corporation* - (1) *Tentative taxable income.* For purposes of computing the tentative taxable income of a relevant foreign corporation for a taxable year, the relevant foreign corporation's gross income and allowable deductions are determined under the principles of § 1.952-2 or under the rules of section 882 for determining income that is, or deductions that are allocable to, effectively connected income, as applicable.
 
 (2) *Treatment of certain dividends.* For purposes of computing the ATI of a relevant foreign corporation for a taxable year, any dividend included in gross income that is received from a related person, within the meaning of section 954(d)(3), with respect to the distributee is subtracted from tentative taxable income.
 
-(h)-(l) [Reserved]
+(3) *Treatment of certain foreign income taxes.* For purposes of computing the ATI of a relevant foreign corporation for a taxable year, no deduction is taken into account for any foreign income tax (as defined in § 1.960-1(b), but substituting the phrase “relevant foreign corporation” for the phrase “controlled foreign corporation”).
 
-(m) *Applicability date.* This section applies to taxable years beginning on or after November 13, 2020. However, taxpayers and their related parties, within the meaning of sections 267(b) and 707(b)(1), may choose to apply the rules of this section to a taxable year beginning after December 31, 2017, so long as the taxpayers and their related parties consistently apply the rules of the section 163(j) regulations, and, if applicable, §§ 1.263A-9, 1.263A-15, 1.381(c)(20)-1, 1.382-1, 1.382-2, 1.382-5, 1.382-6, 1.382-7, 1.383-0, 1.383-1, 1.469-9, 1.469-11, 1.704-1, 1.882-5, 1.1362-3, 1.1368-1, 1.1377-1, 1.1502-13, 1.1502-21, 1.1502-36, 1.1502-79, 1.1502-91 through 1.1502-99 (to the extent they effectuate the rules of §§ 1.382-2, 1.382-5, 1.382-6, and 1.383-1), and 1.1504-4, to that taxable year.
+(4) *Anti-abuse rule* - (i) *In general.* If a specified group member of a specified group or an applicable partnership (*specified lender*) includes an amount (*payment amount*) in income and such amount is attributable to business interest expense incurred by another specified group member or an applicable partnership of the specified group (*specified borrower*) during its taxable year, then the ATI of the specified borrower for the taxable year is increased by the ATI adjustment amount if -
 
-[T.D. 9905, 85 FR 56760, Sept. 14, 2020]
+(A) The business interest expense is incurred with a principal purpose of reducing the Federal income tax liability of any United States shareholder of a specified group member (including over other taxable years);
+
+(B) Absent the application of this paragraph (g)(4), the effect of the specified borrower treating all or part of the payment amount as disallowed business interest expense would be to reduce the Federal income tax liability of any United States shareholder of a specified group member; and
+
+(C) Either no CFC group election is in effect with respect to the specified group or the specified borrower is an applicable partnership.
+
+(ii) *ATI adjustment amount* - (A) *In general.* For purposes of this paragraph (g)(4), the term *ATI adjustment amount* means, with respect to a specified borrower and a taxable year, the product of 31/3 and the lesser of the payment amount or the disallowed business interest expense, computed without regard to this paragraph (g)(4).
+
+(B) *Special rule for taxable years or specified periods beginning in 2019 or 2020.* For any taxable year of an applicable CFC or specified taxable year of a CFC group member with respect to a specified period for which the section 163(j) limitation is determined based, in part, on 50 percent of ATI, in accordance with § 1.163(j)-2(b)(2), paragraph (g)(4)(ii)(A) of this section is applied by substituting “2” for “31/3.”
+
+(iii) *Applicable partnership.* For purposes of this paragraph (g)(4), the term *applicable partnership* means, with respect to a specified group, a partnership in which at least 80 percent of the interests in profits or capital is owned, directly or indirectly through one or more other partnerships, by specified group members of the specified group. For purposes of this paragraph (g)(4)(iii), a partner's interest in the profits of a partnership is determined in accordance with the rules and principles of § 1.706-1(b)(4)(ii) and a partner's interest in the capital of a partnership is determined in accordance with the rules and principles of § 1.706-1(b)(4)(iii).
+
+(h) *Election to apply safe-harbor* - (1) *In general.* If an election to apply this paragraph (h)(1) (*safe-harbor election*) is in effect with respect to a taxable year of a stand-alone applicable CFC or a specified taxable year of a CFC group member, as applicable, then, for such year, no portion of the applicable CFC's business interest expense is disallowed under the section 163(j) limitation. This paragraph (h) does not apply to excess business interest expense, as described in § 1.163(j)-6(f)(2), until the taxable year in which it is treated as paid or accrued by an applicable CFC under § 1.163(j)-6(g)(2)(i). Furthermore, excess business interest expense is not taken into account for purposes of determining whether the safe-harbor election is available for a stand-alone applicable CFC or a CFC group until the taxable year in which it is treated as paid or accrued by an applicable CFC under § 1.163(j)-6(g)(2)(i).
+
+(2) *Eligibility for safe-harbor election* - (i) *Stand-alone applicable CFC.* The safe-harbor election may be made for the taxable year of a stand-alone applicable CFC only if, for the taxable year, the business interest expense of the applicable CFC is less than or equal to either -
+
+(A) The business interest income of the applicable CFC; or
+
+(B) 30 percent of the lesser of the eligible amount or the qualified tentative taxable income of the applicable CFC.
+
+(ii) *CFC group.* The safe-harbor election may be made for the specified period of a CFC group only if, for the specified period, no CFC group member has any pre-group disallowed business interest expense carryforward and the business interest expense of the CFC group for the specified period is less than or equal to either -
+
+(A) The business interest income of the CFC group; or
+
+(B) 30 percent of the lesser of the eligible amount or the qualified tentative taxable income of the CFC group.
+
+(iii) *Currency translation.* For purposes of applying this paragraph (h), BII, BIE, and qualified tentative taxable income of a stand-alone applicable CFC or a CFC group must be determined using the U.S. dollar. If BII, BIE, or any items of income, gain, deduction, or loss that are taken into account in computing qualified tentative taxable income are maintained in a currency other than the U.S. dollar, then those items must be translated into the U.S. dollar using the average exchange rate for the taxable year or the specified taxable year, as applicable.
+
+(3) *Eligible amount* - (i) *Stand-alone applicable CFC.* The *eligible amount* of a stand-alone applicable CFC for a taxable year is the sum of the amounts a domestic corporation would include in gross income under sections 951(a)(1)(A) and 951A(a), reduced by any deductions that would be allowed under section 245A (by reason of section 964(e)(4)) or section 250(a)(1)(B)(i), determined as if the domestic corporation has a taxable year that ends on the last date of the taxable year of the stand-alone applicable CFC, it wholly owns the stand-alone applicable CFC throughout the CFC's taxable year, it does not own any assets other than stock in the stand-alone applicable CFC, and it has no other items of income, gain, deduction, or loss.
+
+(ii) *CFC group.* The *eligible amount* of a CFC group for a specified period is the sum of the amounts a domestic corporation would include in gross income under sections 951(a)(1)(A) and 951A(a), reduced by any deductions that would be allowed under section 245A (by reason of section 964(e)(4)) or section 250(a)(1)(B)(i), determined as if the domestic corporation has a taxable year that is the specified period, it wholly owns each CFC group member throughout the CFC group member's specified taxable year, it does not own any assets other than stock in the CFC group members, and it has no other items of income, gain, deduction, or loss.
+
+(iii) *Additional rules for determining an eligible amount.* For purposes of paragraphs (h)(3)(i) and (ii) of this section, the amounts that would be included in gross income of a United States shareholder under sections 951(a)(1)(A) and 951A(a), and any corresponding deductions that would be allowed under section 245A (by reason of section 964(e)(4)) or section 250(a)(1)(B)(i), are determined by taking into account any elections that are made with respect to the applicable CFC(s), including under § 1.954-1(d)(5) (relating to the subpart F high-tax exception) and § 1.951A-2(c)(7)(viii) (relating to the GILTI high-tax exclusion). These amounts are also determined without regard to any section 163(j) limitation on business interest expense and without regard to any disallowed business interest expense carryovers. In addition, those amounts are determined by only taking in account items of the applicable CFC(s) that are properly allocable to a non-excepted trade or business under § 1.163(j)-10.
+
+(4) *Qualified tentative taxable income.* The term *qualified tentative taxable income* means, with respect to a taxable year of a stand-alone applicable CFC, the applicable CFC's tentative taxable income, and with respect to a specified period of a CFC group, the sum of each CFC group member's tentative taxable income for the specified taxable year; provided that for purposes of this paragraph (h)(4), tentative taxable income is determined by taking into account only items properly allocable to a non-excepted trade or business under § 1.163(j)-10.
+
+(5) *Manner of making a safe-harbor election* - (i) *In general.* A safe-harbor election is an annual election made under this paragraph (h)(5) with respect to a taxable year of a stand-alone applicable CFC or with respect to a specified period of a CFC group. A safe-harbor election that is made with respect to a specified period of a CFC group is effective with respect to each CFC group member for its specified taxable year. A safe-harbor election is only effective if made by each designated U.S. person with respect to a stand-alone applicable CFC or a CFC group. A safe-harbor election is made with respect to a taxable year of a stand-alone applicable CFC, or a specified period of a CFC group, no later than the due date (taking into account extensions, if any) of the original Federal income tax return for the taxable year of each designated U.S. person, respectively, in which or with which the taxable year of the stand-alone applicable CFC ends or the specified period of the CFC group ends.
+
+(ii) *Election statement.* To make a safe-harbor election, each designated U.S. person must attach to its relevant Federal income tax return or information return a statement that includes the name and taxpayer identification number of all designated U.S. persons, a statement that a safe-harbor election is being made pursuant to § 1.163(j)-7(h) and a calculation that substantiates that the requirements for making the election are satisfied, and the taxable year of the stand-alone applicable CFC or the specified period of the CFC group, as applicable, for which the safe-harbor election is being made in accordance with publications, forms, instructions, or other guidance. In the case of a CFC group, the statement must also include the name of each CFC group member and its specified taxable year that ends with or within the specified period for which the safe-harbor election is being made. The statement must be filed in the manner prescribed in publications, forms, instructions, or other guidance.
+
+(6) *Special rule for taxable years or specified periods beginning in 2019 or 2020.* In the case of a stand-alone applicable CFC, for any taxable year beginning in 2019 or 2020, paragraph (h)(2)(i) of this section is applied by substituting “50 percent” for “30 percent.” In the case of a CFC group, for any specified period beginning in 2019 or 2020, paragraph (h)(2)(ii)(A) of this section is applied by substituting “50 percent” for “30 percent.”
+
+(k) *Definitions.* The following definitions apply for purposes of this section.
+
+(1) *Applicable partnership.* The term *applicable partnership* has the meaning provided in paragraph (g)(4)(iii) of this section.
+
+(2) *Applicable specified taxable year.* The term *applicable specified taxable year* has the meaning provided in paragraph (c)(3)(iii) of this section.
+
+(3) *ATI adjustment amount.* The term *ATI adjustment amount* has the meaning provided in paragraph (g)(4)(ii) of this section.
+
+(4)*-*(5) [Reserved].
+
+(6) *CFC group.* The term *CFC group* has the meaning provided in paragraph (e)(2)(i) of this section.
+
+(7) *CFC group election.* The term *CFC group election* means the election described in paragraph (e)(5) of this section.
+
+(8) *CFC group member.* The term *CFC group member* has the meaning provided in paragraph (e)(2)(ii) of this section.
+
+(9) [Reserved].
+
+(10) *Cumulative section 163(j) pre-group carryforward limitation.* The term *cumulative section 163(j) pre-group carryforward limitation* has the meaning provided in paragraph (c)(3)(iv)(A)(*1*) of this section.
+
+(11) *Current group.* The term *current group* has the meaning provided in paragraph (c)(3)(iv)(A)(*2*) of this section.
+
+(12) *Designated U.S. person.* The term *designated U.S. person* means -
+
+(i) With respect to a stand-alone applicable CFC, each controlling domestic shareholder, as defined in § 1.964-1(c)(5)(i) of the applicable CFC; or
+
+(ii) With respect to a specified group, the specified group parent, if the specified group parent is a qualified U.S. person, or each controlling domestic shareholder, as defined in § 1.964-1(c)(5)(i), of the specified group parent, if the specified group parent is an applicable CFC.
+
+(13) *ECI deemed corporation.* The term *ECI deemed corporation* has the meaning provided in paragraph (f)(1)(i) of this section.
+
+(14) *Effectively connected income.* The term *effectively connected income* (or *ECI*) means income or gain that is ECI, as defined in § 1.884-1(d)(1)(iii), and deduction or loss that is allocable to, ECI, as defined in § 1.884-1(d)(1)(iii).
+
+(15) *Eligible amount.* The term *eligible amount* has the meaning provided in paragraph (h)(3)(i) of this section.
+
+(16) *Former group.* The term *former group* has the meaning provided in paragraph (c)(3)(iv)(A)(*2*) of this section.
+
+(17) *Loss member.* The term *loss member* has the meaning provided in paragraph (c)(3)(iv)(A)(*2*) of this section.
+
+(18) *Payment amount.* The term *payment amount* has the meaning provided in paragraph (g)(4)(i) of this section.
+
+(19) *Pre-group disallowed business interest expense carryforward.* The term *pre-group disallowed business interest expense carryforward* means, with respect to a CFC group member and a specified taxable year, any disallowed business interest expense carryforward of the CFC group member that arose in a taxable year during which the CFC group member (or its predecessor) was not a CFC group member of the CFC group.
+
+(20) *Qualified tentative taxable income.* The term *qualified tentative taxable income* has the meaning provided in paragraph (h)(4) of this section.
+
+(21) *Qualified U.S. person.* The term *qualified U.S. person* has the meaning provided in paragraph (d)(2)(iv) of this section.
+
+(22) *Relevant period.* The term *relevant period* has the meaning provided in paragraph (c)(3)(iv)(A)(*2*) of this section.
+
+(23) *Safe-harbor election.* The term *safe-harbor election* has the meaning provided in paragraph (h)(1) of this section.
+
+(24) *Specified borrower.* The term *specified borrower* has the meaning provided in paragraph (g)(4)(i) of this section.
+
+(25) *Specified group.* The term *specified group* has the meaning provided in paragraph (d)(2)(i) of this section.
+
+(26) *Specified group member.* The term *specified group member* has the meaning provided in paragraph (d)(3) of this section.
+
+(27) *Specified group parent.* The term *specified group parent* has the meaning provided in paragraph (d)(2)(iii) of this section.
+
+(28) *Specified lender.* The term *specified lender* has the meaning provided in paragraph (g)(4)(i) of this section.
+
+(29) *Specified period* - (i) *In general.* Except as otherwise provided in paragraph (k)(29)(ii) of this section, the term *specified period* means, with respect to a specified group -
+
+(A) If the specified group parent is a qualified U.S. person, the period ending on the last day of the taxable year of the specified group parent and beginning on the first day after the last day of the specified group's immediately preceding specified period; or
+
+(B) If the specified group parent is an applicable CFC, the period ending on the last day of the specified group parent's required year described in section 898(c)(1), without regard to section 898(c)(2), and beginning on the first day after the last day of the specified group's immediately preceding specified period.
+
+(ii) *Short specified period.* A specified period begins no earlier than the first date on which a specified group exists. A specified period ends on the date a specified group ceases to exist under paragraph (d)(2)(vii) of this section. If the last day of a specified period, as determined under paragraph (k)(29)(i) of this section, changes, and, but for this paragraph (k)(29)(ii), the change in the last day of the specified period would result in the specified period being longer than 12 months, the specified period ends on the date on which the specified period would have ended had the change not occurred.
+
+(30) *Specified taxable year.* The term *specified taxable year* means, with respect to an applicable CFC that is a specified group member of a specified group and a specified period, a taxable year of the applicable CFC that ends with or within the specified period.
+
+(31) *Stand-alone applicable CFC.* The term *stand-alone applicable CFC* means any applicable CFC that is not a specified group member.
+
+(32) *Stock.* The term *stock* has the meaning provided in paragraph (d)(2)(v) of this section.
+
+(l) *Examples.* The following examples illustrate the application of this section. For each example, unless otherwise stated, no exemptions from the application of section 163(j) are available, no foreign corporation has ECI, and all relevant taxable years and specified periods begin after December 31, 2020.
+
+(1) *Example 1. Specified taxable years included in specified period of a specified group* - (i) *Facts.* As of June 30, Year 1, USP, a domestic corporation, owns 60 percent of the common stock of FP, which owns all of the stock of FC1, FC2, and FC3. The remaining 40 percent of the common stock of FP is owned by an unrelated foreign corporation. FP has a single class of stock. FP acquired the stock of FC3 from an unrelated person on March 22, Year 1. The acquisition did not result in a change in FC3's taxable year or a close of its taxable year. USP's interest in FP and FP's interest in FC1 and FC2 has been the same for several years. USP has a taxable year ending June 30, Year 1, which is not a short taxable year. Each of FP, FC1, FC2, and FC3 are applicable CFCs. Pursuant to section 898(c)(2), FP and FC1 have taxable years ending May 31, Year 1. Pursuant to section 898(c)(1), FC2 and FC3 have taxable years ending June 30, Year 1.
+
+(ii) *Analysis* - (A) *Determining a specified group and specified period of the specified group.* Pursuant to paragraph (d) of this section, FP, FC1, FC2, and FC3 are members of a specified group, and FP is the specified group parent. Because the specified group parent, FP, is an applicable CFC, the specified period of the specified group is the period ending on June 30, Year 1, which is the last day of FP's required year described in section 898(c)(1), without regard to section 898(c)(2), and beginning on July 1, Year 0, which is the first day following the last day of the specified group's immediately preceding specified period (June 30, Year 0). See paragraph (k)(29)(i)(B) of this section.
+
+(B) *Determining the specified taxable years with respect to the specified period.* Pursuant to paragraph (d)(3) of this section, because each of FP and FC1 are included in the specified group on the last day of their taxable years ending May 31, Year 1, and such taxable years end with or within the specified period ending June 30, Year 1, FP and FC1 are specified group members with respect to the specified period ending June 30, Year 1, for their entire taxable years ending May 31, Year 1, and those taxable years are specified taxable years. Similarly, because each of FC2 and FC3 are included in the specified group on the last day of their taxable years ending June 30, Year 1, and such taxable years end with or within the specified period ending June 30, Year 1, FC2 and FC3 are specified group members with respect to the specified period ending June 30, Year 1, for their entire taxable years ending June 30, Year 1, and those taxable years are specified taxable years. The fact that FC3 was acquired on March 22, Year 1, does not prevent FC3 from being a specified group member with respect to the specified period for the portion of its specified taxable year before March 22, Year 1.
+
+(2) *Example 2. CFC groups* - (i) *Facts.* The facts are the same as in *Example 1* in paragraph (l)(1)(i) of this section except that, in addition, a CFC group election is in place with respect to the specified period ending June 30, Year 1.
+
+(ii) *Analysis.* Because a CFC group election is in place for the specified period ending June 30, Year 1, pursuant to paragraph (e)(2)(ii) of this section, each specified group member is a CFC group member with respect to its specified taxable year ending with or within the specified period. Accordingly, FP, FC1, FC2, and FC3 are CFC group members with respect to the specified period ending June 30, Year 1, for their specified taxable years ending May 31, Year 1, and June 30, Year 1, respectively. Pursuant to paragraph (e)(2)(i) of this section, the CFC group for the specified period ending June 30, Year 1, consists of FP, FC1, FC2, and FC3 for their specified taxable years ending May 31, Year 1, and June 30, Year 1, respectively. Pursuant to paragraph (c)(2) of this section, a single section 163(j) limitation is computed for the specified period ending June 30, Year 1. That section 163(j) calculation will include FP and FC1's specified taxable years ending May 31, Year 1, and FC2 and FC3's specified taxable years ending June 30, Year 1.
+
+(3) *Example 3. Application of anti-abuse rule* - (i) *Facts.* USP, a domestic corporation, owns all of the stock of CFC1 and CFC2. Thus, USP is the specified group parent of a specified group, the specified group members of which are CFC1 and CFC2. USP has a calendar year taxable year. All specified group members also have a calendar year taxable year and a functional currency of the U.S. dollar. CFC1 is organized in, and a tax resident of, a jurisdiction that imposes no tax on certain types of income, including interest income. With respect to Year 1, USP expects to pay no residual U.S. tax on its income inclusion under section 951A(a) (GILTI inclusion amount) and expects to have unused foreign tax credits in the category described in section 904(d)(1)(A). A CFC group election is not in effect for Year 1. With a principal purpose of reducing USP's Federal income tax liability in subsequent taxable years, on January 1, Year 1, CFC1 loans $100x to CFC2. On December 31, Year 1, CFC2 pays interest of $10x to CFC1 and repays the principal of $100x. Absent the application of paragraph (g)(4)(i) of this section, all $10x of CFC2's interest expense would be disallowed business interest expense and, therefore, CFC2 would have $10x of disallowed business interest expense carryforward to Year 2. In Year 2, CFC2 disposes of one of its businesses at a substantial gain that gives rise to tested income (within the meaning of section 951A(c)(2)(A) and § 1.951A-2(b)(1)). As a result of the gain being included in the ATI of CFC2, absent the application of paragraph (g)(4)(i) of this section, CFC2 would be allowed to deduct the entire $10x of disallowed business interest expense carryforward and therefore reduce the amount of its tested income. Also, USP would pay residual U.S. tax on its GILTI inclusion amount in Year 2, without regard to the application of paragraph (g)(4)(i) of this section.
+
+(ii) *Analysis.* The $10x of business interest expense paid in Year 1 is a payment amount described in paragraph (g)(4)(i) of this section because it is between specified group members, CFC1 and CFC2. Furthermore, the requirements of paragraphs (g)(4)(i)(A), (B), and (C) of this section are satisfied because the $10x of business interest expense is incurred with a principal purpose of reducing USP's Federal income tax liability; absent the application of paragraph (g)(4)(i) of this section, the effect of CFC2 treating the $10x of business interest expense as disallowed business interest expense in Year 1 would be to reduce USP's Federal income tax liability in Year 2; and no CFC group election is in effect with respect to the specified group in Year 1. Because the requirements of paragraphs (g)(4)(i)(A), (B), and (C) of this section are satisfied, CFC2's ATI for Year 1 is increased by the ATI adjustment amount, or $33.33x, which is the amount equal to 31/3 multiplied by $10x (the lesser of the payment amount of $10x and the disallowed business interest expense of $10x). As a result, the $10x of business interest expense is not disallowed business interest expense of CFC2 in Year 1, and therefore does not give rise to a disallowed business interest expense carryforward to Year 2.
+
+(m) *Applicability dates* - (1) *General applicability date.* Except as provided in paragraph (m)(2) of this section, this section applies for a taxable year of a foreign corporation beginning on or after November 13, 2020.
+
+(2) *Exception.* Paragraphs (a), (c)(1), (c)(2)(i) and (ii), and (c)(3) through (5), (d), (e), (f)(1), (g)(3) and (4), (h), and (k)(1) through (3), (6) through (8), and (10) through (32) of this section apply for a taxable year of a foreign corporation beginning on or after March 22, 2021.
+
+(3) *Early application* - (i) *Rules for paragraphs (b) and (g)(1) and (2) of this section.* Taxpayers and their related parties, within the meaning of sections 267(b) (determined without regard to section 267(c)(3)) and 707(b)(1), may choose to apply the rules in paragraphs (b) and (g)(1) and (2) of this section for a taxable year beginning after December 31, 2017, and before November 13, 2020, provided that those taxpayers and their related parties consistently apply all of those rules and the rules described in paragraph (m)(4) of this section for that taxable year. If a taxpayer and its related parties apply the rules described in paragraph (m)(4) of this section, as contained in T.D. 9905 (§§ 1.163(j)-0 through 1.163(j)-11, effective November 13, 2020), they will be considered as applying the rules described in paragraph (m)(4) of this section for purposes of this paragraph (m)(3)(i).
+
+(ii) *Rules for certain other paragraphs in this section.* Taxpayers and their related parties, within the meaning of sections 267(b) (determined without regard to section 267(c)(3)) and 707(b)(1), may choose to apply the rules in paragraphs (a), (c)(1), (c)(2)(i) and (ii), and (c)(3) through (5), (d), (e), (f)(1), (g)(3) and (4), (h), and (k)(1) through (3), (6) through (8), and (10) through (32) of this section for a taxable year beginning after December 31, 2017, and before March 22, 2021, provided that those taxpayers and their related parties consistently apply all of those rules and the rules described in paragraph (m)(4) of this section for that taxable year and for each subsequent taxable year. If a taxpayer and its related parties apply the rules described in paragraph (m)(4) of this section, as contained in T.D. 9905 (§§ 1.163(j)-0 through 1.163(j)-11, effective November 13, 2020) as modified by T.D. 9943 (effective January 13, 2021),they will be considered as applying the rules described in paragraph (m)(4) of this section for purposes of this paragraph (m)(3)(ii).
+
+(4) *Additional rules that must be applied consistently.* The rules described in this paragraph (m)(4) are the section 163(j) regulations and, if applicable, §§ 1.263A-9, 1.263A-15, 1.381(c)(20)-1, 1.382-1, 1.382-2, 1.382-5, 1.382-6, 1.382-7, 1.383-0, 1.383-1, 1.469-9, 1.469-11, 1.704-1, 1.882-5, 1.1362-3, 1.1368-1, 1.1377-1, 1.1502-13, 1.1502-21, 1.1502-36, 1.1502-79, 1.1502-91 through 1.1502-99 (to the extent they effectuate the rules of §§ 1.382-2, 1.382-5, 1.382-6, and 1.383-1) and 1.1504-4.
+
+(5) *Election for prior taxable years and specified periods.* Notwithstanding paragraph (e)(5)(iii) or (h)(5)(i) of this section, in the case of a specified period of a specified group or a taxable year of a stand-alone applicable CFC that ends with or within a taxable year of a designated U.S. person ending before November 13, 2020, a CFC group election or a safe-harbor election may be made on an amended Federal income tax return filed on or before the due date (taking into account extensions, if any) of the original Federal income tax return for the first taxable year of each designated U.S. person ending on or after November 13, 2020.
+
+(k) *Definitions.* The following definitions apply for purposes of this section.
+
+(1) *Applicable partnership.* The term *applicable partnership* has the meaning provided in paragraph (g)(4)(iii) of this section.
+
+(2) *Applicable specified taxable year.* The term *applicable specified taxable year* has the meaning provided in paragraph (c)(3)(iii) of this section.
+
+(3) *ATI adjustment amount.* The term *ATI adjustment amount* has the meaning provided in paragraph (g)(4)(ii) of this section.
+
+(4)*-*(5) [Reserved].
+
+(6) *CFC group.* The term *CFC group* has the meaning provided in paragraph (e)(2)(i) of this section.
+
+(7) *CFC group election.* The term *CFC group election* means the election described in paragraph (e)(5) of this section.
+
+(8) *CFC group member.* The term *CFC group member* has the meaning provided in paragraph (e)(2)(ii) of this section.
+
+(9) [Reserved].
+
+(10) *Cumulative section 163(j) pre-group carryforward limitation.* The term *cumulative section 163(j) pre-group carryforward limitation* has the meaning provided in paragraph (c)(3)(iv)(A)(*1*) of this section.
+
+(11) *Current group.* The term *current group* has the meaning provided in paragraph (c)(3)(iv)(A)(*2*) of this section.
+
+(12) *Designated U.S. person.* The term *designated U.S. person* means -
+
+(i) With respect to a stand-alone applicable CFC, each controlling domestic shareholder, as defined in § 1.964-1(c)(5)(i) of the applicable CFC; or
+
+(ii) With respect to a specified group, the specified group parent, if the specified group parent is a qualified U.S. person, or each controlling domestic shareholder, as defined in § 1.964-1(c)(5)(i), of the specified group parent, if the specified group parent is an applicable CFC.
+
+(13) *ECI deemed corporation.* The term *ECI deemed corporation* has the meaning provided in paragraph (f)(1)(i) of this section.
+
+(14) *Effectively connected income.* The term *effectively connected income* (or *ECI*) means income or gain that is ECI, as defined in § 1.884-1(d)(1)(iii), and deduction or loss that is allocable to, ECI, as defined in § 1.884-1(d)(1)(iii).
+
+(15) *Eligible amount.* The term *eligible amount* has the meaning provided in paragraph (h)(3)(i) of this section.
+
+(16) *Former group.* The term *former group* has the meaning provided in paragraph (c)(3)(iv)(A)(*2*) of this section.
+
+(17) *Loss member.* The term *loss member* has the meaning provided in paragraph (c)(3)(iv)(A)(*2*) of this section.
+
+(18) *Payment amount.* The term *payment amount* has the meaning provided in paragraph (g)(4)(i) of this section.
+
+(19) *Pre-group disallowed business interest expense carryforward.* The term *pre-group disallowed business interest expense carryforward* means, with respect to a CFC group member and a specified taxable year, any disallowed business interest expense carryforward of the CFC group member that arose in a taxable year during which the CFC group member (or its predecessor) was not a CFC group member of the CFC group.
+
+(20) *Qualified tentative taxable income.* The term *qualified tentative taxable income* has the meaning provided in paragraph (h)(4) of this section.
+
+(21) *Qualified U.S. person.* The term *qualified U.S. person* has the meaning provided in paragraph (d)(2)(iv) of this section.
+
+(22) *Relevant period.* The term *relevant period* has the meaning provided in paragraph (c)(3)(iv)(A)(*2*) of this section.
+
+(23) *Safe-harbor election.* The term *safe-harbor election* has the meaning provided in paragraph (h)(1) of this section.
+
+(24) *Specified borrower.* The term *specified borrower* has the meaning provided in paragraph (g)(4)(i) of this section.
+
+(25) *Specified group.* The term *specified group* has the meaning provided in paragraph (d)(2)(i) of this section.
+
+(26) *Specified group member.* The term *specified group member* has the meaning provided in paragraph (d)(3) of this section.
+
+(27) *Specified group parent.* The term *specified group parent* has the meaning provided in paragraph (d)(2)(iii) of this section.
+
+(28) *Specified lender.* The term *specified lender* has the meaning provided in paragraph (g)(4)(i) of this section.
+
+(29) *Specified period* - (i) *In general.* Except as otherwise provided in paragraph (k)(29)(ii) of this section, the term *specified period* means, with respect to a specified group -
+
+(A) If the specified group parent is a qualified U.S. person, the period ending on the last day of the taxable year of the specified group parent and beginning on the first day after the last day of the specified group's immediately preceding specified period; or
+
+(B) If the specified group parent is an applicable CFC, the period ending on the last day of the specified group parent's required year described in section 898(c)(1), without regard to section 898(c)(2), and beginning on the first day after the last day of the specified group's immediately preceding specified period.
+
+(ii) *Short specified period.* A specified period begins no earlier than the first date on which a specified group exists. A specified period ends on the date a specified group ceases to exist under paragraph (d)(2)(vii) of this section. If the last day of a specified period, as determined under paragraph (k)(29)(i) of this section, changes, and, but for this paragraph (k)(29)(ii), the change in the last day of the specified period would result in the specified period being longer than 12 months, the specified period ends on the date on which the specified period would have ended had the change not occurred.
+
+(30) *Specified taxable year.* The term *specified taxable year* means, with respect to an applicable CFC that is a specified group member of a specified group and a specified period, a taxable year of the applicable CFC that ends with or within the specified period.
+
+(31) *Stand-alone applicable CFC.* The term *stand-alone applicable CFC* means any applicable CFC that is not a specified group member.
+
+(32) *Stock.* The term *stock* has the meaning provided in paragraph (d)(2)(v) of this section.
+
+(l) *Examples.* The following examples illustrate the application of this section. For each example, unless otherwise stated, no exemptions from the application of section 163(j) are available, no foreign corporation has ECI, and all relevant taxable years and specified periods begin after December 31, 2020.
+
+(1) *Example 1. Specified taxable years included in specified period of a specified group* - (i) *Facts.* As of June 30, Year 1, USP, a domestic corporation, owns 60 percent of the common stock of FP, which owns all of the stock of FC1, FC2, and FC3. The remaining 40 percent of the common stock of FP is owned by an unrelated foreign corporation. FP has a single class of stock. FP acquired the stock of FC3 from an unrelated person on March 22, Year 1. The acquisition did not result in a change in FC3's taxable year or a close of its taxable year. USP's interest in FP and FP's interest in FC1 and FC2 has been the same for several years. USP has a taxable year ending June 30, Year 1, which is not a short taxable year. Each of FP, FC1, FC2, and FC3 are applicable CFCs. Pursuant to section 898(c)(2), FP and FC1 have taxable years ending May 31, Year 1. Pursuant to section 898(c)(1), FC2 and FC3 have taxable years ending June 30, Year 1.
+
+(ii) *Analysis* - (A) *Determining a specified group and specified period of the specified group.* Pursuant to paragraph (d) of this section, FP, FC1, FC2, and FC3 are members of a specified group, and FP is the specified group parent. Because the specified group parent, FP, is an applicable CFC, the specified period of the specified group is the period ending on June 30, Year 1, which is the last day of FP's required year described in section 898(c)(1), without regard to section 898(c)(2), and beginning on July 1, Year 0, which is the first day following the last day of the specified group's immediately preceding specified period (June 30, Year 0). See paragraph (k)(29)(i)(B) of this section.
+
+(B) *Determining the specified taxable years with respect to the specified period.* Pursuant to paragraph (d)(3) of this section, because each of FP and FC1 are included in the specified group on the last day of their taxable years ending May 31, Year 1, and such taxable years end with or within the specified period ending June 30, Year 1, FP and FC1 are specified group members with respect to the specified period ending June 30, Year 1, for their entire taxable years ending May 31, Year 1, and those taxable years are specified taxable years. Similarly, because each of FC2 and FC3 are included in the specified group on the last day of their taxable years ending June 30, Year 1, and such taxable years end with or within the specified period ending June 30, Year 1, FC2 and FC3 are specified group members with respect to the specified period ending June 30, Year 1, for their entire taxable years ending June 30, Year 1, and those taxable years are specified taxable years. The fact that FC3 was acquired on March 22, Year 1, does not prevent FC3 from being a specified group member with respect to the specified period for the portion of its specified taxable year before March 22, Year 1.
+
+(2) *Example 2. CFC groups* - (i) *Facts.* The facts are the same as in *Example 1* in paragraph (l)(1)(i) of this section except that, in addition, a CFC group election is in place with respect to the specified period ending June 30, Year 1.
+
+(ii) *Analysis.* Because a CFC group election is in place for the specified period ending June 30, Year 1, pursuant to paragraph (e)(2)(ii) of this section, each specified group member is a CFC group member with respect to its specified taxable year ending with or within the specified period. Accordingly, FP, FC1, FC2, and FC3 are CFC group members with respect to the specified period ending June 30, Year 1, for their specified taxable years ending May 31, Year 1, and June 30, Year 1, respectively. Pursuant to paragraph (e)(2)(i) of this section, the CFC group for the specified period ending June 30, Year 1, consists of FP, FC1, FC2, and FC3 for their specified taxable years ending May 31, Year 1, and June 30, Year 1, respectively. Pursuant to paragraph (c)(2) of this section, a single section 163(j) limitation is computed for the specified period ending June 30, Year 1. That section 163(j) calculation will include FP and FC1's specified taxable years ending May 31, Year 1, and FC2 and FC3's specified taxable years ending June 30, Year 1.
+
+(3) *Example 3. Application of anti-abuse rule* - (i) *Facts.* USP, a domestic corporation, owns all of the stock of CFC1 and CFC2. Thus, USP is the specified group parent of a specified group, the specified group members of which are CFC1 and CFC2. USP has a calendar year taxable year. All specified group members also have a calendar year taxable year and a functional currency of the U.S. dollar. CFC1 is organized in, and a tax resident of, a jurisdiction that imposes no tax on certain types of income, including interest income. With respect to Year 1, USP expects to pay no residual U.S. tax on its income inclusion under section 951A(a) (GILTI inclusion amount) and expects to have unused foreign tax credits in the category described in section 904(d)(1)(A). A CFC group election is not in effect for Year 1. With a principal purpose of reducing USP's Federal income tax liability in subsequent taxable years, on January 1, Year 1, CFC1 loans $100x to CFC2. On December 31, Year 1, CFC2 pays interest of $10x to CFC1 and repays the principal of $100x. Absent the application of paragraph (g)(4)(i) of this section, all $10x of CFC2's interest expense would be disallowed business interest expense and, therefore, CFC2 would have $10x of disallowed business interest expense carryforward to Year 2. In Year 2, CFC2 disposes of one of its businesses at a substantial gain that gives rise to tested income (within the meaning of section 951A(c)(2)(A) and § 1.951A-2(b)(1)). As a result of the gain being included in the ATI of CFC2, absent the application of paragraph (g)(4)(i) of this section, CFC2 would be allowed to deduct the entire $10x of disallowed business interest expense carryforward and therefore reduce the amount of its tested income. Also, USP would pay residual U.S. tax on its GILTI inclusion amount in Year 2, without regard to the application of paragraph (g)(4)(i) of this section.
+
+(ii) *Analysis.* The $10x of business interest expense paid in Year 1 is a payment amount described in paragraph (g)(4)(i) of this section because it is between specified group members, CFC1 and CFC2. Furthermore, the requirements of paragraphs (g)(4)(i)(A), (B), and (C) of this section are satisfied because the $10x of business interest expense is incurred with a principal purpose of reducing USP's Federal income tax liability; absent the application of paragraph (g)(4)(i) of this section, the effect of CFC2 treating the $10x of business interest expense as disallowed business interest expense in Year 1 would be to reduce USP's Federal income tax liability in Year 2; and no CFC group election is in effect with respect to the specified group in Year 1. Because the requirements of paragraphs (g)(4)(i)(A), (B), and (C) of this section are satisfied, CFC2's ATI for Year 1 is increased by the ATI adjustment amount, or $33.33x, which is the amount equal to 31/3 multiplied by $10x (the lesser of the payment amount of $10x and the disallowed business interest expense of $10x). As a result, the $10x of business interest expense is not disallowed business interest expense of CFC2 in Year 1, and therefore does not give rise to a disallowed business interest expense carryforward to Year 2.
+
+(m) *Applicability dates* - (1) *General applicability date.* Except as provided in paragraph (m)(2) of this section, this section applies for a taxable year of a foreign corporation beginning on or after November 13, 2020.
+
+(2) *Exception.* Paragraphs (a), (c)(1), (c)(2)(i) and (ii), and (c)(3) through (5), (d), (e), (f)(1), (g)(3) and (4), (h), and (k)(1) through (3), (6) through (8), and (10) through (32) of this section apply for a taxable year of a foreign corporation beginning on or after March 22, 2021.
+
+(3) *Early application* - (i) *Rules for paragraphs (b) and (g)(1) and (2) of this section.* Taxpayers and their related parties, within the meaning of sections 267(b) (determined without regard to section 267(c)(3)) and 707(b)(1), may choose to apply the rules in paragraphs (b) and (g)(1) and (2) of this section for a taxable year beginning after December 31, 2017, and before November 13, 2020, provided that those taxpayers and their related parties consistently apply all of those rules and the rules described in paragraph (m)(4) of this section for that taxable year. If a taxpayer and its related parties apply the rules described in paragraph (m)(4) of this section, as contained in T.D. 9905 (§§ 1.163(j)-0 through 1.163(j)-11, effective November 13, 2020), they will be considered as applying the rules described in paragraph (m)(4) of this section for purposes of this paragraph (m)(3)(i).
+
+(ii) *Rules for certain other paragraphs in this section.* Taxpayers and their related parties, within the meaning of sections 267(b) (determined without regard to section 267(c)(3)) and 707(b)(1), may choose to apply the rules in paragraphs (a), (c)(1), (c)(2)(i) and (ii), and (c)(3) through (5), (d), (e), (f)(1), (g)(3) and (4), (h), and (k)(1) through (3), (6) through (8), and (10) through (32) of this section for a taxable year beginning after December 31, 2017, and before March 22, 2021, provided that those taxpayers and their related parties consistently apply all of those rules and the rules described in paragraph (m)(4) of this section for that taxable year and for each subsequent taxable year. If a taxpayer and its related parties apply the rules described in paragraph (m)(4) of this section, as contained in T.D. 9905 (§§ 1.163(j)-0 through 1.163(j)-11, effective November 13, 2020) as modified by T.D. 9943 (effective January 13, 2021),they will be considered as applying the rules described in paragraph (m)(4) of this section for purposes of this paragraph (m)(3)(ii).
+
+(4) *Additional rules that must be applied consistently.* The rules described in this paragraph (m)(4) are the section 163(j) regulations and, if applicable, §§ 1.263A-9, 1.263A-15, 1.381(c)(20)-1, 1.382-1, 1.382-2, 1.382-5, 1.382-6, 1.382-7, 1.383-0, 1.383-1, 1.469-9, 1.469-11, 1.704-1, 1.882-5, 1.1362-3, 1.1368-1, 1.1377-1, 1.1502-13, 1.1502-21, 1.1502-36, 1.1502-79, 1.1502-91 through 1.1502-99 (to the extent they effectuate the rules of §§ 1.382-2, 1.382-5, 1.382-6, and 1.383-1) and 1.1504-4.
+
+(5) *Election for prior taxable years and specified periods.* Notwithstanding paragraph (e)(5)(iii) or (h)(5)(i) of this section, in the case of a specified period of a specified group or a taxable year of a stand-alone applicable CFC that ends with or within a taxable year of a designated U.S. person ending before November 13, 2020, a CFC group election or a safe-harbor election may be made on an amended Federal income tax return filed on or before the due date (taking into account extensions, if any) of the original Federal income tax return for the first taxable year of each designated U.S. person ending on or after November 13, 2020.
+
+[T.D. 9905, 85 FR 56760, Sept. 14, 2020, as amended by T.D. 9943, 86 FR 5532, Jan. 19, 2021]

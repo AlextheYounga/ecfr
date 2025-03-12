@@ -1,0 +1,7 @@
+##### § 1.163-15 Debt proceeds distributed from any taxpayer account or from cash. #####
+
+(a) *In general.* Regardless of paragraphs (c)(4) and (5) of § 1.163-8T, in the case of debt proceeds deposited in an account, a taxpayer that is applying § 1.163-8T or § 1.163-14 may treat any expenditure made from any account of the taxpayer, or from cash, within 30 days before or 30 days after debt proceeds are deposited in any account of the taxpayer as made from such proceeds to the extent thereof. Similarly, in the case of debt proceeds received in cash, a taxpayer that is applying § 1.163-8T or § 1.163-14 may treat any expenditure made from any account of the taxpayer, or from cash, within 30 days before or 30 days after debt proceeds are received in cash as made from such proceeds to the extent thereof. For purposes of this section, terms used have the same meaning as in § 1.163-8T(c)(4) and (5).
+
+(b) *Applicability date.* This section applies to taxable years beginning on or after March 22, 2021. However, taxpayers and their related parties, within the meaning of sections 267(b) (determined without regard to section 267(c)(3)) and 707(b)(1), may choose to apply the rules in this section to a taxable year beginning after December 31, 2017, and before March 22, 2021, provided that those taxpayers and their related parties consistently apply all of the rules in this section to that taxable year and each subsequent taxable year.
+
+[T.D. 9943, 86 FR 5521, Jan. 19, 2021]

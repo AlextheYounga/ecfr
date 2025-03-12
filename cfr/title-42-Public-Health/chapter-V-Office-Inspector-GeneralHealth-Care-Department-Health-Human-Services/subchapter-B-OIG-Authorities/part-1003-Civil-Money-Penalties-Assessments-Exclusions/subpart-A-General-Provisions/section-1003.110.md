@@ -1,7 +1,5 @@
 ##### § 1003.110 Definitions. #####
 
-Link to an amendment published at 85 FR 77894, Dec. 2, 2020.
-
 For purposes of this part:
 
 *Assessment* means the amounts described in this part and includes the plural of that term.
@@ -34,7 +32,7 @@ For purposes of this part:
 
 *Physician incentive plan* means any compensation arrangement between a contracting organization and a physician or physician group that may directly or indirectly have the effect of reducing or limiting services provided with respect to enrollees in the organization.
 
-*Preventive care,* for purposes of the definition of the term Remuneration as set forth in this section and the preventive care exception to section 231(h) of HIPAA, means any service that -
+*Preventive care,* for purposes of the definition of the term Remuneration as set forth in this section and the preventive care exception to section 231(h) of HIPAA, means any service that—
 
 (1) Is a prenatal service or a post-natal well-baby visit or is a specific clinical service described in the current U.S. Preventive Services Task Force's *Guide to Clinical Preventive Services,* and
 
@@ -50,7 +48,7 @@ For purposes of this part:
 
 (3) Differentials in coinsurance and deductible amounts as part of a benefit plan design (as long as the differentials have been disclosed in writing to all beneficiaries, third party payers and providers), to whom claims are presented;
 
-(4) Incentives given to individuals to promote the delivery of preventive care services where the delivery of such services is not tied (directly or indirectly) to the provision of other services reimbursed in whole or in part by Medicare or an applicable State health care program. Such incentives may include the provision of preventive care, but may not include -
+(4) Incentives given to individuals to promote the delivery of preventive care services where the delivery of such services is not tied (directly or indirectly) to the provision of other services reimbursed in whole or in part by Medicare or an applicable State health care program. Such incentives may include the provision of preventive care, but may not include—
 
 (i) Cash or instruments convertible to cash; or
 
@@ -58,7 +56,7 @@ For purposes of this part:
 
 (5) A reduction in the copayment amount for covered OPD services under section 1833(t)(8)(B) of the Act;
 
-(6) Items or services that improve a beneficiary's ability to obtain items and services payable by Medicare or Medicaid, and pose a low risk of harm to Medicare and Medicaid beneficiaries and the Medicare and Medicaid programs by -
+(6) Items or services that improve a beneficiary's ability to obtain items and services payable by Medicare or Medicaid, and pose a low risk of harm to Medicare and Medicaid beneficiaries and the Medicare and Medicaid programs by—
 
 (i) Being unlikely to interfere with, or skew, clinical decision making;
 
@@ -66,7 +64,7 @@ For purposes of this part:
 
 (iii) Not raising patient safety or quality-of-care concerns;
 
-(7) The offer or transfer of items or services for free or less than fair market value by a person if -
+(7) The offer or transfer of items or services for free or less than fair market value by a person if—
 
 (i) The items or services consist of coupons, rebates, or other rewards from a retailer;
 
@@ -74,7 +72,7 @@ For purposes of this part:
 
 (iii) The offer or transfer of the items or services is not tied to the provision of other items or services reimbursed in whole or in part by the program under Title XVIII or a State health care program (as defined in section 1128(h) of the Act);
 
-(8) The offer or transfer of items or services for free or less than fair market value by a person, if -
+(8) The offer or transfer of items or services for free or less than fair market value by a person, if—
 
 (i) The items or services are not offered as part of any advertisement or solicitation;
 
@@ -85,6 +83,14 @@ For purposes of this part:
 (iv) The person provides the items or services after determining in good faith that the individual is in financial need;
 
 (9) Waivers by a Part D Plan sponsor (as that term is defined in 42 CFR 423.4) of any copayment for the first fill of a covered Part D drug (as defined in section 1860D-2(e)) that is a generic drug (as defined in 42 CFR 423.4) or an authorized generic drug (as defined in 21 CFR 314.3) for individuals enrolled in the Part D plan (as that term is defined in 42 CFR 423.4), as long as such waivers are included in the benefit design package submitted to CMS. This exception is applicable to coverage years beginning on or after January 1, 2018.
+
+(10) The provision of telehealth technologies by a provider of services, physician, or a renal dialysis facility (as such terms are defined for purposes of title XVIII of the Act) to an individual with end-stage renal disease who is receiving home dialysis for which payment is being made under part B of such title, if:
+
+(i) The telehealth technologies are furnished to the individual by the provider of services, physician, or the renal dialysis facility that is currently providing the in-home dialysis, telehealth services, or other end-stage renal disease care to the individual, or has been selected or contacted by the individual to schedule an appointment or provide services;
+
+(ii) The telehealth technologies are not offered as part of any advertisement or solicitation; and
+
+(iii) The telehealth technologies are provided for the purpose of furnishing telehealth services related to the individual's end-stage renal disease.
 
 *Request for payment* means an application submitted by a person to any person for payment for an item or service.
 
@@ -102,6 +108,8 @@ For purposes of this part:
 
 *Social Services Block Grant Program* means the program authorized under Title XX of the Act.
 
+*Telehealth technologies,* for purposes of paragraph (10) of the definition of the term “remuneration” as set forth in this section, means hardware, software, and services that support distant or remote communication between the patient and provider, physician, or renal dialysis facility for diagnosis, intervention, or ongoing care management.
+
 *Timely basis* means, in accordance with § 1003.300(a) of this part, the 60-day period from the time the prohibited amounts are collected by the individual or the entity.
 
-[51 FR 34777, Sept. 30, 1986, as amended at 56 FR 28492, June 21, 1991; 57 FR 3345, Jan. 29, 1992; 59 FR 32124, June 22, 1994; 59 FR 36086, July 15, 1994; 60 FR 16584, Mar. 31, 1995; 61 FR 13449, Mar. 27, 1996; 65 FR 24415, Apr. 26, 2000; 65 FR 35584, June 5, 2000; 66 FR 39452, July 31, 2001; 67 FR 11935, Mar. 18, 2002; 67 FR 76905, Dec. 13, 2002; 69 FR 28845, May 19, 2004. Redesignated and amended at 81 FR 88355, Dec. 7, 2016; 81 FR 88409, Dec. 7, 2016]
+[51 FR 34777, Sept. 30, 1986, as amended at 56 FR 28492, June 21, 1991; 57 FR 3345, Jan. 29, 1992; 59 FR 32124, June 22, 1994; 59 FR 36086, July 15, 1994; 60 FR 16584, Mar. 31, 1995; 61 FR 13449, Mar. 27, 1996; 65 FR 24415, Apr. 26, 2000; 65 FR 35584, June 5, 2000; 66 FR 39452, July 31, 2001; 67 FR 11935, Mar. 18, 2002; 67 FR 76905, Dec. 13, 2002; 69 FR 28845, May 19, 2004. Redesignated and amended at 81 FR 88355, 88409, Dec. 7, 2016; 85 FR 77894, Dec. 2, 2020]

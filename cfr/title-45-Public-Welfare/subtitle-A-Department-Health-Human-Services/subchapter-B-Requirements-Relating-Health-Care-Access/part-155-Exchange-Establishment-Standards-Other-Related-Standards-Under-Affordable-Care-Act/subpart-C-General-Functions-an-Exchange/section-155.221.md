@@ -1,5 +1,7 @@
 ##### § 155.221 Standards for direct enrollment entities and for third-parties to perform audits of direct enrollment entities. #####
 
+Link to an amendment published at 86 FR 6176, Jan. 19, 2021.
+
 (a) *Direct enrollment entities.* The Federally-facilitated Exchanges will permit the following entities to assist consumers with direct enrollment in QHPs offered through the Exchange in a manner that is considered to be through the Exchange, to the extent permitted by applicable State law:
 
 (1) QHP issuers that meet the applicable requirements in this section and § 156.1230 of this subchapter; and

@@ -1,8 +1,6 @@
 ##### § 1245.7 Adjustment of status of certain Soviet and Indochinese parolees under the Foreign Operations Appropriations Act for Fiscal Year 1990 (Pub. L. 101-167). #####
 
-Link to an amendment published at 85 FR 82794, Dec. 18, 2020.
-
-(a) *Application.* Each person applying for benefits under section 599E of Public Law 101-167 (103 Stat. 1195, 1263) must file Form I-485, Application to Register Permanent Residence or Adjust Status, with the director having jurisdiction over the applicant's place of residence and must pay the appropriate filing and fingerprinting fee, as prescribed in § 103.7 of this chapter. Each application shall be accompanied by Form I-643, Health and Human Services Statistical Data for Refugee/Asylee Adjusting Status, and the results of a medical examination given in accordance with § 1245.8. In addition, if the applicant has reached his or her 14th birthday but is not over 79 years of age, the application shall be accompanied by a completed Form G-325A, Biographic Information, and the applicant shall be fingerprinted on Form FD-258, Applicant Card, as prescribed in § 103.2(e) of this chapter.
+(a) *Application.* Each person applying for benefits under section 599E of Public Law 101-167 (103 Stat. 1195, 1263) must file Form I-485, Application to Register Permanent Residence or Adjust Status, with the director having jurisdiction over the applicant's place of residence and must pay the appropriate filing and fingerprinting fee, as prescribed in 8 CFR 103.7 and 8 CFR 103.17. Each application shall be accompanied by Form I-643, Health and Human Services Statistical Data for Refugee/Asylee Adjusting Status, and the results of a medical examination given in accordance with § 1245.8. In addition, if the applicant has reached his or her 14th birthday but is not over 79 years of age, the application shall be accompanied by a completed Form G-325A, Biographic Information, and the applicant shall be fingerprinted on Form FD-258, Applicant Card, as prescribed in § 103.2(e) of this chapter.
 
 (b) *Aliens eligible to apply for adjustment.* The benefits of this section shall only apply to an alien who:
 
@@ -26,4 +24,4 @@ Link to an amendment published at 85 FR 82794, Dec. 18, 2020.
 
 (f) *No offset in number of visas available.* When an alien is granted the status of having been lawfully admitted for permanent residence under this section, the Secretary of State shall not be required to reduce the number of immigrant visas authorized to be issued under the Immigration and Nationality Act.
 
-[55 FR 24860, July 19, 1990. Redesignated at 56 FR 49841, Oct. 2, 1991, as amended at 59 FR 33905, July 1, 1994; 63 FR 12987, Mar. 17, 1998]
+[55 FR 24860, July 19, 1990. Redesignated at 56 FR 49841, Oct. 2, 1991, as amended at 59 FR 33905, July 1, 1994; 63 FR 12987, Mar. 17, 1998; 85 FR 82794, Dec. 18, 2020]

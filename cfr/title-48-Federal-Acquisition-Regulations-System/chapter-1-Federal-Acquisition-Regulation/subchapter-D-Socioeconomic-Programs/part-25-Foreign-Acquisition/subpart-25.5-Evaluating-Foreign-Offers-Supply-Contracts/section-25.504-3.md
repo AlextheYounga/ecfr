@@ -1,5 +1,7 @@
 ##### 25.504-3 FTA/Israeli Trade Act. #####
 
+Link to an amendment published at 86 FR 6188, Jan. 19, 2021.
+
 (a) *Example 1.*
 
 |Offer A|$105,000|Domestic end product, small business.|

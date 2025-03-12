@@ -1,5 +1,7 @@
 ##### § 460.92 Required services. #####
 
+Link to an amendment published at 86 FR 6132, Jan. 19, 2021.
+
 The PACE benefit package for all participants, regardless of the source of payment, must include the following:
 
 (a) All Medicare-covered items and services.

@@ -1,8 +1,6 @@
 ##### § 35.390 Training for use of unsealed byproduct material for which a written directive is required. #####
 
-Link to an amendment published at 85 FR 65662, Oct. 16, 2020.
-
-Except as provided in § 35.57, the licensee shall require an authorized user of unsealed byproduct material for the uses authorized under § 35.300 to be a physician who -
+Except as provided in § 35.57, the licensee shall require an authorized user of unsealed byproduct material for the uses authorized under § 35.300 to be a physician who—
 
 (a) Is certified by a medical specialty board whose certification process has been recognized by the Commission or an Agreement State and who meets the requirements in paragraphs (b)(1)(ii)(G) of this section. The names of board certifications that have been recognized by the Commission or an Agreement State are posted on the NRC's Medical Uses Licensee Toolkit web page. To be recognized, a specialty board shall require all candidates for certification to:
 
@@ -10,9 +8,9 @@ Except as provided in § 35.57, the licensee shall require an authorized user of
 
 (2) Pass an examination, administered by diplomates of the specialty board, which tests knowledge and competence in radiation safety, radionuclide handling, quality assurance, and clinical use of unsealed byproduct material for which a written directive is required; or
 
-(b)(1) Has completed 700 hours of training and experience, including a minimum of 200 hours of classroom and laboratory training, in basic radionuclide handling techniques applicable to the medical use of unsealed byproduct material requiring a written directive. The training and experience must include -
+(b)(1) Has completed 700 hours of training and experience, including a minimum of 200 hours of classroom and laboratory training, in basic radionuclide handling techniques applicable to the medical use of unsealed byproduct material requiring a written directive. The training and experience must include—
 
-(i) Classroom and laboratory training in the following areas -
+(i) Classroom and laboratory training in the following areas—
 
 (A) Radiation physics and instrumentation;
 
@@ -24,7 +22,7 @@ Except as provided in § 35.57, the licensee shall require an authorized user of
 
 (E) Radiation biology; and
 
-(ii) Work experience, under the supervision of an authorized user who meets the requirements in §§ 35.57, 35.390, or equivalent Agreement State requirements. A supervising authorized user, who meets the requirements in § 35.390(b), must also have experience in administering dosages in the same dosage category or categories (*i.e.*, § 35.390(b)(1)(ii)(G)) as the individual requesting authorized user status. The work experience must involve -
+(ii) Work experience, under the supervision of an authorized user who meets the requirements in §§ 35.57, 35.390, or equivalent Agreement State requirements. A supervising authorized user, who meets the requirements in § 35.390(b), must also have experience in administering dosages in the same dosage category or categories (*i.e.*, § 35.390(b)(1)(ii)(G)) as the individual requesting authorized user status. The work experience must involve—
 
 (A) Ordering, receiving, and unpacking radioactive materials safely and performing the related radiation surveys;
 
@@ -38,7 +36,7 @@ Except as provided in § 35.57, the licensee shall require an authorized user of
 
 (F) [Reserved]
 
-(G) Administering dosages of radioactive drugs to patients or human research subjects from the three categories in this paragraph. Radioactive drugs containing radionuclides in categories not included in this paragraph are regulated under § 35.1000. This work experience must involve a minimum of three cases in each of the following categories for which the individual is requesting authorized user status -
+(G) Administering dosages of radioactive drugs to patients or human research subjects from the three categories in this paragraph. Radioactive drugs containing radionuclides in categories not included in this paragraph are regulated under § 35.1000. This work experience must involve a minimum of three cases in each of the following categories for which the individual is requesting authorized user status—
 
 (*1*) Oral administration of less than or equal to 1.22 gigabecquerels (33 millicuries) of sodium iodide I-131, for which a written directive is required;
 

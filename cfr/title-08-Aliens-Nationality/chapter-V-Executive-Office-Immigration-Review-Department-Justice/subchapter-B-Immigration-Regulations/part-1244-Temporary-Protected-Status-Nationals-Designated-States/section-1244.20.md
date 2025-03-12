@@ -1,8 +1,6 @@
 ##### § 1244.20 Waiver of fees. #####
 
-Link to an amendment published at 85 FR 82794, Dec. 18, 2020.
-
-(a) Any of the fees prescribed in 8 CFR 103.7(b) which relate to applications to the district director or service center director for Temporary Protected Status may be waived if the applicant establishes that he or she is unable to pay the prescribed fee. The applicant will have established his or her inability to pay when the adjudicating officer concludes, on the basis of the requisite affidavit and of any other information submitted, that it is more probable than not that:
+(a) Any of the fees prescribed in 8 CFR 103.7 and 8 CFR part 106 which relate to applications to the district director or service center director for Temporary Protected Status may be waived if the applicant establishes that he or she is unable to pay the prescribed fee. The applicant will have established his or her inability to pay when the adjudicating officer concludes, on the basis of the requisite affidavit and of any other information submitted, that it is more probable than not that:
 
 (1) The applicant's gross income from all sources for the three-month period prior to the filing of the fee waiver request, including income received or earned by any dependent in the United States, was equaled or exceeded by essential expenditures for such three-month period; and
 
@@ -46,4 +44,4 @@ Link to an amendment published at 85 FR 82794, Dec. 18, 2020.
 
 (i) In requiring additional information, the adjudicating officer should consider that some applicants may have little or no documentation to substantiate their claims. An adjudicating officer may accept other evidence, such as an affidavit from a member of the community of good moral character, but only if the applicant provides an affidavit stating that more direct documentary evidence in unavailable.
 
-[57 FR 34507, Aug. 5, 1992. Redesignated at 62 FR 10367, 10382, Mar. 6, 1997]
+[57 FR 34507, Aug. 5, 1992. Redesignated at 62 FR 10367, 10382, Mar. 6, 1997, as amended at 85 FR 82794, Dec. 18, 2020]

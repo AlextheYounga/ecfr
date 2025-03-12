@@ -1,17 +1,19 @@
-##### § 19.6 Beneficiary protections: Written notice. #####
+##### § 19.6 How to prove nonprofit status. #####
 
-Link to an amendment published at 85 FR 82131, Dec. 17, 2020.
+In general, DHS does not require that a recipient, including a faith-based organization, obtain tax-exempt status under section 501(c)(3) of the Internal Revenue Code to be eligible for funding under DHS social service programs. Many grant programs, however, do require an organization to be a nonprofit organization in order to be eligible for funding. Funding announcements and other grant application solicitations for social service programs that require organizations to have nonprofit status will specifically so indicate in the eligibility section of the solicitation. In addition, any solicitation for social service programs that requires an organization to maintain tax-exempt status will expressly state the statutory authority for requiring such status. Recipients should consult with the appropriate DHS program office to determine the scope of any applicable requirements. In DHS social service programs in which an applicant for funding must show that it is a nonprofit organization, the applicant may do so by any of the following means:
 
-(a) Faith-based or religious organizations providing social services to beneficiaries under a DHS program supported by direct Federal financial assistance must give written notice to beneficiaries of certain protections. Such notice may be given in the form set forth in appendix A of this part. This notice must state that:
+(a) Proof that the Internal Revenue Service currently recognizes the applicant as an organization to which contributions are tax deductible under section 501(c)(3) of the Internal Revenue Code;
 
-(1) The organization may not discriminate against beneficiaries on the basis of religion or religious belief, a refusal to hold a religious belief, or a refusal to attend or participate in a religious practice;
+(b) A statement from a State or other governmental taxing body or the State secretary of State certifying that:
 
-(2) The organization may not require beneficiaries to attend or participate in any explicitly religious activities that are offered by the organization, and any participation by beneficiaries in such activities must be purely voluntary;
+(1) The organization is a nonprofit organization operating within the State; and
 
-(3) The organization must separate in time or location any privately funded explicitly religious activities from activities supported by direct Federal financial assistance;
+(2) No part of its net earnings may benefit any private shareholder or individual;
 
-(4) If a beneficiary objects to the religious character of the organization, the organization will undertake reasonable efforts to identify and refer the beneficiary to an alternative provider to which the beneficiary has no objection; and
+(c) A certified copy of the applicant's certificate of incorporation or similar document that clearly establishes the nonprofit status of the applicant;
 
-(5) Beneficiaries may report an organization's violations of these protections, including any denials of services or benefits by an organization, by contacting or filing a complaint with the DHS Office for Civil Rights and Civil Liberties, or to any intermediary awarding entity.
+(d) Any item described in paragraphs (a) through (c) of this section if that item applies to a State or national parent organization, together with a statement by the State or parent organization that the applicant is a local nonprofit affiliate; or
 
-(b) This written notice must be given to beneficiaries prior to the time they enroll in the program or receive services from such programs. When the nature of the service provided or exigent circumstances make it impracticable to provide such written notice in advance of the actual service, service providers must advise beneficiaries of their protections at the earliest available opportunity.
+(e) For an entity that holds a sincerely held religious belief that it cannot apply for a determination as an entity that is tax-exempt under section 501(c)(3) of the Internal Revenue Code, evidence sufficient to establish that the entity would otherwise qualify as a nonprofit organization under paragraphs (a) through (d) of this section.
+
+[85 FR 82131, Dec. 17, 2020]

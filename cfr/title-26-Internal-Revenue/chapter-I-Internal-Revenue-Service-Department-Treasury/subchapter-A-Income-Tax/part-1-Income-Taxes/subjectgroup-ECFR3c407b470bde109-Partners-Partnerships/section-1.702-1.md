@@ -4,7 +4,7 @@
 
 (1) Each partner shall take into account, as part of his gains and losses from sales or exchanges of capital assets held for not more than 1 year (6 months for taxable years beginning before 1977; 9 months for taxable years beginning in 1977), his distributive share of the combined net amount of such gains and losses of the partnership.
 
-(2) Each partner shall take into account, as part of his gains and losses from sales or exchanges of capital assets held for more than 1 year (6 months for taxable years beginning before 1977; 9 months for taxable years beginning in 1977), his distributive share of the combined net amount of such gains and losses of the partnership.
+(2) Each partner shall take into account, as part of his gains and losses from sales or exchanges of capital assets held for more than 1 year (6 months for taxable years beginning before 1977; 9 months for taxable years beginning in 1977), his distributive share of the combined net amount of such gains and losses of the partnership. Each partner subject to section 1061 must take into account gains and losses from sales of capital assets held for more than one year as provided in section 1061 and §§ 1.1061-1 through 1.1061-6.
 
 (3) Each partner shall take into account, as part of his gains and losses from sales or exchanges of property described in section 1231 (relating to property used in the trade or business and involuntary conversions), his distributive share of the combined net amount of such gains and losses of the partnership. The partnership shall not combine such items with items set forth in subparagraph (1) or (2) of this paragraph.
 
@@ -44,6 +44,8 @@
 
 (e) *Special rules on requirement to separately state meal, travel, and entertainment expenses.* Each partner shall take into account separately his or her distributive share of meal, travel, and entertainment expenses paid or incurred after December 31, 1986, by partnerships that have taxable years beginning before January 1, 1987, and ending with or within partner's taxable years beginning on or after January 1, 1987. In addition, with respect to skybox rentals under section 274 (1) (2), each partner shall take into account separately his or her distributive share of rents paid or incurred after December 31, 1986, by partnerships that have taxable years beginning before January 1, 1989, and ending with or within partners' taxable years beginning on or after January 1, 1987.
 
-(f) *Cross - references.* For special rules in accordance with the principles of section 702 applicable solely for the purpose of the tax imposed by section 56 (relating to the minimum tax for tax preferences) see § 1.58-2(a). In the case of a disposition of an oil or gas property by the partnership, see the rules contained in section 613A(c)(7)(D) and § 1.613A-3(e).
+(f) *Cross—references.* For special rules in accordance with the principles of section 702 applicable solely for the purpose of the tax imposed by section 56 (relating to the minimum tax for tax preferences) see § 1.58-2(a). In the case of a disposition of an oil or gas property by the partnership, see the rules contained in section 613A(c)(7)(D) and § 1.613A-3(e).
+
+(g) *Applicability date.* The last sentence of paragraph (a)(2) of this section applies for the taxable years beginning on or after January 19, 2021.
 
 [T.D. 6500, 25 FR 11814, Nov. 26, 1960]Editorial Note:For Federal Register citations affecting § 1.702-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

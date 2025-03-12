@@ -1,5 +1,7 @@
 ##### § 460.6 Definitions. #####
 
+Link to an amendment published at 86 FR 6131, Jan. 19, 2021.
+
 As used in this part, unless the context indicates otherwise, the following definitions apply:
 
 *Contract year* means the term of a PACE program agreement, which is a calendar year, except that a PACE organization's initial contract year may be from 12 to 23 months, as determined by CMS.

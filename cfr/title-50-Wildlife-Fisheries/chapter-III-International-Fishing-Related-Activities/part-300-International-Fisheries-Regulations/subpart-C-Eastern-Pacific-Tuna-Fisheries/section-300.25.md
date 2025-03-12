@@ -2,7 +2,7 @@
 
 (a) *Longline tuna catch limits.* (1) Fishing seasons for all tuna species begin on 0000 hours Coordinated Universal Time (UTC) January 1 and end either on 2400 hours UTC December 31 or when NMFS closes the fishery for a specific species.
 
-(2) For the calendar years 2018, 2019, 2020, there is a limit of 750 metric tons of bigeye tuna that may be caught by longline gear in the Convention Area by U.S. commercial fishing vessels that are over 24 meters in overall length. The catch limit within a calendar year is subject to increase if the United States receives a transfer of catch limit from another IATTC member or cooperating non-member, per paragraph (a)(5) of this section.
+(2) For calendar year 2021, there is a limit of 750 metric tons of bigeye tuna that may be caught by longline gear in the Convention Area by U.S. commercial fishing vessels that are over 24 meters in overall length. The catch limit within a calendar year is subject to increase if the United States receives a transfer of catch limit from another IATTC member or cooperating non-member, per paragraph (a)(5) of this section.
 
 (3) NMFS will project a date the limit of bigeye tuna established under paragraph (a)(2) of this section will be reached (*i.e.,* a closure date) by monitoring longline landings, data submitted in logbooks, and other available information. NMFS will publish a notice in the Federal Register at least 7 calendar days in advance of that projected closure date announcing that the limit has been reached. The Federal Register notice will specify that the restrictions described in paragraph (a)(4) of this section will be in effect through the end of the calendar year.
 
@@ -28,9 +28,9 @@
 
 (d) [Reserved]
 
-(e) *Purse seine closures* - (1) *72-day closure.* A commercial purse seine fishing vessel of the United States that is of class size 4-6 (more than 182 metric tons carrying capacity) may not be used to fish with purse seine gear in the Convention Area for 72 days in each of the years 2018, 2019, and 2020 during one of the following two periods:
+(e) *Purse seine closures* - (1) *72-day closure.* A commercial purse seine fishing vessel of the United States that is of class size 4-6 (more than 182 metric tons carrying capacity) may not be used to fish with purse seine gear in the Convention Area for 72 days in calendar year 2021 during one of the following two periods:
 
-(i) From 0000 hours Coordinated Universal Time (UTC) July 29, to 2400 hours UTC October 8, or
+(i) From 0000 hours Coordinated Universal Time (UTC) July 29 to 2400 hours UTC October 8, or
 
 (ii) From 0000 hours UTC November 9 to 2400 hours UTC January 19 of the following year.
 
@@ -48,7 +48,7 @@
 
 (iv) Any purse seine vessel, for which a force majeure request is accepted by the IATTC, must carry an observer aboard authorized pursuant to the International Agreement on the International Dolphin Conservation Program.
 
-(5) *31-day area closure.* A fishing vessel of the United States of class size 4-6 (more than 182 metric tons carrying capacity) may not be used from 0000 hours on October 9 to 2400 hours on November 8 in 2018, 2019, and 2020 to fish with purse seine gear within the area bounded at the east and west by 96° and 110° W longitude and bounded at the north and south by 4° N and 3° S latitude.
+(5) *31-day area closure.* A fishing vessel of the United States of class size 4-6 (more than 182 metric tons carrying capacity) may not be used from 0000 hours on October 9, 2021, to 2400 hours on November 8, 2021, to fish with purse seine gear within the area bounded at the east and west by 96° and 110° W longitude and bounded at the north and south by 4° N and 3° S latitude.
 
 (6) *Requirement to stow gear.* At all times while a vessel is in a time/area closed period established under paragraphs (e)(1) or (5) of this section, unless fishing under the exception under paragraph (e)(4) of this section, the fishing gear of the vessel must be stowed in a manner as not to be readily available for fishing. In particular, the boom must be lowered as far as possible so that the vessel cannot be used for fishing, but so that the skiff is accessible for use in emergency situations; the helicopter, if any, must be tied down; and launches must be secured.
 

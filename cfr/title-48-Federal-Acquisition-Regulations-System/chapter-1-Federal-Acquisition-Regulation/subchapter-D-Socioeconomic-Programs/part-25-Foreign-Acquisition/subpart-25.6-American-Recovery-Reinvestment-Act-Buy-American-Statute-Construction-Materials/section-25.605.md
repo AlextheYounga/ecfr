@@ -1,5 +1,7 @@
 ##### 25.605 Evaluating offers of foreign construction material. #####
 
+Link to an amendment published at 86 FR 6189, Jan. 19, 2021.
+
 (a) If the contracting officer has determined that an exception applies because the cost of certain domestic construction material is unreasonable, in accordance with section 25.604, then the contracting officer shall apply evaluation factors to the offer incorporating the use of such foreign construction material as follows:
 
 (1) Use an evaluation factor of 25 percent, applied to the total offered price of the contract, if foreign manufactured construction material is incorporated in the offer based on an exception for unreasonable cost of comparable domestic construction material requested by the offeror.

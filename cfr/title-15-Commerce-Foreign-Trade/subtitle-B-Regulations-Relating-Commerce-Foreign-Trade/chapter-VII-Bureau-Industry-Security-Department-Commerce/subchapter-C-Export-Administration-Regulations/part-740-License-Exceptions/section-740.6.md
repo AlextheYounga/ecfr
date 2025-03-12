@@ -1,6 +1,6 @@
 ##### § 740.6 Technology and software under restriction (TSR). #####
 
-(a) *Scope.* License Exception TSR permits exports and reexports of technology and software where the Commerce Country Chart (Supplement No. 1 to part 738 of the EAR) indicates a license requirement to the ultimate destination for national security reasons only and identified by “TSR - Yes” in entries on the CCL, provided the software or technology is destined to Country Group B, except Ukraine. (See Supplement No. 1 to part 740.) A written assurance is required from the consignee before exporting or reexporting under this License Exception.
+(a) *Scope.* License Exception TSR permits exports and reexports of technology and software where the Commerce Country Chart (Supplement No. 1 to part 738 of the EAR) indicates a license requirement to the ultimate destination for national security reasons only and identified by “TSR—Yes” in entries on the CCL, provided the software or technology is destined to Country Group B, except Sudan and Ukraine. (See Supplement No. 1 to part 740.) A written assurance is required from the consignee before exporting or reexporting under this License Exception.
 
 (1) *Required assurance for export of technology.* You may not export or reexport technology under this License Exception until you have received from the importer a written assurance that, without a BIS license or License Exception, the importer will not:
 
@@ -22,4 +22,4 @@
 
 (b) *Reporting requirements.* See § 743.1 of the EAR for reporting requirements for exports of certain items under License Exception TSR. Note that reports are not required for release of technology or source code subject to the EAR to foreign nationals in the U.S. under the provisions of License Exception TSR.
 
-[61 FR 64275, Dec. 4, 1996, as amended at 63 FR 50520, Sept. 22, 1998; 63 FR 55019, Oct. 14, 1998; 69 FR 5690, Feb. 6, 2004; 75 FR 44890, July 30, 2010; 78 FR 61901, Oct. 4, 2013; 80 FR 43318, July 22, 2015; 85 FR 84213, Dec. 28, 2020]
+[61 FR 64275, Dec. 4, 1996, as amended at 63 FR 50520, Sept. 22, 1998; 63 FR 55019, Oct. 14, 1998; 69 FR 5690, Feb. 6, 2004; 75 FR 44890, July 30, 2010; 78 FR 61901, Oct. 4, 2013; 80 FR 43318, July 22, 2015; 85 FR 84213, Dec. 28, 2020; 86 FR 4933, Jan. 19, 2021]

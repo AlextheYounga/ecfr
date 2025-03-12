@@ -1,5 +1,7 @@
 ##### 25.604 Preaward determination concerning the inapplicability of section 1605 of the Recovery Act or the Buy American statute. #####
 
+Link to an amendment published at 86 FR 6189, Jan. 19, 2021.
+
 (a) For any acquisition, an offeror may request from the contracting officer a determination concerning the inapplicability of section 1605 of the Recovery Act or the Buy American statute for specifically identified construction materials. The time for submitting the request is specified in the solicitation in paragraph (b) of either 52.225-22 or 52.225-24, whichever applies. The information and supporting data that must be included in the request are also specified in the solicitation in paragraphs (c) and (d) of either 52.225-21 or 52.225-23, whichever applies.
 
 (b) Before award, the contracting officer must evaluate all requests based on the information provided and may supplement this information with other readily available information.

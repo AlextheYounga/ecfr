@@ -1,9 +1,11 @@
-##### § 49.4263-3 Transportation furnished to certain organizations. #####
+##### § 49.4263-3 Special rule for the payment of tax. #####
 
-(a) *The American National Red Cross.* The tax imposed by section 4261 does not apply to amounts paid for transportation or facilities furnished to any corporation created by act of Congress to act in matters of relief under the treaty of Geneva of August 22, 1864 (The American National Red Cross).
+(a) *In general.* For the rules applicable under section 4263(c) of the Internal Revenue Code, see § 49.4261-1(b)(2).
 
-(b) *International organizations.* The tax imposed by section 4261 does not apply to amounts paid for transportation or facilities furnished to an international organization. See section 7701(a) (18) for the definition of “international organization”. An international organization is designated as such by the President through an Executive order or orders. When an organization has been designated by the President as entitled to enjoy the privileges, exemptions and immunities conferred by the International Organizations Immunities Act, or part thereof, including exemption from the tax, the exemption applies to amounts so paid unless the President otherwise provides. The exemption is subject to withdrawal or revocation by the President. In case of withdrawal or revocation, unless otherwise provided by the President, the exemption is inapplicable to payments on or after the date of issuance of the order of withdrawal or the date of revocation.
+(b) *Relationship to other sections.* Section 4263(c) and this section are not intended in any way to relieve the person receiving the payment for taxable transportation of persons from his duty under section 4291 of the Code of collecting the tax at the time such payment is received by him.
 
-(c) *Evidence of right to exemption.* The right to exemption under section 4263(b) (and under former section 4263(d)) shall be established by the use of exemption certificate, Form 731. See section 4292 and the regulations thereunder for the rules applicable when the right to exemption is evidenced by exemption certificates.
+(c) [Reserved]
 
-[T.D. 6430, 24 FR 9665, Dec. 3, 1959. Redesignated by T.D. 6618, 27 FR 11225, Nov. 14, 1962]
+(d) *Applicability date.* This section applies to amounts paid on and after January 19, 2021. For rules that apply before that date, *see* 26 CFR part 49, revised as of April 1, 2020.
+
+[T.D. 6430, 24 FR 9665, Dec. 3, 1959, as amended by T.D. 6618, 27 FR 11226, Nov. 14, 1962. Redesignated and amended by T.D. 9948, 86 FR 5007, Jan. 19, 2021]

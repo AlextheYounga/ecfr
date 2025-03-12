@@ -1,13 +1,9 @@
-##### § 49.4261-9 Seats and berths; rate and application of tax. #####
+##### § 49.4261-9 Mileage awards. #####
 
-(a) *Imposition of tax.* Section 4261 (c) imposes a tax at a prescribed rate upon payments of any amounts for seating or sleeping accommodations in connection with transportation with respect to which a tax is imposed by section 4261 (a) or (b).
+(a) *Tax imposed.* Any amount paid (and the value of any other benefit provided) to an air carrier (or any related person) for the right to provide mileage awards for or other reductions in the cost of any transportation of persons by air is an amount paid for taxable transportation and is therefore subject to the tax imposed by section 4261(a) of the Internal Revenue Code. *See* section 4261(e)(3)(A).
 
-(b) *Rate of tax.* The tax is imposed under section 4261(c) upon the amount paid for seating or sleeping accommodations at the following rates:
+(b) *[Reserved]*
 
-(1) 10 percent with respect to amounts paid in connection with taxable transportation by rail, motor vehicle, water, or air which begins before November 16, 1962.
+(c) *Applicability date.* This section applies to amounts paid on and after January 19, 2021.
 
-(2) 5 percent with respect to amounts paid in connection with the air portion of any transportation which begins after November 15, 1962.
-
-(c) *Application of other rules to seats and berths.* The rules and provisions of §§ 49.4261-1 to 49.4261-6, inclusive, with respect to the tax on payments for transportation imposed by section 4261 (a) or (b) are also applicable to the tax on payments for seating or sleeping accommodations.
-
-[T.D. 6430, 24 FR 9665, Dec. 3, 1959, as amended by T.D. 6618, 27 FR 11223, Nov. 14, 1962]
+[T.D. 9948, 86 FR 5003, Jan. 19, 2021]

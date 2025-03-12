@@ -14,7 +14,13 @@ The following definitions apply to this subpart. The definitions in parts 718 an
 
 *Broilers* includes any chicken that has been commercially produced for meat purposes that has left the farm for slaughter, and not used for laying or breeding purposes.
 
+*Contract producer* means a producer who grows or produces an eligible commodity under contract for or on behalf of another person or entity. The contract producer does not have ownership in the commodity and is not entitled to a share from sales proceeds of the commodity.
+
+*Crop insurance* means an insurance policy reinsured by Federal Crop Insurance Corporation under the provisions of the Federal Crop Insurance Act, as amended. It does not include private plans of insurance.
+
 *Eggs* means dried, frozen, liquid, and shell eggs.
+
+*Eligible revenue* means the revenue received by a contract producer for contract production of broilers, pullets, layers, chicken eggs, turkeys, hogs, or pigs, as reported on Internal Revenue Service Form 1099.
 
 *Experimental* means a crop for which all of the following apply:
 
@@ -28,7 +34,7 @@ The following definitions apply to this subpart. The definitions in parts 718 an
 
 *Floriculture* means cut flowers and cut greenery from annual and perennial flowering plants grown in a container or controlled environment for commercial sale. Floriculture is included in sales commodities.
 
-*Fruits* means any of the following fruits: Abiu, acerola (Barbados cherry), achachairu, antidesma, apples, apricots, aronia (chokeberry), atemoya (custard apple), bananas, blueberries, breadfruit, cacao, caimito, calabaza melon, canary melon, canary seed, caneberries, canistel, cantaloupes, carambola (star fruit), casaba melon, cherimoya (sugar apple), cherries, Chinese bitter melon, citron, citron melon, coconuts, cranberries, crenshaw melon, dates, donaqua (winter melon), durian, elderberries, figs, genip, gooseberries, grapefruit, grapes, ground cherrry, guamabana (soursop), guava, guavaberry, honeyberries, honeydew, huckleberries, Israel melons, jack fruit, jujube, juneberries, kiwiberry, kiwifruit, Korean golden melon, kumquats, langsat, lemons, limequats, limes, longan, loquats, lychee, mangos, mangosteen, mayhaw berries, mesple, mulberries, nectarines, oranges, papaya, passion fruits, pawpaw, peaches, pears, pecans, pineapple, pitaya (dragon fruit), plantain, plumcots, plums, pomegranates, prunes, pummelo, raisins, rambutan, sapodilla, sapote, schizandra berries, sprite melon, star gooseberry, strawberries, tangelos, tangerines, tangors, wampee, watermelon, wax jamboo fruit, and wolfberry (goji).
+*Fruits* means any of the following fruits: Abiu, acerola (Barbados cherry), achachairu, antidesma, apples, apricots, aronia (chokeberry), atemoya (custard apple), avocados, bananas, blueberries, breadfruit, cacao, caimito, calabaza melon, canary melon, canary seed, caneberries, canistel, cantaloupes, carambola (star fruit), casaba melon, cherimoya (sugar apple), cherries, Chinese bitter melon, citron, citron melon, coconuts, cranberries, crenshaw melon, dates, donaqua (winter melon), durian, elderberries, figs, genip, gooseberries, grapefruit, grapes, ground cherry, guamabana (soursop), guava, guavaberry, honeyberries, honeydew, huckleberries, Israel melons, jack fruit, jujube, juneberries, kiwiberry, kiwifruit, Korean golden melon, kumquats, langsat, lemons, limequats, limes, longan, loquats, lychee, mangos, mangosteen, mayhaw berries, mesple, mulberries, nectarines, noni, olives, oranges, papaya, passion fruits, pawpaw, peaches, pears, persimmons, pineapple, pitaya (dragon fruit), plantain, plumcots, plums, pomegranates, prunes, pummelo, quinces, raisins, rambutan, sapodilla, sapote, schizandra berries, sprite melon, star gooseberry, strawberries, tangelos, tangerines, tangors, wampee, watermelon, wax jamboo fruit, and wolfberry (goji).
 
 *Hemp* means the plant species *Cannabis sativa L.* and any part of that plant, including the seeds thereof and all derivatives, extracts, cannabinoids, isomers, acids, salts, and salts of isomers, whether growing or not, with a delta-9 tetrahydrocannabinol concentration of not more than 0.3 percent on a dry weight basis, that is grown under a license or other required authorization issued by the applicable governing authority that permits the production of the hemp.
 
@@ -36,9 +42,13 @@ The following definitions apply to this subpart. The definitions in parts 718 an
 
 *Ineligible commodities* for CFAP 2 means any of the following commodities: Birdsfoot and trefoil, clover, cover crop, fallow, forage soybeans, forage sorghum, gardens (commercial and home), grass, kochia (prostrata), lespedeza, milkweed, mixed forage, pelts (excluding mink), perennial peanuts, pollinators, sunn hemp, vetch, and seed of ineligible crops.
 
+*Layer* means a chicken producing table or commercial type shell eggs.
+
+*NAP* means the Noninsured Crop Disaster Assistance Program under section 196 of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7333) and part 1437 of this title.
+
 *Nursery crops* means decorative or nondecorative plants grown in a container or controlled environment for commercial sale. Nursery crops are included in sales commodities.
 
-*Other livestock* means any of the following livestock: Animals commercially raised for food, fur, fiber, or feathers, including alpacas, bison, buffalo, beefalo, deer, ducks, elk, emus, geese, goats, guinea pigs, llamas, mink, ostrich, pheasants, quail, rabbits, reindeer, and turkey. It excludes all equine, breeding stock, companion or comfort animals, pets, and animals raised for hunting or game purposes.
+*Other livestock* means any of the following livestock: Animals commercially raised for food, fur, fiber, or feathers, including alpacas, bison, buffalo, beefalo, deer, ducks, elk, emus, geese, goats, guinea pigs, llamas, mink, ostrich, pheasants, pullets, quail, rabbits, reindeer, turkey, water buffalo, and yak. It includes by-products of those live animals (such as fleece). It excludes all equine, reptiles, bees, breeding stock (including eggs to be hatched for breeding stock), companion or comfort animals, pets, and animals raised for hunting or game purposes.
 
 *Prevented planting* means the inability to plant the intended crop acreage with proper equipment by the final planting date for the crop type because of a natural disaster.
 
@@ -48,12 +58,18 @@ The following definitions apply to this subpart. The definitions in parts 718 an
 
 *Price trigger livestock and products* means any of the following livestock and products: Beef cattle, broilers, dairy (cow milk), eggs, lambs, sheep, hogs, and pigs; excluding breeding stock.
 
-*Producer* means a person or legal entity who shares in the risk of producing a commodity. The term does not include contract growers. Producers who are not in the business of farming at the time of application are not considered eligible producers.
+*Producer* means a person or legal entity who shares in the risk of producing a commodity. Producers who are not in the business of farming at the time of application are not considered eligible producers.
 
-*Sales-based commodities* means, as defined in this section, aquaculture, sales-based crops, nursery crops and floriculture, other livestock, and the following commodities: Goat milk, mink (including pelts); mohair, and wool.
+*Pullet* means a young female chicken that has not laid an egg.
+
+*Sales-based commodities* means, as defined in this section, aquaculture, sales-based crops, nursery crops and floriculture, other livestock, and the following commodities: Goat milk, mink (including pelts); mohair wool, and turfgrass sod.
 
 *Sales-based crops* means ambrosia, arundo, camelina, cactus, cardoon, fruits, honey, horticulture, maple sap, tobacco, tree nuts, and vegetables. Fruits, horticulture, tree nuts, and vegetables are defined in this section. The term excludes crops with an intended use of grazing, green manure, or left standing.
 
-*Tree nuts* means any of the following tree nuts: Almonds, avocados, carob, cashew, chestnuts, coffee, hazel nuts, jojoba, macadamia nuts, noni, olives, persimmons, pine nuts, pistachios, quinces, and walnuts.
+*Tree nuts* means any of the following tree nuts: Almonds, carob, cashew, chestnuts, coffee, hazel nuts, jojoba, macadamia nuts, pecans, pine nuts, pistachios, and walnuts.
 
 *Vegetables* means any of the following vegetables: Alfalfa sprouts, aloe vera, artichokes, arugula (greens), asparagus, bamboo shoots, batatas, bean sprouts, beans (including dry edible), beets, bok choy, broccoflower, broccoli, broccolini, broccolo-cavalo, Brussel sprouts, cabbage, calaloo, carrots, cauliflower, celeriac, celery, chickpea (see beans, garbanzo), chives, collard greens, coriander, corn, sweet, cucumbers, daikon, dandelion greens, dasheen (taro root, malanga), dill, eggplant, endive, escarole, frisee, gailon (gai lein, Chinese broccoli), garlic, gourds, greens, horseradish, Jerusalem artichokes (sunchoke), kale, kohlrabi, leeks, lentils, lettuce, melongene, mesculin mix, microgreens, mushrooms, okra, onions, parsnip, peas (including dry edible), pejibaye (heart of palm), peppers, potatoes, potatoes sweet, pumpkins, radicchio, radishes, rhubarb, rutabaga, salsify (oyster plant), scallions, seed - vegetable, shallots, spinach, squash, swiss chard, tannier, taro, tomatillos, tomatoes, truffles, turnip top (greens), turnips, yam, and yautia (malanga);
+
+*WHIP+* means the Wildfires and Hurricanes Indemnity Program Plus (WHIP+) under part 760, subpart O, of this title.
+
+[85 FR 59386, Sept. 22, 2020, as amended at 86 FR 4882, Jan. 19, 2021]

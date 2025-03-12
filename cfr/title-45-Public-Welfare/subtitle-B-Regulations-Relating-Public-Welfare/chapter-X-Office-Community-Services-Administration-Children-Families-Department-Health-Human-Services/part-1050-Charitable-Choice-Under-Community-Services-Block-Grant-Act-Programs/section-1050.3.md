@@ -1,7 +1,5 @@
 ##### § 1050.3 What conditions apply to the Charitable Choice provisions of the CSBG Act? #####
 
-Link to an amendment published at 85 FR 82148, Dec. 17, 2020.
-
 These Charitable Choice provisions apply whenever the Federal government, or a State or local government, uses funds under the CSBG Act to provide awards, contracts, or other assistance under any program authorized in the Community Services Block Grant, 42 U.S.C. 9901, *et seq.* Additionally, these provisions apply whenever an intermediate organization acting under a contract, grant, or other agreement with a Federal, State, or local government entity selects nongovernmental organizations to provide assistance under any of the programs authorized under the Community Services Block Grant Act.
 
 (a)(1) Religious organizations are eligible, on the same basis as any other organization, to participate in the applicable programs as long as they use program funds consistent with the Establishment Clause and the Free Exercise Clause of the First Amendment to the United States Constitution.
@@ -20,6 +18,6 @@ These Charitable Choice provisions apply whenever the Federal government, or a S
 
 (g) If a State or local government contributes its own funds to supplement CSBG Act funded activities, the State or local government has the option to segregate the Federal funds or commingle them. However, if the funds are commingled, the Charitable Choice provisions apply to all of the commingled funds.
 
-(h) If a nongovernmental pass-through entity, acting under a grant, contract, or other agreement with the Federal, State or local government, is given the authority to select nongovernmental organizations to provide services under an applicable program, then the intermediate organization must ensure that the service provider complies with these Charitable Choice provisions and 45 CFR 87.1 and 87.3(i) through (l). The pass-through entity retains all other rights of a nongovernmental organization under the Charitable Choice provisions.
+(h) If a nongovernmental pass-through entity, acting under a grant, contract, or other agreement with the Federal, State or local government, is given the authority to select nongovernmental organizations to provide services under an applicable program, then the intermediate organization must ensure that the service provider complies with these Charitable Choice provisions and 45 CFR 87.1 and 87.3(i) and (j). The pass-through entity retains all other rights of a nongovernmental organization under the Charitable Choice provisions.
 
-[68 FR 56469, Sept. 30, 2003, as amended at 81 FR 19428, Apr. 4, 2016]
+[68 FR 56469, Sept. 30, 2003, as amended at 81 FR 19428, Apr. 4, 2016; 85 FR 82148, Dec. 17, 2020]

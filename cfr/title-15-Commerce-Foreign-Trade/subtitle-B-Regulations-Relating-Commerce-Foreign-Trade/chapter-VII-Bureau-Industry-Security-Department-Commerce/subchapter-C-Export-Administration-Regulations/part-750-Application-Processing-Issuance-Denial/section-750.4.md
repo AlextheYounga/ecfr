@@ -32,7 +32,7 @@
 
 (6) *Congressional notification.* Under Section 6(j) of the Export Administration Act, as amended (EAA), the Secretaries of Commerce and State are required to notify appropriate Committees of the Congress 30 days prior to issuing a license to any country designated by the Secretary of State as being terrorist-supporting for any items that could make a significant contribution to the military potential of such countries, or could enhance the ability of such countries to support acts of international terrorism. Accordingly, the issuance of any license subject to this requirement will be delayed for 30 days.
 
-(i) *Designated countries.* The following countries have been designated by the Secretary of State as terrorist-supporting countries: Iran, North Korea, Sudan, and Syria.
+(i) *Designated countries.* The following countries have been designated by the Secretary of State as terrorist-supporting countries: Iran, North Korea, and Syria.
 
 (ii) *Items subject to notification requirement.* License applications involving the export or reexport of the following items to the military, police, intelligence or other sensitive end-users are subject to this notification requirement:
 
@@ -78,7 +78,7 @@
 
 (e) *Recommendations by reviewing agencies.* Reviewing agencies recommending denial of a license application must provide a statement of reasons, consistent with the provisions of the EAA or EAR, and cite both the statutory and the regulatory basis for the recommendation to deny. A reviewing agency that fails to provide a recommendation within 30 days with a statement of reasons supported by the statutory and regulatory basis shall be deemed to have no objection to the final decision of BIS.
 
-(f) *Interagency dispute resolution and escalation procedures* - (1) *Escalation to the Operating Committee (OC).* (i) In any instance where the reviewing agencies are not in agreement on final disposition of a license application, it will be escalated to the OC for resolution. The Chair of the OC will consider the recommendations of the reviewing agencies and any information provided by the applicant in person during an open OC session. Each agency will be informed of the Chair's decision on the license application within 14 days after the deadline for receiving agency recommendations.
+(f) *Interagency dispute resolution and escalation procedures*—(1) *Escalation to the Operating Committee (OC).* (i) In any instance where the reviewing agencies are not in agreement on final disposition of a license application, it will be escalated to the OC for resolution. The Chair of the OC will consider the recommendations of the reviewing agencies and any information provided by the applicant in person during an open OC session. Each agency will be informed of the Chair's decision on the license application within 14 days after the deadline for receiving agency recommendations.
 
 (ii) If any agency disagrees with the OC Chair's decision, the agency may escalate the decision by appealing to the Chair of the Advisory Committee on Export Policy for resolution. If such a request for escalation is not made within 5 days of the decision of the OC Chair, the Chair's decision will be final.
 
@@ -86,4 +86,4 @@
 
 (3) *Escalation to the Export Administration Review Board (EARB).* The EARB will review all relevant information and recommendations, and such other export control matters as may be appropriate. The Secretary of Commerce will inform the reviewing agencies of the majority vote decision of the EARB within 11 days from the date of receipt of the appeal. Within 5 days of the decision, any agency dissenting from the decision of the EARB may appeal the decision to the President. The appeal must be in writing from the head of the dissenting agency. In the absence of a timely appeal, the decision of the EARB will be final.
 
-[61 FR 12829, Mar. 25, 1996, as amended at 62 FR 25463, May 9, 1997; 69 FR 46079, July 30, 2004; 71 FR 20887, Apr. 24, 2006; 71 FR 51719, Aug. 31, 2006; 72 FR 43532, Aug. 6, 2007; 78 FR 22725, Apr. 16, 2013; 80 FR 43319, July 22, 2015; 82 FR 2881, Jan. 10, 2017; 85 FR 73414, Nov. 18, 2020]
+[61 FR 12829, Mar. 25, 1996, as amended at 62 FR 25463, May 9, 1997; 69 FR 46079, July 30, 2004; 71 FR 20887, Apr. 24, 2006; 71 FR 51719, Aug. 31, 2006; 72 FR 43532, Aug. 6, 2007; 78 FR 22725, Apr. 16, 2013; 80 FR 43319, July 22, 2015; 82 FR 2881, Jan. 10, 2017; 85 FR 73414, Nov. 18, 2020; 86 FR 4934, Jan. 19, 2021]

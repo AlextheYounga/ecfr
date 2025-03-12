@@ -1,5 +1,7 @@
 ##### § 67.550 Fee table. #####
 
+Link to an amendment published at 86 FR 5031, Jan. 19, 2021.
+
 The fees charged under subpart Y are as set forth in Table 67.550.
 
 Table 67.550 - Fees

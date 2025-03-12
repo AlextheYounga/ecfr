@@ -1,7 +1,7 @@
-##### § 49.4263-1 Commutation tickets. #####
+##### § 49.4263-1 Duty to collect the tax; payments made outside the United States. #####
 
-(a) *Tickets for single trips of less than 30 miles.* Amounts paid for commutation or season tickets or books for single trips of less than 30 miles are exempt from the tax imposed by section 4261, regardless of the length of time for which such tickets or books are valid. The phrase “less than 30 miles” means less than 30 constructive miles in instances where the charge is based on constructive mileage.
+(a) *Duty to collect tax.* Where payment upon which tax is imposed by section 4261 of the Internal Revenue Code is made outside the United States for a prepaid order, exchange order, or similar order, the person furnishing the initial transportation pursuant to such order must collect the applicable tax. *See* section 4291 and the regulations under section 4291 for cases where persons receiving payment must collect the tax. *See* section 6672 for rules relating to the application of the trust fund recovery penalty.
 
-(b) *Tickets for one month or less.* Amounts paid for commutation tickets or books for one month or less are exempt from the tax regardless of the distance of a single trip.
+(b) *Applicability date.* This section applies to amounts paid on and after January 19, 2021. For rules that apply before that date, *see* 26 CFR part 49, revised as of April 1, 2020.
 
-[T.D. 6430, 24 FR 9665, Dec. 3, 1959. Redesignated by T.D. 6618, 27 FR 11225, Nov. 14, 1962]
+[T.D. 9948, 86 FR 5007, Jan. 19, 2021]

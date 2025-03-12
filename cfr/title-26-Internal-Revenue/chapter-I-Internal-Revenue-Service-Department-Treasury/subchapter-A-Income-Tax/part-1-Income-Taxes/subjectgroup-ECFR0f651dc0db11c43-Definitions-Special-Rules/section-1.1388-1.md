@@ -66,4 +66,12 @@ Example:(1) The A Cooperative is a cooperative organization filing its income ta
 
 (*e*) *Patron.* The term *patron* includes any person with whom or for whom the cooperative association does business on a cooperative basis, whether a member or a nonmember of the cooperative association, and whether an individual, a trust, estate, partnership, company, corporation, or cooperative association.
 
-[T.D. 6643, 28 FR 3160, Apr. 2, 1963]
+(f) *Patronage and nonpatronage sourced items.* - (1) *Directly related use test.* Whether an item of income or deduction is patronage or nonpatronage sourced is determined by applying the directly related use test.
+
+(2) *Patronage sourced income or deductions.* If the income or deduction is produced by a transaction that actually facilitates the accomplishment of the cooperative's marketing, purchasing, or services activities, the income or deduction is from patronage sources.
+
+(3) *Nonpatronage sourced income or deductions.* If the transaction producing the income or deduction does not actually facilitate the accomplishment of the cooperative's marketing, purchasing, or services activities but merely enhances the overall profitability of the cooperative, being merely incidental to the association's cooperative operation, the income or deduction is from nonpatronage sources.
+
+(g) *Applicability date.* Paragraph (f) of this section applies to taxable years beginning after January 19, 2021. Taxpayers, however, may choose to apply the rules of paragraph (f) of this section for taxable years beginning on or before that date, provided the taxpayers apply the rules in their entirety and in a consistent manner.
+
+[T.D. 6643, 28 FR 3160, Apr. 2, 1963, as amended by T.D. 9947, 86 FR 5593, Jan. 19, 2021]

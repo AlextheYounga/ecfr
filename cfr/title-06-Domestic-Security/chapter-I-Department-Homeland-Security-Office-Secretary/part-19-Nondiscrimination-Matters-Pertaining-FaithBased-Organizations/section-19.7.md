@@ -1,11 +1,1 @@
-##### § 19.7 Beneficiary protections: Referral requirements. #####
-
-Link to an amendment published at 85 FR 82131, Dec. 17, 2020.
-
-(a) If a beneficiary of a social service program covered under § 19.6 objects to the religious character of an organization that provides services under the program, that organization must promptly undertake reasonable efforts to identify and refer the beneficiary to an alternative provider to which the beneficiary has no objection.
-
-(b) A referral may be made to another religiously affiliated provider, if the beneficiary has no objection to that provider. But if the beneficiary requests a secular provider, and a secular provider is available, then a referral must be made to that provider.
-
-(c) Except for services provided by telephone, internet, or similar means, the referral must be to an alternative provider that is in reasonable geographic proximity to the organization making the referral and that offers services that are similar in substance and quality to those offered by the organization. The alternative provider also must have the capacity to accept additional clients.
-
-(d) When the organization makes a referral to an alternative provider, it shall keep a record of that referral. If the organization determines that it is unable to identify an alternative provider, the organization shall both keep a record and promptly notify either DHS or an intermediary awarding entity. If the organization is unable to identify an alternative provider, DHS or the intermediary shall determine whether there is any other suitable alternative provider to which the beneficiary may be referred. An intermediary that receives a request for assistance in identifying an alternative provider shall notify, and may request assistance from, DHS.
+##### § 19.7 [Reserved] #####

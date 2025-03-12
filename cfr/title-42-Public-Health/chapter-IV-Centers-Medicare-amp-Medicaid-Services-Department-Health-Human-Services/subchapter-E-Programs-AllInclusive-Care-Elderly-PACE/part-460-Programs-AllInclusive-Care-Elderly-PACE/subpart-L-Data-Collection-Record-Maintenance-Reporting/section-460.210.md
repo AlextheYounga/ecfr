@@ -1,5 +1,7 @@
 ##### § 460.210 Medical records. #####
 
+Link to an amendment published at 86 FR 6135, Jan. 19, 2021.
+
 (a) *Maintenance of medical records.* (1) A PACE organization must maintain a single, comprehensive medical record for each participant, in accordance with accepted professional standards.
 
 (2) The medical record for each participant must meet the following requirements:

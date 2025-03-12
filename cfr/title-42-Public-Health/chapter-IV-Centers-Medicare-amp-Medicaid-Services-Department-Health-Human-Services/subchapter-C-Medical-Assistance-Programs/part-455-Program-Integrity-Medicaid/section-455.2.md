@@ -1,5 +1,7 @@
 ##### § 455.2 Definitions. #####
 
+Link to an amendment published at 86 FR 6131, Jan. 19, 2021.
+
 As used in this part unless the context indicates otherwise -
 
 *Abuse* means provider practices that are inconsistent with sound fiscal, business, or medical practices, and result in an unnecessary cost to the Medicaid program, or in reimbursement for services that are not medically necessary or that fail to meet professionally recognized standards for health care. It also includes beneficiary practices that result in unnecessary cost to the Medicaid program.

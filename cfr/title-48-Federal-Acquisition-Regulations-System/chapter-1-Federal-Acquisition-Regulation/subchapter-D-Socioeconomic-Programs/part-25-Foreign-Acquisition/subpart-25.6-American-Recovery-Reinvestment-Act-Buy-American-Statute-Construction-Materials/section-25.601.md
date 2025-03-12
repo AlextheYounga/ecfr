@@ -1,5 +1,7 @@
 ##### 25.601 Definitions. #####
 
+Link to an amendment published at 86 FR 6189, Jan. 19, 2021.
+
 As used in this subpart -
 
 *Domestic construction material* means the following:

@@ -1,5 +1,7 @@
 ##### § 922.122 Prohibited or otherwise regulated activities. #####
 
+Link to an amendment published at 86 FR 4954, Jan. 19, 2021.
+
 (a) Except as specified in paragraphs (c) through (h) of this section, the following activities are prohibited and thus are unlawful for any person to conduct or to cause to be conducted:
 
 (1) Exploring for, developing, or producing oil, gas, or minerals except outside of all no-activity zones and provided all drilling cuttings and drilling fluids are shunted to the seabed through a downpipe that terminates an appropriate distance, but no more than ten meters, from the seabed.

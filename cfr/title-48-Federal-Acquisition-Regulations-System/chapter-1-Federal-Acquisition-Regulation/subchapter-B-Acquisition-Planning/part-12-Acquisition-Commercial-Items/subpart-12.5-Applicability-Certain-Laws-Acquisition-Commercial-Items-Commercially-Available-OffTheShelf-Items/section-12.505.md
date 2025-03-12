@@ -1,5 +1,7 @@
 ##### 12.505 Applicability of certain laws to contracts for the acquisition of COTS items. #####
 
+Link to an amendment published at 86 FR 6186, Jan. 19, 2021.
+
 COTS items are a subset of commercial items. Therefore, any laws listed in sections 12.503 and 12.504 are also inapplicable or modified in their applicability to contracts or subcontracts for the acquisition of COTS items. In addition, the following laws are not applicable to contracts for the acquisition of COTS items:
 
 (a)(1) The portion of 41 U.S.C. 8302(a)(1) that reads “substantially all from articles, materials, or supplies mined, produced, or manufactured in the United States,” Buy American - Supplies, component test (see 52.225-1 and 52.225-3).

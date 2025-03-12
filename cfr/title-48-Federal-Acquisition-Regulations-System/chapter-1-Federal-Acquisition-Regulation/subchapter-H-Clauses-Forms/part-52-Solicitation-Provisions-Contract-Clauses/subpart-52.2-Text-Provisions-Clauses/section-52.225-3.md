@@ -1,5 +1,7 @@
 ##### 52.225-3 Buy American - Free Trade Agreements - Israeli Trade Act. #####
 
+Link to an amendment published at 86 FR 6190, Jan. 19, 2021.
+
 As prescribed in 25.1101(b)(1)(i), insert the following clause:
 
 Buy American - Free Trade Agreements - Israeli Trade Act (MAY 2014)

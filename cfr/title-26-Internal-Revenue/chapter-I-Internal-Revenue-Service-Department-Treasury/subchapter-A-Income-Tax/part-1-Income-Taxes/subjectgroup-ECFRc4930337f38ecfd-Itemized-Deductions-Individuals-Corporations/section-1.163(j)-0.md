@@ -26,15 +26,41 @@ This section lists the table of contents for §§ 1.163(j)-1 through 1.163(j)-11
 
 (*3*) Deconsolidations.
 
+(*4*) Nonrecognition transactions.
+
 (B) Deductions by members of a consolidated group.
 
+(*1*) In general.
+
+(*2*) Application of the alternative computation method.
+
 (C) Successor assets.
+
+(*1*) Successor assets.
+
+(*2*) Successor entities.
 
 (D) Anti-duplication rule.
 
 (*1*) In general.
 
 (*2*) Adjustments following deconsolidation.
+
+(E) Alternative computation method.
+
+(*1*) Alternative computation method for property dispositions.
+
+(*2*) Alternative computation method for dispositions of member stock.
+
+(*3*) Alternative computation method for dispositions of partnership interests.
+
+(F) Cap on negative adjustments.
+
+(*1*) In general.
+
+(*2*) Example.
+
+(G) Treatment of depreciation, amortization, or depletion capitalized under section 263A.
 
 (v) Other adjustments.
 
@@ -156,7 +182,17 @@ This section lists the table of contents for §§ 1.163(j)-1 through 1.163(j)-11
 
 (E) Factoring income.
 
-(F) [Reserved]
+(F) Section 163(j) interest dividends.
+
+(*1*) In general.
+
+(*2*) Limitation on amount treated as interest income.
+
+(*3*) Conduit amounts.
+
+(*4*) Holding period.
+
+(*5*) Exception to holding period requirement for money market funds and certain regularly declared dividends.
 
 (iv) Anti-avoidance rules.
 
@@ -198,7 +234,31 @@ This section lists the table of contents for §§ 1.163(j)-1 through 1.163(j)-11
 
 (34) S corporation.
 
-(35) [Reserved]
+(35) Section 163(j) interest dividend.
+
+(i) In general.
+
+(ii) Reduction in the case of excess reported amounts.
+
+(iii) Allocation of excess reported amount.
+
+(A) In general.
+
+(B) Special rule for noncalendar year RICs.
+
+(iv) Definitions.
+
+(A) Reported section 163(j) interest dividend amount.
+
+(B) Excess reported amount.
+
+(C) Aggregate reported amount.
+
+(D) Post-December reported amount.
+
+(E) Excess section 163(j) interest income.
+
+(v) Example.
 
 (36) Section 163(j) limitation.
 
@@ -246,7 +306,9 @@ This section lists the table of contents for §§ 1.163(j)-1 through 1.163(j)-11
 
 (ii) Anti-avoidance rule.
 
-*§ 1.163(j)-2 Deduction for business interest expense limited.*
+(4) Paragraphs (b)(1)(iv)(A)(*2*) through (*4*), (B) through (G), (b)(22)(iii)(F), and (b)(35).
+
+§ 1.163(j)-2 Deduction for business interest expense limited.
 
 (a) Overview.
 
@@ -257,6 +319,14 @@ This section lists the table of contents for §§ 1.163(j)-1 through 1.163(j)-11
 (2) 50 percent ATI limitation for taxable years beginning in 2019 or 2020.
 
 (3) Election to use 2019 ATI in 2020.
+
+(i) In general.
+
+(ii) Short taxable years.
+
+(iii) Transactions to which section 381 applies.
+
+(iv) Consolidated groups.
 
 (4) Time and manner of making or revoking the elections.
 
@@ -282,6 +352,8 @@ This section lists the table of contents for §§ 1.163(j)-1 through 1.163(j)-11
 
 (iv) Tax-exempt organizations.
 
+(3) Determining a syndicate's loss amount.
+
 (e) REMICs.
 
 (f) Trusts.
@@ -302,7 +374,11 @@ This section lists the table of contents for §§ 1.163(j)-1 through 1.163(j)-11
 
 (2) Examples.
 
-(k) Applicability date.
+(k) Applicability dates.
+
+(1) In general.
+
+(2) Paragraphs (b)(3)(iii), (b)(3)(iv), and (d)(3).
 
 *§ 1.163(j)-3 Relationship of the section 163(j) limitation to other provisions affecting interest.*
 
@@ -484,7 +560,7 @@ This section lists the table of contents for §§ 1.163(j)-1 through 1.163(j)-11
 
 (h) Applicability date.
 
-*§ 1.163(j)-6 Application of the section 163(j) limitation to partnerships and subchapter S corporations.*
+§ 1.163(j)-6 Application of the business interest deduction limitation to partnerships and subchapter S Corporations.
 
 (a) Overview.
 
@@ -508,15 +584,25 @@ This section lists the table of contents for §§ 1.163(j)-1 through 1.163(j)-11
 
 (c) Business interest income and business interest expense of the partnership.
 
-(1)-(2) [Reserved]
+(1) Modification of business interest income for partnerships.
 
-(3) Character of business interest expense.
+(2) Modification of business interest expense for partnerships.
+
+(3) Transition rule.
+
+(4) Character of business interest expense.
 
 (d) Adjusted taxable income of a partnership.
 
 (1) Tentative taxable income of a partnership.
 
 (2) Section 734(b), partner basis items, and remedial items.
+
+(3) Section 743(b) adjustments and publicly traded partnerships.
+
+(4) Modification of adjusted taxable income for partnerships.
+
+(5) Election to use 2019 adjusted taxable income for taxable years beginning in 2020.
 
 (e) Adjusted taxable income and business interest income of partners.
 
@@ -528,6 +614,10 @@ This section lists the table of contents for §§ 1.163(j)-1 through 1.163(j)-11
 
 (4) Double counting of business interest income and floor plan financing interest expense prohibited.
 
+(5) Partner basis items, remedial items, and publicly traded partnerships.
+
+(6) [Reserved]
+
 (f) Allocation and determination of section 163(j) excess items made in the same manner as nonseparately stated taxable income or loss of the partnership.
 
 (1) Overview.
@@ -535,6 +625,8 @@ This section lists the table of contents for §§ 1.163(j)-1 through 1.163(j)-11
 (i) In general.
 
 (ii) Relevance solely for purposes of section 163(j).
+
+(iii) Exception applicable to publicly traded partnerships.
 
 (2) Steps for allocating deductible business interest expense and section 163(j) excess items.
 
@@ -574,6 +666,8 @@ This section lists the table of contents for §§ 1.163(j)-1 through 1.163(j)-11
 
 (3) Excess taxable income and excess business interest income ordering rule.
 
+(4) Special rule for taxable years beginning in 2019 and 2020.
+
 (h) Basis adjustments.
 
 (1) Section 704(d) ordering.
@@ -608,6 +702,8 @@ This section lists the table of contents for §§ 1.163(j)-1 through 1.163(j)-11
 
 (iii) Double counting of business interest income and floor plan financing interest expense prohibited.
 
+(iv) [Reserved]
+
 (5) Carryforwards.
 
 (6) Basis adjustments and disallowed business interest expense carryforwards.
@@ -630,19 +726,127 @@ This section lists the table of contents for §§ 1.163(j)-1 through 1.163(j)-11
 
 (4) S corporations with disallowed business interest expense carryforwards prior to becoming exempt entities.
 
-(n) [Reserved]
+(n) Treatment of self-charged lending transactions between partnerships and partners.
 
 (o) Examples.
 
-(p) Applicability date.
+(p) Applicability dates.
 
-*§ 1.163(j)-7 Application of the section 163(j) limitation to foreign corporations and United States shareholders.*
+(1) In general.
+
+(2) Paragraphs (c)(1) and (2), (d)(3) through (5), (e)(5), (f)(1)(iii), (g)(4), (n), and (o)(24) through (29), and (34) through (36).
+
+§ 1.163(j)-7 Application of the section 163(j) limitation to foreign corporations and United States shareholders.
 
 (a) Overview.
 
 (b) General rule regarding the application of section 163(j) to relevant foreign corporations.
 
-(c)-(f) [Reserved]
+(c) Application of section 163(j) to CFC group members of a CFC group.
+
+(1) Scope.
+
+(2) Calculation of section 163(j) limitation for a CFC group for a specified period.
+
+(i) In general.
+
+(ii) Certain transactions between CFC group members disregarded.
+
+(iii) [Reserved]
+
+(iv) [Reserved]
+
+(3) Deduction of business interest expense.
+
+(i) CFC group business interest expense.
+
+(A) In general.
+
+(B) Modifications to relevant terms.
+
+(ii) Carryforwards treated as attributable to the same taxable year.
+
+(iii) Multiple specified taxable years of a CFC group member with respect to a specified period.
+
+(iv) Limitation on pre-group disallowed business interest expense carryforward.
+
+(A) General rule.
+
+(*1*) CFC group member pre-group disallowed business interest expense carryforward.
+
+(*2*) Subgrouping.
+
+(*3*) Transition rule.
+
+(B) Deduction of pre-group disallowed business interest expense carryforwards.
+
+(4) Currency translation.
+
+(5) Special rule for specified periods beginning in 2019 or 2020.
+
+(i) 50 percent ATI limitation applies to a specified period of a CFC group.
+
+(ii) Election to use 2019 ATI applies to a specified period of a CFC group.
+
+(A) In general.
+
+(B) Specified taxable years that do not begin in 2020.
+
+(d) Determination of a specified group and specified group members.
+
+(1) Scope.
+
+(2) Rules for determining a specified group.
+
+(i) Definition of a specified group.
+
+(ii) Indirect ownership.
+
+(iii) Specified group parent.
+
+(iv) Qualified U.S. person.
+
+(v) Stock.
+
+(vi) Options treated as exercised.
+
+(vii) When a specified group ceases to exist.
+
+(3) Rules for determining a specified group member.
+
+(e) Rules and procedures for treating a specified group as a CFC group.
+
+(1) Scope.
+
+(2) CFC group and CFC group member.
+
+(i) CFC group.
+
+(ii) CFC group member.
+
+(3) Duration of a CFC group.
+
+(4) Joining or leaving a CFC group.
+
+(5) Manner of making or revoking a CFC group election.
+
+(i) In general.
+
+(ii) Revocation by election.
+
+(iii) Timing.
+
+(iv) Election statement.
+
+(v) Effect of prior CFC group election.
+
+(6) Annual information reporting.
+
+(f) Treatment of a CFC group member that has ECI.
+
+(1) In general.
+
+(2) [Reserved]
 
 (g) Rules concerning the computation of adjusted taxable income of a relevant foreign corporation.
 
@@ -650,9 +854,139 @@ This section lists the table of contents for §§ 1.163(j)-1 through 1.163(j)-11
 
 (2) Treatment of certain dividends.
 
-(h)-(l) [Reserved]
+(3) Treatment of certain foreign income taxes.
 
-(m) Applicability date.
+(4) Anti-abuse rule.
+
+(i) In general.
+
+(ii) ATI adjustment amount.
+
+(A) In general.
+
+(B) Special rule for taxable years or specified periods beginning in 2019 or 2020.
+
+(iii) Applicable partnership.
+
+(h) Election to apply safe-harbor.
+
+(1) In general.
+
+(2) Eligibility for safe-harbor election.
+
+(i) Stand-alone applicable CFC.
+
+(ii) CFC group.
+
+(iii) Currency translation.
+
+(3) Eligible amount.
+
+(i) Stand-alone applicable CFC.
+
+(ii) CFC group.
+
+(iii) Additional rules for determining an eligible amount.
+
+(4) Qualified tentative taxable income.
+
+(5) Manner of making a safe-harbor election.
+
+(i) In general.
+
+(ii) Election statement.
+
+(6) Special rule for taxable years or specified periods beginning in 2019 or 2020.
+
+(i)-(j) [Reserved]
+
+(k) Definitions.
+
+(1) Applicable partnership.
+
+(2) Applicable specified taxable year.
+
+(3) ATI adjustment amount.
+
+(4) [Reserved]
+
+(5) [Reserved]
+
+(6) CFC group.
+
+(7) CFC group election.
+
+(8) CFC group member.
+
+(9) [Reserved]
+
+(10) Cumulative section 163(j) pre-group carryforward limitation.
+
+(11) Current group.
+
+(12) Designated U.S. person.
+
+(13) ECI deemed corporation.
+
+(14) Effectively connected income.
+
+(15) Eligible amount.
+
+(16) Former group.
+
+(17) Loss member.
+
+(18) Payment amount.
+
+(19) Pre-group disallowed business interest expense carryforward.
+
+(20) Qualified tentative taxable income.
+
+(21) Qualified U.S. person.
+
+(22) Relevant period.
+
+(23) Safe-harbor election.
+
+(24) Specified borrower.
+
+(25) Specified group.
+
+(26) Specified group member.
+
+(27) Specified group parent.
+
+(28) Specified lender.
+
+(29) Specified period.
+
+(i) In general.
+
+(ii) Short specified period.
+
+(30) Specified taxable year.
+
+(31) Stand-alone applicable CFC.
+
+(32) Stock.
+
+(l) Examples.
+
+(m) Applicability dates.
+
+(1) General applicability date.
+
+(2) Exception.
+
+(3) Early application.
+
+(i) Rules for paragraphs (b) and (g)(1) and (2) of this section.
+
+(ii) Rules for certain other paragraphs in this section.
+
+(4) Additional rules that must be applied consistently.
+
+(5) Election for prior taxable years.
 
 *§ 1.163(j)-8 [Reserved]*
 
@@ -760,7 +1094,7 @@ This section lists the table of contents for §§ 1.163(j)-1 through 1.163(j)-11
 
 (k) Applicability date.
 
-*§ 1.163(j)-10 Allocation of interest expense, interest income, and other items of expense and gross income to an excepted trade or business.*
+§ 1.163(j)-10 Allocation of interest expense, interest income, and other items of expense and gross income to an excepted trade or business.
 
 (a) Overview.
 
@@ -930,6 +1264,12 @@ This section lists the table of contents for §§ 1.163(j)-1 through 1.163(j)-11
 
 (*2*) Special rule for CFC utilities.
 
+(D) Limitations on application of look-through rules.
+
+(*1*) Inapplicability of look-through rule to partnerships or non-consolidated C corporations to which the small business exemption applies.
+
+(*2*) Limitation on application of look-through rule to C corporations.
+
 (D) Inapplicability of look-through rule to partnerships or non-consolidated C corporations to which the small business exemption applies.
 
 (E) Tiered entities.
@@ -986,7 +1326,11 @@ This section lists the table of contents for §§ 1.163(j)-1 through 1.163(j)-11
 
 (e) Examples.
 
-(f) Applicability date.
+(f) Applicability dates.
+
+(1) In general.
+
+(2) Paragraph (c)(5)(ii)(D)(*2*).
 
 *§ 1.163(j)-11 Transition rules.*
 
@@ -1042,4 +1386,4 @@ This section lists the table of contents for §§ 1.163(j)-1 through 1.163(j)-11
 
 (d) Applicability date.
 
-[T.D. 9905, 85 FR 56760, Sept, 14, 2020]
+[T.D. 9905, 85 FR 56760, Sept, 14, 2020, as amended by T.D. 9943, 86 FR 5522, Jan. 19, 2021]

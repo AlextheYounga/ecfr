@@ -6,6 +6,10 @@
 
 (c) *Definition of semimonthly period.* The term “semimonthly period” means the first 15 days of a calendar month (the “first semimonthly period”) or the portion of a calendar month following the 15th day of the month (the “second semimonthly period”).
 
-(d) *Effective/applicability date.* This part applies to returns that relate to periods beginning after March 31, 2013. For rules that apply before that date, see 26 CFR part 40 (revised as of April 1, 2013).
+(d) *Person.* For purposes of this part, each business unit that has, or is required to have, a separate employer identification number is treated as a separate person. Thus, business units (for example, a parent corporation and a subsidiary corporation, a partner and the partner's partnership, or the various members of a consolidated group), each of which has, or is required to have, a different employer identification number, are separate persons.
 
-[T.D. 8442, 57 FR 48177, Oct. 22, 1992; 58 FR 6575, Jan. 29, 1993, as amended by T.D. 8887, 65 FR 36326, June 8, 2000; T.D. 8963, 66 FR 41776, Aug. 9, 2001; T.D. 9486, 75 FR 33686, June 15, 2010; T.D. 9602, 77 FR 72728, Dec. 6, 2012; T.D. 9621, 78 FR 34876, June 11, 2013]
+(e) *Applicability date*—(1) *Paragraphs (a), (b), and (c) of this section.* Paragraphs (a), (b), and (c) of this section apply to returns for periods beginning after March 31, 2013. For rules that apply before that date, *see* 26 CFR part 40, revised as of April 1, 2012.
+
+(2) *Paragraph (d) of this section.* Paragraph (d) of this section applies to returns for periods beginning on or after January 19, 2021. For rules that apply before that date, *see* 26 CFR part 40, revised as of April 1, 2020.
+
+[T.D. 8442, 57 FR 48177, Oct. 22, 1992; 58 FR 6575, Jan. 29, 1993, as amended by T.D. 8887, 65 FR 36326, June 8, 2000; T.D. 8963, 66 FR 41776, Aug. 9, 2001; T.D. 9486, 75 FR 33686, June 15, 2010; T.D. 9602, 77 FR 72728, Dec. 6, 2012; T.D. 9621, 78 FR 34876, June 11, 2013; T.D. 9948, 86 FR 5001, Jan. 19, 2021]

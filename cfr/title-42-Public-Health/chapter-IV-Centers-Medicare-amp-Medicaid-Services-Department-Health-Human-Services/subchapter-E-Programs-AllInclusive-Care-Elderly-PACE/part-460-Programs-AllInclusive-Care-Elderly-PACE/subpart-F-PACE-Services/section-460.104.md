@@ -1,5 +1,7 @@
 ##### § 460.104 Participant assessment. #####
 
+Link to an amendment published at 86 FR 6132, Jan. 19, 2021.
+
 (a) *Initial comprehensive assessment* - (1) *Basic requirement.* The interdisciplinary team must conduct an initial in-person comprehensive assessment on each participant. The assessment must be completed in a timely manner in order to meet the requirements in paragraph (b) of this section.
 
 (2) *Members present.* As part of the initial comprehensive assessment, each of the following members of the interdisciplinary team must evaluate the participant in person and develop a discipline-specific assessment of the participant's health and social status:

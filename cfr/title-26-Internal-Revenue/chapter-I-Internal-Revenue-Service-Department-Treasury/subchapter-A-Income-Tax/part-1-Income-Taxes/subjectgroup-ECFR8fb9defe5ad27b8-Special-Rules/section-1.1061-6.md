@@ -1,0 +1,63 @@
+##### § 1.1061-6 Reporting rules. #####
+
+(a) *Owner Taxpayer filing requirements*-(1) *In general.* An Owner Taxpayer must file such information with the IRS as the Commissioner of Internal Revenue or the Commissioner's delegate (Commissioner) may require in forms, instructions, or other guidance as is necessary for the Commissioner to determine that the Owner Taxpayer has properly complied with section 1061 and the Section 1061 Regulations. If an Owner Taxpayer requires information from a Passthrough Entity to determine the Capital Interest Disposition Amount or the Section 1061(d) Recharacterization Amount, the Owner Taxpayer must request such information from that entity.
+
+(2) *Failure to obtain information.* Paragraph (b)(1) of this section requires certain Passthrough Entities to furnish an Owner Taxpayer with certain amounts necessary to determine its Recharacterization Amount and meet its reporting requirements under paragraph (a)(1) of this section. To the extent that an Owner Taxpayer is not furnished the information required to be furnished under paragraph (b)(1) of this section in such time and in such manner as required by the Commissioner and the Owner Taxpayer is not otherwise able to substantiate all or a part of these amounts to the satisfaction of the Commissioner, then if the information with respect to the determination of the—
+
+(i) API One Year Distributive Share Amount under § 1.1061-4(a)(3)(i) is not furnished, the API One Year Distributive Share Amount will not be reduced by—
+
+(A) Amounts not taken into account for purposes of section 1061 under § 1.1061-4(b)(7); or
+
+(B) Capital Interest Gains and Losses as determined under § 1.1061-3(c)(2).
+
+(ii) API Three Year Distributive Share Amount determined under § 1.1061-4(a)(3)(ii) is not furnished, all items included in the API One Year Distributive Share Amount are treated as items that would not be treated as long-term capital gain or loss, if three years is substituted for one year in paragraphs (3) and (4) of section 1222.
+
+(b) *Passthrough Entity filing requirements and reporting*—(1) *Requirement to file information with the IRS and to furnish information to API Holder.* A Passthrough Entity must file such information with the IRS as the Commissioner may require in forms, instructions, or other guidance as is necessary for the Commissioner to determine that it and its partners have complied with section 1061 and the Section 1061 Regulations. A Passthrough Entity that has issued an API must furnish to the API Holder, including an Owner Taxpayer, such information at such time and in such manner as the Commissioner may require in forms, instructions, or other guidance as is necessary to determine the One Year Gain Amount and the Three Year Gain Amount with respect to an Owner Taxpayer that directly or indirectly holds the API. A Passthrough Entity that has furnished information to the API Holder must file such information with the IRS, at such time and in such manner as the Commissioner may require in forms, instructions, or other guidance. This information includes:
+
+(i) The API One Year Distributive Share Amount and the API Three Year Distributive Share Amount (as determined under § 1.1061-4);
+
+(ii) Capital gains and losses allocated to the API Holder that are excluded from section 1061 under § 1.1061-4(b)(7);
+
+(iii) Capital Interest Gains and Losses allocated to the API Holder (as determined under § 1.1061-3(c)); and
+
+(iv) In the case of a disposition by an API Holder of an interest in the Passthrough Entity during the taxable year, upon the request of an API Holder, any information required by the API Holder to properly take the disposition into account under section 1061, including—
+
+(A) Information necessary to apply the Lookthrough Rule and to determine the API Holder's Capital Interest Disposition Amount; and
+
+(B) Information necessary to determine an Owner Taxpayer's Section 1061(d) Recharacterization Amount.
+
+(2) *Requirement to request, furnish, and file information in tiered structures*—(i) *Requirement to request information.* If a Passthrough Entity requires information to meet its reporting and filing requirements under this section (in addition to any information required to be furnished to the Passthrough Entity under paragraph (b)(1) of this section) from a lower-tier entity in which it holds an interest, the Passthrough Entity must request such information from that entity.
+
+(ii) *Requirement to furnish and file information.* If information is requested of a Passthrough Entity under paragraph (b)(2)(i) of this section, the Passthrough Entity must furnish the requested information to the person making the request but only to the extent the information is necessary for the requesting Passthrough Entity to meet its reporting and filing requirements under this section or is required by the Commissioner in forms, instructions, or other guidance. If the person requesting the information is an API Holder in the Passthrough Entity, the information is furnished under paragraph (b)(1) of this section. If the Passthrough Entity requesting the information is not an API Holder, the Passthrough Entity must furnish the information to the requesting Passthrough Entity as required by the Commissioner in forms, instructions, or other guidance.
+
+(iii) *Timing of requesting and furnishing information*—(A) *Requesting information.* A Passthrough Entity described in paragraph (b)(2)(i) of this section must request information under paragraph (b)(2)(i) of this section by the later of the 30th day after the close of the taxable year to which the information request relates or 14 days after the date of a request for information from an upper-tier Passthrough Entity.
+
+(B) *Furnishing information*—(*1*) *In general.* Except as provided in paragraph (b)(2)(iii)(B)(*2*) of this section, requested information must be furnished by the date on which the entity is required to furnish information under section 6031(b) or under section 6037(b), as applicable.
+
+(*2*) *Late requests.* Information with respect to a taxable year that is requested by an upper-tier Passthrough Entity after the date that is 14 days prior to the due date for a lower-tier Passthrough Entity to furnish and file information under section 6031(b) or section 6037(b), as applicable, must be furnished and filed in the time and manner prescribed by forms, instructions and other guidance.
+
+(iv) *Manner of requesting information.* Information may be requested electronically or in any manner that is agreed to by the parties.
+
+(v) *Recordkeeping requirement.* Any Passthrough Entity receiving a request for information must retain a copy of the request and the date received in its books and records.
+
+(vi) *Passthrough Entity is not furnished information to meet its reporting obligations under paragraph (b)(1) of this section.* If an upper-tier Passthrough Entity holds an interest in a lower-tier Passthrough Entity and it is not furnished the information described in paragraph (b)(1) of this section, or, alternatively, if it has not been furnished information after having properly requested the information under this paragraph (b)(2), the upper-tier Passthrough Entity must take actions to otherwise determine and substantiate the missing information. To the extent that the upper-tier Passthrough Entity is not able to otherwise substantiate and determine the missing information to the satisfaction of the Commissioner, the upper-tier Passthrough Entity must treat these amounts as provided under paragraph (a)(2) of this section. The upper-tier Passthrough Entity must provide notice to the API Holder and the IRS regarding the application of this paragraph (b)(2) to the information being reported as required in forms, instructions, and other guidance.
+
+(vii) *Filing requirements.* Both the Passthrough Entity requesting the information and the Passthrough Entity furnishing the information must file all information with the IRS as the Commissioner may require in forms, instructions, or other guidance.
+
+(viii) *Penalties.* In addition to the requirement in section 1061(e) that the Secretary shall require reporting (at the time and in the manner prescribed by the Secretary) as is necessary to carry out the purposes of this section, the information required to be furnished under this paragraph (b) is also required to be furnished under sections 6031(b) and 6037(b). Failure to report as required under this paragraph (b) will be subject to penalties under section 6722.
+
+(c) *Regulated investment company (RIC) and real estate investment trust (REIT) reporting*—(1) *Section 1061 disclosures.* A RIC or REIT that reports or designates a dividend, or part thereof, as a capital gain dividend, may, in addition to the information otherwise required to be furnished to a shareholder, disclose two amounts for purposes of section 1061—
+
+(i) *One Year Amounts Disclosure.* The *One Year Amounts Disclosure* of a RIC or REIT is a disclosure by the RIC or REIT of an amount that is attributable to a computation of the RIC's or REIT's net capital gain excluding capital gain and capital loss not taken into account for purposes of section 1061 under § 1.1061-4(b)(7). The aggregate amounts provided in the One Year Amounts Disclosures with respect to a taxable year of a RIC or REIT must equal the lesser of the RIC's or REIT's net capital gain, excluding any capital gains and capital losses not taken into account for purposes of section 1061 under § 1.1061-4(b)(7), for the taxable year or the RIC's or REIT's aggregate capital gain dividends for the taxable year.
+
+(ii) *Three Year Amounts Disclosure.* The *Three Year Amounts Disclosure* of a RIC or REIT is a disclosure by the RIC or REIT of an amount that is attributable to a computation of the RIC's or REIT's One Year Amounts Disclosure substituting “three years” for “one year” in applying section 1222. The aggregate amounts provided in the Three Year Amounts Disclosures with respect to a taxable year of a RIC or REIT must equal the lesser of the aggregate amounts provided in the RIC's or REIT's One Year Amounts Disclosures substituting “three years” for “one year” in applying section 1222 for the taxable year or the RIC's or REIT's aggregate capital gain dividends for the taxable year.
+
+(2) *Pro rata disclosures.* The One Year Amounts Disclosure and Three Year Amounts Disclosure made to each shareholder of a RIC or REIT must be proportionate to the share of capital gain dividends reported or designated to that shareholder for the taxable year.
+
+(3) *Report to shareholders.* A RIC or REIT that provides the section 1061 disclosures described in paragraphs (c)(1)(i) and (ii) of this section must provide those section 1061 disclosures in writing to its shareholders with the statement described in section 852(b)(3)(C)(i) or the notice described in section 857(b)(3)(B) in which the capital gain dividend is reported or designated.
+
+(d) *Qualified electing fund (QEF) reporting.* A passive foreign investment company with respect to which the shareholder has a QEF election (as described in section 1295(a)) in effect for the taxable year that determines net capital gain as provided in § 1.1293-1(a)(2)(i)(A), as limited by section 1293(e)(2), may provide some or all of the information listed in paragraph (b)(1) of this section (and any other relevant information) to its shareholders to enable API Holders to determine the amount of their inclusion under section 1293(a)(1) that would be included in the API One Year Distributive Share Amounts and API Three Year Distributive Share Amounts. To the extent that such information is not provided, paragraph (a)(2) of this section will apply except that Owner Taxpayers are not permitted to separately substantiate the information. An API Holder who receives the additional information described in this paragraph (d) must retain such information as required by § 1.1295-1(f)(2)(ii).
+
+(e) *Applicability date.* The provisions of this section apply to taxable years of Owner Taxpayers and Passthrough Entities beginning on or after January 19, 2021. An Owner Taxpayer or Passthrough Entity may choose to apply this section to a taxable year beginning after December 31, 2017, provided that they apply the Section 1061 Regulations in their entirety to that year and all subsequent years.
+
+[T.D. 9945, 86 FR 5480, Jan. 19, 2021]

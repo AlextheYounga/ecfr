@@ -1,5 +1,5 @@
-##### § 5422.1 Cruise sales. #####
+##### § 5422.1 Lump-sum sales. #####
 
-Link to an amendment published at 85 FR 82374, Dec. 18, 2020.
+As the general practice, the Bureau of Land Management (BLM) will estimate volume for a lump-sum sale using a tree cruise basis.
 
-As the general practice, the Bureau will sell timber on a tree cruise basis.
+[85 FR 82374, Dec. 18, 2020]

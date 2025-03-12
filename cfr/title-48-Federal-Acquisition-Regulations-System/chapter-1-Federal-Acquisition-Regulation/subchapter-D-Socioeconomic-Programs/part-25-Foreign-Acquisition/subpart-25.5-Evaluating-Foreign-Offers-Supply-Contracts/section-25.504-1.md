@@ -1,5 +1,7 @@
 ##### 25.504-1 Buy American statute. #####
 
+Link to an amendment published at 86 FR 6187, Jan. 19, 2021.
+
 (a)(1) *Example 1.*
 
 |Offer A|$12,000|        Domestic end product, small business.        |

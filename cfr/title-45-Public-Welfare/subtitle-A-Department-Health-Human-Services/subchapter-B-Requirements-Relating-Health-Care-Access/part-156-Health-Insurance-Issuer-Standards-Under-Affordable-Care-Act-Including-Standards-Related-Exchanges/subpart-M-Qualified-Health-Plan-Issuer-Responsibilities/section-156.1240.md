@@ -1,5 +1,7 @@
 ##### § 156.1240 Enrollment process for qualified individuals. #####
 
+Link to an amendment published at 86 FR 6178, Jan. 19, 2021.
+
 (a) *Premium payment.* A QHP issuer must -
 
 (1) Follow the premium payment process established by the Exchange in accordance with § 155.240.

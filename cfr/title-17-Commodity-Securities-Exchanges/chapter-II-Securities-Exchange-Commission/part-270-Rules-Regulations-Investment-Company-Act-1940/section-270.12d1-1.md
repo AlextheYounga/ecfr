@@ -1,14 +1,12 @@
 ##### § 270.12d1-1 Exemptions for investments in money market funds. #####
 
-Link to an amendment published at 85 FR 74005, Nov. 19, 2020.
+(a) *Exemptions for acquisition of money market fund shares.* If the conditions of paragraph (b) of this section are satisfied, notwithstanding sections 12(d)(1)(A), 12(d)(1)(B), 12(d)(1)(G), 17(a), and 57 of the Act (15 U.S.C. 80a-12(d)(1)(A), 80a-12(d)(1)(B), 80a-12(d)(1)(G), 80a-17(a), and 80a-56)) and § 270.17d-1:
 
-(a) *Exemptions for acquisition of money market fund shares.* If the conditions of paragraph (b) of this section are satisfied, notwithstanding sections 12(d)(1)(A), 12(d)(1)(B), 17(a), and 57 of the Act (15 U.S.C. 80a-12(d)(1)(A), 80a-12(d)(1)(B), 80a-17(a), and 80a-56), and § 270.17d-1:
+(1) An investment company (*acquiring fund*) may purchase and redeem shares issued by a money market fund; and
 
-(1) An investment company (“acquiring fund”) may purchase and redeem shares issued by a money market fund; and
+(2) A money market fund, any principal underwriter thereof, and a broker or a dealer may sell or otherwise dispose of shares issued by the money market fund to any acquiring fund.
 
-(2) A money market fund, any principal underwriter thereof, and a broker or a dealer may sell or otherwise dispose of shares issued by the money market fund to an acquiring fund.
-
-(b) Conditions - (1) *Fees.* The acquiring fund pays no sales charge, as defined in rule 2830(b)(8) of the Conduct Rules of the NASD (“sales charge”), or service fee, as defined in rule 2830(b)(9) of the Conduct Rules of the NASD, charged in connection with the purchase, sale, or redemption of securities issued by a money market fund (“service fee”); or the acquiring fund's investment adviser waives its advisory fee in an amount necessary to offset any sales charge or service fee.
+(b) Conditions—(1) *Fees.* The acquiring fund pays no sales charge, as defined in rule 2830(b)(8) of the Conduct Rules of the NASD (“sales charge”), or service fee, as defined in rule 2830(b)(9) of the Conduct Rules of the NASD, charged in connection with the purchase, sale, or redemption of securities issued by a money market fund (“service fee”); or the acquiring fund's investment adviser waives its advisory fee in an amount necessary to offset any sales charge or service fee.
 
 (2) *Unregistered money market funds.* If the money market fund is not an investment company registered under the Act:
 
@@ -46,4 +44,4 @@ Link to an amendment published at 85 FR 74005, Nov. 19, 2020.
 
 (B) Undertakes to comply with all the other requirements of § 270.2a-7, except that, if the company has no board of directors, the company's investment adviser performs the duties of the board of directors.
 
-[71 FR 36655, June 27, 2006]
+[71 FR 36655, June 27, 2006, as amended at 85 FR 74005, Nov. 19, 2020]

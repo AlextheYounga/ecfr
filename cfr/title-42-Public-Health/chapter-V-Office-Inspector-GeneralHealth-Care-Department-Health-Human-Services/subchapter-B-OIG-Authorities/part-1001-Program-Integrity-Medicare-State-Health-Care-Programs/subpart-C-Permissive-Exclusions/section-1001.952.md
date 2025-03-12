@@ -1,6 +1,6 @@
 ##### § 1001.952 Exceptions. #####
 
-Link to an amendment published at 85 FR 77887, Dec. 2, 2020.Link to an amendment published at 85 FR 76730, Nov. 30, 2020.
+Link to an amendment published at 85 FR 76730, Nov. 30, 2020.
 
 The following payment practices shall not be treated as a criminal offense under section 1128B of the Act and shall not serve as the basis for an exclusion:
 
@@ -90,23 +90,83 @@ The following payment practices shall not be treated as a criminal offense under
 
 (6) The aggregate equipment rental does not exceed that which is reasonably necessary to accomplish the commercially reasonable business purpose of the rental. Note that for purposes of paragraph (c) of this section, the term *fair market value* means that the value of the equipment when obtained from a manufacturer or professional distributor, but shall not be adjusted to reflect the additional value one party (either the prospective lessee or lessor) would attribute to the equipment as a result of its proximity or convenience to sources of referrals or business otherwise generated for which payment may be made in whole or in part under Medicare, Medicaid or other Federal health care programs.
 
-(d) *Personal services and management contracts.* As used in section 1128B of the Act, “remuneration” does not include any payment made by a principal to an agent as compensation for the services of the agent, as long as all of the following seven standards are met -
+(d) *Personal services and management contracts and outcomes-based payment arrangements.* (1) As used in section 1128B of the Act, “remuneration” does not include any payment made by a principal to an agent as compensation for the services of the agent, as long as all of the following standards are met:
 
-(1) The agency agreement is set out in writing and signed by the parties.
+(i) The agency agreement is set out in writing and signed by the parties.
 
-(2) The agency agreement covers all of the services the agent provides to the principal for the term of the agreement and specifies the services to be provided by the agent.
+(ii) The agency agreement covers all of the services the agent provides to the principal for the term of the agreement and specifies the services to be provided by the agent.
 
-(3) If the agency agreement is intended to provide for the services of the agent on a periodic, sporadic or part-time basis, rather than on a full-time basis for the term of the agreement, the agreement specifies exactly the schedule of such intervals, their precise length, and the exact charge for such intervals.
+(iii) The term of the agreement is not less than 1 year.
 
-(4) The term of the agreement is for not less than one year.
+(iv) The methodology for determining the compensation paid to the agent over the term of the agreement is set in advance, is consistent with fair market value in arm's-length transactions, and is not determined in a manner that takes into account the volume or value of any referrals or business otherwise generated between the parties for which payment may be made in whole or in part under Medicare, Medicaid, or other Federal health care programs.
 
-(5) The aggregate compensation paid to the agent over the term of the agreement is set in advance, is consistent with fair market value in arms-length transactions and is not determined in a manner that takes into account the volume or value of any referrals or business otherwise generated between the parties for which payment may be made in whole or in part under Medicare, Medicaid or other Federal health care programs.
+(v) The services performed under the agreement do not involve the counseling or promotion of a business arrangement or other activity that violates any State or Federal law.
 
-(6) The services performed under the agreement do not involve the counselling or promotion of a business arrangement or other activity that violates any State or Federal law.
+(vi) The aggregate services contracted for do not exceed those which are reasonably necessary to accomplish the commercially reasonable business purpose of the services.
 
-(7) The aggregate services contracted for do not exceed those which are reasonably necessary to accomplish the commercially reasonable business purpose of the services.
+(2) As used in section 1128B of the Act, “remuneration” does not include any outcomes-based payment as long as all of the standards in paragraphs (d)(2)(i) through (viii) of this section are met:
 
-For purposes of paragraph (d) of this section, an agent of a principal is any person, other than a bona fide employee of the principal, who has an agreement to perform services for, or on behalf of, the principal.
+(i) To receive an outcomes-based payment, the agent achieves one or more legitimate outcome measures that:
+
+(A) Are selected based on clinical evidence or credible medical support; and
+
+(B) Have benchmarks that are used to quantify:
+
+(*1*) Improvements in, or the maintenance of improvements in, the quality of patient care;
+
+(*2*) A material reduction in costs to or growth in expenditures of payors while maintaining or improving quality of care for patients; or
+
+(*3*) Both.
+
+(ii) The methodology for determining the aggregate compensation (including any outcomes-based payments) paid between or among the parties over the term of the agreement is: Set in advance; commercially reasonable; consistent with fair market value; and not determined in a manner that directly takes into account the volume or value of any referrals or business otherwise generated between the parties for which payment may be made in whole or in part by a Federal health care program.
+
+(iii) The agreement between the parties is set out in writing and signed by the parties in advance of, or contemporaneous with, the commencement of the terms of the outcomes-based payment arrangement. The writing states at a minimum: A general description of the services to be performed by the parties for the term of the agreement; the outcome measure(s) the agent must achieve to receive an outcomes-based payment; the clinical evidence or credible medical support relied upon by the parties to select the outcome measure(s); and the schedule for the parties to regularly monitor and assess the outcome measure(s).
+
+(iv) The agreement neither limits any party's ability to make decisions in their patients' best interest nor induces any party to reduce or limit medically necessary items or services.
+
+(v) The term of the agreement is not less than 1 year.
+
+(vi) The services performed under the agreement do not involve the counseling or promotion of a business arrangement or other activity that violates any State or Federal law.
+
+(vii) For each outcome measure under the agreement, the parties:
+
+(A) Regularly monitor and assess the agent's performance, including the impact of the outcomes-based payment arrangement on patient quality of care; and
+
+(B) Periodically assess, and as necessary revise, benchmarks and remuneration under the arrangement to ensure that the remuneration is consistent with fair market value in an arm's length transaction as required by paragraph (d)(2)(ii) of this section during the term of the agreement.
+
+(viii) The principal has policies and procedures to promptly address and correct identified material performance failures or material deficiencies in quality of care resulting from the outcomes-based payment arrangement.
+
+(3) For purposes of this paragraph (d):
+
+(i) An agent of a principal is any person other than a *bona fide* employee of the principal who has an agreement to perform services for or on behalf of the principal.
+
+(ii) Outcomes-based payments are limited to payments between or among a principal and an agent that:
+
+(A) Reward the agent for successfully achieving an outcome measure described in paragraph (d)(2)(i) of this section; or
+
+(B) Recoup from or reduce payment to an agent for failure to achieve an outcome measure described in paragraph (d)(2)(i) of this section.
+
+(iii) Outcomes-based payments exclude any payments:
+
+(A) Made directly or indirectly by the following entities:
+
+(*1*) A pharmaceutical manufacturer, distributor, or wholesaler;
+
+(*2*) A pharmacy benefit manager;
+
+(*3*) A laboratory company;
+
+(*4*) A pharmacy that primarily compounds drugs or primarily dispenses compounded drugs;
+
+(*5*) A manufacturer of a device or medical supply as defined in paragraph (ee)(14)(iv) of this section;
+
+(*6*) A medical device distributor or wholesaler that is not otherwise a manufacturer of a device or medical supply, as defined in paragraph (ee)(14)(iv) of this section; or
+
+(*7*) An entity or individual that sells or rents durable medical equipment, prosthetics, orthotics, or supplies covered by a Federal health care program (other than a pharmacy or a physician, provider, or other entity that primarily furnishes services); or
+
+(B) Related solely to the achievement of internal cost savings for the principal; or
+
+(C) Based solely on patient satisfaction or patient convenience measures.
 
 (e) *Sale of practice.* (1) As used in section 1128B of the Act, “remuneration” does not include any payment made to a practitioner by another practitioner where the former practitioner is selling his or her practice to the latter practitioner, as long as both of the following two standards are met -
 
@@ -148,21 +208,31 @@ For purposes of paragraph (d) of this section, an agent of a principal is any pe
 
 (v) The nature of any restrictions that would exclude such an individual or entity from continuing as a participant.
 
-(g) *Warranties.* As used in section 1128B of the Act, “remuneration” does not include any payment or exchange of anything of value under a warranty provided by a manufacturer or supplier of an item to the buyer (such as a health care provider or beneficiary) of the item, as long as the buyer complies with all of the following standards in paragraphs (g)(1) and (g)(2) of this section and the manufacturer or supplier complies with all of the following standards in paragraphs (g)(3) and (g)(4) of this section -
+(g) *Warranties.* As used in section 1128B of the Act, “remuneration” does not include any payment or exchange of anything of value under a warranty provided by a manufacturer or supplier of one or more items and services (provided the warranty covers at least one item) to the buyer (such as a health care provider or beneficiary) of the items and services, as long as the buyer complies with all of the following standards in paragraphs (g)(1) and (2) of this section and the manufacturer or supplier complies with all of the following standards in paragraphs (g)(3) through (6) of this section:
 
-(1) The buyer must fully and accurately report any price reduction of the item (including a free item), which was obtained as part of the warranty, in the applicable cost reporting mechanism or claim for payment filed with the Department or a State agency.
+(1) The buyer (unless the buyer is a Federal health care program beneficiary) must fully and accurately report any price reduction of an item or service (including a free item or service) that was obtained as part of the warranty in the applicable cost reporting mechanism or claim for payment filed with the Department or a State agency.
 
 (2) The buyer must provide, upon request by the Secretary or a State agency, information provided by the manufacturer or supplier as specified in paragraph (g)(3) of this section.
 
-(3) The manufacturer or supplier must comply with either of the following two standards -
+(3) The manufacturer or supplier must comply with either of the following standards:
 
-(i) The manufacturer or supplier must fully and accurately report the price reduction of the item (including a free item), which was obtained as part of the warranty, on the invoice or statement submitted to the buyer, and inform the buyer of its obligations under paragraphs (a)(1) and (a)(2) of this section.
+(i) The manufacturer or supplier must fully and accurately report any price reduction of an item or service (including free items and services) that the buyer obtained as part of the warranty on the invoice or statement submitted to the buyer and inform the buyer of its obligations under paragraphs (g)(1) and (2) of this section.
 
-(ii) Where the amount of the price reduction is not known at the time of sale, the manufacturer or supplier must fully and accurately report the existence of a warranty on the invoice or statement, inform the buyer of its obligations under paragraphs (g)(1) and (g)(2) of this section, and, when the price reduction becomes known, provide the buyer with documentation of the calculation of the price reduction resulting from the warranty.
+(ii) When the amount of any price reduction is not known at the time of sale, the manufacturer or supplier must fully and accurately report the existence of a warranty on the invoice or statement, inform the buyer of its obligations under paragraphs (g)(1) and (g)(2) of this section, and when any price reduction becomes known, provide the buyer with documentation of the calculation of the price reduction resulting from the warranty.
 
-(4) The manufacturer or supplier must not pay any remuneration to any individual (other than a beneficiary) or entity for any medical, surgical, or hospital expense incurred by a beneficiary other than for the cost of the item itself.
+(4) The manufacturer or supplier must not pay any remuneration to any individual (other than a beneficiary) or entity for any medical, surgical, or hospital expense incurred by a beneficiary other than for the cost of the items and services subject to the warranty.
 
-For purposes of paragraph (g) of this section, the term *warranty* means either an agreement made in accordance with the provisions of 15 U.S.C. 2301(6), or a manufacturer's or supplier's agreement to replace another manufacturer's or supplier's defective item (which is covered by an agreement made in accordance with this statutory provision), on terms equal to the agreement that it replaces.
+(5) If a manufacturer or supplier offers a warranty for more than one item or one or more items and related services, the federally reimbursable items and services subject to the warranty must be reimbursed by the same Federal health care program and in the same Federal health care program payment.
+
+(6) The manufacturer or supplier must not condition a warranty on a buyer's exclusive use of, or a minimum purchase of, any of the manufacturer's or supplier's items or services.
+
+(7) For purposes of this paragraph (g), the term *warranty* means:
+
+(i) Any written affirmation of fact or written promise made in connection with the sale of an item or bundle of items, or services in combination with one or more related items, by a manufacturer or supplier to a buyer, which affirmation of fact or written promise relates to the nature of the quality of workmanship and affirms or promises that such quality or workmanship is defect free or will meet a specified level of performance over a specified period of time;
+
+(ii) Any undertaking in writing in connection with the sale by a manufacturer or supplier of an item or bundle of items, or services in combination with one or more related items, to refund, repair, replace, or take other remedial action with respect to such item or bundle of items in the event that such item or bundle of items, or services in combination with one or more related items, fails to meet the specifications set forth in the undertaking which written affirmation, promise, or undertaking becomes part of the basis of the bargain between a seller and a buyer for purposes other than resell of such item or bundle of items; or
+
+(iii) A manufacturer's or supplier's agreement to replace another manufacturer's or supplier's defective item or bundle of items (which is covered by an agreement made in accordance with this paragraph (g)), on terms equal to the agreement that it replaces.
 
 (h) *Discounts.* As used in section 1128B of the Act, “remuneration” does not include a discount, as defined in paragraph (h)(5) of this section, on an item or service for which payment may be made in whole or in part under Medicare, Medicaid or other Federal health care programs for a buyer as long as the buyer complies with the applicable standards of paragraph (h)(1) of this section; a seller as long as the seller complies with the applicable standards of paragraph (h)(2) of this section; and an offeror of a discount who is not a seller under paragraph (h)(2) of this section so long as such offeror complies with the applicable standards of paragraph (h)(3) of this section.
 
@@ -812,17 +882,21 @@ Note to paragraph (x):
 
 For purposes of paragraph (x) of this section, *group practice* shall have the meaning set forth at 42 CFR 411.352; *member of the group practice* shall mean all persons covered by the definition of “member of the group or member of a group practice” at 42 CFR 411.351, as well as other prescribing health care professionals who are owners or employees of the group practice; *prescribing health care professional* shall mean a physician or other health care professional licensed to prescribe drugs in the State in which the drugs are dispensed; *PDP sponsor* or *MA organization* shall have the meanings set forth at 42 CFR 423.4 and 422.2, respectively; *prescription information* shall mean information about prescriptions for drugs or for any other item or service normally accomplished through a written prescription; and *electronic health record* shall mean a repository of consumer health status information in computer processable form used for clinical diagnosis and treatment for a broad array of clinical conditions.
 
-(y) *Electronic health records items and services.* As used in section 1128B of the Act, “remuneration” does not include nonmonetary remuneration (consisting of items and services in the form of software or information technology and training services) necessary and used predominantly to create, maintain, transmit, or receive electronic health records, if all of the following conditions are met:
+(y) *Electronic health records items and services.* As used in section 1128B of the Act, “remuneration” does not include nonmonetary remuneration (consisting of items and services in the form of software or information technology and training services, including cybersecurity software and services) necessary and used predominantly to create, maintain, transmit, receive, or protect electronic health records, if all of the conditions in paragraphs (y)(1) through (13) of this section are met:
 
-(1) The items and services are provided to an individual or entity engaged in the delivery of health care by -
+(1) The items and services are provided to an individual or entity engaged in the delivery of health care by:
 
-(i) An individual or entity, other than a laboratory company, that provides services covered by a Federal health care program and submits claims or requests for payment, either directly or through reassignment, to the Federal health care program; or
+(i) An individual or entity, other than a laboratory company, that:
+
+(A) Provides services covered by a Federal health care program and submits claims or requests for payment, either directly or through reassignment, to the Federal health care program; or
+
+(B) Is comprised of the types of individuals or entities in paragraph (y)(1)(i)(A) of this section; or
 
 (ii) A health plan.
 
-(2) The software is interoperable at the time it is provided to the recipient. For purposes of this subparagraph, software is deemed to be interoperable if, on the date it is provided to the recipient, it has been certified by a certifying body authorized by the National Coordinator for Health Information Technology to an edition of the electronic health record certification criteria identified in the then-applicable version of 45 CFR part 170.
+(2) The software is interoperable at the time it is provided to the recipient. For purposes of this paragraph (y)(2) of this section, software is deemed to be interoperable if, on the date it is provided to the recipient, it is certified by a certifying body authorized by the National Coordinator for Health Information Technology to certification criteria identified in the then-applicable version of 45 CFR part 170.
 
-(3) The donor (or any person on the donor's behalf) does not take any action to limit or restrict the use, compatibility, or interoperability of the items or services with other electronic prescribing or electronic health records systems (including, but not limited to, health information technology applications, products, or services).
+(3) [Reserved]
 
 (4) Neither the recipient nor the recipient's practice (or any affiliated individual or entity) makes the receipt of items or services, or the amount or nature of the items or services, a condition of doing business with the donor.
 
@@ -850,7 +924,7 @@ For purposes of paragraph (x) of this section, *group practice* shall have the m
 
 (iii) Covers all of the electronic health records items and services to be provided by the donor (or any affiliate). This requirement will be met if all separate agreements between the donor (and affiliated parties) and the beneficiary incorporate each other by reference or if they cross-reference a master list of agreements that is maintained and updated centrally and is available for review by the Secretary upon request. The master list should be maintained in a manner that preserves the historical record of agreements.
 
-(7) The donor does not have actual knowledge of, and does not act in reckless disregard or deliberate ignorance of, the fact that the beneficiary possesses or has obtained items or services equivalent to those provided by the donor.
+(7) [Reserved]
 
 (8) For items or services that are of the type that can be used for any patient without regard to payor status, the donor does not restrict, or take any action to limit, the recipient's right or ability to use the items or services for any patient.
 
@@ -858,15 +932,29 @@ For purposes of paragraph (x) of this section, *group practice* shall have the m
 
 (10) [Reserved]
 
-(11) Before receipt of the items and services, the recipient pays 15 percent of the donor's cost for the items and services. The donor (or any affiliated individual or entity) does not finance the recipient's payment or loan funds to be used by the recipient to pay for the items and services.
+(11) The recipient pays 15 percent of the donor's cost for the items and services. The following conditions apply to such contribution:
+
+(i) If the donation is the initial donation of EHR items and services, or the replacement of part or all of an existing system of EHR items and services, the recipient must pay 15 percent of the donor's cost before receiving the items and services. The contribution for updates to previously donated EHR items and services need not be paid in advance of receiving the update; and
+
+(ii) The donor (or any affiliated individual or entity) does not finance the recipient's payment or loan funds to be used by the recipient to pay for the items and services.
 
 (12) The donor does not shift the costs of the items or services to any Federal health care program.
 
-(13) The transfer of the items and services occurs, and all conditions in this paragraph (y) have been satisfied, on or before December 31, 2021.
+(13) [Reserved]
 
-Note to paragraph (y):
+(14) For purposes of this paragraph (y), the following definitions apply:
 
-For purposes of paragraph (y) of this section, *health plan* shall have the meaning set forth at § 1001.952(l)(2); *interoperable* shall mean able to communicate and exchange data accurately, effectively, securely, and consistently with different information technology systems, software applications, and networks, in various settings, and exchange data such that the clinical or operational purpose and meaning of the data are preserved and unaltered; and *electronic health record* shall mean a repository of consumer health status information in computer processable form used for clinical diagnosis and treatment for a broad array of clinical conditions.
+(i) *Cybersecurity* means the process of protecting information by preventing, detecting, and responding to cyberattacks.
+
+(ii) *Health plan* shall have the meaning set forth at § 1001.952(l)(2).
+
+(iii) *Interoperable* shall mean able to:
+
+(A) Securely exchange data with and use data from other health information technology; and
+
+(B) Allow for complete access, exchange, and use of all electronically accessible health information for authorized use under applicable State or Federal law.
+
+(iv) *Electronic health record* shall mean a repository of consumer health status information in computer processable form used for clinical diagnosis and treatment for a broad array of clinical conditions.
 
 (z) *Federally Qualified Health Centers and Medicare Advantage Organizations.* As used in section 1128B of the Act, “remuneration” does not include any remuneration between a federally qualified health center (or an entity controlled by such a health center) and a Medicare Advantage organization pursuant to a written agreement described in section 1853(a)(4) of the Act.
 
@@ -900,7 +988,7 @@ For purposes of paragraph (y) of this section, *health plan* shall have the mean
 
 (*2*) An established patient of the provider or supplier to or from which the individual is being transported;
 
-(B) Within 25 miles of the health care provider or supplier to or from which the patient would be transported, or within 50 miles if the patient resides in a rural area, as defined in this paragraph (bb); and
+(B) Within 25 miles of the health care provider or supplier to or from which the patient would be transported, or within 75 miles if the patient resides in a rural area, as defined in this paragraph (bb) except that, if the patient is discharged from an inpatient facility following inpatient admission or released from a hospital after being placed in observation status for at least 24 hours and transported to the patient's residence, or another residence of the patient's choice, the mileage limits in this paragraph (bb)(1)(iv)(B) shall not apply; and
 
 (C) For the purpose of obtaining medically necessary items and services.
 
@@ -912,12 +1000,482 @@ For purposes of paragraph (y) of this section, *health plan* shall have the mean
 
 (ii) The shuttle service is not marketed or advertised (other than posting necessary route and schedule details), no marketing of health care items and services occurs during the course of the transportation or at any time by drivers who provide the transportation, and drivers or others arranging for the transportation are not paid on a per-beneficiary-transported basis;
 
-(iii) The eligible entity makes the shuttle service available only within the eligible entity's local area, meaning there are no more than 25 miles from any stop on the route to any stop at a location where health care items or services are provided, except that if a stop on the route is in a rural area, the distance may be up to 50 miles between that that stop and all providers or suppliers on the route; and
+(iii) The eligible entity makes the shuttle service available only within the eligible entity's local area, meaning there are no more than 25 miles from any stop on the route to any stop at a location where health care items or services are provided, except that if a stop on the route is in a rural area, the distance may be up to 75 miles between that stop and any providers or suppliers on the route;
 
 (iv) The eligible entity that makes the shuttle service available bears the costs of the free or discounted shuttle services and does not shift the burden of these costs onto any Federal health care program, other payers, or individuals.
 
-Note to paragraph (bb):
+(3) For purposes of this paragraph (bb), the following definitions apply:
 
-For purposes of this paragraph (bb), an “eligible entity” is any individual or entity, except for individuals or entities (or family members or others acting on their behalf) that primarily supply health care items; “established patient” is a person who has selected and initiated contact to schedule an appointment with a provider or supplier to schedule an appointment, or who previously has attended an appointment with the provider or supplier; “shuttle service” is a vehicle that runs on a set route, on a set schedule; “rural area” is an area that is not an urban area, as defined in this rule;and “urban area” as: (a) A Metropolitan Statistical Area (MSA) or New England County Metropolitan Area (NECMA), as defined by the Executive Office of Management and Budget; or (b) the following New England counties, which are deemed to be parts of urban areas under section 601(g) of the Social Security Amendments of 1983 (Pub. L. 98-21, 42 U.S.C. 1395ww (note)): Litchfield County, Connecticut; York County, Maine; Sagadahoc County, Maine; Merrimack County, New Hampshire; and Newport County, Rhode Island.
+(i) An *eligible entity* is any individual or entity, except for individuals or entities (or family members or others acting on their behalf) that primarily supply health care items.
 
-[57 FR 3330, Jan. 29, 1992, as amended at 57 FR 52729, Nov. 5, 1992; 61 FR 2135, Jan. 25, 1996; 64 FR 63513, Nov. 19, 1999; 64 FR 63551, Nov. 19, 1999; 64 FR 71317, Dec. 21, 1999; 66 FR 62989, Dec. 4, 2001; 66 FR 63749, Dec. 10, 2001; 67 FR 11933, Mar. 18, 2002; 71 FR 45136, Aug. 8, 2006; 72 FR 56644, Oct. 4, 2007; 78 FR 79219, Dec. 27, 2013; 81 FR 3012, Jan. 20, 2016; 81 FR 88407, Dec. 7, 2016]
+(ii) An *established patient* is a person who has selected and initiated contact to schedule an appointment with a provider or supplier, or who previously has attended an appointment with the provider or supplier.
+
+(iii) A *shuttle service* is a vehicle that runs on a set route, on a set schedule.
+
+(iv) A *rural area* is an area that is not an urban area, as defined in paragraph (bb)(3)(v) of this section.
+
+(v) An *urban area* is:
+
+(A) A Metropolitan Statistical Area (MSA) or New England County Metropolitan Area (NECMA), as defined by the Executive Office of Management and Budget; or
+
+(B) The following New England counties, which are deemed to be parts of urban areas under section 601(g) of the Social Security Amendments of 1983 (Pub. L. 98-21, 42 U.S.C. 1395ww (note)): Litchfield County, Connecticut; York County, Maine; Sagadahoc County, Maine; Merrimack County, New Hampshire; and Newport County, Rhode Island.
+
+(cc)-(dd) [Reserved]
+
+(ee) *Care coordination arrangements to improve quality, health outcomes, and efficiency.* As used in section 1128B of the Act, “remuneration” does not include the exchange of anything of value between a VBE and VBE participant or between VBE participants pursuant to a value-based arrangement if all of the standards in paragraphs (ee)(1) through (13) of this section are met:
+
+(1) The remuneration exchanged:
+
+(i) Is in-kind;
+
+(ii) Is used predominantly to engage in value-based activities that are directly connected to the coordination and management of care for the target patient population and does not result in more than incidental benefits to persons outside of the target patient population; and
+
+(iii) Is not exchanged or used:
+
+(A) More than incidentally for the recipient's billing or financial management services; or
+
+(B) For the purpose of marketing items or services furnished by the VBE or a VBE participant to patients or for patient recruitment activities.
+
+(2) The value-based arrangement is commercially reasonable, considering both the arrangement itself and all value-based arrangements within the VBE.
+
+(3) The terms of the value-based arrangement are set forth in writing and signed by the parties in advance of, or contemporaneous with, the commencement of the value-based arrangement and any material change to the value-based arrangement. The writing states at a minimum:
+
+(i) The value-based purpose(s) of the value-based activities provided for in the value-based arrangement;
+
+(ii) The value-based activities to be undertaken by the parties to the value-based arrangement;
+
+(iii) The term of the value-based arrangement;
+
+(iv) The target patient population;
+
+(v) A description of the remuneration;
+
+(vi) Either the offeror's cost for the remuneration and the reasonable accounting methodology used by the offeror to determine its cost, or the fair market value of the remuneration;
+
+(vii) The percentage and amount contributed by the recipient;
+
+(viii) If applicable, the frequency of the recipient's contribution payments for ongoing costs; and
+
+(ix) The outcome or process measure(s) against which the recipient will be measured.
+
+(4) The parties to the value-based arrangement establish one or more legitimate outcome or process measures that:
+
+(i) The parties reasonably anticipate will advance the coordination and management of care for the target patient population based on clinical evidence or credible medical or health sciences support;
+
+(ii) Include one or more benchmarks that are related to improving or maintaining improvements in the coordination and management of care for the target patient population;
+
+(iii) Are monitored, periodically assessed, and prospectively revised as necessary to ensure that the measure and its benchmark continue to advance the coordination and management of care of the target patient population;
+
+(iv) Relate to the remuneration exchanged under the value-based arrangement; and
+
+(v) Are not based solely on patient satisfaction or patient convenience.
+
+(5) The offeror of the remuneration does not take into account the volume or value of, or condition the remuneration on:
+
+(i) Referrals of patients who are not part of the target patient population; or
+
+(ii) Business not covered under the value-based arrangement.
+
+(6) The recipient pays at least 15 percent of the offeror's cost for the remuneration, using any reasonable accounting methodology, or the fair market value of the in-kind remuneration. If it is a one-time cost, the recipient makes such contribution in advance of receiving the in-kind remuneration. If it is an ongoing cost, the recipient makes such contribution at reasonable, regular intervals.
+
+(7) The value-based arrangement does not:
+
+(i) Limit the VBE participant's ability to make decisions in the best interests of its patients;
+
+(ii) Direct or restrict referrals to a particular provider, practitioner, or supplier if:
+
+(A) A patient expresses a preference for a different practitioner, provider, or supplier;
+
+(B) The patient's payor determines the provider, practitioner, or supplier; or
+
+(C) Such direction or restriction is contrary to applicable law under titles XVIII and XIX of the Act; or
+
+(iii) Induce parties to furnish medically unnecessary items or services, or reduce or limit medically necessary items or services furnished to any patient.
+
+(8) The exchange of remuneration by a limited technology participant and another VBE participant or the VBE must not be conditioned on any recipient's exclusive use or minimum purchase of any item or service manufactured, distributed, or sold by the limited technology participant.
+
+(9) The VBE, a VBE participant in the value-based arrangement acting on the VBE's behalf, or the VBE's accountable body or responsible person reasonably monitors and assesses the following and reports the monitoring and assessment of the following to the VBE's accountable body or responsible person, as applicable, no less frequently than annually or at least once during the term of the value-based arrangement for arrangements with terms of less than 1 year:
+
+(i) The coordination and management of care for the target patient population in the value-based arrangement;
+
+(ii) Any deficiencies in the delivery of quality care under the value-based arrangement; and
+
+(iii) Progress toward achieving the legitimate outcome or process measure(s) in the value-based arrangement.
+
+(10) If the VBE's accountable body or responsible person determines, based on the monitoring and assessment conducted pursuant to paragraph (ee)(9) of this section, that the value-based arrangement has resulted in material deficiencies in quality of care or is unlikely to further the coordination and management of care for the target patient population, the parties must within 60 days either:
+
+(i) Terminate the arrangement; or
+
+(ii) Develop and implement a corrective action plan designed to remedy the deficiencies within 120 days, and if the corrective action plan fails to remedy the deficiencies within 120 days, terminate the value-based arrangement.
+
+(11) The offeror does not and should not know that the remuneration is likely to be diverted, resold, or used by the recipient for an unlawful purpose.
+
+(12) For a period of at least 6 years, the VBE or VBE participant makes available to the Secretary, upon request, all materials and records sufficient to establish compliance with the conditions of this paragraph (ee).
+
+(13) The remuneration is not exchanged by:
+
+(i) A pharmaceutical manufacturer, distributor, or wholesaler;
+
+(ii) A pharmacy benefit manager;
+
+(iii) A laboratory company;
+
+(iv) A pharmacy that primarily compounds drugs or primarily dispenses compounded drugs;
+
+(v) Except to the extent the entity is a limited technology participant, a manufacturer of a device or medical supply;
+
+(vi) Except to the extent the entity or individual is a limited technology participant, an entity or individual that sells or rents durable medical equipment, prosthetics, orthotics, or supplies covered by a Federal health care program (other than a pharmacy or a physician, provider, or other entity that primarily furnishes services); or
+
+(vii) A medical device distributor or wholesaler that is not otherwise a manufacturer of a device or medical supplies.
+
+(14) For purposes of this paragraph (ee), the following definitions apply:
+
+(i) *Coordination and management of care (or coordinating and managing care)* means the deliberate organization of patient care activities and sharing of information between two or more VBE participants, one or more VBE participants and the VBE, or one or more VBE participants and patients, that is designed to achieve safer, more effective, or more efficient care to improve the health outcomes of the target patient population.
+
+(ii) *Digital health technology* means hardware, software, or services that electronically capture, transmit, aggregate, or analyze data and that are used for the purpose of coordinating and managing care; such term includes any internet or other connectivity service that is necessary and used to enable the operation of the item or service for that purpose.
+
+(iii) *Limited technology participant* means a VBE participant that exchanges digital health technology with another VBE participant or a VBE and that is:
+
+(A) A manufacturer of a device or medical supply, but not including a manufacturer of a device or medical supply that was obligated under 42 CFR 403.906 to report one or more ownership or investment interests held by a physician or an immediate family member during the preceding calendar year, or that reasonably anticipates that it will be obligated to report one or more ownership or investment interests held by a physician or an immediate family member during the present calendar year (for purposes of this paragraph, the terms “ownership or investment interest,” “physician,” and “immediate family member” have the same meaning as set forth in 42 CFR 403.902); or
+
+(B) An entity or individual that sells or rents durable medical equipment, prosthetics, orthotics, or supplies covered by a Federal health care program (other than a pharmacy or a physician, provider, or other entity that primarily furnishes services).
+
+(iv) *Manufacturer of a device or medical supply* means an entity that meets the definition of applicable manufacturer in 42 CFR 403.902 because it is engaged in the production, preparation, propagation, compounding, or conversion of a device or medical supply that meets the definition of covered drug, device, biological, or medical supply in 42 CFR 403.902, but not including entities under common ownership with such entity.
+
+(v) *Target patient population* means an identified patient population selected by the VBE or its VBE participants using legitimate and verifiable criteria that:
+
+(A) Are set out in writing in advance of the commencement of the value-based arrangement; and
+
+(B) Further the value-based enterprise's value-based purpose(s).
+
+(vi) *Value-based activity.* (A) Means any of the following activities, provided that the activity is reasonably designed to achieve at least one value-based purpose of the value-based enterprise:
+
+(*1*) The provision of an item or service;
+
+(*2*) The taking of an action; or
+
+(*3*) The refraining from taking an action; and
+
+(B) Does not include the making of a referral.
+
+(vii) *Value-based arrangement* means an arrangement for the provision of at least one value-based activity for a target patient population to which the only parties are:
+
+(A) The value-based enterprise and one or more of its VBE participants; or
+
+(B) VBE participants in the same value-based enterprise.
+
+(viii) *Value-based enterprise* or *VBE* means two or more VBE participants:
+
+(A) Collaborating to achieve at least one value-based purpose;
+
+(B) Each of which is a party to a value-based arrangement with the other or at least one other VBE participant in the value-based enterprise;
+
+(C) That have an accountable body or person responsible for financial and operational oversight of the value-based enterprise; and
+
+(D) That have a governing document that describes the value-based enterprise and how the VBE participants intend to achieve its value-based purpose(s).
+
+(ix) *Value-based enterprise participant* or *VBE participant* means an individual or entity that engages in at least one value-based activity as part of a value-based enterprise, other than a patient acting in their capacity as a patient.
+
+(x) *Value-based purpose* means:
+
+(A) Coordinating and managing the care of a target patient population;
+
+(B) Improving the quality of care for a target patient population;
+
+(C) Appropriately reducing the costs to or growth in expenditures of payors without reducing the quality of care for a target patient population; or
+
+(D) Transitioning from health care delivery and payment mechanisms based on the volume of items and services provided to mechanisms based on the quality of care and control of costs of care for a target patient population.
+
+(ff) *Value-based arrangements with substantial downside financial risk.* As used in section 1128B of the Act, “remuneration” does not include the exchange of payments or anything of value between a VBE and a VBE participant pursuant to a value-based arrangement if all of the following standards in paragraphs (ff)(1) through (8) of this section are met:
+
+(1) The remuneration is not exchanged by:
+
+(i) A pharmaceutical manufacturer, distributor, or wholesaler;
+
+(ii) A pharmacy benefit manager;
+
+(iii) A laboratory company;
+
+(iv) A pharmacy that primarily compounds drugs or primarily dispenses compounded drugs;
+
+(v) A manufacturer of a device or medical supply;
+
+(vi) An entity or individual that sells or rents durable medical equipment, prosthetics, orthotics, or supplies covered by a Federal health care program (other than a pharmacy or a physician, provider, or other entity that primarily furnishes services); or
+
+(vii) A medical device distributor or wholesaler that is not otherwise a manufacturer of a device or medical supplies.
+
+(2) The VBE (directly or through a VBE participant, other than a payor, acting on the VBE's behalf) has assumed through a written contract or a value-based arrangement (or has entered into a written contract or a value-based arrangement to assume in the next 6 months) substantial downside financial risk from a payor for a period of at least 1 year.
+
+(3) The VBE participant (unless the VBE participant is the payor from which the VBE is assuming risk) is at risk for a meaningful share of the VBE's substantial downside financial risk for providing or arranging for the provision of items and services for the target patient population.
+
+(4) The remuneration provided by, or shared among, the VBE and VBE participant:
+
+(i) Is directly connected to one or more of the VBE's value-based purposes, at least one of which must be a value-based purpose defined in § 1001.952(ee)(14)(x)(A), (B), or (C);
+
+(ii) Unless exchanged pursuant to risk methodologies defined in paragraph (ff)(9)(i) or (ii) of this section, is used predominantly to engage in value-based activities that are directly connected to the items and services for which the VBE has assumed (or has entered into a written contract or value-based arrangement to assume in the next 6 months) substantial downside financial risk;
+
+(iii) Does not include the offer or receipt of an ownership or investment interest in an entity or any distributions related to such ownership or investment interest; and
+
+(iv) Is not exchanged or used for the purpose of marketing items or services furnished by the VBE or a VBE participant to patients or for patient recruitment activities.
+
+(5) The value-based arrangement is set forth in writing, is signed by the parties in advance of, or contemporaneous with, the commencement of the value-based arrangement and any material change to the value-based arrangement, and specifies all material terms including:
+
+(i) Terms evidencing that the VBE is at substantial downside financial risk or will assume such risk in the next 6 months for the target patient population;
+
+(ii) A description of the manner in which the VBE participant (unless the VBE participant is the payor from which the VBE is assuming risk) has a meaningful share of the VBE's substantial downside financial risk; and
+
+(iii) The value-based activities, the target patient population, and the type of remuneration exchanged.
+
+(6) The VBE or VBE participant offering the remuneration does not take into account the volume or value of, or condition the remuneration on:
+
+(i) Referrals of patients who are not part of the target patient population; or
+
+(ii) Business not covered under the value-based arrangement.
+
+(7) The value-based arrangement does not:
+
+(i) Limit the VBE participant's ability to make decisions in the best interests of its patients;
+
+(ii) Direct or restrict referrals to a particular provider, practitioner, or supplier if:
+
+(A) A patient expresses a preference for a different practitioner, provider, or supplier;
+
+(B) The patient's payor determines the provider, practitioner, or supplier; or
+
+(C) Such direction or restriction is contrary to applicable law under titles XVIII and XIX of the Act; or
+
+(iii) Induce parties to reduce or limit medically necessary items or services furnished to any patient.
+
+(8) For a period of at least 6 years, the VBE or VBE participant makes available to the Secretary, upon request, all materials and records sufficient to establish compliance with the conditions of this paragraph (ff).
+
+(9) For purposes of this paragraph (ff), the following definitions apply:
+
+(i) *Substantial downside financial risk* means:
+
+(A) Financial risk equal to at least 30 percent of any loss, where losses and savings are calculated by comparing current expenditures for all items and services that are covered by the applicable payor and furnished to the target patient population to a *bona fide* benchmark designed to approximate the expected total cost of such care;
+
+(B) Financial risk equal to at least 20 percent of any loss, where:
+
+(*1*) Losses and savings are calculated by comparing current expenditures for all items and services furnished to the target patient population pursuant to a defined clinical episode of care that are covered by the applicable payor to a *bona fide* benchmark designed to approximate the expected total cost of such care for the defined clinical episode of care; and
+
+(*2*) The parties design the clinical episode of care to cover items and services collectively furnished in more than one care setting; or
+
+(C) The VBE receives from the payor a prospective, per-patient payment that is:
+
+(*1*) Designed to produce material savings; and
+
+(*2*) Paid on a monthly, quarterly, or annual basis for a predefined set of items and services furnished to the target patient population, designed to approximate the expected total cost of expenditures for the predefined set of items and services.
+
+(ii) *Meaningful share* means the VBE participant:
+
+(A) Assumes two-sided risk for at least 5 percent of the losses and savings, as applicable, realized by the VBE pursuant to its assumption of substantial downside financial risk; or
+
+(B) Receives from the VBE a prospective, per-patient payment on a monthly, quarterly, or annual basis for a predefined set of items and services furnished to the target patient population, designed to approximate the expected total cost of expenditures for the predefined set of items and services, and does not claim payment in any form from the payor for the predefined items and services.
+
+(iii) *Manufacturer of a device or medical supply, target patient population, value-based activity,**value-based arrangement, value-based enterprise,**value-based purpose,* and *VBE participant* shall have the meaning set forth in paragraph (ee) of this section.
+
+(gg) *Value-based arrangements with full financial risk.* As used in section 1128B of the Act, “remuneration” does not include the exchange of payments or anything of value between the VBE and a VBE participant pursuant to a value-based arrangement if all of the standards in paragraphs (gg)(1) through (9) of this section are met:
+
+(1) The remuneration is not exchanged by:
+
+(i) A pharmaceutical manufacturer, distributor, or wholesaler;
+
+(ii) A pharmacy benefit manager;
+
+(iii) A laboratory company;
+
+(iv) A pharmacy that primarily compounds drugs or primarily dispenses compounded drugs;
+
+(v) A manufacturer of a device or medical supply;
+
+(vi) An entity or individual that sells or rents durable medical equipment, prosthetics, orthotics, or supplies covered by a Federal health care program (other than a pharmacy or a physician, provider, or other entity that primarily furnishes services); or
+
+(vii) A medical device distributor or wholesaler that is not otherwise a manufacturer of a device or medical supplies.
+
+(2) The VBE (directly or through a VBE participant, other than a payor, acting on behalf of the VBE) has assumed through a written contract or a value-based arrangement (or has entered into a written contract or a value-based arrangement to assume in the next 1 year) full financial risk from a payor.
+
+(3) The value-based arrangement is set forth in writing, is signed by the parties, and specifies all material terms, including the value-based activities and the term.
+
+(4) The VBE participant (unless the VBE participant is a payor) does not claim payment in any form from the payor for items or services covered under the contract or value-based arrangement between the VBE and the payor described in paragraph (2).
+
+(5) The remuneration provided by, or shared among, the VBE and VBE participant:
+
+(i) Is directly connected to one or more of the VBE's value-based purposes;
+
+(ii) Does not include the offer or receipt of an ownership or investment interest in an entity or any distributions related to such ownership or investment interest; and
+
+(iii) Is not exchanged or used for the purpose of marketing items or services furnished by the VBE or a VBE participant to patients or for patient recruitment activities.
+
+(6) The value-based arrangement does not induce parties to reduce or limit medically necessary items or services furnished to any patient.
+
+(7) The VBE or VBE participant offering the remuneration does not take into account the volume or value of, or condition the remuneration on:
+
+(i) Referrals of patients who are not part of the target patient population; or
+
+(ii) Business not covered under the value-based arrangement.
+
+(8) The VBE provides or arranges for a quality assurance program for services furnished to the target patient population that:
+
+(i) Protects against underutilization; and
+
+(ii) Assesses the quality of care furnished to the target patient population.
+
+(9) For a period of at least 6 years, the VBE or VBE participant makes available to the Secretary, upon request, all materials and records sufficient to establish compliance with the conditions of this paragraph (gg).
+
+(10) For purposes of this paragraph (gg), the following definitions apply:
+
+(i) *Full financial risk* means the VBE is financially responsible on a prospective basis for the cost of all items and services covered by the applicable payor for each patient in the target patient population for a term of at least 1 year.
+
+(ii) *Prospective basis* means that the VBE has assumed financial responsibility for the cost of all items and services covered by the applicable payor prior to the provision of items and services to patients in the target patient population.
+
+(iii) *Items and services* means health care items, devices, supplies, and services.
+
+(iv) *Manufacturer of a device or medical supply, target patient population, value-based activity,**value-based arrangement, value-based enterprise, value-based purpose,* and *VBE participant* shall have the meaning set forth in paragraph (ee) of this section.
+
+(hh) *Arrangements for patient engagement and support to improve quality, health outcomes, and efficiency.* As used in section 1128B of the Act, “remuneration” does not include a patient engagement tool or support furnished by a VBE participant to a patient in the target patient population of a value-based arrangement to which the VBE participant is a party if all of the conditions in paragraphs (hh)(1) through (9) of this section are met:
+
+(1) The VBE participant is not:
+
+(i) A pharmaceutical manufacturer, distributor, or wholesaler;
+
+(ii) A pharmacy benefit manager;
+
+(iii) A laboratory company;
+
+(iv) A pharmacy that primarily compounds drugs or primarily dispenses compounded drugs;
+
+(v) A manufacturer of a device or medical supply, unless the patient engagement tool or support is digital health technology;
+
+(vi) An entity or individual that sells or rents durable medical equipment, prosthetics, orthotics, or supplies covered by a Federal health care program (other than a pharmacy, a manufacturer of a device or medical supply, or a physician, provider, or other entity that primarily furnishes services);
+
+(vii) A medical device distributor or wholesaler that is not otherwise a manufacturer of a device or medical supply; or
+
+(viii) A manufacturer of a device or medical supply that was obligated under 42 CFR 403.906 to report one or more ownership or investment interests held by a physician or an immediate family member during the preceding calendar year, or that reasonably anticipates that it will be obligated to report one or more ownership or investment interests held by a physician or an immediate family member during the present calendar year, even if the patient engagement tool or support is digital health technology (for purposes of this paragraph, the terms “ownership or investment interest,” “physician,” and “immediate family member” have the same meaning as set forth in 42 CFR 403.902).
+
+(2) The patient engagement tool or support is furnished directly to the patient (or the patient's caregiver, family member, or other individual acting on the patient's behalf) by a VBE participant that is a party to the value-based arrangement or its eligible agent.
+
+(3) The patient engagement tool or support:
+
+(i) Is an in-kind item, good, or service;
+
+(ii) That has a direct connection to the coordination and management of care of the target patient population;
+
+(iii) Does not include any cash or cash equivalent;
+
+(iv) Does not result in medically unnecessary or inappropriate items or services reimbursed in whole or in part by a Federal health care program;
+
+(v) Is recommended by the patient's licensed health care professional; and
+
+(vi) Advances one or more of the following goals:
+
+(A) Adherence to a treatment regimen determined by the patient's licensed health care professional.
+
+(B) Adherence to a drug regimen determined by the patient's licensed health care professional.
+
+(C) Adherence to a followup care plan established by the patient's licensed health care professional.
+
+(D) Prevention or management of a disease or condition as directed by the patient's licensed health care professional.
+
+(E) Ensure patient safety.
+
+(4) The patient engagement tool or support is not funded or contributed by:
+
+(i) A VBE participant that is not a party to the applicable value-based arrangement; or
+
+(ii) An entity listed in paragraph (hh)(1) of this section.
+
+(5) The aggregate retail value of patient engagement tools and supports furnished to a patient by a VBE participant on an annual basis does not exceed $500. The monetary cap set forth in this paragraph (hh)(5) is adjusted each calendar year to the nearest whole dollar by the increase in the Consumer Price Index - Urban All Items (CPI-U) for the 12-month period ending the preceding September 30. OIG will publish guidance after September 30 of each year reflecting the increase in the CPI-U for the 12-month period ending September 30 and the new monetary cap applicable for the following calendar year.
+
+(6) The VBE participant or any eligible agent does not exchange or use the patient engagement tools or supports to market other reimbursable items or services or for patient recruitment purposes.
+
+(7) For a period of at least 6 years, the VBE participant makes available to the Secretary, upon request, all materials and records sufficient to establish that the patient engagement tool or support was distributed in a manner that meets the conditions of this paragraph (hh).
+
+(8) The availability of a tool or support is not determined in a manner that takes into account the type of insurance coverage of the patient.
+
+(9) For purposes of this paragraph (hh), the following definitions apply:
+
+(i) *Eligible agent* means any person or entity that is not identified in paragraphs (hh)(1)(i) through (viii) of this section as ineligible to furnish protected tools and supports under this paragraph.
+
+(ii) *Coordination and management of care, target patient population, value-based arrangement,**VBE, VBE participant, manufacturer of a device or medical supply,* and *digital health technology* shall have the meaning set forth in paragraph (ee) of this section.
+
+(ii) *CMS-sponsored model arrangements and CMS-sponsored model patient incentives.*
+
+(1) As used in section 1128B of the Act, “remuneration” does not include an exchange of anything of value between or among CMS-sponsored model parties under a CMS-sponsored model arrangement for which CMS has determined that this safe harbor is available if all of the following conditions are met:
+
+(i) The CMS-sponsored model parties reasonably determine that the CMS-sponsored model arrangement will advance one or more goals of the CMS-sponsored model;
+
+(ii) The exchange of value does not induce CMS-sponsored model parties or other providers or suppliers to furnish medically unnecessary items or services, or reduce or limit medically necessary items or services furnished to any patient;
+
+(iii) The CMS-sponsored model parties do not offer, pay, solicit, or receive remuneration in return for, or to induce or reward, any Federal health care program referrals or other Federal health care program business generated outside of the CMS-sponsored model;
+
+(iv) The CMS-sponsored model parties in advance of or contemporaneous with the commencement of the CMS-sponsored model arrangement set forth the terms of the CMS-sponsored model arrangement in a signed writing. The writing must specify at a minimum the activities to be undertaken by the CMS-sponsored model parties and the nature of the remuneration to be exchanged under the CMS-sponsored model arrangement;
+
+(v) The parties to the CMS-sponsored model arrangement make available to the Secretary, upon request, all materials and records sufficient to establish whether the remuneration was exchanged in a manner that meets the conditions of this safe harbor; and
+
+(vi) The CMS-sponsored model parties satisfy such programmatic requirements as may be imposed by CMS in connection with the use of this safe harbor.
+
+(2) As used in section 1128B of the Act, “remuneration” does not include a CMS-sponsored model patient incentive for which CMS has determined that this safe harbor is available if all of the following conditions are met:
+
+(i) The CMS-sponsored model participant reasonably determines that the CMS-sponsored model patient incentive will advance one or more goals of the CMS-sponsored model;
+
+(ii) The CMS-sponsored model patient incentive has a direct connection to the patient's health care unless the participation documentation expressly specifies a different standard;
+
+(iii) The CMS-sponsored model patient incentive is furnished by a CMS-sponsored model participant (or by an agent of the CMS-sponsored model participant under the CMS-sponsored model participant's direction and control), unless otherwise specified by the participation documentation;
+
+(iv) The CMS-sponsored model participant makes available to the Secretary, upon request, all materials and records sufficient to establish whether the CMS-sponsored model patient incentive was distributed in a manner that meets the conditions of this safe harbor; and
+
+(v) The CMS-sponsored model patient incentive is furnished consistent with the CMS-sponsored model and satisfies such programmatic requirements as may be imposed by CMS in connection with the use of this safe harbor.
+
+(3) For purposes of this paragraph (ii), the following definitions apply:
+
+(i) *CMS-sponsored model* means:
+
+(A) A model being tested under section 1115A(b) of the Act or a model expanded under section 1115A(c) of the Act; or
+
+(B) The Medicare shared savings program under section 1899 of the Act.
+
+(ii) *CMS-sponsored model arrangement* means a financial arrangement between or among CMS-sponsored model parties to engage in activities under the CMS-sponsored model that is consistent with, and is not a type of arrangement prohibited by, the participation documentation.
+
+(iii) *CMS-sponsored model participant* means an individual or entity that is subject to and is operating under participation documentation with CMS to participate in a CMS-sponsored model.
+
+(iv) *CMS-sponsored model party* means:
+
+(A) A CMS-sponsored model participant; or
+
+(B) Another individual or entity whom the participation documentation specifies may enter into a CMS-sponsored model arrangement.
+
+(v) *CMS-sponsored model patient incentive* means remuneration not of a type prohibited by the participation documentation that is furnished to a patient under the terms of a CMS-sponsored model.
+
+(vi) *Participation documentation* means the participation agreement, legal instrument setting forth the terms and conditions of a grant or cooperative agreement, regulations, or model-specific addendum to an existing contract with CMS that specifies the terms of a CMS-sponsored model.
+
+(4) For purposes of remuneration that satisfies this paragraph (ii), the safe harbor protects:
+
+(i) For a CMS-sponsored model governed by participation documentation other than the legal instrument setting forth the terms and conditions of a grant or a cooperative agreement, the exchange of remuneration between CMS-sponsored model parties that occurs on or after the first day on which services under the CMS-sponsored model begin and no later than 6 months after the final payment determination made by CMS under the model;
+
+(ii) For a CMS-sponsored model governed by the legal instrument setting forth the terms and conditions of a grant or cooperative agreement, the exchange of remuneration between CMS-sponsored model parties that occurs on or after the first day of the period of performance (as defined at 45 CFR 75.2) or such other date specified in the participation documentation and no later than 6 months after closeout occurs pursuant to 45 CFR 75.381; and
+
+(iii) For a CMS-sponsored model patient incentive, an incentive given on or after the first day on which patient care services may be furnished under the CMS-sponsored model as specified by CMS in the participation documentation and no later than the last day on which patient care services may be furnished under the CMS-sponsored model, unless a different timeframe is established in the participation documentation. A patient may retain any incentives furnished in compliance with paragraph (ii)(2) of this section.
+
+(jj) *Cybersecurity technology and related services.* As used in section 1128B of the Act, “remuneration” does not include nonmonetary remuneration (consisting of cybersecurity technology and services) that is necessary and used predominantly to implement, maintain, or reestablish effective cybersecurity if all of the conditions in paragraphs (jj)(1) through (4) of this section are met.
+
+(1) The donor does not:
+
+(i) Directly take into account the volume or value of referrals or other business generated between the parties when determining the eligibility of a potential recipient for the technology or services, or the amount or nature of the technology or services to be donated; or
+
+(ii) Condition the donation of technology or services, or the amount or nature of the technology or services to be donated, on future referrals.
+
+(2) Neither the recipient nor the recipient's practice (or any affiliated individual or entity) makes the receipt of technology or services, or the amount or nature of the technology or services, a condition of doing business with the donor.
+
+(3) A general description of the technology and services being provided and the amount of the recipient's contribution, if any, are set forth in writing and signed by the parties.
+
+(4) The donor does not shift the costs of the technology or services to any Federal health care program.
+
+(5) For purposes of this paragraph (jj) the following definitions apply:
+
+(i) *Cybersecurity* means the process of protecting information by preventing, detecting, and responding to cyberattacks.
+
+(ii) *Technology* means any software or other types of information technology.
+
+(kk) *ACO Beneficiary Incentive Program.* As used in section 1128B of the Act, “remuneration” does not include an incentive payment made by an ACO to an assigned beneficiary under a beneficiary incentive program established under section 1899(m) of the Act, as amended by Congress from time to time, if the incentive payment is made in accordance with the requirements found in such subsection.
+
+[57 FR 3330, Jan. 29, 1992, as amended at 57 FR 52729, Nov. 5, 1992; 61 FR 2135, Jan. 25, 1996; 64 FR 63513, Nov. 19, 1999; 64 FR 63551, Nov. 19, 1999; 64 FR 71317, Dec. 21, 1999; 66 FR 62989, Dec. 4, 2001; 66 FR 63749, Dec. 10, 2001; 67 FR 11933, Mar. 18, 2002; 71 FR 45136, Aug. 8, 2006; 72 FR 56644, Oct. 4, 2007; 78 FR 79219, Dec. 27, 2013; 81 FR 3012, Jan. 20, 2016; 81 FR 88407, Dec. 7, 2016; 85 FR 77887, Dec. 2, 2020]

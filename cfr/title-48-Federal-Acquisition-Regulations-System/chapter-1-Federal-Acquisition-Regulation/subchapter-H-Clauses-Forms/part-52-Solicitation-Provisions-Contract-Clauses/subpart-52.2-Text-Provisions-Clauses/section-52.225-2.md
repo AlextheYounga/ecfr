@@ -1,6 +1,6 @@
 ##### 52.225-2 Buy American Certificate. #####
 
-Link to an amendment published at 86 FR 3688, Jan. 14, 2021.
+Link to an amendment published at 86 FR 6190, Jan. 19, 2021.Link to an amendment published at 86 FR 3688, Jan. 14, 2021.
 
 As prescribed in 25.1101(a)(2), insert the following provision:
 

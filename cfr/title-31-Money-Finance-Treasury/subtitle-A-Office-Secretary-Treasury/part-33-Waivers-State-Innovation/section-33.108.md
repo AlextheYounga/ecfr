@@ -1,5 +1,7 @@
 ##### § 33.108 Application procedures. #####
 
+Link to an amendment published at 86 FR 6176, Jan. 19, 2021.
+
 (a) *Acceptable formats for applications.* Applications for initial approval of a section 1332 waiver shall be submitted in electronic format to the Secretary of Health and Human Services.
 
 (b) *Application timing.* Applications for initial approval of a section 1332 waiver must be submitted sufficiently in advance of the requested effective date to allow for an appropriate implementation timeline.

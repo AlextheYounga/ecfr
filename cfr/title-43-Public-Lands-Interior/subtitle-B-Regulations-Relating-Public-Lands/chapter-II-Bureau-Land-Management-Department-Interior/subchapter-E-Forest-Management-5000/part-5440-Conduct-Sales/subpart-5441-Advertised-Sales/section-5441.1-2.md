@@ -1,7 +1,5 @@
-##### § 5441.1-2 Special considerations. #####
+##### § 5441.1-2 SBA set-aside sales. #####
 
-Link to an amendment published at 85 FR 82375, Dec. 18, 2020.
+Only bids of small business concerns which have filed a self-certification statement as required by § 5441.1 may be considered for sales subject to set-asides. When no such bids are received, the timber may be sold under § 5443.1 in the same manner as timber not previously made subject to a set-aside. When timber subject to a set-aside is not sold for any other reason, the sale may be rescheduled for a set-aside sale.
 
-Where a timber sale notice provides that the successful bidder may use a Small Business Administration road construction loan, and the bidder has reason to believe that he qualifies for such road construction loan under SBA regulations (13 CFR part 121), the bidder shall submit to the authorized officer a statement of his intention to file with SBA for such SBA road construction loan. The purpose of the filing is to facilitate action by the authorized officer and the Small Business Administration on the loan application.
-
-[35 FR 9785, June 13, 1970]
+[35 FR 9785, June 13, 1970. Redesignated at 85 FR 82375, Dec. 18, 2020]

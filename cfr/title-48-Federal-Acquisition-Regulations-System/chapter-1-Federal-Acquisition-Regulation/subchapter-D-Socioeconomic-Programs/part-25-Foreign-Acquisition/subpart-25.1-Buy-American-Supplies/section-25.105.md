@@ -1,5 +1,7 @@
 ##### 25.105 Determining reasonableness of cost. #####
 
+Link to an amendment published at 86 FR 6187, Jan. 19, 2021.
+
 (a) The contracting officer -
 
 (1) Must use the evaluation factors in paragraph (b) of this section unless the head of the agency makes a written determination that the use of higher factors is more appropriate. If the determination applies to all agency acquisitions, the agency evaluation factors must be published in agency regulations; and

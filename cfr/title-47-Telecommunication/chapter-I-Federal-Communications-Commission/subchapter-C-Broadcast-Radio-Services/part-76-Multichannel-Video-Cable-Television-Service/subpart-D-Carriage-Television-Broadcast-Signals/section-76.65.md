@@ -1,7 +1,5 @@
 ##### § 76.65 Good faith and exclusive retransmission consent complaints. #####
 
-Link to an amendment published at 85 FR 81812, Dec. 17, 2020.
-
 (a) *Duty to negotiate in good faith.* Television broadcast stations and multichannel video programming distributors shall negotiate in good faith the terms and conditions of retransmission consent agreements to fulfill the duties established by section 325(b)(3)(C) of the Act; provided, however, that it shall not be a failure to negotiate in good faith if:
 
 (1) The television broadcast station proposes or enters into retransmission consent agreements containing different terms and conditions, including price terms, with different multichannel video programming distributors if such different terms and conditions are based on competitive marketplace considerations; or
@@ -74,8 +72,8 @@ Link to an amendment published at 85 FR 81812, Dec. 17, 2020.
 
 (2) A television broadcast station or multichannel video programming distributor engages in retransmission consent negotiations with a complainant that the complainant alleges to violate one or more of the rules contained in this subpart, and such negotiation is unrelated to any existing contract between the complainant and the television broadcast station or multichannel video programming distributor; or
 
-(3) The complainant has notified the television broadcast station or multichannel video programming distributor that it intends to file a complaint with the Commission based on a request to negotiate retransmission consent that has been denied, unreasonably delayed, or unacknowledged in violation of one or more of the rules contained in this subpart.
+(3) The television broadcast station or multichannel video programming distributor has denied, unreasonably delayed, or failed to acknowledge a request to negotiate retransmission consent in violation of one or more of the rules contained in this subpart.
 
 (f) Termination of rules. This section shall terminate at midnight on January 1, 2020, provided that if Congress further extends this date, the rules remain in effect until the statutory authorization expires.
 
-[70 FR 40224, July 13, 2005, as amended at 74 FR 69286, Dec. 31, 2009; 79 FR 28630, May 19, 2014; 80 FR 11330, Mar. 3, 2015; 85 FR 36801, June 18, 2020]
+[70 FR 40224, July 13, 2005, as amended at 74 FR 69286, Dec. 31, 2009; 79 FR 28630, May 19, 2014; 80 FR 11330, Mar. 3, 2015; 85 FR 36801, June 18, 2020; 85 FR 81812, Dec. 17, 2020]

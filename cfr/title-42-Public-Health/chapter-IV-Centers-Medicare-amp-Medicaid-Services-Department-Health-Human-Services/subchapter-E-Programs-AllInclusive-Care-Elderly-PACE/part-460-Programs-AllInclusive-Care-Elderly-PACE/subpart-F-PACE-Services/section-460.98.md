@@ -1,5 +1,7 @@
 ##### § 460.98 Service delivery. #####
 
+Link to an amendment published at 86 FR 6132, Jan. 19, 2021.
+
 (a) *Plan.* A PACE organization must establish and implement a written plan to furnish care that meets the needs of each participant in all care settings 24 hours a day, every day of the year.
 
 (b) *Provision of services.* (1) The PACE organization must furnish comprehensive medical, health, and social services that integrate acute and long-term care.

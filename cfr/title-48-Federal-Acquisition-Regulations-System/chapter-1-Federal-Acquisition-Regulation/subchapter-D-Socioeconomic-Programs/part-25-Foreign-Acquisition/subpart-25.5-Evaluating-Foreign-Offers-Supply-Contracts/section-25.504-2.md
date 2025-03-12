@@ -1,5 +1,7 @@
 ##### 25.504-2 WTO GPA/Caribbean Basin Trade Initiative/FTAs. #####
 
+Link to an amendment published at 86 FR 6188, Jan. 19, 2021.
+
 *Example 1.*
 
 |Offer A|304,000|      U.S.-made end product (not domestic).      |

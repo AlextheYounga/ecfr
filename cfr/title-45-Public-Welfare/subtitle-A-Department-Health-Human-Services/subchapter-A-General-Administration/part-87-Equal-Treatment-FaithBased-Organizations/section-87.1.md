@@ -1,23 +1,19 @@
 ##### § 87.1 Definitions. #####
 
-Link to an amendment published at 85 FR 82145, Dec. 17, 2020.
+The following definitions apply for the purposes of this part.
 
-(a) These are the definitions for terms used in this part. Different definitions may be found in Federal statutes or regulations that apply more specifically to particular program or activities.
+(a) *Direct Federal financial assistance, Federal financial assistance provided directly,* or *direct funding* means financial assistance received by an entity selected by the Government or a pass-through entity (as defined in this part) to carry out a service (e.g., by contract, grant, or cooperative agreement). References to Federal financial assistance will be deemed to be references to direct Federal financial assistance, unless the referenced assistance meets the definition of indirect Federal financial assistance or Federal financial assistance provided indirectly.
 
-(b) The terms *direct Federal financial assistance, Federal financial assistance provided directly,**direct funding, and directly funded* mean that the government or a pass-through entity (under this part) selects the provider and either purchases services from that provider (*e.g.,* via a contract) or awards funds to that provider to carry out a service (*e.g.,* via grant or cooperative agreement). In general, Federal financial assistance shall be treated as direct, unless it meets the definition of “indirect Federal financial assistance” or “Federal financial assistance provided indirectly.”
+(b) *Directly funded* means funded by means of direct Federal financial assistance.
 
-(c) The term *indirect Federal financial assistance* or *Federal financial assistance provided indirectly* means that the choice of the service provider is placed in the hands of the beneficiary, and the cost of that service is paid through a voucher, certificate, or other similar means of government-funded payment.
+(c) *Indirect Federal financial assistance* or *Federal financial assistance provided indirectly* means financial assistance received by a service provider when the service provider is paid for services rendered by means of a voucher, certificate, or other means of government-funded payment provided to a beneficiary who is able to make a choice of a service provider.
 
-(1) Federal financial assistance provided to an organization is considered indirect when:
+(d) Federal financial assistance does not include a tax credit, deduction, exemption, guaranty contract, or the use of any assistance by any individual who is the ultimate beneficiary under any such program.
 
-(i) The Government program through which the beneficiary receives the voucher, certificate, or other similar means of Government-funded payment is neutral toward religion;
+(e) *Pass-through entity* means an entity, including a nonprofit or nongovernmental organization, acting under a contract, grant, or other agreement with the Federal Government or with a State or local government, such as a State administering agency, that accepts direct Federal financial assistance as a primary recipient or grantee and distributes that assistance to other organizations that, in turn, provide government funded social services.
 
-(ii) The organization receives the assistance as a result of a decision of the beneficiary, not a decision of the government; and
+(f) *Recipient* means a non-Federal entity that receives a Federal award directly from a Federal awarding agency to carry out an activity under a Federal program. The term recipient does not include subrecipients, but does include pass-through entities.
 
-(iii) The beneficiary has at least one adequate secular option for the use of the voucher, certificate, or other similar means of Government-funded payment.
+(g) *Religious exercise* has the meaning given to the term in 42 U.S.C. 2000cc-5(7)(A).
 
-(2) The recipients of sub-grants that receive Federal financial assistance through State-administered programs are not considered recipients of “indirect Federal financial assistance” [or recipients of “Federal funds provided indirectly”] as those terms are used in this part.
-
-(d) *Pass-through entity* means a non-Federal entity that provides a subaward to a subrecipient to carry out part of a Federal program.
-
-(e) *Recipient* means a non-Federal entity that receives a Federal award directly from a Federal awarding agency to carry out an activity under a Federal program. The term recipient does not include subrecipients.
+[85 FR 82145, Dec. 17, 2020]
