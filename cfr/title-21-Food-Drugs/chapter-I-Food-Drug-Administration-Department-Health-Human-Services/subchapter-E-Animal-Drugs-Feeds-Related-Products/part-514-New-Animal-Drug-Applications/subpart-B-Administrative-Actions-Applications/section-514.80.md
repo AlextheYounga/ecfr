@@ -1,5 +1,7 @@
 ##### § 514.80 Records and reports concerning experience with approved new animal drugs. #####
 
+Link to an amendment published at 85 FR 45512, July 29, 2020.
+
 The following table outlines the purpose for each paragraph of this section:
 
 |                                                                                                                                      Purpose                                                                                                                                       |                                21 CFR Paragraph and Title                                 |
