@@ -1,7 +1,5 @@
 ##### 514.270-4 Grouping line items for aggregate award. #####
 
-Link to an amendment published at 86 FR 68442, Dec. 2, 2021.
-
 (a) *Supplies and services.* This subsection applies to acquisitions of supplies and services.
 
 (b) *Effect on compeition.* Provide for full and open competition when grouping items for award. Grouping items for award may preclude a significant of firms from bidding. This occurs if firms are unable to provide all the types or quanities of supplies or services, or make deliveries to the various delivery points included in the prospective aggregate group.
@@ -18,8 +16,8 @@ Link to an amendment published at 86 FR 68442, Dec. 2, 2021.
 
 (i) Grouping widespread geographic locations or delivery points may reduce competition or result in higher prices. It can cause the loss of “area pricing” advantages provided by a supplier with a single production point.
 
-(ii) Conversely, for many small commercial items (hand tools, locks, etc.), manufacturers may quote the same price for delivery anywhere in the U.S.
+(ii) Conversely, for many small commercial products (hand tools, locks, etc.), manufacturers may quote the same price for delivery anywhere in the U.S.
 
 (iii) Tariff boundaries can also affect how manufacturers price deliveries to different areas.
 
-[64 FR 37211, July 9, 1999, as amended at 74 FR 47739, Sept. 17, 2009]
+[64 FR 37211, July 9, 1999, as amended at 74 FR 47739, Sept. 17, 2009; 86 FR 68442, Dec. 2, 2021]

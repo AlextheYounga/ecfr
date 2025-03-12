@@ -1,6 +1,6 @@
 ##### § 860.120 General. #####
 
-(a) Sections 513(e) and (f), 514(b), 515(b), and 520(l) of the act provide for reclassification of a device and prescribe the procedures to be followed to effect reclassification. The purposes of subpart C are to:
+(a) Sections 513(e) and (f), 514(b), 515(b), and 520(l) of the Federal Food, Drug, and Cosmetic Act provide for reclassification of a device and prescribe the procedures to be followed to effect reclassification. The purposes of subpart C are to:
 
 (1) Set forth the requirements as to form and content of petitions for reclassification;
 

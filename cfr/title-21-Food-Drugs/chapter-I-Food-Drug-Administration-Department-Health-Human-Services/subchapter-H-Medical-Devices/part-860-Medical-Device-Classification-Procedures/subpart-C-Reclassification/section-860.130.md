@@ -1,12 +1,12 @@
 ##### § 860.130 General procedures under section 513(e) of the Federal Food, Drug, and Cosmetic Act. #####
 
-(a) Section 513(e) of the act applies to reclassification proceedings under the act based upon new information.
+(a) Section 513(e) of the Federal Food, Drug, and Cosmetic Act applies to reclassification proceedings under the Federal Food, Drug, and Cosmetic Act based upon new information.
 
 (b) A proceeding to reclassify a device under section 513(e) may be initiated:
 
 (1) On the initiative of the Commissioner alone;
 
-(2) On the initiative of the Commissioner in response to a request for change in classification based upon new information, under section 514(b) or 515(b) of the act (see § 860.132); or
+(2) On the initiative of the Commissioner in response to a request for change in classification based upon new information, under section 514(b) or 515(b) of the Federal Food, Drug, and Cosmetic Act (see § 860.132); or
 
 (3) In response to the petition of an interested person, based upon new information, filed in accordance with § 860.123.
 

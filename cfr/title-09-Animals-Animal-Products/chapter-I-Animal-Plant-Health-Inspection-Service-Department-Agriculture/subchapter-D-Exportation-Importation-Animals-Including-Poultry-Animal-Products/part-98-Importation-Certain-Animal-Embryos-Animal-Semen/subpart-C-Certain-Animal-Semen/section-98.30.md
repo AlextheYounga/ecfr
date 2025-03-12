@@ -1,7 +1,5 @@
 ##### § 98.30 Definitions. #####
 
-Link to an amendment published at 86 FR 68864, Dec. 3, 2021.
-
 Whenever in this subpart of the following terms are used, unless the context otherwise requires, they shall be construed, respectively, to mean:
 
 *Administrator.* The Administrator of the Animal and Plant Health Inspection Service or any other employee of the Animal and Plant Health Inspection Service, United States Department of Agriculture, to whom authority has been or may be delegated to act in the Administrator's stead.
@@ -15,6 +13,8 @@ Whenever in this subpart of the following terms are used, unless the context oth
 *Communicable disease.* Any contagious, infectious, or communicable disease of domestic livestock, poultry or other animals.
 
 *Department.* The United States Department of Agriculture (USDA).
+
+*Establishment.* The premises in which animals are kept.
 
 *Flock.* A herd.
 
@@ -46,4 +46,4 @@ Whenever in this subpart of the following terms are used, unless the context oth
 
 *United States.* All of the States of the United States, the District of Columbia, Guam, Northern Mariana Islands, Puerto Rico, the Virgin Islands of the United States, and all other Territories and Possessions of the United States.
 
-[55 FR 31558, Aug. 2, 1990. Redesignated at 56 FR 55809, Oct. 30, 1991; 61 FR 17242, Apr. 19, 1996; 62 FR 56026, Oct. 28, 1997; 65 FR 56777, Sept. 20, 2000; 71 FR 29071, May 19, 2006; 72 FR 67233, Nov. 28, 2007; 76 FR 70039, Nov. 10, 2011; 77 FR 1396, Jan. 10, 2012]
+[55 FR 31558, Aug. 2, 1990. Redesignated at 56 FR 55809, Oct. 30, 1991; 61 FR 17242, Apr. 19, 1996; 62 FR 56026, Oct. 28, 1997; 65 FR 56777, Sept. 20, 2000; 71 FR 29071, May 19, 2006; 72 FR 67233, Nov. 28, 2007; 76 FR 70039, Nov. 10, 2011; 77 FR 1396, Jan. 10, 2012; 86 FR 68864, Dec. 3, 2021]

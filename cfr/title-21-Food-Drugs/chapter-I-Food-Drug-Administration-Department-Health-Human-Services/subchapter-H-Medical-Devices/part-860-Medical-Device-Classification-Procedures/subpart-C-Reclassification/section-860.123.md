@@ -1,6 +1,6 @@
 ##### § 860.123 Reclassification petition: Content and form. #####
 
-(a) Unless otherwise provided in writing by the Commissioner, any petition for reclassification of a device, regardless of the section of the act under which it is filed, shall include the following:
+(a) Unless otherwise provided in writing by the Commissioner, any petition for reclassification of a device, regardless of the section of the Federal Food, Drug, and Cosmetic Act under which it is filed, shall include the following:
 
 (1) A specification of the type of device for which reclassification is requested;
 
@@ -12,7 +12,7 @@
 
 (5) Representative data and information known by the petitioner that are unfavorable to the petitioner's position;
 
-(6) If the petition is based upon new information under section 513(e), 514(b), or 515(b) of the act, a summary of the new information;
+(6) If the petition is based upon new information under section 513(e), 514(b), or 515(b) of the Federal Food, Drug, and Cosmetic Act, a summary of the new information;
 
 (7) Copies of source documents from which new information used to support the petition has been obtained (attached as appendices to the petition); and
 

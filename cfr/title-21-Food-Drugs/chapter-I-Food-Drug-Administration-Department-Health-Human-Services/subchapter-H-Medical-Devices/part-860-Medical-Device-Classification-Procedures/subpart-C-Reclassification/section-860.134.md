@@ -1,6 +1,6 @@
 ##### § 860.134 Procedures for reclassification of “postamendments devices” under section 513(f)(3) of the Federal Food, Drug, and Cosmetic Act. #####
 
-(a) Section 513(f)(3) of the act applies to proceedings for reclassification of a device currently in class III by operation of section 513(f)(1) of the act. This category includes any device that is to be first introduced or delivered for introduction into interstate commerce for commercial distribution after May 28, 1976, unless:
+(a) Section 513(f)(3) of the Federal Food, Drug, and Cosmetic Act applies to proceedings for reclassification of a device currently in class III by operation of section 513(f)(1) of the Federal Food, Drug, and Cosmetic Act. This category includes any device that is to be first introduced or delivered for introduction into interstate commerce for commercial distribution after May 28, 1976, unless:
 
 (1) It is substantially equivalent to another device that was in commercial distribution before that date and had not been regulated before that date as a new drug; or
 

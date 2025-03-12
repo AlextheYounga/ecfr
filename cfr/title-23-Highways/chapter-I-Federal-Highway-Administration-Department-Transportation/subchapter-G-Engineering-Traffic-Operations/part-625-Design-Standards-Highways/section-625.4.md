@@ -1,5 +1,7 @@
 ##### § 625.4 Standards, policies, and standard specifications. #####
 
+Link to an amendment published at 87 FR 41, Jan. 3, 2022.
+
 (a) *Roadway and appurtenances.* (1) A Policy on Geometric Design of Highways and Streets, AASHTO, 2011 (incorporated by reference; see § 625.4(d)).
 
 (2) A Policy on Design Standards - Interstate System, AASHTO (paragraph (d) of this section).

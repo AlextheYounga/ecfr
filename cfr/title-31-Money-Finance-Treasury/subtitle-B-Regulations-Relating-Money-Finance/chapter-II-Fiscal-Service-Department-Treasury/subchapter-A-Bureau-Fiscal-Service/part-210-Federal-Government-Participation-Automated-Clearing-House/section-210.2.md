@@ -1,5 +1,7 @@
 ##### § 210.2 Definitions. #####
 
+Link to an amendment published at 87 FR 46, Jan. 3, 2022.
+
 For purposes of this part, the following definitions apply. Any term that is not defined in this part shall have the meaning set forth in the ACH Rules.
 
 (a) *ACH Rules* means the Operating Rules and the Operating Guidelines published by NACHA - The Electronic Payments Association (NACHA), a national association of regional member clearing house associations, ACH Operators and participating financial institutions located in the United States.

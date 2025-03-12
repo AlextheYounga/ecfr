@@ -1,8 +1,6 @@
 ##### § 93.428 Sheep and goats and wild ruminants from Mexico. #####
 
-Link to an amendment published at 86 FR 68859, Dec. 3, 2021.
-
-(a) Sheep and goats intended for importation from Mexico shall be accompanied by a certificate issued in accordance with § 93.405 and stating, if such sheep and goats are shipped by rail or truck, that such animals were loaded into cleaned and disinfected cars or trucks for transportation direct to the port of entry. Notwithstanding such certificate, such sheep and goats shall be detained as provided in § 93.427(a) and shall be dipped at least once in a permitted scabies dip under supervision of an inspector.
+(a) Sheep, goats, and native wild ruminants intended for import from Mexico must be imported in accordance with § 93.435, and shall be accompanied by a certificate issued in accordance with § 93.405 and stating, if such sheep and goats are shipped by rail or truck, that such animals were loaded into cleaned and disinfected cars or trucks for transportation direct to the port of entry. Notwithstanding such certificate, such sheep and goats shall be detained as provided in § 93.427(a) and shall be dipped at least once in a permitted scabies dip under supervision of an inspector.
 
 (b) The certificate accompanying goats offered for importation from Mexico shall, in addition to the statements required by paragraph (a) of this section, state that such goats have been tested for tuberculosis and brucellosis with negative results within 30 days preceding their being offered for entry, and give the date and method of testing, the name of the consignor and of the consignee, and a description of the animals including breed, ages, markings, and tattoo and eartag numbers. Notwithstanding such certification, such goats shall be detained or quarantined as provided in § 93.427 and retested for brucellosis.
 
@@ -10,4 +8,4 @@ Link to an amendment published at 86 FR 68859, Dec. 3, 2021.
 
 (d) Certificates will not be required for wild ruminants, other than sheep and goats, originating in and shipped direct from Mexico, but such animals are subject to inspection at the port of entry as provided in § 93.426.
 
-(Approved by the Office of Management and Budget under control number 0579-0040)[55 FR 31495, Aug. 2, 1990, as amended at 56 FR 367, Jan. 4, 1991; 57 FR 28081, June 24, 1992; 61 FR 17239, Apr. 19, 1996. Redesignated and amended at 62 FR 56012, 56019, Oct. 28, 1997; 68 FR 6344, Feb. 7, 2003]
+(Approved by the Office of Management and Budget under control numbers 0579-0040 and 0579-0453)[55 FR 31495, Aug. 2, 1990, as amended at 56 FR 367, Jan. 4, 1991; 57 FR 28081, June 24, 1992; 61 FR 17239, Apr. 19, 1996. Redesignated and amended at 62 FR 56012, 56019, Oct. 28, 1997; 68 FR 6344, Feb. 7, 2003; 86 FR 68859, Dec. 3, 2021]

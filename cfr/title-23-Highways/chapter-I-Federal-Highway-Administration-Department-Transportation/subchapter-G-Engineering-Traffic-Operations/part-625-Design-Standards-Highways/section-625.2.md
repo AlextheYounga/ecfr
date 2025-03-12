@@ -1,5 +1,7 @@
 ##### § 625.2 Policy. #####
 
+Link to an amendment published at 87 FR 40, Jan. 3, 2022.
+
 (a) Plans and specifications for proposed National Highway System (NHS) projects shall provide for a facility that will -
 
 (1) Adequately serve the existing and planned future traffic of the highway in a manner that is conducive to safety, durability, and economy of maintenance; and

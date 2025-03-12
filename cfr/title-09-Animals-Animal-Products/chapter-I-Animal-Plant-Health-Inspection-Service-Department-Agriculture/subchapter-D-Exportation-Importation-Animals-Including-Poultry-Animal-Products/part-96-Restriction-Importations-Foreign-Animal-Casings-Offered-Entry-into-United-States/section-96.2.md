@@ -1,7 +1,5 @@
 ##### § 96.2 Prohibition of casings due to African swine fever and bovine spongiform encephalopathy. #####
 
-Link to an amendment published at 86 FR 68862, Dec. 3, 2021.
-
 (a) *Swine casings.* The importation of swine casings that originated in or were processed in a region where African swine fever exists, as listed under § 94.8(a) of this subchapter, is prohibited, with the following exception: Swine casings that are processed in a region where African swine fever exists may be imported into the United States under the following conditions:
 
 (1) *Origin of casings.* The swine casings were derived from swine raised and slaughtered in a region not listed under § 94.8(a) of this subchapter.
@@ -26,9 +24,7 @@ Link to an amendment published at 86 FR 68862, Dec. 3, 2021.
 
 (b) *Casings from ovines or caprines.* The importation of casings, except stomachs, derived from ovines or caprines that originated in or were processed in any region listed in § 95.4(a)(4) are prohibited, unless the following conditions are met:
 
-(1) The casings are derived from sheep that were slaughtered in Canada at less than 12 months of age and that were from a flock subject to a ruminant feed ban equivalent to the requirements established by the U.S. Food and Drug Administration at 21 CFR 589.2000; and
-
-(2) The casings are accompanied by an original certificate that meets the requirements of § 96.3 and:
+(1) The casings are accompanied by an original certificate that meets the requirements of § 96.3 and:
 
 (i) States that the casings meet the conditions of this section;
 
@@ -38,12 +34,14 @@ Link to an amendment published at 86 FR 68862, Dec. 3, 2021.
 
 (iv) Is presented to an authorized inspector at the port of entry.
 
+(2) [Reserved]
+
 (c) *Casings from bovines.* The importation of casings derived from bovines is prohibited, unless the following conditions are met:
 
 (1) If the casings are derived from bovines from a region of negligible risk for BSE, as defined in § 92.1 of this subchapter, the certificate required under § 96.3 indicates the APHIS BSE risk classification of the region in which the bovines were slaughtered and the casings were collected.
 
 (2) If the casings are derived from bovines from a region of controlled risk for BSE or a region of undetermined risk for BSE, as defined in § 92.1 of this subchapter, the casings are not derived from the small intestine or, if the casings are derived from the small intestine, the casings are derived from that part of the small intestine that is eligible for use as human food in accordance with the requirements established by the Food Safety and Inspection Service at 9 CFR 310.22 and the Food and Drug Administration at 21 CFR 189.5.
 
-(3) The casings are accompanied by an original certificate that meets the requirements of § 96.3 and paragraphs (b)(2)(i) through (b)(3)(iv) of this section.
+(3) The casings are accompanied by an original certificate that meets the requirements of § 96.3 and paragraph (b)(1) of this section.
 
-(Approved by the Office of Management and Budget under control number 0579-0015)[65 FR 1307, Jan. 10, 2000, as amended at 70 FR 553, Jan. 4, 2005; 72 FR 53379, Sept. 18, 2007; 77 FR 1395, Jan. 10, 2012; 78 FR 73007, Dec. 4, 2013]
+(Approved by the Office of Management and Budget under control number 0579-0015)[65 FR 1307, Jan. 10, 2000, as amended at 70 FR 553, Jan. 4, 2005; 72 FR 53379, Sept. 18, 2007; 77 FR 1395, Jan. 10, 2012; 78 FR 73007, Dec. 4, 2013; 86 FR 68862, Dec. 3, 2021]

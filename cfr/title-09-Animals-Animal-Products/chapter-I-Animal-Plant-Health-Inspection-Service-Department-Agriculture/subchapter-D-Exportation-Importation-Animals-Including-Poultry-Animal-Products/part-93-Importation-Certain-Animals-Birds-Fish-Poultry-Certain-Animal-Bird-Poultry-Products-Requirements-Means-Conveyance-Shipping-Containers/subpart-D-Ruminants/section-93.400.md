@@ -1,7 +1,5 @@
 ##### § 93.400 Definitions. #####
 
-Link to an amendment published at 86 FR 68856, Dec. 3, 2021.
-
 Wherever in this subpart the following terms are used, unless the context otherwise requires, they shall be construed, respectively, to mean:
 
 *Accredited herd for brucellosis.* A herd that meets APHIS' standards for accreditation for brucellosis status. Standards for accreditation are specified in import protocols.
@@ -36,13 +34,19 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 *Cattle.* Animals of the bovine species.
 
+*Certified status.* A flock that has met requirements equivalent to the Export Certified status of the U.S. Scrapie Flock Certification Program while participating in a program under the supervision of the national veterinary authority of the region of origin, as determined by an evaluation conducted by APHIS of the program.
+
 *Cervid.* All members of the family *Cervidae* and hybrids, including deer, elk, moose, caribou, reindeer, and related species.
+
+*Classical scrapie.* Any form of scrapie that the Administrator has determined poses a significant risk of natural transmission.
 
 *Communicable disease.* Any contagious, infectious, or communicable disease of domestic livestock, poultry or other animals.
 
+*Country mark.* A permanent mark approved by the Administrator for identifying a sheep or goat to its country of origin.
+
 *Department.* The United States Department of Agriculture (USDA).
 
-*Designated feedlot.* A feedlot that has been designated by the Administrator as one that is eligible to receive sheep and goats imported from a BSE minimal-risk region and whose owner or legally responsible representative has signed an agreement in accordance with § 93.419(d)(8) of this subpart to adhere to, and is in compliance with, the requirements for a designated feedlot.
+*Designated feedlot.* A feedlot designated by the Administrator as one eligible to receive sheep and goats from regions not free of classical scrapie, and whose owner or legally responsible representative has signed an agreement as specified in § 93.435(c)(11) and is in full compliance with all the provisions of the agreement.
 
 *Exporting region.* A region from which shipments are sent to the United States.
 
@@ -50,7 +54,19 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 *Fever tick, Rhipicephalus annulatus, Rhipicephalus microplus,* and any other species of tick determined by the Administrator to be a vector of bovine babesiosis and specified on the Internet at *https://www.aphis.usda.gov/animalhealth/disease-status-of-regions.*
 
-*Flock.* Any group of one or more sheep maintained on common ground; or two or more groups of sheep under common ownership or supervision on two or more premises that are geographically separated, but among which there is an interchange or movement of animals.
+*Flock.* Any group of one or more sheep or goats maintained on a single premise, or on more than one premises under the same ownership and between which unrestricted movement is allowed; or two or more groups of sheep or goats under common ownership or supervision on two or more premises that are geographically separated, but among which there is an interchange or movement of animals.
+
+*Flock of birth.* The flock into which a sheep or goat is born.
+
+*Flock of residence.* The flock:
+
+(1) Within which an individual sheep or goat was born, raised, and resided until exported to the United States; or
+
+(2) In which the sheep or goat resided for breeding purposes for 60 days or more until exported to the United States; or
+
+(3) In which sheep and goats for export were assembled for export to the United States and maintained for at least 60 days immediately prior to export, without any addition of animals or contact with animals other than through birth, on a single premises, or on more than one premises under the same ownership and between which unrestricted movement occurred.
+
+*Goat.* Any animal of the genus *Capra*.
 
 *Herd.* Any group of one or more animals maintained on common ground; or two or more groups of animals under common ownership or supervision on two or more premises that are geographically separated, but among which there is an interchange or movement of animals.
 
@@ -70,6 +86,8 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 *Inspector.* Any individual authorized by the Administrator of APHIS or the Commissioner of Customs and Border Protection, Department of Homeland Security, to enforce the regulations in this subpart.
 
+*Killed and completely destroyed.* Killed, or maintained under quarantine in a manner preventing disease spread until the animal is no longer living; and the remains have been disposed of in a manner preventing disease spread.
+
 *Lot.* A group of ruminants that, while held on a conveyance or premises, has opportunity for physical contact with each other or with each other's excrement or discharges at any time between arrival at the quarantine facility and 60 days prior to export to the United States.
 
 *Lot-holding area.* That area in a privately owned medium or minimum security quarantine facility in which a single lot of ruminants is held at one time.
@@ -77,6 +95,8 @@ Wherever in this subpart the following terms are used, unless the context otherw
 *Moved directly.* Moved without unloading and without stopping except for refueling, or for traffic conditions such as traffic lights or stop signs.
 
 *Moved directly by land.* Moved by rail, truck, or other land vehicle without unloading and without stopping except for refueling, or for traffic conditions such as traffic lights or stop signs.
+
+*Non-classical scrapie.* Any form of scrapie the Administrator has determined poses a low risk of natural transmission.
 
 *Non-negative test results.* Any test results for tuberculosis or brucellosis within the suspect, reactor, or positive range parameters of a pathogen assay that has been approved by the Administrator.
 
@@ -144,6 +164,8 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 *Ruminants.* All animals which chew the cud, such as cattle, buffaloes, sheep, goats, deer, antelopes, camels, llamas and giraffes.
 
+*Sheep.* Any animal of the genus *Ovis*.
+
 *Spayed heifer.* A female bovine that has been neutered in a manner otherwise approved by the Administrator and specified in an import protocol.
 
 *State representative.* A veterinarian or other person employed in livestock sanitary work by a State or political subdivision of a State who is authorized by such State or political subdivision of a State to perform the function involved under a memorandum of understanding with APHIS.
@@ -152,13 +174,13 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 *Steer.* A sexually neutered male bovine.
 
-*Suspect for a transmissible spongiform encephalopathy.* (1) A sheep or goat that has tested positive for a transmissible spongiform encephalopathy or for the proteinase resistant protein associated with a transmissible spongiform encephalopathy, unless the animal is designated as positive for a transmissible spongiform encephalopathy; or
-
-(2) A sheep or goat that exhibits any of the following signs and that has been determined to be suspicious for a transmissible spongiform encephalopathy by a veterinarian: Weight loss despite retention of appetite; behavior abnormalities; pruritus (itching); wool pulling; biting at legs or side; lip smacking; motor abnormalities such as incoordination, high stepping gait of forelimbs, bunny hop movement of rear legs, or swaying of back end; increased sensitivity to noise and sudden movement; tremor, “star gazing,” head pressing, recumbency, or other signs of neurological disease or chronic wasting.
-
 *Swine.* The domestic hog and all varieties of wild hogs.
 
 *Temporary inspection facility.* A temporary facility that is constructed of metal panels that can be erected and broken down alongside the transportation vessel carrying ruminants that are imported into the United States in accordance with § 93.408 of this subpart and that will be quarantined at a minimum or medium security quarantine facilities located more than 1 mile from the port of entry.
+
+*Transmissible spongiform encephalopathies (TSEs).* A family of progressive and generally fatal neurodegenerative disorders thought to be caused by abnormal proteins, called prions, typically producing characteristic microscopic changes, including, but not limited to, non-inflammatory neuronal loss, giving a spongiform appearance to tissues in the brains and central nervous systems of affected animals.
+
+*TSE-affected sheep or goat.* A sheep or goat suspected or known by the national veterinary authority of the region of origin to be infected with a transmissible spongiform encephalopathy prior to the disposal of the animal.
 
 *Tuberculosis.* Infection with or disease caused by *Mycobacterium bovis.*
 

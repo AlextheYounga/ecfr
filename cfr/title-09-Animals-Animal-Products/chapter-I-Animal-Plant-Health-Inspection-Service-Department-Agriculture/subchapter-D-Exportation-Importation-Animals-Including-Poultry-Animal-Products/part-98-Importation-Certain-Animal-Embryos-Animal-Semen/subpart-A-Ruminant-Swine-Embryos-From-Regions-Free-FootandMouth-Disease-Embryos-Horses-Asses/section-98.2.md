@@ -1,7 +1,5 @@
 ##### § 98.2 Definitions. #####
 
-Link to an amendment published at 86 FR 68862, Dec. 3, 2021.
-
 The following terms, when used in this subpart, shall be construed as defined. Those terms used in the singular form in this subpart shall be construed as the plural form and vice versa, as the case may demand.
 
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.
@@ -28,6 +26,8 @@ The following terms, when used in this subpart, shall be construed as defined. T
 
 *Inspector.* An employee of APHIS who is authorized to perform the function involved.
 
+*Oocyte.* The first and second maturation stages of a female reproductive cell prior to fertilization.
+
 *Person.* Any individual, corporation, company, association, firm, partnership, society, joint stock company, or any other legal entity.
 
 *Region.* Any defined geographic land area identifiable by geological, political, or surveyed boundaries. A region may consist of any of the following:
@@ -40,6 +40,8 @@ The following terms, when used in this subpart, shall be construed as defined. T
 
 (4) A group of national entities (countries) combined into a single area.
 
+*Transmissible spongiform encephalopathies (TSEs).* A family of progressive and generally fatal neurodegenerative disorders thought to be caused by abnormal proteins, called prions, typically producing characteristic microscopic changes, including, but not limited to, noninflammatory neuronal loss, giving a spongiform appearance to tissues in the brains and nervous systems of affected animals.
+
 *United States.* All of the several States of the United States, the District of Columbia, Guam, the Northern Mariana Islands, Puerto Rico, the Virgin Islands of the United States and all other territories and possessions of the United States.
 
-[50 FR 43563, Oct. 25, 1985. Redesignated and amended at 56 FR 55808, Oct. 30, 1991; 57 FR 29194, July 1, 1992; 61 FR 17241, Apr. 19, 1996; 62 FR 56025, Oct. 28, 1997]
+[50 FR 43563, Oct. 25, 1985. Redesignated and amended at 56 FR 55808, Oct. 30, 1991; 57 FR 29194, July 1, 1992; 61 FR 17241, Apr. 19, 1996; 62 FR 56025, Oct. 28, 1997; 86 FR 68862, Dec. 3, 2021]

@@ -1,10 +1,8 @@
 ##### 552.212-4 Contract Terms and Conditions-Commercial Items (FAR DEVIATION). #####
 
-Link to an amendment published at 86 FR 68443, Dec. 2, 2021.
-
 As prescribed in 512.301(e), replace subparagraph (g)(2), paragraph (s), and paragraph (u) of FAR clause 52.212-4. Also, add paragraph (w) to FAR clause 52.212-4.
 
-Contract Terms and Conditions - Commercial Items (FAR DEVIATION) (FEB 2018)
+Contract Terms and Conditions - Commercial Products and Commercial Services (FAR DEVIATION) (JAN, 2022)
 
 *Alternate II*  (FAR Deviation) (NOV 2009). When a commercial item contract is contemplated and the contract will include the clause at FAR 52.212-4, insert this Alternate II instead of subparagraph (g)(2) of the FAR clause.
 
@@ -98,4 +96,4 @@ Contract Terms and Conditions - Commercial Items (FAR DEVIATION) (FEB 2018)
 
 (2) If any language, provision, or clause of this agreement conflicts or is inconsistent with the preceding paragraph (w)(1), the language, provisions, or clause of paragraph (w)(1) shall prevail to the extent of such inconsistency.
 
-(End of clause)[74 FR 54918, Oct. 26, 2009, as amended at 83 FR 7634, Feb. 22, 2018]
+(End of clause)[74 FR 54918, Oct. 26, 2009, as amended at 83 FR 7634, Feb. 22, 2018; 86 FR 68443, Dec. 2, 2021]

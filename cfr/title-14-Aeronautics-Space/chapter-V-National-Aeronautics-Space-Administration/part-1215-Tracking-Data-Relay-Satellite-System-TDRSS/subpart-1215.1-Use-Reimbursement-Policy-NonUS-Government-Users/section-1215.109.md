@@ -1,7 +1,5 @@
 ##### § 1215.109 Scheduling user service. #####
 
-Link to an amendment published at 86 FR 60566, Nov. 3, 2021.
-
 (a) User service shall be scheduled only by NASA. TDRSS services will be provided in accordance with operational priorities established by the NASA Administrator or his/her designee. See Appendix A for a description of a typical user activity timeline.
 
 (b) Schedule conflict will be resolved in general by application of principles of priority to user service requirements. Services shall be provided either as normally scheduled service or as emergency service. Priorities will be different for emergency service than for normal services.
@@ -14,7 +12,7 @@ Link to an amendment published at 86 FR 60566, Nov. 3, 2021.
 
 (4) NASA schedulers will exercise judgment and endeavor to see that lower-priority users are not excluded from a substantial portion of their contracted-for service due to the requirements of higher-priority users.
 
-(c) General user service requirements, which will be used for preliminary planning and mission modeling, should include all pertinent information necessary for NASA to determine if the proposed service is achievable. Contact NIMO to discuss usage and requirements.
+(c) General user service requirements, which will be used for preliminary planning and mission modeling, should include all pertinent information necessary for NASA to determine if the proposed service is achievable. Contact Near Space Network to discuss usage and requirements.
 
 (d) Such user service requirements information typically includes:
 
@@ -34,4 +32,4 @@ Link to an amendment published at 86 FR 60566, Nov. 3, 2021.
 
 (e) To provide for effective planning, reference Appendix A, Typical New User Activity Timeline.
 
-[77 FR 6953, Feb. 10, 2012]
+[77 FR 6953, Feb. 10, 2012, as amended at 86 FR 60566, Nov. 3, 2021]

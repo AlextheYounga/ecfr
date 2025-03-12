@@ -1,5 +1,7 @@
 ##### § 210.6 Agencies. #####
 
+Link to an amendment published at 87 FR 46, Jan. 3, 2022.
+
 Notwithstanding any provision of the ACH Rules, including Subsections 2.4.5, 2.8.4, 4.3.5, 2.9.2, 3.2.2, and 3.13.3, agencies shall be subject to the obligations and liabilities set forth in this section in connection with Government entries.
 
 (a) *Receiving entries.* An agency may receive ACH debit or credit entries only with the prior written authorization of the Service.

@@ -1,8 +1,6 @@
 ##### § 1215.103 Services. #####
 
-Link to an amendment published at 86 FR 60566, Nov. 3, 2021.
-
-(a) *Standard services.* These are services which TDRSS is capable of providing to low-Earth orbital user spacecraft or other terrestrial users. Data are delivered to WSC or GRGT. A detailed description of services is provided in the GSFC Space Network Users' Guide, 450-SNUG. Contact the Chief, Networks Integration Management Office, at the address in Section 1215.108(d) to obtain a copy of the SNUG.
+(a) *Standard services.* These are services which TDRSS is capable of providing to low-Earth orbital user spacecraft or other terrestrial users. Data are delivered to WSC or GRGT. A detailed description of services is provided in the GSFC Near Space Network Users' Guide, 450-NSNUG. Contact the Chief, Commercialization, Innovation, and Synergies, at the address in Section 1215.108(d) to obtain a copy of the NSNUG.
 
 (1) Tracking service.
 
@@ -22,4 +20,4 @@ Link to an amendment published at 86 FR 60566, Nov. 3, 2021.
 
 (c) *Mission-unique services.* Other tracking and data services desired by the user that are beyond the standard and required support services defined above. The associated charges for these services will be identified and assessed on a case-by-case basis.
 
-[77 FR 6952, Feb. 10, 2012]
+[77 FR 6952, Feb. 10, 2012, as amended at 86 FR 60566, Nov. 3, 2021]

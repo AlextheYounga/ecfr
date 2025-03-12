@@ -1,7 +1,5 @@
 ##### § 95.1 Definitions. #####
 
-Link to an amendment published at 86 FR 68862, Dec. 3, 2021.
-
 Whenever in the regulations in this part the following words, names, or terms are used they shall be construed, respectively, to mean:
 
 *Administrator* means the Administrator, Animal and Plant Health Inspection Service, or any individual authorized to act for the Administrator.
@@ -54,8 +52,6 @@ Whenever in the regulations in this part the following words, names, or terms ar
 
 *Offal.* The inedible parts of a butchered animal.
 
-*Positive for a transmissible spongiform encephalopathy.* A sheep or goat for which a diagnosis of a transmissible spongiform encephalopathy has been made.
-
 *Processed animal protein* means meat meal, bone meal, meat and bone meal, blood meal, dried plasma and other blood products, hydrolyzed proteins, hoof meal, horn meal, poultry meal, feather meal, fish meal, and any other similar products.
 
 *Region.* Any defined geographic land area identifiable by geological, political, or surveyed boundaries. A region may consist of any of the following:
@@ -72,14 +68,10 @@ Whenever in the regulations in this part the following words, names, or terms ar
 
 *Specified risk materials (SRMs) from regions of undetermined risk for BSE.* Those bovine parts considered to be at particular risk of containing the BSE agent in infected animals, as listed in the FSIS regulations at 9 CFR 310.22(a), except that the following bovine parts from regions of undetermined risk for BSE are considered SRMs if they are derived from bovines over 12 months of age: Brain, skull, eyes, trigeminal ganglia, spinal cord, vertebral column (excluding the vertebrae of the tail, the transverse processes of the thoracic and lumbar vertebrae, and the wings of the sacrum), and the dorsal root ganglia.
 
-*Suspect for a transmissible spongiform encephalopathy.* (1) A sheep or goat that has tested positive for a transmissible spongiform encephalopathy or for the proteinase resistant protein associated with a transmissible spongiform encephalopathy, unless the animal is designated as positive for a transmissible spongiform encephalopathy; or
-
-(2) A sheep or goat that exhibits any of the following signs and that has been determined to be suspicious for a transmissible spongiform encephalopathy by a veterinarian: Weight loss despite retention of appetite; behavior abnormalities; pruritus (itching); wool pulling; biting at legs or side; lip smacking; motor abnormalities such as incoordination, high stepping gait of forelimbs, bunny hop movement of rear legs, or swaying of back end; increased sensitivity to noise and sudden movement; tremor, “star gazing,” head pressing, recumbency, or other signs of neurological disease or chronic wasting.
-
 *Tallow derivative.* Any chemical obtained through initial hydrolysis, saponification, or transesterification of tallow; chemical conversion of material obtained by hydrolysis, saponification, or transesterification may be applied to obtain the desired product.
 
 *United States* means the several States, the District of Columbia, Guam, the Northern Mariana Islands, Puerto Rico, the Virgin Islands of the United States, and all other territories and possessions of the United States.
 
 *Veterinary Services* means the Veterinary Services unit of the Animal and Plant Health Inspection Service, United States Department of Agriculture.
 
-[28 FR 5981, June 13, 1963, as amended at 56 FR 19796, Apr. 30, 1991; 56 FR 63869, Dec. 6, 1991; 62 FR 56024, Oct. 28, 1997; 66 FR 42600, Aug. 14, 2001; 70 FR 551, Jan. 4, 2005; 70 FR 71218, Nov. 28, 2005; 74 FR 66226, Dec. 15, 2009; 78 FR 73001, Dec. 4, 2013; 79 FR 71007, Dec. 1, 2014; 83 FR 15493, Apr. 11, 2018]
+[28 FR 5981, June 13, 1963, as amended at 56 FR 19796, Apr. 30, 1991; 56 FR 63869, Dec. 6, 1991; 62 FR 56024, Oct. 28, 1997; 66 FR 42600, Aug. 14, 2001; 70 FR 551, Jan. 4, 2005; 70 FR 71218, Nov. 28, 2005; 74 FR 66226, Dec. 15, 2009; 78 FR 73001, Dec. 4, 2013; 79 FR 71007, Dec. 1, 2014; 83 FR 15493, Apr. 11, 2018; 86 FR 68862, Dec. 3, 2021]

@@ -1,16 +1,14 @@
 ##### 552.238-78 Identification of Products That Have Environmental Attributes. #####
 
-Link to an amendment published at 86 FR 68443, Dec. 2, 2021.
-
 As prescribed in 538.273(d)(2), insert the following clause:
 
-Identification of Products That Have Environmental Attributes (MAY 2019)
+Identification of Products That Have Environmental Attributes (JAN 2022)
 
 (a) Several laws, Executive orders, and Agency directives require Federal buyers to purchase products that are less harmful to the environment, when they are life cycle cost-effective (see FAR Subpart 23.7). The U.S. General Services Administration (GSA) requires contractors to highlight environmental products under Federal Supply Service schedule contracts in various communications media (e.g., publications and electronic formats).
 
-(b) *Definitions.* As used in this clause -
+(b) *Definitions.* As used in this clause—
 
-*Energy-efficient product* means a product that -
+*Energy-efficient product* means a product that—
 
 (1) Meets Department of Energy and Environmental Protection Agency criteria for use of the ENERGY STAR® trademark label; or
 
@@ -28,13 +26,13 @@ Identification of Products That Have Environmental Attributes (MAY 2019)
 
 *Renewable energy* means energy produced by solar, wind, geothermal, and biomass power.
 
-*Renewable energy technology* means -
+*Renewable energy technology* means—
 
 (1) Technologies that use renewable energy to provide light, heat, cooling, or mechanical or electrical energy for use in facilities or other activities; or
 
 (2) The use of integrated whole-building designs that rely upon renewable energy resources, including passive solar design.
 
-(c) *Identification requirements.* (1) The offeror must identify products that -
+(c) *Identification requirements.* (1) The offeror must identify products that—
 
 (i) Are compliant with the recovered and post-consumer material content levels recommended in the Recovered Materials Advisory Notices (RMANs) for EPA-designated products in the CPG program (*http://www.epa.gov/cpg/*);
 
@@ -60,7 +58,7 @@ Identification of Products That Have Environmental Attributes (MAY 2019)
 
 (iv) Electronic data submission for GSA Advantage! submitted via GSA's Schedules Input Program (SIP) software or the Electronic Data Inter-change (EDI). Offerors can use the SIP or EDI methods to indicate environmental and other attributes for each product that are translated into respective icons in GSA Advantage!.
 
-(d) An offeror, in identifying an item with an environmental attribute, must possess evidence or rely on a reasonable basis to substantiate the claim (see 16 CFR part 260, Guides for the Use of Environmental Marketing Claims). The Government will accept an offeror's claim of an item's environmental attribute on the basis of -
+(d) An offeror, in identifying an item with an environmental attribute, must possess evidence or rely on a reasonable basis to substantiate the claim (see 16 CFR part 260, Guides for the Use of Environmental Marketing Claims). The Government will accept an offeror's claim of an product's environmental attribute on the basis of—
 
 (1) Participation in a Federal agency sponsored program (e.g., the EPA and DOE ENERGY STAR® product labeling program);
 
@@ -68,4 +66,4 @@ Identification of Products That Have Environmental Attributes (MAY 2019)
 
 (3) Possession of competent and reliable evidence. For any test, analysis, research, study, or other evidence to be “competent and reliable,” it must have been conducted and evaluated in an objective manner by persons qualified to do so, using procedures generally accepted in the profession to yield accurate and reliable results.
 
-(End of clause)[84 FR 17042, Apr. 23, 2019]
+(End of clause)[84 FR 17042, Apr. 23, 2019, as amended at 86 FR 68443, Dec. 2, 2021]

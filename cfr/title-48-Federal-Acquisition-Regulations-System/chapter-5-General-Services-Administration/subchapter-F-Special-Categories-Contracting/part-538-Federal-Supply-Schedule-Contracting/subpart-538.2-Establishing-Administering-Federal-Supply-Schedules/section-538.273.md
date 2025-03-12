@@ -1,7 +1,5 @@
 ##### 538.273 FSS solicitation provisions and contract clauses. #####
 
-Link to an amendment published at 86 FR 68443, Dec. 2, 2021.
-
 (a) As prescribed in this paragraph, insert the following provisions in the beginning of FSS solicitations:
 
 (1) 552.238-70, Cover Page for Worldwide Federal Supply Schedules. Use in all FSS solicitations. Use Alternate I for single award Federal Supply Schedules.
@@ -10,23 +8,23 @@ Link to an amendment published at 86 FR 68443, Dec. 2, 2021.
 
 (3) 552.238-72, Information Collection Requirements. Use in all FSS solicitations.
 
-(b) As prescribed in this paragraph, insert the following clause and provision as an addendum to 52.212-1, Instructions to Offerors - Commercial Items:
+(b) As prescribed in this paragraph, insert the following clause and provision as an addendum to 52.212-1, Instructions to Offerors - Commercial Products and Commercial Services:
 
 (1) 552.238-73, Identification of Electronic Office Equipment Providing Accessibility for the Handicapped. Use only in FSS solicitations for electronic office equipment.
 
 (2) 552.238-74, Introduction of New Supplies/Services (INSS). Use only in FSS solicitations allowing the introduction of new supplies/services. Note: GSA Form 1649, Notification of Federal Supply Schedule Improvement, may be required if revising a Special Item Number (SIN).
 
-(c) As prescribed in this paragraph, insert the following provisions as an addendum to 52.212-2, Evaluation - Commercial Items:
+(c) As prescribed in this paragraph, insert the following provisions as an addendum to 52.212-2, Evaluation - Commercial Products and Commercial Services:
 
-(1) 552.238-75, Evaluation - Commercial Items (Federal Supply Schedules). Use in FSS standing solicitations.
+(1) 552.238-75, Evaluation - Commercial Products and Commercial Services (Federal Supply Schedules). Use in FSS standing solicitations.
 
 (2) 552.238-76, Use of Non-Government Employees to Review Offers. Use only in FSS solicitations when non-government employees may be utilized to review solicitation responses.
 
-(d) As prescribed in this paragraph, insert the following clauses as an addendum to Clause 52.212-4, Contract Terms and Conditions-Commercial Items:
+(d) As prescribed in this paragraph, insert the following clauses as an addendum to Clause 52.212-4, Contract Terms and Conditions-Commercial Products and Commercial Services:
 
 (1) 552.238-77, Submission and Distribution of Authorized Federal Supply Schedule Price Lists. Use in all FSS solicitations and contracts.
 
-(2) 552.238-78, Identification of Products that have Environmental Attributes. Use only in FSS solicitations and contracts that contemplate items with environmental attributes.
+(2) 552.238-78, Identification of Products that have Environmental Attributes. Use only in FSS solicitations and contracts that contemplate products with environmental attributes.
 
 (3) 552.238-79, Cancellation. Use in all FSS solicitations and contracts.
 
@@ -70,7 +68,7 @@ Link to an amendment published at 86 FR 68443, Dec. 2, 2021.
 
 (18) 552.238-94, Accelerated Delivery Requirements. Use only in FSS solicitations and contracts for supplies.
 
-(19) 552.238-95, Separate Charge for Performance Oriented Packaging (POP). Use only in FSS solicitations and contracts for items defined as hazardous under Federal Standard No. 313.
+(19) 552.238-95, Separate Charge for Performance Oriented Packaging (POP). Use only in FSS solicitations and contracts for products defined as hazardous under Federal Standard No. 313.
 
 (20) 552.238-96, Separate Charge for Delivery within Consignee's Premises. Use only in FSS solicitations and contracts for supplies when allowing offerors to propose separate charges for deliveries within the consignee's premises.
 
@@ -118,12 +116,12 @@ Link to an amendment published at 86 FR 68443, Dec. 2, 2021.
 
 (31) 552.238-107, Export Traffic Release (Supplies). Use in FSS solicitations and contracts for supplies, except vehicles.
 
-(32) 552.238-108, Spare Parts Kit. Use only in FSS solicitations and contracts for items requiring spare part kits. This information is to be specified at the order level.
+(32) 552.238-108, Spare Parts Kit. Use only in FSS solicitations and contracts for products requiring spare part kits. This information is to be specified at the order level.
 
 (33) 552.238-109, Authentication Supplies and Services. Use in Federal Supply Schedule 70 solicitations only, and only contracts awarded Special Item Numbers (SINs) associated with the Homeland Security Presidential Directive 12 (HSPD-12).
 
 (34) 552.238-110, Commercial Satellite Communication (COMSATCOM) Services. Use only in FSS solicitations and contracts for COMSATCOM services.
 
-(35) 552.238-111, Environmental Protection Agency Registration Requirement. Use only in FSS solicitations and contracts for supplies when items may require registration with the Environmental Protection Agency.
+(35) 552.238-111, Environmental Protection Agency Registration Requirement. Use only in FSS solicitations and contracts for supplies when products may require registration with the Environmental Protection Agency.
 
-[84 FR 17039, Apr. 23, 2019; 84 FR 22382, May 17, 2019, as amended at 86 FR 55521, Oct. 6, 2021]
+[84 FR 17039, Apr. 23, 2019; 84 FR 22382, May 17, 2019, as amended at 86 FR 55521, Oct. 6, 2021; 86 FR 68443, Dec. 2, 2021]

@@ -1,14 +1,12 @@
 ##### 552.238-82 Modifications (Federal Supply Schedules). #####
 
-Link to an amendment published at 86 FR 68443, Dec. 2, 2021.
-
 As prescribed in 538.273(d)(6), insert the following clause:
 
-Modifications (Federal Supply Schedules) (MAR 2020)
+Modifications (Federal Supply Schedules) (JAN 2022)
 
 (a) *General.* The Contractor may request a contract modification by submitting a request to the Contracting Officer for approval, except as noted in paragraph (d) of this clause. At a minimum, every request shall describe the proposed change(s) and provide the rationale for the requested change(s).
 
-(b) *Types of modifications* - (1) *Additional items/additional SINs.* When requesting additions, the following information must be submitted:
+(b) *Types of modifications*—(1) *Additional items/additional SINs.* When requesting additions, the following information must be submitted:
 
 (i) Information requested in paragraphs (1) and (2) of the Commercial Sales Practice Format to add SINs.
 
@@ -22,7 +20,7 @@ Modifications (Federal Supply Schedules) (MAR 2020)
 
 (vi) Hazardous Material information (if applicable) must be submitted as required by FAR 52.223-3 (Alternate I), Hazardous Material Identification and Material Safety Data.
 
-(vii) Any information requested by FAR 52.212-3(f), Offeror Representations and Certifications - Commercial Items, that may be necessary to assure compliance with FAR 52.225-1, Buy American Act - Balance of Payments Programs - Supplies.
+(vii) Any information requested by FAR 52.212-3(f), Offeror Representations and Certifications—Commercial Products and Commercial Services, that may be necessary to assure compliance with FAR 52.225-1, Buy American Act—Balance of Payments Programs—Supplies.
 
 (2) *Deletions.* The Contractors shall provide an explanation for the deletion. The Government reserves the right to reject any subsequent offer of the same item or a substantially equal item at a higher price during the same contract period, if the contracting officer finds the higher price to be unreasonable when compared with the deleted item.
 
@@ -52,8 +50,8 @@ Modifications (Federal Supply Schedules) (MAR 2020)
 
 (iv) Hazardous Material information (if applicable) must be submitted as required by FAR 52.223-3 (Alternate I), Hazardous Material Identification and Material Safety Data.
 
-(v) Any information requested by FAR 52.212-3(f), Offeror Representations and Certifications - Commercial Items, that may be necessary to assure compliance with FAR 52.225-1, Buy American Act - Balance of Payments Programs - Supplies.
+(v) Any information requested by FAR 52.212-3(f), Offeror Representations and Certifications—Commercial Products or Services, that may be necessary to assure compliance with FAR 52.225-1, Buy American Act—Balance of Payments Programs—Supplies.
 
 (2) Deletions. The Contractor must provide an explanation for the deletion. The Government reserves the right to reject any subsequent offer of the same item or a substantially equal item at a higher price during the same contract period, if the Contracting Officer determines that the higher price is unreasonable compared to the price of the deleted item.
 
-[84 FR 17045, Apr. 23, 2019, as amended at 85 FR 1128, Jan. 9, 2020; 86 FR 55524, Oct. 6, 2021]
+[84 FR 17045, Apr. 23, 2019, as amended at 85 FR 1128, Jan. 9, 2020; 86 FR 55524, Oct. 6, 2021; 86 FR 68443, Dec. 2, 2021]

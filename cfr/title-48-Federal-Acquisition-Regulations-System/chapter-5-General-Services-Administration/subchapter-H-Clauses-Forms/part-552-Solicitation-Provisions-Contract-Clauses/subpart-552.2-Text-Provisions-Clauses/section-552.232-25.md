@@ -1,10 +1,8 @@
 ##### 552.232-25 Prompt Payment. #####
 
-Link to an amendment published at 86 FR 68443, Dec. 2, 2021.
-
 As prescribed in 532.908(b)(2), insert the following clause:
 
-Prompt Payment (NOV 2009) (Deviation FAR 52.232-25)
+Prompt Payment (JAN 2022) (Deviation FAR 52.232-25)
 
 Notwithstanding any other payment clause in this contract, the Government will make invoice payments and contract financing payments under the terms and conditions specified in this clause. Payment shall be considered as being made on the day a check is dated or the date of an electronic funds transfer. Definitions of pertinent terms are set forth in section 32.902 of the Federal Acquisition Regulation. All days referred to in this clause are calendar days, unless otherwise specified. (However, see subparagraph (a)(4) of this clause concerning payments due on Saturdays, Sundays, and legal holidays.)
 
@@ -36,7 +34,7 @@ Notwithstanding any other payment clause in this contract, the Government will m
 
 (3) If any of the conditions in(a)(2) above do not occur, the 10 day payment due dates in (a)(1) become 30 day payment due dates.
 
-(4) *Certain food products and other payments.* (i) Due dates on Contractor invoices for meat, meat food products, or fish; perishable agricultural commodities; and dairy products, edible fats or oils, and food products prepared from edible fats or oils are -
+(4) *Certain food products and other payments.* (i) Due dates on Contractor invoices for meat, meat food products, or fish; perishable agricultural commodities; and dairy products, edible fats or oils, and food products prepared from edible fats or oils are—
 
 (A) For meat or meat food products, as defined in section 2(a)(3) of the Packers and Stockyard Act of 1921 (7 U.S.C. 182 (3)), and as further defined in Pub. L. 98-181, including any edible fresh or frozen poultry meat, any perishable poultry meat food product, fresh eggs, an any perishable egg product, as close as possible to, but not later than, the 7th day after product delivery.
 
@@ -48,7 +46,7 @@ Notwithstanding any other payment clause in this contract, the Government will m
 
 (ii) If the contract does not require submission of an invoice for payment (e.g., periodic lease payments), the due date will be as specified in the contract.
 
-(5) *Contractor's invoice.* The Contractor shall prepare and submit invoices to the designated billing office specified in the contract. Notwithstanding paragraph (g) of the clause at FAR 52.212-4, Contract Terms and Conditions - Commercial Items, if the Contractor submits hard-copy invoices, submit only an original invoice. No copies of the invoice are required. A proper invoice must include the items listed in subdivisions (a)(5)(i) through (a)(5)(viii) of this clause. If the invoice does not comply with these requirements, it shall be returned within 7 days after the date the designated billing office received the invoice (3 days for meat, meat food products, or fish; 5 days for perishable agricultural commodities, edible fats or oils, and food products prepared from edible fats or oils), with a statement of the reasons why it is not a proper invoice. Untimely notification will be taken into account in computing any interest penalty owed the Contractor in the manner described in subparagraph (a)(5) of this clause.
+(5) *Contractor's invoice.* The Contractor shall prepare and submit invoices to the designated billing office specified in the contract. Notwithstanding paragraph (g) of the clause at FAR 52.212-4, Contract Terms and Conditions—Commercial Products and Commercial Services, if the Contractor submits hard-copy invoices, submit only an original invoice. No copies of the invoice are required. A proper invoice must include the items listed in subdivisions (a)(5)(i) through (a)(5)(viii) of this clause. If the invoice does not comply with these requirements, it shall be returned within 7 days after the date the designated billing office received the invoice (3 days for meat, meat food products, or fish; 5 days for perishable agricultural commodities, edible fats or oils, and food products prepared from edible fats or oils), with a statement of the reasons why it is not a proper invoice. Untimely notification will be taken into account in computing any interest penalty owed the Contractor in the manner described in subparagraph (a)(5) of this clause.
 
 (i) Name and address of the Contractor.
 
@@ -94,7 +92,7 @@ Notwithstanding any other payment clause in this contract, the Government will m
 
 (8) *Prompt payment discounts.* An interest penalty also shall be paid automatically by the designated payment office, without request from the Contractor, if a discount for prompt payment is taken improperly. The interest penalty will be calculated as described in subparagraph (a)(7) of this clause on the amount of discount taken for the period beginning with the first day after the end of the discount period through the date when the Contractor is paid.
 
-(9) *Additional interest penalty.* (i) If this contract was awarded on or October 1, 1989, a penalty amount, calculated in accordance with subdivision (a)(9)(iii) of this clause, shall be paid in addition to the interest penalty amount if the Contractor -
+(9) *Additional interest penalty.* (i) If this contract was awarded on or October 1, 1989, a penalty amount, calculated in accordance with subdivision (a)(9)(iii) of this clause, shall be paid in addition to the interest penalty amount if the Contractor—
 
 (A) Is owed an interest penalty of $1 or more;
 
@@ -102,7 +100,7 @@ Notwithstanding any other payment clause in this contract, the Government will m
 
 (C) Makes a written demand to the designated payment office for additional penalty payment, in accordance with subdivision (a)(9)(ii) of this clause, postmarked not later than 40 days after the invoice amount is paid.
 
-(ii)(A) Contractors shall support written demands for additional penalty payments with the following data. No additional data shall be required. Contractors shall -
+(ii)(A) Contractors shall support written demands for additional penalty payments with the following data. No additional data shall be required. Contractors shall—
 
 (1) Specifically assert that late payment interest is due under a specific invoice, and request payment of all overdue late payment interest penalty and such additional penalty as may be required;
 
@@ -110,13 +108,13 @@ Notwithstanding any other payment clause in this contract, the Government will m
 
 (3) State that payment of the principal has been received, including the date of receipt.
 
-(B) Demands must be postmarked on or before the 40th day after payment was made, except that -
+(B) Demands must be postmarked on or before the 40th day after payment was made, except that—
 
 (1) If the postmark is illegible or nonexistent, the demand must have been received and annotated with the date of receipt by the designated payment office on or before the 40th day after payment was made; or
 
 (2) If the postmark is illegible or nonexistent and the designated payment office fails to make the required annotation, the demand's validity will be determined by the date the Contractor has placed on the demand; provided such date is no later than the 40th day after payment was made.
 
-(iii)(A) The additional penalty shall be equal to 100 percent of any original late payment interest penalty, except -
+(iii)(A) The additional penalty shall be equal to 100 percent of any original late payment interest penalty, except—
 
 (1) The additional penalty shall not exceed $5,000;
 
@@ -130,7 +128,7 @@ Notwithstanding any other payment clause in this contract, the Government will m
 
 (D) The additional penalty does not apply to payments regulated by other Government regulations (e.g., payments under utility contracts subject to tariffs and regulation).
 
-(b) *Contract financing payments* - (1) *Due dates for recurring financing payments.* If this contract provides for contract financing, requests for payment shall be submitted to the designated billing office as specified in this contract or as directed by the Contracting Officer. Contract financing payments shall be made on the [insert day as prescribed by Agency head; if not prescribed, insert 30th day] day after receipt of a proper contract financing request by the designated billing office. In the event that an audit or other review of a specific financing request is required to ensure compliance with the terms and conditions of the contract, the designated payment office is not compelled to make payment by the due date specified.
+(b) *Contract financing payments*—(1) *Due dates for recurring financing payments.* If this contract provides for contract financing, requests for payment shall be submitted to the designated billing office as specified in this contract or as directed by the Contracting Officer. Contract financing payments shall be made on the [insert day as prescribed by Agency head; if not prescribed, insert 30th day] day after receipt of a proper contract financing request by the designated billing office. In the event that an audit or other review of a specific financing request is required to ensure compliance with the terms and conditions of the contract, the designated payment office is not compelled to make payment by the due date specified.
 
 (2) *Due dates for other contract financing.* For advance payments, loans, or other arrangements that do not involve recurring submissions of contract financing requests, payment shall be in accordance with the corresponding contract terms or as directed by the Contracting Officer.
 
@@ -138,4 +136,4 @@ Notwithstanding any other payment clause in this contract, the Government will m
 
 (c) *Fast payment procedure due dates.* If this contract contains the clause at 52.213-1, Fast Payment Procedure, payments will be made within 15 days after the date of receipt of the invoice.
 
-(End of clause)[64 FR 37229, July 9, 1999, as amended at 74 FR 54918, Oct. 26, 2009; 86 FR 55524, Oct. 5, 2021]
+(End of clause)[64 FR 37229, July 9, 1999, as amended at 74 FR 54918, Oct. 26, 2009; 86 FR 55524, Oct. 5, 2021; 86 FR 68443, Dec. 2, 2021]

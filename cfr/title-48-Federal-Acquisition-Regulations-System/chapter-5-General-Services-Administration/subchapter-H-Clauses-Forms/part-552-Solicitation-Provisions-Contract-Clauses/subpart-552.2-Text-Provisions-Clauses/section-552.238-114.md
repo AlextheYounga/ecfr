@@ -1,14 +1,12 @@
 ##### 552.238-114 Use of Federal Supply Schedule Contracts by Non-Federal Entities. #####
 
-Link to an amendment published at 86 FR 68444, Dec. 2, 2021.
-
 As prescribed in 538.7004(c), insert the following clause:
 
-Use of Federal Supply Schedule Contracts by Non-Federal Entities (MAY 2019)
+Use of Federal Supply Schedule Contracts by Non-Federal Entities (JAN 2022)
 
 (a) If an entity identified in paragraph (d) of the clause at 552.238-113, Scope of Contract (Eligible Ordering Activities), elects to place an order under this contract, the entity agrees that the order shall be subject to the following conditions:
 
-(1) When the Contractor accepts an order from such an entity, a separate contract is formed which incorporates by reference all the terms and conditions of the Schedule contract except the Disputes clause, the patent indemnity clause, and the portion of the Commercial Item Contract Terms and Conditions that specifies “Compliance with laws unique to Government contracts” (which applies only to contracts with entities of the Executive branch of the U.S. Government). The parties to this new contract which incorporates the terms and conditions of the Schedule contract are the individual ordering activity and the Contractor. The U.S. Government shall not be liable for the performance or nonperformance of the new contract. Disputes which cannot be resolved by the parties to the new contract may be litigated in any State or Federal court with jurisdiction over the parties, applying Federal procurement law, including statutes, regulations and case law, and, if pertinent, the Uniform Commercial Code. To the extent authorized by law, parties to this new contract are encouraged to resolve disputes through Alternative Dispute Resolution. Likewise, a Blanket Purchase Agreement (BPA), although not a contract, is an agreement that may be entered into by the Contractor with such an entity and the Federal Government is not a party.
+(1) When the Contractor accepts an order from such an entity, a separate contract is formed which incorporates by reference all the terms and conditions of the Schedule contract except the Disputes clause, the patent indemnity clause, and the portion of the Commercial Products and Commercial Services Contract Terms and Conditions that specifies “Compliance with laws unique to Government contracts” (which applies only to contracts with entities of the Executive branch of the U.S. Government). The parties to this new contract which incorporates the terms and conditions of the Schedule contract are the individual ordering activity and the Contractor. The U.S. Government shall not be liable for the performance or nonperformance of the new contract. Disputes which cannot be resolved by the parties to the new contract may be litigated in any State or Federal court with jurisdiction over the parties, applying Federal procurement law, including statutes, regulations and case law, and, if pertinent, the Uniform Commercial Code. To the extent authorized by law, parties to this new contract are encouraged to resolve disputes through Alternative Dispute Resolution. Likewise, a Blanket Purchase Agreement (BPA), although not a contract, is an agreement that may be entered into by the Contractor with such an entity and the Federal Government is not a party.
 
 (2) Where contract clauses refer to action by a Contracting Officer or a Contracting Officer of GSA, that shall mean the individual responsible for placing the order for the ordering activity (e.g., FAR 52.212-4 at paragraph (f) and FSS clause I-FSS-249 B.)
 
@@ -32,4 +30,4 @@ Use of Federal Supply Schedule Contracts by Non-Federal Entities (MAY 2019)
 
 (2) The dollar value for sales to entities identified in paragraph (d) of clause 552.238-113 Scope of Contract (Eligible Ordering Activities).
 
-(End of clause)[84 FR 17046, Apr. 23, 2019]
+(End of clause)[84 FR 17046, Apr. 23, 2019, as amended at 86 FR 68444, Dec. 2, 2021]

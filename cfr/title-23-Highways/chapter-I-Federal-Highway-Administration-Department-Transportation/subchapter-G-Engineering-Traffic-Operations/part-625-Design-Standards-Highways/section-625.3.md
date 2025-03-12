@@ -1,5 +1,7 @@
 ##### § 625.3 Application. #####
 
+Link to an amendment published at 87 FR 41, Jan. 3, 2022.
+
 (a) *Applicable Standards.* (1) Design and construction standards for new construction, reconstruction, resurfacing (except for maintenance resurfacing), restoration, or rehabilitation of a highway on the NHS (other than a highway also on the Interstate System or other freeway) shall be those approved by the Secretary in cooperation with the State highway departments. These standards may take into account, in addition to the criteria described in § 625.2(a), the following:
 
 (i) The constructed and natural environment of the area;

@@ -1,20 +1,18 @@
 ##### § 98.15 Health requirements. #####
 
-Link to an amendment published at 86 FR 68864, Dec. 3, 2021.
-
 Ruminant and swine embryos may be imported from a region where foot-and-mouth disease exists only if all of the following conditions are met:
 
-(a) The donor dam is determined to be free of communicable diseases based on tests, examinations, and other requirements, as follows, except that, with regard to bovine spongiform encephalopathy, the following does not apply to bovines, cervids, or camelids.
+(a) The donor dam is determined to be free of communicable diseases based on tests, examinations, and other requirements, as follows:
 
 (1) During the year before embryo collection, no case of the following diseases occurred in the embryo collection unit or in any herd in which the donor dam was present:
 
-(i) Ruminant: Bovine spongiform encephalopathy, contagious bovine pleuropneumonia, foot-and-mouth disease, Rift Valley fever, or vesicular stomatitis; or
+(i) Ruminant: Contagious bovine pleuropneumonia, foot-and-mouth disease, Rift Valley fever, or vesicular stomatitis; or
 
 (ii) Swine: African swine fever, foot-and-mouth disease, classical swine fever, pseudorabies, swine vesicular disease, or vesicular stomatitis.
 
 (2) During the year before embryo collection, no case of the following diseases occurred within 5 kilometers of the embryo collection unit or in any herd in which the donor dam was present:
 
-(i) Ruminant: Bovine spongiform encephalopathy, contagious bovine pleuropneumonia, foot-and-mouth disease, Rift Valley fever, or vesicular stomatitis; or
+(i) Ruminant: Contagious bovine pleuropneumonia, foot-and-mouth disease, Rift Valley fever, or vesicular stomatitis; or
 
 (ii) Swine: African swine fever, foot-and-mouth disease, classical swine fever, pseudorabies, swine vesicular disease, or vesicular stomatitis.
 
@@ -38,7 +36,7 @@ Ruminant and swine embryos may be imported from a region where foot-and-mouth di
 
 (7)(i) Not less than 30 days nor more than 120 days after embryo collection, the donor dam was examined by an official veterinarian and found free of clinical evidence of the following diseases:
 
-(A) Ruminant: Bovine spongiform encephalopathy, brucellosis, contagious bovine pleuropneumonia, foot-and-mouth disease, Rift Valley fever, tuberculosis, and vesicular stomatitis; or
+(A) Ruminant: Brucellosis, contagious bovine pleuropneumonia, foot-and-mouth disease, Rift Valley fever, tuberculosis, and vesicular stomatitis; or
 
 (B) Swine: African swine fever, brucellosis, foot-and-mouth disease, classical swine fever, pseudorabies, swine vesicular disease, tuberculosis, and vesicular stomatitis.
 
@@ -46,7 +44,7 @@ Ruminant and swine embryos may be imported from a region where foot-and-mouth di
 
 (8)(i) Between the time the embryos were collected and all examinations and tests required by this subpart were completed, no animals in the embryo collection unit with the donor dam, or in the donor dam's herd of origin, exhibited any clinical evidence of:
 
-(A) Ruminant: Bovine spongiform encephalopathy, brucellosis, contagious bovine pleuropneumonia, foot-and-mouth disease, Rift Valley fever, tuberculosis, and vesicular stomatitis; or
+(A) Ruminant: Brucellosis, contagious bovine pleuropneumonia, foot-and-mouth disease, Rift Valley fever, tuberculosis, and vesicular stomatitis; or
 
 (B) Swine: African swine fever, brucellosis, foot-and-mouth disease, classical swine fever, pseudorabies, swine vesicular disease, tuberculosis, and vesicular stomatitis.
 
@@ -66,4 +64,4 @@ Ruminant and swine embryos may be imported from a region where foot-and-mouth di
 
 (c) Embryos produced by any donor dam or sire that dies before being examined and tested as required under this subpart will not be eligible for importation into the United States.
 
-[56 FR 55809, Oct. 30, 1991, as amended at 61 FR 15183, Apr. 5, 1996; 62 FR 56025, Oct. 28, 1997; 68 FR 16940, Apr. 7, 2003; 78 FR 73008, Dec. 4, 2013; 83 FR 15494, Apr. 11, 2018]
+[56 FR 55809, Oct. 30, 1991, as amended at 61 FR 15183, Apr. 5, 1996; 62 FR 56025, Oct. 28, 1997; 68 FR 16940, Apr. 7, 2003; 78 FR 73008, Dec. 4, 2013; 83 FR 15494, Apr. 11, 2018; 86 FR 68864, Dec. 3, 2021]

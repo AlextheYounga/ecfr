@@ -1,8 +1,6 @@
 ##### § 93.405 Health certificate for ruminants. #####
 
-Link to an amendment published at 86 FR 68857, Dec. 3, 2021.
-
-(a) All ruminants intended for importation from any part of the world, except as provided in §§ 93.423(c) and 93.428(d), shall be accompanied by a certificate issued by a full-time salaried veterinary officer of the national government of the region of origin, or issued by a veterinarian designated or accredited by the national government of the region of origin and endorsed by a full-time salaried veterinary officer of the national government of the region of origin, representing that the veterinarian issuing the certificate was authorized to do so. The certificate shall state:
+(a) *Issuance and required information.* All ruminants intended for importation from any part of the world, except as provided in §§ 93.423(c) and 93.428(d), shall be accompanied by a certificate issued by a full-time salaried veterinary officer of the national government of the region of origin, or issued by a veterinarian designated or accredited by the national government of the region of origin and endorsed by a full-time salaried veterinary officer of the national government of the region of origin, representing that the veterinarian issuing the certificate was authorized to do so. The certificate shall state:
 
 (1) That the ruminants have been kept in that region during the last 60 days immediately preceding the date of shipment to the United States, and that during this time the region has been entirely free from foot-and-mouth disease, contagious pleuropneumonia, and surra; *provided, however,* that for wild ruminants for exhibition purposes, the certificate need specify only that the district of origin has been free from the listed diseases; *and provided further,* that for sheep and goats, with respect to contagious pleuropneumonia, the certificate may specify only that the district of origin has been free from this disease;
 
@@ -18,38 +16,76 @@ Link to an amendment published at 86 FR 68857, Dec. 3, 2021.
 
 (iv) The ruminants must be accompanied to the United States by a certificate signed by a full-time salaried veterinary official of the exporting country. The certificate must state that the ruminants have been thoroughly examined and found free of screwworm and that the ruminants have been treated in accordance with paragraphs (a)(3)(i) and (a)(3)(iii) of this section.
 
-(4) If the ruminants are sheep or goats from Canada, the certificate must also include the name and address of the importer; the species, breed, number or quantity of ruminants to be imported; the purpose of the importation; individual ruminant identification, which includes the official identification required under § 93.419(c) of this subchapter, and any other identification present on the animal, including registration number, if any; a description of the ruminant, including age, color, and markings, if any; region of origin; the address of or other means of identifying the premises of origin and any other premises where the ruminants resided immediately prior to export, including the State or its equivalent, the municipality or nearest city, or an equivalent method, approved by the Administrator, of identifying the location of the premises, and the specific physical location of the destination where the ruminants are to be moved after importation; the name and address of the exporter; the port of embarkation in the foreign region; and the mode of transportation, route of travel, and port of entry in the United States.
+(b) *Sheep and goats*—(1) *Information required.* In addition to the statements required by paragraph (a) of this section, the certificate accompanying sheep or goats from any part of the world must also include the name and address of the importer; the number or quantity of sheep or goats to be imported; the purpose of the importation; the official individual sheep or goat identification applied to the animals; and, when required by § 93.435, the permanent country mark and other identification present on the animal, including registration number, if any; a description of each sheep or goat linked to the official identification number, including age, sex, breed, color, and markings, if any; the flock of residence; the address (including street, city, State, and ZIP Code) of the destination where the sheep or goats are to be physically located after importation, including the premises or location identification number assigned in the APHIS National Scrapie Database and when applicable the flock identification number; the name and address of the exporter; the port of embarkation in the region of export; the mode of transportation, route of travel and port of entry in the United States; and, for sheep or goats imported for purposes other than immediate slaughter or restricted feeding for slaughter, the certificate must specify the region of origin and, for regions not free of scrapie, the address or other identification of the premises and flock of birth, and any other flock in which the animals have resided.
 
-(b) *Goats.* (1) In addition to the statements required by paragraph (a) of this section, the certificate accompanying goats from any part of the world, except for goats imported from Canada for immediate slaughter, must state:
+(2) *Additional statements.* The certificate accompanying sheep or goats from any part of the world, except as provided in paragraph (b)(4) of this section for sheep or goats imported for immediate slaughter, and in paragraph (b)(5) of this section for sheep or goats for restricted feeding for slaughter, must also state that:
 
-(i) That none of the goats in the herd from which the goats will be imported is the progeny of a sire or dam that has been affected with scrapie or that has produced offspring that have been affected with scrapie;
+(i) The sheep or goats originated from a region recognized as free of classical scrapie by APHIS; or the animals have reached and maintained certified status or equivalent status in a scrapie flock certification program or equivalent program approved by APHIS;
 
-(ii) That none of the female goats in the herd from which the goats will be imported has been impregnated, during the 5 years immediately preceding shipment of the goats to the United States, with germ plasm from a herd known to be infected with scrapie;
+(ii) The sheep or goats have not commingled with sheep or goats of a lower health status, or resided on the premises of a flock or herd of lower health status, after leaving the flock of residence and prior to arrival in the United States;
 
-(iii) That the veterinarian issuing the certificate has inspected the goats in the herd from which the animals will be imported and found the herd to be free of any evidence of infectious or contagious disease; and
+(iii) Any enclosure, container or conveyance in which the sheep or goats had been placed during the export process, and which had previously held sheep or goats, was cleaned and disinfected in accordance with § 54.7(e)(2) of this chapter prior to being used for the sheep or goats;
 
-(iv) That as far as it is possible for the veterinarian who inspects the animals to determine, none of the goats in the herd from which the animals will be imported has been exposed to any infectious or contagious disease during the 60 days immediately preceding shipment to the United States.
+(iv) None of the female sheep or goats is carrying an implanted embryo from a lower health status flock; or that any implanted embryo meets the requirements for import into the United States when implanted, and documentation as required in part 98 of this subchapter is attached;
 
-(2) In addition, the certificate accompanying goats intended for importation from any part of the world except Australia and New Zealand must state:
+(v) The veterinarian issuing the certificate has inspected the sheep or goats, and their flock(s) of residence, within 30 days of consignment for import to the United States, and found the animals and the flock(s) of residence to be free of any evidence of infectious or contagious disease;
 
-(i) That the goats have not been in any herd nor had contact with sheep or goats that have been in any flock or herd where scrapie has been diagnosed or suspected during the 5 years immediately prior to shipment; and
+(vi) As far as it is possible for the veterinarian who inspects the animals to determine, none of the sheep or goats in the flock(s) of residence has been exposed to any infectious or contagious disease during the 60 days immediately preceding shipment to the United States; and
 
-(ii) That the goats have not had any contact with sheep during the 5 years immediately prior to shipment; *provided that,* this statement is not required if the goats are imported in accordance with § 93.435(a) into a herd in the United States that participates in the Voluntary Scrapie Flock Certification Program.
+(vii) The animals' movement is not restricted within the country of origin due to animal health reasons.
 
-(c) *Sheep.* (1) In addition to the statements required by paragraph (a) of this section, the certificate accompanying sheep intended for importation from any part of the world must state:
+(3) *Test results.* The certificate accompanying sheep or goats from any part of the world, except as provided in paragraph (b)(4) of this section for sheep or goats imported for immediate slaughter, or in paragraph (b)(5) of this section for sheep or goats for restricted feeding for slaughter, must also include:
 
-(i) That none of the sheep in the flock from which the sheep will be imported is the progeny of a sire or dam that has been affected with scrapie or that has produced offspring that have been affected with scrapie;
+(i) The results of any testing required in the import permit; and
 
-(ii) That none of the female sheep in the flock from which the sheep will be imported has been impregnated, during the 5 years immediately preceding shipment of the sheep to the United States, with germ plasm from a flock known to be infected with scrapie;
+(ii) Any other information required in the import permit.
 
-(iii) That the veterinarian issuing the certificate has inspected the sheep in the flock from which the animals will be imported and found the flock to be free of any evidence of infectious or contagious disease; and
+(4) *Sheep or goats imported for immediate slaughter.* For sheep or goats imported for immediate slaughter, in addition to the statements required under paragraph (a) of this section, the certificate must include statements that:
 
-(iv) That as far as it is possible for the veterinarian who inspects the animals to determine, none of the sheep in the flock from which the animals will be imported has been exposed to any infectious or contagious disease during the 60 days immediately preceding shipment to the United States.
+(i) The region where the sheep or goats originated is recognized as free of classical scrapie by APHIS; or
 
-(2) In addition, except for sheep imported from Canada for immediate slaughter, the certificate accompanying sheep intended for importation from any part of the world except Australia and New Zealand must state that the sheep have not been in any flock nor had contact with sheep or goats that have been in any flock or herd where scrapie has been diagnosed or suspected during the 5 years immediately prior to shipment.
+(ii) The region where the sheep or goats originated has not been recognized as free of classical scrapie by APHIS but the following criteria have been met:
 
-(3) In addition, the certificate accompanying sheep intended for importation from Australia and New Zealand must state that none of the female sheep in the flock from which the sheep will be imported has been impregnated, during the 5 years immediately preceding shipment of the sheep to the United States, with germ plasm from a region other than Australia, New Zealand, or the United States, or from a flock of unknown scrapie status; *provided that,* this statement is not required if the sheep are imported in accordance with § 93.435(a) into a flock in the United States that participates in the Voluntary Scrapie Flock Certification Program.
+(A) TSEs in sheep and goats are compulsorily notifiable to the national veterinary authority of the region;
 
-(d) If ruminants are unaccompanied by the certificate as required by paragraphs (a), (b), and (c) of this section, or if such ruminants are found upon inspection at the port of entry to be affected with a communicable disease or to have been exposed thereto, they shall be refused entry and shall be handled or quarantined, or otherwise disposed of as the Administrator may direct.
+(B) An effective classical scrapie awareness, surveillance, monitoring, and control system is in place;
 
-(Approved by the Office of Management and Budget under control numbers 0579-0040, 0579-0165, 0579-0234, and 0579-0393)[55 FR 31495, Aug. 2, 1990. Redesignated and amended at 62 FR 56012, 56018, Oct. 28, 1997]Editorial Note:For Federal Register citations affecting § 93.405, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(C) TSE-affected sheep and goats are killed and completely destroyed;
+
+(D) The sheep and goats selected for export showed no clinical sign of scrapie on the day of shipment and are fit for travel;
+
+(E) The sheep and goats have not tested positive for, and are not suspect for, a transmissible spongiform encephalopathy; and
+
+(F) The animals' movement is not restricted within the country of origin due to animal health reasons.
+
+(5) *Sheep or goats for restricted feeding for slaughter.* For sheep or goats imported for restricted feeding for slaughter, in addition to the statements required under paragraph (a) of this section, the certificate must include statements that:
+
+(i) The region where the sheep or goats originated is recognized as free of classical scrapie by APHIS; or
+
+(ii) The region where the sheep or goats originated has not been recognized as free of classical scrapie by APHIS but the following criteria have been met:
+
+(A) TSEs in sheep and goats are compulsorily notifiable to the national veterinary authority of the region;
+
+(B) An effective classical scrapie awareness, surveillance, monitoring and control system is in place;
+
+(C) TSE-affected sheep and goats are killed and completely destroyed;
+
+(D) The sheep or goats showed no clinical sign of scrapie or any other infectious disease on the day of shipment and are fit for travel;
+
+(E) The sheep or goats have not tested positive for, and are not suspect for, a transmissible spongiform encephalopathy;
+
+(F) The animals' movement is not restricted within the country of origin due to animal health concerns;
+
+(G) Female sheep and goats are not known to be pregnant, are not visibly pregnant, and female animals have not been exposed:
+
+(*1*) To a sexually intact male at over 5 months of age; or
+
+(*2*) To a sexually intact male within 5 months of shipment;
+
+(H) The veterinarian issuing the certificate has inspected the sheep or goats for export, and their flock(s) of residence, within 30 days of consignment for shipment to the United States, and found the animals and the flock(s) of residence to be free of any evidence of infectious or contagious disease; and
+
+(I) As far as it is possible for the veterinarian who inspects the animals to determine, none of the sheep or goats has been exposed to any infectious or contagious disease during the 60 days immediately preceding shipment to the United States.
+
+(c) *Refusal of entry.* If ruminants are unaccompanied by the certificate as required by paragraphs (a) and (b) of this section, or if such ruminants are found upon inspection at the port of entry to be affected with a communicable disease or to have been exposed thereto, they shall be refused entry and shall be handled or quarantined, or otherwise disposed of as the Administrator may direct.
+
+(Approved by the Office of Management and Budget under control numbers 0579-0040, 0579-0165, 0579-0234, 0579-0393, and 0579-0453)[55 FR 31495, Aug. 2, 1990. Redesignated and amended at 62 FR 56012, 56018, Oct. 28, 1997]Editorial Note:For Federal Register citations affecting § 93.405, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

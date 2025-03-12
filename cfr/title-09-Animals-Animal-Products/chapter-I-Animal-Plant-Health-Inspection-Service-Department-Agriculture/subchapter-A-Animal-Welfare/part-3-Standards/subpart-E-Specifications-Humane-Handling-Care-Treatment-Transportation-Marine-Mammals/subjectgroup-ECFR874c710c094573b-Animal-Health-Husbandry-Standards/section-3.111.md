@@ -30,15 +30,15 @@ Volume = SA × 9
 
 (c) *Employees and attendants.* Each SWTD program shall have, at the minimum, the following personnel, with the following minimum backgrounds (each position shall be held by a separate individual, with a sufficient number of attendants to comply with § 3.111(e)(4)):
 
-(1) Licensee or manager - at least one full-time staff member with at least 6 years experience in a professional or managerial position dealing with captive cetaceans;
+(1) Licensee or manager—at least one full-time staff member with at least 6 years experience in a professional or managerial position dealing with captive cetaceans;
 
-(2) Head trainer/behaviorist - at least one full-time staff member with at least 6 years experience in training cetaceans for SWTD behaviors in the past 10 years, or an equivalent amount of experience involving in-water training of cetaceans, who serves as the head trainer for the SWTD program;
+(2) Head trainer/behaviorist—at least one full-time staff member with at least 6 years experience in training cetaceans for SWTD behaviors in the past 10 years, or an equivalent amount of experience involving in-water training of cetaceans, who serves as the head trainer for the SWTD program;
 
-(3) Trainer/supervising attendant - at least one full-time staff member with at least 3 years training and/or handling experience involving human/cetacean interaction programs;
+(3) Trainer/supervising attendant—at least one full-time staff member with at least 3 years training and/or handling experience involving human/cetacean interaction programs;
 
-(4) Attendant - an adequate number of staff members who are adequately trained in the care, behavior, and training of the program animals. Attendants shall be designated by the trainer, in consultation with the head trainer/behaviorist and licensee/manager, to conduct and monitor interactive sessions in accordance with § 3.111(e); and
+(4) Attendant—an adequate number of staff members who are adequately trained in the care, behavior, and training of the program animals. Attendants shall be designated by the trainer, in consultation with the head trainer/behaviorist and licensee/manager, to conduct and monitor interactive sessions in accordance with § 3.111(e); and
 
-(5) Attending veterinarian - at least one staff or consultant veterinarian who has at least the equivalent of 2 years full-time experience (4,160 or more hours) with cetacean medicine within the past 10 years, and who is licensed to practice veterinary medicine.
+(5) Attending veterinarian—at least one staff or consultant veterinarian who has at least the equivalent of 2 years full-time experience (4,160 or more hours) with cetacean medicine within the past 10 years, and who is licensed to practice veterinary medicine.
 
 (d) *Program animals.* Only cetaceans that meet the requirements of § 3.111(e)(2) and (3) may be used in SWTD programs.
 
@@ -126,4 +126,6 @@ Males: Natural log of body mass= −10.3 + 1.62(natural log of girth) + 1.38(nat
 
 (6) In the event that a cetacean dies, complete necropsy results, including all appropriate histopathology, shall be recorded in the cetacean's individual file and shall be made available to APHIS officials during facility inspections, or as requested by APHIS. The necropsy shall be performed within 48 hours of the cetacean's death, by a veterinarian experienced in marine mammal necropsies. If the necropsy is not to be performed within 3 hours of the discovery of the cetacean's death, the cetacean shall be refrigerated until necropsy. Written results of the necropsy shall be available in the cetacean's individual file within 7 days after death for gross pathology and within 45 days after death for histopathology.
 
-(Approved by the Office of Management and Budget under control numbers 0579-0036 and 0579-0115)[63 FR 47148, Sept. 4, 1998]Effective Date Note:At 64 FR 15920, Apr. 2, 1999, § 3.111 was suspended, effective Apr. 2, 1999.Editorial Note:At 85 FR 28799, May 13, 2020, and 86 FR 66926, Nov. 24, 2021, § 3.111 was amended; however, the amendments could not be incorporated because the section was suspended at 64 FR 15920, Apr. 2, 1999.
+(Approved by the Office of Management and Budget under control numbers 0579-0036 and 0579-0115)[63 FR 47148, Sept. 4, 1998]Effective Date Note:At 64 FR 15920, Apr. 2, 1999, § 3.111 was suspended, effective Apr. 2, 1999.Editorial Notes:1. At 85 FR 28799, May 13, 2020, § 3.111 was amended; however, the amendment could not be incorporated because the section was suspended at 64 FR 15920, Apr. 2, 1999.
+
+2. At 86 FR 66926, Nov. 24, 2021, § 3.111 was amended; however, the amendment could not be incorporated because the section was suspended at 64 FR 15920, Apr. 2, 1999.
