@@ -1,5 +1,7 @@
 ##### § 126.200 What requirements must a concern meet to receive SBA certification as a qualified HUBZone SBC? #####
 
+Link to an amendment published at 83 FR 12852, Mar. 26, 2018.
+
 (a) *Concerns owned by Indian Tribal Governments* - (1) *Ownership.* (i) The concern must be wholly owned by one or more Indian Tribal Governments;
 
 (ii) The concern must be wholly owned by a corporation that is wholly owned by one or more Indian Tribal Governments;

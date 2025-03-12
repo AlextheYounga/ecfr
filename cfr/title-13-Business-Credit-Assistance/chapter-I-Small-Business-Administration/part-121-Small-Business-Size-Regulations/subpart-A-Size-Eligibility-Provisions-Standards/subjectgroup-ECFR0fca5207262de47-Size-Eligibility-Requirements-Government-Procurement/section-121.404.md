@@ -1,5 +1,7 @@
 ##### § 121.404 When is the size status of a business concern determined? #####
 
+Link to an amendment published at 83 FR 12851, Mar. 26, 2018.
+
 (a) SBA determines the size status of a concern, including its affiliates, as of the date the concern submits a written self-certification that it is small to the procuring activity as part of its initial offer (or other formal response to a solicitation), which includes price.
 
 (1) With respect to Multiple Award Contracts and orders issued against a Multiple Award Contract:

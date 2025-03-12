@@ -1,5 +1,7 @@
 ##### § 648.56 Scallop research. #####
 
+Link to an amendment published at 83 FR 12862, Mar. 26, 2018.
+
 (a) At least biennially, in association with the biennial framework process, the Council and NMFS shall prepare and issue an announcement of Federal Funding Opportunity (FFO) that identifies research priorities for projects to be conducted by vessels using research set-aside as specified in paragraph (d) of this section and § 648.59(e), provides requirements and instructions for applying for funding of a proposed RSA project, and specifies the date by which applications must be received. The FFO shall be published as soon as possible by NMFS and shall provide the opportunity for applicants to apply for projects to be awarded for 1 or 2 years by allowing applicants to apply for RSA funding for the first year, second year, or both.
 
 (b) Proposals submitted in response to the FFO must include the following information, as well as any other specific information required within the FFO: A project summary that includes the project goals and objectives, the relationship of the proposed research to scallop research priorities and/or management needs, project design, participants other than the applicant, funding needs, breakdown of costs, and the vessel(s) for which authorization is requested to conduct research activities.
