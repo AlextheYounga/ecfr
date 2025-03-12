@@ -1,0 +1,5 @@
+##### § 550.406 Status of entities owned by one or more persons whose property and interests in property are blocked. #####
+
+(a) No entity shall be blocked pursuant to § 550.201(a) solely because it is owned in whole or in part, directly or indirectly, by one or more sanctioned persons, unless the entity is itself a sanctioned person and the sanctions in section 2(a)(i)(A) of E.O. 14046 are imposed on the entity.
+
+(b) Unless otherwise stated in the relevant Executive order, persons whose property and interests in property are blocked pursuant to § 550.201(b) have an interest in all property and interests in property of an entity in which such persons directly or indirectly own, whether individually or in the aggregate, a 50 percent or greater interest. The property and interests in property of such an entity, therefore, are blocked, and such an entity is a person whose property and interests in property are blocked pursuant to § 550.201(b), regardless of whether the name of the entity is incorporated into OFAC's Specially Designated Nationals and Blocked Persons List (SDN List).

@@ -1,0 +1,3 @@
+##### § 550.313 Sanctioned person. #####
+
+The term *sanctioned person* means a foreign person that the Secretary of the Treasury, in consultation with the Secretary of State, has determined meets any of the criteria described in section 1 of E.O. 14046 and has selected, in consultation with the Secretary of State, one or more of the sanctions set forth in section 2(a) of E.O. 14046 to impose on that foreign person.

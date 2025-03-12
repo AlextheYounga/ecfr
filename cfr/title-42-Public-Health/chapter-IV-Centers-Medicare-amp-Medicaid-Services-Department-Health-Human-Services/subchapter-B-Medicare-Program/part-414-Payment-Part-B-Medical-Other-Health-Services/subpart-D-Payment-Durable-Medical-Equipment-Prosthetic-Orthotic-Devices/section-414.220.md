@@ -50,11 +50,11 @@
 
 (4) For 1994 and subsequent years, the national limited payment amount is equal to one of the following:
 
-(i) If the local payment amount is not in excess of the median, nor less than 85 percent of the median, of all local payment amounts - 100 percent of the local payment amount.
+(i) If the local payment amount is not in excess of the median, nor less than 85 percent of the median, of all local payment amounts—100 percent of the local payment amount.
 
-(ii) If the local payment amount exceeds the median - 100 percent of the median of all local payment amounts.
+(ii) If the local payment amount exceeds the median—100 percent of the median of all local payment amounts.
 
-(iii) If the local payment amount is less than 85 percent of the median - 85 percent of the median of all local payment amounts.
+(iii) If the local payment amount is less than 85 percent of the median—85 percent of the median of all local payment amounts.
 
 (g) *Payment for surgical dressings.* For surgical dressings furnished after December 31, 1993, the national limited payment amount is computed based on local payment amounts using average reasonable charges for the 12-month period ending December 31, 1992, increased by the covered item updates for 1993 and 1994.
 

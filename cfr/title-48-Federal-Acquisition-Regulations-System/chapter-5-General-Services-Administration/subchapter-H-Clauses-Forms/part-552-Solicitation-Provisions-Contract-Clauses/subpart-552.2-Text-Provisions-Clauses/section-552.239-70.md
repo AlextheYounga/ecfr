@@ -1,5 +1,7 @@
 ##### 552.239-70 Information Technology Security Plan and Security Authorization. #####
 
+Link to an amendment published at 87 FR 7395, Feb. 9, 2022.
+
 As prescribed in 539.7002(a), insert the following provision:
 
 Information Technology Security Plan and Security Authorization (JUN 2011)

@@ -4,7 +4,7 @@
 
 (1) A civil penalty not to exceed the amount set forth in section 206 of IEEPA may be imposed on any person who violates, attempts to violate, conspires to violate, or causes a violation of any license, order, regulation, or prohibition issued under IEEPA.
 
-(2) The applicable maximum civil penalty per violation of IEEPA is the greater of $311,562 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
+(2) The applicable maximum civil penalty per violation of IEEPA is the greater of $330,947 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
 
 (3) A person who willfully commits, willfully attempts to commit, or willfully conspires to commit, or aids or abets in the commission of a violation of any license, order, regulation, or prohibition may, upon conviction, be fined not more than $1,000,000, or if a natural person, be imprisoned for not more than 20 years, or both.
 
@@ -20,4 +20,4 @@
 
 (e) Violations of this part may also be subject to relevant provisions of Customs laws and other applicable laws.
 
-[77 FR 64666, Oct. 22, 2012, as amended at 77 FR 75850, Dec. 26, 2012; 81 FR 43076, July 1, 2016; 82 FR 10438, Feb. 10, 2017; 83 FR 11880, Mar. 19, 2018; 84 FR 27718, June 14, 2019; 85 FR 19887, Apr. 9, 2020; 85 FR 61825, Oct. 1, 2020; 86 FR 14538, Mar. 17, 2021]
+[77 FR 64666, Oct. 22, 2012, as amended at 77 FR 75850, Dec. 26, 2012; 81 FR 43076, July 1, 2016; 82 FR 10438, Feb. 10, 2017; 83 FR 11880, Mar. 19, 2018; 84 FR 27718, June 14, 2019; 85 FR 19887, Apr. 9, 2020; 85 FR 61825, Oct. 1, 2020; 86 FR 14538, Mar. 17, 2021; 87 FR 7372, Feb. 7, 2022]

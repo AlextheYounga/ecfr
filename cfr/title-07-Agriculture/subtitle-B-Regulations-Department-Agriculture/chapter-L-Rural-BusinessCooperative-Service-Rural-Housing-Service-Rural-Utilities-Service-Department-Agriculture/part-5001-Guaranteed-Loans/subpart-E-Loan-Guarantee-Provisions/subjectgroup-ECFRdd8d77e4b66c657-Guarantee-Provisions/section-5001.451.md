@@ -40,9 +40,9 @@
 
 (xiii) Agency environmental requirements; and
 
-(xiii) Requirement for the lender and the Agency to have reasonable access to the project and financial records including access for periodic inspections of the project and financial records by a representative of the lender or the Agency; and
+(xiv) Requirement for the lender and the Agency to have reasonable access to the project and financial records including access for periodic inspections of the project and financial records by a representative of the lender or the Agency; and
 
-(xiv) Requirement for the borrower to provide the lender and the Agency performance information during the term of the guaranteed loan.
+(xv) Requirement for the borrower to provide the lender and the Agency performance information during the term of the guaranteed loan.
 
 (4) Loan closing requirements;
 
@@ -58,4 +58,4 @@
 
 (e) Modification, and expiration of conditional commitment. The conditional commitment issued by the Agency will be effective for a period of one year or sufficient time to complete the guaranteed loan project prior to loan closing. The lender must submit a written request to the Agency to extend the conditional commitment at least 30 days prior to its expiration date and obtain Agency approval for the extension. The Agency will consider this request only if no material adverse changes in the borrower or the borrower's financial condition have occurred since issuance of the conditional commitment. If a conditional commitment expires, the Agency will notify the lender in writing and may de-obligate the funds. Any additions or modifications to conditions stated in the original conditional commitment must be agreed upon between the lender, the borrower, and the Agency.
 
-[85 FR 42518, July 14,2020, as amended at 86 FR 70358, Dec. 10, 2021]
+[85 FR 42518, July 14,2020, as amended at 86 FR 70358, Dec. 10, 2021; 87 FR 7368, Feb. 9, 2022]

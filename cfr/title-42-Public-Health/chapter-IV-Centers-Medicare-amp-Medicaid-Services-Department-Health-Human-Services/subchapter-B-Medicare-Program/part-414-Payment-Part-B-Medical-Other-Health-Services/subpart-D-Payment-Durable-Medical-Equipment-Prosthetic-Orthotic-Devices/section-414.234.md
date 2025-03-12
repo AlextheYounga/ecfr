@@ -44,7 +44,7 @@
 
 (7) An item is removed from the Master List and replaced by its equivalent when the Healthcare Common Procedure Coding System (HCPCS) code representing the item has been discontinued and cross-walked to an equivalent item.
 
-(c) *Condition of payment* - (1) *Items requiring prior authorization.* CMS publishes in the Federal Register and posts on the CMS Prior Authorization Web site a list of items, the Required Prior Authorization List, that require prior authorization as a condition of payment.
+(c) *Condition of payment*—(1) *Items requiring prior authorization.* CMS publishes in the Federal Register and posts on the CMS Prior Authorization Web site a list of items, the Required Prior Authorization List, that require prior authorization as a condition of payment.
 
 (i) The Required Prior Authorization List specified in paragraph (c)(1) of this section is selected from the Master List. CMS may consider factors such as geographic location, item utilization or cost, system capabilities, emerging trends, vulnerabilities identified in official agency reports, or other analysis and may implement prior authorization nationally or locally.
 
@@ -84,7 +84,7 @@
 
 (f) *Suspension of prior authorization requests.* (1) CMS may suspend prior authorization requirements generally or for a particular item or items at any time and without undertaking rulemaking.
 
-(2) CMS provides notification of the suspension of the prior authorization requirements via -
+(2) CMS provides notification of the suspension of the prior authorization requirements via—
 
 (i) Federal Register notice; and
 

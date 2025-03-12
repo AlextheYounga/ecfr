@@ -10,9 +10,9 @@
 
 (2) An interruption of not longer than 60 consecutive days plus the days remaining in the rental month in which use ceases is temporary, regardless of the reason for the interruption.
 
-(3) Unless there is a break in medical necessity that lasts lnnger than 60 consecutive days plus the days remaining in the rental month in which use ceases, medical necessity is presumed to continue.
+(3) Unless there is a break in medical necessity that lasts longer than 60 consecutive days plus the days remaining in the rental month in which use ceases, medical necessity is presumed to continue.
 
-(d) *Criteria for a new rental period.* If an interruption in the use of equipment continues for more than 60 consecutive days plus the days remaining in the rental month in which use ceases, a new rental period begins if the supplier submits all of the following information -
+(d) *Criteria for a new rental period.* If an interruption in the use of equipment continues for more than 60 consecutive days plus the days remaining in the rental month in which use ceases, a new rental period begins if the supplier submits all of the following information—
 
 (1) A new prescription.
 

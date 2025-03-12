@@ -1,4 +1,4 @@
-##### § 414.229 Other durable medical equipment - capped rental items. #####
+##### § 414.229 Other durable medical equipment—capped rental items. #####
 
 (a) *General payment rule.* Payment is made for other durable medical equipment that is not subject to the payment provisions set forth in § 414.220 through § 414.228 as follows:
 
@@ -56,7 +56,7 @@
 
 (3) Payment for maintenance and servicing of beneficiary-owned equipment is made in accordance with § 414.210(e).
 
-(g) *Additional supplier requirements for capped rental items that are furnished beginning on or after January 1, 2007.* (1) The supplier that furnishes an item for the first month during which payment is made using the methodology described in paragraph (f)(1) of this section must continue to furnish the equipment until medical necessity ends, or the 13-month period of continuous use ends, whichever is earlier, unless -
+(g) *Additional supplier requirements for capped rental items that are furnished beginning on or after January 1, 2007.* (1) The supplier that furnishes an item for the first month during which payment is made using the methodology described in paragraph (f)(1) of this section must continue to furnish the equipment until medical necessity ends, or the 13-month period of continuous use ends, whichever is earlier, unless—
 
 (i) The item becomes subject to a competitive acquisition program implemented in accordance with section 1847(a) of the Act;
 

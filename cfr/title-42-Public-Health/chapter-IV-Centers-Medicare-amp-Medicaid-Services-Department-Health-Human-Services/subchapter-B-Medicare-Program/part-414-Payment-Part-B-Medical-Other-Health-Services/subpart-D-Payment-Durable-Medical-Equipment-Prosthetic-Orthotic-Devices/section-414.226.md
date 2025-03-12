@@ -1,6 +1,6 @@
 ##### § 414.226 Oxygen and oxygen equipment. #####
 
-(a) *Payment rules* - (1) *Oxygen equipment.* Payment for rental of oxygen equipment is made based on a monthly fee schedule amount during the period of medical need, but for no longer than a period of continuous use of 36 months. A period of continuous use is determined under the provisions in § 414.230.
+(a) *Payment rules*—(1) *Oxygen equipment.* Payment for rental of oxygen equipment is made based on a monthly fee schedule amount during the period of medical need, but for no longer than a period of continuous use of 36 months. A period of continuous use is determined under the provisions in § 414.230.
 
 (2) *Oxygen contents.* Payment for purchase of oxygen contents is made based on a monthly fee schedule amount until medical necessity ends.
 
@@ -56,13 +56,13 @@
 
 (2) Subject to the limitation set forth in paragraph (g)(2) of this section, the fee schedule amount for items described in paragraphs (c)(1)(ii) and (c)(1)(iii) of this section is paid when the beneficiary rents portable oxygen equipment.
 
-(3) The fee schedule amount for items described in paragraph (c)(1)(iv) of this section is paid when the beneficiary -
+(3) The fee schedule amount for items described in paragraph (c)(1)(iv) of this section is paid when the beneficiary—
 
 (i) Owns stationary oxygen equipment that requires delivery of gaseous or liquid oxygen contents; or
 
 (ii) Rents stationary oxygen equipment that requires delivery of gaseous or liquid oxygen contents after the period of continuous use of 36 months described in paragraph (a)(1) of this section.
 
-(4) The fee schedule amount for items described in paragraph (c)(1)(v) of this section is paid when the beneficiary -
+(4) The fee schedule amount for items described in paragraph (c)(1)(v) of this section is paid when the beneficiary—
 
 (i) Owns portable oxygen equipment described in (c)(1)(ii) of this section;
 
@@ -98,23 +98,23 @@
 
 (2) Subject to the limitation set forth in paragraph (g)(2) of this section, the fee schedule amount for items described in paragraphs (e)(1)(ii), (iii), and (iv) of this section is paid when the beneficiary rents portable oxygen equipment.
 
-(3) The fee schedule amount for items described in paragraph (e)(1)(v) of this section is paid when the beneficiary -
+(3) The fee schedule amount for items described in paragraph (e)(1)(v) of this section is paid when the beneficiary—
 
 (i) Owns stationary oxygen equipment that requires delivery of gaseous or liquid oxygen contents; or
 
 (ii) Rents stationary oxygen equipment that requires delivery of gaseous or liquid oxygen contents after the period of continuous use of 36 months described in paragraph (a)(1) of this section.
 
-(4) The fee schedule amount for items described in paragraph (e)(1)(vi) of this section is paid when the beneficiary -
+(4) The fee schedule amount for items described in paragraph (e)(1)(vi) of this section is paid when the beneficiary—
 
-(i) Owns portable oxygen equipment described in paragraphs (e)(1)(ii) or (e)(1)(iii) of this section; or Code of Federal Regulations/Title 42 - Public Health/Vol. 3/2017-10-0166
+(i) Owns portable oxygen equipment described in paragraphs (e)(1)(ii) or (e)(1)(iii) of this section; or Code of Federal Regulations/Title 42—Public Health/Vol. 3/2017-10-0166
 
 (ii) Rents portable oxygen equipment described in paragraphs (e)(1)(ii) or (e)(1)(iii) of this section during the period of continuous use of 36 months described in paragraph (a)(1) of this section and does not rent stationary oxygen equipment; or
 
 (iii) Rents portable oxygen equipment described in paragraphs (e)(1)(ii) or (e)(1)(iii) of this section after the period of continuous use of 36 months described in paragraph (a)(1) of this section.
 
-(5) The fee schedule amount for items described in paragraph (e)(1)(vii) of this section is paid when the beneficiary has a prescribed flow rate of more than 4 liters per minute and -
+(5) The fee schedule amount for items described in paragraph (e)(1)(vii) of this section is paid when the beneficiary has a prescribed flow rate of more than 4 liters per minute and—
 
-(i) Owns portable liquid oxygen equipment described in paragraph (e)(1)(iii) of this section; or Code of Federal Regulations/Title 42 - Public Health/Vol. 3/2017-10-0166
+(i) Owns portable liquid oxygen equipment described in paragraph (e)(1)(iii) of this section; or Code of Federal Regulations/Title 42—Public Health/Vol. 3/2017-10-0166
 
 (ii) Rents portable liquid oxygen equipment described in paragraph (e)(1)(iii) of this section during the period of continuous use of 36 months described in paragraph (a)(1) of this section and does not rent stationary oxygen equipment; or
 
@@ -126,7 +126,7 @@
 
 (ii) If the attending physician prescribes an oxygen flow rate of less than one liter per minute, the fee schedule amount is decreased by 50 percent.
 
-(2) If portable oxygen equipment is used and the prescribed oxygen flow rate exceeds four liters per minute, the total fee schedule amount recognized for payment is limited to the higher of -
+(2) If portable oxygen equipment is used and the prescribed oxygen flow rate exceeds four liters per minute, the total fee schedule amount recognized for payment is limited to the higher of—
 
 (i) The sum of the monthly fee schedule amount for the items described in paragraphs (c)(1)(i) and (c)(1)(ii) or (c)(1)(iii) of this section; or
 
@@ -140,19 +140,19 @@
 
 (iii) If the prescribed flow rate is different for nighttime use and daytime use, the average of the two flow rates is used.
 
-(h) *Furnishing oxygen and oxygen equipment after the 36-month rental cap.* (1) The supplier that furnishes oxygen equipment for the 36th continuous month during which payment is made under this section must -
+(h) *Furnishing oxygen and oxygen equipment after the 36-month rental cap.* (1) The supplier that furnishes oxygen equipment for the 36th continuous month during which payment is made under this section must—
 
 (i) Continue to furnish the equipment during any period of medical need for the remainder of the reasonable useful lifetime established for the equipment in accordance with § 414.210(f)(1); or
 
 (ii) Arrange for furnishing the oxygen equipment with another supplier if the beneficiary relocates to an area that is outside the normal service area of the supplier that initially furnished the equipment.
 
-(2) The supplier that furnishes liquid or gaseous oxygen equipment (stationary or portable) for the 36th continuous month during which payment is made under this section must -
+(2) The supplier that furnishes liquid or gaseous oxygen equipment (stationary or portable) for the 36th continuous month during which payment is made under this section must—
 
 (i) Continue to furnish the oxygen contents necessary for the effective use of the liquid or gaseous equipment during any period of medical need for the remainder of the reasonable useful lifetime established for the equipment in accordance with § 414.210(f)(1); or
 
 (ii) Arrange for furnishing the oxygen contents with another supplier if the beneficiary relocates to an area that is outside the normal service area of the supplier that initially furnished the equipment.
 
-(i) *Additional supplier requirements for rentals that begin on or after January 1, 2007.* (1) The supplier that furnishes oxygen equipment for the first month during which payment is made under this section must continue to furnish the equipment for the entire 36-month period of continuous use, unless medical necessity ends or -
+(i) *Additional supplier requirements for rentals that begin on or after January 1, 2007.* (1) The supplier that furnishes oxygen equipment for the first month during which payment is made under this section must continue to furnish the equipment for the entire 36-month period of continuous use, unless medical necessity ends or—
 
 (i) The item becomes subject to a competitive acquisition program implemented in accordance with section 1847(a) of the Act;
 

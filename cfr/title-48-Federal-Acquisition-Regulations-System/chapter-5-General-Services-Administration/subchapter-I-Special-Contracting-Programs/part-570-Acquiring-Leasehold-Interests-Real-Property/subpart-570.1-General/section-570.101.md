@@ -1,5 +1,7 @@
 ##### 570.101 Applicability. #####
 
+Link to an amendment published at 87 FR 7395, Feb. 9, 2022.
+
 (a) This part applies to acquisitions of leasehold interests in real property except:
 
 (1) Leasehold interests acquired by the power of eminent domain or by donation.

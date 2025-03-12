@@ -6,6 +6,12 @@ The New Markets Tax Credit (NMTC) program is administered by the U.S. Department
 
 (2) The provisions of § 5001.127(f) notwithstanding, a lender that is a CDE or sub-CDE may have an ownership interest in the borrower provided that each condition specified in paragraphs (a)(2)(i) through (iii) of this section is met.
 
+(i) The lender does not have an ownership interest in the borrower prior to the application.
+
+(ii) The lender does not take a controlling interest in the borrower.
+
+(iii) The lender does not provide equity or take an ownership interest in a borrower at a level that would result in the lender owning 20 percent or more interest in the borrower.
+
 (3) Notwithstanding § 5001.115(f), a lender that is a CDE or sub-CDE taking an ownership interest in the borrower does not constitute a conflict of interest. The Agency will mitigate the potential for a conflict of interest by requiring appropriate loan covenants establishing, at a minimum, limitations on dividends and distributions of earnings in the loan agreement between the lender and borrower. The Agency will also ensure that the lender limits any waivers of loan covenants and future modifications of loan documents in compliance with this part.
 
 (4) Guaranteed loans made by a lender directly to a QALICB must meet all other program and project eligibility requirements as specified in this part.
@@ -54,4 +60,4 @@ The New Markets Tax Credit (NMTC) program is administered by the U.S. Department
 
 (13) Sections 5001.401 through 5001.408 of this part apply to both the borrower and the QALICB in a NMTC transaction.
 
-[85 FR 42518, July 14, 2020, as amended at 86 FR 70356, Dec. 10, 2021]
+[85 FR 42518, July 14, 2020, as amended at 86 FR 70356, Dec. 10, 2021; 87 FR 7367, Feb. 9, 2022]

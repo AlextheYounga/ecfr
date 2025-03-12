@@ -1,5 +1,7 @@
 ##### 552.239-71 Security Requirements for Unclassified Information Technology Resources. #####
 
+Link to an amendment published at 87 FR 7395, Feb. 9, 2022.
+
 As prescribed in 539.7002(b), insert the following clause:
 
 Security Requirements for Unclassified Information Technology Resources (JAN 2012)
