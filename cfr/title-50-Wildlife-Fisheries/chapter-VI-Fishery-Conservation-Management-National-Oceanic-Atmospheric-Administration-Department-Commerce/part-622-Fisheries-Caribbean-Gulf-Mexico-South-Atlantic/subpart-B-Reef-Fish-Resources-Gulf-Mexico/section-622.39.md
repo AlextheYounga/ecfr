@@ -1,12 +1,10 @@
 ##### § 622.39 Quotas. #####
 
-Link to an amendment published at 84 FR 7830, Mar. 5, 2019.
-
 See § 622.8 for general provisions regarding quota applicability and closure and reopening procedures. This section, provides quotas and specific quota closure restrictions for Gulf reef fish.
 
 (a) *Gulf reef fish* - (1) *Commercial quotas.* The following quotas apply to persons who fish under commercial vessel permits for Gulf reef fish, as required under § 622.20(a)(1).
 
-(i) *Commercial quota for red snapper.* For fishing year 2017 and subsequent fishing years - 7.007 million lb (3.178 million kg), round weight.
+(i) Commercial quota for red snapper - 7.701 million lb (3.493 million kg), round weight.
 
 (ii) Deep-water groupers (DWG) have a combined quota, as specified in paragraphs (a)(1)(ii)(A) through (C) of this section. These quotas are specified in gutted weight, that is eviscerated, but otherwise whole.
 
@@ -44,11 +42,11 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (2) *Recreational quotas.* The following quotas apply to persons who fish for Gulf reef fish other than under commercial vessel permits for Gulf reef fish and the applicable commercial quotas specified in paragraph (a)(1) of this section.
 
-(i) *Recreational quota for red snapper* - (A) *Total recreational quota (Federal charter vessel/headboat and private angling component quotas combined).* For fishing year 2017 and subsequent fishing years - 6.733 million lb (3.054 million kg), round weight.
+(i) *Recreational quota for red snapper* - (A) *Total recreational.* The total recreational quota is 7.399 million lb (3.356 million kg), round weight.
 
-(B) *Federal charter vessel/headboat component quota.* The Federal charter vessel/headboat component quota applies to vessels that have been issued a valid Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. This component quota is effective for only the 2015 through 2022 fishing years. For the 2023 and subsequent fishing years, the applicable total recreational quota, specified in paragraph (a)(2)(i)(A) of this section, will apply to the recreational sector. For fishing years 2017 through 2022 - 2.848 million lb (1.292 million kg), round weight.
+(B) *Federal charter vessel/headboat component quota.* The Federal charter vessel/headboat component quota applies to vessels that have been issued a valid Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. This component quota is effective through the 2022 fishing year. For the 2023 and subsequent fishing years, the applicable total recreational quota, specified in paragraph (a)(2)(i)(A) of this section, will apply to the recreational sector. The Federal charter vessel/headboat component quota is 3.130 million lb (1.420 million kg), round weight.
 
-(C) *Private angling component quota.* The private angling component quota applies to vessels that fish under the bag limit and have not been issued a Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. This component quota is effective for only the 2015 through 2022 fishing years. For the 2023 and subsequent fishing years, the applicable total recreational quota, specified in paragraph (a)(2)(i)(A) of this section, will apply to the recreational sector. For fishing years 2017 through 2022 - 3.885 million lb (1.762 million kg), round weight.
+(C) *Private angling component quota.* The private angling component quota applies to vessels that fish under the bag limit and have not been issued a Federal charter vessel/headboat permit for Gulf reef fish any time during the fishing year. This component quota is effective through the 2022 fishing year. For the 2023 and subsequent fishing years, the applicable total recreational quota, specified in paragraph (a)(2)(i)(A) of this section, will apply to the recreational sector. The private angling component quota is 4.269 million lb (1.936 million kg), round weight.
 
 (ii) *Recreational quota for greater amberjack.* (A) For the 2017-2018 fishing year - 716,173 lb (324,851 kg).
 
@@ -62,4 +60,4 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (c) *Restrictions applicable after a recreational quota closure or recreational component quota closure.* The bag limit for the applicable species for the recreational sector or recreational sector component in or from the Gulf EEZ is zero. When the Federal charter vessel/headboat component is closed or the entire recreational sector is closed, this bag and possession limit applies in the Gulf on board a vessel for which a valid Federal charter vessel/headboat permit for Gulf reef fish has been issued, without regard to where such species were harvested, *i.e.,* in state or Federal waters.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 32181, May 29, 2013; 78 FR 57318, Sept. 18, 2013; 79 FR 6100, Feb. 3, 2014; 79 FR 72556, Dec. 8, 2014; 80 FR 22430, Apr. 22, 2015; 80 FR 24835, May 1, 2015; 80 FR 74001, Nov. 27, 2015; 80 FR 75436, Dec. 2, 2015; 81 FR 25583, Apr. 28, 2016; 81 FR 70368, Oct. 12, 2016; 81 FR 86973, Dec. 2, 2016; 82 FR 26377, June 7, 2017; 82 FR 61487, Dec. 28, 2017; 83 FR 13428, Mar. 29, 2018]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 32181, May 29, 2013; 78 FR 57318, Sept. 18, 2013; 79 FR 6100, Feb. 3, 2014; 79 FR 72556, Dec. 8, 2014; 80 FR 22430, Apr. 22, 2015; 80 FR 24835, May 1, 2015; 80 FR 74001, Nov. 27, 2015; 80 FR 75436, Dec. 2, 2015; 81 FR 25583, Apr. 28, 2016; 81 FR 70368, Oct. 12, 2016; 81 FR 86973, Dec. 2, 2016; 82 FR 26377, June 7, 2017; 82 FR 61487, Dec. 28, 2017; 83 FR 13428, Mar. 29, 2018; 84 FR 7830, Mar. 5, 2019]

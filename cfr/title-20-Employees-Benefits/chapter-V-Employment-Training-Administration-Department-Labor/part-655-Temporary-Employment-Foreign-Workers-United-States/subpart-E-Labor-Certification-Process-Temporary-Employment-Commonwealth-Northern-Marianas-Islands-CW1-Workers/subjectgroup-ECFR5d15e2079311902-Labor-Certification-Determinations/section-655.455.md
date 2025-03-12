@@ -1,0 +1,5 @@
+##### § 655.455 Validity of temporary labor certification. #####
+
+(a) *Validity period.* A TLC is valid only for the period of employment as approved on the *CW-1 Application for Temporary Employment Certification.* The certification expires after the last day of authorized employment, including any approved extensions thereof.
+
+(b) *Scope of validity.* A TLC is valid only for the number of CW-1 positions, the places of employment located in the Commonwealth, the job classification and specific services or labor to be performed, and the employer(s) specified on the approved *CW-1 Application for Temporary Employment Certification,* including any approved modifications. The TLC may not be transferred from one employer to another unless the employer to which it is transferred is a successor in interest to the employer to which it was issued.

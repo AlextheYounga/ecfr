@@ -1,0 +1,7 @@
+##### § 655.430 Review of applications. #####
+
+(a) *NPC review.* The CO will review the *CW-1 Application for Temporary Employment Certification* for compliance with all applicable program requirements, including compliance with the requirements set forth in this subpart, and make a decision as to whether to issue a NOD under § 655.431 or a Notice of Acceptance (NOA) under § 655.433.
+
+(b) *Mailing and postmark requirements.* Any notice or request sent by the CO to an employer requiring a response will be sent electronically or via first class mail using the address, including electronic mail address, provided on the *CW-1 Application for Temporary Employment Certification.* The employer's response to such a notice or request must be filed electronically or via first class mail. The employer's response must be filed electronically or postmarked by the date due or the next business day if the due date falls on a Saturday, Sunday, or Federal Holiday.
+
+(c) *Information dissemination.* OFLC may forward, to DHS or any other Federal Government Official performing an investigation, inspection, audit, or law enforcement function, information OFLC receives in the course of processing a request for a *CW-1 Application for Temporary Employment Certification* or of administering program integrity measures such as audits.

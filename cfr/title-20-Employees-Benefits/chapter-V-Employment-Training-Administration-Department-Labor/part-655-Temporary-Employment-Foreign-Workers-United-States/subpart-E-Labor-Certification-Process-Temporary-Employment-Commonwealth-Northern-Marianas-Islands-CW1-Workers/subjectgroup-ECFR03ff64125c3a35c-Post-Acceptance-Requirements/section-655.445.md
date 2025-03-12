@@ -1,0 +1,7 @@
+##### § 655.445 Additional employer-conducted recruitment. #####
+
+(a) *Requirement to conduct additional recruitment.* The employer may be instructed by the CO to conduct additional reasonable recruitment. Such recruitment may be required at the discretion of the CO where the CO has determined that there is a likelihood that U.S. workers who are qualified will be available for the work.
+
+(b) *Nature of the additional employer-conducted recruitment.* The CO will describe the precise number and nature of the additional recruitment efforts. Additional recruitment may include, but is not limited to, advertising the job offer on the employer's website or another electronic job search website; advertising with community-based organizations, local unions, or trade unions; or other advertising using a professional, trade, or other publication where such a publication is appropriate for the workers likely to apply for the job opportunity. When assessing the appropriateness of a particular recruitment method, the CO will consider the cost of the additional recruitment and the likelihood that the additional recruitment method(s) will identify qualified and available U.S. workers.
+
+(c) *Proof of the additional employer-conducted recruitment.* The CO will specify the documentation or other supporting evidence that must be retained by the employer as proof that the additional recruitment requirements were met. Documentation must be retained as required in § 655.456.

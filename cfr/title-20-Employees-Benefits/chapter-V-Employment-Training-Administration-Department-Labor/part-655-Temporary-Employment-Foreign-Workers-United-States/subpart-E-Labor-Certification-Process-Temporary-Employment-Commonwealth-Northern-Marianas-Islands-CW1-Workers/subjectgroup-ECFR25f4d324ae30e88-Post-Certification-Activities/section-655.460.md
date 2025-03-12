@@ -1,0 +1,7 @@
+##### § 655.460 Extensions. #####
+
+(a) *Basis for extension.* Under certain circumstances an employer may apply for extensions of the period of employment. A request for extension must be related to weather conditions or other factors beyond the control of the employer (which may include unforeseen changes in market conditions). Such requests must be supported in writing, with documentation showing that the extension is needed and that the need could not have been reasonably foreseen by the employer. The CO will not grant an extension where the total period of employment under that *CW-1 Application for Temporary Employment Certification* and the authorized extension would exceed the maximum applicable duration permitted under § 655.420(g).
+
+(b) *Decision by the CO.* The CO will notify the employer of the decision in writing. The employer may appeal a denial of a request for an extension by following the appeal procedures in § 655.461.
+
+(c) *Obligations during period of extension.* The CW-1 employer's assurances and obligations under the TLC will continue to apply during the extended period of employment. The employer must immediately provide to its CW-1 workers and workers in corresponding employment a copy of any approved extension.

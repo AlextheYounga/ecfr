@@ -1,0 +1,3 @@
+##### § 655.401 Authority of the agencies, offices, and divisions in the Department of Labor. #####
+
+The Secretary has delegated authority to the Assistant Secretary for the Employment and Training Administration (ETA), who in turn has delegated that authority to the Office of Foreign Labor Certification (OFLC), to issue certifications and carry out other statutory responsibilities as required by 48 U.S.C. 1806. Determinations on a *CW-1 Application for Temporary Employment Certification* are made by the OFLC Administrator who, in turn, may delegate this responsibility to designated staff members, e.g., a Certifying Officer (CO).
