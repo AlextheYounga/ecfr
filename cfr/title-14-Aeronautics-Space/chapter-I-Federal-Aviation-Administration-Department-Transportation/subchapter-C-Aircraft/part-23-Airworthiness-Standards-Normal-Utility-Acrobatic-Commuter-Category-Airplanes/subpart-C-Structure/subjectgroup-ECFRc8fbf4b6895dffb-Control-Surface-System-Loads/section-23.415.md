@@ -15,7 +15,7 @@ H = K c S qwhere -H = limit hinge moment (ft.-lbs.);c = mean chord of the contro
 |(a) Aileron |0.75 |             Control column locked lashed in mid-position.             |
 |(b) Aileron |±0.50|Ailerons at full throw; + moment on one aileron, − moment on the other.|
 |(c) Elevator|±0.75|                       (c) Elevator full up (−).                       |
-|(d) Elevator|     |                     (d) Elevator full down ( + ).                     |
+|(d) Elevator|     |                      (d) Elevator full down (+).                      |
 | (e) Rudder |±0.75|                        (e) Rudder in neutral.                         |
 | (f) Rudder |     |                       (f) Rudder at full throw.                       |
 

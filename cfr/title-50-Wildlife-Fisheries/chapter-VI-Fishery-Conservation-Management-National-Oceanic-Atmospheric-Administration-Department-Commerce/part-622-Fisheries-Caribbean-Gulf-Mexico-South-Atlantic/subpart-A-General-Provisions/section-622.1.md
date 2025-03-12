@@ -1,5 +1,7 @@
 ##### § 622.1 Purpose and scope. #####
 
+Link to an amendment published at 82 FR 34580, July 25, 2017.Link to an amendment published at 82 FR 34594, July 25, 2017.
+
 (a) The purpose of this part is to implement the FMPs prepared under the Magnuson-Stevens Act by the CFMC, GMFMC, and/or SAFMC listed in Table 1 of this section.
 
 (b) This part governs conservation and management of species included in the FMPs in or from the Caribbean, Gulf, Mid-Atlantic, South Atlantic, or Atlantic EEZ, unless otherwise specified, as indicated in Table 1 of this section. For the FMPs noted in the following table, conservation and management extends to adjoining state waters for the purposes of data collection and monitoring.

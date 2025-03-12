@@ -318,7 +318,7 @@ Whether that commerce moves wholly by aircraft of partly by aircraft and partly 
 
 *Long-range communication system (LRCS).* A system that uses satellite relay, data link, high frequency, or another approved communication system which extends beyond line of sight.
 
-*Long-range navigation system (LRNS).* An electronic navigation unit that is approved for use under instrument flight rules as a primary means of navigation, and has at least one source of navigational input, such as inertial navigation system, global positioning system, Omega/very low frequency, or Loran C.
+*Long-range navigation system (LRNS).* An electronic navigation unit that is approved for use under instrument flight rules as a primary means of navigation, and has at least one source of navigational input, such as inertial navigation system or global positioning system.
 
 *Mach number* means the ratio of true airspeed to the speed of sound.
 

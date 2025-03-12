@@ -1,5 +1,7 @@
 ##### 1816.001 Definitions. #####
 
+Link to an amendment published at 82 FR 34418, July 25, 2017.
+
 As used in this part -
 
 *Earned award fee* means the payment of the full amount of an award fee evaluation period's score/rating.

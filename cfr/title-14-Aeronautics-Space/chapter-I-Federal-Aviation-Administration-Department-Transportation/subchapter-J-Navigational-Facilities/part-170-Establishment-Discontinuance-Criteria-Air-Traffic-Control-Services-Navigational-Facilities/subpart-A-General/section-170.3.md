@@ -60,8 +60,6 @@ For purposes of this subpart -
 
 *Life cycle costs* means the value of research and development costs, investment costs, operation costs, maintenance costs, and termination costs over the life span of a facility or service.
 
-*LORAN-C* means an electronic navigational system by which hyperbolic lines of position are determined by measuring differences in time of reception of synchronized pulse signals from two fixed transmitters.
-
 *Maintenance costs* means the costs incurred in servicing and maintaining a facility after establishment.
 
 *Mean sea level* (MSL) means the base commonly used in measuring altitudes.
@@ -104,4 +102,4 @@ For purposes of this subpart -
 
 *Visual meteorological conditions* (VMC) means meteorological conditions expressed in terms of visibility, distance from clouds, and ceiling equal to or better than specified minima.
 
-[56 FR 341, Jan. 3, 1991, as amended by Amdt. 170-3, 66 FR 21067, Apr. 27, 2001]
+[56 FR 341, Jan. 3, 1991, as amended by Amdt. 170-3, 66 FR 21067, Apr. 27, 2001; Docket FAA-2017-0733, Amdt. 170-4, 82 FR 34400, July 25, 2017]

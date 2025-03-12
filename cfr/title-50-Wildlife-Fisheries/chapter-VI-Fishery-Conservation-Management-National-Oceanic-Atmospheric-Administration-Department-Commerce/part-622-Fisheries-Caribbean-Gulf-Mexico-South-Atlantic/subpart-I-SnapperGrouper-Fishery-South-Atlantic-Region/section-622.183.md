@@ -1,6 +1,6 @@
 ##### § 622.183 Area and seasonal closures. #####
 
-Link to an amendment published at 82 FR 29775, June 30, 2017.
+Link to an amendment published at 82 FR 29775, June 30, 2017.Link to an amendment published at 82 FR 34594, July 25, 2017.
 
 (a) *Area closures* - (1) *Marine protected areas (MPAs).* (i) No person may fish for a South Atlantic snapper-grouper in an MPA, and no person may possess a South Atlantic snapper-grouper in an MPA. However, the prohibition on possession does not apply to a person aboard a vessel that is in transit with fishing gear appropriately stowed as specified in paragraph (a)(1)(ii) of this section. In addition to these restrictions, see § 635.21(d)(1)(iii) of this chapter regarding restrictions applicable within these MPAs for any vessel issued a permit under part 635 of this chapter that has longline gear on board. MPAs consist of deepwater areas as follows:
 

@@ -1,5 +1,7 @@
 ##### § 622.38 Bag and possession limits. #####
 
+Link to an amendment published at 82 FR 34581, July 25, 2017.
+
 (a) *Additional applicability provisions for Gulf reef fish.* (1) Section 622.11(a) provides the general applicability for bag and possession limits. However, § 622.11(a) notwithstanding, bag and possession limits also apply for Gulf reef fish in or from the EEZ to a person aboard a vessel that has on board a commercial permit for Gulf reef fish -
 
 (i) When trawl gear or entangling net gear is on board. A vessel is considered to have trawl gear on board when trawl doors and a net are on board. Removal from the vessel of all trawl doors or all nets constitutes removal of trawl gear.

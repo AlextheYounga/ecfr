@@ -112,7 +112,7 @@
 
 (3) An accounting employee shall review handle, commission, and breakage for each day's play and recalculate the net amount due to or from the systems operator on a weekly basis.
 
-(4) The accounting employee shall verify actual cash/cash equivalents turned in to the system's summary report for each cashier's drawer (Beginning balance, ( + ) fills (draws), ( + ) net write (sold less voids), (−) payouts (net of IRS withholding), (−) cashbacks (paids), (=) cash turn-in).
+(4) The accounting employee shall verify actual cash/cash equivalents turned in to the system's summary report for each cashier's drawer (Beginning balance, (+) fills (draws), (+) net write (sold less voids), (−) payouts (net of IRS withholding), (−) cashbacks (paids), (=) cash turn-in).
 
 (5) An accounting employee shall produce a gross revenue recap report to calculate gross revenue for each day's play and for a month-to-date basis, including the following totals:
 

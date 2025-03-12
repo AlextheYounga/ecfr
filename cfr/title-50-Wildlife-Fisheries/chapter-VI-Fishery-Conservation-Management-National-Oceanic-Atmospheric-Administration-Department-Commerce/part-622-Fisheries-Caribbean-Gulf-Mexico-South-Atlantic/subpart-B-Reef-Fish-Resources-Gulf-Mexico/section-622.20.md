@@ -1,6 +1,6 @@
 ##### § 622.20 Permits and endorsements. #####
 
-Link to an amendment published at 80 FR 74712, Nov. 30, 2015.
+Link to an amendment published at 80 FR 74712, Nov. 30, 2015.Link to an amendment published at 82 FR 34580, July 25, 2017.
 
 (a) *Commercial vessels* - (1) *Commercial vessel permits.* For a person aboard a vessel to be eligible for exemption from the bag limits, to fish under a quota, as specified in § 622.39, or to sell Gulf reef fish in or from the Gulf EEZ, a commercial vessel permit for Gulf reef fish must have been issued to the vessel and must be on board. If Federal regulations for Gulf reef fish in subparts A or B of this part are more restrictive than state regulations, a person aboard a vessel for which a commercial vessel permit for Gulf reef fish has been issued must comply with such Federal regulations regardless of where the fish are harvested. See paragraph (a)(1)(i) of this section regarding a limited access system for commercial vessel permits for Gulf reef fish. See §§ 622.21(b)(1) and 622.22(b)(1), respectively, regarding an IFQ vessel account required to fish for, possess, or land Gulf red snapper or Gulf groupers and tilefishes and paragraph (a)(2) of this section regarding an additional bottom longline endorsement required to fish for Gulf reef fish with bottom longline gear in a portion of the eastern Gulf.
 

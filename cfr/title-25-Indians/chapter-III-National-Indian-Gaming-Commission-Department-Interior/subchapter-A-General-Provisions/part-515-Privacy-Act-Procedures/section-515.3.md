@@ -1,6 +1,6 @@
 ##### § 515.3 Request for access to records. #####
 
-(a) *How made and addressed.* Any individual may make a request to the Commission for access to records about him or herself. Such requests shall conform to the requirements of this section. The request may be made in person at 90 K Street NE., Suite 200, Washington, DC 20002 during the hours of 9 a.m. to 12 noon and 2 p.m. to 5 p.m. Monday through Friday, in writing at NIGC Attn: Privacy Act Officer, C/O Department of the Interior, 1849 C Street NW., Mail Stop #1621, Washington, DC 20240, or via electronic mail addressed to *PARequests@nigc.gov.*
+(a) *How made and addressed.* Any individual may make a request to the Commission for access to records about him or herself. Such requests shall conform to the requirements of this section. The request may be made in person at 90 K Street NE., Suite 200, Washington, DC 20002 during the hours of 9 a.m. to 12 noon and 2 p.m. to 5 p.m. Monday through Friday, in writing at NIGC Attn: Privacy Act Office, 1849 C Street NW., Mail Stop #1621, Washington, DC 20240, or via electronic mail addressed to *PARequests@nigc.gov.*
 
 (b) *Description of records sought.* Each request for access to records must describe the records sought in enough detail to enable Commission personnel to locate the system of records containing them with a reasonable amount of effort. Whenever possible, the request should describe the records sought, the time periods in which the records were compiled, any tribal gaming facility with which they were associated, and the name or identifying number of each system of records in which the records are kept.
 
@@ -21,3 +21,5 @@
 (f) *Verification in the case of third party information requests.* Any individual who desires to have a record covered by this part disclosed to or mailed to another person may designate such person and authorize such person to act as his or her agent for that specific purpose. The authorization shall be in writing, signed by the individual whose record is requested, and notarized or witnessed as provided in paragraph (d) of this section.
 
 (g) *In-person disclosures.* An individual to whom a record is to be disclosed in person, pursuant to this section, may have a person of his or her own choosing accompany him or her when the record is disclosed. If a requester is accompanied by another individual, the requester shall be required to authorize in writing any discussion of the records in the presence of the other person.
+
+[82 FR 8141, Jan. 24, 2017, as amended at 82 FR 34403, July 25, 2017]

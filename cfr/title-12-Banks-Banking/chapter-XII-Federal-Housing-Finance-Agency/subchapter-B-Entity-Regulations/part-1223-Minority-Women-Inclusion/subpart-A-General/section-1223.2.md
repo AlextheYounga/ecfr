@@ -1,5 +1,7 @@
 ##### § 1223.2 Policy, purpose, and scope. #####
 
+Link to an amendment published at 82 FR 34395, July 25, 2017.
+
 (a) *General policy.* FHFA's policy is to promote non-discrimination, diversity and, at a minimum, the inclusion of women, minorities, and individuals with disabilities in its own activities and in the business and activities of the regulated entities and the Office of Finance.
 
 (b) *Purpose.* This part establishes minimum standards and requirements for the regulated entities and the Office of Finance to promote diversity and ensure, to the maximum extent possible in balance with financially safe and sound business practices, the inclusion and utilization of minorities, women, individuals with disabilities, and minority-, women-, and disabled-owned businesses at all levels, in management and employment, in all business and activities, and in all contracts for services of any kind, including services that require the services of investment banking, asset management entities, broker-dealers, financial services entities, underwriters, accountants, investment consultants, and providers of legal services.

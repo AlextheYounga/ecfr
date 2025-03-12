@@ -1,5 +1,7 @@
 ##### § 622.37 Size limits. #####
 
+Link to an amendment published at 82 FR 34581, July 25, 2017.
+
 All size limits in this section are minimum size limits unless specified otherwise. A fish not in compliance with its size limit, as specified in this section, in or from the Gulf EEZ, may not be possessed, sold, or purchased. A fish not in compliance with its size limit must be released immediately with a minimum of harm. The operator of a vessel that fishes in the EEZ is responsible for ensuring that fish on board are in compliance with the size limits specified in this section. See § 622.10 regarding requirements for landing fish intact.
 
 (a) *Snapper* - (1) *Red snapper* - 16 inches (40.6 cm), TL, for a fish taken by a person subject to the bag limit specified in § 622.38 (b)(3) and 13 inches (33.0 cm), TL, for a fish taken by a person not subject to the bag limit.

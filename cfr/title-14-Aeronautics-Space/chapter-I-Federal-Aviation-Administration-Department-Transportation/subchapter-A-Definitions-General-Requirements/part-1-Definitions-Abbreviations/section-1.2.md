@@ -26,8 +26,6 @@ In Subchapters A through K of this chapter:
 
 *CMP* means configuration, maintenance, and procedures.
 
-*CONSOL* or *CONSOLAN* means a kind of low or medium frequency long range navigational aid.
-
 *DH* means decision height.
 
 *DME* means distance measuring equipment compatible with TACAN.

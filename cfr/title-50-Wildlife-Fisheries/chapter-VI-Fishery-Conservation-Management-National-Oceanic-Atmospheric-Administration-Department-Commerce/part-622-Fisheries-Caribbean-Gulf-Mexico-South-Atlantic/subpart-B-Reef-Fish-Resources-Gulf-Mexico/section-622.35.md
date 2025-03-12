@@ -1,5 +1,7 @@
 ##### § 622.35 Gear restricted areas. #####
 
+Link to an amendment published at 82 FR 34580, July 25, 2017.
+
 (a) *Reef fish stressed area.* The stressed area is that part of the Gulf EEZ shoreward of rhumb lines connecting, in order, the points listed in Table 2 in Appendix B of this part.
 
 (1) A powerhead may not be used in the stressed area to take Gulf reef fish. Possession of a powerhead and a mutilated Gulf reef fish in the stressed area or after having fished in the stressed area constitutes *prima facie* evidence that such reef fish was taken with a powerhead in the stressed area. The provisions of this paragraph do not apply to hogfish.

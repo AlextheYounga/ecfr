@@ -1,5 +1,7 @@
 ##### § 1223.22 Regulated entity and Office of Finance reports. #####
 
+Link to an amendment published at 82 FR 34396, July 25, 2017.
+
 (a) *General.* Each regulated entity and the Office of Finance, through its Office of Minority and Women Inclusion, or other office designated to perform the responsibilities of this part, shall report in writing, in such format as the Director may require, to the Director describing its efforts to promote diversity and ensure the inclusion and utilization of minorities, women, individuals with disabilities, and minority-, women-, and disabled-owned businesses at all levels, in management and employment, in all business and activities, and in all contracts for services and the results of such efforts.
 
 (1) Within 180 days after the effective date of this regulation each regulated entity and the Office of Finance shall submit to the Director or his or her designee a preliminary status report describing actions taken, plans for and progress toward implementing the provisions of 12 U.S.C. 4520 and this part; and including to the extent available the data and information required by this part to be included in an annual report.

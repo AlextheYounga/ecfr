@@ -1,5 +1,7 @@
 ##### § 1223.1 Definitions. #####
 
+Link to an amendment published at 82 FR 34394, July 25, 2017.
+
 The following definitions apply to the terms used in this part:
 
 *Business and activities* means operational, commercial, and economic endeavors of any kind, whether for profit or not for profit and whether regularly or irregularly engaged in by a regulated entity or the Office of Finance, and includes, but is not limited to, management of the regulated entity or the Office of Finance, employment, procurement, insurance, and all types of contracts, including contracts for the issuance or guarantee of any debt, equity, or mortgage-related securities, the management of mortgage and securities portfolios, the making of equity investments, the purchase, sale and servicing of single- and multi-family mortgage loans, and the implementation of affordable housing or community investment programs and initiatives.
