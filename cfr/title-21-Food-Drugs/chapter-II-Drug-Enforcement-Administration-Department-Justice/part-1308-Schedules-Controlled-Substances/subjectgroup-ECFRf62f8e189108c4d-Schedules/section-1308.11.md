@@ -315,12 +315,10 @@ Link to an amendment published at 84 FR 13796, Apr. 8, 2019.
 
 8. At 83 FR 5191, Feb. 6, 2018, § 1308.11 was amended by adding paragraph (h)(30), effective Feb. 6, 2018, through Feb. 6, 2020.
 
-9. At 83 FR 10368, Mar. 9, 2018, § 1308.11 was amended by revising paragraphs (h)(23) and (h)(29), effective Mar. 9, 2018, through Feb. 1, 2020.
+9. At 83 FR 31882, July 10, 2018, § 1308.11 was amended by adding paragraphs (h)(31) through (h)(35) effective July 10, 2018 through July 10, 2020.
 
-10. At 83 FR 31882, July 10, 2018, § 1308.11 was amended by adding paragraphs (h)(31) through (h)(35) effective July 10, 2018 through July 10, 2020.
+10. At 83 FR 44478, Aug. 31, 2018, § 1308.11 was amended by adding paragraph (h)(36) effective Aug. 31, 2018 through Aug. 31, 2020.
 
-11. At 83 FR 44478, Aug. 31, 2018, § 1308.11 was amended by adding paragraph (h)(36) effective Aug. 31, 2018 through Aug. 31, 2020.
+11. At 84 FR 15511, Apr. 16, 2019, § 1308.11 was amended by adding paragraphs (h)(37) through (h)(41) effective Apr. 16, 2019 through Apr. 16, 2021.
 
-12. At 84 FR 15511, Apr. 16, 2019, § 1308.11 was amended by adding paragraphs (h)(37) through (h)(41) effective Apr. 16, 2019 through Apr. 16, 2021.
-
-13. At 84 FR 34297, July 17, 2019, § 1308.11 was amended by adding paragraphs (h)(42) through (h)(47) effective July 18, 2019 through July 18, 2021.
+12. At 84 FR 34297, July 17, 2019, § 1308.11 was amended by adding paragraphs (h)(42) through (h)(47) effective July 18, 2019 through July 18, 2021.

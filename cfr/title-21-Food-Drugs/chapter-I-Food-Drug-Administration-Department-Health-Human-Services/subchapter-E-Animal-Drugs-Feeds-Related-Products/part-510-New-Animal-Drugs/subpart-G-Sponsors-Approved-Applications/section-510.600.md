@@ -1,7 +1,5 @@
 ##### § 510.600 Names, addresses, and drug labeler codes of sponsors of approved applications. #####
 
-Link to an amendment published at 85 FR 4207, Jan. 24, 2020.
-
 (a) Section 512(i) of the act requires publication of names and addresses of sponsors of approved applications for new animal drugs.
 
 (b) In this section each name and address is identified by a numerical drug labeler code. The labeler codes identify the sponsors of the new animal drug applications associated with the regulations published pursuant to section 512(i) of the act. The codes appear in the appropriate regulations and serve as a reference to the names and addresses listed in this section. The drug labeler code is established pursuant to section 510 of the act.
@@ -43,7 +41,6 @@ Link to an amendment published at 85 FR 4207, Jan. 24, 2020.
 |                                                           Elanco US Inc., 2500 Innovation Way, Greenfield, IN 46140                                                            |     058198      |
 |                                                        Farnam Companies, Inc., 301 West Osborn, Phoenix, AZ 85013-3928                                                         |     017135      |
 |                                                           First Priority, Inc., 1590 Todd Farm Dr., Elgin, IL 60123                                                            |     058829      |
-|                                                        Fleming Laboratories, Inc., P.O. Box 34384, Charlotte, NC 28234                                                         |     015565      |
 |                                                Fougera Pharmaceuticals, Inc., P.O. Box 2006, 60 Baylis Rd., Melville, NY 11747                                                 |     025463      |
 |                                                       G. C. Hanford Manufacturing Co., P.O. Box 1017, Syracuse, NY 13201                                                       |     010515      |
 |                                                      GTC Biotherapeutics, Inc., 175 Crossing Blvd., Framingham, MA 01702                                                       |     042976      |
@@ -122,7 +119,6 @@ Link to an amendment published at 85 FR 4207, Jan. 24, 2020.
 |     012578      |                                                       Janssen Pharmaceutica NV, Turnhoutseweg 30, B-2340 Beerse, Belgium.                                                       |
 |     013744      |                                                    Ceva Sante Animale, 10 Avenue de la Ballastière, 33500 Libourne, France.                                                     |
 |     015331      |                                                          Pharmaq AS, Skogmo Industriomrade, N-7863 Overhalla, Norway.                                                           |
-|     015565      |                                                        Fleming Laboratories, Inc., P.O. Box 34384, Charlotte, NC 28234.                                                         |
 |     015914      |                                                   Modern Veterinary Therapeutics, LLC, 14343 SW 119th Ave., Miami, FL 33186.                                                    |
 |     016592      |                                                    Huvepharma EOOD, 5th Floor, 3A Nikolay Haytov Str., 1113 Sofia, Bulgaria.                                                    |
 |     016729      |                                                    Accord Healthcare, Inc., 1009 Slater Rd., suite 210-B, Durham, NC 27703.                                                     |
