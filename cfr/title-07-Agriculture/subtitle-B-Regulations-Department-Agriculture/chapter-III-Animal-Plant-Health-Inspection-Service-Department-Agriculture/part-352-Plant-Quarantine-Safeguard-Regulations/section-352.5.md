@@ -1,5 +1,7 @@
 ##### § 352.5 Permit; requirement, form and conditions. #####
 
+Link to an amendment published at 84 FR 29966, June 25, 2019.
+
 (a) *General.* (1) Permits are required for the arrival, unloading or landing, or other movement into or through the United States of plants, plant products, plant pests, noxious weeds, and soil subject to this part. The permit may consist of a general authorization as set out in paragraph (b), (c), or (d) of this section or § 352.11, or it may be a specific permit. A specific permit may be formal or oral except as a formal permit is required by paragraph (c) or (e) of this section. The Deputy Administrator may in administrative instructions require specific or formal permits for any class of products or articles subject to this part.
 
 (2) A formal permit may be issued in prescribed form, in letter form, or a combination thereof. A rubber stamp impression or other endorsement made by the inspector on pertinent Customs documents covering the products or articles involved may constitute the formal permit in appropriate cases.

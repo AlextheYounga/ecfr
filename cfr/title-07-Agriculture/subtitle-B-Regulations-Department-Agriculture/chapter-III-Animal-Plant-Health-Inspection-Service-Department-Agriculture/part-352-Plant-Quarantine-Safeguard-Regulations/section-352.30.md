@@ -1,5 +1,7 @@
 ##### § 352.30 Untreated oranges, tangerines, and grapefruit from Mexico. #####
 
+Link to an amendment published at 84 FR 29967, June 25, 2019.
+
 The following provisions shall apply to the movement into or through the United States under this part of untreated oranges, tangerines, and grapefruit from Mexico in transit to foreign countries via United States ports on the Mexican border.
 
 (a) *Untreated fruit; general* - (1) *Permit and notice of arrival required.* The owner shall, in advance of shipment of untreated oranges, tangerines, or grapefruit from Mexico via United States ports to any foreign country, procure a formal permit as provided in § 352.6, or application for permit may be submitted to the inspector at the port in the United States through which the shipment will move. Notice of arrival of such fruit shall be submitted as required by § 352.7.

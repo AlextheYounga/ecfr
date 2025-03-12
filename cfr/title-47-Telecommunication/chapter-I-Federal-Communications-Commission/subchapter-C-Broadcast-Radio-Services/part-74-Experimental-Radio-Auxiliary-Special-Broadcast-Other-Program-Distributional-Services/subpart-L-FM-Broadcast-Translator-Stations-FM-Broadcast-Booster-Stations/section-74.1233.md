@@ -1,6 +1,6 @@
 ##### § 74.1233 Processing FM translator and booster station applications. #####
 
-Link to an amendment published at 84 FR 27741, June 14, 2019.
+Link to an amendment published at 84 FR 27741, June 14, 2019.Link to a correction to the above amendment published at 84 FR 29806, June 25, 2019.
 
 (a) Applications for FM translator and booster stations are divided into two groups:
 

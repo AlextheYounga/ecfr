@@ -1,5 +1,7 @@
 ##### § 319.37-10 Growing media. #####
 
+Link to an amendment published at 84 FR 29958, June 25, 2019.
+
 (a) Any plants for planting at the time of importation or offer for importation into the United States shall be free of sand, soil, earth, and other growing media, except as provided in paragraph (b), (c), or (d) of this section.
 
 (b) Plants for planting from Canada may be imported in any growing medium, except as restricted in the Plants for Planting Manual. Restrictions on growing media for specific types of plants for planting imported from Canada will be added, changed, or removed in accordance with § 319.37-20.

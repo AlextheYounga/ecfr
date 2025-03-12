@@ -1,5 +1,7 @@
 ##### § 330.100 Definitions. #####
 
+Link to an amendment published at 84 FR 29958, June 25, 2019.
+
 Words used in the singular form in the regulations in this part shall be deemed to impart the plural and vice versa, as the case may demand. For the purposes of this part, unless the context otherwise requires, the following words shall be construed, respectively, to mean:
 
 *Administrative instructions.* Published documents relating to the enforcement of the regulations in this part, issued under authority of such regulations by the Deputy Administrator.

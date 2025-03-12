@@ -1,5 +1,7 @@
 ##### § 352.2 Purpose; relation to other regulations; applicability; preemption of State and local laws. #####
 
+Link to an amendment published at 84 FR 29966, June 25, 2019.
+
 (a) Importations of plants, plant products, plant pests, noxious weeds, soil, and other products and articles that may be infested or infected by or contain plant pests or noxious weeds are exempt from the prohibitions or restrictions contained in parts 319, 330, and 360 of this chapter if they meet one of the conditions in paragraphs (a)(1) through (a)(4) of this section and are moved into the United States and handled in compliance with this part. *Provided:* That these exemptions do not apply to cotton and covers imported into the United States from any country for exportation or transshipment and exportation or transportation and exportation as provided in §§ 319.8 through 319.8-26 of this chapter. Moreover, the applicable provisions of §§ 330.100 through 330.109 and 330.400 of this chapter also apply to products and articles subject to this part.
 
 (1) They are brought in temporarily where loading and landing is not intended;

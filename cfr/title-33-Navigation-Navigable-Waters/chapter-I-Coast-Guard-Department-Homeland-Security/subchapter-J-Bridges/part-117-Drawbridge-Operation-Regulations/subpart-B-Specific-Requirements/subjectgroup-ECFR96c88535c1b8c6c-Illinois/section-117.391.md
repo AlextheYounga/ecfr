@@ -20,4 +20,6 @@ The draws of the bridges operated by the City of Chicago over the Main Branch of
 
 (c) The following bridges need not be opened for the passage of vessels: The draws of South Damen Avenue, mile 6.14, over South Branch of Chicago River; all highway drawbridges between South Western Avenue, mile 6.7, and Willow Springs Road, mile 19.4, over Chicago Sanitary and Ship Canal; North Halsted Street, mile 2.85, and Division Street, mile 2.99, over North Branch Canal of Chicago River; and Division Street, mile 3.30, North Avenue, mile 3.81, Cortland Avenue, mile 4.48, Webster Avenue, mile 4.85, North Ashland Avenue, mile 4.90, and Union Pacific Railroad, mile 5.01, over North Branch of Chicago River.
 
-[CGD09-95-023, 60 FR 52311, Oct. 6, 1995, as amended by CGD09-01-148, 67 FR 31729, May 10, 2002]
+(d) The draw of the Chicago Avenue Bridge, mile 2.40, over the North Branch of the Chicago River, need not open for the passage of vessels.
+
+[CGD09-95-023, 60 FR 52311, Oct. 6, 1995, as amended by CGD09-01-148, 67 FR 31729, May 10, 2002; USCG-2019-0366, 84 FR 29804, June 25, 2019]Effective Date Note:By USCG-2019-0366, 84 FR 29804, June 25, 2019, in § 117.391, paragraph (d) was added, effective until Nov. 13, 2023.

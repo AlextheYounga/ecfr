@@ -1,5 +1,7 @@
 ##### § 319.77-4 Conditions for the importation of regulated articles. #####
 
+Link to an amendment published at 84 FR 29958, June 25, 2019.
+
 (a) *Trees and shrubs.*1 (1) Trees without roots (*e.g.,* Christmas trees) may be imported into the United States from any area of Canada without restriction under this subpart if they:
 
 1 Trees and Shrubs from Canada may be subject to additional restrictions under “

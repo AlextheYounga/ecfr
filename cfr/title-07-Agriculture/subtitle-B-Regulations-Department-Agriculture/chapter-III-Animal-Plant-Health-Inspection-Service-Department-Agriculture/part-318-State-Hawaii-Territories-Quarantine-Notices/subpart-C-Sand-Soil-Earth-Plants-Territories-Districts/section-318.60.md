@@ -1,5 +1,7 @@
 ##### § 318.60 Notice of quarantine. #####
 
+Link to an amendment published at 84 FR 29957, June 25, 2019.
+
 (a) The Secretary of Agriculture, having previously quarantined Hawaii and Puerto Rico to prevent the spread to other parts of the United States, by means of sand, soil, or earth about the roots of plants, of immature stages of certain dangerous insects, including Phyllophaga spp. (White grubs), Phytalus sp., and Adoretus sp., and of several species of termites or white ants, new to and not heretofore widely prevalent or distributed within and throughout the United States, now determines that it is necessary also to quarantine the Virgin Islands of the United States to prevent the spread of such dangerous insects from said Virgin Islands.
 
 (b) Under the authority of sections 411, 412, 414, and 434 of the Plant Protection Act (7 U.S.C. 7711, 7712, 7714, and 7754), Hawaii, Puerto Rico, and the Virgin Islands of the United States are quarantined to prevent the spread of the aforementioned dangerous insects.

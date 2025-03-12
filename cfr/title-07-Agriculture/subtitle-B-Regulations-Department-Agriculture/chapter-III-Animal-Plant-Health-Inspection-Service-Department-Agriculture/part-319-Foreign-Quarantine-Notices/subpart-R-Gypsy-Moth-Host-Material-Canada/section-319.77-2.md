@@ -1,5 +1,7 @@
 ##### § 319.77-2 Regulated articles. #####
 
+Link to an amendment published at 84 FR 29958, June 25, 2019.
+
 In order to prevent the spread of gypsy moth from Canada into noninfested areas of the United States, the gypsy moth host materials listed in paragraphs (a) through (e) of this section are designated as regulated articles. Regulated articles may be imported into the United States from Canada only under the conditions described in § 319.77-4 of this subpart.
 
 (a) Trees without roots (e.g., Christmas trees), unless they were greenhouse-grown throughout the year;

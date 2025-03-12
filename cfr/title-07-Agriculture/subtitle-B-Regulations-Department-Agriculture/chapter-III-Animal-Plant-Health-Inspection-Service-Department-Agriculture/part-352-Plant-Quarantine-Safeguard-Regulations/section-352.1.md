@@ -1,5 +1,7 @@
 ##### § 352.1 Definitions. #####
 
+Link to an amendment published at 84 FR 29966, June 25, 2019.
+
 (a) This part may be cited by the short title: “Safeguard Regulations.” This title shall be understood to include both the regulations and administrative instructions in this part.
 
 (b) Words used in the singular form in this part shall be deemed to import the plural and vice versa as the case may demand. For purposes of this part, unless the context otherwise requires, the following terms shall be construed, respectively, to mean:

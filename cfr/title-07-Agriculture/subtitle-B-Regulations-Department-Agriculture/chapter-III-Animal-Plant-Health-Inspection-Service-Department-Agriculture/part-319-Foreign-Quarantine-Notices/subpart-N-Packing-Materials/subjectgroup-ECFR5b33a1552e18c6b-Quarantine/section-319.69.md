@@ -1,5 +1,7 @@
 ##### § 319.69 Notice of quarantine. #####
 
+Link to an amendment published at 84 FR 29958, June 25, 2019.
+
 (a) The following plants and plant products, when used as packing materials, are prohibited entry into the United States from the countries and localities named:
 
 (1) Rice straw, hulls, and chaff; from all countries.

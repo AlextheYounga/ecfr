@@ -1,6 +1,6 @@
 ##### § 1.956-1 Shareholder's pro rata share of the average of the amounts of United States property held by a controlled foreign corporation. #####
 
-Link to an amendment published at 84 FR 23717, May 23, 2019.
+Link to an amendment published at 84 FR 23717, May 23, 2019.Link to an amendment published at 84 FR 29799, June 25, 2019.
 
 (a) *In general.* Subject to the provisions of section 951(a) and the regulations thereunder, a United States shareholder of a controlled foreign corporation is required to include in gross income the amount determined under section 956 with respect to the shareholder for the taxable year but only to the extent not excluded from gross income under section 959(a)(2) and the regulations thereunder.
 
