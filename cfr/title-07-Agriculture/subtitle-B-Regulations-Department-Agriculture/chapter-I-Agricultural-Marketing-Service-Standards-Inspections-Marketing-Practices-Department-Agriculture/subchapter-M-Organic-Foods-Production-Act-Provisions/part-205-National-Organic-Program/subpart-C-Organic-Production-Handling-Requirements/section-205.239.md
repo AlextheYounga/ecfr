@@ -1,5 +1,7 @@
 ##### § 205.239 Livestock living conditions. #####
 
+Link to an amendment published at 87 FR 19773, Apr. 5, 2022.
+
 (a) The producer of an organic livestock operation must establish and maintain year-round livestock living conditions which accommodate the health and natural behavior of animals, including:
 
 (1) Year-round access for all animals to the outdoors, shade, shelter, exercise areas, fresh air, clean water for drinking, and direct sunlight, suitable to the species, its stage of life, the climate, and the environment: Except, that, animals may be temporarily denied access to the outdoors in accordance with §§ 205.239(b) and (c). Yards, feeding pads, and feedlots may be used to provide ruminants with access to the outdoors during the non-grazing season and supplemental feeding during the grazing season. Yards, feeding pads, and feedlots shall be large enough to allow all ruminant livestock occupying the yard, feeding pad, or feedlot to feed simultaneously without crowding and without competition for food. Continuous total confinement of any animal indoors is prohibited. Continuous total confinement of ruminants in yards, feeding pads, and feedlots is prohibited.

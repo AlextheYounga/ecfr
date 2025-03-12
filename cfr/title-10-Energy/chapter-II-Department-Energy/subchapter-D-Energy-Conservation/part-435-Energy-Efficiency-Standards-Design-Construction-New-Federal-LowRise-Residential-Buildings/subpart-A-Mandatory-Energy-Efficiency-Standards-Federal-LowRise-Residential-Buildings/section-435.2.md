@@ -1,5 +1,7 @@
 ##### § 435.2 Definitions. #####
 
+Link to an amendment published at 87 FR 19613, Apr. 5, 2022.
+
 For purposes of this part, the following terms, phrases and words shall be defined as follows:
 
 *Design for construction* means the stage when the energy efficiency and sustainability details (such as insulation levels, HVAC systems, water-using systems, etc.) are either explicitly determined or implicitly included in a project cost specification.

@@ -1,5 +1,7 @@
 ##### § 205.237 Livestock feed. #####
 
+Link to an amendment published at 87 FR 19773, Apr. 5, 2022.
+
 (a) The producer of an organic livestock operation must provide livestock with a total feed ration composed of agricultural products, including pasture and forage, that are organically produced and handled by operations certified to the NOP, except as provided in § 205.236(a)(2)(i), except, that, synthetic substances allowed under § 205.603 and nonsynthetic substances not prohibited under § 205.604 may be used as feed additives and feed supplements, *Provided,* That, all agricultural ingredients included in the ingredients list, for such additives and supplements, shall have been produced and handled organically.
 
 (b) The producer of an organic operation must not:

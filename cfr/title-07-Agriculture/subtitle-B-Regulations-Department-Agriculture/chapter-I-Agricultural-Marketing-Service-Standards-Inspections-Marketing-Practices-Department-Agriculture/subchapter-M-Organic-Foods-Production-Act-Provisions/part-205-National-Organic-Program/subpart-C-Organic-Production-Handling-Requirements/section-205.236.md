@@ -1,5 +1,7 @@
 ##### § 205.236 Origin of livestock. #####
 
+Link to an amendment published at 87 FR 19772, Apr. 5, 2022.
+
 (a) Livestock products that are to be sold, labeled, or represented as organic must be from livestock under continuous organic management from the last third of gestation or hatching: *Except,* That:
 
 (1) *Poultry.* Poultry or edible poultry products must be from poultry that has been under continuous organic management beginning no later than the second day of life;
