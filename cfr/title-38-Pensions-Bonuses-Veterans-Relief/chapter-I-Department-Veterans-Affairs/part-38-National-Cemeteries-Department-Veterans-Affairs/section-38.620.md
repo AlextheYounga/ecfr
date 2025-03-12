@@ -1,20 +1,18 @@
 ##### § 38.620 Persons eligible for burial. #####
 
-Link to an amendment published at 86 FR 52077, Sept. 20, 2021.
-
 The following is a list of those individuals who are eligible for burial in a national cemetery:
 
 (a) Any veteran (which for purposes of this section includes a person who died in the active military, naval, or air service).
 
 (b) Any member of a Reserve component of the Armed Forces, and any member of the Army National Guard or the Air National Guard, whose death occurs under honorable conditions while such member is hospitalized or undergoing treatment, at the expense of the United States, for injury or disease contracted or incurred under honorable conditions while such member is performing active duty for training, inactive duty training, or undergoing that hospitalization or treatment at the expense of the United States.
 
-(c) Any Member of the Reserve Officers' Training Corps of the Army, Navy, or Air Force whose death occurs under honorable conditions while such member is -
+(c) Any Member of the Reserve Officers' Training Corps of the Army, Navy, or Air Force whose death occurs under honorable conditions while such member is—
 
 (1) Attending an authorized training camp or on an authorized practice cruise;
 
 (2) Performing authorized travel to or from that camp or cruise; or
 
-(3) Hospitalized or undergoing treatment, at the expense of the United States, for injury or disease contracted or incurred under honorable conditions while such member is -
+(3) Hospitalized or undergoing treatment, at the expense of the United States, for injury or disease contracted or incurred under honorable conditions while such member is—
 
 (i) Attending that camp or on that cruise;
 
@@ -24,7 +22,7 @@ The following is a list of those individuals who are eligible for burial in a na
 
 (d) Any person who, during any war in which the United States is or has been engaged, served in the armed forces of any government allied with the United States during that war, whose last such service terminated honorably, and who was a citizen of the United States at the time of entry on such service and at the time of his or her death.
 
-(e) The spouse, surviving spouse, minor child, or unmarried adult child of a person eligible under paragraph (a), (b), (c), (d), or (g) of this section. For purposes of this section -
+(e) The spouse, surviving spouse, minor child, or unmarried adult child of a person eligible under paragraph (a), (b), (c), (d), or (g) of this section. For purposes of this section—
 
 (1) A surviving spouse includes a surviving spouse who had a subsequent remarriage;
 
@@ -42,11 +40,11 @@ The following is a list of those individuals who are eligible for burial in a na
 
 (2) Resided in the United States at the time of their death; and
 
-(3) Either was a -
+(3) Either was a—
 
-(i) Commonwealth Army veteran or member of the organized guerillas - a person who served before July 1, 1946, in the organized military forces of the Government of the Commonwealth of the Philippines, while such forces were in the service of the Armed Forces of the United States pursuant to the military order of the President dated July 26, 1941, including organized guerilla forces under commanders appointed, designated, or subsequently recognized by the Commander in Chief, Southwest Pacific Area, or other competent authority in the Army of the United States, and who died on or after November 1, 2000; or
+(i) Commonwealth Army veteran or member of the organized guerillas—a person who served before July 1, 1946, in the organized military forces of the Government of the Commonwealth of the Philippines, while such forces were in the service of the Armed Forces of the United States pursuant to the military order of the President dated July 26, 1941, including organized guerilla forces under commanders appointed, designated, or subsequently recognized by the Commander in Chief, Southwest Pacific Area, or other competent authority in the Army of the United States, and who died on or after November 1, 2000; or
 
-(ii) New Philippine Scout - a person who enlisted between October 6, 1945, and June 30, 1947, with the Armed Forces of the United States with the consent of the Philippine government, pursuant to section 14 of the Armed Forces Voluntary Recruitment Act of 1945, and who died on or after December 16, 2003.
+(ii) New Philippine Scout—a person who enlisted between October 6, 1945, and June 30, 1947, with the Armed Forces of the United States with the consent of the Philippine government, pursuant to section 14 of the Armed Forces Voluntary Recruitment Act of 1945, and who died on or after December 16, 2003.
 
 (i)(1) Any biological or legally adoptive parent who dies on or after October 13, 2010, and whose deceased child:
 
@@ -80,4 +78,8 @@ The following is a list of those individuals who are eligible for burial in a na
 
 (k) The spouse, minor child, and unmarried adult child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse's or child's death if such death occurs before October 1, 2024. Paragraphs (e)(2) and (3) of this section provide the applicable definitions for “minor child” and “unmarried adult child.”
 
-(Authority: 38 U.S.C. 107, 501, 2402)[70 FR 4769, Jan. 31, 2005, as amended at 77 FR 4678, Jan. 31, 2012; 86 FR 43098, Aug. 6, 2021]
+Note 1 to § 38.620:
+
+A benefit request pertaining to a decedent whose character of discharge may potentially bar eligibility to that benefit may be referred to the Veterans Benefits Administration for review in accordance with 38 CFR 3.12 (Character of discharge) or other applicable sections.
+
+(Authority: 38 U.S.C. 107, 501, 2402)[70 FR 4769, Jan. 31, 2005, as amended at 77 FR 4678, Jan. 31, 2012; 86 FR 43098, Aug. 6, 2021; 86 FR 52077, Sept. 20, 2021]

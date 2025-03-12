@@ -39,7 +39,6 @@
 |      Melbourne, Florida       |   Orlando Melbourne International Airport.   |
 |         Mesa, Arizona         |        Phoenix-Mesa Gateway Airport.         |
 |        Midland, Texas         |  Midland International Air and Space Port.   |
-|    Monroe, North Carolina     |     Charlotte-Monroe Executive Airport.      |
 |    Morristown, New Jersey     |        Morristown Municipal Airport.         |
 |    Moses Lake, Washington     |     Grant County International Airport.      |
 | Myrtle Beach, South Carolina  |     Myrtle Beach International Airport.      |

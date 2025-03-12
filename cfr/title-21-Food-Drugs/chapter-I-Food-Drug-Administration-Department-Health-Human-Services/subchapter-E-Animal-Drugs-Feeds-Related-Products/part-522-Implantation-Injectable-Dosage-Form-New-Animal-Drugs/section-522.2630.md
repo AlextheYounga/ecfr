@@ -6,17 +6,17 @@
 
 (2) 25 mg tulathromycin
 
-(b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter for use as in paragraph (d) of this section:
+(b) *Sponsors.* See sponsor numbers in § 510.600(c) of this chapter.
 
-(1) Product described as in paragraph (a)(1) of this section for use as in paragraphs (d)(1)(i), (d)(1)(ii), (d)(1)(iii)(A), and (d)(2) of this section.
+(1) Nos. 054771, 058198, and 061133 for use of product described in paragraph (a)(1) as in paragraphs (d)(1)(i), (d)(1)(ii), (d)(1)(iii)(A), and (d)(2) of this section.
 
-(2) Product described as in paragraph (a)(2) of this section for use as in paragraphs (d)(1)(i), (d)(1)(ii)(B), (d)(1)(iii)(B), and (d)(2) of this section.
+(2) No. 054771 for use of product described in paragraph (a)(2) as in paragraphs (d)(1)(i), (d)(1)(ii)(B), (d)(1)(iii)(B), and (d)(2) of this section.
 
 (c) *Related tolerances.* See § 556.745 of this chapter.
 
 (d) *Conditions of use* - (1) *Cattle* - (i) *Amount.* 2.5 mg per kilogram (/kg) body weight as a single subcutaneous injection in the neck.
 
-(ii) *Indications for use* - (A)*Beef and non-lactating dairy cattle.* For the treatment of bovine respiratory disease (BRD) associated with *Mannheimia haemolytica, Pasteurella multocida,**Histophilus somni,* and *Mycoplasma bovis.* For the control of respiratory disease in cattle at high risk of developing BRD associated with *M. haemolytica, P. multocida,**H. somni,* and *M. bovis.* For the treatment of infectious bovine keratoconjunctivitis (IBK) associated with *Moraxella bovis.* For the treatment of bovine foot rot (interdigital necrobacillosis) associated with *Fusobacterium necrophorum* and *Porphyromonas levii.*
+(ii) *Indications for use* - (A) *Beef and non-lactating dairy cattle.* For the treatment of bovine respiratory disease (BRD) associated with *Mannheimia haemolytica, Pasteurella multocida,**Histophilus somni,* and *Mycoplasma bovis.* For the control of respiratory disease in cattle at high risk of developing BRD associated with *M. haemolytica, P. multocida,**H. somni,* and *M. bovis.* For the treatment of infectious bovine keratoconjunctivitis (IBK) associated with *Moraxella bovis.* For the treatment of bovine foot rot (interdigital necrobacillosis) associated with *Fusobacterium necrophorum* and *Porphyromonas levii.*
 
 (B) *Suckling calves, dairy calves, and veal calves.* For the treatment of bovine respiratory disease (BRD) associated with *Mannheimia haemolytica, Pasteurella multocida,**Histophilus somni,* and *Mycoplasma bovis.*
 
@@ -30,4 +30,4 @@
 
 (iii) *Limitations.* Swine intended for human consumption must not be slaughtered within 5 days from the last treatment. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[70 FR 39918, July 12, 2005, as amended at 71 FR 57416, Sept. 29, 2006; 72 FR 54540, Sept. 26, 2007; 73 FR 6018, Feb. 1, 2008; 73 FR 58872, Oct. 8, 2008; 74 FR 53165, Oct. 16, 2009; 78 FR 63872, Oct. 25, 2013; 79 FR 74020, Dec. 15, 2014; 80 FR 13230, Mar. 13, 2015; 81 FR 67151, Sept. 30, 2016]
+[70 FR 39918, July 12, 2005, as amended at 71 FR 57416, Sept. 29, 2006; 72 FR 54540, Sept. 26, 2007; 73 FR 6018, Feb. 1, 2008; 73 FR 58872, Oct. 8, 2008; 74 FR 53165, Oct. 16, 2009; 78 FR 63872, Oct. 25, 2013; 79 FR 74020, Dec. 15, 2014; 80 FR 13230, Mar. 13, 2015; 81 FR 67151, Sept. 30, 2016; 86 FR 57997, Oct. 20, 2021]

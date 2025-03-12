@@ -4,7 +4,7 @@
 
 (b) *Additional adjustments to constructed export price.* In establishing constructed export price under section 772(d) of the Act, the Secretary will make adjustments for expenses associated with commercial activities in the United States that relate to the sale to an unaffiliated purchaser, no matter where or when paid. The Secretary will not make an adjustment for any expense that is related solely to the sale to an affiliated importer in the United States, although the Secretary may make an adjustment to normal value for such expenses under section 773(a)(6)(C)(iii) of the Act.
 
-(c) *Special rule for merchandise with value added after importation* - (1) *Merchandise imported by affiliated persons.* In applying section 772(e) of the Act, merchandise imported by and value added by a person affiliated with the exporter or producer includes merchandise imported and value added for the account of such an affiliated person.
+(c) *Special rule for merchandise with value added after importation*—(1) *Merchandise imported by affiliated persons.* In applying section 772(e) of the Act, merchandise imported by and value added by a person affiliated with the exporter or producer includes merchandise imported and value added for the account of such an affiliated person.
 
 (2) *Estimation of value added.* The Secretary normally will determine that the value added in the United States by the affiliated person is likely to exceed substantially the value of the subject merchandise if the Secretary estimates the value added to be at least 65 percent of the price charged to the first unaffiliated purchaser for the merchandise as sold in the United States. The Secretary normally will estimate the value added based on the difference between the price charged to the first unaffiliated purchaser for the merchandise as sold in the United States and the price paid for the subject merchandise by the affiliated person. The Secretary normally will base this determination on averages of the prices and the value added to the subject merchandise.
 
@@ -20,7 +20,7 @@
 
 (e) *Treatment of payments between affiliated persons.* Where a person affiliated with the exporter or producer incurs any of the expenses deducted from constructed export price under section 772(d) of the Act and is reimbursed for such expenses by the exporter, producer or other affiliate, the Secretary normally will make an adjustment based on the actual cost to the affiliated person. If the Secretary is satisfied that information regarding the actual cost to the affiliated person is unavailable to the exporter or producer, the Secretary may determine the amount of the adjustment on any other reasonable basis, including the amount of the reimbursement to the affiliated person if the Secretary is satisfied that such amount reflects the amount usually paid in the market under consideration.
 
-(f) *Reimbursement of antidumping duties and countervailing duties* - (1) *In general.* (i) In calculating the export price (or the constructed export price), the Secretary will deduct the amount of any antidumping duty or countervailing duty which the exporter or producer:
+(f) *Reimbursement of antidumping duties and countervailing duties*—(1) *In general.* (i) In calculating the export price (or the constructed export price), the Secretary will deduct the amount of any antidumping duty or countervailing duty which the exporter or producer:
 
 (A) Paid directly on behalf of the importer; or
 
@@ -34,8 +34,14 @@
 
 (iii) Ordinarily, under paragraph (f)(1)(i) of this section, the Secretary will deduct the amount reimbursed only once in the calculation of the export price (or constructed export price).
 
-(2) *Certificate.* The importer must file prior to liquidation a certificate in the following form with the appropriate District Director of Customs:
+(2) *Reimbursement certification.* (i) The importer must certify with the Customs Service prior to liquidation (except as provided for in paragraph (f)(2)(iii) of this section) whether the importer has or has not been reimbursed or entered into any agreement or understanding for the payment or for the refunding to the importer by the manufacturer, producer, seller, or exporter for all or any part of the antidumping and countervailing duties, as appropriate. Such certifications should identify the commodity and country and contain the information necessary to link the certification to the relevant entry or entry line number(s).
 
-I hereby certify that I (have) (have not) entered into any agreement or understanding for the payment or for the refunding to me, by the manufacturer, producer, seller, or exporter, of all or any part of the antidumping duties or countervailing duties assessed upon the following importations of (commodity) from (country): (List entry numbers) which have been purchased on or after (date of publication of antidumping notice suspending liquidation in the Federal Register) or purchased before (same date) but exported on or after (date of final determination of sales at less than fair value).
+(ii) The reimbursement certification may be filed either electronically or in paper in accordance with the Customs Service's requirements, as applicable.
+
+(iii) If an importer does not provide its reimbursement certification prior to liquidation, the Customs Service may accept the reimbursement certification in accordance with its protest procedures under 19 U.S.C. 1514, unless otherwise directed.
+
+(iv) Reimbursement certifications are required for entries of the relevant commodity that have been imported on or after the date of publication of the antidumping notice in the Federal Register that first suspended liquidation in that proceeding.
 
 (3) *Presumption.* The Secretary may presume from an importer's failure to file the certificate required in paragraph (f)(2) of this section that the exporter or producer paid or reimbursed the antidumping duties or countervailing duties.
+
+[62 FR 27379, May 19, 1997, as amended at 86 FR 52384, Sept. 20, 2021]

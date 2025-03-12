@@ -18,10 +18,10 @@
 
 (ii) *Limitations.* Do not use in horses intended for human consumption.
 
-(2) *Cattle* - (i) *Amount.* 2.3 mg/lb of body weight. Retreatment may be needed after 4 to 6 weeks.
+(2) *Beef and dairy cattle* - (i) *Amount.* Administer orally 2.3 mg/lb (5 mg/kg) body weight.
 
-(ii) *Indications for use.* For the removal and control of lungworms (*Dictyocaulus viviparus*), stomach worms (*Haemonchus contortus*, *Ostertagia ostertagi*, *Trichostrongylus axei*), and intestinal worms (*Bunostomum phlebotomum*, *Nematodirus helvetianus*, *Cooperia punctata*, *C. oncophora*, *Trichostrongylus colubriformis*, and *Oesophagostomum radiatum*).
+(ii) *Indications for use.* For the treatment and control of: Lungworms: Adult (*Dictyocaulus viviparus*); Stomach worms: Adult brown stomach worms (*Ostertagia ostertagi*), adult and fourth-stage larvae barberpole worms (*Haemonchus contortus*), fourth-stage larvae barberpole worms (*H. placei*), and adult and fourth-stage larvae small stomach worms (*Trichostrongylus axei*); Intestinal worms (adult and fourth-stage larvae): Hookworms (*Bunostomum phlebotomum*), thread-necked intestinal worms (*Nematodirus helvetianus*), small intestinal worms (*Cooperia punctata* and *C. oncophora*), bankrupt worms (*Trichostrongylus colubriformis*), and nodular worms (*Oesophagostomum radiatum*).
 
-(iii) *Limitations.* Cattle must not be slaughtered within 8 days following last treatment. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
+(iii) *Limitations.* Milk taken during treatment and for 96 hours after the last treatment must not be used for human consumption. Cattle must not be slaughtered for human consumption within 8 days following last treatment with this drug product. Not for use in beef calves less than 2 months of age, dairy calves, and veal calves. A withdrawal period has not been established for this product in preruminating calves.
 
-[72 FR 24185, May 2, 2007, as amended at 74 FR 61516, Nov. 25, 2009; 76 FR 17337, Mar. 29, 2011]
+[72 FR 24185, May 2, 2007, as amended at 74 FR 61516, Nov. 25, 2009; 76 FR 17337, Mar. 29, 2011; 86 FR 57996, Oct. 20, 2021]

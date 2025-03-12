@@ -94,9 +94,15 @@ I hereby certify that I have read the above certification statement and that I h
 
 (5) An acceptable cost report submission is defined as follows:
 
-(i) The provider must accurately complete and submit the required cost reporting forms, including all necessary signatures and supporting documents. For providers claiming costs on their cost reports that are allocated from a home office or chain organization, the Home Office Cost statement must be submitted by the home office or chain organization as set forth in paragraph (f)(5)(i)(E) of this section. A cost report is rejected for lack of supporting documentation if it does not include the following, except as provided in paragraph (f)(5)(i)(E) of this section:
+(i) The provider must accurately complete and submit the required cost reporting forms, including all necessary signatures and supporting documents. For providers claiming costs on their cost reports that are allocated from a home office or chain organization, the Home Office Cost statement must be submitted by the home office or chain organization as set forth in paragraph (f)(5)(i)(E) of this section. A cost report is rejected for lack of supporting documentation if it does not include the following, except as provided in paragraphs (f)(5)(i)(A)(*2*)(*ii*) and (f)(5)(i)(E) of this section:
 
-(A) *Teaching hospitals.* For teaching hospitals, effective for cost reporting periods beginning on or after October 1, 2021, the Intern and Resident Information System (IRIS) data which must contain the same total counts of direct GME FTE residents (unweighted and weighted) and IME FTE residents as the total counts of direct GME FTE and IME FTE residents reported in the provider's cost report.
+(A) *Teaching hospitals.* For teaching hospitals, the Intern and Resident Information System (IRIS) data.
+
+(*1*) *Data format.* For cost reporting periods beginning on or after October 1, 2021, the IRIS data must be in the new XML IRIS format.
+
+(*2*) *Resident counts.* (*i*) Effective for cost reporting periods beginning on or after October 1, 2021, the IRIS data must contain the same total counts of direct GME FTE residents (unweighted and weighted) and IME FTE residents as the total counts of direct GME FTE and IME FTE residents reported in the provider's cost report.
+
+(*ii*) For cost reporting periods beginning on or after October 1, 2021, and before October 1, 2022, the cost report is not rejected if the requirement in paragraph (f)(5)(i)(A)(*2*)(*i*) of this section is not met.
 
 (B) *Bad debt* - Effective for cost reporting periods beginning on or after October 1, 2018, for providers claiming Medicare bad debt reimbursement, a detailed bad debt listing that corresponds to the amount of bad debt claimed in the provider's cost report.
 

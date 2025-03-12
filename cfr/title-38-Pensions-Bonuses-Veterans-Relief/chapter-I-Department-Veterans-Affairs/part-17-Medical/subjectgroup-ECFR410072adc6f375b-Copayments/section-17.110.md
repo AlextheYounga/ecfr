@@ -1,7 +1,5 @@
 ##### § 17.110 Copayments for medication. #####
 
-Link to an amendment published at 86 FR 52076, Sept. 20, 2021.
-
 (a) *General.* This section sets forth requirements regarding copayments for medications provided to veterans by VA. For purposes of this section, the term “medication” means prescription and over-the-counter medications, as determined by the Food and Drug Administration (FDA), but does not mean medical supplies, oral nutritional supplements, or medical devices. Oral nutritional supplements are commercially prepared nutritionally enhanced products used to supplement the intake of individuals who cannot meet nutrient needs by diet alone.
 
 (b) *Copayments.* (1) *Copayment amount.* Unless exempted under paragraph (c) of this section, a veteran is obligated to pay VA a copayment for each 30-day or less supply of medication provided by VA on an outpatient basis (other than medication administered during treatment).
@@ -92,4 +90,32 @@ Link to an amendment published at 86 FR 52076, Sept. 20, 2021.
 
 (11) Medication for a veteran who was awarded the Medal of Honor.
 
-[66 FR 63451, Dec. 6, 2001, as amended at 74 FR 69285, Dec. 31, 2009; 75 FR 32672, June 9, 2010; 75 FR 54030, Sept. 3, 2010; 76 FR 52274, Aug. 22, 2011; 76 FR 78826, Dec. 20, 2011; 77 FR 76867, Dec. 31, 2012; 78 FR 28143, May 14, 2013; 78 FR 79317, Dec. 30, 2013; 79 FR 57414, Sept. 24, 2014; 79 FR 63821, Oct. 27, 2014; 79 FR 65585, Nov. 5, 2014; 80 FR 55545, Sept. 16, 2015; 81 FR 88120, Dec. 7, 2016; 81 FR 89390, Dec. 12, 2016; 84 FR 7815, Mar. 5, 2019; 84 FR 26306, June 5, 2019]
+(12) Opioid antagonists furnished to a veteran who is at high risk for overdose of a specific medication or substance in order to reverse the effect of such an overdose.
+
+(i) For purposes of this paragraph (c)(12), a veteran who is at high risk for overdose of a specific medication or substance in order to reverse the effect of such an overdose is a veteran:
+
+(A) Who is prescribed or using opioids, or has an opioid use history, and who is at increased risk for opioid overdose as determined by VA; or
+
+(B) Whose provider deems, based on their clinical judgment, that the veteran may benefit from ready availability of an opioid antagonist.
+
+(ii) Examples of a veteran who is at high risk for overdose of a specific medication or substance in order to reverse the effect of such an overdose include, but are not limited to, the following:
+
+(A) A veteran with an opioid or substance use disorder diagnosis;
+
+(B) A veteran receiving treatment for an opioid or substance use disorder diagnosis, such as receiving opioid agonist therapy or inpatient, residential, or outpatient treatment for such diagnosis, or attending a support group for such diagnosis;
+
+(C) A veteran with a history of prescription opioid misuse or injection opioid use;
+
+(D) A veteran with a history of previous opioid overdose;
+
+(E) A veteran who is taking an extended-release or long-acting prescription opioid;
+
+(F) A veteran with household or community access to opioids who is at increased risk for overdose (*e.g.,* psychiatric disorder or high risk for suicide) as determined by VA; or
+
+(G) A veteran predicted to be at high risk for overdose based on standardized assessments or predictive models (*e.g.,* Risk Index for Overdose or Serious Opioid-induced Respiratory Depression [RIOSORD]; Stratification Tool for Opioid Risk Mitigation [STORM]).
+
+Note 1 to paragraph (c)(12).
+
+The examples in paragraphs (c)(12)(ii)(A) through (G) of this section apply even if the veteran has had a period of abstinence from opioids (*e.g.,* due to treatment, detoxification, incarceration) because loss of tolerance can increase the risk for an overdose.
+
+[66 FR 63451, Dec. 6, 2001, as amended at 74 FR 69285, Dec. 31, 2009; 75 FR 32672, June 9, 2010; 75 FR 54030, Sept. 3, 2010; 76 FR 52274, Aug. 22, 2011; 76 FR 78826, Dec. 20, 2011; 77 FR 76867, Dec. 31, 2012; 78 FR 28143, May 14, 2013; 78 FR 79317, Dec. 30, 2013; 79 FR 57414, Sept. 24, 2014; 79 FR 63821, Oct. 27, 2014; 79 FR 65585, Nov. 5, 2014; 80 FR 55545, Sept. 16, 2015; 81 FR 88120, Dec. 7, 2016; 81 FR 89390, Dec. 12, 2016; 84 FR 7815, Mar. 5, 2019; 84 FR 26306, June 5, 2019; 86 FR 52076, Sept. 20, 2021]

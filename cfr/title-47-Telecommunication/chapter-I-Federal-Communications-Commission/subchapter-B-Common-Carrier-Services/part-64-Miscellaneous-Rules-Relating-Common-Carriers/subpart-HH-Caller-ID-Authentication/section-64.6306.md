@@ -1,14 +1,12 @@
 ##### § 64.6306 Exemption. #####
 
-Link to an amendment published at 85 FR 73397, Nov. 17, 2020.
-
 (a) *Exemption for IP networks.* A voice service provider may seek an exemption from the requirements of § 64.6301 by certifying on or before December 1, 2020, that, for those portions of its network served by technology that allows for the transmission of SIP calls, it:
 
 (1) Has adopted the STIR/SHAKEN authentication framework for calls on the Internet Protocol networks of the voice service provider, by completing the network preparations necessary to deploy the STIR/SHAKEN protocols on its network including but not limited to participation in test beds and lab testing, or completion of commensurate network adjustments to enable the authentication and validation of calls on its network consistent with the STIR/SHAKEN framework;
 
 (2) Has agreed voluntarily to participate with other voice service providers in the STIR/SHAKEN authentication framework, as demonstrated by completing formal registration (including payment) and testing with the STI Policy Administrator;
 
-(3) Has begun to implement the STIR/SHAKEN authentication framework by completing the necessary network upgrades to at least one network element - *e.g.,* a single switch or session border controller - to enable the authentication and verification of caller identification information consistent with the STIR/SHAKEN standards; and
+(3) Has begun to implement the STIR/SHAKEN authentication framework by completing the necessary network upgrades to at least one network element—*e.g.,* a single switch or session border controller—to enable the authentication and verification of caller identification information consistent with the STIR/SHAKEN standards; and
 
 (4) Will be capable of fully implementing the STIR/SHAKEN authentication framework not later than June 30, 2021, which it may only determine if it reasonably foresees that it will have completed all necessary network upgrades to its network infrastructure to enable the authentication and verification of caller identification information for all SIP calls exchanged with STIR/SHAKEN-enabled partners by June 30, 2021.
 
@@ -32,6 +30,6 @@ Link to an amendment published at 85 FR 73397, Nov. 17, 2020.
 
 (d) *Determination timing.* The Wireline Competition Bureau shall determine whether to grant or deny timely requests for exemption on or before December 30, 2020.
 
-(e) [Reserved]
+(e) *Implementation verification.* All voice service providers granted an exemption under paragraphs (a) and (b) of this section shall file an additional certification consistent with the requirements of paragraph (c) of this section on or before October 4, 2021 that attests to whether the voice service provider fully implemented the STIR/SHAKEN authentication framework because it completed all necessary network upgrades to its network infrastructure to enable the authentication and verification of caller identification information for all SIP calls exchanged with STIR/SHAKEN-enabled partners by June 30, 2021. The Wireline Competition Bureau, after issuing a Public Notice seeking comment on the certifications, will, not later than four months after the deadline for filing of the certifications, issue a Public Notice identifying which voice service providers achieved complete implementation of the STIR/SHAKEN authentication framework.
 
-[85 FR 73396, Nov. 17, 2020]
+[85 FR 73396, Nov. 17, 2020, as amended at 86 FR 58040, Oct. 20, 2021]

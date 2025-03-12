@@ -20,7 +20,7 @@ Link to an amendment published at 86 FR 52099, Sept. 20, 2021.
 
 (i) Conditional sales contracts (including agreements to produce new devices manufactured in accordance with designated specifications) are permitted between manufacturers and wholesalers or retailers provided that delivery is made contingent upon compliance with the applicable equipment authorization and technical requirements.
 
-(ii) A radio frequency device that is in the conceptual, developmental, design or pre-production stage may be offered for sale solely to business, commercial, industrial, scientific or medical users (but not an offer for sale to other parties or to end users located in a residential environment) if the prospective buyer is advised in writing at the time of the offer for sale that the equipment is subject to the FCC rules and that the equipment will comply with the appropriate rules before delivery to the buyer or to centers of distribution.
+(ii) [Reserved]
 
 (iii) (A) A radio frequency device may be advertised or displayed, (e.g., at a trade show or exhibition) if accompanied by a conspicuous notice containing this language:
 
@@ -46,4 +46,4 @@ FCC NOTICE: This kit is designed to allow:
 
 (d) *Importation.* The provisions of subpart K of this part continue to apply to imported radio frequency devices.
 
-[78 FR 25161, Apr. 29, 2013, as amended at 79 FR 48691, Aug. 18, 2014; 80 FR 52414, Aug. 31, 2015; 82 FR 50825, Nov. 2, 2017; 84 FR 25689, June 4, 2019]
+[78 FR 25161, Apr. 29, 2013, as amended at 79 FR 48691, Aug. 18, 2014; 80 FR 52414, Aug. 31, 2015; 82 FR 50825, Nov. 2, 2017; 84 FR 25689, June 4, 2019; 86 FR 52099, Sept. 20, 2021]

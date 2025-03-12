@@ -4,7 +4,7 @@
 
 (b) *Sponsors.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (d) of this section.
 
-(1) Nos. 000010, 016592, 054771, and 069254 for use as in paragraph (d) of this section.
+(1) Nos. 000010, 054771, and 069254 for use as in paragraph (d) of this section.
 
 (2) No. 066104 for use as in paragraphs (d)(4)(i)(A), (d)(4)(i)(B), and (d)(4)(ii) through (d)(4)(iv) of this section.
 

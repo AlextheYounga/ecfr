@@ -1,7 +1,5 @@
 ##### § 310.13 Exemptions for DoD-wide systems. #####
 
-Link to an amendment published at 86 FR 52072, Sept. 20, 2021.
-
 (a) *Use of DoD-wide exemptions.* DoD-wide exemptions for DoD-wide systems of records are established pursuant to 5 U.S.C. 552a(j) and (k) of the Privacy Act.
 
 (b) *Promises of confidentiality.* (1) Only the identity of and information furnished by sources that have been given an express promise of confidentiality may be protected from disclosure under this section, consistent with (k)(2), (k)(5), and (k)(7) of the Privacy Act, as applicable. However, the identity of sources who were given implied promises of confidentiality in inquiries conducted before September 27, 1975, also may be protected from disclosure.
@@ -78,7 +76,21 @@ Link to an amendment published at 86 FR 52072, Sept. 20, 2021.
 
 (3) [Reserved]
 
-(4) [Reserved]
+(4) *System identifier and name.* DoD-0005, “Defense Training Records.”
+
+(i) *Exemptions.* This system of records is exempt from 5 U.S.C. 552a(c)(3) and (d)(1), (2), (3), and (4).
+
+(ii) *Authority.* 5 U.S.C. 552a(k)(1) and (6).
+
+(iii) *Exemption from the particular subsections.* Exemption from the particular subsections is justified for the following reasons:
+
+(A) *Subsections (c)(3), (d)(1), and (d)(2)* - (*1*) *Exemption (k)(1).* Training records in this system of records may contain information concerning DoD personnel or training materials that is properly classified pursuant to executive order. Application of exemption (k)(1) for such records may be necessary because access to and amendment of the records, or release of the accounting of disclosures for such records, could reveal classified information. Disclosure of classified records to an individual may cause damage to national security.
+
+(*2*) *Exemption (k)(6).* Training records in this system of records may contain information relating to testing or examination material used solely to determine individual qualifications for appointment or promotion in the Federal service. Application of exemption (k)(6) for such records may be necessary when access to and amendment of the records, or release of the accounting of disclosure for such records, may compromise the objectivity and fairness of the testing or examination process. Amendment of such records could also impose a highly impracticable administrative burden by requiring testing and examinations to be continuously re-administered.
+
+(B) *Subsections (d)(3) and (4).* These subsections are inapplicable to the extent an exemption is claimed from subsection (d)(2). Moreover, applying the amendment appeal procedures to training and examination materials could impose a highly impractical administrative burden by requiring testing and examinations to be continuously re-administered.
+
+(iv) *Exempt records from other systems.* In the course of carrying out the overall purpose for this system, exempt records from other systems of records may in turn become part of the records maintained in this system. To the extent that copies of exempt records from those other systems of records are maintained in this system, the DoD claims the same exemptions for the records from those other systems that are entered into this system, as claimed for the prior system(s) of which they are a part, provided the reason for the exemption remains valid and necessary.
 
 (5) [Reserved]
 
@@ -100,4 +112,4 @@ Link to an amendment published at 86 FR 52072, Sept. 20, 2021.
 
 (iv) *Exempt records from other systems.* In the course of carrying out the overall purpose for this system, exempt records from other systems of records may in turn become part of the records maintained in this system. To the extent that copies of exempt records from those other systems of records are maintained in this system, the DoD claims the same exemptions for the records from those other systems that are entered into this system, as claimed for the prior system(s) of which they are a part, provided the reason for the exemption remains valid and necessary.
 
-[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 38561, July 22, 2021]
+[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 38561, July 22, 2021; 86 FR 52072, Sept. 20, 2021]
