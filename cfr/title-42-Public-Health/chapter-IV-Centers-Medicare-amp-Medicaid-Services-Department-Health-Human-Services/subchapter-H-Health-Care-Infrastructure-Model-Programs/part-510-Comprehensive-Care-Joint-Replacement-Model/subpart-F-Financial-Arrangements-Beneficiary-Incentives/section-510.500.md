@@ -1,6 +1,6 @@
 ##### § 510.500 Financial arrangements under the CJR model. #####
 
-Link to an amendment published at 82 FR 617, Jan. 3, 2017.This amendment was delayed to Oct. 1, 2017 at 82 FR 14464, Mar. 21, 2017.
+Link to an amendment published at 82 FR 617, Jan. 3, 2017.This amendment was delayed to Oct. 1, 2017, at 82 FR 14464, Mar. 21, 2017.
 
 (a) *General.* (1) A participant hospital may elect to enter into sharing arrangements.
 

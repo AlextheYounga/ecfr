@@ -1,6 +1,6 @@
 ##### § 510.400 Quality measures and reporting. #####
 
-Link to an amendment published at 82 FR 615, Jan. 3, 2017.This amendment was delayed until Mar. 21, 2017 at 82 FR 10863, Feb. 17, 2017.This amendment was further delayed to May 20, 2017 at 82 FR 14464, Mar. 21, 2017.
+Link to an amendment published at 82 FR 615, Jan. 3, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10863, Feb. 17, 2017.This amendment was further delayed to May 20, 2017, at 82 FR 14464, Mar. 21, 2017.
 
 (a) *Reporting of quality measures.* The following quality measures are used for public reporting, for determining whether a participant hospital is eligible for reconciliation payments under § 510.305(g), and whether a participant hospital is eligible for quality incentive payments under § 510.315(f) in the performance year:
 

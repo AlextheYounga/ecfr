@@ -1,6 +1,6 @@
 ##### § 510.315 Composite quality scores for determining reconciliation payment eligibility and quality incentive payments. #####
 
-Link to an amendment published at 82 FR 615, Jan. 3, 2017.This amendment was delayed until Mar. 21, 2017 at 82 FR 10863, Feb. 17, 2017.This amendment was further delayed to May 20, 2017 at 82 FR 14464, Mar. 21, 2017.
+Link to an amendment published at 82 FR 615, Jan. 3, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10863, Feb. 17, 2017.This amendment was further delayed to May 20, 2017, at 82 FR 14464, Mar. 21, 2017.
 
 (a) *General.* A participant hospital's eligibility for a reconciliation payment under § 510.305(g), and the determination of quality incentive payments under paragraph (f) of this section, for a performance year depend on the hospital's composite quality score (including any quality performance points and quality improvement points earned) for that performance year.
 

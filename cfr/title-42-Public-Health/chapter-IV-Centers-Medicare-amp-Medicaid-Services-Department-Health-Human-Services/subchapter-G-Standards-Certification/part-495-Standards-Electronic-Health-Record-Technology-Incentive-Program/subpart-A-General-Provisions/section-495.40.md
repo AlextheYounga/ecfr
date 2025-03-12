@@ -112,7 +112,11 @@
 
 (*2*) For an eligible hospital or CAH attesting to a State for the Medicaid EHR Incentive Program: An eligible hospital or CAH that has successfully demonstrated it is a meaningful EHR user in any prior year may satisfy either the objectives and measures specified in § 495.22(e) for meaningful use or the objectives and measures specified in § 495.24(d) for meaningful use; an eligible hospital or CAH that has never successfully demonstrated it is a meaningful EHR user in any prior year must satisfy the objectives and measures specified in § 495.22(e) for meaningful use.
 
-(G) For CY 2018 and subsequent years, satisfied the required objectives and associated measures under § 495.24(d) for meaningful use.
+(G) For CY 2018:
+
+(*1*) For an eligible hospital or CAH attesting to CMS, satisfied the required objectives and associated measures under § 495.24(c) for meaningful use.
+
+(*2*) For an eligible hospital or CAH attesting to a State for the Medicaid EHR Incentive Program, satisfied the required objectives and associated measures under § 495.24(d) for meaningful use.
 
 (H) Supporting providers with the performance of CEHRT (SPPC). To engage in activities related to supporting providers with the performance of CEHRT, the eligible hospital or CAH -
 
@@ -162,4 +166,4 @@
 
 (2) All EPs, eligible hospitals, and CAHs must keep documentation supporting their demonstration of meaningful use for 6 years.
 
-[75 FR 44565, July 28, 2010, as amended at 76 FR 73473, Nov. 28, 2011; 76 FR 74584, Nov. 30, 2011; 77 FR 54157, Sept. 4, 2012; 77 FR 68565, Nov. 15, 2012; 77 FR 69372, Nov. 16, 2012; 79 FR 52933, Sept. 4, 2014. Redesignated and amended at 80 FR 62943, 62954, Oct. 16, 2015; 81 FR 77556, Nov. 4, 2016; 81 FR 79892, Nov. 14, 2016; 82 FR 36, Jan. 3, 2017]Editorial Note:At 81 FR 79892, Nov. 14, 2016, § 495.40 was amended in part by redesignating (b)(2)(i)(G) as (H) and adding a new (b)(2)(i)(G); however, the amendment could not be incorporated because (b)(2)(i)(H) already existed. At 82 FR 36, Jan. 3, 2017, a correction was published; however instructions 39.a., b., d., and f. could not be incorporated due to inaccurate regulatory instructions.
+[75 FR 44565, July 28, 2010, as amended at 76 FR 73473, Nov. 28, 2011; 76 FR 74584, Nov. 30, 2011; 77 FR 54157, Sept. 4, 2012; 77 FR 68565, Nov. 15, 2012; 77 FR 69372, Nov. 16, 2012; 79 FR 52933, Sept. 4, 2014. Redesignated and amended at 80 FR 62943, 62954, Oct. 16, 2015; 81 FR 77556, Nov. 4, 2016; 81 FR 79892, Nov. 14, 2016; 82 FR 36, Jan. 3, 2017; 82 FR 16742, Apr. 6, 2017]
