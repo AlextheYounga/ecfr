@@ -1,7 +1,5 @@
 ##### § 1304.211 Change in ownership of grandfathered structures or alterations. #####
 
-Link to an amendment published at 86 FR 50636, Sept. 10, 2021.
-
 (a) When ownership of a permitted structure or other shoreline alteration changes, the new owner shall comply with § 1304.10 regarding notice to TVA.
 
 (b) The new owner may, upon application to TVA for a permit, continue to use existing permitted docks and other shoreline alterations pending TVA action on the application.
@@ -12,4 +10,6 @@ Link to an amendment published at 86 FR 50636, Sept. 10, 2021.
 
 (1) Maintain existing permitted docks, piers, boathouses, and other shoreline structures in good repair.
 
-(2) Obtain TVA approval for any repairs that would alter the size of the facility, for any new construction, or for removal of trees or other vegetation (except for mowing of lawns established prior to November 1, 1999).
+(2) Obtain TVA approval for any repairs that would alter the size of the facility, create a structural modification, for any new construction, or for removal of trees or other vegetation (except for mowing of lawns established prior to November 1, 1999).
+
+[68 FR 46936, Aug. 7, 2003, as amended at 86 FR 50636, Sept. 10, 2021]

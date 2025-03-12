@@ -10,9 +10,9 @@
 
 (d) In calculating the two-year and five-year periods provided in paragraphs (b) and (c) of this section, the Commission shall not include any period of parole before the most recent release, or any period served in confinement on any other sentence.
 
-(e) A parolee may appeal an adverse decision under paragraph (c) of this section under § 2.26 or § 2.27 as applicable.
+(e) A parolee may appeal an adverse decision under paragraph (c) of this section under § 2.26.
 
-(f) If the case is designated for the original jurisdiction of the Commission, a decision to terminate supervision under paragraphs (a)(2) and (b) of this section, or a decision to terminate or continue supervision under paragraph (c) of this section shall be made under the provisions of § 2.17.
+(f) [Reserved]
 
 (g)(1) In determining whether to grant early termination from supervision, the Commission shall consider the guidelines of this paragraph. The guidelines are advisory and the Commission may disregard the outcome indicated by the guidelines based on case-specific factors. Termination of supervision is indicated if the parolee:
 
@@ -24,4 +24,4 @@
 
 (h) Case-specific factors that may justify a departure either above or below the early termination guidelines may relate to the current behavior of the parolee, or to the parolee's background and criminal history.
 
-[75 FR 9519, Mar. 3, 2010]
+[75 FR 9519, Mar. 3, 2010, as amended by 86 FR 56646, Oct. 12, 2021]

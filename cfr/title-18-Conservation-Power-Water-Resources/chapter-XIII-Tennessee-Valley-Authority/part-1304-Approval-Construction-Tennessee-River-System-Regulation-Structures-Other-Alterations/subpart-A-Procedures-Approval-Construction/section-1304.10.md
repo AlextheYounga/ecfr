@@ -1,11 +1,13 @@
 ##### § 1304.10 Change in ownership of approved facilities or activities. #####
 
-Link to an amendment published at 86 FR 50633, Sept. 10, 2021.
-
 (a) When there is a change in ownership of the land on which a permitted facility or activity is located (or ownership of the land which made the applicant eligible for consideration to receive a permit when the facility or activity is on TVA land), the new owner shall notify TVA within sixty (60) days. Upon application to TVA by the new owner, the new owner may continue to use existing facilities or carry out permitted activities pending TVA's decision on reissuance of the permit. TVA shall reissue the permit upon determining that the facilities are in good repair and are consistent with the standards in effect at the time the permit was first issued.
 
 (b) Subsequent owners are not required to modify existing facilities constructed and maintained in accordance with the standards in effect at the time the permit was first issued provided they:
 
 (1) Maintain such facilities in good repair; and
 
-(2) Obtain TVA approval for any repairs that would alter the size of the facility or for any new construction.
+(2) Obtain TVA approval for any repairs that would alter the size of the facility, create a structural modification, or for any new construction.
+
+(c) Change in ownership of a floating cabin is addressed in § 1304.102.
+
+[68 FR 46936, Aug. 7, 2003, as amended at 86 FR 50633, Sept. 10, 2021]

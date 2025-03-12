@@ -1,11 +1,7 @@
-##### § 1304.102 Numbering of floating cabins and transfer of ownership. #####
+##### § 1304.102 Numbering of floating cabins and change in ownership. #####
 
-Link to an amendment published at 86 FR 50635, Sept. 10, 2021.
+(a) All approved floating cabins and attached structures shall display a number assigned by TVA. The owner of the floating cabin shall paint or attach a facsimile of the number on a readily visible part of the outside of the facilities in letters at least three inches high. If TVA provided a placard or tag, it must be displayed on a readily visible part of the outside of the floating cabin.
 
-(a) All approved floating cabins shall display a number assigned by TVA. The owner of the floating cabin shall paint or attach a facsimile of the number on a readily visible part of the outside of the facility in letters at least three inches high. If TVA provided a placard or tag, the tag must be displayed on a readily visible part of the outside of the floating cabin.
+(b) When there is a change in ownership of the floating cabin, the new owner shall notify TVA within 60 days. Upon application to TVA by the new owner, the new owner may continue to use the existing floating cabin or carry out permitted activities pending TVA's decision on reissuance of the permit. TVA shall reissue the permit upon determining the floating cabin is in good repair, is the same configuration and dimensions (length, width, and height) of both the floating cabin and the enclosed and open space as previously permitted, moored in the same location or in the harbor limits of the same commercial marina, and complies with the conditions of the previous approval and the requirements of this subpart.
 
-(b) The transferee of any floating cabin approved pursuant to the regulations in this subpart shall, within thirty (30) days of the transfer transaction, report the transfer to TVA.
-
-(c) A floating cabin moored at a location approved pursuant to the regulations in this subpart shall not be relocated and moored at a different location without prior approval by TVA, except for movement to a new location within the designated harbor limits of the same commercial dock or marina.
-
-[68 FR 46936, Aug. 7, 2003, as amended at 83 FR 44473, Aug. 31, 2018]
+[86 FR 50635, Sept. 10, 2021]

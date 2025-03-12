@@ -1,24 +1,22 @@
 ##### § 284.12 Standards for pipeline business operations and communications. #####
 
-Link to an amendment published at 86 FR 43598, Aug. 10, 2021.
-
 (a) *Incorporation by reference of NAESB standards.* (1) An interstate pipeline that transports gas under subparts B or G of this part must comply with the business practices and electronic communications standards as promulgated by the North American Energy Standards Board, as incorporated herein by reference in paragraphs (a)(1)(i) through (vii) of this section.
 
-(i) Additional Standards (Version 3.1, September 29, 2017);
+(i) Additional Standards (Version 3.2, August 15, 2020);
 
-(ii) Nominations Related Standards (Version 3.1, September 29, 2017);
+(ii) Nominations Related Standards (Version 3.2, August 15, 2020);
 
-(iii) Flowing Gas Related Standards (Version 3.1, September 29, 2017);
+(iii) Flowing Gas Related Standards (Version 3.2, August 15, 2020);
 
-(iv) Invoicing Related Standards (Version 3.1, September 29, 2017);
+(iv) Invoicing Related Standards (Version 3.2, August 15, 2020);
 
-(v) Quadrant Electronic Delivery Mechanism Related Standards (Version 3.1, September 29, 2017);
+(v) Quadrant Electronic Delivery Mechanism Related Standards (Version 3.2, August 15, 2020);
 
-(vi) Capacity Release Related Standards (Version 3.1, September 29, 2017); and
+(vi) Capacity Release Related Standards (Version 3.2, August 15, 2020); and
 
-(vii) Internet Electronic Transport Related Standards (Version 3.1, September 29, 2017).
+(vii) internet Electronic Transport Related Standards (Version 3.2, August 15, 2020).
 
-(2) This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies of these standards may be obtained from the North American Energy Standards Board, 801 Travis Street, Suite 1675, Houston, TX 77002, *Phone:* (713) 356-0060. NAESB's Web site is at *http://www.naesb.org/.* Copies may be inspected at the Federal Energy Regulatory Commission, Public Reference and Files Maintenance Branch, 888 First Street, NE., Washington, DC 20426, *Phone:* (202) 502-8371, *http://www.ferc.gov,* or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.*
+(2) This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies of these standards may be obtained from the North American Energy Standards Board, 801 Travis Street, Suite 1675, Houston, TX 77002, *Phone:* (713) 356-0060. NAESB's website is at *https://www.naesb.org/.* Copies may be inspected at the Federal Energy Regulatory Commission, Public Reference Room, 888 First Street NE, Washington, DC 20426, *Phone:* (202) 502-8371, *https://www.ferc.gov/,* or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (b) *Business practices and electronic communication requirements.* An interstate pipeline that transports gas under subparts B or G of this part must comply with the following requirements. The regulations in this paragraph adopt the abbreviations and definitions contained in the North American Energy Standards Board Wholesale Gas Quadrant standards incorporated by reference in paragraph (a)(1) of this section.
 

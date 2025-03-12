@@ -1,5 +1,7 @@
 ##### § 429.14 Consumer refrigerators, refrigerator-freezers and freezers. #####
 
+Link to an amendment published at 86 FR 56819, Oct. 12, 2021.
+
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to residential refrigerators, refrigerator-freezers and freezers; and
 
 (2) For each basic model of residential refrigerators, refrigerator-freezers, and freezers, a sample of sufficient size shall be randomly selected and tested to ensure that -

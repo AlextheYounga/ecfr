@@ -1,10 +1,8 @@
 ##### § 1304.204 Docks, piers, and boathouses. #####
 
-Link to an amendment published at 86 FR 50635, Sept. 10, 2021.
-
 Applicants are responsible for submitting plans for proposed docks, piers, and boathouses that conform to the size standards specified in this section. Where and if site constraints at the proposed construction location preclude a structure of the maximum size, TVA shall determine the size of facility that may be approved. Applicants are required to submit accurate drawings with dimensions of all proposed facilities.
 
-(a) Docks, piers, boathouses, and all other residential water-use facilities shall not exceed a total footprint area of greater than 1,000 square feet, unless the proposed water-use facility will be located in an area of preexisting development. For the purpose of this regulation, “preexisting development” means either: The water-use facility will be located in a subdivision recorded before November 1, 1999, and TVA permitted at least one water-use facility in the subdivision prior to November 1, 1999; or if there is no subdivision, where the water-use facility will be located within a quarter-mile radius of another water-use facility that TVA permitted prior to November 1, 1999. TVA may allow even larger facilities where an applicant requests and justifies a waiver or variance, set forth in §§ 1304.212 and 1304.408 respectively, but such waivers or variances shall be made in TVA's discretion and on a case-by-case basis.
+(a) Docks, piers, boathouses, and all other residential water-use facilities shall not exceed a total footprint area of 1,000 square feet, unless the proposed water-use facility will be located in an area of preexisting development. For the purpose of this regulation, “preexisting development” means either: The water-use facility will be located in a subdivision recorded before November 1, 1999, and TVA permitted at least one water-use facility in the subdivision prior to November 1, 1999; or if there is no subdivision, where the water-use facility will be located within a quarter-mile radius of another water-use facility that TVA permitted prior to November 1, 1999. Water-use facilities located in an area of preexisting development shall not exceed a total footprint area of 1,800 square feet.
 
 (b) Docks, boatslips, piers, and fixed or floating boathouses are allowable. These and other water-use facilities associated with a lot must be sited within a 1,000- or 1,800-square-foot rectangular or square area as required by § 1304.204(a) at the lakeward end of the access walkway that extends from the shore to the structure. Access walkways to the water-use structure are not included in calculating the 1,000- or 1,800-square foot area.
 
@@ -20,7 +18,7 @@ Applicants are responsible for submitting plans for proposed docks, piers, and b
 
 (h) Docks proposed in subdivisions recorded after November 1, 1999, must be placed at least 50 feet from the neighbors' docks. When this density requirement cannot be met, TVA may require group or community facilities.
 
-(i) Where the applicant owns or controls less than 50 feet of property adjoining TVA shoreline, the overall width of the facilities permitted along the shore shall be limited to ensure sufficient space to accommodate other property owners.
+(i) Where the applicant owns or controls less than 50 feet of property adjoining TVA shoreland, the overall width of the facilities permitted along the shore shall be limited to ensure sufficient space to accommodate other property owners.
 
 (j) Covered boatslips may be open or enclosed with siding.
 
@@ -38,4 +36,4 @@ Applicants are responsible for submitting plans for proposed docks, piers, and b
 
 (q) In congested areas or in other circumstances deemed appropriate by TVA, TVA may require an applicant's dock, pier, or boathouse to be located on an area of TVA shoreline not directly fronting the applicant's property.
 
-[68 FR 46936, Aug. 7, 2003, as amended at 83 FR 44474, Aug. 31, 2018]
+[68 FR 46936, Aug. 7, 2003, as amended at 83 FR 44474, Aug. 31, 2018; 86 FR 50635, Sept. 10, 2021]
