@@ -1,5 +1,7 @@
 ##### § 1.10015 Are there exceptions for emergency filings? #####
 
+Link to an amendment published at 85 FR 17285, Mar. 27, 2020.
+
 (a) Sometimes we grant licenses, modifications or renewals even if no one files an application. Instances where this may occur include:
 
 (1) If we find there is an emergency involving danger to life or property, or because equipment is damaged;

@@ -1,5 +1,7 @@
 ##### § 1.10011 Who may sign applications? #####
 
+Link to an amendment published at 85 FR 17285, Mar. 27, 2020.
+
 (a) “Signed” in this section refers to electronically filed applications. An electronic application is “signed” when there is an electronic signature. An electronic signature is the typed name of the person “signing” the application, which is then electronically transmitted via IBFS.
 
 (b) For all electronically filed applications, you (or the signor) must actually sign a paper copy of the application, and keep the signed original in your files for future reference.

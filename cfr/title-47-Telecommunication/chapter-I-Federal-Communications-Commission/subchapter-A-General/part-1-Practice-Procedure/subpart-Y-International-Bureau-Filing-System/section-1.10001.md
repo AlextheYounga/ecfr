@@ -1,5 +1,7 @@
 ##### § 1.10001 Definitions. #####
 
+Link to an amendment published at 85 FR 17284, Mar. 27, 2020.
+
 *All other applications.* We consider all other applications officially filed once you file the application in IBFS and applicable filing fees are received and approved by the FCC, unless the application is determined to be fee-exempt. We determine your official filing date based on one of the following situations:
 
 |1. You file your Satellite Space Station Application (other than DBS and DARS) or your Application for Earth Stations to Access a Non-U.S. Satellite Not Currently Authorized to provide the Proposed Service in the Proposed Frequencies in the United States in IBFS|    Your official filing date is the date and time (to the millisecond) you file your application and receive a confirmation of filing and submission ID.    |

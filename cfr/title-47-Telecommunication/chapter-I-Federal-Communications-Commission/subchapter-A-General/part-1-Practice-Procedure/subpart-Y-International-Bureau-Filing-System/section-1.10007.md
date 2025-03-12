@@ -1,5 +1,7 @@
 ##### § 1.10007 What applications can I file electronically? #####
 
+Link to an amendment published at 85 FR 17284, Mar. 27, 2020.
+
 (a) For a complete list of applications or notifications that must be filed electronically, see the IBFS Web site at *http://www.fcc.gov/ibfs.*
 
 (b) Many applications require exhibits or attachments. If attachments are required, you must attach documentation to your electronic application before filing. We accept attachments in the following formats: Word, Adobe Acrobat, Excel and Text.

@@ -1,5 +1,7 @@
 ##### § 1.10006 Is electronic filing mandatory? #####
 
+Link to an amendment published at 85 FR 17284, Mar. 27, 2020.
+
 Electronic filing is mandatory for all applications for international and satellite services for which an International Bureau Filing System (IBFS) form is available. Applications for which an electronic form is not available must be filed by paper until new forms are introduced. *See* §§ 63.20 and 63.53. As each new IBFS form becomes available for electronic filing, the Commission will issue a public notice announcing the availability of the new form and the effective date of mandatory filing for this particular type of filing. As each new form becomes effective, manual filings will not be accepted by the Commission and the filings will be returned to the applicant without processing. Mandatory electronic filing requirements for applications for international and satellite services are set forth in parts 1, 25, 63, and 64 of this chapter. A list of forms that are available for electronic filing can be found on the IBFS homepage. For information on electronic filing requirements, see part 1, §§ 1.1000 through 1.10018 and the IBFS homepage at *http://www.fcc.gov/ibfs.*
 
 [70 FR 38797, July 6, 2005]

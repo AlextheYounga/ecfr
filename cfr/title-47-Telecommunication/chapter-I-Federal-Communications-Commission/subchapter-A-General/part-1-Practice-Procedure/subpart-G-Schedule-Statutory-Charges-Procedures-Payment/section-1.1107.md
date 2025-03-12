@@ -1,5 +1,7 @@
 ##### § 1.1107 Schedule of charges for applications and other filings for the international services. #####
 
+Link to an amendment published at 85 FR 17284, Mar. 27, 2020.
+
 Payment can be made electronically using the Commission's electronic filing and payment system “Fee Filer” (*www.fcc.gov/feefiler*). Remit manual filings and/or payments for these services to: Federal Communications Commission, International Bureau Applications, P.O. Box 979093, St. Louis, MO 63197-9000.
 
 |                                                   Service                                                   |                 FCC Form No.                  |           Fee amount           |   Payment type code   |

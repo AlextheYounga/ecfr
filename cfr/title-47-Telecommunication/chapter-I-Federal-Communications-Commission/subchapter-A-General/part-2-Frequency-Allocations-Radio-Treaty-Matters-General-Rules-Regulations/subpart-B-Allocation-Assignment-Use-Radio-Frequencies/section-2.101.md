@@ -8,7 +8,7 @@
 
 (3) In gigahertz (GHz), above 3 GHz, up to and including 3 000 GHz.
 
-(b) However, where adherence to these provisions would introduce serious difficulties, for example in connection with the notification and registration of frequencies, the lists of frequencies and related matters, reasonable departures may be made.1
+(b) However, where adherence to these provisions would introduce serious difficulties, for example in connection with the notification and registration of frequencies, the lists of frequencies and related matters, reasonable departures may be made.1/\>
 
 1 In the application of the ITU *Radio Regulations,* the Radiocommunication Bureau uses the following units:
 

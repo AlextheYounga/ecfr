@@ -1,5 +1,7 @@
 ##### § 1.10009 What are the steps for electronic filing? #####
 
+Link to an amendment published at 85 FR 17284, Mar. 27, 2020.
+
 (a) *Step 1: Register for an FCC Registration Number (FRN).* (See subpart W, §§ 1.8001 through 1.8004.)
 
 (1) If you already have an FRN, go to Step 2.

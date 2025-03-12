@@ -9008,7 +9008,103 @@ Note:
 
 Map follows:
 
-![](/graphics/ec01jn91.056.gif)New Mexican Ridge-Nosed Rattlesnake (*Crotalus willardi obscurus*)
+![](/graphics/ec01jn91.056.gif)Black Pinesnake (*Pituophis melanoleucus lodingi*)
+
+(1) Critical habitat units are depicted for Forrest, George, Greene, Harrison, Jones, Marion, Perry, Stone, and Wayne Counties, Mississippi, and Clarke County, Alabama, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of black pinesnake consist of the following components:
+
+(i) *Tract size and habitat structure.* A pine forest, historically dominated by longleaf pine and maintained by frequent fire, primarily having the following characteristics:
+
+(A) An open canopy that sustains a reduced woody mid-story (\<10 percent cover) and abundant, diverse, native herbaceous groundcover (at least 40 percent cover); and
+
+(B) Minimum of 5,000 ac (2,023 ha) of mostly unfragmented habitat.
+
+(ii) *Refugia sites.* Naturally burned-out or rotted-out pine stumps and their associated root system tunnels, in pine forests historically dominated by longleaf pine.
+
+(iii) *Soils.* Deep, sandy, well-drained soils characteristic of longleaf pine forests:
+
+(A) No flooding or ponding;
+
+(B) \<15 percent medium and coarse gravel fragments;
+
+(C) \>60 in (152 cm) depth to seasonal high water table;
+
+(D) \>60 in (152 cm) depth to the hardpan;
+
+(E) Textural components equaling \>30 percent sand and \<35 percent clay; and
+
+(F) A slope \<15 percent.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on March 27, 2020. In addition, State and Department of Defense lands covered under the Camp Shelby Integrated Natural Resources Management Plan (INRMP) are not considered critical habitat in Unit 3; nor are U.S. Forest Service lands within the Camp Shelby Impact Area Buffer Zone.
+
+(4) *Critical habitat map units.* Data layers defining map units were developed from USGS 7.5' quadrangles, and critical habitat units were then developed using Universal Transverse Mercator Zone 15N coordinates. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *http://www.fws.gov/mississippiES/,* at *http://www.regulations.gov* at Docket No. FWS-R4-ES-2014-0065, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) *Note:* Index map follows:
+
+![](/graphics/er26fe20.000.gif)
+
+(6) Unit 1: Ovett - Jones and Wayne Counties, Mississippi.
+
+(i) Unit 1 encompasses approximately 47,179 ac (19,093 ha) on Federal and private land in Jones and Wayne Counties, Mississippi. The majority of this unit (40,639 ac (16,446 ha)) is on Federal lands within the De Soto National Forest, with the remainder of the unit (6,540 ac (2,647 ha)) on private land. This unit is located between the Bogue Homo River and Thompson Creek, is approximately 2.0 mi (3.2 km) northeast of Ovett, and is mostly within the boundary of the Chickasawhay Ranger District of the De Soto National Forest. It is located just east of State Highway 15, west of Salem Road, north of the intersection of State Highway 15 and County Road 205, and approximately 1.3 mi (2.1 km) south of the intersection of Freedom Road and Forest Road.
+
+(ii) Map of Units 1 (Ovett) and 2 (Piney Woods Creek) follows:
+
+![](/graphics/er26fe20.001.gif)
+
+(7) Unit 2: Piney Woods Creek - Perry and Wayne Counties, Mississippi.
+
+(i) Unit 2 encompasses approximately 22,389 ac (9,061 ha) on Federal and private land located primarily in Wayne County, Mississippi, with a small portion extending into Perry County, Mississippi. The majority of this unit (17,744 ac (7,181 ha)) is on Federal lands within the De Soto National Forest, with the remainder of the Unit (4,645 ac (1,880 ha)) on private land. This unit is located between Thompson Creek and Piney Woods Creek, is approximately 4.0 mi (6.4 km) west of Clara, and is mostly within the boundary of the Chickasawhay Ranger District of the De Soto National Forest. It is located 2.3 mi (3.7 km) north of the intersection of Camp Eight Road and Will Best Road, and 0.4 mi (0.6 km) southeast of the intersection of Clara-Strengthford Road and Clara-Strengthford Reservoir Road.
+
+(ii) Map of Unit 2 (Piney Woods Creek) is provided at paragraph (6)(ii) of this entry.
+
+(8) Unit 3: Cypress Creek - Greene, George, Forrest, and Perry Counties, Mississippi.
+
+(i) This unit is located north of Black Creek (Cypress Creek runs into part of the unit, but is not a barrier to gene flow), and is approximately 3.0 mi (4.8 km) east of McLaurin, 1.8 mi (2.9 km) south of New Augusta, and 4.6 mi (7.4 km) northwest of Benndale. Unit 3 is mostly within the installation boundary of Camp Shelby on the De Soto Ranger District of the De Soto National Forest, and is bordered by State Highways 26 and 57 and U.S. Highways 49 and 98. The majority of this unit (115,315 ac (46,666 ha)) is on Federal lands, with another 1,768 ac (716 ha) on State lands, and the remainder (14,357 ac (5,810 ha)) on private land. This unit contains 4,054 ac (1,641 ha) of State- and Department of Defense (DoD)-owned lands (covered under the Camp Shelby INRMP) that are exempted from critical habitat designation; and 14,862 ac (6,014 ha) of U.S. Forest Service-owned lands excluded from critical habitat designation.
+
+(ii) Map of Units 3 (Cypress Creek) and 4 (Maxie) follows:
+
+![](/graphics/er26fe20.002.gif)
+
+(9) Unit 4: Maxie - Forrest, Perry, and Stone Counties, Mississippi.
+
+(i) Subunit 4A - Forrest and Stone Counties, Mississippi. Subunit 4A is located between Double Branch and U.S. Highway 49 in Forrest and Stone Counties, Mississippi. It is 0.3 mi (4.8 km) northwest of Bond and 0.5 mi (0.8 km) southwest of Maxie, and is located mostly within the boundary of the De Soto Ranger District of the De Soto National Forest. Most of this subunit (8,914 ac (3,607 ha)) is on Federal lands within the De Soto National Forest, with the remainder of the subunit (6,303 ac (2,551 ha)) on private land.
+
+(ii) Subunit 4B - Forrest, Perry, and Stone Counties, Mississippi. Subunit 4B is located between Black Creek and U.S. Highway 49 in Forrest, Perry, and Stone Counties, Mississippi. It is directly adjacent to Maxie on the western border, and is located mostly within the boundary of the De Soto Ranger District of the De Soto National Forest. Most of this subunit (28,232 ac (11,425 ha)) is on Federal lands within the De Soto National Forest, with the remainder of the subunit (16,079 ac (6,507 ha)) on private land.
+
+(iii) Map of Unit 4 (Maxie) is provided at paragraph (8)(ii) of this entry.
+
+(10) Unit 5: Howison - Harrison and Stone Counties, Mississippi.
+
+(i) Unit 5 encompasses approximately 12,949 ac (5,240 ha) on Federal and private land in Harrison and Stone Counties, Mississippi. The majority of this unit (9,430 ac (3,816 ha)) is on Federal lands within the De Soto National Forest, with the remainder of the unit on private lands (3,519 ac (1,424 ha)). This unit is located between Tuxachanie Creek and U.S. Highway 49, approximately 0.4 mi (0.6 km) east of Howison and 1.3 mi (2 km) southeast of McHenry. The unit is bordered on the northern edge by E. McHenry Road and on the western edge by U.S. Highway 49 (buffered from the highway by at least 328 ft (100 m)).
+
+(ii) Map of Unit 5 (Howison) follows:
+
+![](/graphics/er26fe20.003.gif)
+
+(11) Unit 6: Marion County Wildlife Management Area (WMA) - Marion County, Mississippi.
+
+(i) Unit 6 encompasses approximately 11,856 ac (4,798 ha) on State and private land in Marion County, Mississippi. The unit is divided between State lands (5,587 ac (2,261 ha)) and private lands (6,270 ac (2,537 ha)). This unit is located between the Upper Little Creek and Lower Little Creek, 7.0 mi (11 km) southeast of Columbia. It is located 0.8 mi (1.3 km) north of State Highway 13, and 2.6 mi (4.2 km) south of U.S. Highway 98. Approximately half of Unit 6 is within the Marion County Wildlife Management Area.
+
+(ii) Map of Unit 6 (Marion County WMA) follows:
+
+![](/graphics/er26fe20.004.gif)
+
+(12) Unit 7: Jones Branch - Clarke County, Alabama.
+
+(i) Unit 7 encompasses approximately 33,395 ac (13,515 ha) of private land in Clarke County, Alabama. This unit is bordered by Salitpa Creek to the south, Tallahatta Creek to the north, and Harris Creek to the west. It is located approximately 2.7 mi (4.3 km) southeast of Campbell and 1.1 mi (1.8 km) north of the intersection of Old Mill Pond Road and Reedy Branch Road.
+
+(ii) Map of Unit 7 (Jones Branch) follows:
+
+![](/graphics/er26fe20.005.gif)
+
+(13) Unit 8: Fred T. Stimpson Special Opportunity Area (SOA) - Clarke County, Alabama.
+
+(i) Unit 8 encompasses approximately 5,943 ac (2,405 ha) on State and private land in Clarke County, Alabama. Over 60 percent of the unit (3,843 ac (1,555 ha)) is on State lands, with the remainder of the unit (2,100 ac (850 ha)) on private land. This unit is located between Sand Hill Creek and the Tombigbee River, is approximately 1 mi (1.6 km) north of Carlton, and is 1.0 mi (1.6 km) south of the intersection of County Road 15 and Christian Vall Road. The southern two-thirds of this unit is on the Fred T. Stimpson SOA.
+
+(ii) Map of Unit 8 (Fred T. Stimpson SOA) follows:
+
+![](/graphics/er26fe20.006.gif)New Mexican Ridge-Nosed Rattlesnake (*Crotalus willardi obscurus*)
 
 *New Mexico.* Hidalgo County. Elevations between 6,200 feet and 8,532 feet in Bear, Indian, and Spring Canyons, Animas Mountains.
 
