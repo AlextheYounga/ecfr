@@ -1,12 +1,12 @@
 ##### § 64.2008 Notice required for use of customer proprietary network information. #####
 
-(a) *Notification, Generally.* (1) Prior to any solicitation for customer approval, a telecommunications carrier must provide notification to the customer of the customer's right to restrict use of, disclosure of, and access to that customer's CPNI.
+(a) *Notification, generally.* (1) Prior to any solicitation for customer approval, a telecommunications carrier must provide notification to the customer of the customer's right to restrict use of, disclosure of, and access to that customer's CPNI.
 
 (2) A telecommunications carrier must maintain records of notification, whether oral, written or electronic, for at least one year.
 
 (b) Individual notice to customers must be provided when soliciting approval to use, disclose, or permit access to customers' CPNI.
 
-(c) *Content of Notice.* Customer notification must provide sufficient information to enable the customer to make an informed decision as to whether to permit a carrier to use, disclose, or permit access to, the customer's CPNI.
+(c) *Content of notice.* Customer notification must provide sufficient information to enable the customer to make an informed decision as to whether to permit a carrier to use, disclose, or permit access to, the customer's CPNI.
 
 (1) The notification must state that the customer has a right, and the carrier has a duty, under federal law, to protect the confidentiality of CPNI.
 
@@ -28,7 +28,7 @@
 
 (10) A telecommunications carrier's solicitation for approval must be proximate to the notification of a customer's CPNI rights.
 
-(d) *Notice Requirements Specific to Opt-Out.* A telecommunications carrier must provide notification to obtain opt-out approval through electronic or written methods, but not by oral communication (except as provided in paragraph (f) of this section). The contents of any such notification must comply with the requirements of paragraph (c) of this section.
+(d) *Notice requirements specific to opt-out.* A telecommunications carrier must provide notification to obtain opt out approval through electronic or written methods, but not by oral communication (except as provided in paragraph (f) of this section). The contents of any such notification must comply with the requirements of paragraph (c) of this section.
 
 (1) Carriers must wait a 30-day minimum period of time after giving customers notice and an opportunity to opt-out before assuming customer approval to use, disclose, or permit access to CPNI. A carrier may, in its discretion, provide for a longer period. Carriers must notify customers as to the applicable waiting period for a response before approval is assumed.
 
@@ -38,21 +38,21 @@
 
 (2) Carriers using the opt-out mechanism must provide notices to their customers every two years.
 
-(3) Telecommunications carriers that use e-mail to provide opt-out notices must comply with the following requirements in addition to the requirements generally applicable to notification:
+(3) Telecommunications carriers that use email to provide opt-out notices must comply with the following requirements in addition to the requirements generally applicable to notification:
 
-(i) Carriers must obtain express, verifiable, prior approval from consumers to send notices via e-mail regarding their service in general, or CPNI in particular;
+(i) Carriers must obtain express, verifiable, prior approval from consumers to send notices via email regarding their service in general, or CPNI in particular;
 
-(ii) Carriers must allow customers to reply directly to e-mails containing CPNI notices in order to opt-out;
+(ii) Carriers must allow customers to reply directly to emails containing CPNI notices in order to opt-out;
 
-(iii) Opt-out e-mail notices that are returned to the carrier as undeliverable must be sent to the customer in another form before carriers may consider the customer to have received notice;
+(iii) Opt-out email notices that are returned to the carrier as undeliverable must be sent to the customer in another form before carriers may consider the customer to have received notice;
 
-(iv) Carriers that use e-mail to send CPNI notices must ensure that the subject line of the message clearly and accurately identifies the subject matter of the e-mail; and
+(iv) Carriers that use email to send CPNI notices must ensure that the subject line of the message clearly and accurately identifies the subject matter of the email; and
 
 (v) Telecommunications carriers must make available to every customer a method to opt-out that is of no additional cost to the customer and that is available 24 hours a day, seven days a week. Carriers may satisfy this requirement through a combination of methods, so long as all customers have the ability to opt-out at no cost and are able to effectuate that choice whenever they choose.
 
-(e) *Notice Requirements Specific to Opt-In.* A telecommunications carrier may provide notification to obtain opt-in approval through oral, written, or electronic methods. The contents of any such notification must comply with the requirements of paragraph (c) of this section.
+(e) *Notice requirements specific to opt-in.* A telecommunications carrier may provide notification to obtain opt-in approval through oral, written, or electronic methods. The contents of any such notification must comply with the requirements of paragraph (c) of this section.
 
-(f) *Notice Requirements Specific to One-Time Use of CPNI.* (1) Carriers may use oral notice to obtain limited, one-time use of CPNI for inbound and outbound customer telephone contacts for the duration of the call, regardless of whether carriers use opt-out or opt-in approval based on the nature of the contact.
+(f) *Notice requirements specific to one-time use of CPNI.* (1) Carriers may use oral notice to obtain limited, one-time use of CPNI for inbound and outbound customer telephone contacts for the duration of the call, regardless of whether carriers use opt-out or opt-in approval based on the nature of the contact.
 
 (2) The contents of any such notification must comply with the requirements of paragraph (c) of this section, except that telecommunications carriers may omit any of the following notice provisions if not relevant to the limited use for which the carrier seeks CPNI:
 
@@ -63,5 +63,3 @@
 (iii) Carriers need not disclose the means by which a customer can deny or withdraw future access to CPNI, so long as carriers explain to customers that the scope of the approval the carrier seeks is limited to one-time use; and
 
 (iv) Carriers may omit disclosure of the precise steps a customer must take in order to grant or deny access to CPNI, as long as the carrier clearly communicates that the customer can deny access to his CPNI for the call.
-
-[67 FR 59212, Sept. 20, 2002]

@@ -1,5 +1,7 @@
 ##### § 2.01-25 International Convention for Safety of Life at Sea, 1974. #####
 
+Link to an amendment published at 82 FR 44118, Sept. 21, 2017.
+
 (a) *Certificates required.* (1) The International Convention for Safety of Life at Sea, 1974, requires one or more of the following certificates to be carried on board certain passenger, cargo or tankships engaged in international voyages:
 
 (i) Passenger Ship Safety Certificate.

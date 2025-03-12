@@ -1,7 +1,5 @@
 ##### § 64.606 Internet-based TRS provider and TRS program certification. #####
 
-Link to an amendment published at 82 FR 39683, August 22, 2017.
-
 (a) *Documentation* - (1) *Certified state program.* Any state, through its office of the governor or other delegated executive office empowered to provide TRS, desiring to establish a state program under this section shall submit, not later than October 1, 1992, documentation to the Commission addressed to the Federal Communications Commission, Chief, Consumer & Governmental Affairs Bureau, TRS Certification Program, Washington, DC 20554, and captioned “TRS State Certification Application.” All documentation shall be submitted in narrative form, shall clearly describe the state program for implementing intrastate TRS, and the procedures and remedies for enforcing any requirements imposed by the state program. The Commission shall give public notice of states filing for certification including notification in the Federal Register.
 
 (2) *Internet-based TRS provider.* Any entity desiring to provide Internet-based TRS and to receive compensation from the Interstate TRS Fund, shall submit documentation to the Commission addressed to the Federal Communications Commission, Chief, Consumer and Governmental Affairs Bureau, TRS Certification Program, Washington, DC 20554, and captioned “Internet-based TRS Certification Application.” The documentation shall include, in narrative form:
@@ -45,12 +43,6 @@ Link to an amendment published at 82 FR 39683, August 22, 2017.
 (v) The chief executive officer (CEO), chief financial officer (CFO), or other senior executive of an applicant for Internet-based TRS certification under this section with first hand knowledge of the accuracy and completeness of the information provided, when submitting an application for certification under paragraph (a)(2) of this section, must certify as follows: I swear under penalty of perjury that I am \_\_\_\_\_\_\_\_(name and title), \_\_\_\_\_\_\_\_an officer of the above-named applicant, and that I have examined the foregoing submissions, and that all information required under the Commission's rules and orders has been provided and all statements of fact, as well as all documentation contained in this submission, are true, accurate, and complete.
 
 (3) *Assessment of internet-based TRS provider certification application.* In order to assess the merits of a certification application submitted by an Internet-based TRS provider, the Commission may conduct one or more on-site visits of the applicant's premises, to which the applicant must consent.
-
-(4) For the purposes of paragraphs (a)(2)(ii)(A)(*4*) and (a)(2)(ii)(A)(*6*) of this section, VRS CA Service Providers shall, in their description of the technology and equipment used to support their call center functions, describe:
-
-(i) How they provide connectivity to the Neutral Video Communication Service Platform; and
-
-(ii) How they internally route calls to CAs and then back to the Neutral Video Communication Service Platform. VRS CA service providers need not describe ACD platform functionality if it is not used for these purposes.
 
 (b)(1) *Requirements for state certification.* After review of state documentation, the Commission shall certify, by letter, or order, the state program if the Commission determines that the state certification documentation:
 
@@ -122,4 +114,4 @@ I swear under penalty of perjury that I am \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
 
 (4) A VRS provider that fails to obtain prior Commission authorization for a voluntary service interruption or fails to provide written notification after a voluntary service interruption of less than 30 minutes in duration, or an Internet-based TRS provider that fails to provide written notification after the commencement of an unforeseen service interruption due to circumstances beyond the provider's control in accordance with this subsection, may be subject to revocation of certification, suspension of payment from the TRS Fund, or other enforcement action by the Commission, as appropriate.
 
-[70 FR 76215, Dec. 23, 2005. Redesignated at 73 FR 21259, Apr. 21, 2008; 76 FR 24402, May 2, 2011; 76 FR 47474, 47477, Aug. 5, 2011; 76 FR 67073, Oct. 31, 2011;77 FR 33662, June 7, 2012; 78 FR 40608, July 5, 2013; 78 FR 53694, Aug. 30, 2013]Effective Date Note:At 78 FR 53694, Aug. 30, 2013, § 64.606 (a)(2)(ii)(F) was added. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[70 FR 76215, Dec. 23, 2005. Redesignated at 73 FR 21259, Apr. 21, 2008; 76 FR 24402, May 2, 2011; 76 FR 47474, 47477, Aug. 5, 2011; 76 FR 67073, Oct. 31, 2011;77 FR 33662, June 7, 2012; 78 FR 40608, July 5, 2013; 78 FR 53694, Aug. 30, 2013; 82 FR 39683, Aug. 22, 2017]Effective Date Note:At 78 FR 53694, Aug. 30, 2013, § 64.606 (a)(2)(ii)(F) was added. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

@@ -35,5 +35,3 @@
 (q) *Telephone number of record.* The telephone number associated with the underlying service, not the telephone number supplied as a customer's “contact information.”
 
 (r) *Valid photo ID.* A “valid photo ID” is a government-issued means of personal identification with a photograph such as a driver's license, passport, or comparable ID that is not expired.
-
-[72 FR 31961, June 8, 2007]

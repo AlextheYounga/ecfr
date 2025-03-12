@@ -15,5 +15,3 @@
 (1) The notice shall be in the form of a letter, and shall include the carrier's name, a description of the opt-out mechanism(s) used, the problem(s) experienced, the remedy proposed and when it will be/was implemented, whether the relevant state commission(s) has been notified and whether it has taken any action, a copy of the notice provided to customers, and contact information.
 
 (2) Such notice must be submitted even if the carrier offers other methods by which consumers may opt-out.
-
-[63 FR 20338, Apr. 24, 1998, as amended at 64 FR 53264, Oct. 1, 1999; 67 FR 59213, Sept. 20, 2002; 72 FR 31962, June 8, 2007]

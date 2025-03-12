@@ -1,5 +1,7 @@
 ##### § 8.320 Classification society authorization to issue international certificates. #####
 
+Link to an amendment published at 82 FR 44118, Sept. 21, 2017.
+
 (a) The Commandant may authorize a recognized classification society to issue certain international convention certificates. Authorization will be based on review of:
 
 (1) Applicable class rules; and

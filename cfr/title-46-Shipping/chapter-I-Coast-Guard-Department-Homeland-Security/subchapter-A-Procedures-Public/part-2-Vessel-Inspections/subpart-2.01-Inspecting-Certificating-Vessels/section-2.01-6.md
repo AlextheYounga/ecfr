@@ -1,5 +1,7 @@
 ##### § 2.01-6 Certificates issued to foreign vessels. #####
 
+Link to an amendment published at 82 FR 44118, Sept. 21, 2017.
+
 (a) *Issuance of a Certificate of Compliance (COC).* Foreign vessels of countries which are signatory to the International Convention for the Safety of Life at Sea, 1974, are issued a Certificate of Compliance (CG-3585) upon satisfactory completion of a compliance examination by the Officer in Charge, Marine Inspection:
 
 (1) A foreign passenger vessel that is registered in a country which is signatory to the International Convention for the Safety of Life at Sea, 1974, visits U.S. ports with U.S. citizens as passengers or embarks passengers in U.S. ports, and holds a valid Passenger Ship Safety Certificate;

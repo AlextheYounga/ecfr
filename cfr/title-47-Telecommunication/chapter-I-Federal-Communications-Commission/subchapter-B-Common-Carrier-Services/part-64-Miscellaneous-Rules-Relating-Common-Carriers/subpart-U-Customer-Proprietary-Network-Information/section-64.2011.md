@@ -17,5 +17,3 @@
 (e) *Definitions.* As used in this section, a “breach” has occurred when a person, without authorization or exceeding authorization, has intentionally gained access to, used, or disclosed CPNI.
 
 (f) This section does not supersede any statute, regulation, order, or interpretation in any State, except to the extent that such statute, regulation, order, or interpretation is inconsistent with the provisions of this section, and then only to the extent of the inconsistency.
-
-[72 FR 31963, June 8, 2007]

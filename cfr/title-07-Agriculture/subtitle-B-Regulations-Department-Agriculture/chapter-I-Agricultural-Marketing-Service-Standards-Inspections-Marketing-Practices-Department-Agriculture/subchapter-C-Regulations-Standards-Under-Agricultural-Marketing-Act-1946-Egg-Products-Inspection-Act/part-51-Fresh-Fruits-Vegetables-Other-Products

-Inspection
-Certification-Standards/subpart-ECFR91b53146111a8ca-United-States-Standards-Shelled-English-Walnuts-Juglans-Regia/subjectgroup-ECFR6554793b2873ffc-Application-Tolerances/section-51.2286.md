@@ -1,0 +1,3 @@
+##### § 51.2286 Application of tolerances. #####
+
+The tolerances provided in these standards are on a lot basis, and they shall be applied to a composite sample representative of the lot. However, any container or group of containers in which the walnuts are obviously of a quality materially different from that in the majority of containers shall be considered a separate lot, and shall be sampled separately.

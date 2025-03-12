@@ -1,7 +1,5 @@
 ##### § 64.611 Internet-based TRS registration. #####
 
-Link to an amendment published at 82 FR 39683, August 22, 2017.
-
 (a) *Default provider registration.* Every provider of VRS or IP Relay must, no later than December 31, 2008, provide users with the capability to register with that VRS or IP Relay provider as a “default provider.” Upon a user's registration, the VRS or IP Relay provider shall:
 
 (1) Either:
@@ -126,6 +124,4 @@ Link to an amendment published at 82 FR 39683, August 22, 2017.
 
 (2) VRS and IP Relay providers must obtain and keep a record of affirmative acknowledgment by every Registered Internet-based TRS User of having received and understood the advisory described in this subsection.
 
-(h) A VRS CA service provider shall fulfill its obligations under paragraphs (a), (c), (d), and (e) of this section using the Neutral Video Communication Service Platform.
-
-[73 FR 41295, July 18, 2008, as amended at 76 FR 59557, Sept. 27, 2011; 78 FR 40608, July 5, 2013]Effective Date Note:At 82 FR 17763, Apr. 13, 2017, § 64.611 was amended in part by adding paragraphs (a)(5) and (g)(1)(vii) and revising (c)(2)(i). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[73 FR 41295, July 18, 2008, as amended at 76 FR 59557, Sept. 27, 2011; 78 FR 40608, July 5, 2013; 82 FR 39683, Aug. 22, 2017]Effective Date Note:At 82 FR 17763, Apr. 13, 2017, § 64.611 was amended in part by adding paragraphs (a)(5) and (g)(1)(vii) and revising (c)(2)(i). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

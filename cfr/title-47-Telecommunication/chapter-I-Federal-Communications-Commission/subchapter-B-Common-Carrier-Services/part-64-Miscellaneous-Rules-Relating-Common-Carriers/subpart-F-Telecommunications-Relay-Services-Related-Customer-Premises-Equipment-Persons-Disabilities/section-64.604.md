@@ -1,7 +1,5 @@
 ##### § 64.604 Mandatory minimum standards. #####
 
-Link to an amendment published at 82 FR 39682, August 22, 2017.
-
 The standards in this section are applicable December 18, 2000, except as stated in paragraphs (c)(2) and (c)(7) of this section.
 
 (a) *Operational standards* - (1) *Communications assistant (CA).* (i) TRS providers are responsible for requiring that all CAs be sufficiently trained to effectively meet the specialized communications needs of individuals with hearing and speech disabilities.
@@ -88,15 +86,7 @@ The standards in this section are applicable December 18, 2000, except as stated
 
 (E) A LEC shall provide the call attempt rates and the rates of calls blocked between the LEC and the TRS facility to relay administrators and TRS providers upon request.
 
-(iii) *Speed of answer requirements for VRS providers.* (A) Speed of answer requirements for VRS providers are phased-in as follows:
-
-(*1*) By January 1, 2007, VRS providers must answer 80% of all VRS calls within 120 seconds, measured on a monthly basis;
-
-(*2*) By January 1, 2014, VRS providers must answer 85% of all VRS calls within 60 seconds, measured on a daily basis; and
-
-(*3*) By July 1, 2014, VRS providers must answer 85% of all VRS calls within 30 seconds, measured on a daily basis. Abandoned calls shall be included in the VRS speed of answer calculation.
-
-(B) VRS CA service providers must meet the speed of answer requirements for VRS providers as measured from the time a VRS call reaches facilities operated by the VRS CA service provider to the time when the call is answered by a CA - *i.e.,* not when the call is put on hold, placed in a queue, or connected to an IVR system.
+(iii) *Speed of answer requirements for VRS providers.* VRS providers must answer 80% of all VRS calls within 120 seconds, measured on a monthly basis. VRS providers must meet the speed of answer requirements for VRS providers as measured from the time a VRS call reaches facilities operated by the VRS provider to the time when the call is answered by a CA - *i.e.,* not when the call is put on hold, placed in a queue, or connected to an IVR system. Abandoned calls shall be included in the VRS speed of answer calculation.
 
 (3) *Equal access to interexchange carriers.* TRS users shall have access to their chosen interexchange carrier through the TRS, and to all other operator services to the same extent that such access is provided to voice users. This requirement is inapplicable to providers of Internet-based TRS if they do not assess specific charges for long distance calling.
 
@@ -106,7 +96,7 @@ The standards in this section are applicable December 18, 2000, except as stated
 
 (iii) A VRS CA may not handle VRS calls from a location primarily used as his or her home unless as part of the voluntary at-home VRS call handling pilot program as provided for by paragraph (b)(8) of this section.
 
-(iv) A VRS provider leasing or licensing an automatic call distribution (ACD) platform must have a written lease or license agreement. Such lease or license agreement may not include any revenue sharing agreement or compensation based upon minutes of use. In addition, if any such lease is between two eligible VRS providers, the lessee or licensee must locate the ACD platform on its own premises and must utilize its own employees to manage the ACD platform. VRS CA service providers are not required to have a written lease or licensing agreement for an ACD if they obtain that function from the Neutral Video Communication Service Platform.
+(iv) A VRS provider leasing or licensing an automatic call distribution (ACD) platform must have a written lease or license agreement. Such lease or license agreement may not include any revenue sharing agreement or compensation based upon minutes of use. In addition, if any such lease is between two eligible VRS providers, the lessee or licensee must locate the ACD platform on its own premises and must utilize its own employees to manage the ACD platform.
 
 (5) *Technology.* No regulation set forth in this subpart is intended to discourage or impair the development of improved technology that fosters the availability of telecommunications to person with disabilities. TRS facilities are permitted to use SS7 technology or any other type of similar technology to enhance the functional equivalency and quality of TRS. TRS facilities that utilize SS7 technology shall be subject to the Calling Party Telephone Number rules set forth at 47 CFR 64.1600 *et seq.*
 
@@ -350,7 +340,7 @@ I swear under penalty of perjury that:
 
 (*ii*) VRS service must be offered under the name by which the eligible VRS provider offering such service became certified and in a manner that clearly identifies that provider of the service. Where a TRS provider also utilizes sub-brands to identify its VRS, each sub-brand must clearly identify the eligible VRS provider. Providers must route all VRS calls through a single URL address used for each name or sub-brand used.
 
-(*iii*) An eligible VRS provider may not contract with or otherwise authorize any third party to provide interpretation services or call center functions (including call distribution, call routing, call setup, mapping, call features, billing, and registration) on its behalf, unless that authorized third party also is an eligible provider, or the eligible VRS provider is a VRS CA service provider and the authorized third party is the provider of the Neutral Video Communication Service Platform, except that a VRS CA service provider may not contract with or otherwise authorize the provider of the Neutral Video Communication Service Platform to perform billing on its behalf.
+(*iii*) An eligible VRS provider may not contract with or otherwise authorize any third party to provide interpretation services or call center functions (including call distribution, call routing, call setup, mapping, call features, billing, and registration) on its behalf, unless that authorized third party also is an eligible provider.
 
 (*iv*) To the extent that an eligible VRS provider contracts with or otherwise authorizes a third party to provide any other services or functions related to the provision of VRS other than interpretation services or call center functions, that third party must not hold itself out as a provider of VRS, and must clearly identify the eligible VRS provider to the public. To the extent an eligible VRS provider contracts with or authorizes a third party to provide any services or functions related to marketing or outreach, and such services utilize VRS, those VRS minutes are not compensable on a per minute basis from the TRS fund.
 
