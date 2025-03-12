@@ -58,7 +58,7 @@ To be eligible for a loan guarantee under this part, a Borrower must meet the re
 
 (4) A borrower must demonstrate, to the Agency's satisfaction, that guaranteed loan funds will remain in the United States and the Project being financed will primarily create new or save existing jobs for rural U.S. residents.
 
-(e) *REAP loan guarantees.* To be eligible for a loan guarantee under REAP, a borrower must meet the requirements specified in paragraphs (e)(1) through (4) of this section.
+(e) *REAP loan guarantees.* To be eligible for a loan guarantee under REAP, a borrower must meet the requirements specified in paragraphs (e)(1) through (5) of this section.
 
 (1) *Type of borrower.* The borrower must be either an agricultural producer or a rural small business.
 
@@ -74,4 +74,4 @@ To be eligible for a loan guarantee under this part, a Borrower must meet the re
 
 (5) *Matching funds.* The borrower must demonstrate evidence of injection of matching funds in the project of not less than 25 percent of total eligible project costs. Passive third-party contributions are acceptable as matching funds for RES projects, including those raised from the sale of Federal tax credits.
 
-[85 FR 42518, July 14, 2020, as amended at 86 FR 70356, Dec. 10, 2021]
+[85 FR 42518, July 14, 2020, as amended at 86 FR 70356, Dec. 10, 2021; 87 FR 42297, July 15, 2022]

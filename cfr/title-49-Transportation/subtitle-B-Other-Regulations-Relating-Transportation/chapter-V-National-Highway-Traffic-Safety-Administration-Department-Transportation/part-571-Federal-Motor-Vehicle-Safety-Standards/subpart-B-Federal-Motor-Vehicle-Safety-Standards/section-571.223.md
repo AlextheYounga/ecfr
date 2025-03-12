@@ -1,5 +1,7 @@
 ##### § 571.223 Standard No. 223; Rear impact guards. #####
 
+Link to an amendment published at 87 FR 42366, July 15, 2022.
+
 S1. *Scope.* This standard specifies requirements for rear impact guards for trailers and semitrailers.
 
 S2. *Purpose.* The purpose of this standard is to reduce the number of deaths and serious injuries that occur when light duty vehicles collide with the rear end of trailers and semitrailers.

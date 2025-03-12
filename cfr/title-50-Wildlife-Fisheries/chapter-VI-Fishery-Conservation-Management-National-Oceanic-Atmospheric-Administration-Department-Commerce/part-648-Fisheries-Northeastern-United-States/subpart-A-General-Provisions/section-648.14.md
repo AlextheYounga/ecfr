@@ -813,7 +813,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (iv) *Restriction on sale and transfer.* Sell, trade, barter, or otherwise transfer; or attempt to sell, trade, barter or otherwise transfer; NE multispecies for a commercial purpose as specified in § 648.89(d).
 
-(v) *Size limits.* If fishing under the recreational or charter/party regulations, possess regulated species or ocean pout that are smaller than the minimum fish sizes specified in § 648.89(b)(1) and (b)(3).
+(v) *Size limits.* If fishing under the recreational or charter/party regulations, possess regulated species or ocean pout that are smaller than the minimum fish sizes or larger than maximum fish sizes specified in § 648.89(b)(1) and (b)(3).
 
 (vi) *Identification.* If fishing under the recreational or charter/party regulations, possess regulated species or ocean pout without at least 2 square inches (5.1 square cm) of contiguous skin that allows for the ready identification of the species of fish upon landing.
 

@@ -2,26 +2,26 @@
 
 (a) *Recreational gear restrictions.* Persons aboard charter/party vessels permitted under this part and not fishing under the DAS program or under the restrictions and conditions of an approved sector operations plan, as specified in § 648.87(c), and recreational fishing vessels in the EEZ, are prohibited from fishing with more than one line per angler, and all other gear on board must be stowed and not available for immediate use as defined in § 648.2.
 
-(b) *Recreational minimum fish sizes* - (1) *Minimum fish sizes.* Unless further restricted under this section, persons aboard charter or party boats permitted under this part and not fishing under the NE multispecies DAS program or under the restrictions and conditions of an approved sector operations plan, and private recreational fishing vessels may not possess fish in or from the EEZ that are smaller than the minimum fish sizes, measured in total length, as follows:
+(b) *Recreational minimum and maximum fish sizes* - (1) *Minimum and maximum fish sizes.* Unless further restricted under this section, persons aboard charter or party boats permitted under this part and not fishing under the NE multispecies DAS program or under the restrictions and conditions of an approved sector operations plan, and private recreational fishing vessels may not possess fish in or from the EEZ that are smaller than the minimum fish sizes or larger than the maximum fish sizes, measured in total length, as follows:
 
 Table 1 to Paragraph (b)(1)
 
-|                  Species                  |Minimum size|     |
-|-------------------------------------------|------------|-----|
-|                  Inches                   |     cm     |     |
-|                   Cod:                    |            |     |
-|Inside GOM Regulated Mesh Area<sup>1</sup> |     21     |53.3 |
-|Outside GOM Regulated Mesh Area<sup>1</sup>|     21     |53.3 |
-|                 Haddock:                  |            |     |
-|Inside GOM Regulated Mesh Area<sup>1</sup> |     17     |43.2 |
-|Outside GOM Regulated Mesh Area<sup>1</sup>|     18     |45.7 |
-|                  Pollock                  |     19     |48.3 |
-|        Witch Flounder (gray sole)         |     14     |35.6 |
-|            Yellowtail Flounder            |     13     |33.0 |
-|           American Plaice (dab)           |     14     |35.6 |
-|             Atlantic Halibut              |     41     |104.1|
-|       Winter Flounder (black back)        |     12     |30.5 |
-|                  Redfish                  |     9      |22.9 |
+|                  Species                  |Minimum size|Maximum size|   |    |
+|-------------------------------------------|------------|------------|---|----|
+|                  Inches                   |     cm     |   Inches   |cm |    |
+|                   Cod:                    |            |            |   |    |
+|Inside GOM Regulated Mesh Area<sup>1</sup> |     21     |    53.3    |N/A|N/A |
+|Outside GOM Regulated Mesh Area<sup>1</sup>|     22     |    55.9    |28 |71.1|
+|                 Haddock:                  |            |            |   |    |
+|Inside GOM Regulated Mesh Area<sup>1</sup> |     17     |    43.2    |N/A|N/A |
+|Outside GOM Regulated Mesh Area<sup>1</sup>|     18     |    45.7    |N/A|N/A |
+|                  Pollock                  |     19     |    48.3    |N/A|N/A |
+|        Witch Flounder (gray sole)         |     14     |    35.6    |N/A|N/A |
+|            Yellowtail Flounder            |     13     |    33.0    |N/A|N/A |
+|           American Plaice (dab)           |     14     |    35.6    |N/A|N/A |
+|             Atlantic Halibut              |     41     |   104.1    |N/A|N/A |
+|       Winter Flounder (black back)        |     12     |    30.5    |N/A|N/A |
+|                  Redfish                  |     9      |    22.9    |N/A|N/A |
 
 <sup>1</sup> GOM Regulated Mesh Area specified in § 648.80(a).
 
@@ -35,11 +35,11 @@ Table 1 to Paragraph (b)(1)
 
 (i) *Closed season.* Persons aboard private recreational fishing vessels may not possess species, as specified in the column titled “Species” in Table 2 to paragraph (c), in or from the EEZ during that species closed season as specified in the column titled “Closed Season” in Table 2 to paragraph (c).
 
-Table 2 to Paragraph (c)
+Table 2 to Paragraph (c)(i)
 
 |          Stock           |             Open season             |Possession limit|              Closed season               |
 |--------------------------|-------------------------------------|----------------|------------------------------------------|
-|          GB Cod          |              All Year               |       10       |                   N/A.                   |
+|          GB Cod          |          August 1-April 30          |       5        |              May 1-July 31.              |
 |         GOM Cod          |     September 15-30, April 1-14     |       1        |April 15-September 14, October 1-March 31.|
 |        GB Haddock        |              All Year               |   Unlimited    |                   N/A.                   |
 |       GOM Haddock        |May 1-February 28 (or 29), April 1-30|       15       |            March 1-March 31.             |
@@ -57,18 +57,18 @@ Table 2 to Paragraph (c)
 |  N Windowpane Flounder   |               Closed                |  No retention  |                All Year.                 |
 |  S Windowpane Flounder   |               Closed                |  No retention  |                All Year.                 |
 |        Ocean Pout        |               Closed                |  No retention  |                All Year.                 |
-|     Atlantic Halibut     |See paragraph (c)(3) of this section |                |                                          |
+|     Atlantic Halibut     |See paragraph (c)(3) of this section.|                |                                          |
 |    Atlantic Wolffish     |               Closed                |  No retention  |                All Year.                 |
 
 (ii) [Reserved]
 
 (2) *Charter or Party Boats.* Persons aboard party or charter boats during the open season listed in the column titled “Open Season” in Table 3 to this paragraph (c), may not possess more fish in or from the EEZ than the amount listed in the column titled “Possession Limit” in Table 3 to this paragraph (c).
 
-Table 3 to Paragraph (c)
+Table 3 to Paragraph (c)(2)
 
 |         Species          |             Open season             |Possession limit|              Closed season              |
 |--------------------------|-------------------------------------|----------------|-----------------------------------------|
-|          GB Cod          |              All Year               |       10       |                  N/A.                   |
+|          GB Cod          |          August 1-April 30          |       5        |             May 1-July 31.              |
 |         GOM Cod          |  September 8-October 7, April 1-14  |       1        |April 15-September 7, October 8-March 31.|
 |        GB Haddock        |              All Year               |   Unlimited    |                  N/A.                   |
 |       GOM Haddock        |May 1-February 28 (or 29), April 1-30|       15       |            March 1-March 31.            |
@@ -86,7 +86,7 @@ Table 3 to Paragraph (c)
 |  N Windowpane Flounder   |               Closed                |  No retention  |                All Year.                |
 |  S Windowpane Flounder   |               Closed                |  No retention  |                All Year.                |
 |        Ocean Pout        |               Closed                |  No retention  |                All Year.                |
-|     Atlantic Halibut     |See Paragraph (c)(3) of this section |                |                                         |
+|     Atlantic Halibut     |See Paragraph (c)(3) of this section.|                |                                         |
 |    Atlantic Wolffish     |               Closed                |  No retention  |                All Year.                |
 
 (3) *Atlantic halibut.* Vessels permitted under this part, and recreational fishing vessels fishing in the EEZ, may not possess more than one Atlantic halibut on board the vessel.
@@ -123,6 +123,6 @@ Table 3 to Paragraph (c)
 
 (3) *Proactive AM adjustment.* When necessary, the Regional Administrator, after consultation with the NEFMC, may adjust recreational measures to ensure the recreational fishery achieves, but does not exceed any recreational fishery sub-ACL in a future fishing year. Appropriate AMs for the recreational fishery, including adjustments to fishing season, minimum fish size, or possession limits, may be implemented in a manner consistent with the Administrative Procedure Act, with final measures published in the Federal Register prior to the start of the fishing year where possible. In specifying these AMs, the Regional Administrator shall take into account the non-binding prioritization of possible measures recommended by the NEFMC: For cod, first increases to minimum fish sizes, then adjustments to seasons, followed by changes to bag limits; and for haddock, first increases to minimum size limits, then changes to bag limits, and then adjustments to seasons.
 
-(g) *Regional Administrator authority for 2018 and 2019 Georges Bank cod recreational measures.* For the 2018 or 2019 fishing years, the Regional Administrator, after consultation with the NEFMC, may adjust recreational measures for Georges Bank cod to prevent the recreational fishery from exceeding the annual catch target of 138 mt. Appropriate measures, including adjustments to fishing seasons, minimum fish sizes, or possession limits, may be implemented in a manner consistent with the Administrative Procedure Act, with the final measures published in the Federal Register prior to the start of the fishing year when possible. Separate measures may be implemented for the private and charter/party components of the recreational fishery. Measures in place in fishing year 2019 will be in effect beginning in fishing year 2020, and will remain in effect until they are changed by a Framework Adjustment or Amendment to the FMP, or through an emergency action.
+(g) *Regional Administrator authority for Georges Bank cod recreational measures.* For the 2023 and 2024 fishing years, the Regional Administrator, after consultation with the NEFMC, may adjust recreational measures for Georges Bank cod to prevent the recreational fishery from exceeding the annual catch target as determined by the NEFMC. Appropriate measures, including adjustments to fishing seasons, minimum fish sizes, or possession limits, may be implemented in a manner consistent with the Administrative Procedure Act, with the final measures published in the Federal Register prior to the start of the fishing year when possible. Separate measures may be implemented for the private and charter/party components of the recreational fishery. Measures in place in fishing year 2024 will be in effect beginning in fishing year 2025, and will remain in effect until they are changed by a Framework Adjustment or Amendment to the FMP, or through an emergency action.
 
 [69 FR 22984, Apr. 27, 2004]Editorial Note:For Federal Register citations affecting § 648.89, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

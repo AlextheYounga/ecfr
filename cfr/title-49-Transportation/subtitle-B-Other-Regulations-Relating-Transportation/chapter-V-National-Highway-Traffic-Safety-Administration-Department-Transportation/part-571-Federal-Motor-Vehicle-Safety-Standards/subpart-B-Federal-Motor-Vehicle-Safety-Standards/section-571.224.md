@@ -1,5 +1,7 @@
 ##### § 571.224 Standard No. 224; Rear impact protection. #####
 
+Link to an amendment published at 87 FR 42372, July 15, 2022.
+
 S1. *Scope.* This standard establishes requirements for the installation of rear impact guards on trailers and semitrailers with a gross vehicle weight rating (GVWR) of 4,536 kg or more.
 
 S2. *Purpose.* The purpose of this standard is to reduce the number of deaths and serious injuries occurring when light duty vehicles impact the rear of trailers and semitrailers with a GVWR of 4,536 kg or more.

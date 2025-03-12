@@ -136,10 +136,10 @@ CERTIFICATE
 
 I, \_\_\_\_\_\_\_\_\_\_\_\_, certify that I am the Secretary of ABC CORPORATION, that \_\_\_\_\_\_\_\_\_\_\_\_, who signed this Agreement for this corporation, was then\_\_\_\_\_\_\_\_\_\_\_\_ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporation powers. WITNESS MY HAND, and the seal of this corporation, this \_\_\_\_\_\_\_\_\_\_\_\_day of \_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_\_\_
 
-BY(CORPORATE SEAL)
+BY:(CORPORATE SEAL)
 
 CERTIFICATE
 
 I, \_\_\_\_\_\_\_\_\_\_\_\_, certify that I am the Secretary of XYZ CORPORATION, that \_\_\_\_\_\_\_\_\_\_\_\_, who signed this Agreement for this corporation, was then\_\_\_\_\_\_\_\_\_\_\_\_ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporation powers. WITNESS MY HAND, and the seal of this corporation, this \_\_\_\_\_\_\_\_\_\_\_\_day of \_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_\_\_
 
-BY(CORPORATE SEAL)
+BY:(CORPORATE SEAL)
