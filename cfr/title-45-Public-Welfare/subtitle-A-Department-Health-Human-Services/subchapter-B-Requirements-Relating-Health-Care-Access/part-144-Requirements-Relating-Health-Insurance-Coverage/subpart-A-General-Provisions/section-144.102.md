@@ -1,5 +1,7 @@
 ##### § 144.102 Scope and applicability. #####
 
+Link to an amendment published at 86 FR 36970, July 13, 2021.
+
 (a) For purposes of 45 CFR parts 144 through 148, all health insurance coverage is generally divided into two markets - the group market and the individual market. The group market is further divided into the large group market and the small group market.
 
 (b) The protections afforded under 45 CFR parts 144 through 148 to individuals and employers (and other sponsors of health insurance offered in connection with a group health plan) are determined by whether the coverage involved is obtained in the small group market, the large group market, or the individual market.

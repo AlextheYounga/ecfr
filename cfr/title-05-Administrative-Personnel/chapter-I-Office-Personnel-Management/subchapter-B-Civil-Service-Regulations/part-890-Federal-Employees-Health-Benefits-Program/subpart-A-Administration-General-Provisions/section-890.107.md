@@ -1,5 +1,7 @@
 ##### § 890.107 Court review. #####
 
+Link to an amendment published at 86 FR 36947, July 13, 2021.
+
 (a) A suit to compel enrollment under § 890.102 must be brought against the employing office that made the enrollment decision.
 
 (b) A suit to review the legality of OPM's regulations under this part must be brought against the Office of Personnel Management.

@@ -1,5 +1,7 @@
 ##### § 147.138 Patient protections. #####
 
+Link to an amendment published at 86 FR 36970, July 13, 2021.
+
 (a) *Choice of health care professional* - (1) *Designation of primary care provider* - (i) *In general.* If a group health plan, or a health insurance issuer offering group or individual health insurance coverage, requires or provides for designation by a participant, beneficiary, or enrollee of a participating primary care provider, then the plan or issuer must permit each participant, beneficiary, or enrollee to designate any participating primary care provider who is available to accept the participant, beneficiary, or enrollee. In such a case, the plan or issuer must comply with the rules of paragraph (a)(4) of this section by informing each participant (in the individual market, primary subscriber) of the terms of the plan or health insurance coverage regarding designation of a primary care provider.
 
 (ii) *Construction.* Nothing in paragraph (a)(1)(i) of this section is to be construed to prohibit the application of reasonable and appropriate geographic limitations with respect to the selection of primary care providers, in accordance with the terms of the plan or coverage, the underlying provider contracts, and applicable State law.

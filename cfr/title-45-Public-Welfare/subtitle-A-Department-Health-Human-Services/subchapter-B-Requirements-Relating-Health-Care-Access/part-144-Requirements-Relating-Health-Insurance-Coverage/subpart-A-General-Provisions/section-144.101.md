@@ -1,5 +1,7 @@
 ##### § 144.101 Basis and purpose. #####
 
+Link to an amendment published at 86 FR 36970, July 13, 2021.
+
 (a) Part 146 of this subchapter implements requirements of Title XXVII of the Public Health Service Act (PHS Act, 42 U.S.C. 300gg, *et seq.*) that apply to group health plans and group health insurance issuers.
 
 (b) Part 147 of this subchapter implements the provisions of the Patient Protection and Affordable Care Act that apply to both group health plans and health insurance issuers in the Group and Individual Markets.

@@ -1,5 +1,7 @@
 ##### § 156.155 Enrollment in catastrophic plans. #####
 
+Link to an amendment published at 86 FR 36985, July 13, 2021.
+
 (a) *General rule.* A health plan is a catastrophic plan if it meets the following conditions:
 
 (1) Meets all applicable requirements for health insurance coverage in the individual market (including but not limited to those requirements described in parts 147 and 148 of this subchapter), and is offered only in the individual market.
