@@ -1,5 +1,7 @@
 ##### § 1041.3 Scope of coverage; exclusions; exemptions. #####
 
+Link to an amendment published at 84 FR 27929, June 17, 2019.
+
 (a) *General.* This part applies to a lender that extends credit by making covered loans.
 
 (b) *Covered loan.* Covered loan means closed-end or open-end credit that is extended to a consumer primarily for personal, family, or household purposes that is not excluded under paragraph (d) of this section or conditionally exempted under paragraph (e) or (f) of this section; and:

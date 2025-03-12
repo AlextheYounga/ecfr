@@ -1,5 +1,7 @@
 ##### § 2520.104-23 Alternative method of compliance for pension plans for certain selected employees. #####
 
+Link to an amendment published at 84 FR 27955, June 17, 2019.
+
 (a) *Purpose and scope.* (1) This section contains an alternative method of compliance with the reporting and disclosure requirements of part 1 of title I of the Employee Retirement Income Security Act of 1974 for unfunded or insured pension plans maintained by an employer for a select group of management or highly compensated employees, pursuant to the authority of the Secretary of Labor under section 110 of the Act (88 Stat. 851).
 
 (2) Under section 110 of the Act, the Secretary is authorized to prescribe an alternative method for satisfying any requirement of part 1 of title I of the Act with respect to any pension plans, or class of pension plans, subject to such requirement.

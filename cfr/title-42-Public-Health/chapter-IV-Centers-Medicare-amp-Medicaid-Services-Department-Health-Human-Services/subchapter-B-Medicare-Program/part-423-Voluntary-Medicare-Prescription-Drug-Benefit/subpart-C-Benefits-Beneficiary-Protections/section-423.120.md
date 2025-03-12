@@ -228,9 +228,21 @@ Link to an amendment published at 84 FR 15840, April 16, 2019.Link to a correcti
 
 (*2*) Ensure that reasonable efforts are made to notify the prescriber of a beneficiary who was sent a notice under paragraph (c)(6)(iv)(B)(*1*) of this section.
 
-(v)(A) CMS sends written notice to the prescriber via letter of his or her inclusion on the preclusion list. The notice must contain the reason for the inclusion on the preclusion list and inform the prescriber of his or her appeal rights.
+(v)(A) CMS sends written notice to the prescriber via letter of his or her inclusion on the preclusion list. The notice must contain the reason for the inclusion on the preclusion list and inform the prescriber of his or her appeal rights. A prescriber may appeal his or her inclusion on the preclusion list under this section in accordance with part 498 of this chapter.
 
-(B) A prescriber may appeal his or her inclusion on the preclusion list under this section in accordance with 42 CFR part 498.
+(B) If the prescriber's inclusion on the preclusion list is based on a contemporaneous Medicare revocation under § 424.535 of this chapter:
+
+(*1*) The notice described in paragraph (c)(6)(v)(A) of this section must also include notice of the revocation, the reason(s) for the revocation, and a description of the prescriber's appeal rights concerning the revocation.
+
+(*2*) The appeals of the prescriber's inclusion on the preclusion list and the prescriber's revocation must be filed jointly by the prescriber and, as applicable, considered jointly under part 498 of this chapter.
+
+(C)(*1*) Except as provided in paragraph (c)(6)(v)(C)(*2*) of this section, a prescriber will only be included on the preclusion list after the expiration of either of the following:
+
+(*i*) If the prescriber does not file a reconsideration request under § 498.5(n)(1) of this chapter, the prescriber will be added to the preclusion list upon the expiration of the 60-day period in which the prescriber may request a reconsideration.
+
+(*ii*) If the prescriber files a reconsideration request under § 498.5(n)(1) of this chapter, the prescriber will be added to the preclusion list effective on the date on which CMS, if applicable, denies the prescriber's reconsideration.
+
+(*2*) An OIG excluded prescriber is added to the preclusion list effective on the date of the exclusion.
 
 (vi) CMS has the discretion not to include a particular individual on (or if warranted, remove the individual from) the preclusion list should it determine that exceptional circumstances exist regarding beneficiary access to prescriptions. In making a determination as to whether such circumstances exist, CMS takes into account -
 
@@ -260,4 +272,4 @@ Link to an amendment published at 84 FR 15840, April 16, 2019.Link to a correcti
 
 (ii) For any non-Part D ingredient of the Part D compound (including drugs described under § 423.104(f)(1)(ii)(A)), the Part D sponsor's contract with the pharmacy must prohibit balance billing the beneficiary for the cost of any such ingredients.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 2888, Jan. 16, 2009; 75 FR 19816, Apr. 15, 2010; 75 FR 32860, June 10, 2010; 76 FR 21572, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 79 FR 29962, May 23, 2014; 80 FR 7963, Feb. 12, 2015; 80 FR 25966, May 6, 2015; 83 FR 16738, Apr. 16, 2018]
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 2888, Jan. 16, 2009; 75 FR 19816, Apr. 15, 2010; 75 FR 32860, June 10, 2010; 76 FR 21572, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 79 FR 29962, May 23, 2014; 80 FR 7963, Feb. 12, 2015; 80 FR 25966, May 6, 2015; 83 FR 16738, Apr. 16, 2018; 84 FR 26579, June 7, 2019]

@@ -1,12 +1,12 @@
 ##### § 622.29 Conservation measures for protected resources. #####
 
-Link to an amendment published at 84 FR 22385, May 17, 2019.
+(a) *Gulf reef fish commercial vessels and charter vessels/headboats* - (1) *Sea turtle conservation measures.* (i) The owner or operator of a vessel for which a commercial vessel permit for Gulf reef fish or a charter vessel/headboat permit for Gulf reef fish has been issued, as required under § 622.20(a)(1) and (b), respectively, must have the 2019 version of the NMFS document titled, “Careful Release Protocols for Sea Turtle Release with Minimal Injury” available for reference on board electronically or have a paper copy on board inside the wheelhouse, or within a waterproof case if there is no wheelhouse. In addition, the NMFS sea turtle handling and release guidelines placard must be posted inside the wheelhouse or an easily viewable area on the vessel if there is no wheelhouse.
 
-(a) *Gulf reef fish commercial vessels and charter vessels/headboats* - (1) *Sea turtle conservation measures.* (i) The owner or operator of a vessel for which a commercial vessel permit for Gulf reef fish or a charter vessel/headboat permit for Gulf reef fish has been issued, as required under §§ 622.20(a)(1) and 622.20(b), respectively, must post inside the wheelhouse, or within a waterproof case if no wheelhouse, a copy of the document provided by NMFS titled, “Careful Release Protocols for Sea Turtle Release With Minimal Injury,” and must post inside the wheelhouse, or in an easily viewable area if no wheelhouse, the sea turtle handling and release guidelines provided by NMFS.
+(ii) Such owner or operator must also comply with the sea turtle interaction mitigation measures, including the release gear and handling requirements specified in paragraphs C. and D. in appendix F to this part.
 
-(ii) Such owner or operator must also comply with the sea turtle bycatch mitigation measures, including gear requirements and sea turtle handling requirements, specified in §§ 635.21(c)(5)(i) and (ii) of this chapter, respectively.
+(iii) Those permitted vessels with a freeboard height of 4 ft (1.2 m) or less must have on board a net or hoist, tire or other support device, short-handled dehooker(s) for internal and external hooks, long-nose or needle-nose pliers, bolt cutters, monofilament line cutters, and at least two types of mouth openers or mouth gags. This equipment must meet the specifications described in appendix F to this part.
 
-(iii) Those permitted vessels with a freeboard height of 4 ft (1.2 m) or less must have on board a dipnet, tire, short-handled dehooker, long-nose or needle-nose pliers, bolt cutters, monofilament line cutters, and at least two types of mouth openers/mouth gags. This equipment must meet the specifications described in §§ 635.21(c)(5)(i)(E) through (L) of this chapter with the following modifications: the dipnet handle can be of variable length, only one NMFS-approved short-handled dehooker is required (*i.e.,* § 635.21(c)(5)(i)(G) or (H) of this chapter); and life rings, seat cushions, life jackets, and life vests or any other comparable, cushioned, elevated surface that allows boated sea turtles to be immobilized, may be used as alternatives to tires for cushioned surfaces as specified in § 635.21(c)(5)(i)(F) of this chapter. Those permitted vessels with a freeboard height of greater than 4 ft (1.2 m) must have on board a dipnet, tire, long-handled line clipper, a short-handled and a long-handled dehooker, a long-handled device to pull an inverted “V”, long-nose or needle-nose pliers, bolt cutters, monofilament line cutters, and at least two types of mouth openers/mouth gags. This equipment must meet the specifications described in § 635.21(c)(5)(i)(A) through (L) of this chapter with the following modifications: only one NMFS-approved long-handled dehooker (§ 635.21(c)(5)(i)(B) or (C)) of this chapter and one NMFS-approved short-handled dehooker (§ 635.21(c)(5)(i)(G) or (H) of this chapter) are required; and life rings, seat cushions, life jackets, and life vests, or any other comparable, cushioned, elevated surface that allows boated sea turtles to be immobilized, may be used as alternatives for cushioned surfaces as specified in § 635.21(c)(5)(i)(F) of this chapter.
+(iv) Those permitted vessels with a freeboard height of greater than 4 ft (1.2 m) must have on board a net or hoist, tire or other support device, long-handled line clipper or cutter, short-handled dehooker(s) for internal and external hooks, long-handled dehooker(s) for internal and external hooks, a long-handled device to pull an inverted “V” in the fishing line, long-nose or needle-nose pliers, bolt cutters, monofilament line cutters, and at least two types of mouth openers or mouth gags. This equipment must meet the specifications described in appendix F to this part.
 
 (2) *Smalltooth sawfish conservation measures.* The owner or operator of a vessel for which a commercial vessel permit for Gulf reef fish or a charter vessel/headboat permit for Gulf reef fish has been issued, as required under §§ 622.20(a)(1) and 622.20(b), respectively, that incidentally catches a smalltooth sawfish must -
 
@@ -18,4 +18,18 @@ Link to an amendment published at 84 FR 22385, May 17, 2019.
 
 (iv) Not handle the animal or attempt to remove any hooks on the saw, except for with a long-handled dehooker.
 
-(b) [Reserved]
+(b) *Incorporation by reference.* The standards required in paragraph (a)(1) of this section are incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at the National Marine Fisheries Service, Southeast Regional Office, 263 13th Ave. South, St. Petersburg, FL 33701, phone: 727-824-5301, website: *https://www.fisheries.noaa.gov/southeast/endangered-species-conservation/sea-turtle-and-smalltooth-sawfish-release-gear-protocols.html,* and is available from the sources listed in paragraphs (b)(1) and (2) of this section. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.*
+
+(1) U.S. Department of Commerce, National Oceanic and Atmospheric Administration, National Marine Fisheries Service, Southeast Fisheries Science Center, 75 Virginia Beach Drive, Miami, FL 33149.
+
+(i) Careful Release Protocols for Sea Turtle Release with Minimal Injury, NOAA Technical Memorandum NMFS-SEFSC-735, Stokes, L., and Bergmann, C. (Editors), 2019.
+
+(ii) [Reserved]
+
+(2) U.S. Department of Commerce, National Oceanic and Atmospheric Administration, National Marine Fisheries Service, Southeast Regional Office, 263 13th Ave. South, St. Petersburg, FL 33701.
+
+(i) Sea Turtle Handling/Release Guidelines: Quick Reference for Hook and Line Fisheries, English, Spanish, Vietnamese, Revised April 2019.
+
+(ii) [Reserved]
+
+[78 FR 22952, Apr. 17, 2013, as amended at 84 FR 22385, May 17, 2019]

@@ -1,5 +1,7 @@
 ##### § 1041.11 Registered information systems. #####
 
+Link to an amendment published at 84 FR 27929, June 17, 2019.
+
 (a) *Definitions.* (1) *Consumer report* has the same meaning as in section 603(d) of the Fair Credit Reporting Act, 15 U.S.C. 1681a(d).
 
 (2) *Federal consumer financial law* has the same meaning as in section 1002(14) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, 12 U.S.C. 5481(14).

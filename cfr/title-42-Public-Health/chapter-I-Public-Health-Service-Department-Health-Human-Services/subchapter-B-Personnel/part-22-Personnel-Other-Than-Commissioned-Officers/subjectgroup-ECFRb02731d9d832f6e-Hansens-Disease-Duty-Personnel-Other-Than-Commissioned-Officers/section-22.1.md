@@ -1,5 +1,7 @@
 ##### § 22.1 Duty at a station of the Service devoted to the care of Hansen's disease patients; additional pay. #####
 
+Link to an amendment published at 84 FR 27969, June 17, 2019.
+
 (a) Non-commissioned officers and other employees of the Service shall not receive any additional compensation by reason of being assigned to any duty requiring intimate contact with persons with Hansen's disease. However, any such officer or employee who was entitled, on January 4, 1986, to receive additional pay by reason of being assigned to full-time duty, for a period of 30 days or more, at a station of the Service devoted to the care of Hansen's disease patients and who continues to be assigned to such duty, shall receive special pay as long as such assignment continues without a break.
 
 (b) Such special pay shall, on any future date, be at an annual dollar level equal to the lower of the levels that would be paid under the following subparagraphs:

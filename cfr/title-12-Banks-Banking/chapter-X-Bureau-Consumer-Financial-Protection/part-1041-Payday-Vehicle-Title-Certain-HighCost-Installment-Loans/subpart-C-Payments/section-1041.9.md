@@ -1,5 +1,7 @@
 ##### § 1041.9 Disclosure of payment transfer attempts. #####
 
+Link to an amendment published at 84 FR 27929, June 17, 2019.
+
 (a) *General form of disclosures* - (1) *Clear and conspicuous.* Disclosures required by this section must be clear and conspicuous. Disclosures required by this section may contain commonly accepted or readily understandable abbreviations.
 
 (2) *In writing or electronic delivery.* Disclosures required by this section must be provided in writing or, so long as the requirements of paragraph (a)(4) of this section are satisfied, through electronic delivery. The disclosures must be provided in a form that can be viewed on paper or a screen, as applicable. This paragraph (a)(2) is not satisfied by a disclosure provided orally or through a recorded message.

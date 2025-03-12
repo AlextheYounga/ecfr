@@ -1,5 +1,7 @@
 ##### § 2520.104-22 Exemption from reporting and disclosure requirements for apprenticeship and training plans. #####
 
+Link to an amendment published at 84 FR 27955, June 17, 2019.
+
 (a) An employee welfare benefit plan that provides exclusively apprenticeship training benefits or other training benefits or that provides exclusively apprenticeship and training benefits shall not be required to meet any requirement of part 1 of the Act, provided that the administrator of such plan:
 
 (1) Has filed with the Secretary the notice described in paragraph (b) of this section;

@@ -15,58 +15,59 @@
 |:---------------------------------------|---:|
 |             (2) Alprazolam             |2882|
 |              (3) Barbital              |2145|
-|             (4) Bromazepam             |2748|
-|             (5) Camazepam              |2749|
-|            (6) Carisoprodol            |8192|
-|          (7) Chloral betaine           |2460|
-|          (8) Chloral hydrate           |2465|
-|          (9) Chlordiazepoxide          |2744|
-|             (10) Clobazam              |2751|
-|            (11) Clonazepam             |2737|
-|            (12) Clorazepate            |2768|
-|            (13) Clotiazepam            |2752|
-|            (14) Cloxazolam             |2753|
-|            (15) Delorazepam            |2754|
-|             (16) Diazepam              |2765|
-|        (17) Dichloralphenazone         |2467|
-|             (18) Estazolam             |2756|
-|           (19) Ethchlorvynol           |2540|
-|            (20) Ethinamate             |2545|
-|         (21) Ethyl loflazepate         |2758|
-|            (22) Fludiazepam            |2759|
-|           (23) Flunitrazepam           |2763|
-|            (24) Flurazepam             |2767|
-|            (25) Fospropofol            |2138|
-|             (26) Halazepam             |2762|
-|            (27) Haloxazolam            |2771|
-|             (28) Ketazolam             |2772|
-|            (29) Loprazolam             |2773|
-|             (30) Lorazepam             |2885|
-|           (31) Lormetazepam            |2774|
-|            (32) Mebutamate             |2800|
-|             (33) Medazepam             |2836|
-|            (34) Meprobamate            |2820|
-|           (35) Methohexital            |2264|
-|(36) Methylphenobarbital (mephobarbital)|2250|
-|             (37) Midazolam             |2884|
-|            (38) Nimetazepam            |2837|
-|            (39) Nitrazepam             |2834|
-|            (40) Nordiazepam            |2838|
-|             (41) Oxazepam              |2835|
-|             (42) Oxazolam              |2839|
-|            (43) Paraldehyde            |2585|
-|           (44) Petrichloral            |2591|
-|           (45) Phenobarbital           |2285|
-|             (46) Pinazepam             |2883|
-|             (47) Prazepam              |2764|
-|             (48) Quazepam              |2881|
-|            (49) Suvorexant             |2223|
-|             (50) Temazepam             |2925|
-|            (51) Tetrazepam             |2886|
-|             (52) Triazolam             |2887|
-|             (53) Zaleplon              |2781|
-|             (54) Zolpidem              |2783|
-|             (55) Zopiclone             |2784|
+|            (4) Brexanolone             |2400|
+|             (5) Bromazepam             |2748|
+|             (6) Camazepam              |2749|
+|            (7) Carisoprodol            |8192|
+|          (8) Chloral betaine           |2460|
+|          (9) Chloral hydrate           |2465|
+|         (10) Chlordiazepoxide          |2744|
+|             (11) Clobazam              |2751|
+|            (12) Clonazepam             |2737|
+|            (13) Clorazepate            |2768|
+|            (14) Clotiazepam            |2752|
+|            (15) Cloxazolam             |2753|
+|            (16) Delorazepam            |2754|
+|             (17) Diazepam              |2765|
+|        (18) Dichloralphenazone         |2467|
+|             (19) Estazolam             |2756|
+|           (20) Ethchlorvynol           |2540|
+|            (21) Ethinamate             |2545|
+|         (22) Ethyl loflazepate         |2758|
+|            (23) Fludiazepam            |2759|
+|           (24) Flunitrazepam           |2763|
+|            (25) Flurazepam             |2767|
+|            (26) Fospropofol            |2138|
+|             (27) Halazepam             |2762|
+|            (28) Haloxazolam            |2771|
+|             (29) Ketazolam             |2772|
+|            (30) Loprazolam             |2773|
+|             (31) Lorazepam             |2885|
+|           (32) Lormetazepam            |2774|
+|            (33) Mebutamate             |2800|
+|             (34) Medazepam             |2836|
+|            (35) Meprobamate            |2820|
+|           (36) Methohexital            |2264|
+|(37) Methylphenobarbital (mephobarbital)|2250|
+|             (38) Midazolam             |2884|
+|            (39) Nimetazepam            |2837|
+|            (40) Nitrazepam             |2834|
+|            (41) Nordiazepam            |2838|
+|             (42) Oxazepam              |2835|
+|             (43) Oxazolam              |2839|
+|            (44) Paraldehyde            |2585|
+|           (45) Petrichloral            |2591|
+|           (46) Phenobarbital           |2285|
+|             (47) Pinazepam             |2883|
+|             (48) Prazepam              |2764|
+|             (49) Quazepam              |2881|
+|            (50) Suvorexant             |2223|
+|             (51) Temazepam             |2925|
+|            (52) Tetrazepam             |2886|
+|             (53) Triazolam             |2887|
+|             (54) Zaleplon              |2781|
+|             (55) Zolpidem              |2783|
+|             (56) Zopiclone             |2784|
 
 (d) *Fenfluramine.* Any material, compound, mixture, or preparation which contains any quantity of the following substances, including its salts, isomers (whether optical, position, or geometric), and salts of such isomers, whenever the existence of such salts, isomers, and salts of isomers is possible:
 
@@ -80,19 +81,20 @@
 
 (f) *Stimulants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system, including its salts, isomers and salts of isomers:
 
-|                 (1) Cathine ((+)-norpseudoephedrine)                 |1230|
-|:---------------------------------------------------------------------|---:|
-|                          (2) Diethylpropion                          |1610|
-|                           (3) Fencamfamin                            |1760|
-|                           (4) Fenproporex                            |1575|
-|                             (5) Mazindol                             |1605|
-|                            (6) Mefenorex                             |1580|
-|                             (7)Modafinil                             |1680|
-|(8) Pemoline (including organometallic complexes and chelates thereof)|1530|
-|                           (9) Phentermine                            |1640|
-|                            (10) Pipradrol                            |1750|
-|                           (11) Sibutramine                           |1675|
-|          (12) SPA ((-)-1-dimethylamino- 1,2-diphenylethane)          |1635|
+|                                 (1) Cathine ((+)-norpseudoephedrine)                                 |1230|
+|:-----------------------------------------------------------------------------------------------------|---:|
+|                                          (2) Diethylpropion                                          |1610|
+|                                           (3) Fencamfamin                                            |1760|
+|                                           (4) Fenproporex                                            |1575|
+|                                             (5) Mazindol                                             |1605|
+|                                            (6) Mefenorex                                             |1580|
+|                                             (7)Modafinil                                             |1680|
+|                (8) Pemoline (including organometallic complexes and chelates thereof)                |1530|
+|                                           (9) Phentermine                                            |1640|
+|                                            (10) Pipradrol                                            |1750|
+|                                           (11) Sibutramine                                           |1675|
+|(12) Solriamfetol (2-amino-3-phenylpropyl car-bamate; benzenepropanol, beta-amino-, carbamate (ester))|1650|
+|                          (13) SPA ((-)-1-dimethylamino- 1,2-diphenylethane)                          |1635|
 
 (g) *Other substances.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture or preparation which contains any quantity of the following substances, including its salts:
 

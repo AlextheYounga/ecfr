@@ -20,7 +20,7 @@
 
 (d) *Provision of medically necessary information.* Nothing in this subpart shall be construed as prohibiting the provision of information to a project client that is medically necessary to assess the risks and benefits of different methods of contraception in the course of selecting a method, provided that the provision of such information does not promote abortion as a method of family planning.
 
-(e)*Examples.*(1) A pregnant client of a Title X project requests prenatal health care services. Because the provision of such services is outside the scope of family planning supported by Title X, the client is referred for prenatal care and may be provided a list of licensed, qualified, comprehensive primary health care providers (including providers of prenatal care). Provision of a referral for prenatal health care is consistent with this part because prenatal care is a medically necessary service.
+(e) *Examples.* (1) A pregnant client of a Title X project requests prenatal health care services. Because the provision of such services is outside the scope of family planning supported by Title X, the client is referred for prenatal care and may be provided a list of licensed, qualified, comprehensive primary health care providers (including providers of prenatal care). Provision of a referral for prenatal health care is consistent with this part because prenatal care is a medically necessary service.
 
 (2) A Title X project discovers an ectopic pregnancy in the course of conducting a physical examination of a client. Referral arrangements for emergency medical care are immediately provided. Such action complies with the requirements of paragraph (b) of this section.
 
