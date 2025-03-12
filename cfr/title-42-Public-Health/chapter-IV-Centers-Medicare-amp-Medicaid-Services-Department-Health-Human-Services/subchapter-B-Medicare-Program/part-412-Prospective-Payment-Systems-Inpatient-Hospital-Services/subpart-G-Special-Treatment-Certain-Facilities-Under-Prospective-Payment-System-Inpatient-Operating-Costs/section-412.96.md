@@ -1,5 +1,7 @@
 ##### § 412.96 Special treatment: Referral centers. #####
 
+Link to an amendment published at 86 FR 45519, Aug. 13, 2021.
+
 (a) *Criteria for classification as a referral center: Basic rule.* CMS classifies a hospital as a referral center only if the hospital is a Medicare participating acute care hospital and meets the applicable criteria of paragraph (b) or (c) of this section.
 
 (b) *Criteria for cost reporting periods beginning on or after October 1, 1983.* The hospital meets either of the following criteria:

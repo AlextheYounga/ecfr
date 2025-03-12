@@ -12,7 +12,7 @@
 
 (b) *State agency error rates.* FNS shall estimate each State agency's active case, payment, and negative case error rate based on the results of quality control review reports submitted in accordance with the requirements outlined in § 275.21. The determination of the correctness of the case shall be based on certification policy as set forth in part 273 of this chapter.
 
-(1) *Demonstration projects/SSA processing.* FNS shall make a determination for each individual project whether the reported results of reviews of active and negative demonstration project cases shall be included or excluded from the estimate of the active case error rate, payment error rate, and negative case error rate. The reported results of reviews of cases processed by SSA in accordance with § 273.2(k) of this chapter shall be excluded from the estimate of the active case error rate, payment error rate, and negative case error rate. FNS shall make a project by project determination whether the reported results of reviews of active and negative demonstration project cases processed by SSA shall be included or excluded from the estimate of the active case error rate, payment error rate, and negative case error rate.
+(1) *Demonstration projects.* FNS shall make a determination for each individual project whether the reported results of reviews of active and negative demonstration project cases shall be included or excluded from the estimate of the active case error rate, payment error rate, and negative case error rate.
 
 (2) *Determination of payment error rates.* As specified in § 275.3(c), FNS will validate each State agency's estimated payment error rate by rereviewing the State agency's active case sample and ensuring that its sampling, estimation, and data management procedures are correct.
 
@@ -168,15 +168,15 @@
 
 (iii) If the State agency has provided insufficient information to determine a waiver amount for the uncontrollable effects of caseload growth using factual analysis, the waiver amount shall be evaluated using the following five-step calculation:
 
-(A) Step 1 - determine the average number of households certified to participate Statewide in the Supplemental Nutrition Assistance Program for the base period consisting of twelve consecutive months ending with March of the prior fiscal year;
+(A) Step 1—determine the average number of households certified to participate Statewide in the Supplemental Nutrition Assistance Program for the base period consisting of twelve consecutive months ending with March of the prior fiscal year;
 
-(B) Step 2 - determine the percentage of increase in caseload growth from the base period (Step 1) using the average number of households certified to participate Statewide in the Supplemental Nutrition Assistance Program for any twelve consecutive months in the period beginning with April of the prior fiscal year and ending with June of the current year;
+(B) Step 2—determine the percentage of increase in caseload growth from the base period (Step 1) using the average number of households certified to participate Statewide in the Supplemental Nutrition Assistance Program for any twelve consecutive months in the period beginning with April of the prior fiscal year and ending with June of the current year;
 
-(C) Step 3 - determine the percentage the error rate for the subject fiscal year, as calculated under paragraph (b)(2) of this section, exceeds the national performance measure determined in accordance with paragraph (d)(1) of this section;
+(C) Step 3—determine the percentage the error rate for the subject fiscal year, as calculated under paragraph (b)(2) of this section, exceeds the national performance measure determined in accordance with paragraph (d)(1) of this section;
 
-(D) Step 4 - divide the percentage of caseload growth increase arrived at in step 2 by the percentage the error rate for the subject fiscal year exceeds the national performance measure as determined in step 3; and
+(D) Step 4—divide the percentage of caseload growth increase arrived at in step 2 by the percentage the error rate for the subject fiscal year exceeds the national performance measure as determined in step 3; and
 
-(E) Step 5 - multiply the quotient arrived at in step 4 by the liability amount for the current fiscal year to determine the amount of waiver of liability.
+(E) Step 5—multiply the quotient arrived at in step 4 by the liability amount for the current fiscal year to determine the amount of waiver of liability.
 
 (iv) Under this methodology, caseload growth of less than 15% and/or occurring in the last three months of the subject fiscal year will not be considered. Mathematically this formula could result in a waiver of more than 100 percent of the liability amount; however, no more than 100 percent of a State's liability amount will be waived for any one fiscal year.
 
@@ -300,4 +300,4 @@
 
 (3) Any interest assessed under paragraph (j)(1) of this section shall be computed at a rate determined by the Secretary based on the average of the bond equivalent of the weekly 90-day Treasury bill auction rates during the period such interest accrues. The bond equivalent is the discount rate (*i.e.,* the price the bond is actually sold for as opposed to its face value) determined by the weekly auction (*i.e.,* the difference between the discount rate and face value) converted to an annualized figure. The Secretary shall use the investment rate (*i.e.,* the rate for 365 days) compounded in simple interest for the period for which the claim is not paid. Interest billings shall be made quarterly with the initial billing accruing from the date the interest is first due. Because the discount rate for Treasury bills is issued weekly, the interest rate for State agency claims shall be averaged for the appropriate weeks.
 
-[75 FR 33438, June 11, 2010, as amended at 80 FR 53243, Sept. 3, 2015]
+[75 FR 33438, June 11, 2010, as amended at 80 FR 53243, Sept. 3, 2015; 86 FR 44587, Aug. 13, 2021]

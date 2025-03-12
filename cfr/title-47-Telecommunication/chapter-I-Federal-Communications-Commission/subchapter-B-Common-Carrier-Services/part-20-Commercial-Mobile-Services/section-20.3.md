@@ -1,5 +1,7 @@
 ##### § 20.3 Definitions. #####
 
+Link to an amendment published at 86 FR 44638, Aug. 13, 2021.
+
 *Automatic Roaming.* With automatic roaming, under a pre-existing contractual agreement between a subscriber's home carrier and a host carrier, a roaming subscriber is able to originate or terminate a call in the host carrier's service area without taking any special actions.
 
 *Commercial mobile data service.* (1) Any mobile data service that is not interconnected with the public switched network and is:

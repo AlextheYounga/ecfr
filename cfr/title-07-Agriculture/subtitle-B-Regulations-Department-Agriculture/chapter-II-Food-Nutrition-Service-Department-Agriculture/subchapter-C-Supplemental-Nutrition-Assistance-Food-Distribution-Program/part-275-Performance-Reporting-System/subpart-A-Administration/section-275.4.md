@@ -4,6 +4,6 @@
 
 (b) ME review records consist of thorough documentation of review findings, sources from which information was obtained, procedures used to review SNAP requirements including sampling techniques and lists, and ME review plans. The State agency must submit documented evidence of review findings to the FNS Regional Office upon request for purposes of evaluating State corrective action plans.
 
-(c) QC review records consist of Forms FNS-380, Worksheet for Supplemental Nutrition Assistance Program, FNS-380-1, Quality Control Review Schedule, FNS-245, Negative Quality Control Review Schedule; other materials supporting the review decision; sample lists; sampling frames; tabulation sheets; and reports of the results of all quality control reviews during each review period.
+(c) QC review records consist of Forms FNS-380, Worksheet for Supplemental Nutrition Assistance Program, FNS-380-1, Quality Control Review Schedule, FNS-245, Negative Quality Control Review Schedule; other materials supporting the review decision, including all correspondence with the household and all case notes, digital or otherwise, taken or used by the eligibility worker that are applicable to the review period; sample lists; sampling frames; tabulation sheets; and reports of the results of all quality control reviews during each review period.
 
-[Amdt. 160, 45 FR 15898, Mar. 11, 1980, as amended by Amdt. 260, 49 FR 6304, Feb. 17, 1984; Amdt. 262, 49 FR 50597, Dec. 31, 1984; 75 FR 33436, June 11, 2010]
+[Amdt. 160, 45 FR 15898, Mar. 11, 1980, as amended by Amdt. 260, 49 FR 6304, Feb. 17, 1984; Amdt. 262, 49 FR 50597, Dec. 31, 1984; 75 FR 33436, June 11, 2010; 86 FR 44586, Aug. 13, 2021]

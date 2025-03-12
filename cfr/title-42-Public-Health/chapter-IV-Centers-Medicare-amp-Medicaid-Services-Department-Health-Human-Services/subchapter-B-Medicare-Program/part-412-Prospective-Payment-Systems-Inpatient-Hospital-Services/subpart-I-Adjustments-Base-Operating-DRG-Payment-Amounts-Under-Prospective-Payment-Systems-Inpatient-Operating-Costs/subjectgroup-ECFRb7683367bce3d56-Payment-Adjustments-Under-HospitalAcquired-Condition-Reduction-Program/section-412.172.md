@@ -1,5 +1,7 @@
 ##### § 412.172 Payment adjustments under the Hospital-Acquired Condition Reduction Program. #####
 
+Link to an amendment published at 86 FR 45520, Aug. 13, 2021.
+
 (a) *Scope.* This section sets forth the requirements for determining the payment adjustments under the Hospital-Acquired Condition Reduction Program for hospitals that meet the criteria described under paragraph (e) of this section.
 
 (b) *Payment adjustment.* With respect to all discharges from an applicable hospital occurring during FY 2015 or a subsequent year, the amount of payment under this section, or section 1814(b)(3) of the Act as applicable, for such discharges during the fiscal year will be equal to 99 percent of the amount of payment that would otherwise apply to these discharges under this section or section 1814(b)(3) of the Act (determined after the application of the payment adjustment under the Hospital Readmissions Reduction Program under § 412.154 and the adjustment made under the Hospital Value-Based Purchasing Program under § 412.162 and section 1814(l)(4) of the Act but without regard to section 1886(p) of the Act).

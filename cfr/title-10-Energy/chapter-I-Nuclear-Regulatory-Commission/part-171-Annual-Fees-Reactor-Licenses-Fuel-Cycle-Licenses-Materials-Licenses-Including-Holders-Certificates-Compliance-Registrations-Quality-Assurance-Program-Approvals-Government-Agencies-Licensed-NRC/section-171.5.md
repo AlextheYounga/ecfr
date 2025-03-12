@@ -1,6 +1,6 @@
 ##### § 171.5 Definitions. #####
 
-Link to an amendment published at 86 FR 32177, June 16, 2021.
+Link to an amendment published at 86 FR 32177, June 16, 2021.Link to an amendment published at 86 FR 44594, Aug. 13, 2021, delaying the eff. date until Aug. 20.
 
 *Budget* means the funds appropriated by Congress for the NRC for each fiscal year, and if that appropriation is not passed on or before September 1 for that fiscal year, the funds most recently appropriated by Congress for the most recent fiscal year.
 

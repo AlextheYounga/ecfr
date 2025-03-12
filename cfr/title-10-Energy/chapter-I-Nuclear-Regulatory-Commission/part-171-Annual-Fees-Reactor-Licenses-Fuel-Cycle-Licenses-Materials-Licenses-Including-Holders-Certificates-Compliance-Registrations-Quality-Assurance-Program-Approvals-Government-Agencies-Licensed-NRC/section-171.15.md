@@ -1,6 +1,6 @@
 ##### § 171.15 Annual fees: Reactor licenses and independent spent fuel storage licenses. #####
 
-Link to an amendment published at 86 FR 32177, June 16, 2021.
+Link to an amendment published at 86 FR 32177, June 16, 2021.Link to an amendment published at 86 FR 44594, Aug. 13, 2021, delaying the eff. date until Aug. 20, 2021.
 
 (a) Each person holding an operating license for a test or research reactor; each person holding an operating license for a power reactor licensed under 10 CFR part 50 or a combined license under 10 CFR part 52 that has provided notification to the NRC that the licensee has successfully completed power ascension testing; each person holding a 10 CFR part 50 or 10 CFR part 52 power reactor license that is in decommissioning or possession only status, except those that have no spent fuel onsite; and each person holding a 10 CFR part 72 license who does not hold a 10 CFR part 50 or 10 CFR part 52 license and provides notification in accordance with 10 CFR 72.80(g), shall pay the annual fee for each license held during the Federal fiscal year in which the fee is due. This paragraph (a) does not apply to test or research reactors exempted under § 171.11(b).
 

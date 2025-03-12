@@ -1,0 +1,5 @@
+##### § 1174.36 Finalizing the initial decision. #####
+
+(a) Thirty days after issuance, the ALJ's initial decision shall become the authority's final decision and shall bind all parties, unless any party timely files a motion for reconsideration or any defendant adjudged to have submitted a false, fictitious, or fraudulent claim or statement timely appeals to the authority head, as set forth in § 1174.37.
+
+(b) If the ALJ disposes of a motion for reconsideration by denying it or by issuing a revised initial decision, the ALJ's order on the motion for reconsideration shall become the authority's final decision thirty days after the ALJ issues the order, unless a defendant that is adjudged to have submitted a false, fictitious, or fraudulent claim or statement timely appeals to the authority head, as set forth in § 1174.37.

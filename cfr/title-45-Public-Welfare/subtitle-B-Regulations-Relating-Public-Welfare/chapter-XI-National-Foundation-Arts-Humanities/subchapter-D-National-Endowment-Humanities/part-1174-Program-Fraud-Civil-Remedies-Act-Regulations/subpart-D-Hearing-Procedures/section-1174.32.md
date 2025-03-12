@@ -1,0 +1,3 @@
+##### § 1174.32 Post-hearing briefs. #####
+
+Any party may file a post-hearing brief. Such briefs are not required, however, unless ordered by the ALJ. The ALJ must fix the time for filing such briefs, not to exceed 60 days from the date the parties receive the transcript of the hearing or, if applicable, the stipulated record. Such briefs may be accompanied by proposed findings of fact and conclusions of law. The ALJ may permit the parties to file reply briefs.

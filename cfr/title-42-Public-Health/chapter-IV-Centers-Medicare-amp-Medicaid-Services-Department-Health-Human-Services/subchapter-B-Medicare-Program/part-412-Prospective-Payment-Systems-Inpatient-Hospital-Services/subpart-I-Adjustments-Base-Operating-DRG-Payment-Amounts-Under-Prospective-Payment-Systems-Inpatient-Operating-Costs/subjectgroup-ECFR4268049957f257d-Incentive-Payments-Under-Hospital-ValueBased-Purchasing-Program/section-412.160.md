@@ -1,5 +1,7 @@
 ##### § 412.160 Definitions for the Hospital Value-Based Purchasing (VBP) Program. #####
 
+Link to an amendment published at 86 FR 45520, Aug. 13, 2021.
+
 As used in this section and in §§ 412.161 through 412.167:
 
 *Achievement threshold (or achievement performance standard)* means the median (50th percentile) of hospital performance on a measure during a baseline period with respect to a fiscal year, for Hospital VBP Program measures other than the measures in the Efficiency and Cost Reduction domain, and the median (50th percentile) of hospital performance on a measure during the performance period with respect to a fiscal year, for the measures in the Efficiency and Cost Reduction domain.

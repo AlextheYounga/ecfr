@@ -26,6 +26,6 @@
 
 (ii) A household which was listed incorrectly in the negative frame.
 
-(f) *Demonstration projects/SSA processing.* A household whose application has been denied or whose participation has been suspended or terminated under the rules of an FNS-authorized demonstration project shall be reviewed following standard procedures unless FNS provides modified procedures to reflect the rules of the demonstration project. If FNS determines that information obtained from these cases would not be useful, then these cases may be excluded from review. A household whose application has been processed by SSA personnel and is subsequently denied participation shall be reviewed following standard procedures.
+(f) *Demonstration projects.* A household whose application has been denied or whose participation has been suspended or terminated under the rules of an FNS-authorized demonstration project shall be reviewed following standard procedures unless FNS provides modified procedures to reflect the rules of the demonstration project. If FNS determines that information obtained from these cases would not be useful, then these cases may be excluded from review.
 
-[Amdt. 260, 49 FR 6309, Feb. 17, 1984, as amended at 53 FR 39443, Oct. 7, 1988; Amdt. 373, 64 FR 38296, July 16, 1999; 75 FR 33437, June 11, 2010]
+[Amdt. 260, 49 FR 6309, Feb. 17, 1984, as amended at 53 FR 39443, Oct. 7, 1988; Amdt. 373, 64 FR 38296, July 16, 1999; 75 FR 33437, June 11, 2010; 86 FR 44587, Aug. 13, 2021]

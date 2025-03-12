@@ -1,10 +1,8 @@
 ##### § 74.1263 Time of operation. #####
 
-Link to an amendment published at 86 FR 37061, July 14, 2021.
-
 (a) The licensee of an FM translator or booster station is not required to adhere to any regular schedule of operation. However, the licensee of an FM translator or booster station is expected to provide a dependable service to the extent that such is within its control and to avoid unwarranted interruptions to the service provided.
 
-(b) A booster station rebroadcasting the signal of an AM, FM, or LPFM primary station shall not be permitted to radiate during extended periods when signals of the primary station are not being retransmitted. Notwithstanding the foregoing, FM translators rebroadcasting Class D AM stations may continue to operate during nighttime hours only if the AM station has operated within the last 24 hours.
+(b) An FM booster or FM Translator station rebroadcasting the signal of an AM, FM or LPFM primary station shall not be permitted to radiate during extended periods when signals of the primary station are not being retransmitted. Notwithstanding the foregoing, FM translators rebroadcasting Class D AM stations may continue to operate during nighttime hours only if the AM station has operated within the last 24 hours.
 
 (c) The licensee of an FM translator or booster station must notify the Commission of its intent to discontinue operations for 30 or more consecutive days. Notification must be made within 10 days of the time the station first discontinues operation and Commission approval must be obtained for such discontinued operation to continue beyond 30 days. The notification shall specify the causes of the discontinued operation and a projected date for the station's return to operation, substantiated by supporting documentation. If the projected date for the station's return to operation cannot be met, another notification and further request for discontinued operations must be submitted in conformance with the requirements of this section. Within 48 hours of the station's return to operation, the licensee must notify the Commission of such fact. All notification must be in writing.
 
@@ -12,4 +10,4 @@ Link to an amendment published at 86 FR 37061, July 14, 2021.
 
 (e) Failure of an FM translator or booster station to operate for a period of 30 or more consecutive days, except for causes beyond the control of the licensee or authorized pursuant to paragraph (c) of this section, shall be deemed evidence of discontinuation of operation and the license of the station may be cancelled at the discretion of the Commission. Furthermore, the station's license will expire as a matter of law, without regard to any causes beyond control of the licensee or to any authorization pursuant to paragraph (c) of this section, if the station fails to transmit broadcast signals for any consecutive 12-month period, notwithstanding any provision, term, or condition of the license to the contrary.
 
-[55 FR 50699, Dec. 10, 1990, as amended at 61 FR 28768, June 6, 1996; 74 FR 45130, Sept. 1, 2009; 85 FR 35574, June 11, 2020]
+[55 FR 50699, Dec. 10, 1990, as amended at 61 FR 28768, June 6, 1996; 74 FR 45130, Sept. 1, 2009; 85 FR 35574, June 11, 2020; 86 FR 37061, July 14, 2021]

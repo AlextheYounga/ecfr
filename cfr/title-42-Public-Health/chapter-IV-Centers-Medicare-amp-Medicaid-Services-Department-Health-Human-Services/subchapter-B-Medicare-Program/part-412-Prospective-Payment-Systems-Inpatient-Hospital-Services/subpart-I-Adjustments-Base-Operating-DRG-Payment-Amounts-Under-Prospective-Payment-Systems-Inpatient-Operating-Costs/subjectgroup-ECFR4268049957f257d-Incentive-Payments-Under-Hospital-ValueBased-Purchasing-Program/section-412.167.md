@@ -1,5 +1,7 @@
 ##### § 412.167 Appeal under the Hospital Value-Based Purchasing (VBP) Program. #####
 
+Link to an amendment published at 86 FR 45520, Aug. 13, 2021.
+
 (a) A hospital may appeal the following issues:
 
 (1) CMS' decision to deny a hospital's correction request that the hospital submitted under the review and corrections process;

@@ -1,7 +1,5 @@
 ##### § 926.25 Approval of Montana abandoned mine land reclamation plan amendments. #####
 
-Link to an amendment published at 86 FR 37045, July 14, 2021.
-
 (a) Montana certification of completing all known coal-related impacts is accepted, effective July 9, 1990.
 
 (b) The following is a list of the dates amendments were submitted to OSM, the dates when the Director's decision approving all, or portions of these amendments, were published in the Federal Register and the State citations or a brief description of each amendment. The amendments in this table are listed in order of the date of final publication in the Federal Register.
@@ -11,5 +9,6 @@ Link to an amendment published at 86 FR 37045, July 14, 2021.
 |          April 20, 1983          |     August 18, 1983     |                                                                             Liens on noncoal projects; noncoal additions to Montana Abandoned Mine Land Inventory; emergency response reclamation program; organizational restructure.                                                                              |
 |          March 22, 1995          |      July 19, 1995      |                                                                       Reclamation of interim program and bankrupt surety coal sites; future set-aside program; water supply facilities and water replacement; other policies and procedures.                                                                        |
 |         August 15, 2000          |      June 20, 2002      |Deletion of ARM 26.4.301(1), (37), and (41), 26.4.1231, 26.4.1232, 26.4.1233, 26.4.1234, 26.4.1235, 26.4.1236, 26.4.1237, 26.4.1238, 26.4.1239, 26.4.1240, 26.4.1241, and 26.4.1242; and revision of ARM 26.4.301(1), ARM 26.4.1303, MCA 82-4-239, and the Montana Reclamation Plan 2001 Plan Amendment are approved.|
+|          August 4, 2020          |      July 14, 2021      |    Repeal and replace Certified AML Plan in response to OSMRE 884 Letter and State initiative streamlining of Plan. Updates Plan to be consistent with changes to Federal program and extends limited liability protection for certain coal and noncoal reclamation projects.  <br/>Addition of 82-4-1006, MCA.     |
 
-[62 FR 9947, Mar. 5, 1997, as amended at 67 FR 41828, June 20, 2002]
+[62 FR 9947, Mar. 5, 1997, as amended at 67 FR 41828, June 20, 2002; 86 FR 37045, July 14, 2021]

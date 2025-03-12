@@ -1,6 +1,6 @@
 ##### § 15.31 Disputed debts. #####
 
-Link to an amendment published at 86 FR 32169, June 16, 2021.
+Link to an amendment published at 86 FR 32169, June 16, 2021.Link to an extension of the above amendment published at 86 FR 44594, Aug. 13, 2021.
 
 (a) A debtor who disputes a debt shall explain why the debt is incorrect in fact or in law within 30 days from the date that the initial demand letter was mailed or hand-delivered. The debtor may support the explanation by affidavits, cancelled checks, or other relevant evidence.
 

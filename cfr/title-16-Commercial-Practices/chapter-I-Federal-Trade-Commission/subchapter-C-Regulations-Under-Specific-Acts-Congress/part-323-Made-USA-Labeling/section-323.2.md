@@ -1,0 +1,3 @@
+##### § 323.2 Prohibited acts. #####
+
+In connection with promoting or offering for sale any good or service, in or affecting commerce as “commerce” is defined in section 4 of the Federal Trade Commission Act, 15 U.S.C. 44, it is an unfair or deceptive act or practice within the meaning of section 5(a)(1) of the Federal Trade Commission Act, 15 U.S.C. 45(a)(1), to label any product as Made in the United States unless the final assembly or processing of the product occurs in the United States, all significant processing that goes into the product occurs in the United States, and all or virtually all ingredients or components of the product are made and sourced in the United States.

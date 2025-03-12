@@ -1,5 +1,7 @@
 ##### § 412.106 Special treatment: Hospitals that serve a disproportionate share of low-income patients. #####
 
+Link to an amendment published at 86 FR 45519, Aug. 13, 2021.
+
 (a) *General considerations.* (1) The factors considered in determining whether a hospital qualifies for a payment adjustment include the number of beds, the number of patient days, and the hospital's location.
 
 (i) The number of beds in a hospital is determined in accordance with § 412.105(b).

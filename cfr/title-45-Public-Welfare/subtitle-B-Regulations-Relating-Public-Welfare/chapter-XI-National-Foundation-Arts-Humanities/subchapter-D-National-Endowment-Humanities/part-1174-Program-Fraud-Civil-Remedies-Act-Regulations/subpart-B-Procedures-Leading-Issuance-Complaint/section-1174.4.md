@@ -1,0 +1,3 @@
+##### § 1174.4 Who investigates program fraud. #####
+
+The Inspector General, or his or her designee, is the investigating official responsible for investigating allegations that a person has made a false claim or statement. In this regard, the Inspector General has authority under the PFCRA and the Inspector General Act of 1978, 5 U.S.C. App. 3, as amended, to issue administrative subpoenas for the production of records and documents.

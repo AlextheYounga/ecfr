@@ -1,6 +1,6 @@
 ##### § 15.37 Interest, penalties, and administrative costs. #####
 
-Link to an amendment published at 86 FR 32169, June 16, 2021.
+Link to an amendment published at 86 FR 32169, June 16, 2021.Link to an extension of the above amendment published at 86 FR 44594, Aug. 13, 2021.
 
 (a) The NRC shall assess interest, penalties, and administrative costs on debts owed to the United States Government in accordance with the guidance provided under the FCCS, 31 CFR 901.9.
 

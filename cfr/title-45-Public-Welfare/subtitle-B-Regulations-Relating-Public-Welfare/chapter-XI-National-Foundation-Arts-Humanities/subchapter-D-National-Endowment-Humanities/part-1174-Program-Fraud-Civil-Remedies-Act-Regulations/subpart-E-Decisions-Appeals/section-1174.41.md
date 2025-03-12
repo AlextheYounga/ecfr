@@ -1,0 +1,3 @@
+##### § 1174.41 Rights to administrative offset. #####
+
+The authority may make an administrative offset under 31 U.S.C. 3716 to collect the amount of any penalty or assessment which has become final, for which a judgment has been entered, or which the parties agree upon in a compromise or settlement. However, the authority may not make an administrative offset under this subsection against a Federal tax refund that the United States owes to the defendant then or at a later time.

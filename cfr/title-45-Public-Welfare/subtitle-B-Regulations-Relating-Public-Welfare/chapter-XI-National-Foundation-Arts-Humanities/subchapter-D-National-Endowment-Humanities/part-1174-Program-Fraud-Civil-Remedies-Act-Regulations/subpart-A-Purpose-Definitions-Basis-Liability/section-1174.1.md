@@ -1,0 +1,3 @@
+##### § 1174.1 Purpose. #####
+
+This part implements the Program Fraud Civil Remedies Act of 1986, 31 U.S.C. 3801-3812 (PFCRA). The PFCRA provides the National Endowment for the Humanities (NEH), and other Federal agencies, with an administrative remedy to impose civil penalties and assessments against persons who make, submit, or present, or cause to be made, submitted or presented, false, fictitious, or fraudulent claims or written statements to NEH. The PFCRA also provides due process protections to all persons who are subject to administrative proceedings under this part.

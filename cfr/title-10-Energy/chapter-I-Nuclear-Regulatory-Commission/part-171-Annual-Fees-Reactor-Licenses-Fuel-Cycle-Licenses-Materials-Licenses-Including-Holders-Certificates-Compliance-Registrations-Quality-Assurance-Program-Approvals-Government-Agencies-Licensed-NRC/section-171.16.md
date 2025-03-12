@@ -1,6 +1,6 @@
 ##### § 171.16 Annual fees: Materials licensees, holders of certificates of compliance, holders of sealed source and device registrations, holders of quality assurance program approvals, and government agencies licensed by the NRC. #####
 
-Link to an amendment published at 86 FR 32178, June 16, 2021.
+Link to an amendment published at 86 FR 32178, June 16, 2021.Link to an amendment published at 86 FR 44594, Aug. 13, 2021, delaying the eff. date until Aug. 20, 2021.
 
 (a)(1) The provisions of this section apply to person(s) who are authorized to conduct activities under -
 

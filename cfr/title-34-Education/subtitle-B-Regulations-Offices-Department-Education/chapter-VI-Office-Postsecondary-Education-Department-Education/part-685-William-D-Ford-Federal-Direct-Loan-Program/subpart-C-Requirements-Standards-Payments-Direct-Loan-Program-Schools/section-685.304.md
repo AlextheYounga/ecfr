@@ -1,7 +1,5 @@
 ##### § 685.304 Counseling borrowers. #####
 
-Link to an amendment published at 86 FR 31438, June 14, 2021.
-
 (a) *Entrance counseling.* (1) Except as provided in paragraph (a)(8) of this section, a school must ensure that entrance counseling is conducted with each Direct Subsidized Loan or Direct Unsubsidized Loan student borrower prior to making the first disbursement of the proceeds of a loan to a student borrower unless the student borrower has received a prior Direct Subsidized Loan, Direct Unsubsidized Loan, Subsidized or Unsubsidized Federal Stafford Loan, or Federal SLS Loan.
 
 (2) Except as provided in paragraph (a)(8) of this section, a school must ensure that entrance counseling is conducted with each graduate or professional student Direct PLUS Loan borrower prior to making the first disbursement of the loan unless the student borrower has received a prior student Direct PLUS Loan or student Federal PLUS Loan.
@@ -56,19 +54,9 @@ Link to an amendment published at 86 FR 31438, June 14, 2021.
 
 (xiii) For loans first disbursed on or after July 1, 2020, if, as a condition of enrollment, the school requires borrowers to enter into a pre-dispute arbitration agreement, as defined in § 668.41(h)(2)(iii) of this chapter, or to sign a class action waiver, as defined in § 668.41(h)(2)(i) and (ii) of this chapter, the school must provide a written description of the school's dispute resolution process that the borrower has agreed to pursue, including the name and contact information for the individual or office at the school that the borrower may contact if the borrower has a dispute relating to the borrower's loans or to the provision of educational services for which the loans were provided;
 
-(xiv) For loans first disbursed on or after July 1, 2020, if, as a condition of enrollment, the school requires borrowers to enter into a pre-dispute arbitration agreement, as defined in § 668.41(h)(2)(iii) of this chapter, the school must provide a written description of how and when the agreement applies, how the borrower enters into the arbitration process, and who to contact if the borrower has any questions;
+(xiv) For loans first disbursed on or after July 1, 2020, if, as a condition of enrollment, the school requires borrowers to enter into a pre-dispute arbitration agreement, as defined in § 668.41(h)(2)(iii) of this chapter, the school must provide a written description of how and when the agreement applies, how the borrower enters into the arbitration process, and who to contact if the borrower has any questions; and
 
-(xv) For loans first disbursed on or after July 1, 2020, if, as a condition of enrollment, the school requires borrowers to sign a class-action waiver, as defined in § 668.41(h)(2)(i) and (ii) of this chapter, the school must explain how and when the waiver applies, alternative processes the borrower may pursue to seek redress, and who to contact if the borrower has any questions; and
-
-(xvi) For first-time borrowers as defined in § 685.200(f)(1)(i), explain the limitation on eligibility for Direct Subsidized Loans and possible borrower responsibility for accruing interest described in § 685.200(f), including -
-
-(A) The possible loss of eligibility for additional Direct Subsidized Loans;
-
-(B) How a borrower's maximum eligibility period, remaining eligibility period, and subsidized usage period are calculated;
-
-(C) The possibility that the borrower could become responsible for accruing interest on previously received Direct Subsidized Loans and the portion of a Direct Consolidation Loan that repaid a Direct Subsidized Loan during in-school status, the grace period, authorized periods of deferment, and certain periods under the Income-Based Repayment and Pay As You Earn Repayment plans; and
-
-(D) The impact of borrower responsibility for accruing interest on the borrower's total debt.
+(xv) For loans first disbursed on or after July 1, 2020, if, as a condition of enrollment, the school requires borrowers to sign a class-action waiver, as defined in § 668.41(h)(2)(i) and (ii) of this chapter, the school must explain how and when the waiver applies, alternative processes the borrower may pursue to seek redress, and who to contact if the borrower has any questions.
 
 (7) Entrance counseling for graduate or professional student Direct PLUS Loan borrowers must -
 
@@ -136,27 +124,9 @@ Link to an amendment published at 86 FR 31438, June 14, 2021.
 
 (xi) Inform the student borrower of the availability of title IV loan information in the National Student Loan Data System (NSLDS) and how NSLDS can be used to obtain title IV loan status information;
 
-(xii) Explain to first-time borrowers, as defined in § 685.200(f)(1)(i) -
+(xii) A general description of the types of tax benefits that may be available to borrowers; and
 
-(A) How the borrower's maximum eligibility period, remaining eligibility period, and subsidized usage period are determined under § 685.200(f);
-
-(B) The sum of the borrower's subsidized usage periods, as determined under § 685.200(f)(1)(iii), at the time of the exit counseling;
-
-(C) The consequences of continued borrowing or enrollment, including--
-
-(*1*) The possible loss of eligibility for additional Direct Subsidized Loans; and
-
-(*2*) The possibility that the borrower could become responsible for accruing interest on previously received Direct Subsidized Loans and the portion of a Direct Consolidation Loan that repaid a Direct Subsidized Loan during in-school status, the grace period, authorized periods of deferment, and certain periods under the Income-Based Repayment and Pay As You Earn Repayment plans;
-
-(D) The impact of the borrower becoming responsible for accruing interest on total student debt;
-
-(E) That the Secretary will inform the student borrower of whether he or she is responsible for accruing interest on his or her Direct Subsidized Loans; and
-
-(F) That the borrower can access NSLDS to determine whether he or she is responsible for accruing interest on any Direct Subsidized Loans as provided in § 685.200(f)(3);
-
-(xiii) A general description of the types of tax benefits that may be available to borrowers; and
-
-(xiv) Require the student borrower to provide current information concerning name, address, social security number, references, and driver's license number and State of issuance, as well as the student borrower's expected permanent address, the address of the student borrower's next of kin, and the name and address of the student borrower's expected employer (if known).
+(xiii) Require the student borrower to provide current information concerning name, address, social security number, references, and driver's license number and State of issuance, as well as the student borrower's expected permanent address, the address of the student borrower's next of kin, and the name and address of the student borrower's expected employer (if known).
 
 (5) The school must ensure that the information required in paragraph (b)(4)(xiii) of this section is provided to the Secretary within 60 days after the student borrower provides the information.
 
@@ -168,4 +138,4 @@ Link to an amendment published at 86 FR 31438, June 14, 2021.
 
 (ii) A student's completion of electronic interactive exit counseling offered by the Secretary satisfies the requirements of paragraph (b) of this section and, for students who have also received FFEL Program loans for attendance at the school, 34 CFR 682.604(a).
 
-(Approved by the Office of Management and Budget under control number 1845-0021)[74 FR 55666, Oct. 28, 2009, as amended at 78 FR 28986, May 16, 2013; 78 FR 65841, Nov. 1, 2013]; 84 FR 49933, Sept. 23, 2019
+(Approved by the Office of Management and Budget under control number 1845-0021)[74 FR 55666, Oct. 28, 2009, as amended at 78 FR 28986, May 16, 2013; 78 FR 65841, Nov. 1, 2013]; 84 FR 49933, Sept. 23, 2019; 86 FR 31438, June 14, 2021]

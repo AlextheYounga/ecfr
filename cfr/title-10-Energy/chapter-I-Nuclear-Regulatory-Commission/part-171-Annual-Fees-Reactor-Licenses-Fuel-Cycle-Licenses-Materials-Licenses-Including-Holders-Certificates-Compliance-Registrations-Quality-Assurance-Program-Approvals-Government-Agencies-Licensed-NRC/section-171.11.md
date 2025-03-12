@@ -1,6 +1,6 @@
 ##### § 171.11 Exemptions. #####
 
-Link to an amendment published at 86 FR 32177, June 16, 2021.
+Link to an amendment published at 86 FR 32177, June 16, 2021.Link to an amendment published at 86 FR 44594, Aug. 13, 2021, delaying the eff. date until Aug. 20, 2021.
 
 (a) All requests for exemptions must be filed with the NRC within 90 days from the effective date of the final rule establishing the annual fees for which the exemption is sought in order to be considered. Absent extraordinary circumstances, any exemption requests filed beyond that date will not be considered. The filing of an exemption request does not extend the date on which the bill is payable. Only timely payment in full ensures avoidance of interest and penalty charges. If a partial or full exemption is granted, any overpayment will be refunded. Requests for clarification of or questions relating to an annual fee bill must also be filed within 90 days from the date of the initial invoice to be considered.
 
