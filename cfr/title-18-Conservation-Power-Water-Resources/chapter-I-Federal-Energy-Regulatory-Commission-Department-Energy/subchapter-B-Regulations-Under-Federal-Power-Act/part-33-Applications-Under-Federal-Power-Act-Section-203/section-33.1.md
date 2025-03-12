@@ -1,5 +1,7 @@
 ##### § 33.1 Applicability, definitions, and blanket authorizations. #####
 
+Link to an amendment published at 84 FR 6075, Feb. 26, 2019.
+
 (a) *Applicability.* (1) The requirements of this part will apply to any public utility seeking authorization under section 203 of the Federal Power Act to:
 
 (i) Sell, lease, or otherwise dispose of the whole of its facilities subject to the jurisdiction of the Commission, or any part thereof of a value in excess of $10 million;

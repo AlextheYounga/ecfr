@@ -1,7 +1,5 @@
 ##### § 61.41 Price cap requirements generally. #####
 
-Link to an amendment published at 83 FR 67122, Dec. 28, 2018.
-
 (a) Sections 61.42 through 61.49 shall apply as follows:
 
 (1) [Reserved]
@@ -20,8 +18,10 @@ Link to an amendment published at 83 FR 67122, Dec. 28, 2018.
 
 (3) Notwithstanding the provisions of § 61.41(c)(2), when a telephone company subject to price cap regulation acquires, is acquired by, merges with, or otherwise becomes affiliated with a telephone company that qualifies as an “average schedule” company, the latter company may retain its “average schedule” status or become subject to price cap regulation in accordance with § 69.3(i)(3) of this chapter and the requirements referenced in that section.
 
-(d) Except as provided in paragraph (e) of this section, local exchange carriers that become subject to price cap regulation as that term is defined in § 61.3(ee) shall not be eligible to withdraw from such regulation.
+(d) Except as provided in paragraph (e) of this section, local exchange carriers that become subject to price cap regulation as that term is defined in § 61.3(ff) shall not be eligible to withdraw from such regulation.
 
 (e) Notwithstanding the requirements of paragraphs (c) and (d) of this section, a telephone company subject to rate-of-return regulation may return lines acquired from a telephone company subject to price cap regulation to rate-of-return regulation, provided that the acquired lines will not be subject to average schedule settlements, and provided further that the telephone company subject to rate-of-return regulation may not for five years elect price cap regulation for itself, or by any means cause the acquired lines to become subject to price cap regulation.
 
-[55 FR 42382, Oct. 19, 1990; 55 FR 50558, Dec. 7, 1990, as amended at 56 FR 55239, Oct. 25, 1991; 64 FR 46589, Aug. 26, 1999; 65 FR 38695, June 21, 2000; 65 FR 57741, Sept. 26, 2000; 69 FR 25336, May 6, 2004; 76 FR 43213, July 20, 2011]
+(f) Notwithstanding the requirements of paragraphs (c) and (d) of this section, a telephone company subject to rate-of-return regulation that is affiliated with a price cap local exchange carrier may provide business data services pursuant to § 61.50 without converting other services to price cap regulation.
+
+[55 FR 42382, Oct. 19, 1990; 55 FR 50558, Dec. 7, 1990, as amended at 56 FR 55239, Oct. 25, 1991; 64 FR 46589, Aug. 26, 1999; 65 FR 38695, June 21, 2000; 65 FR 57741, Sept. 26, 2000; 69 FR 25336, May 6, 2004; 76 FR 43213, July 20, 2011; 83 FR 67122, Dec. 28, 2018]

@@ -1,5 +1,7 @@
 ##### § 65.450 Net income. #####
 
+Link to an amendment published at 84 FR 4733, Feb. 19, 2019.
+
 (a) Net income shall consist of all revenues derived from the provision of interstate telecommunications services regulated by this Commission less expenses recognized by the Commission as necessary to the provision of these services. The calculation of expenses entering into the determination of net income shall include the interstate portion of plant specific operations (Accounts 6110-6441), plant nonspecific operations (Accounts 6510-6565), customer operations (Accounts 6610-6623), corporate operations (Accounts 6720-6790), other operating income and expense (Account 7100), and operating taxes (Accounts 7200-7250), except to the extent this Commission specifically provides to the contrary.
 
 (b) Gains and losses related to the disposition of plant in service items, shall be handled as follows:

@@ -1,5 +1,7 @@
 ##### § 54.903 Obligations of rate-of-return carriers and the Administrator. #####
 
+Link to an amendment published at 84 FR 4733, Feb. 19, 2019.
+
 (a) To be eligible for CAF BLS, each rate-of-return carrier shall make the following filings with the Administrator.
 
 (1) Each rate-of-return carrier shall submit to the Administrator in accordance with the schedule in § 54.1306 the number of lines it serves, within each rate-of-return carrier study area showing residential and single-line business line counts, multi-line business line counts, and consumer broadband-only line counts separately. For purposes of this report, and for purposes of computing support under this subpart, the residential and single-line business class lines reported include lines assessed the residential and single-line business End User Common Line charge pursuant to § 69.104 of this chapter, the multi-line business class lines reported include lines assessed the multi-line business End User Common Line charge pursuant to § 69.104 of this chapter, and consumer broadband-only lines reported include lines assessed the Consumer Broadband-only Loop rate charged pursuant to § 69.132 of this chapter or provided on a detariffed basis. For purposes of this report, and for purposes of computing support under this subpart, lines served using resale of the rate-of-return local exchange carrier's service pursuant to section 251(c)(4) of the Communications Act of 1934, as amended, shall be considered lines served by the rate-of-return carrier only and must be reported accordingly.

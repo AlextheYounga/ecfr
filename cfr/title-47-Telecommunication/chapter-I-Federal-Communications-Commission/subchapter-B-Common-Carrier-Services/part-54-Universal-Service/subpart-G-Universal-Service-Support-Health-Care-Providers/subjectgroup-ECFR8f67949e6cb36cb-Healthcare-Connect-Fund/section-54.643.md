@@ -1,5 +1,7 @@
 ##### § 54.643 Funding commitments. #####
 
+Link to an amendment published at 84 FR 4732, Feb. 19, 2019.
+
 (a) Once a vendor is selected, applicants must submit a “Funding Request” (and supporting documentation) to provide information about the services, equipment, or facilities selected and certify that the services selected were the most cost-effective option of the offers received. The following information should be submitted to the Administrator with the Funding Request.
 
 (1) *Request for funding.* The applicant shall submit a request for funding (Form 462) to identify the service(s), equipment, or facilities; rates; vendor(s); and date(s) of vendor selection.

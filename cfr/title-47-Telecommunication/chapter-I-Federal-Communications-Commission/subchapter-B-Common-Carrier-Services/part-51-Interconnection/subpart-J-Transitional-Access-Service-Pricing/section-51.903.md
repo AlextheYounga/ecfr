@@ -1,7 +1,5 @@
 ##### § 51.903 Definitions. #####
 
-Link to an amendment published at 83 FR 67121, Dec. 28, 2018.
-
 For the purposes of this subpart:
 
 (a) *Competitive Local Exchange Carrier.* A *Competitive Local Exchange Carrier* is any local exchange carrier, as defined in § 51.5, that is not an incumbent local exchange carrier .
@@ -26,7 +24,7 @@ For incumbent local exchange carriers, residual rate elements may include, for e
 
 (f) *Price Cap Carrier* has the same meaning as that term is defined in § 61.3(aa) of this chapter.
 
-(g) *Rate-of-Return Carrier* is any incumbent local exchange carrier not subject to price cap regulation as that term is defined in § 61.3(aa) of this chapter, but only with respect to the territory in which it operates as an incumbent local exchange carrier.
+(g) *Rate-of-Return Carrier* is any incumbent local exchange carrier not subject to price cap regulation as that term is defined in § 61.3(bb) of this chapter, but only with respect to the territory in which it operates as an incumbent local exchange carrier.
 
 (h) *Access Reciprocal Compensation* means telecommunications traffic exchanged between telecommunications service providers that is interstate or intrastate exchange access, information access, or exchange services for such access, other than special access.
 
@@ -37,3 +35,5 @@ For incumbent local exchange carriers, residual rate elements may include, for e
 (2) Any functional equivalent of the incumbent local exchange carrier access service provided by a non-incumbent local exchange carrier via other facilities. *Tandem-Switched Transport* rate elements for an incumbent local exchange carrier include the rate elements specified in § 69.111 of this chapter, except for the dedicated transport rate elements specified in that section, and intrastate rate elements for functionally equivalent service. Tandem Switched Transport Access Service rate elements for a non-incumbent local exchange carrier include any functionally equivalent access service.
 
 (j) *Transitional Intrastate Access Service* means terminating End Office Access Service that was subject to intrastate access rates as of December 31, 2011; terminating Tandem-Switched Transport Access Service that was subject to intrastate access rates as of December 31, 2011; and originating and terminating Dedicated Transport Access Service that was subject to intrastate access rates as of December 31, 2011.
+
+[76 FR 73856, Nov. 29, 2011, as amended at 83 FR 67121, Dec. 28, 2018]
