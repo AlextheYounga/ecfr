@@ -1,7 +1,5 @@
 ##### § 229.601 (Item 601) Exhibits. #####
 
-Link to an amendment published at 83 FR 40873, Aug. 16, 2018.
-
 (a) *Exhibits and index required.* (1) Subject to Rule 411(c) (§ 230.411(c) of this chapter) under the Securities Act and Rule 12b-32 (§ 240.12b-32 of this chapter) under the Exchange Act regarding incorporation of exhibits by reference, the exhibits required in the exhibit table shall be filed as indicated, as part of the registration statement or report.
 
 (2) Each registration statement or report shall contain an exhibit index, which must appear before the required signatures in the registration statement or report. For convenient reference, each exhibit shall be listed in the exhibit index according to the number assigned to it in the exhibit table. If an exhibit is incorporated by reference, this must be noted in the exhibit index. Each exhibit identified in the exhibit index (other than an exhibit filed in eXtensible Business Reporting Language or an exhibit that is filed with Form ABS-EE) must include an active link to an exhibit that is filed with the registration statement or report or, if the exhibit is incorporated by reference, an active hyperlink to the exhibit separately filed on EDGAR. If a registration statement or report is amended, each amendment must include hyperlinks to the exhibits required with the amendment. For a description of each of the exhibits included in the exhibit table, see paragraph (b) of this section.
@@ -70,7 +68,7 @@ Exhibit Table
 |                                                  (95) Mine Safety Disclosure Exhibit                                                   |                    |                  |    |               |   |    |   |   |               |   |               |              |              |      X       |      X       |   |
 |                                                      (96) through (98) [Reserved]                                                      |                    |                  |    |               |   |    |   |   |               |   |               |              |              |              |              |   |
 |                                                        (99) Additional exhibits                                                        |         X          |        X         | X  |       X       | X | X  | X | X |       X       | X |       X       |      X       |      X       |      X       |      X       |   |
-|                                                      (100) XBRL-Related Documents                                                      |                    |                  |    |               |   |    |   |   |               |   |       X       |      X       |              |      X       |      X       |   |
+|                                                            (100) [Reserved]                                                            |                    |                  |    |               |   |    |   |   |               |   |               |              |              |              |              |   |
 |                                                      (101) Interactive Data File                                                       |         X          |        X         |    |               | X |    | X | X |       X       | X |               |      X       |              |      X       |      X       |   |
 |                                                         (102) Asset Data File                                                          |                    |                  | X  |       X       |   |    |   |   |               |   |               |              |      X       |              |              | X |
 |                                                     (103) Asset Related Documents                                                      |                    |                  | X  |       X       |   |    |   |   |               |   |               |              |      X       |              |              | X |
@@ -334,33 +332,27 @@ The certification must be signed by the chief executive officer of the depositor
 
 (iii) If pursuant to Section 11(a) of the Securities Act (15 U.S.C. 77k(a)) an issuer makes generally available to its security holders an earnings statement covering a period of at least 12 months beginning after the effective date of the registration statement, and if such earnings statement is made available by “other methods” than those specified in paragraphs (a) or (b) of § 230.158 of this chapter, it must be filed as an exhibit to the Form 10-Q or the Form 10-K, as appropriate, covering the period in which the earnings statement was released.
 
-(100) *XBRL-Related Documents.* Only an electronic filer that prepares its financial statements in accordance with Article 6 of Regulation S-X (17 CFR 210.6-01 *et seq.*) is permitted to participate in the voluntary XBRL (eXtensible Business Reporting Language) program and, as a result, may submit XBRL-Related Documents (§ 232.11 of this chapter) in electronic format as an exhibit to: the filing to which they relate; an amendment to such filing; or a Form 8-K (§ 249.308 of this chapter) that references such filing, if the Form 8-K is submitted no earlier than the date of filing. Rule 401 of Regulation S-T (§ 232.401 of this chapter) sets forth further details regarding eligibility to participate in the voluntary XBRL program.
+(100) [Reserved]
 
-(101) *Interactive Data File.* An Interactive Data File (§ 232.11 of this chapter) is:
+(101) *Interactive Data File.* Where a registrant prepares its financial statements in accordance with either generally accepted accounting principles as used in the United States or International Financial Reporting Standards as issued by the International Accounting Standards Board, an Interactive Data File (§ 232.11 of this chapter) is:
 
-(i) *Required to be submitted and posted.* Required to be submitted to the Commission and posted on the registrant's corporate Web site, if any, in the manner provided by Rule 405 of Regulation S-T (§ 232.405 of this chapter) if the registrant does not prepare its financial statements in accordance with Article 6 of Regulation S-X (17 CFR 210.6-01 *et seq.*) and is described in paragraph (b)(101)(i)(A), (B) or (C) of this Item, except that an Interactive Data File: first is required for a periodic report on Form 10-Q (§ 249.308a of this chapter), Form 20-F (§ 249.220f of this chapter) or Form 40-F (§ 249.240f of this chapter), as applicable; is required for a registration statement under the Securities Act only if the registration statement contains a price or price range; and is required for a Form 8-K (§ 249.308 of this chapter) only when the Form 8-K contains audited annual financial statements that are a revised version of financial statements that previously were filed with the Commission that have been revised pursuant to applicable accounting standards to reflect the effects of certain subsequent events, including a discontinued operation, a change in reportable segments or a change in accounting principle, and, in such case, the Interactive Data File would be required only as to such revised financial statements regardless whether the Form 8-K contains other financial statements:
+(i) *Required to be submitted.* Required to be submitted to the Commission in the manner provided by § 232.405 of this chapter if the registrant does not prepare its financial statements in accordance with 17 CFR 210.6-01 through 210.6-10 (Article 6 of Regulation S-X), except that an Interactive Data File:
 
-(A) A large accelerated filer (§ 240.12b-2 of this chapter) that had an aggregate worldwide market value of the voting and non-voting common equity held by non-affiliates of more than $5 billion as of the last business day of the second fiscal quarter of its most recently completed fiscal year that prepares its financial statements in accordance with generally accepted accounting principles as used in the United States and the filing contains financial statements of the registrant for a fiscal period that ends on or after June 15, 2009;
+(A) First is required for a periodic report on Form 10-Q (§ 249.308a of this chapter), Form 20-F (§ 249.220f of this chapter), or Form 40-F (§ 249.240f of this chapter), as applicable;
 
-(B) A large accelerated filer not specified in paragraph (b)(101)(i)(A) of this Item that prepares its financial statements in accordance with generally accepted accounting principles as used in the United States and the filing contains financial statements of the registrant for a fiscal period that ends on or after June 15, 2010; or
+(B) Is required for a registration statement under the Securities Act only if the registration statement contains a price or price range; and
 
-(C) A filer not specified in paragraph (b)(101)(i)(A) or (B) of this Item that prepares its financial statements in accordance with either generally accepted accounting principles as used in the United States or International Financial Reporting Standards as issued by the International Accounting Standards Board, and the filing contains financial statements of the registrant for a fiscal period that ends on or after June 15, 2011.
+(C) Is required for a Form 8-K (§ 249.308 of this chapter) only when the Form 8-K contains audited annual financial statements that are a revised version of financial statements that previously were filed with the Commission and that have been revised pursuant to applicable accounting standards to reflect the effects of certain subsequent events, including a discontinued operation, a change in reportable segments or a change in accounting principle. In such case, the Interactive Data File will be required only as to such revised financial statements regardless of whether the Form 8-K contains other financial statements.
 
-(ii) *Permitted to be submitted.* Permitted to be submitted to the Commission in the manner provided by Rule 405 of Regulation S-T (§ 232.405 of this chapter) if the:
+(ii) *Permitted to be submitted.* Permitted to be submitted to the Commission in the manner provided by § 232.405 of this chapter if the:
 
-(A) Registrant prepares its financial statements:
+(A) Registrant does not prepare its financial statements in accordance with 17 CFR 210.6-01 through 210.6-10 (Article 6 of Regulation S-X); and
 
-(*1*) In accordance with either:
+(B) Interactive Data File is not required to be submitted to the Commission under paragraph (b)(101)(i) of this section.
 
-(*i*) Generally accepted accounting principles as used in the United States; or
+Instruction 1 to paragraphs (b)(101)(i) and (ii): When an Interactive Data File is submitted as provided by § 232.405(a)(3)(i) of this chapter, the exhibit index must include the word “Inline” within the title description for any eXtensible Business Reporting Language (XBRL)-related exhibit.
 
-(*ii*) International Financial Reporting Standards as issued by the International Accounting Standards Board; and
-
-(*2*) Not in accordance with Article 6 of Regulation S-X (17 CFR 210.6-01 *et seq.*); and
-
-(B) Interactive Data File is not required to be submitted to the Commission under paragraph (b)(101)(i) of this Item.
-
-(iii) *Not permitted to be submitted.* Not permitted to be submitted to the Commission if the registrant prepares its financial statements in accordance with Article 6 of Regulation S-X (17 CFR 210.6-01 *et seq.*).
+(iii) *Not permitted to be submitted.* Not permitted to be submitted to the Commission if the registrant prepares its financial statements in accordance with 17 CFR 210.6-01 through 210.6-10 (Article 6 of Regulation S-X).
 
 (102) *Asset Data File.* An Asset Data File (as defined in § 232.11 of this chapter) filed pursuant to Item 1111(h)(3) of Regulation AB (§ 229.1111(h)(3)).
 

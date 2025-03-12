@@ -1,0 +1,11 @@
+##### 6101.54 Alternative dispute resolution [Rule 54]. #####
+
+(a) *Availability.* The CDA requires boards of contract appeals to provide to the fullest extent practicable informal, expeditious, and inexpensive resolution of disputes. Resolution of a dispute at the earliest stage feasible, by the fastest and least expensive method possible, benefits both parties. The Board provides alternative dispute resolution (ADR) services for pre-claim and pre-final decision matters, as well as appeals pending before the Board. The Board may also conduct ADR proceedings for any Federal agency. The use of ADR proceedings does not toll any statutory time limits.
+
+(b) *Procedures for requesting ADR.* Parties may jointly ask the Board Chair to appoint a judge as an ADR Neutral. The parties may request a particular judge or judges, to include the presiding judge. To facilitate full, frank, and open participation, a Neutral will not discuss the substance of the case or the parties' conduct in ADR with other Board personnel, and a Neutral who participates in a nonbinding ADR procedure that does not resolve the dispute is recused from further participation in the matter unless the parties agree otherwise in writing and the Board concurs.
+
+(c) *Confidentiality.* Written material prepared for use in ADR, oral presentations made in ADR, and all discussions between the parties and the Neutral are confidential, subject to 5 U.S.C. 574, and, unless otherwise specifically agreed by the parties, inadmissible as evidence in any Board proceeding, although evidence otherwise admissible before the Board is not rendered inadmissible merely because of its use in ADR.
+
+(d) *ADR agreement.* Parties shall agree in writing to an ADR method and the procedures and requirements for implementing it. The ADR agreement shall provide that the parties and counsel will not subpoena the Neutral in any legal action or administrative proceeding of any kind to provide documents or testimony relating to the ADR.
+
+(e) *Types of ADR.* Parties and the Board may agree on any type of binding or nonbinding ADR suited to a dispute.

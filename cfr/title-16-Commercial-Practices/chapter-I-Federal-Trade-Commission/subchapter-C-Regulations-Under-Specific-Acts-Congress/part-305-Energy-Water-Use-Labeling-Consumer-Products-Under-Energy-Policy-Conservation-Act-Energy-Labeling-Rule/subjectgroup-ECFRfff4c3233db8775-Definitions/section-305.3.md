@@ -1,7 +1,5 @@
 ##### § 305.3 Description of covered products. #####
 
-Link to an amendment published at 81 FR 63646, Sept. 15, 2016.
-
 (a) *Refrigerators and refrigerator-freezers.* (1) *Electric refrigerator* means a cabinet designed for the refrigerated storage of food, designed to be capable of achieving storage temperatures above 32 °F (0 °C) and below 39 °F (3.9 °C), and having a source of refrigeration requiring single phase, alternating current electric energy input only. An electric refrigerator may include a compartment for the freezing and storage of food at temperatures below 32 °F (0 °C), but does not provide a separate low temperature compartment designed for the freezing and storage of food at temperatures below 8 °F (−13.3 °C).
 
 (2) *Electric refrigerator-freezer* means a cabinet which consists of two or more compartments with at least one of the compartments designed for the refrigerated storage of food and designed to be capable of achieving storage temperatures above 32 °F (0 °C) and below 39 °F (3.9 °C), and with at least one of the compartments designed for the freezing and storage of food at temperatures below 8 °F (−13.3 °C) which may be adjusted by the user to a temperature of 0 °F (−17.8 °C) or below. The source of refrigeration requires single phase, alternating current electric energy input only.
@@ -242,7 +240,7 @@ Link to an amendment published at 81 FR 63646, Sept. 15, 2016.
 
 (2) *Metal halide lamp* means a high intensity discharge lamp in which the major portion of the light is produced by radiation of metal halides and their products of dissociation, possibly in combination with metallic vapors.
 
-(x) *Ceiling fan* means a nonportable device that is suspended from a ceiling for circulating air via the rotation of fan blades. The requirements of this part are limited to those ceiling fans for which the Department of Energy has adopted and published test procedures for measuring energy usage.
+(x) Ceiling fan means a nonportable device that is suspended from a ceiling for circulating air via the rotation of fan blades, excluding large-diameter and high-speed small diameter fans as defined in appendix U of subpart B of 10 CFR part 430. The requirements of this part are otherwise limited to those ceiling fans for which the Department of Energy has adopted and published test procedures for measuring energy usage.
 
 (y) *Television* means a product that is designed to produce dynamic video, contains an internal TV tuner encased within the product housing, and is capable of receiving dynamic visual content from wired or wireless sources including but not limited to: broadcast and similar services for terrestrial, cable, satellite, and/or broadband transmission of analog and/or digital signals; and/or display-specific data connections, such as HDMI, Component video, S-video, Composite video; and/or media storage devices such as a USB flash drive, memory card, or a DVD; and/or network connections, usually using Internet Protocol, typically carried over Ethernet or Wi-Fi. The requirements of this part are limited to those televisions for which the Department of Energy has adopted and published test procedures for measuring energy use.
 
@@ -310,4 +308,4 @@ Link to an amendment published at 81 FR 63646, Sept. 15, 2016.
 
 (xvi) A plant light lamp.
 
-[52 FR 46894, Dec. 10, 1987, as amended at 59 FR 34031, 34032, July 1, 1994; 59 FR 49563, Sept. 28, 1994; 59 FR 67525, Dec. 29, 1994; 71 FR 4984, Jan. 31, 2006; 72 FR 49966, Aug. 29, 2007; 73 FR 63067, Oct. 23, 2008; 76 FR 79057, Dec. 21, 2011; 76 FR 1050, Jan. 6, 2011; 78 FR 2207, Jan. 10, 2013; 79 FR 19466, Apr. 9, 2014; 80 FR 67298, Nov. 2, 2015]
+[52 FR 46894, Dec. 10, 1987, as amended at 59 FR 34031, 34032, July 1, 1994; 59 FR 49563, Sept. 28, 1994; 59 FR 67525, Dec. 29, 1994; 71 FR 4984, Jan. 31, 2006; 72 FR 49966, Aug. 29, 2007; 73 FR 63067, Oct. 23, 2008; 76 FR 79057, Dec. 21, 2011; 76 FR 1050, Jan. 6, 2011; 78 FR 2207, Jan. 10, 2013; 79 FR 19466, Apr. 9, 2014; 80 FR 67298, Nov. 2, 2015; 81 FR 63646, Sept. 15, 2016; 81 FR ]

@@ -1,0 +1,5 @@
+##### 6101.3 Computing and extending time [Rule 3]. #####
+
+(a) *Computing time.* Consistent with Rule 6 of the Federal Rules of Civil Procedure: In computing any time period, omit the day of the event from which the period begins to run. Omit nonbusiness days only if the period is less than 11 days; otherwise include them. A period ends on a business day. If a computed period would otherwise end on a nonbusiness day, it ends on the next business day.
+
+(b) *Extensions.* Parties should act sooner than required whenever practicable. However, the Board extends time when appropriate. A motion for an extension shall be in writing and shall state the other party's position on the motion or describe the movant's effort to learn the other party's position. The Board cannot extend statutory deadlines.

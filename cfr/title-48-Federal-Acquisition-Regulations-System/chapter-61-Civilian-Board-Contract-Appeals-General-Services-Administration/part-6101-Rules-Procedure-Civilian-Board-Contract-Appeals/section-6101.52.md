@@ -1,0 +1,7 @@
+##### 6101.52 Small claims procedure [Rule 52]. #####
+
+(a) *Election.* The small claims procedure is available solely at an appellant's election and is limited to appeals in which there is a monetary amount in dispute and the requirements for expedited disposition set forth in the Contract Disputes Act, 41 U.S.C. 7106(b), are met. An appellant may elect the small claims procedure up to 30 days after receiving the respondent's answer.
+
+(b) *Procedure.* The respondent may object to an election, on the grounds that Rule 52(a) (paragraph (a) of this section) is not satisfied, within 10 days after receiving the election. If the small claims procedure is used, the Board will set a schedule for timely resolution of the appeal. The schedule may restrict or eliminate pleadings, discovery, and other prehearing activities.
+
+(c) *Decision.* The presiding judge may issue a decision in summary form. A decision is final and conclusive, shall not be set aside except for fraud, and is not precedential. If possible, the Board will resolve the appeal within 120 days after the appellant elects the small claims procedure. The Board may extend the appeal schedule if an appellant does not adhere to the established schedule.

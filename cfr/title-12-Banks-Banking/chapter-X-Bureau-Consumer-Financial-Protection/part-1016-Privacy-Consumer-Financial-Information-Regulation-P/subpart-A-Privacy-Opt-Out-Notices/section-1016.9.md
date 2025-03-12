@@ -1,7 +1,5 @@
 ##### § 1016.9 Delivering privacy and opt out notices. #####
 
-Link to an amendment published at 83 FR 40959, Aug. 17, 2018.
-
 (a) *How to provide notices.* You must provide any privacy notices and opt out notices, including short-form initial notices, that this part requires so that each consumer can reasonably be expected to receive actual notice in writing or, if the consumer agrees, electronically.
 
 (b)(1) *Examples of reasonable expectation of actual notice.* You may reasonably expect that a consumer will receive actual notice if you:
@@ -24,33 +22,11 @@ Link to an amendment published at 83 FR 40959, Aug. 17, 2018.
 
 (ii) Send the notice via electronic mail to a consumer who does not obtain a financial product or service from you electronically.
 
-(c) *Annual notices only* - (1) *Reasonable expectation.* You may reasonably expect that a customer will receive actual notice of your annual privacy notice if:
+(c) *Annual notices only.* You may reasonably expect that a customer will receive actual notice of your annual privacy notice if:
 
-(i) The customer uses your Web site to access financial products and services electronically and agrees to receive notices at the Web site, and you post your current privacy notice continuously in a clear and conspicuous manner on the Web site; or
+(1) The customer uses your website to access financial products and services electronically and agrees to receive notices at the website, and you post your current privacy notice continuously in a clear and conspicuous manner on the website; or
 
-(ii) The customer has requested that you refrain from sending any information regarding the customer relationship, and your current privacy notice remains available to the customer upon request.
-
-(2) *Alternative method for providing certain annual notices.* (i) Notwithstanding paragraph (a) of this section, you may use the alternative method described in paragraph (c)(2)(ii) of this section to satisfy the requirement in § 1016.5(a)(1) to provide a notice if:
-
-(A) You do not disclose the customer's nonpublic personal information to nonaffiliated third parties other than for purposes under §§ 1016.13, 1016.14, and 1016.15;
-
-(B) You do not include on your annual privacy notice pursuant to § 1016.6(a)(7) an opt out under section 603(d)(2)(A)(iii) of the Fair Credit Reporting Act (15 U.S.C. 1681a(d)(2)(A)(iii));
-
-(C) The requirements of section 624 of the Fair Credit Reporting Act (15 U.S.C. 1681s-3) and subpart C of part 1022 of this chapter, if applicable, have been satisfied previously or the annual privacy notice is not the only notice provided to satisfy such requirements;
-
-(D) The information you are required to convey on your annual privacy notice pursuant to § 1016.6(a)(1) through (5), (8), and (9) has not changed since you provided the immediately previous privacy notice (whether initial, annual, or revised) to the customer, other than to eliminate categories of information you disclose or categories of third parties to whom you disclose information; and
-
-(E) You use the model privacy form in the appendix to this part for your annual privacy notice.
-
-(ii) For an annual privacy notice that meets the requirements in paragraph (c)(2)(i) of this section, you satisfy the requirement in § 1016.5(a)(1) to provide a notice if you:
-
-(A) Convey in a clear and conspicuous manner not less than annually on an account statement, coupon book, or a notice or disclosure you are required or expressly and specifically permitted to issue to the customer under any other provision of law that your privacy notice is available on your Web site and will be mailed to the customer upon request by telephone. The statement must state that your privacy notice has not changed and must include a specific Web address that takes the customer directly to the page where the privacy notice is posted and a telephone number for the customer to request that it be mailed;
-
-(B) Post your current privacy notice continuously and in clear and conspicuous manner on a page of your Web site on which the only content is the privacy notice, without requiring the customer to provide any information such as a login name or password or agree to any conditions to access the page; and
-
-(C) Mail your current privacy notice to those customers who request it by telephone within ten days of the request.
-
-(iii) An example of a statement that satisfies paragraph (c)(2)(ii)(A) of this section is as follows with the words “Privacy Notice” in boldface or otherwise emphasized: Privacy Notice - Federal law requires us to tell you how we collect, share, and protect your personal information. Our privacy policy has not changed and you may review our policy and practices with respect to your personal information at [Web address] or we will mail you a free copy upon request if you call us at [telephone number].
+(2) The customer has requested that you refrain from sending any information regarding the customer relationship, and your current privacy notice remains available to the customer upon request.
 
 (d) *Oral description of notice insufficient.* You may not provide any notice required by this part solely by orally explaining the notice, either in person or over the telephone.
 
@@ -76,4 +52,4 @@ Link to an amendment published at 83 FR 40959, Aug. 17, 2018.
 
 (ii) A credit union may satisfy the annual notice requirements of § 1016.5 by providing one notice to those borrowers and guarantors jointly.
 
-[76 FR 79028, Dec. 21, 2011, as amended at 79 FR 64081, Oct. 28, 2014]
+[76 FR 79028, Dec. 21, 2011, as amended at 79 FR 64081, Oct. 28, 2014; CFPB-2016-0032, 83 FR 40959, Aug. 17, 2018]

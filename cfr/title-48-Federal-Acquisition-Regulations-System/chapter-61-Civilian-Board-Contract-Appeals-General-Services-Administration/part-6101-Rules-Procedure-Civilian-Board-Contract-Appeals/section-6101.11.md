@@ -1,0 +1,3 @@
+##### 6101.11 Conferences [Rule 11]. #####
+
+The Board may order a conference of the parties for any purpose. Conferences are usually telephonic and are rarely recorded or transcribed. No one may record a conference by any means without Board approval. If the Board issues a memorandum or order memorializing a conference, a party has 5 days from receipt of the memorandum or order to object in writing to the memorialization.

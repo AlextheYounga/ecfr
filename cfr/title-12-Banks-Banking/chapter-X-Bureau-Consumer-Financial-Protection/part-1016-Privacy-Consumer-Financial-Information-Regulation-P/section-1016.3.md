@@ -1,7 +1,5 @@
 ##### § 1016.3 Definitions. #####
 
-Link to an amendment published at 83 FR 40958, Aug. 17, 2018.
-
 As used in this part, unless the context requires otherwise:
 
 (a)(1) *Affiliate* means any company that controls, is controlled by, or is under common control with another company.
@@ -12,7 +10,7 @@ As used in this part, unless the context requires otherwise:
 
 (b)(1) *Clear and conspicuous* means that a notice is reasonably understandable and designed to call attention to the nature and significance of the information in the notice.
 
-(2) *Examples* - (i) *Reasonably understandable.* You make your notice reasonably understandable if you:
+(2) *Examples*—(i) *Reasonably understandable.* You make your notice reasonably understandable if you:
 
 (A) Present the information in the notice in clear, concise sentences, paragraphs, and sections;
 
@@ -292,7 +290,7 @@ As used in this part, unless the context requires otherwise:
 
 (iii) You otherwise obtain about a consumer in connection with providing a financial product or service to that consumer.
 
-(2) *Examples* - (i) *Information included.* Personally identifiable financial information includes:
+(2) *Examples*—(i) *Information included.* Personally identifiable financial information includes:
 
 (A) Information a consumer provides to you on an application to obtain a loan, a credit card, a credit union membership, or other financial product or service;
 
@@ -328,7 +326,7 @@ As used in this part, unless the context requires otherwise:
 
 (ii) Whether an individual can direct that the information not be made available to the general public and, if so, that your consumer has not done so.
 
-(3) *Examples* - (i) *Government records.* Publicly available information in government records includes information in government real estate records and security interest filings.
+(3) *Examples*—(i) *Government records.* Publicly available information in government records includes information in government real estate records and security interest filings.
 
 (ii) *Widely distributed media.* Publicly available information from widely distributed media includes information from a telephone book, a television or radio program, a newspaper, or a Web site that is available to the general public on an unrestricted basis. A Web site is not restricted merely because an Internet service provider or a site operator requires a fee or a password, so long as access is available to the general public.
 
@@ -336,7 +334,7 @@ As used in this part, unless the context requires otherwise:
 
 (B) You have a reasonable basis to believe that an individual's telephone number is lawfully made available to the general public if you have located the telephone number in the telephone book or the consumer has informed you that the telephone number is not unlisted.
 
-(s)(1) *You* means a financial institution or other person for which the Bureau has rulemaking authority under section 504(a)(1)(A) of the GLB Act (15 U.S.C. 6804(a)(1)(A)).
+(s)(1) *You* means a financial institution for which the Bureau has rulemaking authority under section 504(a)(1)(A) of the GLB Act (15 U.S.C. 6804(a)(1)(A)).
 
 (2) *You* does not include:
 
@@ -351,3 +349,5 @@ As used in this part, unless the context requires otherwise:
 (v) An investment company that is registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.;*) or
 
 (vi) An insurance company, with respect to its insurance activities and its activities incidental to those insurance activities, that is subject to supervision by a State insurance regulator.
+
+[76 FR 79028, Dec. 21, 2011, as amended by CFPB-2016-0032, 83 FR 40958, Aug. 17, 2018]

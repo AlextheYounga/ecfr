@@ -1,0 +1,101 @@
+##### § 232.405 Interactive Data File submissions. #####
+
+This section applies to electronic filers that submit Interactive Data Files. Section 229.601(b)(101) of this chapter (Item 601(b)(101) of Regulation S-K), paragraph (101) of Part II - Information Not Required to be Delivered to Offerees or Purchasers of Form F-10 (§ 239.40 of this chapter), paragraph 101 of the Instructions as to Exhibits of Form 20-F (§ 249.220f of this chapter), paragraph B.(15) of the General Instructions to Form 40-F (§ 249.240f of this chapter), paragraph C.(6) of the General Instructions to Form 6-K (§ 249.306 of this chapter), and General Instruction C.3.(g) of Form N-1A (§§ 239.15A and 274.11A of this chapter) specify when electronic filers are required or permitted to submit an Interactive Data File (§ 232.11), as further described in the note to this section. This section imposes content, format and submission requirements for an Interactive Data File, but does not change the substantive content requirements for the financial and other disclosures in the Related Official Filing (§ 232.11).
+
+(a) *Content, format, and submission requirements - General.* An Interactive Data File must:
+
+(1) Comply with the content, format, and submission requirements of this section;
+
+(2) Be submitted only by an electronic filer either required or permitted to submit an Interactive Data File as specified by § 229.601(b)(101) of this chapter (Item 601(b)(101) of Regulation S-K), paragraph (101) of Part II - Information Not Required to be Delivered to Offerees or Purchasers of Form F-10 (§ 239.40 of this chapter), paragraph 101 of the Instructions as to Exhibits of Form 20-F (§ 249.220f of this chapter), paragraph B.(15) of the General Instructions to Form 40-F (§ 249.240f of this chapter), paragraph C.(6) of the General Instructions to Form 6-K (§ 249.306 of this chapter), or General Instruction C.3.(g) of Form N-1A (§§ 239.15A and 274.11A of this chapter), as applicable;
+
+(3) Be submitted using Inline XBRL:
+
+(i) If the electronic filer is not an open-end management investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a *et seq.*) and is not within one of the categories specified in paragraph (f)(1)(i) of this section, as partly embedded into a filing with the remainder simultaneously submitted as an exhibit to:
+
+(A) A filing that contains the disclosure this section requires to be tagged; or
+
+(B) An amendment to a filing that contains the disclosure this section requires to be tagged if the amendment is filed no more than 30 days after the earlier of the due date or filing date of the filing and the Interactive Data File is the first Interactive Data File the electronic filer submits; or
+
+(ii) If the electronic filer is an open-end management investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a *et seq.*) and is not within one of the categories specified in paragraph (f)(1)(ii) of this section, as partly embedded into a filing with the remainder simultaneously submitted as an exhibit to a filing that contains the disclosure this section requires to be tagged; and
+
+(4) Be submitted in accordance with the EDGAR Filer Manual and, as applicable, either § 229.601(b)(101) of this chapter (Item 601(b)(101) of Regulation S-K), paragraph (101) of Part II - Information Not Required to be Delivered to Offerees or Purchasers of Form F-10 (§ 239.40 of this chapter), paragraph 101 of the Instructions as to Exhibits of Form 20-F (§ 249.220f of this chapter), paragraph B.(15) of the General Instructions to Form 40-F (§ 249.240f of this chapter), paragraph C.(6) of the General Instructions to Form 6-K (§ 249.306 of this chapter), or General Instruction C.3.(g) of Form N-1A (§§ 239.15A and 274.11A of this chapter).
+
+(b)(1) *Content - categories of information presented.* If the electronic filer is not an open-end management investment company registered under the Investment Company Act of 1940, an Interactive Data File must consist of only a complete set of information for all periods required to be presented in the corresponding data in the Related Official Filing, no more and no less, from all of the following categories:
+
+(i) The complete set of the electronic filer's financial statements (which includes the face of the financial statements and all footnotes); and
+
+(ii) All schedules set forth in Article 12 of Regulation S-X (§§ 210.12-01 - 210.12-29) related to the electronic filer's financial statements.
+
+Note to paragraph (b)(1):
+
+It is not permissible for the Interactive Data File to present only partial face financial statements, such as by excluding comparative financial information for prior periods.
+
+(2) If the electronic filer is an open-end management investment company registered under the Investment Company Act of 1940, an Interactive Data File must consist of only a complete set of information for all periods required to be presented in the corresponding data in the Related Official Filing, no more and no less, from the risk/return summary information set forth in Items 2, 3, and 4 of Form N-1A.
+
+(c) *Format - Generally.* An Interactive Data File must comply with the following requirements, except as modified by paragraph (d) or (e) of this section, as applicable, with respect to the corresponding data in the Related Official Filing consisting of footnotes to financial statements or financial statement schedules as set forth in Article 12 of Regulation S-X:
+
+(1) *Data elements and labels* - (i) *Element accuracy.* Each data element (*i.e.*, all text, line item names, monetary values, percentages, numbers, dates and other labels) contained in the Interactive Data File reflects the same information in the corresponding data in the Related Official Filing;
+
+(ii) *Element specificity.* No data element contained in the corresponding data in the Related Official Filing is changed, deleted, or summarized in the Interactive Data File;
+
+(iii) *Standard and special labels and elements.* Each data element contained in the Interactive Data File is matched with an appropriate tag from the most recent version of the standard list of tags specified by the EDGAR Filer Manual. A tag is appropriate only when its standard definition, standard label and other attributes as and to the extent identified in the list of tags match the information to be tagged, except that:
+
+(A) *Labels.* An electronic filer must create and use a new special label to modify a tag's existing standard label when that tag is an appropriate tag in all other respects (*i.e.*, in order to use a tag from the standard list of tags only its label needs to be changed); and
+
+(B) *Elements.* An electronic filer must create and use a new special element if and only if an appropriate tag does not exist in the standard list of tags for reasons other than or in addition to an inappropriate standard label; and
+
+(2) *Additional mark-up related content.* The Interactive Data File contains any additional mark-up related content (e.g., the eXtensible Business Reporting Language tags themselves, identification of the core XML documents used and other technology related content) not found in the corresponding data in the Related Official Filing that is necessary to comply with the EDGAR Filer Manual requirements.
+
+(d) *Format - Footnotes - Generally.* The part of the Interactive Data File for which the corresponding data in the Related Official Filing consists of footnotes to financial statements must comply with the requirements of paragraphs (c)(1) and (2) of this section, as modified by this paragraph (d). Footnotes to financial statements must be tagged as follows:
+
+(1) Each complete footnote must be block-text tagged;
+
+(2) Each significant accounting policy within the significant accounting policies footnote must be block-text tagged;
+
+(3) Each table within each footnote must be block-text tagged; and
+
+(4) Within each footnote,
+
+(i) Each amount (*i.e.*, monetary value, percentage, and number) must be tagged separately; and
+
+(ii) Each narrative disclosure may be tagged separately to the extent the electronic filer chooses.
+
+(e) *Format - Schedules - Generally.* The part of the Interactive Data File for which the corresponding data in the Related Official Filing consists of financial statement schedules as set forth in 17 CFR 210.12-01 through 210.12-29 (Article 12 of Regulation S-X) must comply with the requirements of paragraphs (c)(1) and (2) of this section, as modified by this paragraph (e). Financial statement schedules as set forth in 17 CFR 210.12-01 through 210.12-29 (Article 12 of Regulation S-X) must be tagged as follows:
+
+(1) Each complete financial statement schedule must be block-text tagged; and
+
+(2) Within each financial statement schedule,
+
+(i) Each amount (*i.e.*, monetary value, percentage and number) must be tagged separately; and
+
+(ii) Each narrative disclosure may be tagged separately to the extent the electronic filer chooses.
+
+(f) *Format - Phase-in for Inline XBRL submissions.* (1) The following electronic filers may choose to submit an Interactive Data File:
+
+(i) In the manner specified in paragraph (f)(2) of this section rather than as specified by paragraph (a)(3)(i) of this section: Any electronic filer that is not an open-end management investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a *et seq.*) if it is within one of the following categories, provided, however, that an Interactive Data File first is required to be submitted in the manner specified by paragraph (a)(3)(i) of this section for a periodic report on Form 10-Q (§ 249.308a of this chapter) if the filer reports on Form 10-Q:
+
+(A) A large accelerated filer (§ 240.12b-2 of this chapter) that prepares its financial statements in accordance with generally accepted accounting principles as used in the United States and none of the financial statements for which an Interactive Data File is required is for a fiscal period that ends on or after June 15, 2019;
+
+(B) An accelerated filer (§ 240.12b-2 of this chapter) that prepares its financial statements in accordance with generally accepted accounting principles as used in the United States and none of the financial statements for which an Interactive Data File is required is for a fiscal period that ends on or after June 15, 2020; and
+
+(C) A filer not specified in paragraph (f)(1)(i)(A) or (B) of this section that prepares its financial statements in accordance with either generally accepted accounting principles as used in the United States or International Financial Reporting Standards as issued by the International Accounting Standards Board and none of the financial statements for which an Interactive Data File is required is for a fiscal period that ends on or after June 15, 2021.
+
+(ii) In the manner specified in paragraph (f)(3) of this section rather than as specified by paragraph (a)(3)(ii) of this section: Any electronic filer that is an open-end management investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a *et seq.*) that, together with other investment companies in the same “group of related investment companies,” as such term is defined in § 270.0-10 of this chapter, has assets of:
+
+(A) $1 billion or more as of the end of the most recent fiscal year until it files an initial registration statement (or post-effective amendment that is an annual update to an effective registration statement) that becomes effective on or after September 17, 2020; and
+
+(B) Less than $1 billion as of the end of the most recent fiscal year until it files an initial registration statement (or post-effective amendment that is an annual update to an effective registration statement) that becomes effective on or after September 17, 2021.
+
+(2) The electronic filers specified in paragraph (f)(1)(i) of this section may submit the Interactive Data File solely as an exhibit to:
+
+(i) A filing that contains the disclosure this section requires to be tagged; or
+
+(ii) An amendment to a filing that contains the disclosure this section requires to be tagged if the amendment is filed no more than 30 days after the earlier of the due date or filing date of the filing and the Interactive Data File is the first Interactive Data File the electronic filer submits.
+
+(3) The electronic filers specified in paragraph (f)(1)(ii) of this section may submit the Interactive Data File solely as an exhibit to a filing that contains the disclosure this section requires to be tagged, up to 15 business days after the effective date of the registration statement or post-effective amendment that contains the related information, or the filing of a form of prospectus made pursuant to § 230.497(c) or (e) of this chapter (paragraph (c) or (e) of Rule 497).
+
+Note to § 232.405:
+
+Section 229.601(b)(101) of this chapter (Item 601(b)(101) of Regulation S-K) specifies the circumstances under which an Interactive Data File must be submitted and the circumstances under which it is permitted to be submitted, with respect to Forms S-1 (§ 239.11 of this chapter), S-3 (§ 239.13 of this chapter), S-4 (§ 239.25 of this chapter), S-11 (§ 239.18 of this chapter), F-1 (§ 239.31 of this chapter), F-3 (§ 239.33 of this chapter), F-4 (§ 239.34 of this chapter), 10-K (§ 249.310 of this chapter), 10-Q (§ 249.308a of this chapter), and 8-K (§ 249.308 of this chapter). Paragraph (101) of Part II - Information not Required to be Delivered to Offerees or Purchasers of Form F-10 (§ 239.40 of this chapter) specifies the circumstances under which an Interactive Data File must be submitted and the circumstances under which it is permitted to be submitted, with respect to Form F-10. Paragraph 101 of the Instructions as to Exhibits of Form 20-F (§ 249.220f of this chapter) specifies the circumstances under which an Interactive Data File must be submitted and the circumstances under which it is permitted to be submitted, with respect to Form 20-F. Paragraph B.(15) of the General Instructions to Form 40-F (§ 249.240f of this chapter) and Paragraph C.(6) of the General Instructions to Form 6-K (§ 249.306 of this chapter) specify the circumstances under which an Interactive Data File must be submitted and the circumstances under which it is permitted to be submitted, with respect to Form 40-F and Form 6-K (§ 249.240f of this chapter and § 249.306 of this chapter), respectively. Section 229.601(b)(101) (Item 601(b)(101) of Regulation S-K), paragraph (101) of Part II - Information not Required to be Delivered to Offerees or Purchasers of Form F-10, paragraph 101 of the Instructions as to Exhibits of Form 20-F, paragraph B.(15) of the General Instructions to Form 40-F, and paragraph C.(6) of the General Instructions to Form 6-K all prohibit submission of an Interactive Data File by an issuer that prepares its financial statements in accordance with 17 CFR 210.6-01 through 210.6-10 (Article 6 of Regulation S-X). For an issuer that is an open-end management investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a *et seq.*), General Instruction C.3.(g) of Form N-1A (§§ 239.15A and 274.11A of this chapter) specifies the circumstances under which an Interactive Data File must be submitted.
+
+[74 FR 6814, Feb. 10, 2009; 74 FR 15667, Apr. 7, 2009, as amended at 74 FR 7775, Feb. 19, 2009; 74 FR 21256, May 7, 2009; 76 FR 46617, Aug. 3, 2011; 83 FR 40875, Aug. 16, 2018]

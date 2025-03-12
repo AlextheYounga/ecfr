@@ -1,0 +1,7 @@
+##### 6101.53 Accelerated procedure [Rule 53]. #####
+
+(a) *Election.* The accelerated procedure is available solely at an appellant's election and is limited to appeals in which there is a monetary amount in dispute and the requirements for accelerated disposition set forth in the Contract Disputes Act, 41 U.S.C. 7106(a), are met. The appellant may elect the accelerated procedure up to 30 days after receiving the respondent's answer.
+
+(b) *Procedure.* The respondent may object to an election, on the grounds that Rule 53(a) (paragraph (a) of this section) is not satisfied, within 10 days after receiving the election. If the accelerated procedure is used, the Board will set a schedule for timely resolution of the appeal. The schedule may restrict or eliminate pleadings, discovery, and other prehearing activities.
+
+(c) *Decision.* The presiding judge may issue a decision with the concurrence of at least one panel member. If the presiding judge and a panel member disagree, the panel will decide the appeal. If possible, the Board will resolve the appeal within 180 days after the appellant elects the accelerated procedure. The Board may extend the appeal schedule if an appellant does not adhere to the established schedule.

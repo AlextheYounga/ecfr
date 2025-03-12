@@ -20,4 +20,6 @@
 
 (2) The eligible smaller railroad or its contractor or subcontractor complies with all of the requirements of paragraphs (a)(2) and (a)(4) through (6) of this section for its automated records and automated recordkeeping system.
 
-[74 FR 25350, May 27, 2009, as amended at 83 FR 43998, Aug. 29, 2018]
+(c) If a railroad, or a contractor or subcontractor to the railroad, is no longer eligible to use an automated recordkeeping system to record data subpart B of this part requires, the entity must begin keeping manual or electronic records and must retain its automated records as required under § 228.9(c) unless the entity requests, and FRA grants, a waiver under § 211.41 of this chapter.
+
+[74 FR 25350, May 27, 2009, as amended at 83 FR 43998, Aug. 29, 2018; 83 FR 46885, Sept. 17, 2018]

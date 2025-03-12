@@ -1,6 +1,6 @@
 ##### § 230.144 Persons deemed not to be engaged in a distribution and therefore not underwriters. #####
 
-Link to an amendment published at 83 FR 40873, Aug. 16, 2018.Preliminary Note:
+Preliminary Note:
 
 Certain basic principles are essential to an understanding of the registration requirements in the Securities Act of 1933 (the Act or the Securities Act) and the purposes underlying Rule 144:
 
@@ -74,7 +74,7 @@ Rule 144 is not an exclusive safe harbor. A person who does not meet all of the 
 
 (i) Filed all required reports under section 13 or 15(d) of the Exchange Act, as applicable, during the 12 months preceding such sale (or for such shorter period that the issuer was required to file such reports), other than Form 8-K reports (§ 249.308 of this chapter); and
 
-(ii) Submitted electronically and posted on its corporate Web site, if any, every Interactive Data File (§ 232.11 of this chapter) required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter), during the 12 months preceding such sale (or for such shorter period that the issuer was required to submit and post such files); or
+(ii) Submitted electronically every Interactive Data File (§ 232.11 of this chapter) required to be submitted pursuant to § 232.405 of this chapter, during the 12 months preceding such sale (or for such shorter period that the issuer was required to submit such files); or
 
 (2) *Non-reporting issuers.* If the issuer is not subject to the reporting requirements of section 13 or 15(d) of the Exchange Act, there is publicly available the information concerning the issuer specified in paragraphs (a)(5)(i) to (xiv), inclusive, and paragraph (a)(5)(xvi) of § 240.15c2-11 of this chapter, or, if the issuer is an insurance company, the information specified in section 12(g)(2)(G)(i) of the Exchange Act (15 U.S.C. 78*l*(g)(2)(G)(i)).
 
@@ -86,9 +86,9 @@ With respect to paragraph (c)(1), the person can rely upon:
 
 a. Filed all reports required under section 13 or 15(d) of the Exchange Act, as applicable, during the preceding 12 months (or for such shorter period that the issuer was required to file such reports), other than Form 8-K reports (§ 249.308 of this chapter), and has been subject to such filing requirements for the past 90 days; and
 
-b. Submitted electronically and posted on its corporate Web site, if any, every Interactive Data File (§ 232.11 of this chapter) required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter), during the preceding 12 months (or for such shorter period that the issuer was required to submit and post such files); or
+b. Submitted electronically every Interactive Data File (§ 232.11 of this chapter) required to be submitted pursuant to § 232.405 of this chapter, during the preceding 12 months (or for such shorter period that the issuer was required to submit such files); or
 
-2. A written statement from the issuer that it has complied with such reporting, submission or posting requirements.
+2. A written statement from the issuer that it has complied with such reporting or submission requirements.
 
 3. Neither type of statement may be relied upon, however, if the person knows or has reason to believe that the issuer has not complied with such requirements.
 

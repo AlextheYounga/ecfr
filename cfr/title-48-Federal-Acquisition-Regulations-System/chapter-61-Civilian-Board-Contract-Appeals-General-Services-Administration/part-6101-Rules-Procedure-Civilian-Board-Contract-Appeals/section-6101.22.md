@@ -1,0 +1,3 @@
+##### 6101.22 Transcripts [Rule 22]. #####
+
+The Board arranges transcription of hearings, other than hearings under the small claims procedure of Rule 52 (48 CFR 6101.52). The Board may, but generally does not, arrange transcription of conferences or other proceedings. No one may record or transcribe a Board proceeding without the Board's permission. The Board may order or acknowledge corrections to an official transcript. Each party is responsible for obtaining its own copy of a transcript.
