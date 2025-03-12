@@ -16,15 +16,16 @@
 |    (vii) Hydromorphone     |9150|
 |       (viii) Metopon       |9260|
 |       (ix) Morphine        |9300|
-|     (x) Opium extracts     |9610|
-|      (xi) Opium fluid      |9620|
-|      (xii) Oripavine       |9330|
-|      (xiii) Oxycodone      |9143|
-|     (xiv) Oxymorphone      |9652|
-|    (xv) Powdered opium     |9639|
-|      (xvi) Raw opium       |9600|
-|      (xvii) Thebaine       |9333|
-| (xviii) Tincture of opium  |9630|
+|     (x) Noroxymorphone     |9668|
+|    (xi) Opium extracts     |9610|
+|     (xii) Opium fluid      |9620|
+|      (xiii) Oripavine      |9330|
+|      (xiv) Oxycodone       |9143|
+|      (xv) Oxymorphone      |9652|
+|    (xvi) Powdered opium    |9639|
+|      (xvii) Raw opium      |9600|
+|      (xviii) Thebaine      |9333|
+|  (xix) Tincture of opium   |9630|
 
 (2) Any salt, compound, derivative, or preparation thereof which is chemically equivalent or identical with any of the substances referred to in paragraph (b) (1) of this section, except that these substances shall not include the isoquinoline alkaloids of opium.
 

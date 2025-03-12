@@ -1,7 +1,5 @@
 ##### § 74.1201 Definitions. #####
 
-Link to an amendment published at 84 FR 27740, June 14, 2019.Link to a correction to the effective date of the above amendment published at 84 FR 29806, June 25, 2019.
-
 (a) *FM translator.* A station in the broadcasting service operated for the purpose of retransmitting the signals of an AM or FM radio broadcast station or another FM broadcast translator station without significantly altering any characteristics of the incoming signal other than its frequency and amplitude, in order to provide radio broadcast service to the general public.
 
 (b) *Commercial FM translator.* An FM broadcast translator station which rebroadcasts the signals of a commercial AM or FM radio broadcast station.
@@ -22,4 +20,14 @@ Link to an amendment published at 84 FR 27740, June 14, 2019.Link to a correctio
 
 (j) *AM Fill-in area.* The area within the lesser of the 2 mV/m daytime contour of the AM radio broadcast station being rebroadcast and a 25-mile (40 km) radius centered at the AM transmitter site.
 
-[35 FR 15388, Oct. 2, 1970, as amended at 45 FR 37842, June 5, 1980; 52 FR 31405, Aug. 20, 1987; 55 FR 50693, Dec. 10, 1990; 74 FR 45129, Sept. 1, 2009; 82 FR 13072, Mar. 9, 2017]Effective Date Note:At 82 FR 13072, Mar. 9, 2017, § 74.1201 was amended by revising the last two sentences of paragraph (g), effective Apr. 10, 2017. At 82 FR 13069, Mar. 9, 2017, the effective date was delayed indefinitely pending Office of Management and Budget approval of a nonsubstantive change in the rule as originally proposed.
+(k) *Listener complaint.* A statement that is signed and dated by the listener and contains the following information:
+
+(1) The complainant's full name, address, and phone number;
+
+(2) A clear, concise, and accurate description of the location where interference is alleged or predicted to occur;
+
+(3) A statement that the complainant listens over-the-air to the desired station at least twice a month; and
+
+(4) A statement that the complainant has no legal, financial, employment, or familial affiliation or relationship with the desired station.
+
+[35 FR 15388, Oct. 2, 1970, as amended at 45 FR 37842, June 5, 1980; 52 FR 31405, Aug. 20, 1987; 55 FR 50693, Dec. 10, 1990; 74 FR 45129, Sept. 1, 2009; 82 FR 13072, Mar. 9, 2017; 84 FR 27740, June 14, 2019]Effective Date Note:At 82 FR 13072, Mar. 9, 2017, § 74.1201 was amended by revising the last two sentences of paragraph (g), effective Apr. 10, 2017. At 82 FR 13069, Mar. 9, 2017, the effective date was delayed indefinitely pending Office of Management and Budget approval of a nonsubstantive change in the rule as originally proposed.

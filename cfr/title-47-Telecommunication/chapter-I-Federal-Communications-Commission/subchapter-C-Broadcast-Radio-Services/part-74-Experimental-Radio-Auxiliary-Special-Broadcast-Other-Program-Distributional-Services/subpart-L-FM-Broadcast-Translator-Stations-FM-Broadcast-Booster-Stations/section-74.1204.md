@@ -1,7 +1,5 @@
 ##### § 74.1204 Protection of FM broadcast, FM Translator and LP100 stations. #####
 
-Link to an amendment published at 84 FR 27741, June 14, 2019.Link to a correction to the effective date of the above amendment published at 84 FR 29806, June 25, 2019.Link to a correction to the above amendment published at 84 FR 37142, July 31, 2019.
-
 (a) An application for an FM translator station will not be accepted for filing if the proposed operation would involve overlap of predicted field contours with any other authorized commercial or noncommercial educational FM broadcast stations, FM translators, and Class D (secondary) noncommercial educational FM stations; or if it would result in new or increased overlap with an LP100 station, as set forth:
 
 (1) Commercial Class B FM Stations (Protected Contour: 0.5 mV/m)
@@ -63,7 +61,17 @@ LP100 stations, to the purposes of determining overlap pursuant to this paragrap
 
 (e) The provisions of this section will not apply to overlap between a proposed fill-in FM translator station and its primary station operating on a first, second or third adjacent channel, *provided* That such operation may not result in interference to the primary station within its principal community.
 
-(f) An application for an FM translator station will not be accepted for filing even though the proposed operation would not involve overlap of field strength contours with any other station, as set forth in paragraph (a) of this section, if the predicted 1 mV/m field strength contour of the FM translator station will overlap a populated area already receiving a regularly used, off-the-air signal of any authorized co-channel, first, second or third adjacent channel broadcast station, including Class D (secondary) noncommercial educational FM stations and grant of the authorization will result in interference to the reception of such signal.
+(f) An application for an FM translator station will not be accepted for filing even though the proposed operation would not involve overlap of field strength contours with any other station, as set forth in paragraph (a) of this section, if grant of the authorization will result in interference to the reception of a regularly used, off-the-air signal of any authorized co-channel, first, second or third adjacent channel broadcast station, including previously authorized secondary service stations within the 45 dBu field strength contour of the desired station. Interference is demonstrated by:
+
+(1) The required minimum number of valid listener complaints as determined using Table 1 to § 74.1203(a)(3) and defined in § 74.1201(k) of the part;
+
+(2) A map plotting the specific location of the alleged interference in relation to the complaining station's 45 dBu contour;
+
+(3) A statement that the complaining station is operating within its licensed parameters;
+
+(4) A statement that the complaining station licensee has used commercially reasonable efforts to inform the relevant translator licensee of the claimed interference and attempted private resolution; and
+
+(5) U/D data demonstrating that at each listener location the undesired to desired signal strength exceeds −20 dB for co-channel situations, −6 dB for first-adjacent channel situations or 40 dB for second- or third-adjacent channel situations, calculated using the Commission's standard contour prediction methodology set out in § 73.313.
 
 (g) An application for an FM translator or an FM booster station that is 53 or 54 channels removed from an FM radio broadcast station will not be accepted for filing if it fails to meet the required separation distances set out in § 73.207 of this chapter. For purposes of determining compliance with § 73.207 of this chapter, translator stations will be treated as Class A stations and booster stations will be treated the same as their FM radio broadcast station equivalents. FM radio broadcast station equivalents will be determined in accordance with §§ 73.210 and 73.211 of this chapter, based on the booster station's ERP and HAAT. Provided, however, that FM translator stations and booster stations operating with less than 100 watts ERP will be treated as class D stations and will not be subject to intermediate frequency separation requirements.
 
@@ -73,4 +81,4 @@ LP100 stations, to the purposes of determining overlap pursuant to this paragrap
 
 (j) FM translator stations authorized prior to June 1, 1991 with facilities that do not comply with the predicted interference protection provisions of this section, may continue to operate, provided that operation is in conformance with § 74.1203 regarding actual interference. Applications for major changes in FM translator stations must specify facilities that comply with provisions of this section.
 
-[55 FR 50694, Dec. 10, 1990, as amended at 56 FR 56170, Nov. 1, 1991; 58 FR 42025, Aug. 6, 1993; 65 FR 7649, Feb. 15, 2000; 65 FR 67304, Nov. 9, 2000; 65 FR 79780, Dec. 20, 2000]
+[55 FR 50694, Dec. 10, 1990, as amended at 56 FR 56170, Nov. 1, 1991; 58 FR 42025, Aug. 6, 1993; 65 FR 7649, Feb. 15, 2000; 65 FR 67304, Nov. 9, 2000; 65 FR 79780, Dec. 20, 2000; 84 FR 27741, June 14, 2019]

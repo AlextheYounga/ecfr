@@ -1,5 +1,7 @@
 ##### § 413.70 Payment for services of a CAH. #####
 
+Link to an amendment published at 84 FR 42615, Aug. 16, 2019.
+
 (a) *Payment for inpatient services furnished by a CAH (other than services of distinct part units).* (1) Effective for cost reporting periods beginning on or after January 1, 2004, payment for inpatient services of a CAH, other than services of a distinct part unit of the CAH and other than the items included in the incentive payment described in paragraph (a)(5) of this section and subject to the adjustments described in paragraph (a)(6) of this section, is 101 percent of the reasonable costs of the CAH in providing CAH services to its inpatients, as determined in accordance with section 1861(v)(1)(A) of the Act and the applicable principles of cost reimbursement in this part and in part 415 of this chapter, except that the following payment principles are excluded when determining payment for CAH inpatient services:
 
 (i) Lesser of cost or charges;

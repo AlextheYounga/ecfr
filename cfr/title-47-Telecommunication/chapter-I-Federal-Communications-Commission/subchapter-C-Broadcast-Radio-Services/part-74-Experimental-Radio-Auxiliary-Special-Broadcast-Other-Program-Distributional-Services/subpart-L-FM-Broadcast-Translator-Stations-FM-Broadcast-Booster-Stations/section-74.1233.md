@@ -1,10 +1,18 @@
 ##### § 74.1233 Processing FM translator and booster station applications. #####
 
-Link to an amendment published at 84 FR 27741, June 14, 2019.Link to a correction to the effective date of the above amendment published at 84 FR 29806, June 25, 2019.
-
 (a) Applications for FM translator and booster stations are divided into two groups:
 
-(1) In the first group are applications for new stations or for major changes in the facilities of authorized stations. For FM translator stations, a major change is any change in frequency (output channel) except changes to first, second or third adjacent channels, or intermediate frequency channels, and any change in antenna location where the station would not continue to provide 1 mV/m service to some portion of its previously authorized 1 mV/m service area. In addition, any change in frequency relocating an unbuilt station from the non-reserved band to the reserved band, or from the reserved band to the non-reserved band, will be considered major. All other changes will be considered minor. All major changes are subject to the provisions of §§ 73.3580 and 1.1104 of this chapter pertaining to major changes.
+(1)(i) In the first group are applications for new stations or for major changes in the facilities of authorized stations. For FM translator stations, a major change is:
+
+(A) Any change in frequency (output channel) except—
+
+(*1*) Changes to first, second or third adjacent channels, or intermediate frequency channels; or
+
+(*2*) Upon a showing of interference to or from any other broadcast station, remedial changes to any same-band frequency; or
+
+(B) Any change in antenna location where the station would not continue to provide 1 mV/m service to some portion of its previously authorized 1 mV/m service area. In addition, any change in frequency relocating an unbuilt station from the non-reserved band to the reserved band, or from the reserved band to the non-reserved band, will be considered major. All other changes will be considered minor.
+
+(ii) All major changes are subject to the provisions of §§ 73.3580 and 1.1104 of this chapter pertaining to major changes.
 
 (2) In the second group are applications for licenses and all other changes in the facilities of the authorized station.
 
@@ -72,4 +80,4 @@ Link to an amendment published at 84 FR 27741, June 14, 2019.Link to a correctio
 
 (iii) Where the procedures in paragraphs (e)(1), (e)(2) and (e)(3)(i) and (e)(3)(ii) of this section fail to resolve the mutual exclusivity, the applications will be processed on a first-come-first-served basis.
 
-[63 FR 48632, Sept. 11, 1998, as amended at 64 FR 19502, Apr. 21, 1999; 65 FR 36382, June 8, 2000; 66 FR 15357, Mar. 19, 2001; 67 FR 45375, July 9, 2002; 68 FR 26229, May 15, 2003; 71 FR 6229, Feb. 7, 2006; 76 FR 18953, Apr. 6, 2011]
+[63 FR 48632, Sept. 11, 1998, as amended at 64 FR 19502, Apr. 21, 1999; 65 FR 36382, June 8, 2000; 66 FR 15357, Mar. 19, 2001; 67 FR 45375, July 9, 2002; 68 FR 26229, May 15, 2003; 71 FR 6229, Feb. 7, 2006; 76 FR 18953, Apr. 6, 2011; 84 FR 27741, June 14, 2019]

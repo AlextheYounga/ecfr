@@ -1,7 +1,5 @@
 ##### § 1041.3 Scope of coverage; exclusions; exemptions. #####
 
-Link to an amendment published at 84 FR 27929, June 17, 2019.
-
 (a) *General.* This part applies to a lender that extends credit by making covered loans.
 
 (b) *Covered loan.* Covered loan means closed-end or open-end credit that is extended to a consumer primarily for personal, family, or household purposes that is not excluded under paragraph (d) of this section or conditionally exempted under paragraph (e) or (f) of this section; and:
@@ -80,7 +78,7 @@ Link to an amendment published at 84 FR 27929, June 17, 2019.
 
 (v) The lender does not impose any charges other than the rate and application fees permissible for Federal credit unions under regulations issued by the National Credit Union Administration at 12 CFR 701.21(c)(7)(iii).
 
-(2) *Borrowing history condition.* Prior to making an alternative loan under this paragraph (e), the lender must determine from its records that the loan would not result in the consumer being indebted on more than three outstanding loans made under this section from the lender within a period of 180 days. The lender must also make no more than one alternative loan under this paragraph (e) at a time to a consumer.
+(2) *Borrowing history condition.* Prior to making an alternative loan under this paragraph (e), the lender must determine from its records that the loan would not result in the consumer being indebted on more than three outstanding loans made under this paragraph (e) from the lender within a period of 180 days. The lender must also make no more than one alternative loan under this paragraph (e) at a time to a consumer.
 
 (3) *Income documentation condition.* In making an alternative loan under this paragraph (e), the lender must maintain and comply with policies and procedures for documenting proof of recurring income.
 
@@ -99,3 +97,5 @@ Link to an amendment published at 84 FR 27929, June 17, 2019.
 (g) *Receipts.* For purposes of paragraph (f) of this section, receipts means “total income” (or in the case of a sole proprietorship “gross income”) plus “cost of goods sold” as these terms are defined and reported on Internal Revenue Service (IRS) tax return forms (such as Form 1120 for corporations; Form 1120S and Schedule K for S corporations; Form 1120, Form 1065 or Form 1040 for LLCs; Form 1065 and Schedule K for partnerships; and Form 1040, Schedule C for sole proprietorships). Receipts do not include net capital gains or losses; taxes collected for and remitted to a taxing authority if included in gross or total income, such as sales or other taxes collected from customers but excluding taxes levied on the entity or its employees; or amounts collected for another (but fees earned in connection with such collections are receipts). Items such as subcontractor costs, reimbursements for purchases a contractor makes at a customer's request, and employee-based costs such as payroll taxes are included in receipts.
 
 (h) *Tax year.* For purposes of paragraph (f) of this section, “tax year” has the meaning attributed to it by the IRS as set forth in IRS Publication 538, which provides that a “tax year” is an annual accounting period for keeping records and reporting income and expenses.
+
+[82 FR 54871, Nov. 17, 2017, as amended at 84 FR 27929, June 17, 2019]

@@ -1,7 +1,5 @@
 ##### § 1041.2 Definitions. #####
 
-Link to an amendment published at 84 FR 27929, June 17, 2019.
-
 (a) *Definitions.* For the purposes of this part, the following definitions apply:
 
 (1) *Account* has the same meaning as in Regulation E, 12 CFR 1005.2(b).
@@ -26,7 +24,7 @@ Link to an amendment published at 84 FR 27929, June 17, 2019.
 
 (8) *Covered longer-term loan* means a loan described in § 1041.3(b)(3).
 
-(9) *Covered person* has the same meaning as in the Dodd-Frank Wall Street Reform and Consumer Protection Act, 12 U.S.C. 5481(6).
+(9) [Reserved]
 
 (10) *Covered short-term loan* means a loan described in § 1041.3(b)(1).
 
@@ -61,3 +59,5 @@ Link to an amendment published at 84 FR 27929, June 17, 2019.
 (ii) A pawn transaction in which the consumer's motor vehicle is the pledged good and the consumer retains use of the motor vehicle during the period of the pawn agreement.
 
 (b) *Rule of construction.* For purposes of this part, where definitions are incorporated from other statutes or regulations, the terms have the meaning and incorporate the embedded definitions, appendices, and commentary from those other laws except to the extent that this part provides a different definition for a parallel term.
+
+[82 FR 54871, Nov. 17, 2017, as amended at 84 FR 27929, June 17, 2019]

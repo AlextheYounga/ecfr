@@ -30,4 +30,4 @@
 
 (6) When a LASH-type barge is proceeding to a place in the United States that is not a port of entry, § 101.4(a) and (b) of this chapter are applicable. No merchandise shall be unladen from a LASH-type barge until a permit or special license therefor is obtained in accordance with § 4.30 except that a single permit to unlade may be used for all barges that arrived at the port of unlading in the same tow.
 
-[28 FR 14596, Dec. 31, 1963, as amended by T.D. 71-169, 36 FR 12604, July 2, 1971; T.D. 74-63, 39 FR 6108, Feb. 19, 1974; T.D. 74-284, 39 FR 39718, Nov. 11, 1974; T.D. 75-315, 40 FR 58852, Dec. 19, 1975; T.D. 77-241, 42 FR 54936, Oct. 12, 1977; T.D. 77-255, 42 FR 56322, Oct. 25, 1977; T.D. 83-214, 48 FR 46512, Oct. 13, 1983; T.D. 92-74, 57 FR 35752, Aug. 11, 1992; T.D. 93-96, 58 FR 67317, Dec. 21, 1993; T.D. 00-22, 65 FR 16515, Mar. 29, 2000; CBP Dec. 17-06, 82 FR 32237, July 13, 2017]
+[28 FR 14596, Dec. 31, 1963]Editorial Note:For Federal Register citations affecting § 4.81, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

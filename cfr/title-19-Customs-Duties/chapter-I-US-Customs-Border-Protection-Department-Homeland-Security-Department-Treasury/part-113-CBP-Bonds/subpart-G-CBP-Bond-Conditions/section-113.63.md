@@ -66,4 +66,4 @@ Basic Custodial Bond Conditions
 
 (3) If the principal defaults on conditions (a) through (e) in this agreement and the default does not involve merchandise, the obligors agree to pay liquidated damages of $1,000 for each default or such other amount as may be authorized by law or regulation. It is understood and agreed that whether the default involves merchandise is determined by CBP.
 
-[T.D. 84-213, 49 FR 41171, Oct. 19, 1984]Editorial Note:For Federal Register citations affecting § 113.63, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[T.D. 84-213, 49 FR 41171, Oct. 19, 1984]Editorial Note:For Federal Register citations affecting § 113.63, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

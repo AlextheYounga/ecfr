@@ -1,5 +1,7 @@
 ##### § 73.671 Educational and informational programming for children. #####
 
+Link to an amendment published at 84 FR 41934, Aug. 16, 2019.Link to an amendment published at 84 FR 41935, Aug. 16, 2019.
+
 (a) Each commercial and noncommercial educational television broadcast station licensee has an obligation to serve, over the term of its license, the educational and informational needs of children through both the licensee's overall programming and programming specifically designed to serve such needs.
 
 (b) Any special nonbroadcast efforts which enhance the value of children's educational and informational television programming, and any special effort to produce or support educational and informational television programming by another station in the licensee's marketplace, may also contribute to meeting the licensee's obligation to serve, over the term of its license, the educational and informational needs of children.

@@ -1,5 +1,7 @@
 ##### § 495.24 Stage 3 meaningful use objectives and measures for EPs, eligible hospitals and CAHs for 2019 and subsequent years. #####
 
+Link to an amendment published at 84 FR 42616, Aug. 16, 2019.
+
 The criteria specified in paragraphs (c) and (d) of this section are optional for 2017 and 2018 for EPs, eligible hospitals, and CAHs that have successfully demonstrated meaningful use in a prior year. The criteria specified in paragraph (d) of this section are applicable for all EPs for 2019 and subsequent years, and for eligible hospitals and CAHs attesting to a State for the Medicaid Promoting Interoperability Program for 2019 and subsequent years. The criteria specified in paragraph (e) of this section are applicable for eligible hospitals and CAHs attesting to CMS for 2019 and subsequent years.
 
 (a) *Stage 3 criteria for EPs* - (1) *General rule regarding Stage 3 criteria for meaningful use for EPs.* Except as specified in paragraphs (a)(2) and (3) of this section, EPs must meet all objectives and associated measures of the Stage 3 criteria specified in paragraph (d) of this section to meet the definition of a meaningful EHR user.

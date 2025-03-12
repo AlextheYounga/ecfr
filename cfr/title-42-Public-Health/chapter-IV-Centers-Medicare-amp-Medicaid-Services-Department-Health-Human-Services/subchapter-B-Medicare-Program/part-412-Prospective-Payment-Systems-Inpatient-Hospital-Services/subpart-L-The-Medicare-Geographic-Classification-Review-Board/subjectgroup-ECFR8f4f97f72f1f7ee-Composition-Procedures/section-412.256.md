@@ -1,5 +1,7 @@
 ##### § 412.256 Application requirements. #####
 
+Link to an amendment published at 84 FR 42614, Aug. 16, 2019.
+
 (a) *Written application.* A request for reclassification must be in writing and must constitute a complete application in accordance with paragraph (b) of this section.
 
 (1) An application must be submitted to the MGCRB according to the method prescribed by the MGCRB, with an electronic copy of the application sent to CMS.
