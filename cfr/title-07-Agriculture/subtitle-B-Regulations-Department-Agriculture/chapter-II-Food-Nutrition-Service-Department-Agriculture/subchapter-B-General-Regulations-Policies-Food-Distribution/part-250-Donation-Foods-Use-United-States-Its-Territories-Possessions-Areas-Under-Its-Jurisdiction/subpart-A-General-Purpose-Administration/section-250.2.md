@@ -1,7 +1,5 @@
 ##### § 250.2 Definitions. #####
 
-Link to an amendment published at 83 FR 18926, May 1, 2018.
-
 *2 CFR part 200* means the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards published by OMB. The Part reference covers applicable: Acronyms and Definitions (subpart A), General Provisions (subpart B), Post Federal Award Requirements (subpart D), Cost Principles (subpart E), and Audit Requirements (subpart F). (NOTE: Pre-Federal Award Requirements and Contents of Federal Awards (subpart C) do not apply to the National School Lunch Program).
 
 *ACL* means the Administration for Community Living, which is the DHHS agency that administers NSIP.
@@ -9,6 +7,8 @@ Link to an amendment published at 83 FR 18926, May 1, 2018.
 *Administering agency* means a State agency that has been approved by the Department to administer a food assistance program. If such agency is also responsible for the distribution of donated foods, it is referred to as the distributing agency in this part.
 
 *Adult care institution* means a nonresidential adult day care center that participates independently in CACFP, or that participates as a sponsoring organization, and that may receive donated foods or cash-in-lieu of donated foods, in accordance with an agreement with the distributing agency.
+
+*Backhauling* means the delivery of donated foods to a processor for processing from a distributing or recipient agency's storage facility.
 
 *Bonus foods* means Section 32, Section 416, and Section 709 donated foods, as defined in this section, which are purchased under surplus removal or price support authority, and provided to distributing agencies in addition to legislatively authorized levels of assistance.
 
@@ -23,6 +23,8 @@ Link to an amendment published at 83 FR 18926, May 1, 2018.
 
 *Child nutrition program* means NSLP, CACFP, SFSP, or SBP.
 
+*Commingling* means the storage of donated foods together with commercially purchased foods.
+
 *Commodity offer value* means the minimum value of donated foods that the distributing agency must offer to a school food authority participating in NSLP each school year. The commodity offer value is equal to the national per-meal value of donated food assistance multiplied by the number of reimbursable lunches served by the school food authority in the previous school year.
 
 *Commodity school* means a school that operates a nonprofit food service, in accordance with 7 CFR part 210, but that receives additional donated food assistance rather than the cash assistance available to it under Section 4 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1753).
@@ -30,8 +32,6 @@ Link to an amendment published at 83 FR 18926, May 1, 2018.
 *Consignee* means an entity (*e.g.,* the distributing or recipient agency, a commercial storage facility, or a processor) that receives a shipment of donated foods from a vendor or Federal storage facility.
 
 *Contract value of the donated foods* means the price assigned by the Department to a donated food which must reflect the Department's current acquisition price. This may alternatively be referred to as the USDA purchase price.
-
-*Contracting agency* means the distributing agency, subdistributing agency, or recipient agency which enters into a processing contract.
 
 *CSFP* means the Commodity Supplemental Food Program.
 
@@ -63,6 +63,8 @@ Link to an amendment published at 83 FR 18926, May 1, 2018.
 
 *End product* means a food product that contains processed donated foods.
 
+*End product data schedule* means a processor's description of its processing of donated food into a finished end product, including the processing yield of donated food.
+
 *Entitlement* means the value of donated foods a distributing agency is authorized to receive in a specific program, in accordance with program legislation.
 
 *Entitlement foods* means donated foods that USDA purchases and provides in accordance with levels of assistance mandated by program legislation.
@@ -76,8 +78,6 @@ Link to an amendment published at 83 FR 18926, May 1, 2018.
 (2) The Department's Federal Grain Inspection Service; and
 
 (3) The National Marine Fisheries Service of the U.S. Department of Commerce.
-
-*Fee-for-service* means the price by pound or case representing a processor's cost of ingredients (other than donated foods), labor, packaging, overhead, and other costs incurred in the conversion of the donated food into the specified end product.
 
 *Fiscal year* means the period of 12 months beginning October 1 of any calendar year and ending September 30 of the following calendar year.
 
@@ -101,6 +101,8 @@ Link to an amendment published at 83 FR 18926, May 1, 2018.
 
 *In-kind replacement* means the replacement of a loss of donated food with the same type of food of U.S. origin, of equal or better quality as the donated food, and at least equal in value to the lost donated food.
 
+*In-State processing agreement* means a distributing agency's agreement with an in-State processor to process donated foods into finished end products for sale to eligible recipient agencies or for sale to the distributing agency.
+
 *In-State processor* means a processor that has entered into agreements with distributing or recipient agencies that are located only in the State in which all of the processor's processing facilities are located.
 
 *Multi-food shipment* means a shipment from a Federal storage facility that usually includes more than one type of donated food.
@@ -108,6 +110,8 @@ Link to an amendment published at 83 FR 18926, May 1, 2018.
 *Multi-State processor* means a processor that has entered into agreements with distributing or recipient agencies in more than one State, or that has entered into one or more agreements with distributing or recipient agencies that are located in a State other than the State in which the processor's processing facilities or business office is located.
 
 *National per-meal value* means the value of donated foods provided for each reimbursable lunch served in NSLP in the previous school year, and for each reimbursable lunch and supper served in CACFP in the previous school year, as established in sections 6(c) and 17(h)(1)(B) of the Richard B. Russell National School Lunch Act ((42 U.S.C. 1755(c) and 1766(h)(1)(B)).
+
+*National processing agreement* means an agreement between FNS and a multi-State processor to process donated foods into end products for sale to distributing or recipient agencies.
 
 *Nonprofit organization* means a private organization with tax-exempt status under the Internal Revenue Code. Nonprofit organizations operated exclusively for religious purposes are automatically tax-exempt under the Internal Revenue Code.
 
@@ -135,7 +139,11 @@ Link to an amendment published at 83 FR 18926, May 1, 2018.
 
 *Recipients* means persons receiving donated foods, or a meal containing donated foods, provided by recipient agencies.
 
+*Recipient agency processing agreement* means a recipient agency's agreement with a processor to process donated foods and to purchase the finished end products.
+
 *Reimbursable meals* means meals that meet the nutritional standards established in Federal regulations pertaining to NSLP, SFSP, or CACFP, and that are served to eligible recipients.
+
+*Replacement value* means the price assigned by the Department to a donated food which must reflect the current price in the market to ensure compensation for donated foods lost in processing or other activities. The replacement value may be changed by the Department at any time.
 
 *SAE funds* means Federal funds provided to State agencies for State administrative expenses, in accordance with 7 CFR part 235.
 
@@ -177,6 +185,8 @@ Link to an amendment published at 83 FR 18926, May 1, 2018.
 
 *State* means any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, and American Samoa.
 
+*State Participation Agreement* means a distributing agency's agreement with a multi-State processor to permit the sale of finished end products produced under the processor's National Processing Agreement to eligible recipient agencies in the State or to directly purchase such finished end products.
+
 *State Unit on Aging* means:
 
 (1) The State agency that has been approved by DHHS to administer NSIP; or
@@ -204,3 +214,5 @@ Link to an amendment published at 83 FR 18926, May 1, 2018.
 *USDA implementing regulations* mean the following: 2 CFR part 400, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards; 2 CFR part 415, General Program Administrative Regulations; 2 CFR part 416, General Program Administrative Regulations for Grants and Cooperative Agreements to State and Local Governments; and 2 CFR part 418, New Restrictions on Lobbying.
 
 *Vendor* means a commercial food company from which the Department purchases foods for donation.
+
+[81 FR 23100, Apr. 19, 2016, as amended at 83 FR 18926, May 1, 2018}

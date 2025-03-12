@@ -1,5 +1,7 @@
 ##### § 416.1590 Appeals Council's decision. #####
 
+Link to an amendment published at 83 FR 30860, July 2, 2018.
+
 (a) The Appeals Council shall base its decision upon the evidence in the hearing record and any other evidence it may permit on review. The Appeals Council shall either -
 
 (1) Affirm, reverse, or modify the hearing officer's decision;

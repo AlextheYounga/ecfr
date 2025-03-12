@@ -1,5 +1,7 @@
 ##### § 416.1550 Notice of charges against a representative. #####
 
+Link to an amendment published at 83 FR 30858, July 2, 2018.
+
 (a) The General Counsel or other delegated official will prepare a notice containing a statement of charges that constitutes the basis for the proceeding against the representative.
 
 (b) We will send this notice to the representative either by certified or registered mail, to his or her last known address, or by personal delivery.

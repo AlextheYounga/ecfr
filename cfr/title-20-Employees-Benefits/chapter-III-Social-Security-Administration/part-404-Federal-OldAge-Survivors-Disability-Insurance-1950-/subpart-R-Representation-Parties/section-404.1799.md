@@ -1,5 +1,7 @@
 ##### § 404.1799 Reinstatement after suspension or disqualification - period of suspension not expired. #####
 
+Link to an amendment published at 83 FR 30857, July 2, 2018.
+
 (a) After more than one year has passed, a person who has been suspended or disqualified, may ask the Appeals Council for permission to serve as a representative again.
 
 (b) The suspended or disqualified person must submit any evidence the person wishes to have considered along with the request to be allowed to serve as a representative again.

@@ -1,6 +1,6 @@
 ##### § 615.5140 Eligible investments. #####
 
-Link to an amendment published at 83 FR 27502, June 12, 2018.
+Link to an amendment published at 83 FR 27502, June 12, 2018.Link to a correction published at 83 FR 30833, July 2, 2018.
 
 (a) You may hold only the following types of investments listed in the Investment Eligibility Criteria Table. These investments must be denominated in United States dollars.
 

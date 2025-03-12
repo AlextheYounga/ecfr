@@ -1,6 +1,6 @@
 ##### § 615.5133 Investment management. #####
 
-Link to an amendment published at 83 FR 27499, June 12, 2018.
+Link to an amendment published at 83 FR 27499, June 12, 2018.Link to a correction published at 83 FR 30833, July 2, 2018.
 
 (a) *Responsibilities of board of directors.* Your board of directors must adopt written policies for managing your investment activities. Your board must also ensure that management complies with these policies and that appropriate internal controls are in place to prevent loss. At least annually, the board, or a designated committee of the board, must review the sufficiency of these investment policies. Any changes to the policies must be adopted by the board and be documented.
 

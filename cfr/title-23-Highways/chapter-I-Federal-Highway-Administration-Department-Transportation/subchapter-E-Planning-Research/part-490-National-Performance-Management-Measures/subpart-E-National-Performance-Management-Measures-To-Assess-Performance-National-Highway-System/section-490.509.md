@@ -1,7 +1,5 @@
 ##### § 490.509 Data requirements. #####
 
-Link to an amendment published at 83 FR 24936, May 31, 2018.
-
 (a) Travel time data needed to calculate the Travel Time Reliability measures in § 490.507(a) shall come from the travel time data set, as specified in § 490.103(e).
 
 (1) State DOTs, in coordination with MPOs, shall define reporting segments in accordance with § 490.103(f). Reporting segments must be contiguous so that they cover the full extent of the mainline highways of the NHS in the State.
@@ -18,12 +16,4 @@ Annual Volume = AADT × 365 days
 
 (e) If an NHS roadway is closed, the State DOT is not required to include those time periods for those segments of road in the calculations required for the Level of Travel Time Reliability (LOTTR) metric (see § 490.511(a)(1)).
 
-(f) The FHWA will post on the FHWA Web site the tailpipe CO2 emissions factors State DOTs and MPOs shall use in the calculation.
-
-(g) Fuel sales information needed to calculate the GHG measure in § 490.507(b) shall come from either of the following two sources:
-
-(1) The most recent final annual fuel sales data posted on the Web site by FHWA in Highway Statistics under “Motor Fuel Use (MF-21)” as of August 15th of the HPMS reporting year (*https://www.fhwa.dot.gov/policyinformation/statistics.cfm*); or
-
-(2) The State DOT's fuel sales data used to create the summary data included in FHWA's MF-21, if it allows for a greater level of detail by fuel type. State DOTs shall make this data available to FHWA, upon request.
-
-(h) Final annual vehicle miles traveled (VMT) needed to calculate the GHG measure in § 490.507(b) shall come from the most recently available data posted by FHWA in Highway Statistics in Table VM-3, “Federal-Aid Highway Travel” as of August 15th of the HPMS reporting year.
+[82 FR 6031, Jan. 18, 2017, as amended at 83 FR 24936, May 31, 2018]

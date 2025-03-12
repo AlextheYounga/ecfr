@@ -1,5 +1,7 @@
 ##### § 416.1565 Hearing on charges. #####
 
+Link to an amendment published at 83 FR 30859, July 2, 2018.
+
 (a) *Holding the hearing.* If the General Counsel or other delegated official does not take action to withdraw the charges within 15 days after the date on which the representative filed an answer, we will hold a hearing and make a decision on the charges.
 
 (b) *Hearing officer.* (1) The Deputy Commissioner for Disability Adjudication and Review or other delegated official will assign an administrative law judge, designated to act as a hearing officer, to hold a hearing on the charges.

@@ -1,6 +1,6 @@
 ##### § 611.1153 General restrictions and prohibitions on the use of UBEs. #####
 
-Link to an amendment published at 83 FR 27499, June 12, 2018.
+Link to an amendment published at 83 FR 27499, June 12, 2018.Link to a correction published at 83 FR 30833, July 2, 2018.
 
 (a) *Authorized UBE business activity.* All UBE business activity must be:
 

@@ -1,7 +1,5 @@
 ##### § 490.109 Assessing significant progress toward achieving the performance targets for the National Highway Performance Program and the National Highway Freight Program. #####
 
-Link to an amendment published at 83 FR 24936, May 31, 2018.
-
 (a) *In general.* The FHWA will assess each of the State DOT targets separately for the NHPP measures specified in § 490.105(c)(1) through (5) and the Freight Reliability measure specified in § 490.105(c)(6) to determine the significant progress made toward the achievement of those targets.
 
 (b) *Frequency.* The FHWA will determine whether a State DOT has or has not made significant progress toward the achievement of applicable targets as described in paragraph (e) of this section at the midpoint and the end of each performance period.
@@ -18,9 +16,9 @@ Link to an amendment published at 83 FR 24936, May 31, 2018.
 
 (iv) Data contained within the HPMS on August 15th of the year in which the significant progress determination is made that represents performance from the prior year for targets established for the Travel Time Reliability measures, as specified in § 490.105(c)(4);
 
-(v) On October 1st of the year in which the significant progress determination is made, the reported total tailpipe CO2 emissions for the calendar year 2017 in the Baseline Performance Period Report, as described in § 490.107(b)(1)(ii)(I), and the reported total tailpipe CO2 emissions in the State Biennial Performance Report, as described in § 490.107(b)(2)(ii)(J) or (b)(3)(ii)(I), in the year in which the significant progress determination is made for GHG measure in § 490.105(c)(5); and
+(v) [Reserved]
 
-(vi) Baseline condition/performance data contained in HPMS and NBI of the year in which the Baseline Period Performance Report is due to FHWA that represents baseline conditions/performances for the performance period for the measures in § 490.105(c)(1) through (4), and the HPMS data reported in the year in which Baseline Period Performance Report is due to FHWA and the total tailpipe CO2 emissions reported in the Baseline Period Performance Report, as provided in § 490.107(b)(1)(ii)(I), for the GHG measure in § 490.105(c)(5).
+(vi) Baseline condition/performance data contained in HPMS and NBI of the year in which the Baseline Period Performance Report is due to FHWA that represents baseline conditions/performances for the performance period for the measures in § 490.105(c)(1) through (4).
 
 (2) The FHWA will use the following sources of information to assess NHFP target achievement and condition/performance progress:
 
@@ -28,7 +26,7 @@ Link to an amendment published at 83 FR 24936, May 31, 2018.
 
 (ii) Baseline condition/performance data contained in HPMS of the year in which the Baseline Period Performance Report is due to FHWA that represents baseline condition/performance for the performance period.
 
-(e) *Significant progress determination for individual NHPP and NHFP targets* - (1) *In general.* The FHWA will biennially assess whether the State DOT has achieved or made significant progress toward each target established by the State DOT for the NHPP measures described in § 490.105(c)(1) through (5) and the Freight Reliability measure described in § 490.105(c)(6). The FHWA will assess the significant progress of each statewide target separately using the condition/performance data/information sources described in paragraph (d) of this section. The FHWA will not assess the progress achieved for any additional targets a State DOT may establish under § 490.105(e)(3).
+(e) *Significant progress determination for individual NHPP and NHFP targets*—(1) *In general.* The FHWA will biennially assess whether the State DOT has achieved or made significant progress toward each target established by the State DOT for the NHPP measures described in § 490.105(c)(1) through (5) and the Freight Reliability measure described in § 490.105(c)(6). The FHWA will assess the significant progress of each statewide target separately using the condition/performance data/information sources described in paragraph (d) of this section. The FHWA will not assess the progress achieved for any additional targets a State DOT may establish under § 490.105(e)(3).
 
 (2) *Significant progress toward individual NHPP and NHFP targets.* The FHWA will determine that a State DOT has made significant progress toward the achievement of each 2-year or 4-year applicable target if either:
 
@@ -78,7 +76,7 @@ Link to an amendment published at 83 FR 24936, May 31, 2018.
 
 (iv) If significant progress is not made for either target established for the Travel Time Reliability measures, § 490.507(a)(1) and(2), then the State DOT shall document the actions it will take to achieve the NHS travel time targets; and
 
-(v) If significant progress is not made for the target established for the GHG measure described in § 490.507(b), then the State DOT shall document the actions it will take to achieve the target for the GHG measure.
+(v) [Reserved]
 
 (2) If FHWA determines that a State DOT has not made significant progress toward achieving the target established for the Freight Reliability measure in § 490.607, then the State DOT shall include as part of the next performance target report under 23 U.S.C. 150(e) [the Biennial Performance Report] the following:
 
@@ -95,3 +93,5 @@ Link to an amendment published at 83 FR 24936, May 31, 2018.
 (iv) A description of the actions the State DOT will undertake to achieve the target established for the Freight Reliability measure in § 490.607.
 
 (3) The State DOT should, within 6 months of the significant progress determination, amend its Biennial Performance Report to document the information specified in this paragraph to ensure actions are being taken to achieve targets.
+
+[82 FR 6031, Jan. 18, 2017, as amended at 83 FR 24936, May 31, 2018]

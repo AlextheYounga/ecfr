@@ -1,6 +1,6 @@
 ##### § 615.5143 Management of ineligible investments and reservation of authority to require divestiture. #####
 
-Link to an amendment published at 83 FR 27503, June 12, 2018.
+Link to an amendment published at 83 FR 27503, June 12, 2018.Link to a correction published at 83 FR 30833, July 2, 2018.
 
 (a) *Investments ineligible when purchased.* Investments that do not satisfy the eligibility criteria set forth in § 615.5140 at the time of purchase are ineligible. You must not purchase ineligible investments. If you determine that you have purchased an ineligible investment, you must notify us within 15 calendar days after the determination. You must divest of the investment no later than 60 calendar days after you determine that the investment is ineligible unless we approve, in writing, a plan that authorizes you to divest the investment over a longer period of time. Until you divest of the investment:
 

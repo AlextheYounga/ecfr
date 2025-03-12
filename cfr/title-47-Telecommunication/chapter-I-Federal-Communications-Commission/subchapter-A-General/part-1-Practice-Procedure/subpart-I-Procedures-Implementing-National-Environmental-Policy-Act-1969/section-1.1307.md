@@ -1,7 +1,5 @@
 ##### § 1.1307 Actions that may have a significant environmental effect, for which Environmental Assessments (EAs) must be prepared. #####
 
-Link to an amendment published at 83 FR 19458, May 3, 2018.
-
 (a) Commission actions with respect to the following types of facilities may significantly affect the environment and thus require the preparation of EAs by the applicant (see §§ 1.1308 and 1.1311) and may require further Commission environmental processing (*see* §§ 1.1314, 1.1315 and 1.1317):
 
 (1) Facilities that are to be located in an officially designated wilderness area.
@@ -18,7 +16,7 @@ The list of endangered and threatened species is contained in 50 CFR 17.11, 17.2
 
 (5) Facilities that may affect Indian religious sites.
 
-(6) Facilities to be located in a flood Plain (*See* Executive Order 11988.)
+(6) Facilities to be located in floodplains, if the facilities will not be placed at least one foot above the base flood elevation of the floodplain.
 
 (7) Facilities whose construction will involve significant change in surface features (e.g., wetland fill, deforestation or water diversion). (In the case of wetlands on Federal property, *see* Executive Order 11990.)
 

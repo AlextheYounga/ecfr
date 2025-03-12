@@ -1,6 +1,6 @@
 ##### § 611.1155 Approval of equity investments in UBEs. #####
 
-Link to an amendment published at 83 FR 27499, June 12, 2018.
+Link to an amendment published at 83 FR 27499, June 12, 2018.Link to a correction published at 83 FR 30833, July 2, 2018.
 
 (a) *Request.* System institutions must receive FCA approval before organizing or investing in any UBE that does not qualify for the notice provision set forth in § 611.1154(a). A request for approval under this section must include the following information:
 

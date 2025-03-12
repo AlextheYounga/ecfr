@@ -1,12 +1,10 @@
 ##### § 490.105 Establishment of performance targets. #####
 
-Link to an amendment published at 83 FR 24936, May 31, 2018.
-
 (a) *In general.* State DOTs shall establish performance targets for all measures specified in paragraph (c) of this section for the respective target scope identified in paragraph (d) of this section with the requirements specified in paragraph (e) of this section. The MPOs shall establish performance targets for all measures specified in paragraph (c) of this section for respective target scope identified in paragraph (d) of this section with the requirements specified in paragraph (f) of this section.
 
 (b) *Highway Safety Improvement Program measures.* State DOTs and MPOs shall establish performance targets for the Highway Safety Improvement Program (HSIP) measures in accordance with § 490.209.
 
-(c) *Applicable measures.* State DOTs and MPOs that include, within their respective geographic boundaries, any portion of the applicable transportation network or area shall establish performance targets for the performance measures identified in 23 CFR sections -
+(c) *Applicable measures.* State DOTs and MPOs that include, within their respective geographic boundaries, any portion of the applicable transportation network or area shall establish performance targets for the performance measures identified in 23 CFR sections—
 
 (1) 490.307(a)(1) and (2) for the condition of pavements on the Interstate System;
 
@@ -16,7 +14,7 @@ Link to an amendment published at 83 FR 24936, May 31, 2018.
 
 (4) 490.507(a)(1) and (2) for the NHS Travel Time Reliability;
 
-(5) 490.507(b) for the greenhouse gas (GHG) performance for the NHS;
+(5) [Reserved]
 
 (6) 490.607 for the freight movement on the Interstate System;
 
@@ -26,7 +24,7 @@ Link to an amendment published at 83 FR 24936, May 31, 2018.
 
 (d) *Target scope.* Targets established by State DOTs and MPOs shall, regardless of ownership, represent the transportation network or geographic area, including bridges that cross State borders, that are applicable to the measures as specified in paragraphs (d)(1) and (2) of this section.
 
-(1) State DOTs and MPOs shall establish statewide and metropolitan planning area wide targets, respectively, that represent the condition/performance of the transportation network or geographic area that are applicable to the measures, as specified in 23 CFR sections -
+(1) State DOTs and MPOs shall establish statewide and metropolitan planning area wide targets, respectively, that represent the condition/performance of the transportation network or geographic area that are applicable to the measures, as specified in 23 CFR sections—
 
 (i) 490.303 for the condition of pavements on the Interstate System measures specified in § 490.307(a)(1) and (2);
 
@@ -36,7 +34,7 @@ Link to an amendment published at 83 FR 24936, May 31, 2018.
 
 (iv) 490.503(a)(1) for the Travel Time Reliability measures specified in § 490.507(a)(1) and (2);
 
-(v) 490.503(b) for the GHG measure for the NHS specified in § 490.507(b);
+(v) [Reserved]
 
 (vi) 490.603 for the Freight Reliability measure specified in § 490.607; and
 
@@ -227,3 +225,5 @@ Link to an amendment published at 83 FR 24936, May 31, 2018.
 (8) *Target adjustment.* If the MPO establishes its target by committing to a quantifiable target, described in paragraph (f)(3)(ii) of this section or establishes target(s) for the Total Emissions Reduction measure required in paragraph (f)(6)(iii) of this section, then the MPOs may adjust its target(s) in a manner that is collectively developed, documented, and mutually agreed upon by the State DOT and MPO. Any adjustments made to 4-year targets, established for CMAQ Traffic Congestion measures in paragraph (f)(5)(i) or (ii) of this section, shall be collectively developed and agreed upon by all State DOTs and MPOs that include any portion of the NHS in the respective urbanized area applicable to the measure.
 
 (9) *Reporting.* The MPOs shall report targets and progress toward the achievement of their targets as specified in § 490.107(c). After the MPOs establish or adjust their targets, the relevant State DOT(s) must be able to provide these targets to FHWA upon request.
+
+[82 FR 6031, Jan. 18, 2017, as amended at 83 FR 24936, May 31, 2018]

@@ -1,5 +1,7 @@
 ##### § 416.1545 Violations of our requirements, rules, or standards. #####
 
+Link to an amendment published at 83 FR 30858, July 2, 2018.
+
 When we have evidence that a representative fails to meet our qualification requirements or has violated the rules governing dealings with us, we may begin proceedings to suspend or disqualify that individual from acting in a representational capacity before us. We may file charges seeking such sanctions when we have evidence that a representative:
 
 (a) Does not meet the qualifying requirements described in § 416.1505;

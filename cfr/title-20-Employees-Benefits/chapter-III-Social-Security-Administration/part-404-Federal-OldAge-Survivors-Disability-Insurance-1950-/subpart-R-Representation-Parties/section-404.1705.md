@@ -1,5 +1,7 @@
 ##### § 404.1705 Who may be your representative. #####
 
+Link to an amendment published at 83 FR 30854, July 2, 2018.
+
 (a) You may appoint as your representative in dealings with us, any attorney in good standing who -
 
 (1) Has the right to practice law before a court of a State, Territory, District, or island possession of the United States, or before the Supreme Court or a lower Federal court of the United States;
