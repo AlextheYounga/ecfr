@@ -1,5 +1,7 @@
 ##### § 778.320 Hours that would not be hours worked if not paid for. #####
 
+Link to an amendment published at 84 FR 68776, Dec. 16, 2019.
+
 In some cases an agreement provides for compensation for hours spent in certain types of activities which would not be regarded as working time under the Act if no compensation were provided. Preliminary and postliminary activities and time spent in eating meals between working hours fall in this category. The agreement of the parties to provide compensation for such hours may or may not convert them into hours worked, depending on whether or not it appears from all the pertinent facts that the parties have agreed to treat such time as hours worked. Except for certain activity governed by the Portal-to-Portal Act (see paragraph (b) of this section), the agreement of the parties will be respected, if reasonable.
 
 (a) *Parties have agreed to treat time as hours worked.* Where the parties have reasonably agreed to include as hours worked time devoted to activities of the type described above, payments for such hours will not have the mathematical effect of increasing or decreasing the regular rate of an employee if the hours are compensated at the same rate as other working hours. The requirements of section 7(a) of the Act will be considered to be met where overtime compensation at one and one-half times such rate is paid for the hours so compensated in the workweek which are in excess of the statutory maximum.

@@ -1,5 +1,7 @@
 ##### § 778.212 Gifts, Christmas and special occasion bonuses. #####
 
+Link to an amendment published at 84 FR 68772, Dec. 16, 2019.
+
 (a) *Statutory provision.* Section 7(e)(1) of the Act provides that the term “regular rate” shall not be deemed to include “sums paid as gifts; payments in the nature of gifts made at Christmas time or on other special occasions, as a reward for service, the amounts of which are not measured by or dependent on hours worked, production, or efficiency \* \* \*”. Such sums may not, however, be credited toward overtime compensation due under the Act.
 
 (b) *Gift or similar payment.* To qualify for exclusion under section 7(e)(1) the bonus must be actually a gift or in the nature of a gift. If it is measured by hours worked, production, or efficiency, the payment is geared to wages and hours during the bonus period and is no longer to be considered as in the nature of a gift. If the payment is so substantial that it can be assumed that employees consider it a part of the wages for which they work, the bonus cannot be considered to be in the nature of a gift. Obviously, if the bonus is paid pursuant to contract (so that the employee has a legal right to the payment and could bring suit to enforce it), it is not in the nature of a gift.

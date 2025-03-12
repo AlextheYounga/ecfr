@@ -1,6 +1,6 @@
 ##### § 660.60 Specifications and management measures. #####
 
-Link to an amendment published at 84 FR 63973, Nov. 19, 2019.
+Link to an amendment published at 84 FR 63973, Nov. 19, 2019.Link to an amendment published at 84 FR 68806, Dec. 17, 2019.
 
 (a) *General.* NMFS will establish and adjust specifications and management measures biennially or annually and during the fishing year. Management of the Pacific Coast groundfish fishery will be conducted consistent with the standards and procedures in the PCGFMP and other applicable law. The PCGFMP is available from the Regional Administrator or the Council. Regulations under this subpart may be promulgated, removed, or revised during the fishing year. Any such action will be made according to the framework standards and procedures in the PCGFMP and other applicable law, and will be published in the Federal Register.
 

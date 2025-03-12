@@ -92,7 +92,7 @@ The maximum intended load, as defined in § 1910.21(b), includes the total load 
 
 (3) Grab bars do not protrude on the climbing side beyond the rungs of the ladder that they serve;
 
-(4) The side rails of through or side-step ladders extend 42 inches (1.1 m) above the top of the access level or landing platform served by the ladder. For parapet ladders, the access level is:
+(4) The side rails of through or side-step ladders extend at least 42 inches (1.1 m) above the top of the access level or landing platform served by the ladder. For parapet ladders, the access level is:
 
 (i) The roof, if the parapet is cut to permit passage through the parapet; or
 
@@ -134,7 +134,7 @@ Section 1910.28 establishes the employer's duty to provide fall protection for e
 
 ![](/graphics/er18no16.347.gif)![](/graphics/er18no16.348.gif)
 
-(e) *Mobile ladder stands and mobile ladder stand platforms* - (1) *General requirements.* The employer must ensure:
+(e) *Mobile ladder stands and mobile ladder stand platforms*—(1) *General requirements.* The employer must ensure:
 
 (i) Mobile ladder stands and platforms have a step width of at least 16 inches (41 cm);
 
@@ -169,3 +169,5 @@ Section 1910.28 establishes the employer's duty to provide fall protection for e
 (iii) All ladder stand platforms with a platform height above 10 feet (3 m) have guardrails and toeboards on the exposed sides and ends of the platform.
 
 (iv) Removable gates or non-rigid members, such as chains, may be used on mobile ladder stand platforms instead of handrails and guardrails in special-use applications.
+
+[81 FR 82981, Nov. 18, 2016, as amended at 84 FR 68795, Dec. 17, 2019]

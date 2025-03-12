@@ -1,5 +1,7 @@
 ##### § 778.217 Reimbursement for expenses. #####
 
+Link to an amendment published at 84 FR 68772, Dec. 16, 2019.
+
 (a) *General rule.* Where an employee incurs expenses on his employer's behalf or where he is required to expend sums solely by reason of action taken for the convenience of his employer, section 7(e)(2) is applicable to reimbursement for such expenses. Payments made by the employer to cover such expenses are not included in the employee's regular rate (if the amount of the reimbursement reasonably approximates the expenses incurred). Such payment is not compensation for services rendered by the employees during any hours worked in the workweek.
 
 (b) *Illustrations.* Payment by way of reimbursement for the following types of expenses will not be regarded as part of the employee's regular rate:

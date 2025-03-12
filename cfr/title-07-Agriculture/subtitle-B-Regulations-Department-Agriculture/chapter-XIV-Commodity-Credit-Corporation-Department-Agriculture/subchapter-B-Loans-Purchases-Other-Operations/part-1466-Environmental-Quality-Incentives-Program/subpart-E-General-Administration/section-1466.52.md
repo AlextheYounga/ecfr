@@ -1,0 +1,3 @@
+##### § 1466.52 Access to operating unit. #####
+
+An authorized NRCS representative will have the right to enter land under an NRCS conservation program contract for the purposes of determining eligibility and for ascertaining the accuracy of any representations related to contract performance. Access will include the right to provide technical assistance, determine eligibility, inspect any work undertaken under the contract, and collect information necessary to evaluate the conservation practice performance specified in the contract. The NRCS representative will make an effort to contact the participant prior to the exercising this provision.

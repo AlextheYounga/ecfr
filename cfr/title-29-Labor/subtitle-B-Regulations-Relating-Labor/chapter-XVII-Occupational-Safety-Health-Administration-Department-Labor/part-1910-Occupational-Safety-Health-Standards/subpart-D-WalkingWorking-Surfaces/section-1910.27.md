@@ -2,7 +2,7 @@
 
 (a) *Scaffolds.* Scaffolds used in general industry must meet the requirements in 29 CFR part 1926, subpart L (Scaffolds).
 
-(b) *Rope descent systems* - (1) *Anchorages.* (i) Before any rope descent system is used, the building owner must inform the employer, in writing that the building owner has identified, tested, certified, and maintained each anchorage so it is capable of supporting at least 5,000 pounds (268 kg), in any direction, for each employee attached. The information must be based on an annual inspection by a qualified person and certification of each anchorage by a qualified person, as necessary, and at least every 10 years.
+(b) *Rope descent systems*—(1) *Anchorages.* (i) Before any rope descent system is used, the building owner must inform the employer, in writing that the building owner has identified, tested, certified, and maintained each anchorage so it is capable of supporting at least 5,000 pounds (2,268 kg), in any direction, for each employee attached. The information must be based on an annual inspection by a qualified person and certification of each anchorage by a qualified person, as necessary, and at least every 10 years.
 
 (ii) The employer must ensure that no employee uses any anchorage before the employer has obtained written information from the building owner that each anchorage meets the requirements of paragraph (b)(1)(i) of this section. The employer must keep the information for the duration of the job.
 
@@ -35,3 +35,5 @@
 (xii) Equipment, such as tools, squeegees, or buckets, is secured by a tool lanyard or similar method to prevent it from falling; and
 
 (xiii) The ropes of each rope descent system are protected from exposure to open flames, hot work, corrosive chemicals, and other destructive conditions.
+
+[81 FR 82981, Nov. 18, 2016, as amended at 84 FR 68796, Dec. 17, 2019]

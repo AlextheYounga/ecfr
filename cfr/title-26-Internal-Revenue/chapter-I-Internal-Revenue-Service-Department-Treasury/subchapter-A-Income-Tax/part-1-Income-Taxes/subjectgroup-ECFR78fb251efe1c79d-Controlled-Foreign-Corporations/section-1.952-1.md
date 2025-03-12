@@ -1,14 +1,14 @@
 ##### § 1.952-1 Subpart F income defined. #####
 
-(a) *In general.* For purposes of sections 951 through 964, a controlled foreign corporation's subpart F income for any taxable year shall, except as provided in paragraph (b) of this section and subject to the limitations of paragraphs (c) and (d) of this section, consist of the sum of -
+(a) *In general.* For purposes of sections 951 through 964, a controlled foreign corporation's subpart F income for any taxable year shall, except as provided in paragraph (b) of this section and subject to the limitations of paragraphs (c) and (d) of this section, consist of the sum of—
 
 (1) The income derived by such corporation for such year from the insurance of United States risks (determined in accordance with the provisions of section 953 and §§ 1.953-1 through 1.953-6),
 
 (2) The income derived by such corporation for such year which constitutes foreign base company income (determined in accordance with the provisions of section 954 and §§ 1.954-1 through 1.954-8),
 
-(3)(i) An amount equal to the product of -
+(3)(i) An amount equal to the product of—
 
-(A) The income of such corporation other than income which -
+(A) The income of such corporation other than income which—
 
 (*1*) Is attributable to earnings and profits of the foreign corporation included in the gross income of a United States person under section 951 (other than by reason of this paragraph) (determined in accordance with the provisions of section 951 and § 1.951-1), or
 
@@ -24,7 +24,7 @@ multiplied by
 
 Pursuant to section 951(a)(1)(A)(i) and § 1.951-1, a United States shareholder of such controlled foreign corporation must include his pro rata share of such subpart F income in his gross income for his taxable year in which or with which such taxable year of the foreign corporation ends. See section 952(a). However, see paragraph (a) of § 1.957-2 for special rule limiting the subpart F income to the income derived from the insurance of United States risks in the case of certain controlled foreign corporations described in section 957(b).
 
-(b) *Exclusion of U.S. income* - (1) *Taxable years beginning before January 1, 1967.* For rules applicable to taxable years beginning before January 1, 1967, see 26 CFR 1.952-1(b)(1) (Revisedof April 1, 1975).
+(b) *Exclusion of U.S. income*—(1) *Taxable years beginning before January 1, 1967.* For rules applicable to taxable years beginning before January 1, 1967, see 26 CFR 1.952-1(b)(1) (Revisedof April 1, 1975).
 
 (2) *Taxable years beginning after December 31, 1966.* Notwithstanding paragraph (a) of this section, a controlled foreign corporation's subpart F income for any taxable year beginning after December 31, 1966, shall not include any item of income from sources within the United States which is effectively connected for that year with the conduct by such corporation of a trade or business in the United States unless, pursuant to a treaty to which the United States is a party, such item of income either is exempt from the income tax imposed by chapter 1 (relating to normal taxes and surtaxes) of the Code or is subject to such tax at a reduced rate.
 
@@ -32,9 +32,9 @@ Thus, for example, dividends received from sources within the United States by a
 
 (3) *Rule applicable under section 956 (b)(2).* For purposes only of paragraph (b)(1))(viii) of § 1.956-2, an item of income derived by a controlled foreign corporation from sources within the United States with respect to which for the taxable year a tax is imposed in accordance with section 882(a) shall be considered described in section 952(b) whether or not such item of income would have constituted subpart F income for such year.
 
-(c) *Limitation on a controlled foreign corporation's subpart F income* - (1) *In general.* A United States shareholder's pro rata share (determined in accordance with the rules of paragraph (e) of § 1.951-1) of a controlled foreign corporation's subpart F income for any taxable year shall not exceed his pro rata share of the earnings and profits (as defined in section 964(a) and § 1.964-1) of such corporation for such taxable year, computed as of the close of such taxable year without diminution by reason of any distributions made during such taxable year, minus the sum of -
+(c) *Limitation on a controlled foreign corporation's subpart F income*—(1) *In general.* A United States shareholder's pro rata share (determined in accordance with the rules of paragraph (e) of § 1.951-1) of a controlled foreign corporation's subpart F income for any taxable year shall not exceed his pro rata share of the earnings and profits (as defined in section 964(a) and § 1.964-1) of such corporation for such taxable year, computed as of the close of such taxable year without diminution by reason of any distributions made during such taxable year, minus the sum of—
 
-(i) The amount, if any, by which such shareholder's pro rata share of -
+(i) The amount, if any, by which such shareholder's pro rata share of—
 
 (*a*) The sum of such corporation's deficits in earnings and profits for prior taxable years beginning after December 31, 1962, plus
 
@@ -46,7 +46,7 @@ Thus, for example, dividends received from sources within the United States by a
 
 For purposes of applying this subparagraph, the reduction (if any) provided by subdivision (i) of this subparagraph in a United States shareholder's pro rata share of the earnings and profits of a controlled foreign corporation shall be taken into account before the reduction provided by subdivision (ii) of this subparagraph. See section 952(c).
 
-(2) *Special rules.* For purposes only of determining the limitation under subparagraph (1) of this paragraph on a United States shareholder's pro rata share of a controlled foreign corporation's subpart F income for any taxable year -
+(2) *Special rules.* For purposes only of determining the limitation under subparagraph (1) of this paragraph on a United States shareholder's pro rata share of a controlled foreign corporation's subpart F income for any taxable year—
 
 (i) *Status of foreign corporation.* The earnings and profits, or deficit in earnings and profits, of a foreign corporation for any taxable year shall be taken into account whether or not such foreign corporation is a controlled foreign corporation at the time such earnings and profits are derived or such deficit in earnings and profits is incurred.
 
@@ -65,13 +65,13 @@ Example 1.(a) A is a United States shareholder who owns 100 percent of the only 
 (d) During 1964, M Corporation derives $8,000 of rents which constitute subpart F income, makes a $10,000 distribution to A, and has earnings and profits of $12,000 (including the $5,000 dividend received from N Corporation). The limitation under section 952(c) on M Corporation's subpart F income for 1964 is $7,000, determined as follows:
 
 |Corporation M's earnings and profits for 1964 (determined under section 964(a) and § 1.964-1 as of the close of such year without diminution for any distributions made during such year)|$12,000|
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------:|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
 |                                                     Less: Corporation M's earnings and profits for 1964 described in section 959(b)                                                     | 5,000 |
 |                                                                 Limitation on M Corporation's Subpart F income for 1964                                                                 | 7,000 |
 
 Thus, for 1964 with respect to A's interest in M Corporation, $7,000 of subpart F income is includible in his gross income under section 951(a)(1)(A)(i). The $10,000 dividend received from M Corporation is excludible from A's gross income for 1964 under section 959(a)(1) and paragraph (b) of § 1.959-1.Example 2.A is a United States shareholder who owns 100 percent of the only class of stock of R Corporation which was organized on January 1, 1961. R Corporation is a controlled foreign corporation for the entire period after December 31, 1962, here involved. Both A and R Corporation use the calendar year as a taxable year. During 1963, R Corporation derives $25,000 of subpart F income and has $50,000 of earnings and profits. Corporation R has $15,000 of earnings and profits for 1961, and a deficit in earnings and profits of $45,000 for 1962. Thus, R Corporation has as of December 31, 1963, a net deficit in earnings and profits of $30,000 for the years 1961 and 1962. Corporation R makes no distributions to A during 1963. The limitation under section 952(c) on R Corporation's subpart F income for 1963 is $20,000 ($50,000 minus $30,000), and $20,000 of subpart F income is includible in A's gross income for 1963 under section 951(a)(1)(A)(i). During 1964, R Corporation derives $18,000 of subpart F income and has $30,000 of earnings and profits. Corporation R makes no distributions to A during 1964. The entire $18,000 of subpart F income is includible in A's gross income for 1964 under section 951(a)(1)(A)(i).
 
-(d) *Treatment of deficits in earnings and profits attributable to stock of other foreign corporation indirectly owned by a United States shareholder* - (1) *In general.* For purposes of paragraph (c)(1)(ii) of this section, if -
+(d) *Treatment of deficits in earnings and profits attributable to stock of other foreign corporation indirectly owned by a United States shareholder*—(1) *In general.* For purposes of paragraph (c)(1)(ii) of this section, if—
 
 (i) A United States shareholder owns (within the meaning of section 958(a)) stock in two or more foreign corporations in a chain of foreign corporations (as defined in subparagraph (2)(ii) of this paragraph), and
 
@@ -79,11 +79,11 @@ Thus, for 1964 with respect to A's interest in M Corporation, $7,000 of subpart 
 
 then, with respect to such shareholder and only for purposes of determining the limitation on subpart F income under paragraph (c) of this section, the earnings and profits for the taxable year of each such foreign corporation which is a controlled foreign corporation shall, in accordance with the rules of subparagraph (2) of this paragraph, be reduced to take into account any deficit in earnings and profits referred to in subdivision (ii) of this subparagraph. See section 952(d).
 
-(2) *Special rules.* For purposes of this paragraph -
+(2) *Special rules.* For purposes of this paragraph—
 
 (i) *Applicable rules.* The special rules set forth in paragraph (c)(2) of this section shall apply.
 
-(ii) *“Chain” defined.* A chain of foreign corporations shall, with respect to a United States shareholder, include -
+(ii) *“Chain” defined.* A chain of foreign corporations shall, with respect to a United States shareholder, include—
 
 (*a*) Any foreign corporation in which such shareholder owns (within the meaning of section 958(a)(1)(A)) stock but, only to the extent of the stock so owned and
 
@@ -114,8 +114,6 @@ Example 1.(a) Domestic corporation M owns 100 percent, 20 percent, and 100 perce
 
 (d) Corporation M's stock interest under section 958(a) in each of the chains of foreign corporations is as follows for 1963:
 
-[In percent]
-
 |                | A | B | C | D | E | F | G | H |
 |----------------|---|---|---|---|---|---|---|---|
 |    A chain:    |   |   |   |   |   |   |   |   |
@@ -139,30 +137,29 @@ Example 1.(a) Domestic corporation M owns 100 percent, 20 percent, and 100 perce
 
 (e) Corporation M's pro rata share of the earnings and profits (determined under paragraph (c) of this section but without regard to subparagraph (1)(ii) of such paragraph), or of the deficit, of each controlled foreign corporation of each foreign corporation, respectively, includible in the respective chains for 1963 is as follows:
 
-|                    |Earnings and profits|Deficit |
-|--------------------|--------------------|--------|
-|      A chain:      |                    |        |
-|A Corporation (100%)|      $18,000       |        |
-|B Corporation (80%) |                    |($6,000)|
-|C Corporation (80%) |                    |(2,000) |
-|D Corporation (60%) |       3,000        |        |
-|E Corporation (60%) |       9,000        |        |
-|G Corporation (40%) |                    |(4,000) |
-|H Corporation (40%) |   (<sup>1</sup>)   |        |
-|        Total       |       30,000       |(12,000)|
-|      B chain:      |                    |        |
-|B Corporation (20%) |                    |($1,500)|
-|D Corporation (15%) |        $750        |        |
-|G Corporation (10%) |                    |(1,000) |
-|H Corporation (10%) |   (<sup>1</sup>)   |        |
-|        Total       |        $750        |($2,500)|
-|      F chain:      |                    |        |
-|F Corporation (100%)|       20,250       |        |
-|C Corporation (20%) |                    | (500)  |
-|E Corporation (15%) |       2,250        |        |
-|        Total       |      $22,500       | (500)  |
-
-<sup>1</sup> The earnings and profits of H Corporation are not included in the total earnings and profits for the chain because H Corporation is not a controlled foreign corporation.
+|                                                                                                                                                                                      |Earnings and profits|Deficit |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|--------|
+|                                                                                       A chain:                                                                                       |                    |        |
+|                                                                                 A Corporation (100%)                                                                                 |      $18,000       |        |
+|                                                                                 B Corporation (80%)                                                                                  |                    |($6,000)|
+|                                                                                 C Corporation (80%)                                                                                  |                    |(2,000) |
+|                                                                                 D Corporation (60%)                                                                                  |       3,000        |        |
+|                                                                                 E Corporation (60%)                                                                                  |       9,000        |        |
+|                                                                                 G Corporation (40%)                                                                                  |                    |(4,000) |
+|                                                                                 H Corporation (40%)                                                                                  |   (<sup>1</sup>)   |        |
+|                                                                                         Total                                                                                        |       30,000       |(12,000)|
+|                                                                                       B chain:                                                                                       |                    |        |
+|                                                                                 B Corporation (20%)                                                                                  |                    |($1,500)|
+|                                                                                 D Corporation (15%)                                                                                  |        $750        |        |
+|                                                                                 G Corporation (10%)                                                                                  |                    |(1,000) |
+|                                                                                 H Corporation (10%)                                                                                  |   (<sup>1</sup>)   |        |
+|                                                                                         Total                                                                                        |        $750        |($2,500)|
+|                                                                                       F chain:                                                                                       |                    |        |
+|                                                                                 F Corporation (100%)                                                                                 |       20,250       |        |
+|                                                                                 C Corporation (20%)                                                                                  |                    | (500)  |
+|                                                                                 E Corporation (15%)                                                                                  |       2,250        |        |
+|                                                                                         Total                                                                                        |      $22,500       | (500)  |
+|<sup>1</sup> The earnings and profits of H Corporation are not included in the total earnings and profits for the chain because H Corporation is not a controlled foreign corporation.|                    |        |
 
 (f) The amount by which M Corporation's pro rata share of the earnings and profits for 1963 of the controlled foreign corporations in each respective chain shall be reduced under section 952(d) by M Corporation's pro rata share of the deficits of corporations B, C, and G for 1963 is determined as follows:
 
@@ -218,9 +215,9 @@ Example 2.The facts are the same as in example 1 except that, in addition, for 1
 
 Example 3.The facts are the same as in example 2, except that for 1964 B Corporation has subpart F income of $550 and earnings and profits (determined in accordance with section 964(a) and § 1.964-1) of $550; such earnings and profits are determined without regard to distributions for 1964. Under paragraph (c)(1)(i)(a) of this section, B Corporation's unused deficit of $1,050 for 1963 reduces its earnings and profits for 1964 with respect to M Corporation to zero. The remaining $500 of the unused deficit for 1963 applicable to M Corporation's interest in B Corporation may be used under paragraph (c)(1)(i)(*a*) of this section in later years to reduce M Corporation's interest in B Corporation's earnings and profits.
 
-(e) *Application of current earnings and profits limitation* - (1) *In general.* If the subpart F income (as defined in section 952(a)) of a controlled foreign corporation exceeds the foreign corporation's earnings and profits for the taxable year, the subpart F income includible in the income of the corporation's United States shareholders is reduced under section 952(c)(1)(A) in accordance with the following rules. The excess of subpart F income over current year earnings and profits shall -
+(e) *Application of current earnings and profits limitation*—(1) *In general.* If the subpart F income (as defined in section 952(a)) of a controlled foreign corporation exceeds the foreign corporation's earnings and profits for the taxable year, the subpart F income includible in the income of the corporation's United States shareholders is reduced under section 952(c)(1)(A) in accordance with the following rules. The excess of subpart F income over current year earnings and profits shall—
 
-(i) First, proportionately reduce subpart F income in each separate category of the controlled foreign corporation, as defined in § 1.904-5(a)(1), in which current earnings and profits are zero or less than zero;
+(i) First, proportionately reduce subpart F income in each separate category of the controlled foreign corporation, as defined in § 1.904-5(a)(4)(v), in which current earnings and profits are zero or less than zero;
 
 (ii) Second, proportionately reduce subpart F income in each separate category in which subpart F income exceeds current earnings and profits; and
 
@@ -232,17 +229,17 @@ Example 3.The facts are the same as in example 2, except that for 1964 B Corpora
 
 (4) *Coordination with sections 953 and 954.* The rules of this paragraph (e) shall be applied after the application of sections 953 and 954 and the regulations under those sections, except as provided in § 1.954-1(d)(4)(ii).
 
-(5) *Earnings and deficits retain separate limitation character.* The income reduction rules of paragraph (e)(1) of this section shall apply only for purposes of determining the amount of an inclusion under section 951(a)(1)(A) from each separate category as defined in § 1.904-5(a)(1) and the separate categories in which recapture accounts are established under section 952(c)(2) and paragraph (f) of this section. For rules applicable in computing post-1986 undistributed earnings, see generally section 902 and the regulations under that section. For rules relating to the allocation of deficits for purposes of computing foreign taxes deemed paid under section 960 with respect to an inclusion under section 951(a)(1)(A), see § 1.960-1(i).
+(5) *Earnings and deficits retain separate limitation character.* The income reduction rules of paragraph (e)(1) of this section shall apply only for purposes of determining the amount of an inclusion under section 951(a)(1)(A) from each separate category as defined in § 1.904-5(a)(4)(v) and the separate categories in which recapture accounts are established under section 952(c)(2) and paragraph (f) of this section. For rules applicable in computing post-1986 undistributed earnings, see generally section 902 and the regulations under that section. For rules relating to the allocation of deficits for purposes of computing foreign taxes deemed paid under section 960 with respect to an inclusion under section 951(a)(1)(A), see § 1.960-1(i).
 
-(f) *Recapture of subpart F income in subsequent taxable year* - (1) *In general.* If a controlled foreign corporation's subpart F income for a taxable year is reduced under the current year earnings and profits limitation of section 952(c)(1)(A) and paragraph (e) of this section, recapture accounts will be established and subject to recharacterization in any subsequent taxable year to the extent the recapture accounts were not previously recharacterized or distributed, as provided in paragraphs (f)(2) and (3) of this section.
+(f) *Recapture of subpart F income in subsequent taxable year*—(1) *In general.* If a controlled foreign corporation's subpart F income for a taxable year is reduced under the current year earnings and profits limitation of section 952(c)(1)(A) and paragraph (e) of this section, recapture accounts will be established and subject to recharacterization in any subsequent taxable year to the extent the recapture accounts were not previously recharacterized or distributed, as provided in paragraphs (f)(2) and (3) of this section.
 
-(2) *Rules of recapture* - (i) *Recapture account.* If a category of subpart F income described in section 952(a) or, in the case of foreign base company income, described in § 1.954-1(c)(1)(iii)(A) (*1*) or (*2*) is reduced under the current year earnings and profits limitation of section 952(c)(1)(A) and paragraph (e) of this section for a taxable year, the amount of such reduction shall constitute a recapture account.
+(2) *Rules of recapture*—(i) *Recapture account.* If a category of subpart F income described in section 952(a) or, in the case of foreign base company income, described in § 1.954-1(c)(1)(iii)(A) (*1*) or (*2*) is reduced under the current year earnings and profits limitation of section 952(c)(1)(A) and paragraph (e) of this section for a taxable year, the amount of such reduction shall constitute a recapture account.
 
-(ii) *Recapture.* Each recapture account of the controlled foreign corporation will be recharacterized, on a proportionate basis, as subpart F income in the same separate category (as defined in § 1.904-5(a)(1)) as the recapture account to the extent that current year earnings and profits exceed subpart F income in a taxable year. The United States shareholder must include his pro rata share (determined under the rules of § 1.951-1(e)) of each recharacterized amount in income as subpart F income in such separate category for the taxable year.
+(ii) *Recapture.* Each recapture account of the controlled foreign corporation will be recharacterized, on a proportionate basis, as subpart F income in the same separate category (as defined in § 1.904-5(a)(4)(v)) as the recapture account to the extent that current year earnings and profits exceed subpart F income in a taxable year. The United States shareholder must include his pro rata share (determined under the rules of § 1.951-1(e)) of each recharacterized amount in income as subpart F income in such separate category for the taxable year.
 
 (iii) *Reduction of recapture account and corresponding earnings.* Each recapture account, and post-1986 undistributed earnings in the separate category containing the recapture account, will be reduced in any taxable year by the amount which is recharacterized under paragraph (f)(2)(ii) of this section. In addition, each recapture account, and post-1986 undistributed earnings in the separate category containing the recapture account, will be reduced in the amount of any distribution out of that account (as determined under the ordering rules of section 959(c) and paragraph (f)(3)(ii) of this section).
 
-(3) *Distribution ordering rules* - (i) *Coordination of recapture and distribution rules.* If a controlled foreign corporation distributes an amount out of earnings and profits described in section 959(c)(3) in a year in which current year earnings and profits exceed subpart F income and there is an amount in a recapture account for such year, the recapture rules will apply first.
+(3) *Distribution ordering rules*—(i) *Coordination of recapture and distribution rules.* If a controlled foreign corporation distributes an amount out of earnings and profits described in section 959(c)(3) in a year in which current year earnings and profits exceed subpart F income and there is an amount in a recapture account for such year, the recapture rules will apply first.
 
 (ii) *Distributions reduce recapture accounts first.* Any distribution made by a controlled foreign corporation out of earnings and profits described in section 959(c)(3) shall be treated as made first on a proportionate basis out of the recapture accounts in each separate category to the extent thereof (even if the amount in the recapture account exceeds post-1986 undistributed earnings in the separate category containing the recapture account). Any remaining distribution shall be treated as made on a proportionate basis out of the remaining earnings and profits of the controlled foreign corporation in each separate category. See section 904(d)(3)(D).
 
@@ -270,11 +267,11 @@ Example 4.(i) The facts are the same as in *Example 3* with the addition of the 
 
 (ii) CFC has 150u of previously-taxed earnings and profits described in section 959(c)(2) (25u attributable to 1998 and 125u attributable to 1999), all of which is passive limitation earnings and profits. Under section 959(c), 150u of the 200u distribution is deemed to be made from earnings and profits described in section 959(c)(2). The remaining 50u is deemed to be made from earnings and profits described in section 959(c)(3). Under paragraph (f)(3)(ii) of this section, the dividend distribution is deemed to be made first out of the passive limitation recapture account to the extent thereof (25u). Under paragraph (f)(2)(iii) of this section, the passive limitation recapture account is reduced from 25u to 0. The remaining distribution of 25u is treated as made out of CFC's general limitation earnings and profits.
 
-(iii) For purposes of computing post-1986 undistributed earnings, the rules of section 902 and 960, including the rules of § 1.960-1(i), apply. Thus, the shipping limitation accumulated deficit of (200u) reduces general limitation earnings and profits of 450u and passive limitation earnings and profits of 150u on a proportionate basis. Thus, 100% of CFC's post-1986 foreign income taxes with respect to passive limitation earnings are deemed paid by A under section 960 with respect to the 1999 subpart F inclusion of 125u (100u inclusion (numerator limited to denominator)/100u passive earnings). No post-1986 foreign income taxes remain to be deemed paid under section 902 in connection with the 25u distribution from the passive limitation/foreign personal holding company income recapture account. One-twelfth of CFC's post-1986 foreign income taxes with respect to general limitation earnings are deemed paid by A under section 902 with respect to the distribution of 25u general limitation earnings and profits described in section 959(c)(3) (25u inclusion/300u general limitation earnings). After the deemed-paid taxes are computed, at the close of 1999 CFC has 425u of general limitation earnings and profits (400u opening balance + 50u current earnings - 25u distribution), 0 of passive limitation earnings (75u recapture account + 75u current foreign personal holding company income - 125u inclusion - 25u distribution), and a (200u) deficit in shipping limitation earnings.
+(iii) For purposes of computing post-1986 undistributed earnings, the rules of section 902 and 960, including the rules of § 1.960-1(i), apply. Thus, the shipping limitation accumulated deficit of (200u) reduces general limitation earnings and profits of 450u and passive limitation earnings and profits of 150u on a proportionate basis. Thus, 100% of CFC's post-1986 foreign income taxes with respect to passive limitation earnings are deemed paid by A under section 960 with respect to the 1999 subpart F inclusion of 125u (100u inclusion (numerator limited to denominator)/100u passive earnings). No post-1986 foreign income taxes remain to be deemed paid under section 902 in connection with the 25u distribution from the passive limitation/foreign personal holding company income recapture account. One-twelfth of CFC's post-1986 foreign income taxes with respect to general limitation earnings are deemed paid by A under section 902 with respect to the distribution of 25u general limitation earnings and profits described in section 959(c)(3) (25u inclusion/300u general limitation earnings). After the deemed-paid taxes are computed, at the close of 1999 CFC has 425u of general limitation earnings and profits (400u opening balance + 50u current earnings—25u distribution), 0 of passive limitation earnings (75u recapture account + 75u current foreign personal holding company income—125u inclusion—25u distribution), and a (200u) deficit in shipping limitation earnings.
 
 (5) *Effective date.* Paragraph (e) of this section and this paragraph (f) apply to taxable years of a controlled foreign corporation beginning after March 3, 1997.
 
-(g) *Treatment of distributive share of partnership income* - (1) *In general.* A controlled foreign corporation's distributive share of any item of income of a partnership is income that falls within a category of subpart F income described in section 952(a) to the extent the item of income would have been income in such category if received by the controlled foreign corporation directly. For specific rules regarding the treatment of a distributive share of partnership income under certain provisions of subpart F, see §§ 1.954-1(g), 1.954-2(a)(5), 1.954-3(a)(6), and 1.954-4(b)(2)(iii).
+(g) *Treatment of distributive share of partnership income*—(1) *In general.* A controlled foreign corporation's distributive share of any item of income of a partnership is income that falls within a category of subpart F income described in section 952(a) to the extent the item of income would have been income in such category if received by the controlled foreign corporation directly. For specific rules regarding the treatment of a distributive share of partnership income under certain provisions of subpart F, see §§ 1.954-1(g), 1.954-2(a)(5), 1.954-3(a)(6), and 1.954-4(b)(2)(iii).
 
 (2) *Example.* The application of this paragraph (g) may be illustrated by the following example:
 
@@ -282,4 +279,4 @@ Example.CFC, a controlled foreign corporation, is an 80-percent partner in PRS, 
 
 (3) *Effective date.* This paragraph (g) applies to taxable years of a controlled foreign corporation beginning on or after July 23, 2002.
 
-[T.D. 6795, 30 FR 938, Jan. 29, 1965, as amended by T.D. 6892, 31 FR 11144, Aug. 23, 1966; T.D. 7293, 38 FR 32802, Nov. 28, 1973; T.D. 7545, 43 FR 19652, May 8, 1978; T.D. 7862, 47 FR 56490, Dec. 17, 1982; T.D. 7893, 48 FR 22508, May 19, 1983; T.D. 7894, 48 FR 22516, May 19, 1983; T.D. 8331, 56 FR 2846, Jan. 25, 1991; T.D. 8704, 62 FR 18, Jan. 2, 1997; T.D. 9008, 67 FR 48023, July 23, 2002]
+[T.D. 6795, 30 FR 938, Jan. 29, 1965, as amended by T.D. 6892, 31 FR 11144, Aug. 23, 1966; T.D. 7293, 38 FR 32802, Nov. 28, 1973; T.D. 7545, 43 FR 19652, May 8, 1978; T.D. 7862, 47 FR 56490, Dec. 17, 1982; T.D. 7893, 48 FR 22508, May 19, 1983; T.D. 7894, 48 FR 22516, May 19, 1983; T.D. 8331, 56 FR 2846, Jan. 25, 1991; T.D. 8704, 62 FR 18, Jan. 2, 1997; T.D. 9008, 67 FR 48023, July 23, 2002; T.D. 9882, 84 FR 69107, Dec. 17, 2019]

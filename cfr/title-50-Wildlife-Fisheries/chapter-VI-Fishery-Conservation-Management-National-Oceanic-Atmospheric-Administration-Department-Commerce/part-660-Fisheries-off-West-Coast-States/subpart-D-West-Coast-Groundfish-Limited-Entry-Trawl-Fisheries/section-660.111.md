@@ -1,6 +1,6 @@
 ##### § 660.111 Trawl fishery - definitions. #####
 
-Link to an amendment published at 84 FR 63986, Nov. 19, 2019.
+Link to an amendment published at 84 FR 63986, Nov. 19, 2019.Link to an amendment published at 84 FR 68806, Dec. 17, 2019.
 
 These definitions are specific to the limited entry trawl fisheries covered in this subpart. General groundfish definitions are found at § 660.11, subpart C.
 

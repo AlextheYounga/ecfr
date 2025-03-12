@@ -1,6 +1,6 @@
 ##### § 52.1 Definitions. #####
 
-Link to an amendment published at 84 FR 65645, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
+Link to an amendment published at 84 FR 65645, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.Link to a correction of the above amendment published at 84 FR 68781, Dec. 17, 2019.
 
 (a) As used in this part -
 

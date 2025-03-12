@@ -1,6 +1,6 @@
 ##### § 2.101 Filing of application. #####
 
-Link to an amendment published at 84 FR 65643, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.
+Link to an amendment published at 84 FR 65643, Nov. 29, 2019.Link to a correction of the above amendment published at 84 FR 66561, Dec. 5, 2019.Link to a correction of the Nov. 29th document published at 84 FR 68781, Dec. 17, 2019.
 
 (a)(1) An application for a permit, a license, a license transfer, a license amendment, a license renewal, or a standard design approval, shall be filed with the Director, Office of New Reactors, the Director, Office of Nuclear Reactor Regulation, or the Director, Office of Nuclear Material Safety and Safeguards, as prescribed by the applicable provisions of this chapter. A prospective applicant may confer informally with the NRC staff before filing an application.
 

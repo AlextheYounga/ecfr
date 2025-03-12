@@ -1,5 +1,7 @@
 ##### § 660.113 Trawl fishery - recordkeeping and reporting. #####
 
+Link to an amendment published at 84 FR 68806, Dec. 17, 2019.
+
 General groundfish recordkeeping and reporting requirements are defined at § 660.13, subpart C. The following recordkeeping and reporting requirements are in addition to those and are specific to the limited entry trawl fisheries.
 
 (a) *General requirements.* (1) All records or reports required by this paragraph (a) must: be maintained in English, be accurate, be legible, be based on local time, and be submitted in a timely manner.

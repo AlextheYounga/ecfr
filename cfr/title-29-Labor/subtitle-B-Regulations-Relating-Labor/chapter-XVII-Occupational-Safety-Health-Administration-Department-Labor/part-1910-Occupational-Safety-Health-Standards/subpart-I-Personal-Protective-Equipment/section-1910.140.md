@@ -88,7 +88,7 @@
 
 (7) D-rings, snaphooks, and carabiners must be capable of sustaining a minimum tensile load of 5,000 pounds (22.2 kN).
 
-(8) D-rings, snaphooks, and carabiners must be proof tested to a minimum tensile load of 3,600 pounds (16 kN) without cracking, breaking, or incurring permanent deformation. The gate strength of snaphooks and carabiners, must be proof tested to 3,600 lbs. (16 kN) in all directions.
+(8) D-rings, snaphooks, and carabiners must be proof tested to a minimum tensile load of 3,600 pounds (16 kN) without cracking, breaking, or incurring permanent deformation. The gate strength of snaphooks and carabiners must be capable of withstanding a minimum load of 3,600 pounds (16 kN) without the gate separating from the nose of the snaphook or carabiner body by more than 0.125 inches (3.175 mm).
 
 (9) Snaphooks and carabiners must be the automatic locking type that require at least two separate, consecutive movements to open.
 
@@ -136,7 +136,7 @@
 
 (22) Personal fall protection systems must be worn with the attachment point of the body harness located in the center of the employee's back near shoulder level. The attachment point may be located in the pre-sternal position if the free fall distance is limited to 2 feet (0.6 m) or less.
 
-(d) *Personal fall arrest systems* - (1) *System performance criteria.* In addition to the general requirements in paragraph (c) of this section, the employer must ensure that personal fall arrest systems:
+(d) *Personal fall arrest systems*—(1) *System performance criteria.* In addition to the general requirements in paragraph (c) of this section, the employer must ensure that personal fall arrest systems:
 
 (i) Limit the maximum arresting force on the employee to 1,800 pounds (8 kN);
 
@@ -156,7 +156,7 @@
 
 (3) *Body belts.* Body belts are prohibited as part of a personal fall arrest system.
 
-(e) *Positioning systems* - (1) *System performance requirements.* The employer must ensure that each positioning system meets the following requirements:
+(e) *Positioning systems*—(1) *System performance requirements.* The employer must ensure that each positioning system meets the following requirements:
 
 (i) *General.* All positioning systems, except window cleaners' positioning systems, are capable of withstanding, without failure, a drop test consisting of a 4-foot (1.2-m) drop of a 250-pound (113-kg) weight;
 
@@ -220,4 +220,4 @@
 
 (D) The width of the window sill or ledge in front of the mullions is at least 6 inches (15.2 cm) wide.
 
-[81 FR 82999, Nov. 18, 2016]
+[81 FR 82999, Nov. 18, 2016, as amended at 84 FR 68797, Dec. 17, 2019]

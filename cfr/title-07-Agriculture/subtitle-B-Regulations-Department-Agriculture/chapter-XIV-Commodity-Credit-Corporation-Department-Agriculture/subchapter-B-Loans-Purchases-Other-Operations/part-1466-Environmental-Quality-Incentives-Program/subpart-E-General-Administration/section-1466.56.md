@@ -1,0 +1,7 @@
+##### § 1466.56 Environmental credits for conservation improvements. #####
+
+(a) A participant in EQIP may achieve environmental benefits that may qualify for environmental credits under an environmental credit-trading program. NRCS asserts no direct or indirect interest on these credits. However, NRCS retains the authority to ensure that EQIP purposes are met. In addition, any requirements or standards of an environmental market program in which an EQIP participant simultaneously enrolls to receive environmental credits must be compatible with the purposes and requirements of the EQIP contract and with this part.
+
+(b) The participant must meet all O&M requirements for EQIP-funded activities, consistent with §§ 1466.21 and 1466.22. Where activities required under an environmental credit agreement may affect the land and conservation practices under an EQIP contract, NRCS recommends that EQIP participants request assistance with the development of a compatibility assessment prior to entering into any credit agreement. The EQIP contract may be modified in accordance with policies outlined in § 1466.25, provided the modification meets EQIP purposes and is in compliance with this part.
+
+(c) EQIP participants may not use EQIP funds to implement conservation practices and activities that the participant is required to establish as a result of a court order. EQIP funds may not be used to satisfy any mitigation requirement for which the EQIP participant is responsible.

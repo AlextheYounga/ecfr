@@ -1,5 +1,7 @@
 ##### § 660.115 Trawl fishery - cost recovery program. #####
 
+Link to an amendment published at 84 FR 68808, Dec. 17, 2019.
+
 (a) *General.* The cost recovery program collects mandatory fees of up to three percent of the ex-vessel value of fish harvested by sector under the trawl rationalization program in accordance with the Magnuson-Stevens Act. NMFS collects the fees to recover the actual costs directly related to the management, data collection, and enforcement of the trawl rationalization program. In addition to the requirements of this section, the following groundfish regulations also apply:
 
 (1) Regulations set out in the following sections of subpart C: § 660.11 Definitions and § 660.25 Permits.

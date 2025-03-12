@@ -1,6 +1,6 @@
 ##### § 1910.25 Stairways. #####
 
-(a) *Application.* This section covers all stairways (including standard, spiral, ship, and alternating tread-type stairs), except for stairs serving floating roof tanks, stairs on scaffolds, stairs designed into machines or equipment, and stairs on self-propelled motorized equipment.
+(a) *Application.* This section covers all stairways (including standard, spiral, ship, and alternating tread-type stairs), except for articulated stairs (stairs that change pitch due to change in height at the point of attachment) such as those serving floating roof tanks, stairs on scaffolds, stairs designed into machines or equipment, and stairs on self-propelled motorized equipment.
 
 (b) *General requirements.* The employer must ensure:
 
@@ -40,7 +40,7 @@
 
 (5) *Exception to paragraphs (c)(2) and (3) of this section.* The requirements of paragraphs (c)(2) and (3) do not apply to standard stairs installed prior to January 17, 2017. OSHA will deem those stairs in compliance if they meet the dimension requirements specified in Table D-1 of this section or they use a combination that achieves the angle requirements of paragraph (c)(1) of this section.
 
-![](/graphics/er18no16.351.gif)![](/graphics/er18no16.352.gif)
+![](/graphics/er18no16.351.gif)![](/graphics/er17de19.018.gif)
 
 (d) *Spiral stairs.* In addition to paragraph (b) of this section, the employer must ensure spiral stairs:
 
@@ -78,4 +78,4 @@
 
 (5) Have a minimum tread width of 7 inches (18 cm), measured at the leading edge of the tread (*i.e.,* nosing).
 
-![](/graphics/er18no16.354.gif)
+![](/graphics/er18no16.354.gif)[81 FR 82981, Nov. 18, 2016, as amended at 84 FR 68795, Dec. 17, 2019]

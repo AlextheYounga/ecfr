@@ -1,4 +1,4 @@
-##### § 1910.29 Fall protection systems and falling object protection - criteria and practices. #####
+##### § 1910.29 Fall protection systems and falling object protection—criteria and practices. #####
 
 (a) *General requirements.* The employer must:
 
@@ -58,7 +58,7 @@ Note to paragraph (b) of this section:
 
 The criteria and practices requirements for guardrail systems on scaffolds are contained in 29 CFR part 1926, subpart L.
 
-![](/graphics/er18no16.356.gif)
+![](/graphics/er17de19.019.gif)
 
 (c) *Safety net systems.* The employer must ensure each safety net system meets the requirements in 29 CFR part 1926, subpart M.
 
@@ -120,9 +120,8 @@ The criteria and practices requirements for guardrail systems on scaffolds are c
 
 ![](/graphics/er18no16.357.gif)
 
-|   |                                                 |
-|---|-------------------------------------------------|
 |   |Figure D-13 - Combination Handrail and Stair Rail|
+|---|-------------------------------------------------|
 
 (g) *Cages, wells, and platforms used with fixed ladders.* The employer must ensure:
 
@@ -195,3 +194,5 @@ Section 1910.28 establishes the requirements that employers must follow on the u
 (2) Is mounted to provide at least 3 inches (8 cm) of clearance from the framing or opening; and
 
 (3) Is capable of withstanding a maximum horizontal pull-out force equal to two times the maximum intended load or 200 pounds (890 N), whichever is greater.
+
+[81 FR 82981, Nov. 18, 2016, as amended at 84 FR 68796, Dec. 17, 2019]

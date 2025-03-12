@@ -86,10 +86,10 @@
 
 (v) The amendments cause the transfer to take effect on or after the date of the event described in paragraph (h)(2)(iii) of this section transpires; and
 
-(iv) The amendments cause the transfer to take effect by the later of:
+(vi) The amendments cause the transfer to take effect by the later of:
 
 (A) The date that is one year after the date of the event described in paragraph (h)(2)(iii) of this section; or
 
 (B) Such other date permitted by transitional provisions under Article 35 of Commission Delegated Regulation (E.U.) No. 2016/2251, as amended.
 
-[80 FR 74898, 74913, Nov. 30, 2015, as amended at 80 FR 74913, 74924, Nov. 30, 2015; 83 FR 50813, Oct. 10, 2018; 84 FR 9949, Mar. 19, 2019]Editorial Note:At 84 FR 9949, Mar. 19, 2019, § 624.1 was amended by adding paragraph (h), containing two subparagraphs designated (h)(2)(iv).
+[80 FR 74898, 74913, Nov. 30, 2015, as amended at 80 FR 74913, 74924, Nov. 30, 2015; 83 FR 50813, Oct. 10, 2018; 84 FR 9949, Mar. 19, 2019; 84 FR 68326, Dec. 16, 2019]

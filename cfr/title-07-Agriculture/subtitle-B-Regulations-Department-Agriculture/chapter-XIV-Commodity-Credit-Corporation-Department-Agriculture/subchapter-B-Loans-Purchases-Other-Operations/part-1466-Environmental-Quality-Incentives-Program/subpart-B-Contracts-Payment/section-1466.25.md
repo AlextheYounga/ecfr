@@ -1,12 +1,14 @@
-##### § 1466.25 Contract modifications and transfers of land. #####
+##### § 1466.25 Contract modifications and transfers of contract rights. #####
 
-(a) The participant and NRCS may modify a contract if both parties agree to the contract modification, the contract continues to meet the purposes of the program, and the contract modification is approved by NRCS.
+(a) NRCS may modify a contract, if—
 
-(b) Within the time specified in the contract, the participant must provide NRCS with written notice regarding any voluntary or involuntary loss of control of any acreage under the EQIP contract, which includes changes in a participant's ownership structure or corporate form. Failure to provide timely notice will result in termination of the entire contract.
+(1) The participant agrees to the modification; and
 
-(c) Unless NRCS approves a transfer of contract rights under this paragraph (c), a participant losing control of any acreage will constitute a violation of the EQIP contract and NRCS will terminate the contract and require a participant to refund all or a portion of any financial assistance provided. NRCS may approve a transfer of the contract if:
+(2) NRCS determines the modified contract continues to meet the purposes of the program.
 
-(1) NRCS receives written notice that identifies the new producer who will take control of the acreage, as required in paragraph (d) of this section;
+(b) NRCS may approve a transfer of the contract if—
+
+(1) NRCS receives written notice that identifies the new producer who will take control of the acreage, as required in paragraph (e) of this section;
 
 (2) The new producer meets program eligibility requirements within a reasonable time frame, as specified in the EQIP contract;
 
@@ -14,10 +16,22 @@
 
 (4) NRCS determines that the purposes of the program will continue to be met despite the original participant's losing control of all or a portion of the land under contract.
 
-(d) Until NRCS approves the transfer of contract rights, the new producer is not a participant in the program and may not receive payment for conservation activities commenced prior to approval of the contract transfer.
+(c)(1) Until NRCS approves the transfer of contract rights, the transferee is not a participant in the program and may not receive payment for a conservation practice commenced prior to approval of the contract transfer.
 
-(e) NRCS may not approve a contract transfer and may terminate the contract in its entirety if NRCS determines that the loss of control is voluntary, the new producer is not eligible or willing to assume responsibilities under the contract, or the purposes of the program cannot be met.
+(2) For contract payment purposes, NRCS will consider the transferor to be the participant to whom payments will be made for conservation practices implemented during the pendency of the approval of contract transfer.
 
-(f) In the event a conservation practice fails through no fault of the participant, NRCS may issue payments to re-establish the practice, at the rates established in accordance with § 1466.23, provided such payments do not exceed the payment limitation requirements as set forth § 1466.24.
+(d) NRCS may terminate the entire contract if, within the time specified in the contract, a participant does not provide NRCS with written notice regarding any voluntary or involuntary loss of control of any acreage under the EQIP contract, which includes changes in a participant's ownership structure or corporate form.
 
-[79 FR 73966, Dec. 12, 2014, as amended at 81 FR 29483, May 12, 2016]
+(e) Unless NRCS receives timely notice of a loss of control and approves a transfer of contract rights, a participant losing control of any acreage will constitute a violation of the EQIP contract and NRCS may terminate the contract and require a participant to refund all or a portion of any financial assistance provided.
+
+(f) NRCS may not approve a contract transfer and may terminate the contract in its entirety if NRCS determines that the loss of control is voluntary, the new producer is not eligible or willing to assume responsibilities under the contract (including payment rate eligibility), or the purposes of the program cannot be met.
+
+(g) In the event a conservation practice fails through no fault of the participant, NRCS may issue payments to reestablish the practice, at the rates established in accordance with § 1466.23, provided such payments do not exceed the payment limitation requirements as set forth in § 1466.24.
+
+(h) In the case of death, incompetency, or disappearance of any participant, NRCS may, as identified in the EQIP contract—
+
+(1) Terminate the contract;
+
+(2) Make any payments due under this part pursuant to guidance under applicable provisions of 7 CFR parts 707 and 1400 (including payment to successor(s)); or
+
+(3) Take any further action that the Chief determines is fair and reasonable in light of all of the circumstances.

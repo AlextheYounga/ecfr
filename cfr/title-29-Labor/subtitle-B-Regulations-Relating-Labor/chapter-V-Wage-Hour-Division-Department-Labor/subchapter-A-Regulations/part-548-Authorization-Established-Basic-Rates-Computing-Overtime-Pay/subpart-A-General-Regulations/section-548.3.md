@@ -1,5 +1,7 @@
 ##### § 548.3 Authorized basic rates. #####
 
+Link to an amendment published at 84 FR 68769, Dec. 16, 2019.
+
 A rate which meets all of the conditions of § 548.2 and which in addition satisfies all the conditions set forth in one of the following paragraphs will be regarded as being substantially equivalent to the average hourly earnings of the employee, exclusive of overtime premiums, in the particular work over a representative period of time and may be used in computing overtime compensation for purposes of section 7(g)(3) of the Act, and § 548.2:
 
 (a) A rate per hour which is obtained by dividing a monthly or semi-monthly salary by the number of regular working days in each monthly or semi-monthly period and then by the number or hours in the normal or regular workday. Such a rate may be used to compute overtime compensation for all the overtime hours worked by the employee during the monthly or semimonthly period for which the salary is paid.

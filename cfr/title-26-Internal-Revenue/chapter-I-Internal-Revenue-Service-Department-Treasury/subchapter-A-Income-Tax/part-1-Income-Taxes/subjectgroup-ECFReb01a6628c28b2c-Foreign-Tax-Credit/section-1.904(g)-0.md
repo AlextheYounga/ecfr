@@ -74,10 +74,12 @@ This section lists the headings for §§ 1.904(g)-1 through 1.904(g)-3.
 
 (h) Step Seven: Recapture of overall domestic loss accounts.
 
-(i) [Reserved]
+(i) Step Eight: Dispositions under section 904(f)(3) in which gain would not otherwise be recognized.
 
-(j) Examples.
+(j) [Reserved]
 
-(k) Effective/applicability date.
+(k) Examples.
 
-[T.D. 9371, 72 FR 72599, Dec. 21, 2007, as amended by T.D. 9595, 77 FR 37580, June 22, 2012]
+(l) Applicability date.
+
+[T.D. 9371, 72 FR 72599, Dec. 21, 2007, as amended by T.D. 9595, 77 FR 37580, June 22, 2012; T.D 9882, 84 FR 69102, Dec. 17, 2019]

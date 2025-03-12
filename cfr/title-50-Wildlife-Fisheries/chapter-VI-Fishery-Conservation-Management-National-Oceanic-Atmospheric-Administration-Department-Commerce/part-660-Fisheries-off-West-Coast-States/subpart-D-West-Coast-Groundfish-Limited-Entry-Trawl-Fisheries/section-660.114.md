@@ -1,5 +1,7 @@
 ##### § 660.114 Trawl fishery - economic data collection program. #####
 
+Link to an amendment published at 84 FR 68806, Dec. 17, 2019.
+
 (a) *General.* The economic data collection (EDC) program collects mandatory economic data from participants in the trawl rationalization program. NMFS requires submission of an EDC form to gather ongoing, annual data for 2011 and beyond, as well as a onetime collection in 2011 of baseline economic data from 2009 through 2010.
 
 (b) *Economic data collection program requirements.* The following fishery participants in the limited entry groundfish trawl fisheries are required to comply with the following EDC program requirements:

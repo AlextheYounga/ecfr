@@ -1,6 +1,6 @@
 ##### § 708a.110 Completion of conversion. #####
 
-(a) After receipt of the approvals under § 708a.108 and § 708a.109 the credit union may complete the conversion.
+(a) After receipt of the approvals under §§ 708a.108 and 708a.109 the credit union may complete the conversion.
 
 (b) The credit union must complete the conversion within one year of the date of receipt of NCUA approval under § 708a.108. If a credit union fails to complete the conversion within one year the Regional Director will disapprove of the methods and procedures. The credit union's board of directors must then adopt a new conversion proposal and solicit another member vote if it still desires to convert.
 

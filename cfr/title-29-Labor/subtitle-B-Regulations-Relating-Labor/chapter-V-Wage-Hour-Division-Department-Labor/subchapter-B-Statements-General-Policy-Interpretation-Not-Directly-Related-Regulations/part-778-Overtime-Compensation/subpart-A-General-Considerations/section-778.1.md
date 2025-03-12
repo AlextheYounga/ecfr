@@ -1,3 +1,5 @@
 ##### § 778.1 Purpose of interpretative bulletin. #####
 
+Link to an amendment published at 84 FR 68770, Dec. 16, 2019.
+
 This part 778 constitutes the official interpretation of the Department of Labor with respect to the meaning and application of the maximum hours and overtime pay requirements contained in section 7 of the Act. It is the purpose of this bulletin to make available in one place the interpretations of these provisions which will guide the Secretary of Labor and the Administrator in the performance of their duties under the Act unless and until they are otherwise directed by authoritative decisions of the courts or conclude, upon reexamination of an interpretation, that it is incorrect. These official interpretations are issued by the Administrator on the advice of the Solicitor of Labor, as authorized by the Secretary (Reorg. Pl. 6 of 1950, 64 Stat. 1263; Gen. Ord. 45A, May 24, 1950, 15 FR 3290).

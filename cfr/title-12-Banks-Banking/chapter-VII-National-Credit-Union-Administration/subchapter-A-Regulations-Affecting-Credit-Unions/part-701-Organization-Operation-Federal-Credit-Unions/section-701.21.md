@@ -1,6 +1,6 @@
 ##### § 701.21 Loans to members and lines of credit to members. #####
 
-Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.
+Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018. This amendment was further delayed until Jan. 1, 2022, at 84 FR 68781, Dec. 17, 2019.
 
 (a) *Statement of scope and purpose.* Section 701.21 complements the provisions of section 107(5) of the Federal Credit Union Act (12 U.S.C. 1757(5)) authorizing Federal credit unions to make loans to members and issue lines of credit (including credit cards) to members. Section 107(5) of the Act contains limitations on matters such as loan maturity, rate of interest, security, and prepayment penalties. Section 701.21 interprets and implements those provisions. In addition, § 701.21 states the NCUA Board's intent concerning preemption of state laws, and expands the authority of Federal credit unions to enforce due-on-sale clauses in real property loans. Also, while § 701.21 generally applies to Federal credit unions only, certain provisions apply to loans made by federally insured, state-chartered credit unions as specified in § 741.203 of this chapter. Part 722 of this chapter sets forth requirements for appraisals for certain real estate secured loans made under § 701.21 and any other applicable lending authority. Finally, it is noted that § 701.21 does not apply to loans by Federal credit unions to other credit unions (although certain statutory limitations in section 107 of the Act apply), nor to loans to credit union organizations which are governed by section 107(5)(D) of the Act and part 712 of this chapter.
 
@@ -198,9 +198,7 @@ Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was 
 
 (ii) An immediate family member of an official, or
 
-(iii) Any individual having a common ownership, investment or other pecuniary interest in a business enterprise with an official or with an immediate family member of an official
-
-shall not be more favorable than the rates, terms and conditions for comparable loans or lines of credit to other credit union members. “Immediate family member” means a spouse or other family member living in the same household.
+(iii) Any individual having a common ownership, investment or other pecuniary interest in a business enterprise with an official or with an immediate family member of an official shall not be more favorable than the rates, terms and conditions for comparable loans or lines of credit to other credit union members. “Immediate family member” means a spouse or other family member living in the same household.
 
 (e) *Insured, guaranteed, and advance commitment loans.* Notwithstanding the general 15-year maturity limit on loans to members in paragraph (c)(4) of this section, a loan secured, in full or in part, by the insurance or guarantee of, or with an advance commitment to purchase the loan, in full or in part, by the Federal Government, a State government or any agency of either, may be made for the maturity and under the terms and conditions, including rate of interest, specified in the law, regulations or program under which the insurance, guarantee or commitment is provided.
 

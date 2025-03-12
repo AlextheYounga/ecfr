@@ -1,7 +1,5 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 84 FR 52751, Oct. 3, 2019.
-
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
 Certificate Number: 1004.
@@ -156,7 +154,9 @@ Amendment Number 6 Effective Date: August 17, 2009.
 
 Amendment Number 7 Effective Date: December 28, 2009.
 
-Amendment Number 8 Effective Date: May 2, 2012, as corrected on November 16, 2012 (ADAMS Accession No. ML12213A170); superseded by Amendment 8, Revision 1 Effective Date: February 16, 2016.
+Amendment Number 8 Effective Date: May 2, 2012, as corrected on November 16, 2012 (ADAMS Accession No. ML12213A170); superseded by Amendment 8, Revision 1
+
+Effective Date: February 16, 2016.
 
 Amendment Number 8, Revision 1 Effective Date: February 16, 2016.
 
@@ -171,6 +171,8 @@ Amendment Number 11 Effective Date: February 25, 2019.
 Amendment Number 12 Effective Date: February 25, 2019, as corrected (ADAMS Accession No. ML19109A111).
 
 Amendment Number 13 Effective Date: May 13, 2019, as corrected (ADAMS Accession No. ML19109A122).
+
+Amendment Number 14 Effective Date: December 17, 2019
 
 Safety Analysis Report (SAR) Submitted by: Holtec International.
 

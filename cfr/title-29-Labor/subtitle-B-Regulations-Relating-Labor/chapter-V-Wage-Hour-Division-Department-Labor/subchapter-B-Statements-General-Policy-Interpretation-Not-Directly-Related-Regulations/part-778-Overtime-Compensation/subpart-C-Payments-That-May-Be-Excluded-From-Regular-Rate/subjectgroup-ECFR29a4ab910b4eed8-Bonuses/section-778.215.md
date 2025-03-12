@@ -1,5 +1,7 @@
 ##### § 778.215 Conditions for exclusion of benefit-plan contributions under section 7(e)(4). #####
 
+Link to an amendment published at 84 FR 68772, Dec. 16, 2019.
+
 (a) *General rules.* In order for an employer's contribution to qualify for exclusion from the regular rate under section 7(e)(4) of the Act the following conditions must be met:
 
 (1) The contributions must be made pursuant to a specific plan or program adopted by the employer, or by contract as a result of collective bargaining, and communicated to the employees. This may be either a company-financed plan or an employer-employee contributory plan.

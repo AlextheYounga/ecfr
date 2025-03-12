@@ -1,6 +1,6 @@
 ##### § 747.2003 Review of order reclassifying a credit union on safety and soundness criteria. #####
 
-Link to an amendment published at 80 FR 66723, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.
+Link to an amendment published at 80 FR 66723, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.This amendment was further delayed until Jan. 1, 2022, at 84 FR 68781, Dec. 17, 2019.
 
 (a) *Notice of proposed reclassification based on unsafe or unsound condition or practice.* When the NCUA Board proposes to reclassify a credit union or subject it to the supervisory actions applicable to the next lower net worth category pursuant to §§ 702.102(b) and 702.302(d) of this chapter (each such action hereinafter referred to as “reclassification”), the NCUA Board shall issue and serve on the credit union reasonable prior notice of the proposed reclassification.
 

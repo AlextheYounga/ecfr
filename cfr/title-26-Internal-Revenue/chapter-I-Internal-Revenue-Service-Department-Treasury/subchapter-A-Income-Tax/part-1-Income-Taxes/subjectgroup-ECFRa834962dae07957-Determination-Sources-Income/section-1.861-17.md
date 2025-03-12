@@ -82,13 +82,15 @@
 
 (ii) *Affiliated groups.* In the case of an affiliated group, the period referred to in paragraph (e)(1) of this section shall commence as of the latest taxable year in which any member of the group has changed methods.
 
+(3) *Change of method for taxable years beginning after December 31, 2017, and before January 1, 2020.* A taxpayer otherwise subject to the binding election described in paragraph (e)(1) of this section may change its method for each taxable year beginning after December 31, 2017, and before January 1, 2020, without the prior consent of the Commissioner. The taxpayer's use of a new method constitutes a binding election to use the new method for its return filed for its last year that begins before January 1, 2020, and for four taxable years thereafter.
+
 (f) *Special rules for partnerships* - (1) *Research and experimental expenditures.* For purposes of applying this section, if research and experimental expenditures are incurred by a partnership in which the taxpayer is a partner, the taxpayer's research and experimental expenditures shall include the taxpayer's distributive share of the partnership's research and experimental expenditures.
 
 (2) *Purpose and location of expenditures.* In applying the exception for expenditures undertaken to meet legal requirements under paragraph (a)(4) of this section and the exclusive apportionment for the sales method and the optional gross income methods under paragraph (b) of this section, a partner's distributive share of research and experimental expenditures incurred by a partnership shall be treated as incurred by the partner for the same purpose and in the same location as incurred by the partnership.
 
 (3) *Apportionment under the sales method.* In applying the remaining apportionment for the sales method under paragraph (c) of this section, a taxpayer's sales from a product category shall include the taxpayer's share of any sales from the product category of any partnership in which the taxpayer is a partner. For purposes of the preceding sentence, a taxpayer's share of sales shall be proportionate to the taxpayer's distributive share of the partnership's gross income in the product category.
 
-(g) *Effective date.* This section applies to taxable years beginning after December 31, 1995. However, a taxpayer may at his or her option, apply this section in its entirety to all taxable years beginning after August 1, 1994.
+(g) [Reserved]
 
 (h) *Examples.* The following examples illustrate the application of this section:
 
@@ -204,4 +206,8 @@ Example 6.(i) *Facts.* X, a domestic corporation, is engaged in continuous resea
 |                                            (iv) Amount apportioned to the residual grouping:                                            |$96,850|
 |          (v) Amount apportioned to the statutory grouping of general limitation income from sources without the United States:          |$3,150 |
 
-(B) Since X has elected to use the optional gross income methods of apportionment and its apportionment on the basis of gross income to the statutory grouping, $3,150, is less than 50 percent of its apportionment on the basis of sales to the statutory grouping, $11,039, it must use Option two of paragraph (d)(3) of this section and apportion $5,520 (50 percent of $11,039) to the statutory grouping.[T.D. 8646, 60 FR 66503, Dec. 22, 1995, as amended by T.D. 9441, 74 FR 390, Jan. 5, 2009; T.D. 9568, 76 FR 80136, Dec. 22, 2011]
+(B) Since X has elected to use the optional gross income methods of apportionment and its apportionment on the basis of gross income to the statutory grouping, $3,150, is less than 50 percent of its apportionment on the basis of sales to the statutory grouping, $11,039, it must use Option two of paragraph (d)(3) of this section and apportion $5,520 (50 percent of $11,039) to the statutory grouping.
+
+(i) *Applicability date.* This section applies to taxable years that both begin after December 31, 2017, and end on or after December 4, 2018.
+
+[T.D. 8646, 60 FR 66503, Dec. 22, 1995, as amended by T.D. 9441, 74 FR 390, Jan. 5, 2009; T.D. 9568, 76 FR 80136, Dec. 22, 2011; T.D. 9882, 84 FR 69074, Dec. 17, 2019]

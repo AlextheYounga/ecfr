@@ -1,0 +1,7 @@
+##### § 1466.53 Equitable relief. #####
+
+(a) If a participant relied upon the advice or action of an authorized NRCS representative and did not know, or have reason to know, that the action or advice was improper or erroneous, NRCS may accept the advice or action as meeting program requirements and may grant relief, to the extent it is deemed desirable by NRCS, to provide a fair and equitable treatment because of the good-faith reliance on the part of the participant. The financial or technical liability for any action by a participant that was taken based on the advice of an NRCS certified non-USDA TSP is the responsibility of the certified TSP and will not be assumed by NRCS when NRCS authorizes payment. Where a participant believes that detrimental reliance on the advice or action of an NRCS representative resulted in ineligibility or a program violation, but the participant believes that a good-faith effort to comply was made, the participant may request equitable relief under 7 CFR 635.3.
+
+(b) If, during the term of an EQIP contract, a participant has been found in violation of a provision of the EQIP contract, the O&M agreement, or any document incorporated by reference through failure to fully comply with that provision, the participant may be eligible for equitable relief under 7 CFR 635.4.
+
+(c) NRCS reserves the right to correct all errors in entering data or the results of computations in an EQIP contract. If a participant does not agree to such corrections, NRCS shall terminate the contract.

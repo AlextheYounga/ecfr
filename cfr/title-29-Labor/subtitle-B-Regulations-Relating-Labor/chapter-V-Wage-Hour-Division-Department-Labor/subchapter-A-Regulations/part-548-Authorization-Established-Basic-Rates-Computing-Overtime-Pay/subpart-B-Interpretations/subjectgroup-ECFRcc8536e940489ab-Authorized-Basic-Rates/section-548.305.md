@@ -1,5 +1,7 @@
 ##### § 548.305 Excluding certain additions to wages. #####
 
+Link to an amendment published at 84 FR 68769, Dec. 16, 2019.
+
 (a) Section 548.3(e) authorizes as established basic rates: “The rate or rates (not less than the rates required by section 6 (a) and (b) of the Act) which may be used under the Act to compute overtime compensation of the employee but excluding additional payments in cash or in kind which, if included in the computation of overtime under the Act, would not increase the total compensation of the employee by more than 50 cents a week on the average for all overtime weeks (in excess of the number of hours applicable under section 7(a) of the Act) in the period for which such additional payments are made.”
 
 (b) Section 548.3(e) permits the employer, upon agreement or understanding with the employee, to omit from the computation of overtime certain incidental payments which have a trivial effect on the overtime compensation due. Examples of payments which may be excluded are: modest housing, bonuses or prizes of various sorts, tuition paid by the employer for the employee's attendance at a school, and cash payments or merchandise awards for soliciting or obtaining new business. It may also include such things as payment by the employer of the employee's social security tax.

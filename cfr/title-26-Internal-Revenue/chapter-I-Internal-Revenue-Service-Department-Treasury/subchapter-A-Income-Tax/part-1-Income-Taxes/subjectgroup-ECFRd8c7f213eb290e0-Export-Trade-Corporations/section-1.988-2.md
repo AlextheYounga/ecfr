@@ -36,7 +36,7 @@ Example.X is a corporation on the accrual method of accounting with the U.S. dol
 
 Example.G is a U.S. corporation with the U.S. dollar as its functional currency. On January 1, 1989, G enters into a contract to purchase a paper manufacturing machine for 10,000,000 British pounds (£) for delivery on January 1, 1991. On January 1, 1991, when G exchanges £10,000,000 (which G purchased for $12,000,000) for the machine, the fair market value of the machine is £17,000,000. On January 1, 1991, the spot exchange rate is £1 = $1.50. Under paragraph (a)(2)(ii)(B) of this section, the transaction is treated as an exchange of £10,000,000 for $15,000,000 and the purchase of the machine for $15,000,000. Accordingly, in computing G's exchange gain of $3,000,000 on the disposition of the £10,000,000, the amount realized is $15,000,000. G's basis in the machine is $15,000,000. No gain is recognized on the bargain purchase of the machine.
 
-(iii) *Adjusted basis* - (A) *In general.* Except as provided in paragraph (a)(2)(iii)(B) of this section, the adjusted basis of nonfunctional currency is determined under the applicable provisions of the Internal Revenue Code (*e.g.,* sections 1011 through 1023). A taxpayer that uses a spot rate convention under § 1.988-1 (d)(3) to determine exchange gain or loss with respect to a receivable shall determine the basis of nonfunctional currency received in satisfaction of such receivable in a manner consistent with such convention.
+(iii) *Adjusted basis* - (A) *In general.* Except as provided in paragraphs (a)(2)(iii)(B) and (C) of this section, the adjusted basis of nonfunctional currency is determined under the applicable provisions of the Internal Revenue Code (*e.g.,* sections 1011 through 1023). A taxpayer that uses a spot rate convention under § 1.988-1 (d)(3) to determine exchange gain or loss with respect to a receivable shall determine the basis of nonfunctional currency received in satisfaction of such receivable in a manner consistent with such convention.
 
 (B) *Determination of the basis of nonfunctional currency withdrawn from an account with a bank or other financial institution* - (*1*) *In general.* The basis of nonfunctional currency withdrawn from an account with a bank or other financial institution shall be determined under any reasonable method that is consistently applied from year to year by the taxpayer to all accounts denominated in a nonfunctional currency. For example, a taxpayer may use a first in first out method, a last in first out method, a pro rata method (as illustrated in the example below), or any other reasonable method that is consistently applied. However, a method that consistently results in units of nonfunctional currency with the highest basis being withdrawn first shall not be considered reasonable.
 
@@ -53,6 +53,8 @@ Example.(i) X, a cash basis individual with the dollar as his functional currenc
 |12/31/89|                      |      50 Sf      |       26        |            600            |
 
 (ii) On January 1, 1990, X withdraws 500 Swiss francs from the account. X may determine his basis in the Swiss francs by multiplying the aggregate U.S. dollar basis of Swiss francs in the account by a fraction the numerator of which is the number of Swiss francs withdrawn from the account and the denominator is the total number of Swiss francs in the account. Under this method, X's basis in the 500 Swiss francs is $250 computed as follows:![](/graphics/ec09oc91.070.gif)(iii) X's basis in the Swiss francs remaining in the account is $350 ($600−$250). X must use this method consistently from year to year with respect to withdrawals of nonfunctional currency from all of X's accounts.
+
+(C) *Basis in refunded foreign income tax.* See § 1.986(a)-1(e) for rules relating to the determination of basis in refunded foreign income tax denominated in nonfunctional currency.
 
 (iv) Purchase and sale of stock or securities traded on an established securities market by cash basis taxpayer -
 
@@ -567,4 +569,4 @@ Example.(i) On January 1, 1990, X, a U.S. corporation with the dollar as its fun
 
 (i) [Reserved]. For further guidance, see § 1.988-2T(i).
 
-[T.D. 8400, 57 FR 9183, Mar. 17, 1992, as amended by T.D. 8491, 58 FR 53135, Oct. 14, 1993; T.D. 8860, 65 FR 2028, Jan. 13, 2000; T.D. 9157, 69 FR 52819, Aug. 30, 2004; T.D. 9795, 81 FR 88879, Dec. 8, 2016]
+[T.D. 8400, 57 FR 9183, Mar. 17, 1992, as amended by T.D. 8491, 58 FR 53135, Oct. 14, 1993; T.D. 8860, 65 FR 2028, Jan. 13, 2000; T.D. 9157, 69 FR 52819, Aug. 30, 2004; T.D. 9795, 81 FR 88879, Dec. 8, 2016; T.D. 9882, 84 FR 69123, Dec. 17, 2019]

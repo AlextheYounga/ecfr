@@ -134,7 +134,7 @@ the U.S. shareholder shall allocate, to its gross income in the various separate
 
 (B) The controlled foreign corporation has outstanding a loan or loans to one or more other related controlled foreign corporations, or the controlled foreign corporation has made a direct or indirect capital contribution to one or more other related controlled foreign corporations which have outstanding a loan or loans to one or more other related controlled foreign corporations, then, to the extent of the aggregate amount of its capital contributions in taxable years beginning after December 31, 1986, to the related controlled foreign corporation that made such loans or additional contributions, the U.S. shareholder itself shall be treated as having made the loans decribed in paragraph (e)(8)(v)(B) of this section and, thus, such loan amounts shall be considered related group indebtedness. However, for purposes of paragraph (e)(4) of this section, interest income derived by the U.S. shareholder during the year from related group indebtedness shall not include any income derived with respect to the U.S. shareholder's ownership of stock in the related controlled foreign corporation that made such loans or additional contributions.
 
-(vi) *Classification of certain stock as related person indebtedness.* In determining the amount of its related group indebtedness for any taxable year, a U.S. shareholder must treat as related group indebtedness its holding of stock in a related controlled foreign corporation if, during such taxable year, such related controlled foreign corporation claims a deduction for interest under foreign law for distributions on such stock. However, for purposes of paragraph (e)(4) of this section, interest income derived by the U.S. shareholder during the year from related group indebtedness shall not include any income derived with respect to the U.S. shareholder's ownership of stock in the related controlled foreign corporation.
+(vi) *Classification of hybrid stock.* In determining the amount of its related group indebtedness for any taxable year, a U.S. shareholder must not treat stock in a related controlled foreign corporation as related group indebtedness, regardless of whether the related controlled foreign corporation claims a deduction for interest under foreign law for distributions on such stock. For purposes of determining the foreign base period ratio under paragraph (e)(2)(iv) of this section for a taxable year that ends on or after December 4, 2018, the rules of this paragraph (e)(8)(vi) apply to determine the related group debt-to-asset ratio in each taxable year included in the foreign base period, including in taxable years that end before December 4, 2018.
 
 (9) *Corporate events* - (i) *Initial acquisition of a controlled foreign corporation.* If the foreign base period of the U.S. shareholder for any year includes a base year in which the U.S. shareholder did not hold stock in any related controlled foreign corporation, then, in computing the foreign base period ratio, the related group debt-to-asset ratio of the U.S. shareholder for any such base year shall be deemed to be 0.10.
 
@@ -164,9 +164,7 @@ the U.S. shareholder shall allocate, to its gross income in the various separate
 
 (B) As having the same related group debt-to-asset ratio and debt-to-asset ratio as the distributing U.S. shareholder in each year preceding the year of distribution for purposes of applying this paragraph (e) to the year of distibution and subsequent years of the distributed corporation.
 
-(10) *Effective date* - (i) *Taxable years beginning after December 31, 1991.* The provisions of this paragraph (e) apply to all taxable years beginning after December 31, 1991.
-
-(ii) *Taxable years beginning after December 31, 1987 and before January 1, 1992.* The provisions of § 1.861-10T (e) apply to taxable years beginning after December 31, 1987, and before January 1, 1992. The taxpayer may elect to apply the provisions of this paragraph (e) (in lieu of the provisions of § 1.861-10T (e)) for any taxable year beginning after December 31, 1987, but this paragraph (e) must then be applied to all subsequent taxable years.
+(10) [Reserved]
 
 (11) The following example illustrates the provisions of this paragraph (e):
 
@@ -221,4 +219,8 @@ $5,000 × $9,600 / $50,000 = $960(b) Therefore, $960 of X's third party interest
 
 Reduction of X's assets generating foreign source general limitation income:
 
-![](/graphics/ec07oc91.002.gif)Reduction of X's assets generating foreign source high withholding tax interest income:![](/graphics/ec07oc91.003.gif)[T.D. 8410, 57 FR 13022, Apr. 15, 1992; 57 FR 28012, June 23, 1992]
+![](/graphics/ec07oc91.002.gif)Reduction of X's assets generating foreign source high withholding tax interest income:![](/graphics/ec07oc91.003.gif)
+
+(f) *Applicability date.* This section applies to taxable years that end on or after December 4, 2018.
+
+[T.D. 8410, 57 FR 13022, Apr. 15, 1992; 57 FR 28012, June 23, 1992, as amended by T.D. 9882, 84 FR 69068, Dec. 17, 2019]
