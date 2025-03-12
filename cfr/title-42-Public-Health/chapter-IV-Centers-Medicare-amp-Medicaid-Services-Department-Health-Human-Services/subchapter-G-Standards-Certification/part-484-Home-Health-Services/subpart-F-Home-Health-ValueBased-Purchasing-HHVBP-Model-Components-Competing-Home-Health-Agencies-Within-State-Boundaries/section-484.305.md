@@ -1,5 +1,7 @@
 ##### § 484.305 Definitions. #####
 
+Link to an amendment published at 82 FR 51752, Nov. 7, 2017.
+
 As used in this subpart -
 
 *Applicable measure* means a measure for which the competing HHA has provided 20 home health episodes of care per year.

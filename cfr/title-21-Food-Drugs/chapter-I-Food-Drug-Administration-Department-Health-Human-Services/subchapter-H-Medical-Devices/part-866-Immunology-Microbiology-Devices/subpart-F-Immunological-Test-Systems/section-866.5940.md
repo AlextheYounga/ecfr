@@ -90,7 +90,7 @@
 
 (*3*) Completion rate, non-responder rate, and reasons for non-response/data exclusion, as well as a summary table of comprehension rates regarding comprehension concepts (purpose of test, test results, test limitations, ethnicity relevance for the test results, etc.) for each study report.
 
-(4) Your 21 CFR 809.10 compliant labeling and any test report generated must include the following warning and limitation statements, as applicable:
+(b) *Classification.* Class II (special controls). The device is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to the limitations in § 866.9, except § 866.9(c)(2). Autosomal recessive carrier screening gene mutation detection system must comply with the following special controls:
 
 (i) A warning that reads “The test is intended only for autosomal recessive carrier screening in adults of reproductive age.”
 
@@ -128,4 +128,4 @@
 
 (6) The distribution of this device, excluding the collection device described in paragraph (b)(2) of this section, shall be limited to the manufacturer, the manufacturer's subsidiaries, and laboratories regulated under the Clinical Laboratory Improvement Amendments.
 
-[80 FR 65630, Oct. 27, 2015]
+[80 FR 65630, Oct. 27, 2015, as amended at 82 FR 51570, Nov. 7, 2017]
