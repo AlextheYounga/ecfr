@@ -1,0 +1,3 @@
+##### § 200.94 Supplies. #####
+
+*Supplies* means all tangible personal property other than those described in § 200.33 Equipment. A computing device is a supply if the acquisition cost is less than the lesser of the capitalization level established by the non-Federal entity for financial statement purposes or $5,000, regardless of the length of its useful life. See also §§ 200.20 Computing devices and 200.33 Equipment.

@@ -1,0 +1,5 @@
+##### § 1400.1013 The administrative record. #####
+
+The administrative record for DOI suspension and debarment actions consists of the initiating action referral memorandum and its attached documents; the action notice; contested action scheduling correspondence; written information, arguments and supporting documents submitted by a respondent in opposition to the action notice; written information, arguments and supporting documents submitted by the OIG ARD in response to information provided by a respondent; the electronic recording of the PMIO, where a PMIO is held as part of the proceeding; where fact-finding is conducted, the transcribed record of the fact-finding proceedings, and findings of fact; and the final written determination by the Suspending and Debarring Official on the action; or, alternatively, the administrative agreement endorsed by the respondent and the Suspending and Debarring Official that resolves an action.
+
+[81 FR 65857, Sept. 26, 2016]

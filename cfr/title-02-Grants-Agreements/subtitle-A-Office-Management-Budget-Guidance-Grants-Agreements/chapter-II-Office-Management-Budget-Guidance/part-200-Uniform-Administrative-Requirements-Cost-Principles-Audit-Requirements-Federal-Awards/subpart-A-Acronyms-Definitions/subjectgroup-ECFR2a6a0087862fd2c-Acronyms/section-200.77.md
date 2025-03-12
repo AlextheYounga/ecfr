@@ -1,0 +1,3 @@
+##### § 200.77 Period of performance. #####
+
+*Period of performance* means the time during which the non-Federal entity may incur new obligations to carry out the work authorized under the Federal award. The Federal awarding agency or pass-through entity must include start and end dates of the period of performance in the Federal award (see §§ 200.210 Information contained in a Federal award paragraph (a)(5) and 200.331 Requirements for pass-through entities, paragraph (a)(1)(iv)).

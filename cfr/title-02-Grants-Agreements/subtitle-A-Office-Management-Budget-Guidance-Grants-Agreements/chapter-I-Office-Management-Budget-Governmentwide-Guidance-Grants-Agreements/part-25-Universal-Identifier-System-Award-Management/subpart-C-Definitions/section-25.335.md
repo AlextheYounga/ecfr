@@ -1,0 +1,3 @@
+##### § 25.335 Indian Tribe (or “Federally recognized Indian Tribe”). #####
+
+*Indian Tribe* (or “*Federally recognized Indian Tribe”*) means any Indian Tribe, band, nation, or other organized group or community, including any Alaskan Native village or regional or village corporation (as defined in, or established under, the Alaskan Native Claims Settlement Act (43 U.S.C. 1601, *et seq.*)) that is recognized by the United States as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.

@@ -1,0 +1,3 @@
+##### § 180.140 Does an exclusion under the nonprocurement system affect a person's eligibility for Federal procurement contracts? #####
+
+If any Federal agency excludes a person under Executive Order 12549 or Executive Order 12689, on or after August 25, 1995, the excluded person is also ineligible for Federal procurement transactions under the FAR. Therefore, an exclusion under this part has reciprocal effect in Federal procurement transactions.

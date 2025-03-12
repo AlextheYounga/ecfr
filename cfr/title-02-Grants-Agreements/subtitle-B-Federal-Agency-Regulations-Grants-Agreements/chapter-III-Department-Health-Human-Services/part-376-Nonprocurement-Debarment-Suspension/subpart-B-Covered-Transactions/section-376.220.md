@@ -1,0 +1,3 @@
+##### § 376.220 What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions? #####
+
+In addition to the contracts covered under 2 CFR 180.220(b), this part also applies to all lower tiers of subcontracts under covered nonprocurement transactions, as permitted under the OMB guidance at 2 CFR 180.220(c). (See optional lower tier coverage in the diagram in the appendix to 2 CFR part 180.)

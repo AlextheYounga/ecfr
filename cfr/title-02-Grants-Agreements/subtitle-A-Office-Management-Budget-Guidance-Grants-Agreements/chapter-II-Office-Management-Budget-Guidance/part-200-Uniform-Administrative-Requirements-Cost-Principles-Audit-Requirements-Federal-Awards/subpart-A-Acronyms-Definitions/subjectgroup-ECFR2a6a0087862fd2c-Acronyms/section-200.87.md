@@ -1,0 +1,5 @@
+##### § 200.87 Research and Development (R&D). #####
+
+*R&D* means all research activities, both basic and applied, and all development activities that are performed by non-Federal entities. The term research also includes activities involving the training of individuals in research techniques where such activities utilize the same facilities as other research and development activities and where such activities are not included in the instruction function.
+
+“Research” is defined as a systematic study directed toward fuller scientific knowledge or understanding of the subject studied. “Development” is the systematic use of knowledge and understanding gained from research directed toward the production of useful materials, devices, systems, or methods, including design and development of prototypes and processes.

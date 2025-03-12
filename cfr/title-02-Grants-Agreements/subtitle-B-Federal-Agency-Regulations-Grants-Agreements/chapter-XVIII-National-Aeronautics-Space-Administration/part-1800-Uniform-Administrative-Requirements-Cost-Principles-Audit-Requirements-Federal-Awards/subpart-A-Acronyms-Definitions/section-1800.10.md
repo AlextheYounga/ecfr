@@ -1,0 +1,3 @@
+##### § 1800.10 Acronyms. #####
+
+The following acronyms are a supplement to the acronyms set forth at 2 CFR 200.0ACH Automated Clearing HouseAO Announcement of OpportunityCAN Cooperative Agreement NoticeCFR Code of Federal RegulationsCNSI Classified National Security InformationEPA Environmental Protection AgencyHBCU Historically Black Colleges and UniversitiesLEP Limited English ProficiencyMI Minority InstitutionsMYA Multiple Year AwardNASA National Aeronautics and Space AdministrationNFS NASA FAR SupplementNPR NASA Procedural RequirementsNRA NASA Research AnnouncementNSSC NASA Shared Services CenterOMB Office of Management and BudgetONR Office of Naval ResearchRPPR Research Performance Progress ReportSTIP NASA Scientific and Technical Information Program

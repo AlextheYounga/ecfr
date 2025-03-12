@@ -1,0 +1,3 @@
+##### § 2520.10 What does this part do? #####
+
+This part adopts the Office of Management and Budget (OMB) guidance in subparts A through I of 2 CFR part 180, as supplemented by this part, as the NSF policies and procedures for nonprocurement debarment and suspension. It thereby gives regulatory effect for NSF to the OMB guidance as supplemented by this part. This part satisfies the requirements in section 3 of Executive Order 12549, “Debarment and Suspension” (3 CFR 1986 Comp., p. 189), Executive Order 12689, “Debarment and Suspension” (3 CFR 1989 Comp., p. 235) and 31 U.S.C. 6101 note (Section 2455, Public Law 103-355, 108 Stat. 3327).

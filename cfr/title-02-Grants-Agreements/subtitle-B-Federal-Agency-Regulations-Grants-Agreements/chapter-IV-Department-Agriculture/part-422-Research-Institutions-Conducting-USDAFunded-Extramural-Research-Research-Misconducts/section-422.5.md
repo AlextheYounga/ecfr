@@ -1,0 +1,13 @@
+##### § 422.5 Reservation of right to conduct subsequent inquiry, investigation, and adjudication. #####
+
+(a) USDA reserves the right to conduct its own inquiry, investigation, and adjudication into allegations of research misconduct at a research institution conducting extramural research subsequent to the proceedings of the research institution related to the same allegation. This may be necessary if the USDA RIO or ARIO believes, in his or her sound discretion, that despite the Panel's finding that the research institution in question had appropriate and OSTP-compliant research misconduct procedures in place, the research institution conducting the extramural research at issue:
+
+(1) Did not adhere to its own research misconduct procedures;
+
+(2) Did not conduct research misconduct proceedings in a fair, unbiased, or independent manner; or
+
+(3) Has not completed research misconduct inquiry, investigation, or adjudication in a timely manner.
+
+(b) Additionally, USDA reserves the right to conduct its own inquiry, investigation, and adjudication into allegations of research misconduct at a research institution conducting extramural research subsequent to the proceedings of the research institution related to the same allegation for any other reason that the USDA RIO or ARIO considers it appropriate to conduct research misconduct proceedings in lieu of the research institution's conducting the extramural research at issue. This right is subject to paragraph (c) of this section.
+
+(c) In cases where the USDA RIO or ARIO believes it is necessary for USDA to conduct its own inquiry, investigation, and adjudication subsequent to the proceedings of the research institution related to the same allegation, the USDA RIO or ARIO shall reconvene the Panel, which will determine whether it is appropriate for the relevant USDA agency to conduct the research misconduct proceedings related to the allegation(s) of research misconduct. If the Panel determines that it is appropriate for a USDA agency to conduct the proceedings, the ARIO will immediately notify the research institution in question. The research institution must then promptly provide the relevant USDA agency with documentation of the research misconduct proceedings the research institution has conducted to that point, and the USDA agency will conduct research misconduct proceedings in accordance with the Agency research misconduct procedures.

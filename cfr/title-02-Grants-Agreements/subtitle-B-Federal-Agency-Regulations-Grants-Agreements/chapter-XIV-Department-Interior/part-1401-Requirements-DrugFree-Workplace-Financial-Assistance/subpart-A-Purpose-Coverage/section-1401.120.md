@@ -1,0 +1,3 @@
+##### § 1401.120 Does this part affect the Federal contracts that I receive? #####
+
+It will affect future contract awards indirectly if you are debarred or suspended for a violation of the requirements of this part, as described in § 1401.610(c). However, this part does not directly apply to procurement contracts. The portion of the Drug-Free Workplace Act of 1988 that applies to Federal procurement contracts is carried out through the Federal Acquisition Regulation in 48 CFR part 23, subpart 23.5.

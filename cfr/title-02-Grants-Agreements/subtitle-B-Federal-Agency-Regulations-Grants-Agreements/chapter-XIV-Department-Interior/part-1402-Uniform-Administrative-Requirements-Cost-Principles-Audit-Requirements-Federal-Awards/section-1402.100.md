@@ -1,0 +1,3 @@
+##### § 1402.100 Purpose. #####
+
+The Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards set forth in 2 CFR part 200 apply to the Department of the Interior. This part adopts, as the Department of the Interior (DOI) policies and procedures, the Office of Management and Budget's (OMB) Uniform Administrative Requirements, Cost Principles, and Audit Requirements set forth in 2 CFR part 200. The Uniform guidance applies in full except as stated in §§ 1402.102 and 1402.103.

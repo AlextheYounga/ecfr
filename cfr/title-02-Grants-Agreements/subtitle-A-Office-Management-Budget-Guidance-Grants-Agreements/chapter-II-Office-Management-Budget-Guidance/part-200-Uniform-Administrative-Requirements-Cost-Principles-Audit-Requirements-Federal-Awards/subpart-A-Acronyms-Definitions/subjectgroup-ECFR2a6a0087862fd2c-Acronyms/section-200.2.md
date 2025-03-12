@@ -1,0 +1,3 @@
+##### § 200.2 Acquisition cost. #####
+
+*Acquisition cost* means the cost of the asset including the cost to ready the asset for its intended use. Acquisition cost for equipment, for example, means the net invoice price of the equipment, including the cost of any modifications, attachments, accessories, or auxiliary apparatus necessary to make it usable for the purpose for which it is acquired. Acquisition costs for software includes those development costs capitalized in accordance with generally accepted accounting principles (GAAP). Ancillary charges, such as taxes, duty, protective in transit insurance, freight, and installation may be included in or excluded from the acquisition cost in accordance with the non-Federal entity's regular accounting practices.

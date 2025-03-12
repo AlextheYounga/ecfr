@@ -1,0 +1,3 @@
+##### § 801.1100 General. #####
+
+Field facility directors are authorized to order a limited denial of participation affecting any participant or contractor and its affiliates except lenders and manufactured home manufacturers. In each case, even if the offense or violation is of a criminal, fraudulent or other serious nature, the decision to order a limited denial of participation shall be discretionary and in the best interests of the Government.

@@ -1,0 +1,3 @@
+##### § 200.73 Oversight agency for audit. #####
+
+*Oversight agency for audit* means the Federal awarding agency that provides the predominant amount of funding directly to a non-Federal entity not assigned a cognizant agency for audit. When there is no direct funding, the Federal awarding agency which is the predominant source of pass-through funding must assume the oversight responsibilities. The duties of the oversight agency for audit and the process for any reassignments are described in § 200.513 Responsibilities, paragraph (b).

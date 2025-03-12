@@ -1,0 +1,3 @@
+##### § 1103.205 Timing of payments made using the reimbursement method. #####
+
+In DoD Components' awards to institutions of higher education, hospitals, and other nonprofit organizations, the terms and conditions implementing the provisions of 2 CFR 200.305(b)(3) concerning timing of payments when the reimbursement method is used must specify that the DoD payment office generally makes payment within 30 calendar days after receipt of the request for reimbursement by the office designated to receive the request, unless the request is reasonably believed to be improper. This substitution of “generally makes payment” for “must make payment” maintains long-standing policy established in 32 CFR 32.22(e)(1).

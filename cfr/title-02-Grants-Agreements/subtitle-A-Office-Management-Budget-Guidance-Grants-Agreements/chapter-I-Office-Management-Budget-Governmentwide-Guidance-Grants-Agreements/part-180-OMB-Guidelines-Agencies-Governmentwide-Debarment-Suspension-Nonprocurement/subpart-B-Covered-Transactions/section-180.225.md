@@ -1,0 +1,3 @@
+##### § 180.225 How do I know if a transaction in which I may participate is a covered transaction? #####
+
+As a participant in a transaction, you will know that it is a covered transaction because the Federal agency regulations governing the transaction, the appropriate Federal agency official or participant at the next higher tier who enters into the transaction with you, will tell you that you must comply with applicable portions of this part.

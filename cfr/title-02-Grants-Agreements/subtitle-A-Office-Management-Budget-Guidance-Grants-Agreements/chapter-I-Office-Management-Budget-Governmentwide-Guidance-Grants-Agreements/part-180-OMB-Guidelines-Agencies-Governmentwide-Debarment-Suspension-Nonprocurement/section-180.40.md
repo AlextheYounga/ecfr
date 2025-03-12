@@ -1,0 +1,3 @@
+##### § 180.40 How are these guidelines maintained? #####
+
+The Interagency Committee on Debarment and Suspension established by section 4 of E.O. 12549 recommends to the OMB any needed revisions to the guidelines in this part. The OMB publishes proposed changes to the guidelines in the Federal Register for public comment, considers comments with the help of the Interagency Committee on Debarment and Suspension, and issues the final guidelines.

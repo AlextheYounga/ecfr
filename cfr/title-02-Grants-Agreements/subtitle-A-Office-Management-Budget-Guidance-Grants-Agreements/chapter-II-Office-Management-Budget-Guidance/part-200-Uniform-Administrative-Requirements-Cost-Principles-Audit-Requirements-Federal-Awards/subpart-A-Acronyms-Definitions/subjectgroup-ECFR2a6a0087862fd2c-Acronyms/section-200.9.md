@@ -1,0 +1,3 @@
+##### § 200.9 Central service cost allocation plan. #####
+
+*Central service cost allocation plan* means the documentation identifying, accumulating, and allocating or developing billing rates based on the allowable costs of services provided by a state, local government, or Indian tribe on a centralized basis to its departments and agencies. The costs of these services may be allocated or billed to users.

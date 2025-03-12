@@ -1,0 +1,3 @@
+##### § 1103.200 Exception for small awards. #####
+
+For small awards to institutions of higher education, hospitals, and other nonprofit organizations, DoD Components' terms and conditions may apply less restrictive requirements to recipients than the OMB guidance in 2 CFR part 200 specifies, except for requirements that are statutory. This exception maintains long-standing policy established in 32 CFR 32.4.

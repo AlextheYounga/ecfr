@@ -1,0 +1,3 @@
+##### § 200.36 Federal Audit Clearinghouse (FAC). #####
+
+*FAC* means the clearinghouse designated by OMB as the repository of record where non-Federal entities are required to transmit the reporting packages required by Subpart F - Audit Requirements of this part. The mailing address of the FAC is Federal Audit Clearinghouse, Bureau of the Census, 1201 E. 10th Street, Jeffersonville, IN 47132 and the web address is: *http://harvester.census.gov/sac/*. Any future updates to the location of the FAC may be found at the OMB Web site.

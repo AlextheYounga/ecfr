@@ -1,0 +1,3 @@
+##### § 1200.137 Who in the Department of Transportation may grant an exception to let an excluded person participate in a covered transaction? #####
+
+Within the Department of Transportation, Office of the Secretary, the Secretary or an official designated by the Secretary may grant an exception permitting an excluded person to participate in a particular covered transaction. Within an Operating Administration of the Department of Transportation, the head of the operating administration may grant an exception permitting an excluded person to participate in a particular covered transaction. The head of an operating administration may delegate this function and authorize successive delegations.

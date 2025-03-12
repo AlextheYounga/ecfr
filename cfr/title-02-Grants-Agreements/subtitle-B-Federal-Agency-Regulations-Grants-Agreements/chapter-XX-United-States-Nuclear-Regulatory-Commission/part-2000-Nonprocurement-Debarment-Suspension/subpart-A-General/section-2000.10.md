@@ -1,0 +1,3 @@
+##### § 2000.10 What does this part do? #####
+
+This part promulgates a regulation adopting the Office of Management and Budget (OMB) guidance in subparts A through I of 2 CFR part 180, establishing the United States Nuclear Regulatory Commission (NRC) policies and procedures for nonprocurement debarment and suspension. NRC thereby gives regulatory effect to the OMB guidance. It also supplements the OMB guidance by identifying NRC implementing officials and identifying how to pass these requirements through to other entities.

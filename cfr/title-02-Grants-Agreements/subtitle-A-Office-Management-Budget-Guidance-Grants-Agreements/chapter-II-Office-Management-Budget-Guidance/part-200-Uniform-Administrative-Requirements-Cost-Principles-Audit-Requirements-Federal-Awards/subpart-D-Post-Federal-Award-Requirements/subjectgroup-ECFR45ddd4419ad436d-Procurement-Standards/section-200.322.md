@@ -1,0 +1,5 @@
+##### § 200.322 Procurement of recovered materials. #####
+
+A non-Federal entity that is a state agency or agency of a political subdivision of a state and its contractors must comply with section 6002 of the Solid Waste Disposal Act, as amended by the Resource Conservation and Recovery Act. The requirements of Section 6002 include procuring only items designated in guidelines of the Environmental Protection Agency (EPA) at 40 CFR part 247 that contain the highest percentage of recovered materials practicable, consistent with maintaining a satisfactory level of competition, where the purchase price of the item exceeds $10,000 or the value of the quantity acquired during the preceding fiscal year exceeded $10,000; procuring solid waste management services in a manner that maximizes energy and resource recovery; and establishing an affirmative procurement program for procurement of recovered materials identified in the EPA guidelines.
+
+[78 FR 78608, Dec. 26, 2013, as amended at 79 FR 75885, Dec. 19, 2014]

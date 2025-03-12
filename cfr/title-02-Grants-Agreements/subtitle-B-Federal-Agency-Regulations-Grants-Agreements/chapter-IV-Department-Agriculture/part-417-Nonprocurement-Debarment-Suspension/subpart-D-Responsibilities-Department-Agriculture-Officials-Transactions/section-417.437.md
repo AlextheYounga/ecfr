@@ -1,0 +1,3 @@
+##### § 417.437 What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435? #####
+
+To communicate to a participant the requirements described in 2 CFR 180.435, you must include a term or condition in the transaction that requires the participant's compliance with subpart C of 2 CFR part 180, as supplemented by subpart C of this part, and requires the participant to include a similar term or condition in lower tier covered transactions.

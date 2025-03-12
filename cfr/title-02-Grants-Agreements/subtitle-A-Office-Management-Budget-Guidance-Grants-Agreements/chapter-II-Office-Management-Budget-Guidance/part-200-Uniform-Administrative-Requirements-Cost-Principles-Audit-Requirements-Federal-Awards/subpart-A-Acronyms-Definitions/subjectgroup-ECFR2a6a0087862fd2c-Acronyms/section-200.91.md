@@ -1,0 +1,3 @@
+##### § 200.91 Student Financial Aid (SFA). #####
+
+*SFA* means Federal awards under those programs of general student assistance, such as those authorized by Title IV of the Higher Education Act of 1965, as amended, (20 U.S.C. 1070-1099d), which are administered by the U.S. Department of Education, and similar programs provided by other Federal agencies. It does not include Federal awards under programs that provide fellowships or similar Federal awards to students on a competitive basis, or for specified studies or research.

@@ -1,0 +1,3 @@
+##### § 200.45 Fixed amount awards. #####
+
+*Fixed amount awards* means a type of grant agreement under which the Federal awarding agency or pass-through entity provides a specific level of support without regard to actual costs incurred under the Federal award. This type of Federal award reduces some of the administrative burden and record-keeping requirements for both the non-Federal entity and Federal awarding agency or pass-through entity. Accountability is based primarily on performance and results. See §§ 200.201 Use of grant agreements (including fixed amount awards), cooperative agreements, and contracts, paragraph (b) and 200.332 Fixed amount subawards.

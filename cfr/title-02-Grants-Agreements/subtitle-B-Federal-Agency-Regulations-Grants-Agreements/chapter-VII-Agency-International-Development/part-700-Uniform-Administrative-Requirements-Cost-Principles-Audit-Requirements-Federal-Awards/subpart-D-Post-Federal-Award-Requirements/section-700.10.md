@@ -1,0 +1,3 @@
+##### § 700.10 Cost sharing or matching. #####
+
+Unrecovered indirect costs, including indirect costs on cost sharing or matching may be included as part of cost sharing or matching. Unrecovered indirect cost means the difference between the amount charged to the Federal award and the amount which would have been charged to the Federal award under the non-Federal entity's approved negotiated indirect cost rate.

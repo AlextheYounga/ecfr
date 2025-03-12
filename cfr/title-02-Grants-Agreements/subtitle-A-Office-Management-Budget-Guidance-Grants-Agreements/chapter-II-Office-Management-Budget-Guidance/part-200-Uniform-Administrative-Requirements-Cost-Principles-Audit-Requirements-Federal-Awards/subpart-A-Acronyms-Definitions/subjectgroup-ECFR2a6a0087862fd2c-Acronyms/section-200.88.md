@@ -1,0 +1,3 @@
+##### § 200.88 Simplified acquisition threshold. #####
+
+*Simplified acquisition threshold* means the dollar amount below which a non-Federal entity may purchase property or services using small purchase methods. Non-Federal entities adopt small purchase procedures in order to expedite the purchase of items costing less than the simplified acquisition threshold. The simplified acquisition threshold is set by the Federal Acquisition Regulation at 48 CFR Subpart 2.1 (Definitions) and in accordance with 41 U.S.C. 1908. As of the publication of this part, the simplified acquisition threshold is $150,000, but this threshold is periodically adjusted for inflation. (Also see definition of § 200.67 Micro-purchase.)

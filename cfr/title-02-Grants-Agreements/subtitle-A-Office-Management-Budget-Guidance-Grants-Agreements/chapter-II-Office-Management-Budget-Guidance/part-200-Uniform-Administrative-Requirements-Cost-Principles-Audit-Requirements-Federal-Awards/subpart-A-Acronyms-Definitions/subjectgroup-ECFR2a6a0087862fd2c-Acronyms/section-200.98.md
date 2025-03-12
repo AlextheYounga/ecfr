@@ -1,0 +1,3 @@
+##### § 200.98 Unobligated balance. #####
+
+*Unobligated balance* means the amount of funds under a Federal award that the non-Federal entity has not obligated. The amount is computed by subtracting the cumulative amount of the non-Federal entity's unliquidated obligations and expenditures of funds under the Federal award from the cumulative amount of the funds that the Federal awarding agency or pass-through entity authorized the non-Federal entity to obligate.

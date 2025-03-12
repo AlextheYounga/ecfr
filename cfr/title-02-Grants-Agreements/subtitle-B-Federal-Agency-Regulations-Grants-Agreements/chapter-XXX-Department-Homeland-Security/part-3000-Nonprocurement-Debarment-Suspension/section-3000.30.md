@@ -1,0 +1,3 @@
+##### § 3000.30 What policies and procedures must I follow? #####
+
+The Department of Homeland Security policies and procedures that you must follow are the policies and procedures specified in each applicable section of the OMB guidance in Subparts A through I of 2 CFR Part 180, as that section is supplemented by the section in this part with the same section number. The contracts that are covered transactions, for example, are specified by section 220 of the OMB guidance (*i.e.,* 2 CFR 180.220) as supplemented by section 220 in this part (*i.e.,* § 3000.220). For any section of OMB guidance in Subparts A through I of 2 CFR Part 180 that has no corresponding section in this part, Department of Homeland Security policies and procedures are those in the OMB guidance.

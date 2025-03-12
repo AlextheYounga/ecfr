@@ -1,0 +1,3 @@
+##### § 200.28 Cost objective. #####
+
+*Cost objective* means a program, function, activity, award, organizational subdivision, contract, or work unit for which cost data are desired and for which provision is made to accumulate and measure the cost of processes, products, jobs, capital projects, etc. A cost objective may be a major function of the non-Federal entity, a particular service or project, a Federal award, or an indirect (Facilities & Administrative (F&A)) cost activity, as described in Subpart E - Cost Principles of this Part. See also §§ 200.44 Final cost objective and 200.60 Intermediate cost objective.

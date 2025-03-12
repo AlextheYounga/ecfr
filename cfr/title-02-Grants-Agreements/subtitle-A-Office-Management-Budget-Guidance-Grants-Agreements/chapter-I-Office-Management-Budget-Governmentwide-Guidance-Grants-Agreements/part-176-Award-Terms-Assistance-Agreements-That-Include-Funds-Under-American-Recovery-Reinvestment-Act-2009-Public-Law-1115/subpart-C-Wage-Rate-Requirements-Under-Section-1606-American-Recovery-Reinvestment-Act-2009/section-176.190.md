@@ -1,0 +1,9 @@
+##### § 176.190 Award term—Wage rate requirements under Section 1606 of the Recovery Act. #####
+
+When issuing announcements or requesting applications for Recovery Act programs or activities that may involve construction, alteration, maintenance, or repair the agency shall use the award term described in the following paragraphs:
+
+(a) Section 1606 of the Recovery Act requires that all laborers and mechanics employed by contractors and subcontractors on projects funded directly by or assisted in whole or in part by and through the Federal Government pursuant to the Recovery Act shall be paid wages at rates not less than those prevailing on projects of a character similar in the locality as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40, United States Code.
+
+Pursuant to Reorganization Plan No. 14 and the Copeland Act, 40 U.S.C. 3145, the Department of Labor has issued regulations at 29 CFR parts 1, 3, and 5 to implement the Davis-Bacon and related Acts. Regulations in 29 CFR 5.5 instruct agencies concerning application of the standard Davis-Bacon contract clauses set forth in that section. Federal agencies providing grants, cooperative agreements, and loans under the Recovery Act shall ensure that the standard Davis-Bacon contract clauses found in 29 CFR 5.5(a) are incorporated in any resultant covered contracts that are in excess of $2,000 for construction, alteration or repair (including painting and decorating).
+
+(b) For additional guidance on the wage rate requirements of section 1606, contact your awarding agency. Recipients of grants, cooperative agreements and loans should direct their initial inquiries concerning the application of Davis-Bacon requirements to a particular federally assisted project to the Federal agency funding the project. The Secretary of Labor retains final coverage authority under Reorganization Plan Number 14.

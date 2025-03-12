@@ -1,0 +1,3 @@
+##### § 1532.1135 Does CAA or CWA disqualification mean that I must remain ineligible? #####
+
+You must remain ineligible until the EPA debarring official certifies that the condition giving rise to your conviction has been corrected. If you desire to have your disqualification terminated, you must submit a written request for reinstatement to the EPA debarring official and support your request with persuasive documentation. For information about the process for reinstatement see §§ 1532.1205 and 1532.1300.

@@ -1,0 +1,3 @@
+##### § 200.204 Federal awarding agency review of merit of proposals. #####
+
+For competitive grants or cooperative agreements, unless prohibited by Federal statute, the Federal awarding agency must design and execute a merit review process for applications. This process must be described or incorporated by reference in the applicable funding opportunity (see Appendix I to this part, Full text of the Funding Opportunity.) See also § 200.203 Notices of funding opportunities.

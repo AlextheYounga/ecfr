@@ -1,0 +1,5 @@
+##### § 910.517 Audit documentation. #####
+
+(a) *Retention of audit documentation.* The auditor must retain audit documentation and reports for a minimum of three years after the date of issuance of the auditor's report(s) to the auditee, unless the auditor is notified in writing by DOE or the cognizant agency for indirect costs to extend the retention period. When the auditor is aware that the Federal agency or auditee is contesting an audit finding, the auditor must contact the parties contesting the audit finding for guidance prior to destruction of the audit documentation and reports.
+
+(b) *Access to audit documentation.* Audit documentation must be made available upon request to the cognizant agency for indirect cost, DOE, or GAO at the completion of the audit, as part of a quality review, to resolve audit findings, or to carry out oversight responsibilities consistent with the purposes of this Part. Access to audit documentation includes the right of Federal agencies to obtain copies of audit documentation, as is reasonable and necessary.

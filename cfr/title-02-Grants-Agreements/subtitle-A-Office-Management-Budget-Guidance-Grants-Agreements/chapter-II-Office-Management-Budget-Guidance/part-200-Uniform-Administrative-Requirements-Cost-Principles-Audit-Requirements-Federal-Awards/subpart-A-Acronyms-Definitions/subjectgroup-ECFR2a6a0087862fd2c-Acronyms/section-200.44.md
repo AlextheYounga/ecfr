@@ -1,0 +1,3 @@
+##### § 200.44 Final cost objective. #####
+
+*Final cost objective* means a cost objective which has allocated to it both direct and indirect costs and, in the non-Federal entity's accumulation system, is one of the final accumulation points, such as a particular award, internal project, or other direct activity of a non-Federal entity. See also §§ 200.28 Cost objective and 200.60 Intermediate cost objective.

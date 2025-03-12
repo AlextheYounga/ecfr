@@ -1,0 +1,3 @@
+##### § 376.370 What are the obligations of Medicare carriers and intermediaries? #####
+
+Because Medicare carriers, intermediaries and other Medicare contractors undertake responsibilities on behalf of the Medicare program (Title XVIII of the Social Security Act), these entities assume the same obligations and responsibilities as the HHS Medicare officials responsible for the Medicare Program with respect to actions under 2 CFR part 376. This would include the requirement for these entities to check the Excluded Parties List System (EPLS) and take necessary steps to effect this part.

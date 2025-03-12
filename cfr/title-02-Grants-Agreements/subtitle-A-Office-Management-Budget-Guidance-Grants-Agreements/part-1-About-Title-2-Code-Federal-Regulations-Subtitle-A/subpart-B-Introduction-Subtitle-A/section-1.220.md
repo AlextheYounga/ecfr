@@ -1,0 +1,3 @@
+##### § 1.220 Federal agency implementation of this subtitle. #####
+
+A Federal agency that awards grants and agreements subject to the guidance in this subtitle implements the guidance in agency regulations in subtitle B of this title and/or in policy and procedural issuances, such as internal instructions to the agency's awarding and administering officials. An applicant or recipient would see the effect of that implementation in the organization and content of the agency's announcements of funding opportunities and in its award terms and conditions.

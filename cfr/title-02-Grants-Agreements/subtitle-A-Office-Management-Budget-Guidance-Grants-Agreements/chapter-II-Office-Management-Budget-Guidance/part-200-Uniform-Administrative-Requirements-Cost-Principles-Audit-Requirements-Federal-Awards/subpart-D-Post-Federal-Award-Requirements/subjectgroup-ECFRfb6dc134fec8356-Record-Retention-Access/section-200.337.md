@@ -1,0 +1,5 @@
+##### § 200.337 Restrictions on public access to records. #####
+
+No Federal awarding agency may place restrictions on the non-Federal entity that limit public access to the records of the non-Federal entity pertinent to a Federal award, except for protected personally identifiable information (PII) or when the Federal awarding agency can demonstrate that such records will be kept confidential and would have been exempted from disclosure pursuant to the Freedom of Information Act (5 U.S.C. 552) or controlled unclassified information pursuant to Executive Order 13556 if the records had belonged to the Federal awarding agency. The Freedom of Information Act (5 U.S.C. 552) (FOIA) does not apply to those records that remain under a non-Federal entity's control except as required under § 200.315 Intangible property. Unless required by Federal, state, local, and tribal statute, non-Federal entities are not required to permit public access to their records. The non-Federal entity's records provided to a Federal agency generally will be subject to FOIA and applicable exemptions.
+
+[78 FR 78608, Dec. 26, 2013, as amended at 79 FR 75885, Dec. 19, 2014]

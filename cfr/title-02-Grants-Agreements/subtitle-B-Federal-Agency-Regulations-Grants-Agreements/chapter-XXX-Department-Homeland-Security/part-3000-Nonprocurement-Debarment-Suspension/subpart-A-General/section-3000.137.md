@@ -1,0 +1,3 @@
+##### § 3000.137 Who in the Department of Homeland Security may grant an exception to let an excluded person participate in a covered transaction? #####
+
+Within the Department of Homeland Security, the Secretary of Homeland Security has delegated the authority to grant an exception to let an excluded person participate in a covered transaction to the Head of the Contracting Activity for each DHS component as provided in the OMB guidance at 2 CFR 180.135.

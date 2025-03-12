@@ -1,0 +1,3 @@
+##### § 1402.102 Do DOI financial assistance policies include any exceptions to 2 CFR part 200? #####
+
+This chapter applies to Federally recognized Indian tribal governments, except for those awards made pursuant to the authority of the Indian Self-Determination and Education Assistance Act (P.L. 93-638, 88 Stat. 2204), as amended. However, Sec. 9 of P.L. 93-638 does provide for use of a grant agreement or cooperative agreement when mutually agreed to by the Secretary of the Interior and the tribal organization involved.

@@ -1,0 +1,3 @@
+##### § 176.10 Purpose of this part. #####
+
+This part establishes Federal Governmentwide award terms for financial assistance awards, namely, grants, cooperative agreements, and loans, to implement the cross-cutting requirements of the American Recovery and Reinvestment Act of 2009, Public Law 111-5 (Recovery Act). These requirements are cross-cutting in that they apply to more than one agency's awards.

@@ -1,0 +1,3 @@
+##### § 200.452 Maintenance and repair costs. #####
+
+Costs incurred for utilities, insurance, security, necessary maintenance, janitorial services, repair, or upkeep of buildings and equipment (including Federal property unless otherwise provided for) which neither add to the permanent value of the property nor appreciably prolong its intended life, but keep it in an efficient operating condition, are allowable. Costs incurred for improvements which add to the permanent value of the buildings and equipment or appreciably prolong their intended life must be treated as capital expenditures (see § 200.439 Equipment and other capital expenditures). These costs are only allowable to the extent not paid through rental or other agreements.

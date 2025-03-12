@@ -1,0 +1,3 @@
+##### § 200.317 Procurements by states. #####
+
+When procuring property and services under a Federal award, a state must follow the same policies and procedures it uses for procurements from its non-Federal funds. The state will comply with § 200.322 Procurement of recovered *materials* and ensure that every purchase order or other contract includes any clauses required by section § 200.326 Contract provisions. All other non-Federal entities, including subrecipients of a state, will follow §§ 200.318 General procurement standards through 200.326 Contract provisions.

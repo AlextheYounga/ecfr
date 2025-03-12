@@ -1,0 +1,3 @@
+##### § 200.106 Agency implementation. #####
+
+The specific requirements and responsibilities of Federal agencies and non-Federal entities are set forth in this part. Federal agencies making Federal awards to non-Federal entities must implement the language in the Subpart C - Pre-Federal Award Requirements and Contents of Federal Awards of this part through Subpart F - Audit Requirements of this part in codified regulations unless different provisions are required by Federal statute or are approved by OMB.

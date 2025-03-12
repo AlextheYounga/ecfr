@@ -1,0 +1,3 @@
+##### § 422.8 Communication of research misconduct policies and procedures. #####
+
+Institutions that conduct USDA-funded extramural research are to maintain and effectively communicate to their staffs policies and procedures relating to research misconduct, including the guidelines in this part. The institution is to inform their researchers and staff members who conduct USDA-funded extramural research when and under what circumstances USDA is to be notified of allegations of research misconduct, and when and under what circumstances USDA is to be updated on research misconduct proceedings.

@@ -1,0 +1,7 @@
+##### § 200.300 Statutory and national policy requirements. #####
+
+(a) The Federal awarding agency must manage and administer the Federal award in a manner so as to ensure that Federal funding is expended and associated programs are implemented in full accordance with U.S. statutory and public policy requirements: including, but not limited to, those protecting public welfare, the environment, and prohibiting discrimination. The Federal awarding agency must communicate to the non-Federal entity all relevant public policy requirements, including those in general appropriations provisions, and incorporate them either directly or by reference in the terms and conditions of the Federal award.
+
+(b) The non-Federal entity is responsible for complying with all requirements of the Federal award. For all Federal awards, this includes the provisions of FFATA, which includes requirements on executive compensation, and also requirements implementing the Act for the non-Federal entity at 2 CFR part 25 Financial Assistance Use of Universal Identifier and System for Award Management and 2 CFR part 170 Reporting Subaward and Executive Compensation Information. See also statutory requirements for whistleblower protections at 10 U.S.C. 2409, 41 U.S.C. 4712, and 10 U.S.C. 2324, 41 U.S.C. 4304 and 4310.
+
+[78 FR 78608, Dec. 26, 2013, as amended at 80 FR 43309, July 22, 2015]

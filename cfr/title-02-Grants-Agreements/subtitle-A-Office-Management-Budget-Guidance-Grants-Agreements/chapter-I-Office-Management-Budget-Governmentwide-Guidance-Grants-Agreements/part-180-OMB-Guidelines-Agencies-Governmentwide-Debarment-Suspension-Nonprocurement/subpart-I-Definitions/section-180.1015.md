@@ -1,0 +1,3 @@
+##### § 180.1015 Suspension. #####
+
+*Suspension* is an action taken by a suspending official under subpart G of this part that immediately prohibits a person from participating in covered transactions and transactions covered under the Federal Acquisition Regulation (48 CFR chapter 1) for a temporary period, pending completion of an agency investigation and any judicial or administrative proceedings that may ensue. A person so excluded is suspended.

@@ -1,0 +1,3 @@
+##### § 200.473 Transportation costs. #####
+
+Costs incurred for freight, express, cartage, postage, and other transportation services relating either to goods purchased, in process, or delivered, are allowable. When such costs can readily be identified with the items involved, they may be charged directly as transportation costs or added to the cost of such items. Where identification with the materials received cannot readily be made, inbound transportation cost may be charged to the appropriate indirect (F&A) cost accounts if the non-Federal entity follows a consistent, equitable procedure in this respect. Outbound freight, if reimbursable under the terms and conditions of the Federal award, should be treated as a direct cost.

@@ -1,0 +1,3 @@
+##### § 180.450 What action may I take if a lower tier participant fails to disclose the information required under § 180.355 to the next higher tier? #####
+
+If you as a Federal agency official determine that a lower tier participant failed to disclose information, as required by § 180.355, at the time it entered into a covered transaction with a participant at the next higher tier, you may pursue any remedies available to you, including the initiation of a suspension or debarment action.

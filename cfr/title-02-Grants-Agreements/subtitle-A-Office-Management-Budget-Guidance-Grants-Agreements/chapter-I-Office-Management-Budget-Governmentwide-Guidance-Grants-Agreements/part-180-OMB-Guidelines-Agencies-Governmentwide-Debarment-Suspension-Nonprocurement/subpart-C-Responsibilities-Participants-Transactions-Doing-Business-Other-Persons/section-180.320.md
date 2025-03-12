@@ -1,0 +1,5 @@
+##### § 180.320 Must I verify that principals of my covered transactions are eligible to participate? #####
+
+Yes, you as a participant are responsible for determining whether any of your principals of your covered transactions is excluded or disqualified from participating in the transaction.
+
+You may decide the method and frequency by which you do so. You may, but you are not required to, check SAM Exclusions.

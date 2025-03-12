@@ -1,0 +1,3 @@
+##### § 5800.10 What does this part do? #####
+
+This part adopts the Office of Management and Budget (OMB) guidance in Subparts A through I of 2 CFR part 180, as supplemented by this part, as the U.S. Election Assistance Commission (“the Commission” or “EAC”) policies and procedures for nonprocurement debarment and suspension. It thereby gives regulatory effect for the Commission to the OMB guidance as supplemented by this part. This part satisfies the requirements in section 3 of Executive Order 12549, “Debarment and Suspension” and 31 U.S.C. 6101 note.

@@ -1,0 +1,3 @@
+##### § 2000.135 Who in the Nuclear Regulatory Commission may grant an exception to let an excluded person participate in a covered transaction? #####
+
+The Director, Office of Administration or another official designated by the Director, has the authority to grant a written exception to let an excluded person participate in a covered transaction, as provided in guidance at 2 CFR 180.135. The Director or other official designated by the Director shall explain the reason(s) for deviating from the governmentwide policy.

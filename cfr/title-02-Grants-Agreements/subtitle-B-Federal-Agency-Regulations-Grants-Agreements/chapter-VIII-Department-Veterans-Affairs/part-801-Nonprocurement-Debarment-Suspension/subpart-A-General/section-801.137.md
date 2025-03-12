@@ -1,0 +1,3 @@
+##### § 801.137 Who in the Department of Veterans Affairs may grant an exception to allow an excluded person to participate in a covered transaction? #####
+
+Within the Department of Veterans Affairs, the Secretary of Veterans Affairs, the Under Secretary for Health, the Under Secretary for Benefits, and the Under Secretary for Memorial Affairs each has the authority to grant an exception to allow an excluded person to participate in a covered transaction, as provided in the OMB guidance at 2 CFR 180.135.

@@ -1,0 +1,3 @@
+##### § 200.82 Protected Personally Identifiable Information (Protected PII). #####
+
+*Protected PII* means an individual's first name or first initial and last name in combination with any one or more of types of information, including, but not limited to, social security number, passport number, credit card numbers, clearances, bank numbers, biometrics, date and place of birth, mother's maiden name, criminal, medical and financial records, educational transcripts. This does not include PII that is required by law to be disclosed. (See also § 200.79 Personally Identifiable Information (PII)).

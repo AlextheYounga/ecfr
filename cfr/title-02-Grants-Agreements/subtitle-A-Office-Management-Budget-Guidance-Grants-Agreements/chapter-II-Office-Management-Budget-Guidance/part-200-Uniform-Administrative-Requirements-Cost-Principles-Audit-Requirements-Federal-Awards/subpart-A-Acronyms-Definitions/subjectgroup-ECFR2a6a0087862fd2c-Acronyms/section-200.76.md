@@ -1,0 +1,3 @@
+##### § 200.76 Performance goal. #####
+
+*Performance goal* means a target level of performance expressed as a tangible, measurable objective, against which actual achievement can be compared, including a goal expressed as a quantitative standard, value, or rate. In some instances (e.g., discretionary research awards), this may be limited to the requirement to submit technical performance reports (to be evaluated in accordance with agency policy).

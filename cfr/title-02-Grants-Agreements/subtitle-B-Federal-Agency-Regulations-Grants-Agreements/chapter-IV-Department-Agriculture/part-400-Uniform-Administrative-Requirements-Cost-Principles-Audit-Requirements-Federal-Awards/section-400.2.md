@@ -1,0 +1,9 @@
+##### § 400.2 Conflict of interest. #####
+
+(a) Each USDA awarding agency must establish conflict of interest policies for its Federal awards.
+
+(b) Non-Federal entities must disclose in writing any potential conflicts of interest to the USDA awarding agency or pass-through entity.
+
+(1) The non-Federal entity must maintain written standards of conduct covering conflicts of interest and governing the performance of its employees in the selection, award and administration of Federal awards. No employee, officer or agent may participate in the selection, award, or administration of a Federal award if he or she has a real or apparent conflict of interest. Such a conflict of interest would arise when the employee, officer, or agent, any member of his or her immediate family, his or her partner, or an organization which employs or is about to employ any of the parties indicated herein, has a financial or other interest in or a tangible personal benefit from a non-Federal entity considered for a Federal award. The non-Federal entity may set standards for situations in which the financial interest is not substantial or the gift is an unsolicited item of nominal value. The standards of conduct must provide for disciplinary actions to be applied for violations of such standards by officers, employees, or agents of the non-Federal entity.
+
+(2) If the non-Federal entity has a parent, affiliate, or subsidiary organization that is not a state, local government, or Indian tribe, the non-Federal entity must also maintain written standards of conduct covering organizational conflicts of interest. Organizational conflicts of interest means that because of the relationships with a parent company, affiliate, or subsidiary organization, is unable or appears to be unable to be impartial in conducting a Federal award action involving a related organization.

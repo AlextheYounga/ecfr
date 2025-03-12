@@ -1,0 +1,3 @@
+##### § 200.33 Equipment. #####
+
+*Equipment* means tangible personal property (including information technology systems) having a useful life of more than one year and a per-unit acquisition cost which equals or exceeds the lesser of the capitalization level established by the non-Federal entity for financial statement purposes, or $5,000. See also §§ 200.12 Capital assets, 200.20 Computing devices, 200.48 General purpose equipment, 200.58 Information technology systems, 200.89 Special purpose equipment, and 200.94 Supplies.

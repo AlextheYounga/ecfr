@@ -1,0 +1,3 @@
+##### § 3254.220 What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions? #####
+
+Although the OMB guidance at 2 CFR 180.220(c) allows a Federal agency to do so (also see options lower tier coverage in the figure in the appendix to 2 CFR part 180), NEA does not extend coverage of nonprocurement suspension and debarment requirements beyond first-tier procurement contracts under a covered nonprocurement transaction.

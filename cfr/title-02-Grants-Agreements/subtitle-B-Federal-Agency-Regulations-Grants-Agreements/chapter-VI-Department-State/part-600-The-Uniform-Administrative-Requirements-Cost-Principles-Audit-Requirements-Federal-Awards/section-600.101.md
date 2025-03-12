@@ -1,0 +1,7 @@
+##### § 600.101 Applicability. #####
+
+Under the authority listed above, the Department of State adopts the Office of Management and Budget (OMB) Guidance in 2 CFR part 200, except for:
+
+(a) The Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards set forth in 2 CFR part 200 (Subparts A through F) shall apply to all non-Federal entities, except as noted below.
+
+(b) Subparts A through E of 2 CFR part 200 shall apply to all foreign organizations not recognized as Foreign Public Entities and Subparts A through D of 2 CFR part 200 shall apply to all U.S. and foreign for-profit entities, except where the Federal awarding agency determines that the application of these subparts would be inconsistent with the international obligations of the United States or the statute or regulations of a foreign government. The Federal Acquisition Regulation (FAR) at 48 CFR part 30, Cost Accounting Standards, and Part 31 Contract Cost Principles and Procedures takes precedence over the cost principles in Subpart E for Federal awards to U.S. and foreign for-profit entities. Thus, this part gives regulatory effect to the OMB guidance and supplements the guidance as needed for the Department.

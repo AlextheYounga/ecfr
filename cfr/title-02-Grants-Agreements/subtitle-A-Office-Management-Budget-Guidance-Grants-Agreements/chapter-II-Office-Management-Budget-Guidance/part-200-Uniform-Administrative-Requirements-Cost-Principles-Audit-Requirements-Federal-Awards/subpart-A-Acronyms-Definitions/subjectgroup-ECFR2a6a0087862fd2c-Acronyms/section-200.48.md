@@ -1,0 +1,3 @@
+##### § 200.48 General purpose equipment. #####
+
+*General purpose equipment* means equipment which is not limited to research, medical, scientific or other technical activities. Examples include office equipment and furnishings, modular offices, telephone networks, information technology equipment and systems, air conditioning equipment, reproduction and printing equipment, and motor vehicles. See also Equipment and Special Purpose Equipment.

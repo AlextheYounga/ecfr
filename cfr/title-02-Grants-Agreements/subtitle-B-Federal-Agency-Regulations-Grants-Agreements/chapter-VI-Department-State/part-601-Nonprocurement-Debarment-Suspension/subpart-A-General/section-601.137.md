@@ -1,0 +1,3 @@
+##### § 601.137 Who in the Department of State may grant an exception to let an excluded person participate in a covered transaction? #####
+
+The Procurement Executive, Office of the Procurement Executive, DOS, may grant an exception permitting an excluded person to participate in a particular covered transaction. If the Procurement Executive, Office of the Procurement Executive, DOS, grants an exception, the exception must be in writing and state the reason(s) for deviating from the government-wide policy in Executive Order 12549.

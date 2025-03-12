@@ -1,0 +1,3 @@
+##### § 200.67 Micro-purchase. #####
+
+*Micro-purchase* means a purchase of supplies or services using simplified acquisition procedures, the aggregate amount of which does not exceed the micro-purchase threshold. Micro-purchase procedures comprise a subset of a non-Federal entity's small purchase procedures. The non-Federal entity uses such procedures in order to expedite the completion of its lowest-dollar small purchase transactions and minimize the associated administrative burden and cost. The micro-purchase threshold is set by the Federal Acquisition Regulation at 48 CFR Subpart 2.1 (Definitions). It is $3,000 except as otherwise discussed in Subpart 2.1 of that regulation, but this threshold is periodically adjusted for inflation.
