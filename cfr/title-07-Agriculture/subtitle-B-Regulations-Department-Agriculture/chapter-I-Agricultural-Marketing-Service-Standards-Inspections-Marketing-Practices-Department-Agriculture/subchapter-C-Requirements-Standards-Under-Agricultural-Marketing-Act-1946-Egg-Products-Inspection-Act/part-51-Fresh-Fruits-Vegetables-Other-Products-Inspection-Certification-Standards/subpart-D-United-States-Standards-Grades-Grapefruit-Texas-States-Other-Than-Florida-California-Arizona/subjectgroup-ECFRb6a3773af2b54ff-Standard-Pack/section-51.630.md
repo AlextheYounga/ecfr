@@ -1,5 +1,7 @@
 ##### § 51.630 Standard Pack. #####
 
+Link to an amendment published at 85 FR 68424, Oct. 29, 2020.
+
 (a) Fruits shall be fairly uniform in size, unless specified as uniform in size. When packed in approved containers, fruit shall be arranged according to the approved and recognized methods.
 
 (b) “Fairly uniform in size” means that not more than the number of fruit permitted in § 51.628, Tables I and II, are outside the ranges of diameters given in Table III.

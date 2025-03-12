@@ -1,5 +1,7 @@
 ##### § 590.45 Prohibition on eggs and egg products not intended for use as human food. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.
+
 (a) No person shall buy, sell, or transport or offer to buy or sell, or offer or receive for transportation in commerce, any eggs or egg products which are not intended for use as human food, unless they are denatured or decharacterized, unless shipped under seal as authorized in paragraphs (c) and (d) of this section or in §§ 590.504(c) and 590.720(a) and identified as required by the regulations in this part.
 
 (b) No person shall import or export shell eggs classified as loss, inedible, or incubator rejects or any egg products which are unwholesome, adulterated, or are otherwise unfit for human food purposes, except as provided in paragraphs (c) and (d) of this section, unless they are denatured or decharacterized and identified as required by the regulations in this part.

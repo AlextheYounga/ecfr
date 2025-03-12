@@ -1,5 +1,7 @@
 ##### § 590.540 Spray process drying facilities. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68680, Oct. 29, 2020.
+
 (a) Driers shall be of a continuous discharge type and so constructed and equipped to prevent an excess accumulation of powder in the drier, bags, and powder conveyors.
 
 (b) Driers shall be of approved construction and materials, with welded seams, and the surfaces shall be smooth to allow for thorough cleaning.

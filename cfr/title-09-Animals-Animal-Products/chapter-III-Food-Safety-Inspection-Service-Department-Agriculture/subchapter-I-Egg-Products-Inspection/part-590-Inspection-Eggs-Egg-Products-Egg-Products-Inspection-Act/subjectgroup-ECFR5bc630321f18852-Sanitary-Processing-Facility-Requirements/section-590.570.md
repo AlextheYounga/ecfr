@@ -1,5 +1,7 @@
 ##### § 590.570 Pasteurization of liquid eggs. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68680, Oct. 29, 2020.
+
 (a) Pasteurization facilities: The facilities for pasteurization of egg products shall be adequate and of approved construction so that all products will be processed as provided for in this section. Pasteurization equipment for liquid egg product shall include a holding tube, an automatic flow diversion valve, thermal controls, and recording devices to determine compliance for pasteurization as set forth in paragraph (b) of this section. The temperature of the heated liquid egg product shall be continuously and automatically recorded during the process.
 
 (b) Pasteurizing operations: Every particle of all products must be rapidly heated to the required temperature and held at that temperature for the required minimum holding time as set forth in this section. The temperatures and holding times listed in Table I of this section are minimum. The product may be heated to higher temperatures and held for longer periods of time. Pasteurization procedures shall assure complete pasteurization, and holding, packaging, facilities and operations shall be such as to prevent contamination of the product.

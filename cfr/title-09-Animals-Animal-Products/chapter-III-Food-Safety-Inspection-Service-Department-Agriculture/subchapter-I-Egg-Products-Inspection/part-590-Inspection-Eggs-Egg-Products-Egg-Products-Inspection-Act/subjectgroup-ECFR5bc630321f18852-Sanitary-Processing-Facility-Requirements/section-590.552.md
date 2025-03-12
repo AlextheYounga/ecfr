@@ -1,5 +1,7 @@
 ##### § 590.552 Cleaning and sanitizing requirements. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68680, Oct. 29, 2020.
+
 (a) *Cleaning.* (1) Equipment used in egg processing operations which comes in contact with liquid eggs or exposed edible products shall be cleaned to eliminate organic matter and inorganic residues. This may be accomplished by any sanitary means but it is preferable (unless high pressure cleaning is used) to flush soiled equipment with clean cool water, dismantle it when possible, wash by brushing with warm water containing a detergent and followed by rinsing with water. It is essential to have the equipment surfaces thoroughly clean if effective sanitizing is to be attained.
 
 (2) Equipment shall be cleaned with such frequency as is specified elsewhere under the sanitary requirements for the particular kind of operation and type of equipment involved.

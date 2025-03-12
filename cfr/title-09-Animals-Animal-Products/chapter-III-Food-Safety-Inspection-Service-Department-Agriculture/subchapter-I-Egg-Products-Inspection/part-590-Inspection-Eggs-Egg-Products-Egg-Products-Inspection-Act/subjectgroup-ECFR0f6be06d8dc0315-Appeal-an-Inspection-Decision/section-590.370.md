@@ -1,5 +1,7 @@
 ##### § 590.370 Cost of appeals. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68676, Oct. 29, 2020.
+
 (a) There shall be no cost to the appellant when the appeal inspection discloses a material error was made in the original determination.
 
 (b) The costs of an appeal shall be borne by the appellant at an hourly rate of $27.36, including travel time and expenses if the appeal was frivolous, including but not being limited to the following: The appeal inspection discloses that no material error was made in the original inspection, the condition of the product has undergone a material change since the original inspection, the original lot has changed in some manner, or the Act or these regulations have not been complied with.

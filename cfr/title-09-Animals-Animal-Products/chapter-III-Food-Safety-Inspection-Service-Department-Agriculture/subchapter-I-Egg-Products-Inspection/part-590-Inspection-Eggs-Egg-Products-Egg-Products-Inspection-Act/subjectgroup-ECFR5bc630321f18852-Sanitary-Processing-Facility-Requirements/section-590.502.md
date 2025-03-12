@@ -1,5 +1,7 @@
 ##### § 590.502 Equipment and utensils; PCB-containing equipment. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68679, Oct. 29, 2020.
+
 (a) Equipment and utensils used in processing shell eggs and egg products shall be of such design, material, and construction as will:
 
 (1) Enable the examination, segregation, and processing of such products in an efficient, clean, and satisfactory manner;

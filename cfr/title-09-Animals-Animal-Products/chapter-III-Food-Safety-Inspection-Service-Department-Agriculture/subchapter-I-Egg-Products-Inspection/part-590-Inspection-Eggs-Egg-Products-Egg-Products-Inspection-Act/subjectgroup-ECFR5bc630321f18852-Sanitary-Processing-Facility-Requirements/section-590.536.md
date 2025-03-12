@@ -1,5 +1,7 @@
 ##### § 590.536 Freezing operations. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68680, Oct. 29, 2020.
+
 (a) Freezing rooms shall be kept clean and free from objectionable odors.
 
 (b) Requirements. (1) Nonpasteurized egg products which are to be frozen shall be solidly frozen or reduced to a temperature of 10 °F or lower within 60 hours from time of breaking.

@@ -1,3 +1,5 @@
 ##### § 590.422 Condemnation. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68679, Oct. 29, 2020.
+
 Eggs and egg products found to be adulterated at official plants shall be condemned and, if no appeal be taken from such determination of condemnation, such articles shall be destroyed for human food purposes under the supervision of an inspector: *Provided,* That articles which may by reprocessing be made not adulterated need not be condemned and destroyed if so reprocessed under the supervision of an inspector and thereafter found to be not adulterated. If an appeal is requested, the eggs or egg products shall be appropriately marked and segregated pending completion of an appeal inspection. The appeal shall be at the cost of the appellant if the Administrator determines that the appeal is frivolous, as defined in § 590.370.

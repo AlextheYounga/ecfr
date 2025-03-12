@@ -1,5 +1,7 @@
 ##### § 51.625 U.S. No. 2. #####
 
+Link to an amendment published at 85 FR 68423, Oct. 29, 2020.
+
 “U.S. No. 2” consists of grapefruit which meet the following requirements:
 
 (a) Basic requirements:

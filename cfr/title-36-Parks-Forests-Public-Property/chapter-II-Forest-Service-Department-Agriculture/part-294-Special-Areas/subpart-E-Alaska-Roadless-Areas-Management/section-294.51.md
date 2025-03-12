@@ -1,0 +1,3 @@
+##### § 294.51 Transition. #####
+
+The Tongass Forest Supervisor shall issue a ministerial Notice of Administrative Change pursuant to 36 CFR 219.13(c) identifying plan changes made in conformance with the regulatory determinations of this subpart; specifically, the portion of the December 9, 2016, Record of Decision concerning suitable timber lands attributed exclusively to implementation of the January 12, 2001, Roadless Area Conservation Rule (see 36 CFR part 294, revised as of July 1, 2001) shall be designated as suitable.

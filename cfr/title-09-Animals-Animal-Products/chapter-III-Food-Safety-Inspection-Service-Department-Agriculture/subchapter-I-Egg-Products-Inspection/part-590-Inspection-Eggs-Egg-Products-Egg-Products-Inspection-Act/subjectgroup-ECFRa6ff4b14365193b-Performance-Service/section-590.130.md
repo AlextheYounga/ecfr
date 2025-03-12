@@ -1,5 +1,7 @@
 ##### § 590.130 Basis of billing plants. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.
+
 Overtime and/or holiday services shall be billed to the official plant on the basis of each 15 minutes of overtime and/or holiday service performed by each inspector providing such service to the plant, except that when an official plant requires the services of an inspector after he has completed his day's assignment and left the plant or when he is called back to duty on a day outside the established normal operating schedule or on a holiday, the official plant shall pay for a minimum of 2 hours service at the applicable established rate. Extra travel expense incurred while rendering overtime or holiday service shall be billed to the official plant. Bills are payable upon receipt and become delinquent 30 days from date of billing. Overtime or holiday inspection service will not be performed at any plant that is delinquent, and processing operations shall be confined to the regular operating schedule of the plant. In addition, fees will be charged and collected for certifications requested by and provided for the official plant that are not within the scope of these regulations.
 
 [36 FR 9814, May 28, 1971. Redesignated at 42 FR 32514, June 27, 1977, and further redesignated at 46 FR 63203, Dec. 31, 1981, as amended at 60 FR 49169, Sept. 21, 1995; 65 FR 44950, July 20, 2000]

@@ -1,5 +1,7 @@
 ##### § 51.620 U.S. Fancy. #####
 
+Link to an amendment published at 85 FR 68422, Oct. 29, 2020.
+
 “U.S. Fancy” consists of grapefruit which meet the following requirements:
 
 (a) Basic requirements:

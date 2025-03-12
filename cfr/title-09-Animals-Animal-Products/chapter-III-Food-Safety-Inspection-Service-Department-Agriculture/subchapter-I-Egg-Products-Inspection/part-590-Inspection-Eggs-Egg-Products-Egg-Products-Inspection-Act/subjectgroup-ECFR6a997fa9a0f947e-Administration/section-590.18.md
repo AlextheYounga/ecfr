@@ -1,5 +1,7 @@
 ##### § 590.18 OMB control numbers assigned pursuant to the Paperwork Reduction Act. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68674, Oct. 29, 2020.
+
 (a) *Purpose.* This section collects and displays the control numbers assigned to information collection requirements by the Office of Management and Budget contained in 7 CFR 590 pursuant to the Paperwork Reduction Act of 1980, Pub. L. 96-511.
 
 (b) *Display.*

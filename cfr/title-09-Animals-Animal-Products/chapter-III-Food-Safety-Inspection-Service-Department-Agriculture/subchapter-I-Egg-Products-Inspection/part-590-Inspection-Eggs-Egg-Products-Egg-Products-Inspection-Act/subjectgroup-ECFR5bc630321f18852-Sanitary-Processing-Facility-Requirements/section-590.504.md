@@ -1,5 +1,7 @@
 ##### § 590.504 General operating procedures. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68679, Oct. 29, 2020.
+
 (a) Operations involving processing, storing, and handling of shell eggs, ingredients, and egg products shall be strictly in accord with clean and sanitary methods and shall be conducted as rapidly as practicable. Pasteurization, heat treatment, stabilization, and other processes shall be in accord with this part and as approved by the Administrator. Processing methods and temperatures in all operations shall be such as will prevent a deterioration of the egg products.
 
 (b) Shell eggs and egg products processed in official plants shall be subjected to constant and continuous inspection throughout each and every processing operation. Any shell egg or egg product which was not processed in accordance with these regulations or is not fit for human food shall be removed and segregated.

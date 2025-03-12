@@ -1,5 +1,7 @@
 ##### § 590.418 Supervision of marking and packaging. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68678, Oct. 29, 2020.
+
 (a) *Evidence of label approval.* No inspector shall authorize the use of official identification on any inspected product unless he has on file evidence that such official identification or packaging material bearing such official identification has been approved in accordance with the provisions of § 590.411.
 
 (b) *Affixing of official identification.* No official identification shall be, or caused to be affixed to or placed on any product or container except by an inspector or under the supervision of an inspector or other person authorized by the Administrator. All such products shall have been inspected in accordance with these regulations. The inspector shall have supervision over the use and handling of all material bearing any official identification.

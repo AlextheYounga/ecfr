@@ -1,7 +1,5 @@
 ##### § 254.31 Definitions. #####
 
-Link to an amendment published at 85 FR 60916, Sept. 29, 2020.
-
 For the purpose of this subpart,
 
 An *applicant* is a person who occupies or has improvements on National Forest System land under claim of title or color of title, or who owns land abutting or underlying a road right-of-way, or who owns land interspersed with or adjacent to mineral survey fractions.
@@ -24,6 +22,10 @@ An *applicant* is a person who occupies or has improvements on National Forest S
 
 *Mineral survey fractions* are small parcels of National Forest System lands interspersed with or adjacent to lands transferred out of Federal ownership under the mining laws.
 
+*Permanent Habitable Improvement* means a dwelling, improvement, house, or other structure presently being used as a residence or domicile for a lasting or indefinite period of time.
+
 *Person* includes any nonfederal entity such as a State or any political subdivision as well as any individual or business entity.
 
 *Secretary* refers to the Secretary of the United States Department of Agriculture.
+
+[49 FR 1185, Jan. 10, 1984, as amended at 85 FR 60916, Sept. 29, 2020]

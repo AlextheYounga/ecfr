@@ -1,5 +1,7 @@
 ##### § 417.7 Training. #####
 
+Link to an amendment published at 85 FR 68672, Oct. 29, 2020.
+
 (a) Only an individual who has met the requirements of paragraph (b) of this section, but who need not be an employee of the establishment, shall be permitted to perform the following functions:
 
 (1) Development of the HACCP plan, in accordance with § 417.2(b) of this part, which could include adapting a generic model that is appropriate for the specific product; and

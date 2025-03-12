@@ -1,5 +1,7 @@
 ##### § 590.915 Foreign inspection certificate requirements. #####
 
+Link to an amendment published at 85 FR 68681, Oct. 29, 2020.
+
 (a) Except as provided in § 590.960, each consignment imported into the United States must have an electronic foreign inspection certification or a paper foreign inspection certificate issued by an official of the foreign government agency responsible for the inspection and certification of the product.
 
 (b) An official of the foreign government agency must certify that any product described on any official certificate was produced in accordance with the regulatory requirements § 590.910.

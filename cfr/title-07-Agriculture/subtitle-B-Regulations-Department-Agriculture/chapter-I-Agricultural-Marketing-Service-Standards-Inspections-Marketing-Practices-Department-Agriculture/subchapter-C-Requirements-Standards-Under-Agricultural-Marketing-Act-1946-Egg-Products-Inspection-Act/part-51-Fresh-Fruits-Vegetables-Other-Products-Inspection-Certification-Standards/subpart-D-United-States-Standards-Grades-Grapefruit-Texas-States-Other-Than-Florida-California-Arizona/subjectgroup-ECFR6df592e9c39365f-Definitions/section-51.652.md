@@ -1,5 +1,7 @@
 ##### § 51.652 Classification of defects. #####
 
+Link to an amendment published at 85 FR 68424, Oct. 29, 2020.
+
 Table IV
 
 |          Factor          |                                                               Injury                                                               |                                                                                                                             Damage                                                                                                                             |                                                                                                                           Serious damage                                                                                                                           |                                                               Very serious damage                                                               |

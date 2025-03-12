@@ -1,5 +1,7 @@
 ##### § 590.520 Breaking room facilities. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68680, Oct. 29, 2020.
+
 (a) The breaking room shall have at least 30 foot-candles of light on all working surfaces except that light intensity shall be at least 50 foot-candles at breaking and inspection stations. Lights shall be protected with adequate safety devices.
 
 (b) The surface of the ceiling and walls shall be smooth and made of a water-resistant material.

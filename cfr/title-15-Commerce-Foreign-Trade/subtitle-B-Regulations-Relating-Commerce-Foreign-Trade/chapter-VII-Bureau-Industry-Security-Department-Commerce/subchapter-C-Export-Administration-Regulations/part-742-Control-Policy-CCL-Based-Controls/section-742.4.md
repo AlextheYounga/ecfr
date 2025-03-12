@@ -30,7 +30,33 @@
 
 (6) The general policy for Cambodia and Laos is to approve license applications when BIS determines, on a case-by-case basis, that the items are for an authorized use in Cambodia or Laos and are not likely to be diverted to another country or use contrary to the national security or foreign policy controls of the United States.
 
-(7) For the People's Republic of China (PRC), there is a general policy of approval for license applications to export, reexport, or transfer items to civil end-uses. There is a presumption of denial for license applications to export, reexport or transfer items that would make a direct and significant contribution to the PRC's or Russia's military capabilities such as, but not limited to, the major weapons systems described in supplement no. 7 to part 742 of the EAR.
+(7)(i) For the People's Republic of China (PRC), Venezuela, and the Russian Federation, all applications will be reviewed to determine the risk of diversion to a military end user or military end use. There is a general policy of approval for license applications to export, reexport, or transfer items determined to be for civil end users for civil end uses. There is a presumption of denial for license applications to export, reexport, or transfer items that would make a material contribution to the “development,” “production,” maintenance, repair, or operation of weapons systems, subsystems, and assemblies, such as, but not limited to, those described in supplement no. 7 to part 742 of the EAR, of the PRC, Venezuela, or the Russian Federation.
+
+(ii) The following factors are among those that will be considered in reviewing license applications described in paragraph (b)(7)(i) of this section:
+
+(A) The appropriateness of the export, reexport, or transfer for the stated end use;
+
+(B) The significance of the item for the weapons systems capabilities of the importing country;
+
+(C) Whether any party is a `military end user' as defined in § 744.21(g) of the EAR;
+
+(D) The reliability of the parties to the transaction, including whether:
+
+(*1*) An export or reexport license application has previously been denied;
+
+(*2*) Any parties are or have been engaged in unlawful procurement or diversion activities;
+
+(*3*) The parties are capable of securely handling and storing the items; and
+
+(*4*) End-use checks have been and may be conducted by BIS or another U.S. government agency on parties to the transaction;
+
+(E) The involvement of any party to the transaction in military activities, including activities involving the “development,” “production,” maintenance, repair, or operation of weapons systems, subsystems, and assemblies;
+
+(F) Government strategies and policies that support the diversion of exports from their stated civil end use and redirection towards military end use; and
+
+(G) The scope and effectiveness of the export control system in the importing country.
+
+(iii) The review will also include an assessment of the impact of a proposed export of an item on the United States defense industrial base and the denial of an application for a license that would have a significant negative impact, as defined in section 1756(d)(3) of the Export Control Reform Act of 2018 (50 U.S.C. 4815(d)(3)), on such defense industrial base.
 
 (8) For India, there is a general policy of approval for license applications to export, reexport, or transfer items, including “600 series” items, for civil or military end uses in India, for ultimate end use by the Government of India, for reexport to countries in Country Group A:5, or for return to the United States, so long as such items are not for use in nuclear, “missile,” or chemical or biological weapons activities.
 
@@ -38,4 +64,4 @@
 
 (d) [Reserved]
 
-[61 FR 12786, Mar. 25, 1996, as amended at 61 FR 64283, Dec. 4, 1996; 70 FR 67348, Nov. 7, 2005; 72 FR 33656, June 19, 2007; 74 FR 23946, May 22, 2009; 74 FR 68145, Dec. 23, 2009; 78 FR 22721, Apr. 16, 2013; 79 FR 27436, May 13, 2014; 79 FR 45679, Aug. 6, 2014; 79 FR 76873, Dec. 23, 2014; 80 FR 29443, May 21, 2015; 81 FR 94967, Dec. 27, 2016; 82 FR 6220, Jan. 19, 2017]
+[61 FR 12786, Mar. 25, 1996, as amended at 61 FR 64283, Dec. 4, 1996; 70 FR 67348, Nov. 7, 2005; 72 FR 33656, June 19, 2007; 74 FR 23946, May 22, 2009; 74 FR 68145, Dec. 23, 2009; 78 FR 22721, Apr. 16, 2013; 79 FR 27436, May 13, 2014; 79 FR 45679, Aug. 6, 2014; 79 FR 76873, Dec. 23, 2014; 80 FR 29443, May 21, 2015; 81 FR 94967, Dec. 27, 2016; 82 FR 6220, Jan. 19, 2017; 85 FR 68450, Oct. 29, 2020]

@@ -1,5 +1,7 @@
 ##### § 590.105 Suspension or termination of exemptions. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68674, Oct. 29, 2020.
+
 (a) The Administrator may immediately suspend or terminate any exemption under § 590.100(b) at any time with respect to any person, if the conditions of exemption prescribed by this section are not being met. The Administrator may modify or revoke any regulation of this part, granting exemptions whenever he determines such action appropriate to effectuate the purposes of the Act.
 
 (b) Failure to comply with the condition of the exemptions contained in § 590.100 shall subject such person to the penalties provided for in the Act and in this part.

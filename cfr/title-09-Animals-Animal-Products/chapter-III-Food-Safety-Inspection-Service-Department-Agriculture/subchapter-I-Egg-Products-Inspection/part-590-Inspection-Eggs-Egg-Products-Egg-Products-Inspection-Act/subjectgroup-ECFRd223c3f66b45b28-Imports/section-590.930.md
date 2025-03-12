@@ -1,5 +1,7 @@
 ##### § 590.930 Imported egg products; retention in customs custody; delivery under bond; movement prior to inspection; sealing; handling; facilities, and assistance. #####
 
+Link to an amendment published at 85 FR 68681, Oct. 29, 2020.
+
 (a) No egg products required by this part to be inspected shall be released from customs custody prior to required inspections, but such product may be delivered to the consignee, or his agent, prior to inspection if the consignee shall furnish a bond, in the form prescribed by the Secretary of the Treasury, conditioned that the product shall be returned, if demanded, to the collector of the port where the same is offered for clearance through customs.
 
 (b) Notwithstanding paragraph (a) of this section, no product required by this part to be inspected shall be moved prior to inspection from the port of arrival where first unloaded, and if arriving by water from the wharf where first unloaded at such port, to any place other than the place designated in accordance with this part as the place where the same shall be inspected; and no product shall be conveyed in any manner other than in compliance with this part.

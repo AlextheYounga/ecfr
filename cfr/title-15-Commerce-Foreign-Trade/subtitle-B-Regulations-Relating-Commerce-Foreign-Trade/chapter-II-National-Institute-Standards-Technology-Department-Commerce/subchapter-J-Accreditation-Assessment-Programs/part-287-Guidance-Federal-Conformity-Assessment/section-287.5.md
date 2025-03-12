@@ -1,23 +1,25 @@
-##### § 287.5 Responsibilities of an Agency Standards Executive. #####
+##### § 287.5 Responsibilities of Agency Standards Executives. #####
 
-In addition to carrying out the duties described in OMB Circular A-119 related to standards activities, an Agency Standards Executive should:
+Each Agency Standards Executive should:
 
-(a) Promote the following goals:
+(a) Carry out the duties in OMB Circular A-119 related to conformity assessment activities.
 
-(1) Effective use of agency conformity assessment related resources and participation in conformity assessment related activities of agency interest.
+(b) Encourage effective use of agency conformity assessment related resources.
 
-(2) Development and dissemination of agency technical and policy positions.
+(c) Provide ongoing assistance and policy guidance to the agency on significant issues in conformity assessment.
 
-(3) Development of agency positions on conformity assessment related issues that are in the public interest.
+(d) Contribute to the development and dissemination of:
 
-(b) Ensure that agency participation in conformity assessment related activities is consistent with agency missions, authorities, priorities, and budget.
+(1) Internal agency policies related to conformity assessment issues; and
 
-(c) Cooperate with NIST in carrying out agency responsibilities under the guidance in this part.
+(2) Agency positions on conformity assessment related issues that are in the public interest.
 
-(d) Consult with NIST, as necessary, in the development and issuance of internal agency procedures and guidance implementing the policies in this part.
+(e) Work with other parts of the agency to develop and implement improvements in agency conformity assessment activities.
 
-(e) Establish an ongoing process for reviewing his/her agency's existing conformity assessment activities and identifying areas where efficiencies can be achieved through coordination with other agency and private sector conformity assessment activities.
+(f) Participate in the Interagency Committee on Standards Policy (ICSP) as the agency representative and member.
 
-(f) Work with other parts of his/her agency to develop and implement improvements in agency conformity assessment related activities.
+(g) Promote agency participation in ICSP working groups related to conformity assessment issues, as needed.
 
-(g) Report to NIST, on a voluntary basis, on agency conformity assessment activities for inclusion in the annual report to the Office of Management and Budget (OMB) on the agency's implementation of OMB Circular A-119.
+(h) Encourage agency participation in efforts related to the development of voluntary consensus standards, recommendations, and guidelines related to conformity assessment consistent with agency missions, authorities, priorities, and resources.
+
+(i) Establish an ongoing process for reviewing the agency's conformity assessment programs and identify areas where efficiencies can be achieved through coordination within the agency and among other agencies and private sector conformity assessment activities.

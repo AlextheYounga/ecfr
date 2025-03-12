@@ -1,5 +1,7 @@
 ##### § 590.506 Candling and transfer-room facilities and equipment. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68679, Oct. 29, 2020.
+
 (a) The room shall be so constructed that it can be adequately darkened to assure accuracy in removal of inedible or loss eggs by candling. Equipment shall be arranged so as to facilitate cleaning and the removal of refuse and excess packing material.
 
 (b) The construction of the floor shall allow thorough cleaning. The floors shall be of water-resistant composition and provided with proper drainage.

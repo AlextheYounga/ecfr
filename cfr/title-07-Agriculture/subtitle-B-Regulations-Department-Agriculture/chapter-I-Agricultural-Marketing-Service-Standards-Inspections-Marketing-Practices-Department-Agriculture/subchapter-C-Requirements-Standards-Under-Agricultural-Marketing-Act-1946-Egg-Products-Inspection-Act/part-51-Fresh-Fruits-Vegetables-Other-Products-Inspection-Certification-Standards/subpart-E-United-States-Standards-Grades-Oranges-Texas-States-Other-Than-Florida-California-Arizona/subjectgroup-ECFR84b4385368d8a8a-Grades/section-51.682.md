@@ -1,5 +1,7 @@
 ##### § 51.682 U.S. No. 1. #####
 
+Link to an amendment published at 85 FR 68426, Oct. 29, 2020.
+
 “U.S. No. 1” consists of oranges which meet the following requirements:
 
 (a) Basic requirements:

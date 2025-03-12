@@ -1,5 +1,7 @@
 ##### § 1300.02 Definitions relating to listed chemicals. #####
 
+Link to an amendment published at 85 FR 68461, Oct. 29, 2020.
+
 (a) Any term not defined in this part shall have the definition set forth in section 102 of the Act (21 U.S.C. 802), except that certain terms used in part 1316 of this chapter are defined at the beginning of each subpart of that part.
 
 (b) As used in parts 1309, 1310, and 1313 of this chapter, the following terms shall have the meaning specified:

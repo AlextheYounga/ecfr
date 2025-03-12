@@ -1,5 +1,7 @@
 ##### § 590.28 Other inspections. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68674, Oct. 29, 2020.
+
 (a) Periodic inspections shall be made of:
 
 (1) The records of all persons engaged in the business of transporting, shipping, or receiving any eggs or egg products.

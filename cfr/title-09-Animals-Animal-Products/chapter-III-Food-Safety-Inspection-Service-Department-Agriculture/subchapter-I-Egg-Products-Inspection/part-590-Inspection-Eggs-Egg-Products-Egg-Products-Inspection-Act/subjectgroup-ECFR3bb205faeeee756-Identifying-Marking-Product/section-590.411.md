@@ -1,5 +1,7 @@
 ##### § 590.411 Requirement of formulas and approval of labels for use in official egg products plants. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68676, Oct. 29, 2020.
+
 (a) No label, container, or packaging material which bears official identification may bear any statement that is false or misleading. Any label, container, or packaging material which bears any official identification shall be used only in such manner as the Administrator may prescribe. No label, container, or packaging material bearing official identification may be used unless it is approved by the Administrator in accordance with paragraph (b) of this section. The use of finished labels must be approved as prescribed by the Administrator. If the label is printed on or otherwise applied directly to the container or packaging material, the principal display panel thereof shall be considered as the label.
 
 (b) No label, container, or packaging material bearing official identification may be printed or prepared for use until the printers' or other final proof has been approved by the Administrator in accordance with the regulations in this part, the Egg Products Inspection Act, the Federal Food, Drug, and Cosmetic Act, the Fair Packaging and Labeling Act, and the regulations promulgated under these acts. Copies of each label submitted for approval shall be accompanied by:

@@ -1,5 +1,7 @@
 ##### § 590.136 Facilities and equipment to be furnished by official plants for use of inspectors in performing service. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68675, Oct. 29, 2020.
+
 (a) Such facilities and equipment shall include but not be limited to a room or area suitable for sampling product, and acceptable candling light, flashlight, heavy duty, high speed drill with an eleven sixteenths-inch or larger bit of sufficient length to reach the bottom of containers used for frozen eggs, metal stem thermometer(s), test thermometer(s), stop watch, test weighing scale(s) and test weight(s), test kit for determining the bactericidal strength of sanitizing solutions, and stationary or adequately secured storage box or cage (capable of being locked only by the inspector) for holding official samples.
 
 (b) Furnished office space and equipment, including but not being limited to a desk (equipped with a satisfactory locking device), lockers or cabinets suitable for the protection and storage of supplies, and facilities suitable for inspectors to change clothing.

@@ -1,5 +1,7 @@
 ##### § 590.410 Shell eggs and egg products required to be labeled. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68676, Oct. 29, 2020.
+
 (a) All shell eggs packed into containers destined for the ultimate consumer shall be labeled to indicate that refrigeration is required, e.g., “Keep Refrigerated,” or words of similar meaning.
 
 (b) Containers and portable tanks of edible egg products, prior to leaving the official plant, shall be labeled in accordance with §§ 590.411 through 590.415 and shall bear the official identification shown in Figure 2 of § 590.412 or Figure 3 or 4 of § 590.415. Bulk transport shipments of liquid pasteurized egg products to nonofficial outlets need not be sealed. Bulk shipments of liquid egg products transported from one official plant to another shall be sealed and accompanied by an official certificate.

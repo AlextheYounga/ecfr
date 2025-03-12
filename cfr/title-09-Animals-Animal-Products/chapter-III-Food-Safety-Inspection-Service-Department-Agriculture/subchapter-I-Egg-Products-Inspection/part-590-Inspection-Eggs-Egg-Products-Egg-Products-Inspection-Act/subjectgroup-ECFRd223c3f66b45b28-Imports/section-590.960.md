@@ -1,5 +1,7 @@
 ##### § 590.960 Small importations for consignee's personal use, display, or laboratory analysis. #####
 
+Link to an amendment published at 85 FR 68681, Oct. 29, 2020.
+
 Any egg products which are offered for importation, exclusively for the consignee's personal use, display, or laboratory analysis, and not for sale or distribution; which is sound, healthful, wholesome, and fit for human food; and which is not adulterated and does not contain any substance not permitted by the Act or regulations, may be admitted into the United States without a foreign inspection certificate. Such product is not required to be inspected upon arrival in the United States and may be shipped to the consignee without further restriction under this part: *Provided,* That the Department may, with respect to any specific importation, require that the consignee certify that such product is exclusively for the consignee's personal use, display, or laboratory analysis and not for sale or distribution. The amount of such product imported shall not exceed 30 pounds of liquid or frozen eggs, or 50 pounds of dried egg products, unless otherwise authorized by the Administrator.
 
 [37 FR 6660, Apr. 1, 1972. Redesignated at 42 FR 32514, June 27, 1977, and further redesignated at 46 FR 63203, Dec. 31, 1981, as amended at 63 FR 69972, Dec. 17, 1998]

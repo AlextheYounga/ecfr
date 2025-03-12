@@ -1,5 +1,7 @@
 ##### § 590.417 Unauthorized use or disposition of approved labels. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.
+
 (a) Containers or labels which bear official identification approved for use pursuant to § 590.411 shall be used only for the purpose for which approved. Any unauthorized use or disposition of approved containers or labels which bear any official identification may result in cancellation of the approval and denial of the use of containers or labels bearing official identification and may subject such violator to the penalties and denial of the benefits of the Act;
 
 (b) The use of simulations or imitations of any official identification by any person is prohibited;

@@ -1,5 +1,7 @@
 ##### § 590.950 Labeling of containers of eggs or egg products for importation. #####
 
+Link to an amendment published at 85 FR 68681, Oct. 29, 2020.
+
 (a) Immediate containers of product offered for importation shall bear a label, printed in English, showing:
 
 (1) The name of product;

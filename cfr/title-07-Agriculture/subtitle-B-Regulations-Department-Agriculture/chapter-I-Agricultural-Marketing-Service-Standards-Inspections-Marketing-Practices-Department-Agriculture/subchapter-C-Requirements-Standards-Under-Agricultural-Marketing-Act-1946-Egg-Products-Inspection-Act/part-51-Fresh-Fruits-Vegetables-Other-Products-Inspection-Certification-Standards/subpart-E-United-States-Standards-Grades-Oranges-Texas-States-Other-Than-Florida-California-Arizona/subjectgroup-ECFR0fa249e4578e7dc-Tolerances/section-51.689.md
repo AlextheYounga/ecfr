@@ -1,5 +1,7 @@
 ##### § 51.689 Tolerances. #####
 
+Link to an amendment published at 85 FR 68427, Oct. 29, 2020.
+
 In order to allow for variations incident to proper grading and handling in each of the foregoing grades, based on sample inspection, the number of defective or off-size specimens in the lot, shall be within the limitations specified in Tables I and II. No tolerance shall apply to wormy fruit.
 
 Table I - Shipping Point<sup>1</sup>

@@ -1,5 +1,7 @@
 ##### § 590.160 Refusal, suspension, or withdrawal of service. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68675, Oct. 29, 2020.
+
 (a) The Administrator (for such period, or indefinitely, as he deems necessary to effectuate the purposes of the Act) may refuse to provide or may withdraw inspection service under this part with respect to any plant if he determines after opportunity for a hearing (following the procedures of 7 CFR, part 1, subpart H) is accorded to the applicant for, or recipient of, such service, that such applicant or recipient is unfit to engage in any business requiring inspection under the Act or this part, because the applicant or recipient or anyone responsibly connected with such person has been convicted in any Federal or State court, within the previous 10 years, of (1) any felony or more than one misdemeanor under any law based upon the acquiring, handling, or distributing of adulterated, mislabeled, or deceptively packaged food or fraud in connection with transactions in food or (2) any felony, involving, fraud, bribery, extortion, or any other act or circumstances indicating a lack of the integrity needed for the conduct of operations affecting the public health.
 
 (b) For the purpose of this section, a person shall be deemed to be responsibly connected with the business if he is a partner, officer, director, holder, or owner of 10 percentum or more of its voting stock, or employee in a managerial or executive capacity.

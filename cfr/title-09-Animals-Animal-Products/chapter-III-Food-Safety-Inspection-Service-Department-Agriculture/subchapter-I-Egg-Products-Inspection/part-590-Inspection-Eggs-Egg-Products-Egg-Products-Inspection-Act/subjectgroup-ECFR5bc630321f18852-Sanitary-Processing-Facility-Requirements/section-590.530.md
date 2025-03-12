@@ -1,5 +1,7 @@
 ##### § 590.530 Liquid egg cooling. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68680, Oct. 29, 2020.
+
 (a) Liquid egg storage rooms, including surface coolers and holding tank rooms, shall be kept clean and free from objectionable odors and condensation. Surface coolers and liquid holding vats containing product shall be kept covered while in use. Liquid cooling units shall be of approved construction and have sufficient capacity to cool all liquid eggs to the temperature requirements specified in this section.
 
 (b) Compliance with temperature requirements applying to liquid eggs shall be considered as satisfactory only if the entire mass of the liquid meets the requirements.

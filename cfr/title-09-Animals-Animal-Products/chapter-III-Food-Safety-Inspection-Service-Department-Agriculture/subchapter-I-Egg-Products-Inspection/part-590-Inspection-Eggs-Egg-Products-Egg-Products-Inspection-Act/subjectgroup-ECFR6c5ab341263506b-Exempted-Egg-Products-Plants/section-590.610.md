@@ -1,5 +1,7 @@
 ##### § 590.610 Criteria for exemption. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68680, Oct. 29, 2020.
+
 Any plant processing egg products may qualify for exemption where:
 
 (a) The facility, operating procedures and practices, and sanitation meet the standards required for official egg products plants as are contained in §§ 590.500 through 590.580, and such exempted plants shall thereafter be subject to other provisions applicable to official plants which shall include maintaining records such as pasteurization temperatures and holding times, laboratory records, egg products testing procedures, and making all such records available for review.

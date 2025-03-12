@@ -1,5 +1,7 @@
 ##### § 590.575 Heat treatment of dried whites. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68680, Oct. 29, 2020.
+
 Heat treatment of dried whites is an approved method for pasteurization and the product shall be heated throughout for such times and at such temperatures as will result in salmonella negative product.
 
 (a) The product to be heat treated shall be held in the heat treatment room in closed containers and shall be spaced to assure adequate heat penetration and air circulation. Each container shall be identified as to type of product (spray or pan dried) and with the lot number or production code number.

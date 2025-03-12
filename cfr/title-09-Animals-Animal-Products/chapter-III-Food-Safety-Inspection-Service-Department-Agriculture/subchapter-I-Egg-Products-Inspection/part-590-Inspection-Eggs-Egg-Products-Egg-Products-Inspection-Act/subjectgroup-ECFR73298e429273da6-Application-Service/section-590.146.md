@@ -1,5 +1,7 @@
 ##### § 590.146 Application for continuous inspection in official plants; approval. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68675, Oct. 29, 2020.
+
 Any person desiring to process egg products under continuous inspection service must receive approval of such plant and facilities as an official plant prior to the installation of such service. An application for continuous inspection service to be installed in an official plant shall be approved according to the following procedure:
 
 (a) Initial survey: When an application for continuous inspection in a plant has been filed, a supervisory egg products inspector will make a survey and inspection of the premises and plant to determine if the facilities and methods of operation therein are suitable and adequate for service in accordance with:

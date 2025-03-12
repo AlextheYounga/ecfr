@@ -1,5 +1,7 @@
 ##### § 590.544 Spray process powder; definitions and requirements. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68680, Oct. 29, 2020.
+
 (a) Definition of product:
 
 (1) *Primary powder* is that powder which is continuously removed from the primary or main drying chamber while the drying unit is in operation.

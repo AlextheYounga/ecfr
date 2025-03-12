@@ -1,3 +1,11 @@
-##### § 552.307 Property; property interest. #####
+##### § 552.307 Licenses; general and specific. #####
 
-The terms *property* and *property interest* include, but are not limited to, money, checks, drafts, bullion, bank deposits, savings accounts, debts, indebtedness, obligations, notes, guarantees, debentures, stocks, bonds, coupons, any other financial instruments, bankers acceptances, mortgages, pledges, liens or other rights in the nature of security, warehouse receipts, bills of lading, trust receipts, bills of sale, any other evidences of title, ownership or indebtedness, letters of credit and any documents relating to any rights or obligations thereunder, powers of attorney, goods, wares, merchandise, chattels, stocks on hand, ships, goods on ships, real estate mortgages, deeds of trust, vendors' sales agreements, land contracts, leaseholds, ground rents, real estate and any other interest therein, options, negotiable instruments, trade acceptances, royalties, book accounts, accounts payable, judgments, patents, trademarks or copyrights, insurance policies, safe deposit boxes and their contents, annuities, pooling agreements, services of any nature whatsoever, contracts of any nature whatsoever, and any other property, real, personal, or mixed, tangible or intangible, or interest or interests therein, present, future, or contingent.
+(a) Except as otherwise provided in this part, the term *license* means any license or authorization contained in or issued pursuant to this part.
+
+(b) The term *general license* means any license or authorization the terms of which are set forth in subpart E of this part or made available on OFAC's website: *www.treasury.gov/ofac.*
+
+(c) The term *specific license* means any license or authorization issued pursuant to this part but not set forth in subpart E of this part or made available on OFAC's website: *www.treasury.gov/ofac.*
+
+Note 1 to § 552.307.
+
+*See* § 501.801 of this chapter on licensing procedures.

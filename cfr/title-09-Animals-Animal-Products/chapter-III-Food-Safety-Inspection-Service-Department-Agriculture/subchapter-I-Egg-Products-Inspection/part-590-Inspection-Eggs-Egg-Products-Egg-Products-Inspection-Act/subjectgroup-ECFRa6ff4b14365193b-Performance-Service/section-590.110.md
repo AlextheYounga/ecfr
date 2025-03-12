@@ -1,5 +1,7 @@
 ##### § 590.110 Licensed inspectors. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.
+
 (a) Any person who is a Federal or State employee, or the employee of a local jurisdiction possessing proper qualifications as determined by an examination for competency and who is to perform services pursuant to this part, may be licensed by the Secretary as an inspector.
 
 (b) Licenses issued by the Secretary are to be countersigned by the Administrator or by any other designated official of the Service.

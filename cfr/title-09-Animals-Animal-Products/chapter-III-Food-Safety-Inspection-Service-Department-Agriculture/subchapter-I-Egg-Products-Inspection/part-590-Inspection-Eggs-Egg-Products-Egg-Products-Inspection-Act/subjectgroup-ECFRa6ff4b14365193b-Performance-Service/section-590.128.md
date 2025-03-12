@@ -1,5 +1,7 @@
 ##### § 590.128 Holiday inspection service. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.
+
 (a) When an official plant requires inspection service on a holiday or a day designated in lieu of a holiday, such service is considered holiday work. The official plant must, in advance of such holiday work, request the inspector in charge to furnish inspection service during such period and must pay the Agency for such holiday work at the hourly rate. For each calendar year, FSIS calculates the holiday rate for inspection service, per hour per program employee, using the following formula: The quotient of dividing the Office of Field Operations plus Office of International Affairs inspection program personnel's previous fiscal year's regular direct pay by the previous fiscal year's regular hours, plus the quotient multiplied by the calendar year's percentage of cost of living increase, multiplied by 2, plus the benefits rate, plus the travel and operating rate, plus the overhead rate, plus the allowance for bad debt rate. FSIS will calculate the benefits rate, the travel and operating rate, the overhead rate, and the allowance for bad debt rate using the formulas set forth in § 592.510(b), and the cost of living increases and percentage of inflation factors set forth in § 592.510(c) of this chapter.
 
 (b) The term “holiday” shall mean the legal public holidays specified by the Congress in paragraph (a) of section 6103, title 5 of the United States Code. Information on legal holidays may be obtained from the supervisor.

@@ -1,5 +1,7 @@
 ##### § 590.546 Albumen flake process drying facilities. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68680, Oct. 29, 2020.
+
 (a) Drying facilities shall be constructed in such a manner as will allow thorough cleaning and be equipped with approved intake filters.
 
 (b) The intake air source shall be free from foul odors, dust, and dirt.

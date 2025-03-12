@@ -1,5 +1,7 @@
 ##### § 590.640 Application for exemption; approval. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68680, Oct. 29, 2020.
+
 Any person desiring to process egg products pursuant to the exemption provision of the Act and these regulations must receive approval of such plant, facilities, and operating procedures as an exempted plant. An application for exemption shall be according to the following:
 
 (a) *Initial survey.* When an application for exemption of a plant has been filed, a Supervisory Egg Products Inspector will make a survey and inspection of the premises and plant to determine if the facilities, methods of operation, and eggs received or used therein are suitable and adequate in accordance with:

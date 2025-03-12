@@ -1,5 +1,7 @@
 ##### § 500.3 Withholding action or suspension without prior notification. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.
+
 (a) FSIS may take a withholding action or impose a suspension without providing the establishment prior notification because:
 
 (1) The establishment produced and shipped adulterated or misbranded product as defined in 21 U.S.C. 453 or 21 U.S.C. 602;

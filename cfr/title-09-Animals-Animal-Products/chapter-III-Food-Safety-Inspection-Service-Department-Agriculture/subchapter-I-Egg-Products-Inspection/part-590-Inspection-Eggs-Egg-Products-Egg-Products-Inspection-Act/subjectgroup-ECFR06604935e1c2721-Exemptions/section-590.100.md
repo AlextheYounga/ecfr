@@ -1,5 +1,7 @@
 ##### § 590.100 Specific exemptions. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68674, Oct. 29, 2020.
+
 The following are exempt to the extent prescribed as to the provision for continuous inspection of processing operations in section 5(a) of the Act: *Provided,* That the conditions for exemption and provisions of these regulations are met:
 
 (a) [Reserved]

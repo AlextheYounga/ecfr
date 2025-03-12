@@ -1,5 +1,7 @@
 ##### § 590.515 Egg cleaning operations. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68680, Oct. 29, 2020.
+
 (a) The following requirements shall be met when washing shell eggs to be presented for breaking:
 
 (1) Shell egg cleaning equipment shall be kept in good repair and shall be cleaned after each day's use or more frequently if necessary.

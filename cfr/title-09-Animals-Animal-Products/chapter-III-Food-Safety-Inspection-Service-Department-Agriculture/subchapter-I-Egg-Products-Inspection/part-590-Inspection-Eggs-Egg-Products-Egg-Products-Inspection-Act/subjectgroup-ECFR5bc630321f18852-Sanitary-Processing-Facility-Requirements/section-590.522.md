@@ -1,5 +1,7 @@
 ##### § 590.522 Breaking room operations. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68680, Oct. 29, 2020.
+
 (a) The breaking room shall be kept in a dust-free clean condition and free from flies, insects, and rodents. The floor shall be kept clean and reasonably dry during breaking operations and free of egg meat and shells.
 
 (b) All breaking room personnel shall wash their hands thoroughly with odorless soap and water each time they enter the breaking room and prior to receiving clean equipment after breaking an inedible egg.

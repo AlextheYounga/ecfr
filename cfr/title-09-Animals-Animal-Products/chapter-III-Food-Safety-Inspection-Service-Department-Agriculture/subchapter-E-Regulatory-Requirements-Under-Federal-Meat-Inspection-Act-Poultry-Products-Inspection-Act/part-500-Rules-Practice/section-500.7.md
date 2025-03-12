@@ -1,5 +1,7 @@
 ##### § 500.7 Refusal to grant inspection. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.
+
 (a) The FSIS Administrator may refuse to grant Federal inspection because an applicant:
 
 (1) Does not have a HACCP plan as required by part 417 of this chapter;

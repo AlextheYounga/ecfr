@@ -1,5 +1,7 @@
 ##### § 590.539 Defrosting operations. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.
+
 (a) Frozen egg products which are to be defrosted shall be defrosted in a sanitary manner.
 
 (b) Each container of frozen eggs shall be checked for condition and odor just prior to being emptied into the crusher or receiving tank. Frozen eggs which have objectionable odors and are unfit for human food (e.g., sour, musty, fermented, or decomposed odors) shall be denatured.

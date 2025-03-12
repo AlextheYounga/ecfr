@@ -1,5 +1,7 @@
 ##### § 500.6 Withdrawal of inspection. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.
+
 The FSIS Administrator may file a complaint to withdraw a grant of Federal inspection in accordance with the Uniform Rules of Practice, 7 CFR subtitle A, part 1, subpart H because:
 
 (a) An establishment produced and shipped adulterated product;

@@ -1,5 +1,7 @@
 ##### § 590.500 Plant requirements. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68679, Oct. 29, 2020.
+
 (a) The plant shall be free from objectionable odors, dust, and smokeladen air.
 
 (b) The premises shall be free from refuse, rubbish, waste, and other materials and conditions which constitute a source of odors or a harbor for insects, rodents, and other vermin.

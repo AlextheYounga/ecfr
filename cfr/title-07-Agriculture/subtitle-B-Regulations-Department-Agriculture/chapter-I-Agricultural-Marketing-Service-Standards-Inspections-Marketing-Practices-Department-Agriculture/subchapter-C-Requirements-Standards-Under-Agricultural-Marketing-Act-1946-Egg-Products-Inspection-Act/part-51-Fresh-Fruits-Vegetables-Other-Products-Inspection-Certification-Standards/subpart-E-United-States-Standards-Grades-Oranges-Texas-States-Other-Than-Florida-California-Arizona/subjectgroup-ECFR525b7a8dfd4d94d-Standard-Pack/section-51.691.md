@@ -1,5 +1,7 @@
 ##### § 51.691 Standard pack for oranges except Temple variety. #####
 
+Link to an amendment published at 85 FR 68427, Oct. 29, 2020.
+
 (a) Fruit shall be fairly uniform in size. When packed in approved containers, fruit shall be arranged according to the approved and recognized methods.
 
 (b) “Fairly uniform in size” means that not more than the number of fruit permitted in § 51.689, Tables I and II, are outside the ranges of diameters given in Table III:

@@ -1,5 +1,7 @@
 ##### § 590.945 Foreign egg products offered for importation; reporting of findings to customs; handling of products refused entry. #####
 
+Link to an amendment published at 85 FR 68681, Oct. 29, 2020.
+
 (a) Inspectors shall report their findings to the collector of customs at the port where products are offered for entry, and shall request the collector to refuse entry to egg products which are marked or designated “U.S. Refused Entry” or otherwise are not in compliance with the regulations in this part. Unless such products are exported by the consignee within a time specified by the collector of customs (usually 30 days), the consignee shall cause the destruction of such products for human food purposes under the supervision of an inspector. If products are destroyed for human food purposes under the supervision of an inspector, he shall give prompt notice thereof to the District Director of Customs.
 
 (b) Consignees shall, at their own expense, return immediately to the collector of customs, in means of conveyance or packages sealed by the U.S. Department of Agriculture, any egg products received by them under this part which in any respect do not comply with this part.

@@ -1,5 +1,7 @@
 ##### § 51.621 U.S. No. 1. #####
 
+Link to an amendment published at 85 FR 68422, Oct. 29, 2020.
+
 “U.S. No. 1” consists of grapefruit which meet the following requirements:
 
 (a) Basic requirement:

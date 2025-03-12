@@ -1,5 +1,7 @@
 ##### § 590.580 Laboratory tests and analyses. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68680, Oct. 29, 2020.
+
 The official plant, at their expense, shall make tests and analyses to determine compliance with the Act and the regulations.
 
 (a) Samples shall be drawn from liquid, frozen or dried egg products and analyzed for compliance with the standards of identity (if any) and with the product label.

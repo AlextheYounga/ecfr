@@ -1,5 +1,7 @@
 ##### § 590.542 Spray process drying operations. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68680, Oct. 29, 2020.
+
 (a) The drying room shall be kept in a clean condition and free of flies, insects, and rodents.
 
 (b) Low-pressure lines, high-pressure lines, high- and low-pressure pumps, homogenizers, and pasteurizers shall be cleaned by acceptable inplace cleaning methods or dismantled and cleaned after use or as necessary when operations have been interrupted.

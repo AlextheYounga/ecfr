@@ -1,5 +1,7 @@
 ##### § 590.560 Health and hygiene of personnel. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68680, Oct. 29, 2020.
+
 (a) Personnel facilities, including toilets, lavatories, lockers, and dressing rooms shall be adequate and meet State and local requirements for food processing plants.
 
 (b) Toilets and dressing rooms shall be kept clean and adequately ventilated to eliminate odors and kept adequately supplied with soap, towels, and tissues. Toilet rooms shall be ventilated to the outside of the building.

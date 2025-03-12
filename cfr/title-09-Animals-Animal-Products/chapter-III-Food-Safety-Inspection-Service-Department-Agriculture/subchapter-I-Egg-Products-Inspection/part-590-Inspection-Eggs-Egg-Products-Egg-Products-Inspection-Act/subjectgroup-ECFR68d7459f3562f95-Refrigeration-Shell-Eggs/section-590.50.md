@@ -1,5 +1,7 @@
 ##### § 590.50 Temperature and labeling requirements. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68674, Oct. 29, 2020.
+
 (a) No shell egg handler shall possess any shell eggs that are packed into containers destined for the ultimate consumer unless they are stored and transported under refrigeration at an ambient temperature of no greater than 45 °F (7.2 °C).
 
 (b) No shell egg handler shall possess any shell eggs that are packed into containers destined for the ultimate consumer unless they are labeled to indicate that refrigeration is required.

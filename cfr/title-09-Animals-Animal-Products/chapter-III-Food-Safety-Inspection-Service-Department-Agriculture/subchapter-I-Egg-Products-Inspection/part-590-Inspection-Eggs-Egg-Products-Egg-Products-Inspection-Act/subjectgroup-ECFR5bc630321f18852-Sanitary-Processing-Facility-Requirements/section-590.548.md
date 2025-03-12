@@ -1,5 +1,7 @@
 ##### § 590.548 Drying, blending, packaging, and heat treatment rooms and facilities. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68680, Oct. 29, 2020.
+
 (a) *General.* Processing rooms shall be maintained in a clean condition and free of flies, insects, and rodents. The drying, blending, and packaging rooms shall be well-lighted and have ceilings and walls of a tile surface, enamel paint, or other water-resistant material.
 
 (1) The floors shall be free from cracks or rough surfaces where water or dirt could accumulate.

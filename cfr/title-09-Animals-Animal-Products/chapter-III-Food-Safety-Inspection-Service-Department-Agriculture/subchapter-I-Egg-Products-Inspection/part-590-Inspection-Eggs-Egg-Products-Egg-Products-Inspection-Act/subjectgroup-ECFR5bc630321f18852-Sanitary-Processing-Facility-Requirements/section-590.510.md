@@ -1,5 +1,7 @@
 ##### § 590.510 Classifications of shell eggs used in the processing of egg products. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68680, Oct. 29, 2020.
+
 (a) The shell eggs shall be sorted and classified into the following categories in a manner approved by the National Supervisor:
 
 (1) Eggs listed in paragraph (d) of this section.

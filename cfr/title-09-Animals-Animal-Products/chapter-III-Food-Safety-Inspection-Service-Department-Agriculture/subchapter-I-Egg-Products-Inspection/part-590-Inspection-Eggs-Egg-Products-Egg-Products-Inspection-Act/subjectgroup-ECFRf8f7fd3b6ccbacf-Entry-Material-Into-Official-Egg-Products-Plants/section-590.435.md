@@ -1,5 +1,7 @@
 ##### § 590.435 Wholesomeness and approval of materials. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68679, Oct. 29, 2020.
+
 (a) Substances and ingredients used in the manufacture or preparation of any egg product capable of use as human food shall be clean, wholesome, and unadulterated.
 
 (b) The use of chemical additives in egg products shall be permitted only when they are approved by the Administrator. The Administrator may require, in addition to listing the ingredients, a declaration of the additive, and the purpose of its use.

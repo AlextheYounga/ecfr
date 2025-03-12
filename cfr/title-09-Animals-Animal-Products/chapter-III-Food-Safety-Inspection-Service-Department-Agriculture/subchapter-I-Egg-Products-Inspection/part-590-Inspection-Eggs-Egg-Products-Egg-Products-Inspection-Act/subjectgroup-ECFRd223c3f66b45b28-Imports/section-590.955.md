@@ -1,5 +1,7 @@
 ##### § 590.955 Labeling of shipping containers of eggs or egg products for importation. #####
 
+Link to an amendment published at 85 FR 68681, Oct. 29, 2020.
+
 (a) Shipping containers of foreign product which are shipped to the United States shall bear in a prominent and legible manner:
 
 (1) The common or usual name of the product;

@@ -1,5 +1,7 @@
 ##### § 590.407 Export certification and marking of containers with export inspection mark. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.
+
 (a) Exporters must apply for export certification of inspected and passed products shipped to any foreign country. Exporters may apply for an export certificate using a paper or electronic application. FSIS will assess exporters that submit an electronic application the charge in § 592.500(d) of this chapter.
 
 (b) FSIS will issue only one certificate for each consignment, except in the case of error in the certificate or loss of the certificate originally issued. A request for a replacement certificate, except in the case of a lost certificate, must be accompanied by the original certificate. The new certificate will carry the following statement: “Issued in replacement of \_\_\_”, with the numbers of the certificates that have been superseded.

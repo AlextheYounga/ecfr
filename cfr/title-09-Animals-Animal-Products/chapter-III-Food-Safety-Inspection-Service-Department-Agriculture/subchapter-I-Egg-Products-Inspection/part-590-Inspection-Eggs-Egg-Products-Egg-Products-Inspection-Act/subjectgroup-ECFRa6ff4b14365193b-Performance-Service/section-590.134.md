@@ -1,5 +1,7 @@
 ##### § 590.134 Accessibility of product and cooler rooms. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68674, Oct. 29, 2020.
+
 (a) Each product for which inspection service is required shall be so placed as to disclose fully its class, quality, quantity, and condition as the circumstances may warrant.
 
 (b) The perimeter of each cooler room used to store shell eggs packed in containers destined for the ultimate consumer shall be made accessible in order for the Secretary's representatives to determine the ambient temperature under which shell eggs are stored.

@@ -1,3 +1,3 @@
-##### § 552.802 Delegation by the Secretary of the Treasury. #####
+##### § 552.802 Delegation of certain authorities of the Secretary of the Treasury. #####
 
-Any action that the Secretary of the Treasury is authorized to take pursuant to Executive Order 13611 of May 16, 2012 (77 FR 29533, May 18, 2012), and any further Executive orders relating to the national emergency declared therein, may be taken by the Director of the Office of Foreign Assets Control or by any other person to whom the Secretary of the Treasury has delegated authority so to act.
+Any action that the Secretary of the Treasury is authorized to take pursuant to Executive Order 13611 of May 16, 2012, and any further Executive orders relating to the national emergency declared therein, may be taken by the Director of OFAC or by any other person to whom the Secretary of the Treasury has delegated authority so to act.

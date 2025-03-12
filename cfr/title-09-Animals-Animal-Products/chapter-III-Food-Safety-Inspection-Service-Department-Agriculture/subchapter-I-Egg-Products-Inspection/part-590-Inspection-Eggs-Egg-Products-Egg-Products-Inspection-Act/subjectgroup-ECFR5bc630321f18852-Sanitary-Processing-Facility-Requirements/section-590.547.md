@@ -1,5 +1,7 @@
 ##### § 590.547 Albumen flake process drying operations. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 68680, Oct. 29, 2020.
+
 (a) The fermentation, drying, and curing rooms shall be kept in a dust-free clean condition and free of flies, insects, and rodents.
 
 (b) Drying units, racks, and trucks shall be kept in a clean and sanitary condition.

@@ -1,5 +1,7 @@
 ##### § 590.5 Terms defined. #####
 
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.
+
 For the purpose of these regulations, unless the context otherwise requires, the following terms shall be construed, respectively, as follows:
 
 *Acceptable* means suitable for the purpose intended and acceptable to the Administrator.
