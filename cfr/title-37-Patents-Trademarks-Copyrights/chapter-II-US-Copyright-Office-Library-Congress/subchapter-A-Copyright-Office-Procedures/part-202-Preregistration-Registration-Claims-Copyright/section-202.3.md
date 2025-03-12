@@ -1,7 +1,5 @@
 ##### § 202.3 Registration of copyright. #####
 
-Link to an amendment published at 82 FR 29413, June 29, 2017.
-
 (a) *General.* (1) This section prescribes conditions for the registration of copyright, and the application to be made for registration under sections 408 and 409 of title 17 of the United States Code.
 
 (2) For the purposes of this section, the terms *audiovisual work*, *compilation*, *copy*, *derivative work*, *device*, *fixation*, *literary work*, *motion picture*, *phonorecord*, *pictorial, graphic and sculptural works*, *process*, *sound recording*, and their variant forms, have the meanings set forth in section 101 of title 17. The term *author* includes an employer or other person for whom a work is “made for hire” under section 101 of title 17.
@@ -68,7 +66,7 @@ Link to an amendment published at 82 FR 29413, June 29, 2017.
 
 Registration of an unpublished “collection” extends to each copyrightable element in the collection and to the authorship, if any, involved in selecting and assembling the collection.
 
-(ii) In the case of applications for registration made under paragraphs (b)(4) through (b)(10) of this section, the “year in which creation of this work was completed”, as called for by the application, means the latest year in which the creation of any copyrightable element was completed.
+(ii) In the case of an application for registration made under paragraphs (b)(4) through (10) of this section or under § 202.4, the “year of creation,” “year of completion,” or “year in which creation of this work was completed” means the latest year in which the creation of any copyrightable element was completed.
 
 (5) *Group registration of related works: Automated databases.* (i) Pursuant to the authority granted by section 408(c)(1) of title 17 of the United States Code, the Register of Copyrights has determined that, on the basis of a single application, deposit, and filing fee, a single registration may be made for automated databases and their updates or other derivative versions that are original works of authorship, if, where a database (or updates or other revisions thereof), if unpublished, is (or are) fixed, or if published is (or are) published only in the form of machine-readable copies, all of the following conditions are met:
 
@@ -150,29 +148,7 @@ Registration of an unpublished “collection” extends to each copyrightable el
 
 (ii) As used in this regulation, newspapers means serials which are classified as newspapers under the policy document “Newspapers Received Currently in the Library of Congress,”which is administered by the Newspaper Section of the Serials & Government Publications Division of the Library of Congress. In general, serials classified as newspapers are serials mainly designed to be a primary source of written information on current events, either local, national, or international in scope. A newspaper contains a broad range of news on all subjects and activities and is not limited to any specific subject matter. Newspapers are intended either for the general public or for a particular ethnic, cultural, or national group.
 
-(8) *Group registration of contributions to periodicals.* (i) As provided by section 408(c)(2) of title 17 of the United States Code, a single registration, on the basis of a single application, deposit, and registration fee, may be made for a group of works if all of the following conditions are met:
-
-(A) All of the works are by the same author;
-
-(B) The author of each work is an individual, and not an employer or other person for whom the work was made for hire;
-
-(C) Each of the works was first published as a contribution to a periodical (including newspapers) within a twelve-month period;2
-
-2 This does not require that each of the works must have been first published during the same calendar year; it does require that, to be grouped in a single application, the earliest and latest contributions must not have been first published more than twelve months apart.
-
-(D) Each of the works, if first published before March 1, 1989, bore a separate copyright notice, and the name of the owner of copyright in each work (or an abbreviation by which the name can be recognized, or a generally known alternative designation of the owner) was the same in each notice; and
-
-(E) The deposit accompanying the application must consist of one of the following: one copy of the entire issue of the periodical, or, in the case of a newspaper, the entire section containing the contribution; tear sheets or proof copies of the contribution; a photocopy of the contribution itself, or a photocopy of the entire page containing the contribution; the entire page containing the contribution cut or torn from the collective work; the contribution cut or torn from the collective work; or photographs or photographic slides of the contribution or entire page containing the contribution as long as all contents of the contribution to be registered are clear and legible.
-
-(ii) An application for group registration under section 408(c)(2) of title 17 and paragraph (b)(8) of this section shall consist of:
-
-(A) A basic application for registration on Form TX, Form PA, or Form VA,3 which shall contain the information required by the form and its accompanying instructions;
-
-3 The basic application should be filed in the class appropriate to the nature of authorship in the majority of the contributions. However, if any of the contributions consists preponderantly of nondramatic literary material that is in the English language, the basic application for the entire group should be submitted on Form TX.
-
-(B) An adjunct form prescribed by the Copyright Office and designated “Adjunct Application for Copyright Registration for a Group of Contributions to Periodicals (Form GR/CP)”, which shall contain the information required by the form and its accompanying instructions; and
-
-(C) The appropriate filing fee, as required in § 201.3(c), and the deposit required by paragraph (b)(8)(i)(E) of this section.
+(8) [Reserved]
 
 (9) *Group registration of daily newsletters.* Pursuant to the authority granted by 17 U.S.C. 408(c)(1), the Register of Copyrights has determined that, on the basis of a single application, deposit, and filing fee, a single registration may be made for a group of two or more issues of a daily newsletter if the following conditions are met:
 
@@ -232,15 +208,15 @@ Registration of an unpublished “collection” extends to each copyrightable el
 
 (i) Where a work has been registered as unpublished, another registration may be made for the first published edition of the work, even if it does not represent a new version;
 
-(ii) Where someone other than the author is identified as copyright claimant in a registration, another registration for the same version may be made by the author in his or her own name as copyright claimant;4
+(ii) Where someone other than the author is identified as copyright claimant in a registration, another registration for the same version may be made by the author in his or her own name as copyright claimant;2
 
-4 An *author* includes an employer or other person for whom a work is “made for hire” under 17 U.S.C. 101. This paragraph does not permit an employee or other person working “for hire” under that section to make a later registration in his or her own name. In the case of authors of a joint work, this paragraph does permit a later registration by one author in his or her own name as copyright claimant, where an earlier registration identifies only another author as claimant.
+2 An *author* includes an employer or other person for whom a work is “made for hire” under 17 U.S.C. 101. This paragraph does not permit an employee or other person working “for hire” under that section to make a later registration in his or her own name. In the case of authors of a joint work, this paragraph does permit a later registration by one author in his or her own name as copyright claimant, where an earlier registration identifies only another author as claimant.
 
 (iii) Where an applicant for registration alleges that an earlier registration for the same version is unauthorized and legally invalid, a registration may be made by that applicant.
 
 (c) *Application for registration.* (1) An application for copyright registration may be submitted by any author or other copyright claimant of a work, or the owner of any exclusive right in a work, or the duly authorized agent of any such author, other claimant, or owner.
 
-(2) An application for copyright registration shall be submitted by using one of the methods set forth in paragraph (b) of this section. All completed application forms shall be accompanied by the appropriate filing fee, as required in § 201.3(c) of this chapter, and the deposit copies and materials required under 17 U.S.C. 408 and § 202.20.6 All applications submitted for registration shall supply the information required by the particular application and shall include a certification. The certification shall consist of:
+(2) An application for copyright registration shall be submitted by using one of the methods set forth in paragraph (b) of this section. All completed application forms shall be accompanied by the appropriate filing fee, as required in § 201.3(c) of this chapter, and the deposit copies and materials required under 17 U.S.C. 408 and § 202.20 or § 202.4, as applicable. All applications submitted for registration shall supply the information required by the particular application and shall include a certification. The certification shall consist of:
 
 (i) A designation that the party signing the print application, or submitting the application electronically, falls within an accepted status from among the following: author, claimant, an owner of exclusive rights, or a duly authorized agent of the author, claimant, owner of exclusive rights;
 
@@ -250,6 +226,6 @@ Registration of an unpublished “collection” extends to each copyrightable el
 
 (iv) For print applications, the date of completion of the application form, with the date (month, day, year) printed, typed, or handwritten; or, if an electronically submitted application, the date of electronic receipt of the application by the Copyright Office, which date shall be provided automatically by the Copyright Office.
 
-5 In the case of applications for group registration of newspapers, contributions to periodicals, and newsletters, under paragraphs (b)(7), (b)(8), and (b)(9) of this section, the deposits shall comply with the deposits specified in the respective paragraphs, and the fees with those specified in § 201.3.
+(3) An application for registration of a published work will not be accepted if the date of certification is earlier than the date of publication given in the application.
 
-An application for registration of a published work will not be accepted if the date of certification is earlier than the date of publication given in the application.(Pub. L. 94-553; secs. 408, 409, 410, 702)[43 FR 966, Jan. 5, 1978]Editorial Note:For Federal Register citations affecting § 202.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Pub. L. 94-553; secs. 408, 409, 410, 702)[43 FR 966, Jan. 5, 1978]Editorial Note:For Federal Register citations affecting § 202.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

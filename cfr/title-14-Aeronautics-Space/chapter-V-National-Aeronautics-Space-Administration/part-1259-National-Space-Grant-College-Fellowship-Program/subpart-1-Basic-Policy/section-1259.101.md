@@ -1,5 +1,7 @@
 ##### § 1259.101 Definitions. #####
 
+Link to an amendment published at 82 FR 35440, July 31, 2017.
+
 For the purposes of this part, the following definitions shall apply:
 
 (a) *Field related to space* means any academic discipline or field of study (including the physical, natural and biological sciences, and engineering, space technology, education, economics, sociology, communications, planning, law, international affairs and public administration) which is concerned with or likely to improve the understanding, assessment, development and utilization of space.

@@ -1,6 +1,4 @@
-##### § 165.10 Contents of record for award determinations. #####
-
-Link to an amendment published at 82 FR 24500, May 30, 2017.
+##### § 165.10 Contents of record for award determination. #####
 
 (a) The following items constitute the record upon which the award determination under § 165.7 shall be made:
 
@@ -14,8 +12,14 @@ Link to an amendment published at 82 FR 24500, May 30, 2017.
 
 (5) The transcript of the related administrative hearing or civil injunctive proceeding, including any exhibits entered at the hearing or proceeding;
 
-(6) Any other documents that appear on the docket of the proceeding; and
+(6) Any other documents that appear on the docket of the proceeding;
 
-(7) Sworn declarations (including attachments) from the Commission's Division of Enforcement staff regarding any matters relevant to the award determination.
+(7) Sworn declarations (including attachments) from the Commission's Division of Enforcement staff regarding any matters relevant to the award determination;
 
-(b) The record upon which the award determinations under § 165.7 shall be made shall not include any Commission pre-decisional, attorney-client privilege, attorney work product privilege, or internal deliberative process materials related to the Commission or its staff's determination: To file or settle the related covered judicial or administrative action; and/or whether, to whom and in what amount to make a whistleblower award. Further, the record upon which the award determination under § 165.7 shall be made shall not include any other entity's pre-decisional, attorney-client privilege, attorney work product privilege, or internal deliberative process materials related to its or its staff's determination to file or settle a related action.
+(8) With respect to an award claim involving a Related Action, any statements or other information that an entity provides or identifies in connection with an award determination, provided the entity has authorized the Commission to share the information with the claimant. (Neither the Commission nor the Claims Review Staff may rely upon information that the entity has not authorized the Commission to share with the applicant); and
+
+(9) Any other documents or materials including sworn declarations from third-parties that are received or obtained by the Whistleblower Office to assist the Commission resolve the applicant's award application, including information related to the claimant's eligibility. (Neither the Commission nor the Claims Review Staff may rely upon information that a third party has not authorized the Commission to share with the claimant).
+
+(b) The rules in this part do not entitle a claimant to obtain from the Commission any materials (including any pre-decisional or internal deliberative process materials that are prepared to assist the Commission or Claims Review Staff in deciding the claim) other than those listed in paragraph (a) of this section. The Whistleblower Office may make redactions as necessary to comply with any statutory restrictions, to protect the Commission's law enforcement and regulatory functions, and to comply with requests for confidential treatment from other law enforcement and regulatory authorities.
+
+[76 FR 53200, Aug. 25, 2011, as amended at 82 FR 24500, May 30, 2017]

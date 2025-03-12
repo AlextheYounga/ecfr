@@ -1,5 +1,7 @@
 ##### § 1259.402 Basic criteria and application procedures. #####
 
+Link to an amendment published at 82 FR 35441, July 31, 2017.
+
 (a) Any institution of higher education may be designated a Space Grant college if the Administrator or designee finds that it has a balanced program of research, education, training and advisory services in fields related to space, as further defined in the program announcement.
 
 (b) Any association or other alliance of two or more persons may be designated a Space Grant regional consortium, if the Administrator or designee finds that such association or alliance:

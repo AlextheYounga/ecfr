@@ -1,5 +1,7 @@
 ##### § 1259.401 Responsibilities. #####
 
+Link to an amendment published at 82 FR 35441, July 31, 2017.
+
 Each designated Space Grant college or consortium shall:
 
 (a) Designate a Space Grant Program Director;

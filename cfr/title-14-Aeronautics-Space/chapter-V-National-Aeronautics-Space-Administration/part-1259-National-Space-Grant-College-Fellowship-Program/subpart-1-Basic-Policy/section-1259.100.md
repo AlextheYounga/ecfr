@@ -1,5 +1,7 @@
 ##### § 1259.100 Scope of part. #####
 
+Link to an amendment published at 82 FR 35440, July 31, 2017.
+
 (a) This part 1259 establishes the policies, responsibilities and procedures relative to the National Space Grant College and Fellowship Program established by Title II of the National Aeronautics and Space Administration Authorization Act of 1988 (Pub. L. 100-147, Oct. 30, 1987, 101 Stat. 869-875, 42 U.S.C. 2486). This statute authorizes the Administrator of the National Aeronautics and Space Administration (NASA), in order to carry out the purposes of the National Space Grant College and Fellowship Act (the Act), to accept conditional or unconditional gifts and donations, to accept and use funds from other Federal departments, agencies and instrumentalities, to make awards with respect to such needs or problems and to designate Space Grant colleges. It further directs the Administrator to establish a graduate fellowship program to provide educational assistance to qualified individuals in fields related to space, and to establish an independent committee known as the Space Grant Review Panel to review and advise the Administrator with respect to Space Grant programs.
 
 (b) The regulations of this part do not apply to awards made by NASA under any other authority.

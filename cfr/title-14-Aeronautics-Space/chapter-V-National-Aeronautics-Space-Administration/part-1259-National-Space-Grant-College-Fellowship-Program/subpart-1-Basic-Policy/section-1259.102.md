@@ -1,5 +1,7 @@
 ##### § 1259.102 General policy. #####
 
+Link to an amendment published at 82 FR 35440, July 31, 2017.
+
 (a) In accordance with subsections 103(a)(2) and (3) of the National Aeronautics and Space Act of 1958, as amended, (42 U.S.C. 2457(a)(3)), it is NASA's policy, through various educational programs, to provide direct support for and encouragement to teachers, students and prospective students in fields related to space.
 
 (b) In compliance with the National Space Grant College and Fellowship Act (42 U.S.C. 2486), it shall be NASA's purpose to:

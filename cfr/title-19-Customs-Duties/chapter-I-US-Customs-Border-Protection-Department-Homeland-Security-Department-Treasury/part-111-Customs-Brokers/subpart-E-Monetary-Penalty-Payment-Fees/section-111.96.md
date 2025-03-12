@@ -1,8 +1,6 @@
 ##### § 111.96 Fees. #####
 
-Link to an amendment published at 82 FR 29719, June 30, 2017.
-
-(a) *License fee; examination fee; fingerprint fee.* Each applicant for a broker's license pursuant to § 111.12 must pay a fee of $200 to defray the costs to Customs in processing the application. Each individual who intends to take the written examination provided for in § 111.13 must pay a $200 examination fee before taking the examination. An individual who submits an application for a license must also pay a fingerprint check and processing fee; the port director will inform the applicant of the current Federal Bureau of Investigation fee for conducting fingerprint checks and the Customs fingerprint processing fee, the total of which must be paid to Customs before further processing of the application will occur.
+(a) *License fee; examination fee; fingerprint fee.* Each applicant for a broker's license pursuant to § 111.12 must pay a fee of $200 to defray the costs to Customs in processing the application. Each individual who intends to take the examination provided for in § 111.13 must pay a $390 examination fee before taking the examination. An individual who submits an application for a license must also pay a fingerprint check and processing fee; the port director will inform the applicant of the current Federal Bureau of Investigation fee for conducting fingerprint checks and the Customs fingerprint processing fee, the total of which must be paid to Customs before further processing of the application will occur.
 
 (b) *Permit fee.* A fee of $100 must be paid in connection with each permit application under § 111.19 to defray the costs of processing the application, including an application for reinstatement of a permit that was revoked by operation of law or otherwise.
 
@@ -10,6 +8,6 @@ Link to an amendment published at 82 FR 29719, June 30, 2017.
 
 (d) *Status report fee.* The status report required under § 111.30(d) must be accompanied by a fee of $100 to defray the costs of administering the reporting requirement.
 
-(e) *Method of payment.* All fees prescribed under this section must be paid by check or money order payable to the United States Customs Service.
+(e) *Method of payment.* All fees prescribed under this section must be paid by check or money order payable to the U.S. Customs and Border Protection, or paid by other CBP-approved payment method.
 
-[T.D. 00-17, 65 FR 13891, Mar. 15, 2000, as amended by CBP Dec. 03-13, 68 FR 43630, July 24, 2003; 72 FR 3734, Jan. 26, 2007]
+[T.D. 00-17, 65 FR 13891, Mar. 15, 2000, as amended by CBP Dec. 03-13, 68 FR 43630, July 24, 2003; 72 FR 3734, Jan. 26, 2007; CBP Dec. 17-05, 82 FR 29719, June 30, 2017]

@@ -1,5 +1,7 @@
 ##### § 1259.601 Establishment and composition. #####
 
+Link to an amendment published at 82 FR 35442, July 31, 2017.
+
 (a) The Panel, to be located at NASA Headquarters in Washington, DC, will be composed of ten voting members who are not current NASA employees.
 
 (b) It shall include four from Federal departments, agencies or entities that have an interest in space programs or science and education, and six nonfederal representatives.

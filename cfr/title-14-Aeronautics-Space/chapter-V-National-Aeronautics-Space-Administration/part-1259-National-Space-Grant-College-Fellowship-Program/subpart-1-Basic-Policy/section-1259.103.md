@@ -1,5 +1,7 @@
 ##### § 1259.103 Special authorities - gift acceptance and other Federal funding. #####
 
+Link to an amendment published at 82 FR 35440, July 31, 2017.
+
 (a) *Acceptance of gifts:*
 
 (1) In order to carry out the provisions of the Act, the Administrator is authorized to accept conditional or unconditional gifts or donations of services, money or property, real, personal or mixed, tangible or intangible. This authority is delegated to the Director, Educational Affairs Division.

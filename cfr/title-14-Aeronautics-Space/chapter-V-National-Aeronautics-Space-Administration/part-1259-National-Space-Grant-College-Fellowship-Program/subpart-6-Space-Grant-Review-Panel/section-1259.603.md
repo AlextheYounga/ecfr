@@ -1,5 +1,7 @@
 ##### § 1259.603 Responsibilities. #####
 
+Link to an amendment published at 82 FR 35442, July 31, 2017.
+
 (a) The Panel shall advise the Administrator and the Director, Educational Affairs Division, with respect to:
 
 (1) Applications or proposals for, and performance under, awards made pursuant to sections 206 and 207 of Title II of the Act;

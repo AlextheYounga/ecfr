@@ -1,10 +1,8 @@
 ##### § 165.9 Criteria for determining amount of award. #####
 
-Link to an amendment published at 82 FR 24500, May 30, 2017.
+The determination of the amount of an award shall be in the discretion of the Commission. This discretion shall be exercised as prescribed by § 165.7.
 
-The determination of the amount of an award shall be in the discretion of the Commission. The Commission may exercise this discretion directly or through delegated authority pursuant to § 165.15.
-
-(a) In determining the amount of an award, the Commission shall take into consideration -
+(a) In determining the amount of an award, the Commission shall take into consideration—
 
 (1) The significance of the information provided by the whistleblower to the success of the covered judicial or administrative action or related action;
 
@@ -91,3 +89,5 @@ The determination of the amount of an award shall be in the discretion of the Co
 (iii) Provided any false writing or document knowing the writing or document contained any false, fictitious or fraudulent statements or entries that hindered an entity's efforts to detect, investigate, or remediate the reported Commodity Exchange Act violations.
 
 (d) The Commission shall not take into consideration the balance of the Fund in determining the amount of an award.
+
+[76 FR 53200, Aug. 25, 2011, as amended at 82 FR 24500, May 30, 2017]

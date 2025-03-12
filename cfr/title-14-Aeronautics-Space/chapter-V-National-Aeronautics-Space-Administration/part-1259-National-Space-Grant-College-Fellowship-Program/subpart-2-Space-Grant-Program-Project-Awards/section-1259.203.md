@@ -1,5 +1,7 @@
 ##### § 1259.203 Limitations. #####
 
+Link to an amendment published at 82 FR 35441, July 31, 2017.
+
 Public Law 100-147, Section 206(d)(2) and (3), states that:
 
 (a) Funds for awards made under this section may not be used to:

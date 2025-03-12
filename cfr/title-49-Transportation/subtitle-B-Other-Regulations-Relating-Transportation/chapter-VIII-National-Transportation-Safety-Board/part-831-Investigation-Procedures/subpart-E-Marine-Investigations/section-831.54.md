@@ -1,0 +1,7 @@
+##### § 831.54 Nature of investigation. #####
+
+(a) *General.* The NTSB conducts investigations, or has them conducted, to determine the facts, conditions, and circumstances relating to a major marine casualty or a marine casualty. The NTSB uses these results to determine one or more probable causes of a major marine casualty or a marine casualty, and to issue safety recommendations to prevent or mitigate the effects of a similar major marine casualty or a marine casualty. The NTSB is required to report on the facts and circumstances of major marine casualties or marine casualties it investigates. The NTSB begins an investigation by monitoring casualty situations and assessing available facts to determine the appropriate investigative response. Following an initial assessment, the NTSB notifies persons and organizations it anticipates will be affected as to the extent of its expected investigative response.
+
+(b) *NTSB products.* An investigation may result in a report or brief of the NTSB's conclusions and other products designed to improve transportation safety. Other products may include factual records, safety recommendations, and other safety information.
+
+(c) NTSB investigations are fact-finding proceedings with no adverse parties. The investigative proceedings are not subject to the Administrative Procedure Act (5 U.S.C. 551 *et seq.*), and are not conducted for the purpose of determining the rights, liabilities, or blame of any person or entity, as they are not adjudicatory proceedings.

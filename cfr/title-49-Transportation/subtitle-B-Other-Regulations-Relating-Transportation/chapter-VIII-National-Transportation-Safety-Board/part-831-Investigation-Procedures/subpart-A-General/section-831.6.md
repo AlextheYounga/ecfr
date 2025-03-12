@@ -1,0 +1,13 @@
+##### § 831.6 Request to withhold information. #####
+
+(a) *Applicability.* This section applies to information the NTSB receives from any source that may be subject to the Trade Secrets Act (18 U.S.C. 1905) or the Freedom of Information Act (FOIA, 5 U.S.C. 552).
+
+(b) *Disclosure.* The NTSB is authorized by 49 U.S.C. 1114(b) to disclose, under certain circumstances, confidential commercial information that would otherwise be subject to penalties for disclosure under the Trade Secrets Act, or excepted from disclosure under FOIA. The NTSB may exercise this authority when disclosure is necessary to support a key finding, a safety recommendation, or the NTSB's statement of probable cause of an accident.
+
+(c) *Disclosure procedures.* Information submitted to the NTSB that the submitter believes qualifies as a trade secret or as confidential commercial information subject either to the Trade Secrets Act or Exemption 4 of FOIA must be so identified by the submitter on each page that contains such information. In accordance with 49 U.S.C. 1114(b), the NTSB will provide the submitter of identified information (or information the NTSB has reason to believe qualifies as subject to the Trade Secrets Act or Exemption 4 of FOIA) the opportunity to comment on any disclosure contemplated by the NTSB. In all instances in which the NTSB decides to disclose such information pursuant to 49 U.S.C. 1114(b) or 5 U.S.C. 552, the NTSB will provide at least 10 days' advance notice to the submitter.
+
+(d) *Voluntarily provided safety information.* (1) The NTSB will not disclose safety-related information voluntarily submitted to the NTSB if the information is not related to the exercise of the NTSB's investigation authority, and if the NTSB finds disclosure of the information might inhibit the voluntary provision of that type of information.
+
+(2) The NTSB will review voluntarily provided safety information for confidential content, and will de-identify or anonymize any confidential content referenced in its products.
+
+(e) *Other.* Any person may make written objection to the public disclosure of any other information, such as interview summaries or transcripts, contained in any report or document filed, or otherwise obtained by the NTSB, stating the grounds for such objection. The NTSB on its own initiative or if such objection is made, may order such information withheld from public disclosure, when, in its judgment, the information may be withheld under the provisions of an exemption to the FOIA (see part 801 of this chapter), and its release is found not to be in the public interest.

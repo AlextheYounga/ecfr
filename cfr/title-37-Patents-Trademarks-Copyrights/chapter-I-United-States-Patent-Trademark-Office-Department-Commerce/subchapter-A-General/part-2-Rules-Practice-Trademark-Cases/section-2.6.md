@@ -1,13 +1,39 @@
-##### § 2.6 Trademark fees. #####
+##### § 2.6 Schedule of U.S. process fees. #####
 
-Link to an amendment published at 81 FR 72706, October 21, 2016.
+(a) The Office requires the following process fees:
 
-The Patent and Trademark Office requires the following fees and charges:
+(1) *Certification of international application based on single application or registration.* (i) For certifying an international application based on a single basic application or registration, filed on paper, per class - $200.00
 
-(a) Trademark process fees.
+(ii) For certifying an international application based on a single basic application or registration, filed through TEAS, per class - $100.00
 
-(1) Application filing fees.(i) For filing an application on paper, per class $375.00(ii) For filing an application through TEAS, per class $325.00(iii) For filing a TEAS Reduced Fee (RF) application through TEAS under § 2.23, per class - $275(iv) For filing a TEAS Plus application through TEAS under § 2.22, per class - $225.00(v) Additional processing fee under §§ 2.22(c) or 2.23(c), per class - $50.00(2) For filing an amendment to allege use under section 1(c) of the Act, per class $100.00(3) For filing a statement of use under section 1(d)(1) of the Act, per class $100.00(4) For filing a request under section 1(d)(2) of the Act for a six-month extension of time for filing a statement of use under section 1(d)(1) of the Act, per class$150.00(5) Application for renewal of a registration fees.(i) For filing an application for renewal of a registration on paper, per class - $400.00(ii) For filing an application for renewal of a registration through TEAS, per class - $300.00(6) Additional fee for filing a renewal application during the grace period, per class$100.00(7) For filing to publish a mark under section 12(c), per class $100.00(8) For issuing a new certificate of registration upon request of registrant - $100.00(9) For a certificate of correction of registrant's error $100.00(10) For filing a disclaimer to a registration $100.00(11) For filing an amendment to a registration $100.00(12) For filing an affidavit under section 8 of the Act, per class $100.00(13) For filing an affidavit under section 15 of the Act, per class$200.00(14) Additional fee for filing a section 8 affidavit during the grace period, per class$100.00(15) For petitions to the Director $100.00(16) For filing a petition to cancel, per class$300.00(17) For filing a notice of opposition, per class$300.00(18) For *ex parte* appeal to the Trademark Trial and Appeal Board, per class $100.00(19) Dividing an application, per new application created$100.00(20) For correcting a deficiency in a section 8 affidavit$100.00(21) For correcting a deficiency in a renewal application$100.00
+(2) *Certification of international application based on more than one application or registration.* (i) For certifying an international application based on more than one basic application or registration filed on paper, per class - $250.00
 
-(b) Trademark service fees.
+(ii) For certifying an international application based on more than one basic application or registration filed through TEAS, per class - $150.00
 
-(1) For printed copy of registered mark, copy only. Service includes preparation of copies by the Office within two to three business days and delivery by United States Postal Service; and preparation of copies by the Office within one business day of receipt and delivery to an Office Box or by electronic means (e.g., facsimile, electronic mail) - $3.00(2) Certified or uncertified copy of trademark application as filed processed within seven calendar days - $15.00(3) Certified or uncertified copy of a trademark-related official record - $50.00(4) Certified copy of a registered mark, showing title and/or status:(i) Regular service$15.00(ii) Expedited local service$30.00(5) Certified or uncertified copy of trademark records, per document except as otherwise provided in this section $25.00(6) For recording each trademark assignment, agreement or other document relating to the property in a registration or application(i) First property in a document $40.00(ii) For each additional property in the same document $25.00(7) For assignment records, abstract of title and certification, per registration $25.00(8) Marginal cost, paid in advance, for each hour of terminal session time, including print time, using X-Search capabilities, prorated for the actual time used. The Director may waive the payment by an individual for access to X-Search upon a showing of need or hardship, and if such waiver is in the public interest $40.00(9) Self-service copy charge, per page $0.25(10) Labor charges for services, per hour or fraction thereof$40.00(11) For items and services that the Director finds may be supplied, for which fees are not specified by statute or by this part, such charges as may be determined by the Director with respect to each such item or service Actual Cost(12) For processing each payment refused (including a check returned “unpaid”) or charged back by a financial institution$50.00(13) Deposit accounts:(i) For establishing a deposit account$10.00(ii) Service charge for each month when the balance at the end of the month is below $1,000$25.00[56 FR 65155, Dec. 13, 1991; 56 FR 66670, Dec. 24, 1991, as amended at 57 FR 38196, Aug. 21, 1992; 59 FR 257, Jan. 4, 1994; 60 FR 41023, Aug. 11, 1995; 62 FR 40453, July 29, 1997; 64 FR 48918, Sept. 8, 1999; 64 FR 67486, Dec. 2, 1999; 64 FR 67777, Dec. 3, 1999; 67 FR 79522, Dec. 30, 2002; 67 FR 70850, Nov. 27, 2002; 68 FR 48289, Aug. 13, 2003; 70 FR 2953, Jan. 19, 2005; 70 FR 38773, July 6, 2005; 73 FR 67767, Nov. 17, 2008; 79 FR 74638, Dec. 16, 2014]
+(3) *Transmission of subsequent designation.* (i) For transmitting a subsequent designation under § 7.21, filed on paper - $200.00
+
+(ii) For transmitting a subsequent designation under § 7.21, filed through TEAS - $100.00
+
+(4) *Transmission of request to record an assignment or restriction.* (i) For transmitting a request to record an assignment or restriction, or release of a restriction, under § 7.23 or § 7.24 filed on paper - $200.00
+
+(ii) For transmitting a request to record an assignment or restriction, or release of a restriction, under § 7.23 or § 7.24 filed through TEAS - $100.00
+
+(5) *Notice of replacement.* (i) For filing a notice of replacement under § 7.28 on paper, per class - $200.00
+
+(ii) For filing a notice of replacement under § 7.28 through TEAS, per class - $100.00
+
+(6) *Affidavit under section 71.* (i) For filing an affidavit under section 71 of the Act on paper, per class - $225.00
+
+(ii) For filing an affidavit under section 71 of the Act through TEAS, per class - $125.00
+
+(7) *Filing affidavit under section 71 during grace period.* (i) Surcharge for filing an affidavit under section 71 of the Act during the grace period on paper, per class - $200.00
+
+(ii) Surcharge for filing an affidavit under section 71 of the Act during the grace period through TEAS, per class - $100.00
+
+(8) *Correcting deficiency in section 71 affidavit.* (i) For correcting a deficiency in a section 71 affidavit filed on paper - $200.00
+
+(ii) For correcting a deficiency in a section 71 affidavit filed through TEAS - $100.00
+
+(b) The fees required in paragraph (a) of this section must be paid in U.S. dollars at the time of submission of the requested action. *See* § 2.207 of this chapter for acceptable forms of payment and § 2.208 of this chapter for payments using a deposit account established in the Office.
+
+[81 FR 72706, Oct. 21, 2016]

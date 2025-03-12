@@ -1,3 +1,5 @@
 ##### § 1259.600 Panel description. #####
 
+Link to an amendment published at 82 FR 35442, July 31, 2017.
+
 An independent committee, the Space Grant Review Panel, which is not subject to the Federal Advisory Committee Act, shall be established to advise the Administrator with respect to Space Grant program and project awards, the Space Grant fellowship program and the designation and operation of Space Grant colleges and consortia. A majority of the voting members shall be individuals who, by reason of knowledge, experience, or training are especially qualified in one or more of the fields related to space. The other voting members shall be individuals who, by reason of knowledge, experience or training, are especially qualified in, or representative of, education, extension services, State government, industry, economics, planning or any other activity related to the purposes of the Space Grant program.

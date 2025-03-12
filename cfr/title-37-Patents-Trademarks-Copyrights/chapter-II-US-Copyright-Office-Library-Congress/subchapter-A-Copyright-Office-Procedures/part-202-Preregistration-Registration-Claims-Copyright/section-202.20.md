@@ -1,7 +1,5 @@
 ##### § 202.20 Deposit of copies and phonorecords for copyright registration. #####
 
-Link to an amendment published at 82 FR 29414, June 29, 2017.
-
 (a) *General.* This section prescribes rules pertaining to the deposit of copies and phonorecords of published and unpublished works for the purpose of copyright registration under section 408 of title 17 of the United States Code. The provisions of this section are not applicable to the deposit of copies and phonorecords for the Library of Congress under section 407 of title 17, except as expressly adopted in § 202.19.
 
 (b) *Definitions.* For the purposes of this section:
@@ -242,13 +240,13 @@ The number of sets of instructions and identifying material shall be the same as
 
 (d) *Special relief.* (1) In any case the Register of Copyrights may, after consultation with other appropriate officials of the Library of Congress and upon such conditions as the Register may determine after such consultation:
 
-(i) Permit the deposit of one copy or phonorecord, or alternative identifying material, in lieu of the one or two copies or phonorecords otherwise required by paragraph (c)(1) of this section;
+(i) Permit the deposit of one copy or phonorecord, or alternative identifying material, in lieu of the one or two copies or phonorecords otherwise required by paragraph (c)(1) of this section or;
 
 (ii) Permit the deposit of incomplete copies or phonorecords, or copies or phonorecords other than those normally comprising the best edition; or
 
-(iii) Permit the deposit of an actual copy or copies, in lieu of the identifying material otherwise required by this section; or
+(iii) Permit the deposit of an actual copy or copies, in lieu of the identifying material otherwise required by this section or § 202.4; or
 
-(iv) Permit the deposit of identifying material which does not comply with § 202.21.
+(iv) Permit the deposit of identifying material which does not comply with § 202.4 or § 202.21.
 
 (2) Any decision as to whether to grant such special relief, and the conditions under which special relief is to be granted, shall be made by the Register of Copyrights after consultation with other appropriate officials of the Library of Congress, and shall be based upon the acquisition policies of the Library of Congress then in force and the archival and examining requirements of the Copyright Office.
 

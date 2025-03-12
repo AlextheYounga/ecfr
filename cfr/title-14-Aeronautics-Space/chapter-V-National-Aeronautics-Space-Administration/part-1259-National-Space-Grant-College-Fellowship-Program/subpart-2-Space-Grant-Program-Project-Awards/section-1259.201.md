@@ -1,5 +1,7 @@
 ##### § 1259.201 Types of Space Grant program and project awards - regular and special. #####
 
+Link to an amendment published at 82 FR 35441, July 31, 2017.
+
 (a) A regular Space Grant program or project award shall:
 
 (1) Be funded by NASA up to 66 percent of the total cost of the Space Grant award and/or fellowship program involved; or

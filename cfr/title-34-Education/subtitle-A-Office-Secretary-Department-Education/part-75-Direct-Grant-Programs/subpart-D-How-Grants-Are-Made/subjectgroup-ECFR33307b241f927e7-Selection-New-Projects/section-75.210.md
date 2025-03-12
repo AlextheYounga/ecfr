@@ -112,9 +112,11 @@ In determining the selection criteria to evaluate applications submitted in a gr
 
 (xxvii) The extent to which the proposed project will integrate with or build on similar or related efforts in order to improve relevant outcomes (as defined in 34 CFR 77.1(c)), using nonpublic funds or resources.
 
-(xxviii) The extent to which the proposed project is supported by evidence of promise (as defined in 34 CFR 77.1(c)).
+(xxviii) The extent to which the proposed project is supported by promising evidence (as defined in 34 CFR 77.1(c)).
 
-(xxix) The extent to which the proposed project is supported by strong theory (as defined in 34 CFR 77.1(c)).
+(xxix) The extent to which the proposed project demonstrates a rationale (as defined in 34 CFR 77.1(c)).
+
+(xxx) The extent to which the proposed project represents a faithful adaptation of the evidence cited in support of the proposed project.
 
 (d) *Quality of project services.* (1) The Secretary considers the quality of the services to be provided by the proposed project.
 
@@ -208,15 +210,17 @@ In determining the selection criteria to evaluate applications submitted in a gr
 
 (vii) The extent to which the evaluation will provide guidance about effective strategies suitable for replication or testing in other settings.
 
-(viii) The extent to which the methods of evaluation will, if well-implemented, produce evidence about the project's effectiveness that would meet the What Works Clearinghouse Evidence Standards without reservations.
+(viii) The extent to which the methods of evaluation will, if well implemented, produce evidence about the project's effectiveness that would meet the What Works Clearinghouse standards without reservations as described in the What Works Clearinghouse Handbook (as defined in 34 CFR 77.1(c)).
 
-(ix) The extent to which the methods of evaluation will, if well-implemented, produce evidence about the project's effectiveness that would meet the What Works Clearinghouse Evidence Standards with reservations.
+(ix) The extent to which the methods of evaluation will, if well implemented, produce evidence about the project's effectiveness that would meet the What Works Clearinghouse standards with or without reservations as described in the What Works Clearinghouse Handbook (as defined in 34 CFR 77.1(c)).
 
-(x) The extent to which the methods of evaluation will, if well-implemented, produce evidence of promise (as defined in 34 CFR 77.1(c)).
+(x) The extent to which the methods of evaluation will, if well implemented, produce promising evidence (as defined in 34 CFR 77.1(c)) about the project's effectiveness.
 
-(xi) The extent to which the methods of evaluation will provide valid and reliable performance data on relevant outcomes.
+(xi) The extent to which the evaluation plan clearly articulates the key project components, mediators, and outcomes, as well as a measurable threshold for acceptable implementation.
 
-(xii) The extent to which the evaluation plan clearly articulates the key components, mediators, and outcomes of the grant-supported intervention, as well as a measurable threshold for acceptable implementation.
+(xii) The qualifications, including relevant training, experience, and independence, of the evaluator.
+
+(xiii) The extent to which the proposed project plan includes sufficient resources to conduct the project evaluation effectively.
 
 (i) *Strategy to scale.* (1) The Secretary considers the applicant's strategy to scale the proposed project.
 
@@ -234,4 +238,4 @@ In determining the selection criteria to evaluate applications submitted in a gr
 
 (vi) The extent to which the applicant identifies a specific strategy or strategies that address a particular barrier or barriers that prevented the applicant, in the past, from reaching the level of scale that is proposed in the application.
 
-(Approved by the Office of Management and Budget under control number 1875-0102)(Authority: 20 U.S.C. 1221e-3 and 3474)[62 FR 10401, Mar. 6, 1997, as amended at 78 FR 49353, Aug. 13, 2013; 80 FR 2608, Jan. 20, 2015]
+(Approved by the Office of Management and Budget under control number 1875-0102)(Authority: 20 U.S.C. 1221e-3 and 3474)[62 FR 10401, Mar. 6, 1997, as amended at 78 FR 49353, Aug. 13, 2013; 80 FR 2608, Jan. 20, 2015; 82 FR 35448, July 31, 2017]
