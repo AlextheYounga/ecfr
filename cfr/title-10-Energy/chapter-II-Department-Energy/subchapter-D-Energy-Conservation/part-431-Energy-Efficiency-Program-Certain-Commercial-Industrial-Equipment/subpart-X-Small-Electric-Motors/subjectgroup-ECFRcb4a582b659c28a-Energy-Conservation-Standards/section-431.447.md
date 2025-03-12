@@ -26,4 +26,4 @@
 
 (d) *Disposition.* The Department will evaluate the petition in accordance with § 431.448, and will determine whether the applicant meets the criteria in paragraph (b) of this section for classification as a nationally recognized certification program.
 
-[77 FR 26639, May 4, 2012; 86 FR 25, Jan. 4, 2021]
+[77 FR 26639, May 4, 2012, as amended at 86 FR 25, Jan. 4, 2021]

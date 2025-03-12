@@ -1,8 +1,8 @@
 ##### § 1.1104 Schedule of charges for applications and other filings for media services. #####
 
-Link to an amendment published at 86 FR 11149, Feb. 24, 2021.Link to an amendment published at 86 FR 15063, Mar. 19, 2021.
+Link to an amendment published at 86 FR 15063, Mar. 19, 2021.
 
-Payment can be made electronically using the Commission's electronic filing and payment system “Fee Filer” (*www.fcc.gov/feefiler*). Remit manual filings and/or payments for these services to: Federal Communications Commission, Media Bureau Services, P.O. Box 979089, St. Louis, MO 63197-9000. The asterisk (\*) indicates that multiple stations and multiple fee submissions are acceptable within the same post office box.
+Remit payment for these services electronically using the Commission's electronic payment system in accordance with the procedures set forth on the Commission's website, *www.fcc.gov/licensing-databases/fees.* The asterisk (\*) indicates that multiple stations and multiple fee submissions are acceptable within the same payment.
 
 |                                              Service                                              |              FCC Form No.               |           Fee amount           |       Payment type code        |
 |---------------------------------------------------------------------------------------------------|-----------------------------------------|--------------------------------|--------------------------------|
@@ -107,4 +107,4 @@ Payment can be made electronically using the Commission's electronic filing and 
 |                        h. Cable Community Registration (Electronic Filing)                        |                322 & 159                |             70.00              |              TAC               |
 |                 i. Aeronautical Frequency Usage Notifications (Electronic Filing)                 |                321 & 159                |             70.00              |              TAC               |
 
-[83 FR 38046, Aug. 3, 2018]
+[83 FR 38046, Aug. 3, 2018, as amended at 86 FR 11149, Feb. 24, 2021]

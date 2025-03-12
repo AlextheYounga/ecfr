@@ -1,5 +1,7 @@
 ##### § 17.106 VA collection rules; third-party payers. #####
 
+Link to an amendment published at 86 FR 16055, Mar. 26, 2021.
+
 (a)(1) *General rule.* VA has the right to recover or collect reasonable charges from a third-party payer for medical care and services provided for a nonservice-connected disability in or through any VA facility to a veteran who is also a beneficiary under the third-party payer's plan. VA's right to recover or collect is limited to the extent that the beneficiary or a nongovernment provider of care or services would be eligible to receive reimbursement or indemnification from the third-party payer if the beneficiary were to incur the costs on the beneficiary's own behalf.
 
 (2) *Definitions.* For the purposes of this section:

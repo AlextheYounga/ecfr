@@ -1,7 +1,5 @@
 ##### § 202.4 Group registration. #####
 
-Link to an amendment published at 86 FR 10825, Feb. 23, 2021.
-
 (a) *General.* This section prescribes conditions for issuing a registration for a group of related works under section 408(c) of title 17 of the United States Code.
 
 (b) *Definitions.* (1) For purposes of this section, unless otherwise specified, the terms used have the meanings set forth in §§ 202.3, 202.13, and 202.20.
@@ -172,13 +170,41 @@ Link to an amendment published at 86 FR 10825, Feb. 23, 2021.
 
 (9) In an exceptional case, the Copyright Office may waive the online filing requirement set forth in paragraph (j)(6) of this section or may grant special relief from the deposit requirement under § 202.20(d), subject to such conditions as the Associate Register of Copyrights and Director of the Office of Registration Policy and Practice may impose on the applicant.
 
-(k) *Secure test items.* Pursuant to the authority granted by 17 U.S.C. 408(c)(1), the Register of Copyrights has determined that a group of test items may be registered in Class TX with one application, one filing fee, and identifying material, if the conditions set forth in § 202.13(c) and (d) have been met.
+(k) *Group registration of works on an album.* Pursuant to the authority granted by 17 U.S.C. 408(c)(1), the Register of Copyrights has determined that a group of two or more musical works, or two or more sound recordings and any associated literary, pictorial, or graphic works, may be registered with one application, the required deposit, and the filing fee required by § 201.3 of this chapter, if the following conditions are met:
 
-(l) *Refusal to register.* The Copyright Office may refuse registration if the applicant fails to satisfy the requirements for registering a group of related works under this section or § 202.3(b)(5).
+(1) *Eligible works.* (i) All of the works in the group must be contained on the same *album.* For the purposes of this section, an *album* is a single physical or electronic unit of distribution containing at least two musical works and/or sound recordings embodied in a phonorecord, including any associated literary, pictorial, or graphic works distributed with the unit.
 
-(m) *Cancellation.* If the Copyright Office issues a registration for a group of related works and subsequently determines that the requirements for that group option have not been met, and if the claimant fails to cure the deficiency after being notified by the Office, the registration may be cancelled in accordance with § 201.7 of this chapter.
+(ii) The group may include:
 
-(n) *The scope of a group registration.* When the Office issues a group registration under paragraph (d), (e), or (f) of this section, the registration covers each issue in the group and each issue is registered as a separate work or a separate collective work (as the case may be).
-When the Office issues a group registration under paragraph (c), (g), (h), (i), (j), or (k) of this section, the registration covers each work in the group and each work is registered as a separate work. For purposes of registration, the group as a whole is not considered a compilation, a collective work, or a derivative work under section 101, 103(b), or 504(c)(1) of title 17 of the United States Code.
+(A) Up to twenty musical works; or
 
-[82 FR 29413, June 29, 2017, as amended at 82 FR 52228, Nov. 13, 2017; 83 FR 2547, Jan. 18, 2018; 83 FR 4146, Jan. 30, 2018; 83 FR 61549, Nov. 30, 2018; 84 FR 3699, Feb. 13, 2019; 84 FR 3698, Feb. 13, 2019; 84 FR 60918, 60919, Nov. 12, 2019; 85 FR 31982, May 28, 2020; 85 FR 37346, June 22, 2020]
+(B) Up to twenty sound recordings and any associated literary, pictorial, or graphic works included with the same album.
+
+(iii) The applicant must provide a title for the album and a title for each musical work or sound recording claimed in the group.
+
+(iv) All of the works in the group must be created by the same author or the works must have a common joint author, and the copyright claimant or co-claimants for each work must all be the same person(s) or organization. The works may be registered as works made for hire if they are identified in the application as such.
+
+(v) As a general rule, all of the works must be first published on the same album, the date and nation of publication for each work must be specified in the application, and the nation of publication for each work must be the same. A musical work or sound recording that was previously published as an individual work only (*e.g.,* as a single) may be included in the claim if the date of first publication for that work is listed separately in the application.
+
+(2) *Application.* If the group consists of sound recordings and, as applicable, any associated literary, pictorial, or graphic works, the applicant must complete and submit the application designated for “sound recordings from an album.” If the group consists of musical works, the applicant must complete and submit the application designated for “musical works from an album.” The application may be submitted by any of the parties listed in § 202.3(c)(1).
+
+(3) *Deposit.* (i) For claims in works first published in the United States submitted with the application for “sound recordings from an album,” the applicant must submit two complete phonorecords containing the best edition of each recording, and two complete copies of any associated literary, pictorial, or graphic works that are included in the group. For claims in works first published outside the United States submitted with this application, the applicant must submit one complete phonorecord of the work either as first published or of the best edition. A phonorecord will be considered complete if it satisfies the requirements set forth in § 202.19(b)(2). The deposit may be submitted in a digital form if the album has been distributed solely in a digital format, and if the requirements set forth in paragraph (k)(3)(iii) of this section have been met.
+
+(ii) For claims submitted with the application for “musical works from an album,” the applicant must submit one complete phonorecord of each musical work that is included in the group.
+
+(iii) The deposit may be submitted in a digital form if the following requirements have been met. Each work must be contained in a separate electronic file. The files must be assembled in an orderly form, they must be submitted in one of the electronic formats approved by the Office, and they must be uploaded to the electronic registration system as individual electronic files (not .zip files). The file size for each uploaded file must not exceed 500 megabytes; the files may be compressed to comply with this requirement. The file name for each work must match the title as submitted on the application.
+
+(4) *Special relief.* In an exceptional case, the Copyright Office may waive the online filing requirement set forth in paragraph (k)(2) of this section or may grant special relief from the deposit requirement under § 202.20(d), subject to such conditions as the Associate Register of Copyrights and Director of the Office of Registration Policy and Practice may impose on the applicant.
+
+(l)-(n) [Reserved]
+
+(o) *Secure test items.* Pursuant to the authority granted by 17 U.S.C. 408(c)(1), the Register of Copyrights has determined that a group of test items may be registered in Class TX with one application, one filing fee, and identifying material, if the conditions set forth in § 202.13(c) and (d) have been met.
+
+(p) *Refusal to register.* The Copyright Office may refuse registration if the applicant fails to satisfy the requirements for registering a group of related works under this section or § 202.3(b)(5).
+
+(q) *Cancellation.* If the Copyright Office issues a registration for a group of related works and subsequently determines that the requirements for that group option have not been met, and if the claimant fails to cure the deficiency after being notified by the Office, the registration may be cancelled in accordance with § 201.7 of this chapter.
+
+(r) *The scope of a group registration.* When the Office issues a group registration under paragraph (d), (e), or (f) of this section, the registration covers each issue in the group and each issue is registered as a separate work or a separate collective work (as the case may be).
+When the Office issues a group registration under paragraph (c), (g), (h), (i), (j), (k), or (o) of this section, the registration covers each work in the group and each work is registered as a separate work. For purposes of registration, the group as a whole is not considered a compilation, a collective work, or a derivative work under section 101, 103(b), or 504(c)(1) of title 17 of the United States Code.
+
+[82 FR 29413, June 29, 2017, as amended at 82 FR 52228, Nov. 13, 2017; 83 FR 2547, Jan. 18, 2018; 83 FR 4146, Jan. 30, 2018; 83 FR 61549, Nov. 30, 2018; 84 FR 3699, Feb. 13, 2019; 84 FR 3698, Feb. 13, 2019; 84 FR 60918, 60919, Nov. 12, 2019; 85 FR 31982, May 28, 2020; 85 FR 37346, June 22, 2020; 86 FR 10825, Feb. 23, 2021]

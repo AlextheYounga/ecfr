@@ -1,5 +1,7 @@
 ##### § 17.101 Collection or recovery by VA for medical care or services provided or furnished to a veteran for a non-service connected disability. #####
 
+Link to an amendment published at 86 FR 16053, Mar. 26, 2021.
+
 (a)(1) *General.* This section covers collection or recovery by VA, under 38 U.S.C. 1729, for medical care or services provided or furnished to a veteran:
 
 (i) For a nonservice-connected disability for which the veteran is entitled to care (or the payment of expenses of care) under a health plan contract;
