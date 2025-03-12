@@ -1,7 +1,5 @@
 ##### § 50.22 Requirements for eligible high-quality liquid assets. #####
 
-Link to an amendment published at 86 FR 9209, Feb. 11, 2021.
-
 (a) *Operational requirements for eligible HQLA.* With respect to each asset that is eligible for inclusion in a national bank's or Federal savings association's HQLA amount, a national bank or Federal savings association must meet all of the following operational requirements:
 
 (1) The national bank or Federal savings association must demonstrate the operational capability to monetize the HQLA by:
@@ -30,15 +28,7 @@ Link to an amendment published at 86 FR 9209, Feb. 11, 2021.
 
 (b) *Generally applicable criteria for eligible HQLA.* A national bank's or Federal savings association's eligible HQLA must meet all of the following criteria:
 
-(1) The assets are unencumbered in accordance with the following criteria:
-
-(i) The assets are free of legal, regulatory, contractual, or other restrictions on the ability of the national bank or Federal savings association to monetize the assets; and
-
-(ii) The assets are not pledged, explicitly or implicitly, to secure or to provide credit enhancement to any transaction, but the assets may be considered unencumbered if the assets are pledged to a central bank or a U.S. government-sponsored enterprise where:
-
-(A) Potential credit secured by the assets is not currently extended to the national bank or Federal savings association or its consolidated subsidiaries; and
-
-(B) The pledged assets are not required to support access to the payment services of a central bank;
+(1) The assets are not encumbered.
 
 (2) The asset is not:
 
@@ -71,3 +61,5 @@ Link to an amendment published at 86 FR 9209, Feb. 11, 2021.
 (6) The national bank or Federal savings association has not designated the assets to cover operational costs.
 
 (c) *Maintenance of U.S. eligible HQLA.* A national bank or Federal savings association is generally expected to maintain as eligible HQLA an amount and type of eligible HQLA in the United States that is sufficient to meet its total net cash outflow amount in the United States under subpart D of this part.
+
+[79 FR 61523, 61538, Oct. 10, 2014, as amended at 86 FR 9209, Feb. 11, 2021]

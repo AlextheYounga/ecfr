@@ -1,8 +1,8 @@
 ##### § 31.7 Hearing procedures. #####
 
-(a) *Independence of hearing official.* A hearing provided under this part is conducted by a hearing official who is neither an employee of the Department nor otherwise under the supervision or control of the Secretary.
+(a) *Independence of hearing official.* A hearing provided under this part is conducted by a hearing official who is not under the supervision or control of the Secretary, except that this prohibition does not apply to the Department's administrative law judges.
 
-(b) *Lack of subpoena authority or formal discovery.* (1) Neither the hearing official nor the Secretary has authority to issue subpoenas to compel the production of documents or to compel the attendance of witnesses at an oral hearing under this part. The Secretary will attempt to make available during an oral hearing the testimony of a current official of the Department if -
+(b) *Lack of subpoena authority or formal discovery.* (1) Neither the hearing official nor the Secretary has authority to issue subpoenas to compel the production of documents or to compel the attendance of witnesses at an oral hearing under this part. The Secretary will attempt to make available during an oral hearing the testimony of a current official of the Department if—
 
 (i) The employee had identified the official in the request for a hearing under § 31.5(b) and demonstrated that the testimony of the official is necessary to resolve adequately an issue of fact raised by the employee in the request for a hearing; and
 
@@ -14,7 +14,7 @@
 
 (c) *Hearing on written submissions.* If a hearing is conducted on the written submissions, the hearing official reviews documents and responses submitted by the Secretary and the employee under § 31.5.
 
-(d) *Conduct of oral hearing.* (1) The hearing official conducts an oral hearing as an informal proceeding. The official -
+(d) *Conduct of oral hearing.* (1) The hearing official conducts an oral hearing as an informal proceeding. The official—
 
 (i) Administers oaths to witnesses;
 
@@ -26,7 +26,7 @@
 
 (2) An oral hearing is generally open to the public. However, the hearing official may close all or any portion of the hearing if doing so is in the best interest of the employee or the public.
 
-(3) The hearing official may conduct an oral hearing by telephone conference call -
+(3) The hearing official may conduct an oral hearing by telephone conference call—
 
 (i) If the employee is located in a city outside the Washington, DC Metropolitan area.
 
@@ -36,14 +36,14 @@
 
 (4) No written record is created or maintained of an oral hearing provided under this part.
 
-(e) *Burden of proof.* In any hearing under this part -
+(e) *Burden of proof.* In any hearing under this part—
 
 (1) The Secretary bears the burden of proving, by a preponderance of the evidence, the existence and amount of the debt, and the failure of the employee to repay the debt, as the debt is described in the pre-offset notice provided under § 31.3; and
 
-(2) The employee bears the burden of proving, by a preponderance of the evidence -
+(2) The employee bears the burden of proving, by a preponderance of the evidence—
 
 (i) The existence of any fact that would establish that the debt described in the pre-offset notice is not enforceable by offset; and
 
 (ii) The existence of any fact that would establish that the amount of the proposed offset would cause an extreme financial hardship for the employee.
 
-(Authority: 5 U.S.C. 5514; 31 U.S.C. 3716)
+(Authority: 5 U.S.C. 5514; 31 U.S.C. 3716)[54 FR 31821, Aug. 19, 1989, as amended at 86 FR 40334, July 28, 2021]

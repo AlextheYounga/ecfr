@@ -1,7 +1,5 @@
 ##### § 685.219 Public Service Loan Forgiveness Program. #####
 
-Link to an amendment published at 85 FR 49821, Aug. 14, 2020.
-
 (a) *General.* The Public Service Loan Forgiveness Program is intended to encourage individuals to enter and continue in full-time public service employment by forgiving the remaining balance of their Direct loans after they satisfy the public service and loan payment requirements of this section.
 
 (b) *Definitions.* The following definitions apply to this section:
@@ -34,23 +32,17 @@ Link to an amendment published at 85 FR 49821, Aug. 14, 2020.
 
 *Public service organization* means:
 
-(1) A Federal, State, local, or Tribal government organization, agency, or entity;
+(i) A Federal, State, local, or Tribal government organization, agency, or entity;
 
-(2) A public child or family service agency;
+(ii) A public child or family service agency;
 
-(3) A non-profit organization under section 501(c)(3) of the Internal Revenue Code that -
+(iii) A non-profit organization under section 501(c)(3) of the Internal Revenue Code that is exempt from taxation under section 501(a) of the Internal Revenue Code;
 
-(i) Is exempt from taxation under section 501(a) of the Internal Revenue Code; and
+(iv) A Tribal college or university; or
 
-(ii) Is not an organization engaged in religious activities, unless the qualifying activities are unrelated to religious instruction, worship services, or any form of proselytizing;
+(v)(A) A private organization that provides the following public services: Emergency management, military service, public safety, law enforcement, public interest law services, early childhood education (including licensed or regulated child care, Head Start, and State funded pre-kindergarten), public service for individuals with disabilities and the elderly, public health (including nurses, nurse practitioners, nurses in a clinical setting, and full-time professionals engaged in health care practitioner occupations and health care support occupations, as such terms are defined by the Bureau of Labor Statistics), public education, public library services, school library or other school-based services; and
 
-(4) A Tribal college or university; or
-
-(5) A private organization that -
-
-(i) Provides the following public services: Emergency management, military service, public safety, law enforcement, public interest law services, early childhood education (including licensed or regulated child care, Head Start, and State funded pre-kindergarten), public service for individuals with disabilities and the elderly, public health (including nurses, nurse practitioners, nurses in a clinical setting, and full-time professionals engaged in health care practitioner occupations and health care support occupations, as such terms are defined by the Bureau of Labor Statistics), public education, public library services, school library or other school-based services; and
-
-(ii) Is not a business organized for profit, a labor union, a partisan political organization, or an organization engaged in religious activities, unless the qualifying activities are unrelated to religious instruction, worship services, or any form of proselytizing.
+(B) Is not a business organized for profit, a labor union, or a partisan political organization.
 
 (c) *Borrower eligibility.* (1) A borrower may obtain loan forgiveness under this program if he or she -
 
@@ -62,7 +54,7 @@ Link to an amendment published at 85 FR 49821, Aug. 14, 2020.
 
 (B) At the time of application for loan forgiveness; and
 
-(C) At the time the remaining principal and accrued interest are forgiven;
+(C) At the time the remaining principal and accrued interest are forgiven.
 
 (iii) Makes 120 separate monthly payments after October 1, 2007, on eligible Direct loans for which forgiveness is sought. Except as provided in paragraph (c)(2) of this section for a borrower in an AmeriCorps or Peace Corps position or who qualifies for partial repayment of his or her loans under the student loan repayment programs under 10 U.S.C. 2171, 2173, 2174, or any other student loan repayment programs administered by the Department of Defense,, the borrower must make the monthly payments within 15 days of the scheduled due date for the full scheduled installment amount; and
 
@@ -96,4 +88,4 @@ Link to an amendment published at 85 FR 49821, Aug. 14, 2020.
 
 (3) If the Secretary determines that the borrower does not meet the eligibility requirements for loan forgiveness under this section, the Secretary resumes collection of the loan and grants forbearance of payment on both principal and interest for the period in which collection activity was suspended. The Secretary notifies the borrower that the application has been denied, provides the basis for the denial, and informs the borrower that the Secretary will resume collection of the loan. The Secretary may capitalize any interest accrued and not paid during this period.
 
-(Authority: 20 U.S.C. 1087e(m))[73 FR 63256, Oct. 23, 2008, as amended at 74 FR 56005, Oct. 29, 2009; 77 FR 76414, Dec. 28, 2012; 80 FR 67242, Oct. 30, 2015]
+(Authority: 20 U.S.C. 1087e(m))[73 FR 63256, Oct. 23, 2008, as amended at 74 FR 56005, Oct. 29, 2009; 77 FR 76414, Dec. 28, 2012; 80 FR 67242, Oct. 30, 2015; 85 FR 49821, Aug. 14, 2020]

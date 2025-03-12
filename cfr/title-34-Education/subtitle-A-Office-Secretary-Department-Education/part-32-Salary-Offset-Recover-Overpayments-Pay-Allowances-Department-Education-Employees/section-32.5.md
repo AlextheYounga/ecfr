@@ -1,4 +1,4 @@
-##### § 32.5 Pre-offset hearing - general. #####
+##### § 32.5 Pre-offset hearing—general. #####
 
 (a) An employee who wishes a review of the existence or amount of the overpayment or an involuntary repayment schedule may request a pre-offset hearing. The pre-offset hearing does not review:
 
@@ -28,8 +28,8 @@
 
 (8) Other circumstances where the Secretary determines that an oral hearing is not required.
 
-(d) The hearing is conducted by a hearing official who is not an employee of the Department or under the supervision or control of the Secretary.
+(d) The hearing is conducted by a hearing official who is not under the supervision or control of the Secretary, except that this prohibition does not apply to the Department's administrative law judges.
 
 (e) Formal discovery between the parties is not provided.
 
-(Authority: 5 U.S.C. 5514; 31 U.S.C. 3716)
+(Authority: 5 U.S.C. 5514; 31 U.S.C. 3716)[52 FR 24957, July 1, 1987, as amended at 86 FR 40335, July 28, 2021]

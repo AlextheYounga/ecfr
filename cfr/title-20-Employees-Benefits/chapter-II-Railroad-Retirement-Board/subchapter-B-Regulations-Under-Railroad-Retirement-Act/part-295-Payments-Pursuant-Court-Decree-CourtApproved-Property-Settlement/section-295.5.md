@@ -6,7 +6,7 @@
 
 (c) *Prospective payment.* Payment to a spouse or former spouse may accrue no earlier than the later of the date of delivery, pursuant to § 295.3 of this part, of a court decree or property settlement which will be honored under this part, or from October 1, 1983. The amount to be paid the spouse or former spouse under this part will not be increased to satisfy an arrearage due from the employee.
 
-(d) *Payees.* Payment of an amount awarded to a spouse or former spouse by a court decree or property settlement will be made only to the spouse or former spouse except where the Board determines that another person shall be recognized to act on behalf of the spouse or former spouse as provided by part 266 of this chapter, relating to incompetence. Payment will not be made to the heirs, legatees, creditors or assignees of a spouse or former spouse, except that where an amount is payable to a spouse or former spouse pursuant to this part, but is unpaid at the death of that spouse or former spouse, the unpaid amount may be paid in accordance with § 234.1 of this chapter, pertaining to employee annuities unpaid at death.
+(d) *Payees.* Payment of an amount awarded to a spouse or former spouse by a court decree or property settlement will be made only to the spouse or former spouse except where the Board determines that another person shall be recognized to act on behalf of the spouse or former spouse as provided by part 266 of this chapter, relating to incompetence. Payment will not be made to the heirs, legatees, creditors or assignees of a spouse or former spouse, except that where an amount is payable to a spouse or former spouse pursuant to this part, but is unpaid at the death of that spouse or former spouse, the unpaid amount may be paid in accordance with § 234.31 of this chapter, pertaining to employee annuities unpaid at death.
 
 (e) *Net amount of benefits.* Notwithstanding the terms of the decree or property settlement, the amount of benefits payable to the employee which are subject to this part shall not include:
 
@@ -14,7 +14,7 @@
 
 (2) Benefits which are waived pursuant to § 243.6 of this chapter.
 
-(f) *Termination.* Except as provided in paragraph (f)(4) of this section payments to a spouse or former spouse terminate on the earlier of -
+(f) *Termination.* Except as provided in paragraph (f)(4) of this section payments to a spouse or former spouse terminate on the earlier of—
 
 (1) The date on which the employee annuity terminates;
 
@@ -26,4 +26,4 @@
 
 (g) *Priority.* In the event that the General Counsel receives more than one decree or property settlement from competing parties, benefits shall be available to satisfy the decrees or property settlements on a first come, first served basis governed by the date of receipt by the General Counsel. Conflicting decrees or property settlements received on the same day shall be accorded priority based upon the earliest date upon which the decree or property settlement became final.
 
-[51 FR 12845, Apr. 16, 1986, as amended at 53 FR 35807, Sept. 15, 1988; 62 FR 67724, Dec. 30, 1997; 73 FR 47046, Aug. 13, 2008]
+[51 FR 12845, Apr. 16, 1986, as amended at 53 FR 35807, Sept. 15, 1988; 62 FR 67724, Dec. 30, 1997; 73 FR 47046, Aug. 13, 2008; 86 FR 30493, July 1, 2021]

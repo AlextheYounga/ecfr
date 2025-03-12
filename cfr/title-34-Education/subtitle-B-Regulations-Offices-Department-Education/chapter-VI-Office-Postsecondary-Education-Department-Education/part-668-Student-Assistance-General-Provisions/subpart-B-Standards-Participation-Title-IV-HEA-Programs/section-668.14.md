@@ -1,7 +1,5 @@
 ##### § 668.14 Program participation agreement. #####
 
-Link to an amendment published at 85 FR 54816, Sept. 2, 2020.
-
 (a)(1) An institution may participate in any Title IV, HEA program, other than the LEAP and NEISP programs, only if the institution enters into a written program participation agreement with the Secretary, on a form approved by the Secretary. A program participation agreement conditions the initial and continued participation of an eligible institution in any Title IV, HEA program upon compliance with the provisions of this part, the individual program regulations, and any additional conditions specified in the program participation agreement that the Secretary requires the institution to meet.
 
 (2) An institution's program participation agreement applies to each branch campus and other location of the institution that meets the applicable requirements of this part unless otherwise specified by the Secretary.
@@ -36,11 +34,11 @@ Link to an amendment published at 85 FR 54816, Sept. 2, 2020.
 
 (9) It will comply with the requirements of subpart D of this part concerning institutional and financial assistance information for students and prospective students;
 
-(10) In the case of an institution that advertises job placement rates as a means of attracting students to enroll in the institution, it will make available to prospective students, at or before the time that those students apply for enrollment -
+(10) In the case of an institution that advertises job placement rates as a means of attracting students to enroll in the institution, the institution will make available to prospective students, at or before the time that those students apply for enrollment -
 
 (i) The most recent available data concerning employment statistics, graduation statistics, and any other information necessary to substantiate the truthfulness of the advertisements; and
 
-(ii) Relevant State licensing requirements of the State in which the institution is located for any job for which an educational program offered by the institution is designed to prepare those prospective students;
+(ii) Relevant State licensing requirements of the State in which the institution is located for any job for which the course of instruction is designed to prepare such prospective students, as provided in § 668.43(a)(5)(v);
 
 (11) In the case of an institution participating in the FFEL program, the institution will inform all eligible borrowers, as defined in 34 CFR part 682, enrolled in the institution about the availability and eligibility of those borrowers for State grant assistance from the State in which the institution is located, and will inform borrowers from another State of the source of further information concerning State grant assistance from that State;
 
@@ -130,11 +128,13 @@ Link to an amendment published at 85 FR 54816, Sept. 2, 2020.
 
 (26) If an educational program offered by the institution is required to prepare a student for gainful employment in a recognized occupation, the institution must -
 
-(i) Demonstrate a reasonable relationship between the length of the program and entry level requirements for the recognized occupation for which the program prepares the student. The Secretary considers the relationship to be reasonable if the number of clock hours provided in the program does not exceed by more than 50 percent the minimum number of clock hours required for training in the recognized occupation for which the program prepares the student, as established by the State in which the institution is located, if the State has established such a requirement, or as established by any Federal agency;
+(i) Demonstrate a reasonable relationship between the length of the program and entry level requirements for the recognized occupation for which the program prepares the student. The Secretary considers the relationship to be reasonable if the number of clock hours provided in the program does not exceed the greater of -
 
-(ii) Establish the need for the training for the student to obtain employment in the recognized occupation for which the program prepares the student; and
+(A) One hundred and fifty percent of the minimum number of clock hours required for training in the recognized occupation for which the program prepares the student, as established by the State in which the institution is located, if the State has established such a requirement, or as established by any Federal agency; or
 
-(iii) Provide for that program the certification required in § 668.414.
+(B) The minimum number of clock hours required for training in the recognized occupation for which the program prepares the student as established in a State adjacent to the State in which the institution is located; and
+
+(ii) Establish the need for the training for the student to obtain employment in the recognized occupation for which the program prepares the student;
 
 (27) In the case of an institution participating in a Title IV, HEA loan program, the institution -
 
@@ -174,7 +174,7 @@ Link to an amendment published at 85 FR 54816, Sept. 2, 2020.
 
 (C) To the extent practicable, offer legal alternatives for downloading or otherwise acquiring copyrighted material, as determined by the institution; and
 
-(31) The institution will submit a teach-out plan to its accrediting agency in compliance with 34 CFR 602.24(c), and the standards of the institution's accrediting agency upon the occurrence of any of the following events:
+(31) The institution will submit a teach-out plan to its accrediting agency in compliance with 34 CFR 602.24(c) and the standards of the institution's accrediting agency. The institution will update its teach-out plan upon the occurrence of any of the following events:
 
 (i) The Secretary initiates the limitation, suspension, or termination of the participation of an institution in any Title IV, HEA program under 34 CFR 600.41 or subpart G of this part or initiates an emergency action under § 668.83.
 
@@ -218,4 +218,4 @@ Link to an amendment published at 85 FR 54816, Sept. 2, 2020.
 
 (h) An institution's program participation agreement no longer applies to or covers a location of the institution as of the date on which that location ceases to be a part of the participating institution.
 
-(Approved by the Office of Management and Budget under control number 1845-0022)[59 FR 22425, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 63 FR 40623, July 29, 1998; 64 FR 58617, Oct. 29, 1999; 64 FR 59038, Nov. 1, 1999; 65 FR 38729, June 22, 2000; 65 FR 65637, Nov. 1, 2000; 67 FR 67072, Nov. 1, 2002; 73 FR 35492, June 23, 2008; 74 FR 55648, Oct. 28, 2009; 74 FR 55934, Oct. 29, 2009; 76 FR 66950, Oct. 29, 2010; 76 FR 20536, Apr. 13, 2011; 79 FR 65007, Oct. 31, 2014; 81 FR 76070, Nov. 1, 2016; 84 FR 49910, Sept. 23, 2019]
+(Approved by the Office of Management and Budget under control number 1845-0022)[59 FR 22425, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 63 FR 40623, July 29, 1998; 64 FR 58617, Oct. 29, 1999; 64 FR 59038, Nov. 1, 1999; 65 FR 38729, June 22, 2000; 65 FR 65637, Nov. 1, 2000; 67 FR 67072, Nov. 1, 2002; 73 FR 35492, June 23, 2008; 74 FR 55648, Oct. 28, 2009; 74 FR 55934, Oct. 29, 2009; 76 FR 66950, Oct. 29, 2010; 76 FR 20536, Apr. 13, 2011; 79 FR 65007, Oct. 31, 2014; 81 FR 76070, Nov. 1, 2016; 84 FR 49910, Sept. 23, 2019; 85 FR 54816, Sept. 2, 2020]

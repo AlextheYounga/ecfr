@@ -1,7 +1,5 @@
 ##### § 50.32 Outflow amounts. #####
 
-Link to an amendment published at 86 FR 9209, Feb. 11, 2021.
-
 (a) *Retail funding outflow amount.* A national bank's or Federal savings association's retail funding outflow amount as of the calculation date includes (regardless of maturity or collateralization):
 
 (1) 3 percent of all stable retail deposits held at the national bank or Federal savings association;
@@ -108,23 +106,23 @@ Link to an amendment published at 86 FR 9209, Feb. 11, 2021.
 
 (4) 40 percent of all brokered deposits at the national bank or Federal savings association provided by a retail customer or counterparty that are not described in paragraphs (g)(5) through (9) of this section and which are held in a transactional account with no contractual maturity date, where less than the entire amount is covered by deposit insurance;
 
-(5) 10 percent of all reciprocal brokered deposits at the national bank or Federal savings association provided by a retail customer or counterparty, where the entire amount is covered by deposit insurance;
+(5) 10 percent of all brokered reciprocal deposits at the national bank or Federal savings association provided by a retail customer or counterparty, where the entire amount is covered by deposit insurance;
 
-(6) 25 percent of all reciprocal brokered deposits at the national bank or Federal savings association provided by a retail customer or counterparty, where less than the entire amount is covered by deposit insurance;
+(6) 25 percent of all brokered reciprocal deposits at the national bank or Federal savings association provided by a retail customer or counterparty, where less than the entire amount is covered by deposit insurance;
 
-(7) 10 percent of all brokered sweep deposits at the national bank or Federal savings association provided by a retail customer or counterparty:
+(7) 10 percent of all sweep deposits at the national bank or Federal savings association provided by a retail customer or counterparty:
 
 (i) That are deposited in accordance with a contract between the retail customer or counterparty and the national bank or Federal savings association, a controlled subsidiary of the national bank or Federal savings association, or a company that is a controlled subsidiary of the same top-tier company of which the national bank or Federal savings association is a controlled subsidiary; and
 
 (ii) Where the entire amount of the deposits is covered by deposit insurance;
 
-(8) 25 percent of all brokered sweep deposits at the national bank or Federal savings association provided by a retail customer or counterparty:
+(8) 25 percent of all sweep deposits at the national bank or Federal savings association provided by a retail customer or counterparty:
 
 (i) That are not deposited in accordance with a contract between the retail customer or counterparty and the national bank or Federal savings association, a controlled subsidiary of the national bank or Federal savings association, or a company that is a controlled subsidiary of the same top-tier company of which the national bank or Federal savings association is a controlled subsidiary; and
 
 (ii) Where the entire amount of the deposits is covered by deposit insurance; and
 
-(9) 40 percent of all brokered sweep deposits at the national bank or Federal savings association provided by a retail customer or counterparty where less than the entire amount of the deposit balance is covered by deposit insurance.
+(9) 40 percent of all sweep deposits at the national bank or Federal savings association provided by a retail customer or counterparty where less than the entire amount of the deposit balance is covered by deposit insurance.
 
 (h) *Unsecured wholesale funding outflow amount.* A national bank's or Federal savings association's unsecured wholesale funding outflow amount, for all transactions that mature within 30 calendar days or less of the calculation date, as of the calculation date includes:
 
@@ -213,3 +211,5 @@ Link to an amendment published at 86 FR 9209, Feb. 11, 2021.
 (1) The national bank or Federal savings association and a consolidated subsidiary of the national bank or Federal savings association; or
 
 (2) A consolidated subsidiary of the national bank or Federal savings association and another consolidated subsidiary of the national bank or Federal savings association.
+
+[79 FR 61523, 61538, Oct. 10, 2014, as amended at 86 FR 9209, Feb. 11, 2021]

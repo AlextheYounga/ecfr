@@ -1,7 +1,5 @@
 ##### § 438.6 Special contract provisions related to payment. #####
 
-Link to an amendment published at 85 FR 72839, Nov. 13, 2020.
-
 (a) *Definitions.* As used in this part, the following terms have the indicated meanings:
 
 *Base amount* is the starting amount, calculated according to paragraph (d)(2) of this section, available for pass-through payments to hospitals in a given contract year subject to the schedule in paragraph (d)(3) of this section.
@@ -20,7 +18,7 @@ Link to an amendment published at 85 FR 72839, Nov. 13, 2020.
 
 (b) *Basic requirements.* (1) If used in the payment arrangement between the State and the MCO, PIHP, or PAHP, all applicable risk-sharing mechanisms, such as reinsurance, risk corridors, or stop-loss limits, must be documented in the contract and rate certification documents for the rating period prior to the start of the rating period, and must be developed in accordance with § 438.4, the rate development standards in § 438.5, and generally accepted actuarial principles and practices. Risk-sharing mechanisms may not be added or modified after the start of the rating period.
 
-(2) Contracts with incentive arrangements may not provide for payment in excess of 105 percent of the approved capitation payments attributable to the enrollees or services covered by the incentive arrangement, since such total payments will not be considered to be actuarially sound. For all incentive arrangements, the contract must provide that the arrangement is -
+(2) Contracts with incentive arrangements may not provide for payment in excess of 105 percent of the approved capitation payments attributable to the enrollees or services covered by the incentive arrangement, since such total payments will not be considered to be actuarially sound. For all incentive arrangements, the contract must provide that the arrangement is—
 
 (i) For a fixed period of time and performance is measured during the rating period under the contract in which the incentive arrangement is applied.
 
@@ -32,7 +30,7 @@ Link to an amendment published at 85 FR 72839, Nov. 13, 2020.
 
 (v) Necessary for the specified activities, targets, performance measures, or quality-based outcomes that support program initiatives as specified in the State's quality strategy at § 438.340.
 
-(3) Contracts that provide for a withhold arrangement must ensure that the capitation payment minus any portion of the withhold that is not reasonably achievable is actuarially sound as determined by an actuary. The total amount of the withhold, achievable or not, must be reasonable and take into consideration the MCO's, PIHP's or PAHP's financial operating needs accounting for the size and characteristics of the populations covered under the contract, as well as the MCO's, PIHP's or PAHP's capital reserves as measured by the risk-based capital level, months of claims reserve, or other appropriate measure of reserves. The data, assumptions, and methodologies used to determine the portion of the withhold that is reasonably achievable must be submitted as part of the documentation required under § 438.7(b)(6). For all withhold arrangements, the contract must provide that the arrangement is -
+(3) Contracts that provide for a withhold arrangement must ensure that the capitation payment minus any portion of the withhold that is not reasonably achievable is actuarially sound as determined by an actuary. The total amount of the withhold, achievable or not, must be reasonable and take into consideration the MCO's, PIHP's or PAHP's financial operating needs accounting for the size and characteristics of the populations covered under the contract, as well as the MCO's, PIHP's or PAHP's capital reserves as measured by the risk-based capital level, months of claims reserve, or other appropriate measure of reserves. The data, assumptions, and methodologies used to determine the portion of the withhold that is reasonably achievable must be submitted as part of the documentation required under § 438.7(b)(6). For all withhold arrangements, the contract must provide that the arrangement is—
 
 (i) For a fixed period of time and performance is measured during the rating period under the contract in which the withhold arrangement is applied.
 
@@ -44,7 +42,7 @@ Link to an amendment published at 85 FR 72839, Nov. 13, 2020.
 
 (v) Necessary for the specified activities, targets, performance measures, or quality-based outcomes that support program initiatives as specified in the State's quality strategy under § 438.340.
 
-(c) *Delivery system and provider payment initiatives under MCO, PIHP, or PAHP contracts* - (1) *General rule.* Except as specified in this paragraph (c), in paragraph (d) of this section, in a specific provision of Title XIX, or in another regulation implementing a Title XIX provision related to payments to providers, that is applicable to managed care programs, the State may not direct the MCO's, PIHP's or PAHP's expenditures under the contract.
+(c) *Delivery system and provider payment initiatives under MCO, PIHP, or PAHP contracts*—(1) *General rule.* Except as specified in this paragraph (c), in paragraph (d) of this section, in a specific provision of Title XIX, or in another regulation implementing a Title XIX provision related to payments to providers, that is applicable to managed care programs, the State may not direct the MCO's, PIHP's or PAHP's expenditures under the contract.
 
 (i) The State may require the MCO, PIHP or PAHP to implement value-based purchasing models for provider reimbursement, such as pay for performance arrangements, bundled payments, or other service payment models intended to recognize value or outcomes over volume of services.
 
@@ -62,7 +60,7 @@ Link to an amendment published at 85 FR 72839, Nov. 13, 2020.
 
 (2) *Process for approval.* (i) All contract arrangements that direct the MCO's, PIHP's, or PAHP's expenditures under paragraphs (c)(1)(i) through (iii) of this section must be developed in accordance with § 438.4, the standards specified in § 438.5, and generally accepted actuarial principles and practices.
 
-(ii) Contract arrangements that direct the MCO's, PIHP's, or PAHP's expenditures under paragraphs (c)(1)(i) and (ii) and (c)(1)(iii)(B) through (D) of this section must have written approval prior to implementation. Contract arrangements that direct the MCO's, PIHP's, or PAHP's expenditures under paragraph (c)(1)(iii)(A) of this section do not require written approval prior to implementation but are required to meet the criteria in paragraphs (c)(2)(ii)(A) through (F) of this section. To obtain written approval, a State must demonstrate, in writing, that the arrangement -
+(ii) Contract arrangements that direct the MCO's, PIHP's, or PAHP's expenditures under paragraphs (c)(1)(i) and (ii) and (c)(1)(iii)(B) through (D) of this section must have written approval prior to implementation. Contract arrangements that direct the MCO's, PIHP's, or PAHP's expenditures under paragraph (c)(1)(iii)(A) of this section do not require written approval prior to implementation but are required to meet the criteria in paragraphs (c)(2)(ii)(A) through (F) of this section. To obtain written approval, a State must demonstrate, in writing, that the arrangement—
 
 (A) Is based on the utilization and delivery of services;
 
@@ -76,7 +74,7 @@ Link to an amendment published at 85 FR 72839, Nov. 13, 2020.
 
 (F) May not be renewed automatically.
 
-(iii) Any contract arrangements that direct the MCO's, PIHP's, or PAHP's expenditures under paragraph (c)(1)(i) or (ii) of this section must also demonstrate, in writing, that the arrangement -
+(iii) Any contract arrangements that direct the MCO's, PIHP's, or PAHP's expenditures under paragraph (c)(1)(i) or (ii) of this section must also demonstrate, in writing, that the arrangement—
 
 (A) Must make participation in the value-based purchasing initiative, delivery system reform or performance improvement initiative available, using the same terms of performance, to a class of providers providing services under the contract related to the reform or improvement initiative;
 
@@ -96,7 +94,7 @@ Link to an amendment published at 85 FR 72839, Nov. 13, 2020.
 
 (ii) Approval of a payment arrangement under paragraph (c)(1)(iii) of this section is for one rating period.
 
-(d) *Pass-through payments under MCO, PIHP, and PAHP contracts* - (1) *General rule.* States may continue to require MCOs, PIHPs, and PAHPs to make pass-through payments (as defined in paragraph (a) of this section) to network providers that are hospitals, physicians, or nursing facilities under the contract, provided the requirements of this paragraph (d) are met. States may not require MCOs, PIHPs, and PAHPs to make pass-through payments other than those permitted under this paragraph (d).
+(d) *Pass-through payments under MCO, PIHP, and PAHP contracts*—(1) *General rule.* States may continue to require MCOs, PIHPs, and PAHPs to make pass-through payments (as defined in paragraph (a) of this section) to network providers that are hospitals, physicians, or nursing facilities under the contract, provided the requirements of this paragraph (d) are met. States may not require MCOs, PIHPs, and PAHPs to make pass-through payments other than those permitted under this paragraph (d).
 
 (i) In order to use a transition period described in this paragraph (d), a State must demonstrate that it had pass-through payments for hospitals, physicians, or nursing facilities in:
 
@@ -140,6 +138,22 @@ Link to an amendment published at 85 FR 72839, Nov. 13, 2020.
 
 (5) *Pass-through payments to physicians or nursing facilities.* For States that meet the requirement in paragraph (d)(1)(i) of this section, rating periods for contract(s) beginning on or after July 1, 2017 through rating periods for contract(s) beginning on or after July 1, 2021, may continue to require pass-through payments to physicians or nursing facilities under the MCO, PIHP, or PAHP contract of no more than the total dollar amount of pass-through payments to physicians or nursing facilities, respectively, identified in the managed care contract(s) and rate certification(s) used to meet the requirement of paragraph (d)(1)(i) of this section. For rating periods for contract(s) beginning on or after July 1, 2022, the State cannot require pass-through payments for physicians or nursing facilities under a MCO, PIHP, or PAHP contract.
 
+(6) *Pass-through payments for States transitioning services and populations from a fee-for-service delivery system to a managed care delivery system.* Notwithstanding the restrictions on pass-through payments in paragraphs (d)(1), (3), and (5) of this section, a State may require the MCO, PIHP, or PAHP to make pass-through payments to network providers that are hospitals, nursing facilities, or physicians under the contract, for each rating period of the transition period for up to 3 years, when Medicaid populations or services are initially transitioning from a fee-for-service (FFS) delivery system to a managed care delivery system, provided the following requirements are met:
+
+(i) The services will be covered for the first time under a managed care contract and were previously provided in a FFS delivery system prior to the first rating period of the transition period.
+
+(ii) The State made supplemental payments, as defined in paragraph (a) of this section, to hospitals, nursing facilities, or physicians during the 12-month period immediately 2 years prior to the first year of the transition period.
+
+(iii) The aggregate amount of the pass-through payments that the State requires the MCO, PIHP, or PAHP to make is less than or equal to the amounts calculated in paragraph (d)(6)(iii)(A), (B), or (C) of this section for the relevant provider type for each rating period of the transition period. In determining the amount of each component for the calculations contained in paragraphs (d)(6)(iii)(A) through (C), the State must use the amounts paid for services during the 12-month period immediately 2 years prior to the first rating period of the transition period.
+
+(A) *Hospitals.* For inpatient and outpatient hospital services, calculate the product of the actual supplemental payments paid and the ratio achieved by dividing the amount paid through payment rates for hospital services that are being transitioned from payment in a FFS delivery system to the managed care contract by the total amount paid through state plan approved rates for hospital services made in the State's FFS delivery system. Both the numerator and denominator of the ratio should exclude any supplemental payments made to the applicable providers.
+
+(B) *Nursing facilities.* For nursing facility services, calculate the product of the actual supplemental payments paid and the ratio achieved by dividing the amount paid through state plan approved rates for nursing facility services that are being transitioned from payment in a FFS delivery system to the managed care contract by the total amount paid through payment rates for nursing facility services made in the State's FFS delivery system. Both the numerator and denominator of the ratio should exclude any supplemental payments made to the applicable providers.
+
+(C) *Physicians.* For physician services, calculate the product of the actual supplemental payments paid and the ratio achieved by dividing the amount paid through state plan approved rates for physician services that are being transitioned from payment in a FFS delivery system to the managed care contract by the total amount paid through payment rates for physician services made in the State's FFS delivery system. Both the numerator and denominator of the ratio should exclude any supplemental payments made to the applicable providers.
+
+(iv) The State may require the MCO, PIHP, or PAHP to make pass-through payments for Medicaid populations or services that are initially transitioning from a FFS delivery system to a managed care delivery system for up to 3 years from the beginning of the first rating period in which the services were transitioned from payment in a FFS delivery system to a managed care contract, provided that during the 3 years, the services continue to be provided under a managed care contract with an MCO, PIHP, or PAHP.
+
 (e) *Payments to MCOs and PIHPs for enrollees that are a patient in an institution for mental disease.* The State may make a monthly capitation payment to an MCO or PIHP for an enrollee aged 21-64 receiving inpatient treatment in an Institution for Mental Diseases, as defined in § 435.1010 of this chapter, so long as the facility is a hospital providing psychiatric or substance use disorder inpatient care or a sub-acute facility providing psychiatric or substance use disorder crisis residential services, and length of stay in the IMD is for a short term stay of no more than 15 days during the period of the monthly capitation payment. The provision of inpatient psychiatric or substance use disorder treatment in an IMD must meet the requirements for in lieu of services at § 438.3(e)(2)(i) through (iii). For purposes of rate setting, the state may use the utilization of services provided to an enrollee under this section when developing the inpatient psychiatric or substance use disorder component of the capitation rate, but must price utilization at the cost of the same services through providers included under the State plan.
 
-[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017; 82 FR 5428, Jan. 18, 2017; 85 FR 72837, Nov. 13, 2020]
+[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017; 82 FR 5428, Jan. 18, 2017; 85 FR 72837, Nov. 13, 2020; 85 FR 72839, Nov. 13, 2020]

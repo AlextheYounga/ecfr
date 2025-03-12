@@ -1,7 +1,5 @@
 ##### § 668.8 Eligible program. #####
 
-Link to an amendment published at 85 FR 54815, Sept. 2, 2020.
-
 (a) *General.* An eligible program is an educational program that -
 
 (1) Is provided by a participating institution; and
@@ -76,7 +74,7 @@ Link to an amendment published at 85 FR 54815, Sept. 2, 2020.
 
 (ii) The program has a substantiated placement rate of at least 70 percent, as calculated under paragraph (g) of this section;
 
-(iii) The number of clock hours provided in the program does not exceed by more than 50 percent the minimum number of clock hours required for training in the recognized occupation for which the program prepares students, as established by the State in which the program is offered, if the State has established such a requirement, or as established by any Federal agency; and
+(iii) The institution can demonstrate reasonable program length, in accordance with § 668.14(b)(26); and
 
 (iv) The program has been in existence for at least one year. The Secretary considers an educational program to have been in existence for at least one year only if an institution has been legally authorized to provide, and has continuously provided, the program during the 12 months (except for normal vacation periods and, at the discretion of the Secretary, periods when the institution closes due to a natural disaster that directly affects the institution or the institution's students) preceding the date on which the institution applied for eligibility for that program.
 
@@ -134,29 +132,17 @@ Link to an amendment published at 85 FR 54815, Sept. 2, 2020.
 
 (1) The program is at least two academic years in length and provides an associate degree, a bachelor's degree, a professional degree, or an equivalent degree as determined by the Secretary; or
 
-(2) Each course within the program is acceptable for full credit toward that institution's associate degree, bachelor's degree, professional degree, or equivalent degree as determined by the Secretary provided that -
+(2) Each course within the program is acceptable for full credit toward completion of an eligible program offered by the institution that provides an associate degree, bachelor's degree, professional degree, or equivalent degree as determined by the Secretary, provided that -
 
-(i) The institution's degree requires at least two academic years of study; and
+(i) The eligible program requires at least two academic years of study; and
 
-(ii) The institution demonstrates that students enroll in, and graduate from, the degree program.
+(ii) The institution can demonstrate that least one student graduated from the program during the current award year or the two preceding award years.
 
-(l) *Formula.* (1) Except as provided in paragraph (l)(2) of this section, for purposes of determining whether a program described in paragraph (k) of this section satisfies the requirements contained in paragraph (c)(3) or (d) of this section, and determining the number of credit hours in that educational program with regard to the title IV, HEA programs -
+(l) *Formula.* For purposes of determining whether a program described in paragraph (h) of this section satisfies the requirements contained in paragraph (c)(3) or (d) of this section, and the number of credit hours in that educational program for the purposes of the title IV, HEA programs -
 
-(i) A semester hour must include at least 37.5 clock hours of instruction;
+(1) A semester or trimester hour must include at least 30 clock hours of instruction; and
 
-(ii) A trimester hour must include at least 37.5 clock hours of instruction; and
-
-(iii) A quarter hour must include at least 25 clock hours of instruction.
-
-(2) The institution's conversions to establish a minimum number of clock hours of instruction per credit may be less than those specified in paragraph (l)(1) of this section if the institution's designated accrediting agency, or recognized State agency for the approval of public postsecondary vocational institutions for participation in the title IV, HEA programs, has not identified any deficiencies with the institution's policies and procedures, or their implementation, for determining the credit hours that the institution awards for programs and courses, so long as -
-
-(i) The institution's student work outside of class combined with the clock hours of instruction meet or exceed the numeric requirements in paragraph (l)(1) of this section; and
-
-(ii)(A) A semester hour must include at least 30 clock hours of instruction;
-
-(B) A trimester hour must include at least 30 clock hours of instruction; and
-
-(C) A quarter hour must include at least 20 hours of instruction.
+(2) A quarter hour must include at least 20 clock hours of instruction.
 
 (m) An otherwise eligible program that is offered in whole or in part through telecommunications is eligible for title IV, HEA program purposes if the program is offered by an institution, other than a foreign institution, that has been evaluated and is accredited for its effective delivery of distance education programs by an accrediting agency or association that -
 
@@ -166,4 +152,4 @@ Link to an amendment published at 85 FR 54815, Sept. 2, 2020.
 
 (n) For Title IV, HEA program purposes, *eligible program* includes a direct assessment program approved by the Secretary under § 668.10 and a comprehensive transition and postsecondary program approved by the Secretary under § 668.232.
 
-(Authority: 20 U.S.C. 1070a, 1070a-1, 1070b, 1070c-1, 1070c-2, 1070g, 1085, 1087aa-1087hh, 1088, 1091; 42 U.S.C. 2753)[59 FR 22421, Apr. 29, 1994]Editorial Note:For Federal Register citations affecting § 668.8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[59 FR 22421, Apr. 29, 1994]Editorial Note:For Federal Register citations affecting § 668.8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

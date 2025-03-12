@@ -1,0 +1,5 @@
+##### § 249.108 Funding related to Covered Federal Reserve Facility Funding. #####
+
+(a) *Treatment of Covered Federal Reserve Facility Funding.* Notwithstanding any other section of this part and except as provided in paragraph (b) of this section, available stable funding amounts and required stable funding amounts related to Covered Federal Reserve Facility Funding and the assets securing Covered Federal Reserve Facility Funding are excluded from the calculation of a Board-regulated institution's net stable funding ratio calculated under § 249.100(b).
+
+(b) *Exception.* To the extent the Covered Federal Reserve Facility Funding is secured by securities, debt obligations, or other instruments issued by the Board-regulated institution or one of its consolidated subsidiaries, the Covered Federal Reserve Facility Funding and assets securing the Covered Federal Reserve Facility Funding are not subject to paragraph (a) of this section and the available stable funding amount and required stable funding amount must be included in the Board-regulated institution's net stable funding ratio calculated under § 249.100(b).

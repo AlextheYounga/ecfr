@@ -1,8 +1,8 @@
 ##### § 668.13 Certification procedures. #####
 
-Link to an amendment published at 85 FR 54816, Sept. 2, 2020.
+(a) *Requirements for certification.* (1)(i) The Secretary certifies an institution to participate in the title IV, HEA programs if the institution qualifies as an eligible institution under 34 CFR part 600, meets the standards of this subpart and 34 CFR part 668, subpart L, and satisfies the requirements of paragraph (a)(2) of this section.
 
-(a) *Requirements for certification.* (1) The Secretary certifies an institution to participate in the title IV, HEA programs if the institution qualifies as an eligible institution under 34 CFR part 600, meets the standards of this subpart and 34 CFR part 668, subpart L, and satisfies the requirements of paragraph (a)(2) of this section.
+(ii) On application from the institution, the Secretary certifies a location of an institution that meets the requirements of § 668.13(a)(1)(i) as a branch if it satisfies the definition of “branch” in 34 CFR 600.2.
 
 (2) Except as provided in paragraph (a)(3) of this section, if an institution wishes to participate for the first time in the title IV, HEA programs or has undergone a change in ownership that results in a change in control as described in 34 CFR 600.31, the institution must require the following individuals to complete title IV, HEA program training provided or approved by the Secretary no later than 12 months after the institution executes its program participation agreement under § 668.14:
 
@@ -22,6 +22,8 @@ Link to an amendment published at 85 FR 54816, Sept. 2, 2020.
 
 (2) Provided that an institution has submitted an application for a renewal of certification that is materially complete at least 90 days prior to the expiration of its current period of participation, the institution's existing certification will be extended on a month to month basis following the expiration of the institution's period of participation until the end of the month in which the Secretary issues a decision on the application for recertification.
 
+(3) In the event that the Secretary does not make a determination to grant or deny certification within 12 months of the expiration of its current period of participation, the institution will automatically be granted renewal of certification, which may be provisional.
+
 (c) *Provisional certification.* (1)(i) The Secretary may provisionally certify an institution if -
 
 (A) The institution seeks initial participation in a Title IV, HEA program;
@@ -36,9 +38,11 @@ Link to an amendment published at 85 FR 54816, Sept. 2, 2020.
 
 (*3*) Whose participation has been limited or suspended under subpart G of this part, or voluntarily enters into provisional certification;
 
-(D) The institution seeks a renewal of participation in a Title IV, HEA program after the expiration of a prior period of participation in that program; or
+(D) The institution seeks a renewal of participation in a Title IV, HEA program after the expiration of a prior period of participation in that program;
 
-(E) The institution is a participating institution that was accredited or preaccredited by a nationally recognized accrediting agency on the day before the Secretary withdrew the Secretary's recognition of that agency according to the provisions contained in 34 CFR part 603.
+(E) The institution is a participating institution that was accredited or preaccredited by a nationally recognized accrediting agency on the day before the Secretary withdrew the Secretary's recognition of that agency according to the provisions contained in 34 CFR part 603; or
+
+(F) The institution is a participating institution that has been provisionally recertified under the automatic recertification requirement in paragraph (b)(3) of this section.
 
 (ii) A proprietary institution's certification automatically becomes provisional at the start of a fiscal year after it did not derive at least 10 percent of its revenue for its preceding fiscal year from sources other than Title IV, HEA program funds, as required under § 668.14(b)(16).
 
@@ -66,7 +70,7 @@ Link to an amendment published at 85 FR 54816, Sept. 2, 2020.
 
 (iii) The notice states the basis for the revocation, the consequences of the revocation to the institution, and that the institution may request the Secretary to reconsider the revocation. The consequences of a revocation are described in § 668.26.
 
-(3)(i) An institution may request reconsideration of a revocation under this section by submitting to the Secretary, within 20 days of the institution's receipt of the Secretary's notice, written evidence that the revocation is unwarranted. The institution must file the request with the Secretary by hand-delivery, mail, or facsimile transmission.
+(3)(i) An institution may request reconsideration of a revocation under this section by submitting to the Secretary, within 20 days of the institution's receipt of the Secretary's notice, written evidence that the revocation is unwarranted. The institution must file the request with the Secretary by hand-delivery, mail, or electronic transmission.
 
 (ii) The filing date of the request is the date on which the request is -
 
@@ -74,11 +78,9 @@ Link to an amendment published at 85 FR 54816, Sept. 2, 2020.
 
 (B) Mailed; or
 
-(C) Sent by facsimile transmission.
+(C) Sent by electronic transmission.
 
-(iii) Documents filed by facsimile transmission must be transmitted to the Secretary in accordance with instructions provided by the Secretary in the notice of revocation. An institution filing by facsimile transmission is responsible for confirming that a complete and legible copy of the document was received by the Secretary.
-
-(iv) The Secretary discourages the use of facsimile transmission for documents longer than five pages.
+(iii) Documents filed by electronic transmission must be transmitted to the Secretary in accordance with instructions provided by the Secretary in the notice of revocation.
 
 (4)(i) The designated department official making the decision concerning an institution's request for reconsideration of a revocation is different from, and not subject to supervision by, the official who initiated the revocation of the institution's provisional certification. The deciding official promptly considers an institution's request for reconsideration of a revocation and notifies the institution, by certified mail, return receipt requested, of the final decision. The Secretary also may transmit the notice by other, more expeditious means, if practical.
 
@@ -90,12 +92,6 @@ Link to an amendment published at 85 FR 54816, Sept. 2, 2020.
 
 (iii) If the Secretary determines that the revocation of the institution's provisional certification is unwarranted, the Secretary's notice informs the institution that the institution's provisional certification is reinstated, effective on the date that the Secretary's original revocation notice was mailed, for a specified period of time.
 
-(5)(i) The mailing date of a notice of revocation or a request for reconsideration of a revocation is the date evidenced on the original receipt of mailing from the U.S. Postal Service.
+(5) The mailing date of a notice of revocation or a request for reconsideration of a revocation is the date evidenced on the original receipt of mailing from the U.S. Postal Service or another service that provides delivery confirmation for that document.
 
-(ii) The date on which a request for reconsideration of a revocation is submitted is -
-
-(A) If the request was sent by a delivery service other than the U.S. Postal Service, the date evidenced on the original receipt by that service; and
-
-(B) If the request was sent by facsimile transmission, the date that the document is recorded as received by facsimile equipment that receives the transmission.
-
-(Approved by the Office of Management and Budget under control number 1845-0537)(Authority: 20 U.S.C. 1099c and E.O. 12549 (3 CFR, 1989 Comp., p. 189) and E.O. 12689 (3 CFR, 1989 Comp., p. 235))[59 FR 22424, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 60 FR 34431, June 30, 1995; 62 FR 62876, Nov. 25, 1997; 63 FR 40623, July 29, 1998; 64 FR 58617, Oct. 29, 1999; 65 FR 65675, Nov. 1, 2000; 74 FR 55934, Oct. 29, 2009; 75 FR 67198, Nov. 1, 2010]
+(Approved by the Office of Management and Budget under control number 1845-0537)[59 FR 22424, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 60 FR 34431, June 30, 1995; 62 FR 62876, Nov. 25, 1997; 63 FR 40623, July 29, 1998; 64 FR 58617, Oct. 29, 1999; 65 FR 65675, Nov. 1, 2000; 74 FR 55934, Oct. 29, 2009; 75 FR 67198, Nov. 1, 2010; 85 FR 54816, Sept. 2, 2020]

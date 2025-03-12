@@ -1,7 +1,5 @@
 ##### § 50.30 Total net cash outflow amount. #####
 
-Link to an amendment published at 86 FR 9209, Feb. 11, 2021.
-
 (a) *Calculation of total net cash outflow amount.* As of the calculation date, a national bank's or Federal savings association's total net cash outflow amount equals the national bank's or Federal savings association's outflow adjustment percentage as determined under paragraph (c) of this section multiplied by:
 
 (1) The sum of the outflow amounts calculated under § 50.32(a) through (l); minus
@@ -34,15 +32,13 @@ Link to an amendment published at 86 FR 9209, Feb. 11, 2021.
 
 (B) The net day 30 cumulative maturity outflow amount as calculated under paragraph (b)(1)(ii) of this section.
 
-(3) Other than the transactions identified in § 50.32(h)(2), (h)(5), or (j) or § 50.33(d) or (f), the maturity of which is determined under § 50.31(a), transactions that have no maturity date are not included in the calculation of the maturity mismatch add-on.
+(3) Other than the transactions identified in § 50.32(h)(2), (h)(5), or (j) or § 50.33(d) or (f), the maturity of which is determined under § 50.31(a), transactions that have an open maturity are not included in the calculation of the maturity mismatch add-on.
 
 (c) *Outflow adjustment percentage.* A national bank's or Federal savings association's outflow adjustment percentage is determined pursuant to Table 1 to this paragraph (c).
 
-Table 1 to § 50.30(c) - Outflow Adjustment Percentages
-
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |Percent|
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
-|                                                                                                                                                                                                                                             Outflow adjustment percentage                                                                                                                                                                                                                                              |       |
+|                                                                                                                                                                                                                                           **Outflow adjustment percentage**                                                                                                                                                                                                                                            |       |
 |                                                                                                                                                                                                                   GSIB depository institution that is a national bank or Federal savings association                                                                                                                                                                                                                   |  100  |
 |                                                                                                                                                                                                                                Category II national bank or Federal savings association                                                                                                                                                                                                                                |  100  |
 |                                                                                                                                                                                                                            Category III national bank or Federal savings association that:                                                                                                                                                                                                                             |  100  |
@@ -56,4 +52,4 @@ Table 1 to § 50.30(c) - Outflow Adjustment Percentages
 
 (2) A national bank or Federal savings association whose outflow adjustment percentage decreases from a higher to a lower outflow adjustment percentage must continue to use its previous higher outflow adjustment percentage until the first day of the first calendar quarter after the outflow adjustment percentage decreases.
 
-[79 FR 61523, 61538, Oct. 10, 2014, as amended at 84 FR 59268, Nov. 1, 2019]
+[79 FR 61523, 61538, Oct. 10, 2014, as amended at 84 FR 59268, Nov. 1, 2019; 86 FR 9209, Feb. 11, 2021]

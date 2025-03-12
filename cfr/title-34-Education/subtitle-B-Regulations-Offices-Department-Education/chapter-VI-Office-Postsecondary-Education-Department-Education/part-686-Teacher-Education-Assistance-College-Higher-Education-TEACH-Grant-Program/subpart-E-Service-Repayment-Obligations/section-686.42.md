@@ -1,6 +1,4 @@
-##### § 686.42 Discharge of agreement to serve. #####
-
-Link to an amendment published at 85 FR 49827, Aug. 14, 2020.
+##### § 686.42 Discharge of agreement to serve or repay. #####
 
 (a) *Death.* (1) If a grant recipient dies, the Secretary discharges the obligation to complete the agreement to serve based on -
 
@@ -12,17 +10,21 @@ Link to an amendment published at 85 FR 49827, Aug. 14, 2020.
 
 (iv) Verification of the grant recipient's death through an authoritative Federal or State electronic database approved for use by the Secretary.
 
-(2) Under exceptional circumstances and on a case-by-case basis, the Secretary discharges the obligation to complete the agreement to serve based on other reliable documentation of the grant recipient's death that is acceptable to the Secretary.
+(2) Under exceptional circumstances and on a case-by-case basis, the Secretary discharges the obligation to complete the agreement to serve or repay based on other reliable documentation of the grant recipient's death that is acceptable to the Secretary.
 
-(b) *Total and permanent disability.* (1) A grant recipient's agreement to serve is discharged if the recipient becomes totally and permanently disabled, as defined in 34 CFR 682.200(b), and the grant recipient applies for and satisfies the eligibility requirements for a total and permanent disability discharge in accordance with 34 CFR 685.213.
+(b) *Total and permanent disability.* (1) A grant recipient's agreement to serve or repay is discharged if the recipient becomes totally and permanently disabled, as defined in 34 CFR 685.102(b), and the grant recipient applies for and satisfies the eligibility requirements for a total and permanent disability discharge in accordance with 34 CFR 685.213.
 
-(2) The eight-year time period in which the grant recipient must complete the service obligation remains in effect during the conditional discharge period described in 34 CFR 685.213(c)(2) unless the grant recipient is eligible for a suspension based on a condition that is a qualifying reason for leave under the FMLA in accordance with § 686.41(a)(1)(ii)(D).
+(2) If at any time the Secretary determines that the grant recipient does not meet the requirements of the three-year period following the discharge as described in 34 CFR 685.213(b)(7), the Secretary will notify the grant recipient that the grant recipient's obligation to satisfy the terms of the agreement to serve or repay is reinstated.
 
-(3) Interest continues to accrue on each TEACH Grant disbursement unless and until the TEACH Grant recipient's agreement to serve is discharged.
+(3) The Secretary's notification under paragraph (b)(2) of this section will -
 
-(4) If the grant recipient satisfies the criteria for a total and permanent disability discharge during and at the end of the three-year conditional discharge period, the Secretary discharges the grant recipient's service obligation.
+(i) Include the reason or reasons for reinstatement;
 
-(5) If, at any time during or at the end of the three-year conditional discharge period, the Secretary determines that the grant recipient does not meet the eligibility criteria for a total and permanent disability discharge, the Secretary ends the conditional discharge period and the grant recipient is once again subject to the terms of the agreement to serve.
+(ii) Provide information on how the grant recipient may contact the Secretary if the grant recipient has questions about the reinstatement or believes that the agreement to serve or repay was reinstated based on incorrect information; and
+
+(iii) Inform the TEACH Grant recipient that he or she must satisfy the service obligation within the portion of the eight-year period that remained after the date of the discharge.
+
+(4) If the TEACH Grant made to a recipient whose TEACH Grant agreement to serve or repay is reinstated is later converted to a Direct Unsubsidized Loan, the recipient will not be required to pay interest that accrued on the TEACH Grant disbursements from the date the agreement to serve or repay was discharged until the date the agreement to serve or repay was reinstated.
 
 (c) *Military discharge.* (1) A grant recipient who has completed or who has otherwise ceased enrollment in a TEACH Grant-eligible program for which he or she received TEACH Grant funds and has exceeded the period of time allowed under § 686.41(a)(2)(ii), may qualify for a proportional discharge of his or her service obligation due to an extended call or order to active duty status. To apply for a military discharge, a grant recipient or his or her representative must submit a written request to the Secretary.
 
@@ -50,8 +52,8 @@ Link to an amendment published at 85 FR 49827, Aug. 14, 2020.
 
 (B) A copy of the grant recipient's military identification.
 
-(4) For the purpose of this section, the Armed Forces means the Army, Navy, Air Force, Marine Corps, and the Coast Guard.
+(4) For the purpose of this section, the Armed Forces means the Army, Navy, Air Force, Marine Corps, the Coast Guard, a reserve component of the Armed Forces named in 10 U.S.C. 10101, or the National Guard.
 
 (5) Based on a request for a military discharge from the grant recipient or his or her representative, the Secretary will notify the grant recipient or his or her representative of the outcome of the discharge request. For the portion on the service obligation that remains, the grant recipient remains responsible for fulfilling his or her service obligation in accordance with § 686.12.
 
-(Approved by the Office of Management and Budget under control number 1845-0083)(Authority: 20 U.S.C. 1070g, *et seq.*)[73 35495, June 23, 2008, as amended at 74 FR 55950, Oct. 29, 2009; 81 FR 76089, Nov. 1, 2016]
+(Approved by the Office of Management and Budget under control number 1845-0083)(Authority: 20 U.S.C. 1070g, *et seq.*)[73 35495, June 23, 2008, as amended at 74 FR 55950, Oct. 29, 2009; 81 FR 76089, Nov. 1, 2016; 85 FR 49827, Aug. 14, 2020]

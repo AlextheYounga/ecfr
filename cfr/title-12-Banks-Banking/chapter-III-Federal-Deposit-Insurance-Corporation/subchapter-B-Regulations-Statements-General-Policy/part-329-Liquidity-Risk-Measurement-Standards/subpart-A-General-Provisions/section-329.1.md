@@ -1,10 +1,8 @@
 ##### § 329.1 Purpose and applicability. #####
 
-Link to an amendment published at 86 FR 9218, Feb. 11, 2021.
+(a) *Purpose.* This part establishes a minimum liquidity standard and a minimum stable funding standard for certain FDIC-supervised institutions on a consolidated basis, as set forth herein.
 
-(a) *Purpose.* This part establishes a minimum liquidity standard for certain FDIC-supervised institutions on a consolidated basis, as set forth in this part.
-
-(b) *Applicability.* (1) An FDIC-supervised institution is subject to the minimum liquidity standard and other requirements of this part if:
+(b) *Applicability.* (1) An FDIC-supervised institution is subject to the minimum liquidity standard, minimum stable funding standard, and other requirements of this part if:
 
 (i) It is a:
 
@@ -26,4 +24,4 @@ Link to an amendment published at 86 FR 9218, Feb. 11, 2021.
 
 (3) In making a determination under paragraph (b)(1)(ii) of this section, the FDIC will apply, as appropriate, notice and response procedures in the same manner and to the same extent as the notice and response procedures set forth in 12 CFR 324.5.
 
-[84 FR 59279, Nov. 1, 2019]
+[84 FR 59279, Nov. 1, 2019, as amended at 86 FR 9218, Feb. 11, 2021]

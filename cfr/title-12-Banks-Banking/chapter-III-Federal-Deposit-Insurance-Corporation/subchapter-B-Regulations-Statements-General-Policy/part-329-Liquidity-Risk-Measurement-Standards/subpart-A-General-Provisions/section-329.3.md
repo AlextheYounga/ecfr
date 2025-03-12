@@ -1,7 +1,5 @@
 ##### § 329.3 Definitions. #####
 
-Link to an amendment published at 86 FR 9219, Feb. 11, 2021.
-
 For the purposes of this part:
 
 *Affiliated depository institution* means with respect to an FDIC-supervised institution that is a depository institution, another depository institution that is a consolidated subsidiary of a bank holding company or savings and loan holding company of which the FDIC-supervised institution is also a consolidated subsidiary.
@@ -12,13 +10,19 @@ For the purposes of this part:
 
 *Bank holding company* is defined in section 2 of the Bank Holding Company Act of 1956, as amended (12 U.S.C. 1841 *et seq.*).
 
-*Brokered deposit* means any deposit held at the FDIC-supervised institution that is obtained, directly or indirectly, from or through the mediation or assistance of a deposit broker as that term is defined in section 29 of the Federal Deposit Insurance Act (12 U.S.C. 1831f(g)), and includes a reciprocal brokered deposit and a brokered sweep deposit.
+*Brokered deposit* means any deposit held at the FDIC-supervised institution that is obtained, directly or indirectly, from or through the mediation or assistance of a deposit broker as that term is defined in section 29 of the Federal Deposit Insurance Act (12 U.S.C. 1831f(g)) and the Federal Deposit Insurance Corporation's regulations.
 
-*Brokered sweep deposit* means a deposit held at the FDIC-supervised institution by a customer or counterparty through a contractual feature that automatically transfers to the FDIC-supervised institution from another regulated financial company at the close of each business day amounts identified under the agreement governing the account from which the amount is being transferred.
+*Brokered reciprocal deposit* means a brokered deposit that an FDIC-supervised institution receives through a deposit placement network on a reciprocal basis, such that:
 
-*Calculation date* means, for purposes of subparts A through F of this part, any date on which an FDIC-supervised institution calculates its liquidity coverage ratio under § 329.10.
+(1) For any deposit received, the FDIC-supervised institution (as agent for the depositors) places the same amount with other depository institutions through the network; and
+
+(2) Each member of the network sets the interest rate to be paid on the entire amount of funds it places with other network members.
+
+*Calculation date* means, for subparts B through J of this part, any date on which an FDIC-supervised institution calculates its liquidity coverage ratio under § 329.10, and for subparts K through M of this part, any date on which an FDIC-supervised institution calculates its net stable funding ratio under § 329.100.
 
 *Call Report* means the Consolidated Reports of Condition and Income.
+
+*Carrying value* means, with respect to an asset, NSFR regulatory capital element, or NSFR liability, the value on the balance sheet of the FDIC-supervised institution, each as determined in accordance with GAAP.
 
 *Category II FDIC-supervised institution* means:
 
@@ -112,21 +116,19 @@ For the purposes of this part:
 
 *Collateralized deposit* means:
 
-(1) A deposit of a public sector entity held at the FDIC-supervised institution that is secured under applicable law by a lien on assets owned by the FDIC-supervised institution and that gives the depositor, as holder of the lien, priority over the assets in the event the FDIC-supervised institution enters into receivership, bankruptcy, insolvency, liquidation, resolution, or similar proceeding; or
+(1) A deposit of a public sector entity held at the FDIC-supervised institution that is required to be secured under applicable law by a lien on assets owned by the FDIC-supervised institution and that gives the depositor, as holder of the lien, priority over the assets in the event the FDIC-supervised institution enters into receivership, bankruptcy, insolvency, liquidation, resolution, or similar proceeding;
 
-(2) A deposit of a fiduciary account held at the FDIC-supervised institution for which the FDIC-supervised institution is a fiduciary and sets aside assets owned by the FDIC-supervised institution as security under 12 CFR 9.10 (national bank) or 12 CFR 150.300 through 150.320 (Federal savings associations) and that gives the depositor priority over the assets in the event the FDIC-supervised institution enters into receivership, bankruptcy, insolvency, liquidation, resolution, or similar proceeding.
+(2) A deposit of a fiduciary account awaiting investment or distribution held at the FDIC-supervised institution for which the FDIC-supervised institution is a fiduciary and is required under applicable state law to set aside assets owned by the FDIC-supervised institution as security, which gives the depositor priority over the assets in the event the FDIC-supervised institution enters into receivership, bankruptcy, insolvency, liquidation, resolution, or similar proceeding; or
 
-*Committed* means, with respect to a credit facility or liquidity facility, that under the terms of the legally binding written agreement governing the facility:
+(3) A deposit of a fiduciary account awaiting investment or distribution held at the FDIC-supervised institution for which the FDIC-supervised institution's affiliated insured depository institution is a fiduciary and where the FDIC-supervised institution under 12 CFR 9.10(c) (national banks), 12 CFR 150.310 (Federal savings associations), or applicable state law (state member and nonmember banks, and state savings associations) has set aside assets owned by the FDIC-supervised institution as security, which gives the depositor priority over the assets in the event the FDIC-supervised institution enters into receivership, bankruptcy, insolvency, liquidation, resolution, or similar proceeding.
 
-(1) The FDIC-supervised institution may not refuse to extend credit or funding under the facility; or
-
-(2) The FDIC-supervised institution may refuse to extend credit under the facility (to the extent permitted under applicable law) only upon the satisfaction or occurrence of one or more specified conditions not including change in financial condition of the borrower, customary notice, or administrative conditions.
+*Committed* means, with respect to a credit or liquidity facility, that under the terms of the facility, it is not unconditionally cancelable.
 
 *Company* means a corporation, partnership, limited liability company, depository institution, business trust, special purpose entity, association, or similar organization.
 
 *Consolidated subsidiary* means a company that is consolidated on the balance sheet of an FDIC-supervised institution or other company under GAAP.
 
-*Controlled subsidiary* means, with respect to a company or An FDIC-supervised institution a consolidated subsidiary or a company that otherwise meets the definition of “subsidiary” in section 2(d) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(d)).
+*Controlled subsidiary* means, with respect to a company or an FDIC-supervised institution a consolidated subsidiary or a company that otherwise meets the definition of “subsidiary” in section 2(d) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(d)).
 
 *Covered depository institution holding company* means a top-tier bank holding company or savings and loan holding company domiciled in the United States other than:
 
@@ -148,8 +150,6 @@ For the purposes of this part:
 
 1 The Money Market Mutual Fund Liquidity Facility was authorized on March 18, 2020, and the Paycheck Protection Program Liquidity Facility was authorized on April 6, 2020.
 
-*Covered nonbank company* means a designated company that the Board of Governors of the Federal Reserve System has required by rule or order to comply with the requirements of 12 CFR part 249.
-
 *Credit facility* means a legally binding agreement to extend funds if requested at a future date, including a general working capital facility such as a revolving credit facility for general corporate or working capital purposes. A credit facility does not include a legally binding written agreement to extend funds at a future date to a counterparty that is made for the purpose of refinancing the debt of the counterparty when it is unable to obtain a primary or anticipated source of funding. *See liquidity facility.*
 
 *Customer short position* means a legally binding written agreement pursuant to which the customer must deliver to the FDIC-supervised institution a non-cash asset that the customer has already sold.
@@ -169,6 +169,16 @@ For the purposes of this part:
 *Dodd-Frank Act* means the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 1376 (2010).
 
 *Eligible HQLA* means a high-quality liquid asset that meets the requirements set forth in § 329.22.
+
+*Encumbered* means, with respect to an asset, that the asset:
+
+(1) Is subject to legal, regulatory, contractual, or other restriction on the ability of the FDIC-supervised institution to monetize the asset; or
+
+(2) Is pledged, explicitly or implicitly, to secure or to provide credit enhancement to any transaction, not including when the asset is pledged to a central bank or a U.S. government-sponsored enterprise where:
+
+(i) Potential credit secured by the asset is not currently extended to the FDIC-supervised institution or its consolidated subsidiaries; and
+
+(ii) The pledged asset is not required to support access to the payment services of a central bank.
 
 *Fair value* means fair value as determined under GAAP.
 
@@ -218,7 +228,11 @@ For the purposes of this part:
 
 *Nonperforming exposure* means an exposure that is past due by more than 90 days or nonaccrual.
 
-*Operational deposit* means unsecured wholesale funding or a collateralized deposit that is necessary for the FDIC-supervised institution to provide operational services as an independent third-party intermediary, agent, or administrator to the wholesale customer or counterparty providing the unsecured wholesale funding or collateralized deposit. In order to recognize a deposit as an operational deposit for purposes of this part, an FDIC-supervised institution must comply with the requirements of § 329.4(b) with respect to that deposit.
+*NSFR liability* means any liability or equity reported on an FDIC-supervised institution's balance sheet that is not an NSFR regulatory capital element.
+
+*NSFR regulatory capital element* means any capital element included in an FDIC-supervised institution's common equity tier 1 capital, additional tier 1 capital, and tier 2 capital, in each case as defined in 12 CFR 324.20, prior to application of capital adjustments or deductions as set forth in 12 CFR 324.22, excluding any debt or equity instrument that does not meet the criteria for additional tier 1 or tier 2 capital instruments in 12 CFR 324.22 and is being phased out of tier 1 capital or tier 2 capital pursuant to subpart G of 12 CFR part 324.
+
+*Operational deposit* means short-term unsecured wholesale funding that is a deposit, unsecured wholesale lending that is a deposit, or a collateralized deposit, in each case that meets the requirements of § 329.4(b) with respect to that deposit and is necessary for the provision of operational services as an independent third-party intermediary, agent, or administrator to the wholesale customer or counterparty providing the deposit.
 
 *Operational services* means the following services, provided they are performed as part of cash management, clearing, or custody services:
 
@@ -260,6 +274,8 @@ For the purposes of this part:
 
 (ii) Provides a liquid, two-way market for the security in question.
 
+*QMNA netting set* means a group of derivative transactions with a single counterparty that is subject to a qualifying master netting agreement and is netted under the qualifying master netting agreement.
+
 *Qualifying master netting agreement* means a written, legally enforceable agreement provided that:
 
 (1) The agreement creates a single legal obligation for all individual transactions covered by the agreement upon an event of default following any stay permitted by paragraph (2) of this definition, including upon an event of receivership, conservatorship, insolvency, liquidation, or similar proceeding, of the counterparty;
@@ -279,12 +295,6 @@ For the purposes of this part:
 (3) The agreement does not contain a walkaway clause (that is, a provision that permits a non-defaulting counterparty to make a lower payment than it otherwise would make under the agreement, or no payment at all, to a defaulter or the estate of a defaulter, even if the defaulter or the estate of the defaulter is a net creditor under the agreement); and
 
 (4) In order to recognize an agreement as a qualifying master netting agreement for purposes of this subpart, an FDIC-supervised institution must comply with the requirements of § 329.4(a) with respect to that agreement.
-
-*Reciprocal brokered deposit* means a brokered deposit that an FDIC-supervised institution receives through a deposit placement network on a reciprocal basis, such that:
-
-(1) For any deposit received, the FDIC-supervised institution (as agent for the depositors) places the same amount with other depository institutions through the network; and
-
-(2) Each member of the network sets the interest rate to be paid on the entire amount of funds it places with other network members.
 
 *Regulated financial company* means:
 
@@ -358,9 +368,9 @@ For the purposes of this part:
 
 *SEC* means the Securities and Exchange Commission.
 
-*Secured funding transaction* means any funding transaction that is subject to a legally binding agreement as of the calculation date and gives rise to a cash obligation of the FDIC-supervised institution to a counterparty that is secured under applicable law by a lien on assets owned by the FDIC-supervised institution, which gives the counterparty, as holder of the lien, priority over the assets in the event the FDIC-supervised institution enters into receivership, bankruptcy, insolvency, liquidation, resolution, or similar proceeding. Secured funding transactions include repurchase transactions, loans of collateral to the FDIC-supervised institution's customers to effect short positions, other secured loans, and borrowings from a Federal Reserve Bank.
+*Secured funding transaction* means any funding transaction that is subject to a legally binding agreement that gives rise to a cash obligation of the FDIC-supervised institution to a wholesale customer or counterparty that is secured under applicable law by a lien on securities or loans provided by the FDIC-supervised institution, which gives the wholesale customer or counterparty, as holder of the lien, priority over the securities or loans in the event the FDIC-supervised institution enters into receivership, bankruptcy, insolvency, liquidation, resolution, or similar proceeding. Secured funding transactions include repurchase transactions, securities lending transactions, other secured loans, and borrowings from a Federal Reserve Bank. Secured funding transactions do not include securities.
 
-*Secured lending transaction* means any lending transaction that is subject to a legally binding agreement of the calculation date and gives rise to a cash obligation of a counterparty to the FDIC-supervised institution that is secured under applicable law by a lien on assets owned by the counterparty, which gives the FDIC-supervised institution, as holder of the lien, priority over the assets in the event the counterparty enters into receivership, bankruptcy, insolvency, liquidation, resolution, or similar proceeding, including reverse repurchase transactions and securities borrowing transactions.
+*Secured lending transaction* means any lending transaction that is subject to a legally binding agreement that gives rise to a cash obligation of a wholesale customer or counterparty to the FDIC-supervised institution that is secured under applicable law by a lien on securities or loans provided by the wholesale customer or counterparty, which gives the FDIC-supervised institution, as holder of the lien, priority over the securities or loans in the event the counterparty enters into receivership, bankruptcy, insolvency, liquidation, resolution, or similar proceeding. Secured lending transactions include reverse repurchase transactions and securities borrowing transactions. Secured lending transactions do not include securities.
 
 *Securities Exchange Act* means the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*).
 
@@ -380,16 +390,22 @@ For the purposes of this part:
 
 *Structured transaction* means a secured transaction in which repayment of obligations and other exposures to the transaction is largely derived, directly or indirectly, from the cash flow generated by the pool of assets that secures the obligations and other exposures to the transaction.
 
+*Sweep deposit* means a deposit held at the FDIC-supervised institution by a customer or counterparty through a contractual feature that automatically transfers to the FDIC-supervised institution from another regulated financial company at the close of each business day amounts identified under the agreement governing the account from which the amount is being transferred.
+
 *Two-way market* means a market where there are independent bona fide offers to buy and sell so that a price reasonably related to the last sales price or current bona fide competitive bid and offer quotations can be determined within one day and settled at that price within a relatively short time frame conforming to trade custom.
 
 *U.S. government-sponsored enterprise* means an entity established or chartered by the Federal government to serve public purposes specified by the United States Congress, but whose debt obligations are not explicitly guaranteed by the full faith and credit of the United States government.
 
 *U.S. intermediate holding company* means a top-tier company that is required to be established pursuant to 12 CFR 252.153.
 
-*Unsecured wholesale funding* means a liability or general obligation of the FDIC-supervised institution to a wholesale customer or counterparty that is not secured under applicable law by a lien on assets owned by the FDIC-supervised institution, including a wholesale deposit.
+*Unconditionally cancelable* means, with respect to a credit or liquidity facility, that an FDIC-supervised institution may, at any time, with or without cause, refuse to extend credit under the facility (to the extent permitted under applicable law).
+
+*Unsecured wholesale funding* means a liability or general obligation of the FDIC-supervised institution to a wholesale customer or counterparty that is not a secured funding transaction. Unsecured wholesale funding includes wholesale deposits. Unsecured wholesale funding does not include asset exchanges.
+
+*Unsecured wholesale lending* means a liability or general obligation of a wholesale customer or counterparty to the FDIC-supervised institution that is not a secured lending transaction or a security. Unsecured wholesale lending does not include asset exchanges.
 
 *Wholesale customer or counterparty* means a customer or counterparty that is not a retail customer or counterparty.
 
 *Wholesale deposit means* a demand or term deposit that is provided by a wholesale customer or counterparty.
 
-[79 FR 61523, Oct. 10, 2014, as amended at 81 FR 71354, Oct. 17, 2016; 82 FR 50261, Oct. 30, 2017; 82 FR 61443, Dec. 28, 2017; 83 FR 44455, Aug. 31, 2018; 84 FR 59279, Nov. 1, 2019; 85 FR 26841, May 6, 2020]
+[79 FR 61523, Oct. 10, 2014, as amended at 81 FR 71354, Oct. 17, 2016; 82 FR 50261, Oct. 30, 2017; 82 FR 61443, Dec. 28, 2017; 83 FR 44455, Aug. 31, 2018; 84 FR 59279, Nov. 1, 2019; 85 FR 26841, May 6, 2020; 86 FR 9219, Feb. 11, 2021]

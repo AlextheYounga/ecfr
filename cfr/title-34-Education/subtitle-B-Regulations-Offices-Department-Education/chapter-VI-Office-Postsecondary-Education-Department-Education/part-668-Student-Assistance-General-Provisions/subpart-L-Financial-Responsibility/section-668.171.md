@@ -1,7 +1,5 @@
 ##### § 668.171 General. #####
 
-Link to an amendment published at 85 FR 54818, Sept. 2, 2020.
-
 (a) *Purpose.* To begin and to continue to participate in any title IV, HEA program, an institution must demonstrate to the Secretary that it is financially responsible under the standards established in this subpart. As provided under section 498(c)(1) of the HEA, the Secretary determines whether an institution is financially responsible based on the institution's ability to -
 
 (1) Provide the services described in its official publications and statements;
@@ -150,8 +148,10 @@ Link to an amendment published at 85 FR 54818, Sept. 2, 2020.
 
 (i) *Administrative actions.* If the Secretary determines that an institution is not financially responsible under the standards and provisions of this section or under an alternative standard in § 668.175, or the institution does not submit its financial and compliance audits by the date and in the manner required under § 668.23, the Secretary may -
 
-(1) Initiate an action under subpart G of this part to fine the institution, or limit, suspend, or terminate the institution's participation in the title IV, HEA programs; or
+(1) Initiate an action under subpart G of this part to fine the institution, or limit, suspend, or terminate the institution's participation in the title IV, HEA programs;
 
-(2) For an institution that is provisionally certified, take an action against the institution under the procedures established in § 668.13(d).
+(2) For an institution that is provisionally certified, take an action against the institution under the procedures established in § 668.13(d); or
 
-[84 FR 49911, Sept. 23, 2019]
+(3) Deny the institution's application for certification or recertification to participate in the title IV, HEA programs.
+
+[84 FR 49911, Sept. 23, 2019, as amended at 85 FR 54818, Sept. 2, 2020]

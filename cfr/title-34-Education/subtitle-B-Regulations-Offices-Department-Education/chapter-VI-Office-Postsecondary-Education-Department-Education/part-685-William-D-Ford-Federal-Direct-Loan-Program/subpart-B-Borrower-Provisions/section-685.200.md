@@ -1,6 +1,6 @@
 ##### § 685.200 Borrower eligibility. #####
 
-Link to an amendment published at 85 FR 49821, Aug. 14, 2020.Link to an amendment published at 86 FR 31438, June 14, 2021.
+Link to an amendment published at 86 FR 31438, June 14, 2021.
 
 (a) *Student Direct Subsidized or Direct Unsubsidized borrower.* (1) A student is eligible to receive a Direct Subsidized Loan, a Direct Unsubsidized Loan, or a combination of these loans, if the student meets the following requirements:
 
@@ -38,15 +38,7 @@ Link to an amendment published at 85 FR 49821, Aug. 14, 2020.Link to an amendmen
 
 (B) In the case of a first-time borrower as defined in paragraph (f)(1)(i) of this section, not have met or exceeded the limitations on the receipt of Direct Subsidized Loans described in paragraph (f) of this section.
 
-(ii) The Secretary considers a member of a religious order, group, community, society, agency, or other organization who is pursuing a course of study at an institution of higher education to have no financial need as that term is used in paragraph (a)(2)(i)(A) of this section if that organization -
-
-(A) Has as its primary objective the promotion of ideals and beliefs regarding a Supreme Being;
-
-(B) Requires its members to forego monetary or other support substantially beyond the support it provides; and
-
-(C)(*1*) Directs the member to pursue the course of study; or
-
-(*2*) Provides subsistence support to its members.
+(ii) [Reserved]
 
 (b) *Student PLUS borrower.* (1) The student is enrolled, or accepted for enrollment, on at least a half-time basis in a school that participates in the Direct Loan Program.
 
@@ -194,4 +186,4 @@ Link to an amendment published at 85 FR 49821, Aug. 14, 2020.Link to an amendmen
 
 (B) Provides the academic qualifications necessary for a profession that requires licensure or a certification by the State.
 
-(Authority: 20 U.S.C. 1087a *et seq.*)[59 FR 61690, Dec. 1, 1994, as amended at 60 FR 61816, Dec. 1, 1995; 61 FR 29900, June 12, 1996; 65 FR 65629, 65693, Nov. 1, 2000; 66 FR 34765, June 29, 2001; 66 FR 44007, Aug. 21, 2001; 68 FR 75430, Dec. 31, 2003; 71 FR 45710, Aug. 9, 2006; 71 FR 64399, Nov. 1, 2006; 74 FR 56001, Oct. 29, 2009; 77 FR 66135, Nov. 1, 2012; 78 FR 28984, May 16, 2013; 79 FR 3120, Jan. 17, 2014; 78 FR 65824, Nov. 1, 2013; 79 FR 63331, Oct. 23, 2014; 81 FR 76080, Nov. 1, 2016]
+(Authority: 20 U.S.C. 1087a *et seq.*)[59 FR 61690, Dec. 1, 1994, as amended at 60 FR 61816, Dec. 1, 1995; 61 FR 29900, June 12, 1996; 65 FR 65629, 65693, Nov. 1, 2000; 66 FR 34765, June 29, 2001; 66 FR 44007, Aug. 21, 2001; 68 FR 75430, Dec. 31, 2003; 71 FR 45710, Aug. 9, 2006; 71 FR 64399, Nov. 1, 2006; 74 FR 56001, Oct. 29, 2009; 77 FR 66135, Nov. 1, 2012; 78 FR 28984, May 16, 2013; 79 FR 3120, Jan. 17, 2014; 78 FR 65824, Nov. 1, 2013; 79 FR 63331, Oct. 23, 2014; 81 FR 76080, Nov. 1, 2016; 85 FR 49821, Aug. 14, 2020]

@@ -1,10 +1,8 @@
 ##### § 668.1 Scope. #####
 
-Link to an amendment published at 85 FR 54813, Sept. 2, 2020.
-
 (a) This part establishes general rules that apply to an institution that participates in any student financial assistance program authorized by Title IV of the Higher Education Act of 1965, as amended (Title IV, HEA program). To the extent that an institution contracts with a third-party servicer to administer any aspect of the institution's participation in any Title IV, HEA program, the applicable rules in this part also apply to that servicer. An institution's use of a third-party servicer does not alter the institution's responsibility for compliance with the rules in this part.
 
-(b) As used in this part, an “institution” includes -
+(b) As used in this part, an “institution,” unless otherwise specified, includes—
 
 (1) An institution of higher education as defined in 34 CFR 600.4;
 
@@ -12,7 +10,7 @@ Link to an amendment published at 85 FR 54813, Sept. 2, 2020.
 
 (3) A postsecondary vocational institution as defined in 34 CFR 600.6.
 
-(c) The Title IV, HEA programs include -
+(c) The Title IV, HEA programs include—
 
 (1) The Federal Pell Grant Program (20 U.S.C. 1070a *et seq.;* 34 CFR part 690);
 
@@ -38,4 +36,4 @@ Link to an amendment published at 85 FR 54813, Sept. 2, 2020.
 
 (12) The Teacher Education Assistance for College and Higher Education (TEACH) Grant program.
 
-(Authority: 20 U.S.C. 1070 *et seq.*)[52 FR 45724, Dec. 1, 1987, as amended at 56 FR 36696, July 31, 1991; 59 FR 22418, Apr. 29, 1994; 61 FR 60396, Nov. 27, 1996; 63 FR 40623, July 29, 1998; 65 FR 38729, June 22, 2000; 71 FR 38002, July 3, 2006; 73 FR 35492, June 23, 2008]
+[52 FR 45724, Dec. 1, 1987, as amended at 56 FR 36696, July 31, 1991; 59 FR 22418, Apr. 29, 1994; 61 FR 60396, Nov. 27, 1996; 63 FR 40623, July 29, 1998; 65 FR 38729, June 22, 2000; 71 FR 38002, July 3, 2006; 73 FR 35492, June 23, 2008; 85 FR 54813, Sept. 2, 2020]

@@ -1,7 +1,5 @@
 ##### § 600.52 Definitions. #####
 
-Link to an amendment published at 85 FR 54812, Sept. 2, 2020.
-
 The following definitions apply to this subpart E:
 
 *Associate degree school of nursing:* A school that provides primarily or exclusively a two-year program of postsecondary education in professional nursing leading to a degree equivalent to an associate degree in the United States.
@@ -14,25 +12,29 @@ The following definitions apply to this subpart E:
 
 *Foreign graduate medical school:* A foreign institution (or, for a foreign institution that is a university, a component of that foreign institution) having as its sole mission providing an educational program that leads to a degree of medical doctor, doctor of osteopathic medicine, or the equivalent. A reference in these regulations to a foreign graduate medical school as “freestanding” pertains solely to those schools that qualify by themselves as foreign institutions and not to schools that are components of universities that qualify as foreign institutions.
 
-*Foreign institution:*
+*Foreign institution:* (1) For the purposes of students who receive title IV aid, an institution that—
 
-(1) For the purposes of students who receive title IV aid, an institution that -
+(i) Is not located in the United States;
 
-(i) Is not located in a State;
-
-(ii) Except as provided with respect to clinical training offered under § 600.55(h)(1), § 600.56(b), or § 600.57(a)(2) -
+(ii) Except as provided with respect to clinical training offered under § 600.55(h)(1), § 600.56(b), or § 600.57(a)(2)—
 
 (A) Has no U.S. location;
 
-(B) Has no written arrangements, within the meaning of § 668.5, with institutions or organizations located in the United States for students enrolling at the foreign institution to take courses from institutions located in the United States;
+(B) Has no written arrangements, within the meaning of 34 CFR 668.5, with institutions or organizations located in the United States for those institutions or organizations to provide a portion of an eligible program, as defined under 34 CFR 668.8, except for written arrangements for no more than 25 percent of the courses required by the program to be provided by eligible institutions located in the United States; and
 
-(C) Does not permit students to enroll in any course offered by the foreign institution in the United States, including research, work, internship, externship, or special studies within the United States, except that independent research done by an individual student in the United States for not more than one academic year is permitted, if it is conducted during the dissertation phase of a doctoral program under the guidance of faculty, and the research can only be performed in a facility in the United States;
+(C) Does not permit students to complete an eligible program by enrolling in courses offered in the United States, except that it may permit students to complete up to 25 percent of the program by—
+
+(*1*) Enrolling in the coursework, research, work, or special studies offered by an eligible institution in the United States; or
+
+(*2*) Participating in an internship or externship provided by an ineligible organization as described in 34 CFR 668.5(h)(2);
 
 (iii) Is legally authorized by the education ministry, council, or equivalent agency of the country in which the institution is located to provide an educational program beyond the secondary education level; and
 
-(iv) Awards degrees, certificates, or other recognized educational credentials in accordance with § 600.54(e) that are officially recognized by the country in which the institution is located; or
+(iv) Awards degrees, certificates, or other recognized educational credentials in accordance with § 600.54(e) that are officially recognized by the country in which the institution is located.
 
-(2) If the educational enterprise enrolls students both within a State and outside a State, and the number of students who would be eligible to receive title IV, HEA program funds attending locations outside a State is at least twice the number of students enrolled within a State, the locations outside a State must apply to participate as one or more foreign institutions and must meet all requirements of paragraph (1) of this definition, and the other requirements of this part. For the purposes of this paragraph, an educational enterprise consists of two or more locations offering all or part of an educational program that are directly or indirectly under common ownership.
+(2) Notwithstanding paragraph (1)(ii)(C) of this definition, independent research done by an individual student in the United States for not more than one academic year is permitted, if it is conducted during the dissertation phase of a doctoral program under the guidance of faculty, and the research is performed only in a facility in the United States.
+
+(3) If the educational enterprise enrolls students both within the United States and outside the United States, and the number of students who would be eligible to receive title IV, HEA program funds attending locations outside the United States is at least twice the number of students enrolled within the United States, the locations outside the United States must apply to participate as one or more foreign institutions and must meet all requirements of paragraph (1) of this definition, and the other requirements of this part. For the purposes of this paragraph (3), an educational enterprise consists of two or more locations offering all or part of an educational program that are directly or indirectly under common ownership.
 
 *Foreign nursing school:* A foreign institution (or, for a foreign institution that is a university, a component of that foreign institution) that is an associate degree school of nursing, a collegiate school of nursing, or a diploma school of nursing. A reference in these regulations to a foreign nursing school as “freestanding” pertains solely to those schools that qualify by themselves as foreign institutions and not to schools that are components of universities that qualify as foreign institutions.
 
@@ -46,4 +48,4 @@ The following definitions apply to this subpart E:
 
 *Secondary school:* A school that provides secondary education as determined under the laws of the country in which the school is located.
 
-(Authority: 20 U.S.C. 1082, 1088)[59 FR 22063, Apr. 28, 1994, as amended at 75 FR 67193, Nov. 1, 2010]
+[59 FR 22063, Apr. 28, 1994, as amended at 75 FR 67193, Nov. 1, 2010; 85 FR 54812, Sept. 2, 2020]

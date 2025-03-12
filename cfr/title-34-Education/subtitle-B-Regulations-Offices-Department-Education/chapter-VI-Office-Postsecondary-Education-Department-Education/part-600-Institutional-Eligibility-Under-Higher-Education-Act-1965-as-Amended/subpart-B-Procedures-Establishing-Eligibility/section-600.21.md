@@ -1,7 +1,5 @@
 ##### § 600.21 Updating application information. #####
 
-Link to an amendment published at 85 FR 54812, Sept. 2, 2020.
-
 (a) *Reporting requirements.* Except as provided in paragraph (b) of this section, an eligible institution must report to the Secretary in a manner prescribed by the Secretary no later than 10 days after the change occurs, of any change in the following:
 
 (1) Its name, the name of a branch, or the name of a previously reported location.
@@ -34,15 +32,17 @@ Link to an amendment published at 85 FR 54812, Sept. 2, 2020.
 
 (i) Establishing the eligibility or reestablishing the eligibility of the program;
 
-(ii) Discontinuing the program's eligibility under 34 CFR 668.410;
+(ii) Discontinuing the program's eligibility;
 
 (iii) Ceasing to provide the program for at least 12 consecutive months;
 
-(iv) Losing program eligibility under § 600.40;
+(iv) Losing program eligibility under § 600.40; or
 
-(v) Changing the program's name, CIP code, as defined in 34 CFR 668.402, or credential level; or
+(v) Changing the program's name, CIP code or
 
-(vi) Updating the certification pursuant to § 668.414(b).
+(12) Its addition of a second or subsequent direct assessment program.
+
+(13) Its establishment of a written arrangement for an ineligible institution or organization to provide more than 25 percent of a program pursuant to 34 CFR 668.5(c).
 
 (b) *Additional reporting from institutions owned by publicly-traded corporations.* An institution that is owned by a publicly-traded corporation must report to the Secretary any change in the information described in paragraph (a)(6) of this section when it notifies its accrediting agency, but no later than 10 days after the institution learns of the change.
 
@@ -62,4 +62,4 @@ Link to an amendment published at 85 FR 54812, Sept. 2, 2020.
 
 (4) Sibling's spouse.
 
-(Approved by the Office of Management and Budget under control number 1845-0012)(Authority: 20 U.S.C. 1094, 1099b)[65 FR 65673, Nov. 1, 2000, as amended at 67 FR 67070, Nov. 1, 2002; 71 FR 45692, Aug. 9, 2006; 75 FR 67193, Nov. 1, 2010; 79 FR 65006, Oct. 31, 2014; 84 FR 31452, July 1, 2019]
+(Approved by the Office of Management and Budget under control number 1845-0012)[65 FR 65673, Nov. 1, 2000, as amended at 67 FR 67070, Nov. 1, 2002; 71 FR 45692, Aug. 9, 2006; 75 FR 67193, Nov. 1, 2010; 79 FR 65006, Oct. 31, 2014; 84 FR 31452, July 1, 2019; 85 FR 54812, Sept. 2, 2020]

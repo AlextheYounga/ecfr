@@ -1,10 +1,8 @@
 ##### § 329.32 Outflow amounts. #####
 
-Link to an amendment published at 86 FR 9220, Feb. 11, 2021.
-
 (a) *Retail funding outflow amount.* A FDIC-supervised institution's retail funding outflow amount as of the calculation date includes (regardless of maturity or collateralization):
 
-(1) 3 percent of all stable retail deposits held at the FDIC-supervised institution ;
+(1) 3 percent of all stable retail deposits held at the FDIC-supervised institution;
 
 (2) 10 percent of all other retail deposits held at the FDIC-supervised institution;
 
@@ -38,21 +36,21 @@ Link to an amendment published at 86 FR 9220, Feb. 11, 2021.
 
 (i) Zero percent of the undrawn amount of all committed credit and liquidity facilities extended by an FDIC-supervised institution that is a depository institution to an affiliated depository institution that is subject to a minimum liquidity standard under this part;
 
-(ii) 5 percent of the undrawn amount of all committed credit and liquidity facilities extended by the an FDIC-supervised institution to retail customers or counterparties;
+(ii) 5 percent of the undrawn amount of all committed credit and liquidity facilities extended by the FDIC-supervised institution to retail customers or counterparties;
 
-(iii) 10 percent of the undrawn amount of all committed credit facilities extended by the an FDIC-supervised institution to a wholesale customer or counterparty that is not a financial sector entity or a consolidated subsidiary thereof, including a special purpose entity (other than those described in paragraph (e)(1)(viii) of this section) that is a consolidated subsidiary of such wholesale customer or counterparty;
+(iii) 10 percent of the undrawn amount of all committed credit facilities extended by the FDIC-supervised institution to a wholesale customer or counterparty that is not a financial sector entity or a consolidated subsidiary thereof, including a special purpose entity (other than those described in paragraph (e)(1)(viii) of this section) that is a consolidated subsidiary of such wholesale customer or counterparty;
 
-(iv) 30 percent of the undrawn amount of all committed liquidity facilities extended by the an FDIC-supervised institution to a wholesale customer or counterparty that is not a financial sector entity or a consolidated subsidiary thereof, including a special purpose entity (other than those described in paragraph (e)(1)(viii) of this section) that is a consolidated subsidiary of such wholesale customer or counterparty;
+(iv) 30 percent of the undrawn amount of all committed liquidity facilities extended by the FDIC-supervised institution to a wholesale customer or counterparty that is not a financial sector entity or a consolidated subsidiary thereof, including a special purpose entity (other than those described in paragraph (e)(1)(viii) of this section) that is a consolidated subsidiary of such wholesale customer or counterparty;
 
-(v) 50 percent of the undrawn amount of all committed credit and liquidity facilities extended by the an FDIC-supervised institution to depository institutions, depository institution holding companies, and foreign banks, but excluding commitments described in paragraph (e)(1)(i) of this section;
+(v) 50 percent of the undrawn amount of all committed credit and liquidity facilities extended by the FDIC-supervised institution to depository institutions, depository institution holding companies, and foreign banks, but excluding commitments described in paragraph (e)(1)(i) of this section;
 
-(vi) 40 percent of the undrawn amount of all committed credit facilities extended by the an FDIC-supervised institution to a financial sector entity or a consolidated subsidiary thereof, including a special purpose entity (other than those described in paragraph (e)(1)(viii) of this section) that is a consolidated subsidiary of a financial sector entity, but excluding other commitments described in paragraph (e)(1)(i) or (v) of this section;
+(vi) 40 percent of the undrawn amount of all committed credit facilities extended by the FDIC-supervised institution to a financial sector entity or a consolidated subsidiary thereof, including a special purpose entity (other than those described in paragraph (e)(1)(viii) of this section) that is a consolidated subsidiary of a financial sector entity, but excluding other commitments described in paragraph (e)(1)(i) or (v) of this section;
 
-(vii) 100 percent of the undrawn amount of all committed liquidity facilities extended by the an FDIC-supervised institution to a financial sector entity or a consolidated subsidiary thereof, including a special purpose entity (other than those described in paragraph (e)(1)(viii) of this section) that is a consolidated subsidiary of a financial sector entity, but excluding other commitments described in paragraph (e)(1)(i) or (v) of this section and liquidity facilities included in paragraph (b)(2) of this section;
+(vii) 100 percent of the undrawn amount of all committed liquidity facilities extended by the FDIC-supervised institution to a financial sector entity or a consolidated subsidiary thereof, including a special purpose entity (other than those described in paragraph (e)(1)(viii) of this section) that is a consolidated subsidiary of a financial sector entity, but excluding other commitments described in paragraph (e)(1)(i) or (v) of this section and liquidity facilities included in paragraph (b)(2) of this section;
 
 (viii) 100 percent of the undrawn amount of all committed credit and liquidity facilities extended to a special purpose entity that issues or has issued commercial paper or securities (other than equity securities issued to a company of which the special purpose entity is a consolidated subsidiary) to finance its purchases or operations, and excluding liquidity facilities included in paragraph (b)(2) of this section; and
 
-(ix) 100 percent of the undrawn amount of all other committed credit or liquidity facilities extended by the an FDIC-supervised institution.
+(ix) 100 percent of the undrawn amount of all other committed credit or liquidity facilities extended by the FDIC-supervised institution.
 
 (2) For the purposes of this paragraph (e), the undrawn amount of a committed credit facility or committed liquidity facility is the entire unused amount of the facility that could be drawn upon within 30 calendar days of the calculation date under the governing agreement, less the amount of level 1 liquid assets and the amount of level 2A liquid assets securing the facility.
 
@@ -108,23 +106,23 @@ Link to an amendment published at 86 FR 9220, Feb. 11, 2021.
 
 (4) 40 percent of all brokered deposits at the FDIC-supervised institution provided by a retail customer or counterparty that are not described in paragraphs (g)(5) through (9) of this section and which are held in a transactional account with no contractual maturity date, where less than the entire amount is covered by deposit insurance;
 
-(5) 10 percent of all reciprocal brokered deposits at the FDIC-supervised institution provided by a retail customer or counterparty, where the entire amount is covered by deposit insurance;
+(5) 10 percent of all brokered reciprocal deposits at the FDIC-supervised institution provided by a retail customer or counterparty, where the entire amount is covered by deposit insurance;
 
-(6) 25 percent of all reciprocal brokered deposits at the FDIC-supervised institution provided by a retail customer or counterparty, where less than the entire amount is covered by deposit insurance;
+(6) 25 percent of all brokered reciprocal deposits at the FDIC-supervised institution provided by a retail customer or counterparty, where less than the entire amount is covered by deposit insurance;
 
-(7) 10 percent of all brokered sweep deposits at the FDIC-supervised institution provided by a retail customer or counterparty:
+(7) 10 percent of all sweep deposits at the FDIC-supervised institution provided by a retail customer or counterparty:
 
 (i) That are deposited in accordance with a contract between the retail customer or counterparty and the FDIC-supervised institution, a controlled subsidiary of the FDIC-supervised institution, or a company that is a controlled subsidiary of the same top-tier company of which the FDIC-supervised institution is a controlled subsidiary; and
 
 (ii) Where the entire amount of the deposits is covered by deposit insurance;
 
-(8) 25 percent of all brokered sweep deposits at the FDIC-supervised institution provided by a retail customer or counterparty:
+(8) 25 percent of all sweep deposits at the FDIC-supervised institution provided by a retail customer or counterparty:
 
 (i) That are not deposited in accordance with a contract between the retail customer or counterparty and the FDIC-supervised institution, a controlled subsidiary of the FDIC-supervised institution, or a company that is a controlled subsidiary of the same top-tier company of which the FDIC-supervised institution is a controlled subsidiary; and
 
 (ii) Where the entire amount of the deposits is covered by deposit insurance; and
 
-(9) 40 percent of all brokered sweep deposits at the FDIC-supervised institution provided by a retail customer or counterparty where less than the entire amount of the deposit balance is covered by deposit insurance.
+(9) 40 percent of all sweep deposits at the FDIC-supervised institution provided by a retail customer or counterparty where less than the entire amount of the deposit balance is covered by deposit insurance.
 
 (h) *Unsecured wholesale funding outflow amount.* A FDIC-supervised institution's unsecured wholesale funding outflow amount, for all transactions that mature within 30 calendar days or less of the calculation date, as of the calculation date includes:
 
@@ -140,9 +138,9 @@ Link to an amendment published at 86 FR 9220, Feb. 11, 2021.
 
 (2) 100 percent of all unsecured wholesale funding that is not an operational deposit and is not included in paragraph (h)(1) of this section, including:
 
-(i) Funding provided by a company that is a consolidated subsidiary of the same top-tier company of which the FDIC-supervised institutions is a consolidated subsidiary; and
+(i) Funding provided by a company that is a consolidated subsidiary of the same top-tier company of which the FDIC-supervised institution is a consolidated subsidiary; and
 
-(ii) Debt instruments issued by the FDIC-supervised institutions, including such instruments owned by retail customers or counterparties;
+(ii) Debt instruments issued by the FDIC-supervised institution, including such instruments owned by retail customers or counterparties;
 
 (3) 5 percent of all operational deposits, other than operational deposits that are held in escrow accounts, where the entire deposit amount is covered by deposit insurance;
 
@@ -198,9 +196,9 @@ Link to an amendment published at 86 FR 9220, Feb. 11, 2021.
 
 (x) Zero percent of the fair value of the level 1 liquid assets the FDIC-supervised institution will receive from a counterparty pursuant to an asset exchange where the FDIC-supervised institution has rehypothecated the assets posted by the asset exchange counterparty, and, as of the calculation date, the assets will not be returned to the FDIC-supervised institution within 30 calendar days;
 
-(xi) 15 percent of the fair value of the level 2A liquid assets the FDIC-supervised institution will receive from a counterparty pursuant to an asset exchange where the [BANK] has rehypothecated the assets posted by the asset exchange counterparty, and, as of the calculation date, the assets will not be returned to the FDIC-supervised institution within 30 calendar days;
+(xi) 15 percent of the fair value of the level 2A liquid assets the FDIC-supervised institution will receive from a counterparty pursuant to an asset exchange where the FDIC-supervised institution has rehypothecated the assets posted by the asset exchange counterparty, and, as of the calculation date, the assets will not be returned to the FDIC-supervised institution within 30 calendar days;
 
-(xii) 50 percent of the fair value of the level 2B liquid assets the [BANK] will receive from a counterparty pursuant to an asset exchange where the FDIC-supervised institution has rehypothecated the assets posted by the asset exchange counterparty, and, as of the calculation date, the assets will not be returned to the FDIC-supervised institution within 30 calendar days; and
+(xii) 50 percent of the fair value of the level 2B liquid assets the FDIC-supervised institution will receive from a counterparty pursuant to an asset exchange where the FDIC-supervised institution has rehypothecated the assets posted by the asset exchange counterparty, and, as of the calculation date, the assets will not be returned to the FDIC-supervised institution within 30 calendar days; and
 
 (xiii) 100 percent of the fair value of the non-HQLA the FDIC-supervised institution will receive from a counterparty pursuant to an asset exchange where the FDIC-supervised institution has rehypothecated the assets posted by the asset exchange counterparty, and, as of the calculation date, the assets will not be returned to the FDIC-supervised institution within 30 calendar days.
 
@@ -213,3 +211,5 @@ Link to an amendment published at 86 FR 9220, Feb. 11, 2021.
 (1) The FDIC-supervised institution and a consolidated subsidiary of the FDIC-supervised institution; or
 
 (2) A consolidated subsidiary of the FDIC-supervised institution and another consolidated subsidiary of the FDIC-supervised institution.
+
+[79 FR 61523, Oct. 10, 2014, as amended at 86 FR 9220, Feb. 11, 2021]

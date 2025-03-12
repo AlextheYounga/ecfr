@@ -1,10 +1,8 @@
 ##### § 602.3 What definitions apply to this part? #####
 
-Link to an amendment published at 85 FR 54812, Sept. 2, 2020.
-
 (a) The following definitions are contained in the regulations for Institutional Eligibility under the Higher Education Act of 1965, as amended, 34 CFR part 600:
 
-(1) Accredited(2) Additional location(3) Branch campus(4) Correspondence course(5) Direct assessment program(6) Institution of higher education(7) Nationally recognized accrediting agency(8) Preaccreditation(9) Religious mission(10) Secretary(11) State(12) Teach-out(13) Teach-out agreement(14) Teach-out plan
+(1) Accredited.(2) Additional location.(3) Branch campus.(4) Correspondence course.(5) Direct assessment program.(6) Distance education.(7) Institution of higher education.(8) Nationally recognized accrediting agency.(9) Preaccreditation.(10) Religious mission.(11) Secretary.(12) State.(13) Teach-out.(14) Teach-out agreement.(15) Teach-out plan.
 
 (b) The following definitions apply to this part:
 
@@ -22,21 +20,11 @@ Link to an amendment published at 85 FR 54812, Sept. 2, 2020.
 
 *Designated Federal Official* means the Federal officer designated under section 10(f) of the Federal Advisory Committee Act, 5 U.S.C. Appdx. 1.
 
-*Distance education* means education that uses one or more of the technologies listed in paragraphs (1) through (4) of this definition to deliver instruction to students who are separated from the instructor and to support regular and substantive interaction between the students and the instructor, either synchronously or asynchronously. The technologies may include -
-
-(1) The internet;
-
-(2) One-way and two-way transmissions through open broadcast, closed circuit, cable, microwave, broadband lines, fiber optics, satellite, or wireless communications devices;
-
-(3) Audio conferencing; or
-
-(4) Video cassettes, DVDs, and CD-ROMs, if the cassettes, DVDs, or CD-ROMs are used in a course in conjunction with any of the technologies listed in paragraphs (1) through (3) of this definition.
-
 *Final accrediting action* means a final determination by an accrediting agency regarding the accreditation or preaccreditation status of an institution or program. A final accrediting action is a decision made by the agency, at the conclusion of any appeals process available to the institution or program under the agency's due process policies and procedures.
 
 *Institutional accrediting agency* means an agency that accredits institutions of higher education.
 
-*Monitoring report* means a report that an agency is required to submit to Department staff when it is found to be substantially compliant. The report contains documentation to demonstrate that -
+*Monitoring report* means a report that an agency is required to submit to Department staff when it is found to be substantially compliant. The report contains documentation to demonstrate that—
 
 (i) The agency is implementing its current or corrected policies; or
 
@@ -48,7 +36,7 @@ Link to an amendment published at 85 FR 54812, Sept. 2, 2020.
 
 *Recognition* means an unappealed determination by the senior Department official under § 602.36, or a determination by the Secretary on appeal under § 602.37, that an accrediting agency complies with the criteria for recognition listed in subpart B of this part and that the agency is effective in its application of those criteria. A grant of recognition to an agency as a reliable authority regarding the quality of education or training offered by institutions or programs it accredits remains in effect for the term granted except upon a determination made in accordance with subpart C of this part that the agency no longer complies with the subpart B criteria or that it has become ineffective in its application of those criteria.
 
-*Representative of the public* means a person who is not -
+*Representative of the public* means a person who is not—
 
 (1) An employee, member of the governing board, owner, or shareholder of, or consultant to, an institution or program that either is accredited or preaccredited by the agency or has applied for accreditation or preaccreditation;
 
@@ -56,7 +44,7 @@ Link to an amendment published at 85 FR 54812, Sept. 2, 2020.
 
 (3) A spouse, parent, child, or sibling of an individual identified in paragraph (1) or (2) of this definition.
 
-*Scope of recognition* or *scope* means the range of accrediting activities for which the Secretary recognizes an agency. The Secretary may place a limitation on the scope of an agency's recognition for title IV, HEA purposes. The Secretary's designation of scope defines the recognition granted according to -
+*Scope of recognition* or *scope* means the range of accrediting activities for which the Secretary recognizes an agency. The Secretary may place a limitation on the scope of an agency's recognition for title IV, HEA purposes. The Secretary's designation of scope defines the recognition granted according to—
 
 (i) Types of degrees and certificates covered;
 
@@ -70,4 +58,4 @@ Link to an amendment published at 85 FR 54812, Sept. 2, 2020.
 
 *Substantial compliance* means the agency demonstrated to the Department that it has the necessary policies, practices, and standards in place and generally adheres with fidelity to those policies, practices, and standards; or the agency has policies, practices, and standards in place that need minor modifications to reflect its generally compliant practice.
 
-(Authority: 20 U.S.C. 1099b)[64 FR 56617, Oct. 20, 1999, as amended at 74 FR 55426, Oct. 27, 2009; 84 FR 58917, Nov. 1, 2019]
+[64 FR 56617, Oct. 20, 1999, as amended at 74 FR 55426, Oct. 27, 2009; 84 FR 58917, Nov. 1, 2019; 85 FR 54812, Sept. 2, 2020]

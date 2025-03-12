@@ -1,7 +1,5 @@
 ##### § 600.7 Conditions of institutional ineligibility. #####
 
-Link to an amendment published at 85 FR 54810, Sept. 2, 2020.
-
 (a) *General rule.* For purposes of title IV of the HEA, an educational institution that otherwise satisfies the requirements contained in §§ 600.4, 600.5, or 600.6 nevertheless does not qualify as an eligible institution under this part if -
 
 (1) For its latest complete award year -
@@ -34,7 +32,9 @@ Link to an amendment published at 85 FR 54810, Sept. 2, 2020.
 
 (iii) A course that is offered both on campus and by correspondence must be considered two courses for the purpose of determining the total number of courses the institution provided during an award year.
 
-(2) *Exceptions.* (i) The provisions contained in paragraphs (a)(1) (i) and (ii) of this section do not apply to an institution that qualifies as a “technical institute or vocational school used exclusively or principally for the provision of vocational education to individuals who have completed or left high school and who are available for study in preparation for entering the labor market” under section 3(3)(C) of the Carl D. Perkins Vocational and Applied Technology Education Act of 1995.
+(2) *Calculating the number of correspondence students.* For purposes of paragraph (a)(1)(ii) of this section, a student is considered “enrolled in correspondence courses” if the student's enrollment in correspondence courses constituted more than 50 percent of the courses in which the student enrolled during an award year.
+
+(3) *Exceptions.* (i) The provisions contained in paragraphs (a)(1) (i) and (ii) of this section do not apply to an institution that qualifies as a “technical institute or vocational school used exclusively or principally for the provision of vocational education to individuals who have completed or left high school and who are available for study in preparation for entering the labor market” under section 3(3)(C) of the Carl D. Perkins Vocational and Applied Technology Education Act of 1995.
 
 (ii) The Secretary waives the limitation contained in paragraph (a)(1)(ii) of this section for an institution that offers a 2-year associate-degree or a 4-year bachelor's-degree program if the students enrolled in the institution's correspondence courses receive no more than 5 percent of the title IV, HEA program funds received by students at that institution.
 
@@ -108,4 +108,4 @@ Link to an amendment published at 85 FR 54810, Sept. 2, 2020.
 
 (2) If an institution loses its eligibility because of one of the prohibitions contained in paragraphs (a)(2) and (a)(3) of this section, this loss is permanent. The institution's eligibility cannot be reinstated.
 
-(Approved by the Office of Management and Budget under control number 1840-0098)(Authority: 20 U.S.C. 1088)[59 FR 22336, Apr. 29, 1994; 59 FR 32082, June 22, 1994, as amended at 59 FR 47801, Sept. 19, 1994; 60 FR 34430, June 30, 1995; 64 FR 58616, Oct. 29, 1999; 71 FR 45692, Aug. 9, 2006]
+(Approved by the Office of Management and Budget under control number 1840-0098)[59 FR 22336, Apr. 29, 1994; 59 FR 32082, June 22, 1994, as amended at 59 FR 47801, Sept. 19, 1994; 60 FR 34430, June 30, 1995; 64 FR 58616, Oct. 29, 1999; 71 FR 45692, Aug. 9, 2006; 85 FR 54810, Sept. 2, 2020]

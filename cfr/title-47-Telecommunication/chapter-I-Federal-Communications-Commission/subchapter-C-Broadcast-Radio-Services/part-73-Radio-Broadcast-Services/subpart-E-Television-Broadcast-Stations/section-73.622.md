@@ -2051,7 +2051,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |      VIRGINIA      |                                                   |
 |     Arlington      |                        15                         |
 |      Ashland       |                        47                         |
-|      Bristol       |                         5                         |
+|      Bristol       |                        35                         |
 |  Charlottesville   |                   19, 32, \*46                    |
 |      Danville      |                        24                         |
 |      Fairfax       |                       \*24                        |

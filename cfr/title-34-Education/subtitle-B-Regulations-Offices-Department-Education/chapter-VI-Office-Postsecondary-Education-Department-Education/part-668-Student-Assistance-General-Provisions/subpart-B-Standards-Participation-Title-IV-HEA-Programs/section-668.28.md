@@ -1,7 +1,5 @@
 ##### § 668.28 Non-title IV revenue (90/10). #####
 
-Link to an amendment published at 85 FR 54818, Sept. 2, 2020.
-
 (a) *General* - (1) *Calculating the revenue percentage.* A proprietary institution meets the requirement in § 668.14(b)(16) that at least 10 percent of its revenue is derived from sources other than Title IV, HEA program funds by using the formula in appendix C of this subpart to calculate its revenue percentage for its latest complete fiscal year.
 
 (2) *Cash basis accounting.* Except for institutional loans made to students under paragraph (a)(5)(i) of this section, the institution must use the cash basis of accounting in calculating its revenue percentage.
@@ -72,25 +70,7 @@ Link to an amendment published at 85 FR 54818, Sept. 2, 2020.
 
 (v) The amount the student is charged for books, supplies, and equipment unless the institution includes that amount as tuition, fees, or other institutional charges.
 
-(b) *Net present value (NPV).* (1) As illustrated in appendix C of this subpart, an institution calculates the NPV of the loans it made under paragraph (a)(5)(i) of this section by -
-
-(i) Using the formula, NPV = sum of the discounted cash flows *R*t/(1 + *i*)t, where -
-
-(A) The variable “*i*” is the discount rate. For purposes of this section, an institution must use the most recent annual inflation rate as the discount rate;
-
-(B) The variable “*t*” is time or period of the cash flow, in years, from the time the loan entered repayment; and
-
-(C) The variable “*R*t” is the net cash flow at time or period *t*; and
-
-(ii) Applying the NPV formula to the loans made during the fiscal year by -
-
-(A) If the loans have substantially the same repayment period, using that repayment period for the range of values of variable “*t*”; or
-
-(B) Grouping the loans by repayment period and using the repayment period for each group for the range of values of variable “t”; and
-
-(C) For each group of loans, as applicable, multiplying the total annual payments due on the loans by the institution's loan collection rate (*e.g.*, the total amount of payments collected divided by the total amount of payments due). The resulting amount is used for variable “R” in each period “t”, for each group of loans that a NPV is calculated.
-
-(2) Instead of performing the calculations in paragraph (b)(1) of this section, using 50 percent of the total amount of loans that the institution made during the fiscal year as the NPV. However, if the institution chooses to use this 50 percent calculation, the institution may not sell any of these loans until they have been in repayment for at least two years.
+(b) [Reserved]
 
 (c) *Sanctions.* If an institution does not derive at least 10 percent of its revenue from sources other than Title IV, HEA program funds -
 
@@ -104,4 +84,4 @@ Link to an amendment published at 85 FR 54818, Sept. 2, 2020.
 
 (3) It must notify the Secretary no later than 45 days after the end of its fiscal year that it failed to meet this requirement.
 
-(Approved by Office of Management and Budget under control number 1845-NEW2)(Authority: 20 U.S.C. 1085, 1088, 1091, 1092, 1094, 1099a-3, 1099c, 1141)[74 FR 55937, Oct. 29, 2009]
+(Approved by Office of Management and Budget under control number 1845-NEW2)[74 FR 55937, Oct. 29, 2009, as amended at 85 FR 54818, Sept. 2, 2020]

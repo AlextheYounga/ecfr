@@ -1,16 +1,70 @@
 ##### § 668.2 General definitions. #####
 
-Link to an amendment published at 85 FR 54813, Sept. 2, 2020.
-
 (a) The following definitions are contained in the regulations for Institutional Eligibility under the Higher Education Act of 1965, as amended, 34 CFR part 600:
 
-AccreditedAward yearBranch campusClock hourCorrespondence courseCredit hourDistance educationEducational programEligible institutionFederal Family Education Loan (FFEL) programsForeign institutionIncarcerated studentInstitution of higher educationLegally authorizedNationally recognized accrediting agencyNonprofit institutionOne-year training programPostsecondary vocational institutionPreaccreditedProprietary institution of higher educationRecognized equivalent of a high school diplomaRecognized occupationRegular studentSecretaryStateTelecommunications course
+(1) Accredited.
+
+(2) Award year.
+
+(3) Branch campus.
+
+(4) Clock hour.
+
+(5)Correspondence course.
+
+(6) Credit hour.
+
+(7) Direct assessment program.
+
+(8) Distance education.
+
+(9) Educational program.
+
+(10) Eligible institution.
+
+(11) Federal Family Education Loan (FFEL) programs.
+
+(12) Foreign institution.
+
+(13) Incarcerated student.
+
+(14) Institution of higher education.
+
+(15)Legally authorized.
+
+(16) Nationally recognized accrediting agency.
+
+(17) Nonprofit institution.
+
+(18) One-year training program.
+
+(19) Postsecondary vocational institution.
+
+(20) Preaccredited.
+
+(21) Proprietary institution of higher education.
+
+(22) Recognized equivalent of a high school diploma.
+
+(23) Recognized occupation.
+
+(24) Regular student.
+
+(25) Religious mission.
+
+(26) Secretary.
+
+(27) State.
+
+(28) Teach-out.
+
+(29) Teach-out agreement.
+
+(30) Teach-out plan.
+
+(31) Title IV, HEA program.
 
 (b) The following definitions apply to all Title IV, HEA programs:
-
-*Academic Competitiveness Grant (ACG) Program:* A grant program authorized by Title IV-A-1 of the HEA under which grants are awarded during the first and second academic years of study to eligible financially needy undergraduate students who successfully complete rigorous secondary school programs of study.
-
-(Authority: 20 U.S.C. 1070a-1)
 
 *Campus-based programs:* (1) The Federal Perkins Loan Program (34 CFR parts 673 and 674);
 
@@ -42,7 +96,7 @@ AccreditedAward yearBranch campusClock hourCorrespondence courseCredit hourDista
 
 (Authority: 20 U.S.C. 1087a *et seq.*)
 
-*Enrolled:* The status of a student who -
+*Enrolled:* The status of a student who—
 
 (1) Has completed the registration requirements (except for the payment of tuition and fees) at the institution that he or she is attending; or
 
@@ -118,13 +172,13 @@ AccreditedAward yearBranch campusClock hourCorrespondence courseCredit hourDista
 
 *Free application for Federal student aid (FAFSA):* The student aid application provided for under section 483 of the HEA, which is used to determine an applicant's eligibility for the title IV, HEA programs.
 
-*Full-time student:* An enrolled student who is carrying a full-time academic workload, as determined by the institution, under a standard applicable to all students enrolled in a particular educational program. The student's workload may include any combination of courses, work, research, or special studies that the institution considers sufficient to classify the student as a full-time student. For a term-based program, the student's workload may include repeating any coursework previously taken in the program but may not include more than one repetition of a previously passed course. However, for an undergraduate student, an institution's minimum standard must equal or exceed one of the following minimum requirements:
+*Full-time student:* An enrolled student who is carrying a full-time academic workload, as determined by the institution, under a standard applicable to all students enrolled in a particular educational program. The student's workload may include any combination of courses, work, research, or special studies that the institution considers sufficient to classify the student as a full-time student. For a term-based program that is not subscription-based, the student's workload may include repeating any coursework previously taken in the program; however, the workload may not include more than one repetition of a previously passed course. For an undergraduate student, an institution's minimum standard must equal or exceed one of the following minimum requirements, based on the type of program:
 
 (1) For a program that measures progress in credit hours and uses standard terms (semesters, trimesters, or quarters), 12 semester hours or 12 quarter hours per academic term.
 
 (2) For a program that measures progress in credit hours and does not use terms, 24 semester hours or 36 quarter hours over the weeks of instructional time in the academic year, or the prorated equivalent if the program is less than one academic year.
 
-(3) For a program that measures progress in credit hours and uses nonstandard terms (terms other than semesters, trimesters, or quarters) the number of credits determined by -
+(3) For a program that measures progress in credit hours and uses nonstandard-terms (terms other than semesters, trimesters, or quarters) the number of credits determined by—
 
 (i) Dividing the number of weeks of instructional time in the term by the number of weeks of instructional time in the program's academic year; and
 
@@ -136,15 +190,15 @@ AccreditedAward yearBranch campusClock hourCorrespondence courseCredit hourDista
 
 (6) The work portion of a cooperative education program in which the amount of work performed is equivalent to the academic workload of a full-time student.
 
-(7) For correspondence coursework, a full-time course load must be -
+(7) For correspondence coursework—
 
-(i) Commensurate with the full-time definitions listed in paragraphs (1) through (6) of this definition; and
+(i) A full-time course load must be commensurate with the requirements listed in paragraphs (1) through (6) of this definition; and
 
 (ii) At least one-half of the coursework must be made up of non-correspondence coursework that meets one-half of the institution's requirement for full-time students.
 
-(Authority: 20 U.S.C. 1082 and 1088)
+(8) For a subscription-based program, completion of a full-time course load commensurate with the requirements in paragraphs (1), (3), and (5) through (7) of this definition.
 
-*Graduate or professional student:* A student who -
+*Graduate or professional student:* A student who—
 
 (1) Is not receiving title IV aid as an undergraduate student for the same period of enrollment;
 
@@ -166,7 +220,7 @@ AccreditedAward yearBranch campusClock hourCorrespondence courseCredit hourDista
 
 *Initiating official:* The designated department official authorized to begin an emergency action under 34 CFR 668.83.
 
-*Institutional student information record (ISIR):* An electronic record that the Secretary transmits to an institution that includes an applicant's -
+*Institutional student information record (ISIR):* An electronic record that the Secretary transmits to an institution that includes an applicant's—
 
 (1) FAFSA information; and
 
@@ -210,6 +264,12 @@ AccreditedAward yearBranch campusClock hourCorrespondence courseCredit hourDista
 
 *Student aid report (SAR):* A report provided to an applicant by the Secretary showing his or her FAFSA information and the amount of his or her EFC.
 
+*Subscription-based program:* A standard or nonstandard-term program in which the institution charges a student for each term on a subscription basis with the expectation that the student completes a specified number of credit hours (or the equivalent) during that term. Coursework in a subscription-based program is not required to begin or end within a specific timeframe in each term. Students in subscription-based programs must complete a cumulative number of credit hours (or the equivalent) during or following the end of each term before receiving subsequent disbursements of title IV, HEA program funds. An institution establishes an enrollment status (for example, full-time or half-time) that will apply to a student throughout the student's enrollment in the program, except that a student may change his or her enrollment status no more often than once per academic year. The number of credit hours (or the equivalent) a student must complete before receiving subsequent disbursements is calculated by—
+
+(1) Determining for each term the number of credit hours (or the equivalent) associated with the institution's minimum standard for the student's enrollment status (for example, full-time, three-quarter time, or half-time) for that period commensurate with paragraph (8) in the definition of “full-time student,” adjusted for less than full-time students in light of the definitions of “half-time student” and “three-quarter time student,” and adjusted to at least one credit (or the equivalent) for a student who is enrolled less than half-time; and
+
+(2) Adding together the number of credit hours (or the equivalent) determined under paragraph (1) for each term in which the student was enrolled in and attended that program, excluding the current and most recently attended terms.
+
 *Teacher Education Assistance for College and Higher Education (TEACH) Grant Program:* A grant program authorized by title IV of the HEA under which grants are awarded by an institution to students who are completing, or intend to complete, coursework to begin a career in teaching and who agree to serve for not less than four years as a full-time, highly-qualified teacher in a high-need field in a low-income school. If the recipient of a TEACH Grant does not complete four years of qualified teaching service within eight years of completing the course of study for which the TEACH Grant was received or otherwise fails to meet the requirements of 34 CFR 686.12, the amount of the TEACH Grant converts into a Federal Direct Unsubsidized Loan.
 
 (Authority: 20 U.S.C. 1070g)
@@ -218,9 +278,9 @@ AccreditedAward yearBranch campusClock hourCorrespondence courseCredit hourDista
 
 (Authority: 20 U.S.C. 1070g)
 
-*Third-party servicer:* (1) An individual or a State, or a private, profit or nonprofit organization that enters into a contract with an eligible institution to administer, through either manual or automated processing, any aspect of the institution's participation in any Title IV, HEA program. The Secretary considers administration of participation in a Title IV, HEA program to -
+*Third-party servicer:* (1) An individual or a State, or a private, profit or nonprofit organization that enters into a contract with an eligible institution to administer, through either manual or automated processing, any aspect of the institution's participation in any Title IV, HEA program. The Secretary considers administration of participation in a Title IV, HEA program to—
 
-(i) Include performing any function required by any statutory provision of or applicable to Title IV of the HEA, any regulatory provision prescribed under that statutory authority, or any applicable special arrangement, agreement, or limitation entered into under the authority of statutes applicable to Title IV of the HEA, such as, but not restricted to -
+(i) Include performing any function required by any statutory provision of or applicable to Title IV of the HEA, any regulatory provision prescribed under that statutory authority, or any applicable special arrangement, agreement, or limitation entered into under the authority of statutes applicable to Title IV of the HEA, such as, but not restricted to—
 
 (A) Processing student financial aid applications;
 
@@ -228,7 +288,7 @@ AccreditedAward yearBranch campusClock hourCorrespondence courseCredit hourDista
 
 (C) Determining student eligibility and related activities;
 
-(D) Certifying loan applications;
+(D) Originating loans;
 
 (E) Processing output documents for payment to students;
 
@@ -244,7 +304,7 @@ AccreditedAward yearBranch campusClock hourCorrespondence courseCredit hourDista
 
 (K) Preparing a Fiscal Operations Report and Application to Participate (FISAP);
 
-(ii) Exclude the following functions -
+(ii) Exclude the following functions—
 
 (A) Publishing ability-to-benefit tests;
 
@@ -260,7 +320,7 @@ AccreditedAward yearBranch campusClock hourCorrespondence courseCredit hourDista
 
 (iii) Notwithstanding the exclusions referred to in paragraph (1)(ii) of this definition, include any activity comprised of any function described in paragraph (1)(i) of this definition.
 
-(2) For purposes of this definition, an employee of an institution is not a third-party servicer. The Secretary considers an individual to be an employee if the individual -
+(2) For purposes of this definition, an employee of an institution is not a third-party servicer. The Secretary considers an individual to be an employee if the individual—
 
 (i) Works on a full-time, part-time, or temporary basis;
 
@@ -271,8 +331,6 @@ AccreditedAward yearBranch campusClock hourCorrespondence courseCredit hourDista
 (iv) Is not employed by or associated with a third-party servicer; and
 
 (v) Is not a third-party servicer for any other institution.
-
-(Authority: 20 U.S.C. 1088)
 
 *Three-quarter time student:* An enrolled student who is carrying a three-quarter-time academic workload, as determined by the institution, that amounts to at least three quarters of the work of the applicable minimum requirement outlined in the definition of a full-time student.
 

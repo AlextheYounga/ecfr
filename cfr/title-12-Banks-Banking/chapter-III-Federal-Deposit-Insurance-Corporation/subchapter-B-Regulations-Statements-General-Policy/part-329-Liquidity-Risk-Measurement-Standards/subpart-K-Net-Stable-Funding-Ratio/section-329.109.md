@@ -1,0 +1,9 @@
+##### § 329.109 Rules for consolidation. #####
+
+(a) *Consolidated subsidiary available stable funding amount.* For available stable funding of a legal entity that is a consolidated subsidiary of an FDIC-supervised institution, including a consolidated subsidiary organized under the laws of a foreign jurisdiction, the FDIC-supervised institution may include the available stable funding of the consolidated subsidiary in its ASF amount up to:
+
+(1) The RSF amount of the consolidated subsidiary, as calculated by the FDIC-supervised institution for the FDIC-supervised institution's net stable funding ratio under this part; plus
+
+(2) Any amount in excess of the RSF amount of the consolidated subsidiary, as calculated by the FDIC-supervised institution for the FDIC-supervised institution's net stable funding ratio under this part, to the extent the consolidated subsidiary may transfer assets to the top-tier FDIC-supervised institution, taking into account statutory, regulatory, contractual, or supervisory restrictions, such as sections 23A and 23B of the Federal Reserve Act (12 U.S.C. 371c and 12 U.S.C. 371c-1) and Regulation W (12 CFR part 223).
+
+(b) *Required consolidation procedures.* To the extent an FDIC-supervised institution includes an ASF amount in excess of the RSF amount of the consolidated subsidiary, the FDIC-supervised institution must implement and maintain written procedures to identify and monitor applicable statutory, regulatory, contractual, supervisory, or other restrictions on transferring assets from any of its consolidated subsidiaries. These procedures must document which types of transactions the FDIC-supervised institution could use to transfer assets from a consolidated subsidiary to the FDIC-supervised institution and how these types of transactions comply with applicable statutory, regulatory, contractual, supervisory, or other restrictions.
