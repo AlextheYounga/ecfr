@@ -1,6 +1,6 @@
 ##### § 165.518 Security Zone; Waters of the Fifth Coast Guard District. #####
 
-(a) *Definitions.* As used in this section -
+(a) *Definitions.* As used in this section—
 
 *Designated Representative* means any U.S. Coast Guard commissioned, warrant or petty officer who has been authorized by the District Commander or local Captain of the Port (COTP), as defined in 33 CFR part 3, subpart 3.25, to act on his or her behalf.
 
@@ -30,7 +30,7 @@
 
 (7) Persons desiring to transit within 100 yards of an escorted vessel in the Fifth Coast Guard District must contact the local Captain of the Port on VHF channel 16 (156.800 MHz), VHF channel 13 (156.650 MHz) or at telephone numbers:
 
-Philadelphia: (215) 271-4807Maryland-National Capital Region: (410) 576-2693Hampton Roads: (757) 668-5555 or (757) 484-8192North Carolina: (877) 229-0770 or (910) 772-2200
+Philadelphia: (215) 271-4807Maryland-National Capital Region: (410) 576-2693Virginia: (757) 668-5555 or (757) 484-8192North Carolina: (877) 229-0770 or (910) 772-2200
 
 (8) If permission is granted to transit within 100 yards of an escorted vessel, all persons and vessels must comply with the instructions of the District Commander, Captain of the Port or their designated representative.
 

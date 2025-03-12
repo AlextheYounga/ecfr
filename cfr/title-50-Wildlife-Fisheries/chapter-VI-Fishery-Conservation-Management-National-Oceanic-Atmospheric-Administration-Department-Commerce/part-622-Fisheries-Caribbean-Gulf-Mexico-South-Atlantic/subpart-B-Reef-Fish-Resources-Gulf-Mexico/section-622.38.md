@@ -16,7 +16,7 @@
 
 (2) *Groupers, combined, excluding goliath grouper* - 4 per person per day, but not to exceed 1 speckled hind or 1 warsaw grouper per vessel per day, or 2 gag or 2 red grouper per person per day. However, no grouper may be retained by the captain or crew of a vessel operating as a charter vessel or headboat. The bag limit for such captain and crew is zero. (Note: Nassau grouper in the Gulf EEZ may not be harvested or possessed, as specified in § 622.181(b)(4).)
 
-(3) *Red snapper* - 2. However, no red snapper may be retained by the captain or crew of a vessel operating as a charter vessel or headboat. The bag limit for such captain and crew is zero.
+(3) *Red snapper* - 2. However, no red snapper may be retained by the captain or crew of a vessel operating as a charter vessel or headboat. The bag limit for such captain and crew is zero. See § 622.23(a)(1) regarding the bag limit applicability for states with an active delegation of state management of the red snapper private angling component. A person subject to the private angling component bag limit under an active delegation of state management must be in compliance with the fishing license (permit) requirements of the state in which they intend to land the fish and may not possess more red snapper in the Gulf EEZ than may be possessed in that state.
 
 (4) *Snappers, combined, excluding red, lane, and vermilion snapper* - 10. In addition, within the 10-fish aggregate snapper bag limit, no more than 5 fish may be mutton snapper.
 
@@ -28,4 +28,4 @@
 
 (c) *Possession limits.* A person, or a vessel in the case of speckled hind or Warsaw grouper, on a trip that spans more than 24 hours may possess no more than two daily bag limits, provided such trip is on a vessel that is operating as a charter vessel or headboat, the vessel has two licensed operators aboard, and each passenger is issued and has in possession a receipt issued on behalf of the vessel that verifies the length of the trip.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 27087, May 9, 2013; 78 FR 46822, Aug. 2, 2013; 78 FR 78775, Dec. 27, 2013; 80 FR 18553, Apr. 7, 2015; 82 FR 34581, July 25, 2017; 82 FR 59526, Dec. 15, 2017; 83 FR 29044, June 22, 2018]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 27087, May 9, 2013; 78 FR 46822, Aug. 2, 2013; 78 FR 78775, Dec. 27, 2013; 80 FR 18553, Apr. 7, 2015; 82 FR 34581, July 25, 2017; 82 FR 59526, Dec. 15, 2017; 83 FR 29044, June 22, 2018; 85 FR 6824, Feb. 6, 2020]

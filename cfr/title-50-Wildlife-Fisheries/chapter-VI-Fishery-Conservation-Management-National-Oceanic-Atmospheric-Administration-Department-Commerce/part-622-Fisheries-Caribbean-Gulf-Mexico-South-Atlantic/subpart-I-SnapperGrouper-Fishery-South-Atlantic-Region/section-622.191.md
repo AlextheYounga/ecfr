@@ -1,6 +1,6 @@
 ##### § 622.191 Commercial trip limits. #####
 
-Link to an amendment published at 85 FR 4594, Jan. 27, 2020.
+Link to an amendment published at 85 FR 4594, Jan. 27, 2020.Link to an amendment published at 85 FR 6827, Feb. 6, 2020.
 
 Commercial trip limits are limits on the amount of the applicable species that may be possessed on board or landed, purchased, or sold from a vessel per day. A person who fishes in the EEZ may not combine a trip limit specified in this section with any trip or possession limit applicable to state waters. A species subject to a trip limit specified in this section taken in the EEZ may not be transferred at sea, regardless of where such transfer takes place, and such species may not be transferred in the EEZ. Commercial trip limits apply as follows (all weights are round or eviscerated weights unless specified otherwise):
 

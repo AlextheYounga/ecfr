@@ -1,5 +1,7 @@
 ##### § 622.192 Restrictions on sale/purchase. #####
 
+Link to an amendment published at 85 FR 6828, Feb. 6, 2020.
+
 The restrictions in this section are in addition to the restrictions on sale/purchase related to quota closures as specified in § 622.190(c).
 
 (a) A South Atlantic snapper-grouper harvested or possessed in the EEZ on board a vessel that does not have a valid commercial permit for South Atlantic snapper-grouper, as required under § 622.170(a), or a South Atlantic snapper-grouper harvested in the EEZ and possessed under the bag limits specified in § 622.187(b), may not be sold or purchased. In addition, a South Atlantic snapper-grouper harvested or possessed by a vessel that is operating as a charter vessel or headboat with a Federal charter vessel/headboat permit for South Atlantic snapper-grouper may not be sold or purchased regardless of where harvested, *i.e.,* in state or Federal waters.

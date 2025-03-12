@@ -182,11 +182,15 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *North Atlantic* means the Atlantic Ocean off the Atlantic coastal states from the boundary between the United States and Canada to the boundary between the New England Fishery Management Council and the MAFMC, as specified in § 600.105(a) of this chapter.
 
+*Off Alabama* means the waters in the Gulf west of a rhumb line at 87°31.1′ W long., which is a line directly south from the Alabama/Florida boundary, to a rhumb line at 88°23.1′ W long., which is a line directly south from the Mississippi/Alabama boundary.
+
 *Off Florida* means the waters in the Gulf and South Atlantic from 30°42′45.6″ N. lat., which is a line directly east from the seaward terminus of the Georgia/Florida boundary, to 87°31′06″ W. long., which is a line directly south from the Alabama/Florida boundary.
 
 *Off Georgia* means the waters in the South Atlantic from a line extending in a direction of 104° from true north from the seaward terminus of the South Carolina/Georgia boundary to 30°42′45.6″ N. lat., which is a line directly east from the seaward terminus of the Georgia/Florida boundary.
 
-*Off Louisiana, Mississippi, and Alabama* means the waters in the Gulf other than off Florida and off Texas.
+*Off Louisiana* means the waters in the Gulf west of a rhumb line at 89°10.0′ W long., which is a line extending directly south from South Pass Light, to a rhumb line beginning at 29°32.1′ N lat., 93°47.7′ W long. and extending to 26°11.4′ N lat., 92°53.0′ W long., which line is an extension of the boundary between Louisiana and Texas.
+
+*Off Mississippi* means the waters in the Gulf west of a rhumb line at 88°23.1′ W long., which is a line directly south from the Mississippi/Alabama boundary, to a rhumb line at 89°10.0′ W long., which is a line extending directly south from South Pass Light.
 
 *Off Monroe County, Florida* means the area from the Florida coast to the outer limit of the EEZ between a line extending directly east from the Dade/Monroe County, Florida boundary (25°20.4′ N. latitude) and a line extending directly west from the Monroe/Collier County, Florida boundary (25°48.0′ N. latitude).
 
@@ -298,4 +302,4 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Wreckfish* means the species *Polyprion americanus,* or a part thereof, one of the South Atlantic snapper-grouper species.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 78775, Dec. 27, 2013; 79 FR 19493, Apr. 9, 2014; 80 FR 4218, Jan. 27, 2015; 81 FR 1792, Jan. 13, 2016; 82 FR 34580, July 25, 2017]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 78775, Dec. 27, 2013; 79 FR 19493, Apr. 9, 2014; 80 FR 4218, Jan. 27, 2015; 81 FR 1792, Jan. 13, 2016; 82 FR 34580, July 25, 2017; 85 FR 6823, Feb. 6, 2020]

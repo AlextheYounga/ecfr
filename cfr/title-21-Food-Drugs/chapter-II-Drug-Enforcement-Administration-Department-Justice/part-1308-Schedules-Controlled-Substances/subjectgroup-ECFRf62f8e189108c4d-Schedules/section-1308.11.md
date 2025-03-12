@@ -1,6 +1,6 @@
 ##### § 1308.11 Schedule I. #####
 
-Link to an amendment published at 84 FR 13796, Apr. 8, 2019.
+Link to an amendment published at 84 FR 13796, Apr. 8, 2019.Link to an amendment published at 85 FR 5322, Jan. 30, 2020.
 
 (a) Schedule I shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the DEA Controlled Substances Code Number set forth opposite it.
 
@@ -250,40 +250,22 @@ Link to an amendment published at 84 FR 13796, Apr. 8, 2019.
 
 (h) *Temporary listing of substances subject to emergency scheduling.* Any material, compound, mixture or preparation which contains any quantity of the following substances:
 
-|                                                                                             (1)-(17) [Reserved]                                                                                             |      |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----:|
-|(18) methyl 2-(1-(4-fluorobenzyl)-1H-indazole-3-carboxamido)-3-methylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: FUB-AMB, MMB-FUBINACA, AMB-FUBINACA)|(7021)|
-|                                                                                               (19) [Reserved]                                                                                               |      |
-|                                                                                               (20) [Reserved]                                                                                               |      |
-|                                                                                               (21) [Reserved]                                                                                               |      |
-|                                                                                               (22) [Reserved]                                                                                               |      |
-|                      (23) N-(1-phenethylpiperidin-4-yl)-N-phenylpentanamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: Valeryl fentanyl)                      |(9840)|
-|            (24) N-(4-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)butyramide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: para-fluorobutyryl fentanyl)            |(9823)|
-|           (25) N-(4-methoxyphenyl)-N-(1-phenethylpiperidin-4-yl)butyramide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: para-methoxybutyryl fentanyl)           |(9837)|
-|         (26) N-(4-chlorophenyl)-N-(1-phenethylpiperidin-4-yl)isobutyramide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: para-chloroisobutyryl fentanyl)         |(9826)|
-|                   (27) N-(1-phenethylpiperidin-4-yl)-N-phenylisobutyramide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: isobutyryl fentanyl)                    |(9827)|
-|              (28) N-(1-phenethylpiperidin-4-yl)-N-phenylcyclopentanecarboxamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: cyclopentyl fentanyl)              |(9847)|
-|                                                                                               (29) [Reserved]                                                                                               |      |
-|                                               (30) Fentanyl-related substances, their isomers, esters, ethers, salts and salts of isomers, esters and ethers                                                | 9850 |
-
-(i) Fentanyl-related substance means any substance not otherwise listed under another Administration Controlled Substance Code Number, and for which no exemption or approval is in effect under section 505 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355], that is structurally related to fentanyl by one or more of the following modifications:
-
-(A) Replacement of the phenyl portion of the phenethyl group by any monocycle, whether or not further substituted in or on the monocycle;
-
-(B) Substitution in or on the phenethyl group with alkyl, alkenyl, alkoxyl, hydroxyl, halo, haloalkyl, amino or nitro groups;
-
-(C) Substitution in or on the piperidine ring with alkyl, alkenyl, alkoxyl, ester, ether, hydroxyl, halo, haloalkyl, amino or nitro groups;
-
-(D) Replacement of the aniline ring with any aromatic monocycle whether or not further substituted in or on the aromatic monocycle; and/or
-
-(E) Replacement of the *N*-propionyl group by another acyl group.
-
-(ii) This definition includes, but is not limited to, the following substances:
-
-(A)-(B) [Reserved]
-
-|                                        (31) Naphthalen-1-yl 1-(5-fluoropentyl)-1H-indole-3-carboxylate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: NM2201; CBL2201)                                         |(7221)|
+|                                                                                                                    (1)-(17) [Reserved]                                                                                                                    |      |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----:|
+|                       (18) methyl 2-(1-(4-fluorobenzyl)-1H-indazole-3-carboxamido)-3-methylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: FUB-AMB, MMB-FUBINACA, AMB-FUBINACA)                       |(7021)|
+|                                                                                                                      (19) [Reserved]                                                                                                                      |      |
+|                                                                                                                      (20) [Reserved]                                                                                                                      |      |
+|                                                                                                                      (21) [Reserved]                                                                                                                      |      |
+|                                                                                                                      (22) [Reserved]                                                                                                                      |      |
+|                                             (23) N-(1-phenethylpiperidin-4-yl)-N-phenylpentanamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: Valeryl fentanyl)                                             |(9840)|
+|                                   (24) N-(4-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)butyramide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: para-fluorobutyryl fentanyl)                                   |(9823)|
+|                                  (25) N-(4-methoxyphenyl)-N-(1-phenethylpiperidin-4-yl)butyramide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: para-methoxybutyryl fentanyl)                                  |(9837)|
+|                                (26) N-(4-chlorophenyl)-N-(1-phenethylpiperidin-4-yl)isobutyramide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: para-chloroisobutyryl fentanyl)                                |(9826)|
+|                                          (27) N-(1-phenethylpiperidin-4-yl)-N-phenylisobutyramide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: isobutyryl fentanyl)                                           |(9827)|
+|                                     (28) N-(1-phenethylpiperidin-4-yl)-N-phenylcyclopentanecarboxamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: cyclopentyl fentanyl)                                     |(9847)|
+|                                                                                                                      (29) [Reserved]                                                                                                                      |      |
+|                                                                                                                      (30) [Reserved]                                                                                                                      |      |
+|                                        (31) Naphthalen-1-yl 1-(5-fluoropentyl)-1H-indole-3-carboxylate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: NM2201; CBL2201)                                         |(7221)|
 |                              (32) N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 5F-AB-PINACA)                               |(7025)|
 |(33) 1-(4-cyanobutyl)-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 4-CN-CUMYL-BUTINACA; 4-cyano-CUMYL-BUTINACA; 4-CN-CUMYL BINACA; CUMYL-4CN-BINACA; SGT-78)|(7089)|
 |                             (34) methyl 2-(1-(cyclohexylmethyl)-1H-indole-3-carboxamido)-3-methylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: MMB-CHMICA, AMB-CHMICA)                              |(7044)|
@@ -301,7 +283,9 @@ Link to an amendment published at 84 FR 13796, Apr. 8, 2019.
 |                                        (46) alpha-Pyrrolidinoheptaphenone, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: PV8; 1-phenyl-2-(pyrrolidin-1-yl)heptan-1-one)                                        | 7548 |
 |   (47) 4′-Chloro-alpha-pyrrolidinovalerophenone, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 4-chloro-α-PVP; 4′-chloro-alpha-pyrrolidinopentiophenone; 1-(4-chlorophenyl)-2-(pyrrolidin-1-yl)pentan-1-one)   | 7443 |
 
-[39 FR 22141, June 20, 1974]Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Notes:At 82 FR 17123, Apr. 10, 2017, § 1308.11 was amended by adding paragraphs (h)(10) through (15), effective Apr. 10. 2017 through Apr. 10, 2019. At 84 FR 13796, Apr. 8, 2019, § 1308.11 was amended by extending the above effective date from Apr. 10, 2019 to Apr. 10, 2020.2. At 82 FR 20547, May 3, 2017, § 1308.11 was amended by adding (h)(16), effective May 3, 2017, until May 3, 2019. At 82 FR 47974, Oct. 16, 2017, § 1308.11 was amended by redesignating (h)(16) as paragraph (h)(13).
+[39 FR 22141, June 20, 1974]Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Notes:1. At 82 FR 17123, Apr. 10, 2017, § 1308.11 was amended by adding paragraphs (h)(10) through (15), effective Apr. 10. 2017 through Apr. 10, 2019. At 84 FR 13796, Apr. 8, 2019, § 1308.11 was amended by extending the above effective date from Apr. 10, 2019 to Apr. 10, 2020.
+
+2. At 82 FR 20547, May 3, 2017, § 1308.11 was amended by adding (h)(16), effective May 3, 2017, until May 3, 2019. At 82 FR 47974, Oct. 16, 2017, § 1308.11 was amended by redesignating (h)(16) as paragraph (h)(13).
 
 3. At 82 FR 32457, July 14, 2017, § 1308.11 was amended by adding (h)(17), effective July 14, 2017, until July 15, 2019. At 82 FR 47974, Oct. 16, 2017, § 1308.11 was amended by redesignating (h)(17) as paragraph (h)(14).
 
@@ -313,12 +297,14 @@ Link to an amendment published at 84 FR 13796, Apr. 8, 2019.
 
 7. At 83 FR 4584, Feb. 1, 2018, § 1308.11 was amended by adding paragraphs (h)(23) through (h)(29), effective Feb. 1, 2018, through Feb. 1, 2021.
 
-8. At 83 FR 5191, Feb. 6, 2018, § 1308.11 was amended by adding paragraph (h)(30), effective Feb. 6, 2018, through Feb. 6, 2020.
+8. At 83 FR 31882, July 10, 2018, § 1308.11 was amended by adding paragraphs (h)(31) through (h)(35) effective July 10, 2018 through July 10, 2020.
 
-9. At 83 FR 31882, July 10, 2018, § 1308.11 was amended by adding paragraphs (h)(31) through (h)(35) effective July 10, 2018 through July 10, 2020.
+9. At 83 FR 44478, Aug. 31, 2018, § 1308.11 was amended by adding paragraph (h)(36) effective Aug. 31, 2018 through Aug. 31, 2020.
 
-10. At 83 FR 44478, Aug. 31, 2018, § 1308.11 was amended by adding paragraph (h)(36) effective Aug. 31, 2018 through Aug. 31, 2020.
+10. At 84 FR 13796, Apr. 10, 2019,§ 1308.11 was amended by extending the order at 82 FR 17119, Apr. 10, 2017, is effective Apr. 10, 2019 and will expire on Apr. 10, 2020.
 
 11. At 84 FR 15511, Apr. 16, 2019, § 1308.11 was amended by adding paragraphs (h)(37) through (h)(41) effective Apr. 16, 2019 through Apr. 16, 2021.
 
 12. At 84 FR 34297, July 17, 2019, § 1308.11 was amended by adding paragraphs (h)(42) through (h)(47) effective July 18, 2019 through July 18, 2021.
+
+13. At 85 FR 5322, Jan. 30, 2020, § 1308.11 was amended by extending the order at 83 FR 4580, Feb. 1, 2018, is effective Feb. 1, 2020 and expires Feb. 1. 2021.

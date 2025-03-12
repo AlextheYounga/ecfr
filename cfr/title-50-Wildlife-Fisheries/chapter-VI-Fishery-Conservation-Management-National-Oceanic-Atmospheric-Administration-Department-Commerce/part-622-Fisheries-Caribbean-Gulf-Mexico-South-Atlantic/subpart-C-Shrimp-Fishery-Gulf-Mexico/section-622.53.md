@@ -1,5 +1,7 @@
 ##### § 622.53 Bycatch reduction device (BRD) requirements. #####
 
+Link to an amendment published at 85 FR 6818, Feb. 6, 2020.
+
 (a) *BRD requirement for Gulf shrimp.* On a shrimp trawler in the Gulf EEZ, each net that is rigged for fishing must have a BRD installed that is listed in paragraph (a)(3) of this section and is certified or provisionally certified for the area in which the shrimp trawler is located, unless exempted as specified in paragraphs (a)(1)(i) through (iv) of this section. A trawl net is rigged for fishing if it is in the water, or if it is shackled, tied, or otherwise connected to a sled, door, or other device that spreads the net, or to a tow rope, cable, pole, or extension, either on board or attached to a shrimp trawler.
 
 (1) *Exemptions from BRD requirement* - (i) *Royal red shrimp exemption.* A shrimp trawler is exempt from the requirement to have a certified or provisionally certified BRD installed in each net provided that at least 90 percent (by weight) of all shrimp on board or offloaded from such trawler are royal red shrimp.

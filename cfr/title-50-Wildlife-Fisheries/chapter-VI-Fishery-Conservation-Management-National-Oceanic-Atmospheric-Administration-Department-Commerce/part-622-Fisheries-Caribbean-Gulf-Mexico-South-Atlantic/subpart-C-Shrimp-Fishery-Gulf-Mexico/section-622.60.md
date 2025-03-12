@@ -1,5 +1,7 @@
 ##### § 622.60 Adjustment of management measures. #####
 
+Link to an amendment published at 85 FR 6819, Feb. 6, 2020.
+
 In accordance with the framework procedures of the Gulf Shrimp FMP, the RA may establish or modify the following:
 
 (a) *Gulf penaeid shrimp.* For a species or species group: Reporting and monitoring requirements, permitting requirements, size limits, vessel trip limits, closed seasons or areas and reopenings, quotas (including a quota of zero), MSY (or proxy), OY, management parameters such as overfished and overfishing definitions, gear restrictions (ranging from regulation to complete prohibition), gear markings and identification, vessel markings and identification, acceptable biological catch (ABC) and ABC control rules, rebuilding plans, restrictions relative to conditions of harvested shrimp (maintaining shrimp in whole condition, use as bait), target effort and fishing mortality reduction levels, bycatch reduction criteria, BRD certification and decertification criteria, BRD testing protocol and certified BRD specifications.

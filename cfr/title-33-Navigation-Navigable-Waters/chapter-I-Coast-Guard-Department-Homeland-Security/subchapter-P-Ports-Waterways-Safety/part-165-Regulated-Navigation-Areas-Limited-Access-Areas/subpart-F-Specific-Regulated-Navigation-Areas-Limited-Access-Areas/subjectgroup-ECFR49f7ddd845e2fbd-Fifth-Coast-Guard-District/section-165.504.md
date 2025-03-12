@@ -20,7 +20,7 @@
 
 (vii) Commercial shellfish harvesting vessels taking clams from the shellfish beds within the zone, if
 
-(A) The owner of the vessel has previously provided the Captain of the Port, Hampton Roads, Virginia, information about the vessel, including:
+(A) The owner of the vessel has previously provided the Captain of the Port, Virginia, information about the vessel, including:
 
 (*1*) The name of the vessel;
 
@@ -36,4 +36,4 @@
 
 (d) *Enforcement.* The U.S. Coast Guard may be assisted in the enforcement of this zone by the U.S. Navy.
 
-[CGD5 86-03, 51 FR 18322, May 19, 1986, as amended by CGD5 87-038, 52 FR 41996, Nov. 2, 1987]
+[CGD5 86-03, 51 FR 18322, May 19, 1986, as amended by CGD5 87-038, 52 FR 41996, Nov. 2, 1987; USCG-2019-0943, 85 FR 6806, Feb. 6, 2020]

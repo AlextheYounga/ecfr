@@ -22,7 +22,7 @@ Table 1 to § 622.1 - FMPs Implemented Under Part 622
 |               FMP for Queen Conch Resources of Puerto Rico and the U.S. Virgin Islands               |                        CFMC                         |                                 Caribbean.                                  |
 |                          FMP for the Red Drum Fishery of the Gulf of Mexico                          |                        GMFMC                        |                              Gulf.<sup>1</sup>                              |
 |               FMP for the Reef Fish Fishery of Puerto Rico and the U.S. Virgin Islands               |                        CFMC                         |                                 Caribbean.                                  |
-|                        FMP for the Reef Fish Resources of the Gulf of Mexico                         |                        GMFMC                        |                           Gulf.<sup>1 3 4 7</sup>                           |
+|                        FMP for the Reef Fish Resources of the Gulf of Mexico                         |                        GMFMC                        |                               Gulf.1 3 4 7 10                               |
 |                      FMP for Regulating Offshore Marine Aquaculture in the Gulf                      |                        GMFMC                        |                                    Gulf.                                    |
 |                           FMP for the Shrimp Fishery of the Gulf of Mexico                           |                        GMFMC                        |                              Gulf.<sup>1</sup>                              |
 |                       FMP for the Shrimp Fishery of the South Atlantic Region                        |                        SAFMC                        |                               South Atlantic.                               |
@@ -48,4 +48,6 @@ Table 1 to § 622.1 - FMPs Implemented Under Part 622
 
 <sup>9</sup> Cobia is managed by the FMP in the Gulf EEZ and in the South Atlantic EEZ south of a line extending due east from the Florida/Georgia border.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 78775, Dec. 27, 2013; 81 FR 1792, Jan. 13, 2016; 82 FR 34580, 34594 July 25, 2017; 82 FR 40075, Aug. 24, 2017; 84 FR 4736, Feb. 19, 2019]
+<sup>10</sup> Certain provisions for the management of the private angling component of recreational red snapper in the Gulf EEZ have been delegated to the Gulf states, as specified in § 622.23.
+
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 78775, Dec. 27, 2013; 81 FR 1792, Jan. 13, 2016; 82 FR 34580, 34594 July 25, 2017; 82 FR 40075, Aug. 24, 2017; 84 FR 4736, Feb. 19, 2019; 85 FR 6823, Feb. 6, 2020]

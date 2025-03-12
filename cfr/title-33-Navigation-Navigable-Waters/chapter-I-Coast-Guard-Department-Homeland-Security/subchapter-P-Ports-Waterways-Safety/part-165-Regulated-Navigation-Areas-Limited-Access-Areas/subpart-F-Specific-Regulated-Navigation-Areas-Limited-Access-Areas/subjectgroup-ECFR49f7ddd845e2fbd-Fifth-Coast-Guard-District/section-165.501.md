@@ -1,4 +1,4 @@
-##### § 165.501 Chesapeake Bay entrance and Hampton Roads, VA and adjacent waters - Regulated Navigation Area. #####
+##### § 165.501 Chesapeake Bay entrance and Hampton Roads, VA and adjacent waters—Regulated Navigation Area. #####
 
 (a) *Location.* The waters enclosed by the shoreline and the following lines are a Regulated Navigation Area:
 
@@ -34,9 +34,9 @@
 
 *CBBT* means the Chesapeake Bay Bridge Tunnel.
 
-*Coast Guard Patrol Commander* is a Coast Guard commissioned, warrant or petty officer who has been designated by the Commander, Coast Guard Sector Hampton Roads.
+*Coast Guard Patrol Commander* is a Coast Guard commissioned, warrant or petty officer who has been designated by the Commander, Coast Guard Sector Virginia.
 
-*Designated representative of the Captain of the Port* means a person, including the duty officer at the Coast Guard Sector Hampton Roads, the Joint Harbor Operations Center watchstander, or the Coast Guard or Navy Patrol Commander who has been authorized by the Captain of the Port to act on his or her behalf and at his or her request to carry out such orders and directions as needed. All patrol vessels shall display the Coast Guard Ensign at all times when underway.
+*Designated representative of the Captain of the Port* means a person, including the duty officer at the Coast Guard Sector Virginia, the Joint Harbor Operations Center watchstander, or the Coast Guard or Navy Patrol Commander who has been authorized by the Captain of the Port to act on his or her behalf and at his or her request to carry out such orders and directions as needed. All patrol vessels shall display the Coast Guard Ensign at all times when underway.
 
 *I-664 Bridge Tunnel* means the Monitor Merrimac Bridge Tunnel.
 
@@ -56,7 +56,7 @@
 
 (3) Surveying, maintenance, or improvement of waters in the Regulated Navigation Area.
 
-(d) *Regulations* - (1) *Anchoring restrictions.* No vessel over 65 feet long may anchor or moor in the inland waters of the Regulated Navigation Area outside an anchorage designated in § 110.168 of this title, with these exceptions:
+(d) *Regulations*—(1) *Anchoring restrictions.* No vessel over 65 feet long may anchor or moor in the inland waters of the Regulated Navigation Area outside an anchorage designated in § 110.168 of this title, with these exceptions:
 
 (i) The vessel has the permission of the Captain of the Port.
 
@@ -88,7 +88,7 @@
 
 (iii) Except when crossing the channel, a vessel in the Thimble Shoal South Auxiliary Channel shall proceed in an eastbound direction.
 
-(5) *Restrictions on vessels with impaired maneuverability* - (i) *Before entry.* A vessel over 100 gross tons, whose ability to maneuver is impaired by heavy weather, defective steering equipment, defective main propulsion machinery, or other damage, may not enter the Regulated Navigation Area without the permission of the Captain of the Port.
+(5) *Restrictions on vessels with impaired maneuverability*—(i) *Before entry.* A vessel over 100 gross tons, whose ability to maneuver is impaired by heavy weather, defective steering equipment, defective main propulsion machinery, or other damage, may not enter the Regulated Navigation Area without the permission of the Captain of the Port.
 
 (ii) *After entry.* A vessel over 100 gross tons, which is underway in the Regulated Navigation Area, that has its ability to maneuver become impaired for any reason, shall, as soon as possible, report the impairment to the Captain of the Port.
 
@@ -104,7 +104,7 @@
 
 (ii) A vessel over 100 gross tons with an emergency that is located within two nautical miles of the CBBT or I-664 Bridge Tunnel shall notify the Captain of the Port of its location and the nature of the emergency, as soon as possible.
 
-(8) *Vessel speed limits* - (i) *Little Creek.* A vessel may not proceed at a speed over five knots between the Route 60 bridge and the mouth of Fishermans Cove (Northwest Branch of Little Creek).
+(8) *Vessel speed limits*—(i) *Little Creek.* A vessel may not proceed at a speed over five knots between the Route 60 bridge and the mouth of Fishermans Cove (Northwest Branch of Little Creek).
 
 (ii) *Southern Branch of the Elizabeth River.* A vessel may not proceed at a speed over six knots between the junction of the Southern and Eastern Branches of the Elizabeth River and the Norfolk and Portsmouth Belt Line Railroad Bridge between Chesapeake and Portsmouth, Virginia.
 
@@ -118,7 +118,7 @@
 
 (iii) Report any departure from or movement within the Regulated Navigation Area to the designated representative of the Captain of the Port prior to getting underway.
 
-(iv) The designated representative of the Captain of the Port is the Sector Command Center (SCC) - Joint Harbor Operations Center (JHOC) which shall be contacted on VHF-FM channel 12, or by calling (757) 668-5555.
+(iv) The designated representative of the Captain of the Port is the Sector Command Center (SCC)—Joint Harbor Operations Center (JHOC) which shall be contacted on VHF-FM channel 12, or by calling (757) 668-5555.
 
 (v) In addition to the authorities listed in this part, this paragraph is promulgated under the authority under 46 U.S.C. 70116.
 
@@ -132,4 +132,4 @@
 
 (3) The master of a vessel within the Regulated Navigation Area shall comply with any orders or directions issued to the master's vessel by the Captain of the Port.
 
-[CGD05-02-099, 68 FR 35175, June 12, 2003, as amended by USCG-2006-25150, 71 FR 39211, July 12, 2006]
+[CGD05-02-099, 68 FR 35175, June 12, 2003, as amended by USCG-2006-25150, 71 FR 39211, July 12, 2006; USCG-0943, 85 FR 6806, Feb. 6, 2020]

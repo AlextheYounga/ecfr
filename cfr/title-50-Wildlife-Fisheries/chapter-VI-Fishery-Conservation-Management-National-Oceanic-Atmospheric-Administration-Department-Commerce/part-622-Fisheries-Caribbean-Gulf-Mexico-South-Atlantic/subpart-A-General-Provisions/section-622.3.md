@@ -21,3 +21,7 @@
 (d) General provisions on facilitation of enforcement, penalties, and enforcement policy applicable to all domestic fisheries are set forth in §§ 600.730, 600.735, and 600.740 of this chapter, respectively.
 
 (e) An activity that is otherwise prohibited by this part may be conducted if authorized as scientific research activity, exempted fishing, or exempted educational activity, as specified in § 600.745 of this chapter.
+
+(f) Alabama, Florida, Louisiana, Mississippi, and Texas are delegated the authority to specify certain management measures related to the harvest and possession of red snapper by the private angling component in the Gulf EEZ. See § 622.23 for the Gulf recreational red snapper management measures that have been delegated.
+
+[78 FR 22952, Apr. 17, 2013, as amended at 85 FR 6823, Feb. 6, 2020]
