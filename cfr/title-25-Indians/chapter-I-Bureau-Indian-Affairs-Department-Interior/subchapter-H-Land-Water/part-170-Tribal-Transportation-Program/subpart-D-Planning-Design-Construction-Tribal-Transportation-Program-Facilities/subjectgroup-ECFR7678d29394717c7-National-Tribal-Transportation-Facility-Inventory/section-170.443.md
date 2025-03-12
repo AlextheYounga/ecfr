@@ -24,6 +24,6 @@
 
 (8) Documentation identifying the entity responsible for maintenance of the facility after construction is completed.
 
-(b) For those proposed roads that currently exist in the NTTFI, the requirements identified above as paragraphs (a)(1) through (a)(8) of this section, must be completed and submitted for approval to BIA and FHWA by November 7, 2019, in order to remain on the inventory.
+(b) For those proposed roads that currently exist in the NTTFI, the requirements identified above as paragraphs (a)(1) through (8) of this section, must be completed and submitted for approval to BIA and FHWA by March 6, 2020, in order to remain on the inventory.
 
-[81 FR 78463, Nov. 7, 2016, as amended at 82 FR 50313, Oct. 31, 2017]
+[81 FR 78463, Nov. 7, 2016, as amended at 82 FR 50313, Oct. 31, 2017, 84 FR 55500, Oct. 17, 2019]

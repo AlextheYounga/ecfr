@@ -1,6 +1,6 @@
 ##### § 385.2001 Filings (Rule 2001). #####
 
-Link to an amendment published at 84 FR 46440, Sept. 4, 2019.
+Link to an amendment published at 84 FR 46440, Sept. 4, 2019.This amendment was delayed indefinitely at 84 FR 55498, Oct. 17, 2019.
 
 (a) *Filings with the Commission.* (1) Except as otherwise provided in this chapter, any document required to be filed with the Commission must comply with Rules 2001 to 2005 and must be submitted to the Secretary by:
 
