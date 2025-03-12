@@ -1,5 +1,7 @@
 ##### § 648.103 Summer flounder accountability measures. #####
 
+Link to an amendment published at 83 FR 53826, Oct. 25, 2018.
+
 (a) *Commercial sector EEZ closure.* The Regional Administrator shall close the EEZ to fishing for summer flounder by commercial vessels for the remainder of the calendar year by publishing notification in the Federal Register if he/she determines that the inaction of one or more states will cause the commercial sector ACL to be exceeded, or if the commercial fisheries in all states have been closed. The Regional Administrator may reopen the EEZ if earlier inaction by a state has been remedied by that state, or if commercial fisheries in one or more states have been reopened without causing the sector ACL to be exceeded.
 
 (b) *State commercial landing quotas.* The Regional Administrator will monitor state commercial quotas based on dealer reports and other available information and shall determine the date when a state commercial quota will be harvested. The Regional Administrator shall publish notification in the Federal Register advising a state that, effective upon a specific date, its commercial quota has been harvested and notifying vessel and dealer permit holders that no commercial quota is available for landing summer flounder in that state.

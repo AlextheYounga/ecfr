@@ -16,7 +16,7 @@
 
 (i) Clearly mark any portion of any data or information being submitted that in the submitter's opinion is a trade secret or commercial and financial information that the submitter is claiming should be treated as privileged and confidential and submit such data or information separately from other material being submitted to the Commission;
 
-(ii) A request for confidential treatment shall be addressed to the Chief FOIA Officer, U.S. Election Assistance Commission, 1201 New York Avenue, NW., Suite 300, Washington, DC 20005 and shall indicate clearly on the envelope that it is a request for confidential treatment.
+(ii) A request for confidential treatment shall be addressed to the Chief FOIA Officer, U.S. Election Assistance Commission, 1335 East-West Highway, Suite 4300, Silver Spring, MD 20910 and shall indicate clearly on the envelope that it is a request for confidential treatment.
 
 (iii) With each submission of, or offer to submit, business information which a submitter desires to be treated as confidential under paragraph (a)(4) of this section, the submitter shall provide the following, which may be disclosed to the public:
 
@@ -26,7 +26,7 @@
 
 (iv) Approval or denial of requests shall be made only by the Chief FOIA Officer or his or her designees. A denial shall be in writing, shall specify the reason for the denial, and shall advise the submitter of the right to appeal to the Commission.
 
-(v) For good cause shown, the Commission may grant an appeal from a denial by the Chief FOIA Officer or his or her designee if the appeal is filed within 15 days after receipt of the denial. An appeal shall be addressed to the Chief FOIA Officer, U.S. Election Assistance Commission, 1201 New York Avenue, NW., Suite 300, Washington, DC 20005 and shall clearly indicate that it is a confidential submission appeal. An appeal will be decided within 20 days after its receipt (excluding Saturdays, Sundays, and legal holidays) unless an extension, stated in writing with the reasons therefore, has been provided to the person making the appeal.
+(v) For good cause shown, the Commission may grant an appeal from a denial by the Chief FOIA Officer or his or her designee if the appeal is filed within 15 days after receipt of the denial. An appeal shall be addressed to the Chief FOIA Officer, U.S. Election Assistance Commission, 1335 East-West Highway, Suite 4300, Silver Spring, MD 20910 and shall clearly indicate that it is a confidential submission appeal. An appeal will be decided within 20 days after its receipt (excluding Saturdays, Sundays, and legal holidays) unless an extension, stated in writing with the reasons therefore, has been provided to the person making the appeal.
 
 (vi) Any business information submitted in confidence and determined to be entitled to confidential treatment shall be maintained in confidence by the Commission and not disclosed except as required by law. In the event that any business information submitted to the Commission is not entitled to confidential treatment, the submitter will be permitted to withdraw the tender unless it is the subject of a request under the FOIA or of judicial discovery proceedings.
 
@@ -54,4 +54,4 @@
 
 (d) Nothing in this part authorizes withholding of information or limiting the availability of records to the public, except as specifically provided; nor is this part authority to withhold information from Congress.
 
-[73 FR 54257, Sept. 18, 2008, as amended at 75 FR 49814, Aug. 16, 2010]
+[73 FR 54257, Sept. 18, 2008, as amended at 75 FR 49814, Aug. 16, 2010; 83 FR 53802, Oct. 25, 2018]

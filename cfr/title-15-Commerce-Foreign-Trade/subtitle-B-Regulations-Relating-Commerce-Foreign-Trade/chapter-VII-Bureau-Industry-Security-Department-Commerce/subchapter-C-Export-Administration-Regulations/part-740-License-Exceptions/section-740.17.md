@@ -140,7 +140,7 @@ Commodities, software, and components for the “cryptographic activation” of 
 
 Note to paragraph (b)(2):
 
-Commodities, components, and software classified under ECCNs 5A002.b or 5D002.d, for the “cryptographic activation” of commodities or software specified by this paragraph (b)(2) are also controlled under this paragraph (b)(2).
+Commodities, components, and software classified under ECCNs 5A002.b or 5D002.b, for the “cryptographic activation” of commodities or software specified by this paragraph (b)(2) are also controlled under this paragraph (b)(2).
 
 (3) *Classification request required for specified commodities, software, and components.* Thirty (30) days after a classification request is submitted to BIS in accordance with paragraph (d) of this section and subject to the reporting requirements in paragraph (e) of this section, this paragraph authorizes exports, reexports, and transfers (in-country) of the items submitted for classification, as further described in this paragraph (b)(3), to any end user, provided the item does not perform the functions, or otherwise meet the specifications, of any item described in paragraph (b)(2) of this section. Items described in paragraphs (b)(3)(i), (ii), or (iv) of this section that meet the criteria set forth in Note 3 to Category 5 - Part 2 of the Commerce Control List (the “mass market” note) are classified under ECCN 5A992.c or 5D992.c following classification by BIS.
 
@@ -162,7 +162,7 @@ Immediately after the classification request is submitted to BIS in accordance w
 
 (B) *Digital forensics, including network or computer forensics.* Investigation of data leakage, network breaches, and other malicious intrusion activities through triage of captured digital forensic data for law enforcement purposes or in a similarly rigorous evidentiary manner.
 
-(iv) “*Cryptographic activation” commodities, components, and software.* Commodities, components, and software classified under ECCNs 5A002.b or 5D002.d where the product or cryptographic functionality is not otherwise described in paragraphs (b)(2) or (b)(3)(i) of this section.
+(iv) “*Cryptographic activation” commodities, components, and software.* Commodities, components, and software classified under ECCNs 5A002.b or 5D002.b where the product or cryptographic functionality is not otherwise described in paragraphs (b)(2) or (b)(3)(i) of this section.
 
 (c) *Reexport and transfer (in-country).* Distributors, resellers or other entities who are not original manufacturers of encryption commodities and software are permitted to use License Exception ENC only in instances where the reexport or transfer (in-country) meets the applicable terms and conditions of this section. Transfers of encryption items listed in paragraph (b)(2) of this section to “government end users,” or for government end uses, within the same country are prohibited, unless otherwise authorized by license or license exception.
 
@@ -174,9 +174,7 @@ Immediately after the classification request is submitted to BIS in accordance w
 
 (iii) *Changes in encryption functionality following a previous classification.* A new product encryption classification request (under paragraphs (b)(2) or (b)(3) of this section) is required if a change is made to the cryptographic functionality (*e.g.,* algorithms) or other technical characteristics affecting License Exception ENC eligibility (*e.g.,* encrypted throughput) of the originally classified product. However, a new product classification request is not required when a change involves: the subsequent bundling, patches, upgrades or releases of a product; name changes; or changes to a previously reviewed encryption product where the change is limited to updates of encryption software components where the product is otherwise unchanged.
 
-(2) *Action by BIS.*
-
-(i) [Reserved]
+(2) *Action by BIS.* (i) [Reserved]
 
 (ii) *For items requiring classification by BIS under paragraphs (b)(2) and (3) of this section.* (A) For classifications that require a thirty (30-day) waiting period, if BIS has not, within thirty days (30 days) from registration in SNAP-R of your complete classification request, informed you that your item is not authorized for License Exception ENC, you may export, reexport, or transfer (in-country) under the applicable provisions of License Exception ENC.
 
@@ -246,4 +244,4 @@ Immediately after the classification request is submitted to BIS in accordance w
 
 (iv) *File format requirements.* The information described in paragraph (a) of supplement no. 8 to part 742 must be provided to BIS and the ENC Encryption Request Coordinator in tabular or spreadsheet form, as an electronic file in comma separated values format (.csv) adhering to the specifications set forth in paragraph (b) of supplement no. 8 to part 742.
 
-[81 FR 64669, Sept. 20, 2016, as amended at 82 FR 27110, June 14, 2017]
+[81 FR 64669, Sept. 20, 2016, as amended at 82 FR 27110, June 14, 2017; 83 FR 53750, Oct. 24, 2018]

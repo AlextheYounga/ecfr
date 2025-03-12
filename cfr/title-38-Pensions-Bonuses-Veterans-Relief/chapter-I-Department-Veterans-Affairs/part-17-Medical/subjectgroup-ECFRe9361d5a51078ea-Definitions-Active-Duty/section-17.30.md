@@ -1,7 +1,5 @@
 ##### § 17.30 Definitions. #####
 
-Link to an amendment published at 83 FR 48382, Sept. 25, 2018.
-
 When used in Department of Veterans Affairs medical regulations, each of the following terms shall have the meaning ascribed to it in this section:
 
 (a) *Medical services.* The term *medical services* includes, in addition to medical examination, treatment, and rehabilitative services:
@@ -16,6 +14,14 @@ When used in Department of Veterans Affairs medical regulations, each of the fol
 
 (Authority: 38 U.S.C. 1701(6))
 
-(b) *Domiciliary care.* The term *domiciliary care* means the furnishing of a home to a veteran, embracing the furnishing of shelter, food, clothing and other comforts of home, including necessary medical services. The term further includes travel and incidental expenses pursuant to § 70.10 of this chapter.
+(b) *Domiciliary care.* The term domiciliary care -
+
+(1) Means the furnishing of:
+
+(i) A temporary home to a veteran, embracing the furnishing of shelter, food, clothing and other comforts of home, including necessary medical services; or
+
+(ii) A day hospital program consisting of intensive supervised rehabilitation and treatment provided in a therapeutic residential setting for residents with mental health or substance use disorders, and co-occurring medical or psychosocial needs such as homelessness and unemployment.
+
+(2) Includes travel and incidental expenses pursuant to § 70.10.
 
 (Authority: 38 U.S.C. 1701(4))[23 FR 6498, Aug. 22, 1958]Editorial Note:For Federal Register citations affecting § 17.30, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

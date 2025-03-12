@@ -1,0 +1,3 @@
+##### § 9428.1 Purpose & scope. #####
+
+The regulations in this part implement the responsibilities delegated to the Commission under Section 9 of the National Voter Registration Act of 1993, Public Law 103-31, 97 Stat. 77, 42 U.S.C. 1973gg-1 *et seq.* (“NVRA”). They describe the format and contents of the national mail voter registration form and the information that will be required from the states for inclusion in the Commission's biennial report to Congress.

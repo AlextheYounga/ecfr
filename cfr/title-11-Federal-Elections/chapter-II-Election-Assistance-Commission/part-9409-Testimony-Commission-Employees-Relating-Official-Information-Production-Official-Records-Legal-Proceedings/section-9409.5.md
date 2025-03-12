@@ -1,6 +1,6 @@
 ##### § 9409.5 Procedures for demand for testimony or production of documents. #####
 
-(a) A demand directed to the Commission for the testimony of a Commission employee or for the production of documents shall be served in accordance with the Federal Rules of Civil Procedure, Federal Rules of Criminal Procedure, or applicable State procedures and shall be directed to the General Counsel, U.S. Election Assistance Commission, 1201 New York Avenue, NW., Suite 300, Washington, DC 20005. Acceptance of a demand shall not constitute an admission or waiver with respect to jurisdiction, propriety of service, improper venue, or any other defense in law or equity available under the applicable laws or rules.
+(a) A demand directed to the Commission for the testimony of a Commission employee or for the production of documents shall be served in accordance with the Federal Rules of Civil Procedure, Federal Rules of Criminal Procedure, or applicable State procedures and shall be directed to the General Counsel, U.S. Election Assistance Commission, 1335 East-West Highway, Suite 4300, Silver Spring, MD 20910. Acceptance of a demand shall not constitute an admission or waiver with respect to jurisdiction, propriety of service, improper venue, or any other defense in law or equity available under the applicable laws or rules.
 
 (b) If a subpoena is served on the Commission or a Commission employee before submitting a written request and receiving a final determination, the Commission will oppose the subpoena on grounds that the request was not submitted in accordance with this part.
 
@@ -38,4 +38,4 @@
 
 (2) An employee who receives a subpoena shall immediately forward the subpoena to the General Counsel. The General Counsel will determine the manner in which to respond to the subpoena.
 
-[73 FR 54271, Sept. 18, 2008, as amended at 75 FR 49814, Aug. 16, 2010]
+[73 FR 54271, Sept. 18, 2008, as amended at 75 FR 49814, Aug. 16, 2010; 83 FR 53802, Oct. 25, 2018]

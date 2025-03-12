@@ -6,7 +6,7 @@ This License Exception allows the following reexports:
 
 (1) The reexport is made in accordance with the conditions of an export authorization from the government of the reexporting country;
 
-(2) The commodities being reexported are not controlled for NP, CB, MT, SI or CC reasons or described in ECCNs 0A919, 3A001.b.2 or b.3 (except those that are being reexported for use in civil telecommunications applications), 6A002, 6A003, or 6A990; and
+(2) The commodities being reexported are not controlled for NP, CB, MT, SI or CC reasons or described in ECCN 0A919, 3A001.b.2 or b.3 (except those that are being reexported for use in civil telecommunications applications), 6A002, or 6A003; and
 
 (3) The reexport is destined to *either:*
 
@@ -26,7 +26,7 @@ This License Exception allows the following reexports:
 
 (iv) Commodities described in ECCN 0A987 that incorporate an image intensifier tube; or
 
-(v) Commodities described in ECCNs 6A002 or 6A990.
+(v) Commodities described in ECCN 6A002.
 
 (3) Cameras described in ECCNs 6A003 may be exported or reexported to and among countries in Country Group A:1 (see supplement no. 1 to this part) if:
 
@@ -54,4 +54,4 @@ This License Exception allows the following reexports:
 
 (2) Reexports to destinations in Country Group E:2 and Country Group D:2.
 
-[61 FR 12768, Mar. 25, 1996. Redesignated at 61 FR 64274, Dec. 4, 1996. Redesignated at 61 FR 68579, Dec. 30, 1996]Editorial Note:For Federal Register citations affecting § 740.16, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[61 FR 12768, Mar. 25, 1996. Redesignated at 61 FR 64274, Dec. 4, 1996. Redesignated at 61 FR 68579, Dec. 30, 1996]Editorial Note:For Federal Register citations affecting § 740.16, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

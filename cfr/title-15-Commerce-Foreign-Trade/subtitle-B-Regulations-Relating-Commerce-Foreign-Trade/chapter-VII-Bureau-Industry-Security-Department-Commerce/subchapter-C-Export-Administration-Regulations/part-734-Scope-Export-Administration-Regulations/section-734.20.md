@@ -12,7 +12,7 @@ The following activities are not deemed reexports (see “deemed reexport” def
 
 (1) The entity is authorized to receive the “technology” or source code at issue, whether by a license, license exception, or through situations where no license is required under the EAR;
 
-(2) The foreign person is a *bona fide* `permanent and regular employee' of the entity and is not a proscribed person (see § 772.1 for definition of proscribed person);
+(2) The foreign person is a *bona fide* 'permanent and regular employee' of the entity and is not a proscribed person (see § 772.1 for definition of proscribed person);
 
 (3) Such employee is a national exclusively of a country in Country Group A:5; and
 
@@ -22,7 +22,7 @@ The following activities are not deemed reexports (see “deemed reexport” def
 
 (1) The entity is authorized to receive the “technology” or source code at issue, whether by a license, license exception, or situations where no license is required under the EAR;
 
-(2) The foreign person is a *bona fide* `permanent and regular employee' of the entity and is not a proscribed person (see § 772.1 for definition of proscribed person);
+(2) The foreign person is a *bona fide* 'permanent and regular employee' of the entity and is not a proscribed person (see § 772.1 for definition of proscribed person);
 
 (3) The release takes place entirely within the physical territory of the country where the entity is located, conducts official business, or operates, or within the United States;
 

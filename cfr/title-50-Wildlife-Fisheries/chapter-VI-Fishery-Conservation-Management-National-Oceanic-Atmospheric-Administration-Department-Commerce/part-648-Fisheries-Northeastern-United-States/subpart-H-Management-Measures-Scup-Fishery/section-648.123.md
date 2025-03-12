@@ -1,5 +1,7 @@
 ##### § 648.123 Scup accountability measures. #####
 
+Link to an amendment published at 83 FR 53827, Oct. 25, 2018.
+
 (a) *Commercial sector period closures.* The Regional Administrator will monitor the harvest of commercial quota for each quota period based on dealer reports, state data, and other available information and shall determine the date when the commercial quota for a period will be harvested. NMFS shall close the EEZ to fishing for scup by commercial vessels for the remainder of the indicated period by publishing notification in the Federal Register advising that, effective upon a specific date, the commercial quota for that period has been harvested, and notifying vessel and dealer permit holders that no commercial quota is available for landing scup for the remainder of the period.
 
 (1) *Commercial ACL overage evaluation.* The commercial sector ACL will be evaluated based on a single-year examination of total catch (landings and dead discards). Both landings and dead discards will be evaluated in determining if the commercial sector ACL has been exceeded.

@@ -1,6 +1,6 @@
 ##### § 9410.4 Times, places, and requirements for identification of individuals making requests. #####
 
-(a) After being informed by the Commission that a record system contains a record pertaining to him or her, an individual may request that the Commission disclose that record in the manner described in this section. Each request for the disclosure of a record or a copy of a record it shall be made in person or by written correspondence to the U.S. Election Assistance Commission, 1201 New York Avenue, NW., Suite 300, Washington, DC 20005 and to the person identified in the notice describing the systems of records. Requests can also be made by specifically authorized agents or by parents or guardians of individuals.
+(a) After being informed by the Commission that a record system contains a record pertaining to him or her, an individual may request that the Commission disclose that record in the manner described in this section. Each request for the disclosure of a record or a copy of a record it shall be made in person or by written correspondence to the U.S. Election Assistance Commission, 1335 East-West Highway, Suite 4300, Silver Spring, MD 20910 and to the person identified in the notice describing the systems of records. Requests can also be made by specifically authorized agents or by parents or guardians of individuals.
 
 (b) Each individual requesting the disclosure of a record or copy of a record shall furnish the following information with his or her request:
 
@@ -16,4 +16,4 @@
 
 (2) If the request is made in person, the requester shall submit proof of identification similar to that described in paragraph (c)(1) of this section, acceptable to the Commission.
 
-[73 FR 54257, Sept. 18, 2008, as amended at 75 FR 49814, Aug. 16, 2010]
+[73 FR 54257, Sept. 18, 2008, as amended at 75 FR 49814, Aug. 16, 2010; 83 FR 53802, Oct. 25, 2018]

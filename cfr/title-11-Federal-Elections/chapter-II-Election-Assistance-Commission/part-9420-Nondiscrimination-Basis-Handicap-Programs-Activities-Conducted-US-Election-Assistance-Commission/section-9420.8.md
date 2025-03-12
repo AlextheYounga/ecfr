@@ -14,17 +14,17 @@
 
 (2) *Timing of filing of complaint.* All complete complaints must be filed within 180 days of the alleged act of discrimination. The Commission may extend this period for good cause.
 
-(3) Complaints filed under this part shall be addressed to the Rehabilitation Act Officer, U.S. Election Assistance Commission, 1201 New York Avenue, NW., Suite 300, Washington, DC 20005.
+(3) Complaints filed under this part shall be addressed to the Rehabilitation Act Officer, U.S. Election Assistance Commission, 1335 East-West Highway, Suite 4300, Silver Spring, MD 20910.
 
 (e) The Commission will notify the Architectural and Transportation Barriers Compliance Board upon receipt of any complaint alleging that a building or facility that is subject to the Architectural Barriers Act of 1968, as amended (42 U.S.C. 4151-4157), or section 502 of the Rehabilitation Act of 1973, as amended (29 U.S.C. 792), are not readily accessible and usable to handicapped persons.
 
-(f) *Review of complaints* - (1) The Commission will accept and investigate a complete complaint that is filed in accordance with paragraph (d) of this section and over which it has jurisdiction. The Rehabilitation Act Officer will notify the complainant and the respondent of receipt and acceptance of the complaint.
+(f) *Review of complaints*—(1) The Commission will accept and investigate a complete complaint that is filed in accordance with paragraph (d) of this section and over which it has jurisdiction. The Rehabilitation Act Officer will notify the complainant and the respondent of receipt and acceptance of the complaint.
 
 (2) If the Rehabilitation Act Officer receives a complaint that is not complete, he or she will notify the complainant within 30 days of receipt of the incomplete complaint, that additional information is needed. If the complainant fails to complete the complaint within 30 days of receipt of this notice, the Rehabilitation Act Officer will dismiss the complaint without prejudice.
 
 (3) If the Rehabilitation Act Officer receives a complaint over which the Commission does not have jurisdiction, the Commission will promptly notify the complainant and will make reasonable efforts to refer the complaint to the appropriate government entity.
 
-(g) Within 180 days of receipt of a complete complaint for which it has jurisdiction, the Commission will notify the complainant of the results of the investigation in a letter containing -
+(g) Within 180 days of receipt of a complete complaint for which it has jurisdiction, the Commission will notify the complainant of the results of the investigation in a letter containing—
 
 (1) Findings of fact and conclusions of law.
 
@@ -34,7 +34,7 @@
 
 (h) Appeals of the findings of fact and conclusions of law or remedies must be filed by the complainant within 90 days of receipt from the Commission of a letter required by § 9420.9(g). The Commission may extend this time for good cause.
 
-(i) Timely appeals to the Commission shall be addressed to the Rehabilitation Act Officer, U.S. Election Assistance Commission, 1201 New York Avenue, NW., Suite 300, Washington, DC 20005.
+(i) Timely appeals to the Commission shall be addressed to the Rehabilitation Act Officer, U.S. Election Assistance Commission, 1335 East-West Highway, Suite 4300, Silver Spring, MD 20910.
 
 (j) The Commission will notify the complainant of the results of the appeal within 60 days of the receipt of the request. If the Commission determines it needs additional information from the complainant, it shall have 60 days from the date it receives the additional information to make its determination on the appeal.
 
@@ -42,4 +42,4 @@
 
 (l) The Commission may delegate its authority for conducting complaint investigations to other Federal agencies, except that the authority for making the final determination may not be delegated.
 
-[73 FR 54275, Sept. 18, 2008, as amended at 75 FR 49815, Aug. 16, 2010]
+[73 FR 54275, Sept. 18, 2008, as amended at 75 FR 49815, Aug. 16, 2010; 83 FR 53802, Oct. 25, 2018]

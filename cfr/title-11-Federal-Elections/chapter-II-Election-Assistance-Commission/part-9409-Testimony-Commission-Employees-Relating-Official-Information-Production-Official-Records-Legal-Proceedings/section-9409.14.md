@@ -8,8 +8,8 @@
 
 (d) *Payment of fees.* Witness fees shall be paid for current Commission employees and any records certification fees by submitting to the General Counsel a check or money order for the appropriate amount made payable to the Treasury of the United States. In the case of testimony by former Commission employees, applicable fees shall be paid directly to the former employee in accordance with 28 U.S.C. 1821 or other applicable statutes.
 
-(e) *Certification (authentication) of copies of records.* The Commission may certify that records are true copies to facilitate their use as evidence. To obtain certification a request for certified copies shall be made to the Commission at least 45 days before the date the copies will be needed. The request should be sent to the General Counsel, U.S. Election Assistance Commission, 1201 New York Avenue, NW., Suite 300, Washington, DC 20005.
+(e) *Certification (authentication) of copies of records.* The Commission may certify that records are true copies to facilitate their use as evidence. To obtain certification a request for certified copies shall be made to the Commission at least 45 days before the date the copies will be needed. The request should be sent to the General Counsel, U.S. Election Assistance Commission, 1335 East-West Highway, Suite 4300, Silver Spring, MD 20910.
 
 (f) *Waiver or reduction of fees.* The General Counsel, in his or her sole discretion, may, upon a showing of reasonable cause, waive or reduce any fees in connection with the testimony, production, or certification of records.
 
-[73 FR 54271, Sept. 18, 2008, as amended at 75 FR 49814, Aug. 16, 2010]
+[73 FR 54271, Sept. 18, 2008, as amended at 75 FR 49814, Aug. 16, 2010; 83 FR 53802, Oct. 25, 2018]
