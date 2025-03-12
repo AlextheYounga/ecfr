@@ -1,6 +1,6 @@
 ##### § 61.58 Pilot-in-command proficiency check: Operation of an aircraft that requires more than one pilot flight crewmember or is turbojet-powered. #####
 
-(a) Except as otherwise provided in this section, to serve as pilot in command of an aircraft that is type certificated for more than one required pilot flight crewmember or is turbojet-powered, a person must -
+(a) Except as otherwise provided in this section, to serve as pilot in command of an aircraft that is type certificated for more than one required pilot flight crewmember or is turbojet-powered, a person must—
 
 (1) Within the preceding 12 calendar months, complete a pilot-in-command proficiency check in an aircraft that is type certificated for more than one required pilot flight crewmember or is turbojet-powered; and
 
@@ -38,19 +38,19 @@
 
 (g) A check or test described in paragraphs (d)(1) through (5) of this section may be accomplished in a flight simulator under part 142 of this chapter, subject to the following:
 
-(1) Except as provided for in paragraphs (g)(2) and (3) of this section, if an otherwise qualified and approved flight simulator used for a pilot-in-command proficiency check is not qualified and approved for a specific required maneuver -
+(1) Except as provided for in paragraphs (g)(2) and (3) of this section, if an otherwise qualified and approved flight simulator used for a pilot-in-command proficiency check is not qualified and approved for a specific required maneuver—
 
 (i) The training center must annotate, in the applicant's training record, the maneuver or maneuvers omitted; and
 
 (ii) Prior to acting as pilot in command, the pilot must demonstrate proficiency in each omitted maneuver in an aircraft or flight simulator qualified and approved for each omitted maneuver.
 
-(2) If the flight simulator used pursuant to paragraph (g) of this section is not qualified and approved for circling approaches -
+(2) If the flight simulator used pursuant to paragraph (g) of this section is not qualified and approved for circling approaches—
 
 (i) The applicant's record must include the statement, “Proficiency in circling approaches not demonstrated”; and
 
 (ii) The applicant may not perform circling approaches as pilot in command when weather conditions are less than the basic VFR conditions described in § 91.155 of this chapter, until proficiency in circling approaches has been successfully demonstrated in a flight simulator qualified and approved for circling approaches or in an aircraft to a person authorized by the Administrator to conduct the check required by this section.
 
-(3) If the flight simulator used pursuant to paragraph (g) of this section is not qualified and approved for landings, the applicant must -
+(3) If the flight simulator used pursuant to paragraph (g) of this section is not qualified and approved for landings, the applicant must—
 
 (i) Hold a type rating in the airplane represented by the simulator; and
 
@@ -60,8 +60,4 @@
 
 (i) If a pilot takes the pilot-in-command proficiency check required by this section in the calendar month before or the calendar month after the month in which it is due, the pilot is considered to have taken it in the month in which it was due for the purpose of computing when the next pilot-in-command proficiency check is due.
 
-(j) A pilot-in-command of a turbojet powered aircraft that is type certificated for one pilot does not have to comply with the pilot-in-command proficiency check requirements in paragraphs (a)(1) and (a)(2) of this section until October 31, 2012.
-
-(k) Unless required by the aircraft's operating limitations, a pilot-in-command of an experimental turbojet-powered aircraft does not have to comply with the pilot-in-command proficiency check requirements in paragraphs (a)(1) and (a)(2) of this section until October 31, 2012.
-
-[Doc. No. 25910, 62 FR 40899, July 30, 1997, as amended by Amdt. 61-109, 68 FR 54559, Sept. 17, 2003; Amdt. 61-112, 70 FR 54814, Sept. 16, 2005; Amdt. 61-128, 76 FR 54106, Aug. 31, 2011; 76 FR 63184, Oct. 12, 2011]
+[Doc. No. 25910, 62 FR 40899, July 30, 1997, as amended by Amdt. 61-109, 68 FR 54559, Sept. 17, 2003; Amdt. 61-112, 70 FR 54814, Sept. 16, 2005; Amdt. 61-128, 76 FR 54106, Aug. 31, 2011; 76 FR 63184, Oct. 12, 2011; Docket No. FAA-2022-1355, Amdt. No. 61-151, 87 FR 75845, Dec. 9, 2022]

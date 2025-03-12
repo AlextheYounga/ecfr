@@ -1,6 +1,6 @@
 ##### § 91.1001 Applicability. #####
 
-(a) This subpart prescribes rules, in addition to those prescribed in other subparts of this part, that apply to fractional owners and fractional ownership program managers governing -
+(a) This subpart prescribes rules, in addition to those prescribed in other subparts of this part, that apply to fractional owners and fractional ownership program managers governing—
 
 (1) The provision of program management services in a fractional ownership program;
 
@@ -8,7 +8,7 @@
 
 (3) The operation of a program aircraft included in a fractional ownership program managed by an affiliate of the manager of the program to which the owner belongs.
 
-(b) As used in this part -
+(b) As used in this part—
 
 (1) *Affiliate of a program manager* means a manager that, directly, or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, another program manager. The holding of at least forty percent (40 percent) of the equity and forty percent (40 percent) of the voting power of an entity will be presumed to constitute control for purposes of determining an affiliation under this subpart.
 
@@ -46,7 +46,7 @@
 
 (7) A *Fractional Ownership Program Flight or Program Flight* means a flight under this subpart when one or more passengers or property designated by a fractional owner are on board the aircraft.
 
-(8) *Fractional ownership program management services or program management services* mean administrative and aviation support services furnished in accordance with the applicable requirements of this subpart or provided by the program manager on behalf of the fractional owners, including, but not limited to, the -
+(8) *Fractional ownership program management services or program management services* mean administrative and aviation support services furnished in accordance with the applicable requirements of this subpart or provided by the program manager on behalf of the fractional owners, including, but not limited to, the—
 
 (i) Establishment and implementation of program safety guidelines;
 
@@ -64,12 +64,14 @@
 
 (viii) Application for and maintenance of management specifications and other authorizations and approvals.
 
-(9) A *fractional ownership program manager or program manager* means the entity that offers fractional ownership program management services to fractional owners, and is designated in the multi-year program agreements referenced in paragraph (b)(1)(v) of this section to fulfill the requirements of this chapter applicable to the manager of the program containing the aircraft being flown. When a fractional owner is operating an aircraft in a fractional ownership program managed by an affiliate of the owner's program manager, the references in this subpart to the flight-related responsibilities of the program manager apply, with respect to that particular flight, to the affiliate of the owner's program manager rather than to the owner's program manager.
+(9) A *fractional ownership program manager or program manager* means the entity that offers fractional ownership program management services to fractional owners, and is designated in the multi-year program agreements referenced in paragraph (b)(5)(vi) of this section to fulfill the requirements of this chapter applicable to the manager of the program containing the aircraft being flown. When a fractional owner is operating an aircraft in a fractional ownership program managed by an affiliate of the owner's program manager, the references in this subpart to the flight-related responsibilities of the program manager apply, with respect to that particular flight, to the affiliate of the owner's program manager rather than to the owner's program manager.
 
-(10) A *minimum fractional ownership interest* means -
+(10) A *minimum fractional ownership interest* means—
 
 (i) A fractional ownership interest equal to, or greater than, one-sixteenth (1/16) of at least one subsonic, fixed-wing or powered-lift program aircraft; or
 
 (ii) A fractional ownership interest equal to, or greater than, one-thirty-second (1/32) of at least one rotorcraft program aircraft.
 
 (c) The rules in this subpart that refer to a fractional owner or a fractional ownership program manager also apply to any person who engages in an operation governed by this subpart without the management specifications required by this subpart.
+
+[Docket No. FAA-2001-10047, 68 FR 54561, Sept. 17, 2003, as amended by Docket No. FAA-2022-1355, Amdt. No. 91-366, 87 FR 75846, Dec. 9, 2022]

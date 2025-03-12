@@ -1,6 +1,6 @@
 ##### § 91.609 Flight data recorders and cockpit voice recorders. #####
 
-(a) No holder of an air carrier operating certificate or an operating certificate may conduct any operation under this part with an aircraft listed in the holder's operations specifications or current list of aircraft used in air transportation unless that aircraft complies with any applicable flight recorder and cockpit voice recorder requirements of the part under which its certificate is issued except that the operator may -
+(a) No holder of an air carrier operating certificate or an operating certificate may conduct any operation under this part with an aircraft listed in the holder's operations specifications or current list of aircraft used in air transportation unless that aircraft complies with any applicable flight recorder and cockpit voice recorder requirements of the part under which its certificate is issued except that the operator may—
 
 (1) Ferry an aircraft with an inoperative flight recorder or cockpit voice recorder from a place where repair or replacement cannot be made to a place where they can be made;
 
@@ -10,7 +10,7 @@
 
 (4) Ferry a newly acquired aircraft from the place where possession of it is taken to a place where the flight recorder or cockpit voice recorder is to be installed.
 
-(b) Notwithstanding paragraphs (c) and (e) of this section, an operator other than the holder of an air carrier or a commercial operator certificate may -
+(b) Notwithstanding paragraphs (c) and (e) of this section, an operator other than the holder of an air carrier or a commercial operator certificate may—
 
 (1) Ferry an aircraft with an inoperative flight recorder or cockpit voice recorder from a place where repair or replacement cannot be made to a place where they can be made;
 
@@ -42,15 +42,15 @@
 
 (f) In complying with this section, an approved cockpit voice recorder having an erasure feature may be used, so that at any time during the operation of the recorder, information recorded more than 15 minutes earlier may be erased or otherwise obliterated.
 
-(g) In the event of an accident or occurrence requiring immediate notification to the National Transportation Safety Board under part 830 of its regulations that results in the termination of the flight, any operator who has installed approved flight recorders and approved cockpit voice recorders shall keep the recorded information for at least 60 days or, if requested by the Administrator or the Board, for a longer period. Information obtained from the record is used to assist in determining the cause of accidents or occurrences in connection with the investigation under part 830. The Administrator does not use the cockpit voice recorder record in any civil penalty or certificate action.
+(g) In the event of an accident or occurrence requiring immediate notification to the National Transportation Safety Board under 49 CFR part 830 of its regulations that results in the termination of the flight, any operator who has installed approved flight recorders and approved cockpit voice recorders shall keep the recorded information for at least 60 days or, if requested by the Administrator or the Board, for a longer period. Information obtained from the record is used to assist in determining the cause of accidents or occurrences in connection with the investigation under 49 CFR part 830. The Administrator does not use the cockpit voice recorder record in any civil penalty or certificate action.
 
-(h) All airplanes required by this section to have a cockpit voice recorder and a flight data recorder, that are manufactured before April 7, 2010, must by April 7, 2012, have a cockpit voice recorder that also -
+(h) All airplanes required by this section to have a cockpit voice recorder and a flight data recorder, that are manufactured before April 7, 2010, must by April 7, 2012, have a cockpit voice recorder that also—
 
 (1) Meets the requirements of § 23.1457(d)(6) or § 25.1457(d)(6) of this chapter, as applicable; and
 
 (2) If transport category, meets the requirements of § 25.1457(a)(3), (a)(4), and (a)(5) of this chapter.
 
-(i) All airplanes or rotorcraft required by this section to have a cockpit voice recorder and flight data recorder, that are manufactured on or after April 7, 2010, must have a cockpit voice recorder installed that also -
+(i) All airplanes or rotorcraft required by this section to have a cockpit voice recorder and flight data recorder, that are manufactured on or after April 7, 2010, must have a cockpit voice recorder installed that also—
 
 (1) Is installed in accordance with the requirements of § 23.1457 (except for paragraphs (a)(6) and (d)(5)); § 25.1457 (except for paragraphs (a)(6) and (d)(5)); § 27.1457 (except for paragraphs (a)(6) and (d)(5)); or § 29.1457 (except for paragraphs (a)(6) and (d)(5)) of this chapter, as applicable; and
 
@@ -62,4 +62,4 @@
 
 (k) An aircraft operated under this part under deviation authority from part 125 of this chapter must comply with all of the applicable flight data recorder requirements of part 125 applicable to the aircraft, notwithstanding such deviation authority.
 
-[Doc. No. 18334, 54 FR 34318, Aug. 18, 1989, as amended by Amdt. 91-226, 56 FR 51621, Oct. 11, 1991; Amdt. 91-228, 57 FR 19353, May 5, 1992; Amdt. 91-300, 73 FR 12564, Mar. 7, 2008; Amdt. 91-304, 73 FR 73178, Dec. 2, 2008; Amdt. 91-300, 74 FR 32800, July 9, 2009; Amdt. 91-313, 75 FR 17045, Apr. 5, 2010]
+[Doc. No. 18334, 54 FR 34318, Aug. 18, 1989, as amended by Amdt. 91-226, 56 FR 51621, Oct. 11, 1991; Amdt. 91-228, 57 FR 19353, May 5, 1992; Amdt. 91-300, 73 FR 12564, Mar. 7, 2008; Amdt. 91-304, 73 FR 73178, Dec. 2, 2008; Amdt. 91-300, 74 FR 32800, July 9, 2009; Amdt. 91-313, 75 FR 17045, Apr. 5, 2010; Docket No. FAA-2022-1355, Amdt. No. 91-366, 87 FR 75846, Dec. 9, 2022]

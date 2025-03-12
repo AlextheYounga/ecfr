@@ -1,5 +1,7 @@
 ##### § 648.202 Season and area restrictions. #####
 
+Link to an amendment published at 87 FR 75890, Dec. 9, 2022.
+
 (a) *Midwater Trawl Restricted Areas.* (1) *Area 1A.* Federally permitted vessels fishing may not use, deploy, or fish with midwater trawl gear in Area 1A from June 1 September 30 of each fishing year. A vessel with midwater trawl gear on board may transit Area 1A from June 1-September 30, provided such midwater trawl gear is stowed and not available for immediate use as defined in § 648.2. Vessels may use any authorized gear type to harvest herring in Area 1A from October 1-May 31.
 
 (2) *Inshore.* Federally permitted vessels may not use, deploy, or fish with midwater trawl gear within the inshore midwater trawl restricted area. A federally permitted vessel with midwater trawl gear on board may transit the inshore midwater trawl restricted area, provided such midwater trawl gear is stowed and not available for immediate use as defined in § 648.2. Vessels on a declared research set-aside trip are permitted to use, deploy, or fish with midwater trawl gear within the inshore midwater trawl restricted areas provided the vessel is operating as authorized by an exempted fishing permit. The Inshore Midwater Trawl Restricted Area includes all state and Federal waters between the U.S. coastline and the following points, connected in the order listed by straight lines, unless otherwise noted:

@@ -1,5 +1,7 @@
 ##### § 648.85 Special management programs. #####
 
+Link to an amendment published at 87 FR 75887, Dec. 9, 2022.
+
 (a) *U.S./Canada Resource Sharing Understanding.* No NE multispecies fishing vessel, or person on such vessel, may enter, fish in, or be in the U.S./Canada Resource Sharing Understanding Management Areas (U.S./Canada Management Areas), as defined in paragraph (a)(1) of this section, unless the vessel is fishing in accordance with the restrictions and conditions of this section. These restrictions do not preclude fishing under an approved Special Access Program specified under paragraph (b) of this section.
 
 (1) *U.S./Canada Management Areas.* A vessel issued a NE multispecies permit that meets the requirements of paragraph (a)(3) of this section may fish in the U.S./Canada Management Areas described in paragraphs (a)(1)(i) and (ii) of this section.

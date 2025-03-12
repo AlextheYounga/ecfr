@@ -1,6 +1,6 @@
 ##### § 91.511 Communication and navigation equipment for overwater operations. #####
 
-(a) Except as provided in paragraphs (c), (d), and (f) of this section, no person may take off an airplane for a flight over water more than 30 minutes flying time or 100 nautical miles from the nearest shore unless it has at least the following operable equipment:
+(a) Except as provided in paragraphs (c), (d), and (f) of this section, no person operating under this subpart may take off an airplane for a flight over water more than 30 minutes flying time or 100 nautical miles from the nearest shore unless it has at least the following operable equipment:
 
 (1) Radio communication equipment appropriate to the facilities to be used and able to transmit to, and receive from, at least one communication facility from any place along the route:
 
@@ -28,4 +28,4 @@
 
 (2) Flight conditions and the aircraft's capabilities are such that no more than a 30-minute gap in two-way radio very high frequency communications is expected to exist.
 
-[Doc. No. 18334, 54 FR 34314, Aug. 18, 1989, as amended by Amdt. 91-249, 61 FR 7190, Feb. 26, 1996; Amdt. 91-296, 72 FR 31679, June 7, 2007]
+[Doc. No. 18334, 54 FR 34314, Aug. 18, 1989, as amended by Amdt. 91-249, 61 FR 7190, Feb. 26, 1996; Amdt. 91-296, 72 FR 31679, June 7, 2007; Docket No. FAA-2022-1355, Amdt. No. 91-366, 87 FR 75846, Dec. 9, 2022]

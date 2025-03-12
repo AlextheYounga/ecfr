@@ -20,9 +20,9 @@ Note:
 
 (i) Section 33.68 of this chapter in effect on January 5, 2015, or as subsequently amended; or
 
-(ii) Section 33.68 of this chapter in effect on February 23, 1984, or as subsequently amended before January 5, 2015, unless that engine's ice accumulation service history has resulted in an unsafe condition; or
+(ii) Section 33.68 of this chapter in effect on March 26, 1984, or as subsequently amended before January 5, 2015, unless that engine's ice accumulation service history has resulted in an unsafe condition; or
 
-(iii) Section 33.68 of this chapter in effect on October 1, 1974, or as subsequently amended prior to February 23, 1984, unless that engine's ice accumulation service history has resulted in an unsafe condition; or
+(iii) Section 33.68 of this chapter in effect on October 31, 1974, or as subsequently amended prior to February 23, 1984, unless that engine's ice accumulation service history has resulted in an unsafe condition; or
 
 (iv) Be shown to have an ice accumulation service history in similar installation locations which has not resulted in any unsafe conditions.
 
@@ -48,4 +48,4 @@ Note:
 
 (f) *Auxiliary Power Unit.* Each auxiliary power unit must be approved or meet the requirements of the category for its intended use.
 
-[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-23, 35 FR 5676, Apr. 8, 1970; Amdt. 25-40, 42 FR 15042, Mar. 17, 1977; Amdt. 25-57, 49 FR 6848, Feb. 23, 1984; Amdt. 25-72, 55 FR 29784, July 20, 1990; Amdt. 25-73, 55 FR 32861, Aug. 10, 1990; Amdt. 25-94, 63 FR 8848, Feb. 23, 1998; Amdt. 25-95, 63 FR 14798, Mar. 26, 1998; Amdt. 25-100, 65 FR 55854, Sept. 14, 2000; Amdt. 25-140, 79 FR 65525, Nov. 4, 2014]
+[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-23, 35 FR 5676, Apr. 8, 1970; Amdt. 25-40, 42 FR 15042, Mar. 17, 1977; Amdt. 25-57, 49 FR 6848, Feb. 23, 1984; Amdt. 25-72, 55 FR 29784, July 20, 1990; Amdt. 25-73, 55 FR 32861, Aug. 10, 1990; Amdt. 25-94, 63 FR 8848, Feb. 23, 1998; Amdt. 25-95, 63 FR 14798, Mar. 26, 1998; Amdt. 25-100, 65 FR 55854, Sept. 14, 2000; Amdt. 25-140, 79 FR 65525, Nov. 4, 2014; Amdt. No. 25-146, 87 FR 75710, Dec. 9, 2022]

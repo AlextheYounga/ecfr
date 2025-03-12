@@ -10,11 +10,7 @@
 
 (4) The location where the records required by paragraph (e) of this section will be maintained.
 
-(b) For the purposes of registration, an aircraft is based and primarily used in the United States if the flight hours accumulated within the United States amount to at least 60 percent of the total flight hours of the aircraft during -
-
-(1) For aircraft registered on or before January 1, 1980, the 6-calendar month period beginning on January 1, 1980, and each 6-calendar month period thereafter; and
-
-(2) For aircraft registered after January 1, 1980, the period consisting in the remainder of the registration month and the succeeding 6 calendar months and each 6-calendar month period thereafter.
+(b) For the purposes of registration, an aircraft is based and primarily used in the United States if the flight hours accumulated within the United States amount to at least 60 percent of the total flight hours of the aircraft during the period consisting in the remainder of the registration month and the succeeding 6 calendar months and each 6 calendar month period thereafter.
 
 (c) For the purpose of this section, only those flight hours accumulated during non-stop (except for stops in emergencies or for purposes of refueling) flight between two points in the United States, even if the aircraft is outside of the United States during part of the flight, are considered flight hours accumulated within the United States.
 
@@ -32,4 +28,4 @@
 
 (2) A signed statement that the total flight hours of the aircraft, while registered in the United States during that period, have been exclusively within the United States.
 
-[Amdt. 47-20, 44 FR 61940, Oct. 29, 1979, as amended by Amdt. 47-24, 54 FR 34330, Aug. 18, 1989; Amdt. 47-27, 70 FR 245, Jan. 3, 2005; Amdt. 47-29, 75 FR 41979, July 20, 2010]
+[Amdt. 47-20, 44 FR 61940, Oct. 29, 1979, as amended by Amdt. 47-24, 54 FR 34330, Aug. 18, 1989; Amdt. 47-27, 70 FR 245, Jan. 3, 2005; Amdt. 47-29, 75 FR 41979, July 20, 2010; Amdt. No. 47-32, 87 FR 75711, Dec. 9, 2022]

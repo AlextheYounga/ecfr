@@ -1,5 +1,7 @@
 ##### § 648.86 NE Multispecies possession restrictions. #####
 
+Link to an amendment published at 87 FR 75887, Dec. 9, 2022.
+
 Except as provided in § 648.17 or elsewhere in this part, the following possession restrictions apply:
 
 (a) *Haddock* - (1) *NE multispecies common pool vessels.* Haddock possession restrictions for such vessels may be implemented through Regional Administrator authority, as specified in paragraph (r) of this section.

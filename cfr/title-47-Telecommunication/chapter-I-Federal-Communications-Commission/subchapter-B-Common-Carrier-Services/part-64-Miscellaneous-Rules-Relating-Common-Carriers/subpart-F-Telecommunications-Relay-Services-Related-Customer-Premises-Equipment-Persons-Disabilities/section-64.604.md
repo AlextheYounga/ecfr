@@ -1,6 +1,6 @@
 ##### § 64.604 Mandatory minimum standards. #####
 
-Link to an amendment published at 87 FR 72412, Nov. 25, 2022.
+Link to an amendment published at 87 FR 72412, Nov. 25, 2022.Link to an amendment published at 87 FR 75513, Dec. 9, 2022.
 
 The standards in this section are applicable December 18, 2000, except as stated in paragraphs (c)(2) and (c)(7) of this section.
 

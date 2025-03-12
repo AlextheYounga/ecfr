@@ -10,8 +10,8 @@
 
 (1) The lateral displacement of the c.g. results from random passenger or cargo disposition within the fuselage or from random unsymmetrical fuel loading or fuel usage; and
 
-(2) Appropriate loading instructions for random disposable loads are included under the provisions of § 25.1583(c)(1) to ensure that the lateral displacement of the center of gravity is maintained within these limits.
+(2) Appropriate loading instructions for random disposable loads are included under the provisions of § 25.1583(c)(2) to ensure that the lateral displacement of the center of gravity is maintained within these limits.
 
 (c) *Landing gear dimension data.* Figure 1 of appendix A contains the basic landing gear dimension data.
 
-[Amdt. 25-23, 35 FR 5673, Apr. 8, 1970]
+[Amdt. 25-23, 35 FR 5673, Apr. 8, 1970, as amended by Doc. No. FAA-2022-1355, Amdt. 25-146, 87 FR 75710, Dec. 9, 2022]

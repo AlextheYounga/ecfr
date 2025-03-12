@@ -1,8 +1,8 @@
 ##### § 67.409 Denial of medical certificate. #####
 
-(a) Any person who is denied a medical certificate by an aviation medical examiner may, within 30 days after the date of the denial, apply in writing and in duplicate to the Federal Air Surgeon, Attention: Manager, Aeromedical Certification Division, AAM-300, Federal Aviation Administration, P.O. Box 26080, Oklahoma City, Oklahoma 73126, for reconsideration of that denial. If the person does not ask for reconsideration during the 30-day period after the date of the denial, he or she is considered to have withdrawn the application for a medical certificate.
+(a) Any person who is denied a medical certificate by an aviation medical examiner may, within 30 days after the date of the denial, apply in writing to the Federal Air Surgeon, Attention: Manager, Aeromedical Certification Division, AAM-300, Federal Aviation Administration, P.O. Box 25082, Oklahoma City, Oklahoma 73126, for reconsideration of that denial. If the person does not ask for reconsideration during the 30-day period after the date of the denial, he or she is considered to have withdrawn the application for a medical certificate.
 
-(b) The denial of a medical certificate -
+(b) The denial of a medical certificate—
 
 (1) By an aviation medical examiner is not a denial by the Administrator under 49 U.S.C. 44703.
 
@@ -13,3 +13,5 @@
 (c) Any action taken under § 67.407(c) that wholly or partly reverses the issue of a medical certificate by an aviation medical examiner is the denial of a medical certificate under paragraph (b) of this section.
 
 (d) If the issue of a medical certificate is wholly or partly reversed by the Federal Air Surgeon; the Manager, Aeromedical Certification Division; or a Regional Flight Surgeon, the person holding that certificate shall surrender it, upon request of the FAA.
+
+[Docket No. 27940, 61 FR 11256, Mar. 19, 1996, as amended by Docket No. FAA-2022-1355, Amdt. No. 67-22, 87 FR 75845, Dec. 9, 2022

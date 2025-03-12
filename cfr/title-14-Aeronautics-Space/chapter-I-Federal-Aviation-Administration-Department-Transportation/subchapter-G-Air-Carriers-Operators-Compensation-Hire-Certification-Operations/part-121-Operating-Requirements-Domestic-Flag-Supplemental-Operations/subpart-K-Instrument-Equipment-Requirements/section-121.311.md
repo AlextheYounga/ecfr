@@ -1,6 +1,6 @@
 ##### § 121.311 Seats, safety belts, and shoulder harnesses. #####
 
-(a) No person may operate an airplane unless there are available during the takeoff, en route flight, and landing -
+(a) No person may operate an airplane unless there are available during the takeoff, en route flight, and landing—
 
 (1) An approved seat or berth for each person on board the airplane who has reached his second birthday; and
 
@@ -24,7 +24,7 @@
 
 (*2*) “THIS RESTRAINT IS CERTIFIED FOR USE IN MOTOR VEHICLES AND AIRCRAFT” in red lettering;
 
-(C) Seats that do not qualify under paragraphs (B)(2)(ii)(A) and (b)(2)(ii)(B) of this section must bear a label or markings showing:
+(C) Seats that do not qualify under paragraphs (b)(2)(ii)(A) and (b)(2)(ii)(B) of this section must bear a label or markings showing:
 
 (*1*) That the seat was approved by a foreign government;
 
@@ -48,7 +48,7 @@
 
 (1) Except as provided in § 121.311(b)(2)(ii)(C)(*3*) and § 121.311(b)(2)(ii)(C)(*4*), no certificate holder may permit a child, in an aircraft, to occupy a booster-type child restraint system, a vest-type child restraint system, a harness-type child restraint system, or a lap held child restraint system during take off, landing, and movement on the surface.
 
-(2) Except as required in paragraph (c)(1) of this section, no certificate holder may prohibit a child, if requested by the child's parent, guardian, or designated attendant, from occupying a child restraint system furnished by the child's parent, guardian, or designated attendant provided -
+(2) Except as required in paragraph (c)(1) of this section, no certificate holder may prohibit a child, if requested by the child's parent, guardian, or designated attendant, from occupying a child restraint system furnished by the child's parent, guardian, or designated attendant provided—
 
 (i) The child holds a ticket for an approved seat or berth or such seat or berth is otherwise made available by the certificate holder for the child's use;
 
@@ -70,13 +70,13 @@
 
 (3) On airplanes with no flight attendant, the certificate holder may take off or land as long as the flightcrew instructs each passenger to place his or her seat back in the upright position for takeoff and landing.
 
-(f) No person may operate a transport category airplane that was type certificated after January 1, 1958, or a nontransport category airplane manufactured after March 20, 1997, unless it is equipped at each flight deck station with a combined safety belt and shoulder harness that meets the applicable requirements specified in § 25.785 of this chapter, effective March 6, 1980, except that -
+(f) No person may operate a transport category airplane that was type certificated after January 1, 1958, or a nontransport category airplane manufactured after March 20, 1997, unless it is equipped at each flight deck station with a combined safety belt and shoulder harness that meets the applicable requirements specified in § 25.785 of this chapter, effective March 6, 1980, except that—
 
 (1) Shoulder harnesses and combined safety belt and shoulder harnesses that were approved and installed before March 6, 1980, may continue to be used; and
 
 (2) Safety belt and shoulder harness restraint systems may be designed to the inertia load factors established under the certification basis of the airplane.
 
-(g) Each flight attendant must have a seat for takeoff and landing in the passenger compartment that meets the requirements of § 25.785 of this chapter, effective March 6, 1980, except that -
+(g) Each flight attendant must have a seat for takeoff and landing in the passenger compartment that meets the requirements of § 25.785 of this chapter, effective March 6, 1980, except that—
 
 (1) Combined safety belt and shoulder harnesses that were approved and installed before March, 6, 1980, may continue to be used; and
 

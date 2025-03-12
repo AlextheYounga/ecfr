@@ -8,7 +8,7 @@
 
 (c) *Bow loading.* The resultant limit load must be applied in the plane of symmetry of the float at a point one-fourth of the distance from the bow to the step and must be perpendicular to the tangent to the keel line at that point. The magnitude of the resultant load is that specified in paragraph (b) of this section.
 
-(d) *Unsymmetrical step loading.* The resultant water load consists of a component equal to 0.75 times the load specified in paragraph (a) of this section and a side component equal to 3.25 tan β times the load specified in paragraph (b) of this section. The side load must be applied perpendicularly to the plane of symmetry of the float at a point midway between the keel and the chine.
+(d) *Unsymmetrical step loading.* The resultant water load consists of a component equal to 0.75 times the load specified in paragraph (a) of this section and a side component equal to 0.25 tan β times the load specified in paragraph (b) of this section. The side load must be applied perpendicularly to the plane of symmetry of the float at a point midway between the keel and the chine.
 
 (e) *Unsymmetrical bow loading.* The resultant water load consists of a component equal to 0.75 times the load specified in paragraph (b) of this section and a side component equal to 0.25 tan β times the load specified in paragraph (c) of this section. The side load must be applied perpendicularly to the plane of symmetry at a point midway between the keel and the chine.
 
@@ -18,4 +18,4 @@
 
 (g) *Float bottom pressures.* The float bottom pressures must be established under § 25.533, except that the value of K2 in the formulae may be taken as 1.0. The angle of dead rise to be used in determining the float bottom pressures is set forth in paragraph (b) of this section.
 
-[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-23, 35 FR 5673, Apr. 8, 1970]
+[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-23, 35 FR 5673, Apr. 8, 1970; Amdt. 25-146, 87 FR 75710, Dec. 9, 2022]

@@ -2,6 +2,10 @@
 
 (a) The United States pays successful covered claims (including reasonable expenses of litigation or settlement) of a third party against a licensee, a customer, and the contractors and subcontractors of the licensee and the customer, and the employees of each involved in licensed activities, and the contractors and subcontractors of the United States and its agencies, and their employees, involved in licensed activities to the extent provided in an appropriation law or other legislative authority providing for payment of claims in accordance with 51 U.S.C. 50915, and to the extent the total amount of such covered claims arising out of any particular launch or reentry:
 
+(1) Exceeds the amount of insurance required under § 440.9(b); and
+
+(2) Is not more than $1,500,000,000 (as adjusted for inflation occurring after January 1, 1989) above that amount.
+
 (b) Payment by the United States under paragraph (a) of this section shall not be made for any part of such claims for which bodily injury or property damage results from willful misconduct by the party seeking payment.
 
 (c) The United States shall provide for payment of claims by third parties for bodily injury or property damage that are payable under 49 U.S.C. 70113 and not covered by required insurance under § 440.9(b), without regard to the limitation under paragraph (a)(1) of this section, because of an insurance policy exclusion that is usual. A policy exclusion is considered usual only if insurance covering the excluded risk is not commercially available at reasonable rates. The licensee must submit a certification in accordance with § 440.15(c)(1)(iii) of this part for the United States to cover the claims.
@@ -28,4 +32,4 @@
 
 (g) The FAA may withhold payment of a claim if it finds that the amount is unreasonable, unless it is the final order of a court that has jurisdiction over the matter.
 
-[Doc. No. FAA-2005-23449, 71 FR 75632, Dec. 15, 2006, as amended by Amdt. 440-3, 77 FR 20534, Apr. 5, 2012]
+[Doc. No. FAA-2005-23449, 71 FR 75632, Dec. 15, 2006, as amended by Amdt. 440-3, 77 FR 20534, Apr. 5, 2012; Amdt. 440-6, 87 FR 75849, Dec. 9, 2022]

@@ -14,10 +14,12 @@
 
 (1) The FSTD successfully passes an evaluation:
 
-(i) For initial qualification, in accordance with §§ 60.15 and 60.17(c) in those circumstances where the NSPM has determined that a full evaluation for initial qualification is necessary; or
+(i) For initial qualification, in accordance with §§ 60.15 and 60.17(c) in those circumstances where the responsible Flight Standards office has determined that a full evaluation for initial qualification is necessary; or
 
-(ii) For those elements of an evaluation for initial qualification, in accordance with §§ 60.15 and 60.17(c), as determined to be necessary by the NSPM.
+(ii) For those elements of an evaluation for initial qualification, in accordance with §§ 60.15 and 60.17(c), as determined to be necessary by the responsible Flight Standards office.
 
-(2) The NSPM advises the sponsor that an evaluation is not necessary.
+(2) The responsible Flight Standards office advises the sponsor that an evaluation is not necessary.
 
-(c) In making the determinations described in paragraph (b) of this section, the NSPM considers factors including the number of continuing qualification evaluations missed, the number of sponsor-conducted quarterly inspections missed, and the care that had been taken of the device since the last evaluation.
+(c) In making the determinations described in paragraph (b) of this section, the responsible Flight Standards office considers factors including the number of continuing qualification evaluations missed, the number of sponsor-conducted quarterly inspections missed, and the care that had been taken of the device since the last evaluation.
+
+[Docket No. FAA-2002-12461, 71 FR 63426, Oct. 30, 2006, as amended by Docket No. FAA-2022-1355, Amdt. No. 60-7, 87 FR 75711, Dec. 9, 2022]

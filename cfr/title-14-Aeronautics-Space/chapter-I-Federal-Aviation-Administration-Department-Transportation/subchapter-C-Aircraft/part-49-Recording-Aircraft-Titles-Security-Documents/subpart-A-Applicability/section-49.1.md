@@ -1,10 +1,10 @@
 ##### § 49.1 Applicability. #####
 
-(a) This part applies to the recording of certain conveyances affecting title to, or any interest in -
+(a) This part applies to the recording of certain conveyances affecting title to, or any interest in—
 
 (1) Any aircraft registered under 49 U.S.C. 44101-44104;
 
-(2) Any specifically identified aircraft engine of 750 or more rated takeoff horsepower, or the equivalent of that horsepower;
+(2) Any specifically identified aircraft engine of 550 or more rated takeoff horsepower, or the equivalent of that horsepower;
 
 (3) Any specifically identified aircraft propeller able to absorb 750 or more rated takeoff shaft horsepower; and
 
@@ -12,4 +12,4 @@
 
 (b) Subpart B of this part governs, where applicable by its terms, conveyances subject to this part.
 
-[Doc. No. 1996, 29 FR 6486, May 19, 1964, as amended by Amdt. 49-10, 70 FR 246, Jan. 3, 2005]
+[Doc. No. 1996, 29 FR 6486, May 19, 1964, as amended by Amdt. 49-10, 70 FR 246, Jan. 3, 2005; Amdt. No. 49-11, 87 FR 75711, Dec. 9, 2022]

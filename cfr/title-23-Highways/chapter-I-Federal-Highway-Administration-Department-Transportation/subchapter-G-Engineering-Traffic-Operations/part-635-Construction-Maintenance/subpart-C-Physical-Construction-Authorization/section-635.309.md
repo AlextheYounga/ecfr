@@ -1,7 +1,5 @@
 ##### § 635.309 Authorization. #####
 
-Link to an amendment published at 87 FR 67558, Nov. 9, 2022.
-
 Authorization to advertise the physical construction for bids or to proceed with force account construction thereof shall normally be issued as soon as, but not until, all of the following conditions have been met:
 
 (a) The plans, specifications, and estimates (PS&E) have been approved.
@@ -66,6 +64,10 @@ Authorization to advertise the physical construction for bids or to proceed with
 
 (vi) If the State DOT elects to include right-of-way, utility, and/or railroad services as part of the design-builder's or CM/GC contractor's scope of work, then the applicable design-build Request for Proposals document, or the CM/GC solicitation document must include:
 
+(A) A statement concerning scope and current status of the required services; and
+
+(B) A statement which requires compliance with the Uniform Relocation and Real Property Acquisition Policies Act of 1970, as amended, and 23 CFR part 710.
+
 (2) During a conformity lapse, an Early Acquisition Project carried out in accordance with § 710.501 of this chapter or a design-build project (including ROW acquisition activities) may continue if, prior to the conformity lapse, the National Environmental Policy Act (NEPA) (42 U.S.C. 4321, *et seq.*) process was completed and the project has not changed significantly in design scope, FHWA authorized the early acquisition or design-build project, and the project met transportation conformity requirements (40 CFR parts 51 and 93).
 
 (3) Changes to the design-build or CM/GC project concept and scope may require a modification of the transportation plan and transportation improvement program. The project sponsor must comply with the metropolitan and statewide transportation planning requirements in 23 CFR part 450 and the transportation conformity requirements (40 CFR parts 51 and 93) in air quality nonattainment and maintenance areas, and provide appropriate approval notification to the design builder or the CM/GC contractor for such changes.
@@ -80,4 +82,4 @@ Authorization to advertise the physical construction for bids or to proceed with
 
 (4) A statement is received from the State that either all ROW, utility, and railroad work has been completed or that all necessary arrangements will be made for the completion of ROW, utility, and railroad work.
 
-[81 FR 57728, Aug. 23, 2016, as amended at 81 FR 86943, Dec. 2, 2016; 85 FR 72931, Nov. 16, 2020]
+[81 FR 57728, Aug. 23, 2016, as amended at 81 FR 86943, Dec. 2, 2016; 85 FR 72931, Nov. 16, 2020; 87 FR 67558, Nov. 9, 2022]

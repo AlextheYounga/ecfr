@@ -2,9 +2,9 @@
 
 (a) An applicant who requests certification for flight in icing conditions defined in part 1 of appendix C to part 25 of this chapter, or an applicant who requests certification for flight in these icing conditions and any additional atmospheric icing conditions, must show the following in the icing conditions for which certification is requested under normal operation of the ice protection system(s):
 
-(1) Compliance with each requirement of this subpart, except those applicable to spins and any that must be demonstrated at speeds in excess of -
+(1) Compliance with each requirement of this subpart, except those applicable to spins and any that must be demonstrated at speeds in excess of—
 
-(i) 250 knots CAS;
+(i) 250 KCAS;
 
 (ii) VMO/MMO or VNE; or
 
@@ -15,3 +15,5 @@
 (b) If an applicant requests certification for flight in icing conditions, the applicant must provide a means to detect any icing conditions for which certification is not requested and show the airplane's ability to avoid or exit those conditions.
 
 (c) The applicant must develop an operating limitation to prohibit intentional flight, including takeoff and landing, into icing conditions for which the airplane is not certified to operate.
+
+[Doc. No. FAA-2015-1621, Amdt. 23-64, 81 FR 96689, Dec. 30, 2016, as amended by Doc. No. FAA-2022-1355, Amdt. 23-65, 87 FR 75710, Dec. 9, 2022]

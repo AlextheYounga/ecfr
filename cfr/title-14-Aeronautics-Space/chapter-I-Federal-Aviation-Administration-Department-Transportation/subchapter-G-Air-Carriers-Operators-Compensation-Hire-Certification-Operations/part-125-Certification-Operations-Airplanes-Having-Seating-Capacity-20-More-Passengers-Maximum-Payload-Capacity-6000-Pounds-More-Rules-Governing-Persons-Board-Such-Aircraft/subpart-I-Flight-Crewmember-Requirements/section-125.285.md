@@ -10,12 +10,12 @@
 
 (3) At least one landing must be made to a complete stop.
 
-(c) A required pilot flight crewmember who performs the maneuvers required by paragraph (b) of this section in a qualified and approved flight simulator, as prescribed in paragraph (a) of this section, must -
+(c) A required pilot flight crewmember who performs the maneuvers required by paragraph (b) of this section in a qualified and approved flight simulator, as prescribed in paragraph (a) of this section, must—
 
 (1) Have previously logged 100 hours of flight time in the same type airplane in which the pilot is to serve; and
 
 (2) Be observed on the first two landings made in operations under this part by an authorized check airman who acts as pilot in command and occupies a pilot seat. The landings must be made in weather minimums that are not less than those contained in the certificate holder's operations specifications for Category I operations and must be made within 45 days following completion of simulator testing.
 
-(d) An authorized check airman who observes the takeoffs and landings prescribed in paragraphs (b) and (c)(3) of this section shall certify that the person being observed is proficient and qualified to perform flight duty in operations under this part, and may require any additional maneuvers that are determined necessary to make this certifying statement.
+(d) An authorized check airman who observes the takeoffs and landings prescribed in paragraphs (b) and (c)(2) of this section shall certify that the person being observed is proficient and qualified to perform flight duty in operations under this part, and may require any additional maneuvers that are determined necessary to make this certifying statement.
 
-[Doc. No. 19779, 45 FR 67235, Oct. 9, 1980, as amended by Amdt. 125-27, 61 FR 34561, July 2, 1996]
+[Doc. No. 19779, 45 FR 67235, Oct. 9, 1980, as amended by Amdt. 125-27, 61 FR 34561, July 2, 1996; Doc. No. FAA-2022-1355; Amdt. 125-72; 87 FR 75847, Dec. 9, 2022]

@@ -1,5 +1,7 @@
 ##### § 648.83 Multispecies minimum fish sizes. #####
 
+Link to an amendment published at 87 FR 75886, Dec. 9, 2022.
+
 (a) *Minimum fish sizes.* (1) Minimum fish sizes for recreational vessels and charter/party vessels that are not fishing under a NE multispecies DAS are specified in § 648.89. Except as provided in § 648.17, all other vessels are subject to the following minimum fish sizes, determined by total length (TL):
 
 Minimum Fish Sizes (TL) for Commercial Vessels

@@ -1,6 +1,6 @@
 ##### § 121.703 Service difficulty reports. #####
 
-(a) Each certificate holder shall report the occurrence or detection of each failure, malfunction, or defect concerning -
+(a) Each certificate holder shall report the occurrence or detection of each failure, malfunction, or defect concerning—
 
 (1) Fires during flight and whether the related fire-warning system functioned properly;
 
@@ -64,10 +64,10 @@
 
 (10) Other pertinent information necessary for more complete identification, determination of seriousness, or corrective action.
 
-(f) A certificate holder that is also the holder of a Type Certificate (including a Supplemental Type Certificate), a Parts Manufacturer Approval, or a Technical Standard Order Authorization, or that is the licensee of a type certificate holder, need not report a failure, malfunction, or defect under this section if the failure, malfunction, or defect has been reported by it under § 21.3 of this chapter or under the accident reporting provisions of 14 CFR part 830.
+(f) A certificate holder that is also the holder of a Type Certificate (including a Supplemental Type Certificate), a Parts Manufacturer Approval, or a Technical Standard Order Authorization, or that is the licensee of a type certificate holder, need not report a failure, malfunction, or defect under this section if the failure, malfunction, or defect has been reported by it under § 21.3 of this chapter or under the accident reporting provisions of 49 CFR part 830.
 
 (g) No person may withhold a report required by this section even though all information required in this section is not available.
 
 (h) When certificate holder gets additional information, including information from the manufacturer or other agency, concerning a report required by this section, it shall expeditiously submit it as a supplement to the first report and reference the date and place of submission of the first report.
 
-[Doc. No. 6258, 29 FR 19226, Dec. 31, 1964, as amended by Doc. No. 8084, 32 FR 5770, Apr. 11, 1967; Amdt. 121-72, 35 FR 18188, Nov. 28, 1970; Amdt. 121-143, 43 FR 22642, May 25, 1978; Amdt. 121-178, 47 FR 13316, Mar. 29, 1982; Amdt. 121-187, 50 FR 32375, Aug. 9, 1985; Amdt. 121-195, 53 FR 8728, Mar. 16, 1988; Amdt. 121-251, 60 FR 65936, Dec. 20, 1995; Amdt. 121-319, 70 FR 76979, Dec. 29, 2005]
+[Doc. No. 6258, 29 FR 19226, Dec. 31, 1964, as amended by Doc. No. 8084, 32 FR 5770, Apr. 11, 1967; Amdt. 121-72, 35 FR 18188, Nov. 28, 1970; Amdt. 121-143, 43 FR 22642, May 25, 1978; Amdt. 121-178, 47 FR 13316, Mar. 29, 1982; Amdt. 121-187, 50 FR 32375, Aug. 9, 1985; Amdt. 121-195, 53 FR 8728, Mar. 16, 1988; Amdt. 121-251, 60 FR 65936, Dec. 20, 1995; Amdt. 121-319, 70 FR 76979, Dec. 29, 2005; Amdt. 121-387, 87 FR 75846, Dec. 9, 2022]

@@ -1,6 +1,6 @@
 ##### § 648.14 Prohibitions. #####
 
-Link to an amendment published at 87 FR 71529, Nov. 23, 2022.
+Link to an amendment published at 87 FR 71529, Nov. 23, 2022.Link to an amendment published at 87 FR 75885, Dec. 9, 2022.
 
 (a) *General prohibitions.* It is unlawful for any person to do any of the following:
 

@@ -1,6 +1,6 @@
 ##### § 135.415 Service difficulty reports. #####
 
-(a) Each certificate holder shall report the occurrence or detection of each failure, malfunction, or defect in an aircraft concerning -
+(a) Each certificate holder shall report the occurrence or detection of each failure, malfunction, or defect in an aircraft concerning—
 
 (1) Fires during flight and whether the related fire-warning system functioned properly;
 
@@ -56,10 +56,10 @@
 
 (7) Other pertinent information necessary for more complete identification, determination of seriousness, or corrective action.
 
-(f) A certificate holder that is also the holder of a type certificate (including a supplemental type certificate), a Parts Manufacturer Approval, or a Technical Standard Order Authorization, or that is the licensee of a type certificate need not report a failure, malfunction, or defect under this section if the failure, malfunction, or defect has been reported by it under § 21.3 or § 37.17 of this chapter or under the accident reporting provisions of part 830 of the regulations of the National Transportation Safety Board.
+(f) A certificate holder that is also the holder of a type certificate (including a supplemental type certificate), a Parts Manufacturer Approval, or a Technical Standard Order Authorization, or that is the licensee of a type certificate need not report a failure, malfunction, or defect under this section if the failure, malfunction, or defect has been reported by it under § 21.3 or § 37.17 of this chapter or under the accident reporting provisions of 49 CFR part 830 of the regulations of the National Transportation Safety Board.
 
 (g) No person may withhold a report required by this section even though all information required by this section is not available.
 
 (h) When the certificate holder gets additional information, including information from the manufacturer or other agency, concerning a report required by this section, it shall expeditiously submit it as a supplement to the first report and reference the date and place of submission of the first report.
 
-[Doc. No. 16097, 43 FR 46783, Oct. 10, 1978, as amended by Amdt. 135-102, 70 FR 76979, Dec. 29, 2005]
+[Doc. No. 16097, 43 FR 46783, Oct. 10, 1978, as amended by Amdt. 135-102, 70 FR 76979, Dec. 29, 2005; Doc. No. FAA-2022-1355; Amdt. Nos. 135-143; 87 FR 75848, Dec. 9, 2022]

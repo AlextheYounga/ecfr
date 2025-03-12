@@ -1,7 +1,5 @@
 ##### § 635.604 ID/IQ Requirements. #####
 
-Link to an amendment published at 87 FR 67558, Nov. 9, 2022.
-
 (a) *Procurement requirements.*
 
 (1) The contracting agency may procure the ID/IQ contract using applicable State or local competitive selection procurement procedures if those procedures:
@@ -20,7 +18,7 @@ Link to an amendment published at 87 FR 67558, Nov. 9, 2022.
 
 (ii) Specify the basis, such as a published index, and procedure to be used for adjusting prices for optional contract extensions when optional contract extensions are included. Negotiated contract price adjustments for optional contract extensions are not eligible for Federal-aid participation.
 
-(iii) Specify the estimated minimum and maximum quantity of services the contracting agency will acquire under the contract. The ID/IQ contract may also specify estimated minimum or maximum quantities that the contracting agency may order under each work order.
+(iii) Specify the estimated quantity or value of services the contracting agency anticipates it may acquire under the contract, either on an annual basis or over the entire initial term of the ID/IQ contract.
 
 (iv) Include appropriate statements of work, specifications, or other descriptions that reasonably and accurately describe the general scope, nature, complexity, and purpose of the services the contracting agency will acquire under the contract.
 
@@ -55,3 +53,5 @@ Link to an amendment published at 87 FR 67558, Nov. 9, 2022.
 (d) *Liquidated damages.* When a contracting agency's processes or procedures use project cost to establish the assessed rate of liquidated damages under § 635.127, the work order cost shall be used to determine the rate when liquidated damages are assessed.
 
 (e) *Applicable State procedures.* Nothing in this subpart shall be construed as prohibiting a State DOT from adopting more restrictive policies and procedures than contained herein regarding ID/IQ contracts.
+
+[85 FR 72932, Nov. 16, 2020, as amended at 87 FR 67558, Nov. 9, 2022]

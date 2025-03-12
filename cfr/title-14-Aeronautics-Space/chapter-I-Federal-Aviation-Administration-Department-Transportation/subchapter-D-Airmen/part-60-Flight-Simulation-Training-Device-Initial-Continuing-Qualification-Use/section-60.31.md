@@ -26,4 +26,6 @@
 
 (iv) The identity of the person determining that the discrepancy has been corrected.
 
-(b) The records specified in this section must be maintained in plain language form or in coded form if the coded form provides for the preservation and retrieval of information in a manner acceptable to the NSPM.
+(b) The records specified in this section must be maintained in plain language form or in coded form if the coded form provides for the preservation and retrieval of information in a manner acceptable to the responsible Flight Standards office.
+
+[Docket No. FAA-2002-12461, 71 FR 63426, Oct. 30, 2006, as amended by Docket No. FAA-2022-1355, Amdt. No. 60-7, 87 FR 75711, Dec. 9, 2022]

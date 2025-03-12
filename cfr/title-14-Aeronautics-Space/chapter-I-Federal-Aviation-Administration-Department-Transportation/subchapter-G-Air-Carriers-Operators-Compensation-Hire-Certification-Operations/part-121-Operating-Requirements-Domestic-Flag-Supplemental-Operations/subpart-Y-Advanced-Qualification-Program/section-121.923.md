@@ -4,7 +4,7 @@
 
 (1) The training provider is certificated under part 119 or 142 of this chapter.
 
-(2) The training provider's AQP training and qualification curriculums, curriculum segments, or portions of curriculum segments must be provisionally approved by the FAA. A training provider may apply for provisional approval independently or in conjunction with a certificate holder's application for AQP approval. Application for provisional approval must be made, through the FAA office directly responsible for oversight of the training provider, to the Manager of the Air Transportation Division.
+(2) The training provider's AQP training and qualification curriculums, curriculum segments, or portions of curriculum segments must be provisionally approved by the FAA. A training provider may apply for provisional approval independently or in conjunction with a certificate holder's application for AQP approval. Application for provisional approval must be made to the responsible Flight Standards office.
 
 (3) The specific use of provisionally approved curriculums, curriculum segments, or portions of curriculum segments in a certificate holder's AQP must be approved by the FAA as set forth in § 121.909.
 
@@ -22,4 +22,4 @@
 
 (2) Each provisionally approved curriculum, curriculum segment, or portion of a curriculum segment must be approved by the FAA for use in the certificate holder's AQP. The FAA will either provide approval or require modifications to ensure that each curriculum, curriculum segment, or portion of a curriculum segment is applicable to the certificate holder's AQP.
 
-[Docket No. FAA-2005-20750, 70 FR 54815, Sept. 16, 2005, as amended by Docket FAA-2018-0119, Amdt. 121-380, 83 FR 9173, Mar. 5, 2018]
+[Docket No. FAA-2005-20750, 70 FR 54815, Sept. 16, 2005, as amended by Docket FAA-2018-0119, Amdt. 121-380, 83 FR 9173, Mar. 5, 2018; Doc. No. FAA-2022-1355; Amdt. 121-387; 87 FR 75846, Dec. 9, 2022]

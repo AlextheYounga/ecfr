@@ -1,0 +1,7 @@
+##### § 301.6224(a)-1 Participation in administrative proceedings. #####
+
+(a) *In general.* Every partner in the partnership, including an indirect partner, has the right to participate in any phase of administrative proceedings. However, except as provided in section 6223 and the regulations thereunder, neither the Internal Revenue Service nor the tax matters partner is required to provide notice of any proceeding to the partners. Consequently, a partner who wishes, for example, to be present during a preliminary discussion between an examining agent and the tax matters partner should make special arrangements with the tax matters partner to obtain information as to the time and place of the discussion. The Internal Revenue Service and the tax matters partner will determine the time and place for all administrative proceedings. Arrangements will generally not be changed merely for the convenience of another partner.
+
+(b) *Effective date.* This section is applicable to partnership taxable years beginning on or after October 4, 2001. For years beginning prior to October 4, 2001, see § 301.6224(a)-1T contained in 26 CFR part 1, revised April 1, 2001.
+
+[T.D. 8965, 66 FR 50551, Oct. 4, 2001]

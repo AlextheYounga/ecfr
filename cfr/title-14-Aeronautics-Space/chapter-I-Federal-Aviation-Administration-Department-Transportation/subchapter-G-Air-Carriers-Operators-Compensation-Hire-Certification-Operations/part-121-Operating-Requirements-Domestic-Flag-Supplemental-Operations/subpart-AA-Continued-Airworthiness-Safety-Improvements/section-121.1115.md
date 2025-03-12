@@ -2,13 +2,13 @@
 
 (a) *Applicability.* This section applies to certificate holders operating any transport category, turbine-powered airplane with a maximum takeoff gross weight greater than 75,000 pounds and a type certificate issued after January 1, 1958, regardless of whether the maximum takeoff gross weight is a result of an original type certificate or a later design change. This section also applies to certificate holders operating any transport category, turbine-powered airplane with a type certificate issued after January 1, 1958, regardless of the maximum takeoff gross weight, for which a limit of validity of the engineering data that supports the structural maintenance program (hereafter referred to as LOV) is required in accordance with § 25.571 or § 26.21 of this chapter after January 14, 2011.
 
-(b) *Limit of validity.* No certificate holder may operate an airplane identified in paragraph (a) of this section after the applicable date identified in Table 1 of this section unless an Airworthiness Limitations section approved under Appendix H to part 25 or § 26.21 of this chapter is incorporated into its maintenance program. The ALS must -
+(b) *Limit of validity.* No certificate holder may operate an airplane identified in paragraph (a) of this section after the applicable date identified in Table 1 of this section unless an Airworthiness Limitations section approved under Appendix H to part 25 or § 26.21 of this chapter is incorporated into its maintenance program. The ALS must—
 
 (1) Include an LOV approved under § 25.571 or § 26.21 of this chapter, as applicable, except as provided in paragraph (f) of this section; and
 
 (2) Be clearly distinguishable within its maintenance program.
 
-(c) *Operation of airplanes excluded from § 26.21.* No certificate holder may operate an airplane identified in § 26.21(g) of this chapter after July 14, 2013, unless an Airworthiness Limitations section approved under Appendix H to part 25 or § 26.21 of this chapter is incorporated into its maintenance program. The ALS must -
+(c) *Operation of airplanes excluded from § 26.21.* No certificate holder may operate an airplane identified in § 26.21(g) of this chapter after July 14, 2013, unless an Airworthiness Limitations section approved under Appendix H to part 25 or § 26.21 of this chapter is incorporated into its maintenance program. The ALS must—
 
 (1) Include an LOV approved under § 25.571 or § 26.21 of this chapter, as applicable, except as provided in paragraph (f) of this section; and
 
@@ -16,7 +16,7 @@
 
 (d) *Extended limit of validity.* No certificate holder may operate an airplane beyond the LOV, or extended LOV, specified in paragraph (b)(1), (c), (d), or (f) of this section, as applicable, unless the following conditions are met:
 
-(1) An ALS must be incorporated into its maintenance program that -
+(1) An ALS must be incorporated into its maintenance program that—
 
 (i) Includes an extended LOV and any widespread fatigue damage airworthiness limitation items approved under § 26.23 of this chapter; and
 
@@ -28,11 +28,9 @@
 
 (f) *Exception.* For any airplane for which an LOV has not been approved as of the applicable compliance date specified in paragraph (c) or Table 1 of this section, instead of including an approved LOV in the ALS, an operator must include the applicable default LOV specified in Table 1 or Table 2 of this section, as applicable, in the ALS.
 
-Table 1 - Airplanes Subject to § 26.21
-
-|                                                                                                               Airplane model                                                                                                               |                              Compliance date - months after January 14, 2011                               |Default LOV  <br/>[flight cycles (FC)  <br/>or flight hours (FH)]|
+|                                                                                                               Airplane model                                                                                                               |                               Compliance date—months after January 14, 2011                                |Default LOV  <br/>[flight cycles (FC)  <br/>or flight hours (FH)]|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-|                                                                                                 Airbus - Existing<sup>1</sup> Models Only:                                                                                                 |                                                                                                            |                                                                 |
+|                                                                                                 Airbus—Existing <sup>1</sup> Models Only:                                                                                                  |                                                                                                            |                                                                 |
 |                                                                                                     A300 B2-1A, B2-1C, B2K-3C, B2-203                                                                                                      |                                                     30                                                     |                            48,000 FC                            |
 |                                                                                                             A300 B4-2C, B4-103                                                                                                             |                                                     30                                                     |                            40,000 FC                            |
 |                                                                                                                A300 B4-203                                                                                                                 |                                                     30                                                     |                            34,000 FC                            |
@@ -52,7 +50,7 @@ Table 1 - Airplanes Subject to § 26.21
 |                                                                                                  A340-300 Series WV050 family (enhanced)                                                                                                   |                                                     60                                                     |                      20,000 FC/100,000 FH                       |
 |                                                                                                           A340-500, -600 Series                                                                                                            |                                                     60                                                     |                      16,600 FC/100,000 FH                       |
 |                                                                                                              A380-800 Series                                                                                                               |                                                     72                                                     |                            See NOTE.                            |
-|                                                                                                 Boeing - Existing<sup>1</sup> Models Only:                                                                                                 |                                                                                                            |                                                                 |
+|                                                                                                 Boeing—Existing <sup>1</sup> Models Only:                                                                                                  |                                                                                                            |                                                                 |
 |                                                                                                                    717                                                                                                                     |                                                     60                                                     |                       60,000 FC/60,000 FH                       |
 |                                                                                                              727 (all series)                                                                                                              |                                                     30                                                     |                            60,000 FC                            |
 |                                                                                           737 (Classics): 737-100, -200, -200C, -300, -400, -500                                                                                           |                                                     30                                                     |                            75,000 FC                            |
@@ -64,18 +62,18 @@ Table 1 - Airplanes Subject to § 26.21
 |                                                                                                               777-200, -300                                                                                                                |                                                     60                                                     |                            40,000 FC                            |
 |                                                                                                            777-200LR, 777-300ER                                                                                                            |                                                     72                                                     |                            40,000 FC                            |
 |                                                                                                                    777F                                                                                                                    |                                                     72                                                     |                            11,000 FC                            |
-|                                                                                               Bombardier - Existing<sup>1</sup> Models Only:                                                                                               |                                                                                                            |                                                                 |
+|                                                                                               Bombardier—Existing <sup>1</sup> Models Only:                                                                                                |                                                                                                            |                                                                 |
 |                                                                                   CL-600: 2D15 (Regional Jet Series 705), 2D24 (Regional Jet Series 900)                                                                                   |                                                     72                                                     |                            60,000 FC                            |
-|                                                                                                Embraer - Existing<sup>1</sup> Models Only:                                                                                                 |                                                                                                            |                                                                 |
+|                                                                                                 Embraer—Existing <sup>1</sup> Models Only:                                                                                                 |                                                                                                            |                                                                 |
 |                                                                                                                  ERJ 170                                                                                                                   |                                                     72                                                     |                            See NOTE.                            |
 |                                                                                                                  ERJ 190                                                                                                                   |                                                     72                                                     |                            See NOTE.                            |
-|                                                                                                 Fokker - Existing<sup>1</sup> Models Only:                                                                                                 |                                                                                                            |                                                                 |
+|                                                                                                 Fokker—Existing <sup>1</sup> Models Only:                                                                                                  |                                                                                                            |                                                                 |
 |                                                                                                         F.28 Mark 0070, Mark 0100                                                                                                          |                                                     30                                                     |                            90,000 FC                            |
-|                                                                                                Lockheed - Existing<sup>1</sup> Models Only:                                                                                                |                                                                                                            |                                                                 |
+|                                                                                                Lockheed—Existing <sup>1</sup> Models Only:                                                                                                 |                                                                                                            |                                                                 |
 |                                                                                                                   L-1011                                                                                                                   |                                                     30                                                     |                            36,000 FC                            |
 |                                                                                                                    188                                                                                                                     |                                                     30                                                     |                            26,600 FC                            |
 |                                                                                                              382 (all series)                                                                                                              |                                                     30                                                     |                       20,000 FC/50,000 FH                       |
-|                                                                                           McDonnell Douglas - Existing<sup>1</sup> Models Only:                                                                                            |                                                                                                            |                                                                 |
+|                                                                                            McDonnell Douglas—Existing <sup>1</sup> Models Only:                                                                                            |                                                                                                            |                                                                 |
 |                                                                                                                 DC-8, -8F                                                                                                                  |                                                     30                                                     |                       50,000 FC/50,000 FH                       |
 |                                                                                                       DC-9 (except for MD-80 models)                                                                                                       |                                                     30                                                     |                      100,000 FC/100,000 FH                      |
 |                                                                                                   MD-80 (DC-9-81, -82, -83, -87, MD-88)                                                                                                    |                                                     30                                                     |                       50,000 FC/50,000 FH                       |
@@ -88,57 +86,49 @@ Table 1 - Airplanes Subject to § 26.21
 |                                                                                                   Maximum Takeoff Gross Weight Changes:                                                                                                    |                                                                                                            |                                                                 |
 |All airplanes whose maximum takeoff gross weight has been decreased to 75,000 pounds or below after January 14, 2011, or increased to greater than 75,000 pounds at any time by an amended type certificate or supplemental type certificate|30, or within 12 months after the LOV is approved, or before operating the airplane, whichever occurs latest|                         Not applicable.                         |
 |                                                                                   All Other Airplane Models (TCs and amended TCs) not Listed in Table 2                                                                                    |72, or within 12 months after the LOV is approved, or before operating the airplane, whichever occurs latest|                         Not applicable.                         |
+|                                                                                           <sup>1</sup> Type certificated as of January 14, 2011.                                                                                           |                                                                                                            |                                                                 |
+|                                                                         **Note:** Airplane operation limitation is stated in the Airworthiness Limitation section.                                                                         |                                                                                                            |                                                                 |
 
-<sup>1</sup> Type certificated as of January 14, 2011.
+|                Airplane model                |Default LOV  <br/>[flight cycles (FC) or flight hours (FH)]|
+|----------------------------------------------|-----------------------------------------------------------|
+|                   Airbus:                    |                                                           |
+|                  Caravelle                   |                    15,000 FC/24,000 FH                    |
+|           Avions Marcel Dassault:            |                                                           |
+|        Breguet Aviation Mercure 100C         |                    20,000 FC/16,000 FH                    |
+|                   Boeing:                    |                                                           |
+|   Boeing 707 (-100 Series and -200 Series)   |                         20,000 FC                         |
+|   Boeing 707 (-300 Series and -400 Series)   |                         20,000 FC                         |
+|                  Boeing 720                  |                         30,000 FC                         |
+|                 Bombardier:                  |                                                           |
+|              CL-44D4 and CL-44J              |                         20,000 FC                         |
+|                    BD-700                    |                         15,000 FC                         |
+|          Bristol Aeroplane Company:          |                                                           |
+|                Britannia 305                 |                         10,000 FC                         |
+|       British Aerospace Airbus, Ltd.:        |                                                           |
+|            BAC 1-11 (all models)             |                         85,000 FC                         |
+|British Aerospace (Commercial Aircraft) Ltd.: |                                                           |
+|Armstrong Whitworth Argosy A.W. 650 Series 101|                         20,000 FC                         |
+|        BAE Systems (Operations) Ltd.:        |                                                           |
+|          BAe 146-100A (all models)           |                         50,000 FC                         |
+|                BAe 146-200-07                |                         50,000 FC                         |
+|              BAe 146-200-07 Dev              |                         50,000 FC                         |
+|                BAe 146-200-11                |                         50,000 FC                         |
+|               BAe 146-200-07A                |                         47,000 FC                         |
+|              BAe 146-200-11 Dev              |                         43,000 FC                         |
+|           BAe 146-300 (all models)           |                         40,000 FC                         |
+|         Avro 146-RJ70A (all models)          |                         40,000 FC                         |
+|  Avro 146-RJ85A and 146-RJ100A (all models)  |                         50,000 FC                         |
+|              D & R Nevada, LLC:              |                                                           |
+|               Convair Model 22               |                     1,000 FC/1,000 FH                     |
+|              Convair Model 23M               |                     1,000 FC/1,000 FH                     |
+|     deHavilland Aircraft Company, Ltd.:      |                                                           |
+|              D.H. 106 Comet 4C               |                         8,000 FH                          |
+|                 Gulfstream:                  |                                                           |
+|                      GV                      |                         40,000 FH                         |
+|                    GV-SP                     |                         40,000 FH                         |
+|          Ilyushin Aviation Complex:          |                                                           |
+|                    IL-96T                    |                    10,000 FC/30,000 FH                    |
+|                  Lockhead:                   |                                                           |
+|            300-50A01(USAF C 141A)            |                         20,000 FC                         |
 
-Note: Airplane operation limitation is stated in the Airworthiness Limitation section.
-
-Note:
-
-Airplane operation limitation is stated in the Airworthiness Limitation section.
-
-Table 2 - Airplanes Excluded from § 26.21
-
-|                Airplane model                |Default LOV  <br/>[flight cycles (FC)  <br/>or flight hours (FH)]|
-|----------------------------------------------|-----------------------------------------------------------------|
-|                   Airbus:                    |                                                                 |
-|                  Caravelle                   |                       15,000 FC/24,000 FH                       |
-|           Avions Marcel Dassault:            |                                                                 |
-|        Breguet Aviation Mercure 100C         |                       20,000 FC/16,000 FH                       |
-|                   Boeing:                    |                                                                 |
-|   Boeing 707 (-100 Series and -200 Series)   |                            20,000 FC                            |
-|   Boeing 707 (-300 Series and -400 Series)   |                            20,000 FC                            |
-|                  Boeing 720                  |                            30,000 FC                            |
-|                 Bombardier:                  |                                                                 |
-|              CL-44D4 and CL-44J              |                            20,000 FC                            |
-|                    BD-700                    |                            15,000 FH                            |
-|          Bristol Aeroplane Company:          |                                                                 |
-|                Britannia 305                 |                            10,000 FC                            |
-|       British Aerospace Airbus, Ltd.:        |                                                                 |
-|            BAC 1-11 (all models)             |                            85,000 FC                            |
-|British Aerospace (Commercial Aircraft) Ltd.: |                                                                 |
-|Armstrong Whitworth Argosy A.W. 650 Series 101|                            20,000 FC                            |
-|        BAE Systems (Operations) Ltd.:        |                                                                 |
-|          BAe 146-100A (all models)           |                            50,000 FC                            |
-|                BAe 146-200-07                |                            50,000 FC                            |
-|              BAe 146-200-07 Dev              |                            50,000 FC                            |
-|                BAe 146-200-11                |                            50,000 FC                            |
-|               BAe 146-200-07A                |                            47,000 FC                            |
-|              BAe 146-200-11 Dev              |                            43,000 FC                            |
-|           BAe 146-300 (all models)           |                            40,000 FC                            |
-|         Avro 146-RJ70A (all models)          |                            40,000 FC                            |
-|  Avro 146-RJ85A and 146-RJ100A (all models)  |                            50,000 FC                            |
-|              D & R Nevada, LLC:              |                                                                 |
-|               Convair Model 22               |                        1,000 FC/1,000 FH                        |
-|              Convair Model 23M               |                        1,000 FC/1,000 FH                        |
-|     deHavilland Aircraft Company, Ltd.:      |                                                                 |
-|              D.H. 106 Comet 4C               |                            8,000 FH                             |
-|                 Gulfstream:                  |                                                                 |
-|                      GV                      |                            40,000 FH                            |
-|                    GV-SP                     |                            40,000 FH                            |
-|          Ilyushin Aviation Complex:          |                                                                 |
-|                    IL-96T                    |                       10,000 FC/30,000 FH                       |
-|                  Lockheed:                   |                                                                 |
-|           300-50A01 (USAF C 141A)            |                            20,000 FC                            |
-
-[Doc. No. FAA-2006-24281, 75 FR 69785, Nov. 15, 2010, as amended by Amdt. 121-360, 77 FR 30878, May 24, 2012; Admt. 121-360A, 77 FR 55105, Sept. 7, 2012]
+[Doc. No. FAA-2006-24281, 75 FR 69785, Nov. 15, 2010, as amended by Amdt. 121-360, 77 FR 30878, May 24, 2012; Admt. 121-360A, 77 FR 55105, Sept. 7, 2012; Doc. No. FAA-2022-1355; Amdt. 121-387, 87 FR 75847, Dec. 9, 2022]

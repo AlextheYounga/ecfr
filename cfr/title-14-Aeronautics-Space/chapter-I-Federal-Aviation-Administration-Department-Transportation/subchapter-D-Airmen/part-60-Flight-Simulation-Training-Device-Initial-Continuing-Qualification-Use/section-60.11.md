@@ -8,6 +8,8 @@ No person may use or allow the use of or offer the use of an FSTD for flight cre
 
 (c) Remains qualified, through satisfactory inspection, continuing qualification evaluations, appropriate maintenance, and use requirements in accordance with this part and the applicable QPS.
 
-(d) Functions during day-to-day training, evaluation, or flight experience activities with the software and hardware that was evaluated as satisfactory by the NSPM and, if modified, modified only in accordance with the provisions of this part. However, this section does not apply to routine software or hardware changes that do not fall under the requirements of § 60.23.
+(d) Functions during day-to-day training, evaluation, or flight experience activities with the software and hardware that was evaluated as satisfactory by the responsible Flight Standards office and, if modified, modified only in accordance with the provisions of this part. However, this section does not apply to routine software or hardware changes that do not fall under the requirements of § 60.23.
 
 (e) Is operated in accordance with the provisions and limitations of § 60.25.
+
+[Docket No. FAA-2002-12461, 71 FR 63426, Oct. 30, 2006, as amended by Docket No. FAA-2022-1355, Amdt. No. 60-7, 87 FR 75711, Dec. 9, 2022]

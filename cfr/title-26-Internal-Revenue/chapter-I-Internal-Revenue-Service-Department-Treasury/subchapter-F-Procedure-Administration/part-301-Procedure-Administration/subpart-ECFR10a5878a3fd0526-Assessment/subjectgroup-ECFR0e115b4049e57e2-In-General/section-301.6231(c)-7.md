@@ -1,0 +1,9 @@
+##### § 301.6231(c)-7 Bankruptcy and receivership. #####
+
+(a) *Bankruptcy.* The treatment of items as partnership items with respect to a partner named as a debtor in a bankruptcy proceeding will interfere with the effective and efficient enforcement of the internal revenue laws. Accordingly, partnership items of such a partner arising in any partnership taxable year ending on or before the last day of the latest taxable year of the partner with respect to which the United States could file a claim for income tax due in the bankruptcy proceeding shall be treated as nonpartnership items as of the date the petition naming the partner as debtor is filed in bankruptcy.
+
+(b) *Receivership.* The treatment of items as partnership items with respect to a partner for whom a receiver has been appointed in any receivership proceeding before any court of the United States or of any State or the District of Columbia will interfere with the effective and efficient enforcement of the internal revenue laws. Accordingly, partnership items of such a partner arising in any partnership taxable year ending on or before the last day of the latest taxable year of the partner with respect to which the United States could file a claim for income tax due in the receivership proceeding shall be treated as nonpartnership items as of the date a receiver is appointed in any receivership proceeding before any court of the United States or of any State or the District of Columbia.
+
+(c) *Effective date.* This section is applicable to partnership taxable years beginning on or after October 4, 2001. For years beginning prior to October 4, 2001, see § 301.6231(c)-7T contained in 26 CFR part 1, revised April 1, 2001.
+
+[T.D. 8965, 66 FR 50561, Oct. 4, 2001]

@@ -1,6 +1,6 @@
 ##### § 121.909 Approval of Advanced Qualification Program. #####
 
-(a) *Approval process.* Application for approval of an AQP curriculum under this subpart is made, through the FAA office responsible for approval of the certificate holder's operations specifications, to the Manager of the Air Transportation Division.
+(a) *Approval process.* Application for approval of an AQP curriculum under this subpart is made to the responsible Flight Standards office.
 
 (b) *Approval criteria.* Each AQP must have separate curriculums for indoctrination, qualification, and continuing qualification (including upgrade, transition, and requalification), as specified in §§ 121.911, 121.913, and 121.915. All AQP curriculums must be based on an instructional systems development methodology. This methodology must incorporate a thorough analysis of the certificate holder's operations, aircraft, line environment and job functions. All AQP qualification and continuing qualification curriculums must integrate the training and evaluation of CRM and technical skills and knowledge. An application for approval of an AQP curriculum may be approved if the program meets the following requirements:
 
@@ -30,4 +30,4 @@
 
 (e) *Approval by the FAA.* Final approval of an AQP by the FAA indicates the FAA has accepted the justification provided under paragraph (b)(4) of this section and the applicant's initial justification and continuing process establish an equivalent level of safety for each requirement of parts 61, 63, 65, 121, and 135 of this chapter that is being replaced.
 
-[Docket No. FAA-2005-20750, 70 FR 54815, Sept. 16, 2005, as amended by Docket FAA-2018-0119, Amdt. 121-380, 83 FR 9173, Mar. 5, 2018]
+[Docket No. FAA-2005-20750, 70 FR 54815, Sept. 16, 2005, as amended by Docket FAA-2018-0119, Amdt. 121-380, 83 FR 9173, Mar. 5, 2018; Docket No. FAA-2022-1355; Amdt. 121-387, 87 FR 75846, Dec. 9, 2022]
