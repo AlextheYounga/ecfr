@@ -2,9 +2,9 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Cherry Valley National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
+(a) *Cherry Valley National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
 
-(i) Hunters must obtain and possess a signed refuge hunt permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) at all times while scouting and hunting on the refuge.
+(i) Hunters must obtain and possess a signed refuge hunt permit (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System) at all times while scouting and hunting on the refuge.
 
 (ii) Hunters may enter the refuge 2 hours before legal shooting time and must leave no later than 2 hours after legal shooting time.
 
@@ -40,17 +40,17 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) We prohibit the take, collection, capture, killing, and possession of any reptile or amphibian on the refuge.
 
-(b) *Erie National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning dove, woodcock, rail, Wilson's snipe, Canada goose, duck, coot, and crow on designated areas of the refuge subject to the following conditions:
+(b) *Erie National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of mourning dove, woodcock, rail, Wilson's snipe, Canada goose, duck, coot, mute swan, and crow on designated areas of the refuge subject to the following conditions:
 
-(i) We allow hunting activities on the refuge from September 1 through the end of February. We allow scouting for those same dates, and for the 7 days prior to the start of each season.
+(i) We allow hunting and scouting activities on the refuge from September 1 through the end of February. We also allow scouting the 7 days prior to the start of each season.
 
-(ii) We allow only nonmotorized boats for waterfowl hunting in permitted areas.
+(ii) We allow use of nonmotorized boats only for waterfowl hunting in permitted areas.
 
 (iii) We prohibit field possession of migratory game birds in areas of the refuge closed to migratory game bird hunting.
 
 (iv) We allow the use of dogs consistent with State regulations.
 
-(2) *Upland game hunting.* We allow hunting of ruffed grouse, squirrel, rabbit, woodchuck, pheasant, quail, raccoon, fox, coyote, skunk, and opossum on designated areas of the refuge subject to the following conditions:
+(2) *Upland game hunting.* We allow hunting of ruffed grouse, squirrel, rabbit, woodchuck, pheasant, quail, raccoon, fox, coyote, skunk, weasel, porcupine, and opossum on designated areas of the refuge subject to the following conditions:
 
 (i) We allow woodchuck hunting on the refuge from September 1 through the end of February.
 
@@ -58,21 +58,29 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) The condition set forth at paragraph (b)(1)(iv) of this section applies.
 
-(3) *Big game hunting.* We allow hunting of deer, bear, and turkey on designated areas of the refuge.
+(iv) We prohibit night hunting. Hunters may access the refuge 2 hours before sunrise and must leave no later than 2 hours after sunset.
+
+(3) *Big game hunting.* We allow hunting of deer, bear, turkey, and feral hog on designated areas of the refuge subject to the following conditions:
+
+(i) We allow hunting of feral hogs on the refuge from September 1 through the end of February.
+
+(ii) The condition set forth at paragraph (b)(1)(iv) of this section applies.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
-(i) We allow nonmotorized watercraft use in Area 5. Watercraft must remain in an area from the dike to 3,000 feet (900 meters) upstream.
+(i) We allow nonmotorized watercraft use in Area 5. Watercraft must remain in the area from the dike to 3,000 feet (900 meters) upstream.
 
 (ii) We prohibit the taking of turtle or frog (see § 27.21 of this chapter).
 
-(iii) We prohibit the collecting or releasing of baitfish.
+(iii) We prohibit the collection or release of baitfish. Possession of live baitfish is prohibited on the Seneca Division.
 
 (iv) We prohibit the taking or possession of shellfish on the refuge.
 
+(v) We allow fishing from1/2 hour before sunrise until1/2 hour after legal sunset.
+
 (c) *John Heinz National Wildlife Refuge at Tinicum.* (1)-(2) [Reserved]
 
-(3) *Big game hunting.* We allow archery-only hunting of white-tailed deer on designated areas of the refuge subject to the following condition: Hunters must possess a refuge hunt permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
+(3) *Big game hunting.* We allow archery-only hunting of white-tailed deer on designated areas of the refuge subject to the following condition: Hunters must possess a refuge hunt permit (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System).
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
@@ -86,4 +94,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (d) *Ohio River Islands National Wildlife Refuge.* Refer to § 32.67(b) for regulations.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54137, Aug. 31, 2020; 86 FR 48875, Aug. 31, 2021]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54137, Aug. 31, 2020; 86 FR 48875, Aug. 31, 2021; 87 FR 57131, Sept. 16, 2022]

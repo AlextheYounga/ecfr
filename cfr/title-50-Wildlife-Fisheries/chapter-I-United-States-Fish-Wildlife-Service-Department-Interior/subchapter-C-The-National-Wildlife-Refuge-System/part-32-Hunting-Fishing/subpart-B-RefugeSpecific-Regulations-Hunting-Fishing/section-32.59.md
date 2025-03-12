@@ -2,7 +2,7 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Cape Romain National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of marsh hen/rail on designated areas of the refuge subject to the following conditions:
+(a) *Cape Romain National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of marsh hen/rail on designated areas of the refuge subject to the following conditions:
 
 (i) We require each hunter to carry at all times while hunting a signed, current refuge hunt permit (signed brochure) and a government-issued picture identification.
 
@@ -40,7 +40,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit anglers or visitors taking, possessing, or transporting more than one 3-quart plastic bag of sea shells per person per day from the refuge.
 
-(b) *Carolina Sandhills National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning dove and woodcock on designated areas of the refuge subject to the following conditions:
+(b) *Carolina Sandhills National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of mourning dove and woodcock on designated areas of the refuge subject to the following conditions:
 
 (i) All hunters must carry a signed refuge general hunt permit (signed brochure) and government-issued picture identification.
 
@@ -104,7 +104,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) We prohibit the use or possession of alcoholic beverages while fishing on the refuge.
 
-(c) *Ernest F. Hollings ACE Basin National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
+(c) *Ernest F. Hollings ACE Basin National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
 
 (i) We require each hunter to carry at all times while hunting a valid signed, current refuge hunting brochure.
 
@@ -128,7 +128,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) Only youth hunters may hunt turkey on the refuge.
 
-(iii) Except for the special quota permit hunts, we allow only archery or muzzleloader hunting for deer. During special quota permit hunts, we allow use of centerfire rifles or shotguns. We only allow shotguns for turkey hunts.
+(iii) Except for the special quota permit hunts, we allow only archery or muzzleloader hunting for deer. We only allow muzzleloading rifles using a single projectile on the muzzleloader hunts. We prohibit buckshot. During special quota permit hunts, we allow use of centerfire rifles or shotguns. We only allow shotguns for turkey hunts.
 
 (iv) On hunt days, hunters and assistants, parents, or guardians may enter the refuge no earlier than 5 a.m. and must leave the refuge no later than 1 hour after legal sunset. We allow hunting from1/2 hour before official sunrise until1/2 hour after official sunset.
 
@@ -142,15 +142,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ix) All permanently fixed ground blinds are for the mobility-impaired hunt only.
 
-(x) We prohibit crossbows on the archery hunts. We only allow muzzleloading rifles using a single projectile on the muzzleloader hunts. We prohibit buckshot.
+(x) You may use flagging to mark the site of hunter entry from roads or trails and again at the stand site. You may use clothespins with reflective tape between these sites to mark the route to the stand. Hunters must label all such markers with their last name and State hunting license number.
 
-(xi) You may use flagging to mark the site of hunter entry from roads or trails and again at the stand site. You may use clothespins with reflective tape between these sites to mark the route to the stand. Hunters must label all such markers with their last name and State hunting license number.
+(xi) We require hunters to wear an outer garment visible above the waist that contains a minimum of 500 square inches (3,226 square centimeters) of solid, florescent-orange material at all times during the muzzleloader and mobility-impaired hunts for deer.
 
-(xii) We require hunters to wear an outer garment visible above the waist that contains a minimum of 500 square inches (3,226 square centimeters) of solid, florescent-orange material at all times during the muzzleloader and mobility-impaired hunts for deer.
+(xii) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
 
-(xiii) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
-
-(xiv) We prohibit accessing hunt units by watercraft.
+(xiii) We prohibit accessing hunt units by watercraft.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
@@ -248,7 +246,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (f) *Savannah National Wildlife Refuge.* Refer to § 32.29(h) for regulations.
 
-(g) *Waccamaw National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, dove, woodcock, and snipe on designated areas of the refuge subject to the following conditions:
+(g) *Waccamaw National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, dove, woodcock, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) You must possess and carry at all times while hunting a signed, current refuge hunting regulations brochure (signed brochure), which serves as the hunt permit.
 
@@ -308,4 +306,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54139, Aug. 31, 2020; 86 FR 48875, Aug. 31, 2021]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54139, Aug. 31, 2020; 86 FR 48875, Aug. 31, 2021; 87 FR 57132, Sept. 16, 2022]

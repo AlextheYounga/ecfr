@@ -4,13 +4,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (a) *Fox River National Wildlife Refuge.* (1)-(2) [Reserved]
 
-(3) *Big game hunting.* We allow hunting of white-tailed deer on designated areas of the refuge and subject to the following conditions:
+(3) *Big game hunting.* We allow hunting of white-tailed deer on designated areas of the refuge subject to the following conditions:
 
-(i) Hunters must remove all stands from the refuge following each day's hunt (see § 27.93 of this chapter). We prohibit hunting from any stand left up overnight.
+(i) You must remove all boats, decoys, game cameras, blinds, blind materials, stands, platforms, and other personal equipment brought onto the refuge at the end of each day's hunt (see § 27.93 of this chapter). We prohibit hunting from any stand left up overnight.
 
-(ii) Hunters may enter the refuge no earlier than 1 hour before legal shooting hours and must exit the refuge no later than 1 hour after legal shooting hours end.
+(ii) Hunters may enter the refuge no earlier than 2 hours before legal shooting hours and must exit the refuge no later than 2 hours after legal shooting hours end.
 
-(iii) Any ground blind used during any gun deer season must display at least 144 square inches (929 square centimeters) of solid, blaze-orange material visible from all directions.
+(iii) Any ground blind used during any gun deer season must display at least 144 square inches (929 square centimeters) of solid, blaze-orange or fluorescent pink material visible from all directions.
 
 (4) [Reserved]
 
@@ -18,25 +18,29 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer on designated areas of the refuge subject to the following conditions:
 
-(i) You must remove all stands from the refuge following each day's hunt (see § 27.93 of this chapter). We prohibit hunting from any stand left up overnight.
+(i) You must remove all boats, decoys, game cameras, blinds, blind materials, stands, platforms, and other personal equipment brought onto the refuge at the end of each day's hunt (see § 27.93 of this chapter). We prohibit hunting from any stand left up overnight.
 
-(ii) Hunters may enter the refuge no earlier than 1 hour before legal shooting hours and must exit the refuge no later than 1 hour after legal shooting hours end.
+(ii) Hunters may enter the refuge no earlier than 2 hours before legal shooting hours and must exit the refuge no later than 2 hours after legal shooting hours end.
 
-(iii) Any ground blind used during any gun deer season must display at least 144 square inches (929 square centimeters) of solid, blaze-orange material visible from all directions.
+(iii) Any ground blind used during any gun deer season must display at least 144 square inches (929 square centimeters) of solid, blaze-orange or fluorescent pink material visible from all directions.
 
 (iv) We require hunters to possess a permit (FWS Form 3-1383-G) for deer hunting on Plum Island.
 
-(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: We only allow fishing from the shoreline; we prohibit fishing from docks, piers, and other structures.
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
+
+(i) We only allow fishing from the shoreline; we prohibit fishing from docks, piers, and other structures.
+
+(ii) We prohibit the taking of any mussel (clam), crayfish, frog, leech, or turtle species by any method on the refuge (see § 27.21 of this chapter).
 
 (c) *Hackmatack National Wildlife Refuge.* Refer to § 32.32(f) for regulations.
 
-(d) *Horicon National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, common moorhen, and American woodcock on designated areas of the refuge subject to the following condition: We allow only participants in the Learn to Hunt and other special programs to hunt goose, duck, coot, and common moorhen.
+(d) *Horicon National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, common moorhen, and American woodcock on designated areas of the refuge subject to the following condition: We allow only participants in the Learn to Hunt and other special programs to hunt goose, duck, coot, and common moorhen.
 
 (2) *Upland game hunting.* We allow hunting of wild turkey, ring-necked pheasant, gray partridge, ruffed grouse, squirrel, cottontail rabbit, snowshoe hare, raccoon, opossum, striped skunk, red fox, gray fox, coyote, and bobcat on designated areas of the refuge subject to the following conditions:
 
 (i) For hunting, you may use or possess only approved nontoxic shot shells while in the field, including shot shells used for hunting wild turkey (see § 32.2(k)).
 
-(ii) We prohibit night hunting from1/2 hour after legal sunset until1/2 hour before legal sunrise the following day.
+(ii) We prohibit night hunting of upland game from 30 minutes after legal sunset until 30 minutes before legal sunrise the following day.
 
 (iii) We allow the use of dogs while hunting upland game (except raccoon, opossum, striped skunk, red fox, gray fox, coyote, and bobcat), provided the dog is under the immediate control of the hunter at all times.
 
@@ -48,17 +52,17 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vii) You may only hunt snowshoe hare during the season for cottontail rabbit.
 
-(viii) Hunters may enter the refuge no earlier than 1 hour before legal shooting hours and must exit the refuge no later than 1 hour after legal shooting hours.
+(viii) Hunters may enter the refuge no earlier than 2 hours before legal shooting hours and must exit the refuge no later than 2 hours after legal shooting hours.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer and black bear in designated areas of the refuge subject to the following conditions:
 
-(i) Hunters must remove all stands and personal property from the refuge following each day's hunt (see §§ 27.93 and 27.94 of this chapter). We prohibit hunting from any stand left up overnight.
+(i) You must remove all boats, decoys, game cameras, blinds, blind materials, stands, platforms, and other personal equipment brought onto the refuge at the end of each day's hunt (see § 27.93 of this chapter). We prohibit hunting from any stand left up overnight.
 
 (ii) We prohibit hunting bear with dogs.
 
-(iii) Hunters must possess a refuge permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) to hunt in Area E (surrounding the office/visitor center).
+(iii) Hunters must possess a refuge permit (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System) to hunt in Area E (surrounding the office/visitor center).
 
-(iv) Hunters may enter the refuge no earlier than 1 hour before legal shooting hours and must exit the refuge no later than 1 hour after legal shooting hours.
+(iv) The condition set forth at paragraph (d)(2)(viii) applies.
 
 (v) Any ground blind used during any gun deer season must display at least 144 square inches (929 square centimeters) of solid-blaze-orange or fluorescent pink material visible from all directions.
 
@@ -68,11 +72,14 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit the use of fishing weights or lures containing lead.
 
-(e) *Leopold Wetland Management District* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds throughout the district, except that we prohibit hunting on the Blue-wing waterfowl production area (WPA) in Ozaukee County and on the Wilcox WPA in Waushara County, subject to the following conditions:
+(iii) We prohibit the taking of any mussel (clam), crayfish, frog, leech, or turtle species by any method on the refuge (see § 27.21 of this chapter).
+
+(e) *Leopold Wetland Management District*—
+(1) *Migratory game bird hunting.* We allow hunting of migratory game birds throughout the district, except that we prohibit hunting on the Blue Wing Waterfowl Production Area (WPA) in Ozaukee County and on the Wilcox WPA in Waushara County, subject to the following conditions:
 
 (i) We allow the use of hunting dogs, provided the dog is under the immediate control of the hunter at all times.
 
-(ii) You must remove boats, decoys, and blinds at the conclusion of each day (see § 27.93 of this chapter).
+(ii) You must remove all boats, decoys, game cameras, blinds, blind materials, stands, platforms, and other personal equipment brought onto the refuge at the end of each day's hunt (see § 27.93 of this chapter). We prohibit hunting from any stand left up overnight.
 
 (2) *Upland game hunting.* We allow hunting of upland game throughout the district, except that we prohibit hunting on the Blue-wing WPA in Ozaukee County and on the Wilcox WPA in Waushara County, subject to the following conditions:
 
@@ -80,11 +87,19 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) For hunting, you may use or possess only approved nontoxic shot shells (see § 32.2(k)) while in the field, including shot shells used for hunting wild turkey.
 
-(3) *Big game hunting.* We allow hunting of big game throughout the district, except that we prohibit hunting on the Blue-wing WPA in Ozaukee County and on the Wilcox WPA in Waushara County, subject to the following condition: Any ground blind used during any gun deer season must display at least 144 square inches (929 square centimeters) of solid, blaze-orange material visible from all directions.
+(3) *Big game hunting.* We allow hunting of big game throughout the district, except that we prohibit hunting on the Blue Wing WPA in Ozaukee County and on the Wilcox WPA in Waushara County, subject to the following conditions:
 
-(4) *Sport fishing.* We allow sport fishing on WPAs throughout the district.
+(i) Any ground blind used during any gun deer season must display at least 144 square inches (929 square centimeters) of solid, blaze-orange or fluorescent pink material visible from all directions.
 
-(f) *Necedah National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, merganser, dove, moorhen/gallinule, rail, snipe, and woodcock on designated areas of the refuge subject to the following conditions:
+(ii) The condition set forth at paragraph (e)(1)(ii) of this section applies.
+
+(4) *Sport fishing.* We allow sport fishing on WPAs throughout the district subject to the following conditions.
+
+(i) We prohibit the use of motorized boats while fishing.
+
+(ii) We prohibit the taking of any mussel (clam), crayfish, frog, leech, or turtle species by any method on the refuge (see § 27.21 of this chapter).
+
+(f) *Necedah National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, merganser, dove, moorhen/gallinule, rail, snipe, and woodcock on designated areas of the refuge subject to the following conditions:
 
 (i) Hunters may enter the refuge no earlier than 1 hour before legal shooting hours and must exit the refuge no later than 1 hour after legal shooting hours.
 
@@ -136,23 +151,39 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) We prohibit the taking of any mussel (clam), crayfish, frog, leech, or turtle species by any method on the refuge (see § 27.21 of this chapter).
 
-(g) *St. Croix Wetland Management District* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas throughout the district subject to the following conditions:
+(g) *St. Croix Wetland Management District*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas throughout the district subject to the following conditions:
 
-(i) We prohibit hunting on designated portions posted as closed of the St. Croix Prairie Waterfowl Production Area (WPA) and the Prairie Flats - South WPA in St. Croix County.
+(i) We prohibit hunting on designated portions posted as closed of the St. Croix Prairie Waterfowl Production Area (WPA) and the Prairie Flats— South WPA in St. Croix County.
 
 (ii) We close the Oak Ridge WPA in St. Croix County to hunting from the opening day of waterfowl season until the first Saturday in December, except that we allow deer hunting during regular archery, gun, and muzzleloader seasons.
 
+(iii) We prohibit the use of motorized boats while hunting and fishing.
+
+(iv) During the State-approved hunting season, we allow the use of hunting dogs, provided the dog is under the immediate control of the hunter at all times.
+
+(v) You must remove all boats, decoys, game cameras, blinds, blind materials, stands, platforms, and other personal equipment brought onto the refuge at the end of each day's hunt (see § 27.93 of this chapter). We prohibit hunting from any stand left up overnight.
+
 (2) *Upland game hunting.* We allow hunting of upland game on designated areas throughout the district subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (g)(1)(i) and (ii) of this section apply.
+(i) The conditions set forth at paragraphs (g)(1)(i) through (iv) of this section apply.
 
 (ii) For hunting, you may use or possess only approved nontoxic shot shells (see § 32.2(k)) while in the field, including shot shells used for hunting wild turkey.
 
-(3) *Big game hunting.* We allow hunting of big game on designated areas throughout the district subject to the following condition: We prohibit hunting on designated portions of the St. Croix Prairie WPA and the Prairie Flats - South WPA in St. Croix County.
+(3) *Big game hunting.* We allow hunting of big game on designated areas throughout the district subject to the following conditions:
 
-(4) *Sport fishing.* We allow sport fishing on WPAs throughout the district.
+(i) We prohibit hunting on designated portions of the St. Croix Prairie WPA and the Prairie Flats-South WPA in St. Croix County.
 
-(h) *Trempealeau National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
+(ii) Any ground blind used during any gun deer season must display at least 144 square inches (929 square centimeters) of solid-blaze-orange or fluorescent pink material visible from all directions.
+
+(iii) The conditions set forth at paragraphs (g)(1)(iii) through (v) of this section apply.
+
+(4) *Sport fishing.* We allow sport fishing on WPAs throughout the district subject to the following conditions.
+
+(i) We prohibit the taking of any mussel (clam), crayfish, frog, leech, or turtle species by any method on the refuge (see § 27.21 of this chapter).
+
+(ii) The condition set forth at paragraph (g)(1)(iii) of this section applies.
+
+(h) *Trempealeau National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
 
 (i) We allow hunting of duck, merganser, goose, coot, mourning dove, sora, Virginia rail, woodcock, snipe, and crow on refuge lands north of the main channel of the Trempealeau River and north of State Highway 35/54, subject to the following conditions:
 
@@ -196,11 +227,14 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) *Upper Mississippi River National Wildlife and Fish Refuge.* Refer to § 32.42(r) for regulations.
 
-(j) *Whittlesey Creek National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of waterfowl on designated areas of the refuge subject to the following conditions:
+(j) *Whittlesey Creek National Wildlife Refuge*—
+(1) *Migratory game bird hunting.* We allow hunting of waterfowl on designated areas of the refuge subject to the following conditions:
 
-(i) We allow only the use of portable or temporary blinds.
+(i) You must remove all boats, decoys, game cameras, blinds, blind materials, stands, platforms, and other personal equipment brought onto the refuge at the end of each day's hunt (see § 27.93 of this chapter). We prohibit hunting from any stand left up overnight.
 
-(ii) You must remove portable or temporary blinds and any material brought on to the refuge for blind construction at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(ii) Hunters may enter the refuge no earlier than 2 hours before legal shooting hours and must exit the refuge no later than 2 hours after legal shooting hours end.
+
+(iii) We prohibit the use of motorized boats while hunting and fishing.
 
 (2) [Reserved]
 
@@ -208,9 +242,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) We allow archery deer hunting to take place on refuge lands owned by the Service that constitute tracts greater than 20 acres (8 hectares).
 
-(ii) Hunters may construct ground blinds entirely of dead vegetation from refuge lands.
-
-(iii) Hunters must remove all stands and blinds from the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+(ii) The conditions set forth at paragraphs (j)(1)(i) and (ii) of this section apply.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
@@ -218,4 +250,6 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit the taking of any mussel (clam), crayfish, frog, leech, or turtle species by any method on the refuge (see § 27.21 of this chapter).
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54144, Aug. 31, 2020; 86 FR 48882, Aug. 31, 2021]
+(iii) The condition set forth at paragraph (j)(1)(iii) applies.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54144, Aug. 31, 2020; 86 FR 48882, Aug. 31, 2021; 87 FR 57134, Sept. 16, 2022]

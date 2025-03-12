@@ -2,7 +2,7 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Billy Frank Jr. Nisqually National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following conditions:
+(a) *Billy Frank Jr. Nisqually National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following conditions:
 
 (i) We allow hunters to possess and carry no more than 25 shells while hunting in the field.
 
@@ -18,7 +18,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We prohibit tidal flat and marsh access from refuge trails.
 
-(b) *Columbia National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and snipe on designated areas of the refuge subject to the following conditions:
+(b) *Columbia National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We prohibit discharge of any firearm within1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
@@ -44,7 +44,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow frogging during periods when we allow fishing on designated waters.
 
-(c) *Conboy Lake National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and snipe on designated areas of the refuge subject to the following conditions:
+(c) *Conboy Lake National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We prohibit discharge of any firearm within1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
@@ -60,7 +60,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow saltwater fishing on designated areas of the refuge.
 
-(e) *Hanford Reach National Monument/Saddle Mountain National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, and snipe on designated areas of the monument/refuge subject to the following conditions:
+(e) *Hanford Reach National Monument/Saddle Mountain National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, and snipe on designated areas of the monument/refuge subject to the following conditions:
 
 (i) We prohibit discharge of any firearm within1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
@@ -98,7 +98,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on the designated areas of the monument/refuge subject to the following condition: We allow access from legal sunrise to legal sunset, except that we allow access to the Wahluke Unit's White Bluffs boat launch from 2 hours before legal sunrise until 2 hours after legal sunset for launch and recovery activities only.
 
-(f) *Julia Butler Hansen Refuge for the Columbian White-Tailed Deer* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and common snipe on designated areas of the refuge subject to the following conditions:
+(f) *Julia Butler Hansen Refuge for the Columbian White-Tailed Deer*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and common snipe on designated areas of the refuge subject to the following conditions:
 
 (i) You must remove all personal property, including decoys and boats, by 1 hour after legal sunset (see §§ 27.93 and 27.94 of this chapter).
 
@@ -126,7 +126,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow bank fishing on designated areas of the refuge.
 
-(g) *Little Pend Oreille National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
+(g) *Little Pend Oreille National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
 
 (i) We allow hunting September through December.
 
@@ -144,7 +144,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(h) *McNary National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, and snipe on designated areas of the refuge subject to the following conditions:
+(h) *McNary National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We prohibit discharge of any firearm within1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
@@ -176,7 +176,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(i) *Ridgefield National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following conditions:
+(i) *Ridgefield National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following conditions:
 
 (i) You may not shoot or discharge any firearm from, across, or along any designated route of travel, including pedestrian trails.
 
@@ -214,7 +214,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(k) *Toppenish National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, and snipe on designated areas of the refuge subject to the following conditions:
+(k) *Toppenish National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We prohibit discharge of any firearm within1/4 mile (396 meters (m)) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
@@ -240,7 +240,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3)-(4) [Reserved]
 
-(l) *Turnbull National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
+(l) *Turnbull National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
 
 (i) We allow hunting during the State youth season in September.
 
@@ -264,17 +264,23 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2) [Reserved]
 
-(3) *Big game hunting.* We allow hunting of elk on designated areas of the refuge subject to the following conditions:
+(3) *Big game hunting.* We allow hunting of elk and turkey on designated areas of the refuge subject to the following conditions:
 
-(i) Hunters must obtain a letter from the refuge manager assigning them a hunt unit.
+(i) Elk hunters must obtain a letter from the refuge manager assigning them a hunt unit.
 
-(ii) Hunters may access the refuge no earlier than 2 hours before State legal shooting time and must leave no later than 5 hours after the end of State legal hunting hours.
+(ii) Elk hunters may access the refuge no earlier than 2 hours before State legal shooting time and must leave no later than 5 hours after the end of State legal hunting hours.
 
-(iii) Hunters not using approved nontoxic ammunition (see § 32.2(k)) must remove or bury the visceral remains of harvested animals.
+(iii) Elk hunters not using approved nontoxic ammunition (see § 32.2(k)) must remove or bury the visceral remains of harvested animals.
+
+(iv) We allow turkey hunting during the fall season only.
+
+(v) We prohibit the possession or use of toxic shot by hunters using shotguns (see § 32.2(k)) when hunting turkey.
+
+(vi) For turkey hunting, the condition set forth at paragraph (l)(1)(iv) of this section applies.
 
 (4) [Reserved]
 
-(m) *Umatilla National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, and snipe on designated areas of the refuge subject to the following conditions:
+(m) *Umatilla National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We prohibit discharge of any firearm within1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
@@ -298,7 +304,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(n) *Willapa National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and snipe on designated areas of the refuge subject to the following conditions:
+(n) *Willapa National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) In the designated goose hunt area in the Riekkola Unit, hunters may take ducks, coots, and snipe only incidental to hunting geese.
 
@@ -330,4 +336,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54142, Aug. 31, 2020; 86 FR 48882, Aug. 31, 2021]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54142, Aug. 31, 2020; 86 FR 48882, Aug. 31, 2021; 87 FR 57134, Sept. 16, 2022]

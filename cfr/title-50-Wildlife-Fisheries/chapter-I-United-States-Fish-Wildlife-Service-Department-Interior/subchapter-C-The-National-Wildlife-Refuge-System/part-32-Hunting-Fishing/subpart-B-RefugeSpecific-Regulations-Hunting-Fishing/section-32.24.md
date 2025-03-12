@@ -4,7 +4,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (a) *Cibola National Wildlife Refuge.* Refer to § 32.22(d) for regulations.
 
-(b) *Clear Lake National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge.
+(b) *Clear Lake National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge.
 
 (2) [Reserved]
 
@@ -12,7 +12,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(c) *Colusa National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
+(c) *Colusa National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) You must return the State-issued entry permit and vacate the refuge no later than 11/2 hours after legal sunset unless participating in an authorized overnight stay.
 
@@ -40,7 +40,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3)-(4) [Reserved]
 
-(d) *Delevan National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
+(d) *Delevan National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) You must return the State-issued entry permit and vacate the refuge no later than 11/2 hours after legal sunset unless participating in an authorized overnight stay.
 
@@ -68,7 +68,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3)-(4) [Reserved]
 
-(e) *Don Edwards San Francisco Bay National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following conditions:
+(e) *Don Edwards San Francisco Bay National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following conditions:
 
 (i) Hunters may only hunt during designated days and times.
 
@@ -100,7 +100,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (f) *Havasu National Wildlife Refuge.* Refer to § 32.22(e) for regulations.
 
-(g) *Humboldt Bay National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, common moorhen, and snipe on designated areas of the refuge subject to the following conditions:
+(g) *Humboldt Bay National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, common moorhen, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) All hunters age 15 and younger must remain in the immediate presence of an adult (age 18 or older) at all times while in the field.
 
@@ -110,7 +110,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We allow the use of dogs when hunting.
 
-(v) On the Salmon Creek Unit, we allow hunting on Tuesdays and Saturdays (except Federal holidays), and hunters must possess and carry a valid daily refuge permit. We issue refuge permits prior to each hunt by random drawing of names conducted at the check station 11/2 hours before legal shooting time. Shooting time ends at 3 p.m. Hunters drawn for a blind must completely fill out a Refuge Hunt Permit, which includes a “Record of Harvest” section. Each hunter must possess and carry the Refuge Hunt Permit/Record of Harvest (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) document while on the refuge and turn in a complete Record of Harvest at the check station before leaving the hunt area.
+(v) On the Salmon Creek Unit, we allow hunting on Tuesdays and Saturdays (except Federal holidays), and hunters must possess and carry a valid daily refuge permit. We issue refuge permits prior to each hunt by random drawing of names conducted at the check station 11/2 hours before legal shooting time. Shooting time ends at 3 p.m. Hunters drawn for a blind must completely fill out a Refuge Hunt Permit, which includes a “Record of Harvest” section. Each hunter must possess and carry the Refuge Hunt Permit/Record of Harvest (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System) document while on the refuge and turn in a complete Record of Harvest at the check station before leaving the hunt area.
 
 (vi) On the Salmon Creek Unit, you may possess shot shells in quantities of 25 or fewer per hunter, per day.
 
@@ -122,7 +122,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (h) *Imperial National Wildlife Refuge.* Refer to § 32.22(f) for regulations.
 
-(i) *Kern National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, snipe, and moorhen on designated areas of the refuge subject to the following conditions:
+(i) *Kern National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, snipe, and moorhen on designated areas of the refuge subject to the following conditions:
 
 (i) Hunters assigned to the spaced blind unit must remain within 100 feet (30.5 meters) of the numbered steel post (blind site) except when pursuing crippled birds, placing decoys, or traveling to and from the parking area.
 
@@ -134,7 +134,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3)-(4) [Reserved]
 
-(j) *Lower Klamath National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
+(j) *Lower Klamath National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) In the controlled waterfowl hunting area, we require a valid Refuge Recreation Pass (available electronically or in person at the refuge office) for all hunters age 16 or older. All hunters age 15 and younger must remain in the immediate presence of an adult (age 18 or older) at all times while in the field.
 
@@ -160,7 +160,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing from boats on designated areas of the refuge.
 
-(l) *Merced National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, snipe, and moorhen on designated areas of the refuge subject to the following conditions:
+(l) *Merced National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, snipe, and moorhen on designated areas of the refuge subject to the following conditions:
 
 (i) You may not possess more than 25 shot shells while in the field once you have left your assigned parking lot or boat launch.
 
@@ -172,9 +172,9 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2)-(4) [Reserved]
 
-(m) *Modoc National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
+(m) *Modoc National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
 
-(i) On the opening weekend of the hunting season, hunters must possess and carry a refuge permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) issued through random drawing to hunters with advance reservations only.
+(i) On the opening weekend of the hunting season, hunters must possess and carry a refuge permit (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System) issued through random drawing to hunters with advance reservations only.
 
 (ii) After the opening weekend of the hunting season, we only allow hunting on Tuesdays, Thursdays, and Saturdays. Hunters must check-in and out of the refuge by using self-service permits (FWS Form 3-2405, Self-Clearing Check-in/out Permit). Hunters must completely fill out the “Refuge Hunt Permit” portion of the permit and deposit it in the drop box prior to hunting. The hunter must possess and carry the “Record of Kill” portion of the permit while on the refuge and turn it in prior to exiting the hunting area.
 
@@ -190,11 +190,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (viii) Hunters must enter and exit the hunting area from the three designated hunt parking lots, which we open 11/2 hours before legal sunrise and close 1 hour after legal sunset each hunt day.
 
-(ix) We only allow access to the hunt area by foot, bicycle, and nonmotorized cart. We prohibit bicycles in the hunt area during the opening weekend of the hunting season.
+(ix) We only allow access to the hunt area by foot and nonmotorized cart.
 
 (2) *Upland game hunting.* We allow hunting of pheasant on designated areas of the refuge subject to the following conditions:
 
-(i) We limit hunting to junior hunters possessing a valid State Junior Hunting License and refuge Junior Pheasant Hunt Permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
+(i) We limit hunting to junior hunters possessing a valid State Junior Hunting License and refuge Junior Pheasant Hunt Permit (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System).
 
 (ii) All hunters age 15 and younger must remain in the immediate presence of an adult (age 18 or older) at all times while in the field.
 
@@ -202,7 +202,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing only on Dorris Reservoir subject to the following conditions:
 
-(i) We prohibit fishing from February 1 through September 30.
+(i) We prohibit fishing from October 1 to January 31.
 
 (ii) We allow fishing only from legal sunrise to legal sunset.
 
@@ -210,7 +210,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We allow use of boats for fishing on Dorris Reservoir only from April 1 through September 30.
 
-(n) *Sacramento National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
+(n) *Sacramento National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) You must return the State-issued entry permit and vacate the refuge no later than 11/2 hours after legal sunset unless participating in an authorized overnight stay.
 
@@ -238,7 +238,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3)-(4) [Reserved]
 
-(o) *Sacramento River National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, dove, and snipe on designated areas of the refuge subject to the following conditions:
+(o) *Sacramento River National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, dove, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) Access to the hunt area on all units open to public hunting is by boat only, except on designated units, which are accessible by foot traffic or boat. We prohibit bicycles or other conveyances. Mobility-impaired hunters should consult with the refuge manager for allowed conveyances.
 
@@ -268,7 +268,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(p) *Salinas River National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and moorhen on designated areas of the refuge subject to the following conditions:
+(p) *Salinas River National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and moorhen on designated areas of the refuge subject to the following conditions:
 
 (i) You may not possess more than 25 shot shells while in the field once you have left your assigned parking lot or boat launch.
 
@@ -280,11 +280,31 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2)-(4) [Reserved]
 
-(q) *San Diego Bay National Wildlife Refuge.* (1)-(3) [Reserved]
+(q) San Diego National Wildlife Refuge—(1) [Reserved]
+
+(2) *Upland game hunting.* We allow hunting of quail, mourning and white-winged dove, spotted and ringed turtle dove, Eurasian collared-dove, brush rabbit, cottontail rabbit, and jackrabbit on designated areas of the refuge subject to the following conditions:
+
+(i) Archery hunting of quail is limited to September 1 to the closing date established by the California Department of Fish and Wildlife (CDFW).
+
+(ii) Hunting of brush rabbit and cottontail rabbit is limited to September 1 to the closing date established by CDFW.
+
+(iii) Hunting of Eurasian collared-dove and jackrabbit is limited to September 1 to the last day of February.
+
+(iv) We allow shotguns and archery only. Falconry is prohibited.
+
+(v) You may not possess more than 25 shot shells while in the field.
+
+(vi) We allow the use of dogs when hunting upland game.
+
+(3) *Big game hunting.* We allow hunting of mule deer on designated areas of the refuge.
+
+(4) [Reserved]
+
+(r) *San Diego Bay National Wildlife Refuge.* (1)-(3) [Reserved]
 
 (4) *Sport fishing.* We allow sport fishing from boats and other flotation devices on designated areas of the refuge subject to the following condition: We prohibit shoreline fishing.
 
-(r) *San Luis National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
+(s) *San Luis National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) You may not possess more than 25 shot shells while in the field once you have left your assigned parking lot or boat launch.
 
@@ -314,7 +334,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We only allow the use of pole and line or rod and reel to take fish, and anglers must attend their equipment at all times.
 
-(s) *San Pablo Bay National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following conditions:
+(t) *San Pablo Bay National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following conditions:
 
 (i) You may only hunt from a boat. We prohibit walk-in hunting on the refuge.
 
@@ -324,13 +344,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) You may only hunt on Wednesdays, Saturdays, and Sundays.
 
-(ii) The conditions set forth at paragraphs (s)(1)(ii) and (iii) of this section apply.
+(ii) The conditions set forth at paragraphs (t)(1)(ii) and (iii) of this section apply.
 
 (3) [Reserved]
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: We allow fishing only with a pole and line or rod and reel. We prohibit bow fishing and gigging.
 
-(t) *Sonny Bono Salton Sea National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and moorhen on designated areas of the refuge subject to the following conditions:
+(u) *Sonny Bono Salton Sea National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and moorhen on designated areas of the refuge subject to the following conditions:
 
 (i) Hunters using the Union Tract must use goose decoys.
 
@@ -346,11 +366,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We only allow boat fishing.
 
-(u) *Stone Lakes National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and moorhen on designated areas of the refuge subject to the following conditions:
+(v) *Stone Lakes National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and moorhen on designated areas of the refuge subject to the following conditions:
 
 (i) We allow hunting on Sun River Unit only on Wednesdays and Saturdays from1/2 hour before legal sunrise until 12 p.m. (noon).
 
-(ii) We will select hunters through a random drawing process (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) conducted at the refuge. Hunters should bring a copy of their refuge notification on the day of their hunt. Hunters should contact the refuge manager for additional information.
+(ii) We will select hunters through a random drawing process (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System) conducted at the refuge. Hunters should bring a copy of their refuge notification on the day of their hunt. Hunters should contact the refuge manager for additional information.
 
 (iii) All hunters age 15 and younger must remain in the immediate presence of an adult (age 18 or older) at all times while in the field.
 
@@ -374,7 +394,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit the take of native reptiles and amphibians (see § 27.21 of this chapter).
 
-(v) *Sutter National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
+(w) *Sutter National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) You must return the State-issued entry permit and vacate the refuge no later than 11/2 hours after legal sunset unless participating in an authorized overnight stay.
 
@@ -396,11 +416,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) We allow turkey hunting during the fall season only.
 
-(ii) The conditions set forth at paragraphs (v)(1)(i) through (viii) of this section apply.
+(ii) The conditions set forth at paragraphs (w)(1)(i) through (viii) of this section apply.
 
 (3)-(4) [Reserved]
 
-(w) *Tule Lake National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
+(x) *Tule Lake National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) In the controlled waterfowl hunting area, we require a valid Refuge Recreation Pass (available electronically or in person at the refuge office) for all hunters age 16 or older.
 
@@ -430,4 +450,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3)-(4) [Reserved]
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54105, Aug. 31, 2020; 86 FR 48857, Aug. 31, 2021]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54105, Aug. 31, 2020; 86 FR 48857, Aug. 31, 2021; 87 FR 57128, Sept. 16, 2022]

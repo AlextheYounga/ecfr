@@ -86,9 +86,17 @@ A foreign-produced item includes any foreign-produced wafer whether finished or 
 
 (1) *Product scope of Russia/Belarus FDP rule.* The product scope applies if a foreign-produced item meets the conditions of either paragraph (f)(1)(i) or (ii) of this section.
 
-(i) *“Direct product” of “technology” or “software.”* A foreign-produced item meets the product scope of this paragraph (f)(1)(i) if the foreign-produced item is not designated EAR99 and is a “direct product” of U.S.-origin “technology” or “software” subject to the EAR that is specified in any ECCN in product groups D or E of the CCL; or
+(i) *“Direct product” of “technology” or “software.”* A foreign-produced item meets the product scope of this paragraph (f)(1)(i) if the foreign-produced item meets both of the following conditions:
 
-(ii) *“Direct product” of a complete plant or 'major component' of a plant.* A foreign-produced item meets the product scope of this paragraph (f)(1)(ii) if the foreign-produced item is not designated EAR99 and is produced by any plant or 'major component' of a plant that is located outside the United States, when the plant or 'major component' of a plant, whether made in the United States or a foreign country, itself is a “direct product” of U.S.-origin “technology” or “software” subject to the EAR that is specified in any ECCN in product groups D or E of the CCL.
+(A) The foreign-produced item is the “direct product” of U.S.-origin “technology” or “software” subject to the EAR that is specified in any ECCN in product groups D or E of the CCL; and
+
+(B) The foreign-produced item is identified in supplement no. 6 to part 746 of the EAR or is not designated EAR99; or
+
+(ii) *“Direct product” of a complete plant or 'major component' of a plant.* A foreign-produced item meets the product scope of this paragraph (f)(1)(ii) if it meets both of the following conditions:
+
+(A) The foreign-produced item is produced by any plant or 'major component' of a plant that is located outside the United States, when the plant or 'major component' of a plant, whether made in the United States or a foreign country, itself is a “direct product” of U.S.-origin “technology” or “software” subject to the EAR that is specified in any ECCN in product groups D or E of the CCL; and
+
+(B) The foreign-produced item is identified in supplement no. 6 to part 746 of the EAR or is not designated EAR99.
 
 (2) *Destination scope of the Russia/Belarus FDP rule.* A foreign-produced item meets the destination scope of this paragraph (f)(2) if there is “knowledge” that the foreign-produced item is destined to Russia or Belarus or will be incorporated into or used in the “production” or “development” of any “part,” “component,” or “equipment” not designated EAR99 and produced in or destined to Russia or Belarus.
 
@@ -110,4 +118,4 @@ Note 3 to paragraph (g).
 
 A 'military end user' for purposes of paragraph (g) is any entity listed on the Entity List in supplement no. 4 to part 744 of the EAR with a footnote 3 designation.
 
-[87 FR 6024, Feb. 3, 2022, as amended at 87 FR 12236, Mar. 3, 2022; 87 FR 13055, Mar. 8, 2022; 87 FR 22131, Apr. 14, 2022]
+[87 FR 6024, Feb. 3, 2022, as amended at 87 FR 12236, Mar. 3, 2022; 87 FR 13055, Mar. 8, 2022; 87 FR 22131, Apr. 14, 2022; 87 FR 57078, Sept. 16, 2022]

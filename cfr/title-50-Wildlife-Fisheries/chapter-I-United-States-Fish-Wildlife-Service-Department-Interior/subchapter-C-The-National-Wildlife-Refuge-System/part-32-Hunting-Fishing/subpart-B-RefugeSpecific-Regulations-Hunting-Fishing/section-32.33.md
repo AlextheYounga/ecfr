@@ -94,31 +94,27 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) We allow only youth age 15 and younger to fish in the Discovery Pond.
 
-(c) *Patoka River National Wildlife Refuge and Management Area* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, merganser, coot, woodcock, dove, snipe, rail, and crow on designated areas of the refuge and the White River Wildlife Management Area subject to the following conditions:
+(c) Patoka River National Wildlife Refuge and Management Area - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, merganser, coot, woodcock, dove, snipe, rail, and crow on designated areas of the refuge and the White River Wildlife Management Area subject to the following conditions:
 
 (i) You must remove all boats, decoys, blinds, and blind materials after each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
-(ii) We prohibit hunting and the discharge of a weapon within 150 yards (137 meters) of any dwelling or any building that may be occupied by people, pets, or livestock.
+(ii) We prohibit hunting and the discharge of a weapon within 150 yards (137 meters) of any dwelling or any building that may be occupied by people, pets, or livestock and within 50 yards (45 meters) of all designated public use facilities, including, but not limited to, parking areas and established hiking trails listed in the refuge hunting and fishing brochure.
 
 (2) *Upland game hunting.* We allow hunting of bobwhite quail, pheasant, cottontail rabbit, squirrel (gray and fox), red and gray fox, coyote, opossum, striped skunk, and raccoon subject to the following conditions:
 
 (i) We allow the use of dogs for hunting, provided the dog is under the immediate control of the hunter at all times.
 
-(ii) The conditions set forth at paragraphs (c)(1)(i) and (ii) of this section apply.
-
-(iii) You may only use or possess approved nontoxic shot shells (see § 32.2(k)) while in the field.
+(ii) The conditions set forth at paragraphs (c)(1)(i) through (iii) of this section apply.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer and wild turkey on designated areas of the refuge subject to the following conditions:
 
-(i) The condition set forth at paragraph (c)(2)(iii) applies while turkey hunting.
+(i) The conditions set forth at paragraphs (c)(1)(i) through (iii) of this section apply.
 
 (ii) On the Columbia Mine Unit, you may only hunt white-tailed deer during the first week (7 days) of the following seasons, as governed by the State: archery, firearms, and muzzleloader.
 
 (iii) On the Columbia Mine Unit, you may leave portable tree stands overnight only when the unit is open to hunting and for a 2-day grace period before and after the special season.
 
 (iv) On the Columbia Mine Unit, if you use a rifle to hunt, you may use only rifles allowed by State regulations for hunting on public land.
-
-(v) The conditions set forth at paragraphs (c)(1)(i) and (ii) of this section apply.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
@@ -132,4 +128,14 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) You must remove boats at the end of each day's fishing activity (see § 27.93 of this chapter).
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54110, Aug. 31, 2020]
+(vi) The condition set forth at paragraph (c)(1)(iii) of this section applies.
+
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54110, Aug. 31, 2020; 87 FR 57129, Sept. 16, 2022]Effective Date Note:At 87 FR 57129, Sept. 16, 2022, § 32.33 was further amended by revising paragraph (c)(1)(iii), effective Sept. 1, 2026. For the convenience of the user, the revised text is set forth as follows:
+
+##### § 32.33 Indiana. #####
+
+(c) \* \* \*
+
+(1) \* \* \*
+
+(iii) You may only use or possess approved non-lead shot shells, ammunition, and tackle while in the field.

@@ -2,7 +2,7 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Bandon Marsh National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
+(a) *Bandon Marsh National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
 
 (i) We allow hunting of goose, duck, coot, and snipe 7 days per week on that portion of the refuge west of U.S. Highway 101 and outside the Bandon city limits.
 
@@ -22,17 +22,17 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(b) *Baskett Slough National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck and goose on designated areas of the refuge subject to the following conditions:
+(b) *Baskett Slough National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck and goose on designated areas of the refuge subject to the following conditions:
 
 (i) We allow only hunters age 17 and younger to participate in the youth waterfowl hunt. Youths must be accompanied by an adult age 21 or older.
 
-(ii) We require youth hunters to obtain a refuge waterfowl hunting permit (Waterfowl Lottery Application, FWS Form 3-2439, Hunt Application - National Wildlife Refuge System). All youth hunting waterfowl must do so from designated blinds.
+(ii) We require youth hunters to obtain a refuge waterfowl hunting permit (Waterfowl Lottery Application, FWS Form 3-2439, Hunt Application—National Wildlife Refuge System). All youth hunting waterfowl must do so from designated blinds.
 
 (iii) You must remove blinds, decoys, and other personal property at the end of each day's hunt (see § 27.93 of this chapter).
 
 (iv) We allow the use of dogs when hunting.
 
-(v) We require waterfowl and goose permit hunters to check in and out at the Hunter Check Station (refuge office), which is open from 11/2 hours before legal hunting hours to 8 a.m. and from 11 a.m. to 1 p.m. We prohibit hunting after 12 p.m. (noon).
+(v) We require youth waterfowl hunters to check in and out at the Hunter Check Station (refuge office), which is open from 11/2 hours before legal hunting hours to 8 a.m. and from 11 a.m. to 1 p.m. We prohibit hunting after 12 p.m. (noon) for this hunt.
 
 (vi) We require goose hunters to space themselves no less than 200 yards (183 meters) apart from each other during the early September goose hunt.
 
@@ -50,7 +50,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(d) *Cold Springs National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, and snipe on designated areas of the refuge subject to the following conditions:
+(d) *Cold Springs National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We prohibit discharge of any firearm within1/4 mile (396 meters (m)) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
@@ -78,7 +78,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge.
 
-(e) *Deer Flat National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning dove, goose, duck, coot, and snipe on designated areas of the refuge subject to the following condition: We allow only portable blinds and temporary blinds constructed of natural materials.
+(e) *Deer Flat National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of mourning dove, goose, duck, coot, and snipe on designated areas of the refuge subject to the following condition: We allow only portable blinds and temporary blinds constructed of natural materials.
 
 (2) *Upland game hunting.* We allow hunting of pheasant, quail, and partridge on designated areas of the refuge subject to the following condition: We prohibit hunting from February 1 through May 31.
 
@@ -86,7 +86,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following condition: We prohibit shoreline fishing on the islands of the Snake River Sector from February 1 through May 31.
 
-(f) *Hart Mountain National Antelope Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
+(f) *Hart Mountain National Antelope Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
 
 (i) We allow only portable blinds and temporary blinds constructed of synthetic or nonliving natural materials.
 
@@ -106,7 +106,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge.
 
-(g) *Julia Butler Hansen Refuge for the Columbian White-Tailed Deer* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and common snipe on designated areas of the refuge subject to the following conditions:
+(g) *Julia Butler Hansen Refuge for the Columbian White-Tailed Deer*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and common snipe on designated areas of the refuge subject to the following conditions:
 
 (i) You must remove all personal property, including decoys and boats, by 1 hour after legal sunset (see §§ 27.93 and 27.94 of this chapter).
 
@@ -118,13 +118,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(h) *Klamath Marsh National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and common snipe on designated areas of the refuge subject to the following condition: We prohibit the use of air-thrust and inboard water-thrust boats when waterfowl hunting.
+(h) *Klamath Marsh National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and common snipe on designated areas of the refuge subject to the following condition: We prohibit the use of air-thrust and inboard water-thrust boats when waterfowl hunting.
 
 (2)-(3) [Reserved]
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following condition: We prohibit the use of boats when sport fishing.
 
-(i) *Lewis and Clark National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and snipe on the designated areas of the refuge subject to the following conditions:
+(i) *Lewis and Clark National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and snipe on the designated areas of the refuge subject to the following conditions:
 
 (i) You must remove all personal property, including decoys and boats, by 1 hour after legal sunset (see §§ 27.93 and 27.94 of this chapter).
 
@@ -136,11 +136,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-(j) *Lower Klamath National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and common snipe on designated areas of the refuge subject to the following conditions:
+(j) *Lower Klamath National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and common snipe on designated areas of the refuge subject to the following conditions:
 
 (i) In the controlled waterfowl hunting area, we require a valid Refuge Recreation Pass (electronic form) for all hunters age 16 and older. All hunters age 15 and younger must remain in the immediate presence of an adult (age 18 or older) at all times while in the field.
 
-(ii) We require advance reservations for the first 2 days of the hunting season. You may obtain a reservation through the waterfowl lottery (Migratory Bird Hunt Application, FWS form 3-2439, Hunt Application - National Wildlife Refuge System) each year.
+(ii) We require advance reservations for the first 2 days of the hunting season. You may obtain a reservation through the waterfowl lottery (Migratory Bird Hunt Application, FWS form 3-2439, Hunt Application—National Wildlife Refuge System) each year.
 
 (iii) Entry hours for hunters begin at 4:30 a.m. unless otherwise posted.
 
@@ -150,7 +150,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3)-(4) [Reserved]
 
-(k) *Malheur National Wildlife Refuge* -
+(k) *Malheur National Wildlife Refuge*—
 (1) *Migratory game bird hunting.* We allow hunting of dove, goose, duck, merganser, coot, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We allow nonmotorized boats or boats equipped with only electric motors on the North and South Malheur Lake Hunt Units.
@@ -179,7 +179,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We prohibit boats on public fishing areas, except that we allow nonmotorized boats and boats equipped with only electric motors on Krumbo Reservoir.
 
-(l) *McKay Creek National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, snipe, and dove on designated areas of the refuge subject to the following conditions:
+(l) *McKay Creek National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, snipe, and dove on designated areas of the refuge subject to the following conditions:
 
 (i) We prohibit discharge of any firearm within1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
@@ -203,7 +203,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (m) *McNary National Wildlife Refuge.* Refer to § 32.66(h) for regulations.
 
-(n) *Nestucca Bay National Wildlife Refuge* -
+(n) *Nestucca Bay National Wildlife Refuge*—
 (1) *Migratory game bird hunting.* We allow hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
 
 (i) Hunters must remove all blinds, decoys, shotshell hulls, and other personal equipment and refuse from the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
@@ -224,7 +224,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(p) *Siletz Bay National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following conditions:
+(p) *Siletz Bay National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following conditions:
 
 (i) We allow waterfowl hunting 7 days per week on refuge lands west of U.S. Highway 101.
 
@@ -242,7 +242,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow fishing and clamming on designated areas of the refuge only from legal sunrise to legal sunset.
 
-(q) *Tualatin River National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow waterfowl hunting on designated areas of the refuge subject to the following conditions:
+(q) *Tualatin River National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow waterfowl hunting on designated areas of the refuge subject to the following conditions:
 
 (i) Youth age 17 and younger may participate as active hunters. An adult age 21 or older must accompany and supervise youth hunters. We do not allow supervising adults to hunt.
 
@@ -268,7 +268,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (2)-(4) [Reserved]
 
-(r) *Umatilla National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, and snipe on designated areas of the refuge subject to the following conditions:
+(r) *Umatilla National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We prohibit discharge of any firearm within1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
@@ -300,13 +300,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge.
 
-(s) *Upper Klamath National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and common snipe on designated areas of the refuge.
+(s) *Upper Klamath National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and common snipe on designated areas of the refuge.
 
 (2)-(3) [Reserved]
 
 (4) *Sport fishing.* We allow sport fishing in designated areas of the refuge.
 
-(t) *Wapato Lake National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck and coot on designated areas of the refuge subject to the following conditions:
+(t) *Wapato Lake National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck and coot on designated areas of the refuge subject to the following conditions:
 
 (i) We allow hunting on Tuesdays, Thursdays, and Saturdays during the State waterfowl season.
 
@@ -356,4 +356,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow anglers to use only pole and line, or rod and reel. Anglers must attend their line.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54137, Aug. 31, 2020; 86 FR 48875, Aug. 31, 2021]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54137, Aug. 31, 2020; 86 FR 48875, Aug. 31, 2021; 87 FR 57131, Sept. 16, 2022]

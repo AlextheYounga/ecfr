@@ -6,7 +6,7 @@ In this part, references to the EAR are references to 15 CFR chapter VII, subcha
 
 (1) Transactions involving restrictive trade practices or boycotts described in part 760 of the EAR;
 
-(2) Exports of commodities, software, or technology from the United States and any known reexports, transshipment, or diversions of items exported from the United States;
+(2) Exports of commodities, software, or technology from the United States and any known reexports, transfers (in-country), transshipment, or diversions of items exported from the United States;
 
 (3) Exports to Canada, if, at any stage in the transaction, it appears that a person in a country other than the United States or Canada has an interest therein, or that the item involved is to be reexported, transshipped, or diverted from Canada to another foreign country; or
 
@@ -14,4 +14,4 @@ In this part, references to the EAR are references to 15 CFR chapter VII, subcha
 
 (b) *Persons subject to this part.* Any person subject to the jurisdiction of the United States who, as principal or agent (including a forwarding agent), participates in any transaction described in paragraph (a) of this section, and any person in the United States or abroad who is required to make and maintain records under any provision of the EAR, shall keep and maintain all records described in § 762.2 of this part that are made or obtained by that person and shall produce them in a manner provided by § 762.7 of this part.
 
-[61 FR 12900, Mar. 25, 1996, as amended at 70 FR 22249, Apr. 29, 2005; 78 FR 13471, Feb. 28, 2013]
+[61 FR 12900, Mar. 25, 1996, as amended at 70 FR 22249, Apr. 29, 2005; 78 FR 13471, Feb. 28, 2013; 87 FR 57106, Sept. 16, 2022]

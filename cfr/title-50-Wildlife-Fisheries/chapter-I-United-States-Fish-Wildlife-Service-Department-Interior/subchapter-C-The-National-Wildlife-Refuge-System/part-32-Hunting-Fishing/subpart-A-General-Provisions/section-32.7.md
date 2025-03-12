@@ -120,19 +120,21 @@ Refuge units open to hunting and/or sport fishing in accordance with the provisi
 
 (16) Salinas River National Wildlife Refuge.
 
-(17) San Diego Bay National Wildlife Refuge.
+(17) San Diego National Wildlife Refuge.
 
-(18) San Luis National Wildlife Refuge.
+(18) San Diego Bay National Wildlife Refuge.
 
-(19) San Pablo Bay National Wildlife Refuge.
+(19) San Luis National Wildlife Refuge.
 
-(20) Sonny Bono Salton Sea National Wildlife Refuge.
+(20) San Pablo Bay National Wildlife Refuge.
 
-(21) Stone Lakes National Wildlife Refuge.
+(21) Sonny Bono Salton Sea National Wildlife Refuge.
 
-(22) Sutter National Wildlife Refuge.
+(22) Stone Lakes National Wildlife Refuge.
 
-(23) Tule Lake National Wildlife Refuge.
+(23) Sutter National Wildlife Refuge.
+
+(24) Tule Lake National Wildlife Refuge.
 
 (f) *Colorado.* (1) Alamosa National Wildlife Refuge.
 
@@ -328,17 +330,19 @@ Refuge units open to hunting and/or sport fishing in accordance with the provisi
 
 (s) *Maine.* (1) Franklin Island National Wildlife Refuge.
 
-(2) Moosehorn National Wildlife Refuge.
+(2) Great Thicket National Wildlife Refuge.
 
-(3) Petit Manan National Wildlife Refuge.
+(3) Moosehorn National Wildlife Refuge.
 
-(4) Pond Island National Wildlife Refuge.
+(4) Petit Manan National Wildlife Refuge.
 
-(5) Rachel Carson National Wildlife Refuge.
+(5) Pond Island National Wildlife Refuge.
 
-(6) Sunkhaze Meadows National Wildlife Refuge.
+(6) Rachel Carson National Wildlife Refuge.
 
-(7) Umbagog National Wildlife Refuge.
+(7) Sunkhaze Meadows National Wildlife Refuge.
+
+(8) Umbagog National Wildlife Refuge.
 
 (t) *Maryland.* (1) Blackwater National Wildlife Refuge.
 
@@ -562,21 +566,23 @@ Refuge units open to hunting and/or sport fishing in accordance with the provisi
 
 (2) Elizabeth A. Morton National Wildlife Refuge.
 
-(3) Iroquois National Wildlife Refuge.
+(3) Great Thicket National Wildlife Refuge.
 
-(4) Montezuma National Wildlife Refuge.
+(4) Iroquois National Wildlife Refuge.
 
-(5) Oyster Bay National Wildlife Refuge.
+(5) Montezuma National Wildlife Refuge.
 
-(6) Seatuck National Wildlife Refuge.
+(6) Oyster Bay National Wildlife Refuge.
 
-(7) Shawangunk Grasslands National Wildlife Refuge.
+(7) Seatuck National Wildlife Refuge.
 
-(8) Target Rock National Wildlife Refuge.
+(8) Shawangunk Grasslands National Wildlife Refuge.
 
-(9) Wallkill National Wildlife Refuge.
+(9) Target Rock National Wildlife Refuge.
 
-(10) Wertheim National Wildlife Refuge.
+(10) Wallkill National Wildlife Refuge.
+
+(11) Wertheim National Wildlife Refuge.
 
 (gg) *North Carolina.* (1) Alligator River National Wildlife Refuge.
 
@@ -1002,4 +1008,4 @@ Refuge units open to hunting and/or sport fishing in accordance with the provisi
 
 (2) [Reserved]
 
-[84 FR 47671, Sept. 10, 2019, as amended at 85 FR 54103, Aug. 31, 2020; 86 FR 48849, Aug. 31, 2021]
+[84 FR 47671, Sept. 10, 2019, as amended at 85 FR 54103, Aug. 31, 2020; 86 FR 48849, Aug. 31, 2021; 87 FR 57128, Sept. 16, 2022]

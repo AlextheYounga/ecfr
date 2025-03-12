@@ -5,7 +5,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (a) *Banks Lake National Wildlife Refuge.* (1)-(2)
 [Reserved]
 
-(3) *Big game hunting.* We allow alligator hunting on designated areas of the refuge subject to the following condition: We only allow alligator hunting during the first two weekends (from legal sunset Friday through legal sunrise Monday) of the State alligator season.
+(3) *Big game hunting.* We allow alligator hunting on designated areas of the refuge subject to the following condition: We only allow alligator hunting on dates outlined by the State of Georgia during the first two weekends (from legal sunset Friday through legal sunrise Monday) of the State alligator season.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
@@ -45,7 +45,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow bank/beach saltwater fishing into estuarine waters only from legal sunrise to legal sunset except during managed hunts.
 
-(c) *Bond Swamp National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of waterfowl on designated areas of the refuge subject to the following conditions:
+(c) *Bond Swamp National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of waterfowl on designated areas of the refuge subject to the following conditions:
 
 (i) You must possess and carry a signed refuge hunt permit (signed brochure) and an additional refuge quota hunt permit for the quota hunts while hunting.
 
@@ -67,7 +67,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (x) Youth hunters age 15 and younger must remain within sight and normal voice contact of an adult age 21 or older possessing a valid hunting license.
 
-(xi) We prohibit all-terrain vehicles (ATVs) on the refuge except by wheelchair-bound hunters with a refuge Special Use Permit (General Activities - Special Use Permit Application, FWS Form 3-1383-G).
+(xi) We prohibit all-terrain vehicles (ATVs) on the refuge except by wheelchair-bound hunters with a refuge Special Use Permit (General Activities—Special Use Permit Application, FWS Form 3-1383-G).
 
 (xii) We prohibit leaving vehicles, boats, trailers, or decoys on the refuge overnight (see § 27.93 of this chapter).
 
@@ -171,7 +171,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (A) We allow only shotguns or muzzleloaders.
 
-(B) We require a refuge permit (Big/Upland Game Hunt Application, FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) obtained through refuge lottery.
+(B) We require a refuge permit (Big/Upland Game Hunt Application, FWS Form 3-2439, Hunt Application—National Wildlife Refuge System) obtained through refuge lottery.
 
 (C) Hunters must sign in and out each day and record harvest each day.
 
@@ -231,7 +231,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) You must bring any deer, turkey, or hog you harvest to the refuge check station intact, except entrails, the day you kill them and before you leave the refuge. We prohibit possession of dressed deer, turkey, or hog unless you have checked them at the refuge check station.
 
-(vi) We prohibit all-terrain vehicles (ATVs) on the refuge except by wheelchair-bound hunters with a special use permit (General Activities - Special Use Permit Application, FWS Form 3-1383-G).
+(vi) We prohibit all-terrain vehicles (ATVs) on the refuge except by wheelchair-bound hunters with a special use permit (General Activities—Special Use Permit Application, FWS Form 3-1383-G).
 
 (vii) We prohibit dogs for hunting big game.
 
@@ -245,7 +245,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow access to the refuge and fishing from only legal sunrise to legal sunset.
 
-(iii) You may keep the following numbers of fish each day: Bass - 5, channel catfish - 5, sunfish or bream - 15, and crappie - 15.
+(iii) You may keep the following numbers of fish each day: Bass—5, channel catfish—5, sunfish or bream—15, and crappie—15.
 
 (iv) We allow nonmotorized boats or boats with electric motors on all ponds designated as open to fishing.
 
@@ -263,11 +263,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (xi) Youth anglers age 15 and younger must remain within sight and normal voice contact of an adult age 21 or older who possesses a valid fishing license.
 
-(h) *Savannah National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of waterfowl and mourning dove on designated areas of the refuge subject to the following conditions:
+(h) *Savannah National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of waterfowl and mourning dove on designated areas of the refuge subject to the following conditions:
 
 (i) All hunters age 16 and older must possess and carry a signed refuge hunt permit (requires contact information only).
 
-(ii) To participate in the quota youth waterfowl hunt, youth hunters must submit the Waterfowl Lottery Application (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
+(ii) To participate in the quota youth waterfowl hunt, youth hunters must submit the Waterfowl Lottery Application (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System).
 
 (iii) You may take feral hog and coyote during all refuge hunts (migratory bird, upland, and big game) with weapons authorized and legal for those hunts.
 
@@ -285,7 +285,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (i) The conditions set forth at paragraphs (h)(1)(i), (iii), and (iv) of this section apply.
 
-(ii) To participate in the quota gun hunt for wheelchair-dependent hunters, hunters must submit the Quota Deer Hunt Application (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System). To participate in the quota youth turkey hunt and learn weekend, youth hunters must submit the Big/Upland Game Hunt Application (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
+(ii) To participate in the quota gun hunt for wheelchair-dependent hunters, hunters must submit the Quota Deer Hunt Application (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System). To participate in the quota youth turkey hunt and learn weekend, youth hunters must submit the Big/Upland Game Hunt Application (FWS Form 3-2439, Hunt Application—National Wildlife Refuge System).
 
 (iii) You may only use bows, as governed by State regulations, for deer, feral hog, and coyote hunting during the archery hunt for these species.
 
@@ -343,4 +343,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions: We allow saltwater fishing year-round in the estuarine waters adjacent to the refuge.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54109, Aug. 31, 2020; 86 FR 48858, Aug. 31, 2021]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54109, Aug. 31, 2020; 86 FR 48858, Aug. 31, 2021; 87 FR 57129, Sept. 16, 2022]

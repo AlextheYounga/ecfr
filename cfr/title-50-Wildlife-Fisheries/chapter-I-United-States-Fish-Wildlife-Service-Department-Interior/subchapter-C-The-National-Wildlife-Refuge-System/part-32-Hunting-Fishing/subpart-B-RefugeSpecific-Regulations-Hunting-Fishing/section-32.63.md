@@ -2,7 +2,7 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Bear River Migratory Bird Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and tundra swan on designated areas of the refuge subject to the following conditions:
+(a) *Bear River Migratory Bird Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and tundra swan on designated areas of the refuge subject to the following conditions:
 
 (i) We prohibit hunting or shooting within 100 yards (90 meters (m)) of refuge roads, parking areas, and observation platforms.
 
@@ -24,7 +24,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) You may fish only in designated areas west of the Auto Tour Road access gate from legal sunrise to legal sunset.
 
-(b) *Fish Springs National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of coot, duck, goose, mourning dove, and snipe on designated areas of the refuge subject to the following conditions:
+(b) *Fish Springs National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of coot, duck, goose, mourning dove, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We allow the use of dogs when hunting.
 
@@ -38,9 +38,9 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) We have a special blind area for use by disabled hunters. We prohibit trespass for any reason by any individual not registered to use that area.
 
-(2) *Upland game hunting.* We allow hunting of chukar, desert rabbit, and mountain rabbit on designated areas of the refuge subject to the following conditions:
+(2) *Upland game hunting.*We allow hunting of chukar, desertcottontail rabbit, and mountaincottontail rabbit on designated areas of the refuge subject to the following conditions:
 
-(i) We close to hunting on January 31.
+(i) We close to hunting on the last day of the State waterfowl season.
 
 (ii) We allow the use of dogs when hunting.
 
@@ -48,7 +48,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(c) *Ouray National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, coot, sandhill crane, and goose on designated areas of the refuge subject to the following condition: During hunting season, the refuge is open from 11/2 hours before legal sunrise to 11/2 hours after legal sunset.
+(c) *Ouray National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, coot, sandhill crane, and goose on designated areas of the refuge subject to the following condition: During hunting season, the refuge is open from 11/2 hours before legal sunrise to 11/2 hours after legal sunset.
 
 (2) *Upland game hunting.* We allow hunting of pheasant and turkey on designated areas of the refuge subject to the following conditions:
 
@@ -72,4 +72,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) You must release unharmed any of the following four endangered fish if caught: Razorback sucker, Colorado pikeminnow, humpback chub, and bonytailed chub.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54141, Aug. 31, 2020; 86 FR 48878, Aug. 31, 2021]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54141, Aug. 31, 2020; 86 FR 48878, Aug. 31, 2021; 87 FR 57132, Sept. 16, 2022]

@@ -2,7 +2,7 @@
 
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-(a) *Missisquoi National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, brant, merganser, coot, woodcock, and snipe on designated areas of the refuge subject to the following conditions:
+(a) *Missisquoi National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, brant, merganser, coot, woodcock, and snipe on designated areas of the refuge subject to the following conditions:
 
 (i) We allow the use of dogs consistent with State regulations, except hunters using more than two dogs must possess a Special Use Permit (FWS Form 3-1383-G) issued by the refuge manager.
 
@@ -31,6 +31,8 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 (A) Each junior hunter must possess and carry a permit (FWS Form 3-2439) for the assigned blind site and day. On Mentor Day, mentors must also possess and carry this permit for the assigned blind site. Each adult hunting party must possess and carry a permit for the blind site and day they are hunting. Permits are not transferable.
 
 (B) Shooting hours end at 11 a.m.
+
+(C) We limit hunting to Saturdays, Sundays, and Wednesdays throughout the waterfowl hunting season for duck.
 
 (ix) In the Long Marsh Channel and Metcalfe Island:
 
@@ -82,7 +84,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We prohibit boat launching on the refuge with the following exceptions: We allow launching from Louie's Landing year-round, and from Mac's Bend boat launch area from September through December (inclusive).
 
-(b) *Silvio O. Conte National Fish and Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, crow, snipe, and American woodcock on designated areas of the refuge subject to the following conditions:
+(b) *Silvio O. Conte National Fish and Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, crow, snipe, and American woodcock on designated areas of the refuge subject to the following conditions:
 
 (i) We allow disabled hunters to hunt from a vehicle that is at least 10 feet from the traveled portion of the refuge road if the hunter possesses a State-issued disabled hunting license and a Special Use Permit (FWS Form 3-1383-G) issued by the refuge manager.
 
@@ -112,4 +114,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge consistent with State regulations.
 
-[86 FR 48878, Aug. 31, 2021]
+[86 FR 48878, Aug. 31, 2021, as amended at 87 FR 57132, Sept. 16, 2022]
