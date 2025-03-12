@@ -1,7 +1,5 @@
 ##### § 1120.4 Standards incorporated by reference. #####
 
-Link to an amendment published at 87 FR 72887, Nov. 28, 2022.
-
 (a) The standards required in this part are incorporated by reference (“IBR”) into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. You may inspect all approved material at the Office of the Secretary, U.S. Consumer Product Safety Commission, Room 820, 4330 East West Highway, Bethesda, MD 20814, telephone 301-504-7923, or at the National Archives and Records Administration (“NARA”). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html*.
 
 (b) ASTM International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959 USA, telephone: 610-832-9585; *http://www2.astm.org/*.
@@ -20,4 +18,10 @@ Link to an amendment published at 87 FR 72887, Nov. 28, 2022.
 
 (4) UL 817, *Standard for Cord Sets and Power-Supply Cords,* 11th Edition, dated March 16, 2001, as revised through February 3, 2014 (“UL 817”), IBR approved for § 1120.3(d).
 
-[80 FR 25226, May 4, 2015, as amended at 80 FR 44269, July 27, 2015]
+(d) Window Covering Manufacturers Association, Inc., 355 Lexington Avenue, New York, New York 10017. Telephone: 212.297.2122. *http://wcmanet.com.*
+
+(1) ANSI/WCMA A100.1—2018. American National Standard For Safety Of Corded Window Covering Products, approved January 8, 2018. IBR approved for §§ 1120.2 and 1120.3.
+
+(2) [Reserved]
+
+[80 FR 25226, May 4, 2015, as amended at 80 FR 44269, July 27, 2015; 87 FR 72886, Nov. 28, 2022]

@@ -1,7 +1,5 @@
 ##### § 1120.3 Products deemed to be substantial product hazards. #####
 
-Link to an amendment published at 87 FR 72886, Nov. 28, 2022.
-
 The following products or class of products shall be deemed to be substantial product hazards under section 15(a)(2) of the CPSA:
 
 (a) Hand-supported hair dryers that do not provide integral immersion protection in compliance with the requirements of section 5 of UL 859, or section 6 of UL 1727 (incorporated by reference, *see* § 1120.4).
@@ -42,4 +40,18 @@ The following products or class of products shall be deemed to be substantial pr
 
 (6) Jacketed cord requirement (for outdoor use extension cords) in section 30 of UL 817.
 
-[76 FR 37640, June 28, 2011, as amended at 76 FR 42507, July 19, 2011; 80 FR 25226, May 4, 2015; 80 FR 44269, July 27, 2015]
+(e) Stock window coverings that fail to comply with one or more of the following requirements of ANSI/WCMA A100.1—2018 (incorporated by reference; see § 1120.4):
+
+(1) Operating cord requirements in section 4.3.1: section 4.3.1.1 (cordless operating system), 4.3.1.2 (short static or access cord), or 4.3.1.3 (inaccessible operating cord);
+
+(2) Inner cord requirements in sections 4.5, 6.3, 6.7, and Appendices C and D; and
+
+(3) On-product manufacturer label requirement in section 5.3.
+
+(f) Custom window coverings that fail to comply with one or more of the following requirements of ANSI/WCMA A100.1—2018 (incorporated by reference; see § 1120.4):
+
+(1) Inner cord requirements in sections 4.5, 6.3, 6.7, and Appendices C and D; and
+
+(2) On-product manufacturer label in section 5.3.
+
+[76 FR 37640, June 28, 2011, as amended at 76 FR 42507, July 19, 2011; 80 FR 25226, May 4, 2015; 80 FR 44269, July 27, 2015; 87 FR 72886, Nov. 28, 2022]

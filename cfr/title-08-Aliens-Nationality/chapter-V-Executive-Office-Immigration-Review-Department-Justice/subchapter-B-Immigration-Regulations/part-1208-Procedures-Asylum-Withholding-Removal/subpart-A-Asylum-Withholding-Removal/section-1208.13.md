@@ -1,6 +1,6 @@
 ##### § 1208.13 Establishing asylum eligibility. #####
 
-Link to an amendment published at 85 FR 84196, Dec. 23, 2020.This amendment was delayed until Mar. 22, 2021, at 86 FR 6847, Jan. 25, 2021.This amendment was further delayed until Dec. 31, 2021, at 86 FR 15076, Mar. 22, 2021.This amendment was further delayed until Dec. 31, 2022, at 86 FR 73615, Dec. 28, 2021.
+Link to an amendment published at 85 FR 84196, Dec. 23, 2020.This amendment was delayed until Mar. 22, 2021, at 86 FR 6847, Jan. 25, 2021.This amendment was further delayed until Dec. 31, 2021, at 86 FR 15076, Mar. 22, 2021.This amendment was further delayed until Dec. 31, 2022, at 86 FR 73615, Dec. 28, 2021.This amendment was further delayed until Dec. 31, 2024, at 87 FR 79789, Dec. 28, 2022.
 
 (a) *Burden of proof.* The burden of proof is on the applicant for asylum to establish that he or she is a refugee as defined in section 101(a)(42) of the Act. The testimony of the applicant, if credible, may be sufficient to sustain the burden of proof without corroboration. The fact that the applicant previously established a credible fear of persecution for purposes of section 235(b)(1)(B) of the Act does not relieve the alien of the additional burden of establishing eligibility for asylum.
 
@@ -46,9 +46,9 @@ Link to an amendment published at 85 FR 84196, Dec. 23, 2020.This amendment was 
 
 (iii) Regardless of whether an applicant has established persecution in the past, in cases in which the persecutor is not the government or a government-sponsored actor, or otherwise is a private actor, there shall be a presumption that internal relocation would be reasonable unless the applicant establishes, by a preponderance of the evidence, that it would be unreasonable to relocate.
 
-(iv) For purposes of determinations under paragraphs (b)(3)(ii) and (iii) of this section, persecutors who are private actors - including persecutors who are gang members, officials acting outside their official capacity, family members who are not themselves government officials, or neighbors who are not themselves government officials - shall not be considered to be persecutors who are the government or government-sponsored absent evidence that the government sponsored the persecution.
+(iv) For purposes of determinations under paragraphs (b)(3)(ii) and (iii) of this section, persecutors who are private actors—including persecutors who are gang members, officials acting outside their official capacity, family members who are not themselves government officials, or neighbors who are not themselves government officials—shall not be considered to be persecutors who are the government or government-sponsored absent evidence that the government sponsored the persecution.
 
-(c) *Mandatory denials* - (1) *Applications filed on or after April 1, 1997.* For applications filed on or after April 1, 1997, an applicant shall not qualify for asylum if section 208(a)(2) or 208(b)(2) of the Act applies to the applicant. If the applicant is found to be ineligible for asylum under either section 208(a)(2) or 208(b)(2) of the Act, the applicant shall be considered for eligibility for withholding of removal under section 241(b)(3) of the Act. The applicant shall also be considered for eligibility for withholding of removal under the Convention Against Torture if the applicant requests such consideration or if the evidence presented by the alien indicates that the alien may be tortured in the country of removal.
+(c) *Mandatory denials*—(1) *Applications filed on or after April 1, 1997.* For applications filed on or after April 1, 1997, an applicant shall not qualify for asylum if section 208(a)(2) or 208(b)(2) of the Act applies to the applicant. If the applicant is found to be ineligible for asylum under either section 208(a)(2) or 208(b)(2) of the Act, the applicant shall be considered for eligibility for withholding of removal under section 241(b)(3) of the Act. The applicant shall also be considered for eligibility for withholding of removal under the Convention Against Torture if the applicant requests such consideration or if the evidence presented by the alien indicates that the alien may be tortured in the country of removal.
 
 (2) *Applications filed before April 1, 1997.* (i) An immigration judge or asylum officer shall not grant asylum to any applicant who filed his or her application before April 1, 1997, if the alien:
 
@@ -106,7 +106,7 @@ Link to an amendment published at 85 FR 84196, Dec. 23, 2020.This amendment was 
 
 (C) An alien who was convicted of offenses described in paragraph (c)(6)(v)(A) of this section is not subject to ineligibility for asylum on that basis if the alien would be described in section 237(a)(7)(A) of the Act were the crimes or conduct considered grounds for deportability under section 237(a)(2)(E)(i) through (ii) of the Act.
 
-(vi) The alien has been convicted on or after such date of -
+(vi) The alien has been convicted on or after such date of—
 
 (A) Any felony under Federal, State, tribal, or local law;
 
@@ -142,7 +142,7 @@ Link to an amendment published at 85 FR 84196, Dec. 23, 2020.This amendment was 
 
 (iv) All references to a criminal offense or criminal conviction shall be deemed to include any attempt, conspiracy, or solicitation to commit the offense or any other inchoate form of the offense.
 
-(v) No order vacating a conviction, modifying a sentence, clarifying a sentence, or otherwise altering a conviction or sentence, shall have any effect unless the immigration judge determines that -
+(v) No order vacating a conviction, modifying a sentence, clarifying a sentence, or otherwise altering a conviction or sentence, shall have any effect unless the immigration judge determines that—
 
 (A) The court issuing the order had jurisdiction and authority to do so; and
 

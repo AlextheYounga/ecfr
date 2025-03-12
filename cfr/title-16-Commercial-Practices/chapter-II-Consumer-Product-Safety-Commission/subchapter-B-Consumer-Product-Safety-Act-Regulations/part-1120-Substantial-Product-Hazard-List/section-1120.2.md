@@ -1,7 +1,5 @@
 ##### § 1120.2 Definitions. #####
 
-Link to an amendment published at 87 FR 72886, Nov. 28, 2022.
-
 The definitions in section 3 of the Consumer Product Safety Act (15 U.S.C. 2052) apply to this part 1120.
 
 (a) *Substantial product hazard* means a product defect which (because of the pattern of defect, the number of defective products distributed in commerce, the severity of the risk, or otherwise) creates a substantial risk of injury to the public.
@@ -14,4 +12,8 @@ The definitions in section 3 of the Consumer Product Safety Act (15 U.S.C. 2052)
 
 (e) *Extension cord (also known as a cord set)* means a length of factory-assembled flexible cord with an attachment plug or current tap as a line fitting and with a cord connector as a load fitting. Extension cords are used for extending a branch circuit supply of an electrical outlet to the power-supply cord of a portable appliance, in accordance with the National Electrical Code.® For purposes of this rule, the term applies to extension cords that are equipped with National Electrical Manufacturer Association (“NEMA”) 1-15, 5-15 and 5-20 fittings, and that are intended for indoor use only, or for both indoor and outdoor use. The term “extension cord” does not include detachable power supply cords, appliance cords, power strips and taps, and adaptor cords supplied with outdoor tools and yard equipment.
 
-[76 FR 37640, June 28, 2011, as amended at 76 FR 42507, July 19, 2011; 80 FR 25226, May 4, 2015; 80 FR 44269, July 27, 2015]
+(f) *Stock window covering* (also known as a stock blind, shade, or shading) has the same meaning as defined in section 3, definition 5.02, of ANSI/WCMA A100.1—2018 (incorporated by reference; see § 1120.4), as a window covering that is completely or substantially fabricated prior to being distributed in commerce and is a specific stock-keeping unit (SKU). Even when the seller, manufacturer, or distributor modifies a pre-assembled product by adjusting to size, attaching the top rail or bottom rail, or tying cords to secure the bottom rail, the product is still considered stock. Online sales of the product or the size of the order such as multi-family housing do not make the product a non-stock product. These examples are provided in ANSI/WCMA A100.1—2018 (incorporated by reference; *see* § 1120.4) to clarify that as long as the product is “substantially fabricated” prior to distribution in commerce, subsequent changes to the product do not change its categorization.
+
+(g) *Custom window covering* (also known as a custom blind, shade, or shading) has the same meaning as defined in section 3, definition 5.01, of ANSI/WCMA A100.1—2018 (incorporated by reference; *see* § 1120.4), as a window covering that does not meet the definition of a stock window covering.
+
+[76 FR 37640, June 28, 2011, as amended at 76 FR 42507, July 19, 2011; 80 FR 25226, May 4, 2015; 80 FR 44269, July 27, 2015; 87 FR 72886, Nov. 28, 2022]
