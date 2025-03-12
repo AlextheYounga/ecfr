@@ -1,7 +1,5 @@
 ##### § 54.404 The National Lifeline Accountability Database. #####
 
-Link to an amendment published at 84 FR 71327, Dec. 27, 2019.Link to an amendment published at 85 FR 41930, July 13, 2020.
-
 (a) *State certification.* An eligible telecommunications carrier operating in a state that provides an approved valid certification to the Commission in accordance with this section is not required to comply with the requirements set forth in paragraphs (b) and (c) of this section with respect to the eligible telecommunications carriers' subscribers in that state. A valid certification must include a statement that the state has a comprehensive system in place to prevent duplicative federal Lifeline support that is at least as robust as the system adopted by the Commission and that incorporates information from all eligible telecommunications carriers receiving low-income support in the state and their subscribers. A valid certification must also describe in detail how the state system functions and for each requirement adopted by the Commission to prevent duplicative support, how the state system performs the equivalent functions. The certification must be submitted to the Commission no later than six months from the effective date of this section of the Commission's rules to be valid. Such certification will be considered approved unless the Wireline Competition Bureau rejects the certification within 90 days of filing.
 
 (b) *The National Lifeline Accountability Database.* In order to receive Lifeline support, eligible telecommunications carriers operating in states that have not provided the Commission with approved valid certification pursuant to paragraph (a) of this section must comply with the following requirements:
@@ -27,6 +25,8 @@ Link to an amendment published at 84 FR 71327, Dec. 27, 2019.Link to an amendmen
 (10) When an eligible telecommunications carrier de-enrolls a subscriber, it must transmit to the Database the date of Lifeline service de-enrollment within one business day of de-enrollment.
 
 (11) All eligible telecommunications carriers must securely retain subscriber documentation that the ETC reviewed to verify subscriber eligibility, for the purposes of production during audits or investigations or to the extent required by NLAD processes, which require, *inter alia,* verification of eligibility, identity, address, and age.
+
+(12) An eligible telecommunications carrier must not enroll or claim for reimbursement a prospective subscriber in Lifeline if the National Lifeline Accountability Database or National Verifier cannot verify the identity of the subscriber or the subscriber's status as alive, unless the subscriber produces documentation to demonstrate his or her identity and status as alive.
 
 (c) *Tribal Link Up and the National Lifeline Accountability Database.* In order to receive universal service support reimbursement for Tribal Link Up, eligible telecommunications carriers operating in states that have not provided the Commission with a valid certification pursuant to paragraph (a) of this section, must comply with the following requirements:
 

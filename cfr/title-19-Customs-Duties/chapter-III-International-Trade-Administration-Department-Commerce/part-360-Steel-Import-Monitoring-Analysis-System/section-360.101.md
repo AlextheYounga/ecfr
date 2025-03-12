@@ -1,8 +1,6 @@
 ##### § 360.101 Steel import licensing. #####
 
-Link to an amendment published at 85 FR 56171, Sept. 11, 2020.
-
-(a) *In general.* (1) All imports of basic steel mill products are subject to the import licensing requirements. These products are listed in Annex II. Registered users will be able to obtain steel import licenses on the Steel Import Monitoring and Analysis (SIMA) System Web site. This Web site contains two sections related to import licensing - the online registration system and the automatic steel import license issuance system. Information gathered from these licenses will be aggregated and posted on the import monitoring section of the SIMA system Web site.
+(a) *In general.* (1) All imports of basic steel mill products are subject to the import licensing requirements. These products are listed on the Steel Import Monitoring and Analysis (SIMA) system website (*https://www.trade.gov/steel*). Registered users will be able to obtain steel import licenses on the SIMA system website. This website contains two sections related to import licensing—the online registration system and the automatic steel import license issuance system. Information gathered from these licenses will be aggregated and posted on the import monitoring section of the SIMA system website.
 
 (2) A single license may cover multiple products as long as certain information on the license (*e.g.*, importer, exporter, manufacturer and country of origin) remains the same. However, separate licenses for steel entered under a single entry will be required if the information differs. As a result, a single Customs entry may require more than one steel import license. The applicable license(s) must cover the total quantity of steel entered and should cover the same information provided on the Customs entry summary.
 
@@ -13,3 +11,5 @@ Link to an amendment published at 85 FR 56171, Sept. 11, 2020.
 (d) *Informal entries.* No import license shall be required on informal entries of covered steel products, such as merchandise valued at less than $2,000. This exemption applies to informal entries only, imports of steel valued at less than $2,000 that are part of a formal entry will require a license. For additional information, refer to 19 CFR 143.21 through 143.28.
 
 (e) *Other non-consumption entries.* Import licenses are not required on temporary importation bond (TIB) entries, transportation and exportation (T&E) entries or entries into a bonded warehouse. Covered steel products withdrawn for consumption from a bonded warehouse will require a license at the entry summary.
+
+[70 FR 12136, Mar. 11, 2005, as amended at 85 FR 56171, Sept. 11, 2020]

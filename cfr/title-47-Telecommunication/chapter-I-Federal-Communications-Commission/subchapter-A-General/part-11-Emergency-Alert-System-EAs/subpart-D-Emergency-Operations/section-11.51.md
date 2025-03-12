@@ -112,7 +112,7 @@
 
 (o) Either manual or automatic operation of EAS equipment may be used by EAS Participants that use remote control. If manual operation is used, an EAS decoder must be located at the remote control location and it must directly monitor the signals of the two assigned EAS sources. If direct monitoring of the assigned EAS sources is not possible at the remote location, automatic operation is required. If automatic operation is used, the remote control location may be used to override the transmission of an EAS alert. EAS Participants may change back and forth between automatic and manual operation.
 
-(p) The standard required in this section is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Federal Communications Commission must publish notice of change in the Federal Register and the material must be available to the public. All approved material is available for inspection at the Federal Communications Commission, 445 12th Street, SW., Washington, DC (Reference Information Center) and is available from the source indicated below. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+(p) The standard required in this section is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Federal Communications Commission must publish notice of change in the Federal Register and the material must be available to the public. All approved material is available for inspection at the Federal Communications Commission, located at the address indicated in 47 CFR 0.401(a) (Reference Information Center), and is available from the source indicated in this paragraph (p). It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (1) The following standard is available from the EAS-CAP Industry Group (ECIG), 21010 Southbank Street, #365, Sterling, VA, 20165, go to *http://www.eas-cap.org.*
 
@@ -120,4 +120,6 @@
 
 (ii) [Reserved]
 
-[70 FR 71035, Nov. 25, 2005, as amended at 71 FR 76220, Dec. 20, 2006; 72 FR 62135, Nov. 2, 2007; 71 FR 76220, Dec. 20, 2006; 72 FR 62135, Nov. 2, 2007; 77 FR 16704, Mar. 22, 2012; 80 FR 37175, June 30, 2015]
+(2) [Reserved]
+
+[70 FR 71035, Nov. 25, 2005, as amended at 71 FR 76220, Dec. 20, 2006; 72 FR 62135, Nov. 2, 2007; 71 FR 76220, Dec. 20, 2006; 72 FR 62135, Nov. 2, 2007; 77 FR 16704, Mar. 22, 2012; 80 FR 37175, June 30, 2015; 85 FR 64406, Oct. 13, 2020]

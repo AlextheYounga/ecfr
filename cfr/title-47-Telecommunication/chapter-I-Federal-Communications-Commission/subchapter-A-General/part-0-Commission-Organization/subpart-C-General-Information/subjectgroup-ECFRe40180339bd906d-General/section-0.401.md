@@ -4,7 +4,7 @@ The Commission maintains several offices and receipt locations. Applications and
 
 (a) General correspondence, as well as applications and filings not requiring the fees set forth at part 1, subpart G of the rules (or not claiming an exemption, waiver or deferral from the fee requirement), should be delivered to one of the following locations.
 
-(1) The main office of the Commission is located at 445 12th Street, SW., Washington, DC 20554.
+(1) The main office of the Commission is located at 45 L Street NE, Washington, DC 20554.
 
 (i) Documents submitted by mail to this office should be addressed to: Federal Communications Commission, Washington, DC 20554.
 
@@ -28,7 +28,7 @@ Federal Communications Commission, Equipment Authorization Division, 7435 Oaklan
 
 (4) For the locations of the field offices, contact the Enforcement Bureau.
 
-(5) The location of the Office of General Counsel is 445 12th Street, SW, Washington, DC 20554.
+(5) The location of the Office of General Counsel is 45 L Street NE, Washington, DC 20554.
 
 (b) Applications or filings requiring the fees set forth at part 1, subpart G of the rules must be delivered through the appropriate electronic filing system with the correct fee and completed Fee Form attached to the application or filing, unless otherwise directed by the Commission. In the case of any conflict between this rule subpart and other rules establishing filing locations for submissions subject to a fee, this subpart shall govern.
 

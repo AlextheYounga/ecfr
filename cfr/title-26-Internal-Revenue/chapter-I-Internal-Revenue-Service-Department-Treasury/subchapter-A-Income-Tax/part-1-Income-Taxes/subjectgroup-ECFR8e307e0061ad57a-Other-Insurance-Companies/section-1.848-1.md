@@ -2,13 +2,13 @@
 
 (a) *Scope and effective date.* The definitions and special provisions in this section apply solely for purposes of determining specified policy acquisition expenses under section 848 of the Internal Revenue Code, this section, and §§ 1.848-2 and 1.848-3. Unless otherwise specified, the rules of this section are effective for the taxable years of an insurance company beginning after November 14, 1991.
 
-(b) *Specified insurance contract* - (1) *In general.* A “specified insurance contract” is any life insurance contract, annuity contract, noncancellable or guaranteed renewable accident and health insurance contract, or combination contract. A reinsurance agreement that reinsures the risks under a specified insurance contract is treated in the same manner as the reinsured contract.
+(b) *Specified insurance contract*—(1) *In general.* A “specified insurance contract” is any life insurance contract, annuity contract, noncancellable or guaranteed renewable accident and health insurance contract, or combination contract. A reinsurance agreement that reinsures the risks under a specified insurance contract is treated in the same manner as the reinsured contract.
 
-(2) *Exceptions* - (i) *In general.* A “specified insurance contract” does not include any pension plan contract (as defined in section 818(a)), flight insurance or similar contract, or qualified foreign contract (as defined in section 807(e)(4)).
+(2) *Exceptions*—(i) *In general.* A “specified insurance contract” does not include any pension plan contract (as defined in section 818(a)), flight insurance or similar contract, or qualified foreign contract (as defined in section 807(e)(3)).
 
 (ii) *Reinsurance of qualified foreign contracts.* The exception for qualified foreign contracts does not apply to reinsurance agreements that reinsure qualified foreign contracts.
 
-(c) *Life insurance contract.* A “life insurance contract” is any contract -
+(c) *Life insurance contract.* A “life insurance contract” is any contract—
 
 (1) Issued after December 31, 1984, that qualifies as a life insurance contract under section 7702(a) (including an endowment contract as defined in 7702(h)); or
 
@@ -20,11 +20,11 @@
 
 (f) *Guaranteed renewable accident and health insurance contract.* The term “guaranteed renewable accident and health insurance contract” has the same meaning for purposes of section 848 as the term has for purposes of section 816(e).
 
-(g) *Combination contract* - (1) *Definition.* A “combination contract” is a contract (other than a contract described in section 848(e)(3)) that provides two or more types of insurance coverage, at least one of which if offered separately would be a life insurance contract, an annuity contract, or a noncancellable or guaranteed renewable accident and health insurance contract.
+(g) *Combination contract*—(1) *Definition.* A “combination contract” is a contract (other than a contract described in section 848(e)(3)) that provides two or more types of insurance coverage, at least one of which if offered separately would be a life insurance contract, an annuity contract, or a noncancellable or guaranteed renewable accident and health insurance contract.
 
-(2) *Treatment of premiums on a combination contract* - (i) *In general.* If the premium allocable to each type of insurance coverage is separately stated on the insurance company's annual statement (or could be separately stated if the insurance company were required to file the annual statement for life and accident and health companies), the premium allocable to each type of insurance coverage in a combination contract is subject to the capitalization rate, if any, that would apply if that coverage was provided in a separate contract. If the premium allocable to each type of insurance coverage in a combination contract is not separately stated, the entire premium is subject to the highest capitalization percentage applicable to any of the coverages provided.
+(2) *Treatment of premiums on a combination contract*—(i) *In general.* If the premium allocable to each type of insurance coverage is separately stated on the insurance company's annual statement (or could be separately stated if the insurance company were required to file the annual statement for life and accident and health companies), the premium allocable to each type of insurance coverage in a combination contract is subject to the capitalization rate, if any, that would apply if that coverage was provided in a separate contract. If the premium allocable to each type of insurance coverage in a combination contract is not separately stated, the entire premium is subject to the highest capitalization percentage applicable to any of the coverages provided.
 
-(ii) *De minimis premiums.* For purposes of this paragraph (g)(2) -
+(ii) *De minimis premiums.* For purposes of this paragraph (g)(2)—
 
 (A) A de minimis premium is not required to be separately stated;
 
@@ -38,7 +38,7 @@
 
 Example.A life insurance company (L1) issues a contract to an employer (X) which provides cancellable accident and health insurance coverage and group term life insurance coverage to X's employees. L1 charges a premium of $1,000 for the contract, $950 of which is attributable to the cancellable accident and health insurance coverage and $50 of which is attributable to the group term life insurance coverage. On its annual statement, L1 reports the premiums attributable to the accident and health insurance coverage separately from the premiums attributable to the group term life insurance coverage. The contract issued by L1 is a combination contract as defined in paragraph (g)(1) of this section. Pursuant to paragraph (g)(2)(i) of this section, only the premiums attributable to the group term life insurance coverage ($50) are subject to the provisions of section 848. The premiums attributable to the cancellable accident and health insurance coverage ($950) are not subject to the provisions of section 848.
 
-(h) *Group life insurance contract* - (1) *In general.* A life insurance contract (as defined in paragraph (c) of this section) is group life insurance contract if -
+(h) *Group life insurance contract*—(1) *In general.* A life insurance contract (as defined in paragraph (c) of this section) is group life insurance contract if—
 
 (i) The contract is a group life insurance contract under the applicable law;
 
@@ -52,9 +52,9 @@ Example.A life insurance company (L1) issues a contract to an employer (X) which
 
 (vi) The proceeds of the contract are not payable to or for the benefit of the insured's employer, an organization or association to which the insured belongs, or other similar person. (See paragraph (h)(7) of this section for special rules that apply in determining if this requirement is satisfied.)
 
-(2) *Group affiliation requirement* - (i) *In general.* The group affiliation requirement of section 848(e)(2)(A) and this paragraph (h)(2) is satisfied only if all of the individuals eligible for coverage under the contract constitute a group described in paragraphs (h)(2) (ii) through (viii) of this section.
+(2) *Group affiliation requirement*—(i) *In general.* The group affiliation requirement of section 848(e)(2)(A) and this paragraph (h)(2) is satisfied only if all of the individuals eligible for coverage under the contract constitute a group described in paragraphs (h)(2) (ii) through (viii) of this section.
 
-(ii) *Employee group.* An employee group consists of all of the employees (including statutory employees within the meaning of section 3121(d)(3) and individuals who are treated as employed by a single employer under section 414 (b), (c), or (m)), or any class or classes thereof within the meaning of paragraph (h)(2)(x) of this section, of an employer. For this purpose, the term “employee” includes -
+(ii) *Employee group.* An employee group consists of all of the employees (including statutory employees within the meaning of section 3121(d)(3) and individuals who are treated as employed by a single employer under section 414 (b), (c), or (m)), or any class or classes thereof within the meaning of paragraph (h)(2)(x) of this section, of an employer. For this purpose, the term “employee” includes—
 
 (A) A retired or former employee;
 
@@ -70,7 +70,7 @@ Example.A life insurance company (L1) issues a contract to an employer (X) which
 
 (iv) *Labor union group.* A labor union group consists of all of the members, or any class or classes thereof within the meaning of paragraph (h)(2)(x) of this section, of a labor union or similar employee organization.
 
-(v) *Association group.* An association group consists of all of the members, or any class or classes thereof within the meaning of paragraph (h)(2)(x) of this section, of an association that, at the time the master contract is issued -
+(v) *Association group.* An association group consists of all of the members, or any class or classes thereof within the meaning of paragraph (h)(2)(x) of this section, of an association that, at the time the master contract is issued—
 
 (A) Is organized and maintained for purposes other than obtaining insurance;
 
@@ -82,7 +82,7 @@ Example.A life insurance company (L1) issues a contract to an employer (X) which
 
 (vii) *Multiple group.* A multiple group consists of two or more groups from any single category described in paragraphs (h)(2) (ii) through (vi) of this section. A multiple group may not include two or more groups from different categories described in paragraph (h)(2) (ii) through (vi) of this section.
 
-(viii) *Certain discretionary groups.* Provided that the contract otherwise satisfies the requirements of paragraph (h)(1) of this section, a contract issued to one of the following discretionary groups is treated as satisfying the group affiliation requirement of this paragraph (h)(2) -
+(viii) *Certain discretionary groups.* Provided that the contract otherwise satisfies the requirements of paragraph (h)(1) of this section, a contract issued to one of the following discretionary groups is treated as satisfying the group affiliation requirement of this paragraph (h)(2)—
 
 (A) A contract issued to a group consisting of students of one or more universities or other educational institutions;
 
@@ -94,11 +94,11 @@ Example.A life insurance company (L1) issues a contract to an employer (X) which
 
 (ix) *Employees treated as members.* In determining whether the group affiliation requirement of paragraph (h)(2) of this section is satisfied, the employees of a labor union, credit union, or association may be treated as members of a labor union group, a credit union group, or an association group, respectively.
 
-(x) *Class or classes of a group determined without regard to individual health characteristics* - (A) *In general.* A class or classes of a group described in paragraphs (h)(2) (ii) through (viii) of this section may be determined using any reasonable characteristics (for example, amount of insurance, location, or occupation) other than individual health characteristics. The employees of a single employer covered under a policy issued to a multi-employer trust are considered a class of a group described in paragraph (h)(2)(ii) of this section.
+(x) *Class or classes of a group determined without regard to individual health characteristics*—(A) *In general.* A class or classes of a group described in paragraphs (h)(2) (ii) through (viii) of this section may be determined using any reasonable characteristics (for example, amount of insurance, location, or occupation) other than individual health characteristics. The employees of a single employer covered under a policy issued to a multi-employer trust are considered a class of a group described in paragraph (h)(2)(ii) of this section.
 
 (B) *Limitation of coverage based on certain work and age requirements permissible.* A limitation of coverage under a group contract to persons who are actively at work or of a pre-retirement age (for example, age 65 or younger) is not treated as based on individual health characteristics.
 
-(3) *Premiums determined on a group basis* - (i) *In general.* Premiums for a contract are determined on a group basis for purposes of section 848(e)(2)(B) and this paragraph (h) only if the premium charged by the insurance company for each member of the group (or any class thereof) is determined on the basis of the same rates for the corresponding amount of coverage (for example, per $1,000 of insurance) or on the basis of rates which differ only because of the gender, smoking habits, or age of the member.
+(3) *Premiums determined on a group basis*—(i) *In general.* Premiums for a contract are determined on a group basis for purposes of section 848(e)(2)(B) and this paragraph (h) only if the premium charged by the insurance company for each member of the group (or any class thereof) is determined on the basis of the same rates for the corresponding amount of coverage (for example, per $1,000 of insurance) or on the basis of rates which differ only because of the gender, smoking habits, or age of the member.
 
 (ii) *Exception for substandard premium rates for certain high risk insureds.* Any difference in premium rates is disregarded for purposes of this paragraph (h)(3) if the difference is charged for an individual who was accepted for coverage at a substandard rate prior to January 1, 1993.
 
@@ -108,7 +108,7 @@ Example.A life insurance company (L1) issues a contract to an employer (X) which
 
 (4) *Underwriting practices used by company.* [Reserved]
 
-(5) *Disqualification of group* - (i) *In general.* Except as otherwise provided in this paragraph (h)(5), if the requirements of paragraphs (h)(1), (2), and (3) of this section are not satisfied with respect to one or more members of the group, or of a class within a group (within the meaning of paragraph (h)(2)(x) of this section), the premiums for the entire group (or class) are treated as individual life insurance premiums.
+(5) *Disqualification of group*—(i) *In general.* Except as otherwise provided in this paragraph (h)(5), if the requirements of paragraphs (h)(1), (2), and (3) of this section are not satisfied with respect to one or more members of the group, or of a class within a group (within the meaning of paragraph (h)(2)(x) of this section), the premiums for the entire group (or class) are treated as individual life insurance premiums.
 
 (ii) *Exception for de minimis failures.* If the requirements of paragraphs (h) (1), (2), or (3) of this section are not satisfied with respect to one or more members of the group (or class), but the sum of the premiums charged by the insurance company for those individuals is no more than 5 percent of the aggregate premiums for the group (or class), only the premiums charged for those individuals are treated as premiums for an individual life insurance contract.
 
@@ -124,4 +124,4 @@ Example.A life insurance company (L1) issues a contract to an employer (X) which
 
 (i) *General deductions.* The term “general deductions” is defined in section 848(c)(2). An insurance company determines its general deductions for the taxable year without regard to amounts capitalized or amortized under section 848(a). The amount of a company's general deductions is also determined without regard to the rules of § 1.848-2(f), which apply only for purposes of determining net consideration for reinsurance agreements.
 
-[T.D. 8456, 57 FR 61819, Dec. 29, 1992; 58 FR 9245, Feb. 19, 1993]
+[T.D. 8456, 57 FR 61819, Dec. 29, 1992; 58 FR 9245, Feb. 19, 1993, as amended by T.D. 9911, 85 FR 64394, Oct. 13, 2020]

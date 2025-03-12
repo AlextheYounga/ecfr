@@ -1,6 +1,6 @@
 ##### § 15.38 Incorporation by reference. #####
 
-(a) The materials listed in this section are incorporated by reference in this part. These incorporations by reference were approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. These materials are incorporated as they exist on the date of the approval, and notice of any change in these materials will be published in the Federal Register. The materials are available for purchase at the corresponding addresses as noted, and all are available for inspection at the Federal Communications Commission, 445 12th St. SW., Reference Information Center, Room CY-A257, Washington, DC 20554, (202) 418-0270, and at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+(a) The materials listed in this section are incorporated by reference in this part. These incorporations by reference were approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. These materials are incorporated as they exist on the date of the approval, and notice of any change in these materials will be published in the Federal Register. The materials are available for purchase at the corresponding addresses as noted, and all are available for inspection at the Federal Communications Commission, located at the address indicated in 47 CFR 0.401(a), Tel: (202) 418-0270, and at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (b) The following documents are available from the following address: American National Standards Institute (ANSI), 25 West 43rd Street, 4th Floor, New York, NY 10036, (212) 642-4900, or at *http://webstore.ansi.org/ansidocstore/default.asp;*
 
@@ -56,4 +56,4 @@
 
 (5) ANSI/SCTE 65 2002 (formerly DVS 234): “Service Information Delivered Out-of-Band for Digital Cable Television,” 2002, IBR approved for § 15.123.
 
-[77 FR 43013, July 23, 2012, as amended at 80 FR 2838, Jan. 21, 2015; 80 FR 33447, June 12, 2015; 80 FR 73068, Nov. 23, 2015; 82 FR 50832, Nov. 2, 2017]
+[77 FR 43013, July 23, 2012, as amended at 80 FR 2838, Jan. 21, 2015; 80 FR 33447, June 12, 2015; 80 FR 73068, Nov. 23, 2015; 82 FR 50832, Nov. 2, 2017; 85 FR 64406, Oct. 13, 2020]

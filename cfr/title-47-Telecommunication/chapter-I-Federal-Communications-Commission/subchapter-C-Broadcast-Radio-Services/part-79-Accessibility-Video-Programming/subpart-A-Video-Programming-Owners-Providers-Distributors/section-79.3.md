@@ -78,7 +78,7 @@
 
 (11) During the pendency of an economic burden determination, the Commission will consider the video programming subject to the request for exemption as exempt from the video description requirements.
 
-(e) *Complaint procedures.* (1) A complainant may file a complaint concerning an alleged violation of the video description requirements of this section by transmitting it to the Consumer and Governmental Affairs Bureau at the Commission by any reasonable means, such as letter, facsimile transmission, telephone (voice/TRS/TTY), e-mail, audio-cassette recording, and Braille, or some other method that would best accommodate the complainant's disability. Complaints should be addressed to: Consumer and Governmental Affairs Bureau, 445 12th Street, SW., Washington, DC 20554. A complaint must include:
+(e) *Complaint procedures.* (1) A complainant may file a complaint concerning an alleged violation of the video description requirements of this section by transmitting it to the Consumer and Governmental Affairs Bureau at the Commission by any reasonable means, such as letter, facsimile transmission, telephone (voice/TRS/TTY), e-mail, audio-cassette recording, and Braille, or some other method that would best accommodate the complainant's disability. Complaints should be addressed to: Consumer and Governmental Affairs Bureau, located at the address of the FCC's main office indicated in 47 CFR 0.401(a). A complaint must include:
 
 (i) The name and address of the complainant;
 
@@ -102,4 +102,4 @@
 
 (f) *Private rights of action are prohibited.* Nothing in this section shall be construed to authorize any private right of action to enforce any requirement of this section. The Commission shall have exclusive jurisdiction with respect to any complaint under this section.
 
-[76 FR 55604, Sept. 8, 2011, as amended at 76 FR 68118, Nov. 3, 2011; 82 FR 37354, Aug. 10, 2017]
+[76 FR 55604, Sept. 8, 2011, as amended at 76 FR 68118, Nov. 3, 2011; 82 FR 37354, Aug. 10, 2017; 85 FR 64409. Oct. 13, 2020]

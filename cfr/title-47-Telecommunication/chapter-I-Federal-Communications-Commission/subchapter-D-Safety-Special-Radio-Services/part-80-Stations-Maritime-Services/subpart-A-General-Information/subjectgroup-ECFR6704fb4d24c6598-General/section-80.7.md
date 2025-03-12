@@ -1,6 +1,6 @@
 ##### § 80.7 Incorporation by reference. #####
 
-(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Federal Communications Commission must publish notice of the change in the Federal Register and the material must be available to the public. All approved material is available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* Also it is available for inspection at the Federal Communications Commission, 445 12th Street, SW., Washington, DC (Reference Information Center), and is available from the sources listed below.
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Federal Communications Commission must publish notice of the change in the Federal Register and the material must be available to the public. All approved material is available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* Also it is available for inspection at the Federal Communications Commission's Reference Information Center, located at the address of the FCC's main office indicated in 47 CFR 0.401(a), and is available from the sources listed in this section.
 
 (b) The International Maritime Organization (IMO), 4 Albert Embankment, London SE1 7SR, United Kingdom; *http://www.imo.org;* Tel. + 44 (0)20 7735 7611; Fax + 44 (0)20 7587 3210; email: *info@imo.org.*
 
@@ -86,45 +86,45 @@
 
 (12) ITU-T Recommendation E.161 (“ITU-T E.161”), “Series E: Overall Network Operation, Telephone Service, Service Operation and Human Factors: International Operation-Numbering Plan of the International Telephone Service: Arrangement of Digits, Letters and Symbols on Telephones and Other Devices that Can Be Used for Gaining Access to a Telephone Network” (02/2001), IBR approved for § 80.1101.
 
-(13) ITU-T Recommendation E.164.1 (“ITU-T E.164.1”), “Series E: Overall Network Operation, Telephone Service, Service Operation and Human Factors: International Operation - Numbering Plan of the International Telephone Service: Criteria and Procedures for the Reservation, Assignment, and Reclamation of E.164 Country Codes and Associated Identification Codes (ICs)” (09/2008), IBR approved for § 80.1101.
+(13) ITU-T Recommendation E.164.1 (“ITU-T E.164.1”), “Series E: Overall Network Operation, Telephone Service, Service Operation and Human Factors: International Operation—Numbering Plan of the International Telephone Service: Criteria and Procedures for the Reservation, Assignment, and Reclamation of E.164 Country Codes and Associated Identification Codes (ICs)” (09/2008), IBR approved for § 80.1101.
 
 (d) The International Electrotechnical Commission (IEC), 3 Rue de Varembe, CH-1211, Geneva 20, Switzerland; *www.iec.ch*; phone: + 41 22 919 02 11; fax: + 41 22 919 03 00; email: *info@iec.ch.* (IEC publications can also be purchased from the American National Standards Institute (ANSI) through its NSSN operation (*www.nssn.org*), at Customer Service, American National Standards Institute, 25 West 43rd Street, New York NY 10036, telephone (212) 642-4900.)
 
-(1) IEC 60092-101:1994 + A1:1995 (“IEC 60092-101”), Edition 4.1, 2002-08, “Electrical installations in ships - Part 101: Definitions and general requirements,” IBR approved for § 80.1101.
+(1) IEC 60092-101:1994 + A1:1995 (“IEC 60092-101”), Edition 4.1, 2002-08, “Electrical installations in ships—Part 101: Definitions and general requirements,” IBR approved for § 80.1101.
 
-(2) IEC 60533:1999(E) (“IEC 60533”), Second edition, 1999-11, “Electrical and electronic installations in ships - Electromagnetic compatibility,” IBR approved for § 80.1101.
+(2) IEC 60533:1999(E) (“IEC 60533”), Second edition, 1999-11, “Electrical and electronic installations in ships—Electromagnetic compatibility,” IBR approved for § 80.1101.
 
 (3) IEC 60945:2002 (“IEC 60945”), Fourth edition, 2002-08, “Maritime navigation and radiocommunication equipment and systems-General requirements-Methods of testing and required test results,” with Annexes, IBR approved for §§ 80.273 and 80.1101.
 
-(4) IEC 61097-1:2007(E) (“IEC 61097-1”), Second edition, 2007-06, “Global maritime distress and safety system (GMDSS) - Part 1: Radar transponder - Marine search and rescue (SART) - Operational and performance requirements, methods of testing and required test results,” with Annexes, IBR approved for § 80.1101.
+(4) IEC 61097-1:2007(E) (“IEC 61097-1”), Second edition, 2007-06, “Global maritime distress and safety system (GMDSS)—Part 1: Radar transponder—Marine search and rescue (SART)—Operational and performance requirements, methods of testing and required test results,” with Annexes, IBR approved for § 80.1101.
 
-(5) IEC 61097-3:1994 (“IEC 61097-3”), First edition, 1994-06, “Global maritime distress and safety system (GMDSS) - Part 3: Digital selective calling (DSC) equipment - Operational and performance requirements, methods of testing and required testing results,” with Annexes, IBR approved for § 80.1101.
+(5) IEC 61097-3:1994 (“IEC 61097-3”), First edition, 1994-06, “Global maritime distress and safety system (GMDSS)—Part 3: Digital selective calling (DSC) equipment—Operational and performance requirements, methods of testing and required testing results,” with Annexes, IBR approved for § 80.1101.
 
-(6) IEC 61097-4 (“IEC 61097-4”), Edition 2.0, 2007-10, “Global maritime distress and safety system (GMDSS) - Part 4: INMARSAT-C ship earth station and INMARSAT enhanced group call (EGC) equipment - Operational and performance requirements, methods of testing and required test results,” IBR approved for § 80.1101.
+(6) IEC 61097-4 (“IEC 61097-4”), Edition 2.0, 2007-10, “Global maritime distress and safety system (GMDSS)—Part 4: INMARSAT-C ship earth station and INMARSAT enhanced group call (EGC) equipment—Operational and performance requirements, methods of testing and required test results,” IBR approved for § 80.1101.
 
-(7) IEC 61097-6:2005(E) (“IEC 61097-6”), Second edition, 2005-12, “Global maritime distress and safety system (GMDSS) - Part 6: Narrowband direct-printing telegraph equipment for the reception of navigational and meteorological warnings and urgent information to ships (NAVTEX),” IBR approved for § 80.1101.
+(7) IEC 61097-6:2005(E) (“IEC 61097-6”), Second edition, 2005-12, “Global maritime distress and safety system (GMDSS)—Part 6: Narrowband direct-printing telegraph equipment for the reception of navigational and meteorological warnings and urgent information to ships (NAVTEX),” IBR approved for § 80.1101.
 
-(8) IEC 61097-7:1996 (“IEC 61097-7”), First edition, 1996-10, “Global maritime distress and safety system (GMDSS) - Part 7: Shipborne VHF radiotelephone transmitter and receiver - Operational and performance requirements, methods of testing and required test results,” IBR approved for § 80.1101.
+(8) IEC 61097-7:1996 (“IEC 61097-7”), First edition, 1996-10, “Global maritime distress and safety system (GMDSS)—Part 7: Shipborne VHF radiotelephone transmitter and receiver—Operational and performance requirements, methods of testing and required test results,” IBR approved for § 80.1101.
 
-(9) IEC 61097-8:1998(E) (“IEC 61097-8”), First edition, 1998-09, “Global maritime distress and safety system (GMDSS) - Part 8: Shipborne watchkeeping receivers for the reception of digital selective calling (DSC) in the maritime MF, MF/HF, and VHF bands - Operational and Performance Requirements, Methods of Testing and Required Test Results,” with Annexes, IBR approved for § 80.1101.
+(9) IEC 61097-8:1998(E) (“IEC 61097-8”), First edition, 1998-09, “Global maritime distress and safety system (GMDSS)—Part 8: Shipborne watchkeeping receivers for the reception of digital selective calling (DSC) in the maritime MF, MF/HF, and VHF bands—Operational and Performance Requirements, Methods of Testing and Required Test Results,” with Annexes, IBR approved for § 80.1101.
 
-(10) IEC 61097-9:1997(E) (“IEC 61097-9”), First edition, 1997-12, “Global maritime distress and safety system (GMDSS) - Part 9: Shipborne transmitters and receivers for use in the MF and HF bands suitable for telephony, digital selective calling (DSC) and narrow band direct printing (NBDP) - Operational and performance requirements, methods of testing and required test results,” with Annexes, IBR approved for § 80.1101.
+(10) IEC 61097-9:1997(E) (“IEC 61097-9”), First edition, 1997-12, “Global maritime distress and safety system (GMDSS)—Part 9: Shipborne transmitters and receivers for use in the MF and HF bands suitable for telephony, digital selective calling (DSC) and narrow band direct printing (NBDP)—Operational and performance requirements, methods of testing and required test results,” with Annexes, IBR approved for § 80.1101.
 
-(11) IEC 61097-10:1999(E) (“IEC 61097-10”), First edition, 1999-06, “Global maritime distress and safety system (GMDSS) - Part 10: INMARSAT-B ship earth station equipment - Operational and performance requirements, methods of testing and required test results,” with Annexes, IBR approved for § 80.1101.
+(11) IEC 61097-10:1999(E) (“IEC 61097-10”), First edition, 1999-06, “Global maritime distress and safety system (GMDSS)—Part 10: INMARSAT-B ship earth station equipment—Operational and performance requirements, methods of testing and required test results,” with Annexes, IBR approved for § 80.1101.
 
-(12) IEC 61097-12:1996(E) (“IEC 61097-12”), First edition, 1996-11, “Global maritime distress and safety system (GMDSS) - Part 12: Survival craft portable two-way VHF radiotelephone apparatus - Operational and performance requirements, methods of testing and required test results,” IBR approved for § 80.1101.
+(12) IEC 61097-12:1996(E) (“IEC 61097-12”), First edition, 1996-11, “Global maritime distress and safety system (GMDSS)—Part 12: Survival craft portable two-way VHF radiotelephone apparatus—Operational and performance requirements, methods of testing and required test results,” IBR approved for § 80.1101.
 
-(13) IEC 61097-13:2003(E) (“IEC 61097-13”), First edition, 2003-05, “Global maritime distress and safety system (GMDSS) - Part 13: INMARSAT F77 ship earth station equipment - Operational and performance requirements, methods of testing and required test results,” IBR approved for § 80.1101.
+(13) IEC 61097-13:2003(E) (“IEC 61097-13”), First edition, 2003-05, “Global maritime distress and safety system (GMDSS)—Part 13: INMARSAT F77 ship earth station equipment—Operational and performance requirements, methods of testing and required test results,” IBR approved for § 80.1101.
 
-(14) IEC 61097-14 (“IEC 61097-14”), Edition 1.0, 2010-02, “Global maritime distress and safety system (GMDSS) - Part 14: AIS search and rescue transmitter (AIS-SART) - Operational and performance requirements, methods of testing and required test results,” IBR approved for § 80.233(a).
+(14) IEC 61097-14 (“IEC 61097-14”), Edition 1.0, 2010-02, “Global maritime distress and safety system (GMDSS)—Part 14: AIS search and rescue transmitter (AIS-SART)—Operational and performance requirements, methods of testing and required test results,” IBR approved for § 80.233(a).
 
 (15) [Reserved]
 
-(16) IEC 61162-1:2007(E) (“IEC 61162-1”), Third edition, 2007-04, “Maritime navigation and radiocommunication equipment and systems - Digital interfaces - Part 1: Single talker and multiple listeners,” IBR approved for § 80.1101.
+(16) IEC 61162-1:2007(E) (“IEC 61162-1”), Third edition, 2007-04, “Maritime navigation and radiocommunication equipment and systems—Digital interfaces—Part 1: Single talker and multiple listeners,” IBR approved for § 80.1101.
 
-(17) IEC 61993-2:2001(E) (“IEC 61993-2”), First edition, 2001-12, “Maritime navigation and radiocommunication equipment and systems - Automatic identification systems (AIS) - Part 2: Class A shipborne equipment of the universal automatic identification system (AIS) - Operational and performance requirements, methods of test and required test results,” with Annexes, IBR approved for § 80.1101.
+(17) IEC 61993-2:2001(E) (“IEC 61993-2”), First edition, 2001-12, “Maritime navigation and radiocommunication equipment and systems—Automatic identification systems (AIS)—Part 2: Class A shipborne equipment of the universal automatic identification system (AIS)—Operational and performance requirements, methods of test and required test results,” with Annexes, IBR approved for § 80.1101.
 
-(18) IEC 62238:2003(E) (“IEC 62238”), First edition, 2003-03, “Maritime navigation and radiocommunication equipment and systems - VHF radiotelephone equipment incorporating Class “D” Digital Selective Calling (DSC) - Methods of testing and required test results,” IBR approved for § 80.225.
+(18) IEC 62238:2003(E) (“IEC 62238”), First edition, 2003-03, “Maritime navigation and radiocommunication equipment and systems—VHF radiotelephone equipment incorporating Class “D” Digital Selective Calling (DSC)—Methods of testing and required test results,” IBR approved for § 80.225.
 
 (19) IEC 62287-1:2006(E) (“IEC 62287-1”), First edition, 2006-03, “Maritime navigation and radiocommunication equipment and systems-Class B shipborne equipment of the Automatic Identification System-Part 1: Carrier-sense time division multiple access (CSTDMA) techniques,” IBR approved for § 80.231.
 
@@ -132,7 +132,7 @@
 
 (e) The International Organization for Standardization (ISO), 1, ch. De la Voie-Creuse, CP 56, CH-1211, Geneva 20, Switzerland; *www.iso.org*; Tel.: + 41 22 749 01 11; Fax: + 41 22 733 34 30; email: *central&iso.org.* (ISO publications can also be purchased from the American National Standards Institute (ANSI) through its NSSN operation (*www.nssn.org*), at Customer Service, American National Standards Institute, 25 West 43rd Street, New York NY 10036, telephone (212) 642-4900.)
 
-(1) ISO Standard 3791 (“ISO Standard 3791”), “Office Machines and Data Processing Equipment - Keyboard Layouts for Numeric Applications,” First Edition 1976(E), IBR approved for § 80.1101.
+(1) ISO Standard 3791 (“ISO Standard 3791”), “Office Machines and Data Processing Equipment—Keyboard Layouts for Numeric Applications,” First Edition 1976(E), IBR approved for § 80.1101.
 
 (2) [Reserved]
 
@@ -146,4 +146,4 @@
 
 (4) RTCM Standard 12301.1 (“RTCM 12301”), “VHF-FM Digital Small Message Services,” July 10, 2009, IBR approved for § 80.364(a).
 
-[76 FR 67607, Nov. 2, 2011, as amended at 79 FR 77918, Dec. 29, 2014; 81 FR 90745, 90746, Dec. 15, 2016]
+[76 FR 67607, Nov. 2, 2011, as amended at 79 FR 77918, Dec. 29, 2014; 81 FR 90745, 90746, Dec. 15, 2016; 85 FR 64409, Oct. 13, 2020]

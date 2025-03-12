@@ -12,19 +12,7 @@ The term “total reserves” does not, however, include deficiency reserves (wi
 
 (b) *Reserves required by law defined.* For purposes of part I, subchapter L, chapter 1 of the Code, the term *reserves required by law* means reserves which are required either by express statutory provisions or by rules and regulations of the insurance department of a State, Territory, or the District of Columbia when promulgated in the exercise of a power conferred by statute, and which are reported in the annual statement of the company and accepted by state regulatory authorities as held for the fulfillment of the claims of policyholders or beneficiaries.
 
-(c) *Information to be filed.* In any case where reserves are claimed, sufficient information must be filed with the return to enable the district director to determine the validity of the claim. See section 6012 and paragraph (c) of § 1.6012-2. If the basis (for Federal income tax purposes) for determining the amount of any of the life insurance reserves as of the close of the taxable year differs from the basis for such determination as of the beginning of the taxable year then the following information must be filed with respect to all such changes in basis:
-
-(1) The nature of the life insurance reserve (*i.e.*, life, annuity, etc.);
-
-(2) The mortality or morbidity table, assumed rate of interest, method used in computing or estimating such reserve on the old basis, and the amount of such reserve at the beginning and close of the taxable year computed on the old basis;
-
-(3) The mortality or morbidity table, assumed rate of interest, method used in computing or estimating such reserve on the new basis, and the amount of such reserve at the close of the taxable year computed on the new basis;
-
-(4) The deviation, if any, from recognized mortality or morbidity tables, or recognized methods of computation;
-
-(5) The reasons for the change in basis of such reserve; and
-
-(6) Whether such change in the reserve has been approved or accepted by the regulatory authorities of the State of domicile, and if so, a copy of the letter, certificate, or other evidence of such approval or acceptance.
+(c) [Reserved]
 
 (d) *Illustration of principles.* The provisions of section 801 relating to the percentage requirements for qualification as a life insurance company may be illustrated by the following example:
 
@@ -38,4 +26,4 @@ Example.The books of Y, an insurance company, selling life insurance, noncancell
 |                                                       4. All other insurance reserves required by law                                                       | 900  | 1,100 |   1,000    |
 |                                                                      5. Total reserves                                                                      |      |       |   7,500    |
 
-The rules provided by section 801 require that the sum of the mean of the year figures in items 1 and 2 comprise more than 50 percent of the mean of the year figure in item 5 for an insurance company to qualify as a life insurance company. Thus, Y would qualify as a life insurance company for the taxable year 1958 as the sum of the mean of the year figures in items 1 and 2 ($4,500) comprise 60 percent of the mean of the year figure in item 5 ($7,500).[T.D. 6513, 25 FR 12657, Dec. 10, 1960]
+The rules provided by section 801 require that the sum of the mean of the year figures in items 1 and 2 comprise more than 50 percent of the mean of the year figure in item 5 for an insurance company to qualify as a life insurance company. Thus, Y would qualify as a life insurance company for the taxable year 1958 as the sum of the mean of the year figures in items 1 and 2 ($4,500) comprise 60 percent of the mean of the year figure in item 5 ($7,500).[T.D. 6513, 25 FR 12657, Dec. 10, 1960, as amended by T.D. 9911, 85 FR 64392, Oct. 13, 2020]

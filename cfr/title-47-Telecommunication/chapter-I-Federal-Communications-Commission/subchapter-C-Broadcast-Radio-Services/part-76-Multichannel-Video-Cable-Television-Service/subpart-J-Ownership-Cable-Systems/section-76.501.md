@@ -64,10 +64,10 @@ Paragraph (a) of this section will not be applied so as to require the divestitu
 
 Note 5 to § 76.501:
 
-Certifications pursuant to this section and these notes shall be sent to the attention of the Media Bureau, Federal Communications Commission, 445 12th Street, SW., Washington, DC 20554.
+Certifications pursuant to this section and these notes shall be sent to the attention of the Media Bureau, Federal Communications Commission, located at the address of the FCC's main office indicated in 47 CFR 0.401(a).
 
 Note 6 to § 76.501:
 
 In applying paragraph (a) of § 76.501, for purposes of paragraph note 2(i) of this section, attribution of ownership interests in an entity covered by this rule that are held indirectly by any party through one or more intervening organizations will be determined by successive multiplication of the ownership percentages for each link in the vertical ownership chain and application of the relevant attribution benchmark to the resulting product. The ownership percentage for any link in the chain that exceeds 50% shall be included. [For example, if A owns 10% of company X, which owns 60% of company Y, which owns 25% of “Licensee,” then X's interest in “Licensee” would 15% (0.6 × 0.25), and A's interest in “Licensee” would be 1.5% (0.1 × 0.6 × 0.25).]
 
-[58 FR 27677, May 11, 1993, as amended at 60 FR 37834, July 24, 1995; 61 FR 15388, Apr. 8, 1996; 64 FR 50646, Sept. 17, 1999; 64 FR 67194, Dec. 1, 1999; 66 FR 9973, Feb. 13, 2001; 67 FR 13234, Mar. 21, 2002; 68 FR 13237, Mar. 19, 2003]
+[58 FR 27677, May 11, 1993, as amended at 60 FR 37834, July 24, 1995; 61 FR 15388, Apr. 8, 1996; 64 FR 50646, Sept. 17, 1999; 64 FR 67194, Dec. 1, 1999; 66 FR 9973, Feb. 13, 2001; 67 FR 13234, Mar. 21, 2002; 68 FR 13237, Mar. 19, 2003; 85 FR 64409, Oct. 13, 2020]

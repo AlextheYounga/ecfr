@@ -2,7 +2,7 @@
 
 (a) Licensees authorized to operate wireless services in the 600 MHz band must cause no harmful interference to public reception of the signals of broadcast television stations transmitting co-channel or on an adjacent channel.
 
-(1) Such wireless operations must comply with the D/U ratios in Table 5 in OET Bulletin No. 74, Methodology for Predicting Inter-Service Interference to Broadcast Television from Mobile Wireless Broadband Services in the UHF Band ([DATE]) (“*OET Bulletin No. 74*”). Copies of *OET Bulletin No. 74* may be inspected during normal business hours at the Federal Communications Commission, 445 12th St. SW., Dockets Branch (Room CY A09257), Washington, DC 20554. This document is also available through the Internet on the *FCC Home Page at http://www.fcc.gov.*
+(1) Such wireless operations must comply with the D/U ratios in Table 5 in OET Bulletin No. 74, Methodology for Predicting Inter-Service Interference to Broadcast Television from Mobile Wireless Broadband Services in the UHF Band ([DATE]) (“*OET Bulletin No. 74*”). Copies of this document are available on the FCC's website. See *https://www.fcc.gov/general/oet-bulletins-line.*
 
 (2) If a 600 MHz band licensee causes harmful interference within the noise-limited contour or protected contour of a broadcast television station that is operating co-channel or on an adjacent channel, the 600 MHz band licensee must eliminate the harmful interference.
 
@@ -36,4 +36,4 @@
 
 (5) Adjacent channel operations are defined as operations of broadcast television stations and wireless services where their assigned channels or frequencies spectrally abut each other or are separated by up to 5 MHz.
 
-[80 FR 71743, Nov. 17, 2015]
+[80 FR 71743, Nov. 17, 2015, as amended at 85 FR 64407, Oct. 13, 2020]

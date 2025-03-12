@@ -12,7 +12,7 @@
 
 Note 1 to § 76.503:
 
-Certifications made under this section shall be sent to the attention of the Media Bureau, Federal Communications Commission, 445 12th Street, SW., Washington, DC 20554.
+Certifications made under this section shall be sent to the attention of the Media Bureau, Federal Communications Commission, located at the address of the FCC's main office indicated in 47 CFR 0.401(a).
 
 Note 2 to § 76.503:
 
@@ -28,4 +28,4 @@ Note 2 to § 76.503:
 
 (c) Officers and directors of an entity covered by this rule are considered to have a cognizable interest in the entity with which they are so associated. If any such entity engages in activities other than video-programming activities, it may request the Commission to waive attribution for any officer or director whose duties and responsibilities are wholly unrelated to the entity's video-programming activities. In the case of common or appointed directors and officers, if common or appointed directors or officers have duties and responsibilities that are wholly unrelated to video-programming activities for both entities, the relevant entity may request the Commission to waive attribution of the director or officer. The officers and directors of a parent company of a video-programming business, with an attributable interest in any such subsidiary entity, shall be deemed to have a cognizable interest in the subsidiary unless the duties and responsibilities of the officer or director involved are wholly unrelated to the video-programming subsidiary, and a certification properly documenting this fact is submitted to the Commission. The officers and directors of a sister corporation of a cable system shall not be attributed with ownership of that entity by virtue of such status.
 
-[64 FR 67195, 67199, Dec. 1, 1999, as amended at 67 FR 13234, Mar. 21, 2002; 69 FR 72046, Dec. 10, 2004; 73 FR 11050, Feb. 29, 2008]
+[64 FR 67195, 67199, Dec. 1, 1999, as amended at 67 FR 13234, Mar. 21, 2002; 69 FR 72046, Dec. 10, 2004; 73 FR 11050, Feb. 29, 2008; 85 FR 64409, Oct. 13, 2020]

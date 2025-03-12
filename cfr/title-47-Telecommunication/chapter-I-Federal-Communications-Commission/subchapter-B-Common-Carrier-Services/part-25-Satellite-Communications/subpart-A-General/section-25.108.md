@@ -1,6 +1,6 @@
 ##### § 25.108 Incorporation by reference. #####
 
-(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at the Federal Communications Commission, 445 12th Street SW, Reference Information Center, Room CY-A257, Washington, DC 20554, 202-418-0270, and is available from the sources listed below. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *www.archives.gov/federal-register/ccfr/ibr-locations.html.*
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at the Federal Communications Commission's Reference Information Center, located at the address of the FCC's main office indicated in 47 CFR 0.401(a), and is available from the sources listed in this paragraph (a).It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *www.archives.gov/federal-register/ccfr/ibr-locations.html.*
 
 (b) European Telecommunications Standards Institute (ETSI), 650 Route des Lucioles, 06921 Sophia-Antipolis Cedex, France; *http://www.etsi.org;* Voice: +33 (0)4 92 94 42 00; Fax: +33 (0)4 93 65 47 16; email: *webstore@etsi.org.*
 
@@ -28,4 +28,4 @@
 
 (9) ITU Radio Regulations, Volume 3: Resolutions and Recommendations, Resolution 85 (WRC-03), “Application of Article 22 of the Radio Regulations to the protection of geostationary fixed-satellite service and broadcasting-satellite service networks from non-geostationary fixed-satellite service systems,” Edition of 2016, copyright 2016, *http://www.itu.int/pub/R-REG-RR-2016.* Incorporation by reference approved for § 25.146(c).
 
-[81 FR 55324, Aug. 18, 2016, as amended at 82 FR 37029, Aug. 8, 2017; 82 FR 40494, Aug. 25, 2017; 82 FR 59984, Dec. 18, 2017]
+[81 FR 55324, Aug. 18, 2016, as amended at 82 FR 37029, Aug. 8, 2017; 82 FR 40494, Aug. 25, 2017; 82 FR 59984, Dec. 18, 2017; 85 FR 64407, Oct. 13, 2020]

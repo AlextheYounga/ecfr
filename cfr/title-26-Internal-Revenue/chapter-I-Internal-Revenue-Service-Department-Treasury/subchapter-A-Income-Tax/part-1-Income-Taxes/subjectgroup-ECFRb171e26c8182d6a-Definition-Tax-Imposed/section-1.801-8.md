@@ -1,6 +1,6 @@
 ##### § 1.801-8 Contracts with reserves based on segregated asset accounts. #####
 
-(a) *Definitions* - (1) *Annuity contracts include variable annuity contracts.* Section 801(g)(1)(A) provides that for purposes of part I, subchapter L, chapter 1 of the Code, an annuity contract includes a contract which provides for the payment of a variable annuity computed on the basis of recognized mortality tables and the investment experience of the company issuing such a contract. A variable annuity differs from the ordinary or fixed dollar annuity in that the annuity benefits payable under a variable annuity contract vary with the insurance company's investment experience with respect to such contracts while the annuity benefits paid under a fixed dollar annuity contract are guaranteed irrespective of the company's actual investment earnings.
+(a) *Definitions*—(1) *Annuity contracts include variable annuity contracts.* Section 801(g)(1)(A) provides that for purposes of part I, subchapter L, chapter 1 of the Code, an annuity contract includes a contract which provides for the payment of a variable annuity computed on the basis of recognized mortality tables and the investment experience of the company issuing such a contract. A variable annuity differs from the ordinary or fixed dollar annuity in that the annuity benefits payable under a variable annuity contract vary with the insurance company's investment experience with respect to such contracts while the annuity benefits paid under a fixed dollar annuity contract are guaranteed irrespective of the company's actual investment earnings.
 
 (2) *Contracts with reserves based on a segregated asset account.* (i) For purposes of part I, section 801(g)(1)(B) defines the term *contract with reserves based on a segregated asset account* as a contract (individual or group):
 
@@ -40,142 +40,7 @@ Thus, for purposes of determining both taxable investment income and gain or los
 
 Example 1.For the taxable year 1962, T, a life insurance company which issues regular life insurance and annuity contracts and contracts with reserves based on segregated asset accounts, had (without regard to section 801(g)(4)(A)) realized short-term capital gains of $10,000 and short-term capital losses of $10,000 attributable to its general asset accounts and realized short-term capital gains of $12,000 attributable to its segregated asset accounts. For the taxable year 1962, the excess of the net short-term capital gain ($10,000 + $12,000−$10,000, or $12,000) over the net long-term capital loss (0) was $12,000. Of the excess of $12,000, 100 percent was contributed by the segregated asset accounts. Applying the provisions of section 801(g)(4)(B), T would allocate the entire $12,000 to its segregated asset accounts for such taxable year.Example 2.The facts are the same as in example 1 except that for the taxable year 1962, T had (without regard to section 801(g)(4)(A)) realized short-term capital losses of $8,000 attributable to its general asset accounts and realized long-term capital gains of $1,000 and long-term capital losses of $5,000 attributable to its segregated asset accounts. For the taxable year 1962, the excess of the net short-term capital gain ($10,000 + $12,000−$8,000, or $14,000) over the net long-term capital loss ($5,000−$1,000, or $4,000) was $10,000. Of the excess of $10,000, the general asset accounts contributed 20 percent ($2,000 ($10,000−$8,000) ÷ $10,000) and the segregated asset accounts contributed 80 percent ($8,000 ($12,000−$4,000) ÷ $10,000). Applying the provisions of section 801(g)(4)(B), T would allocate $2,000 ($10,000 × 20 percent) to its general asset accounts and $8,000 ($10,000 × 80 percent) to its segregated asset accounts for such taxable year.Example 3.W is a life insurance company which issues regular life insurance and annuity contracts and contracts with reserves based on either of two segregated asset accounts, Separate Account C or Separate Account D. For the taxable year 1962, W had (without regard to section 801(g)(4)(A)) realized short-term capital gains of $16,000 and long-term capital losses of $15,000 attributable to its general asset accounts, long-term capital gains of $12,000 and short-term capital losses of $6,000 attributable to Separate Account C and long-term capital gains of $7,000 and short-term capital losses of $5,000 attributable to Separate Account D. For the taxable year 1962, the excess of the net short-term capital gain ($16,000−$6,000−$5,000) over the net long-term capital loss (0) was $5,000. Of the $5,000 excess, 20 percent ($16,000−$15,000 ÷ $5,000) was contributed by the general asset accounts, leaving 80 percent as the amount contributed by the segregated asset accounts. Applying the provisions of section 801(g)(4)(B) W would allocate $1,000 (20 percent of $5,000) to the general asset accounts, leaving $4,000 (80 percent of $5,000) to be allocated among the segregated asset accounts, Separate Account C and Separate Account D. W would allocate $3,000 of the $4,000 to Separate Account C computed as follows:![](/graphics/ec14no91.135.gif)W would allocate $1,000 of the $4,000 to Separate Account D computed as follows:![](/graphics/ec14no91.136.gif)
 
-(e) *Policy and other contract liability requirements.* (1) For purposes of part I, section 801(g)(5)(A) provides that with respect to life insurance reserves based on segregated asset accounts (as defined in section 801(g)(1)(B) and paragraph (a)(2) of this section), the adjusted reserves rate and the current earnings rate for purposes of section 805(b), and the rate of interest assumed by the taxpayer for purposes of sections 805(c) and 809(a)(2), shall be a rate equal to the current earnings rate determined under section 805(b)(2) and paragraph (a)(2) of § 1.805-5 with respect to the items separately accounted for in accordance with section 801(g)(3), reduced by the percentage obtained by dividing:
-
-(i) Any amount retained with respect to all of the reserves based on a segregated asset account by the life insurance company from gross investment income (as defined in section 804(b) and paragraph (a) of § 1.804-3) on segregated assets, to the extent such retained amount exceeds the deductions allowable under section 804(c) which are attributable to such reserves, by
-
-(ii) The means of such reserves.
-
-(2) For purposes of part I, section 801 (g)(5)(B) provides that with respect to reserves based on segregated asset accounts other than life insurance reserves, there shall be included as interest paid within the meaning of section 805(e)(1) and paragraph (b)(1) of § 1.805-8, an amount equal to the product of the means of such reserves multiplied by the rate of interest assumed as defined in section 801(g)(5)(A) and subparagraph (1) of this paragraph.
-
-(3) For purposes of this paragraph, any change in the rate of interest assumed by the taxpayer in calculating the reserve on a contract with reserves based on a segregated asset account for any taxable year beginning after December 31, 1961, which is attributable to an increase or decrease in the current earnings rate, shall not be treated as a change of basis in computing reserves for purposes of section 806(b) (relating to certain changes in reserves) or section 810 (d)(1) (relating to adjustment for change in computing reserves).
-
-(4) The provisions of section 801(g) (3) through (5) may be illustrated by the following example. For purposes of this example, it is assumed that all computations have been carried out to a sufficient number of decimal places to insure substantial accuracy and to eliminate any significant error in the resulting tax liability.
-
-Example.The books of R, a life insurance company, discloses the following facts with respect to items of investment yield, deductions, assets, and reserves for the taxable year 1962:
-
-(a) *Excerpts from Company Financial Statements.*
-
-|                                (1) Investment yield                                 |Company regular account|Separate account A|Separate account B|
-|-------------------------------------------------------------------------------------|-----------------------|------------------|------------------|
-|                             Interest wholly tax-exempt                              |       $100,000        |      $3,000      |      $1,000      |
-|                                  Interest - other                                   |      10,000,000       |      8,000       |      15,000      |
-|                                 Dividends received                                  |        200,000        |      25,000      |      27,000      |
-|                           Other items of investment yield                           |        100,000        |      2,000       |      1,000       |
-|                               Gross investment income                               |      10,400,000       |      38,000      |      44,000      |
-|                            Less deductions (sec. 804(c))                            |       1,000,000       |      4,000       |      4,400       |
-|                                  Investment yield                                   |       9,400,000       |      34,000      |      39,600      |
-|                              (2) Assets and reserves:                               |                       |                  |                  |
-|                                     (i) Assets:                                     |                       |                  |                  |
-|                                    Jan. 1, 1962                                     |      190,000,000      |                  |                  |
-|                                    Dec. 31, 1962                                    |      210,000,000      |    1,600,000     |    1,800,000     |
-|                                        Mean                                         |      200,000,000      |     800,000      |     900,000      |
-|                            (ii) Life insurance reserves:                            |                       |                  |                  |
-|                                    Jan. 1, 1962                                     |      152,000,000      |                  |                  |
-|                                    Dec. 31, 1962                                    |      168,000,000      |    1,600,000     |    1,640,000     |
-|                                        Mean                                         |      160,000,000      |     800,000      |     820,000      |
-|(iii) Reserves based on segregated asset accounts other than life insurance reserves:|                       |                  |                  |
-|                                    Jan. 1, 1962                                     |                       |                  |                  |
-|                                    Dec. 31, 1962                                    |                       |                  |     120,000      |
-|                                        Mean                                         |                       |                  |      60,000      |
-
-(b) *Additional facts.* In addition to the facts assumed in (a) above, assume the following: The company retained with respect to reserves based upon segregated asset accounts a total of $4,720 from gross investment income on Separate Account A and $5,720 from gross investment income on Separate Account B. With respect to the Company Regular Account computed without regard to the items in either of the separate accounts, the policy and other contract liability requirement is $6,580,000 and the required interest is $5,640,000. There are no items of interest paid with respect to the separate accounts other than those computed under section 801(g)(5)(B). Based on these facts, the current earnings rate (sec. 805(b)); adjusted reserves rate (sec. 805 (b)); and rate of interest assumed (secs. 805(c) and 809(a)(2)); and the policy and other contract liability requirements are determined for each of the Separate Accounts A and B (and the policy and other contract liability requirements for the Company Regular Account) as set forth in items (c) through (1) below.
-
-(c) *Separate Account A.* The current earnings rate determined under section 805 (b)(2) with respect to the items separately accounted for under Separate Account A, prior to the reduction provided for under section 801(g)(5)(A), is 4.25 percent (the investment yield, $34,000, divided by the mean of the assets, $800,000). The company retained with respect to such reserves from gross investment income on Separate Account A a total of $4,720. The company had deductions allowable under section 804(c) with respect to such account of $4,000. Accordingly, for purposes of section 801(g)(5)(A)(i), the amount retained by the company was $720 (the total amount retained of $4,720 less the deductions allowable under section 804(c) of $4,000). The reduction percentage for purposes of section 801(g)(5)(A) is 0.09 percent (the amount retained of $720 divided by the mean of the life insurance reserves of $800,000). Therefore, the adjusted reserves rate and the current earnings rate for purposes of section 805(b), and the rate of interest assumed for purposes of sections 805(c) and 809(a)(2) is equal to 4.16 percent (the current earnings rate of 4.25 percent less the reduction percentage of 0.09 percent).
-
-The policy and other contract liability requirements with respect to Separate Account A is determined as follows: For purposes of section 805(a) (1) and (2), the amount is $33,280 (the mean of the life insurance reserves, $800,000, multiplied by the current earnings rate, as determined under section 801(g)(5)(A), 4.16 percent). Thus, the policy and other contract liability requirement for Separate Account A is $33,280.
-
-(d) *Separate Account B.* The current earnings rate determined under section 805 (b)(2) with respect to the items separately accounted for under Separate Account B, prior to the reduction provided for under section 801(g)(5)(A), is 4.40 percent (the investment yield, $39,600 divided by the mean of the assets, $900,000). The company retained with respect to such reserves from gross investment income on Separate Account B a total of $5,720. The company had deductions allowable under section 804(c) with respect to such account of $4,400. Accordingly, for purposes of section 801(g)(5)(A)(i) the amount retained by the company was $1,320 (the total amount retained of $5,720 less the deductions allowable under section 804(c) of $4,400). The reduction percentage for purposes of section 801(g)(5)(A) is 0.15 percent (the amount retained of $1,320 divided by the mean of the reserves based on Separate Account B of $880,000 ($820,000 plus $60,000)). Therefore, the adjusted reserves rate and the current earnings rate for purposes of section 805(b), and the rate of interest assumed for purposes of section 805(c) and 809(a)(2) is equal to 4.25 percent (the current earnings rate of 4.40 percent less the reduction percentage of 0.15 percent).
-
-With respect to reserves based on segregated asset accounts other than life insurance reserves, Separate Account B had such reserves at December 31, 1962, of $120,000. The mean of such reserves was $60,000. The rate of interest assumed with respect to such reserves is 4.25 percent, as computed above. Accordingly, there shall be included as interest paid within the meaning of section 805(e)(1) the amount of $2,550 (the mean of such reserves, $60,000 multiplied by the rate of interest assumed of 4.25 percent).
-
-The policy and other contract liability requirements with respect to Separate Account B is determined as follows:
-
-(1) For purposes of section 805(a)(1) and (2), the amount is $34,850 (the mean of the life insurance reserves, $820,000, multiplied by the current earnings rate, as determined under section 801(g)(5)(A), 4.25 percent).
-
-(2) For purposes of section 805(a)(3), the amount is $2,550 (the mean of the reserves based on Separate Account B other than life insurance reserves, $60,000, multiplied by the rate of interest assumed, as determined under section 801(g)(5)(A), 4.25 percent). It has been assumed that there was no other interest paid on Separate Account B within the meaning of section 805(e). If there was other interest paid with respect to Separate Account B that met the requirements of section 805(e), however, then such interest would be included under section 805(a)(3). Thus, the policy and other contract liability requirement for Separate Account B is $37,400 ($34,850 + $2,550).
-
-(e) *Company Regular Account.* The policy and other contract liability requirements with respect to the Company Regular Account is $6,580,000 (this amount is determined by the company in the manner provided by section 805 (and the regulations thereunder) without regard to either Separate Account A or Separate Account B).
-
-(f) *Policyholders' share and company's share of investment yield - section 804.* The policyholders' and company's share of investment yield and taxable investment income are computed as follows:
-
-|               (1) Company Regular Account               |                              |
-|:-------------------------------------------------------:|------------------------------|
-|        Policyholders' share of investment yield.        |70% ($6,580,000 ÷ $9,400,000).|
-|  Company's share of investment yield (100% less 70%).   |             30%.             |
-|                 (2) Separate Account A                  |                              |
-|        Policyholders' share of investment yield.        |97.8824% ($33,280 ÷ $34,000). |
-|Company's share of investment yield (100% less 97.8824%).|           2.1176%.           |
-|                 (3) Separate Account B                  |                              |
-|        Policyholders' share of investment yield.        | 94.444% ($37,400 ÷ $39,600). |
-|Company's share of investment yield (100% less 94.444%). |           5.556%.            |
-
-(g) *The company's share of investment yield under section 804 is determined as follows:*
-
-|  Investment yield (from item (a)(1))  |Company regular account (30 percent times each amount in item (a)(1))|Separate account A (2.1176 percent times each amount in item (a)(1))|Separate account B (5.556 percent times each amount in item (a)(1))|
-|---------------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------------|-------------------------------------------------------------------|
-|      Interest wholly tax-exempt       |                               $30,000                               |                               $63.53                               |                              $55.56                               |
-|           Interest - other            |                              3,000,000                              |                               169.41                               |                              833.40                               |
-|          Dividends received           |                               60,000                                |                               529.40                               |                             1,500.12                              |
-|Other items of gross investment income.|                               30,000                                |                               42.35                                |                               55.56                               |
-|                                       |                              3,120,000                              |                               804.69                               |                             2,444.64                              |
-|            Less deductions            |                               300,000                               |                               84.70                                |                              244.46                               |
-|           Investment yield            |                              2,820,000                              |                               719.99                               |                             2,200.18                              |
-
-(h) *Taxable investment income.* The company's taxable investment income (without regard to any excess of net long-term capital gain over net short-term capital loss) is determined as follows:
-
-|                                                              Life insurance company's share of investment yield ($2,820,000 + $719.99 + $2,200.18)                                                               |   |$2,822,920.17|
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--:|------------:|
-|                                                                                                      Less:                                                                                                       |   |             |
-|                                                              Company's share of interest wholly tax-exempt ($30,000 + $63.53 + $55.56) = $30,119.09                                                              |   |             |
-|85 percent of company's share of dividends received (but not to exceed 85% of taxable investment income computed without regard to this deduction) (85% × $62,029.52) ($60,000 + $529.40 + $1,500.12) = $52,725.09|   |             |
-|                                                        Small business deduction (10% of investment yield, $9,473,600, not to exceed $25,000) = $25,000.00                                                        |   | 107,844.18  |
-|                                                                                            Taxable investment income                                                                                             |   |2,715,075.99 |
-
-(i) *Required interest - section 809(a)(2)* - (1) *Separate Account A.* The rate of interest assumed by the company, with respect to Separate Account A is 4.16 percent (see (c) above). The required interest for purposes of section 809(a)(2) is determined as follows:
-
-|Life insurance reserves: 4.16% (rate assumed) times $800,000 (mean of life insurance reserves)|$33,280.00|
-|:---------------------------------------------------------------------------------------------|---------:|
-
-(2) *Separate Account B.* The rate of interest assumed by the company with respect to Separate Account B is 4.25 percent (see (d) above). The required interest for purposes of section 809(a)(2) is determined as follows:
-
-|             (i) Life insurance reserves: 4.25% (rate assumed) times $820,000 (mean of life insurance reserves)             |$34,850.00|
-|:---------------------------------------------------------------------------------------------------------------------------|---------:|
-|(ii) Other section 810(c) reserves: 4.25% (rate assumed) times $60,000 (mean of reserves other than life insurance reserves)|$2,550.00 |
-|                                                                                                                            |$37,400.00|
-
-(3) *Company Regular Account.* The required interest with respect to the Company Regular Account is $5,640,000 (this amount is assumed for purposes of this example, but it would be determined by the company in the manner provided by section 809 without regard to either Separate Account A or Separate Account B).
-
-(j) *Policyholders' share and company's share of investment yield - section 809.* The policyholders' share and the company's share of investment yield for purposes of section 809 is determined as follows:
-
-|                (1) Company Regular Account:                 |                              |
-|:------------------------------------------------------------|:-----------------------------|
-|          Policyholders' share of investment yield           |60% ($5,640,000 ÷ $9,400,000).|
-|  Company's share of investment yield (100 percent - 60%).   |             40%.             |
-|                   (2) Separate Account A:                   |                              |
-|          Policyholders' share of investment yield           |97.8824% ($33,280 ÷ $34,000). |
-|Company's share of investment yield (100% - 97.8824 percent).|           2.1176%.           |
-|                   (3) Separate Account B:                   |                              |
-|          Policyholders' share of investment yield           | 94.444% ($37,400 ÷ $39,600). |
-|    Company's share of investment yield (100% - 94.444%).    |           5.556%.            |
-
-(k) *The company's share of investment yield under section 809 is determined as follows:*
-
-| Investment yield (from item (a)(1))  |Company regular account (40 percent times each amount in item (a)(1))|Separate account A (2.1176 percent times each amount in item (a)(1))|Separate account B (5.556 percent times each amount in item (a)(1))|
-|--------------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------------|-------------------------------------------------------------------|
-|      Interest wholly tax-exempt      |                               $40,000                               |                               $63.53                               |                              $55.56                               |
-|           Interest - other           |                              4,000,000                              |                               169.41                               |                              833.40                               |
-|          Dividends received          |                               80,000                                |                               529.40                               |                             1,500.12                              |
-|Other items of gross investment income|                               40,000                                |                               42.35                                |                               55.56                               |
-|                                      |                              4,160,000                              |                               804.69                               |                             2,444.64                              |
-|           Less deductions            |                               400,000                               |                               84.70                                |                              244.46                               |
-|           Investment yield           |                              3,760,000                              |                               719.99                               |                             2,200.18                              |
-
-(1) *Deductions under section 809(d)(8).* For purposes of section 809(d)(8), the life insurance company's share of each of such items is determined as follows:
-
-|                                                                               (1) Wholly tax-exempt interest ($40,000 + $63.53 + $55.56)                                                                                |$40,119.09|
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------:|
-|(2) Dividends received 85% × $82,029.52 ($80,000 + $529.40 + $1,500.12) (it is assumed for purposes of this example that this amount does not exceed 85% of the gain from operations as computed under sec. 809(d)(8)(B))|69,725.09 |
+(e) [Reserved]
 
 (f) *Increases and decreases in reserves.* (1) Section 801(g)(6) provides that for purposes of section 810 (a) and (b) (relating to adjustments for increases or decreases in certain reserves), the sum of the items described in section 810(c) and paragraph (b) of § 1.810-2 taken into account as of the close of the taxable year shall be adjusted:
 
@@ -195,8 +60,8 @@ Example.On June 30, 1962, X, a life insurance company, reinsured a portion of it
 
 (g) *Basis of assets held for certain pension plan contracts.* Section 801(g)(7) provides that in the case of contracts described in section 805(d)(1) (A), (B), (C), (D), or (E) (relating to the definition of pension plan reserves), the basis of each asset in a segregated asset account shall (in addition to all other adjustments to basis) be (i) increased by the amount of any appreciation in value, and (ii) decreased by the amount of any depreciation in value; but only to the extent that such appreciation and depreciation are reflected in the increases and decreases in reserves, or other items described in section 801(g)(6), with respect to such contracts. Thus, there shall be no capital gains tax payable by a life insurance company on appreciation realized on assets in a segregated asset account to the extent such appreciation has been reflected in reserves, or other items described in section 801(g)(6), for contracts described in section 805(d)(1) (A), (B), (C), (D), or (E) based on segregated asset accounts.
 
-(h) *Additional separate computation* - (1) *Assets and total insurance liabilities.* A life insurance company which issues contracts with reserves based on segregated asset accounts (as defined in section 801(g)(1)(B) and paragraph (a)(2) of this section) shall separately compute and report with its return the assets and total insurance liabilities which are properly attributable to all of such segregated asset accounts. Each foreign corporation carrying on a life insurance business which issues such contracts shall separately compute and report with its return assets held in the United States and total insurance liabilities on United States business which are properly attributable to all of such segregated asset accounts.
+(h) *Additional separate computation*—(1) *Assets and total insurance liabilities.* A life insurance company which issues contracts with reserves based on segregated asset accounts (as defined in section 801(g)(1)(B) and paragraph (a)(2) of this section) shall separately compute and report with its return the assets and total insurance liabilities which are properly attributable to all of such segregated asset accounts. Each foreign corporation carrying on a life insurance business which issues such contracts shall separately compute and report with its return assets held in the United States and total insurance liabilities on United States business which are properly attributable to all of such segregated asset accounts.
 
 (2) *Foreign life insurance companies.* For adjustment under section 819 in the case of a foreign life insurance company which issues contracts based on segregated asset accounts under section 801(g), see § 1.819-2(b)(4).
 
-[T.D. 6886, 31 FR 8681, June 23, 1966, as amended by T.D. 6970, 33 FR 12044, Aug. 24, 1968; T.D. 7501, 42 FR 42341, Aug. 23, 1977]
+[T.D. 6886, 31 FR 8681, June 23, 1966, as amended by T.D. 6970, 33 FR 12044, Aug. 24, 1968; T.D. 7501, 42 FR 42341, Aug. 23, 1977; T.D. 9911, 85 FR 64392, Oct. 13, 2020]

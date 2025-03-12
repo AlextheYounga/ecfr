@@ -8,30 +8,6 @@
 
 (4) *Non-equity-indexed modified guaranteed contract.* A non-equity-indexed MGC is an MGC, as defined in paragraph (a)(1) of this section, that provides a return during or at the end of the temporary guarantee period not based on the performance of stocks, other equity instruments, or equity-based derivatives.
 
-(5) *Current market rate for non-equity-indexed modified guaranteed contracts.* The current market rate for a non-equity-indexed MGC issued by an insurer (whether issued in that tax year or a previous one) is the appropriate Treasury constant maturity interest rate published by the Board of Governors of the Federal Reserve System for the month containing the last day of the insurer's taxable year. The appropriate rate is that rate published for Treasury securities with the shortest published maturity that is greater than (or equal to) the remaining duration of the current temporary guarantee period under the MGC.
-
-(6) *Current market rate for equity-indexed modified guaranteed contracts.* [Reserved]
-
-(b) *Applicable interest rates for non-equity-indexed modified guaranteed contracts* - (1) *Tax reserves during temporary guarantee period.* An insurance company is required to determine the tax reserves for an MGC under sections 807(c)(3) or (d)(2). During a non-equity-indexed MGC's temporary guarantee period, the applicable interest rate to be used under sections 807(c)(3) and (d)(2)(B) is the current market rate, as defined in paragraph (a)(5) of this section.
-
-(2) *Required interest during temporary guarantee period.* During the temporary guarantee period of a non-equity-indexed MGC, the applicable interest rate to be used to determine required interest under section 812(b)(2)(A) is the same current market rate, defined in paragraph (a)(5) of this section, that applies for that period for purposes of sections 807(c)(3) or (d)(2)(B).
-
-(3) *Application of section 811(d).* An additional reserve computation rule applies under section 811(d) for contracts that guarantee certain interest payments beyond the end of the taxable year. Section 811(d) is waived for non-equity-indexed MGCs.
-
-(4) *Periods after the end of the temporary guarantee period.* For periods after the end of the temporary guarantee period, sections 807(c)(3), 807(d)(2)(B), 811(d) and 812(b)(2)(A) are not modified when applied to non-equity-indexed MGCs. None of these sections are affected by the definition of current market rate contained in paragraph (a)(5) of this section once the temporary guarantee period has expired.
-
-(5) *Examples.* The following examples illustrate this paragraph (b):
-
-Example 1.(i) *IC,* a life insurance company as defined in section 816, issues a MGC (the Contract) on August 1 of 1996. The Contract is an annuity contract that gives rise to life insurance reserves, as defined in section 816(b). *IC* is a calendar year taxpayer. The Contract guarantees that interest will be credited at 8 percent per year for the first 8 contract years and 4 percent per year thereafter. During the 8-year temporary guarantee period, the Contract provides for a market value adjustment based on changes in a published bond index and not on the performance of stocks, other equity instruments or equity based derivatives. IC has chosen to avail itself of the provisions of these regulations for 1996 and taxable years thereafter. The 10-year Treasury constant maturity interest rate published for December of 1996 was 6.30 percent. The next shortest maturity published for Treasury constant maturity interest rates is 7 years. As of the end of 1996, the remaining duration of the temporary guarantee period for the Contract was 7 years and 7 months.
-
-(ii) To determine under section 807(d)(2) the end of 1996 reserves for the Contract, *IC* must use a discount interest rate of 6.30 percent for the temporary guarantee period. The interest rate to be used in computing required interest under section 812(b)(2)(A) for 1996 reserves is also 6.30 percent.
-
-(iii) The discount rate applicable to periods outside the 8-year temporary guarantee period is determined under sections 807(c)(3), 807(d)(2)(B), 811(d) and 812(b)(2)(A) without regard to the current market rate.
-
-Example 2.Assume the same facts as in *Example 1* except that it is now the last day of 1998. The remaining duration of the temporary guarantee period under the Contract is now 5 years and 7 months. The 7-year Treasury constant maturity interest rate published for December of 1998 was 4.65 percent. The next shortest duration published for Treasury constant maturity interest rates is 5 years. A discount rate of 4.65 percent is used for the remaining duration of the temporary guarantee period for the purpose of determining a reserve under section 807(d) and for the purpose of determining required interest under section 812(b)(2)(A).Example 3.Assume the same facts as in *Example 1* except that it is now the last day of 2001. The remaining duration of the temporary guarantee period under the Contract is now 2 years and 7 months. The 3-year Treasury constant maturity interest rate published for December of 2001 was 3.62 percent. The next shortest duration published for Treasury constant maturity interest rates is 2 years. A discount rate of 3.62 percent is used for the remaining duration of the temporary guarantee period for the purpose of determining a reserve under section 807(d) and for the purpose of determining required interest under section 812(b)(2)(A).
-
-(c) *Applicable interest rates for equity-indexed modified guaranteed contracts.* [Reserved]
-
-(d) *Effective date.* Paragraphs (a), (b) and (d) of this section are effective on May 7, 2003. However, pursuant to section 7805(b)(7), taxpayers may elect to apply those paragraphs retroactively for all taxable years beginning after December 31, 1995, the effective date of section 817A.
+(b) *Waiver of section 811(d) for certain non-equity-indexed modified guaranteed contracts.* Section 811(d) is waived during the temporary guarantee period when applied to non-equity-indexed MGCs.
 
 [T.D. 9058, 68 FR 24350, May 7, 2003]

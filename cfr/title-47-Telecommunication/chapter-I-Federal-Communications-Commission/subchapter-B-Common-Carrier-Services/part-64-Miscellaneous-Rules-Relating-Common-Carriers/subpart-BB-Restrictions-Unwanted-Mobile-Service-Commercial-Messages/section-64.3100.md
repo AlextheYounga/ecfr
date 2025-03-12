@@ -42,7 +42,7 @@
 
 (6) *Initiate,* with respect to a commercial electronic mail message, means to originate or transmit such messages or to procure the origination or transmission of such message, but shall not include actions that constitute routine conveyance of such message. For purposes of this paragraph, more than one person may be considered to have initiated a message. “Routine conveyance” means the transmission, routing, relaying, handling, or storing, through an automatic technical process, or an electronic mail message for which another person has identified the recipients or provided the recipient addresses.
 
-(7) *Mobile Service Commercial Message* means a commercial electronic mail message that is transmitted directly to a wireless device that is utilized by a subscriber of a commercial mobile service (as such term is defined in section 332(d) of the Communications Act of 1934 (47 U.S.C. 332(d)) in connection with such service. A commercial message is presumed to be a mobile service commercial message if it is sent or directed to any address containing a reference, whether or not displayed, to an Internet domain listed on the FCC's wireless domain names list. The FCC's wireless domain names list will be available on the FCC's website and at the Commission headquarters, 445 12th St., SW., Washington, DC 20554.
+(7) *Mobile Service Commercial Message* means a commercial electronic mail message that is transmitted directly to a wireless device that is utilized by a subscriber of a commercial mobile service (as such term is defined in section 332(d) of the Communications Act of 1934 (47 U.S.C. 332(d)) in connection with such service. A commercial message is presumed to be a mobile service commercial message if it is sent or directed to any address containing a reference, whether or not displayed, to an Internet domain listed on the FCC's wireless domain names list. The FCC's wireless domain names list will be available on the FCC's website and at the Commission headquarters, located at the address indicated in 47 CFR 0.401(a).
 
 (8) *Transactional or relationship message* means the following and is further defined under 16 CFR 316.3 as any electronic mail message the primary purpose of which is:
 
@@ -92,4 +92,4 @@
 
 (3) Certify that any domain name placed on the FCC's wireless domain names list is used for mobile service messaging.
 
-[69 FR 55779, Sept. 16, 2004, as amended at 70 FR 34666, June 15, 2005]
+[69 FR 55779, Sept. 16, 2004, as amended at 70 FR 34666, June 15, 2005; 85 FR 64407, Oct. 13, 2020]

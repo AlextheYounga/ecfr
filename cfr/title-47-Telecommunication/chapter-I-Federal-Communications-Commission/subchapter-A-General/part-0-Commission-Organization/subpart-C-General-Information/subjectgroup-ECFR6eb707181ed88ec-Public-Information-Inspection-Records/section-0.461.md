@@ -18,11 +18,11 @@ Any person desiring to inspect Commission records that are not specified in § 0
 
 (c) If the records are of the kinds listed in § 0.457 or if they have been withheld from inspection under § 0.459, the request shall, in addition, contain a statement of the reasons for inspection and the facts in support thereof. In the case of other materials, no such statement need accompany the request, but the custodian of the records may require the submission of such a statement if he or she determines that the materials in question may lawfully be withheld from inspection.
 
-(d)(1) Requests shall be
+(d)(1) Requests shall be:
 
-(i) Filed electronically though the Internet at *http://foiaonline.regulations.gov/;* or
+(i) Filed electronically through the internet at *http://foiaonline.regulations.gov/;* or
 
-(ii) Delivered or mailed to the Managing Director, Attn: FOIA Request, FCC, 445 12th Street SW., Room 1-A836, Washington, DC 20554.
+(ii) Delivered or mailed to the Managing Director at the address indicated in § 0.401(a), Attn: FOIA Request.
 
 (2) For purposes of this section, the custodian of the records is the Chief of the Bureau or Office where the records are located. The Chief of the Bureau or Office may designate an appropriate person to act on a FOIA request. The Chief of the Bureau or Office may also designate an appropriate person to sign the response to any FOIA request. *See* § 0.461(m).
 
@@ -86,7 +86,7 @@ Under the ex parte rules, § 1.1206(a)(7) of this chapter, a proceeding involvin
 
 (2) Expedited processing shall be granted to a requester demonstrating a compelling need that is certified by the requester to be true and correct to the best of his or her knowledge and belief. Simply stating that the request should be expedited is not a sufficient basis to obtain expedited processing.
 
-(3) For purposes of this section, *compelling need* means -
+(3) For purposes of this section, *compelling need* means—
 
 (i) That failure to obtain requested records on an expedited basis could reasonably be expected to pose an imminent threat to the life or physical safety of an individual; or
 
@@ -128,4 +128,4 @@ The General Counsel may review applications for review with the custodian of rec
 
 (m) Staff orders and letters ruling on requests for inspection are signed by the official (or officials) who give final approval of their contents. Decisions of the Commission ruling on applications for review will set forth the names of the Commissioners participating in the decision.
 
-[82 FR 4192, Jan. 13, 2017]
+[82 FR 4192, Jan. 13, 2017, as amended at 85 FR 64405, Oct. 13, 2020]

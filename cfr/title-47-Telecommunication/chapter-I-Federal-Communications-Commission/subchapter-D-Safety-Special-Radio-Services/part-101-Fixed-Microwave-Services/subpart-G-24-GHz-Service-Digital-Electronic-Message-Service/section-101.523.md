@@ -8,8 +8,8 @@
 
 (3) American Samoa, and
 
-(4) the Gulf of Mexico. The Gulf of Mexico EA extends from 12 nautical miles off the U.S. Gulf coast outward into the Gulf. *See* 62 FR 9636 (March 3, 1997), in which the Commission created an additional four economic area-like areas for a total of 176 EA service areas. Maps of the EAs and the Federal Register Notice that established the 172 Economic Areas (EAs) are available for public inspection and copying at the FCC Reference Center, Room CY A-257, 445 12th St., SW., Washington, DC 20554. These maps and data are also available on the FCC Web site at *www.fcc.gov/oet/info/maps/areas/.*
+(4) *The Gulf of Mexico.* The Gulf of Mexico EA extends from 12 nautical miles off the U.S. Gulf coast outward into the Gulf. *See* 62 FR 9636 (March 3, 1997), in which the Commission created an additional four economic area-like areas for a total of 176 EA service areas. Maps of the EAs and the Federal Register Notice that established the 172 Economic Areas (EAs) are available for public inspection and copying at the Federal Communications Commission's Reference Information Center, located at the address of the FCC's main office indicated in 47 CFR 0.401(a). These maps and data are also available on the FCC Web site at *www.fcc.gov/oet/info/maps/areas/.*
 
 (b) Where an incumbent SMSA license area in the 24 GHz band occupies only a portion of an EA available for application under the competitive bidding rules, the SMSA portion will be excluded from auction and the incumbent licensee will retain the exclusive right to those channels within the SMSA.
 
-[65 FR 59360, Oct. 5, 2000, as amended at 69 FR 44608, July 27, 2004]
+[65 FR 59360, Oct. 5, 2000, as amended at 69 FR 44608, July 27, 2004; 85 FR 64411, Oct. 13, 2020]

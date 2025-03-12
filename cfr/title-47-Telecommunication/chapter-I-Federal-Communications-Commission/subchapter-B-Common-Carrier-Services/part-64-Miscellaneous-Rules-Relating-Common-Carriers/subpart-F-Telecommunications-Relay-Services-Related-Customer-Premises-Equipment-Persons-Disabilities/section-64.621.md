@@ -1,4 +1,5 @@
-##### § 64.621 Interoperability and portability. #####
+##### § 64.621 Interoperability and portability.
+Link #####
 
 (a) *General obligations of VRS providers.* (1) All Video Relay Service (VRS) users and hearing point-to-point video users must be able to place a VRS or point-to-point video call through any of the VRS providers' services, and all VRS providers must be able to receive calls from, and make calls to, any VRS or hearing point-to-point video user.
 
@@ -8,15 +9,13 @@
 
 (4) All VRS providers must ensure that their VRS access technologies and their video communication service platforms are interoperable with the Neutral Video Communication Service Platform, including for point-to-point calls. No VRS provider shall be compensated for minutes of use involving their VRS access technologies or video communication service platforms that are not interoperable with the Neutral Video Communication Service Platform.
 
-(b) *Technical standards for interoperability and portability.*
-
-(1) Beginning no later than December 20, 2017, VRS providers shall ensure that their provision of VRS and video communications, including their access technology, meets the requirements of the VRS Provider Interoperability Profile.
+(b) *Technical standards for interoperability and portability.* (1) Beginning no later than December 20, 2017, VRS providers shall ensure that their provision of VRS and video communications, including their access technology, meets the requirements of the VRS Provider Interoperability Profile.
 
 (2) Beginning no later than October 24, 2017, VRS providers shall provide a standard xCard export interface to enable users to import their lists of contacts in xCard XML format, in accordance with IETF RFC 6351.
 
-(c) *Incorporation by reference.* The standards required in this section are incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at the Federal Communications Commission (FCC), 445 12th Street, SW., Reference Information Center, Room CY-A257, Washington, DC 20554, (202) 418-0270, and is available from the sources indicated below. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.htm.*
+(c) *Incorporation by reference.* The standards required in this section are incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at the Federal Communications Commission's Reference Information Center, located at the address of the FCC's main office indicated in 47 CFR 0.401(a), Tel: (202) 418-0270, and is available from the sources indicated in this paragraph (c). It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.htm.*
 
-(1) FCC (on behalf of SIP Forum), 445 12th Street SW., Washington, DC 20554, (888) 225-5322 (voice), (844) 432-2275 (videophone), (888) 835-5322 (TTY).
+(1) FCC (on behalf of SIP Forum), located at the address indicated in 47 CFR 0.401(a), Tel: (888) 225-5322 (voice), (844) 432-2275 (videophone), (888) 835-5322 (TTY).
 
 (i) VRS US Providers Profile TWG-6.1, the US VRS Provider Interoperability Profile, September 23, 2015. *https://www.fcc.gov/files/sip-forum-vrs-us-providers-profile-twg-6-1.*
 
@@ -28,4 +27,4 @@
 
 (ii) Request for Comments (RFC) 6351, xCard: vCard XML Representation (August 2011) *https://tools.ietf.org/html/rfc6351.*
 
-[78 FR 40609, July 5, 2013, as amended at 82 FR 17764, Apr. 13, 2017; 82 FR 19325, Apr. 27, 2017; 82 FR 39683, Aug. 22, 2017]
+[78 FR 40609, July 5, 2013, as amended at 82 FR 17764, Apr. 13, 2017; 82 FR 19325, Apr. 27, 2017; 82 FR 39683, Aug. 22, 2017; 85 FR 64407, Oct. 13, 2020]

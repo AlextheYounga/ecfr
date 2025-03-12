@@ -1,7 +1,5 @@
 ##### § 54.410 Subscriber eligibility determination and certification. #####
 
-Link to an amendment published at 84 FR 71329, Dec. 27, 2019.Link to an amendment published at 85 FR 41930, July 13, 2020.
-
 (a) All eligible telecommunications carriers must implement policies and procedures for ensuring that their Lifeline subscribers are eligible to receive Lifeline services. An eligible telecommunications carrier may not provide a consumer with an activated device that it represents enables use of Lifeline-supported service, nor may it activate service that it represents to be Lifeline service, unless and until it has:
 
 (1) Confirmed that the consumer is a qualifying low-income consumer pursuant to § 54.409, and;
@@ -100,7 +98,7 @@ Link to an amendment published at 84 FR 71329, Dec. 27, 2019.Link to an amendmen
 
 (f) *Annual eligibility re-certification process.*
 
-(1) All eligible telecommunications carriers must re-certify all subscribers 12 months after the subscriber's service initiation date and every 12 months thereafter, except for subscribers in states where the National Verifier, state Lifeline administrator, or other state agency is responsible for the annual re-certification of subscribers' Lifeline eligibility.
+(1) All eligible telecommunications carriers must annually re-certify all subscribers, except for subscribers in states where the National Verifier, state Lifeline administrator, or other state agency is responsible for the annual re-certification of subscribers' Lifeline eligibility.
 
 (2) In order to re-certify a subscriber's eligibility, an eligible telecommunications carrier must confirm a subscriber's current eligibility to receive Lifeline by:
 
@@ -108,7 +106,7 @@ Link to an amendment published at 84 FR 71329, Dec. 27, 2019.Link to an amendmen
 
 (ii) Querying the appropriate income databases, confirming that the subscriber continues to meet the income-based eligibility requirements for Lifeline, and documenting the results of that review.
 
-(iii) If the subscriber's program-based or income-based eligibility for Lifeline cannot be determined by accessing one or more state databases containing information regarding enrollment in qualifying assistance programs, then the eligible telecommunications carrier may obtain a signed certification from the subscriber on a form that meets the certification requirements in paragraph (d) of this section. If a Federal eligibility recertification form is available, entities enrolling subscribers must use such form to re-certify a qualifying low-income consumer.
+(iii) If the subscriber's program-based or income-based eligibility for Lifeline cannot be determined by accessing one or more eligibility databases, then the eligible telecommunications carrier must obtain a signed certification from the subscriber confirming the subscriber's continued eligibility. If the subscriber's eligibility was previously confirmed through an eligibility database during enrollment or a prior recertification and the subscriber is no longer included in any eligibility database, the eligible telecommunications carrier must obtain both an Annual Recertification Form and documentation meeting the requirements of paragraph (b)(1)(i)(B) or (c)(1)(i)(B) from that subscriber to complete the process. Eligible telecommunications carriers must use the Wireline Competition Bureau-approved universal Annual Recertification Form, except where state law, state regulation, a state Lifeline administrator, or a state agency requires eligible telecommunications carriers to use state-specific Lifeline recertification forms.
 
 (iv) In states in which the National Verifier has been implemented, the eligible telecommunications carrier cannot re-certify subscribers not found in the National Verifier by obtaining a certification form from the subscriber.
 
@@ -118,7 +116,7 @@ Link to an amendment published at 84 FR 71329, Dec. 27, 2019.Link to an amendmen
 
 (ii) Querying the appropriate income databases, confirming that the subscriber continues to meet the income-based eligibility requirements for Lifeline, and documenting the results of that review.
 
-(iii) If the subscriber's eligibility for Lifeline cannot be determined by accessing one or more databases containing information regarding enrollment in qualifying assistance programs, then the National Verifier, state Lifeline administrator, or state agency may obtain a signed certification from the subscriber on a form that meets the certification requirements in paragraph (d) of this section. If a Federal eligibility recertification form is available, entities enrolling subscribers must use such form to recertify a qualifying low-income consumer.
+(iii) If the subscriber's program-based or income-based eligibility for Lifeline cannot be determined by accessing one or more eligibility databases, then the National Verifier, state Lifeline administrator, or state agency must obtain a signed certification from the subscriber confirming the subscriber's continued eligibility. If the subscriber's eligibility was previously confirmed through an eligibility database during enrollment or a prior recertification and the subscriber is no longer included in any eligibility database, the National Verifier, state Lifeline administrator, or state agency must obtain both an approved Annual Recertification Form and documentation meeting the requirements of paragraph (b)(1)(i)(B) or (c)(1)(i)(B) from that subscriber to complete the certification process. Entities responsible for re-certification under this section must use the Wireline Competition Bureau-approved universal Annual Recertification Form, except where state law, state regulation, a state Lifeline administrator, or a state agency requires eligible telecommunications carriers to use state-specific Lifeline recertification forms, or where the National Verifier Recertification Form is required.
 
 (4) Where the National Verifier, state Lifeline administrator, or other state agency is responsible for re-certification of subscribers' Lifeline eligibility, the National Verifier, state Lifeline administrator, or other state agency must provide to each eligible telecommunications carrier the results of its annual re-certification efforts with respect to that eligible telecommunications carrier's subscribers.
 

@@ -32,10 +32,10 @@
 
 (3) Manual filings requiring fees as set forth at subpart G, of this part must be filed in accordance with § 0.401(b) of this chapter.
 
-(4) Manual filings that do not require fees must be addressed and sent to the Media Bureau, Federal Communications Commission, 445 12th Street, SW., Washington, DC 20554.
+(4) Manual filings that do not require fees must be addressed and sent to the Media Bureau at the FCC's main office, located at the address indicated in 47 CFR 0.401(a).
 
 (5) FCC forms may be reproduced and the copies used in accordance with the provisions of § 0.409 of this chapter.
 
 (d) *Applications requiring prior coordination.* Parties filing applications that require frequency coordination shall, prior to filing, complete all applicable frequency coordination requirements in § 78.36 of this chapter.
 
-[68 FR 27001, May 19, 2003, as amended at 83 FR 61335, Nov. 29, 2018]
+[68 FR 27001, May 19, 2003, as amended at 83 FR 61335, Nov. 29, 2018; 85 FR 64405, Oct. 13, 2020]

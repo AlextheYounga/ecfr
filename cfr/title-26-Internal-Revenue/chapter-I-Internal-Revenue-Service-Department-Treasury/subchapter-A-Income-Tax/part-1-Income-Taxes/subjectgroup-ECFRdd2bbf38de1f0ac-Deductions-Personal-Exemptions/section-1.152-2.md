@@ -8,7 +8,9 @@
 
 (iii) For purposes of section 152(b)(3)(B) and this subparagraph, any child whose legal adoption by the taxpayer (a citizen or national of the United States) becomes final at any time before the end of the taxable year of the taxpayer shall not be disqualified as a dependent of such taxpayer by reason of his citizenship, nationality, or residence, provided the child lived with the taxpayer and was a member of the taxpayer's household for the entire taxable year in which the legal adoption became final. For example, A, a citizen of the United States who makes his income tax returns on the basis of the calendar year, is employed in Brazil by an agency of the United States Government. In October 1958 he takes into his household C, a resident of Brazil who is not a citizen of the United States, for the purpose of initiating adoption proceedings. C lives with A and is a member of his household for the remainder of 1958 and for the entire calendar year 1959. On July 1, 1959, the adoption proceedings were completed and C became the legally adopted child of A. If C otherwise qualifies as a dependent, he may be claimed as a dependent by A for 1959.
 
-(b) A payment to a wife which is includible in her gross income under section 71 or section 682 shall not be considered a payment by her husband for the support of any dependent.
+(b)(1) A payment to a spouse (payee spouse) of alimony or separate maintenance is not treated as a payment by the payor spouse for the support of any dependent. Similarly, the distribution of income of an estate or trust to a divorced or legally separated payee spouse is not treated as a payment by the payor spouse for the support of any dependent. The preceding sentence will not apply, however, to the extent that such a distribution is in satisfaction of the amount or portion of income that, by the terms of a divorce decree, a written separation agreement, or the trust instrument is fixed as payable for the support of the minor children of the payor spouse.
+
+(2) Paragraph (b)(1) of this section applies to taxable years beginning on or after October 13, 2020.
 
 (c)(1) For purposes of determining the existence of any of the relationships specified in section 152 (a) or (b)(1), a legally adopted child of an individual shall be treated as a child of such individual by blood.
 
@@ -22,4 +24,8 @@ Example.On March 1, 1959, D, a resident of the United States, made formal applic
 
 (d) In the case of a joint return it is not necessary that the prescribed relationship exist between the person claimed as a dependent and the spouse who furnishes the support; it is sufficient if the prescribed relationship exists with respect to either spouse. Thus, a husband and wife making a joint return may claim as a dependent a daughter of the wife's brother (wife's niece) even though the husband is the one who furnishes the chief support. The relationship of affinity once existing will not terminate by divorce or the death of a spouse. For example, a widower may continue to claim his deceased wife's father (his father-in-law) as a dependent provided he meets the other requirements of section 151.
 
-[T.D. 6500, 25 FR 11402, Nov. 26, 1960, as amended by T.D. 6603, 28 FR 7094, July 11, 1963; T.D. 7051, 35 FR 11020, July 9, 1970; T.D. 7291, 38 FR 33396, Dec. 4, 1973]
+(e)(1) In defining a qualifying relative for taxable year 2018, the exemption amount in section 152(d)(1)(B) is $4,150. For taxable years 2019 through 2025, the exemption amount, as adjusted for inflation, is set forth in annual guidance published in the Internal Revenue Bulletin. *See* § 601.601(d)(2) of this chapter.
+
+(2) Paragraph (e)(1) of this section applies to taxable years ending after August 28, 2018.
+
+[T.D. 6500, 25 FR 11402, Nov. 26, 1960, as amended by T.D. 6603, 28 FR 7094, July 11, 1963; T.D. 7051, 35 FR 11020, July 9, 1970; T.D. 7291, 38 FR 33396, Dec. 4, 1973; T.D. 9913, 85 FR 64386, Oct. 13, 2020]

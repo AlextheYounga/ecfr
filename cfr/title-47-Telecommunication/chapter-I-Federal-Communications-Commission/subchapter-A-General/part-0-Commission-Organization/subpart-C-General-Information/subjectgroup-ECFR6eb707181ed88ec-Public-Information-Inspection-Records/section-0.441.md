@@ -8,9 +8,9 @@
 
 (3) TDD/TDY at 1-888-TELL-FCC (1-888-835-5322).
 
-(4) Correspondence to: Consumer and Governmental Affairs Bureau, 445 12th Street SW., Washington, DC 20554.
+(4) Correspondence to: Consumer and Governmental Affairs Bureau at the FCC's main office, located at the address indicated in § 0.401(a).
 
-(5) Visiting the Reference Information Center of the Consumer and Governmental Affairs Bureau at Room CY-A257 of the Commission's main office at 445 12th Street SW., Washington, DC 20554.
+(5) Visiting the Reference Information Center of the Consumer and Governmental Affairs Bureau, located at the address indicated in § 0.401(a).
 
 (b) The Commission's FOIA Public Liaison is available to assist any person requesting information from the Commission in resolving any concerns related to a Freedom of Information Act request. Requesters may contact the FOIA Public Liaison to seek assistance on resolving disputes related to FOIA requests. See *http://www.fcc.gov/foia/.*
 
@@ -18,4 +18,4 @@
 
 (d) The General Counsel shall, subject to the authority of the Chairman, exercise the responsibilities of the Chief FOIA Officer specified in 5 U.S.C. 552(j).
 
-[82 FR 4188, Jan. 13, 2017]
+[82 FR 4188, Jan. 13, 2017, as amended at 85 FR 64404, Oct. 13, 2020]

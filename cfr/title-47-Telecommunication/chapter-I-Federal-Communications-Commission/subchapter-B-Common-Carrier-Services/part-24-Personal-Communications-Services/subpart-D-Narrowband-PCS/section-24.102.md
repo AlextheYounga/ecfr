@@ -1,6 +1,6 @@
 ##### § 24.102 Service areas. #####
 
-Narrowband PCS service areas are nationwide, regional, and Major Trading Areas (MTAs), as defined in this section. MTAs are based on the Rand McNally 1992 Commercial Atlas & Marketing Guide, 123rd Edition, at pages 38-39 (MTA Map). Rand McNally organizes the 50 States and the District of Columbia into 47 MTAs. The MTA Map is available for public inspection in the FCC's Library, Room TW-B505, 445 12th Street SW, Washington, D.C.
+Narrowband PCS service areas are nationwide, regional, and Major Trading Areas (MTAs), as defined in this section. MTAs are based on the Rand McNally 1992 Commercial Atlas & Marketing Guide, 123rd Edition, at pages 38-39 (MTA Map). Rand McNally organizes the 50 States and the District of Columbia into 47 MTAs. The MTA Map is available on the FCC's website at *www.fcc.gov/auctions* through the “Maps” submenu.
 
 (a) The nationwide service area consists of the fifty states, the District of Columbia, American Samoa, Guam, Northern Mariana Islands, Puerto Rico, and United States Virgin Islands.
 
@@ -26,4 +26,4 @@ Narrowband PCS service areas are nationwide, regional, and Major Trading Areas (
 
 (4) American Samoa is licensed as a single MTA-like area.
 
-[59 FR 14118, Mar. 25, 1994, as amended at 59 FR 46199, Sept. 7, 1994; 65 FR 35852, June 6, 2000]
+[59 FR 14118, Mar. 25, 1994, as amended at 59 FR 46199, Sept. 7, 1994; 65 FR 35852, June 6, 2000; 85 FR 64407, Oct. 13, 2020]
