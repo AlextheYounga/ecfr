@@ -36,4 +36,4 @@
 
 (e) *Dog must maintain ability to function as a service dog.* To continue to receive benefits under this section, the service dog must maintain its ability to function as a service dog. If at any time VA learns from any source that the dog is medically unable to maintain that role, or VA makes a clinical determination that the veteran no longer requires the dog, VA will provide at least 30 days notice to the veteran before benefits will no longer be authorized.
 
-(Authority: 38 U.S.C. 501, 1714)(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0785.)[77 FR 54381, Sept. 5, 2012]
+(Authority: 38 U.S.C. 501, 1714)(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0785)[77 FR 54381, Sept. 5, 2012]

@@ -1,7 +1,5 @@
 ##### § 110.197 Galveston Harbor, Bolivar Roads Channel, Texas. #####
 
-Link to an amendment published at 83 FR 18414, Apr. 27, 2018.
-
 (a)(1) Anchorage area (A). The water bounded by a line connecting the following points:
 
 |  Latitude   | Longtitude  |
@@ -35,6 +33,17 @@ and thence to the point of beginning.
 
 and thence to the point of beginning.
 
+(4) *Anchorage Area (A) East.* The waters bounded by a line connecting the following points:
+
+|   Latitude   |   Longitude   |
+|--------------|---------------|
+|29°21′5.87″ N |094°42′52.7″ W |
+|29°20′53.99″ N|094°42′7.13″ W |
+|29°20′45.31″ N|094°42′37.75″ W|
+|29°20′39.16″ N|094°42′7.81″ W |
+
+and thence to the point of beginning. The coordinates are based on NAD 83.
+
 (b) *The regulations.* (1) The anchorage area is for the temporary use of vessels of all types, but especially for vessels awaiting weather and other conditions favorable to the resumption of their voyages.
 
 (2) Except when stress of weather makes sailing impractical or hazardous, vessels shall not anchor in anchorage areas (A) or (C) for more than 48 hours unless expressly authorized by the Captain of the Port Houston-Galveston. Permission to anchor for longer periods may be obtained through Coast Guard Vessel Traffic Service Houston/Galveston on VHF-FM channels 12 (156.60 MHz) or 13 (156.65 MHz).
@@ -53,4 +62,4 @@ and thence to the point of beginning.
 
 (9) Whenever the maritime or commercial interests of the United States so require, the Captain of the Port, or his authorized representative, may direct the movement of any vessel anchored or moored within the anchorage areas.
 
-[CCGD8-85-21, 55 FR 11369, Mar. 28, 1990, as amended by CGD08-02-018, 68 FR 25497, May 13, 2003]
+[CCGD8-85-21, 55 FR 11369, Mar. 28, 1990, as amended by CGD08-02-018, 68 FR 25497, May 13, 2003; USCG-2015-0549, 83 FR 18414, Apr. 27, 2018]
