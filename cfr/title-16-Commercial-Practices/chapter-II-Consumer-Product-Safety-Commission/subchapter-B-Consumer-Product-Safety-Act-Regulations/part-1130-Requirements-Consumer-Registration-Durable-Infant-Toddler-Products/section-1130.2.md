@@ -1,10 +1,8 @@
 ##### § 1130.2 Definitions. #####
 
-Link to an amendment published at 84 FR 49950, Sept. 24, 2019.
-
 In addition to the definitions given in section 3 of the Consumer Product Safety Act (15 U.S.C. 2052), the following definitions apply:
 
-(a) *Durable infant or toddler product* means the following products, including combinations thereof:
+(a) *Definition of durable infant or toddler product* means the following products intended for use, or that may be reasonably expected to be used, by children under the age of 5 years. The listed product categories are further defined in the applicable standards that the Commission issues under section 104(b) of the Consumer Product Safety Improvement Act of 2008, and include products that are combinations of the following product categories:
 
 (1) Full-size cribs and non-full-size cribs;
 
@@ -20,27 +18,25 @@ In addition to the definitions given in section 3 of the Consumer Product Safety
 
 (7) Stationary activity centers;
 
-(8) Infant carriers;
+(8) Infant carrier, including soft infant and toddler carriers, hand-held infant carriers, sling carriers, and frame child carriers;
 
 (9) Strollers;
 
 (10) Walkers;
 
-(11) Swings; and
+(11) Swings;
 
-(12) Bassinets and cradles;
+(12) Bassinets and cradles, including bedside sleepers;
 
 (13) Children's folding chairs and stools;
 
-(14) Changing tables;
+(14) Baby changing products;
 
 (15) Infant bouncers;
 
 (16) Infant bathtubs;
 
-(17) Bed rails;
-
-(18) Infant slings.
+(17) Bed rails.
 
 (b) *Manufacturer,* for purposes of this part, in the case of a product produced within the United States, means the domestic manufacturer of the product, and in the case of an imported product, means the importer of the product.
 
@@ -48,4 +44,4 @@ In addition to the definitions given in section 3 of the Consumer Product Safety
 
 (d) *Safety alert* means notice or warning of a potential problem with an individual product or class of products so that consumers and other users of the affected products respond accordingly to reduce or eliminate the potential for injury.
 
-[74 FR 68676, Dec. 29, 2009, as amended at 82 FR 59511, Dec. 15, 2017]
+[74 FR 68676, Dec. 29, 2009, as amended at 82 FR 59511, Dec. 15, 2017; 84 FR 49950, Sept. 24, 2019]

@@ -1,5 +1,7 @@
 ##### § 325.1 Authority, purpose, and reservation of authority. #####
 
+Link to an amendment published at 84 FR 56933, Oct. 24, 2019.
+
 (a) *Authority.* This subpart is issued by the Federal Deposit Insurance Corporation (the “Corporation” or “FDIC”) under 12 U.S.C. 5365(i)(2), 12 U.S.C. 5412(b)(2)(B), 12 U.S.C. 1818, 12 U.S.C. 1819(a)(Tenth), 12 U.S.C. 1831o, and 12 U.S.C. 1831p-1.
 
 (b) *Purpose.* This subpart implements 12 U.S.C. 5365(i)(2), which requires the Corporation (in coordination with the Board of Governors of the Federal Reserve System (“Board”) and the Federal Insurance Office) to issue regulations that require each covered bank to conduct annual stress tests and establishes a definition of stress test, methodologies for conducting stress tests, and reporting and disclosure requirements.

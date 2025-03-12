@@ -1,4 +1,4 @@
-##### § 242. 610T Equity transaction fee pilot. #####
+##### § 242.610T Equity transaction fee pilot. #####
 
 (a) *Pilot pricing restrictions.* Notwithstanding § 242.610(c), on a pilot basis for the period specified in paragraph (c) of this section, in connection with a transaction in an NMS stock, a national securities exchange shall not:
 
@@ -8,7 +8,7 @@
 
 (3) For the *Control Group,* impose, or permit to be imposed, any fee or fees in contravention of the limits specified in § 242.610(c).
 
-(b) *Pilot securities* - (1) *Initial List of Pilot Securities.* (i) The Commission shall designate by notice the initial List of Pilot Securities, and shall assign each Pilot Security to one Test Group or the Control Group. Further, the Commission may designate by notice the assignment of NMS stocks that are interlisted on a Canadian securities exchange to Test Group 2 or the Control Group.
+(b) *Pilot securities*—(1) *Initial List of Pilot Securities.* (i) The Commission shall designate by notice the initial List of Pilot Securities, and shall assign each Pilot Security to one Test Group or the Control Group. Further, the Commission may designate by notice the assignment of NMS stocks that are interlisted on a Canadian securities exchange to Test Group 2 or the Control Group.
 
 (ii) For purposes of this section, “Pilot Securities” means the NMS stocks designated by the Commission on the initial List of Pilot Securities pursuant to paragraph (b)(1)(i) of this section and any successors to such NMS stocks. At the time of selection by the Commission, an NMS stock must have a minimum share price of $2 to be included in the Pilot and must have an unlimited duration or a duration beyond the end of the post-Pilot Period. In addition, an NMS stock must have an average daily volume of 30,000 shares or more to be included in the Pilot. If the share price of a Pilot Security in one of the Test Groups or the Control Group closes below $1 at the end of a trading day, it shall be removed from the Pilot.
 

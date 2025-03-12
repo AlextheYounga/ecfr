@@ -1,5 +1,7 @@
 ##### § 2.1c Policy statement on consultation with Indian tribes in Commission proceedings. #####
 
+Link to an amendment published at 84 FR 56941, Oct. 24, 2019.
+
 (a) The Commission recognizes the unique relationship between the United States and Indian tribes as defined by treaties, statutes, and judicial decisions. Indian tribes have various sovereign authorities, including the power to make and enforce laws, administer justice, and manage and control their lands and resources. Through several Executive Orders and a Presidential Memorandum, departments and agencies of the Executive Branch have been urged to consult with federally-recognized Indian tribes in a manner that recognizes the government-to-government relationship between these agencies and tribes. In essence, this means that consultation should involve direct contact between agencies and tribes and should recognize the status of the tribes as governmental sovereigns.
 
 (b) The Commission acknowledges that, as an independent agency of the federal government, it has a trust responsibility to Indian tribes and this historic relationship requires it to adhere to certain fiduciary standards in its dealings with Indian tribes.

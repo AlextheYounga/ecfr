@@ -1,7 +1,5 @@
 ##### § 686.310 How are entities selected to receive funding to operate centers? #####
 
-Link to an amendment published at 84 FR 45406, Aug. 29, 2019.
-
 (a) The Secretary selects eligible entities to operate contract centers on a competitive basis in accordance with applicable statutes and regulations. In selecting an entity, ETA issues requests for proposals (RFPs) for the operation of all contract centers according to the Federal Acquisition Regulation (48 CFR chapter 1) and Department of Labor Acquisition Regulation (48 CFR chapter 29). ETA develops RFPs for center operators in consultation with the Governor, the center workforce council (if established), and the Local WDB for the workforce development area in which the center is located.
 
 (b) The RFP for each contract center describes uniform specifications and standards, as well as specifications and requirements that are unique to the operation of the specific center.

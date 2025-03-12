@@ -1,5 +1,7 @@
 ##### § 325.3 Applicability. #####
 
+Link to an amendment published at 84 FR 56933, Oct. 24, 2019.
+
 (a) *First stress test for covered banks subject to stress testing requirements as of October 15, 2012.* (1) A $10 billion to $50 billion covered bank as of October 15, 2012 must conduct its first stress test under this subpart using financial statement data as of September 30, 2013, and report the results of its stress test on or before March 31, 2014.
 
 (2) A $10 billion to $50 billion covered bank that is subject to its first annual stress test pursuant to section 203(a)(1) of this subpart must make its initial public disclosure in the period starting June 15 and ending June 30 of 2015, by disclosing the results of a stress test conducted in 2014, using financial statement data as of September 30, 2014.

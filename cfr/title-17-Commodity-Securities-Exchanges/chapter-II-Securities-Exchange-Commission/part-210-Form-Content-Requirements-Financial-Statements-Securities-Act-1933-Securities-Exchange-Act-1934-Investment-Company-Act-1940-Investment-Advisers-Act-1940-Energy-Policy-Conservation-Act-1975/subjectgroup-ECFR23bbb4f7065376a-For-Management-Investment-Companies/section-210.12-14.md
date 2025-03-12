@@ -1,5 +1,7 @@
 ##### § 210.12-14 Investments in and advances to affiliates. #####
 
+Link to an amendment published at 84 FR 57234, Oct. 24, 2019.
+
 [For management investment companies only]
 
 |                                  Col. A                                   |                                              Col. B                                              |                        Col. C                        |                                             Col. D                                             |                                          Col. E                                          |                          Col. F                          |

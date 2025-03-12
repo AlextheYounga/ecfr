@@ -1,5 +1,7 @@
 ##### § 325.4 Annual stress tests required. #####
 
+Link to an amendment published at 84 FR 56934, Oct. 24, 2019.
+
 (a) *General requirements* - (1) *$10 billion to $50 billion covered bank.* Prior to January 1, 2016, a $10 billion to $50 billion covered bank must conduct a stress test on or before March 31 of each calendar year based on financial data as of September 30 of the preceding calendar year. Beginning January 1, 2016, a $10 billion to $50 billion covered bank must conduct a stress test on or before July 31 of each calendar year based on financial data as of December 31 of the preceding calendar year.
 
 (2) *Over $50 billion covered bank.* Prior to January 1, 2016, an over $50 billion covered bank must conduct a stress test on or before January 5 of each calendar year based on financial data as of September 30 of the preceding calendar year. Beginning January 1, 2016, an over $50 billion covered bank must conduct a stress test on or before April 5 of each calendar year based on financial data as of December 31 of the preceding calendar year.

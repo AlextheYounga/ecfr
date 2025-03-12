@@ -1,5 +1,7 @@
 ##### § 325.2 Definitions. #####
 
+Link to an amendment published at 84 FR 56933, Oct. 24, 2019.
+
 *For purposes of this subpart* -
 
 (a) *Adverse scenario* means a set of conditions that affect the U.S. economy or the financial condition of a covered bank that are more adverse than those associated with the baseline scenario and may include trading or other additional components.
