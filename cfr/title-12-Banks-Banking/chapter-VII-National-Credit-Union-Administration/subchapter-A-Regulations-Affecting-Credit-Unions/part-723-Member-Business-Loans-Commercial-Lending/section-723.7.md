@@ -17,5 +17,3 @@
 (2) The third party may provide the requisite experience to a federally insured credit union and purchase a loan or a participation interest in a loan originated by the federally insured credit union that the third party reviewed.
 
 (3) A federally insured credit union may use the services of a credit union service organization that otherwise meets the requirements of § 723.3(b)(3) of this part even if the credit union service organization is not independent from the transaction, provided the federally insured credit union has a controlling financial interest in the credit union service organization as determined under GAAP.
-
-Editorial Note:At 80 FR 66723, Oct. 29, 2015, § 723.7 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
