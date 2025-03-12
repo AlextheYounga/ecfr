@@ -1,5 +1,7 @@
 ##### § 111.36 Relations with unlicensed persons. #####
 
+Link to an amendment published at 87 FR 63318, Oct. 18, 2022.
+
 (a) *Employment by unlicensed person other than importer.* When a broker is employed for the transaction of customs business by an unlicensed person who is not the actual importer, the broker must transmit to the actual importer either a copy of his bill for services rendered or a copy of the entry, unless the merchandise was purchased on a delivered duty-paid basis or unless the importer has in writing waived transmittal of the copy of the entry or bill for services rendered.
 
 (b) *Service to others not to benefit unlicensed person.* Except as otherwise provided in paragraph (c) of this section, a broker must not enter into any agreement with an unlicensed person to transact customs business for others in such manner that the fees or other benefits resulting from the services rendered for others inure to the benefit of the unlicensed person.

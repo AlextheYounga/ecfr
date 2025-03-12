@@ -1,5 +1,7 @@
 ##### 813.003-70 Policy. #####
 
+Link to an amendment published at 87 FR 63005, Oct. 18, 2022.
+
 (a) The Veterans First Contracting Program in subpart 819.70 applies to VA contracts, orders and BPAs under this part and has precedence over other small business programs referenced in FAR parts 13 and 19.
 
 (b) Notwithstanding FAR 13.003(b)(2), the contracting officer shall make an award utilizing the priorities for veteran-owned small businesses as implemented within the VA hierarchy of small business program preferences, the Veterans First Contracting Program in subpart 819.70. Specifically, the contracting officer shall consider preferences for verified service-disabled veteran-owned small businesses (SDVOSBs) first, then preferences for verified veteran-owned small businesses (VOSBs). These priorities will be followed by preferences for other small businesses in accordance with FAR 19.203, and 819.7004.

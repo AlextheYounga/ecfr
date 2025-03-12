@@ -1,0 +1,5 @@
+##### § 129.102 What small business goaling credit do agencies receive for awarding an emergency response contract to a small business concern under this part? #####
+
+If an agency awards an emergency response contract to a local small business concern through the use of a local area set-aside that is also set aside under a small business or socioeconomic set-aside (8(a), HUBZone, SDVO, WOSB, EDWOSB), the value of the contract shall be doubled for purposes of determining compliance with the goals for procurement contracts under section 15(g)(1)(A) of the Small Business Act (15 U.S.C. 644(g)(1)(A)). The procuring agency shall enter the actual contract value, not the doubled contract value in the required contract reporting systems, and appropriately code the contract action to receive the credit. SBA will provide the double credit as part of the Scorecard process.
+
+[84 FR 65665, Nov. 29, 2019. Redesignated at 85 FR 69125, Nov. 2, 2020]

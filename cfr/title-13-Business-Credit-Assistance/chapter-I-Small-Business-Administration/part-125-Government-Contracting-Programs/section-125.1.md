@@ -1,7 +1,5 @@
 ##### § 125.1 What definitions are important to SBA's Government Contracting Programs? #####
 
-Link to an amendment published at 87 FR 50927, Aug. 19, 2022.
-
 *Chief Acquisition Officer* means the employee of a Federal agency designated as such pursuant to section 16(a) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(a)).
 
 *Commercial off-the-shelf item* has the same definition as set forth in 41 U.S.C. 101 (as renumbered) and Federal Acquisition Regulation (FAR) 2.101 (48 U.S.C. 2.101).
@@ -21,6 +19,16 @@ Link to an amendment published at 87 FR 50927, Aug. 19, 2022.
 (4) Any combination of the factors described in paragraphs (e)(1), (2), and (3) of this section.
 
 *Cost of materials* means costs of the items purchased, handling and associated shipping costs for the purchased items (which includes raw materials), commercial off-the-shelf items (and similar common supply items or commercial items that require additional manufacturing, modification or integration to become end items), special tooling, special testing equipment, and construction equipment purchased for and required to perform on the contract. In the case of a supply contract, cost of materials includes the acquisition of services or products from outside sources following normal commercial practices within the industry.
+
+*Covered territory business* means a small business concern that has its principal office located in one of the following:
+
+(1) The United States Virgin Islands;
+
+(2) American Samoa;
+
+(3) Guam; or
+
+(4) The Commonwealth of the Northern Mariana Islands.
 
 *General Services Administration (GSA) Schedule Contract* means a Multiple Award Contract issued by GSA and includes the Federal Supply Schedules and other Multiple Award Schedules.
 
@@ -70,4 +78,4 @@ Link to an amendment published at 87 FR 50927, Aug. 19, 2022.
 
 (3) $2.5 million or more for all other agencies.
 
-[78 FR 61134, Oct. 2, 2013, as amended at 81 FR 34261, May 31, 2016; 84 FR 65239, Nov. 26, 2019]
+[78 FR 61134, Oct. 2, 2013, as amended at 81 FR 34261, May 31, 2016; 84 FR 65239, Nov. 26, 2019; 87 FR 50927, Aug. 19, 2022]

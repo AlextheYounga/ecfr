@@ -1,5 +1,7 @@
 ##### 852.219-72 Evaluation factor for participation in the VA mentor-protégé program. #####
 
+Link to an amendment published at 87 FR 63011, Oct. 18, 2022.
+
 As prescribed in 819.7115(b), insert the following clause:
 
 Evaluation Factor for Participation in the VA Mentor-Protégé Program (DEC 2009)

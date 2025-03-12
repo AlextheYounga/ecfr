@@ -1,5 +1,7 @@
 ##### § 518.7 What process will the Commission use to review and certify petitions? #####
 
+Link to an amendment published at 87 FR 62986, Oct. 18, 2022.
+
 (a) Petitions for self-regulation shall be submitted by tribes to the Office of Self-Regulation.
 
 (1) Within 30 days of receipt of a tribe's petition, the Office of Self-Regulation shall conduct a review of the tribe's petition to determine whether it is complete under § 518.4.

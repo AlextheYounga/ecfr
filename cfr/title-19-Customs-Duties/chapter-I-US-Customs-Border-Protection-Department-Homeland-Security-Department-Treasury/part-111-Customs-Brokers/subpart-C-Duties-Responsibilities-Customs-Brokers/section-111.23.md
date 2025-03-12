@@ -1,5 +1,7 @@
 ##### § 111.23 Retention of records. #####
 
+Link to an amendment published at 87 FR 63316, Oct. 18, 2022.
+
 (a) *Place of retention.* A licensed customs broker may retain records relating to its customs transactions at any location within the customs territory of the United States in accordance with the provisions of this part and part 163 of this chapter. Upon request by CBP to examine records, the designated recordkeeping contact identified in the broker's applicable permit application, in accordance with § 111.19(b)(6) of this chapter, must make all records available to CBP within 30 calendar days, or such longer time as specified by CBP, at the broker district that covers the CBP port to which the records relate.
 
 (b) *Period of retention.* The records described in this section, other than powers of attorney, must be retained for at least 5 years after the date of entry. Powers of attorney must be retained until revoked, and revoked powers of attorney and letters of revocation must be retained for 5 years after the date of revocation or for 5 years after the date the client ceases to be an “active client” as defined in § 111.29(b)(2)(ii), whichever period is later. When merchandise is withdrawn from a bonded warehouse, records relating to the withdrawal must be retained for 5 years from the date of withdrawal of the last merchandise withdrawn under the entry.

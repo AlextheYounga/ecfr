@@ -1,5 +1,7 @@
 ##### § 111.16 Denial of license. #####
 
+Link to an amendment published at 87 FR 63314, Oct. 18, 2022.
+
 (a) *Notice of denial.* If the Assistant Commissioner determines that the application for a license should be denied for any reason, notice of denial will be given by him to the applicant and to the director of the port at which the application was filed. The notice of denial will state the reasons why the license was not issued.
 
 (b) *Grounds for denial.* The grounds sufficient to justify denial of an application for a license include, but need not be limited to:

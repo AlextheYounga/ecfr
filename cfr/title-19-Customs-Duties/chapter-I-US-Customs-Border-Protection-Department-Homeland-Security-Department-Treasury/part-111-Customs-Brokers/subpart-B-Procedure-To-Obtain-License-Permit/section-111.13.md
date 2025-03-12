@@ -1,5 +1,7 @@
 ##### § 111.13 Examination for individual license. #####
 
+Link to an amendment published at 87 FR 63314, Oct. 18, 2022.
+
 (a) *Scope of examination.* The examination for an individual broker's license will be designed to determine the individual's knowledge of customs and related laws, regulations and procedures, bookkeeping, accounting, and all other appropriate matters necessary to render valuable service to importers and exporters. The examination will be prepared by Customs and Border Protection (CBP).
 
 (b) *Basic requirements, date, and place of examination.* In order to be eligible to take the examination, an individual must on the date of examination be a citizen of the United States who has attained the age of 18 years and who is not an officer or employee of the United States Government. CBP will publish a notice announcing each examination on its Web site. Examinations will be given on the fourth Wednesday in April and October unless the regularly scheduled examination date conflicts with a national holiday, religious observance, or other foreseeable event and the agency publishes in the Federal Register an appropriate notice of a change in the examination date. An individual who intends to take the examination must complete the electronic application at least 30 calendar days prior to the scheduled examination date and must remit the $390 examination fee prescribed in § 111.96(a) at that time. CBP will give notice of the exact time and place for the examination.

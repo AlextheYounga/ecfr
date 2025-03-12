@@ -1,3 +1,5 @@
 ##### § 111.32 False information. #####
 
+Link to an amendment published at 87 FR 63318, Oct. 18, 2022.
+
 A broker must not file or procure or assist in the filing of any claim, or of any document, affidavit, or other papers, known by such broker to be false. In addition, a broker must not knowingly give, or solicit or procure the giving of, any false or misleading information or testimony in any matter pending before the Department of Homeland Security or any representative of the Department of Homeland Security.

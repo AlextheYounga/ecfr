@@ -1,5 +1,7 @@
 ##### § 111.53 Grounds for suspension or revocation of license or permit. #####
 
+Link to an amendment published at 87 FR 63319, Oct. 18, 2022.
+
 The appropriate Customs officer may initiate proceedings for the suspension, for a specific period of time, or revocation of the license or permit of any broker for any of the following reasons:
 
 (a) The broker has made or caused to be made in any application for any license or permit under this part, or report filed with Customs, any statement which was, at the time and in light of the circumstances under which it was made, false or misleading with respect to any material fact, or has omitted to state in any application or report any material fact which was required;

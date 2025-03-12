@@ -1,5 +1,7 @@
 ##### § 111.17 Review of the denial of a license. #####
 
+Link to an amendment published at 87 FR 63314, Oct. 18, 2022.
+
 (a) *By the Assistant Commissioner.* Upon the denial of an application for a license, the applicant may file with the Assistant Commissioner, in writing, a request that further opportunity be given for the presentation of information or arguments in support of the application by personal appearance, or in writing, or both. This request must be received by the Assistant Commissioner within 60 calendar days of the denial.
 
 (b) *By the Secretary.* Upon the decision of the Assistant Commissioner affirming the denial of an application for a license, the applicant may file with the Secretary of Homeland Security, or his designee, in writing, a request for any additional review that the Secretary deems appropriate. This request must be received by the Secretary within 60 calendar days of the Assistant Commissioner's affirmation of the denial of the application for a license.

@@ -1,5 +1,7 @@
 ##### § 111.14 Investigation of the license applicant. #####
 
+Link to an amendment published at 87 FR 63314, Oct. 18, 2022.
+
 (a) *Referral of application for investigation.* The port director will immediately refer an application for an individual, partnership, association, or corporation license to the special agent in charge or other entity designated by Headquarters for investigation and report.
 
 (b) *Scope of investigation.* An investigation under this section will ascertain facts relevant to the question of whether the applicant is qualified and will cover, but need not be limited to:

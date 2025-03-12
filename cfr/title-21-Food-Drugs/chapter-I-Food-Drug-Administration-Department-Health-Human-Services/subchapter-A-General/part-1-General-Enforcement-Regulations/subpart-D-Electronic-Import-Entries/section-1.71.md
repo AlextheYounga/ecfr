@@ -1,5 +1,7 @@
 ##### § 1.71 Definitions. #####
 
+Link to an amendment published at 87 FR 62984, Oct. 18, 2022.
+
 For purposes of subpart D:
 
 *ACE filer* means the person who is authorized to submit an electronic import entry for an FDA-regulated product in the Automated Commercial Environment or any other CBP-authorized EDI system.

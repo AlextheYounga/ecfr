@@ -1,5 +1,7 @@
 ##### § 111.1 Definitions. #####
 
+Link to an amendment published at 87 FR 63313, Oct. 18, 2022.
+
 When used in this part, the following terms have the meanings indicated:
 
 *Assistant Commissioner.* “Assistant Commissioner” means the Assistant Commissioner, Office of International Trade, U.S. Customs and Border Protection, Washington, DC.

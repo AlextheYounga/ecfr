@@ -1,5 +1,7 @@
 ##### § 111.67 Hearing. #####
 
+Link to an amendment published at 87 FR 63320, Oct. 18, 2022.
+
 (a) *Hearing officer.* The hearing officer must be an administrative law judge appointed pursuant to 5 U.S.C. 3105.
 
 (b) *Rights of the broker.* The broker or his attorney will have the right to examine all exhibits offered at the hearing and will have the right to cross-examine witnesses and to present witnesses who will be subject to cross-examination by the Government representatives.

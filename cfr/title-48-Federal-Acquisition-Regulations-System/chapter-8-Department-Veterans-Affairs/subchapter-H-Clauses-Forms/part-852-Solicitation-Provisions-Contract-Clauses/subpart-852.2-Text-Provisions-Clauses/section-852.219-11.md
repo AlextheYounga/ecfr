@@ -1,5 +1,7 @@
 ##### 852.219-11 VA Notice of Total Veteran-Owned Small Business Set-Aside. #####
 
+Link to an amendment published at 87 FR 63011, Oct. 18, 2022.
+
 As prescribed in 819.7009, insert the following clause:
 
 VA Notice of Total Veteran-Owned Small Business Set-Aside (DEC 2009)

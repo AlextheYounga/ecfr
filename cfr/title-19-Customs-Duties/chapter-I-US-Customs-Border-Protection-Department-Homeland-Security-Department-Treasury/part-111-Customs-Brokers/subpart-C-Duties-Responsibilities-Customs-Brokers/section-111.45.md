@@ -1,5 +1,7 @@
 ##### § 111.45 Revocation by operation of law. #####
 
+Link to an amendment published at 87 FR 63318, Oct. 18, 2022.
+
 (a) *License.* If a broker that is a partnership, association, or corporation fails to have, during any continuous period of 120 days, at least one member of the partnership or at least one officer of the association or corporation who holds a valid individual broker's license, that failure will, in addition to any other sanction that may be imposed under this part, result in the revocation by operation of law of the license and any permits issued to the partnership, association, or corporation. The Assistant Commissioner or his designee will notify the broker in writing of an impending revocation by operation of law under this section 30 calendar days before the revocation is due to occur.
 
 (b) *Permit.* If a broker who has been granted a permit for an additional district fails, for any continuous period of 180 days, to employ within that district (or region, as defined in § 111.1, if an exception has been granted pursuant to § 111.19(d)) at least one person who holds a valid individual broker's license, that failure will, in addition to any other sanction that may be imposed under this part, result in the revocation of the permit by operation of law.

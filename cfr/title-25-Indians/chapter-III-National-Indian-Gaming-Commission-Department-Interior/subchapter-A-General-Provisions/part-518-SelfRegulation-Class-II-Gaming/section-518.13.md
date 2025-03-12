@@ -1,3 +1,5 @@
 ##### § 518.13 When may the Commission revoke a certificate of self-regulation? #####
 
+Link to an amendment published at 87 FR 62987, Oct. 18, 2022.
+
 The Commission may, after an opportunity for a hearing, revoke a certificate of self-regulation by a majority vote of its members if it determines that the tribe no longer meets the eligibility criteria of § 518.3, the approval criteria of § 518.5, the requirements of § 518.10 or the requirements of § 518.11. The Commission shall provide the tribe with prompt notice of the Commission's intent to revoke a certificate of self-regulation under this part. Such notice shall state the reasons for the Commission's action and shall advise the tribe of its right to a hearing under part 584 or right to appeal under part 585. The decision to revoke a certificate is a final agency action and is appealable to Federal District Court pursuant to 25 U.S.C. 2714.

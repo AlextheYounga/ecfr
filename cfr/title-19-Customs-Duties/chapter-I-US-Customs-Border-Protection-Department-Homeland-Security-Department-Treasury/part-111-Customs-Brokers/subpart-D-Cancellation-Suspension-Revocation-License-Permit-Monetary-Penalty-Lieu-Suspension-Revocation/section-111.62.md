@@ -1,5 +1,7 @@
 ##### § 111.62 Contents of notice of charges. #####
 
+Link to an amendment published at 87 FR 63319, Oct. 18, 2022.
+
 The notice of charges must inform the broker that:
 
 (a) Sections 554 and 558, Title 5, United States Code, are applicable to the formal proceedings;

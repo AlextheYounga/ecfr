@@ -1,5 +1,7 @@
 ##### § 111.19 Permits. #####
 
+Link to an amendment published at 87 FR 63267, Oct. 18, 2022.Link to an amendment published at 87 FR 63315, Oct. 18, 2022.
+
 (a) *General.* Each person granted a broker's license under this part will be concurrently issued a permit for the district in which the port through which the license was delivered to the licensee (see § 111.15) is located and without the payment of the $100 fee required by § 111.96(b), if it is shown to the satisfaction of the port director that the person intends to transact customs business within that district and the person otherwise complies with the requirements of this part.
 
 (b) *Submission of application for initial or additional district permit.* A broker who intends to conduct customs business at a port within another district for which he does not have a permit, or a broker who was not concurrently granted a permit with the broker's license under paragraph (a) of this section, and except as otherwise provided in paragraph (f) of this section, must submit an application for a permit in a letter to the director of the port at which he intends to conduct customs business. Each application for a permit must set forth or attach the following:

@@ -1,5 +1,7 @@
 ##### § 111.30 Notification of change of business address, organization, name, or location of business records; status report; termination of brokerage business. #####
 
+Link to an amendment published at 87 FR 63317, Oct. 18, 2022.
+
 (a) *Change of address.* When a broker changes his business address, he must immediately give written notice of his new address to each director of a port that is affected by the change of address. In addition, if an individual broker is not actively engaged in transacting business as a broker and changes his non-business mailing address, he must give written notice of the new address in the status report required by paragraph (d) of this section.
 
 (b) *Change in an organization.* A partnership, association, or corporation broker must immediately provide written notice of any of the following to the director of each port through which it has been granted a permit:

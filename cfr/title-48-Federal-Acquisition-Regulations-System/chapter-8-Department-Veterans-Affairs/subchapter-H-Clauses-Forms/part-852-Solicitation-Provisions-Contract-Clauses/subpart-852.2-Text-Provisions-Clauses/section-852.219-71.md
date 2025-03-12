@@ -1,5 +1,7 @@
 ##### 852.219-71 VA mentor-protégé program. #####
 
+Link to an amendment published at 87 FR 63011, Oct. 18, 2022.
+
 As prescribed in 819.7115(a), insert the following clause:
 
 VA Mentor-Protégé Program (DEC 2009)

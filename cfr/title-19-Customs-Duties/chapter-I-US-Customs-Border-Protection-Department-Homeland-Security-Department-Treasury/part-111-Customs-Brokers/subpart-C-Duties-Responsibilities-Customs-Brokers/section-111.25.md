@@ -1,3 +1,5 @@
 ##### § 111.25 Records must be available. #####
 
+Link to an amendment published at 87 FR 63316, Oct. 18, 2022.
+
 During the period of retention, the broker must maintain the records referred to in this part in such a manner that they may readily be examined. Records required to be made or maintained under the provisions of this part must be made available upon reasonable notice for inspection, copying, reproduction or other official use by CBP regulatory auditors or special agents or other authorized CBP officers within the prescribed period of retention or within any longer period of time during which they remain in the possession of the broker. Records subject to the requirements of part 163 of this chapter must be made available to Customs in accordance with the provisions of that part.

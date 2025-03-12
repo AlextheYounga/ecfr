@@ -1,7 +1,5 @@
 ##### § 125.9 What are the rules governing SBA's small business mentor-protégé program? #####
 
-Link to an amendment published at 87 FR 50927, Aug. 19, 2022.
-
 (a) *General.* The small business mentor-protégé program is designed to enhance the capabilities of protégé firms by requiring approved mentors to provide business development assistance to protégé firms and to improve the protégé firms' ability to successfully compete for federal contracts. This assistance may include technical and/or management assistance; financial assistance in the form of equity investments and/or loans; subcontracts (either from the mentor to the protégé or from the protégé to the mentor); trade education; and/or assistance in performing prime contracts with the Government through joint venture arrangements. Mentors are encouraged to provide assistance relating to the performance of contracts set aside or reserved for small business so that protégé firms may more fully develop their capabilities.
 
 (b) *Mentors.* Any concern that demonstrates a commitment and the ability to assist small business concerns may act as a mentor and receive benefits as set forth in this section. This includes other than small businesses.
@@ -20,7 +18,7 @@ Link to an amendment published at 87 FR 50927, Aug. 19, 2022.
 
 (i) A mentor that has more than one protégé cannot submit competing offers in response to a solicitation for a specific procurement through separate joint ventures with different protégés.
 
-(ii) A mentor generally cannot have more than three protégés at one time. However, the first two mentor-protégé relationships approved by SBA between a specific mentor and a small business that has its principal office located in the Commonwealth of Puerto Rico do not count against the limit of three proteges that a mentor can have at one time.
+(ii) A mentor generally cannot have more than three protégés at one time. However, the first two mentor-protégé relationships approved by SBA between a specific mentor and a covered territory business, or a specific mentor and a small business that has its principal office located in the Commonwealth of Puerto Rico, do not count against the limit of three proteges that a mentor can have at one time.
 
 (c) *Protégés.* (1) In order to initially qualify as a protégé firm, a concern must qualify as small for the size standard corresponding to its primary NAICS code or identify that it is seeking business development assistance with respect to a secondary NAICS code and qualify as small for the size standard corresponding to that NAICS code.
 
@@ -56,7 +54,11 @@ Link to an amendment published at 87 FR 50927, Aug. 19, 2022.
 
 (5) Where appropriate, procuring activities may provide incentives in the contract evaluation process to a firm that will provide significant subcontracting work to its SBA-approved protégé firm.
 
-(6) A mentor that provides a subcontract to a protégé that has its principal office located in the Commonwealth of Puerto Rico may (i) receive positive consideration for the mentor's past performance evaluation, and (ii) apply costs incurred for providing training to such protege toward the subcontracting goals contained in the subcontracting plan of the mentor.
+(6) A mentor that provides a subcontract to its protégé that is a covered territory business, or that has its principal office located in the Commonwealth of Puerto Rico, may:
+
+(i) receive positive consideration for the mentor's past performance evaluation, and (ii) apply costs incurred for providing training to such protege toward the subcontracting goals contained in the subcontracting plan of the mentor.
+
+(ii) [Reserved]
 
 (e) *Written agreement.* (1) The mentor and protégé firms must enter a written agreement setting forth an assessment of the protégé's needs and providing a detailed description and timeline for the delivery of the assistance the mentor commits to provide to address those needs (*e.g.,* management and or technical assistance; loans and/or equity investments; bonding; use of equipment; export assistance; assistance as a subcontractor under prime contracts being performed by the protégé; cooperation on joint venture projects; or subcontracts under prime contracts being performed by the mentor). The mentor-protégé agreement must:
 
@@ -136,4 +138,4 @@ Link to an amendment published at 87 FR 50927, Aug. 19, 2022.
 
 (2) Where a protégé does not report the results of a mentor-protégé relationship upon its completion, SBA will not approve a second mentor-protégé relationship either under this section or under § 124.520 of this chapter.
 
-[81 FR 48585, July 25, 2016, as amended at 85 FR 66194, Oct. 16, 2020]
+[81 FR 48585, July 25, 2016, as amended at 85 FR 66194, Oct. 16, 2020; 87 FR 50927, Aug. 19, 2022]

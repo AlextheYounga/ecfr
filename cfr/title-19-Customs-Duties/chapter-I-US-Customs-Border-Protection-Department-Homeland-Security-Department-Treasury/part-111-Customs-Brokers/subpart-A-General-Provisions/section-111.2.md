@@ -1,5 +1,7 @@
 ##### § 111.2 License and district permit required. #####
 
+Link to an amendment published at 87 FR 63313, Oct. 18, 2022.
+
 (a) *License* - (1) *General.* Except as otherwise provided in paragraph (a)(2) of this section, a person must obtain the license provided for in this part in order to transact customs business as a broker.
 
 (2) *Transactions for which license is not required* - (i) *For one's own account.* An importer or exporter transacting customs business solely on his own account and in no sense on behalf of another is not required to be licensed, nor are his authorized regular employees or officers who act only for him in the transaction of such business.

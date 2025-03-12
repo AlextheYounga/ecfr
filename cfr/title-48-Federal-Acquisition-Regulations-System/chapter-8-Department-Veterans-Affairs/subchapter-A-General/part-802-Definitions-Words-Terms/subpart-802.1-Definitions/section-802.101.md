@@ -1,5 +1,7 @@
 ##### 802.101 Definitions. #####
 
+Link to an amendment published at 87 FR 63002, Oct. 18, 2022.
+
 *A/E* means architect/engineer.
 
 *Chief Acquisition Officer* (CAO) means the Principal Executive Director, Office of Acquisition, Logistics, and Construction.

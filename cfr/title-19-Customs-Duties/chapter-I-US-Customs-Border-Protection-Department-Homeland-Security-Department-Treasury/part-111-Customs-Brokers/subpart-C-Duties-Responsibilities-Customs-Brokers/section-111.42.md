@@ -1,5 +1,7 @@
 ##### § 111.42 Relations with person who is notoriously disreputable or whose license is under suspension, canceled “with prejudice,” or revoked. #####
 
+Link to an amendment published at 87 FR 63318, Oct. 18, 2022.
+
 (a) *General.* Except as otherwise provided in paragraph (b) of this section, a broker must not knowingly and directly or indirectly:
 
 (1) Accept employment to effect a Customs transaction as associate, correspondent, officer, employee, agent, or subagent from any person who is notoriously disreputable or whose broker license was revoked for any cause or is under suspension or was cancelled “with prejudice;”

@@ -1,5 +1,7 @@
 ##### § 24.1 Collection of Customs duties, taxes, fees, interest, and other charges. #####
 
+Link to an amendment published at 87 FR 63313, Oct. 18, 2022.
+
 (a) Except as provided in paragraph (b) of this section, the following procedure shall be observed in the collection of Customs duties, taxes, fees, interest, and other charges (see § 111.29(b) and 141.1(b) of this chapter):
 
 (1) Any form of United States currency or coin legally current at time of acceptance shall be accepted.
