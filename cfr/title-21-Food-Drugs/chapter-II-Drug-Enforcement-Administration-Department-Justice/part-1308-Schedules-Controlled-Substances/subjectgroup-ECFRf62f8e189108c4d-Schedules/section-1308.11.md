@@ -306,7 +306,7 @@ Link to an amendment published at 85 FR 5322, Jan. 30, 2020.
 
 [39 FR 22141, June 20, 1974]Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Notes:1. At 83 FR 31882, July 10, 2018, § 1308.11 was amended by adding paragraphs (h)(31) through (h)(35) effective July 10, 2018, through July 10, 2020. At 85 FR 42296, July 13, 2020, the effective period was extended to July 10, 2021, effective July 10, 2020.
 
-2. At 83 FR 44478, Aug. 31, 2018, § 1308.11 was amended by adding paragraph (h)(36) effective Aug. 31, 2018, through Aug. 31, 2020.
+2. At 83 FR 44478, Aug. 31, 2018, § 1308.11 was amended by adding paragraph (h)(36) effective Aug. 31, 2018, through Aug. 31, 2020. At 85 FR 52915, Aug. 27, 2020, the effective period was extended to Aug. 31, 2021.
 
 3. At 84 FR 15511, Apr. 16, 2019, § 1308.11 was amended by adding paragraphs (h)(37) through (h)(41) effective Apr. 16, 2019, through Apr. 16, 2021.
 

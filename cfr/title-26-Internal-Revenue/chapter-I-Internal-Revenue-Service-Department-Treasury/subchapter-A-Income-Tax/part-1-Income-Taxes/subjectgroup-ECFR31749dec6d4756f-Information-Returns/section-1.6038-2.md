@@ -100,6 +100,16 @@ The constructive ownership rules of section 318(a) apply only for purposes of de
 
 (14) *Hybrid dividends under section 245A(e).* If for the annual accounting period, the corporation pays or receives a hybrid dividend or a tiered hybrid dividend under section 245A(e) and the regulations in this part under section 245A(e) of the Internal Revenue Code, then Form 5471 (or successor form) must contain such information about the hybrid dividend or tiered hybrid dividend in the form and manner and to the extent prescribed by the form, instruction, publication, or other guidance. Form 5471 (or successor form) must also contain any other information relating to the rules of section 245A(e) and the regulations in this part under section 245A(e) of the Internal Revenue Code (including information related to a specified owner's hybrid deduction account), as prescribed by the form, instruction, publication, or other guidance.
 
+(15) [Reserved]
+
+(16) *Amounts related to extraordinary dispositions and extraordinary reductions.* The corporation must report the information in the form and manner and to the extent prescribed by the form, instructions to the form, publication, or other guidance published in the Internal Revenue Bulletin if any of the following conditions are met during the corporation's annual accounting period -
+
+(i) The corporation distributes or receives a dividend that gives rise to an ineligible amount (as defined in § 1.245A-5(i)(12)), a tiered extraordinary disposition amount (as defined in § 1.245A-5(i)(25)), or a tiered extraordinary reduction amount (as defined in § 1.245A-5(i)(26));
+
+(ii) A section 245A shareholder with respect to the corporation has an extraordinary disposition account (as defined in § 1.245A-5(i)(6)); or
+
+(iii) The corporation would have been deemed to have undertaken an extraordinary disposition (as defined in § 1.245A-5(i)(5)) but for the application of § 1.245A-5(c)(3)(ii)(C)(*2*).
+
 (g) *Financial statements.* The following information with respect to the foreign corporation shall be attached to and filed as part of the return required by this section. Forms 5471 filed after September 30, 1991, shall contain this information in such form or manner as the form shall prescribe with respect to each foreign corporation:
 
 (1) A statement of the corporation's profit and loss for the annual accounting period;
@@ -191,8 +201,8 @@ M must include $25,500 in gross income as a dividend under the provisions of sec
 
 (m) *Applicability dates* - (1) *In general.* This section applies to taxable years of foreign corporations beginning on or after October 3, 2018. See 26 CFR 1.6038-2 (revised as of April 1, 2018) for rules applicable to taxable years of foreign corporations beginning before such date.
 
-(2) [Reserved]
+(2) *Special rule for paragraph (f)(16) of this section.* Paragraph (f)(16) of this section applies with respect to information for annual accounting periods to which § 1.245A-5 applies.
 
 (3) *Rules relating to certain hybrid arrangements.* Paragraphs (f)(13) and (14) of this section apply with respect to information for annual accounting periods beginning on or after December 20, 2018.
 
-[T.D. 8040, 50 FR 30163, July 24, 1985, as amended by T.D. 8573, 59 FR 64302, Dec. 14, 1994; T.D. 8733, 62 FR 53385, Oct. 14, 1997; T.D. 8850, 64 FR 72550, Dec. 28, 1999; T.D. 9194, 70 FR 18946, Apr. 11, 2005; T.D. 9268, 71 FR 35525, June 21, 2006; T.D. 9338, 72 FR 38475, July 13, 2007; T.D. 9391, 73 FR 19376, Apr. 9, 2008; T.D. 9650, 78 FR 79611, Dec. 31, 2013; T.D. 9806, 81 FR 95470, Dec. 28, 2016; T.D. 9866, 84 FR 29369, June 21, 2019; T.D. 9896, 85 FR 19856, Apr. 8, 2020]
+[T.D. 8040, 50 FR 30163, July 24, 1985, as amended by T.D. 8573, 59 FR 64302, Dec. 14, 1994; T.D. 8733, 62 FR 53385, Oct. 14, 1997; T.D. 8850, 64 FR 72550, Dec. 28, 1999; T.D. 9194, 70 FR 18946, Apr. 11, 2005; T.D. 9268, 71 FR 35525, June 21, 2006; T.D. 9338, 72 FR 38475, July 13, 2007; T.D. 9391, 73 FR 19376, Apr. 9, 2008; T.D. 9650, 78 FR 79611, Dec. 31, 2013; T.D. 9806, 81 FR 95470, Dec. 28, 2016; T.D. 9866, 84 FR 29369, June 21, 2019; T.D. 9896, 85 FR 19856, Apr. 8, 2020; T.D. 9909, 85 FR 53097, Aug. 27, 2020]

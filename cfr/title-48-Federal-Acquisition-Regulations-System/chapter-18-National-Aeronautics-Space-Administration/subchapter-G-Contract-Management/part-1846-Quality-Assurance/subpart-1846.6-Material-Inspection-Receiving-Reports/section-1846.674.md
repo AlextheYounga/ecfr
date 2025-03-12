@@ -9,3 +9,5 @@ The contracting officer shall insert the clause at 1852.246-72, Material Inspect
 (3) Contracts for which the deliverable is a scientific or technical report. Insert number of copies and distribution instructions in paragraph (a).
 
 [80 FR 12945, Mar. 12, 2015]
+
+##### 1846.674  #####

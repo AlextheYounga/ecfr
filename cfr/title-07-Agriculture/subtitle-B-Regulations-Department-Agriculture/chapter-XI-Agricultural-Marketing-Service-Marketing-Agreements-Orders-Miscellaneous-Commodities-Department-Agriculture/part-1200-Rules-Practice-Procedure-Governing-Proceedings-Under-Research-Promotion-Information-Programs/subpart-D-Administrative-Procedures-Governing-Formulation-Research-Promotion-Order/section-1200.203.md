@@ -1,0 +1,3 @@
+##### § 1200.203 Initial referendum. #####
+
+For the purpose of ascertaining whether the persons to be covered by an order favor the order going into effect, the Administrator may conduct an initial referendum among persons to be subject to an assessment under the order who, during a representative period determined by the Administrator, engaged in the production or handling of the agricultural commodity or the importation of the agricultural commodity.

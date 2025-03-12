@@ -1,5 +1,7 @@
 ##### 1812.301 Solicitation provisions and contract clauses for the acquisition of commercial items. #####
 
+Link to an amendment published at 85 FR 52927, Aug. 27, 2020.
+
 (f)(i) The following clauses are authorized for use in acquisitions of commercial items when required by the clause prescription:
 
 (A) 1852.204-75, Security Classification Requirements.

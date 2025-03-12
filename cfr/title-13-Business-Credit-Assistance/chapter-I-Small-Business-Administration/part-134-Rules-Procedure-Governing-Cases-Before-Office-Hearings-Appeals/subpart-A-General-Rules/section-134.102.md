@@ -44,8 +44,10 @@ OHA has authority to conduct proceedings in the following cases:
 
 (t) Petitions for reconsideration of revised, modified, or established size standards pursuant to 15 U.S.C. 632(a)(9);
 
-(u) Protests of eligibility for inclusion in the Department of Veterans Affairs Center for Verification and Evaluation (CVE) database; and
+(u) Protests of eligibility for inclusion in the Department of Veterans Affairs Center for Verification and Evaluation (CVE) database;
 
-(v) Appeals of denials and cancellations of inclusion in the CVE database.
+(v) Appeals of denials and cancellations of inclusion in the CVE database; and
 
-[61 FR 2683, Jan. 29, 1996, as amended at 66 FR 47074, Sept. 11, 2001; 67 FR 47246, July 18, 2002; 69 FR 25271, May 5, 2004; 69 FR 29208, May 21, 2004; 70 FR 17587, Apr. 7, 2005; 72 FR 39730, July 20, 2007; 73 FR 56954, Oct. 1, 2008; 75 FR 47438, Aug. 6, 2010; 75 FR 62292, Oct. 7, 2010; 82 FR 25506, June 2, 2017; 83 FR 13628, Mar. 30, 2018; 85 FR 14784, Mar. 16, 2020]
+(w) Appeals of certain SBA loan review decisions as defined in 13 CFR 134.1201.
+
+[61 FR 2683, Jan. 29, 1996, as amended at 66 FR 47074, Sept. 11, 2001; 67 FR 47246, July 18, 2002; 69 FR 25271, May 5, 2004; 69 FR 29208, May 21, 2004; 70 FR 17587, Apr. 7, 2005; 72 FR 39730, July 20, 2007; 73 FR 56954, Oct. 1, 2008; 75 FR 47438, Aug. 6, 2010; 75 FR 62292, Oct. 7, 2010; 82 FR 25506, June 2, 2017; 83 FR 13628, Mar. 30, 2018; 85 FR 14784, Mar. 16, 2020; 85 FR 52887, Aug. 27, 2020]

@@ -1,5 +1,7 @@
 ##### 52.204-26 Covered Telecommunications Equipment or Services - Representation. #####
 
+Link to an amendment published at 85 FR 53134, Aug. 27, 2020.
+
 As prescribed in 4.2105(c), insert the following provision:
 
 Covered Telecommunications Equipment or Services - Representation (DEC 2019)

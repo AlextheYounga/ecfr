@@ -1,0 +1,3 @@
+##### § 1200.205 Termination of proceedings. #####
+
+If at any time during development of a new program the Administrator concludes, based on public comments, referendum votes, or other available information, that an order will not tend to effectuate the declared policy of the Act, the Administrator shall terminate the proceedings and collect reimbursements from the bond or other collateral posted pursuant to § 1200.204 for any expenses incurred in development of the proposed program.
