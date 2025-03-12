@@ -1,7 +1,5 @@
 ##### § 22.953 Content and form of applications for Cellular Unserved Area authorizations. #####
 
-Link to an amendment published at 82 FR 17584, Apr. 12, 2017.
-
 Applications for authority to operate a new Cellular system or to modify an existing Cellular system must comply with the specifications in this section.
 
 (a) *New Systems.* In addition to information required by subpart B of this part and by FCC Form 601, applications for an Unserved Area authorization to operate a Cellular system must comply with all applicable requirements set forth in part 1 of this chapter, including the requirements specified in §§ 1.913, 1.923, and 1.924, and must include the information listed below. Geographical coordinates must be correct to ±1 second using the NAD 83 datum.
@@ -18,6 +16,6 @@ Applications for authority to operate a new Cellular system or to modify an exis
 
 (b) *Existing systems - major modifications.* Licensees making major modifications pursuant to § 1.929(a) and (b) of this chapter must file FCC Form 601 and comply with the requirements of paragraph (a) of this section.
 
-(c) *Existing systems - minor modifications.* Licensees making minor modifications pursuant to § 1.929(k) of this chapter, must file FCC Form 601 or FCC Form 603. *See also* § 22.169. If the modification involves a contract SAB extension into or from the Gulf of Mexico Exclusive Zone, it must include a certification that the required written consent has been obtained. *See* § 22.912(c).
+(c) *Existing systems - minor modifications.* Licensees making minor modifications pursuant to § 1.929(k) of this chapter must file FCC Form 601 or FCC Form 603, provided, however, that a resulting reduction in coverage within the CGSA is not subject to this requirement. *See* § 1.947(b). *See also* § 22.169. If the modification involves a contract SAB extension into or from the Gulf of Mexico Exclusive Zone, it must include a certification that the required written consent has been obtained. *See* §§ 22.912(c) and 22.950.
 
-[79 FR 72152, Dec. 5, 2014]
+[79 FR 72152, Dec. 5, 2014, as amended at 82 FR 17584, Apr. 12, 2017]Effective Date Note:At 82 FR 17584, Apr. 12, 2017, in § 22.953, paragraph (c) was revised. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

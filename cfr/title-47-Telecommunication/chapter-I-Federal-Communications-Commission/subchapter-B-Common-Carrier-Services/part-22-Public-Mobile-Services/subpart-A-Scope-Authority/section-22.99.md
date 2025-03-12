@@ -1,7 +1,5 @@
 ##### § 22.99 Definitions. #####
 
-Link to an amendment published at 82 FR 17581, Apr. 12, 2017.
-
 Terms used in this part have the following meanings:
 
 *Air-Ground Radiotelephone Service.* A radio service in which licensees are authorized to offer and provide radio telecommunications service for hire to subscribers in aircraft.
@@ -40,7 +38,7 @@ Terms used in this part have the following meanings:
 
 *Cellular service.* Radio telecommunication services provided using a cellular system.
 
-*Cellular system.* An automated high-capacity system of one or more multichannel base stations designed to provide radio telecommunication services to mobile stations over a wide area in a spectrally efficient manner. Cellular systems employ techniques such as low transmitting power and automatic hand-off between base stations of communications in progress to enable channels to be reused at relatively short distances. Cellular systems may also employ digital techniques such as voice encoding and decoding, data compression, error correction, and time or code division multiple access in order to increase system capacity.
+*Cellular system.* An automated high-capacity system of one or more multi-channel base stations designed to provide radio telecommunication services to mobile stations over a wide area in a spectrally efficient manner. Cellular systems employ techniques such as automatic hand-off between base stations of communications in progress to enable channels to be re-used at relatively short distances.
 
 *Center frequency.* The frequency of the middle of the bandwidth of a channel.
 
@@ -126,6 +124,8 @@ Terms used in this part have the following meanings:
 
 *Paging service.* Transmission of coded radio signals for the purpose of activating specific pagers; such transmissions may include messages and/or sounds.
 
+*Power spectral density (PSD).* The power of an emission in the frequency domain, such as in terms of ERP or EIRP, stated per unit bandwidth, *e.g.,* watts/MHz.
+
 *Public Mobile Services.* Radio services in which licensees are authorized to offer and provide mobile and related fixed radio telecommunication services for hire to the public.
 
 *Radio telecommunication services.* Communication services provided by the use of radio, including radiotelephone, radiotelegraph, paging and facsimile service.
@@ -160,4 +160,4 @@ Terms used in this part have the following meanings:
 
 *Unserved Area.* With regard to a channel block allocated for assignment in the Cellular Radiotelephone Service: Geographic area in the District of Columbia, or any State, Territory or Possession of the United States of America that is not within any Cellular Geographic Service Area of any Cellular system authorized to transmit on that channel block. With regard to a channel allocated for assignment in the Paging and Radiotelephone service: Geographic area within the District of Columbia, or any State, Territory or possession of the United States of America that is not within the service contour of any base transmitter in any station authorized to transmit on that channel.
 
-[59 FR 59507, Nov. 17, 1994, as amended at 61 FR 31050, June 19, 1996; 61 FR 54098, Oct. 17, 1996; 62 FR 11628, Mar. 12, 1997; 63 FR 36603, July 7, 1998; 63 FR 68943, Dec. 14, 1998; 67 FR 9609, Mar. 4, 2002; 70 FR 19307, Apr. 13, 2005; 79 FR 72150, Dec. 5, 2014]
+[59 FR 59507, Nov. 17, 1994, as amended at 61 FR 31050, June 19, 1996; 61 FR 54098, Oct. 17, 1996; 62 FR 11628, Mar. 12, 1997; 63 FR 36603, July 7, 1998; 63 FR 68943, Dec. 14, 1998; 67 FR 9609, Mar. 4, 2002; 70 FR 19307, Apr. 13, 2005; 79 FR 72150, Dec. 5, 2014; 82 FR 17581, Apr. 12, 2017]
