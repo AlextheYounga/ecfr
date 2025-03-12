@@ -1,5 +1,7 @@
 ##### § 1112.15 When can a third party conformity assessment body apply for CPSC acceptance for a particular CPSC rule or test method? #####
 
+Link to an amendment published at 82 FR 8993, Feb. 2, 2017.
+
 (a) Once the CPSC publishes the requirements for accreditation to a particular CPSC rule or test method, a third party conformity assessment body may apply to the CPSC for acceptance to that scope of accreditation. An application may be made for acceptance of accreditation to more than one CPSC rule or test method. Once accepted by the CPSC, a third party conformity assessment body may apply at any time to expand the scope of its acceptance to include additional CPSC rules or test methods. A third party conformity assessment body may only issue test results for purposes of section 14 of the CPSA that fall within a scope for which the CPSC has accepted the third party conformity assessment body's accreditation.
 
 (b) The CPSC has published the requirements for accreditation for third party conformity assessment bodies to assess conformity for the following CPSC rules or test methods:
@@ -190,7 +192,7 @@
 
 (38) 16 CFR part 1230, Safety Standard for Frame Child Carriers.
 
-(39) [Reserved]
+(39) 16 CFR part 1228, Safety Standard for Sling Carriers.
 
 (40) 16 CFR part 1233, Safety Standard for Portable Hook-On Chairs.
 
@@ -236,4 +238,4 @@
 
 (xii) CPSC “Standard Operating Procedure for Determining Lead (Pb) and its Availability in Children's Metal Jewelry”, February 3, 2005.
 
-[78 FR 15859, Mar. 12, 2013, as amended at 78 FR 63034, Oct. 23, 2013; 78 FR 73424, Dec. 6, 2013; 79 FR 2589, Jan. 15, 2014; 79 FR 17433, Mar. 28, 2014; 79 FR 13216, Mar. 10, 2014; 80 FR 11121, Mar. 2, 2015; 81 FR 17065, Mar. 28, 2016]
+[78 FR 15859, Mar. 12, 2013, as amended at 78 FR 63034, Oct. 23, 2013; 78 FR 73424, Dec. 6, 2013; 79 FR 2589, Jan. 15, 2014; 79 FR 17433, Mar. 28, 2014; 79 FR 13216, Mar. 10, 2014; 80 FR 11121, Mar. 2, 2015; 81 FR 17065, Mar. 28, 2016; 82 FR 8687, Jan. 30, 2017]

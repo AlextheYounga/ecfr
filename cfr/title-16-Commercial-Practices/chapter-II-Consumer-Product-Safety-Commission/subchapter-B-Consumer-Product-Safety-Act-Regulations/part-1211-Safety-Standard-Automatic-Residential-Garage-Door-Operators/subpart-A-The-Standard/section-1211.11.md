@@ -2,9 +2,9 @@
 
 (a) *Normal operation test.* When installed as described in § 1211.10(a)(1) through (4), a photoelectric sensor of a vertically moving door shall sense an obstruction as described in paragraph (c) of this section that is to be placed on the floor at three points over the width of the door opening, at distances of 1 foot (305 mm) from each end and the midpoint.
 
-(b) *Normal operation test - Horizontally moving door.* When installed as described in § 1211.10(a)(1) through (4), a photoelectric sensor of a horizontally moving door shall be tested per paragraph (c) of this section that is to be placed on a level surface within the path of the moving door. The sensor is to be tested with the obstruction at a total of five different locations over the height of the door or gate opening. The locations shall include distances 1 in (25.4 mm) from each end, 1 ft (305 mm) from each end, and the midpoint.
+(b) *Normal operation test—Horizontally moving door.* When installed as described in § 1211.10(a)(1) through (4), a photoelectric sensor of a horizontally moving door shall be tested per paragraph (c) of this section that is to be placed on a level surface within the path of the moving door. The sensor is to be tested with the obstruction at a total of five different locations over the height of the door or gate opening. The locations shall include distances 1 in (25.4 mm) from each end, 1 ft (305 mm) from each end, and the midpoint.
 
-(c) *Normal operation test - Obstruction.* The obstruction noted in paragraphs (a) and (b) of this section shall consist of a white vertical surface 6 inches (152 mm) high by 12 inches (305 mm) long. The obstruction is to be centered in the opening perpendicular to the plane of the door when in the closed position. See Figure 3 to subpart A.
+(c) *Normal operation test—Obstruction.* The obstruction noted in paragraphs (a) and (b) of this section shall consist of a white vertical surface 6 inches (152 mm) high by 12 inches (305 mm) long. The obstruction is to be centered in the opening perpendicular to the plane of the door when in the closed position. See Figure 3 to subpart A.
 
 (d) *Sensitivity test.* (1) When installed as described in § 1211.10(a)(1) through (4), a photoelectric sensor shall sense the presence of a moving object when tested according to paragraph (d)(2) of this section.
 
@@ -26,7 +26,7 @@
 
 (ii) An edge sensor shall comply with the normal operation test requirements described in § 1211.12.
 
-(f) *Photoelectric sensor vertical arrays* (1) A vertical array shall be tested as required by paragraphs (a) through (e) of this section, except as noted in paragraphs (f)(2) through (5) of this section.
+(f) *Photoelectric sensor vertical arrays.* (1) A vertical array shall be tested as required by paragraphs (a) through (e) of this section, except as noted in paragraphs (f)(2) through (5) of this section.
 
 (2) The array shall comply with the Normal Operation tests specified in paragraphs (a) through (c) of this section, with the solid obstruction placed on the floor. In addition, the obstruction shall be placed at various locations over the height of the light curtain array in accordance with the light curtain coverage area per the manufacturer's instructions.
 

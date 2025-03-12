@@ -82,7 +82,9 @@ Warning - To reduce the risk of severe injury or death:
 
 (iii) Exception: For operators that automatically sense one piece door operation, the warning in paragraph (b)(1)(ii) of this section is not required.
 
-(iv) For residential garage door operators that do not have permanent connection of the wiring system, the installation instructions shall include the following or equivalent text: “This operator not equipped for permanent wiring. Contact licensed electrician to install a suitable receptacle if one is not available.”
+(iv) For residential garage door operators that do not have permanent connection of the wiring system, the installation instructions shall include the following or equivalent text:
+
+“This operator not equipped for permanent wiring. Contact licensed electrician to install a suitable receptacle if one is not available.”
 
 (2) The User Instructions shall include the following instructions:
 

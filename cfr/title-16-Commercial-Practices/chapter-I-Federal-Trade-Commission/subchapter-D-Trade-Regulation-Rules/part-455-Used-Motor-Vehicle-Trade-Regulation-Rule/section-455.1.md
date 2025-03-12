@@ -1,7 +1,5 @@
 ##### § 455.1 General duties of a used vehicle dealer; definitions. #####
 
-Link to an amendment published at 81 FR 81678, Nov. 18, 2016.
-
 (a) It is a deceptive act or practice for any used vehicle dealer, when that dealer sells or offers for sale a used vehicle in or affecting commerce as *commerce* is defined in the Federal Trade Commission Act:
 
 (1) To misrepresent the mechanical condition of a used vehicle;
@@ -32,6 +30,8 @@ Link to an amendment published at 81 FR 81678, Nov. 18, 2016.
 
 (6) *Implied warranty* means an implied warranty arising under State law (as modified by the Magnuson-Moss Act) in connection with the sale by a dealer of a used vehicle.
 
-(7) *Service contract* means a contract in writing for any period of time or any specific mileage to refund, repair, replace, or maintain a used vehicle and provided at an extra charge beyond the price of the used vehicle, provided that such contract is not regulated in your State as the business of insurance.
+(7) *Service contract* means a contract in writing for any period of time or any specific mileage to refund, repair, replace, or maintain a used vehicle and provided at an extra charge beyond the price of the used vehicle, unless offering such contract is “the business of insurance” and such business is regulated by State law.
 
 (8) *You* means any dealer, or any agent or employee of a dealer, except where the term appears on the window form required by § 455.2(a).
+
+[49 FR 45725, Nov. 19, 1984, as amended at 81 FR 81678, Nov. 18, 2016]

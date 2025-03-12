@@ -1,17 +1,19 @@
 ##### § 455.5 Spanish language sales. #####
 
-Link to an amendment published at 81 FR 81679, Nov. 18, 2016.
+(a) If you conduct a sale in Spanish, the window form required by § 455.2 and the contract disclosures required by § 455.3 must be in that language. You may display on a vehicle both an English language window form and a Spanish language translation of that form. Use the translation and layout for Spanish language sales in Figures 4, 5, and 6.
 
-If you conduct a sale in Spanish, the window form required by § 455.2 and the contract disclosures required by § 455.3 must be in that language. You may display on a vehicle both an English language window form and a Spanish language translation of that form. Use the following translation and layout for Spanish language sales:4
+(b) Use the following language for the “Implied Warranties Only” disclosure when required by § 455.2(b)(1) as illustrated by Figure 5:
 
-4 Use the following language for the “Implied Warranties Only” disclosure when required by § 455.2(b)(1):
+SOLO GARANTÍAS IMPLÍCITAS
 
-Garantías implicítas solamente
+El concesionario no hace ninguna promesa de reparar lo que sea necesario cuando compre el vehículo o posteriormente. Sin embargo, las *garantías implícitas* según las leyes estatales podrían darle algunos derechos para hacer que el concesionario se encargue de ciertos problemas que no fueran evidentes cuando compró el vehículo.
 
-Este término significa que el vendedor no hace promesas específicas de arreglar lo que requiera reparación cuando usted compra el vehículo o después del momento de la venta. Pero, las “garantías implícitas” de la ley estatal pueden darle a usted algunos derechos y hacer que el vendedor resuelva problemas graves que no fueron evidentes cuando usted compró el vehículo.
+(c) Use the following language for the “Service Contract” disclosure required by § 455.2(b)(3) as illustrated by Figures 4 and 5:
 
-Use the following language for the “Service Contract” disclosure required by § 455.2(b)(3):
+CONTRATO DE MANTENIMIENTO. Con un cargo adicional, puede obtener un contrato de mantenimiento para este vehículo. Pregunte acerca de los detalles de la cobertura, los deducibles, el precio y las exclusiones. Si compra un contrato de mantenimiento dentro de los 90 días desde el momento en que compró el vehículo, las *garantías implícitas* según las leyes de su estado podrían darle derechos adicionales.
 
-CONTRATO DE SERVICIO. Este vehículo tiene disponible un contrato de servicio a un precio adicional. Pida los detalles en cuanto a cobertura, deducible, precio y exclusiones. Si adquiere usted un contrato de servicio dentro de los 90 días del momento de la venta, las “garantías implícitas” de acuerdo a la ley del estado pueden concederle derechos adicionales.
+(d) Use the following language if you choose to use the Optional Signature Line provided by § 455.2(f):
 
-![](/graphics/er12de12.012.gif)![](/graphics/er12de12.013.gif)[49 FR 45725, Nov. 19, 1984, as amended at 60 FR 62205, Dec. 5, 1995; 77 FR 73914, Dec. 12, 2012]
+Por este medio confirmo que he recibido copia de la Guía del Comprador al momento de la compraventa.
+
+[81 FR 81679, Nov. 18, 2016]

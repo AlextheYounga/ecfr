@@ -1,6 +1,6 @@
 ##### § 1203.15 Positional stability test (roll-off resistance). #####
 
-(a) *Test equipment.* (1) *Headforms.* The test headforms shall comply with the dimensions of the full chin ISO reference headforms sizes A, E, J, M, and O.
+(a) *Test equipment*—(1) *Headforms.* The test headforms shall comply with the dimensions of the full chin ISO reference headforms sizes A, E, J, M, and O.
 
 (2) *Test fixture.* The headform shall be secured in a test fixture with the headform's vertical axis pointing downward and 45 degrees to the direction of gravity (see Figure 7 of this part). The test fixture shall permit rotation of the headform about its vertical axis and include means to lock the headform in the face up and face down positions.
 
