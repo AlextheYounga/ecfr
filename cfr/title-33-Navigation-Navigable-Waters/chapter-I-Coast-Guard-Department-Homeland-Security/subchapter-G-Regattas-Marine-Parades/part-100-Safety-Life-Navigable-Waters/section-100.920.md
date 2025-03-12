@@ -1,5 +1,7 @@
 ##### § 100.920 Tug Across the River, Detroit, MI. #####
 
+Link to an amendment published at 83 FR 66131, Dec. 26, 2018.
+
 (a) *Regulated Area.* A regulated area is established to include all waters of the Detroit River, Detroit, Michigan, bounded on the south by the International boundary, on the west by 083°03′ W, on the east by 083°02′ W, and on the north by the U.S. shoreline (DATUM: NAD 83). This position is located on the Detroit River in front of Hart Plaza, Detroit, MI.
 
 (b) *Special Local Regulations.* The regulations of § 100.901 apply. No vessel may enter, transit through, or anchor within the regulated area without the permission of the Coast Guard Patrol Commander.

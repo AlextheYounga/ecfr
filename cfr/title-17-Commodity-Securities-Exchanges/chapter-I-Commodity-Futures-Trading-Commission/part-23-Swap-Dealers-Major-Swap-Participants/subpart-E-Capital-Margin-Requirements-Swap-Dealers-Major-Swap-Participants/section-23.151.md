@@ -1,7 +1,5 @@
 ##### § 23.151 Definitions applicable to margin requirements. #####
 
-Link to an amendment published at 83 FR 60346, November 26, 2018.
-
 For the purposes of §§ 23.150 through 23.161:
 
 *Bank holding company* has the meaning specified in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841).
@@ -44,11 +42,15 @@ For the purposes of §§ 23.150 through 23.161:
 
 (1) The agreement creates a single legal obligation for all individual transactions covered by the agreement upon an event of default following any stay permitted by paragraph (2) of this definition, including upon an event of receivership, conservatorship, insolvency, liquidation, or similar proceeding, of the counterparty;
 
-(2) The agreement provides the covered swap entity the right to accelerate, terminate, and close-out on a net basis all transactions under the agreement and to liquidate or set off collateral promptly upon an event of default, including upon an event of receivership, conservatorship, insolvency, liquidation, or similar proceeding, of the counterparty, provided that, in any such case, any exercise of rights under the agreement will not be stayed or avoided under applicable law in the relevant jurisdictions, other than:
+(2) The agreement provides the covered swap entity the right to accelerate, terminate, and close-out on a net basis all transactions under the agreement and to liquidate or set-off collateral promptly upon an event of default, including upon an event of receivership, conservatorship, insolvency, liquidation, or similar proceeding, of the counterparty, provided that, in any such case,
 
-(i) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act (12 U.S.C. 1811 *et seq.*), Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5381 *et seq.*), the Federal Housing Enterprises Financial Safety and Soundness Act of 1992, as amended (12 U.S.C. 4617), or the Farm Credit Act of 1971, as amended (12 U.S.C. 2183 and 2279cc), or laws of foreign jurisdictions that are substantially similar to the U.S. laws referenced in this paragraph (2)(i) in order to facilitate the orderly resolution of the defaulting counterparty; or
+(i) Any exercise of rights under the agreement will not be stayed or avoided under applicable law in the relevant jurisdictions, other than:
 
-(ii) Where the agreement is subject by its terms to, or incorporates, any of the laws referenced in paragraph (2)(i) of this definition;
+(A) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act (12 U.S.C. 1811 *et seq.*), Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5381 *et seq.*), the Federal Housing Enterprises Financial Safety and Soundness Act of 1992, as amended (12 U.S.C. 4617), or the Farm Credit Act of 1971, as amended (12 U.S.C. 2183 and 2279cc), or laws of foreign jurisdictions that are substantially similar to the U.S. laws referenced in this paragraph in order to facilitate the orderly resolution of the defaulting counterparty; or
+
+(B) Where the agreement is subject by its terms to, or incorporates, any of the laws referenced in paragraph (2)(i)(A) of this definition; and
+
+(ii) The agreement may limit the right to accelerate, terminate, and close-out on a net basis all transactions under the agreement and to liquidate or set-off collateral promptly upon an event of default of the counterparty to the extent necessary for the counterparty to comply with the requirements of 12 CFR part 47; 12 CFR part 252, subpart I; or 12 CFR part 382, as applicable;
 
 (3) The agreement does not contain a walkaway clause (that is, a provision that permits a non-defaulting counterparty to make a lower payment than it otherwise would make under the agreement, or no payment at all, to a defaulter or the estate of a defaulter, even if the defaulter or the estate of the defaulter is a net creditor under the agreement); and
 
@@ -229,3 +231,5 @@ For the purposes of §§ 23.150 through 23.161:
 *Variation margin* means collateral provided by a party to its counterparty to meet the performance of its obligation under one or more uncleared swaps between the parties as a result of a change in value of such obligations since the trade was executed or the last time such collateral was provided.
 
 *Variation margin amount* means the cumulative mark-to-market change in value to a covered swap entity of an uncleared swap, as measured from the date it is entered into (or in the case of an uncleared swap that has a positive or negative value to a covered swap entity on the date it is entered into, such positive or negative value plus any cumulative mark-to-market change in value to the covered swap entity of an uncleared swap after such date), less the value of all variation margin previously collected, plus the value of all variation margin previously posted with respect to such uncleared swap.
+
+[81 FR 695, Jan. 6, 2016, as amended at 83 FR 60346, Nov. 26, 2018]

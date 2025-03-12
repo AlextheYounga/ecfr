@@ -1,5 +1,7 @@
 ##### § 76.1621 Equipment compatibility offer. #####
 
+Link to an amendment published at 83 FR 66158, Dec. 26, 2018.
+
 Cable system operators that use scrambling, encryption or similar technologies in conjunction with cable system terminal devices, as defined in § 15.3(e) of this chapter, that may affect subscribers' reception of signals shall offer to supply each subscriber with special equipment that will enable the simultaneous reception of multiple signals. The equipment offered shall include a single terminal device with dual descramblers/decoders and/or timers and bypass switches. Other equipment, such as two independent set-top terminal devices may be offered at the same time that the single terminal device with dual tuners/descramblers is offered. For purposes of this rule, two set-top devices linked by a control system that provides functionality equivalent to that of a single device with dual descramblers is considered to be the same as a terminal device with dual descramblers/decoders.
 
 (a) The offer of special equipment shall be made to new subscribers at the time they subscribe and to all subscribers at least once each year.

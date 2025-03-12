@@ -1,5 +1,7 @@
 ##### § 478.11 Meaning of terms. #####
 
+Link to an amendment published at 83 FR 66554, Dec. 26, 2018.
+
 When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meanings ascribed in this section. Words in the plural form shall include the singular, and vice versa, and words importing the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude other things not enumerated which are in the same general class or are otherwise within the scope thereof.
 
 *Act.* 18 U.S.C. Chapter 44.
@@ -284,4 +286,4 @@ Example 1.A maintains a home in State X. A travels to State Y on a hunting, fish
 
 *U.S.C.* The United States Code.
 
-(5 U.S.C. 552(a), 80 Stat. 383, as amended; 18 U.S.C. 847 (84 Stat. 959); 18 U.S.C. 926 (82 Stat. 1226))[T.D. ATF-48, 43 FR 13536, Mar. 31, 1978; 44 FR 55842, Sept. 28, 1979]Editorial Note:For Federal Register citations affecting § 478.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(5 U.S.C. 552(a), 80 Stat. 383, as amended; 18 U.S.C. 847 (84 Stat. 959); 18 U.S.C. 926 (82 Stat. 1226))[T.D. ATF-48, 43 FR 13536, Mar. 31, 1978; 44 FR 55842, Sept. 28, 1979]Editorial Note:For Federal Register citations affecting § 478.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

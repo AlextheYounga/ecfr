@@ -1,5 +1,7 @@
 ##### § 555.7 Processing of applications. #####
 
+Link to an amendment published at 83 FR 66160, Dec. 26, 2018.
+
 (a) The NHTSA publishes in the Federal Register, affording opportunity for comment, a notice of each application containing the information required by this part. However, if the NHTSA finds that an application does not contain the information required by this part, it so informs the applicant, pointing out the areas of insufficiency and stating that the application will not receive further consideration until the required information is submitted.
 
 (b) No public hearing, argument, or other formal proceeding is held directly on an application filed under this part before its disposition under this section.

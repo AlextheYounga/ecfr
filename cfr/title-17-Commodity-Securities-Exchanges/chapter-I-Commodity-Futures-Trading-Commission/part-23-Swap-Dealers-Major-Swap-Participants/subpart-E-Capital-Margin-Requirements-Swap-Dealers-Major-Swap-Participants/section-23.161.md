@@ -1,7 +1,5 @@
 ##### § 23.161 Compliance dates. #####
 
-Link to an amendment published at 83 FR 60346, November 26, 2018.
-
 (a) Covered swap entities shall comply with the minimum margin requirements for uncleared swaps on or before the following dates for uncleared swaps entered into on or after the following dates:
 
 (1) September 1, 2016 for the requirements in § 23.152 for initial margin and in § 23.153 for variation margin for any uncleared swaps where both -
@@ -45,3 +43,7 @@ Link to an amendment published at 83 FR 60346, November 26, 2018.
 (c)(1) If a covered swap entity's counterparty changes its status such that an uncleared swap with that counterparty becomes subject to a stricter margin requirement under §§ 23.150 through 23.161 (for example, if the counterparty's status changes from a financial end user without material swaps exposure to a financial end user with material swaps exposure), then the covered swap entity shall comply with the stricter margin requirements for any uncleared swaps entered into with that counterparty after the counterparty changes its status.
 
 (2) If a covered swap entity's counterparty changes its status such that an uncleared swap with that counterparty becomes subject to less strict margin requirement under §§ 23.150 through 23.161 (for example, if the counterparty's status changes from a financial end user with material swaps exposure to a financial end user without material swaps exposure), then the covered swap entity may comply with the less strict margin requirements for any uncleared swaps entered into with that counterparty after the counterparty changes its status as well as for any outstanding uncleared swap entered into after the applicable compliance date under paragraph (a) of this section and before the counterparty changed its status.
+
+(d) For purposes of determining whether an uncleared swap was entered into prior to the applicable compliance date under this section, a covered swap entity may disregard amendments to the uncleared swap that were entered into solely to comply with the requirements of 12 CFR part 47; 12 CFR part 252, subpart I; or 12 CFR part 382, as applicable.
+
+[81 FR 695, Jan. 6, 2016, as amended at 83 FR 60346, Nov. 26, 2018]

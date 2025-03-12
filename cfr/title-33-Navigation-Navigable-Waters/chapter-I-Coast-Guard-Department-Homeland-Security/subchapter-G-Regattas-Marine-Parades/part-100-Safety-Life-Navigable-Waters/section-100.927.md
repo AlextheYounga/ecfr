@@ -1,5 +1,7 @@
 ##### § 100.927 Special Local Regulation, Partnership in Education, Dragon Boat Festival, Toledo, OH. #####
 
+Link to an amendment published at 83 FR 66131, Dec. 26, 2018.
+
 (a) *Regulated Area.* The regulated area includes all U.S. navigable waters of the Maumee River, Toledo, OH, between a line starting from a point on land just north of the Cherry Street Bridge at position 41°39′5.27″ N; 083°31′34.01″ W straight across the river along the Cherry Street bridge to position 41°39′12.83″ N; 083°31′42.58″ W and a line extending from a point of land just south of International Park at position 41°38′46.62″ N; 083°31′50.54″ W straight across the river to the shore just south of the mouth of Swan Creek at position 41°38′47.37″ N; 083°32′2.05″ W (NAD 83).
 
 (b) *Enforcement period.* This section will be enforced annually on the third or fourth Saturday of July. The exact dates and times would be issued annually via a Notice of Enforcement. However, for 2014, this section will be enforced from 6 a.m. to 6 p.m. on July 19, 2014.

@@ -1,5 +1,7 @@
 ##### § 479.11 Meaning of terms. #####
 
+Link to an amendment published at 83 FR 66554, Dec. 26, 2018.
+
 When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meanings ascribed in this section. Words in the plural form shall include the singular, and vice versa, and words importing the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude other things not enumerated which are in the same general class or are otherwise within the scope thereof.
 
 *Antique firearm.* Any firearm not designed or redesigned for using rim fire or conventional center fire ignition with fixed ammunition and manufactured in or before 1898 (including any matchlock, flintlock, percussion cap, or similar type of ignition system or replica thereof, whether actually manufactured before or after the year 1898) and also any firearm using fixed ammunition manufactured in or before 1898, for which ammunition is no longer manufactured in the United States and is not readily available in the ordinary channels of commercial trade.

@@ -1,5 +1,7 @@
 ##### § 229.802 Exchange Act industry guides. #####
 
+Link to an amendment published at 83 FR 66448, Dec. 26, 2018.
+
 (a)-(b) [Reserved]
 
 (c) *Guide 3.* Statistical disclosure by bank holding companies.

@@ -1,5 +1,7 @@
 ##### § 100.915 St. Clair River Classic Offshore Race, St. Clair, MI. #####
 
+Link to an amendment published at 83 FR 66131, Dec. 26, 2018.
+
 (a) *Regulated Area.* A regulated area is established to include all waters of the St. Clair River, St. Clair, Michigan, bounded by latitude 42°52′00″ N to the north; latitude 42°49′00″ N to the south; the shoreline of the St. Clair River on the west; and the international boundary line on the east (NAD 83).
 
 (b) *Special Local Regulations.* The regulations of § 100.901 apply. No vessel may enter, transit through, or anchor within the regulated area without the permission of the Coast Guard Patrol Commander.

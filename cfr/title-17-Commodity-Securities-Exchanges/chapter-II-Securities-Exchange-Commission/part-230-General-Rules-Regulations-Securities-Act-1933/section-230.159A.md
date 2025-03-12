@@ -10,7 +10,7 @@
 
 (4) Any other communication that is an offer in the offering made by the issuer to such person.
 
-Notes to paragraph (a) of Rule 159A.
+Notes to paragraph (a) of rule 159A.
 
 1. For purposes of paragraph (a) of this section, information is provided or a communication is made by or on behalf of an issuer if an issuer or an agent or representative of the issuer authorizes or approves the information or communication before its provision or use. An offering participant other than the issuer shall not be an agent or representative of the issuer solely by virtue of its acting as an offering participant.
 

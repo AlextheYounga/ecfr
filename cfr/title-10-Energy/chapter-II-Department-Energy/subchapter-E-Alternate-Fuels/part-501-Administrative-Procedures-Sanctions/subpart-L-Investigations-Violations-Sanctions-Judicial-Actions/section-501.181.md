@@ -6,7 +6,7 @@
 
 (b) *Criminal penalties.* Any person who willfully violates any provision of the Act (other than section 402), or any rule or order thereunder will be subject to a fine of not more than $50,000, or to imprisonment for not more than 1 year, or both, for each violation.
 
-(c) *Civil Penalties.* (1) Any person who violates any provisions of the Act (other than section 402) or any rule or order thereunder will be subject to the following civil penalty, which may not exceed $91,901 for each violation: Any person who operates a powerplant or major fuel burning installation under an exemption, during any 12-calendar-month period, in excess of that authorized in such exemption will be assessed a civil penalty of up to $8 for each MCF of natural gas or up to $37 for each barrel of oil used in excess of that authorized in the exemption.
+(c) *Civil Penalties.* (1) Any person who violates any provisions of the Act (other than section 402) or any rule or order thereunder will be subject to the following civil penalty, which may not exceed $94,219 for each violation: Any person who operates a powerplant or major fuel burning installation under an exemption, during any 12-calendar-month period, in excess of that authorized in such exemption will be assessed a civil penalty of up to $8 for each MCF of natural gas or up to $38 for each barrel of oil used in excess of that authorized in the exemption.
 
 (2) OFE may compromise and settle, and collect civil penalties whenever it considers it to be appropriate or advisable.
 
@@ -18,4 +18,4 @@
 
 (ii) *Notice of noncompliance* is a final Fuel Use Order issued under § 501.167 of this part.
 
-[46 FR 59889, Dec. 7, 1981, as amended at 62 FR 46183, Sept. 2, 1997; 74 FR 66032, Dec. 14, 2009; 81 FR 41794, June 28, 2016; 81 FR 96352, Dec. 30, 2016; 83 FR 1292, Jan. 11, 2018]
+[46 FR 59889, Dec. 7, 1981, as amended at 62 FR 46183, Sept. 2, 1997; 74 FR 66032, Dec. 14, 2009; 81 FR 41794, June 28, 2016; 81 FR 96352, Dec. 30, 2016; 83 FR 1292, Jan. 11, 2018; 83 FR 66083, Dec. 26, 2018]

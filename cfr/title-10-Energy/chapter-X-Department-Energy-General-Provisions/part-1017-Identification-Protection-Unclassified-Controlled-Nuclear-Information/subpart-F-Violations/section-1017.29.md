@@ -8,7 +8,7 @@
 
 (b) *Compliance order.* If, without violating a requirement of any regulation issued under section 148, a person by an act or omission causes, or creates a risk of, the loss, compromise or unauthorized disclosure of UCNI, the Secretary may issue a compliance order to that person requiring the person to take corrective action and notifying the person that violation of the compliance order is subject to a notice of violation and assessment of a civil penalty. If a person wishes to contest the compliance order, the person must file a notice of appeal with the Secretary within 15 days of receipt of the compliance order.
 
-(c) *Amount of penalty.* The Director may propose imposition of a civil penalty for violation of a requirement of a regulation under paragraph (a) of this section or a compliance order issued under paragraph (b) of this section, not to exceed $264,093 for each violation.
+(c) *Amount of penalty.* The Director may propose imposition of a civil penalty for violation of a requirement of a regulation under paragraph (a) of this section or a compliance order issued under paragraph (b) of this section, not to exceed $270,753 for each violation.
 
 (d) *Settlements.* The Director may enter into a settlement, with or without conditions, of an enforcement proceeding at any time if the settlement is consistent with the objectives of DOE's UCNI protection requirements.
 
@@ -168,4 +168,4 @@
 
 (2) The Administrator shall act after consideration of the Director's recommendation. If the Administrator disagrees with the Director's recommendation, and the disagreement cannot be resolved by the two officials, the Director may refer the matter to the Deputy Secretary for resolution.
 
-[73 FR 32641, June 10, 2008, as amended at 74 FR 66033, Dec. 14, 2009; 79 FR 20, Jan. 2, 2014; 81 FR 41796, June 28, 2016; 81 FR 96353, Dec. 30, 2016; 83 FR 1293, Jan. 11, 2018]
+[73 FR 32641, June 10, 2008, as amended at 74 FR 66033, Dec. 14, 2009; 79 FR 20, Jan. 2, 2014; 81 FR 41796, June 28, 2016; 81 FR 96353, Dec. 30, 2016; 83 FR 1293, Jan. 11, 2018; 83 FR 66084, Dec. 26, 2018]

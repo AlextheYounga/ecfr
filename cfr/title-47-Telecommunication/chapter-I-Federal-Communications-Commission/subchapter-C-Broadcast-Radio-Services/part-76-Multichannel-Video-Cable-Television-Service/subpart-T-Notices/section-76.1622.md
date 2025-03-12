@@ -1,5 +1,7 @@
 ##### § 76.1622 Consumer education program on compatibility. #####
 
+Link to an amendment published at 83 FR 66158, Dec. 26, 2018.
+
 Cable system operators shall provide a consumer education program on compatibility matters to their subscribers in writing, as follows:
 
 (a) The consumer information program shall be provided to subscribers at the time they first subscribe and at least once a year thereafter. Cable operators may choose the time and means by which they comply with the annual consumer information requirement. This requirement may be satisfied by a once-a-year mailing to all subscribers. The information may be included in one of the cable system's regular subscriber billings.

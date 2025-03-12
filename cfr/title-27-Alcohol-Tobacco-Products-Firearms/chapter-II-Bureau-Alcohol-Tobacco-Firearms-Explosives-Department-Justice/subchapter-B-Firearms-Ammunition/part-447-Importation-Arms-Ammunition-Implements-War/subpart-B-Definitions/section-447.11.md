@@ -1,5 +1,7 @@
 ##### § 447.11 Meaning of terms. #####
 
+Link to an amendment published at 83 FR 66553, Dec. 26, 2018.
+
 When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meanings ascribed in this section. Words in the plural form shall include the singular, and vice versa, and words imparting the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude other things not enumerated which are in the same general class or are otherwise within the scope thereof.
 
 *Appropriate ATF officer.* An officer or employee of the Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF) specified by ATF Order 1130.34, Delegation of the Director's Authorities in 27 CFR Part 447, Importation of Arms, Ammunition and Implements of War.

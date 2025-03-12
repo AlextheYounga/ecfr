@@ -1,5 +1,7 @@
 ##### § 100.928 Special Local Regulations, Frogtown Race Regatta, Toledo, OH. #####
 
+Link to an amendment published at 83 FR 66131, Dec. 26, 2018.
+
 (a) *Regulated Area.* The regulated area includes all U.S. navigable waters of the Maumee River, Toledo, OH, from the Norfolk and Southern Railway Bridge at River Mile 1.80 to the Anthony Wayne Bridge at River Mile 5.16.
 
 (b) *Enforcement period.* This section will be enforced annually on the third or fourth Saturday of September. The exact dates and times would be issued annually via a Notice of Enforcement.

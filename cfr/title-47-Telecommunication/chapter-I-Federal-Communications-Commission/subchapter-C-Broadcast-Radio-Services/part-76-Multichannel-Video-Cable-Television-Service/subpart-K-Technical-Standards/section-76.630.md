@@ -1,5 +1,7 @@
 ##### § 76.630 Compatibility with consumer electronics equipment. #####
 
+Link to an amendment published at 83 FR 66157, Dec. 26, 2018.
+
 (a) Cable system operators shall not scramble or otherwise encrypt signals delivered to a subscriber on the basic service tier.
 
 (1) This prohibition shall not apply in systems in which:

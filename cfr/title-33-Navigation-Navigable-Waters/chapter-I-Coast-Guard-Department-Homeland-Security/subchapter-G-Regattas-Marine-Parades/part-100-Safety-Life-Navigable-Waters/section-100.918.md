@@ -1,5 +1,7 @@
 ##### § 100.918 Detroit APBA Gold Cup, Detroit, MI. #####
 
+Link to an amendment published at 83 FR 66131, Dec. 26, 2018.
+
 (a) *Regulated Area.* A regulated area is established to include all waters of the Detroit River, Belle Isle, Michigan, bound on the west by the Belle Isle Bridge (position 42°20′20″ N, 083°00′00″ W to 42°20′24″ N, 083°59′45″ W), and on the east by a north-south line drawn through Waterworks Intake Crib Light (Light List Number 8350; position 42°21′06″ N, 082°58′00″ W) (NAD 83).
 
 (b) *Special Local Regulations.* The regulations of § 100.901 apply. No vessel may enter, transit through, or anchor within the regulated area without the permission of the Coast Guard Patrol Commander.

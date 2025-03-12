@@ -736,21 +736,21 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 (u) *Compact fluorescent lamps.* (1) Medium Base Compact Fluorescent Lamps. A bare or covered (no reflector) medium base compact fluorescent lamp manufactured on or after January 1, 2006, must meet the following requirements:
 
-|                      Factor                       |                                                           Requirements                                                            |
-|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-|Labeled Wattage (Watts) & Configuration<sup>*</sup>|                                Measured initial lamp efficacy (lumens per watt) must be at least:                                 |
-|                    Bare Lamp:                     |                                                                                                                                   |
-|               Labeled Wattage \< 15               |                                                               45.0.                                                               |
-|               Labeled Wattage ≥ 15                |                                                               60.0.                                                               |
-|           Covered Lamp (no reflector):            |                                                                                                                                   |
-|               Labeled Wattage \< 15               |                                                               40.0.                                                               |
-|            15 ≤ Labeled Wattage \< 19             |                                                               48.0.                                                               |
-|            19 ≤ Labeled Wattage \< 25             |                                                               50.0.                                                               |
-|               Labeled Wattage ≥ 25                |                                                               55.0.                                                               |
-|         Lumen Maintenance at 1,000 Hours          |                                                              ≥90.0%.                                                              |
-| Lumen Maintenance at 40 Percent of Lifetime \*\*  |                                                              ≥80.0%.                                                              |
-|              Rapid Cycle Stress Test              |Each lamp must be cycled once for every 2 hours of lifetime.\*\* At least 5 lamps must meet or exceed the minimum number of cycles.|
-|                   Lifetime \*\*                   |                                                           ≥6,000 hours.                                                           |
+|                     Factor                     |                                                           Requirements                                                            |
+|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+|   Labeled Wattage (Watts) & Configuration \*   |                                Measured initial lamp efficacy (lumens per watt) must be at least:                                 |
+|                   Bare Lamp:                   |                                                                                                                                   |
+|             Labeled Wattage \< 15              |                                                               45.0.                                                               |
+|              Labeled Wattage ≥ 15              |                                                               60.0.                                                               |
+|          Covered Lamp (no reflector):          |                                                                                                                                   |
+|             Labeled Wattage \< 15              |                                                               40.0.                                                               |
+|           15 ≤ Labeled Wattage \< 19           |                                                               48.0.                                                               |
+|           19 ≤ Labeled Wattage \< 25           |                                                               50.0.                                                               |
+|              Labeled Wattage ≥ 25              |                                                               55.0.                                                               |
+|        Lumen Maintenance at 1,000 Hours        |                                                              ≥90.0%.                                                              |
+|Lumen Maintenance at 40 Percent of Lifetime \*\*|                                                              ≥80.0%.                                                              |
+|            Rapid Cycle Stress Test             |Each lamp must be cycled once for every 2 hours of lifetime.\*\* At least 5 lamps must meet or exceed the minimum number of cycles.|
+|                 Lifetime \*\*                  |                                                           ≥6,000 hours.                                                           |
 
 \* Use labeled wattage to determine the appropriate efficacy requirements in this table; do not use measured wattage for this purpose.
 
@@ -947,4 +947,4 @@ AV = Total adjusted volume, expressed in ft<sup>3</sup>, as calculated according
 
 (ii) Be sold at retail only in a package containing one lamp.
 
-[54 FR 6077, Feb. 7, 1989]Editorial Note:For Federal Register citations affecting § 430.32, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[54 FR 6077, Feb. 7, 1989]Editorial Note:For Federal Register citations affecting § 430.32, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

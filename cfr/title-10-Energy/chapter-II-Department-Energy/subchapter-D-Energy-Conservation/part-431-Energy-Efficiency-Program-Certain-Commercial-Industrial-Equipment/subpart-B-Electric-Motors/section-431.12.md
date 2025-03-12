@@ -82,7 +82,7 @@ The following definitions apply for purposes of this subpart, and of subparts U 
 
 (8) Includes, but is not limited to, explosion-proof construction.
 
-Note to Definition of General purpose electric motor (subtype I):
+Note to definition of General purpose electric motor (subtype I):
 
 References to “MG1” above refer to NEMA Standards Publication MG1-2009 (incorporated by reference in § 431.15). References to “IEC” above refer to IEC 60034-1, 60034-12, 60050-411, and 60072-1 (incorporated by reference in § 431.15), as applicable.
 
@@ -102,7 +102,7 @@ References to “MG1” above refer to NEMA Standards Publication MG1-2009 (inco
 
 (7) Is a polyphase motor with a voltage rating of not more than 600 volts, is not rated at 230 or 460 volts (or both), and cannot be operated on 230 or 460 volts (or both).
 
-Note to Definition of General purpose electric motor (subtype II):
+Note to definition of General purpose electric motor (subtype II):
 
 With the exception of the NEMA Motor Standards MG1-1967 (incorporated by reference in § 431.15), references to “MG1” above refer to the 2009 NEMA MG1-2009 (incorporated by reference in § 431.15). References to “IEC” above refer to IEC 60034-1, 60034-12, 60050-411, and 60072-1 (incorporated by reference in § 431.15), as applicable.
 

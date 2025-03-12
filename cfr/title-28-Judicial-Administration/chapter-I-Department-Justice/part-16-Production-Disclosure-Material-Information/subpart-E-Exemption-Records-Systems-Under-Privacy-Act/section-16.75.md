@@ -1,5 +1,7 @@
 ##### § 16.75 Exemption of the Office of the Inspector General Systems/Limited Access. #####
 
+Link to an amendment published at 83 FR 66126, Dec. 26, 2018.
+
 (a) The following system of records is exempted pursuant to the provisions of 5 U.S.C. 552a(j)(2) from subsections (c) (3) and (4), (d), (e)(1), (2), (3), (5), and (8), and (g) of 5 U.S.C. 552a. In addition, the following system of records is exempted pursuant to the provisions of 5 U.S.C. 552a(k)(1) and (k)(2) from subsections (c)(3), (d), and (e)(1) of 5 U.S.C. 552a:
 
 (1) Office of the Inspector General Investigative Records (JUSTICE/OIG-001).

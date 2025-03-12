@@ -1,5 +1,8 @@
-##### § 2.59 Designation of a Commissioner to act as a hearing examiner. #####
+##### § 2.59 Delegation to Commissioners. #####
 
-The Chairman may designate a Commissioner, with the Commissioner's consent, to serve as a hearing examiner on specified hearing dockets. The Commissioner who serves as a hearing examiner may not vote in the same proceeding as a Commissioner.
+There is hereby delegated to Commissioners the authority to conduct hearings, with the
+Commissioner's consent, and the powers enumerated in 18 U.S.C. 4203(b) to grant or deny
+parole or mandatory release, impose reasonable conditions of parole or mandatory release,
+modify or revoke parole or mandatory release.
 
-[60 FR 40094, Aug. 7, 1995]
+[83 FR 66125, Dec. 26, 2018]
