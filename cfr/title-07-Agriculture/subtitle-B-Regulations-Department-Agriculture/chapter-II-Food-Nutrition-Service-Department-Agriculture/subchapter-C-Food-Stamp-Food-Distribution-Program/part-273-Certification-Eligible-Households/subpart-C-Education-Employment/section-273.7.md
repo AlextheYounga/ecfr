@@ -1,6 +1,6 @@
 ##### § 273.7 Work provisions. #####
 
-Link to an amendment published at 82 FR 2038, Jan. 6, 2017.
+Link to an amendment published at 82 FR 2038, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
 
 (a) *Work requirements.* (1) As a condition of eligibility for food stamps, each household member not exempt under paragraph (b)(1) of this section must comply with the following Food Stamp Program work requirements:
 

@@ -1,6 +1,6 @@
 ##### § 200.60 Expenditures for professional development. #####
 
-Link to an amendment published at 81 FR 86241, November 29, 2016.
+Link to an amendment published at 81 FR 86241, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a)(1) Except as provided in paragraph (a)(2) of this section, an LEA must use funds it receives under subpart A of this part as follows for professional development activities to ensure that teachers and paraprofessionals meet the requirements of §§ 200.56 and 200.58:
 

@@ -1,6 +1,6 @@
 ##### § 272.3 Operating guidelines and forms. #####
 
-Link to an amendment published at 82 FR 2035, Jan. 6, 2017.
+Link to an amendment published at 82 FR 2035, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
 
 (a) *Coverage of operating guidelines.* State agencies shall prepare and provide to staff responsible for administering the Program written operating procedures. In those States which have State regulations that outline these Operating Procedures, these are equivalent to Operating Guidelines. Other examples of Operating Guidelines are manuals, instructions, directives or transmittal memos. The following categories shall be included in the Operating Guidelines:
 

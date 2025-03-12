@@ -1,6 +1,6 @@
 ##### § 200.63 Consultation. #####
 
-Link to an amendment published at 81 FR 86241, November 29, 2016.Link to an amendment published at 81 FR 86242, November 29, 2016.
+Link to an amendment published at 81 FR 86241, November 29, 2016.Link to an amendment published at 81 FR 86242, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) In order to have timely and meaningful consultation, an LEA must consult with appropriate officials of private schools during the design and development of the LEA's program for eligible private school children.
 

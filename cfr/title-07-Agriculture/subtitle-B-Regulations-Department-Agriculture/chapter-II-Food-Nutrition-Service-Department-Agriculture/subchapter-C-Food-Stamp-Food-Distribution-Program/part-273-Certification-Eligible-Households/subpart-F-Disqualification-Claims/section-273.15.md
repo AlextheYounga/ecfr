@@ -1,6 +1,6 @@
 ##### § 273.15 Fair hearings. #####
 
-Link to an amendment published at 82 FR 2042, Jan. 6, 2017.
+Link to an amendment published at 82 FR 2042, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
 
 (a) *Availability of hearings.* Except as provided in § 271.7(f), each State agency shall provide a fair hearing to any household aggrieved by any action of the State agency which affects the participation of the houshold in the Program.
 

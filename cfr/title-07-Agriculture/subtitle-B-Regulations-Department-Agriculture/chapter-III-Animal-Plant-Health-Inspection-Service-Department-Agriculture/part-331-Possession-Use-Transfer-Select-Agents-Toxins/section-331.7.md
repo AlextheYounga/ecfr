@@ -1,6 +1,6 @@
 ##### § 331.7 Registration and related security risk assessments. #####
 
-Link to an amendment published at 82 FR 6205, January 19, 2017.
+Link to an amendment published at 82 FR 6205, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10855, Feb. 16, 2017.
 
 (a) Unless exempted under § 331.5, an individual or entity shall not possess, use, or transfer any select agent or toxin without a certificate of registration issued by the Administrator.
 

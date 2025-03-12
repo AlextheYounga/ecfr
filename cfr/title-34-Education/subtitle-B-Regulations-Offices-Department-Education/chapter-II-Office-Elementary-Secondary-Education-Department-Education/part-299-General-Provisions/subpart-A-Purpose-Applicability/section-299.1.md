@@ -1,6 +1,6 @@
 ##### § 299.1 What are the purpose and scope of these regulations? #####
 
-Link to an amendment published at 81 FR 86242, November 29, 2016.
+Link to an amendment published at 81 FR 86242, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) This part establishes uniform administrative rules for programs in titles I through XIII of the Elementary and Secondary Education Act of 1965, as amended (ESEA). As indicated in particular sections of this part, certain provisions apply only to a specific group of programs.
 

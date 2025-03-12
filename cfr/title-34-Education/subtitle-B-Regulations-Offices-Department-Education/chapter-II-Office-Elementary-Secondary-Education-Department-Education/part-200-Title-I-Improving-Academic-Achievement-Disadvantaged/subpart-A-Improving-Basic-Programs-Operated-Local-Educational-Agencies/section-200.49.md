@@ -1,6 +1,6 @@
 ##### § 200.49 SEA responsibilities for school improvement, corrective action, and restructuring. #####
 
-Link to an amendment published at 81 FR 86241, November 29, 2016.
+Link to an amendment published at 81 FR 86241, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) *Transition requirements for public school choice and supplemental educational services.* (1) Except as described in §§ 200.32(d) and 200.33(c), if a school was in school improvement or subject to corrective action on January 7, 2002, the SEA must ensure that the LEA for that school provides public school choice in accordance with § 200.44 not later than the first day of the 2002-2003 school year.
 

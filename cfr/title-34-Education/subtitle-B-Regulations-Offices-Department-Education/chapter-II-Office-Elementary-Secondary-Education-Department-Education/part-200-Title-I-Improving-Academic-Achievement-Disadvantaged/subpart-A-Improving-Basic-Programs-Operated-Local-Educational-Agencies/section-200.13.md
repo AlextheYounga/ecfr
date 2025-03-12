@@ -1,6 +1,6 @@
 ##### § 200.13 Adequate yearly progress in general. #####
 
-Link to an amendment published at 81 FR 86222, November 29, 2016.
+Link to an amendment published at 81 FR 86222, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) Each State must demonstrate in its State plan what constitutes AYP of the State and of all public schools and LEAs in the State -
 

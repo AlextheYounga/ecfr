@@ -1,6 +1,6 @@
 ##### § 200.58 Qualifications of paraprofessionals. #####
 
-Link to an amendment published at 81 FR 86241, November 29, 2016.
+Link to an amendment published at 81 FR 86241, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) *Applicability.* (1) An LEA must ensure that each paraprofessional who is hired by the LEA and who works in a program supported with funds under subpart A of this part meets the requirements in paragraph (b) of this section and, except as provided in paragraph (e) of this section, the requirements in either paragraph (c) or (d) of this section.
 

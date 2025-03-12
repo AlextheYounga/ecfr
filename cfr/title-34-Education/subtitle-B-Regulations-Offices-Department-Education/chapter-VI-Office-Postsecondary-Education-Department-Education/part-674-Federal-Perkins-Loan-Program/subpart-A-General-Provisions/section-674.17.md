@@ -1,6 +1,6 @@
-##### § 674.17 Federal interest in allocated funds - transfer of Fund. #####
+##### § 674.17 Federal interest in allocated funds—transfer of Fund. #####
 
-(a) If an institution responsible for a Federal Perkins Loan fund closes or no longer wants to participate in the program, the Secretary directs the institution to take one of the following steps to protect the outstanding loans and the Federal interest in that Fund:
+(a) If an institution responsible for a Federal Perkins Loan fund closes or no longer wants to participate in the program, the Secretary directs the institution to take the following steps to protect the outstanding loans and the Federal interest in that Fund:
 
 (1) A capital distribution of the liquid assets of the Fund according to section 466(c) of the Act.
 

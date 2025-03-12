@@ -1,4 +1,4 @@
-##### § 1468.23 Cooperative agreements. #####
+##### § 1468.23 ALE-agreementsagreements. #####
 
 (a) NRCS will enter into a ALE-agreement with selected eligible entities that stipulates the terms and conditions under which the eligible entity is permitted to use ACEP-ALE funding, and will incorporate all ACEP-ALE requirements. NRCS will make a ALE-agreement template available to the eligible entities. The ALE-agreement will address:
 

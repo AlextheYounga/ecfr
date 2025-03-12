@@ -1,6 +1,6 @@
 ##### § 200.20 Making adequate yearly progress. #####
 
-Link to an amendment published at 81 FR 86229, November 29, 2016.
+Link to an amendment published at 81 FR 86229, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 A school or LEA makes AYP if it complies with paragraph (c) and with either paragraph (a) or (b) of this section separately in reading/language arts and in mathematics.
 

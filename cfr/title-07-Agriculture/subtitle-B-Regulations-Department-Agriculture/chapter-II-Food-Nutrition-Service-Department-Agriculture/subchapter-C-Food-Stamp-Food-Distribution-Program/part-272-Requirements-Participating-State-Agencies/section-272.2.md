@@ -1,6 +1,6 @@
 ##### § 272.2 Plan of operation. #####
 
-Link to an amendment published at 82 FR 2035, Jan. 6, 2017.
+Link to an amendment published at 82 FR 2035, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
 
 (a) *General purpose and content* - (1) *Purpose.* State agencies shall periodically plan and budget program operations and establish objectives. When planning and budgeting for program operations for the next year, State agencies shall consider major corrective action objectives, existing program strengths and deficiencies, and other factors anticipated to impact on the operation of the State's Food Stamp Program and on projected expenditures.
 

@@ -1,6 +1,6 @@
 ##### § 273.5 Students. #####
 
-Link to an amendment published at 82 FR 2038, Jan. 6, 2017.
+Link to an amendment published at 82 FR 2038, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
 
 (a) *Applicability.* An individual who is enrolled at least half-time in an institution of higher education shall be ineligible to participate in the Food Stamp Program unless the individual qualifies for one of the exemptions contained in paragraph (b) of this section. An individual is considered to be enrolled in an institution of higher education if the individual is enrolled in a business, technical, trade, or vocational school that normally requires a high school diploma or equivalency certificate for enrollment in the curriculum or if the individual is enrolled in a regular curriculum at a college or university that offers degree programs regardless of whether a high school diploma is required.
 

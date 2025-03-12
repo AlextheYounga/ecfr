@@ -1,6 +1,6 @@
 ##### § 273.29 Transitional notice requirements. #####
 
-Link to an amendment published at 82 FR 2044, Jan. 6, 2017.
+Link to an amendment published at 82 FR 2044, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
 
 The State agency must issue a transitional notice (TN) to the household that includes the following information:
 

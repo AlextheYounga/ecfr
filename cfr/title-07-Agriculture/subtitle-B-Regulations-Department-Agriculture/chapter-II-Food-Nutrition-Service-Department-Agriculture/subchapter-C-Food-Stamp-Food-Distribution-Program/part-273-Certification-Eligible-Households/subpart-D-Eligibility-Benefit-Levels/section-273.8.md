@@ -1,6 +1,6 @@
 ##### § 273.8 Resource eligibility standards. #####
 
-Link to an amendment published at 82 FR 2038, Jan. 6, 2017.
+Link to an amendment published at 82 FR 2038, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
 
 (a) *Uniform standards.* The State agency shall apply the uniform national resource standards of eligibility to all applicant households, including those households in which members are recipients of federally aided public assistance, general assistance, or supplemental security income. Households which are categorically eligible as defined in § 273.2(j)(2) or 273.2(j)(4) do not have to meet the resource limits or definitions in this section.
 

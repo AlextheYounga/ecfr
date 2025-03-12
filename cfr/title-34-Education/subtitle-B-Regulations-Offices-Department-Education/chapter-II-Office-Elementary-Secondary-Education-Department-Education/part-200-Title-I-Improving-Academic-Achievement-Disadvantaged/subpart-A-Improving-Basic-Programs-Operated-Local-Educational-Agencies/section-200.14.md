@@ -1,6 +1,6 @@
 ##### § 200.14 Components of Adequate Yearly Progress. #####
 
-Link to an amendment published at 81 FR 86223, November 29, 2016.
+Link to an amendment published at 81 FR 86223, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 A State's definition of AYP must include all of the following:
 

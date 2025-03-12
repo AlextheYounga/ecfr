@@ -1,6 +1,6 @@
 ##### § 273.10 Determining household eligibility and benefit levels. #####
 
-Link to an amendment published at 82 FR 2039, Jan. 6, 2017.
+Link to an amendment published at 82 FR 2039, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
 
 (a) *Month of application* - (1) *Determination of eligibility and benefit levels.* (i) A household's eligibility shall be determined for the month of application by considering the household's circumstances for the entire month of application. Most households will have the eligibility determination based on circumstances for the entire calendar month in which the household filed its application. However, State agencies may, with the prior approval of FNS, use a fiscal month if the State agency determines that it is more efficient and satisfies FNS that the accounting procedures fully comply with certification and issuance requirements contained in these regulations. A State agency may elect to use either a standard fiscal month for all households, such as from the 15th of one calendar month to the 15th of the next calendar month, or a fiscal month that will vary for each household depending on the date an individual files an application for the Program. Applicant households consisting of residents of a public institution who apply jointly for SSI and food stamps prior to release from the public institution in accordance with § 273.1(e)(2) will have their eligibility determined for the month in which the applicant household was released from the institution.
 

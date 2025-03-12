@@ -1,6 +1,6 @@
 ##### § 200.30 Local review. #####
 
-Link to an amendment published at 81 FR 86236, November 29, 2016.
+Link to an amendment published at 81 FR 86236, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) Each LEA receiving funds under subpart A of this part must use the results of the State assessment system described in § 200.2 to review annually the progress of each school served under subpart A of this part to determine whether the school is making AYP in accordance with § 200.20.
 

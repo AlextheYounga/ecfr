@@ -1,6 +1,6 @@
 ##### § 200.79 Exclusion of supplemental State and local funds from supplement, not supplant and comparability determinations. #####
 
-Link to an amendment published at 81 FR 86242, November 29, 2016.
+Link to an amendment published at 81 FR 86242, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) For the purpose of determining compliance with the supplement not supplant requirement in section 1120A(b) and the comparability requirement in section 1120A(c) of the ESEA, a grantee or subgrantee under subpart A of this part may exclude supplemental State and local funds spent in any school attendance area or school for programs that meet the intent and purposes of Title I.
 

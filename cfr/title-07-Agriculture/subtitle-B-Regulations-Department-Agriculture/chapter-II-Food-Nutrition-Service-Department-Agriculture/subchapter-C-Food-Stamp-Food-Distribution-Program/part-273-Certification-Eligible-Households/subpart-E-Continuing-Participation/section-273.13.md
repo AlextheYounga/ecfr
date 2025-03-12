@@ -1,6 +1,6 @@
 ##### § 273.13 Notice of adverse action. #####
 
-Link to an amendment published at 82 FR 2042, Jan. 6, 2017.
+Link to an amendment published at 82 FR 2042, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
 
 (a) *Use of notice.* Prior to any action to reduce or terminate a household's benefits within the certification period, the State agency shall, except as provided in paragraph (b) of this section, provide the household timely and adequate advance notice before the adverse action is taken.
 

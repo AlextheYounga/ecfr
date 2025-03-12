@@ -1,6 +1,6 @@
 ##### § 200.38 Information about action taken. #####
 
-Link to an amendment published at 81 FR 86241, November 29, 2016.
+Link to an amendment published at 81 FR 86241, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) An LEA must publish and disseminate to the parents of each student enrolled in the school, consistent with the requirements of § 200.36, and to the public information regarding any action taken by a school and the LEA to address the problems that led to the LEA's identification of the school for improvement, corrective action, or restructuring.
 

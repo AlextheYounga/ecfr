@@ -1,5 +1,5 @@
 ##### § 966.234 Assessment rate. #####
 
-On and after August 1, 2015, an assessment rate of $0.03 per 25-pound container is established for Florida tomatoes.
+On and after August 1, 2016, an assessment rate of $0.035 per 25-pound carton is established for Florida tomatoes.
 
-[80 FR 73644, Nov. 25, 2015]
+[82 FR 13743, Mar. 15, 2017]

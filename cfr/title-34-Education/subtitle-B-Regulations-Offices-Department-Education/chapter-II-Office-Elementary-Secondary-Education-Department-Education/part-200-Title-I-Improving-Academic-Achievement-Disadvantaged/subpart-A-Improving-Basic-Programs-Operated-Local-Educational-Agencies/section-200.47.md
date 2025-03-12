@@ -1,6 +1,6 @@
 ##### § 200.47 SEA responsibilities for supplemental educational services. #####
 
-Link to an amendment published at 81 FR 86241, November 29, 2016.
+Link to an amendment published at 81 FR 86241, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) If one or more LEAs in a State are required to make available supplemental educational services under § 200.39(b)(3), § 200.42(b)(3), or § 200.43(b)(2), the SEA for that State must do the following:
 

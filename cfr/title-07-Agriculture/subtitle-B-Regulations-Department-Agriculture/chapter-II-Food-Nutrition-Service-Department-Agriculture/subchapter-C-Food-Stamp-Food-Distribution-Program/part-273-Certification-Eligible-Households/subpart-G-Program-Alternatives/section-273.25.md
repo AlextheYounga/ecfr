@@ -1,6 +1,6 @@
 ##### § 273.25 Simplified Food Stamp Program. #####
 
-Link to an amendment published at 82 FR 2043, Jan. 6, 2017.
+Link to an amendment published at 82 FR 2043, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
 
 (a) *Definitions.* For purposes of this section:
 

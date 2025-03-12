@@ -1,6 +1,6 @@
 ##### § 200.33 Identification for corrective action. #####
 
-Link to an amendment published at 81 FR 86238, November 29, 2016.
+Link to an amendment published at 81 FR 86238, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) If a school served by an LEA under subpart A of this part fails to make AYP by the end of the second full school year after the LEA has identified the school for improvement under § 200.32(a) or (b), or by the end of the first full school year after the LEA has identified the school for improvement under § 200.32(c), the LEA must identify the school for corrective action under § 200.42.
 

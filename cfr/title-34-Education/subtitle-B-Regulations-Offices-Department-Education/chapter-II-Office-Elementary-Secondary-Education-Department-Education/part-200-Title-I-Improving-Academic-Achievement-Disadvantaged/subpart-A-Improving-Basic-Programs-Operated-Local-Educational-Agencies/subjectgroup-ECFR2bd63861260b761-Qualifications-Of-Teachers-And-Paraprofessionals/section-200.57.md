@@ -1,6 +1,6 @@
 ##### § 200.57 Plans to increase teacher quality. #####
 
-Link to an amendment published at 81 FR 86241, November 29, 2016.
+Link to an amendment published at 81 FR 86241, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) *State plan.* (1) A State that receives funds under subpart A of this part must develop, as part of its State plan under section 1111 of the ESEA, a plan to ensure that all public elementary and secondary school teachers in the State who teach core academic subjects are highly qualified not later than the end of the 2005-2006 school year.
 

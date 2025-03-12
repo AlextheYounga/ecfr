@@ -1,6 +1,6 @@
 ##### § 200.43 Restructuring. #####
 
-Link to an amendment published at 81 FR 86241, November 29, 2016.
+Link to an amendment published at 81 FR 86241, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) *Definition.* “Restructuring” means a major reorganization of a school's governance arrangement by an LEA that -
 

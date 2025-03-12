@@ -1,6 +1,6 @@
 ##### § 200.56 Definition of “highly qualified teacher.” #####
 
-Link to an amendment published at 81 FR 86241, November 29, 2016.
+Link to an amendment published at 81 FR 86241, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 A teacher described in § 200.55(a) and (b)(1) is a “highly qualified teacher” if the teacher meets the requirements in paragraph (a) and paragraph (b), (c), or (d) of this section.
 

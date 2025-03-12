@@ -1,6 +1,6 @@
 ##### § 200.48 Funding for choice-related transportation and supplemental educational services. #####
 
-Link to an amendment published at 81 FR 86241, November 29, 2016.
+Link to an amendment published at 81 FR 86241, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) *Amounts required.* (1) To pay for choice-related transportation and supplemental educational services required under section 1116 of the ESEA, an LEA may use -
 

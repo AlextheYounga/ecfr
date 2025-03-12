@@ -1,8 +1,6 @@
-##### § 222.164 What procedures does the Secretary follow in making a determination under section 8009? #####
+##### § 222.164 What procedures does the Secretary follow in making a determination under section 7009? #####
 
-Link to an amendment published at 81 FR 64745, September 20, 2016.
-
-(a) *Initiation.* (1) A proceeding under this subpart leading to a determination by the Secretary under section 8009 may be initiated -
+(a) *Initiation.* (1) A proceeding under this subpart leading to a determination by the Secretary under section 8009 may be initiated—
 
 (i) By the State educational agency (SEA) or other appropriate agency of the State;
 
@@ -10,11 +8,11 @@ Link to an amendment published at 81 FR 64745, September 20, 2016.
 
 (iii) By the Secretary, if the Secretary has reason to believe that the State's action is in violation of section 8009.
 
-(2) Whenever a proceeding under this subpart is initiated, the party initiating the proceeding shall give adequate notice to the State and all LEAs in the State and provide them with a complete copy of the submission initiating the proceeding. In addition, the party initiating the proceeding shall notify the State and all LEAs in the State of their right to request from the Secretary, within 30 days of the initiation of a proceeding, the opportunity to present their views to the Secretary before the Secretary makes a determination.
+(2) Whenever a proceeding under this subpart is initiated, the party initiating the proceeding shall provide either the State or all LEAs with a complete copy of the submission required in paragraph (b) of this section. Following receipt of the submission, the Secretary shall notify the State and all LEAs in the State of their right to request from the Secretary, within 30 days of the initiation of a proceeding, the opportunity to present their views to the Secretary before the Secretary makes a determination.
 
 (b) *Submission.* (1) A submission by a State or LEA under this section must be made in the manner requested by the Secretary and must contain the information and assurances as may be required by the Secretary in order to reach a determination under section 8009 and this subpart.
 
-(2)(i) A State in a submission shall -
+(2)(i) A State in a submission shall—
 
 (A) Demonstrate how its State aid program comports with § 222.162; and
 
@@ -42,4 +40,4 @@ Link to an amendment published at 81 FR 64745, September 20, 2016.
 
 The U.S. Postal Service does not uniformly provide a dated postmark. Before relying on this method, an applicant should check with its local post office.
 
-[60 FR 50778, Sept. 29, 1995, as amended at 62 FR 35419, July 1, 1997]
+[60 FR 50778, Sept. 29, 1995, as amended at 62 FR 35419, July 1, 1997; 81 FR 64745, Sept. 20, 2016]

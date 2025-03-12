@@ -1,6 +1,6 @@
 ##### § 273.27 General administrative guidelines. #####
 
-Link to an amendment published at 82 FR 2044, Jan. 6, 2017.
+Link to an amendment published at 82 FR 2044, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
 
 (a) When a household leaves TANF, the State agency may freeze for up to 5 months the household's benefit amount after making an adjustment for the loss of TANF. This is the household's transitional period. To provide the full transitional period, the State agency may extend the certification period for up to 5 months and may extend the household's certification period beyond the maximum periods specified in § 273.10(f). Before initiating the transitional period, the State agency must recalculate the household's food stamp benefit amount by removing the TANF payment from the household's food stamp income. At its option, the State agency may also adjust the benefit to account for:
 

@@ -1,6 +1,6 @@
 ##### § 200.35 Delay and removal. #####
 
-Link to an amendment published at 81 FR 86240, November 29, 2016.
+Link to an amendment published at 81 FR 86240, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) *Delay.* (1) An LEA may delay, for a period not to exceed one year, implementation of requirements under the second year of school improvement, under corrective action, or under restructuring if -
 

@@ -1,6 +1,6 @@
 ##### § 200.39 Responsibilities resulting from identification for school improvement. #####
 
-Link to an amendment published at 81 FR 86241, November 29, 2016.
+Link to an amendment published at 81 FR 86241, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) If an LEA identifies a school for school improvement under § 200.32 -
 

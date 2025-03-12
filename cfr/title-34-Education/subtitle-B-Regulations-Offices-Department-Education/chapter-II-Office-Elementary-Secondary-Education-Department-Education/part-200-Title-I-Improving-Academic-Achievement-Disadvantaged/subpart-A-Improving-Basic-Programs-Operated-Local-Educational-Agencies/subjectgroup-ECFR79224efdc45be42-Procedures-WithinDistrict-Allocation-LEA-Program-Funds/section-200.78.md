@@ -1,6 +1,6 @@
 ##### § 200.78 Allocation of funds to school attendance areas and schools. #####
 
-Link to an amendment published at 81 FR 86242, November 29, 2016.
+Link to an amendment published at 81 FR 86242, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a)(1) An LEA must allocate funds under subpart A of this part to school attendance areas and schools, identified as eligible and selected to participate under section 1113(a) or (b) of the ESEA, in rank order on the basis of the total number of children from low-income families in each area or school.
 

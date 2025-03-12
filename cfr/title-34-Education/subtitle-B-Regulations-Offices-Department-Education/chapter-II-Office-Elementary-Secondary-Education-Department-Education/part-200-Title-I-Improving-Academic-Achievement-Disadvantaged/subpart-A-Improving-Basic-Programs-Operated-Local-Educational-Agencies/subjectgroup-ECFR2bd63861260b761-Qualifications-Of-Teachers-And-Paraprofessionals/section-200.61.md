@@ -1,6 +1,6 @@
 ##### § 200.61 Parents' right to know. #####
 
-Link to an amendment published at 81 FR 86241, November 29, 2016.Link to an amendment published at 81 FR 86242, November 29, 2016.
+Link to an amendment published at 81 FR 86241, November 29, 2016.Link to an amendment published at 81 FR 86242, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) At the beginning of each school year, an LEA that receives funds under subpart A of this part must notify the parents of each student attending a Title I school that the parents may request, and the LEA will provide the parents on request, information regarding the professional qualifications of the student's classroom teachers, including, at a minimum, the following:
 

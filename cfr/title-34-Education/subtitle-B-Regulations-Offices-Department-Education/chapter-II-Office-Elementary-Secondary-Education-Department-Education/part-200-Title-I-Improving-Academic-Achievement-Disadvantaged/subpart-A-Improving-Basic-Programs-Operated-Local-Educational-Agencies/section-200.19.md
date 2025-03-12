@@ -1,6 +1,6 @@
 ##### § 200.19 Other academic indicators. #####
 
-Link to an amendment published at 81 FR 86228, November 29, 2016.
+Link to an amendment published at 81 FR 86228, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) *Elementary and middle schools* - (1) *Choice of indicator.* To determine AYP, consistent with § 200.14(e), each State must use at least one other academic indicator for public elementary schools and at least one other academic indicator for public middle schools, such as those in paragraph (c) of this section.
 

@@ -1,6 +1,6 @@
 ##### § 273.14 Recertification. #####
 
-Link to an amendment published at 82 FR 2042, Jan. 6, 2017.
+Link to an amendment published at 82 FR 2042, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
 
 (a) *General.* No household may participate beyond the expiration of the certification period assigned in accordance with § 273.10(f) without a determination of eligibility for a new period. The State agency must establish procedures for notifying households of expiration dates, providing application forms, scheduling interviews, and recertifying eligible households prior to the expiration of certification periods. Households must apply for recertification and comply with interview and verification requirements.
 

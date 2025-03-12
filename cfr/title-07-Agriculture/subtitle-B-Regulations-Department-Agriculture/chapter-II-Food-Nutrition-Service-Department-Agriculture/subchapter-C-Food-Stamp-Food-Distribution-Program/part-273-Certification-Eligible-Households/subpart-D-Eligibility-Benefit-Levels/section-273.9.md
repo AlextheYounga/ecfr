@@ -1,6 +1,6 @@
 ##### § 273.9 Income and deductions. #####
 
-Link to an amendment published at 82 FR 2039, Jan. 6, 2017.
+Link to an amendment published at 82 FR 2039, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
 
 (a) *Income eligibility standards.* Participation in the Program shall be limited to those households whose incomes are determined to be a substantial limiting factor in permitting them to obtain a more nutritious diet. Households which contain an elderly or disabled member shall meet the net income eligiblity standards for the Food Stamp Program. Households which do not contain an elderly or disabled member shall meet both the net income eligibility standards and the gross income eligibility standards for the Food Stamp Program. Households which are categorically eligible as defined in § 273.2(j)(2) or 273.2(j)(4) do not have to meet either the gross or net income eligibility standards. The net and gross income eligibility standards shall be based on the Federal income poverty levels established as provided in section 673(2) of the Community Services Block Grant Act (42 U.S.C. 9902(2)).
 

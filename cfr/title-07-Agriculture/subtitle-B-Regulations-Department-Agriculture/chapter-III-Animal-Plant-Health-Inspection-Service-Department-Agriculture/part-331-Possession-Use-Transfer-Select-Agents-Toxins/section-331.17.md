@@ -1,6 +1,6 @@
 ##### § 331.17 Records. #####
 
-Link to an amendment published at 82 FR 6206, January 19, 2017.
+Link to an amendment published at 82 FR 6206, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10855, Feb. 16, 2017.
 
 (a) An individual or entity required to register under this part must maintain complete records relating to the activities covered by this part. Such records must include:
 

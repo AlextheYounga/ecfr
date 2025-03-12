@@ -1,6 +1,6 @@
 ##### § 200.55 Qualifications of teachers. #####
 
-Link to an amendment published at 81 FR 86241, November 29, 2016.
+Link to an amendment published at 81 FR 86241, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) *Newly hired teachers in Title I programs.* (1) An LEA must ensure that all teachers hired after the first day of the 2002-2003 school year who teach core academic subjects in a program supported with funds under subpart A of this part are highly qualified as defined in § 200.56.
 

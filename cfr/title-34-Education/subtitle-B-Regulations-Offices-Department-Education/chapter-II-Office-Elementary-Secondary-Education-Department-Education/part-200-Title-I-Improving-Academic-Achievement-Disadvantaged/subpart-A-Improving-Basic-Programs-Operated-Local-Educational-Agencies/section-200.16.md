@@ -1,6 +1,6 @@
 ##### § 200.16 Starting points. #####
 
-Link to an amendment published at 81 FR 86224, November 29, 2016.
+Link to an amendment published at 81 FR 86224, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) Using data from the 2001-2002 school year, each State must establish starting points in reading/language arts and in mathematics for measuring the percentage of students meeting or exceeding the State's proficient level of academic achievement.
 

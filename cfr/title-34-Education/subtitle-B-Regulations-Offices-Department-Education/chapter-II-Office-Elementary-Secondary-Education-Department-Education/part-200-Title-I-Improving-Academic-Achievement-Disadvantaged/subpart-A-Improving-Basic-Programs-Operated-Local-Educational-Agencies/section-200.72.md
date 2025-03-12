@@ -1,6 +1,6 @@
 ##### § 200.72 Procedures for adjusting allocations determined by the Secretary to account for eligible LEAs not on the Census list. #####
 
-Link to an amendment published at 81 FR 86242, November 29, 2016.
+Link to an amendment published at 81 FR 86242, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) *General.* For each LEA not on the Census list (hereinafter referred to as a “new” LEA), an SEA must determine the number of formula children and the number of children ages 5 to 17, inclusive, in that LEA.
 

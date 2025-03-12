@@ -1,6 +1,6 @@
 ##### § 200.40 Technical assistance. #####
 
-Link to an amendment published at 81 FR 86241, November 29, 2016.
+Link to an amendment published at 81 FR 86241, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) An LEA that identifies a school for improvement under § 200.32 must ensure that the school receives technical assistance as the school develops and implements its improvement plan under § 200.41 and throughout the plan's duration.
 

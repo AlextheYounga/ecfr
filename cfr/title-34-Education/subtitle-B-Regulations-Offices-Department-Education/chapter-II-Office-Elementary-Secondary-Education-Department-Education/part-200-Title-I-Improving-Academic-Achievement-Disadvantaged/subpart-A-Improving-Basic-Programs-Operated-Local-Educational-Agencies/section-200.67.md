@@ -1,6 +1,6 @@
 ##### § 200.67 Requirements concerning property, equipment, and supplies for the benefit of private school children. #####
 
-Link to an amendment published at 81 FR 86242, November 29, 2016.
+Link to an amendment published at 81 FR 86242, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) The LEA must keep title to and exercise continuing administrative control of all property, equipment, and supplies that the LEA acquires with funds under subpart A of this part for the benefit of eligible private school children.
 

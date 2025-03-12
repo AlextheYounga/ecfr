@@ -1,6 +1,6 @@
 ##### § 200.7 Disaggregation of data. #####
 
-Link to an amendment published at 81 FR 86221, November 29, 2016.
+Link to an amendment published at 81 FR 86221, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) *Statistically reliable information.* (1) A State may not use disaggregated data for one or more subgroups under § 200.2(b)(10) to report achievement results under section 1111(h) of the Act or to identify schools in need of improvement, corrective action, or restructuring under section 1116 of the Act if the number of students in those subgroups is insufficient to yield statistically reliable information.
 

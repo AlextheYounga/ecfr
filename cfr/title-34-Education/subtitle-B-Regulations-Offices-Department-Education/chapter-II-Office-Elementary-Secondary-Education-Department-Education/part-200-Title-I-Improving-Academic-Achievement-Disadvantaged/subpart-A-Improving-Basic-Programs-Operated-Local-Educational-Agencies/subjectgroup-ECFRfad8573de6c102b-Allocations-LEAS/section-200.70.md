@@ -1,6 +1,6 @@
 ##### § 200.70 Allocation of funds to LEAs in general. #####
 
-Link to an amendment published at 81 FR 86242, November 29, 2016.
+Link to an amendment published at 81 FR 86242, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) The Secretary allocates basic grants, concentration grants, targeted grants, and education finance incentive grants, through SEAs, to each eligible LEA for which the Bureau of the Census has provided data on the number of children from low-income families residing in the school attendance areas of the LEA (hereinafter referred to as the “Census list”).
 

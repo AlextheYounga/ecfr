@@ -1,6 +1,6 @@
 ##### § 200.37 Notice of identification for improvement, corrective action, or restructuring. #####
 
-Link to an amendment published at 81 FR 86241, November 29, 2016.
+Link to an amendment published at 81 FR 86241, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) If an LEA identifies a school for improvement or subjects the school to corrective action or restructuring, the LEA must, consistent with the requirements of § 200.36, promptly notify the parent or parents of each child enrolled in the school of this identification.
 

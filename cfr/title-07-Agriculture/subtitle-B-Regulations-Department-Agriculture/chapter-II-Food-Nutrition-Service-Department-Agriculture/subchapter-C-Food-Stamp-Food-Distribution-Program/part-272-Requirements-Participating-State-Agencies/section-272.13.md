@@ -1,6 +1,6 @@
 ##### § 272.13 Prisoner verification system (PVS). #####
 
-Link to an amendment published at 82 FR 2035, Jan. 6, 2017.
+Link to an amendment published at 82 FR 2035, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
 
 (a) *General.* Each State agency shall establish a system to monitor and prevent individuals who are being held in any Federal, State, and/or local detention or correctional institutions for more than 30 days from being included in a SNAP household.
 

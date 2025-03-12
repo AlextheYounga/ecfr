@@ -1,6 +1,6 @@
 ##### § 200.31 Opportunity to review school-level data. #####
 
-Link to an amendment published at 81 FR 86237, November 29, 2016.
+Link to an amendment published at 81 FR 86237, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) Before identifying a school for school improvement, corrective action, or restructuring, an LEA must provide the school with an opportunity to review the school-level data, including academic assessment data, on which the proposed identification is based.
 

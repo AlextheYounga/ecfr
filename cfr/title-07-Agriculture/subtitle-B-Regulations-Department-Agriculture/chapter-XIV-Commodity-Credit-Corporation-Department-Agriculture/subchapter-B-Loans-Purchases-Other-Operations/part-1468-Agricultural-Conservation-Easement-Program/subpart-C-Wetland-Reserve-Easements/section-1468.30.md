@@ -6,7 +6,7 @@
 
 (3) NRCS may provide financial assistance through an easement restoration agreement for the conservation practices and activities that promote the restoration, protection, enhancement, maintenance, and management of wetland functions and values and associated habitats.
 
-(4) For ACEP-WRE enrollments, NRCS may implement such conservation practices and activities through an agreement with the landowner, a contract with a vendor, an interagency agreement, or a cooperative agreement with a cooperating entity. Specific restoration, protection, enhancement, maintenance, and management actions may be undertaken by the landowner, NRCS or its designee.
+(4) For ACEP-WRE enrollments, NRCS may implement such conservation practices and activities through an agreement with the landowner, a contract with a vendor, an interagency agreement, or a ALE-agreement with a cooperating entity. Specific restoration, protection, enhancement, maintenance, and management actions may be undertaken by the landowner, NRCS or its designee.
 
 (5) The duration of a wetland reserve easement may be either perpetual, 30-years, or the maximum duration permitted by State law. The duration of a 30-year contract on acreage owned by Indian Tribes is 30 years.
 

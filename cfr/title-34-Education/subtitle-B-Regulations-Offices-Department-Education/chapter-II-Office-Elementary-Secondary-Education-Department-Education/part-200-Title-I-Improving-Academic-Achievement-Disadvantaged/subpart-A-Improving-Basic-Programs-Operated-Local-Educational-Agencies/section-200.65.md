@@ -1,6 +1,6 @@
 ##### § 200.65 Determining equitable participation of teachers and families of participating private school children. #####
 
-Link to an amendment published at 81 FR 86241, November 29, 2016.Link to an amendment published at 81 FR 86242, November 29, 2016.
+Link to an amendment published at 81 FR 86241, November 29, 2016.Link to an amendment published at 81 FR 86242, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a)(1) From applicable funds reserved for parent involvement and professional development under § 200.77, an LEA shall ensure that teachers and families of participating private school children participate on an equitable basis in professional development and parent involvement activities, respectively.
 

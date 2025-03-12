@@ -1,6 +1,6 @@
 ##### § 200.53 LEA corrective action. #####
 
-Link to an amendment published at 81 FR 86241, November 29, 2016.
+Link to an amendment published at 81 FR 86241, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) *Definition.* For the purposes of this section, the term “corrective action” means action by an SEA that -
 

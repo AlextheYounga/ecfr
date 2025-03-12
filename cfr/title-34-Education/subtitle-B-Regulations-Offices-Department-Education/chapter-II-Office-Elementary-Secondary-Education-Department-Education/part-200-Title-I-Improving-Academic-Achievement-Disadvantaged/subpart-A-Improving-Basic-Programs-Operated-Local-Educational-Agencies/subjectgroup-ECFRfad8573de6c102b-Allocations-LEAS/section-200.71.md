@@ -1,6 +1,6 @@
 ##### § 200.71 LEA eligibility. #####
 
-Link to an amendment published at 81 FR 86242, November 29, 2016.
+Link to an amendment published at 81 FR 86242, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) *Basic grants.* An LEA is eligible for a basic grant if the number of formula children is -
 

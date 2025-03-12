@@ -1,6 +1,6 @@
 ##### § 200.22 National Technical Advisory Council. #####
 
-Link to an amendment published at 81 FR 86232, November 29, 2016.
+Link to an amendment published at 81 FR 86232, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) To provide advice to the Department on technical issues related to the design and implementation of standards, assessments, and accountability systems, the Secretary shall establish a National Technical Advisory Council (hereafter referred to as the “National TAC”), which shall be governed by the provisions of the Federal Advisory Committee Act (FACA) (Pub. L. 92-463, as amended; 5 U.S.C. App.).
 

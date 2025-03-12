@@ -1,6 +1,6 @@
 ##### § 273.21 Monthly Reporting and Retrospective Budgeting (MRRB). #####
 
-Link to an amendment published at 82 FR 2043, Jan. 6, 2017.
+Link to an amendment published at 82 FR 2043, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
 
 (a) *System design.* This section provides for an MRRB system for determining household eligibility and benefits. For included households, this system replaces the prospective budgeting system provided in the preceding sections of this part. The MRRB system provides for the use of retrospective information in calculating household benefits, normally based on information submitted by the household in monthly reports. The State agency shall establish an MRRB system as follows:
 

@@ -1,6 +1,6 @@
 ##### § 200.74 Use of an alternative method to distribute grants to LEAs with fewer than 20,000 total residents. #####
 
-Link to an amendment published at 81 FR 86242, November 29, 2016.
+Link to an amendment published at 81 FR 86242, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) For eligible LEAs serving an area with a total census population of less than 20,000 persons (hereinafter referred to as “small LEAs”), an SEA may apply to the Secretary to use an alternative method to distribute basic grant, concentration grant, targeted grant, and education finance incentive grant funds.
 

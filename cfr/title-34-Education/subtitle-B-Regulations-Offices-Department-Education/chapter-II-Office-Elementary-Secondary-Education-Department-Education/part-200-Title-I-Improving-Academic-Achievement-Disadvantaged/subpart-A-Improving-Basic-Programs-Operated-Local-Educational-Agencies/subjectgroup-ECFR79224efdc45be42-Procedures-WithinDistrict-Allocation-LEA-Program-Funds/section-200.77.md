@@ -1,6 +1,6 @@
 ##### § 200.77 Reservation of funds by an LEA. #####
 
-Link to an amendment published at 81 FR 86242, November 29, 2016.
+Link to an amendment published at 81 FR 86242, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 Before allocating funds in accordance with § 200.78, an LEA must reserve funds as are reasonable and necessary to -
 

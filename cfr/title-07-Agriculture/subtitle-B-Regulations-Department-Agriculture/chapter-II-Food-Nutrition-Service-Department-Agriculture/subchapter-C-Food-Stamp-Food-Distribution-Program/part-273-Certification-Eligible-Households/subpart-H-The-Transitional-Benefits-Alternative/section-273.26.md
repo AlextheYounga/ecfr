@@ -1,6 +1,6 @@
 ##### § 273.26 General eligibility guidelines. #####
 
-Link to an amendment published at 82 FR 2043, Jan. 6, 2017.
+Link to an amendment published at 82 FR 2043, Jan. 6, 2017.This amendment delayed to May 8, 2017, at 82 FR 11131, Feb. 21, 2017.
 
 The State agency may elect to provide households leaving TANF with transitional food stamp benefits as provided in this section. A State agency that chooses to provide transitional benefits must state in its State plan of operation that it has selected this option and specify the categories of households eligible for such benefits, the maximum number of months for which transitional benefits will be provided and any other items required to be included under this subpart H. The State agency may choose to limit transitional benefits to households in which all members had been receiving TANF, or it may provide such benefits to any household in which at least one member had been receiving TANF.
 

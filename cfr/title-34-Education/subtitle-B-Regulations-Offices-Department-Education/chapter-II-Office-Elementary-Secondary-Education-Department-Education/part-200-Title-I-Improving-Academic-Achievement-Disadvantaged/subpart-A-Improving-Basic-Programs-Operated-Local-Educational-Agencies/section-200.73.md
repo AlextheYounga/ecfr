@@ -1,6 +1,6 @@
 ##### § 200.73 Applicable hold-harmless provisions. #####
 
-Link to an amendment published at 81 FR 86242, November 29, 2016.
+Link to an amendment published at 81 FR 86242, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) *General.* (1) Except as authorized under paragraph (c) of this section and § 200.100(d)(2), an SEA may not reduce the allocation of an eligible LEA below the hold-harmless amounts established under paragraph (a)(4) of this section.
 

@@ -1,6 +1,6 @@
 ##### § 200.66 Requirements to ensure that funds do not benefit a private school. #####
 
-Link to an amendment published at 81 FR 86242, November 29, 2016.
+Link to an amendment published at 81 FR 86242, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) An LEA must use funds under subpart A of this part to provide services that supplement, and in no case supplant, the services that would, in the absence of Title I services, be available to participating private school children.
 

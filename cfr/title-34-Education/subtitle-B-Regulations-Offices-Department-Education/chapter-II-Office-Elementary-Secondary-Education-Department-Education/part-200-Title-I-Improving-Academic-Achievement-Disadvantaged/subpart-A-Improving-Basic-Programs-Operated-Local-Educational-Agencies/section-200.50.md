@@ -1,6 +1,6 @@
 ##### § 200.50 SEA review of LEA progress. #####
 
-Link to an amendment published at 81 FR 86241, November 29, 2016.
+Link to an amendment published at 81 FR 86241, November 29, 2016.Link to a delay published at 82 FR 8669, Jan. 30, 2017.
 
 (a) *State review.* (1) An SEA must annually review the progress of each LEA in its State that receives funds under subpart A of this part to determine whether -
 

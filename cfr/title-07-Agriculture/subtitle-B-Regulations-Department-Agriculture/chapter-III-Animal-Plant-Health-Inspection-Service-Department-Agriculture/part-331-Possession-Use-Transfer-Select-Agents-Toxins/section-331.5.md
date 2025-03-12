@@ -1,6 +1,6 @@
 ##### § 331.5 Exemptions. #####
 
-Link to an amendment published at 82 FR 6204, January 19, 2017.
+Link to an amendment published at 82 FR 6204, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10855, Feb. 16, 2017.
 
 (a) Diagnostic laboratories and other entities that possess, use, or transfer a select agent or toxin that is contained in a specimen presented for diagnosis or verification will be exempt from the requirements of this part for such agent or toxin contained in the specimen, provided that:
 
