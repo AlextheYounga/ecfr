@@ -99,3 +99,7 @@ Eligible uses of funds must be consistent with § 4279.101(b) and § 4279.108(a)
 (4) The borrower must include in an appropriate agreement, with retail and institutional facilities to which the borrower sells locally or regionally produced agricultural food products, a requirement to inform consumers of the retail or institutional facilities that the consumers are purchasing or consuming locally or regionally produced agricultural food products.
 
 (5) The Agency will give funding priority to projects that provide a benefit to underserved communities in accordance with § 4279.166(b)(4)(i)(G). An underserved community is a community (including an urban or rural community and an Indian tribal community) that has limited access to affordable, healthy foods, including fresh fruits and vegetables, in grocery retail stores or farmer to consumer direct markets and that has either a high rate of hunger or food insecurity or a high poverty rate as reflected in the most recent decennial census or other Agency-approved census.
+
+(z) A borrower is permitted to use up to 10 percent of the amount provided under this subpart to construct, improve, or acquire broadband infrastructure related to the project financed, subject to the requirements of 7 CFR part 1980, subpart M.
+
+[81 FR 36005, June 3, 2016, as amended at 85 FR 57084, Sept. 15, 2020]

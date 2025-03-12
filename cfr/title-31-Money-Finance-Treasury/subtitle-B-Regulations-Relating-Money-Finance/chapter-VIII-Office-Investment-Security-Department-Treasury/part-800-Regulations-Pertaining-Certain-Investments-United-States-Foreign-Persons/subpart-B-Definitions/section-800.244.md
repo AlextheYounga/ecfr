@@ -1,5 +1,7 @@
 ##### § 800.244 Substantial interest. #####
 
+Link to an amendment published at 85 FR 57128, Sept. 15, 2020.
+
 (a) The term *substantial interest* means, in the context of an acquisition of an interest in a U.S. business by a foreign person, a voting interest, direct or indirect, of 25 percent or more, and, in the context of a foreign person in which the national or subnational governments of a single foreign state have an interest, subject to paragraph (b) of this section, a voting interest, direct or indirect, of 49 percent or more.
 
 (b) In the case of entity with a general partner, managing member, or equivalent, the national or subnational governments of a single foreign state will be considered to have a *substantial interest* in such entity only if they hold 49 percent or more of the interest in the general partner, managing member, or equivalent of the entity.

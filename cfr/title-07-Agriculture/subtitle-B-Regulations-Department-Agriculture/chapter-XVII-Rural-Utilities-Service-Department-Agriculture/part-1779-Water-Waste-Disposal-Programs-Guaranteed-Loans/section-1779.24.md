@@ -35,3 +35,7 @@
 (iii) Arrangements cannot be made with the creditors to extend or modify the terms of the debts so that a sound basis will exist for making a loan.
 
 (10) Refinancing Agency debts.
+
+(f) A borrower is permitted to use up to 10 percent of the amount provided under this part to construct, improve, or acquire broadband infrastructure related to the project financed, subject to the requirements of 7 CFR part 1980, subpart M.
+
+[66 FR 23138, May 8, 2001, as amended at 85 FR 57081, Sept. 15, 2020]

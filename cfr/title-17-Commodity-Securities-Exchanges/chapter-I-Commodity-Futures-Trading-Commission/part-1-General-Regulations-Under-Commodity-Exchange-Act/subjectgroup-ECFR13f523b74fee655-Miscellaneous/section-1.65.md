@@ -1,5 +1,7 @@
 ##### § 1.65 Notice of bulk transfers and disclosure obligations to customers. #####
 
+Link to an amendment published at 85 FR 57547, Sept. 15, 2020.
+
 (a) *Notice and Disclosure to Customers.* (1) Prior to transferring a customer account to another futures commission merchant or introducing broker other than at the request of the customer, a futures commission merchant or introducing broker must obtain the customer's specific consent to the transfer.
 
 (2) If the customer account agreement contains a valid consent by the customer to prospective transfers of the account, the transferor futures commission merchant or introducing broker may transfer the account if the customer is provided with written notice of, and a reasonable opportunity to object to, the transfer and the customer has not asserted an objection to the transfer or given other instructions as to the disposition of the account. The notice to the customer must include:

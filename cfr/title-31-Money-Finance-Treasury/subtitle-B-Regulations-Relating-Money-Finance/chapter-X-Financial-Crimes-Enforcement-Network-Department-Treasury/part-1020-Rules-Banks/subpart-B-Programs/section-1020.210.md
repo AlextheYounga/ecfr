@@ -1,5 +1,7 @@
 ##### § 1020.210 Anti-money laundering program requirements for financial institutions regulated only by a Federal functional regulator, including banks, savings associations, and credit unions. #####
 
+Link to an amendment published at 85 FR 57137, Sept. 15, 2020.
+
 A financial institution regulated by a Federal functional regulator that is not subject to the regulations of a self-regulatory organization shall be deemed to satisfy the requirements of 31 U.S.C. 5318(h)(1) if the financial institution implements and maintains an anti-money laundering program that:
 
 (a) Complies with the requirements of §§ 1010.610 and 1010.620 of this chapter;

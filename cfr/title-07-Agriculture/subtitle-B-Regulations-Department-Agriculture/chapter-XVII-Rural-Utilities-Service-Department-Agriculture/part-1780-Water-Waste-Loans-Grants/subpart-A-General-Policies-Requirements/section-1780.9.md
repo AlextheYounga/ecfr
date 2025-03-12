@@ -71,3 +71,7 @@ Loan and grant funds may be used only for the following purposes:
 (i) Easements for the installation and ingress to and egress from the facility if determined necessary by RUS; and
 
 (ii) An adequate method for denying service in the event of nonpayment of user fees.
+
+(h) A borrower is permitted to use up to 10 percent of the amount provided under this part to construct, improve, or acquire broadband infrastructure related to the project financed, subject to the requirements of 7 CFR part 1980, subpart M.
+
+[62 FR 33478, June 19, 1997, as amended at 85 FR 57081, Sept. 15, 2020]

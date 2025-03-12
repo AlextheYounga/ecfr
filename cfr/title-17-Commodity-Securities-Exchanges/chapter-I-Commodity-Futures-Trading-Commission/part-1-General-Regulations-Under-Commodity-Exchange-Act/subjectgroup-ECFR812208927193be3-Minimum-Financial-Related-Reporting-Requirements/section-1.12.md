@@ -1,5 +1,7 @@
 ##### § 1.12 Maintenance of minimum financial requirements by futures commission merchants and introducing brokers. #####
 
+Link to an amendment published at 85 FR 57543, Sept. 15, 2020.
+
 (a) Each person registered as a futures commission merchant or who files an application for registration as a futures commission merchant, and each person registered as an introducing broker or who files an application for registration as an introducing broker (except for an introducing broker or applicant for registration as an introducing broker operating pursuant to, or who has filed concurrently with its application for registration, a guarantee agreement and who is not also a securities broker or dealer), who knows or should have known that its adjusted net capital at any time is less than the minimum required by § 1.17 or by the capital rule of any self-regulatory organization to which such person is subject, if any, must:
 
 (1) Give notice, as set forth in paragraph (n) of this section, that the applicant's or registrant's adjusted net capital is less than required by § 1.17 or by other capital rule, identifying the applicable capital rule. The notice must be given immediately after the applicant or registrant knows or should have known that its adjusted net capital is less than required by any of the aforesaid rules to which the applicant or registrant is subject; and

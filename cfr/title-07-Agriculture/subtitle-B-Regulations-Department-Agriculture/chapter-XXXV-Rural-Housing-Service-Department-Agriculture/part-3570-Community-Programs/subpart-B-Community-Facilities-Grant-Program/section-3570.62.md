@@ -30,6 +30,8 @@ Grants of up to 75 percent of the cost of developing essential community facilit
 
 (ii) The purchase of existing facilities when it is necessary either to improve or to prevent a loss of service.
 
+(iii) A borrower is permitted to use up to 10 percent of the amount provided under this subpart to construct, improve, or acquire broadband infrastructure related to the project financed, subject to the requirements of 7 CFR part 1980, subpart M.
+
 (b) Construct or relocate public buildings, roads, bridges, fences, or utilities and to make other public improvements necessary to the successful operation or protection of facilities authorized in paragraph (a) of this section.
 
 (c) Relocate private buildings, roads, bridges, fences, or utilities, and other private improvements necessary to the successful operation or protection of facilities authorized in paragraph (a) of this section.
@@ -54,4 +56,4 @@ Grants of up to 75 percent of the cost of developing essential community facilit
 
 (v) The applicant has the legal authority to incur the obligations at the time proposed, and payment of the debts will remove any basis for any mechanic's, material, or other liens that may attach to the security property.
 
-The Agency may authorize payment of such obligations at the time of grant closing. The Agency's authorization to pay such obligations, however, is on the condition that it is not committed to make the grant; it assumes no responsibility for any obligations incurred by the applicant; and the applicant must subsequently meet all grant approval requirements. The applicant's request and the Agency's authorization for paying such obligations shall be in writing.
+The Agency may authorize payment of such obligations at the time of grant closing. The Agency's authorization to pay such obligations, however, is on the condition that it is not committed to make the grant; it assumes no responsibility for any obligations incurred by the applicant; and the applicant must subsequently meet all grant approval requirements. The applicant's request and the Agency's authorization for paying such obligations shall be in writing.[64 FR 32388, June 17, 1999, as amended at 85 FR 57084, Sept. 15, 2020]

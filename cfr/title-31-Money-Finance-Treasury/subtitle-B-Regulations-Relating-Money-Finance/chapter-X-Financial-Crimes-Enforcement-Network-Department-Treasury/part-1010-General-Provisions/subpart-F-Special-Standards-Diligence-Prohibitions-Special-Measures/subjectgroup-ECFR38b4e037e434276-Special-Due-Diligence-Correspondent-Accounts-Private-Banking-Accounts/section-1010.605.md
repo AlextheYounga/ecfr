@@ -1,5 +1,7 @@
 ##### § 1010.605 Definitions. #####
 
+Link to an amendment published at 85 FR 57137, Sept. 15, 2020.
+
 Except as otherwise provided, the following definitions apply for purposes of §§ 1010.610 through 1010.630 and § 1010.670:
 
 (a) *Beneficial owner* of an account means an individual who has a level of control over, or entitlement to, the funds or assets in the account that, as a practical matter, enables the individual, directly or indirectly, to control, manage or direct the account. The ability to fund the account or the entitlement to the funds of the account alone, however, without any corresponding authority to control, manage or direct the account (such as in the case of a minor child beneficiary), does not cause the individual to be a beneficial owner.

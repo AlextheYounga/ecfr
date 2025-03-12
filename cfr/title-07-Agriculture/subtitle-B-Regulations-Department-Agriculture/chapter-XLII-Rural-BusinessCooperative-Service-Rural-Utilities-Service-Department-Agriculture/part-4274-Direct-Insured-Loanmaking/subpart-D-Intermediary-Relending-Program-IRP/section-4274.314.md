@@ -54,4 +54,6 @@
 
 (15) Aquaculture-based rural small businesses.
 
-[63 FR 6053, Feb. 6, 1998, as amended at 73 FR 54307, Sept. 19, 2008]
+(16) A borrower is permitted to use up to 10 percent of the amount provided under this subpart to construct, improve, or acquire broadband infrastructure related to the project financed, subject to the requirements of 7 CFR part 1980, subpart M.
+
+[63 FR 6053, Feb. 6, 1998, as amended at 73 FR 54307, Sept. 19, 2008; 85 FR 57084, Sept. 15, 2020]

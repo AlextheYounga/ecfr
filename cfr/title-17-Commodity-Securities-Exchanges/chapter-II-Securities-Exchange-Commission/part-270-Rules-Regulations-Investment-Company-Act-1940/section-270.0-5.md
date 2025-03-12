@@ -1,5 +1,7 @@
 ##### § 270.0-5 Procedure with respect to applications and other matters. #####
 
+Link to an amendment published at 85 FR 57107, Sept. 15, 2020.
+
 The procedure herein below set forth will be followed with respect to any proceeding initiated by the filing of an application, or upon the Commission's own motion, pursuant to any section of the Act or any rule or regulation thereunder, unless in the particular case a different procedure is provided:
 
 (a) Notice of the initiation of the proceeding will be published in the Federal Register and will indicate the earliest date upon which an order disposing of the matter may be entered. The notice will also provide that any interested person may, within the period of time specified therein, submit to the Commission in writing any facts bearing upon the desirability of a hearing on the matter and may request that a hearing be held, stating his reasons therefor and the nature of his interest in the matter.

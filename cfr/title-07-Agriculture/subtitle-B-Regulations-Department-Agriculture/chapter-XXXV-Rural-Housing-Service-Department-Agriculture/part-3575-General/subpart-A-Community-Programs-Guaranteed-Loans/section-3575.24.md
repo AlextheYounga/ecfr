@@ -68,4 +68,6 @@
 
 (iv) The borrower and the contractor must have complied with all statutory and executive order requirements related to Agency financing for construction already performed even though the requirements may not have been included in the contract documents.
 
-[64 FR 28337, May 26, 1999, as amended at 78 FR 26486, May 7, 2013]
+(5) A borrower is permitted to use up to 10 percent of the amount provided under this subpart to construct, improve, or acquire broadband infrastructure related to the project financed, subject to the requirements of 7 CFR part 1980, subpart M.
+
+[64 FR 28337, May 26, 1999, as amended at 78 FR 26486, May 7, 2013; 85 FR 57084, Sept. 15, 2020]

@@ -1,5 +1,7 @@
 ##### § 1020.100 Definitions. #####
 
+Link to an amendment published at 85 FR 57137, Sept. 15, 2020.
+
 Refer to § 1010.100 of this Chapter for general definitions not noted herein. To the extent there is a differing definition in § 1010.100 of this chapter, the definition in this Section is what applies to part 1020. Unless otherwise indicated, for purposes of this part:
 
 (a) *Account.* For purposes of § 1020.220:

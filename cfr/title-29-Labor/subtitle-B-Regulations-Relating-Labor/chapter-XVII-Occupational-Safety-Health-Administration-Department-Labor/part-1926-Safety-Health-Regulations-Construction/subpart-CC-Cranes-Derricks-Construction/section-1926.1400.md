@@ -1,5 +1,7 @@
 ##### § 1926.1400 Scope. #####
 
+Link to an amendment published at 85 FR 57122, Sept. 15, 2020.
+
 (a) This standard applies to power-operated equipment, when used in construction, that can hoist, lower and horizontally move a suspended load. Such equipment includes, but is not limited to: Articulating cranes (such as knuckle-boom cranes); crawler cranes; floating cranes; cranes on barges; locomotive cranes; mobile cranes (such as wheel-mounted, rough-terrain, all-terrain, commercial truck-mounted, and boom truck cranes); multi-purpose machines when configured to hoist and lower (by means of a winch or hook) and horizontally move a suspended load; industrial cranes (such as carry-deck cranes); dedicated pile drivers; service/mechanic trucks with a hoisting device; a crane on a monorail; tower cranes (such as a fixed jib, *i.e.,* “hammerhead boom”), luffing boom and self-erecting); pedestal cranes; portal cranes; overhead and gantry cranes; straddle cranes; sideboom cranes; derricks; and variations of such equipment. However, items listed in paragraph (c) of this section are excluded from the scope of this standard.
 
 (b) *Attachments.* This standard applies to equipment included in paragraph (a) of this section when used with attachments. Such attachments, whether crane-attached or suspended include, but are not limited to: Hooks, magnets, grapples, clamshell buckets, orange peel buckets, concrete buckets, drag lines, personnel platforms, augers or drills and pile driving equipment.

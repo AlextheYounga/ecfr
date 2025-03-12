@@ -45,3 +45,7 @@ For a Project to be eligible for funding under this subpart, the proposed Projec
 (c) *Basis for success or failure.* Grants may be made only when the application demonstrates a need for the Project and includes a basis for determining the success or failure of the Project and individual major elements of the Project and outlines procedures that will be taken to assess the Project's impact at its conclusion.
 
 (d) *Local and area-wide strategic plans.* Business opportunity type grants may be made only when the proposed Project is consistent with any local and area-wide strategic plans for community and Economic Development, coordinated with other Economic Development activities in the Project area, and consistent with any Rural Development State Strategic Plan.
+
+(e) An applicant is permitted to use up to 10 percent of the amount provided under this subpart to construct, improve, or acquire broadband infrastructure related to the project financed, subject to the requirements of 7 CFR part 1980, subpart M.
+
+[80 FR 15667, Mar. 25, 2015, as amended at 85 FR 57085, Sept. 15, 2020]

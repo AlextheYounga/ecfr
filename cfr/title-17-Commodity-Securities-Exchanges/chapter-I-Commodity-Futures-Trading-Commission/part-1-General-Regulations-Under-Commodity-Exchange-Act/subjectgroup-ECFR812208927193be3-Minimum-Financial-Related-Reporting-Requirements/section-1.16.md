@@ -1,5 +1,7 @@
 ##### § 1.16 Qualifications and reports of accountants. #####
 
+Link to an amendment published at 85 FR 57543, Sept. 15, 2020.
+
 (a) *Definitions -* (1) *Accountant's report.* The term “accountant's report,” when used in regard to financial statements and schedules, means a document in which an independent licensed or certified public accountant indicates the scope of the audit (or examination) which he has made and sets forth his opinion regarding the financial statements and schedules taken as a whole or an assertion to the fact that an overall opinion cannot be expressed. When an overall opinion cannot be expressed, the reasons therefore must be stated.
 
 (2) *Audit or examination.* The terms “audit” and “examination,” when used in regard to financial statements and schedules, mean an examination of the statements and schedules by an accountant in accordance with generally accepted auditing standards for the purposes of expressing an opinion thereon.

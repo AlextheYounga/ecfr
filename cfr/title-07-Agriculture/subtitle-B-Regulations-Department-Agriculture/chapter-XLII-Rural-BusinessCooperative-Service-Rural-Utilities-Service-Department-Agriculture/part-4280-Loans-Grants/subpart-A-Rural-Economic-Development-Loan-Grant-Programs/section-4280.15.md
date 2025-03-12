@@ -17,3 +17,7 @@ An Intermediary may receive REDL funds only when it has a pre-approved Ultimate 
 (g) Other Projects eligible under § 4280.21; or
 
 (h) Community Facilities Projects.
+
+(i) A borrower is permitted to use up to 10 percent of the amount provided under this subpart to construct, improve, or acquire broadband infrastructure related to the project financed, subject to the requirements of 7 CFR part 1980, subpart M.
+
+[72 FR 29843, May 30, 2007, as amended at 85 FR 57085, Sept. 15, 2020]

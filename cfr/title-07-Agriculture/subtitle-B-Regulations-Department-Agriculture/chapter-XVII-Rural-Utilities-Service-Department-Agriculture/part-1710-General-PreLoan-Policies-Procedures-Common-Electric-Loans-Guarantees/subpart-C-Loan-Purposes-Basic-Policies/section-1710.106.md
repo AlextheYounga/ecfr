@@ -44,4 +44,6 @@
 
 (2) For borrowers whose most recent loan was approved before October 1, 1991, advances will be made on the oldest outstanding note having unadvanced funds, unless any conditions on advances under such note have not been met by the borrower.
 
-[57 FR 1053, Jan. 9, 1992, as amended at 58 FR 66265, Dec. 20, 1993; 60 FR 3730, Jan. 19, 1995; 62 FR 7922, Feb. 21, 1997; 64 FR 33178, June 22, 1999; 78 FR 73365, Dec. 5, 2013; 84 FR 32610, July 9, 2019]
+(g) A borrower is permitted to use up to 10 percent of the amount provided under this part to construct, improve, or acquire broadband infrastructure related to the project financed, subject to the requirements of 7 CFR part 1980, subpart M.
+
+[57 FR 1053, Jan. 9, 1992, as amended at 58 FR 66265, Dec. 20, 1993; 60 FR 3730, Jan. 19, 1995; 62 FR 7922, Feb. 21, 1997; 64 FR 33178, June 22, 1999; 78 FR 73365, Dec. 5, 2013; 84 FR 32610, July 9, 2019; 85 FR 57081, Sept. 15, 2020]

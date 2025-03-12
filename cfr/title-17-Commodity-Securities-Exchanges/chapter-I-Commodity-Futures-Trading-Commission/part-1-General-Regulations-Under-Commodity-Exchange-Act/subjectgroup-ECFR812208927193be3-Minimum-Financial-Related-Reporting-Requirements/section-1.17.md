@@ -1,5 +1,7 @@
 ##### § 1.17 Minimum financial requirements for futures commission merchants and introducing brokers. #####
 
+Link to an amendment published at 85 FR 57544, Sept. 15, 2020.
+
 (a)(1)(i) Except as provided in paragraph (a)(2)(i) of this section, each person registered as a futures commission merchant must maintain adjusted net capital equal to or in excess of the greatest of:
 
 (A) $1,000,000;

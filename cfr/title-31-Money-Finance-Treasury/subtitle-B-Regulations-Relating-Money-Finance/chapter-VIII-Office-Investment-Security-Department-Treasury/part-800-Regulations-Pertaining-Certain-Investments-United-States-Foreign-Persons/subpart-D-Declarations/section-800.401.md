@@ -1,5 +1,7 @@
 ##### § 800.401 Mandatory declarations. #####
 
+Link to an amendment published at 85 FR 57128, Sept. 15, 2020.
+
 (a) Except as provided in paragraph (d), (e), or (f) of this section, the parties to a transaction described in paragraph (b) or (c) of this section shall submit to the Committee a declaration with information regarding the transaction in accordance with § 800.403.
 
 (b) A covered transaction that results in the acquisition of a substantial interest in a TID U.S. business by a foreign person in which the national or subnational governments of a single foreign state (other than an excepted foreign state) have a substantial interest.

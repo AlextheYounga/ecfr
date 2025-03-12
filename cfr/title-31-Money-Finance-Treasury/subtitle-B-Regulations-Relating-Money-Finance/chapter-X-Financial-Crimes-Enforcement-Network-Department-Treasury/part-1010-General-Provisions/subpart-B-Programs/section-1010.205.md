@@ -1,5 +1,7 @@
 ##### § 1010.205 Exempted anti-money laundering programs for certain financial institutions. #####
 
+Link to an amendment published at 85 FR 57137, Sept. 15, 2020.
+
 (a) *Exempt financial institutions.* Subject to the provisions of paragraphs (c) and (d) of this section, the following financial institutions (as defined in 31 U.S.C. 5312(a)(2) or (c)(1)) are exempt from the requirement in 31 U.S.C. 5318(h)(1) concerning the establishment of anti-money laundering programs:
 
 (1) An agency of the United States Government, or of a State or local government, carrying out a duty or power of a business described in 31 U.S.C. 5312(a)(2); and

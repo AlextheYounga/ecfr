@@ -1,5 +1,7 @@
 ##### § 1.10 Financial reports of futures commission merchants and introducing brokers. #####
 
+Link to an amendment published at 85 FR 57543, Sept. 15, 2020.
+
 (a) *Application for registration.* (1) Except as otherwise provided, a futures commission merchant or an applicant for registration as a futures commission merchant, in order to satisfy any requirement in this part that it file a Form 1-FR, must file a Form 1-FR-FCM, and any reference in this part to Form 1-FR with respect to a futures commission merchant or applicant therefor shall be deemed to be a reference to Form 1-FR-FCM. Except as otherwise provided, an introducing broker or an applicant for registration as an introducing broker, in order to satisfy any requirement in this part that it file a Form 1-FR, must file a Form 1-FR-IB, and any reference in this part to Form 1-FR with respect to an introducing broker or applicant therefor shall be deemed to be a reference to Form 1-FR-IB.
 
 (2) (i) (A) Except as provided in paragraphs (a)(3) and (h) of this section, each person who files an application for registration as a futures commission merchant and who is not so registered at the time of such filing, must, concurrently with the filing of such application, file either:

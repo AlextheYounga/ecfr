@@ -34,6 +34,8 @@
 
 (ii) Refinancing that is no more than 20 percent of the loan for which the Agency is guaranteeing and the purpose of the refinance is to enable the Agency to establish a first lien position with respect to pre-existing Collateral subject to a pre-existing lien and the refinancing would be in the best financial interests of the Federal Government.
 
+(10) A borrower is permitted to use up to 10 percent of the amount provided under this subpart to construct, improve, or acquire broadband infrastructure related to the project financed, subject to the requirements of 7 CFR part 1980, subpart M.
+
 (e) Ineligible Project costs include:
 
 (1) Distribution or payment to an individual owner, partner, stockholder, or beneficiary of the Borrower or a close relative of such an individual when such individual will retain any portion of the ownership of the Borrower;
@@ -43,3 +45,5 @@
 (3) Any equipment, processes, and related costs of such equipment used for processing corn kernel starch into biofuel, including as an incidental or secondary product; and
 
 (4) Payment in excess of actual costs (such as profit, overhead, and indirect costs) incurred by the contractor or other service provider on a contract or agreement that has been entered into at less than an Arm's Length Transaction or with an appearance of or a potential for Conflict of Interest.
+
+[80 FR 36425, June 24, 2015, as amended at 85 FR 57085, Sept. 15, 2020]

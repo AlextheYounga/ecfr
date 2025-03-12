@@ -1,5 +1,7 @@
 ##### § 800.213 Covered transaction. #####
 
+Link to an amendment published at 85 FR 57128, Sept. 15, 2020.
+
 The term *covered transaction* means any of the following:
 
 (a) A covered control transaction;

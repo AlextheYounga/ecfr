@@ -1,4 +1,4 @@
-##### § 249b.200 Form CA-1,1/\> form for registration or for exemption from registration as a clearing agency and for amendment to registration as a clearing agency pursuant to section 17A of the Securities Exchange Act of 1934. #####
+##### § 249b.200 Form CA-1,1 form for registration or for exemption from registration as a clearing agency and for amendment to registration as a clearing agency pursuant to section 17A of the Securities Exchange Act of 1934. #####
 
 1 Copies of the form may be obtained from the Publication Section, Securities and Exchange Commission, 100 F Street, NE., Washington, DC 20549 and from each of the Commission's regional offices.
 
