@@ -1,5 +1,7 @@
 ##### 538.7001 Definitions. #####
 
+Link to an amendment published at 84 FR 17041, Apr. 23, 2019.
+
 *Ordering activity* (also called “ordering agency” and “ordering office”) means an eligible ordering activity (see 552.238-78) authorized to place orders under Federal supply schedule contracts.
 
 *Preparedness* means actions that may include, but are not limited to planning, resourcing, training, exercising, and organizing to build, sustain, and improve operational disaster response capabilities. Preparedness also includes the process of identifying the personnel, training, and equipment needed for a wide range of potential incidents, and developing jurisdiction-specific plans for delivering capabilities when needed for an incident.

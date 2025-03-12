@@ -1,5 +1,7 @@
 ##### § 148.122 Guaranteed renewability of individual health insurance coverage. #####
 
+Link to an amendment published at 84 FR 17561, Apr. 25, 2019.
+
 (a) *Applicability.* This section applies to non-grandfathered and grandfathered health plans (within the meaning of § 147.140 of this subchapter) that are individual health insurance coverage. *See* also § 147.106 of this subchapter for requirements relating to guaranteed renewability of coverage with respect to non-grandfathered health plans.
 
 (b) *General rules.* (1) Except as provided in paragraph (c) of this section, an issuer must renew or continue in force the coverage at the option of the individual.

@@ -1,7 +1,7 @@
 ##### § 1416.13 Deceased individuals or dissolved entities. #####
 
-(a) Payments may be made for eligible losses suffered by an eligible participant who is now a deceased individual or is a dissolved entity if a representative, who currently has authority to act on behalf of the estate of the deceased participant, signs the application for payment.
+(a) The provisions of part 707 of this chapter apply to the programs of this part.
 
-(b) Legal documents showing proof of authority to sign for the deceased individual or dissolved entity must be provided.
+(b) [Reserved].
 
-(c) If a participant is now a dissolved general partnership or joint venture, all members of the general partnership or joint venture at the time of dissolution or their duly authorized representatives must sign the application for payment.
+[83 FR 49464, Oct. 2, 2018]

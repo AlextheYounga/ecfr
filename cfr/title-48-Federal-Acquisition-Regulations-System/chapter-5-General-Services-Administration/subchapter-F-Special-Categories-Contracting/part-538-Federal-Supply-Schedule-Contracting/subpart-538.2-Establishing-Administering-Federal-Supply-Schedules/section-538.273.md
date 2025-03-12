@@ -1,5 +1,7 @@
 ##### 538.273 Contract clauses. #####
 
+Link to an amendment published at 84 FR 17039, Apr. 23, 2019.
+
 (a) *Multiple award schedules.* Insert in solicitations and contracts:
 
 (1) 552.238-70, Identification of Electronic Office Equipment Providing Accessibility for the Handicapped, if you include electronic office equipment items.

@@ -1,7 +1,5 @@
 ##### § 200.30-3 Delegation of authority to Director of Division of Trading and Markets. #####
 
-Link to an amendment published at 84 FR 5298, Feb. 20, 2019.
-
 Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Director of the Division of Trading and Markets to be performed by him or under his direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
 
 (a) With respect to the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*):
@@ -239,6 +237,8 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d
 (82) To grant or deny exemptions from Rule 611 (17 CFR 242.611), pursuant to Rule 611(d) (17 CFR 242.611(d)).
 
 (83) To grant or deny exemptions from Rule 612 (17 CFR 242.612), pursuant to Rule 612(c) (17 CFR 242.612(c)).
+
+(84) To issue notices pursuant to 17 CFR 242.610T(b)(1)(i) and (c) (Rule 610T(b)(1)(i) and (c)).
 
 (b) To designate officers empowered to administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records in the course of investigations instituted by the Commission pursuant to section 21(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78u(b)).
 

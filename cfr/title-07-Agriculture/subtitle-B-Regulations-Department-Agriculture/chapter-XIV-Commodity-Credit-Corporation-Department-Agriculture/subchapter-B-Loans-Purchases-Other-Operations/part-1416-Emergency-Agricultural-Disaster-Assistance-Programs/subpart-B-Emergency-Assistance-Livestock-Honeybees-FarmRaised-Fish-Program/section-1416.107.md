@@ -1,21 +1,13 @@
 ##### § 1416.107 Notice of loss and application period. #####
 
-(a) In addition to submitting an application for payment at the appropriate time, the participant that suffered eligible livestock, honeybee, or farm-raised fish losses that create or could create a claim for benefits must:
+(a) Notices of loss and applications for payment that had been filed under the regulations in effect at the time of filing and which had been issued an administrative decision for either a 2017 or 2018 program year loss are not eligible for consideration under paragraphs (b) and (c) of this section, unless the decision was based only on failure to submit the notice of loss or application for payment by the prior applicable deadline.
 
-(1) For losses in program years 2012 and 2013, provide a separate notice of loss for each program year to FSA no later than August 1, 2014,
+(b) In addition to submitting an application for payment at the appropriate time, the participant that suffered eligible livestock, honeybee, or farm-raised fish losses that create or could create a claim for benefits must:
 
-(2) For losses that occur in program year 2014, provide a notice of loss to FSA no later than November 1, 2014,
+(1) For losses in the 2017 and subsequent program years, provide a notice of loss to FSA by the later of 30 calendar days of when the loss of livestock is first apparent or December 3, 2018;
 
-(3) For losses that occur in program year 2015 and subsequent years, the participant must provide a notice of loss to FSA within the earlier of:
+(2) Submit the notice of loss required in paragraph (b) of this section to the administrative FSA county office, unless additional options are otherwise provided for by the Deputy Administrator.
 
-(i) 30 calendar days of when the loss is apparent to the participant; or
+(c) In addition to the notices of loss required in paragraph (b) of this section, a participant must also submit a completed application for payment by the later of November 1 following the program year for which benefits are being requested or December 3, 2018.
 
-(ii) November 1 following the program year for which benefits are being requested.
-
-(4) Submit the notice of loss required in paragraph (a) of this section to the administrative FSA county office, unless additional options are otherwise provided for by the Deputy Administrator.
-
-(b) In addition to the notices of loss required in paragraph (a) of this section, a participant must also submit a completed application for payment no later than:
-
-(1) For the 2012 and 2013 program years, August 1, 2014, or
-
-(2) For 2014 and subsequent program years, November 1 following the program year for which benefits are being requested.
+[83 FR 49466, Oct. 2, 2018]

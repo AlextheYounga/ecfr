@@ -1,6 +1,6 @@
 ##### § 1416.404 Eligible orchardists and nursery tree growers. #####
 
-(a) To be eligible for TAP payments, the eligible orchardist or nursery tree grower must:
+(a) Once the requisite qualifying eligible mortality loss is determined according to § 1416.403, to be eligible for TAP payments, the eligible orchardist or nursery tree grower must:
 
 (1) Have planted, or be considered to have planted (by purchase prior to the loss of existing stock planted for commercial purposes) trees, bushes, or vines for commercial purposes, or have a production history, for commercial purposes, of planted or existing trees, bushes, or vines;
 
@@ -19,3 +19,5 @@
 (c) A producer seeking payment must not be ineligible under the restrictions applicable to citizenship and foreign corporations contained in § 1416.3(b) and must meet all other requirements of subpart A of this part.
 
 (d) Federal, State, and local governments and agencies and political subdivisions thereof are not eligible for payment under this subpart.
+
+[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49472, Oct. 2, 2018]

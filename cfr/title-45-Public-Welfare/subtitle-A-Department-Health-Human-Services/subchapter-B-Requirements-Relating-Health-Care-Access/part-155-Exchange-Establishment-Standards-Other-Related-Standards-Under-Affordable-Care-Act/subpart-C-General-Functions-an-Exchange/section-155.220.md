@@ -1,5 +1,7 @@
 ##### § 155.220 Ability of States to permit agents and brokers to assist qualified individuals, qualified employers, or qualified employees enrolling in QHPs. #####
 
+Link to an amendment published at 84 FR 17563, Apr. 25, 2019.
+
 (a) *General rule.* A State may permit agents and brokers to -
 
 (1) Enroll individuals, employers or employees in any QHP in the individual or small group market as soon as the QHP is offered through an Exchange in the State;

@@ -1235,7 +1235,8 @@ ERPmax = 72.57-17.08\*log10(HAAT)
 
 Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz from the edge of the channel.
 
-(2) This attenuation is based on a measurement bandwidth of 500 kHz. Other measurement bandwidths may be used as long as appropriate correction factors are applied. Measurements need not be made any closer to the band edge than one half of the resolution bandwidth of the measuring instrument. Emissions include sidebands, spurious emissions and radio frequency harmonics. Attenuation is to be measured at the output terminals of the transmitter (including any filters that may be employed). In the event of interference caused to any service, greater attenuation may be required.
+(2) This attenuation is based on a measurement bandwidth of 500 kHz. Other measurement bandwidths may be used as long as appropriate correction factors are applied. Measurements need not be made any closer to the band edge than one half of the resolution bandwidth of the measuring instrument. Emissions include sidebands, spurious emissions and radio frequency harmonics. Attenuation is to be measured at the outp
+ut terminals of the transmitter (including any filters that may be employed). In the event of interference caused to any service, greater attenuation may be required.
 
 (i) *Post-Transition Table of DTV Allotments.*
 

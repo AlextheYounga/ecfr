@@ -1,35 +1,15 @@
-##### § 1412.33 PLC yield for additional oilseeds. #####
+##### § 1412.33 Updating PLC yield for seed cotton. #####
 
-(a) The PLC yield for the farm for additional oilseeds designated by the Secretary will be determined by multiplying the weighted average yield per planted acre for the crop on the farm, as determined in paragraph (b) of this section, times the ratio resulting from:
+(a) For a farm that has seed cotton base acres as adjusted, in excess of zero acres, a current owner of the farm has a one-time opportunity in a specified period, as announced by FSA, to update the PLC yield equal to 90 percent of the upland cotton's 2008 through 2012 average yield per planted acre, excluding from the average any year that no acreage was planted to upland cotton, times 2.4. If the yield per planted acre in any of the years 2008 through 2012 is less than 75 percent of the average of the county yield, then 75 percent of the average of the 2008 through 2012 county yields will be substituted for that year.
 
-(1) The national average yield for the crop, as determined by FSA, divided by
+(b) The current owner of the farm may retain the PLC yield or update the PLC yield.
 
-(2) The national average yield for the crop for the 1998 through 2001 crop years, as determined by FSA.
+(c) PLC yields are exclusively used for PLC. However, any owner of a farm can update the seed cotton PLC yield as specified in paragraph (a) of this section, regardless of program election, enrollment, or participation.
 
-(b)(1) The yield per planted acre for such designated oilseed on the farm is calculated as follows:
+(d) A decision by any current owner of a farm to update the seed cotton PLC yield as specified in this section is final and binding unless that decision to update the yield is withdrawn by that current owner or a different yield update is made by that current owner or another current owner. If that current owner or another current owner requests a different PLC yield update for the covered commodity during the yield update period specified in paragraph (a) of this section, that update will become final.
 
-(i) The sum of the production of the crop for the 1998 through 2001 crop years, as determined in paragraph (b)(2) of this section; divided by
+(e) All PLC yield updates are subject to review and approval by FSA as specified in § 1412.36. FSA's decision to issue payments based on the PLC yield updated by an owner is subject to verification and spot check by FSA at any time.
 
-(ii) The sum of the total planted acres of the crop for the 1998 through 2001 crop years.
+(f) Yield updates in this section will be permitted using the current owner's certification of yield. The certification is subject to spot check or verification by FSA at any time. If selected for spot check or verification, the owner must submit evidence specified in § 1412.35 to support the certified yield.
 
-(2) The production of the crop for each of the 1998 through 2001 crop years will be the higher of the following, except in a year in which the acreage planted to the crop was zero, in which case the production for the crop for such year will be zero:
-
-(i) The total production for the applicable year based on the production evidence submitted in accordance with § 1412.34; or
-
-(ii) The amount equal to the product of:
-
-(A) The total planted acres for the crop, times
-
-(B) 75 percent of the harvested average county yield for that crop determined, where practicable, by calculating the weighted 4-year average of the National Agricultural Statistics Service (NASS) harvested acreage yields for the crop using the 1998 through 2001 crop years.
-
-(3) The NASS harvested acreage yield to be used in paragraph (b)(2) of this section will be based on:
-
-(i) NASS harvested irrigated yield for the crop, if available, for producers who irrigated the crop in the applicable years;
-
-(ii) NASS harvested non-irrigated yield for the crop, if available, for producers who did not irrigate the crop in the applicable years; or
-
-(iii) NASS harvested blended yield for all acreage, regardless of whether or not the acres were irrigated or non-irrigated, for all crops in all counties for which the yields in paragraphs (b)(3)(i) and (ii) of this section are unavailable.
-
-(4) If NASS harvested acreage yield data is not available, the Deputy Administrator will assign a yield to be used in paragraph (b)(2)(ii)(B) of this section.
-
-(c) The establishment of PLC yield for an additional oilseed in this section will be permitted using a producer certification of yield. The certification is subject to spot check or verification by FSA at any time. If selected for spot check or verification, the producer must submit evidence as specified in in § 1412.34 to support the certified yield.
+[83 FR 40658, Aug. 16, 2018]

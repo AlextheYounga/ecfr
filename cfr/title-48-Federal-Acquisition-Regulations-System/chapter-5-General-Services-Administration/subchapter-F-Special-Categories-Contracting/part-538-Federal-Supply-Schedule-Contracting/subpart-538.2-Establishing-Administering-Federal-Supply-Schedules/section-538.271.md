@@ -1,5 +1,7 @@
 ##### 538.271 MAS contract awards. #####
 
+Link to an amendment published at 84 FR 17039, Apr. 23, 2019.
+
 (a) MAS awards will be for commercial items as defined in FAR 2.101.
 
 (b) Before awarding any MAS contract, determine that the offered prices are fair and reasonable (see FAR subpart 15.4 and 538.270). Document the negotiation and your determination using FAR 15.406-3 as guidance.

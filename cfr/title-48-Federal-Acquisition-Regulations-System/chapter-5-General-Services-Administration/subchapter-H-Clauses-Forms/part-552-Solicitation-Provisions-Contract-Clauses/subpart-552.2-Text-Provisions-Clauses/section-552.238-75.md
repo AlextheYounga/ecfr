@@ -1,5 +1,7 @@
 ##### 552.238-75 Price Reductions. #####
 
+Link to an amendment published at 84 FR 17041, Apr. 23, 2019.
+
 As prescribed in 538.273(b)(2), insert the following clause:
 
 Price Reductions (JUL 2016)

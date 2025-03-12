@@ -1,5 +1,7 @@
 ##### § 155.221 Standards for third-parties to perform audits of agents, brokers, and issuers participating in direct enrollment. #####
 
+Link to an amendment published at 84 FR 17566, Apr. 25, 2019.
+
 (a) An agent, broker, or issuer participating in direct enrollment must engage a third-party entity to conduct an annual review to demonstrate operational readiness in accordance with §§ 155.220(c)(3)(i)(K) and with 156.1230(b)(2) of this subchapter. The third-party entity will be a downstream or delegated entity of the agent, broker or issuer that participates or wishes to participate in direct enrollment.
 
 (b) An agent, broker, or issuer participating in direct enrollment must satisfy the requirement to demonstrate operational readiness under paragraph (a) of this section by engaging a third-party entity that meets each of the following standards:

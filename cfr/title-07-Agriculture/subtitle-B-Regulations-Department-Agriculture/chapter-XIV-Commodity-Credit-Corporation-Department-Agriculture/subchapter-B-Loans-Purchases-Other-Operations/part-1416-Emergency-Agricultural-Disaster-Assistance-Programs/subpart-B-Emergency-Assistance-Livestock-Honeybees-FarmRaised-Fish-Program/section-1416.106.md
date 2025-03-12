@@ -20,7 +20,7 @@
 
 (7) A socially disadvantaged, limited resource and beginning farmer or rancher certification, if applicable.
 
-(b) For 2014 and previous program years, available reliable or verifiable records must be provided only upon request by FSA. For 2015 and subsequent program years, for livestock grazing losses, participant must provide acceptable, verifiable, or reliable records that:
+(b) For 2017 and subsequent program years, for livestock grazing losses, participant must provide acceptable, verifiable, or reliable records that:
 
 (1) Additional livestock feed was fed to sustain eligible livestock during an eligible adverse weather or loss condition, or
 
@@ -52,8 +52,8 @@
 
 (7) Chattel inspections.
 
-(e) For eligible livestock death losses that occur during the 2015 and subsequent program years, the participant must provide proof of livestock death, current physical location of livestock in inventory, and physical location of claimed livestock at the time of death, according to the documentation requirements for the Livestock Indemnity Program in § 1416.305(d) through (f).
+(e) For eligible livestock death losses that occur during the 2017 and subsequent program years, the participant must provide proof of livestock death, current physical location of livestock in inventory, and physical location of claimed livestock at the time of death, according to the documentation requirements for the Livestock Indemnity Program in § 1416.305(d) through (f).
 
-(f) For eligible livestock death losses that occur during the 2012, 2013, and 2014 program years, the participant must provide proof of death and livestock inventory, according to the documentation requirements for the Livestock Indemnity Program in § 1416.305 (h).
+(f) If verifiable or reliable records are not available or provided, as required in paragraphs (b) through (d) of this section, the COC may accept producer's certification of losses if similar producers have comparable losses, as determined by the COC and approved by the STC (FSA State Committee).
 
-(g) If verifiable or reliable records are not available or provided, as required in paragraphs (b) through (d) of this section, the COC may accept producer's certification of losses if similar producers have comparable losses, as determined by the COC and approved by the STC (FSA State Committee).
+[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49466, Oct. 2, 2018]

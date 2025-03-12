@@ -2,67 +2,71 @@
 
 (a) To be considered eligible livestock for livestock grazing and feed, losses resulting from transporting water, and gathering livestock to treat for cattle tick fever, livestock must meet all the following conditions:
 
-(1) Be alpacas, adult or non-adult dairy cattle, adult or non-adult beef cattle, adult or non-adult buffalo, adult or non-adult beefalo, deer, elk, emus, equine, goats, llamas, poultry, reindeer, sheep, or swine;
+(1) Be grazing animals such as alpacas, adult or non-adult dairy cattle, adult or non-adult beef cattle, adult or non-adult beefalo, adult or non-adult buffalo or bison, deer, elk, emus, equine, goats, llamas, reindeer, or sheep;
 
 (2) Except for livestock losses resulting from gathering livestock to treat cattle tick fever, be livestock that would normally have been grazing the eligible grazing land or pastureland during the normal grazing period for the specific type of grazing land or pastureland for the county where the eligible adverse weather or eligible loss condition occurred;
 
-(3) Be livestock that is owned, cash-leased, purchased, under contract for purchase, or been raised by a contract grower or an eligible livestock producer, during the 60 days prior to the beginning date of the eligible adverse weather or eligible loss condition;
+(3) Be livestock that is owned, cash-leased, purchased, under contract for purchase, or been raised by a contract grower or an eligible livestock owner, for not less than 60 days before the beginning date of the eligible adverse weather or eligible loss condition;
 
-(4) Be livestock that has been maintained for commercial use as part of the producer's farming operation on the beginning date of the eligible adverse weather or eligible loss condition;
+(4) Be livestock produced or maintained for commercial use or be livestock that is produced or maintained for producing livestock products for commercial use, such as milk from dairy, as part of the contract grower's or livestock owner's farming operation on the beginning date of the eligible adverse weather or eligible loss condition;
 
-(5) Be livestock that has not been produced and maintained for reasons other than commercial use as part of a farming operation; and
+(5) Be livestock that was not in a feedlot, on the beginning date of the eligible adverse weather or eligible loss condition, as a part of the normal business operation of the producer, as determined by the Deputy Administrator.
 
-(6) Be livestock that was not in a feedlot, on the beginning date of the eligible adverse weather or eligible loss condition, as a part of the normal business operation of the producer, as determined by the Deputy Administrator.
-
-(b) The eligible livestock types for grazing and feed losses, losses resulting from transporting water and gathering livestock to treat for cattle tick fever, are:
+(b) The eligible livestock types for grazing and feed losses, losses resulting from transporting water, and gathering livestock to treat for cattle tick fever, are:
 
 (1) Adult beef cows or bulls,
 
-(2) Adult buffalo or beefalo cows or bulls,
+(2) Adult beefalo cows or bulls,
 
-(3) Adult dairy cows or bulls,
+(3) Adult buffalo or bison cows or bulls,
 
-(4) Alpacas,
+(4) Adult dairy cows or bulls,
 
-(5) Deer,
+(5) Alpacas,
 
-(6) Elk,
+(6) Deer,
 
-(7) Emus,
+(7) Elk,
 
-(8) Equine,
+(8) Emus,
 
-(9) Goats,
+(9) Equine,
 
-(10) Llamas,
+(10) Goats,
 
-(11) Non-adult beef cattle,
+(11) Llamas,
 
-(12) Non-adult buffalo or beefalo,
+(12) Non-adult beef cattle,
 
-(13) Non-adult dairy cattle,
+(13) Non-adult beefalo,
 
-(14) Poultry,
+(14) Non-adult buffalo or bison,
 
-(15) Reindeer,
+(15) Non-adult dairy cattle,
 
-(16) Sheep, and
+(16) Reindeer, and
 
-(17) Swine.
+(17) Sheep.
 
 (c) Ineligible livestock for grazing and feed losses, and losses resulting from transporting water, include, but are not limited to:
 
 (1) Livestock that were or would have been in a feedlot, on the beginning date of the eligible adverse weather or eligible loss condition, as a part of the normal business operation of the producer, as determined by FSA;
 
-(2) Yaks;
+(2) Animals that are not grazing animals;
 
-(3) Ostriches;
+(3) Yaks;
 
-(4) All beef and dairy cattle, and buffalo and beefalo that weighed less than 500 pounds on the beginning date of the eligible adverse weather or eligible loss condition;
+(4) Ostriches;
 
-(5) Any wild free roaming livestock, including horses and deer; and
+(5) Poultry;
 
-(6) Livestock produced or maintained for reasons other than commercial use as part of a farming operation, including, but not limited to, livestock produced or maintained exclusively for recreational purposes, such as:
+(6) Swine;
+
+(7) All beef and dairy cattle, and buffalo or bison and beefalo that weighed less than 500 pounds on the beginning date of the eligible adverse weather or eligible loss condition;
+
+(8) Any wild free roaming livestock, including horses and deer; and
+
+(9) Livestock that are not produced for commercial use or those that are not produced or maintained in a commercial operation for livestock products, such as milk from dairy, including, but not limited to, livestock produced or maintained exclusively for recreational purposes, such as:
 
 (i) Roping,
 
@@ -76,9 +80,9 @@
 
 (vi) Consumption by owner.
 
-(d) For death losses for livestock owners to be eligible, the livestock must meet all of the following conditions:
+(d) For death losses, the livestock must meet all of the following conditions:
 
-(1) Be alpacas, adult or non-adult dairy cattle, beef cattle, beefalo, buffalo, deer, elk, emus, equine, goats, llamas, poultry, reindeer, sheep, or swine, and meet all the conditions in paragraph (f) of this section.
+(1) Be alpacas, adult or non-adult dairy cattle, beef cattle, beefalo, buffalo or bison, deer, elk, emus, equine, goats, llamas, poultry, reindeer, sheep, or swine, and meet all the conditions in paragraph (f) of this section.
 
 (2) Be one of the following categories of animals for which calculations of eligibility for payments will be calculated separately for each producer with respect to each category:
 
@@ -86,105 +90,113 @@
 
 (ii) Adult beef cows;
 
-(iii) Adult buffalo or beefalo bulls;
+(iii) Adult beefalo bulls;
 
-(iv) Adult buffalo or beefalo cows;
+(iv) Adult beefalo cows;
 
-(v) Adult dairy bulls;
+(v) Adult buffalo or bison bulls;
 
-(vi) Adult dairy cows;
+(vi) Adult buffalo or bison cows;
 
-(vii) Alpacas;
+(vii) Adult dairy bulls;
 
-(viii) Chickens, broilers, pullets;
+(viii) Adult dairy cows;
 
-(ix) Chickens, chicks;
+(ix) Alpacas;
 
-(x) Chickens, layers, roasters;
+(x) Chickens, broilers, pullets (regular size);
 
-(xi) Deer;
+(xi) Chickens, chicks;
 
-(xii) Ducks;
+(xii) Chickens, layers;
 
-(xiii) Ducks, ducklings;
+(xiii) Chickens, pullets or Cornish hens (small size);
 
-(xiv) Elk;
+(xiv) Deer;
 
-(xv) Emus;
+(xv) Ducks;
 
-(xvi) Equine;
+(xvi) Ducks, ducklings;
 
-(xvii) Geese, goose;
+(xvii) Elk;
 
-(xviii) Geese, gosling;
+(xviii) Emus;
 
-(xix) Goats, bucks;
+(xix) Equine;
 
-(xx) Goats, nannies;
+(xx) Geese, goose;
 
-(xxi) Goats, kids;
+(xi) Geese, gosling;
 
-(xxii) Llamas;
+(xii) Goats, bucks;
 
-(xxiii) Non-adult beef cattle;
+(xxiii) Goats, nannies;
 
-(xxiv) Non-adult buffalo or beefalo;
+(xxiv) Goats, kids;
 
-(xxv) Non-adult dairy cattle;
+(xxv) Llamas;
 
-(xxvi) Reindeer;
+(xxvi) Non-adult beef cattle;
 
-(xxvii) Sheep, ewes;
+(xxvii) Non-adult beefalo;
 
-(xxviii) Sheep, lambs;
+(xxviii) Non-adult buffalo or bison;
 
-(xxix) Sheep, rams;
+(xxix) Non-adult dairy cattle;
 
-(xxx) Swine, feeder pigs under 50 pounds;
+(xxx) Reindeer;
 
-(xxxi) Swine, sows, boars, barrows, gilts 50 to 150 pounds;
+(xxxi) Sheep, ewes;
 
-(xxxii) Swine, sows, boars, barrows, gilts over 150 pounds;
+(xxxii) Sheep, lambs;
 
-(xxxiii) Turkeys, poults; and
+(xxxiii) Sheep, rams;
 
-(xxxiv) Turkeys, toms, fryers, and roasters.
+(xxxiv) Swine, feeder pigs under 50 pounds;
 
-(e) Under ELAP, “contract growers” will only be deemed to include producers of livestock, other than feedlots, whose income is dependent on the actual weight gain and survival of the livestock. For death losses for contract growers to be eligible, the livestock must meet all of the following conditions:
+(xxxv) Swine, sows, boars, barrows, gilts 50 to 150 pounds;
+
+(xxxvi) Swine, sows, boars, barrows, gilts over 150 pounds;
+
+(xxxvii) Turkeys, poults; and
+
+(xxxviii) Turkeys, toms, fryers, and roasters.
+
+(e) Under ELAP, “contract growers” only includes producers of livestock, other than feedlots, whose income is dependent on the survival of the livestock and any of the following: Actual weight gain of the livestock, number of offspring produced from the livestock, or quantity of products (eggs, milk, etc.) produced from the livestock. For death losses for contract growers to be eligible, the livestock must meet all of the following conditions:
 
 (1) Be poultry or swine and meet all the conditions in paragraph (f) of this section.
 
 (2) Be one of the following categories of animals for which calculations of eligibility for payments will be calculated separately for each contract grower with respect to each category:
 
-(i) Chickens, broilers, pullets;
+(i) Chickens, broilers, pullets (regular size);
 
-(ii) Chickens, layers, roasters;
+(ii) Chickens, layers;
 
-(iii) Geese, goose;
+(iii) Chickens, pullets or Cornish hens (small size);
 
-(iv) Swine, boars, sows;
+(iv) Geese, goose;
 
-(v) Swine, feeder pigs;
+(v) Swine, boars, sows;
 
-(vi) Swine, lightweight barrows, gilts;
+(vi) Swine, feeder pigs;
 
-(vii) Swine, sows, boars, barrows, gilts; and
+(vii) Swine, lightweight barrows, gilts;
 
-(viii) Turkeys, toms, fryers, and roasters.
+(viii) Swine, sows, boars, barrows, gilts; and
 
-(f) For livestock death losses to be considered eligible livestock for the purpose of generating payments under this subpart, livestock must meet all of the following conditions:
+(ix) Turkeys, toms, fryers, and roasters.
+
+(f) For livestock death losses in the 2017 and subsequent program years, livestock must meet all of the following conditions:
 
 (1) They must have died:
 
 (i) On or after the beginning date of the eligible loss condition; and
 
-(ii) On or after October 1, 2011, and no later than 60 calendar days from the ending date of the eligible loss condition; and
+(ii) Within 30 calendar days from the ending date of the eligible loss condition, or for newborn livestock within 7 calendar days from the ending date of the eligible loss condition; and
 
-(iii) As a direct result of an eligible loss condition that occurs on or after October 1, 2011, and
+(iii) As a direct result of an eligible loss condition.
 
-(iv) In the program year for which payment is being requested; and
-
-(2) Been maintained for commercial use as part of a farming operation on the day the livestock died; and
+(2) Been produced for commercial use or maintained in a commercial operation for producing livestock products, such as milk from dairy or eggs from poultry, on the day of the eligible adverse weather or eligible loss condition that caused the livestock to die; and
 
 (3) Before dying, not have been produced or maintained for reasons other than commercial use as part of a farming operation, such non-eligible uses being understood to include, but not be limited to, any uses of wild free roaming animals or use of the animals for recreational purposes, such as pleasure, hunting, roping, pets, or for show.
 
@@ -215,3 +227,5 @@
 (ii) Been maintained for commercial use as part of a farming operation; and
 
 (iii) Been physically located in the county where the eligible loss adverse weather or eligible loss condition occurred on the beginning date of the eligible adverse weather or eligible loss condition.
+
+79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49465, Oct. 2, 2018]

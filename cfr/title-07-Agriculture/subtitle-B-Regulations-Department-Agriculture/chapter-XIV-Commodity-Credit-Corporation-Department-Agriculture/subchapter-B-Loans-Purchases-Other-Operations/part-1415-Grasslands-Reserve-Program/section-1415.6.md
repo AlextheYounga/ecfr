@@ -6,8 +6,8 @@ To be eligible to participate in GRP, an applicant, except as otherwise describe
 
 (b) Agree to provide such information to USDA that is necessary or desirable to assist in its determination of eligibility for program benefits and for other program implementation purposes;
 
-(c) Meet the Adjusted Gross Income requirements in 7 CFR part 1400 of this title, unless exempted under part 1400 of this title;
+(c) Meet the Adjusted Gross Income requirements in part 1400 of this chapter, unless exempted under part 1400 of this chapter; and
 
-(d) Meet the conservation compliance requirements found in part 12 of this title; and
+(d) Meet the conservation compliance requirements found in part 12 of this title.
 
-(e) Comply with applicable registration and reporting requirements of the Federal Funding Accountability and Transparency Act of 2006 (Pub. L. 109-282, as amended) and 3 CFR parts 25 and 170.
+[75 FR 73925, Nov. 29, 2010, as amended at 83 FR 23209, May 18, 2018]

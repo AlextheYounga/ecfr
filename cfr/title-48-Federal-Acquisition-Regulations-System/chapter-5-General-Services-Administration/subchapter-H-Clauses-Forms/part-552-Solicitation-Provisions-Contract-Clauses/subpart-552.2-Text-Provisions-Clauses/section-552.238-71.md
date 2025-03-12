@@ -1,5 +1,7 @@
 ##### 552.238-71 Submission and Distribution of Authorized FSS Schedule Pricelists. #####
 
+Link to an amendment published at 84 FR 17041, Apr. 23, 2019.
+
 As prescribed in 538.273(a)(2), insert the following clause:
 
 Submission and Distribution of Authorized FSS Schedule Pricelists (JUL 2016)

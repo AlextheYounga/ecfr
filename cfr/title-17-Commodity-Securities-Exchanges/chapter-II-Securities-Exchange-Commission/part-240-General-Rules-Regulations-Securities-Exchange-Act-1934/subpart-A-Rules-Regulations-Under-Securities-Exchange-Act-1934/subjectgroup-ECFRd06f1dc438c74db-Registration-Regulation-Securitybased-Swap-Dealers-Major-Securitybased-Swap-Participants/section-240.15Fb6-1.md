@@ -1,5 +1,1 @@
-##### § 240.15Fb6-1 Associated persons. #####
-
-Link to an amendment published at 84 FR 4947, Feb. 19, 2019.
-
-Unless otherwise ordered by the Commission, when it files an application to register with the Commission as a security-based swap dealer or major security-based swap participant, a security-based swap dealer or a major security-based swap participant may permit a person that is associated with such security-based swap dealer or major security-based swap participant that is not a natural person and that is subject to statutory disqualification to effect or be involved in effecting security-based swaps on its behalf, provided that the statutory disqualification(s), described in Sections 3(a)(39)(A) through (F) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(39)(A)-(F)), occurred prior to the compliance date of this rule, and provided that it identifies each such associated person on Schedule C of Form SBSE (§ 249.1600 of this chapter), Form SBSE-A (§ 249.1600a of this chapter), or Form SBSE-BD (§ 249.1600b of this chapter), as appropriate.
+##### § 240.15Fb6-1 [Reserved] #####

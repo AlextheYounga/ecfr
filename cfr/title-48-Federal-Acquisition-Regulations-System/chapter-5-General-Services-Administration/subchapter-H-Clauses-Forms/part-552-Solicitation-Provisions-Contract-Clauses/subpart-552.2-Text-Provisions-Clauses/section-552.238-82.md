@@ -1,5 +1,7 @@
 ##### 552.238-82 Special Ordering Procedures for the Acquisition of Order-Level Materials. #####
 
+Link to an amendment published at 84 FR 17045, Apr. 23, 2019.
+
 As prescribed in 538.7204(b), insert the following clause:
 
 Special Ordering Procedures for the Acquisition of Order-Level Materials (JAN 2018)

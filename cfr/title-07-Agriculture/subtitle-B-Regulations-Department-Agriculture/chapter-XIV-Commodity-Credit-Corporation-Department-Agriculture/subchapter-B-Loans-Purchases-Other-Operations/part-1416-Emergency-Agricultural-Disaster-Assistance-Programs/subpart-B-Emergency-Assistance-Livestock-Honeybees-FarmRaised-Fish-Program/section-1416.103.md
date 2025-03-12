@@ -1,10 +1,10 @@
 ##### § 1416.103 Eligible losses, adverse weather, and other loss conditions. #####
 
-(a) An eligible loss covered under this subpart is a loss that an eligible producer or contract grower of livestock, honeybees, or farm-raised fish incurs due to an eligible adverse weather or eligible loss condition, as determined by the Deputy Administrator.
+(a) An eligible loss covered under this subpart is a loss that an eligible producer, livestock owner, or contract grower of livestock, or eligible producer of honeybees or farm-raised fish incurs due to an eligible adverse weather or eligible loss condition, as determined by the Deputy Administrator.
 
 (b) A loss covered under LFP or LIP is not eligible for ELAP.
 
-(c) To be eligible, the loss must have occurred during the program year for which payment is being requested.
+(c) To be an eligible loss in a program year, the loss must have been apparent to the person or legal entity providing the notice and to FSA in the program year for which payment is being requested.
 
 (d) For a livestock feed loss to be considered an eligible loss, the livestock feed loss must be one of the following:
 
@@ -45,3 +45,5 @@
 (i) For honeybee colony or honeybee hive losses to be considered eligible, the hive producer must have incurred the loss in the county where the eligible adverse weather or eligible loss condition occurred. The honeybee colony or hive losses must be due to an eligible adverse weather or eligible loss condition, as determined by the Deputy Administrator, including, but not limited to, colony collapse disorder, earthquake, eligible winter storm, as specified in § 1416.102, excessive wind, flood, hurricane, lightning, tornado, volcanic eruption, and wildfire. To be considered an eligible honeybee colony loss, the colony loss must be in excess of normal mortality, as established by the Deputy Administrator, and the loss could not have been prevented through reasonable and available measures. Acceptable documentation must be provided upon request by FSA to demonstrate an eligible loss occurred, was associated with an eligible adverse weather event or loss condition, and that generally accepted husbandry and production practices had been followed.
 
 (j) For death losses of bait fish, game fish, or other aquatic species, as determined by the Deputy Administrator, to be considered eligible, the producer must have incurred the fish loss, in excess of normal mortality, in the county where the eligible adverse weather or eligible loss condition occurred. The fish death must be due to an eligible adverse weather or eligible loss condition as determined by the Deputy Administrator including, but not limited to, earthquake, flood, hurricane, tidal surge, tornado, and volcanic eruption.
+
+[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49465, Oct. 2, 2018]

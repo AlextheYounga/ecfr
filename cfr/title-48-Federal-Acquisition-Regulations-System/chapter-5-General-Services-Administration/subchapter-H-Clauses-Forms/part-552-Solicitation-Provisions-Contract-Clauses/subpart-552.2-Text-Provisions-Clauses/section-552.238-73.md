@@ -1,5 +1,7 @@
 ##### 552.238-73 Cancellation. #####
 
+Link to an amendment published at 84 FR 17041, Apr. 23, 2019.
+
 As prescribed in 538.273(a)(4), insert the following clause:
 
 Cancellation (SEP 1999)

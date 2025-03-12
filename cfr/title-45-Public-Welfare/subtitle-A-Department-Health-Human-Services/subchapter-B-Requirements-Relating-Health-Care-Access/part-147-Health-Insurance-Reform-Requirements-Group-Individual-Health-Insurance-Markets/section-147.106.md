@@ -1,5 +1,7 @@
 ##### § 147.106 Guaranteed renewability of coverage. #####
 
+Link to an amendment published at 84 FR 17561, Apr. 25, 2019.
+
 (a) *General rule.* Subject to paragraphs (b) through (d) of this section, a health insurance issuer offering health insurance coverage in the individual, small group, or large group market is required to renew or continue in force the coverage at the option of the plan sponsor or the individual, as applicable.
 
 (b) *Exceptions.* An issuer may nonrenew or discontinue health insurance coverage offered in the group or individual market based only on one or more of the following:

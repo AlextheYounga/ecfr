@@ -28,11 +28,9 @@
 
 (9) States, political subdivisions, and entities thereof will not be persons eligible for payment. Any cooperative association of producers that markets commodities for producers will not be considered to be a person eligible for payment;
 
-(10) Be in compliance with the terms of all other USDA-administered conservation program agreements to which the participant is a party;
+(10) Be in compliance with the terms of all other USDA-administered conservation program agreements to which the participant is a party; and
 
-(11) Develop and agree to comply with an APO and O&M agreement, as described in § 1465.3; and
-
-(12) Comply with applicable registration and reporting requirements of the Federal Funding Accountability and Transparency Act of 2006 (Pub. L. 109-282, as amended), and 2 CFR parts 25 and 170.
+(11) Develop and agree to comply with an APO and O&M agreement, as described in § 1465.3.
 
 (d) Land may only be considered for enrollment in AMA if NRCS determines that the land is:
 
@@ -48,4 +46,4 @@
 
 (3) The land is Indian land.
 
-[74 FR 64595, Dec. 8, 2009, as amended at 76 FR 19684, Apr. 8, 2011]
+[74 FR 64595, Dec. 8, 2009, as amended at 76 FR 19684, Apr. 8, 2011; 83 FR 23209, May 18, 2018]

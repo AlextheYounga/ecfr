@@ -4,7 +4,7 @@
 
 (1) Is native or improved pastureland with permanent vegetative cover, or
 
-(2) Is planted to a crop planted specifically for the purpose of providing grazing for covered livestock, as reported on the producer's acreage report, including crops such as forage sorghum or small grains, but not including corn stalks or grain sorghum stalks; and
+(2) Is planted to a crop planted specifically for the purpose of providing grazing for covered livestock, as reported on the producer's acreage report, including crops such as forage sorghum, small grains, annual planted ryegrass, or annual planted crabgrass, but not including corn stalks or grain sorghum stalks; and
 
 (3) Is grazing land or pastureland that is owned or leased by the eligible livestock producer that is physically located in a county that is, during the normal grazing period for the specific type of grazing land or pastureland for the county, rated by the U.S. Drought Monitor as having a:
 
@@ -23,3 +23,5 @@
 (1) The grazing loss occurs on rangeland that is managed by a Federal agency and
 
 (2) The eligible livestock producer is prohibited by the Federal agency from grazing the normal permitted livestock on the managed rangeland due to a fire.
+
+[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49467, Oct. 2, 2018]

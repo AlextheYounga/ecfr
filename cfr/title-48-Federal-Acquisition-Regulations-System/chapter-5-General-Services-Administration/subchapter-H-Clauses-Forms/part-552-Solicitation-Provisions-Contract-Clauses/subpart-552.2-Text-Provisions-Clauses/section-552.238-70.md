@@ -1,5 +1,7 @@
 ##### 552.238-70 Identification of Electronic Office Equipment Providing Accessibility for the Handicapped. #####
 
+Link to an amendment published at 84 FR 17041, Apr. 23, 2019.
+
 As prescribed in 538.273(a)(1), insert the following clause:
 
 Identification of Electronic Office Equipment Providing Accessibility for the Handicapped (SEP 1991)

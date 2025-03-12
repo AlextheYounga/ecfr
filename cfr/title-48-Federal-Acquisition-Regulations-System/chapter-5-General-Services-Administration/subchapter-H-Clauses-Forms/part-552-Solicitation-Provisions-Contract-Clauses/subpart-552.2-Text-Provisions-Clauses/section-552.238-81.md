@@ -1,5 +1,7 @@
 ##### 552.238-81 Modification (Federal Supply Schedule). #####
 
+Link to an amendment published at 84 FR 17045, Apr. 23, 2019.
+
 As prescribed in 538.273(b), insert the following clause:
 
 Modifications (Federal Supply Schedule) (APR 2014)

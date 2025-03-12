@@ -1,23 +1,25 @@
 ##### § 1416.403 Eligible losses. #####
 
-(a) To be considered an eligible loss under this subpart:
+(a) To qualify for any assistance under this subpart, except for assistance under § 1416.400(c), the eligible orchardist or nursery tree grower must first have suffered more than a 15 percent tree, bush, or vine mortality loss on a stand (adjusted for normal mortality) as a result of natural disaster as determined by the Deputy Administrator. For assistance for losses to pecan trees under § 1416.400(c), the eligible orchardist or nursery tree grower must first have suffered a mortality loss of more than 7.5 percent (adjusted for normal mortality) on a stand as a result of natural disaster as determined by the Deputy Administrator.
 
-(1) Eligible trees, bushes, or vines must have been lost or damaged as a result of natural disaster as determined by the Deputy Administrator;
+(b) The qualifying loss of a stand of trees, bushes, or vines specified in paragraph (a) of this section will be determined based on:
 
-(2) The individual stand must have sustained a mortality loss or damage loss, as the case may be, in excess of 15 percent after adjustment for normal mortality or damage, to be determined based on:
+(1) Each eligible disaster event, except for losses due to plant disease;
 
-(i) Each eligible disaster event, except for losses due to plant disease;
+(2) For plant disease, the time period, as determined by the Deputy Administrator, for which the stand is infected.
 
-(ii) For plant disease, the time period, as determined by the Deputy Administrator, for which the stand is infected.
+(c) Mortality or damage loss not eligible for inclusion as a qualifying loss under this section or for payment under § 1416.406 includes those losses where:
 
-(3) The loss could not have been prevented through reasonable and available measures; and
+(1) The loss or damage could have been prevented through reasonable and available measures; and
 
-(4) The trees, bushes, or vines, in the absence of a natural disaster, would not normally have required rehabilitation or replanting within the 12-month period following the loss.
+(2) The trees, bushes, or vines, in the absence of a natural disaster, would normally have required rehabilitation or replanting within the 12-month period following the loss.
 
-(b) The damage or loss must be visible and obvious to the county committee representative. If the damage is no longer visible, the county committee may accept other evidence of the loss as it determines is reasonable.
+(d) The damage or loss must be visible and obvious to the county committee representative. If the damage is no longer visible, the county committee may accept other evidence of the loss as it determines is reasonable.
 
-(c) The county committee may require information from a qualified expert, as determined by the county committee, to determine extent of loss in the case of plant disease or insect infestation.
+(e) The county committee may require information from a qualified expert, as determined by the county committee, to determine extent of loss in the case of plant disease or insect infestation.
 
-(d) The Deputy Administrator will determine the types of trees, bushes, and vines that are eligible.
+(f) The Deputy Administrator will determine the types of trees, bushes, and vines that are eligible.
 
-(e) An individual stand that did not sustain a sufficient loss as specified in paragraph (a)(2) of this section is not eligible for payment, regardless of the amount of loss sustained.
+(g) A stand that did not suffer a qualifying mortality loss as specified in paragraph (a) of this section is not eligible for payment.
+
+[83 FR 49471, Oct. 2, 2018]

@@ -1,5 +1,7 @@
 ##### 552.215-71 Examination of Records by GSA (Multiple Award Schedule). #####
 
+Link to an amendment published at 84 FR 17041, Apr. 23, 2019.
+
 As prescribed in 515.209-70(c), insert the following clause:
 
 Examination of Records by GSA (Multiple Award Schedule) (JUL 2003)

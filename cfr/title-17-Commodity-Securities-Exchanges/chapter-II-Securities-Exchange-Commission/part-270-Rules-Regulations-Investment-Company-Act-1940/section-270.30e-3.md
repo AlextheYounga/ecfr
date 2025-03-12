@@ -1,8 +1,6 @@
 ##### § 270.30e-3 Internet availability of reports to shareholders. #####
 
-Link to an amendment published at 83 FR 29206, June 22, 2018.
-
-(a) *General.* A Company may satisfy its obligation to transmit a report required by § 270.30e-1 or § 270.30e-2 (“Report”) to a shareholder of record if all of the conditions set forth in paragraphs (b) through (e), and (i) of this section are satisfied.
+(a) *General.* A Company may satisfy its obligation to transmit a report required by § 270.30e-1 or § 270.30e-2 (“Report”) to a shareholder of record if all of the conditions set forth in paragraphs (b) through (e) of this section are satisfied.
 
 (b) *Availability of report to shareholders and other materials.* (1) The following materials are publicly accessible, free of charge, at the website address specified in the Notice from the date the Company transmits the Report as required by § 270.30e-1 or § 270.30e-2 until the Company next transmits a report required by § 270.30e-1 or § 270.30e-2 with respect to the Fund:
 
@@ -108,24 +106,8 @@ Link to an amendment published at 83 FR 29206, June 22, 2018.
 
 (5) *Summary Prospectus* means the summary prospectus described in paragraph (b) of § 230.498 of this chapter.
 
-(i) *Transition period.* (1) A Company may rely on this section to first transmit a Report to a shareholder:
-
-(i) Beginning on January 1, 2021, if:
-
-(A) The Company has included the required statement on each prospectus, summary prospectus, annual report to shareholders, and semi-annual report to shareholders, as applicable, required to be delivered or transmitted to shareholders for the period beginning on the date the Company first publicly offers its shares, and ending on December 31, 2020; or
-
-(B) The Company first publicly offers its shares on or after January 1, 2021; or
-
-(ii) In all other cases, after the Company has included the required statement on each prospectus, summary prospectus, annual report to shareholders, and semi-annual report to shareholders, as applicable, required to be delivered or transmitted to shareholders for a period of two years or January 1, 2022, whichever comes first.
-
-(2) For purposes of this paragraph (i), a “required statement” means the statement regarding the Company's intent to rely on this section specified by:
-
-(i) Its applicable registration form, and
-
-(ii) In the case of a Fund that uses a summary prospectus, § 230.498 of this chapter.
-
 Note to § 270.30e-3:
 
 For a discussion of how the conditions and requirements of this rule may apply in the context of investors holding Fund shares through financial intermediaries, see Investment Company Release No. 33115 (June 5, 2018).
 
-[83 FR 29205, June 22, 2018]
+[83 FR 29205, June 22, 2018, as amended at 83 FR 29206, June 22, 2018]

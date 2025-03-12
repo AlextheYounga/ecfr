@@ -10,11 +10,9 @@
 
 (4) Be in compliance with Adjusted Gross Income provisions found at 7 CFR part 1400;
 
-(5) Supply information, as required by NRCS, to determine eligibility for the program, including but not limited to, information related to eligibility requirements and ranking factors; conservation activity and production system records; information to verify the applicant's status as an historically underserved producer or a veteran farmer or rancher, if applicable; and payment eligibility as established by 7 CFR part 1400;
+(5) Supply information, as required by NRCS, to determine eligibility for the program, including but not limited to, information related to eligibility requirements and ranking factors; conservation activity and production system records; information to verify the applicant's status as an historically underserved producer or a veteran farmer or rancher, if applicable; and payment eligibility as established by 7 CFR part 1400; and
 
-(6) Comply with applicable registration and reporting requirements of the Federal Funding Accountability and Transparency Act of 2006 (Pub. L. 109-282, as amended), and 2 CFR parts 25 and 170; and
-
-(7) Provide a list of all members of the legal entity or joint operation, as applicable, and embedded entities along with members' tax identification numbers and percentage interest in the legal entity or joint operation. Where applicable; American Indians, Alaska Natives, and Pacific Islanders may use another unique identification number for each individual eligible for payments.
+(6) Provide a list of all members of the legal entity or joint operation, as applicable, and embedded entities along with members' tax identification numbers and percentage interest in the legal entity or joint operation. Where applicable; American Indians, Alaska Natives, and Pacific Islanders may use another unique identification number for each individual eligible for payments.
 
 (b) *Eligible land.* A contract application must include all of the eligible land on an applicant's agricultural operation. A participant may submit an application(s) to enter into an additional contract(s) for newly acquired or newly eligible land, which would then compete with other applications in a subsequent ranking period.
 
@@ -39,3 +37,5 @@
 (ii) Has been maintained using long- term crop rotation practices as determined by the NRCS, or
 
 (iii) Is incidental land needed for efficient operation of the farm or ranch as determined by NRCS.
+
+[79 FR 65843, Nov. 5, 2014, as amended at 83 FR 23209, May 18, 2018]

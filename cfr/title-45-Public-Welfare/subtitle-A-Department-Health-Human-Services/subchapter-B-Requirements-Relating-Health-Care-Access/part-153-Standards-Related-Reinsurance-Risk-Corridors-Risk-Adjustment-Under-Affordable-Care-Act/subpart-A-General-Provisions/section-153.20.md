@@ -1,5 +1,7 @@
 ##### § 153.20 Definitions. #####
 
+Link to an amendment published at 84 FR 17561, Apr. 25, 2019.
+
 The following definitions apply to this part, unless the context indicates otherwise:
 
 *Alternate risk adjustment methodology* means a risk adjustment methodology proposed by a State for use instead of a Federally certified risk adjustment methodology that has not yet been certified by HHS.

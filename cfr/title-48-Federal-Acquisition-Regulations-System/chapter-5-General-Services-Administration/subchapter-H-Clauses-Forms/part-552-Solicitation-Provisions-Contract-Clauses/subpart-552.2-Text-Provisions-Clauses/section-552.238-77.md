@@ -1,5 +1,7 @@
 ##### 552.238-77 Definition (Federal Supply Schedules) - Non-Federal Entity. #####
 
+Link to an amendment published at 84 FR 17042, Apr. 23, 2019.
+
 As prescribed in 538.7004(a), insert the following clause:
 
  Definition (Federal Supply Schedules) - Non-Federal Entity (JUL 2016)

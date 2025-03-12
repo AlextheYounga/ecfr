@@ -1,5 +1,7 @@
 ##### § 146.152 Guaranteed renewability of coverage for employers in the group market. #####
 
+Link to an amendment published at 84 FR 17561, Apr. 25, 2019.
+
 (a) *General rule.* Subject to paragraphs (b) through (d) of this section, a health insurance issuer offering health insurance coverage in the small or large group market is required to renew or continue in force the coverage at the option of the plan sponsor.
 
 (b) *Exceptions.* An issuer may nonrenew or discontinue group health insurance coverage offered in the small or large group market based only on one or more of the following:

@@ -1,5 +1,7 @@
 ##### 552.238-72 Identification of Products That Have Environmental Attributes. #####
 
+Link to an amendment published at 84 FR 17041, Apr. 23, 2019.
+
 As prescribed in 538.273(a)(3), insert the following clause:
 
 Identification of Products That Have Environmental Attributes (SEP 2003)

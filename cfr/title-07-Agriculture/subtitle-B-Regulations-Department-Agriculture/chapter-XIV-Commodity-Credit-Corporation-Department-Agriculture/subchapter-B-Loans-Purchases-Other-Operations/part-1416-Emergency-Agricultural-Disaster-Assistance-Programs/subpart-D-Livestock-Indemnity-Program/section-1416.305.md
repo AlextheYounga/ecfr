@@ -1,48 +1,66 @@
 ##### § 1416.305 Application process. #####
 
-(a) A producer or contract grower that suffered livestock losses that creates or could create a claim for benefits must:
+(a) Notices of loss and applications for payment that had been filed under the regulations in effect at the time of filing and which had been issued an administrative decision for either a 2017 or 2018 program year loss are not eligible for consideration under paragraph (b) of this section, unless the administrative decision was based only on a failure to submit the notice of loss or application for payment by the prior applicable deadline. In that instance, the owner or contract grower must file a notice under paragraph (b) to receive a new decision.
 
-(1) For losses on or after October 1, 2011, and before January 1, 2015, provide a notice of loss and application for payment to FSA no later than January 30, 2015.
+(b) A livestock owner or contract grower that suffered livestock losses must:
 
-(2) For 2015 calendar year and subsequent year losses, provide a notice of loss to FSA within the earlier of:
+(1) For 2017 and subsequent program years, provide a notice of loss, by livestock unit, to FSA by the later of 30 calendar days of when the loss of livestock is first apparent to the livestock owner or contract grower or December 3, 2018.
 
-(i) 30 calendar days of when the loss of livestock is apparent to the participant or
+(2) Submit the notice of loss required in paragraph (b)(1) of this section to the FSA county office responsible for servicing the physical location county where the loss occurred.
 
-(ii) 30 calendar days after the end of the calendar year in which the loss of livestock occurred.
+(c) In addition to the notice of loss required in paragraph (b) of this section, a participant must also submit a completed application for payment, by livestock unit:
 
-(3) The participant must submit the notice of loss required in paragraphs (a)(1) and (2) of this section to the FSA administrative county office that maintains the participant's farm records for the agricultural operation.
+(1) For losses apparent in 2017, by December 3, 2018.
 
-(b) In addition to the notices of loss required in paragraph (a)(2) of this section, a participant must also submit a completed application for payment no later than 30 calendar days after the end of the calendar year in which the loss of livestock occurred.
+(2) For losses apparent in 2018 and subsequent years, by no later than 60 calendar days after the end of the calendar year in which the eligible loss condition occurred.
 
-(c) A participant must also provide a copy of the grower contract, if a contract grower, and other supporting documents required for determining eligibility as an applicant at the time the participant submits the completed application for payment. Supporting documents must include:
+(d) A participant must provide other supporting documents required for determining eligibility as an applicant at the time the participant submits the completed application for payment. Supporting documents must include:
 
 (1) Evidence of loss,
 
 (2) Current physical location of livestock in inventory,
 
-(3) Physical location of claimed livestock at the time of death,
+(3) Physical location of claimed livestock at the time of death or injury,
 
-(4) Inventory numbers and other inventory information necessary to establish actual mortality as required by FSA,
+(4) Inventory numbers for the livestock unit and other inventory information necessary to establish actual mortality as required by FSA,
 
 (5) A farm operating plan, if a current farm operating plan is not already on file in the FSA county office,
 
-(6) Documentation of the adverse weather event from an official weather reporting data source that is determined by FSA to be reputable and available in the public domain such as, but not limited to, NOAA, from which State and County FSA Offices can validate the adverse weather event occurred, and
+(6) Documentation of the adverse weather event from an official weather reporting data source that is determined by FSA to be reputable and available in the public domain such as, but not limited to, NOAA, from which State and County FSA Offices can validate the adverse weather event occurred,
 
-(7) Documentation to substantiate eligible animal attacks by animals or avian predators showing confirmation of the eligible animal or avian attack obtained from a source such as, but not limited to, the following:
+(7) Documentation to substantiate eligible attacks obtained from a source such as, but not limited to, the following:
 
 (i) APHIS,
 
 (ii) State level Department of Natural Resources, or
 
-(iii) Other sources or documentation, as determined by the Deputy Administrator.
+(iii) Other sources or documentation, such as third parties, as determined by the Deputy Administrator, and
 
-(8) The livestock producer may supplement additional documentation to support eligible adverse weather events and eligible attacks by animal or avian predators, as determined by the Deputy Administrator.
+(8) If livestock are injured and sold at a reduced price.
 
-(d) The participant must provide adequate proof that the death of the eligible livestock occurred as a direct result of an eligible adverse weather event or attacks by animals reintroduced into the wild by the Federal Government or protected by Federal law, including wolves and avian predators, in the calendar year for which benefits are requested. The quantity and kind of livestock that died as a direct result of the eligible adverse weather event during the calendar year for which benefits are being requested may be documented by: Purchase records; veterinarian records; bank or other loan papers; rendering-plant truck receipts; Federal Emergency Management Agency records; National Guard records; written contracts; production records; Internal Revenue Service records; property tax records; private insurance documents; and other similar verifiable documents as determined by FSA.
+(i) Documentation of injured livestock's gross price, and
 
-(e) If adequate verifiable proof of death documentation is not available, the participant may provide reliable records, in conjunction with verifiable beginning and ending inventory records, as proof of death. Reliable records may include contemporaneous producer records, dairy herd improvement records, brand inspection records, vaccination records, dated pictures, and other similar reliable documents as determined by FSA.
+(ii) Documentation to substantiate injury of livestock due to an eligible adverse weather event or eligible attack.
 
-(f) Certification of livestock deaths by third parties may be accepted if verifiable beginning and ending inventory data is available only if verifiable proof of death records or reliable proof of death records in conjunction with verifiable beginning and ending inventory records are not available and both of the following conditions are met:
+(9) The livestock producer may supplement additional documentation to support the eligible loss condition, as determined by the Deputy Administrator.
+
+(10) In addition, contract growers must provide a copy of the grower contract.
+
+(e) For death losses or losses resulting from injured livestock sold at a reduced price, the participant must provide adequate proof that the death or injury of the eligible livestock occurred as a direct result of an eligible loss condition, as opposed to any other possible or potential cause of loss. The quantity and kind of livestock that died as a direct result of the eligible loss condition may be documented by: Purchase records; veterinarian records; bank or other loan papers; rendering-plant truck receipts; Federal Emergency Management Agency records; National Guard records; written contracts; production records; Internal Revenue Service records; property tax records; private insurance documents; and other similar verifiable documents as determined by FSA. The quantity and kind of livestock that died or has been injured and sold at a reduced price as a direct result of an eligible attack must be substantiated by documentation of confirmed kills observed by an acceptable source as specified in paragraphs (d)(7) and (g) of this section.
+
+(f) If adequate verifiable proof of death or injury documentation is not available, the participant may provide reliable records, in conjunction with verifiable beginning and ending inventory records, as proof of death or injury. Reliable records may include contemporaneous producer records, dairy herd improvement records, brand inspection records, vaccination records, dated pictures, and other similar reliable documents as determined by FSA.
+
+(g) For 2018 and subsequent calendar years, for livestock death losses due to disease, a licensed veterinarian's certification of livestock deaths may be accepted as verifiable proof of death, if reliable beginning inventory data is available, only if the veterinarian provides a written statement containing all of the following:
+
+(1) Veterinarian's personal observation of the animals and knowledge of how the deaths of the livestock were because of disease caused or exacerbated by an eligible adverse weather event;
+
+(2) Livestock deaths were not otherwise avoidable and preventable using good animal husbandry and management protocols and practices by the livestock producer; and
+
+(3) Other information required by FSA to determine the certification acceptable.
+
+(4) Information furnished by the participant and the veterinarian will be used to determine eligibility for program benefits. Furnishing the information is voluntary; however, without all required information program benefits will not be approved or provided
+
+(h) Certification of livestock deaths or injuries by third parties may be accepted if verifiable beginning and ending inventory data is available only if proof of death records in conjunction with verifiable beginning and ending inventory records are not available and both of the following conditions are met:
 
 (1) The livestock owner or livestock contract grower, as applicable, certifies in writing:
 
@@ -65,10 +83,11 @@
 (iv) Other information required by FSA to determine the certification acceptable.
 
 (v) Data furnished by the participant and the third party will be used to determine eligibility for program benefits. Furnishing the data is voluntary; however, without all required data program benefits will not be approved or provided.
+.
 
-(g) Calf and lamb open range livestock operations may provide proof of death by using the livestock beginning inventory history for reporting losses.
+(i) Calf and lamb open range livestock operations may provide proof of death by using the livestock beginning inventory history for reporting losses.
 
-(1) For 2015 and subsequent calendar years, livestock inventory reports must be provided to the local county FSA office no later than 30 calendar days after the end of the calendar year for which reports will be accepted for inclusion in the base period for the current calendar year. For the 2011 through 2014 calendar years, producers have until January 30, 2015, to provide the applicable livestock inventory reports. The STC may approve a waiver of the reporting deadline if a participant has not previously received benefits under this method.
+(1) For 2017 and subsequent calendar years, livestock inventory reports by livestock unit must be provided to the local county FSA office by the later of December 3, 2018 or 60 calendar days after the end of the calendar year of the eligible adverse weather event. The STC may approve a waiver of the reporting deadline if a participant has not previously received benefits under this method.
 
 (i) Livestock inventory reports must provide an accurate account of livestock beginning inventory for the open range livestock type or kind and must be supported by written verifiable records such as but not limited to: Docking records, sales receipts, shearing records, shipping records, bank records, veterinarian records, IRS records, or other records approved by COC. For purposes of determining beginning livestock inventory, livestock inventory reports may require adjustment by COC, not to exceed normal mortality, for when loss occurs at different points during the growing season (for example, inventories from docking may need little to no adjustment, but sales records at the end of the growing season may require an adjustment to account for a full years of normal mortality).
 
@@ -96,7 +115,9 @@
 
 (v) If acceptable livestock beginning inventory history records containing information for 4 or more of the most recent calendar years are provided, calculate the livestock beginning inventory history by taking a simple average of the actual livestock beginning inventory histories.
 
-(h) For livestock death losses that occurred on or after October 1, 2011, and before January 1, 2015, livestock producers who cannot meet the criteria in paragraphs (d) through (g) of this section may provide acceptable documentation of proof of death and inventories according to the requirements in this paragraph (h).
+(j) When an eligible owner claims eligible livestock were injured by an eligible loss condition and were sold for a reduced price, the owner must provide verifiable evidence of the gross sale price of the livestock. The injured livestock must be sold through an independent third party (sale barn, slaughter facility, or rendering facility). Only verifiable proof of sale with price is acceptable. The gross sale price of the livestock is the amount received for the injured livestock before any reductions, such as sale yard fees. The owner must provide verifiable evidence of livestock sold at a reduced price. Documents that may satisfy this requirement include but are not limited to, any or a combination of the following: Sales receipt from a livestock auction, sale barn, or other similar livestock sales facility; bona-fide commercial sales receipts; private insurance documents; and processing plant receipts.
+
+(k) For livestock death losses that occurred on or after October 1, 2011, and before January 1, 2015, livestock producers who cannot meet the criteria in paragraphs (d) through (g) of this section may provide acceptable documentation of proof of death and inventories according to the requirements in this paragraph (h).
 
 (1) Documents that may provide acceptable evidence of death include, but are not limited to, any or a combination of the following:
 
@@ -143,3 +164,5 @@
 (3) COC may compare livestock numbers and carrying capacity to acreage reports filed by a producer during the calendar year of loss to determine reasonableness.
 
 (4) COC must review all documentation provided by the producer and based upon review of the documentation provided by the producer and personal knowledge of the producer's livestock operation, determine whether the number of death losses reported by the livestock producer are reasonable and whether the application for payment should be approved.
+
+[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49470, Oct. 2, 2018]

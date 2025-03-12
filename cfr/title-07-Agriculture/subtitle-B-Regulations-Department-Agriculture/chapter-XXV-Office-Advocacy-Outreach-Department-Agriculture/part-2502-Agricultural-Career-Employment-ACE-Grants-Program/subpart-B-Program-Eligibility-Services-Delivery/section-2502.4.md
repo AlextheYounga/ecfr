@@ -1,4 +1,4 @@
-##### § 2502.4. Program eligibility. #####
+##### § 2502.4 Program eligibility. #####
 
 (a) Entities eligible to apply for and receive a grant under this part include:
 
