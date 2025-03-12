@@ -1,5 +1,7 @@
 ##### § 236.1003 Definitions. #####
 
+Link to an amendment published at 86 FR 40180, July 27, 2021.
+
 (a) Definitions contained in subparts G and H of this part apply equally to this subpart.
 
 (b) The following definitions apply to terms used only in this subpart unless otherwise stated:

@@ -1,5 +1,7 @@
 ##### § 236.1029 PTC system use and failures. #####
 
+Link to an amendment published at 86 FR 40181, July 27, 2021.
+
 (a) When any safety-critical PTC system component fails to perform its intended function, the cause must be determined and the faulty component adjusted, repaired, or replaced without undue delay. Until repair of such essential components is completed, a railroad shall take appropriate action as specified in its PTCSP.
 
 (b) *En route failures.* Except as provided in paragraphs (c) and (g) of this section, where a controlling locomotive that is operating in, or is to be operated within, a PTC-equipped track segment experiences PTC system failure or the PTC system is otherwise cut out while en route (i.e., after the train has departed its initial terminal), the train may only continue in accordance with all of the following:
