@@ -1,7 +1,5 @@
 ##### § 648.10 VMS and DAS requirements for vessel owners/operators. #####
 
-Link to an amendment published at 87 FR 75877, Dec. 9, 2022.
-
 (a) *VMS Demarcation Line.* The VMS Demarcation Line is defined by straight lines connecting the following coordinates in the order stated (a copy of a map showing the line is available from the Regional Administrator upon request):
 
 VMS Demarcation Line
@@ -102,13 +100,13 @@ VMS Demarcation Line
 
 (D) The vessel has been issued an LAGC permit, is not in possession of any scallops onboard the vessel, is tied to a permanent dock or mooring, the vessel operator has notified NMFS through VMS by transmitting the appropriate VMS power-down code that the VMS will be powered down, and the vessel is not required by other permit requirements for other fisheries to transmit the vessel's location at all times. Such a vessel must re-power the VMS and submit a valid VMS activity declaration prior to moving from the fixed dock or mooring. VMS codes and instructions are available from the Regional Administrator.
 
-(ii) *Letter of exemption* - (A) *Application.* A vessel owner may apply for a letter of exemption from the VMS transmitting requirements specified in paragraph (c)(1) of this section for his/her vessel by sending a written request to the Regional Administrator and providing the following: The location of the vessel during the time an exemption is sought; the exact time period for which an exemption is needed (*i.e.*, the time the VMS signal will be turned off and turned on again); and, in the case of a vessel meeting the conditions of paragraph (c)(2)(i)(A) of this section, sufficient information to determine that the vessel will be out of the water for more than 72 consecutive hours. The letter of exemption must be on board the vessel at all times, and the vessel may not turn off the VMS signal until the letter of exemption has been received.
+(ii) *Letter of exemption*—(A) *Application.* A vessel owner may apply for a letter of exemption from the VMS transmitting requirements specified in paragraph (c)(1) of this section for his/her vessel by sending a written request to the Regional Administrator and providing the following: The location of the vessel during the time an exemption is sought; the exact time period for which an exemption is needed (*i.e.*, the time the VMS signal will be turned off and turned on again); and, in the case of a vessel meeting the conditions of paragraph (c)(2)(i)(A) of this section, sufficient information to determine that the vessel will be out of the water for more than 72 consecutive hours. The letter of exemption must be on board the vessel at all times, and the vessel may not turn off the VMS signal until the letter of exemption has been received.
 
 (B) *Issuance.* Upon receipt of an application, the Regional Administrator may issue a letter of exemption to the vessel if it is determined that the vessel owner provided sufficient information as required under this paragraph (c)(2), and that the issuance of the letter of exemption will not jeopardize accurate monitoring of the vessel's DAS. Upon written request, the Regional Administrator may change the time period for which the exemption is granted.
 
 (d) *Presumption.* If a VMS unit fails to transmit an hourly signal of a vessel's position, the vessel shall be deemed to have incurred a DAS, or fraction thereof, for as long as the unit fails to transmit a signal, unless a preponderance of evidence shows that the failure to transmit was due to an unavoidable malfunction or disruption of the transmission that occurred while the vessel was properly declared out of the scallop fishery, NE multispecies fishery, or monkfish fishery, as applicable, or while the vessel was not at sea.
 
-(e) *VMS notifications* - (1) *VMS installation notification.* (i) The owner of such a vessel specified in paragraph (b) of this section, with the exception of a vessel issued a limited access NE multispecies permit as specified in paragraph (b)(4) of this section, must provide documentation to the Regional Administrator at the time of application for a limited access permit that the vessel has an operational VMS unit installed on board that meets the minimum performance criteria, unless otherwise allowed under paragraph (b) of this section.
+(e) *VMS notifications*—(1) *VMS installation notification.* (i) The owner of such a vessel specified in paragraph (b) of this section, with the exception of a vessel issued a limited access NE multispecies permit as specified in paragraph (b)(4) of this section, must provide documentation to the Regional Administrator at the time of application for a limited access permit that the vessel has an operational VMS unit installed on board that meets the minimum performance criteria, unless otherwise allowed under paragraph (b) of this section.
 
 (ii) Vessel owners must confirm the VMS unit's operation and communications service to NMFS by calling the Office of Law Enforcement (OLE) to ensure that position reports are automatically sent to and received by NMFS OLE.
 
@@ -148,9 +146,11 @@ VMS Demarcation Line
 
 (3) *Incidental scallop fishery.* An Incidental scallop vessel that has crossed the VMS Demarcation Line on any declared fishing trip for any species is deemed to be fishing under the Incidental scallop fishery.
 
-(4) *Catch reports.* (i) For trips greater than 24 hours, the owner or operator of a limited access or LAGC scallop vessel with an IFQ permit that fishes for, possesses, or retains scallops, and is not fishing under a NE Multispecies DAS or sector allocation, must submit reports through the VMS, in accordance with instructions to be provided by the Regional Administrator, for each day fished, including open area trips, access area trips as described in § 648.59(b)(9), Northern Gulf of Maine RSA trips, and trips accompanied by a NMFS-certified observer. The reports must be submitted for each day (beginning at 0000 hr and ending at 2400 hr) and not later than 0900 hr of the following day. Such reports must include the following information:
+(4) *Catch reports.*
 
-(A) VTR serial number;
+(i) For trips greater than 24 hours, the owner or operator of a limited access or LAGC scallop vessel with an IFQ permit that fishes for, possesses, or retains scallops, and is not fishing under a Northeast Multispecies DAS or sector allocation, must submit reports through the VMS, in accordance with instructions to be provided by the Regional Administrator, for each day fished, including open area trips, access area trips as described in § 648.59(b)(9), Northern Gulf of Maine research set-aside (RSA) trips, and trips accompanied by an observer. The reports must be submitted for each day (beginning at 0000 hr and ending at 2400 hr) and not later than 0900 hr of the following day. Such reports must include the following information:
+
+(A) Vessel trip report (VTR) serial number;
 
 (B) Date fish were caught;
 
@@ -260,7 +260,7 @@ VMS Demarcation Line
 
 (i) *Temporary authorization for use of the call-in system.* The Regional Administrator may authorize or require, on a temporary basis, the use of the call-in system of notification specified in paragraph (h) of this section, instead of using the VMS. If use of the call-in system is authorized or required, the Regional Administrator shall notify affected permit holders through a letter, notification in the Federal Register, e-mail, or other appropriate means.
 
-(j) *Additional NE multispecies call-in requirements* - (1) *Spawning season call-in.* With the exception of a vessel issued a valid Small Vessel category permit or the Handgear A permit category, vessels subject to the spawning season restriction described in § 648.82 must notify the Regional Administrator of the commencement date of their 20-day period out of the NE multispecies fishery through the IVR system (or through VMS, if required by the Regional Administrator) and provide the following information:
+(j) *Additional NE multispecies call-in requirements*—(1) *Spawning season call-in.* With the exception of a vessel issued a valid Small Vessel category permit or the Handgear A permit category, vessels subject to the spawning season restriction described in § 648.82 must notify the Regional Administrator of the commencement date of their 20-day period out of the NE multispecies fishery through the IVR system (or through VMS, if required by the Regional Administrator) and provide the following information:
 
 (i) Vessel name and permit number;
 
@@ -270,7 +270,7 @@ VMS Demarcation Line
 
 (2) *Gillnet call-in.* A vessel subject to the gillnet restriction described in § 648.82 must notify the Regional Administrator of the commencement of its time out of the NE multispecies gillnet fishery using the procedure described in paragraph (k)(1) of this section.
 
-(k) *Area-specific reporting requirements for NE multispecies vessels* - (1) *Reporting requirements for all limited access NE multispecies vessel owners or operators.* In addition to any other reporting requirements specified in this part, the owner or operator of any vessel issued a limited access NE multispecies permit on either a common pool or sector trip must declare the following information via VMS or IVR, as instructed by the Regional Administrator:
+(k) *Area-specific reporting requirements for NE multispecies vessels*—(1) *Reporting requirements for all limited access NE multispecies vessel owners or operators.* In addition to any other reporting requirements specified in this part, the owner or operator of any vessel issued a limited access NE multispecies permit on either a common pool or sector trip must declare the following information via VMS or IVR, as instructed by the Regional Administrator:
 
 (i) *Broad stock area(s) to be fished.* To fish in any of the broad stock areas, the vessel owner or operator must declare his/her intent to fish within one or more of the NE multispecies broad stock areas, as defined in paragraph (k)(3) of this section, prior to leaving port at the start of a fishing trip;
 

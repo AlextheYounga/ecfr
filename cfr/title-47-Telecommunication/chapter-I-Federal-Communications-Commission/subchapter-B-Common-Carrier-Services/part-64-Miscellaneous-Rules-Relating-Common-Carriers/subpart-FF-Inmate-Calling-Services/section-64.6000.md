@@ -1,7 +1,5 @@
 ##### § 64.6000 Definitions. #####
 
-Link to an amendment published at 87 FR 75514, Dec. 9, 2022.
-
 As used in this subpart:
 
 (a) *Ancillary Service Charge* means any charge Consumers may be assessed for, or in connection with, the interstate or international use of Inmate Calling Services that are not included in the per-minute charges assessed for such individual calls. Ancillary Service Charges that may be assessed are limited only to those listed in paragraphs (a)(1) through (5) of this section. All other Ancillary Service Charges are prohibited. For purposes of this definition, “interstate” includes any Jurisdictionally Mixed Charge, as defined in paragraph (u) of this section.
@@ -44,7 +42,7 @@ As used in this subpart:
 
 (2) Post-conviction and committed to confinement for sentences of one year or less; or
 
-(3) Post-conviction and awaiting transfer to another facility. The term also includes city, county or regional facilities that have contracted with a private company to manage day-to-day operations; privately-owned and operated facilities primarily engaged in housing city, county or regional inmates; and facilities used to detain individuals pursuant to a contract with U.S. Immigration and Customs Enforcement;
+(3) Post-conviction and awaiting transfer to another facility. The term also includes city, county, or regional facilities that have contracted with a private company to manage day-to-day operations; privately owned and operated facilities primarily engaged in housing city, county or regional Inmates; facilities used to detain individuals, operated directly by the Federal Bureau of Prisons or U.S. Immigration and Customs Enforcement, or pursuant to a contract with those agencies; juvenile detention centers; and secure mental health facilities.
 
 (n) *Mandatory Tax or Mandatory Fee* means a fee that a Provider is required to collect directly from consumers, and remit to federal, state, or local governments. A Mandatory Tax or Fee that is passed through to a consumer for, or in connection with, interstate or international Inmate Calling Services may not include a markup, unless the markup is specifically authorized by a federal, state, or local statute, rule, or regulation;
 
@@ -54,7 +52,7 @@ As used in this subpart:
 
 (q) *Prepaid Collect Calling* means a calling arrangement that allows an Inmate to initiate an Inmate Calling Services call without having a pre-established billing arrangement and also provides a means, within that call, for the called party to establish an arrangement to be billed directly by the Provider of Inmate Calling Services for future calls from the same Inmate;
 
-(r) *Prison* means a facility operated by a territorial, state, or federal agency that is used primarily to confine individuals convicted of felonies and sentenced to terms in excess of one year. The term also includes public and private facilities that provide outsource housing to other agencies such as the State Departments of Correction and the Federal Bureau of Prisons; and facilities that would otherwise fall under the definition of a Jail but in which the majority of inmates are post-conviction or are committed to confinement for sentences of longer than one year;
+(r) *Prison* means a facility operated by a territorial, state, or Federal agency that is used primarily to confine individuals convicted of felonies and sentenced to terms in excess of one year. The term also includes public and private facilities that provide outsource housing to other agencies such as the State Departments of Correction and the Federal Bureau of Prisons; and facilities that would otherwise fall under the definition of a Jail but in which the majority of inmates are post-conviction and are committed to confinement for sentences of longer than one year.
 
 (s) *Provider of Inmate Calling Services, or Provider* means any communications service provider that provides Inmate Calling Services, regardless of the technology used;
 
@@ -68,4 +66,20 @@ As used in this subpart:
 
 (x) *International Destination* means the rate zone in which an international call terminates. For countries that have a single rate zone, *International Destination* means the country in which an international call terminates.
 
-[80 FR 79178, Dec. 18, 2015, as amended at 81 FR 62825, Sept. 13, 2016; 85 FR 67461, Oct. 23, 2020; 86 FR 40731, July 28, 2021]
+(y) *Controlling Judicial* or *Administrative Mandate* means:
+
+(1) A final court order requiring an incarcerated person to pay restitution;
+
+(2) A fine imposed as part of a criminal sentence;
+
+(3) A fee imposed in connection with a criminal conviction; or
+
+(4) A final court or administrative agency order adjudicating a valid contract between the provider and the account holder, entered into prior to September 30, 2022, that allows or requires that an Inmate Calling Services Provider act in a manner that would otherwise violate § 64.6130.
+
+(z) *Jurisdiction* means:
+
+(1) The state, city, county, or territory where a law enforcement authority is operating or contracting for the operation of a Correctional Facility; or
+
+(2) The United States for a Correctional Facility operated by or under the contracting authority of a Federal law enforcement agency.
+
+[80 FR 79178, Dec. 18, 2015, as amended at 81 FR 62825, Sept. 13, 2016; 85 FR 67461, Oct. 23, 2020; 86 FR 40731, July 28, 2021; 87 FR 75514, Dec. 9, 2022]

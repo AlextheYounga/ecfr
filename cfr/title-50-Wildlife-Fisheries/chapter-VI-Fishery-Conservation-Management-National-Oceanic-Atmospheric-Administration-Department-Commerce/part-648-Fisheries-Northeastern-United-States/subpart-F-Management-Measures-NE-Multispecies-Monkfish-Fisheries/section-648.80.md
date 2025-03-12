@@ -1,7 +1,5 @@
 ##### § 648.80 NE Multispecies regulated mesh areas and restrictions on gear and methods of fishing. #####
 
-Link to an amendment published at 87 FR 75886, Dec. 9, 2022.
-
 Except as provided in § 648.17, all vessels must comply with the following minimum mesh size, gear and methods of fishing requirements, unless otherwise exempted or prohibited.
 
 (a) *Gulf of Maine (GOM) and GB Regulated Mesh Areas - (1) GOM Regulated Mesh Area.* The GOM Regulated Mesh Area (copies of a map depicting the area are available from the Regional Administrator upon request) is that area:
@@ -680,7 +678,7 @@ SNE Skate Bait Trawl Exemption Area
 
 (ii) The vessel is issued a letter of authorization for a minimum of 7 days. The vessel can be issued LOAs for the midwater trawl exempted fishery and the purse seine exempted fishery at the same time.
 
-(3) The vessel carries a NMFS-certified observer, if requested by the Regional Administrator;
+(3) The vessel carries an observer, if requested by the Regional Administrator;
 
 (4) The vessel does not fish for, possess or land NE. multispecies, except that a vessel issued a Category A or B Herring Permit and fishing on a declared herring trip, regardless of gear or area fished, or a vessel issued a Category C, D, or E Herring Permit and fishing with midwater trawl gear pursuant to paragraph (d) of this section, may possess and land haddock and other regulated multispecies consistent with the catch caps and possession restrictions in § 648.86(a)(3) and (k). Such haddock or other regulated NE multispecies may not be sold, purchased, received, traded, bartered, or transferred, or attempted to be sold, purchased, received, traded, bartered, or transferred for, or intended for, human consumption. Haddock or other regulated NE multispecies that are separated out from the herring catch pursuant to § 648.15(d) may not be sold, purchased, received, traded, bartered, or transferred, or attempted to be sold, purchased, received, traded, bartered, or transferred for any purpose. A vessel issued a Category A or B Herring Permit fishing on a declared herring trip, regardless of gear or area fished, or a vessel issued a Category C, D, or E Herring Permit and fishing with midwater trawl gear pursuant to this paragraph (d), may not discard haddock that has been brought on the deck or pumped into the hold;
 
@@ -698,7 +696,7 @@ SNE Skate Bait Trawl Exemption Area
 
 (i) The vessel only fishes for, possesses, or lands Atlantic herring, blueback herring, mackerel, or menhaden; and
 
-(ii) The vessel must carry a NMFS-certified observer, if requested to do so by the Regional Administrator;
+(ii) The vessel carries an observer, if requested by the Regional Administrator;
 
 (3) The vessel is issued a letter of authorization for a minimum of 7 days, and cancels it only as instructed by the Regional Administrator. The vessel can be issued LOAs for the midwater trawl exempted fishery and the purse seine exempted fishery at the same time; and
 

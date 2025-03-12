@@ -1,14 +1,10 @@
 ##### § 648.85 Special management programs. #####
 
-Link to an amendment published at 87 FR 75887, Dec. 9, 2022.
-
 (a) *U.S./Canada Resource Sharing Understanding.* No NE multispecies fishing vessel, or person on such vessel, may enter, fish in, or be in the U.S./Canada Resource Sharing Understanding Management Areas (U.S./Canada Management Areas), as defined in paragraph (a)(1) of this section, unless the vessel is fishing in accordance with the restrictions and conditions of this section. These restrictions do not preclude fishing under an approved Special Access Program specified under paragraph (b) of this section.
 
 (1) *U.S./Canada Management Areas.* A vessel issued a NE multispecies permit that meets the requirements of paragraph (a)(3) of this section may fish in the U.S./Canada Management Areas described in paragraphs (a)(1)(i) and (ii) of this section.
 
 (i) *Western U.S./Canada Area.* The Western U.S./Canada Area is the area defined by straight lines connecting the following points in the order stated (a chart depicting this area is available from the Regional Administrator upon request):
-
-Western U.S./Canada Area
 
 | Point |N. lat.|W. long.|
 |-------|-------|--------|
@@ -28,8 +24,6 @@ Western U.S./Canada Area
 
 (ii) *Eastern U.S./Canada Area.* The Eastern U.S./Canada Area is the area defined by straight lines connecting the following points in the order stated (a chart depicting this area is available from the Regional Administrator upon request):
 
-Eastern U.S./Canada Area
-
 | Point |N. latitude|W. longitude|
 |-------|-----------|------------|
 |USCA 12|  42°20′   |   67°40′   |
@@ -46,7 +40,7 @@ Eastern U.S./Canada Area
 |USCA 13|  42°20′   |  67°18.4′  |
 |USCA 12|  42°20′   |   67°40′   |
 
-(2) *TAC allocation* - (i) *Process for establishing TACs.* The amount of GB cod and haddock TAC that may be harvested from the Eastern U.S./Canada Area described in paragraph (a)(1)(ii) of this section, and the amount of GB yellowtail flounder TAC that may be harvested from the Western U.S./Canada Area and the Eastern U.S./Canada Area, as described in paragraphs (a)(1)(i) and (ii) of this section, combined, shall be determined by the process specified in paragraphs (a)(2)(i)(A) through (D) of this section.
+(2) *TAC allocation*—(i) *Process for establishing TACs.* The amount of GB cod and haddock TAC that may be harvested from the Eastern U.S./Canada Area described in paragraph (a)(1)(ii) of this section, and the amount of GB yellowtail flounder TAC that may be harvested from the Western U.S./Canada Area and the Eastern U.S./Canada Area, as described in paragraphs (a)(1)(i) and (ii) of this section, combined, shall be determined by the process specified in paragraphs (a)(2)(i)(A) through (D) of this section.
 
 (A) To the extent practicable, by June 30 of each year, the Terms of Reference for the U.S./Canada shared resources for GB cod, haddock, and yellowtail flounder shall be established by the Steering Committee and the Transboundary Management Guidance Committee (TMGC).
 
@@ -104,13 +98,13 @@ Eastern U.S./Canada Area
 
 (*2*) *Possession restriction when 100 percent of TAC is harvested.* When the Regional Administrator projects that 100 percent of the TAC allocation for cod specified in paragraph (a)(2) of this section will be harvested, NMFS shall, in a manner consistent with the Administrative Procedure Act, close the Eastern U.S./Canada Area to all limited access NE multispecies DAS and sector vessels subject to that particular TAC allocation, as specified in paragraph (a)(3)(iv)(E) of this section, by prohibiting such vessels and all other vessels not issued a limited access NE multispecies permit from entering or being in this area and from harvesting, possessing, or landing cod in or from the Eastern U.S./Canada Area during the closure period.
 
-(B) *Haddock landing limit* - (*1*) *Initial haddock landing limit.* The initial haddock landing limit for common pool vessels is specified in § 648.86(a), unless adjusted pursuant to paragraphs (a)(3)(iv)(B)(*2*) and (*3*) of this section.
+(B) *Haddock landing limit*—(*1*) *Initial haddock landing limit.* The initial haddock landing limit for common pool vessels is specified in § 648.86(a), unless adjusted pursuant to paragraphs (a)(3)(iv)(B)(*2*) and (*3*) of this section.
 
 (*2*) *Implementation of haddock landing limit for Eastern U.S./Canada Area.* When the Regional Administrator projects that 70 percent of the haddock TAC allocation specified for common pool vessels, as described in paragraph (a)(2) of this section, will be harvested, NMFS shall implement, in a manner consistent with the Administrative Procedure Act, a haddock trip limit for common pool vessels fishing in the Eastern U.S./Canada Area of 1,500 lb (680.4 kg) per day, and 15,000 lb (6,804.1 kg) per trip.
 
 (*3*) *Possession restriction when 100 percent of TAC is harvested.* When the Regional Administrator projects that 100 percent of the TAC allocation for haddock distributed to either common pool vessels or a particular sector, as specified in paragraph (a)(2) of this section, will be harvested, NMFS shall, in a manner consistent with the Administrative Procedure Act, close the Eastern U.S./Canada Area to all limited access NE multispecies vessels subject to that particular TAC allocation, as specified in paragraph (a)(3)(iv)(E) of this section, and prohibit such vessels and all other vessels not issued a limited access NE multispecies permit from harvesting, possessing, or landing haddock in or from the Eastern U.S./Canada Area.
 
-(C) *Yellowtail flounder landing limit* - (*1*) *Initial yellowtail flounder landing limit.* Unless further restricted under paragraphs (a)(3)(iv)(C)(*2*) or (D) of this section (gear performance incentives), or modified pursuant to paragraph (a)(3)(iv)(D) of this section, there is no initial limit to the amount of yellowtail flounder that could be landed for each fishing year.
+(C) *Yellowtail flounder landing limit*—(*1*) *Initial yellowtail flounder landing limit.* Unless further restricted under paragraphs (a)(3)(iv)(C)(*2*) or (D) of this section (gear performance incentives), or modified pursuant to paragraph (a)(3)(iv)(D) of this section, there is no initial limit to the amount of yellowtail flounder that could be landed for each fishing year.
 
 (*2*) *Regional Administrator authority to adjust the yellowtail flounder landing limit mid-season.* If, based upon available information, the Regional Administrator projects that the yellowtail flounder catch may exceed the yellowtail flounder TAC for a fishing year, the Regional Administrator may implement, adjust, or remove the yellowtail flounder landing limit at any time during that fishing year in order to prevent yellowtail flounder catch from exceeding the TAC, or to facilitate harvesting the TAC, in a manner consistent with the Administrative Procedure Act. If, based upon available information, the Regional Administrator projects that the yellowtail flounder catch is less than 90 percent of the TAC, the Regional Administrator may adjust or remove the yellowtail flounder landing limit at any time during the fishing year in order to facilitate the harvest of the TAC, in a manner consistent with the Administrative Procedure Act. The Regional Administrator may specify yellowtail flounder trip limits that apply to the entire U.S./Canada Management Area or to only the Western or Eastern Area.
 
@@ -142,11 +136,9 @@ Eastern U.S./Canada Area
 
 (2) *SAPs harvesting stocks other than NE multispecies.* A SAP to harvest stocks of fish other than NE multispecies (non-multispecies SAP) may be proposed by the Council and approved by NMFS through the framework process described under § 648.90.
 
-(3) *Closed Area II Yellowtail Flounder/Haddock SAP* - (i) *Eligibility.* Any vessel issued a valid limited access NE multispecies permit fishing under a NE multispecies DAS or on a sector trip, provided the sector to which the vessel belongs has been allocated ACE for all stocks that may be caught within the Eastern U.S./Canada Area pursuant to § 648.87(b)(1)(i), are eligible to participate in the Closed Area II Yellowtail Flounder/Haddock SAP, and may fish in the Closed Area II Yellowtail Flounder/Haddock Access Area, as described in paragraph (b)(3)(ii) of this section, for the period specified in paragraph (b)(3)(iii) of this section, provided the Eastern U.S./Canada Area, as described in paragraph (a)(1)(ii) of this section, is not closed according to the provisions specified in paragraph (a)(3)(iv)(E) of this section, or that the sector to which a vessel belongs no longer has ACE available for all stocks caught within the Eastern U.S./Canada Area pursuant to § 648.87(b)(1)(i). All eligible vessels must comply with the requirements of this section, unless otherwise specified in this paragraph (b)(3).
+(3) *Closed Area II Yellowtail Flounder/Haddock SAP*—(i) *Eligibility.* Any vessel issued a valid limited access NE multispecies permit fishing under a NE multispecies DAS or on a sector trip, provided the sector to which the vessel belongs has been allocated ACE for all stocks that may be caught within the Eastern U.S./Canada Area pursuant to § 648.87(b)(1)(i), are eligible to participate in the Closed Area II Yellowtail Flounder/Haddock SAP, and may fish in the Closed Area II Yellowtail Flounder/Haddock Access Area, as described in paragraph (b)(3)(ii) of this section, for the period specified in paragraph (b)(3)(iii) of this section, provided the Eastern U.S./Canada Area, as described in paragraph (a)(1)(ii) of this section, is not closed according to the provisions specified in paragraph (a)(3)(iv)(E) of this section, or that the sector to which a vessel belongs no longer has ACE available for all stocks caught within the Eastern U.S./Canada Area pursuant to § 648.87(b)(1)(i). All eligible vessels must comply with the requirements of this section, unless otherwise specified in this paragraph (b)(3).
 
 (ii) *Closed Area II Yellowtail Flounder/Haddock SAP Area.* The Closed Area II Yellowtail Flounder/Haddock SAP Area is the area defined by straight lines connecting the following points in the order stated:
-
-Closed Area II Yellowtail Flounder/Haddock SAP Area
 
 | Point |N. latitude|W. longitude|
 |-------|-----------|------------|
@@ -157,7 +149,7 @@ Closed Area II Yellowtail Flounder/Haddock SAP Area
 | CII 1 |  41°00′   |   67°20′   |
 |Ytail 1|  41°30′   |   67°20′   |
 
-(iii) *Season* - (A) *Season when the CA II Yellowtail Flounder/Haddock SAP is open to target yellowtail flounder.* When the CA II Yellowtail Flounder/Haddock SAP is open to target yellowtail flounder, as specified in paragraph (b)(3)(vii) of this section, eligible vessels may fish in the Closed Area II Yellowtail Flounder/Haddock SAP from July 1 through December 31.
+(iii) *Season*—(A) *Season when the CA II Yellowtail Flounder/Haddock SAP is open to target yellowtail flounder.* When the CA II Yellowtail Flounder/Haddock SAP is open to target yellowtail flounder, as specified in paragraph (b)(3)(vii) of this section, eligible vessels may fish in the Closed Area II Yellowtail Flounder/Haddock SAP from July 1 through December 31.
 
 (B) *Season when the CA II Yellowtail Flounder/Haddock SAP is open only to target haddock.* When the CA II Yellowtail Flounder/Haddock SAP is open only to target haddock, as specified in paragraph (b)(3)(vii) of this section, eligible vessels may fish in the CA II Yellowtail Flounder/Haddock SAP from August 1 through January 31.
 
@@ -165,17 +157,17 @@ Closed Area II Yellowtail Flounder/Haddock SAP Area
 
 (v) *Declaration.* For the purposes of selecting vessels for observer deployment, a vessel must provide notice to NMFS of the vessel name; contact name for coordination of observer deployment; telephone number for contact; date, time and port of departure; and special access program to be fished, at least 48 hr prior to the beginning of any trip that it declares into the SAP as required under this paragraph (b)(3)(v). To fish in the Closed Area II Yellowtail Flounder/Haddock SAP, a vessel must declare into this area through the VMS prior to departure from port, in accordance with instructions provided by the Regional Administrator. A vessel declared into the Closed Area II Yellowtail Flounder/Haddock SAP may also fish in the area outside the Eastern U.S./Canada Area, as defined in paragraph (a)(1)(ii) of this section, on the same trip, provided the vessel also declares into this area prior to departure from port and fishes under the most restrictive DAS counting requirements specified in § 648.10(e)(5), trip limits, and reporting requirements for the areas fished during the entire trip.
 
-(vi) *Number of trips per vessel* - (A) *Number of trips allowed when the CA II Yellowtail Flounder/Haddock SAP is open to target yellowtail flounder.* When the CA II Yellowtail Flounder/Haddock SAP is open to target yellowtail flounder, as specified in paragraph (b)(3)(vii) of this section, eligible common pool vessels are restricted to one trip per calendar month during the season described in paragraph (b)(3)(iii) of this section.
+(vi) *Number of trips per vessel*—(A) *Number of trips allowed when the CA II Yellowtail Flounder/Haddock SAP is open to target yellowtail flounder.* When the CA II Yellowtail Flounder/Haddock SAP is open to target yellowtail flounder, as specified in paragraph (b)(3)(vii) of this section, eligible common pool vessels are restricted to one trip per calendar month during the season described in paragraph (b)(3)(iii) of this section.
 
 (B) *Number of trips allowed when the CA II Yellowtail Flounder/Haddock SAP is open only to target haddock.* When the CA II Yellowtail Flounder/Haddock SAP is open only to target haddock, as specified in paragraph (b)(3)(vii) of this section, there is no limit on the number of trips that can be taken by eligible vessels during the season described in paragraph (b)(3)(iii) of this section.
 
-(vii) *Opening criteria* - (A) *Opening the CA II Yellowtail Flounder/Haddock SAP to target yellowtail flounder.* Unless otherwise authorized by the Regional Administrator, as specified in paragraph (a)(3)(iv)(D) of this section, the total number of allowed trips by common pool vessels that may be declared into the Closed Area II Yellowtail Flounder/Haddock SAP for each fishing year shall be as announced by the Regional Administrator on or about June 1, after consultation with the Council, in a manner consistent with the Administrative Procedure Act. Except as provided in paragraph (b)(3)(vii)(B) of this section, the total number of trips by all common pool vessels that may be declared into this SAP when the SAP is open to target yellowtail flounder shall not exceed 320 per year. When determining the total number of trips, the Regional Administrator shall consider the available yellowtail flounder TAC under the U.S./Canada Resource Sharing Understanding, the potential catch of GB yellowtail flounder by all vessels fishing outside of the SAP, recent discard estimates in all fisheries that catch yellowtail flounder, the expected number of SAP participants, and any other available information. If the Regional Administrator determines that the available catch, as determined by subtracting the potential catch of GB yellowtail flounder by all vessels outside of the SAP from the GB yellowtail flounder TAC allocation specified in paragraph (a)(2) of this section, is insufficient to allow for at least 150 trips with a possession limit of 15,000 lb (6,804 kg) of yellowtail flounder per trip, the Regional Administrator may choose not to authorize any trips into the SAP during a fishing year.
+(vii) *Opening criteria*—(A) *Opening the CA II Yellowtail Flounder/Haddock SAP to target yellowtail flounder.* Unless otherwise authorized by the Regional Administrator, as specified in paragraph (a)(3)(iv)(D) of this section, the total number of allowed trips by common pool vessels that may be declared into the Closed Area II Yellowtail Flounder/Haddock SAP for each fishing year shall be as announced by the Regional Administrator on or about June 1, after consultation with the Council, in a manner consistent with the Administrative Procedure Act. Except as provided in paragraph (b)(3)(vii)(B) of this section, the total number of trips by all common pool vessels that may be declared into this SAP when the SAP is open to target yellowtail flounder shall not exceed 320 per year. When determining the total number of trips, the Regional Administrator shall consider the available yellowtail flounder TAC under the U.S./Canada Resource Sharing Understanding, the potential catch of GB yellowtail flounder by all vessels fishing outside of the SAP, recent discard estimates in all fisheries that catch yellowtail flounder, the expected number of SAP participants, and any other available information. If the Regional Administrator determines that the available catch, as determined by subtracting the potential catch of GB yellowtail flounder by all vessels outside of the SAP from the GB yellowtail flounder TAC allocation specified in paragraph (a)(2) of this section, is insufficient to allow for at least 150 trips with a possession limit of 15,000 lb (6,804 kg) of yellowtail flounder per trip, the Regional Administrator may choose not to authorize any trips into the SAP during a fishing year.
 
 (B) *Opening the CA II Yellowtail/Haddock SAP to only target haddock.* If the CA II Yellowtail Flounder/Haddock SAP is not open to targeting yellowtail flounder due to an insufficient amount of yellowtail flounder TAC, or because the maximum number of trips allowed into the CA II Yellowtail Flounder/Haddock SAP to target yellowtail flounder has been achieved pursuant to paragraph (b)(3)(vii)(A) of this section, eligible vessels may target haddock in the CA II Yellowtail Flounder/Haddock Access Area, as specified in paragraph (b)(3)(ii) of this section, provided the Eastern GB haddock TAC specified in paragraph (a)(2) of this section has not been caught, the Eastern U.S./Canada Area is not closed pursuant to paragraph (a)(3)(iv)(D) of this section; and, for vessels on a sector trip, the sector to which the sector vessel belongs has ACE remaining for the stocks caught in the Eastern U.S./Canada Area.
 
 (viii) *Trip limits.* Vessels subject to the provisions of the common pool that are fishing in the Closed Area II Yellowtail Flounder/Haddock SAP are subject to the following trip limits, unless otherwise restricted in this part. Vessels subject to the restrictions and conditions of an approved sector operations plan fishing in the Closed Area II Yellowtail Flounder/Haddock SAP are subject to the trip limits specified in § 648.87(b)(1)(ix).
 
-(A) *Yellowtail flounder trip limit* - (*1*) *Trip limits when the CA II Yellowtail Flounder/Haddock SAP is open to target yellowtail flounder.* Unless otherwise authorized by the Regional Administrator as specified in paragraph (a)(3)(iv)(D) of this section, when the CA II Yellowtail Flounder/Haddock SAP is open to target yellowtail flounder, as specified in paragraph (b)(3)(vii) of this section, a vessel subject to the provisions of the common pool that is fishing in the CA II Yellowtail Flounder/Haddock SAP may fish for, possess, and land up to 10,000 lb (4,536 kg) of yellowtail flounder per trip. The Regional Administrator may adjust this limit to a maximum of 30,000 lb (13,608 kg) per trip after considering the factors listed in paragraph (b)(3)(vii) of this section for the maximum number of trips.
+(A) *Yellowtail flounder trip limit*—(*1*) *Trip limits when the CA II Yellowtail Flounder/Haddock SAP is open to target yellowtail flounder.* Unless otherwise authorized by the Regional Administrator as specified in paragraph (a)(3)(iv)(D) of this section, when the CA II Yellowtail Flounder/Haddock SAP is open to target yellowtail flounder, as specified in paragraph (b)(3)(vii) of this section, a vessel subject to the provisions of the common pool that is fishing in the CA II Yellowtail Flounder/Haddock SAP may fish for, possess, and land up to 10,000 lb (4,536 kg) of yellowtail flounder per trip. The Regional Administrator may adjust this limit to a maximum of 30,000 lb (13,608 kg) per trip after considering the factors listed in paragraph (b)(3)(vii) of this section for the maximum number of trips.
 
 (*2*) *Trip limits when the CA II Yellowtail Flounder/Haddock SAP is open to target haddock.* Unless otherwise specified by the Regional Administrator pursuant to paragraph (a)(3)(iv)(D) of this section, when the CA II Yellowtail Flounder/Haddock SAP is only open to target haddock, as specified in paragraph (b)(3)(vii) of this section, the trip limit for yellowtail flounder is specified in paragraph (b)(3)(viii)(C) of this section.
 
@@ -185,7 +177,7 @@ Closed Area II Yellowtail Flounder/Haddock SAP Area
 
 (ix) *Area fished.* Eligible vessels that have declared a trip into the Closed Area II Yellowtail Flounder/Haddock SAP, and other areas as specified in paragraph (b)(3)(v) of this section, may not fish for, possess, or land fish in or from outside of the declared area during the same trip.
 
-(x) *Gear requirements* - (A) *Approved gear.* When the CA II Yellowtail Flounder/Haddock SAP is open to target yellowtail flounder, as specified in paragraph (b)(3)(vii) of this section, NE multispecies vessels fishing with trawl gear must use a haddock separator trawl or a flounder trawl net, as described in paragraph (a)(3)(iii) of this section, or the Ruhle trawl, as described in paragraph (b)(6)(iv)(J)(*3*) of this section (all three nets may be onboard the fishing vessel simultaneously). When this SAP is only open to target haddock, NE multispecies vessels must use a haddock separator trawl, a Ruhle trawl, or hook gear. Gear other than the haddock separator trawl, the flounder trawl, or the Ruhle trawl may be on board the vessel during a trip to the Eastern U.S./Canada Area outside of the CA II Yellowtail Flounder/Haddock SAP, provided the gear is stowed and not available for immediate use as defined in § 648.2.
+(x) *Gear requirements*—(A) *Approved gear.* When the CA II Yellowtail Flounder/Haddock SAP is open to target yellowtail flounder, as specified in paragraph (b)(3)(vii) of this section, NE multispecies vessels fishing with trawl gear must use a haddock separator trawl or a flounder trawl net, as described in paragraph (a)(3)(iii) of this section, or the Ruhle trawl, as described in paragraph (b)(6)(iv)(J)(*3*) of this section (all three nets may be onboard the fishing vessel simultaneously). When this SAP is only open to target haddock, NE multispecies vessels must use a haddock separator trawl, a Ruhle trawl, or hook gear. Gear other than the haddock separator trawl, the flounder trawl, or the Ruhle trawl may be on board the vessel during a trip to the Eastern U.S./Canada Area outside of the CA II Yellowtail Flounder/Haddock SAP, provided the gear is stowed and not available for immediate use as defined in § 648.2.
 
 (B) *Approval of additional gear.* The Regional Administrator may authorize additional gear for use in the CA II Yellowtail Flounder/Haddock SAP in accordance with the standards and requirements specified in paragraph (b)(6)(iv)(J)(*2*) of this section.
 
@@ -205,13 +197,13 @@ Closed Area II Yellowtail Flounder/Haddock SAP Area
 
 (iii) *GB yellowtail flounder.* The Incidental Catch TAC for GB yellowtail flounder specified in this paragraph (b)(5) shall be subdivided as follows: 50 percent to the Regular B DAS Program described in paragraph (b)(6) of this section and 50 percent to the Eastern U.S./Canada Haddock SAP described in paragraph (b)(8) of this section.
 
-(6) *Regular B DAS Pilot Program* - (i) *Eligibility.* Vessels issued a valid limited access NE multispecies DAS permit and allocated Regular B DAS are eligible to participate in the Regular B DAS Program, and may elect to fish under a Regular B DAS, provided they comply with the requirements and restrictions of this paragraph (b)(6), and provided the use of Regular B DAS is not restricted according to paragraphs (b)(6)(iv)(G) or (H), or paragraph (b)(6)(vi) of this section. Vessels are required to comply with the no discarding and DAS flip requirements specified in paragraph (b)(6)(iv)(E) of this section, and the DAS balance and accrual requirements specified in paragraph (b)(6)(iv)(F) of this section. Vessels may fish under the B Regular DAS Program and in the U.S./Canada Management Area on the same trip, but may not fish under the Regular B DAS Program and in a SAP on the same trip.
+(6) *Regular B DAS Pilot Program*—(i) *Eligibility.* Vessels issued a valid limited access NE multispecies DAS permit and allocated Regular B DAS are eligible to participate in the Regular B DAS Program, and may elect to fish under a Regular B DAS, provided they comply with the requirements and restrictions of this paragraph (b)(6), and provided the use of Regular B DAS is not restricted according to paragraphs (b)(6)(iv)(G) or (H), or paragraph (b)(6)(vi) of this section. Vessels are required to comply with the no discarding and DAS flip requirements specified in paragraph (b)(6)(iv)(E) of this section, and the DAS balance and accrual requirements specified in paragraph (b)(6)(iv)(F) of this section. Vessels may fish under the B Regular DAS Program and in the U.S./Canada Management Area on the same trip, but may not fish under the Regular B DAS Program and in a SAP on the same trip.
 
 (ii) [Reserved]
 
 (iii) *Quarterly Incidental Catch TACs.* The Incidental Catch TACs specified in accordance with paragraph (b)(5) of this section shall be divided into quarterly catch TACs as follows: The first quarter shall receive 13 percent of the Incidental Catch TACs and the remaining quarters shall each receive 29 percent of the Incidental Catch TACs. NMFS shall send letters to all limited access NE multispecies permit holders notifying them of such TACs.
 
-(iv) *Program requirements* - (A) *VMS requirement.* A NE multispecies DAS vessel fishing in the Regular B DAS Program described in paragraph (b)(6)(i) of this section must have installed on board an operational VMS unit that meets the minimum performance criteria specified in §§ 648.9 and 648.10.
+(iv) *Program requirements*—(A) *VMS requirement.* A NE multispecies DAS vessel fishing in the Regular B DAS Program described in paragraph (b)(6)(i) of this section must have installed on board an operational VMS unit that meets the minimum performance criteria specified in §§ 648.9 and 648.10.
 
 (B) *Observer notification.* For the purposes of selecting vessels for observer deployment, a vessel must provide notice to NMFS of the vessel name; contact name for coordination of observer deployment; telephone number for contact; the date, time, and port of departure; and the planned fishing area or areas (GOM, GB, or SNE/MA) at least 48 hr prior to the beginning of any trip declared into the Regular B DAS Program as required by paragraph (b)(6)(iv)(C) of this section, and in accordance with the Regional Administrator's instructions. Providing notice of the area that the vessel intends to fish does not restrict the vessel's activity on that trip to that area only (*i.e.,* the vessel operator may change his/her plans regarding planned fishing areas).
 
@@ -257,255 +249,200 @@ Closed Area II Yellowtail Flounder/Haddock SAP Area
 
 (A) *GOM cod stock area.* The GOM cod stock area, for the purposes of the Regular B DAS Program and determining areas applicable to sector allocations of ACE pursuant to § 648.87(b), is defined as the area bounded on the north and west by the coastline of the United States, on the east by the U.S./Canadian maritime boundary, and on the south by straight lines connecting the following points in the order stated:
 
-GOM Cod Stock Area
-
-|Point| N. latitude  | W. longitude |
-|-----|--------------|--------------|
-|GOM1 |(<sup>1</sup>)|    70°00′    |
-|GOM2 |    42°20′    |    70°00′    |
-|GOM3 |    42°20′    |    67°40′    |
-|GOM4 |(<sup>2</sup>)|    67°40′    |
-|GOM5 |(<sup>3</sup>)|    67°40′    |
-|GOM6 |    43°50′    |    67°40′    |
-|GOM7 |    43°50′    |(<sup>4</sup>)|
-|GOM8 |(<sup>4</sup>)|    67°00′    |
-|GOM9 |(<sup>5</sup>)|    67°00′    |
-
-<sup>1</sup> Intersection of the north-facing coastline of Cape Cod, MA, and 70°00′ W. long.
-
-<sup>2</sup> U.S./Canada maritime boundary (southern intersection with 67°40′ W. long.).
-
-<sup>3</sup> U.S./Canada maritime boundary (northern intersection with 67°40′ W. long.).
-
-<sup>4</sup> U.S./Canada maritime boundary.
-
-<sup>5</sup> Intersection of the south-facing ME coastline and 67°00′ W. long.
+|                                           Point                                            | N. latitude  | W. longitude |
+|--------------------------------------------------------------------------------------------|--------------|--------------|
+|                                            GOM1                                            |(<sup>1</sup>)|    70°00′    |
+|                                            GOM2                                            |    42°20′    |    70°00′    |
+|                                            GOM3                                            |    42°20′    |    67°40′    |
+|                                            GOM4                                            |(<sup>2</sup>)|    67°40′    |
+|                                            GOM5                                            |(<sup>3</sup>)|    67°40′    |
+|                                            GOM6                                            |    43°50′    |    67°40′    |
+|                                            GOM7                                            |    43°50′    |(<sup>4</sup>)|
+|                                            GOM8                                            |(<sup>4</sup>)|    67°00′    |
+|                                            GOM9                                            |(<sup>5</sup>)|    67°00′    |
+|<sup>1</sup> Intersection of the north-facing coastline of Cape Cod, MA, and 70°00′ W. long.|              |              |
+|  <sup>2</sup> U.S./Canada maritime boundary (southern intersection with 67°40′ W. long.).  |              |              |
+|  <sup>3</sup> U.S./Canada maritime boundary (northern intersection with 67°40′ W. long.).  |              |              |
+|                        <sup>4</sup> U.S./Canada maritime boundary.                         |              |              |
+|       <sup>5</sup> Intersection of the south-facing ME coastline and 67°00′ W. long.       |              |              |
 
 (B) *GB cod stock area.* The GB cod stock area, for the purposes of the Regular B DAS Program and determining areas applicable to sector allocations of ACE pursuant to § 648.87(b), is the area defined by straight lines connecting the following points in the order stated:
 
-GB Cod Stock Area
-
-|Point| N. latitude  | W. longitude |
-|-----|--------------|--------------|
-| GB1 |(<sup>1</sup>)|    70°00′    |
-| GB2 |    42°20′    |    70°00′    |
-| GB3 |    42°20′    |(<sup>2</sup>)|
-| GB4 |    35°00′    |(<sup>2</sup>)|
-| GB5 |    35°00′    |(<sup>3</sup>)|
-
-<sup>1</sup> Intersection of the north-facing coastline of Cape Cod, MA, and 70°00′ W. long.
-
-<sup>2</sup> U.S./Canada maritime boundary.
-
-<sup>3</sup> Intersection of the east-facing coastline of Outer Banks, NC, and 35°00′ N. lat.
+|                                            Point                                            | N. latitude  | W. longitude |
+|---------------------------------------------------------------------------------------------|--------------|--------------|
+|                                             GB1                                             |(<sup>1</sup>)|    70°00′    |
+|                                             GB2                                             |    42°20′    |    70°00′    |
+|                                             GB3                                             |    42°20′    |(<sup>2</sup>)|
+|                                             GB4                                             |    35°00′    |(<sup>2</sup>)|
+|                                             GB5                                             |    35°00′    |(<sup>3</sup>)|
+|<sup>1</sup> Intersection of the north-facing coastline of Cape Cod, MA, and 70°00′ W. long. |              |              |
+|                         <sup>2</sup> U.S./Canada maritime boundary.                         |              |              |
+|<sup>3</sup> Intersection of the east-facing coastline of Outer Banks, NC, and 35°00′ N. lat.|              |              |
 
 (C) *CC/GOM yellowtail flounder stock area.* For the purposes of the Regular B DAS Program, the CC/GOM yellowtail flounder stock area is the area defined by straight lines connecting the following points in the order stated:
 
-CC/GOM Yellowtail Flounder Stock Area
-
-| Point  | N. latitude  | W. longitude |
-|--------|--------------|--------------|
-|CCGOM 1 |    43°00′    |(<sup>1</sup>)|
-|CCGOM 2 |    43°00′    |    70°00′    |
-|CCGOM 3 |    42°30′    |    70°00′    |
-|CCGOM 4 |    42°30′    |    69°30′    |
-|CCGOM 5 |    41°30′    |    69°30′    |
-|CCGOM 6 |    41°30′    |    69°00′    |
-|CCGOM 7 |    41°00′    |    69°00′    |
-|CCGOM 8 |    41°00′    |    69°30′    |
-|CCGOM 5 |    41°30′    |    69°30′    |
-|CCGOM 9 |    41°30′    |    70°00′    |
-|CCGOM 10|(<sup>2</sup>)|    70°00′    |
-|CCGOM 11|    42°00′    |    70°00′    |
-|CCGOM 12|    42°00′    |(<sup>3</sup>)|
-|CCGOM 13|    42°00′    |(<sup>4</sup>)|
-|CCGOM 14|    42°00′    |(<sup>5</sup>)|
-
-<sup>1</sup> Intersection with the NH coastline.
-
-<sup>2</sup> Intersection of the south-facing shoreline of Cape Cod, MA.
-
-<sup>3</sup> Intersection with the east-facing shoreline of Cape Cod, MA.
-
-<sup>4</sup> Intersection with the west-facing shoreline of Cape Cod, MA.
-
-<sup>5</sup> Intersection with the east-facing shoreline of Massachusetts.
+|                                  Point                                   | N. latitude  | W. longitude |
+|--------------------------------------------------------------------------|--------------|--------------|
+|                                 CCGOM 1                                  |    43°00′    |(<sup>1</sup>)|
+|                                 CCGOM 2                                  |    43°00′    |    70°00′    |
+|                                 CCGOM 3                                  |    42°30′    |    70°00′    |
+|                                 CCGOM 4                                  |    42°30′    |    69°30′    |
+|                                 CCGOM 5                                  |    41°30′    |    69°30′    |
+|                                 CCGOM 6                                  |    41°30′    |    69°00′    |
+|                                 CCGOM 7                                  |    41°00′    |    69°00′    |
+|                                 CCGOM 8                                  |    41°00′    |    69°30′    |
+|                                 CCGOM 5                                  |    41°30′    |    69°30′    |
+|                                 CCGOM 9                                  |    41°30′    |    70°00′    |
+|                                 CCGOM 10                                 |(<sup>2</sup>)|    70°00′    |
+|                                 CCGOM 11                                 |    42°00′    |    70°00′    |
+|                                 CCGOM 12                                 |    42°00′    |(<sup>3</sup>)|
+|                                 CCGOM 13                                 |    42°00′    |(<sup>4</sup>)|
+|                                 CCGOM 14                                 |    42°00′    |(<sup>5</sup>)|
+|             <sup>1</sup> Intersection with the NH coastline.             |              |              |
+| <sup>2</sup> Intersection of the south-facing shoreline of Cape Cod, MA. |              |              |
+|<sup>3</sup> Intersection with the east-facing shoreline of Cape Cod, MA. |              |              |
+|<sup>4</sup> Intersection with the west-facing shoreline of Cape Cod, MA. |              |              |
+|<sup>5</sup> Intersection with the east-facing shoreline of Massachusetts.|              |              |
 
 (D) *American plaice stock area.* The American plaice stock area, for the purposes of the Regular B DAS Program and determining areas applicable to sector allocations of ACE pursuant to § 648.87(b), is the area defined by straight lines connecting the following points in the order stated:
 
-American Plaice Stock Area
-
-|Point| N. latitude  | W. longitude |
-|-----|--------------|--------------|
-|AMP1 |(<sup>1</sup>)|    67°00′    |
-|AMP2 |(<sup>2</sup>)|    67°00′    |
-|AMP3 |    43°50′    |(<sup>2</sup>)|
-|AMP4 |    43°50′    |    67°40′    |
-|AMP5 |(<sup>3</sup>)|    67°40′    |
-|AMP6 |(<sup>4</sup>)|    67°40′    |
-|AMP7 |    42°30′    |    67°40′    |
-|AMP8 |    42°30′    |(<sup>2</sup>)|
-|AMP9 |    35°00′    |(<sup>2</sup>)|
-|AMP10|    35°00′    |(<sup>5</sup>)|
-
-<sup>1</sup> Intersection of south-facing ME coastline and 67°00′ W. long.
-
-<sup>2</sup> U.S./Canada maritime boundary.
-
-<sup>3</sup> U.S./Canada maritime boundary (northern intersection with 67°40′ N. lat.).
-
-<sup>4</sup> U.S./Canada maritime boundary (southern intersection with 67°40′ N. lat.)
-
-<sup>5</sup> Intersection of east-facing coastline of Outer Banks, NC, and 35°00′ N. lat.
+|                                          Point                                          | N. latitude  | W. longitude |
+|-----------------------------------------------------------------------------------------|--------------|--------------|
+|                                          AMP1                                           |(<sup>1</sup>)|    67°00′    |
+|                                          AMP2                                           |(<sup>2</sup>)|    67°00′    |
+|                                          AMP3                                           |    43°50′    |(<sup>2</sup>)|
+|                                          AMP4                                           |    43°50′    |    67°40′    |
+|                                          AMP5                                           |(<sup>3</sup>)|    67°40′    |
+|                                          AMP6                                           |(<sup>4</sup>)|    67°40′    |
+|                                          AMP7                                           |    42°30′    |    67°40′    |
+|                                          AMP8                                           |    42°30′    |(<sup>2</sup>)|
+|                                          AMP9                                           |    35°00′    |(<sup>2</sup>)|
+|                                          AMP10                                          |    35°00′    |(<sup>5</sup>)|
+|       <sup>1</sup> Intersection of south-facing ME coastline and 67°00′ W. long.        |              |              |
+|                       <sup>2</sup> U.S./Canada maritime boundary.                       |              |              |
+| <sup>3</sup> U.S./Canada maritime boundary (northern intersection with 67°40′ N. lat.). |              |              |
+| <sup>4</sup> U.S./Canada maritime boundary (southern intersection with 67°40′ N. lat.)  |              |              |
+|<sup>5</sup> Intersection of east-facing coastline of Outer Banks, NC, and 35°00′ N. lat.|              |              |
 
 (E) *SNE/MA yellowtail flounder stock area.* For the purposes of the Regular B DAS Program, the SNE/MA stock area is the area bounded on the north, east, and south by straight lines connecting the following points in the order stated:
 
-SNE/MA Yellowtail Flounder Stock Area
-
-| Point | N. latitude  | W. longitude |
-|-------|--------------|--------------|
-|SNEMA1 |    40°00′    |    74°00′    |
-|SNEMA2 |    40°00′    |    72°00′    |
-|SNEMA3 |    40°30′    |    72°00′    |
-|SNEMA4 |    40°30′    |    69°30′    |
-|SNEMA5 |    41°10′    |    69°30′    |
-|SNEMA6 |    41°10′    |    69°50′    |
-|SNEMA7 |    41°20′    |    69°50′    |
-|SNEMA8 |    41°20′    |(<sup>1</sup>)|
-|SNEMA9 |(<sup>2</sup>)|    70°00′    |
-|SNEMA10|    41°00′    |    70°00′    |
-|SNEMA11|    41°00′    |    70°30′    |
-|SNEMA12|(<sup>3</sup>)|    70°30′    |
-|SNEMA13|(<sup>4</sup>)|    72°00′    |
-|SNEMA14|(<sup>5</sup>)|    72°00′    |
-|SNEMA15|(<sup>6</sup>)|    73°00′    |
-|SNEMA16|    40°30′    |    73°00′    |
-|SNEMA17|    40°30′    |    74°00′    |
-|SNEMA1 |    40°00′    |    74°00′    |
-
-<sup>1</sup> East-facing shoreline of Nantucket, MA.
-
-<sup>2</sup> South-facing shoreline of Nantucket, MA.
-
-<sup>3</sup> Intersection of the south-facing shoreline of Cape Cod, MA.
-
-<sup>4</sup> South-facing shoreline of CT.
-
-<sup>5</sup> North-facing shoreline of Long Island, NY.
-
-<sup>6</sup> South-facing shoreline of Long Island, NY.
+|                                 Point                                  | N. latitude  | W. longitude |
+|------------------------------------------------------------------------|--------------|--------------|
+|                                 SNEMA1                                 |    40°00′    |    74°00′    |
+|                                 SNEMA2                                 |    40°00′    |    72°00′    |
+|                                 SNEMA3                                 |    40°30′    |    72°00′    |
+|                                 SNEMA4                                 |    40°30′    |    69°30′    |
+|                                 SNEMA5                                 |    41°10′    |    69°30′    |
+|                                 SNEMA6                                 |    41°10′    |    69°50′    |
+|                                 SNEMA7                                 |    41°20′    |    69°50′    |
+|                                 SNEMA8                                 |    41°20′    |(<sup>1</sup>)|
+|                                 SNEMA9                                 |(<sup>2</sup>)|    70°00′    |
+|                                SNEMA10                                 |    41°00′    |    70°00′    |
+|                                SNEMA11                                 |    41°00′    |    70°30′    |
+|                                SNEMA12                                 |(<sup>3</sup>)|    70°30′    |
+|                                SNEMA13                                 |(<sup>4</sup>)|    72°00′    |
+|                                SNEMA14                                 |(<sup>5</sup>)|    72°00′    |
+|                                SNEMA15                                 |(<sup>6</sup>)|    73°00′    |
+|                                SNEMA16                                 |    40°30′    |    73°00′    |
+|                                SNEMA17                                 |    40°30′    |    74°00′    |
+|                                 SNEMA1                                 |    40°00′    |    74°00′    |
+|          <sup>1</sup> East-facing shoreline of Nantucket, MA.          |              |              |
+|         <sup>2</sup> South-facing shoreline of Nantucket, MA.          |              |              |
+|<sup>3</sup> Intersection of the south-facing shoreline of Cape Cod, MA.|              |              |
+|               <sup>4</sup> South-facing shoreline of CT.               |              |              |
+|        <sup>5</sup> North-facing shoreline of Long Island, NY.         |              |              |
+|        <sup>6</sup> South-facing shoreline of Long Island, NY.         |              |              |
 
 (F) *SNE/MA winter flounder stock area.* The SNE winter flounder stock area, for the purposes of the Regular B DAS Program and identifying stock areas for trip limits specified in §§ 648.86 and 648.89 is the area defined by straight lines connecting the following points in the order stated:
 
-SNE/MA Winter Flounder Stock Area
-
-|Point| N. latitude  | W. longitude |
-|-----|--------------|--------------|
-|  1  |(<sup>1</sup>)|    70°00′    |
-|  2  |    42°20′    |    70°00′    |
-|  3  |    42°20′    |    68°50′    |
-|  4  |    39°50′    |    68°50′    |
-|  5  |    39°50′    |    69°00′    |
-|  6  |    39°00′    |    69°00′    |
-|  7  |    39°00′    |(<sup>2</sup>)|
-|  8  |    35°00′    |(<sup>2</sup>)|
-|  9  |    35°00′    |(<sup>3</sup>)|
-
-<sup>1</sup> Intersection of the north-facing Coastline of Cape Cod, MA, and 70°00′ W. long.
-
-<sup>2</sup> U.S./Canada maritime boundary.
-
-<sup>3</sup> The intersection of the east-facing coastline of Outer Banks, NC, and 35°00′ N. lat.
+|                                              Point                                              | N. latitude  | W. longitude |
+|-------------------------------------------------------------------------------------------------|--------------|--------------|
+|                                                1                                                |(<sup>1</sup>)|    70°00′    |
+|                                                2                                                |    42°20′    |    70°00′    |
+|                                                3                                                |    42°20′    |    68°50′    |
+|                                                4                                                |    39°50′    |    68°50′    |
+|                                                5                                                |    39°50′    |    69°00′    |
+|                                                6                                                |    39°00′    |    69°00′    |
+|                                                7                                                |    39°00′    |(<sup>2</sup>)|
+|                                                8                                                |    35°00′    |(<sup>2</sup>)|
+|                                                9                                                |    35°00′    |(<sup>3</sup>)|
+|  <sup>1</sup> Intersection of the north-facing Coastline of Cape Cod, MA, and 70°00′ W. long.   |              |              |
+|                           <sup>2</sup> U.S./Canada maritime boundary.                           |              |              |
+|<sup>3</sup> The intersection of the east-facing coastline of Outer Banks, NC, and 35°00′ N. lat.|              |              |
 
 (G) *Witch flounder stock area.* The witch flounder stock area, for the purposes of the Regular B DAS Program and determining areas applicable to sector allocations of ACE pursuant to § 648.87(b), is the area bounded on the north and west by the coastline of the United States, bounded on the south and east by a line running east from the intersection of the east-facing coastline of Outer Banks, NC, at 35°00′ N. lat. to the boundary of the EEZ, and running northward to the U.S.-Canada border.
 
 (H) *GB yellowtail flounder stock area.* The GB yellowtail flounder stock area, for the purposes of the Regular B DAS Program, identifying stock areas for trip limits specified in § 648.86, and determining areas applicable to sector allocations of ACE pursuant to § 648.87(b), is the area bounded by straight lines connecting the following points in the order stated:
 
-GB Yellowtail Flounder Stock Area
-
-|Point |N. latitude| W. longitude |
-|------|-----------|--------------|
-|USCA1 |  42°20′   |    68°50′    |
-|USCA16|  42°20′   |(<sup>1</sup>)|
-|USCA5 |  39°00′   |(<sup>1</sup>)|
-|USCA17|  39°00′   |    69°00′    |
-|USCA18|  39°50′   |    69°00′    |
-|USCA2 |  39°50′   |    68°50′    |
-|USCA1 |  42°20′   |    68°50′    |
-
-<sup>1</sup> U.S./Canada maritime boundary.
+|                   Point                   |N. latitude| W. longitude |
+|-------------------------------------------|-----------|--------------|
+|                   USCA1                   |  42°20′   |    68°50′    |
+|                  USCA16                   |  42°20′   |(<sup>1</sup>)|
+|                   USCA5                   |  39°00′   |(<sup>1</sup>)|
+|                  USCA17                   |  39°00′   |    69°00′    |
+|                  USCA18                   |  39°50′   |    69°00′    |
+|                   USCA2                   |  39°50′   |    68°50′    |
+|                   USCA1                   |  42°20′   |    68°50′    |
+|<sup>1</sup> U.S./Canada maritime boundary.|           |              |
 
 (I) *GB winter flounder stock area.* The GB winter flounder stock area, for the purposes of the Regular B DAS Program, identifying stock areas for trip limits specified in § 648.86, and determining areas applicable to sector allocations of ACE pursuant to § 648.87(b), is the area bounded by straight lines connecting the following points in the order stated:
 
-GB Winter Flounder Stock Area
-
-|Point |N. latitude| W. longitude |
-|------|-----------|--------------|
-|USCA1 |  42°20′   |    68°50′    |
-|USCA16|  42°20′   |(<sup>1</sup>)|
-|USCA5 |  39°00′   |(<sup>1</sup>)|
-|USCA17|  39°00′   |    69°00′    |
-|USCA18|  39°50′   |    69°00′    |
-|USCA2 |  39°50′   |    68°50′    |
-|USCA1 |  42°20′   |    68°50′    |
-
-<sup>1</sup> U.S./Canada maritime boundary.
+|                   Point                   |N. latitude| W. longitude |
+|-------------------------------------------|-----------|--------------|
+|                   USCA1                   |  42°20′   |    68°50′    |
+|                  USCA16                   |  42°20′   |(<sup>1</sup>)|
+|                   USCA5                   |  39°00′   |(<sup>1</sup>)|
+|                  USCA17                   |  39°00′   |    69°00′    |
+|                  USCA18                   |  39°50′   |    69°00′    |
+|                   USCA2                   |  39°50′   |    68°50′    |
+|                   USCA1                   |  42°20′   |    68°50′    |
+|<sup>1</sup> U.S./Canada maritime boundary.|           |              |
 
 (J) *White hake stock area.* The white hake stock area, for the purposes of the Regular B DAS Program, identifying stock areas for trip limits specified in § 648.86, and determining areas applicable to sector allocations of ACE pursuant to § 648.87(b), is the area bounded on the north and west by the coastline of the United States, bounded on the south and east by a line running east from the intersection of the east-facing coastline of Outer Banks, NC, at 35°00′ N. lat. to the boundary of the EEZ, and running northward to the U.S.-Canada border.
 
 (K) *Pollock stock area.* The pollock stock area, for the purposes of the Regular B DAS Program and determining areas applicable to sector allocations of ACE pursuant to § 648.87(b), is the area defined by straight lines connecting the following points in the order stated:
 
-Pollock Stock Area
-
-|Point| N. latitude  | W. longitude |
-|-----|--------------|--------------|
-| P1  |(<sup>1</sup>)|    67°00′    |
-| P2  |(<sup>2</sup>)|    67°00′    |
-| P3  |    43°50′    |(<sup>2</sup>)|
-| P4  |    43°50′    |    67°40′    |
-| P5  |(<sup>3</sup>)|    67°40′    |
-| P6  |(<sup>4</sup>)|    67°40′    |
-| P7  |    42°30′    |    67°40′    |
-| P8  |    42°30′    |(<sup>2</sup>)|
-| P9  |    35°00′    |(<sup>2</sup>)|
-| P10 |    35°00′    |(<sup>5</sup>)|
-
-<sup>1</sup> Intersection of south-facing ME coastline and 67°00′ W. long.
-
-<sup>2</sup> U.S./Canada maritime boundary.
-
-<sup>3</sup> U.S./Canada maritime boundary (northern intersection with 67°40′ N. lat.).
-
-<sup>4</sup> U.S./Canada maritime boundary (southern intersection with 67°40′ N. lat.).
-
-<sup>5</sup> Intersection of east-facing coastline of Outer Banks, NC, and 35°00′ N. lat.
+|                                          Point                                          | N. latitude  | W. longitude |
+|-----------------------------------------------------------------------------------------|--------------|--------------|
+|                                           P1                                            |(<sup>1</sup>)|    67°00′    |
+|                                           P2                                            |(<sup>2</sup>)|    67°00′    |
+|                                           P3                                            |    43°50′    |(<sup>2</sup>)|
+|                                           P4                                            |    43°50′    |    67°40′    |
+|                                           P5                                            |(<sup>3</sup>)|    67°40′    |
+|                                           P6                                            |(<sup>4</sup>)|    67°40′    |
+|                                           P7                                            |    42°30′    |    67°40′    |
+|                                           P8                                            |    42°30′    |(<sup>2</sup>)|
+|                                           P9                                            |    35°00′    |(<sup>2</sup>)|
+|                                           P10                                           |    35°00′    |(<sup>5</sup>)|
+|       <sup>1</sup> Intersection of south-facing ME coastline and 67°00′ W. long.        |              |              |
+|                       <sup>2</sup> U.S./Canada maritime boundary.                       |              |              |
+| <sup>3</sup> U.S./Canada maritime boundary (northern intersection with 67°40′ N. lat.). |              |              |
+| <sup>4</sup> U.S./Canada maritime boundary (southern intersection with 67°40′ N. lat.). |              |              |
+|<sup>5</sup> Intersection of east-facing coastline of Outer Banks, NC, and 35°00′ N. lat.|              |              |
 
 (vi) *Closure of the Regular B DAS Program.* The Regional Administrator, based upon information required under §§ 648.7, 648.9, 648.10, or 648.85, and any other relevant information may, in a manner consistent with the Administrative Procedure Act, prohibit the use of Regular B DAS for the duration of a quarter or fishing year, if it is projected that continuation of the Regular B DAS Program would undermine the achievement of the objectives of the FMP or Regular B DAS Program. Reasons for terminating the program include, but are not limited to the following: Inability to constrain catches to the Incidental Catch TACs; evidence of excessive discarding; a significant difference in flipping rates between observed and unobserved trips; or insufficient observer coverage to adequately monitor the program.
 
-(7) *Eastern U.S./Canada Haddock SAP* - (i) *Eligibility.* A vessel issued a valid limited access NE multispecies permit and fishing with trawl gear as specified in paragraph (b)(8)(v)(E) of this section while operating under a NE multispecies DAS or on a sector trip, provided the sector to which the vessel belongs has been allocated ACE for all stocks caught within the Eastern U.S./Canada Area pursuant to § 648.87(b)(1)(i), is eligible to participate in the Eastern U.S./Canada Haddock SAP and may fish in the Eastern U.S./Canada Haddock SAP Area, as described in paragraph (b)(8)(ii) of this section, during the season specified in paragraph (b)(8)(iv) of this section, provided such vessel complies with the requirements of this section and provided the SAP is not closed according to the provisions specified in paragraph (b)(8)(v)(K) or (L) of this section, the Eastern U.S./Canada Area is not closed as described under paragraph (a)(3)(iv)(E) of this section, or the sector to which the vessel belongs no longer has ACE available for all stocks caught within the Eastern U.S./Canada Area pursuant to § 648.87(b)(1)(i).
+(7) *Eastern U.S./Canada Haddock SAP*—(i) *Eligibility.* A vessel issued a valid limited access NE multispecies permit and fishing with trawl gear as specified in paragraph (b)(8)(v)(E) of this section while operating under a NE multispecies DAS or on a sector trip, provided the sector to which the vessel belongs has been allocated ACE for all stocks caught within the Eastern U.S./Canada Area pursuant to § 648.87(b)(1)(i), is eligible to participate in the Eastern U.S./Canada Haddock SAP and may fish in the Eastern U.S./Canada Haddock SAP Area, as described in paragraph (b)(8)(ii) of this section, during the season specified in paragraph (b)(8)(iv) of this section, provided such vessel complies with the requirements of this section and provided the SAP is not closed according to the provisions specified in paragraph (b)(8)(v)(K) or (L) of this section, the Eastern U.S./Canada Area is not closed as described under paragraph (a)(3)(iv)(E) of this section, or the sector to which the vessel belongs no longer has ACE available for all stocks caught within the Eastern U.S./Canada Area pursuant to § 648.87(b)(1)(i).
 
 (ii) *Eastern U.S./Canada Haddock SAP Area.* The Eastern U.S./Canada Haddock SAP Area is the area defined by straight lines connecting the following points in the order stated:
 
-Eastern U.S./Canada Haddock SAP Area
-
-|Point|N. Lat.|      W. Long.       |
-|-----|-------|---------------------|
-|CAII3|42° 22′|67° 20′<sup>(1)</sup>|
-|SAP1 |42° 20′|       67° 20′       |
-|SAP2 |42° 20′|       67° 40′       |
-|SAP3 |41° 10′|       67° 40′       |
-|SAP4 |41° 10′|       67° 20′       |
-|SAP5 |42° 10′|       67° 20′       |
-|SAP6 |42° 10′|       67° 10′       |
-|CAII3|42° 22′|67° 20′<sup>(1)</sup>|
-
-<sup>(1)</sup> U.S./Canada maritime boundary.
+|                    Point                    |N. Lat.|       W. Long.       |
+|---------------------------------------------|-------|----------------------|
+|                    CAII3                    |42° 22′|67° 20′ <sup>(1)</sup>|
+|                    SAP1                     |42° 20′|       67° 20′        |
+|                    SAP2                     |42° 20′|       67° 40′        |
+|                    SAP3                     |41° 10′|       67° 40′        |
+|                    SAP4                     |41° 10′|       67° 20′        |
+|                    SAP5                     |42° 10′|       67° 20′        |
+|                    SAP6                     |42° 10′|       67° 10′        |
+|                    CAII3                    |42° 22′|67° 20′ <sup>(1)</sup>|
+|<sup>(1)</sup> U.S./Canada maritime boundary.|       |                      |
 
 (iii) [Reserved]
 
 (iv) *Season.* An eligible vessel may fish in the Eastern U.S./Canada Haddock SAP from August 1 through December 31.
 
-(v) *Program restrictions* - (A) *Area and DAS use restrictions.* A common pool vessel fishing under a NE multispecies DAS in the Eastern U.S./Canada Haddock SAP may elect to fish under a Category A or Category B DAS in accordance with § 648.82(d)(2), or in multiple areas in accordance with the restrictions of this paragraph (b)(8)(v)(A). A vessel on a sector trip in the Eastern U.S./Canada Haddock SAP may elect to fish in multiple areas in accordance with the restrictions of this paragraph (b)(8)(v)(A).
+(v) *Program restrictions*—(A) *Area and DAS use restrictions.* A common pool vessel fishing under a NE multispecies DAS in the Eastern U.S./Canada Haddock SAP may elect to fish under a Category A or Category B DAS in accordance with § 648.82(d)(2), or in multiple areas in accordance with the restrictions of this paragraph (b)(8)(v)(A). A vessel on a sector trip in the Eastern U.S./Canada Haddock SAP may elect to fish in multiple areas in accordance with the restrictions of this paragraph (b)(8)(v)(A).
 
 (*1*) If fishing under a Category B DAS, a vessel is required to comply with the no discarding and DAS flip requirements specified in paragraph (b)(8)(v)(I) of this section, and the minimum Category A DAS requirements of paragraph (b)(8)(v)(J) of this section.
 
@@ -521,7 +458,7 @@ Eastern U.S./Canada Haddock SAP Area
 
 (D) *VMS declaration.* To fish in the Eastern U.S./Canada Haddock SAP, a vessel issued a limited access NE multispecies permit must declare into the SAP via VMS and provide information on the areas within the Eastern U.S./Canada Area that it intends to fish and the type of DAS (Category A, Regular B, or Reserve B) that it intends to fish, if operating under the provisions of the common pool, prior to departure from port, in accordance with paragraph (b)(8)(v)(A) of this section and any instructions provided by the Regional Administrator.
 
-(E) *Gear requirement* - (*1*) Unless otherwise specified in this paragraph (b)(8)(v)(E)(1), a vessel issued a limited access NE multispecies permit fishing in the Eastern U.S./Canada Haddock SAP must use the haddock separator trawl or the Ruhle Trawl, as described in paragraphs (a)(3)(iii)(A) and (b)(6)(iv)(J)(*3*) of this section, respectively, or another type of gear, if approved as described in this paragraph (b)(8)(v)(E). A vessel on a sector trip in the Eastern U.S./Canada Haddock SAP is not restricted to only using the haddock separator trawl or the Ruhle trawl, but may use any gear authorized in paragraph (a)(3)(iii) of this section, unless otherwise restricted by a sector operations plan approved pursuant to § 648.87(c). Other gear may be on board the vessel when on a trip in the Eastern U.S./Canada Haddock SAP, provided that the gear is stowed and not available for immediate use as defined in § 648.2.
+(E) *Gear requirement*—(*1*) Unless otherwise specified in this paragraph (b)(8)(v)(E)(1), a vessel issued a limited access NE multispecies permit fishing in the Eastern U.S./Canada Haddock SAP must use the haddock separator trawl or the Ruhle Trawl, as described in paragraphs (a)(3)(iii)(A) and (b)(6)(iv)(J)(*3*) of this section, respectively, or another type of gear, if approved as described in this paragraph (b)(8)(v)(E). A vessel on a sector trip in the Eastern U.S./Canada Haddock SAP is not restricted to only using the haddock separator trawl or the Ruhle trawl, but may use any gear authorized in paragraph (a)(3)(iii) of this section, unless otherwise restricted by a sector operations plan approved pursuant to § 648.87(c). Other gear may be on board the vessel when on a trip in the Eastern U.S./Canada Haddock SAP, provided that the gear is stowed and not available for immediate use as defined in § 648.2.
 
 (*2*) *Approval of additional gear.* The Regional Administrator may authorize additional gear for use in the Eastern U.S./Canada Haddock SAP in accordance with the standards and requirements specified at § 648.85(b)(6)(iv)(J)(*2*).
 
@@ -543,33 +480,27 @@ Eastern U.S./Canada Haddock SAP Area
 
 (d) *Authorized gear performance standards.* Unless otherwise restricted in this part, in areas and times when a special management program, as specified in this section, requires the use of gear authorized by that program to reduce catches of stocks of concern, participating vessels are restricted to the following trip limits: 500 lb (227 kg) of all flatfish species (American plaice, witch flounder, winter flounder, windowpane flounder, and GB yellowtail flounder), combined; 500 lb (227 kg) of monkfish (whole weight); 500 lb (227 kg) of skates (whole weight); and zero possession of lobsters, unless otherwise restricted by § 648.94(b)(3).
 
-(e) *Universal exemption programs for sector vessels* - (1) *Redfish Exemption Program* - (i) *Eligibility.* Any vessel enrolled in a NMFS approved Northeast multispecies sector and issued a limited access Northeast multispecies permit that allows the use of trawl gear consistent with paragraph (e)(1)(vii) of this section may fish in compliance with the provisions of the Redfish Exemption Program described in paragraphs (e)(1)(ii) through (viii) of this section, except those vessels enrolled in a sector whose members have been prohibited from doing so by the Regional Administrator under paragraph (e)(1)(viii)(C) of this section, or those vessels ineligible or prohibited for any other reason. Letters of authorization issued pursuant to § 648.87(c)(2) shall authorize or prohibit participation in the program by sector vessels consistent with paragraph (e)(1)(viii)(C) of this section.
+(e) *Universal exemption programs for sector vessels*—(1) *Redfish Exemption Program*—(i) *Eligibility.* Any vessel enrolled in a NMFS approved Northeast multispecies sector and issued a limited access Northeast multispecies permit that allows the use of trawl gear consistent with paragraph (e)(1)(vii) of this section may fish in compliance with the provisions of the Redfish Exemption Program described in paragraphs (e)(1)(ii) through (viii) of this section, except those vessels enrolled in a sector whose members have been prohibited from doing so by the Regional Administrator under paragraph (e)(1)(viii)(C) of this section, or those vessels ineligible or prohibited for any other reason. Letters of authorization issued pursuant to § 648.87(c)(2) shall authorize or prohibit participation in the program by sector vessels consistent with paragraph (e)(1)(viii)(C) of this section.
 
 (ii) *Redfish Exemption Area.* The Redfish Exemption Area is the area defined by straight lines connecting the following points in the order stated, except between points D and E and E and F, the boundary follows the outer limits of the U.S. EEZ. (A chart depicting this area is available from the Regional Administrator upon request):
 
-Table 14 to Paragraph (e)(1)(ii) Introductory Text
-
-|Point| N lat.  |   W long.    |
-|-----|---------|--------------|
-|  A  | 43°00′  |    69°55′    |
-|  B  | 43°00′  |    69°30′    |
-|  C  | 43°20′  |    69°30′    |
-|  D  | 43°20′  |(<sup>1</sup>)|
-|  E  |42°53.24′|  67°44.55′   |
-|  F  | 42°20′  |(<sup>2</sup>)|
-|  G  | 42°20′  |    67°40′    |
-|  H  | 42°00′  |    67°40′    |
-|  I  | 42°00′  |    69°37′    |
-|  J  | 42°20′  |    69°55′    |
-|  A  | 43°00′  |    69°55′    |
-
-<sup>1</sup> U.S. EEZ longitude, approximately 67°35.07′.
-
-<sup>2</sup> U.S. EEZ longitude, approximately 67°18.17′.
+|                          Point                          | N lat.  |   W long.    |
+|---------------------------------------------------------|---------|--------------|
+|                            A                            | 43°00′  |    69°55′    |
+|                            B                            | 43°00′  |    69°30′    |
+|                            C                            | 43°20′  |    69°30′    |
+|                            D                            | 43°20′  |(<sup>1</sup>)|
+|                            E                            |42°53.24′|  67°44.55′   |
+|                            F                            | 42°20′  |(<sup>2</sup>)|
+|                            G                            | 42°20′  |    67°40′    |
+|                            H                            | 42°00′  |    67°40′    |
+|                            I                            | 42°00′  |    69°37′    |
+|                            J                            | 42°20′  |    69°55′    |
+|                            A                            | 43°00′  |    69°55′    |
+|<sup>1</sup> U.S. EEZ longitude, approximately 67°35.07′.|         |              |
+|<sup>2</sup> U.S. EEZ longitude, approximately 67°18.17′.|         |              |
 
 (A) *Redfish Exemption Area Cod Closure.* No vessel may participate in the Redfish Exemption Program inside the Redfish Exemption Area Cod Closure from February 1 through March 31 of each year. The Redfish Exemption Area Cod Closure is the area defined by straight lines connecting the following points in the order stated:
-
-Table 15 to Paragraph (e)(1)(ii)(A)
 
 |Point|N Lat.|W Long.|
 |-----|------|-------|
@@ -581,16 +512,13 @@ Table 15 to Paragraph (e)(1)(ii)(A)
 
 (B) *Redfish Exemption Area Seasonal Closure II.* No vessel may participate in the Redfish Exemption Program inside the Redfish Exemption Area Seasonal Closure II from September 1 through December 31 of each year. The Redfish Exemption Area Seasonal Closure II is the area defined by straight lines connecting the following points in the order stated, except between points F and G the boundary follows the outer limits of the U.S. EEZ:
 
-Table 16 to Paragraph (e)(1)(ii)(B)
-
-|Point| N lat.  |   W long.    |
-|-----|---------|--------------|
-|  M  |42°47.17′|    67°40′    |
-|  F  | 42°20′  |(<sup>1</sup>)|
-|  G  | 42°20′  |    67°40′    |
-|  M  |42°47.17′|    67°40′    |
-
-<sup>1</sup> U.S. EEZ longitude, approximately 67°18.17′.
+|                          Point                          | N lat.  |   W long.    |
+|---------------------------------------------------------|---------|--------------|
+|                            M                            |42°47.17′|    67°40′    |
+|                            F                            | 42°20′  |(<sup>1</sup>)|
+|                            G                            | 42°20′  |    67°40′    |
+|                            M                            |42°47.17′|    67°40′    |
+|<sup>1</sup> U.S. EEZ longitude, approximately 67°18.17′.|         |              |
 
 (C) No vessel may participate in the Redfish Exemption Program in any areas that are otherwise closed to fishing for Northeast multispecies or fishing with trawl gear, including but not limited to year-round closed areas, seasonal closed areas, or habitat closures.
 
@@ -602,7 +530,7 @@ Table 16 to Paragraph (e)(1)(ii)(B)
 
 (B) [Reserved]
 
-(v) *Reporting* - (A) *Daily catch reporting.* The owner or operator of a vessel that has declared into the Redfish Exemption Program as required in paragraph (e)(1)(iv) of this section must submit catch reports via VMS, for each day of the fishing trip. Vessels subject to the daily reporting requirement must report daily for the entire fishing trip, including any portion fished outside of the Redfish Exemption Area. The reports must be submitted in 24-hr intervals for each day, beginning at 0000 hr and ending at 2359 hr, and must be submitted by 0900 hr of the following day, or as instructed by the Regional Administrator. The reports must include at least the following information:
+(v) *Reporting*—(A) *Daily catch reporting.* The owner or operator of a vessel that has declared into the Redfish Exemption Program as required in paragraph (e)(1)(iv) of this section must submit catch reports via VMS, for each day of the fishing trip. Vessels subject to the daily reporting requirement must report daily for the entire fishing trip, including any portion fished outside of the Redfish Exemption Area. The reports must be submitted in 24-hr intervals for each day, beginning at 0000 hr and ending at 2359 hr, and must be submitted by 0900 hr of the following day, or as instructed by the Regional Administrator. The reports must include at least the following information:
 
 (*1*) VTR serial number or other universal ID specified by the Regional Administrator;
 
@@ -630,25 +558,29 @@ Table 16 to Paragraph (e)(1)(ii)(B)
 
 (B) *Gear stowage.* Codends with mesh smaller than otherwise permitted by regulation at § 648.80(a)(3)(i) and (a)(4)(i), or § 648.87(c)(2)(ii)(D), must be stowed during transit to and from the Redfish Exemption Area, and when not in use under the Redfish Exemption Program. Any non-trawl fishing gear must be stowed for the duration of any trip for which a vessel declared its intent to fish under the Redfish Exemption Program consistent with paragraph (e)(1)(iv) of this section. Stowed gear must be not available for immediate use consistent with definitions in § 648.2
 
-(viii) *Catch Thresholds* - (A) *Monthly Performance Thresholds.* (*1*) Monthly Redfish Landings Threshold - Monthly redfish landings by a sector whose member vessels fish under the provisions of the Redfish Exemption Program may not be less than 50 percent of all the allocated Northeast multispecies stocks landed each month while fishing under the provisions of the Redfish Exemption Program.
+(viii) *Catch Thresholds*—(A) *Monthly Performance Thresholds.* (*1*) Monthly Redfish Landings Threshold—Monthly redfish landings by a sector whose member vessels fish under the provisions of the Redfish Exemption Program may not be less than 50 percent of all the allocated Northeast multispecies stocks landed each month while fishing under the provisions of the Redfish Exemption Program.
 
-(*2*) Monthly Discards Threshold - Monthly observed discards of regulated Northeast multispecies and ocean pout by a sector whose member vessels fish under the provisions of the Redfish Exemption Program may not exceed 5 percent of total observed kept catch, for those portions of trips fished each month under the provisions of the Redfish Exemption Program.
+(*2*) Monthly Discards Threshold—Monthly observed discards of regulated Northeast multispecies and ocean pout by a sector whose member vessels fish under the provisions of the Redfish Exemption Program may not exceed 5 percent of total observed kept catch, for those portions of trips fished each month under the provisions of the Redfish Exemption Program.
 
-(B) *Annual Performance Thresholds.* (*1*) Annual Redfish Landings Threshold - Annual fishing year redfish landings by a sector whose member vessels fish under the provisions of the Redfish Exemption Program may be no less than 55 percent of all the allocated Northeast multispecies stocks landed while fishing under the provisions of the Redfish Exemption Program.
+(B) *Annual Performance Thresholds.* (*1*) Annual Redfish Landings Threshold—Annual fishing year redfish landings by a sector whose member vessels fish under the provisions of the Redfish Exemption Program may be no less than 55 percent of all the allocated Northeast multispecies stocks landed while fishing under the provisions of the Redfish Exemption Program.
 
-(C) *Administration of Thresholds.* (*1*) If a sector fails to meet the monthly redfish landings threshold or the monthly discards threshold described in paragraphs (e)(1)(viii)(A)(*1*) and (*2*) of this section for four or more months total, or three or more consecutive months, in a fishing year, the Regional Administrator shall prohibit all vessels in that sector from fishing under the provisions of the Redfish Exemption Program for the remainder of the fishing year, and place the sector and its vessels in a probationary status for one fishing year beginning the following fishing year.
+(C) *Administration of thresholds.* (*1*) For the purpose of determining a sector's monthly redfish landings threshold performance described in paragraph (e)(1)(viii)(A)(*1*) of this section and the annual redfish landings threshold described in paragraph (e)(1)(viii)(B)(*1*) of this section, landings of allocated regulated species by vessels participating in a maximized retention electronic monitoring program consistent with § 648.11(l), including landings of allocated stocks below the minimum size at § 648.83(a)(1), will be counted as landings and not discards.
 
-(*2*) If a sector fails to meet the annual redfish landings threshold described in paragraph (e)(1)(viii)(B)(*1*) of this section in a fishing year, the Regional Administrator shall place the sector and its vessels in a probationary status for one fishing year beginning the following fishing year.
+(*2*) For the purpose of determining a sector's monthly discards threshold performance described in paragraph (e)(1)(viii)(A)(*2*) of this section, a trip by a vessel participating in a maximized retention electronic monitoring program consistent with § 648.11(l) will be excluded from evaluation of the monthly discard threshold.
 
-(*3*) While in probationary status as described in paragraph (e)(1)(viii)(C)(*1*) or (*2*) of this section, if the sector fails to meet the monthly redfish landings threshold or the monthly discards threshold described in paragraphs (e)(1)(viii)(A)(*1*) and (*2*) of this section for four or more months total, or three or more consecutive months, in that fishing year, the Regional Administrator shall prohibit all vessels in that sector from fishing under the provisions of the Redfish Exemption Program for the remainder of the fishing year and the following fishing year.
+(*3*) If a sector fails to meet the monthly redfish landings threshold or the monthly discards threshold described in paragraphs (e)(1)(viii)(A)(*1*) and (*2*) of this section for four or more months total, or three or more consecutive months, in a fishing year, the Regional Administrator shall prohibit all vessels in that sector from fishing under the provisions of the Redfish Exemption Program for the remainder of the fishing year, and place the sector and its vessels in a probationary status for one fishing year beginning the following fishing year.
 
-(*4*) If a sector fails to meet the annual redfish landings threshold in (e)(1)(viii)(B)(*1*) of this section for any fishing year during which the sector is in a probationary status as described in paragraph (e)(1)(viii)(C)(*1*) or (*2*) of this section, the Regional Administrator shall prohibit all vessels in that sector from fishing under the provisions of the Redfish Exemption Program for the following fishing year.
+(*4*) If a sector fails to meet the annual redfish landings threshold described in paragraph (e)(1)(viii)(B)(*1*) of this section in a fishing year, the Regional Administrator shall place the sector and its vessels in a probationary status for one fishing year beginning the following fishing year.
 
-(*5*) The Regional Administrator may determine a sector has failed to meet required monthly or annual thresholds described in paragraphs (e)(1)(viii)(A) and (B) of this section using available information including, but not limited to, vessel declarations and notifications, vessel trip reports, dealer reports, and observer and electronic monitoring records.
+(*5*) While in probationary status as described in paragraph (e)(1)(viii)(C)(*3*) or (*4*) of this section, if the sector fails to meet the monthly redfish landings threshold or the monthly discards threshold described in paragraphs (e)(1)(viii)(A)(*1*) and (*2*) of this section for four or more months total, or three or more consecutive months, in that fishing year, the Regional Administrator shall prohibit all vessels in that sector from fishing under the provisions of the Redfish Exemption Program for the remainder of the fishing year and the following fishing year.
 
-(*6*) The Regional Administrator shall notify a sector of a failure to meet the required monthly or annual thresholds and the sector's vessels prohibition or probation status consistent with the provisions in paragraphs (e)(1)(viii)(C)(*1*) through (*5*) of this section. The Regional Administrator shall also make administrative amendments to the approved sector operations plan and issue sector vessel letters of authorization consistent with the provisions in paragraphs (e)(1)(viii)(C)(*1*) through (*5*) of this section. These administrative amendments may be made during a fishing year or during the sector operations plan and sector contract approval process.
+(*6*) If a sector fails to meet the annual redfish landings threshold in paragraph (e)(1)(viii)(B)(*1*) of this section for any fishing year during which the sector is in a probationary status as described in paragraph (e)(1)(viii)(C)(*3*) or (*4*) of this section, the Regional Administrator shall prohibit all vessels in that sector from fishing under the provisions of the Redfish Exemption Program for the following fishing year.
 
-(*7*) A sector may request in writing that the Regional Administrator review and reverse a determination made under the provisions of this section within 30 days of the date of the Regional Administrator's determination. Any such request must be based on information showing the sector complied with the required thresholds, including, but not limited to, landing, discard, observer or electronic monitoring records. The Regional Administrator will review and maintain or reverse the determination and notify the sector of this decision in writing. Any determination resulting from a review conducted under this provision is final and may not be reviewed further.
+(*7*) The Regional Administrator may determine a sector has failed to meet required monthly or annual thresholds described in paragraphs (e)(1)(viii)(A) and (B) of this section using available information including, but not limited to, vessel declarations and notifications, vessel trip reports, dealer reports, and observer and electronic monitoring records.
+
+(*8*) The Regional Administrator shall notify a sector of a failure to meet the required monthly or annual thresholds and the sector's vessels prohibition or probation status consistent with the provisions in paragraphs (e)(1)(viii)(C)(*1*) through (*7*) of this section. The Regional Administrator shall also make administrative amendments to the approved sector operations plan and issue sector vessel letters of authorization consistent with the provisions in paragraphs (e)(1)(viii)(C)(*1*) through (*7*) of this section. These administrative amendments may be made during a fishing year or during the sector operations plan and sector contract approval process.
+
+(*9*) A sector may request in writing that the Regional Administrator review and reverse a determination made under the provisions of this section within 30 days of the date of the Regional Administrator's determination. Any such request must be based on information showing the sector complied with the required thresholds, including, but not limited to, landing, discard, observer or electronic monitoring records. The Regional Administrator will review and maintain or reverse the determination and notify the sector of this decision in writing. Any determination resulting from a review conducted under this paragraph (e)(1)(viii)(C)(*9*) is final and may not be reviewed further.
 
 (ix) *Program review.* The Council will review the Redfish Exemption Program after the first peer-reviewed redfish stock assessment following implementation of the program. The Council will prepare a report, which may include, but is not limited to, an evaluation of threshold performance, vessel-level performance, bycatch of non-redfish stocks, and changes in catch selectivity, and will consider the goals and objectives of the Redfish Exemption Program and the FMP. The Council may decide, as needed, to conduct additional reviews following the review outlined in this section.
 

@@ -1,5 +1,7 @@
 ##### § 3.42 Restricted activities. #####
 
+Link to an amendment published at 88 FR 1135, Jan. 9, 2023.
+
 (a) *Hobbies and sports.* A person may undertake hobbies and sports only in designated areas or as approved by the Director.
 
 (b) *Pets and other animals.* A person may not bring on the enclave any cat, dog, or other animal except for authorized purposes. This prohibition does not apply to domestic pets at living quarters or to the exercise of these pets under leash or other appropriate restraints. The use of a dog by a handicapped person to assist that person is authorized.

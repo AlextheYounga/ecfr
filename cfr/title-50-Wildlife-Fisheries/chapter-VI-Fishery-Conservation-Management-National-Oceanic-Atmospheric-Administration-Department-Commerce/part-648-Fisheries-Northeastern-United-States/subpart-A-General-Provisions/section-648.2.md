@@ -1,7 +1,5 @@
 ##### § 648.2 Definitions. #####
 
-Link to an amendment published at 87 FR 75876, Dec. 9, 2022.
-
 In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, the terms used in this part have the following meanings:
 
 *Alewife* means *Alosa pseudoharengus.*
@@ -134,9 +132,15 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Dredge vessel,* with respect to the scallop fishery, means any fishing vessel that is equipped for fishing using dredge gear and that is capable of catching scallops.
 
-*Electronic monitoring* means a network of equipment that uses a software operating system connected to one or more technology components, including, but not limited to, cameras and recording devices to collect data on catch and vessel operations. With respect to the NE multispecies fishery, electronic monitoring means any equipment that is used to monitor area fished and the amount and identity of species kept and discarded in lieu of at-sea monitors as part of an approved Sector at-sea monitoring program.
+*Electronic monitoring* means a network of equipment that uses a software operating system connected to one or more technology components, including, but not limited to, cameras and recording devices to collect data on catch and vessel operations. With respect to the groundfish sector monitoring program, electronic monitoring means any equipment that is used to meet sector monitoring requirements in § 648.11 in lieu of at-sea monitors as part of an approved sector at-sea monitoring program, including the audit model and maximized retention model.
+
+*Electronic monitoring audit model* with respect to the groundfish sector monitoring program means a program in which all eligible trips must be electronically monitored; fish must be handled in view of cameras; allowed discarding must occur at controlled points in view of cameras; species identification and length must be collected for regulated species and ocean pout discards for catch estimation; discards are reported at the sub-trip level; and electronic monitoring data are compared to the area fished, regulated species and ocean pout discards, and other information reported on the vessel trip report on a subset of trips for validation.
 
 *Electronic monitoring data* means the data that are created in the collection of fishery-dependent data by electronic monitoring systems during fishing operations, including the video, images, and other sensor data, as well as the metadata that provides information (*e.g.,* trip sail date, vessel information) about the raw data.
+
+*Electronic monitoring maximized retention model* with respect to the groundfish sector monitoring program, means a program in which all eligible trips are electronically monitored; fish must be handled in view of cameras; allowed discarding must occur at controlled points in view of cameras; all allocated regulated species stocks must be retained; electronic monitoring is used to verify compliance; and offloads are subject to observation by dockside monitors.
+
+*Electronic monitoring provider staff* means any video reviewer, or any person employed or contracted by an electronic monitoring service provider to provide electronic monitoring services to vessels.
 
 *Exempted gear,* with respect to the NE multispecies fishery, means gear that is deemed to be not capable of catching NE multispecies, and includes: Pelagic hook and line, pelagic longline, spears, rakes, diving gear, cast nets, tongs, harpoons, weirs, dipnets, stop nets, pound nets, pelagic gillnets, pots and traps, shrimp trawls (with a properly configured grate as defined under this part), and surfclam and ocean quahog dredges.
 
@@ -198,7 +202,7 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Inshore exempted species* means the following species:
 
-Bay scallop - *Aequipecten irradians.*Blood arc clam - *Anadara ovalis.*Blood worm - *Glycera dibranchiata.*Blue crab - *Callinectes similis* and *Callinectes sapidus.*Blue mussel - *Mytilus edulis.*Green crab - *Carcinus maenas.*Hermit crab - *Clibanarius vittatus*, *Pagurus pollicaris* and *Pagurus longicarpus.*Japanese shore crab - *Hemigrapsus sanguineus.*Oyster - *Crassostrea virginica* and *Ostrea edulis.*Quahog - *Mercenaria mercenaria.*Razor clam - *Ensis directus.*Sand worm - *Neresis virens.*Soft clam - *Mya arenaria.*Spider crab*Libinia emarginata.*
+Bay scallop—*Aequipecten irradians.*Blood arc clam—*Anadara ovalis.*Blood worm—*Glycera dibranchiata.*Blue crab—*Callinectes similis* and *Callinectes sapidus.*Blue mussel—*Mytilus edulis.*Green crab—*Carcinus maenas.*Hermit crab—*Clibanarius vittatus*, *Pagurus pollicaris* and *Pagurus longicarpus.*Japanese shore crab—*Hemigrapsus sanguineus.*Oyster—*Crassostrea virginica* and *Ostrea edulis.*Quahog—*Mercenaria mercenaria.*Razor clam—*Ensis directus.*Sand worm—*Neresis virens.*Soft clam—*Mya arenaria.*Spider crab*Libinia emarginata.*
 
 *Interest in an IFQ allocation* means: An allocation of quota share or annual IFQ allocation held by an individual; or by a company in which the individual is an owner, part owner, officer, shareholder, or partner; or by an immediate family member (an individual's parents, spouse, children, and siblings).
 
@@ -420,43 +424,43 @@ Bay scallop - *Aequipecten irradians.*Blood arc clam - *Anadara ovalis.*Blood wo
 
 *Northeast (NE) multispecies or multispecies* means the following species:
 
-American plaice - *Hippoglossoides platessoides.*
+American plaice—*Hippoglossoides platessoides.*
 
-Atlantic cod - *Gadus morhua.*
+Atlantic cod—*Gadus morhua.*
 
-Atlantic halibut - *Hippoglossus hippoglossus.*
+Atlantic halibut—*Hippoglossus hippoglossus.*
 
-Atlantic wolffish - *Anarhichas lupus.*
+Atlantic wolffish—*Anarhichas lupus.*
 
-Haddock - *Melanogrammus aeglefinus.*
+Haddock—*Melanogrammus aeglefinus.*
 
-Ocean pout - *Macrozoarces americanus.*
+Ocean pout—*Macrozoarces americanus.*
 
-Offshore hake - *Merluccius albidus.*
+Offshore hake—*Merluccius albidus.*
 
-Pollock - *Pollachius virens.*
+Pollock—*Pollachius virens.*
 
-Redfish - *Sebastes fasciatus.*
+Redfish—*Sebastes fasciatus.*
 
-Red hake - *Urophycis chuss.*
+Red hake—*Urophycis chuss.*
 
-Silver hake (whiting) - *Merluccius bilinearis.*
+Silver hake (whiting)—*Merluccius bilinearis.*
 
-White hake - *Urophycis tenuis.*
+White hake—*Urophycis tenuis.*
 
-Windowpane flounder - *Scophthalmus aquosus.*
+Windowpane flounder—*Scophthalmus aquosus.*
 
-Winter flounder - *Pleuronectes americanus.*
+Winter flounder—*Pleuronectes americanus.*
 
-Witch flounder - *Glyptocephalus cynoglossus.*
+Witch flounder—*Glyptocephalus cynoglossus.*
 
-Yellowtail flounder - *Pleuronectes ferruginea.*
+Yellowtail flounder—*Pleuronectes ferruginea.*
 
 *Northern shrimp* means *Pandalus borealis.*
 
 *Not available for immediate use* means that the gear is not being used for fishing and is stowed in conformance with one of the following methods:
 
-(1) *Nets* - (i) *Below-deck stowage.* (A) The net is stored below the main working deck from which it is deployed and retrieved;
+(1) *Nets*—(i) *Below-deck stowage.* (A) The net is stored below the main working deck from which it is deployed and retrieved;
 
 (B) The net is fan-folded (flaked) and bound around its circumference.
 
@@ -496,9 +500,7 @@ Yellowtail flounder - *Pleuronectes ferruginea.*
 
 (5) *Other methods of stowage.* Any other method of stowage authorized in writing by the Regional Administrator and subsequently published in the Federal Register.
 
-*Observer or monitor* means any person certified by NMFS to collect operational fishing data, biological data, or economic data through direct observation and interaction with operators of commercial fishing vessels as part of NMFS' Northeast Fisheries Observer Program. Observers or monitors include NMFS-certified fisheries observers, at-sea monitors, portside samplers, and dockside monitors.
-
-*Observer/sea sampler* means any person certified/approved by NMFS to collect operational fishing data, biological data, or economic data through direct observation and interaction with operators of commercial fishing vessels as part of NMFS' Northeast Fisheries Observer Program and Northeast At-sea Monitoring Program. Observer/sea samplers are also referred to as fisheries observers, fisheries observers/sea samplers, and NMFS-certified fisheries observers/sea samplers.
+*Observer or monitor* means any person authorized by NMFS to collect observer information, operational fishing data, biological data, or economic data for conservation and management purposes on or from fishing vessels or federally permitted dealers as required by the regulations, including, but not limited to, observers, at-sea monitors, observer/sea samplers, portside samplers, or dockside monitors.
 
 *Ocean quahog* means the species *Arctica islandica.*
 
@@ -592,8 +594,6 @@ Yellowtail flounder - *Pleuronectes ferruginea.*
 
 *Scallop dredge vessel* means any fishing vessel, other than a combination vessel, that uses or is equipped to use scallop dredge gear.
 
-*Slippage in the Atlantic herring fishery* means discarded catch from a vessel issued an Atlantic herring permit that is carrying a NMFS-certified observer or monitor prior to the catch being brought on board or prior to the catch being made available for sampling and inspection by a NMFS-certified observer or monitor after the catch is on board. Slippage also means any catch that is discarded during a trip prior to it being sampled portside by a portside sampler on a trip selected for portside sampling coverage by NMFS. Slippage includes releasing catch from a codend or seine prior to the completion of pumping the catch aboard and the release of catch from a codend or seine while the codend or seine is in the water. Fish that cannot be pumped and remain in the codend or seine at the end of pumping operations are not considered slippage. Discards that occur after the catch is brought on board and made available for sampling and inspection by a NMFS-certified observer or monitor are also not considered slippage.
-
 *Scup* means *Stenotomus chrysops.*
 
 *Scup Monitoring Committee* means a committee made up of staff representative of the MAFMC, NEFMC, South Atlantic Fishery Management Council, the NMFS Northeast Regional Office, the NEFSC, and the Commission. The MAFMC Executive Director or a designee chairs the committee.
@@ -630,7 +630,9 @@ Yellowtail flounder - *Pleuronectes ferruginea.*
 
 *Skate Management Unit* means an area of the Atlantic Ocean from 35°15.3′ N. lat., the approximate latitude of Cape Hatteras Light, NC, northward to the U.S.-Canada border, extending eastward from the shore to the outer boundary of the EEZ and northward to the U.S.-Canada border in which the United States exercises exclusive jurisdiction over all skates fished for, possessed, caught, or retained in or from such area.
 
-*Slip(s) or slipping catch in the Atlantic herring fishery* means discarded catch from a vessel issued an Atlantic herring permit that is carrying a NMFS-certified observer or monitor prior to the catch being brought on board or prior to the catch being made available for sampling and inspection by a NMFS-certified observer or monitor after the catch is on board. Slip(s) or slipping catch also means any catch that is discarded during a trip prior to it being sampled portside by a portside sampler on a trip selected for portside sampling coverage by NMFS. Slip(s) or slipping catch includes releasing fish from a codend or seine prior to the completion of pumping the fish on board and the release of fish from a codend or seine while the codend or seine is in the water. Slippage or slipped catch refers to fish that are slipped. Slippage or slipped catch does not include operational discards, discards that occur after the catch is brought on board and made available for sampling and inspection by a NMFS-certified observer or monitor, or fish that inadvertently fall out of or off fishing gear as gear is being brought on board the vessel.
+*Slip(s) or slipping catch in the Atlantic herring fishery* means discarded catch from a vessel issued an Atlantic herring permit that is carrying an observer or monitor prior to the catch being brought on board or prior to the catch being made available for sampling and inspection by an observer or monitor after the catch is on board. Slip(s) or slipping catch also means any catch that is discarded during a trip prior to it being sampled portside by a portside sampler on a trip selected for portside sampling coverage by NMFS. Slip(s) or slipping catch includes releasing fish from a codend or seine prior to the completion of pumping the fish on board and the release of fish from a codend or seine while the codend or seine is in the water. Slippage or slipped catch refers to fish that are slipped. Slippage or slipped catch does not include operational discards, discards that occur after the catch is brought on board and made available for sampling and inspection by an observer or monitor, or fish that inadvertently fall out of or off fishing gear as gear is being brought on board the vessel.
+
+*Slippage in the Atlantic herring fishery* means discarded catch from a vessel issued an Atlantic herring permit that is carrying an observer or monitor prior to the catch being brought on board or prior to the catch being made available for sampling and inspection by an observer or monitor after the catch is on board. Slippage also means any catch that is discarded during a trip prior to it being sampled portside by a portside sampler on a trip selected for portside sampling coverage by NMFS. Slippage includes releasing catch from a codend or seine prior to the completion of pumping the catch aboard and the release of catch from a codend or seine while the codend or seine is in the water. Fish that cannot be pumped and remain in the codend or seine at the end of pumping operations are not considered slippage. Discards that occur after the catch is brought on board and made available for sampling and inspection by an observer or monitor are also not considered slippage.
 
 *Small-mesh multispecies* means the subset of Northeast multispecies that includes silver hake, offshore hake, and red hake.
 
@@ -722,7 +724,7 @@ Yellowtail flounder - *Pleuronectes ferruginea.*
 
 *Vessel Monitoring System (VMS)* means a vessel monitoring system or VMS unit as set forth in § 648.9 and approved by NMFS for use on Atlantic sea scallop, NE multispecies, monkfish, Atlantic herring, and Atlantic surfclam and ocean quahog vessels, as required by this part.
 
-*Video reviewer* means any electronic monitoring service provider staff approved/certified by NMFS for providing electronic monitoring video review services consistent with electronic monitoring program requirements.
+*Video reviewer* means any electronic monitoring service provider staff approved/certified or training to be approved/certified by NMFS for providing electronic monitoring video review services consistent with electronic monitoring program requirements.
 
 *VMS unit* means a device installed on board a vessel used for vessel monitoring and transmitting the vessel's position as required by this part.
 
@@ -732,4 +734,4 @@ Yellowtail flounder - *Pleuronectes ferruginea.*
 
 *Whiting Monitoring Committee (WMC)* means a team appointed by the NEFMC to review, analyze, and recommend adjustments to the management measures addressing small-mesh multispecies. The team consists of staff from the NEFMC and MAFMC, NMFS Northeast Regional Office, the NEFSC, the USCG, at least one industry representative from each geographical area (northern New England, southern New England, and the Mid-Atlantic), and no more than two representatives, appointed by the Commission, from affected states.
 
-[61 FR 34968, July 3, 1996]Editorial Note:For Federal Register citations affecting § 648.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Editorial Note:At 85 FR 7430, Feb. 7, 2020, §thnsp;648.2 was amended by revising the definition for “Slippage in the Atlantic herring fishery,” however, this definition does not exist so the amendment could not be incorporated.
+[61 FR 34968, July 3, 1996]Editorial Note:For Federal Register citations affecting § 648.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

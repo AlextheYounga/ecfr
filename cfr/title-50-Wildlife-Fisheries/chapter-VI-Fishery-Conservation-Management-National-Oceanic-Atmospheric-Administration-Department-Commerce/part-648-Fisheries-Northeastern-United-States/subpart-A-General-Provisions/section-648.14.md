@@ -1,7 +1,5 @@
 ##### § 648.14 Prohibitions. #####
 
-Link to an amendment published at 87 FR 75885, Dec. 9, 2022.
-
 (a) *General prohibitions.* It is unlawful for any person to do any of the following:
 
 (1) Violate any provision of this part, the Magnuson-Stevens Act, or any regulation, notice, or permit issued under the Magnuson-Stevens Act, or any other statute administered by NOAA.
@@ -16,13 +14,13 @@ Link to an amendment published at 87 FR 75885, Dec. 9, 2022.
 
 (6) Fail to comply in an accurate and timely fashion with the log report, reporting, record retention, inspection, or other requirements of § 648.7, or submit or maintain false information in records and reports required to be kept or filed under § 648.7.
 
-(7) Possess, import, export, transfer, land, or have custody or control of any species of fish regulated pursuant to this part that do not meet the minimum size provisions in this part, unless such species were harvested exclusively within state waters by a vessel that does not hold a valid permit under this part, or are species included in the NE Multispecies Fishery Management Plan that were harvested by a vessel issued a valid High Seas Fishing Compliance permit that fished exclusively in the NAFO Regulatory Area.
+(7) Possess, import, export, transfer, land, or have custody or control of any species of fish regulated pursuant to this part that do not meet the minimum size provisions in this part, unless such species were harvested exclusively within state waters by a vessel that does not hold a valid permit under this part, or are species included in the NE Multispecies Fishery Management Plan that were either harvested by a vessel participating in the maximized retention electronic monitoring program consistent with § 648.11(l)(10)(i)(E) or harvested by a vessel issued a valid High Seas Fishing Compliance permit that fished exclusively in the NAFO Regulatory Area.
 
 (8) Fail to comply with any sea turtle conservation measure specified in 50 CFR parts 222 and 223, including any sea turtle conservation measure implemented by notification in the Federal Register.
 
 (9) Violate any provision of an in-season action to adjust trip limits, gear usage, season, area access and/or closure, or any other measure authorized by this part.
 
-(10) *Food safety program.* (i) Purchase, receive for a commercial purpose other than transport to a testing facility, or process; or attempt to purchase, receive for commercial purpose other than transport to a testing facility; or process, outside Maine, ocean quahogs harvested in or from the EEZ within the Maine mahogany quahog zone, except at a facility participating in an overall food safety program, operated by the official state agency having jurisdiction, that utilizes food safety-based procedures including sampling and analyzing for PSP toxin consistent with procedures used by the State of Maine for such purpose.
+(10) (i) Purchase, receive for a commercial purpose other than transport to a testing facility, or process; or attempt to purchase, receive for commercial purpose other than transport to a testing facility; or process, outside Maine, ocean quahogs harvested in or from the EEZ within the Maine mahogany quahog zone, except at a facility participating in an overall food safety program, operated by the official state agency having jurisdiction, that utilizes food safety-based procedures including sampling and analyzing for PSP toxin consistent with procedures used by the State of Maine for such purpose.
 
 (ii) Land ocean quahogs outside Maine that are harvested in or from the EEZ within the Maine mahogany quahog zone, except at a facility participating in an overall food safety program, operated by the official state agency having jurisdiction, that utilizes food safety-based procedures including sampling and analyzing for PSP toxin consistent with procedures used by the State of Maine for such purpose.
 
@@ -78,11 +76,11 @@ Link to an amendment published at 87 FR 75885, Dec. 9, 2022.
 
 (e) *Observer program.* It is unlawful for any person to do any of the following:
 
-(1) Assault, resist, oppose, impede, harass, intimidate, or interfere with or bar by command, impediment, threat, or coercion any NMFS-certified observer or monitor conducting his or her duties; any authorized officer conducting any search, inspection, investigation, or seizure in connection with enforcement of this part; any official designee of the Regional Administrator conducting his or her duties, including those duties authorized in § 648.7(g).
+(1) Assault, resist, oppose, impede, harass, intimidate, or interfere with or bar by command, impediment, threat, or coercion any observer or monitor conducting his or her duties; any electronic monitoring provider staff who collects data required under this part; any authorized officer conducting any search, inspection, investigation, or seizure in connection with enforcement of this part; any official designee of the Regional Administrator conducting his or her duties, including those duties authorized in §§ 648.7(g) and 648.11(l)(10)(v).
 
-(2) Refuse monitoring coverage by a NMFS-certified observer or monitor if selected for monitoring coverage by the Regional Administrator or the Regional Administrator's designee.
+(2) Refuse monitoring coverage by an observer or monitor if selected for monitoring coverage by the Regional Administrator or the Regional Administrator's designee.
 
-(3) Fail to provide information, notification, accommodations, access, or reasonable assistance to either a NMFS-certified observer or monitor conducting his or her duties as specified in § 648.11.
+(3) Fail to provide information, notification, accommodations, access, or reasonable assistance to an observer, monitor, or electronic monitoring provider staff conducting his or her duties as specified in § 648.11.
 
 (4) Submit false or inaccurate data, statements, or reports.
 
@@ -195,7 +193,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (ix) *Observer program.* (A) Refuse, or fail, to carry onboard an observer after being requested to by the Regional Administrator or the Regional Administrator's designee.
 
-(B) Fail to provide information, notification, accommodations, access, or reasonable assistance to a NMFS-certified observer conducting his or her duties aboard a vessel, as specified in § 648.11.
+(B) Fail to provide information, notification, accommodations, access, or reasonable assistance to an observer conducting his or her duties aboard a vessel, as specified in § 648.11.
 
 (C) Fail to comply with the notification, observer services procurement, and observer services payment requirements of the sea scallop observer program specified in § 648.11(k).
 
@@ -455,9 +453,17 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (vi) Acquire a limited access NE multispecies permit that would result in a permit holder exceeding any of the ownership accumulation limits specified in § 648.4(a)(1)(i)(N), unless authorized under § 648.4(a)(1)(i)(N).
 
-(3) *Dealer requirements.* (i) It is unlawful to purchase, possess, import, export, or receive as a dealer, or in the capacity of a dealer, regulated species or ocean pout in excess of the possession limits specified in § 648.82, § 648.85, § 648.86, or § 648.87 applicable to a vessel issued a NE multispecies permit, unless otherwise specified in § 648.17, or unless the regulated species or ocean pout are purchased or received from a vessel that caught them on a sector trip and such species are exempt from such possession limits in accordance with an approved sector operations plan, as specified in § 648.87(c).
+(3) *Dealer requirements.* It is unlawful for any person to:
+
+(i) Purchase, possess, import, export, or receive as a dealer, or in the capacity of a dealer, allocated regulated species or ocean pout in excess of the possession limits specified in § 648.82, § 648.85, § 648.86, or § 648.87 applicable to a vessel issued a NE multispecies permit, unless otherwise specified in § 648.17, or unless the regulated species or ocean pout are purchased or received from a vessel that caught them on a sector trip and such species are exempt from such possession limits in accordance with an approved sector operations plan, as specified in § 648.87(c).
 
 (ii) Sell or transfer to another person for a commercial purpose, other than solely for transport on land, any NE multispecies harvested from the EEZ by a vessel issued a Federal NE multispecies permit, unless the transferee has a valid NE multispecies dealer permit.
+
+(iii) Purchase, possess, import, export, or receive as a dealer, or in the capacity of a dealer, allocated regulated species from a vessel participating in the maximized retention electronic monitoring program in § 648.11(l) unless the offload of catch was observed by a dockside monitor or NMFS issued a waiver from dockside monitoring for the trip.
+
+(iv) Assault, resist, oppose, impede, harass, intimidate, or interfere with or bar by command, impediment, threat, or coercion any observer or monitor conducting his or her duties or any electronic monitoring provider staff who collects data required under this part.
+
+(v) Impede a dockside monitor's access to their premises, scales, and any fish received from vessels participating in the maximized retention electronic monitoring program; fail to facilitate dockside monitoring for vessels participating in a maximized retention electronic monitoring program; or fail to process, sort, label, and report fish from vessels participating in the maximized retention monitoring program, as required in § 648.11(l)(10)(iv).
 
 (4) *NAFO.* It is unlawful for any owner or operator of a vessel issued a valid NE multispecies permit or letter under § 648.4(a)(1)(i), to fail to comply with the exemption specifications in § 648.17.
 
@@ -773,15 +779,21 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (viii) Discard legal-sized regulated species or ocean pout allocated to sectors pursuant to § 648.87(b)(1)(i), as prohibited by § 648.87(b)(1)(v).
 
-(ix) Fail to comply with the reporting requirements specified in § 648.87(b)(1)(v) or (vi).
+(ix) Fail to comply with the reporting requirements specified in §§ 648.11(l)(10)(iii) and 648.87(b)(1)(v).
 
-(x) Leave port to begin a trip before an at-sea monitor has arrived and boarded the vessel if assigned to carry an at-sea monitor for that trip, or without an operational electronic monitoring system installed on board, as specified in § 648.87(b)(5)(iii)(A).
+(x) Leave port to begin a trip before an at-sea monitor has arrived and boarded the vessel if assigned to carry an at-sea monitor for that trip, or without an operational electronic monitoring system installed on board, as specified in § 648.11(l)(3) and (l)(10)(i).
 
-(xi) Leave port to begin a trip if a vessel has failed a review of safety issues by an at-sea monitor and has not successfully resolved any identified safety deficiencies, as prohibited by § 648.87(b)(5)(iv)(A).
+(xi) Leave port to begin a trip if a vessel has failed a review of safety issues by an at-sea monitor and has not successfully resolved any identified safety deficiencies, as prohibited by § 648.11(l)(10)(i)(C).
 
-(xii) Fail to comply with the electronic monitoring system requirements as specified in § 684.87(b)(5)(iii)(A)(*2*).
+(xii) Fail to comply with the electronic monitoring system requirements as specified in § 648.11(l)(10)(i)(A), including, but not limited to: ensuring the electronic monitoring system is fully operational; conducting a system check of the electronic monitoring system; ensuring camera views are unobstructed and clear; and ensuring that no person tampers with the electronic monitoring system.
 
-(xiii) Fail to comply with the vessel monitoring plan requirements as specified in § 648.87(b)(5)(iii)(A)(*3*).
+(xiii) Fail to comply with the vessel monitoring plan requirements as specified in § 648.11(l)(10)(i)(B), including, but not limited to: carrying the vessel monitoring plan onboard the vessel at all times; complying with all catch handling protocols and other requirements in the vessel monitoring plan; submitting electronic monitoring data as required; and making the electronic monitoring system available to NMFS for inspection upon request.
+
+(xiv) Offload fish without a dockside monitor present or without a waiver issued by NMFS when participating in the maximized retention electronic monitoring program.
+
+(xv) Resist, oppose, impede, harass, intimidate, or interfere with or bar by command, impediment, threat, or coercion any dockside monitor conducting his or her duty to inspect a fish hold after offload.
+
+(xvi) Fish under a waiver from the groundfish sector monitoring program issued under § 648.11(l)(5)(ii) or (iii) without complying with the requirements of § 648.11(l)(5)(ii) or (iii), respectively; the VMS declaration requirements at § 648.10; and the pre-trip notification requirements at § 648.11(l)(1).
 
 (15) *Open access permit restrictions* - (i) *All persons.* (A) Violate any provision of the open access permit restrictions of § 648.88.
 
@@ -1141,7 +1153,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (iv) While operating as an at-sea herring processor, fail to comply with requirements to separate out and retain all haddock offloaded from a vessel issued a Category A or B Herring Permit that fished on a declared herring trip regardless of gear or area fished, or by a vessel issued a Category C, D, or E Herring Permit that fished with midwater trawl gear pursuant to § 648.80(d).
 
-(v) Fish with midwater trawl gear in any Northeast Multispecies Closed Area, as defined in § 648.81(a)(3) through (5) and (c)(3) and (4), without a NMFS-certified observer on board, if the vessel has been issued an Atlantic herring permit.
+(v) Fish with midwater trawl gear in any Northeast Multispecies Closed Area, as defined in § 648.81(a)(3) through (5) and (c)(3) and (4), without an observer on board, if the vessel has been issued an Atlantic herring permit.
 
 (vi) Slip or operationally discard catch, as defined at § 648.2, unless for one of the reasons specified at § 648.202(b)(2), if fishing any part of a tow inside the Northeast Multispecies Closed Areas, as defined at § 648.81(a)(3) through (5) and (c)(3) and (4).
 

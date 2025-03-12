@@ -1,5 +1,7 @@
 ##### § 305.17 Label content for water heaters. #####
 
+Link to an amendment published at 88 FR 1139, Jan. 9, 2023.
+
 (a) *Label content.* (1) Headlines and texts, as illustrated in the prototype and sample labels in appendix L to this part, are standard for all labels.
 
 (2) Name of manufacturer or private labeler shall, in the case of a corporation, be deemed to be satisfied only by the actual corporate name, which may be preceded or followed by the name of the particular division of the corporation. In the case of an individual, partnership, or association, the name under which the business is conducted shall be used. Inclusion of the name of the manufacturer or private labeler is optional at the discretion of the manufacturer or private labeler.

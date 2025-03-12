@@ -1,6 +1,6 @@
 ##### § 64.611 Internet-based TRS registration. #####
 
-Link to an amendment published at 87 FR 57648, Sept. 21, 2022.Link to an amendment published at 87 FR 75513, Dec. 9, 2022.Link to an amendment published at 87 FR 75514, Dec. 9, 2022.
+Link to an amendment published at 87 FR 57648, Sept. 21, 2022.Link to an amendment published at 87 FR 75514, Dec. 9, 2022.
 
 (a) *Default provider registration.* Every provider of VRS or IP Relay must, no later than December 31, 2008, provide users with the capability to register with that VRS or IP Relay provider as a “default provider.” Upon a user's registration, the VRS or IP Relay provider shall:
 
@@ -244,4 +244,10 @@ Link to an amendment published at 87 FR 57648, Sept. 21, 2022.Link to an amendme
 
 (3) An IP CTS provider shall not seek TRS Fund compensation for providing captioning service to any individual or device if the registration information for such individual or device has been removed from the TRS User Registration Database, or if the provider obtains information that the individual or device is not eligible to receive IP CTS.
 
-[73 FR 41295, July 18, 2008, as amended at 76 FR 59557, Sept. 27, 2011; 78 FR 40608, July 5, 2013; 82 FR 17763, Apr. 13, 2017; 82 FR 39683, Aug. 22, 2017; 84 FR 8461, Mar. 8, 2019; 84 FR 26371, June 6, 2019; 85 FR 26858, May 6, 2020; 85 FR 52489, Aug. 26, 2020]
+(k) *Registration for use of TRS in correctional facilities* - (1) *Individual user registration.* (i) through (iii) [Reserved]
+
+(iv) *Dial-around calls for VRS.* VRS providers shall not allow dial-around calls by incarcerated persons.
+
+(2) *Enterprise user registration for VRS.* Notwithstanding the other provisions of this section, for the purpose of providing VRS to incarcerated individuals under enterprise registration, pursuant to paragraph (a)(6) of this section, a TRS provider may assign to a correctional authority a pool of telephone numbers that may be used interchangeably with any videophone or other user device made available for the use of VRS in correctional facilities overseen by such authority. For the purpose of such enterprise registration, the address of the organization specified pursuant to paragraph (a)(6)(iii) of this section may be the main or administrative address of the correctional authority, and a Registered Location need not be provided.
+
+[73 FR 41295, July 18, 2008, as amended at 76 FR 59557, Sept. 27, 2011; 78 FR 40608, July 5, 2013; 82 FR 17763, Apr. 13, 2017; 82 FR 39683, Aug. 22, 2017; 84 FR 8461, Mar. 8, 2019; 84 FR 26371, June 6, 2019; 85 FR 26858, May 6, 2020; 85 FR 52489, Aug. 26, 2020; 87 FR 75513, Dec. 9, 2022]

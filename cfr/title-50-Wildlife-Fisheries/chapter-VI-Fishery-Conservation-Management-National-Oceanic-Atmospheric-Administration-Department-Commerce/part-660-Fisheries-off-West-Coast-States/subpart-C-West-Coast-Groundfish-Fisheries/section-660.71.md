@@ -1170,9 +1170,9 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (297) 33°39.28′ N. lat., 118°16.21′ W. long.;
 
-(398) 33°38.04′ N. lat., 118°14.86′ W. long.;
+(298) 33°38.04′ N. lat., 118°14.86′ W. long.;
 
-(399) 33°36.57′ N. lat., 118°14.67′ W. long.;
+(299) 33°36.57′ N. lat., 118°14.67′ W. long.;
 
 (300) 33°34.93′ N. lat., 118°10.94′ W. long.;
 

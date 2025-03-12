@@ -1,22 +1,18 @@
 ##### § 648.83 Multispecies minimum fish sizes. #####
 
-Link to an amendment published at 87 FR 75886, Dec. 9, 2022.
+(a) *Minimum fish sizes.* (1) Minimum fish sizes for recreational vessels and charter/party vessels that are not fishing under a NE multispecies DAS are specified in § 648.89. Except as provided in §§ 648.11(l)(10)(i)(E) and 648.17, all other vessels are subject to the following minimum fish sizes, determined by total length (TL):
 
-(a) *Minimum fish sizes.* (1) Minimum fish sizes for recreational vessels and charter/party vessels that are not fishing under a NE multispecies DAS are specified in § 648.89. Except as provided in § 648.17, all other vessels are subject to the following minimum fish sizes, determined by total length (TL):
-
-Minimum Fish Sizes (TL) for Commercial Vessels
-
-|          Species          |Size  <br/>(inches)|
-|---------------------------|-------------------|
-|            Cod            |   19 (48.3 cm)    |
-|          Haddock          |   16 (40.6 cm)    |
-|          Pollock          |   19 (48.3 cm)    |
-|Witch flounder (gray sole) |    13 (33 cm)     |
-|    Yellowtail flounder    |   12 (30.5 cm)    |
-|   American plaice (dab)   |   12 (30.5 cm)    |
-|     Atlantic halibut      |   41 (104.1 cm)   |
-|Winter flounder (blackback)|   12 (30.5 cm)    |
-|          Redfish          |    7 (17.8 cm)    |
+|          Species          |Size in inches|
+|---------------------------|--------------|
+|            Cod            |19 (48.3 cm). |
+|          Haddock          |16 (40.6 cm). |
+|          Pollock          |19 (48.3 cm). |
+|Witch flounder (gray sole) | 13 (33 cm).  |
+|    Yellowtail flounder    |12 (30.5 cm). |
+|   American plaice (dab)   |12 (30.5 cm). |
+|     Atlantic halibut      |41 (104.1 cm).|
+|Winter flounder (blackback)|12 (30.5 cm). |
+|          Redfish          | 7 (17.8 cm). |
 
 (2) The minimum fish size applies to whole fish or to any part of a fish while possessed on board a vessel, except as provided in paragraph (b) of this section, and to whole, whole-gutted or gilled fish only, after landing. For purposes of determining compliance with the possession limits in § 648.86, the weight of fillets and parts of fish, other than whole-gutted or gilled fish, will be multiplied by 3. Fish fillets, or parts of fish, must have skin on while possessed on board a vessel and at the time of landing in order to meet minimum size requirements. “Skin on” means the entire portion of the skin normally attached to the portion of the fish or to fish parts possessed is still attached.
 
@@ -34,4 +30,4 @@ Minimum Fish Sizes (TL) for Commercial Vessels
 
 (3) Additional adjustments or changes to the minimum fish sizes specified in paragraph (a) of this section, and exemptions specified in paragraph (b) of this section, may be made at any time after implementation of the final rule as specified under § 648.90.
 
-[69 FR 22974, Apr. 27, 2004, as amended at 71 FR 46876, Aug. 15, 2006; 72 FR 11276, Mar. 12, 2007; 75 FR 18328, Apr. 9, 2010; 76 FR 42585, July 19, 2011; 78 FR 26158, May 3, 2013; 85 FR 26885, May 6, 2020]
+[69 FR 22974, Apr. 27, 2004, as amended at 71 FR 46876, Aug. 15, 2006; 72 FR 11276, Mar. 12, 2007; 75 FR 18328, Apr. 9, 2010; 76 FR 42585, July 19, 2011; 78 FR 26158, May 3, 2013; 85 FR 26885, May 6, 2020; 87 FR 75886, Dec. 9, 2022]
