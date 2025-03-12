@@ -1,0 +1,5 @@
+##### § 6.32 Globalization of licenses. #####
+
+If the Licensing Authority determines that entries of an article from a country are likely to fall short of that country's allocated amount as indicated in Appendices 1, 2, and 3, the Licensing Authority may permit, with the approval of the Office of the United States Trade Representative, the applicable licensees to enter the remaining balance or a portion thereof from any country during that quota year. Requests for consideration of such adjustments must be submitted to the Licensing Authority no later than September 1. The Licensing Authority will obtain prior consent for such an adjustment of licenses from the government of the exporting country for quantities in accordance with the Uruguay Round commitment of the United States. No globalization requests will be considered prior to April 1 of each year.
+
+[80 FR 44254, July 27, 2015]

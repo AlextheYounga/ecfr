@@ -6,16 +6,18 @@
 
 (c) *Other USDA regulations.* This program is subject to the provisions of the following regulations, as applicable:
 
-(1) 7 CFR part 3015, “Uniform Federal Assistance Regulations”;
+(1) 2 CFR part 400, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards;
 
-(2) 7 CFR part 3016, “Uniform Administrative Requirements for Grants and Cooperative Agreements to State and Local Governments”;
+(2) 2 CFR part 415, General Program Administrative Regulations;
 
-(3) 7 CFR part 3017, “Governmentwide Debarment and Suspension (Nonprocurement) and Governmentwide Requirements for Drug-Free Workplace (Grants)”;
+(3) 2 CFR part 416, General Program Administrative Regulations for Grants and Cooperative Agreements to State and Local Governments;
 
-(4) 7 CFR part 3018, “New Restrictions on Lobbying”;
+(4) 2 CFR part 417, Nonprocurement Debarment and Suspension;
 
-(5) 7 CFR part 3019, “Uniform Administrative Requirements for Grants and Agreements with Institutions of Higher Education, Hospitals, and other Non-Profit Organizations; and
+(5) 2 CFR part 418, New Restrictions on Lobbying;
 
-(6) 7 CFR part 3052, “Audits of States, Local Governments, and Non-Profit Organizations.”
+(6) 2 CFR part 421, Requirements for Drug-Free Workplace (Financial Assistance); and
 
-[67 FR 13558, Mar. 25, 2002, as amended at 81 FR 11025, Mar. 2, 2016]
+(7) 2 CFR part 422, Research Institutions Conducting USDA-Funded Extramural Research; Research Misconducts.
+
+[67 FR 13558, Mar. 25, 2002, as amended at 81 FR 11025, Mar. 2, 2016; 85 FR 31938, May 28, 2020]

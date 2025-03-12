@@ -4,12 +4,22 @@
 
 (b) *Decrease in retention.* Upon written application received no later than 14 days before the quarter end, the NCUA Board, on a case-by-case basis, may permit a credit union to increase the dollar amount of its net worth and quarterly transfer an amount that is less than the amount required under paragraph (a) of this section, to the extent the NCUA Board determines that such lesser amount -
 
-(1) Is necessary to avoid a significant redemption of shares; and
+(1)(i) Is necessary to avoid a significant redemption of shares; and
 
-(2) Would further the purpose of this part.
+(ii) Would further the purpose of this part.
+
+(2) Notwithstanding paragraph (a) of this section, starting on May 28, 2020 and ending on December 31, 2020, for a credit union that is adequately capitalized:
+
+(i) The NCUA Board may issue an administrative order specifying temporary revisions to the earnings retention requirement, to the extent the NCUA Board determines that such lesser amount -
+
+(A) Is necessary to avoid a significant redemption of shares; and
+
+(B) Would further the purpose of this part.
+
+(ii) Despite the issuance of an administrative order under paragraph (b)(2) of the section, the Regional Director may require a credit union to submit an earnings transfer waiver under paragraph (b)(1) if the credit union poses an undue risk the National Credit Union Share Insurance Fund or exhibits material safety and soundness concerns.
 
 (c) *Decrease by FISCU.* The NCUA Board shall consult and seek to work cooperatively with the appropriate State official before permitting a federally insured State-chartered credit union to decrease its earnings retention under paragraph (b) of this section.
 
 (d) *Periodic review.* A decision under paragraph (b) of this section to permit a credit union to decrease its earnings retention is subject to quarterly review and revocation except when the credit union is operating under an approved net worth restoration plan that provides for decreasing its earnings retention as provided under paragraph (b).
 
-[67 FR 71091, Nov. 29, 2002]
+[67 FR 71091, Nov. 29, 2002, as amended at 85 FR 31956, May 28, 2020]

@@ -40,13 +40,13 @@
 
 (8) Pay per diem or otherwise reimburse panel members unless distance traveled exceed 50 miles.
 
-(h) *Other considerations* - (1) *Equal opportunity requirements.* Grants made under this subpart are subject to title VI of the Civil Rights Act of 1964 as outlined in subpart E of part 1901 of this chapter.
+(h) *Other considerations*—(1) *Equal opportunity requirements.* Grants made under this subpart are subject to title VI of the Civil Rights Act of 1964 as outlined in subpart E of part 1901 of this chapter.
 
 (2) *Environmental review requirements.* Grants made under this subpart must comply with the environmental review requirements in accordance with 7 CFR part 1970.
 
-(3) *Management assistance.* Grantees will be provided management assistance as necessary to assure that grant funds are used for eligible purposes for the successful operation of the panel. Grants made under this subpart will be administered under and are subject to the U.S. Department of Agriculture regulations, 7 CFR, parts 3016 and 3017, as appropriate.
+(3) *Management assistance.* Grantees will be provided management assistance as necessary to assure that grant funds are used for eligible purposes for the successful operation of the panel. Grants made under this subpart will be administered under and are subject to the U.S. Department of Agriculture regulations in 2 CFR parts 416 and 417, as appropriate.
 
-(4) *Drug-free work place.* The State must provide for a drug-free workplace in accordance with the requirements of RD Instruction 1940-M (available in any Rural Development office). Just prior to grant approval, the State must prepare and sign Form AD-1049, “Certification Regarding Drug-Free Workplace Requirements (Grants) Alternative I - For Grantees Other Than Individuals.”
+(4) *Drug-free work place.* The State must provide for a drug-free workplace in accordance with the requirements of RD Instruction 1940-M (available in any Rural Development office). Just prior to grant approval, the State must prepare and sign Form AD-1049, “Certification Regarding Drug-Free Workplace Requirements (Grants) Alternative I—For Grantees Other Than Individuals.”
 
 (i) *Application processing.* (1) The State Director shall assist the State in application assembly and processing. Processing requirements should be discussed during an application conference.
 
@@ -80,7 +80,7 @@
 
 (2) Exhibit A of this subpart (available from any Rural Development State Office) shall be attached to and become a permanent part of Form RD 1940-1 and the following paragraphs will appear in the comment section of that form:
 
-The Grantee understands the requirements for receipt of funds under the Panel Grant program. The Grantee assures and certifies that it is in compliance with all applicable laws, regulations, Executive Orders, and other generally applicable requirements, including those set out in 7 CFR, part 1940, subpart T, and 7 CFR, parts 3016 and 3017, including revisions through \_\_\_ (date of grant approval). The Grantee further agrees to use grant funds for the purposes outlined in the Scope-of-Work approved by Rural Development. Exhibit A is incorporated as a part hereof.
+The Grantee understands the requirements for receipt of funds under the Panel Grant program. The Grantee assures and certifies that it is in compliance with all applicable laws, regulations, Executive Orders, and other generally applicable requirements, including those set out in 7 CFR, part 1940, subpart T, and 7 CFR, parts 3016 and 3017, including revisions through \_\_\_\_\_\_ (date of grant approval). The Grantee further agrees to use grant funds for the purposes outlined in the Scope-of-Work approved by Rural Development. Exhibit A is incorporated as a part hereof.
 
 (3) Grants will be approved and obligated in accordance with the applicable parts of § 1942.5(d) of subpart A of part 1942 of this chapter.
 
@@ -102,7 +102,7 @@ The Grantee understands the requirements for receipt of funds under the Panel Gr
 
 (l) *Title.* Title to supplies acquired under this grant will vest, upon acquisition, in the State. If there is a residual inventory of unused supplies exceeding $5,000 in total aggregate fair market value upon termination or completion of the grant awarded, and if the supplies are not needed for any other federally sponsored programs, the State shall compensate Rural Development for its share.
 
-(m) *Costs.* Costs incurred under this grant program are subject to cost principles established in Office of Management and Budget Circular A-87.
+(m) *Costs.* Costs incurred under this grant program are subject to cost principles established in 2 CFR part 200, subpart E.
 
 (n) *Budget changes.* Rebudgeting within the approval direct cost categories to meet unanticipated requirements which do not exceed 10 percent of the current total approved budget shall be permitted. The State shall obtain prior approval from the State Director for any revisions which result in the need for additional funding.
 
@@ -126,4 +126,4 @@ The Grantee understands the requirements for receipt of funds under the Panel Gr
 
 (t) *Subsequent grants.* Subsequent grants will be processed in accordance with the requirements of this subpart for each additional time period a State is designated to participate in this program.
 
-[57 FR 11559, Apr. 6, 1992, as amended at 81 FR 11030, Mar. 2, 2016]
+[57 FR 11559, Apr. 6, 1992, as amended at 81 FR 11030, Mar. 2, 2016; 85 FR 31938, May 28, 2020]

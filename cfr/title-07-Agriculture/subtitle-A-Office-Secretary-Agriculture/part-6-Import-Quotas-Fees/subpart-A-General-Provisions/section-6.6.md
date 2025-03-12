@@ -1,0 +1,5 @@
+##### § 6.6 Submission of recommendations under section 22. #####
+
+(a) The Administrator shall make a report to the Secretary upon the completion of each investigation made by him pursuant to § 6.4(a). The report shall summarize the information disclosed by the investigation; shall contain the recommendations of the Administrator; and, in case action under section 22 is recommended, shall be accompanied by a suggested letter from the Secretary to the President recommending that the Tariff Commission be directed to conduct an investigation. Such report shall be submitted to the other offices, agencies, and bureaus of the Department of Agriculture whose activities would be affected, for concurrence or comment.
+
+(b) The Secretary will recommend that the President direct the Tariff Commission to conduct an investigation under section 22 only if he has reason to believe, upon the basis of the information available to him, that import quotas or fees should be imposed.

@@ -6,13 +6,13 @@
 
 (c) *Member organizations that are not electing organizations.* An organization that is a member of an affiliated group of organizations but that is not an electing member organization remains subject to the “substantial part test” described in section 501(c)(3) with respect to its activities involving attempts to influence legislation.
 
-(d) *Filing of information relating to affiliated group of organizations* - (1) *Scope.* The filing requirements described in this paragraph (d) apply to each member of an affiliated group or organizations for the taxable year of the member with which, or within which, ends the taxable year of the affiliated group.
+(d) *Filing of information relating to affiliated group of organizations*—(1) *Scope.* The filing requirements described in this paragraph (d) apply to each member of an affiliated group or organizations for the taxable year of the member with which, or within which, ends the taxable year of the affiliated group.
 
-(2) *In general.* Each member of an affiliated group of organizations shall provide to every other member of the group, before the first day of the second month following the close of the affiliated group's taxable year, its name, identification number, and the information required under § 1.6033-2(a)(2)(ii)(*k*) for its expenditures during the group's taxable year and for prior taxable years of the group that are base years under paragraph (b). For groups electing under § 56.4911-7(e)(5) to have each member file information with respect to the group based on its taxable year, each member shall provide the information required by the preceding sentence by treating each taxable year of any member of the group as a taxable year for the group.
+(2) *In general.* Each member of an affiliated group of organizations shall provide to every other member of the group, before the first day of the second month following the close of the affiliated group's taxable year, its name, identification number, and the information required under § 1.6033-2(a)(2)(ii)(M) for its expenditures during the group's taxable year and for prior taxable years of the group that are base years under paragraph (b). For groups electing under § 56.4911-7(e)(5) to have each member file information with respect to the group based on its taxable year, each member shall provide the information required by the preceding sentence by treating each taxable year of any member of the group as a taxable year for the group.
 
-(3) *Additional information required.* In addition to the information required by § 1.6033-2(a)(2)(ii)(*k*), each member of an affiliated group of organizations must provide on its annual return the group's taxable year and, if the election under § 56.4911-7(e)(5) is made, the name, identification number, and taxable year identifying the return with which its consent to the election was filed.
+(3) *Additional information required.* In addition to the information required by § 1.6033-2(a)(2)(ii)(M), each member of an affiliated group of organizations must provide on its annual return the group's taxable year and, if the election under § 56.4911-7(e)(5) is made, the name, identification number, and taxable year identifying the return with which its consent to the election was filed.
 
-(4) *Information required of electing member organization.* In addition to the information required by § 1.6033-2(a)(2)(ii)(*k*) and paragraph (d)(3) of this section, each electing member organization (as defined in § 56.4911-7(e)(4)) must provide on its annual return -
+(4) *Information required of electing member organization.* In addition to the information required by § 1.6033-2(a)(2)(ii)(M) and paragraph (d)(3) of this section, each electing member organization (as defined in § 56.4911-7(e)(4)) must provide on its annual return—
 
 (i) The name and identification number of each member of the group, and
 
@@ -26,17 +26,13 @@ Example.(1) M, N, and O are affiliated organizations under § 56.4911-7(a). M's 
 
 (3) The following tables summarize the expenditures by the affiliated group for the calendar years indicated. None of the group's lobbying expenditures for its taxable years 1979 through 1982 were grass roots expenditures.
 
-Table I - Group's Expenditures
-
-|Year |Exempt purpose expenditures (EPE)|              Calculation               |Lobbying nontaxable amount (LNTA)|Lobbying expenditures (LE)|
-|-----|---------------------------------|----------------------------------------|---------------------------------|--------------------------|
-|1979 |            $400,000             |           (20% × $400,000=)            |             $80,000             |         $100,000         |
-|1980 |             300,000             |           (20% × $300,000=)            |             60,000              |         100,000          |
-|1981 |             600,000             |(20% × $500,000 +  <br/>15% × $100,000=)|             115,000             |         120,000          |
-|1982 |             500,000             |           (20% × $500,000=)            |             100,000             |         220,000          |
-|Total|            1,800,000            |                                        |             355,000             |         540,000          |
-
-Table II - Expenditures of M and O
+|Year |Exempt purpose expenditures (EPE)|               Calculation               |Lobbying nontaxable amount (LNTA)|Lobbying expenditures (LE)|
+|-----|---------------------------------|-----------------------------------------|---------------------------------|--------------------------|
+|1979 |            $400,000             |            (20% × $400,000=)            |             $80,000             |         $100,000         |
+|1980 |             300,000             |            (20% × $300,000=)            |             60,000              |         100,000          |
+|1981 |             600,000             |(20% × $500,000 +   <br/>15% × $100,000=)|             115,000             |         120,000          |
+|1982 |             500,000             |            (20% × $500,000=)            |             100,000             |         220,000          |
+|Total|            1,800,000            |                                         |             355,000             |         540,000          |
 
 |    |Exempt purpose expenditures|Lobbying nontaxable amount|Lobbying expenditures|M plus O|       |      |       |
 |----|---------------------------|--------------------------|---------------------|--------|-------|------|-------|
@@ -51,3 +47,5 @@ Table II - Expenditures of M and O
 (5) Under § 56.4911-9(b), the group must make the calculation described in § 1.501(h)-3(b)(1) for each of the group's taxable years 1979 through 1982. The following illustrates only the required calculation for the group's taxable year 1982. For its taxable year 1982, the group must determine whether it normally has made lobbying expenditures in excess of its lobbying ceiling amount. The determination takes into account the group's expenditures in base years 1979 through 1982. The sum of the group's lobbying expenditures for the base years ($540,000) exceeds 150% of the sum of the group's lobbying nontaxable amounts for the base years (150% × $355,000 = $532,500). Therefore, for its taxable year 1982, the group normally has made lobbying expenditures in excess of its lobbying ceiling amount. Under section 501(h) and § 56.4911-9(b), M is not exempt from tax under section 501(a) as an organization described in section 501(c)(3) for its taxable year beginning December 1, 1983, and O is not exempt for its year beginning July 1, 1983. Whether N's lobbying expenditures disqualify it for tax exemption at any time after January 1, 1979, is determined under the substantial part test of section 501(c)(3).
 
 (f) *Cross reference.* For other provisions relating to members of an affiliated group or organizations, see §§ 56.4911-2(c)(4)(ii), 56.4911-4(c)(2), 56.4911-4(e), and 56.4911-5(f)(3).
+
+[T.D. 8308, 55 FR 35598, Aug. 31, 1990, as amended by T.D. 9898, 85 FR 31969, May 28, 2020]

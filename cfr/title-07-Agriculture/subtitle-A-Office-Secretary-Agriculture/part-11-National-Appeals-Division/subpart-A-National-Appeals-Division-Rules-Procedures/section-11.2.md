@@ -1,0 +1,5 @@
+##### § 11.2 General statement. #####
+
+(a) This part sets forth procedures for proceedings before the National Appeals Division within the Department. The Division is an organization within the Department, subject to the general supervision of and policy direction by the Secretary, which is independent from all other agencies and offices of the Department, including Department officials at the state and local level. The Director of the Division reports directly to the Secretary of Agriculture. The authority of the Hearing Officers and the Director of the Division, and the administrative appeal procedures which must be followed by program participants who desire to appeal an adverse decision and by the agency which issued the adverse decision, are included in this part.
+
+(b) Pursuant to section 212(e) of the Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994, Pub. L. 103-354 (the Act), 7 U.S.C. 6912(e), program participants shall seek review of an adverse decision before a Hearing Officer of the Division, and may seek further review by the Director, under the provisions of this part prior to seeking judicial review.

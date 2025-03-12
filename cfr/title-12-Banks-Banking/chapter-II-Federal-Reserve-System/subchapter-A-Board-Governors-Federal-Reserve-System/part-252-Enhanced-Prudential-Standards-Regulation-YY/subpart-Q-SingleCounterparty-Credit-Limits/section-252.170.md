@@ -22,11 +22,9 @@
 
 (2) A covered foreign entity is required to calculate its aggregate net credit exposure, gross credit exposure, and net credit exposure to a counterparty using the methods in this subpart.
 
-(c) *Applicability of this subpart* - (1) *Foreign banking organizations.* (i) A foreign banking organization that is a covered foreign entity as of October 5, 2018, must comply with the requirements of this subpart, including but not limited to § 252.172, beginning on July 1, 2020, unless that time is extended by the Board in writing.
+(c) *Applicability of this subpart*—(1) *Foreign banking organizations.* (i) A foreign banking organization that is a covered foreign entity as of October 5, 2018, must comply with the requirements of this subpart, including but not limited to § 252.172, beginning on January 1, 2022, unless that time is extended by the Board in writing.
 
-(ii) Notwithstanding paragraph (c)(1)(i) of this section, a foreign banking organization that is a major foreign banking organization as of October 5, 2018, must comply with the requirements of this subpart, including but not limited to § 252.172, beginning on January 1, 2020, unless that time is extended by the Board in writing.
-
-(iii) A foreign banking organization that becomes a covered foreign entity subject to this subpart after October 5, 2018, must comply with the requirements of this subpart beginning on the first day of the ninth calendar quarter after it becomes a covered foreign entity, unless that time is accelerated or extended by the Board in writing.
+(ii) Notwithstanding paragraph (c)(1)(i) of this section, a foreign banking organization that is a major foreign banking organization as of October 5, 2018, must comply with the requirements of this subpart, including but not limited to § 252.172, beginning on July 1, 2021, unless that time is extended by the Board in writing.
 
 (2) *U.S. intermediate holding companies.* (i) A U.S. intermediate holding company that is a covered foreign entity as of October 5, 2018, must comply with the requirements of this subpart, including but not limited to § 252.172, beginning on July 1, 2020, unless that time is extended by the Board in writing.
 
@@ -34,7 +32,7 @@
 
 (iii) A U.S. intermediate holding company that becomes a covered foreign entity subject to this subpart after October 5, 2018, must comply with the requirements of this subpart beginning on the first day of the ninth calendar quarter after it becomes a covered foreign entity, unless that time is accelerated or extended by the Board in writing.
 
-(d) *Cessation of requirements* - (1) *Foreign banking organizations.* (i) Any foreign banking organization that becomes a covered foreign entity will remain subject to the requirements of this subpart unless and until:
+(d) *Cessation of requirements*—(1) *Foreign banking organizations.* (i) Any foreign banking organization that becomes a covered foreign entity will remain subject to the requirements of this subpart unless and until:
 
 (A) The covered foreign entity is not a Category II foreign banking organization;
 
@@ -50,4 +48,4 @@
 
 (B) The covered foreign entity is not a Category III U.S. intermediate holding company.
 
-[84 FR 59119, Nov. 1, 2019]
+[84 FR 59119, Nov. 1, 2019, as amended at 85 FR 31952, May 28, 2020]

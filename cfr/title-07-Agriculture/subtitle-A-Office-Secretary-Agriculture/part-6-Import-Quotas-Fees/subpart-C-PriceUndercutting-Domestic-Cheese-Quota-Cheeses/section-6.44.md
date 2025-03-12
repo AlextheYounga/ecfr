@@ -1,0 +1,3 @@
+##### § 6.44 Delegation of authority. #####
+
+The powers vested in the Administrator, FAS, insofar as such powers relate to the functions of the Investigating Authority by this regulation are hereby delegated to the Investigating Authority. This final rule has been reviewed under the USDA criteria established to implement Executive Order 12044, “Improving Government Regulations.” a determination has been made that this action should not be classified “significant” under those criteria. A Final Impact Statement has been prepared and is available from Carol M. Harvey in room 6622, South Agriculture Building, 14th and Independence Ave., SW., Washington, DC 20250.

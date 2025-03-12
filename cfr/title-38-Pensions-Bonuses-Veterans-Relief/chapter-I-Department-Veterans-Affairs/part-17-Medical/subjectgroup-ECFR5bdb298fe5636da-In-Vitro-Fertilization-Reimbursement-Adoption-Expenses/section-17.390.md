@@ -90,4 +90,4 @@
 
 (e) *Failure to establish* eligibility. If documents submitted by a covered veteran in support of an application for reimbursement do not establish eligibility for reimbursement or justify claimed expenses, VA will retain the application and advise the covered veteran of additional documentation needed. All requested documentation must be submitted to VA within 90 calendar days of VA request.
 
-(Approval for information collection under this section has been requested from the Office of Management and Budget)[83 FR 9212, Mar. 5, 2018, as amended at 84 FR 68048, Dec. 13, 2019]
+(The Office of Management and Budget has approved the information collection requirement in this section under control number 2900-0860)[83 FR 9212, Mar. 5, 2018, as amended at 84 FR 68048, Dec. 13, 2019; 85 FR 31983, May 28, 2020]

@@ -2,7 +2,7 @@
 
 (a) *Introduction.* (1) Sections 401 through 405 relate to pension, profit- sharing, stock bonus, and annuity plans, compensation paid under a deferred-payment plan, and bond purchase plans. Section 401(a) prescribes the requirements which must be met for qualification of a trust forming part of a pension, profit-sharing, or stock bonus plan.
 
-(2) A qualified pension, profit-sharing, or stock bonus plan is a definite written program and arrangement which is communicated to the employees and which is established and maintained by an employer -
+(2) A qualified pension, profit-sharing, or stock bonus plan is a definite written program and arrangement which is communicated to the employees and which is established and maintained by an employer—
 
 (i) In the case of a pension plan, to provide for the livelihood of the employees or their beneficiaries after the retirement of such employees through the payment of benefits determined without regard to profits (see paragraph (b)(1)(i) of this section);
 
@@ -56,6 +56,6 @@
 
 (e) *Determination of exemptions and returns.* (1) An employees' trust may request a determination letter as to its qualification under section 401 and exemption under section 501. For the procedure for obtaining such a determination letter see paragraph (l) of § 601.201 of this chapter (Statement of Procedural Rules).
 
-(2) A trust which qualifies under section 401(a) and which is exempt under section 501(a) must file a return in accordance with section 6033 and the regulations thereunder. See §§ 1.6033-1 and 1.6033-2(a)(3). In case such a trust realizes any unrelated business taxable income, as defined in section 512, such trust is also required to file a return with respect to such income. See paragraph (e) of § 1.6012-2 and paragraph (a)(5) of § 1.6012-3 for requirements with respect to such returns. For information required to be furnished periodically by an employer with respect to the qualification of a plan, see §§ 1.404(a)-2, and 1.6033-2(a)(2)(ii)(*i*).
+(2) A trust which qualifies under section 401(a) and which is exempt under section 501(a) must file a return in accordance with section 6033 and the regulations thereunder. See §§ 1.6033-1 and 1.6033-2(a)(3). In case such a trust realizes any unrelated business taxable income, as defined in section 512, such trust is also required to file a return with respect to such income. See paragraph (e) of § 1.6012-2 and paragraph (a)(5) of § 1.6012-3 for requirements with respect to such returns. For information required to be furnished periodically by an employer with respect to the qualification of a plan, see §§ 1.404(a)-2, and 1.6033-2(a)(2)(ii)(I).
 
-[T.D. 6500, 25 FR 11670, Nov. 26, 1960, as amended by T.D. 6675, 28 FR 10118, Sept. 17, 1963; T.D. 6722, 29 FR 5071, Apr. 14, 1964; T.D. 7168, 37 FR 5024, Mar. 9, 1972; T.D. 7428, 41 FR 34619, Aug. 16, 1976; T.D. 9665, 79 FR 26842, May 12, 2014; T.D. 9849, 84 FR 9233, Mar. 14, 2019]
+[T.D. 6500, 25 FR 11670, Nov. 26, 1960, as amended by T.D. 6675, 28 FR 10118, Sept. 17, 1963; T.D. 6722, 29 FR 5071, Apr. 14, 1964; T.D. 7168, 37 FR 5024, Mar. 9, 1972; T.D. 7428, 41 FR 34619, Aug. 16, 1976; T.D. 9665, 79 FR 26842, May 12, 2014; T.D. 9849, 84 FR 9233, Mar. 14, 2019; T.D. 9898, 85 FR 31967, May 28, 2020]

@@ -28,6 +28,8 @@
 
 (3) Contain such other information as the NCUA Board has required.
 
+(4) Notwithstanding paragraphs (c)(1), (2), and (3) of this section, the Board may permit a credit union that is undercapitalized to submit to the Regional Director a streamlined NWRP plan attesting that its reduction in capital was caused by share growth and that such share growth is a temporary condition due to COVID-19. A streamlined NWRP plan is permitted between May 28, 2020 and December 31, 2020.
+
 (d) *Criteria for approval of NWRP.* The NCUA Board shall not accept a NWRP plan unless it -
 
 (1) Complies with paragraph (c) of this section;
@@ -52,4 +54,4 @@
 
 (i) *Publication.* An NWRP need not be published to be enforceable because publication would be contrary to the public interest.
 
-[65 FR 8584, Feb. 18, 2000, as amended at 67 FR 71092, Nov. 29, 2002]
+[65 FR 8584, Feb. 18, 2000, as amended at 67 FR 71092, Nov. 29, 2002; 85 FR 31957, May 28, 2020]
