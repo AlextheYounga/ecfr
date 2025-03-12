@@ -1,5 +1,7 @@
 ##### § 1601.30 Notices to be posted. #####
 
+Link to an amendment published at 85 FR 65219, Oct. 15, 2020.
+
 (a) Every employer, employment agency, labor organization, and joint labor-management committee controlling an apprenticeship or other training program that has an obligation under title VII, the ADA, or GINA shall post and keep posted in conspicuous places upon its premises notices in an accessible format, to be prepared or approved by the Commission, describing the applicable provisions of title VII, the ADA, and GINA. Such notice must be posted in prominent and accessible places where notices to employees, applicants and members are cusomarily maintained.
 
 (b) Section 711(b) of Title VII and the Federal Civil Penalties Inflation Adjustment Act, as amended, make failure to comply with this section punishable by a fine of not more than $569 for each separate offense.

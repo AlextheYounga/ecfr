@@ -4,7 +4,7 @@
 
 (1) *Related to food and nutrition.* (i) Administer the following legislation:
 
-(A) The Food and Nutrition Act of 2008, as amended (7 U.S.C. 2011-2036), except for section 25, regarding assistance for community food projects.
+(A) The Food and Nutrition Act of 2008, as amended (7 U.S.C. 2011 *et seq.*), except for section 25, regarding assistance for community food projects.
 
 (B) Richard B. Russell National School Lunch Act, as amended (42 U.S.C. 1751-1769i), except procurement of agricultural commodities and other foods under section 6 thereof.
 
@@ -27,6 +27,10 @@
 (K) Section 4305 of the Food, Conservation, and Energy Act of 2008 (42 U.S.C. 1755a).
 
 (L) Section 4307 of the Food, Conservation, and Energy Act of 2008 (Pub. L. 110-246).
+
+(M) Section 4208 of the Agriculture Improvement Act of 2018 (7 U.S.C. 2026a).
+
+(N) Section 12614 of the Agriculture Improvement Act of 2018 (7 U.S.C. 6925).
 
 (ii) Administer those functions relating to the distribution and donation of agricultural commodities and products thereof under the following legislation:
 
@@ -52,7 +56,7 @@
 
 (K) Section 1336 of the Agriculture and Food Act of 1981 (Pub. L. 97-98);
 
-(L) Emergency Food Assistance Act of 1983 (7 U.S.C. 612c note);
+(L) Emergency Food Assistance Act of 1983, as amended (7 U.S.C. 7501 *et seq.*);
 
 (M) Sections 3(b)-(i), 3A and 4 of the Commodity Distribution Reform Act and WIC Amendments of 1987 (7 U.S.C. 612c note); and
 
@@ -128,4 +132,4 @@
 
 (2) Approval of prize competitions that may result in the award of more than $1,000,000 in cash prizes under section 24(m)(4)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(4)(B)).
 
-[60 FR 56393, Nov. 8, 1995, as amended at 68 FR 27436, May 20, 2003; 74 FR 3402, Jan. 21, 2009; 79 FR 44107, July 30, 2014; 80 FR 58337, Sept. 29, 2015]
+[60 FR 56393, Nov. 8, 1995, as amended at 68 FR 27436, May 20, 2003; 74 FR 3402, Jan. 21, 2009; 79 FR 44107, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 85 FR 65506, Oct. 15, 2020]

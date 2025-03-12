@@ -1,0 +1,7 @@
+##### § 261.20 General. #####
+
+(a) All confidential supervisory information and other nonpublic information, including but not limited to information made available under this subpart, remains the property of the Board, and except as otherwise provided in this regulation, no person, entity, agency, or authority to whom the information is made available or who otherwise possesses the information, including any officer, director, employee, or agent thereof, may use any such information for an unauthorized purpose or disclose any such information without the prior written permission of the General Counsel.
+
+(b) The disclosure of confidential supervisory information or other nonpublic information in accordance with this subpart shall not constitute a waiver by the Board of any applicable privileges.
+
+(c) Nothing in this subpart shall be construed to limit or restrict the authority of the Board to impose any additional conditions or limitations on the use and disclosure of confidential supervisory information or other nonpublic information. Further, nothing in this subpart shall be construed to limit or restrict the authority of the Board to make discretionary disclosures of confidential supervisory information or other nonpublic information in addition to the disclosures expressly provided for in this subpart.

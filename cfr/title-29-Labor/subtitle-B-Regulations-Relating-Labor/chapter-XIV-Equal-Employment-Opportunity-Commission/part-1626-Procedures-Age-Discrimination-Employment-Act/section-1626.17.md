@@ -1,5 +1,7 @@
 ##### § 1626.17 Notice of dismissal or termination. #####
 
+Link to an amendment published at 85 FR 65220, Oct. 15, 2020.
+
 (a) *Issuance of Notice of Dismissal or Termination.* (1) Where a charge filed with the Commission under the ADEA is dismissed or the Commission's proceedings are otherwise terminated, the Commission will issue a Notice of Dismissal or Termination on the charge as described in paragraph (c) of this section to the person(s) claiming to be aggrieved. In the case of a charge concerning more than one aggrieved person, the Commission will only issue a Notice of Dismissal or Termination when the charge is dismissed or proceedings are otherwise terminated as to all aggrieved persons.
 
 (2) Where the charge has been filed under the ADEA and Title VII or the Americans with Disabilities Act (ADA), the Commission will issue a Notice of Dismissal or Termination under the ADEA at the same time it issues the Notice of Right to Sue under Title VII or the ADA.

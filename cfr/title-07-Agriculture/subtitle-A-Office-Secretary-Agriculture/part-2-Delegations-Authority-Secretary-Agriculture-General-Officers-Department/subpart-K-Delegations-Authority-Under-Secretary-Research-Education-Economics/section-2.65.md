@@ -4,7 +4,7 @@
 
 (1) [Reserved]
 
-(2) Conduct research related to the economic feasibility of the manufacture and commercialization of natural rubber from hydrocarbon-containing plants (7 U.S.C. 178-178n).
+(2) Conduct research related to the economic feasibility of the manufacture and commercialization of natural rubber from hydrocarbon-containing plants and other critical agricultural materials from native agricultural crops having strategic and industrial importance (7 U.S.C. 178-178n).
 
 (3) Conduct research on the control of undesirable species of honeybees in cooperation with specific foreign governments (7 U.S.C. 284).
 
@@ -58,7 +58,7 @@
 
 (29) Conduct a program of basic research on cancer in animals and birds (7 U.S.C. 3902).
 
-(30) [Reserved]
+(30) Promote cooperation and coordination between 1862, 1890, 1994, and NLGCA Institutions, HSACUs, and cooperating forestry schools and international partner institutions in developing countries by exercising the Secretary's authority in 7 U.S.C. 3292, including coordinating with the Administrator, Foreign Agricultural Service to place interns from covered institutions in, or in service to benefit, developing countries.
 
 (31) Conduct research to optimize crop and livestock production potential, integrated resource management, and integrated crop management (7 U.S.C. 5821).
 
@@ -76,7 +76,7 @@
 
 (41)-(46) [Reserved]
 
-(47) [Reserved]
+(47) Establish a National Plant Disease Recovery System to engage in strategic long-range planning to recover from high-consequence plant transboundary diseases (7 U.S.C. 8914(d)).
 
 (48) Coordinate Departmental policies under the Toxic Substances Control Act (15 U.S.C. 2601-2629).
 
@@ -272,4 +272,4 @@
 
 (b) [Reserved]
 
-[60 FR 56393, Nov. 8, 1995, as amended at 62 FR 65594, Dec. 15, 1997; 65 FR 5416, Feb. 4, 2000; 68 FR 27445, May 20, 2003; 74 FR 3409, Jan. 21, 2009; 75 FR 43381, July 23, 2010; 76 FR 4802, 4803, Jan. 27, 2011; 79 FR 44115, July 30, 2014; 83 FR 61314, Nov. 29, 2018]
+[60 FR 56393, Nov. 8, 1995, as amended at 62 FR 65594, Dec. 15, 1997; 65 FR 5416, Feb. 4, 2000; 68 FR 27445, May 20, 2003; 74 FR 3409, Jan. 21, 2009; 75 FR 43381, July 23, 2010; 76 FR 4802, 4803, Jan. 27, 2011; 79 FR 44115, July 30, 2014; 83 FR 61314, Nov. 29, 2018; 85 FR 65520, Oct. 15, 2020]

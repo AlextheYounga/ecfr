@@ -1,7 +1,5 @@
 ##### § 800.213 Covered transaction. #####
 
-Link to an amendment published at 85 FR 57128, Sept. 15, 2020.
-
 The term *covered transaction* means any of the following:
 
 (a) A covered control transaction;
@@ -16,7 +14,7 @@ The term *covered transaction* means any of the following:
 
 (1) *Example 1.* Corporation A, a foreign person, acquires a 10 percent non-controlling equity interest in Corporation X, a U.S. business. Corporation X subsequently provides Corporation A the right to appoint the Chief Executive Officer and the Chief Technical Officer of Corporation X. Corporation A does not acquire any additional equity interest in Corporation X. Assuming no other relevant facts, the change in rights is a covered transaction.
 
-(2) *Example 2.* Corporation A, a foreign person that is not an excepted investor, acquires a 10 percent non-controlling equity interest in Corporation X, an unaffiliated TID U.S. business, but Corporation A is not afforded any of the access, rights, or involvement specified in § 800.211(b) at the time of its investment. Corporation X later expands its board of directors and provides Corporation X with the right to appoint a director. Assuming no other relevant facts, the change in rights is a covered transaction.
+(2) *Example 2.* Corporation A, a foreign person that is not an excepted investor, acquires a 10 percent non-controlling equity interest in Corporation X, an unaffiliated TID U.S. business, but Corporation A is not afforded any of the access, rights, or involvement specified in § 800.211(b) at the time of its investment. Corporation X later expands its board of directors and provides Corporation A with the right to appoint a director. Assuming no other relevant facts, the change in rights is a covered transaction.
 
 (3) *Example 3.* Corporation A is organized under the laws of a foreign state and is wholly owned and controlled by a foreign national. With a view towards circumventing section 721, Corporation A transfers money to a U.S. citizen, who, pursuant to informal arrangements with Corporation A and on its behalf, purchases all the shares in Corporation X, a U.S. business. The transaction is a covered transaction.
 
@@ -25,3 +23,5 @@ The term *covered transaction* means any of the following:
 Note 1 to § 800.213:
 
 Any transaction described in (a) through (d) of this section that arises pursuant to a bankruptcy proceeding or other form of default on debt is a covered transaction. See also § 800.306 for the treatment of certain lending transactions.
+
+[85 FR 3124, Jan. 17, 2020, as amended at 85 FR 57128, Sept. 15, 2020]

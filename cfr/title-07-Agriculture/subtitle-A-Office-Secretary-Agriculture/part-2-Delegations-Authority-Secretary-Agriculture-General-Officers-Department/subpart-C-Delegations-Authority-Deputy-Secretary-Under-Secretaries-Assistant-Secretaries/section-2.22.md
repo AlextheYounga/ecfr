@@ -133,7 +133,7 @@ Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
 
 (BBB) The Popcorn Promotion, Research, and Consumer Information Act (7 U.S.C. 7481-7491), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x).
 
-(CCC) Farmers' Market Promotion Program (7 U.S.C. 3005).
+(CCC) Local Agriculture Market Program (7 U.S.C. 1627c), in coordination with the Under Secretary for Rural Development.
 
 (DDD) [Reserved]
 
@@ -153,19 +153,21 @@ Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
 
 (LLL) Section 1502 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8772).
 
-(MMM) [Reserved]
+(MMM) Section 12108 of the Agriculture Improvement Act of 2018 (7 U.S.C. 1622 note).
 
 (NNN) Section 10105 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 7655a).
 
 (OOO) Section 10107 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 1622b).
 
-(PPP) [Reserved]
+(PPP) Section 4206 of the Agriculture Improvement Act of 2018 (7 U.S.C. 7518).
 
 (QQQ) Section 4213(c) of the Agricultural Act of 2014 (7 U.S.C. 1755b(c)).
 
 (RRR) Section 12306 of the Agricultural Act of 2014 (7 U.S.C. 1632c).
 
 (SSS) Section 506 of the Trade and Development Act of 2000 (7 U.S.C. 7101 note).
+
+(TTT) Section 12513 of the Agriculture Improvement Act of 2018 (7 U.S.C. 1632d).
 
 (ix) Furnish, on request, copies of programs, pamphlets, reports, or other publications for missions or programs as may otherwise be delegated or assigned to the Assistant Secretary for Marketing and Regulatory Programs, and charge user fees therefor, as authorized by section 1121 of the Agriculture and Food Act of 1981, as amended by section 1769 of the Food Security Act of 1985, 7 U.S.C. 2242a.
 
@@ -181,11 +183,15 @@ Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
 
 (xv) Administer commodity procurement and supply, transportation (other than from point of export, except for movement to trust territories or possessions), handling, payment, and related services in connection with programs under titles II and III of Public Law 480 (7 U.S.C. 1691, 1701, *et seq.*) and section 3107 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 1736o-1), and payment and related services with respect to export programs and barter operations.
 
+(xvi) Administer the Economic Adjustment Assistance for Textile Mills program (7 U.S.C.
+
+(xvii) In coordination with the Under Secretary for Farm Production and Conservation, administer payments under the Special Competitive Provisions for Extra Long Staple Cotton (7 U.S.C. 9038).
+
 (2) *Related to animal and plant health inspection.* Exercise the functions of the Secretary of Agriculture under the following authorities:
 
 (i) Administer the Foreign Service personnel system for employees of the Animal and Plant Health Inspection Service in accordance with 22 U.S.C. 3922, except that this delegation does not include the authority to represent the Department of Agriculture in interagency consultations and negotiations with other foreign affairs agencies regarding joint regulations, nor the authority to approve joint regulations issued by the Department of State relating to administration of the Foreign Service;
 
-(ii) The Terminal Inspection Act, as amended (7 U.S.C. 166);
+(ii) The Terminal Inspection Act, as amended (7 U.S.C. 7760);
 
 (iii) The Honeybee Act, as amended (7 U.S.C. 281-286);
 
@@ -209,7 +215,7 @@ Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
 
 (xiii) The Agricultural Marketing Act of 1946, sections 203, 205, as amended (7 U.S.C. 1622, 1624), with respect to voluntary inspection and certification of animal products; inspection, testing, treatment, and certification of animals; and a program to investigate and develop solutions to the problems resulting from the use of sulfonamides in swine;
 
-(xiv) Talmadge Aiken Act (7 U.S.C. 450) with respect to cooperation with States in control and eradication of plant and animal diseases and pests;
+(xiv) Talmadge Aiken Act (7 U.S.C. 1633) with respect to cooperation with States in control and eradication of plant and animal diseases and pests;
 
 (xv) The Federal Noxious Weed Act of 1974, as amended (7 U.S.C. 2801 note; 2814).
 
@@ -217,7 +223,7 @@ Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
 
 (xvii) Executive Order 11987, 3 CFR, 1977 Comp., p. 116;
 
-(xviii) Section 101(d), Organic Act of 1944 (7 U.S.C. 430);
+(xviii) Section 101(d), Organic Act of 1944 (7 U.S.C. 398);
 
 (xix) The Swine Health Protection Act, as amended (7 U.S.C. 3801-3813);
 
@@ -227,9 +233,9 @@ Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
 
 (xxii) Authority to prescribe the amounts of commuted traveltime allowances and the circumstances under which such allowances may be paid to employees covered by the Act of August 28, 1950 (7 U.S.C. 2260);
 
-(xxiii) The Act of March 2, 1931 (7 U.S.C. 426-426b);
+(xxiii) The Act of March 2, 1931 (7 U.S.C. 8351-8352);
 
-(xxiv) The Act of December 22, 1987 (7 U.S.C. 426c);
+(xxiv) The Act of December 22, 1987 (7 U.S.C. 8353);
 
 (xxv) Authority to work with developed and transitional countries on agricultural and related research and extension, with respect to animal and plant health, including providing technical assistance, training, and advice to persons from such countries engaged in such activities and the stationing of scientists of national and international institutions in such countries (7 U.S.C. 3291(a)(3));
 
@@ -266,6 +272,14 @@ Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
 (xli) Section 1672(g)(3) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5925(g)(3)) regarding honey bee pest, pathogen, health, and population status surveillance.
 
 (xlii) Section 12309 of the Agricultural Act of 2014 regarding produce represented as grown in the United States (19 U.S.C. 1304a).
+
+(xliii) Section 11013 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8322).
+
+(xliv) In coordination with the Under Secretary for Farm Production and Conservation, Section 2408 relating to the Feral Swine Eradication and Control Pilot Program (7 U.S.C. 8351 note),
+
+(xlv) Section 12203(b) of the Agriculture Improvement Act of 2018 relating to diseases and pests of concern (7 U.S.C. 8914(b)).
+
+(xlvi) Section 12601 of the Agriculture Improvement Act of 2018 relating to baiting of migratory game birds (16 U.S.C. 704 note).
 
 (3) *Related to grain inspection, packers and stockyards.* (i) Exercise the authority of the Secretary of Agriculture contained in the U.S. Grain Standards Act, as amended (7 U.S.C. 71-87h).
 
@@ -403,4 +417,4 @@ Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
 
 (3) Approval of prize competitions that may result in the award of more than $1,000,000 in cash prizes under section 24(m)(4)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(4)(B)).
 
-[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 61 FR 68541, Dec. 30, 1996; 62 FR 40254, July 28, 1997; 65 FR 12428, Mar. 9, 2000; 65 FR 49471, Aug. 14, 2000; 68 FR 27439, May 20, 2003; 70 FR 55706, Sept. 23, 2005; 74 FR 3405, Jan. 21, 2009; 76 FR 4802, Jan. 27, 2011; 79 FR 44109, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 83 FR 22181, May 14, 2018; 83 FR 61311, Nov. 29, 2018]Editorial Note:At 83 FR 61311, Nov. 29, 2018, § 2.22 was amended by adding (a)(1)(xvi), however paragraph (a)(xvi) was not provided in the text, this amendment could not be incorporated due to inaccurate amendatory instruction.
+[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 61 FR 68541, Dec. 30, 1996; 62 FR 40254, July 28, 1997; 65 FR 12428, Mar. 9, 2000; 65 FR 49471, Aug. 14, 2000; 68 FR 27439, May 20, 2003; 70 FR 55706, Sept. 23, 2005; 74 FR 3405, Jan. 21, 2009; 76 FR 4802, Jan. 27, 2011; 79 FR 44109, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 83 FR 22181, May 14, 2018; 83 FR 61311, Nov. 29, 2018; 85 FR 65509, Oct. 15, 2020]Editorial Note:At 83 FR 61311, Nov. 29, 2018, § 2.22 was amended by adding (a)(1)(xvi), however paragraph (a)(xvi) was not provided in the text, this amendment could not be incorporated due to inaccurate amendatory instruction.

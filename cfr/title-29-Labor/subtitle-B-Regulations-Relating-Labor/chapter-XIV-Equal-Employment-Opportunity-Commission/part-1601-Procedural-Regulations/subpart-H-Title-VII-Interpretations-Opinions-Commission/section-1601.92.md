@@ -1,5 +1,7 @@
 ##### § 1601.92 Contents of request; where to file. #####
 
+Link to an amendment published at 85 FR 65219, Oct. 15, 2020.
+
 A request for an “opinion letter” shall be in writing, signed by the person making the request, addressed to the Chairman, Equal Employment Opportunity Commission, 131 M Street, NE., Washington, DC 20507 and shall contain:
 
 (a) The names and addresses of the person making the request and of other interested persons.

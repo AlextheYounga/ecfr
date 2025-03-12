@@ -26,7 +26,7 @@
 
 (vii) Operation of a GSA authorized Federal excess property Sales Center for USDA property and other government agencies in the Washington, DC metropolitan area via Memorandum of Understanding (MOU).
 
-(3) Promulgate Departmental regulations, standards, techniques, and procedures and represent the Department in managing and maintaining a comprehensive physical and technical security program including access control, management of special police officer and guard services, executive driving, parking, ID badging in accordance with HSPD-12, occupant emergency and warden services at the USDA Headquarters Complex, George Washington Carver Center and, in coordination with GSA, USDA leased facilities in the Washington, DC metropolitan area, as well as at emergency relocation sites and certain critical facilities specified by the Assistant Secretary for Administration.
+(3) [Reserved]
 
 (4) Provide management and oversight of the Secretary's People's Garden initiative and the USDA Visitor's Center for education and outreach to USDA and the public.
 
@@ -50,4 +50,4 @@
 
 (b) [Reserved]
 
-[75 FR 43381, July 23, 2010, as amended at 78 FR 40939, July 9, 2013; 80 FR 38339, Sept. 29, 2015]
+[75 FR 43381, July 23, 2010, as amended at 78 FR 40939, July 9, 2013; 80 FR 38339, Sept. 29, 2015; 85 FR 65524, Oct. 15, 2020]

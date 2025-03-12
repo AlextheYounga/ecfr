@@ -38,7 +38,7 @@
 
 (viii) Supervise and direct Farm Service Agency State and county offices and delegate functions to be performed by Farm Service Agency State and county committees.
 
-(ix) Administer the dairy indemnity program under the Act of August 13, 1968, as amended (7 U.S.C. 450j *et seq.*).
+(ix) Administer the dairy indemnity program under the Act of August 13, 1968, as amended (7 U.S.C. 4551 *et seq.*).
 
 (x) Administer procurement, processing, handling, distribution, disposition, transportation, payment, and related services with respect to surplus removal and supply operations which are carried out under section 210 of the Agricultural Act of 1956 (7 U.S.C. 1859), the Act of August 19, 1958, as amended (7 U.S.C. 1431 note), and section 709 of the Food and Agricultural Act of 1965, as amended (7 U.S.C. 1446a-1), except as delegated in paragraph (a)(3) of this section and to the Under Secretary for Food, Nutrition, and Consumer Services in § 2.19, and assist the Under Secretary for Food, Nutrition, and Consumer Services and the Assistant Secretary for Marketing and Regulatory Programs in the procurement, handling, payment, and related services under section 32 of the Act of August 24, 1935, as amended (7 U.S.C. 612c), the Act of June 28, 1937, as amended (7 U.S.C. 713c), the National School Lunch Act, as amended (42 U.S.C. 1751, *et seq.*), section 8 of the Child Nutrition Act of 1966, as amended (42 U.S.C. 1777), section 311 of the Older Americans Act of 1965, as amended (42 U.S.C. 3030a), section 4(a) of the Agriculture and Consumer Protection Act of 1973, as amended (7 U.S.C. 612c note), and section 1114 of the Agriculture and Food Act of 1981 (7 U.S.C. 1431e).
 
@@ -56,7 +56,7 @@
 
 (xvii) Collect, summarize, and publish data on the production, distribution, and stocks of sugar.
 
-(xviii) Formulate and carry out the Conservation Reserve Program, including the implementation of technical assistance, under the Food Security Act of 1985, as amended (16 U.S.C. 1231 *et seq.*), and the functions of the Grassland Reserve Program transferred to the Conservation Reserve Program.
+(xviii) Formulate and carry out the Conservation Reserve Program, including the implementation of technical assistance, under the Food Security Act of 1985, as amended (16 U.S.C. 3831 *et seq.*), and the functions of the Grassland Reserve Program transferred to the Conservation Reserve Program.
 
 (xix) Carry out functions relating to highly erodible land and wetland conservation under sections 1211-1213 and 1221-1223 of the Food Security Act of 1985, as amended (16 U.S.C. 3811-3813 and 3821-3823).
 
@@ -108,7 +108,7 @@
 
 (xxxv) Implement the information disclosure authorities of section 1619(b)(3)(A) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8791(b)(3)(A)).
 
-(xxxvi) Administer the following provisions of the Agricultural Act of 2014, Public Law 113-79:
+(xxxvi) Administer the following provisions of the Agricultural Act of 2014, Public Law 113-79, as amended:
 
 (A) Sections 1401-1410 relating to a margin protection program for dairy producers (7 U.S.C. 9051-9060), and section 1431 relating to a dairy product donation program (7 U.S.C. 9071).
 
@@ -121,6 +121,16 @@
 (xxxvii) Administer the funds made available to the Office of the Secretary under Title I of Subdivision B, Further Supplemental Appropriations for Disaster Relief Requirements Act, 2018, Public Law 115-123.
 
 (xxxviii) Determine the agricultural commodities acquired under price support programs which are available for export.
+
+(xxxix) Administer the following provisions of the Agriculture Improvement Act of 2018, Public Law 116-334:
+
+(A) Section 5413 relating to reporting on farm loans (7 U.S.C. 2008x).
+
+(B) Section 12304 relating to the National Beginning Farmer and Rancher Coordinator (7 U.S.C. 6934a).
+
+(C) Section 12612 relating to a national agriculture imagery program (7 U.S.C. 2204j).
+
+(D) Section 12615 relating to the eligibility for farm operators on heirs' property to obtain a farm loan number (7 U.S.C. 2266b).
 
 (2) *Related to farm credit.* (i) Administer the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 *et seq.*), except for the authority contained in the following sections:
 
@@ -200,7 +210,7 @@
 
 (ii) Provide national leadership in and evaluate and coordinate land use policy, and administer the Farmland Protection Policy Act (7 U.S.C. 4201 *et seq.*), including the Farms for the Future Program authorized by sections 1465-1470 of the Food, Agriculture, Conservation, and Trade Act of 1990, as amended (7 U.S.C. 4201 note), except as otherwise delegated to the Under Secretary for Research, Education, and Economics in § 2.21(a)(1)(lxii).
 
-(iii) Administer the basic program of soil and water conservation under Public Law 46, 74th Congress, as amended, and related laws (16 U.S.C. 590 a-f, i-l, q, q-1; 42 U.S.C. 3271-3274; 7 U.S.C. 2201), including:
+(iii) Administer the basic program of soil and water conservation under Public Law 74-46, and related laws (16 U.S.C. 590a-f, q, q-1; 42 U.S.C. 3271-3274; 7 U.S.C. 2201), including:
 
 (A) Technical and financial assistance to land users in carrying out locally adapted soil and water conservation programs primarily through soil and water conservation districts in the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the Virgin Islands, and Federally recognized Native American tribes, but also to communities, watershed groups, Federal and State agencies, and other cooperators. This authority includes such assistance as:
 
@@ -234,7 +244,7 @@
 
 (iv) Administer the Watershed Protection and Flood Prevention Programs, including:
 
-(A) The eleven authorized watershed projects authorized under 33 U.S.C. 702b-1;
+(A) The eleven authorized watershed projects authorized under the Flood Control Act of 1944 (Pub. L. 78-534);
 
 (B) The emergency flood control work under 33 U.S.C. 701b-1;
 
@@ -242,15 +252,15 @@
 
 (D) The pilot watershed projects under 16 U.S.C. 590 a-f and 16 U.S.C. 1001-1009;
 
-(E) The Watershed Protection and Flood Prevention Program under 16 U.S.C. 1001-1010, including rehabilitation of water resource structural measures constructed under certain Department of Agriculture programs under 16 U.S.C. 1012, except for responsibilities assigned to the Assistant to the Secretary for Rural Development.
+(E) The Watershed Protection and Flood Prevention Program under 16 U.S.C. 1001-1010, including rehabilitation of water resource structural measures constructed under certain Department of Agriculture programs under 16 U.S.C. 1012, except for responsibilities assigned to the Under Secretary for Rural Development.
 
 (F) The joint investigations and surveys with the Department of the Army under 16 U.S.C. 1009; and
 
 (G) The Emergency Conservation Program and the Emergency Watershed Protection Program under sections 401-405 of the Agricultural Credit Act of 1978, 16 U.S.C. 2201-2205.
 
-(v) Administer the Great Plains Conservation Program and the Critical Lands Resources Conservation Program under 16 U.S.C. 590p(b), 590q and 590q-3.
+(v) Administer the Abandoned Mine Reclamation Program for Rural Lands and other responsibilities assigned under the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1201 *et seq.*), except those responsibilities assigned to the Under Secretary for Natural Resources and Environment.
 
-(vi) Administer the Resource Conservation and Development Program under 16 U.S.C. 590 a-f; 7 U.S.C. 1010-1011; and 16 U.S.C. 3451-3461, except for responsibilities assigned to the Assistant to the Secretary for Rural Development.
+(vi) Administer the Resource Conservation and Development Program under 16 U.S.C. 590 a-f; 7 U.S.C. 1010-1011; and 16 U.S.C. 3451-3461, except for responsibilities assigned to the Under Secretary for Rural Development.
 
 (vii) Responsibility for entering into long-term contracts for carrying out conservation and environmental measures in watershed areas.
 
@@ -278,31 +288,31 @@
 
 (xiii) Except as otherwise delegated, administer natural resources conservation authorities, including authorities related to programs of the Commodity Credit Corporation that provide assistance with respect to natural resources conservation, under Title XII of the Food Security Act of 1985 (the Act), as amended (16 U.S.C. 3801 *et seq.*), including the following:
 
-(A) Technical assistance related to the conservation of highly erodible lands and wetlands pursuant to sections 1211-1223 of the Act (16 U.S.C. 3811-3823).
+(A) Technical assistance related to the conservation of highly erodible lands and wetlands pursuant to sections 1211-1224 of the Act (16 U.S.C. 3811-3824).
 
-(B) Technical assistance related to the Conservation Reserve Program authorized by sections 1231-1235A of the Act (16 U.S.C. 3831-3835a).
+(B) Technical assistance related to the Conservation Reserve Program authorized by sections 1231-1235 of the Act (16 U.S.C. 3831-3835).
 
-(C) The Wetlands Reserve Program and the Emergency Wetlands Reserve Program authorized by sections 1237-1237F of the Act (16 U.S.C. 3837-3837f) and the Emergency Supplemental Appropriations for Relief from the Major, Widespread Flooding in the Midwest Act, Public Law 103-75.
+(C) The Wetlands Reserve Program and the Emergency Wetlands Reserve Program authorized by sections 1237-1237F of the Act (16 U.S.C. 3837-3837f) prior to February 7, 2014, the transition authority under section 2703 of the Agricultural Act of 2014, and the Emergency Supplemental Appropriations for Relief from the Major, Widespread Flooding in the Midwest Act (Pub. L. 103-75).
 
-(D) The Conservation Security Program authorized by sections 1238-1238C (16 U.S.C. 3838-3838c) and the Conservation Stewardship Program authorized by sections 1238D-1238G (16 U.S.C. 3838d-3838g).
+(D) The Conservation Security Program authorized by sections 1238-1238C of the Act (16 U.S.C. 3838-3838c) and the Conservation Stewardship Program authorized by sections 1240I-1240L-1 (16 U.S.C. 3839aa-21 - 3839aa-25).
 
-(E) The Farmland Protection Program authorized by sections 1238H-1238I of the Act (16 U.S.C. 3838h-3838i).
+(E) The Farmland Protection Program authorized by sections 1238H-1238I of the Act (16 U.S.C. 3838h-3838i) prior to February 7, 2014, and the transition authority under section 2704 of the Agricultural Act of 2014.
 
-(F) The Farm Viability Program authorized by section 1238J of the Act (16 U.S.C. 3838j).
+(F) The Farm Viability Program authorized by section 1238J of the Act (16 U.S.C. 3838j) prior to February 7, 2014, and the transition authority under section 2704 of the Agricultural Act of 2014.
 
-(G) The Environmental Easement Program authorized by sections 1239-1239D of the Act (16 U.S.C. 3839-3839d).
+(G) The Environmental Quality Incentives Program authorized by sections 1240-1240H of the Act (16 U.S.C. 3839aa-3839aa-8), the Agricultural Water Enhancement Program authorized by section 1240H of the Act (16 U.S.C. 3839aa-9) prior to February 7, 2014, and section 2706 of the Agricultural Act of 2014.
 
-(H) The Environmental Quality Incentives Program authorized by sections 1240-1240I of the Act (16 U.S.C. 3839aa-3839aa-9).
+(H) The conservation of private grazing lands authorized by section 1240M of the Act (16 U.S.C. 3839bb).
 
-(I) The conservation of private grazing lands authorized by section 1240M of the Act (16 U.S.C. 3839bb).
+(I) The Wildlife Habitat Incentives Program authorized by section 1240N of the Act (16 U.S.C. 3839bb-1) prior to February 7, 2014 and Section 2707 of the Agricultural Act of 2014.
 
-(J) The Wildlife Habitat Incentives Program authorized by section 1240N of the Act (16 U.S.C. 3839bb-1).
+(J) The program for soil erosion and sedimentation control in the Great Lakes basin authorized by section 1240P of the Act (16 U.S.C. 3839bb-3) prior to February 7, 2014, and section 2708 of the Agricultural Act of 2014.
 
-(K) The program for soil erosion and sedimentation control in the Great Lakes basin authorized by section 1240P of the Act (16 U.S.C. 3839bb-3).
+(K) The Chesapeake Bay Watershed Program authorized by section 1240Q of the Act (16 U.S.C. 3839bb-4) prior to February 7, 2014, and section 2709 of the Agricultural Act of 2014.
 
 (L) The delivery of technical assistance under section 1242 of the Act (16 U.S.C. 3842), including the approval of persons or entities outside of USDA to provide technical services.
 
-(M) The authority for partnerships and cooperation provided by section 1243 of the Act (16 U.S.C. 3843).
+(M) The authority for partnerships and cooperation provided by section 1243 of the Act (16 U.S.C. 3843) prior to February 7, 2014, and section 2710 of the Agricultural Act of 2014.
 
 (N) The incentives for certain farmers and ranchers and Indian tribes and the protection of certain proprietary information related to natural resources conservation programs as provided by section 1244 of the Act (16 U.S.C. 3844).
 
@@ -310,13 +320,13 @@
 
 (P) The authority under sections 1261-1262 of the Act (16 U.S.C. 3861-3862) to establish and utilize State Technical Committees.
 
-(Q) The Grassland Reserve Program under sections 1238N-1238Q of the Act (16 U.S.C. 3838n-3838q).
+(Q) The Grassland Reserve Program under sections 1238N-1238Q of the Act (16 U.S.C. 3838n-3838q) prior to February 7, 2014, and section 2705 of the Agricultural Act of 2014.
 
 (R) The authority in section 1241 of the Act (16 U.S.C. 3841) to accept and use voluntary contributions of non-Federal funds in support of natural resources conservation programs under subtitle D of title XII of the Act with respect to authorities delegated to the Under Secretary for Farm Production and Conservation.
 
 (S) The Agricultural Conservation Easement Program authorized by sections 1265-1265D of the Act (16 U.S.C. 3865-3865d).
 
-(T) The Regional Conservation Partnership Program authorized by sections 1271-1271F (16 U.S.C. 3871-3871f).
+(T) The Regional Conservation Partnership Program authorized by sections 1271-1271F of the Act (16 U.S.C. 3871-3871f).
 
 (U) The Voluntary Public Access and Habitat Incentive Program authorized by section 1240R of the Act (16 U.S.C. 3839bb-5).
 
@@ -328,7 +338,7 @@
 
 (xvii) Administer the Water Bank Program under the Water Bank Act (16 U.S.C. 1301 *et seq.*).
 
-(xviii) [Reserved]
+(xviii) Enter into cooperative agreements, which may provide for the acquisition of goods or services, including personal services, as authorized by Public Law 106-387 (7 U.S.C. 6962a).
 
 (xix) Coordinate USDA input and assistance to the Department of Commerce and other Federal agencies consistent with section 307 of the Coastal Zone Management Act of 1972 (16 U.S.C. 1456), and coordinate USDA review of qualifying state and local government coastal management plans or programs prepared under such Act and submitted to the Secretary of Commerce, consistent with section 306(a) and (c) of such Act (16 U.S.C. 1455(a) and (c)).
 
@@ -343,6 +353,20 @@
 (xxiv) Conduct activities that assist the Chief Economist in developing guidelines regarding the development of environmental services markets.
 
 (xxv) Administer the Terminal Lakes assistance program authorized by section 2507 of the Farm Security and Rural Investment Act of 2002 (16 U.S.C. 3839bb-6).
+
+(xxvi) Administer the state and private forest landscape-scale restoration program (16 U.S.C. 2109a).
+
+(xxvii) Administer the following provisions of the Agriculture Improvement Act of 2018 (Pub. L. 116-334):
+
+(A) Section 1704 (7 U.S.C. 1308-3a), authorizing waivers of the adjusted gross income limitation.
+
+(B) In consultation with the Director of the U.S. Fish and Wildlife Service, Section 2707 (16 U.S.C. 1531 note), relating to wildlife management.
+
+(C) In coordination with the Under Secretary for Marketing and Regulatory Programs, Section 2408 (7 U.S.C. 8351 note), relating to the Feral Swine Eradication and Control Pilot Program.
+
+(D) Section 8628, relating to the purchase of Natural Resources Conservation Service property in Riverside County, California.
+
+(E) Section 12302, relating to the Office of Urban Agriculture and Innovative Production.
 
 (4) *Related to risk management.* (i) Exercise general supervision of the Federal Crop Insurance Corporation.
 
@@ -361,6 +385,8 @@
 (viii) Assist the Under Secretary for Research, Education, and Economics with implementing section 10016 of the Agricultural Act of 2014 regarding locally or regionally produced agricultural food products (7 U.S.C. 2204h).
 
 (ix) Administer the Federal Crop Insurance Act (7 U.S.C. 1501, *et seq.*), except for sections 524(a)(1)(B), (a)(3), and (b) (7 U.S.C. 1524(a)(1)(B), (a)(3), (b)) and 531 (7 U.S.C. 1531).
+
+(x) Coordinate between agencies of the Department on the type and format of data received under the noninsured crop disaster assistance program as authorized by Sec. 196 of the Federal Agriculture Improvement and Reform Act of 1996, (Pub. L. 104-127, as amended) (7 U.S.C. 7333).
 
 (5) *Related to committee management.* Establish and reestablish regional, state, and local advisory committees for activities under his or her authority. This authority may not be redelegated.
 
@@ -396,7 +422,7 @@
 
 (xiii) Section 121 of the Act (42 U.S.C. 9621), with respect to cleanup standards; and
 
-(xiv) Section 122 of the Act (42 U.S.C. 9622), with respect to settlements, but excluding section 122(b)(1) of the Act (42 U.S.C. 9622(b)(1)), related to mixed funding agreements.
+(xiv) Section 122 of the Act (42 U.S.C. 9622), with respect to settlements, but excluding section 122(b)(1) of the Act.
 
 (8) *Related to compliance with environmental laws.* With respect to facilities and activities under his or her authority, to exercise the authority of the Secretary of Agriculture pursuant to section 1-102 related to compliance with applicable pollution control standards and section 1-601 of Executive Order 12088, 3 CFR, 1978 Comp., p. 243, to enter into an inter-agency agreement with the United States Environmental Protection Agency, or an administrative consent order or a consent judgment in an appropriate State, interstate, or local agency, containing a plan and schedule to achieve and maintain compliance with applicable pollution control standards established pursuant to the following:
 
@@ -426,6 +452,8 @@
 
 (10) Carry out prize competition authorities in section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) related to functions otherwise delegated to the Under Secretary for Farm Production and Conservation, except for authorities delegated to the Chief Financial Officer in § 2.28(a)(29) and authorities reserved to the Secretary in paragraph (b)(4) of this section.
 
+(11) Administer a Century Farms Program as authorized by section 12508 of the Agriculture Improvement Act of 2018 (7 U.S.C. 2266a).
+
 (b) The following authorities are reserved to the Secretary of Agriculture:
 
 (1) *Related to farm service.* (i) Appointment of Farm Service Agency State committeemen.
@@ -442,4 +470,4 @@
 
 (4) Approval of prize competitions that may result in the award of more than $1,000,000 in cash prizes under section 24(m)(4)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(4)(B)).
 
-[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25775, May 23, 1996; 61 FR 37552, July 18, 1996; 62 FR 1031, Jan. 8, 1997; 62 FR 19900, Apr. 24, 1997; 62 FR 40253, July 28, 1997; 65 FR 12427, Mar. 9, 2000; 68 FR 27435, May 20, 2003; 71 FR 35491, June 21, 2006; 71 FR 51421, Aug. 30, 2006; 74 FR 3401, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 78 FR 40937, July 9, 2013; 79 FR 44106, July 30, 2014; 80 FR 58336, Sept. 29, 2015; 83 FR 22179, May 14, 2018; 83 FR 61311, Nov. 29. 2018]
+[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25775, May 23, 1996; 61 FR 37552, July 18, 1996; 62 FR 1031, Jan. 8, 1997; 62 FR 19900, Apr. 24, 1997; 62 FR 40253, July 28, 1997; 65 FR 12427, Mar. 9, 2000; 68 FR 27435, May 20, 2003; 71 FR 35491, June 21, 2006; 71 FR 51421, Aug. 30, 2006; 74 FR 3401, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 78 FR 40937, July 9, 2013; 79 FR 44106, July 30, 2014; 80 FR 58336, Sept. 29, 2015; 83 FR 22179, May 14, 2018; 83 FR 61311, Nov. 29. 2018; 85 FR 65504, Oct. 15, 2020]

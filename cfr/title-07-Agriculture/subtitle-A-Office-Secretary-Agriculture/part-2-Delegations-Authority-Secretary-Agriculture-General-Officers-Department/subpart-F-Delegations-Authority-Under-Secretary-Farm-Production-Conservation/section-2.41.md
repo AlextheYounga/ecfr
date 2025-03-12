@@ -30,6 +30,8 @@
 
 (ix) Maintaining library and files of USDA aerial film and retrieving and supplying reproductions on request.
 
+(6) Administer a Century Farms Program as authorized by section 12508 of the Agriculture Improvement Act of 2018 (7 U.S.C. 2266a).
+
 (b) [Reserved]
 
-[83 FR 61312, Nov. 29, 2018]
+[83 FR 61312, Nov. 29, 2018, as amended at 85 FR 65514, Oct. 15, 2020]

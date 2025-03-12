@@ -68,4 +68,8 @@
 
 (b) *Related to ethics.* The following delegation of authority is made by the Secretary to the General Counsel: Provide administrative supervision for the Office of Ethics.
 
-[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 49237, Sept. 19, 1996; 65 FR 12429, Mar. 9, 2000; 70 FR 23927, May 6, 2005; 70 FR 30610, May 27, 2005; 78 FR 40938, July 9, 2013; 79 FR 44112, July 30, 2014; 83 FR 22184, May 14, 2018]
+(c) *Related to the Freedom of Information Act.* (1) Serve as the Chief Freedom of Information Act Officer for the Department; oversee general officers and agency heads in efficient and appropriate compliance with the provisions of the Freedom of Information Act (5 U.S.C. 552); monitor implementation of 5 U.S.C. 552 throughout the agency and keep the Secretary and the Attorney General informed regarding agency performance in its implementation; recommend to the Secretary necessary adjustments to agency practices, policies, personnel, and funding to improve implementation of 5 U.S.C. 552; review and report to the Attorney General, through the Secretary, as the Attorney General may direct; and, facilitate public understanding of the purposes of the statutory exemptions contained in 5 U.S.C. 552.
+
+(2) Manage the Freedom of Information Act operations for the Research, Education, and Economics mission area, the Trade and Foreign Agricultural Affairs mission area, and all staff offices of the Department.
+
+[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 49237, Sept. 19, 1996; 65 FR 12429, Mar. 9, 2000; 70 FR 23927, May 6, 2005; 70 FR 30610, May 27, 2005; 78 FR 40938, July 9, 2013; 79 FR 44112, July 30, 2014; 83 FR 22184, May 14, 2018; 85 FR 65512, Oct. 15, 2020]

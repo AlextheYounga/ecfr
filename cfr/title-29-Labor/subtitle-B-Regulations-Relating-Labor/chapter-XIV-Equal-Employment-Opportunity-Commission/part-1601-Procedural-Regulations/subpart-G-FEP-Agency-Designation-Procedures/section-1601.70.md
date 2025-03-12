@@ -1,5 +1,7 @@
 ##### § 1601.70 FEP agency qualifications. #####
 
+Link to an amendment published at 85 FR 65219, Oct. 15, 2020.
+
 (a) State and local fair employment practice agencies or authorities which qualify under section 706(c) of title VII and this section shall be designated as “FEP agencies.” The qualifications for designation under section 706(c) are as follows:
 
 (1) That the State or political subdivision has a fair employment practice law which makes unlawful employment practices based upon race, color, religion, sex, national origin or disability; and

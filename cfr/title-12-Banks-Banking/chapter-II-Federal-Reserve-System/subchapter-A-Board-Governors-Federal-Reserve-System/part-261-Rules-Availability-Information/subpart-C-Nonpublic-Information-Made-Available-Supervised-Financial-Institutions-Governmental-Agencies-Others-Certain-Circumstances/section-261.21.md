@@ -1,0 +1,21 @@
+##### § 261.21 Confidential supervisory information made available to supervised financial institutions. #####
+
+(a) *Disclosure of confidential supervisory information to supervised financial institutions.* The Board or the appropriate Reserve Bank may disclose confidential supervisory information concerning a supervised financial institution to that supervised financial institution.
+
+(b) *Disclosure of confidential supervisory information by supervised financial institutions*—(1) *General.* Any supervised financial institution lawfully in possession of confidential supervisory information pursuant to this section may when necessary or appropriate for business purposes disclose such information to its directors, officers, or employees, and to the directors, officers, or employees of its affiliates.
+
+(2) *Federal Deposit Insurance Corporation, Office of the Comptroller of the Currency, Bureau of Consumer Financial Protection, and State financial supervisory agencies.* Any supervised financial institution may, with the concurrence of the institution's central point of contact at the Reserve Bank, equivalent supervisory team leader, or other designated Reserve Bank employee (hereinafter, “Reserve Bank Point of Contact” or “Reserve Bank POC”), disclose confidential supervisory information about the institution that is contained in documents prepared by or for the institution for its own business purposes to the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency, the Bureau of Consumer Financial Protection, and the State financial supervisory agency that supervises that institution when the Reserve Bank POC determines that the receiving agency has a legitimate supervisory or regulatory interest in the information. A Reserve Bank POC's action under this paragraph may require concurrence of other Federal Reserve staff in accordance with internal supervisory procedures. Requests to disclose any other confidential supervisory information to these or other agencies should be directed to the General Counsel under § 261.22(c) or § 261.23(c).
+
+(3) *Legal counsel and auditors.* When necessary or appropriate in connection with the provision of legal or auditing services to the supervised financial institution, the supervised financial institution may disclose confidential supervisory information to its legal counsel or auditors. The supervised financial institution may also disclose confidential supervisory information to service providers (such as consultants, contractors, contingent workers, and technology providers) of its legal counsel or auditors if the service provider is under a written agreement with the legal counsel or auditor in which the service provider agrees that:
+
+(i) It will treat the confidential supervisory information in accordance with § 261.20(a); and
+
+(ii) It will not use the confidential supervisory information for any purpose other than as necessary to provide the services to the supervised financial institution.
+
+(4) *Other service providers.* (i) A supervised financial institution may disclose confidential supervisory information to other service providers engaged by the supervised financial institution if the service provider is under a written contract to provide services to the institution, the disclosure of the confidential supervisory information is deemed necessary to the service provider's provision of services, and the service provider has a written agreement with the institution in which the service provider has agreed that:
+
+(A) It will treat the confidential supervisory information in accordance with § 261.20(a); and
+
+(B) It will not use the confidential supervisory information for any purpose other than as provided under its contract to provide services to the supervised financial institution.
+
+(ii) A supervised financial institution shall maintain a written account of the disclosures of confidential supervisory information that the supervised financial institution makes to service providers under this section and provide the Board or Reserve Bank with a copy of such written account upon the Board's or Reserve Bank's request.

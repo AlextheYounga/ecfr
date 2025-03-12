@@ -126,10 +126,12 @@
 
 (25) Carry out prize competition authorities in section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) related to functions otherwise delegated to the Assistant Secretary for Civil Rights, except for authorities delegated to the Chief Financial Officer in § 2.28(a)(29) and authorities reserved to the Secretary in paragraph (b)(1) of this section.
 
+(26) As directed by section 12403(a) of the Agriculture Improvement Act of 2018, conduct civil rights impact analyses in accordance with Departmental Regulation 4300-004 issued on October 17, 2016, with respect to the Department's employment, federally conducted programs and activities, and federally assisted programs and activities.
+
 (b) The following authorities are reserved to the Secretary of Agriculture:
 
 (1) Approval of prize competitions that may result in the award of more than $1,000,000 in cash prizes under section 24(m)(4)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(4)(B)).
 
 (2) [Reserved]
 
-[77 FR 14953, Mar. 14, 2012, as amended at 78 FR 40937, July 9, 2013; 79 FR 44109, July 30, 2014; 80 FR 58337, Sept. 29, 2015]
+[77 FR 14953, Mar. 14, 2012, as amended at 78 FR 40937, July 9, 2013; 79 FR 44109, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 85 FR 65512, Oct. 15, 2020]

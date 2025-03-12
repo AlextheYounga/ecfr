@@ -1,5 +1,7 @@
 ##### § 1601.18 Dismissal: Procedure and authority. #####
 
+Link to an amendment published at 85 FR 65218, Oct. 15, 2020.
+
 (a) Where a charge on its face, or as amplified by the statements of the person claiming to be aggrieved discloses, or where after investigation the Commission determines, that the charge and every portion thereof is not timely filed, or otherwise fails to state a claim under title VII, the ADA, or GINA, the Commission shall dismiss the charge. A charge which raises a claim exclusively under section 717 of title VII or the Rehabilitation Act shall not be taken and persons seeking to raise such claims shall be referred to the appropriate Federal agency.
 
 (b) Written notice of disposition, pursuant to this section, shall be issued to the person claiming to be aggrieved and to the person making the charge on behalf of such person, where applicable; in the case of a Commissioner charge, to all persons specified in § 1601.28(b)(2); and to the respondent. Appropriate notices of right to sue shall be issued pursuant to § 1601.28.

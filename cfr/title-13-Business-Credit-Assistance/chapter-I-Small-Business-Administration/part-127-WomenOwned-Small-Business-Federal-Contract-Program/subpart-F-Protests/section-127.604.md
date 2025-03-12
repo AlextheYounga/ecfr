@@ -1,7 +1,5 @@
 ##### § 127.604 How will SBA process an EDWOSB or WOSB status protest? #####
 
-Link to an amendment published at 85 FR 27665, May 11, 2020.
-
 (a) *Notice of receipt of protest.* Upon receipt of the protest, SBA will notify the contracting officer and the protestor of the date SBA received the protest and whether SBA will process the protest or dismiss it under paragraph (b) of this section. The contracting officer may award the contract after receipt of a protest if the contracting officer determines in writing that an award must be made to protect the public interest. Notwithstanding such a determination, the provisions of paragraph (f) of this section apply to the procurement in question.
 
 (b) *Dismissal of protest.* If SBA determines that the protest is premature, untimely, nonspecific, or is based on nonprotestable allegations, SBA will dismiss the protest and will send the contracting officer and the protestor a notice of dismissal, citing the reason(s) for the dismissal. Notwithstanding SBA's dismissal of the protest, SBA may, in its sole discretion, consider the protest allegations in determining whether to conduct an examination of the protested concern pursuant to subpart D of this part or submit a protest itself.
@@ -30,6 +28,6 @@ Link to an amendment published at 85 FR 27665, May 11, 2020.
 
 (3) The contracting officer must update the Federal Procurement Data System and other procurement reporting databases to reflect the final agency decision (the D/GC's decision if no appeal is filed or OHA's decision).
 
-(4) A concern that has been found to be ineligible may not submit an offer as a WOSB or EDWOSB on another procurement until it cures the reason(s) for its ineligibility and SBA issues a decision to this effect. A concern that believes in good faith that it has cured the reason(s) for its ineligibility may request an examination under the procedures set forth in § 127.405.
+(4) A concern that has been found to be ineligible will be decertified from the program and may not submit an offer as a WOSB or EDWOSB on another procurement until it is recertified. A concern may be recertified by reapplying to the program pursuant to § 127.305.
 
-[75 FR 62282, Oct. 7, 2010, as amended at 77 FR 1861, Jan. 12, 2012; 78 FR 61148, Oct. 2, 2013]
+[75 FR 62282, Oct. 7, 2010, as amended at 77 FR 1861, Jan. 12, 2012; 78 FR 61148, Oct. 2, 2013; 85 FR 27665, May 11, 2020]

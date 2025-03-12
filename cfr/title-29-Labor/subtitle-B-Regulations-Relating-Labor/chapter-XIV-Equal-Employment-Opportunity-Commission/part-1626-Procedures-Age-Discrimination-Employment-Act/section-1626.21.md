@@ -1,5 +1,7 @@
 ##### § 1626.21 Effect of opinions and interpretations of the Commission. #####
 
+Link to an amendment published at 85 FR 65220, Oct. 15, 2020.
+
 (a) Section 10 of the Portal to Portal Act of 1947, incorporated into the Age Discrimination in Employment Act of 1967 through section 7(e)(1) of the Act, provides that:
 
 In any action or proceeding based on any act or omission on or after the date of the enactment of this Act, no employer shall be subject to any liability or punishment \* \* \* if he pleads and proves that the act or omission complained of was in good faith in conformity with and in reliance on any written administrative regulations, order, ruling, approval or interpretation \* \* \* or any administrative practice or enforcement policy of [the Commission].

@@ -138,7 +138,7 @@
 
 (lxii) The Popcorn Promotion, Research, and Consumer Information Act (7 U.S.C. 7481-7491), except as specified in § 2.43(a)(24).
 
-(lxiii) Farmers' Market Promotion Program (7 U.S.C. 2005).
+(lxiii) Local Agriculture Market Program (7 U.S.C. 1627c), in coordination with the Administrator, Rural Business-Cooperative Service.
 
 (lxiv) [Reserved]
 
@@ -158,19 +158,21 @@
 
 (lxxii) Section 1502 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8772).
 
-(lxxiii) [Reserved]
+(lxxiii) Section 12108 of the Agriculture Improvement Act of 2018 (7 U.S.C. 1622 note).
 
 (lxxiv) Section 10105 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 7655a).
 
 (lxxv) Section 10107 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 1622b).
 
-(lxxvi) [Reserved]
+(lxxvi) Section 4206 of the Agriculture Improvement Act of 2018 (7 U.S.C. 7518).
 
 (lxxvii) Section 4213(c) of the Agricultural Act of 2014 (7 U.S.C. 1755b(c)).
 
 (lxxviii) Section 12306 of the Agricultural Act of 2014 (7 U.S.C. 1632c).
 
 (lxxix) Section 506 of the Trade and Development Act of 2000 (7 U.S.C. 7101 note).
+
+(lxxx) Section 12513 of the Agriculture Improvement Act of 2018 (7 U.S.C. 1632d).
 
 (9) Furnish, on request, copies of programs, pamphlets, reports, or other publications for missions or programs as may otherwise be delegated or assigned to the Administrator, Agricultural Marketing Service and charge user fees therefore, as authorized by section 1121 of the Agriculture and Food Act of 1981, as amended by section 1769 of the Food Security Act of 1985, 7 U.S.C. 2242a.
 
@@ -244,6 +246,10 @@
 
 (22) Administer commodity procurement and supply, transportation (other than from point of export, except for movement to trust territories or possessions), handling, payment, and related services in connection with programs under titles II and III of Public Law 480 (7 U.S.C. 1691, 1701, *et seq.*) and section 3107 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 1736o-1), and payment and related services with respect to export programs and barter operations.
 
+(23) Administer the Economic Adjustment Assistance for Textile Mills program (7 U.S.C. 9037(c)).
+
+(24) In coordination with Administrator, Farm Service Agency, administer payments under the Special Competitive Provisions for Extra Long Staple Cotton (7 U.S.C. 9038).
+
 (b) [Reserved]
 
-[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 62 FR 37485, July 14, 1997; 62 FR 40255, July 28, 1997; 68 FR 27446, May 20, 2003; 74 FR 3411, Jan. 21, 2009; 79 FR 44116, July 30, 2014; 83 FR 22188, May 14, 2018; 83 FR 61314, Nov. 29, 2018]
+[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 62 FR 37485, July 14, 1997; 62 FR 40255, July 28, 1997; 68 FR 27446, May 20, 2003; 74 FR 3411, Jan. 21, 2009; 79 FR 44116, July 30, 2014; 83 FR 22188, May 14, 2018; 83 FR 61314, Nov. 29, 2018; 85 FR 65521, Oct. 15, 2020]

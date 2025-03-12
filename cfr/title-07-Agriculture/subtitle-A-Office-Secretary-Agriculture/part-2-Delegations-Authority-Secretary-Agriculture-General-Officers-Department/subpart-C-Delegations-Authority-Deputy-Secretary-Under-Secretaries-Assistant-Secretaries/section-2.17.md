@@ -1,10 +1,10 @@
-##### § 2.17 Assistant to the Secretary for Rural Development. #####
+##### § 2.17 Under Secretary for Rural Development. #####
 
-(a) The following delegations of authority are made by the Secretary of Agriculture to the Assistant to the Secretary for Rural Development:
+(a) The following delegations of authority are made by the Secretary of Agriculture to the Under Secretary for Rural Development:
 
 (1) Provide leadership and coordination within the executive branch of a Nationwide Rural Development Program utilizing the services of executive branch departments and agencies and the agencies, bureaus, offices, and services of the Department of Agriculture in coordination with rural development programs of State and local governments (7 U.S.C. 2204).
 
-(2) Coordinate activities relative to rural development among agencies reporting to the Assistant to the Secretary for Rural Development and, through appropriate channels, serve as the coordinating official for other departmental agencies having primary responsibilities for specific titles of the Rural Development Act of 1972, and allied legislation.
+(2) Coordinate activities relative to rural development among agencies reporting to the Under Secretary for Rural Development and, through appropriate channels, serve as the coordinating official for other departmental agencies having primary responsibilities for specific titles of the Rural Development Act of 1972, and allied legislation.
 
 (3) Administer a national program of economic, social, and environmental research and analysis, statistical programs, and associated service work related to rural people and the communities in which they live including rural industrialization; rural population and manpower; local government finance; income development strategies; housing; social services and utilization; adjustments to changing economic and technical forces; and other related matters.
 
@@ -130,7 +130,7 @@
 
 (ix) Administer Water and Waste Facility Programs and activities (7 U.S.C. 1926-1).
 
-(x) [Reserved]
+(x) Consult with the Assistant Secretary of Commerce for Communications and Information to assist in the verification of eligibility of the broadband loan and grant programs of the Department of Agriculture (7 U.S.C. 950bb-6).
 
 (xi) In coordination with the Director, Office of Partnerships and Public Engagement, issue receipts under section 2501A(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279-1(e)).
 
@@ -139,6 +139,8 @@
 (xiii) Administer section 6210 of the Agricultural Act of 2014, Public Law 113-79, relating to funding of pending rural development loan and grant applications.
 
 (xiv) Administer the authority under section 746 of Division A of the Consolidated Appropriations Act, 2018 (Pub. L. 115-141), and any successor provisions in subsequent appropriations acts, to issue waivers to the U.S. iron and steel requirements for the construction, alteration, maintenance, or repair of a public water or wastewater system.
+
+(xv) In coordination with the Federal Communications Commission, administer Section 12511 of the Agriculture Improvement Act of 2018 (Pub. L. 115-334) relating to the precision agriculture connectivity task force.
 
 (21) *Related to rural business-cooperative.* (i) Administer the Rural Economic Development Loan and Grant Programs under the Rural Electrification Act (7 U.S.C. 940c and 950aa *et seq.*).
 
@@ -214,9 +216,9 @@
 
 (xx) Develop a system of outreach in the State or local area to promote rural development and provide for the publication and dissemination of information, through multi-media methods, relating to rural development. Advise local rural development organizations of availability of Federal programs and the type of assistance available, and assist in making contact with Federal program (7 U.S.C. 2204; 7 U.S.C. 2204b).
 
-(xxi) Administer the Value-Added Agricultural Product Market Development Grant program (note to 7 U.S.C. 1621).
+(xxi) In coordination with the Under Secretary of Marketing and Regulatory Programs, administer the value-added producer grants program and farmers' markets and local food promotion program (7 U.S.C. 1627c(d)(5)-(6)).
 
-(xxii) Administer the Agriculture Innovation Center Demonstration program (note to 7 U.S.C. 1621).
+(xxii) Administer the Agriculture Innovation Center Demonstration program (7 U.S.C. 1632b).
 
 (xxiii) Administer the renewable energy programs authorized in sections 9003, 9004, 9005, 9007, and 9009 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 8103, 8104, 8105, 8107, and 8109).
 
@@ -227,6 +229,10 @@
 (xxvi) Administer the Healthy Food Financing Initiative under section 243 of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6953).
 
 (xxvii) Administer section 6209 of the Agricultural Act of 2014 (7 U.S.C. 2207b), relating to the collection and reporting of program metrics.
+
+(xxviii) Implementation of a program for the Federal procurement of biobased products and of a voluntary “USDA Certified Biobased product” labeling program (7 U.S.C. 8102).
+
+(xxix) Entering into cooperative agreements to further research programs in the food and agricultural sciences, related to establishing and implementing Federal biobased procurement and voluntary biobased labeling programs (7 U.S.C. 3318).
 
 (22) *Related to rural housing.* (i) Administer the following under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 *et seq.*):
 
@@ -244,7 +250,7 @@
 
 (ii) Administer title V of the Housing Act of 1949 (42 U.S.C. 1471 *et seq.*), except those functions pertaining to research.
 
-(iii) [Reserved]
+(iii) In consultation with the Department of Justice, Secretary of Housing and Urban Development, and Secretary of Health and Human Services, administer the emergency and transitional pet shelter and housing assistance grant program (34 U.S.C. 20127).
 
 (iv) Administer the Rural Housing Disaster Program under sections 232, 234, and 253 of the Disaster Relief Act of 1970 (Pub. L. No. 91-606).
 
@@ -276,7 +282,7 @@
 
 (27) Exercise the authority in section 10101 of the Disaster Relief and Recovery Supplemental Appropriations Act, 2008, Public Law 110-329, div. B., regarding the Rural Development Disaster Assistance Fund.
 
-(28) [Reserved]
+(28) In coordination with the Office of Tribal Relations, provide technical assistance to improve access by Tribal entities to rural development programs funded by the Department of Agriculture through available cooperative agreement authorities (7 U.S.C. 2671).
 
 (29) Implement section 14218 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 6941a).
 
@@ -284,7 +290,9 @@
 
 Administer section 9008 of FSRIA (7 U.S.C. 8108) with respect to biomass research and development, including administration of the Biomass Research and Development Board and Biomass Research and Development Technical Advisory Committee, and submission of reports to Congress, except for the authority delegated to the Under Secretary for REE in § 2.21(a)(1)(cci) to carry out the Biomass Research and Development Initiative; consult and coordinate, as appropriate, with the Under Secretary for REE and other mission areas within the Department as deemed necessary in carrying out the authorities delegated herein; and serve as the designated point of contact referenced in 7 U.S.C. 8108 for the Department, except for purposes of administering the Biomass Research and Development Initiative as provided in § 2.21(a)(1)(cci).
 
-(31) Carry out prize competition authorities in section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) related to functions otherwise delegated to the Assistant to the Secretary for Rural Development, except for authorities delegated to the Chief Financial Officer in § 2.28(a)(29) and authorities reserved to the Secretary in paragraph (b)(2) of this section.
+(31) Carry out prize competition authorities in section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) related to functions otherwise delegated to the Under Secretary for Rural Development, except for authorities delegated to the Chief Financial Officer in § 2.28(a)(29) and authorities reserved to the Secretary in paragraph (b)(2) of this section.
+
+(32) Oversee the Rural Health Liaison (7 U.S.C. 6946).
 
 (b) The following authority is reserved to the Secretary of Agriculture:
 
@@ -292,4 +300,4 @@ Administer section 9008 of FSRIA (7 U.S.C. 8108) with respect to biomass researc
 
 (2) Approval of prize competitions that may result in the award of more than $1,000,000 in cash prizes under section 24(m)(4)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(4)(B)).
 
-[60 FR 56393, Nov. 8, 1995, as amended at 65 FR 12427, Mar. 9, 2000; 66 FR 31107, June 11, 2001; 68 FR 27436, May 20, 2003; 74 FR 3402, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 76 FR 52851, Aug. 24, 2011; 78 FR 40937, July 9, 2013; 79 FR 44106, July 30, 2014; 80 FR 58336, Sept. 29, 2015; 83 FR 22181, May 14, 2018; 83 FR 61311, Nov. 29, 2018]
+[60 FR 56393, Nov. 8, 1995, as amended at 65 FR 12427, Mar. 9, 2000; 66 FR 31107, June 11, 2001; 68 FR 27436, May 20, 2003; 74 FR 3402, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 76 FR 52851, Aug. 24, 2011; 78 FR 40937, July 9, 2013; 79 FR 44106, July 30, 2014; 80 FR 58336, Sept. 29, 2015; 83 FR 22181, May 14, 2018; 83 FR 61311, Nov. 29, 2018; 85 FR 65506, Oct. 15, 2020]

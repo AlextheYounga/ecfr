@@ -1,5 +1,7 @@
 ##### § 1626.16 Subpoenas. #####
 
+Link to an amendment published at 85 FR 65220, Oct. 15, 2020.
+
 (a) To effectuate the purposes of the Act the Commission shall have the authority to issue a subpoena requiring:
 
 (1) The attendance and testimony of witnesses;

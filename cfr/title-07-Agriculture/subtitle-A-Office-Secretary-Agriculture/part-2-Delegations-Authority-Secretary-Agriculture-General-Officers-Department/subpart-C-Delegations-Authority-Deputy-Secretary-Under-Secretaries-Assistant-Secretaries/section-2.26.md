@@ -82,7 +82,7 @@
 
 (D) Arranging for acquisition, and preparation of imagery for use to the extent of existing capabilities.
 
-(xxx) [Reserved]
+(xxx) Promote cooperation and coordination between 1862, 1890, 1994, and NLGCA Institutions, HSACUs, and cooperating forestry schools and international partner institutions in developing countries by exercising the Secretary's authority in 7 U.S.C. 3292, including coordinating with the Under Secretary for Research, Education, and Economics to place interns from covered institutions in, or in service to benefit, developing countries.
 
 (xxxi) Administer programs under the Food for Progress Act of 1985 (7 U.S.C. 1736o), except as otherwise delegated in § 2.42(a)(43).
 
@@ -112,19 +112,21 @@
 
 (xliv) Implement section 3107 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 1736o-1).
 
-(xlv) [Reserved]
+(xlv) Administer the International Agricultural Education Fellowship Program (7 U.S.C. 3295).
 
 (xlvi) Implement section 3206 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 1726c) regarding local and regional food aid procurement projects.
 
 (xlvii) Administer the Borlaug International Agricultural Science and Technology Fellowship Program (7 U.S.C. 3319j).
 
-(xlviii) [Reserved]
+(xlviii) Compile and make available information relating to the improvement of international food security, and provide technical assistance for the improvement of international food security to Federal, State, or local agencies; agencies or instrumentalities of the government of foreign country; domestic or international organizations; or intergovernmental organizations (7 U.S.C. 1736dd).
 
 (xlix) Administer the following provisions of the Agricultural Act of 2014, Public Law 113-79:
 
 (A) Section 12314 relating to the Pima Agriculture Cotton Trust Fund (7 U.S.C. 2101 note), in coordination with the Under Secretary for Farm Production and Conservation.
 
 (B) Section 12315 relating to the Agriculture Wool Apparel Manufacturers Trust Fund (7 U.S.C. 7101 note), in coordination with the Under Secretary for Farm Production and Conservation.
+
+(l) In consultation with the Tribal Advisory Committee and the Director of the Office of Tribal Relations, and in coordination with the Secretaries of Commerce, State, Interior, and the heads of any other relevant Federal agencies, implement section 3312 of the Agriculture Improvement Act of 2018 (7 U.S.C. 5608) to support greater inclusion of Tribal agricultural food products in Federal trade activities.
 
 (2) [Reserved]
 
@@ -156,4 +158,4 @@
 
 (2) Approval of prize competitions that may result in the award of more than $1,000,000 in cash prizes under section 24(m)(4)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(4)(B)).
 
-[83 FR 22181, May 14, 2018]
+[83 FR 22181, May 14, 2018, as amended at 85 FR 65512, Oct, 15, 2020]Editorial Note:At 85 FR 65510, Oct. 15, 2020, § 2.24 was amended by revising paragraph (a)(8) however, there is some extra text included after paragraph (a)(8)(x)(M) starting with paragraph (iii). There was already a paragraph (iii) earlier in the revision.

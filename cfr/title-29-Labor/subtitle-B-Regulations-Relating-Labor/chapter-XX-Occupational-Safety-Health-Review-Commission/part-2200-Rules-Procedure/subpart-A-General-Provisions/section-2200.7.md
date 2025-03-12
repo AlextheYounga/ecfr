@@ -14,6 +14,8 @@
 
 (4) *Facsimile transmission.* Service by facsimile transmission shall be deemed accomplished upon delivery to the receiving facsimile machine. The party serving a document by facsimile is responsible for the successful transmission and legibility of documents intended to be served.
 
+(5) *Non-E-Filed Documents.* Documents required to be served upon other counsel or parties but that are not filed with the Commission in the Commission's E-File System (such as discovery documents served pursuant to § 2200.52(j)) may be served by any means agreed to by all parties in writing.
+
 (d) *Proof of service.* Service shall be documented by a written certificate of service setting forth the date and manner of service. The certificate of service shall be filed with the pleading or document.
 
 (e) *Proof of posting.* Where service is accomplished by posting, proof of such posting shall be filed not later than the first working day following the posting.
@@ -58,8 +60,8 @@ The reasonableness of the period prescribed by the Secretary of Labor for abatem
 
 (n) *Duration of posting.* Where posting is required by this section, such posting shall be maintained until the commencement of the hearing or until earlier disposition.
 
-(o) *Service of show cause orders* - (1) *Service on parties and intervenors using Commission's E-File System.* Service of show cause orders shall be deemed completed by service through the Commission's E-File System on a representative who has entered an appearance for a party or intervenor under § 2200.23 or on a self-represented party or intervenor who has elected service through the Commission's E-File System. *See also* § 2200.101(a).
+(o) *Service of show cause orders* - (1) *Service on parties and intervenors using Commission's E-File System.* Service of show cause orders shall be deemed completed by service through the Commission's E-File System on a representative who has entered an appearance for a party or intervenor under § 2200.23 or on a self-represented party or intervenor who has not been exempted from using the Commission's E-File System. *See also* § 2200.101(a).
 
-(2) *Service on self-represented parties or intervenors not using the Commission's E-File System.* In addition to the service methods permitted by § 2200.7(c), the Commission or the Judge shall serve a show cause order on a party or intervenor who is self-represented and is not using the Commission's E-File System by certified mail or by any other method (including commercial delivery service) that provides confirmation of delivery to the addressee's record address provided under § 2200.6.
+(2) *Service on self-represented parties or intervenors exempted from using the Commission's E-File System.* In addition to the service methods permitted by § 2200.7(c), the Commission or the Judge shall serve a show cause order on a self-represented party or intervenor who has been exempted from using the Commission's E-File System by certified mail or by any other method (including commercial delivery service) that provides confirmation of delivery to the addressee's record address provided under § 2200.6.
 
-[84 FR 14558, Apr. 10, 2019, as amended at 84 FR 53052, Oct. 4, 2019]
+[84 FR 14558, Apr. 10, 2019, as amended at 84 FR 53052, Oct. 4, 2019; 85 FR 65220, Oct. 15, 2020]

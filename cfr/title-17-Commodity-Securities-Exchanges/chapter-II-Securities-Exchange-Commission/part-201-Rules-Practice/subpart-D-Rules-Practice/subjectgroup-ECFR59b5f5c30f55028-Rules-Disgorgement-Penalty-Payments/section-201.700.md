@@ -1,5 +1,7 @@
 ##### § 201.700 Initiation of proceedings for SRO proposed rule changes. #####
 
+Link to an amendment published at 85 FR 65495, Oct. 15, 2020.
+
 (a) *Rules of Practice.* For purposes of these Rules of Practice contained at 17 CFR 201.700 through 201.701, the following Rules of Practice apply:
 
 (1) Rule 103, 17 CFR 201.103 (Construction of Rules);

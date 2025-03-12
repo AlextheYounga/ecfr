@@ -28,6 +28,10 @@
 
 (xii) Section 4307 of the Food, Conservation, and Energy Act of 2008 (Pub. L. 110-246).
 
+(xiii) Section 4208 of the Agriculture Improvement Act of 2018 (7 U.S.C. 2026a).
+
+(xiv) Section 12614 of the Agriculture Improvement Act of 2018 (7 U.S.C. 6925).
+
 (2) Administer those functions relating to the distribution and donation of agricultural commodities and products thereof under the following legislation:
 
 (i) Clause (3) of section 416(a) of the Agricultural Act of 1949, as amended (7 U.S.C. 1431(a)), except the estimate and announcement of the types and varieties of food commodities, and the quantities thereof, to become available for distribution thereunder;
@@ -52,7 +56,7 @@
 
 (xi) Section 1336 of the Agriculture and Food Act of 1981 (Pub. L. No. 97-98);
 
-(xii) Emergency Food Assistance Act of 1983 (7 U.S.C. 612c note);
+(xii) Emergency Food Assistance Act of 1983, as amended (7 U.S.C. 7501 *et seq.*);
 
 (xiii) Sections 3(b)-(i), 3A and 4 of the Commodity Distribution Reform Act and WIC Amendments of 1987 (7 U.S.C. 612c note); and
 
@@ -98,4 +102,4 @@
 
 (b) [Reserved]
 
-[60 FR 56393, Nov. 8, 1995, as amended at 63 FR 35787, July 1, 1998; 68 FR 27444, May 20, 2003; 74 FR 3408, Jan. 21, 2009; 79 FR 44114, July 30, 2014]
+[60 FR 56393, Nov. 8, 1995, as amended at 63 FR 35787, July 1, 1998; 68 FR 27444, May 20, 2003; 74 FR 3408, Jan. 21, 2009; 79 FR 44114, July 30, 2014; 85 FR 65516, Oct. 15, 2020]

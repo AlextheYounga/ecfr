@@ -1,21 +1,15 @@
-##### § 127.405 What is the process for requesting an eligibility examination? #####
+##### § 127.405 What happens if SBA determines that the concern is no longer eligible for the program? #####
 
-Link to an amendment published at 85 FR 27664, May 11, 2020.
+If SBA believes that a concern does not meet the program eligibility requirements, the concern fails to recertify in accordance with the requirements in § 127.400, or the concern has failed to notify SBA of a material change, SBA will propose the concern for decertification from the program.
 
-(a) *General.* A concern may request that SBA conduct an examination to verify its eligibility as an EDWOSB or WOSB at any time after it is determined by SBA not to qualify as an EDWOSB or WOSB, if the concern believes in good faith that it satisfies all of the EDWOSB or WOSB eligibility requirements under subpart B of this part.
+(a) *Proposed decertification.* The D/GC or designee will notify the concern in writing that it has been proposed for decertification. This notice will state the reasons why SBA has proposed decertification, and that the WOSB or EDWOSB must respond to each of the reasons set forth.
 
-(b) *Format.* The request for an examination must be in writing and must specify the particular reasons the concern was determined not to qualify as an EDWOSB or WOSB.
+(1) The WOSB or EDWOSB must respond in writing to a proposed decertification within 20 calendar days from the date of the proposed decertification.
 
-(c) *Submission of request.* The concern must submit its request directly to the Director for Government Contracting, U.S. Small Business Administration, 409 Third Street, SW., Washington, DC 20416, or by fax to (202) 205-6390, marked “*Attn:* Request for Women-Owned Small Business Eligibility Examination.”
+(2) If the initial certification was done by a third-party certifier, SBA will also notify the third-party certifier of the proposed decertification in writing.
 
-(d) *Notice of receipt of request.* SBA will immediately notify the concern in writing once SBA receives its request for an examination. SBA will request that the concern provide documentation and information related to the concern's EDWOSB or WOSB eligibility and may draw an adverse inference if the concern fails to cooperate in providing the requested information.
+(b) *Decertification.* The D/GC or designee will consider the reasons for proposed decertification and the concern's response before making a written decision whether to decertify. The D/GC may draw an adverse inference where a concern fails to cooperate with SBA or provide the information requested. The D/GC's decision is the final agency decision.
 
-(e) *Determination of eligibility.* The D/GC will send the concern a written decision finding that it either qualifies or does not qualify as an EDWOSB or WOSB.
+(c) *Reapplication.* A concern decertified pursuant to this section may reapply to the program pursuant to § 127.305.
 
-(1) If the D/GC determines that the concern does not qualify as an EDWOSB or WOSB, the decision will explain the specific reasons for the adverse determination and advise the concern that it is prohibited from self-certifying as an EDWOSB or WOSB. If the concern self-certifies as an EDWOSB or WOSB notwithstanding SBA's adverse determination, the concern will be subject to the penalties under subpart G of this part.
-
-(2) If the D/GC determines that the concern qualifies as an EDWOSB or WOSB, then the D/GC will send the concern a written decision to that effect and will advise the concern that it may self-certify as an EDWOSB or WOSB, as applicable.
-
-(f) *Effect of decision.* The D/GC's decision is effective immediately and remains in full force and effect unless a new examination verifies the concern is an eligible EDWOSB or WOSB or the concern is certified by a third-party certifier. If the concern has already certified itself as a WOSB or EDWOSB on a pending procurement the concern must immediately inform the officials responsible for the procurement of the adverse determination.
-
-(g) *Determinations of Ineligibility.* A concern that has been found to be ineligible shall not represent itself as a WOSB or EDWOSB until it cures the reason for its ineligibility and SBA determines that the concern qualifies as a WOSB or EDWOSB. A concern that believes in good faith that it has cured the reason(s) for its ineligibility may request an examination under the procedures set forth in this section.
+[85 FR 27664, May 11, 2020]

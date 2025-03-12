@@ -1,5 +1,7 @@
 ##### § 1626.8 Contents of charge; amendment of charge. #####
 
+Link to an amendment published at 85 FR 65219, Oct. 15, 2020.
+
 (a) In addition to the requirements of § 1626.6, each charge should contain the following:
 
 (1) The full name, address and telephone number of the person making the charge;

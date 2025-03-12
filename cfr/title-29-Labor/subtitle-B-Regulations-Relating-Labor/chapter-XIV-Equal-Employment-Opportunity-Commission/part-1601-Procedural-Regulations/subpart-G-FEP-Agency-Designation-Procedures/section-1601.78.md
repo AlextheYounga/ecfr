@@ -1,5 +1,7 @@
 ##### § 1601.78 Evaluation of designated FEP agencies certified by the Commission. #####
 
+Link to an amendment published at 85 FR 65219, Oct. 15, 2020.
+
 To assure that designated FEP agencies certified by the Commission, as provided in § 1601.75 of this part, continue to maintain performance consistent with the Commission's Substantial Weight Review Procedures (EEOC Order 916), the Commission shall provide for the evaluation of such agencies as follows:
 
 (a) Each designated FEP agency certified by the Commission shall be evaluated at least once every 3 years; and

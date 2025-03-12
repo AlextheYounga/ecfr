@@ -1,5 +1,7 @@
 ##### § 1601.12 Contents of charge; amendment of charge. #####
 
+Link to an amendment published at 85 FR 65217, Oct. 15, 2020.
+
 (a) Each charge should contain the following:
 
 (1) The full name, address and telephone number of the person making the charge except as provided in § 1601.7;

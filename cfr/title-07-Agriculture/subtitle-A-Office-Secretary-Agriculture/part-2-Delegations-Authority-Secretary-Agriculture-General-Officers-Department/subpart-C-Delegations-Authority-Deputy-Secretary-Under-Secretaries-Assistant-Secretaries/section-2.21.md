@@ -6,9 +6,9 @@
 
 (ii) Provide national leadership and support for research, extension, and teaching programs in the food and agricultural sciences to carry out sustainable agriculture research and education; a National Plant Genetic Resources Program; a national agricultural weather information system; and any other provisions pursuant to title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 (Pub. L. 101-624, 104 Stat. 3703).
 
-(iii) [Reserved]
+(iii) Exercise the authorities of the Secretary in administering the Agriculture Advanced Research and Development Authority, including awarding grants and entering into contracts, cooperative agreements, and other transactions (7 U.S.C. 3319k).
 
-(iv) Carry out research, technology development, technology transfer, and demonstration projects related to the economic feasibility of the manufacture and commercialization of natural rubber from plants containing hydrocarbons (7 U.S.C. 178-178n).
+(iv) Carry out research, technology development, technology transfer, and demonstration projects related to the economic feasibility of the manufacture and commercialization of natural rubber from plants containing hydrocarbons and other critical agricultural materials from native agricultural crops having strategic and industrial importance (7 U.S.C. 178-178n).
 
 (v) Conduct research on the control of undesirable species of honey bees in cooperation with specific foreign governments (7 U.S.C. 284).
 
@@ -34,13 +34,13 @@
 
 (xvi) Conduct research on varietal improvement of wheat and feed grains to enhance their conservation and environmental qualities (7 U.S.C. 428b).
 
-(xvii) [Reserved]
+(xvii) Administer a program to make competitive grants to assist in the construction, alteration, acquisition, modernization, renovation, or remodeling of agricultural research facilities (7 U.S.C. 390b).
 
-(xviii) Enter into agreements with and receive funds from any State, other political subdivision, organization, or individual for the purpose of conducting cooperative research projects (7 U.S.C. 450a).
+(xviii) Enter into agreements with and receive funds from any State, other political subdivision, organization, or individual for the purpose of conducting cooperative research projects (7 U.S.C. 3318a).
 
-(xix) Carry out a program (IR-4 Program) for the collection of residue and efficacy data in support of registration or reregistration of pesticides for minor agricultural use and for use on specialty crops, and to determine tolerances for minor use chemical residues in or on agricultural commodities (7 U.S.C. 450i(e)).
+(xix) Carry out a program (IR-4 Program) for the collection of residue and efficacy data in support of registration or reregistration of pesticides for minor agricultural use and for use on specialty crops, and to determine tolerances for minor use chemical residues in or on agricultural commodities (7 U.S.C. 3157(e)).
 
-(xx) Administer the Agriculture and Food Research Initiative for competitive grants for fundamental and applied research, extension, and education to address food and agricultural sciences; administer a program of making special grants for research, extension, or education activities (7 U.S.C. 450i(b), (c)).
+(xx) Administer the Agriculture and Food Research Initiative for competitive grants for fundamental and applied research, extension, and education to address food and agricultural sciences; administer a program of making special grants for research, extension, or education activities (7 U.S.C. 3157(b), (c)).
 
 (xxi)-(xxii) [Reserved]
 
@@ -58,7 +58,7 @@
 
 (xxx) Conduct education and extension programs related to nutrition education (7 U.S.C. 2027(a)).
 
-(xxxi) [Reserved]
+(xxxi) Prepare an annual report to Congress on disbursements of funds for agricultural research and extension at 1890 and 1862 Institutions for programs under the following authorities: 7 U.S.C. 3221; 7 U.S.C. 3222; 7 U.S.C. 343(b) and (c); and 7 U.S.C. 361a *et seq.* (7 U.S.C. 2207d).
 
 (xxxii) Develop and maintain national and international library and information systems and networks and facilitate cooperation and coordination of the agricultural libraries of colleges, universities, USDA, and their closely allied information gathering and dissemination units in conjunction with private industry and other research libraries (7 U.S.C. 2201, 2204, 3125a, and 3126).
 
@@ -80,11 +80,11 @@
 
 (xli) Assemble and collect food and nutrition educational material, including the results of nutrition research, training methods, procedures, and other materials related to the purposes of the National Agricultural Research, Extension, and Teaching Policy Act of 1977, as amended; maintain such information; and provide for the dissemination of such information and materials on a regular basis to State educational agencies and other interested parties (7 U.S.C. 3126).
 
-(xlii) [Reserved]
+(xlii) Promote cooperation and coordination between 1862, 1890, 1994, and NLGCA Institutions, HSACUs, and cooperating forestry schools and international partner institutions in developing countries by exercising the Secretary's authority in 7 U.S.C. 3292, including coordinating with the Under Secretary for Trade and Foreign Affairs to place interns from covered institutions in, or in service to benefit, developing countries.
 
 (xliv) Promote and strengthen higher education in the food and agricultural sciences; administer grants to colleges and universities; maintain a national food and agricultural education information system; conduct programs regarding the evaluation of teaching programs and continuing education; administer the National Food and Agricultural Sciences Teaching, Extension, and Research Awards Program to recognize and promote excellence in teaching, extension, and research in the food and agricultural sciences; administer programs relating to secondary education and 2-year postsecondary education, including grants to public secondary schools, institutions of higher education that award an associate's degree, other institutions of higher education, and nonprofit organizations; and report to Congress on the distribution of funds to carry out such teaching programs (7 U.S.C. 3152).
 
-(xlv) [Reserved]
+(xlv) Administer a next generation agriculture technology challenge competition to incentivize mobile technology that removes marketplace entry barriers for beginning farmers and ranchers (7 U.S.C. 3158).
 
 (xlvi) Administer the National Agricultural Science Award for research or advanced studies in the food and agricultural sciences (7 U.S.C. 3153).
 
@@ -104,7 +104,7 @@
 
 (liv) Provide for an agricultural research and development program with the United States/Mexico Foundation for Science (7 U.S.C. 3292a).
 
-(lv) [Reserved]
+(lv) Administer grants to 1890 Institutions, including Tuskegee University, for purposes of awarding scholarships to individuals pursuing careers in the food and agricultural sciences (7 U.S.C. 3222a).
 
 (lvi) Enter into contracts, grants, or cooperative agreements to further research, extension, or teaching programs in the food and agriculture sciences (7 U.S.C. 3318).
 
@@ -120,7 +120,7 @@
 
 (lxii) Design and implement educational programs and distribute materials in cooperation with the cooperative extension services of the States emphasizing the importance of productive farmland, and designate a farmland information center, pursuant to section 1544 of the Farmland Protection Policy Act (7 U.S.C. 4205).
 
-(lxiii) [Reserved]
+(lxiii) Make competitive grants to land-grant colleges and universities, including 1994 Institutions, to provide identifiable support specifically targeted for Tribal students (7 U.S.C. 3222e).
 
 (lxiv) Administer programs and conduct projects for research, extension, and education on sustainable agriculture (7 U.S.C. 5811-5813).
 
@@ -128,7 +128,7 @@
 
 (lxvi) Develop and make available handbooks, technical guides, and other educational materials emphasizing sustainable agriculture production systems and practices; carry out activities related to a national training program for sustainable agriculture (7 U.S.C. 5831, 5832).
 
-(lxvii) [Reserved]
+(lxvii) Administer competitive grants for the acquisition of special purpose scientific research equipment for use in the food and agricultural sciences programs of eligible institutions (7 U.S.C. 3310a).
 
 (lxviii) Administer a national research program on genetic resources to provide for the collection, preservation, and dissemination of genetic material important to American food and agriculture production (7 U.S.C. 5841-5844).
 
@@ -138,11 +138,15 @@
 
 (lxxi) Administer a research and extension grant program to States to administer programs for State agricultural weather information systems (7 U.S.C. 5854).
 
-(lxxii)-(lxxvi) [Reserved]
+(lxxii) Establish a National Plant Diagnostic Network to monitor and surveil through diagnostics threats to plant health from diseases or pests of concern in the United States, and establish cooperative agreements with land-grant colleges and universities (7 U.S.C. 8914(c)).
+
+(lxxiii) Establish a National Plant Disease Recovery System to engage in strategic long-range planning to recover from high-consequence plant transboundary diseases (7 U.S.C. 8914(d)).
+
+(lxxiv)-(lxxvi) [Reserved]
 
 (lxxvii) Administer research programs and grants for risk assessment research to address concerns about the environmental effects of biotechnology (7 U.S.C. 5921).
 
-(lxxviii) [Reserved]
+(lxxviii) In consultation with the Secretary of Energy, administer competitive grants to provide education about carbon utilization and biogas (7 U.S.C. 8115).
 
 (lxxix) Conduct a research initiative known as the Agricultural Genome Initiative, and make grants or enter into cooperative agreements on a competitive basis to carry out the Initiative (7 U.S.C. 5924).
 
@@ -152,7 +156,7 @@
 
 (lxxxii) Administer competitive grants to support research, education, and extension activities regarding organically grown and processed agricultural commodities (7 U.S.C. 5925b).
 
-(lxxxiii) [Reserved]
+(lxxxiii) In consultation with the Urban Agriculture and Innovative Production Advisory Committee, administer competitive grants to support research, education, and extension activities for the purposes of facilitating the development of urban, indoor, and other emerging agricultural production, harvesting, transportation, aggregation, packaging, distribution, and markets (7 U.S.C. 5925g).
 
 (lxxxiv) Formulate and carry out the Veterinary Medicine Loan Repayment Act program authorized by the National Veterinary Medical Service Act (7 U.S.C. 3151a).
 
@@ -194,7 +198,7 @@
 
 (cx) Perform research, development, and extension activities in aquaculture (16 U.S.C. 2804 and 2806).
 
-(cxi) [Reserved]
+(cxi) Administer an experienced services program to obtain technical, professional, and administrative services to support the research, education, and economics mission area of the Department (16 U.S.C. 3851).
 
 (cxii) Copy and deliver on demand selected articles and other materials from the Department's collections by photographic reproduction or other means within the permissions, constraints, and limitations of sections 106, 107, and 108 of the Copyright Act of October 19, 1976, (17 U.S.C. 106, 107, and 108).
 
@@ -254,7 +258,7 @@
 
 (cxli) Implement and administer the Community Food Projects Program under section 25 of the Food and Nutrition Act of 2008 (7 U.S.C. 2034).
 
-(cxlii) [Reserved]
+(cxlii) In consultation with the Under Secretary for Food, Nutrition, and Consumer Services, administer pilot projects to encourage the use of public-private partnerships committed to addressing food insecurity (7 U.S.C. 2036d).
 
 (cxliii) Coordinate the Department of Agriculture summer intern program pursuant to section 922 of the Federal Agriculture Improvement and Reform Act (7 U.S.C. 2279c).
 
@@ -306,7 +310,7 @@
 
 (clxxii) Cooperate with other Federal agencies (including the National Science Foundation) in issuing joint requests for proposals, awarding grants, and administering grants under any competitive agricultural research, education, or extension grant program (7 U.S.C. 3319b).
 
-(clxxiii) Administer a program of competitive grants, establish education teams, and establish an online clearinghouse of curricula and training materials and programs, all for training, education, outreach, and technical assistance initiatives for the benefit of beginning farmers and ranchers (7 U.S.C. 3319f).
+(clxxiii) Administer a program of competitive grants, establish education teams, and establish an online clearinghouse of curricula and training materials and programs, all for training, education, outreach, and technical assistance initiatives for the benefit of beginning farmers and ranchers (7 U.S.C. 2279d).
 
 (clxxiv) Administer agricultural research, education, and extension activities (including through competitive grants), using any authority available to the Secretary, to reduce the vulnerability of the United States food and agricultural system to chemical or biological attack, to continue partnerships with institutions of higher education and other institutions to help form stable, long-term programs to enhance the biosecurity of the United States, to make competitive grants to universities and qualified research institutions for research on counterbioterrorsims, and to counter or otherwise respond to chemical or biological attack (7 U.S.C. 3351).
 
@@ -360,7 +364,7 @@
 
 (cxcix) [Reserved]
 
-(cc) [Reserved]
+(cc) Administer a competitive grant program to support the development and expansion of advanced training programs in agricultural biosecurity planning and response for food science professionals and veterinarians (7 U.S.C. 8913).
 
 (cci) Administer the Biomass Research and Development Initiative (7 U.S.C. 8108(e)); consult and coordinate, as appropriate, with the Under Secretary for RD and other mission areas of the Department as deemed necessary in carrying the authorities delegated herein; serve as the designated point of contact referenced in 7 U.S.C. 8108 for the Department for purposes of administering the Biomass Research and Development Initiative.
 
@@ -392,7 +396,7 @@
 
 (3) *Related to defense and emergency preparedness.* Administer the responsibilities and functions assigned under the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 *et seq.*), and title VI of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5195 *et seq.*), concerning scientific and educational programs; estimates of supplies of agricultural commodities and evaluation of requirements therefor; coordination of damage assessment; food and agricultural aspects of economic stabilization, economic research, and agricultural statistics; and the coordination of energy programs.
 
-(4) Related to rural development activities. Provide guidance and direction for the accomplishment of activities authorized under Section V of the Rural Development Act of 1972, as amended (7 U.S.C. 2661 *et seq.*), for programs under the control of the Under Secretary for Research, Education, and Economics, coordinating the policy aspects thereof with the Assistant to the Secretary for Rural Development .
+(4) Related to rural development activities. Provide guidance and direction for the accomplishment of activities authorized under Section V of the Rural Development Act of 1972, as amended (7 U.S.C. 2661 *et seq.*), for programs under the control of the Under Secretary for Research, Education, and Economics, coordinating the policy aspects thereof with the Under Secretary for Rural Development.
 
 (5) *Related to environmental response.* With respect to land and facilities under his or her authority, exercise the functions delegated to the Secretary by Executive Order 12580, 3 CFR, 1987 Comp., p. 193, under the following provisions of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (“the Act”), as amended:
 
@@ -512,7 +516,7 @@
 
 (E) Entering into agreements with land-grant colleges and universities, other organizations, institutions, or individuals with comparable goals, and with the concurrence of the Foreign Agricultural Service, USDA, international organizations (limited to agreements either involving no exchange of funds or involving disbursements by the agency to the cooperator), and then reporting these agreements to the Secretary of Agriculture (7 U.S.C. 3291(a)).
 
-(xi) [Reserved]
+(xi) Collect and, not less frequently than once every 3 years report, data and analysis on farmland ownership, tenure, transition, and entry of beginning farmers and ranchers and socially disadvantaged farmers and ranchers (7 U.S.C. 2204i).
 
 (xii) Enter into contracts, grants, or cooperative agreements to further research and statistical reporting programs in the food and agricultural sciences (7 U.S.C. 3318).
 

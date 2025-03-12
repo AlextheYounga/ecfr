@@ -14,6 +14,8 @@
 
 (iv) Designate the Executive Secretary of the USDA Weather and Climate Program Coordinating Committee.
 
+(v) Coordinate with the Director of the National Drought Mitigation Center and the Administrator of the National Oceanic and Atmospheric Administration to enhance the collection of data to improve the accuracy of the United States Drought Monitor (7 U.S.C. 5856).
+
 (3) *Related to interagency commodity estimates committees.* (i) Establish Interagency Commodity Estimates Committees for Commodity Credit Corporation price-supported commodities, for major products thereof, and for commodities where a need for such a committee has been identified, in order to bring together estimates and supporting analyses from participating agencies, and to develop official estimates of supply, utilization, and prices for commodities, including the effects of new program proposals on acreage, yield, production, imports, domestic utilization, price, income, support programs, carryover, exports, and availabilities for export.
 
 (ii) Designate the Chairman, who shall also act as Secretary, for all Interagency Commodity Estimates Committees.
@@ -28,4 +30,4 @@
 
 (b) *Reservation.* The following authority is reserved to the Chief Economist: Review all proposed decisions having substantial economic policy implications.
 
-[60 FR 56393, Nov. 8, 1995, as amended at 77 FR 14952, Mar. 14, 2012; 78 FR 40938, July 9, 2013]
+[60 FR 56393, Nov. 8, 1995, as amended at 77 FR 14952, Mar. 14, 2012; 78 FR 40938, July 9, 2013; 85 FR 65521, Oct. 15, 2020]

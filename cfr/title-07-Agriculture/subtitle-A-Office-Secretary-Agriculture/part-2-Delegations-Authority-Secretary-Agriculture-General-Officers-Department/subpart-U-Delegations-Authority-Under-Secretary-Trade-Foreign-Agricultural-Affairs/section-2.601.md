@@ -40,7 +40,7 @@
 
 (20) Carry out activities relating to the sale, reduction, or cancellation of debt, as authorized by title VI of the Agricultural Trade and Development Act of 1954, as amended (7 U.S.C. 1738 *et seq.*).
 
-(21) [Reserved]
+(21) Promote cooperation and coordination between 1862, 1890, 1994, and NLGCA Institutions, HSACUs, and cooperating forestry schools and international partner institutions in developing countries by exercising the Secretary's authority in 7 U.S.C. 3292, including coordinating with the Director of the National Institute of Food and Agriculture and Administrator of the Agricultural Research Service to place interns from covered institutions in, or in service to benefit, developing countries.
 
 (22) Allocate the agricultural commodities acquired under price support programs that have been determined by the FSA Administrator to be available for export among the various export programs.
 
@@ -96,13 +96,13 @@
 
 (iv) Arranging for acquisition, and preparation of imagery for use to the extent of existing capabilities.
 
-(46) [Reserved]
+(46) Administer the International Agricultural Education Fellowship Program (7 U.S.C. 3295).
 
 (47) Implement section 3206 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 1726c) regarding local and regional food aid procurement projects.
 
 (48) Administer the Borlaug International Agricultural Science and Technology Fellowship Program (7 U.S.C. 3319j).
 
-(49) [Reserved]
+(49) Compile and make available information relating to the improvement of international food security, and provide technical assistance for the improvement of international food security to Federal, State, or local agencies; agencies or instrumentalities of the government of foreign country; domestic or international organizations; or intergovernmental organizations (7 U.S.C. 1736dd).
 
 (50) Administer the following provisions of the Agricultural Act of 2014, Public Law 113-79:
 
@@ -110,4 +110,8 @@
 
 (ii) Section 12315 relating to the Agriculture Wool Apparel Manufacturers Trust Fund (7 U.S.C. 7101 note), in coordination with the Administrator, Farm Service Agency.
 
+(51) In consultation with the Tribal Advisory Committee and the Director of the Office of Tribal Relations, and in coordination with the Secretaries of Commerce, State, Interior, and the heads of any other relevant Federal agencies, implement section 3312 of the Agriculture Improvement Act of 2018 (7 U.S.C. 5608) to support greater inclusion of Tribal agricultural food products in Federal trade activities.
+
 (b) [Reserved]
+
+[83 FR 22188, May 14, 2018, as amended at 85 FR 65524, Oct. 15, 2020]

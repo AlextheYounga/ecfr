@@ -1,7 +1,7 @@
-##### § 127.403 What happens if SBA verifies the concern's eligibility? #####
+##### § 127.403 When will SBA conduct program examinations? #####
 
-Link to an amendment published at 85 FR 27664, May 11, 2020.
+(a) SBA may conduct a program examination at any time after the concern submits its application, during the processing of the application, and at any time while the concern is a certified WOSB or EDWOSB.
 
-If SBA verifies that the concern satisfies the applicable EDWOSB or WOSB eligibility requirements, then the D/GC will send the concern a written decision to that effect and will allow the concern's EDWOSB or WOSB designation in SAM (or any successor system) to stand and the concern may continue to self-certify its EDWOSB or WOSB status.
+(b) SBA will conduct program examinations periodically as part of the recertification process set forth in § 127.400.
 
-[75 FR 62282, Oct. 7, 2010, as amended at 78 FR 61147, Oct. 2, 2013]
+[85 FR 27664, May 11, 2020]

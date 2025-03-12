@@ -1,5 +1,7 @@
 ##### § 1601.13 Filing; deferrals to State and local agencies. #####
 
+Link to an amendment published at 85 FR 65217, Oct. 15, 2020.
+
 (a) *Initial presentation of a charge to the Commission.* (1) Charges arising in jurisdictions having no FEP agency are filed with the Commission upon receipt. Such charges are timely filed if received by the Commission within 180 days from the date of the alleged violation.
 
 (2) A jurisdiction having a FEP agency without subject matter jurisdiction over a charge (e.g., an agency which does not cover sex discrimination or does not cover nonprofit organizations) is equivalent to a jurisdiction having no FEP agency. Charges over which a FEP agency has no subject matter jurisdiction are filed with the Commission upon receipt and are timely filed if received by the Commission within 180 days from the date of the alleged violation.

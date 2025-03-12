@@ -6,7 +6,7 @@
 
 (ii) Maintain liaison with the Congress and the White House on legislative Matters of concern to the Department.
 
-(2) *Related to intergovernmental affairs.* (i) Coordinate all programs involving intergovernmental affairs including State and local government relations and liaison with:
+(2)*Related to intergovernmental affairs.* (i) Coordinate all programs involving intergovernmental affairs including State and local government relations and liaison with:
 
 (A) National Association of State Departments of Agriculture;
 

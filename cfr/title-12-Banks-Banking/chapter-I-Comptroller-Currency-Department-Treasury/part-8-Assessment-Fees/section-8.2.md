@@ -2,25 +2,23 @@
 
 (a) Each national bank and each Federal savings association shall pay to the OCC a semiannual assessment fee, due by March 31 and September 30 of each year, for the six-month period beginning on January 1 and July 1 before each payment date. The OCC will calculate the amount due under this section and provide a notice of assessments to each national bank and each Federal savings association no later than 7 business days prior to collection on March 31 and September 30 of each year. In setting assessments, the OCC may take into account the nature and scope of the activities of a national bank or Federal savings association, the amount and type of assets that the entity holds, the financial and managerial condition of the entity, and any other factor the OCC determines is appropriate, as provided by 12 U.S.C. 16. The semiannual assessment will be calculated as follows:
 
-Table 1 to Paragraph (a)
-
-|If the national bank's or Federal savings association's total assets (consolidated domestic and foreign subsidiaries) are:|The semiannual assessment is:|                         |                   |                |
-|--------------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------------------|-------------------|----------------|
-|                                                          Over -                                                          |       But not over -        |This amount - base amount|Plus marginal rates|Of excess over -|
-|                                                         Column A                                                         |          Column B           |        Column C         |     Column D      |    Column E    |
-|                                                         Million                                                          |           Million           |                         |                   |    Million     |
-|                                                        (dollars)                                                         |          (dollars)          |        (dollars)        |                   |   (dollars)    |
-|                                                            0                                                             |              2              |           X1            |         0         |                |
-|                                                            2                                                             |             20              |           X2            |        Y1         |       2        |
-|                                                            20                                                            |             100             |           X3            |        Y2         |       20       |
-|                                                           100                                                            |             200             |           X4            |        Y3         |      100       |
-|                                                           200                                                            |            1,000            |           X5            |        Y4         |      200       |
-|                                                          1,000                                                           |            2,000            |           X6            |        Y5         |     1,000      |
-|                                                          2,000                                                           |            6,000            |           X7            |        Y6         |     2,000      |
-|                                                          6,000                                                           |           20,000            |           X8            |        Y7         |     6,000      |
-|                                                          20,000                                                          |           40,000            |           X9            |        Y8         |     20,000     |
-|                                                          40,000                                                          |           250,000           |           X10           |        Y9         |     40,000     |
-|                                                         250,000                                                          |                             |           X11           |        Y10        |    250,000     |
+|If the national bank's or Federal savings association's total assets (consolidated domestic and foreign subsidiaries) are:|The semiannual assessment is:|                       |                   |               |
+|--------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----------------------|-------------------|---------------|
+|                                                          Over—                                                           |        But not over—        |This amount—base amount|Plus marginal rates|Of excess over—|
+|                                                         Column A                                                         |          Column B           |       Column C        |     Column D      |   Column E    |
+|                                                         Million                                                          |           Million           |                       |                   |    Million    |
+|                                                        (dollars)                                                         |          (dollars)          |       (dollars)       |                   |   (dollars)   |
+|                                                            0                                                             |              2              |          X1           |         0         |               |
+|                                                            2                                                             |             20              |          X2           |        Y1         |       2       |
+|                                                            20                                                            |             100             |          X3           |        Y2         |      20       |
+|                                                           100                                                            |             200             |          X4           |        Y3         |      100      |
+|                                                           200                                                            |            1,000            |          X5           |        Y4         |      200      |
+|                                                          1,000                                                           |            2,000            |          X6           |        Y5         |     1,000     |
+|                                                          2,000                                                           |            6,000            |          X7           |        Y6         |     2,000     |
+|                                                          6,000                                                           |           20,000            |          X8           |        Y7         |     6,000     |
+|                                                          20,000                                                          |           40,000            |          X9           |        Y8         |    20,000     |
+|                                                          40,000                                                          |           250,000           |          X10          |        Y9         |    40,000     |
+|                                                         250,000                                                          |                             |          X11          |        Y10        |    250,000    |
 
 (1) Every national bank and every Federal savings association falls into one of the asset-size brackets denoted by Columns A and B. A national bank's or Federal savings association's semiannual assessment is composed of two parts. The first part is the calculation of a base amount of the assessment, which is computed on the assets of the national bank or Federal savings association up to the lower endpoint (Column A) of the bracket in which it falls. This base amount of the assessment is calculated by the OCC in Column C.
 
@@ -34,7 +32,7 @@ Assessments = C + [(Assets − E) × D].
 
 (5)(i) The specific marginal rates and complete assessment schedule will be published in the “Notice of Office of the Comptroller of the Currency Fees and Assessments,” provided for at § 8.8. Each semiannual assessment is based upon the total assets shown in the national bank's or Federal savings association's most recent “Consolidated Reports of Condition and Income” (Call Report) preceding the payment date. Each national bank or Federal savings association subject to the jurisdiction of the OCC on the date of the second or fourth quarterly Call Report as appropriate, required by the OCC under 12 U.S.C. 161 and 12 U.S.C. 1464(v), is subject to the full assessment for the next six-month period. National banks and Federal savings associations that are no longer subject to the jurisdiction of the OCC as of the date of the first or third quarterly Call Report, as appropriate, will receive a refund of assessments for the second three months of the semiannual assessment period.
 
-(ii) Notwithstanding paragraph (a)(5)(i) of this section, the semiannual assessment for each national bank or Federal savings association due on September 30, 2020, will be based upon the lesser of total assets shown in the national bank's or Federal savings association's December 31, 2019, Call Report or June 30, 2020, Call Report.
+(ii) [Reserved]
 
 (6)(i) Notwithstanding any other provision of this part, the OCC may reduce the semiannual assessment for each non-lead national bank or non-lead Federal savings association by a percentage that it will specify in the “Notice of Office of the Comptroller of the Currency Fees and Assessments” described in § 8.8.
 
@@ -54,7 +52,7 @@ Assessments = C + [(Assets − E) × D].
 
 (3)(i) Each semiannual assessment of each Federal branch and each agency is based upon the total assets shown in the Federal branch's or agency's Call Report most recently preceding the payment date. Each Federal branch or agency subject to the jurisdiction of the OCC on the date of the second and fourth Call Reports is subject to the full assessment for the next six-month period. Federal branches and agencies that are no longer subject to the jurisdiction of the OCC as of the date of the first or third quarterly Call Report, as appropriate, will receive a refund of assessments for the second three months of the semiannual assessment period.
 
-(ii) Notwithstanding paragraph (b)(3)(i) of this section, the semiannual assessment for each Federal branch and each agency due on September 30, 2020, will be based upon the lesser of total assets shown in the Federal branch's or agency's December 31, 2019, Call Report or June 30, 2020, Call Report.
+(ii) [Reserved]
 
 (4)(i) Notwithstanding any other provision of this part, the OCC may reduce the semiannual assessment for each non-lead Federal branch and agency by an amount that it will specify in the “Notice of Office of the Comptroller of the Currency Fees and Assessments” described in § 8.8.
 
@@ -64,7 +62,7 @@ Assessments = C + [(Assets − E) × D].
 
 (B) *Non-lead Federal branch or agency* means a Federal branch or agency that is not the lead Federal branch or agency of a foreign bank that controls two or more Federal branches or agencies.
 
-(c) *Additional assessment for independent credit card national banks and independent credit card Federal savings associations* - (1) *General rule.* In addition to the assessment calculated according to paragraph (a) of this section, each independent credit card national bank and independent credit card Federal savings association will pay an assessment based on receivables attributable to credit card accounts owned by the national bank or Federal savings association. This assessment will be computed by adding to its asset-based assessment an additional amount determined by its level of receivables attributable. The dollar amount of the additional assessment will be published in the “Notice of Office of the Comptroller of the Currency Fees and Assessments,” described at § 8.8.
+(c) *Additional assessment for independent credit card national banks and independent credit card Federal savings associations*—(1) *General rule.* In addition to the assessment calculated according to paragraph (a) of this section, each independent credit card national bank and independent credit card Federal savings association will pay an assessment based on receivables attributable to credit card accounts owned by the national bank or Federal savings association. This assessment will be computed by adding to its asset-based assessment an additional amount determined by its level of receivables attributable. The dollar amount of the additional assessment will be published in the “Notice of Office of the Comptroller of the Currency Fees and Assessments,” described at § 8.8.
 
 (2) *Independent credit card national banks and independent credit card Federal savings associations affiliated with full-service national banks or Federal savings associations.* The OCC will assess an independent credit card national bank and an independent credit card Federal savings association in accordance with paragraph (c)(1) of this section, notwithstanding that the national bank or Federal savings association is affiliated with a full-service national bank or full-service Federal savings association, if the OCC concludes that the affiliation is intended to evade this part.
 
@@ -88,18 +86,10 @@ Assessments = C + [(Assets − E) × D].
 
 (4) *Reports of receivables attributable.* Independent credit card national banks and independent credit card Federal savings associations will report receivables attributable data to the OCC semiannually at a time specified by the OCC.
 
-(d) *Surcharge based on the condition of the national bank, Federal savings association, or Federal branch or agency.* Subject to any limit that the OCC prescribes in the “Notice of Office of the Comptroller of the Currency Fees and Assessments,” the OCC shall apply a surcharge to the semiannual assessment computed in accordance with paragraphs (a) through (c) of this section. This surcharge will be determined by multiplying the semiannual assessment computed in accordance with paragraphs (a) through (c) of this section by -
+(d) *Surcharge based on the condition of the national bank, Federal savings association, or Federal branch or agency.* Subject to any limit that the OCC prescribes in the “Notice of Office of the Comptroller of the Currency Fees and Assessments,” the OCC shall apply a surcharge to the semiannual assessment computed in accordance with paragraphs (a) through (c) of this section. This surcharge will be determined by multiplying the semiannual assessment computed in accordance with paragraphs (a) through (c) of this section by—
 
 (1) 1.5, in the case of any national bank or Federal savings association that receives a composite rating of 3 under the Uniform Financial Institutions Rating System (UFIRS) and any Federal branch or agency that receives a composite rating of 3 under the ROCA rating system (which rates risk management, operational controls, compliance, and asset quality) at its most recent examination prior to December 31 or June 30, as appropriate; and
 
 (2) 2.0, in the case of any national bank or Federal savings association that receives a composite UFIRS rating of 4 or 5 and any Federal branch or agency that receives a composite rating of 4 or 5 under the ROCA rating system at its most recent examination prior to December 31 or June 30, as appropriate.
 
-[76 FR 43566, July 21, 2011, as amended at 79 FR 38772, July 9, 2014; 84 FR 43478, Aug. 21, 2019; 85 FR 37734, June 24, 2020]Effective Date Note:At 85 FR 37734, June 24, 2020, effective until Oct. 15, 2020, § 8.2 was amended by:
-
-a. Redesignating paragraph (a)(5) as paragraph (a)(5)(i);
-
-b. Adding paragraph (a)(5)(ii);
-
-c. Redesignating paragraph (b)(3) as paragraph (b)(3)(i); and
-
-d. Adding paragraph (b)(3)(ii).
+[76 FR 43566, July 21, 2011, as amended at 79 FR 38772, July 9, 2014; 84 FR 43478, Aug. 21, 2019; 85 FR 37734, June 24, 2020]

@@ -1,5 +1,7 @@
 ##### § 1601.75 Certification of designated FEP agencies. #####
 
+Link to an amendment published at 85 FR 65219, Oct. 15, 2020.
+
 (a) The Commission may certify designated FEP agencies based upon the past, satisfactory performance of those agencies. The effect of such certification is that the Commission shall accept the findings and resolutions of designated FEP agencies in regard to cases processed under contracts with those agencies without individual, case-by-case substantial weight review by the Commission except as provided in §§ 1601.76 and 1601.77 of this part.
 
 (b) Eligibility criteria for certification of a designated FEP agency are as follows:

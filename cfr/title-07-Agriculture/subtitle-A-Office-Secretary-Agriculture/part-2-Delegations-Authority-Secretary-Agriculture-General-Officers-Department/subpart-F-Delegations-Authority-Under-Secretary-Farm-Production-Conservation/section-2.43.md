@@ -12,7 +12,7 @@
 
 (2) Provide national leadership in evaluating and coordinating land use policy, and administer the Farmland Protection Policy Act (7 U.S.C. 4201 *et seq.*), including the Farms for the Future Program authorized by sections 1465-1470 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 4201 note), except as otherwise delegated to the Administrator, Agricultural Research Service in § 2.65(a)(80) and the Director, National Institute of Food and Agriculture in § 2.66(a)(76).
 
-(3) Administer the basic program of soil and water conservation under Public Law No. 46, 74th Congress, as amended, and related laws (16 U.S.C. 590a-f, 1-1, q, q-1; 42 U.S.C. 3271-3274; 7 U.S.C. 2201), including:
+(3) Administer the basic program of soil and water conservation under Public Law 74-46, as amended, and related laws (16 U.S.C. 590a-f, q, q-1; 42 U.S.C. 3271-3274; 7 U.S.C. 2201), including:
 
 (i) Technical and financial assistance to land users in carrying out locally adapted soil and water conservation programs primarily through soil and water conservation districts in the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the Virgin Islands, and Federally recognized Native American tribes, but also to communities, watershed groups, Federal and State agencies, and other cooperators. This authority includes such assistance as:
 
@@ -46,7 +46,7 @@
 
 (4) Administer the Watershed Protection and Flood Prevention Programs, including:
 
-(i) The eleven authorized watershed projects authorized under 33 U.S.C. 702b-1, except for responsibilities assigned to the Forest Service;
+(i) The eleven authorized watershed projects authorized under the Flood Control Act of 1944 (Pub. L. 78-534), except for responsibilities assigned to the Forest Service;
 
 (ii) The emergency flood control work under 33 U.S.C. 701b-1, except for responsibilities assigned to the Forest Service;
 
@@ -60,7 +60,7 @@
 
 (vii) The Emergency Conservation Program and the Emergency Watershed Protection Program under sections 401-405 of the Agricultural Credit Act of 1978, 16 U.S.C. 2201-2205, except for the provisions of sections 401 and 402, 16 U.S.C. 2201-2202, as administered by the Farm Service Agency.
 
-(5) Administer the Great Plains Conservation Program and the Critical Lands Resources Conservation Program under 16 U.S.C. 590p(b).
+(5) [Reserved]
 
 (6) Administer the Resource Conservation and Development Program under 16 U.S.C. 590a-f; 7 U.S.C. 1010-1011; and 16 U.S.C. 3451-3461, except for responsibilities assigned to the Rural Utilities Service.
 
@@ -90,31 +90,31 @@
 
 (13) Administer natural resources conservation authorities, including authorities related to programs of the Commodity Credit Corporation that provide assistance with respect to natural resources conservation, under Title XII of the Food Security Act of 1985 (the Act), as amended (16 U.S.C. 3801 *et seq.*), including the following:
 
-(i) Technical assistance related to the conservation of highly erodible lands and wetlands pursuant to sections 1211-1223 of the Act (16 U.S.C. 3811-3823);
+(i) Technical assistance related to the conservation of highly erodible lands and wetlands pursuant to sections 1211-1224 of the Act (16 U.S.C. 3811-3824);
 
-(ii) Technical assistance related to the Conservation Reserve Program authorized by sections 1231-1235A of the Act (16 U.S.C. 3831-3835a);
+(ii) Technical assistance related to the Conservation Reserve Program authorized by sections 1231-1235 of the Act (16 U.S.C. 3831-3835);
 
-(iii) The Wetlands Reserve Program and the Emergency Wetlands Reserve Program authorized by sections 1237-1237F of the Act (16 U.S.C. 3837-3837f) and the Emergency Supplemental Appropriations for Relief from the Major, Widespread Flooding in the Midwest Act, Public Law 103-75;
+(iii) The Wetlands Reserve Program and the Emergency Wetlands Reserve Program authorized by sections 1237-1237F of the Act (16 U.S.C. 3837-3837f) prior to February 7, 2014, the transition authority under section 2703 of the Agricultural Act of 2014, and the Emergency Supplemental Appropriations for Relief from the Major, Widespread Flooding in the Midwest Act, Public Law 103-75;
 
-(iv) The Conservation Security Program authorized by sections 1238-1238C (16 U.S.C. 3838-3838c) and the Conservation Stewardship Program authorized by sections 1238D-1238G (16 U.S.C. 3838d-3838g).
+(iv) The Conservation Security Program authorized by sections 1238-1238C of the Act (16 U.S.C. 3838-3838c) and the Conservation Stewardship Program authorized by sections 1240I-1240L-1 (16 U.S.C. 3839aa-21—3839aa-25).
 
-(v) The Farmland Protection Program authorized by sections 1238H-1238I of the Act (16 U.S.C. 3838h-3838i);
+(v) The Farmland Protection Program authorized by sections 1238H-1238I of the Act (16 U.S.C. 3838h-3838i) prior to February 7, 2014, and the transition authority under section 2704 of the Agricultural Act of 2014;
 
-(vi) The Farm Viability Program authorized by section 1238J of the Act (16 U.S.C. 3838j);
+(vi) The Farm Viability Program authorized by section 1238J of the Act (16 U.S.C. 3838j) prior to February 7, 2014, and the transition authority under section 2704 of the Agricultural Act of 2014;
 
-(vii) The Environmental Easement Program authorized by sections 1239-1239D of the Act (16 U.S.C. 3839-3839d);
+(vii) The Environmental Quality Incentives Program authorized by sections 1240-1240H of the Act (16 U.S.C. 3839aa-3839aa-8), the Agricultural Water Enhancement Program authorized by section 1240H of the Act (16 U.S.C. 3839aa-9) prior to February 7, 2014, and section 2706 of the Agricultural Act of 2014;
 
-(viii) The Environmental Quality Incentives Program authorized by sections 1240-1240I of the Act (16 U.S.C. 3839aa-3839aa-9);
+(viii) The conservation of private grazing lands authorized by section 1240M of the Act (16 U.S.C. 3839bb);
 
-(ix) The conservation of private grazing lands authorized by section 1240M of the Act (16 U.S.C. 3839bb);
+(ix) The Wildlife Habitat Incentives Program authorized by section 1240N of the Act (16 U.S.C. 3839bb-1) prior to February 7, 2014 and Section 2707 of the Agricultural Act of 2014;
 
-(x) The Wildlife Habitat Incentives Program authorized by section 1240N of the Act (16 U.S.C. 3839bb-1);
+(x) The program for soil erosion and sedimentation control in the Great Lakes basin authorized by section 1240P of the Act (16 U.S.C. 3839bb-3) prior to February 7, 2014, and section 2708 of the Agricultural Act of 2014;
 
-(xi) The program for soil erosion and sedimentation control in the Great Lakes basin authorized by section 1240P of the Act (16 U.S.C. 3839bb-3);
+(xi) The Chesapeake Bay Watershed Program authorized by section 1240Q of the Act (16 U.S.C. 3839bb-4) prior to February 7, 2014, and section 2709 of the Agricultural Act of 2014;
 
 (xii) The delivery of technical assistance under section 1242 of the Act (16 U.S.C. 3842), including the approval of persons or entities outside of USDA to provide technical services;
 
-(xiii) The authority for partnerships and cooperation provided by section 1243 of the Act (16 U.S.C. 3843); and
+(xiii) The authority for partnerships and cooperation provided by section 1243 of the Act (16 U.S.C. 3843) prior to February 7, 2014, and section 2710 of the Agricultural Act of 2014; and
 
 (xiv) The incentives for certain farmers and ranchers and Indian tribes and the protection of certain proprietary information related to natural resources conservation programs as provided by section 1244 of the Act (16 U.S.C. 3844), except for responsibilities assigned to the Administrator, Farm Service Agency.
 
@@ -122,13 +122,13 @@
 
 (xvi) The authority under sections 1261-1262 of the Act (16 U.S.C. 3861-3862) to establish and utilize State Technical Committees.
 
-(xvii) Those portions of the Grassland Reserve Program under sections 1238N-1238Q of the Act (16 U.S.C. 3838n-3838q) that are or become the responsibility of the Under Secretary for Farm Production and Conservation.
+(xvii) Those portions of the Grassland Reserve Program under sections 1238N-1238Q of the Act (16 U.S.C. 3838n-3838q) prior to February 7, 2014, and section 2705 of the Agricultural Act of 2014 that are or become the responsibility of the Under Secretary for Farm Production and Conservation.
 
-(xviii) The authority in section 1241 of the Act (16 U.S.C. 3841) to accept and use voluntary contributions of non-Federal funds in support of natural resources conservation programs under subtitle D of title XII of the Act with respect to authorities delegated to the Chief, Natural Resources Conservation Service.
+(xiii) The authority in section 1241 of the Act (16 U.S.C. 3841) to accept and use voluntary contributions of non-Federal funds in support of natural resources conservation programs under subtitle D of title XII of the Act with respect to authorities delegated to the Chief, Natural Resources Conservation Service.
 
 (xix) The Agricultural Conservation Easement Program authorized by sections 1265-1265D of the Act (16 U.S.C. 3865-3865d).
 
-(xx) The Regional Conservation Partnership Program authorized by sections 1271-1271F (16 U.S.C. 3871-3871f).
+(xx) The Regional Conservation Partnership Program authorized by sections 1271-1271F of the Act (16 U.S.C. 3871-3871f).
 
 (xxi) The Voluntary Public Access and Habitat Incentive Program authorized by section 1240R of the Act (16 U.S.C. 3839bb-5).
 
@@ -138,7 +138,7 @@
 
 (15) Provide representation on the Water Resources Council and river basin commissions created by 42 U.S.C. 1962, and on river basin interagency committees.
 
-(16) [Reserved]
+(16) Administer the state and private forest landscape-scale restoration program (16 U.S.C. 2109a).
 
 (17) Administer the Water Bank Program under the Water Bank Act (16 U.S.C. 1301 *et seq.*).
 
@@ -180,7 +180,7 @@
 
 (xiii) Section 121 of the Act (42 U.S.C. 9621), with respect to cleanup standards; and
 
-(xiv) Section 122 of the Act (42 U.S.C. 9622), with respect to settlement, but excluding section 122(b)(1) of the Act (42 U.S.C. 9633(b)(1)), related to mixed funding agreements.
+(xiv) Section 122 of the Act (42 U.S.C. 9622), with respect to settlement, but excluding section 122(b)(1) of the Act.
 
 (24) With respect to facilities and activities under his or her authority, to exercise the authority of the Secretary of Agriculture pursuant to section 1-102 related to compliance with applicable pollution control standards and section 1-601 of Executive Order 12088, 3 CFR, 1978 Comp., p. 243, to enter into an inter-agency agreement with the United States Environmental Protection Agency, or an administrative consent order or a consent judgment in an appropriate United States District Court with an appropriate State, interstate, or local agency, containing a plan and schedule to achieve and maintain compliance with applicable pollution control standards established pursuant to the following:
 
@@ -216,6 +216,20 @@
 
 (30) Administer the Terminal Lakes assistance program authorized by section 2507 of the Farm Security and Rural Investment Act of 2002 (16 U.S.C. 3839bb-6).
 
+(31) Enter into cooperative agreements, which may provide for the acquisition of goods or services, including personal services, as authorized by Public Law 106-387 (7 U.S.C. 6962a).
+
+(32) Administer the following provisions of the Agriculture Improvement Act of 2018 (Pub. L. 116-334):
+
+(i) Section 1704 (7 U.S.C. 1308-3a), authorizing waivers of the adjusted gross income limitation.
+
+(ii) In consultation with the Administrator, Farm Service Agency, and the Director of the U.S. Fish and Wildlife Service, Section 2707 (16 U.S.C. 1531 note), relating to wildlife management.
+
+(iii) In coordination with the Under Secretary for Marketing and Regulatory Programs, Section 2408 (7 U.S.C. 8351 note), relating to the Feral Swine Eradication and Control Pilot Program.
+
+(iv) Section 8628, relating to the purchase of Natural Resources Conservation Service property in Riverside County, California.
+
+(v) Section 12302, relating to the Office of Urban Agriculture and Innovative Production.
+
 (b) *Reservations.* The following authorities are reserved to the Under Secretary for Farm Production and Conservation:
 
 (1) Executing cooperative agreements and memoranda of understanding for multi-agency cooperation with conservation districts and other districts organized for soil and water conservation within States, territories, possessions, and American Indian Nations.
@@ -224,4 +238,4 @@
 
 (3) Giving final approval to and transmitting to the Congress watershed work plans that require congressional approval.
 
-[83 FR 22185, May 14, 2018]
+[83 FR 22185, May 14, 2018, as amended at 85 FR 65515, Oct. 15, 2020]

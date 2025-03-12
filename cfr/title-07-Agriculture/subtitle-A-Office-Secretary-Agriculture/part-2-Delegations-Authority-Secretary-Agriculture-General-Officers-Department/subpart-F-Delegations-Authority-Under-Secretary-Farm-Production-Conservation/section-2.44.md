@@ -18,6 +18,8 @@
 
 (8) Administer the Federal Crop Insurance Act (7 U.S.C. 1501, *et seq.*), except for sections 524(a)(1)(B), (a)(3), and (b) (7 U.S.C. 1524(a)(1)(B), (a)(3), (b)) and 531 (7 U.S.C. 1531).
 
+(9) Coordinate with the Administrator, Farm Service Agency, on the type and format of data received under the noninsured crop assistance program authorized by Sec. 196 of the Federal Agriculture Improvement and Reform Act of 1996 (Pub. L 104-127, as amended) (7 U.S.C. 7333).
+
 (b) [Reserved]
 
-[62 FR 19901, Apr. 24, 1997, as amended at 74 FR 3407, Jan. 21, 2009; 79 FR 44113, July 30, 2014; 83 FR 22188, May 14, 2018]
+[62 FR 19901, Apr. 24, 1997, as amended at 74 FR 3407, Jan. 21, 2009; 79 FR 44113, July 30, 2014; 83 FR 22188, May 14, 2018; 85 FR 65516, Oct. 15, 2020]

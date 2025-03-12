@@ -1,29 +1,19 @@
-##### § 261.11 Records available for public inspection. #####
+##### § 261.11 Records available to the public upon request. #####
 
-(a) *Types of records made available.* Unless they were published promptly and made available for sale or without charge, the following records shall be made available for inspection in an electronic format:
+(a) *Procedures for requesting records.* (1) Requesters are encouraged to submit requests electronically by filling out the required information at *https://www.federalreserve.gov/secure/forms/efoiaform.aspx.* Alternatively, requests may be submitted in writing to the Office of the Secretary, Board of Governors of the Federal Reserve System, Attn: FOIA Requests, 20th Street and Constitution Avenue NW, Washington, DC 20551; or sent by facsimile to the Office of the Secretary, (202) 872-7565. Clearly mark the request FREEDOM OF INFORMATION ACT REQUEST.
 
-(1) Final opinions, including concurring and dissenting opinions, as well as final orders and written agreements, made in the adjudication of cases;
+(2) A request may not be combined with any other request or with any matter presented to the Board such as a protest on a pending application or a comment on a public rulemaking. It may, however, be combined with a request for records under the Privacy Act pursuant to 12 CFR 261a.5(a) or a request for discretionary release of confidential supervisory information pursuant to § 261.23.
 
-(2) Statements of policy and interpretations adopted by the Board that are not published in the Federal Register;
+(b) *Contents of request.* A request must include:
 
-(3) Administrative staff manuals and instructions to staff that affect the public;
+(1) The requester's name, address, daytime telephone number, and an email address if available.
 
-(4) Copies of all records, regardless of form or format -
+(2) A description of the records that enables the Board's staff to identify and produce the records with reasonable effort and without unduly burdening or significantly interfering with any of the Board's operations. Whenever possible, the request should include specific information about each record sought, such as the date, title or name, author, recipient, and subject matter of the record.
 
-(i) That have been released to any person under § 261.12; and
+(3) A statement agreeing to pay the applicable fees. If the information requested is not intended for a commercial use (as defined in § 261.16(d)(1)) and the requester seeks a reduction or waiver of fees because he or she is either a representative of the news media, an educational institution, or a noncommercial scientific institution, the requester should include the information called for in § 261.16(g)(2).
 
-(ii)(A) That because of the nature of their subject matter, the Board determines have become or are likely to become the subject of subsequent requests for substantially the same records; or
+(c) *Perfected and defective requests.* (1) The Board will consider the request to be perfected on the date the Office of the Secretary receives a request that contains all of the information required by paragraphs (b)(1) through (3) of this section.
 
-(B) That have been requested three or more times;
+(2) The Board need not accept or process a request that does not reasonably describe the records requested or that does not otherwise comply with the requirements of this section.
 
-(5) A general index of the records referred to in paragraph (a)(4) of this section; and
-
-(6) The public section of Community Reinvestment Act examination reports.
-
-(b) *Reading room procedures.* (1) Information available under this section is available for inspection and copying, from 9:00 a.m. to 5:00 p.m. weekdays, at the Freedom of Information Office of the Board of Governors of the Federal Reserve System, 20th Street and Constitution Avenue NW., Washington, DC 20551.
-
-(2) The Board may determine that certain classes of publicly available filings shall be made available for inspection and copying only at the Federal Reserve Bank where those records are filed.
-
-(c) *Privacy protection.* The Board may delete identifying details from any record to prevent a clearly unwarranted invasion of personal privacy.
-
-[62 FR 54359, 54361, Oct. 20, 1997, as amended at 81 FR 94933, Dec. 27, 2016]
+(3) The Board may return a defective request, specifying the deficiency. The requester may submit a corrected request, which will be treated as a new request.

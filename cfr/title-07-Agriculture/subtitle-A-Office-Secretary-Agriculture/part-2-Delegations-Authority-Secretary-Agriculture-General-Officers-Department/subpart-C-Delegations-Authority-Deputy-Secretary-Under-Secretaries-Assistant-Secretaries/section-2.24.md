@@ -2,119 +2,7 @@
 
 (a) The following delegations of authority are made by the Secretary of Agriculture to the Assistant Secretary for Administration:
 
-(1) [Reserved]
-
-(2) *Related to information technology and information resources.*
-
-(i) [Reserved]
-
-(ii) Oversee all information technology and information resource management activities relating to the programs and operations of the Department and component agencies. This oversight includes approving information technology investments, monitoring and evaluating the performance of those investments and information resource management activities, approval of all architectures and components thereto and determining whether to continue, modify, or terminate an information technology program or project.
-
-(iii) Provide advice and other assistance to the Secretary and other senior management personnel to ensure that information technology is acquired and managed for the Department consistent with chapter 35 of title 44, United States Code (Coordination of Federal Information Policy).
-
-(iv) Develop, implement, and maintain a sound and integrated Department-wide information technology architecture.
-
-(v) Promote the effective and efficient design and operation of all major information resources management processes for the Department, including improvements to work processes of the Department.
-
-(vi) Approve the acquisition or procurement of information technology resources by, or on behalf of, any Department agency or office.
-
-(vii) Collaborate with Department procurement personnel with respect to information technology acquisition strategy and policy.
-
-(viii) Designate the Major Information Technology Systems Executive in USDA to integrate and unify the management process for the Department's major information technology system acquisitions and to monitor implementation of the policies and practices set forth in Office of Management and Budget (OMB) Circular No. A-109, Major Systems Acquisitions, for information technology. This includes the authority to:
-
-(A) Ensure that OMB Circular No. A-109 is effectively implemented for information technology systems in the Department and that the management objectives of the Circular are realized.
-
-(B) Review the program management of each major information technology system acquisition.
-
-(C) Approve the appointment of the program manager for each major information technology systems acquisition.
-
-(D) Designate any Departmental information technology acquisition as a major system acquisition under OMB Circular No. A-109.
-
-(ix) On an annual basis:
-
-(A) Assess Department-wide personnel requirements regarding knowledge and skill in information resources management, and the adequacy of such requirements, to achieve the performance goals established for information resources management.
-
-(B) Develop strategies and specific plans for hiring, training, and professional development at the executive and management level to meet personnel information technology personnel requirements.
-
-(C) Report to the Secretary on progress made in improving information resources management capability.
-
-(x) Designate the senior official to carry out the responsibilities of the Department under chapter 35 of title 44, United States Code (Coordination of Federal Information Policy), including:
-
-(A) Ensure that the information policies, principles, standards, guidelines, rules and regulations prescribed by OMB are appropriately implemented within the Department.
-
-(B) Review proposed Department reporting and record keeping requirements, including those contained in rules and regulations, to ensure that they impose the minimum burden upon the public and have practical utility for the Department.
-
-(C) Develop and implement procedures for assessing the burden to the public and costs to the Department of information requirements contained in proposed legislation affecting Department programs.
-
-(D) Assist OMB in the performance of its functions assigned under the E-Government Act of 2002 (Pub. L. 107-347), including review of Department and Agency activities for compliance.
-
-(E) Assist OMB in the performance of its functions assigned under the Paperwork Reduction Act of 1995 (44 U.S.C. 3501-3520), including review of Department and Agency activities for compliance.
-
-(xi) The Assistant Secretary for Administration is also responsible for the following:
-
-(A) Provide Department-wide guidance and direction in planning, developing, documenting, and managing applications software projects in accordance with Federal and Department information processing standards, procedures, and guidelines.
-
-(B) Provide Department-wide guidance and direction in all aspects of information technology, including: Feasibility studies; economic analyses; systems design; acquisition of equipment, software, services, and timesharing arrangements; systems installation; systems performance and capacity evaluation; information technology investment governance; cybersecurity; and privacy. Monitor these activities for agencies' major systems development efforts to assure effective and economic use of resources and compatibility among systems of various agencies when required.
-
-(C) Manage the Enterprise Data Centers, including setting rates to recover the cost of goods and services within approved policy and funding levels; and oversee the delivery of Enterprise Data Center goods and services, with authority to take actions required by law or regulation to perform such services as a Working Capital Fund activity.
-
-(D) Manage a comprehensive set of end user office automation services, including setting rates to recover the cost of goods and services within approved policy and funding levels; and oversee the delivery of goods and services associated with end user office automation services, including desktop computers, enterprise networking support, handheld devices, and voice telecommunications, with authority to take actions required by law or regulation to perform such services as a Working Capital Fund activity.
-
-(E) Manage the Agricultural Security Operations Center to enable the Department to effectively monitor, detect, analyze, protect, report, and respond against known cyber vulnerabilities, attacks, and exploitations.
-
-(F) Manage the Department's Certification and Accreditation process to ensure the Department and agencies have successfully conducted periodic risk assessments of its systems; grant the authority to operate for systems that have successfully completed the Certification and Accreditation process; and rescind or suspend the authority to operate for systems subject to repeated and/or significant security issues.
-
-(G) Ensure that OMB Circular No. A-16, Coordination of Geographic Information and Related Spatial Data Activities, is effectively implemented in the Department and that the management objectives of the Circular are realized; and provide Department-wide guidance and direction in governing, developing, implementing, and maintaining a sound and integrated geospatial architecture.
-
-(H) Provide technical assistance, coordination, and guidance to Department agencies in planning, developing, and carrying out satellite remote sensing activities to ensure full consideration and evaluation of advanced technology; designate the Executive Secretary for the Remote Sensing Coordination Committee; and coordinate administrative, management, and budget information relating to the Department's remote sensing activities including:
-
-(*1*) Inter- and intra-agency meetings, correspondence, and records;
-
-(*2*) Budget and management tracking systems; and
-
-(*3*) Inter-agency contacts and technology transfer.
-
-(I) Review and evaluate information technology activities related to delegated functions to assure that they conform to all applicable Federal and Department information technology management policies, plans, standards, procedures, and guidelines.
-
-(J) Design, develop, implement, and revise systems, processes, work methods, and techniques to improve the management and operational effectiveness of information resources.
-
-(K) Administer the Departmental records, forms, reports and Directives Management Programs.
-
-(L) Manage all aspects of the USDA Telecommunications Program including planning, development, acquisition, and use of equipment and systems for voice, data, and communications, excluding the actual procurement of data transmission equipment, software, maintenance, and related supplies.
-
-(M) Manage Departmental telecommunications contracts.
-
-(N) Provide technical advice throughout the Department.
-
-(O) Implement a program for applying information resources management technology to improve productivity in the Department.
-
-(P) Plan, develop, install, and operate computer-based systems for message exchange, scheduling, computer conferencing, televideo technologies, and other applications of office automation technology which can be commonly used by multiple Department agencies and offices.
-
-(Q) Represent the Department in contacts with the Government Accountability Office, the General Services Administration, OMB, the National Institute of Standards and Technology, and other organizations or agencies on matters related to delegated responsibilities.
-
-(xii) Implement policies established pursuant to paragraphs (a)(2)(ii) through (a)(2)(xi) of this section by:
-
-(A) Disposing of information technology that is acquired by a Department agency in violation of procedures or standards for the Department Information Systems Technology Architecture.
-
-(B) Establishing information technology and information resources management performance standards for agency Chief Information Officers, information resources managers, and project managers to be used in the performance appraisal process.
-
-(C) Approving the selection of agency Chief Information Officers and agency major information technology system project managers in accordance with OMB policies.
-
-(D) Providing recommendations to Agency Heads for the removal or replacement of information technology project managers, when, in the opinion of the Assistant Secretary for Administration, applicable laws and policies are being violated, or, when the cost, schedule, or performance of an information technology project would indicate management deficiencies.
-
-(E) Withdrawing agencies' authority to obligate funds on Information Technology programs or projects if the agency violates the Assistant Secretary for Administration policies, standards, or Department Information Systems Technology Architecture.
-
-(F) Requiring agencies to validate and verify major information technology systems through the use of an existing contract for such purpose designated by the Assistant Secretary for Administration.
-
-(G) Requiring approval by the Assistant Secretary for Administration of any proposed acquisition of information technology (whether through the award or modification of a procurement contract, a cooperative or other agreement with a non-Federal party, or an interagency agreement) to ensure technical conformance to the Department technical architecture.
-
-(H) Providing guidance to USDA regarding implementation of Section 508 of the Rehabilitation Act, as well as on-going consultative assistance regarding information technology accessibility, and reviewing progress made toward achieving information technology accessibility for USDA employees and individuals with disabilities.
-
-(xiii) *Related to the Privacy Act.* Appoint a Department Privacy Act Officer; oversee general officers and agency heads in the development and implementation of policies issued pursuant to the provisions of the Privacy Act, 5 U.S.C. 552a; and provide consultation and guidance regarding those policies.
-
-(xiv) *Related to the Freedom of Information Act.* Designate the Chief Freedom of Information Act Officer for the Department; oversee general officers and agency heads in efficient and appropriate compliance with the provisions of the Freedom of Information Act (5 U.S.C. 552); monitor implementation of 5 U.S.C. 552 throughout the agency and keep the Secretary, the General Counsel, and the Attorney General informed regarding agency performance in its implementation; recommend to the Secretary necessary adjustments to agency practices, policies, personnel, and funding to improve implementation of 5 U.S.C. 552; review and report to the Attorney General, through the Secretary, as the Attorney General may direct; and facilitate public understanding of the purposes of the statutory exemptions contained in 5 U.S.C. 552.
-
-(3) [Reserved]
+(1)-(3) [Reserved]
 
 (4) *Related to human resources management.* (i) Formulate and issue Department policy, standards, rules, and regulations relating to human resources management.
 
@@ -272,6 +160,8 @@
 
 (xxi) Redelegate, as appropriate, any authority delegated under paragraphs (a)(4)(i) through (a)(4)(xx) to general officers of the Department and heads of Departmental agencies.
 
+(xxii) Exercise the authority to noncompetitively convert to an appointment in the competitive service a recent graduate or student who is a United States citizen and has been awarded and successfully completed a scholarship program granted to the individual by the Department through the 1890 National Scholars Program or the 1994 Tribal Scholars Program, provided the individual meets the requirements for such conversion and meets Office of Personnel Management qualification standards, as determined by the Assistant Secretary for Administration (7 U.S.C. 2279j).
+
 (5) *Related to small and disadvantaged business utilization.* Provide general administrative support to the Office of Small and Disadvantaged Business Utilization, consistent with the other delegations of authority to the Assistant Secretary for Administration in this section.
 
 (6) *Related to procurement and property management.* (i) Exercise full Departmentwide contracting and procurement authority.
@@ -296,9 +186,7 @@
 
 (I) Development and implementation of sustainable operations actions including establishing and achieving greenhouse gas emission reduction goals, reducing energy intensity, increasing renewable energy use, increasing water efficiency, reducing petroleum use and increasing alternative fuel use, increasing recycling and waste diversion, preventing pollution, reducing use of toxic chemicals, procuring sustainable products and services, achieving sustainable principles for new and existing buildings, promoting electronic stewardship, and continuing environmental management system use. Maintain liaison with the Office of the Federal Environmental Executive, the Council on Environmental Quality, the Office of Management and Budget (OMB), the Department of Energy, and other Government agencies in these matters.
 
-(J) Implementation of a program for the Federal procurement of biobased products and of a voluntary “USDA Certified Biobased Product” labeling program (7 U.S.C. 8102).
-
-(K) Entering into cooperative agreements to further research programs in the food and agricultural sciences, related to establishing and implementing Federal biobased procurement and voluntary biobased labeling programs (7 U.S.C. 3318).
+(J)-(K) [Reserved]
 
 (L) Implementation of the policies and procedures set forth in OMB Circular No. A-76, Performance of Commercial Activities.
 
@@ -444,9 +332,25 @@
 
 (7) [Reserved]
 
-(8) *Related to homeland security, personnel and document security, and emergency coordination.* (i) Provide administrative supervision to the unit that grants, denies, or revokes security clearances for USDA employees and contractors.
+(8) *Related to homeland security, personnel and document security, and emergency coordination.* (i) Serve as the principal advisor to the Secretary on homeland security, including emergency management and agriculture and food defense;
 
-(ii) Administer the Department Emergency Preparedness Program. This includes:
+(ii) Coordinate activities of the Department, including policies, processes, budget needs, and oversight relating to homeland security, including emergency management and agriculture and food defense;
+
+(iii) Act as the primary liaison on behalf of the Department with other Federal departments and agencies in activities relating to homeland security, including emergency management and agriculture and food defense, and provide for interagency coordination and data sharing;
+
+(iv) Coordinate in the Department the gathering of information relevant to early warning and awareness of threats and risks to the food and agriculture critical infrastructure sector; and share that information with, and provide assistance with interpretation and risk characterization of that information to, the intelligence community (as defined in 5 U.S.C. 3003), law enforcement agencies, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Health and Human Services, and State fusion centers (as defined in section 210A(j) of the Homeland Security Act of 2002 (6 U.S.C. 124h(j));
+
+(v) Liaise with the Director of National Intelligence to assist in the development of periodic assessments and intelligence estimates, or other intelligence products, that support the defense of the food and agriculture critical infrastructure sector;
+
+(vi) Coordinate the conduct, evaluation, and improvement of exercises to identify and eliminate gaps in preparedness and response;
+
+(vii) Produce a Department-wide centralized strategic coordination plan to provide a high-level perspective of the operations of the Department relating to homeland security, including emergency management and agriculture and food defense; and
+
+(viii) Establish and carry out an interagency Agriculture and Food Threat Awareness Partnership Program, including by entering into cooperative agreements or contracts with Federal, State, or local authorities (7 U.S.C. 6922).
+
+(ix) Provide administrative supervision to the unit that grants, denies, or revokes security clearances for USDA employees and contractors.
+
+(x) Administer the Department Emergency Preparedness Program. This includes:
 
 (A) Coordinate the delegations and assignments made to the Department under the Defense Production Act of 1950, 50 U.S.C. App. 2061, *et seq.;* the Robert T. Stafford Disaster Relief and Emergency Assistance Act, 42 U.S.C. 5121, *et seq.;* and by Executive Orders 12148, “Federal Emergency Management” (3 CFR, 1979 Comp., p. 412), 12656, “Assignment of Emergency Preparedness Responsibilities” (3 CFR, 1988 Comp., p. 585), and 13603, “National Defense Resources Preparedness” (3 CFR, 2012 Comp., p. 225), or any successor to these Executive Orders, to ensure that the Department has sufficient capabilities to respond to any occurrence, including natural disaster, military attack, technological emergency, or any all hazards incident.
 
@@ -482,7 +386,7 @@
 
 (vi) Oversee the Department's ability to collect and disseminate information and prepare for an agricultural disease emergency, agroterrorist act, or other threat to agricultural biosecurity, and coordinate such activities among agencies and offices within the Department (7 U.S.C. 8912).
 
-(vii) [Reserved]
+(vii) Carry out protection operations for the Secretary, Deputy Secretary, and other individuals as specified in Section 12520 of the Agriculture Improvement Act of 2018, including by authorizing law enforcement officers or special agents to carry firearms; conduct criminal investigations into potential threats to the security of individuals protected under Section 12520; make arrests without a warrant for any offense against the United States committed in the presence of the law enforcement officer or special agent; perform protective intelligence work, including identifying and mitigating potential threats and conducting advance work to review security matters relating to sites and events; and coordinate with local law enforcement authorities (7 U.S.C. 2279k).
 
 (viii) Promulgate Departmental policies, standards, techniques, and procedures; and represent the Department in maintaining the security of physical facilities and providing security guidance to the Food and Agricultural Sector nationwide.
 
@@ -516,9 +420,9 @@
 
 (x) Provide for the development and administration of a Public Trust program for the safeguarding of national security information:
 
-(A) Direct and administer USDA's public trust program established pursuant to 5 CFR part 731 and Executive Order 13488, “Granting Reciprocity on Excepted Service and Federal Contractor Employee Fitness and Reinvestigating Individuals in Positions of Public Trust” (74 FR 4111, Jan. 22, 2009).
+(A) Direct and administer USDA's public trust program established pursuant to 5 CFR part 731 and Executive Order 13488, “Granting Reciprocity on Excepted Service and Federal Contractor Employee Fitness and Reinvestigating Individuals in Positions of Public Trust” (74 FR 4111, 3 CFR, 2010 Comp., p. 189).
 
-(B) Direct and administer USDA's program under which information is safeguarded pursuant to Executive Order 13526, “Classified National Security Information” (75 FR 707, Jan. 5, 2010), or subsequent orders.
+(B) Direct and administer USDA's program under which information is safeguarded pursuant to Executive Order 13526, “Classified National Security Information” (75 FR 707, 3 CFR, Comp. 2010, p. 298), or subsequent orders.
 
 (C) Establish and maintain Information Security policies and procedures for classifying, declassifying, safeguarding, and disposing of classified national security information and materials.
 
@@ -618,7 +522,7 @@
 
 (13) *Other general.* (i) Carry out prize competition authorities in section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) related to functions otherwise delegated to the Assistant Secretary for Administration, except for authorities delegated to the Chief Financial Officer in § 2.28(a)(29) and authorities reserved to the Secretary in paragraph (b)(3) of this section.
 
-(ii) [Reserved]
+(ii) Provide Departmentwide coordination for efforts to improve customer service.
 
 (b) The following authorities are reserved to the Secretary of Agriculture:
 
@@ -642,4 +546,4 @@
 
 (ii) [Reserved]
 
-[75 FR 43368, July 23, 2010, as amended at 77 FR 14951,14952, Mar. 14, 2012; 78 FR 40937, July 9, 2013; 79 FR 44109, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 83 FR 61311, Nov. 29, 2018]
+[75 FR 43368, July 23, 2010, as amended at 77 FR 14951,14952, Mar. 14, 2012; 78 FR 40937, July 9, 2013; 79 FR 44109, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 83 FR 61311, Nov. 29, 2018; 85 FR 65510, Oct. 15, 2020]Editorial Note:At 85 FR 65510, Oct. 15, 2020, § 2.24 was amended by revising paragraph (a)(8) however, there is some extra text included after paragraph (a)(8)(x)(M) starting with paragraph (iii). There is already a paragraph (iii) earlier in the revision.

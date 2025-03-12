@@ -14,10 +14,6 @@
 
 (v) Development and implementation of sustainable operations actions including establishing and achieving greenhouse gas emission reduction goals, reducing energy intensity, increasing renewable energy use, increasing water efficiency, reducing petroleum use and increasing alternative fuel use, increasing recycling and waste diversion, preventing pollution, reducing use of toxic chemicals, procuring sustainable products and services, achieving sustainable principles for new and existing buildings, promoting electronic stewardship, and continuing environmental management system use. Maintain liaison with the Office of the Federal Environmental Executive, the Council on Environmental Quality, the Office of Management and Budget (OMB), the Department of Energy, and other Government agencies in these matters.
 
-(vi) Implementation of a program for the Federal procurement of biobased products and of a voluntary “USDA Certified Biobased product” labeling program (7 U.S.C. 8102).
-
-(vii) Entering into cooperative agreements to further research programs in the food and agricultural sciences, related to establishing and implementing Federal biobased procurement and voluntary biobased labeling programs (7 U.S.C. 3318).
-
 (2) Exercise the following special authorities:
 
 (i) Maintain custody and permit appropriate use of the official seal of the Department.
@@ -70,4 +66,4 @@
 
 (b) [Reserved]
 
-[83 FR 61315, Nov. 29, 2018]
+[83 FR 61315, Nov. 29, 2018, as amended at 85 FR 65521, Oct. 15, 2020]

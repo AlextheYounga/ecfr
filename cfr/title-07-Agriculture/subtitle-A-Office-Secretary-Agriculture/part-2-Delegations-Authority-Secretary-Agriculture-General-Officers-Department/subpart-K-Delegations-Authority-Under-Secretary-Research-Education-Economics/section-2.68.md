@@ -38,6 +38,8 @@
 
 (13) Assist the Administrator, Economic Research Service with implementing section 10016 of the Agricultural Act of 2014 regarding locally or regionally produced agricultural food products (7 U.S.C. 2204h).
 
+(14) Collect and, not less frequently than once every 3 years report, data and analysis on farmland ownership, tenure, transition, and entry of beginning farmers and ranchers and socially disadvantaged farmers and ranchers (7 U.S.C. 2204i).
+
 (b) *Reservation.* The following authority is reserved to the Under Secretary for Research, Education, and Economics: Review all proposed decisions having substantial economic policy implications.
 
-[60 FR 56393, Nov. 8, 1995, as amended at 62 FR 65596, Dec. 15, 1997; 65 FR 5418, Feb. 4, 2000; 68 FR 27446, May 20, 2003; 74 FR 3410, Jan. 21, 2009; 77 FR 40250, July 9, 2012; 79 FR 44116, July 30, 2014]
+[60 FR 56393, Nov. 8, 1995, as amended at 62 FR 65596, Dec. 15, 1997; 65 FR 5418, Feb. 4, 2000; 68 FR 27446, May 20, 2003; 74 FR 3410, Jan. 21, 2009; 77 FR 40250, July 9, 2012; 79 FR 44116, July 30, 2014; 85 FR 65521, Oct. 15, 2020]

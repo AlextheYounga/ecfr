@@ -28,7 +28,7 @@
 
 (13) The Agricultural Marketing Act of 1946, section 203, 205, as amended (7 U.S.C. 1622, 1624), with respect to voluntary inspection and certification of animal products; inspection, testing, treatment, and certification of animals; and a program to investigate and develop solutions to the problems resulting from the use of sulfonamides in swine.
 
-(14) Talmadge-Aiken Act (7 U.S.C. 450) with respect to cooperation with States in control and eradication of plant and animal diseases and pests.
+(14) Talmadge-Aiken Act (7 U.S.C. 1633) with respect to cooperation with States in control and eradication of plant and animal diseases and pests.
 
 (15) Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 *et seq.*), and title VI of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5195 *et seq.*), relating to protection of livestock, poultry and crops and products thereof from biological and chemical warfare; and utilization or disposal of livestock and poultry exposed to radiation.
 
@@ -38,7 +38,7 @@
 
 (18) Executive Order 11987, 3 CFR, 1977 Comp., p. 116.
 
-(19) Section 101(d), Organic Act of 1944 (7 U.S.C. 430).
+(19) Section 101(d), Organic Act of 1944 (7 U.S.C. 398).
 
 (20) The Swine Health Protection Act, as amended (7 U.S.C. 3801-3813).
 
@@ -52,9 +52,9 @@
 
 (25) Coordinate the development and carrying out by Department agencies of all matters and functions pertaining to the Department's regulation of biotechnology, and act as liaison on all matters and functions pertaining to the regulation of biotechnology between agencies within the Department and between the Department and other governmental and private organizations.
 
-(26) The Act of March 2, 1931 (7 U.S.C. 426-426b).
+(26) The Act of March 2, 1931 (7 U.S.C. 8351-8352).
 
-(27) The Act of December 22, 1987 (7 U.S.C. 426c).
+(27) The Act of December 22, 1987 (7 U.S.C. 8353).
 
 (28) Authority to work with developed and transitional countries on agricultural and related research and extension, with respect to animal and plant health, including providing technical assistance, training, and advice to persons from such countries engaged in such activities and the stationing of scientists at national and international institutions in such countries (7 U.S.C. 3291(a)(3)).
 
@@ -142,6 +142,14 @@
 
 (48) Section 12309 of the Agricultural Act of 2014 regarding produce represented as grown in the United States (19 U.S.C. 1304a).
 
+(49) Section 11013 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8322).
+
+(50) In coordination with the Chief, Natural Resources Conservation Service, Section 2408 relating to the Feral Swine Eradication and Control Pilot Program (7 U.S.C. 8351 note).
+
+(51) Section 12203(b) of the Agriculture Improvement Act of 2018 relating to diseases and pests of concern (7 U.S.C. 8914(b)).
+
+(52) Section 12601 of the Agriculture Improvement Act of 2018 relating to baiting of migratory game birds (16 U.S.C. 704 note).
+
 (b) *Reservation.* The following authority is reserved to the Under Secretary for Marketing and Regulatory Programs: The authority to make determinations under 35 U.S.C. 156 as to whether an applicant acted with due diligence.
 
-[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 68541, Dec. 30, 1996; 65 FR 49471, Aug. 14, 2000; 68 FR 27446, May 20, 2003; 70 FR 55706, Sept. 23, 2005; 74 FR 3411, Jan. 21, 2009; 76 FR 4803, Jan. 27, 2011; 79 FR 44116, July 30, 2014; 83 FR 61314, Nov. 29, 2018]
+[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 68541, Dec. 30, 1996; 65 FR 49471, Aug. 14, 2000; 68 FR 27446, May 20, 2003; 70 FR 55706, Sept. 23, 2005; 74 FR 3411, Jan. 21, 2009; 76 FR 4803, Jan. 27, 2011; 79 FR 44116, July 30, 2014; 83 FR 61314, Nov. 29, 2018; 85 FR 65521, Oct. 15, 2020]

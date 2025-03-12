@@ -20,7 +20,7 @@
 
 (9) Supervise and direct Farm Service Agency State and county offices and designate functions to be performed by Farm Service Agency State and county committees.
 
-(10) Administer the Dairy Indemnity Program under the Act of August 13, 1968, as amended (7 U.S.C. 450j *et seq.*).
+(10) Administer the Dairy Indemnity Program under the Act of August 13, 1968, as amended (7 U.S.C. 4551 *et seq.*).
 
 (11) Administer procurement, processing, handling, distribution, disposition, transportation, payment, and related services with respect to surplus removal and supply operations which are carried out under section 210 of the Agricultural Act of 1956 (7 U.S.C. 1859), the Act of August 19, 1958, as amended (7 U.S.C. 1431 note), and section 709 of the Food and Agriculture Act of 1965, as amended (7 U.S.C. 1446a-1), except as delegated to the Under Secretary for Food, Nutrition, and Consumer Services in § 2.19 and to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.16(a)(3), and assist the Food and Consumer Service and the Agricultural Marketing Service in the procurement, handling, payment, and related services under section 32 of the Act of August 24, 1935, as amended (7 U.S.C. 612c), the Act of June 28, 1937, as amended (7 U.S.C. 713c), the National School Lunch Act, as amended (42 U.S.C. 1751 *et seq.*), section 8 of the Child Nutrition Act of 1966, as amended (42 U.S.C. 1777), section 311 of the Older Americans Act of 1965, as amended (42 U.S.C. 3030a), and section 4(a) of the Agriculture and Consumer Protection Act of 1973, as amended (7 U.S.C. 612c note), and section 1114 of the Agriculture and Food Act of 1981 (7 U.S.C. 1431e).
 
@@ -214,7 +214,7 @@
 
 (57) Implement the information disclosure authorities of section 1619(b)(3)(A) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8791(b)(3)(A)).
 
-(58) Administer the following provisions of the Agricultural Act of 2014, Public Law 113-79:
+(58) Administer the following provisions of the Agricultural Act of 2014, Public Law 113-79, as amended:
 
 (i) Sections 1401-1410 relating to a margin protection program for dairy producers (7 U.S.C. 9051-9060), and section 1431 relating to a dairy product donation program (7 U.S.C. 9071).
 
@@ -232,10 +232,20 @@
 
 (62) Determine the agricultural commodities acquired under price support programs which are available for export.
 
+(63) Administer the following provisions of the Agriculture Improvement Act of 2018, Public Law 116-334:
+
+(i) Section 5413 relating to reporting on farm loans (7 U.S.C. 2008x).
+
+(ii) Section 12304 relating to the National Beginning Farmer and Rancher Coordinator (7 U.S.C. 6934a).
+
+(iii) Section 12612 relating to a national agriculture imagery program (7 U.S.C. 2204j).
+
+(iv) Section 12615 relating to the eligibility for farm operators on heirs' property to obtain a farm loan number (7 U.S.C. 2266b).
+
 (b) *Reservations.* The following authorities are reserved to the Under Secretary for Farm Production and Conservation:
 
 (1) Designating counties and areas for emergency programs under Pub. L. No. 85-58, as amended.
 
 (2) Making and issuing notes to the Secretary of the Treasury for the purposes of the Agricultural Credit Insurance Fund as authorized by the Consolidated Farm and Rural Development Act (7 U.S.C. 1929).
 
-[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 61 FR 37552, July 18, 1996; 62 FR 1031, Jan. 8, 1997; 62 FR 19901, Apr. 24, 1997; 68 FR 27443, May 20, 2003; 69 FR 34254, June 21, 2004; 71 FR 35491, June 21, 2006; 71 FR 51421, Aug. 30, 2006; 74 FR 3406, Jan. 21, 2009; 75 FR 43380, July 23, 2010; 78 FR 40938, July 9, 2013; 79 FR 44112, July 30, 2014; 80 FR 58338, Sept. 29, 2015; 83 FR 22184, May 14, 2018; 83 FR 61313, Nov. 29, 2018]
+[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 61 FR 37552, July 18, 1996; 62 FR 1031, Jan. 8, 1997; 62 FR 19901, Apr. 24, 1997; 68 FR 27443, May 20, 2003; 69 FR 34254, June 21, 2004; 71 FR 35491, June 21, 2006; 71 FR 51421, Aug. 30, 2006; 74 FR 3406, Jan. 21, 2009; 75 FR 43380, July 23, 2010; 78 FR 40938, July 9, 2013; 79 FR 44112, July 30, 2014; 80 FR 58338, Sept. 29, 2015; 83 FR 22184, May 14, 2018; 83 FR 61313, Nov. 29, 2018; 85 FR 65514, Oct. 15, 2020]

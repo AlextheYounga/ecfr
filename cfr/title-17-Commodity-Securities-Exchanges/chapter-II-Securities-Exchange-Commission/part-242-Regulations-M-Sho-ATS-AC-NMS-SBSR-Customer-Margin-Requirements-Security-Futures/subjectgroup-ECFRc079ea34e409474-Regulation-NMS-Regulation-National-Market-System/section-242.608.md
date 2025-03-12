@@ -1,5 +1,7 @@
 ##### § 242.608 Filing and amendment of national market system plans. #####
 
+Link to an amendment published at 85 FR 65497, Oct. 15, 2020.
+
 (a) *Filing of national market system plans and amendments thereto.* (1) Any two or more self-regulatory organizations, acting jointly, may file a national market system plan or may propose an amendment to an effective national market system plan (“proposed amendment”) by submitting the text of the plan or amendment to the Secretary of the Commission, together with a statement of the purpose of such plan or amendment and, to the extent applicable, the documents and information required by paragraphs (a)(4) and (5) of this section.
 
 (2) The Commission may propose amendments to any effective national market system plan by publishing the text thereof, together with a statement of the purpose of such amendment, in accordance with the provisions of paragraph (b) of this section.

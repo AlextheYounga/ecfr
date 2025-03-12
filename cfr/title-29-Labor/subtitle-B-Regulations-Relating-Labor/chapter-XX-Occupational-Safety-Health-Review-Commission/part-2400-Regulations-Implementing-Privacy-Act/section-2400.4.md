@@ -1,63 +1,43 @@
-##### § 2400.4 Collection and disclosure of personal information. #####
+##### § 2400.4 Procedures for requesting notification of and access to personal records. #####
 
-(a) The following rules govern the collection of personal information throughout OSHRC operations:
+The purpose of this section is to provide procedures by which an individual may request notification about whether a system of records contains a record about that individual (“a personal record”), or may gain access to such a record included in a system of records.
 
-(1) OSHRC shall:
+(a) *Submission of requests*—(1) *Manner.* An individual seeking information regarding the content of a system of records or access to a personal record in a system of records should submit a written request either in person or by mail to the Privacy Officer, OSHRC, One Lafayette Centre, 1120 20th Street NW, Ninth Floor, Washington, DC 20036-3457. A request may also be submitted to the FOIA Disclosure Officer in accordance with the procedures set forth at 29 CFR 2201.5(a). Such a request, however, must be identified as a “Privacy Act Request.” The FOIA Disclosure Officer will forward any request identified in this manner to the Privacy Officer for processing.
 
-(i) Solicit, collect and maintain in its records only such personal information as is relevant and necessary to accomplish a purpose required by statute or executive order;
+(2) *Notification requests.* A request for notification about whether a system of records contains a personal record must specify which system of records, as described in the agency's system-of-records notices published in Federal Register, is the subject of the request.
 
-(ii) Maintain all records which are used by OSHRC in making any determination about any individual with such accuracy, relevance, timeliness, and completeness as is reasonably necessary to ensure fairness to the individual in the determination;
+(3) *Access requests.* A request for access to a personal record shall describe the nature of the record sought, the approximate dates covered by the record, and the system of records in which the record is thought to be included as described in the agency's system-of-records notices published in the Federal Register. The request should also indicate whether the requester wishes to review the record in person or obtain a copy by mail. If the information supplied is insufficient to locate or identify the record, the requester shall be notified promptly and, if necessary, informed of the additional information required.
 
-(iii) Collect information, to the greatest extent practicable, directly from the subject individual when such information may result in adverse determinations about an individual's rights, benefits or privileges under Federal programs; and
+(b) *Period for response.* After receiving a request, the Privacy Officer shall respond to it no later than 10 working days from the request's receipt.
 
-(iv) Inform any individual requested to disclose personal information whether that disclosure is mandatory or voluntary, by what authority it is solicited, the principal purposes for which it is intended to be used, the routine uses which may be made of it, and any penalties or consequences known to OSHRC which shall result to the individual from such non-disclosure.
+(c) *Verification of identity.* The following standards for verifying an individual's identity are applicable to any individual who requests a personal record under this part:
 
-(2) OSHRC shall not discriminate against any individual who fails to provide personal information unless that information is required or necessary for the conduct of the system or program in which the individual desires to participate. See § 2400.4(a)(1)(i).
+(1) An individual seeking access to a record in person shall, if possible, present a government-issued identification that includes a photo, such as a passport or a driver's license.
 
-(3) No record shall be collected or maintained which describes how any individual exercises rights guaranteed by the First Amendment unless the Commission specifically determines that such information is relevant and necessary to carry out a statutory purpose of OSHRC, and the collection or maintenance of the record is expressly authorized by statute or by the individual about whom the record is maintained, or unless the record is pertinent to and within the scope of an authorized law enforcement activity.
+(2) An individual seeking access to a record by mail shall, if possible, provide a signature, address, date of birth, place of birth, and a photocopy of a government-issued identification that includes a photo, such as a passport or a driver's license.
 
-(4) OSHRC shall not require disclosure of any individual's Social Security account number or deny a right, privilege or benefit because of the individual's refusal to disclose the number unless disclosure is required by Federal law.
+(3) An individual seeking access to a record either by mail or in person who cannot provide the necessary documentation of identification specified in paragraphs (c)(1) and (2) of this section may provide a declaration in accordance with 28 U.S.C. 1746, swearing or affirming to his or her identity and to the fact that he or she understands the penalties for false statements pursuant to 18 U.S.C. 1001.
 
-(b) *Disclosures* - (1) *Limitations.* OSHRC shall not disclose any record which is contained in a system of records by any means of communication to any person, or to another agency, except pursuant to a written request by, or with the prior written consent of, the individual to whom the record pertains.
+(d) *Verification of guardianship.* The parent or guardian of a minor or an individual judicially determined to be incompetent and seeking to act on behalf of such minor or incompetent shall, in addition to establishing his or her own identity, establish the identity of the minor or other individual he or she represents as required in paragraph (c) of this section and establish his or her own parentage or guardianship of the subject of the record by furnishing either a copy of a birth certificate showing parentage or a court order establishing the guardianship.
 
-(2) *Exceptions.* A record may be disseminated without satisfying the requirements of paragraph (b)(1) of this section if disclosure is made:
+(e) *Accompanying persons.* An individual seeking to review a personal record in person may be accompanied by another individual of his or her own choosing. Both the individual seeking access and the accompanying individual shall be required to sign a form provided by OSHRC indicating that OSHRC is authorized to discuss the contents of the subject record in the presence of both individuals.
 
-(i) To a person pursuant to a requirement of the Freedom of Information Act (5 U.S.C. 552);
+(f) *When compliance is possible.* (1) The Privacy Officer shall inform the requester of the determination to grant the request and shall make the personal record available to the individual in the manner requested, that is, either by forwarding a copy of the information to the requester or by making it available for review, unless:
 
-(ii) To those officers and employees of OSHRC who have a need for the record in the performance of their duties;
+(i) It is impracticable to provide the requester with a copy, in which case the requester shall be notified of this and informed of the procedures set forth in paragraph (c) of this section, or
 
-(iii) For a routine use as contained in the system notices published in the Federal Register;
+(ii) The Privacy Officer has reason to believe that the cost of a copy is considerably more expensive than anticipated by the requester, in which case the Privacy Officer shall notify the requester of the estimated cost, and ascertain whether the requester still wishes to be provided with a copy of the information.
 
-(iv) To a recipient who has provided OSHRC with adequate advance written assurance that the record shall be used solely as a statistical reporting or research record, and the record is to be transferred in a form that is not personally identifiable;
+(2) Where a personal record is to be reviewed by the requester in person, the Privacy Officer shall inform the requester in writing of:
 
-(v) To the Bureau of the Census for purposes of planning or carrying out a census or survey or related activity pursuant to the provisions of title 13, United States Code;
+(i) The date on which the record shall become available for review, the location at which it may be reviewed, and the hours for inspection;
 
-(vi) To the National Archives and Records Administration as a record which has sufficient historical or other value to warrant its continued preservation by the United States Government, or for evaluation by the Archivist of the United States or the designee of the Archivist to determine whether the record has such value;
+(ii) The requirements for verifying identity as set forth in paragraphs (c) and (d);
 
-(vii) To a person pursuant to a showing of compelling circumstances affecting the health or safety of an individual, if upon such disclosure notification is transmitted to the last known address of such individual;
+(iii) The requester's right to be accompanied by another individual to review the record as set forth in paragraph (e) of this section; and
 
-(viii) To another agency or an instrumentality of any governmental jurisdiction within or under the control of the United States for a civil or criminal law enforcement activity, if such activity is authorized by law and if the head of the agency or instrumentality has made a written request to OSHRC specifying the particular portion of the record desired and the law enforcement activity for which the record is sought;
+(iv) The requester's right to have another individual review the record.
 
-(ix) To either House of Congress, or, to the extent of matter within its jurisdiction, any committee or subcommittee thereof, or any joint committee of Congress or subcommittee of any such joint committee;
+(3) If the requester seeks to inspect the personal record without receiving a copy, the requester shall not leave OSHRC premises with the record and shall sign a statement identifying the specific record or category of records that has been reviewed.
 
-(x) To the Comptroller General or any of his authorized representatives in the course of the performance of the duties of the Government Accountability Office;
-
-(xi) Pursuant to the order of a court of competent jurisdiction; or
-
-(xii) To a consumer reporting agency in accordance with section 3711(e) of title 31, United States Code.
-
-(3) *Employee credit references.* OSHRC's Office of Administration shall verify the following information provided by an employee to a credit bureau or commercial firm from which an employee is seeking credit: Length of service, job title, grade, salary, tenure of employment, and Civil Service status.
-
-(4) *Employee job references.* Prospective employers of an OSHRC employee or a former OSHRC employee may be furnished with the information in paragraph (b)(3) of this section in addition to the date and reason for separation, if applicable, upon the request of the employee or former employee.
-
-(5) *Disclosures to third parties.* Prior to disseminating any record about an individual to any person other than an agency, unless the record is disseminated pursuant to paragraph (b)(2)(i) of this section, OSHRC shall make reasonable efforts to ensure that the record is accurate, complete, timely and relevant.
-
-(6) *Anticipated legal action.* Nothing in this section shall allow an individual access to any information compiled in reasonable anticipation of a civil action or proceeding.
-
-(c) *Accounting of disclosures.* (1) OSHRC shall maintain an accurate accounting of each disclosure, except for any disclosure made pursuant to paragraphs (b)(2)(i) and (b)(2)(ii) of this section.
-
-(2) When an accounting is required under paragraph (c)(1) of this section, the following information shall be recorded: The date, nature, and purpose of each disclosure of a record to any person or to another agency, and the name and address of the person or agency to whom the disclosure is made.
-
-(3) The accounting shall be maintained for at least five (5) years after disclosure or for the life of the record, whichever is longer.
-
-(4) The accounting shall be made available to the individual named in the record upon inquiry, except for disclosures made pursuant to paragraph (b)(2)(viii) of this section relating to law enforcement activities. See § 2400.6 for suggested form of request.
+(g) *When compliance is not possible.* The denial of a written request to review a personal record shall be sent to the requester in writing and signed by the Privacy Officer. This response shall be provided when the requested record does not exist, does not contain personal information relating to the requester, or is exempt. The response shall include a statement regarding the determining factors of denial, and the requester's rights to administrative appeal and, thereafter, judicial review in a district court of the United States.

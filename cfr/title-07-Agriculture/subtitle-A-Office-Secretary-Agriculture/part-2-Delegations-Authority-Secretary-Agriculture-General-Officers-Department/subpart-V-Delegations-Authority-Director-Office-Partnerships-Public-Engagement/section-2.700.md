@@ -8,7 +8,7 @@
 
 (3) Oversee the operations of the Office of Small Farms Coordination.
 
-(4) Administer section 2501 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279), except for authorities related to the Census of Agriculture and economic studies in subsection (h) of that section.
+(4) Administer section 2501 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279), as amended, except for the beginning farmer and rancher development program in subsection (d) and authorities related to the Census of Agriculture and economic studies in subsection (j) of that section.
 
 (5) Oversee the Minority Farmer Advisory Committee pursuant to section 14008 of FCEA (7 U.S.C. 2279 note).
 
@@ -35,3 +35,5 @@
 (16) Coordinate outreach to Asian-Americans and Pacific Islanders.
 
 (b) [Reserved]
+
+[83 FR 61317, Nov. 29, 2018, as amended at 85 FR 65524, Oct. 15, 2020]

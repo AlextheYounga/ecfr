@@ -26,13 +26,15 @@
 
 (2) *Related to forestry.* (i) Provide national leadership in forestry. (As used here and elsewhere in this section, the term “forestry” encompasses renewable and nonrenewable resources of forests, including lands governed by the Alaska National Interest Lands Conservation Act, forest-related rangeland, grassland, brushland, woodland, and alpine areas including but not limited to recreation, range, timber, minerals, watershed, wildlife and fish; natural scenic, scientific, cultural, and historic values of forests and related lands; and derivative values such as economic strength and social well-being).
 
-(ii) Protect, manage, and administer the national forests, national forest purchase units, national grasslands, and other lands and interests in lands administered by the Forest Service, which collectively are designated as the National Forest System. This delegation covers the acquisition and disposition of lands and interests in lands as may be authorized for the protection, management, and administration of the National Forest System, including the authority to approve acquisition of land under the Weeks Act of March 1, 1911, as amended (16 U.S.C. 521), and special forest receipts acts, as follows: (Pub. L. 337, 74th Cong., 49 Stat. 866, as amended by Pub. L. 310, 78th Cong., 58 Stat. 227; Pub. L. 505, 75th Cong., 52 Stat. 347, as amended by Pub. L. 310, 78th Cong., 58 Stat. 227; Pub. L. 634, 75th Cong., 52 Stat. 699, as amended by Pub. L. 310, 78th Cong., 58 Stat. 227; Pub. L. 748, 75th Cong., 52 Stat. 1205, as amended by Pub. L. 310, 78th Cong., 58 Stat. 227; Pub. L. 427, 76th Cong., 54 Stat. 46; Pub. L. 589, 76th Cong., 54 Stat. 297; Pub. L. 591, 76th Cong., 54 Stat. 299; Pub. L. 637, 76th Cong., 54 Stat. 402; Pub. L. 781, 84th Cong., 70 Stat. 632).
+(ii) Protect, manage, and administer the national forests, national forest purchase units, national grasslands, and other lands and interests in lands administered by the Forest Service, which collectively are designated as the National Forest System.
 
-(iii) As necessary for administrative purposes, divide into and designate as national forests any lands of 3,000 acres or more which are acquired under or subject to the Weeks Act of March 1, 1911, as amended, and which are contiguous to existing national forest boundaries established under the authority of the Weeks Act.
+(iii) Acquire, dispose of, and lease lands and interests in lands as may be authorized for the protection, management, and administration of the National Forest System, including the authority to approve acquisition of land under the Weeks Act of March 1, 1911, as amended (16 U.S.C. 521), and special forest receipts acts, as follows: (Pub. L. 337, 74th Cong., 49 Stat. 866, as amended by Pub. L. 310, 78th Cong., 58 Stat. 227; Pub. L. 505, 75th Cong., 52 Stat. 347, as amended by Pub. L. 310, 78th Cong., 58 Stat. 227; Pub. L. 634, 75th Cong., 52 Stat. 699, as amended by Pub. L. 310, 78th Cong., 58 Stat. 227; Pub. L. 748, 75th Cong., 52 Stat. 1205, as amended by Pub. L. 310, 78th Cong., 58 Stat. 227; Pub. L. 427, 76th Cong., 54 Stat. 46; Pub. L. 589, 76th Cong., 54 Stat. 297; Pub. L. 591, 76th Cong., 54 Stat. 299; Pub. L. 637, 76th Cong., 54 Stat. 402; Pub. L. 781, 84th Cong., 70 Stat. 632).
 
-(iv) Plan and administer wildlife and fish conservation rehabilitation and habitat management programs on National Forest System lands, pursuant to 16 U.S.C. 670g, 670h, and 670o.
+(iv) As necessary for administrative purposes, divide into and designate as national forests any lands of 3,000 acres or more which are acquired under or subject to the Weeks Act of March 1, 1911, as amended, and which are contiguous to existing national forest boundaries established under the authority of the Weeks Act.
 
-(v) For the purposes of the National Forest System Drug Control Act of 1986 (16 U.S.C. 559b-f), specifically designate certain specially trained officers and employees of the Forest Service, not exceeding 500, to have authority in the performance of their duties within the boundaries of the National Forest System:
+(v) Plan and administer wildlife and fish conservation rehabilitation and habitat management programs on National Forest System lands, pursuant to 16 U.S.C. 670g, 670h, and 670*o.*
+
+(vi) For the purposes of the National Forest System Drug Control Act of 1986 (16 U.S.C. 559b-559g), specifically designate certain specially trained officers and employees of the Forest Service, not exceeding 500, to have authority in the performance of their duties within the boundaries of the National Forest System:
 
 (A) To carry firearms;
 
@@ -46,57 +48,57 @@
 
 (F) To seize, with or without warrant or process, any evidentiary item according to Federal law or rule of law.
 
-(vi) Authorize the Forest Service to cooperate with the law enforcement officials of any Federal agency, State, or political subdivision, in the investigation of violations of, and enforcement of, section 401 of the Controlled Substances Act (21 U.S.C. 841), other laws and regulations relating to marijuana and other controlled substances, and State drug control laws or ordinances, within the boundaries of the National Forest System.
+(vii) Authorize the Forest Service to cooperate with the law enforcement officials of any Federal agency, State, or political subdivision, in the investigation of violations of, and enforcement of, section 401 of the Controlled Substances Act (21 U.S.C. 841), other laws and regulations relating to marijuana and other controlled substances, and State drug control laws or ordinances, within the boundaries of the National Forest System.
 
-(vii) Administer programs under section 23 of the Federal Highway Act (23 U.S.C. 101(a), 120(f), 125(a)-(c), 138, 202(a)-(b), 203, 204(a)-(h), 205(a)-(d), 211, 317, 402(a)).
+(viii) Administer programs under section 23 of the Federal Highway Act (23 U.S.C. 101(a), 120(f), 125(a)-(c), 138, 202(a)-(b), 203, 204(a)-(c), 205(a)-(d), 211, 317, 402(a)).
 
-(viii) Exercise the administrative appeal review functions of the Secretary of Agriculture for decisions of the Chief of the Forest Service pursuant to 36 CFR parts 214, 218 and 219.
+(ix) Exercise the administrative appeal review functions of the Secretary of Agriculture for decisions of the Chief of the Forest Service pursuant to 36 CFR parts 214, 218, and 219.
 
-(ix) Conduct, support, and cooperate in investigations, experiments, tests, and other activities deemed necessary to obtain, analyze, develop, demonstrate, and disseminate scientific information about protecting, managing, and utilizing forest and rangeland renewable resources in rural, suburban, and urban areas in the United States and foreign countries. The activities conducted, supported, or cooperated in shall include, but not be limited to: renewable resource management research, renewable resource environmental research; renewable resource protection research; renewable resource utilization research, and renewable resource assessment research (16 U.S.C. 1641-1647).
+(x) Conduct, support, and cooperate in investigations, experiments, tests, and other activities deemed necessary to obtain, analyze, develop, demonstrate, and disseminate scientific information about protecting, managing, and utilizing forest and rangeland renewable resources in rural, suburban, and urban areas in the United States and foreign countries. The activities conducted, supported, or cooperated in shall include, but not be limited to: Renewable resource management research, renewable resource environmental research; renewable resource protection research; renewable resource utilization research, and renewable resource assessment research (16 U.S.C. 1641-1647).
 
-(x) Use authorities and means available to disseminate the knowledge and technology developed from forestry research (16 U.S.C. 1645).
+(xi) Use authorities and means available to disseminate the knowledge and technology developed from forestry research (16 U.S.C. 1645).
 
-(xi) Coordinate activities with other agencies in USDA, other Federal and State agencies, forestry schools, and private entities and individuals (16 U.S.C. 1643).
+(xii) Coordinate activities with other agencies in USDA, other Federal and State agencies, forestry schools, and private entities and individuals (16 U.S.C. 1643).
 
-(xii) Enter into contracts, grants, and cooperative agreements for the support of scientific research in forestry activities (7 U.S.C. 427i(a), 1624; 16 U.S.C. 582a-8, 1643-1645, 1649).
+(xiii) Enter into contracts, grants, and cooperative agreements for the support of scientific research in forestry activities (7 U.S.C. 3105, 1624; 16 U.S.C. 582a-8, 1643-1645, 1649).
 
-(xiii) Enter into cooperative research and development agreements with industry, universities, and others; institute a cash award program to reward scientific, engineering, and technical personnel; award royalties to inventors; and retain and use royalty income (15 U.S.C. 3710a-3710c).
+(xiv) Enter into cooperative research and development agreements with industry, universities, and others; institute a cash award program to reward scientific, engineering, and technical personnel; award royalties to inventors; and retain and use royalty income (15 U.S.C. 3710a-3710c).
 
-(xiv) Enter into contracts, grants, or cooperative agreements to further research, extension, or teaching programs in the food and agricultural sciences (7 U.S.C. 3152, 3318).
+(xv) Enter into contracts, grants, or cooperative agreements to further research, extension, or teaching programs in the food and agricultural sciences (7 U.S.C. 3152, 3318).
 
-(xv) Enter into cost-reimbursable agreements relating to agricultural research, extension, or teaching activities (7 U.S.C. 3319a).
+(xvi) Enter into cost-reimbursable agreements relating to agricultural research, extension, or teaching activities (7 U.S.C. 3319a).
 
-(xvi) Administer programs of cooperative forestry assistance in the protection, conservation, and multiple resource management of forests and related resources in both rural and urban areas and forest lands in foreign countries (16 U.S.C. 2101-2114).
+(xvii) Administer programs of cooperative forestry assistance in the protection, conservation, and multiple resource management of forests and related resources in both rural and urban areas and forest lands in foreign countries (16 U.S.C. 2101-2114).
 
-(xvii) Provide assistance to States and other units of government in forest resources planning and forestry rural revitalization (7 U.S.C. 6601, 6611-6617; 16 U.S.C. 2107).
+(xviii) Provide assistance to States and other units of government in forest resources planning and forestry rural revitalization (7 U.S.C. 6601, 6611-6617; 16 U.S.C. 2107).
 
-(xviii) Conduct a program of technology implementation for State forestry personnel, private forest landowners and managers, vendors, forest operators, public agencies, and individuals (16 U.S.C. 2107).
+(xix) Conduct a program of technology implementation for State forestry personnel, private forest landowners and managers, vendors, forest operators, public agencies, and individuals (16 U.S.C. 2107).
 
-(xix) Administer Rural Fire Protection and Control Programs (16 U.S.C. 2106).
+(xx) Administer Rural Fire Protection and Control Programs (16 U.S.C. 2106c).
 
-(xx) Provide technical assistance on forestry technology or the implementation of the Conservation Reserve and Softwood Timber Programs authorized in sections 1231-1244 and 1254 of the Food Security Act of 1985 (16 U.S.C. 3831-3844; 7 U.S.C. 1981 note).
+(xxi) Provide technical assistance on forestry technology or the implementation of the Conservation Reserve and Softwood Timber Programs authorized in sections 1231-1244 and 1254 of the Food Security Act of 1985 (16 U.S.C. 3831-3844; 7 U.S.C. 1981 note).
 
-(xxi) Administer forest insect, disease, and other pest management programs (16 U.S.C. 2104).
+(xxii) Administer forest insect, disease, and other pest management programs (16 U.S.C. 2104).
 
-(xxii) Exercise the custodial functions of the Secretary for lands and interests in lands under lease or contract of sale to States and local agencies pursuant to title III of the Bankhead-Jones Farm Tenant Act and administer reserved and reversionary interests in lands conveyed under that Act (7 U.S.C. 1010-1012).
+(xxiii) Exercise the custodial functions of the Secretary for lands and interests in lands under lease or contract of sale to States and local agencies pursuant to title III of the Bankhead-Jones Farm Tenant Act and administer reserved and reversionary interests in lands conveyed under that Act (7 U.S.C. 1010-1013a).
 
-(xxiii) Under such general program criteria and procedures as may be established by the Natural Resources Conservation Service:
+(xxiv) Under such general program criteria and procedures as may be established by the Natural Resources Conservation Service:
 
-(A) Administer the forestry aspects of the programs listed in paragraphs (a)(2)(xxiii)(A)(*1*), (*2*) and (*3*) of this section on the National Forest System, rangelands with national forest boundaries, adjacent rangelands which are administered under formal agreement, and other forest lands;
+(A) Administer the forestry aspects of the programs listed in paragraphs (a)(2)(xxiii)(A)(*1*) through (*3*) of this section on the National Forest System, rangelands with national forest boundaries, adjacent rangelands which are administered under formal agreement, and other forest lands;
 
-(*1*) The cooperative river basin surveys and investigations program (16 U.S.C. 1006);
+(1) The cooperative river basin surveys and investigations program (16 U.S.C. 1006);
 
-(*2*) The Eleven Authorized Watershed Improvement Programs and Emergency Flood Prevention Measures Program under the Flood Control Act (33 U.S.C. 701b-1); and
+(2) The Eleven Authorized Watershed Improvement Programs and Emergency Flood Prevention Measures Program under the Flood Control Act of 1944 (Pub. L. 78-534); and
 
-(*3*) The Small Watershed Protection Program under the Pilot Watershed Protection and Watershed Protection and Flood Prevention Acts (7 U.S.C. 701a-h; 16 U.S.C. 1001-1009); and
+(3) The Small Watershed Protection Program under the Pilot Watershed Protection and Watershed Protection and Flood Prevention Acts (7 U.S.C. 701a-h; 16 U.S.C. 1001-1009); and
 
 (B) Exercise responsibility in connection with the forestry aspects of the Resource Conservation and Development Program authorized by title III of the Bankhead-Jones Farm Tenant Act (7 U.S.C. 1011(e)).
 
-(xxiv) Provide assistance to the Farm Service Agency in connection with the Agricultural Conservation Program, the Naval Stores Conservation Program, and the Cropland Conversion Program (16 U.S.C. 590g-q).
+(xxv) Provide assistance to the Farm Service Agency in connection with the Agricultural Conservation Program, the Naval Stores Conservation Program, and the Cropland Conversion Program (16 U.S.C. 590g-q).
 
-(xxv) Provide assistance to the Rural Housing Service in connection with grants and loans under authority of section 303 of the Consolidated Farm and Rural Development Act, 7 U.S.C. 1923; and consultation with the Department of Housing and Urban Development under the authority of 40 U.S.C. 461(e).
+(xxvi) Provide assistance to the Rural Housing Service in connection with grants and loans under authority of section 303 of the Consolidated Farm and Rural Development Act, 7 U.S.C. 1923.
 
-(xxvi) Coordinate mapping work of USDA including:
+(xxvii) Coordinate mapping work of USDA including:
 
 (A) Clearing mapping projects to prevent duplication;
 
@@ -110,7 +112,7 @@
 
 (F) Maintaining the mapping records formerly maintained by the Office of Operations.
 
-(xxvii) Administer the radio frequency licensing work of USDA, including:
+(xxviii) Administer the radio frequency licensing work of USDA, including:
 
 (A) Representing USDA on the Interdepartmental Radio Advisory Committee and its Frequency Assignment Subcommittee of the National Telecommunications and Information Administration, Department of Commerce;
 
@@ -120,29 +122,27 @@
 
 (D) Providing inspection of USDA's radio operations to ensure compliance with national and international regulations and policies for radio frequency use; and
 
-(xxviii) Represent USDA in all matters relating to responsibilities and authorities under the Federal Power Act (16 U.S.C. 791a-823).
+(xxix) Represent USDA in all matters relating to responsibilities and authorities under the Federal Power Act (16 U.S.C. 791a-823).
 
-(xxix) Administer the Youth Conservation Corps Act (42 U.S.C. precede 2711 note) for USDA.
+(xxx) Administer the Youth Conservation Corps Act (16 U.S.C. 1701-1706) for USDA.
 
-(xxx) Establish and operate the Job Corps Civilian Conservation Centers on National Forest System lands as authorized by title I, sections 106 and 107 of the Economic Opportunity Act of 1964 (42 U.S.C. 2716-2717), in accordance with the terms of an agreement dated May 11, 1967, between the Secretary of Agriculture and the Secretary of Labor; and administration of other cooperative manpower training and work experience programs where the Forest Service serves as host or prime sponsor with other Departments of Federal, State, or local governments.
+(xxxi) Establish and operate the Job Corps Civilian Conservation Centers on National Forest System lands as authorized by title I, sections 106 and 107 of the Economic Opportunity Act of 1964 (42 U.S.C. 2716), in accordance with the terms of an agreement dated May 11, 1967, between the Secretary of Agriculture and the Secretary of Labor; and administration of other cooperative manpower training and work experience programs where the Forest Service serves as host or prime sponsor with other Departments of Federal, State, or local governments.
 
-(xxxi) Administer the Volunteers in the National Forests Act of 1972 (16 U.S.C. 558a-558d, 558a note).
+(xxxii) Administer the Volunteers in the National Forests Act of 1972 (16 U.S.C. 558a-558d, 558a note).
 
-(xxxii) Exercise the functions of the Secretary of Agriculture authorized in the Alaska National Interest Lands Conservation Act (16 U.S.C. 3101-3215).
+(xxxiii) Exercise the functions of the Secretary of Agriculture authorized in the Alaska National Interest Lands Conservation Act (16 U.S.C. 3101-3215).
 
-(xxxiii) Exercise the functions of the Secretary as authorized in the Wild and Scenic Rivers Act (16 U.S.C. 1271-1278).
+(xxxiv) Exercise the functions of the Secretary as authorized in the Wild and Scenic Rivers Act (16 U.S.C. 1271-1287).
 
-(xxxiv) Jointly administer gypsy moth eradication activities with the Assistant Secretary for Marketing and Regulatory Programs, under the authority of section 102 of the Organic Act of 1944, as amended; and the Act of April 6, 1937, as amended (7 U.S.C. 147a, 148, 148a-148e); and the Talmadge Aiken Act (7 U.S.C. 450), by assuming primary responsibility for treating isolated gypsy moth infestations on Federal lands, and on State and private lands contiguous to infested Federal lands, and any other infestations over 640 acres on State and private lands.
+(xxxv) Jointly administer gypsy moth eradication activities with the Assistant Secretary for Marketing and Regulatory Programs, under the authority of section 102 of the Organic Act of 1944, as amended; and the Act of April 6, 1937, as amended (7 U.S.C. 7759, 148, 148a-148e); and the Talmadge Aiken Act (7 U.S.C. 1633), by assuming primary responsibility for treating isolated gypsy moth infestations on Federal lands, and on State and private lands contiguous to infested Federal lands, and any other infestations over 640 acres on State and private lands.
 
-(xxxv) Exercise the functions of the Secretary authorized in the Federal Onshore Oil and Gas Leasing Reform Act of 1987 (30 U.S.C. 226 *et seq.*).
+(xxxvi) Exercise the functions of the Secretary authorized in the Federal Onshore Oil and Gas Leasing Reform Act of 1987 (30 U.S.C. 226 *et seq.*).
 
-(xxxvi) Administer the Public Lands Corps program (16 U.S.C. 1721 *et seq.*) for USDA consistent with the Department's overall national service program.
-
-(xxxvii) [Reserved]
+(xxxvii) Administer the Public Lands Corps program (16 U.S.C. 1721 *et seq.;* 16 U.S.C. 1726b) for USDA consistent with the Department's overall national service program.
 
 (xxxviii) Focusing on countries that could have a substantial impact on global warming, provide assistance that promotes sustainable development and global environmental stability; share technical, managerial, extension, and administrative skills; provide education and training opportunities; engage in scientific exchange; and cooperate with domestic and international organizations that further international programs for the management and protection of forests, rangelands, wildlife, fisheries and related natural resources (16 U.S.C. 4501-4505).
 
-(xxxix) Establish programs with any bureau of the U.S. Department of the Interior (DOI) in support of the Service First initiative for the purpose of promoting customer service and efficiency including delegating to DOI employees those authorities of the U.S. Department of Agriculture (USDA) necessary to carry out projects on behalf of USDA (43 U.S.C. 1703).
+(xxxix) Establish programs with any bureau of the U.S. Department of the Interior (DOI), or with other agencies within USDA, in support of the Service First initiative for the purpose of promoting customer service and efficiency including delegating to employees of DOI and other USDA agencies the authorities of the Forest Service necessary to carry out projects on behalf of USDA (43 U.S.C. 1703).
 
 (xl) At the request of the Director, Homeland Security Staff (Director), designate law enforcement personnel of the Forest Service to assist the Director in providing for the personal security for the Secretary and the Deputy Secretary in the National Forest System.
 
@@ -158,15 +158,23 @@
 
 (xlvi) Administer the programs authorized by the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6501 *et seq.*), except for the Healthy Forests Reserve Program authorized in title V of such act (16 U.S.C. 6571-6578).
 
-(xlvii) Administer Good Neighbor contracts and cooperative agreements with a State to carry out forest, rangeland, and watershed restoration services on National Forest System lands (16 U.S.C. 2113a; Pub. L. 106-291, section 331, as amended).
+(xlvii) Administer Good Neighbor contracts and cooperative agreements with a State to carry out forest, rangeland, and watershed restoration services on National Forest System lands (16 U.S.C. 2113a).
 
 (xlviii) Utilize the Agriculture Conservation Experienced Services (ACES) Program (16 U.S.C. 3851) to provide technical services for conservation-related programs and authorities carried out on National Forest System lands (16 U.S.C. 3851a).
 
-(xlix) Administer reimbursements received for fire suppression (42 U.S.C. 1856e; 42 U.S.C. 1856d(b)).
+(xlix) Enter into reciprocal fire agreements or contracts with domestic entities. Administer reimbursements received for fire suppression (42 U.S.C. 1856-1856e).
 
 (l) Administer the large airtanker and aerial asset lease program (16 U.S.C. 551c).
 
 (li) Provide technical and other assistance with respect to eligibility of forest products for the “USDA Certified Biobased Products” labeling program (7 U.S.C. 8102(g)).
+
+(lii) Cooperate with public or private entities or individuals to perform work on state, county, municipal, or private lands within or near the boundary of National Forest System lands for administration, protection, improvement, reforestation, and other kinds of work the Forest Service is authorized to do on National Forest System lands, and cooperate with public or private entities or individuals to perform the same kinds of work in connection with the use or occupancy of National Forest System lands (16 U.S.C. 572).
+
+(liii) Enter into reciprocal fire agreements with foreign fire organizations. (42 U.S.C. 1856m-1856o).
+
+(liv) Administer the payments to states program (16 U.S.C. 500; 16 U.S.C. 7101-7153); establish, maintain, and appoint members to Resource Advisory Committees (16 U.S.C. 7125).
+
+(lv) Administer the Wood Innovation Grant program (7 U.S.C. 7655d).
 
 (3) [Reserved]
 
@@ -240,4 +248,4 @@
 
 (2) Approval of prize competitions that may result in the award of more than $1,000,000 in cash prizes under section 24(m)(4)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(4)(B)).
 
-[60 FR 56393, Nov. 8, 1995, as amended at 62 FR 1031, Jan. 8, 1997; 64 FR 32797, June 18, 1999; 64 FR 34967, June 30, 1999; 65 FR 12428, Mar. 9, 2000; 67 FR 59135, Sept. 30, 2002; 68 FR 27437, May 20, 2003; 69 FR 34252, June 21, 2004; 72 FR 36859, July 6, 2007; 74 FR 3403, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 78 FR 40937, July 9, 2013; 79 FR 44107, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 83 FR 22181, May 14, 2018]
+[60 FR 56393, Nov. 8, 1995, as amended at 62 FR 1031, Jan. 8, 1997; 64 FR 32797, June 18, 1999; 64 FR 34967, June 30, 1999; 65 FR 12428, Mar. 9, 2000; 67 FR 59135, Sept. 30, 2002; 68 FR 27437, May 20, 2003; 69 FR 34252, June 21, 2004; 72 FR 36859, July 6, 2007; 74 FR 3403, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 78 FR 40937, July 9, 2013; 79 FR 44107, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 83 FR 22181, May 14, 2018; 85 FR 65506, Oct. 15, 2020]

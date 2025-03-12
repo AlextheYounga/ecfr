@@ -10,7 +10,7 @@
 
 (iii) Oversee the operations of the Office of Small Farms Coordination.
 
-(iv) Administer section 2501 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279), except for authorities related to the Census of Agriculture and economic studies in subsection (h) of that section.
+(iv) Administer section 2501 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279), as amended, except for the beginning farmer and rancher development program in subsection (d) and authorities related to the Census of Agriculture and economic studies in subsection (j) of that section.
 
 (v) Oversee the Minority Farmer Advisory Committee pursuant to section 14008 of FCEA (7 U.S.C. 2279 note).
 
@@ -48,6 +48,12 @@
 
 (v) Enter into cooperative agreements to improve the coordination and effectiveness of Federal programs, services, and actions affecting rural areas (7 U.S.C. 2204b(b)(4)); and to provide outreach and technical assistance to socially disadvantaged farmers and ranchers and veteran farmers and ranchers (7 U.S.C. 2279(a)(3)).
 
+(vi) Consult with the Under Secretary for Trade and Foreign Agricultural Affairs on the implementation of section 3312 of the Agriculture Improvement Act of 2018 (7 U.S.C. 5608) to support greater inclusion of Tribal agricultural food products in Federal trade activities.
+
+(vii) In coordination with the Under Secretary for Rural Development, provide technical assistance to improve access by Tribal entities to rural development programs funded by the Department of Agriculture through available cooperative agreement authorities (7 U.S.C. 2671).
+
+(viii) Oversee the Tribal Advisory Committee (7 U.S.C. 6921).
+
 (3) Oversee the Military Veterans Agricultural Liaison (7 U.S.C. 6919).
 
 (4) Oversee the Center for Faith-Based and Neighborhood Partnerships.
@@ -56,6 +62,10 @@
 
 (6) With the exception of competitive grant programs administered by the National Institute of Food and Agriculture, or any youth employment opportunity programs such as Pathways or Job Corp, serve as the Department lead for strategic planning and coordinating youth outreach activities of USDA agencies' programs (including, but not limited to, 4-H; Science, Technology, Engineering and Math (STEM) programs; information and cyber technology student programs, Future Farmers of America (FFA) activities; summer high school internships; and youth gardening programs); development of program evaluation metrics and consistent messaging for youth outreach activities; and monitoring goals and objectives.
 
+(7) Oversee the Agricultural Youth Organization Coordinator (7 U.S.C. 6934b).
+
+(8) Exercise the authority of the Secretary related to Tribal Promise Zones under section 12510 of the Agriculture Improvement Act of 2018 (25 U.S.C. 4301 note).
+
 (b) [Reserved]
 
-[83 FR 61312, Nov. 29, 2018]
+[83 FR 61312, Nov. 29, 2018, as amended at 85 FR 65514, Oct. 15, 2020]

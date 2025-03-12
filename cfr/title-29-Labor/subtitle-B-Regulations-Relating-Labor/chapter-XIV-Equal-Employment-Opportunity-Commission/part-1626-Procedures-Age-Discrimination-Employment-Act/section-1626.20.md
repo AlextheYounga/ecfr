@@ -1,5 +1,7 @@
 ##### § 1626.20 Procedure for requesting an opinion letter. #####
 
+Link to an amendment published at 85 FR 65220, Oct. 15, 2020.
+
 (a) A request for an opinion letter should be submitted in writing to the Chairman, Equal Employment Opportunity Commission, 131 M Street, NE., Washington DC 20507, and shall contain:
 
 (1) A concise statement of the issues on which an opinion is requested;

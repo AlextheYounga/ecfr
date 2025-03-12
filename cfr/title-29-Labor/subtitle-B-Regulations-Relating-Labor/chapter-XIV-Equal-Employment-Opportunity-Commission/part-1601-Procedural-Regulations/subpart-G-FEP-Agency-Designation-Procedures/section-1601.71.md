@@ -1,5 +1,7 @@
 ##### § 1601.71 FEP agency notification. #####
 
+Link to an amendment published at 85 FR 65219, Oct. 15, 2020.
+
 (a) When the Commission determines that an agency or authority meets the criteria outlined in section 706(c) of title VII and § 1601.70, the Commission shall so notify the agency by letter and shall notify the public by publication in the Federal Register of an amendment to § 1601.74.
 
 (b) Where the Commission determines that an agency or authority does not come within the definition of a FEP agency for purposes of a particular basis of discrimination or where the agency or authority applies for designation as a Notice Agency, the Commission shall notify that agency or authority of the filing of charges for which the agency or authority is not a FEP agency. For such purposes that State or local agency will be deemed a Notice Agency.

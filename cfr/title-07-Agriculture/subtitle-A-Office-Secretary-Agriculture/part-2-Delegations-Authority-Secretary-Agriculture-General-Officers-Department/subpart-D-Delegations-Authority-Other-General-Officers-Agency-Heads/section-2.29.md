@@ -24,6 +24,8 @@
 
 (iv) Designate the Executive Secretary of the USDA Weather and Climate Program Coordinating Committee.
 
+(v) Coordinate with the Director of the National Drought Mitigation Center and the Administrator of the National Oceanic and Atmospheric Administration to enhance the collection of data to improve the accuracy of the United States Drought Monitor (7 U.S.C. 5856).
+
 (5) *Related to interagency commodity estimates committees.* (i) Establish Interagency Commodity Estimates Committees for Commodity Credit Corporation price-supported commodities, for major products thereof, and for commodities where a need for such a committee has been identified, in order to bring together estimates and supporting analyses from participating agencies, and to develop official estimates of supply, utilization, and prices for commodities, including the effects of new program proposals on acreage, yield, production, imports, domestic utilization, price, income, support programs, carryover, exports, and availabilities for export.
 
 (ii) Designate the Chairman, who shall also act as Secretary, for all Interagency Commodity Estimates Committees.
@@ -120,9 +122,13 @@
 
 (iii) Make competitive grants to, or enter into cooperative agreements with, agricultural and food policy research centers (7 U.S.C. 3155).
 
+(iv) Carry out the duties of the Food Loss and Waste Reduction Liaison, including entering into contracts or cooperative agreements with the research centers of the Research, Education, and Economics mission area, institutions of higher education, or non-profit organizations (7 U.S.C. 6924).
+
 (15) Carry out prize competition authorities in section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) related to functions otherwise delegated to the Chief Economist, except for authorities delegated to the Chief Financial Officer in § 2.28(a)(29) and authorities reserved to the Secretary in paragraph (b)(1) of this section.
 
-(16) *Related to Pest Management and Policy.* Coordinate USDA policy relative to the Federal Insecticide, Fungicide, and Rodenticide Act, as amended (7 U.S.C. 136 *et seq.*) and coordinate the Department's Integrated Pest Management Programs and the Pesticide Assessment Program (7 U.S.C.136-136y) (7 U.S.C. 7653).
+(16) *Related to Pest Management and Policy.* (i) Coordinate USDA policy relative to the Federal Insecticide, Fungicide, and Rodenticide Act, as amended (7 U.S.C. 136 *et seq.*) and coordinate the Department's Integrated Pest Management Programs and the Pesticide Assessment Program (7 U.S.C. 136-136y) (7 U.S.C. 7653).
+
+(ii) Conduct a multiple crop and pesticide use survey as authorized by section 10109 of the Agricultural Improvement Act of 2018.
 
 (b) The following authorities are reserved to the Secretary of Agriculture:
 
@@ -130,4 +136,4 @@
 
 (2) [Reserved]
 
-[60 FR 56393, Nov. 8, 1995, as amended at 63 FR 66979, Dec. 4, 1998; 64 FR 40735, July 28, 1999; 68 FR 27442, May 20, 2003; 73 FR 56706, Sept. 30, 2008; 74 FR 3405, Jan. 21, 2009; 77 FR 14952, Mar. 14, 2012; 78 FR 40938, July 9, 2013; 79 FR 44111, July 30, 2014; 80 FR 58338, Sept. 29, 2015; 83 FR 61311, Nov. 29, 2018]
+[60 FR 56393, Nov. 8, 1995, as amended at 63 FR 66979, Dec. 4, 1998; 64 FR 40735, July 28, 1999; 68 FR 27442, May 20, 2003; 73 FR 56706, Sept. 30, 2008; 74 FR 3405, Jan. 21, 2009; 77 FR 14952, Mar. 14, 2012; 78 FR 40938, July 9, 2013; 79 FR 44111, July 30, 2014; 80 FR 58338, Sept. 29, 2015; 83 FR 61311, Nov. 29, 2018; 85 FR 65512, Oct. 15, 2020]

@@ -1,5 +1,7 @@
 ##### § 1601.14 Service of charge or notice of charge. #####
 
+Link to an amendment published at 85 FR 65218, Oct. 15, 2020.
+
 (a) Within ten days after the filing of a charge in the appropriate Commission office, the Commission shall serve respondent a copy of the charge, by mail or in person, except when it is determined that providing a copy of the charge would impede the law enforcement functions of the Commissiion. Where a copy of the charge is not provided, the respondent will be served with a notice of the charge within ten days after the filing of the charge. The notice shall include the date, place and circumstances of the alleged unlawful employment practice. Where appropriate, the notice may include the identity of the person or organization filing the charge.
 
 (b) District Directors, Field Directors, Area Directors, Local Directors, the Director of the Office of Field Programs, and the Director of Field Management Programs, or their designees, are hereby delegated the authority to issue the notice described in paragraph (a) of this section.

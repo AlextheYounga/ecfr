@@ -1,6 +1,6 @@
 ##### § 2.48 Administrator, Rural Business-Cooperative Service. #####
 
-(a) *Delegations.* Pursuant to §§ 2.17(a)(1), (a)(2), (a)(14), (a)(16) through (a)(19), and (a)(21), subject to reservations in § 2.17(b)(1), and subject to policy guidance and direction by the Under Secretary for Rural Development, the following delegations of authority are made by the Under Secretary for Rural Development to the Administrator, Rural Business-Cooperative Service:
+(a) *Delegations.* Pursuant to §§ 2.17(a)(1), (a)(2), (a)(14), (a)(16) through (a)(19), and (a)(21), subject to reservations in § 2.17(b)(1), and subject to policy guidance and direction by the Under Secretary for Rural Development , the following delegations of authority are made by the Under Secretary for Rural Development to the Administrator, Rural Business-Cooperative Service:
 
 (1) Administer the rural economic development loan and grant programs under the Rural Electrification Act (7 U.S.C. 940c and 950aa *et seq.*).
 
@@ -64,63 +64,17 @@
 
 (14) Collect, service, and liquidate loans made, insured, or guaranteed by the Rural Business-Cooperative Service or its predecessor agencies.
 
-(15) [Reserved]
+(15) In coordination with the Office of Tribal Relations, provide technical assistance to improve access by Tribal entities to rural development programs funded by the Department of Agriculture through available cooperative agreement authorities (7 U.S.C. 2671).
 
 (16) Administer responsibilities and functions assigned under the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 *et seq.*), and title VI of the Robert T. Stafford Disaster Relief and Assistance Act (42 U.S.C. 5195 *et seq.*), relating to rural development credit and financial assistance.
 
-(17) With respect to land and facilities under his or her authority, exercise the functions delegated to the Secretary by Executive Order 12580, 3 CFR, 1987 Comp., p. 193, under the following provisions of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (“the Act”), as amended:
-
-(i) Sections 104 (a), (b), and (c)(4) of the Act (42 U.S.C. 9604 (a), (b), and (c)(4)), with respect to removal and remedial actions in the event of release or threatened release of a hazardous substance, pollutant, or contaminant into the environment;
-
-(ii) Sections 104(e)-(h) of the Act (42 U.S.C. 9604(e)-(h)), with respect to information gathering and access requests and orders; compliance with Federal health and safety standards and wage and labor standards applicable to covered work; and emergency procurement powers;
-
-(iii) Section 104(i)(11) of the Act (42 U.S.C. 9604(i)(11)), with respect to the reduction of exposure to significant risk to human health;
-
-(iv) Section 104(j) of the Act (42 U.S.C. 9604(j)), with respect to the acquisition of real property and interests in real property required to conduct a remedial action;
-
-(v) The first two sentences of section 105(d) of the Act (42 U.S.C. 9605(d)), with respect to petitions for preliminary assessment of a release or threatened release;
-
-(vi) Section 105(f) of the Act (42 U.S.C. 9605(f)), with respect to consideration of the availability of qualified minority firms in awarding contracts, but excluding that portion of section 105(f) pertaining to the annual report to Congress;
-
-(vii) Section 109 of the Act (42 U.S.C. 9609), with respect to the assessment of civil penalties for violations of section 122 of the Act (42 U.S.C. 9622), and the granting of awards to individuals providing information;
-
-(viii) Section 111(f) of the Act (42 U.S.C. 9611(f)), with respect to the designation of officials who may obligate money in the Hazardous Substances Superfund;
-
-(ix) Section 113(k) of the Act (42 U.S.C. 9613(k)), with respect to establishing an administrative record upon which to base the selection of a response action and identifying and notifying potentially responsible parties;
-
-(x) Section 116(a) of the Act (42 U.S.C. 9616(a)), with respect to preliminary assessment and site inspection of facilities;
-
-(xi) Sections 117 (a) and (c) of the Act (42 U.S.C. 9617 (a) and (c)), with respect to public participation in the preparation of any plan for remedial action and explanation of variances from the final remedial action plan for any remedial action or enforcement action, including any settlement or consent decree entered into;
-
-(xii) Section 119 of the Act (42 U.S.C. 9119), with respect to indemnifying response action contractors;
-
-(xiii) Section 121 of the Act (42 U.S.C. 9621), with respect to cleanup standards; and
-
-(xiv) Section 122 of the Act (42 U.S.C. 9622), with respect to settlements, but excluding section 122(b)(1) of the Act (42 U.S.C. 9622(b)(1)), related to mixed funding agreements.
-
-(18) With respect to facilities and activities under his or her authority, to exercise the authority of the Secretary of Agriculture pursuant to section 1-102 related to compliance with applicable pollution control standards and section 1-601 of Executive Order 12088, 3 CFR, 1978 Comp., p. 243, to enter into an inter-agency agreement with the United States Environmental Protection Agency, or an administrative consent order or a consent judgment in an appropriate State, interstate, or local agency, containing a plan and schedule to achieve and maintain compliance with applicable pollution control standards established pursuant to the following:
-
-(i) Solid Waste Disposal Act, as amended by the Resource Conservation and Recovery Act, as further amended by the Hazardous and Solid Waste Amendments, and the Federal Facility Compliance Act (42 U.S.C. 6901 *et seq.*);
-
-(ii) Federal Water Pollution Prevention and Control Act, as amended (33 U.S.C. 1251 *et seq.*);
-
-(iii) Safe Drinking Water Act, as amended (42 U.S.C. 300f *et seq.*);
-
-(iv) Clean Air Act, as amended (42 U.S.C. 7401 *et seq.*);
-
-(v) Noise Control Act of 1972, as amended (42 U.S.C. 4901 *et seq.*);
-
-(vi) Toxic Substances Control Act, as amended (15 U.S.C. 2601 *et seq.*);
-
-(vii) Federal Insecticide, Fungicide, and Rodenticide Act, as amended (7 U.S.C. 136 *et seq.*); and
-
-(viii) Comprehensive Environmental Response, Compensation, and Liability Act of 1980, as amended by the Superfund Amendments and Reauthorization Act of 1986 (42 U.S.C. 9601 *et seq.*).
+(17)-(18) [Reserved]
 
 (19) Administer in rural areas the process of designation, provision of monitoring and oversight, and provision of technical assistance for Empowerment Zones and Enterprise Communities pursuant to section 13301 of Pub. L. No. 103-66, Omnibus Budget Reconciliation Act of 1993 (26 U.S.C. 1391 *et seq.*).
 
 (20) Provide leadership and coordination within the executive branch at the state and local level of Federal rural development program utilizing the services of executive branch departments and agencies and the agencies, bureaus, offices, and services of the Department of Agriculture in coordination with rural development programs of State and local governments (7 U.S.C. 2204).
 
-(21) Coordinate, at the state and local level, activities relative to rural development among agencies reporting to the Under Secretary for Rural Economic and Community Development and, through appropriate channels, serve as the coordinating agency for other departmental agencies having primary responsibilities, in coordination with rural development programs of State and local governments (7 U.S.C. 2204).
+(21) Coordinate, at the state and local level, activities relative to rural development among agencies reporting to the Under Secretary for Rural Development and, through appropriate channels, serve as the coordinating agency for other departmental agencies having primary responsibilities, in coordination with rural development programs of State and local governments (7 U.S.C. 2204).
 
 (22) Work with Federal agencies in encouraging the creation of local rural community development organizations. Within a State, assist other Federal agencies in developing means for extending their services effectively to rural areas and in designating pilot projects in rural areas (7 U.S.C. 2204).
 
@@ -134,9 +88,9 @@
 
 (27) Administer the assets of the Alternative Agricultural Research and Commercialization Corporation and the funds in the Alternative Agricultural Research and Commercialization Fund in accordance with section 6201 of the Farm Security and Rural Investment Act of 2000 (*see* note to 7 U.S.C. 5901 (repealed)).
 
-(28) Administer the Value-Added Agricultural Product Market Development Grant program (note to 7 U.S.C. 1621).
+(28) In coordination with the Administrator of the Agricultural Marketing Service, administer the value-added producer grants program and farmers' markets and local food promotion program (7 U.S.C. 1627c(d)(5)-(6)).
 
-(29) Administer the Agriculture Innovation Center Demonstration program (note to 7 U.S.C. 1621).
+(29) Administer the Agriculture Innovation Center Demonstration program (7 U.S.C. 1632b).
 
 (30) Administer the Renewable Energy Systems and Energy Efficiency Improvements program (7 U.S.C. 8106).
 
@@ -150,6 +104,10 @@
 
 (34) Administer section 6209 of the Agricultural Act of 2014 (7 U.S.C. 2207b), relating to the collection and reporting of program metrics.
 
-(b) *Reservation.* The following authority is reserved to the Under Secretary for Rural Economic and Community Development: Making and issuing notes to the Secretary of the Treasury for the purposes of the Rural Development Insurance Fund as authorized by the Consolidated Farm and Rural Development Act (7 U.S.C. 1929a).
+(35) Implementation of a program for the Federal procurement of biobased products and of a voluntary “USDA Certified Biobased product” labeling program (7 U.S.C. 8102).
 
-[60 FR 56393, Nov. 8, 1995, as amended at 66 FR 33107, June 11, 2001; 68 FR 27444, May 20, 2003; 73 FR 3407, Jan. 21, 2009; 75 FR 43380, July 23, 2010; 78 FR 40938, July 9, 2013; 79 FR 44114, July 30, 2014]
+(36) Entering into cooperative agreements to further research programs in the food and agricultural sciences, related to establishing and implementing Federal biobased procurement and voluntary biobased labeling programs (7 U.S.C. 3318).
+
+(b) *Reservation.* The following authority is reserved to the Under Secretary for Rural Development: Making and issuing notes to the Secretary of the Treasury for the purposes of the Rural Development Insurance Fund as authorized by the Consolidated Farm and Rural Development Act (7 U.S.C. 1929a).
+
+[60 FR 56393, Nov. 8, 1995, as amended at 66 FR 33107, June 11, 2001; 68 FR 27444, May 20, 2003; 73 FR 3407, Jan. 21, 2009; 75 FR 43380, July 23, 2010; 78 FR 40938, July 9, 2013; 79 FR 44114, July 30, 2014; 83 FR 61314, Nov. 29, 2018; 85 FR 65516, Oct. 15, 2020]

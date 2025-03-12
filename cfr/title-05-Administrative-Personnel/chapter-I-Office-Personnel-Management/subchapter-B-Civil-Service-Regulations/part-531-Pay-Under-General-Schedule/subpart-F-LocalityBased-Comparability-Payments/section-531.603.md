@@ -1,5 +1,7 @@
 ##### § 531.603 Locality pay areas. #####
 
+Link to an amendment published at 85 FR 65188, Oct. 15, 2020.
+
 (a) Locality rates of pay under this subpart shall be payable to employees whose official worksites are located in the locality pay areas listed in paragraph (b) of this section.
 
 (b) The following are locality pay areas for the purposes of this subpart:

@@ -1,13 +1,7 @@
-##### § 2400.8 Procedures for requesting amendment. #####
+##### § 2400.8 Procedures for statements of disagreement and notification of amendment. #####
 
-(a) *Submission of requests for amendment.* Upon review of an individual's personal record, that individual may submit a request to amend such record. This request shall be submitted in writing to the Privacy Officer and shall include a statement of the amendment requested and the reasons for such amendment, e.g., relevance, accuracy, timeliness or completeness of the record.
+(a) *Submission of statement of disagreement.* If a final decision concerning an amendment request does not satisfy the requester, then the requester may provide a statement of disagreement that is of reasonable length and sets forth a position regarding the disputed information. This statement of disagreement shall be accepted by OSHRC and included in the relevant personal record. If deemed appropriate, OSHRC may also include a concise statement in the record of its reasons for not making a requested amendment.
 
-(b) *Action to be taken by the Privacy Officer.* Upon receiving an amendment request, the Privacy Officer shall promptly:
+(b) *Notification of amendment and statement of disagreement.* (1) OSHRC shall inform any person or other agency about an amendment to a personal record, or notation made to the record under paragraph (a) of this section, if that record has been disclosed to the person or agency, the amendment or notation was made pursuant to this part, and an accounting of the disclosure was made pursuant to 5 U.S.C. 552a(c).
 
-(1) Acknowledge in writing within ten (10) working days the receipt of the request;
-
-(2) Make such inquiry as is necessary to determine whether the amendment is appropriate; and
-
-(3) Correct or eliminate any information that is found to be incomplete, inaccurate, irrelevant to a statutory purpose of OSHRC, or untimely and notify the requester when this action is complete; or
-
-(4) Notify the requester of a determination not to amend the record, of the reasons for the refusal, and of the requester's right to appeal in accordance with § 2400.9.
+(2) When a personal record is disclosed to a person or other agency after a notation under paragraph (a) of this section is made to the record, OSHRC shall clearly note any portion of the record that is disputed and provide a copy of any notation included in the record.

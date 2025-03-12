@@ -12,4 +12,12 @@
 
 (5) Enter into cooperative agreements to improve the coordination and effectiveness of Federal programs, services, and actions affecting rural areas (7 U.S.C. 2204b(b)(4)); and to provide outreach and technical assistance to socially disadvantaged farmers and ranchers and veteran farmers and ranchers (7 U.S.C. 2279(a)(3)).
 
+(6) Consult with the Administrator, Foreign Agricultural Service on the implementation of section 3312 of the Agriculture Improvement Act of 2018 (7 U.S.C. 5608) to support greater inclusion of Tribal agricultural food products in Federal trade activities.
+
+(7) In coordination with the Administrators of the Rural Utilities Service, Rural Business-Cooperative Service, and Rural Housing Service, provide technical assistance to improve access by Tribal entities to rural development programs funded by the Department of Agriculture through available cooperative agreement authorities (7 U.S.C. 2671).
+
+(8) Oversee the Tribal Advisory Committee (7 U.S.C. 6921).
+
 (b) [Reserved]
+
+[83 FR 61317, Nov. 29, 2018, as amended at 85 FR 65524, Oct. 15, 2020]

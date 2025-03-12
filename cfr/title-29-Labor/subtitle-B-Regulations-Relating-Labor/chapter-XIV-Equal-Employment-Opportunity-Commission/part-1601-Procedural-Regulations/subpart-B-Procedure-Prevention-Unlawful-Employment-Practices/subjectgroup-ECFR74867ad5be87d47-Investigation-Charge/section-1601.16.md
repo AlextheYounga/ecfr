@@ -1,5 +1,7 @@
 ##### § 1601.16 Access to and production of evidence; testimony of witnesses; procedure and authority. #####
 
+Link to an amendment published at 85 FR 65218, Oct. 15, 2020.
+
 (a) To effectuate the purposes of title VII, the ADA, and GINA, any member of the Commission shall have the authority to sign and issue a subpoena requiring:
 
 (1) The attendance and testimony of witnesses;

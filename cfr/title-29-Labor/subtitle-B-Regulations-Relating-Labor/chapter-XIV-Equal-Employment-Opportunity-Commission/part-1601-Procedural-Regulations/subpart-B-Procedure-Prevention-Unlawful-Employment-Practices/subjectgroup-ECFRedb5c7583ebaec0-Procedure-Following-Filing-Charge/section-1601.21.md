@@ -1,5 +1,7 @@
 ##### § 1601.21 Reasonable cause determination: Procedure and authority. #####
 
+Link to an amendment published at 85 FR 65218, Oct. 15, 2020.
+
 (a) After completing its investigation, where the Commission has not settled or dismissed a charge or made a no cause finding as to every allegation addressed in the determination under § 1601.19, the Commission shall issue a determination that reasonable cause exists to believe that an unlawful employment practice has occurred or is occurring under title VII, the ADA, or GINA. A determination finding reasonable cause is based on, and limited to, evidence obtained by the Commission and does not reflect any judgment on the merits of allegations not addressed in the determination.
 
 (b) The Commission shall provide prompt notification of its determination under paragraph (a) of this section to the person claiming to be aggrieved, the person making the charge on behalf of such person, if any, and the respondent, or in the case of a Commissioner charge, the person named in the charge or identified by the Commission in the third party certificate, if any, and the respondent. The Commission may, however, on its own initiative reconsider its decision or the determination of any of its designated officers who have authority to issue Letters of Determination, Except that the Commission will not reconsider determinations of reasonable cause previously issued against a government, governmental entity or political subdivision after a failure of conciliation as set forth in § 1601.25.

@@ -10,40 +10,32 @@
 
 (4) Substantive rules, interpretations of general applicability, and statements of general policy;
 
-(5) Every amendment, revision, or repeal of the foregoing in paragraphs (a)(1) through (a)(4) of this section;
+(5) Every amendment, revision, or repeal of the foregoing in paragraphs (a)(1) through (4) of this section; and
 
-(6) Notices of proposed rulemaking;
+(6) Other notices as required by law.
 
-(7) Notices of applications received under the Bank Holding Company Act of 1956 (12 U.S.C. 1841 *et seq.*), the Home Owners' Loan Act (12 U.S.C. 1461 *et seq.*), and the Change in Bank Control Act (12 U.S.C. 1817);
+(b) *Publications.* The Board maintains a list of publications on its website (at *www.federalreserve.gov/publications*). Most publications issued by the Board, including available back issues, may be downloaded from the website; some may be obtained through an order form located on the website (at *www.federalreserve.gov/files/orderform.pdf*) or by contacting Board Printing & Fulfillment, Federal Reserve Board, Washington, DC 20551. Subscription or other charges may apply for some publications.
 
-(8) Notices of all Board meetings, pursuant to the Government in the Sunshine Act (5 U.S.C. 552b);
+(c) *Publicly available information*—(1) *Electronic reading room.* The Board makes the following records available in its electronic reading room, *http://www.federalreserve.gov/foia/readingrooms.htm#rr1.*
 
-(9) Notices identifying the Board's systems of records, pursuant to the Privacy Act of 1974 (5 U.S.C. 552a); and
+(i) Final opinions, including concurring and dissenting opinions, as well as final orders and written agreements, made in the adjudication of cases;
 
-(10) Notices of agency data collection forms being reviewed under the Paperwork Reduction Act (5 U.S.C. 3501 *et seq.*).
+(ii) Statements of policy and interpretations adopted by the Board that are not published in the Federal Register;
 
-(b) *Board's Reports to Congress.* The Board's annual report to Congress pursuant to the Federal Reserve Act (12 U.S.C. 247), which is made public upon its submission to Congress, contains a full account of the Board's operations during the year, the policy actions by the Federal Open Market Committee, an economic review of the year, and legislative recommendations to Congress. The Board also makes periodic reports to Congress under certain statutes, including but not limited to the Freedom of Information Act (5 U.S.C. 552); the Government in the Sunshine Act (5 U.S.C. 552b); the Full Employment and Balanced Growth Act of 1978 (12 U.S.C. 225a); and the Privacy Act (5 U.S.C. 552a).
+(iii) Administrative staff manuals and instructions to staff that affect the public;
 
-(c) *Federal Reserve Bulletin.* This publication is issued monthly and contains economic and statistical information, articles relating to the economy or Board activities, and descriptions of recent actions by the Board.
+(iv) Copies of all records, regardless of form or format—
 
-(d) *Other published information.* Among other things, the Board publishes the following information:
+(A) That have been released to any person under § 261.11; and
 
-(1) *Weekly publications.* The Board issues the following publications weekly:
+(B)(*1*) That because of the nature of their subject matter, the Board has determined have become or are likely to become the subject of subsequent requests for substantially the same records; or
 
-(i) A statement showing the condition of each Federal Reserve Bank and a consolidated statement of the condition of all Federal Reserve Banks, pursuant to 12 U.S.C. 248(a);
+(*2*) That have been requested three or more times;
 
-(ii) An index of applications received and the actions taken on the applications, as well as other matters issued, adopted, or promulgated by the Board; and
+(v) A general index of the records referred to in paragraph (c)(1)(iv) of this section; and
 
-(iii) A statement showing changes in the structure of the banking industry resulting from mergers and the establishment of branches.
+(vi) The public section of Community Reinvestment Act examination reports.
 
-(2) *Press releases.* The Board frequently issues statements to the press and public regarding monetary and credit actions, regulatory actions, actions taken on certain types of applications, and other matters.
+(2) *Inspection in electronic format at Reserve Banks.* The Board may determine that certain classes of publicly available filings shall be made available for inspection in electronic format only at the Reserve Bank where those records are filed.
 
-(3) *Call Report and other data.* Certain data from Reports of Condition and Income submitted to the Board are available through the National Technical Information Service and may be obtained by the procedure described in § 261.11(c)(2).
-
-(4) *Federal Reserve Regulatory Service.* This is a multivolume looseleaf service published by the Board, containing statutes, regulations, interpretations, rulings, staff opinions, and procedural rules under which the Board operates. Portions of the service are also published as separate looseleaf handbooks relating to consumer and community affairs, monetary policy and reserve requirements, payments systems, and securities credit transactions. The service and each handbook contain subject and citation indexes, are updated monthly, and may be subscribed to on a yearly basis.
-
-(e) *Index to Board actions.* The Board's Freedom of Information Office maintains, in electronic format, an index to Board actions, which is updated weekly and provides identifying information about any matters issued, adopted, and promulgated by the Board since July 4, 1967. Copies of the index may be obtained upon request to the Freedom of Information Office subject to the current schedule of fees in § 261.17.
-
-(f) *Obtaining Board publications.* The Publications Services Section maintains a list of Board publications that are available to the public. In addition, a partial list of publications is published in the Federal Reserve Bulletin. All publications issued by the Board, including available back issues, may be obtained from Publications Services, Board of Governors of the Federal Reserve System, 20th Street and Constitution Avenue NW., Washington, DC 20551. Subscription or other charges may apply to some publications.
-
-[62 FR 54359, 54361, Oct. 20, 1997, as amended at 76 FR 56601, Sept. 13, 2011; 81 FR 94933, Dec. 27, 2016]
+(3) *Privacy protection.* The Board may delete identifying details from any public record to prevent a clearly unwarranted invasion of personal privacy.

@@ -26,6 +26,6 @@
 
 (vi) Agricultural economics and rural communities.
 
-(b) The divisions will be headed by Division Chiefs/Senior Advisors (or a similar title), and will be known collectively as the Research, Education, and Extension Office.
+(b) The divisions will be headed by Division Chiefs/Senior Advisors (or a similar title), and will be known collectively as the Office of the Chief Scientist.
 
-[76 FR 10756, Feb. 28, 2011]
+[76 FR 10756, Feb. 28, 2011, as amended at 85 FR 65521, Oct. 15, 2020]
