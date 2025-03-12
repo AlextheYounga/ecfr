@@ -63,11 +63,11 @@ The drops must be performed as follows:
 
 (1) *Variation 1.* Primary receptacles of equivalent or smaller size as compared to the tested primary receptacles may be used provided they meet all of the following conditions:
 
-(i) The primary receptacles are of similar design to the tested primary receptacle (*e.g.,* shape: round, rectangular, etc.).
+(i) The primary receptacles are of similar design to the tested primary receptacle (e.g., shape: round, rectangular, etc.).
 
 (ii) The material of construction of the primary receptacle (glass, plastics, metal, etc.) offers resistance to impact and a stacking force equal to or greater than that of the originally tested primary receptacle.
 
-(iii) The primary receptacles have the same or smaller openings and the closure is of similar design (*e.g.,* screw cap, friction lid, etc.).
+(iii) The primary receptacles have the same or smaller openings and the closure is of similar design (e.g., screw cap, friction lid, etc.).
 
 (iv) Sufficient additional cushioning material is used to fill void spaces and to prevent significant movement of the primary receptacles.
 
@@ -77,7 +77,7 @@ The drops must be performed as follows:
 
 (3) *Variation 3.* Primary receptacles of any type may be placed within a secondary packaging and shipped without testing in the outer packaging provided all of the following conditions are met:
 
-(i) The secondary and outer packaging combination must be successfully tested in accordance with paragraphs (a) through (h) of this section with fragile (*e.g.,* glass) inner receptacles.
+(i) The secondary and outer packaging combination must be successfully tested in accordance with paragraphs (a) through (h) of this section with fragile (e.g., glass) inner receptacles.
 
 (ii) The total combined gross weight of inner receptacles may not exceed one-half the gross weight of inner receptacles used for the drop test in paragraph (d) of this section.
 

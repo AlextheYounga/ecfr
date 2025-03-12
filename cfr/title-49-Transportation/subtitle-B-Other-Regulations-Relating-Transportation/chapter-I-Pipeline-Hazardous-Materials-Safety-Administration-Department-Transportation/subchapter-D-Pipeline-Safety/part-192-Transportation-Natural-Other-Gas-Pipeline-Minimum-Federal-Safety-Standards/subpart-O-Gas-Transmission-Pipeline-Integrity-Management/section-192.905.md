@@ -6,7 +6,7 @@
 
 (2) If a public official with safety or emergency response or planning responsibilities informs an operator that it does not have the information to identify an identified site, the operator must use one of the following sources, as appropriate, to identify these sites.
 
-(i) Visible marking (*e.g.,* a sign); or
+(i) Visible marking (e.g., a sign); or
 
 (ii) The site is licensed or registered by a Federal, State, or local government agency; or
 

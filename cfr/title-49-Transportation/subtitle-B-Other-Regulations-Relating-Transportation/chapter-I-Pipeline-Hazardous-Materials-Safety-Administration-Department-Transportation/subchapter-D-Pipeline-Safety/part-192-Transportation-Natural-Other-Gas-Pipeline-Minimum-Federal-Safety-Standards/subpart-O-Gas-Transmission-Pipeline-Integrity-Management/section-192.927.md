@@ -18,7 +18,7 @@
 
 (2) *ICDA region identification.* An operator's plan must identify where all ICDA Regions are located in the transmission system, in which covered segments are located. An ICDA Region extends from the location where liquid may first enter the pipeline and encompasses the entire area along the pipeline where internal corrosion may occur and where further evaluation is needed. An ICDA Region may encompass one or more covered segments. In the identification process, an operator must use the model in GRI 02-0057, “Internal Corrosion Direct Assessment of Gas Transmission Pipelines - Methodology,” (incorporated by reference, *see* § 192.7). An operator may use another model if the operator demonstrates it is equivalent to the one shown in GRI 02-0057. A model must consider changes in pipe diameter, locations where gas enters a line (potential to introduce liquid) and locations down stream of gas draw-offs (where gas velocity is reduced) to define the critical pipe angle of inclination above which water film cannot be transported by the gas.
 
-(3) *Identification of locations for excavation and direct examination.* An operator's plan must identify the locations where internal corrosion is most likely in each ICDA region. In the location identification process, an operator must identify a minimum of two locations for excavation within each ICDA Region within a covered segment and must perform a direct examination for internal corrosion at each location, using ultrasonic thickness measurements, radiography, or other generally accepted measurement technique. One location must be the low point (*e.g.,* sags, drips, valves, manifolds, dead-legs, traps) within the covered segment nearest to the beginning of the ICDA Region. The second location must be further downstream, within a covered segment, near the end of the ICDA Region. If corrosion exists at either location, the operator must -
+(3) *Identification of locations for excavation and direct examination.* An operator's plan must identify the locations where internal corrosion is most likely in each ICDA region. In the location identification process, an operator must identify a minimum of two locations for excavation within each ICDA Region within a covered segment and must perform a direct examination for internal corrosion at each location, using ultrasonic thickness measurements, radiography, or other generally accepted measurement technique. One location must be the low point (e.g., sags, drips, valves, manifolds, dead-legs, traps) within the covered segment nearest to the beginning of the ICDA Region. The second location must be further downstream, within a covered segment, near the end of the ICDA Region. If corrosion exists at either location, the operator must -
 
 (i) Evaluate the severity of the defect (remaining strength) and remediate the defect in accordance with § 192.933;
 
@@ -38,7 +38,7 @@
 
 (5) *Other requirements.* The ICDA plan must also include -
 
-(i) Criteria an operator will apply in making key decisions (*e.g.,* ICDA feasibility, definition of ICDA Regions, conditions requiring excavation) in implementing each stage of the ICDA process;
+(i) Criteria an operator will apply in making key decisions (e.g., ICDA feasibility, definition of ICDA Regions, conditions requiring excavation) in implementing each stage of the ICDA process;
 
 (ii) Provisions for applying more restrictive criteria when conducting ICDA for the first time on a covered segment and that become less stringent as the operator gains experience; and
 

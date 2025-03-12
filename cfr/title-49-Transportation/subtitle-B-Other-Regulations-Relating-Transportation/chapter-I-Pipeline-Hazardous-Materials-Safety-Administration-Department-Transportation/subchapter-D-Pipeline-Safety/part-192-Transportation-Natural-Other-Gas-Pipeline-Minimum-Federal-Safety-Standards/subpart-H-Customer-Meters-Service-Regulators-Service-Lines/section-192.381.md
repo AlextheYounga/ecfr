@@ -1,8 +1,6 @@
 ##### § 192.381 Service lines: Excess flow valve performance standards. #####
 
-Link to an amendment published at 81 FR 71001, Oct. 14, 2016.
-
-(a) Excess flow valves to be used on single residence service lines that operate continuously throughout the year at a pressure not less than 10 p.s.i. (69 kPa) gage must be manufactured and tested by the manufacturer according to an industry specification, or the manufacturer's written specification, to ensure that each valve will:
+(a) Excess flow valves (EFVs) to be used on service lines that operate continuously throughout the year at a pressure not less than 10 p.s.i. (69 kPa) gage must be manufactured and tested by the manufacturer according to an industry specification, or the manufacturer's written specification, to ensure that each valve will:
 
 (1) Function properly up to the maximum operating pressure at which the valve is rated;
 
@@ -28,4 +26,4 @@ Link to an amendment published at 81 FR 71001, Oct. 14, 2016.
 
 (e) An operator should not install an excess flow valve on a service line where the operator has prior experience with contaminants in the gas stream, where these contaminants could be expected to cause the excess flow valve to malfunction or where the excess flow valve would interfere with necessary operation and maintenance activities on the service, such as blowing liquids from the line.
 
-[Amdt. 192-79, 61 FR 31459, June 20, 1996, as amended by Amdt. 192-80, 62 FR 2619, Jan. 17, 1997; Amdt. 192-85, 63 FR 37504, July 13, 1998]
+[Amdt. 192-79, 61 FR 31459, June 20, 1996, as amended by Amdt. 192-80, 62 FR 2619, Jan. 17, 1997; Amdt. 192-85, 63 FR 37504, July 13, 1998; 81 FR 71001, Oct. 14, 2016]

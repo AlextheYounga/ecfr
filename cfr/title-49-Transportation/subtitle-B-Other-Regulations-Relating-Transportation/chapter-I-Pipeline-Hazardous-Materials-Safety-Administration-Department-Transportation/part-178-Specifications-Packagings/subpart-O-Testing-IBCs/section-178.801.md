@@ -24,7 +24,7 @@
 
 (ii) A rigid plastic IBC or composite IBC which differs with regard to additives used to comply with §§ 178.706(c), 178.707(c) or 178.710(c);
 
-(iii) A packaging which differs only in its lesser external dimensions (i.e., height, width, length) provided materials of construction and material thicknesses or fabric weight remain the same;
+(iii) A packaging which differs only in its lesser external dimensions (*i.e.*, height, width, length) provided materials of construction and material thicknesses or fabric weight remain the same;
 
 (iv) A packaging which differs in service equipment.
 

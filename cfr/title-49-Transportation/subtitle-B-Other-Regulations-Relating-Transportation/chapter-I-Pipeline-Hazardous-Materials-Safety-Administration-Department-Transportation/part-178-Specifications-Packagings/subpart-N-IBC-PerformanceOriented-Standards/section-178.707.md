@@ -18,7 +18,7 @@
 
 (1) A *composite IBC* is an IBC which consists of a rigid outer packaging enclosing a plastic inner receptacle together with any service or other structural equipment. The outer packaging of a composite IBC is designed to bear the entire stacking load. The inner receptacle and outer packaging form an integral packaging and are filled, stored, transported, and emptied as a unit.
 
-(2) The term plastic means polymeric materials (i.e., plastic or rubber).
+(2) The term plastic means polymeric materials (*i.e.*, plastic or rubber).
 
 (3) A “rigid” inner receptacle is an inner receptacle which retains its general shape when empty without closures in place and without benefit of the outer casing. Any inner receptacle that is not “rigid” is considered to be “flexible.”
 
@@ -48,7 +48,7 @@
 
 (iv) Fiberboard outer packagings must be constructed of strong, solid, or double-faced corrugated fiberboard (single or multiwall).
 
-(A) Water resistance of the outer surface must be such that the increase in mass, as determined in a test carried out over a period of 30 minutes by the Cobb method of determining water absorption, is not greater than 155 grams per square meter (0.0316 pounds per square foot) - see ISO 535 (E) (IBR, see § 171.7 of this subchapter). Fiberboard must have proper bending qualities. Fiberboard must be cut, creased without cutting through any thickness of fiberboard, and slotted so as to permit assembly without cracking, surface breaks, or undue bending. The fluting of corrugated fiberboard must be firmly glued to the facings.
+(A) Water resistance of the outer surface must be such that the increase in mass, as determined in a test carried out over a period of 30 minutes by the Cobb method of determining water absorption, is not greater than 155 grams per square meter (0.0316 pounds per square foot)—see ISO 535 (E) (IBR, see § 171.7 of this subchapter). Fiberboard must have proper bending qualities. Fiberboard must be cut, creased without cutting through any thickness of fiberboard, and slotted so as to permit assembly without cracking, surface breaks, or undue bending. The fluting of corrugated fiberboard must be firmly glued to the facings.
 
 (B) The ends of fiberboard outer packagings may have a wooden frame or be constructed entirely of wood. Wooden battens may be used for reinforcements.
 

@@ -26,17 +26,15 @@
 
 (3) Fusion welded tank cars must be inspected and tested to be qualified and maintained in accordance with the following table. All qualification requirements need not be done at the same time or at the same facility.
 
-Frequency of Qualification Inspection and Tests
-
-|Section 180.509(\*)|                                                Description                                                |Maximum interval |
-|-------------------|-----------------------------------------------------------------------------------------------------------|-----------------|
-|         D         |                                             Visual inspection                                             |    10 years.    |
-|         E         |                                      Structural integrity inspection                                      |    10 years.    |
-|         F         |                                              Thickness test                                               |See § 180.509(f).|
-|         H         |                                              Safety Systems                                               |    10 years.    |
-|         I         |Internal coating or lining (for materials corrosive or reactive to the tank) (See definitions at § 180.503)|See § 180.509(i).|
-|         J         |                                           Leakage pressure test                                           |After reassembly.|
-|         K         |                           Service equipment (including pressure relief device)                            |See § 180.509(k).|
+|Section 180.509 <sup>(*)</sup>|                                                Description                                                |Maximum interval |
+|------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------|
+|              D               |                                             Visual inspection                                             |    10 years.    |
+|              E               |                                      Structural integrity inspection                                      |    10 years.    |
+|              F               |                                              Thickness test                                               |See § 180.509(f).|
+|              H               |                                              Safety Systems                                               |    10 years.    |
+|              I               |Internal coating or lining (for materials corrosive or reactive to the tank) (See definitions at § 180.503)|See § 180.509(i).|
+|              J               |                                           Leakage pressure test                                           |After reassembly.|
+|              K               |                           Service equipment (including pressure relief device)                            |See § 180.509(k).|
 
 (d) *Visual inspection.* At a minimum, each tank car facility must visually inspect the tank externally and internally as follows:
 
@@ -78,7 +76,7 @@ Frequency of Qualification Inspection and Tests
 
 (v) Direct, remote, or enhanced visual inspection, using, for example, magnifiers, fiberscopes, borescopes, and/or machine vision technology (VT).
 
-(f) *Thickness tests.* (1) The tank car owner must ensure that each tank car facility measures the thickness of the tank car shell, heads, sumps, protective housing (i.e., domes), and nozzles on each tank car by using a device capable of accurately measuring the thickness to within ±0.05 mm (±0.002 inch).
+(f) *Thickness tests.* (1) The tank car owner must ensure that each tank car facility measures the thickness of the tank car shell, heads, sumps, protective housing (*i.e.*, domes), and nozzles on each tank car by using a device capable of accurately measuring the thickness to within ±0.05 mm (±0.002 inch).
 
 (2) The tank car owner must ensure that each tank car has a thickness test measurement:
 
@@ -98,13 +96,11 @@ Frequency of Qualification Inspection and Tests
 
 (4) Operation of a tank car below the condemning limit for general corrosion or the condemning limit for localized corrosion (as shown in Figure A of this section) is prohibited.
 
-(5) For sumps, protective housing (i.e., domes), nozzles, and nozzle reinforcing pads, the tank car owner must determine if any reduction in wall thickness affects the design levels of reliability and safety built into sump, protective housing, nozzle, or nozzle reinforcement. Each tank car owner must maintain at its principal place of business documentation describing the allowable thickness reductions for sumps, protective housings, and nozzles, and nozzle reinforcements. This documentation must be made available to FRA or an authorized representative of the Department upon request.
+(5) For sumps, protective housing (*i.e.*, domes), nozzles, and nozzle reinforcing pads, the tank car owner must determine if any reduction in wall thickness affects the design levels of reliability and safety built into sump, protective housing, nozzle, or nozzle reinforcement. Each tank car owner must maintain at its principal place of business documentation describing the allowable thickness reductions for sumps, protective housings, and nozzles, and nozzle reinforcements. This documentation must be made available to FRA or an authorized representative of the Department upon request.
 
 (6) After repairs, alterations, conversions, modifications, or blasting of tank car that results in a reduction of the tank's thickness, and anytime a tank car coating or lining is removed, a qualified individual must measure the thickness of the tank in the area of reduced thickness to ensure that the thickness of the tank conforms to paragraph (g) of this section.
 
 (g) *Service life thickness allowance.* (1) A tank car found with a thickness below the required minimum thickness after forming for its specification, as stated in part 179 of this subchapter, may continue in service if any reduction in the required minimum thickness is not more than that provided in the following table:
-
-Allowable Shell Thickness Reductions
 
 |Marked tank test pressure|Top shell and tank head|      Bottom shell       |
 |-------------------------|-----------------------|-------------------------|
@@ -143,8 +139,8 @@ For DOT 115 class tank cars, shell thickness reductions apply only to the outer 
 
 (m) *Inspection and test compliance date for tank cars.* (1) After July 1, 2000, each tank car with a metal jacket or with a thermal protection system shall have an inspection and test conforming to this section no later than the date the tank car requires a periodic hydrostatic pressure test (*i.e.*, the marked due date on the tank car for the hydrostatic test).
 
-(2) After July 1, 1998, each tank car without a metal jacket shall have an inspection and test conforming to this section no later than the date the tank car requires a periodic hydrostatic pressure test (i.e., the marked due date on the tank car for the hydrostatic test).
+(2) After July 1, 1998, each tank car without a metal jacket shall have an inspection and test conforming to this section no later than the date the tank car requires a periodic hydrostatic pressure test (*i.e.*, the marked due date on the tank car for the hydrostatic test).
 
-(3) For tank cars on a 20-year periodic hydrostatic pressure test interval (i.e., Class DOT 103W, 104W, 111A60W1, 111A100W1, and 111A100W3 tank cars), the next inspection and test date is the midpoint between the compliance date in paragraph (l)(1) or (2) of this section and the remaining years until the tank would have had a hydrostatic pressure test.
+(3) For tank cars on a 20-year periodic hydrostatic pressure test interval (*i.e.*, Class DOT 103W, 104W, 111A60W1, 111A100W1, and 111A100W3 tank cars), the next inspection and test date is the midpoint between the compliance date in paragraph (l)(1) or (2) of this section and the remaining years until the tank would have had a hydrostatic pressure test.
 
 [Amdt. 180-8, 60 FR 49079, Sept. 21, 1995, as amended by Amdt. 179-50, 61 FR 33256, June 26, 1996; 62 FR 51561, Oct. 1, 1997; 63 FR 52851, Oct. 1, 1998; 66 FR 45391, Aug. 28, 2001; 68 FR 75765, Dec. 31, 2003; 71 FR 54398, Sept. 14, 2006; 77 FR 37987, June 25, 2012]

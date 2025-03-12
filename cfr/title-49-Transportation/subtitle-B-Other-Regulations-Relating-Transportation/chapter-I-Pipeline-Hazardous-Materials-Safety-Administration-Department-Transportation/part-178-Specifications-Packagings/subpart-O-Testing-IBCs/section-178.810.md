@@ -36,6 +36,6 @@
 
 (C) Packing Group III: SG × 0.67 m (2.2 feet).
 
-(e) *Criteria for passing the test.* For all IBC design types, there may be no damage which renders the IBC unsafe to be transported for salvage or for disposable, and no loss of contents. The IBC shall be capable of being lifted by an appropriate means until clear of the floor for five minutes. A slight discharge from a closure upon impact is not considered to be a failure of the IBC provided that no further leakage occurs. A slight discharge (*e.g.*, from closures or stitch holes) upon impact is not considered a failure of the flexible IBC provided that no further leakage occurs after the IBC has been raised clear of the ground.
+(e) *Criteria for passing the test.* For all IBC design types, there may be no damage which renders the IBC unsafe to be transported for salvage or for disposable, and no loss of contents. The IBC shall be capable of being lifted by an appropriate means until clear of the floor for five minutes. A slight discharge from a closure upon impact is not considered to be a failure of the IBC provided that no further leakage occurs. A slight discharge (e.g., from closures or stitch holes) upon impact is not considered a failure of the flexible IBC provided that no further leakage occurs after the IBC has been raised clear of the ground.
 
 [Amdt. 178-103, 59 FR 38074, July 26, 1994, as amended at 66 FR 45386, Aug. 28, 2001; 69 FR 76186, Dec. 20, 2004; 71 FR 78635, Dec. 29, 2006; 74 FR 2269, Jan. 14, 2009; 75 FR 5397, Feb. 2, 2010]

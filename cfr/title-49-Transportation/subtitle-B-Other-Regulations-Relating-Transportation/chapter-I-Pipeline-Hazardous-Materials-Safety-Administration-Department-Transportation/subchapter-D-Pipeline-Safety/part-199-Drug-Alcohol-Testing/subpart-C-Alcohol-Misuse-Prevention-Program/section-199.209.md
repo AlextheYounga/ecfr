@@ -2,11 +2,11 @@
 
 (a) Except as expressly provided in this subpart, nothing in this subpart shall be construed to affect the authority of operators, or the rights of employees, with respect to the use or possession of alcohol, including authority and rights with respect to alcohol testing and rehabilitation.
 
-(b) Operators may, but are not required to, conduct pre-employment alcohol testing under this subpart. Each operator that conducts pre-employment alcohol testing must -
+(b) Operators may, but are not required to, conduct pre-employment alcohol testing under this subpart. Each operator that conducts pre-employment alcohol testing must—
 
 (1) Conduct a pre-employment alcohol test before the first performance of covered functions by every covered employee (whether a new employee or someone who has transferred to a position involving the performance of covered functions);
 
-(2) Treat all covered employees the same for the purpose of pre-employment alcohol testing (i.e., you must not test some covered employees and not others);
+(2) Treat all covered employees the same for the purpose of pre-employment alcohol testing (*i.e.*, you must not test some covered employees and not others);
 
 (3) Conduct the pre-employment tests after making a contingent offer of employment or transfer, subject to the employee passing the pre-employment alcohol test;
 

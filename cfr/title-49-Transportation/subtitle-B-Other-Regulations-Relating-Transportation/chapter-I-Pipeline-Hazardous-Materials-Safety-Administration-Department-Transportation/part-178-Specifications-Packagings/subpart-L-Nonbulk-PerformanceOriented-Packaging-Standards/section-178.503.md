@@ -8,11 +8,11 @@
 
 (3) A letter identifying the performance standard under which the packaging design type has been successfully tested, as follows:
 
-(i) X - for packagings meeting Packing Group I, II and III tests;
+(i) X—for packagings meeting Packing Group I, II and III tests;
 
-(ii) Y - for packagings meeting Packing Group II and III tests; or
+(ii) Y—for packagings meeting Packing Group II and III tests; or
 
-(iii) Z - for packagings only meeting Packing Group III tests;
+(iii) Z—for packagings only meeting Packing Group III tests;
 
 (4) A designation of the specific gravity or mass for which the packaging design type has been tested, as follows:
 
@@ -32,7 +32,7 @@
 
 (9) For metal or plastic drums or jerricans intended for reuse or reconditioning as single packagings or the outer packagings of a composite packaging, the thickness of the packaging material, expressed in mm (rounded to the nearest 0.1 mm), as follows:
 
-(i) Metal drums or jerricans must be marked with the nominal thickness of the metal used in the body. The marked nominal thickness must not exceed the minimum thickness of the steel used by more than the thickness tolerance stated in ISO 3574 (IBR, see § 171.7 of this subchapter). (See appendix C of this part.) The unit of measure is not required to be marked. When the nominal thickness of either head of a metal drum is thinner than that of the body, the nominal thickness of the top head, body, and bottom head must be marked (*e.g.,* “1.0-1.2-1.0” or “0.9-1.0-1.0”).
+(i) Metal drums or jerricans must be marked with the nominal thickness of the metal used in the body. The marked nominal thickness must not exceed the minimum thickness of the steel used by more than the thickness tolerance stated in ISO 3574 (IBR, see § 171.7 of this subchapter). (See appendix C of this part.) The unit of measure is not required to be marked. When the nominal thickness of either head of a metal drum is thinner than that of the body, the nominal thickness of the top head, body, and bottom head must be marked (e.g., “1.0-1.2-1.0” or “0.9-1.0-1.0”).
 
 (ii) Plastic drums or jerricans must be marked with the minimum thickness of the packaging material. Minimum thicknesses of plastic must be as determined in accordance with § 173.28(b)(4). The unit of measure is not required to be marked;
 

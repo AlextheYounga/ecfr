@@ -12,7 +12,7 @@ The following definitions apply to this subpart:
 
 *High consequence area* means an area established by one of the methods described in paragraphs (1) or (2) as follows:
 
-(1) An area defined as -
+(1) An area defined as—
 
 (i) A Class 3 location under § 192.5; or
 
@@ -22,7 +22,7 @@ The following definitions apply to this subpart:
 
 (iv) Any area in a Class 1 or Class 2 location where the potential impact circle contains an identified site.
 
-(2) The area within a potential impact circle containing -
+(2) The area within a potential impact circle containing—
 
 (i) 20 or more buildings intended for human occupancy, unless the exception in paragraph (4) applies; or
 
@@ -30,7 +30,7 @@ The following definitions apply to this subpart:
 
 (3) Where a potential impact circle is calculated under either method (1) or (2) to establish a high consequence area, the length of the high consequence area extends axially along the length of the pipeline from the outermost edge of the first potential impact circle that contains either an identified site or 20 or more buildings intended for human occupancy to the outermost edge of the last contiguous potential impact circle that contains either an identified site or 20 or more buildings intended for human occupancy. (See figure E.I.A. in appendix E.)
 
-(4) If in identifying a high consequence area under paragraph (1)(iii) of this definition or paragraph (2)(i) of this definition, the radius of the potential impact circle is greater than 660 feet (200 meters), the operator may identify a high consequence area based on a prorated number of buildings intended for human occupancy with a distance of 660 feet (200 meters) from the centerline of the pipeline until December 17, 2006. If an operator chooses this approach, the operator must prorate the number of buildings intended for human occupancy based on the ratio of an area with a radius of 660 feet (200 meters) to the area of the potential impact circle (i.e., the prorated number of buildings intended for human occupancy is equal to 20 × (660 feet) [or 200 meters]/potential impact radius in feet [or meters]2).
+(4) If in identifying a high consequence area under paragraph (1)(iii) of this definition or paragraph (2)(i) of this definition, the radius of the potential impact circle is greater than 660 feet (200 meters), the operator may identify a high consequence area based on a prorated number of buildings intended for human occupancy with a distance of 660 feet (200 meters) from the centerline of the pipeline until December 17, 2006. If an operator chooses this approach, the operator must prorate the number of buildings intended for human occupancy based on the ratio of an area with a radius of 660 feet (200 meters) to the area of the potential impact circle (*i.e.*, the prorated number of buildings intended for human occupancy is equal to 20 × (660 feet) [or 200 meters]/potential impact radius in feet [or meters]2).
 
 *Identified site* means each of the following areas:
 

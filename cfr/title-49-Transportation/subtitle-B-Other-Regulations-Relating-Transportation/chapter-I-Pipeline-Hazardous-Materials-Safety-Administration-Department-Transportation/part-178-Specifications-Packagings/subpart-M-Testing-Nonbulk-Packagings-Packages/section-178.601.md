@@ -12,7 +12,7 @@
 
 (3) *Production testing* is the performance of the leakproofness test prescribed in § 178.604 of this subpart on each single or composite packaging intended to contain a liquid.
 
-(4) *A different packaging* is one that differs (i.e. is not identical) from a previously produced packaging in structural design, size, material of construction, wall thickness or manner of construction but does not include:
+(4) *A different packaging* is one that differs (*i.e.*, is not identical) from a previously produced packaging in structural design, size, material of construction, wall thickness or manner of construction but does not include:
 
 (i) A packaging which differs only in surface treatment;
 
@@ -38,7 +38,7 @@
 
 (i) Inner packagings of equivalent or smaller size may be used provided -
 
-(A) The inner packagings are of similar design to the tested inner packagings (i.e. shape - round, rectangular, etc.);
+(A) The inner packagings are of similar design to the tested inner packagings (*i.e.*, shape - round, rectangular, etc.);
 
 (B) The material of construction of the inner packagings (glass, plastic, metal, etc.) offers resistance to impact and stacking forces equal to or greater than that of the originally tested inner packaging;
 
@@ -68,13 +68,13 @@
 
 (vii) Packagings must be marked in accordance with § 178.503 of this part as having been tested to Packing Group I performance for combination packagings. The marked maximum gross mass may not exceed the sum of the mass of the outer packaging plus one half the mass of the filled inner packagings of the tested combination packaging. In addition, the marking required by § 178.503(a)(2) of this part must include the letter “V”.
 
-(3) *Variation 3.* Packagings other than combination packagings which are produced with reductions in external dimensions (i.e., length, width or diameter) of up to 25 percent of the dimensions of a tested packaging may be used without further testing provided an equivalent level of performance is maintained. The packagings must, in all other respects (including wall thicknesses), be identical to the tested design-type. The marked gross mass (when required) must be reduced in proportion to the reduction in volume.
+(3) *Variation 3.* Packagings other than combination packagings which are produced with reductions in external dimensions (*i.e.*, length, width or diameter) of up to 25 percent of the dimensions of a tested packaging may be used without further testing provided an equivalent level of performance is maintained. The packagings must, in all other respects (including wall thicknesses), be identical to the tested design-type. The marked gross mass (when required) must be reduced in proportion to the reduction in volume.
 
 (4) *Variation 4.* Variations are permitted in outer packagings of a tested design-type combination packaging, without further testing, provided an equivalent level of performance is maintained, as follows:
 
 (i) Each external dimension (length, width and height) is less than or equal to the corresponding dimension of the tested design-type;
 
-(ii) The structural design of the tested outer packaging (i.e. methods of construction, materials of construction, strength characteristics of materials of construction, method of closure and material thicknesses) is maintained;
+(ii) The structural design of the tested outer packaging (*i.e.*, methods of construction, materials of construction, strength characteristics of materials of construction, method of closure and material thicknesses) is maintained;
 
 (iii) The inner packagings are identical to the inner packagings used in the tested design type except that their size and mass may be less; and they are oriented within the outer packaging in the same manner as in the tested packaging;
 
@@ -84,7 +84,7 @@
 
 An outer packaging qualifying for use in transport in accordance with all of the above conditions may also be used without testing to transport inner packagings substituted for the originally tested inner packagings in accordance with the conditions set out in Variation 1 in paragraph (g)(1) of this section.
 
-(5) *Variation 5.* Single packagings (i.e., non-bulk packagings other than combination packagings), that differ from a tested design type only to the extent that the closure device or gasketing differs from that used in the originally tested design type, may be used without further testing, provided an equivalent level of performance is maintained, subject to the following conditions (the qualifying tests):
+(5) *Variation 5.* Single packagings (*i.e.*, non-bulk packagings other than combination packagings), that differ from a tested design type only to the extent that the closure device or gasketing differs from that used in the originally tested design type, may be used without further testing, provided an equivalent level of performance is maintained, subject to the following conditions (the qualifying tests):
 
 (i) A packaging with the replacement closure devices or gasketing must successfully pass the drop test specified in § 178.603 in the orientation which most severely tests the integrity of the closure or gasket;
 
@@ -104,7 +104,7 @@ Replacement closures and gasketings qualified under the above test requirements 
 
 (iii) Except as provided in paragraph (g)(3) of this section, the rated (marked) capacity and outside dimensions;
 
-(iv) The physical state for which the packaging was originally approved (*e.g.,* tested for solids or liquids);
+(iv) The physical state for which the packaging was originally approved (e.g., tested for solids or liquids);
 
 (v) An increase in the marked level of performance of the original drum (*i.e.,* to a higher packing group, hydrostatic test pressure, or specific gravity to which the packaging has been tested);
 
@@ -114,13 +114,13 @@ Replacement closures and gasketings qualified under the above test requirements 
 
 (viii) An increase greater than 10% or any decrease in the steel thickness of the head, body, or bottom;
 
-(ix) End seam type, (*e.g.,* triple or double seam);
+(ix) End seam type, (e.g., triple or double seam);
 
 (x) A reduction in the number of rolling hoops (beads) which equal or exceed the diameter over the chimes;
 
 (xi) The location, type or size, and material of closures (other than the cover of UN 1A2 drums);
 
-(xii) The location (*e.g.,* from the head to the body), type (e.g., mechanically seamed or welded flange), and materials of closure (other than the cover of UN 1A2 drums); and
+(xii) The location (e.g., from the head to the body), type (e.g., mechanically seamed or welded flange), and materials of closure (other than the cover of UN 1A2 drums); and
 
 (xiii) For UN 1A2 drums:
 

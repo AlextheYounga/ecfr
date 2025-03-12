@@ -36,13 +36,13 @@
 
 (g) *Selective testing.* The selective testing of Large Packagings, which differ only in minor respects from a tested type is permitted as described in this section. For air transport, Large Packagings must comply with § 173.27(c)(1) and (c)(2) of this subchapter. Variations are permitted in inner packagings of a tested Large Packaging, without further testing of the package, provided an equivalent level of performance is maintained and the methodology used to determine that the inner packaging, including closure, maintains an equivalent level of performance is documented in writing by the person certifying compliance with this paragraph and retained in accordance with paragraph (l) of this section. Permitted variations are as follows:
 
-(1) Inner packagings of equivalent or smaller size may be used provided -
+(1) Inner packagings of equivalent or smaller size may be used provided—
 
-(i) The inner packagings are of similar design to the tested inner packagings (*i.e.,* shape - round, rectangular, etc.);
+(i) The inner packagings are of similar design to the tested inner packagings (*i.e.,* shape—round, rectangular, etc.);
 
 (ii) The material of construction of the inner packagings (glass, plastic, metal, etc.) offers resistance to impact and stacking forces equal to or greater than that of the originally tested inner packaging;
 
-(iii) The inner packagings have the same or smaller openings and the closure is of similar design (*e.g.,* screw cap, friction lid, etc.);
+(iii) The inner packagings have the same or smaller openings and the closure is of similar design (e.g., screw cap, friction lid, etc.);
 
 (iv) Sufficient additional cushioning material is used to take up void spaces and to prevent significant movement of the inner packagings;
 
