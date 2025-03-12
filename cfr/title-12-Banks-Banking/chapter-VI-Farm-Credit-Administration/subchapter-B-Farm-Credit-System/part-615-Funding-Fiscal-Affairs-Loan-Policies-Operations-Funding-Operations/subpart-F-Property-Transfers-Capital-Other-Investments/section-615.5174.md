@@ -1,5 +1,7 @@
 ##### § 615.5174 Farmer Mac securities. #####
 
+Link to an amendment published at 83 FR 27503, June 12, 2018.
+
 (a) *General authority.* You may purchase and hold mortgage securities that are issued or guaranteed as to both principal and interest by the Federal Agricultural Mortgage Corporation (Farmer Mac securities). You may purchase and hold Farmer Mac securities for the purposes of managing credit and interest rate risks, and furthering your mission to finance agriculture. The total value of your Farmer Mac securities cannot exceed your total outstanding loans, as defined by § 615.5131.
 
 (b) *Board and management responsibilities.* Your board of directors must adopt written policies that will govern your investments in Farmer Mac securities. All delegations of authority to specified personnel or committees must state the extent of management's authority and responsibilities for managing your investments in Farmer Mac securities. The board of directors must also ensure that appropriate internal controls are in place to prevent loss, in accordance with § 615.5133(e). Management must submit quarterly reports to the board of directors on the performance of all investments in Farmer Mac securities. Annually, your board of directors must review these policies and the performance of your Farmer Mac securities and make any changes that are needed.

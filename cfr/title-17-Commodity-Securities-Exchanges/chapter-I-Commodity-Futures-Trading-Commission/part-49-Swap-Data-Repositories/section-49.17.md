@@ -1,5 +1,7 @@
 ##### § 49.17 Access to SDR data. #####
 
+Link to an amendment published at 83 FR 27436, June 12, 2018.
+
 (a) *Purpose.* This Section provides a procedure by which the Commission, other domestic regulators and foreign regulators may obtain access to the swaps data held and maintained by registered swap data repositories. Except as specifically set forth in this Regulation, the Commission's duties and obligations regarding the confidentiality of business transactions or market positions of any person and trade secrets or names of customers identified in Section 8 of the Act are not affected.
 
 (b) *Definitions.* For purposes of this § 49.17, the following terms shall be defined as follows:

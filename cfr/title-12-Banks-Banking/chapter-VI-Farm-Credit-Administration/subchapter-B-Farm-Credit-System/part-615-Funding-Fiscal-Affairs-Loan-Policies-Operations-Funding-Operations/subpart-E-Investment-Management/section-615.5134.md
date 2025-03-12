@@ -1,5 +1,7 @@
 ##### § 615.5134 Liquidity reserve. #####
 
+Link to an amendment published at 83 FR 27501, June 12, 2018.
+
 (a) *Liquidity policy* - (1) *Board responsibility.* The board of each Farm Credit bank must adopt a written liquidity policy. The liquidity policy must be compatible with the investment management policies that the bank's board adopts pursuant to § 615.5133 of this part. At least once every year, the bank's board must review its liquidity policy, assess the sufficiency of its liquidity policy, and make any revisions it deems necessary. The board of each Farm Credit bank must ensure that adequate internal controls are in place so that management complies with and carries out this liquidity policy.
 
 (2) *Policy content.* At a minimum, the liquidity policy of each Farm Credit bank must address:

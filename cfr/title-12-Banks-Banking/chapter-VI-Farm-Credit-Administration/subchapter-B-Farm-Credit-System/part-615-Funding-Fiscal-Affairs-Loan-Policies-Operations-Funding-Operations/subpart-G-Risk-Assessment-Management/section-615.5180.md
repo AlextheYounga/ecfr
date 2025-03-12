@@ -1,5 +1,7 @@
 ##### § 615.5180 Bank interest rate risk management program. #####
 
+Link to an amendment published at 83 FR 27503, June 12, 2018.
+
 (a) The board of directors of each Farm Credit bank must develop, implement, and effectively oversee an interest rate risk management program tailored to the needs of the institution. The program must establish a risk management process that effectively identifies, measures, monitors, and controls interest rate risk. The board of directors of each Farm Credit bank must be knowledgeable of the nature and level of interest rate risk taken by the institution.
 
 (b) Senior management is responsible for ensuring that interest rate risk is properly managed on both a long-range and a day-to-day basis.

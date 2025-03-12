@@ -1,5 +1,7 @@
 ##### § 615.5133 Investment management. #####
 
+Link to an amendment published at 83 FR 27499, June 12, 2018.
+
 (a) *Responsibilities of board of directors.* Your board of directors must adopt written policies for managing your investment activities. Your board must also ensure that management complies with these policies and that appropriate internal controls are in place to prevent loss. At least annually, the board, or a designated committee of the board, must review the sufficiency of these investment policies. Any changes to the policies must be adopted by the board and be documented.
 
 (b) *Investment policies - general requirements.* Your board's written investment policies must address the purposes and objectives of investments; risk tolerance; delegations of authority; internal controls; due diligence; and reporting requirements. Moreover, your investment policies must fully address the extent of pre-purchase analysis that management must perform for various classes of investments. Furthermore, your investment policies must address the means for reporting, and approvals needed for, exceptions to established policies. Investment policies must be sufficiently detailed, consistent with, and appropriate for the amounts, types, and risk characteristics of your investments.

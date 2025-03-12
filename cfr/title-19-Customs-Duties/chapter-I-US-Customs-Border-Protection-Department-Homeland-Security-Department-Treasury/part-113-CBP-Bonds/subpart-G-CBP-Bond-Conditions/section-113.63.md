@@ -46,7 +46,9 @@ Basic Custodial Bond Conditions
 
 (g) The principal agrees to comply with all Importer Security Filing requirements set forth in part 149 of this chapter including but not limited to providing security filing information to CBP in the manner and in the time period prescribed by regulation. If the principal defaults with regard to any obligation, the principal and surety (jointly and severally) agree to pay liquidated damages of $5,000 per violation.
 
-(h) *Reimbursement and Exoneration of the United States.* The principal and surety agree to:
+(h) *Agreement to comply with Air Cargo Advance Screening (ACAS) requirements.* The principal agrees to comply with all ACAS requirements set forth in §§ 122.48a and 122.48b of this chapter including, but not limited to, providing ACAS data to U.S. Customs and Border Protection in the manner and in the time period prescribed by regulation and taking the necessary action to address ACAS referrals and Do-Not-Load (DNL) instructions as prescribed by regulation. If the principal defaults with regard to these obligations, the principal and surety (jointly and severally) agree to pay liquidated damages of $5,000 for each violation.
+
+(i) *Reimbursement and Exoneration of the United States.* The principal and surety agree to:
 
 (1) Pay the compensation and expenses of any CBP officer as required by law or regulation;
 
@@ -58,10 +60,10 @@ Basic Custodial Bond Conditions
 
 (5) Pay any charges found to be due CBP arising out of the principal's custodial operation.
 
-(i) *Consequence of Default.* (1) If the principal defaults on conditions (a) through (e) in this agreement, the obligors (principal and surety, jointly and severally) agree to pay liquidated damages equal to the value of the merchandise involved in the default or three times the value of the merchandise involved in the default if the merchandise is restricted or prohibited merchandise or alcoholic beverages, or such other amount as may be authorized by law or regulation.
+(j) *Consequence of Default.* (1) If the principal defaults on conditions (a) through (e) in this agreement, the obligors (principal and surety, jointly and severally) agree to pay liquidated damages equal to the value of the merchandise involved in the default or three times the value of the merchandise involved in the default if the merchandise is restricted or prohibited merchandise or alcoholic beverages, or such other amount as may be authorized by law or regulation.
 
 (2) It is understood and agreed that the amount to be collected under conditions (a) through (e) of this agreement will be based upon the quantity and value of the merchandise as determined by CBP. Value as used in these provisions means value as determined under 19 U.S.C. 1401a.
 
 (3) If the principal defaults on conditions (a) through (e) in this agreement and the default does not involve merchandise, the obligors agree to pay liquidated damages of $1,000 for each default or such other amount as may be authorized by law or regulation. It is understood and agreed that whether the default involves merchandise is determined by CBP.
 
-[T.D. 84-213, 49 FR 41171, Oct. 19, 1984]Editorial Note:For Federal Register citations affecting § 113.63, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[T.D. 84-213, 49 FR 41171, Oct. 19, 1984]Editorial Note:For Federal Register citations affecting § 113.63, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
