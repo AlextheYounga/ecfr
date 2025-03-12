@@ -4,164 +4,165 @@ The Secretary of the Navy hereby finds and certifies that each vessel listed in 
 
 Table One
 
-|          Vessel          |        Number         |Distance in meters of forward masthead light below minimum required height. § 2(a)(i) Annex I|
-|--------------------------|-----------------------|---------------------------------------------------------------------------------------------|
-|       USS DOLPHIN        |       AGSS 555        |                                             0.8                                             |
-|       USS ZUMWALT        |       DDG 1000        |                                            2.55                                             |
-|   USS MICHAEL MONSOOR    |          DDG          |                                            2.33                                             |
-|      USS MC INERNY       |         FFG 8         |                                             1.6                                             |
-|        USS CLARK         |        FFG 11         |                                             1.6                                             |
-|    USS GEORGE PHILIP     |        FFG 12         |                                             1.6                                             |
-| USS SAMUEL ELIOT MORISON |        FFG 13         |                                             1.6                                             |
-|        USS SIDES         |        FFG 14         |                                             1.6                                             |
-|       USS ESTOCIN        |        FFG 15         |                                             1.6                                             |
-|    USS JOHN A. MOORE     |        FFG 19         |                                             1.6                                             |
-|        USS BOONE         |        FFG 28         |                                             1.6                                             |
-|  USS STEPHEN W. GROVES   |        FFG 29         |                                             1.6                                             |
-|     USS JOHN L. HALL     |        FFG 32         |                                             1.6                                             |
-|       USS JARRETT        |        FFG 33         |                                             1.6                                             |
-|      USS UNDERWOOD       |        FFG 36         |                                             1.6                                             |
-|      USS CROMMELIN       |        FFG 37         |                                             1.6                                             |
-|        USS CURTS         |        FFG 38         |                                             1.6                                             |
-|        USS DOYLE         |        FFG 39         |                                             1.6                                             |
-|      USS HALYBURTON      |        FFG 40         |                                             1.6                                             |
-|       USS MCCLUSKY       |        FFG 41         |                                             1.6                                             |
-|       USS KLAKRING       |        FFG 42         |                                             1.6                                             |
-|        USS THACH         |        FFG 43         |                                             1.6                                             |
-|        USS DEWERT        |        FFG 45         |                                             1.6                                             |
-|        USS RENTZ         |        FFG 46         |                                             1.6                                             |
-|       USS NICHOLAS       |        FFG 47         |                                             1.6                                             |
-|      USS VANDEGRIFT      |        FFG 48         |                                             1.6                                             |
-|  USS ROBERT G. BRADLEY   |        FFG 49         |                                             1.6                                             |
-|        USS TAYLOR        |        FFG 50         |                                             1.6                                             |
-|         USS GARY         |        FFG 51         |                                             1.6                                             |
-|         USS CARR         |        FFG 52         |                                             1.6                                             |
-|        USS HAWES         |        FFG 53         |                                             1.6                                             |
-|         USS FORD         |        FFG 54         |                                             1.6                                             |
-|        USS ELROD         |        FFG 55         |                                             1.6                                             |
-|       USS SIMPSON        |        FFG 56         |                                             1.6                                             |
-|     USS REUBEN JAMES     |        FFG 57         |                                             1.6                                             |
-|  USS SAMUEL B. ROBERTS   |        FFG 58         |                                             1.6                                             |
-|       USS KAUFFMAN       |        FFG 59         |                                             1.6                                             |
-|   USS RODNEY M. DAVIS    |        FFG 60         |                                             1.6                                             |
-|       USS INGRAHAM       |        FFG 61         |                                            1.37                                             |
-|       USS FREEDOM        |         LCS 1         |                                            5.99                                             |
-|     USS INDEPENDENCE     |         LCS 2         |                                            4.14                                             |
-|      USS FORT WORTH      |         LCS 3         |                                            5.965                                            |
-|       USS CORONADO       |         LCS 4         |                                            4.20                                             |
-|      USS MILWAUKEE       |         LCS 5         |                                            6.75                                             |
-|       USS JACKSON        |         LCS 6         |                                            4.91                                             |
-|       USS DETROIT        |         LCS 7         |                                            6.80                                             |
-|      USS MONTGOMERY      |         LCS 8         |                                            4.91                                             |
-|     USS LITTLE ROCK      |         LCS 9         |                                             6.0                                             |
-|  USS GABRIELLE GIFFORDS  |        LCS 10         |                                            4.91                                             |
-|      USS SIOUX CITY      |        LCS 11         |                                            5.98                                             |
-|        USS OMAHA         |        LCS 12         |                                            4.27                                             |
-|       USS WICHITA        |        LCS 13         |                                             6.0                                             |
-|      USS MANCHESTER      |        LCS 14         |                                             4.3                                             |
-|        USS TULSA         |        LCS 16         |                                             4.2                                             |
-|        USS OGDEN         |         LPD 5         |                                            4.15                                             |
-|        USS DULUTH        |         LPD 6         |                                             4.4                                             |
-|       USS DUBUQUE        |         LPD 8         |                                             4.2                                             |
-|        USS DENVER        |         LPD 9         |                                             4.4                                             |
-|        USS JUNEAU        |        LPD 10         |                                            4.27                                             |
-|      USS NASHVILLE       |        LPD 13         |                                            4.38                                             |
-|       USS TRIPOLI        |        LPH 10         |                                             3.3                                             |
-|       LCAC (class)       |LCAC 1 through LCAC 100|                                      <sup>1</sup> 6.51                                      |
-|       LCAC (class)       |LCAC 1 through LCAC 100|                                  7.84 (Temp.)<sup>2</sup>                                   |
-|        USS INCHON        |        MCS 12         |                                             3.0                                             |
-|           NR-1           |         NR 1          |                                             2.7                                             |
-|       USS SEAWOLF        |        SSN 21         |                                            4.62                                             |
-|     USS CONNECTICUT      |        SSN 22         |                                            4.62                                             |
-|     USS JIMMY CARTER     |        SSN 23         |                                            4.32                                             |
-|        USS PARCHE        |        SSN 683        |                                            3.58                                             |
-|      USS KAMEHAMEHA      |        SSN 642        |                                            3.58                                             |
-|    USS MENDEL RIVERS     |        SSN 686        |                                            2.40                                             |
-|     USS LOS ANGELES      |        SSN 688        |                                            6.10                                             |
-|     USS PHILADELPHIA     |        SSN 690        |                                            6.10                                             |
-|       USS MEMPHIS        |        SSN 691        |                                            6.10                                             |
-|      USS BREMERTON       |        SSN 698        |                                            3.49                                             |
-|     USS JACKSONVILLE     |        SSN 699        |                                            3.35                                             |
-|        USS DALLAS        |        SSN 700        |                                             3.5                                             |
-|       USS LA JOLLA       |        SSN 701        |                                             3.5                                             |
-|USS CITY OF CORPUS CHRISTI|        SSN 705        |                                             3.5                                             |
-|     USS ALBUQUERQUE      |        SSN 706        |                                             3.5                                             |
-|      USS PORTSMOUTH      |        SSN 707        |                                             3.5                                             |
-| USS MINNEAPOLIS-ST. PAUL |        SSN 708        |                                             3.5                                             |
-|  USS HYMAN G. RICKOVER   |        SSN 709        |                                             3.5                                             |
-|       USS AUGUSTA        |        SSN 710        |                                             3.5                                             |
-|    USS SAN FRANCISCO     |        SSN 711        |                                             3.5                                             |
-|       USS HOUSTON        |        SSN 713        |                                             3.5                                             |
-|       USS NORFOLK        |        SSN 714        |                                             3.5                                             |
-|       USS BUFFALO        |        SSN 715        |                                             3.5                                             |
-|    USS SALT LAKE CITY    |        SSN 716        |                                             3.5                                             |
-|       USS OLYMPIA        |        SSN 717        |                                             3.5                                             |
-|       USS HONOLULU       |        SSN 718        |                                             3.5                                             |
-|      USS PROVIDENCE      |        SSN 719        |                                             3.5                                             |
-|      USS PITTSBURGH      |        SSN 720        |                                             3.5                                             |
-|       USS CHICAGO        |        SSN 721        |                                             3.5                                             |
-|       USS KEY WEST       |        SSN 722        |                                             3.5                                             |
-|    USS OKLAHOMA CITY     |        SSN 723        |                                             3.5                                             |
-|      USS LOUISVILLE      |        SSN 724        |                                             3.5                                             |
-|        USS HELENA        |        SSN 725        |                                             3.5                                             |
-|     USS NEWPORT NEWS     |        SSN 750        |                                             3.5                                             |
-|       USS SAN JUAN       |        SSN 751        |                                             3.5                                             |
-|       USS PASADENA       |        SSN 752        |                                             3.5                                             |
-|        USS ALBANY        |        SSN 753        |                                             3.5                                             |
-|        USS TOPEKA        |        SSN 754        |                                             3.5                                             |
-|        USS MIAMI         |        SSN 755        |                                             3.5                                             |
-|       USS SCRANTON       |        SSN 756        |                                             3.5                                             |
-|      USS ALEXANDRIA      |        SSN 757        |                                             3.5                                             |
-|      USS ASHEVILLE       |        SSN 758        |                                             3.5                                             |
-|    USS JEFFERSON CITY    |        SSN 759        |                                             3.4                                             |
-|      USS ANNAPOLIS       |        SSN 760        |                                             3.5                                             |
-|     USS SPRINGFIELD      |        SSN 761        |                                             3.5                                             |
-|       USS COLUMBUS       |        SSN 762        |                                             3.5                                             |
-|       USS SANTA FE       |        SSN 763        |                                             3.5                                             |
-|        USS BOISE         |        SSN 764        |                                             3.5                                             |
-|      USS MONTPELIER      |        SSN 765        |                                             3.5                                             |
-|      USS CHARLOTTE       |        SSN 766        |                                             3.5                                             |
-|       USS HAMPTON        |        SSN 767        |                                             3.5                                             |
-|       USS HARTFORD       |        SSN 768        |                                             3.5                                             |
-|        USS TOLEDO        |        SSN 769        |                                             3.5                                             |
-|        USS TUCSON        |        SSN 770        |                                             3.5                                             |
-|       USS COLUMBIA       |        SSN 771        |                                             3.5                                             |
-|     USS GREENEVILLE      |        SSN 772        |                                             3.5                                             |
-|       USS CHEYENNE       |        SSN 773        |                                             3.5                                             |
-|       USS VIRGINIA       |        SSN 774        |                                             2.9                                             |
-|        USS TEXAS         |        SSN 775        |                                            2.90                                             |
-|        USS HAWAII        |        SSN 776        |                                            2.90                                             |
-|    USS NORTH CAROLINA    |        SSN 777        |                                            2.90                                             |
-|    USS NEW HAMPSHIRE     |        SSN 778        |                                            2.90                                             |
-|      USS NEW MEXICO      |        SSN 779        |                                            2.76                                             |
-|       USS MISSOURI       |        SSN 780        |                                            2.76                                             |
-|      USS CALIFORNIA      |        SSN 781        |                                            2.76                                             |
-|     USS MISSISSIPPI      |        SSN 782        |                                            2.76                                             |
-|      USS MINNESOTA       |        SSN 783        |                                            2.76                                             |
-|     USS NORTH DAKOTA     |        SSN 784        |                                            2.76                                             |
-|     USS JOHN WARNER      |        SSN 785        |                                            2.76                                             |
-|       USS ILLINOIS       |        SSN 786        |                                            2.76                                             |
-|      USS WASHINGTON      |        SSN 787        |                                            2.76                                             |
-|       USS COLORADO       |        SSN 788        |                                            2.76                                             |
-|       USS INDIANA        |        SSN 789        |                                            2.76                                             |
-|   USS HENRY M. JACKSON   |       SSBN 730        |                                            3.70                                             |
-|       USS ALABAMA        |       SSBN 731        |                                            3.70                                             |
-|        USS ALASKA        |       SSBN 732        |                                            3.70                                             |
-|        USS NEVADA        |       SSBN 733        |                                            3.70                                             |
-|      USS TENNESSEE       |       SSBN 734        |                                            3.70                                             |
-|     USS PENNSYLVANIA     |       SSBN 735        |                                            3.70                                             |
-|    USS WEST VIRGINIA     |       SSBN 736        |                                            3.70                                             |
-|       USS KENTUCKY       |       SSBN 737        |                                            3.70                                             |
-|       USS MARYLAND       |       SSBN 738        |                                            3.70                                             |
-|       USS NEBRASKA       |       SSBN 739        |                                            3.70                                             |
-|     USS RHODE ISLAND     |       SSBN 740        |                                            3.70                                             |
-|        USS MAINE         |       SSBN 741        |                                            3.70                                             |
-|       USS WYOMING        |       SSBN 742        |                                            3.70                                             |
-|      USS LOUISIANA       |       SSBN 743        |                                            3.70                                             |
-|         USS OHIO         |       SSGN 726        |                                            3.70                                             |
-|       USS MICHIGAN       |       SSGN 727        |                                            3.70                                             |
-|       USS FLORIDA        |       SSGN 728        |                                            3.70                                             |
-|       USS GEORGIA        |       SSGN 729        |                                            3.70                                             |
+|          Vessel          |         Number          |Distance in meters of forward masthead light below minimum required height. § 2(a)(i) Annex I|
+|--------------------------|-------------------------|---------------------------------------------------------------------------------------------|
+|       USS DOLPHIN        |        AGSS 555         |                                             0.8                                             |
+|       USS ZUMWALT        |        DDG 1000         |                                            2.55                                             |
+|   USS MICHAEL MONSOOR    |           DDG           |                                            2.33                                             |
+|      USS MC INERNY       |          FFG 8          |                                             1.6                                             |
+|        USS CLARK         |         FFG 11          |                                             1.6                                             |
+|    USS GEORGE PHILIP     |         FFG 12          |                                             1.6                                             |
+| USS SAMUEL ELIOT MORISON |         FFG 13          |                                             1.6                                             |
+|        USS SIDES         |         FFG 14          |                                             1.6                                             |
+|       USS ESTOCIN        |         FFG 15          |                                             1.6                                             |
+|    USS JOHN A. MOORE     |         FFG 19          |                                             1.6                                             |
+|        USS BOONE         |         FFG 28          |                                             1.6                                             |
+|  USS STEPHEN W. GROVES   |         FFG 29          |                                             1.6                                             |
+|     USS JOHN L. HALL     |         FFG 32          |                                             1.6                                             |
+|       USS JARRETT        |         FFG 33          |                                             1.6                                             |
+|      USS UNDERWOOD       |         FFG 36          |                                             1.6                                             |
+|      USS CROMMELIN       |         FFG 37          |                                             1.6                                             |
+|        USS CURTS         |         FFG 38          |                                             1.6                                             |
+|        USS DOYLE         |         FFG 39          |                                             1.6                                             |
+|      USS HALYBURTON      |         FFG 40          |                                             1.6                                             |
+|       USS MCCLUSKY       |         FFG 41          |                                             1.6                                             |
+|       USS KLAKRING       |         FFG 42          |                                             1.6                                             |
+|        USS THACH         |         FFG 43          |                                             1.6                                             |
+|        USS DEWERT        |         FFG 45          |                                             1.6                                             |
+|        USS RENTZ         |         FFG 46          |                                             1.6                                             |
+|       USS NICHOLAS       |         FFG 47          |                                             1.6                                             |
+|      USS VANDEGRIFT      |         FFG 48          |                                             1.6                                             |
+|  USS ROBERT G. BRADLEY   |         FFG 49          |                                             1.6                                             |
+|        USS TAYLOR        |         FFG 50          |                                             1.6                                             |
+|         USS GARY         |         FFG 51          |                                             1.6                                             |
+|         USS CARR         |         FFG 52          |                                             1.6                                             |
+|        USS HAWES         |         FFG 53          |                                             1.6                                             |
+|         USS FORD         |         FFG 54          |                                             1.6                                             |
+|        USS ELROD         |         FFG 55          |                                             1.6                                             |
+|       USS SIMPSON        |         FFG 56          |                                             1.6                                             |
+|     USS REUBEN JAMES     |         FFG 57          |                                             1.6                                             |
+|  USS SAMUEL B. ROBERTS   |         FFG 58          |                                             1.6                                             |
+|       USS KAUFFMAN       |         FFG 59          |                                             1.6                                             |
+|   USS RODNEY M. DAVIS    |         FFG 60          |                                             1.6                                             |
+|       USS INGRAHAM       |         FFG 61          |                                            1.37                                             |
+|       USS FREEDOM        |          LCS 1          |                                            5.99                                             |
+|     USS INDEPENDENCE     |          LCS 2          |                                            4.14                                             |
+|      USS FORT WORTH      |          LCS 3          |                                            5.965                                            |
+|       USS CORONADO       |          LCS 4          |                                            4.20                                             |
+|      USS MILWAUKEE       |          LCS 5          |                                            6.75                                             |
+|       USS JACKSON        |          LCS 6          |                                            4.91                                             |
+|       USS DETROIT        |          LCS 7          |                                            6.80                                             |
+|      USS MONTGOMERY      |          LCS 8          |                                            4.91                                             |
+|     USS LITTLE ROCK      |          LCS 9          |                                             6.0                                             |
+|  USS GABRIELLE GIFFORDS  |         LCS 10          |                                            4.91                                             |
+|      USS SIOUX CITY      |         LCS 11          |                                            5.98                                             |
+|        USS OMAHA         |         LCS 12          |                                            4.27                                             |
+|       USS WICHITA        |         LCS 13          |                                             6.0                                             |
+|      USS MANCHESTER      |         LCS 14          |                                             4.3                                             |
+|        USS TULSA         |         LCS 16          |                                             4.2                                             |
+|        USS OGDEN         |          LPD 5          |                                            4.15                                             |
+|        USS DULUTH        |          LPD 6          |                                             4.4                                             |
+|       USS DUBUQUE        |          LPD 8          |                                             4.2                                             |
+|        USS DENVER        |          LPD 9          |                                             4.4                                             |
+|        USS JUNEAU        |         LPD 10          |                                            4.27                                             |
+|      USS NASHVILLE       |         LPD 13          |                                            4.38                                             |
+|       USS TRIPOLI        |         LPH 10          |                                             3.3                                             |
+|       LCAC (class)       | LCAC 1 through LCAC 91  |                                            6.51                                             |
+|       LCAC (class)       | LCAC 1 through LCAC 91  |                                        7.84 (Temp.)                                         |
+|       LCAC (class)       |LCAC 100 through LCAC 173|                                             7.7                                             |
+|        USS INCHON        |         MCS 12          |                                             3.0                                             |
+|           NR-1           |          NR 1           |                                             2.7                                             |
+|       USS SEAWOLF        |         SSN 21          |                                            4.62                                             |
+|     USS CONNECTICUT      |         SSN 22          |                                            4.62                                             |
+|     USS JIMMY CARTER     |         SSN 23          |                                            4.32                                             |
+|        USS PARCHE        |         SSN 683         |                                            3.58                                             |
+|      USS KAMEHAMEHA      |         SSN 642         |                                            3.58                                             |
+|    USS MENDEL RIVERS     |         SSN 686         |                                            2.40                                             |
+|     USS LOS ANGELES      |         SSN 688         |                                            6.10                                             |
+|     USS PHILADELPHIA     |         SSN 690         |                                            6.10                                             |
+|       USS MEMPHIS        |         SSN 691         |                                            6.10                                             |
+|      USS BREMERTON       |         SSN 698         |                                            3.49                                             |
+|     USS JACKSONVILLE     |         SSN 699         |                                            3.35                                             |
+|        USS DALLAS        |         SSN 700         |                                             3.5                                             |
+|       USS LA JOLLA       |         SSN 701         |                                             3.5                                             |
+|USS CITY OF CORPUS CHRISTI|         SSN 705         |                                             3.5                                             |
+|     USS ALBUQUERQUE      |         SSN 706         |                                             3.5                                             |
+|      USS PORTSMOUTH      |         SSN 707         |                                             3.5                                             |
+| USS MINNEAPOLIS-ST. PAUL |         SSN 708         |                                             3.5                                             |
+|  USS HYMAN G. RICKOVER   |         SSN 709         |                                             3.5                                             |
+|       USS AUGUSTA        |         SSN 710         |                                             3.5                                             |
+|    USS SAN FRANCISCO     |         SSN 711         |                                             3.5                                             |
+|       USS HOUSTON        |         SSN 713         |                                             3.5                                             |
+|       USS NORFOLK        |         SSN 714         |                                             3.5                                             |
+|       USS BUFFALO        |         SSN 715         |                                             3.5                                             |
+|    USS SALT LAKE CITY    |         SSN 716         |                                             3.5                                             |
+|       USS OLYMPIA        |         SSN 717         |                                             3.5                                             |
+|       USS HONOLULU       |         SSN 718         |                                             3.5                                             |
+|      USS PROVIDENCE      |         SSN 719         |                                             3.5                                             |
+|      USS PITTSBURGH      |         SSN 720         |                                             3.5                                             |
+|       USS CHICAGO        |         SSN 721         |                                             3.5                                             |
+|       USS KEY WEST       |         SSN 722         |                                             3.5                                             |
+|    USS OKLAHOMA CITY     |         SSN 723         |                                             3.5                                             |
+|      USS LOUISVILLE      |         SSN 724         |                                             3.5                                             |
+|        USS HELENA        |         SSN 725         |                                             3.5                                             |
+|     USS NEWPORT NEWS     |         SSN 750         |                                             3.5                                             |
+|       USS SAN JUAN       |         SSN 751         |                                             3.5                                             |
+|       USS PASADENA       |         SSN 752         |                                             3.5                                             |
+|        USS ALBANY        |         SSN 753         |                                             3.5                                             |
+|        USS TOPEKA        |         SSN 754         |                                             3.5                                             |
+|        USS MIAMI         |         SSN 755         |                                             3.5                                             |
+|       USS SCRANTON       |         SSN 756         |                                             3.5                                             |
+|      USS ALEXANDRIA      |         SSN 757         |                                             3.5                                             |
+|      USS ASHEVILLE       |         SSN 758         |                                             3.5                                             |
+|    USS JEFFERSON CITY    |         SSN 759         |                                             3.4                                             |
+|      USS ANNAPOLIS       |         SSN 760         |                                             3.5                                             |
+|     USS SPRINGFIELD      |         SSN 761         |                                             3.5                                             |
+|       USS COLUMBUS       |         SSN 762         |                                             3.5                                             |
+|       USS SANTA FE       |         SSN 763         |                                             3.5                                             |
+|        USS BOISE         |         SSN 764         |                                             3.5                                             |
+|      USS MONTPELIER      |         SSN 765         |                                             3.5                                             |
+|      USS CHARLOTTE       |         SSN 766         |                                             3.5                                             |
+|       USS HAMPTON        |         SSN 767         |                                             3.5                                             |
+|       USS HARTFORD       |         SSN 768         |                                             3.5                                             |
+|        USS TOLEDO        |         SSN 769         |                                             3.5                                             |
+|        USS TUCSON        |         SSN 770         |                                             3.5                                             |
+|       USS COLUMBIA       |         SSN 771         |                                             3.5                                             |
+|     USS GREENEVILLE      |         SSN 772         |                                             3.5                                             |
+|       USS CHEYENNE       |         SSN 773         |                                             3.5                                             |
+|       USS VIRGINIA       |         SSN 774         |                                             2.9                                             |
+|        USS TEXAS         |         SSN 775         |                                            2.90                                             |
+|        USS HAWAII        |         SSN 776         |                                            2.90                                             |
+|    USS NORTH CAROLINA    |         SSN 777         |                                            2.90                                             |
+|    USS NEW HAMPSHIRE     |         SSN 778         |                                            2.90                                             |
+|      USS NEW MEXICO      |         SSN 779         |                                            2.76                                             |
+|       USS MISSOURI       |         SSN 780         |                                            2.76                                             |
+|      USS CALIFORNIA      |         SSN 781         |                                            2.76                                             |
+|     USS MISSISSIPPI      |         SSN 782         |                                            2.76                                             |
+|      USS MINNESOTA       |         SSN 783         |                                            2.76                                             |
+|     USS NORTH DAKOTA     |         SSN 784         |                                            2.76                                             |
+|     USS JOHN WARNER      |         SSN 785         |                                            2.76                                             |
+|       USS ILLINOIS       |         SSN 786         |                                            2.76                                             |
+|      USS WASHINGTON      |         SSN 787         |                                            2.76                                             |
+|       USS COLORADO       |         SSN 788         |                                            2.76                                             |
+|       USS INDIANA        |         SSN 789         |                                            2.76                                             |
+|   USS HENRY M. JACKSON   |        SSBN 730         |                                            3.70                                             |
+|       USS ALABAMA        |        SSBN 731         |                                            3.70                                             |
+|        USS ALASKA        |        SSBN 732         |                                            3.70                                             |
+|        USS NEVADA        |        SSBN 733         |                                            3.70                                             |
+|      USS TENNESSEE       |        SSBN 734         |                                            3.70                                             |
+|     USS PENNSYLVANIA     |        SSBN 735         |                                            3.70                                             |
+|    USS WEST VIRGINIA     |        SSBN 736         |                                            3.70                                             |
+|       USS KENTUCKY       |        SSBN 737         |                                            3.70                                             |
+|       USS MARYLAND       |        SSBN 738         |                                            3.70                                             |
+|       USS NEBRASKA       |        SSBN 739         |                                            3.70                                             |
+|     USS RHODE ISLAND     |        SSBN 740         |                                            3.70                                             |
+|        USS MAINE         |        SSBN 741         |                                            3.70                                             |
+|       USS WYOMING        |        SSBN 742         |                                            3.70                                             |
+|      USS LOUISIANA       |        SSBN 743         |                                            3.70                                             |
+|         USS OHIO         |        SSGN 726         |                                            3.70                                             |
+|       USS MICHIGAN       |        SSGN 727         |                                            3.70                                             |
+|       USS FLORIDA        |        SSGN 728         |                                            3.70                                             |
+|       USS GEORGIA        |        SSGN 729         |                                            3.70                                             |
 
 <sup>1</sup> The permanent masthead light is 5.26 meters athwartship to port of centerline, 5.49 meters above the main deck.
 
@@ -203,8 +204,9 @@ Table Two
 |      USS IWO JIMA      |                  LHD 7                   |                                                               |                                                                                     |                                              |                                                                                            |                                           |                              2.97                              |                                      88.80                                       |                                                                        |
 |    USS MAKIN ISLAND    |                  LHD 8                   |                             8.97                              |                                                                                     |                                              |                                                                                            |                                           |                              3.08                              |                                      89.52                                       |                                                                        |
 |      USS TRIPOLI       |                  LPH 10                  |                             10.6                              |                                                                                     |                      1                       |                                            2.2                                             |                     2                     |                              0.4                               |                                       47.5                                       |                                                                        |
-|      LCAC (class)      |         LCAC 1 through LCAC 100          |                   5.26 (Perm.)<sup>2</sup>                    |                                                                                     |                                              |                                                                                            |                                           |                                                                |                                                                                  |                            <sup>3</sup>1.5                             |
-|      LCAC (class)      |         LCAC 1 through LCAC 100          |                   3.98 (Temp.)<sup>4</sup>                    |                                                                                     |                                              |                                                                                            |                                           |                                                                |                                                                                  |                            <sup>3</sup> 1.5                            |
+|       LCAC Class       |          LCAC 1 through LCAC 91          |                         5.26 (Perm.)                          |                                         1.5                                         |                                              |                                                                                            |                                           |                                                                |                                                                                  |                                  1.5                                   |
+|       LCAC Class       |          LCAC 1 through LCAC 91          |                         3.98 (Temp.)                          |                                         1.5                                         |                                              |                                                                                            |                                           |                                                                |                                                                                  |                                  1.5                                   |
+|       LCAC Class       |           LCAC 100 through 173           |                              5.2                              |                                                                                     |                                              |                                                                                            |                                           |                                                                |                                       1.8                                        |                                                                        |
 |       USS INCHON       |                  MCS 12                  |                             10.6                              |                                                                                     |                      1                       |                                            2.2                                             |                     2                     |                              0.4                               |                                       47.5                                       |                                                                        |
 |      SLWT (class)      |                  SLWT 1                  |                             1.62                              |                                                                                     |                                              |                                                                                            |                                           |                                                                |                                                                                  |                            <sup>5</sup>3.93                            |
 |      SLWT (class)      |                  SLWT 2                  |                             1.62                              |                                                                                     |                                              |                                                                                            |                                           |                                                                |                                                                                  |                            <sup>5</sup>3.93                            |
@@ -487,11 +489,13 @@ Table Four
 |  USS RODNEY M. DAVIS   |FFG 60|                           2.75                           |
 |      USS INGRAHAM      |FFG 61|                           2.19                           |
 
-9. On LCAC-class amphibious vessels, full compliance with Rules 21(a), 21(b), and 22(b), and Annex I, section 2(a)(i), 72 COLREGS, cannot be obtained. Tables One and Two of section 706.2 provide the dimensions of closest possible compliance of LCAC-class amphibious vessels with the aforementioned rules. The following paragraph details the specific dimensions of closest possible compliance and the basis for certification by the Secretary of the Navy that full compliance with the aforementioned rules is not obtainable.
+9. On LCAC 1 through 91 amphibious vessels, full compliance with Rules 21(a), 21(b) and Annex I, section 2(a)(i), 72 COLREGS, cannot be obtained. Tables One and Two of section 706.2 provide the dimensions of closest possible compliance of LCAC 1 through 91 amphibious vessels with the aforementioned rules. The following paragraph details the specific dimensions of closest possible compliance and the basis for certification by the Secretary of the Navy that full compliance with the aforementioned rules is not obtainable.
 
-In LCAC-class amphibious vessels, there are permanent and temporary masts. The permanent masthead light is located 5.26 meters athwartship to port of centerline 5.49 meters above the hull. The temporary masthead light is located 3.98 meters athwartship to starboard of centerline, 4.16 meters in height above the hull. The temporary masthead light is displayed in lieu of the permanent masthead light only when LCAC-class amphibious vessels are operating with amphibious assault vessels. When operating in this mode, the sidelights are displayed at a height greater than three-quarters of the height of the temporary masthead light. The sidelights are located on top of the port and starboard deckhouses to permit the required unobstructed arcs of visibility and are 3.28 meters above the hull, resulting in a vertical separation between those lights and the temporary masthead light of 0.78 meters. Because of the minimal vertical separation between the sidelights and the temporary masthead light and the luminous intensity of the temporary light, the sidelights on these vessels may not be distinguishable by the naked eye at the 2-mile range required by Rule 22(b).
+On LCAC 1 through 91 amphibious vessels, there are permanent and temporary masts. The permanent masthead light is located 5.26 meters athwartship to port of centerline 5.49 meters above the hull. The temporary masthead light is located 3.98 meters athwartship to starboard of centerline, 4.16 meters in height above the hull. The temporary masthead light is displayed in lieu of the permanent masthead light only when LCAC 1 through 91 amphibious vessels are operating with amphibious assault vessels. When operating in this mode, the sidelights are displayed at a height greater than three-quarters of the height of the temporary masthead light. The sidelights are located on top of the port and starboard deckhouses to permit the required unobstructed arcs of visibility and are 3.28 meters above the hull, resulting in a vertical separation between those lights and the temporary masthead light of 0.78 meters. Because of the minimal vertical separation between the sidelights and the temporary masthead light and the luminous intensity of the temporary light, the sidelights on these vessels may not be distinguishable by the naked eye at the 2-mil range required by Rule 22(b).
 
-The arc of visibility of the temporary masthead light required by rule 21(a) may be obstructed at the following angles relative to the LCAC's heading, from 37.00 degrees thru 90.00 degrees up to a distance of 112.5 meters from the craft and from 276.75 degrees thru 277.25 degrees.
+The arc of visibility of the temporary masthead light required by rule 21(a) may be obstructed at the following angles relative to the LCAC(1 through 91)'s heading, from 37.00 degrees thru 90.00 degrees up to a distance of 112.5 meters from the craft and from 267.75 degrees thru 277.25 degrees.
+
+On LCAC 100 through 173 amphibious vessels, full compliance with Annex I, Paragraphs 2(i)(i) and 9(b)(i), 72 COLREGS, cannot be obtained. The upper and lower Not Under Command lights, located above the command module, are spaced 1.0 meters (3.3 feet) apart with the lower light at a height of 3.3 meters (10.8 feet) above the hull. The lower Not Under Command Light has angles of obstruction from 83.0 to 111.0 degrees, 137.0 to 145.5 degrees, 158.7 to 177.3 degrees, 171.7 to 184.1 degrees, 197.9 to 209.5 degrees, 230.5 to 240.5 degrees, and 244.9 to 256.5 degrees.
 
 10. [Reserved]
 
@@ -654,6 +658,7 @@ The arc of visibility of the temporary masthead light required by rule 21(a) may
 |USS WILLIAM P. LAWRENCE |                 DDG 110                  |           107.86 thru 112.50°            |
 |      USS SPRUANCE      |                 DDG 111                  |           107.48 thru 112.50°            |
 |   USS MICHAEL MURPHY   |                 DDG 112                  |           109.60 thru 112.50°            |
+|      LCAC (class)      |        LCAC 100 through LCAC 173         |               83 thru 84°                |
 |    USS INDEPENDENCE    |                  LCS 2                   |               71 thru 73°                |
 |                        |                                          |               76 thru 78°                |
 |                        |                                          |              287 thru 289°               |

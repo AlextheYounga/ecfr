@@ -1,7 +1,5 @@
 ##### § 305.16 Labeling and marking for plumbing products. #####
 
-Link to an amendment published at 83 FR 7597, Feb. 22, 2018.
-
 (a) *Showerheads and faucets.* Showerheads and faucets shall be marked and labeled as follows:
 
 (1) Each showerhead and flow restricting or controlling spout end device shall bear a permanent legible marking indicating the flow rate, expressed in gallons per minute (gpm) or gallons per cycle (gpc), and the flow rate value shall be the actual flow rate or the maximum flow rate specified by the standards established in subsection (j) of section 325 of the Act, 42 U.S.C. 6295(j). Except where impractical due to the size of the fitting, each flow rate disclosure shall also be given in liters per minute (L/min) or liters per cycle (L/cycle). For purposes of this section, the marking indicating the flow rate will be deemed “legible,” in terms of placement, if it is located in close proximity to the manufacturer's identification marking.
@@ -11,8 +9,6 @@ Link to an amendment published at 83 FR 7597, Feb. 22, 2018.
 (3) The package for each showerhead and faucet shall disclose the manufacturer's name and the model number.
 
 (4) The package or any label attached to the package for each showerhead or faucet shall contain at least the following: The flow rate expressed in gallons per minute (gpm) or gallons per cycle (gpc), and the flow rate value shall be the actual flow rate or the maximum flow rate specified by the standards established in subsection (j) of section 325 of the Act, 42 U.S.C. 6295(j). Each flow rate disclosure shall also be given in liters per minute (L/min) or liters per cycle (L/cycle).
-
-(5) The package or any label attached to the package for each showerhead or faucet shall contain at least the following: “A112.18.1M” and the flow rate expressed in gallons per minute (gpm) or gallons per cycle (gpc), and the flow rate value shall be the actual flow rate or the maximum flow rate specified by the standards established in subsection (j) of section 325 of the Act, 42 U.S.C. 6295(j). Each flow rate disclosure shall also be given in liters per minute (L/min) or liters per cycle (L/cycle).
 
 (b) *Water closets and urinals.* Water closets and urinals shall be marked and labeled as follows:
 
@@ -28,4 +24,4 @@ Link to an amendment published at 83 FR 7597, Feb. 22, 2018.
 
 (c) *Annual operating cost claims for covered plumbing products.* Until such time as the Commission has prescribed a format and manner of display for labels conveying estimated annual operating costs of covered showerheads, faucets, water closets, and urinals or ranges of estimated annual operating costs for the types or classes of such plumbing products, the Act prohibits manufacturers from making such representations on the labels of such covered products. 42 U.S.C. 6294(c)(8). If, before the Commission has prescribed such a format and manner of display for labels of such products, a manufacturer elects to provide for any such product a label conveying such a claim, it shall submit the proposed claim to the Commission so that a format and manner of display for a label may be prescribed.
 
-[73 FR 49973, Aug. 29, 2007, as amended at 82 FR 29236, June 28, 2017]
+[73 FR 49973, Aug. 29, 2007, as amended at 82 FR 29236, June 28, 2017; 83 FR 7597, Feb. 22, 2018]

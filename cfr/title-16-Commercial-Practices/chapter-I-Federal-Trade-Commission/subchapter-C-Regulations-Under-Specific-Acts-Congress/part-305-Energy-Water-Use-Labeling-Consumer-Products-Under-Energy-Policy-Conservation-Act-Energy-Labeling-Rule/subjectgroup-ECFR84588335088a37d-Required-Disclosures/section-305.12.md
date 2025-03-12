@@ -1,7 +1,5 @@
 ##### § 305.12 Labeling for central air conditioners, heat pumps, and furnaces. #####
 
-Link to an amendment published at 83 FR 7596, Feb. 22, 2018.
-
 (a) *Layout.* All energy labels for central air conditioners, heat pumps, and furnaces (including boilers) shall use one size, similar colors, and typefaces with consistent positioning of headline, copy, and charts to maintain uniformity for immediate consumer recognition and readability. Trim size dimensions for all labels shall be as follows: width must be between 51/4 inches and 51/2 inches (13.34 cm. and 13.97 cm.); length must be between 73/8 inches (18.78 cm.) and 75/8 (19.34 cm.). Copy is to be set between 27 picas and 29 picas and copy page should be centered (right to left and top to bottom). Depth is variable but should follow closely the prototype labels appearing at the end of this part illustrating the basic layout. All positioning, spacing, type sizes, and line widths should be similar to and consistent with the prototype and sample labels in appendix L.
 
 (b) *Type style and setting.* The Arial series typeface or equivalent shall be used exclusively on the label. Specific sizes and faces to be used are indicated on the prototype labels. No hyphenation should be used in setting headline or copy text. Positioning and spacing should follow the prototypes closely. Generally, text must be set flush left with two points leading except where otherwise indicated. See the prototype labels for specific directions.
@@ -112,7 +110,7 @@ Energy Efficiency Ratio (EER): This model's EER is [\_\_].
 
 Notice Federal law allows this unit to be installed only in: AK, AL, AR, CO, CT, DC, DE, FL, GA, HI, ID, IL, IA, IN, KS, KY, LA, MA, ME, MD, MI, MN, MO, MS, MT, NC, ND, NE., NH, NJ, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WV, WI, WY and U.S. territories. Federal law prohibits installation of this unit in other states.
 
-(ii) A map and accompanying text as illustrated in the sample label 7A in appendix L.
+(ii) A map appropriate for the model and accompanying text as illustrated in the sample label 7 in appendix L of this part.
 
 (iii) A statement that reads:
 
@@ -124,19 +122,19 @@ Energy Efficiency Ratio (EER): The installed system's minimum EERis \_\_.
 
 Notice Federal law allows this unit to be installed only in: AK, CO, CT, ID, IL, IA, IN, KS, MA, ME, MI, MN, MO, MT, ND, NE., NH, NJ, NY, OH, OR, PA, RI, SD, UT, VT, WA, WV, WI, WY, and U.S. Territories. Federal law prohibits installation of this unit in other states.
 
-(ii) A map and accompanying text as illustrated in the sample label 8 in appendix L.
+(ii) A map appropriate for the model and accompanying text as illustrated in the sample label 7 in appendix L of this part.
 
 (iii) A statement that reads:
 
 Energy Efficiency Ratio (EER): The installed system's minimum EER is \_\_.
 
-(14) For any single-package air conditioner with a minimum EER below 11.0, the label must contain the following regional standards information consistent with sample label 7A in appendix L to this part:
+(14) For any single-package air conditioner with a minimum EER below 11.0, the label must contain the following regional standards information:
 
 (i) A statement that reads:
 
 Notice Federal law allows this unit to be installed only in: AK, AL, AR, CO, CT, DC, DE, FL, GA, HI, ID, IL, IA, IN, KS, KY, LA, MA, ME, MD, MI, MN, MO, MS, MT, NC, ND, NE., NH, NJ, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WV, WI, WY and U.S. territories. Federal law prohibits installation of this unit in other states.
 
-(ii) A map and accompanying text as illustrated in the sample label 7A in appendix L.
+(ii) A map appropriate for the model and accompanying text as illustrated in the sample label 7 in appendix L of this part.
 
 (15) No marks or information other than that specified in this part shall appear on or directly adjoining this label except that:
 
@@ -146,4 +144,4 @@ Notice Federal law allows this unit to be installed only in: AK, AL, AR, CO, CT,
 
 (iii) The manufacturer may include the ENERGY STAR logo on the label for certified products in a location consistent with the sample labels in appendix L to this part. The logo must be no larger than 1 inch by 3 inches in size. Only manufacturers that have signed a Memorandum of Understanding with the Department of Energy or the Environmental Protection Agency may add the ENERGY STAR logo to labels on qualifying covered products; such manufacturers may add the ENERGY STAR logo to labels only on those covered products that are contemplated by the Memorandum of Understanding.
 
-[72 FR 49969, Aug. 29, 2007, as amended at 78 FR 2208, Jan. 10, 2013; 78 FR 8374, Feb. 6, 2013; 78 FR 43982, July 23, 2013; 79 FR 77870, Dec. 29, 2014; 81 FR 63648, Sept. 15, 2016]
+[72 FR 49969, Aug. 29, 2007, as amended at 78 FR 2208, Jan. 10, 2013; 78 FR 8374, Feb. 6, 2013; 78 FR 43982, July 23, 2013; 79 FR 77870, Dec. 29, 2014; 81 FR 63648, Sept. 15, 2016; 83 FR 7596, Feb. 22, 2018]

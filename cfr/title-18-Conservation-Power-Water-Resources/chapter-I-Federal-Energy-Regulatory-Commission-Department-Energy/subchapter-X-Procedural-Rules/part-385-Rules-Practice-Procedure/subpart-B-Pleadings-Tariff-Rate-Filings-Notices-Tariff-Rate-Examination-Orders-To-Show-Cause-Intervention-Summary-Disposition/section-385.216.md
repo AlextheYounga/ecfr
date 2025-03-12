@@ -1,5 +1,7 @@
 ##### § 385.216 Withdrawal of pleadings and tariff or rate filings (Rule 216). #####
 
+Link to an amendment published at 83 FR 23808, May 23, 2018.
+
 (a) *Filing.* Any participant, or any person who has filed a timely motion to intervene which has not been denied, may seek to withdraw a pleading by filing a notice of withdrawal. The procedures provided in this section do not apply to withdrawals of tariff or rate filings, which may be withdrawn only as provided in the regulations under this chapter.
 
 (b) *Action on withdrawals.* (1) The withdrawal of any pleading is effective at the end of 15 days from the date of filing of a notice of withdrawal, if no motion in opposition to the notice of withdrawal is filed within that period and the decisional authority does not issue an order disallowing the withdrawal within that period. The decisional authority may disallow, for a good cause, all or part of a withdrawal.

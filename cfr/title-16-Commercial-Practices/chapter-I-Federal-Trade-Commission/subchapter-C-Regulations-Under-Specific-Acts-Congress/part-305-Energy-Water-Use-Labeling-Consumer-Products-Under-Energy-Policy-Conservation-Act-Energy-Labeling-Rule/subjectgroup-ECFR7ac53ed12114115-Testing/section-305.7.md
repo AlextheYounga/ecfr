@@ -1,7 +1,5 @@
 ##### § 305.7 Determinations of capacity. #####
 
-Link to an amendment published at 83 FR 7596, Feb. 22, 2018.
-
 The capacity of covered products shall be determined as follows:
 
 (a) *Refrigerators and refrigerator-freezers.* The capacity shall be the total refrigerated volume (VT) in cubic feet, rounded to the nearest one-tenth of a cubic foot, as determined according to appendix A to 10 CFR part 430, subpart B.
@@ -14,7 +12,7 @@ The capacity of covered products shall be determined as follows:
 
 (e) *Pool heaters.* The capacity shall be the heating capacity in Btu's per hour, rounded to the nearest 1,000 Btu's per hour, as determined according to appendix P to 10 CFR part 430, subpart B.
 
-(f) *Room air conditioners.* The capacity shall be the cooling capacity in Btu's per hour, as determined according to appendix F to 10 CFR part 430, subpart B, but rounded to the nearest value ending in hundreds that will satisfy the relationship that the value of EER used in representations equals the rounded value of capacity divided by the value of input power in watts. If a value ending in hundreds will not satisfy this relationship, the capacity may be rounded to the nearest value ending in 50 that will.
+(f) *Room air conditioners.* The capacity shall be the cooling capacity in Btu's per hour, as determined according to appendix F to 10 CFR part 430, subpart B, but rounded to the nearest value ending in hundreds that will satisfy the relationship that the value of CEER used in representations equals the rounded value of capacity divided by the value of input power in watts. If a value ending in hundreds will not satisfy this relationship, the capacity may be rounded to the nearest value ending in 50 that will.
 
 (g) *Clothes washers.* The capacity shall be the tub capacity as determined according to Department of Energy test procedures in 10 CFR part 430, subpart B, expressed in terms of “Capacity (tub volume)” in cubic feet, rounded to the nearest one-tenth of a cubic foot, and the capacity class designations “standard” or “compact.”
 
@@ -28,4 +26,4 @@ The capacity of covered products shall be determined as follows:
 
 (l) *Ceiling fans.* The capacity shall be the airflow in cubic feet per minute as determined according to appendix U of 10 CFR part 430, subpart B.
 
-[59 FR 34033, July 1, 1994, as amended at 59 FR 49564, Sept. 28, 1994; 70 FR 3875, Jan. 27, 2005; 73 FR 63067, Oct. 23, 2008; 78 FR 43981, July 23, 2013; 79 FR 77870, Dec. 29, 2014; 80 FR 67299, Nov. 2, 2015; 81 FR 7202, Feb. 11, 2016; 81 FR 63646, Sept. 15, 2016]
+[59 FR 34033, July 1, 1994, as amended at 59 FR 49564, Sept. 28, 1994; 70 FR 3875, Jan. 27, 2005; 73 FR 63067, Oct. 23, 2008; 78 FR 43981, July 23, 2013; 79 FR 77870, Dec. 29, 2014; 80 FR 67299, Nov. 2, 2015; 81 FR 7202, Feb. 11, 2016; 81 FR 63646, Sept. 15, 2016; 83 FR 7596, Feb. 22, 2018]

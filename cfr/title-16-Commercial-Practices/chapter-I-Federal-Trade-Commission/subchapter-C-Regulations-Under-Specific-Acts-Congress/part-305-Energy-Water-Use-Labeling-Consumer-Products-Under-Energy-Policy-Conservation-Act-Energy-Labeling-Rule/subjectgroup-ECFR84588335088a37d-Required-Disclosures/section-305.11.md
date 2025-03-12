@@ -1,7 +1,5 @@
 ##### § 305.11 Labeling for refrigerators, refrigerator-freezers, freezers, dishwashers, clothes washers, water heaters, room air conditioners, and pool heaters. #####
 
-Link to an amendment published at 83 FR 7596, Feb. 22, 2018.
-
 (a) *Layout.* All energy labels for refrigerators, refrigerator-freezers, freezers, dishwashers, clothes washers, water heaters, pool heaters, and room air conditioners shall use one size, similar colors, and typefaces with consistent positioning of headline, copy, and charts to maintain uniformity for immediate consumer recognition and readability. Trim size dimensions for all labels shall be as follows: width must be between 51/4 inches and 51/2 inches (13.34 cm. and 13.97 cm.); length must be between 73/8 inches (18.73 cm.) and 75/8 (19.37 cm.). Copy is to be set between 27 picas and 29 picas and copy page should be centered (right to left and top to bottom). Depth is variable but should follow closely the prototype labels appearing at the end of this part illustrating the basis layout. All positioning, spacing, type sizes, and line widths should be similar to and consistent with the prototype and sample labels in appendix L to this part.
 
 (b) *Type style and setting.* The Arial series typeface or equivalent shall be used exclusively on the label. Specific sizes and faces to be used are indicated on the prototype labels. No hyphenation should be used in setting headline or copy text. Positioning and spacing should follow the prototypes closely. Generally, text must be set flush left with two points leading except where otherwise indicated. See the prototype labels for specific directions.
@@ -14,7 +12,7 @@ Link to an amendment published at 83 FR 7596, Feb. 22, 2018.
 
 (2) *Hang tags.* Labels may be affixed to the product in the form of a hang tag using cable ties or double strings connected through reinforced punch holes, or with attachment and label material of equivalent or greater strength and durability. If paper stock is used for hang tags, it shall have a basic weight of not less than 110 pounds per 500 sheets (251/2″ x 301/2″ index). When materials are used to attach the hang tags to appliance products, the materials shall be of sufficient strength to insure that if gradual pressure is applied to the hang tag by pulling it away from where it is affixed to the product, the hang tag will tear before the material used to affix the hang tag to the product breaks.
 
-(3) *Package labels for certain products.* Labels for electric instantaneous water heaters shall be printed on or affixed to the product's packaging in a conspicuous location.
+(3) *Package labels for certain products.* Labels for electric instantaneous water heaters shall be printed on or affixed to the product's packaging in a conspicuous location. Labels for room air conditioners produced on or after October 1, 2019 shall be printed on or affixed to the principal display panel of the product's packaging.
 
 (e) *Placement* - (1) *Adhesive labels.* Manufacturers shall affix adhesive labels to the covered products in such a position that it is easily read by a consumer examining the product. The label should be generally located on the upper-right-front corner of the product's front exterior. However, some other prominent location may be used as long as the label will not become dislodged during normal handling throughout the chain of distribution to the retailer or consumer. The top of the label should not exceed 74 inches from the base of taller products. The label can be displayed in the form of a flap tag adhered to the top of the appliance and bent (folded at 90°) to hang over the front, as long as this can be done with assurance that it will be readily visible.
 
@@ -158,15 +156,13 @@ Estimated energy cost is based on four washloads a week, and a national average 
 
 For more information, visit *www.ftc.gov/energy*.
 
-(x) For clothes washers covered by appendices F1 and F2, the statement will read as follows (fill in the blanks with the appropriate capacity and energy cost figures):
+(x) For clothes washers covered by appendices F1 and F2 of this part, the statement will read as follows (fill in the blanks with the appropriate capacity and energy cost figures):
 
 Your costs will depend on your utility rates and use.
 
 Cost range based only on [compact/standard] capacity models.
 
-Estimated operating cost is based on six wash loads a week and a national average electricity cost of \_\_ cents per kWh and natural gas cost of $ \_\_ per therm.
-
-*ftc.gov/energy*.
+Estimated energy cost is based on six wash loads a week and a national average electricity cost of \_\_ cents per kWh and natural gas cost of $ \_\_ per therm. *ftc.gov/energy.*
 
 (xi) For pool heaters covered under appendices J1 and J2, the statement will read as follows:
 
@@ -174,4 +170,16 @@ Efficiency range based only on models fueled by [natural gas or oil].
 
 For more information, visit *www.ftc.gov/energy.*
 
-[72 FR 49967, Aug. 29, 2007, as amended at 78 FR 2208, Jan. 10, 2013; 78 FR 43981, July 23, 2013; 80 FR 67299, Nov. 2, 2015; 81 FR 7202, Feb. 11, 2016; 81 FR 63646, Sept. 15, 2016; 82 FR 29235, June 28, 2017]
+(10) The following statement shall appear on each label as illustrated in the prototype and sample labels in appendix L of this part:
+
+Federal law prohibits removal of this label before consumer purchase.
+
+(11) No marks or information other than that specified in this part shall appear on or directly adjoining this label except that:
+
+(i) A part or publication number identification may be included on this label, as desired by the manufacturer. If a manufacturer elects to use a part or publication number, it must appear in the lower right-hand corner of the label and be set in 6-point type or smaller.
+
+(ii) The energy use disclosure labels required by the governments of Canada or Mexico may appear directly adjoining this label, as desired by the manufacturer.
+
+(iii) The manufacturer or private labeler may include the ENERGY STAR logo on the bottom right corner of the label for certified products. The logo must be 1 inch by 1 inch in size. Only manufacturers that have signed a Memorandum of Understanding with the Department of Energy or the Environmental Protection Agency may add the ENERGY STAR logo to labels on certified covered products; such manufacturers may add the ENERGY STAR logo to labels only on those covered products that are contemplated by the Memorandum of Understanding.
+
+[72 FR 49967, Aug. 29, 2007, as amended at 78 FR 2208, Jan. 10, 2013; 78 FR 43981, July 23, 2013; 80 FR 67299, Nov. 2, 2015; 81 FR 7202, Feb. 11, 2016; 81 FR 63646, Sept. 15, 2016; 82 FR 29235, June 28, 2017; 83 FR 7596, Feb. 22, 2018]
