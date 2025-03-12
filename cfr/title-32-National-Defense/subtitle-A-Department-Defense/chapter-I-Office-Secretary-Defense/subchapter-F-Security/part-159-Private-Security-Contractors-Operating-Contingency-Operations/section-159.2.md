@@ -1,5 +1,7 @@
 ##### § 159.2 Applicability and scope. #####
 
+Link to an amendment published at 87 FR 55283, Sept. 9, 2022.
+
 This part:
 
 (a) Applies to:

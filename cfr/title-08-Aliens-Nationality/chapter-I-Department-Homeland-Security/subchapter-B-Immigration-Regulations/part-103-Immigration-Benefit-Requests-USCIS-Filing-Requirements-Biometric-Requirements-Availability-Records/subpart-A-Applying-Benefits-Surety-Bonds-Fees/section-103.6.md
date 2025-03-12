@@ -1,5 +1,7 @@
 ##### § 103.6 Immigration bonds. #####
 
+Link to an amendment published at 87 FR 55636, Sept. 9, 2022.
+
 (a) *Posting of surety bonds* - (1) *Extension agreements; consent of surety; collateral security.* All surety bonds posted in immigration cases shall be executed on Form I-352, Immigration Bond, a copy of which, and any rider attached thereto, shall be furnished the obligor. A district director is authorized to approve a bond, a formal agreement to extension of liability of surety, a request for delivery of collateral security to a duly appointed and undischarged administrator or executor of the estate of a deceased depositor, and a power of attorney executed on Form I-312, Designation of Attorney in Fact. All other matters relating to bonds, including a power of attorney not executed on Form I-312 and a request for delivery of collateral security to other than the depositor or his or her approved attorney in fact, shall be forwarded to the regional director for approval.
 
 (2) *Bond riders* - (i) *General.* Bond riders shall be prepared on Form I-351, Bond Riders, and attached to Form I-352. If a condition to be included in a bond is not on Form I-351, a rider containing the condition shall be executed.

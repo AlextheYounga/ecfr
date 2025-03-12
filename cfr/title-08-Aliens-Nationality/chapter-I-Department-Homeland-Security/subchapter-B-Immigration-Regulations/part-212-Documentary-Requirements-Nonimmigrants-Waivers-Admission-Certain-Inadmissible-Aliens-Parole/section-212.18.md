@@ -1,5 +1,7 @@
 ##### § 212.18 Applications for waivers of inadmissibility in connection with an application for adjustment of status by T nonimmigrant status holders. #####
 
+Link to an amendment published at 87 FR 55636, Sept. 9, 2022.
+
 (a) *Filing the waiver application.* An alien applying for a waiver of inadmissibility under section 245(*l*)(2) of the Act in connection with an application for adjustment of status under 8 CFR 245.23(a) or (b) must submit:
 
 (1) A completed Form I-485 application package;

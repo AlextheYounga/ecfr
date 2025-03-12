@@ -66,7 +66,11 @@
 
 (c) In addition to the care specifically excluded from the “medical benefits package” under paragraphs (a) and (b) of this section, the “medical benefits package” does not include the following:
 
-(1) Abortions and abortion counseling.
+(1) Abortions, except when:
+
+(i) The life or the health of the pregnant veteran would be endangered if the pregnancy were carried to term; or
+
+(ii) The pregnancy is the result of an act of rape or incest. Self-reporting from the pregnant veteran constitutes sufficient evidence that an act of rape or incest occurred.
 
 (2) In vitro fertilization. Note: See § 17.380.
 
@@ -78,4 +82,4 @@
 
 (6) Membership in spas and health clubs.
 
-[64 FR 54217, Oct. 6, 1999, as amended at 67 FR 35039, May 17, 2002; 73 FR 36798, June 30, 2008; 75 FR 54030, Sept. 3, 2010; 76 FR 11339, Mar. 2, 1011; 76 FR 26172, May 5, 2011; 76 FR 78571, Dec. 19, 2011; 82 FR 6275, Jan. 19, 2017; 84 FR 26306, June 5, 2019; 86 FR 84259, Dec. 28, 2020]
+[64 FR 54217, Oct. 6, 1999, as amended at 67 FR 35039, May 17, 2002; 73 FR 36798, June 30, 2008; 75 FR 54030, Sept. 3, 2010; 76 FR 11339, Mar. 2, 1011; 76 FR 26172, May 5, 2011; 76 FR 78571, Dec. 19, 2011; 82 FR 6275, Jan. 19, 2017; 84 FR 26306, June 5, 2019; 86 FR 84259, Dec. 28, 2020; 87 FR 55296, Sept. 9, 2022]

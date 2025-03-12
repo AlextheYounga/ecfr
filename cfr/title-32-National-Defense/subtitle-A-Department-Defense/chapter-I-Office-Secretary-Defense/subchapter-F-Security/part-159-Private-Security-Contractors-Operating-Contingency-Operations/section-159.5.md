@@ -1,5 +1,7 @@
 ##### § 159.5 Responsibilities. #####
 
+Link to an amendment published at 87 FR 55284, Sept. 9, 2022.
+
 (a) The Deputy Assistant Secretary of Defense for Program Support, under the authority, direction, and control of the Assistant Secretary of Defense for Logistics and Materiel Readiness, shall monitor the registering, processing, and accounting of PSC personnel in an area of contingency operations.
 
 (b) The Director, Defense Procurement and Acquisition Policy, under the authority, direction, and control of the Under Secretary of Defense for Acquisition, Technology and Logistics, shall ensure that the DFARS and (in consultation with the other members of the FAR Council) the FAR provide appropriate guidance and contract clauses consistent with this part and paragraph (b) of section 862 of Public Law 110-181.

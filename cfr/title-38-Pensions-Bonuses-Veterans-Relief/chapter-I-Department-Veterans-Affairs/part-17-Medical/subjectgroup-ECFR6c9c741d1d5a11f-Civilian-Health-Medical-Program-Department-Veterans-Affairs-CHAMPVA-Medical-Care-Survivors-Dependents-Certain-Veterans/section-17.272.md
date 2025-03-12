@@ -258,47 +258,49 @@
 
 (63) Services that are provided to a beneficiary who is referred to a provider of such services by a provider who has an economic interest in the facility to which the patient is referred, unless a waiver is granted.
 
-(64) Abortion except when a physician certifies that the life of the mother would be endangered if the fetus were carried to term.
+(64) Abortions, except when:
 
-(65) Abortion counseling.
+(i) The life or the health of the pregnant beneficiary would be endangered if the pregnancy were carried to term; or
 
-(66) Aversion therapy.
+(ii) The pregnancy is the result of an act of rape or incest. Self-reporting from the pregnant beneficiary constitutes sufficient evidence that an act of rape or incest occurred.
 
-(67) Rental or purchase of biofeedback equipment.
+(65) Aversion therapy.
 
-(68) Biofeedback therapy for treatment of ordinary muscle tension states (including tension headaches) or for psychosomatic conditions.
+(66) Rental or purchase of biofeedback equipment.
 
-(69) Immunotherapy for malignant diseases except for treatment of Stage O and Stage A carcinoma of the bladder.
+(67) Biofeedback therapy for treatment of ordinary muscle tension states (including tension headaches) or for psychosomatic conditions.
 
-(70) Services and supplies provided by other than a hospital, such as nonskilled nursing homes, intermediate care facilities, halfway houses, homes for the aged, or other institutions of similar purpose.
+(68) Immunotherapy for malignant diseases except for treatment of Stage O and Stage A carcinoma of the bladder.
 
-(71) Services performed when the patient is not physically present.
+(69) Services and supplies provided by other than a hospital, such as nonskilled nursing homes, intermediate care facilities, halfway houses, homes for the aged, or other institutions of similar purpose.
 
-(72) Medical photography.
+(70) Services performed when the patient is not physically present.
 
-(73) Special tutoring.
+(71) Medical photography.
 
-(74) Surgery for psychological reasons.
+(72) Special tutoring.
 
-(75) Treatment of premenstrual syndrome (PMS).
+(73) Surgery for psychological reasons.
 
-(76) Over-the-counter products except for pharmaceutical smoking cessation supplies that are approved by the U.S. Food and Drug Administration, prescribed, and provided through MbM, and insulin and related diabetic testing supplies and syringes.
+(74) Treatment of premenstrual syndrome (PMS).
 
-(77) Thermography.
+(75) Over-the-counter products except for pharmaceutical smoking cessation supplies that are approved by the U.S. Food and Drug Administration, prescribed, and provided through MbM, and insulin and related diabetic testing supplies and syringes.
 
-(78) Removal of tattoos.
+(76) Thermography.
 
-(79) Penile implant/testicular prosthesis procedures and related supplies for psychological impotence.
+(77) Removal of tattoos.
 
-(80) Dermabrasion of the face except in those cases where coverage has been authorized for reconstructive or plastic surgery required to restore body form following an accidental injury or to revise disfiguring and extensive scars resulting from neoplastic surgery.
+(78) Penile implant/testicular prosthesis procedures and related supplies for psychological impotence.
 
-(81) Chemical peeling for facial wrinkles.
+(79) Dermabrasion of the face except in those cases where coverage has been authorized for reconstructive or plastic surgery required to restore body form following an accidental injury or to revise disfiguring and extensive scars resulting from neoplastic surgery.
 
-(82) Panniculectomy, body sculpting procedures.
+(80) Chemical peeling for facial wrinkles.
 
-(83) Medications not approved by the U.S. Food and Drug Administration (FDA), excluding FDA exceptions to the approval requirement.
+(81) Panniculectomy, body sculpting procedures.
 
-(84) Services and supplies related to the treatment of dyslexia.
+(82) Medications not approved by the U.S. Food and Drug Administration (FDA), excluding FDA exceptions to the approval requirement.
+
+(83) Services and supplies related to the treatment of dyslexia.
 
 (b) Costs of services and supplies to the extent such amounts are billed over the CHAMPVA determined allowable amount are specifically excluded from coverage.
 
@@ -308,4 +310,4 @@
 
 (3) An authorized non-VA provider who accepts responsibility for the care of a CHAMPVA beneficiary thereby agrees to accept the CHAMPVA determined allowable amount as full payment for services and supplies rendered to the beneficiary (*i.e.,* accepted assignment). The provider's acceptance of the CHAMPVA determined allowable amount extinguishes the beneficiary's payment liability to the provider. Any attempts to collect any additional amount from the CHAMPVA beneficiary may result in the provider being excluded from Federal benefits programs. See 42 CFR 1003.105.
 
-[63 FR 48102, Sept. 9, 1998, as amended at 67 FR 4359, Jan. 30, 2002; 73 FR 65553, Nov. 4, 2008; 87 FR 41600, July 13, 2022]
+[63 FR 48102, Sept. 9, 1998, as amended at 67 FR 4359, Jan. 30, 2002; 73 FR 65553, Nov. 4, 2008; 87 FR 41600, July 13, 2022; 87 FR 55296, Sept. 9, 2022]

@@ -1,5 +1,7 @@
 ##### § 159.6 Procedures. #####
 
+Link to an amendment published at 87 FR 55285, Sept. 9, 2022.
+
 (a) *Standing Combatant Command Guidance and Procedures.* Each geographic Combatant Commander shall develop and publish guidance and procedures for PSCs and PSC personnel operating during a contingency operation within their AOR, consistent with applicable law; this part; applicable Military Department publications; and other applicable DoD issuances to include DoD Directive 3020.49, “Orchestrating, Synchronizing, and Integrating Program Management of Contingency Acquisition Planning and Its Operational Execution,” DFARS, DoD Directive 2311.01E, “DoD Law of War Program,”9 DoD 5200.8-R, “Physical Security Program,”10 CJCSI 3121.01B, “Standing Rules of Engagement/Standing Rules for the Use of Force for U.S. Forces,” and DoD Directive 5210.56, “Use of Deadly Force and the Carrying of Firearms by DoD Personnel Engaged in Law Enforcement and Security Duties.”11 The guidance and procedures shall:
 
 9 Available at *http://www.dtic.mil/whs/directives/corres/html/231101.htm.*

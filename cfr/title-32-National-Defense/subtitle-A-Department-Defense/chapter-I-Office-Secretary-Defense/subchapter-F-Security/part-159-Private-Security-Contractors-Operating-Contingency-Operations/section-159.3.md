@@ -1,5 +1,7 @@
 ##### § 159.3 Definitions. #####
 
+Link to an amendment published at 87 FR 55283, Sept. 9, 2022.
+
 Unless otherwise noted, these terms and their definitions are for the purpose of this part.
 
 *Area of combat operations.* An area of operations designated as such by the Secretary of Defense for the purpose of this part, when enhanced coordination of PSCs working for U.S.G. agencies is required.
