@@ -19071,8 +19071,6 @@ The map provided is for informational purposes only.
 
 2. The remainder of § 17.95 appears in 50 Part 17, § 17.95(f) to end of § 17.95.
 
-Link to an amendment published at 85 FR 26818, May 5, 2020.
-
 (f) *Clams and Snails.*
 
 Appalachian Elktoe (*Alasmidonta raveneliana*)
@@ -22991,7 +22989,31 @@ Fender's Blue butterfly (*Icaricia icarioides fenderi*)
 
 (B) Map B of Unit FLB4 follows:
 
-![](/graphics/er12au14.018.gif)Mount Charleston Blue Butterfly (*Icaricia* (*Plebejus*) *shasta charlestonensis*)
+![](/graphics/er12au14.018.gif)Island Marble Butterfly (*Euchloe ausonides insulanus*)
+
+(1) The critical habitat unit is depicted for San Juan County, Washington, on the map below.
+
+(2) Within the critical habitat area on San Juan Island, Washington, the physical or biological features essential to the conservation of the island marble butterfly consist of the following components:
+
+(i) Open, primarily treeless areas with short-statured forb- and grass-dominated vegetation that include diverse topographic features such as ridgelines, hills, and bluffs for patrolling, dispersal corridors between habitat patches, and some south-facing terrain. Areas must be large enough to allow for the development of patchy-population dynamics, allowing for multiple small populations to establish within the area.
+
+(ii) Low- to medium-density larval host plants, with both flower buds and blooms on them between the months of May through July, for egg-laying and larval development. Larval host plants may be any of the following: *Brassica rapa, Sisymbrium altissimum,* or *Lepidium virginicum.*
+
+(iii) Adult nectar resources in flower and short-statured, white-flowering plants in bloom used for mate-finding, which may include, but are not limited to, *Abronia latifolia* (yellow sand verbena), *Achillea millefolium* (yarrow), *Amsinckia menziesii* (small-flowered fiddleneck), *Cakile edentula* (American sea rocket), *Cerastium arvense* (field chickweed), *Erodium cicutarium* (common stork's bill), *Geranium molle* (dovefoot geranium), *Hypochaeris radicata* (hairy cat's ear), *Lomatium utriculatum* (common lomatium), *Lupinus littoralis* (seashore lupine), *Myosotis discolor* (common forget-me-not), *Ranunculus californicus* (California buttercup), *Rubus ursinus* (trailing blackberry), *Taraxacum officinale* (dandelion), *Toxicoscordion venenosum* (death camas, formerly known as *Zigadenus venenosus*), and *Triteleia grandiflora* (Howell's brodiaea, formerly *Brodiaea howellii*).
+
+(iv) Areas of undisturbed vegetation surrounding larval host plants sufficient to provide secure sites for diapause and pupation. The vegetation surrounding larval host plants must be left standing for a sufficient period of time for the island marble butterfly to complete its life cycle.
+
+(3) Critical habitat includes road shoulders and road margins, but does not include other manmade structures (such as buildings, aqueducts, runways, paved portions of roads, and other paved areas) and the land on which they are located existing within the legal boundaries on June 4, 2020.
+
+(4) *Critical habitat map unit.* Data layers defining the map were created using 2015 National Agriculture Imagery Program (NAIP) digital imagery in ArcGIS, version 10.4 (Environmental Systems Research Institute, Inc.), a computer geographic information system program. The map in this entry, as modified by any accompanying regulatory text, establishes the boundaries of the critical habitat designation. The coordinates or plot points or both on which the map is based are available to the public at the Service's internet site at *https://www.fws.gov/wafwo/,* at *http://www.regulations.gov* at Docket No. FWS-R1-ES-2016-0145, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Island marble butterfly critical habitat, San Juan County, Washington.
+
+(i) Island marble butterfly critical habitat consists of 812 acres (ac) (329 hectares (ha)) on San Juan Island in San Juan County, Washington, and is composed of lands in Federal (742 ac (301 ha)), State (37 ac (15 ha)), State/County joint (1 ac (0.4 ha)), County (30 ac (12 ha)), and private (2 ac (0.8 ha)) ownership. The critical habitat designated on private parcels along Eagle Cove only includes the area of steep coastal bluff between the marine shoreline and the upland edge at the top of the bluff; it does not include areas landward of the top of the bluff, which are typically mowed and maintained as yard.
+
+(ii) Map of island marble butterfly critical habitat follows:
+
+![](/graphics/er05my20.000.gif)Mount Charleston Blue Butterfly (*Icaricia* (*Plebejus*) *shasta charlestonensis*)
 
 (1) Critical habitat units are depicted for Clark County, Nevada, on the map below.
 

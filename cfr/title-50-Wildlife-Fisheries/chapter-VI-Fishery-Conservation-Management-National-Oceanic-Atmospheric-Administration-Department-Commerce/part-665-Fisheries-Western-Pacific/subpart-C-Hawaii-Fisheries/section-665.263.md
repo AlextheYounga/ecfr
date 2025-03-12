@@ -1,7 +1,5 @@
 ##### § 665.263 Prohibitions. #####
 
-Link to an amendment published at 85 FR 26624, May 5, 2020.
-
 In addition to the general prohibitions specified in 50 CFR 600.725 and in 665.15, it is unlawful for any person to:
 
 (a) Use any vessel to fish for, take, retain, possess or land precious coral in any Hawaii precious coral permit area, unless a permit has been issued for that vessel and area as specified in § 665.13 and that permit is on board the vessel.
@@ -12,7 +10,7 @@ In addition to the general prohibitions specified in 50 CFR 600.725 and in 665.1
 
 (2) In refugia specified in § 665.261.
 
-(3) In a bed for which the quota specified in § 665.269 has been attained.
+(3) In a bed for which the ACL specified in § 665.269 has been attained.
 
 (4) In violation of any permit issued under §§ 665.13 or 665.17.
 
@@ -24,4 +22,4 @@ In addition to the general prohibitions specified in 50 CFR 600.725 and in 665.1
 
 (2) The coral originated outside coral beds listed in this paragraph, and this can be demonstrated through receipts of purchase, invoices, or other documentation.
 
-[75 FR 2205, Jan. 14, 2010, as amended at 84 FR 2773, Feb. 8, 2019]
+[75 FR 2205, Jan. 14, 2010, as amended at 84 FR 2773, Feb. 8, 2019; 85 FR 26624, May 5, 2020]
