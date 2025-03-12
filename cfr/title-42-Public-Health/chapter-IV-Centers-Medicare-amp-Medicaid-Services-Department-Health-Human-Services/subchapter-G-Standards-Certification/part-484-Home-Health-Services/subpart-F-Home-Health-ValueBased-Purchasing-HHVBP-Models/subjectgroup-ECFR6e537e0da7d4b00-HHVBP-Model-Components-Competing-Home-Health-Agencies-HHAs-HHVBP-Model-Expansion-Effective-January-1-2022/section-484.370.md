@@ -1,5 +1,7 @@
 ##### § 484.370 Process for determining and applying the value-based payment adjustment under the Expanded Home Health Value-Based Purchasing (HHVBP) Model. #####
 
+Link to an amendment published at 87 FR 66887, Nov. 4, 2022.
+
 (a) *General.* Competing home health agencies are ranked within the larger-volume and smaller-volume cohorts nationwide based on the performance standards in this part that apply to the expanded HHVBP Model for the baseline year, and CMS makes value-based payment adjustments to the competing HHAs as specified in this section.
 
 (b) *Calculation of the value-based payment adjustment amount.* The value-based payment adjustment amount is calculated by multiplying the home health prospective payment final claim payment amount as calculated in accordance with § 484.205 by the payment adjustment percentage.

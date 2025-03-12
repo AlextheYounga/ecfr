@@ -1,5 +1,7 @@
 ##### § 15.401 Employment and service within restrictions of credential. #####
 
+Link to an amendment published at 87 FR 66591, Nov. 4, 2022.
+
 (a) A person may not employ or engage an individual, and an individual may not serve, in a position in which an individual is required by law or regulation to hold a license, certificate of registry, Merchant Mariner's Document (MMD), Transportation Worker Identification Credential (TWIC) and/or Merchant Mariner Credential (MMC), unless the individual holds all credentials required, as appropriate, authorizing service in the capacity in which the individual is engaged or employed, and the individual serves within any restrictions placed on the credential. An individual holding an active license, certificate of registry, MMD, or MMC issued by the Coast Guard must also hold a valid TWIC issued by the Transportation Security Administration unless the individual is exempt under 46 CFR 10.203(b)(1).
 
 (b) A person may not employ or engage an individual, and an individual may not serve in a position in which it is required by law or regulation that the individual hold an MMC endorsed with a national endorsement, as well as a corresponding STCW endorsement for service outside the boundary line.

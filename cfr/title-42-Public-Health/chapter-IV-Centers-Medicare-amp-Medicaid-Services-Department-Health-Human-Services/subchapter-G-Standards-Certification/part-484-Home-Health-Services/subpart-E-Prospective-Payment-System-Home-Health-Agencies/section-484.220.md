@@ -1,5 +1,7 @@
 ##### § 484.220 Calculation of the case-mix and wage area adjusted prospective payment rates. #####
 
+Link to an amendment published at 87 FR 66886, Nov. 4, 2022.
+
 CMS adjusts the national, standardized prospective payment rates as referenced in § 484.215 to account for the following:
 
 (a) HHA case-mix using a case-mix index to explain the relative resource utilization of different patients. To address changes to the case-mix that are a result of changes in the coding or classification of different units of service that do not reflect real changes in case-mix, the national, standardized prospective payment rate will be adjusted downward as follows:

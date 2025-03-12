@@ -100,7 +100,7 @@ The hospital must have active hospital-wide programs for the surveillance, preve
 
 (ii) Total deaths among patients.
 
-(ii) Confirmed co-morbid influenza and COVID-19 infections among patients.
+(iii) Confirmed co-morbid influenza and COVID-19 infections among patients.
 
 (g) *Standard: COVID-19 Vaccination of hospital staff.* The hospital must develop and implement policies and procedures to ensure that all staff are fully vaccinated for COVID-19. For purposes of this section, staff are considered fully vaccinated if it has been 2 weeks or more since they completed a primary vaccination series for COVID-19. The completion of a primary vaccination series for COVID-19 is defined here as the administration of a single-dose vaccine, or the administration of all required doses of a multi-dose vaccine.
 
@@ -146,4 +146,4 @@ The hospital must have active hospital-wide programs for the surveillance, preve
 
 (x) Contingency plans for staff who are not fully vaccinated for COVID-.
 
-[84 FR 51820, Sept. 30, 2019, as amended at 85 FR 54872, Sept. 2, 2020; 85 FR 86303, Dec. 29, 2020; 86 FR 61619, Nov. 5, 2021; 87 FR 49409, Aug. 10, 2022]Editorial Note:At 85 FR 86303, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.
+[84 FR 51820, Sept. 30, 2019, as amended at 85 FR 54872, Sept. 2, 2020; 85 FR 86303, Dec. 29, 2020; 86 FR 61619, Nov. 5, 2021; 87 FR 49409, Aug. 10, 2022; 87 FR 66575, Nov. 4, 2022]Editorial Note:At 85 FR 86303, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.

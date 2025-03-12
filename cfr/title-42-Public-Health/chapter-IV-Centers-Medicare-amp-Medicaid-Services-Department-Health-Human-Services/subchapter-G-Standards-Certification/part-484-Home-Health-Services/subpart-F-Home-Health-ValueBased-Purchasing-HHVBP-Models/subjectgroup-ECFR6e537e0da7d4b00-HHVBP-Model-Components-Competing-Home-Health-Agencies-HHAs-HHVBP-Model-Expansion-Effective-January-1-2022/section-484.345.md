@@ -1,5 +1,7 @@
 ##### § 484.345 Definitions. #####
 
+Link to an amendment published at 87 FR 66887, Nov. 4, 2022.
+
 As used in this subpart -
 
 *Achievement threshold* means the median (50th percentile) of home health agency performance on a measure during a baseline year, calculated separately for the larger- and smaller-volume cohorts.

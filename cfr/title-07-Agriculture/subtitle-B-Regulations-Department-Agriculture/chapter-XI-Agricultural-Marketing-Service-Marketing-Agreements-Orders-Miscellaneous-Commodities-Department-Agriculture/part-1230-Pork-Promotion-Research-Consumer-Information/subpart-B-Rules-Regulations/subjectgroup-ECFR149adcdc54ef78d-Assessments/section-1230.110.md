@@ -1,5 +1,7 @@
 ##### § 1230.110 Assessments on imported pork and pork products. #####
 
+Link to an amendment published at 87 FR 66538, Nov. 4, 2022.
+
 (a) The following Harmonized Tariff Schedule (HTS) categories of imported live porcine animals are subject to assessment at the rate specified.
 
 |Live porcine animals|              Article description              |            Assessment             |

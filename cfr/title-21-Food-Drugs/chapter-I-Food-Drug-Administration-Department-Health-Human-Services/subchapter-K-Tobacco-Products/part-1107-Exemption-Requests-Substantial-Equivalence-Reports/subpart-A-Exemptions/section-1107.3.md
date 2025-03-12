@@ -34,4 +34,4 @@
 
 (d) *Record retention.* All records required by this subpart must be retained for a period of 4 years from the date that an acknowledgement letter is issued by FDA.
 
-{86 FR 55412, Oct. 5, 2021]
+[86 FR 55412, Oct. 5, 2021]

@@ -1,5 +1,7 @@
 ##### § 484.245 Requirements under the Home Health Quality Reporting Program (HH QRP). #####
 
+Link to an amendment published at 87 FR 66886, Nov. 4, 2022.
+
 (a) *Participation.* Beginning January 1, 2007, an HHA must report Home Health Quality Reporting Program (HH QRP) data in accordance with the requirements of this section.
 
 (b) *Data submission.* (1) Except as provided in paragraph (d) of this section, and for a program year, an HHA must submit all of the following to CMS:

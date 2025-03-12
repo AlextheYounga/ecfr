@@ -1,5 +1,7 @@
 ##### § 17.73 Special rules - flowering plants. #####
 
+Link to an amendment published at 87 FR 66607, Nov. 4, 2022.
+
 (a) *Graptopetalum bartramii* (Bartram's stonecrop) - (1) *Prohibitions.* The following prohibitions apply to *Graptopetalum bartramii,* except as provided under paragraph (a)(2) of this section:
 
 (i) *Import or export.* It is unlawful to import or to export any *Graptopetalum bartramii.* Any shipment in transit through the United States is an importation and an exportation, whether or not it has entered the country for customs purposes.

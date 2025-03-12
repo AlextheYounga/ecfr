@@ -1,5 +1,7 @@
 ##### § 10.301 General requirements. #####
 
+Link to an amendment published at 87 FR 66590, Nov. 4, 2022.
+
 (a) The Coast Guard will issue a medical certificate to a mariner meeting the medical and physical standards for merchant mariners. The medical certificate will be issued for various periods of time based upon the endorsements the mariner holds. The Coast Guard will review all information provided and will determine whether -
 
 (1) The applicant is physically and medically qualified for the medical certificate without any limitations, waivers and/or other conditions;
