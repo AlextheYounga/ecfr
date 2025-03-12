@@ -1,6 +1,6 @@
 ##### § 54.313 Annual reporting requirements for high-cost recipients. #####
 
-Link to an amendment published at 84 FR 59963, Nov. 7, 2019.
+Link to an amendment published at 84 FR 59963, Nov. 7, 2019.Link to an amendment published at 85 FR 13797, Mar. 10, 2020.
 
 (a) Any recipient of high-cost support shall provide the following:
 

@@ -1,7 +1,5 @@
 ##### § 429.12 General requirements applicable to certification reports. #####
 
-Link to an amendment published at 85 FR 1446, Jan. 10, 2020.Link to an amendment published at 85 FR 1591, Jan. 10, 2020.
-
 (a) *Certification.* Each manufacturer, before distributing in commerce any basic model of a covered product or covered equipment subject to an applicable energy conservation standard set forth in parts 430 or 431, and annually thereafter on or before the dates provided in paragraph (d) of this section, shall submit a certification report to DOE certifying that each basic model meets the applicable energy conservation standard(s). The certification report(s) must be submitted to DOE in accordance with the submission procedures of paragraph (h) of this section.
 
 (b) *Certification report.* A certification report shall include a compliance statement (see paragraph (c) of this section), and for each basic model, the information listed in this paragraph (b).
@@ -30,7 +28,7 @@ Link to an amendment published at 85 FR 1446, Jan. 10, 2020.Link to an amendment
 
 (12) If the test sample size is listed as “0” to indicate the certification is based upon the use of an alternate way of determining measures of energy conservation, identify the method used for determining measures of energy conservation (such as “AEDM,” or linear interpolation). Manufacturers of commercial packaged boilers, commercial water heating equipment, commercial refrigeration equipment, commercial HVAC equipment, and central air conditioners and central air conditioning heat pumps must provide the manufacturer's designation (name or other identifier) of the AEDM used; and
 
-(13) Product specific information listed in §§ 429.14 through 429.60 of this chapter.
+(13) Product specific information listed in §§ 429.14 through 429.63 of this chapter.
 
 (c) *Compliance statement.* The compliance statement required by paragraph (b) of this section shall include the date, the name of the company official signing the statement, and his or her signature, title, address, telephone number, and facsimile number and shall certify that:
 
@@ -53,6 +51,7 @@ Link to an amendment published at 85 FR 1446, Jan. 10, 2020.Link to an amendment
 |                                       Residential refrigerators, Residential refrigerators-freezers, Residential freezers, Commercial refrigerator, freezer, and refrigerator-freezer, Automatic commercial automatic ice makers, Refrigerated bottled or canned beverage vending machine, Walk-in coolers, Walk-in freezers, and Miscellaneous refrigeration products                                        |          Aug. 1.           |
 |                                                                                                                                                     Torchieres, Residential dehumidifiers, Metal halide lamp fixtures, External power supplies, and Pumps                                                                                                                                                     |          Sept. 1.          |
 |                                                                                                                          Residential clothes washers, Residential clothes dryers, Residential direct heating equipment, Residential cooking products, and Commercial clothes washers                                                                                                                          |          Oct. 1.           |
+|                                                                                                                                                                                           Portable air conditioners                                                                                                                                                                                           |        February 1.         |
 
 (e) *New model filing.* (1) In addition to the annual filing schedule in paragraph (d) of this section, any new basic models must be certified pursuant to paragraph (a) of this section before distribution in commerce. A modification to a model that increases the model's energy or water consumption or decreases its efficiency resulting in re-rating must be certified as a new basic model pursuant to paragraph (a) of this section.
 
@@ -78,4 +77,4 @@ Link to an amendment published at 85 FR 1446, Jan. 10, 2020.Link to an amendment
 
 (5) Small, large, or very large air-cooled, water-cooled, evaporatively-cooled, and water-source commercial air conditioning and heating equipment, single package vertical units, computer room air conditioners, commercial packaged boilers with input capacities greater than 2.5 million Btu/h, and all other types of commercial refrigeration equipment except those specified in paragraph (i)(3) of this section, July 1, 2015.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24762, May 2, 2011, as amended at 76 FR 38292, June 30, 2011; 76 FR 65365, Oct. 21, 2011; 77 FR 76830, Dec. 31, 2012; 78 FR 79593, Dec. 31, 2013; 79 FR 25500, May 5, 2014; 79 FR 38208, July 3, 2014; 81 FR 4430, Jan. 26, 2016; 81 FR 37049, June 8, 2016; 81 FR 43425, July 1, 2016; 81 FR 46789, July 18, 2016; 81 FR 59415, Aug. 29, 2016; 81 FR 95798, Dec. 28, 2016]
+[76 FR 12451, Mar. 7, 2011; 76 FR 24762, May 2, 2011, as amended at 76 FR 38292, June 30, 2011; 76 FR 65365, Oct. 21, 2011; 77 FR 76830, Dec. 31, 2012; 78 FR 79593, Dec. 31, 2013; 79 FR 25500, May 5, 2014; 79 FR 38208, July 3, 2014; 81 FR 4430, Jan. 26, 2016; 81 FR 37049, June 8, 2016; 81 FR 43425, July 1, 2016; 81 FR 46789, July 18, 2016; 81 FR 59415, Aug. 29, 2016; 81 FR 95798, Dec. 28, 2016; 85 FR 1446, 1591, Jan. 10, 2020]

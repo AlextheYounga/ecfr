@@ -1,4 +1,6 @@
-##### § 54.310 Connect America Fund for Price Cap Territories - Phase II #####
+##### § 54.310 Connect America Fund for Price Cap Territories - Phase II. #####
+
+Link to an amendment published at 85 FR 13797, Mar. 10, 2020.
 
 (a) *Geographic areas eligible for support.* Connect America Phase II support may be made available for census blocks or other areas identified as eligible by public notice, including locations identified by the forward-looking cost model as extremely high-cost. The number of supported locations will be identified for each area eligible for support will be identified by public notice.
 

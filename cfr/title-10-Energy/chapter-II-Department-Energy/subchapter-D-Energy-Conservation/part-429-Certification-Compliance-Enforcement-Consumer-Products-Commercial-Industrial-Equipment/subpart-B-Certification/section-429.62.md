@@ -1,7 +1,5 @@
 ##### § 429.62 Portable air conditioners. #####
 
-Link to an amendment published at 85 FR 1446, Jan. 10, 2020.
-
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to portable air conditioners; and
 
 (2) For each basic model of portable air conditioner, a sample of sufficient size must be randomly selected and tested to ensure that -
@@ -40,6 +38,8 @@ And,
 
 (5) Single-duct and dual-duct portable air conditioners distributed in commerce by the manufacturer with multiple duct configuration options that meet DOE's definitions for single-duct portable AC and dual-duct portable AC, must be rated and certified under both applicable duct configurations.
 
-(b) *Certification reports.* [Reserved]
+(b) *Certification reports.* (1) The requirements of § 429.12 are applicable to single-duct and dual-duct portable air conditioners; and
 
-[81 FR 35264, June 1, 2016]
+(2) Pursuant to § 429.12(b)(13), a certification report shall include the following public product-specific information: The combined energy efficiency ratio (CEER in British thermal units per Watt-hour (Btu/Wh)), the seasonally adjusted cooling capacity in British thermal units per hour (Btu/h), the duct configuration (single-duct, dual-duct, or ability to operate in both configurations), presence of heating function, and primary condensate removal feature (auto-evaporation, gravity drain, removable internal collection bucket, or condensate pump).
+
+[81 FR 35264, June 1, 2016, as amended at 85 FR 1446, Jan. 10, 2020]

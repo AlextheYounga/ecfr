@@ -1,12 +1,12 @@
 ##### § 431.342 Definitions concerning compressors. #####
 
-Link to an amendment published at 85 FR 1591, Jan. 10, 2020.
-
-The following definitions are applicable to this subpart, including appendix A. In cases where there is a conflict, the language of the definitions adopted in this section take precedence over any descriptions or definitions found in any other source, including in ISO Standard 1217:2009(E), “Displacement compressors - Acceptance tests,” as amended through Amendment 1:2016(E), “Calculation of isentropic efficiency and relationship with specific energy” (incorporated by reference, see § 431.343). In cases where definitions reference design intent, DOE will consider all relevant information, including marketing materials, labels and certifications, and equipment design, to determine design intent.
+The following definitions are applicable to this subpart, including appendix A. In cases where there is a conflict, the language of the definitions adopted in this section take precedence over any descriptions or definitions found in any other source, including in ISO Standard 1217:2009(E), “Displacement compressors—Acceptance tests,” as amended through Amendment 1:2016(E), “Calculation of isentropic efficiency and relationship with specific energy” (incorporated by reference, see § 431.343). In cases where definitions reference design intent, DOE will consider all relevant information, including marketing materials, labels and certifications, and equipment design, to determine design intent.
 
 *Actual volume flow rate* means the volume flow rate of air, compressed and delivered at the standard discharge point, referred to conditions of total temperature, total pressure and composition prevailing at the standard inlet point, and as determined in accordance with the test procedures prescribed in § 431.344.
 
 *Air compressor* means a compressor designed to compress air that has an inlet open to the atmosphere or other source of air, and is made up of a compression element (bare compressor), driver(s), mechanical equipment to drive the compressor element, and any ancillary equipment.
+
+*Air-cooled compressor* means a compressor that utilizes air to cool both the compressed air and, if present, any auxiliary substance used to facilitate compression, and that is not a liquid-cooled compressor.
 
 *Ancillary equipment* means any equipment distributed in commerce with an air compressor but that is not a bare compressor, driver, or mechanical equipment. Ancillary equipment is considered to be part of a given air compressor, regardless of whether the ancillary equipment is physically attached to the bare compressor, driver, or mechanical equipment at the time when the air compressor is distributed in commerce.
 
@@ -36,6 +36,8 @@ The following definitions are applicable to this subpart, including appendix A. 
 
 *Full-load actual volume flow rate* means the actual volume flow rate of the compressor at the full-load operating pressure.
 
+*Liquid-cooled compressor* means a compressor that utilizes liquid coolant provided by an external system to cool both the compressed air and, if present, any auxiliary substance used to facilitate compression.
+
 *Lubricant-free compressor* means a compressor that does not introduce any auxiliary substance into the compression chamber at any time during operation.
 
 *Lubricated compressor* means a compressor that introduces an auxiliary substance into the compression chamber during compression.
@@ -60,4 +62,6 @@ The following definitions are applicable to this subpart, including appendix A. 
 
 *Variable-speed compressor* means an air compressor that is capable of adjusting the speed of the driver continuously over the driver operating speed range in response to incremental changes in the required compressor actual volume flow rate.
 
-[82 FR 1101, Jan. 4, 2017]
+*Water-injected lubricated compressor* means a lubricated compressor that uses injected water as an auxiliary substance.
+
+[82 FR 1101, Jan. 4, 2017, as amended at 85 FR 1591, Jan. 10, 2020]

@@ -1,7 +1,5 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 85 FR 1446, Jan. 10, 2020.Link to an amendment published at 85 FR 1503, Jan. 10, 2020.Link to a correction published at 85 FR 3232, Jan. 21, 2020.
-
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
 (a) *Refrigerators/refrigerator-freezers/freezers.* These standards do not apply to refrigerators and refrigerator-freezers with total refrigerated volume exceeding 39 cubic feet (1104 liters) or freezers with total refrigerated volume exceeding 30 cubic feet (850 liters). The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values.
@@ -909,6 +907,20 @@ Table 1 - Energy Conservation Standards for Covered Residential Furnace Fans\*
 
 (2) A battery charger shall not be subject to the standards in paragraph (z)(1) of this section if it is a device that requires Federal Food and Drug Administration (FDA) listing and approval as a life-sustaining or life-supporting device in accordance with section 513 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360(c)).
 
+(3) All uninterruptible power supplies (UPS) manufactured on and after January 10, 2022, that utilize a NEMA 1-15P or 5-15P input plug and have an AC output shall have an average load adjusted efficiency that meets or exceeds the values shown in the table in this paragraph (z)(3) based on the rated output power (Prated) of the UPS.
+
+|Battery charger product class|  Rated output power   |                Minimum efficiency                |
+|-----------------------------|-----------------------|--------------------------------------------------|
+|       10a (VFD UPSs)        | 0 W \< Prated ≤ 300 W |−1.20E-06 \* P2rated + 7.17E-04 \* Prated + 0.862.|
+|                             |300 W \< Prated ≤ 700 W|−7.85E-08 \* P2rated + 1.01E-04 \* Prated + 0.946.|
+|                             |    Prated \> 700 W    |−7.23E-09 \* P2rated + 7.52E-06 \* Prated + 0.977.|
+|        10b (VI UPSs)        | 0 W \< Prated ≤ 300 W |−1.20E-06 \* P2rated + 7.19E-04 \* Prated + 0.863.|
+|                             |300 W \< Prated ≤ 700 W|−7.67E-08 \* P2rated + 1.05E-04 \* Prated + 0.947.|
+|                             |    Prated \> 700 W    |−4.62E-09 \* P2rated + 8.54E-06 \* Prated + 0.979.|
+|       10c (VFI UPSs)        | 0 W \< Prated ≤ 300 W |−3.13E-06 \* P2rated + 1.96E-03 \* Prated + 0.543.|
+|                             |300 W \< Prated ≤ 700 W|−2.60E-07 \* P2rated + 3.65E-04 \* Prated + 0.764.|
+|                             |    Prated \> 700 W    |−1.70E-08 \* P2rated + 3.85E-05 \* Prated + 0.876.|
+
 (aa) *Miscellaneous refrigeration products.* The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values.
 
 (1) Coolers manufactured starting on October 28, 2019 shall have Annual Energy Use (AEU) no more than:
@@ -951,4 +963,6 @@ AV = Total adjusted volume, expressed in ft<sup>3</sup>, as calculated according
 
 (ii) Be sold at retail only in a package containing one lamp.
 
-[54 FR 6077, Feb. 7, 1989]Editorial Note:For Federal Register citations affecting § 430.32, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(cc) *Portable air conditioners.* Single-duct portable air conditioners and dual-duct portable air conditioners manufactured on or after January 10, 2025 must have a combined energy efficiency ratio (CEER) in Btu/Wh no less than SACC: Seasonally adjusted cooling capacity in Btu/h, as determined in appendix CC of subpart B of this part.
+
+![](/graphics/er10ja20.020.gif)[54 FR 6077, Feb. 7, 1989]Editorial Note:For Federal Register citations affecting § 430.32, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

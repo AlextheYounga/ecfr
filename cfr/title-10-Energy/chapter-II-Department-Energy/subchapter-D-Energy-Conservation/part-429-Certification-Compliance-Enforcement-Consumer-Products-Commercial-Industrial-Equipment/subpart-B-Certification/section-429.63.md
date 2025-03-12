@@ -1,7 +1,5 @@
 ##### § 429.63 Compressors. #####
 
-Link to an amendment published at 85 FR 1591, Jan. 10, 2020.
-
 (a) *Determination of represented value.* Manufacturers must determine the represented value, which includes the certified rating, for each basic model of compressor either by testing in conjunction with the applicable sampling provisions or by applying an AEDM.
 
 (1) *Units to be tested.* (i) If the represented value is determined through testing, the general requirements of § 429.11 apply; and
@@ -44,6 +42,48 @@ And x is the sample mean; s is the sample standard deviation; n is the number of
 
 (iii) *Pressure ratio at full-load operating pressure.* The representative value of pressure ratio at full-load operating pressure of a basic model must be either be determined as the mean of the pressure ratio at full-load operating pressure for the units in the sample or through the application of an AEDM pursuant to the requirements of § 429.70.
 
-(b) [Reserved]
+(b) *Certification reports.* (1) The requirements of § 429.12 are applicable to compressors; and
 
-[82 FR 1099, Jan. 4, 2017]
+(2) Pursuant to § 429.12(b)(13), a certification report will include the following public product-specific information:
+
+(i) Full-load package isentropic efficiency or part-load package isentropic efficiency, as applicable (dimensionless).
+
+(ii) Full-load actual volume flow rate (in cubic feet per minute).
+
+(iii) Compressor motor nominal horsepower (in horsepower).
+
+(iv) Full-load operating pressure (in pounds per square inch, gauge).
+
+(v) Maximum full-flow operating pressure (in pounds per square inch, gauge).
+
+(vi) Pressure ratio at full-load operating pressure (dimensionless).
+
+(vii) For any ancillary equipment that is installed for test, but is not part of the compressor package as distributed in commerce (per the requirements of 10 CFR part 431, subpart T, appendix A, section I(B)(4)), the following must be reported:
+
+(A) A general description of the ancillary equipment, based on the list provided in the first column of Table 1 of 10 CFR part 431, subpart T, appendix A, section I(B)(4).
+
+(B) The manufacturer of the ancillary equipment.
+
+(C) The brand of the ancillary equipment (if different from the manufacturer).
+
+(D) The model number of the ancillary equipment.
+
+(E) The serial number of the ancillary equipment (if applicable).
+
+(F) The following electrical characteristics, if applicable:
+
+(*1*) Input Voltage.
+
+(*2*) Number of Phases.
+
+(*3*) Input Frequency.
+
+(G) The following mechanical characteristics, if applicable:
+
+(*1*) Size of any connections.
+
+(*2*) Type of any connections.
+
+(H) Installation instructions for the ancillary equipment, accompanied by photos that clearly illustrate the ancillary equipment, as installed on compressor package. Instructions and photo(s) to be provided in portable document format (*i.e.,* a PDF file).
+
+[82 FR 1099, Jan. 4, 2017, as amended at 85 FR 1591, Jan. 10, 2020]

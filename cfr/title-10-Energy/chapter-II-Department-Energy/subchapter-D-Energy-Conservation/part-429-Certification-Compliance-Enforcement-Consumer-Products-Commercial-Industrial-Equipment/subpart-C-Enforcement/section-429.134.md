@@ -1,7 +1,5 @@
 ##### § 429.134 Product-specific enforcement provisions. #####
 
-Link to an amendment published at 85 FR 1446, Jan. 10, 2020.
-
 (a) *General.* The following provisions apply to assessment and enforcement testing of the relevant products and equipment.
 
 (b) *Refrigerators, refrigerator-freezers, and freezers* - (1) *Verification of total refrigerated volume.* The total refrigerated volume of the basic model will be measured pursuant to the test requirements of 10 CFR part 430 for each unit tested. The results of the measurement(s) will be averaged and compared to the value of total refrigerated volume certified by the manufacturer. The certified total refrigerated volume will be considered valid only if:
@@ -257,4 +255,10 @@ Table 1 of § 429.134 - Allowable Percentage Deviation From the Certified Full-L
 
 (4) For each basic model of walk-in cooler and walk-in freezer door, DOE will calculate the door's energy consumption using the power listed on the nameplate of each electricity consuming device shipped with the door. If an electricity consuming device shipped with a walk-in door does not have a nameplate or such nameplate does not list the device's power, then DOE will use the device's “rated power” included in the door's certification report.
 
-[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017]
+(r) *Portable air conditioners. Verification of seasonally adjusted cooling capacity.* The seasonally adjusted cooling capacity will be measured pursuant to the test requirements of 10 CFR part 430 for each unit tested. The results of the measurement(s) will be averaged and compared to the value of seasonally adjusted cooling capacity certified by the manufacturer. The certified seasonally adjusted cooling capacity will be considered valid only if the average measured seasonally adjusted cooling capacity is within five percent of the certified seasonally adjusted cooling capacity.
+
+(1) If the certified seasonally adjusted cooling capacity is found to be valid, the certified value will be used as the basis for determining the minimum allowed combined energy efficiency ratio for the basic model.
+
+(2) If the certified seasonally adjusted cooling capacity is found to be invalid, the average measured seasonally adjusted cooling capacity will be used to determine the minimum allowed combined energy efficiency ratio for the basic model.
+
+[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020]
