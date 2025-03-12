@@ -1,5 +1,7 @@
 ##### § 210.3-05 Financial statements of businesses acquired or to be acquired. #####
 
+Link to an amendment published at 83 FR 32018, July 10, 2018.
+
 (a) *Financial statements required.* (1) Financial statements prepared and audited in accordance with this regulation should be furnished for the periods specified in paragraph (b) below if any of the following conditions exist:
 
 (i) A business combination has occurred or is probable (for purposes of this section, this encompasses the acquisition of an interest in a business accounted for by the equity method); or
