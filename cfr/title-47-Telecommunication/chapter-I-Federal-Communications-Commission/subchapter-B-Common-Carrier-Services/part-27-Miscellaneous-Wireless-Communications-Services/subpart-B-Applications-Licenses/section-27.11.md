@@ -1,5 +1,7 @@
 ##### § 27.11 Initial authorization. #####
 
+Link to an amendment published at 85 FR 22881, Apr. 23, 2020.
+
 (a) An applicant must file a single application for an initial authorization for all markets won and frequency blocks desired. Initial authorizations shall be granted in accordance with § 27.5. Applications for individual sites are not required and will not be accepted, except where required for environmental assessments, in accordance with §§ 1.1301 through 1.1319 of this chapter.
 
 (b) *2305-2320 MHz and 2345-2360 MHz bands.* Initial authorizations for the 2305-2320 MHz and 2345-2360 MHz bands shall be for 10 megahertz of spectrum in accordance with § 27.5(a).

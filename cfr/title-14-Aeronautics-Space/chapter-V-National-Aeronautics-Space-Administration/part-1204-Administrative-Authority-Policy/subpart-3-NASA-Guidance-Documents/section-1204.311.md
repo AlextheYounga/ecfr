@@ -1,0 +1,3 @@
+##### § 1204.311 Exigent circumstances. #####
+
+In emergency situations or when NASA is required by statutory deadline or court order to act more quickly than normal review procedures allow, the issuing NASA responsible office shall coordinate with NASA's MSD to notify OIRA as soon as possible and, to the extent practicable, comply with the requirements of this subpart at the earliest opportunity. Wherever practicable, the issuing NASA responsible office should schedule its proceedings to permit sufficient time to comply with the procedures set forth in this subpart.

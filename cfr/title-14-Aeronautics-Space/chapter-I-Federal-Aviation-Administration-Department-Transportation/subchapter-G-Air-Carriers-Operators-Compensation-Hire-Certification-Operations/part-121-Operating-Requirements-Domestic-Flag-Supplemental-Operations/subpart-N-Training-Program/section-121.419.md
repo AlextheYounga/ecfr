@@ -1,10 +1,8 @@
-##### § 121.419 Pilots and flight engineers: Initial, transition, and upgrade ground training. #####
+##### § 121.419 Pilots and flight engineers: Initial, transition, conversion and upgrade ground training. #####
 
-Link to an amendment published at 85 FR 10922, Feb. 25, 2020.
+(a) Except as provided in paragraph (b) of this section, initial and conversion ground training for pilots and initial and transition ground training for flight engineers, must include instruction in at least the following as applicable to their assigned duties:
 
-(a) Except as provided in paragraph (b) of this section, initial, transition, and upgrade ground training for pilots and flight engineers must include instruction in at least the following as applicable to their assigned duties:
-
-(1) General subjects -
+(1) General subjects—
 
 (i) The certificate holder's dispatch or flight release procedures;
 
@@ -24,7 +22,7 @@ Link to an amendment published at 85 FR 10922, Feb. 25, 2020.
 
 (ix) Other instructions as necessary to ensure pilot and flight engineer competence.
 
-(2) For each airplane type -
+(2) For each airplane type—
 
 (i) A general description;
 
@@ -36,7 +34,7 @@ Link to an amendment published at 85 FR 10922, Feb. 25, 2020.
 
 (v) Major airplane systems (e.g., flight controls, electrical, hydraulic); other systems as appropriate; principles of normal, abnormal, and emergency operations; appropriate procedures and limitations;
 
-(vi) Procedures for -
+(vi) Procedures for—
 
 (A) Recognizing and avoiding severe weather situations;
 
@@ -58,9 +56,9 @@ Link to an amendment published at 85 FR 10922, Feb. 25, 2020.
 
 (xiii) The approved Airplane Flight Manual.
 
-(b) Initial ground training for pilots who have completed the airline transport pilot certification training program in § 61.156 must include instruction in at least the following as applicable to their assigned duties:
+(b) Initial and conversion ground training for pilots who have completed the airline transport pilot certification training program in § 61.156 of this chapter, and transition ground training for pilots, must include instruction in at least the following as applicable to their assigned duties:
 
-(1) Ground training specific to the certificate holder's -
+(1) Ground training specific to the certificate holder's—
 
 (i) Dispatch or flight release procedures;
 
@@ -76,9 +74,15 @@ Link to an amendment published at 85 FR 10922, Feb. 25, 2020.
 
 (2) The training required by paragraph (a)(2) of this section for the airplane type.
 
-(c) Initial ground training for pilots and flight engineers must consist of at least the following programmed hours of instruction in the required subjects specified in paragraph (a) of this section and in § 121.415(a) unless reduced under § 121.405:
+(c) Beginning on April 27, 2022, and in addition to the requirements in paragraph (a) or (b) of this section, as applicable, initial ground training for pilots in command must include instruction and facilitated discussion on the following:
 
-(1) Group I airplanes -
+(1) Leadership and command, including flightcrew member duties under § 121.542; and
+
+(2) Mentoring, including techniques for instilling and reinforcing the highest standards of technical performance, airmanship, and professionalism in newly hired pilots.
+
+(d) Initial ground training for pilots and flight engineers must consist of at least the following programmed hours of instruction in the required subjects specified in paragraph (a) of this section and in § 121.415(a) unless reduced under § 121.405:
+
+(1) Group I airplanes—
 
 (i) Reciprocating powered, 64 hours; and
 
@@ -86,9 +90,9 @@ Link to an amendment published at 85 FR 10922, Feb. 25, 2020.
 
 (2) Group II airplanes, 120 hours.
 
-(d) Initial ground training for pilots who have completed the airline transport pilot certification training program in § 61.156 must consist of at least the following programmed hours of instruction in the required subjects specified in paragraph (b) of this section and in § 121.415(a) unless reduced under § 121.405:
+(e) Initial ground training for pilots who have completed the airline transport pilot certification training program in § 61.156 must consist of at least the following programmed hours of instruction in the required subjects specified in paragraph (b) of this section and in § 121.415(a) unless reduced under § 121.405:
 
-(1) Group I airplanes -
+(1) Group I airplanes—
 
 (i) Reciprocating powered, 54 hours; and
 
@@ -96,8 +100,10 @@ Link to an amendment published at 85 FR 10922, Feb. 25, 2020.
 
 (2) Group II airplanes, 110 hours.
 
-(e) *Compliance and pilot programmed hours.* (1) Compliance with the requirements identified in paragraphs (a)(2)(xi) and (a)(2)(xii) of this section is required no later than March 12, 2019.
+(f) *Compliance and pilot programmed hours.* (1) Compliance with the requirements identified in paragraphs (a)(2)(xi) and (a)(2)(xii) of this section is required no later than March 12, 2019.
 
-(2) Beginning March 12, 2019, initial programmed hours applicable to pilots as specified in paragraphs (c) and (d) of this section must include 2 additional hours.
+(2) Beginning March 12, 2019, initial programmed hours applicable to pilots as specified in paragraphs (d) and (e) of this section must include 2 additional hours.
 
-[Doc. No. FAA-2010-0100, 78 FR 42377, July 15, 2013, as amended by Amdt. 121-366, 78 FR 67839, Nov. 12, 2013]
+(g) Before April 27, 2022, upgrade ground training must include either the instruction specified in paragraph (a) of this section or the instruction specified in § 121.420. Beginning on April 27, 2022, upgrade ground training must include the instruction specified in § 121.420.
+
+[Doc. No. FAA-2010-0100, 78 FR 42377, July 15, 2013, as amended by Amdt. 121-366, 78 FR 67839, Nov. 12, 2013; Amdt. 121-382, 85 FR 10922, Feb. 25, 2020]

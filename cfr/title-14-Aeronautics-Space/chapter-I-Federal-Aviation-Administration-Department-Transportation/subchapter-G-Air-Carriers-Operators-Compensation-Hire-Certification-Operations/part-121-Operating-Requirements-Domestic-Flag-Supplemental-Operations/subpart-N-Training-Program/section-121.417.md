@@ -1,14 +1,12 @@
 ##### § 121.417 Crewmember emergency training. #####
 
-Link to an amendment published at 85 FR 10922, Feb. 25, 2020.
-
 (a) Each training program must provide the emergency training set forth in this section with respect to each airplane type, model, and configuration, each required crewmember, and each kind of operation conducted, insofar as appropriate for each crewmember and the certificate holder.
 
 (b) Emergency training must provide the following:
 
 (1) Instruction in emergency assignments and procedures, including coordination among crewmembers.
 
-(2) Individual instruction in the location, function, and operation of emergency equipment including -
+(2) Individual instruction in the location, function, and operation of emergency equipment including—
 
 (i) Equipment used in ditching and evacuation;
 
@@ -18,11 +16,11 @@ Link to an amendment published at 85 FR 10922, Feb. 25, 2020.
 
 (iv) Emergency exits in the emergency mode with the evacuation slide/raft pack attached (if applicable), with training emphasis on the operation of the exits under adverse conditions.
 
-(3) Instruction in the handling of emergency situations including -
+(3) Instruction in the handling of emergency situations including—
 
 (i) Rapid decompression;
 
-(ii) Fire in flight or on the surface, and smoke control procedures with emphasis on electrical equipment and related circuit breakers found in cabin areas including all galleys, service centers, lifts, lavatories and movie screens;
+(ii) Fire inflight or on the surface, and smoke control procedures with emphasis on electrical equipment and related circuit breakers found in cabin areas including all galleys, service centers, lifts, lavatories and movie screens;
 
 (iii) Ditching and other evacuation, including the evacuation of persons and their attendants, if any, who may need the assistance of another person to move expeditiously to an exit in the event of an emergency.
 
@@ -34,7 +32,7 @@ Link to an amendment published at 85 FR 10922, Feb. 25, 2020.
 
 (c) Each crewmember must accomplish the following emergency training during the specified training periods, using those items of installed emergency equipment for each type of airplane in which he or she is to serve (Alternate recurrent training required by § 121.433(c) of this part may be accomplished by approved pictorial presentation or demonstration):
 
-(1) One-time emergency drill requirements to be accomplished during initial training. Each crewmember must perform -
+(1) One-time emergency drill requirements to be accomplished during initial training. Each crewmember must perform—
 
 (i) At least one approved protective breathing equipment (PBE) drill in which the crewmember combats an actual or simulated fire using at least one type of installed hand fire extinguisher or approved fire extinguisher that is appropriate for the type of actual fire or simulated fire to be fought while using the type of installed PBE required by § 121.337 or approved PBE simulation device as defined by paragraph (d) of this section for combatting fires aboard airplanes;
 
@@ -42,7 +40,7 @@ Link to an amendment published at 85 FR 10922, Feb. 25, 2020.
 
 (iii) An emergency evacuation drill with each person egressing the airplane or approved training device using at least one type of installed emergency evacuation slide. The crewmember may either observe the airplane exits being opened in the emergency mode and the associated exit slide/raft pack being deployed and inflated, or perform the tasks resulting in the accomplishment of these actions.
 
-(2) Additional emergency drill requirements to be accomplished during initial training and once each 24 calendar months during recurrent training. Each crewmember must -
+(2) Additional emergency drill requirements to be accomplished during initial training and once each 24 calendar months during recurrent training. Each crewmember must—
 
 (i) Perform the following emergency drills and operate the following equipment:
 

@@ -1,6 +1,6 @@
 ##### § 27.5 Frequencies. #####
 
-Link to an amendment published at 84 FR 57364, Oct. 25, 2019.
+Link to an amendment published at 84 FR 57364, Oct. 25, 2019.Link to an amendment published at 85 FR 22865, Apr. 23, 2020.
 
 (a) *2305-2320 MHz and 2345-2360 MHz bands.* The following frequencies are available for WCS in the 2305-2320 MHz and 2345-2360 MHz bands:
 

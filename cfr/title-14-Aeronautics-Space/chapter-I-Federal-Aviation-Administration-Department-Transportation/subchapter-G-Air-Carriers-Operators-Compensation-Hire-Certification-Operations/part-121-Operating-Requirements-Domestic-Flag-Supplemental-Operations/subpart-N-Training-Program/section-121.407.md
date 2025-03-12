@@ -1,10 +1,8 @@
-##### § 121.407 Training program: Approval of airplane simulators and other training devices. #####
+##### § 121.407 Training program: Approval of flight simulation training devices. #####
 
-Link to an amendment published at 85 FR 10921, Feb. 25, 2020.
+(a) Each FSTD used to satisfy a training requirement of this part in an approved training program, must meet all of the following requirements:
 
-(a) Each airplane simulator and other training device used to satisfy a training requirement of this part in an approved training program, must meet all of the following requirements:
-
-(1) Be specifically approved by the Administrator for -
+(1) Be specifically approved by the Administrator for—
 
 (i) Use in the certificate holder's approved training program;
 
@@ -20,16 +18,16 @@ Link to an amendment published at 85 FR 10921, Feb. 25, 2020.
 
 (5) Have a daily discrepancy log kept with each discrepancy entered in that log by the appropriate instructor or check airman at the end of each training or check flight.
 
-(b) A particular airplane simulator or other training device may be approved for use by more than one certificate holder.
+(b) A particular FSTD may be approved for use by more than one certificate holder.
 
-(c) An airplane simulator may be used instead of the airplane to satisfy the in-flight requirements of §§ 121.439 and 121.441 and appendices E and F of this part, if the simulator -
+(c) A Level B or higher FFS may be used instead of the airplane to satisfy the inflight requirements of §§ 121.439 and 121.441 and appendices E and F of this part, if the FFS—
 
-(1) Is approved under this section and meets the appropriate simulator requirements of appendix H of this part; and
+(1) Is approved under this section and meets the appropriate FFS requirements of appendix H of this part; and
 
-(2) Is used as part of an approved program that meets the training requirements of § 121.424 (a) and (c) and appendix H of this part.
+(2) Is used as part of an approved program that meets the training requirements of §§ 121.424 (a) and (c), 121.426, and appendix H of this part.
 
-(d) An airplane simulator approved under this section must be used instead of the airplane to satisfy the pilot flight training requirements prescribed in the certificate holder's approved low-altitude windshear flight training program set forth in § 121.409(d) of this part.
+(d) An FFS approved under this section must be used instead of the airplane to satisfy the pilot flight training requirements prescribed in the certificate holder's approved low-altitude windshear flight training program set forth in § 121.409(d) of this part.
 
-(e) An airplane simulator approved under this section must be used instead of the airplane to satisfy the pilot flight training requirements prescribed in the extended envelope training set forth in § 121.423 of this part. Compliance with this paragraph is required no later than March 12, 2019.
+(e) An FFS approved under this section must be used instead of the airplane to satisfy the pilot flight training requirements prescribed in the extended envelope training set forth in § 121.423 of this part. Compliance with this paragraph is required no later than March 12, 2019.
 
-[Doc. No. 9509, 35 FR 90, Jan. 3, 1970, as amended by Amdt. 121-161, 45 FR 44183, June 30, 1980; Amdt. 121-199, 53 FR 37696, Sept. 27, 1988; Amdt. 121-366, 78 FR 67836, Nov. 12, 2013]
+[Doc. No. 9509, 35 FR 90, Jan. 3, 1970, as amended by Amdt. 121-161, 45 FR 44183, June 30, 1980; Amdt. 121-199, 53 FR 37696, Sept. 27, 1988; Amdt. 121-366, 78 FR 67836, Nov. 12, 2013; Amdt. 121-382, 85 FR 10921, Feb. 25, 2020]

@@ -1,0 +1,33 @@
+##### § 217.304 Temporary changes to the community bank leverage ratio framework. #####
+
+(a)(1) A Board-regulated institution that is not an advanced approaches Board-regulated institution and that meets all the criteria to be a qualifying community banking organization under § 217.12(a)(2) but for § 217.12(a)(2)(i) is a qualifying community banking organization if it has a leverage ratio equal to or greater than 8 percent.
+
+(2) Notwithstanding § 217.12(a)(1), a qualifying community banking organization that has made an election to use the community bank leverage ratio framework under § 217.12(a)(3) shall be considered to have met the minimum capital requirements under § 217.10, the capital ratio requirements for the well capitalized capital category under § 208.43(b)(1) of this chapter, if applicable, and any other capital or leverage requirements to which the qualifying community banking organization is subject, if it has a leverage ratio equal to or greater than 8 percent.
+
+(b) Notwithstanding § 217.12(c)(6) and subject to § 217.12(c)(5), a Board-regulated institution that has a leverage ratio of 7 percent or greater has the grace period described in § 217.12(c)(1) through (4). A Board-regulated institution that has a leverage ratio of less than 7 percent does not have a grace period and must comply with the minimum capital requirements under § 217.10(a)(1) and must report the required capital measures under § 217.10(a)(1) for the quarter in which it reports a leverage ratio of less than 7 percent.
+
+(c) Pursuant to section 4012 of the Coronavirus Aid, Relief, and Economic Security Act, the requirements provided under paragraphs (a) and (b) of this section are effective during the period beginning on April 23, 2020 and ending on the sooner of:
+
+(1) The termination date of the national emergency concerning the novel coronavirus disease outbreak declared by the President on March 13, 2020, under the National Emergencies Act (50 U.S.C. 1601 *et seq.*); or
+
+(2) December 31, 2020.
+
+(d) Upon the termination of the requirements in paragraphs (a) and (b) of this section as provided in paragraph (c) of this section, a Board-regulated institution is subject to the following:
+
+(1) Through December 31, 2020:
+
+(i) A Board-regulated institution that is not an advanced approaches Board-regulated institution and that meets all the criteria to be a qualifying community banking organization under § 217.12(a)(2) but for § 217.12(a)(2)(i) is a qualifying banking organization if it has a leverage ratio greater than 8 percent.
+
+(ii) Notwithstanding § 217.12(a)(1), a qualifying community banking organization that has made an election to use the community bank leverage ratio framework under § 217.12(a)(3) shall be considered to have met the minimum capital requirements under § 217.10, the capital ratio requirements for the well capitalized capital category under § 208.43(b)(1) of this chapter, if applicable, and any other capital or leverage requirements to which the qualifying community banking organization is subject, if it has a leverage ratio greater than 8 percent.
+
+(iii) Notwithstanding § 217.12(c)(6) and subject to § 217.12(c)(5), a Board-regulated institution that has a leverage ratio of greater than 7 percent has the grace period described in § 217.12(c)(1) through (4). A Board-regulated institution that has a leverage ratio of 7 percent or less does not have a grace period and must comply with the minimum capital requirements under § 217.10(a)(1) and must report the required capital measures under § 217.10(a)(1) for the quarter in which it reports a leverage ratio of 7 percent or less.
+
+(2) From January 1, 2021, through December 31, 2021:
+
+(i) A Board-regulated institution that is not an advanced approaches Board-regulated institution and that meets all the criteria to be a qualifying community banking organization under § 217.12(a)(2) but for § 217.12(a)(2)(i) is a qualifying banking organization if it has a leverage ratio greater than 8.5 percent.
+
+(ii) Notwithstanding § 217.12(a)(1), a qualifying community banking organization that has made an election to use the community bank leverage ratio framework under § 217.12(a)(3) shall be considered to have met the minimum capital requirements under § 217.10, the capital ratio requirements for the well capitalized capital category under § 208.43(b)(1) of this chapter, if applicable, and any other capital or leverage requirements to which the qualifying community banking organization is subject, if it has a leverage ratio greater than 8.5 percent.
+
+(iii) Notwithstanding § 217.12(c)(6) and subject to § 217.12(c)(5), a Board-regulated institution that has a leverage ratio of greater than 7.5 percent has the grace period described in § 217.12(c)(1) through (4). A Board-regulated institution that has a leverage ratio of 7.5 percent or less does not have a grace period and must comply with the minimum capital requirements under § 217.10(a)(1) and must report the required capital measures under § 217.10(a)(1) for the quarter in which it reports a leverage ratio of 7.5 percent or less.
+
+[Reg. Q, 85 FR 22929, Apr. 23, 2020, as amended at 85 FR 22938, Apr. 23, 2020]

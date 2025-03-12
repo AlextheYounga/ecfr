@@ -2,7 +2,7 @@
 
 (a) With the exception of 12 CFR 215.5(b) and (c)(3) and (4), FDIC-supervised institutions are subject to the restrictions contained in Federal Reserve Board Regulation O (12 CFR part 215) to the same extent and to the same manner as though they were member banks.
 
-(b) For the purposes of compliance with § 215.4(b) of Federal Reserve Board Regulation O, no FDIC-supervised institution may extend credit or grant a line of credit to any of its executive officers, directors, or principal shareholders or to any related interest of any such person in an amount that, when aggregated with the amount of all other extensions of credit and lines of credit by the FDIC-supervised institution to that person and to all related interests of that person, exceeds the greater of $25,000 or five percent of the FDIC-supervised institution's unimpaired capital and unimpaired surplus,1 or $500,000 unless:
+(b) For the purposes of compliance with § 215.4(b) of Federal Reserve Board Regulation O, no FDIC-supervised institution may extend credit or grant a line of credit to any of its executive officers, directors, or principal shareholders or to any related interest of any such person in an amount that, when aggregated with the amount of all other extensions of credit and lines of credit by the FDIC-supervised institution to that person and to all related interests of that person, exceeds the greater of $25,000 or five percent of the FDIC-supervised institution's unimpaired capital and unimpaired surplus,1/\> or $500,000 unless:
 
 1 For the purposes of section 337.3, an FDIC-supervised institution's unimpaired capital and unimpaired surplus shall have the same meaning as found in section 215.2(i) of Federal Reserve Board Regulation O (12 CFR 215.2(i)).
 

@@ -1,7 +1,5 @@
 ##### § 121.403 Training program: Curriculum. #####
 
-Link to an amendment published at 85 FR 10921, Feb. 25, 2020.
-
 (a) Each certificate holder must prepare and keep current a written training program curriculum for each type of airplane with respect to dispatchers and each crewmember required for that type airplane. The curriculum must include ground and flight training required by this subpart.
 
 (b) Each training program curriculum must include:
@@ -12,10 +10,10 @@ Link to an amendment published at 85 FR 10921, Feb. 25, 2020.
 
 (3) Detailed descriptions or pictorial displays of the approved normal, abnormal, and emergency maneuvers, procedures and functions that will be performed during each flight training phase or flight check, indicating those maneuvers, procedures and functions that are to be performed during the inflight portions of flight training and flight checks.
 
-(4) A list of airplane simulators or other training devices approved under § 121.407, including approvals for particular maneuvers, procedures, or functions.
+(4) A list of FSTDs approved under § 121.407, including approvals for particular maneuvers, procedures, or functions.
 
 (5) The programmed hours of training that will be applied to each phase of training.
 
 (6) A copy of each statement issued by the Administrator under § 121.405(d) for reduction of programmed hours of training.
 
-[Doc. No. 9509, 35 FR 90, Jan. 3, 1970, as amended by Amdt. 121-366, 78 FR 67836, Nov. 12, 2013]
+[Doc. No. 9509, 35 FR 90, Jan. 3, 1970, as amended by Amdt. 121-366, 78 FR 67836, Nov. 12, 2013; Amdt. 121-382, 85 FR 10921, Feb. 25, 2020]

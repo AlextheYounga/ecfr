@@ -1,7 +1,5 @@
 ##### § 121.401 Training program: General. #####
 
-Link to an amendment published at 85 FR 10921, Feb. 25, 2020.
-
 (a) Each certificate holder shall:
 
 (1) Establish and implement a training program that satisfies the requirements of this subpart and appendices E and F of this part and that ensures that each crewmember, aircraft dispatcher, flight instructor and check airman is adequately trained to perform his or her assigned duties. Prior to implementation, the certificate holder must obtain initial and final FAA approval of the training program.
@@ -10,7 +8,7 @@ Link to an amendment published at 85 FR 10921, Feb. 25, 2020.
 
 (3) Provide and keep current with respect to each airplane type and, if applicable, the particular variations within that airplane type, appropriate training material, examinations, forms, instructions, and procedures for use in conducting the training and checks required by this part; and
 
-(4) Provide enough flight instructors, simulator instructors, and approved check airmen to conduct required flight training and flight checks, and simulator training courses permitted under this part.
+(4) Provide enough flight instructors and approved check airmen to conduct the flight training and checks required under this part.
 
 (b) Whenever a crewmember or aircraft dispatcher who is required to take recurrent training, a flight check, or a competence check, takes the check or completes the training in the calendar month before or after the calendar month in which that training or check is required, he is considered to have taken or completed it in the calendar month in which it was required.
 
@@ -20,4 +18,4 @@ Link to an amendment published at 85 FR 10921, Feb. 25, 2020.
 
 (e) A person who progresses successfully through flight training, is recommended by his instructor or a check airman, and successfully completes the appropriate flight check for a check airman or the Administrator, need not complete the programmed hours of flight training for the particular airplane. However, whenever the Administrator finds that 20 percent of the flight checks given at a particular training base during the previous 6 months under this paragraph are unsuccessful, this paragraph may not be used by the certificate holder at that base until the Administrator finds that the effectiveness of the flight training there has improved.
 
-In the case of a certificate holder using a course of training permitted in § 121.409(c), the Administrator may require the programmed hours of inflight training in whole or in part, until he finds the effectiveness of the flight training has improved as provided in paragraph (e) of this section.[Doc. No. 9509, 35 FR 90, Jan. 3, 1970, as amended by Amdt. 121-104, 38 FR 14915, June 7, 1973; Amdt. 121-108, 38 FR 35446, Dec. 28, 1973; Amdt. 121-143, 43 FR 22642, May 25, 1978; Amdt. 121-316, 70 FR 58823, Oct. 7, 2005]
+In the case of a certificate holder using a course of training permitted in § 121.409(c), the Administrator may require the programmed hours of inflight training in whole or in part, until he finds the effectiveness of the flight training has improved as provided in paragraph (e) of this section.[Doc. No. 9509, 35 FR 90, Jan. 3, 1970, as amended by Amdt. 121-104, 38 FR 14915, June 7, 1973; Amdt. 121-108, 38 FR 35446, Dec. 28, 1973; Amdt. 121-143, 43 FR 22642, May 25, 1978; Amdt. 121-316, 70 FR 58823, Oct. 7, 2005; Amdt. 121-382, 85 FR 10921, Feb. 25, 2020]

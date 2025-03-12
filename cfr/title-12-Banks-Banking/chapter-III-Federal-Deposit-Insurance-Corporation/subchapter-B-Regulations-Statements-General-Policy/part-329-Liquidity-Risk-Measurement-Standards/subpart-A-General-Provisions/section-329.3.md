@@ -262,7 +262,7 @@ For the purposes of this part:
 
 (i) Any exercise of rights under the agreement will not be stayed or avoided under applicable law in the relevant jurisdictions, other than:
 
-(A) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar1 to the U.S. laws referenced in this paragraph (2)(i)(A) in order to facilitate the orderly resolution of the defaulting counterparty; or
+(A) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar1/\> to the U.S. laws referenced in this paragraph (2)(i)(A) in order to facilitate the orderly resolution of the defaulting counterparty; or
 
 1 The FDIC expects to evaluate jointly with the Federal Reserve and the OCC whether foreign special resolution regimes meet the requirements of this paragraph.
 
@@ -284,7 +284,7 @@ For the purposes of this part:
 
 (1) A depository institution holding company or designated company;
 
-(2) A company included in the organization chart of a depository institution holding company on the Form FR Y-6, as listed in the hierarchy report of the depository institution holding company produced by the National Information Center (NIC) website,2 provided that the top-tier depository institution holding company is subject to a minimum liquidity standard under 12 CFR part 249;
+(2) A company included in the organization chart of a depository institution holding company on the Form FR Y-6, as listed in the hierarchy report of the depository institution holding company produced by the National Information Center (NIC) website,2/\> provided that the top-tier depository institution holding company is subject to a minimum liquidity standard under 12 CFR part 249;
 
 2*http://www.ffiec.gov/nicpubweb/nicweb/NicHome.aspx.*
 

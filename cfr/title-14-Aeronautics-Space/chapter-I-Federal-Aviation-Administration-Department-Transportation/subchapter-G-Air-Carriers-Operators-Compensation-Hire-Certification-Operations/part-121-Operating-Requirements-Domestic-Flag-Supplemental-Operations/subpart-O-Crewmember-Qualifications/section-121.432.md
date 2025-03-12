@@ -1,8 +1,6 @@
 ##### § 121.432 General. #####
 
-Link to an amendment published at 85 FR 10925, Feb. 25, 2020.
-
-(a) Except in the case of operating experience under § 121.434, a pilot who serves as second in command of an operation that requires three or more pilots must be fully qualified to act as pilot in command of that operation.
+(a) Except in the case of operating experience under § 121.434 and ground training for mentoring required by §§ 121.419, 121.420, 121.427, and 121.429, as applicable, a pilot who serves as second in command of an operation that requires three or more pilots must be fully qualified to act as pilot in command of that operation.
 
 (b) No certificate holder may conduct a check or any training in operations under this part, except for the following checks and training required by this part or the certificate holder:
 
@@ -12,4 +10,4 @@ Link to an amendment published at 85 FR 10925, Feb. 25, 2020.
 
 (3) Flight attendant training and competence checks.
 
-(c) Except for pilot line checks and flight engineer flight checks, the person being trained or checked may not be used as a required crewmember.[Doc. No. 9509, 35 FR 95, Jan. 3, 1970, as amended by Amdt. 121-130, 41 FR 47229, Oct. 28, 1976; Amdt. 121-366, 78 FR 67840, Nov. 12, 2013]
+(c) Except for pilot line checks and flight engineer flight checks, the person being trained or checked may not be used as a required crewmember.[Doc. No. 9509, 35 FR 95, Jan. 3, 1970, as amended by Amdt. 121-130, 41 FR 47229, Oct. 28, 1976; Amdt. 121-366, 78 FR 67840, Nov. 12, 2013; Amdt. 121-382, 85 FR 10925, Feb. 25, 2020]

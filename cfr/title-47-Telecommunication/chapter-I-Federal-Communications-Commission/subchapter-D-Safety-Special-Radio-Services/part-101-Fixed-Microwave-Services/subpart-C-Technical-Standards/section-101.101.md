@@ -1,5 +1,7 @@
 ##### § 101.101 Frequency availability. #####
 
+Link to an amendment published at 85 FR 22889, Apr. 23, 2020.
+
 |     Frequency  <br/>band (MHz)      |           Radio service            |                                         |                                                    |             |       |
 |-------------------------------------|------------------------------------|-----------------------------------------|----------------------------------------------------|-------------|-------|
 |Common  <br/>carrier  <br/>(Part 101)|Private  <br/>radio  <br/>(Part 101)|Broadcast  <br/>auxiliary  <br/>(Part 74)|Other  <br/>(Parts 15, 21, 22, 24, 25, 74, 78 & 100)|    Notes    |       |

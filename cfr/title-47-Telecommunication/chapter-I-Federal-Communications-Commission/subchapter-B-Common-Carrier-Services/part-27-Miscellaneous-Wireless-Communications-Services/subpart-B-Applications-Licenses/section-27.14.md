@@ -1,6 +1,6 @@
 ##### § 27.14 Construction requirements. #####
 
-Link to an amendment published at 84 FR 57364, Oct. 25, 2019.
+Link to an amendment published at 84 FR 57364, Oct. 25, 2019.Link to an amendment published at 85 FR 22881, Apr. 23, 2020.
 
 (a) AWS and WCS licensees, with the exception of WCS licensees holding authorizations for the 600 MHz band, Block A in the 698-704 MHz and 728-734 MHz bands, Block B in the 704-710 MHz and 734-740 MHz bands, Block E in the 722-728 MHz band, Block C, C1 or C2 in the 746-757 MHz and 776-787 MHz bands, Block A in the 2305-2310 MHz and 2350-2355 MHz bands, Block B in the 2310-2315 MHz and 2355-2360 MHz bands, Block C in the 2315-2320 MHz band, and Block D in the 2345-2350 MHz band, and with the exception of licensees holding AWS authorizations in the 1915-1920 MHz and 1995-2000 MHz bands, the 2000-2020 MHz and 2180-2200 MHz bands, or 1695-1710 MHz, 1755-1780 MHz and 2155-2180 MHz bands, must, as a performance requirement, make a showing of “substantial service” in their license area within the prescribed license term set forth in § 27.13. “Substantial service” is defined as service which is sound, favorable and substantially above a level of mediocre service which just might minimally warrant renewal. Failure by any licensee to meet this requirement will result in forfeiture of the license and the licensee will be ineligible to regain it.
 

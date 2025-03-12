@@ -66,7 +66,7 @@ Table 1 to § 324.11 - Calculation of Maximum Payout Amount
 
 (2) *Countercyclical capital buffer amount for credit exposures in the United States* - (i) *Initial countercyclical capital buffer amount with respect to credit exposures in the United States.* The initial countercyclical capital buffer amount in the United States is zero.
 
-(ii) *Adjustment of the countercyclical capital buffer amount.* The FDIC will adjust the countercyclical capital buffer amount for credit exposures in the United States in accordance with applicable law.11
+(ii) *Adjustment of the countercyclical capital buffer amount.* The FDIC will adjust the countercyclical capital buffer amount for credit exposures in the United States in accordance with applicable law.11/\>
 
 11 The FDIC expects that any adjustment will be based on a determination made jointly by the Board, OCC, and FDIC.
 

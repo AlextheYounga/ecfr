@@ -1,6 +1,4 @@
-##### § 121.423 Pilot: Extended Envelope Training. #####
-
-Link to an amendment published at 85 FR 10923, Feb. 25, 2020.
+##### § 121.423 Pilots: Extended Envelope Training. #####
 
 (a) Each certificate holder must include in its approved training program, the extended envelope training set forth in this section with respect to each airplane type for each pilot. The extended envelope training required by this section must be performed in a Level C or higher full flight simulator, approved by the Administrator in accordance with § 121.407 of this part.
 
@@ -36,4 +34,4 @@ Link to an amendment published at 85 FR 10923, Feb. 25, 2020.
 
 (f) Compliance with this section is required no later than March 12, 2019. For the recurrent training required in paragraph (d) of this section, each pilot qualified to serve as second in command or pilot in command in operations under this part on March 12, 2019 must complete the recurrent extended envelope training within 12 calendar months after March 12, 2019.
 
-[Doc. No. FAA-2008-0677, 78 FR 67839, Nov. 12, 2013]
+[Doc. No. FAA-2008-0677, 78 FR 67839, Nov. 12, 2013; Amdt. 121-382, 85 FR 10923, Feb. 25, 2020]

@@ -1,0 +1,3 @@
+##### § 1204.312 Reports to Congress and the Government Accountability Office (GAO). #####
+
+Unless otherwise determined in writing by NASA, it is the policy of the Agency that upon issuing a guidance document determined to be “significant” within the meaning of § 1204.306, the issuing NASA responsible office will submit a report to Congress and GAO in accordance with the procedures described in 5 U.S.C. 801 (the “Congressional Review Act”).

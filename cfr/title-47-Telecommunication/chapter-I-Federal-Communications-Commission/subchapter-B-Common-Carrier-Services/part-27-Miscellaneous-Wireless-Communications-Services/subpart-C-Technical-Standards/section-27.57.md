@@ -1,5 +1,7 @@
 ##### § 27.57 International coordination. #####
 
+Link to an amendment published at 85 FR 22882, Apr. 23, 2020.
+
 (a) WCS operations in the border areas shall be subject to coordination with those countries and provide protection to non-U.S. operations in the 2305-2320 and 2345-2360 MHz bands as appropriate. In addition, satellite DARS operations in WCS spectrum shall be subject to international satellite coordination procedures.
 
 (b) Wireless operations in the 512-608 MHz, 614-763 MHz, 775-793 MHz, and 805-806 MHz bands are subject to current and future international agreements between the United States and Canada and the United States and Mexico. Unless otherwise modified by international treaty, licenses must not cause interference to, and must accept harmful interference from, television broadcast operations in Mexico and Canada, where these services are co-primary in the band.

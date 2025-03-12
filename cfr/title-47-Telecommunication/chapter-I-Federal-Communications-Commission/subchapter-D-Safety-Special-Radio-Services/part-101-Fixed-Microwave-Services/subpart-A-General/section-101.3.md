@@ -1,5 +1,7 @@
 ##### § 101.3 Definitions. #####
 
+Link to an amendment published at 85 FR 22889, Apr. 23, 2020.
+
 As used in this part:
 
 *24 GHz Service.* A fixed point-to-point, point-to-multipoint, and multipoint-to-multipoint radio system in the 24.25-24.45 GHz band and in the 25.05-25.25 GHz band consisting of a fixed main (nodal) station and a number of fixed user terminals. This service may encompass any digital fixed service.

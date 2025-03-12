@@ -1,7 +1,5 @@
 ##### § 121.434 Operating experience, operating cycles, and consolidation of knowledge and skills. #####
 
-Link to an amendment published at 85 FR 10925, Feb. 25, 2020.
-
 (a) No certificate holder may use a person nor may any person serve as a required crewmember of an airplane unless the person has satisfactorily completed, on that type airplane and in that crewmember position, the operating experience, operating cycles, and the line operating flight time for consolidation of knowledge and skills, required by this section, except as follows:
 
 (1) Crewmembers other than pilots in command may serve as provided herein for the purpose of meeting the requirements of this section.
@@ -30,15 +28,17 @@ Link to an amendment published at 85 FR 10925, Feb. 25, 2020.
 
 (2) The operating experience, operating cycles, and line operating flight time for consolidation of knowledge and skills must be acquired after satisfactory completion of the appropriate ground and flight training for the particular airplane type and crewmember position.
 
-(3) The experience must be acquired in flight during operations under this part. However, in the case of an aircraft not previously used by the certificate holder in operations under this part, operating experience acquired in the aircraft during proving flights or ferry flights may be used to meet this requirement.
+(3) In the case of a pilot who satisfactorily completed the preflight visual inspection of an aircraft by approved pictorial means during an initial, transition, conversion, or upgrade proficiency check, the pilot must also demonstrate proficiency to a check pilot on at least one complete preflight visual inspection of the interior and exterior of a static airplane. This demonstration of proficiency must be completed by the pilot and certified by the check pilot before the completion of operating experience.
+
+(4) The experience must be acquired inflight during operations under this part. However, in the case of an aircraft not previously used by the certificate holder in operations under this part, operating experience acquired in the aircraft during proving flights or ferry flights may be used to meet this requirement.
 
 (c) Pilot crewmembers must acquire operating experience and operating cycles as follows:
 
-(1) A pilot in command must -
+(1) A pilot in command must—
 
 (i) Perform the duties of a pilot in command under the supervision of a check pilot; and
 
-(ii) In addition, if a qualifying pilot in command is completing initial or upgrade training specified in § 121.424, be observed in the performance of prescribed duties by an FAA inspector during at least one flight leg which includes a takeoff and landing. During the time that a qualifying pilot in command is acquiring the operating experience in paragraphs (c)(l) (i) and (ii) of this section, a check pilot who is also serving as the pilot in command must occupy a pilot station. However, in the case of a transitioning pilot in command the check pilot serving as pilot in command may occupy the observer's seat, if the transitioning pilot has made at least two takeoffs and landings in the type airplane used, and has satisfactorily demonstrated to the check pilot that he is qualified to perform the duties of a pilot in command of that type of airplane.
+(ii) For a qualifying pilot in command completing initial or upgrade training specified in § 121.424 or § 121.426, be observed in the performance of prescribed duties by an FAA inspector during at least one flight leg which includes a takeoff and landing. During the time that a qualifying pilot in command is acquiring the operating experience in paragraphs (c)(l)(i) and (ii) of this section, a check pilot who is also serving as the pilot in command must occupy a pilot station. However, in the case of a transitioning pilot in command the check pilot serving as pilot in command may occupy the observer's seat, if the transitioning pilot has made at least two takeoffs and landings in the type airplane used, and has satisfactorily demonstrated to the check pilot that he is qualified to perform the duties of a pilot in command of that type of airplane.
 
 (2) A second in command pilot must perform the duties of a second in command under the supervision of an appropriately qualified check pilot.
 
@@ -48,7 +48,7 @@ Link to an amendment published at 85 FR 10925, Feb. 25, 2020.
 
 (ii) For transition training, except as provided in paragraph (c)(3)(iii) of this section, 10 hours in Group I reciprocating powered airplanes, 12 hours in Group I turbopropeller powered airplanes, 25 hours for pilots in command in Group II airplanes, and 15 hours for second in command pilots in Group II airplanes. Operating experience in both airplane groups must include at least 4 operating cycles (at least 2 as the pilot flying the airplane).
 
-(iii) In the case of transition training where the certificate holder's approved training program includes a course of training in an airplane simulator under § 121.409(c), each pilot in command must comply with the requirements prescribed in paragraph (c)(3)(i) of this section for initial training.
+(iii) In the case of transition training where the certificate holder's approved training program includes a course of training in an FFS under § 121.409(c), each pilot in command must comply with the requirements prescribed in paragraph (c)(3)(i) of this section for initial training.
 
 (d) A flight engineer must perform the duties of a flight engineer under the supervision of a check airman or a qualified flight engineer for at least the following number of hours:
 
@@ -76,7 +76,7 @@ Link to an amendment published at 85 FR 10925, Feb. 25, 2020.
 
 (3) If, before completing the required 100 hours of line operating flight time, a pilot serves as a pilot in another airplane type operated by the certificate holder, the pilot may not serve as a pilot in the airplane for which the pilot has newly qualified unless the pilot satifactorily completes refresher training as provided in the certificate holder's approved training program and that training is conducted by an appropriately qualified instructor or check pilot.
 
-(4) If the required 100 hours of line operating flight time are not completed within 120 days, the certificate holder may extend the 120-day period to no more than 150 days if -
+(4) If the required 100 hours of line operating flight time are not completed within 120 days, the certificate holder may extend the 120-day period to no more than 150 days if—
 
 (i) The pilot continues to meet all other applicable requirements of subpart O of this part; and
 
@@ -92,4 +92,4 @@ Link to an amendment published at 85 FR 10925, Feb. 25, 2020.
 
 (i) Notwithstanding the reductions in programmed hours permitted under §§ 121.405 and 121.409 of subpart N of this part, the hours of operating experience for crewmembers are not subject to reduction other than as provided in accordance with a deviation authorized under paragraph (a) of this section or as provided in paragraphs (e) and (f) of this section.
 
-[Doc. No. 9509, 35 FR 95, Jan. 3, 1970, as amended by Amdt. 121-74, 36 FR 12284, June 30, 1971; Amdt. 121-91, 37 FR 10729, May 27, 1972; Amdt. 121-140, 43 FR 9599, Mar. 9, 1978; Amdt. 121-144, 43 FR 22647, May 25, 1978; Amdt. 121-159, 45 FR 41593, June 19, 1980; Amdt. 121-248, 60 FR 20870, Apr. 27, 1995; Amdt. 121-366, 78 FR 67840, Nov. 12, 2013]
+[Doc. No. 9509, 35 FR 95, Jan. 3, 1970, as amended by Amdt. 121-74, 36 FR 12284, June 30, 1971; Amdt. 121-91, 37 FR 10729, May 27, 1972; Amdt. 121-140, 43 FR 9599, Mar. 9, 1978; Amdt. 121-144, 43 FR 22647, May 25, 1978; Amdt. 121-159, 45 FR 41593, June 19, 1980; Amdt. 121-248, 60 FR 20870, Apr. 27, 1995; Amdt. 121-366, 78 FR 67840, Nov. 12, 2013; Amdt. 121-382, 85 FR 10925, Feb. 25, 2020]

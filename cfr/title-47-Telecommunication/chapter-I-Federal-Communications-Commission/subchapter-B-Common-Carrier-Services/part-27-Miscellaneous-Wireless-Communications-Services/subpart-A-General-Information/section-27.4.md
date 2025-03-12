@@ -1,6 +1,6 @@
 ##### § 27.4 Terms and definitions. #####
 
-Link to an amendment published at 84 FR 57364, Oct. 25, 2019.
+Link to an amendment published at 84 FR 57364, Oct. 25, 2019.Link to an amendment published at 85 FR 22865, Apr. 23, 2020.
 
 *600 MHz service.* A radiocommunication service licensed pursuant to this part for the frequency bands specified in § 27.5(l).
 

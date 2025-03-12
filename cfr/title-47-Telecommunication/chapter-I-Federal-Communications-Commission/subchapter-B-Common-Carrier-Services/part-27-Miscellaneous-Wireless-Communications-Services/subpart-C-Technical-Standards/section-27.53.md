@@ -1,5 +1,7 @@
 ##### § 27.53 Emission limits. #####
 
+Link to an amendment published at 85 FR 22882, Apr. 23, 2020.
+
 (a) For operations in the 2305-2320 MHz band and the 2345-2360 MHz band, the power of any emission outside a licensee's frequency band(s) of operation shall be attenuated below the transmitter power P (with averaging performed only during periods of transmission) within the licensed band(s) of operation, in watts, by the following amounts:
 
 (1) For base and fixed stations' operations in the 2305-2320 MHz band and the 2345-2360 MHz band:

@@ -177,7 +177,7 @@ Table 5 to § 324.210 - Specific Risk-weighting Factors for Corporate Debt Posit
 
 (e) *Equity positions.* The total specific risk add-on for a portfolio of equity positions is the sum of the specific risk add-ons of the individual equity positions, as computed under this section. To determine the specific risk add-on of individual equity positions, an FDIC-supervised institution must multiply the absolute value of the current fair value of each net long or net short equity position by the appropriate specific risk-weighting factor as determined under this paragraph (e):
 
-(1) The FDIC-supervised institution must multiply the absolute value of the current fair value of each net long or net short equity position by a specific risk-weighting factor of 8.0 percent. For equity positions that are index contracts comprising a well-diversified portfolio of equity instruments, the absolute value of the current fair value of each net long or net short position is multiplied by a specific risk-weighting factor of 2.0 percent.34
+(1) The FDIC-supervised institution must multiply the absolute value of the current fair value of each net long or net short equity position by a specific risk-weighting factor of 8.0 percent. For equity positions that are index contracts comprising a well-diversified portfolio of equity instruments, the absolute value of the current fair value of each net long or net short position is multiplied by a specific risk-weighting factor of 2.0 percent.34/\>
 
 34 A portfolio is well-diversified if it contains a large number of individual equity positions, with no single position representing a substantial portion of the portfolio's total fair value.
 
