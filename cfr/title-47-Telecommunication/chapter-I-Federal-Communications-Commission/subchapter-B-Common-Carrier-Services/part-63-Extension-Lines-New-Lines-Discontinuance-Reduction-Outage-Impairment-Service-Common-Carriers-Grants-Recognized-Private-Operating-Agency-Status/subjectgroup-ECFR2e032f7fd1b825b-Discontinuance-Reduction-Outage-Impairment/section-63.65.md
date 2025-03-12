@@ -1,7 +1,5 @@
 ##### § 63.65 Closure of public toll station where another toll station of applicant in the community will continue service. #####
 
-Link to an amendment published at 82 FR 48777, Oct. 20, 2017.
-
 (a) Except in emergency cases (as defined in § 63.60(b) and as provided in § 63.63), authority to close a public toll station in a community in which another toll station of the applicant will continue service shall be requested by an informal request, filed in quintuplicate, making reference to this paragraph and showing the following:
 
 (1) Location of toll station to be closed and distance from nearest toll station to be retained;
@@ -10,8 +8,10 @@ Link to an amendment published at 82 FR 48777, Oct. 20, 2017.
 
 (3) Average number of toll telephone messages sent-paid and received-collect for the preceding six months;
 
-(4) Average number of telegraph messages sent-paid and received-collect for the preceding six months;
+(4) [Reserved]
 
 (5) Statement of reasons for desiring to close the station.
 
 (b) Authority for closures requested under paragraph (a) of this section shall be deemed to have been granted by the Commission effective as of the 15th day following the date of filing such request unless, on or before the 15th day, the Commission shall notify the carrier to the contrary.
+
+[28 FR 13229, Dec. 5, 1963, as amended at 82 FR 48777, Oct. 20, 2017]

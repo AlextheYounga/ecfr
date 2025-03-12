@@ -1,12 +1,10 @@
 ##### § 36.126 Circuit equipment - Category 4. #####
 
-Link to an amendment published at 82 FR 48776, Oct. 20, 2017.
-
 (a) For the purpose of this section, the term “Circuit Equipment” encompasses the Radio Systems and Circuit Equipment contained in Accounts 2230 through 2232 respectively. It includes central office equipment, other than switching equipment and automatic message recording equipment, which is used to derive communications transmission channels or which is used for the amplification, modulation, regeneration, testing, balancing or control of signals transmitted over communications transmission channels. Examples of circuit equipment in general use include:
 
-(1) Carrier telephone and telegraph system terminals.
+(1) Carrier telephone system terminals.
 
-(2) Telephone and telegraph repeaters, termination sets, impedance compensators, pulse link repeaters, echo suppressors and other intermediate transmission amplification and balancing equipment except that included in switchboards.
+(2) Telephone repeaters, termination sets, impedance compensators, pulse link repeaters, echo suppressors and other intermediate transmission amplification and balancing equipment except that included in switchboards.
 
 (3) Radio transmitters, receivers, repeaters and other radio central office equipment except message switching equipment associated with radio systems.
 
@@ -18,7 +16,7 @@ Link to an amendment published at 82 FR 48776, Oct. 20, 2017.
 
 (7) Program transmission amplifiers, monitoring devices and volume indicators.
 
-(8) Testboards, test desks, repair desks and patch bays, including those provided for test and control, and for telegraph and transmission testing.
+(8) Testboards, test desks, repair desks and patch bays, including those provided for test and control, and for transmission testing.
 
 (b) For apportionment among the operations, the cost of circuit equiment is assigned to the following subsidiary categories:
 
@@ -34,7 +32,9 @@ Link to an amendment published at 82 FR 48776, Oct. 20, 2017.
 
 (iii) All Other Interexchange Circuit Equipment - Category 4.23.
 
-(3) *Host/Remote Message Circuit Equipment - Category 4.3.* (4) In addition, for the purpose of identifying and separating property associated with special services, circuit equipment included in Categories 4.12 (other than wideband equipment) 4.13 and 4.23 is identified as either basic circuit equipment, i.e., equipment that performs functions necessary to provide and operate channels suitable for voice transmission (telephone grade channels), or special circuit equipment, i.e., equipment that is peculiar to special service circuits. Carrier telephone terminals and carrier telephone repeaters are examples of basic circuit equipment is general use, while audio program transmission amplifiers, bridges, monitoring devices and volume indicators, telegraph carrier terminals and telegraph repeaters are examples of special circuit equipment in general use. Cost of exchange circuit equipment included in Categories 4.12 and 4.13 and the interexchange circuit equipment in Categories 4.21, 4.22 and 4.23 are segregated between basic circuit equipment and special circuit equipment only at those locations where amounts of interexchange and exchange special circuit equipment are significant. Where such segregation is not made, the total costs in these categories are classified as basic circuit equipment.
+(3) *Host/Remote Message Circuit Equipment - Category 4.3.*
+
+(4) In addition, for the purpose of identifying and separating property associated with special services, circuit equipment included in Categories 4.12 (other than wideband equipment) 4.13 and 4.23 is identified as either basic circuit equipment, *i.e.,* equipment that performs functions necessary to provide and operate channels suitable for voice transmission (telephone grade channels), or special circuit equipment, *i.e.,* equipment that is peculiar to special service circuits. Carrier telephone terminals and carrier telephone repeaters are examples of basic circuit equipment in general use, while audio program transmission amplifiers, bridges, monitoring devices and volume indicators are examples of special circuit equipment in general use. Cost of exchange circuit equipment included in Categories 4.12 and 4.13 and the interexchange circuit equipment in Categories 4.21, 4.22 and 4.23 are segregated between basic circuit equipment and special circuit equipment only at those locations where amounts of interexchange and exchange special circuit equipment are significant. Where such segregation is not made, the total costs in these categories are classified as basic circuit equipment.
 
 (5) Effective July 1, 2001, through June 30, 2014, study areas subject to price cap regulation, pursuant to § 61.41, shall assign the average balances of Accounts 2230 through 2232 to the categories/subcategories as specified in § 36.126(b)(1) through (b)(4) based on the relative percentage assignment of the average balances of Accounts 2230 through 2232 costs to these categories/subcategories during the twelve month period ending December 31, 2000.
 
@@ -50,13 +50,13 @@ Link to an amendment published at 82 FR 48776, Oct. 20, 2017.
 
 (4) Effective July 1, 2001, through December 30, 2018, all study areas shall apportion costs in the categories/subcategories, as specified in paragraphs (b)(1) through (4) of this section, among the jurisdictions using the relative use measurements or factors, as specified in paragraphs (c)(1) through (3) of this section for the twelve month period ending December 31, 2000. Direct assignment of any subcategory of Category 4.1 Exchange Circuit Equipment to the jurisdictions shall be updated annually.
 
-(d) Apportionment of Interexchange Circuit Equipment among the Operations: Procedures to be Used by Interexchange Carriers. (1) Interexchange Circuit Equipment Furnished to Another Company for Interstate Use - Category 4.21 - This category comprises that circuit equipment provided for the use of another company as an integral part of its interexchange circuit facilities used wholly for interstate services. This category includes such circuit equipment as telephone carrier, terminals telegraph carrier terminals, and microwave systems used wholly for interstate services. The total cost of the circuit equipment in this category for the study area is assigned to the interstate operation.
+(d) Apportionment of Interexchange Circuit Equipment among the Operations: Procedures to be Used by Interexchange Carriers. (1) Interexchange Circuit Equipment Furnished to Another Company for Interstate Use - Category 4.21 - This category comprises that circuit equipment provided for the use of another company as an integral part of its interexchange circuit facilities used wholly for interstate services. This category includes such circuit equipment as telephone carrier terminals and microwave systems used wholly for interstate services. The total cost of the circuit equipment in this category for the study area is assigned to the interstate operation.
 
 (2) Interexchange Circuit Equipment Used for Wideband Service - Category 4.22 - This category includes the circuit equipment portion of interexchange channels used for wideband services. The cost of interexchange circuit equipment in this category is determined separately for each wideband channel and is segregated between message and private line services on the basis of the use of the channels provided. The respective costs are allocated to the appropriate operation in the same manner as the related interexchange cable and wire facilities as described in § 36.156.
 
 (3) All Other Interexchange Circuit Equipment - Category 4.23 - This category includes the cost of all interexchange circuit equipment not assigned to Categories 4.21 and 4.22. Interexchange carriers shall freeze the allocation factors for Category 4.23 investment at levels reached on December 31, 1985, derived by using the procedures in effect at that time. On January 1, 1988, and thereafter, that frozen allocation factor shall be applied to each interexchange carrier's Category 4.23 investment to derive the interstate allocation. On January 1, 1988, and thereafter, the amount of investment allocated to the interstate jurisdiction will vary but the relative proportion of the total investment that is allocated to the interstate jurisdiction will remain frozen at 1985 levels.
 
-(e) Apportionment of Interexchange Circuit Equipment among the Operations: Procedures To Be Used by Exchange Carriers. (1) Interexchange Circuit Equipment Furnished to Another Company for Interstate Use - Category 4.21 - This category comprises that circuit equipment provided for the use of another company as an integral part of its interexchange circuit facilities used wholly for interstate services. This category includes such circuit equipment as telephone carrier terminals telegraph carrier terminals, and microwave systems used wholly for interstate services. The total cost of the circuit equipment in this category for the study area is assigned to the interstate operation.
+(e) Apportionment of Interexchange Circuit Equipment among the Operations: Procedures To Be Used by Exchange Carriers. (1) Interexchange Circuit Equipment Furnished to Another Company for Interstate Use Category - 4.21 - This category comprises that circuit equipment provided for the use of another company as an integral part of its interexchange circuit facilities used wholly for interstate services. This category includes such circuit equipment as telephone carrier terminals and microwave systems used wholly for interstate services. The total cost of the circuit equipment in this category for the study area is assigned to the interstate operation.
 
 (2) Interexchange Circuit Equipment Used for Wideband Service - Category 4.22 - This category includes the circuit equipment portion of interexchange channels used for wideband services. The cost of interexchange circuit equipment in this category is determined separately for each wideband channel and is segregated between message and private line services on the basis of the use of the channels provided. The respective costs are allocated to the appropriate operation in the same manner as the related interexchange cable and wire facilities described in § 36.156.
 
@@ -66,7 +66,7 @@ Link to an amendment published at 82 FR 48776, Oct. 20, 2017.
 
 (ii) [Reserved]
 
-(iii) The cost of special circuit equipment is segregated among telegraph grade private line services and other private line services based on an analysis of the use of the equipment and in accordance with § 36.126(b)(4). The special circuit equipment cost assigned to telegraph grade and other private line services is directly assigned to the appropriate operations.
+(iii) The cost of special circuit equipment is segregated among private line services based on an analysis of the use of the equipment and in accordance with § 36.126(b)(4). The special circuit equipment cost assigned to private line services is directly assigned to the appropriate operations.
 
 (4) Effective July 1, 2001, through December 30, 2018, all study areas shall apportion costs in the categories/subcategories specified in paragraphs (e)(1) through (3) of this section among the jurisdictions using relative use measurements or factors, as specified in paragraphs (e)(1) through (3) for the twelve month period ending December 31, 2000. Direct assignment of any subcategory of Category 4.2 Interexchange Circuit Equipment to the jurisdictions shall be updated annually.
 
@@ -80,4 +80,4 @@ Link to an amendment published at 82 FR 48776, Oct. 20, 2017.
 
 (2) Effective July 1, 2001, through December 30, 2018, all study areas shall apportion costs in the subcategory specified in paragraph (f)(1) of this section among the jurisdictions using the allocation factor, as specified in paragraph (f)(1)(i) of this section, for this subcategory for the twelve month period ending December 31, 2000. Direct assignment of any Category 4.3 Host/Remote Message Circuit Equipment to the jurisdictions shall be updated annually.
 
-[52 FR 17229, May 6, 1987, as amended at 53 FR 33012 Aug. 29, 1988; 66 FR 33205, June 21, 2001; 69 FR 12550, Mar. 17, 2004; 71 FR 65745, Nov. 9, 2006; 75 FR 30301, June 1, 2010; 76 FR 30841, May 27, 2011; 79 FR 36236, June 26, 2014]
+[52 FR 17229, May 6, 1987, as amended at 53 FR 33012 Aug. 29, 1988; 66 FR 33205, June 21, 2001; 69 FR 12550, Mar. 17, 2004; 71 FR 65745, Nov. 9, 2006; 75 FR 30301, June 1, 2010; 76 FR 30841, May 27, 2011; 79 FR 36236, June 26, 2014; 82 FR 48776, Oct. 20, 2017]

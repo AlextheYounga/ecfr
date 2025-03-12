@@ -1,7 +1,5 @@
 ##### § 54.706 Contributions. #####
 
-Link to an amendment published at 82 FR 48777, Oct. 20, 2017.
-
 (a) Entities that provide interstate telecommunications to the public, or to such classes of users as to be effectively available to the public, for a fee will be considered telecommunications carriers providing interstate telecommunications services and must contribute to the universal service support mechanisms. Certain other providers of interstate telecommunications, such as payphone providers that are aggregators, providers of interstate telecommunications for a fee on a non-common carrier basis, and interconnected VoIP providers, also must contribute to the universal service support mechanisms. Interstate telecommunications include, but are not limited to:
 
 (1) Cellular telephone and paging services;
@@ -28,7 +26,7 @@ Link to an amendment published at 82 FR 48777, Oct. 20, 2017.
 
 (12) Telex;
 
-(13) Telegraph;
+(13) [Reserved]
 
 (14) Video services;
 
@@ -50,4 +48,4 @@ Link to an amendment published at 82 FR 48777, Oct. 20, 2017.
 
 (e) Any entity required to contribute to the federal universal service support mechanisms shall retain, for at least five years from the date of the contribution, all records that may be required to demonstrate to auditors that the contributions made were in compliance with the Commission's universal service rules. These records shall include without limitation the following: Financial statements and supporting documentation; accounting records; historical customer records; general ledgers; and any other relevant documentation. This document retention requirement also applies to any contractor or consultant working on behalf of the contributor.
 
-[63 FR 70575, Dec. 21, 1998, as amended at 64 FR 60358, Nov. 5, 1999; 67 FR 11260, Mar. 13, 2002; 67 FR 79532, Dec. 30, 2002; 71 FR 38796, July 10, 2006; 71 FR 43673, Aug. 2, 2006; 72 FR 54218, Sept. 24, 2007]
+[63 FR 70575, Dec. 21, 1998, as amended at 64 FR 60358, Nov. 5, 1999; 67 FR 11260, Mar. 13, 2002; 67 FR 79532, Dec. 30, 2002; 71 FR 38796, July 10, 2006; 71 FR 43673, Aug. 2, 2006; 72 FR 54218, Sept. 24, 2007; 82 FR 48777, Oct. 20, 2017]

@@ -1,7 +1,5 @@
 ##### § 63.500 Contents of applications to dismantle or remove a trunk line. #####
 
-Link to an amendment published at 82 FR 48777, Oct. 20, 2017.
-
 The application shall contain:
 
 (a) The name and address of each applicant;
@@ -16,7 +14,7 @@ The application shall contain:
 
 (f) Description of the service area affected including population and general character of business of the community;
 
-(g) Name of any other carrier or carriers providing telegraph or telephone service to the community;
+(g) Name of any other carrier or carriers providing telephone service to the community;
 
 (h) Statement of the reasons for proposed discontinuance, reduction, or impairment;
 
@@ -42,4 +40,4 @@ The application shall contain:
 
 (n) A complete statement showing how the traffic load on the line proposed to be removed will be diverted to other lines and the adequacy of such other lines to handle the increased load.
 
-[28 FR 13229, Dec. 5, 1963, as amended at 58 FR 44907, Aug. 25, 1993]
+[28 FR 13229, Dec. 5, 1963, as amended at 58 FR 44907, Aug. 25, 1993; 82 FR 48777, Oct. 20, 2017]

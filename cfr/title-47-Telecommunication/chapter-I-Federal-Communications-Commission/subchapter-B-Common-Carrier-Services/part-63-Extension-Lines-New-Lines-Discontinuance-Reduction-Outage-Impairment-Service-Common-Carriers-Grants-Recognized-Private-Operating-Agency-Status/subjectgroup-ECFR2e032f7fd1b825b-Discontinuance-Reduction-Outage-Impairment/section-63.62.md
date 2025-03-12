@@ -1,6 +1,4 @@
-##### § 63.62 Type of discontinuance, reduction, or impairment of telephone or telegraph service requiring formal application. #####
-
-Link to an amendment published at 82 FR 48777, Oct. 20, 2017.
+##### § 63.62 Type of discontinuance, reduction, or impairment of telephone service requiring formal application. #####
 
 Authority for the following types of discontinuance, reduction, or impairment of service shall be requested by formal application containing the information required by the Commission in the appropriate sections to this part, except as provided in paragraph (c) of this section, or in emergency cases (as defined in § 63.60(b)) as provided in § 63.63:
 

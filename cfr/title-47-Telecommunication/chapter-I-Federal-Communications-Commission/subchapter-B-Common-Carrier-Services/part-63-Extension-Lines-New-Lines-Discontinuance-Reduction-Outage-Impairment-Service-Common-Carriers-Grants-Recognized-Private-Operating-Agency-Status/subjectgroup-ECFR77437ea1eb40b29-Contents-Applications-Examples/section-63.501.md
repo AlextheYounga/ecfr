@@ -1,7 +1,5 @@
 ##### § 63.501 Contents of applications to sever physical connection or to terminate or suspend interchange of traffic with another carrier. #####
 
-Link to an amendment published at 82 FR 48777, Oct. 20, 2017.
-
 The application shall contain:
 
 (a) The name and address of each applicant;
@@ -16,7 +14,7 @@ The application shall contain:
 
 (f) Description of the service area affected including population and general character of business of the community;
 
-(g) Name of any other carrier or carriers providing telegraph or telephone service to the community;
+(g) Name of any other carrier or carriers providing telephone service to the community;
 
 (h) Statement of the reasons for proposed discontinuance, reduction, or impairment;
 
@@ -35,3 +33,5 @@ The application shall contain:
 (o) Amount of traffic interchanged for each month during preceding 6-month period;
 
 (p) Statement as to whether severance of physical connection or termination or suspension of interchange of traffic is being made with consent of other carrier.
+
+[28 FR 13229, Dec. 5, 1963, as amended at 82 FR 48777, Oct. 20, 2017]
