@@ -1,7 +1,5 @@
 ##### § 169.103 What bonds, insurance, or other security must accompany the application? #####
 
-Link to an amendment published at 84 FR 42808, Aug. 19, 2019.
-
 (a) You must include payment of bonds, insurance, or alternative forms of security with your application for a right-of-way in amounts that cover:
 
 (1) The highest annual rental specified in the grant, unless compensation is a one-time payment;
@@ -51,3 +49,7 @@ Link to an amendment published at 84 FR 42808, Aug. 19, 2019.
 (4) Be automatically renewable during the term of the right-of-way.
 
 (j) We will not accept cash bonds.
+
+(k) The requirements of this section do not apply to Federal, State, Tribal, or local governments who are prohibited by law from providing a bond, insurance, or other security. Federal, State, Tribal, or local governments seeking this exemption must include with their application a certification, including a citation to applicable law, that they are prohibited by law from providing security. Federal, State, Tribal, or local governments must also notify landowners that they are prohibited by law from providing security when they notify the Indian landowners of their application under § 169.107.
+
+[80 FR 72534, Nov. 19, 2015, as amended at 84 FR 42808, Aug. 19, 2019]
