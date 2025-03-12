@@ -1,0 +1,3 @@
+##### § 54.1403 Authority to update the Digital Opportunity Data Collection. #####
+
+The Office of Economics and Analytics, in consultation with the Wireline Competition Bureau, the Wireless Telecommunications Bureau, and the International Bureau, may update the fixed broadband technologies reported in the Digital Opportunity Data Collection as necessary to reflect changes over time in technology, and the Office may implement any technical improvements, changes to the format and type of data submitted, or other clarifications to the Digital Opportunity Data Collection and its instructions.

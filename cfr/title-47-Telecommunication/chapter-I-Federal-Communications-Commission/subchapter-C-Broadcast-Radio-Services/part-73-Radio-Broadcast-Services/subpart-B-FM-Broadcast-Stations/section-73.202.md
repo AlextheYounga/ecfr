@@ -18,10 +18,13 @@ The provisions of this paragraph [(a)(2) of this section] become effective [3 ye
 
 Table 1 to Paragraph (b)
 
+[U.S. States]
+
 |                    |       Channel No.       |
 |--------------------|-------------------------|
 |      ALABAMA       |                         |
 |       Camden       |          230A           |
+|      Hamilton      |          221A           |
 |    Maplesville     |          292A           |
 |     Thomaston      |          280C3          |
 |      Waverly       |          262A           |
@@ -29,7 +32,8 @@ Table 1 to Paragraph (b)
 |      Kotzebue      |          280A           |
 |      Yakutat       |          280A           |
 |      ARIZONA       |                         |
-|       Bagdad       |          269C3          |
+|       Aguila       |          297C2          |
+|       Bagdad       |          299C3          |
 |    Desert Hills    |          292A           |
 |     Ehrenberg      |          228C2          |
 |     First Mesa     |          281C           |
@@ -69,6 +73,7 @@ Table 1 to Paragraph (b)
 |       Ludlow       |          261B1          |
 |      Portola       |          258A           |
 |     Randsburg      |          275A           |
+|     Sacramento     |          300B           |
 |    Shasta Lake     |          224A           |
 |    Sutter Creek    |         \*298A          |
 |      Westley       |         \*238A          |
@@ -135,6 +140,7 @@ Table 1 to Paragraph (b)
 |      MARYLAND      |                         |
 |       Newark       |          235A           |
 |   MASSACHUSETTS    |                         |
+|       Orange       |          247A           |
 |    West Tisbury    |         \*282A          |
 |      MICHIGAN      |                         |
 |       Carney       |          260A           |
@@ -303,9 +309,9 @@ Table 1 to Paragraph (b)
 |       Lometa       |          253A           |
 |      Longview      |          300C2          |
 |      Lovelady      |          288A           |
-|      Marathon      |          278C           |
+|      Marathon      |          276C1          |
 |      Marquez       |          296A           |
-|       Mason        |          281C2          |
+|       Mason        |      281C2, 239C2       |
 |      Matador       |      244C2, 276C3       |
 |     Matagorda      |          291A           |
 |      McCamey       |      233C3, 237C3       |
@@ -336,7 +342,7 @@ Table 1 to Paragraph (b)
 |  Richland Springs  |       235A, 299A        |
 |    Rising Star     |          290C3          |
 |  Roaring Springs   |       227A, 249C3       |
-|        Roby        |          249A           |
+|        Roby        |          290A           |
 |    Rocksprings     |          291A           |
 |       Roscoe       |          228A           |
 |        Rule        |          253A           |
@@ -399,6 +405,7 @@ Table 1 to Paragraph (b)
 |       Rozet        |          256C3          |
 |     Wamsutter      |          285A           |
 |     Wheatland      |       286A, 293A        |
+|  U.S. Territories  |                         |
 |   AMERICAN SAMOA   |                         |
 |  CENTRAL MARIANAS  |                         |
 |      GARAPAN       |                         |

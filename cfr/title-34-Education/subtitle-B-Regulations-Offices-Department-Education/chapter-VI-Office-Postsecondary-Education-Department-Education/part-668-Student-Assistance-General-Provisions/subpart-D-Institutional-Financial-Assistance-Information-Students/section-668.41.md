@@ -1,5 +1,7 @@
 ##### § 668.41 Reporting and disclosure of information. #####
 
+Link to an amendment published at 84 FR 49910, Sept. 23, 2019.
+
 (a) *Definitions.* The following definitions apply to this subpart:
 
 *Athletically related student aid* means any scholarship, grant, or other form of financial assistance, offered by an institution, the terms of which require the recipient to participate in a program of intercollegiate athletics at the institution. Other student aid, of which a student-athlete simply happens to be the recipient, is not athletically related student aid.

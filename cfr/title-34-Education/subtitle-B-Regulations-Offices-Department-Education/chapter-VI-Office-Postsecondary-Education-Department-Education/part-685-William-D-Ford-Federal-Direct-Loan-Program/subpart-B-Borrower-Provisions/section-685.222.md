@@ -1,8 +1,8 @@
-##### § 685.222 Borrower defenses. #####
+##### § 685.222 Borrower defenses and procedures for loans first disbursed on or after July 1, 2017, and before July 1, 2020, and procedures for loans first disbursed prior to July 1, 2017. #####
 
 (a) *General.* (1) For loans first disbursed prior to July 1, 2017, a borrower asserts and the Secretary considers a borrower defense in accordance with the provisions of § 685.206(c), unless otherwise noted in § 685.206(c).
 
-(2) For loans first disbursed on or after July 1, 2017, a borrower asserts and the Secretary considers a borrower defense in accordance with this section. To establish a borrower defense under this section, a preponderance of the evidence must show that the borrower has a borrower defense that meets the requirements of this section.
+(2) For loans first disbursed on or after July 1, 2017, and before July 1, 2020, a borrower asserts and the Secretary considers a borrower defense in accordance with this section. To establish a borrower defense under this section, a preponderance of the evidence must show that the borrower has a borrower defense that meets the requirements of this section.
 
 (3) A violation by the school of an eligibility or compliance requirement in the Act or its implementing regulations is not a basis for a borrower defense under either this section or § 685.206(c) unless the violation would otherwise constitute a basis for a borrower defense under this section or § 685.206(c), as applicable.
 
@@ -20,11 +20,11 @@
 
 (6) If the borrower asserts both a borrower defense and any other objection to an action of the Secretary with regard to that Direct Loan, the order in which the Secretary will consider objections, including a borrower defense, will be determined as appropriate under the circumstances.
 
-(b) *Judgment against the school.* The borrower has a borrower defense if the borrower, whether as an individual or as a member of a class, or a governmental agency, has obtained against the school a nondefault, favorable contested judgment based on State or Federal law in a court or administrative tribunal of competent jurisdiction. A borrower may assert a borrower defense under this paragraph at any time.
+(b) *Judgment against the school.* The borrower has a borrower defense under this section if the borrower, whether as an individual or as a member of a class, or a governmental agency, has obtained against the school a nondefault, favorable contested judgment based on State or Federal law in a court or administrative tribunal of competent jurisdiction. A borrower may assert a borrower defense under this paragraph at any time.
 
-(c) *Breach of contract by the school.* The borrower has a borrower defense if the school the borrower received the Direct Loan to attend failed to perform its obligations under the terms of a contract with the student. A borrower may assert a defense to repayment of amounts owed to the Secretary under this paragraph at any time after the breach by the school of its contract with the student. A borrower may assert a right to recover amounts previously collected by the Secretary under this paragraph not later than six years after the breach by the school of its contract with the student.
+(c) *Breach of contract by the school.* The borrower has a borrower defense under this section if the school the borrower received the Direct Loan to attend failed to perform its obligations under the terms of a contract with the student. A borrower may assert a defense to repayment of amounts owed to the Secretary under this paragraph at any time after the breach by the school of its contract with the student. A borrower may assert a right to recover amounts previously collected by the Secretary under this paragraph not later than six years after the breach by the school of its contract with the student.
 
-(d) *Substantial misrepresentation by the school.* (1) A borrower has a borrower defense if the school or any of its representatives, or any institution, organization, or person with whom the school has an agreement to provide educational programs, or to provide marketing, advertising, recruiting, or admissions services, made a substantial misrepresentation in accordance with 34 CFR part 668, subpart F, that the borrower reasonably relied on to the borrower's detriment when the borrower decided to attend, or to continue attending, the school or decided to take out a Direct Loan. A borrower may assert, at any time, a defense to repayment under this paragraph (d) of amounts owed to the Secretary. A borrower may assert a claim under this paragraph (d) to recover funds previously collected by the Secretary not later than six years after the borrower discovers, or reasonably could have discovered, the information constituting the substantial misrepresentation.
+(d) *Substantial misrepresentation by the school.* (1) A borrower has a borrower defense under this section if the school or any of its representatives, or any institution, organization, or person with whom the school has an agreement to provide educational programs, or to provide marketing, advertising, recruiting, or admissions services, made a substantial misrepresentation in accordance with 34 CFR part 668, subpart F, that the borrower reasonably relied on to the borrower's detriment when the borrower decided to attend, or to continue attending, the school or decided to take out a Direct Loan. A borrower may assert, at any time, a defense to repayment under this paragraph (d) of amounts owed to the Secretary. A borrower may assert a claim under this paragraph (d) to recover funds previously collected by the Secretary not later than six years after the borrower discovers, or reasonably could have discovered, the information constituting the substantial misrepresentation.
 
 (2) For the purposes of this section, a designated Department official pursuant to paragraph (e) of this section or a hearing official pursuant to paragraph (f), (g), or (h) of this section may consider, as evidence supporting the reasonableness of a borrower's reliance on a misrepresentation, whether the school or any of the other parties described in paragraph (d)(1) engaged in conduct such as, but not limited to:
 
@@ -50,7 +50,7 @@
 
 (ii) Provide any other information or supporting documentation reasonably requested by the Secretary.
 
-(2) Upon receipt of a borrower's application, the Secretary -
+(2) Upon receipt of a borrower's application submitted under this section, the Secretary -
 
 (i) If the borrower is not in default on the loan for which a borrower defense has been asserted, grants forbearance and -
 
@@ -66,7 +66,7 @@
 
 (C) Notifies the borrower of the option to continue making payments under a rehabilitation agreement or other repayment agreement on the defaulted loan.
 
-(3) The Secretary designates a Department official to review the borrower's application to determine whether the application states a basis for a borrower defense, and resolves the claim through a fact-finding process conducted by the Department official.
+(3) The Secretary designates a Department official to review the borrower's application under this section to determine whether the application states a basis for a borrower defense, and resolves the claim through a fact-finding process conducted by the Department official.
 
 (i) As part of the fact-finding process, the Department official notifies the school of the borrower defense application and considers any evidence or argument presented by the borrower and also any additional information, including -
 
@@ -76,15 +76,15 @@
 
 (C) Any additional information or argument that may be obtained by the Department official.
 
-(ii) Upon the borrower's request, the Department official identifies to the borrower the records the Department official considers relevant to the borrower defense. The Secretary provides to the borrower any of the identified records upon reasonable request of the borrower.
+(ii) For borrower defense applications under this section, upon the borrower's request, the Department official identifies to the borrower the records the Department official considers relevant to the borrower defense. The Secretary provides to the borrower any of the identified records upon reasonable request of the borrower.
 
-(4) At the conclusion of the fact-finding process, the Department official issues a written decision as follows:
+(4) At the conclusion of the fact-finding process under this section, the Department official issues a written decision as follows:
 
 (i) If the Department official approves the borrower defense in full or in part, the Department official notifies the borrower in writing of that determination and of the relief provided as described in paragraph (i) of this section.
 
 (ii) If the Department official denies the borrower defense in full or in part, the Department official notifies the borrower of the reasons for the denial, the evidence that was relied upon, any portion of the loan that is due and payable to the Secretary, and whether the Secretary will reimburse any amounts previously collected, and informs the borrower that if any balance remains on the loan, the loan will return to its status prior to the borrower's submission of the application. The Department official also informs the borrower of the opportunity to request reconsideration of the claim based on new evidence pursuant to paragraph (e)(5)(i) of this section.
 
-(5) The decision of the Department official is final as to the merits of the claim and any relief that may be granted on the claim. Notwithstanding the foregoing -
+(5) The decision of the Department official under this section is final as to the merits of the claim and any relief that may be granted on the claim. Notwithstanding the foregoing -
 
 (i) If the borrower defense is denied in full or in part, the borrower may request that the Secretary reconsider the borrower defense upon the identification of new evidence in support of the borrower's claim. “New evidence” is relevant evidence that the borrower did not previously provide and that was not identified in the final decision as evidence that was relied upon for the final decision. If accepted for reconsideration by the Secretary, the Secretary follows the procedure in paragraph (e)(2) of this section for granting forbearance and for defaulted loans; and
 
@@ -106,7 +106,7 @@
 
 (C) Written notice, including a civil investigative demand or other written demand for information, from a Federal or State agency that has power to initiate an investigation into conduct of the school relating to specific programs, periods, or practices that may have affected the borrower, for underlying facts that may form the basis of a claim under this section or § 685.206(c).
 
-(f) *Group process for borrower defense, generally.* (1) Upon consideration of factors including, but not limited to, common facts and claims, fiscal impact, and the promotion of compliance by the school or other title IV, HEA program participant, the Secretary may initiate a process to determine whether a group of borrowers, identified by the Secretary, has a borrower defense.
+(f) *Group process for borrower defense, generally.* (1) Upon consideration of factors including, but not limited to, common facts and claims, fiscal impact, and the promotion of compliance by the school or other title IV, HEA program participant, the Secretary may initiate a process to determine whether a group of borrowers, identified by the Secretary, has a borrower defense under this section.
 
 (i) The members of the group may be identified by the Secretary from individually filed applications pursuant to paragraph (e)(6) of this section or from any other source.
 
@@ -126,7 +126,7 @@
 
 (g) *Procedures for group process for borrower defenses with respect to loans made to attend a closed school.* For groups identified by the Secretary under paragraph (f) of this section, for which the borrower defense is asserted with respect to a Direct Loan to attend a school that has closed and has provided no financial protection currently available to the Secretary from which to recover any losses arising from borrower defenses, and for which there is no appropriate entity from which the Secretary can otherwise practicably recover such losses -
 
-(1) A hearing official resolves the borrower defense through a fact-finding process. As part of the fact-finding process, the hearing official considers any evidence and argument presented by the Department official on behalf of the group and, as necessary to determine any claims at issue, on behalf of individual members of the group. The hearing official also considers any additional information the Department official considers necessary, including any Department records or response from the school or a person affiliated with the school as described in § 668.174(b), if practicable. The hearing official issues a written decision as follows:
+(1) A hearing official resolves the borrower defense under this section through a fact-finding process. As part of the fact-finding process, the hearing official considers any evidence and argument presented by the Department official on behalf of the group and, as necessary to determine any claims at issue, on behalf of individual members of the group. The hearing official also considers any additional information the Department official considers necessary, including any Department records or response from the school or a person affiliated with the school as described in § 668.174(b), if practicable. The hearing official issues a written decision as follows:
 
 (i) If the hearing official approves the borrower defense in full or in part, the written decision states that determination and the relief provided on the basis of that claim as determined under paragraph (i) of this section.
 
@@ -140,7 +140,7 @@
 
 (4) The Secretary may reopen a borrower defense application at any time to consider evidence that was not considered in making the previous decision. If a borrower defense application is reopened by the Secretary, the Secretary follows the procedure in paragraph (e)(2) of this section for granting forbearance and for defaulted loans.
 
-(h) *Procedures for group process for borrower defenses with respect to loans made to attend an open school.* For groups identified by the Secretary under paragraph (f) of this section, for which the borrower defense is asserted with respect to Direct Loans to attend a school that is not covered by paragraph (g) of this section, the claim is resolved in accordance with the procedures in this paragraph (h).
+(h) *Procedures for group process for borrower defenses with respect to loans made to attend an open school.* For groups identified by the Secretary under paragraph (f) of this section, for which the borrower defense under this section is asserted with respect to Direct Loans to attend a school that is not covered by paragraph (g) of this section, the claim is resolved in accordance with the procedures in this paragraph (h).
 
 (1) A hearing official resolves the borrower defense and determines any liability of the school through a fact-finding process. As part of the fact-finding process, the hearing official considers any evidence and argument presented by the school and the Department official on behalf of the group and, as necessary to determine any claims at issue, on behalf of individual members of the group. The hearing official issues a written decision as follows:
 
@@ -222,4 +222,4 @@
 
 (3) Nothing in this paragraph (k) limits or forecloses the borrower's right to pursue legal and equitable relief against a party described in this paragraph (k) for recovery of any portion of a claim exceeding that assigned to the Secretary or any other claims arising from matters unrelated to the claim on which the loan is discharged.
 
-(Authority: 20 U.S.C. 1087a *et seq.;* 28 U.S.C. 2401; 31 U.S.C. 3702)[81 FR 76083, Nov. 1, 2016]
+(Authority: 20 U.S.C. 1087a *et seq.;* 28 U.S.C. 2401; 31 U.S.C. 3702)[81 FR 76083, Nov. 1, 2016, as amended at 84 FR 49932, Sept. 23, 2019]

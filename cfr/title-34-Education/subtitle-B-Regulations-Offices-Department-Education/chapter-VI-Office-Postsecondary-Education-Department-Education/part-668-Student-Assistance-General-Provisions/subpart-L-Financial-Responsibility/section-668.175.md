@@ -1,5 +1,7 @@
 ##### § 668.175 Alternative standards and requirements. #####
 
+Link to an amendment published at 84 FR 49913, Sept. 23, 2019.
+
 (a) *General.* An institution that is not financially responsible under the general standards and provisions in § 668.171, may begin or continue to participate in the title IV, HEA programs by qualifying under an alternate standard set forth in this section.
 
 (b) *Letter of credit alternative for new institutions.* A new institution that is not financially responsible solely because the Secretary determines that its composite score is less than 1.5, qualifies as a financially responsible institution by submitting an irrevocable letter of credit, that is acceptable and payable to the Secretary, for an amount equal to at least one-half of the amount of title IV, HEA program funds that the Secretary determines the institution will receive during its initial year of participation. A new institution is an institution that seeks to participate for the first time in the title IV, HEA programs.

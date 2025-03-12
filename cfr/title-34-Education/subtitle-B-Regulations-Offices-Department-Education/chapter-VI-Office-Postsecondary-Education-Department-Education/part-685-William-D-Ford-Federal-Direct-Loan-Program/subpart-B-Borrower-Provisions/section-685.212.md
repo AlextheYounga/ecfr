@@ -44,7 +44,7 @@
 
 (4) On the portion of a Direct Consolidation Loan that repaid a PLUS loan incurred on behalf of an eligible victim, if the borrower qualifies as an eligible parent.
 
-(k) *Borrower defenses.* (1) If a borrower defense is approved under § 685.206(c) or § 685.222 -
+(k) *Borrower defenses.* (1) If a borrower defense is approved under § 685.206(c) or under § 685.206(d) and § 685.222 -
 
 (i) The Secretary discharges the obligation of the borrower in whole or in part in accordance with the procedures in §§ 685.206(c) and 685.222, respectively; and
 
@@ -58,9 +58,9 @@
 
 (i) The Secretary considers a borrower defense claim asserted on a Direct Consolidation Loan by determining -
 
-(A) Whether the act or omission of the school with regard to the loan described in paragraph (k)(2) of this section, other than a Direct Subsidized, Unsubsidized, or PLUS Loan, constitutes a borrower defense under § 685.206(c), for a Direct Consolidation Loan made before July 1, 2017, or under § 685.222, for a Direct Consolidation Loan made on or after July 1, 2017; or
+(A) Whether the act or omission of the school with regard to the loan described in this paragraph (k)(2), other than a Direct Subsidized, Unsubsidized, or PLUS Loan, constitutes a borrower defense under § 685.206(c), for a Direct Consolidation Loan made before July 1, 2017, or under § 685.222, for a Direct Consolidation Loan made on or after July 1, 2017, and before July 1, 2020; or
 
-(B) Whether the act or omission of the school with regard to a Direct Subsidized, Unsubsidized, or PLUS Loan made on after July 1, 2017 that was paid off by the Direct Consolidation Loan, constitutes a borrower defense under § 685.222.
+(B) Whether the act or omission of the school with regard to a Direct Subsidized, Unsubsidized, or PLUS Loan made on after July 1, 2017, and before July 1, 2020, that was paid off by the Direct Consolidation Loan, constitutes a borrower defense under § 685.222.
 
 (ii) If the borrower defense is approved, the Secretary discharges the appropriate portion of the Direct Consolidation Loan.
 
@@ -70,10 +70,12 @@
 
 (B) For a claim asserted under § 685.222, the limitation period in § 685.222(b), (c), or (d), as applicable.
 
-(iv) The Secretary returns to the borrower a payment made by the borrower or otherwise recovered on the loan described in paragraph (k)(2) of this section only if -
+(iv) The Secretary returns to the borrower a payment made by the borrower or otherwise recovered on the loan described in this paragraph (k)(2) only if -
 
 (A) The payment was made directly to the Secretary on the loan; and
 
 (B) The borrower proves that the loan to which the payment was credited was not legally enforceable under applicable law in the amount for which that payment was applied.
 
-(Approved by the Office of Management and Budget under control number 1845-0021)(Authority: 20 U.S.C. 1087a *et seq.*)[59 FR 61690, Dec. 1, 1994]Editorial Note:For Federal Register citations affecting § 685.212, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(3) If a borrower's application for a discharge of a loan based on a borrower defense is approved under § 685.206(e), the Secretary discharges the obligation of the borrower, in whole or in part, in accordance with the procedures described in § 685.206(e).
+
+(Approved by the Office of Management and Budget under control number 1845-0021)[59 FR 61690, Dec. 1, 1994]Editorial Note:For Federal Register citations affecting § 685.212, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

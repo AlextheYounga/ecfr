@@ -1,5 +1,7 @@
 ##### § 668.172 Financial ratios. #####
 
+Link to an amendment published at 84 FR 49913, Sept. 23, 2019.
+
 (a) *Appendices A and B, ratio methodology.* As provided under appendices A and B to this subpart, the Secretary determines an institution's composite score by -
 
 (1) Calculating the result of its Primary Reserve, Equity, and Net Income ratios, as described under paragraph (b) of this section;

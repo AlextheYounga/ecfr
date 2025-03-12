@@ -10,11 +10,17 @@
 
 (ii) On a separate written form provided to the borrower that the borrower signs and returns to the school; or
 
-(iii) Online or by interactive electronic means, with the borrower acknowledging receipt of the information.
+(A) Online or by interactive electronic means, with the borrower acknowledging receipt of the information.
+
+(B) If a standardized interactive electronic tool is used to provide entrance counseling to the borrower, the school must provide to the borrower any elements of the required information that are not addressed through the electronic tool:
+
+(*1*) In person; or
+
+(*2*) On a separate written or electronic document provided to the borrower.
 
 (4) If entrance counseling is conducted online or through interactive electronic means, the school must take reasonable steps to ensure that each student borrower receives the counseling materials, and participates in and completes the entrance counseling, which may include completion of any interactive program that tests the borrower's understanding of the terms and conditions of the borrower's loans.
 
-(5) A school must ensure that an individual with expertise in the title IV programs is reasonably available shortly after the counseling to answer the student borrower's questions. As an alternative, in the case of a student borrower enrolled in a correspondence program or a study-abroad program approved for credit at the home institution, the student borrower may be provided with written counseling materials before the loan proceeds are disbursed.
+(5) A school must ensure that an individual with expertise in the title IV programs is reasonably available shortly after the counseling to answer the student borrower's questions. As an alternative, in the case of a student borrower enrolled in a correspondence, distance education, or study-abroad program approved for credit at the home institution, the student borrower may be provided with written counseling materials before the loan proceeds are disbursed.
 
 (6) Entrance counseling for Direct Subsidized Loan and Direct Unsubsidized Loan borrowers must -
 
@@ -44,9 +50,15 @@
 
 (xi) Provide information on the National Student Loan Data System and how the borrower can access the borrower's records;
 
-(xii) Provide the name of and contact information for the individual the borrower may contact if the borrower has any questions about the borrower's rights and responsibilities or the terms and conditions of the loan; and
+(xii) Provide the name of and contact information for the individual the borrower may contact if the borrower has any questions about the borrower's rights and responsibilities or the terms and conditions of the loan;
 
-(xiii) For first-time borrowers as defined in § 685.200(f)(1)(i), explain the limitation on eligibility for Direct Subsidized Loans and possible borrower responsibility for accruing interest described in § 685.200(f), including -
+(xiii) For loans first disbursed on or after July 1, 2020, if, as a condition of enrollment, the school requires borrowers to enter into a pre-dispute arbitration agreement, as defined in § 668.41(h)(2)(iii) of this chapter, or to sign a class action waiver, as defined in § 668.41(h)(2)(i) and (ii) of this chapter, the school must provide a written description of the school's dispute resolution process that the borrower has agreed to pursue, including the name and contact information for the individual or office at the school that the borrower may contact if the borrower has a dispute relating to the borrower's loans or to the provision of educational services for which the loans were provided;
+
+(xiv) For loans first disbursed on or after July 1, 2020, if, as a condition of enrollment, the school requires borrowers to enter into a pre-dispute arbitration agreement, as defined in § 668.41(h)(2)(iii) of this chapter, the school must provide a written description of how and when the agreement applies, how the borrower enters into the arbitration process, and who to contact if the borrower has any questions;
+
+(xv) For loans first disbursed on or after July 1, 2020, if, as a condition of enrollment, the school requires borrowers to sign a class-action waiver, as defined in § 668.41(h)(2)(i) and (ii) of this chapter, the school must explain how and when the waiver applies, alternative processes the borrower may pursue to seek redress, and who to contact if the borrower has any questions; and
+
+(xvi) For first-time borrowers as defined in § 685.200(f)(1)(i), explain the limitation on eligibility for Direct Subsidized Loans and possible borrower responsibility for accruing interest described in § 685.200(f), including -
 
 (A) The possible loss of eligibility for additional Direct Subsidized Loans;
 
@@ -154,4 +166,4 @@
 
 (ii) A student's completion of electronic interactive exit counseling offered by the Secretary satisfies the requirements of paragraph (b) of this section and, for students who have also received FFEL Program loans for attendance at the school, 34 CFR 682.604(a).
 
-(Approved by the Office of Management and Budget under control number 1845-0021)(Authority:20 U.S.C. 1087a *et seq.*)[74 FR 55666, Oct. 28, 2009, as amended at 78 FR 28986, May 16, 2013; 78 FR 65841, Nov. 1, 2013]
+(Approved by the Office of Management and Budget under control number 1845-0021)[74 FR 55666, Oct. 28, 2009, as amended at 78 FR 28986, May 16, 2013; 78 FR 65841, Nov. 1, 2013]; 84 FR 49933, Sept. 23, 2019

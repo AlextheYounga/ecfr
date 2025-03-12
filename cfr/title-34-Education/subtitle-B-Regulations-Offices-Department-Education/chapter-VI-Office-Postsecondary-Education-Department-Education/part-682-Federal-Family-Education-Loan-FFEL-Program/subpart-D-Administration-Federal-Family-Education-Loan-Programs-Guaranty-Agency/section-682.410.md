@@ -1,6 +1,6 @@
 ##### § 682.410 Fiscal, administrative, and enforcement requirements. #####
 
-(a) *Fiscal requirements* - (1) *Reserve fund assets.* A guaranty agency shall establish and maintain a reserve fund to be used solely for its activities as a guaranty agency under the FFEL Program (“guaranty activities”). The guaranty agency shall credit to the reserve fund -
+(a) *Fiscal requirements*—(1) *Reserve fund assets.* A guaranty agency shall establish and maintain a reserve fund to be used solely for its activities as a guaranty agency under the FFEL Program (“guaranty activities”). The guaranty agency shall credit to the reserve fund—
 
 (i) The total amount of insurance premiums and Federal default fees collected;
 
@@ -20,11 +20,11 @@
 
 (ix) Other funds received by the guaranty agency from any source for the agency's guaranty activities.
 
-(2) *Uses of reserve fund assets.* A guaranty agency may use the assets of the reserve fund established under paragraph (a)(1) of this section to pay only -
+(2) *Uses of reserve fund assets.* A guaranty agency may use the assets of the reserve fund established under paragraph (a)(1) of this section to pay only—
 
 (i) Insurance claims;
 
-(ii) Costs that are reasonable, as defined under § 682.410(a)(11)(iii), and that are ordinary and necessary for the agency to fulfill its responsibilities under the HEA, including costs of collecting loans, providing default aversion assistance, monitoring enrollment and repayment status, and carrying out any other guaranty activities. Those costs must be -
+(ii) Costs that are reasonable, as defined under § 682.410(a)(11)(iii), and that are ordinary and necessary for the agency to fulfill its responsibilities under the HEA, including costs of collecting loans, providing default aversion assistance, monitoring enrollment and repayment status, and carrying out any other guaranty activities. Those costs must be—
 
 (A) Allocable to the FFEL Program;
 
@@ -46,7 +46,7 @@
 
 (vii) Borrower refunds, including those arising out of student or other borrower claims and defenses;
 
-(viii) (A) The repayment, on or after December 29, 1993, of amounts credited under paragraphs (a)(1)(ii) or (a)(1)(ix) of this section, if the agency provides the Secretary 30 days prior notice of the repayment and demonstrates that -
+(viii) (A) The repayment, on or after December 29, 1993, of amounts credited under paragraphs (a)(1)(ii) or (a)(1)(ix) of this section, if the agency provides the Secretary 30 days prior notice of the repayment and demonstrates that—
 
 (*1*) These amounts were originally received by the agency under appropriate contemporaneous documentation specifying that receipt was on a temporary basis only;
 
@@ -54,7 +54,7 @@
 
 (*3*) Repayment of these amounts would not cause the agency to fail to comply with the minimum reserve levels provided by paragraph (a)(10) of this section, except that the Secretary may, for good cause, provide written permission for a payment that meets the other requirements of this paragraph (a)(2)(ix)(A).
 
-(B) The repayment, prior to December 29, 1993, of amounts credited under paragraphs (a)(1)(ii) or (a)(1)(ix) of this section, if the agency demonstrates that -
+(B) The repayment, prior to December 29, 1993, of amounts credited under paragraphs (a)(1)(ii) or (a)(1)(ix) of this section, if the agency demonstrates that—
 
 (*1*) These amounts were originally received by the agency under appropriate contemporaneous documentation that receipt was on a temporary basis only; and
 
@@ -70,7 +70,7 @@
 
 (4) *Accounting records.* (i) The accounting records of a guaranty agency must reflect the correct amount of sources and uses of funds under paragraph (a) of this section.
 
-(ii) A guaranty agency may reverse prior credits to its reserve fund if -
+(ii) A guaranty agency may reverse prior credits to its reserve fund if—
 
 (A) The agency gives the Secretary prior notice setting forth a detailed justification for the action;
 
@@ -84,11 +84,11 @@
 
 (5) *Investments.* The guaranty agency shall exercise the level of care required of a fiduciary charged with the duty of investing the money of others when it invests the assets of the reserve fund described in paragraph (a)(1) of this section. It may invest these assets only in low-risk securities, such as obligations issued or guaranteed by the United States or a State.
 
-(6) *Development of assets.* (i) If the guaranty agency uses in a substantial way for purposes other than the agency's guaranty activities any funds required to be credited to the reserve fund under paragraph (a)(1) of this section or any assets derived from the reserve fund to develop an asset of any kind and does not in good faith allocate a portion of the cost of developing and maintaining the developed asset to funds other than the reserve fund, the Secretary may require the agency to -
+(6) *Development of assets.* (i) If the guaranty agency uses in a substantial way for purposes other than the agency's guaranty activities any funds required to be credited to the reserve fund under paragraph (a)(1) of this section or any assets derived from the reserve fund to develop an asset of any kind and does not in good faith allocate a portion of the cost of developing and maintaining the developed asset to funds other than the reserve fund, the Secretary may require the agency to—
 
 (A) Correct this allocation under paragraph (a)(4)(iii) of this section; or
 
-(B) Correct the recorded ownership of the asset under paragraph (a)(4)(iii) of this section so that -
+(B) Correct the recorded ownership of the asset under paragraph (a)(4)(iii) of this section so that—
 
 (*1*) If, in a transaction with an unrelated third party, the agency sells or otherwise derives revenue from uses of the asset that are unrelated to the agency's guaranty activities, the agency promptly shall deposit into the reserve fund described in paragraph (a)(1) of this section a percentage of the sale proceeds or revenue equal to the fair percentage of the total development cost of the asset paid with the reserve fund monies or provided by assets derived from the reserve fund; or
 
@@ -102,7 +102,7 @@
 
 (9) *Scope of definition.* The provisions of this § 682.410(a) define reserve funds and assets for purposes of sections 422 and 428 of the Act. These provisions do not, however, affect the Secretary's authority to use all funds and assets of the agency pursuant to section 428(c)(9)(F)(vi) of the Act.
 
-(10) *Minimum reserve fund level.* The guaranty agency must maintain a current minimum reserve level of not less than -
+(10) *Minimum reserve fund level.* The guaranty agency must maintain a current minimum reserve level of not less than—
 
 (i) .5 percent of the amount of loans outstanding, for the fiscal year of the agency that begins in calendar year 1993;
 
@@ -112,23 +112,23 @@
 
 (iv) 1.1 percent of the amount of loans outstanding, for each fiscal year of the agency that begins on or after January 1, 1996.
 
-(11) *Definitions.* For purposes of this section -
+(11) *Definitions.* For purposes of this section—
 
-(i) *Reserve fund level* means -
+(i) *Reserve fund level* means—
 
 (A) The total of reserve fund assets as defined in paragraph (a)(1) of this section;
 
 (B) Minus the total amount of the reserve fund assets used in accordance with paragraphs (a)(2) and (a)(3) of this section; and
 
-(ii) *Amount of loans outstanding* means -
+(ii) *Amount of loans outstanding* means—
 
-(A) The sum of -
+(A) The sum of—
 
 (*1*) The original principal amount of all loans guaranteed by the agency; and
 
 (*2*) The original principal amount of any loans on which the guarantee was transferred to the agency from another guarantor, excluding loan guarantees transferred to another agency pursuant to a plan of the Secretary in response to the insolvency of the agency;
 
-(B) Minus the original principal amount of all loans on which -
+(B) Minus the original principal amount of all loans on which—
 
 (*1*) The loan guarantee was cancelled;
 
@@ -140,7 +140,7 @@
 
 (*5*) The agency paid claims.
 
-(iii) *Reasonable cost* means a cost that, in its nature and amount, does not exceed that which would be incurred by a prudent person under the circumstances prevailing at the time the decision was made to incur the cost. The burden of proof is upon the guaranty agency, as a fiduciary under its agreements with the Secretary, to establish that costs are reasonable. In determining reasonableness of a given cost, consideration must be given to -
+(iii) *Reasonable cost* means a cost that, in its nature and amount, does not exceed that which would be incurred by a prudent person under the circumstances prevailing at the time the decision was made to incur the cost. The burden of proof is upon the guaranty agency, as a fiduciary under its agreements with the Secretary, to establish that costs are reasonable. In determining reasonableness of a given cost, consideration must be given to—
 
 (A) Whether the cost is of a type generally recognized as ordinary and necessary for the proper and efficient performance and administration of the guaranty agency's responsibilities under the HEA;
 
@@ -148,21 +148,25 @@
 
 (C) Market prices of comparable goods or services.
 
-(b) *Administrative requirements* - (1) *Independent audits.* The guaranty agency shall arrange for an independent financial and compliance audit of the agency's FFEL program as follows:
+(b) *Administrative requirements*—(1) *Independent audits.* The guaranty agency shall arrange for an independent financial and compliance audit of the agency's FFEL program as follows:
 
 (i) [Reserved]
 
-(ii) A guaranty agency must conduct an audit in accordance with 31 U.S.C. 7502 and 2 CFR part 200, subpart F - Audit Requirements.2 If a nonprofit guaranty agency meets the criteria in 2 CFR part 200, subpart F - Audit Requirements to have a program specific audit, and chooses that option, the program-specific audit must meet the following requirements:
+(ii) A guaranty agency must conduct an audit in accordance with 31 U.S.C. 7502 and 2 CFR part 200, subpart F—Audit Requirements.2 If a nonprofit guaranty agency meets the criteria in 2 CFR part 200, subpart F—Audit Requirements to have a program specific audit, and chooses that option, the program-specific audit must meet the following requirements:
 
 2 None of the other regulations in 2 CFR part 200 apply to lenders. Only those requirements in subpart F-Audit Requirements, apply to lenders, as required under the Single Audit Act Amendments of 1996 (31 U.S.C. Chapter 75).
 
-(2) *Collection charges.* Whether or not provided for in the borrower's promissory note and subject to any limitation on the amount of those costs in that note, the guaranty agency shall charge a borrower an amount equal to reasonable costs incurred by the agency in collecting a loan on which the agency has paid a default or bankruptcy claim. These costs may include, but are not limited to, all attorney's fees, collection agency charges, and court costs. Except as provided in §§ 682.401(b)(18)(i) and 682.405(b)(1)(iv)(B), the amount charged a borrower must equal the lesser of -
+(2) *Collection charges.* (i) Whether or not provided for in the borrower's promissory note and subject to any limitation on the amount of those costs in that note, the guaranty agency may charge a borrower an amount equal to the reasonable costs incurred by the agency in collecting a loan on which the agency has paid a default or bankruptcy claim unless, within the 60-day period after the guaranty agency sends the initial notice described in paragraph (b)(6)(ii) of this section, the borrower enters into an acceptable repayment agreement, including a rehabilitation agreement, and honors that agreement, in which case the guaranty agency must not charge a borrower any collection costs.
 
-(i) The amount the same borrower would be charged for the cost of collection under the formula in 34 CFR 30.60; or
+(ii) An acceptable repayment agreement may include an agreement described in § 682.200(b) (Satisfactory repayment arrangement), § 682.405, or paragraph (b)(5)(ii)(D) of this section. An acceptable repayment agreement constitutes a repayment arrangement or agreement on repayment terms satisfactory to the guaranty agency, under this section.
 
-(ii) The amount the same borrower would be charged for the cost of collection if the loan was held by the U.S. Department of Education.
+(iii) The costs under this paragraph (b)(2) include, but are not limited to, all attorneys' fees, collection agency charges, and court costs. Except as provided in §§ 682.401(b)(18)(i) and 682.405(b)(1)(vi)(B), the amount charged a borrower must equal the lesser of—
 
-(3) *Interest charged by guaranty agencies.* (i) Except as provided in paragraph (b)(3)(ii) of this section, the guaranty agency shall charge the borrower interest on the amount owed by the borrower after the capitalization required under paragraph (b)(4) of this section has occurred at a rate that is the greater of -
+(A) The amount the same borrower would be charged for the cost of collection under the formula in 34 CFR 30.60; or
+
+(B) The amount the same borrower would be charged for the cost of collection if the loan was held by the U.S. Department of Education.
+
+(3) *Interest charged by guaranty agencies.* (i) Except as provided in paragraph (b)(3)(ii) of this section, the guaranty agency shall charge the borrower interest on the amount owed by the borrower after the capitalization required under paragraph (b)(4) of this section has occurred at a rate that is the greater of—
 
 (A) The rate established by the terms of the borrower's original promissory note; or
 
@@ -172,7 +176,7 @@
 
 (4) *Capitalization of unpaid interest.* The guaranty agency shall capitalize any unpaid interest due the lender from the borrower at the time the agency pays a default claim to the lender, but shall not capitalize any unpaid interest thereafter.
 
-(5) *Reports to consumer reporting agencies.* (i) After the completion of the procedures in paragraph (b)(5)(ii) of this section, the guaranty agency shall, after it has paid a default claim, report promptly, but not less than sixty days after completion of the procedures in paragraph (b)(6)(ii) of this section, and on a regular basis, to all nationwide consumer reporting agencies -
+(5) *Reports to consumer reporting agencies.* (i) After the completion of the procedures in paragraph (b)(5)(ii) of this section, the guaranty agency shall, after it has paid a default claim, report promptly, but not less than sixty days after completion of the procedures in paragraph (b)(6)(ii) of this section, and on a regular basis, to all nationwide consumer reporting agencies—
 
 (A) The total amount of loans made to the borrower and the remaining balance of those loans;
 
@@ -184,7 +188,7 @@
 
 (E) The date the loan is fully repaid by or on behalf of the borrower or discharged by reason of the borrower's death, bankruptcy, total and permanent disability, or closed school or false certification.
 
-(ii) The guaranty agency, after it pays a default claim on a loan but before it reports the default to a consumer reporting agency or assesses collection costs against a borrower, shall, within the timeframe specified in paragraph (b)(6)(ii) of this section, provide the borrower with -
+(ii) The guaranty agency, after it pays a default claim on a loan but before it reports the default to a consumer reporting agency or assesses collection costs against a borrower, shall, within the timeframe specified in paragraph (b)(6)(ii) of this section, provide the borrower with—
 
 (A) Written notice that meets the requirements of paragraph (b)(5)(vi) of this section regarding the proposed actions;
 
@@ -200,13 +204,13 @@
 
 (B) The deadline established by the agency for requesting administrative review under paragraph (b)(5)(ii)(C) of this section must allow the borrower at least 60 days from the date the notice described in paragraph (b)(5)(ii)(A) of this section is sent to request that review.
 
-(v) An agency may not permit an employee, official, or agent to conduct the administrative review required under this paragraph if that individual is -
+(v) An agency may not permit an employee, official, or agent to conduct the administrative review required under this paragraph if that individual is—
 
 (A) Employed in an organizational component of the agency or its agent that is charged with collection of loan obligations; or
 
 (B) Compensated on the basis of collections on loan obligations.
 
-(vi) The notice sent by the agency under paragraph (b)(5)(ii)(A) of this section must -
+(vi) The notice sent by the agency under paragraph (b)(5)(ii)(A) of this section must—
 
 (A) Advise the borrower that the agency has paid a default claim filed by the lender and has taken assignment of the loan;
 
@@ -254,7 +258,7 @@
 
 (7) *Special conditions for agency payment of a claim.* (i) A guaranty agency may adopt a policy under which it pays a claim to a lender on a loan under the condition described in § 682.404(b)(3)(ii).
 
-(ii) Upon the payment of a claim under a policy described in paragraph (b)(7)(i) of this section, the guaranty agency shall -
+(ii) Upon the payment of a claim under a policy described in paragraph (b)(7)(i) of this section, the guaranty agency shall—
 
 (A) Perform the loan servicing functions required of a lender under § 682.208, except that the agency is not required to follow the consumer reporting agency reporting requirements of that section;
 
@@ -270,7 +274,7 @@
 
 (A) At least 30 days before the initiation of garnishment proceedings, the guaranty agency must mail to the borrower's last known address, a written notice described in paragraph (b)(9)(i)(B) of this section.
 
-(B) The notice must describe -
+(B) The notice must describe—
 
 (*1*) The nature and amount of the debt;
 
@@ -290,13 +294,13 @@
 
 (*2*) The borrower must request a hearing in writing. At the borrower's option, the hearing may be oral or written. The time and location of the hearing is established by the guaranty agency. An oral hearing may, at the borrower's option, be conducted either in-person or by telephone conference. The agency notifies the borrower of the process for arranging the time and location of an oral hearing. All telephonic charges are the responsibility of the agency. All travel expenses incurred by the borrower in connection with an in-person oral hearing are the responsibility of the borrower.
 
-(F)(*1*) If the borrower submits a written request for a hearing on the existence, amount, or enforceability of the debt -
+(F)(*1*) If the borrower submits a written request for a hearing on the existence, amount, or enforceability of the debt—
 
 (*i*) The guaranty agency must provide evidence of the existence of the debt. If the agency provides evidence of the existence of the debt, the borrower must prove by the preponderance of the evidence that no debt exists, the debt is not enforceable under applicable law, the amount the guaranty agency claims the borrower owes is incorrect, including that any amount of collection costs assessed to the borrower exceeds the limits established under § 682.410(b)(2), or the debt is not delinquent; and
 
 (*ii*) The borrower may raise any of the objections described in paragraph (b)(9)(i)(F)(*1*)(*i*) of this section not raised in the written request, but must do so before a hearing is completed. For purposes of this paragraph, a hearing is completed when the record is closed and the hearing official notifies the parties that no additional evidence or objections will be accepted.
 
-(*2*) If the borrower submits a written request for a hearing on an objection that withholding in the amount or at the rate that the agency proposed in its notice would cause financial hardship to the borrower and the borrower's spouse and dependents -
+(*2*) If the borrower submits a written request for a hearing on an objection that withholding in the amount or at the rate that the agency proposed in its notice would cause financial hardship to the borrower and the borrower's spouse and dependents—
 
 (*i*) The borrower bears the burden of proving the claim of financial hardship by a preponderance of the credible evidence by providing credible documentation that the amount of wages proposed in the notice would leave the borrower unable to meet basic living expenses of the borrower, the borrower's spouse, and the borrower's dependents. The documentation must show the amount of the costs incurred for basic living expenses and the income available from any source to meet those expenses;
 
@@ -314,13 +318,13 @@
 
 (I) The hearing official appointed by the agency to conduct the hearing may be any qualified individual, including an administrative law judge. Under no circumstance may the hearing official be under the supervision or control of the head of the guaranty agency or of a third-party servicer or collection contractor employed by the agency. Payment of compensation by the guaranty agency, third-party servicer, or collection contractor employed by the agency to the hearing official for service as a hearing official does not constitute impermissible supervision or control under this paragraph. The guaranty agency must ensure that, except as needed to arrange for administrative matters pertaining to the hearing, including the type of hearing requested by the borrower, the time, place, and manner of conducting an oral hearing, and post-hearing matters such as issuance of a hearing decision, all oral communications between the hearing official and any representative of the guaranty agency or with the borrower are made within the hearing of the other party, and that copies of any written communication with either party are promptly provided to the other party. This paragraph does not preclude a hearing in the absence of one of the parties if the borrower is given proper notice of the hearing, both parties have agreed on the time, place, and manner of the hearing, and one of the parties fails to attend.
 
-(J) The hearing official must conduct any hearing as an informal proceeding, require witnesses in an oral hearing to testify under oath or affirmation, and maintain a summary record of any hearing. The hearing official must issue a final written decision at the earliest practicable date, but not later than 60 days after the guaranty agency's receipt of the borrower's hearing request. However -
+(J) The hearing official must conduct any hearing as an informal proceeding, require witnesses in an oral hearing to testify under oath or affirmation, and maintain a summary record of any hearing. The hearing official must issue a final written decision at the earliest practicable date, but not later than 60 days after the guaranty agency's receipt of the borrower's hearing request. However—
 
 (*1*) The borrower may request an extension of that deadline for a reasonable period, as determined by the hearing official, for the purpose of submitting additional evidence or raising a new objection described in paragraph (b)(9)(i)(F)(*1*)(*ii*) of this section; and
 
 (*2*) The agency may request, and the hearing official must grant, a reasonable extension of time sufficient to enable the guaranty agency to evaluate and respond to any such additional evidence or any objections raised pursuant to paragraph (b)(9)(i)(F)(*1*)(*ii*) of this section.
 
-(K) An employer served with a garnishment order from the guaranty agency with respect to a borrower whose wages are not then subject to a withholding order of any kind must deduct and pay to the agency from a borrower's disposable pay an amount that does not exceed the smallest of -
+(K) An employer served with a garnishment order from the guaranty agency with respect to a borrower whose wages are not then subject to a withholding order of any kind must deduct and pay to the agency from a borrower's disposable pay an amount that does not exceed the smallest of—
 
 (*1*) The amount specified in the guaranty agency order;
 
@@ -328,11 +332,11 @@
 
 (*3*) The amount permitted by 15 U.S.C. 1673(a)(2), which is the amount by which the borrower's disposable pay exceeds 30 times the minimum wage.
 
-(L) If a borrower's pay is subject to more than one garnishment order -
+(L) If a borrower's pay is subject to more than one garnishment order—
 
 (*1*) Unless other Federal law requires a different priority, the employer must pay the agency the amount calculated under paragraph (b)(9)(i)(K) of this section before the employer complies with any later garnishment orders, except a family support withholding order;
 
-(*2*) If an employer is withholding from a borrower's pay based on a garnishment order served on the employer before the guaranty agency's order, or if a withholding order for family support is served on an employer at any time, the employer must comply with the agency's garnishment order by withholding an amount that is the lesser of -
+(*2*) If an employer is withholding from a borrower's pay based on a garnishment order served on the employer before the guaranty agency's order, or if a withholding order for family support is served on an employer at any time, the employer must comply with the agency's garnishment order by withholding an amount that is the lesser of—
 
 (*i*) The amount specified in the guaranty agency order; or
 
@@ -354,7 +358,7 @@
 
 (S) The notice given to the employer under paragraph (b)(9)(i)(R) of this section must contain only the information as may be necessary for the employer to comply with the withholding order and to ensure proper credit for payments received. At a minimum, the notice given to the employer includes the borrower's name, address, and Social Security Number, as well as instructions for withholding and information as to where the employer must send payments.
 
-(T)(*1*) A guaranty agency may use a third-party servicer or collection contractor to perform administrative activities associated with administrative wage garnishment, but may not allow such a party to conduct required hearings or to determine that a withholding order is to be issued. Subject to the limitations of paragraphs (b)(9)(i)(T)(*2*) and (*3*) of this section, administrative activities associated with administrative wage garnishment may include but are not limited to -
+(T)(*1*) A guaranty agency may use a third-party servicer or collection contractor to perform administrative activities associated with administrative wage garnishment, but may not allow such a party to conduct required hearings or to determine that a withholding order is to be issued. Subject to the limitations of paragraphs (b)(9)(i)(T)(*2*) and (*3*) of this section, administrative activities associated with administrative wage garnishment may include but are not limited to—
 
 (*i*) Identifying to the agency suitable candidates for wage garnishment pursuant to agency standards;
 
@@ -382,7 +386,7 @@
 
 (V) A guaranty agency is required to suspend a garnishment order when the agency receives a borrower's fifth qualifying payment under a loan rehabilitation agreement with the agency, unless otherwise directed by the borrower, in accordance with § 682.405(a)(3).
 
-(ii) For purposes of paragraph (b)(9) of this section -
+(ii) For purposes of paragraph (b)(9) of this section—
 
 (A) “Borrower” includes all endorsers on a loan;
 
@@ -398,7 +402,7 @@
 
 (G) “Withholding order” means any order for withholding or garnishment of pay issued by the guaranty agency and may also be referred to as “wage garnishment order” or “garnishment order.”
 
-(10) *Conflicts of interest.* (i) A guaranty agency shall maintain and enforce written standards of conduct governing the performance of its employees, officers, directors, trustees, and agents engaged in the selection, award, and administration of contracts or agreements. The standards of conduct must, at a minimum, require disclosure of financial or other interests and must mandate disinterested decision-making. The standards must provide for appropriate disciplinary actions to be applied for violations of the standards by employees, officers, directors, trustees, or agents of the guaranty agency, and must include provisions to -
+(10) *Conflicts of interest.* (i) A guaranty agency shall maintain and enforce written standards of conduct governing the performance of its employees, officers, directors, trustees, and agents engaged in the selection, award, and administration of contracts or agreements. The standards of conduct must, at a minimum, require disclosure of financial or other interests and must mandate disinterested decision-making. The standards must provide for appropriate disciplinary actions to be applied for violations of the standards by employees, officers, directors, trustees, or agents of the guaranty agency, and must include provisions to—
 
 (A) Prohibit any employee, officer, director, trustee, or agent from participating in the selection, award, or decision-making related to the administration of a contract or agreement supported by the reserve fund described in paragraph (a) of this section, if that participation would create a conflict of interest. Such a conflict would arise if the employee, officer, director, trustee, or agent, or any member of his or her immediate family, his or her partner, or an organization that employs or is about to employ any of those parties has a financial or ownership interest in the organization selected for an award or would benefit from the decision made in the administration of the contract or agreement. The prohibitions described in this paragraph do not apply to employees of a State agency covered by codes of conduct established under State law;
 
@@ -410,9 +414,9 @@
 
 (c) *Enforcement requirements.* A guaranty agency shall take such measures and establish such controls as are necessary to ensure its vigorous enforcement of all Federal, State, and guaranty agency requirements, including agreements, applicable to its loan guarantee program, including, at a minimum, the following:
 
-(1) Conducting comprehensive biennial on-site program reviews, using statistically valid techniques to calculate liabilities to the Secretary that each review indicates may exist, of at least -
+(1) Conducting comprehensive biennial on-site program reviews, using statistically valid techniques to calculate liabilities to the Secretary that each review indicates may exist, of at least—
 
-(i)(A) Each participating lender whose dollar volume of FFEL loans held by the lender and guaranteed by the agency in the preceding year -
+(i)(A) Each participating lender whose dollar volume of FFEL loans held by the lender and guaranteed by the agency in the preceding year—
 
 (*1*) Equaled or exceeded two percent of the total of all loans guaranteed by the agency;
 
@@ -438,7 +442,7 @@
 
 (7) Referring appropriate cases to State or local authorities for criminal prosecution or civil litigation.
 
-(8) Promptly notifying the Secretary of -
+(8) Promptly notifying the Secretary of—
 
 (i) Any action it takes affecting the FFEL program eligibility of a participating lender or title IV eligibility of a school;
 
@@ -450,7 +454,7 @@
 
 (9) Cooperating with all program reviews, investigations, and audits conducted by the Secretary relating to the agency's loan guarantee program.
 
-(10) Taking prompt action to protect the rights of borrowers and the Federal fiscal interest respecting loans that the agency has guaranteed when the agency learns that a school that participated in the FFEL Program or a holder of loans participating in the program is experiencing problems that threaten the solvency of the school or holder, including -
+(10) Taking prompt action to protect the rights of borrowers and the Federal fiscal interest respecting loans that the agency has guaranteed when the agency learns that a school that participated in the FFEL Program or a holder of loans participating in the program is experiencing problems that threaten the solvency of the school or holder, including—
 
 (i) Conducting on-site program reviews;
 
@@ -462,4 +466,4 @@
 
 (v) Promptly notifying the Secretary of the results of any actions taken by the agency to protect Federal funds involving such a school or holder.
 
-(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1078, 1078-1, 1078-2, 1078-3, 1080a, 1082, 1087, 1091a, and 1099)[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.410, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Approved by the Office of Management and Budget under control number 1845-0020)[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.410, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
