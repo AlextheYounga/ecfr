@@ -16,6 +16,8 @@ Example to § 515.575(b):A U.S. group of medical professionals that specializes 
 
 (c) An entire group does not qualify for the general license in paragraph (a) of this section merely because some members of the group qualify individually.
 
-(d) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to humanitarian projects that do not qualify for the general license under paragraph (a) of this section.
+(d) *Certain travel-related transactions restricted.* Nothing in paragraph (a) of this section authorizes the lodging, paying for lodging, or making any reservation for or on behalf of a third party to lodge, at any property on the Cuba Prohibited Accommodations List to the extent prohibited by § 515.210.
 
-[80 FR 2300, Jan. 16, 2015, as amended at 80 FR 56924, Sept. 21, 2015; 81 FR 4586, Jan. 27, 2016; 81 FR 13994, Mar. 16, 2016; 81 FR 71377, Oct. 17, 2016]
+(e) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to humanitarian projects that do not qualify for the general license under paragraph (a) of this section.
+
+[80 FR 2300, Jan. 16, 2015, as amended at 80 FR 56924, Sept. 21, 2015; 81 FR 4586, Jan. 27, 2016; 81 FR 13994, Mar. 16, 2016; 81 FR 71377, Oct. 17, 2016; 85 FR 60072, Sept. 24, 2020]

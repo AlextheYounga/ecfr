@@ -80,8 +80,10 @@ Each person relying on the general authorization in this paragraph must retain s
 
 (e) *General license for certain people-to-people travel and related transactions where certain transactions were completed prior to June 16, 2017.* Persons subject to U.S. jurisdiction are authorized to engage in people-to-people travel and related transactions for a trip consistent with paragraphs (b)(1)-(3) of this section as those provisions existed on June 16, 2017, provided the traveler completed at least one travel-related transaction (such as purchasing a flight or reserving accommodation) for that particular trip prior to June 16, 2017, and further provided any new travel-related transactions initiated on or after November 9, 2017 do not involve a direct financial transaction prohibited by § 515.209.
 
-(f) Transactions related to activities that are primarily tourist-oriented are not authorized pursuant to this section.
+(f) *Certain travel-related transactions restricted.* Nothing in paragraph (a), (b), (d), or (e) of this section authorizes the lodging, paying for lodging, or making any reservation for or on behalf of a third party to lodge, at any property on the Cuba Prohibited Accommodations List to the extent prohibited by § 515.210.
 
-(g) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to educational activities that do not qualify for the general license under paragraph (a) of this section.
+(g) Transactions related to activities that are primarily tourist-oriented are not authorized pursuant to this section.
 
-[82 FR 52000, Nov. 9, 2017, as amended at 84 FR 25992, June 5, 2019]
+(h) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to educational activities that do not qualify for the general license under paragraph (a) of this section.
+
+[82 FR 52000, Nov. 9, 2017, as amended at 84 FR 25992, June 5, 2019; 85 FR 60071, Sept. 24, 2020]

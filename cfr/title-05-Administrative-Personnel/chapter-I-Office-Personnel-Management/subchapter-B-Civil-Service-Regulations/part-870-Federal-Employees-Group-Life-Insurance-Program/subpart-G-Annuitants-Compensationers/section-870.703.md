@@ -18,9 +18,7 @@
 
 (d) If an employee has assigned his or her insurance, he/she cannot cancel an election under paragraph (a)(3) or (a)(4) of this section. Only the assignee(s) may cancel this election. Exception: If the employee elected a partial Living Benefit before assigning the remainder of his or her insurance, the assignee(s) cannot cancel the election under paragraph (a)(4) of this section.
 
-(e)(1) For purposes of this part, a judge who retires under one of the following provisions is considered to be an employee after retirement:
-
-(i) 28 U.S.C. 371(a) or (b);
+(e)(1) For purposes of this part, a judge who retires under paragraphs (e)(1)(i) through (vii) of this section is considered to be an employee after retirement:
 
 (ii) 28 U.S.C. 372(a);
 
@@ -32,6 +30,8 @@
 
 (vi) Section 7447 of the Internal Revenue Code;
 
+(vii) 38 U.S.C. 7296;
+
 (2) The insurance of a judge described in paragraph (e)(1) of this section does not reduce after age 65. Basic insurance continues without interruption or reduction. *Exception:* If the insured is a judge eligible for compensation, and chooses to receive compensation instead of annuity, he or she must select an option described in paragraph (a) of this section.
 
-[75 FR 60583, Oct. 1, 2010]
+[75 FR 60583, Oct. 1, 2010, as amended at 85 FR 60048, Sept. 24, 2020]

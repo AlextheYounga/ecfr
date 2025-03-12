@@ -8,7 +8,7 @@ The export or reexport to Cuba of goods (including software) or technology subje
 
 Note 2 to paragraph (a):
 
-This paragraph does not authorize transactions related to travel to, from, or within Cuba, nor does it authorize transactions related to travel to, from, or within the United States by Cuban nationals. See § 515.564(a) for a general license authorizing travel-related and other transactions incident to professional research and professional meetings in Cuba. See § 515.571 for a general license authorizing transactions incident to travel to, from, and within the United States by certain Cuban nationals.
+This paragraph does not authorize transactions related to travel to, from, or within Cuba, nor does it authorize transactions related to travel to, from, or within the United States by Cuban nationals. See § 515.564(a) for a general license authorizing travel-related and other transactions incident to professional research in Cuba. See § 515.571 for a general license authorizing transactions incident to travel to, from, and within the United States by certain Cuban nationals.
 
 Note 3 to paragraph (a):
 
@@ -30,4 +30,4 @@ Note to § 515.547:
 
 Transactions authorized by this section may require separate authorizations or approvals by the FDA or other Federal agencies.
 
-[81 FR 71376, Oct. 17, 2016]
+[81 FR 71376, Oct. 17, 2016, as amended at 85 FR 60071, Sept. 24, 2020]

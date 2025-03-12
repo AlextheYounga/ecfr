@@ -52,6 +52,8 @@ This paragraph does not authorize the exportation or reexportation of any item t
 
 (ii) The aircraft or vessel must be transporting individuals whose travel between the United States and Cuba is authorized pursuant to any section of this part other than paragraph (c)(2) of this section.
 
-(d) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to the exportation and reexportation of items to Cuba when such transactions do not qualify for the general license under paragraph (c) of this section.
+(d) *Certain travel-related transactions restricted.* Nothing in paragraph (c) of this section authorizes the lodging, paying for lodging, or making any reservation for or on behalf of a third party to lodge, at any property on the Cuba Prohibited Accommodations List to the extent prohibited by § 515.210.
 
-[81 FR 71374, Oct. 17, 2016, as amended at 82 FR 52000, Nov. 9, 2017]
+(e) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to the exportation and reexportation of items to Cuba when such transactions do not qualify for the general license under paragraph (c) of this section.
+
+[81 FR 71374, Oct. 17, 2016, as amended at 82 FR 52000, Nov. 9, 2017; 85 FR 60070, Sept. 24, 2020]

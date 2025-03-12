@@ -1,8 +1,10 @@
 ##### 852.242-70 Government construction contract administration. #####
 
+Link to an amendment published at 85 FR 60078, Sept. 24, 2020.
+
 As prescribed in 842.271, insert the following clause. This is a fill-in clause.
 
-Government Construction Contract Administration (Apr 2019)
+Government Construction Contract Administration (APR 2019)
 
 (a) Contract administration functions set forth in FAR 42.302 are hereby delegated to:
 

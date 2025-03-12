@@ -20,6 +20,8 @@ Each person relying on the general authorization in this paragraph must retain s
 
 (b) An entire group does not qualify for the general license in paragraph (a) of this section merely because some members of the group qualify individually.
 
-(c) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to journalistic activity in Cuba that do not qualify for the general license under paragraph (a) of this section.
+(c) *Certain travel-related transactions restricted.* Nothing in paragraph (a) of this section authorizes the lodging, paying for lodging, or making any reservation for or on behalf of a third party to lodge, at any property on the Cuba Prohibited Accommodations List to the extent prohibited by § 515.210.
 
-[80 FR 2296, Jan. 16, 2015]
+(d) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to journalistic activity in Cuba that do not qualify for the general license under paragraph (a) of this section.
+
+[80 FR 2296, Jan. 16, 2015, as amended at 85 FR 60071, Sept. 24, 2020]

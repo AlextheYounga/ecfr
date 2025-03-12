@@ -1,18 +1,18 @@
 ##### 852.232-70 Payments Under Fixed-Price Construction Contracts (Without NAS-CPM). #####
 
-As prescribed in 832.111-70, insert the following clause in contracts that do not contain a section entitled “Network Analysis System - Critical Path”
+As prescribed in 832.111-70, insert the following clause in contracts that do not contain a section entitled “Network Analysis System—Critical Path”
 
-Payments Under Fixed-Price Construction Contracts (Without NAS-CPM) (Nov 2018)
+Payments Under Fixed-Price Construction Contracts (Without NAS-CPM) (NOV 2018)
 
 The clause FAR 52.232-5, Payments Under Fixed-Price Construction Contracts, is implemented as follows:
 
-(a) *Retainage.* (1) The Contracting Officer may retain funds -
+(a) *Retainage.* (1) The Contracting Officer may retain funds—
 
 (i) Where performance under the contract has been determined to be deficient or the Contractor has performed in an unsatisfactory manner in the past; or
 
 (ii) As the contract nears completion, to ensure that deficiencies will be corrected and that completion is timely.
 
-(2) Examples of deficient performance justifying a retention of funds include, but are not restricted to, the following -
+(2) Examples of deficient performance justifying a retention of funds include, but are not restricted to, the following—
 
 (i) Unsatisfactory progress as determined by the Contracting Officer;
 
@@ -35,8 +35,6 @@ The clause FAR 52.232-5, Payments Under Fixed-Price Construction Contracts, is i
 (4) Insurance and similar items shall be prorated and included in the cost of each branch of the work.
 
 (5) The cost schedule shall include separate cost information for the systems listed in the table in this paragraph (b)(5). The percentages listed in the following table are proportions of the cost listed in the Contractor's cost schedule and identify, for payment purposes, the value of the work to adjust, correct and test systems after the material has been installed. Payment of the listed percentages will be made only after the Contractor has demonstrated that each of the systems is substantially complete and operates as required by the contract.
-
-Value of Adjusting, Correcting, and Testing System
 
 |                           System                            |Percent|
 |-------------------------------------------------------------|-------|
@@ -66,7 +64,7 @@ Value of Adjusting, Correcting, and Testing System
 
 (c) In addition to this cost schedule, the Contractor shall submit such unit costs as may be specifically requested. The unit costs shall be those used by the Contractor in preparing its bid and will not be binding as pertaining to any contract changes.
 
-(d) The Contracting Officer will consider for monthly progress payments material and/or equipment procured by the Contractor and stored on the construction site, as space is available, or at a local approved location off the site, under such terms and conditions as the Contracting Officer approves, including but not limited to the following -
+(d) The Contracting Officer will consider for monthly progress payments material and/or equipment procured by the Contractor and stored on the construction site, as space is available, or at a local approved location off the site, under such terms and conditions as the Contracting Officer approves, including but not limited to the following—
 
 (1) The materials or equipment are in accordance with the contract requirements and/or approved samples and shop drawings;
 

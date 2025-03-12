@@ -10,8 +10,8 @@
 
 Note to § 515.534:
 
-This section does not authorize transactions related to travel to, from, or within Cuba. See § 515.533(c) for a general license authorizing travel-related and other transactions incident to the negotiation of contracts for the exportation or reexportation of certain items to Cuba, and § 515.564(a)(2) for a general license authorizing travel-related and other transactions incident to attending or organizing professional meetings in Cuba, which include professional meetings relating to the negotiation of contingent contracts authorized by this section.
+This section does not authorize transactions related to travel to, from, or within Cuba. See § 515.533(c) for a general license authorizing travel-related and other transactions incident to the negotiation of contracts for the exportation or reexportation of certain items to Cuba.
 
 (c) *Certain direct financial transactions restricted.* Nothing in this section authorizes a direct financial transaction prohibited by § 515.209.
 
-[81 FR 71375, Oct. 17, 2016, as amended at 82 FR 52000, Nov. 9, 2017]
+[81 FR 71375, Oct. 17, 2016, as amended at 82 FR 52000, Nov. 9, 2017; 85 FR 60070, Sept. 24, 2020]

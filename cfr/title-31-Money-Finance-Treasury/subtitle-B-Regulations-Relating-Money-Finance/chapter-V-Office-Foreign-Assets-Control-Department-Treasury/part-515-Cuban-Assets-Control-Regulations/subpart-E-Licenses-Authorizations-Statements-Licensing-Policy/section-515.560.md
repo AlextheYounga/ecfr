@@ -34,7 +34,7 @@
 
 (2) *Living expenses in Cuba.* All transactions ordinarily incident to travel within Cuba, including payment of living expenses and the acquisition in Cuba of goods for personal consumption there, are authorized.
 
-(3) *Importation of Cuban merchandise.* The purchase or other acquisition in Cuba and importation as accompanied baggage into the United States of merchandise is authorized, provided that the merchandise is imported for personal use only. The importation of Cuban-origin information and informational materials is exempt from the prohibitions of this part, as described in § 515.206. The importation of certain other specified goods and services is authorized in §§ 515.544, 515.547, 515.569, 515.578, 515.582, and 515.585.
+(3) *Importation of Cuban merchandise.* The purchase or other acquisition in Cuba and importation as accompanied baggage into the United States of merchandise is authorized, provided that the merchandise is imported for personal use only. This paragraph does not apply to the importation into the United States of Cuban-origin alcohol or tobacco products. The importation of Cuban-origin information and informational materials is exempt from the prohibitions of this part, as described in § 515.206. The importation of certain other specified goods and services is authorized in §§ 515.544, 515.547, 515.569, 515.578, 515.582, and 515.585.
 
 (4) *Carrying remittances to Cuba.* The carrying to Cuba of any remittances that the licensed traveler is authorized to remit pursuant to § 515.570 is authorized, provided that no emigration-related remittances authorized by § 515.570(e) are carried to Cuba unless a U.S. immigration visa has been issued for each payee and the licensed traveler can produce the visa recipients' full names, dates of birth, visa numbers, and visa dates of issuance.
 
@@ -52,7 +52,7 @@ Note to paragraph (c)(6):
 
 Account(s) authorized by this general license may only be accessed while the account holder is located in Cuba for travel authorized pursuant to this part. The account(s) may not be accessed or utilized by the account holder unless the account holder is located in Cuba and is engaging in authorized transactions. The account(s) may be maintained but not accessed while the account holder is located outside of Cuba other than for the purpose of funding or closing the bank account as authorized in paragraph (c)(6).
 
-(d) Nothing in paragraphs (c)(2), (c)(3), and (c)(6)(i) of this section authorizes a direct financial transaction prohibited by § 515.209 if the terms of the applicable general or specific license expressly exclude such a transaction.
+(d) Nothing in paragraphs (c)(2), (c)(3), and (c)(6)(i) of this section authorizes a direct financial transaction prohibited by § 515.209, and nothing in paragraph (c)(2) of this section authorizes the lodging, paying for lodging, or otherwise making any reservation for or on behalf of a third party to lodge, at any property on the Cuba Prohibited Accommodations List to the extent prohibited by § 515.210, in each case if the terms of the applicable general or specific license expressly exclude such a transaction.
 
 (e) A blocked Cuban national permanently resident in Cuba who is departing the United States may carry currency as follows:
 
@@ -61,8 +61,6 @@ Account(s) authorized by this general license may only be accessed while the acc
 (2) Funds received as remittances pursuant to § 515.570 by the Cuban national during his or her stay in the United States; and
 
 (3) Salaries or other compensation earned by the Cuban national up to any amount that can be substantiated through payment receipts as authorized in § 515.571(a)(5).
-
-(e) [Reserved]
 
 (f) Nothing in this section authorizes transactions in connection with tourist travel to Cuba.
 
@@ -78,4 +76,4 @@ Note 3 to § 515.560:
 
 The export or reexport to Cuba of goods (including software) or technology subject to the Export Administration Regulations (15 CFR parts 730 through 774) may require separate authorization from the Department of Commerce.
 
-[64 FR 25814, May 13, 1999, as amended at 66 FR 36688, July 12, 2001; 68 FR 14146, Mar. 24, 2003; 69 FR 33771, 33773, June 16, 2004; 74 FR 46006, Sept. 8, 2009; 76 FR 5074, Jan. 28, 2011; 80 FR 2295, Jan. 16, 2015; 80 FR 56922, Sept. 21, 2015; 81 FR 13992, Mar. 16, 2016; 81 FR 71376, Oct. 17, 2016; 82 FR 52000, Nov. 9, 2017]
+[64 FR 25814, May 13, 1999, as amended at 66 FR 36688, July 12, 2001; 68 FR 14146, Mar. 24, 2003; 69 FR 33771, 33773, June 16, 2004; 74 FR 46006, Sept. 8, 2009; 76 FR 5074, Jan. 28, 2011; 80 FR 2295, Jan. 16, 2015; 80 FR 56922, Sept. 21, 2015; 81 FR 13992, Mar. 16, 2016; 81 FR 71376, Oct. 17, 2016; 82 FR 52000, Nov. 9, 2017; 85 FR 60071, Sept. 24, 2020]

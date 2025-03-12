@@ -1,32 +1,18 @@
 ##### § 870.204 Annual rates of pay. #####
 
-(a) (1) An insured employee's annual pay is his/her annual rate of basic pay as fixed by law or regulation.
+(a)(1) An employee's annual pay is the annual basic pay of the position as fixed by law or regulation, except as otherwise provided by specific provision of law or OPM regulation. Annual pay for this purpose includes the following:
 
-(2) Annual pay for this purpose includes the following:
+(i) Any pay of a type that is treated as basic pay for purposes of the retirement systems established under 5 U.S.C. chapters 83 and 84, consistent with 5 U.S.C. 8331(3), and pay that is annual pay for purposes of the FEGLI Program as provided in Federal law and regulation;
 
-(i) Interim geographic adjustments and locality-based comparability payments as provided by Pub. L. 101-509 (104 Stat. 1479);
+(ii) Any geographic-based pay supplement that is equivalent to a locality-based comparability payment under 5 U.S.C. 5304; and
 
-(ii) Premium pay for standby duty under 5 U.S.C. 5545(c)(1);
+(iii) Any special pay supplement for a defined subcategory of employees that is equivalent to a special rate supplement under 5 U.S.C. 5305.
 
-(iii) Premium pay for overtime inspectional service for customs officers as provided by Pub. L. 103-66 (107 Stat. 453);
+(2) Notwithstanding paragraph (a) (1) of this section, annual basic pay does not include the following:
 
-(iv) For a law enforcement officer as defined under 5 U.S.C. 8331(20) and §§ 831.902 and 842.802 of this title, premium pay for administratively uncontrollable overtime under 5 U.S.C. 5545(c)(2);
+(i) Bonuses, allowances, overtime pay, military pay, or any other pay to a covered civilian employee given in addition to the base pay of the position, except as otherwise provided by specific provision of law or OPM regulation.
 
-(v) Night differential pay for wage employees;
-
-(vi) Environmental differential pay for employees exposed to danger or physical hardship;
-
-(vii) Tropical differential pay for citizen employees in Panama;
-
-(viii) Special pay adjustments for law enforcement officers;
-
-(ix) Availability pay for criminal investigators under 5 U.S.C. 5545a;
-
-(x) Market pay for physicians and dentists of the Department of Veterans Affairs under 38 U.S.C. 7431;
-
-(xi) Straight-time pay for regular overtime hours for firefighters, as provided in 5 U.S.C. 5545b and part 550, subpart M, of this chapter; and
-
-(xii) An overtime supplement for regularly scheduled overtime within a Border Patrol agent's regular tour of duty under 5 U.S.C. 5550 (as required by 5 U.S.C. 5550(d)).
+(ii) Physicians comparability allowances under 5 U.S.C. 5948.
 
 (b) To convert a pay rate of other than annual salary to an annual rate, multiply the pay rate by the number of pay units in a 52-week work year.
 
@@ -40,7 +26,7 @@
 
 (g)(1) Except as provided in paragraphs (g)(2) and (3) of this section, if an employee legally serves in more than one position at the same time, and at least one of those positions entitles the employee to life insurance coverage, the annual pay for life insurance purposes is the sum of the annual rate of basic pay fixed by law or regulation for each position.
 
-(2) Paragraph (g)(1) of this section does not apply to -
+(2) Paragraph (g)(1) of this section does not apply to—
 
 (i) An employee of the Postal Service who works on a part-time flexible schedule; or
 
@@ -50,4 +36,4 @@
 
 (h) Notwithstanding any other provision of this section, the annual pay for a phased retiree, as defined in 5 U.S.C. 8336a and 8412a, is deemed to be the rate of a full-time employee in the position to which the phased retiree is appointed, as determined under 5 CFR 831.1715(a)(2) or 848.205(a)(2), as applicable.
 
-[62 FR 48731, Sept. 17, 1997; 62 FR 52181, Oct. 6, 1997, as amended at 63 FR 64595, Nov. 23, 1998; 75 FR 60577, Oct. 1, 2010; 79 FR 46637, Aug. 8, 2014; 80 FR 58121, Sept. 25, 2015]
+[62 FR 48731, Sept. 17, 1997; 62 FR 52181, Oct. 6, 1997, as amended at 63 FR 64595, Nov. 23, 1998; 75 FR 60577, Oct. 1, 2010; 79 FR 46637, Aug. 8, 2014; 80 FR 58121, Sept. 25, 2015; 85 FR 60048, Sept. 24, 2020]

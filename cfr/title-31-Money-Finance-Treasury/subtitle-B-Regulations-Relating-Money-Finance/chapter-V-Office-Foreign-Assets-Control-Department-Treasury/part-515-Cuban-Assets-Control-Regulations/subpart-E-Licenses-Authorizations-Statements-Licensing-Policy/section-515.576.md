@@ -10,6 +10,8 @@ Each person relying on the general authorization in this paragraph must retain s
 
 (c) *Certain direct financial transactions restricted.* Nothing in paragraph (a) authorizes a direct financial transaction prohibited by § 515.209.
 
-(d) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to activities of private foundations or research or educational institutes that do not qualify for the general license under paragraph (a) of this section.
+(d) *Certain travel-related transactions restricted.* Nothing in paragraph (a) of this section authorizes the lodging, paying for lodging, or making any reservation for or on behalf of a third party to lodge, at any property on the Cuba Prohibited Accommodations List to the extent prohibited by § 515.210.
 
-[80 FR 2300, Jan. 16, 2015, as amended at 82 FR 52003, Nov. 9, 2017]
+(e) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to activities of private foundations or research or educational institutes that do not qualify for the general license under paragraph (a) of this section.
+
+[80 FR 2300, Jan. 16, 2015, as amended at 82 FR 52003, Nov. 9, 2017; 85 FR 60072, Sept. 24, 2020]

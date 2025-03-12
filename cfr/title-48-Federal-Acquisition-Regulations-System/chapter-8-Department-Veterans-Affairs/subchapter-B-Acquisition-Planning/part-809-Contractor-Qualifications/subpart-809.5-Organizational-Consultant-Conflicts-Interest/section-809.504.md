@@ -1,5 +1,7 @@
 ##### 809.504 Contracting officer responsibilities. #####
 
+Link to an amendment published at 85 FR 60076, Sept. 24, 2020.
+
 (a) A contracting officer must determine whether awarding a contract will result in an actual or potential conflict of interest for the contractor.
 
 (1) The contracting officer will make a conflict of interest determination after reviewing information submitted by offerors, evaluating information gathered under FAR 9.506, and exercising his or her own judgment.

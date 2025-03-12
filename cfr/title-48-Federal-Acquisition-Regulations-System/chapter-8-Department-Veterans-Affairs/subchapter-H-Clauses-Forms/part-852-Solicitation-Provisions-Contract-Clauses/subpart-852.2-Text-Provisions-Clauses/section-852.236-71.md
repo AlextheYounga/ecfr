@@ -2,7 +2,7 @@
 
 As prescribed in 836.521, insert the following clause:
 
-Specifications and Drawings for Construction (Apr 2019)
+Specifications and Drawings for Construction (APR 2019)
 
 The clause entitled “Specifications and Drawings for Construction” in FAR
 52.236-21 is supplemented as follows:

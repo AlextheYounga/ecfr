@@ -4,7 +4,7 @@
 
 Note to paragraph (a):
 
-The names of entities and subentities that the Secretary of State has identified as meeting the criteria set forth in this section are published in the Federal Register and incorporated into the Cuba Restricted List. Entities or subentities that are owned or controlled by another entity or subentity on this list are not treated as restricted unless also specified by name on the Cuba Restricted List. The Cuba Restricted List is maintained by the State Department and will be published in the Federal Register. It is also accessible through the following page on the State Department's Web site: *http://www.state.gov/e/eb/tfs/spi/cuba/cubarestrictedlist/index.htm.*
+The names of entities and subentities that the Secretary of State has identified as meeting the criteria set forth in this section are published in the Federal Register and incorporated into the Cuba Restricted List. Entities or subentities that are owned or controlled by another entity or subentity on this list are not treated as restricted unless also specified by name on the Cuba Restricted List. The Cuba Restricted List is maintained by the State Department and will be published in the Federal Register. It is also accessible through the following page on the State Department's website: *https://www.state.gov/cuba-sanctions/cuba-restricted-list/”.*
 
 (b) The prohibition in paragraph (a) of this section does not apply to any travel-related transactions, including those that involve direct financial transactions with an entity or subentity on the Cuba Restricted List, provided those travel-related transactions were initiated prior to the date that entity or subentity was added to the Cuba Restricted List as published in the Federal Register.
 
@@ -14,4 +14,4 @@ Note to § 515.209:
 
 This section does not prohibit a person subject to U.S. jurisdiction from participating in an indirect financial transaction, such as those authorized pursuant to § 515.584(g) relating to U.S. dollar monetary instruments, where the person does not act as the originator or beneficiary on a transfer of funds.
 
-[82 FR 51999, Nov. 9, 2017, as amended at 84 FR 47122, Sept. 9, 2019]
+[82 FR 51999, Nov. 9, 2017, as amended at 84 FR 47122, Sept. 9, 2019; 85 FR 60070, Sept. 24, 2020]

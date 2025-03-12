@@ -36,7 +36,7 @@
 
 (1) A court decree of divorce, annulment, or legal separation; or
 
-(2) A court-approved property settlement agreement relating to a court decree of divorce, annulment, or legal separation - that requires benefits to be paid to a specific person or persons and is received in the employing office before the insured dies.
+(2) A court-approved property settlement agreement relating to a court decree of divorce, annulment, or legal separation—that requires benefits to be paid to a specific person or persons and is received in the employing office before the insured dies.
 
 *Covered position* means a position in which an employee is not excluded from FEGLI eligibility by law or regulation.
 
@@ -66,7 +66,7 @@
 
 (3) The United States Tax Court is the employing office for judges of the United States Tax Court.
 
-(4) The United States Court of Veterans Appeals is the employing office for judges of the United States Court of Veterans Appeals.
+(4) The United States Court of Appeals for Veterans Claims is the employing office for judges of the United States Court of Appeals for Veterans Claims.
 
 *Family member* means a spouse (including a valid common law marriage) and unmarried dependent child(ren).
 
@@ -110,4 +110,4 @@
 
 *Underdeduction* means a failure to withhold the required amount of life insurance deductions from an individual's pay, annuity, or compensation. This includes nondeductions (when none of the required amount was withheld) and partial deductions (when only part of the required amount was withheld).
 
-[62 FR 48731, Sept. 17, 1997; 62 FR 52181, Oct. 6, 1997, as amended at 64 FR 16602, Apr. 6, 1999; 64 FR 72461, Dec. 28, 1999; 75 FR 60575, Oct. 1, 2010; 79 FR 46637, Aug. 8, 2014]
+[62 FR 48731, Sept. 17, 1997; 62 FR 52181, Oct. 6, 1997, as amended at 64 FR 16602, Apr. 6, 1999; 64 FR 72461, Dec. 28, 1999; 75 FR 60575, Oct. 1, 2010; 79 FR 46637, Aug. 8, 2014; 85 FR 60048, Sept. 24, 2020]

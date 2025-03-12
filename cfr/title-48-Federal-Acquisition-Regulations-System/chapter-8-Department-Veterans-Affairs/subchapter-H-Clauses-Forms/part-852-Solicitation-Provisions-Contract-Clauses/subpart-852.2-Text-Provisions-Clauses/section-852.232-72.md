@@ -2,7 +2,7 @@
 
 As prescribed in 832.7001-2, insert the following clause:
 
-Electronic Submission of Payment Requests (Nov 2018)
+Electronic Submission of Payment Requests (NOV 2018)
 
 (a) *Definitions.* As used in this clause -
 

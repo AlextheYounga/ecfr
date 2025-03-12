@@ -2,13 +2,13 @@
 
 (a) Except as provided in paragraph (c) of this section, the following transactions by or on behalf of a Cuban national who is present in the United States in a non-immigrant status or pursuant to other non-immigrant travel authorization issued by the U.S. government are authorized:
 
-(1) All transactions ordinarily incident to travel between the United States and Cuba, including the importation into the United States of accompanied baggage for personal use;
+(1) All transactions ordinarily incident to travel between the United States and Cuba, including the importation into the United States of accompanied baggage for personal use. This paragraph (a)(1) does not apply to the importation into the United States of Cuban-origin alcohol or tobacco products;
 
 (2) All transactions ordinarily incident to travel and maintenance within the United States, including the payment of living expenses and the acquisition of goods for personal consumption in the United States;
 
-(3) All transactions on behalf of aircraft or vessels incident to flights or voyages between the United States and Cuba, provided that the carrier services are authorized pursuant to § 515.572. This paragraph does not authorize the carriage of any merchandise into the United States except accompanied baggage; and
+(3) All transactions on behalf of aircraft or vessels incident to flights or voyages between the United States and Cuba, provided that the carrier services are authorized pursuant to § 515.572. This paragraph does not authorize the carriage of any merchandise into the United States except accompanied baggage;
 
-(4) Normal banking transactions involving foreign currency drafts, travelers' checks, or other instruments negotiated incident to travel in the United States by any person under the authority of this section.
+(4) Normal banking transactions involving foreign currency drafts, travelers' checks, or other instruments negotiated incident to travel in the United States by any person under the authority of this section; and
 
 (5) All transactions ordinarily incident to the Cuban national's presence in the United States in a non-immigrant status or pursuant to other non-immigrant travel authorization issued by the U.S. government.
 
@@ -40,4 +40,4 @@ For the authorization of certain transactions by Cuban nationals who become U.S.
 
 (2) All transactions in connection with the filing of an application for non-immigrant travel authorization issued by the U.S. government.
 
-[64 FR 25819, May 13, 1999, as amended at 68 FR 14148, Mar. 24, 2003; 69 FR 33773, June 16, 2004; 76 FR 5077, Jan. 28, 2011; 80 FR 2299, Jan. 16, 2015; 80 FR 56923, Sept. 21, 2015; 81 FR 13993, Mar. 16, 2016]
+[64 FR 25819, May 13, 1999, as amended at 68 FR 14148, Mar. 24, 2003; 69 FR 33773, June 16, 2004; 76 FR 5077, Jan. 28, 2011; 80 FR 2299, Jan. 16, 2015; 80 FR 56923, Sept. 21, 2015; 81 FR 13993, Mar. 16, 2016; 85 FR 60072, Sept. 24, 2020]

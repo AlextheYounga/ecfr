@@ -2,7 +2,7 @@
 
 As prescribed in 819.7009, insert the following clause:
 
-VA Notice of Total Veteran-Owned Small Business Set-Aside (DEC2009)
+VA Notice of Total Veteran-Owned Small Business Set-Aside (DEC 2009)
 
 (a) *Definition.* For the Department of Veterans Affairs, “Veteran-owned small business concern” -
 

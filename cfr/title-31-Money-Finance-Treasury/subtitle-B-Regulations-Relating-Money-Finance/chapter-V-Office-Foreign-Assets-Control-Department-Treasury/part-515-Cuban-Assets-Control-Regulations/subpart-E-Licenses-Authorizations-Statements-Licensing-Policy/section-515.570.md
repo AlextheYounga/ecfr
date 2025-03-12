@@ -14,7 +14,7 @@
 
 (c) *Remittances to religious organizations in Cuba authorized.* Persons subject to the jurisdiction of the United States are authorized to make remittances to religious organizations in Cuba in support of religious activities, provided that the remittances are not made from a blocked source and that the remitter, if an individual, is 18 years of age or older.
 
-(d) *Remittances to students in Cuba pursuant to an educational license authorized.* Persons subject to the jurisdiction of the United States who are 18 years of age or older are authorized to make remittances to close relatives, as defined in § 515.339 of this part, who are students in Cuba pursuant to the general license authorizing certain educational activities in § 515.565(a) or a specific license issued pursuant to § 515.565(d), provided that the remittances are not made from a blocked source and are for the purpose of funding transactions authorized by the general licenses in § 515.565(a) or the specific license issued pursuant to § 515.565(d) under which the student is traveling.
+(d) *Remittances to students in Cuba pursuant to an educational license authorized.* Persons subject to the jurisdiction of the United States who are 18 years of age or older are authorized to make remittances to close relatives, as defined in § 515.339 of this part, who are students in Cuba pursuant to the general license authorizing certain educational activities in § 515.565(a) or a specific license issued pursuant to § 515.565(h), provided that the remittances are not made from a blocked source and are for the purpose of funding transactions authorized by the general licenses in § 515.565(a) or the specific license issued pursuant to § 515.565(h) under which the student is traveling.
 
 (e) *Two one-time $1,000 emigration-related remittances authorized.* Persons subject to the jurisdiction of the United States are authorized to remit the following amounts:
 
@@ -54,4 +54,4 @@ Note 2 to § 515.570:
 
 For the rules relating to the carrying of remittances to Cuba, see § 515.560(c)(4). See § 515.572 for an authorization related to the collection, forwarding, or receipt of certain remittances to or from Cuba.
 
-[76 FR 5076, Jan. 28, 2011, as amended at 80 FR 2298, Jan. 16, 2015; 80 FR 56923, Sept. 21, 2015; 81 FR 71377, Oct. 17, 2016; 84 FR 47123, Sept. 9, 2019]
+[76 FR 5076, Jan. 28, 2011, as amended at 80 FR 2298, Jan. 16, 2015; 80 FR 56923, Sept. 21, 2015; 81 FR 71377, Oct. 17, 2016; 84 FR 47123, Sept. 9, 2019; 85 FR 60072, Sept. 24, 2020]

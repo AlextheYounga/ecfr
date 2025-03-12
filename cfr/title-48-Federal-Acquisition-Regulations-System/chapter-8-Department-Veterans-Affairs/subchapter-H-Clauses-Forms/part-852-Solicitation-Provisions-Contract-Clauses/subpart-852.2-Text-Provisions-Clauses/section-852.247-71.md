@@ -2,7 +2,7 @@
 
 As prescribed in 847.302, insert a clause substantially as follows:
 
-Delivery Location (Oct 2018)
+Delivery Location (OCT 2018)
 
 Shipment of deliverable items, other than reports, shall be to: \_\_ [*Contracting Officer shall insert appropriate identifying data*].
 

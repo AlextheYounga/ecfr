@@ -46,7 +46,9 @@ On October 23, 1992, sections 1705 and 1706 of the Cuban Democracy Act of 1992, 
 
 (d) *General license.* Travel-related transactions set forth in § 515.560(c) and such other transactions as are directly incident to market research, commercial marketing, sales or contract negotiation, accompanied delivery, installation, leasing, servicing, or repair in Cuba of exports that are consistent with the licensing policy under paragraph (a) of this section are authorized, provided that the traveler's schedule of activities does not include free time or recreation in excess of that consistent with a full-time schedule.
 
-(e) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to certain transactions by U.S.-owned or -controlled foreign firms with Cuba that do not qualify for the general license under paragraph (d) of this section.
+(e) *Certain travel-related transactions restricted.* Nothing in paragraph (d) of this section authorizes the lodging, paying for lodging, or making any reservation for or on behalf of a third party to lodge, at any property on the Cuba Prohibited Accommodations List to the extent prohibited by § 515.210.
+
+(f) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to certain transactions by U.S.-owned or -controlled foreign firms with Cuba that do not qualify for the general license under paragraph (d) of this section.
 
 Note 1 to § 515.559:
 
@@ -56,4 +58,4 @@ Note 2 to § 515.559:
 
 See § 515.585 for provisions related to certain transactions by persons subject to U.S. jurisdiction with certain Cuban nationals in third countries.
 
-[40 FR 47108, Oct. 8, 1975, as amended at 42 FR 1472, Jan. 7, 1977; 42 FR 16621, Mar. 29, 1977; 50 FR 27438, July 3, 1985; 53 FR 47527, Nov. 23, 1988; 58 FR 34710, June 29, 1993; 64 FR 25814, May 13, 1999; 66 FR 36687, July 12, 2001; 68 FR 14146, Mar. 24, 2003; 80 FR 2294, Jan. 16, 2015; 80 FR 56921, Sept. 21, 2015; 81 FR 13991, Mar. 16, 2016; 81 FR 71376, Oct. 17, 2016]
+[40 FR 47108, Oct. 8, 1975, as amended at 42 FR 1472, Jan. 7, 1977; 42 FR 16621, Mar. 29, 1977; 50 FR 27438, July 3, 1985; 53 FR 47527, Nov. 23, 1988; 58 FR 34710, June 29, 1993; 64 FR 25814, May 13, 1999; 66 FR 36687, July 12, 2001; 68 FR 14146, Mar. 24, 2003; 80 FR 2294, Jan. 16, 2015; 80 FR 56921, Sept. 21, 2015; 81 FR 13991, Mar. 16, 2016; 81 FR 71376, Oct. 17, 2016; 85 FR 60071, Sept. 24, 2020]

@@ -1,18 +1,18 @@
 ##### 852.232-71 Payments Under Fixed-Price Construction Contracts (Including NAS-CPM). #####
 
-As prescribed in 832.111-70, insert the following clause in contracts that contain a section entitled “Network Analysis System - Critical Path Method (NAS-CPM).”
+As prescribed in 832.111-70, insert the following clause in contracts that contain a section entitled “Network Analysis System—Critical Path Method (NAS-CPM).”
 
-Payments Under Fixed-Price Construction Contracts (Including NAS-CPM) (Nov 2018)
+Payments Under Fixed-Price Construction Contracts (Including NAS-CPM) (NOV 2018)
 
 The clause FAR 52.232-5, Payments Under Fixed-Price Construction Contracts, is implemented as follows:
 
-(a) *Retainage.* (1) The Contracting Officer may retain funds -
+(a) *Retainage.* (1) The Contracting Officer may retain funds—
 
 (i) Where performance under the contract has been determined to be deficient or the Contractor has performed in an unsatisfactory manner in the past; or
 
 (ii) As the contract nears completion, to ensure that deficiencies will be corrected and that completion is timely.
 
-(2) Examples of deficient performance justifying a retention of funds include, but are not restricted to, the following -
+(2) Examples of deficient performance justifying a retention of funds include, but are not restricted to, the following—
 
 (i) Unsatisfactory progress as determined by the Contracting Officer;
 
@@ -24,7 +24,7 @@ The clause FAR 52.232-5, Payments Under Fixed-Price Construction Contracts, is i
 
 (3) Any level of retention shall not exceed 10 percent either where there is determined to be unsatisfactory performance, or when the retainage is to ensure satisfactory completion. Retained amounts shall be paid promptly upon completion of all contract requirements, but nothing contained in this paragraph (a)(3) shall be construed as limiting the Contracting Officer's right to withhold funds under other provisions of the contract or in accordance with the general law and regulations regarding the administration of Government contracts.
 
-(b) The Contractor shall submit a schedule of costs in accordance with the requirements of section “Network Analysis System - Critical Path Method (NAS-CPM)” to the Contracting Officer for approval within 90 calendar days after date of receipt of notice to proceed. The approved cost schedule will be one of the bases for determining progress payments to the Contractor for work completed.
+(b) The Contractor shall submit a schedule of costs in accordance with the requirements of section “Network Analysis System—Critical Path Method (NAS-CPM)” to the Contracting Officer for approval within 90 calendar days after date of receipt of notice to proceed. The approved cost schedule will be one of the bases for determining progress payments to the Contractor for work completed.
 
 (1) Costs as shown on this schedule must be true costs and the resident engineer may require the Contractor to submit its original estimate sheets or other information to substantiate the detailed makeup of the cost schedule.
 
@@ -35,8 +35,6 @@ The clause FAR 52.232-5, Payments Under Fixed-Price Construction Contracts, is i
 (4) The CPM shall include a separate cost loaded activity for adjusting and testing of the systems listed in the table in paragraph (b)(5) of this clause. The percentages listed in paragraph (b)(5) will be used to determine the cost of adjust and test work activities/events and identify, for payment purposes, the value of the work to adjust, correct and test systems after the material has been installed.
 
 (5) Payment for adjust and test activities will be made only after the Contractor has demonstrated that each of the systems is substantially complete and operates as required by the contract.
-
-Value of Adjusting, Correcting, and Testing System
 
 |                           System                            |Percent|
 |-------------------------------------------------------------|-------|
@@ -66,7 +64,7 @@ Value of Adjusting, Correcting, and Testing System
 
 (c) In addition to this cost schedule, the Contractor shall submit such unit costs as may be specifically requested. The unit costs shall be those used by the Contractor in preparing its bid and will not be binding as pertaining to any contract changes.
 
-(d) The Contracting Officer will consider for monthly progress payments material and/or equipment procured by the Contractor and stored on the construction site, as space is available, or at a local approved location off the site, under such terms and conditions as the Contracting Officer approves, including but not limited to the following -
+(d) The Contracting Officer will consider for monthly progress payments material and/or equipment procured by the Contractor and stored on the construction site, as space is available, or at a local approved location off the site, under such terms and conditions as the Contracting Officer approves, including but not limited to the following—
 
 (1) The materials or equipment are in accordance with the contract requirements and/or approved samples and shop drawings;
 

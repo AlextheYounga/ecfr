@@ -2,7 +2,7 @@
 
 As prescribed in 811.204-70, insert the following clause:
 
-Technical Industry Standards (Nov 2018)
+Technical Industry Standards (NOV 2018)
 
 (a) The Contractor shall conform to the standards established by:\_\_\_ [*Contracting Officer: Insert name of organization establishing the requirement, reference title, cite and date, e.g., United States Department of Agriculture (USDA), Institutional Meat Purchase Specifications (IMPS), Series 100, Beef products, Jan 2010*] as to [*Contracting Officer: Insert item and CLIN, e.g., CLIN 0005 Ground Beef*].
 

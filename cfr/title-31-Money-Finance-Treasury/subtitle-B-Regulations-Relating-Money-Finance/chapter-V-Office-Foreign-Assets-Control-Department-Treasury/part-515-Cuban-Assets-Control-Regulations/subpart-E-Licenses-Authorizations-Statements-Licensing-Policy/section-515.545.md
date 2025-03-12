@@ -8,7 +8,9 @@
 
 (c) *Certain direct financial transactions restricted.* Nothing in paragraphs (a) or (b) of this section authorizes a direct financial transaction prohibited by § 515.209.
 
-(d) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to information and informational materials that do not qualify for the general license under paragraph (b) of this section.
+(d) *Certain travel-related transactions restricted.* Nothing in paragraph (b) of this section authorizes the lodging, paying for lodging, or making any reservation for or on behalf of a third party to lodge, at any property on the Cuba Prohibited Accommodations List to the extent prohibited by § 515.210.
+
+(e) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to information and informational materials that do not qualify for the general license under paragraph (b) of this section.
 
 Note 1 to § 515.545.
 
@@ -18,4 +20,4 @@ Note 2 to § 515.545:
 
 See § 515.332(a)(2) for clarification as to the types of artworks that are considered to be informational materials.
 
-[54 FR 5234, Feb. 2, 1989, as amended at 60 FR 39257, Aug. 2, 1995; 64 FR 25813, May 13, 1999; 69 FR 75469, Dec. 17, 2004; 74 FR 46006, Sept. 8, 2009; 80 FR 2294, Jan. 16, 2015; 81 FR 4585, Jan. 27, 2016; 82 FR 52000, Nov. 9, 2017]
+[54 FR 5234, Feb. 2, 1989, as amended at 60 FR 39257, Aug. 2, 1995; 64 FR 25813, May 13, 1999; 69 FR 75469, Dec. 17, 2004; 74 FR 46006, Sept. 8, 2009; 80 FR 2294, Jan. 16, 2015; 81 FR 4585, Jan. 27, 2016; 82 FR 52000, Nov. 9, 2017; 85 FR 60071, Sept. 24, 2020]

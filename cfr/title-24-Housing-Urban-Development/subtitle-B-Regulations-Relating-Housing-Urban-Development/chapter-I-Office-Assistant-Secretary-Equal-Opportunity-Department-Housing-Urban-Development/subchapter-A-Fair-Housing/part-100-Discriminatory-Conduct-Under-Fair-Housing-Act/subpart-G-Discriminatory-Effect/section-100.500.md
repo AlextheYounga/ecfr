@@ -1,5 +1,7 @@
 ##### § 100.500 Discriminatory effect prohibited. #####
 
+Link to an amendment published at 85 FR 60332, Sept. 24, 2020.
+
 Liability may be established under the Fair Housing Act based on a practice's discriminatory effect, as defined in paragraph (a) of this section, even if the practice was not motivated by a discriminatory intent. The practice may still be lawful if supported by a legally sufficient justification, as defined in paragraph (b) of this section. The burdens of proof for establishing a violation under this subpart are set forth in paragraph (c) of this section.
 
 (a) *Discriminatory effect.* A practice has a discriminatory effect where it actually or predictably results in a disparate impact on a group of persons or creates, increases, reinforces, or perpetuates segregated housing patterns because of race, color, religion, sex, handicap, familial status, or national origin.

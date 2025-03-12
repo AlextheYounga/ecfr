@@ -2,7 +2,7 @@
 
 As prescribed in 804.1303, insert the following clause:
 
-PERSONAL IDENTITY VERIFICATION OF CONTRACTOR PERSONNEL (MAY 2020)
+Personal Identity Verification of Contractor Personnel (MAY 2020)
 
 (a) The Contractor shall comply with current Department of Veterans Affairs policy for personal identity verification of all employees performing under this contract when frequent and continuing access to VA facilities or information systems is required.
 

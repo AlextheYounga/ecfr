@@ -48,8 +48,6 @@ The importation from Cuba and the exportation to Cuba of information or informat
 
 (5) The exportation of information subject to licensing requirements under the ITAR, or exchanges of information that are subject to regulation by other government agencies.
 
-(e) Section 515.564(a)(2) authorizes the travel-related transactions set forth in § 515.560(c) and such additional transactions that are directly incident to attendance at or organization of professional meetings that are necessary and ordinarily incident to the publishing and marketing of written publications.
+(e) *Certain direct financial transactions restricted.* Nothing in this section authorizes a direct financial transaction prohibited by § 515.209.
 
-(f) *Certain direct financial transactions restricted.* Nothing in this section authorizes a direct financial transaction prohibited by § 515.209.
-
-[72 FR 50048, Aug. 30, 2007, as amended at 76 FR 5077, Jan. 28, 2011; 81 FR 13994, Mar. 16, 2016; 82 FR 52003, Nov. 9, 2017]
+[72 FR 50048, Aug. 30, 2007, as amended at 76 FR 5077, Jan. 28, 2011; 81 FR 13994, Mar. 16, 2016; 82 FR 52003, Nov. 9, 2017; 85 FR 60072, Sept. 24, 2020]
