@@ -10,7 +10,7 @@ It is DoD policy that:
 
 (1) The DoD Consolidated Adjudications Facility is responsible for making favorable suitability determinations for civilian personnel in accordance with Deputy Assistant Secretary of Defense for Civilian Personnel and Policy Memorandum, “Responsibilities Under the Department of Defense Suitability and Fitness Adjudications for Civilians Employees Programs,” August 26, 2013.
 
-(2) Military members are not subject to suitability adjudication under Volume 731 of DoD Instruction 1400.25, “DoD Civilian Personnel Management System” (available at *http://www.dtic.mil/whs/directives/corres/pdf/140025v731.pdf*). Military members are subject to the background check requirements of DoD Instruction 5200.02, “Personnel Security Program” (available at *http://www.dtic.mil/whs/directives/corres/pdf/520002\_\_2014.pdf*) and § 86.6.
+(2) Military members are not subject to suitability adjudication under Volume 731 of DoD Instruction 1400.25, “DoD Civilian Personnel Management System” (available at *http://www.dtic.mil/whs/directives/corres/pdf/140025v731.pdf*). Military members are subject to the background check requirements of DoD Instruction 5200.02, “Personnel Security Program” (available at *http://www.dtic.mil/whs/directives/corres/pdf/520002\_2014.pdf*) and § 86.6.
 
 (d) Suitability and fitness determinations for individuals subject to this part will follow the guidance of Volume 731 of DoD Instruction 1400.25 for APF employees and Subchapter 1403 of DoD Instruction 1400.25 for NAF employees. Suitability and fitness are to be applied for the child care worker population in accordance with Volume 731 of DoD Instruction 1400.25 for appropriated fund employees in covered positions as defined by 5 CFR part 731.
 

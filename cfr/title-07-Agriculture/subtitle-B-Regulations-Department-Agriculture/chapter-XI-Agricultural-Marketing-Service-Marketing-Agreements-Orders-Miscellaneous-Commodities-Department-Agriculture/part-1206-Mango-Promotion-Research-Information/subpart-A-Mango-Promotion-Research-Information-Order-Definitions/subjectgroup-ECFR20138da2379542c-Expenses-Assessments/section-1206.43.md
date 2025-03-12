@@ -1,5 +1,7 @@
 ##### § 1206.43 Exemptions. #####
 
+Link to an amendment published at 86 FR 11097, Feb. 24, 2021.
+
 (a) Any first handler of less than 500,000 pounds of fresh mangos per calendar year, or importer of less than 500,000 pounds of fresh mangos or less than 200,000 pounds of frozen mangos per calendar year may claim an exemption from the assessments required under § 1206.42. First handlers who export mangos from the United States may annually claim an exemption from the assessments required under § 1206.42.
 
 (b) A first handler or importer desiring an exemption shall apply to the Board, on a form provided by the Board, for a certificate of exemption. A first handler must certify that it will receive less than 500,000 pounds of domestic fresh mangos during the fiscal period for which the exemption is claimed. An importer must certify that it will import less than 500,000 pounds of fresh mangos or less than 200,000 pounds of frozen mangos for the fiscal period for which the exemption is claimed.

@@ -1,5 +1,7 @@
 ##### § 1206.42 Assessments. #####
 
+Link to an amendment published at 86 FR 11097, Feb. 24, 2021.
+
 (a) The funds to cover the Board's expenses shall be paid from assessments on first handlers and importers, donations from any person not subject to assessments under this Order, and other funds available to the Board and subject to the limitations contained therein.
 
 (b) The assessment rate on all fresh mangos shall be three quarters of a cent ($0.0075) per pound (or $0.0165 per kg). The assessment rate on all frozen mangos shall be one cent ($0.01) per pound (or $0.022 per kg). The assessment rates will be reviewed periodically and may be modified by the Board with the approval of the Department.

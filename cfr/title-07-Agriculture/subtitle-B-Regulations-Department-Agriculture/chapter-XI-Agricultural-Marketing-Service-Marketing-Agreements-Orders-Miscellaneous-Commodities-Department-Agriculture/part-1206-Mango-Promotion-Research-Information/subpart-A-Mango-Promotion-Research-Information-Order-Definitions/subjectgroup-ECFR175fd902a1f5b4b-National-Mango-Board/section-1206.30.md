@@ -1,5 +1,7 @@
 ##### § 1206.30 Establishment and membership. #####
 
+Link to an amendment published at 86 FR 11096, Feb. 24, 2021.
+
 (a) *Establishment of the National Mango Board.* There is hereby established a National Mango Board composed of eight importers of fresh mangos; one first handler of fresh mangos; two domestic producers of fresh mangos; seven foreign producers of fresh mangos; two importers of frozen mangos; and one foreign processor of frozen mangos. First handler Board members must receive 500,000 pounds or more of fresh mangos annually from producers, and importer Board members must import 500,000 pounds or more of fresh mangos or 200,000 pounds or more of frozen mangos annually. The chairperson shall reside in the United States and the Board office shall also be located in the United States.
 
 (b) *Importer districts.* Board seats for importers of fresh mangos shall be allocated based on the volume of fresh mangos imported into the Customs Districts identified by their name and Code Number as defined in the Harmonized Tariff Schedule of the United States. Two seats shall be allocated for District I, three seats for District II, two seats for District III, and one seat for District IV. Two at-large seats shall be allocated for importers of frozen mangos who import into any of the four defined districts.

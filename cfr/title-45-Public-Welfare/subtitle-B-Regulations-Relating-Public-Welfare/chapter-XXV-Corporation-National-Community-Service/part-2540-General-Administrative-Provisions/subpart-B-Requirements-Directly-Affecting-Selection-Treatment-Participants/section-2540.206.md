@@ -1,5 +1,7 @@
 ##### § 2540.206 What documentation must I maintain regarding a National Service Criminal History Check for a covered position? #####
 
+Link to an amendment published at 86 FR 11147, Feb. 24, 2021.
+
 You must:
 
 (a) Document in writing that you verified the identity of the individual in a covered position by examining the individual's government-issued photo identification card, and that you conducted the required checks for the covered position; and

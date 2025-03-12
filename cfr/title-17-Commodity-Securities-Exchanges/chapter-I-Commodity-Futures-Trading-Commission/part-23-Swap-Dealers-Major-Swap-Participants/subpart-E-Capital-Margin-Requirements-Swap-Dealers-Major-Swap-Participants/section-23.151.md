@@ -1,7 +1,5 @@
 ##### § 23.151 Definitions applicable to margin requirements. #####
 
-Link to an amendment published at 86 FR 6857, Jan. 25, 2021.
-
 For the purposes of §§ 23.150 through 23.161:
 
 *Bank holding company* has the meaning specified in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841).
@@ -28,7 +26,7 @@ For the purposes of §§ 23.150 through 23.161:
 
 (1) If each party is in a different calendar day at the time the parties enter into the uncleared swap, the day of execution is deemed the latter of the two dates; and
 
-(2) If an uncleared swap is -
+(2) If an uncleared swap is—
 
 (i) Entered into after 4:00 p.m. in the location of a party; or
 
@@ -66,7 +64,7 @@ For the purposes of §§ 23.150 through 23.161:
 
 (ii) Establish and maintain written procedures to monitor possible changes in relevant law and to ensure that the agreement continues to satisfy the requirements of this definition.
 
-*Financial end user* means -
+*Financial end user* means—
 
 (1) A counterparty that is not a swap entity and that is:
 
@@ -128,7 +126,7 @@ For the purposes of §§ 23.150 through 23.161:
 
 *Initial margin threshold amount* means an aggregate credit exposure of $50 million resulting from all uncleared swaps between a covered swap entity and its margin affiliates on the one hand, and a covered counterparty and its margin affiliates on the other. For purposes of this calculation, an entity shall not count a swap that is exempt pursuant to § 23.150(b).
 
-*Major currencies* means -
+*Major currencies* means—
 
 (1) United States Dollar (USD);
 
@@ -162,7 +160,7 @@ For the purposes of §§ 23.150 through 23.161:
 
 (3) For a company that is not subject to such principles or standards, if consolidation as described in paragraph (1) or (2) of this definition would have occurred if such principles or standards had applied.
 
-*Market intermediary* means -
+*Market intermediary* means—
 
 (1) A securities holding company;
 
@@ -176,7 +174,7 @@ For the purposes of §§ 23.150 through 23.161:
 
 *Material swaps exposure* for an entity means that, as of September 1 of any year, the entity and its margin affiliates have an average month-end aggregate notional amount of uncleared swaps, uncleared security-based swaps, foreign exchange forwards, and foreign exchange swaps with all counterparties for March, April, and May of that year that exceeds $8 billion, where such amount is calculated only for the last business day of the month. Activities not carried out in the regular course of business and willfully designed to circumvent calculation at month-end to evade meeting the definition of material swaps exposure shall be prohibited. An entity shall count the average month-end aggregate notional amount of an uncleared swap, an uncleared security-based swap, a foreign exchange forward, or a foreign exchange swap between the entity and a margin affiliate only one time. For purposes of this calculation, an entity shall not count a swap that is exempt pursuant to § 23.150(b) or a security-based swap that qualifies for an exemption under section 3C(g)(10) of the Securities Exchange Act of 1934 (15 U.S.C. 78c-3(g)(4)) and implementing regulations or that satisfies the criteria in section 3C(g)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78-c3(g)(4)) and implementing regulations.
 
-*Minimum transfer amount* means a combined initial and variation margin amount under which no actual transfer of funds is required. The minimum transfer amount shall be $500,000.
+*Minimum transfer amount* means a combined initial and variation margin amount under which no actual transfer of funds is required. The minimum transfer amount shall be $500,000. Where a counterparty to a covered swap entity owns two or more separately managed accounts, a minimum transfer amount of up to $50,000 may be applied for each separately managed account.
 
 *Multilateral development bank* means:
 
@@ -218,6 +216,14 @@ For the purposes of §§ 23.150 through 23.161:
 
 *Security-based swap* has the meaning specified in section 3(a)(68) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(68)).
 
+*Separately managed account* means an account of a counterparty to a covered swap entity that meets the following requirements:
+
+(1) The account is managed by an asset manager and governed by an investment management agreement, pursuant to which the counterparty grants the asset manager authority with respect to a specified amount of the counterparty's assets;
+
+(2) Swaps are entered into between the counterparty and the covered swap entity by the asset manager on behalf of the account pursuant to authority granted by the counterparty through an investment management agreement; and
+
+(3) The swaps of such account are subject to a master netting agreement that does not provide for the netting of initial or variation margin obligations across all such accounts of the counterparty that have swaps outstanding with the covered swap entity.
+
 *Sovereign entity* means a central government (including the U.S. government) or an agency, department, ministry, or central bank of a central government.
 
 *State* means any State, commonwealth, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, or the United States Virgin Islands.
@@ -234,4 +240,4 @@ For the purposes of §§ 23.150 through 23.161:
 
 *Variation margin amount* means the cumulative mark-to-market change in value to a covered swap entity of an uncleared swap, as measured from the date it is entered into (or in the case of an uncleared swap that has a positive or negative value to a covered swap entity on the date it is entered into, such positive or negative value plus any cumulative mark-to-market change in value to the covered swap entity of an uncleared swap after such date), less the value of all variation margin previously collected, plus the value of all variation margin previously posted with respect to such uncleared swap.
 
-[81 FR 695, Jan. 6, 2016, as amended at 83 FR 60346, Nov. 26, 2018; 85 FR 27678, May 11, 2020; 86 FR 246, Jan. 5, 2021]
+[81 FR 695, Jan. 6, 2016, as amended at 83 FR 60346, Nov. 26, 2018; 85 FR 27678, May 11, 2020; 86 FR 246, Jan. 5, 2021; 86 FR 6857, Jan. 25, 2021]

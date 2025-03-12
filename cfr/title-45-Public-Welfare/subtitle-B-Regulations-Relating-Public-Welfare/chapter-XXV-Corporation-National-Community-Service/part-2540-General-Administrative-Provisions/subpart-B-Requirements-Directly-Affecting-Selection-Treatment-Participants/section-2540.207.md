@@ -1,5 +1,7 @@
 ##### § 2540.207 When may I follow an alternative search procedure or be excepted from a requirement in conducting a National Service Criminal History Check for a covered position? #####
 
+Link to an amendment published at 86 FR 11148, Feb. 24, 2021.
+
 (a) *Alternative search procedure.* (1) If you submit a written request to the Corporation's Office of Grants Management, the Corporation will consider approving an alternative search procedure:
 
 (i) If you demonstrate that you are prohibited or otherwise precluded under state law from complying with a Corporation requirement relating to the National Service Criminal History Check, or

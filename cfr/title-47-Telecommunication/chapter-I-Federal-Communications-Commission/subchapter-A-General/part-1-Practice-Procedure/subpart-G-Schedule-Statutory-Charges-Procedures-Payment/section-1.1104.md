@@ -1,5 +1,7 @@
 ##### § 1.1104 Schedule of charges for applications and other filings for media services. #####
 
+Link to an amendment published at 86 FR 11149, Feb. 24, 2021.
+
 Payment can be made electronically using the Commission's electronic filing and payment system “Fee Filer” (*www.fcc.gov/feefiler*). Remit manual filings and/or payments for these services to: Federal Communications Commission, Media Bureau Services, P.O. Box 979089, St. Louis, MO 63197-9000. The asterisk (\*) indicates that multiple stations and multiple fee submissions are acceptable within the same post office box.
 
 |                                              Service                                              |              FCC Form No.               |           Fee amount           |       Payment type code        |

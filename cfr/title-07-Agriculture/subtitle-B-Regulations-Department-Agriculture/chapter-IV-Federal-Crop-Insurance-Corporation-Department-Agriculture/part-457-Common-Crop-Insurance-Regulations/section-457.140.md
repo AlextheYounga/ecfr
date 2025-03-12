@@ -129,7 +129,7 @@ In addition to the provisions of section 6 of the Basic Provisions, you must sub
 
 (b) You will be considered to have a share in the insured crop if, under the processor/seed company contract, you retain control of the acreage on which the dry peas are grown, you are at risk of loss (i.e., if there is a reduction in quantity or quality of your dry pea production, you will receive less income under the contract), and the processor/seed company contract is in effect for the entire insurance period.
 
-(c) In counties for which the actuarial documents provide premium rates for the Winter Coverage Option (see section 15), coverage is available for dry peas between the time coverage begins and the spring final planting date. Coverage under the option is effective only if you qualify under the terms of the option and you elect the option by the sales closing date.
+(c) In counties for which the actuarial documents provide premium rates for the Winter Coverage Option (see section 15), coverage is available for dry peas between the time coverage begins and the spring final planting date. Coverage under the option is effective only if you qualify under the terms of the option and you elect the option by its sales closing date.
 
 8. Insurable Acreage
 
@@ -161,7 +161,7 @@ In addition to the provisions of section 9 of the Basic Provisions:
 
 In accordance with the provisions of section 11 of the Basic Provisions, and subject to the provisions provided by the Winter Coverage Option (see section 15) if you elect such option, the insurance period is as follows:
 
-(a) If the Special Provisions designate both fall-planted and spring-planted types types, and the Winter Coverage Option is not in force for the acreage, you must report fall-planted acreage to your crop insurance agent on or before the spring sales closing date. Fall-planted types are only insurable if there is an adequate stand in the spring. Insurance will attach to such acreage on the date we determine an adequate stand exists or on the spring final planting date if we do not make that determination prior to the spring final planting date, unless otherwise specified in the Special Provisions. Fall-planted acreage must be reported and insured if it meets the requirements of section 8.
+(a) If the Special Provisions designate both fall-planted and spring-planted types, and the Winter Coverage Option is not in force for the acreage, you must report fall-planted acreage to your crop insurance agent on or before the spring sales closing date. Fall-planted types are only insurable if there is an adequate stand in the spring. Insurance will attach to such acreage on the date we determine an adequate stand exists or on the spring final planting date if we do not make that determination prior to the spring final planting date, unless otherwise specified in the Special Provisions. Fall-planted acreage must be reported and insured if it meets the requirements of section 8.
 
 (b) The calendar date for the end of the insurance period for all insurable types of dry peas in the county is September 30 of the crop year in which the crop is normally harvested unless otherwise specified in the Special Provisions.
 
@@ -443,4 +443,4 @@ The value will not be reduced for:
 
 (B) Store or market the production in a manner which permits us to verify the amount of spring-planted production separately from any fall-planted production. In the event you are unable to provide records of production that are acceptable to us, the spring-planted acreage will be considered to be a part of the original fall-planted unit.
 
-[62 FR 65744, Dec. 16, 1997, as amended at 63 FR 36157, July 2, 1998; 67 FR 55691, Aug. 30, 2002; 73 FR 51582, Sept. 4, 2008; 75 FR 15888, Mar. 30, 2010; 81 FR 84400, Nov. 23, 2016; 85 FR 38279, June 26, 2020]
+[62 FR 65744, Dec. 16, 1997, as amended at 63 FR 36157, July 2, 1998; 67 FR 55691, Aug. 30, 2002; 73 FR 51582, Sept. 4, 2008; 75 FR 15888, Mar. 30, 2010; 81 FR 84400, Nov. 23, 2016; 85 FR 38279, June 26, 2020; 86 FR 11091, Feb. 24, 2021]

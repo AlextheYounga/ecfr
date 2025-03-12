@@ -1,5 +1,7 @@
 ##### § 2540.204 When must I conduct a National Service Criminal History Check on an individual in a covered position? #####
 
+Link to an amendment published at 86 FR 11147, Feb. 24, 2021.
+
 (a) *Timing of the National Service Criminal History Check Components.* (1) You must conduct and review the results of the nationwide NSOPW check required under § 2540.203 before an individual in a covered position begins work or starts service.
 
 (2) You must initiate state registry or FBI criminal history checks required under § 2540.203 before an individual in a covered position begins work or starts service. You may permit an individual in a covered position to begin work or start service pending the receipt of results from state registry or FBI criminal history checks as long as the individual is not permitted access to children age 17 years or younger, to individuals age 60 years or older, or to individuals with disabilities, without being in the physical presence of an appropriate individual, as described in § 2540.205(g) of this chapter.

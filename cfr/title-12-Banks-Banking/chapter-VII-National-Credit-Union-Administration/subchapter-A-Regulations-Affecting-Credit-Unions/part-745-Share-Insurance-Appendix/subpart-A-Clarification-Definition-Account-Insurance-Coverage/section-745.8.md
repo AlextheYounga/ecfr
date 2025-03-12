@@ -1,5 +1,7 @@
 ##### § 745.8 Joint ownership accounts. #####
 
+Link to an amendment published at 86 FR 11102, Feb. 24, 2021.
+
 (a) *Separate insurance coverage.* Qualifying joint accounts, whether owned as joint tenants with right of survivorship, as tenants by the entireties, as tenants in common, or by husband and wife as community property, shall be insured separately from accounts individually owned by any of the co-owners. The interest of a co-owner in all qualifying joint accounts shall be added together and the total for that co-owner shall be insured up to the SMSIA.
 
 (b) *Determination of insurance coverage.* The interests of each co-owner in all qualifying joint accounts shall be added together and the total shall be insured up to the SMSIA. (Example: “A&B” have a qualifying joint account with a balance of $150,000; “A&C” have a qualifying joint account with a balance of $200,000; and “A&B&C” have a qualifying joint account with a balance of $375,000. A's combined ownership interest in all qualifying joint accounts would be $300,000 ($75,000 plus $100,000 plus $125,000); therefore, A's interest would be insured in the amount of $250,000 and uninsured in the amount of $50,000. B's combined ownership interest in all qualifying joint accounts would be $200,000 ($75,000 plus $125,000); therefore, B's interest would be fully insured. C's combined ownership interest in all qualifying joint accounts would be $225,000 ($100,000 plus $125,000); therefore, C's interest would be fully insured.

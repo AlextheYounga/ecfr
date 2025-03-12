@@ -1,12 +1,10 @@
 ##### § 23.153 Collection and posting of variation margin. #####
 
-Link to an amendment published at 86 FR 6857, Jan. 25, 2021.
-
 (a) *Initial obligation.* On or before the business day after the day of execution of an uncleared swap between a covered swap entity and a counterparty that is a swap entity or a financial end user, the covered swap entity shall collect the variation margin amount from the counterparty when the amount is positive, or post the variation margin amount with the counterparty when the amount is negative as calculated pursuant to § 23.155 and in a form that complies with § 23.156.
 
 (b) *Continuing obligation.* The covered swap entity shall continue to collect the variation margin amount from, or to post the variation margin amount with, the counterparty as calculated each business day pursuant to § 23.155 and in a form that complies with § 23.156 each business day until such uncleared swap is terminated or expires.
 
-(c) *Minimum transfer amount.* A covered swap entity is not required to collect or to post variation margin pursuant to §§ 23.150 through 23.161 with respect to a particular counterparty unless and until the combined amount of initial margin and variation margin that is required pursuant to §§ 23.150 through 23.161 to be collected or posted and that has not been collected or posted with respect to the counterparty is greater than $500,000.
+(c) *Minimum transfer amount.* A covered swap entity is not required to collect or to post variation margin pursuant to §§ 23.150 through 23.161 with respect to a particular counterparty unless and until the combined amount of initial margin and variation margin that is required pursuant to §§ 23.150 through 23.161 to be collected or posted and that has not been collected or posted with respect to the counterparty is greater than the minimum transfer amount, as the term is defined in § 23.151.
 
 (d) *Netting.* (1) To the extent that more than one uncleared swap is executed pursuant to an eligible master netting agreement between a covered swap entity and a counterparty, a covered swap entity may calculate and comply with the applicable variation margin requirements of this section on an aggregate basis with respect to all uncleared swaps governed by such agreement subject to paragraph (d)(2) of this section.
 
@@ -23,3 +21,5 @@ Link to an amendment published at 86 FR 6857, Jan. 25, 2021.
 (i) Made the necessary efforts to collect or to post the required variation margin, including the timely initiation and continued pursuit of formal dispute resolution mechanisms, including pursuant to § 23.504(b)(4), if applicable, or has otherwise demonstrated upon request to the satisfaction of the Commission that it has made appropriate efforts to collect or to post the required variation margin; or
 
 (ii) Commenced termination of the uncleared swap with the counterparty promptly following the applicable cure period and notification requirements.
+
+[81 FR 695, Jan. 6, 2016, as amended at 86 FR 6857, Jan. 25, 2021]

@@ -22,7 +22,7 @@
 
 (iii) Include the following statements in recruitment information:
 
-(A) If an employee brings a child to an overseas location and that child is entitled to attend a DoD school on a space-required basis in accordance with DoDEA Regulation 1342.13 (available at *http://www.dodea.edu/aboutDoDEA/upload/1342\_\_13.pdf*), DoDEA and the Military Department responsible for providing related services will ensure that the child, if eligible for special education, receives a free appropriate public education, including special education and related services pursuant to 32 CFR part 57.
+(A) If an employee brings a child to an overseas location and that child is entitled to attend a DoD school on a space-required basis in accordance with DoDEA Regulation 1342.13 (available at *http://www.dodea.edu/aboutDoDEA/upload/1342\_13.pdf*), DoDEA and the Military Department responsible for providing related services will ensure that the child, if eligible for special education, receives a free appropriate public education, including special education and related services pursuant to 32 CFR part 57.
 
 (B) If an employee brings an infant or toddler (up to 3 years of age) to an overseas location, and that infant or toddler, but for the child's age, is entitled to attend the DoDEA on a space-required basis in accordance with DoDEA Regulation 1342.13, then the Military Department responsible for EIS will provide the infant or toddler with the required EIS in accordance with the eligibility criteria consistent with 32 CFR part 57.
 

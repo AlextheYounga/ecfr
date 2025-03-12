@@ -1,16 +1,14 @@
 ##### § 23.152 Collection and posting of initial margin. #####
 
-Link to an amendment published at 86 FR 6857, Jan. 25, 2021.
-
-(a) *Collection* - (1) *Initial obligation.* On or before the business day after execution of an uncleared swap between a covered swap entity and a covered counterparty, the covered swap entity shall collect initial margin from the covered counterparty in an amount equal to or greater than an amount calculated pursuant to § 23.154, in a form that complies with § 23.156, and pursuant to custodial arrangements that comply with § 23.157.
+(a) *Collection*—(1) *Initial obligation.* On or before the business day after execution of an uncleared swap between a covered swap entity and a covered counterparty, the covered swap entity shall collect initial margin from the covered counterparty in an amount equal to or greater than an amount calculated pursuant to § 23.154, in a form that complies with § 23.156, and pursuant to custodial arrangements that comply with § 23.157.
 
 (2) *Continuing obligation.* The covered swap entity shall continue to hold initial margin from the covered counterparty in an amount equal to or greater than an amount calculated each business day pursuant to § 23.154, in a form that complies with § 23.156, and pursuant to custodial arrangements that comply with § 23.157, until such uncleared swap is terminated or expires.
 
-(b) *Posting* - (1) *Initial obligation.* On or before the business day after execution of an uncleared swap between a covered swap entity and a financial end user with material swaps exposure, the covered swap entity shall post initial margin with the counterparty in an amount equal to or greater than an amount calculated pursuant to § 23.154, in a form that complies with § 23.156, and pursuant to custodial arrangements that comply with § 23.157.
+(b) *Posting*—(1) *Initial obligation.* On or before the business day after execution of an uncleared swap between a covered swap entity and a financial end user with material swaps exposure, the covered swap entity shall post initial margin with the counterparty in an amount equal to or greater than an amount calculated pursuant to § 23.154, in a form that complies with § 23.156, and pursuant to custodial arrangements that comply with § 23.157.
 
 (2) *Continuing obligation.* The covered swap entity shall continue to post initial margin with the counterparty in an amount equal to or greater than an amount calculated each business day pursuant to § 23.154, in a form that complies with § 23.156, and pursuant to custodial arrangements that comply with § 23.157, until such uncleared swap is terminated or expires.
 
-(3) *Minimum transfer amount.* A covered swap entity is not required to collect or to post initial margin pursuant to §§ 23.150 through 23.161 with respect to a particular counterparty unless and until the combined amount of initial margin and variation margin that is required pursuant to §§ 23.150 through 23.161 to be collected or posted and that has not been collected or posted with respect to the counterparty is greater than $500,000.
+(3) *Minimum transfer amount.* A covered swap entity is not required to collect or to post initial margin pursuant to §§ 23.150 through 23.161 with respect to a particular counterparty unless and until the combined amount of initial margin and variation margin that is required pursuant to §§ 23.150 through 23.161 to be collected or posted and that has not been collected or posted with respect to the counterparty is greater than the minimum transfer amount, as the term is defined in § 23.151.
 
 (c) *Netting.* (1) To the extent that one or more uncleared swaps are executed pursuant to an eligible master netting agreement between a covered swap entity and covered counterparty, a covered swap entity may calculate and comply with the applicable initial margin requirements of §§ 23.150 through 23.161 on an aggregate net basis with respect to all uncleared swaps governed by such agreement, subject to paragraph (c)(2) of this section.
 
@@ -27,3 +25,5 @@ Link to an amendment published at 86 FR 6857, Jan. 25, 2021.
 (i) Made the necessary efforts to collect or to post the required initial margin, including the timely initiation and continued pursuit of formal dispute resolution mechanisms, including pursuant to § 23.504(b)(4), if applicable, or has otherwise demonstrated upon request to the satisfaction of the Commission that it has made appropriate efforts to collect or to post the required initial margin; or
 
 (ii) Commenced termination of the uncleared swap with the covered counterparty promptly following the applicable cure period and notification requirements.
+
+[81 FR 695, Jan. 6, 2016, as amended at 86 FR 6857, Jan. 25, 2021]

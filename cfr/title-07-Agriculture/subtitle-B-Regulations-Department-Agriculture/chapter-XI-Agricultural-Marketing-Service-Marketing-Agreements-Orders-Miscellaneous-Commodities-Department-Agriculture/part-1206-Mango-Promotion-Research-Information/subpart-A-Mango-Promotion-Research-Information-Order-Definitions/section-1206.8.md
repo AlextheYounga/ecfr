@@ -1,5 +1,7 @@
 ##### § 1206.8 Foreign producers and foreign processor of frozen mangos or foreign processor. #####
 
+Link to an amendment published at 86 FR 11096, Feb. 24, 2021.
+
 (a) *Foreign producer* means any person:
 
 (1) Who is engaged in the production and sale of mangos outside of the United States and who owns, or shares the ownership and risk of loss of the crop for sale in the U.S. market or

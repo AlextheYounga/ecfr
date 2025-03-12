@@ -8,7 +8,7 @@
 
 (3) May use an interdisciplinary approach involving the various service providers listed in paragraph (b)(7) of this section, to coordinate the delivery of information and services to be provided to victims and witnesses.
 
-(b) *Comprehensive information and services to be provided to victims and witnesses* - (1) *Rights of crime victims.* Personnel directly engaged in the prevention, detection, investigation, and disposition of offenses, to include courts-martial, including law enforcement and legal personnel, commanders, trial counsel, and staff judge advocates, will ensure that victims are accorded their rights in accordance with Article 6b of UCMJ. A crime victim has the right to:
+(b) *Comprehensive information and services to be provided to victims and witnesses*—(1) *Rights of crime victims.* Personnel directly engaged in the prevention, detection, investigation, and disposition of offenses, to include courts-martial, including law enforcement and legal personnel, commanders, trial counsel, and staff judge advocates, will ensure that victims are accorded their rights in accordance with Article 6b of UCMJ. A crime victim has the right to:
 
 (i) Be reasonably protected from the accused offender.
 
@@ -152,7 +152,7 @@
 
 (A) General information regarding the convening authority's action, the appellate process, the corrections process, work release, furlough, probation, parole, mandatory supervised release, or other forms of release from custody, and eligibility for each.
 
-(B) Specific information regarding the election to be notified of further actions in the case, to include the convening authority's action, hearings and decisions on appeal, changes in inmate status, and consideration for parole. The DD Form 2704, “Victim/Witness Certification and Election Concerning Prisoner Status” (available at *http://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2704.pdf*) will be explained and used for victims and appropriate witnesses to elect to be notified of these actions, hearings, decisions, and changes in the offender's status in confinement. The DD Form 2704-1, “Victim Election of Post-Trial Rights” (under development, will be available at *http://www.esd.whs.mil/Directives/forms/dd2500\_\_2999/* once finalized) will be explained and used for victims to make elections about records of trial, submission of matters in clemency, and notifications of certain appellate proceedings.
+(B) Specific information regarding the election to be notified of further actions in the case, to include the convening authority's action, hearings and decisions on appeal, changes in inmate status, and consideration for parole. The DD Form 2704, “Victim/Witness Certification and Election Concerning Prisoner Status” (available at *http://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2704.pdf*) will be explained and used for victims and appropriate witnesses to elect to be notified of these actions, hearings, decisions, and changes in the offender's status in confinement. The DD Form 2704-1, “Victim Election of Post-Trial Rights” (under development, will be available at *http://www.esd.whs.mil/Directives/forms/dd2500\_2999/* once finalized) will be explained and used for victims to make elections about records of trial, submission of matters in clemency, and notifications of certain appellate proceedings.
 
 (*1*) For all cases resulting in a sentence to confinement, the DD Form 2704 will be completed and forwarded to the Service central repository, the gaining confinement facility, the local responsible official, and the victim or witness, if any, with appropriate redactions made by the delivering official.
 
@@ -334,7 +334,7 @@
 
 (v) In the absence of an appointment of a legal representative, the victim may exercise his/her own legal and regulatory rights, as described herein. Where an appointment is required or discretionary, nothing in this policy precludes a victim from being appointed as his/her own legal representative, as appropriate.
 
-(d) *Legal assistance for crime victims* - (1) *Eligibility.* Active and retired Service members and their dependents are eligible to receive legal assistance pursuant to 10 U.S.C. 1044 and 1565b and Under Secretary for Defense for Personnel and Readiness Memorandum, “Legal Assistance for Sexual Assault Victims,” October 17, 2011.
+(d) *Legal assistance for crime victims*—(1) *Eligibility.* Active and retired Service members and their dependents are eligible to receive legal assistance pursuant to 10 U.S.C. 1044 and 1565b and Under Secretary for Defense for Personnel and Readiness Memorandum, “Legal Assistance for Sexual Assault Victims,” October 17, 2011.
 
 (2) *Information and services.* Legal assistance services for crime victims will include confidential advice and assistance for crime victims to address:
 
@@ -356,7 +356,7 @@
 
 (ix) Availability of and protections offered by civilian and military protective orders.
 
-(e) *Special Victims' Counsel/Victims' Legal Counsel programs* - (1) *Eligibility.* In accordance with 10 U.S.C. 1044, 1044e, and 1565b, section 1716 of Public Law 113-66, and section 533 of the Public Law 113-291, the Military Services provide legal counsel, known as SVC/VLC, to assist victims of alleged sex-related offenses including Articles 120, 120a, 120b, and 120c, forcible sodomy under Article 125 (before January 1, 2019) of the UCMJ, attempts to commit such offenses under Article 80 of the UCMJ, or other crimes under the UCMJ as authorized by the Service, who are eligible for legal assistance pursuant to 10 U.S.C. 1044e and as further prescribed by the Military Departments and National Guard Bureau policies. Individuals eligible for SVC/VLC representation include any of the following:
+(e) *Special Victims' Counsel/Victims' Legal Counsel programs*—(1) *Eligibility.* In accordance with 10 U.S.C. 1044, 1044e, and 1565b, section 1716 of Public Law 113-66, and section 533 of the Public Law 113-291, the Military Services provide legal counsel, known as SVC/VLC, to assist victims of alleged sex-related offenses including Articles 120, 120a, 120b, and 120c, forcible sodomy under Article 125 (before January 1, 2019) of the UCMJ, attempts to commit such offenses under Article 80 of the UCMJ, or other crimes under the UCMJ as authorized by the Service, who are eligible for legal assistance pursuant to 10 U.S.C. 1044e and as further prescribed by the Military Departments and National Guard Bureau policies. Individuals eligible for SVC/VLC representation include any of the following:
 
 (i) Individuals entitled to military legal assistance under 10 U.S.C. 1044 and 1044e, and as further prescribed by the Military Departments and National Guard Bureau policies.
 

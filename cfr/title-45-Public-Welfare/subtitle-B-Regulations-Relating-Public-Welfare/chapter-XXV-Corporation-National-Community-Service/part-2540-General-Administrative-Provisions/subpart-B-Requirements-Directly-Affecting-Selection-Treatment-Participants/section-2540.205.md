@@ -1,5 +1,7 @@
 ##### § 2540.205 What procedures must I follow in conducting a National Service Criminal History Check for a covered position? #####
 
+Link to an amendment published at 86 FR 11147, Feb. 24, 2021.
+
 You are responsible for following these procedures:
 
 (a) Verify the individual's identity by examining the individual's government-issued photo identification card, such as a driver's license;

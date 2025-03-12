@@ -257,6 +257,7 @@ Table 1 to Paragraph (b)
 |      Liberty       |         \*298A          |         |     |
 |    RHODE ISLAND    |                         |         |     |
 |   SOUTH CAROLINA   |                         |         |     |
+|     Edgefield      |          238A           |         |     |
 |    SOUTH DAKOTA    |                         |         |     |
 |     Eagle Butt     |          228C1          |         |     |
 |      Edgemont      |          289C1          |         |     |

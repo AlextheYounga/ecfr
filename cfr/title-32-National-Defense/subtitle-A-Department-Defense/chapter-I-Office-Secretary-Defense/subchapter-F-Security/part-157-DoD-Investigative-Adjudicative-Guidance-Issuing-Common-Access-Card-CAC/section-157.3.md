@@ -32,4 +32,4 @@ These terms and their definitions are for the purpose of this part.
 
 *Unacceptable risk.* A threat to the life, safety, or health of employees, contractors, vendors, or visitors; to the U.S. Government physical assets or information systems; to personal property; to records, including classified, privileged, proprietary, financial, and medical records; or to the privacy rights established by The Privacy Act of 1974, as amended, or other law that is deemed unacceptable when making risk management determinations.
 
-*U.S. National.* Defined in U.S. OPM Memorandum, “Final Credentialing Standards for Issuing Personal Identity Verification Cards Under HSPD-12” (available at *http://www.opm.gov/investigate/resources/final\_\_credentialing\_\_standards.pdf*).
+*U.S. National.* Defined in U.S. OPM Memorandum, “Final Credentialing Standards for Issuing Personal Identity Verification Cards Under HSPD-12” (available at *http://www.opm.gov/investigate/resources/final\_credentialing\_standards.pdf*).

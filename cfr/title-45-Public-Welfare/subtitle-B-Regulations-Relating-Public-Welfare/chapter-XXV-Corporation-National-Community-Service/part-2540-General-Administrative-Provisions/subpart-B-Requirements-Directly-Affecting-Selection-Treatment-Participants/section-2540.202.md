@@ -1,5 +1,7 @@
 ##### § 2540.202 What eligibility criteria must I apply to a covered position in connection with the National Service Criminal History Check? #####
 
+Link to an amendment published at 86 FR 11147, Feb. 24, 2021.
+
 In addition to the eligibility criteria you establish, an individual shall be ineligible to serve in a covered position if the individual -
 
 (a) Refuses to consent to a criminal history check described in § 2540.203 of this chapter;

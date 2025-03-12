@@ -1,5 +1,7 @@
 ##### § 2540.203 What search components of the National Service Criminal History Check must I satisfy to determine an individual's eligibility to serve in a covered position? #####
 
+Link to an amendment published at 86 FR 11147, Feb. 24, 2021.
+
 (a) *Search procedure for individuals in covered positions who do not have recurring access to vulnerable populations.* Unless the Corporation approves an alternative search procedure under § 2540.207 of this chapter, to determine an individual's eligibility to serve in a covered position, you must conduct and document a National Service Criminal History Check that consists of the following components:
 
 (1) A nationwide name-based search of the Department of Justice (DOJ) National Sex Offender Public Web site (NSOPW), and
