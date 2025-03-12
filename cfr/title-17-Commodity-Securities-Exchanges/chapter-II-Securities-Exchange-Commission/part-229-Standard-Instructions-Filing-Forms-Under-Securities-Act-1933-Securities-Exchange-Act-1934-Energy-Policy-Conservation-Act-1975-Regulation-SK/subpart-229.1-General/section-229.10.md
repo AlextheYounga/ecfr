@@ -1,7 +1,5 @@
 ##### § 229.10 (Item 10) General. #####
 
-Link to an amendment published at 83 FR 32018, July 10, 2018.
-
 (a) *Application of Regulation S-K.* This part (together with the General Rules and Regulations under the Securities Act of 1933, 15 U.S.C. 77a *et seq.,* as amended (*Securities Act*), and the Securities Exchange Act of 1934, 15 U.S.C. 78a *et seq.,* as amended (*Exchange Act*) (parts 230 and 240 of this chapter), the Interpretative Releases under these Acts (parts 231 and 241 of this chapter) and the forms under these Acts (parts 239 and 249 of this chapter)) states the requirements applicable to the content of the non-financial statement portions of:
 
 (1) Registration statements under the Securities Act (part 239 of this chapter) to the extent provided in the forms to be used for registration under such Act; and
@@ -124,18 +122,46 @@ Index of Scaled Disclosure Available to Smaller Reporting Companies
 
 (1) *Definition of smaller reporting company.* As used in this part, the term *smaller reporting company* means an issuer that is not an investment company, an asset-backed issuer (as defined in § 229.1101), or a majority-owned subsidiary of a parent that is not a smaller reporting company and that:
 
-(i) Had a public float of less than $75 million as of the last business day of its most recently completed second fiscal quarter, computed by multiplying the aggregate worldwide number of shares of its voting and non-voting common equity held by non-affiliates by the price at which the common equity was last sold, or the average of the bid and asked prices of common equity, in the principal market for the common equity; or
+(i) Had a public float of less than $250 million; or
 
-(ii) In the case of an initial registration statement under the Securities Act or Exchange Act for shares of its common equity, had a public float of less than $75 million as of a date within 30 days of the date of the filing of the registration statement, computed by multiplying the aggregate worldwide number of such shares held by non-affiliates before the registration plus, in the case of a Securities Act registration statement, the number of such shares included in the registration statement by the estimated public offering price of the shares; or
+(ii) Had annual revenues of less than $100 million and either:
 
-(iii) In the case of an issuer whose public float as calculated under paragraph (i) or (ii) of this definition was zero, had annual revenues of less than $50 million during the most recently completed fiscal year for which audited financial statements are available.
+(A) No public float; or
 
-(2) *Determination:* Whether or not an issuer is a smaller reporting company is determined on an annual basis.
+(B) A public float of less than $700 million.
 
-(i) For issuers that are required to file reports under section 13(a) or 15(d) of the Exchange Act, the determination is based on whether the issuer came within the definition of smaller reporting company, using the amounts specified in paragraph (f)(2)(iii) of this Item, as of the last business day of the second fiscal quarter of the issuer's previous fiscal year. An issuer in this category must reflect this determination in the information it provides in its quarterly report on Form 10-Q for the first fiscal quarter of the next year, indicating on the cover page of that filing, and in subsequent filings for that fiscal year, whether or not it is a smaller reporting company, except that, if a determination based on public float indicates that the issuer is newly eligible to be a smaller reporting company, the issuer may choose to reflect this determination beginning with its first quarterly report on Form 10-Q following the determination, rather than waiting until the first fiscal quarter of the next year.
+(2) *Determination.* Whether an issuer is a smaller reporting company is determined on an annual basis.
 
-(ii) For determinations based on an initial Securities Act or Exchange Act registration statement under paragraph (f)(1)(ii) of this Item, the issuer must reflect the determination in the information it provides in the registration statement and must appropriately indicate on the cover page of the filing, and subsequent filings for the fiscal year in which the filing is made, whether or not it is a smaller reporting company. The issuer must redetermine its status at the end of its second fiscal quarter and then reflect any change in status as provided in paragraph (f)(2)(i) of this Item. In the case of a determination based on an initial Securities Act registration statement, an issuer that was not determined to be a smaller reporting company has the option to redetermine its status at the conclusion of the offering covered by the registration statement based on the actual offering price and number of shares sold.
+(i) For issuers that are required to file reports under section 13(a) or 15(d) of the Exchange Act:
 
-(iii) Once an issuer fails to qualify for smaller reporting company status, it will remain unqualified unless it determines that its public float, as calculated in accordance with paragraph (f)(1) of this Item, was less than $50 million as of the last business day of its second fiscal quarter or, if that calculation results in zero because the issuer had no public equity outstanding or no market price for its equity existed, if the issuers had annual revenues of less than $40 million during its previous fiscal year.
+(A) Public float is measured as of the last business day of the issuer's most recently completed second fiscal quarter and computed by multiplying the aggregate worldwide number of shares of its voting and non-voting common equity held by non-affiliates by the price at which the common equity was last sold, or the average of the bid and asked prices of common equity, in the principal market for the common equity;
 
-[47 FR 11401, Mar. 16, 1982, as amended at 52 FR 21260, June 5, 1987; 58 FR 14665, Mar. 18, 1993; 58 FR 62029, Nov. 23, 1993; 60 FR 32824, June 23, 1995; 64 FR 61443, Nov. 10, 1999; 68 FR 4831, Jan. 30, 2003; 70 FR 1593, Jan. 7, 2005; 73 FR 956, Jan. 4, 2008; 76 FR 46617, Aug. 3, 2011]
+(B) Annual revenues are as of the most recently completed fiscal year for which audited financial statements are available; and
+
+(C) An issuer must reflect the determination of whether it came within the definition of smaller reporting company in its quarterly report on Form 10-Q for the first fiscal quarter of the next year, indicating on the cover page of that filing, and in subsequent filings for that fiscal year, whether it is a smaller reporting company, except that, if a determination based on public float indicates that the issuer is newly eligible to be a smaller reporting company, the issuer may choose to reflect this determination beginning with its first quarterly report on Form 10-Q following the determination, rather than waiting until the first fiscal quarter of the next year.
+
+(ii) For determinations based on an initial registration statement under the Securities Act or Exchange Act for shares of its common equity:
+
+(A) Public float is measured as of a date within 30 days of the date of the filing of the registration statement and computed by multiplying the aggregate worldwide number of shares of its voting and non-voting common equity held by non-affiliates before the registration plus, in the case of a Securities Act registration statement, the number of shares of its voting and non-voting common equity included in the registration statement by the estimated public offering price of the shares;
+
+(B) Annual revenues are as of the most recently completed fiscal year for which audited financial statements are available; and
+
+(C) The issuer must reflect the determination of whether it came within the definition of smaller reporting company in the registration statement and must appropriately indicate on the cover page of the filing, and subsequent filings for the fiscal year in which the filing is made, whether it is a smaller reporting company. The issuer must re-determine its status at the end of its second fiscal quarter and then reflect any change in status as provided in paragraph (f)(2)(i)(C) of this section. In the case of a determination based on an initial Securities Act registration statement, an issuer that was not determined to be a smaller reporting company has the option to re-determine its status at the conclusion of the offering covered by the registration statement based on the actual offering price and number of shares sold.
+
+(iii) Once an issuer determines that it does not qualify for smaller reporting company status because it exceeded one or more of the current thresholds, it will remain unqualified unless when making its annual determination either:
+
+(A) It determines that its public float was less than $200 million; or
+
+(B) It determines that its public float and its annual revenues meet the requirements for subsequent qualification included in the following chart:
+
+|    Prior annual revenues     |                Prior public float                |                                          |
+|------------------------------|--------------------------------------------------|------------------------------------------|
+|None or less than $700 million|               $700 million or more               |                                          |
+|    Less than $100 million    |            Neither threshold exceeded            |Public float - Less than $560 million; and|
+|                              |                                                  |    Revenues - Less than $100 million.    |
+|     $100 million or more     |Public float - None or less than $700 million; and|Public float - Less than $560 million; and|
+|                              |         Revenues - Less than $80 million         |    Revenues - Less than $80 million.     |
+
+Instruction 1 to paragraph (f): A registrant that qualifies as a smaller reporting company under the public float thresholds identified in paragraphs (f)(1)(i) and (f)(2)(iii)(A) of this section will qualify as a smaller reporting company regardless of its revenues.
+
+[47 FR 11401, Mar. 16, 1982, as amended at 52 FR 21260, June 5, 1987; 58 FR 14665, Mar. 18, 1993; 58 FR 62029, Nov. 23, 1993; 60 FR 32824, June 23, 1995; 64 FR 61443, Nov. 10, 1999; 68 FR 4831, Jan. 30, 2003; 70 FR 1593, Jan. 7, 2005; 73 FR 956, Jan. 4, 2008; 76 FR 46617, Aug. 3, 2011; 83 FR 32018, July 10, 2018]

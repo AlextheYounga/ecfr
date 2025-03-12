@@ -8,50 +8,72 @@ Cedar Point National Wildlife Refuge
 
 *B. Upland Game Hunting.* [Reserved]
 
-*C. Big Game Hunting.* [Reserved]
+*C. Big Game Hunting.* We allow white-tailed deer hunting on designated dates in the controlled hunt areas of the refuge in accordance with State regulations and subject to the following conditions:
+
+1. You must possess and carry a State-issued permit. All hunters must check in and out at the refuge check station. We require hunters to check out with the State-issued Harvest Card no later than 2 hours after the conclusion of their controlled hunt.
+
+2. We require hunters to remain within their assigned unit.
+
+3. We require hunters to obtain permission from refuge officials before tracking a wounded deer out of the assigned hunting unit.
+
+4. We prohibit hunting or shooting within 150 feet (45.7 meters) of any structure, building, or parking lot.
 
 *D. Sport Fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
-1. You may fish only during daylight hours during designated dates.
+1. We allow fishing from legal sunrise to legal sunset during designated dates.
 
-2. We do not allow boats or flotation devices.
+2. We allow boats and flotation devices.
 
 Ottawa National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of goose and duck on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, rails, gallinule, coot, dove, woodcock, and snipe on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. You must possess and carry a State-issued permit. All hunters must check-in and out at the State hunter check station.
+1. On controlled waterfowl hunt units, we allow hunting of goose, duck, and coot in accordance with State regulations and subject to the following conditions:
 
-2. We require that hunting stop at 12 p.m. (noon) each day.
+i. You must stop hunting at 12 p.m. (noon) each day.
 
-3. We require that hunters hunt within 75 yards (67.5 m) of the assigned blind.
+ii. You must stay in your assigned hunt unit.
 
-4. You may only possess approved nontoxic shotshells (see § 32.2(k)) while in the field in quantities of 25 or less.
+iii. You may possess no more than 25 shot shells.
 
-*B. Upland Game Hunting.* [Reserved]
+2. On public hunting units, we allow hunting of ducks, geese, rails, gallinule, coot, dove, woodcock, and snipe in accordance with State regulations and subject to the following conditions:
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+i. We allow refuge access from 11/2 hours prior to the State-listed morning shooting time and 1 hour after the State-listed evening shooting time.
 
-1. We require hunters to possess and carry a State-issued permit.
+ii. We allow the use of hunting dogs, provided the dog is under the immediate control of the hunter at all times.
 
-2. We require that hunters check out at the refuge check station with a State-issued Big Game Harvest Report no later than 1 hour after the conclusion of their controlled hunt.
+iii. We allow nonmotorized boats in areas open to waterfowl hunting during the waterfowl hunting seasons with the following exception: We allow motorized boats in the Metzger Marsh and Two Rivers units.
 
-3. We require that hunters wear a hat and outer jacket/vest that is blaze orange.
+*B. Upland Game Hunting.* We allow hunting of pheasant, squirrel, rabbit, fox, raccoon, skunk, opossum, groundhog, and coyote on designated public hunting units of the refuge in accordance with State regulations and subject to the following conditions:
 
-4. We require that hunters remain within their assigned unit.
+1. Conditions A.2.i and A.2.ii apply.
 
-5. We prohibit possession of more than one hunting weapon while in the field.
+2. We prohibit the use of buckshot for any hunting on the refuge.
 
-6. We prohibit the construction or use of permanent blinds or tree stands.
+*C. Big Game Hunting.* We allow hunting of white-tailed deer and wild turkey on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-7. We require that hunters obtain permission from refuge officials before tracking a wounded deer out of their assigned hunting unit.
+1. On controlled deer hunt units, we allow hunting of white-tailed deer only in accordance with State regulations and subject to the following conditions:
 
-8. We prohibit shooting from any road.
+i. We require hunters to possess and carry a State-issued permit. You must check in and out at the refuge check station using the State-issued Harvest Card no later than 2 hours after the conclusion of your hunt.
 
-*D. Sport Fishing.* We allow fishing on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+ii. You must remain within your assigned unit.
+
+iii. You must obtain permission from refuge officials before tracking a wounded deer out of your assigned hunting unit.
+
+iv. We prohibit hunting or shooting within 150 feet (45.7 meters) of any structure, building, or parking lot.
+
+2. We allow hunting of white-tailed deer and turkey on designated public hunting units of the refuge in accordance with State regulations and subject to the following conditions:
+
+i. Conditions A.2.i and B2 apply.
+
+ii. We allow only portable deer stands for hunting. We allow only one tree stand per hunter per refuge unit. We allow placement of tree stands after September 1 and require hunters to remove tree stands by March 1 of each year. We require deer stands to be labeled with owner's name and address.
+
+iii. For hunting, you may use or possess only approved nontoxic shot shells while in the field, including shot shells used for hunting wild turkey (see § 32.2(k)).
+
+*D. Sport Fishing.* We allow fishing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
 1. We allow fishing from legal sunrise to legal sunset during designated dates.
 
-2. We prohibit boats or flotation devices.
+2. We allow boats and flotation devices in designated areas.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 60 FR 61492, Nov. 30, 1995; 65 FR 30789, May 12, 2000; 65 FR 56407, Sept. 18, 2000; 69 FR 54362, 54444, Sept. 8, 2004; 73 FR 33194, June 11, 2008; 76 FR 3988, Jan. 21, 2011; 79 FR 14837, Mar. 17, 2014]
+[83 FR 45800, Sept. 10, 2018]

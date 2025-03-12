@@ -224,53 +224,61 @@ Emiquon National Wildlife Refuge
 
 Great River National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of waterfowl and coot on the Long Island Division of the refuge in accordance with State and Federal regulations and subject to the following conditions:
+*A. Migratory Game Bird Hunting.* We allow hunting of waterfowl and coot on the Long Island and Slim Island Divisions of the refuge in accordance with State and Federal regulations, and subject to the following conditions:
 
-1. We allow hunting only from blinds constructed on sites posted by the Illinois Department of Natural Resources.
+1. On the Long Island Division, we allow hunting only from blinds constructed on sites posted by the Illinois Department of Natural Resources.
 
 2. For hunting, you may use or possess only approved nontoxic shot shells while in the field, including shot shells used for hunting wild turkey (see § 32.2(k)).
 
-*B. Upland Game Hunting.* We allow hunting of small game, furbearers, and game birds on the Long Island, Fox Island, Cherry Box, and Hickory Creek Divisions of the refuge in accordance with State regulations and subject to the following conditions:
+*B. Upland Game Hunting.* We allow hunting of small game, furbearers, and game birds on the Long Island, Fox Island, and Slim Island Divisions, and Cherry Box and Hickory Creek Units of the refuge in accordance with State regulations and subject to the following conditions:
 
 1. Condition A2 applies.
 
-2. We open refuge divisions for upland game hunting from1/2 hour before legal sunrise to1/2 hour after legal sunset.
+2. We open refuge divisions for upland game hunting from1/2 hour before legal sunrise to1/2 hour after legal sunset. On the Cherry Box and Hickory Creek Units, we allow hunting with shotgun only during the Statewide upland game season.
 
-3. We allow hunting with shotgun only during the Statewide upland game season.
-
-4. We close Fox Island Division to all upland game hunting from October 16 through December 31.
+3. We close Fox Island Division to all upland game hunting from October 16 through December 31.
 
 *C. Big Game Hunting.* We allow hunting of white-tailed deer and turkey on designated portions of the refuge in accordance with State regulations and subject to the following conditions:
 
 1. Condition A2 applies, except for when hunting for white-tailed deer.
 
-2. We prohibit construction or use of permanent blinds, platforms, or ladders (see § 27.92 of this chapter).
+2. We only allow portable tree stands from September 1 through January 31 of each year. The hunter's full name, address, and State-generated hunter identification number must be permanently attached in a visible location on the stand. Limit one stand per hunter.
 
-3. We only allow portable tree stands from September 1 through January 31 of each year. The hunter's full name, address, and State-generated hunter identification number must be permanently attached in a visible location on the stand. Limit one stand per hunter.
+3. On the Fox Island and Slim Island Divisions, we only allow deer hunting during the Statewide archery deer season and special State-managed hunts.
 
-4. We prohibit hunting over or placing on the refuge any salt or other mineral blocks (see § 32.2(h)).
+4. On the Cherry Box and Hickory Creek Units, we allow deer hunting during the Statewide archery deer season only.
 
-5. On the Fox Island Division, we only allow deer hunting during the Statewide archery deer season and special managed hunts.
-
-6. On the Cherry Box and Hickory Creek divisions, we allow deer hunting during the Statewide archery deer season only.
-
-7. On the Delair Division, we only allow deer hunting during special managed hunts and subject to the following conditions:
+5. On the Delair Division, we only allow deer hunting during special managed hunts and subject to the following conditions:
 
 i. You must possess and carry a refuge permit (hunt letter) when hunting.
 
-ii. You must register at the hunter sign-in/out station and record the sex and age of deer harvested on the Big Game Harvest Report (FWS Form 3-2359).
+ii. You must register at the hunter sign-in/out station and record the sex and age of deer harvested on the Big Game Harvest Report (FWS Form 3-2359). Shooting hours end at 3 p.m. each day.
 
-iii. Shooting hours end at 3 p.m. each day.
+6. On the Long Island Division, we allow deer and turkey hunting in accordance with State seasons and regulations.
 
-8. On the Long Island Division, we allow deer and turkey hunting in accordance with State seasons and regulations.
+7. On the Slim Island Division, we allow turkey hunting in accordance with State seasons and regulations.
 
-9. On the Fox Island, Cherry Box, and Hickory Creek Divisions, we allow turkey hunting during the state spring season, youth season, and fall archery season.
+8. On the Fox Island Division, Cherry Box Unit, and Hickory Creek Unit, we allow turkey hunting during the State spring season, youth season, and fall archery season.
 
-*D. Sport Fishing.* We allow fishing on the Long Island and Fox Island Divisions of the refuge in accordance with State regulations subject to the following conditions:
+*D. Sport Fishing.* We allow fishing on the Long Island, Fox Island, and Slim Island Divisions of the refuge in accordance with State regulations and subject to the following conditions:
 
 1. We prohibit the taking of turtle and frog (see § 27.21 of this chapter).
 
 2. On the Fox Island Division, we only allow bank fishing along any portion of the Fox River from January 1 through October 15.
+
+Hackmatack National Wildlife Refuge
+
+*A. Migratory Game Bird Hunting.* We allow hunting of migratory game birds on designated areas of the refuge in accordance with Federal and State regulations, and subject to the following condition: We allow the use of only portable or temporary blinds.
+
+*B. Upland Game Hunting.* We allow upland game hunting on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+
+1. We allow the use of only portable or temporary blinds.
+
+2. For hunting, you may possess only approved nontoxic shot shells while in the field, including shot shells used for hunting wild turkey (see § 32.2(k)).
+
+*C. Big Game Hunting.* We allow big game hunting on designated areas of the refuge in accordance with State regulations and subject to the following condition: Condition B.2 applies.
+
+*D. Sport Fishing.* [Reserved]
 
 Kankakee National Wildlife Refuge
 
@@ -430,4 +438,4 @@ Upper Mississippi River National Wildlife and Fish Refuge
 
 Refer to § 32.42 Minnesota for regulations.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29074, May 18, 1993; 59 FR 6685, 6692, Feb. 11, 1994; 59 FR 55185, Nov. 3, 1994; 60 FR 62041, Dec. 4, 1995; 61 FR 45366, Aug. 29, 1996; 61 FR 46394, Sept. 3, 1996; 62 FR 47378, Sept. 9, 1997; 63 FR 46916, Sept. 3, 1998; 65 FR 30782, May 12, 2000; 65 FR 56402, Sept. 18, 2000; 66 FR 46356, Sept. 4, 2001; 67 FR 58944, Sept. 18, 2002; 69 FR 54362, 54387, Sept. 8, 2004; 69 FR 55995, Sept. 17, 2004; 70 FR 54166, Sept. 13, 2005; 72 FR 51542, Sept. 7, 2007; 73 FR 33172, June 11, 2008; 76 FR 3959, Jan. 21, 2011; 76 FR 56068, Sept. 9, 2011; 77 FR 56040, Sept. 11, 2012; 79 FR 14827, Mar. 17, 2014; 80 FR 51901, Aug. 26, 2015; 81 FR 68897, Oct. 4, 2016; 82 FR 51952, Nov. 8, 2017]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29074, May 18, 1993; 59 FR 6685, 6692, Feb. 11, 1994; 59 FR 55185, Nov. 3, 1994; 60 FR 62041, Dec. 4, 1995; 61 FR 45366, Aug. 29, 1996; 61 FR 46394, Sept. 3, 1996; 62 FR 47378, Sept. 9, 1997; 63 FR 46916, Sept. 3, 1998; 65 FR 30782, May 12, 2000; 65 FR 56402, Sept. 18, 2000; 66 FR 46356, Sept. 4, 2001; 67 FR 58944, Sept. 18, 2002; 69 FR 54362, 54387, Sept. 8, 2004; 69 FR 55995, Sept. 17, 2004; 70 FR 54166, Sept. 13, 2005; 72 FR 51542, Sept. 7, 2007; 73 FR 33172, June 11, 2008; 76 FR 3959, Jan. 21, 2011; 76 FR 56068, Sept. 9, 2011; 77 FR 56040, Sept. 11, 2012; 79 FR 14827, Mar. 17, 2014; 80 FR 51901, Aug. 26, 2015; 81 FR 68897, Oct. 4, 2016; 82 FR 51952, Nov. 8, 2017; 83 FR 45779, Sept.10, 2018]

@@ -20,6 +20,10 @@ Fox River National Wildlife Refuge
 
 *D. Sport Fishing.* [Reserved]
 
+Hackmatack National Wildlife Refuge
+
+Refer to § 32.32 Illinois for regulations.
+
 Horicon National Wildlife Refuge
 
 *A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge in accordance with State regulations and subject to the following condition: We allow only participants in the Learn to Hunt and other special programs to hunt.
@@ -138,33 +142,37 @@ St. Croix Wetland Management District
 
 *C. Big Game Hunting.* We allow hunting of big game throughout the district except that you may not hunt on designated portions of the St. Croix Prairie Waterfowl Production Area in St. Croix County.
 
-*D. Sport Fishing.* [Reserved]
+*D. Sport Fishing.* We allow sport fishing on Waterfowl Production Areas throughout the District in accordance with State regulations and subject to the following condition: We prohibit the use of motorized boats.
 
 Trempealeau National Wildlife Refuge
 
 *A. Migratory Game Bird Hunting.* We allow hunting of migratory game birds on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. We require a refuge permit.
+1. We allow hunting of ducks, mergansers, geese, coots, mourning dove, sora, Virginia rail, woodcock, snipe, and crow on refuge lands north of the main channel of the Trempealeau River and north of State Highway 35/54, subject to the following conditions:
 
-2. For hunting, you may use or possess only approved nontoxic shot shells (see § 32.2(k)).
+i. We allow only the use of portable or temporary blinds.
 
-*B. Upland Game Hunting. [Reserved]*
+ii. We allow the use of hunting dogs for bird hunting, provided the dog is under the immediate control of the hunter at all times.
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer on designated areas of the refuge subject to the following condition: We require a refuge permit.
+2. We allow hunting of ducks, mergansers, geese, and coots on refuge lands south of the main channel of the Trempealeau River and south of State Highway 35/54, subject to the following condition: We require a refuge permit.
 
-*D. Sport Fishing.* We allow fishing on designated areas of the refuge from legal sunrise to legal sunset in accordance with State laws for inland waters subject to the following conditions:
+*B. Upland Game Hunting.* We allow hunting of wild turkey, ruffed grouse, ring-necked pheasant, bobwhite quail, Hungarian partridge, sharp-tailed grouse, coyote, gray and red fox, bobcat, raccoon, snowshoe hare, cottontail rabbit, and gray and red squirrel only on refuge land north of the main channel of the Trempealeau River and north of State Highway 35/54 in accordance with State regulations and subject to the following condition: Conditions A.1.i and A.1.ii apply on the refuge (see § 32.2(k)).
 
-1. We allow boats propelled by hand or electric motors only on refuge pools. We do not prohibit the possession of other watercraft motors, only their use. We do not restrict gasoline-powered motors on the navigable channel of the Trempealeau River.
+*C. Big Game Hunting.* We allow hunting of white-tailed deer on designated areas of the refuge subject to the following conditions:
 
-2. We prohibit harvest of turtle, snake, frog, or any other reptile or amphibian (see § 27.21 of this chapter).
+1. We prohibit the use of rifles for deer hunting on all refuge land south of the main channel of the Trempealeau River and south of State Highway 35/54.
 
-3. We prohibit the release of live bait.
+2. On refuge land north of the main channel of the Trempealeau River and north of State Highway 35/54, we allow white-tailed deer hunting during the state archery, muzzleloader, and firearms seasons. We allow hunting during the Youth Gun Deer Hunt and the Gun Hunt for Hunters with Disabilities in accordance with State regulations.
 
-4. We prohibit night-lighting, archery, spearing, or netting of fish.
+3. On refuge land south of the main channel of the Trempealeau River and south of State Highway 35/54, we allow white-tailed deer hunting only by refuge permit.
 
-5. We prohibit fishing within 200 feet (60 m) of a water control structure as per State regulation.
+*D. Sport Fishing.* We allow fishing on designated areas of the refuge from legal sunrise to legal sunset in accordance with State laws for inland waters and subject to the following conditions:
 
-6. Anglers must remove ice fishing shelters from the refuge at the end of each day.
+1. We allow only boats propelled by hand or electric motors on refuge pools. We do not prohibit the possession of other watercraft motors, only their use.
+
+2. We prohibit harvest of turtle.
+
+3. We prohibit night-lighting, archery, spearing, or netting of fish.
 
 Upper Mississippi River National Wildlife and Fish Refuge
 
@@ -200,4 +208,4 @@ Whittlesey Creek National Wildlife Refuge
 
 *D. Sport Fishing.* [Reserved]
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29077, May 18, 1993; 59 FR 6700, Feb. 11, 1994; 60 FR 62048, Dec. 4, 1995; 61 FR 46399, Sept. 3, 1996; 62 FR 47383, Sept. 9, 1997; 63 FR 46922, Sept. 3, 1998; 65 FR 30794, May 12, 2000; 65 FR 56411, Sept. 18, 2000; 66 FR 46362, Sept. 4, 2001; 67 FR 58952, Sept. 18, 2002; 69 FR 54362, 54473, Sept. 8, 2004; 70 FR 54197, Sept. 13, 2005; 72 FR 51545, Sept. 7, 2007; 73 FR 33200, June 11, 2008; 73 FR 51161, Aug. 29, 2008; 76 FR 4000, Jan. 21, 2011; 76 FR 56090, Sept. 9, 2011; 79 FR 14844, Mar. 17, 2014; 80 FR 51934, Aug. 26, 2015; 82 FR 51961, Nov. 8, 2017]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29077, May 18, 1993; 59 FR 6700, Feb. 11, 1994; 60 FR 62048, Dec. 4, 1995; 61 FR 46399, Sept. 3, 1996; 62 FR 47383, Sept. 9, 1997; 63 FR 46922, Sept. 3, 1998; 65 FR 30794, May 12, 2000; 65 FR 56411, Sept. 18, 2000; 66 FR 46362, Sept. 4, 2001; 67 FR 58952, Sept. 18, 2002; 69 FR 54362, 54473, Sept. 8, 2004; 70 FR 54197, Sept. 13, 2005; 72 FR 51545, Sept. 7, 2007; 73 FR 33200, June 11, 2008; 73 FR 51161, Aug. 29, 2008; 76 FR 4000, Jan. 21, 2011; 76 FR 56090, Sept. 9, 2011; 79 FR 14844, Mar. 17, 2014; 80 FR 51934, Aug. 26, 2015; 82 FR 51961, Nov. 8, 2017; 83 FR 45809, Sept. 10, 2018]

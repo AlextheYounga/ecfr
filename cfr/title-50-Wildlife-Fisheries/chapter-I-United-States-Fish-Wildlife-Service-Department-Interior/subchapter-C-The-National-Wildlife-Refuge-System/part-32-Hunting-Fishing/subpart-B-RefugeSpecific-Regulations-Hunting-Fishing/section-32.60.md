@@ -268,45 +268,35 @@ Pinckney Island National Wildlife Refuge
 
 2. We require a refuge hunt permit (name/address/phone number) for all hunters chosen in the lottery who are age 16 and older. You must sign the refuge hunt permit and carry it at all times when hunting. We charge a fee for all hunt permits.
 
-3. Hunters must check-in at the designated check station between 4 a.m. and 5 a.m. and park in the designated area prior to hunting. We require personal identification at check-in.
+3. Hunters must check-in at the designated check station and park in the designated area prior to hunting. We require personal identification at check-in.
 
-4. We will allow hunters to operate their personal vehicles on the main gravel trail only. Movement within all other areas of the refuge must be by foot or bicycle. We limit entry and exit points for authorized motor vehicles to designated check stations or other specified areas (see § 27.31 of this chapter). We prohibit entry by boat, and we prohibit hunters to leave by boat to reach other parts of the island.
+4. We prohibit entry by boat, and we prohibit hunters to leave by boat to reach other parts of the island.
 
-5. We require hunters to wear an outer garment that contains a minimum of 500 square inches (3,250 cm2) of hunter-orange material above the waistline.
+5. We prohibit the use of organized drives for taking or attempting to take game.
 
-6. We prohibit the use of organized drives for taking or attempting to take game.
+6. Each hunter may place one stand on the refuge during the week preceding the hunt. They must remove their stand at the end of the hunt (see § 27.93 of this chapter).
 
-7. Each hunter may place one stand on the refuge during the week preceding the hunt. They must remove their stand at the end of the hunt (see § 27.93 of this chapter).
+7. We allow only shotguns (20 gauge or larger; slugs only), muzzleloaders, and bows, in accordance with State regulations, for hunting.
 
-8. We prohibit camping on the refuge.
-
-9. We allow only shotguns (20 gauge or larger; slugs only), muzzleloaders, and bows, in accordance with State regulations, for hunting.
-
-10. Hunters must be on their stands from1/2 hour before legal sunrise until 9 a.m. and from 2 hours before legal sunset until1/2 hour after legal sunset.
-
-11. We prohibit hunting closer than 100 yards (90 m) to U.S. Highway 278 or the check station area, or closer than 200 yards (180 m) to the residence area.
+8. We prohibit hunting closer than 100 yards (90 m) to U.S. Highway 278 or the check station area, or closer than 200 yards (180 m) to the residence area.
 
 12. We prohibit flagging, blazing, or using other trail-marking devices to locate stands or for any other purpose.
 
-13. Refuge personnel must check deer harvested during a scheduled hunt before hunters leave the refuge.
+9. Refuge personnel must check deer harvested during a scheduled hunt before hunters leave the refuge.
 
-14. You may take five deer (no more than two antlered).
+10. You may take five deer (no more than two antlered).
 
-15. We close the refuge to the public on hunt days.
+11. We will close the refuge to the nonhunting public on hunt days.
 
-16. Youth hunters age 15 and younger must remain within sight and normal voice contact of an adult age 21 or older, possessing a license. One adult may supervise no more than one youth hunter.
+12. Youth hunters age 15 and younger must remain within sight and normal voice contact of an adult age 21 or older. One adult may supervise no more than one youth hunter.
 
-17. We prohibit the use of trail or game cameras.
-
-18. Persons possessing, transporting, or carrying firearms on national wildlife refuges must comply with all provisions of State and local law. Persons may only use (discharge) firearms in accordance with refuge regulations (§ 27.42 of this chapter and specific refuge regulations in part 32.)
+13. We prohibit the use of trail or game cameras.
 
 *D. Sport Fishing.* We allow fishing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
 1. We allow saltwater fishing year-round in the estuarine waters adjacent to the refuge.
 
 2. We prohibit freshwater fishing.
-
-3. We require a South Carolina saltwater fishing license.
 
 Santee National Wildlife Refuge
 
@@ -512,4 +502,4 @@ Waccamaw National Wildlife Refuge
 
 *D. Sport Fishing.* We allow fishing in accordance with State regulations.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29076, May 18, 1993; 58 FR 29085, May 18, 1993; 59 FR 6698, Feb. 11, 1994; 59 FR 55188, Nov. 3, 1994; 60 FR 62047, Dec. 4, 1995; 63 FR 46921, Sept. 3, 1998; 65 FR 30791, May 12, 2000; 65 FR 56408, Sept. 18, 2000; 66 FR 46361, Sept. 4, 2001; 67 FR 58949, Sept. 18, 2002; 69 FR 54362, 54449, Sept. 8, 2004; 70 FR 54190, Sept. 13, 2005; 73 FR 33196, June 11, 2008; 74 FR 45696, Sept. 3, 2009; 75 FR 18426, Apr. 12, 2010; 76 FR 3989, Jan. 21, 2011; 76 FR 56085, Sept. 9, 2011; 77 FR 56057, Sept. 11, 2012; 80 FR 51929, Aug. 26, 2015; 81 FR 68914, Oct. 4, 2016]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29076, May 18, 1993; 58 FR 29085, May 18, 1993; 59 FR 6698, Feb. 11, 1994; 59 FR 55188, Nov. 3, 1994; 60 FR 62047, Dec. 4, 1995; 63 FR 46921, Sept. 3, 1998; 65 FR 30791, May 12, 2000; 65 FR 56408, Sept. 18, 2000; 66 FR 46361, Sept. 4, 2001; 67 FR 58949, Sept. 18, 2002; 69 FR 54362, 54449, Sept. 8, 2004; 70 FR 54190, Sept. 13, 2005; 73 FR 33196, June 11, 2008; 74 FR 45696, Sept. 3, 2009; 75 FR 18426, Apr. 12, 2010; 76 FR 3989, Jan. 21, 2011; 76 FR 56085, Sept. 9, 2011; 77 FR 56057, Sept. 11, 2012; 80 FR 51929, Aug. 26, 2015; 81 FR 68914, Oct. 4, 2016; 83 FR 45802, Sept. 10, 2018]

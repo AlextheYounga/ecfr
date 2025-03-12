@@ -6,53 +6,35 @@ Anahuac National Wildlife Refuge
 
 *A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, coot, white-winged dove, mourning dove, Eurasian collared-dove, and rock pigeon on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. You must carry a current signed refuge hunting permit (signed brochure) while waterfowl hunting on all refuge hunt units.
+1. You must carry a current signed refuge hunting permit (signed brochure - Hunting Regulations) while waterfowl hunting on all refuge hunt units.
 
-2. Season dates for waterfowl will be concurrent with the State, except as specified in the refuge hunting permit (signed brochure).
+2. Hunters age 17 and younger must be under the direct supervision of an adult age 18 or older.
 
-3. For waterfowl hunting, you may enter the refuge hunt units no earlier than 4 a.m. Hunting starts at the designated legal shooting time and ends at 12 p.m. (noon). You must leave refuge hunt units by 12:30 p.m. For dove hunting, you may enter the refuge an hour before legal sunrise and must leave the refuge by1/2 hour after legal sunset. We close refuge hunt units on Thanksgiving, Christmas, and New Year's Day.
+3. We close refuge hunt units on Thanksgiving, Christmas, and New Year's Day.
 
-4. For waterfowl hunting, we allow hunting in portions of the East Unit on Saturdays, Sundays, and Tuesdays during the regular waterfowl seasons. We require payment of a $10 per day or $40 per year to hunt on the East Unit. All hunters must check in and out through the check station when accessing the East Unit by vehicle. We will allow a limited number of parties to access the East Unit by vehicle. All hunters entering the East Unit through the check station will designate a hunt area on a first-come, first-served basis (special duck hunt areas will be assigned through a random drawing). We will require hunters to remain in an assigned area for that day's hunt. We allow hunters to access designated areas of the East Unit by boat from Jackson Ditch, East Bay Bayou, or Onion Bayou. We require hunters accessing the East Unit by boat from Jackson Ditch, East Bay Bayou, or Onion Bayou to pay the $40 annual fee. We prohibit access to the East Unit Reservoirs from Onion Bayou via boat. We prohibit the use of motorized boats on the East Unit, except on ponds accessed from Jackson Ditch via Onion Bayou. We prohibit motorized boats launching from the East Unit. For dove hunting, you are allowed to access and hunt the designated areas on the East Unit by vehicles via Farm Market Road 1985 only. Hunters are required to follow rules published annually by TPWD relating to the TPWD AHP.
+4. We prohibit the use of airboats, marsh buggies, ATVs (see § 27.31(f) of this chapter), and personal watercraft.
 
-5. We allow hunting on the East Unit Special Goose Hunt Areas by permit on a first-come, first-served basis the morning of the hunt. Hunters must have goose decoys to hunt the Special Goose Hunt Areas. We allow a minimum of two and a maximum of six persons per permit. All Special Goose Hunt Area hunters must accompany a valid permit holder. Individuals in each group must set up and stay in their permitted area and stay within 50 feet (15 m) of each other unless retrieving goose.
+5. On inland waters of refuge hunt areas open to motorized boats, we restrict the operation of motorized boats to lakes, ponds, ditches, and other waterways. We prohibit the operation of motorized boats on or through emergent wetland vegetation.
 
-6. We randomly draw permits the morning of the hunt for the East Unit Special Duck Hunt Areas. Hunters must set up within 50 yards (45 m) of the post marker and must stay within 50 feet (15 m) of each other unless retrieving waterfowl. We allow a minimum of two and a maximum of six persons per permit.
+6. On inland waters of the refuge hunt areas open to motorized boats, we restrict the use of boats to those powered by a single engine of 25 horsepower or less and utilizing a propeller 9 inches (22.5 centimeters) in diameter or less.
 
-7. We allow hunting in the Pace Tract daily during the September teal season and regular waterfowl season.
+7. For waterfowl hunting, we allow hunting in portions of the East Unit on specified days during the regular waterfowl seasons. We prohibit motorized boats launching from the East Unit.
 
-8. All hunters using the Oyster Bayou Boat Ramp must register at the main refuge entrance.
+8. We allow hunting in portions of the Middleton Tract and the Pace Tract during early teal season and regular waterfowl season during designated dates and on designated areas of the refuge.
 
-9. We allow hunting in portions of the Middleton Tract daily during the September teal season and on Saturdays, Sundays, and Wednesdays of the regular waterfowl season. We restrict motorized boats in inland waters of the Middleton Tract to motors of 25 hp or less or electric trolling motors.
+9. Light goose conservation order will be concurrent with State regulations in designated areas and on designated dates.
 
-10. Hunters age 17 and under must be under the direct supervision of an adult age 18 or older.
-
-11. We only allow shotguns for waterfowl hunting.
-
-12. We prohibit the use of airboats, marsh buggies, ATVs (see § 27.31(f) of this chapter) and personal watercraft.
-
-13. On inland waters of refuge hunt areas open to motorized boats, we restrict the operation of motorized boats to lakes, ponds, ditches, and other waterways. We prohibit the operation of motorized boats on or through emergent wetland vegetation.
-
-14. On inland waters of the refuge hunt areas open to motorized boats, we restrict the use of boats powered by air-cooled or radiator-cooled engines to those powered by a single engine of 25 hp or less and utilizing a propeller 9 inches (22.5 cm) in diameter or less.
-
-15. We only allow vehicular travel on designated roads and in parking areas. We prohibit hunting from roads and blocking access to any road or trail entering or on the refuge (see § 27.31(h) of this chapter).
-
-16. We prohibit pits and permanent blinds. We allow portable blinds or temporary natural vegetation blinds. You must remove all blinds from the refuge daily (see §§ 27.93 and 27.94 of this chapter).
-
-17. The minimum permitted distance between hunt parties is 200 yards (180 m).
-
-18. Dogs accompanying hunters must be under the immediate control of handlers at all times (see § 26.21(b) of this chapter).
-
-19. You must remove all decoys, boats, spent shells, marsh chairs, and other equipment (see § 27.93 of this chapter) from the refuge daily. We prohibit the use of plastic flagging, reflectors, or reflective tape.
+10. We allow dove hunting in designated areas and concurrent with State regulations.
 
 *B. Upland Game Hunting.* [Reserved]
 
 *C. Big Game Hunting.* [Reserved]
 
-*D. Sport Fishing.* We allow fishing and crabbing on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*D. Sport Fishing.* We allow fishing and crabbing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
 1. We allow fishing and crabbing on shoreline areas on East Galveston Bay, along East Bay Bayou on the East Bay Bayou Tract, along West Line Road to the southern end of Shoveler Pond, along the canal from the Oyster Bayou Boat Ramp to the southwest corner of Shoveler Pond, and along the banks of Shoveler Pond.
 
-2. We allow fishing and crabbing only with pole and line, rod and reel, or handheld line. We prohibit the use any method not expressly allowed, including trotlines, setlines, jug lines, limb lines, bows and arrows, gigs, spears, or crab traps.
+2. We allow fishing and crabbing only with pole and line, rod and reel, or handheld line. We prohibit the use of any method not expressly allowed, including trotlines, setlines, jug lines, limb lines, bows and arrows, gigs, spears, or crab traps.
 
 3. We allow cast netting for bait for personal use along waterways in areas open to the public and along public roads.
 
@@ -892,4 +874,4 @@ Trinity River National Wildlife Refuge
 
 5. We limit motors to a maximum of 10 hp. We prohibit fishing or enter within 200 yards (180 m) of an established bird rookery from March through the end of June. Check at refuge headquarters for rookery locations.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29076, May 18, 1993; 59 FR 6698, Feb. 11, 1994; 59 FR 55188, Nov. 3, 1994; 62 FR 47382, Sept. 9, 1997; 63 FR 46921, Sept. 3, 1998; 65 FR 30792, May 12, 2000; 65 FR 56408, Sept. 18, 2000; 66 FR 46361, Sept. 4, 2001; 67 FR 58950, Sept. 18, 2002; 69 FR 54362, 54457, Sept. 8, 2004; 69 FR 55995, Sept. 17, 2004; 70 FR 54192, Sept. 13, 2005; 73 FR 33197, June 11, 2008; 74 FR 45697, Sept. 3, 2009; 76 FR 3993, Jan. 21, 2011; 76 FR 56086, Sept. 9, 2011; 76 FR 59304, Sept. 26, 2011; 77 FR 56062, Sept. 11, 2012; 79 FR 14842, Mar. 17, 2014; 80 FR 51931, Aug. 26, 2015; 81 FR 68918, Oct. 4, 2016; 82 FR 51959, Nov. 8, 2017]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29076, May 18, 1993; 59 FR 6698, Feb. 11, 1994; 59 FR 55188, Nov. 3, 1994; 62 FR 47382, Sept. 9, 1997; 63 FR 46921, Sept. 3, 1998; 65 FR 30792, May 12, 2000; 65 FR 56408, Sept. 18, 2000; 66 FR 46361, Sept. 4, 2001; 67 FR 58950, Sept. 18, 2002; 69 FR 54362, 54457, Sept. 8, 2004; 69 FR 55995, Sept. 17, 2004; 70 FR 54192, Sept. 13, 2005; 73 FR 33197, June 11, 2008; 74 FR 45697, Sept. 3, 2009; 76 FR 3993, Jan. 21, 2011; 76 FR 56086, Sept. 9, 2011; 76 FR 59304, Sept. 26, 2011; 77 FR 56062, Sept. 11, 2012; 79 FR 14842, Mar. 17, 2014; 80 FR 51931, Aug. 26, 2015; 81 FR 68918, Oct. 4, 2016; 82 FR 51959, Nov. 8, 2017; 83 FR 45804, Sept. 10, 2018]

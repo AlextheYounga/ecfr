@@ -84,25 +84,23 @@ Cold Springs National Wildlife Refuge
 
 1. We prohibit overnight camping and/or parking.
 
-2. You may possess only approved nontoxic shot for hunting (see § 32.2(k)).
+2. We prohibit discharge of any firearm within1/4 mile (396 meters (m)) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals. You may not shoot or discharge any firearm from, across, or along a public highway, designated route of travel, road, road shoulder, road embankment, or designated parking area.
 
-3. We prohibit discharge of any firearm within 1-4 mile (396 meters (m)) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals. You may not shoot or discharge any firearm from, across, or along a public highway, designated route of travel, road, road shoulder, road embankment, or designated parking area.
+3. We allow hunting only on Tuesdays, Thursdays, Saturdays, Sundays, and all federally recognized holidays within the State season, with the exception of dove. We only allow hunting for all dove species within the State mourning dove season.
 
-4. We allow only portable blinds and temporary blinds constructed of nonliving natural materials. Hunters must remove all decoys and other equipment (see § 27.93 of this chapter) at the end of each day.
-
-5. We allow hunting only on Tuesdays, Thursdays, Saturdays, Sundays, and all federally-recognized holidays within the State season.
-
-6. We reserve parking lot F solely for Memorial Marsh Unit waterfowl hunters.
-
-7. On the Memorial Marsh Unit, we allow hunting only from numbered field blind sites, and hunters must park their vehicles only at the numbered post corresponding to the numbered field blind site they are using (see § 27.31 of this chapter). Selection of parking sites/numbered posts is on a first-come, first-served basis at parking lot F. We prohibit free-roam hunting or jump shooting, and you must remain within 100 feet (30 m) of the numbered field blind post unless retrieving birds or setting decoys. We allow a maximum of four persons per blind site.
+4. On the Memorial Marsh Unit, we allow waterfowl hunting only from numbered field blind sites, and hunters must park their vehicles only at the numbered post corresponding to the numbered field blind site they are using (see § 27.31 of this chapter). Selection of parking sites/numbered posts is on a first-come, first-served basis at parking lot F. We prohibit free-roam hunting or jump shooting, and you must remain within 100 feet (30 m) of the numbered field blind post unless retrieving birds or setting decoys. We allow a maximum of four persons per blind site.
 
 *B. Upland Game Hunting.* We allow hunting of upland game birds on designated areas of the refuge in accordance with State regulations subject to the following conditions:
 
 1. Conditions A1, A2, and A3 apply.
 
-2. We allow hunting from 12 p.m. (noon) to legal sunset on Tuesdays, Thursdays, Saturdays, Sundays, and all federally recognized holidays within the State season.
+2. We allow hunting from 12 p.m. (noon) to legal sunset.
 
-*C. Big Game Hunting. [Reserved]*
+*C. Big Game Hunting.* We allow hunting of elk on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+
+1. Conditions A1 and A2 apply.
+
+2. We allow hunting under emergency hunt permit or kill permit only (issued by the State).
 
 *D. Sport Fishing.* We allow fishing on designated areas of the refuge in accordance with State regulations subject to the following conditions:
 
@@ -206,29 +204,19 @@ Lewis and Clark National Wildlife Refuge
 
 Lower Klamath National Wildlife Refuge
 
- *A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, coot and common snipe on designated areas of the refuge in accordance with State laws and regulations, and subject to the following conditions:
+*A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, coot, and common snipe on designated areas of the refuge in accordance with State laws and regulations, and subject to the following conditions:
 
-1. In the controlled waterfowl hunting area, we require a Refuge Recreation Pass (passholder/expiration date) for all hunters age 16 or older. An adult with a valid Recreation Pass (passholder/expiration date) must accompany hunters younger than the age of 16 who are hunting in the controlled area.
+1. In the controlled waterfowl hunting area, we require a valid Refuge Recreation Pass for all hunters age 16 or older. An adult with a valid Recreation Pass must accompany hunters age 17 or younger who are hunting in the controlled area.
 
 2. We require advance reservations for the first 2 days of the hunting season. You may obtain a reservation through the Waterfowl Lottery (Migratory Bird Hunt Application, FWS form 3-2357) each year.
 
-3. Entry hours begin at 5:00 a.m. unless otherwise posted.
+3. Entry hours begin at 4:30 a.m. unless otherwise posted.
 
-4. Only unloaded firearms may be carried on hunter access routes open to motor vehicles or when taken through posted retrieving zones when traveling to and from the hunting areas.
+4. You may not set decoys in retrieving zones.
 
-5. You may not set decoys in retrieving zones.
+5. We prohibit the use of air-thrust and water-thrust boats.
 
-6. We prohibit the use of air-thrust and water-thrust boats.
-
-7. You may possess only approved nontoxic shot while in the field (see § 32.2(k)).
-
- *B. Upland Game Hunting.* We allow hunting of pheasant on designated areas of the refuge in accordance with State regulations, and subject to the following conditions:
-
-1. You must wear an outer garment above the waist that is at least 50 percent blaze orange and visible from both front and back. Outer garments may consist of hat or cap, vest, jacket, shirt, or coat.
-
-2. Only unloaded firearms may be taken through posted retrieving zones when traveling to and from hunting areas.
-
-3. You may possess only approved nontoxic shot while in the field.
+*B. Upland Game Hunting.* We allow hunting of pheasant on designated areas of the refuge in accordance with State regulations, and subject to the following condition: In the controlled pheasant hunting area, we require a valid Refuge Recreation Pass for all hunters age 16 or older. An adult with a valid Recreation Pass must accompany hunters age 17 or younger who are hunting in the controlled area.
 
 *C. Big Game Hunting.* [Reserved]
 
@@ -494,26 +482,16 @@ William L. Finley National Wildlife Refuge
 
 2. You may harvest only antlerless elk with appropriate State-issued tags.
 
-3. We prohibit overnight camping or after-hours parking on the refuge.
+3. We prohibit hunting from any refuge structure, observation blind, or boardwalk.
 
-4. We prohibit hunting from any refuge structure, observation blind, or boardwalk.
+4. We require all hunters to register at a self-service hunt kiosk. All hunters must complete a Big Game Harvest Report (FWS Form 3-2359), after each hunt day.
 
-5. We require all hunters to register at a self-service hunt kiosk. All hunters must complete a Big Game Harvest Report (FWS Form 3-2359), after each hunt day.
+1. We allow fishing on Muddy Creek.
 
-6. Hunters may use portable or climbing stands but must remove them from the refuge daily (see § 27.93 of this chapter). The Service takes no responsibility for the loss or theft of tree stands left in the field.
+2. We allow bank fishing on the Snag Boat Bend Unit only on the Willamette River and Lake Creek.
 
-7. We restrict vehicles to designated public use roads and designated parking areas.
+3. We allow fishing from legal sunrise to legal sunset.
 
-8. We prohibit the use of dogs during hunting.
+4. We allow anglers to use pole and line, or rod and reel. Anglers must attend their line.
 
-9. Persons possessing, transporting, or carrying firearms on national wildlife refuges must comply with all provisions of State and local law. Persons may only use (discharge) firearms in accordance with refuge regulations (see § 27.42 of this chapter and specific refuge regulations in part 32).
-
-10. We prohibit the use of game and trail cameras.
-
-*D. Sport Fishing.* We allow fishing on designated areas of the refuge in accordance with State regulations subject to the following conditions:
-
-1. We allow fishing on Muddy Creek from the beginning of the State trout season in April through October 31.
-
-2. We prohibit the use of boats.
-
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29076, May 18, 1993; 59 FR 6696, Feb. 11, 1994; 59 FR 55187, Nov. 3, 1994; 60 FR 62046, Dec. 4, 1995; 61 FR 46398, Sept. 3, 1996; 62 FR 47381, Sept. 9, 1997; 63 FR 46921, Sept. 3, 1998; 65 FR 30790, May 12, 2000; 65 FR 56407, Sept. 18, 2000; 66 FR 46361, Sept. 4, 2001; 67 FR 58949, Sept. 18, 2002; 68 FR 57318, Oct. 2, 2003; 69 FR 54362, 54447, Sept. 8, 2004; 70 FR 54189, Sept. 13, 2005; 70 FR 56377,Sept. 27, 2005; 73 FR 33195, June 11, 2008; 76 FR 56084, Sept. 9, 2011; 77 FR 56055, Sept. 11, 2012; 79 FR 14837, Mar. 17, 2014; 80 FR 51927, Aug. 26, 2015; 81 FR 68914, Oct. 4, 2016; ]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29076, May 18, 1993; 59 FR 6696, Feb. 11, 1994; 59 FR 55187, Nov. 3, 1994; 60 FR 62046, Dec. 4, 1995; 61 FR 46398, Sept. 3, 1996; 62 FR 47381, Sept. 9, 1997; 63 FR 46921, Sept. 3, 1998; 65 FR 30790, May 12, 2000; 65 FR 56407, Sept. 18, 2000; 66 FR 46361, Sept. 4, 2001; 67 FR 58949, Sept. 18, 2002; 68 FR 57318, Oct. 2, 2003; 69 FR 54362, 54447, Sept. 8, 2004; 70 FR 54189, Sept. 13, 2005; 70 FR 56377,Sept. 27, 2005; 73 FR 33195, June 11, 2008; 76 FR 56084, Sept. 9, 2011; 77 FR 56055, Sept. 11, 2012; 79 FR 14837, Mar. 17, 2014; 80 FR 51927, Aug. 26, 2015; 81 FR 68914, Oct. 4, 2016; 83 FR 45800, Sept. 10, 2018]

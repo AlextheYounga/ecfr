@@ -228,25 +228,29 @@ Fergus Falls Wetland Management District
 
 Glacial Ridge National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, coot, woodcock, snipe, rail, and mourning dove on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, coot, woodcock, snipe, rail, and mourning dove on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. We prohibit all types of watercraft.
+1. We prohibit the use of motorized boats. We allow nonmotorized boats in areas open to migratory bird hunting during the migratory bird hunting seasons.
 
-2. We restrict vehicles to designated parking lots (see § 27.31 of this chapter).
+2. For hunting, you may use or possess only approved nontoxic shot shells while in the field, including shot shells used for hunting wild turkey (see § 32.2(k)).
 
-3. For hunting, you may use or possess only approved nontoxic shot shells while in the field, including shot shells used for hunting wild turkey (see § 32.2(k)).
+3. We prohibit hunting during the Spring Light Goose Conservation Order.
 
-*B. Upland Game Hunting.* We allow hunting of prairie chicken and sharp-tailed grouse on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+4. We allow hunting during special State-administered youth seasons.
 
-1. Only those hunters selected by the Minnesota Department of Natural Resources to hunt prairie chicken may hunt sharp-tailed grouse.
+5. We allow the use of hunting dogs, provided the dog is under the immediate control of the hunter at all times.
 
-2. Conditions A2 and A3 apply.
+6. We allow the use of wheeled, nonmotorized conveyance devices (*e.g.,* bikes, game carts).
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+7. We prohibit entry onto the refuge earlier than 2 hours before legal shooting time and require hunters to leave the refuge no later than 2 hours after legal shooting time.
 
-1. You must remove all stands from the refuge at the end of each day's hunt.
+*B. Upland Game Hunting.* We allow hunting of prairie chicken, sharp-tailed grouse, ring-necked pheasant, gray (Hungarian) partridge, ruffed grouse, rabbit (cottontail and jack), snowshoe hare, squirrel (fox and gray), and wild turkey on designated areas of the refuge in accordance with State regulations and subject to the following condition: Conditions A2, A5, A6, and A7 apply.
 
-2. Condition A2 applies.
+*C. Big Game Hunting.* We allow hunting of white-tailed deer on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+
+1. We prohibit shooting from, across, or within 30 feet (9 meters) of a road edge open to public vehicle transportation.
+
+2. Conditions A2, A4, A6, and A7 apply.
 
 *D. Sport Fishing.* [Reserved]
 
@@ -878,4 +882,4 @@ Windom Wetland Management District
 
 2. You must remove all ice fishing shelters and other personal property from the WPAs each day (see § 27.93 of this chapter).
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29075, May 18, 1993; 58 FR 29085, May 18, 1993; 59 FR 6693, Feb. 11, 1994; 59 FR 55186, 55196, Nov. 3, 1994; 60 FR 62043, Dec. 4, 1995; 61 FR 46396, Sept. 3, 1996; 62 FR 47379, Sept. 9, 1997; 63 FR 46917, Sept. 3, 1998; 65 FR 30785, May 12, 2000; 65 FR 56404, Sept. 18, 2000; 66 FR 46358, Sept. 4, 2001; 67 FR 58946, Sept. 18, 2002; 68 FR 57317, Oct. 2, 2003; 69 FR 54362, 54416, Sept. 8, 2004; 70 FR 54178, Sept. 13, 2005; 72 FR 51542, Sept. 7, 2007; 73 FR 33185, June 11, 2008; 73 FR 51160, Aug. 29, 2008; 74 FR 41356, Aug. 17, 2009; 74 FR 47117, Sept. 15, 2009; 76 FR 3980, Jan. 21, 2011; 76 FR 56077, Sept. 9, 2011; 77 FR 56046, Sept. 11, 2012; 79 FR 14830, Mar. 17, 2014]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29075, May 18, 1993; 58 FR 29085, May 18, 1993; 59 FR 6693, Feb. 11, 1994; 59 FR 55186, 55196, Nov. 3, 1994; 60 FR 62043, Dec. 4, 1995; 61 FR 46396, Sept. 3, 1996; 62 FR 47379, Sept. 9, 1997; 63 FR 46917, Sept. 3, 1998; 65 FR 30785, May 12, 2000; 65 FR 56404, Sept. 18, 2000; 66 FR 46358, Sept. 4, 2001; 67 FR 58946, Sept. 18, 2002; 68 FR 57317, Oct. 2, 2003; 69 FR 54362, 54416, Sept. 8, 2004; 70 FR 54178, Sept. 13, 2005; 72 FR 51542, Sept. 7, 2007; 73 FR 33185, June 11, 2008; 73 FR 51160, Aug. 29, 2008; 74 FR 41356, Aug. 17, 2009; 74 FR 47117, Sept. 15, 2009; 76 FR 3980, Jan. 21, 2011; 76 FR 56077, Sept. 9, 2011; 77 FR 56046, Sept. 11, 2012; 79 FR 14830, Mar. 17, 2014; 83 FR 45791, Sept. 10, 2018]

@@ -208,23 +208,15 @@ Refer to § 32.22 Arizona for regulations.
 
 Kern National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* Hunting of geese, ducks, coots and moorhens is permitted on designated areas of the refuge subject to the following conditions:
+*A. Migratory Game Bird Hunting.* We allow hunting of geese, ducks, coots, and moorhens on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. Hunters assigned to the spaced blind unit must travel to and from parking areas and blind sites with firearms unloaded.
+1. Hunters assigned to the spaced blind unit must remain within 100 feet (30.5 meters) of the numbered steel post (blind site) except when pursuing cripples, placing decoys, or traveling to and from the parking area.
 
-2. Hunters assigned to the spaced blind unit must remain within 100 feet of the numbered steel post (blind site) except when pursuing cripples, placing decoys or traveling to and from the parking area.
+2. Hunters may not possess more than 25 shells while in the field.
 
-3. Hunters may not possess more than 25 shells while in the field.
+3. We allow only nonmotorized boats.
 
-4. Hunters must park in assigned lots.
-
-5. Only nonmotorized boats are permitted.
-
-*B. Upland Game Hunting.* Hunting of pheasant is permitted on designated areas of the refuge subject to the following conditions:
-
-1. Pheasant hunting is only permitted in the free roam unit.
-
-2. You may possess only approved nontoxic shot while in the field.
+*B. Upland Game Hunting.* We allow hunting of pheasant on designated areas of the refuge in accordance with State regulations and subject to the following condition: We allow pheasant hunting only in the free roam unit.
 
 *C. Big Game Hunting.* [Reserved]
 
@@ -234,11 +226,11 @@ Lower Klamath National Wildlife Refuge
 
 *A. Migratory Game Bird Hunting.* We allow hunting of geese, ducks, coots, moorhens, and snipe on designated areas of the refuge in accordance with State laws and regulations and subject to the following conditions:
 
-1. In the controlled waterfowl hunting area, we require a Refuge Recreation Pass (passholder name/expiration date) for all hunters age 16 or older. An adult with a valid Recreation Pass (passholder name/expiration date) must accompany hunters younger than age 16 who are hunting in the controlled area.
+1. In the controlled waterfowl hunting area, we require a valid Refuge Recreation Pass for all hunters age 16 or older. An adult with a valid Recreation Pass must accompany hunters age 17 and younger who are hunting in the controlled area.
 
 2. We require advance reservations for the first 2 days of the hunting season. Reservations are obtained through the Waterfowl Lottery each year.
 
-3. Entry hours begin 11/2 hours prior to State regulated shoot time unless otherwise posted.
+3. Entry hours begin at 4:30 a.m. unless otherwise posted.
 
 4. Shooting hours end at 1 p.m. on all California portions of the refuge with the following exceptions:
 
@@ -246,25 +238,15 @@ i. The refuge manager may designate up to 6 afternoon special youth, ladies, vet
 
 ii. The refuge manager may designate up to 3 days per week of afternoon waterfowl hunting for the general public after December 1.
 
-5. The firearms used for hunting must be unloaded while in posted retrieving zones and while on hunter access routes open to motor vehicles.
+5. You may not set decoys in retrieving zones.
 
-6. You may not set decoys in retrieving zones.
+6. We prohibit air-thrust and inboard water-thrust boats.
 
-7. We prohibit air-thrust and inboard waterthrust boats.
+7. You may use only nonmotorized boats and boats with electric motors on designated motorless units from the start of the hunting season through November 30. You may use motorized boats on designated motorless units from December 1 through the end of hunting season.
 
-8. You may possess only approved nontoxic shot while in the field (see § 32.2(k)).
+8. Pit style hunting blinds located in the Stearns units and unit 9D are first-come, first-served. We require you to hunt within a 200-foot (61-meter) radius of the blind.
 
-9. You may use only nonmotorized boats and boats with electric motors on designated motorless units from the start of the hunting season through November 30. You may use motorized boats on designated motorless units from December 1 through the end of hunting season.
-
-10. Pit style hunting blinds located in the Stearns units and unit 9D are first-come, first-served basis. We require you to hunt within a 200-foot (61-meter) radius of the blind.
-
-*B. Upland Game Hunting.* We allow hunting of pheasant on designated areas of the refuge in accordance with State laws and regulations and subject to the following conditions:
-
-1. You may possess only approved nontoxic shot while in the field (see § 32.2(k)).
-
-2. We require you to wear an outer garment above the waist that is at least 50 percent blaze orange and visible from both front and back. Outer garments may consist of hat or cap, vest, jacket, shirt or coat.
-
-3. The firearms used for hunting must be unloaded while in posted retrieving zones and while on hunter access routes open to motor vehicles.
+*B. Upland Game Hunting.* We allow hunting of pheasant on designated areas of the refuge in accordance with State laws and regulations and subject to the following condition: In the controlled pheasant hunting area, we require a valid Refuge Recreation Pass for all hunters age 16 or older. An adult with a valid Recreation Pass must accompany hunters age 17 or younger who are hunting in the controlled area.
 
 *C. Big Game Hunting.* [Reserved]
 
@@ -272,13 +254,13 @@ ii. The refuge manager may designate up to 3 days per week of afternoon waterfow
 
 Merced National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, coot, and moorhen on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, coot, and moorhen on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. You must unload firearms (see § 27.42(b) of this chapter) before transporting them between parking areas and blind sites. Unloaded means that no ammunition is in the chamber or magazine of the firearm.
+1. You may possess only 25 or fewer shotshells per day after leaving the parking lot.
 
-2. You may only possess approved nontoxic shotshells (see § 32.2(k)) in quantities of 25 or less per day after leaving the parking lot.
+2. Each hunter must remain inside his or her assigned blind, except for placing decoys, retrieving downed birds, and traveling to and from the parking area. We prohibit shooting from outside the blind.
 
-3. Each hunter must remain inside his or her assigned blind, except for placing decoys, retrieving downed birds, and traveling to and from the parking area. We prohibit shooting from outside the blind.
+3. We restrict hunters in the spaced zone area of the Lonetree Unit to their assigned zone except when they are traveling to and from the parking area, retrieving downed birds, or shooting to retrieve crippled birds.
 
 4. Dogs must remain under the immediate control of their owners at all times (see § 26.21(b) of this chapter).
 
@@ -378,61 +360,45 @@ Sacramento National Wildlife Refuge
 
 Sacramento River National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, coot, moorhen, dove, and snipe on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, coot, moorhen, dove, and snipe on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. Access to the hunt area on all units open to public hunting is by boat only, except on designated units, which are accessible by foot traffic or boat. We prohibit bicycles or other conveyances. Mobility-impaired hunters should consult with the refuge manager for allowed conveyances. Waterfowl hunting is not allowed on the Mooney and Codora Units.
+1. Access to the hunt area on all units open to public hunting is by boat only, except on designated units, which are accessible by foot traffic or boat. We prohibit bicycles or other conveyances. Mobility-impaired hunters should consult with the refuge manager for allowed conveyances. We prohibit waterfowl hunting on the Mooney and Codora Units.
 
-2. On the Codora Unit, hunting is not allowed except for junior hunters (17 years old or younger) on weekends only. Junior hunters must possess a valid junior hunting license and be accompanied by a nonhunting adult (18 years or older).
+2. On the Codora Unit, we prohibit hunting except for junior hunters on weekends only. Junior hunters must possess a valid junior hunting license and be accompanied by a nonhunting adult.
 
-3. We prohibit possession of alcohol.
+3. We allow only shotgun hunting.
 
-4. We allow only shotgun hunting.
+4. We prohibit hunting within 50 feet (15 meters (m)) of any landward boundary adjacent to private property.
 
-5. The firearms used for hunting must be unloaded (see § 27.42(b) of this chapter) while transporting them between parking areas and hunting areas. “Unloaded” means that no ammunition is in the chamber or magazine of the firearm.
+5. We prohibit hunting within 150 yards (45 m) of any occupied dwelling, house, residence, or other building or any barn or other outbuilding used in connection therewith.
 
-6. You may possess only approved nontoxic shot while in the field (see § 32.2(k)).
+6. We prohibit fires on the refuge, except we allow portable gas stoves on gravel bars (see § 27.95(a) of this chapter).
 
-7. We prohibit hunting within 50 feet (15.2 meters) of any boundary adjacent to private property.
+7. We open the refuge for day-use access from 2 hours before legal sunrise until 11/2 hours after legal sunset. We allow access during other hours on gravel bars only.
 
-8. We prohibit hunting within 150 yards (137.2 meters) of any occupied dwelling, house, residence, or other building or any barn or other outbuilding used in connection therewith.
+8. We require dogs to be kept on a leash, except for hunting dogs engaged in authorized hunting activities, and under the immediate control of a licensed hunter (see § 26.21(b) of this chapter).
 
-9. We prohibit fires on the refuge, except we allow portable gas stoves on gravel bars (see § 27.95(a) of this chapter).
+*B. Upland Game Hunting.* We allow hunting of pheasant, turkey, and quail on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-10. We open the refuge for day-use access from 2 hours before legal sunrise until 11/2 hours after legal sunset. We allow access during other hours on gravel bars only.
+1. We allow only shotgun and archery hunting.
 
-11. We require dogs to be kept on a leash, except for hunting dogs engaged in authorized hunting activities, and under the immediate control of a licensed hunter (see § 26.21(b) of this chapter).
-
-12. We prohibit permanent blinds. You must remove all personal property, including decoys and boats, by 11/2 hours after legal sunset (see §§ 27.93 and 27.94 of this chapter).
-
-13. We prohibit cutting or removal of vegetation for blind construction or for making trails (see § 27.51).
-
-14. We prohibit commercial guiding (see § 27.97 of this chapter).
-
-*B. Upland Game Hunting.* We allow hunting of pheasant, turkey, and quail on designated areas of the refuge in accordance with State regulations subject to the following conditions:
-
-1. We only allow shotgun and archery hunting.
-
-2. Conditions A1 through A3 and A5 through A14 apply.
+2. Conditions A1, A2, and A4 through A8 apply.
 
 *C. Big Game Hunting.* We allow hunting of black-tailed deer and feral hogs on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. Conditions A1 through A3, A5, A7 through A14, and B1 apply.
+1. Conditions A1, A2, A4 through A8, and B1 apply.
 
-2. You may hunt feral hogs from September 1 through March 15.
+2. Feral hogs may be hunted September 1 through March 15.
 
-3. We prohibit using dogs while hunting feral hogs and black-tailed deer.
+3. We prohibit the use of dogs while hunting black-tailed deer and feral hogs.
 
-4. We prohibit construction or use of permanent blinds, platforms, ladders, or screw-in foot pegs.
+4. We allow the use of only shotguns not capable of holding more than three rounds and firing single non-lead shotgun slugs, and archery equipment. We prohibit the use or possession of rifles and pistols on the refuge for hunting.
 
-5. You must remove all personal property, including stands or hunting blinds, from the refuge by 11/2 hour after legal sunset (see §§ 27.93 and 27.94 of this chapter).
+*D. Sport Fishing.* We allow sport fishing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-6. You may only use shotguns, firing single shotgun slugs, and archery equipment for big game hunting only. You may only possess non-lead ammunition while in the field (consistent with State Law AB711 related to Wildlife Areas ammunition restrictions).
+1. Conditions A6 through A8 apply.
 
-*D. Sport Fishing.* We allow sport fishing on designated areas of the refuge in accordance with State regulations subject to the following conditions:
-
-1. Conditions A3 and A9 through A14 apply.
-
-2. On Packer Lake and Drumheller North, due to primitive access, we only allow boats up to 14 feet (4.3 meters) and canoes. Electric motors only.
+2. On Packer Lake and Drumheller North, due to primitive access, we only allow boats up to 14 feet (4.2 m) and canoes. Electric motors only.
 
 Salinas River National Wildlife Refuge
 
@@ -456,87 +422,65 @@ Salinas River National Wildlife Refuge
 
 San Luis National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, coot, moorhen, and snipe on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. You may only use portable blinds, temporary blinds constructed of natural materials, or existing concrete blinds. We prohibit cutting or breaking woody vegetation (see § 27.51 of this chapter).
+1. You may only hunt snipe within the free-roaming portion of the San Luis Unit waterfowl hunting area.
 
-2. You must remove all portable blinds, decoys, and other personal equipment from the refuge following each day's hunt.
+2. You may only possess shotshells in quantities of 25 or fewer after leaving your assigned parking lot or boat launch.
 
-3. You must dismantle any temporary blinds constructed of natural materials at the end of each day.
+3. We prohibit dropping of passengers or equipment, and stopping between designated parking areas. You must return your permits to the check stations immediately upon completion of your hunt and prior to using any tour routes or leaving the refuge vicinity.
 
-4. You may only hunt snipe within the free-roaming portion of the San Luis Unit waterfowl hunting area.
+4. We restrict hunters in the spaced blind area to their assigned blind except when they are placing decoys, traveling to and from the parking area, retrieving downed birds, or pursuing cripples.
 
-5. You may only possess approved nontoxic shotshells (see § 32.2(k)) in quantities of 25 or less after leaving your assigned parking lot or boat launch.
+5. We restrict hunters in the spaced zone area of the East Bear Creek Unit to their assigned zone except when they are traveling to and from the parking area, retrieving downed birds, or pursuing crippled birds.
 
-6. We prohibit dropping of passengers or equipment or stopping between designated parking areas. You must return your permits to the check stations immediately upon completion of your hunt and prior to using any tour routes or leaving the refuge vicinity.
+6. Access to the Freitas Unit free-roam hunting area is by boat only with a maximum of 5 miles per hour (mph). Prohibited boats include air-thrust and/or inboard water-thrust types.
 
-7. You may not transport loaded firearms while walking or bicycling between parking areas in spaced blind units, or while traveling in a boat under power.
+7. We prohibit the use of motorized boats in the free-roam units with the exception of the Freitas Unit.
 
-8. We restrict hunters in the spaced blind area to their assigned blind except when they are placing decoys, traveling to and from the parking area, retrieving downed birds, or when shooting to retrieve cripples.
+8. We do not allow vehicle trailers of any type or size to be in the refuge hunt areas at any time or to be left unattended at any location on the refuge.
 
-9. We restrict hunters in the spaced zone area of the East Bear Creek Unit to their assigned zone except when they are traveling to and from the parking area, retrieving downed birds, or when shooting to retrieve crippled birds.
+9. Dogs must remain under the immediate control of their owners at all times (see § 26.21(b) of this chapter).
 
-10. Access to the Freitas Unit free-roam hunting area is by boat only with a maximum of 5 mph. Prohibited boats include air-thrust and/or inboard water-thrust types.
+*B. Upland Game Hunting.* We allow hunting of pheasants on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-11. We prohibit the use of motorized boats in the free-roam units with the exception of the Freitas Unit.
-
-12. We do not allow vehicle trailers of any type or size to be in the refuge hunt areas at any time or to be left unattended at any location on the refuge.
-
-13. Dogs must remain under the immediate control of their owners at all times (see § 26.21(b) of this chapter).
-
-B. *Upland Game Hunting.* We allow hunting of pheasants on designated areas of the refuge in accordance with State regulations subject to the following conditions:
-
-1. You may only possess approved nontoxic shotshells (see § 32.2(k)) in quantities of 25 or less while in the field.
+1. You may only possess shotshells in quantities of 25 or fewer while in the field.
 
 2. Dogs must remain under the immediate control of their owners at all times (see § 26.21(b) of this chapter).
 
 *C. Big Game Hunting.* [Reserved]
 
-*D. Sport Fishing.* We allow fishing on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*D. Sport Fishing.* We allow fishing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. We only allow fishing from legal sunrise to legal sunset, except on that portion of the San Joaquin River's south (left descending) bank within the West Bear Creek Unit designated as open for fishing 24 hours per day.
+1. We only allow fishing during normal refuge visitation hours in designated areas as posted.
 
-2. We only allow the use of pole and line or rod and reel to take gamefish, and anglers must attend their equipment at all times.
-
-3. We prohibit the use of any boat, float tube, or other floating aid/device.
+2. We only allow the use of pole and line or rod and reel to take fish, and anglers must attend their equipment at all times.
 
 San Pablo Bay National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. Unless posted in the field and/or noted below, we only allow hunting in the open waters of San Pablo Bay and its navigable sloughs. The following areas are closed to hunting:
+1. We only allow hunting in the open waters of San Pablo Bay and navigable sloughs, the Cullinan Ranch Unit, and the Sears Point Dickson Ranch Unit.
 
-i. Lower Tubbs Island;
-
-ii. Lower Tubbs Setback;
-
-iii. Cullinan Ranch Unit;
-
-iv. Sonoma Baylands Unit; and
-
-v. Within 300 feet (90 meters) of Highway 37.
-
-2. You may only hunt from a boat or a floating blind. We prohibit walk-in hunting on the refuge.
+2. You may only hunt from a boat. We prohibit walk-in hunting on the refuge.
 
 3. You may possess shotshells only in quantities of 25 or fewer while in the field.
 
-4. You must remove all decoys, boats, and other personal property from the refuge at the end of each day (see § 27.93 of this chapter). You must remove all trash, including shotshell hulls, when leaving hunting areas (see § 27.94 of this chapter).
+4. We only allow dogs engaged in hunting activities on the refuge during waterfowl season. We prohibit other domesticated animals or pets.
 
-5. We prohibit entry to closed areas of the refuge prior to the hunting season in order to scout for hunting sites.
+5. We allow foot access through the refuge to the State's Tolay Creek Unit (Midshipman Slough) for waterfowl hunting.
 
-6. We only allow dogs engaged in hunting activities on the refuge during waterfowl season. We prohibit other domesticated animals or pets. You must keep dog(s) under your immediate control at all times (see § 26.21(b) of this chapter). We prohibit training of dogs on the refuge.
+6. We allow waterfowl hunting from legal sunrise to legal sunset.
 
-7. We prohibit digging into levees or slough channels.
+7. Hunters may enter closed areas of the refuge (tidal marshes) only to retrieve downed birds, but all weapons must be left in the designated hunting areas.
 
-8. Persons possessing, transporting, or carrying firearms on the refuge must comply with all provisions of State and local law. Persons may only use (discharge) firearms in accordance with refuge regulations (see § 27.42 of this chapter and specific refuge regulations in this part 32). We prohibit target practice on the refuge or any nonhunting discharge of any firearm (see § 27.42 of this chapter).
+8. We prohibit launching of boats and access to the Bay or sloughs from refuge property except from designated boat launch sites (Cullinan Ranch Unit and Dickson Ranch Unit).
 
-9. We allow foot access through the refuge to the State's Tolay Creek Unit for waterfowl hunting. You must unload and either break down or case all shotguns (see § 27.42(b) of this chapter) while in transit through the refuge.
-
-*B. Upland Game Hunting.* We allow hunting of pheasant only in areas of the Tolay Creek Unit designated by posted signs in accordance with State regulations subject to the following conditions:
+*B. Upland Game Hunting.* We allow hunting of pheasant only in areas of the Tolay Creek Unit designated by posted signs in accordance with State regulations and subject to the following conditions:
 
 1. You may only hunt on Wednesdays, Saturdays, and Sundays.
 
-2. You may only possess approved nontoxic shotshells (see § 32.2(k)) in quantities of 25 or less while in the field.
+2. You may only possess approved nontoxic shotshells (see § 32.2(k)) in quantities of 25 or fewer while in the field.
 
 3. You may only access the Tolay Creek Unit by foot or bicycle.
 
@@ -544,7 +488,19 @@ v. Within 300 feet (90 meters) of Highway 37.
 
 *C. Big Game Hunting.* [Reserved]
 
-*D. Sport Fishing.* [Reserved]
+*D. Sport Fishing.* We allow fishing on the refuge in accordance with State and Federal regulations, and subject to the following conditions:
+
+1. The refuge is only open to fishing from legal sunrise to legal sunset.
+
+2. We only allow fishing in the open waters of San Pablo Bay and navigable sloughs, the Cullinan Ranch Unit, and the Dickson Ranch Unit.
+
+3. We prohibit walking through or over marsh vegetation.
+
+4. We prohibit launching of boats and access to the Bay or sloughs from refuge property except from designated boat launch sites. We allow only nonmotorized crafts at the Cullinan Ranch Unit and Dickson Ranch Unit launch sites.
+
+5. We only allow fishing from the shore at designated areas along the west side of Cullinan Ranch Unit in addition to the fishing and wildlife observation pier and canoe/kayak dock.
+
+6. We allow fishing only with a pole and line or rod and reel. We prohibit bow fishing and gigging.
 
 Sonny Bono Salton Sea National Wildlife Refuge
 
@@ -648,42 +604,32 @@ Sutter National Wildlife Refuge
 
 Tule Lake National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of geese, ducks, coots, moorhens, and snipe on designated areas of the refuge in accordance with State laws and regulations and subject to the following conditions:
+*A. Migratory Game Bird Hunting.* We allow hunting of geese, ducks, coots, moorhens, and snipe on designated areas of the refuge in accordance with State laws and regulations, and subject to the following conditions:
 
-1. In the controlled waterfowl hunting area, we require a Refuge Recreation Pass (passholder name/expiration date) for all hunters age 16 or older. An adult with a valid Recreation Pass (passholder name/expiration date) must accompany hunters younger than age 16 who are hunting in the controlled area.
+1. In the controlled waterfowl hunting area, we require a valid Refuge Recreation Pass for all hunters age 16 or older. An adult with a valid Recreation Pass must accompany hunters age 17 or younger who are hunting in the controlled area.
 
-2. We require advance reservations for the first 2 days of the hunting season. Reservations are obtained through the Waterfowl Lottery each year.
+2. We require advance reservations for the first 2 days of the hunting season. You may obtain a reservation through the Waterfowl Lottery each year.
 
-3. Entry hours begin 11/2 hours prior to State regulated shoot time unless otherwise posted.
+3. Entry hours begin at 4:30 a.m. unless otherwise posted.
 
-4. Shooting hours end at 1 p.m. on all California portions of the refuge with the following exceptions:
+4. Shooting hours end at 1 p.m. on all portions of the refuge with the following exceptions:
 
 i. The refuge manager may designate up to 6 afternoon special youth, ladies, veteran, or disabled hunter waterfowl hunts per season.
 
 ii. The refuge manager may designate up to 3 days per week of afternoon waterfowl hunting for the general public after December 1.
 
-5. You must be drawn daily to hunt all spaced blinds, including numbered blind areas, Sump 1B, and Frey's Island units, from the first day of the regulated hunting season through November 30. Drawings are held at the hunter check station located on County Road 103. Beginning December 1 through the last day of the season, spaced blinds are first-come, first-served.
+5. You select blind sites by lottery at the beginning of each hunt day. You may shoot only from within your assigned blind site.
 
-6. The firearms used for hunting must be unloaded when you are more than 200 feet (61 meters) from the established blind stakes. You select blind sites by lottery at the beginning of each hunt day. You may shoot only from within your assigned blind site.
+6. We prohibit the setting of decoys in retrieving zones.
 
-7. The firearms used for hunting must be unloaded while in posted retrieving zones and while on hunter access routes open to motor vehicles.
+7. We prohibit air-thrust and inboard water-thrust boats.
 
-8. We prohibit the setting of decoys in retrieving zones.
+8. We prohibit the use of all-terrain amphibious or utility-type vehicles (UTVs) in wetland units.
 
-9. We prohibit air-thrust and inboard water-thrust boats.
-
-10. You may possess only approved nontoxic shot while in the field (see § 32.2(k)).
-
-*B. Upland Game Hunting.* We allow hunting of pheasant on designated areas of the refuge in accordance with State laws and regulations and subject to the following conditions:
-
-1. You may possess only approved nontoxic shot while in the field (see § 32.2(k)).
-
-2. We require you to wear an outer garment above the waist that is at least 50 percent blaze orange and visible from both front and back. Outer garments may consist of hat or cap, vest, jacket, shirt or coat.
-
-3. The firearms used for hunting must be unloaded while in posted retrieving zones and while on hunter access routes open to motor vehicles.
+*B. Upland Game Hunting.* We allow hunting of pheasant on designated areas of the refuge in accordance with State laws and regulations, and subject to the following condition: In the controlled pheasant hunting area, we require a valid Refuge Recreation Pass for all hunters age 16 or older. An adult with a valid Recreation Pass must accompany hunters age 17 or younger who are hunting in the controlled area.
 
 *C. Big Game Hunting.* [Reserved]
 
 *D. Sport Fishing.* [Reserved]
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29073, May 18, 1993; 58 FR 29084, May 18, 1993; 59 FR 6689, Feb. 11, 1994; 59 FR 55184, Nov. 3, 1994; 60 FR 5067, Jan. 25, 1995; 60 FR 62041, Dec. 4, 1995; 61 FR 46393, Sept. 3, 1996; 62 FR 47376, Sept. 9, 1997; 63 FR 46915, Sept. 3, 1998; 65 FR 30778, May 12, 2000; 65 FR 56401, Sept. 18, 2000; 66 FR 46354, Sept. 4, 2001; 67 FR 58943, Sept. 18, 2002; 69 FR 54362, 54374, Sept. 8, 2004; 70 FR 54161, Sept. 13, 2005; 74 FR 45681, Sept. 3, 2009; 75 FR 18420, Apr. 12, 2010; 75 FR 3956, Jan. 21, 2011; 79 FR 14825, Mar. 17, 2014; 80 FR 51890, Aug. 26, 2015; 81 FR 68891, Oct. 4, 2016; 82 FR 51948, Nov. 8, 2017]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29073, May 18, 1993; 58 FR 29084, May 18, 1993; 59 FR 6689, Feb. 11, 1994; 59 FR 55184, Nov. 3, 1994; 60 FR 5067, Jan. 25, 1995; 60 FR 62041, Dec. 4, 1995; 61 FR 46393, Sept. 3, 1996; 62 FR 47376, Sept. 9, 1997; 63 FR 46915, Sept. 3, 1998; 65 FR 30778, May 12, 2000; 65 FR 56401, Sept. 18, 2000; 66 FR 46354, Sept. 4, 2001; 67 FR 58943, Sept. 18, 2002; 69 FR 54362, 54374, Sept. 8, 2004; 70 FR 54161, Sept. 13, 2005; 74 FR 45681, Sept. 3, 2009; 75 FR 18420, Apr. 12, 2010; 75 FR 3956, Jan. 21, 2011; 79 FR 14825, Mar. 17, 2014; 80 FR 51890, Aug. 26, 2015; 81 FR 68891, Oct. 4, 2016; 82 FR 51948, Nov. 8, 2017; 83 FR 45773, Sept. 10, 2018]

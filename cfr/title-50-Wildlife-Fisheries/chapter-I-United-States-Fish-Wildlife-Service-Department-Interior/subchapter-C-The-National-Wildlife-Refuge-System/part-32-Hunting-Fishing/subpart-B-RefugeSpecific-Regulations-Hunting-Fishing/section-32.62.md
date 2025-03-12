@@ -4,73 +4,49 @@ The following refuge units have been opened for hunting and/or fishing, and are 
 
 Chickasaw National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of duck, goose, coot, merganser, mourning dove, woodcock, and snipe on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*A. Migratory Game Bird Hunting.* We allow hunting of duck, goose, coot, merganser, mourning dove, woodcock, and snipe on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. The refuge is a day-use area only. We close the refuge from legal sunset to legal sunrise, with the exception of legal hunting/fishing activities.
+1. We seasonally close the refuge sanctuary area to the public from November 15 through March 15.
 
-2. We allow only legally licensed vehicles on maintained refuge roads and parking areas. We prohibit all-terrain vehicles (ATVs), utility-type vehicles (UTVs), and off-road motorized vehicles. We prohibit airboats, jet skis, hovercrafts, etc. We prohibit parking as to block travel through refuge access roads, gates, and trails (see § 27.31(h) of this chapter).
+2. You must possess and carry a signed refuge permit (signed refuge brochure) and comply with all permit provisions and other applicable State and Federal laws.
 
-3. We seasonally close the refuge sanctuary area to the public from November 15 through March 15.
+3. We allow hunting for duck, goose, coot, and merganser from1/2 hour before legal sunrise to 12 p.m. (noon) CST. We allow hunters to access the refuge no more than 2 hours before legal sunrise.
 
-4. You must possess and carry a signed refuge permit (signed refuge brochure) and comply with all permit provisions and other applicable State and Federal law.
+4. We close mourning dove, woodcock, and snipe seasons during all firearms, youth, and muzzleloader deer seasons.
 
-5. We allow hunting for duck, goose, coot, and merganser from1/2 hour before legal sunrise to 12 p.m. (noon) CST. We allow hunters to access the refuge no more than 2 hours before legal sunrise.
+5. You may use only portable blinds, and you must remove all boats, blinds, and decoys from the refuge by 1 p.m. CST daily.
 
-6. Mourning dove, woodcock, and snipe seasons close during all firearms, youth, and muzzleloader deer seasons.
+*B. Upland Game Hunting.* We allow hunting of squirrel, rabbit, quail, raccoon, and opossum on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-7. You may use only portable blinds, and you must remove all boats, blinds, and decoys (see § 27.93 of this chapter) from the refuge by 1 p.m. CST daily.
+1. Conditions A1 and A2 apply.
 
-8. Each youth hunter age 15 and younger must remain within sight and normal voice contact and under supervision of an adult age 21 or older, who possesses a license. One adult hunter may supervise no more than two youth hunters.
-
-9. You may possess only approved nontoxic shot while hunting with a shotgun (see § 32.2(k)).
-
-10. We prohibit cutting of holes, lanes, or other manipulation of vegetation (e.g., cutting bushes and trees, mowing, herbicide use, and other actions) or hunting from manipulated areas (see § 27.51 of this chapter).
-
-11. We prohibit hunting over or the placement of bait (see § 32.2(h)). Baiting means the direct or indirect placing, exposing, depositing, or scattering of any salt, grain, powder, liquid, or other feed substance to attract game.
-
-*B. Upland Game Hunting.* We allow hunting of squirrel, rabbit, quail, raccoon, and opossum on designated areas of the refuge in accordance with State regulations subject to the following conditions:
-
-1. Conditions A1 through A4 and A8 through A12 apply.
-
-2. We allow hunters to access the refuge no more than 2 hours before legal sunrise to no later than 2 hours after legal sunset with the exception of raccoon and opossum hunters who may access the refuge from legal sunset to legal sunrise.
+2. We allow hunters to access the refuge no more than 2 hours before legal sunrise to no later than 2 hours after legal sunset, except that raccoon and opossum hunters may access the refuge from legal sunset to legal sunrise.
 
 3. We do not open for spring squirrel season on the refuge.
 
-4. Squirrel, rabbit, and quail seasons close during all firearms, youth, and muzzleloader deer seasons.
+4. We close squirrel, rabbit, and quail seasons during all firearms, youth, and muzzleloader deer seasons.
 
-5. Raccoon and opossum seasons close Friday and Saturday nights during all firearms, youth, and muzzleloader deer hunts and seasons, including the Friday night prior to any hunt or season that opens on a Saturday morning.
+5. We close raccoon and opossum seasons on Friday and Saturday nights during all firearms, youth, and muzzleloader deer hunts and seasons, including the Friday night prior to any hunt or season that opens on a Saturday morning.
 
 6. We allow horses only on roads open to motorized traffic. We prohibit the use of horses and other animal conveyances from all other areas including fields, woods, and foot trails.
 
-7. You may take coyote and beaver incidental to legal hunting activities.
+7. You may take coyote and beaver incidental to legal hunting activities with legal methods of take for those hunts.
 
-8. We prohibit trapping.
+*C. Big Game Hunting.* We allow hunting of white-tailed deer and turkey on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer and turkey on designated areas of the refuge in accordance with State regulations subject to the following conditions:
-
-1. Conditions A1 through A4, A8, A10 through A12, B6, and B7 apply.
+1. Conditions A1, A2, B2, B6, and B7 apply.
 
 2. You may only participate in the refuge quota hunts with a special quota permit issued through random drawing. Information for permit applications is available at the refuge headquarters.
 
-3. You may possess only approved nontoxic shot while hunting turkey (see § 32.2(k)).
+*D. Sport Fishing.* We allow sport fishing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-4. Hunters may possess lead-rifled slugs while deer hunting on the refuge (see § 32.2(k)).
+1. Condition A1 applies.
 
-5. We allow the use of only portable blinds and tree stands on the refuge. You must remove blinds, tree stands, and all other personal equipment (see §§ 27.93 and 27.94 of this chapter) from the refuge at the end of each day's hunt.
+2. We allow fishing only with pole and line, or rod and reel.
 
-6. All youth hunters age 15 and younger must remain within sight and normal voice contact of an adult age 21 or older, who possesses a license. One adult hunter may supervise only one youth hunter.
+3. We allow the use of bow and arrow, or a gig to take nongame fish on refuge waters.
 
-*D. Sport Fishing.* We allow sport fishing on designated areas of the refuge in accordance with State regulations subject to the following conditions:
-
-1. Conditions A1 through A3 apply.
-
-2. We allow fishing only with pole and line or rod and reel.
-
-3. We prohibit possession of unauthorized fishing gear, including trotlines, limblines, juglines, yo-yos, nets, spears, and snag hooks, while fishing on the refuge.
-
-4. We allow the use of bow and arrow or a gig to take nongame fish on refuge waters.
-
-5. We prohibit taking frog or turtle on the refuge (see § 27.21 of this chapter).
+4. We prohibit taking frog or turtle on the refuge.
 
 Cross Creeks National Wildlife Refuge
 
@@ -142,283 +118,175 @@ Cross Creeks National Wildlife Refuge
 
 Hatchie National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of duck, goose, coot, merganser, mourning dove, woodcock, and snipe on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*A. Migratory Game Bird Hunting.* We allow hunting of duck, goose, coot, merganser, mourning dove, woodcock, and snipe on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. The refuge is a day-use area only. We close the refuge from legal sunset to legal sunrise, with the exception of legal hunting/fishing activities.
+1. We seasonally close the sanctuary areas of the refuge to the public from November 15 through March 15.
 
-2. We allow only legally licensed vehicles on maintained refuge roads and parking areas. We prohibit all-terrain vehicles (ATVs), utility-type vehicles (UTVs), and off-road motorized vehicles. We prohibit airboats, jet skis, hovercrafts, etc. We prohibit parking as to block travel through refuge access roads, gates, and trails (see § 27.31(h) of this chapter).
+2. You must possess and carry a signed refuge permit (signed refuge brochure) and comply with all permit provisions and other applicable State and Federal laws.
 
-3. We seasonally close the sanctuary areas of the refuge to the public from November 15 through March 15.
+3. We allow waterfowl hunting only on Tuesdays, Thursdays, and Saturdays. We allow hunting for duck, goose, coot, and merganser from1/2 hour before legal sunrise until 12 p.m. (noon) CST. We allow hunters to access the refuge no earlier than 2 hours before legal sunrise.
 
-4. You must possess and carry a signed refuge permit (signed refuge brochure) and comply with all permit provisions and other applicable State and Federal laws.
+4. We close mourning dove, woodcock, and snipe seasons during all quota gun and youth deer gun hunts.
 
-5. We allow waterfowl hunting only on Tuesdays, Thursdays, and Saturdays. We allow hunting for duck, goose, coot, and merganser from1/2 hour before legal sunrise until 12 p.m. (noon) CST. We allow hunters to access the refuge no earlier than 2 hours before legal sunrise.
+5. You may use only portable blinds, and you must remove all boats, blinds, and decoys from the refuge by 1 p.m. CST daily.
 
-6. Mourning dove, woodcock, and snipe seasons close during all deer archery, quota deer gun, and youth deer gun hunts. In the area west of Interstate 40 we follow the State seasons, except we close during youth deer gun and quota deer gun hunts.
+*B. Upland Game Hunting.* We allow hunting of squirrel, rabbit, quail, raccoon, and opossum on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-7. You may use only portable blinds, and you must remove all boats, blinds, and decoys (see § 27.93 of this chapter) from the refuge by 1 p.m. CST daily.
+1. Conditions A1 and A2 apply.
 
-8. Each youth hunter age 15 and younger must remain within sight and normal voice contact and under supervision of an adult age 21 or older, who possesses a license. One adult hunter may supervise no more than two youth hunters.
-
-9. You may possess only approved nontoxic shot while hunting with a shotgun (see § 32.2(k)).
-
-10. We prohibit cutting of holes, lanes, or other manipulation of vegetation (*e.g.,* cutting bushes and trees, mowing, herbicide use, and other actions) (see § 27.51 of this chapter).
-
-11. We prohibit hunting over or the placement of bait (see § 32.2(h)). Baiting means the direct or indirect placing, exposing, depositing, or scattering of any salt, grain, powder, liquid, or other feed substance to attract game.
-
-*B. Upland Game Hunting.* We allow hunting of squirrel, rabbit, quail, raccoon, and opossum on designated areas of the refuge in accordance with State regulations subject to the following conditions:
-
-1. Conditions A1 through A4, A6, and A8 through A12 apply.
-
-2. We allow hunters to access the refuge no earlier than 2 hours before legal sunrise to no later than 2 hours after legal sunset, with the exception of raccoon and opossum hunters. We will allow access to those hunters from legal sunset to legal sunrise.
+2. We allow hunters to access the refuge no earlier than 2 hours before legal sunrise to no later than 2 hours after legal sunset, except that raccoon and opossum hunters may access the refuge from legal sunset to legal sunrise.
 
 3. We do not open to spring squirrel season on the refuge.
 
-4. We close all small game hunts during the refuge deer archery, quota, and youth gun hunts, except in the area west of Interstate 40, where small game reopens after the second quota deer gun hunt in accordance with State seasons.
+4. We close all small game hunts during the refuge deer quota and youth gun hunts.
 
 5. We allow horses only on roads open to motorized traffic. We prohibit the use of horses and other animal conveyances from all other areas including fields, woods, and foot trails.
 
-6. You may take coyote and beaver incidental to legal hunting activities.
+6. You may take coyote and beaver incidental to legal hunting activities with legal methods of take for those hunts.
 
-7. We prohibit camping and fires on the refuge.
+*C. Big Game Hunting.* We allow hunting of white-tailed deer and turkey on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-8. We prohibit trapping.
-
-*C. Big Game Hunting.* We allow hunting of white-tailed deer and turkey on designated areas of the refuge in accordance with State regulations subject to the following conditions:
-
-1. Conditions A1 through A4, A8, A10 through A12, and B5 through B7 apply.
+1. Conditions A1 through A2, B2, B5, and B6 apply.
 
 2. You may only participate in the refuge deer quota hunts with a special quota permit (name and address only) issued through random drawing. Information for permit applications is available at the refuge headquarters.
 
-3. You may possess only approved nontoxic shot while hunting turkey (see § 32.2(k)).
+3. We allow archery deer and turkey hunting on designated areas of the refuge as defined annually in the refuge Public Use Regulations available at the refuge office and in accordance with State regulations.
 
-4. Hunters may possess lead-rifled slugs while deer hunting on the refuge (see § 32.2(k)).
+*D. Sport Fishing.* We allow sport fishing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-5. We allow the use of only portable blinds and tree stands on the refuge. You must remove blinds, tree stands, and all other personal equipment (see § 27.93 of this chapter) from the refuge at the end of each day's hunt.
+1. Condition A1 applies.
 
-6. We allow archery deer and turkey hunting on designated areas of the refuge as defined annually in the refuge Public Use Regulations available at the refuge office and in accordance with State regulations.
+2. We allow fishing only with pole and line, or rod and reel.
 
-7. All youth hunters age 15 and younger must remain within sight and normal voice contact of an adult age 21 or older, who possesses a license. One adult hunter may supervise only one youth hunter.
+3. We allow use of a bow and arrow, or gig to take nongame fish on refuge waters.
 
-*D. Sport Fishing.* We allow sport fishing on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+4. We prohibit taking frog or turtle on the refuge.
 
-1. Conditions A1 through A3 apply.
+5. We open Oneal Lake for fishing during a restricted season and for authorized special events. Information on events and season dates is available at the refuge headquarters.
 
-2. We allow fishing only with pole and line or rod and reel.
+6. We only allow fishing boats of 18 feet (5.5 meters) or less in length on refuge lakes.
 
-3. We prohibit possession of unauthorized fishing gear, including trotlines, limblines, juglines, yo-yos, nets, spears, and snag hooks while fishing on the refuge.
-
-4. We allow use of a bow and arrow or gig to take nongame fish on refuge waters.
-
-5. We prohibit taking frog or turtle on the refuge (see § 27.21 of this chapter).
-
-6. We open Oneal Lake for fishing during a restricted season and for authorized special events. Information on events and season dates is available at the refuge headquarters.
-
-7. We only allow fishing boats of 18 feet (5.5 meters) or less in length on refuge lakes.
-
-8. We allow the use of nonmotorized boats and boats with electric motors only; we prohibit the use of gas and diesel motors on refuge lakes except in the waterfowl hunting area.
-
-9. We prohibit use or possession of alcoholic beverages while fishing on refuge lands and waters (see § 32.2(j)).
+7. We allow the use of nonmotorized boats and boats with electric motors only; we prohibit the use of gas and diesel motors on refuge lakes except in the waterfowl hunting area.
 
 Lake Isom National Wildlife Refuge
 
 *A. Migratory Game Bird Hunting.* [Reserved]
 
-*B. Upland Game Hunting.* We allow hunting of squirrel and raccoon on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*B. Upland Game Hunting.* We allow hunting of squirrel and raccoon on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. The refuge is a day-use area only. We close the refuge from legal sunset to legal sunrise, with the exception of legal hunting activities.
+1. We seasonally close the refuge to the public from November 15 through March 15.
 
-2. We allow only legally licensed vehicles on maintained refuge roads and parking areas. We prohibit all-terrain vehicles (ATVs), utility-type vehicles (UTVs), and off-road motorized vehicles. We prohibit airboats, jet skis, hovercrafts, etc. We prohibit parking as to block travel through refuge access roads, gates, and trails (see § 27.31(h) of this chapter).
+2. You must possess and carry a signed refuge permit (signed refuge brochure) and comply with all permit provisions and other applicable State and Federal laws.
 
-3. We set season dates and bag limits annually and publish them in the refuge brochure available at the refuge office.
+3. We allow hunters to access the refuge no earlier than 2 hours before legal sunrise to no later than 2 hours after legal sunset, except that raccoon hunters may access the refuge from legal sunset to legal sunrise.
 
-4. You must possess and carry a signed refuge permit (signed refuge brochure) and comply with all permit provisions and other applicable State and Federal laws.
+4. We allow horses only on roads opened to motorized traffic. We prohibit the use of horses and other animal conveyances from all other areas including fields, woods, and foot trails.
 
-5. We allow hunters to access the refuge no earlier than 2 hours before legal sunrise to no later than 2 hours after legal sunset, with the exception of raccoon and opossum hunters. We will allow access to those hunters from legal sunset to legal sunrise.
+5. You may take coyote and beaver incidental to legal hunting activities with legal methods of take for those hunts.
 
-6. We seasonally close the refuge sanctuary area to the public from November 15 through March 15.
+6. We do not open for spring squirrel season on the refuge.
 
-7. All youth hunters age 15 and younger must remain within sight and normal voice contact of an adult age 21 or older, who possesses a license. One adult hunter may supervise no more than two youth hunters.
+*C. Big Game Hunting.* We allow only archery hunting for white-tailed deer on designated areas of the refuge in accordance with State regulations and subject to the following condition: Conditions B1 through B5 apply.
 
-8. We allow horses only on roads open to motorized traffic. We prohibit the use of horses and other animal conveyances from all other areas including fields, woods, and foot trails.
-
-9. You may possess only approved nontoxic shot while hunting with a shotgun (see § 32.2(k)).
-
-10. You may take coyote and beaver incidental to legal hunting activities.
-
-11. We prohibit camping and fires on the refuge.
-
-12. We prohibit cutting of holes, lanes, or other manipulation of vegetation (*e.g.,* cutting bushes and trees, mowing, herbicide use, and other actions) (see § 27.51 of this chapter).
-
-13. We prohibit hunting over or the placement of bait (see § 32.2(h)). Baiting means the direct or indirect placing, exposing, depositing, or scattering of any salt, grain, powder, liquid, or other feed substance to attract game.
-
-14. We do not open for spring squirrel season on the refuge.
-
-15. We prohibit trapping.
-
-*C. Big Game Hunting.* We allow only archery hunting for white-tailed deer on designated areas of the refuge in accordance with State regulations subject to the following conditions:
-
-1. Conditions B1 through B6 and B8 through B14 apply.
-
-2. We allow the use of only portable blinds and tree stands on the refuge. You must remove blinds, tree stands, and all other personal equipment (see § 27.93 of this chapter) from the refuge at the end of each day.
-
-3. All youth hunters age 15 and younger must remain within sight and normal voice contact of an adult age 21 or older, who possesses a license. One adult hunter may supervise only one youth hunter.
-
-*D. Sport Fishing.* We allow sport fishing on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*D. Sport Fishing.* We allow sport fishing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
 1. We open all waters of Lake Isom to fishing only from March 16 through November 14 and from legal sunrise to legal sunset.
 
-2. We allow boats with only electric or outboard motors of 10 hp or less.
+2. We allow boats with only electric or outboard motors of 10 horsepower or less.
 
-3. We prohibit taking frog or turtle from refuge waters (see § 27.21 of this chapter).
+3. We prohibit taking frog or turtle from refuge waters.
 
-4. We allow fishing only with pole and line or rod and reel.
+4. We allow fishing only with pole and line, or rod and reel.
 
-5. We prohibit possession of unauthorized fishing gear, including trotlines, limblines, juglines, yo-yos, nets, spears, and snag hooks while fishing on the refuge.
-
-6. We allow use of a bow and arrow or a gig to take nongame fish on refuge waters.
-
-7. We prohibit use or possession of alcoholic beverages while fishing on refuge lands and waters (see § 32.2(j)).
+5. We allow use of a bow and arrow, or a gig to take nongame fish on refuge waters.
 
 Lower Hatchie National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of duck, goose, coot, merganser, mourning dove, woodcock, and snipe on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*A. Migratory Game Bird Hunting.* We allow hunting of duck, goose, coot, merganser, mourning dove, woodcock, and snipe on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. The refuge is a day-use area only. We close the refuge from legal sunset to legal sunrise, with the exception of legal hunting/fishing activities.
+1. We seasonally close the sanctuary area of the refuge and the southern unit of Sunk Lake Public Use Natural Area to the public from November 15 through March 15.
 
-2. We allow only legally licensed vehicles on maintained refuge roads and parking areas. We prohibit all-terrain vehicles (ATVs), utility-type vehicles (UTVs), and off-road motorized vehicles. We prohibit airboats, jet skis, hovercrafts, etc. We prohibit parking as to block travel through refuge access roads, gates, and trails (see § 27.31(h) of this chapter).
+2. You must possess and carry a signed refuge permit (signed refuge brochure) and comply with all permit provisions and other applicable State and Federal laws.
 
-3. We seasonally close the sanctuary area of the refuge and the southern unit of Sunk Lake Public Use Natural Area to the public from November 15 through March 15.
+3. We allow hunting for duck, goose, coot, and merganser from1/2 hour before legal sunrise to 12 p.m. (noon) CST. We allow hunters to access the refuge no earlier than 2 hours before legal sunrise.
 
-4. You must possess and carry a signed refuge permit (signed refuge brochure) and comply with all permit provisions and other applicable State and Federal law.
+4. We close mourning dove, woodcock, and snipe seasons during all firearms, youth, and muzzleloader deer seasons.
 
-5. We allow hunting for duck, goose, coot, and merganser from1/2 hour before legal sunrise to 12 p.m. (noon) CST. We allow hunters to access the refuge no earlier than 2 hours before legal sunrise.
+5. You may use only portable blinds, and you must remove all boats, blinds, and decoys from the refuge by 1 p.m. CST daily.
 
-6. Mourning dove, woodcock, and snipe seasons close during all firearms, youth, and muzzleloader deer seasons.
+6. We close Sunk Lake Public Use Natural Area to all migratory game bird hunting, and we close the southern unit of Sunk Lake Public Use Natural Area to all hunting.
 
-7. You may use only portable blinds, and you must remove all boats, blinds, and decoys (see § 27.93 of this chapter) from the refuge by 1 p.m. CST daily.
+*B. Upland Game Hunting.* We allow hunting of squirrel, rabbit, quail, raccoon, and opossum on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-8. Each youth hunter age 15 and younger must remain within sight and normal voice contact and under supervision of an adult age 21 or older, who possesses a license. One adult hunter may supervise no more than two youth hunters.
+1. Conditions A1, A2, and A6 apply.
 
-9. You may possess only approved nontoxic shot while hunting with a shotgun (see § 32.2(k)).
-
-10. We close Sunk Lake Public Use Natural Area to all migratory game bird hunting, and we close the southern unit of Sunk Lake Public Use Natural Area to all hunting.
-
-11. We prohibit cutting of holes, lanes, or other manipulation of vegetation (*e.g.,* cutting bushes and trees, mowing, herbicide use, and other actions) (see § 27.51 of this chapter).
-
-12. We prohibit hunting over or the placement of bait (see § 32.2(h)). Baiting means the direct or indirect placing, exposing, depositing, or scattering of any salt, grain, powder, liquid, or other feed substance to attract game.
-
-*B. Upland Game Hunting.* We allow hunting of squirrel, rabbit, quail, raccoon, and opossum on designated areas of the refuge in accordance with State regulations subject to the following conditions:
-
-1. Conditions A1 through A4 and A8 through A13 apply.
-
-2. We allow hunters to access the refuge no more than 2 hours before legal sunrise to no more than 2 hours after legal sunset with the exception of raccoon and opossum hunters. We will allow access to those hunters from legal sunset to legal sunrise.
+2. We allow hunters to access the refuge no more than 2 hours before legal sunrise to no more than 2 hours after legal sunset, except that raccoon and opossum hunters may access the refuge from legal sunset to legal sunrise.
 
 3. We do not open for spring squirrel season on the refuge.
 
-4. Squirrel, rabbit, and quail seasons close during all firearms, youth, and muzzleloader deer seasons.
+4. We close squirrel, rabbit, and quail seasons during all firearms, youth, and muzzleloader deer seasons.
 
-5. Raccoon and opossum seasons close Friday and Saturday nights during all firearms, youth, and muzzleloader deer hunts and seasons, including the Friday night prior to any hunt or season that opens on a Saturday morning.
+5. We close raccoon and opossum seasons on Friday and Saturday nights during all firearms, youth, and muzzleloader deer hunts and seasons, including the Friday night prior to any hunt or season that opens on a Saturday morning.
 
 6. We allow horses only on roads open to motorized traffic. We prohibit the use of horses and other animal conveyances from all other areas including fields, woods, and foot trails.
 
-7. You may take coyote and beaver incidental to legal hunting activities.
+7. You may take coyote and beaver incidental to legal hunting activities with legal methods of take for those hunts.
 
-8. We prohibit camping and fires on the refuge.
+*C. Big Game Hunting.* We allow hunting of white-tailed deer and turkey on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-9. We prohibit trapping.
-
-*C. Big Game Hunting.* We allow hunting of white-tailed deer and turkey on designated areas of the refuge in accordance with State regulations subject to the following conditions:
-
-1. Conditions A1 through A4, A8, A10 through A13, and B6 through B8 apply.
+1. Conditions A1, A2, A6, B2, B6, and B7 apply.
 
 2. You may participate in the refuge quota hunts only with a special quota permit (name and address only) issued through random drawing. Information for permit applications is available at the refuge headquarters.
 
-3. You may possess only approved nontoxic shot while hunting turkey (see § 32.2(k)).
+3. We allow archery deer hunting only on the northern unit of Sunk Lake Public Use Natural Area.
 
-4. Hunters may possess lead-rifled slugs while deer hunting on the refuge (see § 32.2(k)).
-
-5. We allow the use of only portable blinds and tree stands on the refuge. You must remove blinds, tree stands, and all other personal equipment (see § 27.93 of this chapter) from the refuge at the end of each day's hunt.
-
-6. All youth hunters age 15 and younger must remain within sight and normal voice contact of an adult age 21 or older, who possesses a license. One adult hunter may supervise only one youth hunter.
-
-7. We allow archery deer hunting only on the northern unit of Sunk Lake Public Use Natural Area.
-
-*D. Sport Fishing.* We allow sport fishing on designated areas of the refuge and the Sunk Lake Public Use Natural Area in accordance with State regulations subject to the following conditions:
+*D. Sport Fishing.* We allow sport fishing on designated areas of the refuge and the Sunk Lake Public Use Natural Area in accordance with State regulations and subject to the following conditions:
 
 1. We allow fishing only from legal sunrise to legal sunset.
 
-2. We allow fishing only with pole and line or rod and reel.
+2. We allow fishing only with pole and line, or rod and reel.
 
-3. We prohibit possession of unauthorized fishing gear, including trotlines, limblines, juglines, yo-yos, nets, spears, and snag hooks while fishing on the refuge.
+3. We allow use of a bow and arrow, or a gig to take nongame fish on refuge waters.
 
-4. We allow use of a bow and arrow or a gig to take nongame fish on refuge waters.
+4. We prohibit taking frog or turtle on the refuge.
 
-5. We prohibit taking frog or turtle on the refuge (see § 27.21 of this chapter).
+5. We seasonally close the sanctuary area of the refuge and the southern unit of Sunk Lake Public Use Natural Area to the public from November 15 through March 15.
 
-6. We seasonally close the sanctuary area of the refuge and the southern unit of Sunk Lake Public Use Natural Area to the public from November 15 through March 15.
-
-7. We allow the use of only nonmotorized boats and boats with electric motors on Sunk Lake Public Use Natural Area.
+6. We allow the use of only nonmotorized boats and boats with electric motors on Sunk Lake Public Use Natural Area.
 
 Reelfoot National Wildlife Refuge
 
 *A. Migratory Game Bird Hunting.* [Reserved]
 
-*B. Upland Game Hunting.* We allow hunting of squirrel and raccoon on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*B. Upland Game Hunting.* We allow hunting of squirrel and raccoon on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. The refuge is a day-use area only. We close the refuge from legal sunset to legal sunrise, with the exception of legal hunting/fishing activities.
+1. We seasonally close the refuge to the public from November 15 through March 15.
 
-2. We allow only legally licensed vehicles on maintained refuge roads and parking areas. We prohibit all-terrain vehicles (ATVs), utility-type vehicles (UTVs), and off-road motorized vehicles. We prohibit airboats, jet skis, hovercrafts, etc. We prohibit parking as to block travel through refuge access roads, gates, and trails (see § 27.31(h) of this chapter).
+2. You must possess and carry a signed refuge permit (signed refuge brochure) and comply with all permit provisions and other applicable State and Federal law.
 
-3. We set season dates and bag limits annually and publish them in the refuge brochure available at the refuge office.
+3. We allow hunters to access the refuge no earlier than 2 hours before legal sunrise to no later than 2 hours after legal sunset, except that raccoon hunters may access the refuge from legal sunset to legal sunrise.
 
-4. You must possess and carry a signed refuge permit (signed refuge brochure) and comply with all permit provisions and other applicable State and Federal law.
+4. We allow horses only on roads open to motorized traffic. We prohibit the use of horses and other animal conveyances from all other areas including fields, woods, and foot trails.
 
-5. We allow hunters to access the refuge no earlier than 2 hours before legal sunrise to no later than 2 hours after legal sunset, with the exception of raccoon and opossum hunters. We will allow access to those hunters from legal sunset to legal sunrise.
+5. You may take coyote and beaver incidental to legal hunting activities with legal methods of take for those hunts.
 
-6. We seasonally close the sanctuary areas of the refuge to the public from November 15 through March 15.
+6. We do not open for spring squirrel season on the refuge.
 
-7. All youth hunters age 15 and younger must remain within sight and normal voice contact of an adult age 21 or older, who possesses a license. One adult hunter may supervise no more than two youth hunters.
+*C. Big Game Hunting.* We allow hunting for white-tailed deer and turkey on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-8. We allow horses only on roads open to motorized traffic. We prohibit the use of horses and other animal conveyances from all other areas including fields, woods, and foot trails.
-
-9. You may possess only approved nontoxic shot while hunting with a shotgun (see § 32.2(k)).
-
-10. You may take coyote and beaver incidental to legal hunting activities.
-
-11. We prohibit camping and fires on the refuge.
-
-12. We prohibit cutting of holes, lanes, or other manipulation of vegetation (*e.g.,* cutting bushes and trees, mowing, herbicide use, and other actions) (see § 27.51 of this chapter).
-
-13. We prohibit hunting over or the placement of bait (see § 32.2(h)). Baiting means the direct or indirect placing, exposing, depositing, or scattering of any salt, grain, powder, liquid, or other feed substance to attract game.
-
-14. We do not open for spring squirrel season on the refuge.
-
-15. We prohibit trapping.
-
-*C. Big Game Hunting.* We allow hunting for white-tailed deer and turkey on designated areas of the refuge in accordance with State regulations subject to the following conditions:
-
-1. Conditions B1 through B6 and B8 through B14 apply.
+1. Conditions B1 through B5 apply.
 
 2. You may participate in the refuge firearms deer and turkey quota hunts only with a special quota permit (name and address only) issued through random drawing. Information for permit applications is available at the refuge headquarters.
 
-3. You may possess only approved nontoxic shot while turkey hunting on the refuge (see § 32.2(k)).
-
-4. Hunters may possess lead-rifled slugs while deer hunting on the refuge (see § 32.2(k)).
-
-5. We allow the use of only portable blinds and tree stands on the refuge. You must remove blinds, tree stands, and all other personal equipment (see § 27.93 of this chapter) from the refuge at the end of each day's hunt.
-
-6. All youth hunters age 15 and younger must remain within sight and normal voice contact of an adult age 21 or older, who possesses a license. One adult hunter may supervise only one youth hunter.
-
-*D. Sport Fishing.* We allow sport fishing on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*D. Sport Fishing.* We allow sport fishing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
 1. We allow access to the Long Point Unit (north of Upper Blue Basin) for fishing from March 16 through November 14, and the Grassy Island Unit (south of Upper Blue Basin) for fishing from February 1 through November 14.
 
 2. We allow fishing on the refuge from legal sunrise to legal sunset.
 
-3. We prohibit taking of frog or turtle on the refuge (see § 27.21 of this chapter).
+3. We prohibit taking of frog or turtle on the refuge.
 
-4. We prohibit airboats, hovercraft, or personal watercraft (e.g., Jet Skis) on any waters within the refuge boundary.
+4. We prohibit airboats, hovercraft, or personal watercraft (*e.g.,* Jet Skis) on any waters within the refuge boundary.
 
 Tennessee National Wildlife Refuge
 
@@ -496,4 +364,4 @@ Tennessee National Wildlife Refuge
 
 8. We allow bow fishing in refuge impoundments and on Kentucky Lake.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29085, May 18, 1993; 59 FR 6698, Feb. 11, 1994; 59 FR 55188, Nov. 3, 1994; 60 FR 62047, Dec. 4, 1995; 62 FR 47382, Sept. 9, 1997; 63 FR 46921, Sept. 3, 1998; 65 FR 30791, May 12, 2000; 66 FR 46361, Sept. 4, 2001; 67 FR 58950, Sept. 18, 2002; 69 FR 54362, 54454, Sept. 8, 2004; 70 FR 54191, Sept. 13, 2005; 73 FR 33197, June 11, 2008; 74 FR 45697, Sept. 3, 2009; 76 FR 3990, Jan. 21, 2011; 76 FR 56086, Sept. 9, 2011; 77 FR 56060, Sept. 11, 2012; 80 FR 51930, Aug. 26, 2015; 81 FR 68918, Oct. 4, 2016]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29085, May 18, 1993; 59 FR 6698, Feb. 11, 1994; 59 FR 55188, Nov. 3, 1994; 60 FR 62047, Dec. 4, 1995; 62 FR 47382, Sept. 9, 1997; 63 FR 46921, Sept. 3, 1998; 65 FR 30791, May 12, 2000; 66 FR 46361, Sept. 4, 2001; 67 FR 58950, Sept. 18, 2002; 69 FR 54362, 54454, Sept. 8, 2004; 70 FR 54191, Sept. 13, 2005; 73 FR 33197, June 11, 2008; 74 FR 45697, Sept. 3, 2009; 76 FR 3990, Jan. 21, 2011; 76 FR 56086, Sept. 9, 2011; 77 FR 56060, Sept. 11, 2012; 80 FR 51930, Aug. 26, 2015; 81 FR 68918, Oct. 4, 2016; 83 FR 45802, Sept. 10, 2018]

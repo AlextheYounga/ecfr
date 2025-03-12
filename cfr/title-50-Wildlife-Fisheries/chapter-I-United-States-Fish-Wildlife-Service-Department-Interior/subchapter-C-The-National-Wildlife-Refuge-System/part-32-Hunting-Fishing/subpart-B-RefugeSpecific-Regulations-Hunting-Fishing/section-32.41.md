@@ -148,34 +148,46 @@ Seney National Wildlife Refuge
 
 Shiawassee National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of goose on designated areas in accordance with State regulations subject to the following conditions:
+*A. Migratory Game Bird Hunting.* We allow hunting of waterfowl (ducks and geese), American coot, common gallinule, sora, Virginia rail, and Wilson's snipe on designated areas in accordance with State regulations and subject to the following conditions:
 
 1. You must possess and carry a refuge permit.
 
-2. We allow goose hunting on designated cropland fields until 12 p.m. (noon) with a required checkout time of 1 p.m.
+2. We allow waterfowl hunting on Saturdays, Sundays, Tuesdays, and Thursdays during regular goose season after September 30.
 
-3. You may only possess approved nontoxic shotgun shells (see § 32.2(k)) in quantities of 10 or less.
+3. We allow hunter access 11/2 hours before legal shooting time.
 
-4. We require hunters to stay within 50 feet (15 m) of posted site.
+4. We allow hunters to shoot1/2 hour before legal sunrise until 12:00 p.m. (noon).
 
-*B. Upland Game Hunting.* [Reserved]
+5. You may possess no more than 25 shotgun shells while hunting in the field.
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+6. We allow hunting with dogs.
 
-1. You must possess and carry a refuge permit.
+7. We allow the take of feral hogs incidental to other lawful hunting using legal methods of take.
 
-2. Hunters must wear in a visible manner on head, chest, and back a minimum of 400 square inches (2,600 cm2) of solid-colored hunter orange clothing or material.
+*B. Upland Game Hunting.* We allow hunting of turkey, small game (eastern fox squirrel, eastern cottontail, ring-necked pheasant, American woodcock, and American crow), and furbearers (raccoon, coyote, and red fox) on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-3. We require that you must display a minimum of 100 square inches (650 cm2) solid-colored, hunter-orange material on the external surface of portable blinds.
+1. Condition A6 applies.
 
-4. During muzzleloader hunts we require only guns capable of firing one round before reloading.
+2. You may only hunt turkey during spring season.
 
-5. We allow hunters with a State medical permit to use crossbows.
+3. We allow hunter access for spring wild turkey season from 11/2 hour before legal shooting time.
 
-*D. Sport Fishing.* We allow sport fishing on designated areas in accordance with State regulations subject to the following conditions:
+4. We allow hunter access for small game from1/2 hour before legal shooting time to1/2 hour after legal shooting time.
+
+5. We allow hunting with dogs, but we prohibit training of dogs. Raccoon hunting dogs must wear GPS or radio collars.
+
+6. You may only hunt furbearers from1/2 hour before legal sunrise to1/2 hour after legal sunset.
+
+*C. Big Game Hunting.* We allow hunting of white-tailed deer on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+
+1. Condition A6 applies.
+
+2. You must possess and carry a refuge permit.
+
+*D. Sport Fishing.* We allow sport fishing on designated areas in accordance with State regulations and subject to the following conditions:
 
 1. We allow fishing by boat in navigable waterways but not within any managed refuge units.
 
-2. We allow bank fishing from legal sunrise to legal sunset only at designated sites along the Spaulding Drain and the Tittabawassee and Cass Rivers.
+2. We allow bank fishing from legal sunrise to legal sunset only at designated sites along the Tittabawassee and Cass Rivers.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 6693, Feb. 11, 1994; 59 FR 55186, Nov. 3, 1994; 67 FR 58946, Sept. 18, 2002; 69 FR 54362, 54415, Sept. 8, 2004; 76 FR 3979, Jan. 21, 2011; 77 FR 56046, Sept. 11, 2012; 79 FR 14830, Mar. 17, 2014; 80 FR 51910, Aug. 26, 2015; 81 FR 68905, Oct. 4, 2016]
+[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 6693, Feb. 11, 1994; 59 FR 55186, Nov. 3, 1994; 67 FR 58946, Sept. 18, 2002; 69 FR 54362, 54415, Sept. 8, 2004; 76 FR 3979, Jan. 21, 2011; 77 FR 56046, Sept. 11, 2012; 79 FR 14830, Mar. 17, 2014; 80 FR 51910, Aug. 26, 2015; 81 FR 68905, Oct. 4, 2016; 83 FR 45791, Sept. 10, 2018]

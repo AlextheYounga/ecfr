@@ -6,47 +6,25 @@ Cokeville Meadows National Wildlife Refuge
 
 *A. Migratory Game Bird Hunting.* We allow hunting of ducks, dark geese, coots, mergansers, snipe, Virginia rail, Sora rail, sandhill crane, and mourning dove in accordance with State regulations and subject to the following conditions:
 
-1. We prohibit hunting of migratory game birds in areas of the refuge indicated on the Cokeville Meadows National Wildlife Refuge Hunting Brochure and marked by signs as closed to all hunting or closed to migratory bird hunting.
+1. We prohibit hunting in areas of the refuge indicated on the Cokeville Meadows National Wildlife Refuge Hunting Brochure and marked by signs as closed to all hunting or closed to migratory bird hunting.
 
-2. You may only possess approved nontoxic shot while in the field (see § 32.2(k)).
+2. Dogs must be leashed and/or under the direct control of a handler (see § 26.21(b) of this chapter). The use of dogs to find and retrieve legally harvested migratory game birds is allowed.
 
-3. We prohibit pits and permanent blinds.
+3. Hunters are required to access and exit the hunting areas from a Designated Hunter Parking Area only. Drop off or pick up of hunters is prohibited except at Hunter Designated Parking Areas.
 
-4. You may use portable blinds or blinds constructed of natural dead vegetation (see § 27.51 of this chapter).
-
-5. You must remove all decoys, shell casings, portable and temporary blinds, and other personal equipment (see §§ 27.93 and 27.94 of this chapter) from the refuge at the end of each day.
-
-6. We prohibit possession or consumption of any alcoholic beverage while hunting (see § 32.2(j)).
-
-7. Hunters may not enter closed areas to retrieve animals legally shot in an open area unless authorization has been given by a refuge employee or State Conservation Officer. Permission must be obtained from private landowners before attempting to retrieve game on private land.
-
-8. Dogs must be leashed and/or under the direct control of a handler (see § 26.21(b) of this chapter). The use of dogs to find and retrieve legally harvested migratory game birds is allowed.
-
-9. Hunters must park in a Designated Hunter Parking Area, as identified by signs.
-
-10. Hunters are required to access and exit the hunting areas from a Designated Hunter Parking Area only. Drop off or pick up of hunters is prohibited except at Hunter Designated Parking Areas.
-
-11. Hunters may only access the refuge 1 hour before legal sunrise until 1 hour after legal sunset.
+4. Hunters may only access the refuge 1 hour before legal sunrise until 1 hour after legal sunset.
 
 *B. Upland Game Hunting.* We allow hunting of blue grouse, ruffed grouse, chuckar partridge, gray partridge, cottontail rabbits, snowshoe hares, squirrels (red, gray, and fox), red fox, raccoon, and striped skunk in accordance with State regulations and subject to the following conditions:
 
-1. Conditions A2 through A7 and A9 through A11 apply.
+1. Conditions A1, A3, and A4 apply.
 
-2. We prohibit hunting of upland game species in areas of the refuge indicated on the Cokeville Meadows National Wildlife Refuge Hunting Brochure and marked by signs as closed to all hunting.
+2. Dogs must be leashed and/or under the direct control of a handler. The use of dogs to find and retrieve legally harvested upland game birds, cottontail rabbits, and squirrels is allowed and encouraged. Dogs may not be used to chase red fox, raccoon, striped skunk, or any other species not specifically allowed in A8 or this paragraph.
 
-3. Dogs must be leashed and/or under the direct control of a handler. The use of dogs to find and retrieve legally harvested upland game birds, cottontail rabbits, and squirrels is allowed and encouraged. Dogs may not be used to chase red fox, raccoon, striped skunk, or any other species not specifically allowed in A8 or this paragraph.
-
-4. Red fox, raccoon, and striped skunk may be taken on the refuge by licensed migratory bird, big game, or upland/small game hunters from September 1 until the end of the last open big game, upland bird, or small game season. Red fox, raccoon, or striped skunk that is harvested must be taken into possession and removed from the refuge.
-
-5. We prohibit hunting of sage grouse.
+3. Red fox, raccoon, and striped skunk may be taken on the refuge by licensed migratory bird, big game, or upland/small game hunters from September 1 until the end of the last open big game, upland bird, or small game season. Red fox, raccoon, or striped skunk that are harvested must be taken into possession and removed from the refuge.
 
 *C. Big Game Hunting.* We allow hunting of elk, mule deer, white-tailed deer, pronghorn, and moose in accordance with State regulations and subject to the following conditions:
 
-1. Conditions A3 through A7 and A9 through A11 apply.
-
-2. We prohibit hunting of big game in areas of the refuge indicated on the Cokeville Meadows National Wildlife Refuge Hunting Brochure and marked by signs as closed to all hunting.
-
-3. You may hunt with the aid of a temporary tree stand that does not require drilling or nailing into the tree. All personal property, including temporary tree stands, must be removed at the end of each day (see §§ 27.93 and 27.94 of this chapter).
+1. Conditions A1, A3, and A4 apply.
 
 *D. Sport Fishing.* [Reserved]
 
@@ -120,4 +98,4 @@ Seedskadee National Wildlife Refuge
 
 3. We prohibit taking of mollusk, crustacean, reptile, and amphibian from the refuge.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 55188, Nov. 3, 1994; 60 FR 62049, Dec. 4, 1995; 62 FR 47383, Sept. 9, 1997; 63 FR 2182, Jan. 14, 1998; 65 FR 30795, May 12, 2000; 67 FR 58952, Sept. 18, 2002; 69 FR 54362, 54473, Sept. 8, 2004; 76 FR 4000, Jan. 21, 2011; 79 FR 14844, Mar. 17, 2014]
+[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 55188, Nov. 3, 1994; 60 FR 62049, Dec. 4, 1995; 62 FR 47383, Sept. 9, 1997; 63 FR 2182, Jan. 14, 1998; 65 FR 30795, May 12, 2000; 67 FR 58952, Sept. 18, 2002; 69 FR 54362, 54473, Sept. 8, 2004; 76 FR 4000, Jan. 21, 2011; 79 FR 14844, Mar. 17, 2014; 81 FR 45810, Sept. 10, 2018]

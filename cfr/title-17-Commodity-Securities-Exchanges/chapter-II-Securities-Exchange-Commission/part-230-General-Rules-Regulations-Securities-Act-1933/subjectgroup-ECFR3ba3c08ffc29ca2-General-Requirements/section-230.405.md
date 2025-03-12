@@ -1,7 +1,5 @@
 ##### § 230.405 Definitions of terms. #####
 
-Link to an amendment published at 83 FR 32019, July 10, 2018.
-
 Unless the context otherwise requires, all terms used in §§ 230.400 to 230.494, inclusive, or in the forms for registration have the same meanings as in the Act and in the general rules and regulations. In addition, the following definitions apply, unless the context otherwise requires:
 
 *Affiliate.* An *affiliate* of, or person *affiliated* with, a specified person, is a person that directly, or indirectly through one or more intermediaries, controls or is controlled by, or is under common control with, the person specified.
@@ -222,21 +220,49 @@ For purposes of making the prescribed income test the following guidance should 
 
 2. If income of the registrant and its subsidiaries consolidated for the most recent fiscal year is at least 10 percent lower than the average of the income for the last five fiscal years, such average income should be substituted for purposes of the computation. Any loss years should be omitted for purposes of computing average income.
 
-*Smaller reporting company:* As used in this part, the term *smaller reporting company* means an issuer that is not an investment company, an asset-backed issuer (as defined in § 229.1101 of this chapter), or a majority-owned subsidiary of a parent that is not a smaller reporting company and that:
+*Smaller reporting company.* As used in this part, the term *smaller reporting company* means an issuer that is not an investment company, an asset-backed issuer (as defined in § 229.1101 of this chapter), or a majority-owned subsidiary of a parent that is not a smaller reporting company and that:
 
-(1) Had a public float of less than $75 million as of the last business day of its most recently completed second fiscal quarter, computed by multiplying the aggregate worldwide number of shares of its voting and non-voting common equity held by non-affiliates by the price at which the common equity was last sold, or the average of the bid and asked prices of common equity, in the principal market for the common equity; or
+(1) Had a public float of less than $250 million; or
 
-(2) In the case of an initial registration statement under the Securities Act or Exchange Act for shares of its common equity, had a public float of less than $75 million as of a date within 30 days of the date of the filing of the registration statement, computed by multiplying the aggregate worldwide number of such shares held by non-affiliates before the registration plus, in the case of a Securities Act registration statement, the number of such shares included in the registration statement by the estimated public offering price of the shares; or
+(2) Had annual revenues of less than $100 million and either:
 
-(3) In the case of an issuer whose public float as calculated under paragraph (1) or (2) of this definition was zero, had annual revenues of less than $50 million during the most recently completed fiscal year for which audited financial statements are available.
+(i) No public float; or
 
-(4) *Determination:* Whether or not an issuer is a smaller reporting company is determined on an annual basis.
+(ii) A public float of less than $700 million.
 
-(i) For issuers that are required to file reports under section 13(a) or 15(d) of the Exchange Act, the determination is based on whether the issuer came within the definition of smaller reporting company using the amounts specified in paragraph (f)(2)(iii) of Item 10 of Regulation S-K (§ 229.10(f)(1)(i) of this chapter), as of the last business day of the second fiscal quarter of the issuer's previous fiscal year. An issuer in this category must reflect this determination in the information it provides in its quarterly report on Form 10-Q for the first fiscal quarter of the next year, indicating on the cover page of that filing, and in subsequent filings for that fiscal year, whether or not it is a smaller reporting company, except that, if a determination based on public float indicates that the issuer is newly eligible to be a smaller reporting company, the issuer may choose to reflect this determination beginning with its first quarterly report on Form 10-Q following the determination, rather than waiting until the first fiscal quarter of the next year.
+(3) Whether an issuer is a smaller reporting company is determined on an annual basis.
 
-(ii) For determinations based on an initial Securities Act or Exchange Act registration statement under paragraph (f)(1)(ii) of Item 10 of Regulation S-K (§ 229.10(f)(1)(ii) of this chapter), the issuer must reflect the determination in the information it provides in the registration statement and must appropriately indicate on the cover page of the filing, and subsequent filings for the fiscal year in which the filing is made, whether or not it is a smaller reporting company. The issuer must redetermine its status at the end of its second fiscal quarter and then reflect any change in status as provided in paragraph (4)(i) of this definition. In the case of a determination based on an initial Securities Act registration statement, an issuer that was not determined to be a smaller reporting company has the option to redetermine its status at the conclusion of the offering covered by the registration statement based on the actual offering price and number of shares sold.
+(i) For issuers that are required to file reports under section 13(a) or 15(d) of the Exchange Act:
 
-(iii) Once an issuer fails to qualify for smaller reporting company status, it will remain unqualified unless it determines that its public float, as calculated in accordance with paragraph (f)(1) of this definition, was less than $50 million as of the last business day of its second fiscal quarter or, if that calculation results in zero because the issuer had no public equity outstanding or no market price for its equity existed, if the issuer had annual revenues of less than $40 million during its previous fiscal year.
+(A) Public float is measured as of the last business day of the issuer's most recently completed second fiscal quarter and computed by multiplying the aggregate worldwide number of shares of its voting and non-voting common equity held by non-affiliates by the price at which the common equity was last sold, or the average of the bid and asked prices of common equity, in the principal market for the common equity;
+
+(B) Annual revenues are as of the most recently completed fiscal year for which audited financial statements are available; and
+
+(C) An issuer must reflect the determination of whether it came within the definition of smaller reporting company in its quarterly report on Form 10-Q for the first fiscal quarter of the next year, indicating on the cover page of that filing, and in subsequent filings for that fiscal year, whether it is a smaller reporting company, except that, if a determination based on public float indicates that the issuer is newly eligible to be a smaller reporting company, the issuer may choose to reflect this determination beginning with its first quarterly report on Form 10-Q following the determination, rather than waiting until the first fiscal quarter of the next year.
+
+(ii) For determinations based on an initial registration statement under the Securities Act or Exchange Act for shares of its common equity:
+
+(A) Public float is measured as of a date within 30 days of the date of the filing of the registration statement and computed by multiplying the aggregate worldwide number of shares of its voting and non-voting common equity held by non-affiliates before the registration plus, in the case of a Securities Act registration statement, the number of shares of its voting and non-voting common equity included in the registration statement by the estimated public offering price of the shares;
+
+(B) Annual revenues are as of the most recently completed fiscal year for which audited financial statements are available; and
+
+(C) The issuer must reflect the determination of whether it came within the definition of smaller reporting company in the registration statement and must appropriately indicate on the cover page of the filing, and subsequent filings for the fiscal year in which the filing is made, whether it is a smaller reporting company. The issuer must re-determine its status at the end of its second fiscal quarter and then reflect any change in status as provided in paragraph (3)(i)(C) of this definition. In the case of a determination based on an initial Securities Act registration statement, an issuer that was not determined to be a smaller reporting company has the option to re-determine its status at the conclusion of the offering covered by the registration statement based on the actual offering price and number of shares sold.
+
+(iii) Once an issuer determines that it does not qualify for smaller reporting company status because it exceeded one or more of the current thresholds, it will remain unqualified unless when making its annual determination either:
+
+(A) It determines that its public float was less than $200 million; or
+
+(B) It determines that its public float and its annual revenues meet the requirements for subsequent qualification included in the following chart:
+
+|    Prior annual revenues     |                Prior public float                |                                          |
+|------------------------------|--------------------------------------------------|------------------------------------------|
+|None or less than $700 million|               $700 million or more               |                                          |
+|    Less than $100 million    |            Neither threshold exceeded            |Public float - Less than $560 million; and|
+|                              |                                                  |    Revenues - Less than $100 million.    |
+|     $100 million or more     |Public float - None or less than $700 million; and|Public float - Less than $560 million; and|
+|                              |         Revenues - Less than $80 million         |    Revenues - Less than $80 million.     |
+
+Instruction 1 to definition of “smaller reporting company”: A registrant that qualifies as a smaller reporting company under the public float thresholds identified in paragraphs (1) and (3)(iii)(A) of this definition will qualify as a smaller reporting company regardless of its revenues.
 
 *Subsidiary.* A *subsidiary* of a specified person is an affiliate controlled by such person directly, or indirectly through one or more intermediaries. (See also *majority owned subsidiary, significant subsidiary, totally held subsidiary,* and *wholly owned subsidiary.*)
 

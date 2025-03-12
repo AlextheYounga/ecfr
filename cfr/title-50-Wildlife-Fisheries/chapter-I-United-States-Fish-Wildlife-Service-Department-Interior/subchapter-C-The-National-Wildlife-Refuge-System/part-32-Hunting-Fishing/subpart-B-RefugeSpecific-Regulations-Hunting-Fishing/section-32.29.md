@@ -44,43 +44,29 @@ Blackbeard Island National Wildlife Refuge
 
 6. You may only camp at the designated camping area.
 
-7. You must confine fires (see § 27.95 of this chapter) to the camping area.
+7. For hunting, we allow only bows in accordance with State regulations.
 
-8. We prohibit flagging, blazing, or trail-marking devices to locate stands or for any other purpose.
+8. Hunters may take five deer (no more than two antlered), and we will issue State bonus tags for two of these. There is no bag limit on feral hog.
 
-9. For hunting, we allow only bows in accordance with State regulations.
+9. Refuge personnel must check deer harvested during the scheduled hunt before hunters may remove them from the refuge.
 
-10. We prohibit the use of organized drives for taking or attempting to take game.
+10. Hunters must be off the island by 12 p.m. (noon) on Sunday.
 
-11. Hunters may take five deer (no more than two antlered), and we will issue State bonus tags for two of these. There is no bag limit on feral hog.
+11. We close the refuge to the nonhunting public on all hunt days.
 
-12. Refuge personnel must check deer harvested during the scheduled hunt before hunters may remove them from the refuge.
+12. Youth hunters age 15 and younger must remain within sight and normal voice contact of an adult age 21 or older. One adult may supervise no more than one youth hunter.
 
-13. Hunters must be on their stands from1/2 hour before legal sunrise until 9 a.m. and from 2 hours before legal sunset until1/2 hour after legal sunset.
+13. We prohibit mooring boats to the government dock except for loading and unloading purposes.
 
-14. We prohibit target practice except in designated areas (see § 27.42 of this chapter).
+14. We prohibit the use of trail or game cameras.
 
-15. Hunters must be off the island by 12 p.m. (noon) on Sunday.
-
-16. We close the refuge to the nonhunting public on all hunt days.
-
-17. Youth hunters age 15 and under must remain within sight and normal voice contact of an adult age 21 or older, possessing a license. One adult may supervise no more than one youth hunter.
-
-18. We prohibit mooring boats to the government dock except for loading and unloading purposes.
-
-19. We prohibit the use of trail or game cameras.
-
-20. We prohibit hunters from bringing firewood to the refuge.
-
-21. Persons possessing, transporting, or carrying firearms on national wildlife refuges must comply with all provisions of State and local law. Persons may only use (discharge) firearms in accordance with refuge regulations (see § 27.42 of this chapter and specific refuge regulations in part 32).
+15. We prohibit hunters from bringing firewood to the refuge.
 
 *D. Sport Fishing.* We allow fishing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
 1. We allow saltwater fishing year-round in the estuarine waters adjacent to the refuge.
 
 2. We allow bank/beach saltwater fishing into estuarine waters only from legal sunrise to legal sunset except during managed hunts.
-
-3. We require a Georgia fishing license and Saltwater Information Program (SIP) permit.
 
 Bond Swamp National Wildlife Refuge
 
@@ -226,41 +212,27 @@ Harris Neck National Wildlife Refuge
 
 2. Each hunter may place one stand on the refuge during the week preceding each hunt, but you must remove stands by the end of each hunt (see § 27.93 of this chapter).
 
-3. Hunters must be on their stands from1/2 hour before legal sunrise until 9 a.m. and from 2 hours before legal sunset until1/2 hour after legal sunset.
+3. We prohibit hunting within 100 yards (91.4 meters) of Harris Neck Road, the refuge entrance drive, Visitor Contact Station/Office, Barbour River Landing, Barbour River Road, or Gould's Cemetery.
 
-4. We prohibit use of flagging, blazing, or trail-marking devices to locate stands or for any other purpose.
+4. We require hunters to check-in and check-out each hunt day. Personal identification is required.
 
-5. We prohibit hunting within 100 yards (91.4 meters) of Harris Neck Road, the refuge entrance drive, Visitor Contact Station/Office, Barbour River Landing, Barbour River Road, or Gould's Cemetery.
+5. We require hunters to check all harvested game at the check station before leaving the refuge each day.
 
-6. We require hunters to check-in and check-out each hunt day. Personal identification is required.
+6. During the archery hunt, we allow only bows in accordance with State regulations.
 
-7. We require hunters to check all harvested game at the check station before leaving the refuge each day.
+7. Hunters must enter the refuge through the main entrance gate. We prohibit entry by boat.
 
-8. During the hunts, we will restrict vehicles to the auto tour route (see § 27.31 of this chapter) and allow two-way traffic.
+8. Hunters may take five deer (no more than two antlered), and we will issue State bonus tags for two of these. There is no bag limit for feral hog.
 
-9. During the archery hunt, we allow only bows in accordance with State regulations.
+9. During the gun hunt, we allow only shotguns (20 gauge or larger; slugs only), muzzleloaders, and bows in accordance with State regulations.
 
-10. Hunters must enter the refuge through the main entrance gate. We prohibit entry by boat.
+10. Refuge personnel must check deer harvested during refuge hunts before leaving the refuge.
 
-11. Hunters may take five deer (no more than two antlered), and we will issue State bonus tags for two of these. There is no bag limit for feral hog.
+11. We will close the refuge to the nonhunting public on all hunt days.
 
-12. During the gun hunt, we allow only shotguns (20 gauge or larger; slugs only), muzzleloaders, and bows in accordance with State regulations.
+12. Youth hunters age 15 and younger must remain within sight and normal voice contact of an adult age 21 or older. One adult may supervise no more than one youth hunter.
 
-13. We prohibit target practice (see § 27.42 of this chapter).
-
-14. During the gun hunt, hunters must wear an outer garment with a minimum of 500 square inches (3,250 square centimeters) of hunter-orange material above the waistline.
-
-15. Refuge personnel must check deer harvested during refuge hunts before leaving the refuge.
-
-16. We prohibit the use of organized drives for taking or attempting to take game.
-
-17. We will close the refuge to the nonhunting public on all hunt days.
-
-18. Youth hunters age 15 and under must remain within sight and normal voice contact of an adult age 21 or older, possessing a license. One adult may supervise no more than one youth hunter.
-
-19. We prohibit the use of trail or game cameras.
-
-20. Persons possessing, transporting, or carrying firearms on national wildlife refuges must comply with all provisions of State and local law. Persons may only use (discharge) firearms in accordance with refuge regulations (§ 27.42 of this chapter and specific refuge regulations in part 32).
+13. We prohibit the use of trail or game cameras.
 
 *D. Sport Fishing.* We allow fishing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
@@ -268,23 +240,21 @@ Harris Neck National Wildlife Refuge
 
 2. We allow bank fishing into estuarine waters only from legal sunrise to legal sunset except during managed hunts.
 
-3. We close the Barbour Landing (boat ramp and parking areas) to the public from 12 a.m. (midnight) to 4 a.m.
-
-4. We prohibit freshwater fishing.
-
-5. We require a Georgia fishing license and Saltwater Information Program (SIP) permit.
+3. We prohibit freshwater fishing.
 
 Okefenokee National Wildlife Refuge
 
 *A. Migratory Game Bird Hunting.* [Reserved]
 
-*B. Upland Game Hunting.* We allow the hunting of rabbit, squirrel, bobwhite quail, and turkey on the Cowhouse Unit of the refuge. The season will be consistent with the adjacent Dixon Memorial Wildlife Management Area and in accordance with State hunting regulations subject to the following conditions:
+*B. Upland Game Hunting.* We allow the hunting of rabbit, squirrel, bobwhite quail, and turkey on the Cowhouse Unit of the refuge. The season will be consistent with the adjacent Dixon Memorial Wildlife Management Area and in accordance with State regulations and subject to the following conditions:
 
 1. We only allow foot and bicycle traffic on the refuge portion of Cowhouse Island.
 
 2. We only allow dogs to locate, point, and retrieve during quail hunts.
 
-*C. Big Game Hunting.* We allow hunting of turkey only on the Cowhouse Island Unit of the refuge. We allow hunting of white-tailed deer and feral hog at the Suwannee Canal Recreation Area, the Pocket Unit, and Cowhouse Island Unit in accordance with State regulations subject to the following conditions:
+3. Feral hogs can only be taken during small game dates after October 31.
+
+*C. Big Game Hunting.* We allow hunting of turkey only on the Cowhouse Island Unit of the refuge. We allow hunting of white-tailed deer and feral hog, as an incidental take, at the Suwannee Canal Recreation Area, the Pocket Unit, and Cowhouse Island Unit in accordance with State regulations and subject to the following conditions:
 
 1. In the Pocket Unit:
 
@@ -292,41 +262,29 @@ i. We only allow archery hunting and foot traffic.
 
 ii. You must sign in and out daily.
 
-iii. You must remove tree stands daily (see § 27.93 of this chapter).
+iii. We prohibit possessing a cocked crossbow in a motor vehicle.
 
-iv. We prohibit the use of dogs.
-
-v. We prohibit hunting within 50 yards (45.7 meters) of any road opened for vehicular access.
-
-vi. We prohibit possessing a cocked crossbow in a motor vehicle.
-
-vii. We allow scouting 7 days prior to scheduled hunt.
-
-viii. We prohibit shooting from a motor vehicle.
+iv. We allow nonmotorized scouting 7 days prior to scheduled hunt.
 
 2. In the Suwannee Canal Unit:
 
-i. We only allow two1/2-day hunts (dates will be announced) and shotguns with slugs or muzzleloaders.
+i. We only allow two half-day hunts reserved for 30 hunters and 10 mobility-impaired/youth hunters.
 
-ii. We require a refuge permit (Big/Upland Game Hunt Application, FWS Form 3-2356) through refuge lottery (fee will be announced).
+ii. We allow only shotguns with slugs or muzzleloaders.
 
-iii. Hunters must remain on stands from 30 minutes before legal sunrise until 9 a.m.
+iii. We require a refuge permit (Big/Upland Game Hunt Application, FWS Form 3-2356) obtained through refuge lottery.
 
 iv. You must sign in and sign out daily.
 
-v. You must tag your deer with special refuge tags (obtained from Refuge Office). There is a limit of two deer of either sex per day.
+v. You must tag your deer with special refuge tags.
 
-vi. We zone Chesser Island Hunt area to accommodate wheelchair hunters.
+vi. There is a limit of two deer of either sex per day.
 
-vii. We prohibit hunting with dogs.
+vii. We zone Chesser Island Hunt area to accommodate mobility-impaired and youth hunters. Only mobility-impaired hunters may use ATVs and vehicles on firebreaks and unpaved roads.
 
-viii. We allow scouting 7 days prior to scheduled hunt.
+viii. We allow nonmotorized scouting 7 days prior to scheduled hunt.
 
-ix. We prohibit shooting from a motor vehicle.
-
-x. We prohibit taking or possessing any wildlife except during an open season for that species.
-
-xi. Condition C.1.iii applies.
+ix. Condition C.1.iii applies.
 
 3. In the Cowhouse Island Unit:
 
@@ -334,7 +292,7 @@ i. Dixon Memorial Wildlife Management Area rules, regulations, dates, and times 
 
 ii. Conditions B.1, C.1.iii, and C.1.iv apply.
 
-*D. Sport Fishing.* We allow fishing on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*D. Sport Fishing.* We allow fishing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
 1. You may use only 10 horsepower motors or less on the refuge.
 
@@ -474,57 +432,39 @@ Savannah National Wildlife Refuge
 
 1. All hunters age 16 and older must possess and carry a signed refuge hunt permit (name/address/phone) and a State license. We charge a fee for all hunt permits.
 
-2. To participate in the youth waterfowl hunt, youth hunters must submit the Waterfowl Lottery Application (FWS Form 3-2355). You must pay an application fee to enter the hunt drawing.
+2. To participate in the quota youth waterfowl hunt, youth hunters must submit the Waterfowl Lottery Application (FWS Form 3-2355). You must pay an application fee to enter the hunt drawing.
 
-3. We allow temporary blinds only. You must remove decoys and other personal property from the refuge daily (see § 27.93 of this chapter).
+3. Youth hunters, defined as those age 15 and younger, must remain within sight and normal voice contact of an adult age 21 or older. One adult may supervise no more than two youth hunters.
 
-4. We allow shotguns for all migratory game bird hunting, but only with nontoxic shot size #2 or smaller.
+4. You may take feral hog and coyote during all refuge hunts (migratory bird, upland, and big game) with weapons authorized and legal for those hunts.
 
-5. Youth hunters, defined as those age 15 and younger, must remain within sight and normal voice contact of an adult age 21 or older; the adult must possess a valid hunting license for the State in which they are hunting. One adult may supervise no more than two youth hunters.
-
-6. You may take feral hog and coyote during all refuge hunts (migratory bird, upland, and big game) with weapons authorized and legal for those hunts.
-
-7. You may use retrieving dogs. Dogs must remain under direct and constant control of the hunter.
-
-8. You must comply with all provisions of State and local law when possessing, transporting, or carrying firearms on national wildlife refuges. You may only use (discharge) firearms in accordance with refuge regulations (see § 27.42 of this chapter and specific refuge regulations in part 32.)
+5. You may use retrieving dogs. Dogs must remain under direct and constant control of the hunter.
 
 *B. Upland Game Hunting.* We allow hunting of squirrel and rabbit on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. Conditions A1, A6, and A8 apply.
+1. Conditions A1 and A4 apply.
 
-2. For squirrel hunting, we allow rimfire rifles, rimfire pistols, or shotguns with nontoxic shot size #2 shot or smaller. We recommend but do not require solid copper or other nontoxic rimfire bullets. For rabbit hunting, we allow shotguns, but only with nontoxic shot size #2 or smaller.
+2. You may not hunt on or within 100 yards (90 meters) of public roads, refuge facilities, roads and trails, and railroad rights-of-way, or in closed areas.
 
-3. You may not hunt on or within 100 yards (90 meters) of public roads, refuge facilities, roads and trails, and railroad rights-of-way, or in closed areas.
-
-4. You may not use dogs for upland game hunting.
-
-5. During the period when upland game hunting coincides with the refuge gun hunt for deer and hogs, you must wear an outer garment containing a minimum of 500 square inches (3,226 square centimeters) of hunter-orange material above the waistline.
-
-6. Youth hunters, defined as those age 15 and younger, must remain within sight and normal voice contact of an adult age 21 or older; the adult must possess a valid hunting license for the State in which they are hunting. One adult may supervise no more than one youth hunter.
+3. Youth hunters, defined as those age 15 and younger, must remain within sight and normal voice contact of an adult age 21 or older. One adult may supervise no more than one youth hunter.
 
 *C. Big Game Hunting.* We allow hunting of white-tailed deer, turkey, feral hog, and coyote on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. Conditions A1, A6, A8, B3, and B6 apply.
+1. Conditions A1, A4, and B3 apply.
 
-2. To participate in the gun hunt for wheelchair-dependent hunters, hunters must submit the Quota Deer Hunt Application (FWS Form 3-2354). To participate in the Youth Turkey Hunt & Learn Weekend, youth hunters must submit the Big/Upland Game Hunt Application (FWS Form 3-2356). You must pay an application fee to enter these hunt drawings.
+2. To participate in the quota gun hunt for wheelchair-dependent hunters, hunters must submit the Quota Deer Hunt Application (FWS Form 3-2354). To participate in the quota Youth Turkey Hunt & Learn Weekend, youth hunters must submit the Big/Upland Game Hunt Application (FWS Form 3-2356). You must pay an application fee to enter these hunt drawings.
 
-3. To participate in the youth-only deer or turkey hunts, youth hunters must request a free hunt permit from the refuge headquarters.
+3. You may only use bows, in accordance with State regulations, for deer, hog, and coyote hunting during the archery hunt for these species.
 
-4. You may only use bows, in accordance with State regulations, for deer, hog, and coyote hunting during the archery hunt for these species.
+4. You may only use shotguns (20 gauge or larger, slugs only), center-fire rifles, center-fire pistols, muzzleloaders, and bows, in accordance with State regulations, for deer, hog, and coyote hunting during the firearm hunts for these species.
 
-5. You may only use shotguns (20 gauge or larger, slugs only), center-fire rifles, center-fire pistols, muzzleloaders, and bows, in accordance with State regulations, for deer, hog, and coyote hunting during the firearm hunts for these species.
+5. Hunters may take as many as five deer (no more than two antlered). There is no bag limit on feral hog or coyote.
 
-6. You must remove hunt stands following each day's hunt (see § 27.93 of this chapter).
+6. Turkey hunters may harvest only three gobblers (male turkey).
 
-7. Hunters may take as many as five deer (no more than two antlered). There is no bag limit on feral hog or coyote.
+7. We allow only shotguns with nontoxic #2 shot or smaller, and bows, in accordance with State regulations, for turkey hunting. We prohibit the use of slugs or buckshot for turkey hunting.
 
-8. Turkey hunters may harvest only three gobblers (male turkey).
-
-9. We allow only shotguns with nontoxic #2 shot or smaller, and bows, in accordance with State regulations, for turkey hunting. We prohibit the use of slugs or buckshot for turkey hunting.
-
-10. We prohibit the use of trail or game cameras. We also prohibit the use of trail marking tacks, bright eyes, reflectors, reflecting tape, and any other markers, including biodegradable markers such as toilet paper and paper tape.
-
-11. We prohibit the use of dogs for big game hunting.
+8. We prohibit the use of trail or game cameras.
 
 *D. Sport Fishing.* We allow fishing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
@@ -532,15 +472,11 @@ Savannah National Wildlife Refuge
 
 2. Anglers may fish in Kingfisher Pond and all tidal creeks year-round.
 
-3. We allow fishing from sunrise to sunset.
+3. We allow fishing from legal sunrise to legal sunset.
 
 4. Anglers may bank fish year-round throughout the refuge, unless otherwise posted.
 
-5. Boats may not be left on the refuge overnight.
-
-6. Anglers may only use non-motorized boats and boats with electric motors within impounded waters.
-
-7. We require a Georgia fishing license for fishing in Georgia waters; we require a South Carolina freshwater fishing license for fishing in South Carolina waters (includes refuge impoundments and bank fishing from Laurel Hill Wildlife Drive).
+5. Anglers may only use non-motorized boats and boats with electric motors within impounded waters.
 
 Wassaw National Wildlife Refuge
 
@@ -552,47 +488,37 @@ Wassaw National Wildlife Refuge
 
 1. We require a refuge hunt permit, for all hunters age 16 and older, which must be signed and carried at all times when hunting. We charge a fee for all hunt permits.
 
-2. We prohibit flagging, blazing, or trail-marking devices to locate stands or for any other purpose.
+2. Refuge personnel must check deer harvested during scheduled hunts before hunters leave the refuge.
 
-3. We prohibit the use of organized drives for taking or attempting to take game.
+3. Hunters may take five deer (no more than two antlered), and we will issue State bonus tags for two of these. There is no bag limit on feral hog.
 
-4. Refuge personnel must check deer harvested during scheduled hunts before hunters leave the refuge.
+4. We allow only bows and muzzleloading rifles, in accordance with State regulations, for deer and hog hunting during primitive weapons hunt.
 
-5. Hunters may take five deer (no more than two antlered), and we will issue State bonus tags for two of these. There is no bag limit on feral hog.
+5. We allow only shotguns (20 gauge or larger; slug only), center-fire rifles, center-fire pistols, bows, and primitive weapons, in accordance with State regulations, for deer and hog hunting during the gun hunt.
 
-6. Hunters must be on their stands from1/2 hour before legal sunrise until 9 a.m. and from 2 hours before legal sunset until1/2 hour after legal sunset.
+6. We prohibit mooring boats to the government dock except for loading or unloading purposes.
 
-7. We prohibit target practice (see § 27.42 of this chapter).
+7. Hunters must check-in at the refuge dock prior to setting up camp. We require personal identification at check-in.
 
-8. We allow only bows and muzzleloading rifles, in accordance with State regulations, for deer and hog hunting during primitive weapons hunt.
+8. We only allow camping at the designated camping area.
 
-9. We allow only shotguns (20 gauge or larger; slug only), center-fire rifles (.22 caliber or larger), bows, and primitive weapons, in accordance with State regulations, for deer and hog hunting during the gun hunt.
+9. Each hunter may place one stand on the refuge no earlier than 1 month prior to the opening day of each hunt, but you must remove all stands by the end of each hunt (see § 27.93 of this chapter).
 
-10. We prohibit mooring boats to the government dock except for loading or unloading purposes.
+10. Hunters may check-in at the refuge dock no more than 1 day in advance of the opening day of the hunt.
 
-11. Hunters must check-in at the refuge dock prior to setting up camp. We require personal identification at check-in.
+11. Hunters must be off the island by 12 p.m. (noon) the day following the last day of the hunt.
 
-12. We only allow camping at the designated camping area. You must confine fires (see § 27.95 of this chapter) to the camping area.
-
-13. Each hunter may place one stand on the refuge no earlier than 1 month prior to the opening day of each hunt, but you must remove all stands by the end of each hunt (see § 27.93 of this chapter).
-
-14. We require hunters to wear an outer garment that contains a minimum of 500 square inches (3,250 cm2) of hunter-orange material above the waistline.
-
-15. Hunters may check-in at the refuge dock no more than 1 day in advance of the opening day of the hunt.
-
-16. Hunters must be off the island by 12 p.m. (noon) the day following the last day of the hunt.
-
-17. Within the refuge, you may only walk or use a bicycle. We prohibit hunters to leave by boat to reach other parts of the island.
+12. Within the refuge, you may only walk or use a bicycle. We prohibit hunters to leave by boat to reach other parts of the island.
 
 18. We will close the refuge to the nonhunting public on all hunt days.
 
-19. Youth hunters age 15 and under must remain within sight and normal voice contact of an adult age 21 or older, possessing a license. One adult may supervise no more than one youth hunter.
+13. [Reserved]
 
-20. We prohibit the use of trail or game cameras.
+14. Youth hunters age 15 and younger must remain within sight and normal voice contact of an adult age 21 or older. One adult may supervise no more than one youth hunter.
 
-21. We prohibit hunters from bringing firewood to the refuge.
+15. We prohibit the use of trail or game cameras.
 
-22. Persons possessing, transporting, or carrying firearms on national wildlife refuges must comply with all provisions of State and local law. Persons may only use (discharge) firearms in accordance with refuge regulations (§ 27.42 of this chapter and specific refuge regulations in part 32.)
+16. We prohibit hunters from bringing firewood to the refuge.
 
 *D. Sport Fishing.* We allow fishing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
@@ -601,8 +527,6 @@ Wassaw National Wildlife Refuge
 2. We allow bank/beach fishing into estuarine waters only from legal sunrise to legal sunset except during managed hunts.
 
 3. We prohibit freshwater fishing.
-
-4. We require a Georgia fishing license and Saltwater Information Program (SIP) permit.
 
 Wolf Island National Wildlife Refuge
 
@@ -620,4 +544,4 @@ Wolf Island National Wildlife Refuge
 
 3. We require a Georgia fishing license and Saltwater Information Program (SIP) permit.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 6691, Feb. 11, 1994; 59 FR 55185, Nov. 3, 1994; 62 FR 47377, Sept. 9, 1997; 63 FR 46915, Sept. 3, 1998; 65 FR 30781, May 12, 2000; 66 FR 46355, Sept. 4, 2001; 67 FR 58944, Sept. 18, 2002; 69 FR 54362, 54382, Sept. 8, 2004; 70 FR 54166, Sept. 13, 2005; 73 FR 33171, June 11, 2008; 74 FR 45683, Sept. 3, 2009; 74 FR 50736, Oct. 1, 2009; 76 FR 3958, Jan. 21, 2011; 76 FR 56068, Sept. 9, 2011; 77 FR 56038, Sept. 11, 2012; 79 FR 14827, Mar. 17, 2014; 80 FR 51897, Aug. 26, 2015; 82 FR 51951, Nov. 8, 2017]
+[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 6691, Feb. 11, 1994; 59 FR 55185, Nov. 3, 1994; 62 FR 47377, Sept. 9, 1997; 63 FR 46915, Sept. 3, 1998; 65 FR 30781, May 12, 2000; 66 FR 46355, Sept. 4, 2001; 67 FR 58944, Sept. 18, 2002; 69 FR 54362, 54382, Sept. 8, 2004; 70 FR 54166, Sept. 13, 2005; 73 FR 33171, June 11, 2008; 74 FR 45683, Sept. 3, 2009; 74 FR 50736, Oct. 1, 2009; 76 FR 3958, Jan. 21, 2011; 76 FR 56068, Sept. 9, 2011; 77 FR 56038, Sept. 11, 2012; 79 FR 14827, Mar. 17, 2014; 80 FR 51897, Aug. 26, 2015; 82 FR 51951, Nov. 8, 2017; 83 FR 45778, Sept. 10, 2018]

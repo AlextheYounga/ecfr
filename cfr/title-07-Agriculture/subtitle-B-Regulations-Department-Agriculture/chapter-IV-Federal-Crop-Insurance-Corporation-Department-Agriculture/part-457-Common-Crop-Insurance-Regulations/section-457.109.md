@@ -1,5 +1,7 @@
 ##### § 457.109 Sugar Beet Crop Insurance Provisions. #####
 
+Link to an amendment published at 83 FR 45538, Sept. 10, 2018.
+
 The Sugar Beet Crop Insurance Provisions for the 2017 and succeeding crop years in counties with a contract change date of November 30, and for the 2018 and succeeding crop years in counties with a contract change date of April 30, are as follows:
 
 FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationReinsured policies(Appropriate title for insurance provider)

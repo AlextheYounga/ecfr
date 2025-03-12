@@ -132,7 +132,7 @@ Cibola National Wildlife Refuge
 
 *D. Sport Fishing.* We allow sport fishing and frogging subject to the following condition: Cibola Lake is open to fishing and frogging from March 15 through Labor Day.
 
-Havasu National Wildlife RefugeHavasu National Wildlife Refuge
+Havasu National Wildlife Refuge
 
 *A. Migratory Game Bird Hunting.* We allow hunting of mourning and white-winged dove, duck, coot, moorhen, goose, and common snipe on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 

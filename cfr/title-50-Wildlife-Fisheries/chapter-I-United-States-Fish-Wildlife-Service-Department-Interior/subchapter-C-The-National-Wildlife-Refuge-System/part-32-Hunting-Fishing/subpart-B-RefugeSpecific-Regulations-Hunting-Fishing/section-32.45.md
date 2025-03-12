@@ -4,35 +4,23 @@ The following refuge units have been opened for hunting and/or fishing, and are 
 
 Benton Lake National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of duck, goose, swan, and coot in designated areas of the refuge in accordance with State regulations and subject to the following conditions (consult refuge manager prior to hunting to learn of changes or updates):
+*A. Migratory Game Bird Hunting.* We allow hunting of duck, goose, swan, and coot in designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
 1. We allow hunters to enter and remain in open hunting areas 2 hours before legal sunrise until 2 hours after legal sunset.
 
-2. We prohibit hunting on or within 25 yards (22.5 meters) of dikes or roads except the marked portion of the dike between Marsh Units 5 and 6.
+2. We allow hunting with the opening of waterfowl season and close hunting at the end of waterfowl season.
 
-3. We prohibit access to refuge hunting areas from other than authorized refuge parking areas.
+3. We allow hunting during a youth-only, special waterfowl hunt in accordance with State regulations.
 
-4. We allow hunting with the opening of waterfowl season and close November 30.
+4. Hunters with a documented mobility disability may reserve an accessible blind in advance by contacting the refuge office.
 
-5. We allow hunting during youth waterfowl and pheasant hunts in accordance with State regulations.
+5. We only allow nonmotorized boats on refuge waters.
 
-6. We allow hunting from temporary portable blinds or blinds made from natural vegetation.
+*B. Upland Game Hunting.* We allow hunting of pheasant, sharp-tailed grouse, and gray partridge in designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-7. We prohibit the retrieval of downed game from areas closed to hunting.
+1. Conditions A1 and A2 apply.
 
-8. Hunters must have a means of bird retrieval, using a boat, waders, or a trained dog (see § 26.21(b) of this chapter).
-
-9. You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction at the end of each day (see §§ 27.93 and 27.94 of this chapter).
-
-*B. Upland Game Hunting.* We allow hunting of pheasant, sharp-tailed grouse, and gray partridge in designated areas of the refuge in accordance with State regulations subject to the following conditions (consult refuge manager prior to hunting to learn of changes or updates):
-
-1. Conditions A1 and A8 apply.
-
-2. We prohibit access to refuge hunting areas from other than authorized refuge parking areas.
-
-3. We prohibit hunting on or within 25 yards (22.5 m) of dikes or roads except the marked portion of the dike between Marsh Units 5 and 6.
-
-4. We allow hunting during youth pheasant hunts in accordance with State regulations.
+2. We allow hunting during a youth-only, special pheasant hunt in accordance with State regulations.
 
 *C. Big Game Hunting.* [Reserved]
 
@@ -40,13 +28,17 @@ Benton Lake National Wildlife Refuge
 
 Benton Lake Wetland Management District
 
-*A. Migratory Game Bird Hunting.* We allow migratory game bird hunting on Waterfowl Production Areas (WPA) throughout the District, excluding Sands WPA in Hill County and H2-0 WPA in Powell County, in accordance with State regulations and subject to the following condition: You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction at the end of each day (see §§ 27.93 and 27.94 of this chapter).
+*A. Migratory Game Bird Hunting.* We allow migratory game bird hunting on Waterfowl Production Areas (WPAs) throughout the District, excluding Sands WPA in Hill County and H2-0 WPA in Powell County, in accordance with State regulations and subject to the following condition: We prohibit the use of motorboats.
 
-*B. Upland Game Hunting.* We allow the hunting of coyotes, skunks, red fox, raccoons, hares, rabbits, and tree squirrels on Waterfowl Production Areas (WPAs) throughout the District, excluding Sands WPA in Hill County and H2-0 WPA in Powell County, in accordance with State regulations and subject to the following condition: Hunters may possess only approved nontoxic shot (see § 32.2(k)).
+*B. Upland Game Hunting.* We allow the hunting of coyotes, skunks, red fox, raccoons, hares, rabbits, and tree squirrels on WPAs throughout the District, excluding Sands WPA in Hill County and H2-0 WPA in Powell County, in accordance with State regulations and subject to the following conditions:
 
-*C. Big Game Hunting.* We allow big game hunting on WPAs throughout the District, excluding Sands WPA in Hill County and H2-0 WPA in Powell County, in accordance with State regulations.
+1. Hunters may possess only approved nontoxic shot (see § 32.2(k)).
 
-*D. Sport Fishing.* We allow sport fishing on WPAs throughout the District in accordance with State regulations subject to the following condition: You must remove boats, fishing equipment, and other personal property at the end of each day (see §§ 27.93 and 27.94 of this chapter).
+2. We prohibit the use of horses for any purposes.
+
+*C. Big Game Hunting.* We allow big game hunting on WPAs throughout the District, excluding Sands WPA in Hill County and H2-0 WPA in Powell County, in accordance with State regulations and subject to the following condition: Condition B2 applies.
+
+*D. Sport Fishing.* We allow sport fishing on WPAs throughout the District in accordance with State regulations and subject to the following condition: We prohibit the use of motorboats.
 
 Black Coulee National Wildlife Refuge
 
@@ -80,25 +72,15 @@ Black Coulee National Wildlife Refuge
 
 Bowdoin National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of duck, goose, coot, swan, sandhill crane, and mourning dove on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+*A. Migratory Game Bird Hunting.* We allow hunting of duck, goose, coot, swan, sandhill crane, and mourning dove on designated areas of the refuge in accordance with State regulations and subject to the following condition: We prohibit the use of air-thrust boats or boats with motors greater than 25 horsepower.
 
-1. You must check-in and check out of the refuge daily. Before hunting, each hunter must record the date, their name, and the time checking into the refuge on a register inside the Hunter Registration Kiosk at refuge headquarters. After hunting, each hunter must record hunting data (hours hunted waterfowl and/or upland game and the number of birds harvested) before departing the refuge.
+*B. Upland Game Hunting.* We allow hunting of pheasant, sharp-tailed grouse, sage grouse, gray partridge, fox, and coyote on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-2. We prohibit air-thrust boats or boats with motors greater than 25 hp.
+1. You must possess and carry a refuge Special Use Permit (FWS Form 3-1383-G) to hunt fox and coyotes.
 
-3. You must remove all boats, decoys, portable blinds, other personal property, and any materials brought onto the refuge for blind construction by legal sunset (see §§ 27.93 and 27.94 of this chapter).
+2. Fox and coyote hunters may only use centerfire rifles, rimfire rifles, or shotguns with approved nontoxic shot.
 
-*B. Upland Game Hunting.* We allow hunting of pheasant, sharp-tailed grouse, sage grouse, gray partridge, fox, and coyote on designated areas of the refuge in accordance with State regulations subject to the following conditions:
-
-1. Condition A1 applies.
-
-2. You must possess and carry a refuge Special Use Permit to hunt fox and coyotes.
-
-3. You may only possess approved nontoxic shot (see § 32.2(k)).
-
-4. Fox and coyote hunters may only use centerfire rifles, rimfire rifles, or shotguns with approved nontoxic shot.
-
-5. We require game bird hunters to wear at least one article of blaze-orange clothing visible above the waist.
+3. Any person hunting or accompanying a hunter must wear a minimum of 400 square inches of hunter orange (fluorescent) material above the waist, visible at all times.
 
 *C. Big Game Hunting.* [Reserved]
 
@@ -106,29 +88,19 @@ Bowdoin National Wildlife Refuge
 
 Bowdoin Wetland Management District
 
-*A. Migratory Game Bird Hunting.* We allow migratory game bird hunting on all Waterfowl Production Areas (WPA) (except Holm WPA) throughout the District in accordance with State regulations subject to the following conditions:
+*A. Migratory Game Bird Hunting.* We allow migratory game bird hunting on all Waterfowl Production Areas (WPAs) (except Holm WPA) throughout the District in accordance with State regulations and subject to the following condition: We prohibit the use of motorboats.
 
-1. We prohibit use of motorboats.
+*B. Upland Game Hunting.* We allow upland game hunting on all WPAs (except Holm WPA) throughout the District in accordance with State regulations.
 
-2. You must remove boats, decoys, portable blinds, other personal property, and any materials brought onto the area for blind construction at the end of each day (see §§ 27.93 and 27.94 of this chapter).
-
-*B. Upland Game Hunting.* We allow upland game hunting on all WPAs (except Holm WPA) throughout the District in accordance with State regulations subject to the following condition: Hunters may possess only approved nontoxic shot (see § 32.2(k)).
-
-*C. Big Game Hunting.* We allow big game hunting on all WPAs (except Holm WPA) throughout the District in accordance with State regulations subject to the following conditions:
+*C. Big Game Hunting.* We allow big game hunting on all WPAs (except Holm WPA) throughout the District in accordance with State regulations and subject to the following conditions:
 
 1. We allow portable tree stands, portable blinds, and freestanding elevated platforms to be left on WPAs from August 15 to December 15.
 
 2. You must label portable tree stands, portable blinds, and freestanding elevated platforms with your automated licensing system (ALS) number. The label must be legible from the ground.
 
-3. You must remove any other personal property brought onto the area at the end of each day (see §§ 27.93 and 27.94 of this chapter).
+3. We only allow the use of archery, muzzleloader (as defined by State regulations), or shotgun on the McNeil Slough WPA and Hammond WPA.
 
-4. We allow the use of only archery, muzzleloader (as defined by State regulations), or shotgun on the McNeil Slough WPA.
-
-*D. Sport Fishing.* We allow sport fishing on WPAs throughout the District in accordance with State regulations subject to the following conditions:
-
-1. We prohibit use of motorboats.
-
-2. You must remove boats, fishing equipment, and other personal property at the end of each day (see §§ 27.93 and 27.94 of this chapter).
+*D. Sport Fishing.* We allow sport fishing on WPAs throughout the District in accordance with State regulations and subject to the following condition: We prohibit the use of motorboats.
 
 Charles M. Russell National Wildlife Refuge
 
@@ -162,13 +134,11 @@ Charles M. Russell Wetland Management District
 
 Creedman Coulee National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of duck, goose, coot, swan, sandhill crane, and mourning dove on designated areas of the refuge in accordance with State regulations subject to the following condition:
+*A. Migratory Game Bird Hunting.* We allow hunting of duck, goose, coot, swan, sandhill crane, and mourning dove on designated areas of the refuge in accordance with State regulations.
 
-1. Most of the land within the refuge boundary is private land (inholding); persons wishing to access the private land must gain permission from the landowner.
+*B. Upland Game Hunting.* We allow hunting of pheasant, sharp-tailed grouse, sage grouse, gray partridge, fox, and coyote on designated areas of the refuge in accordance with State regulations.
 
-*B. Upland Game Hunting.* We allow hunting of pheasant, sharp-tailed grouse, sage grouse, gray partridge, fox, and coyote on designated areas of the refuge in accordance with State regulations subject to the following condition: Condition A1 applies.
-
-*C. Big Game Hunting.* We allow big game hunting on designated areas of the refuge in accordance with State regulations subject to the following condition: Condition A1 applies.
+*C. Big Game Hunting.* We allow big game hunting on designated areas of the refuge in accordance with State regulations.
 
 *D. Sport Fishing.* [Reserved]
 
@@ -228,35 +198,33 @@ Hewitt Lake National Wildlife Refuge
 
 Lake Mason National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* Hunting of migratory game birds is permitted on designated areas of the refuge subject to the following condition: The use of motorized boats is not permitted.
+*A. Migratory Game Bird Hunting.* We allow hunting of migratory game birds on designated areas of the refuge in accordance with State regulations.
 
-*B. Upland Game Hunting.* We allow hunting of upland game on designated areas of the refuge subject to the following condition: You may possess only approved nontoxic shot while in the field.
+*B. Upland Game Hunting.* We allow hunting of upland game on designated areas of the refuge in accordance with State regulations and subject to the following condition: You may possess only approved nontoxic shot while in the field (see § 32.2(k)).
 
-*C. Big Game Hunting.* Refuge open to big game hunting in accordance with State law.
+*C. Big Game Hunting.* We allow hunting of big game on designated areas of the refuge in accordance with State regulations.
 
 *D. Sport Fishing.* [Reserved]
 
 Lake Thibadeau National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of duck, goose, coot, swan, sandhill crane, and mourning dove in designated areas of the refuge in accordance with State regulations subject to the following condition:
+*A. Migratory Game Bird Hunting.* We allow hunting of duck, goose, coot, swan, sandhill crane, and mourning dove in designated areas of the refuge in accordance with State regulations.
 
-1. Most of the land within the refuge boundary is private land (inholding); persons wishing to hunt the private land must gain permission from the landowner.
+*B. Upland Game Hunting.* We allow hunting of pheasant, sharp-tailed grouse, sage grouse, gray partridge, fox, and coyote on designated areas of the refuge in accordance with State regulations.
 
-*B. Upland Game Hunting.* We allow hunting of pheasant, sharp-tailed grouse, sage grouse, gray partridge, fox, and coyote on designated areas of the refuge in accordance with State regulations subject to the following condition: Condition A1 applies.
-
-*C. Big Game Hunting.* We allow big game hunting on designated areas of the refuge in accordance with State regulations subject to the following condition: Condition A1 applies.
+*C. Big Game Hunting.* We allow big game hunting on designated areas of the refuge in accordance with State regulations.
 
 *D. Sport Fishing.* [Reserved]
 
-Lamesteer National Wildlife Refugee
+Lamesteer National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* The refuge unit is open to the hunting of migratory game birds but has no refuge-specific regulations as it follows guidelines set out in State law.
+*A. Migratory Game Bird Hunting.* We allow hunting of migratory birds on designated areas of the refuge in accordance with State regulations.
 
-*B. Upland Game Hunting.* The refuge unit is open to the hunting of upland game but has no refuge-specific regulations as it follows guidelines set out in State law.
+*B. Upland Game Hunting.* We allow hunting of upland game on designated areas of the refuge in accordance with State regulations.
 
-*C. Big Game Hunting.* The refuge unit is open to big game hunting but has no refuge-specific regulations as it follows guidelines set out in State law.
+*C. Big Game Hunting.* We allow hunting of big game on designated areas of the refuge in accordance with State regulations.
 
-*D. Sport Fishing.* Anglers may sport fish in accordance with state law.
+*D. Sport Fishing.* We allow sport fishing on designated areas of the refuge in accordance with State regulations.
 
 Lee Metcalf National Wildlife Refuge
 
@@ -560,34 +528,36 @@ iii. Secured in a hard-sided vehicle, including an enclosed camper or horse trai
 
 Swan River National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of geese, ducks, and coots on designated areas of the refuge subject to the following condition: Hunters may possess only approved nontoxic shot while in the field (see § 32.2(k)).
+*A. Migratory Game Bird Hunting.* We allow hunting of geese, ducks, and coots on designated areas of the refuge in accordance with State regulations.
 
 *B. Upland Game Hunting.* [Reserved]
 
-*C. Big Game Hunting.* [Reserved]
+*C. Big Game Hunting.* We allow archery hunting of elk, white-tailed deer, and mule deer on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-*D. Sport Fishing.* Refuge open to sport fishing in accordance with State law, and as specifically designated in refuge publications.
+1. We allow the use of portable blinds and stands. You may install stands and blinds no sooner than August 1, and you must remove them by December 15 of each year. We limit each hunter to one stand or blind. The hunter must have their name, address, phone number, and automated licensing system number (ALS) visibly marked on the stand.
+
+2. We prohibit the use of game or trail cameras.
+
+*D. Sport Fishing.* The refuge is open to sport fishing in accordance with State regulations on Swan River, Swan Lake, and Spring Creek North of Bog Trail Road.
 
 UL Bend National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* The refuge unit is open to the hunting of migratory game birds but has no refuge-specific regulations as it follows guidelines set out in State law.
+*A. Migratory Game Bird Hunting.* We allow hunting of migratory game birds on designated areas of the refuge in accordance with State regulations.
 
-*B. Upland Game Hunting.* Refuge is open to upland game hunting in accordance with State laws, regulations and subject to the following condition:
+*B. Upland Game Hunting.* We allow hunting of upland game birds on designated areas of the refuge in accordance with State regulations and subject to the following condition: We allow coyote hunting from the first day of antelope rifle season through March 1 annually.
 
-1. Coyote hunting allowed from the first day of antelope rifle season through March 1 annually.
+*C. Big Game Hunting.* We allow hunting of big game on designated areas of the refuge in accordance with State regulations.
 
-*C. Big Game Hunting.* Hunters may hunt big game subject to refuge-specific regulations as designated in refuge publications.
-
-*D. Sport Fishing.* The refuge unit is open to sport fishing but has no refuge-specific regulations as it follows guidelines set out in State law.
+*D. Sport Fishing.* We allow sport fishing on designated areas of the refuge in accordance with State regulations.
 
 War Horse National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* The refuge unit is open to the hunting of migratory game birds but has no refuge-specific regulations as it follows guidelines set out in State law.
+*A. Migratory Game Bird Hunting.* We allow hunting of migratory game birds on designated areas of the refuge in accordance with State regulations.
 
-*B. Upland Game Hunting.* We allow hunting of upland game birds on designated areas of the refuge subject to the following condition: You may possess only approved nontoxic shot while in the field.
+*B. Upland Game Hunting.* We allow hunting of upland game birds on designated areas of the refuge in accordance with State regulations and subject to the following condition: You may possess only approved nontoxic shot while in the field (see § 32.2(k)).
 
-*C. Big Game Hunting.* The refuge unit is open to big game hunting but has no refuge-specific regulations as it follows guidelines set out in State law.
+*C. Big Game Hunting.* We allow hunting of big game on designated areas of the refuge in accordance with State regulations.
 
-*D. Sport Fishing.* Refuge open to sport fishing in accordance with State law, and as specifically designated in refuge publications.
+*D. Sport Fishing.* We allow sport fishing on designated areas of the refuge in accordance with State regulations.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29075, May 18, 1993; 59 FR 6694, Feb. 11, 1994; 60 FR 62044, Dec. 4, 1995; 62 FR 47379, Sept. 9, 1997; 63 FR 46918, Sept. 3, 1998; 65 FR 30786, May 12, 2000; 67 FR 58946, Sept. 18, 2002; 69 FR 54362, 54427, Sept. 8, 2004; 70 FR 54182, Sept. 13, 2005; 73 FR 33189, June 11, 2008; 74 FR 45693, Sept. 3, 2009; 77 FR 56051, Sept. 11, 2012;79 FR 14832, Mar. 17, 2014; 82 FR 51956, Nov. 8, 2017]
+[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29075, May 18, 1993; 59 FR 6694, Feb. 11, 1994; 60 FR 62044, Dec. 4, 1995; 62 FR 47379, Sept. 9, 1997; 63 FR 46918, Sept. 3, 1998; 65 FR 30786, May 12, 2000; 67 FR 58946, Sept. 18, 2002; 69 FR 54362, 54427, Sept. 8, 2004; 70 FR 54182, Sept. 13, 2005; 73 FR 33189, June 11, 2008; 74 FR 45693, Sept. 3, 2009; 77 FR 56051, Sept. 11, 2012;79 FR 14832, Mar. 17, 2014; 82 FR 51956, Nov. 8, 2017; 83 FR 45791, Sept. 10, 2018]

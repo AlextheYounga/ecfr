@@ -1,14 +1,12 @@
 ##### § 1206.3 Annual assessments. #####
 
-Link to an amendment published at 83 FR 39326, Aug. 9, 2018.
-
 (a) *Establishing assessments.* The Director shall establish annual assessments on the Regulated Entities in an amount sufficient to maintain a working capital fund and provide for the payment of the FHFA's costs and expenses, including, but not limited to:
 
 (1) Expenses of any examinations under 12 U.S.C. 4517 and section 20 of the Federal Home Loan Bank Act (12 U.S.C. 1440);
 
 (2) Expenses of obtaining any reviews and credit assessments under 12 U.S.C. 4519;
 
-(3) Expenses of any enforcement activities under 12 U.S.C. 3645;
+(3) Expenses of any enforcement activities under 12 U.S.C. 4635;
 
 (4) Expenses of other FHFA litigation under 12 U.S.C. 4513;
 
@@ -41,3 +39,5 @@ Link to an amendment published at 83 FR 39326, Aug. 9, 2018.
 (c) *Timing and amount of semiannual payment.* Each Regulated Entity shall pay on or before October 1 and April 1 an amount equal to one-half of its annual assessment.
 
 (d) *Surplus funds.* Surplus funds shall be credited to the annual assessment by reducing the amount collected in the following semiannual period by the amount of the surplus funds. Surplus funds shall be allocated to all Regulated Entities in the same proportion in which they were collected, except as determined by the Director.
+
+[73 FR 56713, Sept. 30, 2008, as amended at 83 FR 39326, Aug. 9, 2018]

@@ -1,6 +1,4 @@
-##### § 1223.23 Annual reports - format and contents. #####
-
-Link to an amendment published at 83 FR 39326, Aug. 9, 2018.
+##### § 1223.23 Annual reports—format and contents. #####
 
 (a) *Format.* Each annual report shall consist of a detailed summary of the regulated entity's activities during the reporting year to carry out the requirements of this part, which report may also be made a part of the regulated entity's annual report to the Director. The report shall contain a table of contents and conclude with a certification by the regulated entity's officer responsible for the annual report that the data and information presented in the report are accurate, and are approved for submission.
 
@@ -18,13 +16,13 @@ Link to an amendment published at 83 FR 39326, Aug. 9, 2018.
 
 (6) Data showing the number of requests for reasonable accommodation received from employees and applicants for employment, the number of requests granted, and the disabilities accommodated and the types of accommodation granted during the reporting year;
 
-(7) Data showing for the reporting year by minority, gender, and disability classification the number of applicants for promotion at the regulated entity -
+(7) Data showing for the reporting year by minority, gender, and disability classification the number of applicants for promotion at the regulated entity—
 
 (i) Within each occupational or job category identified on the Form EEO-1; and
 
 (ii) From one such occupational or job category to another;
 
-(8) Data showing by minority, gender, and disability classification the number of individuals -
+(8) Data showing by minority, gender, and disability classification the number of individuals—
 
 (i) Promoted at the regulated entity within each occupational or job category identified on the Form EEO-1, after applying for such a promotion;
 
@@ -32,13 +30,13 @@ Link to an amendment published at 83 FR 39326, Aug. 9, 2018.
 
 (iii) Promoted at the regulated entity from one occupational or job category identified on the Form EEO-1 to another such category, after applying for such a promotion;
 
-(9) Data showing for the reporting year by minority, gender, and disability classification -
+(9) Data showing for the reporting year by minority, gender, and disability classification—
 
 (i) The number of individuals responsible for supervising employees and/or managing the functions or departments of the regulated entity; and
 
 (ii) A description of the strategies, initiatives, and activities executed during the preceding year to promote diverse individuals to supervisory and management roles;
 
-(10)(i) Data showing for the reporting year by minority and gender classification, the number of individuals on the board of directors of each Bank and the Office of Finance -
+(10)(i) Data showing for the reporting year by minority and gender classification, the number of individuals on the board of directors of each Bank and the Office of Finance—
 
 (A) Using data collected by each Bank and the Office of Finance through an information collection requesting each director's voluntary self-identification of his or her minority and gender classification without personally identifiable information;
 
@@ -60,7 +58,7 @@ Link to an amendment published at 83 FR 39326, Aug. 9, 2018.
 
 (15) Cumulative data separately showing the total amount paid for contracts in place at the beginning of the reporting year as well as those entered into during the reporting year;
 
-(16) Cumulative data separately showing the total number of contracts entered into during the reporting year that were -
+(16) Cumulative data separately showing the total number of contracts entered into during the reporting year that were—
 
 (i) Considered exempt under § 1223.3(b);
 
@@ -68,7 +66,7 @@ Link to an amendment published at 83 FR 39326, Aug. 9, 2018.
 
 (iii) Subcontractor (tier 2) contracts that prime contractors (tier 1) entered into with minorities, women, individuals with disabilities, or MWDOBs;
 
-(17) Cumulative data separately showing the total amount paid for contracts entered into during the reporting year that were -
+(17) Cumulative data separately showing the total amount paid for contracts entered into during the reporting year that were—
 
 (i) Considered exempt under § 1223.3(b);
 
@@ -80,9 +78,9 @@ Link to an amendment published at 83 FR 39326, Aug. 9, 2018.
 
 (19) The annual total of amounts paid to prime contractors (tier 1) and subcontractors (tier 2) and the percentage of which was paid separately through prime contracts and subcontracts to minorities, women, individuals with disabilities, or MWDOBs during the reporting year;
 
-(20) Certification of compliance with §§ 1207.20 and 1207.21, together with sufficient documentation to verify compliance;
+(20) Certification of compliance with §§ 1223.20 and 1223.21, together with sufficient documentation to verify compliance;
 
-(21) Data for the reporting year showing, separately, the number of equal opportunity complaints (including administrative agency charges or complaints, arbitral or judicial claims) against the regulated entity that -
+(21) Data for the reporting year showing, separately, the number of equal opportunity complaints (including administrative agency charges or complaints, arbitral or judicial claims) against the regulated entity that—
 
 (i) Claim employment discrimination, by basis or kind of the alleged discrimination (race, sex, disability, *etc.*) and by result (settlement, favorable, or unfavorable outcome);
 
@@ -90,7 +88,7 @@ Link to an amendment published at 83 FR 39326, Aug. 9, 2018.
 
 (iii) Were resolved through the regulated entity's internal processes;
 
-(22) Data showing for the reporting year amounts paid to claimants by the regulated entity for settlements or judgments on discrimination complaints -
+(22) Data showing for the reporting year amounts paid to claimants by the regulated entity for settlements or judgments on discrimination complaints—
 
 (i) In employment, by basis of the alleged discrimination; and
 
@@ -102,4 +100,4 @@ Link to an amendment published at 83 FR 39326, Aug. 9, 2018.
 
 (25) A narrative identification and analysis of business activities, levels, and areas in which the regulated entity's efforts need to improve with respect to achieving the purpose and policy of regulations in this part, together with a description of anticipated efforts and results the regulated entity expects in the succeeding year.
 
-[75 FR 81402, Dec. 28, 2010, as amended at 80 FR 25215, May 4, 2015; 82 FR 34396, July 25, 2017]
+[75 FR 81402, Dec. 28, 2010, as amended at 80 FR 25215, May 4, 2015; 82 FR 34396, July 25, 2017; 83 FR 39326, Aug. 9, 2018]

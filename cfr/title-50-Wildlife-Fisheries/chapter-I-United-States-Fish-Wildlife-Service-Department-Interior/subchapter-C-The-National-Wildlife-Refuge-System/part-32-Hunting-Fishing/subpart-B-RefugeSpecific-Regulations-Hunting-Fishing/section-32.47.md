@@ -6,19 +6,11 @@ Ash Meadows National Wildlife Refuge
 
 *A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, coot, moorhen, snipe, and dove on designated areas of the refuge in accordance with State regulations subject to the following conditions:
 
-1. We allow hunting only on designated days.
+1. We only allow motorless boats or boats with electric motors on the refuge hunting area during the migratory waterfowl hunting season.
 
-2. We only allow motorless boats or boats with electric motors on the refuge hunting area during the migratory waterfowl hunting season.
+2. We open the refuge to the public from 1 hour before legal sunrise until 1 hour after legal sunset.
 
-3. We open the refuge to the public from 1 hour before legal sunrise until 1 hour after legal sunset.
-
-4. You may only possess approved nontoxic shot while in the field (see § 32.2(k)).
-
-*B. Upland Game Hunting.* We allow hunting of quail and rabbit on designated areas of the refuge in accordance with State regulations subject to the following conditions:
-
-1. Conditions A3 and A4 apply.
-
-2. We only allow hunting on designated days.
+*B. Upland Game Hunting.* We allow hunting of quail and rabbit on designated areas of the refuge in accordance with State regulations and subject to the following condition: Condition A2 applies.
 
 *C. Big Game Hunting.* [Reserved]
 
@@ -42,17 +34,11 @@ Pahranagat National Wildlife Refuge
 
 *A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, coot, moorhen, snipe, and dove on designated areas of the refuge in accordance with State regulations subject to the following conditions:
 
-1. We allow hunting only on designated days.
+1. We only allow motorless boats or boats with electric motors on the refuge hunting area during the migratory waterfowl hunting season.
 
-2. We only allow motorless boats or boats with electric motors on the refuge hunting area during the migratory waterfowl hunting season.
+2. From October 1 to February 1, you may only possess shotshells in quantities of 25 or fewer when in the field.
 
-3. You may only possess approved nontoxic shot while in the field (see § 32.2(k)).
-
-*B. Upland Game Hunting.* We allow hunting of quail and rabbit on designated areas of the refuge in accordance with State regulations subject to the following conditions:
-
-1. We only allow hunting on designated days.
-
-2. Conditions A3 applies.
+*B. Upland Game Hunting.* We allow hunting of quail and rabbit on designated areas of the refuge in accordance with State regulations and subject to the following condition: We allow hunting of jackrabbits only during the State cottontail season.
 
 *C. Big Game Hunting.* [Reserved]
 
@@ -60,7 +46,7 @@ Pahranagat National Wildlife Refuge
 
 1. We allow fishing year-round with the exception of the North Marsh that we close October 1 to February 1.
 
-2. We only allow motorless boats or boats with electric motors on the Upper Lake, Middle Pond, and Lower Lake.
+2. We only allow motorless boats or boats with electric motors on the Upper Lake, Middle Marsh, and Lower Lake, with the exception that we close Upper Lake to all boating from October 1 through February 1.
 
 3. We prohibit the use of boats, rubber rafts, or other flotation devices on the North Marsh.
 
@@ -178,4 +164,4 @@ Stillwater National Wildlife Refuge
 
 *D. Sport Fishing.* [Reserved]
 
-[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 6694, Feb. 11, 1994; 60 FR 62044, Dec. 4, 1995; 61 FR 46397, Sept. 3, 1996; 62 FR 47380, Sept. 9, 1997; 63 FR 46919, Sept. 3, 1998; 65 FR 30786, May 12, 2000; 65 FR 56405, Sept. 18, 2000; 66 FR 46360, Sept. 4, 2001; 67 FR 58948, Sept. 18, 2002; 69 FR 54362, 54429, Sept. 8, 2004; 74 FR 45693, Sept. 3, 2009; 74 FR 50737, Oct. 1, 2009; 76 FR 56080, Sept. 9, 2011; 80 FR 51923, Aug. 26, 2015; 82 FR 51957, Nov. 8, 2017]
+[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 6694, Feb. 11, 1994; 60 FR 62044, Dec. 4, 1995; 61 FR 46397, Sept. 3, 1996; 62 FR 47380, Sept. 9, 1997; 63 FR 46919, Sept. 3, 1998; 65 FR 30786, May 12, 2000; 65 FR 56405, Sept. 18, 2000; 66 FR 46360, Sept. 4, 2001; 67 FR 58948, Sept. 18, 2002; 69 FR 54362, 54429, Sept. 8, 2004; 74 FR 45693, Sept. 3, 2009; 74 FR 50737, Oct. 1, 2009; 76 FR 56080, Sept. 9, 2011; 80 FR 51923, Aug. 26, 2015; 82 FR 51957, Nov. 8, 2017; 83 FR 45794, Sept. 10, 2018]

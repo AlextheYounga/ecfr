@@ -1,7 +1,5 @@
 ##### § 210.3-05 Financial statements of businesses acquired or to be acquired. #####
 
-Link to an amendment published at 83 FR 32018, July 10, 2018.
-
 (a) *Financial statements required.* (1) Financial statements prepared and audited in accordance with this regulation should be furnished for the periods specified in paragraph (b) below if any of the following conditions exist:
 
 (i) A business combination has occurred or is probable (for purposes of this section, this encompasses the acquisition of an interest in a business accounted for by the equity method); or
@@ -30,7 +28,7 @@ Link to an amendment published at 83 FR 32018, July 10, 2018.
 
 (iii) If any of the conditions exceeds 40 percent, but none exceed 50 percent, financial statements shall be furnished for at least the two most recent fiscal years and any interim periods specified in §§ 210.3-01 and 210.3-02.
 
-(iv) If any of the conditions exceed 50 percent, the full financial statements specified in §§ 210.3-01 and 210.3-02 shall be furnished. However, financial statements for the earliest of the three fiscal years required may be omitted if net revenues reported by the acquired business in its most recent fiscal year are less than $50 million.
+(iv) If any of the conditions exceed 50 percent, the full financial statements specified in §§ 210.3-01 and 210.3-02 shall be furnished. However, financial statements for the earliest of the three fiscal years required may be omitted if net revenues reported by the acquired business in its most recent fiscal year are less than $100 million.
 
 (3) The determination shall be made by comparing the most recent annual financial statements of each such business, or group of related businesses on a combined basis, to the registrant's most recent annual consolidated financial statements filed at or prior to the date of acquisition. However, if the registrant made a significant acquisition subsequent to the latest fiscal year-end and filed a report on Form 8-K (§ 249.308 of this chapter) which included audited financial statements of such acquired business for the periods required by this section and the pro forma financial information required by § 210.11, such determination may be made by using pro forma amounts for the latest fiscal year in the report on Form 8-K (§ 249.308 of this chapter) rather than by using the historical amounts of the registrant. The tests may not be made by “annualizing” data.
 
@@ -50,4 +48,4 @@ Link to an amendment published at 83 FR 32018, July 10, 2018.
 
 (c) *Financial statements of foreign business.* If the business acquired or to be acquired is a foreign business, financial statements of the business meeting the requirements of Item 17 of Form 20-F (§ 249.220f of this chapter) will satisfy this section.
 
-[47 FR 29836, July 9, 1982, as amended at 50 FR 49532, Dec. 3, 1985; 51 FR 42056, Nov. 20, 1986; 59 FR 65636, Dec. 20, 1994; 61 FR 54514, Oct. 18, 1996; 73 FR 952, Jan. 4, 2008; 74 FR 18614, Apr. 23, 2009]
+[47 FR 29836, July 9, 1982, as amended at 50 FR 49532, Dec. 3, 1985; 51 FR 42056, Nov. 20, 1986; 59 FR 65636, Dec. 20, 1994; 61 FR 54514, Oct. 18, 1996; 73 FR 952, Jan. 4, 2008; 74 FR 18614, Apr. 23, 2009; 83 FR 32018, July 10, 2018]

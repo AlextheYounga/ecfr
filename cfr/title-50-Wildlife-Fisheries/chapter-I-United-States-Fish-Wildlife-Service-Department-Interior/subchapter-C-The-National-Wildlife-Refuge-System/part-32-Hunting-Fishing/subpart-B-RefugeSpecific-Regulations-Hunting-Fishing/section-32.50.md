@@ -226,30 +226,30 @@ iv. Hunters or other members of the hunting party are not allowed to hunt small 
 
 Sevilleta National Wildlife Refuge
 
-*A. Migratory Game Bird Hunting.* We allow hunting of mourning and white-winged doves, geese, ducks, and coots on designated areas of the refuge in accordance with State regulations and any special posting or publications and subject to the following conditions:
+*A. Migratory Game Bird Hunting.* We allow hunting of mourning dove, white-winged dove, geese, ducks, and coot on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-1. Legal hunting hours will run from1/2 hour before legal sunrise and will not extend past 1:00 p.m. (local time) on each hunt day.
+1. In Units A and B, legal hunting hours will run from1/2 hour before legal sunrise and will not extend past 1:00 p.m. (local time) on each hunt day. Hunters may access Units A and B from 1 hour before legal sunrise until 1 hour after legal sunset. We allow falcons to hunt dove in the Rio Puerco Unit only.
 
-2. The refuge may designate special youth and/or persons with disabilities hunting days during the regular game bird season. This will apply to areas and species that are currently part of the refuge's hunting program. Contact the refuge for more information.
+2. Hunters may not possess more than 25 shotgun shells while in the field.
 
-3. Refer to the refuge hunt leaflet for designated hunting areas.
+3. We allow unleashed hunting and/or retrieving dogs on the refuge when hunters are legally present in areas where hunting is allowed, only if the dogs are under the immediate control of hunters at all time, and only to pursue species legally in season at that time.
 
-4. You may use only approved nontoxic shot while hunting (see § 32.2(k)) in the field, in quantities of 25 or fewer.
+4. We prohibit hunting along/on the river within the refuge boundary.
 
-5. We prohibit pit or permanent blinds and require daily removal of all waterfowl decoys, spent shells, all temporary blinds/stands, and all other personal equipment (see §§ 27.93 and 27.94 of this chapter).
+5. At Unit A, in the Cornerstone Marsh Unit, hunters who are disabled (per Mobility-Impaired Certification in the State Hunting Rules and Information pamphlet) are given priority use.
 
-6. We allow unleashed hunting and/or retrieving dogs on the refuge when hunters are legally present in areas where we allow hunters, only if the dogs are under the immediate control of hunters at all time (see § 26.21(b) of this chapter), and only to pursue species legally in season at that time.
+*B. Upland Game Hunting.* We allow hunting of Gambel's quail and Eurasian collared-dove on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
-7. We prohibit hunters and dogs from entering closed areas for retrieval of game.
+1. Conditions A2 through A5 apply.
 
-8. All State and Federal hunting regulations regarding methods of take, dates, bag limits, and other factors, apply to all hunting on the refuge, in addition to these refuge-specific regulations.
+2. In the Rio Puerco Unit, legal hunting hours will run from1/2 hour before legal sunrise to legal sunset.
 
-9. Visit the refuge visitor center or Web site, and/or refer to additional on-site brochures, leaflets, or postings for additional information.
+3. We allow Eurasian collared-dove hunting in all three hunt units. We allow Gambel's quail hunting only in the Rio Puerco Unit as designated on the refuge hunting map.
 
-*B. Upland Game Hunting.* [Reserved]
+4. While all State and Federal hunting regulations regarding methods of take, bag limits, and other factors apply to Eurasian collared-dove hunting on the refuge, hunting dates for Eurasian collared-dove are limited to the same dates as the New Mexico Department of Game and Fish (NMDGF) Dove South Zone.
 
 *C. Big Game Hunting.* [Reserved]
 
 *D. Sport Fishing.* [Reserved]
 
-[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 6694, Feb. 11, 1994; 60 FR 62045, Dec. 4, 1995; 61 FR 46397, Sept. 3, 1996; 65 FR 30787, May 12, 2000; 65 FR 56406, Sept. 18, 2000; 66 FR 46360, Sept. 4, 2001; 67 FR 58948, Sept. 18, 2002; 69 FR 54362, 54433, Sept. 8, 2004; 70 FR 54184, Sept. 13, 2005; 73 FR 33193, June 11, 2008; 74 FR 45693, Sept. 3, 2009; 76 FR 3985, Jan. 21, 2011; 76 FR 56080, Sept. 9, 2011; 77 FR , Sept. 11, 2012; 79 FR 14834, Mar. 17, 2014; 80 FR 51923, Aug. 26, 2015]
+[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 6694, Feb. 11, 1994; 60 FR 62045, Dec. 4, 1995; 61 FR 46397, Sept. 3, 1996; 65 FR 30787, May 12, 2000; 65 FR 56406, Sept. 18, 2000; 66 FR 46360, Sept. 4, 2001; 67 FR 58948, Sept. 18, 2002; 69 FR 54362, 54433, Sept. 8, 2004; 70 FR 54184, Sept. 13, 2005; 73 FR 33193, June 11, 2008; 74 FR 45693, Sept. 3, 2009; 76 FR 3985, Jan. 21, 2011; 76 FR 56080, Sept. 9, 2011; 77 FR , Sept. 11, 2012; 79 FR 14834, Mar. 17, 2014; 80 FR 51923, Aug. 26, 2015; 83 FR 45796, Sept. 10, 2018]
