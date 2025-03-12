@@ -1,5 +1,7 @@
 ##### § 200.431 Compensation - fringe benefits. #####
 
+Link to an amendment published at 85 FR 49565, Aug. 13, 2020.
+
 (a) Fringe benefits are allowances and services provided by employers to their employees as compensation in addition to regular salaries and wages. Fringe benefits include, but are not limited to, the costs of leave (vacation, family-related, sick or military), employee insurance, pensions, and unemployment benefit plans. Except as provided elsewhere in these principles, the costs of fringe benefits are allowable provided that the benefits are reasonable and are required by law, non-Federal entity-employee agreement, or an established policy of the non-Federal entity.
 
 (b) *Leave.* The cost of fringe benefits in the form of regular compensation paid to employees during periods of authorized absences from the job, such as for annual leave, family-related leave, sick leave, holidays, court leave, military leave, administrative leave, and other similar benefits, are allowable if all of the following criteria are met:

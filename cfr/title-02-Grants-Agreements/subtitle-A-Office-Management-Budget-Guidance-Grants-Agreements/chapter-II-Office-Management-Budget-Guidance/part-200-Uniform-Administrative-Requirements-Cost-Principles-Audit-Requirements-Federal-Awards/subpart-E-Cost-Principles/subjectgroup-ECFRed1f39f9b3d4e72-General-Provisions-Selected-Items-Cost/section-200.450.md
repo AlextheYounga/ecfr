@@ -1,5 +1,7 @@
 ##### § 200.450 Lobbying. #####
 
+Link to an amendment published at 85 FR 49569, Aug. 13, 2020.
+
 (a) The cost of certain influencing activities associated with obtaining grants, contracts, cooperative agreements, or loans is an unallowable cost. Lobbying with respect to certain grants, contracts, cooperative agreements, and loans is governed by relevant statutes, including among others, the provisions of 31 U.S.C. 1352, as well as the common rule, “New Restrictions on Lobbying” published at 55 FR 6736 (February 26, 1990), including definitions, and the Office of Management and Budget “Governmentwide Guidance for New Restrictions on Lobbying” and notices published at 54 FR 52306 (December 20, 1989), 55 FR 24540 (June 15, 1990), 57 FR 1772 (January 15, 1992), and 61 FR 1412 (January 19, 1996).
 
 (b) Executive lobbying costs. Costs incurred in attempting to improperly influence either directly or indirectly, an employee or officer of the executive branch of the Federal Government to give consideration or to act regarding a Federal award or a regulatory matter are unallowable. Improper influence means any influence that induces or tends to induce a Federal employee or officer to give consideration or to act regarding a Federal award or regulatory matter on any basis other than the merits of the matter.

@@ -1,5 +1,7 @@
 ##### § 200.443 Gains and losses on disposition of depreciable assets. #####
 
+Link to an amendment published at 85 FR 49568, Aug. 13, 2020.
+
 (a) Gains and losses on the sale, retirement, or other disposition of depreciable property must be included in the year in which they occur as credits or charges to the asset cost grouping(s) in which the property was included. The amount of the gain or loss to be included as a credit or charge to the appropriate asset cost grouping(s) is the difference between the amount realized on the property and the undepreciated basis of the property.
 
 (b) Gains and losses from the disposition of depreciable property must not be recognized as a separate credit or charge under the following conditions:

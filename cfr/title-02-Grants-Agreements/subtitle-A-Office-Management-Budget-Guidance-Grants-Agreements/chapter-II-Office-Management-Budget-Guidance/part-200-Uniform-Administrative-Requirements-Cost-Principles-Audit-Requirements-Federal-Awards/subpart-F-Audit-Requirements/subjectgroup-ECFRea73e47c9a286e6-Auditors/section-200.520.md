@@ -1,5 +1,7 @@
 ##### § 200.520 Criteria for a low-risk auditee. #####
 
+Link to an amendment published at 85 FR 49575, Aug. 13, 2020.
+
 An auditee that meets all of the following conditions for each of the preceding two audit periods must qualify as a low-risk auditee and be eligible for reduced audit coverage in accordance with § 200.518 Major program determination.
 
 (a) Single audits were performed on an annual basis in accordance with the provisions of this Subpart, including submitting the data collection form and the reporting package to the FAC within the timeframe specified in § 200.512 Report submission. A non-Federal entity that has biennial audits does not qualify as a low-risk auditee.

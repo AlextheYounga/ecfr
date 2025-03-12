@@ -1,3 +1,3 @@
-##### § 192.400 When must I complete the sale of my stock? #####
+##### § 192.400 Time period for completion of sale of stock. #####
 
-You must complete all sales of your stock within 45 calendar days after the last day of the subscription period, unless the offering is extended under § 192.405.
+A savings association must complete all sales of its stock within 45 calendar days after the last day of the subscription period, unless the offering is extended under § 192.405.

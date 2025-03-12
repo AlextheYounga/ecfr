@@ -1,5 +1,7 @@
 ##### § 170.110 Types of entities to which this part applies. #####
 
+Link to an amendment published at 85 FR 49525, Aug. 13, 2020.
+
 (a) *General.* Through an agency's implementation of the guidance in this part, this part applies to all entities, other than those excepted in paragraph (b) of this section, that -
 
 (1) Apply for or receive agency awards; or

@@ -1,5 +1,7 @@
-##### § 192.205 May a court review the appropriate Federal banking agency's final action on my conversion? #####
+##### § 192.205 Court review of final action on application for conversion. #####
 
-(a) Any person aggrieved by the appropriate Federal banking agency's final action on your application for conversion may ask the court of appeals of the United States for the circuit in which the principal office or residence of such person is located, or the U.S. Court of Appeals for the District of Columbia Circuit, to review the action under 12 U.S.C. 1464(i)(2)(B).
+(a) *In general.* Any person aggrieved by the appropriate Federal banking agency's final action on a savings association's application for conversion may ask the court of appeals of the United States for the circuit in which the principal office or residence of such person is located, or the U.S. Court of Appeals for the District of Columbia Circuit, to review the action under 12 U.S.C. 1464(i)(2)(B).
 
-(b) To obtain court review of the action, this statute requires the aggrieved person to file a written petition requesting that the court modify, terminate, or set aside the final appropriate Federal banking agency action. The aggrieved person must file the petition with the court within the later of 30 days after the appropriate Federal agency publishes notice of its final action in the Federal Register or 30 days after you mail the proxy statement to your members under § 192.235.
+(b) *Filing procedures.* To obtain court review of the action, this statute requires the aggrieved person to file a written petition requesting that the court modify, terminate, or set aside the final appropriate Federal banking agency action. The aggrieved person must file the petition with the court within the later of 30 calendar days after the appropriate Federal agency publishes notice of its final action in the Federal Register or 30 calendar days after the savings association mails the proxy statement to its members under § 192.235.
+
+Vote by Members

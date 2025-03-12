@@ -1,3 +1,3 @@
-##### § 192.20 May I acquire another insured stock depository institution as part of my conversion? #####
+##### § 192.20 Acquiring another insured depository institution upon conversion. #####
 
-When you convert to stock form, you may acquire for cash or stock another insured depository institution that is already in the stock form of ownership.
+When a savings association converts to stock form, it may acquire for cash or stock another insured depository institution that is already in the stock form of ownership.

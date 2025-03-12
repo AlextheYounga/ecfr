@@ -1,5 +1,7 @@
 ##### § 200.519 Criteria for Federal program risk. #####
 
+Link to an amendment published at 85 FR 49575, Aug. 13, 2020.
+
 (a) *General.* The auditor's determination should be based on an overall evaluation of the risk of noncompliance occurring that could be material to the Federal program. The auditor must consider criteria, such as described in paragraphs (b), (c), and (d) of this section, to identify risk in Federal programs. Also, as part of the risk analysis, the auditor may wish to discuss a particular Federal program with auditee management and the Federal agency or pass-through entity.
 
 (b) *Current and prior audit experience.* (1) Weaknesses in internal control over Federal programs would indicate higher risk. Consideration should be given to the control environment over Federal programs and such factors as the expectation of management's adherence to Federal statutes, regulations, and the terms and conditions of Federal awards and the competence and experience of personnel who administer the Federal programs.

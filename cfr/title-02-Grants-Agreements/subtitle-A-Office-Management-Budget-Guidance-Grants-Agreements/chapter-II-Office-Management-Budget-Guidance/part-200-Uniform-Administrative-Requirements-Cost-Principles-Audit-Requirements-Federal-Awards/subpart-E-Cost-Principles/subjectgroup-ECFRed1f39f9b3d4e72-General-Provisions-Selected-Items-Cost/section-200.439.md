@@ -1,5 +1,7 @@
 ##### § 200.439 Equipment and other capital expenditures. #####
 
+Link to an amendment published at 85 FR 49568, Aug. 13, 2020.
+
 (a) See §§ 200.13 Capital expenditures, 200.33 Equipment, 200.89 Special purpose equipment, 200.48 General purpose equipment, 200.2 Acquisition cost, and 200.12 Capital assets.
 
 (b) The following rules of allowability must apply to equipment and other capital expenditures:

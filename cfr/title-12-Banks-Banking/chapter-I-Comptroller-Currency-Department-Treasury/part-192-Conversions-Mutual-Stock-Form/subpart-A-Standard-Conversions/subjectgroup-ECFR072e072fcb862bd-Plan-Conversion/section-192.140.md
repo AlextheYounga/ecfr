@@ -1,3 +1,3 @@
-##### § 192.140 May I amend my plan of conversion? #####
+##### § 192.140 Amendments to plan of conversion. #####
 
-You may amend your plan of conversion before you solicit proxies. After you solicit proxies, you may amend your plan of conversion only if the appropriate Federal banking agency concurs.
+A savings association may amend its plan of conversion before it solicits proxies. After the savings association solicits proxies, it may amend the plan of conversion only if the appropriate Federal banking agency concurs.

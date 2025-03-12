@@ -1,5 +1,7 @@
 ##### § 200.503 Relation to other audit requirements. #####
 
+Link to an amendment published at 85 FR 49571, Aug. 13, 2020.
+
 (a) An audit conducted in accordance with this part must be in lieu of any financial audit of Federal awards which a non-Federal entity is required to undergo under any other Federal statute or regulation. To the extent that such audit provides a Federal agency with the information it requires to carry out its responsibilities under Federal statute or regulation, a Federal agency must rely upon and use that information.
 
 (b) Notwithstanding subsection (a), a Federal agency, Inspectors General, or GAO may conduct or arrange for additional audits which are necessary to carry out its responsibilities under Federal statute or regulation. The provisions of this part do not authorize any non-Federal entity to constrain, in any manner, such Federal agency from carrying out or arranging for such additional audits, except that the Federal agency must plan such audits to not be duplicative of other audits of Federal awards. Prior to commencing such an audit, the Federal agency or pass-through entity must review the FAC for recent audits submitted by the non-Federal entity, and to the extent such audits meet a Federal agency or pass-through entity's needs, the Federal agency or pass-through entity must rely upon and use such audits. Any additional audits must be planned and performed in such a way as to build upon work performed, including the audit documentation, sampling, and testing already performed, by other auditors.

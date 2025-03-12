@@ -1,12 +1,10 @@
 ##### § 32.2 Definitions. #####
 
-Link to an amendment published at 85 FR 42642, July 14, 2020.
-
 (a) *Appropriate Federal banking agency* has the same meaning as in 12 U.S.C. 1813(q).
 
 (b) *Borrower* means a person who is named as a borrower or debtor in a loan or extension of credit; a person to whom a national bank or savings association has credit exposure arising from a derivative transaction or a securities financing transaction, entered by the bank or savings association; or any other person, including a drawer, endorser, or guarantor, who is deemed to be a borrower under the “direct benefit” or the “common enterprise” tests set forth in § 32.5.
 
-(c) *Capital and surplus* means -
+(c) *Capital and surplus* means—
 
 (1) For qualifying community banking organizations that have elected to use the community bank leverage ratio framework, as set forth under the OCC's Capital Adequacy Standards at part 3 of this chapter:
 
@@ -26,7 +24,7 @@ Link to an amendment published at 85 FR 42642, July 14, 2020.
 
 (f) *Consumer paper* means paper relating to automobiles, mobile homes, residences, office equipment, household items, tuition fees, insurance premium fees, and similar consumer items. Consumer paper also includes paper covering the lease (where the national bank or savings association is not the owner or lessor) or purchase of equipment for use in manufacturing, farming, construction, or excavation.
 
-(g) *Contractual commitment to advance funds.* (1) The term includes a national bank's or savings association's obligation to -
+(g) *Contractual commitment to advance funds.* (1) The term includes a national bank's or savings association's obligation to—
 
 (i) Make payment (directly or indirectly) to a third person contingent upon default by a customer of the bank or savings association in performing an obligation and to make such payment in keeping with the agreed upon terms of the customer's contract with the third person, or to make payments upon some other stated condition;
 
@@ -38,7 +36,7 @@ Link to an amendment published at 85 FR 42642, July 14, 2020.
 
 (2) The term does not include commercial letters of credit and similar instruments where the issuing bank or savings association expects the beneficiary to draw on the issuer, that do not guarantee payment, and that do not provide for payment in the event of a default by a third party.
 
-(h) *Control* is presumed to exist when a person directly or indirectly, or acting through or together with one or more persons -
+(h) *Control* is presumed to exist when a person directly or indirectly, or acting through or together with one or more persons—
 
 (1) Owns, controls, or has the power to vote 25 percent or more of any class of voting securities of another person;
 
@@ -110,7 +108,7 @@ Link to an amendment published at 85 FR 42642, July 14, 2020.
 
 (q) *Loans and extensions of credit* means a national bank's or savings association's direct or indirect advance of funds to or on behalf of a borrower based on an obligation of the borrower to repay the funds or repayable from specific property pledged by or on behalf of the borrower; and any credit exposure, as determined pursuant to § 32.9, arising from a derivative transaction or a securities financing transaction.
 
-(1) Loans or extensions of credit for purposes of 12 U.S.C. 84 or 12 U.S.C. 1464(u), as applicable, and this part include -
+(1) Loans or extensions of credit for purposes of 12 U.S.C. 84 or 12 U.S.C. 1464(u), as applicable, and this part include—
 
 (i) A contractual commitment to advance funds, as defined in paragraph (g) of this section;
 
@@ -122,7 +120,7 @@ Link to an amendment published at 85 FR 42642, July 14, 2020.
 
 (v) The sale of Federal funds with a maturity of more than one business day, but not Federal funds with a maturity of one day or less or Federal funds sold under a continuing contract; and
 
-(vi) Loans or extensions of credit that have been charged off on the books of the national bank or savings association in whole or in part, unless the loan or extension of credit -
+(vi) Loans or extensions of credit that have been charged off on the books of the national bank or savings association in whole or in part, unless the loan or extension of credit—
 
 (A) Is unenforceable by reason of discharge in bankruptcy;
 
@@ -130,7 +128,7 @@ Link to an amendment published at 85 FR 42642, July 14, 2020.
 
 (C) Is no longer legally enforceable for other reasons, provided that the bank or savings association maintains sufficient records to demonstrate that the loan is unenforceable.
 
-(2) The following items do not constitute loans or extensions of credit for purposes of 12 U.S.C. 84 or 12 U.S.C. 1464(u), as applicable, and this part -
+(2) The following items do not constitute loans or extensions of credit for purposes of 12 U.S.C. 84 or 12 U.S.C. 1464(u), as applicable, and this part—
 
 (i) Additional funds advanced for the benefit of a borrower by a national bank or savings association for payment of taxes, insurance, utilities, security, and maintenance and operating expenses necessary to preserve the value of real property securing the loan, consistent with safe and sound banking practices, but only if the advance is for the protection of the bank's or savings association's interest in the collateral, and provided that such amounts must be treated as an extension of credit if a new loan or extension of credit is made to the borrower;
 
@@ -170,7 +168,7 @@ Link to an amendment published at 85 FR 42642, July 14, 2020.
 
 (w) *Readily marketable staple* means an article of commerce, agriculture, or industry, such as wheat and other grains, cotton, wool, and basic metals such as tin, copper and lead, in the form of standardized interchangeable units, that is easy to sell in a market with sufficiently frequent price quotations.
 
-(1) An article comes within this definition if -
+(1) An article comes within this definition if—
 
 (i) The exact price is easy to determine; and
 
@@ -202,9 +200,9 @@ Link to an amendment published at 85 FR 42642, July 14, 2020.
 
 (bb) *Security* has the same meaning as in section 3(a)(10) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(10)).
 
-(cc) *Small business loan* means a loan or extension of credit “secured by nonfarm nonresidential properties” or “a commercial or industrial loan” as defined in the instructions for preparation of the Consolidated Report of Condition and Income.
+(cc) *Loans to small businesses* means loans or extensions of credit “secured by nonfarm nonresidential properties” or “commercial and industrial loans” as defined in the instructions for preparation of the Consolidated Report of Condition and Income.
 
-(dd) *Small farm loans or extensions of credit* means “loans to small farms,” as defined in the instructions for preparation of the Consolidated Report of Condition and Income.
+(dd) *Loans or extensions of credit to small farms* means “loans secured by farmland” or “loans to finance agricultural production and other loans to farmers” as defined in the instructions for preparation of the Consolidated Report of Condition and Income.
 
 (ee) *Standby letter of credit* means any letter of credit, or similar arrangement, that represents an obligation to the beneficiary on the part of the issuer:
 
@@ -214,4 +212,4 @@ Link to an amendment published at 85 FR 42642, July 14, 2020.
 
 (3) To make payment on account of any default by the account party in the performance of an obligation.
 
-[60 FR 8532, Feb. 15, 1995, as amended at 63 FR 15746, Apr. 1, 1998; 66 FR 31120, June 11, 2001; 66 FR 55072, Nov. 1, 2001; 69 FR 51357, Aug. 19, 2004; 77 FR 37275, June 21, 2012; 77 FR 37277, June 21, 2012; 78 FR 37944, June 25, 2013; 79 FR 11312, Feb. 28, 2014; 80 FR 28479, May 18, 2015; 84 FR 4240, Feb. 14, 2019; 84 FR 61795, Nov. 13, 2019; 84 FR 69298, Dec. 18, 2019]
+[60 FR 8532, Feb. 15, 1995, as amended at 63 FR 15746, Apr. 1, 1998; 66 FR 31120, June 11, 2001; 66 FR 55072, Nov. 1, 2001; 69 FR 51357, Aug. 19, 2004; 77 FR 37275, June 21, 2012; 77 FR 37277, June 21, 2012; 78 FR 37944, June 25, 2013; 79 FR 11312, Feb. 28, 2014; 80 FR 28479, May 18, 2015; 84 FR 4240, Feb. 14, 2019; 84 FR 61795, Nov. 13, 2019; 84 FR 69298, Dec. 18, 2019; 85 FR 42642, July 14, 2020]

@@ -1,5 +1,5 @@
-##### § 192.600 What does this subpart do? #####
+##### § 192.600 Voluntary supervisory conversions. #####
 
-(a) You must comply with this subpart to engage in a voluntary supervisory conversion. This subpart applies to all voluntary supervisory conversions under sections 5(i)(1), (i)(2), and (p) of the Home Owners' Loan Act (HOLA), 12 U.S.C. 1464(i)(1), (i)(2), and (p).
+(a) *In general.* A savings association must comply with this subpart and part 16 to engage in a voluntary supervisory conversion. This subpart applies to all voluntary supervisory conversions under sections 5(i)(1), (i)(2), and (p) of HOLA, 12 U.S.C. 1464(i)(1), (i)(2), and (p).
 
-(b) Subpart A of this part also applies to a voluntary supervisory conversion, unless a requirement is clearly inapplicable.
+(b) *Application of subpart A.* Subpart A of this part also applies to a voluntary supervisory conversion, unless a requirement is clearly inapplicable.

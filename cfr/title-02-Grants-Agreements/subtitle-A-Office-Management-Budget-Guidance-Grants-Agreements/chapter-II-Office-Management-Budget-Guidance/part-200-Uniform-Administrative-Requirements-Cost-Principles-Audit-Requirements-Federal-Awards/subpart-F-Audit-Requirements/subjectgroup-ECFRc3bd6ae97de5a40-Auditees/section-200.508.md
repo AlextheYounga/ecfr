@@ -1,5 +1,7 @@
 ##### § 200.508 Auditee responsibilities. #####
 
+Link to an amendment published at 85 FR 49572, Aug. 13, 2020.
+
 The auditee must:
 
 (a) Procure or otherwise arrange for the audit required by this part in accordance with § 200.509 Auditor selection, and ensure it is properly performed and submitted when due in accordance with § 200.512 Report submission.

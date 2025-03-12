@@ -1,5 +1,7 @@
 ##### § 200.110 Effective/applicability date. #####
 
+Link to an amendment published at 85 FR 49538, Aug. 13, 2020.
+
 (a) The standards set forth in this part that affect the administration of Federal awards issued by Federal awarding agencies become effective once implemented by Federal awarding agencies or when any future amendment to this part becomes final. Federal awarding agencies must implement the policies and procedures applicable to Federal awards by promulgating a regulation to be effective by December 26, 2014, unless different provisions are required by statute or approved by OMB. For the procurement standards in §§ 200.317 through 200.326, non-Federal entities may continue to comply with the procurement standards in previous OMB guidance (as reflected in § 200.104) for a total of three fiscal years after this part goes into effect. As such, the effective date for implementation of the procurement standards for non-Federal entities will start for fiscal years beginning on or after December 26, 2017. If a non-Federal entity chooses to use the previous procurement standards for all or part of these three fiscal years before adopting the procurement standards in this part, the non-Federal entity must document this decision in its internal procurement policies.
 
 (b) The standards set forth in Subpart F - Audit Requirements of this part and any other standards which apply directly to Federal agencies will be effective December 26, 2013 and will apply to audits of fiscal years beginning on or after December 26, 2014.

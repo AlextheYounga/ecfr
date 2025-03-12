@@ -120,8 +120,6 @@
 
 (54) § 748.13, Certain Hong Kong import and export licenses;
 
-(55) Supplement No. 7 to part 744, Temporary General License Certification Statements and logs or other records required, including any additional support documentation needed to substantiate the certification statement, under paragraph (d) of Supplement 7 to part 744 of this chapter.
-
 (c) *Special recordkeeping requirement* - (1) *Libya.* Persons in receipt of a specific license granted by the Department of the Treasury's Office of Foreign Assets Control (OFAC) for the export to Libya of any item subject to the EAR must maintain a record of those items transferred to Libya pursuant to such specific license and record when the items are consumed or destroyed in the normal course of their use in Libya, reexported to a third country not requiring further authorization from BIS, or returned to the United States. This requirement applies only to items subject to a license requirement under the EAR for export to Libya as of April 29, 2004. These records must include the following information:
 
 (i) Date of export or reexport and related details (including means of transport);
@@ -136,4 +134,4 @@
 
 (2) [Reserved]
 
-[61 FR 12900, Mar. 25, 1996]Editorial Note:For Federal Register citations affecting § 762.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 85 FR 8725, Feb. 18, 2020, § 762.2, was amended by adding paragraph (b)(55), effective until Apr. 1, 2020. At 85 FR 14416, Mar. 12, 2020, the effective date was extended to May 15, 2020. At 85 FR 29610, May 18, 2020, the effective date was further extended until Aug. 13, 2020.
+[61 FR 12900, Mar. 25, 1996]Editorial Note:For Federal Register citations affecting § 762.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

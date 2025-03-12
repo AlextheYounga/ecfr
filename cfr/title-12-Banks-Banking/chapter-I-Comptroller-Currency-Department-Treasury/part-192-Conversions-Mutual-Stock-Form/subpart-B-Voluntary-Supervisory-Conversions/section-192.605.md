@@ -1,9 +1,11 @@
-##### § 192.605 How may I conduct a voluntary supervisory conversion? #####
+##### § 192.605 Conducting a voluntary supervisory conversion. #####
 
-(a) You may sell your shares or the shares of a holding company to the public under the requirements of subpart A of this part.
+A savings association may conduct a voluntary supervisory conversion through one of the following methods:
 
-(b) You may convert to stock form by merging into an interim Federal-or state-chartered stock association.
+(a) A savings association may sell its shares or the shares of a holding company to the public under the requirements of subpart A of this part.
 
-(c) You may sell your shares directly to an acquiror, who may be a person, company, depository institution, or depository institution holding company.
+(b) A savings association may convert to stock form by merging into an interim Federal- or State-chartered stock association.
 
-(d) You may merge or consolidate with an existing or newly created depository institution. The merger or consolidation must be authorized by, and is subject to, other applicable laws and regulations.
+(c) A savings association may sell its shares directly to an acquiror, who may be a person, company, depository institution, or depository institution holding company.
+
+(d) A savings association may merge or consolidate with an existing or newly created depository institution. The merger or consolidation must be authorized by, and is subject to, other applicable laws and regulations.

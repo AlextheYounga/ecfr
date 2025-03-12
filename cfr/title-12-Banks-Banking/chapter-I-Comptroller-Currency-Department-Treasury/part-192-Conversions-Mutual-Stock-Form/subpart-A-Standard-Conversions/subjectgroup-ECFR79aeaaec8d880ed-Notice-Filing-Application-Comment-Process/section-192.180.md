@@ -1,9 +1,5 @@
-##### § 192.180 How do I notify the public that I filed an application for conversion? #####
+##### § 192.180 Public notice of an application for conversion. #####
 
-(a) You must publish a public notice of the application in accordance with the procedures in § 5.8 of this chapter. You must simultaneously prominently post the notice in your home office and all branch offices.
+(a) *In general.* A Federal savings association must publish a public notice of the application in accordance with the procedures in 12 CFR 5.8. The Federal savings association must simultaneously prominently post the notice in its home office and all branch offices and may also make this notice available on its website.
 
-(b) Promptly after publication, you must file any public notice and an affidavit of publication from each publisher. If you are a Federal savings association, you must file the affidavit and two copies of any public notice with the appropriate OCC licensing office. If you are a state savings association, you must file all copies with the appropriate FDIC region.
-
-(c) If the appropriate Federal banking agency does not accept your application for conversion under § 192.200 and requires you to file a new application, you must publish and post a new notice and allow an additional 30 days for comment.
-
-[76 FR 49156, Aug. 9, 2011, as amended at 80 FR 28481, May 18, 2015]
+(b) *Additional notice.* If the appropriate Federal banking agency does not accept a savings association's application for conversion under § 192.200 and requires the savings association to file a new application, the savings association must publish and post a new notice and allow an additional 30 calendar days for comment.

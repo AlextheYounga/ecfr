@@ -1,5 +1,7 @@
 ##### § 200.513 Responsibilities. #####
 
+Link to an amendment published at 85 FR 49573, Aug. 13, 2020.
+
 (a)(1) Cognizant agency for audit responsibilities. A non-Federal entity expending more than $50 million a year in Federal awards must have a cognizant agency for audit. The designated cognizant agency for audit must be the Federal awarding agency that provides the predominant amount of direct funding to a non-Federal entity unless OMB designates a specific cognizant agency for audit.
 
 (2) To provide for continuity of cognizance, the determination of the predominant amount of direct funding must be based upon direct Federal awards expended in the non-Federal entity's fiscal years ending in 2009, 2014, 2019 and every fifth year thereafter. For example, audit cognizance for periods ending in 2011 through 2015 will be determined based on Federal awards expended in 2009.

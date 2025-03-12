@@ -1,5 +1,7 @@
 ##### § 200.415 Required certifications. #####
 
+Link to an amendment published at 85 FR 49563, Aug. 13, 2020.
+
 Required certifications include:
 
 (a) To assure that expenditures are proper and in accordance with the terms and conditions of the Federal award and approved project budgets, the annual and final fiscal reports or vouchers requesting payment under the agreements must include a certification, signed by an official who is authorized to legally bind the non-Federal entity, which reads as follows: “By signing this report, I certify to the best of my knowledge and belief that the report is true, complete, and accurate, and the expenditures, disbursements and cash receipts are for the purposes and objectives set forth in the terms and conditions of the Federal award. I am aware that any false, fictitious, or fraudulent information, or the omission of any material fact, may subject me to criminal, civil or administrative penalties for fraud, false statements, false claims or otherwise. (U.S. Code Title 18, Section 1001 and Title 31, Sections 3729-3730 and 3801-3812).”

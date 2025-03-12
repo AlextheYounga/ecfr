@@ -1,5 +1,7 @@
 ##### § 200.405 Allocable costs. #####
 
+Link to an amendment published at 85 FR 49562, Aug. 13, 2020.
+
 (a) A cost is allocable to a particular Federal award or other cost objective if the goods or services involved are chargeable or assignable to that Federal award or cost objective in accordance with relative benefits received. This standard is met if the cost:
 
 (1) Is incurred specifically for the Federal award;

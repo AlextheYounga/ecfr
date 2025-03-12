@@ -1,5 +1,7 @@
 ##### § 200.510 Financial statements. #####
 
+Link to an amendment published at 85 FR 49572, Aug. 13, 2020.
+
 (a) *Financial statements.* The auditee must prepare financial statements that reflect its financial position, results of operations or changes in net assets, and, where appropriate, cash flows for the fiscal year audited. The financial statements must be for the same organizational unit and fiscal year that is chosen to meet the requirements of this part. However, non-Federal entity-wide financial statements may also include departments, agencies, and other organizational units that have separate audits in accordance with § 200.514 Scope of audit, paragraph (a) and prepare separate financial statements.
 
 (b) *Schedule of expenditures of Federal awards.* The auditee must also prepare a schedule of expenditures of Federal awards for the period covered by the auditee's financial statements which must include the total Federal awards expended as determined in accordance with § 200.502 Basis for determining Federal awards expended. While not required, the auditee may choose to provide information requested by Federal awarding agencies and pass-through entities to make the schedule easier to use. For example, when a Federal program has multiple Federal award years, the auditee may list the amount of Federal awards expended for each Federal award year separately. At a minimum, the schedule must:

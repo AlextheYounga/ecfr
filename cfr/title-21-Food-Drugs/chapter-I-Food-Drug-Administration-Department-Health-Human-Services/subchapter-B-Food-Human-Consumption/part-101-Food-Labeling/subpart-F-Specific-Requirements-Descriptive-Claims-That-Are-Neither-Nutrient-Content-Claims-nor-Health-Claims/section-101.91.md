@@ -1,5 +1,7 @@
 ##### § 101.91 Gluten-free labeling of food. #####
 
+Link to an amendment published at 85 FR 49260, Aug. 13, 2020.
+
 (a) *Definitions.* (1) The term “gluten-containing grain” means any one of the following grains or their crossbred hybrids (e.g., triticale, which is a cross between wheat and rye):
 
 (i) Wheat, including any species belonging to the genus *Triticum;*

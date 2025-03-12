@@ -1,5 +1,7 @@
 ##### § 200.449 Interest. #####
 
+Link to an amendment published at 85 FR 49569, Aug. 13, 2020.
+
 (a) *General.* Costs incurred for interest on borrowed capital, temporary use of endowment funds, or the use of the non-Federal entity's own funds, however represented, are unallowable. Financing costs (including interest) to acquire, construct, or replace capital assets are allowable, subject to the conditions in this section.
 
 (b)(1) Capital assets is defined as noted in § 200.12 Capital assets. An asset cost includes (as applicable) acquisition costs, construction costs, and other costs capitalized in accordance with GAAP.

@@ -1,0 +1,13 @@
+##### § 192.430 Charter amendments. #####
+
+(a) *Conversion from Federally-chartered mutual savings association or savings bank to Federally-chartered stock savings association or savings bank.* If the savings association is a Federally-chartered mutual savings association or savings bank and it converts to a Federally-chartered stock savings association or savings bank, it must apply to the OCC to amend its charter and bylaws consistent with 12 CFR 5.22, as part of the savings association's application for conversion. The savings association may only include OCC pre-approved anti-takeover provisions in its amended charter and bylaws. *See* 12 CFR 5.22(g)(7).
+
+(b) *Conversion from Federally-chartered mutual savings association or savings bank to State-chartered stock savings association or savings bank.* If the savings association is a Federally-chartered mutual savings association or savings bank and is converting to a State-chartered stock savings association under this part, the savings association must surrender its charter to the OCC for cancellation promptly after the State issues its new State stock charter. The savings association must promptly file a copy of its new State stock charter with the FDIC.
+
+(c) *Conversion from State-chartered mutual savings association or savings bank to Federally State-chartered stock savings association or savings bank.* If the savings association is a State-chartered mutual savings association or savings bank, and is converting to a Federally chartered stock savings association or savings bank, it must apply to the OCC for a new charter and bylaws consistent with 12 CFR 5.22. The savings association may only include OCC pre-approved anti-takeover provisions in its charter and bylaws. *See* 12 CFR 5.22(g)(7).
+
+(d) *Priority of accounts.* In any conversion described in this section that involves a mutual holding company, the charter of each resulting subsidiary savings association of the holding company must contain the following provision:
+
+In any situation in which the priority of the accounts of the association is in controversy, all such accounts must, to the extent of their withdrawable value, be debts of the association having the same priority as the claims of general creditors of the association not having priority (other than any priority arising or resulting from consensual subordination) over other general creditors of the association.
+
+(e) *Liquidation account.* The savings association's new or amended charter must require the savings association to establish and maintain a liquidation account for eligible and supplemental eligible account holders under § 192.450.

@@ -1,5 +1,7 @@
 ##### § 200.466 Scholarships and student aid costs. #####
 
+Link to an amendment published at 85 FR 49570, Aug. 13, 2020.
+
 (a) Costs of scholarships, fellowships, and other programs of student aid at IHEs are allowable only when the purpose of the Federal award is to provide training to selected participants and the charge is approved by the Federal awarding agency. However, tuition remission and other forms of compensation paid as, or in lieu of, wages to students performing necessary work are allowable provided that:
 
 (1) The individual is conducting activities necessary to the Federal award;

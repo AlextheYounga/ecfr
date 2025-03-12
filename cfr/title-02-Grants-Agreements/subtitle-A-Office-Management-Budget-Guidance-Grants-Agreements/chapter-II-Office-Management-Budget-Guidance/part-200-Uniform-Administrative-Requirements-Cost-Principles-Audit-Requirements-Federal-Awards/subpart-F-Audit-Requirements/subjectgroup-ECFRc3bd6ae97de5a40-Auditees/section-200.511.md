@@ -1,5 +1,7 @@
 ##### § 200.511 Audit findings follow-up. #####
 
+Link to an amendment published at 85 FR 49572, Aug. 13, 2020.
+
 (a) *General.* The auditee is responsible for follow-up and corrective action on all audit findings. As part of this responsibility, the auditee must prepare a summary schedule of prior audit findings. The auditee must also prepare a corrective action plan for current year audit findings. The summary schedule of prior audit findings and the corrective action plan must include the reference numbers the auditor assigns to audit findings under § 200.516 Audit findings, paragraph (c). Since the summary schedule may include audit findings from multiple years, it must include the fiscal year in which the finding initially occurred. The corrective action plan and summary schedule of prior audit findings must include findings relating to the financial statements which are required to be reported in accordance with GAGAS.
 
 (b) *Summary schedule of prior audit findings.* The summary schedule of prior audit findings must report the status of all audit findings included in the prior audit's schedule of findings and questioned costs. The summary schedule must also include audit findings reported in the prior audit's summary schedule of prior audit findings except audit findings listed as corrected in accordance with paragraph (b)(1) of this section, or no longer valid or not warranting further action in accordance with paragraph (b)(3) of this section.

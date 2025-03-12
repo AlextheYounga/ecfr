@@ -1,13 +1,11 @@
-##### § 192.300 What must happen before the appropriate Federal banking agency declares my offering circular effective? #####
+##### § 192.300 Offering circular requirements. #####
 
-(a) You must prepare and file your offering circular with the Securities and Corporate Practices Division of the OCC if you are a Federal savings association and with the appropriate FDIC region if you are a state savings association, in compliance with this part and Form OC and, where applicable, part 197 of this chapter. File your offering circular in accordance with the procedures in section 192.155.
+(a) *Content and filing requirements.* A savings association must prepare and file its offering circular in compliance with this part, Form OC, and the applicable SEC registration statement form required under 12 CFR 16.15. A Federal savings association must file its offering circular with the appropriate OCC licensing office and a State savings association must file its offering circular with the appropriate FDIC region. If filing an amendment, the savings association also must comply with §§ 192.155 and 192.165.
 
-(b) You must condition your stock offering upon member approval of your plan of conversion.
+(b) *Member approval.* A savings association must condition its stock offering upon member approval of its plan of conversion.
 
-(c) The appropriate Federal banking agency will review the Form OC and may comment on the included disclosures and financial statements.
+(c) *Agency review.* The appropriate Federal banking agency will review the offering circular and may comment on the included disclosures and financial statements. The appropriate Federal banking agency will not approve the adequacy or accuracy of the offering circular or the disclosures.
 
-(d) You must file any revised offering circular, final offering circular, and any post-effective amendment to the final offering circular in accordance with the procedures in section 192.155.
+(d) *Revised filings.* A savings association must file any revised offering circular, final offering circular, and any post-effective amendment to the final offering circular in accordance with the procedures in §§ 192.155 and 192.165.
 
-(e) The appropriate Federal banking agency will not approve the adequacy or accuracy of the offering circular or the disclosures.
-
-(f) After you satisfactorily address the appropriate Federal banking agency's concerns, you must request the appropriate Federal banking agency to declare your Form OC effective for a time period. The time period may not exceed the maximum time period for the completion of the sale of all of your shares under § 192.400.
+(e) *Request for effectiveness.* After a savings association satisfactorily addresses the appropriate Federal banking agency's comments, the savings association must request that the appropriate Federal banking agency declare the offering circular effective for a time period. The time period may not exceed the maximum time period for the completion of the sale of all of the savings association's shares under § 192.400.

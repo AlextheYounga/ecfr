@@ -1,19 +1,35 @@
-##### § 200.340 Notification of termination requirement. #####
+##### § 200.340 Termination. #####
 
-(a) The Federal agency or pass-through entity must provide to the non-Federal entity a notice of termination.
+(a) The Federal award may be terminated in whole or in part as follows:
 
-(b) If the Federal award is terminated for the non-Federal entity's material failure to comply with the Federal statutes, regulations, or terms and conditions of the Federal award, the notification must state that -
+(1) By the Federal awarding agency or pass-through entity, if a non-Federal entity fails to comply with the terms and conditions of a Federal award;
 
-(1) The termination decision will be reported to the OMB-designated integrity and performance system accessible through SAM (currently FAPIIS);
+(2) By the Federal awarding agency or pass-through entity, to the greatest extent authorized by law, if an award no longer effectuates the program goals or agency priorities;
 
-(2) The information will be available in the OMB-designated integrity and performance system for a period of five years from the date of the termination, then archived;
+(3) By the Federal awarding agency or pass-through entity with the consent of the non-Federal entity, in which case the two parties must agree upon the termination conditions, including the effective date and, in the case of partial termination, the portion to be terminated;
 
-(3) Federal awarding agencies that consider making a Federal award to the non-Federal entity during that five year period must consider that information in judging whether the non-Federal entity is qualified to receive the Federal award, when the Federal share of the Federal award is expected to exceed the simplified acquisition threshold over the period of performance;
+(4) By the non-Federal entity upon sending to the Federal awarding agency or pass-through entity written notification setting forth the reasons for such termination, the effective date, and, in the case of partial termination, the portion to be terminated. However, if the Federal awarding agency or pass-through entity determines in the case of partial termination that the reduced or modified portion of the Federal award or subaward will not accomplish the purposes for which the Federal award was made, the Federal awarding agency or pass-through entity may terminate the Federal award in its entirety; or
 
-(4) The non-Federal entity may comment on any information the OMB-designated integrity and performance system contains about the non-Federal entity for future consideration by Federal awarding agencies. The non-Federal entity may submit comments to the awardee integrity and performance portal accessible through SAM (currently (CPARS).
+(5) By the Federal awarding agency or pass-through entity pursuant to termination provisions included in the Federal award.
 
-(5) Federal awarding agencies will consider non-Federal entity comments when determining whether the non-Federal entity is qualified for a future Federal award.
+(b) A Federal awarding agency should clearly and unambiguously specify termination provisions applicable to each Federal award, in applicable regulations or in the award, consistent with this section.
 
-(c) Upon termination of a Federal award, the Federal awarding agency must provide the information required under FFATA to the Federal Web site established to fulfill the requirements of FFATA, and update or notify any other relevant governmentwide systems or entities of any indications of poor performance as required by 41 U.S.C. 417b and 31 U.S.C. 3321 and implementing guidance at 2 CFR part 77 (forthcoming at time of publication). See also the requirements for Suspension and Debarment at 2 CFR part 180.
+(c) When a Federal awarding agency terminates a Federal award prior to the end of the period of performance due to the non-Federal entity's material failure to comply with the Federal award terms and conditions, the Federal awarding agency must report the termination to the OMB-designated integrity and performance system accessible through SAM (currently FAPIIS).
 
-[78 FR 78608, Dec. 26, 2013, as amended at 79 FR 75885, Dec. 19, 2014; 80 FR 43310, July 22, 2015]
+(1) The information required under paragraph (c) of this section is not to be reported to designated integrity and performance system until the non-Federal entity either -
+
+(i) Has exhausted its opportunities to object or challenge the decision, see § 200.342; or
+
+(ii) Has not, within 30 calendar days after being notified of the termination, informed the Federal awarding agency that it intends to appeal the Federal awarding agency's decision to terminate.
+
+(2) If a Federal awarding agency, after entering information into the designated integrity and performance system about a termination, subsequently:
+
+(i) Learns that any of that information is erroneous, the Federal awarding agency must correct the information in the system within three business days;
+
+(ii) Obtains an update to that information that could be helpful to other Federal awarding agencies, the Federal awarding agency is strongly encouraged to amend the information in the system to incorporate the update in a timely way.
+
+(3) Federal awarding agencies, must not post any information that will be made publicly available in the non-public segment of designated integrity and performance system that is covered by a disclosure exemption under the Freedom of Information Act. If the non-Federal entity asserts within seven calendar days to the Federal awarding agency who posted the information, that some of the information made publicly available is covered by a disclosure exemption under the Freedom of Information Act, the Federal awarding agency who posted the information must remove the posting within seven calendar days of receiving the assertion. Prior to reposting the releasable information, the Federal agency must resolve the issue in accordance with the agency's Freedom of Information Act procedures.
+
+(d) When a Federal award is terminated or partially terminated, both the Federal awarding agency or pass-through entity and the non-Federal entity remain responsible for compliance with the requirements in §§ 200.344 and 200.345.
+
+[85 FR 49543, Aug. 13, 2020]

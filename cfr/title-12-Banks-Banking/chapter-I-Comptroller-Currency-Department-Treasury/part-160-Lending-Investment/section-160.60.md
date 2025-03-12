@@ -1,7 +1,5 @@
 ##### § 160.60 Suretyship and guaranty. #####
 
-Link to an amendment published at 85 FR 42643, July 14, 2020.
-
 Pursuant to section 5(b)(2) of the HOLA, a Federal savings association may enter into a repayable suretyship or guaranty agreement, subject to the conditions in this section.
 
 (a) *What is a suretyship or guaranty agreement?* Under a suretyship, a Federal savings association is bound with its principal to pay or perform an obligation to a third person. Under a guaranty agreement, a Federal savings association agrees to satisfy the obligation of the principal only if the principal fails to pay or perform.
@@ -12,7 +10,7 @@ Pursuant to section 5(b)(2) of the HOLA, a Federal savings association may enter
 
 (2) The Federal savings association's performance under the agreement must create an authorized loan or other investment.
 
-(3) The Federal savings association must treat its obligation under the agreement as a loan to the principal for purposes of 12 CFR part 32 and § 163.43 of this chapter.
+(3) The Federal savings association must treat its obligation under the agreement as a loan to the principal for purposes of 12 CFR 31.2 and part 32 of this chapter.
 
 (4) The Federal savings association must take and maintain a perfected security interest in collateral sufficient to cover its total obligation under the agreement.
 
@@ -32,4 +30,4 @@ Pursuant to section 5(b)(2) of the HOLA, a Federal savings association may enter
 
 (iv) Notes, drafts, or bills of exchange or bankers' acceptances that are eligible for rediscount or purchase by a Federal Reserve Bank.
 
-[76 FR 49030, Aug. 9, 2011, as amended at 77 FR 37283, June 21, 2012; 79 FR 28401, May 16, 2014]
+[76 FR 49030, Aug. 9, 2011, as amended at 77 FR 37283, June 21, 2012; 79 FR 28401, May 16, 2014; 85 FR 42643, July 14, 2020]

@@ -1,11 +1,1 @@
-##### § 141.15 Improved nonresidential real estate. #####
-
-Link to an amendment published at 85 FR 42643, July 14, 2020.
-
-The term *improved nonresidential real estate* means nonresidential real estate:
-
-(a) Containing a permanent structure(s) constituting at least 25 percent of its value; or
-
-(b) Containing improvements which make it usable by a business or industrial enterprise; or
-
-(c) Used, or to be used within a reasonable time, for commercial farming, excluding hobby and vacation property.
+##### § 141.15 [Reserved] #####

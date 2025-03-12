@@ -1,5 +1,7 @@
 ##### § 200.459 Professional service costs. #####
 
+Link to an amendment published at 85 FR 49569, Aug. 13, 2020.
+
 (a) Costs of professional and consultant services rendered by persons who are members of a particular profession or possess a special skill, and who are not officers or employees of the non-Federal entity, are allowable, subject to paragraphs (b) and (c) when reasonable in relation to the services rendered and when not contingent upon recovery of the costs from the Federal Government. In addition, legal and related services are limited under § 200.435 Defense and prosecution of criminal and civil proceedings, claims, appeals and patent infringements.
 
 (b) In determining the allowability of costs in a particular case, no single factor or any special combination of factors is necessarily determinative. However, the following factors are relevant:

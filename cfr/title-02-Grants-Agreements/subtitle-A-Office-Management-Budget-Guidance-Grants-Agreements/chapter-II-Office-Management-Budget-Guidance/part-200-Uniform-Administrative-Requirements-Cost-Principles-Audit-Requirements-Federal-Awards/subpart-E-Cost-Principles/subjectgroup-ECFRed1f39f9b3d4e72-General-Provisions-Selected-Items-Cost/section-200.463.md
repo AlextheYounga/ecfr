@@ -1,5 +1,7 @@
 ##### § 200.463 Recruiting costs. #####
 
+Link to an amendment published at 85 FR 49569, Aug. 13, 2020.
+
 (a) Subject to paragraphs (b) and (c) of this section, and provided that the size of the staff recruited and maintained is in keeping with workload requirements, costs of “help wanted” advertising, operating costs of an employment office necessary to secure and maintain an adequate staff, costs of operating an aptitude and educational testing program, travel costs of employees while engaged in recruiting personnel, travel costs of applicants for interviews for prospective employment, and relocation costs incurred incident to recruitment of new employees, are allowable to the extent that such costs are incurred pursuant to the non-Federal entity's standard recruitment program. Where the non-Federal entity uses employment agencies, costs not in excess of standard commercial rates for such services are allowable.
 
 (b) Special emoluments, fringe benefits, and salary allowances incurred to attract professional personnel that do not meet the test of reasonableness or do not conform with the established practices of the non-Federal entity, are unallowable.

@@ -1,13 +1,11 @@
-##### § 192.520 May I declare or pay dividends after I convert? #####
+##### § 192.520 Declaring and paying dividends after the conversion. #####
 
-You may declare or pay a dividend on your shares after you convert if:
+A savings association may declare or pay a dividend on its shares after the conversion if:
 
-(a) The dividend will not reduce your regulatory capital below the amount required for your liquidation account under § 192.450;
+(a) The dividend will not reduce the savings association's regulatory capital below the amount required for the liquidation account under § 192.450;
 
-(b) You comply with all capital requirements under 12 CFR part 3 or part 167, as applicable after you declare or pay dividends;
+(b) The savings association complies with all capital requirements under 12 CFR part 3 after it declares or pays dividends;
 
-(c) You comply with the capital distribution requirements under § 5.55 of this chapter; and
+(c) The savings association complies with the capital distribution requirements under 12 CFR 5.55; and
 
-(d) You do not return any capital, other than ordinary dividends, to purchasers during the term of the business plan submitted with the conversion.
-
-[76 FR 49156, Aug. 9, 2011, as amended at 79 FR 11317, Feb. 28, 2014; 80 FR 28481, May 18, 2015]
+(d) The savings association does not return any capital, other than ordinary dividends, to purchasers during the term of the business plan submitted with the conversion.

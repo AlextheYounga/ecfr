@@ -1,5 +1,7 @@
 ##### § 200.515 Audit reporting. #####
 
+Link to an amendment published at 85 FR 49574, Aug. 13, 2020.
+
 The auditor's report(s) may be in the form of either combined or separate reports and may be organized differently from the manner presented in this section. The auditor's report(s) must state that the audit was conducted in accordance with this part and include the following:
 
 (a) An opinion (or disclaimer of opinion) as to whether the financial statements are presented fairly in all material respects in accordance with generally accepted accounting principles and an opinion (or disclaimer of opinion) as to whether the schedule of expenditures of Federal awards is fairly stated in all material respects in relation to the financial statements as a whole.

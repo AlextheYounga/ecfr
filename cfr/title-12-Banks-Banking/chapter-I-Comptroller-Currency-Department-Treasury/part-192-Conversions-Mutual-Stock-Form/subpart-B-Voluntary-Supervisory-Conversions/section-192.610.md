@@ -1,3 +1,3 @@
-##### § 192.610 Do my members have rights in a voluntary supervisory conversion? #####
+##### § 192.610 Member rights in a voluntary supervisory conversion. #####
 
-Your members do not have the right to approve or participate in a voluntary supervisory conversion, and will not have any legal or beneficial ownership interests in the converted association, unless the appropriate Federal banking agency provides otherwise. Your members may have interests in a liquidation account, if one is established.
+Savings association members do not have the right to approve or participate in a voluntary supervisory conversion, and will not have any legal or beneficial ownership interests in the converted association, unless the appropriate Federal banking agency provides otherwise. Savings association members may have interests in a liquidation account, if one is established.

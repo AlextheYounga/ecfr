@@ -1,5 +1,7 @@
 ##### § 200.514 Scope of audit. #####
 
+Link to an amendment published at 85 FR 49574, Aug. 13, 2020.
+
 (a) *General.* The audit must be conducted in accordance with GAGAS. The audit must cover the entire operations of the auditee, or, at the option of the auditee, such audit must include a series of audits that cover departments, agencies, and other organizational units that expended or otherwise administered Federal awards during such audit period, provided that each such audit must encompass the financial statements and schedule of expenditures of Federal awards for each such department, agency, and other organizational unit, which must be considered to be a non-Federal entity. The financial statements and schedule of expenditures of Federal awards must be for the same audit period.
 
 (b) *Financial statements.* The auditor must determine whether the financial statements of the auditee are presented fairly in all material respects in accordance with generally accepted accounting principles. The auditor must also determine whether the schedule of expenditures of Federal awards is stated fairly in all material respects in relation to the auditee's financial statements as a whole.

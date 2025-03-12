@@ -1,5 +1,7 @@
 ##### § 200.413 Direct costs. #####
 
+Link to an amendment published at 85 FR 49562, Aug. 13, 2020.
+
 (a) *General.* Direct costs are those costs that can be identified specifically with a particular final cost objective, such as a Federal award, or other internally or externally funded activity, or that can be directly assigned to such activities relatively easily with a high degree of accuracy. Costs incurred for the same purpose in like circumstances must be treated consistently as either direct or indirect (F&A) costs. See also § 200.405 Allocable costs.
 
 (b) *Application to Federal awards.* Identification with the Federal award rather than the nature of the goods and services involved is the determining factor in distinguishing direct from indirect (F&A) costs of Federal awards. Typical costs charged directly to a Federal award are the compensation of employees who work on that award, their related fringe benefit costs, the costs of materials and other items of expense incurred for the Federal award. If directly related to a specific award, certain costs that otherwise would be treated as indirect costs may also include extraordinary utility consumption, the cost of materials supplied from stock or services rendered by specialized facilities or other institutional service operations.

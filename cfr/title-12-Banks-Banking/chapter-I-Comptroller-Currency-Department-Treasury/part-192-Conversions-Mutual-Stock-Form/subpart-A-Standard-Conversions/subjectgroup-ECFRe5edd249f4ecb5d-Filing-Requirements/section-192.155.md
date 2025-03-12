@@ -1,3 +1,3 @@
-##### § 192.155 How do I file my application for conversion? #####
+##### § 192.155 Filing an application for conversion. #####
 
-If you are a Federal savings association, you must file an original and at least one conformed copy of Form AC with the appropriate OCC licensing office. If you are a state savings association, you must file all copies of your application with the appropriate FDIC region.
+A Federal savings association must file Form AC with the appropriate OCC licensing office. A State savings association must file its application with the appropriate FDIC region.

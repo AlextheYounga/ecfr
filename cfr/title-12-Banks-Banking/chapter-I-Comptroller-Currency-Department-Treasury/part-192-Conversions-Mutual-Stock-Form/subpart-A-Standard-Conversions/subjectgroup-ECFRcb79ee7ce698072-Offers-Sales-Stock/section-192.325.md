@@ -1,5 +1,5 @@
-##### § 192.325 When may I offer to sell my conversion shares? #####
+##### § 192.325 Timing of offer to sell conversion shares. #####
 
-(a) You may offer to sell your conversion shares after the appropriate Federal banking agency approves your conversion, clears your proxy statement, and declares your offering circular effective.
+(a) *In general.* A savings association may offer to sell its conversion shares after the appropriate Federal banking agency approves the conversion, clears the proxy statement, and declares the offering circular effective.
 
-(b) The offer may commence at the same time you start the proxy solicitation of your members.
+(b) *Timing.* The offer may commence at the same time the savings association starts the proxy solicitation of its members.

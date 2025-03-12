@@ -1,5 +1,7 @@
 ##### § 200.444 General costs of government. #####
 
+Link to an amendment published at 85 FR 49568, Aug. 13, 2020.
+
 (a) For states, local governments, and Indian Tribes, the general costs of government are unallowable (except as provided in § 200.474 Travel costs). Unallowable costs include:
 
 (1) Salaries and expenses of the Office of the Governor of a state or the chief executive of a local government or the chief executive of an Indian tribe;

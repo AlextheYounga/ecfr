@@ -1,5 +1,7 @@
 ##### § 200.468 Specialized service facilities. #####
 
+Link to an amendment published at 85 FR 49570, Aug. 13, 2020.
+
 (a) The costs of services provided by highly complex or specialized facilities operated by the non-Federal entity, such as computing facilities, wind tunnels, and reactors are allowable, provided the charges for the services meet the conditions of either paragraphs (b) or (c) of this section, and, in addition, take into account any items of income or Federal financing that qualify as applicable credits under § 200.406 Applicable credits.
 
 (b) The costs of such services, when material, must be charged directly to applicable awards based on actual usage of the services on the basis of a schedule of rates or established methodology that:

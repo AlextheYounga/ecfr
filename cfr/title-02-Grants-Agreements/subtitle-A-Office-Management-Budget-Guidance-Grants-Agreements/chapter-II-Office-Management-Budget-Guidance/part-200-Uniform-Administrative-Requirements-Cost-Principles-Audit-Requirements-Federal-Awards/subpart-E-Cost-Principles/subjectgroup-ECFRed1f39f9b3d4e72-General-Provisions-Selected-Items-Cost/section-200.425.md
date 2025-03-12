@@ -1,5 +1,7 @@
 ##### § 200.425 Audit services. #####
 
+Link to an amendment published at 85 FR 49564, Aug. 13, 2020.
+
 (a) A reasonably proportionate share of the costs of audits required by, and performed in accordance with, the Single Audit Act Amendments of 1996 (31 U.S.C. 7501-7507), as implemented by requirements of this part, are allowable. However, the following audit costs are unallowable:
 
 (1) Any costs when audits required by the Single Audit Act and Subpart F - Audit Requirements of this part have not been conducted or have been conducted but not in accordance therewith; and

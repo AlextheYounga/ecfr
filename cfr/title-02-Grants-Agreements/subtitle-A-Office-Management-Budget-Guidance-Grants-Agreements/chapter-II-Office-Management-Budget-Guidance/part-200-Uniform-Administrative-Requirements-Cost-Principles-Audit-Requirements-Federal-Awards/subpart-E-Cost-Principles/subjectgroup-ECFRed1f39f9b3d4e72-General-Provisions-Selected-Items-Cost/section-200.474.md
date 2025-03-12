@@ -1,5 +1,7 @@
 ##### § 200.474 Travel costs. #####
 
+Link to an amendment published at 85 FR 49570, Aug. 13, 2020.
+
 (a) *General.* Travel costs are the expenses for transportation, lodging, subsistence, and related items incurred by employees who are in travel status on official business of the non-Federal entity. Such costs may be charged on an actual cost basis, on a per diem or mileage basis in lieu of actual costs incurred, or on a combination of the two, provided the method used is applied to an entire trip and not to selected days of the trip, and results in charges consistent with those normally allowed in like circumstances in the non-Federal entity's non-federally-funded activities and in accordance with non-Federal entity's written travel reimbursement policies. Notwithstanding the provisions of § 200.444 General costs of government, travel costs of officials covered by that section are allowable with the prior written approval of the Federal awarding agency or pass-through entity when they are specifically related to the Federal award.
 
 (b) *Lodging and subsistence.* Costs incurred by employees and officers for travel, including costs of lodging, other subsistence, and incidental expenses, must be considered reasonable and otherwise allowable only to the extent such costs do not exceed charges normally allowed by the non-Federal entity in its regular operations as the result of the non-Federal entity's written travel policy. In addition, if these costs are charged directly to the Federal award documentation must justify that:

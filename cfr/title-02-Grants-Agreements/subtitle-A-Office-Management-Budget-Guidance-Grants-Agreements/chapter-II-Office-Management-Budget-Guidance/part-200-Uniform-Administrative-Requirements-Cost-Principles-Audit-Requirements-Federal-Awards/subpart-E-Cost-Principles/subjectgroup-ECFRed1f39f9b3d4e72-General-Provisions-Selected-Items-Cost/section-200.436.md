@@ -1,5 +1,7 @@
 ##### § 200.436 Depreciation. #####
 
+Link to an amendment published at 85 FR 49568, Aug. 13, 2020.
+
 (a) Depreciation is the method for allocating the cost of fixed assets to periods benefitting from asset use. The non-Federal entity may be compensated for the use of its buildings, capital improvements, equipment, and software projects capitalized in accordance with GAAP, provided that they are used, needed in the non-Federal entity's activities, and properly allocated to Federal awards. Such compensation must be made by computing depreciation.
 
 (b) The allocation for depreciation must be made in accordance with Appendices III through IX.

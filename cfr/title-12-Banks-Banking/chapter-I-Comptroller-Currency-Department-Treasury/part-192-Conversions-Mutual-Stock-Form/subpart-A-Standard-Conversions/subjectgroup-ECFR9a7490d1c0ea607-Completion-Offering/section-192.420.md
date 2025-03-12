@@ -1,0 +1,3 @@
+##### § 192.420 Time period for completion of conversion. #####
+
+In its plan of conversion, a savings association must set a date by which the conversion must be completed. This date must not be more than 24 months from the date that the savings association's members approve the plan of conversion. The date, once set, may not be extended by the savings association or by the appropriate Federal banking agency. The savings association must terminate the conversion if it is not completed by that date. The conversion is complete on the date that the savings association accepts the offers for its stock.

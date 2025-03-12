@@ -1,5 +1,7 @@
 ##### § 200.419 Cost accounting standards and disclosure statement. #####
 
+Link to an amendment published at 85 FR 49564, Aug. 13, 2020.
+
 (a) An IHE that receives aggregate Federal awards totaling $50 million or more in Federal awards subject to this part in its most recently completed fiscal year must comply with the Cost Accounting Standards Board's cost accounting standards located at 48 CFR 9905.501, 9905.502, 9905.505, and 9905.506. CAS-covered contracts awarded to the IHEs are subject to the CAS requirements at 48 CFR 9900 through 9999 and 48 CFR part 30 (FAR Part 30).
 
 (b) *Disclosure statement.* An IHE that receives aggregate Federal awards totaling $50 million or more subject to this part during its most recently completed fiscal year must disclose their cost accounting practices by filing a Disclosure Statement (DS-2), which is reproduced in Appendix III to Part 200 - Indirect (F&A) Costs Identification and Assignment, and Rate Determination for Institutions of Higher Education (IHEs). With the approval of the cognizant agency for indirect costs, an IHE may meet the DS-2 submission by submitting the DS-2 for each business unit that received $50 million or more in Federal awards.

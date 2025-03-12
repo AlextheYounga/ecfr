@@ -1,5 +1,7 @@
 ##### § 200.102 Exceptions. #####
 
+Link to an amendment published at 85 FR 49538, Aug. 13, 2020.
+
 (a) With the exception of Subpart F - Audit Requirements of this part, OMB may allow exceptions for classes of Federal awards or non-Federal entities subject to the requirements of this part when exceptions are not prohibited by statute. However, in the interest of maximum uniformity, exceptions from the requirements of this part will be permitted only in unusual circumstances. Exceptions for classes of Federal awards or non-Federal entities will be published on the OMB Web site at *www.whitehouse.gov/omb*.
 
 (b) Exceptions on a case-by-case basis for individual non-Federal entities may be authorized by the Federal awarding agency or cognizant agency for indirect costs, except where otherwise required by law or where OMB or other approval is expressly required by this part.

@@ -1,7 +1,5 @@
 ##### § 163.180 Suspicious Activity Reports and other reports and statements. #####
 
-Link to an amendment published at 85 FR 42643, July 14, 2020.
-
 (a) [Reserved]
 
 (b) *False or misleading statements or omissions.* No savings association or director, officer, agent, employee, affiliated person, or other person participating in the conduct of the affairs of such association nor any person filing or seeking approval of any application shall knowingly:
@@ -58,7 +56,7 @@ Link to an amendment published at 85 FR 42643, July 14, 2020.
 
 (12) *Confidentiality of SARs.* A SAR, and any information that would reveal the existence of a SAR, are confidential, and shall not be disclosed except as authorized in this paragraph (d)(12).
 
-(i) *Prohibition on disclosure by savings associations or service corporations* - (A) *General rule.* No savings association or service corporation, and no director, officer, employee, or agent of a savings association or service corporation, shall disclose a SAR or any information that would reveal the existence of a SAR. Any savings association or service corporation, and any director, officer, employee, or agent of any savings association or service corporation that is subpoenaed or otherwise requested to disclose a SAR, or any information that would reveal the existence of a SAR, shall decline to produce the SAR or such information, citing this section and 31 U.S.C. 5318(g)(2)(A)(i), and shall notify the following of any such request and the response thereto:
+(i) *Prohibition on disclosure by savings associations or service corporations* - No savings association or service corporation, and no director, officer, employee, or agent of a savings association or service corporation, shall disclose a SAR or any information that would reveal the existence of a SAR. Any savings association or service corporation, and any director, officer, employee, or agent of any savings association or service corporation that is subpoenaed or otherwise requested to disclose a SAR, or any information that would reveal the existence of a SAR, shall decline to produce the SAR or such information, citing this section and 31 U.S.C. 5318(g)(2)(A)(i), and shall notify the following of any such request and the response thereto:
 
 (A) Director, Litigation Division, Office of the Comptroller of the Currency or the appropriate FDIC region, as appropriate and
 
@@ -90,4 +88,4 @@ Link to an amendment published at 85 FR 42643, July 14, 2020.
 
 (3) *Applicable indices.* For the purpose of this reporting requirement, the term “adjustable-rate mortgage index” means any of the adjustable-rate mortgage indices calculated and published by a Federal Home Loan Bank or the Federal Home Loan Bank Board on or before August 9, 1989.
 
-[76 FR 49047, Aug. 9, 2011, as amended at 82 FR 8111, Jan. 23, 2017]Editorial Note:At 76 FR 49047, Aug. 9, 2011, § 163.180 was added; however, there are two paragraphs (d)(12)(i)(A).
+[76 FR 49047, Aug. 9, 2011, as amended at 82 FR 8111, Jan. 23, 2017; 85 FR 42643, July 14, 2020]

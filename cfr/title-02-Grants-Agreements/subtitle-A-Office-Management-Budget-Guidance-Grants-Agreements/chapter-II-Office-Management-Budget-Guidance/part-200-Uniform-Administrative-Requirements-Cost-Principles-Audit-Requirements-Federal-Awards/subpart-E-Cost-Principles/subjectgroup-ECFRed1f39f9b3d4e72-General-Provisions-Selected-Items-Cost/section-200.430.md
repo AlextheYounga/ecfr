@@ -1,5 +1,7 @@
 ##### § 200.430 Compensation - personal services. #####
 
+Link to an amendment published at 85 FR 49565, Aug. 13, 2020.
+
 (a) *General.* Compensation for personal services includes all remuneration, paid currently or accrued, for services of employees rendered during the period of performance under the Federal award, including but not necessarily limited to wages and salaries. Compensation for personal services may also include fringe benefits which are addressed in § 200.431 Compensation - fringe benefits. Costs of compensation are allowable to the extent that they satisfy the specific requirements of this part, and that the total compensation for individual employees:
 
 (1) Is reasonable for the services rendered and conforms to the established written policy of the non-Federal entity consistently applied to both Federal and non-Federal activities;

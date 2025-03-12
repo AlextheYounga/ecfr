@@ -1,5 +1,7 @@
 ##### § 200.507 Program-specific audits. #####
 
+Link to an amendment published at 85 FR 49571, Aug. 13, 2020.
+
 (a) *Program-specific audit guide available.* In many cases, a program-specific audit guide will be available to provide specific guidance to the auditor with respect to internal controls, compliance requirements, suggested audit procedures, and audit reporting requirements. A listing of current program-specific audit guides can be found in the compliance supplement beginning with the 2014 supplement including Federal awarding agency contact information and a Web site where a copy of the guide can be obtained. When a current program-specific audit guide is available, the auditor must follow GAGAS and the guide when performing a program-specific audit.
 
 (b) *Program-specific audit guide not available.* (1) When a current program-specific audit guide is not available, the auditee and auditor must have basically the same responsibilities for the Federal program as they would have for an audit of a major program in a single audit.

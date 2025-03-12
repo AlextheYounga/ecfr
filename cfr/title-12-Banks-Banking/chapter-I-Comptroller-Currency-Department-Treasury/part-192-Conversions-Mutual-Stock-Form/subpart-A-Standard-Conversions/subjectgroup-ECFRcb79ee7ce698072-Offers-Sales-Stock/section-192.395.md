@@ -1,5 +1,3 @@
-##### § 192.395 What other conditions apply when I offer conversion shares in a community offering, a public offering, or both? #####
+##### § 192.395 Other conditions for community and public offerings. #####
 
-(a) You must offer and sell your stock to achieve a widespread distribution of the stock.
-
-(b) If you offer shares in a community offering, a public offering, or both, you must first fill orders for your stock up to a maximum of two percent of the conversion stock on a basis that will promote a widespread distribution of stock. You must allocate any remaining shares on an equal number of shares per order basis until you fill all orders.
+A savings association must offer and sell its stock to achieve a widespread distribution of the stock. If a savings association offers shares in a community offering, a public offering, or both, it must first fill orders for its stock up to a maximum of two percent of the conversion stock on a basis that will promote a widespread distribution of stock. The savings association must allocate any remaining shares on an equal number of shares per order basis until it fills all orders.

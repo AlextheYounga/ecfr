@@ -1,12 +1,10 @@
 ##### § 163.80 Borrowing limitations. #####
 
-Link to an amendment published at 85 FR 42643, July 14, 2020.
-
 (a) *General.* Except as the appropriate Federal banking agency otherwise may permit by advice in writing, a savings association may borrow only in accordance with the provisions of this section.
 
 (b) *Amount of borrowing.* A savings association may borrow up to the amount authorized by the laws under which the savings association operates.
 
-(c) *Security.* An association may give security for borrowings subject to any requirements imposed by the appropriate Federal banking agency or the FDIC regarding notice of default on borrowings and any FDIC right of first refusal to purchase collateral.
+(c) *Security.* An association may give security for borrowings subject to any requirements imposed by the appropriate Federal banking agency or the Federal Deposit Insurance Corporation (FDIC) regarding notice of default on borrowings and any FDIC right of first refusal to purchase collateral.
 
 (d) *Required statement for all securities evidencing outside borrowings.* Each security shall bear on its face, in a prominent place, the following legend:
 
@@ -36,4 +34,4 @@ This security is not a savings account or a deposit and it is not insured by the
 
 (f) *Note accounts.* For purposes of this section, note accounts are not borrowings.
 
-[76 FR 49047, Aug. 9, 2011, as amended at 79 FR 11314, Feb. 28, 2014; 84 FR 56376, Oct. 22, 2019]
+[76 FR 49047, Aug. 9, 2011, as amended at 79 FR 11314, Feb. 28, 2014; 84 FR 56376, Oct. 22, 2019; 85 FR 42643, July 14, 2020]

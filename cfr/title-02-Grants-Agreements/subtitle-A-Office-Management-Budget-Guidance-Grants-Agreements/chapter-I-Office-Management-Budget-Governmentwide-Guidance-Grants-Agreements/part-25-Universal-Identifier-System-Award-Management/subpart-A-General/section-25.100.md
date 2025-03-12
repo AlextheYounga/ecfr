@@ -1,5 +1,7 @@
 ##### § 25.100 Purposes of this part. #####
 
+Link to an amendment published at 85 FR 49522, Aug. 13, 2020.
+
 This part provides guidance to agencies to establish:
 
 (a) The unique entity identifier as a universal identifier for Federal financial assistance applicants, as well as recipients and their direct subrecipients.

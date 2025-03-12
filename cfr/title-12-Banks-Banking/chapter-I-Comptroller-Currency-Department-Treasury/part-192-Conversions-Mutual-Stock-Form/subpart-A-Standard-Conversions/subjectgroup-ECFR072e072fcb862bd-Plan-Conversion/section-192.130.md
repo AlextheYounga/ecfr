@@ -1,3 +1,3 @@
-##### § 192.130 What must I include in my plan of conversion? #####
+##### § 192.130 Information required in plan of conversion. #####
 
-You must include the information included in §§ 192.320 through 192.485 and 192.505 in your plan of conversion. The appropriate Federal banking agency may require you to delete or revise any provision in your plan of conversion if it determines the provision is inequitable; is detrimental to you, your account holders, or other savings associations; or is contrary to public interest.
+A savings association must include the information included in §§ 192.320 through 192.485 and 192.505 in its plan of conversion. The appropriate Federal banking agency may require the savings association to delete or revise any provision in its plan of conversion if it determines the provision is inequitable; is detrimental to the savings association, its account holders, or other savings associations; or is contrary to public interest.

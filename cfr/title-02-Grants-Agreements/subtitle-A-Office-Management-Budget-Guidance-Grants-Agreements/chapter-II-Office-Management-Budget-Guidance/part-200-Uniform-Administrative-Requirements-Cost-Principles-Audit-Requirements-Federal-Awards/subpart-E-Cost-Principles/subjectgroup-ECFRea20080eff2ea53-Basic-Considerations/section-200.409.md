@@ -1,5 +1,7 @@
 ##### § 200.409 Special considerations. #####
 
+Link to an amendment published at 85 FR 49562, Aug. 13, 2020.
+
 In addition to the basic considerations regarding the allowability of costs highlighted in this subtitle, other subtitles in this part describe special considerations and requirements applicable to states, local governments, Indian tribes, and IHEs. In addition, certain provisions among the items of cost in this subpart, are only applicable to certain types of non-Federal entities, as specified in the following sections:
 
 (a) Direct and Indirect (F&A) Costs (§§ 200.412 Classification of costs through 200.415 Required certifications) of this subpart;

@@ -1,11 +1,13 @@
-##### § 192.630 When is a state-chartered savings bank eligible for a voluntary supervisory conversion. #####
+##### § 192.630 Eligibility of State-chartered savings bank for voluntary supervisory conversion. #####
 
-If you are a state-chartered savings bank you may be eligible to convert to a Federal stock savings bank under this subpart if:
+A State-chartered savings bank may be eligible to convert to a Federal stock savings bank under this subpart if:
 
-(a) FDIC certifies under section 5(o)(2)(C) of the HOLA that severe financial conditions threaten your stability and that the voluntary supervisory conversion is likely to improve your financial condition; or
+(a) The FDIC certifies under section 5(o)(2)(C) of the HOLA that severe financial conditions threaten the savings bank's stability and that the voluntary supervisory conversion is likely to improve its financial condition; or
 
-(b) You meet the following conditions:
+(b) The savings bank meets the following conditions:
 
-(1) Your liabilities exceed your assets, as calculated under generally accepted accounting principles, assuming you are a going concern; and
+(1) The savings bank's liabilities exceed its assets, as calculated under generally accepted accounting principles, assuming the savings bank is a going concern; and
 
-(2) You will issue a sufficient amount of permanent capital stock to meet your applicable FDIC capital requirement immediately upon completion of the conversion, or FDIC determines that you will achieve an acceptable capital level within an acceptable time period.
+(2) The savings bank will issue a sufficient amount of permanent capital stock to meet its applicable FDIC capital requirement immediately upon completion of the conversion, or the FDIC determines that the savings bank will achieve an acceptable capital level within an acceptable time period.
+
+Plan of Supervisory Conversion

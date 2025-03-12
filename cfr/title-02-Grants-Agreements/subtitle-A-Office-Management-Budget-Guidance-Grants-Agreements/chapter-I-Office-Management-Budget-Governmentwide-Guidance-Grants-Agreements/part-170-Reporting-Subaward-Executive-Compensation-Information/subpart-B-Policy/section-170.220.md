@@ -1,5 +1,7 @@
 ##### § 170.220 Award term. #####
 
+Link to an amendment published at 85 FR 49526, Aug. 13, 2020.
+
 (a) To accomplish the purposes described in § 170.100, an agency must include the award term in Appendix A to this part in each award to a non-Federal entity under which the total funding will include $25,000 or more in Federal funding at any time during the project or program period.
 
 (b) An agency -

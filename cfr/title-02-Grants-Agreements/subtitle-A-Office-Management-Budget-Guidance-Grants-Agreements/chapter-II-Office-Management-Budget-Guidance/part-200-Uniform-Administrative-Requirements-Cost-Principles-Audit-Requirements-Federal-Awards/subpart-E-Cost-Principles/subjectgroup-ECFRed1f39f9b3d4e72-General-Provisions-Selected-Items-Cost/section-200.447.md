@@ -1,5 +1,7 @@
 ##### § 200.447 Insurance and indemnification. #####
 
+Link to an amendment published at 85 FR 49568, Aug. 13, 2020.
+
 (a) Costs of insurance required or approved and maintained, pursuant to the Federal award, are allowable.
 
 (b) Costs of other insurance in connection with the general conduct of activities are allowable subject to the following limitations:

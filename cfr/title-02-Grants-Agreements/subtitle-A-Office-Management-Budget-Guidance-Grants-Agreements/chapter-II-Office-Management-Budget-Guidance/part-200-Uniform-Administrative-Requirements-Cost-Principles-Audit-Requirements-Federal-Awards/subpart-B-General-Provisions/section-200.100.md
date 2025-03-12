@@ -1,5 +1,7 @@
 ##### § 200.100 Purpose. #####
 
+Link to an amendment published at 85 FR 49536, Aug. 13, 2020.
+
 (a)(1) This part establishes uniform administrative requirements, cost principles, and audit requirements for Federal awards to non-Federal entities, as described in § 200.101 Applicability. Federal awarding agencies must not impose additional or inconsistent requirements, except as provided in §§ 200.102 Exceptions and 200.210 Information contained in a Federal award, or unless specifically required by Federal statute, regulation, or Executive Order.
 
 (2) This part provides the basis for a systematic and periodic collection and uniform submission by Federal agencies of information on all Federal financial assistance programs to the Office of Management and Budget (OMB). It also establishes Federal policies related to the delivery of this information to the public, including through the use of electronic media. It prescribes the manner in which General Services Administration (GSA), OMB, and Federal agencies that administer Federal financial assistance programs are to carry out their statutory responsibilities under the Federal Program Information Act (31 U.S.C. 6101-6106).

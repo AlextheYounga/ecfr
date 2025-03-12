@@ -1,3 +1,3 @@
-##### § 192.15 May I form a charitable organization as part of my conversion? #####
+##### § 192.15 Forming a charitable organization upon conversion. #####
 
-When you convert to the stock form, you may form a charitable organization. Your contributions to the charitable organization are governed by the requirements of §§ 192.550 through 192.575.
+When a savings association converts to the stock form, it may form a charitable organization. A savings association's contributions to the charitable organization are governed by the requirements of §§ 192.550 through 192.575.

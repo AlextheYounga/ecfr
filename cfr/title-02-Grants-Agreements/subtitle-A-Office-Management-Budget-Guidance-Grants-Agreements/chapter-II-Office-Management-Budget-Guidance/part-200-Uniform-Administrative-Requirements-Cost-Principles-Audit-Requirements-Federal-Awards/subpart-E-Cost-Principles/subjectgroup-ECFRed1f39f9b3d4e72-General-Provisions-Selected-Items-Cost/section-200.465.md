@@ -1,5 +1,7 @@
 ##### § 200.465 Rental costs of real property and equipment. #####
 
+Link to an amendment published at 85 FR 49570, Aug. 13, 2020.
+
 (a) Subject to the limitations described in paragraphs (b) through (d) of this section, rental costs are allowable to the extent that the rates are reasonable in light of such factors as: rental costs of comparable property, if any; market conditions in the area; alternatives available; and the type, life expectancy, condition, and value of the property leased. Rental arrangements should be reviewed periodically to determine if circumstances have changed and other options are available.
 
 (b) Rental costs under “sale and lease back” arrangements are allowable only up to the amount that would be allowed had the non-Federal entity continued to own the property. This amount would include expenses such as depreciation, maintenance, taxes, and insurance.

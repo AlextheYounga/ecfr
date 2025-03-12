@@ -1,5 +1,7 @@
 ##### § 200.434 Contributions and donations. #####
 
+Link to an amendment published at 85 FR 49567, Aug. 13, 2020.
+
 (a) Costs of contributions and donations, including cash, property, and services, from the non-Federal entity to other entities, are unallowable.
 
 (b) The value of services and property donated to the non-Federal entity may not be charged to the Federal award either as a direct or indirect (F&A) cost. The value of donated services and property may be used to meet cost sharing or matching requirements (see § 200.306 Cost sharing or matching). Depreciation on donated assets is permitted in accordance with § 200.436 Depreciation, as long as the donated property is not counted towards cost sharing or matching requirements.

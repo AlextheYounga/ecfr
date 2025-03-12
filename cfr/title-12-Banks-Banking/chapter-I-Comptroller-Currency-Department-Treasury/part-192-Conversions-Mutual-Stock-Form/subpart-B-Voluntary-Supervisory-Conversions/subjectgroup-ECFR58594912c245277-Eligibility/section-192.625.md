@@ -1,21 +1,21 @@
-##### § 192.625 When is a savings association eligible for a voluntary supervisory conversion? #####
+##### § 192.625 Eligibility for a voluntary supervisory conversion. #####
 
-(a) If you are an insured savings association, you may be eligible to convert under this subpart if:
+(a) *Eligibility.* An insured savings association may be eligible to convert under this subpart B if:
 
-(1) You are significantly undercapitalized (or you are undercapitalized and a standard conversion that would make you adequately capitalized is not feasible) and you will be a viable entity following the conversion;
+(1) The savings association is significantly undercapitalized (or undercapitalized and a standard conversion that would make the savings association adequately capitalized is not feasible) and the savings association will be a viable entity following the conversion;
 
-(2) Severe financial conditions threaten your stability and a conversion is likely to improve your financial condition;
+(2) Severe financial conditions threaten the savings association's stability and a conversion is likely to improve its financial condition;
 
-(3) FDIC will assist you under section 13 of the Federal Deposit Insurance Act, 12 U.S.C. 1823; or
+(3) The FDIC will assist the savings association under section 13 of the Federal Deposit Insurance Act, 12 U.S.C. 1823; or
 
-(4) You are in receivership and a conversion will assist you.
+(4) The savings association is in receivership and a conversion will assist the savings association.
 
-(b) You will be a viable entity following the conversion if you satisfy all of the following:
+(b) *Requirements for viability after conversion.* The savings association will be a viable entity following the conversion if it satisfies all of the following:
 
-(1) You will be adequately capitalized as a result of the conversion;
+(1) The savings association will be adequately capitalized as a result of the conversion;
 
-(2) You, your proposed conversion, and your acquiror(s) comply with applicable supervisory policies;
+(2) The savings association, its proposed conversion, and its acquiror(s) comply with applicable supervisory policies;
 
-(3) The transaction is in your best interest, and the best interest of the Deposit Insurance Fund and the public; and
+(3) The transaction is in the savings association's best interest, and the best interest of the Deposit Insurance Fund and the public; and
 
-(4) The transaction will not injure or be detrimental to you, the Deposit Insurance Fund, or the public interest.
+(4) The transaction will not injure or be detrimental to the savings association, the Deposit Insurance Fund, or the public interest.

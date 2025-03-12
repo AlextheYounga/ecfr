@@ -1,5 +1,7 @@
 ##### § 200.501 Audit requirements. #####
 
+Link to an amendment published at 85 FR 49571, Aug. 13, 2020.
+
 (a) *Audit required.* A non-Federal entity that expends $750,000 or more during the non-Federal entity's fiscal year in Federal awards must have a single or program-specific audit conducted for that year in accordance with the provisions of this part.
 
 (b) *Single audit.* A non-Federal entity that expends $750,000 or more during the non-Federal entity's fiscal year in Federal awards must have a single audit conducted in accordance with § 200.514 Scope of audit except when it elects to have a program-specific audit conducted in accordance with paragraph (c) of this section.

@@ -1,5 +1,7 @@
 ##### § 25.200 Requirements for program announcements, regulations, and application instructions. #####
 
+Link to an amendment published at 85 FR 49523, Aug. 13, 2020.
+
 (a) Each agency that awards types of Federal financial assistance included in the definition of “award” in § 25.305 must include the requirements described in paragraph (b) of this section in each program announcement, regulation, or other issuance containing instructions for applicants that either:
 
 (1) Is issued on or after the effective date of this part; or

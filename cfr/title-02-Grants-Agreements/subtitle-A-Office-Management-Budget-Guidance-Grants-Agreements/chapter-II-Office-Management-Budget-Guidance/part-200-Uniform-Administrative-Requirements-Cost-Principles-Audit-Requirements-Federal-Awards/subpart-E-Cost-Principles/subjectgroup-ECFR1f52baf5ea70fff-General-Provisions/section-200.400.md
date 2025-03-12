@@ -1,5 +1,7 @@
 ##### § 200.400 Policy guide. #####
 
+Link to an amendment published at 85 FR 49561, Aug. 13, 2020.
+
 The application of these cost principles is based on the fundamental premises that:
 
 (a) The non-Federal entity is responsible for the efficient and effective administration of the Federal award through the application of sound management practices.

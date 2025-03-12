@@ -134,7 +134,23 @@
 
 (ii) *Prior request or notice.* A bank administering a collective investment fund may admit an account to or withdraw an account from a collective investment fund only if the bank has approved a request for or a notice of intention of taking that action on or before the valuation date on which the admission or withdrawal is based. No requests or notices may be canceled or countermanded after the valuation date.
 
-(iii) *Prior notice period for withdrawals from funds with assets not readily marketable.* A bank administering a collective investment fund described in paragraph (a)(2) of this section that is invested primarily in real estate or other assets that are not readily marketable, may require a prior notice period, not to exceed one year, for withdrawals.
+(iii) *Prior notice period for withdrawals from funds with assets not readily marketable* - (A) A bank administering a collective investment fund described in paragraph (a)(2) of this section that is invested primarily in real estate or other assets that are not readily marketable may require a prior notice period, not to exceed one year, for withdrawals.
+
+(B) A bank that requires a prior notice period for withdrawals must withdraw an account from the fund within the prior notice period or, if permissible under the fund's written plan, within one year after the date on which notice was required, except as described in paragraph (b)(5)(iii)(C) of this section.
+
+(C) A bank may withdraw an account from the fund up to one year after the withdrawal period described in paragraph (b)(5)(iii)(B) of this section, with the OCC's approval, provided that the following conditions are met:
+
+(*1*) The fund's written plan, including its notice and withdrawal policy, authorizes an extended withdrawal period and is fully disclosed to fund participants;
+
+(*2*) The bank's board of directors, or a committee authorized by the board of directors, determines that, due to unanticipated and severe market conditions for specific assets held by the fund, an extended withdrawal period is necessary in order to preserve the value of the fund's assets for the benefit of fund participants;
+
+(*3*) The bank's board of directors, or a committee authorized by the board of directors, determines that the extended withdrawal period is consistent with 12 CFR part 9 and applicable law;
+
+(*4*) The bank's board of directors, or a committee authorized by the board of directors, commits that the bank will act upon any withdrawal request as soon as practicable; and
+
+(*5*) Any other condition imposed by the OCC, if the OCC determines that the condition is necessary or appropriate to protect the interests of fund participants.
+
+(D) Upon request by a bank, the OCC may approve an extension beyond the one-year extension period described in paragraph (b)(5)(iii)(C) of this section if the OCC determines that the bank has made a good faith effort to satisfy withdrawal requests and the bank has been unable to satisfy such requests without causing harm to participants due to ongoing severe market conditions. The bank must also continue to satisfy the conditions described in paragraph (b)(5)(iii)(C) of this section. Extensions under this paragraph must be requested and approved annually, for a maximum of two years after the initial one-year extension period.
 
 (iv) *Method of distributions.* A bank administering a collective investment fund shall make distributions to accounts withdrawing from the fund in cash, ratably in kind, a combination of cash and ratably in kind, or in any other manner consistent with applicable law in the state in which the bank maintains the fund.
 
@@ -206,4 +222,4 @@
 
 (iv) The manner in which the proposed fund addresses the rights and interests of participating accounts.
 
-[61 FR 68554, Dec. 30, 1996, as amended at 68 FR 70131, Dec. 17, 2003; 77 FR 61237, Oct. 9, 2012; 82 FR 8105, Jan. 23, 2017; 85 FR 16892, Mar. 25, 2020]
+[61 FR 68554, Dec. 30, 1996, as amended at 68 FR 70131, Dec. 17, 2003; 77 FR 61237, Oct. 9, 2012; 82 FR 8105, Jan. 23, 2017; 85 FR 16892, Mar. 25, 2020; 85 FR 49232, Aug. 13, 2020]

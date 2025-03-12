@@ -1,5 +1,7 @@
 ##### § 170.200 Requirements for program announcements, regulations, and application instructions. #####
 
+Link to an amendment published at 85 FR 49525, Aug. 13, 2020.
+
 (a) Each agency that makes awards of Federal financial assistance subject to the Transparency Act must include the requirements described in paragraph (b) of this section in each program announcement, regulation, or other issuance containing instructions for applicants:
 
 (1) Under which awards may be made that are subject to Transparency Act reporting requirements; and

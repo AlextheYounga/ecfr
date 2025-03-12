@@ -1,5 +1,7 @@
 ##### § 200.448 Intellectual property. #####
 
+Link to an amendment published at 85 FR 49569, Aug. 13, 2020.
+
 (a) *Patent costs.* (1) The following costs related to securing patents and copyrights are allowable:
 
 (i) Costs of preparing disclosures, reports, and other documents required by the Federal award, and of searching the art to the extent necessary to make such disclosures;

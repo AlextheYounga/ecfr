@@ -1,7 +1,7 @@
-##### § 192.305 When may I distribute the offering circular? #####
+##### § 192.305 Distribution of offering circular. #####
 
-(a) You may distribute a preliminary offering circular at the same time as or after you mail the proxy statement to your members.
+(a) *Preliminary offering circular.* A savings association may distribute a preliminary offering circular at the same time as or after it mails the proxy statement to its members.
 
-(b) You may not distribute an offering circular until the appropriate Federal banking agency declares it effective. You must distribute the offering circular in accordance with this part.
+(b) *Early distribution prohibited.* A savings association may not distribute a final offering circular for stock issued in the transaction until after the appropriate Federal banking agency declares the offering circular effective or the Securities and Exchange Commission declares the registration statement for the offering circular effective. The savings association must have the offering circular delivered in accordance with this part.
 
-(c) You must distribute your offering circular to persons listed in your plan of conversion within 10 days after the appropriate Federal banking agency declares it effective.
+(c) *Effective offering circular.* A savings association must distribute a final offering circular for stock issued in the transaction to persons listed in its plan of conversion within 10 calendar days after the appropriate Federal banking agency declares the offering circular effective or the Securities and Exchange Commission declares the registration statement for the offering circular effective.

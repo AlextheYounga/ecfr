@@ -1,5 +1,5 @@
-##### § 192.390 Must I provide a purchase preference to persons in my local community? #####
+##### § 192.390 Community offering of conversion shares. #####
 
-(a) In your subscription offering, you may give a purchase preference to eligible account holders, supplemental eligible account holders, and voting members residing in your local community.
+(a) *Purchase preference in subscription offering.* In a subscription offering, a savings association may give a purchase preference to eligible account holders, supplemental eligible account holders, and voting members residing in its local community.
 
-(b) In your community offering, you must give a purchase preference to natural persons residing in your local community.
+(b) *Purchase preference in community offering.* In a community offering, a savings association must give a purchase preference to natural persons residing in its local community.

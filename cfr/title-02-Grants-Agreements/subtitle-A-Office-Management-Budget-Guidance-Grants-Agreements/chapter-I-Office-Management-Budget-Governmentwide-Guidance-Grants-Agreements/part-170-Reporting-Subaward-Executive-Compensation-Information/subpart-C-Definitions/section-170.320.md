@@ -1,5 +1,7 @@
 ##### § 170.320 Federal financial assistance subject to the Transparency Act. #####
 
+Link to an amendment published at 85 FR 49526, Aug. 13, 2020.
+
 *Federal financial assistance subject to the Transparency Act* means assistance that non-Federal entities described in § 170.105 receive or administer in the form of -
 
 (a) Grants;

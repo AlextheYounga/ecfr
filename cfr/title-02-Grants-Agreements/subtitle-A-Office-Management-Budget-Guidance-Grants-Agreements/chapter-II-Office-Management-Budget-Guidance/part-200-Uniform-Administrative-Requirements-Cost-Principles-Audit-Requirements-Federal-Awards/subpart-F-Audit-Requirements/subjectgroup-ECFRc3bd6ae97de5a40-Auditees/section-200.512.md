@@ -1,5 +1,7 @@
 ##### § 200.512 Report submission. #####
 
+Link to an amendment published at 85 FR 49573, Aug. 13, 2020.
+
 (a) *General.* (1) The audit must be completed and the data collection form described in paragraph (b) of this section and reporting package described in paragraph (c) of this section must be submitted within the earlier of 30 calendar days after receipt of the auditor's report(s), or nine months after the end of the audit period. If the due date falls on a Saturday, Sunday, or Federal holiday, the reporting package is due the next business day.
 
 (2) Unless restricted by Federal statutes or regulations, the auditee must make copies available for public inspection. Auditees and auditors must ensure that their respective parts of the reporting package do not include protected personally identifiable information.

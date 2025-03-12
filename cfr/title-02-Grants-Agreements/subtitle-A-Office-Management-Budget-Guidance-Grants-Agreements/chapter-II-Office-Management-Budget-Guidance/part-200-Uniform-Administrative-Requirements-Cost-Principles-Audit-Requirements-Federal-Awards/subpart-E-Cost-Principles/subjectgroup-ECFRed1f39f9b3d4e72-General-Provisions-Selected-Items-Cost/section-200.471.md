@@ -1,5 +1,7 @@
 ##### § 200.471 Termination costs. #####
 
+Link to an amendment published at 85 FR 49570, Aug. 13, 2020.
+
 Termination of a Federal award generally gives rise to the incurrence of costs, or the need for special treatment of costs, which would not have arisen had the Federal award not been terminated. Cost principles covering these items are set forth in this section. They are to be used in conjunction with the other provisions of this part in termination situations.
 
 (a) The cost of items reasonably usable on the non-Federal entity's other work must not be allowable unless the non-Federal entity submits evidence that it would not retain such items at cost without sustaining a loss. In deciding whether such items are reasonably usable on other work of the non-Federal entity, the Federal awarding agency should consider the non-Federal entity's plans and orders for current and scheduled activity. Contemporaneous purchases of common items by the non-Federal entity must be regarded as evidence that such items are reasonably usable on the non-Federal entity's other work. Any acceptance of common items as allocable to the terminated portion of the Federal award must be limited to the extent that the quantities of such items on hand, in transit, and on order are in excess of the reasonable quantitative requirements of other work.

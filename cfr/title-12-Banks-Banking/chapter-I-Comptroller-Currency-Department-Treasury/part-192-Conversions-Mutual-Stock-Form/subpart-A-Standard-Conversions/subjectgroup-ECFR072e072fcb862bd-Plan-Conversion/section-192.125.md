@@ -1,3 +1,3 @@
-##### § 192.125 Must my board of directors adopt a plan of conversion? #####
+##### § 192.125 Adoption of plan of conversion by board of directors. #####
 
-Prior to filing an application for conversion, your board of directors must adopt a plan of conversion that conforms to §§ 192.320 through 192.485 and 192.505. Your board of directors must adopt the plan by at least a two-thirds vote. Your plan of conversion is required, under § 192.150, to be included in your conversion application.
+Prior to filing an application for conversion, a savings association's board of directors must adopt a plan of conversion that conforms to §§ 192.320 through 192.485 and 192.505. The savings association's board of directors must adopt the plan by at least a two-thirds vote. Pursuant to § 192.150, the savings association must include the plan of conversion in the application for conversion.

@@ -1,5 +1,7 @@
 ##### § 200.518 Major program determination. #####
 
+Link to an amendment published at 85 FR 49574, Aug. 13, 2020.
+
 (a) *General.* The auditor must use a risk-based approach to determine which Federal programs are major programs. This risk-based approach must include consideration of: current and prior audit experience, oversight by Federal agencies and pass-through entities, and the inherent risk of the Federal program. The process in paragraphs (b) through (h) of this section must be followed.
 
 (b) *Step one.* (1) The auditor must identify the larger Federal programs, which must be labeled Type A programs. Type A programs are defined as Federal programs with Federal awards expended during the audit period exceeding the levels outlined in the table in this paragraph (b)(1):

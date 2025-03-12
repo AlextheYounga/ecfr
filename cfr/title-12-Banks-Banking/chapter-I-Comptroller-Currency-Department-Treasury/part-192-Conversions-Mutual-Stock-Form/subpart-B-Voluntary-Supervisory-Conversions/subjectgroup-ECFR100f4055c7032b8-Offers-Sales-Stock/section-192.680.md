@@ -1,3 +1,5 @@
-##### § 192.680 How do I sell my shares? #####
+##### § 192.680 Offer and sale of shares in a voluntary supervisory conversion. #####
 
-If you convert under this subpart, you must offer and sell your shares under part 197 of this chapter.
+If a savings association converts under this subpart, it must offer and sell its shares in accordance with the applicable requirements of 12 CFR parts 16 and 192.
+
+Post-Conversion

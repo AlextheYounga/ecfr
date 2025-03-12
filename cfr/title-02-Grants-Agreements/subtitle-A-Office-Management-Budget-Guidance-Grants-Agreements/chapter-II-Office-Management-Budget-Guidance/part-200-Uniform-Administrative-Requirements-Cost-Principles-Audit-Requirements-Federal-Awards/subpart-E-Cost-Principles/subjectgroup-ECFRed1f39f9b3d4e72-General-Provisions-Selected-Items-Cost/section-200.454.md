@@ -1,5 +1,7 @@
 ##### § 200.454 Memberships, subscriptions, and professional activity costs. #####
 
+Link to an amendment published at 85 FR 49569, Aug. 13, 2020.
+
 (a) Costs of the non-Federal entity's membership in business, technical, and professional organizations are allowable.
 
 (b) Costs of the non-Federal entity's subscriptions to business, professional, and technical periodicals are allowable.

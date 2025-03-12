@@ -1,10 +1,8 @@
 ##### § 16.17 Filing requirements and inspection of documents. #####
 
-Link to an amendment published at 85 FR 42641, July 14, 2020.
+(a) Except as otherwise provided in this section, all registration statements, offering documents, amendments, notices, or other documents must be filed with the OCC's Law Department electronically at *http://www.banknet.gov/.* Documents may be signed electronically using the signature provision in SEC Rule 402 (17 CFR 230.402).
 
-(a) Except as otherwise provided in this section, all registration statements, offering documents, amendments, notices, or other documents must be filed with the OCC's Securities and Corporate Practices Division electronically at *http://www.banknet.gov/.* Documents may be signed electronically using the signature provision in SEC Rule 402 (17 CFR 230.402).
-
-(b) All registration statements, offering documents, amendments, notices, or other documents relating to a national bank or Federal savings association in organization must be filed with the appropriate district office of the OCC at *http://www.banknet.gov/.*
+(b) All registration statements, offering documents, amendments, notices, or other documents relating to a national bank or Federal savings association in organization must be filed with the appropriate district office of the OCC at *http://www.banknet.gov/.* All registration statements, offering documents, amendments, notices, or other documents relating to a mutual to stock conversion pursuant to 12 CFR part 192 must be filed with the appropriate OCC licensing office at *http://www.banknet.gov/.*
 
 (c) Where this part refers to a section of the Securities Act or the Exchange Act or an SEC rule that requires the filing of a notice or other document with the SEC, that notice or other document must be filed with the OCC.
 
@@ -12,10 +10,10 @@ Link to an amendment published at 85 FR 42641, July 14, 2020.
 
 (e) Notwithstanding paragraph (d) of this section, any registration statement or any post-effective amendment thereto filed pursuant to SEC Rule 462(b) (17 CFR 230.462(b)) shall be deemed received by the OCC on the same business day if its submission commenced on or before 10 p.m. Eastern Standard Time or Eastern Daylight Savings Time, whichever is currently in effect, and on the next business day if its submission commenced after 10 p.m. Eastern Standard or Daylight Savings Time, whichever is currently in effect, or any time on a Saturday, Sunday, or Federal holiday.
 
-(f) If a national bank or Federal savings association experiences unanticipated technical difficulties preventing the timely preparation and submission of an electronic filing, the bank or savings association may, upon notice to the OCC's Securities and Corporate Practices Division or district office, as appropriate, file the subject filing in paper format no later than one business day after the date on which the filing was to be made. Paper filings should be submitted to the OCC's Securities and Corporate Practices Division or appropriate district office, at the address provided at *www.occ.gov.*
+(f) If a national bank or Federal savings association experiences unanticipated technical difficulties preventing the timely preparation and submission of an electronic filing, the bank or savings association may, upon notice to the OCC's Law Department or district office, as appropriate, file the subject filing in paper format no later than one business day after the date on which the filing was to be made. Paper filings should be submitted to the OCC's Law Department or appropriate district office, at the address provided at *www.occ.gov.*
 
 (g) Any filing of amendments or revisions must include two copies, one of which must be marked to indicate clearly and precisely, by underlining or in some other appropriate manner, the changes made.
 
 (h) The OCC will make available for public inspection copies of the registration statements, offering documents, amendments, exhibits, notices or reports filed pursuant to this part at the address identified in § 4.14 of this chapter.
 
-[82 FR 8108, Jan. 23, 2017]
+[82 FR 8108, Jan. 23, 2017, as amended at 85 FR 42641, July 14, 2020]

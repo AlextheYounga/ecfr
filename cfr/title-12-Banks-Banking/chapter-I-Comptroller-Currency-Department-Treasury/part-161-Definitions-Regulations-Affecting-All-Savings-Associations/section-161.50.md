@@ -1,5 +1,5 @@
 ##### § 161.50 State. #####
 
-Link to an amendment published at 85 FR 42643, July 14, 2020.
+The term “State” means any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
 
-The term *state* means a state, the District of Columbia, Guam, Puerto Rico, and the Virgin Islands of the United States.
+[85 FR 42643, July 14, 2020]

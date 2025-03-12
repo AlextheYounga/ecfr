@@ -1,7 +1,5 @@
 ##### § 3.2 Definitions. #####
 
-Link to an amendment published at 85 FR 42640, July 14, 2020.
-
 As used in this part:
 
 *Additional tier 1 capital* is defined in § 3.20(c).
@@ -796,7 +794,7 @@ As used in this part:
 
 *Qualifying master netting agreement* means a written, legally enforceable agreement provided that:
 
-(1) The agreement creates a single legal obligation for all individual transactions covered by the agreement upon an event of default following any stay permitted by paragraph (2) of this definition, including upon an event of receivership, conservatorship, insolvency, liquidation, or similar proceeding, of the counterparty;
+(1) The agreement creates a single legal obligation for all individual transactions covered by the agreement upon an event of default following any stay permitted by paragraph (2) of this definition, including upon an event of receivership, conservatorship, insolvency, liquidation, or similar proceeding, of the counterparty; and
 
 (2) The agreement provides the national bank or Federal savings association the right to accelerate, terminate, and close-out on a net basis all transactions under the agreement and to liquidate or set-off collateral promptly upon an event of default, including upon an event of receivership, conservatorship, insolvency, liquidation, or similar proceeding, of the counterparty, provided that, in any such case:
 
@@ -1036,4 +1034,4 @@ As used in this part:
 
 *Wrong-way risk* means the risk that arises when an exposure to a particular counterparty is positively correlated with the probability of default of such counterparty itself.
 
-[78 FR 62157, 62273, Oct. 11, 2013, as amended at 79 FR 44123, July 30, 2014; 79 FR 57740, Sept. 26, 2014; 79 FR 78293, Dec. 30, 2014; 80 FR 41415, July 15, 2015; 82 FR 56661, Nov. 29, 2017; 84 FR 4237, Feb. 14, 2019; 84 FR 35248, July 22, 2019; 84 FR 59263, Nov. 1, 2019; 84 FR 61792, Nov. 13, 2019; 84 FR 68031, Dec. 13, 2019; 85 FR 4400, Jan. 24, 2020; 85 FR 4577, Jan. 27, 2020; 85 FR 20393, Apr. 13, 2020]
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 79 FR 44123, July 30, 2014; 79 FR 57740, Sept. 26, 2014; 79 FR 78293, Dec. 30, 2014; 80 FR 41415, July 15, 2015; 82 FR 56661, Nov. 29, 2017; 84 FR 4237, Feb. 14, 2019; 84 FR 35248, July 22, 2019; 84 FR 59263, Nov. 1, 2019; 84 FR 61792, Nov. 13, 2019; 84 FR 68031, Dec. 13, 2019; 85 FR 4400, Jan. 24, 2020; 85 FR 4577, Jan. 27, 2020; 85 FR 20393, Apr. 13, 2020; 85 FR 42640, July 14, 2020]

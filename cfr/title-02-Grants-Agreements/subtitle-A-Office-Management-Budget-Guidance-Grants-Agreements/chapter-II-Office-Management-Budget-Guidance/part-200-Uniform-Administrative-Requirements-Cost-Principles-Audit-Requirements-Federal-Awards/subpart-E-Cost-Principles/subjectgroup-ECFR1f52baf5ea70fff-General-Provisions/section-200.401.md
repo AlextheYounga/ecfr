@@ -1,5 +1,7 @@
 ##### § 200.401 Application. #####
 
+Link to an amendment published at 85 FR 49562, Aug. 13, 2020.
+
 (a) *General.* These principles must be used in determining the allowable costs of work performed by the non-Federal entity under Federal awards. These principles also must be used by the non-Federal entity as a guide in the pricing of fixed-price contracts and subcontracts where costs are used in determining the appropriate price. The principles do not apply to:
 
 (1) Arrangements under which Federal financing is in the form of loans, scholarships, fellowships, traineeships, or other fixed amounts based on such items as education allowance or published tuition rates and fees.

@@ -1,5 +1,7 @@
 ##### § 200.403 Factors affecting allowability of costs. #####
 
+Link to an amendment published at 85 FR 49562, Aug. 13, 2020.
+
 Except where otherwise authorized by statute, costs must meet the following general criteria in order to be allowable under Federal awards:
 
 (a) Be necessary and reasonable for the performance of the Federal award and be allocable thereto under these principles.

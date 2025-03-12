@@ -1,7 +1,5 @@
 ##### § 3.601 Purpose and scope. #####
 
-Link to an amendment published at 85 FR 42640, July 14, 2020.
-
 (a) This subpart is applicable to proceedings by the OCC to issue a directive under 12 U.S.C. 3907(b)(2) or 12 U.S.C. 1464(s), as appropriate. A directive is an order issued to a national bank or Federal savings association that does not have or maintain capital at or above the minimum ratios set forth in subpart B of this part, or established for the national bank or Federal savings association under subpart H of this part, by a written agreement under 12 U.S.C. 1818(b), or as a condition for approval of an application. A directive may order the national bank or Federal savings association to:
 
 (1) Achieve the minimum capital ratios applicable to it by a specified date;
@@ -14,4 +12,6 @@ Link to an amendment published at 85 FR 42640, July 14, 2020.
 
 (5) A combination of any of these or similar actions.
 
-(b) A directive issued under this rule, including a plan submitted under a directive, is enforceable in the same manner and to the same extent as an effective and outstanding cease and desist order which has become final as defined in 12 U.S.C. 1818(k). Violation of a directive may result in assessment of civil money penalties in accordance with 12 U.S.C. 3909(d).
+(b) A directive issued under this rule, including a plan submitted under a directive, is enforceable under the provisions of 12 U.S.C. 1818(i) in the same manner and to the same extent as an effective and outstanding cease and desist order issued pursuant to 12 U.S.C. 1818(b) that has become final. Violation of a directive may result in assessment of civil money penalties in accordance with 12 U.S.C. 3909(d).
+
+[78 FR 62269, Oct. 11, 2013, as amended at 85 FR 42640, July 14, 2020]

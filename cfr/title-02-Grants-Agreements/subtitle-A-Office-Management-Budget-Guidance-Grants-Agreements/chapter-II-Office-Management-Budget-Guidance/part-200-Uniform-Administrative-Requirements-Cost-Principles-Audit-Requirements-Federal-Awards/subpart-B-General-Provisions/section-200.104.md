@@ -1,5 +1,7 @@
 ##### § 200.104 Supersession. #####
 
+Link to an amendment published at 85 FR 49538, Aug. 13, 2020.
+
 As described in § 200.110 Effective/applicability date, this part supersedes the following OMB guidance documents and regulations under Title 2 of the Code of Federal Regulations:
 
 (a) A-21, “Cost Principles for Educational Institutions” (2 CFR part 220);

@@ -1,0 +1,13 @@
+##### § 192.460 Initial balance of liquidation sub-account. #####
+
+(a) *General rule.* (1) A savings association must calculate the initial liquidation sub-account balance of each eligible and supplemental eligible account holder at the time of the conversion.
+
+(2) The initial liquidation sub-account balance for a savings account held by an eligible account holder, for a savings account not held by the eligible account holder on the supplemental eligibility record date, is calculated by multiplying the initial liquidation account balance by the following fraction: The numerator is the qualifying deposit in the savings account on the eligibility record date and the denominator is the calculation in paragraph (a)(5) of this section.
+
+(3) The initial liquidation sub-account balance for a savings account held by a supplemental eligible account holder, for a savings account not held by the supplemental eligible account holder on the eligibility record date, is calculated by multiplying the initial liquidation account balance by the following fraction: The numerator is the qualifying deposit in the savings account on the supplemental eligibility record date and the denominator is the calculation in paragraph (a)(5) of this section.
+
+(4) For a savings account held on both the eligibility record date and the supplemental eligibility record date, the amount of the qualifying deposit for calculating the initial liquidation sub-account is the higher account balance of the savings account on either the eligibility record date or the supplemental eligibility record date. The initial liquidation sub-account balance is calculated by multiplying the liquidation account balance by the following fraction: The numerator is the higher amount of the qualifying deposit in the savings account on either the eligibility record date or the supplemental eligibility record date and the denominator is the calculation in paragraph (a)(5) of this section.
+
+(5) The denominator for calculating the initial liquidation sub-account balance of each eligible and supplemental eligible account holder is the sum of the numerator calculations in paragraphs (a)(2) through (4) of this section.
+
+(b) *Balance increases and decreases.* A savings association must not increase the initial liquidation and sub-account balances. It must decrease the initial liquidation account and the sub-account balances under § 192.470 as depositors reduce or close their savings accounts.

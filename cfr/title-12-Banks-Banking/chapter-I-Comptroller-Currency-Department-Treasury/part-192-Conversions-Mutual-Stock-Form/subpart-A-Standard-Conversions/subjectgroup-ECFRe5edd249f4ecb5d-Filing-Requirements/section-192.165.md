@@ -1,6 +1,6 @@
-##### § 192.165 How do I amend my application for conversion? #####
+##### § 192.165 Amendments to an application for conversion. #####
 
-To amend your application for conversion, you must:
+To amend its application for conversion, a savings association must:
 
 (a) File an amendment with an appropriate facing sheet;
 

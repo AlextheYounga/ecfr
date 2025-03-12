@@ -1,5 +1,7 @@
 ##### § 200.101 Applicability. #####
 
+Link to an amendment published at 85 FR 49536, Aug. 13, 2020.
+
 (a) *General applicability to Federal agencies.* The requirements established in this part apply to Federal agencies that make Federal awards to non-Federal entities. These requirements are applicable to all costs related to Federal awards.
 
 (b)(1) *Applicability to different types of Federal awards.* The following table describes what portions of this part apply to which types of Federal awards. The terms and conditions of Federal awards (including this part) flow down to subawards to subrecipients unless a particular section of this part or the terms and conditions of the Federal award specifically indicate otherwise. This means that non-Federal entities must comply with requirements in this part regardless of whether the non-Federal entity is a recipient or subrecipient of a Federal award. Pass-through entities must comply with the requirements described in Subpart D - Post Federal Award Requirements of this part, §§ 200.330 Subrecipient and contractor determinations through 200.332 Fixed amount Subawards, but not any requirements in this part directed towards Federal awarding agencies unless the requirements of this part or the terms and conditions of the Federal award indicate otherwise.

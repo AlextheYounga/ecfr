@@ -1,7 +1,5 @@
 ##### § 163.76 Offers and sales of securities at an office of a Federal savings association. #####
 
-Link to an amendment published at 85 FR 42643, July 14, 2020.
-
 (a) A Federal saving association may not offer or sell debt or equity securities issued by the association or an affiliate of the association at an office of the association; except that equity securities issued by the association or an affiliate in connection with the association's conversion from the mutual to stock form of organization in a conversion approved pursuant to part 192 of this chapter may be offered and sold at the association's offices: *Provided,* That:
 
 (1) The OCC does not object on supervisory grounds to the offer and sale of the securities at the offices of the association;
@@ -20,7 +18,7 @@ Link to an amendment published at 85 FR 42643, July 14, 2020.
 
 (8) The savings association will be in compliance with its current capital requirements upon completion of the conversion stock offering.
 
-(b) Securities sales practices, advertisements, and other sales literature used in connection with offers and sales of securities by Federal savings associations shall be subject to § 197.10 of this chapter.
+(b) Securities sales practices, advertisements, and other sales literature used in connection with offers and sales of securities by Federal savings associations shall be subject to § 16.32 of this chapter.
 
 (c) Offers and sales of securities of a savings association or its affiliates in any office of the savings association must use a one-page, unambiguous, certification in substantially the following form:
 
@@ -28,7 +26,7 @@ FORM OF CERTIFICATION
 
 I ACKNOWLEDGE THAT THIS SECURITY IS NOT A DEPOSIT OR ACCOUNT AND IS NOT FEDERALLY INSURED, AND IS NOT GUARANTEED BY [*insert name of savings association*] OR BY THE FEDERAL GOVERNMENT.
 
-If anyone asserts that this security is Federally insured or guaranteed, or is as safe as an insured deposit, I should call the Office of the Comptroller of the Currency].
+If anyone asserts that this security is Federally insured or guaranteed, or is as safe as an insured deposit, I should call the Office of the Comptroller of the Currency.
 
 I further certify that, before purchasing the [*description of security being offered*] of [*name of issuer, name of savings association and affiliation to issuer (if different)*], I received an offering circular.
 
@@ -39,3 +37,5 @@ The offering circular that I received contains disclosure concerning the nature 
 Signature:Date:
 
 (d) For purposes of this section, an “office” of an association means any premises used by the association that are identified to the public through advertising or signage using the association's name, trade name, or logo.
+
+[76 FR 49047, Aug. 9, 2011, as amended at 85 FR 42643, July 14, 2020]

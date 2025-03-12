@@ -1,5 +1,7 @@
 ##### § 200.464 Relocation costs of employees. #####
 
+Link to an amendment published at 85 FR 49570, Aug. 13, 2020.
+
 (a) Relocation costs are costs incident to the permanent change of duty assignment (for an indefinite period or for a stated period of not less than 12 months) of an existing employee or upon recruitment of a new employee. Relocation costs are allowable, subject to the limitations described in paragraphs (b), (c), and (d) of this section, provided that:
 
 (1) The move is for the benefit of the employer.

@@ -1,5 +1,7 @@
 ##### § 200.421 Advertising and public relations. #####
 
+Link to an amendment published at 85 FR 49564, Aug. 13, 2020.
+
 (a) The term advertising costs means the costs of advertising media and corollary administrative costs. Advertising media include magazines, newspapers, radio and television, direct mail, exhibits, electronic or computer transmittals, and the like.
 
 (b) The only allowable advertising costs are those which are solely for:

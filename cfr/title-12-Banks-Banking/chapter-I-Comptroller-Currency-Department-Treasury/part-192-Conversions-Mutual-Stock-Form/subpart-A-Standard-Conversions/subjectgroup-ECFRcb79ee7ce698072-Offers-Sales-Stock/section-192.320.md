@@ -1,6 +1,6 @@
-##### § 192.320 Who has priority to purchase my conversion shares? #####
+##### § 192.320 Order of priority to purchase conversion shares. #####
 
-You must offer to sell your shares in the following order:
+A savings association must offer to sell its shares in the following order:
 
 (a) Eligible account holders.
 
@@ -10,4 +10,4 @@ You must offer to sell your shares in the following order:
 
 (d) Other voting members who have subscription rights.
 
-(e) Your community, your community and the general public, or the general public.
+(e) The savings association's community, its community and the general public, or the general public.

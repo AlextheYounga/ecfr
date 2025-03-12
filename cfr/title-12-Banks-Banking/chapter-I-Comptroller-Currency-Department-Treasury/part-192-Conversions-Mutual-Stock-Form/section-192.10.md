@@ -1,3 +1,3 @@
-##### § 192.10 May I form a holding company as part of my conversion. #####
+##### § 192.10 Forming a holding company upon conversion. #####
 
-You may convert to the stock form of ownership as part of a transaction where you organize a holding company to acquire all of your shares upon their issuance. In such a transaction, your holding company will offer rights to purchase its shares instead of your shares. Regulations of the Board of Governors of the Federal Reserve System address holding company application requirements.
+A savings association may convert to the stock form of ownership as part of a transaction where the savings association organizes a holding company to acquire all of the savings association's shares upon their issuance. In this transaction, the savings association's holding company will offer rights to purchase its shares instead of the savings association's shares. Regulations of the Board of Governors of the Federal Reserve System address holding company application requirements.

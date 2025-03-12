@@ -1,7 +1,5 @@
 ##### § 4.14 Public inspection in an electronic format. #####
 
-Link to an amendment published at 85 FR 42640, July 14, 2020.
-
 (a) *Available information.* Subject to the exemptions listed in § 4.12(b), the OCC makes the following information available for public inspection in an electronic format:
 
 (1) Any final order, agreement, or other enforceable document issued in the adjudication of an OCC enforcement case, including a final order published pursuant to 12 U.S.C. 1818(u);
@@ -22,7 +20,7 @@ Link to an amendment published at 85 FR 42640, July 14, 2020.
 
 (8) Any public Community Reinvestment Act performance evaluation;
 
-(9) Any public securities-related filing required under parts 11, 16, 194 or 197 of this chapter;
+(9) Any public securities-related filing required under part 11 or 16 of this chapter;
 
 (10) Any public comment letter regarding a proposed rule;
 
@@ -42,4 +40,4 @@ Link to an amendment published at 85 FR 42640, July 14, 2020.
 
 (c) *Addresses.* The information described in paragraphs (a)(1) through (14) of this section is available from the Chief FOIA Officer, Communications Division, Office of the Comptroller of the Currency, 400 7th Street SW., Washington, DC 20219. The information described in paragraph (a)(13) of this section in the case of both national banks and Federal savings associations is available from the Licensing Manager at the appropriate district office at the address listed in § 4.5(a), or in the case of national banks and Federal savings associations supervised by the Large Bank Supervision Department, from the Large Bank Licensing Expert, Licensing Division, Office of the Comptroller of the Currency, 400 7th Street SW., Washington, DC 20219.
 
-[60 FR 57322, Nov. 15, 1995, as amended at 76 FR 43561, July 21, 2011; 79 FR 15641, Mar. 21, 2014; 81 FR 94244, Dec. 23, 2016]
+[60 FR 57322, Nov. 15, 1995, as amended at 76 FR 43561, July 21, 2011; 79 FR 15641, Mar. 21, 2014; 81 FR 94244, Dec. 23, 2016; 85 FR 42640, July 14, 2020]
