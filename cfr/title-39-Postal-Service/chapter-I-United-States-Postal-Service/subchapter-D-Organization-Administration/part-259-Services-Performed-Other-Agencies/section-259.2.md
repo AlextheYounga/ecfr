@@ -18,4 +18,4 @@
 
 (7) The instructions in § 259.2 serve as a broad framework within which field officials of both agencies may coordinate their facilities and resources. However, postal officials shall cooperate with Red Cross officials to the maximum feasible degree during times of natural disasters.
 
-(39 U.S.C. 401, 411)[36 FR 4773, Mar. 12, 1971, as amended at 40 FR 26511, June 24, 1975]
+(39 U.S.C. 401, 411)[36 FR 4773, Mar. 12, 1971, as amended at 40 FR 26511, June 24, 1975]Records and Information

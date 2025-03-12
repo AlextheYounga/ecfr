@@ -7,7 +7,7 @@ the Secretary of the Treasury pursuant to this part or otherwise under IEEPA.
 
 (1) A civil penalty not to exceed the amount set forth in section 206 of IEEPA may be imposed on any person who violates, attempts to violate, conspires to violate, or causes a violation of any license, order, regulation, or prohibition issued under IEEPA.
 
-(2) IEEPA provides for a maximum civil penalty not to exceed the greater of $307,922 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
+(2) IEEPA provides for a maximum civil penalty not to exceed the greater of $311,562 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
 
 (3) A person who willfully commits, willfully attempts to commit, willfully conspires to commit, or aids or abets in the commission of a violation of any license, order, regulation, or prohibition may, upon conviction, be fined not more than $1,000,000, or if a natural person, be imprisoned for not more than 20 years, or both.
 
@@ -23,4 +23,4 @@ the Secretary of the Treasury pursuant to this part or otherwise under IEEPA.
 
 (f) Violations of this part may also be subject to other applicable laws.
 
-[74 FR 25441, May 28, 2009, as amended at 84 FR 27717, June 14, 2019; 85 FR 19887, Apr. 9, 2020]
+[74 FR 25441, May 28, 2009, as amended at 84 FR 27717, June 14, 2019; 85 FR 19887, Apr. 9, 2020; 86 FR 14537, Mar. 17, 2021]

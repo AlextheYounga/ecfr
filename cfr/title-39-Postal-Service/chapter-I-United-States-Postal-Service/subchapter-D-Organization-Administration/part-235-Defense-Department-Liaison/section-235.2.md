@@ -28,4 +28,4 @@
 
 (5) Authorize and encourage their employees to participate voluntarily in nonpostal pre-emergency training programs and exercises in cooperation with States and localities.
 
-(39 U.S.C. 401(2), 402, 403, 404, as enacted by Pub. L. 91-375, 84 Stat. 719)[38 FR 26193, Sept. 9, 1973]
+(39 U.S.C. 401(2), 402, 403, 404, as enacted by Pub. L. 91-375, 84 Stat. 719)[38 FR 26193, Sept. 9, 1973]Post Office Organization and Administration

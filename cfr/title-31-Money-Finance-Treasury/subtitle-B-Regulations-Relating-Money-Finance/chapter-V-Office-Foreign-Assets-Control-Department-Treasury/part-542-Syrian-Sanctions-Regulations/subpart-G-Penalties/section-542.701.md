@@ -4,7 +4,7 @@
 
 (1) A civil penalty not to exceed the amount set forth in section 206 of IEEPA may be imposed on any person who violates, attempts to violate, conspires to violate, or causes a violation of any license, order, regulation, or prohibition issued under IEEPA.
 
-(2) The applicable maximum civil penalty per violation of IEEPA is the greater of $307,922 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
+(2) The applicable maximum civil penalty per violation of IEEPA is the greater of $311,562 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
 
 (3) A person who willfully commits, willfully attempts to commit, or willfully conspires to commit, or aids or abets in the commission of a violation of any license, order, regulation, or prohibition may, upon conviction, be fined not more than $1,000,000, or if a natural person, be imprisoned for not more than 20 years, or both.
 

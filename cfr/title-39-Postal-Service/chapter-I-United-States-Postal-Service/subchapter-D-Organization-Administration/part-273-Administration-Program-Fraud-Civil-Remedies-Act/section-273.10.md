@@ -11,3 +11,5 @@
 (3) A summary of all hearings conducted by a Presiding Officer under part 962 of this title, and the results of such hearings; and
 
 (4) A summary of the actions taken during the reporting period to collect any civil penalty or assessment imposed under the Program Fraud Civil Remedies Act.
+
+Damage to or Destruction of Firm Mailings
