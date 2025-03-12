@@ -1,5 +1,5 @@
-##### 816.505 Ordering #####
+##### 816.505 Ordering. #####
 
-Link to an amendment published at 83 FR 7404, Feb. 21, 2018.
+(b)(8) Task-order and delivery-order ombudsman. The task-order contract and delivery-order ombudsman for VA is the Associate Deputy Assistant Secretary (ADAS) for Procurement Policy, Systems and Oversight. The VA Ombudsman shall review and resolve complaints from contractors concerning all task and delivery order actions. If any corrective action is needed after reviewing complaints from contractors, the VA Ombudsman shall provide a written determination of such action to the contracting officer. Contracting officers shall be notified of any complaints submitted to the VA Ombudsman.
 
-The task order contract and delivery order ombudsman for VA is the Associate Deputy Assistant Secretary for Acquisitions (see FAR 16.505(b)(5)). Contracting officers may obtain the name, telephone number, facsimile number, and e-mail address of the current Associate Deputy Assistant Secretary for Acquisitions by contacting: The Office of Acquisitions (049A), VA Central Office, 810 Vermont Ave., NW., Washington, DC 20420.
+[83 FR 7404, Feb. 21, 2018]

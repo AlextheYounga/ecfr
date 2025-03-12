@@ -1,0 +1,3 @@
+##### 816.770 Consignment agreements. #####
+
+Consignment agreements shall only be established under a contract and by a contracting officer. A consignment agreement is defined as a delivery method for a specified period of time in which the contractor provides an item/s for Government use and the contractor receives reimbursement only if and when the item is used by the Government. Consignment agreements are allowable and shall be considered in those instances when the requirement for an item is immediate and on-going and when it is impossible to predetermine the type or model of a particular item until the need is established, and it is determined to be in the best interest of the VA.

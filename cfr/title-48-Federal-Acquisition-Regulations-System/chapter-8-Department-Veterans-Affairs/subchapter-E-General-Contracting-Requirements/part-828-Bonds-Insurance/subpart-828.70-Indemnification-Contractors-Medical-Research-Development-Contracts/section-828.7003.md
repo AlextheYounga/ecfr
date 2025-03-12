@@ -1,0 +1,3 @@
+##### 828.7003 Indemnification clause. #####
+
+The contracting officer shall include the clause, 852.228-72, “Indemnification of Contractor—Hazardous Research Projects” in contracts and solicitations that indemnify a contractor for liability (including reasonable expenses of litigation or settlement) to third person for death, bodily injury, or loss of or damage to property from a risk that the contract defines in the performance work statement, the statement of work, or the statement of objectives as unusually hazardous.

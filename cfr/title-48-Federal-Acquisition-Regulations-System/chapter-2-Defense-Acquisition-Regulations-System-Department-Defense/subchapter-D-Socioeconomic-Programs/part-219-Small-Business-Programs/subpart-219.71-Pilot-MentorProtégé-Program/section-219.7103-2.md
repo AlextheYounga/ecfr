@@ -20,7 +20,7 @@ Contracting officers must -
 
 (2) The contractor has an approved mentor-protégé agreement; and
 
-(3) The cognizant Component Director, SBP, has made a determination in accordance with 219.7102(d)(1)(ii).
+(3) The cognizant Component Director, SBP, has made a determination in accordance with 219.7102(c)(1)(ii).
 
 (f) Not authorize reimbursement for costs of assistance furnished to a protégé firm in excess of $1,000,000 in a fiscal year unless a written determination from the cognizant Component Director, SBP, is obtained.
 
@@ -28,4 +28,4 @@ Contracting officers must -
 
 (h) Provide a copy of the approved Mentor-Protégé agreement to the Defense Contract Management Agency administrative contracting officer responsible for conducting the annual performance review (see appendix I, section I-113).
 
-[65 FR 6555, Feb. 10, 2000; 65 FR 30191, May 10, 2000, as amended at 65 FR 50150, Aug. 17, 2000; 66 FR 47109, Sept. 11, 2001; 69 FR 74995, Dec. 15, 2004; 73 FR 46814, Aug. 12, 2008]
+[65 FR 6555, Feb. 10, 2000; 65 FR 30191, May 10, 2000, as amended at 65 FR 50150, Aug. 17, 2000; 66 FR 47109, Sept. 11, 2001; 69 FR 74995, Dec. 15, 2004; 73 FR 46814, Aug. 12, 2008; 83 FR 12683, Mar. 23, 2018]

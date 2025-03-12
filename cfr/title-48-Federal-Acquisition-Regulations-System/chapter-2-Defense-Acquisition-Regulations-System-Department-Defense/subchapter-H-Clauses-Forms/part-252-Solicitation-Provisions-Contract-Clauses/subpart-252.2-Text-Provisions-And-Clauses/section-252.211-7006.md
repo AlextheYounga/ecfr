@@ -1,8 +1,8 @@
 ##### 252.211-7006 Passive Radio Frequency Identification. #####
 
-As prescribed in *211.275-3*, use the following clause:
+As prescribed in 211.275-3, use the following clause:
 
-Passive Radio Frequency Identification (DEC 2017)
+Passive Radio Frequency Identification (MAR 2018)
 
 (a) *Definitions.* As used in this clause -
 
@@ -56,7 +56,7 @@ Passive Radio Frequency Identification (DEC 2017)
 
 (G) Class IX - Repair parts and components including kits, assemblies and subassemblies, reparable and consumable items required for maintenance support of all equipment, excluding medical-peculiar repair parts; and
 
-(ii) Are being shipped to one of the locations listed at *http://www.acq.osd.mil/log/sci/RFID\_ship-to-locations.html* or to -
+(ii) Are being shipped to one of the locations listed at *https://www.acq.osd.mil/log/sci/RFID\_ship-to-locations.html* or to -
 
 (A) A location outside the contiguous United States when the shipment has been assigned Transportation Priority 1, or to -
 
@@ -91,4 +91,4 @@ Passive Radio Frequency Identification (DEC 2017)
 
 (e) *Advance shipment notice.* The Contractor shall use Wide Area WorkFlow (WAWF), as required by DFARS 252.232-7003, Electronic Submission of Payment Requests, to electronically submit advance shipment notice(s) with the RFID tag ID(s) (specified in paragraph (d) of this clause) in advance of the shipment in accordance with the procedures at *https://wawf.eb.mil/.*
 
-(End of clause)[70 FR 53968, Sept. 13, 2005, as amended at 71 FR 29086, May 19, 2006; 72 FR 6483, Feb. 12, 2007; 81 FR 36474, June 7, 2016; 82 FR 61481, Dec. 28, 2017]
+(End of clause)[70 FR 53968, Sept. 13, 2005, as amended at 71 FR 29086, May 19, 2006; 72 FR 6483, Feb. 12, 2007; 81 FR 36474, June 7, 2016; 82 FR 61481, Dec. 28, 2017; 83 FR 12681, Mar. 23, 2018]

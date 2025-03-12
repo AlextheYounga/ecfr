@@ -18,7 +18,7 @@
 
 (vii) Class IX - Repair parts and components including kits, assemblies and subassemblies, reparable and consumable items required for maintenance support of all equipment, excluding medical-peculiar repair parts; and
 
-(2) Will be shipped to one of the locations listed at *http://www.acq.osd.mil/log/sci/RFID\_ship-to-locations.html”* or to -
+(2) Will be shipped to one of the locations listed at *https://www.acq.osd.mil/log/sci/RFID\_ship-to-locations.html* or to -
 
 (i) A location outside the contiguous United States when the shipment has been assigned Transportation Priority 1; or
 
@@ -30,4 +30,4 @@
 
 (2) Shipments to locations other than Defense Distribution Depots when the contract includes the clause at FAR 52.213-1, Fast Payment Procedures.
 
-[72 FR 6483, Feb. 12, 2007, as amended at 76 FR 58143, Sept. 20, 2011; 81 FR 36473, June 7, 2016; 82 FR 61480, Dec. 28, 2017]
+[72 FR 6483, Feb. 12, 2007, as amended at 76 FR 58143, Sept. 20, 2011; 81 FR 36473, June 7, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 12681, Mar. 23, 2018]

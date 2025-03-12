@@ -1,5 +1,5 @@
 ##### 828.106-70 Bond premium adjustment. #####
 
-Link to an amendment published at 83 FR 7404, Feb. 21, 2018.
+The contracting officer shall insert the clause at 852.228-70, Bond Premium Adjustment, in solicitations and contracts when performance and payment bonds or payment protection is required.
 
-When performance and payment bonds or payment protection are required, the contract must contain the clause in 852.228-70, Bond premium adjustment.
+[83 FR 7404, Feb. 21, 2018]
