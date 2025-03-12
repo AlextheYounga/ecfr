@@ -44,7 +44,9 @@ As used in this section, the term:
 
 (3) Permanent closures shall be published by rulemaking in the Federal Register with a minimum public comment period of 60 days and shall not be effective until after a public hearing(s) is held in the affected vicinity and other locations as deemed appropriate by the appropriate Federal agency.
 
-(4) Temporary and permanent closures shall be: (i) Published at least once in a newspaper of general circulation in Alaska and in a local newspaper, if available; posted at community post offices within the vicinity affected; made available for broadcast on local radio stations in a manner reasonably calculated to inform residents in the affected vicinity; and designated on a map which shall be available for public inspection at the office of the appropriate Federal agency and other places convenient to the public; or
+(4) Temporary and permanent closures shall be:
+
+(i) Published at least once in a newspaper of general circulation in Alaska and in a local newspaper, if available; posted at community post offices within the vicinity affected; made available for broadcast on local radio stations in a manner reasonably calculated to inform residents in the affected vicinity; and designated on a map which shall be available for public inspection at the office of the appropriate Federal agency and other places convenient to the public; or
 
 (ii) Designated by posting the area with appropriate signs; or
 

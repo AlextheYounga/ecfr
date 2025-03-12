@@ -1,6 +1,6 @@
 ##### § 210.10 Statements required for limitation on liability for digital music providers for the transition period prior to the license availability date. #####
 
-Link to an amendment published at 86 FR 2203, Jan. 11, 2021.
+Link to an amendment published at 86 FR 2203, Jan. 11, 2021.Link to a correction of the above amendment published at 86 FR 7653, Feb. 1, 2021.
 
 This section specifies the requirements for a digital music provider to report and pay royalties for purposes of being eligible for the limitation on liability described in 17 U.S.C. 115(d)(10). Terms used in this section that are defined in 17 U.S.C. 115(e) shall have the meaning given those terms in 17 U.S.C. 115(e).
 

@@ -1,7 +1,5 @@
 ##### § 1308.11 Schedule I. #####
 
-Link to an amendment published at 85 FR 5322, Jan. 30, 2020.
-
 (a) Schedule I shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the DEA Controlled Substances Code Number set forth opposite it.
 
 (b) *Opiates.* Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters and ethers, whenever the existence of such isomers, esters, ethers and salts is possible within the specific chemical designation (for purposes of 3-methylthiofentanyl only, the term isomer includes the optical and geometric isomers):
@@ -302,8 +300,6 @@ Link to an amendment published at 85 FR 5322, Jan. 30, 2020.
 
 4. At 84 FR 34297, July 17, 2019, § 1308.11 was amended by adding paragraphs (h)(42) through (h)(47) effective July 18, 2019, through July 18, 2021.
 
-5. At 85 FR 5322, Jan. 30, 2020, § 1308.11 was amended by extending the order at 83 FR 4580, Feb. 1, 2018, is effective Feb. 1, 2020, and expires Feb. 1. 2021.
+5.At 83 FR 5191, Feb. 6, 2018, § 1308.11 was amended by adding paragraph (h)(30), effective Feb. 6, 2018, through Feb. 6, 2020. Effective Feb. 6, 2020, Congress extended the effective period for paragraph (h)(30) until May 6, 2021, by Public Law 116-114.
 
-6.At 83 FR 5191, Feb. 6, 2018, § 1308.11 was amended by adding paragraph (h)(30), effective Feb. 6, 2018, through Feb. 6, 2020. Effective Feb. 6, 2020, Congress extended the effective period for paragraph (h)(30) until May 6, 2021, by Public Law 116-114.
-
-7. At 85 51346, Aug. 20, 2020, § 1308.11 was amended by adding paragraph (h)(48), effective Aug. 20, 2020, through Aug. 20, 2022.
+6. At 85 51346, Aug. 20, 2020, § 1308.11 was amended by adding paragraph (h)(48), effective Aug. 20, 2020, through Aug. 20, 2022.

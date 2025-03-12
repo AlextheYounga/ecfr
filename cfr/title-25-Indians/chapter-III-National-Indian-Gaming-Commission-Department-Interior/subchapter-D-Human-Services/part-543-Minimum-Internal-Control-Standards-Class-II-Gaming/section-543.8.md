@@ -8,21 +8,15 @@
 
 (ii) Bingo cards have not been marked, altered, or otherwise manipulated.
 
-(2) *Receipt from supplier.*
-
-(i) When bingo card inventory is initially received from the supplier, it must be inspected (without breaking the factory seals, if any), counted, inventoried, and secured by an authorized agent.
+(2) *Receipt from supplier.* (i) When bingo card inventory is initially received from the supplier, it must be inspected (without breaking the factory seals, if any), counted, inventoried, and secured by an authorized agent.
 
 (ii) Bingo card inventory records must include the date received, quantities received, and the name of the individual conducting the inspection.
 
-(3) *Storage.*
-
-(i) Bingo cards must be maintained in a secure location, accessible only to authorized agents, and with surveillance coverage adequate to identify persons accessing the storage area.
+(3) *Storage.* (i) Bingo cards must be maintained in a secure location, accessible only to authorized agents, and with surveillance coverage adequate to identify persons accessing the storage area.
 
 (ii) For Tier A operations, bingo card inventory may be stored in a cabinet, closet, or other similar area; however, such area must be secured and separate from the working inventory.
 
-(4) *Issuance and returns of inventory.*
-
-(i) Controls must be established for the issuance and return of bingo card inventory. Records signed by the issuer and recipient must be created under the following events:
+(4) *Issuance and returns of inventory.* (i) Controls must be established for the issuance and return of bingo card inventory. Records signed by the issuer and recipient must be created under the following events:
 
 (A) Issuance of inventory from storage to a staging area;
 
@@ -34,15 +28,11 @@
 
 (ii) [Reserved]
 
-(5) *Cancellation and removal.*
-
-(i) Bingo cards removed from inventory that are deemed out of sequence, flawed, or misprinted and not returned to the supplier must be cancelled to ensure that they are not utilized in the play of a bingo game. Bingo cards that are removed from inventory and returned to the supplier or cancelled must be logged as removed from inventory.
+(5) *Cancellation and removal.* (i) Bingo cards removed from inventory that are deemed out of sequence, flawed, or misprinted and not returned to the supplier must be cancelled to ensure that they are not utilized in the play of a bingo game. Bingo cards that are removed from inventory and returned to the supplier or cancelled must be logged as removed from inventory.
 
 (ii) Bingo cards associated with an investigation must be retained intact outside of the established removal and cancellation policy.
 
-(6) *Logs.*
-
-(i) The inventory of bingo cards must be tracked and logged from receipt until use or permanent removal from inventory.
+(6) *Logs.* (i) The inventory of bingo cards must be tracked and logged from receipt until use or permanent removal from inventory.
 
 (ii) The bingo card inventory record(s) must include:
 
@@ -126,9 +116,7 @@
 
 (iii) Documentation procedures ensuring separate control of the cash accountability functions.
 
-(2) *Verification of validity.*
-
-(i) Controls must be established and procedures implemented to verify that the following is valid for the game in play prior to payment of a winning prize:
+(2) *Verification of validity.* (i) Controls must be established and procedures implemented to verify that the following is valid for the game in play prior to payment of a winning prize:
 
 (A) Winning card(s);
 
@@ -140,21 +128,15 @@
 
 (iii) Where an automated verification method is available, verification by such method is acceptable.
 
-(3) *Validation.*
-
-(i) For manual payouts, at least two agents must determine the validity of the claim prior to the payment of a prize. The system may serve as one of the validators.
+(3) *Validation.* (i) For manual payouts, at least two agents must determine the validity of the claim prior to the payment of a prize. The system may serve as one of the validators.
 
 (ii) For automated payouts, the system may serve as the sole validator of the claim.
 
-(4) *Verification.*
-
-(i) For manual payouts, at least two agents must verify that the winning pattern has been achieved on the winning card prior to the payment of a prize. The system may serve as one of the verifiers.
+(4) *Verification.* (i) For manual payouts, at least two agents must verify that the winning pattern has been achieved on the winning card prior to the payment of a prize. The system may serve as one of the verifiers.
 
 (ii) For automated payouts, the system may serve as the sole verifier that the pattern has been achieved on the winning card.
 
-(5) *Authorization and signatures.*
-
-(i) At least two agents must authorize, sign, and witness all manual prize payouts above $1,200, or a lower threshold as authorized by management and approved by the TGRA.
+(5) *Authorization and signatures.* (i) At least two agents must authorize, sign, and witness all manual prize payouts above $1,200, or a lower threshold as authorized by management and approved by the TGRA.
 
 (ii) Manual prize payouts above the following threshold (or a lower threshold, as authorized by management and approved by TGRA) must require one of the two signatures and verifications to be a supervisory or management employee independent of the operation of Class II Gaming System bingo:
 
@@ -234,15 +216,11 @@
 
 (iv) The TGRA, or its designee, must receive all Class II gaming system components and game play software packages, and verify the contents against the shipping notification.
 
-(2) *Access credential control methods.*
-
-(i) Controls must be established to restrict access to the Class II gaming system components, as set forth in § 543.20, Information and Technology.
+(2) *Access credential control methods.* (i) Controls must be established to restrict access to the Class II gaming system components, as set forth in § 543.20, Information and Technology.
 
 (ii) [Reserved]
 
-(3) *Recordkeeping and audit processes.*
-
-(i) The gaming operation must maintain the following records, as applicable, related to installed game servers and player interfaces:
+(3) *Recordkeeping and audit processes.* (i) The gaming operation must maintain the following records, as applicable, related to installed game servers and player interfaces:
 
 (A) Date placed into service;
 
@@ -264,9 +242,7 @@
 
 (ii) Procedures must be implemented for auditing such records in accordance with § 543.23, Audit and Accounting.
 
-(4) *System software signature verification.*
-
-(i) Procedures must be implemented for system software verifications. These procedures must include comparing signatures generated by the verification programs required by 25 CFR 547.8, to the signatures provided in the independent test laboratory letter for that software version.
+(4) *System software signature verification.* (i) Procedures must be implemented for system software verifications. These procedures must include comparing signatures generated by the verification programs required by 25 CFR 547.8, to the signatures provided in the independent test laboratory letter for that software version.
 
 (ii) An agent independent of the bingo operation must perform system software signature verification(s) to verify that only approved software is installed.
 
@@ -274,9 +250,7 @@
 
 (iv) Internal audits must be conducted as set forth in § 543.23, Audit and Accounting. Such audits must be documented.
 
-(5) *Installation testing.*
-
-(i) Testing must be completed during the installation process to verify that the player interface has been properly installed. This must include testing of the following, as applicable:
+(5) *Installation testing.* (i) Testing must be completed during the installation process to verify that the player interface has been properly installed. This must include testing of the following, as applicable:
 
 (A) Communication with the Class II gaming system;
 
@@ -310,7 +284,7 @@
 
 (9) Dispute resolution.
 
-(h) *Operations.* (1) *Malfunctions.* Procedures must be implemented to investigate, document and resolve malfunctions. Such procedures must address the following:
+(h) *Operations*—(1) *Malfunctions.* Procedures must be implemented to investigate, document and resolve malfunctions. Such procedures must address the following:
 
 (i) Determination of the event causing the malfunction;
 
@@ -382,6 +356,6 @@
 
 (j) All relevant controls from § 543.20, Information and Technology will apply.
 
-(k) Revenue Audit. Standards for revenue audit of bingo are contained in § 543.24, Revenue Audit.
+(k) *Revenue Audit.* Standards for revenue audit of bingo are contained in § 543.24, Revenue Audit.
 
 (l) *Variance.* The operation must establish, as approved by the TGRA, the threshold level at which a variance, including deviations from the mathematical expectations required by 25 CFR 547.4, will be reviewed to determine the cause. Any such review must be documented.
