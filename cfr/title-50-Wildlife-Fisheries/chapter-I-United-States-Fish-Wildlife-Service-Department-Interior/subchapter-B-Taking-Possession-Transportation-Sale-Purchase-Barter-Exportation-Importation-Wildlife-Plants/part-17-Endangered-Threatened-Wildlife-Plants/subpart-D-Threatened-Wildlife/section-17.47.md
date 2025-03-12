@@ -1,7 +1,5 @@
 ##### § 17.47 Special rules - insects. #####
 
-Link to an amendment published at 86 FR 72427, Dec. 21, 2021.
-
 (a) Cassius blue butterfly (*Leptotes cassius theonus*), Ceraunus blue butterfly (*Hemiargus ceraunus antibubastus*), and Nickerbean blue butterfly (*Cyclargus ammon*).
 
 (1) The provisions of § 17.31(c) apply to these species (cassius blue butterfly, ceraunus blue butterfly, nickerbean blue butterfly), regardless of whether in the wild or in captivity, and also apply to the progeny of any such butterfly.
@@ -96,4 +94,60 @@ Link to an amendment published at 86 FR 72427, Dec. 21, 2021.
 
 (4) *Map of American Burying Beetle Analysis Areas.*
 
-![](/graphics/er15oc20.001.gif)[77 FR 20986, Apr. 6, 2012, as amended at 79 FR 67348, Oct. 24, 2014; 84 FR 64227, Nov. 21, 2019; 85 FR 65260, Oct. 15, 2020]
+![](/graphics/er15oc20.001.gif)
+
+(e) Hermes copper butterfly (*Lycaena hermes*). - (1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to Hermes copper butterfly. Except as provided under paragraph (e)(2) of this section and §§17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of a commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(2) *Exceptions from prohibitions.* In regard to this species, you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Take, as set forth at § 17.21(c)(2) through (c)(4) for endangered wildlife.
+
+(iii) Take as set forth at § 17.31(b).
+
+(iv) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
+
+(v) Conduct the activities listed in paragraph (e)(2)(vi) of this section, including take, outside the area delineated in paragraph (e)(2)(vii) of this section if the activities are conducted in a manner that:
+
+(A) Maintains contiguity of suitable habitat for the species within and dispersal corridor connectivity among populations, allowing for maintenance of populations and recolonization of unoccupied, existing habitat;
+
+(B) Does not increase the risk of wildfire in areas occupied by the Hermes copper butterfly while preventing further habitat fragmentation and isolation, or degradation of potentially suitable habitat; and
+
+(C) Does not preclude efforts to augment or reintroduce populations of the Hermes copper butterfly within its historical range with management of the host plant, spiny redberry *(Rhamnus crocea)*.
+
+(vi) Take the Hermes copper butterfly outside the area delineated in paragraph (e)(2)(vii) of this section if the take results from any of the following activities when conducted within habitats occupied by the Hermes copper butterfly:
+
+(A) Survey and monitoring work in coordination with and reported to the Service as part of scientific inquiry involving quantitative data collection (such as population status determinations).
+
+(B) Habitat management or restoration activities, including removal of nonnative, invasive plants, expected to provide a benefit to Hermes copper butterfly or other sensitive species of the chaparral and coastal sage scrub ecosystems, including removal of nonnative, invasive plants. These activities must be coordinated with and reported to the Service in writing and approved the first time an individual or agency undertakes them.
+
+(C) Activities necessary to maintain the minimum clearance (defensible space) requirement from any occupied dwelling, occupied structure, or to the property line, whichever is nearer, to provide reasonable fire safety and to reduce wildfire risks consistent with the State of California fire codes or local fire codes or ordinances.
+
+(D) Fire management actions on protected/preserve lands to maintain, protect, or enhance coastal sage scrub and chaparral vegetation. These activities must be coordinated with and reported to the Service in writing and approved the first time an individual or agency undertakes them.
+
+(E) Maintenance of existing fuel breaks identified by local fire authorities to protect existing structures.
+
+(F) Firefighting activities associated with actively burning fires to reduce risk to life or property.
+
+(G) Collection, transportation, and captive-rearing of Hermes copper butterfly for the purpose of population augmentation or reintroduction, maintaining refugia, or as part of scientific inquiry involving quantitative data collection (such as survival rate, larval weights, and post-release monitoring) in coordination with and reported to the Service. This does not include activities such as personal “hobby” collecting and rearing intended for photographic purposes and re-release.
+
+(H) Research projects involving collection of individual fruits, leaves, or stems of the Hermes copper butterfly host plant, spiny redberry, in coordination with and reported to the Service.
+
+(vii) Take the Hermes copper butterfly within the portion of the range described in paragraphs (e)(2)(vi)(A) and (B) of this section:
+
+(A) The southern edge is the Mexican border, and the western edge is the Pacific coast. The eastern and northern edges of the boundary follow the development that would isolate any extant populations found within the boundaries.
+
+(B) Note: The map of areas exempted from take prohibitions follows:
+
+![](/graphics/er21de21.001.gif)[77 FR 20986, Apr. 6, 2012, as amended at 79 FR 67348, Oct. 24, 2014; 84 FR 64227, Nov. 21, 2019; 85 FR 65260, Oct. 15, 2020; 86 FR 72427, Dec. 20, 2021]

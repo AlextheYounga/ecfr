@@ -1,5 +1,7 @@
 ##### § 665.211 Annual Catch Limits (ACL). #####
 
+Link to an amendment published at 87 FR 3047, Jan. 20, 2022.
+
 (a) In accordance with § 665.4, the ACLs for MHI bottomfish fisheries for each fishing year are as follows:
 
 |     Fishery     |2018-19 ACL  <br/>(lb)|2019-20 ACL  <br/>(lb)|2020-21 ACL  <br/>(lb)|
