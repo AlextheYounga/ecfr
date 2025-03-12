@@ -4,7 +4,7 @@ Cost means:
 
 (a) In the case of merchandise on hand at the beginning of the taxable year, the inventory price of such goods.
 
-(b) In the case of merchandise purchased since the beginning of the taxable year, the invoice price less trade or other discounts, except strictly cash discounts approximating a fair interest rate, which may be deducted or not at the option of the taxpayer, provided a consistent course is followed. To this net invoice price should be added transportation or other necessary charges incurred in acquiring possession of the goods. For taxpayers acquiring merchandise for resale that are subject to the provisions of section 263A, see §§ 1.263A-1 and 1.263A-3 for additional amounts that must be included in inventory costs.
+(b) In the case of merchandise purchased since the beginning of the taxable year, the invoice price less trade or other discounts, except strictly cash discounts approximating a fair interest rate, which may be deducted or not at the option of the taxpayer, provided a consistent course is followed. To this net invoice price should be added transportation or other necessary charges incurred in acquiring possession of the goods. But see § 1.263A-1(d)(2)(iv)(C) for special rules for certain direct material costs that in certain cases are permitted to be capitalized as additional section 263A costs by taxpayers using a simplified method under § 1.263A-2(b) or (c) or § 1.263A-3(d). For taxpayers acquiring merchandise for resale that are subject to the provisions of section 263A, see §§ 1.263A-1 and 1.263A-3 for additional amounts that must be included in inventory costs.
 
 (c) In the case of merchandise produced by the taxpayer since the beginning of the taxable year, (1) the cost of raw materials and supplies entering into or consumed in connection with the product, (2) expenditures for direct labor, and (3) indirect production costs incident to and necessary for the production of the particular article, including in such indirect production costs an appropriate portion of management expenses, but not including any cost of selling or return on capital, whether by way of interest or profit. See §§ 1.263A-1 and 1.263A-2 for more specific rules regarding the treatment of production costs.
 
@@ -16,7 +16,7 @@ Cost means:
 
 (3) Retail merchants who use what is known as the “retail method” in ascertaining approximate cost (see § 1.471-8).
 
-(e) *Sales-based vendor allowances* - (1) *Treatment of sales-based vendor chargebacks* - (i) *In general.* A sales-based vendor chargeback is an allowance, discount, or price rebate that a taxpayer becomes unconditionally entitled to by selling a vendor's merchandise to specific customers identified by the vendor at a price determined by the vendor. A sales-based vendor chargeback decreases cost of goods sold and does not reduce the cost of goods on hand at the end of the taxable year.
+(e) *Sales-based vendor allowances*—(1) *Treatment of sales-based vendor chargebacks*—(i) *In general.* A sales-based vendor chargeback is an allowance, discount, or price rebate that a taxpayer becomes unconditionally entitled to by selling a vendor's merchandise to specific customers identified by the vendor at a price determined by the vendor. A sales-based vendor chargeback decreases cost of goods sold and does not reduce the cost of goods on hand at the end of the taxable year.
 
 (ii) *Example.* The following example illustrates the provisions of this paragraph (e)(1).
 
@@ -30,4 +30,4 @@ Example.(i) W is a wholesaler of pharmaceuticals. W purchases Drug X from the ma
 
 (g) *Effective/applicability date.* Paragraph (f) of this section applies to taxable years ending on or after January 13, 2014.
 
-[T.D. 6500, 25 FR 11725, Nov. 26, 1960, as amended by T.D. 7285, 38 FR 26185, Sept. 19, 1973; T.D. 7345, 40 FR 7439, Feb. 20, 1975; T.D. 8131, 52 FR 10084, Mar. 30, 1987; T.D. 8482, 58 FR 42233, Aug. 9, 1993; T.D. 9652, 79 FR 2098, Jan. 13, 2014]
+[T.D. 6500, 25 FR 11725, Nov. 26, 1960, as amended by T.D. 7285, 38 FR 26185, Sept. 19, 1973; T.D. 7345, 40 FR 7439, Feb. 20, 1975; T.D. 8131, 52 FR 10084, Mar. 30, 1987; T.D. 8482, 58 FR 42233, Aug. 9, 1993; T.D. 9652, 79 FR 2098, Jan. 13, 2014; T.D. 9843, 83 FR 58498, Nov. 20, 2018]

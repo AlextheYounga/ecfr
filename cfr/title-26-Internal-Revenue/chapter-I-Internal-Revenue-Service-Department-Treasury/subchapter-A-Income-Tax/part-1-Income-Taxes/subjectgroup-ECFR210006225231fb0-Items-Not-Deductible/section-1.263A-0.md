@@ -84,13 +84,73 @@ This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.2
 
 (i) In general.
 
-(ii) New taxpayers.
+(ii) Inclusion of direct costs.
 
-(iii) Method changes.
+(A) In general.
+
+(B) Allocation of direct costs.
+
+(iii) Alternative method to determine amounts of section 471 costs by using taxpayer's financial statement.
+
+(A) In general.
+
+(B) Book-to-tax adjustments.
+
+(C) Exclusion of certain financial statement items.
+
+(D) Changes in method of accounting.
+
+(E) Examples.
+
+(iv) De minimis rule exceptions for certain direct costs.
+
+(A) In general.
+
+(B) De minimis rule for certain direct labor costs.
+
+(C) De minimis rule for certain direct material costs.
+
+(D) Taxpayers using a historic absorption ratio.
+
+(E) Examples.
+
+(v) Safe harbor method for certain variances and under or over-applied burdens.
+
+(A) In general.
+
+(B) Consistency requirement.
+
+(C) Allocation of variances and under or over-applied burdens between production and preproduction costs under the modified simplified production method.
+
+(D) Allocation of variances and under or over-applied burdens between storage and handling costs absorption ratio and purchasing costs absorption ratio under the simplified resale method.
+
+(E) Method of accounting.
+
+(vi) Removal of section 471 costs.
+
+(vii) Method changes.
 
 (3) Additional section 263A costs.
 
+(i) In general.
+
+(ii) Negative adjustments.
+
+(A) In general.
+
+(B) Exception for certain taxpayers removing costs from section 471 costs.
+
+(C) No negative adjustments for cash or trade discounts.
+
+(D) No negative adjustments for certain expenses.
+
+(E) Consistency requirement for negative adjustments.
+
 (4) Section 263A costs.
+
+(5) Classification of costs.
+
+(6) Financial statement.
 
 (e) Types of costs subject to capitalization.
 
@@ -468,13 +528,109 @@ This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.2
 
 (v) Transition rules.
 
+(A) Transition to elect historic absorption ratio.
+
+(B) Transition to revoke historic absorption ratio.
+
 (vi) Example.
 
-(c) Additional simplified methods for producers.
+(c) Modified simplified production method.
 
-(d) Cross reference.
+(1) Introduction.
 
-(e) Change in method of accounting.
+(2) Eligible property.
+
+(i) In general.
+
+(ii) Election to exclude self-constructed assets.
+
+(3) Modified simplified production method without historic absorption ratio election.
+
+(i) General allocation formula.
+
+(A) In general.
+
+(B) Effect of allocation.
+
+(ii) Definitions.
+
+(A) Direct material costs.
+
+(B) Pre-production absorption ratio.
+
+(*1*) Pre-production additional section 263A costs.
+
+(*2*) Pre-production section 471 costs.
+
+(C) Pre-production section 471 costs remaining on hand at year end.
+
+(D) Production absorption ratio.
+
+(*1*) Production additional section 263A costs.
+
+(*2*) Residual pre-production additional section 263A costs.
+
+(*3*) Production section 471 costs.
+
+(*4*) Direct materials adjustment.
+
+(E) Production section 471 costs remaining on hand at year end.
+
+(F) Costs allocated to property sold.
+
+(iii) Allocable mixed service costs.
+
+(A) In general.
+
+(B) Taxpayer using the simplified service cost method.
+
+(C) De minimis rule.
+
+(iv) LIFO taxpayers electing the modified simplified production method.
+
+(A) In general.
+
+(B) LIFO increment.
+
+(*1*) In general.
+
+(*2*) Combined absorption ratio defined.
+
+(C) LIFO decrement.
+
+(v) De minimis rule for producers with total indirect costs of $200,000 or less.
+
+(vi) Examples.
+
+(4) Modified simplified production method with historic absorption ratio election.
+
+(i) In general.
+
+(ii) Operating rules and definitions.
+
+(A) Pre-production historic absorption ratio.
+
+(B) Production historic absorption ratio.
+
+(iii) LIFO taxpayers making the historic absorption ratio election.
+
+(A) In general.
+
+(B) Combined historic absorption ratio.
+
+(*1*) Total allocable additional section 263A costs incurred during the test period.
+
+(*2*) Total section 471 costs remaining on hand at each year end of the test period.
+
+(iv) Extension of qualifying period.
+
+(v) Examples.
+
+(d) Additional simplified methods for producers.
+
+(e) Cross reference.
+
+(f) Change in method of accounting.
 
 (1) In general.
 
@@ -486,7 +642,7 @@ This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.2
 
 (5) Time for requesting change.
 
-(f) Effective/applicability date.
+(g) Effective/applicability date.
 
 § 1.263A-3 Rules Relating to Property Acquired for Resale
 
@@ -693,6 +849,10 @@ This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.2
 (B) Recordkeeping.
 
 (v) Transition rules.
+
+(A) Transition to elect historic absorption ratio.
+
+(B) Transition to revoke historic absorption ratio.
 
 (vi) Example.
 
@@ -1406,4 +1566,4 @@ This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.2
 
 (c) Anti-abuse rule.
 
-[T.D. 8482, 58 FR 42207, Aug. 9, 1993, as amended by T.D. 8584, 59 FR 67196, Dec. 29, 1994; 60 FR 16574, Mar. 31, 1995; T.D. 8728, 62 FR 42054, Aug. 5, 1997; T.D. 8897, 65 FR 50643, Aug. 21, 2000; T.D. 9636, 78 FR 57745, Sept. 19, 2013; T.D. 9652, 79 FR 2096, Jan. 13, 2014]
+[T.D. 8482, 58 FR 42207, Aug. 9, 1993, as amended by T.D. 8584, 59 FR 67196, Dec. 29, 1994; 60 FR 16574, Mar. 31, 1995; T.D. 8728, 62 FR 42054, Aug. 5, 1997; T.D. 8897, 65 FR 50643, Aug. 21, 2000; T.D. 9636, 78 FR 57745, Sept. 19, 2013; T.D. 9652, 79 FR 2096, Jan. 13, 2014; T.D. 9843, 83 FR 58485, Nov. 20, 2018]

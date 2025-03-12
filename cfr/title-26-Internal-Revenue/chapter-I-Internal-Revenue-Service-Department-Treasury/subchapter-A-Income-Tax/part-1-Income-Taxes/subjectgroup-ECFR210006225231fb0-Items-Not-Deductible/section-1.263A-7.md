@@ -38,7 +38,7 @@
 
 (*2*) *3-year average method used* - (*i*) *Simplified method not used.* A dollar-value LIFO taxpayer using the 3-year average method but not the simplified production method or the simplified resale method to revalue its inventory is required to establish a new base year.
 
-(*ii*) *Simplified method used.* A dollar-value LIFO taxpayer using the 3-year average method and either the simplified production method or the simplified resale method to revalue its inventory is permitted, but not required, to establish a new base year.
+(*ii*) *Simplified method used.* A dollar-value LIFO taxpayer using the 3-year average method and the simplified production method, the modified simplified production method, or the simplified resale method to revalue its inventory is permitted, but not required, to establish a new base year.
 
 (B) *Computing a new base year.* For purposes of determining future indexes, the year of change becomes the new base year (that is, the index at the beginning of the year of change generally must be 1.00) and all costs are restated in new base year costs for purposes of extending such costs in future years. However, when a new base year is established, costs associated with old layers retain their separate identity within the base year, with such layers being restated in terms of the new base year index. For example, for purposes of determining whether a particular layer has been invaded, each layer must retain its separate identity. Thus, if a decrement in an inventory pool occurs, layers accumulated in more recent years must be viewed as invaded first, in order of priority.
 
@@ -249,4 +249,4 @@ Example.(i) Assume that S, a member of a consolidated group filing its federal i
 
 (2) *Revaluing property.* A taxpayer must revalue its non-inventory property as of the beginning of the year of change in method of accounting. The facts and circumstances revaluation method of paragraph (c)(2)(iii) of this section must be used to revalue this property. In revaluing non-inventory property, however, the only additional section 263A costs that must be taken into account are those additional section 263A costs incurred after the later of December 31, 1986, or the date the taxpayer first becomes subject to section 263A, in taxable years ending after that date. See § 1.263A-1(d)(3) for the definition of additional section 263A costs.
 
-[T.D. 8728, 62 FR 42054, Aug. 5, 1997, as amended by T.D. 9131, 69 FR 33572, June 16, 2004]
+[T.D. 8728, 62 FR 42054, Aug. 5, 1997, as amended by T.D. 9131, 69 FR 33572, June 16, 2004; T.D. 9843, 83 FR 58498, Nov. 20, 2018]

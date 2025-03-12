@@ -38,7 +38,7 @@
 
 (4) *Practical capacity concept.* Notwithstanding any provision to the contrary, the use, directly or indirectly, of the practical capacity concept is not permitted under section 263A. For purposes of section 263A, the term practical capacity concept means any concept, method, procedure, or formula (such as the practical capacity concept described in § 1.471-11(d)(4)) whereunder fixed costs are not capitalized because of the relationship between the actual production at the taxpayer's production facility and the practical capacity of the facility. For purposes of this section, the practical capacity of a facility includes either the practical capacity or theoretical capacity of the facility, as defined in § 1.471-11(d)(4), or any similar determination of productive or operating capacity. The practical capacity concept may not be used with respect to any activity to which section 263A applies (i.e., production or resale activities). A taxpayer shall not be considered to be using the practical capacity concept solely because the taxpayer properly does not capitalize costs described in § 1.263A-1(e)(3)(iii)(E), relating to certain costs attributable to temporarily idle equipment.
 
-(5) *Taxpayers required to capitalize costs under this section.* This section generally applies to taxpayers that produce property. If a taxpayer is engaged in both production activities and resale activities, the taxpayer applies the principles of this section as if it read production or resale activities, and by applying appropriate principles from § 1.263A-3. If a taxpayer is engaged in both production and resale activities, the taxpayer may elect the simplified production method provided in this section, but generally may not elect the simplified resale method discussed in § 1.263A-3(d). If elected, the simplified production method must be applied to all eligible property produced and all eligible property acquired for resale by the taxpayer.
+(5) *Taxpayers required to capitalize costs under this section.* This section generally applies to taxpayers that produce property. If a taxpayer is engaged in both production activities and resale activities, the taxpayer applies the principles of this section as if it read production or resale activities, and by applying appropriate principles from § 1.263A-3. If a taxpayer is engaged in both production and resale activities, the taxpayer may elect the simplified production method or the modified simplified production method provided in this section, but generally may not elect the simplified resale method discussed in § 1.263A-3(d). If elected, the simplified production method or the modified simplified production method must be applied to all eligible property produced and all eligible property acquired for resale by the taxpayer.
 
 (b) *Simplified production method* - (1) *Introduction.* This paragraph (b) provides a simplified method for determining the additional section 263A costs properly allocable to ending inventories of property produced and other eligible property on hand at the end of the taxable year.
 
@@ -154,7 +154,9 @@ paragraph (b)(3)(ii) of this section) for its three most recent consecutive taxa
 
 (B) *Recordkeeping.* A taxpayer must maintain all appropriate records and details supporting the historic absorption ratio until the expiration of the statute of limitations for the last year for which the taxpayer applied the particular historic absorption ratio in determining additional section 263A costs capitalized to eligible property.
 
-(v) *Transition rules.* Taxpayers will be permitted to elect a historic absorption ratio in their first, second, or third taxable year beginning after December 31, 1993, under such terms and conditions as may be prescribed by the Commissioner. Taxpayers are eligible to make an election under these transition rules whether or not they previously used the simplified production method. A taxpayer making such an election must recompute (or compute) its additional section 263A costs, and thus, its historic absorption ratio for its first test period as if the rules prescribed in this section and §§ 1.263A-1 and 1.263A-3 had applied throughout the test period.
+(v)(A) *Transition to elect historic absorption ratio.* Taxpayers will be permitted to elect a historic absorption ratio in their first, second, or third taxable year beginning after December 31, 1993, under such terms and conditions as may be prescribed by the Commissioner. Taxpayers are eligible to make an election under these transition rules whether or not they previously used the simplified production method. A taxpayer making such an election must recompute (or compute) its additional section 263A costs, and thus, its historic absorption ratio for its first test period as if the rules prescribed in this section and §§ 1.263A-1 and 1.263A-3 had applied throughout the test period.
+
+(B) *Transition to revoke historic absorption ratio.* Notwithstanding the requirements provided in paragraph (b)(4)(iii)(B) of this section regarding revocations of the historic absorption ratio during a qualifying period, a taxpayer will be permitted to revoke the historic absorption ratio in their first, second, or third taxable year ending on or after *November 20, 2018,* under such administrative procedures and with terms and conditions prescribed by the Commissioner.
 
 (vi) *Example.* The provisions of this paragraph (b)(4) are illustrated by the following example:
 
@@ -176,11 +178,258 @@ Section 471 costs - $5,000
 
 (vi) If, instead, M's actual absorption ratio for 1999 were not between 4.5% and 5.5%, M's qualifying period would end and M would be required to compute a new historic absorption ratio with reference to an updated test period of 1999, 2000, and 2001. Once M's historic absorption ratio is determined for the updated test period, it would be used for a new qualifying period beginning in 2002.
 
-(c) *Additional simplified methods for producers.* The Commissioner may prescribe additional elective simplified methods by revenue ruling or revenue procedure.
+(c) *Modified simplified production method* - (1) *Introduction.* This paragraph (c) provides a simplified method for determining the additional section 263A costs properly allocable to ending inventories of property produced and other eligible property on hand at the end of the taxable year.
 
-(d) *Cross reference.* See § 1.6001-1(a) regarding the duty of taxpayers to keep such records as are sufficient to establish the amount of gross income, deductions, etc.
+(2) *Eligible property* - (i) *In general.* Except as otherwise provided in paragraph (c)(2)(ii) of this section, the modified simplified production method, if elected for any trade or business of a producer, must be used for all production and resale activities associated with any of the categories of property to which section 263A applies as described in paragraph (b)(2)(i) of this section.
 
-(e) *Change in method of accounting* - (1) *In general.* A change in a taxpayer's treatment of additional section 263A costs to comply with paragraph (b)(2)(i)(D) of this section is a change in method of accounting to which the provisions of sections 446 and 481 and the regulations under those sections apply. See § 1.263A-7. For a taxpayer's first taxable year ending on or after August 2, 2005, the taxpayer is granted the consent of the Commissioner to change its method of accounting to comply with paragraph (b)(2)(i)(D) of this section, provided the taxpayer follows the administrative procedures, as modified by paragraphs (e)(2) through (4) of this section, issued under § 1.446-1(e)(3)(ii) for obtaining the Commissioner's automatic consent to a change in accounting method (for further guidance, for example, see Rev. Proc. 2002-9 (2002-1 CB 327), as modified and clarified by Announcement 2002-17 (2002-1 CB 561), modified and amplified by Rev. Proc. 2002-19 (2002-1 CB 696), and amplified, clarified, and modified by Rev. Proc. 2002-54 (2002-2 CB 432), and § 601.601(d)(2)(ii)(*b*) of this chapter). For purposes of Form 3115, “Application for Change in Accounting Method,” the designated number for the automatic accounting method change authorized by this paragraph (e) is “95.” If Form 3115 is revised or renumbered, any reference in this section to that form is treated as a reference to the revised or renumbered form. Alternatively, notwithstanding the provisions of any administrative procedures that preclude a taxpayer from requesting the advance consent of the Commissioner to change a method of accounting that is required to be made pursuant to a published automatic change procedure, for its first taxable year ending on or after August 2, 2005, a taxpayer may request the advance consent of the Commissioner to change its method of accounting to comply with paragraph (b)(2)(i)(D) of this section, provided the taxpayer follows the administrative procedures, as modified by paragraphs (e)(2) through (5) of this section, for obtaining the advance consent of the Commissioner (for further guidance, for example, see Rev. Proc. 97-27 (1997-1 CB 680), as modified and amplified by Rev. Proc. 2002-19 (2002-1 CB 696), as amplified and clarified by Rev. Proc. 2002-54 (2002-2 CB 432), and § 601.601(d)(2)(ii)(*b*) of this chapter). For the taxpayer's second and subsequent taxable years ending on or after August 2, 2005, requests to secure the consent of the Commissioner must be made under the administrative procedures, as modified by paragraphs (e)(3) and (4) of this section, for obtaining the Commissioner's advance consent to a change in accounting method.
+(ii) *Election to exclude-self-constructed assets.* A taxpayer using the modified simplified production method may elect to exclude self-constructed assets from application of the modified simplified production method by following the same rules applicable to a taxpayer using the simplified production method provided in paragraph (b)(2)(ii) of this section.
+
+(3) *Modified simplified production method without historic absorption ratio election* - (i) *General allocation formula* - (A) *In general.* Except as otherwise provided in paragraph (c)(3)(v) of this section, the additional section 263A costs allocable to eligible property remaining on hand at the close of the taxable year under the modified simplified production method are computed as follows:
+
+![](/graphics/er20no18.001.gif)
+
+(B) *Effect of allocation.* The pre-production and production absorption ratios generally are multiplied by the pre-production and production section 471 costs, respectively, remaining in ending inventory or otherwise on hand at the end of each taxable year in which the modified simplified production method is applied. The sum of the resulting products is the additional section 263A costs that are added to the taxpayer's ending section 471 costs to determine the section 263A costs that are capitalized. See, however, paragraph (c)(3)(iv) of this section for special rules applicable to LIFO taxpayers. Except as otherwise provided in this section or in § 1.263A-1 or § 1.263A-3, additional section 263A costs that are allocated to inventories on hand at the close of the taxable year under the modified simplified production method of this paragraph (c) are treated as inventory costs for all purposes of the Internal Revenue Code.
+
+(ii) *Definitions* - (A) *Direct material costs.* For purposes of paragraph (c) of this section, direct material costs has the same meaning as described in § 1.263A-1(e)(2)(i)(A). For purposes of paragraph (c) of this section, direct material costs include property produced for the taxpayer under a contract with another party that are direct material costs for the taxpayer to be used in an additional production process of the taxpayer.
+
+(B) *Pre-production absorption ratio.* Under the modified simplified production method, the pre-production absorption ratio is determined as follows:
+
+![](/graphics/er20no18.002.gif)
+
+(*1*) *Pre-production additional section 263A costs.* Pre-production additional section 263A costs are defined as the additional section 263A costs described in § 1.263A-1(d)(3) that are pre-production costs, as described in paragraph (a)(3)(ii) of this section, that a taxpayer incurs during its current taxable year, including capitalizable mixed service costs allocable to pre-production additional section 263A costs, as described in paragraph (c)(3)(iii) of this section, that a taxpayer incurs during its current taxable year:
+
+(*i*) Plus additional section 263A costs properly allocable to property acquired for resale that a taxpayer incurs during its current taxable year; and
+
+(*ii*) Plus additional section 263A costs properly allocable to property produced for the taxpayer under a contract with another party that is treated as property produced by the taxpayer, as described in paragraph (a)(1)(ii)(B) of this section, that a taxpayer incurs during its current taxable year.
+
+(*2*) *Pre-production section 471 costs.* Pre-production section 471 costs are defined as the section 471 costs described in § 1.263A-1(d)(2) that are direct material costs that a taxpayer incurs during its current taxable year plus the section 471 costs for property acquired for resale (*see* § 1.263A-1(e)(2)(ii)) that a taxpayer incurs during its current taxable year, including property produced for the taxpayer under a contract with another party that is acquired for resale.
+
+(C) *Pre-production section 471 costs remaining on hand at year end.* Pre-production section 471 costs remaining on hand at year end means the pre-production section 471 costs, as defined in paragraph (c)(3)(ii)(B)(*2*) of this section, that a taxpayer incurs during its current taxable year which remain in its ending inventory or are otherwise on hand at year end, excluding the section 471 costs that are direct material costs that have entered or completed production at year end (for example, direct material costs in ending work-in-process inventory and ending finished goods inventory). For LIFO inventories of a taxpayer, see paragraph (c)(3)(iv) of this section.
+
+(D) *Production absorption ratio.* Under the modified simplified production method, the production absorption ratio is determined as follows:
+
+![](/graphics/er20no18.003.gif)
+
+(*1*) *Production additional section 263A costs.* Production additional section 263A costs are defined as the additional section 263A costs described in § 1.263A-1(d)(3) that are not pre-production additional section 263A costs, as defined in paragraph (c)(3)(ii)(B)(*1*) of this section, that a taxpayer incurs during its current taxable year, including capitalizable mixed service costs not allocable to pre-production additional section 263A costs, as described in paragraph (c)(3)(iii) of this section, that a taxpayer incurs during its current taxable year. For example, production additional section 263A costs include post-production costs, other than post-production costs included in section 471 costs, as described in paragraph (a)(3)(iii) of this section.
+
+(*2*) *Residual pre-production additional section 263A costs.* Residual pre-production additional section 263A costs are defined as the pre-production additional section 263A costs, as defined in paragraph (c)(3)(ii)(B)(*1*) of this section, that a taxpayer incurs during its current taxable year less the product of the pre-production absorption ratio, as determined in paragraph (c)(3)(ii)(B) of this section, and the pre-production section 471 costs remaining on hand at year end, as defined in paragraph (c)(3)(ii)(C) of this section.
+
+(*3*) *Production section 471 costs.* Production section 471 costs are defined as the section 471 costs described in § 1.263A-1(d)(2) that a taxpayer incurs during its current taxable year less pre-production section 471 costs, as defined in paragraph (c)(3)(ii)(B)(*2*) of this section, that a taxpayer incurs during its current taxable year.
+
+(*4*) *Direct materials adjustment.* The direct materials adjustment is defined as the section 471 costs that are direct material costs, including property produced for a taxpayer under a contract with another party that are direct material costs for the taxpayer to be used in an additional production process of the taxpayer, that had not entered production at the beginning of the current taxable year:
+
+(*i*) Plus the section 471 costs that are direct material costs incurred during the current taxable year (that is, direct material purchases); and
+
+(*ii*) Less the section 471 costs that are direct material costs that have not entered production at the end of the current taxable year.
+
+(E) *Production section 471 costs remaining on hand at year end.* Production section 471 costs remaining on hand at year end means the section 471 costs, as defined in § 1.263A-1(d)(2), that a taxpayer incurs during its current taxable year which remain in its ending inventory or are otherwise on hand at year end, less the pre-production section 471 costs remaining on hand at year end, as described in paragraph (c)(3)(ii)(C) of this section. For LIFO inventories of a taxpayer, see paragraph (c)(3)(iv) of this section.
+
+(F) *Costs allocated to property sold.* The terms defined in paragraph (c)(3)(ii) of this section do not include costs described in § 1.263A-1(e)(3)(ii) or cost reductions described in § 1.471-3(e) that a taxpayer properly allocates entirely to property that has been sold.
+
+(iii) *Allocable mixed service costs* - (A) *In general.* If a taxpayer using the modified simplified production method determines its capitalizable mixed service costs using a method described in § 1.263A-1(g)(4), the taxpayer must use a reasonable method to allocate the costs (for example, department or activity costs) between production and pre-production additional section 263A costs. If the taxpayer's § 1.263A-1(g)(4) method allocates costs to a department or activity that is exclusively identified as production or pre-production, those costs must be allocated to production or pre-production additional section 263A costs, respectively.
+
+(B) *Taxpayer using the simplified service cost method.* If a taxpayer using the modified simplified production method determines its capitalizable mixed service costs using the simplified service cost method described in § 1.263A-1(h), the amount of capitalizable mixed service costs, as computed using the general allocation formula in § 1.263A-1(h)(3)(i), allocated to and included in pre-production additional section 263A costs in the absorption ratio described in paragraph (c)(3)(ii)(B) of this section is determined based on either of the following: The proportion of direct material costs to total section 471 costs that a taxpayer incurs during its current taxable year or the proportion of pre-production labor costs to total labor costs that a taxpayer incurs during its current taxable year. The taxpayer must include the capitalizable mixed service costs that are not allocated to pre-production additional section 263A costs in production additional section 263A costs in the absorption ratio described in paragraph (c)(3)(ii)(D) of this section. A taxpayer that allocates capitalizable mixed service costs based on labor under this paragraph (c)(3)(iii)(B) must exclude mixed service labor costs from both pre-production labor costs and total labor costs.
+
+(C) *De minimis rule.* Notwithstanding paragraphs (c)(3)(iii)(A) and (B) of this section, if 90 percent or more of a taxpayer's capitalizable mixed service costs determined under paragraph (c)(3)(iii)(A) or (B) of this section are allocated to pre-production additional section 263A costs or production additional section 263A costs, the taxpayer may elect to allocate 100 percent of its capitalizable mixed service costs to that amount. For example, if 90 percent of capitalizable mixed service costs are allocated to production additional section 263A costs based on the labor costs that are pre-production costs in total labor costs incurred in the taxpayer's trade or business during the taxable year, then 100 percent of capitalizable mixed service costs may be allocated to production additional section 263A costs. An election to allocate capitalizable mixed service costs under this paragraph (c)(3)(iii)(C) is the adoption of, or a change in, a method of accounting under section 446 of the Internal Revenue Code.
+
+(iv) *LIFO taxpayers electing the modified simplified production method* - (A) *In general.* Under the modified simplified production method, a taxpayer using a LIFO method must calculate a particular year's index (for example, under § 1.472-8(e)) without regard to its additional section 263A costs. Similarly, a taxpayer that adjusts current-year costs by applicable indexes to determine whether there has been an inventory increment or decrement in the current year for a particular LIFO pool must disregard the additional section 263A costs in making that determination.
+
+(B) *LIFO increment* - (*1*) *In general.* If the taxpayer determines there has been an inventory increment, the taxpayer must state the amount of the increment in terms of section 471 costs in current-year dollars. The taxpayer then multiplies this amount by the combined absorption ratio, as defined in paragraph (c)(3)(iv)(B)(*2*) of this section. The resulting product is the additional section 263A costs that must be added to the taxpayer's increment in terms of section 471 costs in current-year dollars for the taxable year.
+
+(*2*) *Combined absorption ratio defined.* For purposes of paragraph (c)(3)(iv)(B)(*1*) of this section, the combined absorption ratio is the additional section 263A costs allocable to eligible property remaining on hand at the close of the taxable year, as described in paragraph (c)(3)(i)(A) of this section, determined on a non-LIFO basis, divided by the pre-production and production section 471 costs remaining on hand at year end, determined on a non-LIFO basis.
+
+(C) *LIFO decrement.* If the taxpayer determines there has been an inventory decrement, the taxpayer must state the amount of the decrement in dollars applicable to the particular year for which the LIFO layer has been invaded. The additional section 263A costs incurred in prior years that are applicable to the decrement are charged to cost of goods sold. The additional section 263A costs that are applicable to the decrement are determined by multiplying the additional section 263A costs allocated to the layer of the pool in which the decrement occurred by the ratio of the decrement, excluding additional section 263A costs, to the section 471 costs in the layer of that pool.
+
+(v) *De minimis rule for producers with total indirect costs of $200,000 or less.* Paragraph (b)(3)(iv) of this section, which provides that the additional section 263A costs allocable to eligible property remaining on hand at the close of the taxable year are deemed to be zero for producers with total indirect costs of $200,000 or less, applies to the modified simplified production method.
+
+(vi) *Examples.* The provisions of this paragraph (c) are illustrated by the following examples:
+
+(A) *Example 1 - FIFO inventory method.*
+
+(*1*) Taxpayer P uses the FIFO method of accounting for inventories valued at cost. P's beginning inventory for 2018 (all of which is sold during 2018) is $2,500,000, consisting of $500,000 of pre-production section 471 costs (including $400,000 of direct material costs and $100,000 of property acquired for resale), $1,500,000 of production section 471 costs, and $500,000 of additional section 263A costs. During 2018, P incurs $2,500,000 of pre-production section 471 costs (including $1,900,000 of direct material costs and $600,000 of property acquired for resale), $7,500,000 of production section 471 costs, $200,000 of pre-production additional section 263A costs, and $800,000 of production additional section 263A costs. P's additional section 263A costs include capitalizable mixed service costs under the simplified service cost method. P's pre-production and production section 471 costs remaining in ending inventory at the end of 2018 are $1,000,000 (including $800,000 of direct material costs and $200,000 of property acquired for resale) and $2,000,000, respectively. P computes its pre-production absorption ratio for 2018 under paragraph (c)(3)(ii)(B) of this section, as follows:
+
+![](/graphics/er20no18.004.gif)
+
+(*2*) Under paragraph (c)(3)(ii)(D)(*2*) of this section, P's residual pre-production additional section 263A costs for 2018 are $120,000 ($200,000 of pre-production additional section 263A costs less $80,000 (the product of the 8% pre-production absorption ratio and the $1,000,000 of pre-production section 471 costs remaining on hand at year end)).
+
+(*3*) Under paragraph (c)(3)(ii)(D)(*4*) of this section, P's direct materials adjustment for 2018 is $1,500,000 ($400,000 of direct material costs in beginning raw materials inventory, plus $1,900,000 of direct material costs incurred to acquire raw materials during the taxable year, less $800,000 direct material costs in ending raw materials inventory).
+
+(*4*) P computes its production absorption ratio for 2018 under paragraph (c)(3)(ii)(D) of this section, as follows:
+
+![](/graphics/er20no18.005.gif)
+
+(*5*) Under the modified simplified production method, P determines the additional section 263A costs allocable to its ending inventory under paragraph (c)(3)(i)(A) of this section by multiplying the pre-production absorption ratio by the pre-production section 471 costs remaining on hand at year end and the production absorption ratio by the production section 471 costs remaining on hand at year end, as follows:
+
+Additional section 263A costs = (8% × $1,000,000) + (10.22% × $2,000,000) = $284,400
+
+(*6*) P adds this $284,400 to the $3,000,000 of section 471 costs remaining on hand at year end to calculate its total ending inventory of $3,284,400. The balance of P's additional section 263A costs incurred during 2018, $715,600 ($1,000,000 less $284,400), is taken into account in 2018 as part of P's cost of goods sold.
+
+(*7*) P's computation is summarized in the following table:
+
+|                                                                          |      Reference      |  Amount  |
+|--------------------------------------------------------------------------|---------------------|----------|
+|                           Beginning Inventory:                           |                     |          |
+|                          Direct material costs                           |          a          |$ 400,000 |
+|                       Property acquired for resale                       |          b          | 100,000  |
+|                     Pre-production section 471 costs                     |      c = a + b      | 500,000  |
+|                       Production section 471 costs                       |          d          |1,500,000 |
+|                      Additional section 263A costs                       |          e          | 500,000  |
+|                                  Total                                   |     f = c d + e     |2,500,000 |
+|                          Incurred During 2018:                           |                     |          |
+|                          Direct material costs                           |          g          |1,900,000 |
+|                       Property acquired for resale                       |          h          | 600,000  |
+|                     Pre-production section 471 costs                     |      i = g + h      |2,500,000 |
+|                       Production section 471 costs                       |          j          |7,500,000 |
+|               Pre-production additional section 263A costs               |          k          | 200,000  |
+|                 Production additional section 263A costs                 |          l          | 800,000  |
+|                                  Total                                   |  m = i + j + k + l  |11,000,000|
+|                            Ending Inventory:                             |                     |          |
+|                          Direct material costs                           |          n          | 800,000  |
+|                       Property acquired for resale                       |          o          | 200,000  |
+|                     Pre-production section 471 costs                     |      p = n + o      |1,000,000 |
+|                       Production section 471 costs                       |          q          |2,000,000 |
+|                            Section 471 costs                             |      r = p + q      |3,000,000 |
+|       Additional section 263A costs allocable to ending inventory        |      s = v + z      | 284,400  |
+|                                  Total                                   |      t = r + s      |3,284,400 |
+|                  Modified Simplified Production Method:                  |                     |          |
+|               Pre-production additional section 263A costs               |          k          | 200,000  |
+|                     Pre-production section 471 costs                     |          i          |2,500,000 |
+|                     Pre-production absorption ratio                      |      u = k / i      |  8.00%   |
+|      Pre-production section 471 costs remaining on hand at year end      |          p          |1,000,000 |
+|Pre-production additional section 263A costs allocable to ending inventory|     v = u \* p      |  80,000  |
+|                 Production additional section 263A costs                 |          l          | 800,000  |
+|          Residual pre-production additional section 263A costs           |   w = k−(u \* p)    | 120,000  |
+|                       Production section 471 costs                       |          j          |7,500,000 |
+|                       Direct materials adjustment                        |     x = a + g−n     |1,500,000 |
+|                       Production absorption ratio                        |y = (l + w) / (j + x)|  10.22%  |
+|        Production section 471 costs remaining on hand at year end        |          q          |2,000,000 |
+|  Production additional section 263A costs allocable to ending inventory  |     z = y \* q      | 204,400  |
+|                                 Summary:                                 |                     |          |
+|Pre-production additional section 263A costs allocable to ending inventory|          v          |  80,000  |
+|  Production additional section 263A costs allocable to ending inventory  |          z          | 204,400  |
+|       Additional section 263A costs allocable to ending inventory        |          s          | 284,400  |
+|                            Section 471 costs                             |          r          |3,000,000 |
+|                          Total Ending Inventory                          |          t          |3,284,400 |
+
+(B) *Example 2 - FIFO inventory method with alternative method to determine amounts of section 471 costs.*
+
+(*1*) The facts are the same as in *Example 1* of paragraph (c)(3)(vi)(A) of this section, except that P uses the alternative method to determine amounts of section 471 costs by using its financial statement under § 1.263A-1(d)(2)(iii) rather than tax amounts under § 1.263A-1(d)(2)(i). In 2018, P's production section 471 costs exclude $40,000 of tax depreciation in excess of financial statement depreciation and include $50,000 of financial statement direct labor in excess of tax direct labor. These are P's only differences in its book and tax amounts.
+
+(*2*) Under § 1.263A-1(d)(2)(iii)(B), the positive $40,000 depreciation adjustment and the negative $50,000 direct labor adjustment must be included in additional section 263A costs. Accordingly, P's production additional section 263A costs are $790,000 ($800,000 plus $40,000 less $50,000).
+
+(*3*) P computes its production absorption ratio for 2018 under paragraph (c)(3)(ii)(D) of this section, as follows:
+
+![](/graphics/er20no18.006.gif)
+
+(*4*) Under the modified simplified production method, P determines the additional section 263A costs allocable to its ending inventory under paragraph (c)(3)(i)(A) of this section by multiplying the pre-production absorption ratio by the pre-production section 471 costs remaining on hand at year end and the production absorption ratio by the production section 471 costs remaining on hand at year end, as follows:
+
+Additional section 263A costs = (8.00% × $1,000,000) + (10.11% × $2,000,000) = $282,200
+
+(*5*) P adds this $282,200 to the $3,000,000 of section 471 costs remaining on hand at year end to calculate its total ending inventory of $3,282,200. The balance of P's additional section 263A costs incurred during 2018, $717,800 ($1,000,000 less $282,200), is taken into account in 2018 as part of P's cost of goods sold.
+
+(C) *Example 3 - LIFO inventory method.*
+
+(*1*) The facts are the same as in *Example 1* of paragraph (c)(3)(vi)(A) of this section, except that P uses a dollar-value LIFO inventory method rather than the FIFO method. P's 2018 LIFO increment is $1,500,000.
+
+(*2*) Under paragraph (c)(3)(iv)(B)(*1*) of this section, to determine the additional section 263A costs allocable to its ending inventory, P multiplies the combined absorption ratio by the $1,500,000 of LIFO increment. Under paragraph (c)(3)(iv)(B)(*2*) of this section, the combined absorption ratio is 9.48% ($284,400 additional section 263A costs allocable to ending inventory, determined on a non-LIFO basis, divided by $3,000,000 of section 471 costs on hand at year end, determined on a non-LIFO basis). Thus, P's additional section 263A costs allocable to its ending inventory are $142,200 ($1,500,000 multiplied by 9.48%). This $142,200 is added to the $1,500,000 to determine a total 2018 LIFO increment of $1,642,200. The balance of P's additional section 263A costs incurred during 2018, $857,800 ($1,000,000 less $142,200), is taken into account in 2018 as part of P's cost of goods sold.
+
+(*3*) In 2019, P sells one-half of the inventory in its 2018 increment. P must include in its cost of goods sold for 2019 the amount of additional section 263A costs relating to this inventory, $71,100 (one-half of the $142,200 additional section 263A costs capitalized in 2018 ending inventory).
+
+(D) *Example 4 - Direct materials-based allocation of mixed service costs.*
+
+(*1*) Taxpayer R computes its capitalizable mixed service costs using the simplified service cost method described in § 1.263A-1(h). During 2018, R incurs $200,000 of capitalizable mixed service costs, computed using the general allocation formula in § 1.263A-1(h). During 2018, R also incurs $8,000,000 of total section 471 costs, including $2,000,000 of direct material costs.
+
+(*2*) Under paragraph (c)(3)(iii)(B) of this section, R determines its capitalizable mixed service costs allocable to pre-production additional section 263A costs based on the proportion of direct material costs in total section 471 costs. R's direct material costs are 25% of total section 471 costs ($2,000,000 of direct material costs incurred during the year divided by $8,000,000 of total section 471 costs incurred during the year). Thus, R allocates $50,000 (25% × $200,000) of mixed service costs to pre-production additional section 263A costs. R includes the remaining $150,000 ($200,000 less $50,000) of capitalizable mixed service costs as production additional section 263A costs.
+
+(E) *Example 5 - Labor-based allocation of mixed service costs.*
+
+(*1*) Taxpayer S computes its capitalizable mixed service costs using the simplified service cost method described in § 1.263A-1(h). During 2018, S incurs $200,000 of capitalizable mixed service costs, computed using the general allocation formula in § 1.263A-1(h). During 2018, S also incurs $10,000,000 of total labor costs (excluding any labor costs included in mixed service costs), including $1,000,000 of labor costs that are pre-production costs as described in paragraph (a)(3)(ii) of this section (excluding any labor costs included in mixed service costs).
+
+(*2*) Under paragraph (c)(3)(iii)(B) of this section, S determines its capitalizable mixed service costs allocable to pre-production additional section 263A costs based on the proportion of labor costs that are pre-production costs in labor costs. S's pre-production labor costs are 10% of labor costs ($1,000,000 of labor costs incurred during the year that are pre-production costs (excluding any labor costs included in mixed service costs), divided by $10,000,000 of total labor costs incurred during the year (excluding any labor costs included in mixed service costs). Thus, S allocates $20,000 (10% × $200,000) of mixed service costs to pre-production additional section 263A costs. S includes the remaining $180,000 ($200,000 less $20,000) of capitalizable mixed service costs as production additional section 263A costs.
+
+(F) *Example 6 - De minimis rule for allocation of mixed service costs.* The facts are the same as in *Example 5* in paragraph (c)(3)(vi)(E) of this section, except that S uses the de minimis rule for mixed service costs in paragraph (c)(3)(iii)(C) of this section. Because 90% or more of S's capitalizable mixed service costs are allocated to production additional section 263A costs, under the de minimis rule, S allocates all $200,000 of capitalizable mixed service costs to production additional section 263A costs. None of the capitalizable mixed service costs are allocated to pre-production additional section 263A costs.
+
+(4) *Modified simplified production method with historic absorption ratio election* - (i) *In general.* This paragraph (c)(4) generally permits taxpayers using the modified simplified production method to elect a historic absorption ratio in determining additional section 263A costs allocable to eligible property remaining on hand at the close of their taxable years. A taxpayer may only make a historic absorption ratio election under this paragraph (c)(4) if it has used the modified simplified production method for three or more consecutive taxable years immediately prior to the year of election and has capitalized additional section 263A costs using an actual pre-production absorption ratio, as defined in paragraph (c)(3)(ii)(B) of this section, and an actual production absorption ratio, as defined in paragraph (c)(3)(ii)(D) of this section, or an actual combined absorption ratio, as defined in paragraph (c)(3)(iv)(B)(*2*) of this section, for its three most recent consecutive taxable years. This method is not available to a taxpayer that is deemed to have zero additional section 263A costs under paragraph (c)(3)(v) of this section. The historic absorption ratio is used in lieu of the actual absorption ratios computed under paragraph (c)(3)(ii) of this section or the actual combined absorption ratio computed under paragraph (c)(3)(iv) and is based on costs capitalized by a taxpayer during its test period. If elected, the historic absorption ratio must be used for each taxable year within the qualifying period described in paragraph (b)(4)(ii)(C) of this section. Except as otherwise provided in this paragraph (c)(4), paragraph (b)(4) of this section applies to the historic absorption ratio election under the modified simplified production method.
+
+(ii) *Operating rules and definitions* - (A) *Pre-production historic absorption ratio*. The pre-production historic absorption ratio is computed as follows:
+
+![](/graphics/er20no18.007.gif)
+
+(*1*) Pre-production additional section 263A costs incurred during the test period are defined as the pre-production additional section 263A costs described in paragraph (c)(3)(ii)(B)(*1*) of this section that the taxpayer incurs during the test period described in paragraph (b)(4)(ii)(B) of this section.
+
+(*2*) Pre-production section 471 costs incurred during the test period are defined as the pre-production section 471 costs described in paragraph (c)(3)(ii)(B)(*2*) of this section that the taxpayer incurs during the test period described in paragraph (b)(4)(ii)(B) of this section.
+
+(B) *Production historic absorption ratio.* The production historic absorption ratio is computed as follows:
+
+![](/graphics/er20no18.008.gif)
+
+(*1*) Production additional section 263A costs incurred during the test period are defined as the production additional section 263A costs described in paragraph (c)(3)(ii)(D)(*1*) of this section that the taxpayer incurs during the test period described in paragraph (b)(4)(ii)(B) of this section.
+
+(*2*) Residual pre-production additional section 263A costs incurred during the test period are defined as the residual pre-production additional section 263A costs described in paragraph (c)(3)(ii)(D)(*2*) of this section that the taxpayer incurs during the test period described in paragraph (b)(4)(ii)(B) of this section.
+
+(*3*) Production section 471 costs incurred during the test period are defined as the production section 471 costs described in paragraph (c)(3)(ii)(D)(*3*) of this section that the taxpayer incurs during the test period described in paragraph (b)(4)(ii)(B) of this section.
+
+(*4*) Direct materials adjustments made during the test period are defined as the direct materials adjustments described in paragraph (c)(3)(ii)(D)(*4*) of this section that the taxpayer incurs during the test period described in paragraph (b)(4)(ii)(B) of this section.
+
+(iii) *LIFO taxpayers making the historic absorption ratio election* - (A) *In general.* Instead of the pre-production and production historic absorption ratios defined in paragraph (c)(4)(ii) of this section, a LIFO taxpayer making the historic absorption ratio election under the modified simplified production method calculates a combined historic absorption ratio based on costs the taxpayer capitalizes during its test period.
+
+(B) *Combined historic absorption ratio.* The combined historic absorption ratio is computed as follows:
+
+![](/graphics/er20no18.009.gif)
+
+(*1*) *Total allocable additional section 263A costs incurred during the test period.* Total allocable additional section 263A costs incurred during the test period are the sum of the total additional section 263A costs allocable to eligible property on hand at year end as described in paragraph (c)(3)(i)(A) of this section, determined on a non-LIFO basis, for all taxable years in the test period.
+
+(*2*) *Total section 471 costs remaining on hand at each year end of the test period.* Total section 471 costs remaining on hand at each year end of the test period are the sum of the total pre-production section 471 costs remaining on hand at year end as described in paragraph (c)(3)(ii)(C) of this section and the total production section 471 costs remaining on hand at year end as described in paragraph (c)(3)(ii)(E) of this section, determined on a non-LIFO basis, for all taxable years in the test period.
+
+(iv) *Extension of qualifying period.* In the first taxable year following the close of each qualifying period (for example, the sixth taxable year following the test period), a taxpayer must compute the actual absorption ratios under paragraph (c)(3) of this section (pre-production and production absorption ratios or, for LIFO taxpayers, the combined absorption ratio). If the actual combined absorption ratio or both the actual pre-production and production absorption ratios, as applicable, computed for this taxable year (the recomputation year) is within one-half of one percentage point, plus or minus, of the corresponding historic absorption ratio or ratios used in determining capitalizable costs for the qualifying period (the previous five taxable years), the qualifying period is extended to include the recomputation year and the following five taxable years, and the taxpayer must continue to use the historic absorption ratio or ratios throughout the extended qualifying period. If, however, the actual combined historic absorption ratio or either the actual pre-production absorption ratio or production absorption ratio, as applicable, is not within one-half of one percentage point, plus or minus, of the corresponding historic absorption ratio, the taxpayer must use the actual combined absorption ratio or ratios beginning with the recomputation year and throughout the updated test period. The taxpayer must resume using the historic absorption ratio or ratios based on the updated test period in the third taxable year following the recomputation year.
+
+(v) *Examples.* The provisions of this paragraph (c)(4) are illustrated by the following examples:
+
+(A) *Example 1 - HAR and FIFO inventory method.*
+
+(*1*) Taxpayer S uses the FIFO method of accounting for inventories valued at cost and for 2021 elects to use the historic absorption ratio with the modified simplified production method. S identifies the following costs incurred during the test period:
+
+|                                                     |2018 |2019 |2020 |
+|-----------------------------------------------------|-----|-----|-----|
+|    Pre-production additional section 263A costs     |$100 |$200 |$300 |
+|      Production additional section 263A costs       | 200 | 350 | 450 |
+|          Pre-production section 471 costs           |2,000|2,500|3,000|
+|            Production section 471 costs             |2,500|3,500|4,000|
+|Residual pre-production additional section 263A costs| 60  | 136 | 220 |
+|            Direct materials adjustments             |2,700|3,200|3,700|
+
+(*2*) Under paragraph (c)(4)(ii)(A) of this section, S computes the pre-production historic absorption ratio as follows:
+
+![](/graphics/er20no18.010.gif)
+
+(*3*) Under paragraph (c)(4)(ii)(B) of this section, S computes the production historic absorption ratio as follows:
+
+![](/graphics/er20no18.011.gif)
+
+(*4*) In 2021, S incurs $10,000 of section 471 costs of which $1,000 pre-production section 471 costs and $2,000 production 471 costs remain in ending inventory. Under the modified simplified production method using a historic absorption ratio, S determines the pre-production additional section 263A costs allocable to its ending inventory by multiplying its pre-production historic absorption ratio (8.00%) by the pre-production section 471 costs remaining on hand at year end ($1,000). Thus, S allocates $80 of pre-production additional section 263A costs to its ending inventory (8.00% × $1,000). S determines the production additional section 263A costs allocable to its ending inventory by multiplying its production historic absorption ratio (7.22%) by the production section 471 costs remaining on hand at year end ($2,000). Thus, S allocates $144 of production additional section 263A costs to its ending inventory (7.22% × $2,000).
+
+(*5*) Under paragraph (c)(4)(i) of this section, S's total additional section 263A costs allocable to ending inventory in 2021 are $224, which is the sum of the allocable pre-production additional section 263A costs ($80) and the allocable production additional section 263A costs ($144). S's ending inventory in 2021 is $3,224, which is the sum of S's additional section 263A costs allocable to ending inventory and S's section 471 costs remaining in ending inventory ($224 + $3,000). The balance of S's additional section 263A costs incurred during 2021 is taken into account in 2021 as part of S's cost of goods sold.
+
+(B) *Example 2 - HAR and LIFO inventory method.* (*1*)(*i*) The facts are the same as in *Example 1* in paragraph (c)(4)(v)(A) of this section, except that S uses a dollar-value LIFO inventory method rather than the FIFO method. S calculates additional section 263A costs incurred during the taxable year and allocable to ending inventory under paragraph (c)(4)(iii) of this section and identifies the following costs incurred during the test period:
+
+|                                                                                            |2018 |2019 |2020 |
+|--------------------------------------------------------------------------------------------|-----|-----|-----|
+|Additional section 263A costs incurred during the taxable year allocable to ending inventory| $90 |$137 |$167 |
+|     Section 471 costs incurred during the taxable year that remain in ending inventory     |1,000|1,400|2,100|
+
+(*ii*) In 2021, the LIFO value of S's increment is $1,500.
+
+(*2*) Under paragraph (c)(4)(iii) of this section, S computes a combined historic absorption ratio as follows:
+
+![](/graphics/er20no18.012.gif)
+
+(*3*) S's additional section 263A costs allocable to its 2021 LIFO increment are $131 ($1,500 beginning LIFO increment × 8.76% combined historic absorption ratio). S adds the $131 to the $1,500 LIFO increment to determine a total 2021 LIFO increment of $1,631.
+
+(d) *Additional simplified methods for producers.* The Commissioner may prescribe additional elective simplified methods by revenue ruling or revenue procedure.
+
+(e) *Cross reference.* See § 1.6001-1(a) regarding the duty of taxpayers to keep such records as are sufficient to establish the amount of gross income, deductions, etc.
+
+(f) *Change in method of accounting* - (1) *In general.* A change in a taxpayer's treatment of additional section 263A costs to comply with paragraph (b)(2)(i)(D) of this section is a change in method of accounting to which the provisions of sections 446 and 481 and the regulations under those sections apply. See § 1.263A-7. For a taxpayer's first taxable year ending on or after August 2, 2005, the taxpayer is granted the consent of the Commissioner to change its method of accounting to comply with paragraph (b)(2)(i)(D) of this section, provided the taxpayer follows the administrative procedures, as modified by paragraphs (e)(2) through (4) of this section, issued under § 1.446-1(e)(3)(ii) for obtaining the Commissioner's automatic consent to a change in accounting method (for further guidance, for example, see Rev. Proc. 2002-9 (2002-1 CB 327), as modified and clarified by Announcement 2002-17 (2002-1 CB 561), modified and amplified by Rev. Proc. 2002-19 (2002-1 CB 696), and amplified, clarified, and modified by Rev. Proc. 2002-54 (2002-2 CB 432), and § 601.601(d)(2)(ii)(*b*) of this chapter). For purposes of Form 3115, “Application for Change in Accounting Method,” the designated number for the automatic accounting method change authorized by this paragraph (e) is “95.” If Form 3115 is revised or renumbered, any reference in this section to that form is treated as a reference to the revised or renumbered form. Alternatively, notwithstanding the provisions of any administrative procedures that preclude a taxpayer from requesting the advance consent of the Commissioner to change a method of accounting that is required to be made pursuant to a published automatic change procedure, for its first taxable year ending on or after August 2, 2005, a taxpayer may request the advance consent of the Commissioner to change its method of accounting to comply with paragraph (b)(2)(i)(D) of this section, provided the taxpayer follows the administrative procedures, as modified by paragraphs (e)(2) through (5) of this section, for obtaining the advance consent of the Commissioner (for further guidance, for example, see Rev. Proc. 97-27 (1997-1 CB 680), as modified and amplified by Rev. Proc. 2002-19 (2002-1 CB 696), as amplified and clarified by Rev. Proc. 2002-54 (2002-2 CB 432), and § 601.601(d)(2)(ii)(*b*) of this chapter). For the taxpayer's second and subsequent taxable years ending on or after August 2, 2005, requests to secure the consent of the Commissioner must be made under the administrative procedures, as modified by paragraphs (e)(3) and (4) of this section, for obtaining the Commissioner's advance consent to a change in accounting method.
 
 (2) *Scope limitations.* Any limitations on obtaining the automatic consent or advance consent of the Commissioner do not apply to a taxpayer seeking to change its method of accounting to comply with paragraph (b)(2)(i)(D) of this section for its first taxable year ending on or after August 2, 2005.
 
@@ -190,8 +439,10 @@ Section 471 costs - $5,000
 
 (5) *Time for requesting change.* Notwithstanding the provisions of § 1.446-1(e)(3)(i) and any contrary administrative procedure, a taxpayer may submit a request for advance consent to change its method of accounting to comply with paragraph (b)(2)(i)D) of this section for its first taxable year ending on or after August 2, 2005, on or before the date that is 30 days after the end of the taxable year for which the change is requested.
 
-(f) *Effective/applicability date.* (1) Paragraphs (b)(2)(i)(D), (e), and (f) of this section apply for taxable years ending on or after August 2, 2005.
+(g) *Effective/applicability date.* (1) Paragraphs (b)(2)(i)(D), (e), and (f) of this section apply for taxable years ending on or after August 2, 2005.
 
 (2) Paragraphs (b)(3)(ii)(C) and (b)(4)(ii)(A)(*4*) of this section apply for taxable years ending on or after January 13, 2014.
 
-[T.D. 8482, 58 FR 42219, Aug. 9, 1993, as amended by 59 FR 3318, 3319, Jan. 21, 1994; T.D. 8584, 59 FR 67197, Dec. 29, 1994; T.D. 9217, 70 FR 44469, Aug. 3, 2005; T.D. 9318, 72 FR 14677, Mar. 29, 2007; T.D. 9652, 79 FR 2097, Jan. 13, 2014]
+(3) Paragraph (c) of this section applies for taxable years beginning on or after November 20, 2018. For any taxable year that both begins before November 20, 2018 and ends after November 20, 2018, the IRS will not challenge return positions consistent with all of paragraphs (c) of this section.
+
+[T.D. 8482, 58 FR 42219, Aug. 9, 1993, as amended by 59 FR 3318, 3319, Jan. 21, 1994; T.D. 8584, 59 FR 67197, Dec. 29, 1994; T.D. 9217, 70 FR 44469, Aug. 3, 2005; T.D. 9318, 72 FR 14677, Mar. 29, 2007; T.D. 9652, 79 FR 2097, Jan. 13, 2014; T.D. 9843, 83 FR 58491, Nov. 20, 2018]
