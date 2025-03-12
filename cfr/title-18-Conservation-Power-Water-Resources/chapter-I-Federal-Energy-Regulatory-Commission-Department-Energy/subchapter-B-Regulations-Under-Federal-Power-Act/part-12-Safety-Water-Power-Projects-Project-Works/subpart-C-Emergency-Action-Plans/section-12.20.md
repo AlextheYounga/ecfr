@@ -1,5 +1,7 @@
 ##### § 12.20 General requirements. #####
 
+Link to an amendment published at 87 FR 1515, Jan. 11, 2022.
+
 (a) Unless provided with a written exemption pursuant to § 12.21, every applicant or licensee must develop and file with the Regional Engineer three copies of an emergency action plan and appendices, verified in accordance with § 12.13.
 
 (b) The emergency action plan must be:

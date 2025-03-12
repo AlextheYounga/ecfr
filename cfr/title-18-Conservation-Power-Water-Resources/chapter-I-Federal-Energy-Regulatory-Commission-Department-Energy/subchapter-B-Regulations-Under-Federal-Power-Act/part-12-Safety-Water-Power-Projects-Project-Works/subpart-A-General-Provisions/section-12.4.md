@@ -1,5 +1,7 @@
 ##### § 12.4 Staff administrative responsibility and supervisory authority. #####
 
+Link to an amendment published at 87 FR 1514, Jan. 11, 2022.
+
 (a) *Administrative responsibility.* The Director of the Office of Energy Projects is responsible for administering the Commission's project safety program and reports directly to the Chairman of the Federal Energy Regulatory Commission.
 
 (b) *Supervisory authority of the Regional Engineer or other authorized representative.* (1) Any water power project and the construction, operation, maintenance, use, repair, or modification of any project works are subject to the inspection and the supervision of the Regional Engineer or any other authorized Commission representative for the purpose of:

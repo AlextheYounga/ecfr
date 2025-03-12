@@ -1,5 +1,7 @@
 ##### § 1008.15 Facts subject to advisory opinions. #####
 
+Link to an amendment published at 87 FR 1369, Jan. 11, 2022.
+
 (a) The OIG will consider requests from a requesting party for advisory opinions regarding the application of specific facts to the subject matters set forth in § 1008.5(a) of this part. The facts must relate to an existing arrangement, or one which the requestor in good faith plans to undertake. The plans may be contingent upon receiving a favorable advisory opinion. The advisory opinion request should contain a complete description of the arrangement that the requestor is undertaking, or plans to undertake.
 
 (b) Requests presenting a general question of interpretation, posing a hypothetical situation, or regarding the activities of third parties do not qualify as advisory opinion requests.

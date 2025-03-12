@@ -1,6 +1,8 @@
 ##### § 12.12 Maintenance of records. #####
 
-(a) *Kinds of records* - 1) *General rule.* Except as provided in paragraph (a)(2) of this section, the applicant or licensee must maintain as permanent project records in addition to those required in part 125 of this chapter, the following information:
+Link to an amendment published at 87 FR 1514, Jan. 11, 2022.
+
+(a) *Kinds of records* - (1) *General rule.* Except as provided in paragraph (a)(2) of this section, the applicant or licensee must maintain as permanent project records in addition to those required in part 125 of this chapter, the following information:
 
 (i) Engineering and geological data relating to design, construction, maintenance, repair, or modification of the project, including design memoranda and drawings, laboratory and other testing reports, geologic data (such as maps, sections, or logs of exploratory borings or trenches, foundation treatment, and excavation), plans and specifications, inspection and quality control reports, *as built* construction drawings, designers' operating criteria, photographs, and any other data necessary to demonstrate that construction, maintenance, repair, or modification of the project has been performed in accordance with plans and specifications;
 

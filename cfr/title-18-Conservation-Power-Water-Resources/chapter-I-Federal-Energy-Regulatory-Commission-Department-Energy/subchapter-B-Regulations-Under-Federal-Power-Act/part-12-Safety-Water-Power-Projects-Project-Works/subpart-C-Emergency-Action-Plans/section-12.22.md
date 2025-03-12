@@ -1,5 +1,7 @@
 ##### § 12.22 Contents of emergency action plan. #####
 
+Link to an amendment published at 87 FR 1515, Jan. 11, 2022.
+
 (a) *Contents* - (1) *The plan itself.* An emergency action plan must conform with the guidelines established, and from time to time revised, by the Director of the Office of Energy Projects (available from the division of Inspections or the Regional Engineer) to provide:
 
 (i) Instructions to project operators and attendants and other responsible personnel about the actions they are to take during a project emergency;

@@ -1,5 +1,7 @@
 ##### § 12.3 Definitions. #####
 
+Link to an amendment published at 87 FR 1513, Jan. 11, 2022.
+
 (a) *General rule.* For purposes of this part, terms defined in section 3 of the Federal Power Act, 16 U.S.C. 796, have the same meaning as they have under the Act.
 
 (b) *Definitions.* The following definitions apply for the purposes of this part:

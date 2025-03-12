@@ -1,5 +1,7 @@
 ##### § 12.24 Review and updating of plans. #####
 
+Link to an amendment published at 87 FR 1515, Jan. 11, 2022.
+
 (a) The emergency action plan must be continually updated to reflect any changes in the names or titles of project operators and attendants and other personnel with specified responsibilities for actions in an emergency and any changes in names of persons to call, telephone numbers, radio call signals, or other information critical to providing notification to affected persons, Federal, state, and local agencies, and medical units.
 
 (b) An applicant or licensee has continuing responsibility to review the adequacy of the emergency action plan in light of any significant changes in upstream or downstream circumstances which might affect water flows or the location or extent of the areas, persons, or property that might be harmed in a project emergency.

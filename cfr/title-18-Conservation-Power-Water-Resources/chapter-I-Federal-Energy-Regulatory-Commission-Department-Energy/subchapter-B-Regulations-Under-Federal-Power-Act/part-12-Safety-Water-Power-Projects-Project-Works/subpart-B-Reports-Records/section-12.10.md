@@ -1,6 +1,8 @@
 ##### § 12.10 Reporting safety-related incidents. #####
 
-(a) *Conditions affecting the safety of a project or its works* - 1) *Oral reports.* An applicant or licensee must report by telephone to the Regional Engineer any condition affecting the safety of a project or projects works, as defined in § 12.3(b)(4). The initial oral report must be made as soon as practicable after that condition is discovered, without unduly interfering with any necessary or appropriate emergency repair, alarm, or other emergency action procedure.
+Link to an amendment published at 87 FR 1514, Jan. 11, 2022.
+
+(a) *Conditions affecting the safety of a project or its works* - (1) *Oral reports.* An applicant or licensee must report by telephone to the Regional Engineer any condition affecting the safety of a project or projects works, as defined in § 12.3(b)(4). The initial oral report must be made as soon as practicable after that condition is discovered, without unduly interfering with any necessary or appropriate emergency repair, alarm, or other emergency action procedure.
 
 (2) *Written reports.* Following the initial oral report required in paragraph (a)(1), the applicant or licensee must submit to the Regional Engineer a written report on the condition affecting the safety of the project or project works verified in accordance with § 12.13. The written report must be submitted within the time specified by the Regional Engineer and must contain any information the Regional Engineer directs, including:
 
