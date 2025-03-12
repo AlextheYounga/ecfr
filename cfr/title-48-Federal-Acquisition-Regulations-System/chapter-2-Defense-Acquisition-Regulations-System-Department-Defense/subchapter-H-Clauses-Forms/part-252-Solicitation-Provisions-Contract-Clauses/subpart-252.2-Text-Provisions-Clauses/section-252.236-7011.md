@@ -1,8 +1,8 @@
-##### 252.236-7011 Overseas architect-engineer services - Restriction to United States firms. #####
+##### 252.236-7011 Overseas architect-engineer services—Restriction to United States firms. #####
 
-As prescribed in 236.609-70(b), use the following provision:
+As prescribed in 236.609-70, use the following provision:
 
-Overseas Architect-Engineer Services - Restriction to United States Firms (JAN 1997)
+Overseas Architect-Engineer Services—Restriction to United States Firms (JAN 1997)
 
 (a) *Definition. United States firm,* as used in this provision, means a firm incorporated in the United States that complies with the following:
 
@@ -16,4 +16,4 @@ Overseas Architect-Engineer Services - Restriction to United States Firms (JAN 1
 
 (c) *Status.* The offeror confirms, by submission of its offer, that it is a United States firm or a joint venture of United States and host nation firms.
 
-(End of provision)[62 FR 2858, Jan. 17, 1997]
+(End of provision)[62 FR 2858, Jan. 17, 1997, as amended at 83 FR 54681, Oct. 31, 2018]

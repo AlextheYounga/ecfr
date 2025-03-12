@@ -1,5 +1,5 @@
 ##### 832.202-1 Policy. #####
 
-Link to an amendment published at 83 FR 49306, Oct. 1, 2018.
+(d) HCAs shall report, no later than December 31st of each calendar year, to the Senior Procurement Executive (SPE) and the DSPE, on the number of contracts for commercial items with unusual contract financing or with commercial interim or advance payments approved for the previous fiscal year. The report shall include the contract number and amount, the amount of the unusual contract financing or with commercial interim or advance payments approved, and the kind and amount of security obtained for the advance.
 
-As provided in FAR 32.202-1(d), contracting officers must obtain the approval of the DSPE before awarding a contract that includes unusual contract financing. The contracting officer must fully support the request with the reasons why the proposed unusual contract financing is in the best interest of the Government. In addition, contracting officers must not use commercial interim payment or commercial advance payment terms in solicitations or contracts without the approval of the DSPE.
+[83 FR 49306, Oct. 1, 2018]

@@ -1,14 +1,6 @@
-##### 236.609-70 Additional provision and clause. #####
+##### 236.609-70 Additional provision. #####
 
-(a)(1) Use the clause at 252.236-7009, Option for Supervision and Inspection Services, in solicitations and contracts for architect-engineer services when -
-
-(i) The contract will be fixed price; and
-
-(ii) Supervision and inspection services by the architect-engineer may be required during construction.
-
-(2) Include the scope of such services in appendix A of the contract.
-
-(b) Use the provision at 252.236-7011, Overseas Architect-Engineer Services - Restriction to United States Firms, in solicitations for architect-engineer contracts that are -
+Use the provision at 252.236-7011, Overseas Architect-Engineer Services—Restriction to United States Firms, in solicitations for architect-engineer contracts that are—
 
 (1) Funded with military construction appropriations;
 
@@ -16,4 +8,4 @@
 
 (3) To be performed in Japan, in any North Atlantic Treaty Organization member country, or in countries bordering the Arabian Gulf.
 
-[56 FR 36421, July 31, 1991, as amended at 62 FR 2858, Jan. 17, 1997; 63 FR 11539, Mar. 9, 1998; 76 FR 58156, Sept. 20, 2011; 79 FR 44316, July 31, 2014; 80 FR 15911, Mar. 26, 2015]
+[56 FR 36421, July 31, 1991, as amended at 62 FR 2858, Jan. 17, 1997; 63 FR 11539, Mar. 9, 1998; 76 FR 58156, Sept. 20, 2011; 79 FR 44316, July 31, 2014; 80 FR 15911, Mar. 26, 2015; 83 FR 54681, Oct. 31, 2018]

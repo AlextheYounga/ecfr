@@ -1,5 +1,5 @@
 ##### 832.006-1 General. #####
 
-Link to an amendment published at 83 FR 49305, Oct. 1, 2018.
+(b) The Senior Procurement Executive (SPE) is authorized to make determinations that there is substantial evidence that contractors' requests for advance, partial, or progress payments are based on fraud and may direct that further payments to the contractors be reduced or suspended, as provided in FAR 32.006.
 
-The SPE is authorized to make determinations that there is substantial evidence that contractors' requests for advance, partial, or progress payments are based on fraud and may direct that further payments to the contractors be reduced or suspended, as provided in FAR 32.006. This authority may not be redelegated.
+[83 FR 49305, Oct. 1, 2018]

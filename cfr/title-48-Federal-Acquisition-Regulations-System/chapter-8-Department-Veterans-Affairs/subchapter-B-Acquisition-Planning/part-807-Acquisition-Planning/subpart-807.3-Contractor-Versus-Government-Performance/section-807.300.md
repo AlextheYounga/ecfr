@@ -1,0 +1,3 @@
+##### 807.300 Scope of subpart. #####
+
+This subpart prescribes the use of VAAR clause at 852.207-70, Report of employment under commercial activities, when contracting for commercial services under Office of Management and Budget (OMB) Circular A-76 or VA's cost comparison process. The cost comparison process is used by VA to determine whether to use commercial or Government resources to provide commercial services.

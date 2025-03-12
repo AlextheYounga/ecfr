@@ -1,15 +1,15 @@
 ##### 852.211-72 Technical industry standards. #####
 
-Link to an amendment published at 83 FR 49307, Oct. 1, 2018.
+As prescribed in 811.204-70, insert the following clause:
 
-As prescribed in 811.103-70, insert the following provision:
+Technical Industry Standards (Nov 2018)
 
-Technical Industry Standards (JAN 2008)
+(a) The Contractor shall conform to the standards established by:\_\_\_ [*Contracting Officer: Insert name of organization establishing the requirement, reference title, cite and date, e.g., United States Department of Agriculture (USDA), Institutional Meat Purchase Specifications (IMPS), Series 100, Beef products, Jan 2010*] as to [*Contracting Officer: Insert item and CLIN, e.g., CLIN 0005 Ground Beef*].
 
-The supplies or equipment required by this invitation for bid or request for proposal must conform to the standards of the [ ]\* and [ ]\* as to [ ]\*\*. The successful bidder or offeror will be required to submit proof that the item(s) he/she furnishes conforms to this requirement. This proof may be in the form of a label or seal affixed to the equipment or supplies, warranting that they have been tested in accordance with and conform to the specified standards. Proof may also be furnished in the form of a certificate from one of the above listed organizations certifying that the item(s) furnished have been tested in accordance with and conform to the specified standards.
+(b) The Contractor shall submit proof of conformance to the standard. This proof may be a label or seal affixed to the equipment or supplies, warranting that the item(s) have been tested in accordance with the standards and meet the contract requirement. Proof may also be furnished by the organization listed above certifying that the item(s) furnished have been tested in accordance with and conform to the specified standards.
 
-*\* Insert name(s) of organization(s), the standards of which are pertinent to the Government's needs.*
+(c) Offerors may obtain the standards cited in this provision by submitting a request, including the solicitation number, title and number of the publication to: [Organization]\_\_\_\_\_ [Mail or email address] \_\_\_\_\_.
 
-*\*\* Insert pertinent standards, e.g., fire and casualty, safety and fire protection.*
+(d) The offeror shall contact the Contracting Officer if response is not received within two weeks of the request.
 
-(End of provision)
+(End of clause)[83 FR 49307, Oct. 1, 2018]
