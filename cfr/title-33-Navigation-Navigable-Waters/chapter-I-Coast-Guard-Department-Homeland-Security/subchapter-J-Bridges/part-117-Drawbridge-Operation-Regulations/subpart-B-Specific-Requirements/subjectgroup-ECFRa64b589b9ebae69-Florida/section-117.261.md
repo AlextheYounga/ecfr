@@ -1,7 +1,5 @@
 ##### § 117.261 Atlantic Intracoastal Waterway from St. Marys River to Key Largo. #####
 
-Link to an amendment published at 82 FR 38602, Aug. 15, 2017.
-
 (a) *General.* Public vessels of the United States and tugs with tows must be passed through the drawspan of each drawbridge listed in this section at anytime.
 
 (b) *McCormick Bridge, mile 747.5 at Jacksonville Beach.* The draw shall open on signal; except that during April, May, October and November from 7 a.m. to 9 a.m. and 4:30 p.m. to 6:30 p.m. Monday through Friday except Federal holidays, the draw need open only on the hour and half hour. During April, May, October and November from 12 noon to 6 p.m. Saturdays, Sundays and Federal holidays, the draw need open only on the hour and half hour.
@@ -14,7 +12,7 @@ Link to an amendment published at 82 FR 38602, Aug. 15, 2017.
 
 (g) *Memorial bridge, mile 830.6 at Daytona Beach.* The draw shall open on signal; except that, from 7:45 a.m. to 8:45 a.m. and 4:45 p.m. to 5:45 p.m. Monday through Saturday except Federal holidays, the draw need open only at 8:15 a.m. and 5:15 p.m.
 
-(h) *Coronado Beach bridge (SR 44), mile 845 at New Smyrna Beach.* The Coronado Beach bridge (SR 44), mile 845, shall open on signal, except that from 7 a.m. until 7 p.m., each day of the week, the draw need only open on the hour, twenty minutes past the hour and forty minutes past the hour.
+(h) *George Musson/Coronado Beach (SR 44) bridge, mile 845 at New Smyrna Beach.* The George Musson/Coronado Beach (SR 44) bridge, mile 845, shall open on signal, except that from 7 a.m. to 7 p.m., the draw shall open on the hour and half-hour, seven days a week.
 
 (i) [Reserved]
 

@@ -1,5 +1,7 @@
 ##### § 319.37-8 Growing media. #####
 
+Link to an amendment published at 82 FR 43157, September 14, 2017.
+
 (a) Any restricted article at the time of importation or offer for importation into the United States shall be free of sand, soil, earth, and other growing media, except as provided in paragraph (b), (c), (d) or (e) of this section.
 
 (b)(1) A restricted article from Canada may be imported in any growing medium, except as restricted in paragraph (b)(2) of this section.
