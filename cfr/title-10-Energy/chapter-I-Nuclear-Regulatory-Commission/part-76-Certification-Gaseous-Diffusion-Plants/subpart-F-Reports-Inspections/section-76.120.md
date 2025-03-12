@@ -1,8 +1,6 @@
 ##### § 76.120 Reporting requirements. #####
 
-(a) *Immediate report.* The Corporation shall notify the NRC Headquarters Operations Center3 by telephone at the numbers specified in appendix A to part 73 of this chapter within 1 hour after discovery of:
-
-3 The commercial telephone number for the NRC Operations Center is (301) 816-5100 or (301) 951-0550, FAX (301) 816-5151.
+(a) *Immediate report.* The Corporation shall notify the NRC Headquarters Operations Center by telephone at the numbers specified in appendix A to part 73 of this chapter within 1 hour after discovery of:
 
 (1) A criticality event;
 

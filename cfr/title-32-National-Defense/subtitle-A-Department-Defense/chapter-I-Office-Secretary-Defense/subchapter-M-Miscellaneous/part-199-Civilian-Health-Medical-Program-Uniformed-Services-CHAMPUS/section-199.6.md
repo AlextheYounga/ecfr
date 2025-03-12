@@ -1,5 +1,7 @@
 ##### § 199.6 TRICARE - authorized providers. #####
 
+Link to an amendment published at 85 FR 73196, Nov. 17, 2020.
+
 (a) *General.* This section sets forth general policies and procedures that are the basis for the CHAMPUS cost-sharing of medical services and supplies provided by institutions, individuals, or other types of providers. Providers seeking payment from the Federal Government through programs such as CHAMPUS have a duty to familiarize themselves with, and comply with, the program requirements.
 
 (1) *Listing of provider does not guarantee payment of benefits.* The fact that a type of provider is listed in this section is not to be construed to mean that CHAMPUS will automatically pay a claim for services or supplies provided by such a provider. The provider who actually furnishes the service(s) must, in fact, meet all licensing and other requirements established by this part to be an authorized provider; the provider must not be the subject of sanction under § 199.9; and, cost-sharing of the services must not otherwise be prohibited by this part. In addition, the patient must in fact be an eligible beneficiary and the services or supplies billed must be authorized and medically necessary, regardless of the standing of the provider.

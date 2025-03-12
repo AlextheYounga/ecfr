@@ -152,4 +152,6 @@ For example, wiring embedded in brick, metal conduit, cinder blocks, or sheet ro
 
 (qq) Emergency Alert System (EAS). The EAS is composed of broadcast networks; cable networks and program suppliers; AM, FM and TV broadcast stations; Low Power TV (LPTV) stations; cable systems and wireless cable systems; and other entities and industries operating on an organized basis during emergencies at the National, State, or local levels.
 
+(rr) Channel Slates. A written notice that appears on screen in place of a dropped video feed.
+
 [37 FR 3278, Feb. 12, 1972]Editorial Note:For Federal Register citations affecting § 76.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,5 +1,7 @@
 ##### § 64.6301 Caller ID authentication. #####
 
+Link to an amendment published at 85 FR 73394, Nov. 17, 2020.
+
 (a) *STIR/SHAKEN Implementation by Voice Service Providers.* Not later than June 30, 2021, a voice service provider shall fully implement the STIR/SHAKEN authentication framework in its internet Protocol networks. To fulfill this obligation, a voice service provider shall:
 
 (1) Authenticate and verify caller identification information for all SIP calls that exclusively transit its own network;

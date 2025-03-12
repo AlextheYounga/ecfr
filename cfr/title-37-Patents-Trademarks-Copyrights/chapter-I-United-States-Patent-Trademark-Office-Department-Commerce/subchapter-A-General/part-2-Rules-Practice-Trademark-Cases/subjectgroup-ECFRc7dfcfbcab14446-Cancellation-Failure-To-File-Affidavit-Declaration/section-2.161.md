@@ -1,5 +1,7 @@
 ##### § 2.161 Requirements for a complete affidavit or declaration of continued use or excusable nonuse. #####
 
+Link to an amendment published at 85 FR 73216, Nov. 17, 2020.
+
 A complete affidavit or declaration under section 8 of the Act must:
 
 (a) Be filed by the owner within the period set forth in § 2.160(a);

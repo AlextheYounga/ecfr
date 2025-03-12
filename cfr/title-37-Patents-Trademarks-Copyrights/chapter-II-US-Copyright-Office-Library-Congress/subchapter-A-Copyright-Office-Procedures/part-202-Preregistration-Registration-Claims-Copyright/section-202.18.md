@@ -1,5 +1,7 @@
 ##### § 202.18 Access to electronic works. #####
 
+Link to an amendment published at 85 FR 71837, Nov. 12, 2020.
+
 (a) Access to electronic works received under § 202.4(e) will be available only to authorized users at Library of Congress premises in accordance with the policies listed below. Library staff may access such content off-site as part of their assigned duties via a secure connection.
 
 (b) Access to each individual electronic work received under § 202.4(e) will be limited, at any one time, to two Library of Congress authorized users via a secure server over a secure network that serves Library of Congress premises.

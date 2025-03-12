@@ -1,5 +1,7 @@
 ##### § 2.114 Answer. #####
 
+Link to an amendment published at 85 FR 73215, Nov. 17, 2020.
+
 (a) If no answer is filed within the time initially set, or as may later be reset by the Board, the petition may be decided as in case of default. The failure to file a timely answer tolls all deadlines, including the discovery conference, until the issue of default is resolved.
 
 (b)(1) An answer must be filed through ESTTA. In the event that ESTTA is unavailable due to technical problems, or when extraordinary circumstances are present, an answer may be filed in paper form. An answer filed in paper form must be accompanied by a Petition to the Director under § 2.146, with the fees therefor and the showing required under this paragraph (b).

@@ -1,6 +1,6 @@
 ##### § 76.1600 Electronic delivery of notices. #####
 
-(a) Written information provided by cable operators to subscribers or customers pursuant to §§ 76.1601, 76.1602, 76.1603, 76.1604, 76.1618, and 76.1620 of this Subpart T, as well as subscriber privacy notifications required by cable operators, satellite providers, and open video systems pursuant to sections 631, 338(i), and 653 of the Communications Act, may be delivered electronically by email to any subscriber who has not opted out of electronic delivery under paragraph (a)(3) of this section if the entity:
+(a) Except as provided in § 76.1603 for changes that occur due to circumstances outside a cable operator's control, which also may be provided as set forth in 76.1603(b), written information provided by cable operators to subscribers or customers pursuant to §§ 76.1601, 76.1602, 76.1603, 76.1604, 76.1618, and 76.1620 of this Subpart T, as well as subscriber privacy notifications required by cable operators, satellite providers, and open video systems pursuant to sections 631, 338(i), and 653 of the Communications Act, may be delivered electronically by email to any subscriber who has not opted out of electronic delivery under paragraph (a)(3) of this section if the entity:
 
 (1) Sends the notice to the subscriber's or customer's verified email address;
 
@@ -28,4 +28,4 @@
 
 (e) After July 31, 2020, written information provided by cable operators to broadcast stations pursuant to §§ 76.64(k), 76.1601, 76.1607, 76.1608, 76.1609, and 76.1617 must be delivered electronically to full-power and Class A television stations via email to the email address for carriage-related questions that the station lists in its public file in accordance with §§ 73.3526 and 73.3527 of this title, or in the case of low power television stations and noncommercial educational translator stations that are entitled to such notices, to the licensee's email address (not a contact representative's email address, if different from the licensee's email address) as displayed publicly in the Licensing and Management System (LMS) or the primary station's carriage-related email address if the noncommercial educational translator station does not have its own email address listed in LMS.
 
-[83 FR 66157, Dec. 26, 2019, as amended at 85 FR 16005, Mar. 20, 2020]
+[83 FR 66157, Dec. 26, 2019, as amended at 85 FR 16005, Mar. 20, 2020; 85 FR 71854, Nov. 12, 2020]

@@ -1,5 +1,7 @@
 ##### § 92.31 Region-specific regulations. #####
 
+Link to an amendment published at 85 FR 73233, Nov. 17, 2020.
+
 The season dates for the eligible subsistence-harvest areas are as follows:
 
 (a) *Aleutian/Pribilof Islands region.* (1) Northern Unit (Pribilof Islands):
