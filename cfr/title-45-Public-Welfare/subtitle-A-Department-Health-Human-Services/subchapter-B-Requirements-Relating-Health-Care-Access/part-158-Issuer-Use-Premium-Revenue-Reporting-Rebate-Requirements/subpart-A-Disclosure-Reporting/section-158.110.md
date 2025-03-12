@@ -1,5 +1,7 @@
 ##### § 158.110 Reporting requirements related to premiums and expenditures. #####
 
+Link to an amendment published at 85 FR 29262, May 14, 2020.
+
 (a) *General requirements.* For each MLR reporting year, an issuer must submit to the Secretary a report which complies with the requirements of this part, concerning premium revenue and expenses related to the group and individual health insurance coverage that it issued.
 
 (b) *Timing and form of report.* The report for each of the 2011, 2012, and 2013 MLR reporting years must be submitted to the Secretary by June 1 of the year following the end of an MLR reporting year, on a form and in the manner prescribed by the Secretary. Beginning with the 2014 MLR reporting year, the report for each MLR reporting year must be submitted to the Secretary by July 31 of the year following the end of an MLR reporting year, on a form and in the manner prescribed by the Secretary.

@@ -1,5 +1,7 @@
 ##### § 155.430 Termination of Exchange enrollment or coverage. #####
 
+Link to an amendment published at 85 FR 29260, May 14, 2020.
+
 (a) *General requirements.* The Exchange must determine the form and manner in which enrollment in a QHP through the Exchange may be terminated.
 
 (b) *Termination events* - (1) *Enrollee-initiated terminations.* (i) The Exchange must permit an enrollee to terminate his or her coverage or enrollment in a QHP through the Exchange, including as a result of the enrollee obtaining other minimum essential coverage. To the extent the enrollee has the right to terminate the coverage under applicable State laws, including “free look” cancellation laws, the enrollee may do so, in accordance with such laws.

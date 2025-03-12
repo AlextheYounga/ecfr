@@ -1,6 +1,6 @@
 ##### § 20.2053-6 Deduction for taxes. #####
 
-(a) *In general* - (1) Taxes are deductible in computing a decedent's gross estate -
+(a) *In general.* (1) Taxes are deductible in computing a decedent's gross estate—
 
 (i) Only as claims against the estate (except to the extent that excise taxes may be allowable as administration expenses);
 
@@ -12,7 +12,7 @@
 
 (b) *Property taxes.* Property taxes are not deductible unless they accrued before the decedent's death. However, they are not deductible merely because they have accrued in an accounting sense. Property taxes in order to be deductible must be an enforceable obligation of the decedent at the time of his death.
 
-(c) *Death taxes* - (1) For the estates of decedents dying on or before December 31, 2004, no estate, succession, legacy or inheritance tax payable by reason of the decedent's death is deductible, except as provided in §§ 20.2053-9 and 20.2053-10 with respect to certain state and foreign death taxes on transfers for charitable, etc., uses. However, see sections 2011 and 2014 and the corresponding regulations with respect to credits for death taxes.
+(c) *Death taxes.* (1) For the estates of decedents dying on or before December 31, 2004, no estate, succession, legacy or inheritance tax payable by reason of the decedent's death is deductible, except as provided in §§ 20.2053-9 and 20.2053-10 with respect to certain state and foreign death taxes on transfers for charitable, etc., uses. However, see sections 2011 and 2014 and the corresponding regulations with respect to credits for death taxes.
 
 (2) For the estates of decedents dying after December 31, 2004, see section 2058 to determine the deductibility of state death taxes.
 
@@ -21,8 +21,7 @@
 (e) *Excise taxes.* Excise taxes incurred in selling property of a decedent's estate are deductible as an expense of administration if the sale is necessary in order to (1) pay the decedent's debts, expenses of administration, or taxes, (2) preserve the estate, or (3) effect distribution. Excise taxes incurred in distributing property of the estate in kind are also deductible.
 
 (f) *Income taxes.* Unpaid income taxes are deductible if they are on income property includible in an income tax return of the decedent for a period before his death. Taxes on income received after the decedent's death are not deductible. If income received by a decedent during his lifetime is included in a joint income tax return filed by the decedent and his spouse, or by the decedent's estate and his surviving spouse, the portion of the joint liability for the period covered by the return for which a deduction will be allowed is the amount for which the decedent's estate would be liable under local law, as between the decedent and his spouse, after enforcement of any effective right of reimbursement or contribution. In the absence of evidence to the contrary, the deductible amount is presumed to be an amount bearing the same ratio to the total joint tax liability for the period covered by the return that the amount of income tax for which the decedent would have been liable if he had filed a separate return for that period bears to the total of the amounts for which the decedent and his spouse would have been liable if they had both filed separate returns for that period. Thus, in the absence of evidence to the contrary, the deductible amount equals: Decedent's separate tax ÷ Both separate taxes × Joint tax.
-
-However, the deduction cannot in any event exceed the lesser of -
+However, the deduction cannot in any event exceed the lesser of—
 
 (1) The decedent's liability for the period (as determined in this paragraph) reduced by the amounts already contributed by the decedent toward payment of the joint liability, or
 

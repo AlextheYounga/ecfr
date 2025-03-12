@@ -1,5 +1,7 @@
 ##### § 156.130 Cost-sharing requirements. #####
 
+Link to an amendment published at 85 FR 29261, May 14, 2020.
+
 (a) *Annual limitation on cost sharing.* (1) For a plan year beginning in the calendar year 2014, cost sharing may not exceed the following:
 
 (i) For self-only coverage - the annual dollar limit as described in section 223(c)(2)(A)(ii)(I) of the Internal Revenue Code of 1986 as amended, for self-only coverage that that is in effect for 2014; or

@@ -1,7 +1,5 @@
 ##### § 622.34 Seasonal and area closures designed to protect Gulf reef fish. #####
 
-Link to an amendment published at 85 FR 20613, Apr. 14, 2020.
-
 (a) *Closure provisions applicable to the Madison and Swanson sites and Steamboat Lumps, and the Edges* - (1) *Descriptions of Areas.* (i) The Madison and Swanson sites are bounded by rhumb lines connecting, in order, the following points:
 
 |Point|North lat.|West long.|
@@ -53,42 +51,44 @@ Link to an amendment published at 85 FR 20613, Apr. 14, 2020.
 
 (c) *Seasonal closure of the recreational sector for greater amberjack.* The recreational sector for greater amberjack in or from the Gulf EEZ is closed from January 1 through April 30, June 1 through July 31, and November 1 through December 31, each year. During the closure, the bag and possession limit for greater amberjack in or from the Gulf EEZ is zero.
 
-(d) *Seasonal closure of the recreational sector for shallow-water grouper (SWG).* The recreational sector for SWG, in or from the Gulf EEZ, is closed each year from February 1 through March 31, in the portion of the Gulf EEZ seaward of rhumb lines connecting, in order, the points in the following table. During the closure, the bag and possession limit for SWG in or from the Gulf EEZ seaward of the following rhumb lines is zero.
+(d) *Seasonal closure of the recreational sector for shallow-water grouper (SWG).* The recreational sector for SWG in or from the Gulf EEZ is closed each year from February 1 through March 31 in the portion of the Gulf EEZ seaward of rhumb lines connecting the following points in order. During the closure, the bag and possession limits for SWG in or from the Gulf EEZ seaward of the following rhumb lines are zero.
 
-|Point|                   North latitude                   |West longitude|
-|-----|----------------------------------------------------|--------------|
-|  1  |                      24°48.0′                      |   82°48.0′   |
-|  2  |                      25°07.5′                      |   82°34.0′   |
-|  3  |                      26°26.0′                      |   82°59.0′   |
-|  4  |                      27°30.0′                      |   83°21.5′   |
-|  5  |                      28°10.0′                      |   83°45.0′   |
-|  6  |                      28°11.0′                      |   84°00.0′   |
-|  7  |                      28°11.0′                      |   84°07.0′   |
-|  8  |                      28°26.6′                      |   84°24.8′   |
-|  9  |                      28°42.5′                      |   84°24.8′   |
-| 10  |                      29°05.0′                      |   84°47.0′   |
-| 11  |                      29°02.5′                      |   85°09.0′   |
-| 12  |                      29°21.0′                      |   85°30.0′   |
-| 13  |                      29°27.9′                      |   85°51.7′   |
-| 14  |                      29°45.8′                      |   85°51.0′   |
-| 15  |                      30°05.6′                      |   86°18.5′   |
-| 16  |                      30°07.5′                      |   86°56.5′   |
-| 17  |                      29°43.9′                      |   87°33.8′   |
-| 18  |                      29°43.0′                      |   88°18.5′   |
-| 19  |At State/EEZ line, follow State/EEZ line to point 20|   88°56.0′   |
-| 20  |                 At State/EEZ line                  |   89°28.4′   |
-| 21  |                      29°02.0′                      |   89°45.5′   |
-| 22  |                      28°32.7′                      |   90°21.5′   |
-| 23  |                      28°24.8′                      |   90°52.7′   |
-| 24  |                      28°42.3′                      |   92°14.4′   |
-| 25  |                      28°34.2′                      |   92°30.4′   |
-| 26  |                      28°27.6′                      |   95°00.0′   |
-| 27  |                      28°20.0′                      |   95°06.9′   |
-| 28  |                      28°02.2′                      |   96°11.1′   |
-| 29  |                      27°46.5′                      |   96°38.1′   |
-| 30  |                      27°15.0′                      |   97°00.0′   |
-| 31  |                      26°45.5′                      |   97°01.4′   |
-| 32  |                       At EEZ                       |   96°51.0′   |
+Table 4 to Paragraph (d)
+
+|Point|  North lat.   |                                                 West long.                                                  |
+|-----|---------------|-------------------------------------------------------------------------------------------------------------|
+|  1  |   24°48.0′    |                                                  82°48.0′                                                   |
+|  2  |   25°07.5′    |                                                  82°34.0′                                                   |
+|  3  |   26°26.0′    |                                                  82°59.0′                                                   |
+|  4  |   27°30.0′    |                                                  83°21.5′                                                   |
+|  5  |   28°10.0′    |                                                  83°45.0′                                                   |
+|  6  |   28°11.0′    |                                                  84°00.0′                                                   |
+|  7  |   28°11.0′    |                                                  84°07.0′                                                   |
+|  8  |   28°26.6′    |                                                  84°24.8′                                                   |
+|  9  |   28°42.5′    |                                                  84°24.8′                                                   |
+| 10  |   29°05.0′    |                                                  84°47.0′                                                   |
+| 11  |   29°02.5′    |                                                  85°09.0′                                                   |
+| 12  |   29°21.0′    |                                                  85°30.0′                                                   |
+| 13  |   29°27.9′    |                                                  85°51.7′                                                   |
+| 14  |   29°45.8′    |                                                  85°51.0′                                                   |
+| 15  |   30°05.6′    |                                                  86°18.5′                                                   |
+| 16  |   30°07.5′    |                                                  86°56.5′                                                   |
+| 17  |   29°43.9′    |                                                  87°33.8′                                                   |
+| 18  |   29°43.0′    |                                                  88°18.5′                                                   |
+| 19  |   29°18.9′    |88°50.7′ at State and Federal Reef Fish Management Boundary, follow Reef Fish Management Boundary to point 20|
+| 20  |   28°58.98′   |                         89°35.1′ at State and Federal Reef Fish Management Boundary                         |
+| 21  |   29°02.0′    |                                                  89°45.5′                                                   |
+| 22  |   28°32.7′    |                                                  90°21.5′                                                   |
+| 23  |   28°24.8′    |                                                  90°52.7′                                                   |
+| 24  |   28°42.3′    |                                                  92°14.4′                                                   |
+| 25  |   28°34.2′    |                                                  92°30.4′                                                   |
+| 26  |   28°27.6′    |                                                  95°00.0′                                                   |
+| 27  |   28°20.0′    |                                                  95°06.9′                                                   |
+| 28  |   28°02.2′    |                                                  96°11.1′                                                   |
+| 29  |   27°46.5′    |                                                  96°38.1′                                                   |
+| 30  |   27°15.0′    |                                                  97°00.0′                                                   |
+| 31  |   26°45.5′    |                                                  97°01.4′                                                   |
+| 32  |At EEZ boundary|                                                  96°51.0′                                                   |
 
 (e) *Seasonal closure of the recreational sector for gag.* The recreational sector for gag, in or from the Gulf EEZ, is closed from January 1 through May 31. During the closure, the bag and possession limits for gag in or from the Gulf EEZ are zero.
 
@@ -96,4 +96,4 @@ Link to an amendment published at 85 FR 20613, Apr. 14, 2020.
 
 (g) *Recreational sector for hogfish in the Gulf EEZ south of 25°09′ N. lat. off the west coast of Florida.* See § 622.183(b)(4) for the applicable seasonal closures.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 27087, May 9, 2013; 78 FR 33261, June 4, 2013; 81 FR 24039, Apr. 25, 2016; 82 FR 34580, July 25, 2017; 82 FR 59525, Dec. 15, 2017; 82 FR 61487, Dec. 28, 2017; 83 FR 13428, Mar. 29, 2018; 85 FR 6823, Feb. 6, 2020]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 27087, May 9, 2013; 78 FR 33261, June 4, 2013; 81 FR 24039, Apr. 25, 2016; 82 FR 34580, July 25, 2017; 82 FR 59525, Dec. 15, 2017; 82 FR 61487, Dec. 28, 2017; 83 FR 13428, Mar. 29, 2018; 85 FR 6823, Feb. 6, 2020; 85 FR 20613, Apr. 14, 2020]

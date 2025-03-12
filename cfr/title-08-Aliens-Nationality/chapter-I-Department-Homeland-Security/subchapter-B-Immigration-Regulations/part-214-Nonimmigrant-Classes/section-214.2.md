@@ -1,5 +1,7 @@
 ##### § 214.2 Special requirements for admission, extension, and maintenance of status. #####
 
+Link to an amendment published at 85 FR 29311, May 14, 2020.
+
 The general requirements in § 214.1 are modified for the following nonimmigrant classes:
 
 (a) *Foreign government officials* - (1) *General.* The determination by a consular officer prior to admission and the recognition by the Secretary of State subsequent to admission is evidence of the proper classification of a nonimmigrant under section 101(a)(15)(A) of the Act. An alien who has a nonimmigrant status under section 101(a)(15)(A)(i) or (ii) of the Act is to be admitted for the duration of the period for which the alien continues to be recognized by the Secretary of State as being entitled to that status. An alien defined in section (101)(a)(15)(A)(iii) of the Act is to be admitted for an initial period of not more than three years, and may be granted extensions of temporary stay in increments of not more than two years. In addition, the application for extension of temporary stay must be accompanied by a statement signed by the employing official stating that he/she intends to continue to employ the applicant and describing the type of work the applicant will perform.
@@ -1661,6 +1663,38 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 (ii) Notwithstanding paragraphs (h)(5)(viii)(C), (h)(13)(i)(B), and (h)(15)(ii)(C) of this section, an H-2A petition seeking an extension of stay, submitted with a valid temporary agricultural labor certification, may be approved on the basis of paragraph (h)(21)(i) of this section, even if any of the aliens requested in the H-2A petition have exhausted the otherwise applicable 3-year maximum period of stay in the United States and have not thereafter been absent from the United States for an uninterrupted period of 3 months, or if any such aliens would exceed the 3-year limit as a consequence of the approval of the extension.
 
 (iii) This paragraph (h)(21) will expire on August 18, 2020.
+
+(22) [Reserved]
+
+(23) *Change of employers and extensions beyond 3 years during COVID-19 National Emergency for H-2B aliens essential to the U.S. food supply chain.* (i) This paragraph (h)(23) relates to certain H-2B workers providing temporary nonagricultural services or labor essential to the U.S. food supply chain.
+
+(ii) A prospective new H-2B employer or U.S. agent who is seeking to employ an H-2B alien to provide temporary nonagricultural services or labor essential to the U.S. food supply chain under this paragraph (h)(23) may file an H-2B petition on Form I-129, accompanied by an approved temporary labor certification and attestation described in paragraph (h)(23)(v)(A) of this section, requesting an extension of the alien's stay in the United States. If the new petition is approved, the extension of stay may be granted for the validity of the approved petition for a period not to exceed the validity period of the temporary labor certification. Notwithstanding paragraph (h)(2)(i)(D) of this section, an alien in valid H-2B nonimmigrant status on or after March 1, 2020:
+
+(A) Whose new petitioner files an H-2B petition on or after May 14, 2020, is authorized to begin employment with the new petitioner to perform work that is essential to the U.S. food supply chain after the petition described in this paragraph (h)(23), including the attestation described in paragraph (h)(23)(v)(A) of this section, is received by USCIS and before the H-2B petition is approved, but no earlier than the start date of employment indicated in the H-2B petition; or
+
+(B) Whose new petitioner filed an H-2B petition on or after March 1, 2020 and the petition was pending on or after May 14, 2020, is authorized to begin employment with the new petitioner to perform work that is essential to the U.S. food supply chain after the attestation described in paragraph (h)(23)(v)(A) is received by USCIS and before the H-2B petition is approved.
+
+(iii)(A) With respect to a petition described in paragraph (h)(23)(ii)(A) of this section, and subject to the requirements of 8 CFR 274a.12(b)(27), the new period of employment described in paragraph (h)(23)(ii) may last for up to 60 days beginning on the Received Date on Form I-797 (Notice of Action) or, if the start date of employment occurs after the I-797 Received Date, for a period of up to 60 days beginning on the start date of employment indicated in the H-2B petition. Employment is not authorized under this paragraph (h)(23) if USCIS does not receive the attestation described in paragraph (h)(23)(v)(A) of this section.
+
+(B) With respect to a petition described in paragraph (h)(23)(ii)(B) of this section, the new period of employment described in paragraph (h)(23)(ii) may last for up to 60 days beginning on the date that USCIS acknowledges in writing the receipt of a properly filed attestation described paragraph (h)(23)(v). Employment under this paragraph (h)(23) is not authorized if USCIS does not receive the attestation described in paragraph (h)(23)(v)(A) of this section.
+
+(C) With respect to either type of petition, if USCIS adjudicates the petition prior to the expiration of this 60-day period and denies the petition for extension of stay, or if the petition is withdrawn by the petitioner before the expiration of the 60-day period, the employment authorization associated with the filing of that petition under 8 CFR 274a.12(b)(27) will automatically terminate 15 days after the date of the denial decision or 15 days after the date on which the petition is withdrawn. Nothing in this paragraph (h)(23) is intended to alter the availability of employment authorization related to professional H-2B athletes who are traded between organizations pursuant to paragraph (h)(6)(vii) of this section and 8 CFR 274a.12(b)(9).
+
+(iv) Notwithstanding paragraphs (h)(13)(i)(B), (h)(13)(iv) and (v), and (h)(15)(ii)(C) of this section, an H-2B petition seeking an extension of stay for H-2B aliens who are essential to the U.S. food supply chain to work, and submitted with an approved temporary labor certification, may be approved on the basis of this paragraph (h)(23), even if any of the aliens requested in the H-2B petition have otherwise exhausted the applicable 3-year maximum period of stay in the United States and have not thereafter been absent from the United States for an uninterrupted period of 3 months, or if any such aliens would exceed the 3-year limit as a consequence of the approval of the extension.
+
+(v) In addition to meeting all other requirements for the H-2B classification, to commence employment and be approved under this paragraph (h)(23):
+
+(A) The H-2B petitioner must submit an attestation indicating that the H-2B alien will be performing work that is essential to the U.S. food supply chain;
+
+(B) The alien must have been in valid H-2B nonimmigrant status on or after March 1, 2020; and
+
+(C) The H-2B petition must have been -
+
+(*1*) Received on or after March 1, 2020, and pending as of May 14, 2020, so long as the H-2B worker did not begin work with the new employer before May 14, 2020, or
+
+(*2*) Received on or after May 14, 2020, but no later than September 11, 2020.
+
+(vi) Authorization to initiate employment changes pursuant to paragraphs (h)(23)(ii) and (iii) of this section, or be approved for employment exceeding 3 years in duration pursuant to paragraph (h)(23)(iv) of this section, begins on May 14, 2020, and ends at the end of September 11, 2020.
 
 (i) *Representatives of information media* - (1) *In general.* The admission of an alien of the class defined in section 101(a)(15)(I) of the Act constitutes an agreement by the alien not to change the information medium or his or her employer until he or she obtains permission to do so from the district director having jurisdiction over his or her residence. An alien classified as an information media nonimmigrant (I) may be admitted in or otherwise granted I nonimmigrant status for:
 
@@ -3474,4 +3508,6 @@ The general requirements in § 214.1 are modified for the following nonimmigrant
 
 (24) *Waivers of inadmissibility for applicants lawfully present in the CNMI.* An applicant for CW-1 or CW-2 nonimmigrant status, who is otherwise eligible for such status and otherwise admissible to the United States, and who possesses appropriate documents demonstrating that the applicant is lawfully present in the CNMI, may be granted a waiver of inadmissibility under section 212(d)(3)(A)(ii) of the Act, including the grounds of inadmissibility described in sections 212(a)(6)(A)(i) and 212(a)(7)(B)(i)(II) of the Act, as a matter of discretion for the purpose of granting the CW-1 or CW-2 nonimmigrant status. Such waiver may be granted without additional form or fee. Appropriate documents required for such a waiver include a valid unexpired passport and other documentary evidence demonstrating that the applicant is lawfully present in the CNMI, such as an “umbrella permit” or a DHS-issued Form I-94. Evidence that the applicant possesses appropriate documents may be provided by an employer to accompany a petition, by an eligible spouse or minor child to accompany the Form I-539 (or such alternative form as USCIS may designate), or in such other manner as USCIS may designate.
 
-(Title VI of the Health Professions Educational Assistance Act of 1976 (Pub. L. 94-484; 90 Stat. 2303); secs. 103 and 214, Immigration and Nationality Act (8 U.S.C. 1103 and 1184))[38 FR 35425, Dec. 28, 1973]Editorial Note:For Federal Register citations affecting § 214.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 85 FR 21744, Apr. 20, 2020, § 214.2 was amended by adding paragraph (h)(21), effective Apr. 20, 2020 through Aug. 18, 2020.
+(Title VI of the Health Professions Educational Assistance Act of 1976 (Pub. L. 94-484; 90 Stat. 2303); secs. 103 and 214, Immigration and Nationality Act (8 U.S.C. 1103 and 1184))[38 FR 35425, Dec. 28, 1973]Editorial Note:For Federal Register citations affecting § 214.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Notes:1. At 85 FR 21744, Apr. 20, 2020, § 214.2 was amended by adding paragraph (h)(21), effective Apr. 20, 2020, through Aug. 18, 2020.
+
+2. At 85 FR 28850, May 14, 2020, § 214.2 was amended by adding paragraph (h)(23), effective May 14, 2020, through May 15, 2023.

@@ -1,5 +1,7 @@
 ##### § 208.30 Credible fear determinations involving stowaways and applicants for admission who are found inadmissible pursuant to section 212(a)(6)(C) or 212(a)(7) of the Act, whose entry is limited or suspended under section 212(f) or 215(a)(1) of the Act, or who failed to apply for protection from persecution in a third country where potential relief is available while en route to the United States. #####
 
+Link to an amendment published at 85 FR 29310, May 14, 2020.
+
 (a) *Jurisdiction.* The provisions of this subpart B apply to aliens subject to sections 235(a)(2) and 235(b)(1) of the Act. Pursuant to section 235(b)(1)(B) of the Act, DHS has exclusive jurisdiction to make credible fear determinations, and the Executive Office for Immigration Review has exclusive jurisdiction to review such determinations. Except as otherwise provided in this subpart B, paragraphs (b) through (g) of this section are the exclusive procedures applicable to credible fear interviews, determinations, and reviews under section 235(b)(1)(B) of the Act. Prior to January 1, 2015, an alien present in or arriving in the Commonwealth of the Northern Mariana Islands is ineligible to apply for asylum and may only establish eligibility for withholding of removal pursuant to section 241(b)(3) of the Act or withholding or deferral of removal under the Convention Against Torture.
 
 (b) *Treatment of dependents.* A spouse or child of an alien may be included in that alien's credible fear evaluation and determination, if such spouse or child:

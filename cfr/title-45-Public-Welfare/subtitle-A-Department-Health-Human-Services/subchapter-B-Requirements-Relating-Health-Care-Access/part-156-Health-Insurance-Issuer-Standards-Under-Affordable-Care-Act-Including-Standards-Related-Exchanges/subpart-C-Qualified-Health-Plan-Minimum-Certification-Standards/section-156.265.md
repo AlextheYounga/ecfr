@@ -1,5 +1,7 @@
 ##### § 156.265 Enrollment process for qualified individuals. #####
 
+Link to an amendment published at 85 FR 29261, May 14, 2020.
+
 (a) *General requirement.* A QHP issuer must process enrollment in accordance with this section.
 
 (b) *Enrollment through the Exchange for the individual market.* (1) A QHP issuer must enroll a qualified individual only if the Exchange -

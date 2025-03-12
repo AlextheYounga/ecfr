@@ -1,5 +1,7 @@
 ##### § 156.20 Definitions. #####
 
+Link to an amendment published at 85 FR 29261, May 14, 2020.
+
 The following definitions apply to this part, unless the context indicates otherwise:
 
 *Actuarial value (AV)* means the percentage paid by a health plan of the percentage of the total allowed costs of benefits.

@@ -1,5 +1,7 @@
 ##### § 155.330 Eligibility redetermination during a benefit year. #####
 
+Link to an amendment published at 85 FR 29259, May 14, 2020.
+
 (a) *General requirement.* The Exchange must redetermine the eligibility of an enrollee in a QHP through the Exchange during the benefit year if it receives and verifies new information reported by an enrollee or identifies updated information through the data matching described in paragraph (d) of this section.
 
 (b) *Requirement for individuals to report changes.* (1) Except as specified in paragraphs (b)(2) and (3) of this section, the Exchange must require an enrollee to report any change with respect to the eligibility standards specified in § 155.305 within 30 days of such change.
