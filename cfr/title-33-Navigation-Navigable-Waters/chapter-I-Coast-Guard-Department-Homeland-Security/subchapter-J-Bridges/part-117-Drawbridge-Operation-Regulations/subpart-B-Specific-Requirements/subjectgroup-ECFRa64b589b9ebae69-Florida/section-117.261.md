@@ -42,11 +42,17 @@
 
 (t) *Parker (US-1) bridge, mile 1013.7, at Riviera Beach.* The draw shall open on the quarter and three-quarter hour.
 
-(u) *Flagler Memorial (SR A1A) bridge, mile 1020.8, at Palm Beach.* The draw shall open on the quarter and three-quarter hour.
+(u) *Flagler Memorial (SR A1A) Bridge, mile 1021.8, at West Palm Beach.* (1) The draw shall open on the quarter and three-quarter hour.
 
-(v) *Royal Park (SR 704) bridge, mile 1022.6, at Palm Beach.* The draw shall open on the hour and half-hour.
+(2) When the security zone is enforced, the draw is allowed to remain closed to navigation from 2:15 p.m. to 5:30 p.m. with the exception of a once an hour opening at 2:15 p.m., 3:15 p.m., 4:15 p.m. and 5:15 p.m., weekdays only, if vessels are requesting an opening. At all other times the draw shall open on the quarter and three-quarter hour.
 
-(w) Southern Boulevard (SR 700/80) bridge, mile 1024.7 at Palm Beach. The draw shall open on the quarter and three-quarter hour.
+(v) *Royal Park (SR 704) Bridge, mile 1022.6, at West Palm Beach.* (1) The draw shall open on the hour and half-hour.
+
+(2) When the security zone is enforced, the draw is allowed to remain closed to navigation from 2:15 p.m. to 5:30 p.m. with the exception of a once an hour opening at 2:30 p.m., 3:30 p.m., 4:30 p.m. and 5:30 p.m., weekdays only, if vessels are requesting an opening. At all other times the draw shall open on the hour and half-hour.
+
+(w) *Southern Boulevard (SR 700/80) Bridge, mile 1024.7, at West Palm Beach.* (1) The draw shall open on the quarter and three-quarter hour.
+
+(2) When the security zone is enforced, the draw may be closed without advance notice to permit uninterrupted transit of dignitaries across the bridge. At all other times the bridge shall open on the quarter and three-quarter hour, or as directed by the on-scene designated representative.
 
 (x) *Ocean Avenue bridge, mile 1031.0, at Lantana.* The draw shall open on the hour and half-hour.
 

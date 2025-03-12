@@ -1,5 +1,7 @@
 ##### § 25.981 Fuel tank ignition prevention. #####
 
+Link to an amendment published at 83 FR 47556, September 20, 2018.
+
 (a) No ignition source may be present at each point in the fuel tank or fuel tank system where catastrophic failure could occur due to ignition of fuel or vapors. This must be shown by:
 
 (1) Determining the highest temperature allowing a safe margin below the lowest expected autoignition temperature of the fuel in the fuel tanks.
