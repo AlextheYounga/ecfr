@@ -1,6 +1,6 @@
 ##### § 208.13 Establishing asylum eligibility. #####
 
-Link to an amendment published at 85 FR 84193, Dec. 23, 2020.This amendment was delayed until Mar. 22, 2021, at 86 FR 6847, Jan. 25, 2021.This amendment was further delayed until Dec. 31, 2021, at 86 FR 15076, Mar. 22, 2021.This amendment was further delayed until Dec. 31, 2022, at 86 FR 73615, Dec. 28, 2021.This amendment was further delayed until Dec. 31, 2024, at 87 FR 79789, Dec. 28, 2022.
+Link to an amendment published at 85 FR 84193, Dec. 23, 2020.This amendment was delayed until Mar. 22, 2021, at 86 FR 6847, Jan. 25, 2021.This amendment was further delayed until Dec. 31, 2021, at 86 FR 15069, Mar. 22, 2021.This amendment was further delayed until Dec. 31, 2022, at 86 FR 73615, Dec. 28, 2021.This amendment was further delayed until Dec. 31, 2024, at 87 FR 79789, Dec. 28, 2022.
 
 (a) *Burden of proof.* The burden of proof is on the applicant for asylum to establish that he or she is a refugee as defined in section 101(a)(42) of the Act. The testimony of the applicant, if credible, may be sufficient to sustain the burden of proof without corroboration. The fact that the applicant previously established a credible fear of persecution for purposes of section 235(b)(1)(B) of the Act does not relieve the alien of the additional burden of establishing eligibility for asylum.
 
@@ -66,17 +66,7 @@ Link to an amendment published at 85 FR 84193, Dec. 23, 2020.This amendment was 
 
 (ii) If the evidence indicates that one of the above grounds apply to the applicant, he or she shall have the burden of proving by a preponderance of the evidence that he or she did not so act.
 
-(3) *Additional limitation on eligibility for asylum.* For applications filed after November 9, 2018, an alien shall be ineligible for asylum if the alien is subject to a presidential proclamation or other presidential order suspending or limiting the entry of aliens along the southern border with Mexico that is issued pursuant to subsection 212(f) or 215(a)(1) of the Act on or after November 9, 2018 and the alien enters the United States after the effective date of the proclamation or order contrary to the terms of the proclamation or order. This limitation on eligibility does not apply if the proclamation or order expressly provides that it does not affect eligibility for asylum, or expressly provides for a waiver or exception that makes the suspension or limitation inapplicable to the alien.
-
-(4) *Additional limitation on eligibility for asylum.* Notwithstanding the provisions of § 208.15, any alien who enters, attempts to enter, or arrives in the United States across the southern land border on or after July 16, 2019, after transiting through at least one country outside the alien's country of citizenship, nationality, or last lawful habitual residence en route to the United States, shall be found ineligible for asylum unless:
-
-(i) The alien demonstrates that he or she applied for protection from persecution in at least one country outside the alien's country of citizenship, nationality, or last lawful habitual residence through which the alien transited en route to the United States and the alien received a final judgment denying the alien protection in such country.
-
-(ii) The alien demonstrates that he or she satisfies the definition of “victim of a severe form of trafficking in persons” provided in 8 CFR 214.11; or
-
-(iii) The only country or countries through which the alien transited en route to the United States were, at the time of the transit, not parties to the 1951 United Nations Convention relating to the Status of Refugees or the 1967 Protocol relating to the Status of Refugees.
-
-(5) *Non-binding determinations.* Determinations made with respect to paragraph (c)(4)(ii) of this section are not binding on Federal departments or agencies in subsequent determinations of eligibility for T or U nonimmigrant status under section 101(a)(15)(T) or (U) of the INA or for benefits or services under 22 U.S.C. 7105 or 8 U.S.C. 1641(c)(4).
+(3)-(5) [Reserved]
 
 (6) *Additional limitations on eligibility for asylum.* For applications filed on or after November 20, 2020, an alien shall be found ineligible for asylum if:
 
@@ -216,4 +206,8 @@ Link to an amendment published at 85 FR 84193, Dec. 23, 2020.This amendment was 
 
 (ii) Where one or more of the adverse discretionary factors set forth in paragraph (d)(2)(i) of this section are present, the Secretary, in extraordinary circumstances, such as those involving national security or foreign policy considerations, or cases in which an alien, by clear and convincing evidence, demonstrates that the denial or referral (which may result in the denial by an immigration judge) of the application for asylum would result in exceptional and extremely unusual hardship to the alien, may favorably exercise discretion under section 208 of the Act, notwithstanding the applicability of paragraph (d)(2)(i). Depending on the gravity of the circumstances underlying the application of paragraph (d)(2)(i), a showing of extraordinary circumstances might still be insufficient to warrant a favorable exercise of discretion under section 208 of the Act.
 
-[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 65 FR 76133, Dec. 6, 2000; 83 FR 55952, Nov. 9, 2018; 84 FR 33843, July 16, 2019; 85 FR 67258, Oct. 21, 2020; 85 FR 80387, Dec. 11, 2020; 85 FR 82289, Dec. 17, 2020]
+(e) [Reserved]
+
+(f) *Lawful pathways condition.* For applications filed by aliens who entered the United States between May 11, 2023, and May 11, 2025, also refer to the provisions on asylum eligibility described in § 208.33.
+
+[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 65 FR 76133, Dec. 6, 2000; 83 FR 55952, Nov. 9, 2018; 84 FR 33843, July 16, 2019; 85 FR 67258, Oct. 21, 2020; 85 FR 80387, Dec. 11, 2020; 85 FR 82289, Dec. 17, 2020; 88 FR 31449, May 16, 2023]

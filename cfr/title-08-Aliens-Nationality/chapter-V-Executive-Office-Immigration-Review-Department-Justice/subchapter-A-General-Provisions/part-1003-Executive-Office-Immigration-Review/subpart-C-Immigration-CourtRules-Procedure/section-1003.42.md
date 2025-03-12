@@ -1,6 +1,6 @@
 ##### § 1003.42 Review of credible fear determinations. #####
 
-Link to an amendment published at 85 FR 84196, Dec. 23, 2020.This amendment was delayed until Mar. 22, 2021, at 86 FR 6847, Jan. 25, 2021.This amendment was further delayed until Dec. 31, 2021, at 86 FR 15076, Mar. 22, 2021.This amendment was further delayed until Dec. 31, 2022, at 86 FR 73615, Dec. 28, 2021.This amendment was further delayed until Dec. 31, 2024, at 87 FR 79789, Dec. 28, 2022.
+Link to an amendment published at 85 FR 84196, Dec. 23, 2020.This amendment was delayed until Mar. 22, 2021, at 86 FR 6847, Jan. 25, 2021.This amendment was further delayed until Dec. 31, 2021, at 86 FR 15069, Mar. 22, 2021.This amendment was further delayed until Dec. 31, 2022, at 86 FR 73615, Dec. 28, 2021.This amendment was further delayed until Dec. 31, 2024, at 87 FR 79789, Dec. 28, 2022.
 
 (a) *Referral.* Jurisdiction for an immigration judge to review a negative fear determination by an asylum officer pursuant to section 235(b)(1)(B) of the Act shall commence with the filing by DHS of the Notice of Referral to Immigration Judge. DHS shall also file with the notice of referral a copy of the written record of determination as defined in section 235(b)(1)(B)(iii)(II) of the Act, including a copy of the alien's written request for review, if any.
 
@@ -8,11 +8,7 @@ Link to an amendment published at 85 FR 84196, Dec. 23, 2020.This amendment was 
 
 (c) *Procedures and evidence.* The Immigration Judge may receive into evidence any oral or written statement which is material and relevant to any issue in the review. The testimony of the alien shall be under oath or affirmation administered by the Immigration Judge. If an interpreter is necessary, one will be provided by the Immigration Court. The Immigration Judge shall determine whether the review shall be in person, or through telephonic or video connection (where available). The alien may consult with a person or persons of the alien's choosing prior to the review.
 
-(d) *Standard of review.* (1) The immigration judge shall make a de novo determination as to whether there is a significant possibility, taking into account the credibility of the statements made by the alien in support of the alien's claim, and such other facts as are known to the immigration judge, that the alien could establish eligibility for asylum under section 208 of the Act or withholding of removal under section 241(b)(3)(B) of the Act or deferral of removal under the Convention Against Torture.
-
-(2) If the alien is determined to be an alien described in 8 CFR208.13(c)(3) or 8 CFR 1208.13(c)(3) and is determined to lack a reasonable possibility of persecution or torture under 8 CFR 208.30(e)(5)(ii), the Immigration Judge shall first review de novo the determination that the alien is described in 8 CFR 208.13(c)(3) or 8 CFR 1208.13(c)(3) prior to any further review of the asylum officer's negative fear determination.
-
-(3) If the alien is determined to be an alien described in 8 CFR 208.13(c)(4) or 8 CFR 1208.13(c)(4) and is determined to lack a reasonable possibility of persecution or torture under 8 CFR 208.30(e)(5)(iii), the immigration judge shall first review de novo the determination that the alien is described in 8 CFR 208.13(c)(4) or 8 CFR 1208.13(c)(4) prior to any further review of the asylum officer's negative fear determination.
+(d) *Standard of review.* The immigration judge shall make a de novo determination as to whether there is a significant possibility, taking into account the credibility of the statements made by the alien in support of the alien's claim, and such other facts as are known to the immigration judge, that the alien could establish eligibility for asylum under section 208 of the Act or withholding of removal under section 241(b)(3)(B) of the Act or deferral of removal under the Convention Against Torture.
 
 (e) *Timing.* The immigration judge shall conclude the review to the maximum extent practicable within 24 hours, but in no case later than 7 days after the date the supervisory asylum officer has approved the asylum officer's negative credible fear determination issued on the Record of Negative Credible Fear Finding and Request for Review.
 
@@ -34,4 +30,4 @@ Link to an amendment published at 85 FR 84196, Dec. 23, 2020.This amendment was 
 
 (i) *Severability.* The provisions of part 1003 are separate and severable from one another. In the event that any provision in part 1003 is stayed, enjoined, not implemented, or otherwise held invalid, the remaining provisions shall nevertheless be implemented as an independent rule and continue in effect.
 
-[62 FR 10335, Mar. 6, 1997, as amended at 64 FR 8487, Feb. 19, 1999; 69 FR 69496, Nov. 29, 2004; 83 FR 55952, Nov. 9, 2018; 84 FR 33844, July 16, 2019; 84 FR 64009, Nov. 19, 2019; 85 FR 80393, Dec. 11, 2020; 87 FR 18220, Mar. 29, 2022; 88 FR 18240, Mar. 28, 2023]
+[62 FR 10335, Mar. 6, 1997, as amended at 64 FR 8487, Feb. 19, 1999; 69 FR 69496, Nov. 29, 2004; 83 FR 55952, Nov. 9, 2018; 84 FR 33844, July 16, 2019; 84 FR 64009, Nov. 19, 2019; 85 FR 80393, Dec. 11, 2020; 87 FR 18220, Mar. 29, 2022; 88 FR 18240, Mar. 28, 2023; 88 FR 31451, May 16, 2023]
