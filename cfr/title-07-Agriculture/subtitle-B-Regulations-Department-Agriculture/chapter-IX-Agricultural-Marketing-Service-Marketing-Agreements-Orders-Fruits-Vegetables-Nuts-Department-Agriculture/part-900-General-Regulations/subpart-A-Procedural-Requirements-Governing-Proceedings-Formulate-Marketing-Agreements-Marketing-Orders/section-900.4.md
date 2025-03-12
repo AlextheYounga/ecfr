@@ -6,7 +6,7 @@
 
 (i) By publication of the notice of hearing in the Federal Register;
 
-(ii) By mailing a true copy of the notice of hearing to each of the persons known to the Administrator, to be interested therein;
+(ii) By mailing a true copy of the notice of hearing, using a postal or other delivery service or electronic communication, to each of the persons known to the Administrator to be interested therein;
 
 (iii) By issuing a press release containing the complete text or a summary of the contents of the notice of hearing and making the same available to such newspapers in the area proposed to be subjected to regulation as reasonably will tend to bring the ntoice to the attention of the persons interested therein;
 
@@ -15,3 +15,5 @@
 (2) Legal notice of the hearing shall be deemed to be given if notice is given in the manner provided by paragraph (b)(1)(i) of this section; and failure to give notice in the manner provided in paragraph (b)(1)(ii), (iii), and (iv) of this section shall not affect the legality of the notice.
 
 (c) *Record of notice and supplemental publicity.* There shall be filed with the hearing clerk or submitted to the judge at the hearing an affidavit or certificate of the person giving the notice provided in paragraph (b)(1) (iii) and (iv) of this section. In regard to the provisions relating to mailing in paragraph (b)(1)(ii) of this section, a determination by the Administrator that such provisions have been complied with shall be filed with the hearing clerk or submitted to the judge at the hearing. In the alternative, if notice is not given in the manner provided in paragraph (b)(1)(ii), (iii), and (iv) of this section there shall be filed with the hearing clerk or submitted to the judge at the hearing a determination by the Administrator that such notice is impracticable, unnecessary, or contrary to the public interest with a brief statement of the reasons for such determination. Determinations by the Administrator as herein provided shall be final.
+
+[25 FR 5907, June 28, 1960, as amended at 83 FR 52944, Oct. 19, 2018]

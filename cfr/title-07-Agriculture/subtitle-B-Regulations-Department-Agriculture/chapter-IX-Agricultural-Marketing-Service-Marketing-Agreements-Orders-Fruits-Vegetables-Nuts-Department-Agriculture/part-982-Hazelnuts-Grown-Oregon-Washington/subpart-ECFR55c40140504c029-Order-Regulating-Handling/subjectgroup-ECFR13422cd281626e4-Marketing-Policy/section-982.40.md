@@ -1,5 +1,7 @@
 ##### § 982.40 Marketing policy and volume regulation. #####
 
+Link to an amendment published at 83 FR 52949, Oct. 19, 2018.
+
 (a) *General.* As provided in this section, prior to September 20 of each marketing year, the Board may hold meetings for the purpose of computing its marketing policy for that year and shall do so for the purpose of submitting any recommendations on its policy to the Secretary. The Board may designate one of its employees to compute and announce the preliminary computed free and restricted percentages.
 
 (b) *Inshell trade demand.* If the Board determines that volume regulation would tend to effectuate the declared policy of the act, it shall compute and announce an inshell trade demand for that year prior to September 20. The inshell trade demand shall equal the average of the preceding three years' trade acquisitions of inshell hazelnuts: *Provided,* That the Board may increase such average by no more than 25 percent if market conditions justify such an increase. If the trade acquisitions during any or all of these years were abnormal because of crop or marketing conditions, the Board may use a prior year or years in determining the three-year average.

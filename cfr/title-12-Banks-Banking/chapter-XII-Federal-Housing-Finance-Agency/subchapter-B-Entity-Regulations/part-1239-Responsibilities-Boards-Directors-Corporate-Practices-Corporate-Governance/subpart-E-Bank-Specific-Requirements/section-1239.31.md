@@ -1,5 +1,7 @@
 ##### § 1239.31 Strategic business plan. #####
 
+Link to an amendment published at 83 FR 52954, Oct. 19, 2018.
+
 (a) *Adoption of strategic business plan.* Each Bank's board of directors shall have in effect at all times a strategic business plan that describes how the business activities of the Bank will achieve the mission of the Bank consistent with part 1265 of this chapter. Specifically, each Bank's strategic business plan shall:
 
 (1) Enumerate operating goals and objectives for each major business activity and for all new business activities, which must include plans for maximizing activities that further the Bank's housing finance and community lending mission, consistent with part 1265 of this chapter;

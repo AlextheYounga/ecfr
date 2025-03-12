@@ -1,5 +1,7 @@
 ##### § 1273.8 General duties of the OF board of directors. #####
 
+Link to an amendment published at 83 FR 52954, Oct. 19, 2018.
+
 (a) *General.* Each director shall have the duty to:
 
 (1) Carry out his or her duties as director in good faith, in a manner such director believes to be in the best interests of the OF and the Bank System, and with such care, including reasonable inquiry, as an ordinarily prudent person in a like position would use under similar circumstances;

@@ -1,5 +1,7 @@
 ##### § 906.340 Container, pack, and container marking regulations. #####
 
+Link to an amendment published at 83 FR 52946, Oct. 19, 2018.
+
 (a) No handler shall handle any variety of oranges or grapefruit grown in the production area unless such fruit is in one of the following containers, and the fruit is packed and the containers are marked as specified in this section:
 
 (1) *Containers.* (i) Closed fiberboard carton with approximate inside dimensions of 131/4 × 101/2 × 71/4 inches: Provided, That the container has a Mullen or Cady test of at least 200 pounds;
