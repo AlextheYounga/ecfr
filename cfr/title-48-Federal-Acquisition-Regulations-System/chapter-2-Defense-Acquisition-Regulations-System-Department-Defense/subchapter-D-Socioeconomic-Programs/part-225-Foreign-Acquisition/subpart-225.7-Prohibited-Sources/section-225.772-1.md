@@ -26,6 +26,6 @@ As used in this section -
 
 *Satellite services* means communications capabilities that utilize an on-orbit satellite for transmitting the signal from one location to another.
 
-*State sponsor of terrorism* means a country determined by the Secretary of State, under section 1754(c)(1)(A)(i) of the Export Control Reform Act of 2018 (Title XVII, Subtitle B, of the National Defense Authorization Act for Fiscal Year 2019, Pub. L. 115-232), to be a country the government of which has repeatedly provided support for acts of international terrorism. As of December 21, 2018, state sponsors of terrorism include: Iran, North Korea, Sudan, and Syria. (10 U.S.C. 2327)
+*State sponsor of terrorism* means a country determined by the Secretary of State, under section 1754(c)(1)(A)(i) of the Export Control Reform Act of 2018 (Title XVII, Subtitle B, of the National Defense Authorization Act for Fiscal Year 2019, Pub. L. 115-232), to be a country the government of which has repeatedly provided support for acts of international terrorism. As of December 14, 2020, state sponsors of terrorism include Iran, North Korea, and Syria. (10 U.S.C. 2327)
 
-[83 FR 66072, Dec. 21, 2018]
+[83 FR 66072, Dec. 21, 2018, as amended at 86 FR 53883, Sept. 29, 2021]
