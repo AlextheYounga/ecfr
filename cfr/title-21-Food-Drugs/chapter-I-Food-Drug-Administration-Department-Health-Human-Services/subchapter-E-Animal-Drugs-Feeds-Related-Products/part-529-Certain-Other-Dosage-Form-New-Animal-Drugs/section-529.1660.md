@@ -1,6 +1,6 @@
 ##### § 529.1660 Oxytetracycline. #####
 
-(a) *Specifications* - (1) Each gram of powder contains 366 milligrams (mg) oxytetracycline hydrochloride.
+(a) *Specifications.* (1) Each gram of powder contains 366 milligrams (mg) oxytetracycline hydrochloride.
 
 (2) Each gram of powder contains 753 mg oxytetracycline hydrochloride.
 
@@ -12,7 +12,7 @@
 
 (c) *Related tolerances. See* § 556.500 of this chapter.
 
-(d) *Conditions of use in finfish* - (1) *Amount.* Immerse fish in a solution containing 200 to 700 mg oxytetracycline hydrochloride (buffered) per liter of water for 2 to 6 hours.
+(d) *Conditions of use in finfish*—(1) *Amount.* Immerse fish in a solution containing 200 to 700 mg oxytetracycline hydrochloride (buffered) per liter of water for 2 to 6 hours.
 
 (2) *Indications for use.* For skeletal marking of finfish fry and fingerlings.
 

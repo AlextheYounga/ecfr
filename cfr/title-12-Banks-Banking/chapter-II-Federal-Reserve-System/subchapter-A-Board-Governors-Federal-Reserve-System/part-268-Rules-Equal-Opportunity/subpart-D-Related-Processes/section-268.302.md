@@ -1,5 +1,1 @@
-##### § 268.302 Mixed case complaints. #####
-
-Link to an amendment published at 84 FR 27034, June 11, 2019.
-
-A *mixed case complaint* is a complaint of employment discrimination filed with the Board based on race, color, religion, sex, national origin, age or disability related to or stemming from an action that can be appealed to the Merit System Protection Board (MSPB). The complaint may contain only an allegation of employment discrimination or it may contain additional allegations that the MSPB has jurisdiction to address. A *mixed case appeal* is an appeal filed with the MSPB that alleges that an appealable Board action was effected, in whole or in part, because of discrimination on the basis of race, color, religion, sex, national origin, disability or age. Only a Board employee who is a preference eligible employee as defined by the Veterans Preference Act can file a mixed case complaint with the Board or a mixed case appeal with the MSPB. A mixed case complaint or mixed case appeal may only be filed for action(s) over which the MSPB has jurisdiction. The Board will apply sections 1614.302 to 1614.310 of 29 CFR to the processing of a mixed case complaint or mixed case appeal.
+##### § 268.302 [Reserved] #####

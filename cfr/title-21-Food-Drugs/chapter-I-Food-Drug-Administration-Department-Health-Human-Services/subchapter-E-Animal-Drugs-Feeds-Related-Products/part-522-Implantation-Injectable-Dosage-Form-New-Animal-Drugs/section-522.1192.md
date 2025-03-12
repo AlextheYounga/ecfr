@@ -1,6 +1,8 @@
 ##### § 522.1192 Ivermectin. #####
 
-(a) *Specifications* - (1) Each milliliter (mL) of solution contains 20 milligrams (mg) ivermectin.
+Link to an amendment published at 84 FR 32992, July 11, 2019.
+
+(a) *Specifications.* (1) Each milliliter (mL) of solution contains 20 milligrams (mg) ivermectin.
 
 (2) Each mL of solution contains 10 mg ivermectin.
 
@@ -12,7 +14,7 @@
 
 (2) Nos. 016592, 055529, 058005, and 061133 for use of the product described in paragraph (a)(2) of this section as in paragraphs (e)(2), (e)(3), (e)(4), and (e)(5) of this section.
 
-(d) *Special considerations* - (1) See § 500.25 of this chapter.
+(d) *Special considerations.* (1) See § 500.25 of this chapter.
 
 (2) Labeling shall bear the following precaution: “This product should not be used in other animal species as severe adverse reactions, including fatalities in dogs, may result.”
 

@@ -8,9 +8,9 @@
 
 (2) No. 054771 for use as in paragraph (c) of this section.
 
-(c) *Conditions of use in dogs and cats* - (1) *Amount.* Administer by intravenous injection according to label directions. The use of preanesthetic medication reduces propofol dose requirements.
+(c) *Conditions of use in dogs and cats*—(1) *Amount.* Administer by intravenous injection according to label directions. The use of preanesthetic medication reduces propofol dose requirements.
 
-(2) *Indications for use* - (i) As a single injection to provide general anesthesia for short procedures; for induction and maintenance of general anesthesia using incremental doses to effect; for induction of general anesthesia where maintenance is provided by inhalant anesthetics.
+(2) *Indications for use.* (i) As a single injection to provide general anesthesia for short procedures; for induction and maintenance of general anesthesia using incremental doses to effect; for induction of general anesthesia where maintenance is provided by inhalant anesthetics.
 
 (ii) For the induction and maintenance of anesthesia and for induction of anesthesia followed by maintenance with an inhalant anesthetic.
 

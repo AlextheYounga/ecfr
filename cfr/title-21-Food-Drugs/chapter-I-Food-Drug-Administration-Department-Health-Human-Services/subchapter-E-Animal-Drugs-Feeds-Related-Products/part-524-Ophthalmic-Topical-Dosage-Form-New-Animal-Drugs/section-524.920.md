@@ -1,5 +1,7 @@
 ##### § 524.920 Fenthion. #####
 
+Link to an amendment published at 84 FR 32993, July 11, 2019.
+
 (a) *Specifications.* (1) The drug is a liquid containing:
 
 (i) 3 percent of fenthion; or

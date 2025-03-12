@@ -1,5 +1,7 @@
 ##### § 522.1077 Gonadorelin. #####
 
+Link to an amendment published at 84 FR 32992, July 11, 2019.
+
 (a) *Specifications.* Each milliliter (mL) of solution contains:
 
 (1) 43 micrograms (µg) of gonadorelin as gonadorelin acetate;
@@ -30,7 +32,7 @@
 
 (3) Dinoprost injection for use as in paragraph (d)(1)(vii) of this section as provided by No. 054771 in § 510.600(c) of this chapter.
 
-(d) *Conditions of use in cattle* - (1) *Indications for use and amounts* - (i) For the treatment of ovarian follicular cysts in dairy cattle: Administer 86 µg gonadorelin (No. 000061) or 100 µg gonadorelin diacetate tetrahydrate (Nos. 061623 and 050604) by intramuscular or intravenous injection.
+(d) *Conditions of use in cattle* - (1) *Indications for use and amounts.* (i) For the treatment of ovarian follicular cysts in dairy cattle: Administer 86 µg gonadorelin (No. 000061) or 100 µg gonadorelin diacetate tetrahydrate (Nos. 061623 and 050604) by intramuscular or intravenous injection.
 
 (ii) For the treatment of ovarian follicular cysts in dairy cattle: Administer 100 µg gonadorelin by intramuscular or intravenous injection.
 

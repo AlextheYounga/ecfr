@@ -8,7 +8,7 @@
 
 (2) No. 061133 for use as in paragraphs (c)(1)(i)(B), (c)(1)(ii)(B), and (c)(1)(iii) of this section.
 
-(c) *Conditions of use* - (1) *Horses* - (i) *Amount* - (A) 0.2 to 0.5 milligrams per pounds (mg/lb) body weight intramuscularly or intravenously every 4 to 6 hours.
+(c) *Conditions of use* - (1) *Horses* - (i) *Amount.* (A) 0.2 to 0.5 milligrams per pounds (mg/lb) body weight intramuscularly or intravenously every 4 to 6 hours.
 
 (B) 0.2 to 0.5 mg/lb body weight intravenously as required.
 

@@ -1,6 +1,6 @@
 ##### § 524.1146 Imidacloprid and moxidectin. #####
 
-(a) *Specifications* - (1) Each milliliter of solution contains 100 milligrams (mg) imidacloprid and 25 mg moxidectin for use as in paragraph (d)(1) of this section.
+(a) *Specifications.* (1) Each milliliter of solution contains 100 milligrams (mg) imidacloprid and 25 mg moxidectin for use as in paragraph (d)(1) of this section.
 
 (2) Each milliliter of solution contains 100 mg imidacloprid and 10 mg moxidectin for use as in paragraphs (d)(2) and (d)(3) of this section.
 
@@ -10,7 +10,7 @@
 
 (d) *Conditions of use* - (1) *Dogs* - (i) *Amount.* Topically apply 4.5 mg/lb body weight (10 mg/kg) imidacloprid and 1.1 mg/lb (2.5 mg/kg) moxidectin, once a month.
 
-(ii) *Indications for use* - (A) For the prevention of heartworm disease caused by *Dirofilaria immitis*; and the treatment and control of intestinal roundworms (*Toxocara canis* and *Toxascaris leonina*), hookworms (*Ancylostoma caninum* and *Uncinaria stenocephala*), and whipworms (*Trichuris vulpis*); kills adult fleas and treats flea infestations (*Ctenocephalides felis*).
+(ii) *Indications for use.* (A) For the prevention of heartworm disease caused by *Dirofilaria immitis*; and the treatment and control of intestinal roundworms (*Toxocara canis* and *Toxascaris leonina*), hookworms (*Ancylostoma caninum* and *Uncinaria stenocephala*), and whipworms (*Trichuris vulpis*); kills adult fleas and treats flea infestations (*Ctenocephalides felis*).
 
 (B) For treatment of *Dirofilaria immitis* circulating microfilariae in heartworm-positive dogs and the treatment and control of sarcoptic mange caused by *Sarcoptes scabiei* var. *canis.*
 

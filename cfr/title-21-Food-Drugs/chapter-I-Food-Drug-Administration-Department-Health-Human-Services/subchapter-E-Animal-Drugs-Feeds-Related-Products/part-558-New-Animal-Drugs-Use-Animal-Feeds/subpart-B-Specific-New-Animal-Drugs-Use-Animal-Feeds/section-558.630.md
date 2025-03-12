@@ -1,5 +1,7 @@
 ##### § 558.630 Tylosin and sulfamethazine. #####
 
+Link to an amendment published at 84 FR 33002, July 11, 2019.
+
 (a) *Specifications.* Type A medicated articles containing equal amounts of tylosin phosphate and sulfamethazine, available in concentrations of 5, 10, 20, or 40 grams each, per pound.
 
 (b) *Sponsors.* See sponsor numbers in § 510.600(c) of this chapter.

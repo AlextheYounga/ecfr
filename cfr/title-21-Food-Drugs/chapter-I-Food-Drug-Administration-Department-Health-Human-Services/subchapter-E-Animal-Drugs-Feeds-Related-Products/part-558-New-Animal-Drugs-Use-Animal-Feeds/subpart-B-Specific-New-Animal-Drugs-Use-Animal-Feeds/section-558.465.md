@@ -1,5 +1,7 @@
 ##### § 558.465 Poloxalene free-choice liquid Type C feed. #####
 
+Link to an amendment published at 84 FR 33001, July 11, 2019.
+
 (a) *Approvals.* Type A medicated articles: 99.5 percent to 066104 in § 510.600(c) of this chapter.
 
 (b) *Conditions of use.* (1) For control of legume (alfalfa, clover) and wheat pasture bloat in cattle, use 7.5 grams of poloxalene per pound of liquid Type C feed (1.65 percent weight/weight). Each animal must consume 0.2 pound of Type C feed per 100 pounds of body weight daily for adequate protection.

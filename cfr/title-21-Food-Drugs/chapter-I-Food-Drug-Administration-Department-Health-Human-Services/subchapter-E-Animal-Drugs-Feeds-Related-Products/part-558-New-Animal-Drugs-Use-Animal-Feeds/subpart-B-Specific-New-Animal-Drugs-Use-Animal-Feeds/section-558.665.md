@@ -6,7 +6,7 @@
 
 (c) *Tolerances.* See § 556.765 of this chapter.
 
-(d) *Special considerations* - (1) Labeling shall bear the following caution statements: “Zilpaterol hydrochloride is not for use in animals intended for breeding. Do not allow horses or other equines access to feed containing zilpaterol. Do not use in veal calves.”
+(d) *Special considerations.* (1) Labeling shall bear the following caution statements: “Zilpaterol hydrochloride is not for use in animals intended for breeding. Do not allow horses or other equines access to feed containing zilpaterol. Do not use in veal calves.”
 
 (2) Labeling of Type A medicated articles and Type B medicated feeds used to manufacture complete Type C medicated feeds shall bear the caution statement in paragraph (d)(3) of this section.
 

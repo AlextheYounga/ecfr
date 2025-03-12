@@ -1,5 +1,7 @@
 ##### § 524.770 Doramectin. #####
 
+Link to an amendment published at 84 FR 32993, July 11, 2019.
+
 (a) *Specifications.* Each milliliter (mL) of solution contains 5 milligrams (mg) doramectin.
 
 (b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.

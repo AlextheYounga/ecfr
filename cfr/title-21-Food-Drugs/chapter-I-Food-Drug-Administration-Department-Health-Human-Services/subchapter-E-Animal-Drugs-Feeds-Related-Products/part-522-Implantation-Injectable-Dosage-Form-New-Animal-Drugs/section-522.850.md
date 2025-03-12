@@ -1,5 +1,7 @@
 ##### § 522.850 Estradiol valerate and norgestomet in combination. #####
 
+Link to an amendment published at 84 FR 32992, July 11, 2019.
+
 (a) *Specifications.* The product is a two-component drug consisting of the following:
 
 (1) An implant containing 6.0 milligrams of norgestomet.

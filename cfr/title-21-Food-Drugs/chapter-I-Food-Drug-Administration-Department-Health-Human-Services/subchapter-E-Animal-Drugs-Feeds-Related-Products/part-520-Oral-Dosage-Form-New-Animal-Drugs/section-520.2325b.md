@@ -1,5 +1,7 @@
 ##### § 520.2325b Sulfaquinoxaline drench. #####
 
+Link to an amendment published at 84 FR 32992, July 11, 2019.
+
 (a) *Specifications.* A soluble powder containing 25 percent sulfaquinoxaline.
 
 (b) *Sponsor.* See No. 016592 in § 510.600(c) of this chapter.

@@ -1,5 +1,7 @@
 ##### § 558.464 Poloxalene. #####
 
+Link to an amendment published at 84 FR 33001, July 11, 2019.
+
 (a) *Approvals.* (1) Dry Type A medicated articles: 53 percent to 054771 in § 510.600(c) of this chapter.
 
 (2) Liquid Type A medicated articles: 99.5 percent to 054771 in § 510.600(c) of this chapter.

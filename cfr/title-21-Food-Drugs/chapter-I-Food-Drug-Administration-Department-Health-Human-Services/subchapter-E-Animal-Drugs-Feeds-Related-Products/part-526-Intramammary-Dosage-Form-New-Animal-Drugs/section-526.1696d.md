@@ -1,5 +1,7 @@
 ##### § 526.1696d Penicillin G procaine-novobiocin for intramammary infusion. #####
 
+Link to an amendment published at 84 FR 32993, July 11, 2019.
+
 (a) *Specifications.* For lactating cattle: each 10-milliliter dose contains 100,000 units of penicillin G procaine and 150 milligrams of novobiocin as novobiocin sodium. For dry cows: 200,000 units of penicillin G procaine and 400 milligrams of novobiocin as novobiocin sodium.
 
 (b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.

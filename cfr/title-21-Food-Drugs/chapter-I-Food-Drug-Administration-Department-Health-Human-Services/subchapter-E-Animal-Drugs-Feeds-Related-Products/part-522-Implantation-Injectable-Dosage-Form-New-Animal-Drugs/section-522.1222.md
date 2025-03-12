@@ -14,4 +14,4 @@
 
 (ii) *Indications for use.* For restraint.
 
-[67 FR 17283, Apr. 10, 2002, as amended at 73 FR 8192, Feb. 13, 2008. Redesignated at 79 FR 16191, Mar. 25, 2014, as amended at 80 FR 13229, Mar. 13, 2015; 83 FR 48946, Sept.. 28, 2018]
+[67 FR 17283, Apr. 10, 2002, as amended at 73 FR 8192, Feb. 13, 2008. Redesignated at 79 FR 16191, Mar. 25, 2014, as amended at 80 FR 13229, Mar. 13, 2015; 83 FR 48946, Sept. 28, 2018]

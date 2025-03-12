@@ -1,6 +1,6 @@
 ##### § 524.2620 Liquid crystalline trypsin, Peru balsam, castor oil. #####
 
-(a) *Specifications* - (1) Each gram of liquid or aerosol contains 0.12 milligram of crystalline trypsin, 87.0 milligrams of Peru balsam, and 788.0 milligrams of castor oil.
+(a) *Specifications.* (1) Each gram of liquid or aerosol contains 0.12 milligram of crystalline trypsin, 87.0 milligrams of Peru balsam, and 788.0 milligrams of castor oil.
 
 (2) Each gram of liquid or aerosol contains 0.1 milligram of crystalline trypsin, 72.5 milligrams of Peru balsam, and 800 milligrams of castor oil.
 

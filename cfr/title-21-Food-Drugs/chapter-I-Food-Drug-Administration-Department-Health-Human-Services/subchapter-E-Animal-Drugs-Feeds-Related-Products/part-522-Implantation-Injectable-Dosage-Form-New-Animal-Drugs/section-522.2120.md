@@ -1,5 +1,7 @@
 ##### § 522.2120 Spectinomycin dihydrochloride injection. #####
 
+Link to an amendment published at 84 FR 32992, July 11, 2019.
+
 (a) *Specifications.* The spectinomycin dihydrochloride pentahydrate used in manufacturing the drug is the antibiotic substance produced by the growth of *Streptomyces flavopersicus* (var. Abbott) or the same antibiotic substance produced by any other means. Each milliliter of the drug contains the following amount of spectinomycin activity from spectinomycin dihydrochloride pentahydrate:
 
 (1) 5 milligrams when used as provided in paragraph (d)(1) of this section.

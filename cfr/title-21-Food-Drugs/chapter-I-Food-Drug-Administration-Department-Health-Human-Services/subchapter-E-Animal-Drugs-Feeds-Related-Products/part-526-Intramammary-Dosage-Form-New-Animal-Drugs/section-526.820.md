@@ -1,5 +1,7 @@
 ##### § 526.820 Erythromycin. #####
 
+Link to an amendment published at 84 FR 32993, July 11, 2019.
+
 (a) *Specifications.* (1) Each 6-milliliter, single-dose, disposable syringe contains 300 milligrams of erythromycin (as the base), 0.45 milligram of butylated hydroxyanisole, and 0.45 milligram of butylated hydroxytoluene.
 
 (2) Each 12-milliliter, single-dose, disposable syringe contains 600 milligrams of erythromycin (as the base), 0.90 milligram of butylated hydroxyanisole, and 0.90 milligram of butylated hydroxytoluene.

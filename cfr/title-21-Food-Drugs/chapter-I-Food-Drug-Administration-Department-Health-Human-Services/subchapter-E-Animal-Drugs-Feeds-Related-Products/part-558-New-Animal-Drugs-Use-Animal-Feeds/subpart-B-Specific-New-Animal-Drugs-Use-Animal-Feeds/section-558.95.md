@@ -1,5 +1,7 @@
 ##### § 558.95 Bambermycins. #####
 
+Link to an amendment published at 84 FR 33001, July 11, 2019.
+
 (a) *Approvals.* See sponsors in § 510.600(c) of this chapter for use of Type A medicated articles as in paragraph (d) of this section:
 
 (1) No. 016592: 2, 4, and 10 grams per pound for use as in paragraphs (d)(1), (d)(2), (d)(3), and (d)(4) of this section.

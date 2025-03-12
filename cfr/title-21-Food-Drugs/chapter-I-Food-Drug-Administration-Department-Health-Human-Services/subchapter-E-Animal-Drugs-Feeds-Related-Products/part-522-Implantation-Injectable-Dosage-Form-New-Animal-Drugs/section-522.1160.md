@@ -1,6 +1,6 @@
 ##### § 522.1160 Insulin. #####
 
-(a) *Specifications* - (1) Each milliliter (mL) of porcine insulin zinc suspension contains 40 international units (IU) of insulin.
+(a) *Specifications.* (1) Each milliliter (mL) of porcine insulin zinc suspension contains 40 international units (IU) of insulin.
 
 (2) Each mL of protamine zinc recombinant human insulin suspension contains 40 IU of insulin.
 

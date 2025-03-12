@@ -16,7 +16,7 @@
 
 (ii) *Limitations.* Exceeding the highest recommended level of drug per pound of bodyweight per day, administering more than the recommended number of treatments, and/or exceeding 10 mL intramuscularly or subcutaneously per injection site in adult beef and dairy cattle may result in antibiotic residues beyond the withdrawal time. Rapid intravenous administration in cattle may result in animal collapse. Oxytetracycline should be administered intravenously slowly over a period of at least 5 minutes. Discontinue treatment at least 28 days prior to slaughter. Milk taken from animals during treatment and for 96 hours after the last treatment must not be used for food.
 
-(2) *Swine* - (i) *Amounts and indications for use* - (A) Sows: 3 mg/lb BW intramuscularly once, approximately 8 hours before farrowing or immediately after completion of farrowing, as an aid in control of infectious enteritis (baby pig scours, colibacillosis) in suckling pigs caused by *E.**coli.*
+(2) *Swine* - (i) *Amounts and indications for use.* (A) Sows: 3 mg/lb BW intramuscularly once, approximately 8 hours before farrowing or immediately after completion of farrowing, as an aid in control of infectious enteritis (baby pig scours, colibacillosis) in suckling pigs caused by *E.**coli.*
 
 (B) 3 to 5 mg/lb BW/day intramuscularly for treatment of bacterial enteritis (scours, colibacillosis) caused by *E.**coli,* pneumonia caused by *Pasteurella multocida,* and leptospirosis caused by *Leptospira pomona.*
 

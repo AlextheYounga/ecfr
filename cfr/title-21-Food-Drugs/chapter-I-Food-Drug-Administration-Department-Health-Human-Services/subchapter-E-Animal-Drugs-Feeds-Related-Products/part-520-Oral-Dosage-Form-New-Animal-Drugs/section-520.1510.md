@@ -14,7 +14,7 @@
 
 (B) One 11.4-mg tablet for dogs weighing less than 25 lb or one 57 mg tablet for dogs weighing more than 25 lbs, once or twice weekly, for use as in paragraph (d)(1)(ii)(B) of this section.
 
-(ii) *Indications for use* - (A) For the treatment of flea infestations on dogs and puppies 4 weeks of age and older and 2 lbs of body weight or greater.
+(ii) *Indications for use.* (A) For the treatment of flea infestations on dogs and puppies 4 weeks of age and older and 2 lbs of body weight or greater.
 
 (B) The concurrent use of nitenpyram tablets as in paragraph (d)(1)(i)(B) of this section with either flavored lufenuron tablets as in § 520.1288(c)(1) of this chapter or flavored milbemycin and lufenuron tablets as in § 520.1443(d)(1) is indicated to kill adult fleas and prevent flea eggs from hatching.
 

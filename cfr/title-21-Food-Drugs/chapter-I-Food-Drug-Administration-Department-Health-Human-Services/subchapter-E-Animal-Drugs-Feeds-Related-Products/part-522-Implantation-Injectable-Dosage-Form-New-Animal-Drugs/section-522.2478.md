@@ -1,6 +1,6 @@
 ##### § 522.2478 Trenbolone acetate and estradiol benzoate. #####
 
-(a) *Specifications* - (1) Each implant consists of:
+(a) *Specifications.* (1) Each implant consists of:
 
 (i) 8 pellets, each pellet containing 25 milligrams (mg) trenbolone acetate and 3.5 mg estradiol benzoate.
 
@@ -40,7 +40,7 @@
 
 (C) *Limitations.* Implant subcutaneously in ear only. Safety and effectiveness have not been established in veal calves. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
 
-(2) *Heifers fed in confinement for slaughter* - (i) For an implant as described in paragraph (a)(1)(i) of this section:
+(2) *Heifers fed in confinement for slaughter.* (i) For an implant as described in paragraph (a)(1)(i) of this section:
 
 (A) *Amount.* 200 mg trenbolone acetate and 28 mg estradiol benzoate.
 
@@ -64,7 +64,7 @@
 
 (C) *Limitations.* Implant subcutaneously in ear only. Not for use in dairy or beef replacement heifers. Safety and effectiveness have not been established in veal calves. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
 
-(3) *Pasture steers and heifers (slaughter, stocker, and feeder)* - (i) For an implant as described in paragraph (a)(2)(ii) of this section:
+(3) *Pasture steers and heifers (slaughter, stocker, and feeder).* (i) For an implant as described in paragraph (a)(2)(ii) of this section:
 
 (A) *Amount.* 150 mg trenbolone acetate and 21 mg estradiol benzoate in an extended release implant.
 

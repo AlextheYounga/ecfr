@@ -1,8 +1,6 @@
 ##### § 268.104 Pre-complaint processing. #####
 
-Link to an amendment published at 84 FR 27029, June 11, 2019.
-
-(a) Aggrieved persons who believe they have been discriminated against on the basis of race, color, religion, sex, national origin, age or disability must consult a Counselor prior to filing a complaint in order to try to informally resolve the matter.
+(a) Aggrieved persons who believe they have been discriminated against on the basis of race, color, religion, sex, national origin, age, disability, or genetic information must consult a Counselor prior to filing a complaint in order to try to informally resolve the matter.
 
 (1) An aggrieved person must initiate contact with a Counselor within 45 days of the date of the matter alleged to be discriminatory or, in the case of a personnel action, within 45 days of the effective date of the action.
 
@@ -14,10 +12,12 @@ Link to an amendment published at 84 FR 27029, June 11, 2019.
 
 (c) Counselors shall conduct counseling activities in accordance with instructions contained in Commission Management Directives. When advised that a complaint has been filed by an aggrieved person, the Counselor shall submit a written report within 15 days to the EEO Programs Director and the aggrieved person concerning the issues discussed and actions taken during counseling.
 
-(d) Unless the aggrieved person agrees to a longer counseling period under paragraph (e) of this section, or the aggrieved person chooses an alternative dispute resolution procedure in accordance with paragraph (b)(2) of this section, the Counselor shall conduct the final interview with the aggrieved person within 30 days of the date the aggrieved person contacted the Board's EEO Programs Office to request counseling. If the matter has not been resolved, the aggrieved person shall be informed in writing by the Counselor, not later than the thirtieth day after contacting the Counselor, of the right to file a discrimination complaint with the Board. This notice shall inform the complainant of the right to file a discrimination complaint within 15 days of receipt of the notice, of the appropriate official with whom to file a complaint and of the complainant's duty to assure that the EEO Programs Director is informed immediately if the complainant retains counsel or a representative.
+(d) Unless the aggrieved person agrees to a longer counseling period under paragraph (e) of this section, or the aggrieved person chooses an alternative dispute resolution procedure in accordance with paragraph (b)(2) of this section, the Counselor shall conduct the final interview with the aggrieved person within 30 days of the date the aggrieved person contacted the Board's Office of Diversity and Inclusion to request counseling. If the matter has not been resolved, the aggrieved person shall be informed in writing by the Counselor, not later than the thirtieth day after contacting the Counselor, of the right to file a discrimination complaint with the Board. This notice shall inform the complainant of the right to file a discrimination complaint within 15 days of receipt of the notice, of the appropriate official with whom to file a complaint and of the complainant's duty to assure that the Programs Director is informed immediately if the complainant retains counsel or a representative.
 
 (e) Prior to the end of the 30-day period, the aggrieved person may agree in writing with the Board to postpone the final interview and extend the counseling period for an additional period of no more than 60 days. If the matter has not been resolved before the conclusion of the agreed extension, the notice described in paragraph (d) of this section shall be issued.
 
 (f) Where the aggrieved person chooses to participate in an alternative dispute resolution procedure in accordance with paragraph (b)(2) of this section, the pre-complaint processing period shall be 90 days. If the claim has not been resolved before the 90th day, the notice described in paragraph (d) of this section shall be issued.
 
 (g) The Counselor shall not attempt in any way to restrain the aggrieved person from filing a complaint. The Counselor shall not reveal the identity of an aggrieved person who consulted the Counselor, except when authorized to do so by the aggrieved person, or until the Board has received a discrimination complaint under this part from that person involving the same matter.
+
+[68 FR 18085, Apr. 15, 2003, as amended at 84 FR 27029, June 11, 2019]

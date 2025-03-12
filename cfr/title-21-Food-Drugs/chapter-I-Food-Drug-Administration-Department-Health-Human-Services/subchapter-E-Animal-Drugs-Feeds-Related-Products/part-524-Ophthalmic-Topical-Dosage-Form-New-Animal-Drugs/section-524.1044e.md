@@ -1,5 +1,7 @@
 ##### § 524.1044e Gentamicin spray. #####
 
+Link to an amendment published at 84 FR 32993, July 11, 2019.
+
 (a) *Specification.* Each milliliter of sterile aqueous solution contains gentamicin sulfate equivalent to 1.07 milligrams of gentamicin.
 
 (b) *Sponsor.* See No. 000061 in § 510.600(c) of this chapter.

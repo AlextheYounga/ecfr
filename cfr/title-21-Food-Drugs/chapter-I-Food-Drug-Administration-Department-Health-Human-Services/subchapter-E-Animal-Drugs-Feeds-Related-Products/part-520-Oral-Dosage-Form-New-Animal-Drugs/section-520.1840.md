@@ -1,5 +1,7 @@
 ##### § 520.1840 Poloxalene. #####
 
+Link to an amendment published at 84 FR 32992, July 11, 2019.
+
 (a) *Specifications.* Polyoxypropylene-polyoxyethylene glycol nonionic block polymer.
 
 (b) *Sponsors.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (d) of this section.

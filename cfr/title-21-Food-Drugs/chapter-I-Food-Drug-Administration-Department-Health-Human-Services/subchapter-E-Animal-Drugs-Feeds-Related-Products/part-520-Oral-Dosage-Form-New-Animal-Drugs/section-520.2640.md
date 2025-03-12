@@ -1,5 +1,7 @@
 ##### § 520.2640 Tylosin. #####
 
+Link to an amendment published at 84 FR 32992, July 11, 2019.
+
 (a) *Specifications.* Each container of soluble powder contains tylosin tartrate equivalent to either 100 or 256 grams tylosin base.
 
 (b) *Sponsors* - (1) Nos. 016592 and 058198 for use as in paragraph (e) of this section.

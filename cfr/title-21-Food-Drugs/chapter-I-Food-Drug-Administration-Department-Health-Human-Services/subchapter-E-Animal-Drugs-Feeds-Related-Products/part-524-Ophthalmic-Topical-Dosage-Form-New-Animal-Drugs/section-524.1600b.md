@@ -1,5 +1,7 @@
 ##### § 524.1600b Nystatin, neomycin, thiostrepton, and triamcinolone ophthalmic ointment. #####
 
+Link to an amendment published at 84 FR 32993, July 11, 2019.
+
 (a) *Specifications.* Each cubic centimeter of ointment contains: 100,000 units of nystatin, neomycin sulfate equivalent to 2.5 milligrams of neomycin base, 2,500 units of thiostrepton, and 1.0 milligram of triamcinolone acetonide.
 
 (b) *Sponsor.* See No. 053501 in § 510.600(c) of this chapter.

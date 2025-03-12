@@ -1,5 +1,7 @@
 ##### § 522.2640 Tylosin. #####
 
+Link to an amendment published at 84 FR 32992, July 11, 2019.
+
 (a) *Specifications.* Each milliliter (mL) of solution contains 50 or 200 milligrams (mg) of tylosin activity (as tylosin base).
 
 (b) *Sponsors.* See sponsors in § 510.600(c) of this chapter as follows:

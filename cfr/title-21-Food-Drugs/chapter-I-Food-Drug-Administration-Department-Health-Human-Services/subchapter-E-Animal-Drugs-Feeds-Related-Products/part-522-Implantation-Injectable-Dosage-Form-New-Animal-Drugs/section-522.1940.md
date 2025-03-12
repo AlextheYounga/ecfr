@@ -10,7 +10,7 @@
 
 (c) *Conditions of use in cattle.* It is used for implantation as follows:
 
-(1) *Suckling beef calves* - (i) *Amount* - (A) 100 milligrams (mg) progesterone and 10 mg estradiol benzoate (one implant consisting of 4 pellets, each pellet containing 25 mg progesterone and 2.5 mg estradiol benzoate) per implant dose.
+(1) *Suckling beef calves* - (i) *Amount.* (A) 100 milligrams (mg) progesterone and 10 mg estradiol benzoate (one implant consisting of 4 pellets, each pellet containing 25 mg progesterone and 2.5 mg estradiol benzoate) per implant dose.
 
 (B) 100 mg progesterone and 10 mg estradiol benzoate (one implant consisting of 5 pellets, each of 4 pellets containing 25 mg progesterone and 2.5 mg estradiol benzoate, and 1 pellet containing 29 mg tylosin tartrate) per implant dose.
 
@@ -18,7 +18,7 @@
 
 (iii) *Limitations.* For use in suckling beef calves (at least 45 days of age) up to 400 pounds (lb) of body weight. For subcutaneous ear implantation, one dose per animal. Do not use in bull calves intended for reproduction. Safety and effectiveness have not been established in veal calves. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
 
-(2) *Steers* - (i) *Amount* - (A) 200 mg progesterone and 20 mg estradiol benzoate (one implant consisting of 8 pellets, each pellet containing 25 mg progesterone and 2.5 mg estradiol benzoate) per implant dose.
+(2) *Steers* - (i) *Amount.* (A) 200 mg progesterone and 20 mg estradiol benzoate (one implant consisting of 8 pellets, each pellet containing 25 mg progesterone and 2.5 mg estradiol benzoate) per implant dose.
 
 (B) 200 mg progesterone and 20 mg estradiol benzoate (one implant consisting of 9 pellets, each of 8 pellets containing 25 mg progesterone and 2.5 mg estradiol benzoate, and 1 pellet containing 29 mg tylosin tartrate) per implant dose.
 

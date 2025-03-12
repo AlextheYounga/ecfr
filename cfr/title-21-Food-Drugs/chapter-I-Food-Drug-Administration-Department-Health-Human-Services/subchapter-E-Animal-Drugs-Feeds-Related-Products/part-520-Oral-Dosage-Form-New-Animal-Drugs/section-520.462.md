@@ -1,5 +1,7 @@
 ##### § 520.462 Clorsulon drench. #####
 
+Link to an amendment published at 84 FR 32992, July 11, 2019.
+
 (a) *Specifications.* The drug is a suspension containing 8.5 percent clorsulon (85 milligrams per milliliter).
 
 (b) *Sponsor.* See No. 050604 in § 510.600(c) of this chapter.

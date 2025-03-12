@@ -1,5 +1,7 @@
 ##### § 522.1662a Oxytetracycline hydrochloride injection. #####
 
+Link to an amendment published at 84 FR 32992, July 11, 2019.
+
 (a)(1) *Specifications.* The drug contains 50 milligrams of oxytetracycline hydrochloride in each milliliter of sterile solution.
 
 (2) *Sponsor.* See No. 069043 in § 510.600(c) of this chapter.

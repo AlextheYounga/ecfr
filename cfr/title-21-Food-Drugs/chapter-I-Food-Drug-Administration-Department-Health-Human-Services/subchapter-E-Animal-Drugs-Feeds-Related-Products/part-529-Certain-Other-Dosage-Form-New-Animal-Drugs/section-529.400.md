@@ -1,5 +1,7 @@
 ##### § 529.400 Chlorhexidine tablets and suspension. #####
 
+Link to an amendment published at 84 FR 32993, July 11, 2019.
+
 (a) *Specification.* Each tablet and each 28-milliliter syringe of suspension contain 1 gram of chlorhexidine dihydrochloride.
 
 (b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.

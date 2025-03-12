@@ -1,5 +1,7 @@
 ##### § 522.1242 Levamisole. #####
 
+Link to an amendment published at 84 FR 32992, July 11, 2019.
+
 (a) *Specifications.* Each milliliter of solution contains levamisole phosphate equivalent to 136.5 or 182 milligrams of levamisole hydrochloride (13.65 or 18.2 percent).
 
 (b) *Sponsor.* See Nos. 000061 and 016592 in § 510.600 of this chapter for use of 13.65 percent injection, and see No. 054771 for use of 13.65 and 18.2 percent injection.

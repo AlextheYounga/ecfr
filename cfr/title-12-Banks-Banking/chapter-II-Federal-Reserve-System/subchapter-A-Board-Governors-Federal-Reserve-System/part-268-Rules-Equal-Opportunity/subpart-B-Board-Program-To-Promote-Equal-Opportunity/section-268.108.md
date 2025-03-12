@@ -1,7 +1,5 @@
 ##### § 268.108 Hearings. #####
 
-Link to an amendment published at 84 FR 27030, June 11, 2019.
-
 (a) When a complainant requests a hearing, the Commission shall appoint an administrative judge to conduct a hearing in accordance with this section. Upon appointment, the administrative judge shall assume full responsibility for the adjudication of the complaint, including overseeing the development of the record. Any hearing will be conducted by an administrative judge or hearing examiner with appropriate security clearances.
 
 (b) *Dismissals.* Administrative judges may dismiss complaints pursuant to § 268.106, on their own initiative, after notice to the parties, or upon the Board's motion to dismiss a complaint.
@@ -32,7 +30,7 @@ Link to an amendment published at 84 FR 27030, June 11, 2019.
 
 (v) Take such other actions as appropriate.
 
-(g) *Decisions without hearing.* (1) If a party believes that some or all material facts are not in genuine dispute and there is no genuine issue as to credibility, the party may, at least 15 days prior to the date of the hearing or at such earlier time as required by the administrative judge, file a statement with the administrative judge prior to the hearing setting forth the fact or facts and referring to the parts of the record relied on to support the statement. The statement must demonstrate that there is no genuine issue as to any such material fact. The party shall serve the statement on the opposing party.
+(g) *Summary judgement.* (1) If a party believes that some or all material facts are not in genuine dispute and there is no genuine issue as to credibility, the party may, at least 15 days prior to the date of the hearing or at such earlier time as required by the administrative judge, file a statement with the administrative judge prior to the hearing setting forth the fact or facts and referring to the parts of the record relied on to support the statement. The statement must demonstrate that there is no genuine issue as to any such material fact. The party shall serve the statement on the opposing party.
 
 (2) The opposing party may file an opposition within 15 days of receipt of the statement in paragraph (g)(1) of this section. The opposition may refer to the record in the case to rebut the statement that a fact is not in dispute or may file an affidavit stating that the party cannot, for reasons stated, present facts to oppose the request. After considering the submissions, the administrative judge may order that discovery be permitted on the fact or facts involved, limit the hearing to the issues remaining in dispute, issue a decision without a hearing or make such other ruling as is appropriate.
 
@@ -41,3 +39,5 @@ Link to an amendment published at 84 FR 27030, June 11, 2019.
 (h) *Record of hearing.* The hearing shall be recorded and the Board shall arrange and pay for verbatim transcripts. All documents submitted to, and accepted by, the administrative judge at the hearing shall be made part of the record of the hearing. If the Board submits a document that is accepted, it shall furnish a copy of the document to the complainant. If the complainant submits a document that is accepted, the administrative judge shall make the document available to the Board's representative for reproduction.
 
 (i) *Decisions by administrative judges.* Unless the administrative judge makes a written determination that good cause exists for extending the time for issuing a decision, an administrative judge shall issue a decision on the complaint, and shall order appropriate remedies and relief where discrimination is found, within 180 days of receipt by the administrative judge of the complaint file from the Board. The administrative judge shall send copies of the hearing record, including the transcript, and the decision to the parties. If the Board does not issue a final order within 40 days of receipt of the administrative judge's decision in accordance with § 268.109(a), then the decision of the administrative judge shall become the final action of the Board.
+
+[68 FR 18085, Apr. 15, 2003, as amended at 84 FR 27030, June 11, 2019]

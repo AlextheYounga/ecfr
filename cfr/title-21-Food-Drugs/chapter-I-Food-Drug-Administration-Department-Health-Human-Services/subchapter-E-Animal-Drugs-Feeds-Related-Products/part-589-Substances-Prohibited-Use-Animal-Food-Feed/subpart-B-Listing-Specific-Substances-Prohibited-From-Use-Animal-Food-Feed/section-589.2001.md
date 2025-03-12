@@ -1,8 +1,8 @@
 ##### § 589.2001 Cattle materials prohibited in animal food or feed to prevent the transmission of bovine spongiform encephalopathy. #####
 
-(a) *Purpose* - The purpose of this section is to prohibit the use of certain cattle origin materials in the food or feed of all animals to further reduce the risk of the spread of bovine spongiform encephalopathy (BSE) within the United States.
+(a) *Purpose.* The purpose of this section is to prohibit the use of certain cattle origin materials in the food or feed of all animals to further reduce the risk of the spread of bovine spongiform encephalopathy (BSE) within the United States.
 
-(b) *Definitions* - (1) *Cattle materials prohibited in animal feed* include:
+(b) *Definitions*—(1) *Cattle materials prohibited in animal feed* include:
 
 (i) The entire carcass of BSE-positive cattle;
 

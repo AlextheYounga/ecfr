@@ -26,4 +26,4 @@
 
 (iv) Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[40 FR 13838, Mar. 27, 1975, as amended at 41 FR 28265, July 9, 1976; 44 FR 3967, Jan. 19, 1979; 47 FR 14150, Apr. 2, 1982; 47 FR 35186, Aug. 13, 1982; 49 FR 33997, Aug. 28, 1984; 50 FR 41489, Oct. 11, 1985; 53 FR 47027, Oct. 18, 1988; 61 FR 34728, July 3, 1996; 62 FR 35076, June 30, 1997; 62 FR 38906, July 21, 1997; 77 FR 4897, Feb. 1, 2012; 78 FR 21059, Apr. 9, 2013; 79 FR 28820, May 20, 2014; 84 FR 48945, Sept. 28, 2018]
+[40 FR 13838, Mar. 27, 1975, as amended at 41 FR 28265, July 9, 1976; 44 FR 3967, Jan. 19, 1979; 47 FR 14150, Apr. 2, 1982; 47 FR 35186, Aug. 13, 1982; 49 FR 33997, Aug. 28, 1984; 50 FR 41489, Oct. 11, 1985; 53 FR 47027, Oct. 18, 1988; 61 FR 34728, July 3, 1996; 62 FR 35076, June 30, 1997; 62 FR 38906, July 21, 1997; 77 FR 4897, Feb. 1, 2012; 78 FR 21059, Apr. 9, 2013; 79 FR 28820, May 20, 2014; 83 FR 48945, Sept. 28, 2018]

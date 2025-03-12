@@ -1,6 +1,6 @@
 ##### § 522.1010 Furosemide. #####
 
-(a) *Specifications* - (1) Each milliliter (mL) of solution contains 50 milligrams (mg) furosemide monoethanolamine.
+(a) *Specifications.* (1) Each milliliter (mL) of solution contains 50 milligrams (mg) furosemide monoethanolamine.
 
 (2) Each mL of solution contains 50 mg furosemide diethanolamine.
 
@@ -16,7 +16,7 @@
 
 (c) *Special considerations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-(d) *Conditions of use* - (1) *Dogs and cats* - (i) Amount. 1.25 to 2.5 mg per pound (/lb) body weight once or twice daily, intramuscularly or intravenously.
+(d) *Conditions of use* - (1) *Dogs and cats* - (i) *Amount.* 1.25 to 2.5 mg per pound (/lb) body weight once or twice daily, intramuscularly or intravenously.
 
 (ii) *Indications for use.* For the treatment of edema (pulmonary congestion, ascites) associated with cardiac insufficiency and acute noninflammatory tissue edema.
 
