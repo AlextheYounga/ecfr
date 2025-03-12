@@ -1,5 +1,7 @@
 ##### § 71.71 Class E airspace. #####
 
+Link to an amendment published at 83 FR 43757, Aug. 28, 2018.
+
 Class E Airspace consists of:
 
 (a) The airspace of the United States, including that airspace overlying the waters within 12 nautical miles of the coast of the 48 contiguous states and Alaska, extending upward from 14,500 feet MSL up to, but not including 18,000 feet MSL, and the airspace above FL600, excluding -
