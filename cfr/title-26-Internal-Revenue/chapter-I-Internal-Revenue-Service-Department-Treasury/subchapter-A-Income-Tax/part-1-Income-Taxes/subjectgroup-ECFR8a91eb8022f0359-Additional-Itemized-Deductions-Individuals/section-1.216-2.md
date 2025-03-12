@@ -62,7 +62,7 @@ Example 3.The facts are the same as in *Example 1* except that B occupies his ap
 |      Per share price paid by C multiplied by total shares of stock in Y corporation outstanding on 1-1-67 ($150 × 1,000)       |150,000 |
 |                                        Y's mortgage indebtedness outstanding on 1-1-67                                         |135,000 |
 |                                                                                                                                |285,000 |
-|                               Less: Amount attributable to land (assumed to be 1/5 of $285,000)                                | 57,000 |
+|                    Less: Amount attributable to land (assumed to be <sup>1</sup>⁄<sub>5</sub> of $285,000)                     | 57,000 |
 |                                                                                                                                |228,000 |
 |                                                 Less: Estimated salvage value                                                  | 20,000 |
 |                                Basis of Y's building for purposes of computing C's depreciation                                |208,000 |

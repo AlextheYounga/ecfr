@@ -1,5 +1,7 @@
 ##### § 215.3 Administration. #####
 
+Link to an amendment published at 87 FR 57354, Sept. 19, 2022.
+
 (a) Within the Department, FNS shall act on behalf of the Department in the administration of the Program. Within FNS, CND shall be responsible for Program administration.
 
 (b) Within the States, to the extent practicable and permissible under State law, responsibility for the administration of the Program in schools and child care institutions shall be in the educational agency of the State: *Provided, however,* That another State agency, upon request by the Governor or other appropriate State executive or legislative authority, may be approved to administer the Program in schools as described in paragraph (3) of the definition of *School* in § 215.2 or in child care institutions.

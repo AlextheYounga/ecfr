@@ -1,6 +1,6 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 87 FR 51220, Aug. 19, 2022.Link to an amendment published at 87 FR 51537, Aug. 22, 2022.Link to an amendment published at 87 FR 53639, Aug. 31, 2022.Link to an amendment published at 87 FR 54346, Sept. 6, 2022.Link to an amendment published at 87 FR 54129, Sept. 2, 2022.
+Link to an amendment published at 87 FR 51537, Aug. 22, 2022.Link to an amendment published at 87 FR 53639, Aug. 31, 2022.Link to an amendment published at 87 FR 54346, Sept. 6, 2022.Link to an amendment published at 87 FR 54129, Sept. 2, 2022.
 
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows -
 
@@ -23,8 +23,6 @@ For purposes of this part, words shall be defined as provided for in section 321
 (2) Has been activated; and
 
 (3) Provides one or more main functions.
-
-*Adaptive external power supply* (EPS) means an external power supply that can alter its output voltage during active-mode based on an established digital communication protocol with the end-use application without any user-generated action.
 
 *Air cleaner* means a product for improving indoor air quality, other than a central air conditioner, room air conditioner, portable air conditioner, dehumidifier, or furnace, that is an electrically-powered, self-contained, mechanically encased assembly that contains means to remove, destroy, or deactivate particulates, VOC, and/or microorganisms from the air. It excludes products that operate solely by means of ultraviolet light without a fan for air circulation.
 
@@ -220,6 +218,40 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Combination cooler refrigeration product* means any cooler-refrigerator, cooler-refrigerator-freezer, or cooler-freezer.
 
+*Commercial and industrial power supply* means a power supply that is used to convert electric current into DC or lower-voltage AC current, is not distributed in commerce for use with a consumer product, and may include any of the following characteristics:
+
+(1) A power supply that requires 3-phase input power and that is incapable of operating on household mains electricity;
+
+(2) A DC-DC-only power supply that is incapable of operating on household mains electricity;
+
+(3) A power supply with a fixed, non-removable connection to an end-use device that is not a consumer product as defined under the Act;
+
+(4) A power supply whose output connector is uniquely shaped to fit only an end-use device that is not a consumer product;
+
+(5) A power supply that cannot be readily connected to an end-use device that is a consumer product without significant modification or customization of the power supply itself or the end-use device;
+
+(6) A power supply packaged with an end-use device that is not a consumer product, as evidenced by either:
+
+(i) Such device being certified as, or declared to be in conformance with, a specific standard applicable only to non-consumer products. For example, a power supply model intended for use with an end-use device that is certified to the following standards would not meet the EPCA definition of an EPS:
+
+(A) CISPR 11 (Class A Equipment), “Industrial, scientific and medical equipment - Radio-frequency disturbance - Limits and methods of measurement”;
+
+(B) UL 1480A, “Standard for Speakers for Commercial and Professional Use”;
+
+(C) UL 813, “Standard for Commercial Audio Equipment”; and
+
+(D) UL 1727, “Standard for Commercial Electric Personal Grooming Appliances”; or
+
+(ii) Such device being excluded or exempted from inclusion within, or conformance with, a law, regulation, or broadly-accepted industry standard where such exclusion or exemption applies only to non-consumer products;
+
+(7) A power supply distributed in commerce for use with an end-use device where:
+
+(i) The end-use device is not a consumer product, as evidenced by either the circumstances in paragraph (6)(i) or (ii) of this definition; and
+
+(ii) The end-use device for which the power supply is distributed in commerce is reasonably disclosed to the public, such as by identification of the end-use device on the packaging for the power supply, documentation physically present with the power supply, or on the manufacturer's or private labeler's public website; or
+
+(8) A power supply that is not marketed for residential or consumer use, and that is clearly marked (or, alternatively, the packaging of the individual power supply, the shipping container of multiple such power supplies, or associated documentation physically present with the power supply when distributed in commerce is clearly marked) “FOR USE WITH COMMERCIAL OR INDUSTRIAL EQUIPMENT ONLY” or “NOT FOR RESIDENTIAL OR CONSUMER USE,” with the marking designed and applied so that the marking will be visible and legible during customary conditions for the item on which the marking is placed.
+
 *Compact fluorescent lamp (CFL)* means an integrated or non-integrated single-base, low-pressure mercury, electric-discharge source in which a fluorescing coating transforms some of the ultraviolet energy generated by the mercury discharge into light; the term does not include circline or U-shaped lamps.
 
 *Compact refrigerator/refrigerator-freezer/freezer* means any refrigerator, refrigerator-freezer or freezer with a total refrigerated volume of less than 7.75 cubic feet (220 liters). (Total refrigerated volume shall be determined using the applicable test procedure appendix prescribed in subpart B of this part.)
@@ -362,7 +394,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Estimated annual operating cost* means the aggregate retail cost of the energy which is likely to be consumed annually, and in the case of showerheads, faucets, water closets, and urinals, the aggregate retail cost of water and wastewater treatment services likely to be incurred annually, in representative use of a consumer product, determined in accordance with Section 323 of EPCA (42 U.S.C. 6293).
 
-*External power supply* means an external power supply circuit that is used to convert household electric current into DC current or lower-voltage AC current to operate a consumer product. However, the term does not include a power supply circuit, driver, or device that is designed exclusively to be connected to, and power -
+*External power supply* means an external power supply circuit that is used to convert household electric current into DC current or lower-voltage AC current to operate a consumer product. However, the term does not include any “commercial and industrial power supply” as defined in this section, or a power supply circuit, driver, or device that is designed exclusively to be connected to, and power -
 
 (1) Light-emitting diodes providing illumination;
 

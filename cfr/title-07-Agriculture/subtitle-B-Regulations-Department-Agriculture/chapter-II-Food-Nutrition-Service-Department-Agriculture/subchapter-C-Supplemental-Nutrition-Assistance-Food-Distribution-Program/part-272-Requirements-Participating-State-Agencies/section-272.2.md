@@ -1,14 +1,12 @@
 ##### § 272.2 Plan of operation. #####
 
-(a) *General purpose and content* - (1) *Purpose.* State agencies shall periodically plan and budget program operations and establish objectives. When planning and budgeting for program operations for the next year, State agencies shall consider major corrective action objectives, existing program strengths and deficiencies, and other factors anticipated to impact on the operation of the State's SNAP and on projected expenditures.
+(a) *General purpose and content*—(1) *Purpose.* State agencies shall periodically plan and budget program operations and establish objectives. When planning and budgeting for program operations for the next year, State agencies shall consider major corrective action objectives, existing program strengths and deficiencies, and other factors anticipated to impact on the operation of the State's SNAP and on projected expenditures.
 
 (2) *Content.* The basic components of the State Plan of Operation are the Federal/State Agreement, the Budget Projection Statement, and the Program Activity Statement. In addition, certain attachments to the Plan are specified in this section and in § 272.3. The requirements for the basic components and attachments are specified in § 272.2(c) and § 272.2(d) respectively. The Federal/State Agreement is the legal agreement between the State and the Department of Agriculture. This Agreement is the means by which the State elects to operate SNAP and to administer the program in accordance with the Food and Nutrition Act of 2008, as amended, regulations issued pursuant to the Act and the FNS-approved State Plan of Operation. The Budget Projection Statement and Program Activity Statement provide information on the number of actions and amounts budgeted for various functional areas such as certification and issuance. The Plan's attachments include the Quality Control Sample Plan, the Disaster Plan (currently reserved), the Employment and Training Plan, the optional Nutrition Education Plan, the optional plan for Program informational activities directed to low-income households, the optional plan for intercepting Unemployment Compensation (UC) benefits for collecting claims for intentional Program violations, the Systematic Alien Verification for Entitlements (SAVE) Plan, and the plan for the State Income and Eligibility Verification System. The State agency shall either include the Workfare Plan in its State Plan of Operation or append the Workfare Plan to the State Plan of Operation, as appropriate, in accordance with § 273.22(b)(3) of this chapter. The Workfare Plan shall be submitted separately, in accordance with § 273.22(b)(1) of this chapter. The ADP/CIS Plan is considered part of the State Plan of Operation but is submitted separately as prescribed under § 272.2(e)(8). State agencies and/or political subdivisions selected to operate a Simplified Application/Standardized Benefit Project shall include that Project's Work Plan in the State Plan of Operation. The Plan's attachments shall also include the Mail Issuance Loss Reporting Level Plan.
 
-(b) *Federal/State Agreement.*
+(b) *Federal/State Agreement.* (1) The wording of the Federal/State Agreement is as follows:
 
-(1) The wording of the Federal/State Agreement is as follows:
-
-The SNAP State agency of \_\_\_ and the Food and Nutrition Service (FNS), U.S. Department of Agriculture (USDA), hereby agree to act in accordance with the provisions of the Food and Nutrition Act of 2008, as amended, implementing regulations and the FNS approved State Plan of Operation. The State agency and FNS USDA further agree to fully comply with any changes in Federal law and regulations. This agreement may be modified with the mutual written consent of both parties.
+The SNAP State agency of \_\_\_\_\_\_ and the Food and Nutrition Service (FNS), U.S. Department of Agriculture (USDA), hereby agree to act in accordance with the provisions of the Food and Nutrition Act of 2008, as amended, implementing regulations and the FNS approved State Plan of Operation. The State agency and FNS USDA further agree to fully comply with any changes in Federal law and regulations. This agreement may be modified with the mutual written consent of both parties.
 
 Provisions
 
@@ -157,11 +155,11 @@ The allocations to a State for SNAP-Ed grants will be:
 
 (*2*) For FY 2014, 90 percent based on a State's FY 2009 SNAP-Ed expenditures, and 10 percent based on the State's share of national SNAP participants for the 12-month period February 1, 2012 to January 31, 2013;
 
-(3) For FY 2015, 80 percent based on a State's FY 2009 SNAP-Ed expenditures, and 20 percent based on the State's share of national SNAP participants for the 12-month period February 1, 2013 to January 31, 2014;
+(*3*) For FY 2015, 80 percent based on a State's FY 2009 SNAP-Ed expenditures, and 20 percent based on the State's share of national SNAP participants for the 12-month period February 1, 2013 to January 31, 2014;
 
 (*4*) For FY 2016, 70 percent based on a State's FY 2009 SNAP-Ed expenditures, and 30 percent based on the State's share of national SNAP participants for the 12-month period February 1, 2014 to January 31, 2015;
 
-(*5)* For FY 2017, 60 percent based on a State's FY 2009 SNAP-Ed expenditures, and 40 percent based on the State's share of national SNAP participants for the 12-month period February 1, 2015 to January 31, 2016; and,
+(*5*) For FY 2017, 60 percent based on a State's FY 2009 SNAP-Ed expenditures, and 40 percent based on the State's share of national SNAP participants for the 12-month period February 1, 2015 to January 31, 2016; and,
 
 (*6*) For FY 2018 and subsequent years, 50 percent based on a State's FY 2009 SNAP-Ed expenditures, and 50 percent based on the State's share of national SNAP participants for the previous 12-month period ending January 31;
 

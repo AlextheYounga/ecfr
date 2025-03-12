@@ -1,5 +1,7 @@
 ##### § 431.464 Test procedure for the measurement of energy efficiency, energy consumption, and other performance factors of pumps. #####
 
+Link to an amendment published at 87 FR 57299, Sept. 19, 2022.
+
 (a) *General pumps* - (1) *Scope.* This paragraph (a) provides the test procedures for determining the constant and variable load pump energy index for:
 
 (i) The following categories of clean water pumps:

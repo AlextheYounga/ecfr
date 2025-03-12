@@ -1,5 +1,7 @@
 ##### § 225.3 Administration. #####
 
+Link to an amendment published at 87 FR 57356, Sept. 19, 2022.
+
 (a) *Responsibility within the Department.* FNS shall act on behalf of the Department in the administration of the Program.
 
 (b) *State administered programs.* Within the State, responsibility for the administration of the Program shall be in the State agency. Each State agency must notify the Department by November 1 of the fiscal year regarding its intention to administer the Program. Each State agency desiring to take part in the Program shall enter into a written agreement with FNS for the administration of the Program in accordance with the provisions of this part. The agreement shall cover the operation of the Program during the period specified therein and may be extended by written consent of both parties. The agreement shall contain an assurance that the State agency will comply with the Department's nondiscrimination regulations (7 CFR part 15) issued under title VI of the Civil Rights Act of 1964, and any Instructions issued by FNS pursuant to those regulations, title IX of the Education Amendments of 1972, and section 504 of the Rehabilitation Act of 1973. However, if a State educational agency is not permitted by law to disburse funds to any of the nonpublic schools in the State, the Secretary shall disburse the funds directly to such schools within the State for the same purposes and subject to the same conditions as the disbursements to public schools within the State by the State educational agency.

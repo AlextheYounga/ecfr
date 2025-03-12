@@ -1,6 +1,6 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 87 FR 51221, Aug. 19, 2022.Link to an amendment published at 87 FR 51537, Aug. 22, 2022.Link to an amendment published at 87 FR 53641, Aug. 31, 2022.Link to an amendment published at 87 FR 55122, Sept. 8, 2022.
+Link to an amendment published at 87 FR 51537, Aug. 22, 2022.Link to an amendment published at 87 FR 53641, Aug. 31, 2022.Link to an amendment published at 87 FR 55122, Sept. 8, 2022.
 
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
@@ -420,7 +420,7 @@ M, MWS, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and 
 
 (3) Calculate the average load adjusted efficiency of an uninterruptible power supply in accordance with appendix Y to this subpart.
 
-(bb) *External Power Supplies.* The energy consumption of an external power supply, including active-mode efficiency expressed as a percentage and the no-load, off, and standby mode energy consumption levels expressed in watts, shall be measured in accordance with section 4 of appendix Z of this subpart.
+(bb) *External Power Supplies.* The energy consumption of an external power supply, including active-mode efficiency expressed as a percentage and the no-load, off, and standby mode energy consumption levels expressed in watts, shall be measured in accordance with appendix Z of this subpart.
 
 (cc) *Furnace Fans.* The energy consumption of a single unit of a furnace fan basic model expressed in watts per 1000 cubic feet per minute (cfm) to the nearest integer shall be calculated in accordance with Appendix AA of this subpart.
 

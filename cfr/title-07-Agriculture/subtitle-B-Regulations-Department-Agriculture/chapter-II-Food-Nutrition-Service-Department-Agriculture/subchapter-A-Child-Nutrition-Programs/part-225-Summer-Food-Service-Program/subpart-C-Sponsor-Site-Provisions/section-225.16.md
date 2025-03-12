@@ -1,5 +1,7 @@
 ##### § 225.16 Meal service requirements. #####
 
+Link to an amendment published at 87 FR 57365, Sept. 19, 2022.
+
 (a) *Sanitation.* Sponsors shall ensure that in storing, preparing, and serving food, proper sanitation and health standards are met which conform with all applicable State and local laws and regulations. Sponsors shall ensure that adequate facilities are available to store food or hold meals. Within two weeks of receiving notification of their approval, but in any case prior to commencement of Program operation, sponsors shall submit to the State agency a copy of their letter advising the appropriate health department of their intention to provide a food service during a specific period at specific sites.
 
 (b) *Meal services.* The meals which may be served under the Program are breakfast, lunch, supper, and supplements, referred to from this point as “snacks”. No sponsor may be approved to provide more than two snacks per day. A sponsor may only be reimbursed for meals served in accordance with this section.

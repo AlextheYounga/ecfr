@@ -129,7 +129,7 @@ The tax on D's actual self-employment income would be $294.40 ($4,600 × 6.4 per
 |                         Adjusted self-employment income ($6,600−4,050 annualized wages ($2,700 × 12 ÷ 8))                         | 2,550.00 |
 |                                   Tax on adjusted self-employment income ($2,550 × 6.4 percent)                                   |  163.20  |
 |                                                (3) Total tax ($2,227.00 + 163.20)                                                 | 2,390.20 |
-|                                                (4) 3/4 of 80 percent of $2,390.20                                                 | 1,434.12 |
+|                                     (4) <sup>3</sup>⁄<sub>4</sub> of 80 percent of $2,390.20                                      | 1,434.12 |
 |                                                   Amount paid by Sept. 15, 1967                                                   | 1,350.00 |
 
 An addition to the tax will thus be imposed for the underpayment of $1,550 ($2,000−450) on the September 15 installment.Example 6.Assume the same facts as in example (5) and assume further that adjusted gross income for the eight months ending August 31, 1967, was $9,200 and the amount of deductions (other than the deduction for personal exemptions) not allowable in determining adjusted gross income aggregate only $500. If E and F elect, they may use the standard deduction in computing the tax for purposes of the exceptions described in paragraph (a) (2) and (3) of this section. Taxable income for purposes of the exception described in paragraph (a)(3) of this section would be reduced to $7,080 ($9,200 less $1,200 for two personal exemptions and $920 for the standard deduction). The income tax thereon is $1,205.20; income tax and self-employment tax total $454.80 ($1,205.20 + 249.60 ($3,900 × 6.4 percent)). Since the amount paid by the September 15 installment date, $1,350, exceeds $1,309.32 (90 percent of $1,454.80), the exception described in paragraph (a)(3) of this section applies. However, the exception described in paragraph (a)(2) of this section does not apply, as illustrated by the following computation:
@@ -141,63 +141,63 @@ An addition to the tax will thus be imposed for the underpayment of $1,550 ($2,0
 |                                    Tax on $11,600 (on basis of joint return)                                     |2,172.00 |
 |                  Self-employment tax on adjusted self-employment income ($2,550 × 6.4 percent)                   | 163.20  |
 |                                          Total tax ($2,172.00 + 163.20                                           |2,335.20 |
-|                                          3/4 of 80 percent of $2,335.20                                          |1,401.12 |
+|                               <sup>3</sup>⁄<sub>4</sub> of 80 percent of $2,335.20                               |1,401.12 |
 |                                          Amount paid by Sept. 15, 1967                                           |1,350.00 |
 
 Example 7.G was a married individual, 73 years of age, who filed a joint return with his wife, H, for the calendar year 1956. H, who was 70 years of age, had no income during the year. G had taxable income in the amount of $7,000 for the eight-month period ending on August 31, 1956, which included $2,000 of dividend income (after excluding $50 under section 116) and $900 of rental income. The $7,000 figure also reflected a deduction of $2,400 for personal exemptions ($600 × 4), since G and H are both over 65 years of age. The application of the exception described in paragraph (a)(2) of this section to an underpayment of estimated tax on the September 15 installment date may be illustrated by the following computation:
 
-|Taxable income for the period ending Aug. 31, 1956 (without deduction for personal exemptions) on an annual basis ($9,400 × 12 ÷ 8)|$14,100.00|
-|-----------------------------------------------------------------------------------------------------------------------------------|----------|
-|                                                 Deduction for personal exemptions                                                 | 2,400.00 |
-|                                                 Taxable income on an annual basis                                                 |11,700.00 |
-|                                               Tax (on the basis of a joint return)                                                | 2,642.00 |
-|                                               Dividends received for 8-month period                                               | 2,050.00 |
-|                                     Less: Amount excluded from gross income under section 116                                     |  50.00   |
-|                                                Dividends included in gross income                                                 | 2,000.00 |
-|                                           Dividend income annualized ($2,000 × 12 ÷ 8)                                            | 3,000.00 |
-|                                 Dividends received credit under section 34 (4 percent of $3,000)                                  |  120.00  |
-|                                                Tax less dividends received credit                                                 | 2,522.00 |
-|                                     Retirement income (as defined in section 37(c)) includes:                                     |          |
-|                                       Dividend income (to extent included in gross income)                                        | 2,000.00 |
-|                                                           Rental income                                                           |  900.00  |
-|                                                      Total retirement income                                                      | 2,900.00 |
-|                                     Limit on amount of retirement income under section 37(d)                                      | 1,200.00 |
-|                                 Retirement income credit under section 37 (20 percent of $1,200)                                  |  240.00  |
-|                                         Tax less credits under section 34 and section 37                                          | 2,282.00 |
-|         Amount determined under the exception described in paragraph (a)(2) of this section (3/4 of 70 percent of $2,282)         | 1,198.05 |
+|  Taxable income for the period ending Aug. 31, 1956 (without deduction for personal exemptions) on an annual basis ($9,400 × 12 ÷ 8)  |$14,100.00|
+|---------------------------------------------------------------------------------------------------------------------------------------|----------|
+|                                                   Deduction for personal exemptions                                                   | 2,400.00 |
+|                                                   Taxable income on an annual basis                                                   |11,700.00 |
+|                                                 Tax (on the basis of a joint return)                                                  | 2,642.00 |
+|                                                 Dividends received for 8-month period                                                 | 2,050.00 |
+|                                       Less: Amount excluded from gross income under section 116                                       |  50.00   |
+|                                                  Dividends included in gross income                                                   | 2,000.00 |
+|                                             Dividend income annualized ($2,000 × 12 ÷ 8)                                              | 3,000.00 |
+|                                   Dividends received credit under section 34 (4 percent of $3,000)                                    |  120.00  |
+|                                                  Tax less dividends received credit                                                   | 2,522.00 |
+|                                       Retirement income (as defined in section 37(c)) includes:                                       |          |
+|                                         Dividend income (to extent included in gross income)                                          | 2,000.00 |
+|                                                             Rental income                                                             |  900.00  |
+|                                                        Total retirement income                                                        | 2,900.00 |
+|                                       Limit on amount of retirement income under section 37(d)                                        | 1,200.00 |
+|                                   Retirement income credit under section 37 (20 percent of $1,200)                                    |  240.00  |
+|                                           Tax less credits under section 34 and section 37                                            | 2,282.00 |
+|Amount determined under the exception described in paragraph (a)(2) of this section (<sup>3</sup>⁄<sub>4</sub> of 70 percent of $2,282)| 1,198.05 |
 
 Example 8.C, an unmarried individual for whom another taxpayer is entitled to a deduction under section 151(e), has adjusted gross income of $4,000 for the period January 1, 1977, through August 31, 1977. All of C's income is non-exempt interest. For the same period C, who is entitled to one personal exemption, has itemized deductions amounting to $300. C is entitled to no credits other than the general tax credit. C filed a declaration of estimated tax on April 15, 1977, and on or before September 15, 1977, makes estimated tax payments for 1977 which total $460. For purposes of determining whether the exception described in paragraph (a)(2) of this section applies, the following computations are necessary:
 
-|Adjusted gross income for the period ending Aug. 31, 1977, on an annual basis ($4,000 × 12 ÷ 8)|$6,000.00|   |
-|-----------------------------------------------------------------------------------------------|---------|---|
-|  Itemized deductions for the period ending Aug. 31, 1977, on an annual basis ($300 × 12 ÷ 8)  | 450.00  |   |
-|            Unused zero bracket amount computation required under sec. 63(e)(1)(D):            |         |   |
-|                                      Zero bracket amount                                      |$2,200.00|   |
-|                                Annualized itemized deductions                                 | 450.00  |   |
-|                                  Unused zero bracket amount                                   |1,750.00 |   |
-|                               Annualized adjusted gross income                                |6,000.00 |   |
-|                               Plus: unused zero bracket amount                                |1,750.00 |   |
-|                                  Annualized tax table income                                  |7,750.00 |   |
-|                                        Tax from tables                                        | 757.00  |   |
-|          Amount specified in paragraph (a)(2) of this section (3/4 × 80 pct. × $757)          | $454.20 |   |
+| Adjusted gross income for the period ending Aug. 31, 1977, on an annual basis ($4,000 × 12 ÷ 8) |$6,000.00|   |
+|-------------------------------------------------------------------------------------------------|---------|---|
+|   Itemized deductions for the period ending Aug. 31, 1977, on an annual basis ($300 × 12 ÷ 8)   | 450.00  |   |
+|             Unused zero bracket amount computation required under sec. 63(e)(1)(D):             |         |   |
+|                                       Zero bracket amount                                       |$2,200.00|   |
+|                                 Annualized itemized deductions                                  | 450.00  |   |
+|                                   Unused zero bracket amount                                    |1,750.00 |   |
+|                                Annualized adjusted gross income                                 |6,000.00 |   |
+|                                Plus: unused zero bracket amount                                 |1,750.00 |   |
+|                                   Annualized tax table income                                   |7,750.00 |   |
+|                                         Tax from tables                                         | 757.00  |   |
+|Amount specified in paragraph (a)(2) of this section (<sup>3</sup>⁄<sub>4</sub> × 80 pct. × $757)| $454.20 |   |
 
 The exception described in paragraph (a)(2) applies, and no addition to tax will be imposed.Example 9.An unmarried taxpayer entitled to one exemption, has adjusted gross income of $16,000 and itemized deductions of $2,000 for the period for the period January 1, 1977, through August 31, 1977. D has no net earnings from self-employment and is entitled to no credits other than the general tax credit. D files a declaration of estimated tax on April 15, 1977, and on or before September 15, 1977, makes estimated tax payments for 1977 which total $3,000. For purposes of determining whether the exception in paragraph (a)(2) of this section applies, the following computations are necessary:
 
-|Adjusted gross income for the period ending Aug. 31, 1977, on an annual basis ($16,000 × 12 ÷ 8)|$24,000|   |
-|------------------------------------------------------------------------------------------------|-------|---|
-| Itemized deductions for the period ending Aug. 31, 1977, on an annual basis ($2,000 × 12 ÷ 8)  | 3,000 |   |
-|                                 Annualized itemized deductions                                 |$3,000 |   |
-|                                   Minus zero bracket amount                                    | 2,200 |   |
-|                                   Excess itemized deductions                                   |  800  |   |
-|                                Annualized adjusted gross income                                |24,000 |   |
-|                                Minus excess itemized deductions                                |  800  |   |
-|                                  Annualized tax table income                                   |23,200 |   |
-|                                   Minus: Personal exemption                                    |  750  |   |
-|                                   Annualized taxable income                                    |22,450 |   |
-|                        Tax under sec. 1(c) on annualized taxable income                        | 5,325 |   |
-|                                   Minus: general tax credit                                    |  180  |   |
-|                                             Total                                              | 5,145 |   |
-|         Amount specified in paragraph (a)(2) of this section (3/4 × 80 pct. × $5,145)          | 3,087 |   |
+| Adjusted gross income for the period ending Aug. 31, 1977, on an annual basis ($16,000 × 12 ÷ 8)  |$24,000|   |
+|---------------------------------------------------------------------------------------------------|-------|---|
+|   Itemized deductions for the period ending Aug. 31, 1977, on an annual basis ($2,000 × 12 ÷ 8)   | 3,000 |   |
+|                                  Annualized itemized deductions                                   |$3,000 |   |
+|                                     Minus zero bracket amount                                     | 2,200 |   |
+|                                    Excess itemized deductions                                     |  800  |   |
+|                                 Annualized adjusted gross income                                  |24,000 |   |
+|                                 Minus excess itemized deductions                                  |  800  |   |
+|                                    Annualized tax table income                                    |23,200 |   |
+|                                     Minus: Personal exemption                                     |  750  |   |
+|                                     Annualized taxable income                                     |22,450 |   |
+|                         Tax under sec. 1(c) on annualized taxable income                          | 5,325 |   |
+|                                     Minus: general tax credit                                     |  180  |   |
+|                                               Total                                               | 5,145 |   |
+|Amount specified in paragraph (a)(2) of this section (<sup>3</sup>⁄<sub>4</sub> × 80 pct. × $5,145)| 3,087 |   |
 
 The exception described in paragraph (a)(2) does not apply.
 

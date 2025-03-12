@@ -1,5 +1,7 @@
 ##### § 225.15 Management responsibilities of sponsors. #####
 
+Link to an amendment published at 87 FR 57364, Sept. 19, 2022.
+
 (a) *General.* (1) Sponsors shall operate the food service in accordance with: the provisions of this part; any instructions and handbooks issued by FNS under this part; and any instructions and handbooks issued by the State agency which are not inconsistent with the provisions of this part.
 
 (2) Sponsors shall not claim reimbursement under parts 210, 215, 220, or 226 of this chapter. In addition, the sponsor must ensure that records of any site serving homeless children accurately reflect commodity allotments received as a “charitable institution”, as defined in §§ 250.3 and 250.41 of this chapter. Commodities received for Program meals must be based only on the number of eligible children's meals served. Sponsors may use funds from other Federally-funded programs to supplement their meal service but must, in calculating their claim for reimbursement, deduct such funds from total operating and administrative costs in accordance with the definition of “income accruing to the Program” at § 225.2 and with the regulations at § 225.9(d). Sponsors which are school food authorities may use facilities, equipment and personnel supported by funds provided under this part to support a nonprofit nutrition program for the elderly, including a program funded under the Older Americans Act of 1965 (42 U.S.C. 3001 *et seq.*).

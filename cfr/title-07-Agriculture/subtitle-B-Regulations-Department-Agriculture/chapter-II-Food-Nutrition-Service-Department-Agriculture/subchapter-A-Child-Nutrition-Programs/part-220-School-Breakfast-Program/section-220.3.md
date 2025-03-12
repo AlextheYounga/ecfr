@@ -1,5 +1,7 @@
 ##### § 220.3 Administration. #####
 
+Link to an amendment published at 87 FR 57354, Sept. 19, 2022.
+
 (a) Within the Department, FNS shall act on behalf of the Department in the administration of the Program covered by this part. Within FNS, CND shall be responsible for administration of the Program.
 
 (b) Within the States, responsibility for the administration of the Program in schools as described in paragraphs (1) and (2) of the definition of *School* in § 220.2 shall be in the State educational agency, except that FNSRO shall administer the Program with respect to nonprofit private schools and adding in their place the words “as described in paragraph (1) of the definition of *School* in § 220.2 in any State wherein the State educational agency is not permitted by law to disburse Federal funds paid to it under the Program; *Provided, however,* That FNSRO shall also administer the Program in all other nonprofit private schools which have been under continuous FNS administration since October 1, 1980, unless the administration of such private schools is assumed by a State agency.

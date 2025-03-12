@@ -1,5 +1,7 @@
 ##### § 226.3 Administration. #####
 
+Link to an amendment published at 87 FR 57366, Sept. 19, 2022.
+
 (a) Within the Department, FNS shall act on behalf of the Department in the administration of the Program.
 
 (b) Within the States, responsibility for the administration of the Program shall be in the State agency, except that if FNS has continuously administered the Program in any State since October 1, 1980, FNS shall continue to administer the Program in that State. A State in which FNS administers the Program may, upon request to FNS, assume administration of the Program.

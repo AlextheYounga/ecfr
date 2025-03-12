@@ -1,5 +1,7 @@
 ##### § 225.13 Appeal procedures. #####
 
+Link to an amendment published at 87 FR 57364, Sept. 19, 2022.
+
 (a) Each State agency shall establish a procedure to be followed by an applicant appealing: A denial of an application for participation; a denial of a sponsor's request for an advance payment; a denial of a sponsor's claim for reimbursement (except for late submission under § 225.9(d)(6)); a State agency's refusal to forward to FNS an exception request by the sponsor for payment of a late claim or a request for an upward adjustment to a claim; a claim against a sponsor for remittance of a payment; the termination of the sponsor or a site; a denial of a sponsor's application for a site; a denial of a food service management company's application for registration, if applicable; or the revocation of a food service management company's registration, if applicable. Appeals shall not be allowed on decisions made by FNS with respect to late claims or upward adjustments under § 225.9(d)(6).
 
 (b) At a minimum, appeal procedures shall provide that:
