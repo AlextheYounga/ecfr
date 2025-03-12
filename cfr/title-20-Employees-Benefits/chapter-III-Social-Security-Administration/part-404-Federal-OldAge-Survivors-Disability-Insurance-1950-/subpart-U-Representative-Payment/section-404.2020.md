@@ -1,5 +1,7 @@
 ##### § 404.2020 Information considered in selecting a representative payee. #####
 
+Link to an amendment published at 85 FR 7664, Feb. 11, 2020.
+
 In selecting a payee we try to select the person, agency, organization or institution that will best serve the interest of the beneficiary. In making our selection we consider -
 
 (a) The relationship of the person to the beneficiary;

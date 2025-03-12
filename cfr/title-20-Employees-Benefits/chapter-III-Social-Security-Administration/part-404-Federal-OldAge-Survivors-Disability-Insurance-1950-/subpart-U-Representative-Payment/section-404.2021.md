@@ -1,5 +1,7 @@
 ##### § 404.2021 What is our order of preference in selecting a representative payee for you? #####
 
+Link to an amendment published at 85 FR 7664, Feb. 11, 2020.
+
 As a guide in selecting a representative payee, categories of preferred payees have been established. These preferences are flexible. Our primary concern is to select the payee who will best serve the beneficiary's interest. The preferences are:
 
 (a) For beneficiaries 18 years old or older (except those described in paragraph (b) of this section), our preference is -
