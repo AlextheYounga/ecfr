@@ -1,5 +1,7 @@
 ##### § 25.223 Alternative licensing rules for feeder-link earth stations in the 17/24 GHz BSS. #####
 
+Link to an amendment published at 83 FR 34491, July 20, 2018.
+
 (a) This section applies to license applications for earth stations that transmit to 17/24 GHz Broadcasting-Satellite Service space stations that are not eligible for routine processing under § 25.212(f).
 
 (b) Applications for earth station licenses in the 24.75-25.25 GHz portion of 17/24 GHz BSS may be routinely processed if they meet the following requirements:

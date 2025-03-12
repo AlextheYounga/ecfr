@@ -1,5 +1,7 @@
 ##### § 25.136 Earth Stations in the 27.5-28.35 GHz, 37.5-40 GHz, and 47.2-48.2 GHz bands. #####
 
+Link to an amendment published at 83 FR 34489, July 20, 2018.
+
 (a) FSS is secondary to the Upper Microwave Flexible Use Service in the 27.5-28.35 GHz band. Notwithstanding that secondary status, an applicant for a license for a transmitting earth station in the 27.5-28.35 GHz band that meets one of the following criteria may be authorized to operate without providing interference protection to stations in the Upper Microwave Flexible Use Service:
 
 (1) The FSS licensee also holds the relevant Upper Microwave Flexible Use Service license(s) for the area in which the earth station generates a power flux density (PFD), at 10 meters above ground level, of greater than or equal to −77.6 dBm/m2/MHz;

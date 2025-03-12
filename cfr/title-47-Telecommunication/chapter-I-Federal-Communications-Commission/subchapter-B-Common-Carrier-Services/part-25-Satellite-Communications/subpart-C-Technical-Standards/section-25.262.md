@@ -1,5 +1,7 @@
 ##### § 25.262 Licensing and domestic coordination requirements for 17/24 GHz BSS space stations. #####
 
+Link to an amendment published at 83 FR 34491, July 20, 2018.
+
 (a) Except as described in paragraphs (b), (c) or (e) of this section, applicants seeking to operate a space station in the 17/24 GHz BSS must locate that space station at one of the orbital positions described in Appendix F of the Report and Order adopted May 2, 2007, IB Docket No. 06-123, FCC 07-76.
 
 (b) An applicant may be authorized to operate a 17/24 GHz BSS space station at an orbital location described in Appendix F as set forth in paragraph (a) of this section, or at a location with a geocentric angular separation of one degree or less from an Appendix F location, and may operate at the maximum power flux density limits defined in § 25.208(c) and (w) of this part, without coordinating its power flux density levels with adjacent licensed or permitted operators, only if there is no licensed 17/24 GHz BSS space station or prior-filed application at a location less than four degrees from the offset orbital location at which the applicant proposes to operate.

@@ -1,5 +1,7 @@
 ##### § 25.209 Earth station antenna performance standards. #####
 
+Link to an amendment published at 83 FR 34491, July 20, 2018.
+
 (a) Except as provided in paragraph (f) of this section, the co-polarization gain of any earth station antenna operating in the FSS and transmitting to a GSO satellite, including earth stations providing feeder links for satellite services other than FSS, may not exceed the following limits:
 
 (1) In the plane tangent to the GSO arc, as defined in § 25.103, for earth stations not operating in the conventional Ku-band, the 24.75-25.25 GHz band, or the 28.35-30 GHz band:

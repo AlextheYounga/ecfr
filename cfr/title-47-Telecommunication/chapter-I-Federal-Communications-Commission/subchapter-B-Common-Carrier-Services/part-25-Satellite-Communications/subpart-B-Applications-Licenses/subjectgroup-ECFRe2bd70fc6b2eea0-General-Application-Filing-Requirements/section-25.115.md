@@ -1,5 +1,7 @@
 ##### § 25.115 Applications for earth station authorizations. #####
 
+Link to an amendment published at 83 FR 34489, July 20, 2018.
+
 (a)(1) *Transmitting earth stations.* Commission authorization must be obtained for authority to operate a transmitting earth station. Applications shall be filed electronically on FCC Form 312, Main Form and Schedule B, and include the information specified in § 25.130, except as set forth in paragraph (a)(2) of this section.
 
 (2) Applicants for licenses for transmitting earth stations in the FSS may file on FCC Form 312EZ if all of the following criteria are met:

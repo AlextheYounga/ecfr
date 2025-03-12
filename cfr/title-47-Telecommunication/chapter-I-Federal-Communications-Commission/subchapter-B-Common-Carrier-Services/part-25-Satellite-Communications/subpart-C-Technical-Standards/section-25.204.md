@@ -1,5 +1,7 @@
 ##### § 25.204 Power limits for earth stations. #####
 
+Link to an amendment published at 83 FR 34491, July 20, 2018.
+
 (a) In bands shared coequally with terrestrial radio communication services, the equivalent isotropically radiated power transmitted in any direction towards the horizon by an earth station, other than an ESV, operating in frequency bands between 1 and 15 GHz, shall not exceed the following limits except as provided for in paragraph (c) of this section:
 
  \+ 40 dBW in any 4 kHz band for θ ≤0° + 40 + 3θ dBW in any 4 kHz band for 0° \<θ ≤5°where θ is the angle of elevation of the horizon viewed from the center of radiation of the antenna of the earth station and measured in degrees as positive above the horizontal plane and negative below it.

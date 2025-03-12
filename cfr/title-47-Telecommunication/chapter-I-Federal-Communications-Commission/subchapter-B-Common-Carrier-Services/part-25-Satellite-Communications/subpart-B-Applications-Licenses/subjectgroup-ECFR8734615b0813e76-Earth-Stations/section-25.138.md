@@ -1,5 +1,7 @@
 ##### § 25.138 Licensing requirements for GSO FSS earth stations in the conventional Ka-band. #####
 
+Link to an amendment published at 83 FR 34490, July 20, 2018.
+
 (a) Applications for earth station licenses in the GSO FSS in the conventional Ka-band that indicate that the following requirements will be met and include the information required by relevant provisions in §§ 25.115 and 25.130 may be routinely processed:
 
 (1) The EIRP density of co-polarized signals in the plane tangent to the GSO arc, as defined in § 25.103, will not exceed the following values under clear sky conditions:

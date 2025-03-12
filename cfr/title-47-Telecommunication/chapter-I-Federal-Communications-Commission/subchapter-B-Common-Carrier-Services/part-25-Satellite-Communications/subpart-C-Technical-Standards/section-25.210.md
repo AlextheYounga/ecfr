@@ -1,5 +1,7 @@
 ##### § 25.210 Technical requirements for space stations. #####
 
+Link to an amendment published at 83 FR 34491, July 20, 2018.
+
 (a)-(b) [Reserved]
 
 (c) Space station antennas operating in the Direct Broadcast Satellite Service or operating in the Fixed-Satellite Service for reception of feeder links for Direct Broadcast Satellite Service must be designed to provide a cross-polarization isolation such that the ratio of the on-axis co-polar gain to the cross-polar gain of the antenna in the assigned frequency band is at least 27 dB within the primary coverage area.
