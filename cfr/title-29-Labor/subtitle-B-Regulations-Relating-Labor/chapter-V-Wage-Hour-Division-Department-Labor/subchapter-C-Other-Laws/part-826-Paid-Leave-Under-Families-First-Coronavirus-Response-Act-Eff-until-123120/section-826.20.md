@@ -16,9 +16,9 @@
 
 (2) *Subject to a Quarantine or Isolation Order.* Any Employee Subject to a Quarantine or Isolation Order may take Paid Sick Leave for the reason described in paragraph (a)(1)(i) of this section only if, but for being subject to the order, he or she would be able to perform work that is otherwise allowed or permitted by his or her Employer, either at the Employee's normal workplace or by Telework. An Employee Subject to a Quarantine or Isolation Order may not take Paid Sick Leave where the Employer does not have work for the Employee as a result of the order or other circumstances.
 
-(3) *Advised by a health care provider to self-quarantine.* For the purposes of this section, the term health care provider has the same meaning as that term is defined in § 825.102 of this chapter. An Employee may take Paid Sick Leave for the reason described in paragraph (a)(1)(ii) of this section only if:
+(3) *Advised by a health care provider to self-quarantine.* For the purposes of this section, the term health care provider has the same meaning as that term is defined in § 825.102 and 825.125 of this chapter. An Employee may take Paid Sick Leave for the reason described in paragraph (a)(1)(ii) of this section only if:
 
-(i) A health care provider advises the Employee to self-quarantine based on a belief that -
+(i) A health care provider advises the Employee to self-quarantine based on a belief that:
 
 (A) The Employee has COVID-19;
 
@@ -26,7 +26,7 @@
 
 (C) The Employee is particularly vulnerable to COVID-19; and
 
-(ii) Following the advice of a health care provider to self-quarantine prevents the Employee from being able to work, either at the Employee's normal workplace or by Telework.
+(ii) Following the advice of a health care provider to self-quarantine prevents the Employee from being able to work, either at the Employee's normal workplace or by Telework. An Employee who is advised to self-quarantine by a health care provider may not take Paid Sick Leave where the Employer does not have work for the Employee.
 
 (4) *Seeking medical diagnosis for COVID-19.* An Employee may take Paid Sick Leave for the reason described in paragraph (a)(1)(iii) of this section if the Employee is experiencing any of the following symptoms:
 
@@ -38,7 +38,7 @@
 
 (iv) Any other COVID-19 symptoms identified by the U.S. Centers for Disease Control and Prevention.
 
-(v) Any Paid Sick Leave taken for the reason described in paragraph (a)(1)(iii) of this subsection is limited to time the Employee is unable to work because the Employee is taking affirmative steps to obtain a medical diagnosis, such as making, waiting for, or attending an appointment for a test for COVID-19.
+(v) Any Paid Sick Leave taken for the reason described in paragraph (a)(1)(iii) of this subsection is limited to time the Employee is unable to work because the Employee is taking affirmative steps to obtain a medical diagnosis, such as making, waiting for, or attending an appointment for a test for COVID-19. An Employee seeking medical diagnosis for COVID-19 may not take Paid Sick Leave where the Employer does not have work for the Employee.
 
 (5) *Caring for an individual.* For the purpose of paragraph (a)(1)(iv) of this section, “individual” means an Employee's immediate family member, a person who regularly resides in the Employee's home, or a similar person with whom the Employee has a relationship that creates an expectation that the Employee would care for the person if he or she were quarantined or self-quarantined. For this purpose, “individual” does not include persons with whom the Employee has no personal relationship.
 
@@ -60,8 +60,10 @@
 
 (9) An Employee may not take Paid Sick Leave to care for his or her Son or Daughter unless, but for a need to care for the Son or Daughter, the Employee would be able to perform work for his or her Employer, either at the Employee's normal workplace or by Telework. An Employee caring for his or her Son or Daughter may not take Paid Sick Leave where the Employer does not have work for the Employee.
 
+(10) *Substantially similar condition.* An Employee may take leave for the reason described in paragraph (a)(1)(vi) of this section if he or she has a substantially similar condition as specified by the Secretary of Health and Human Services, in consultation with the Secretary of the Treasury and the Secretary of Labor. The substantially similar condition may be defined at any point during the Effective Period, April 1, 2020, to December 31, 2020. An Employee may not take Paid Sick Leave for a substantially similar condition as specified by the Secretary of Health and Human Services where the Employer does not have work for the Employee.
+
 (b) *Qualifying reason for Expanded Family and Medical Leave.* An Eligible Employee may take Expanded Family and Medical Leave because he or she is unable to work due to a need to care for his or her Son or Daughter whose School or Place of Care has been closed, or whose Child Care Provider is unavailable, for reasons related to COVID-19. An Eligible Employee has need to take Expanded Family and Medical Leave for the purposes of this paragraph (b) only if no suitable person is available to care for his or her Son or Daughter during the period of such leave.
 
 (c) *Impact on FLSA exemptions.* The taking of Paid Sick Leave or Expanded Family and Medical Leave shall not impact an Employee's status or eligibility for any exemption from the requirements of section 6 or 7, or both, of the FLSA.
 
-[85 FR 19347, Apr. 6, 2020, as amended at 85 FR 20157, Apr. 10, 2020]
+[85 FR 19347, Apr. 6, 2020, as amended at 85 FR 20157, Apr. 10, 2020; 85 FR 57690, Sept. 16, 2020]

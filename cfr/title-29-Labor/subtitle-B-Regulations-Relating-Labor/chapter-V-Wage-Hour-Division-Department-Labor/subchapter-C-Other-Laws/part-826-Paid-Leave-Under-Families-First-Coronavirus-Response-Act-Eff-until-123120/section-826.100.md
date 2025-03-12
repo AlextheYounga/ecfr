@@ -1,6 +1,6 @@
 ##### § 826.100 Documentation of need for leave. #####
 
-(a) An Employee is required to provide the Employer documentation containing the following information prior to taking Paid Sick Leave under the EPSLA or Expanded Family and Medical Leave under the EFMLEA:
+(a) An Employee is required to provide the Employer documentation containing the following information as soon as practicable, which in most cases will be when the Employee provides notice under § 826.90:
 
 (1) Employee's name;
 
@@ -30,4 +30,4 @@
 
 (f) The Employer may also request an Employee to provide such additional material as needed for the Employer to support a request for tax credits pursuant to the FFCRA. The Employer is not required to provide leave if materials sufficient to support the applicable tax credit have not been provided. For more information, please consult *https://www.irs.gov/newsroom/covid-19-related-tax-credits-for-required-paid-leave-provided-by-small-and-midsize-businesses-faqs.*
 
-[85 FR 19347, Apr. 6, 2020, as amended at 85 FR 20158, Apr. 10, 2020]
+[85 FR 19347, Apr. 6, 2020, as amended at 85 FR 20158, Apr. 10, 2020; 85 FR 57691, Sept. 16, 2020]

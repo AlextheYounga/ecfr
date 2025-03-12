@@ -4,23 +4,29 @@
 
 (b) *English language requirements.* Except as provided in § 11.467(h) of this part, an applicant for an officer endorsement must demonstrate an ability to speak and understand English as found in the navigation rules, aids to navigation publications, emergency equipment instructions, machinery instructions, and radiotelephone communications instructions.
 
-(c) *Experience and service.* (1) Applicants for officer endorsements should refer to § 10.232 of this subchapter for information regarding requirements for documentation and proof of sea service.
+(c) *Experience and service.* Applicants for officer endorsements should refer to § 10.232 of this subchapter for information regarding requirements for documentation and proof of sea service.
 
-(2) An applicant for a national officer endorsement must have at least 3 months of required service on vessels of appropriate tonnage or horsepower within the 3 years immediately preceding the date of application.
+(1) An applicant for a national officer endorsement must meet one of the following:
 
-(3) No original officer endorsement may be issued to any naturalized citizen based on less experience in any grade or capacity than would have been required of a citizen of the United States by birth.
+(i) Have at least 3 months of required service on vessels of appropriate tonnage or horsepower within the 3 years immediately preceding the date of application; or
 
-(4) Experience and service acquired on foreign vessels is creditable for establishing eligibility for an officer endorsement, subject to evaluation by the Coast Guard to determine that it is a fair and reasonable equivalent to service acquired on merchant vessels of the United States, with respect to grade, tonnage, horsepower, waters, and operating conditions. An applicant who has obtained qualifying experience on foreign vessels must submit satisfactory documentary evidence of such service (including any necessary translation into English) in accordance with § 10.232 of this subchapter.
+(ii) Have at least 3 months of required service on vessels of the uniformed services as defined in 10 U.S.C. 101(a)(5) of appropriate tonnage or horsepower within the 7 years immediately preceding the date of application; or
 
-(5) No applicant for an original officer endorsement who is a naturalized citizen and who has obtained experience on foreign vessels will be given an original officer endorsement in a grade higher than that upon which he or she has actually served while acting under the authority of a foreign credential.
+(iii) Have at least 3 months of required service attained through a combination of service established under paragraphs (c)(1)(i) or (ii) of this section.
 
-(6) Experience acquired while the applicant was less than 16 years of age is generally not creditable. Compelling circumstances and unique experiences acquired before the applicant reaches 16 years of age will be evaluated on a case-by-case basis.
+(2) No original officer endorsement may be issued to any naturalized citizen based on less experience in any grade or capacity than would have been required of a citizen of the United States by birth.
+
+(3) Experience and service acquired on foreign vessels is creditable for establishing eligibility for an officer endorsement, subject to evaluation by the Coast Guard to determine that it is a fair and reasonable equivalent to service acquired on merchant vessels of the United States, with respect to grade, tonnage, horsepower, waters, and operating conditions. An applicant who has obtained qualifying experience on foreign vessels must submit satisfactory documentary evidence of such service (including any necessary translation into English) in accordance with § 10.232 of this subchapter.
+
+(4) No applicant for an original officer endorsement who is a naturalized citizen and who has obtained experience on foreign vessels will be given an original officer endorsement in a grade higher than that upon which he or she has actually served while acting under the authority of a foreign credential.
+
+(5) Experience acquired while the applicant was less than 16 years of age is generally not creditable. Compelling circumstances and unique experiences acquired before the applicant reaches 16 years of age will be evaluated on a case-by-case basis.
 
 (d) *Citizenship.* No officer endorsement may be issued to any person who is not a citizen of the United States with the exception of operators of uninspected passenger vessels that are not documented under the laws of the United States.
 
 (e) *Age.* Except as specified in this paragraph, no officer endorsement may be issued to a person who has not attained the age of 21 years. The required evidence of age may be established using any of the items submitted to establish citizenship set out in 49 CFR 1572.17.
 
-(1) An endorsement may be granted to an applicant who has reached the age of 19 years as -
+(1) An endorsement may be granted to an applicant who has reached the age of 19 years as—
 
 (i) Master of near-coastal, Great Lakes and inland, or river vessels of 25-200 GRT;
 
@@ -44,7 +50,7 @@
 
 (xi) Designated duty engineer of vessels of less than 4,000 HP/3,000 kW.
 
-(2) An endorsement may be granted to an applicant who has reached the age of 18 years as -
+(2) An endorsement may be granted to an applicant who has reached the age of 18 years as—
 
 (i) Limited master of near-coastal vessels of less than 100 GRT;
 
@@ -98,15 +104,15 @@
 
 (4) Applicants for a raise of grade of an officer endorsement who have not previously met the requirements of paragraph (h) of this section must do so.
 
-(i) *First-aid and cardiopulmonary resuscitation (CPR) course certificates.* All applicants for an original officer endorsement, except as provided in §§ 11.429, 11.456, and 11.467 of this part, must present to the Coast Guard -
+(i) *First-aid and cardiopulmonary resuscitation (CPR) course certificates.* All applicants for an original officer endorsement, except as provided in §§ 11.429, 11.456, and 11.467 of this part, must present to the Coast Guard—
 
-(1) Evidence of continued competency in STCW basic training in accordance with § 11.302 of this part or a certificate indicating completion not more than 1 year from the date of application of -
+(1) Evidence of continued competency in STCW basic training in accordance with § 11.302 of this part or a certificate indicating completion not more than 1 year from the date of application of —
 
 (i) The American National Red Cross Standard First Aid course or American National Red Cross Community First Aid & Safety course; or
 
 (ii) A Coast Guard-approved first-aid course; and
 
-(2) A currently valid certificate of completion of a CPR course from either -
+(2) A currently valid certificate of completion of a CPR course from either—
 
 (i) The American National Red Cross;
 
@@ -132,4 +138,4 @@
 
 (l) *Restrictions.* The Coast Guard may modify the service and examination requirements in this part to satisfy the unique qualification requirements of an applicant or distinct group of mariners. The Coast Guard may also lower the age requirement for OUPV applicants. The authority granted by an officer endorsement will be restricted to reflect any modifications made under the authority of this paragraph.
 
-[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58275, Sept. 29, 2014; USCG-2018-0874, 84 FR 30882, June 28, 2019]
+[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58275, Sept. 29, 2014; USCG-2018-0874, 84 FR 30882, June 28, 2019; USCG-2017-1025, 85 FR 57765, Sept. 16, 2020]

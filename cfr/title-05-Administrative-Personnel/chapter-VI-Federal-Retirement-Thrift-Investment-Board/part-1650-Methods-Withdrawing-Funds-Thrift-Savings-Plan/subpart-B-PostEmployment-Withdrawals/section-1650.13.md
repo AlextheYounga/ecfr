@@ -1,5 +1,7 @@
 ##### § 1650.13 Installment payments. #####
 
+Link to an amendment published at 85 FR 57666, Sept. 16, 2020.
+
 (a) A participant can elect to withdraw all or a portion of the account balance in a series of substantially equal installment payments, to be paid on a monthly, quarterly, or annual basis in one of the following manners:
 
 (1) *A specific dollar amount.* The amount elected must be at least $25 per installment; if the amount elected is less than $25 per installment, the request will be rejected. Payments will be made in the amount requested each installment period.
@@ -18,4 +20,10 @@
 
 (g) Upon receiving information from an employing agency that a participant receiving installment payments is no longer separated, the TSP will cancel all pending and future installment payments.
 
-[84 FR 46420, Sept. 4, 2019]
+[84 FR 46420, Sept. 4, 2019]Effective Date Note:At 85 FR 57666, Sept. 16, 2020, § 1650.13 was amended by revising paragraph (a)(2). No effective date was given. For the convenience of the user, the revised text is set forth as follows:
+
+##### § 1650.13 Installment payments. #####
+
+(a) \* \* \*
+
+(2) *An installment payment amount calculated based on life expectancy.* Payments based on life expectancy are determined using the factors set forth in the Internal Revenue Service life expectancy tables codified at 26 CFR 1.401(a)(9)-9, Q&A 1 and 2. The installment payment amount is calculated by dividing the account balance by the factor from the IRS life expectancy tables based upon the participant's age as of his or her birthday in the year payments are to begin. This amount is then divided by the number of installment payments to be made per calendar year to yield the installment payment amount. In subsequent years, the installment payment amount is recalculated on the first installment payment date of the year by dividing the prior December 31 account balance by the factor in the IRS life expectancy tables based upon the participant's age as of his or her birthday in the year payments will be made. There is no minimum amount for an installment payment calculated based on this method.

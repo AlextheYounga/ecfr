@@ -1,5 +1,7 @@
 ##### § 117.843 Trent River. #####
 
+Link to an amendment published at 85 FR 57693, Sept. 16, 2020.
+
 (a) The draw of the U.S. 70 bridge, mile 0.0, at New Bern:
 
 (1) Need not open from 6:30 a.m. to 8:30 a.m. and from 4:00 p.m. to 6:00 p.m., Monday through Friday, for pleasure vessels. However, the draw shall open at 7:30 a.m. and 5:00 p.m. for any vessel waiting to pass.

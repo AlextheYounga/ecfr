@@ -16,13 +16,33 @@
 
 (c) *Exclusion of Employees who are health care providers and emergency responders.* An Employer whose Employee is a health care provider or an emergency responder may exclude such Employee from the EPSLA's Paid Sick Leave requirements and/or the EFMLEA's Expanded Family and Medical Leave requirements.
 
-(1) Health care provider -
+(1) *Health care provider* - (i) *Basic definition.* For the purposes of Employees who may be exempted from Paid Sick Leave or Expanded Family and Medical Leave by their Employer under the FFCRA, a health care provider is
 
-(i) For the purposes of this definition Employees who may be exempted from Paid Sick Leave or Expanded Family and Medical Leave by their Employer under the FFCRA, a health care provider is anyone employed at any doctor's office, hospital, health care center, clinic, post-secondary educational institution offering health care instruction, medical school, local health department or agency, nursing facility, retirement facility, nursing home, home health care provider, any facility that performs laboratory or medical testing, pharmacy, or any similar institution, Employer, or entity. This includes any permanent or temporary institution, facility, location, or site where medical services are provided that are similar to such institutions.
+(A) Any Employee who is a health care provider under 29 CFR 825.102 and 825.125, or;
 
-(ii) This definition includes any individual employed by an entity that contracts with any of these institutions described above to provide services or to maintain the operation of the facility where that individual's services support the operation of the facility. This also includes anyone employed by any entity that provides medical services, produces medical products, or is otherwise involved in the making of COVID-19 related medical equipment, tests, drugs, vaccines, diagnostic vehicles, or treatments. This also includes any individual that the highest official of a State or territory, including the District of Columbia, determines is a health care provider necessary for that State's or territory's or the District of Columbia's response to COVID-19.
+(B) Any other Employee who is capable of providing health care services, meaning he or she is employed to provide diagnostic services, preventive services, treatment services, or other services that are integrated with and necessary to the provision of patient care and, if not provided, would adversely impact patient care.
 
-(iii) The definition of “health care provider” contained in this section applies only for the purpose of determining whether an Employer may elect to exclude an Employee from taking leave under the EPSLA and/or the EFMLEA, and does not otherwise apply for purposes of the FMLA or section 5102(a)(2) of the EPSLA.
+(ii) *Types of Employees.* Employees described in paragraph (c)(1)(i)(B) include only:
+
+(A) Nurses, nurse assistants, medical technicians, and any other persons who directly provide services described in (c)(1)(i)(B);
+
+(B) Employees providing services described in (c)(1)(i)(B) of this section under the supervision, order, or direction of, or providing direct assistance to, a person described in paragraphs (c)(1)(i)(A) or (c)(1)(ii)(A) of this section; and
+
+(C) Employees who are otherwise integrated into and necessary to the provision of health care services, such as laboratory technicians who process test results necessary to diagnoses and treatment.
+
+(iii) Employees who do not provide health care services as described above are not health care providers even if their services could affect the provision of health care services, such as IT professionals, building maintenance staff, human resources personnel, cooks, food services workers, records managers, consultants, and billers.
+
+(iv) *Typical work locations.* Employees described in paragraph (c)(1)(i) of this section may include Employees who work at, for example, a doctor's office, hospital, health care center, clinic, medical school, local health department or agency, nursing facility, retirement facility, nursing home, home health care provider, any facility that performs laboratory or medical testing, pharmacy, or any similar permanent or temporary institution, facility, location, or site where medical services are provided. This list is illustrative. An Employee does not need to work at one of these facilities to be a health care provider, and working at one of these facilities does not necessarily mean an Employee is a health care provider.
+
+(v) *Further clarifications.* (A) Diagnostic services include taking or processing samples, performing or assisting in the performance of x-rays or other diagnostic tests or procedures, and interpreting test or procedure results.
+
+(B) Preventive services include screenings, check-ups, and counseling to prevent illnesses, disease, or other health problems.
+
+(C) Treatment services include performing surgery or other invasive or physical interventions, prescribing medication, providing or administering prescribed medication, physical therapy, and providing or assisting in breathing treatments.
+
+(D) Services that are integrated with and necessary to diagnostic, preventive, or treatment services and, if not provided, would adversely impact patient care, include bathing, dressing, hand feeding, taking vital signs, setting up medical equipment for procedures, and transporting patients and samples.
+
+(vi) The definition of *health care provider* contained in this section applies only for the purpose of determining whether an Employer may elect to exclude an Employee from taking leave under the EPSLA and/or the EFMLEA, and does not otherwise apply for purposes of the FMLA or section 5102(a)(2) of the EPSLA.
 
 (2) Emergency responders -
 
@@ -40,4 +60,4 @@
 
 (3) Employees of a United States Executive Agency, as defined in 5 U.S.C. 105, including the U.S. Postal Service and U.S. Postal Regulatory Commission.
 
-[85 FR 19347, Apr. 6, 2020, as amended at 85 FR 20157, Apr. 10, 2020]
+[85 FR 19347, Apr. 6, 2020, as amended at 85 FR 20157, Apr. 10, 2020; 85 FR 57690, Sept. 16, 2020]
