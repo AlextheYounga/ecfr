@@ -1,5 +1,7 @@
 ##### § 418.106 Condition of participation: Drugs and biologicals, medical supplies, and durable medical equipment. #####
 
+Link to an amendment published at 84 FR 51815, Sept. 30, 2019.
+
 Medical supplies and appliances, as described in § 410.36 of this chapter; durable medical equipment, as described in § 410.38 of this chapter; and drugs and biologicals related to the palliation and management of the terminal illness and related conditions, as identified in the hospice plan of care, must be provided by the hospice while the patient is under hospice care.
 
 (a) *Standard: Managing drugs and biologicals.* (1) The hospice must ensure that the interdisciplinary group confers with an individual with education and training in drug management as defined in hospice policies and procedures and State law, who is an employee of or under contract with the hospice to ensure that drugs and biologicals meet each patient's needs.

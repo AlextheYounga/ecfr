@@ -18,6 +18,6 @@
 
 (5) In accordance with the general regulations in 33 CFR part 165.23, no person or vessel may enter or remain in the zone described in paragraph (a) of this section except for support vessels/aircraft and support personnel, or other vessels authorized by the Captain of the Port Corpus Christi or his designated representative.
 
-(e) *Penalties.* Vessels or persons violating this rule are subject to the penalties set forth in 33 U.S.C. 1232 and 50 U.S.C. 192.
+(e) *Penalties.* Vessels or persons violating this rule are subject to the penalties set forth in 46 U.S.C. 70036 and 46 U.S.C. 70052.
 
 [USCG-2009-0797, 75 FR 13436, Mar. 22, 2010]

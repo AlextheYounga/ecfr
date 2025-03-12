@@ -1,5 +1,7 @@
 ##### § 482.13 Condition of participation: Patient's rights. #####
 
+Link to an amendment published at 84 FR 51817, Sept. 30, 2019.Link to an amendment published at 84 FR 51882, Sept. 30, 2019.
+
 A hospital must protect and promote each patient's rights.
 
 (a) *Standard: Notice of rights* - (1) A hospital must inform each patient, or when appropriate, the patient's representative (as allowed under State law), of the patient's rights, in advance of furnishing or discontinuing patient care whenever possible.

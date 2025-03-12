@@ -18,7 +18,7 @@
 
 (7)(i) The medical examiner's certificate as required by § 391.43(g) or a legible copy of the certificate.
 
-(ii) *Exception.* For CDL holders, beginning January 30, 2012, if the CDLIS motor vehicle record contains medical certification status information, the motor carrier employer must meet this requirement by obtaining the CDLIS motor vehicle record defined at § 384.105 of this chapter. That record must be obtained from the current licensing State and placed in the driver qualification file. After January 30, 2015, a non-excepted, interstate CDL holder without medical certification status information on the CDLIS motor vehicle record is designated “not-certified” to operate a CMV in interstate commerce. After January 30, 2015 and through June 21, 2021, a motor carrier may use a copy of the driver's current medical examiner's certificate that was submitted to the State for up to 15 days from the date it was issued as proof of medical certification.
+(ii) *Exception.* For CDL holders, if the CDLIS motor vehicle record contains medical certification status information, the motor carrier employer must meet this requirement by obtaining the CDLIS motor vehicle record defined at § 384.105 of this chapter. That record must be obtained from the current licensing State and placed in the driver qualification file. After January 30, 2015, a non-excepted, interstate CDL holder without medical certification status information on the CDLIS motor vehicle record is designated “not-certified” to operate a CMV in interstate commerce. After January 30, 2015, and through June 21, 2021, a motor carrier may use a copy of the driver's current medical examiner's certificate that was submitted to the State for up to 15 days from the date it was issued as proof of medical certification.
 
 (iii) If that driver obtained the medical certification based on having obtained a medical variance from FMCSA, the motor carrier must also include a copy of the medical variance documentation in the driver qualification file in accordance with § 391.51(b)(8);
 
@@ -44,4 +44,4 @@
 
 (6) The note relating to verification of medical examiner listing on the National Registry of Certified Medical Examiners required by § 391.23(m).
 
-(Approved by the Office of Management and Budget under control number 2126-004)[63 FR 33277, June 18, 1998, as amended at 69 FR 16721, Mar. 30, 2004; 73 FR 73127, Dec. 1, 2008; 75 FR 28502, May 21, 2010; 77 FR 24133, Apr. 20, 2012; 79 FR 2380, Jan. 14, 2014; 80 FR 22822, Apr. 23, 2015; 83 FR 28782, June 21, 2018]
+(Approved by the Office of Management and Budget under control number 2126-004)[63 FR 33277, June 18, 1998, as amended at 66 FR 49874, Oct. 1, 2001; 69 FR 16721, Mar. 30, 2004; 73 FR 73127, Dec. 1, 2008; 75 FR 28502, May 21, 2010; 77 FR 24133, Apr. 20, 2012; 79 FR 2380, Jan. 14, 2014; 80 FR 22822, Apr. 23, 2015; 83 FR 28782, June 21, 2018; 84 FR 51434, Sept. 30, 2019]

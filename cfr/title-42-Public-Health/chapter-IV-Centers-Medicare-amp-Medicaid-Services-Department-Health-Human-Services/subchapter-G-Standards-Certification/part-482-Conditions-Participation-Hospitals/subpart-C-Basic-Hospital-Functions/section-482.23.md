@@ -1,5 +1,7 @@
 ##### § 482.23 Condition of participation: Nursing services. #####
 
+Link to an amendment published at 84 FR 51819, Sept. 30, 2019.
+
 The hospital must have an organized nursing service that provides 24-hour nursing services. The nursing services must be furnished or supervised by a registered nurse.
 
 (a) *Standard: Organization.* The hospital must have a well-organized service with a plan of administrative authority and delineation of responsibilities for patient care. The director of the nursing service must be a licensed registered nurse. He or she is responsible for the operation of the service, including determining the types and numbers of nursing personnel and staff necessary to provide nursing care for all areas of the hospital.

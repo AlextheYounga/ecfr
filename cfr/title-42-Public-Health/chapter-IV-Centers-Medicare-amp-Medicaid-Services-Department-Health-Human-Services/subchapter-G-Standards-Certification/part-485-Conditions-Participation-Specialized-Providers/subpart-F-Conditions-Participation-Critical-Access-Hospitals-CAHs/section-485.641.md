@@ -1,5 +1,7 @@
 ##### § 485.641 Condition of participation: Periodic evaluation and quality assurance review. #####
 
+Link to an amendment published at 84 FR 51828, Sept. 30, 2019.
+
 (a) *Standard: Periodic evaluation* - (1) The CAH carries out or arranges for a periodic evaluation of its total program. The evaluation is done at least once a year and includes review of -
 
 (i) The utilization of CAH services, including at least the number of patients served and the volume of services;

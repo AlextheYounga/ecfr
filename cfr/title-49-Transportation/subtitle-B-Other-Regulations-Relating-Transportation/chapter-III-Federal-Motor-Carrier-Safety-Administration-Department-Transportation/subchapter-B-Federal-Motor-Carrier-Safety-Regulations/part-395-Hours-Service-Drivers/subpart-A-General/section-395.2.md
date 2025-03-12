@@ -24,7 +24,7 @@ As used in this part, the following words and terms are construed to mean:
 
 *Hi-rail vehicle* means an internal rail flaw detection vehicle equipped with flange hi-rails.
 
-*Livestock* means cattle, elk, reindeer, bison, horses, deer, sheep, goats, swine, poultry (including egg-producing poultry), fish used for food, and other animals designated by the Secretary of Agriculture that are part of a foundation herd (including dairy producing cattle) or offspring; or are purchased as part of a normal operation and not to obtain additional benefits under the Emergency Livestock Feed Assistance Act of 1988, as amended.
+*Livestock* means cattle, elk, reindeer, bison, horses, deer, sheep, goats, swine, poultry (including egg-producing poultry), llamas, alpacas, live fish, crawfish, and other animals that are part of a foundation herd (including dairy producing cattle) or offspring; or are purchased as part of a normal operation and not to obtain additional benefits under the Emergency Livestock Feed Assistance Act of 1988, as amended.
 
 *Multiple stops* means all stops made in any one village, town, or city may be computed as one.
 
@@ -76,4 +76,4 @@ As used in this part, the following words and terms are construed to mean:
 
 (3) Except for any occasional emergency use, operated primarily within the service area of a utility's subscribers or consumers, without regard to whether the vehicle is owned, leased, or rented by the utility.
 
-[57 FR 33648, July 30, 1992, as amended at 59 FR 7515, Feb. 15, 1994; 59 FR 60324, Nov. 23, 1994; 60 FR 38748, July 28, 1995; 61 FR 14679, Apr. 3, 1996; 63 FR 33279, June 18, 1998; 72 FR 36790, July 5, 2007; 75 FR 17245, Apr. 5, 2010; 76 FR 25590, May 5, 2011; 76 FR 81187, Dec. 27, 2011; 77 FR 28451, May 14, 2012; 80 FR 78383, Dec. 16, 2015; 81 FR 47721, July 22, 2016; 83 FR 48726, Sept. 27, 2018]
+[57 FR 33648, July 30, 1992, as amended at 59 FR 7515, Feb. 15, 1994; 59 FR 60324, Nov. 23, 1994; 60 FR 38748, July 28, 1995; 61 FR 14679, Apr. 3, 1996; 63 FR 33279, June 18, 1998; 72 FR 36790, July 5, 2007; 75 FR 17245, Apr. 5, 2010; 76 FR 25590, May 5, 2011; 76 FR 81187, Dec. 27, 2011; 77 FR 28451, May 14, 2012; 80 FR 78383, Dec. 16, 2015; 81 FR 47721, July 22, 2016; 83 FR 48726, Sept. 27, 2018; 84 FR 51435, Sept. 30, 2019]

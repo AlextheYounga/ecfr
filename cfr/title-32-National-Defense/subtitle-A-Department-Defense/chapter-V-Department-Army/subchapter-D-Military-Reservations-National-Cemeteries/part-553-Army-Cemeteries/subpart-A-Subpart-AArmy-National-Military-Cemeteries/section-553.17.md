@@ -1,0 +1,5 @@
+##### § 553.17 Arlington National Cemetery interment/inurnment agreement. #####
+
+(a) A derivatively eligible person who predeceases the primarily eligible person may be interred or inurned in Arlington National Cemetery only if the primarily eligible person agrees in writing to be interred in the same gravesite or inurned in the same niche at his or her time of need and that his or her estate shall pay for all expenses related to disinterment or disinurnment of the predeceased person from Arlington National Cemetery if the primarily eligible person is not interred or inurned as agreed.
+
+(b) If the primarily eligible person becomes ineligible for interment or inurnment in Arlington National Cemetery or the personal representative or primary next of kin decides that the primarily eligible person will be interred or inurned elsewhere, the remains of any predeceased person may be removed from Arlington National Cemetery at no cost to the Government.

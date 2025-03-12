@@ -222,7 +222,7 @@
 
 (1) Open flames and fires are prohibited in all underground construction operations except as permitted for welding, cutting and other hot work operations in paragraph (n) of this section.
 
-(2) (i) Smoking may be allowed only in areas free of fire and explosion hazards.
+(2)(i) Smoking may be allowed only in areas free of fire and explosion hazards.
 
 (ii) Readily visible signs prohibiting smoking and open flames shall be posted in areas having fire or explosion hazards.
 

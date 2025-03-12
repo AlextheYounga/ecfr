@@ -1,5 +1,7 @@
 ##### § 1305.15 Unaccepted and defective DEA Forms 222. #####
 
+Link to an amendment published at 84 FR 51375, Sept. 30, 2019.
+
 (a) A DEA Form 222 must not be filled if either of the following apply:
 
 (1) The order is not complete, legible, or properly prepared, executed, or endorsed.

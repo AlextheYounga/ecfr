@@ -1,5 +1,7 @@
 ##### § 486.104 Condition for coverage: Qualifications, orientation and health of technical personnel. #####
 
+Link to an amendment published at 84 FR 51830, Sept. 30, 2019.
+
 Portable X-ray services are provided by qualified technologists.
 
 (a) *Standard-qualifications of technologists.* All operators of the portable X-ray equipment meet the requirements of paragraphs (a)(1), (2), (3), or (4) of this section:

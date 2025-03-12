@@ -1,5 +1,7 @@
 ##### § 484.2 Definitions. #####
 
+Link to an amendment published at 84 FR 51825, Sept. 30, 2019.
+
 As used in subparts A, B, and C, of this part -
 
 *Branch office* means an approved location or site from which a home health agency provides services within a portion of the total geographic area served by the parent agency. The parent home health agency must provide supervision and administrative control of any branch office. It is unnecessary for the branch office to independently meet the conditions of participation as a home health agency.

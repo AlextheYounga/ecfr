@@ -2,7 +2,7 @@
 
 Words or phrases used in this part are defined in §§ 386.2 and 390.5 of this subchapter, and § 40.3 of this title, except as provided in this section -
 
-*Actual knowledge* for the purpose of subpart B of this part, means actual knowledge by an employer that a driver has used alcohol or controlled substances based on the employer's direct observation of the employee, information provided by the driver's previous employer(s), a traffic citation for driving a CMV while under the influence of alcohol or controlled substances or an employee's admission of alcohol or controlled substance use, except as provided in § 382.121. Direct observation as used in this definition means observation of alcohol or controlled substances use and does not include observation of employee behavior or physical characteristics sufficient to warrant reasonable suspicion testing under § 382.307.
+*Actual knowledge* for the purpose of subpart B of this part, means actual knowledge by an employer that a driver has used alcohol or controlled substances based on the employer's direct observation of the employee, information provided by the driver's previous employer(s), a traffic citation for driving a CMV while under the influence of alcohol or controlled substances or an employee's admission of alcohol or controlled substance use, except as provided in § 382.121. Direct observation as used in this definition means observation of alcohol or controlled substances use and does not include observation of employee behavior or physical characteristics sufficient to warrant reasonable suspicion testing under § 382.307. As used in this section, “traffic citation” means a ticket, complaint, or other document charging driving a CMV while under the influence of alcohol or controlled substances.
 
 *Alcohol* means the intoxicating agent in beverage alcohol, ethyl alcohol, or other low molecular weight alcohols including methyl and isopropyl alcohol.
 
@@ -110,4 +110,4 @@ Words or phrases used in this part are defined in §§ 386.2 and 390.5 of this s
 
 *Violation rate for random alcohol testing* means the number of 0.04 and above random alcohol confirmation test results conducted under this part plus the number of refusals of random alcohol tests required by this part, divided by the total number of random alcohol screening tests (including refusals) conducted under this part.
 
-[66 FR 43103, Aug. 17, 2001, as amended at 68 FR 75458, Dec. 31, 2003; 77 FR 59825, Oct. 1, 2012; 81 FR 87724, Dec. 5, 2016; 83 FR 48726, Sept. 27, 2018]
+[66 FR 43103, Aug. 17, 2001, as amended at 68 FR 75458, Dec. 31, 2003; 77 FR 59825, Oct. 1, 2012; 81 FR 87724, Dec. 5, 2016; 83 FR 48726, Sept. 27, 2018; 84 FR 51432, Sept. 30, 2019]

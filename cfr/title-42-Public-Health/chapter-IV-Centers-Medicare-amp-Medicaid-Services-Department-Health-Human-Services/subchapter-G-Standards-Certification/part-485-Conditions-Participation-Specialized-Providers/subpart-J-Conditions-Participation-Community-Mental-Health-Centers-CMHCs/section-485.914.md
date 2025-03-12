@@ -1,5 +1,7 @@
 ##### § 485.914 Condition of participation: Admission, initial evaluation, comprehensive assessment, and discharge or transfer of the client. #####
 
+Link to an amendment published at 84 FR 51829, Sept. 30, 2019.
+
 The CMHC must ensure that all clients admitted into its program are appropriate for the services the CMHC furnishes in its facility.
 
 (a) *Standard: Admission.* (1) The CMHC must determine that each client is appropriate for the services it provides as specified in § 410.2 of this chapter.

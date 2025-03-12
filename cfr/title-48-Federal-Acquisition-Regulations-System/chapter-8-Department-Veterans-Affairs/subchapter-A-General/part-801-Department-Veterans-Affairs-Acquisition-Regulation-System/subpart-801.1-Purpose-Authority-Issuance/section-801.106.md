@@ -1,6 +1,6 @@
 ##### 801.106 OMB approval under the Paperwork Reduction Act. #####
 
-Link to an amendment published at 84 FR 45681, Aug. 30, 2019.Link to an amendment published at 84 FR 46452, Sept. 4, 2019.
+Link to an amendment published at 84 FR 46452, Sept. 4, 2019.
 
 In accordance with the Paperwork Reduction Act of 1995 (44 U.S.C. 3501-3521), the Office of Management and Budget (OMB) has approved the reporting or recordkeeping provisions that are included in the VAAR and has given VA the following approval numbers:
 
@@ -11,7 +11,7 @@ In accordance with the Paperwork Reduction Act of 1995 (44 U.S.C. 3501-3521), th
 |                            813                            |        2900-0393         |                        852.236-72                         |        2900-0422         |
 |                         832.202-4                         |        2900-0688         |                    852.236-80 (Alt. I)                    |        2900-0422         |
 |                        836.606-71                         |        2900-0208         |                                                           |                          |
-|                        852.207-70                         |        2900-0590         |                        852.236-88                         |        2900-0422         |
+|                        852.207-70                         |        2900-0590         |                        852.243-70                         |        2900-0422         |
 |                        852.209-70                         |        2900-0418         |                                                           |                          |
 |                        852.211-70                         |        2900-0587         |                                                           |                          |
 |                        852.211-72                         |        2900-0586         |                         852.270-3                         |        2900-0589         |

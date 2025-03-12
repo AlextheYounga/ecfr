@@ -1,5 +1,7 @@
 ##### § 1305.11 Procedure for obtaining DEA Forms 222. #####
 
+Link to an amendment published at 84 FR 51374, Sept. 30, 2019.
+
 (a) DEA Forms 222 are issued in mailing envelopes containing either seven or fourteen forms, each form containing an original, duplicate, and triplicate copy (respectively, Copy 1, Copy 2, and Copy 3). A limit, which is based on the business activity of the registrant, will be imposed on the number of DEA Forms 222, which will be furnished on any requisition unless additional forms are specifically requested and a reasonable need for such additional forms is shown.
 
 (b) Any person applying for a registration that would entitle him or her to obtain a DEA Form 222 may requisition the forms by so indicating on the application form; a DEA Form 222 will be supplied upon the registration of the applicant. Any person holding a registration entitling him or her to obtain a DEA Form 222 may requisition the forms for the first time by contacting any Division Office or the Registration Section of the Administration. Any person already holding a DEA Form 222 may requisition additional forms on DEA Form 222a, which is mailed to a registrant approximately 30 days after each shipment of DEA Forms 222 to that registrant, or by contacting any Division Office or the Registration Section of the Administration. All requisition forms (DEA Form 222a) must be submitted to the DEA Registration Section.

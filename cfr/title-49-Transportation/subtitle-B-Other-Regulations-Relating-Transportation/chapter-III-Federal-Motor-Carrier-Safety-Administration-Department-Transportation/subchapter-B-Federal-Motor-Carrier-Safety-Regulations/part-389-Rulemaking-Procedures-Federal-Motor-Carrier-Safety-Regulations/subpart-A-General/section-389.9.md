@@ -1,6 +1,6 @@
-##### § 389.9 Treatment of confidential business information. #####
+##### § 389.9 Treatment of confidential business information submitted under confidential class determinations. #####
 
-(a) *Purpose.* This section establishes the standards and procedures by which the Agency will solicit and receive certain confidential commercial or financial information, as that term is used in the Freedom of Information Act (5 U.S.C. 552(b)(4)), categorically referred to below as “confidential business information,” and the manner in which the Agency will protect such information from public disclosure in accordance with 5 U.S.C. 552(b)(4).
+(a) *Purpose.* This section establishes the standards and procedures by which the Agency will solicit and receive certain confidential commercial or financial information, as that term is used in the Freedom of Information Act (5 U.S.C. 552(b)(4)), categorically referred to below as “confidential business information,” and the manner in which the Agency will protect such information from public disclosure in accordance with 5 U.S.C. 552(b)(4), when it is submitted in accordance with paragraph (f) of this section.
 
 (b) *Confidential class determinations.* The Administrator may make and issue a class determination, which shall pertain to a specified rulemaking and shall clearly identify categories of information included within the class. Information submitted under the class determination and conforming to the characteristics of the class will be treated as presumptively confidential and accorded the non-disclosure protections described in paragraph (h) of this section. The Administrator may establish a class upon finding that:
 
@@ -46,4 +46,4 @@
 
 (3) If, at the time the Administrator determines that the submitted information fails to comply with the requirements set forth in paragraph (f), such information is the subject of a FOIA request, the requirements of 49 CFR 7.29 shall apply.
 
-[80 FR 32864, June 10, 2015]
+[80 FR 32864, June 10, 2015, as amended at 84 FR 51434, Sept. 30, 2019]

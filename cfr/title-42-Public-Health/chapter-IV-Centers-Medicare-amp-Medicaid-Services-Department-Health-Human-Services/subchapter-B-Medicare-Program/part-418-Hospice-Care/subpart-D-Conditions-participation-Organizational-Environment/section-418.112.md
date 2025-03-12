@@ -1,5 +1,7 @@
 ##### § 418.112 Condition of participation: Hospices that provide hospice care to residents of a SNF/NF or ICF/IID. #####
 
+Link to an amendment published at 84 FR 51815, Sept. 30, 2019.
+
 In addition to meeting the conditions of participation at § 418.10 through § 418.116, a hospice that provides hospice care to residents of a SNF/NF or ICF/IID must abide by the following additional standards.
 
 (a) *Standard: Resident eligibility, election, and duration of benefits.* Medicare patients receiving hospice services and residing in a SNF, NF, or ICF/IID are subject to the Medicare hospice eligibility criteria set out at § 418.20 through § 418.30.

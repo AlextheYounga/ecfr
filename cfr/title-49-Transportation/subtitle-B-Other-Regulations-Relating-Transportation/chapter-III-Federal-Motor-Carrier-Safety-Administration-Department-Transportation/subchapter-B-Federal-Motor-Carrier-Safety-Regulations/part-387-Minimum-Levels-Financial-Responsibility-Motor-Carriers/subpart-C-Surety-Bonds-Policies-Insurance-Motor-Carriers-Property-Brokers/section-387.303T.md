@@ -14,8 +14,6 @@
 
 (ii) *Passenger carriers.*
 
-Passenger Carriers: Kind of Equipment
-
 |                                         Vehicle seating capacity                                          |Minimum  <br/>limits|
 |-----------------------------------------------------------------------------------------------------------|--------------------|
 |          (A) Any vehicle with a seating capacity of 16 passengers or more (including the driver)          |     $5,000,000     |
@@ -27,7 +25,7 @@ Passenger Carriers: Kind of Equipment
 |----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
 | (i) Freight vehicles of 10,001 pounds (4,536 kilograms) or more GVWR |                                                                                                                                                                                             Property (non-hazardous)                                                                                                                                                                                             |      $750,000      |
 |(ii) Freight vehicles of 10,001 (4,536 kilograms) pounds or more GVWR |Hazardous substances, as defined in § 171.8 of this title, transported in cargo tanks, portable tanks, or hopper-type vehicles with capacities in excess of 3,500 water gallons, or in bulk explosives Division 1,1, 1.2 and 1.3 materials. Division 2.3, Hazard Zone A material; in bulk Division 2.1 or 2.2; or highway route controlled quantities of a Class 7 material, as defined in § 173.403 of this title|     5,000,000      |
-|(iii) Freight vehicles of 10,001 pounds (4,536 kilograms) or more GVWR|                                                                                      Oil listed in § 172.101 of this title; hazardous waste, hazardous materials and hazardous substances defined in § 171.8 of this title and listed in § 172.101 of this title, but not mentioned in paragraph (b) or (d) of this section                                                                                      |     1,000,000      |
+|(iii) Freight vehicles of 10,001 pounds (4,536 kilograms) or more GVWR|                                                                          Oil listed in § 172.101 of this title; hazardous waste, hazardous materials and hazardous substances defined in § 171.8 of this title and listed in § 172.101 of this title, but not mentioned in paragraph (b)(2)(ii) or paragraph (b)(2)(iv) of this section                                                                          |     1,000,000      |
 |   (iv) Freight vehicles under 10,001 pounds (4,536 kilograms) GVWR   |                                                                          Any quantity of Division 1.1, 1.2, or 1.3 material; any quantity of a Division 2.3, Hazard Zone A, or Division 6.1, Packing Group I, Hazard Zone A material; or highway route controlled quantities of Class 7 material as defined in § 173.455 of this title                                                                           |     5,000,000      |
 
 (3) Motor carriers subject to the minimum limits governed by this section, which are also subject to Department of Transportation limits requirements, are at no time required to have security for more than the required minimum limits established by the Secretary of Transportation in the applicable provisions of this part.
@@ -44,8 +42,8 @@ Passenger Carriers: Kind of Equipment
 
 (c) *Household goods motor carriers: Cargo liability.* Security required to compensate individual shippers for loss or damage to property belonging to them and coming into the possession of household goods motor carriers in connection with their transportation service:
 
-(1) For loss of or damage to household goods carried on any one motor vehicle - $5,000; and
+(1) For loss of or damage to household goods carried on any one motor vehicle—$5,000; and
 
-(2) For loss of or damage to or aggregate of losses or damages of or to household goods occurring at any one time and place - $10,000.
+(2) For loss of or damage to or aggregate of losses or damages of or to household goods occurring at any one time and place—$10,000.
 
-[82 FR 5307, Jan. 17, 2017, as amended at 83 FR 22877, May 17, 2018]
+[82 FR 5307, Jan. 17, 2017, as amended at 83 FR 22877, May 17, 2018; 84 FR 51433, Sept. 30, 2019]

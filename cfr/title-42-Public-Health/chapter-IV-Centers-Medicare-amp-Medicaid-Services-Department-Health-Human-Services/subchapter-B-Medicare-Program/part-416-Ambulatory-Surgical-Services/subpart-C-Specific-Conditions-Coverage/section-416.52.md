@@ -1,5 +1,7 @@
 ##### § 416.52 Conditions for coverage - Patient admission, assessment and discharge. #####
 
+Link to an amendment published at 84 FR 51814, Sept. 30, 2019.
+
 The ASC must ensure each patient has the appropriate pre-surgical and post-surgical assessments completed and that all elements of the discharge requirements are completed.
 
 (a) *Standard: Admission and pre-surgical assessment.* (1) Not more than 30 days before the date of the scheduled surgery, each patient must have a comprehensive medical history and physical assessment completed by a physician (as defined in section 1861(r) of the Act) or other qualified practitioner in accordance with applicable State health and safety laws, standards of practice, and ASC policy.

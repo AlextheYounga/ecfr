@@ -1,5 +1,7 @@
 ##### § 484.50 Condition of participation: Patient rights. #####
 
+Link to an amendment published at 84 FR 51825, Sept. 30, 2019.
+
 The patient and representative (if any), have the right to be informed of the patient's rights in a language and manner the individual understands. The HHA must protect and promote the exercise of these rights.
 
 (a) *Standard: Notice of rights.* The HHA must -

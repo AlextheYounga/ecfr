@@ -10,6 +10,6 @@
 
 (e) *Waiver.* The COTP may waive any of the requirements of this rule for any person, vessel, or class of vessel upon finding that application of the safety zone is unnecessary or impractical for the purpose of maritime security.
 
-(f) *Penalties.* Vessels or persons violating this rule are subject to the penalties set forth in 33 U.S.C. 1232 and 46 U.S.C. 70052.
+(f) *Penalties.* Vessels or persons violating this rule are subject to the penalties set forth in 46 U.S.C. 70036 and 46 U.S.C. 70052.
 
 [USCG-2014-0732, 79 FR 53297, Sept. 9, 2014]

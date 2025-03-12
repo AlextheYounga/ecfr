@@ -4,7 +4,7 @@
 
 (b) *Evidence of security.* Evidence of a surety bond must be filed using the FMCSA's prescribed Form BMC 84. Evidence of a trust fund with a financial institution must be filed using the FMCSA's prescribed Form BMC 85. The surety bond or the trust fund shall ensure the financial responsibility of the broker by providing for payments to shippers or motor carriers if the broker fails to carry out its contracts, agreements, or arrangements for the supplying of transportation by authorized motor carriers.
 
-(c) *Financial institution* - when used in this section and in forms prescribed under this section, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, shall mean - Each agent, agency, branch or office within the United States of any person, as defined by the ICC Termination Act, doing business in one or more of the capacities listed below:
+(c) *Financial institution*—when used in this section and in forms prescribed under this section, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, shall mean—Each agent, agency, branch or office within the United States of any person, as defined by the ICC Termination Act, doing business in one or more of the capacities listed below:
 
 (1) An insured bank (as defined in section 3(h) of the Federal Deposit Insurance Act (12 U.S.C. 1813(h));
 
@@ -12,7 +12,7 @@
 
 (3) An agency or branch of a foreign bank in the United States;
 
-(4) An insured institution (as defined in section 401(a) of the National Housing Act (12 U.S.C. 1724(a));
+(4) An insured depository institution (as defined in section 3(c)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1813(c)(2));
 
 (5) A thrift institution (savings bank, building and loan association, credit union, industrial bank or other);
 
@@ -22,7 +22,7 @@
 
 (8) A person subject to supervision by any State or Federal bank supervisory authority.
 
-(d) *Forms and Procedures* - (1) *Forms for broker surety bonds and trust agreements.* Form BMC-84 broker surety bond will be filed with the FMCSA for the full security limits under paragraph (a) of this section; or Form BMC-85 broker trust fund agreement will be filed with the FMCSA for the full security limits under paragraph (a) of this section.
+(d) *Forms and Procedures*—(1) *Forms for broker surety bonds and trust agreements.* Form BMC-84 broker surety bond will be filed with the FMCSA for the full security limits under paragraph (a) of this section; or Form BMC-85 broker trust fund agreement will be filed with the FMCSA for the full security limits under paragraph (a) of this section.
 
 (2) *Broker surety bonds and trust fund agreements in effect continuously.* Surety bonds and trust fund agreements shall specify that coverage thereunder will remain in effect continuously until terminated as herein provided.
 
@@ -32,4 +32,4 @@
 
 (3) *Filing and copies.* Broker surety bonds and trust fund agreements must be filed with the FMCSA in duplicate.
 
-[53 FR 10396, Mar. 31, 1988, as amended at 75 FR 72998, Nov. 29, 2010; 78 FR 58482, Sept. 24, 2013; 78 FR 60233, Oct. 1, 2013]
+[53 FR 10396, Mar. 31, 1988, as amended at 75 FR 72998, Nov. 29, 2010; 78 FR 58482, Sept. 24, 2013; 78 FR 60233, Oct. 1, 2013; 84 FR 51434, Sept. 30, 2019]

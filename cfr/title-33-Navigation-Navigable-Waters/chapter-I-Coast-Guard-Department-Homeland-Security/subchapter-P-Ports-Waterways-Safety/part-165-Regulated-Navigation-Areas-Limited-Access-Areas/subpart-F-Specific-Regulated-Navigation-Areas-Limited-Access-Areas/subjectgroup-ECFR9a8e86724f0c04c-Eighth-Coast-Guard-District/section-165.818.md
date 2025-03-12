@@ -24,6 +24,6 @@
 
 (d) *Informational broadcasts.* The Captain of the Port Houston-Galveston will inform the public when moving security zones have been established around certain vessels via Broadcast Notice to Mariners on VHF channel 16 and 13. Vessels that have a moving security zone in place around them will display the international signal flag or pennant number five.
 
-(e) *Authority.* In addition to 33 U.S.C. 1231 and 50 U.S.C. 191, the authority for this section includes 33 U.S.C. 1226.
+(e) *Authority.* In addition to 46 U.S.C. 70034 and 46 U.S.C. 70051, the authority for this section includes 46 U.S.C. 70116.
 
 [USCG-2008-0125, 75 FR 8490, Feb. 25, 2010]

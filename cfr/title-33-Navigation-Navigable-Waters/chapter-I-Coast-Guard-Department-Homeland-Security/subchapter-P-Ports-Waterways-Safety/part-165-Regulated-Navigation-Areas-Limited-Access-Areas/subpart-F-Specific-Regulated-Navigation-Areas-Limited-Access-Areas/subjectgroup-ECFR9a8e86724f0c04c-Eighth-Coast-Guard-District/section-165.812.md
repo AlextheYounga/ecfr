@@ -20,6 +20,6 @@
 
 (6) All persons and vessels within the moving security zones shall comply with the instructions of the Captain of the Port New Orleans and designated on-scene U.S. Coast Guard patrol personnel. On-scene U.S. Coast Guard patrol personnel include commissioned, warrant, and petty officers of the U.S. Coast Guard.
 
-(c) *Authority.* In addition to 33 U.S.C. 1231, the authority for this section includes 33 U.S.C. 1226.
+(c) *Authority.* In addition to 46 U.S.C. 70034, the authority for this section includes 46 U.S.C. 70116.
 
 [COTP New Orleans-02-005, 67 FR 61989, Oct. 3, 2002]

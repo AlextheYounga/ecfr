@@ -1,5 +1,7 @@
 ##### § 482.22 Condition of participation: Medical staff. #####
 
+Link to an amendment published at 84 FR 51818, Sept. 30, 2019.
+
 The hospital must have an organized medical staff that operates under bylaws approved by the governing body, and which is responsible for the quality of medical care provided to patients by the hospital.
 
 (a) *Standard: Eligibility and process for appointment to medical staff.* The medical staff must be composed of doctors of medicine or osteopathy. In accordance with State law, including scope-of-practice laws, the medical staff may also include other categories of physicians (as listed at § 482.12(c)(1)) and non-physician practitioners who are determined to be eligible for appointment by the governing body.

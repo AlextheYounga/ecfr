@@ -1,5 +1,7 @@
 ##### § 486.106 Condition for coverage: Referral for service and preservation of records. #####
 
+Link to an amendment published at 84 FR 51830, Sept. 30, 2019.
+
 All portable X-ray services performed for Medicare beneficiaries are ordered by a physician or a nonphysician practitioner as provided in § 410.32(a) of this chapter or by a nonphysician practitioner as provided in § 410.32(a)(2) and records are properly preserved.
 
 (a) *Standard - referral by a physician or nonphysician practitioners.* Portable X-ray examinations are performed only on the order of a physician licensed to practice in the State or by a nonphysician practitioner acting within the scope of State law. Such nonphysician practitioners may be treated the same as physicians treating beneficiaries for the purpose of this paragraph. The supplier's records show that:

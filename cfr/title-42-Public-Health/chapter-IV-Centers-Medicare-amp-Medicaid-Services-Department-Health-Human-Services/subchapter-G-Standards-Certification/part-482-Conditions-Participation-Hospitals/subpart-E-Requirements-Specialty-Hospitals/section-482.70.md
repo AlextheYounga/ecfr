@@ -1,5 +1,7 @@
 ##### § 482.70 Definitions. #####
 
+Link to an amendment published at 84 FR 51821, Sept. 30, 2019.
+
 As used in this subpart, the following definitions apply:
 
 *Adverse event* means an untoward, undesirable, and usually unanticipated event that causes death or serious injury, or the risk thereof. As applied to transplant centers, examples of adverse events include (but are not limited to) serious medical complications or death caused by living donation; unintentional transplantation of organs of mismatched blood types; transplantation of organs to unintended beneficiaries; and unintended transmission of infectious disease to a beneficiary.

@@ -1,5 +1,7 @@
 ##### § 416.47 Condition for coverage - Medical records. #####
 
+Link to an amendment published at 84 FR 51814, Sept. 30, 2019.
+
 The ASC must maintain complete, comprehensive, and accurate medical records to ensure adequate patient care.
 
 (a) *Standard: Organization.* The ASC must develop and maintain a system for the proper collection, storage, and use of patient records.

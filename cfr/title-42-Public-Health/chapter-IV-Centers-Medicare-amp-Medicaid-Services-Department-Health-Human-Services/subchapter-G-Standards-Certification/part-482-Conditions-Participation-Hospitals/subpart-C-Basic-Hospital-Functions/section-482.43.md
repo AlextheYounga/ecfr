@@ -1,5 +1,7 @@
 ##### § 482.43 Condition of participation: Discharge planning. #####
 
+Link to an amendment published at 84 FR 51882, Sept. 30, 2019.
+
 The hospital must have in effect a discharge planning process that applies to all patients. The hospital's policies and procedures must be specified in writing.
 
 (a) *Standard: Identification of patients in need of discharge planning.* The hospital must identify at an early stage of hospitalization all patients who are likely to suffer adverse health consequences upon discharge if there is no adequate discharge planning.

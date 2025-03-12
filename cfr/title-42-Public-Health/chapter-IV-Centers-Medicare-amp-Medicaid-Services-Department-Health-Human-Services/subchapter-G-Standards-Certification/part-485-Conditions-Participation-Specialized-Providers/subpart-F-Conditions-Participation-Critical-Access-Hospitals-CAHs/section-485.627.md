@@ -1,5 +1,7 @@
 ##### § 485.627 Condition of participation: Organizational structure. #####
 
+Link to an amendment published at 84 FR 51827, Sept. 30, 2019.
+
 (a) *Standard: Governing body or responsible individual.* The CAH has a governing body or an individual that assumes full legal responsibility for determining, implementing and monitoring policies governing the CAH's total operation and for ensuring that those policies are administered so as to provide quality health care in a safe environment.
 
 (b) *Standard: Disclosure.* The CAH discloses the names and addresses of -

@@ -8,7 +8,7 @@ The State's CVSP must reflect a performance-based program, and contain the follo
 
 (2) A program summary of the effectiveness of the prior years' activities in reducing CMV accidents, injuries and fatalities, and improving driver and motor carrier safety performance. Data periods used must be consistent from year to year. This may be calendar year or fiscal year or any 12-month period of time for which the State's data is current. The summary must show trends supported by safety and program performance data collected over several years. It must identify safety or performance problems in the State and those problems must be addressed in the new or modified CVSP.
 
-(b) A brief narrative describing how the State program addresses the national program elements listed in § 350.109. The plan must address these elements even if there are no planned activities in a program area. The rationale for the resource allocation decision must be explained. The narrative section must include a description of how the State supports the activities identified in § 350.201(q) and (t).
+(b) A brief narrative describing how the State program addresses the national program elements listed in § 350.109. The plan must address these elements even if there are no planned activities in a program area. The rationale for the resource allocation decision must be explained. The narrative section must include a description of how the State supports the activities identified in § 350.201(q) and (s).
 
 (1) Activities aimed at removing impaired CMV drivers from the highways through adequate enforcement of restrictions on the use of alcohol and controlled substances and by ensuring ready roadside access to alcohol detection and measuring equipment.
 
@@ -48,4 +48,4 @@ The State's CVSP must reflect a performance-based program, and contain the follo
 
 (q) State Training Plan.
 
-[65 FR 15102, Mar. 21, 2000, as amended at 67 FR 61820, Oct. 2, 2002; 67 FR 63019, Oct. 9, 2002; 77 FR 59823, Oct. 1, 2012; 81 FR 71014, Oct. 14, 2016]
+[65 FR 15102, Mar. 21, 2000, as amended at 67 FR 61820, Oct. 2, 2002; 67 FR 63019, Oct. 9, 2002; 77 FR 59823, Oct. 1, 2012; 81 FR 71014, Oct. 14, 2016; 84 FR 51432, Sept. 30, 2019]

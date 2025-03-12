@@ -1,5 +1,7 @@
 ##### § 494.60 Condition: Physical environment. #####
 
+Link to an amendment published at 84 FR 51832, Sept. 30, 2019.
+
 The dialysis facility must be designed, constructed, equipped, and maintained to provide dialysis patients, staff, and the public a safe, functional, and comfortable treatment environment.
 
 (a) *Standard: Building.* The building in which dialysis services are furnished must be constructed and maintained to ensure the safety of the patients, the staff, and the public.

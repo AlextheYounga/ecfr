@@ -1,5 +1,7 @@
 ##### § 488.61 Special procedures for approval and re-approval of organ transplant centers. #####
 
+Link to an amendment published at 84 FR 51831, Sept. 30, 2019.
+
 For the purposes of this subpart, the survey, certification, and enforcement procedures described at 42 CFR part 488, subpart A apply to transplant centers, including the periodic review of compliance and approval described at § 488.20.
 
 (a) *Initial approval procedures for transplant centers that are not Medicare-approved as of June 28, 2007.* A transplant center, including a kidney transplant center, may submit a request to CMS for Medicare approval at any time.

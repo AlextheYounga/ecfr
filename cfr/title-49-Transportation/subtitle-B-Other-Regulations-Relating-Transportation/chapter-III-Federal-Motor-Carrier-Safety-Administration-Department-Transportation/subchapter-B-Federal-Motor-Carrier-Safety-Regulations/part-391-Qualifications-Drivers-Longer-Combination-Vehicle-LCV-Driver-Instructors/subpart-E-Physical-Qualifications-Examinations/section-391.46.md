@@ -24,7 +24,7 @@
 
 (iii) The individual is not physically qualified to operate a commercial motor vehicle up to the maximum 12-month period under § 391.45(e) until he or she provides the treating clinician with at least the preceding 3 months of electronic blood glucose self-monitoring records while being treated with insulin that are generated in accordance with paragraph (d) of this section.
 
-(iv) The individual who does not provide the treating clinician with at least the preceding 3 months of electronic blood glucose self-monitoring records while being treated with insulin that are generated in accordance with paragraph (d) of this section is not physically qualified to operate a commercial motor vehicle for more than 3 months. If 3 months of compliant electronic blood glucose self-monitoring records are then provided by the individual to the treating clinician and the treating clinician completes a new Insulin-Treated Diabetes Mellitus Assessment Form, MCSA-5870, the medical examiner may issue a medical examiner's certificate that is valid for up to the maximum 12-month period allowed by § 391.45(e) and paragraph (c)(iv) of this section.
+(iv) The individual who does not provide the treating clinician with at least the preceding 3 months of electronic blood glucose self-monitoring records while being treated with insulin that are generated in accordance with paragraph (d) of this section is not physically qualified to operate a commercial motor vehicle for more than 3 months. If 3 months of compliant electronic blood glucose self-monitoring records are then provided by the individual to the treating clinician and the treating clinician completes a new Insulin-Treated Diabetes Mellitus Assessment Form, MCSA-5870, the medical examiner may issue a medical examiner's certificate that is valid for up to the maximum 12-month period allowed by § 391.45(e) and paragraph (c)(2)(iii) of this section.
 
 (d) *Blood glucose self-monitoring records.* Individuals with diabetes mellitus treated with insulin for control must self-monitor blood glucose in accordance with the specific treatment plan prescribed by the treating clinician. Such individuals must maintain blood glucose records measured with an electronic glucometer that stores all readings, that records the date and time of readings, and from which data can be electronically downloaded. A printout of the electronic blood glucose records or the glucometer must be provided to the treating clinician at the time of any of the evaluations required by this section.
 
@@ -38,4 +38,4 @@
 
 (2) The individual must retain the Form and provide it to the medical examiner at the individual's next medical examination.
 
-[83 FR 47520, Sept. 19, 2018]
+[83 FR 47520, Sept. 19, 2018, as amended at 84 FR 51434, Sept. 30, 2019]

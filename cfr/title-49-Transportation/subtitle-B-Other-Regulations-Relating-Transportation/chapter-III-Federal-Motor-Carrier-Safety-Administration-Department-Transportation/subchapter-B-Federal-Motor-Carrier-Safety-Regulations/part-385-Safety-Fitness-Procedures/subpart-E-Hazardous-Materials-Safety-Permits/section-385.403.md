@@ -1,6 +1,6 @@
 ##### § 385.403 Who must hold a safety permit? #####
 
-After the date following January 1, 2005, that a motor carrier is required to file a Motor Carrier Identification Report Form (MCS-150) according to the schedule set forth in § 390.19(a) of this chapter, the motor carrier may not transport in interstate or intrastate commerce any of the following hazardous materials, in the quantity indicated for each, unless the motor carrier holds a safety permit:
+A motor carrier may not transport in interstate or intrastate commerce any of the following hazardous materials, in the quantity indicated for each, unless the motor carrier holds a safety permit:
 
 (a) A highway route-controlled quantity of a Class 7 (radioactive) material, as defined in § 173.403 of this title;
 
@@ -14,4 +14,4 @@ After the date following January 1, 2005, that a motor carrier is required to fi
 
 (f) A shipment of methane (compressed or refrigerated liquid), natural gas (compressed or refrigerated liquid), or any other compressed or refrigerated liquefied gas with a methane content of at least 85 percent, in bulk packaging having a capacity equal to or greater than 13,248 L (3,500 gallons).
 
-[69 FR 39367, June 30, 2004, as amended at 77 FR 59826, Oct. 1, 2012; 80 FR 59073, Oct. 1, 2015]
+[69 FR 39367, June 30, 2004, as amended at 77 FR 59826, Oct. 1, 2012; 80 FR 59073, Oct. 1, 2015; 84 FR 51433, Sept. 30, 2019]

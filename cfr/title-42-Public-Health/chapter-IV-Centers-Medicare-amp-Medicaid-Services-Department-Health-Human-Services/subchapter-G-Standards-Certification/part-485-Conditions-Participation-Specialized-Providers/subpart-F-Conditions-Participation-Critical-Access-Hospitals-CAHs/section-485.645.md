@@ -1,5 +1,7 @@
 ##### § 485.645 Special requirements for CAH providers of long-term care services (“swing-beds”) #####
 
+Link to an amendment published at 84 FR 51828, Sept. 30, 2019.
+
 A CAH must meet the following requirements in order to be granted an approval from CMS to provided post-hospital SNF care, as specified in § 409.30 of this chapter, and to be paid for SNF-level services, in accordance with paragraph (c) of this section.
 
 (a) *Eligibility.* A CAH must meet the following eligibility requirements:

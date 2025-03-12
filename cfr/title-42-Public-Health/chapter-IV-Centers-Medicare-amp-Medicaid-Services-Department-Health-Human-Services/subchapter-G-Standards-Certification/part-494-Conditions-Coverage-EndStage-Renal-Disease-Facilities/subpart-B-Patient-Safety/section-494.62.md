@@ -1,5 +1,7 @@
 ##### § 494.62 Condition of participation: Emergency preparedness. #####
 
+Link to an amendment published at 84 FR 51833, Sept. 30, 2019.
+
 The dialysis facility must comply with all applicable Federal, State, and local emergency preparedness requirements. These emergencies include, but are not limited to, fire, equipment or power failures, care-related emergencies, water supply interruption, and natural disasters likely to occur in the facility's geographic area. The dialysis facility must establish and maintain an emergency preparedness program that meets the requirements of this section. The emergency preparedness program must include, but not be limited to, the following elements:
 
 (a) *Emergency plan.* The dialysis facility must develop and maintain an emergency preparedness plan that must be evaluated and updated at least annually. The plan must do all of the following:

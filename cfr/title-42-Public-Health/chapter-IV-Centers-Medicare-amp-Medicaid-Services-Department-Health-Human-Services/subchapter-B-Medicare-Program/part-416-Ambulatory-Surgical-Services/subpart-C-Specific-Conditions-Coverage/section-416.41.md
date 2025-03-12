@@ -1,5 +1,7 @@
 ##### § 416.41 Condition for coverage - Governing body and management. #####
 
+Link to an amendment published at 84 FR 51814, Sept. 30, 2019.
+
 The ASC must have a governing body that assumes full legal responsibility for determining, implementing, and monitoring policies governing the ASC's total operation. The governing body has oversight and accountability for the quality assessment and performance improvement program, ensures that facility policies and programs are administered so as to provide quality health care in a safe environment, and develops and maintains a disaster preparedness plan.
 
 (a) *Standard: Contract services.* When services are provided through a contract with an outside resource, the ASC must assure that these services are provided in a safe and effective manner.

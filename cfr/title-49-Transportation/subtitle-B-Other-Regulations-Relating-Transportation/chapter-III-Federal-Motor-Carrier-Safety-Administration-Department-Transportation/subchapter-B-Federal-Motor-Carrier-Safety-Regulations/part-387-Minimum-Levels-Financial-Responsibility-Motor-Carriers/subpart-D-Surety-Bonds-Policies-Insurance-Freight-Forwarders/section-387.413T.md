@@ -10,6 +10,4 @@
 
 (e) *Termination by replacement.* Certificates of insurance or surety bonds may be replaced by other certificates of insurance, surety bonds, or other security, and the liability of the retiring insurer or surety shall be considered as having terminated as of the replacement's effective date, if acceptable to the FMCSA.
 
-(f) *Termination of Forms BMC-32 and BMC-34 for freight forwarders of property other than household goods.* Form BMC-32 endorsements and Form BMC-34 certificates of insurance issued to freight forwarders of property other than household goods that have been accepted by the FMCSA under these rules will expire on March 21, 2011.
-
-[82 FR 5310, Jan. 17, 2017, as amended at 83 FR 16226, Apr. 16, 2018]
+[82 FR 5310, Jan. 17, 2017, as amended at 83 FR 16226, Apr. 16, 2018; 84 FR 51434, Sept. 30, 2019]

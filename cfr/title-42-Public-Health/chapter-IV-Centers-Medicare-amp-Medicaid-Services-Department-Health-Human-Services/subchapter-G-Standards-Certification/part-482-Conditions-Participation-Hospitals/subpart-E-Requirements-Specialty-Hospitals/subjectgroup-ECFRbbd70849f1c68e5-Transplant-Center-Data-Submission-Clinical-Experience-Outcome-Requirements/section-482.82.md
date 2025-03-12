@@ -1,5 +1,7 @@
 ##### § 482.82 Condition of participation: Data submission, clinical experience, and outcome requirements for re-approval of transplant centers. #####
 
+Link to an amendment published at 84 FR 51822, Sept. 30, 2019.
+
 Except as specified in paragraph (d) of this section, and § 488.61 of this chapter, transplant centers must meet all data submission, clinical experience, and outcome requirements in order to be re-approved.
 
 (a) *Standard: Data submission.* No later than 90 days after the due date established by the OPTN, a transplant center must submit to the OPTN at least 95 percent of the required data submissions on all transplants (deceased and living donors) performed during the prior 3 years. Required data submissions include, but are not limited to, submission of the appropriate OPTN forms for transplant candidate registration, transplant recipient registration and follow-up, and living donor registration and follow-up.

@@ -1,5 +1,7 @@
 ##### § 482.78 Condition of participation: Emergency preparedness for transplant centers. #####
 
+Link to an amendment published at 84 FR 51822, Sept. 30, 2019.
+
 A transplant center must be included in the emergency preparedness planning and the emergency preparedness program as set forth in § 482.15 for the hospital in which it is located. However, a transplant center is not individually responsible for the emergency preparedness requirements set forth in § 482.15.
 
 (a) *Standard: Policies and procedures.* A transplant center must have policies and procedures that address emergency preparedness. These policies and procedures must be included in the hospital's emergency preparedness program.

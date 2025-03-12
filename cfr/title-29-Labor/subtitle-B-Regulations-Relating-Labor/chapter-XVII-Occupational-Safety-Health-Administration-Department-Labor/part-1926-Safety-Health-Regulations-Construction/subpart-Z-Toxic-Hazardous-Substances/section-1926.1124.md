@@ -440,10 +440,8 @@ DANGERCONTAINS BERYLLIUMMAY CAUSE CANCERCAUSES DAMAGE TO LUNGSAVOID CREATING DUS
 
 (o) *Dates* - (1) *Effective date.* This standard shall become effective March 10, 2017.
 
-(2) *Compliance dates.* All obligations of this standard commence and become enforceable on March 12, 2018, except:
+(2) *Compliance dates.* (i) All obligations contained in paragraph (c) of this standard commence and become enforceable on March 12, 2018; and
 
-(i) Change rooms required by paragraph (i) of this standard must be provided by March 11, 2019; and
+(ii) All other obligations of this standard commence and become enforceable on September 30, 2020.
 
-(ii) Engineering controls required by paragraph (f) of this standard must be implemented by March 10, 2020.
-
-[82 FR 2751, Jan. 9, 2017]
+[82 FR 2751, Jan. 9, 2017, as amended at 84 FR 51400, Sept. 30, 2019]

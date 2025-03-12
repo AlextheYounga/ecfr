@@ -1,6 +1,6 @@
 ##### § 380.725 Documentation and record retention. #####
 
-(a) *Applicability.* The documentation and retention of records required by this subpart apply to entities that meet the requirements of subpart F of this part and are eligible for listing on the Training Provider Registry (TPR).
+(a) *Applicability.* The documentation and retention of records required by this subpart apply to entities that meet the requirements of subpart G of this part and are eligible for listing on the Training Provider Registry (TPR).
 
 (b) *Document retention.* All training providers on the TPR must retain the following:
 
@@ -17,3 +17,5 @@
 (6) Records of individual entry-level driver training assessments as described in § 380.715.
 
 (c) *Retention of records.* Training providers listed on the TPR must retain the records identified in paragraph (b) of this section for a minimum of three years from the date each required record is generated or received, unless a record, such as a BTW instructor's CDL, has expired or been canceled, in which case the most recent, valid CDL should be retained, if applicable. The provisions of this part do not affect a training provider's obligation to comply with any other local, State, or Federal requirements prescribing longer retention periods for any category of records described herein.
+
+[81 FR 88791, Dec. 8, 2016, as amended at 84 FR 51432, Sept. 30, 2019]

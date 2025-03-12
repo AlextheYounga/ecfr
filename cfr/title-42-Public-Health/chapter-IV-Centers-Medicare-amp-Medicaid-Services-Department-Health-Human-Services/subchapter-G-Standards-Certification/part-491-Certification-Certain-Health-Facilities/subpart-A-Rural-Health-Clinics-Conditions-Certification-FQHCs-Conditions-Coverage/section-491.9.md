@@ -1,5 +1,7 @@
 ##### § 491.9 Provision of services. #####
 
+Link to an amendment published at 84 FR 51832, Sept. 30, 2019.
+
 (a) *Basic requirements.* (1) All services offered by the clinic or center are furnished in accordance with applicable Federal, State, and local laws; and
 
 (2) The clinic or center is primarily engaged in providing outpatient health services and meets all other conditions of this subpart.

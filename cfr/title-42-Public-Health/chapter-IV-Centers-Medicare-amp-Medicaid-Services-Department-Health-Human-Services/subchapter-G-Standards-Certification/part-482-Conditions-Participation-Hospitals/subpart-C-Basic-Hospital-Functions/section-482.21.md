@@ -1,5 +1,7 @@
 ##### § 482.21 Condition of participation: Quality assessment and performance improvement program. #####
 
+Link to an amendment published at 84 FR 51818, Sept. 30, 2019.
+
 The hospital must develop, implement, and maintain an effective, ongoing, hospital-wide, data-driven quality assessment and performance improvement program. The hospital's governing body must ensure that the program reflects the complexity of the hospital's organization and services; involves all hospital departments and services (including those services furnished under contract or arrangement); and focuses on indicators related to improved health outcomes and the prevention and reduction of medical errors. The hospital must maintain and demonstrate evidence of its QAPI program for review by CMS.
 
 (a) *Standard: Program scope.* (1) The program must include, but not be limited to, an ongoing program that shows measurable improvement in indicators for which there is evidence that it will improve health outcomes and identify and reduce medical errors.

@@ -1,0 +1,3 @@
+##### § 553.30 Inscriptions on private headstones and markers. #####
+
+An appropriate inscription for the decedent will be placed on the headstone or marker in accordance with the dimensions of the stone and arranged in such a manner as to enhance the appearance of the stone. Additional inscriptions may be inscribed following each succeeding interment in the gravesite. All inscriptions will be in accordance with policies established by the Executive Director.

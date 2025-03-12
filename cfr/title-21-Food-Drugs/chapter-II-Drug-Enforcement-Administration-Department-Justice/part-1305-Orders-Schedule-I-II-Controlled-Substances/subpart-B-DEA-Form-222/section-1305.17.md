@@ -1,5 +1,7 @@
 ##### § 1305.17 Preservation of DEA Forms 222. #####
 
+Link to an amendment published at 84 FR 51375, Sept. 30, 2019.
+
 (a) The purchaser must retain Copy 3 of each executed DEA Form 222 and all copies of unaccepted or defective forms with each statement attached.
 
 (b) The supplier must retain Copy 1 of each DEA Form 222 that it has filled.

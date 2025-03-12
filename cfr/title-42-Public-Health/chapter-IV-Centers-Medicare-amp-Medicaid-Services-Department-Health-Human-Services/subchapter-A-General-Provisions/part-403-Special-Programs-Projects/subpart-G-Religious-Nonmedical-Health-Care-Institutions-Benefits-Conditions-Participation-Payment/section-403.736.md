@@ -1,5 +1,7 @@
 ##### § 403.736 Condition of participation: Discharge planning. #####
 
+Link to an amendment published at 84 FR 51813, Sept. 30, 2019.
+
 The RNHCI must have in effect a discharge planning process that applies to all patients. The process must assure that appropriate post-institution services are obtained for each patient, as necessary.
 
 (a) *Standard: Discharge planning evaluation.* (1) The RNHCI must assess the need for a discharge plan for any patient identified as likely to suffer adverse consequences if there is no planning and for any other patient upon his or her request or at the request of his or her legal representative. This discharge planning evaluation must be initiated at admission and must include the following:

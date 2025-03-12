@@ -20,6 +20,6 @@
 
 (4) Designated representatives are commissioned, warrant, and petty officers of the U.S. Coast Guard.
 
-(c) *Authority.* In addition to 33 U.S.C. 1231, the authority for this section includes 33 U.S.C. 1226.
+(c) *Authority.* In addition to 46 U.S.C. 70034, the authority for this section includes 46 U.S.C. 70116.
 
 [COTP St. Louis-02-005, 67 FR 64043, Oct. 17, 2002]

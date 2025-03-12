@@ -1,5 +1,7 @@
 ##### § 1305.05 Power of attorney. #####
 
+Link to an amendment published at 84 FR 51374, Sept. 30, 2019.
+
 (a) A registrant may authorize one or more individuals, whether or not located at his or her registered location, to issue orders for Schedule I and II controlled substances on the registrant's behalf by executing a power of attorney for each such individual, if the power of attorney is retained in the files, with executed Forms 222 where applicable, for the same period as any order bearing the signature of the attorney. The power of attorney must be available for inspection together with other order records.
 
 (b) A registrant may revoke any power of attorney at any time by executing a notice of revocation.

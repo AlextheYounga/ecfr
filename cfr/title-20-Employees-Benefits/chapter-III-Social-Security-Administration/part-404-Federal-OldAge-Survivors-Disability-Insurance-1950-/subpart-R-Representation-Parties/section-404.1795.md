@@ -6,4 +6,6 @@ The Appeals Council may dismiss a request for the review of any proceeding to su
 
 (b) *Death of party.* The Appeals Council may dismiss a request for review in the event of the death of the representative.
 
-(c) *Request for review not timely filed.* The Appeals Council will dismiss a request for review if a party failed to file a request for review within the 30-day time period and the Appeals Council does not extend the time for good cause.
+(c) *Request for review not timely filed.* The Appeals Council will dismiss a request for review if a party failed to file a request for review within the 14 business day time period set forth in § 404.1775(b) and the Appeals Council does not extend the time for good cause.
+
+[45 FR 52090, Aug. 5, 1980, as amended at 84 FR 51367, Sept. 30, 2019]

@@ -1,5 +1,7 @@
 ##### § 482.58 Special requirements for hospital providers of long-term care services (“swing-beds”). #####
 
+Link to an amendment published at 84 FR 51821, Sept. 30, 2019.
+
 A hospital that has a Medicare provider agreement must meet the following requirements in order to be granted an approval from CMS to provide post-hospital extended care services, as specified in § 409.30 of this chapter, and be reimbursed as a swing-bed hospital, as specified in § 413.114 of this chapter:
 
 (a) *Eligibility.* A hospital must meet the following eligibility requirements:

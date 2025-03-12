@@ -22,7 +22,7 @@
 
 (4) Fleeting or mooring facility means the area along the shoreline at which vessels are or can be moored.
 
-(5) Floating vessel means any floating vessel to which the Ports and Waterways Safety Act, 33 U.S.C. 1221 *et seq.,* applies.
+(5) Floating vessel means any floating vessel to which 46 U.S.C. Chapter 700 applies.
 
 (6) Mooring barge or spar barge means a barge moored to mooring devices or secured to the ground by spuds, and to which other barges may be moored.
 
@@ -168,6 +168,6 @@
 
 (h) Transient vessels will not be permitted to seek safe haven in the RNA except in accordance with a prearranged agreement between the vessel and a facility within the RNA.
 
-(i) *Penalties.* Failure to comply with this section may result in civil or criminal penalties pursuant to the Ports and Waterways Safety Act, 33 U.S.C. 1221 *et seq.*
+(i) *Penalties.* Failure to comply with this section may result in civil or criminal penalties pursuant to 46 U.S.C. 70036 and 70041.
 
-[USCG-2009-0139, 79 FR 21135, Apr. 15, 2014]
+[USCG-2009-0139, 79 FR 21135, Apr. 15, 2014, as amended by USCG-2018-1049, 84 FR 7813, Mar. 5, 2019]

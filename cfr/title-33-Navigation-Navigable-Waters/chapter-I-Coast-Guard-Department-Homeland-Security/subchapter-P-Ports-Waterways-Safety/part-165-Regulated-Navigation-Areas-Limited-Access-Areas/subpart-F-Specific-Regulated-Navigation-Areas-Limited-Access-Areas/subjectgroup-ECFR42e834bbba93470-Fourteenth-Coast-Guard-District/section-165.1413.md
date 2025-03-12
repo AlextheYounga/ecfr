@@ -18,6 +18,6 @@
 
 (c) *Enforcement period.* Paragraph (b) of this section will be enforced when a tsunami warning has been issued for the Hawaiian Islands by the Pacific Tsunami Warning Center. The COTP will notify the public of any enforcement, suspension of enforcement, or termination of enforcement through appropriate means to ensure the widest publicity, including the use of broadcast notice to mariners, notices of enforcement and press releases.
 
-(d) *Penalties.* Vessels or persons violating this rule are subject to the penalties set forth in 33 U.S.C. 1232.
+(d) *Penalties.* Vessels or persons violating this rule are subject to the penalties set forth in 46 U.S.C. 70036.
 
 [USCG-2012-0080, 79 FR 13324, Feb. 28, 2014]

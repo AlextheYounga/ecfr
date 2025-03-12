@@ -1,5 +1,7 @@
 ##### § 441.184 Emergency preparedness. #####
 
+Link to an amendment published at 84 FR 51816, Sept. 30, 2019.
+
 The Psychiatric Residential Treatment Facility (PRTF) must comply with all applicable Federal, State, and local emergency preparedness requirements. The PRTF must establish and maintain an emergency preparedness program that meets the requirements of this section. The emergency preparedness program must include, but not be limited to, the following elements:
 
 (a) *Emergency plan.* The PRTF must develop and maintain an emergency preparedness plan that must be reviewed, and updated at least annually. The plan must do the following:

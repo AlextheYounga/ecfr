@@ -1,5 +1,7 @@
 ##### § 482.51 Condition of participation: Surgical services. #####
 
+Link to an amendment published at 84 FR 51821, Sept. 30, 2019.
+
 If the hospital provides surgical services, the services must be well organized and provided in accordance with acceptable standards of practice. If outpatient surgical services are offered the services must be consistent in quality with inpatient care in accordance with the complexity of services offered.
 
 (a) *Standard: Organization and staffing.* The organization of the surgical services must be appropriate to the scope of the services offered.

@@ -1,5 +1,7 @@
 ##### § 482.42 Condition of participation: Infection control. #####
 
+Link to an amendment published at 84 FR 51820, Sept. 30, 2019.
+
 The hospital must provide a sanitary environment to avoid sources and transmission of infections and communicable diseases. There must be an active program for the prevention, control, and investigation of infections and communicable diseases.
 
 (a) *Standard: Organization and policies.* A person or persons must be designated as infection control officer or officers to develop and implement policies governing control of infections and communicable diseases. The infection control officer or officers must develop a system for identifying, reporting, investigating, and controlling infections and communicable diseases of patients and personnel.

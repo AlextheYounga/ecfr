@@ -1,5 +1,7 @@
 ##### § 403.748 Condition of participation: Emergency preparedness. #####
 
+Link to an amendment published at 84 FR 51813, Sept. 30, 2019.
+
 The Religious Nonmedical Health Care Institution (RNHCI) must comply with all applicable Federal, State, and local emergency preparedness requirements. The RNHCI must establish and maintain an emergency preparedness program that meets the requirements of this section. The emergency preparedness program must include, but not be limited to, the following elements:
 
 (a) *Emergency plan.* The RNHCI must develop and maintain an emergency preparedness plan that must be reviewed, and updated at least annually. The plan must do all of the following:

@@ -1,5 +1,7 @@
 ##### § 488.30 Revisit user fee for revisit surveys. #####
 
+Link to an amendment published at 84 FR 51831, Sept. 30, 2019.
+
 (a) *Definitions.* As used in this section, the following definitions apply:
 
 *Certification* (both initial and recertification) means those activities as defined in § 488.1.

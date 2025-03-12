@@ -1,3 +1,5 @@
 ##### § 482.72 Condition of participation: OPTN membership. #####
 
+Link to an amendment published at 84 FR 51822, Sept. 30, 2019.
+
 A transplant center must be located in a transplant hospital that is a member of and abides by the rules and requirements of the Organ Procurement and Transplantation Network (OPTN) established and operated in accordance with section 372 of the Public Health Service (PHS) Act (42 U.S.C. 274). The term “rules and requirements of the OPTN” means those rules and requirements approved by the Secretary pursuant to § 121.4 of this title. No hospital that provides transplantation services shall be deemed to be out of compliance with section 1138(a)(1)(B) of the Act or this section unless the Secretary has given the OPTN formal notice that he or she approves the decision to exclude the transplant hospital from the OPTN and also has notified the transplant hospital in writing.

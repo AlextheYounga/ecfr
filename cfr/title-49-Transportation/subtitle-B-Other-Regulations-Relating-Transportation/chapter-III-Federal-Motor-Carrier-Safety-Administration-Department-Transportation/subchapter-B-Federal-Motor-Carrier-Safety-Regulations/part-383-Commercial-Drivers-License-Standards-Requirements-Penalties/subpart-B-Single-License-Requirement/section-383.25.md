@@ -24,10 +24,10 @@
 
 (b) The CLP must be a separate document from the CDL or non-CDL.
 
-(c) The CLP must be valid for no more than one year from the initial date of issuance without requiring the CLP holder to retake the general and endorsement knowledge tests. CLPs issued for a period of less than one year may be renewed provided the CLP is not valid for no more than one year from the date of initial issuance.
+(c) The CLP must be valid for no more than one year from the initial date of issuance without requiring the CLP holder to retake the general and endorsement knowledge tests. CLPs issued for a period of less than one year may be renewed provided the CLP is not valid for more than one year from the date of initial issuance.
 
 (d) The issuance of a CLP is a precondition to the initial issuance of a CDL. The issuance of a CLP is also a precondition to the upgrade of a CDL if the upgrade requires a skills test.
 
 (e) The CLP holder is not eligible to take the CDL skills test in the first 14 days after initial issuance of the CLP.
 
-[76 FR 26879, May 9, 2011, as amended at 83 FR 65571, Dec. 21, 2018]
+[76 FR 26879, May 9, 2011, as amended at 83 FR 65571, Dec. 21, 2018; 84 FR 51432, Sept. 30, 2019]
