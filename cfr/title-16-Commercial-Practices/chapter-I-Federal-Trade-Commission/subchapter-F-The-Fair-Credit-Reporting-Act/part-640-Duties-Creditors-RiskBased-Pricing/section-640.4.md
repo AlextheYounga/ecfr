@@ -70,7 +70,7 @@
 
 (ii) Provided to the consumer in oral, written, or electronic form.
 
-(2) *Model forms.* Model forms of the risk-based pricing notice required by § 640.3(a) and (c) are contained in appendices B-1 and B-6 of this part. Appropriate use of Model form B-1 or B-6 is deemed to comply with the requirements of § 640.3(a) and (c). Model forms of the risk-based pricing notice required by § 640.3(d) are contained in appendices B-2 and B-7 of this part. Appropriate use of Model form B-2 or B-7 is deemed to comply with the requirements of § 640.3(d). Use of the model forms is optional.
+(2) *Model forms.* Model forms of the risk-based pricing notice required by § 640.3(a) and (c) are contained in appendices A-1 and A-6 of this part. Appropriate use of Model form A-1 or A-6 is deemed to comply with the requirements of § 640.3(a) and (c). Model forms of the risk-based pricing notice required by § 640.3(d) are contained in appendices A-2 and A-7 of this part. Appropriate use of Model form A-2 or A-7 is deemed to comply with the requirements of § 640.3(d). Use of the model forms is optional.
 
 (c) *Timing* - (1) *General.* Except as provided in paragraph (c)(3) of this section, a risk-based pricing notice must be provided to the consumer -
 
@@ -98,4 +98,4 @@
 
 (ii) A person that uses consumer reports to set the material terms of automobile loans granted, extended, or provided to consumers regularly requests credit scores from several consumer reporting agencies, each of which it uses in an underwriting program in order to determine the material terms it will offer to the consumer. That person may choose one of these scores to include in the notices described in paragraph (a)(1) and (2) of this section.
 
-[75 FR 2769, Jan. 15, 2010, as amended at 76 FR 41621, July 15, 2011]
+[75 FR 2769, Jan. 15, 2010, as amended at 76 FR 41621, July 15, 2011; 84 FR 23473, May 22, 2019]

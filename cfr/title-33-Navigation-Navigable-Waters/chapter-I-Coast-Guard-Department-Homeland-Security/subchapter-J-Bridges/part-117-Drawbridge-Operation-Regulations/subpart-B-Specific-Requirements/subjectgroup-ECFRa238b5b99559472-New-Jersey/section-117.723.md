@@ -28,10 +28,8 @@ Additional bridge openings shall be provided for commercial vessels from 6 a.m. 
 
 (g) Except as provided in paragraph (a)(2) of this section, the draw of the NJTRO HX Bridge at mile 7.7, shall open on signal if at least a half hour notice is given to the drawtender at the Upper Hack Bridge.
 
-(h) Except as provided in paragraph (a)(2) of this section, the draw of the S46 Bridge, at mile 14.0, in Little Ferry, shall open on signal if at least a twenty four hour advance notice is given by calling the number posted at the bridge.
+(h) The draw of the Harold J. Dillard Memorial (Court Street) Bridge, mile 16.2, Hackensack, shall open on signal if at least four hours notice is given.
 
-(i) The draw of the Harold J. Dillard Memorial (Court Street) Bridge, mile 16.2, Hackensack, shall open on signal if at least four hours notice is given.
+(i) The draw of the New York Susquehanna and Western Railroad bridge, mile 16.3, and the Midtown bridge, mile 16.5, both at Hackensack, need not be opened for the passage of vessels, however, the draws shall be restored to operable condition within 12 months after notification by the District Commander to do so.
 
-(j) The draw of the New York Susquehanna and Western Railroad bridge, mile 16.3, and the Midtown bridge, mile 16.5, both at Hackensack, need not be opened for the passage of vessels, however, the draws shall be restored to operable condition within 12 months after notification by the District Commander to do so.
-
-[USCG-2013-1005, 79 FR 34418, June 17, 2013, as amended by USCG-2016-0173, 81 FR 62367, Sept. 9, 2016]
+[USCG-2013-1005, 79 FR 34418, June 17, 2013, as amended by USCG-2016-0173, 81 FR 62367, Sept. 9, 2016; USCG-2019-0108, 84 FR 23490, May 22, 2019]

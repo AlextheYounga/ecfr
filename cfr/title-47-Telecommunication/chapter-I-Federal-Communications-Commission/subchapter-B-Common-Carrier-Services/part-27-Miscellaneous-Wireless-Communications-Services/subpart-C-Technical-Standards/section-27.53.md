@@ -254,7 +254,7 @@
 
 (i) When an emission outside of the authorized bandwidth causes harmful interference, the Commission may, at its discretion, require greater attenuation than specified in this section.
 
-(j)(1) For operations in the unpaired 1390-1392 MHz band and the paired 1392-1395 MHz and 1432-1435 MHz bands, the power of any emission outside the licensee's frequency band(s) of operation shall be attenuated below the transmitter power (P) by at least 43 + 10 log (P) dB. Compliance with these provisions is based on the procedures described in paragraph (a)(4) of this section.
+(j)(1) For operations in the unpaired 1390-1392 MHz band and the paired 1392-1395 MHz and 1432-1435 MHz bands, the power of any emission outside the licensee's frequency band(s) of operation shall be attenuated below the transmitter power (P) by at least 43 + 10 log (P) dB. Compliance with these provisions is based on the procedures described in paragraph (a)(5) of this section.
 
 (2) In the 1390-1395 MHz and 1432-1435 MHz bands, licensees are encouraged to take all reasonable steps to ensure that unwanted emission power does not exceed the following levels in the band 1400-1427 MHz:
 
@@ -262,7 +262,7 @@
 
 (ii) For stations in the mobile service: −60 dBW/27 MHz.
 
-(k) For operations in the 1670-1675 MHz band, the power of any emission outside the licensee's frequency band(s) of operation shall be attenuated below the transmitter power (P) by at least 43 + 10 log (P) dB. Compliance with these provisions is based on the procedures described in paragraph (a)(4) of this section.
+(k) For operations in the 1670-1675 MHz, the power of any emission outside the licensee's frequency band(s) of operation shall be attenuated below the transmitter power (P) by at least 43 + 10 log (P) dB. Compliance with these provisions is based on the procedures described in paragraph (a)(5) of this section.
 
 (l) [Reserved]
 
@@ -294,4 +294,4 @@
 
 (n) When an emission outside of the authorized bandwidth causes harmful interference, the Commission may, at its discretion, require greater attenuation than specified in this section.
 
-[62 FR 16497, Apr. 7, 1997]Editorial Note:For Federal Register citations affecting § 27.53, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[62 FR 16497, Apr. 7, 1997]Editorial Note:For Federal Register citations affecting § 27.53, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
