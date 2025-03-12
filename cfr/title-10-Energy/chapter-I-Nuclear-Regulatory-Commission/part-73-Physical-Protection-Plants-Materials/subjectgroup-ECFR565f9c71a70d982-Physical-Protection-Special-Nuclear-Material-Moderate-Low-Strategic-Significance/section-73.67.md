@@ -1,7 +1,5 @@
 ##### § 73.67 Licensee fixed site and in-transit requirements for the physical protection of special nuclear material of moderate and low strategic significance. #####
 
-Link to an amendment published at 86 FR 43403, Aug. 9, 2021.
-
 (a) *General performance objectives.* (1) Each licensee who possesses, uses or transports special nuclear material of moderate or low strategic significance shall establish and maintain a physical protection system that will achieve the following objectives:
 
 (i) Minimize the possibilities for unauthorized removal of special nuclear material consistent with the potential consequences of such actions; and
@@ -20,7 +18,7 @@ Link to an amendment published at 86 FR 43403, Aug. 9, 2021.
 
 (b)(1) A licensee is exempt from the requirements of this section to the extent that he possesses, uses, or transports:
 
-(i) Special nuclear material which is not readily separable from other radioactive material and which has a total external radiation dose rate in excess of 100 rems per hour at a distance of 3 feet from any accessible surface without intervening shielding, or
+(i) Special nuclear material which is not readily separable from other radioactive material and which has a total external radiation level in excess of 1 gray (100 rad) per hour at a distance of 1 meter (3.3 feet) from any accessible surface without intervening shielding, or
 
 (ii) Sealed plutonium-beryllium neutron sources totaling 500 grams or less contained plutonium at any one site or contiguous sites, or
 
@@ -162,4 +160,4 @@ Link to an amendment published at 86 FR 43403, Aug. 9, 2021.
 
 (ii) Notify the person who delivered the material to a carrier for transport of the arrival of such material.
 
-[44 FR 43283, July 24, 1979. Redesignated at 44 FR 68198, Nov. 28, 1979, as amended at 45 FR 19215, Mar. 25, 1980; 47 FR 19114, May 4, 1982; 52 FR 21657, June 9, 1987; 53 FR 19260, May 27, 1988; 57 FR 33431, July 29, 1992, 59 FR 14087, Mar. 25, 1994; 67 FR 3586, Jan. 25, 2002; 67 FR 78143, Dec. 23, 2002; 68 FR 14530, Mar. 26, 2003; 68 FR 23575, May 5, 2003; 73 FR 32463, June 9, 2008; 74 FR 62684, Dec. 1, 2009; 83 FR 58723, Nov. 21, 2018; 85 FR 65664, Oct. 16, 2020]
+[44 FR 43283, July 24, 1979. Redesignated at 44 FR 68198, Nov. 28, 1979, as amended at 45 FR 19215, Mar. 25, 1980; 47 FR 19114, May 4, 1982; 52 FR 21657, June 9, 1987; 53 FR 19260, May 27, 1988; 57 FR 33431, July 29, 1992, 59 FR 14087, Mar. 25, 1994; 67 FR 3586, Jan. 25, 2002; 67 FR 78143, Dec. 23, 2002; 68 FR 14530, Mar. 26, 2003; 68 FR 23575, May 5, 2003; 73 FR 32463, June 9, 2008; 74 FR 62684, Dec. 1, 2009; 83 FR 58723, Nov. 21, 2018; 85 FR 65664, Oct. 16, 2020; 86 FR 43403, Aug. 9, 2021]

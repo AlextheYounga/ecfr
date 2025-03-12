@@ -1,12 +1,10 @@
 ##### § 35.55 Training for an authorized nuclear pharmacist. #####
 
-Link to an amendment published at 86 FR 43402, Aug. 9, 2021.
-
-Except as provided in § 35.57, the licensee shall require the authorized nuclear pharmacist to be a pharmacist who -
+Except as provided in § 35.57, the licensee shall require the authorized nuclear pharmacist to be a pharmacist who—
 
 (a) Is certified by a specialty board whose certification process has been recognized by the Commission or an Agreement State. The names of board certifications that have been recognized by the Commission or an Agreement State are posted on the NRC's Medical Uses Licensee Toolkit web page. To have its certification process recognized, a specialty board shall require all candidates for certification to:
 
-(1) Have graduated from a pharmacy program accredited by the American Council on Pharmaceutical Education (ACPE) or have passed the Foreign Pharmacy Graduate Examination Committee (FPGEC) examination;
+(1) Have graduated from a pharmacy program accredited by the Accreditation Council for Pharmacy Education (ACPE) (previously named the American Council on Pharmaceutical Education) or have passed the Foreign Pharmacy Graduate Examination Committee (FPGEC) examination;
 
 (2) Hold a current, active license to practice pharmacy;
 
@@ -16,7 +14,7 @@ Except as provided in § 35.57, the licensee shall require the authorized nuclea
 
 (b)(1) Has completed 700 hours in a structured educational program consisting of both:
 
-(i) 200 hours of classroom and laboratory training in the following areas -
+(i) 200 hours of classroom and laboratory training in the following areas—
 
 (A) Radiation physics and instrumentation;
 
@@ -28,7 +26,7 @@ Except as provided in § 35.57, the licensee shall require the authorized nuclea
 
 (E) Radiation biology; and
 
-(ii) Supervised practical experience in a nuclear pharmacy involving -
+(ii) Supervised practical experience in a nuclear pharmacy involving—
 
 (A) Shipping, receiving, and performing related radiation surveys;
 
@@ -42,4 +40,4 @@ Except as provided in § 35.57, the licensee shall require the authorized nuclea
 
 (2) Has obtained written attestation, signed by a preceptor authorized nuclear pharmacist, that the individual has satisfactorily completed the requirements in paragraph (b)(1) of this section and is able to independently fulfill the radiation safety-related duties as an authorized nuclear pharmacist.
 
-[67 FR 20370, Apr. 24, 2002, as amended at 70 FR 16362, Mar. 30, 2005; 83 FR 33105, July 16, 2018]
+[67 FR 20370, Apr. 24, 2002, as amended at 70 FR 16362, Mar. 30, 2005; 83 FR 33105, July 16, 2018; 86 FR 43402, Aug. 9, 2021]

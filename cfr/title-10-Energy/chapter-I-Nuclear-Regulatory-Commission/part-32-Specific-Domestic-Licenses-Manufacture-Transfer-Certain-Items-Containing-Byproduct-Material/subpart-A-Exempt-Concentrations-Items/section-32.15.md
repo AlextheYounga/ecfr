@@ -1,7 +1,5 @@
 ##### § 32.15 Same: Quality assurance, prohibition of transfer, and labeling. #####
 
-Link to an amendment published at 86 FR 43402, Aug. 9, 2021.
-
 (a) Each person licensed under § 32.14 for products for which quality control procedures are required shall:
 
 (1) Maintain quality assurance systems in the manufacture of the part or product, or the installation of the part into the product, in a manner sufficient to provide reasonable assurance that the safety-related components of the distributed products are capable of performing their intended functions;
@@ -22,7 +20,9 @@ Link to an amendment published at 86 FR 43402, Aug. 9, 2021.
 
 (c) [Reserved]
 
-(d)(1) Label or mark each unit, except timepieces or hands or dials containing tritium or promethium-147, and its container so that the manufacturer or initial transferor of the product and the byproduct material in the product can be identified.
+(d) Each person licensed under § 32.14 for products for which quality control procedures are required shall:
+
+(1) Label or mark each unit, except timepieces or hands or dials containing tritium or promethium-147, and its container so that the manufacturer or initial transferor of the product and the byproduct material in the product can be identified.
 
 (2) For ionization chamber smoke detectors, label or mark each detector and its point-of-sale package so that:
 
@@ -46,4 +46,4 @@ Link to an amendment published at 86 FR 43402, Aug. 9, 2021.
 
 (iv) Each detector and point-of-sale package is provided with such other information as may be required by the Commission.
 
-[31 FR 5317, Apr. 2, 1966, as amended at 34 FR 6652, Apr. 18, 1969; 39 FR 22129, June 20, 1974; 43 FR 6922, Feb. 17, 1978; 72 FR 58487, Oct. 16, 2007; 73 FR 42673, July 23, 2008; 77 FR 43691, July 25, 2012]
+[31 FR 5317, Apr. 2, 1966, as amended at 34 FR 6652, Apr. 18, 1969; 39 FR 22129, June 20, 1974; 43 FR 6922, Feb. 17, 1978; 72 FR 58487, Oct. 16, 2007; 73 FR 42673, July 23, 2008; 77 FR 43691, July 25, 2012; 86 FR 43402, Aug. 9, 2021]

@@ -1,7 +1,5 @@
 ##### § 50.71 Maintenance of records, making of reports. #####
 
-Link to an amendment published at 86 FR 43402, Aug. 9, 2021.
-
 (a) Each licensee, including each holder of a construction permit or early site permit, shall maintain all records and make all reports, in connection with the activity, as may be required by the conditions of the license or permit or by the regulations, and orders of the Commission in effectuating the purposes of the Act, including Section 105 of the Act, and the Energy Reorganization Act of 1974, as amended. Reports must be submitted in accordance with § 50.4 or 10 CFR 52.3, as applicable.
 
 (b) With respect to any production or utilization facility of a type described in § 50.21(b) or 50.22, or a testing facility, each licensee and each holder of a construction permit shall submit its annual financial report, including the certified financial statements, to the Commission, as specified in § 50.4, upon issuance of the report. However, licensees and holders of a construction permit who submit a Form 10-Q with the Securities and Exchange Commission or a Form 1 with the Federal Energy Regulatory Commission, need not submit the annual financial report or the certified financial statement under this paragraph.
@@ -22,7 +20,7 @@ Link to an amendment published at 86 FR 43402, Aug. 9, 2021.
 
 (3)(i) A revision of the original FSAR containing those original pages that are still applicable plus new replacement pages shall be filed within 24 months of either July 22, 1980, or the date of issuance of the operating license, whichever is later, and shall bring the FSAR up to date as of a maximum of 6 months prior to the date of filing the revision.
 
-(ii) Not less than 15 days before § 50.71(e) becomes effective, the Director of the Office of Nuclear Reactor Regulation shall notify by letter the licensees of those nuclear power plants initially subject to the NRC's systematic evaluation program that they need not comply with the provisions of this section while the program is being conducted at their plant. The Director of the Office of Nuclear Reactor Regulation will notify by letter the licensee of each nuclear power plant being evaluated when the systematic evaluation program has been completed. Within 24 months after receipt of this notification, the licensee shall file a complete FSAR which is up to date as of a maximum of 6 months prior to the date of filing the revision.
+(ii) [Reserved]
 
 (iii) During the period from the docketing of an application for a combined license under subpart C of part 52 of this chapter until the Commission makes the finding under § 52.103(g) of this chapter, the update to the FSAR must be submitted annually.
 
@@ -42,4 +40,4 @@ Link to an amendment published at 86 FR 43402, Aug. 9, 2021.
 
 (3) Each holder of a combined license shall, no later than the date on which the licensee submits an application for a renewed license, upgrade the PRA required by paragraph (h)(1) of this section to cover all modes and all initiating events.
 
-[33 FR 9704, July 4, 1968, as amended at 41 FR 18303, May 3, 1976; 45 FR 30615, May 9, 1980; 51 FR 40310, Nov. 6, 1986; 53 FR 19250, May 27, 1988; 57 FR 39358, Aug. 31, 1992; 61 FR 39301, July 29, 1996; 64 FR 53614, Oct. 4, 1999; 71 FR 29246, May 22, 2006; 72 FR 49501, Aug. 28, 2007]Effective Date Note:See 64 FR 53582, Oct. 4, 1999, for effectiveness of § 50.71(e) introductory text.
+[33 FR 9704, July 4, 1968, as amended at 41 FR 18303, May 3, 1976; 45 FR 30615, May 9, 1980; 51 FR 40310, Nov. 6, 1986; 53 FR 19250, May 27, 1988; 57 FR 39358, Aug. 31, 1992; 61 FR 39301, July 29, 1996; 64 FR 53614, Oct. 4, 1999; 71 FR 29246, May 22, 2006; 72 FR 49501, Aug. 28, 2007; 86 FR 43402, Aug. 9, 2021]Effective Date Note:See 64 FR 53582, Oct. 4, 1999, for effectiveness of § 50.71(e) introductory text.

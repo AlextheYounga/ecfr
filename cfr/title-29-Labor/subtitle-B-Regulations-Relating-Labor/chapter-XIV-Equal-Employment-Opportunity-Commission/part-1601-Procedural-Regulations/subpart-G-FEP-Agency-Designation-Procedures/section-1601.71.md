@@ -6,4 +6,4 @@
 
 (c) Where the Chair becomes aware of events which lead him or her to believe that a deferral Agency no longer meets the requirements of a FEP agency and should no longer be considered a FEP agency, the Chair will so notify the affected agency and give it 15 days in which to respond to the preliminary findings. If the Chair deems necessary, he or she may convene a hearing for the purpose of clarifying the matter. The Commission shall render a final determination regarding continuation of the agency as a FEP agency.
 
-[45 FR 33606, May 20, 1980, as amended at 47 FR 53733, Nov. 29, 1982. Redesignated at 56 FR 9625, Mar. 7, 1991; 60 FR 46220, Sept. 6, 1995; 85 FR 65218, Oct. 15, 2020]
+[45 FR 33606, May 20, 1980, as amended at 47 FR 53733, Nov. 29, 1982. Redesignated at 56 FR 9625, Mar. 7, 1991; 60 FR 46220, Sept. 6, 1995; 85 FR 65219, Oct. 15, 2020]

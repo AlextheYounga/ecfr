@@ -1,7 +1,5 @@
 ##### § 95.5 Definitions. #####
 
-Link to an amendment published at 86 FR 43403, Aug. 9, 2021.
-
 *Access authorization* means an administrative determination that an individual (including a consultant) who is employed by or an applicant for employment with the NRC, NRC contractors, agents, licensees and certificate holders, or other persons designated by the Executive Director for Operations, is eligible for a security clearance for access to classified information.
 
 *Act* means the Atomic Energy Act of 1954 (68 Stat. 919), as amended.
@@ -40,9 +38,9 @@ Link to an amendment published at 86 FR 43403, Aug. 9, 2021.
 
 *Need-to-know* means a determination made by an authorized holder of classified information that a prospective recipient requires access to specific classified information in order to perform or assist in a lawful and authorized governmental function under the cognizance of the Commission.
 
-*NRC “L” access authorization* means an access authorization granted by the Commission normally based on a national agency check with law and credit investigation (NACLC) or an access national agency check and inquiries investigation (ANACI)) conducted by the Office of Personnel Management.
+*NRC “L” access authorization* means an access authorization granted by the Commission normally based on a national agency check with law and credit investigation (NACLC) or an access national agency check and inquiries investigation (ANACI)) conducted by the Defense Counterintelligence and Security Agency.
 
-*NRC “Q” access authorization* means an access authorization granted by the Commission normally based on a single scope background investigation conducted by the Office of Personnel Management, the Federal Bureau of Investigation, or other U.S. Government agency that conducts personnel security investigations.
+*NRC “Q” access authorization* means an access authorization granted by the Commission normally based on a single scope background investigation conducted by the Defense Counterintelligence and Security Agency, the Federal Bureau of Investigation, or other U.S. Government agency that conducts personnel security investigations.
 
 *Person* means (1) any individual, corporation, partnership, firm, association, trust, estate, public or private institution, group, government agency other than the Commission or the Department of Energy (DOE), except that the DOE shall be considered a person to the extent that its facilities are subject to the licensing and related regulatory authority of the Commission pursuant to section 202 of the Energy Reorganization Act of 1974 and sections 104, 105 and 202 of the Uranium Mill Tailings Radiation Control Act of 1978, any State or any political subdivision of, or any political entity within a State, any foreign government or nation or any political subdivision of any such government or nation, or other entity; and (2) any legal successor, representative, agent or agency of the foregoing.
 
@@ -74,4 +72,4 @@ Link to an amendment published at 86 FR 43403, Aug. 9, 2021.
 
 *Violation* means any knowing, willful, or negligent action that could reasonably be expected to result in an unauthorized disclosure of classified information or any knowing, willful, or negligent action to classify or continue the classification of information contrary to the requirements of E.O. 12958, as amended, or its implementing directives.
 
-[45 FR 14483, Mar. 5, 1980, as amended at 46 FR 58284, Dec. 1, 1981; 47 FR 38683, Sept. 2, 1982; 48 FR 24320, June 1, 1983; 50 FR 36984, Sept. 11, 1985; 55 FR 11575, Mar. 29, 1990; 55 FR 14379, Apr. 17, 1990; 59 FR 48974, Sept. 23, 1994; 62 FR 17691, Apr. 11, 1997; 64 FR 15649, Apr. 1, 1999; 70 FR 32227, June 2, 2005; 72 FR 49562, Aug. 28, 2007; 75 FR 73945, Nov. 30, 2010]
+[45 FR 14483, Mar. 5, 1980, as amended at 46 FR 58284, Dec. 1, 1981; 47 FR 38683, Sept. 2, 1982; 48 FR 24320, June 1, 1983; 50 FR 36984, Sept. 11, 1985; 55 FR 11575, Mar. 29, 1990; 55 FR 14379, Apr. 17, 1990; 59 FR 48974, Sept. 23, 1994; 62 FR 17691, Apr. 11, 1997; 64 FR 15649, Apr. 1, 1999; 70 FR 32227, June 2, 2005; 72 FR 49562, Aug. 28, 2007; 75 FR 73945, Nov. 30, 2010; 86 FR 43403, Aug. 9, 2021]

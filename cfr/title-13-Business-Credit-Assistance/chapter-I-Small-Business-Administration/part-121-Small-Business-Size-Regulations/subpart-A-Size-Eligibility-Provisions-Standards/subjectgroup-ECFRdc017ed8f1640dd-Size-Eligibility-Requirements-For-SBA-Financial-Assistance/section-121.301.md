@@ -56,4 +56,6 @@
 
 (7) *Exceptions to affiliation.* For exceptions to affiliation, see 13 CFR 121.103(b).
 
-[61 FR 3286, Jan. 31, 1996, as amended at 66 FR 30648, June 7, 2001; 67 FR 3056, Jan. 23, 2002; 69 FR 29204, May 21, 2004; 70 FR 69047, 69052, Nov. 14, 2005; 70 FR 72594, Dec. 6, 2005; 71 FR 62208, Oct. 24, 2006; 73 FR 41254, July 18, 2008; 74 FR 20580, May 5, 2009; 74 FR 36110, July 22, 2009; 75 FR 48550, Aug. 11, 2010; 79 FR 33669, June 12, 2014; 79 FR 71296, Dec. 2, 2014; 81 FR 41428, June 27, 2016; 85 FR 7651, Feb. 10, 2020; 85 FR 80588, Dec. 14, 2020]
+(g) For COVID-19 Economic Injury Disaster (COVID EIDL) loans, an “affiliated business” or “affiliate” is a business in which an eligible entity has an equity interest or right to profit distributions of not less than 50 percent, or in which an eligible entity has the contractual authority to control the direction of the business, provided that such affiliation shall be determined as of any arrangements or agreements in existence as of January 31, 2020. For exceptions to affiliation, see § 121.103(b).
+
+[61 FR 3286, Jan. 31, 1996, as amended at 66 FR 30648, June 7, 2001; 67 FR 3056, Jan. 23, 2002; 69 FR 29204, May 21, 2004; 70 FR 69047, 69052, Nov. 14, 2005; 70 FR 72594, Dec. 6, 2005; 71 FR 62208, Oct. 24, 2006; 73 FR 41254, July 18, 2008; 74 FR 20580, May 5, 2009; 74 FR 36110, July 22, 2009; 75 FR 48550, Aug. 11, 2010; 79 FR 33669, June 12, 2014; 79 FR 71296, Dec. 2, 2014; 81 FR 41428, June 27, 2016; 85 FR 7651, Feb. 10, 2020; 85 FR 80588, Dec. 14, 2020; 86 FR 50218, Sept. 8, 2021]

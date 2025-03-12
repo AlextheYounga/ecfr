@@ -1,8 +1,6 @@
 ##### § 73.37 Requirements for physical protection of irradiated reactor fuel in transit. #####
 
-Link to an amendment published at 86 FR 43403, Aug. 9, 2021.
-
-(a) *Performance objectives.* (1) Each licensee who transports, or delivers to a carrier for transport, in a single shipment, a quantity of irradiated reactor fuel1 in excess of 100 grams (0.22 lbs) in net weight of irradiated fuel, exclusive of cladding or other structural or packaging material, which has a total external radiation dose rate in excess of 1 Gy (100 rad) per hour at a distance of 1 meter (3.3 feet) from any accessible surface without intervening shielding, shall establish and maintain, or make arrangements for, and assure the proper implementation of, a physical protection system for shipments of such material that will achieve the following objectives:
+(a) *Performance objectives.* (1) Each licensee who transports, or delivers to a carrier for transport, in a single shipment, a quantity of irradiated reactor fuel1 in excess of 100 grams (0.22 lbs) in net weight of irradiated fuel, exclusive of cladding or other structural or packaging material, which has a total external radiation level in excess of 1 gray (100 rad) per hour at a distance of 1 meter (3.3 feet) from any accessible surface without intervening shielding, shall establish and maintain, or make arrangements for, and assure the proper implementation of, a physical protection system for shipments of such material that will achieve the following objectives:
 
 1 For purposes of 10 CFR 73.37, the terms “irradiated reactor fuel” and “spent nuclear fuel” are used interchangeably.
 
@@ -202,4 +200,4 @@ Link to an amendment published at 86 FR 43403, Aug. 9, 2021.
 
 (g) State officials, State employees, Tribal officials, Tribal employees, and other individuals, whether or not licensees of the NRC, who receive information of the kind specified in paragraph (b)(2)(iii) of this section and any other Safeguards Information as defined in § 73.22(a) of this part shall protect that information against unauthorized disclosure as specified in §§ 73.21 and 73.22 of this part.
 
-[78 FR 29550, May 20, 2013, as amended at 79 FR 75741, Dec. 19, 2014; 80 FR 74981, Dec. 1, 2015; 83 FR 30288, June 28, 2018; 83 FR 58723, Nov. 21, 2018]
+[78 FR 29550, May 20, 2013, as amended at 79 FR 75741, Dec. 19, 2014; 80 FR 74981, Dec. 1, 2015; 83 FR 30288, June 28, 2018; 83 FR 58723, Nov. 21, 2018; 86 FR 43403, Aug. 9, 2021]

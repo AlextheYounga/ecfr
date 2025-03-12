@@ -1,14 +1,12 @@
 ##### § 2.1023 Immediate effectiveness. #####
 
-Link to an amendment published at 86 FR 43401, Aug. 9, 2021.
-
 (a) Pending review and final decision by the Commission, an initial decision resolving all issues before the presiding officer in favor of issuance or amendment of either an authorization to construct a high-level radioactive waste repository at a geological repository operations area under parts 60 or 63 of this chapter, or a license to receive and possess high-level radioactive waste at a geologic repository operations area under parts 60 or 63 of this chapter will be immediately effective upon issuance except:
 
 (1) As provided in any order issued in accordance with § 2.342 that stays the effectiveness of an initial decision; or
 
 (2) As otherwise provided by the Commission in special circumstances.
 
-(b) The Director of Nuclear Material Safety and Safeguards, notwithstanding the filing or pendency of an appeal or a petition for review pursuant to § 2.1015 of this subpart, promptly shall issue a construction authorization or a license to receive and possess high-level radioactive waste at a geologic respository operations area, or amendments thereto, following an initial decision resolving all issues before the Presiding Officer in favor of the licensing action, upon making the appropriate licensing findings, except -
+(b) The Director of Nuclear Material Safety and Safeguards, notwithstanding the filing or pendency of an appeal or a petition for review pursuant to § 2.1015 of this subpart, promptly shall issue a construction authorization or a license to receive and possess high-level radioactive waste at a geologic repository operations area, or amendments thereto, following an initial decision resolving all issues before the Presiding Officer in favor of the licensing action, upon making the appropriate licensing findings, except—
 
 (1) As provided in paragraph (c) of this section; or
 
@@ -22,4 +20,4 @@ Link to an amendment published at 86 FR 43401, Aug. 9, 2021.
 
 (3) No suspension of the effectiveness of a Presiding Officer's initial decision or postponement of the Director's issuance of a construction authorization or license that results from a Commission supervisory examination of contested issues under paragraph (c)(1) of this section or a review of uncontested issues under paragraph (c)(2) of this section will be entered except in writing with a statement of the reasons. Such suspension or postponement will be limited to such period as is necessary for the Commission to resolve the matters at issue. If the supervisory examination results in a suspension of the effectiveness of the Presiding Officer's initial decision under paragraph (c)(1) of this section, the Commission will take review of the decision sua sponte and further proceedings relative to the contested matters at issue will be in accordance with procedures for participation by the DOE, the NRC staff, or other parties and interested governmental participants to the Presiding Officer proceeding established by the Commission in its written statement of reasons. If a postponement results from a review under paragraph (c)(2) of this section, comments on the uncontested matters at issue may be filed by the DOE within ten days of service of the Commission's written statement.
 
-[54 FR 14944, Apr. 14, 1989, as amended at 56 FR 7797, Feb. 26, 1991; 66 FR 55789, Nov. 2, 2001; 69 FR 2266, Jan. 14, 2004; 79 FR 66601, Nov. 10, 2014]
+[54 FR 14944, Apr. 14, 1989, as amended at 56 FR 7797, Feb. 26, 1991; 66 FR 55789, Nov. 2, 2001; 69 FR 2266, Jan. 14, 2004; 79 FR 66601, Nov. 10, 2014; 86 FR 43401, Aug. 9, 2021]

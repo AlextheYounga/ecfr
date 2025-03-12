@@ -1,7 +1,5 @@
 ##### § 70.22 Contents of applications. #####
 
-Link to an amendment published at 86 FR 43403, Aug. 9, 2021.
-
 (a) Each application for a license shall contain the following information:
 
 (1) The full name, address, age (if an individual), and citizenship of the applicant and the names and addresses of three personal references. If the applicant is a corporation or other entity, it shall indicate the State where it was incorporated or organized, the location of the principal office, the names, addresses, and citizenship of its principal officers, and shall include information known to the applicant concerning the control or ownership, if any, exercised over the applicant by any alien, foreign corporation, or foreign government;
@@ -42,7 +40,7 @@ Where the nature of the proposed activities is such as to require consideration 
 
 (2) Each application for such a license involving formula quantities of strategic special nuclear material must include the first four categories of information contained in the applicant's safeguards contingency plan. (The first four categories of information, as set forth in appendix C to part 73 of this chapter, are Background, Generic Planning Base, Licensee Planning Base, and Responsibility Matrix. The fifth category of information, Procedures, does not have to be submitted for approval.)
 
-(3) The licensee shall retain this discription of the plan for physical protection of special nuclear material in transit and the safeguards contingency plan or safeguards response procedures and each change to the plan or procedures as a record for a period of three years following the date on which the licensee last possessed the appropriate type and quantity of special nuclear material requiring this record under each license.
+(3) The licensee shall retain this description of the plan for physical protection of special nuclear material in transit and the safeguards contingency plan or safeguards response procedures and each change to the plan or procedures as a record for a period of three years following the date on which the licensee last possessed the appropriate type and quantity of special nuclear material requiring this record under each license.
 
 (h)(1) Each application for a license to possess or use, at any site or contiguous sites subject to licensee control, a formula quantity of strategic special nuclear material, as defined in § 70.4, other than a license for possession or use of this material in the operation of a nuclear reactor licensed pursuant to part 50 of this chapter, must include a physical security plan. The plan must describe how the applicant will meet the applicable requirements of part 73 of this chapter in the conduct of the activity to be licensed, including the identification and description of jobs as required by 10 CFR 11.11(a). The plan must list tests, inspections, audits, and other means to be used to demonstrate compliance with the requirements of 10 CFR parts 11 and 73, if applicable.
 

@@ -1,0 +1,3 @@
+##### § 1187.52 How will OIED coordinate with other Federal agencies? #####
+
+OIED will coordinate with the Secretaries of Agriculture, Commerce, and Treasury, and the Administrator of the Small Business Administration to ensure, to the maximum extent practicable, that awardees have the information and materials they need to provide Native businesses and Native entrepreneurs with the information and assistance necessary to apply for business and entrepreneurial development programs administered by those agencies.

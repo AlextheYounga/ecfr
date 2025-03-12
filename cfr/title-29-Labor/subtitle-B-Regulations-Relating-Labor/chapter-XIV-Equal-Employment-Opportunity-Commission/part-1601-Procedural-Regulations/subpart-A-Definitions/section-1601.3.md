@@ -4,4 +4,6 @@
 
 (b) For the purposes of this part, the terms *file, serve, submit, receive, transmit, present, send, issue,* and *notify* shall include all forms of digital transmission.
 
+(c) The delegations of authority in subpart B of this part are applicable to charges filed pursuant to either section 706 or section 707 of title VII.
+
 [42 FR 55388, Oct. 14, 1977, as amended at 56 FR 9624, Mar. 7, 1991; 71 FR 26827, May 9, 2006; 74 FR 63982, Dec. 7, 2009; 85 FR 65217, Oct. 15, 2020]

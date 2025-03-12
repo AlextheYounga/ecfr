@@ -1,10 +1,8 @@
 ##### § 55.31 How to apply. #####
 
-Link to an amendment published at 86 FR 43403, Aug. 9, 2021.
-
 (a) The applicant shall:
 
-(1) Complete NRC Form 398, “Personal Qualification Statement - Licensee,” which can be obtained by writing the Office of the Chief Information Officer, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, by calling (301) 415-7232, or by visiting the NRC's Web site at *http://www.nrc.gov* and selecting forms from the index found on the home page;
+(1) Complete NRC Form 398, “Personal Qualification Statement—Licensee,” which can be obtained by writing the Office of the Chief Information Officer, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, by calling (301) 415-7232, or by visiting the NRC's Web site at *http://www.nrc.gov* and selecting forms from the index found on the home page;
 
 (2) File an original of NRC Form 398, together with the information required in paragraphs (a)(3), (4), (5) and (6) of this section, with the appropriate Regional Administrator;
 
@@ -16,10 +14,10 @@ Link to an amendment published at 86 FR 43403, Aug. 9, 2021.
 
 (6) Provide certification by the facility licensee of medical condition and general health on Form NRC-396, to comply with §§ 55.21, 55.23 and 55.33(a)(1).
 
-(b) The Commission may at any time after the application has been filed, and before the license has expired, require futher information under oath or affirmation in order to enable it to determine whether to grant or deny the application or whether to revoke, modify, or suspend the license.
+(b) The Commission may at any time after the application has been filed, and before the license has expired, require further information under oath or affirmation in order to enable it to determine whether to grant or deny the application or whether to revoke, modify, or suspend the license.
 
 (c) An applicant whose application has been denied because of a medical condition or general health may submit a further medical report at any time as a supplement to the application.
 
 (d) Each application and statement must contain complete and accurate disclosure as to all matters required to be disclosed. The applicant shall sign statements required by paragraphs (a) (1) and (2) of this section.
 
-[52 FR 9460, Mar. 25, 1987, as amended at 53 FR 43421, Oct. 27, 1988; 66 FR 52667, Oct. 17, 2001; 68 FR 58813, Oct. 10, 2003; 73 FR 30458, May 28, 2008]
+[52 FR 9460, Mar. 25, 1987, as amended at 53 FR 43421, Oct. 27, 1988; 66 FR 52667, Oct. 17, 2001; 68 FR 58813, Oct. 10, 2003; 73 FR 30458, May 28, 2008; 86 FR 43403, Aug. 9, 2021]

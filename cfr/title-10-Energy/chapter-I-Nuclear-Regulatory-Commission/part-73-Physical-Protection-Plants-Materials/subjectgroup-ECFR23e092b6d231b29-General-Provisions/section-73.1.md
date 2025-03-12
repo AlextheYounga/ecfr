@@ -1,7 +1,5 @@
 ##### § 73.1 Purpose and scope. #####
 
-Link to an amendment published at 86 FR 43403, Aug. 9, 2021.
-
 (a) *Purpose.* This part prescribes requirements for the establishment and maintenance of a physical protection system which will have capabilities for the protection of special nuclear material at fixed sites and in transit and of plants in which special nuclear material is used. The following design basis threats, where referenced in ensuing sections of this part, shall be used to design safeguards systems to protect against acts of radiological sabotage and to prevent the theft or diversion of special nuclear material. Licensees subject to the provisions of § 73.20 (except for fuel cycle licensees authorized under Part 70 of this chapter to receive, acquire, possess, transfer, use, or deliver for transportation formula quantities of strategic special nuclear material), §§ 73.50, and 73.60 are exempt from §§ 73.1(a)(1)(i)(E), 73.1(a)(1)(iii), 73.1(a)(1)(iv), 73.1(a)(2)(iii), and 73.1(a)(2)(iv). Licensees subject to the provisions of § 72.212 are exempt from § 73.1(a)(1)(iv).
 
 (1) *Radiological sabotage.* (i) A determined violent external assault, attack by stealth, or deceptive actions, including diversionary actions, by an adversary force capable of operating in each of the following modes: A single group attacking through one entry point, multiple groups attacking through multiple entry points, a combination of one or more groups and one or more individuals attacking through multiple entry points, or individuals attacking through separate entry points, with the following attributes, assistance and equipment:
@@ -58,11 +56,11 @@ Link to an amendment published at 86 FR 43403, Aug. 9, 2021.
 
 (4) Special nuclear material subject to this part may also be protected pursuant to security procedures prescribed by the Commission or another Government agency for the protection of classified materials. The provisions and requirements of this part are in addition to, and not in substitution for, any such security procedures. Compliance with the requirements of this part does not relieve any licensee from any requirement or obligation to protect special nuclear material pursuant to security procedures prescribed by the Commission or other Government agency for the protection of classified materials.
 
-(5) This part also applies to the shipment of irradiated reactor fuel in quantities that in a single shipment both exceed 100 grams in net weight of irradiated fuel, exclusive of cladding or other structural or packaging material, and have a total radiation dose in excess of 100 rems per hour at a distance of 3 feet from any accessible surface without intervening shielding.
+(5) This part also applies to the shipment of irradiated reactor fuel in quantities that in a single shipment both exceed 100 grams in net weight of irradiated fuel, exclusive of cladding or other structural or packaging material, and have a total external radiation level in excess of 1 gray (100 rad) per hour at a distance of 1 meter (3.3 feet) from any accessible surface without intervening shielding.
 
 (6) This part prescribes requirements for the physical protection of spent nuclear fuel and high-level radioactive waste stored in either an independent spent fuel storage installation (ISFSI) or a monitored retrievable storage (MRS) installation licensed under part 72 of this chapter, or stored at the geologic repository operations area licensed under part 60 or part 63 of this chapter.
 
-(7) This part prescribes requirements for the protection of Safeguards Information (including Safeguards Information with the designation or marking: Safeguards Information - Modified Handling) in the hands of any person, whether or not a licensee of the Commission, who produces, receives, or acquires that information.
+(7) This part prescribes requirements for the protection of Safeguards Information (including Safeguards Information with the designation or marking: Safeguards Information—Modified Handling) in the hands of any person, whether or not a licensee of the Commission, who produces, receives, or acquires that information.
 
 (8) This part prescribes requirements for advance notice of export and import shipments of special nuclear material, including irradiated reactor fuel.
 

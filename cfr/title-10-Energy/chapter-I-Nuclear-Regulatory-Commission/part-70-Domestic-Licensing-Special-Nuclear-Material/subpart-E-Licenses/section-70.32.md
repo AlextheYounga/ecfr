@@ -1,7 +1,5 @@
 ##### § 70.32 Conditions of licenses. #####
 
-Link to an amendment published at 86 FR 43403, Aug. 9, 2021.
-
 (a) Each license shall contain and be subject to the following conditions:
 
 (1) [Reserved]
@@ -24,9 +22,9 @@ Link to an amendment published at 86 FR 43403, Aug. 9, 2021.
 
 (A) The licensee;
 
-(B) An entity (as that term is defined in 11 U.S.C. 101(14)) controlling the licensee or listing the license or licensee as property of the estate; or
+(B) An entity (as that term is defined in 11 U.S.C. 101(15)) controlling the licensee or listing the license or licensee as property of the estate; or
 
-(C) An affiliate (as that term is defined in 11 U.S.C. 101(a)) of the licensee.
+(C) An affiliate (as that term is defined in 11 U.S.C. 101(2)) of the licensee.
 
 (ii) This notification must indicate:
 

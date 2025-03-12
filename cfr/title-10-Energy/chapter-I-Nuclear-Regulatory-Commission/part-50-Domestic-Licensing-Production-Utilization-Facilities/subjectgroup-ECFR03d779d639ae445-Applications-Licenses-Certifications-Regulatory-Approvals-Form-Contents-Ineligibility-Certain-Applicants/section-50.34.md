@@ -1,7 +1,5 @@
 ##### § 50.34 Contents of applications; technical information. #####
 
-Link to an amendment published at 86 FR 43402, Aug. 9, 2021.
-
 (a) *Preliminary safety analysis report.* Each application for a construction permit shall include a preliminary safety analysis report. The minimum information5 to be included shall consist of the following:
 
 5 The applicant may provide information required by this paragraph in the form of a discussion, with specific references, of similarities to and differences from, facilities of similar design for which applications have previously been filed with the Commission.
@@ -82,7 +80,7 @@ Link to an amendment published at 86 FR 43402, Aug. 9, 2021.
 
 (6) The following information concerning facility operation:
 
-(i) The applicant's organizational structure, allocations or responsibilities and authorities, and personnel qualifications requirements.
+(i) The applicant's organizational structure, allocations of responsibilities and authorities, and personnel qualifications requirements.
 
 (ii) Managerial and administrative controls to be used to assure safe operation. Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” sets forth the requirements for such controls for nuclear power plants and fuel reprocessing plants. The information on the controls to be used for a nuclear power plant or a fuel reprocessing plant shall include a discussion of how the applicable requirements of appendix B will be satisfied.
 
