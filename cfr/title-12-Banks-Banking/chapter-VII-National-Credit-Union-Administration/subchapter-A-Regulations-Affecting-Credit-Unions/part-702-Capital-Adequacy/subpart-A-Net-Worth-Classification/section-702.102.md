@@ -1,5 +1,7 @@
 ##### § 702.102 Statutory net worth categories. #####
 
+Link to an amendment published at 86 FR 72804, Dec. 23, 2021.
+
 (a) *Net worth categories.* Except for credit unions defined as “new” under subpart B of this part, a federally insured credit union shall be classified (Table 1) -
 
 (1) *Well capitalized* if it has a net worth ratio of seven percent (7%) or greater and also meets any applicable risk-based net worth requirement under §§ 702.103 through 702.108; or

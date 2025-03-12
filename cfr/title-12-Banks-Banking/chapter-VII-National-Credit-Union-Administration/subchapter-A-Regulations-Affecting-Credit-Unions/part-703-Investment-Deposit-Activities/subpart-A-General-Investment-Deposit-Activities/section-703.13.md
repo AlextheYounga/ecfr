@@ -1,6 +1,6 @@
 ##### § 703.13 Permissible investment activities. #####
 
-Link to an amendment published at 86 FR 59288, Oct. 27, 2021.
+Link to an amendment published at 86 FR 59288, Oct. 27, 2021.Link to an amendment published at 86 FR 72806, Dec. 23, 2021.
 
 (a) *Regular way settlement and delivery versus payment basis.* A Federal credit union may only contract for the purchase or sale of a security as long as the delivery of the security is by regular way settlement and the transaction is accomplished on a delivery versus payment basis.
 

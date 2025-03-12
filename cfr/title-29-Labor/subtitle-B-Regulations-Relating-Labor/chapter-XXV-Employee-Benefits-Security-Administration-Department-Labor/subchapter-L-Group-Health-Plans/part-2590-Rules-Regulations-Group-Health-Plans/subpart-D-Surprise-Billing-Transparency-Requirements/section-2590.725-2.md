@@ -1,8 +1,8 @@
-##### § 54.9825-4T Reporting requirements related to prescription drug and health care spending (temporary). #####
+##### § 2590.725-2 Reporting requirements related to prescription drug and health care spending. #####
 
-(a) *General requirement.* A group health plan or a health insurance issuer offering group health insurance coverage must submit an annual report to the Secretary, the Secretary of Health and Human Services, and the Secretary of Labor, on prescription drug and health care spending, premiums, and enrollment under the plan or coverage.
+(a) *General requirement.* A group health plan or a health insurance issuer offering group health insurance coverage must submit an annual report to the Secretary, the Secretary of the Treasury, and the Secretary of Health and Human Services, on prescription drug and health care spending, premiums, and enrollment under the plan or coverage.
 
-(b) *Timing and form of report.* The report for the 2020 reference year must be submitted to the Secretary by December 27, 2021. Beginning with the 2021 reference year, the report for each reference year is due by June 1 of the year following the reference year. The report must be submitted in the form and manner prescribed by the Secretary, jointly with the Secretary of Health and Human Services and the Secretary of Labor.
+(b) *Timing and form of report.* The report for the 2020 reference year must be submitted to the Secretary by December 27, 2021. Beginning with the 2021 reference year, the report for each reference year is due by June 1 of the year following the reference year. The report must be submitted in the form and manner prescribed by the Secretary, jointly with the Secretary of the Treasury and the Secretary of Health and Human Services.
 
 (c) *Transfer of business.* Issuers that acquire a line or block of business from another issuer during a reference year are responsible for submitting the information and report required by this section for the acquired business for that reference year, including for the part of the reference year that was prior to the acquisition.
 
@@ -12,4 +12,4 @@
 
 (e) *Applicability date.* The provisions of this section are applicable beginning December 27, 2021.
 
-[T.D. 9958, 86 FR 66696, Nov. 23, 2021]
+[86 FR 66699, Nov. 23, 2021]

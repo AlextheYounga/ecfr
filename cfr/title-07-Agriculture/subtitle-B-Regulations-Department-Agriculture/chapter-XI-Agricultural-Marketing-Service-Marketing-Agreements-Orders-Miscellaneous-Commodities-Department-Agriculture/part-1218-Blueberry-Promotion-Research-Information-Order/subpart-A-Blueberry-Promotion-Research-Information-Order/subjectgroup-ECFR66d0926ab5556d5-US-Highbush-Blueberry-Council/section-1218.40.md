@@ -1,5 +1,7 @@
 ##### § 1218.40 Establishment and membership. #####
 
+Link to an amendment published at 86 FR 72782, Dec. 23, 2021.
+
 (a) *Establishment of the U.S. Highbush Blueberry Council.* There is hereby established a U.S. Highbush Blueberry Council, hereinafter called the Council, composed of no more than 20 members and alternates, appointed by the Secretary from nominations as follows:
 
 (1) One producer member and alternate from each of the following regions:

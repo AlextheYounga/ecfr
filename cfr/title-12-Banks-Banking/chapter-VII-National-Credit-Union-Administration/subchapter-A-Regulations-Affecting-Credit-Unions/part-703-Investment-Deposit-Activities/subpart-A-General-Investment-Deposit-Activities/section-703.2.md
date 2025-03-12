@@ -1,5 +1,7 @@
 ##### § 703.2 Definitions. #####
 
+Link to an amendment published at 86 FR 72806, Dec. 23, 2021.Link to an amendment published at 86 FR 72818, Dec. 23, 2021.
+
 *The following definitions apply to this part:*
 
 *Adjusted trading* means selling an investment to a counterparty at a price above its current fair value and simultaneously purchasing or committing to purchase from the counterparty another investment at a price above its current fair value.

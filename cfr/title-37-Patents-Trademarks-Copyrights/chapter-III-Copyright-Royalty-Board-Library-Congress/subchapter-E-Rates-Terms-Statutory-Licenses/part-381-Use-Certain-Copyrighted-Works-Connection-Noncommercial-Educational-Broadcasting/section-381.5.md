@@ -1,7 +1,5 @@
 ##### § 381.5 Performance of musical compositions by public broadcasting entities licensed to colleges and universities. #####
 
-Link to an amendment published at 86 FR 66460, Nov. 23, 2021.
-
 (a) *Scope.* This section applies to the performance of copyrighted published nondramatic musical compositions by noncommercial radio stations which are licensed to accredited colleges, accredited universities, or other accredited nonprofit educational institutions and which are not affiliated with National Public Radio. For purposes of this section, accreditation of institutions providing post-secondary education shall be determined by a regional or national accrediting agency recognized by the Council for Higher Education Accreditation or the United States Department of Education; and accreditation of institutions providing elementary or secondary education shall be as recognized by the applicable state licensing authority.
 
 (b) *Voluntary license agreements.* Notwithstanding the schedule of rates and terms established in this section, the rates and terms of any license agreements entered into by copyright owners and colleges, universities, and other nonprofit educational institutions concerning the performance of copyrighted musical compositions, including performances by noncommercial radio stations, shall apply in lieu of the rates and terms of this section.
@@ -46,13 +44,7 @@ Link to an amendment published at 86 FR 66460, Nov. 23, 2021.
 
 (iv) 2021: $164 per station.
 
-(v) 2022: The 2021 rate, subject to an annual cost of living adjustment in accordance with paragraph (c)(3)(vi) of this section.
-
-(vi) Such cost of living adjustment to be made in accordance with the greater of:
-
-(A) The change, if any, in the Consumer Price Index (all consumers, all items) published by the U.S. Department of Labor, Bureau of Labor Statistics during the twelve (12) month period from the most recent Index, published before December 1 of the year immediately prior to the applicable year; or
-
-(B) One and one-half percent (1.5%).
+(v) 2022: $174.00 per station.
 
 (4) For the performance of any other such compositions: $1.
 
@@ -60,4 +52,4 @@ Link to an amendment published at 86 FR 66460, Nov. 23, 2021.
 
 (e) *Records of use.* A public broadcasting entity subject to this section shall furnish to ASCAP, BMI and SESAC, upon request, a music-use report during one week of each calendar year. ASCAP, BMI and SESAC shall not in any one calendar year request more than 10 stations to furnish such reports.
 
-[72 FR 67647, Nov. 30, 2007, as amended at 73 FR 72726, Dec. 1, 2008; 74 FR 62705, Dec. 1, 2009; 75 FR 74623, Dec. 1, 2010; 76 FR 74703, Dec. 1, 2011; 77 FR 71105, Nov. 29, 2012; 78 FR 71501, Nov. 29, 2013; 79 FR 71319, Dec. 2, 2014; 80 FR 73118, Nov. 24, 2015; 81 FR 84478, Nov. 23, 2016; 83 FR 2740, Jan. 19, 2018; 83 FR 61126, Nov. 28, 2018; 84 FR 64206, Nov. 21, 2019; 85 FR 74884, Nov. 24, 2020]
+[72 FR 67647, Nov. 30, 2007, as amended at 73 FR 72726, Dec. 1, 2008; 74 FR 62705, Dec. 1, 2009; 75 FR 74623, Dec. 1, 2010; 76 FR 74703, Dec. 1, 2011; 77 FR 71105, Nov. 29, 2012; 78 FR 71501, Nov. 29, 2013; 79 FR 71319, Dec. 2, 2014; 80 FR 73118, Nov. 24, 2015; 81 FR 84478, Nov. 23, 2016; 83 FR 2740, Jan. 19, 2018; 83 FR 61126, Nov. 28, 2018; 84 FR 64206, Nov. 21, 2019; 85 FR 74884, Nov. 24, 2020; 86 FR 66460, Nov. 23, 2021]

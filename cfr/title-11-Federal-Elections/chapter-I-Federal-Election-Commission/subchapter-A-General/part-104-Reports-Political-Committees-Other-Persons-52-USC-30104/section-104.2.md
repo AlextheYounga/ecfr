@@ -2,7 +2,7 @@
 
 (a) Each report filed by a political committee under 11 CFR part 104 shall be filed on the appropriate FEC form as set forth below at 11 CFR 104.2(e).
 
-(b) Forms may be obtained from the Federal Election Commission at the street address identified in the definition of “Commission” in § 1.2.
+(b) Forms may be obtained from the Federal Election Commission at *https://www.fec.gov/help-candidates-and-committees/forms/* or at the street address identified in the definition of “Commission” in § 1.2.
 
 (c) A committee may reproduce FEC forms for its own use provided they are not reduced in size.
 
@@ -16,4 +16,4 @@
 
 (3) *Political Committees Other than Authorized Committees.* Political committees other than authorized committees shall file reports on FEC Form 3-X.
 
-[45 FR 15108, Mar. 7, 1980, as amended at 45 FR 21209, Apr. 1, 1980; 50 FR 50778, Dec. 12, 1985; 82 FR 60853, Dec. 26, 2017]
+[45 FR 15108, Mar. 7, 1980, as amended at 45 FR 21209, Apr. 1, 1980; 50 FR 50778, Dec. 12, 1985; 82 FR 60853, Dec. 26, 2017; 86 FR 72784, Dec. 23, 2021]

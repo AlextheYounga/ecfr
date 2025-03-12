@@ -12,14 +12,8 @@
 
 (f) For any willful violation committed after October 27, 1986, of any reporting requirement for financial institutions under this chapter (except § 1010.350, § 1010.360 or § 1010.420), the Secretary may assess upon any domestic financial institution, and upon any partner, director, officer, or employee thereof who willfully participates in the violation, a civil penalty not to exceed the greater of the amount (not to exceed $100,000) involved in the transaction or $25,000.
 
-(g) For any willful violation committed after October 27, 1986, of any requirement of § 1010.350, § 1010.360 or § 1010.420, the Secretary may assess upon any person, a civil penalty:
+(g) For each negligent violation of any requirement of this chapter, committed after October 27, 1986, the Secretary may assess upon any financial institution a civil penalty not to exceed $500.
 
-(1) In the case of a violation of § 1010.360 involving a transaction, a civil penalty not to exceed the greater of the amount (not to exceed $100,000) of the transaction, or $25,000; and
+(h) For penalties that are assessed after August 1, 2016, see § 1010.821 for rules relating to the maximum amount of the penalty.
 
-(2) In the case of a violation of § 1010.350 or § 1010.420 involving a failure to report the existence of an account or any identifying information required to be provided with respect to such account, a civil penalty not to exceed the greater of the amount (not to exceed $100,000) equal to the balance in the account at the time of the violation, or $25,000.
-
-(h) For each negligent violation of any requirement of this chapter, committed after October 27, 1986, the Secretary may assess upon any financial institution a civil penalty not to exceed $500.
-
-(i) For penalties that are assessed after August 1, 2016, see § 1010.821 for rules relating to the maximum amount of the penalty.
-
-[75 FR 65812, Oct. 26, 2010, as amended at 81 FR 42505, June 30, 2016]
+[75 FR 65812, Oct. 26, 2010, as amended at 81 FR 42505, June 30, 2016; 86 FR 72845, Dec. 27, 2021]

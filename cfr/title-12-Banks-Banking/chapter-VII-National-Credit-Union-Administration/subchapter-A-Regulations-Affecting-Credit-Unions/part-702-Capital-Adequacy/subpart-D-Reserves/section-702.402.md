@@ -1,5 +1,7 @@
 ##### § 702.402 Full and fair disclosure of financial condition. #####
 
+Link to an amendment published at 86 FR 72809, Dec. 23, 2021.
+
 (a) *Full and fair disclosure defined.* “Full and fair disclosure” is the level of disclosure which a prudent person would provide to a member of a federally insured credit union, to NCUA, or, at the discretion of the board of directors, to creditors to fairly inform them of the financial condition and the results of operations of the credit union.
 
 (b) *Full and fair disclosure implemented.* The financial statements of a federally insured credit union shall provide for full and fair disclosure of all assets, liabilities, and members' equity, including such valuation (allowance) accounts as may be necessary to present fairly the financial condition; and all income and expenses necessary to present fairly the statement of income for the reporting period.

@@ -1,5 +1,7 @@
 ##### § 702.401 Reserves. #####
 
+Link to an amendment published at 86 FR 72809, Dec. 23, 2021.
+
 (a) *Special reserve.* Each federally insured credit union shall establish and maintain such reserves as may be required by the FCUA, by state law, by regulation, or in special cases by the NCUA Board or appropriate State official.
 
 (b) *Regular reserve.* Each federally insured credit union shall establish and maintain a regular reserve account for the purpose of absorbing losses that exceed undivided earnings and other appropriations of undivided earnings, subject to paragraph (c) of this section. Earnings required to be transferred annually to a credit union's regular reserve under subparts B or C of this part shall be held in this account.

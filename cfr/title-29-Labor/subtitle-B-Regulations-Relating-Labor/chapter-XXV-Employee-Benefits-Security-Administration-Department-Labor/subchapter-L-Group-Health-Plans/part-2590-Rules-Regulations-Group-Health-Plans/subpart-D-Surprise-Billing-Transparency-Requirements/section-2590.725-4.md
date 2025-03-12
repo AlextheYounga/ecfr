@@ -1,6 +1,6 @@
-##### § 54.9825-6T Required information (temporary). #####
+##### § 2590.725-4 Required information. #####
 
-(a) *Information for each plan or coverage.* The report required under § 54.9825-4T must include the following information for each plan or coverage, at the plan or coverage level:
+(a) *Information for each plan or coverage.* The report required under § 2590.725-2 must include the following information for each plan or coverage, at the plan or coverage level:
 
 (1) The identifying information for plans, issuers, plan sponsors, and any other reporting entities.
 
@@ -10,7 +10,7 @@
 
 (4) Each State in which the plan or coverage is offered.
 
-(b) *Information for each state and market segment.* The report required under § 54.9825-4T must include the following information with respect to plans or coverage for each State and market segment for the reference year, unless otherwise specified:
+(b) *Information for each state and market segment.* The report required under § 2590.725-2 must include the following information with respect to plans or coverage for each State and market segment for the reference year, unless otherwise specified:
 
 (1) The 50 brand prescription drugs most frequently dispensed by pharmacies, and for each such drug, the data elements listed in paragraph (b)(5) of this section. The most frequently dispensed drugs must be determined according to total number of paid claims for prescriptions filled during the reference year for each drug.
 
@@ -64,4 +64,4 @@
 
 (c) *Applicability date.* The provisions of this section are applicable beginning December 27, 2021.
 
-[T.D. 9958, 86 FR 66696, Nov. 23, 2021]
+[86 FR 66699, Nov. 23, 2021]

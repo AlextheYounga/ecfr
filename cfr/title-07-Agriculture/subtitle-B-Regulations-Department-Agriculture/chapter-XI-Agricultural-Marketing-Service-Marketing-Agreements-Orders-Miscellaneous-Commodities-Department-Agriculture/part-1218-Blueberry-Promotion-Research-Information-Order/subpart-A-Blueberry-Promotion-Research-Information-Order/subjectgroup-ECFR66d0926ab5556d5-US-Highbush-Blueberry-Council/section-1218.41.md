@@ -1,5 +1,7 @@
 ##### § 1218.41 Nominations and appointments. #####
 
+Link to an amendment published at 86 FR 72783, Dec. 23, 2021.
+
 (a) *State representatives.* (1) When a state has a state blueberry commission or marketing order in place, the state commission or committee will nominate members to serve on the Council. At least two nominees shall be recommended to the Secretary for each member and each alternate position. Other eligible persons interested in serving in the respective state positions but not nominated by their State marketing order or commission will be designated by the State organization and/or Council as additional nominees for consideration by the Secretary.
 
 (2) Nomination and election of state representatives where no commission or order is in place will be handled by the Council staff. The Council staff will seek nominations for members and alternates from the specific states. Nominations will be returned to the Council office and placed on a ballot which will then be sent to producers in the state for a vote. The final nominee for member will have received the highest number of votes cast. The person with the second highest number of votes cast will be the final nominee for alternate. The persons with the third and fourth highest number of votes cast will be designated as additional nominees for consideration by the Secretary.

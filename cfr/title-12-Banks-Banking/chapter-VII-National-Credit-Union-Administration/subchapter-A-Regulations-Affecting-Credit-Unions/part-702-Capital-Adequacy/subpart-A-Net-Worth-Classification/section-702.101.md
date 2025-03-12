@@ -1,5 +1,7 @@
 ##### § 702.101 Measures and effective date of net worth classification. #####
 
+Link to an amendment published at 86 FR 72804, Dec. 23, 2021.
+
 (a) *Net worth measures.* For purposes of this part, a credit union must determine its net worth category classification at the end of each calendar quarter using two measures:
 
 (1) The net worth ratio as defined in § 702.2(g); and
