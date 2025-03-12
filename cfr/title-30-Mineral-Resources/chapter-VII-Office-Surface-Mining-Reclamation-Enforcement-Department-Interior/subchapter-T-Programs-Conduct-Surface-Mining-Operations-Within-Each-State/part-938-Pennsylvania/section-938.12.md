@@ -1,7 +1,5 @@
 ##### § 938.12 State statutory, regulatory, and proposed program amendment provisions not approved. #####
 
-Link to an amendment published at 85 FR 71263, Nov. 9, 2020.
-
 (a) We are not approving the following provisions or portions of provisions of the proposed program amendment that Pennsylvania submitted on July 29, 1998:
 
 (1) Section 5.1(b) (52 P.S. 1406.5a(b)) of BMSLCA is not approved to the extent noted in 30 CFR 938.13(a)(1).
@@ -48,4 +46,6 @@ Link to an amendment published at 85 FR 71263, Nov. 9, 2020.
 
 (2) At 25 Pa. Code 86.283(c), the proposed deletion of the entire subsection.
 
-[66 FR 67063, Dec. 27, 2001, as amended at 68 FR 40154, July 7, 2003; 69 FR 71551, 71559, Dec. 9, 2004; 70 FR 25491, May 13, 2005; 71 FR 54595, Sept. 18, 2006; 73 FR 38920, July 8, 2008]
+(f) We are deferring our decision on the inclusion of *minimal-impact post-mining discharge* in the definition of *post-mining pollutional discharge* until such time as the State submits the definition of minimal-impact post-mining discharge to us as a proposed program amendment.
+
+[66 FR 67063, Dec. 27, 2001, as amended at 68 FR 40154, July 7, 2003; 69 FR 71551, 71559, Dec. 9, 2004; 70 FR 25491, May 13, 2005; 71 FR 54595, Sept. 18, 2006; 73 FR 38920, July 8, 2008; 85 FR 71263, Nov. 9, 2020]

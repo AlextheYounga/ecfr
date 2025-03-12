@@ -1,6 +1,6 @@
 ##### § 60-1.3 Definitions. #####
 
-Link to an amendment published at 85 FR 71570, Nov. 10, 2020.
+Link to an amendment published at 85 FR 71570, Nov. 10, 2020.Link to an amendment published at 85 FR 79371, Dec. 9, 2020.
 
 *Administering agency* means any department, agency and establishment in the executive branch of the Government, including any wholly owned Government corporation, which administers a program involving federally assisted construction contracts.
 

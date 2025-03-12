@@ -1,12 +1,14 @@
 ##### § 395.2 Definitions. #####
 
-Link to an amendment published at 85 FR 74918, Nov. 24, 2020.
-
 As used in this part, the following words and terms are construed to mean:
 
 *Adverse driving conditions* means snow, ice, sleet, fog, or other adverse weather conditions or unusual road or traffic conditions that were not known, or could not reasonably be known, to a driver immediately prior to beginning the duty day or immediately before beginning driving after a qualifying rest break or sleeper berth period, or to a motor carrier immediately prior to dispatching the driver.
 
-*Agricultural commodity* means any agricultural commodity, nonprocessed food, feed, fiber, or livestock (including livestock as defined in sec. 602 of the Emergency Livestock Feed Assistance Act of 1988 [7 U.S.C. 1471] and insects).
+*Agricultural commodity* means:
+
+(1) Any agricultural commodity, non-processed food, feed, fiber, or livestock as defined in this section.
+
+(2) As used in this definition, the term “any agricultural commodity” means horticultural products at risk of perishing, or degrading in quality, during transport by commercial motor vehicle, including plants, sod, flowers, shrubs, ornamentals, seedlings, live trees, and Christmas trees.
 
 *Automatic on-board recording device* means an electric, electronic, electromechanical, or mechanical device capable of recording driver's duty status information accurately and automatically as required by § 395.15. The device must be integrally synchronized with specific operations of the commercial motor vehicle in which it is installed. At a minimum, the device must record engine use, road speed, miles driven, the date, and time of day.
 
@@ -26,9 +28,11 @@ As used in this part, the following words and terms are construed to mean:
 
 *Hi-rail vehicle* means an internal rail flaw detection vehicle equipped with flange hi-rails.
 
-*Livestock* means cattle, elk, reindeer, bison, horses, deer, sheep, goats, swine, poultry (including egg-producing poultry), llamas, alpacas, live fish, crawfish, and other animals that are part of a foundation herd (including dairy producing cattle) or offspring; or are purchased as part of a normal operation and not to obtain additional benefits under the Emergency Livestock Feed Assistance Act of 1988, as amended.
+*Livestock* means livestock as defined in sec. 602 of the Emergency Livestock Feed Assistance Act of 1988 [7 U.S.C. 1471], as amended, insects, and all other living animals cultivated, grown, or raised for commercial purposes, including aquatic animals.
 
 *Multiple stops* means all stops made in any one village, town, or city may be computed as one.
+
+*Non-processed* food means food commodities in a raw or natural state and not subjected to significant post-harvest changes to enhance shelf life, such as canning, jarring, freezing, or drying. The term “non-processed food” includes fresh fruits and vegetables, and cereal and oilseed crops which have been minimally processed by cleaning, cooling, trimming, cutting, chopping, shucking, bagging, or packaging to facilitate transport by commercial motor vehicle.
 
 *On-duty time* means all time from the time a driver begins to work or is required to be in readiness to work until the time the driver is relieved from work and all responsibility for performing work. *On-duty time* shall include:
 
@@ -78,4 +82,4 @@ As used in this part, the following words and terms are construed to mean:
 
 (3) Except for any occasional emergency use, operated primarily within the service area of a utility's subscribers or consumers, without regard to whether the vehicle is owned, leased, or rented by the utility.
 
-[57 FR 33648, July 30, 1992, as amended at 59 FR 7515, Feb. 15, 1994; 59 FR 60324, Nov. 23, 1994; 60 FR 38748, July 28, 1995; 61 FR 14679, Apr. 3, 1996; 63 FR 33279, June 18, 1998; 72 FR 36790, July 5, 2007; 75 FR 17245, Apr. 5, 2010; 76 FR 25590, May 5, 2011; 76 FR 81187, Dec. 27, 2011; 77 FR 28451, May 14, 2012; 80 FR 78383, Dec. 16, 2015; 81 FR 47721, July 22, 2016; 83 FR 48726, Sept. 27, 2018; 84 FR 51435, Sept. 30, 2019; 85 FR 33452, June 1, 2020]
+[57 FR 33648, July 30, 1992]Editorial Note:For Federal Register citations affecting § 395.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

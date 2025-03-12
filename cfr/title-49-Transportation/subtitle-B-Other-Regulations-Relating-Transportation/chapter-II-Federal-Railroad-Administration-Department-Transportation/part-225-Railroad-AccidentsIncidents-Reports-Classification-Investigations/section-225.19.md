@@ -1,5 +1,7 @@
 ##### § 225.19 Primary groups of accidents/incidents. #####
 
+Link to an amendment published at 85 FR 79135, Dec. 9, 2020.
+
 (a) For reporting purposes reportable railroad accidents/incidents are divided into three groups:
 
 Group I - Highway-Rail Grade Crossing;Group II - Rail Equipment;Group III - Death, Injury and Occupational Illness.

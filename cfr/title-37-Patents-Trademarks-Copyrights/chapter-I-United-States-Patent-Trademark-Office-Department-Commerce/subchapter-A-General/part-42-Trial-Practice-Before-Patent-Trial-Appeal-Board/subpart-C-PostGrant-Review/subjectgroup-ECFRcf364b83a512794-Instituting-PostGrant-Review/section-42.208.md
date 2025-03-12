@@ -1,5 +1,7 @@
 ##### § 42.208 Institution of post-grant review. #####
 
+Link to an amendment published at 85 FR 79129, Dec. 9, 2020.
+
 (a) When instituting post-grant review, the Board may authorize the review to proceed on all or some of the challenged claims and on all or some of the grounds of unpatentability asserted for each claim.
 
 (b) At any time prior to institution of post-grant review, the Board may deny some or all grounds for unpatentability for some or all of the challenged claims. Denial of a ground is a Board decision not to institute post-grant review on that ground.

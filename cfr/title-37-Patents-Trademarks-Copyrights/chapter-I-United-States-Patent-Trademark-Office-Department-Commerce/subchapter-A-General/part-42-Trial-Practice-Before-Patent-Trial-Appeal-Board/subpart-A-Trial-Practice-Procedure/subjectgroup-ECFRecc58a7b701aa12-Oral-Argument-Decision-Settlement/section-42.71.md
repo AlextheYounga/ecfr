@@ -1,5 +1,7 @@
 ##### § 42.71 Decision on petitions or motions. #####
 
+Link to an amendment published at 85 FR 79129, Dec. 9, 2020.
+
 (a) *Order of consideration.* The Board may take up petitions or motions for decisions in any order, may grant, deny, or dismiss any petition or motion, and may enter any appropriate order.
 
 (b) *Interlocutory decisions.* A decision on a motion without a judgment is not final for the purposes of judicial review. If a decision is not a panel decision, the party may request that a panel rehear the decision. When rehearing a non-panel decision, a panel will review the decision for an abuse of discretion. A panel decision on an issue will govern the trial.

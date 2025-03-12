@@ -1,6 +1,6 @@
 ##### § 679.20 General limitations. #####
 
-Link to an amendment published at 85 FR 38100, June 25, 2020.
+Link to an amendment published at 85 FR 38100, June 25, 2020.Link to a correction published at 85 FR 79140, Dec. 9, 2020.
 
 This section applies to vessels engaged in directed fishing for groundfish in the GOA and/or the BSAI and to vessels engaged in commercial fishing for Arctic fish in the Arctic Management Area.
 

@@ -1,5 +1,7 @@
 ##### § 42.108 Institution of inter partes review. #####
 
+Link to an amendment published at 85 FR 79129, Dec. 9, 2020.
+
 (a) When instituting *inter partes* review, the Board may authorize the review to proceed on all or some of the challenged claims and on all or some of the grounds of unpatentability asserted for each claim.
 
 (b) At any time prior to institution of *inter partes* review, the Board may deny some or all grounds for unpatentability for some or all of the challenged claims. Denial of a ground is a Board decision not to institute *inter partes* review on that ground.

@@ -1,5 +1,7 @@
 ##### § 42.24 Type-volume or page-limits for petitions, motions, oppositions, and replies. #####
 
+Link to an amendment published at 85 FR 79128, Dec. 9, 2020.
+
 (a) *Petitions and motions.* (1) The following word counts or page limits for petitions and motions apply and include any statement of material facts to be admitted or denied in support of the petition or motion. The word count or page limit does not include a table of contents, a table of authorities, mandatory notices under § 42.8, a certificate of service or word count, or appendix of exhibits or claim listing.
 
 (i) Petition requesting *inter partes* review: 14,000 words.
