@@ -1,12 +1,12 @@
-##### 252.227-7015 Technical Data - Commercial Items. #####
+##### 252.227-7015 Technical Data - Commercial Products and Commercial Services. #####
 
 As prescribed in 227.7102-4(a)(1), use the following clause:
 
-Technical Data - Commercial Items (DEC 2022)
+Technical Data - Commercial Products and Commercial Services (JAN 2023)
 
 (a) *Definitions.* As used in this clause -
 
-(1) *Commercial item* does not include commercial computer software.
+(1) *Commercial product and commercial service* includes commercial components and commercial processes but does not include commercial computer software.
 
 (2) *Covered Government support contractor* means a contractor (other than a litigation support contractor covered by 252.204-7014) under a contract, the primary purpose of which is to furnish independent and impartial advice or technical assistance directly to the Government in support of the Government's management and oversight of a program or effort (rather than to directly furnish an end item or service to accomplish a program or effort), provided that the contractor -
 
@@ -16,9 +16,7 @@ Technical Data - Commercial Items (DEC 2022)
 
 (3) *Form, fit, and function data* means technical data that describes the required overall physical, functional, and performance characteristics (along with the qualification requirements, if applicable) of an item, component, or process to the extent necessary to permit identification of physically and functionally interchangeable items.
 
-(4) The term *item* includes components or processes.
-
-(5) *Technical data* means recorded information, regardless of the form or method of recording, of a scientific or technical nature (including computer software documentation). The term does not include computer software or data incidental to contract administration, such as financial and/or management information.
+(4) *Technical data* means recorded information, regardless of the form or method of recording, of a scientific or technical nature (including computer software documentation). The term does not include computer software or data incidental to contract administration, such as financial and/or management information.
 
 (b) *License.* (1) The Government shall have the unrestricted right to use, modify, reproduce, release, perform, display, or disclose technical data, and to permit others to do so, that -
 
@@ -34,9 +32,9 @@ Technical Data - Commercial Items (DEC 2022)
 
 (2) Except as provided in paragraph (b)(1) of this clause, the Government may use, modify, reproduce, release, perform, display, or disclose technical data within the Government only. The Government shall not -
 
-(i) Use the technical data to manufacture additional quantities of the commercial items; or
+(i) Use the technical data to manufacture additional quantities of the commercial products; or
 
-(ii) Release, perform, display, disclose, or authorize use of the technical data outside the Government without the Contractor's written permission unless a release, disclosure, or permitted use is necessary for emergency repair or overhaul of the commercial items furnished under this contract, or for performance of work by covered Government support contractors.
+(ii) Release, perform, display, disclose, or authorize use of the technical data outside the Government without the Contractor's written permission unless a release, disclosure, or permitted use is necessary for emergency repair or overhaul of the commercial products furnished under this contract, or for performance of work by covered Government support contractors.
 
 (3) The Contractor acknowledges that -
 
@@ -54,7 +52,7 @@ Technical Data - Commercial Items (DEC 2022)
 
 (e) *Applicability to subcontractors or suppliers.* (1) The Contractor shall recognize and protect the rights afforded its subcontractors and suppliers under 10 U.S.C. 3771-3775 and 10 U.S.C. 3781-3786.
 
-(2) Whenever any technical data related to commercial items developed in any part at private expense will be obtained from a subcontractor or supplier for delivery to the Government under this contract, the Contractor shall use this same clause in the subcontract or other contractual instrument, including subcontracts and other contractual instruments for commercial items, and require its subcontractors or suppliers to do so, without alteration, except to identify the parties. This clause will govern the technical data pertaining to any portion of a commercial item that was developed exclusively at private expense, and the clause at 252.227-7013 will govern the technical data pertaining to any portion of a commercial item that was developed in any part at Government expense.
+(2) Whenever any technical data related to commercial items developed in any part at private expense will be obtained from a subcontractor or supplier for delivery to the Government under this contract, the Contractor shall use this same clause in the subcontract or other contractual instrument, including subcontracts and other contractual instruments for commercial products or commercial services, and require its subcontractors or suppliers to do so, without alteration, except to identify the parties. This clause will govern the technical data pertaining to any portion of a commercial product or commercial service that was developed exclusively at private expense, and the clause at 252.227-7013 will govern the technical data pertaining to any portion of a commercial item that was developed in any part at Government expense.
 
 (End of clause)
 
@@ -64,4 +62,4 @@ Technical Data - Commercial Items (DEC 2022)
 
 (b)(4) *Vessel designs.* For a vessel design (including a vessel design embodied in a useful article) that is developed or delivered under this contract, the Government shall have the right to make and have made any useful article that embodies the vessel design, to import the article, to sell the article, and to distribute the article for sale or to use the article in trade, to the same extent that the Government is granted rights in the technical data pertaining to the vessel design.
 
-[60 FR 33497, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 74 FR 61045, Nov. 23, 2009; 76 FR 11368, Mar. 2, 2011; 76 FR 58148, Sept. 20, 2011; 76 FR 76320, Dec. 7, 2011; 78 FR 30239, May 22, 2013; 78 FR 37990, June 25, 2013; 79 FR 11341, Feb. 28, 2014; 87 FR 15819, Mar. 18, 2022; 87 FR 76997, Dec. 16, 2022]
+[60 FR 33497, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 74 FR 61045, Nov. 23, 2009; 76 FR 11368, Mar. 2, 2011; 76 FR 58148, Sept. 20, 2011; 76 FR 76320, Dec. 7, 2011; 78 FR 30239, May 22, 2013; 78 FR 37990, June 25, 2013; 79 FR 11341, Feb. 28, 2014; 87 FR 15819, Mar. 18, 2022; 87 FR 76997, Dec. 16, 2022; 88 FR 6594, Jan. 31, 2023]

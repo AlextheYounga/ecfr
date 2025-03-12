@@ -1,6 +1,6 @@
 ##### 227.7103-5 Government rights. #####
 
-The standard license rights that a licensor grants to the Government are unlimited rights, government purpose rights, or limited rights. Those rights are defined in the clause at 252.227-7013, Rights in Technical Data - Noncommercial Items. In unusual situations, the standards rights may not satisfy the Government's needs or the Government may be willing to accept lesser rights in data in return for other consideration. In those cases, a special license may be negotiated. However, the licensor is not obligated to provide the Government greater rights and the contracting officer is not required to accept lesser rights than the rights provided in the standard grant of license. The situations under which a particular grant of license applies are enumerated in paragraphs (a) through (d) of this subsection.
+The standard license rights that a licensor grants to the Government are unlimited rights, government purpose rights, or limited rights. Those rights are defined in the clause at 252.227-7013, Rights in Technical Data - Other Than Commercial Products and Commercial Services . In unusual situations, the standards rights may not satisfy the Government's needs or the Government may be willing to accept lesser rights in data in return for other consideration. In those cases, a special license may be negotiated. However, the licensor is not obligated to provide the Government greater rights and the contracting officer is not required to accept lesser rights than the rights provided in the standard grant of license. The situations under which a particular grant of license applies are enumerated in paragraphs (a) through (d) of this section.
 
 (a) *Unlimited rights.* The Government obtains unlimited rights in technical data that are -
 
@@ -74,4 +74,4 @@ The standard license rights that a licensor grants to the Government are unlimit
 
 (iii) Reverse engineering, or providing items from Government inventories to contractors who request the items to facilitate the development of equivalent items through reverse engineering.
 
-[56 FR 36389, July 31, 1991, as amended at 76 FR 11367, Mar. 2, 2011; 78 FR 30238, May 22, 2013]
+[56 FR 36389, July 31, 1991, as amended at 76 FR 11367, Mar. 2, 2011; 78 FR 30238, May 22, 2013; 88 FR, 6585 Jan. 31, 2023]

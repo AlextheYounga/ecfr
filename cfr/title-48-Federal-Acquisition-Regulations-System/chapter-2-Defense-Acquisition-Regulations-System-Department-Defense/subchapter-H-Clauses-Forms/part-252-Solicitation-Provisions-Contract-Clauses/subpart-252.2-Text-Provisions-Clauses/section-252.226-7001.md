@@ -1,12 +1,12 @@
-##### 252.226-7001 Utilization of Indian organizations, Indian-owned economic enterprises, and native Hawaiian small business concerns. #####
+##### 252.226-7001 Utilization of Indian Organizations, Indian-Owned Economic Enterprises, and Native Hawaiian Small Business Concerns. #####
 
 As prescribed in 226.104, use the following clause:
 
-Utilization of Indian Organizations, Indian-Owned Economic Enterprises, and Native Hawaiian Small Business Concerns (APR 2019)
+Utilization of Indian Organizations, Indian-Owned Economic Enterprises, and Native Hawaiian Small Business Concerns (JAN 2023)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
-*Indian* means -
+*Indian* means—
 
 (1) Any person who is a member of any Indian tribe, band, group, pueblo, or community that is recognized by the Federal Government as eligible for services from the Bureau of Indian Affairs (BIA) in accordance with 25 U.S.C. 1452(c); and
 
@@ -20,7 +20,7 @@ Utilization of Indian Organizations, Indian-Owned Economic Enterprises, and Nati
 
 *Interested party* means a contractor or an actual or prospective offeror whose direct economic interest would be affected by the award of a subcontract or by the failure to award a subcontract.
 
-*Native Hawaiian small business concern* means an entity that is -
+*Native Hawaiian small business concern* means an entity that is—
 
 (1) A small business concern as defined in section 3 of the Small Business Act (15 U.S.C. 632) and relevant implementing regulations; and
 
@@ -30,7 +30,7 @@ Utilization of Indian Organizations, Indian-Owned Economic Enterprises, and Nati
 
 (c) The Contracting Officer and the Contractor, acting in good faith, may rely on the representation of an Indian organization, Indian-owned economic enterprise, or Native Hawaiian small business concern as to its eligibility, unless an interested party challenges its status or the Contracting Officer has independent reason to question that status.
 
-(d) In the event of a challenge to the representation of a subcontractor, the Contracting Officer will refer the matter to -
+(d) In the event of a challenge to the representation of a subcontractor, the Contracting Officer will refer the matter to—
 
 (1)(i) For matters relating to Indian organizations or Indian-owned economic enterprises:
 
@@ -44,7 +44,7 @@ Department of Hawaiian Home Lands, P.O. Box 1879, Honolulu, HI 96805, Phone: 808
 
 (ii) The Department of Hawaiian Home Lands will determine the eligibility and will notify the Contracting Officer.
 
-(e) No incentive payment will be made -
+(e) No incentive payment will be made—
 
 (1) While a challenge is pending; or
 
@@ -54,7 +54,7 @@ Department of Hawaiian Home Lands, P.O. Box 1879, Honolulu, HI 96805, Phone: 808
 
 (2) The incentive amount that may be requested is 5 percent of the estimated cost, target cost, or fixed price included in the subcontract at the time of award to the Indian organization, Indian-owned economic enterprise, or Native Hawaiian small business concern.
 
-(3) In the case of a subcontract for commercial items, the Contractor may receive an incentive payment only if the subcontracted items are produced or manufactured in whole or in part by an Indian organization, Indian-owned economic enterprise, or Native Hawaiian small business concern.
+(3) In the case of a subcontract for commercial products or commercial services, the Contractor may receive an incentive payment only if the subcontracted items are produced or manufactured in whole or in part by an Indian organization, Indian-owned economic enterprise, or Native Hawaiian small business concern.
 
 (4) The Contractor has the burden of proving the amount claimed and shall assert its request for an incentive payment prior to completion of contract performance.
 
@@ -64,4 +64,4 @@ Department of Hawaiian Home Lands, P.O. Box 1879, Honolulu, HI 96805, Phone: 808
 
 (g) The Contractor shall insert the substance of this clause, including this paragraph (g), in all subcontracts exceeding $500,000.
 
-[68 FR 56562, Oct. 1, 2003, as amended at 69 FR 55991, Sept. 17, 2004; 84 FR 12142, Apr. 1, 2019]
+[68 FR 56562, Oct. 1, 2003, as amended at 69 FR 55991, Sept. 17, 2004; 84 FR 12142, Apr. 1, 2019; 88 FR 6593, Jan. 31, 2023]

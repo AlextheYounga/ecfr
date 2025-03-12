@@ -1,5 +1,7 @@
 ##### § 1.1107 Schedule of charges for applications and other filings for the international services. #####
 
+Link to an amendment published at 88 FR 6171, Jan. 31, 2023.
+
 Remit payment for these services electronically using the Commission's electronic payment system in accordance with the procedures set forth on the Commission's website, *www.fcc.gov/licensing-databases/fees.*
 
 Table 1 to § 1.1107

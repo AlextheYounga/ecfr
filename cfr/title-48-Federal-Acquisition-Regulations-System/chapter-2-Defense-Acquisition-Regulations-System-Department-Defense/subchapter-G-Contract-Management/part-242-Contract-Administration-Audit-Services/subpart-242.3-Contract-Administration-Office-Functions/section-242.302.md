@@ -2,7 +2,7 @@
 
 (a) (7) See 242.7502 for ACO responsibilities with regard to receipt of an audit report identifying significant accounting system or related internal control deficiencies.
 
-(9) For additional contract administration functions related to IR&D/B&P projects performed by major contractors, see 242.771-3(a).
+(9) For additional contract administration functions related to IR&D projects and B&P projects performed by major contractors, see 242.771-3(a).
 
 (12) Also perform all payment administration in accordance with any applicable payment clauses.
 
@@ -30,4 +30,4 @@
 
 (b)(S-70) Issue, negotiate, and execute orders under basic ordering agreements for overhaul, maintenance, and repair.
 
-[71 FR 44928, Aug. 8, 2006, as amended at 76 FR 36884, June 23, 2011; 76 FR 71830, Nov. 18, 2011; 77 FR 11365, Feb. 24, 2012; 77 FR 23632, Apr. 20, 2012; 78 FR 13544, Feb. 28, 2013; 79 FR 30471, May 28, 2014; 80 FR 36903, June 26, 2015; 81 FR 50648, Aug. 2, 2016]
+[71 FR 44928, Aug. 8, 2006, as amended at 76 FR 36884, June 23, 2011; 76 FR 71830, Nov. 18, 2011; 77 FR 11365, Feb. 24, 2012; 77 FR 23632, Apr. 20, 2012; 78 FR 13544, Feb. 28, 2013; 79 FR 30471, May 28, 2014; 80 FR 36903, June 26, 2015; 81 FR 50648, Aug. 2, 2016; 88 FR 6600, Jan. 31, 2023]

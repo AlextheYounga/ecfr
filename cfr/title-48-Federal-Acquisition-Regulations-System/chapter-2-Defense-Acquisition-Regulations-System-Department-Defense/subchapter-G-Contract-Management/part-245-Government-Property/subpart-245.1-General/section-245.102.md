@@ -1,12 +1,12 @@
 ##### 245.102 Policy. #####
 
-(*See* the policy guidance at PGI 245.102-70.)
+See the policy guidance at PGI 245.102-70.
 
 (1) *Mapping, charting, and geodesy property.* All Government-furnished mapping, charting, and geodesy (MC&G) property is under the control of the Director, National Geospatial Intelligence Agency.
 
 (i) MC&G property shall not be duplicated, copied, or otherwise reproduced for purposes other than those necessary for contract performance.
 
-(ii) Upon completion of contract performance, the contracting officer shall -
+(ii) Upon completion of contract performance, the contracting officer shall—
 
 (A) Contact the Director, National Geospatial-Intelligence Agency, 7500 Geoint Drive, Springfield, VA 22150, for disposition instructions;
 
@@ -22,15 +22,15 @@
 
 (i) It is DoD policy that Government-furnished property be tagged, labeled, or marked based on DoD marking standards (MIL Standard 130) or other standards, when the requiring activity determines that such items are subject to serialized item management (serially-managed items). The list of Government-furnished property subject to serialized item management will be identified in the contract in accordance with PGI 245.103-72, Government-furnished property attachments to solicitations and awards.
 
-(ii) *Exceptions.* The Contractor will not be required to tag, label, or mark -
+(ii) *Exceptions.* The Contractor will not be required to tag, label, or mark—
 
 (A) Government-furnished property that was previously tagged, labeled, or marked;
 
 (B) Items, as determined by the head of the agency, that are to be used to support a contingency operation; or to facilitate defense against or recovery from nuclear, biological, chemical, or radiological attack;
 
-(C) Items for which a determination and findings has been executed concluding that it is more cost effective for the Government requiring activity to assign, mark, and register the unique item identification after delivery of an item acquired from a small business concern or a commercial item acquired under FAR part 12 or part 8.
+(C) Items for which a determination and findings has been executed concluding that it is more cost effective for the Government requiring activity to assign, mark, and register the unique item identification after delivery of an item acquired from a small business concern or a commercial product acquired under FAR part 12 or part 8.
 
-(*1*) The determination and findings shall be executed by -
+(*1*) The determination and findings shall be executed by—
 
 (*i*) The Component Acquisition Executive for an Acquisition Category (ACAT) I program; or
 
@@ -50,4 +50,4 @@
 
 (5) *Reporting loss of Government property.* The Government-Furnished Property module of the Procurement Integrated Enterprise Environment is the DoD data repository for reporting loss of Government property in the possession of contractors. The requirements and procedures for reporting loss of Government property to the Government-Furnished Property module are set forth in the clause at 252.245-7002, Reporting Loss of Government Property, prescribed at 245.107.
 
-[74 FR 37647, July 29, 2009, as amended at 76 FR 3537, Jan. 20, 2011; 76 FR 6006, 6008, Feb. 2, 2011; 80 FR 2021, Jan. 15, 2015; 81 FR 36473, June 7, 2016; 86 FR 3839, Jan. 15, 2021]
+[74 FR 37647, July 29, 2009, as amended at 76 FR 3537, Jan. 20, 2011; 76 FR 6006, 6008, Feb. 2, 2011; 80 FR 2021, Jan. 15, 2015; 81 FR 36473, June 7, 2016; 86 FR 3839, Jan. 15, 2021; 88 FR 6588, Jan. 31, 2023]

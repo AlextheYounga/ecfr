@@ -1,14 +1,14 @@
-##### 252.211-7003 Item unique identification and valuation. #####
+##### 252.211-7003 Item Unique Identification and Valuation. #####
 
 As prescribed in 211.274-6(a)(1), use the following clause:
 
-Item Unique Identification and Valuation (MAR 2022)
+Item Unique Identification and Valuation (JAN 2023)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Automatic identification device* means a device, such as a reader or interrogator, used to retrieve data encoded on machine-readable media.
 
-*Concatenated unique item identifier* means -
+*Concatenated unique item identifier* means—
 
 (1) For items that are serialized within the enterprise identifier, the linking together of the unique identifier data elements in order of the issuing agency code, enterprise identifier, and unique serial number within the enterprise identifier; or
 
@@ -26,7 +26,7 @@ Item Unique Identification and Valuation (MAR 2022)
 
 *Enterprise identifier* means a code that is uniquely assigned to an enterprise by an issuing agency.
 
-*Government's unit acquisition cost* means -
+*Government's unit acquisition cost* means—
 
 (1) For fixed-price type line, subline, or exhibit line items, the unit price identified in the contract at the time of delivery;
 
@@ -88,15 +88,15 @@ Item Unique Identification and Valuation (MAR 2022)
 
 (2) The unique item identifier assignment and its component data element combination shall not be duplicated on any other item marked or registered in the DoD Item Unique Identification Registry by the contractor.
 
-(3) The unique item identifier component data elements shall be marked on an item using two dimensional data matrix symbology that complies with ISO/IEC International Standard 16022, Information technology - International symbology specification - Data matrix; ECC200 data matrix specification.
+(3) The unique item identifier component data elements shall be marked on an item using two dimensional data matrix symbology that complies with ISO/IEC International Standard 16022, Information technology—International symbology specification—Data matrix; ECC200 data matrix specification.
 
-(4) *Data syntax and semantics of unique item identifiers.* The Contractor shall ensure that -
+(4) *Data syntax and semantics of unique item identifiers.* The Contractor shall ensure that—
 
 (i) The data elements (except issuing agency code) of the unique item identifier are encoded within the data matrix symbol that is marked on the item using one of the following three types of data qualifiers, as determined by the Contractor:
 
-(A) Application Identifiers (AIs) (Format Indicator 05 of ISO/IEC International Standard 15434), in accordance with ISO/IEC International Standard 15418, Information Technology - EAN/UCC Application Identifiers and Fact Data Identifiers and Maintenance and ANSI MH 10.8.2 Data Identifier and Application Identifier Standard.
+(A) Application Identifiers (AIs) (Format Indicator 05 of ISO/IEC International Standard 15434), in accordance with ISO/IEC International Standard 15418, Information Technology—EAN/UCC Application Identifiers and Fact Data Identifiers and Maintenance and ANSI MH 10.8.2 Data Identifier and Application Identifier Standard.
 
-(B) Data Identifiers (DIs) (Format Indicator 06 of ISO/IEC International Standard 15434), in accordance with ISO/IEC International Standard 15418, Information Technology - EAN/UCC Application Identifiers and Fact Data Identifiers and Maintenance and ANSI MH 10.8.2 Data Identifier and Application Identifier Standard.
+(B) Data Identifiers (DIs) (Format Indicator 06 of ISO/IEC International Standard 15434), in accordance with ISO/IEC International Standard 15418, Information Technology—EAN/UCC Application Identifiers and Fact Data Identifiers and Maintenance and ANSI MH 10.8.2 Data Identifier and Application Identifier Standard.
 
 (C) Text Element Identifiers (TEIs) (Format Indicator 12 of ISO/IEC International Standard 15434), in accordance with the Air Transport Association Common Support Data Dictionary; and
 
@@ -104,9 +104,9 @@ Item Unique Identification and Valuation (MAR 2022)
 
 (5) *Unique item identifier.*
 
-(i) The Contractor shall -
+(i) The Contractor shall—
 
-(A) Determine whether to -
+(A) Determine whether to—
 
 (*1*) Serialize within the enterprise identifier;
 
@@ -120,7 +120,7 @@ Item Unique Identification and Valuation (MAR 2022)
 
 (D) Verify that the marks on items and labels on shipments, storage containers, and packages are machine readable and conform to the applicable standards. The contractor shall use an automatic identification technology device for this verification that has been programmed to the requirements of Appendix A, MIL-STD-130, latest version.
 
-(ii) The issuing agency code -
+(ii) The issuing agency code—
 
 (A) Shall not be placed on the item; and
 
@@ -186,7 +186,7 @@ Item Unique Identification and Valuation (MAR 2022)
 
 (1) End items shall be reported using the receiving report capability in Wide Area WorkFlow (WAWF) in accordance with the clause at 252.232-7003. If WAWF is not required by this contract, and the contractor is not using WAWF, follow the procedures at *http://dodprocurementtoolbox.com/site/uidregistry/.*
 
-(2) Embedded items shall be reported by one of the following methods -
+(2) Embedded items shall be reported by one of the following methods—
 
 (i) Use of the embedded items capability in WAWF;
 
@@ -194,6 +194,6 @@ Item Unique Identification and Valuation (MAR 2022)
 
 (iii) Via WAWF as a deliverable attachment for exhibit line item number (*fill in*) \_\_\_\_, Unique Item Identifier Report for Embedded Items, Contract Data Requirements List, DD Form 1423.
 
-(g) *Subcontracts.* If the Contractor acquires by contract any items for which item unique identification is required in accordance with paragraph (c)(1) of this clause, the Contractor shall include this clause, including this paragraph (g), in the applicable subcontract(s), including subcontracts for commercial items.
+(g) *Subcontracts.* If the Contractor acquires by subcontract any item(s) for which item unique identification is required in accordance with paragraph (c)(1) of this clause, the Contractor shall include this clause, including this paragraph (g), in the applicable subcontract(s), including subcontracts for commercial products or commercial services.
 
-(End of clause)[70 FR 20836, Apr. 22, 2005, as amended at 70 FR 35549, June 21, 2005; 72 FR 52298, Sept. 13, 2007; 73 FR 27464, May 13, 2008; 73 FR 46820, Aug. 12, 2008; 75 FR 59103, Sept. 27, 2010; 76 FR 33169, June 8, 2011; 76 FR 76320, Dec. 7, 2011; 78 FR 37990, June 25, 2013; 78 FR 76072, Dec. 16, 2013; 79 FR 30474, May 28, 2014; 81 FR 17043, Mar. 25, 2016; 87 FR 15818, Mar. 18, 2022]
+(End of clause)[70 FR 20836, Apr. 22, 2005, as amended at 70 FR 35549, June 21, 2005; 72 FR 52298, Sept. 13, 2007; 73 FR 27464, May 13, 2008; 73 FR 46820, Aug. 12, 2008; 75 FR 59103, Sept. 27, 2010; 76 FR 33169, June 8, 2011; 76 FR 76320, Dec. 7, 2011; 78 FR 37990, June 25, 2013; 78 FR 76072, Dec. 16, 2013; 79 FR 30474, May 28, 2014; 81 FR 17043, Mar. 25, 2016; 87 FR 15818, Mar. 18, 2022; 88 FR 6589, Jan. 31, 2023]

@@ -38,4 +38,4 @@
 
 (e) *Contracting officer notifications.* The cognizant contracting officer shall promptly distribute copies of a determination to approve a system, disapprove a system and withhold payments, or approve a previously disapproved system and release withheld payments to the auditor; payment office; affected contracting officers at the buying activities; and cognizant contracting officers in contract administration activities.
 
-[65 FR 77833, Dec. 13, 2000, as amended at 76 FR 28869, May 18, 2011; 77 FR 76940, Dec. 31, 2012; 87 FR 76996, Dec. 16, 2022]
+[65 FR 77833, Dec. 13, 2000, as amended at 76 FR 28869, May 18, 2011; 77 FR 76940, Dec. 31, 2012; 87 FR 76996, Dec. 16, 2022][65 FR 77833, Dec. 13, 2000, as amended at 88 FR 6588, Jan. 31, 2023]

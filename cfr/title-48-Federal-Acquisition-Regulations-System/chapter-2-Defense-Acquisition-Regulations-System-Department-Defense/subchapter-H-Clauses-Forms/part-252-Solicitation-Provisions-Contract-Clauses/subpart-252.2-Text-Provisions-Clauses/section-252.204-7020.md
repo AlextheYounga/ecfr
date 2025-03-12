@@ -2,11 +2,11 @@
 
 As prescribed in 204.7304(e), use the following clause:
 
-NIST SP 800-171 DOD ASSESSMENT REQUIREMENTS (MAR 2022)
+NIST SP 800-171 DOD Assessment Requirements (JAN 2023)
 
 (a) *Definitions.*
 
-*Basic Assessment* means a contractor's self-assessment of the contractor's implementation of NIST SP 800-171 that -
+*Basic Assessment* means a contractor's self-assessment of the contractor's implementation of NIST SP 800-171 that—
 
 (1) Is based on the Contractor's review of their system security plan(s) associated with covered contractor information system(s);
 
@@ -16,9 +16,9 @@ NIST SP 800-171 DOD ASSESSMENT REQUIREMENTS (MAR 2022)
 
 *Covered contractor information system* has the meaning given in the clause 252.204-7012, Safeguarding Covered Defense Information and Cyber Incident Reporting, of this contract.
 
-*High Assessment* means an assessment that is conducted by Government personnel using NIST SP 800-171A, Assessing Security Requirements for Controlled Unclassified Information that -
+*High Assessment* means an assessment that is conducted by Government personnel using NIST SP 800-171A, Assessing Security Requirements for Controlled Unclassified Information that—
 
-(1) Consists of -
+(1) Consists of—
 
 (i) A review of a contractor's Basic Assessment;
 
@@ -30,9 +30,9 @@ NIST SP 800-171 DOD ASSESSMENT REQUIREMENTS (MAR 2022)
 
 (2) Results in a confidence level of “High” in the resulting score.
 
-*Medium Assessment* means an assessment conducted by the Government that -
+*Medium Assessment* means an assessment conducted by the Government that—
 
-(1) Consists of -
+(1) Consists of—
 
 (i) A review of a contractor's Basic Assessment;
 
@@ -56,7 +56,7 @@ NIST SP 800-171 DOD ASSESSMENT REQUIREMENTS (MAR 2022)
 
 (B) Organization conducting the assessment (*e.g.,* Contractor self-assessment).
 
-(C) For each system security plan (security requirement 3.12.4) supporting the performance of a DoD contract -
+(C) For each system security plan (security requirement 3.12.4) supporting the performance of a DoD contract—
 
 (*1*) All industry Commercial and Government Entity (CAGE) code(s) associated with the information system(s) addressed by the system security plan; and
 
@@ -102,10 +102,10 @@ NIST SP 800-171 DOD ASSESSMENT REQUIREMENTS (MAR 2022)
 
 (3) A High NIST SP 800-171 DoD Assessment may result in documentation in addition to that listed in this clause. DoD will retain and protect any such documentation as “Controlled Unclassified Information (CUI)” and intended for internal DoD use only. The information will be protected against unauthorized use and release, including through the exercise of applicable exemptions under the Freedom of Information Act (*e.g.,* Exemption 4 covers trade secrets and commercial or financial information obtained from a contractor that is privileged or confidential).
 
-(g) *Subcontracts.* (1) The Contractor shall insert the substance of this clause, including this paragraph (g), in all subcontracts and other contractual instruments, including subcontracts for the acquisition of commercial items (excluding COTS items).
+(g) *Subcontracts.* (1) The Contractor shall insert the substance of this clause, including this paragraph (g), in all subcontracts and other contractual instruments, including subcontracts for the acquisition of commercial products or commercial services (excluding commercially available off-the-shelf items).
 
 (2) The Contractor shall not award a subcontract or other contractual instrument, that is subject to the implementation of NIST SP 800-171 security requirements, in accordance with DFARS clause 252.204-7012 of this contract, unless the subcontractor has completed, within the last 3 years, at least a Basic NIST SP 800-171 DoD Assessment, as described in *https://www.acq.osd.mil/asda/dpc/cp/cyber/safeguarding.html#nistSP800171,* for all covered contractor information systems relevant to its offer that are not part of an information technology service or system operated on behalf of the Government.
 
 (3) If a subcontractor does not have summary level scores of a current NIST SP 800-171 DoD Assessment (*i.e.,* not more than 3 years old unless a lesser time is specified in the solicitation) posted in SPRS, the subcontractor may conduct and submit a Basic Assessment, in accordance with the NIST SP 800-171 DoD Assessment Methodology, to *webptsmh@navy.mil* for posting to SPRS along with the information required by paragraph (d) of this clause.
 
-(End of clause)[85 FR 61520, Sept. 29, 2020, as amended at 87 FR 15818, Mar. 18, 2022]
+(End of clause)[85 FR 61520, Sept. 29, 2020, as amended at 87 FR 15818, Mar. 18, 2022; 88 FR 6589, Jan. 31, 2023]

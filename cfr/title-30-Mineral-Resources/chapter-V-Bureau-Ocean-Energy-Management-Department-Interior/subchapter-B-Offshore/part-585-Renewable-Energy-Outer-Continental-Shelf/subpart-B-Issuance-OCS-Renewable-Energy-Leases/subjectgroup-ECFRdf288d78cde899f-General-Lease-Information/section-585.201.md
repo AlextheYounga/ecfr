@@ -1,0 +1,3 @@
+##### § 585.201 How will BOEM issue leases? #####
+
+BOEM will issue leases on a competitive basis, as provided under §§ 585.210 through 585.225. However, if we determine after public notice of a proposed lease that there is no competitive interest, we will issue leases noncompetitively, as provided under §§ 585.230 and 585.232. We will issue leases on forms approved by BOEM and will include terms, conditions, and stipulations identified and developed through the process set forth in §§ 585.211 and 585.231.

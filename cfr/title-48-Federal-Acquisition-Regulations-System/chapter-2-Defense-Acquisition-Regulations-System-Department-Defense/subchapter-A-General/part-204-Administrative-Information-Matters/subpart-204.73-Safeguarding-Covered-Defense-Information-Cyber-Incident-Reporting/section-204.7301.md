@@ -1,6 +1,6 @@
 ##### 204.7301 Definitions. #####
 
-As used in this subpart -
+As used in this subpart—
 
 *Adequate security* means protective measures that are commensurate with the consequences and probability of loss, misuse, or unauthorized access to, or modification of information.
 
@@ -10,7 +10,7 @@ As used in this subpart -
 
 *Covered contractor information system* means an unclassified information system that is owned, or operated by or for, a contractor and that processes, stores, or transmits covered defense information.
 
-*Covered defense information* means unclassified controlled technical information or other information (as described in the Controlled Unclassified Information (CUI) Registry at *http://www.archives.gov/cui/registry/category-list.html*) that requires safeguarding or dissemination controls pursuant to and consistent with law, regulations, and Governmentwide policies, and is -
+*Covered defense information* means unclassified controlled technical information or other information (as described in the Controlled Unclassified Information (CUI) Registry at *http://www.archives.gov/cui/registry/category-list.html*) that requires safeguarding or dissemination controls pursuant to and consistent with law, regulations, and Governmentwide policies, and is—
 
 (1) Marked or otherwise identified in the contract, task order, or delivery order and provided to the contractor by or on behalf of DoD in support of the performance of the contract; or
 
@@ -22,6 +22,6 @@ As used in this subpart -
 
 *Rapidly report* means within 72 hours of discovery of any cyber incident.
 
-*Technical information* means technical data or computer software, as those terms are defined in the clause at DFARS 252.227-7013, Rights in Technical Data - Non Commercial Items, regardless of whether or not the clause is incorporated in this solicitation or contract. Examples of technical information include research and engineering data, engineering drawings, and associated lists, specifications, standards, process sheets, manuals, technical reports, technical orders, catalog-item identifications, data sets, studies and analyses and related information, and computer software executable code and source code.
+*Technical information* means technical data or computer software, as those terms are defined in the clause at DFARS 252.227-7013, Rights in Technical Data—Other Than Commercial Products and Commercial Services, regardless of whether or not the clause is incorporated in the solicitation or contract. Examples of technical information include research and engineering data, engineering drawings, and associated lists, specifications, standards, process sheets, manuals, technical reports, technical orders, catalog-item identifications, data sets, studies and analyses and related information, and computer software executable code and source code.
 
-[78 FR 69279, Nov. 18, 2013, as amended at 80 FR 51742, Aug. 26, 2015; 81 FR 72998, Oct. 21, 2016]
+[78 FR 69279, Nov. 18, 2013, as amended at 80 FR 51742, Aug. 26, 2015; 81 FR 72998, Oct. 21, 2016; 88 FR 6580, Jan. 31, 2023]

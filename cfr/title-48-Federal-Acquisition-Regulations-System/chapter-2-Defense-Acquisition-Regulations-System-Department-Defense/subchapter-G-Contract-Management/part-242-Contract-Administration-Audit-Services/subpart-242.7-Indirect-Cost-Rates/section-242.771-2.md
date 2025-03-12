@@ -1,5 +1,5 @@
 ##### 242.771-2 Policy. #####
 
-Defense contractors are encouraged to engage in independent research and development and bid and proposal (IR&D/B&P) activities of potential interest to DoD, including activities cited in 231.205-18(c)(iii)(B).
+Defense contractors are encouraged to engage in independent research and development (IR&D) projects that will advance the needs of DoD for future technology and advanced capability (see 231.205-18(c)(iii)).
 
-[64 FR 8730, Feb. 23, 1999]
+[88 FR 6600, Jan. 31, 2023]

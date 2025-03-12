@@ -18,7 +18,7 @@
 
 (1) Electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to 10 U.S.C. 187, determines that the domestic availability of a particular electronic component is critical to national security.
 
-(2)(i) Commercially available off-the-shelf (COTS) items containing specialty metals, except the restrictions do apply to contracts or subcontracts for the acquisition of -
+(2)(i) Commercially available off-the-shelf (COTS) items containing specialty metals, except the restrictions do apply to contracts or subcontracts for the acquisition of—
 
 (A) Specialty metal mill products, such as bar, billet, slab, wire, plate, and sheet, that have not been incorporated into end items, subsystems, assemblies, or components. Specialty metal supply contracts issued by COTS producers are not subcontracts for the purposes of this exception;
 
@@ -26,15 +26,15 @@
 
 (C) Commercially available high performance magnets that contain specialty metal, unless such high performance magnets are incorporated into COTS end items or subsystems (see PGI 225.7003-3(b)(6) for a table of applicability of specialty metals restrictions to magnets); and
 
-(D) COTS fasteners, unless -
+(D) COTS fasteners, unless—
 
 (*1*) The fasteners are incorporated into COTS end items, subsystems, or assemblies; or
 
-(*2*) The fasteners qualify for the commercial item exception in paragraph (b)(3) of this subsection.
+(*2*) The fasteners qualify for the commercial product exception in paragraph (b)(3) of this section.
 
 (ii) If this exception is used for an acquisition of COTS end items valued at $5 million or more per item, the acquiring department or agency shall submit an annual report to the Director, Defense Procurement and Acquisition Policy, in accordance with the procedures at PGI 225.7003-3(b)(2).
 
-(3) Fasteners that are commercial items and are acquired under a contract or subcontract with a manufacturer of such fasteners, if the manufacturer has certified that it will purchase, during the relevant calendar year, an amount of domestically melted or produced specialty metal, in the required form, for use in the production of fasteners for sale to DoD and other customers, that is not less than 50 percent of the total amount of the specialty metal that the manufacturer will purchase to carry out the production of such fasteners for all customers.
+(3) Fasteners that are commercial products and are acquired under a contract or subcontract with a manufacturer of such fasteners, if the manufacturer has certified that it will purchase, during the relevant calendar year, an amount of domestically melted or produced specialty metal, in the required form, for use in the production of fasteners for sale to DoD and other customers, that is not less than 50 percent of the total amount of the specialty metal that the manufacturer will purchase to carry out the production of such fasteners for all customers.
 
 (4) Items listed in 225.7003-2(a), manufactured in a qualifying country or containing specialty metals melted or produced in a qualifying country.
 
@@ -44,13 +44,13 @@
 
 (ii) A domestic nonavailability determination that applies to more than one contract (*i.e.,* a class domestic nonavailability determination), requires the approval of the USD(A&S).
 
-(A) At least 30 days before making a domestic nonavailability determination that would apply to more than one contract, the USD(A&S) will, to the maximum extent practicable, and in a manner consistent with the protection of national security and confidential business information -
+(A) At least 30 days before making a domestic nonavailability determination that would apply to more than one contract, the USD(A&S) will, to the maximum extent practicable, and in a manner consistent with the protection of national security and confidential business information—
 
 (*1*) Publish a notice on the Federal Business Opportunities Web site (*http://www.FedBizOpps.gov* or any successor site) of the intent to make the domestic nonavailability determination; and
 
 (*2*) Solicit information relevant to such notice from interested parties, including producers of specialty metal mill products.
 
-(B) The USD(A&S) -
+(B) The USD(A&S)—
 
 (*1*) Will take into consideration all information submitted in response to the notice in making a class domestic nonavailability determination;
 
@@ -60,7 +60,7 @@
 
 (6) End items containing a minimal amount of otherwise noncompliant specialty metals (*i.e.,* specialty metals not melted or produced in the United States that are not covered by another exception listed in this paragraph (b)), if the total weight of noncompliant specialty metal does not exceed 2 percent of the total weight of all specialty metal in the end item. This exception does not apply to high performance magnets containing specialty metals. See PGI 225.7003-3(b)(6) for a table of applicability of specialty metals restrictions to magnets.
 
-(c) *Compliance for commercial derivative military articles.* The restrictions at 225.7003-2(a) do not apply to an item acquired under a prime contract if -
+(c) *Compliance for commercial derivative military articles.* The restrictions at 225.7003-2(a) do not apply to an item acquired under a prime contract if—
 
 (1) The offeror has certified, and subsequently demonstrates, that the offeror and its subcontractor(s) will individually or collectively enter into a contractual agreement or agreements to purchase a sufficient quantity of domestically melted or produced specialty metal in accordance with the provision at 252.225-7010; and
 
@@ -68,7 +68,7 @@
 
 (d) *National security waiver.* The USD(A&S) may waive the restrictions at 225.7003-2 if the USD(A&S) determines in writing that acceptance of the item is necessary to the national security interests of the United States (*see* procedures at PGI 225.7003-3(d). This authority may not be delegated.
 
-(1) The written determination of the USD(A&S) -
+(1) The written determination of the USD(A&S)—
 
 (i) Shall specify the quantity of end items to which the national security waiver applies;
 
@@ -76,7 +76,7 @@
 
 (iii) Shall be provided to the congressional defense committees before the determination is executed, except that in the case of an urgent national security requirement, the determination may be provided to the congressional defense committees up to 7 days after it is executed.
 
-(2) After making such a determination, the USD(A&S) will -
+(2) After making such a determination, the USD(A&S) will—
 
 (i) Ensure that the contractor or subcontractor responsible for the noncompliant specialty metal develops and implements an effective plan to ensure future compliance; and
 
@@ -84,4 +84,4 @@
 
 (3) Because national security waivers will only be granted when the acquisition in question is necessary to the national security interests of the United States, the requirement for a plan will be applied as a condition subsequent, and not a condition precedent, to the granting of a waiver.
 
-[74 FR 37636, July 29, 2009, as amended at 75 FR 48280, Aug. 10, 2010; 79 FR 17446, Mar. 28, 2014; 84 FR 72244, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020; 87 FR 76994, Dec. 16, 2022]
+[74 FR 37636, July 29, 2009, as amended at 75 FR 48280, Aug. 10, 2010; 79 FR 17446, Mar. 28, 2014; 84 FR 72244, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020; 87 FR 76994, Dec. 16, 2022; 88 FR 6584, Jan. 31, 2023]

@@ -2,9 +2,9 @@
 
 As prescribed in 223.7306, use the following clause:
 
-Prohibition of Hexavalent Chromium (JUN 2013)
+Prohibition of Hexavalent Chromium (JAN 2023)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Homogeneous material* means a material that cannot be mechanically disjointed into different materials and is of uniform composition throughout.
 
@@ -12,7 +12,7 @@ Prohibition of Hexavalent Chromium (JUN 2013)
 
 (2) Homogeneous material does not include conversion coatings that chemically modify the substrate. *Mechanically disjointed* means that the materials can, in principle, be separated by mechanical actions such as unscrewing, cutting, crushing, grinding, and abrasive processes.
 
-(b) *Prohibition.* (1) Unless otherwise specified by the Contracting Officer, the Contractor shall not provide any deliverable or construction material under this contract that -
+(b) *Prohibition.* (1) Unless otherwise specified by the Contracting Officer, the Contractor shall not provide any deliverable or construction material under this contract that—
 
 (i) Contains hexavalent chromium in a concentration greater than 0.1 percent by weight in any homogenous material; or
 
@@ -22,6 +22,6 @@ Prohibition of Hexavalent Chromium (JUN 2013)
 
 (c) If authorization for incorporation of hexavalent chromium in a deliverable or construction material is required, the Contractor shall submit a request to the Contracting Officer.
 
-(d) *Subcontracts.* The Contractor shall include the substance of this clause, including this paragraph (d), in all subcontracts, including subcontracts for commercial items, that are for supplies,, maintenance and repair services, or construction materials.
+(d) *Subcontracts.* The Contractor shall include the substance of this clause, including this paragraph (d), in all subcontracts, including subcontracts for commercial products or commercial services, that are for supplies, maintenance and repair services, or construction materials.
 
-(End of clause)[76 FR 25576, May 5, 2011, as amended at 78 FR 37990, June 25, 2013]
+(End of clause)[76 FR 25576, May 5, 2011, as amended at 78 FR 37990, June 25, 2013; 88 FR 6591, Jan. 31, 2023]

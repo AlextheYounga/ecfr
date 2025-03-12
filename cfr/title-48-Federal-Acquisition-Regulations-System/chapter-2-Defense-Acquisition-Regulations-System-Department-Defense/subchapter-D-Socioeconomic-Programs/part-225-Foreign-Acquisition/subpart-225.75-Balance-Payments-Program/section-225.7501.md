@@ -1,12 +1,12 @@
 ##### 225.7501 Policy. #####
 
-Acquire only domestic end products for use outside the United States, and use only domestic construction material for construction to be performed outside the United States, including end products and construction material for foreign military sales, unless -
+Acquire only domestic end products for use outside the United States, and use only domestic construction material for construction to be performed outside the United States, including end products and construction material for foreign military sales, unless—
 
-(a) Before issuing the solicitation -
+(a) Before issuing the solicitation—
 
 (1) The estimated cost of the acquisition or the value of a particular construction material is at or below the simplified acquisition threshold;
 
-(2) The end product or particular construction material is -
+(2) The end product or particular construction material is—
 
 (i) Listed in FAR 25.104;
 
@@ -18,7 +18,7 @@ Acquire only domestic end products for use outside the United States, and use on
 
 (v) A brand drug specified by the Defense Medical Materiel Board; or
 
-(vi) Information technology that is a commercial item, using fiscal year 2004 or subsequent funds (Section 535 of Division F of the Consolidated Appropriations Act, 2004 (Pub. L. 108-199), and the same provision in subsequent appropriations acts);
+(vi) Information technology that is a commercial product, using fiscal year 2004 or subsequent funds (section 535 of Division F of the Consolidated Appropriations Act, 2004 (Pub. L. 108-199), and the same provision in subsequent appropriations acts);
 
 (3) The acquisition is covered by the World Trade Organization Government Procurement Agreement;
 
@@ -28,7 +28,7 @@ Acquire only domestic end products for use outside the United States, and use on
 
 (6) The end product is acquired for commissary resale; or
 
-(7) The contracting officer determines that a requirement can best be filled by a foreign end product or construction material, including determinations that -
+(7) The contracting officer determines that a requirement can best be filled by a foreign end product or construction material, including determinations that—
 
 (i) A subsistence product is perishable and delivery from the United States would significantly impair the quality at the point of consumption;
 
@@ -36,7 +36,7 @@ Acquire only domestic end products for use outside the United States, and use on
 
 (iii) A particular domestic construction material is not available;
 
-(iv) The cost of domestic construction material would exceed the cost of foreign construction material by more than 50 percent, calculated on the basis of -
+(iv) The cost of domestic construction material would exceed the cost of foreign construction material by more than 50 percent, calculated on the basis of—
 
 (A) A particular construction material; or
 
@@ -44,9 +44,9 @@ Acquire only domestic end products for use outside the United States, and use on
 
 (v) Use of a particular domestic construction material is impracticable;
 
-(b) After receipt of offers -
+(b) After receipt of offers—
 
-(1) The evaluated low offer (*see* Subpart 225.5) is an offer of an end product that -
+(1) The evaluated low offer (*see* Subpart 225.5) is an offer of an end product that—
 
 (i) Is a qualifying country end product;
 
@@ -60,4 +60,4 @@ Acquire only domestic end products for use outside the United States, and use on
 
 (c) At any time during the acquisition process, the head of the agency determines that it is not in the public interest to apply the restrictions of the Balance of Payments Program to the end product or construction material.
 
-[67 FR 20694, Apr. 26, 2002, as amended at 67 FR 77939, Dec. 20, 2002; 69 FR 1928, Jan. 13, 2004; 70 FR 2363, Jan. 13, 2005; 70 FR 73155, Dec. 9, 2005; 71 FR 58540, Oct. 4, 2006; 73 FR 53153, Sept. 15, 2008; 75 FR 81917, Dec. 29, 2010; 76 FR 76320, Dec. 7, 2011; 78 FR 59857, Sept. 30, 2013; 82 FR 61481, Dec. 28, 2017]
+[67 FR 20694, Apr. 26, 2002, as amended at 67 FR 77939, Dec. 20, 2002; 69 FR 1928, Jan. 13, 2004; 70 FR 2363, Jan. 13, 2005; 70 FR 73155, Dec. 9, 2005; 71 FR 58540, Oct. 4, 2006; 73 FR 53153, Sept. 15, 2008; 75 FR 81917, Dec. 29, 2010; 76 FR 76320, Dec. 7, 2011; 78 FR 59857, Sept. 30, 2013; 82 FR 61481, Dec. 28, 2017; 88 FR 6584, Jan. 31, 2023]

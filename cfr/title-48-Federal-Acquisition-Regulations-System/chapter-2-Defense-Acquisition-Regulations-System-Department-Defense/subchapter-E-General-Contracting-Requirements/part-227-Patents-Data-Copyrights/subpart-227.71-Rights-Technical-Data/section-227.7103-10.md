@@ -4,13 +4,13 @@
 
 (2) The procedures for correcting minor informalities shall not be used to obtain information regarding asserted restrictions or an offeror's suggested asserted rights category. Questions regarding the justification for an asserted restriction or asserted rights category must be pursued in accordance with the procedures at 227.7103-13.
 
-(3) The restrictions asserted by a successful offeror shall be attached to its contract unless, in accordance with the procedures at 227.7103-13, the parties have agreed that an asserted restriction is not justified. The contract attachment shall provide the same information regarding identification of the technical data, the asserted rights category, the basis for the assertion, and the name of the person asserting the restrictions as required by paragraph (d) of the solicitation provision at 252.227-7017. Subsequent to contract award, the clause at 252.227-7013, Rights in Technical Data - Noncommercial Items, permits the contractor to make additional assertions under certain conditions. The additional assertions must be made in accordance with the procedures and in the format prescribed by that clause.
+(3) The restrictions asserted by a successful offeror shall be attached to its contract unless, in accordance with the procedures at 227.7103-13, the parties have agreed that an asserted restriction is not justified. The contract attachment shall provide the same information regarding identification of the technical data, the asserted rights category, the basis for the assertion, and the name of the person asserting the restrictions as required by paragraph (d) of the solicitation provision at 252.227-7017. Subsequent to contract award, the clause at 252.227-7013, Rights in Technical Data - Other Than Commercial Products and Commercial Services , permits the contractor to make additional assertions under certain conditions. The additional assertions must be made in accordance with the procedures and in the format prescribed by that clause.
 
 (4) Neither the pre- or post-award assertions made by the contractor, nor the fact that certain assertions are identified in the attachment to the contract, determine the respective rights of the parties. As provided at 227.7103-13, the Government has the right to review, verify, challenge and validate restrictive markings.
 
 (5) Information provided by offerors in response to the solicitation provision may be used in the source selection process to evaluate the impact on evaluation factors that may be created by restrictions on the Government's ability to use or disclose technical data. However, offerors shall not be prohibited from offering products for which the offeror is entitled to provide the Government limited rights in the technical data pertaining to such products and offerors shall not be required, either as a condition of being responsive to a solicitation or as a condition for award, to sell or otherwise relinquish any greater rights in technical data when the offeror is entitled to provide the technical data with limited rights.
 
-(b) *Contractor marking requirements.* The clause at 252.227-7013, Rights in Technical Data - Noncommercial Items -
+(b) *Contractor marking requirements.* The clause at 252.227-7013, Rights in Technical Data - Other Than Commercial Products and Commercial Services -
 
 (1) Requires a contractor that desires to restrict the Government's rights in technical data to place restrictive markings on the data, provides instructions for the placement of the restrictive markings, and authorizes the use of certain restrictive markings; and
 
@@ -28,4 +28,4 @@
 
 (3) Contracting officers should grant permission to mark only if the technical data were not distributed outside the Government or were distributed outside the Government with restrictions on further use or disclosure.
 
-[60 FR 33471, June 28, 1995, as amended at 82 FR 61481, Dec. 28, 2017]
+[60 FR 33471, June 28, 1995, as amended at 82 FR 61481, Dec. 28, 2017; 88 FR 6585, Jan. 31, 2023]

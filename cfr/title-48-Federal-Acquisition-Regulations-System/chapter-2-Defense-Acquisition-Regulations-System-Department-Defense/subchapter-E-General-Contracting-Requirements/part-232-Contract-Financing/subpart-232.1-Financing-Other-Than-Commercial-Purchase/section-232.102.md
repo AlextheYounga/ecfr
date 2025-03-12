@@ -1,0 +1,3 @@
+##### 232.102 Description of contract financing methods. #####
+
+(e)(2) Progress payments based on percentage or stage of completion are authorized only for contracts for construction (as defined in FAR 36.102), shipbuilding, and ship conversion, alteration, or repair. However, percentage or state of completion methods of measuring contractor performance may be used for performance-based payments in accordance with FAR Subpart 32.10.

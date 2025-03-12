@@ -1,0 +1,1 @@
+##### 225.7023 Restriction on acquisition of personal protective equipment and certain other items from non-allied foreign nations. #####

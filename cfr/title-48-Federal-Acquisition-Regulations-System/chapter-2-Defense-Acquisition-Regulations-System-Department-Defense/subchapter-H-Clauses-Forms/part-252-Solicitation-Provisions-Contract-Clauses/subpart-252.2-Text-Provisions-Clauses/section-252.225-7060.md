@@ -2,13 +2,13 @@
 
 As prescribed in 225.7022-5(b), use the following clause:
 
-Prohibition on Certain Procurements From The Xinjiang Uyghur Autonomous Region (DEC 2022)
+Prohibition on Certain Procurements From the Xinjiang Uyghur Autonomous Region (JAN 2023)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Forced Labor* means all work or service which is exacted from any person under the menace of any penalty for its nonperformance and for which the worker does not offer themselves voluntarily.
 
-*Person* means -
+*Person* means—
 
 (1) A natural person, corporation, company, business association, partnership, society, trust, or any other nongovernmental entity, organization, or group; or
 
@@ -18,6 +18,6 @@ Prohibition on Certain Procurements From The Xinjiang Uyghur Autonomous Region (
 
 (b) *Prohibition.* The Contractor shall not provide any products mined, produced, or manufactured wholly or in part by forced labor from XUAR or from an entity that has used labor from within or transferred from XUAR as part of any forced labor programs throughout the entire period of performance of the contract.
 
-(c) *Subcontracts.* The Contractor shall insert this clause, including this paragraph (c), without alteration other than to identify the appropriate parties, in subcontracts including subcontracts for commercial items and commercially available off-the-shelf items.
+(c) *Subcontracts.* The Contractor shall insert this clause, including this paragraph (c), without alteration other than to identify the appropriate parties, in subcontracts including subcontracts for commercial products, commercially available off-the-shelf items, and commercial services.
 
-(End of clause)[87 FR 76984, Dec. 16, 2022]
+(End of clause)[87 FR 76984, Dec. 16, 2022, as amended at 88 FR 6593, Jan. 31, 2023]

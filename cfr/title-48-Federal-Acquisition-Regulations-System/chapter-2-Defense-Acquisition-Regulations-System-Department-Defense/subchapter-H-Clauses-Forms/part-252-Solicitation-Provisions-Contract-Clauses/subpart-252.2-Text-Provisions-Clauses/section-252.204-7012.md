@@ -1,10 +1,10 @@
-##### 252.204-7012 Safeguarding covered defense information and cyber incident reporting. #####
+##### 252.204-7012 Safeguarding Covered Defense Information and Cyber Incident Reporting. #####
 
-As prescribed in 204.7304c, use the following clause:
+As prescribed in 204.7304(c), use the following clause:
 
-Safeguarding Covered Defense Information and Cyber Incident Reporting (DEC 2019)
+Safeguarding Covered Defense Information and Cyber Incident Reporting (JAN 2023)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Adequate security* means protective measures that are commensurate with the consequences and probability of loss, misuse, or unauthorized access to, or modification of information.
 
@@ -16,7 +16,7 @@ Safeguarding Covered Defense Information and Cyber Incident Reporting (DEC 2019)
 
 *Covered contractor information system* means an unclassified information system that is owned, or operated by or for, a contractor and that processes, stores, or transmits covered defense information.
 
-*Covered defense information* means unclassified controlled technical information or other information, as described in the Controlled Unclassified Information (CUI) Registry at *http://www.archives.gov/cui/registry/category-list.html,* that requires safeguarding or dissemination controls pursuant to and consistent with law, regulations, and Governmentwide policies, and is -
+*Covered defense information* means unclassified controlled technical information or other information, as described in the Controlled Unclassified Information (CUI) Registry at *http://www.archives.gov/cui/registry/category-list.html,* that requires safeguarding or dissemination controls pursuant to and consistent with law, regulations, and Governmentwide policies, and is—
 
 (1) Marked or otherwise identified in the contract, task order, or delivery order and provided to the contractor by or on behalf of DoD in support of the performance of the contract; or
 
@@ -36,7 +36,7 @@ Safeguarding Covered Defense Information and Cyber Incident Reporting (DEC 2019)
 
 *Rapidly report* means within 72 hours of discovery of any cyber incident.
 
-*Technical information* means technical data or computer software, as those terms are defined in the clause at DFARS *252.227-7013,* Rights in Technical Data - Noncommercial Items, regardless of whether or not the clause is incorporated in this solicitation or contract. Examples of technical information include research and engineering data, engineering drawings, and associated lists, specifications, standards, process sheets, manuals, technical reports, technical orders, catalog-item identifications, data sets, studies and analyses and related information, and computer software executable code and source code.
+*Technical information* means technical data or computer software, as those terms are defined in the clause at DFARS *252.227-7013,* Rights in Technical Data—Other Than Commercial Products and Commercial Services, regardless of whether or not the clause is incorporated in this solicitation or contract. Examples of technical information include research and engineering data, engineering drawings, and associated lists, specifications, standards, process sheets, manuals, technical reports, technical orders, catalog-item identifications, data sets, studies and analyses and related information, and computer software executable code and source code.
 
 (b) *Adequate security.* The Contractor shall provide adequate security on all covered contractor information systems. To provide adequate security, the Contractor shall implement, at a minimum, the following information security protections:
 
@@ -62,7 +62,7 @@ Safeguarding Covered Defense Information and Cyber Incident Reporting (DEC 2019)
 
 (c) *Cyber incident reporting requirement.*
 
-(1) When the Contractor discovers a cyber incident that affects a covered contractor information system or the covered defense information residing therein, or that affects the contractor's ability to perform the requirements of the contract that are designated as operationally critical support and identified in the contract, the Contractor shall -
+(1) When the Contractor discovers a cyber incident that affects a covered contractor information system or the covered defense information residing therein, or that affects the contractor's ability to perform the requirements of the contract that are designated as operationally critical support and identified in the contract, the Contractor shall—
 
 (i) Conduct a review for evidence of compromise of covered defense information, including, but not limited to, identifying compromised computers, servers, specific data, and user accounts. This review shall also include analyzing covered contractor information system(s) that were part of the cyber incident, as well as other information systems on the Contractor's network(s), that may have been accessed as a result of the incident in order to identify compromised covered defense information, or that affect the Contractor's ability to provide operationally critical support; and
 
@@ -82,7 +82,7 @@ Safeguarding Covered Defense Information and Cyber Incident Reporting (DEC 2019)
 
 (h) *DoD safeguarding and use of contractor attributional/proprietary information.* The Government shall protect against the unauthorized use or release of information obtained from the contractor (or derived from information obtained from the contractor) under this clause that includes contractor attributional/proprietary information, including such information submitted in accordance with paragraph (c). To the maximum extent practicable, the Contractor shall identify and mark attributional/proprietary information. In making an authorized release of such information, the Government will implement appropriate procedures to minimize the contractor attributional/proprietary information that is included in such authorized release, seeking to include only that information that is necessary for the authorized purpose(s) for which the information is being released.
 
-(i) *Use and release of contractor attributional/proprietary information not created by or for DoD.* Information that is obtained from the contractor (or derived from information obtained from the contractor) under this clause that is not created by or for DoD is authorized to be released outside of DoD -
+(i) *Use and release of contractor attributional/proprietary information not created by or for DoD.* Information that is obtained from the contractor (or derived from information obtained from the contractor) under this clause that is not created by or for DoD is authorized to be released outside of DoD—
 
 (1) To entities with missions that may be affected by such information;
 
@@ -100,14 +100,14 @@ Safeguarding Covered Defense Information and Cyber Incident Reporting (DEC 2019)
 
 (l) *Other safeguarding or reporting requirements.* The safeguarding and cyber incident reporting required by this clause in no way abrogates the Contractor's responsibility for other safeguarding or cyber incident reporting pertaining to its unclassified information systems as required by other applicable clauses of this contract, or as a result of other applicable U.S. Government statutory or regulatory requirements.
 
-(m) *Subcontracts.* The Contractor shall -
+(m) *Subcontracts.* The Contractor shall—
 
-(1) Include this clause, including this paragraph (m), in subcontracts, or similar contractual instruments, for operationally critical support, or for which subcontract performance will involve covered defense information, including subcontracts for commercial items, without alteration, except to identify the parties. The Contractor shall determine if the information required for subcontractor performance retains its identity as covered defense information and will require protection under this clause, and, if necessary, consult with the Contracting Officer; and
+(1) Include this clause, including this paragraph (m), in subcontracts, or similar contractual instruments, for operationally critical support, or for which subcontract performance will involve covered defense information, including subcontracts for commercial products or commercial services, without alteration, except to identify the parties. The Contractor shall determine if the information required for subcontractor performance retains its identity as covered defense information and will require protection under this clause, and, if necessary, consult with the Contracting Officer; and
 
-(2) Require subcontractors to -
+(2) Require subcontractors to—
 
 (i) Notify the prime Contractor (or next higher-tier subcontractor) when submitting a request to vary from a NIST SP 800-171 security requirement to the Contracting Officer, in accordance with paragraph (b)(2)(ii)(B) of this clause; and
 
 (ii) Provide the incident report number, automatically assigned by DoD, to the prime Contractor (or next higher-tier subcontractor) as soon as practicable, when reporting a cyber incident to DoD as required in paragraph (c) of this clause.
 
-(End of clause)[80 FR 51745, Aug. 26, 2015, as amended at 80 FR 56930, Sept. 21, 2015; 80 FR 81474, Dec. 30, 2015; 81 FR 73000, Oct. 21, 2016; 84 FR 72563, Dec. 31, 2019]
+(End of clause)[80 FR 51745, Aug. 26, 2015, as amended at 80 FR 56930, Sept. 21, 2015; 80 FR 81474, Dec. 30, 2015; 81 FR 73000, Oct. 21, 2016; 84 FR 72563, Dec. 31, 2019; 88 FR 6589, Jan. 31, 2023]

@@ -1,5 +1,7 @@
 ##### § 1.1105 Schedule of charges for applications and other filings for the wireline competition services. #####
 
+Link to an amendment published at 88 FR 6171, Jan. 31, 2023.
+
 Payments should be made electronically using the Commission's electronic filing and payment system “Fee Filer” (*www.fcc.gov/feefiler*). Manual filings and/or payments for these services are no longer accepted.
 
 Table 1 to § 1.1105

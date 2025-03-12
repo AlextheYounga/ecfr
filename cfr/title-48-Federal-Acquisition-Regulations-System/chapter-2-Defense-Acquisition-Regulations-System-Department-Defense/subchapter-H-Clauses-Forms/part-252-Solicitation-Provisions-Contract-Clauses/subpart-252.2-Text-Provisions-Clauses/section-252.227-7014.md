@@ -1,8 +1,8 @@
-##### 252.227-7014 Rights in noncommercial computer software and noncommercial computer software documentation. #####
+##### 252.227-7014 Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation. #####
 
-As prescribed in 227.7203-6(a)(1), use the following clause.
+As prescribed in 227.7203-6(a)(1), use the following clause:
 
-Rights in Noncommercial Computer Software and Noncommercial Computer Software Documentation (FEB 2014)
+Rights In Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation (JAN 2023)
 
 (a) *Definitions.* As used in this clause -
 
@@ -58,9 +58,9 @@ Rights in Noncommercial Computer Software and Noncommercial Computer Software Do
 
 (13) *Minor modification* means a modification that does not significantly alter the nongovernmental function or purpose of the software or is of the type customarily provided in the commercial marketplace.
 
-(14) *Noncommercial computer software* means software that does not qualify as commercial computer software under paragraph (a)(1) of this clause.
+(14) *Other than commercial computer software* means software that does not qualify as commercial computer software under the definition of “commercial computer software” of this clause.
 
-(15) “Restricted rights” apply only to noncommercial computer software and mean the Government's rights to -
+(15) *Restricted rights* apply only to other than commercial computer software and mean the Government's rights to -
 
 (i) Use a computer program with one computer at one time. The program may not be accessed by more than one terminal or central processing unit or time shared unless otherwise permitted by this contract;
 
@@ -100,7 +100,7 @@ Rights in Noncommercial Computer Software and Noncommercial Computer Software Do
 
 (16) *Unlimited rights* means rights to use, modify, reproduce, release, perform, display, or disclose computer software or computer software documentation in whole or in part, in any manner and for any purpose whatsoever, and to have or authorize others to do so.
 
-(b) *Rights in computer software or computer software documentation.* The Contractor grants or shall obtain for the Government the following royalty free, world-wide, nonexclusive, irrevocable license rights in noncommercial computer software or computer software documentation. All rights not granted to the Government are retained by the Contractor.
+(b) *Rights in computer software or computer software documentation.* The Contractor grants or shall obtain for the Government the following royalty free, worldwide , nonexclusive, irrevocable license rights in other than commercial computer software or computer software documentation. All rights not granted to the Government are retained by the Contractor.
 
 (1) *Unlimited rights.* The Government shall have unlimited rights in -
 
@@ -130,9 +130,9 @@ Rights in Noncommercial Computer Software and Noncommercial Computer Software Do
 
 (B) The recipient is a Government contractor receiving access to the software or documentation for performance of a Government contract that contains the clause at DFARS 252.227-7025, Limitations on the Use or Disclosure of Government Furnished Information Marked with Restrictive Legends.
 
-(3) *Restricted rights.* (i) The Government shall have restricted rights in noncommercial computer software required to be delivered or otherwise provided to the Government under this contract that were developed exclusively at private expense.
+(3) *Restricted rights.* (i) The Government shall have restricted rights in other than commercial computer software required to be delivered or otherwise provided to the Government under this contract that were developed exclusively at private expense.
 
-(ii) The Contractor, its subcontractors, or suppliers are not required to provide the Government additional rights in noncommercial computer software delivered or otherwise provided to the Government with restricted rights. However, if the Government desires to obtain additional rights in such software, the Contractor agrees to promptly enter into negotiations with the Contracting Officer to determine whether there are acceptable terms for transferring such rights. All noncommercial computer software in which the Contractor has granted the Government additional rights shall be listed or described in a license agreement made part of the contract (see paragraph (b)(4) of this clause). The license shall enumerate the additional rights granted the Government.
+(ii) The Contractor, its subcontractors, or suppliers are not required to provide the Government additional rights in other than commercial computer software delivered or otherwise provided to the Government with restricted rights. However, if the Government desires to obtain additional rights in such software, the Contractor agrees to promptly enter into negotiations with the Contracting Officer to determine whether there are acceptable terms for transferring such rights. All noncommercial computer software in which the Contractor has granted the Government additional rights shall be listed or described in a license agreement made part of the contract (see paragraph (b)(4) of this clause). The license shall enumerate the additional rights granted the Government.
 
 (iii) The Contractor acknowledges that -
 
@@ -144,7 +144,7 @@ Rights in Noncommercial Computer Software and Noncommercial Computer Software Do
 
 (D) Any such non-disclosure agreement shall address the restrictions on the covered Government support contractor's use of the restricted rights software as set forth in the clause at 252.227-7025, Limitations on the Use or Disclosure of Government-Furnished Information Marked with Restrictive Legends. The non-disclosure agreement shall not include any additional terms and conditions unless mutually agreed to by the parties to the non-disclosure agreement.
 
-(4) *Specifically negotiated license rights.* (i) The standard license rights granted to the Government under paragraphs (b)(1) through (b)(3) of this clause, including the period during which the Government shall have government purpose rights in computer software, may be modified by mutual agreement to provide such rights as the parties consider appropriate but shall not provide the Government lesser rights in computer software than are enumerated in paragraph (a)(15) of this clause or lesser rights in computer software documentation than are enumerated in paragraph (a)(14)of the Rights in Technical Data - Noncommercial Items clause of this contract.
+(4) *Specifically negotiated license rights.*(i) The standard license rights granted to the Government under paragraphs (b)(1) through (3) of this clause, including the period during which the Government shall have government purpose rights in computer software, may be modified by mutual agreement to provide such rights as the parties consider appropriate but shall not provide the Government lesser rights in computer software than are enumerated in the definition of “restricted rights” of this clause or lesser rights in computer software documentation than are enumerated in the definition of “limited rights” of the Rights in Technical Data - Other Than Commercial Products and Commercial Services clause of this contract.
 
 (ii) Any rights so negotiated shall be identified in a license agreement made part of this contract.
 
@@ -196,7 +196,7 @@ DatePrinted Name and TitleSignature(End of identification and assertion)
 
 Government Purpose RightsContract No.Contractor NameContractor AddressExpiration Date
 
-The Government's rights to use, modify, reproduce, release, perform, display, or disclose this software are restricted by paragraph (b)(2) of the Rights in Noncommercial Computer Software and Noncommercial Computer Software Documentation clause contained in the above identified contract. No restrictions apply after the expiration date shown above. Any reproduction of the software or portions thereof marked with this legend must also reproduce the markings.
+The Government's rights to use, modify, reproduce, release, perform, display, or disclose this software are restricted by paragraph (b)(2) of the Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation clause contained in the above identified contract. No restrictions apply after the expiration date shown above. Any reproduction of the software or portions thereof marked with this legend must also reproduce the markings.
 
 (End of legend)
 
@@ -204,7 +204,7 @@ The Government's rights to use, modify, reproduce, release, perform, display, or
 
 Restricted RightsContract No.Contractor NameContractor Address
 
-The Government's rights to use, modify, reproduce, release, perform, display, or disclose this software are restricted by paragraph (b)(3) of the Rights in Noncommercial Computer Software and Noncommercial Computer Software Documentation clause contained in the above identified contract. Any reproduction of computer software or portions thereof marked with this legend must also reproduce the markings. Any person, other than the Government, who has been provided access to such software must promptly notify the above named Contractor.
+The Government's rights to use, modify, reproduce, release, perform, display, or disclose this software are restricted by paragraph (b)(3) of the Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation clause contained in the above identified contract. Any reproduction of computer software or portions thereof marked with this legend must also reproduce the markings. Any person, other than the Government, who has been provided access to such software must promptly notify the above named Contractor.
 
 (End of legend)
 
@@ -244,7 +244,7 @@ The Government's rights to use, modify, reproduce, release, perform, display, or
 
 (ii) Does not include the reasonable costs of reproducing, handling, or mailing the documents or other media in which the software or documentation will be delivered.
 
-(k) *Applicability to subcontractors or suppliers.* (1) Whenever any noncommercial computer software or computer software documentation is to be obtained from a subcontractor or supplier for delivery to the Government under this contract, the Contractor shall use this same clause in its subcontracts or other contractual instruments, and require its subcontractors or suppliers to do so, without alteration, except to identify the parties. No other clause shall be used to enlarge or diminish the Government's, the Contractor's, or a higher tier subcontractor's or supplier's rights in a subcontractor's or supplier's computer software or computer software documentation.
+(k) *Applicability to subcontractors or suppliers.* (1) Whenever any other than commercial computer software or computer software documentation is to be obtained from a subcontractor or supplier for delivery to the Government under this contract, the Contractor shall use this same clause in its subcontracts or other contractual instruments, and require its subcontractors or suppliers to do so, without alteration, except to identify the parties. No other clause shall be used to enlarge or diminish the Government's, the Contractor's, or a higher tier subcontractor's or supplier's rights in a subcontractor's or supplier's computer software or computer software documentation.
 
 (2) The Contractor and higher tier subcontractors or suppliers shall not use their power to award contracts as economic leverage to obtain rights in computer software or computer software documentation from their subcontractors or suppliers.
 
@@ -262,4 +262,4 @@ The Government's rights to use, modify, reproduce, release, perform, display, or
 
 (3) This limitation on the Government's rights to publish for sale shall continue as long as the software or documentation are reasonably available to the public for purchase.
 
-[60 FR 33493, June 28, 1995, as amended at 76 FR 11368, Mar. 2, 2011; 77 FR 10976, Feb. 24, 2012; 78 FR 30238, May 22, 2013; 79 FR 11341, Feb. 28, 2014]
+[60 FR 33493, June 28, 1995, as amended at 76 FR 11368, Mar. 2, 2011; 77 FR 10976, Feb. 24, 2012; 78 FR 30238, May 22, 2013; 79 FR 11341, Feb. 28, 2014; 88 FR 6593, Jan. 31, 2023]

@@ -1,4 +1,4 @@
-##### 227.7203-2 Acquisition of noncommercial computer software and computer software documentation. #####
+##### 227.7203-2 Acquisition of other than commercial computer software and computer software documentation. #####
 
 (a) Contracting officers shall work closely with data managers and requirements personnel to assure that computer software and computer software documentation requirements included in solicitations are consistent with the policy expressed in 227.7203-1.
 

@@ -2,15 +2,15 @@
 
                                                                                                                                                                                                                                 *Basic.* As prescribed in 225.1101(2)(i) and (2)(ii), use the following clause:
 
-                                                                                                                                                                                                                                Buy American and Balance of Payments Program - Basic (JUN 2022)
+                                                                                                                                                                                                                                Buy American and Balance of Payments Program—Basic (JAN 2023)
 
-                                                                                                                                                                                                                                (a) *Definitions.* As used in this clause -
+                                                                                                                                                                                                                                (a) *Definitions.* As used in this clause—
 
-                                                                                                                                                                                                                                *Commercially available off-the-shelf (COTS) item* -
+                                                                                                                                                                                                                                *Commercially available off-the-shelf (COTS) item*—
 
-                                                                                                                                                                                                                                (1) Means any item of supply (including construction material) that is -
+                                                                                                                                                                                                                                (1) Means any item of supply (including construction material) that is—
 
-                                                                                                                                                                                                                                (i) A commercial item (as defined in paragraph (1) of the definition of “commercial item” in section 2.101 of the Federal Acquisition Regulation);
+                                                                                                                                                                                                                                (i) A commercial product (as defined in paragraph (1) of the definition of “ commercial product” in section 2.101 of the Federal Acquisition Regulation);
 
                                                                                                                                                                                                                                 (ii) Sold in substantial quantities in the commercial marketplace; and
 
@@ -20,15 +20,15 @@
 
                                                                                                                                                                                                                                 *Component* means an article, material, or supply incorporated directly into an end product.
 
-                                                                                                                                                                                                                                *Domestic end product* means -
+                                                                                                                                                                                                                                *Domestic end product* means—
 
-                                                                                                                                                                                                                                (1) For an end product that does not consist wholly or predominantly of iron or steel or a combination of both -
+                                                                                                                                                                                                                                (1) For an end product that does not consist wholly or predominantly of iron or steel or a combination of both—
 
                                                                                                                                                                                                                                 (i) An unmanufactured end product mined or produced in the United States; or
 
-                                                                                                                                                                                                                                (ii) An end product manufactured in the United States if -
+                                                                                                                                                                                                                                (ii) An end product manufactured in the United States if—
 
-                                                                                                                                                                                                                                (A) The cost of its qualifying country components and its components that are mined, produced, or manufactured in the United States exceeds 55 percent of the cost of all its components. The cost of components includes transportation costs to the place of incorporation into the end product and U.S. duty (whether or not a duty-free entry certificate is issued). Components of unknown origin are treated as foreign. Scrap generated, collected, and prepared for processing in the United States is considered domestic. A component is considered to have been mined, produced, or manufactured in the United States (regardless of its source in fact) if the end product in which it is incorporated is manufactured in the United States and the component is of a class or kind for which the Government has determined that -
+                                                                                                                                                                                                                                (A) The cost of its qualifying country components and its components that are mined, produced, or manufactured in the United States exceeds 55 percent of the cost of all its components. The cost of components includes transportation costs to the place of incorporation into the end product and U.S. duty (whether or not a duty-free entry certificate is issued). Components of unknown origin are treated as foreign. Scrap generated, collected, and prepared for processing in the United States is considered domestic. A component is considered to have been mined, produced, or manufactured in the United States (regardless of its source in fact) if the end product in which it is incorporated is manufactured in the United States and the component is of a class or kind for which the Government has determined that—
 
                                                                                                                                                                                                                                 (*1*) Sufficient and reasonably available commercial quantities of a satisfactory quality are not mined, produced, or manufactured in the United States; or
 
@@ -50,11 +50,11 @@
 
                                                                                                                 *Qualifying country component* means a component mined, produced, or manufactured in a qualifying country.
 
-                                                                                                                *Qualifying country end product* means -
+                                                                                                                *Qualifying country end product* means—
 
                                                                                                                 (1) An unmanufactured end product mined or produced in a qualifying country; or
 
-                                                                                                                (2) An end product manufactured in a qualifying country if -
+                                                                                                                (2) An end product manufactured in a qualifying country if—
 
                                                                                                                 (i) The cost of the following types of components exceeds 50 percent of the cost of all its components:
 
@@ -72,7 +72,7 @@
 
                                                                                                                 (b) This clause implements, Buy American. In accordance with 41 U.S.C. 1907, the component test of the Buy American statute is waived for an end product that is a COTS item (see section 12.505(a)(1) of the Federal Acquisition Regulation). Unless otherwise specified, this clause applies to all line items in the contract.
 
-                                                                                                                (c) The Contractor shall deliver only domestic end products unless, in its offer, it specified delivery of other end products in the Buy American - Balance of Payments Program Certificate provision of the solicitation. If the Contractor certified in its offer that it will deliver a qualifying country end product, the Contractor shall deliver a qualifying country end product or, at the Contractor's option, a domestic end product.
+                                                                                                                (c) The Contractor shall deliver only domestic end products unless, in its offer, it specified delivery of other end products in the Buy American —Balance of Payments Program Certificate provision of the solicitation. If the Contractor certified in its offer that it will deliver a qualifying country end product, the Contractor shall deliver a qualifying country end product or, at the Contractor's option, a domestic end product.
 
                                                                                                                 (d) The contract price does not include duty for end products or components for which the Contractor will claim duty-free entry.
 
@@ -80,15 +80,15 @@
 
                                                                                                                 *Alternate I.* As prescribed in 225.1101(2)(i) and (2)(iii), use the following clause, which adds *South Caucasus/Central and South Asian (SC/CASA) state* and *South Caucasus/Central and South Asian (SC/CASA) state end product* to paragraph (a), and uses different paragraphs (b) and (c) than the basic clause:
 
-                                                                                                                Buy American and Balance of Payments Program - Alternate I (JUN 2022)
+                                                                                                                Buy American and Balance of Payments Program—Alternate I(JAN 2023)
 
-                                                                                                                (a) *Definitions.* As used in this clause -
+                                                                                                                (a) *Definitions.* As used in this clause—
 
-                                                                                                                *Commercially available off-the-shelf (COTS) item* -
+                                                                                                                *Commercially available off-the-shelf (COTS) item*—
 
-                                                                                                                (1) Means any item of supply (including construction material) that is -
+                                                                                                                (1) Means any item of supply (including construction material) that is—
 
-                                                                                                                (i) A commercial item (as defined in paragraph (1) of the definition of “commercial item” in section 2.101 of the Federal Acquisition Regulation);
+                                                                                                                (i) A commercial product (as defined in paragraph (1) of the definition of “commercial product” in section 2.101 of the Federal Acquisition Regulation);
 
                                                                                                                 (ii) Sold in substantial quantities in the commercial marketplace; and
 
@@ -98,15 +98,15 @@
 
                                                                                                                 *Component* means an article, material, or supply incorporated directly into an end product.
 
-                                                                                                                *Domestic end product* means -
+                                                                                                                *Domestic end product* means—
 
-                                                                                                                (1) For an end product that does not consist wholly or predominantly of iron or steel or a combination of both -
+                                                                                                                (1) For an end product that does not consist wholly or predominantly of iron or steel or a combination of both—
 
                                                                                                                 (i) An unmanufactured end product mined or produced in the United States; or
 
-                                                                                                                (ii) An end product manufactured in the United States if -
+                                                                                                                (ii) An end product manufactured in the United States if—
 
-                                                                                                                (A) The cost of its qualifying country components and its components that are mined, produced, or manufactured in the United States exceeds 55 percent of the cost of all its components. The cost of components includes transportation costs to the place of incorporation into the end product and U.S. duty (whether or not a duty-free entry certificate is issued). Components of unknown origin are treated as foreign. Scrap generated, collected, and prepared for processing in the United States is considered domestic. A component is considered to have been mined, produced, or manufactured in the United States (regardless of its source in fact) if the end product in which it is incorporated is manufactured in the United States and the component is of a class or kind for which the Government has determined that -
+                                                                                                                (A) The cost of its qualifying country components and its components that are mined, produced, or manufactured in the United States exceeds 55 percent of the cost of all its components. The cost of components includes transportation costs to the place of incorporation into the end product and U.S. duty (whether or not a duty-free entry certificate is issued). Components of unknown origin are treated as foreign. Scrap generated, collected, and prepared for processing in the United States is considered domestic. A component is considered to have been mined, produced, or manufactured in the United States (regardless of its source in fact) if the end product in which it is incorporated is manufactured in the United States and the component is of a class or kind for which the Government has determined that—
 
                                                                                                                 (*1*) Sufficient and reasonably available commercial quantities of a satisfactory quality are not mined, produced, or manufactured in the United States; or
 
@@ -128,11 +128,11 @@
 
 *Qualifying country component* means a component mined, produced, or manufactured in a qualifying country.
 
-*Qualifying country end product* means -
+*Qualifying country end product* means—
 
 (1) An unmanufactured end product mined or produced in a qualifying country; or
 
-(2) An end product manufactured in a qualifying country if -
+(2) An end product manufactured in a qualifying country if—
 
 (i) The cost of the following types of components exceeds 50 percent of the cost of all its components:
 
@@ -146,7 +146,7 @@
 
 *South Caucasus/Central and South Asian (SC/CASA) state* means Armenia, Azerbaijan, Georgia, Kazakhstan, Kyrgyzstan, Pakistan, Tajikistan, Turkmenistan, or Uzbekistan.
 
-*South Caucasus/Central and South Asian (SC/CASA) state end product* means an article that -
+*South Caucasus/Central and South Asian (SC/CASA) state end product* means an article that—
 
 (1) Is wholly the growth, product, or manufacture of an SC/CASA state; or
 
@@ -162,4 +162,4 @@
 
 (d) The contract price does not include duty for end products or components for which the Contractor will claim duty-free entry.
 
-(End of clause)[68 FR 15634, Mar. 31, 2003, as amended at 70 FR 35546, June 21, 2005; 74 FR 2423, Jan. 15, 2009; 75 FR 81918, Dec. 29, 2010; 76 FR 58138, Sept. 20, 2011; 77 FR 35882, June 15, 2012; 77 FR 76942, Dec. 31, 2012; 79 FR 3520, Jan. 22, 2014; 79 FR 65819, Nov. 5, 2014; 80 FR 36899, June 26, 2015; 81 FR 50651, Aug. 2, 2016; 81 FR 93840, Dec. 22, 2016; 82 FR 61484, Dec. 28, 2017; 87 FR 37443, June 23, 2022]
+(End of clause)[68 FR 15634, Mar. 31, 2003, as amended at 70 FR 35546, June 21, 2005; 74 FR 2423, Jan. 15, 2009; 75 FR 81918, Dec. 29, 2010; 76 FR 58138, Sept. 20, 2011; 77 FR 35882, June 15, 2012; 77 FR 76942, Dec. 31, 2012; 79 FR 3520, Jan. 22, 2014; 79 FR 65819, Nov. 5, 2014; 80 FR 36899, June 26, 2015; 81 FR 50651, Aug. 2, 2016; 81 FR 93840, Dec. 22, 2016; 82 FR 61484, Dec. 28, 2017; 87 FR 37443, June 23, 2022; 88 FR 6591, Jan. 31, 2023]

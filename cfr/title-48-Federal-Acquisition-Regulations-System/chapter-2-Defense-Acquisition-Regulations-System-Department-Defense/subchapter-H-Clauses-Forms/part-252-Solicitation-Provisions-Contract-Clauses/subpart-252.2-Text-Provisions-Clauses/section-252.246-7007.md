@@ -2,11 +2,11 @@
 
 As prescribed in 246.870-3(a), use the following clause:
 
-Contractor Counterfeit Electronic Part Detection and Avoidance System (AUG 2016)
+Contractor Counterfeit Electronic Part Detection and Avoidance System (JAN 2023)
 
 The following paragraphs (a) through (e) of this clause do not apply unless the Contractor is subject to the Cost Accounting Standards under 41 U.S.C. chapter 15, as implemented in regulations found at 48 CFR 9903.201-1.
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Authorized aftermarket manufacturer* means an organization that fabricates a part under a contract with, or with the express written authority of, the original component manufacturer based on the original component manufacturer's designs, formulas, and/or specifications.
 
@@ -58,8 +58,8 @@ The following paragraphs (a) through (e) of this clause do not apply unless the 
 
 (12) Control of obsolete electronic parts in order to maximize the availability and use of authentic, originally designed, and qualified electronic parts throughout the product's life cycle.
 
-(d) Government review and evaluation of the Contractor's policies and procedures will be accomplished as part of the evaluation of the Contractor's purchasing system in accordance with 252.244-7001, Contractor Purchasing System Administration - Basic, or Contractor Purchasing System Administration - Alternate I.
+(d) Government review and evaluation of the Contractor's policies and procedures will be accomplished as part of the evaluation of the Contractor's purchasing system in accordance with 252.244-7001, Contractor Purchasing System Administration—Basic, or Contractor Purchasing System Administration—Alternate I.
 
-(e) The Contractor shall include the substance of this clause, excluding the introductory text and including only paragraphs (a) through (e), in subcontracts, including subcontracts for commercial items, for electronic parts or assemblies containing electronic parts.
+(e) (e) *Subcontracts.* The Contractor shall include the substance of this clause, excluding the introductory text and including only paragraphs (a) through (e), in subcontracts, including subcontracts for commercial products, for electronic parts or assemblies containing electronic parts.
 
-(End of clause)[79 FR 26108, May 6, 2014, as amended at 81 FR 50649, Aug. 2, 2016]
+(End of clause)[79 FR 26108, May 6, 2014, as amended at 81 FR 50649, Aug. 2, 2016; 88 FR 6596, Jan. 31, 2023]

@@ -4,13 +4,13 @@
 
 (2) The procedures for correcting minor informalities shall not be used to obtain information regarding asserted restrictions or an offeror's suggested asserted rights category. Questions regarding the justification for an asserted restriction or asserted rights category must be pursued in accordance with the procedures at 227.7203-13.
 
-(3) The restrictions asserted by a successful offeror shall be attached to its contract unless, in accordance with the procedures at 227.7203-13, the parties have agreed that an asserted restriction is not justified. The contract attachment shall provide the same information regarding identification of the computer software or computer software documentation, the asserted rights category, the basis for the assertion, and the name of the person asserting the restrictions as required by paragraph (d) of the solicitation provision at 252.227-7017. Subsequent to contract award, the clause at 252.227-7014, Rights in Noncommercial Computer Software and Noncommercial Computer Software Documentation, permits a contractor to make additional assertions under certain conditions. The additional assertions must be made in accordance with the procedures and in the format prescribed by that clause.
+(3) The restrictions asserted by a successful offeror shall be attached to its contract unless, in accordance with the procedures at 227.7203-13, the parties have agreed that an asserted restriction is not justified. The contract attachment shall provide the same information regarding identification of the computer software or computer software documentation, the asserted rights category, the basis for the assertion, and the name of the person asserting the restrictions as required by paragraph (d) of the solicitation provision at 252.227-7017. Subsequent to contract award, the clause at 252.227-7014, Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation, permits a contractor to make additional assertions under certain conditions. The additional assertions must be made in accordance with the procedures and in the format prescribed by that clause.
 
 (4) Neither the pre- or post-award assertions made by the contractor nor the fact that certain assertions are identified in the attachment to the contract, determine the respective rights of the parties. As provided at 227.7203-13, the Government has the right to review, verify, challenge and validate restrictive markings.
 
 (5) Information provided by offerors in response to the solicitation provision at 252.227-7017 may be used in the source selection process to evaluate the impact on evaluation factors that may be created by restrictions on the Government's ability to use or disclose computer software or computer software documentation.
 
-(b) *Contractor marking requirements.* The clause at 252.227-7014, Rights in Noncommercial Computer Software and Noncommercial Computer Software Documentation -
+(b) *Contractor marking requirements.* The clause at 252.227-7014, Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation—
 
 (1) Requires a contractor who desires to restrict the Government's rights in computer software or computer software documentation to place restrictive markings on the software or documentation, provides instructions for the placement of the restrictive markings, and authorizes the use of certain restrictive markings. When it is anticipated that the software will or may be used in combat or situations which simulate combat conditions, do not permit contractors to insert instructions into computer programs that interfere with or delay operation of the software to display a restrictive rights legend or other license notice; and
 
@@ -18,7 +18,7 @@
 
 (c) *Unmarked computer software or computer software documentation.* (1) Computer software or computer software documentation delivered or otherwise provided under a contract without restrictive markings shall be presumed to have been delivered with unlimited rights and may be released or disclosed without restriction. To the extent practicable, if a contractor has requested permission (see paragraph (c)(2) of this subsection) to correct an inadvertent omission of markings, do not release or disclose the software or documentation pending evaluation of the request.
 
-(2) A contractor may request permission to have appropriate legends placed on unmarked computer software or computer software documentation at its expense. The request must be received by the contracting officer within six months following the furnishing or delivery of such software or documentation, or any extension of that time approved by the contracting officer. The person making the request must -
+(2) A contractor may request permission to have appropriate legends placed on unmarked computer software or computer software documentation at its expense. The request must be received by the contracting officer within six months following the furnishing or delivery of such software or documentation, or any extension of that time approved by the contracting officer. The person making the request must—
 
 (i) Identify the software or documentation that should have been marked;
 
@@ -28,4 +28,4 @@
 
 (3) Contracting officers should grant permission to mark only if the software or documentation were not distributed outside the Government or were distributed outside the Government with restrictions on further use or disclosure.
 
-[60 FR 33482, June 28, 1995, as amended at 63 FR 55052, Oct. 14, 1998]
+[60 FR 33482, June 28, 1995, as amended at 63 FR 55052, Oct. 14, 1998; 88 FR 6586, Jan. 31, 2023]

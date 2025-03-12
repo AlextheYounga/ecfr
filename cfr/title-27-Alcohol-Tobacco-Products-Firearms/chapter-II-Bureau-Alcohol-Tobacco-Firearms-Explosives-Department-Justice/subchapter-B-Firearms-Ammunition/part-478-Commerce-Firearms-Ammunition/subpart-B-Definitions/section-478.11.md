@@ -10,7 +10,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 (2) Lacks the mental capacity to contract or manage his own affairs.
 
-(b) The term shall include -
+(b) The term shall include—
 
 (1) A finding of insanity by a court in a criminal case; and
 
@@ -22,7 +22,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Alien.* Any person not a citizen or national of the United States.
 
-*Alien illegally or unlawfully in the United States.* Aliens who are unlawfully in the United States are not in valid immigrant, nonimmigrant or parole status. The term includes any alien -
+*Alien illegally or unlawfully in the United States.* Aliens who are unlawfully in the United States are not in valid immigrant, nonimmigrant or parole status. The term includes any alien—
 
 (a) Who unlawfully entered the United States without inspection and authorization by an immigration officer and who has not been paroled into the United States under section 212(d)(5) of the Immigration and Nationality Act (INA);
 
@@ -90,7 +90,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Division.* A Bureau of Alcohol, Tobacco, Firearms, and Explosives Division.
 
-*Engaged in the business* - (a) *Manufacturer of firearms.* A person who devotes time, attention, and labor to manufacturing firearms as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the firearms manufactured;
+*Engaged in the business*—(a) *Manufacturer of firearms.* A person who devotes time, attention, and labor to manufacturing firearms as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the firearms manufactured;
 
 (b) *Manufacturer of ammunition.* A person who devotes time, attention, and labor to manufacturing ammunition as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the ammunition manufactured;
 
@@ -104,7 +104,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Executed under penalties of perjury.* Signed with the prescribed declaration under the penalties of perjury as provided on or with respect to the return form, or other document or, where no form of declaration is prescribed, with the declaration:
 
-“I declare under the penalties of perjury that this - (insert type of document, such as, statement, application, request, certificate), including the documents submitted in support thereof, has been examined by me and, to the best of my knowledge and belief, is true, correct, and complete.”
+“I declare under the penalties of perjury that this—(insert type of document, such as, statement, application, request, certificate), including the documents submitted in support thereof, has been examined by me and, to the best of my knowledge and belief, is true, correct, and complete.”
 
 *Federal Firearms Act.* 15 U.S.C. Chapter 18.
 
@@ -192,13 +192,13 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Pistol.* A weapon originally designed, made, and intended to fire a projectile (bullet) from one or more barrels when held in one hand, and having (a) a chamber(s) as an integral part(s) of, or permanently aligned with, the bore(s); and (b) a short stock designed to be gripped by one hand and at an angle to and extending below the line of the bore(s).
 
-*Principal objective of livelihood and profit.* The intent underlying the sale or disposition of firearms is predominantly one of obtaining livelihood and pecuniary gain, as opposed to other intents such as improving or liquidating a personal firearms collection: *Provided,* That proof of profit shall not be required as to a person who engages in the regular and repetitive purchase and disposition of firearms for criminal purposes or terrorism. For purposes of this part, the term “terrorism” means activity, directed against United States persons, which -
+*Principal objective of livelihood and profit.* The intent underlying the sale or disposition of firearms is predominantly one of obtaining livelihood and pecuniary gain, as opposed to other intents such as improving or liquidating a personal firearms collection: *Provided,* That proof of profit shall not be required as to a person who engages in the regular and repetitive purchase and disposition of firearms for criminal purposes or terrorism. For purposes of this part, the term “terrorism” means activity, directed against United States persons, which—
 
 (a) Is committed by an individual who is not a national or permanent resident alien of the United States;
 
 (b) Involves violent acts or acts dangerous to human life which would be a criminal violation if committed within the jurisdiction of the United States; and
 
-(c) Is intended -
+(c) Is intended—
 
 (1) To intimidate or coerce a civilian population;
 
@@ -228,7 +228,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 (8) Feasibility, *i.e.,* whether the process would damage or destroy the subject of the process, or cause it to malfunction.
 
-*Renounced U.S. citizenship.* (a) A person has renounced his U.S. citizenship if the person, having been a citizen of the United States, has renounced citizenship either -
+*Renounced U.S. citizenship.* (a) A person has renounced his U.S. citizenship if the person, having been a citizen of the United States, has renounced citizenship either—
 
 (1) Before a diplomatic or consular officer of the United States in a foreign state pursuant to 8 U.S.C. 1481(a)(5); or
 
@@ -239,6 +239,22 @@ When used in this part and in forms prescribed under this part, where not otherw
 *Revolver.* A projectile weapon, of the pistol type, having a breechloading chambered cylinder so arranged that the cocking of the hammer or movement of the trigger rotates it and brings the next cartridge in line with the barrel for firing.
 
 *Rifle.* A weapon designed or redesigned, made or remade, and intended to be fired from the shoulder, and designed or redesigned and made or remade to use the energy of an explosive to fire only a single projectile through a rifled bore for each single pull of the trigger.
+
+(1) For purposes of this definition, the term “designed or redesigned, made or remade, and intended to be fired from the shoulder” shall include a weapon that is equipped with an accessory, component, or other rearward attachment (*e.g.,* a “stabilizing brace”) that provides surface area that allows the weapon to be fired from the shoulder, provided other factors, as described in paragraph (2), indicate that the weapon is designed, made, and intended to be fired from the shoulder.
+
+(2) When a weapon provides surface area that allows the weapon to be fired from the shoulder, the following factors shall also be considered in determining whether the weapon is designed, made, and intended to be fired from the shoulder:
+
+(i) Whether the weapon has a weight or length consistent with the weight or length of similarly designed rifles;
+
+(ii) Whether the weapon has a length of pull, measured from the center of the trigger to the center of the shoulder stock or other rearward accessory, component or attachment (including an adjustable or telescoping attachment with the ability to lock into various positions along a buffer tube, receiver extension, or other attachment method), that is consistent with similarly designed rifles;
+
+(iii) Whether the weapon is equipped with sights or a scope with eye relief that require the weapon to be fired from the shoulder in order to be used as designed;
+
+(iv) Whether the surface area that allows the weapon to be fired from the shoulder is created by a buffer tube, receiver extension, or any other accessory, component, or other rearward attachment that is necessary for the cycle of operations;
+
+(v) The manufacturer's direct and indirect marketing and promotional materials indicating the intended use of the weapon; and
+
+(vi) Information demonstrating the likely use of the weapon in the general community.
 
 *Secure gun storage or safety device.* (1) A device that, when installed on a firearm, is designed to prevent the firearm from being operated without first deactivating the device;
 
@@ -266,7 +282,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 (9) Revolving cylinder shotguns, such as (or similar to) the Street Sweeper and Striker 12;
 
-(b) A semiautomatic rifle that has an ability to accept a detachable magazine and has at least 2 of -
+(b) A semiautomatic rifle that has an ability to accept a detachable magazine and has at least 2 of—
 
 (1) A folding or telescoping stock,
 
@@ -278,7 +294,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 (5) A grenade launcher;
 
-(c) A semiautomatic pistol that has an ability to accept a detachable magazine and has at least 2 of -
+(c) A semiautomatic pistol that has an ability to accept a detachable magazine and has at least 2 of—
 
 (1) An ammunition magazine that attaches to the pistol outside of the pistol grip,
 
@@ -290,7 +306,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 (5) A semiautomatic version of an automatic firearm; and
 
-(d) A semiautomatic shotgun that has at least 2 of -
+(d) A semiautomatic shotgun that has at least 2 of—
 
 (1) A folding or telescoping stock,
 

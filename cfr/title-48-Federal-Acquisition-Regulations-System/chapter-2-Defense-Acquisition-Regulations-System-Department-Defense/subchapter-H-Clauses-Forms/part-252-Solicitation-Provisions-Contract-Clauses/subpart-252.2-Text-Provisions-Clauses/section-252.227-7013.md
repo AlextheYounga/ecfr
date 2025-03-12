@@ -1,8 +1,8 @@
-##### 252.227-7013 Rights in Technical Data-Noncommercial Items. #####
+##### 252.227-7013 Rights in Technical Data - Other Than Commercial Products and Commercial Services. #####
 
 As prescribed in 227.7103-6(a), use the following clause:
 
-Rights in Technical Data - Noncommercial Items (DEC 2022)
+Rights in Technical Data - Other Than Commercial Products or Commercial Services (JAN 2023)
 
 (a) *Definitions.* As used in this clause -
 
@@ -64,7 +64,7 @@ Rights in Technical Data - Noncommercial Items (DEC 2022)
 
 (16) *Unlimited rights* means rights to use, modify, reproduce, perform, display, release, or disclose technical data in whole or in part, in any manner, and for any purpose whatsoever, and to have or authorize others to do so.
 
-(b) *Rights in technical data.* The Contractor grants or shall obtain for the Government the following royalty free, world-wide, nonexclusive, irrevocable license rights in technical data other than computer software documentation (see the Rights in Noncommercial Computer Software and Noncommercial Computer Software Documentation clause of this contract for rights in computer software documentation):
+(b) *Rights in technical data.* The Contractor grants or shall obtain for the Government the following royalty free, worldwide , nonexclusive, irrevocable license rights in technical data other than computer software documentation (see the Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation clause of this contract for rights in computer software documentation):
 
 (1) *Unlimited rights.* The Government shall have unlimited rights in technical data that are -
 
@@ -168,11 +168,11 @@ DatePrinted Name and TitleSignature(End of identification and assertion)
 
 (1) *General marking instructions.* The Contractor, or its subcontractors or suppliers, shall conspicuously and legibly mark the appropriate legend on all technical data that qualify for such markings. The authorized legends shall be placed on the transmittal document or storage container and, for printed material, each page of the printed material containing technical data for which restrictions are asserted. When only portions of a page of printed material are subject to the asserted restrictions, such portions shall be identified by circling, underscoring, with a note, or other appropriate identifier. Technical data transmitted directly from one computer or computer terminal to another shall contain a notice of asserted restrictions. Reproductions of technical data or any portions thereof subject to asserted restrictions shall also reproduce the asserted restrictions.
 
-(2) *Government purpose rights markings.* Data delivered or otherwise furnished to the Government purpose rights shall be marked as follows:
+(2) *Government purpose rights markings.* Data delivered or otherwise furnished to the Government with government purpose rights shall be marked as follows:
 
 Government Purpose RightsContract No.Contractor NameContractor AddressExpiration Date
 
-The Government's rights to use, modify, reproduce, release, perform, display, or disclose these technical data are restricted by paragraph (b)(2) of the Rights in Technical Data - Noncommercial Items clause contained in the above identified contract. No restrictions apply after the expiration date shown above. Any reproduction of technical data or portions thereof marked with this legend must also reproduce the markings.
+The Government's rights to use, modify, reproduce, release, perform, display, or disclose these technical data are restricted by paragraph (b)(2) of the Rights in Technical Data - Other Than Commercial Products or Commercial Services clause contained in the above identified contract. No restrictions apply after the expiration date shown above. Any reproduction of technical data or portions thereof marked with this legend must also reproduce the markings.
 
 (End of legend)
 
@@ -180,7 +180,7 @@ The Government's rights to use, modify, reproduce, release, perform, display, or
 
 Limited RightsContract No.Contractor NameContractor Address
 
-The Government's rights to use, modify, reproduce, release, perform, display, or disclose these technical data are restricted by paragraph (b)(3) of the Rights in Technical Data - Noncommercial Items clause contained in the above identified contract. Any reproduction of technical data or portions thereof marked with this legend must also reproduce the markings. Any person, other than the Government, who has been provided access to such data must promptly notify the above named Contractor.
+The Government's rights to use, modify, reproduce, release, perform, display, or disclose these technical data are restricted by paragraph (b)(3) of the Rights in Technical Data - Other Than Commercial Products or Commercial Services clause contained in the above identified contract. Any reproduction of technical data or portions thereof marked with this legend must also reproduce the markings. Any person, other than the Government, who has been provided access to such data must promptly notify the above named Contractor.
 
 (End of legend)
 
@@ -222,7 +222,7 @@ The Government's rights to use, modify, reproduce, release, perform, display, or
 
 (k) *Applicability to subcontractors or suppliers.* (1) The Contractor shall ensure that the rights afforded its subcontractors and suppliers under 10 U.S.C. 3771-3775, 10 U.S.C. 3781-3786, and the identification, assertion, and delivery processes of paragraph (e) of this clause are recognized and protected.
 
-(2) Whenever any technical data for noncommercial items, or for commercial items developed in any part at Government expense, is to be obtained from a subcontractor or supplier for delivery to the Government under this contract, the Contractor shall use this same clause in the subcontract or other contractual instrument, including subcontracts or other contractual instruments for commercial items, and require its subcontractors or suppliers to do so, without alteration, except to identify the parties. This clause will govern the technical data pertaining to noncommercial items or to any portion of a commercial item that was developed in any part at Government expense, and the clause at 252.227-7015 will govern the technical data pertaining to any portion of a commercial item that was developed exclusively at private expense. No other clause shall be used to enlarge or diminish the Government's, the Contractor's, or a higher-tier subcontractor's or supplier's rights in a subcontractor's or supplier's technical data.
+(2) Whenever any technical data for other than commercial products or commercial services, or for commercial products or commercial services developed in any part at Government expense, is to be obtained from a subcontractor or supplier for delivery to the Government under this contract, the Contractor shall use this same clause in the subcontract or other contractual instrument, including subcontracts or other contractual instruments for commercial products or commercial services, and require its subcontractors or suppliers to do so, without alteration, except to identify the parties. This clause will govern the technical data pertaining to noncommercial items or to any portion of a commercial product or commercial service that was developed in any part at Government expense, and the clause at 252.227-7015 will govern the technical data pertaining to any portion of a commercial item that was developed exclusively at private expense. No other clause shall be used to enlarge or diminish the Government's, the Contractor's, or a higher-tier subcontractor's or supplier's rights in a subcontractor's or supplier's technical data.
 
 (3) Technical data required to be delivered by a subcontractor or supplier shall normally be delivered to the next higher-tier contractor, subcontractor, or supplier. However, when there is a requirement in the prime contract for data which may be submitted with other than unlimited rights by a subcontractor or supplier, then said subcontractor or supplier may fulfill its requirement by submitting such data directly to the Government, rather than through a higher-tier contractor, subcontractor, or supplier.
 
@@ -248,4 +248,4 @@ As prescribed in 227.7103-6(b)(2), add the following paragraphs (a)(17) and (b)(
 
 (b)(7) *Vessel designs.* For a vessel design (including a vessel design embodied in a useful article) that is developed or delivered under this contract, the Government shall have the right to make and have made any useful article that embodies the vessel design, to import the article, to sell the article, and to distribute the article for sale or to use the article in trade, to the same extent that the Government is granted rights in the technical data pertaining to the vessel design.
 
-[60 FR 33490, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 74 FR 61044, Nov. 23, 2009; 76 FR 11367, Mar. 2, 2011; 76 FR 58148, Sept. 20, 2011; 77 FR 10976, Feb. 24, 2012; 78 FR 30238, May 22, 2013; 78 FR 37990, June 25, 2013; 79 FR 11341, Feb. 28, 2014; 87 FR 15819, Mar. 18, 2022; 87 FR 76997, Dec. 16, 2022]
+[60 FR 33490, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 74 FR 61044, Nov. 23, 2009; 76 FR 11367, Mar. 2, 2011; 76 FR 58148, Sept. 20, 2011; 77 FR 10976, Feb. 24, 2012; 78 FR 30238, May 22, 2013; 78 FR 37990, June 25, 2013; 79 FR 11341, Feb. 28, 2014; 87 FR 15819, Mar. 18, 2022; 87 FR 76997, Dec. 16, 2022; 88 FR 6593, Jan. 31, 2023]

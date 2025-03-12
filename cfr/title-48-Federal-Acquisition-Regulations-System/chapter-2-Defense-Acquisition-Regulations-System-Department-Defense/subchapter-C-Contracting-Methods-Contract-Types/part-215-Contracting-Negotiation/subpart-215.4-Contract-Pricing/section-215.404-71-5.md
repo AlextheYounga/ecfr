@@ -16,10 +16,10 @@
 
 (6) Subcontractor cost reduction efforts;
 
-(7) The contractor's effective incorporation of commercial items and processes; or
+(7) The contractor's effective incorporation of commercial products or commercial services and commercial processes; or
 
 (8) The contractor's investment in new facilities when such investments contribute to better asset utilization or improved productivity.
 
 (c) When selecting the percentage to use for this special factor, the contracting officer has maximum flexibility in determining the best way to evaluate the benefit the contractor's cost reduction efforts will have on the pending contract. However, the contracting officer shall consider the impact that quantity differences, learning, changes in scope, and economic factors such as inflation and deflation will have on cost reduction.
 
-[67 FR 20692, Apr. 26, 2002, as amended at 67 FR 49255, July 30, 2002]
+[67 FR 20692, Apr. 26, 2002, as amended at 67 FR 49255, July 30, 2002; 88 FR 6583, Jan. 31, 2023]

@@ -2,21 +2,21 @@
 
 As prescribed in 225.7018-5, use the following clause:
 
-Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten (DEC 2022)
+Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten (JAN 2023)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
-*Assembly* means an item forming a portion of a system or subsystem that -
+*Assembly* means an item forming a portion of a system or subsystem that—
 
 (1) Can be provisioned and replaced as an entity; and
 
 (2) Incorporates multiple, replaceable parts.
 
-*Commercially available off-the-shelf item* -
+*Commercially available off-the-shelf item*—
 
-(1) Means any item of supply that is -
+(1) Means any item of supply that is—
 
-(i) A commercial item (as defined in paragraph (1) of the definition of “commercial item” in section 2.101 of the Federal Acquisition Regulation);
+(i) A commercial products (as defined in paragraph (1) of the definition of “commercial products” in section 2.101 of the Federal Acquisition Regulation);
 
 (ii) Sold in substantial quantities in the commercial marketplace; and
 
@@ -26,7 +26,7 @@ Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten (DEC 2
 
 *Component* means any item supplied to the Government as part of an end item or of another component.
 
-*Covered country* means -
+*Covered country* means—
 
 (1) The Democratic People's Republic of North Korea;
 
@@ -36,7 +36,7 @@ Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten (DEC 2
 
 (4) The Islamic Republic of Iran.
 
-*Covered material* means -
+*Covered material* means—
 
 (1) Samarium-cobalt magnets;
 
@@ -54,7 +54,7 @@ Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten (DEC 2
 
 *Subsystem* means a functional grouping of items that combine to perform a major function within an end item, such as electrical power, attitude control, and propulsion.
 
-*Tungsten heavy alloy* means a tungsten base pseudo alloy that -
+*Tungsten heavy alloy* means a tungsten base pseudo alloy that—
 
 (1) Meets the specifications of ASTM B777 or SAE-AMS-T-21014 for a particular class of tungsten heavy alloy; or
 
@@ -62,7 +62,7 @@ Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten (DEC 2
 
 (b) *Restriction.* (1) Except as provided in paragraph (c) of this clause, the Contractor shall not deliver under this contract any covered material melted or produced in any covered country, or any end item, manufactured in any covered country, that contains a covered material (10 U.S.C. 4872).
 
-(2)(i) For samarium-cobalt magnets and neodymium iron-boron magnets, this restriction includes -
+(2)(i) For samarium-cobalt magnets and neodymium iron-boron magnets, this restriction includes—
 
 (A) Melting samarium with cobalt to produce the samarium-cobalt alloy or melting neodymium with iron and boron to produce the neodymium-iron-boron alloy; and
 
@@ -72,7 +72,7 @@ Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten (DEC 2
 
 (3) For production of tantalum metals of any kind and alloys, this restriction includes the reduction or melting of any form of tantalum to create tantalum metal including unwrought, powder, mill products, and alloys. The restriction also covers all subsequent phases of production of tantalum metals and alloys.
 
-(4) For production of tungsten metal powder and tungsten heavy alloy, this restriction includes -
+(4) For production of tungsten metal powder and tungsten heavy alloy, this restriction includes—
 
 (i) Atomization;
 
@@ -82,11 +82,11 @@ Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten (DEC 2
 
 (iv) All subsequent phases of production of tungsten metal powder, tungsten heavy alloy, or any finished or semi-finished component containing tungsten heavy alloy.
 
-(c) *Exceptions.* This clause does not apply -
+(c) *Exceptions.* This clause does not apply—
 
-(1) To an end item containing a covered material that is -
+(1) To an end item containing a covered material that is—
 
-(i) A commercially available off-the-shelf item, other than -
+(i) A commercially available off-the-shelf item, other than—
 
 (A) A commercially available off-the-shelf item that is 50 percent or more tungsten by weight; or
 
@@ -102,6 +102,6 @@ Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten (DEC 2
 
 (ii) For samarium-cobalt magnets or neodymium-iron-boron magnets, the term “required form” refers to the form and properties of the magnets.
 
-(d) *Subcontracts.* The Contractor shall insert the substance of this clause, including this paragraph (d), in subcontracts and other contractual instruments that are for items containing a covered material, including subcontracts and other contractual instruments for commercial items, unless an exception in paragraph (c) of this clause applies. The Contractor shall not alter this clause other than to identify the appropriate parties.
+(d) *Subcontracts.* The Contractor shall insert the substance of this clause, including this paragraph (d), in subcontracts and other contractual instruments that are for items containing a covered material, including subcontracts and other contractual instruments for commercial products, unless an exception in paragraph (c) of this clause applies. The Contractor shall not alter this clause other than to identify the appropriate parties.
 
-(End of clause)[84 FR 18159, Apr. 30, 2019, as amended at 84 FR 72245, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020; 87 FR 52347, Aug. 25, 2022; 87 FR 76997, Dec. 16, 2022]
+(End of clause)[84 FR 18159, Apr. 30, 2019, as amended at 84 FR 72245, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020; 87 FR 52347, Aug. 25, 2022; 87 FR 76997, Dec. 16, 2022; 88 FR 6593, Jan. 31, 2023]

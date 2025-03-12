@@ -2,9 +2,9 @@
 
 *Basic.* As prescribed in 215.408(5)(i) and (5)(i)(A), use the following provision:
 
-Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data - Basic (JUL 2019)
+Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data—Basic (JAN 2023)
 
-(a) *Definitions.* As used in this provision -
+(a) *Definitions.* As used in this provision—
 
 *Market prices* means current prices that are established in the course of ordinary trade between buyers and sellers free to bargain and that can be substantiated through competition or from sources independent of the offerors.
 
@@ -18,13 +18,13 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 (b) *Exceptions from certified cost or pricing data.* (1) In lieu of submitting certified cost or pricing data, the Offeror may submit a written request for exception by submitting the information described in paragraphs (b)(1)(i) and (ii) of this provision. The Contracting Officer may require additional supporting information, but only to the extent necessary to determine whether an exception should be granted and whether the price is fair and reasonable.
 
-(i) *Exception for prices set by law or regulation - Identification of the law or regulation establishing the prices offered.* If the prices are controlled under law by periodic rulings, reviews, or similar actions of a governmental body, attach a copy of the controlling document, unless it was previously submitted to the contracting office.
+(i) *Exception for prices set by law or regulation—Identification of the law or regulation establishing the prices offered.* If the prices are controlled under law by periodic rulings, reviews, or similar actions of a governmental body, attach a copy of the controlling document, unless it was previously submitted to the contracting office.
 
-(ii) *Commercial item exception.* For a commercial item exception, the Offeror shall submit, at a minimum, information that is adequate for evaluating the reasonableness of the price for this acquisition, including prices at which the same item or similar items have been sold in the commercial market. Such information shall include -
+(ii) *Commercial product or commercial service exception.* For a commercial product or commercial service exception, the Offeror shall submit, at a minimum, information that is adequate for evaluating the reasonableness of the price for this acquisition, including prices at which the same product or service or similar products or services have been sold in the commercial market. Such information shall include—
 
-(A) For items previously determined to be commercial, the contract number and military department, defense agency, or other DoD component that rendered such determination, and if available, a Government point of contact;
+(A) For products or services previously determined to be commercial, the contract number and military department, defense agency, or other DoD component that rendered such determination, and if available, a Government point of contact;
 
-(B) For items priced based on a catalog -
+(B) For items priced based on a catalog—
 
 (*1*) A copy of or identification of the Offeror's current catalog showing the price for that item; and
 
@@ -56,13 +56,13 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 (ii) No cost data may be required from a prospective subcontractor in any case in which there are sufficient non-Government sales of the same item to establish reasonableness of price.
 
-(iii) If the Offeror relies on relevant sales data for similar items to determine the price is reasonable, the Offeror shall obtain only that technical information necessary -
+(iii) If the Offeror relies on relevant sales data for similar items to determine the price is reasonable, the Offeror shall obtain only that technical information necessary—
 
 (A) To support the conclusion that items are technically similar; and
 
 (B) To explain any technical differences that account for variances between the proposed prices and the sales data presented.
 
-(e) *Subcontracts.* The Offeror shall insert the substance of this provision, including this paragraph (e), in subcontracts exceeding the simplified acquisition threshold defined in FAR part 2. The Offeror shall require prospective subcontractors to adhere to the requirements of -
+(e) *Subcontracts.* The Offeror shall insert the substance of this provision, including this paragraph (e), in subcontracts exceeding the simplified acquisition threshold defined in FAR part 2. The Offeror shall require prospective subcontractors to adhere to the requirements of—
 
 (1) Paragraphs (c) and (d) of this provision for subcontracts above the threshold for submission of certified cost or pricing data in FAR 15.403-4; and
 
@@ -72,9 +72,9 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 *Alternate I.* As prescribed in 215.408(5)(i) and (5)(i)(B), use the following provision, which includes a different paragraph (c)(1).
 
-Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data - Alternate I (JUN 2019)
+Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data—Basic (JAN 2023)
 
-(a) *Definitions.* As used in this provision -
+(a) *Definitions.* As used in this provision—
 
 *Market prices* means current prices that are established in the course of ordinary trade between buyers and sellers free to bargain and that can be substantiated through competition or from sources independent of the offerors.
 
@@ -88,13 +88,13 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 (b) *Exceptions from certified cost or pricing data.* (1) In lieu of submitting certified cost or pricing data, the Offeror may submit a written request for exception by submitting the information described in paragraphs (b)(1)(i) and (ii) of this provision. The Contracting Officer may require additional supporting information, but only to the extent necessary to determine whether an exception should be granted and whether the price is fair and reasonable.
 
-(i) *Exception for price set by law or regulation - Identification of the law or regulation establishing the price offered.* If the price is controlled under law by periodic rulings, reviews, or similar actions of a governmental body, attach a copy of the controlling document, unless it was previously submitted to the contracting office.
+(i) *Exception for price set by law or regulation—Identification of the law or regulation establishing the price offered.* If the price is controlled under law by periodic rulings, reviews, or similar actions of a governmental body, attach a copy of the controlling document, unless it was previously submitted to the contracting office.
 
-(ii) *Commercial item exception.* For a commercial item exception, the Offeror shall submit, at a minimum, information that is adequate for evaluating the reasonableness of the price for this acquisition, including prices at which the same item or similar items have been sold in the commercial market. Such information shall include -
+(ii) *Commercial product or commercial service exception.* For a commercial product or commercial service exception, the Offeror shall submit, at a minimum, information that is adequate for evaluating the reasonableness of the price for this acquisition, including prices at which the same product or service or similar products or services have been sold in the commercial market. Such information shall include—
 
-(A) For items previously determined to be commercial, the contract number and military department, defense agency, or other DoD component that rendered such determination, and if available, a Government point of contact;
+(A) For products or services previously determined to be commercial, the contract number and military department, defense agency, or other DoD component that rendered such determination, and if available, a Government point of contact;
 
-(B) For items priced based on a catalog -
+(B) For items priced based on a catalog—
 
 (*1*) A copy of or identification of the Offeror's current catalog showing the price for that item; and
 
@@ -128,16 +128,16 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 (ii) No cost information may be required from a prospective subcontractor in any case in which there are sufficient non-Government sales of the same item to establish reasonableness of price.
 
-(iii) If the Offeror relies on relevant sales data for similar items to determine the price is reasonable, the Offeror shall obtain only that technical information necessary -
+(iii) If the Offeror relies on relevant sales data for similar items to determine the price is reasonable, the Offeror shall obtain only that technical information necessary—
 
 (A) To support the conclusion that items are technically similar; and
 
 (B) To explain any technical differences that account for variances between the proposed prices and the sales data presented.
 
-(e) *Subcontracts.* The Offeror shall insert the substance of this provision, including this paragraph (e), in all subcontracts exceeding the simplified acquisition threshold defined in FAR part 2. The Offeror shall require prospective subcontractors to adhere to the requirements of -
+(e) *Subcontracts.* The Offeror shall insert the substance of this provision, including this paragraph (e), in all subcontracts exceeding the simplified acquisition threshold defined in FAR part 2. The Offeror shall require prospective subcontractors to adhere to the requirements of—
 
 (1) Paragraph (c) and (d) of this provision for subcontracts above the threshold for submission of certified cost or pricing data in FAR 15.403-4; and
 
 (2) Paragraph (d) of this provision for subcontracts exceeding the simplified acquisition threshold defined in FAR part 2.
 
-(End of provision)[83 FR 4445, Jan. 31, 2018, as amended at 83 FR 30825, June 29, 2018; 84 FR 30950, June 28, 2019; 84 FR 33858, July 16, 2019]
+(End of provision)[83 FR 4445, Jan. 31, 2018, as amended at 83 FR 30825, June 29, 2018; 84 FR 30950, June 28, 2019; 84 FR 33858, July 16, 2019; 88 FR 6590, Jan. 31, 2023]

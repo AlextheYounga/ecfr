@@ -12,9 +12,9 @@
 
 (D) A random sample of the remaining low-dollar value items. Sample size may be determined by subjective judgment, e.g., experience with the offeror and the reliability of its estimating and accounting systems.
 
-(b) *Price analysis for commercial and noncommercial items.* (i) In the absence of adequate price competition in response to the solicitation, pricing based on market prices is the preferred method to establish a fair and reasonable price (see PGI 215.404-1(b)(i)).
+(b) *Price analysis.* (i) In the absence of adequate price competition in response to the solicitation, pricing based on market prices is the preferred method to establish a fair and reasonable price (see PGI 215.404-1(b)(i)).
 
-(ii) If the contracting officer determines that the information obtained through market research is insufficient to determine the reasonableness of price, the contracting officer shall consider information submitted by the offeror of recent purchase prices paid by the Government and commercial customers for the same or similar commercial items under comparable terms and conditions in establishing price reasonableness on a subsequent purchase if the contracting officer is satisfied that the prices previously paid remain a valid reference for comparison. Price reasonableness shall not be based solely on historical prices paid by the Government (see 215.403-3(a)(1)). The contracting officer shall consider the totality of other relevant factors such as the time elapsed since the prior purchase and any differences in the quantities purchased (10 U.S.C. 3703(e)).
+(ii) If the contracting officer determines that the information obtained through market research is insufficient to determine the reasonableness of price, the contracting officer shall consider information submitted by the offeror of recent purchase prices paid by the Government and commercial customers for the same or similar commercial products or commercial services under comparable terms and conditions in establishing price reasonableness on a subsequent purchase if the contracting officer is satisfied that the prices previously paid remain a valid reference for comparison. Price reasonableness shall not be based solely on historical prices paid by the Government (see 215.403-3(a)(1)). The contracting officer shall consider the totality of other relevant factors such as the time elapsed since the prior purchase and any differences in the quantities purchased (10 U.S.C. 3703(e)).
 
 (iii) If the contracting officer determines that the offeror cannot provide sufficient information as described in paragraph (b)(ii) of this section to determine the reasonableness of price, the contracting officer should request the offeror to submit information on -
 
@@ -44,8 +44,8 @@
 
 (vi) The contracting officer shall consider catalog prices to be reliable when they are regularly maintained and supported by relevant sales data (including any related discounts, refunds, rebates, offsets, or other adjustments). The contracting officer may request that the offeror support differences between the proposed price(s), catalog price(s), and relevant sales data.
 
-(vii) The contracting officer may consult with the DoD cadre of experts who are available to provide expert advice to the acquisition workforce in assisting with commercial item and price reasonableness determinations. The DoD cadre of experts is identified at PGI 215.404-1(b)(vii).
+(vii) The contracting officer may consult with the DoD cadre of experts who are available to provide expert advice to the acquisition workforce in assisting with commercial product or commercial service determinations and price reasonableness determinations. The DoD cadre of experts is identified at PGI 215.404-1(b)(vii).
 
 (h) *Review and justification of pass-through contracts.* Follow the procedures at PGI 215.404-1(h)(2) when considering alternative approaches or making the determination that the contracting approach selected is in the best interest of the Government, as required by FAR 15.404-1(h)(2).
 
-[63 FR 55040, Oct. 14, 1998, as amended at 71 FR 69494, Dec. 1, 2006; 72 FR 30278, May 31, 2007; 77 FR 76940, Dec. 31, 2012; 83 FR 4444, Jan. 31, 2018; 84 FR 72563, Dec. 31, 2019; 87 FR 65504, Oct. 28, 2022; 87 FR 76992, Dec. 16, 2022]
+[63 FR 55040, Oct. 14, 1998, as amended at 71 FR 69494, Dec. 1, 2006; 72 FR 30278, May 31, 2007; 77 FR 76940, Dec. 31, 2012; 83 FR 4444, Jan. 31, 2018; 84 FR 72563, Dec. 31, 2019; 87 FR 65504, Oct. 28, 2022; 87 FR 76992, Dec. 16, 2022; 88 FR 6583, Jan. 31, 2023]

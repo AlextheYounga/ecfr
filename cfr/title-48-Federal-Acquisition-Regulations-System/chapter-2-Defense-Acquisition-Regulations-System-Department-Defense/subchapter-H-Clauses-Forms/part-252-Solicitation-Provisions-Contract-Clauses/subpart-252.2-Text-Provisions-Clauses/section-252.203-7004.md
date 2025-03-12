@@ -2,9 +2,9 @@
 
 As prescribed in 203.1004(b)(2)(ii), use the following clause:
 
-Display of Hotline Posters (AUG 2019)
+Display of Hotline Posters (JAN 2023)
 
-(a) *Definition.* As used in this clause -
+(a) *Definition.* As used in this clause—
 
 *United States* means the 50 States, the District of Columbia, and outlying areas.
 
@@ -12,9 +12,9 @@ Display of Hotline Posters (AUG 2019)
 
 (ii) For contracts performed outside the United States, when security concerns can be appropriately demonstrated, the contracting officer may provide the contractor the option to publicize the program to contractor personnel in a manner other than public display of the poster, such as private employee written instructions and briefings.
 
-(2) If the contract is funded, in whole or in part, by Department of Homeland Security (DHS) disaster relief funds and the work is to be performed in the United States, the DHS fraud hotline poster shall be displayed in addition to the DoD hotline poster. If a display of a DHS fraud hotline poster is required, the Contractor may obtain such poster from -
+(2) If the contract is funded, in whole or in part, by Department of Homeland Security (DHS) disaster relief funds and the work is to be performed in the United States, the DHS fraud hotline poster shall be displayed in addition to the DoD hotline poster. If a display of a DHS fraud hotline poster is required, the Contractor may obtain such poster from—
 
-(i) DHS Office of Inspector General/MAIL STOP 0305, Attn: Office of Investigations - Hotline, 245 Murray Lane SW., Washington, DC 20528-0305; or
+(i) DHS Office of Inspector General/MAIL STOP 0305, Attn: Office of Investigations—Hotline, 245 Murray Lane SW., Washington, DC 20528-0305; or
 
 (ii) Via the Internet at *https://www.oig.dhs.gov/assets/Hotline/DHS\_OIG\_Hotline-optimized.jpg.*
 
@@ -24,6 +24,6 @@ Display of Hotline Posters (AUG 2019)
 
 (3) Additionally, if the Contractor maintains a company Web site as a method of providing information to employees, the Contractor shall display an electronic version of the required poster at the Web site.
 
-(d) *Subcontracts.* The Contractor shall include the substance of this clause, including this paragraph (d), in all subcontracts that exceed the threshold specified in Defense Federal Acquisition Regulation Supplement 203.1004(b)(2)(ii) on the date of subcontract award, except when the subcontract is for the acquisition of a commercial item.
+(d) *Subcontracts.* The Contractor shall include the substance of this clause, including this paragraph (d), in all subcontracts that exceed the threshold specified in Defense Federal Acquisition Regulation Supplement 203.1004(b)(2)(ii) on the date of subcontract award, except when the subcontract is for the acquisition of a commercial product or commercial service.
 
-(End of clause)[80 FR 5001, Jan. 29, 2015, as amended at 80 FR 36905, June 26, 2015; 81 FR 73006, Oct. 21, 2016; 84 FR 25187, May 31, 2019; 84 FR 39203, Aug. 9, 2019]
+(End of clause)[80 FR 5001, Jan. 29, 2015, as amended at 80 FR 36905, June 26, 2015; 81 FR 73006, Oct. 21, 2016; 84 FR 25187, May 31, 2019; 84 FR 39203, Aug. 9, 2019; 88 FR 6589, Jan. 31, 2023]

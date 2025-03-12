@@ -2,19 +2,19 @@
 
 As prescribed in 225.302-6, insert the following clause:
 
-Defense Contractors Performing Private Security Functions Outside the United States (JUN 2016)
+Defense Contractors Performing Private Security Functions Outside the United States (JAN 2023)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
-*Full cooperation* - (1) Means disclosure to the Government of the information sufficient to identify the nature and extent of the incident and the individuals responsible for the conduct. It includes providing timely and complete response to Government auditors' and investigators' requests for documents and access to employees with information;
+*Full cooperation*—(1) Means disclosure to the Government of the information sufficient to identify the nature and extent of the incident and the individuals responsible for the conduct. It includes providing timely and complete response to Government auditors' and investigators' requests for documents and access to employees with information;
 
-(2) Does not foreclose any contractor rights arising in law, the FAR or the terms of the contract. It does not require -
+(2) Does not foreclose any contractor rights arising in law, the FAR or the terms of the contract. It does not require—
 
 (i) The contractor to waive its attorney-client privilege or the protections afforded by the attorney work product doctrine; or
 
 (ii) Any officer, director, owner, or employee of the contractor, including a sole proprietor, to waive his or her attorney-client privilege or Fifth Amendment rights; and
 
-(3) Does not restrict the contractor from -
+(3) Does not restrict the contractor from—
 
 (i) Conducting an internal investigation; or
 
@@ -26,7 +26,7 @@ Defense Contractors Performing Private Security Functions Outside the United Sta
 
 (2) Any other activity for which personnel are required to carry weapons in the performance of their duties in accordance with the terms of this contract.
 
-(b) *Applicability.* If this contract is performed both in a designated area and in an area that is not designated, the clause only applies to performance in the designated area. Designated areas are areas outside the United States of -
+(b) *Applicability.* If this contract is performed both in a designated area and in an area that is not designated, the clause only applies to performance in the designated area. Designated areas are areas outside the United States of—
 
 (1) Contingency operations;
 
@@ -38,9 +38,9 @@ Defense Contractors Performing Private Security Functions Outside the United Sta
 
 (5) Other military operations or military exercises, when designated by the Combatant Commander.
 
-(c) *Requirements.* The Contractor shall -
+(c) *Requirements.* The Contractor shall—
 
-(1) Ensure that all Contractor personnel who are responsible for performing private security functions under this contract comply with 32 CFR part 159 and any orders, directives, or instructions to contractors performing private security functions that are identified in the contract for -
+(1) Ensure that all Contractor personnel who are responsible for performing private security functions under this contract comply with 32 CFR part 159 and any orders, directives, or instructions to contractors performing private security functions that are identified in the contract for—
 
 (i) Registering, processing, accounting for, managing, overseeing and keeping appropriate records of personnel performing private security functions;
 
@@ -48,7 +48,7 @@ Defense Contractors Performing Private Security Functions Outside the United Sta
 
 (iii) Identifying and registering in SPOT armored vehicles, helicopters and other military vehicles operated by Contractors performing private security functions; and
 
-(iv) In accordance with orders and instructions established by the applicable Combatant Commander, reporting incidents in which -
+(iv) In accordance with orders and instructions established by the applicable Combatant Commander, reporting incidents in which—
 
 (A) A weapon is discharged by personnel performing private security functions;
 
@@ -60,7 +60,7 @@ Defense Contractors Performing Private Security Functions Outside the United Sta
 
 (E) Active, non-lethal countermeasures (other than the discharge of a weapon) are employed by personnel performing private security functions in response to a perceived immediate threat;
 
-(2) Ensure that Contractor personnel who are responsible for performing private security functions under this contract are briefed on and understand their obligation to comply with -
+(2) Ensure that Contractor personnel who are responsible for performing private security functions under this contract are briefed on and understand their obligation to comply with—
 
 (i) Qualification, training, screening (including, if applicable, thorough background checks) and security requirements established by 32 CFR part 159;
 
@@ -70,15 +70,15 @@ Defense Contractors Performing Private Security Functions Outside the United Sta
 
 (iv) Rules on the use of force issued by the applicable Combatant Commander or relevant Chief of Mission for personnel performing private security functions;
 
-(3) Provide full cooperation with any Government-authorized investigation of incidents reported pursuant to paragraph (c)(1)(iv) of this clause and incidents of alleged misconduct by personnel performing private security functions under this contract by providing -
+(3) Provide full cooperation with any Government-authorized investigation of incidents reported pursuant to paragraph (c)(1)(iv) of this clause and incidents of alleged misconduct by personnel performing private security functions under this contract by providing—
 
 (i) Access to employees performing private security functions; and
 
 (ii) Relevant information in the possession of the Contractor regarding the incident concerned; and
 
-(4) Comply with ANSI/ASIS PSC.1-2012, American National Standard, Management System for Quality of Private Security Company Operations - Requirements with Guidance or the International Standard ISO 18788, Management System for Private Security Operations - Requirements with Guidance (located at *http://www.acq.osd.mil/log/PS/psc.html*).
+(4) Comply with ANSI/ASIS PSC.1-2012, American National Standard, Management System for Quality of Private Security Company Operations—Requirements with Guidance or the International Standard ISO 18788, Management System for Private Security Operations—Requirements with Guidance (located at *http://www.acq.osd.mil/log/PS/psc.html*).
 
-(d) *Remedies.* In addition to other remedies available to the Government -
+(d) *Remedies.* In addition to other remedies available to the Government—
 
 (1) The Contracting Officer may direct the Contractor, at its own expense, to remove and replace any Contractor or subcontractor personnel performing private security functions who fail to comply with or violate applicable requirements of this clause or 32 CFR part 159. Such action may be taken at the Government's discretion without prejudice to its rights under any other provision of this contract;
 
@@ -88,7 +88,7 @@ Defense Contractors Performing Private Security Functions Outside the United Sta
 
 (e) *Rule of construction.* The duty of the Contractor to comply with the requirements of this clause shall not be reduced or diminished by the failure of a higher- or lower-tier Contractor or subcontractor to comply with the clause requirements or by a failure of the contracting activity to provide required oversight.
 
-(f) *Subcontracts.* The Contractor shall include the substance of this clause, including this paragraph (f), in subcontracts, including subcontracts for commercial items, when private security functions will be performed outside the United States in areas of -
+(f) *Subcontracts.* The Contractor shall include the substance of this clause, including this paragraph (f), in subcontracts, including subcontracts for commercial products or commercial services, when private security functions will be performed outside the United States in areas of—
 
 (1) Contingency operations;
 
@@ -100,4 +100,4 @@ Defense Contractors Performing Private Security Functions Outside the United Sta
 
 (5) Other military operations or military exercises, when designated by the Combatant Commander.
 
-(End of clause)[80 FR 4999, Jan. 29, 2015, as amended at 81 FR 42560, June 30, 2016]
+(End of clause)[80 FR 4999, Jan. 29, 2015, as amended at 81 FR 42560, June 30, 2016; 88 FR 6592, Jan. 31, 2023]

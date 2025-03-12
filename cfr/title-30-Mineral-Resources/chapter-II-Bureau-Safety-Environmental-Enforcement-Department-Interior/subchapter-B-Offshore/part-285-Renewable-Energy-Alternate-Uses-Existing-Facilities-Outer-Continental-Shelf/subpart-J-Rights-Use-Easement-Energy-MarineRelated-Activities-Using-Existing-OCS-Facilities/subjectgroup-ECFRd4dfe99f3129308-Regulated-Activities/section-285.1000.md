@@ -1,0 +1,3 @@
+##### § 285.1000 What activities does this subpart regulate? #####
+
+This subpart provides the general provisions for regulating activities that use (or propose to use) an existing OCS facility for energy- or marine-related purposes, that are not otherwise authorized under any other part of this subchapter or any other applicable Federal statute. Activities authorized under any other part of this subchapter or under any other Federal law that use (or propose to use) an existing OCS facility are not subject to this subpart.

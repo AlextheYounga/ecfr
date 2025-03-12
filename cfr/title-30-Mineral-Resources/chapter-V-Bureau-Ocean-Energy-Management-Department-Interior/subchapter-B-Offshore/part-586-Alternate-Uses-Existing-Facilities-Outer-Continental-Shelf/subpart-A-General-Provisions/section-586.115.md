@@ -1,0 +1,16 @@
+##### § 586.115 Paperwork Reduction Act statements—information collection. #####
+
+(a) The Office of Management and Budget (OMB) has approved the information collection requirements in this part under 44 U.S.C. 3501, *et seq.,* and assigned OMB Control Number 1010-0176. The table in paragraph (e) of this section lists the subparts in the rule requiring the information and its title, summarizes the reasons for collecting the information, and summarizes how BOEM uses the information.
+
+(b) Respondents are primarily Alternate Use RUE grant holders and operators. The requirement to respond to the information collection in this part is mandated under subsection 8(p) of the OCS Lands Act. Some responses are also required to obtain or retain a benefit, or may be voluntary.
+
+(c) The Paperwork Reduction Act of 1995 (44 U.S.C. 3501 *et seq.*) requires us to inform the public that an agency may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a currently valid OMB control number.
+
+(d) Comments regarding any aspect of the collections of information under this part, including suggestions for reducing the burden, should be sent to the Information Collection Clearance Officer, Bureau of Ocean Energy Management, 45600 Woodland Road, Sterling, VA 20166.
+
+(e) BOEM is collecting this information for the reasons given in the following table:
+
+|                                            30 CFR 586 subpart and title                                            |                                                                                                                                                              Reasons for collecting information and how used                                                                                                                                                               |
+|--------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                          (1) Subpart A—General Provisions                                          |                                                    To inform BOEM of actions taken to comply with general operational requirements on the OCS. To ensure that operations on the OCS meet statutory and regulatory requirements, are safe and protect the environment, and result in diligent development on OCS leases.                                                    |
+|(2) Subpart B—Issuance of Alternate Use RUEs for Energy- and Marine-Related Activities Using Existing OCS Facilities|To enable BOEM to review information regarding the design, installation, and operation of Alternate Use RUEs on the OCS, to ensure that Alternate Use RUE operations are safe and protect the human, marine, and coastal environment. To ensure adherence with other Federal laws, these regulations, the Alternate Use RUE grant, and, where applicable, the approved plan.|

@@ -1,12 +1,12 @@
 ##### 211.274-2 Policy for item unique identification. #####
 
-(a) It is DoD policy that DoD item unique identification, or a DoD recognized unique identification equivalent, is required for all delivered items, including items of contractor-acquired property delivered on contract line items (see PGI 245.402-71 for guidance when delivery of contractor acquired property is required) -
+(a) It is DoD policy that DoD item unique identification, or a DoD recognized unique identification equivalent, is required for all delivered items, including items of contractor-acquired property delivered on contract line items (see PGI 245.402-71 for guidance when delivery of contractor acquired property is required)—
 
 (1) For which the Government's unit acquisition cost is $5,000 or more;
 
 (2) For which the Government's unit acquisition cost is less than $5,000 when the requiring activity determines that item unique identification is required for mission essential or controlled inventory items; or
 
-(3) Regardless of value for any -
+(3) Regardless of value for any—
 
 (i) DoD serially managed item (reparable or nonreparable) or subassembly, component, or part embedded within a subassembly, component, or part;
 
@@ -18,13 +18,13 @@
 
 (v) High risk item identified by the requiring activity as vulnerable to supply chain threat, a target of cyber threats, or counterfeiting.
 
-(b) *Exceptions.* The contractor will not be required to provide DoD item unique identification if -
+(b) *Exceptions.* The contractor will not be required to provide DoD item unique identification if—
 
 (1) The items, as determined by the head of the contracting activity, are to be used to support a contingency or humanitarian or peacekeeping operation; to facilitate defense against or recovery from nuclear, biological, chemical, or radiological attack; to facilitate the provision of international disaster assistance; or to support response to an emergency or major disaster; or
 
-(2) A determination and findings has been executed concluding that it is more cost effective for the Government requiring activity to assign, mark, and register the unique item identifier after delivery, and the item is either acquired from a small business concern, or is a commercial item acquired under FAR part 12 or part 8.
+(2) A determination and findings has been executed concluding that it is more cost effective for the Government requiring activity to assign, mark, and register the unique item identifier after delivery, and the item is either acquired from a small business concern, or is a commercial product acquired under FAR part 12 or 8.
 
-(i) The determination and findings shall be executed by -
+(i) The determination and findings shall be executed by—
 
 (A) The Component Acquisition Executive for an acquisition category (ACAT) I program; or
 
@@ -32,4 +32,4 @@
 
 (ii) The DoD Unique Identification Policy Office must receive a copy of the determination and findings required by paragraph (b)(2)(i) of this subsection. Follow the procedures at PGI 211.274-2.
 
-[70 FR 20836, Apr. 22, 2005, as amended at 76 FR 33168, June 8, 2011; 77 FR 52257, Aug. 29, 2012; 78 FR 76071, Dec. 16, 2013; 83 FR 24889, May 30, 2018]
+[70 FR 20836, Apr. 22, 2005, as amended at 76 FR 33168, June 8, 2011; 77 FR 52257, Aug. 29, 2012; 78 FR 76071, Dec. 16, 2013; 83 FR 24889, May 30, 2018; 88 FR 6581, Jan. 31, 2023]

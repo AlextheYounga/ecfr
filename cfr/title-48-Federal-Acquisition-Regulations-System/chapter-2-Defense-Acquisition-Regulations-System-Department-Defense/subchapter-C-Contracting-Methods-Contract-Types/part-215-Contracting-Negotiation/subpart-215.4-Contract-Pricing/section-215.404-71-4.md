@@ -2,7 +2,7 @@
 
 (a) *Description.* This factor focuses on encouraging and rewarding capital investment in facilities that benefit DoD. It recognizes both the facilities capital that the contractor will employ in contract performance and the contractor's commitment to improving productivity.
 
-(b) *Contract facilities capital estimates.* The contracting officer shall estimate the facilities capital cost of money and capital employed using -
+(b) *Contract facilities capital estimates.* The contracting officer shall estimate the facilities capital cost of money and capital employed using—
 
 (1) An analysis of the appropriate Forms CASB-CMF and cost of money factors (48 CFR 9904.414 and FAR 31.205-10); and
 
@@ -10,7 +10,7 @@
 
 (c) *Use of DD Form 1861.* See PGI 215.404-71-4(c) for obtaining field pricing support for preparing DD Form 1861.
 
-(1) *Purpose.* The DD Form 1861 provides a means of linking the Form CASB-CMF and DD Form 1547, Record of Weighted Guidelines Application. It -
+(1) *Purpose.* The DD Form 1861 provides a means of linking the Form CASB-CMF and DD Form 1547, Record of Weighted Guidelines Application. It—
 
 (i) Enables the contracting officer to differentiate profit objectives for various types of assets (land, buildings, equipment). The procedure is similar to applying overhead rates to appropriate overhead allocation bases to determine contract overhead costs.
 
@@ -48,7 +48,7 @@
 
 (2) Use the allocated facilities capital attributable to land, buildings, and equipment, as derived in DD Form 1861, Contract Facilities Capital Cost of Money.
 
-(i) In addition to the net book value of facilities capital employed, consider facilities capital that is part of a formal investment plan if the contractor submits reasonable evidence that -
+(i) In addition to the net book value of facilities capital employed, consider facilities capital that is part of a formal investment plan if the contractor submits reasonable evidence that—
 
 (A) Achievable benefits to DoD will result from the investment; and
 
@@ -66,11 +66,11 @@
 |Buildings |                0                 |         N/A          |
 |Equipment |               17.5               |       10 to 25       |
 
-(g) *Evaluation criteria.* (1) In evaluating facilities capital employed, the contracting officer -
+(g) *Evaluation criteria.* (1) In evaluating facilities capital employed, the contracting officer—
 
 (i) Should relate the usefulness of the facilities capital to the goods or services being acquired under the prospective contract;
 
-(ii) Should analyze the productivity improvements and other anticipated industrial base enhancing benefits resulting from the facilities capital investment, including -
+(ii) Should analyze the productivity improvements and other anticipated industrial base enhancing benefits resulting from the facilities capital investment, including—
 
 (A) The economic value of the facilities capital, such as physical age, undepreciated value, idleness, and expected contribution to future defense needs; and
 
@@ -78,7 +78,7 @@
 
 (iii) Should consider any contractual provisions that reduce the contractor's risk of investment recovery, such as termination protection clauses and capital investment indemnification.
 
-(2) *Above normal conditions.* (i) The contracting officer may assign a higher than normal value if the facilities capital investment has direct, identifiable, and exceptional benefits. Indicators are -
+(2) *Above normal conditions.* (i) The contracting officer may assign a higher than normal value if the facilities capital investment has direct, identifiable, and exceptional benefits. Indicators are—
 
 (A) New investments in state-of-the-art technology that reduce acquisition cost or yield other tangible benefits such as improved product quality or accelerated deliveries; or
 
@@ -86,9 +86,9 @@
 
 (ii) The contracting officer may assign a value significantly above normal when there are direct and measurable benefits in efficiency and significantly reduced acquisition costs on the effort being priced. Maximum values apply only to those cases where the benefits of the facilities capital investment are substantially above normal.
 
-(3) *Below normal conditions.* (i) The contracting officer may assign a lower than normal value if the facilities capital investment has little benefit to DoD. Indicators are -
+(3) *Below normal conditions.* (i) The contracting officer may assign a lower than normal value if the facilities capital investment has little benefit to DoD. Indicators are—
 
-(A) Allocations of capital apply predominantly to commercial item lines;
+(A) Allocations of capital apply predominantly to commercial product lines;
 
 (B) Investments are for such things as furniture and fixtures, home or group level administrative offices, corporate aircraft and hangars, gymnasiums; or
 
@@ -96,4 +96,4 @@
 
 (ii) The contracting officer may assign a value significantly below normal when a significant portion of defense manufacturing is done in an environment characterized by outdated, inefficient, and labor-intensive capital equipment.
 
-[63 FR 55040, Oct. 14, 1998, as amended at 67 FR 20691, Apr. 26, 2002; 67 FR 49255, July 30, 2002; 71 FR 69494, Dec. 1, 2006; 72 FR 14239, Mar. 27, 2007; 73 FR 70906, Nov. 24, 2008]
+[63 FR 55040, Oct. 14, 1998, as amended at 67 FR 20691, Apr. 26, 2002; 67 FR 49255, July 30, 2002; 71 FR 69494, Dec. 1, 2006; 72 FR 14239, Mar. 27, 2007; 73 FR 70906, Nov. 24, 2008; 88 FR 6583, Jan. 31, 2023]

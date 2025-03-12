@@ -2,9 +2,9 @@
 
 As prescribed in 204.7403(a), use the following clause:
 
-Limitations on the Use or Disclosure of Information by Litigation Support Contractors (MAY 2016)
+Limitations on the Use or Disclosure of Information by Litigation Support Contractors (JAN 2023)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Computer software* means computer programs, source code, source code listings, object code listings, design details, algorithms, processes, flow charts, formulae, and related material that would enable the software to be reproduced, recreated, or recompiled. Computer software does not include computer data bases or computer software documentation.
 
@@ -18,7 +18,7 @@ Limitations on the Use or Disclosure of Information by Litigation Support Contra
 
 *Technical data* means recorded information, regardless of the form or method of the recording, of a scientific or technical nature (including computer software documentation). The term does not include computer software or data incidental to contract administration, such as financial and/or management information.
 
-(b) *Limitations on use or disclosure of litigation information.* Notwithstanding any other provision of this contract, the Contractor shall -
+(b) *Limitations on use or disclosure of litigation information.* Notwithstanding any other provision of this contract, the Contractor shall—
 
 (1) Access and use litigation information only for the purpose of providing litigation support under this contract;
 
@@ -32,7 +32,7 @@ Limitations on the Use or Disclosure of Information by Litigation Support Contra
 
 (c) Violation of paragraph (b)(1),(b)(2), (b)(3), (b)(4), or (b)(5) of this clause is a basis for the Government to terminate this contract.
 
-(d) *Indemnification and creation of third party beneficiary rights.* The Contractor agrees -
+(d) *Indemnification and creation of third party beneficiary rights.* The Contractor agrees—
 
 (1) To indemnify and hold harmless the Government, its agents, and employees from any claim or liability, including attorneys' fees, court costs, and expenses, arising out of, or in any way related to, the misuse or unauthorized modification, reproduction, release, performance, display, or disclosure of any litigation information; and
 
@@ -40,6 +40,6 @@ Limitations on the Use or Disclosure of Information by Litigation Support Contra
 
 (e) *Contractor**employees.* The Contractor shall ensure that its employees are subject to use and nondisclosure obligations consistent with this clause prior to the employees being provided access to or use of any litigation information covered by this clause.
 
-(f) *Flowdown.* Include the substance of this clause, including this paragraph (f), in all subcontracts, including subcontracts for commercial items.
+(f) *Subcontracts.* Include the substance of this clause, including this paragraph (f), in all subcontracts, including subcontracts for commercial products or commercial services.
 
-(End of clause)[79 FR 11340, Feb. 28, 2014, as amended at 81 FR 28729, May 10, 2016; 84 FR 58332, Oct. 31, 2019]
+(End of clause)[79 FR 11340, Feb. 28, 2014, as amended at 81 FR 28729, May 10, 2016; 84 FR 58332, Oct. 31, 2019; 88 FR 6589, Jan. 31, 2023]

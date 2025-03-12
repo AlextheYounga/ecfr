@@ -2,9 +2,9 @@
 
 As prescribed in 232.7004(b), use the following clause:
 
-Wide Area Workflow Payment Instructions (DEC 2018)
+Wide Area Workflow Payment Instructions (JAN 2023)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Department of Defense Activity Address Code (DoDAAC)* is a six position code that uniquely identifies a unit, activity, or organization.
 
@@ -16,7 +16,7 @@ Wide Area Workflow Payment Instructions (DEC 2018)
 
 (b) *Electronic invoicing.* The WAWF system provides the method to electronically process vendor payment requests and receiving reports, as authorized by Defense Federal Acquisition Regulation System (DFARS) 252.232-7003, Electronic Submission of Payment Requests and Receiving Reports.
 
-(c) *WAWF access.* To access WAWF, the Contractor shall -
+(c) *WAWF access.* To access WAWF, the Contractor shall—
 
 (1) Have a designated electronic business point of contact in the System for Award Management at *https://www.sam.gov* and
 
@@ -32,7 +32,7 @@ Wide Area Workflow Payment Instructions (DEC 2018)
 
 (i) For cost-type line items, including labor-hour or time-and-materials, submit a cost voucher.
 
-(ii) For fixed price line items -
+(ii) For fixed price line items—
 
 (A) That require shipment of a deliverable, submit the invoice and receiving report specified by the Contracting Officer.
 
@@ -46,7 +46,7 @@ Wide Area Workflow Payment Instructions (DEC 2018)
 
 (iv) For performance based payments, submit a performance based payment request.
 
-(v) For commercial item financing, submit a commercial item financing request.
+(v) For commercial financing, submit a commercial financing request.
 
 (2) Fast Pay requests are only permitted when Federal Acquisition Regulation (FAR) 52.213-1 is included in the contract.
 
@@ -54,27 +54,23 @@ Wide Area Workflow Payment Instructions (DEC 2018)
 
 (3) *Document routing.* The Contractor shall use the information in the Routing Data Table below only to fill in applicable fields in WAWF when creating payment requests and receiving reports in the system.
 
-Routing Data Table \*
-
-|   Field name in WAWF    |Data to be  <br/>entered in  <br/>WAWF|
-|-------------------------|--------------------------------------|
-|   Pay Official DoDAAC   |                                      |
-|     Issue By DoDAAC     |                                      |
-|    Admin DoDAAC \*\*    |                                      |
-|    Inspect By DoDAAC    |                                      |
-|      Ship To Code       |                                      |
-|     Ship From Code      |                                      |
-|      Mark For Code      |                                      |
-|Service Approver (DoDAAC)|                                      |
-|Service Acceptor (DoDAAC)|                                      |
-| Accept at Other DoDAAC  |                                      |
-|       LPO DoDAAC        |                                      |
-|   DCAA Auditor DoDAAC   |                                      |
-|     Other DoDAAC(s)     |                                      |
-
-(\* Contracting Officer: Insert applicable DoDAAC information. If multiple ship to/acceptance locations apply, insert “See Schedule” or “Not applicable.”)
-
-(\*\* Contracting Officer: If the contract provides for progress payments or performance-based payments, insert the DoDAAC for the contract administration office assigned the functions under FAR 42.302(a)(13).)
+|                                                                                                Field name in WAWF                                                                                                |Data to be  <br/>entered in  <br/>WAWF|
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+|                                                                                               Pay Official DoDAAC                                                                                                |                                      |
+|                                                                                                 Issue By DoDAAC                                                                                                  |                                      |
+|                                                                                                Admin DoDAAC \*\*                                                                                                 |                                      |
+|                                                                                                Inspect By DoDAAC                                                                                                 |                                      |
+|                                                                                                   Ship To Code                                                                                                   |                                      |
+|                                                                                                  Ship From Code                                                                                                  |                                      |
+|                                                                                                  Mark For Code                                                                                                   |                                      |
+|                                                                                            Service Approver (DoDAAC)                                                                                             |                                      |
+|                                                                                            Service Acceptor (DoDAAC)                                                                                             |                                      |
+|                                                                                              Accept at Other DoDAAC                                                                                              |                                      |
+|                                                                                                    LPO DoDAAC                                                                                                    |                                      |
+|                                                                                               DCAA Auditor DoDAAC                                                                                                |                                      |
+|                                                                                                 Other DoDAAC(s)                                                                                                  |                                      |
+|                            (\* Contracting Officer: Insert applicable DoDAAC information. If multiple ship to/acceptance locations apply, insert “See Schedule” or “Not applicable.”)                            |                                      |
+|(\*\* Contracting Officer: If the contract provides for progress payments or performance-based payments, insert the DoDAAC for the contract administration office assigned the functions under FAR 42.302(a)(13).)|                                      |
 
 (4) *Payment request.* The Contractor shall ensure a payment request includes documentation appropriate to the type of payment request in accordance with the payment clause, contract financing clause, or Federal Acquisition Regulation 52.216-7, Allowable Cost and Payment, as applicable.
 
@@ -86,4 +82,4 @@ Routing Data Table \*
 
 (2) Contact the WAWF helpdesk at 866-618-5988, if assistance is needed.
 
-[77 FR 38734, June 29, 2012, as amended at 78 FR 28758, May 16, 2013; 78 FR 30232, May 22, 2013; 83 FR 66064, Dec. 21, 2018]
+[77 FR 38734, June 29, 2012, as amended at 78 FR 28758, May 16, 2013; 78 FR 30232, May 22, 2013; 83 FR 66064, Dec. 21, 2018; 88 FR 6595, Jan. 31, 2023]

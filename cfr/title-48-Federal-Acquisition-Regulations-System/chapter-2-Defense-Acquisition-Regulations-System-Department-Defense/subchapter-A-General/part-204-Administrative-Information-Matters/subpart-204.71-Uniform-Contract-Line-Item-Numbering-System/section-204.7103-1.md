@@ -2,9 +2,9 @@
 
 Contracts shall identify the items or services to be acquired as separate contract line items unless it is not feasible to do so.
 
-(a) Contract line items shall have all four of the following characteristics; however, there are exceptions within the characteristics, which may make establishing a separate contract line item appropriate even though one of the characteristics appears to be missing -
+(a) Contract line items shall have all four of the following characteristics; however, there are exceptions within the characteristics, which may make establishing a separate contract line item appropriate even though one of the characteristics appears to be missing—
 
-(1) *Single unit price.* The item shall have a single unit price or a single total price, except -
+(1) *Single unit price.* The item shall have a single unit price or a single total price, except—
 
 (i) If the item is not separately priced (NSP) but the price is included in the unit price of another contract line item, enter NSP instead of the unit price;
 
@@ -20,7 +20,7 @@ Contracts shall identify the items or services to be acquired as separate contra
 
 (2) *Separately identifiable.* A contract line item must be identified separately from any other items or services on the contract.
 
-(i) Supplies are separately identifiable if they have no more than one -
+(i) Supplies are separately identifiable if they have no more than one—
 
 (A) National stock number (NSN);
 
@@ -28,7 +28,7 @@ Contracts shall identify the items or services to be acquired as separate contra
 
 (C) Manufacturer's part number.
 
-(ii) Services are separately identifiable if they have no more than one -
+(ii) Services are separately identifiable if they have no more than one—
 
 (A) Scope of work; or
 
@@ -64,6 +64,6 @@ Contracts shall identify the items or services to be acquired as separate contra
 
 (f) If a supply or service involves ancillary functions, like packaging and handling, transportation, payment of state or local taxes, or use of reusable containers, and these functions are normally performed by the contractor and the contractor is normally entitled to reimbursement for performing these functions, do not establish a separate contract line item solely to account for these functions. However, do identify the functions in the contract schedule. If the offeror separately prices these functions, contracting officers may establish separate contract line items for the functions; however, the separate line items must conform to the requirements of paragraph (a) of this subsection.
 
-(g) Certain commercial items and initial provisioning spares for weapons systems are requested and subsequently solicited using units of measure such as kit, set, or lot. However, there are times when individual items within that kit, set, or lot are not grouped and delivered in a single shipment. This creates potential contract administration issues with inspection, acceptance, and payment. In such cases, solicitations should be structured to allow offerors to provide information about products that may not have been known to the Government prior to solicitation and propose an alternate line item structure as long as the alternate is consistent with the requirements of 204.71, which provides explicit guidance on the use of contract line items and subline items, and with PGI 204.71.
+(g) Certain commercial products and initial provisioning spares for weapons systems are requested and subsequently solicited using units of measure such as kit, set, or lot. However, there are times when individual items within that kit, set, or lot are not grouped and delivered in a single shipment. This creates potential contract administration issues with inspection, acceptance, and payment. In such cases, solicitations should be structured to allow offerors to provide information about products that may not have been known to the Government prior to solicitation and propose an alternate line item structure as long as the alternate is consistent with the requirements of 204.71, which provides explicit guidance on the use of contract line items and subline items, and with PGI 204.71.
 
-[56 FR 36289, July 31, 1991, as amended at 60 FR 34468, July 3, 1995; 60 FR 43191, Aug. 18, 1995; 70 FR 58982, Oct. 11, 2005; 76 FR 58139, Sept. 20, 2011; 79 FR 11342, Feb. 28, 2014]
+[56 FR 36289, July 31, 1991, as amended at 60 FR 34468, July 3, 1995; 60 FR 43191, Aug. 18, 1995; 70 FR 58982, Oct. 11, 2005; 76 FR 58139, Sept. 20, 2011; 79 FR 11342, Feb. 28, 2014; 88 FR 6580, Jan. 31, 2023]

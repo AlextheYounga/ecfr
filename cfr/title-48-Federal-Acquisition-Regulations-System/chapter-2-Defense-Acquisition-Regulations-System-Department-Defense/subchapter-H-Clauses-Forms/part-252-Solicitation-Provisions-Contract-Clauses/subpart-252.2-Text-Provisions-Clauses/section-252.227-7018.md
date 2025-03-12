@@ -1,8 +1,8 @@
-##### 252.227-7018 Rights in Noncommercial Technical Data and Computer Software - Small Business Innovation Research (SBIR) Program. #####
+##### 252.227-7018 Rights in Other Than Commercial Technical Data and Computer Software - Small Business Innovation Research (SBIR) Program. #####
 
 As prescribed in 227.7104(a), use the following clause:
 
-Rights in Noncommercial Technical Data and Computer Software - Small Business Innovation Research (SBIR) Program (DEC 2022)
+Rights In Other Than Commercial Technical Data and Computer Software - Small Business Innovation Research (SBIR) Program (JAN 2023)
 
 (a) *Definitions.* As used in this clause -
 
@@ -76,9 +76,9 @@ Rights in Noncommercial Technical Data and Computer Software - Small Business In
 
 (16) *Minor modification* means a modification that does not significantly alter the nongovernmental function or purpose of computer software or is of the type customarily provided in the commercial marketplace.
 
-(17) *Noncommercial computer software* means software that does not qualify as commercial computer software under paragraph (a)(1) of this clause.
+(17) *Other than commercial computer software* means software that does not qualify as commercial computer software under the definition of “commercial computer software” of this clause.
 
-(18) “Restricted rights” apply only to noncommercial computer software and mean the Government's rights to -
+(18) *Restricted rights* apply only to other than commercial computer software and mean the Government's rights to -
 
 (i) Use a computer program with one computer at one time. The program may not be accessed by more than one terminal or central processing unit or time shared unless otherwise permitted by this contract;
 
@@ -126,7 +126,7 @@ Rights in Noncommercial Technical Data and Computer Software - Small Business In
 
 (21) *Unlimited rights* means rights to use, modify, reproduce, release, perform, display, or disclose, technical data or computer software in whole or in part, in any manner and for any purpose whatsoever, and to have or authorize others to do so.
 
-(b) *Rights in technical data and computer software.* The Contractor grants or shall obtain for the Government the following royalty-free, world-wide, nonexclusive, irrevocable license rights in technical data or noncommercial computer software. All rights not granted to the Government are retained by the Contractor.
+(b) *Rights in technical data and computer software.* The Contractor grants or shall obtain for the Government the following royalty-free, worldwide , nonexclusive, irrevocable license rights in technical data or other than commercial computer software . All rights not granted to the Government are retained by the Contractor.
 
 (1) *Unlimited rights.* The Government shall have unlimited rights in technical data, including computer software documentation, or computer software generated under this contract that are -
 
@@ -144,7 +144,7 @@ Rights in Noncommercial Technical Data and Computer Software - Small Business In
 
 (2) *Limited rights.* The Government shall have limited rights in technical data, that were not generated under this contract, pertain to items, components or processes developed exclusively at private expense, and are marked, in accordance with the marking instructions in paragraph (f)(1) of this clause, with the legend prescribed in paragraph (f)(2) of this clause.
 
-(3) *Restricted rights in computer software.* The Government shall have restricted rights in noncommercial computer software required to be delivered or otherwise furnished to the Government under this contract that were developed exclusively at private expense and were not generated under this contract.
+(3) *Restricted rights in computer software.* The Government shall have restricted rights in other than commercial computer software required to be delivered or otherwise furnished to the Government under this contract that were developed exclusively at private expense and were not generated under this contract.
 
 (4) *SBIR data rights.* Except for technical data, including computer software documentation, or computer software in which the Government has unlimited rights under paragraph (b)(1) of this clause, the Government shall have SBIR data rights in all technical data or computer software generated under this contract during the period commencing with contract award and ending upon the date five years after completion of the project from which such data were generated.
 
@@ -208,15 +208,15 @@ DatePrinted Name and TitleSignature(End of identification and assertion)
 
 (2) *Limited rights markings.* Technical data not generated under this contract that pertain to items, components, or processes developed exclusively at private expense and delivered or otherwise furnished with limited rights shall be marked with the following legend:
 
-Limited RightsContract No.Contractor NameContractor AddressThe Government's rights to use, modify, reproduce, release, perform, display, or disclose these technical data are restricted by paragraph (b)(2) of the Rights in Noncommercial Technical Data and Computer Software - Small Business Innovation Research (SBIR) Program clause contained in the above identified contract. Any reproduction of technical data or portions thereof marked with this legend must also reproduce the markings. Any person, other than the Government, who has been provided access to such data must promptly notify the above named Contractor.(End of legend)
+Limited RightsContract No.Contractor NameContractor AddressThe Government's rights to use, modify, reproduce, release, perform, display, or disclose these technical data are restricted by paragraph (b)(2) of the Rights in Other Than Commercial Technical Data and Computer Software - Small Business Innovation Research (SBIR) Program clause contained in the above identified contract. Any reproduction of technical data or portions thereof marked with this legend must also reproduce the markings. Any person, other than the Government, who has been provided access to such data must promptly notify the above named Contractor.(End of legend)
 
 (3) *Restricted rights markings.* Computer software delivered or otherwise furnished to the Government with restricted rights shall be marked with the following legend:
 
-Restricted RightsContract No.Contractor NameContractor AddressThe Government's rights to use, modify, reproduce, release, perform, display, or disclose this software are restricted by paragraph (b)(3) of the Rights in Noncommercial Technical Data and Computer Software - Small Business Innovation Research (SBIR) Program clause contained in the above identified contract. Any reproduction of computer software or portions thereof marked with this legend must also reproduce the markings. Any person, other than the Government, who has been provided access to such data must promptly notify the above named Contractor.(End of legend)
+Restricted RightsContract No.Contractor NameContractor AddressThe Government's rights to use, modify, reproduce, release, perform, display, or disclose this software are restricted by paragraph (b)(3) of the Rights in Other Than Commercial Technical Data and Computer Software - Small Business Innovation Research (SBIR) Program clause contained in the above identified contract. Any reproduction of computer software or portions thereof marked with this legend must also reproduce the markings. Any person, other than the Government, who has been provided access to such data must promptly notify the above named Contractor.(End of legend)
 
-(4) *SBIR data rights markings:* Except for technical data or computer software in which the Government has acquired unlimited rights under paragraph (b)(1) of this clause, or negotiated special license rights as provided in paragraph (b)(5) of this clause, technical data or computer software generated under this contract shall be marked with the following legend. The Contractor shall enter the expiration date for the SBIR data rights period on the legend:
+(4)  *SBIR data rights markings.* Except for technical data or computer software in which the Government has acquired unlimited rights under paragraph (b)(1) of this clause, or negotiated special license rights as provided in paragraph (b)(5) of this clause, technical data or computer software generated under this contract shall be marked with the following legend. The Contractor shall enter the expiration date for the SBIR data rights period on the legend:
 
-SBIR Data RightsContract No.Contractor NameAddressExpiration of SBIR Data Rights PeriodThe Government's rights to use, modify, reproduce, release, perform, display, or disclose technical data or computer software marked with this legend are restricted during the period shown as provided in paragraph (b)(4) of the Rights in Noncommercial Technical Data and Computer Software - Small Business Innovation Research (SBIR) Program clause contained in the above identified contract. No restrictions apply after the expiration date shown above. Any reproduction of technical data, computer software, or portions thereof marked with this legend must also reproduce the markings.(End of legend)
+SBIR Data RightsContract No.Contractor NameAddressExpiration of SBIR Data Rights PeriodThe Government's rights to use, modify, reproduce, release, perform, display, or disclose technical data or computer software marked with this legend are restricted during the period shown as provided in paragraph (b)(4) of the Rights in Other Than Commercial Technical Data and Computer Software - Small Business Innovation Research (SBIR) Program clause contained in the above identified contract. No restrictions apply after the expiration date shown above. Any reproduction of technical data, computer software, or portions thereof marked with this legend must also reproduce the markings.(End of legend)
 
 (5) *Special license rights markings.* (i) Technical data or computer software in which the Government's rights stem from a specifically negotiated license shall be marked with the following legend:
 
@@ -256,7 +256,7 @@ The Government's rights to use, modify, reproduce, release, perform, display, or
 
 (k) *Applicability to subcontractors or suppliers.* (1) The Contractor shall assure that the rights afforded its subcontractors and suppliers under 10 U.S.C. 3771-3775, 10 U.S.C. 3781-3786, and the identification, assertion, and delivery processes required by paragraph (e) of this clause are recognized and protected.
 
-(2) Whenever any noncommercial technical data or computer software is to be obtained from a subcontractor or supplier for delivery to the Government under this contract, the Contractor shall use this same clause in the subcontract or other contractual instrument, and require its subcontractors or suppliers to do so, without alteration, except to identify the parties. The Contractor shall use the Technical Data - Commercial Items clause of this contract to obtain technical data pertaining to commercial items, components, or processes. No other clause shall be used to enlarge or diminish the Government's, the Contractor's, or a higher tier subcontractor's or supplier's rights in a subcontractor's or supplier's technical data or computer software.
+(2) Whenever any other than commercial technical data or computer software is to be obtained from a subcontractor or supplier for delivery to the Government under this contract, the Contractor shall use this same clause in the subcontract or other contractual instrument, and require its subcontractors or suppliers to do so, without alteration, except to identify the parties. The Contractor shall use the Technical Data - Commercial Products and Commercial Services clause of this contract to obtain technical data pertaining to commercial products, commercial components, commercial services, or commercial processes. No other clause shall be used to enlarge or diminish the Government's, the Contractor's, or a higher tier subcontractor's or supplier's rights in a subcontractor's or supplier's technical data or computer software.
 
 (3) Technical data required to be delivered by a subcontractor or supplier shall normally be delivered to the next higher tier contractor, subcontractor, or supplier. However, when there is a requirement in the prime contract for technical data which may be submitted with other than unlimited rights by a subcontractor or supplier, then said subcontractor or supplier may fulfill its requirement by submitting such technical data directly to the Government, rather than through a higher tier contractor, subcontractor, or supplier.
 
@@ -274,4 +274,4 @@ The Government's rights to use, modify, reproduce, release, perform, display, or
 
 (3) This limitation on the Government's right to publish for sale shall continue as long as the technical data or computer software are reasonably available to the public for purchase.
 
-[60 FR 33499, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 76 FR 3538, Jan. 20, 2011; 76 FR 11369, Mar. 2, 2011; 78 FR 30239, May 22, 2013; 79 FR 11341, Feb. 28, 2014; 87 FR 76997, Dec. 16, 2022]
+[60 FR 33499, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 76 FR 3538, Jan. 20, 2011; 76 FR 11369, Mar. 2, 2011; 78 FR 30239, May 22, 2013; 79 FR 11341, Feb. 28, 2014; 87 FR 76997, Dec. 16, 2022; 88 FR 6594, Jan. 31, 2023]

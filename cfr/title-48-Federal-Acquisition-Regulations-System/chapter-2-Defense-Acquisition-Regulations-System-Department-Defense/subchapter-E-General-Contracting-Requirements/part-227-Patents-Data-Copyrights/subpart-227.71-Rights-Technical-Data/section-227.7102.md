@@ -1,1 +1,1 @@
-##### 227.7102 Commercial items, components, or processes. #####
+##### 227.7102 Commercial products, commercial components, commercial services, or commercial processes. #####

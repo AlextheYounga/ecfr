@@ -1,10 +1,10 @@
-##### 252.247-7023 Transportation of supplies by sea. #####
+##### 252.247-7023 Transportation of Supplies by Sea. #####
 
 *Basic.* As prescribed in 247.574(b) and (b)(1), use the following clause:
 
-Transportation of Supplies by Sea - Basic (FEB 2019)
+Transportation of Supplies by Sea—Basic (JAN 2023)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Components* means articles, materials, and supplies incorporated directly into end products at any level of manufacture, fabrication, or assembly by the Contractor or any subcontractor.
 
@@ -24,15 +24,15 @@ Transportation of Supplies by Sea - Basic (FEB 2019)
 
 (b)(1) The Contractor shall use U.S.-flag vessels when transporting any supplies by sea under this contract.
 
-(2) A subcontractor transporting supplies by sea under this contract shall use U.S.-flag vessels if -
+(2) A subcontractor transporting supplies by sea under this contract shall use U.S.-flag vessels if—
 
 (i) This contract is a construction contract; or
 
-(ii) The supplies being transported are -
+(ii) The supplies being transported are—
 
-(A) Noncommercial items; or
+(A) Other than commercial products or
 
-(B) Commercial items that -
+(B) Commercial products that—
 
 (*1*) The Contractor is reselling or distributing to the Government without adding value (generally, the Contractor does not add value to items that it contracts for f.o.b. destination shipment);
 
@@ -40,7 +40,7 @@ Transportation of Supplies by Sea - Basic (FEB 2019)
 
 (*3*) Are commissary or exchange cargoes transported outside of the Defense Transportation System in accordance with 10 U.S.C. 2643.
 
-(c) The Contractor and its subcontractors may request that the Contracting Officer authorize shipment in foreign-flag vessels, or designate available U.S.-flag vessels, if the Contractor or a subcontractor believes that -
+(c) The Contractor and its subcontractors may request that the Contracting Officer authorize shipment in foreign-flag vessels, or designate available U.S.-flag vessels, if the Contractor or a subcontractor believes that—
 
 (1) U.S.-flag vessels are not available for timely shipment;
 
@@ -48,7 +48,7 @@ Transportation of Supplies by Sea - Basic (FEB 2019)
 
 (3) Freight charges are higher than charges to private persons for transportation of like goods.
 
-(d) The Contractor must submit any request for use of foreign-flag vessels in writing to the Contracting Officer at least 45 days prior to the sailing date necessary to meet its delivery schedules. The Contracting Officer will process requests submitted after such date(s) as expeditiously as possible, but the Contracting Officer's failure to grant approvals to meet the shipper's sailing date will not of itself constitute a compensable delay under this or any other clause of this contract. Requests shall contain at a minimum -
+(d) The Contractor must submit any request for use of foreign-flag vessels in writing to the Contracting Officer at least 45 days prior to the sailing date necessary to meet its delivery schedules. The Contracting Officer will process requests submitted after such date(s) as expeditiously as possible, but the Contracting Officer's failure to grant approvals to meet the shipper's sailing date will not of itself constitute a compensable delay under this or any other clause of this contract. Requests shall contain at a minimum—
 
 (1) Type, weight, and cube of cargo;
 
@@ -86,7 +86,7 @@ Transportation of Supplies by Sea - Basic (FEB 2019)
 
 (10) Name of the steamship company.
 
-(f) If this contract exceeds the simplified acquisition threshold, the Contractor shall provide with its final invoice under this contract a representation that to the best of its knowledge and belief -
+(f) If this contract exceeds the simplified acquisition threshold, the Contractor shall provide with its final invoice under this contract a representation that to the best of its knowledge and belief—
 
 (1) No ocean transportation was used in the performance of this contract;
 
@@ -102,13 +102,13 @@ Transportation of Supplies by Sea - Basic (FEB 2019)
 
 (g) If this contract exceeds the simplified acquisition threshold and the final invoice does not include the required representation, the Government will reject and return it to the Contractor as an improper invoice for the purposes of the Prompt Payment clause of this contract. In the event there has been unauthorized use of foreign-flag vessels in the performance of this contract, the Contracting Officer is entitled to equitably adjust the contract, based on the unauthorized use.
 
-(h) If the Contractor has indicated by the response to the solicitation provision, Representation of Extent of Transportation by Sea, that it did not anticipate transporting by sea any supplies; however, after the award of this contract, the Contractor learns that supplies will be transported by sea, the Contractor -
+(h) If the Contractor has indicated by the response to the solicitation provision, Representation of Extent of Transportation by Sea, that it did not anticipate transporting by sea any supplies; however, after the award of this contract, the Contractor learns that supplies will be transported by sea, the Contractor—
 
 (1) Shall notify the Contracting Officer of that fact; and
 
 (2) Hereby agrees to comply with all the terms and conditions of this clause.
 
-(i) In the award of subcontracts for the types of supplies described in paragraph (b)(2) of this clause, including subcontracts for commercial items, the Contractor shall flow down the requirements of this clause as follows:
+(i) *Subcontracts.* In the award of subcontracts for the types of supplies described in paragraph (b)(2) of this clause, including subcontracts for commercial products, the Contractor shall flow down the requirements of this clause as follows:
 
 (1) The Contractor shall insert the substance of this clause, including this paragraph (i), in subcontracts that exceed the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.
 
@@ -118,9 +118,9 @@ Transportation of Supplies by Sea - Basic (FEB 2019)
 
 *Alternate I.* As prescribed in 247.574(b) and (b)(2), use the following clause, which uses a different paragraph (b) than the basic clause:
 
-Transportation of Supplies by Sea - Alternate I (FEB 2019)
+Transportation of Supplies by Sea—Alternate I (JAN 2023)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Components* means articles, materials, and supplies incorporated directly into end products at any level of manufacture, fabrication, or assembly by the Contractor or any subcontractor.
 
@@ -142,19 +142,19 @@ Transportation of Supplies by Sea - Alternate I (FEB 2019)
 
 (b)(1) The Contractor shall use U.S.-flag vessels when transporting any supplies by sea under this contract.
 
-(2) A subcontractor transporting supplies by sea under this contract shall use U.S.-flag vessels if the supplies being transported are -
+(2) A subcontractor transporting supplies by sea under this contract shall use U.S.-flag vessels if the supplies being transported are—
 
-(i) Noncommercial items; or
+(i) Other than commercial products; or
 
-(ii) Commercial items that -
+(ii) Commercial products that—
 
 (A) The Contractor is reselling or distributing to the Government without adding value (generally, the Contractor does not add value to items that it subcontracts for f.o.b. destination shipment);
 
-(B) Are shipped in direct support of U.S. military contingency operations, exercises, or forces deployed in humanitarian or peacekeeping operations (Note: This contract requires shipment of commercial items in direct support of U.S. military contingency operations, exercises, or forces deployed in humanitarian or peacekeeping operations); or
+(B) Are shipped in direct support of U.S. military contingency operations, exercises, or forces deployed in humanitarian or peacekeeping operations (Note: This contract requires shipment of commercial products in direct support of U.S. military contingency operations, exercises, or forces deployed in humanitarian or peacekeeping operations); or
 
 (C) Are commissary or exchange cargoes transported outside of the Defense Transportation System in accordance with 10 U.S.C. 2643.
 
-(c) The Contractor and its subcontractors may request that the Contracting Officer authorize shipment in foreign-flag vessels, or designate available U.S.-flag vessels, if the Contractor or a subcontractor believes that -
+(c) The Contractor and its subcontractors may request that the Contracting Officer authorize shipment in foreign-flag vessels, or designate available U.S.-flag vessels, if the Contractor or a subcontractor believes that—
 
 (1) U.S.-flag vessels are not available for timely shipment;
 
@@ -162,7 +162,7 @@ Transportation of Supplies by Sea - Alternate I (FEB 2019)
 
 (3) Freight charges are higher than charges to private persons for transportation of like goods.
 
-(d) The Contractor must submit any request for use of foreign-flag vessels in writing to the Contracting Officer at least 45 days prior to the sailing date necessary to meet its delivery schedules. The Contracting Officer will process requests submitted after such date(s) as expeditiously as possible, but the Contracting Officer's failure to grant approvals to meet the shipper's sailing date will not of itself constitute a compensable delay under this or any other clause of this contract. Requests shall contain at a minimum -
+(d) The Contractor must submit any request for use of foreign-flag vessels in writing to the Contracting Officer at least 45 days prior to the sailing date necessary to meet its delivery schedules. The Contracting Officer will process requests submitted after such date(s) as expeditiously as possible, but the Contracting Officer's failure to grant approvals to meet the shipper's sailing date will not of itself constitute a compensable delay under this or any other clause of this contract. Requests shall contain at a minimum—
 
 (1) Type, weight, and cube of cargo;
 
@@ -200,7 +200,7 @@ Transportation of Supplies by Sea - Alternate I (FEB 2019)
 
 (10) Name of steamship company.
 
-(f) If this contract exceeds the simplified acquisition threshold, the Contractor shall provide with its final invoice under this contract a representation that to the best of its knowledge and belief -
+(f) If this contract exceeds the simplified acquisition threshold, the Contractor shall provide with its final invoice under this contract a representation that to the best of its knowledge and belief—
 
 (1) No ocean transportation was used in the performance of this contract;
 
@@ -217,13 +217,13 @@ Transportation of Supplies by Sea - Alternate I (FEB 2019)
 
 (g) If this contract exceeds the simplified acquisition threshold and the final invoice does not include the required representation, the Government will reject and return it to the Contractor as an improper invoice for the purposes of the Prompt Payment clause of this contract. In the event there has been unauthorized use of foreign-flag vessels in the performance of this contract, the Contracting Officer is entitled to equitably adjust the contract, based on the unauthorized use.
 
-(h) If the Contractor has indicated by the response to the solicitation provision, Representation of Extent of Transportation by Sea, that it did not anticipate transporting by sea any supplies; however, after the award of this contract, the Contractor learns that supplies will be transported by sea, the Contractor -
+(h) If the Contractor has indicated by the response to the solicitation provision, Representation of Extent of Transportation by Sea, that it did not anticipate transporting by sea any supplies; however, after the award of this contract, the Contractor learns that supplies will be transported by sea, the Contractor—
 
 (1) Shall notify the Contracting Officer of that fact; and
 
 (2) Hereby agrees to comply with all the terms and conditions of this clause.
 
-(i) In the award of subcontracts for the types of supplies described in paragraph (b)(2) of this clause, including subcontracts for commercial items, the Contractor shall flow down the requirements of this clause as follows:
+(i) *Subcontracts.* In the award of subcontracts for the types of supplies described in paragraph (b)(2) of this clause, including subcontracts for commercial products, the Contractor shall flow down the requirements of this clause as follows:
 
 (1) The Contractor shall insert the substance of this clause, including this paragraph (i), in subcontracts that exceed the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.
 
@@ -231,9 +231,9 @@ Transportation of Supplies by Sea - Alternate I (FEB 2019)
 
 *Alternate II.* As prescribed in 247.574(b) and (b)(3), use the following clause, which uses a different paragraph (b) than the basic clause:
 
-Transportation of Supplies by Sea - Alternate II (FEB 2019)
+Transportation of Supplies By Sea—Alternate II (JAN 2023)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Components* means articles, materials, and supplies incorporated directly into end products at any level of manufacture, fabrication, or assembly by the Contractor or any subcontractor.
 
@@ -255,11 +255,11 @@ Transportation of Supplies by Sea - Alternate II (FEB 2019)
 
 (b)(1) The Contractor shall use U.S.-flag vessels when transporting any supplies by sea under this contract.
 
-(2) A subcontractor transporting supplies by sea under this contract shall use U.S.-flag vessels if the supplies being transported are -
+(2) A subcontractor transporting supplies by sea under this contract shall use U.S.-flag vessels if the supplies being transported are—
 
-(i) Noncommercial items; or
+(i) Other than commercial products; or
 
-(ii) Commercial items that -
+(ii) Commercial products that—
 
 (A) The Contractor is reselling or distributing to the Government without adding value (generally, the Contractor does not add value to items that it subcontracts for f.o.b. destination shipment);
 
@@ -267,7 +267,7 @@ Transportation of Supplies by Sea - Alternate II (FEB 2019)
 
 (C) Are commissary or exchange cargoes transported outside of the Defense Transportation System in accordance with 10 U.S.C. 2643 (Note: This contract requires transportation of commissary or exchange cargoes outside of the Defense Transportation System in accordance with 10 U.S.C. 2643).
 
-(c) The Contractor and its subcontractors may request that the Contracting Officer authorize shipment in foreign-flag vessels, or designate available U.S.-flag vessels, if the Contractor or a subcontractor believes that -
+(c) The Contractor and its subcontractors may request that the Contracting Officer authorize shipment in foreign-flag vessels, or designate available U.S.-flag vessels, if the Contractor or a subcontractor believes that—
 
 (1) U.S.-flag vessels are not available for timely shipment;
 
@@ -275,7 +275,7 @@ Transportation of Supplies by Sea - Alternate II (FEB 2019)
 
 (3) Freight charges are higher than charges to private persons for transportation of like goods.
 
-(d) The Contractor must submit any request for use of foreign-flag vessels in writing to the Contracting Officer at least 45 days prior to the sailing date necessary to meet its delivery schedules. The Contracting Officer will process requests submitted after such date(s) as expeditiously as possible, but the Contracting Officer's failure to grant approvals to meet the shipper's sailing date will not of itself constitute a compensable delay under this or any other clause of this contract. Requests shall contain at a minimum -
+(d) The Contractor must submit any request for use of foreign-flag vessels in writing to the Contracting Officer at least 45 days prior to the sailing date necessary to meet its delivery schedules. The Contracting Officer will process requests submitted after such date(s) as expeditiously as possible, but the Contracting Officer's failure to grant approvals to meet the shipper's sailing date will not of itself constitute a compensable delay under this or any other clause of this contract. Requests shall contain at a minimum—
 
 (1) Type, weight, and cube of cargo;
 
@@ -313,7 +313,7 @@ Transportation of Supplies by Sea - Alternate II (FEB 2019)
 
 (10) Name of steamship company.
 
-(f) If this contract exceeds the simplified acquisition threshold, the Contractor shall provide with its final invoice under this contract a representation that to the best of its knowledge and belief -
+(f) If this contract exceeds the simplified acquisition threshold, the Contractor shall provide with its final invoice under this contract a representation that to the best of its knowledge and belief—
 
 (1) No ocean transportation was used in the performance of this contract;
 
@@ -332,10 +332,10 @@ Transportation of Supplies by Sea - Alternate II (FEB 2019)
 
 (h) If the Contractor has indicated by the response to the solicitation provision, Representation of Extent of Transportation by Sea, that it did not anticipate transporting by sea any supplies, but the contractor learns after the award of the contract that supplies will be transported by sea, the Contractor shall notify the Contracting Officer of that fact.
 
-(i) In the award of subcontracts for the types of supplies described in paragraph (b)(2) of this clause, including subcontracts for commercial items, the Contractor shall flow down the requirements of this clause as follows:
+(i) *Subcontracts.* In the award of subcontracts for the types of supplies described in paragraph (b)(2) of this clause, including subcontracts for commercial products, the Contractor shall flow down the requirements of this clause as follows:
 
 (1) The Contractor shall insert the substance of this clause, including this paragraph (i), in subcontracts that exceed the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.
 
 (2) The Contractor shall insert the substance of paragraphs (a) through (e) of this clause, and this paragraph (i), in subcontracts that are at or below the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.
 
-[56 FR 36479, July 31, 1991, as amended at 60 FR 61602, Nov. 30, 1995; 65 FR 14401, Mar. 16, 2000; 67 FR 38022, May 31, 2002; 72 FR 49206, Aug. 28, 2007; 77 FR 76938, Dec. 31, 2012; 78 FR 37991, June 25, 2013; 79 FR 22039, Apr. 21, 2014; 80 FR 36900, June 26, 2015; 84 FR 4371, Feb. 15, 2019]
+[56 FR 36479, July 31, 1991, as amended at 60 FR 61602, Nov. 30, 1995; 65 FR 14401, Mar. 16, 2000; 67 FR 38022, May 31, 2002; 72 FR 49206, Aug. 28, 2007; 77 FR 76938, Dec. 31, 2012; 78 FR 37991, June 25, 2013; 79 FR 22039, Apr. 21, 2014; 80 FR 36900, June 26, 2015; 84 FR 4371, Feb. 15, 2019; 88 FR 6596, Jan. 31, 2023]

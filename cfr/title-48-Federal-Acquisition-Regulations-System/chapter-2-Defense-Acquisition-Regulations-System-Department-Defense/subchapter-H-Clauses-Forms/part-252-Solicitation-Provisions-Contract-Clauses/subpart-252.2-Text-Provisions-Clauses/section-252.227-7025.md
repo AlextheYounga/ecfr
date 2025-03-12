@@ -2,13 +2,13 @@
 
 As prescribed in 227.7103-6(c), 227.7104(f)(1), or 227.7203-6(d), use the following clause:
 
-Limitations on the Use or Disclosure of Government-Furnished Information Marked With Restrictive Legends (MAY 2013)
+Limitations on the Use or Disclosure of Government-Furnished Information Marked With Restrictive Legends (JAN 2023)
 
-(a)(1) For contracts in which the Government will furnish the Contractor with technical data, the terms “covered Government support contractor,” “limited rights,” and “Government purpose rights” are defined in the clause at 252.227-7013, Rights in Technical Data-Noncommercial Items.
+(a)(1) For contracts in which the Government will furnish the Contractor with technical data, the terms “covered Government support contractor,” “limited rights,” and “Government purpose rights” are defined in the clause at 252.227-7013, Rights in Technical Data—Other Than Commercial Products and Commercial Services.
 
-(2) For contracts in which the Government will furnish the Contractor with computer software or computer software documentation, the terms “covered Government support contractor,” “government purpose rights,” and “restricted rights” are defined in the clause at 252.227-7014, Rights in Noncommercial Computer Software and Noncommercial Computer Software Documentation.
+(2) For contracts in which the Government will furnish the Contractor with computer software or computer software documentation, the terms “covered Government support contractor,” “government purpose rights,” and “restricted rights” are defined in the clause at 252.227-7014, Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation.
 
-(3) For Small Business Innovation Research program contracts, the terms “covered Government support contractor,” “limited rights,” “restricted rights,” and “SBIR data rights” are defined in the clause at 252.227-7018, Rights in Noncommercial Technical Data and Computer Software - Small Business Innovation Research (SBIR) Program.
+(3) For Small Business Innovation Research program contracts, the terms “covered Government support contractor,” “limited rights,” “restricted rights,” and “SBIR data rights” are defined in the clause at 252.227-7018, Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research (SBIR) Program.
 
 (b) Technical data or computer software provided to the Contractor as Government-furnished information (GFI) under this contract may be subject to restrictions on use, modification, reproduction, release, performance, display, or further disclosure.
 
@@ -22,11 +22,11 @@ Limitations on the Use or Disclosure of Government-Furnished Information Marked 
 
 (ii) If the Contractor is a covered Government support contractor, the Contractor may also be subject to some or all of the additional terms and conditions at paragraph (b)(5) of this clause, to the extent such terms and conditions are required by the specially negotiated license.
 
-(4) *GFI technical data marked with commercial restrictive legends.* (i) The Contractor shall use, modify, reproduce, perform, or display technical data that is or pertains to a commercial item and is received from the Government with a commercial restrictive legend (i.e., marked to indicate that such data are subject to use, modification, reproduction, release, performance, display, or disclosure restrictions) only in the performance of this contract. The Contractor shall not, without the express written permission of the party whose name appears in the legend, use the technical data to manufacture additional quantities of the commercial items, or release or disclose such data to any unauthorized person.
+(4) *GFI technical data marked with commercial restrictive legends.* (i) The Contractor shall use, modify, reproduce, perform, or display technical data that is or pertains to a commercial product or commercial service and is received from the Government with a commercial restrictive legend (i.e., marked to indicate that such data are subject to use, modification, reproduction, release, performance, display, or disclosure restrictions) only in the performance of this contract. The Contractor shall not, without the express written permission of the party whose name appears in the legend, use the technical data to manufacture additional quantities of the commercial products or commercial services, or release or disclose such data to any unauthorized person.
 
 (ii) If the Contractor is a covered Government support contractor, the Contractor is also subject to the additional terms and conditions at paragraph (b)(5) of this clause
 
-(5) *Covered Government support contractors.* If the Contractor is a covered Government support contractor receiving technical data or computer software marked with restrictive legends pursuant to paragraphs (b)(1)(ii), (b)(3)(ii), or (b)(4)(ii) of this clause, the Contractor further agrees and acknowledges that -
+(5) *Covered Government support contractors.* If the Contractor is a covered Government support contractor receiving technical data or computer software marked with restrictive legends pursuant to paragraphs (b)(1)(ii), (b)(3)(ii), or (b)(4)(ii) of this clause, the Contractor further agrees and acknowledges that—
 
 (i) The technical data or computer software will be accessed and used for the sole purpose of furnishing independent and impartial advice or technical assistance directly to the Government in support of the Government's management and oversight of the program or effort to which such technical data or computer software relates, as stated in this contract, and shall not be used to compete for any Government or non-Government contract;
 
@@ -36,13 +36,13 @@ Limitations on the Use or Disclosure of Government-Furnished Information Marked 
 
 (iv) The Contractor will enter into a non-disclosure agreement with the party whose name appears in the legend, if required to do so by that party, and that any such non-disclosure agreement will implement the restrictions on the Contractor's use of such data or software as set forth in this clause. The non-disclosure agreement shall not include any additional terms and conditions unless mutually agreed to by the parties to the non-disclosure agreement; and
 
-(v) That a breach of these obligations or restrictions may subject the Contractor to -
+(v) That a breach of these obligations or restrictions may subject the Contractor to—
 
 (A) Criminal, civil, administrative, and contractual actions in law and equity for penalties, damages, and other appropriate remedies by the United States; and
 
 (B) Civil actions for damages and other appropriate remedies by the party whose name appears in the legend.
 
-(c) *Indemnification and creation of third party beneficiary rights.* The Contractor agrees -
+(c) *Indemnification and creation of third party beneficiary rights.* The Contractor agrees—
 
 (1) To indemnify and hold harmless the Government, its agents, and employees from every claim or liability, including attorneys fees, court costs, and expenses, arising out of, or in any way related to, the misuse or unauthorized modification, reproduction, release, performance, display, or disclosure of technical data or computer software received from the Government with restrictive legends by the Contractor or any person to whom the Contractor has released or disclosed such data or software; and
 
@@ -50,4 +50,4 @@ Limitations on the Use or Disclosure of Government-Furnished Information Marked 
 
 (d) The Contractor shall ensure that its employees are subject to use and non-disclosure obligations consistent with this clause prior to the employees being provided access to or use of any GFI covered by this clause.
 
-[78 FR 30241, May 22, 2013]
+[78 FR 30241, May 22, 2013, as amended at 88 FR 6595, Jan. 31, 2023]

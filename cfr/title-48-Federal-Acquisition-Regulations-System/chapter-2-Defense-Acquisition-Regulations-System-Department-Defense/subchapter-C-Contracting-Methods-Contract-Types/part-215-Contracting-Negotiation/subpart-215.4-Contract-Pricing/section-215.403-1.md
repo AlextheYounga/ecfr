@@ -4,13 +4,13 @@
 
 (ii) Submission of certified cost or pricing data shall not be required in the case of a contract, subcontract, or modification of a contract or subcontract to the extent such data relates to an indirect offset.
 
-(c) *Standards for exceptions from certified cost or pricing data requirements* - (1) *Adequate price competition.*
+(c) *Standards for exceptions from certified cost or pricing data requirements*—(1) *Adequate price competition.*
 
-(A) For acquisitions under dual or multiple source programs -
+(A) For acquisitions under dual or multiple source programs—
 
 (*1*) The determination of adequate price competition must be made on a case-by-case basis. Even when adequate price competition exists, in certain cases it may be appropriate to obtain additional data to assist in price analysis; and
 
-(*2*) Adequate price competition normally exists when -
+(*2*) Adequate price competition normally exists when—
 
 (*i*) Prices are solicited across a full range of step quantities, normally including a 0-100 percent split, from at least two offerors that are individually capable of producing the full quantity; and
 
@@ -18,11 +18,11 @@
 
 (B) If only one offer is received in response to a competitive solicitation, see 215.371-3.
 
-(3) *Commercial items.* (A) Follow the procedures at PGI 215.403-1(c)(3) for pricing commercial items.
+(3) *Commercial products or commercial services.* (A) Follow the procedures at PGI 215.403-1(c)(3) for pricing commercial products or commercial services.
 
-(B) When applying the commercial item exception under FAR 15.403-1(b)(3), see 212.102(a)(ii) regarding prior commercial item determinations.
+(B) When applying the commercial item exception under FAR 15.403-1(b)(3), see 212.102(a)(ii) regarding prior commercial product or commercial service determinations.
 
-(4) *Waivers.* (A) The head of the contracting activity may, without power of delegation, apply the exceptional circumstances authority when a determination is made that -
+(4) *Waivers.* (A) The head of the contracting activity may, without power of delegation, apply the exceptional circumstances authority when a determination is made that—
 
 (*1*) The property or services cannot reasonably be obtained under the contract, subcontract, or modification, without the granting of the waiver;
 
@@ -34,10 +34,10 @@
 
 (C) DoD has waived the requirement for submission of certified cost or pricing data for the Canadian Commercial Corporation and its subcontractors (but see 215.408(3) and 225.870-4(c)).
 
-(D) DoD has waived certified cost or pricing data requirements for nonprofit organizations (including education institutions) on cost-reimbursement-no-fee contracts. The contracting officer shall require -
+(D) DoD has waived certified cost or pricing data requirements for nonprofit organizations (including education institutions) on cost-reimbursement-no-fee contracts. The contracting officer shall require—
 
 (*1*) Submission of data other than certified cost or pricing data to the extent necessary to determine reasonableness and cost realism; and
 
 (*2*) Certified cost or pricing data from subcontractors that are not nonprofit organizations when the subcontractor's proposal exceeds the certified cost or pricing data threshold at FAR 15.403-4(a)(1).
 
-[63 FR 55040, Oct. 14, 1998, as amended at 71 FR 69493, Dec. 1, 2006; 72 FR 30278, May 31, 2007; 76 FR 58137, Sept. 20, 2011; 77 FR 39139, June 29, 2012; 77 FR 43472, July 24, 2012; 77 FR 52253, Aug. 29, 2012; 77 FR 76937, 76939, Dec. 31, 2012; 78 FR 13543, Feb. 28, 2013; 78 FR 65216, Oct. 31, 2013; 80 FR 36904, June 26, 2015; 83 FR 4444, Jan. 31, 2018; 83 FR 30828, June 29, 2018; 85 FR 34532, June 5, 2020; 85 FR 61504, Sept. 29, 2020; 87 FR 76992, Dec. 16, 2022]
+[63 FR 55040, Oct. 14, 1998, as amended at 71 FR 69493, Dec. 1, 2006; 72 FR 30278, May 31, 2007; 76 FR 58137, Sept. 20, 2011; 77 FR 39139, June 29, 2012; 77 FR 43472, July 24, 2012; 77 FR 52253, Aug. 29, 2012; 77 FR 76937, 76939, Dec. 31, 2012; 78 FR 13543, Feb. 28, 2013; 78 FR 65216, Oct. 31, 2013; 80 FR 36904, June 26, 2015; 83 FR 4444, Jan. 31, 2018; 83 FR 30828, June 29, 2018; 85 FR 34532, June 5, 2020; 85 FR 61504, Sept. 29, 2020; 87 FR 76992, Dec. 16, 2022; 88 FR 6583, Jan. 31, 2023]

@@ -2,7 +2,7 @@
 
 (a) In pricing FMS contracts where non-U.S. Government prices as described in 225.7303-1 do not exist, except as provided in 225.7303-5, recognize the reasonable and allocable costs of doing business with a foreign government or international organization, even though such costs might not be recognized in the same amounts in pricing other defense contracts. Examples of such costs include, but are not limited to, the following:
 
-(1) Selling expenses (not otherwise limited by FAR Part 31), such as -
+(1) Selling expenses (not otherwise limited by FAR Part 31), such as—
 
 (i) Maintaining international sales and service organizations;
 
@@ -12,7 +12,7 @@
 
 (iv) Configuration studies and related technical services undertaken as a direct selling effort to a foreign country.
 
-(2) Product support and post-delivery service expenses, such as -
+(2) Product support and post-delivery service expenses, such as—
 
 (i) Operations or maintenance training, training or tactics films, manuals, or other related data; and
 
@@ -30,9 +30,9 @@
 
 (4) Costs that are the subject of advance agreement under the appropriate provisions of FAR part 31; or where the advance understanding places a limit on the amounts of cost that will be recognized as allowable in defense contract pricing, and the agreement contemplated that it will apply only to DoD contracts for the U.S. Government's own requirement (as distinguished from contracts for FMS).
 
-(b) Costs not allowable under FAR Part 31 are not allowable in pricing FMS contracts, except as noted in paragraphs (c) and (e) of this subsection.
+(b) Costs not allowable under FAR part 31 are not allowable in pricing FMS contracts, except as noted in paragraphs (c) and (e) of this section.
 
-(c) The limitations for major contractors on independent research and development and bid and proposal (IR&D/B&P) costs for projects that are of potential interest to DoD, in 231.205-18(c)(iii), do not apply to FMS contracts, except as provided in 225.7303-5. The allowability of IR&D/B&P costs on contracts for FMS not wholly paid for from funds made available on a nonrepayable basis is limited to the contract's allocable share of the contractor's total IR&D/B&P expenditures. In pricing contracts for such FMS -
+(c) The limitations for all contractors described in 231.205-18(c)(iii) and (iv) do not apply to FMS contracts, except as provided in 225.7303-5. The allowability of independent research and development (IR&D) costs and bid and proposal (B&P) costs on contracts for FMS not wholly paid for from funds made available on a nonrepayable basis is limited to the contract's allocable share of the contractor's total IR&D expenditures and total B&P expenditures. In pricing contracts for such FMS—
 
 (1) Use the best estimate of reasonable costs in forward pricing; and
 
@@ -42,4 +42,4 @@
 
 (e) The limitations in 231.205-1 on allowability of costs associated with leasing Government equipment do not apply to FMS contracts.
 
-[56 FR 36367, July 31, 1991, as amended at 56 FR 67216, Dec. 30, 1991; 57 FR 42631, Sept. 15, 1992; 57 FR 53600, Nov. 12, 1992; 59 FR 50511, Oct. 4, 1994; 61 FR 7744, Feb. 29, 1996; 61 FR 18987, Apr. 30, 1996; 63 FR 43889, Aug. 17, 1998; 64 FR 8729, Feb. 23, 1999; 64 FR 49684, Sept. 14, 1999; 68 FR 15632, Mar. 31, 2003; 70 FR 73155, Dec. 9, 2005; 74 FR 68382, Dec. 24, 2009; 80 FR 31310, June 2, 2015; 83 FR 30828, June 29, 2018]
+[56 FR 36367, July 31, 1991, as amended at 56 FR 67216, Dec. 30, 1991; 57 FR 42631, Sept. 15, 1992; 57 FR 53600, Nov. 12, 1992; 59 FR 50511, Oct. 4, 1994; 61 FR 7744, Feb. 29, 1996; 61 FR 18987, Apr. 30, 1996; 63 FR 43889, Aug. 17, 1998; 64 FR 8729, Feb. 23, 1999; 64 FR 49684, Sept. 14, 1999; 68 FR 15632, Mar. 31, 2003; 70 FR 73155, Dec. 9, 2005; 74 FR 68382, Dec. 24, 2009; 80 FR 31310, June 2, 2015; 83 FR 30828, June 29, 2018; 88 FR 6599, Jan. 31, 2023]

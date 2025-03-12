@@ -2,7 +2,7 @@
 
 As prescribed in 204.2105(c), use the following clause:
 
-Prohibition on the Acquisition of Covered Defense Telecommunications Equipment or Services (JAN 2021)
+Prohibition on the Acquisition of Covered Defense Telecommunications Equipment or Services (JAN 2023)
 
 (a) *Definitions.* As used in this clause -
 
@@ -58,6 +58,6 @@ Prohibition on the Acquisition of Covered Defense Telecommunications Equipment o
 
 (ii) Within 30 business days of submitting the information in paragraph (d)(2)(i) of this clause: Any further available information about mitigation actions undertaken or recommended. In addition, the Contractor shall describe the efforts it undertook to prevent use or submission of a covered defense telecommunications equipment or services, and any additional efforts that will be incorporated to prevent future use or submission of covered telecommunications equipment or services.
 
-(e) *Subcontracts.* The Contractor shall insert the substance of this clause, including this paragraph (e), in all subcontracts and other contractual instruments, including subcontracts for the acquisition of commercial items.
+(e) *Subcontracts.* The Contractor shall insert the substance of this clause, including this paragraph (e), in all subcontracts and other contractual instruments, including subcontracts for the acquisition of commercial products or commercial services .
 
-(End of clause)[84 FR 72237, Dec. 31, 2019, as amended at 86 FR 3835, Jan. 15, 2021]
+(End of clause)[84 FR 72237, Dec. 31, 2019, as amended at 86 FR 3835, Jan. 15, 2021; 88 FR 6589, Jan. 31, 2023]

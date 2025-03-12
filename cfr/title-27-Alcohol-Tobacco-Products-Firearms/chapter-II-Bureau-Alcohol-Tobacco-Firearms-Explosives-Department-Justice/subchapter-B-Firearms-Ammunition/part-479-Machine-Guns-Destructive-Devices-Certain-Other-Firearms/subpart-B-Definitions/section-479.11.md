@@ -28,7 +28,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Executed under penalties of perjury.* Signed with the prescribed declaration under the penalties of perjury as provided on or with respect to the return, form, or other document or, where no form of declaration is prescribed, with the declaration:
 
-“I declare under the penalties of perjury that this - (insert type of document, such as, statement, application, request, certificate), including the documents submitted in support thereof, has been examined by me and, to the best of my knowledge and belief, is true, correct, and complete.”
+“I declare under the penalties of perjury that this—(insert type of document, such as, statement, application, request, certificate), including the documents submitted in support thereof, has been examined by me and, to the best of my knowledge and belief, is true, correct, and complete.”
 
 *Exportation.* The severance of goods from the mass of things belonging to this country with the intention of uniting them to the mass of things belonging to some foreign country.
 
@@ -84,6 +84,22 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Rifle.* A weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of the explosive in a fixed cartridge to fire only a single projectile through a rifled bore for each single pull of the trigger, and shall include any such weapon which may be readily restored to fire a fixed cartridge.
 
+(1) For purposes of this definition, the term “designed or redesigned, made or remade, and intended to be fired from the shoulder” shall include a weapon that is equipped with an accessory, component, or other rearward attachment (*e.g.,* a “stabilizing brace”) that provides surface area that allows the weapon to be fired from the shoulder, provided other factors, as described in paragraph (2), indicate that the weapon is designed, made, and intended to be fired from the shoulder.
+
+(2) When a weapon provides surface area that allows the weapon to be fired from the shoulder, the following factors shall also be considered in determining whether the weapon is designed, made, and intended to be fired from the shoulder:
+
+(i) Whether the weapon has a weight or length consistent with the weight or length of similarly designed rifles;
+
+(ii) Whether the weapon has a length of pull, measured from the center of the trigger to the center of the shoulder stock or other rearward accessory, component or attachment (including an adjustable or telescoping attachment with the ability to lock into various positions along a buffer tube, receiver extension, or other attachment method), that is consistent with similarly designed rifles;
+
+(iii) Whether the weapon is equipped with sights or a scope with eye relief that require the weapon to be fired from the shoulder in order to be used as designed;
+
+(iv) Whether the surface area that allows the weapon to be fired from the shoulder is created by a buffer tube, receiver extension, or any other accessory, component, or other rearward attachment that is necessary for the cycle of operations;
+
+(v) The manufacturer's direct and indirect marketing and promotional materials indicating the intended use of the weapon; and
+
+(vi) Information demonstrating the likely use of the weapon in the general community.
+
 *Shotgun.* A weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of the explosive in a fixed shotgun shell to fire through a smooth bore either a number of projectiles (ball shot) or a single projectile for each pull of the trigger, and shall include any such weapon which may be readily restored to fire a fixed shotgun shell.
 
 *Transfer.* This term and the various derivatives thereof shall include selling, assigning, pledging, leasing, loaning, giving away, or otherwise disposing of. For purposes of this part, the term shall not include the temporary conveyance of a lawfully possessed firearm to a manufacturer or dealer qualified under this part for the sole purpose of repair, identification, evaluation, research, testing, or calibration and return to the same lawful possessor.
@@ -94,4 +110,4 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Unserviceable firearm.* A firearm which is incapable of discharging a shot by means of an explosive and incapable of being readily restored to a firing condition.
 
-(26 U.S.C. 7805 (68A Stat. 917), 27 U.S.C. 205 (49 Stat. 981 as amended), 18 U.S.C. 926 (82 Stat. 959), and sec. 38, Arms Export Control Act (22 U.S.C. 2778, 90 Stat. 744))[T.D. ATF-48, 43 FR 13538, Mar. 31, 1978; 44 FR 55842, Sept. 28, 1979; T.D. ATF-241, 51 FR 39630, Oct. 29, 1986; T.D. ATF-270, 53 FR 10492, Mar. 31, 1988; T.D. ATF-396, 63 FR 12647, Mar. 16, 1998; ATF 2013R-9F, 79 FR 46692, Aug. 11, 2014; ATF-41F, 81 FR 2721, Jan. 15, 2016; ATF 2018R-22F, 83 FR 66554, Dec. 26, 2018; ATF-2021R-05F, 87 FR 24747, Apr. 26, 2022; 87 FR 51250, Aug. 22, 2022]
+(26 U.S.C. 7805 (68A Stat. 917), 27 U.S.C. 205 (49 Stat. 981 as amended), 18 U.S.C. 926 (82 Stat. 959), and sec. 38, Arms Export Control Act (22 U.S.C. 2778, 90 Stat. 744))[T.D. ATF-48, 43 FR 13538, Mar. 31, 1978; 44 FR 55842, Sept. 28, 1979; T.D. ATF-241, 51 FR 39630, Oct. 29, 1986; T.D. ATF-270, 53 FR 10492, Mar. 31, 1988; T.D. ATF-396, 63 FR 12647, Mar. 16, 1998; ATF 2013R-9F, 79 FR 46692, Aug. 11, 2014; ATF-41F, 81 FR 2721, Jan. 15, 2016; ATF 2018R-22F, 83 FR 66554, Dec. 26, 2018; ATF-2021R-05F, 87 FR 24747, Apr. 26, 2022; 87 FR 51250, Aug. 22, 2022; ATF-2021R-08F, 88 FR 6575, Jan. 31, 2023]

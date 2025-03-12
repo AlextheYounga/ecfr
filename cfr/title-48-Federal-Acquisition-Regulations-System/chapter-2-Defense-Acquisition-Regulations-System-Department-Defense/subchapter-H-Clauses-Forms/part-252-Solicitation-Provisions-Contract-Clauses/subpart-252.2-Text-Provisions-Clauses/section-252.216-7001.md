@@ -1,10 +1,10 @@
-##### 252.216-7001 Economic price adjustment - nonstandard steel items. #####
+##### 252.216-7001 Economic Price Adjustment-Nonstandard Steel Items. #####
 
 As prescribed in 216.203-4-70(b), use the following clause:
 
-Economic Price Adjustment - Nonstandard Steel Items (JUL 1997)
+Economic Price Adjustment—Nonstandard Steel Items (JAN 2023)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Base labor index* means the average of the labor indices for the three months which consist of the month of bid opening (or offer submission) and the months immediately preceding and following that month.
 
@@ -14,9 +14,9 @@ Economic Price Adjustment - Nonstandard Steel Items (JUL 1997)
 
 *Current steel index* means the Contractor's established price (see note 6) for that item, including all applicable extras in effect \_\_\_\_\_\_\_\_ days (see note 3) prior to the first day of the month in which delivery is required.
 
-*Established price is* -
+*Established price is*—
 
-(1) A price which is an established catalog or market price of a commercial item sold in substantial quantities to the general public; and
+(1) A price which is an established catalog or market price of a commercial product sold in substantial quantities to the general public; and
 
 (2) The net price after applying any applicable standard trade discounts offered by the Contractor from its catalog, list, or schedule price. (But see Note 6.)
 
@@ -36,7 +36,7 @@ Economic Price Adjustment - Nonstandard Steel Items (JUL 1997)
 
 (2) The revised contract unit price shall apply to the deliveries of those quantities required to be made in that month regardless of when actual delivery is made.
 
-(3) Each revised contract unit price shall be computed by adding -
+(3) Each revised contract unit price shall be computed by adding—
 
 (i) The adjusted cost of labor (obtained by multiplying \_\_\_\_\_\_ percent of the contract unit price by a fraction, of which the numerator shall be the current labor index and the denominator shall be the base labor index);
 
@@ -50,7 +50,7 @@ Economic Price Adjustment - Nonstandard Steel Items (JUL 1997)
 
 (f)(1) Pending any revisions of the contract unit prices, the Contractor shall be paid the contract unit price for deliveries made.
 
-(2) Within 30 days after final delivery (or such other period as may be authorized by the Contracting Officer), the Contractor shall furnish a statement identifying the correctness of -
+(2) Within 30 days after final delivery (or such other period as may be authorized by the Contracting Officer), the Contractor shall furnish a statement identifying the correctness of—
 
 (i) The average straight time hourly earnings of the Contractor's employees in the shop identified in paragraph (a) that are relevant to the computations of the *base labor index* and the *current labor index;* and
 
@@ -82,4 +82,4 @@ Notes:
 
 6 In negotiated acquisitions of nonstandard steel items, when there is no *established price* or when it is not desirable to use this price, this paragraph may refer to another appropriate price basis, e.g., an established interplant price.
 
-(End of clause)[56 FR 36479, July 31, 1991, as amended at 62 FR 2614, Jan. 17, 1997; 62 FR 40473, July 29, 1997]
+(End of clause)[56 FR 36479, July 31, 1991, as amended at 62 FR 2614, Jan. 17, 1997; 62 FR 40473, July 29, 1997; 88 FR 6590, Jan. 31, 2023]

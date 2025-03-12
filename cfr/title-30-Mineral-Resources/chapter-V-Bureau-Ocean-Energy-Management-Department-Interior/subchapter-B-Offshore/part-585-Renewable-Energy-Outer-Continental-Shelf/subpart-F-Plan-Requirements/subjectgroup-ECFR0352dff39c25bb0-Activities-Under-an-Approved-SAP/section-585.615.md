@@ -1,0 +1,3 @@
+##### § 585.615 What other reports or notices must I submit to BOEM under my approved SAP? #####
+
+You must prepare and submit to BOEM a report annually on November 1 of each year that summarizes your site assessment activities and the results of those activities. BOEM will withhold trade secrets and commercial or financial information that is privileged or confidential from public disclosure under exemption 4 of the FOIA and as provided in § 585.114.

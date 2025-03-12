@@ -2,7 +2,7 @@
 
 Follow the procedures at PGI 215.403-3.
 
-(a) In accordance with 10 U.S.C. 2306a(d) -
+(a) In accordance with 10 U.S.C. 2306a(d)—
 
 (1) Contracting officers shall not determine the price of a contract or subcontract to be fair and reasonable based solely on historical prices paid by the Government (see PGI 215.403-3(4)); and
 
@@ -20,6 +20,6 @@ Follow the procedures at PGI 215.403-3.
 
 (vi) Risk to the Government if award is not made.
 
-(c) *Commercial items.* For determinations of price reasonableness of major weapon systems acquired as commercial items, see 234.7002(d).
+(c) *Commercial products or commercial services.* For determinations of price reasonableness of major weapon systems acquired as commercial products, see 234.7002(d).
 
-[72 FR 30278, May 31, 2007, as amended at 77 FR 76940, Dec. 31, 2012; 85 FR 34532, June 5, 2020; 87 FR 65504, Oct. 28, 2022]
+[72 FR 30278, May 31, 2007, as amended at 77 FR 76940, Dec. 31, 2012; 85 FR 34532, June 5, 2020; 87 FR 65504, Oct. 28, 2022; 88 FR 6583, Jan. 31, 2023]

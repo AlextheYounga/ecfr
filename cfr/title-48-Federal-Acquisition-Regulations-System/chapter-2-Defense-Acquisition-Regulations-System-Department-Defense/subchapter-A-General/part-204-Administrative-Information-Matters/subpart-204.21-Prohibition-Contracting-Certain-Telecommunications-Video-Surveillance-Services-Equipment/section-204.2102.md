@@ -1,0 +1,3 @@
+##### 204.2102 Prohibition. #####
+
+(a) *Prohibited equipment, systems, or services.* In addition to the prohibition at FAR 4.2102(a), unless the covered defense telecommunications equipment or services are subject to a waiver described in 204.2104, the contracting officer shall not procure or obtain, or extend or renew a contract (*e.g.,* exercise an option) to procure or obtain, any equipment, system, or service to carry out covered missions that uses covered defense telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system.

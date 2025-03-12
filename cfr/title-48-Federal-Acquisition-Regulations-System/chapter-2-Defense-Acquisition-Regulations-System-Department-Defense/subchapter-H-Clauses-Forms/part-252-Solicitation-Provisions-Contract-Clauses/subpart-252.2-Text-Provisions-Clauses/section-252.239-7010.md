@@ -2,9 +2,9 @@
 
 As prescribed in 239.7604(b), use the following clause:
 
-Cloud Computing Services (Sep 2022)
+Cloud Computing Services (JAN 2023)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Authorizing official,* as described in DoD Instruction 8510.01, Risk Management Framework (RMF) for DoD Information Technology (IT), means the senior Federal official or executive with the authority to formally assume responsibility for operating an information system at an acceptable level of risk to organizational operations (including mission, functions, image, or reputation), organizational assets, individuals, other organizations, and the Nation.
 
@@ -66,6 +66,6 @@ Cloud Computing Services (Sep 2022)
 
 (k) *Spillage.* Upon notification by the Government of a spillage, or upon the Contractor's discovery of a spillage, the Contractor shall cooperate with the Contracting Officer to address the spillage in compliance with agency procedures.
 
-(l) *Subcontracts.* The Contractor shall include this clause, including this paragraph (l), in all subcontracts that involve or may involve cloud services, including subcontracts for commercial items.
+(l) *Subcontracts.* The Contractor shall include this clause, including this paragraph (l), in all subcontracts that involve or may involve cloud services, including subcontracts for commercial services.
 
-(End of clause)[80 FR 51747, Aug. 26, 2015, as amended at 80 FR 74695, Nov. 30, 2015; 81 FR 73001, Oct. 21, 2016; 87 FR 59028, Sept. 29, 2022]
+(End of clause)[80 FR 51747, Aug. 26, 2015, as amended at 80 FR 74695, Nov. 30, 2015; 81 FR 73001, Oct. 21, 2016; 87 FR 59028, Sept. 29, 2022; 88 FR 6596, Jan. 31, 2023]
