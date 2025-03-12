@@ -1,5 +1,7 @@
 ##### § 201.27 Initial notice of distribution of digital audio recording devices or media. #####
 
+Link to an amendment published at 82 FR 9358, February 6, 2017.
+
 (a) *General.* This section prescribes rules pertaining to the filing of an Initial Notice of Distribution in the Copyright Office as required by section 1003(b) of the Audio Home Recording Act of 1992, Public Law 102-563, title 17 of the United States Code, to obtain a statutory license to import and distribute, or manufacture and distribute, any digital audio recording device or digital audio recording medium in the United States.
 
 (b) *Definitions* - (1) *An Initial Notice of Distribution of Digital Audio Recording Devices or Media or Initial Notice* is a notice under section 1003(b) of the Audio Home Recording Act of 1992, Public Law 102-563, title 17 of the United States Code, which is required by that section to be filed in the Copyright Office by an importer or manufacturer of a digital audio recording device or digital audio recording medium who has not previously filed notice of the importation or manufacture for distribution of such device or medium in the United States.

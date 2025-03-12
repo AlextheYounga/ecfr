@@ -1,5 +1,7 @@
 ##### § 212.3 Registration of claims for protection of eligible designs. #####
 
+Link to an amendment published at 82 FR 9365, February 6, 2017.
+
 (a) *Limitations.* Protection is not available for, and an application for registration will not be accepted for:
 
 (1) An otherwise eligible design made public prior to October 28, 1998;

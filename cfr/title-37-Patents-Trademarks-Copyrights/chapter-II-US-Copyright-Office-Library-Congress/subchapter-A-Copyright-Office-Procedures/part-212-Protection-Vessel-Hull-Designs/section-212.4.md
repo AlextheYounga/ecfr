@@ -1,5 +1,7 @@
 ##### § 212.4 Affixation and placement of design notice. #####
 
+Link to an amendment published at 82 FR 9365, February 6, 2017.
+
 (a) *General.* (1) This section specifies the methods of affixation and placement of the design notice required by 17 U.S.C. 1306. Sections 1306 and 1307 govern the circumstances under which a design notice must be used and the effect of omission of a design notice. A notice deemed acceptable under this part shall be considered to satisfy the requirements of section 1306 that it be so located and applied as to give reasonable notice of design protection while the useful article embodying the design is passing through its normal channels of commerce. As provided in that section, the examples specified in this part shall not be considered exhaustive of the methods of affixation and locations giving reasonable notice of the claim of protection in the design.
 
 (2) The acceptability of a design notice under these regulations shall depend upon its being legible under normal conditions of use, and affixed in such a manner and position that, when affixed, it may be viewed upon reasonable examination. There is no requirement that a design notice be permanently embossed or engraved into a vessel hull or deck, but it should be affixed in such a manner that, under normal conditions of use, it is not likely to become unattached or illegible.

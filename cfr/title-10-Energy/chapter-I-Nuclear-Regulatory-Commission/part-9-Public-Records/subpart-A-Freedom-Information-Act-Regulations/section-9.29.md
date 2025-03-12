@@ -1,8 +1,6 @@
 ##### § 9.29 Appeal from initial determination. #####
 
-Link to an amendment published at 81 FR 96346, December 30, 2016.
-
-(a) A requester may appeal a notice of denial of a Freedom of Information Act request for access to agency records, denial of a request for waiver or reduction of fees, or denial of a request for expedited processing under this subpart within 30 calendar days of the date of the NRC's denial.
+(a) A requester may appeal a notice of denial of a Freedom of Information Act request for access to agency records, denial of a request for waiver or reduction of fees, or denial of a request for expedited processing under this subpart within 90 calendar days of the date of the NRC's denial.
 
 (b) For agency records to which access is denied by the Assistant Inspector General for Investigations, the appeal must be in writing directed to the Inspector General and sent to the Freedom of Information Act and Privacy Act Officer by an appropriate method listed in § 9.6. The appeal should clearly state on the envelope and in the letter that it is an “Appeal from Initial Freedom of Information Act Decision.” The NRC does not consider an appeal received until the date it is actually received by the Freedom of Information Act and Privacy Act Officer. The Inspector General will make the NRC determination on the appeal within 20 working days after the receipt of the appeal. If the Inspector General denies an appeal of access to records, in whole or in part, the Inspector General will notify the requester of the denial, explaining the exemptions relied upon and how the exemptions apply to the agency records withheld. The notice will inform the requester that the denial is a final agency action and that judicial review is available in a district court of the United States in the district in which the requester resides or has a principal place of business, in which the agency records are situated, or in the District of Columbia.
 
@@ -16,4 +14,4 @@ Link to an amendment published at 81 FR 96346, December 30, 2016.
 
 (g) The Executive Director for Operations, a Deputy Executive Director, the Secretary of the Commission, or the Inspector General will furnish copies of all appeals and written determinations on appeals to the Freedom of Information Act and Privacy Act Officer.
 
-[70 FR 34307, June 14, 2005]
+[70 FR 34307, June 14, 2005, as amended at 81 FR 96346, Dec. 30, 2016]

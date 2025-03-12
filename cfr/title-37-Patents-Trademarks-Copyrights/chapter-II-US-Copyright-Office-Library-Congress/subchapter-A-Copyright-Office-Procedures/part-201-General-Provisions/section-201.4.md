@@ -1,5 +1,7 @@
 ##### § 201.4 Recordation of transfers and certain other documents. #####
 
+Link to an amendment published at 82 FR 9356, February 6, 2017.
+
 (a) *General.* (1) This section prescribes conditions for the recordation of transfers of copyright ownership and other documents pertaining to a copyright under section 205 of title 17 of the United States Code, as amended by Pub. L. 94-553. The filing or recordation of the following documents is not within the provisions of this section:
 
 (i) Certain contracts entered into by cable systems located outside of the 48 contiguous States (17 U.S.C. 111(e); see 37 CFR 201.12);

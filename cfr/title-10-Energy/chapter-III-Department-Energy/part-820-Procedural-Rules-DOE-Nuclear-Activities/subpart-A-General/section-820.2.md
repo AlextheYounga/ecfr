@@ -114,4 +114,4 @@
 
 (c) As used in this part, words in the singular also include the plural and words in the masculine gender also include the feminine and vice versa, as the case may require.
 
-[58 FR 43692, Aug. 17, 1993, as amended at 71 FR 68732, Nov. 28, 2006; 72 FR 31921, June 8, 2007; 81 FR 94913, Dec. 27, 2016]
+[58 FR 43692, Aug. 17, 1993, as amended at 71 FR 68732, Nov. 28, 2006; 72 FR 31921, June 8, 2007; 81 FR 94913, Dec. 27, 2016]Editorial Note:At 82 FR 8807, Jan. 31, 2017, § 820.2, (the definition for “DOE Nuclear Safety Requirements”), was stayed until March 21, 2017.

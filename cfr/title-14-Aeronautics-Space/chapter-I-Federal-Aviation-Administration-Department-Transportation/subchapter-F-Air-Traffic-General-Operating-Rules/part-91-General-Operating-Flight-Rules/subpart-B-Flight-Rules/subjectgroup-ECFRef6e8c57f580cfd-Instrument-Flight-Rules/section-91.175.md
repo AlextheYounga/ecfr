@@ -1,6 +1,6 @@
 ##### § 91.175 Takeoff and landing under IFR. #####
 
-Link to an amendment published at 81 FR 90172, Dec. 13, 2016.
+Link to an amendment published at 81 FR 90172, Dec. 13, 2016.This amendment was delayed until Mar. 21, 2017 at 82 FR 9677, Feb. 8, 2017.
 
 (a) *Instrument approaches to civil airports.* Unless otherwise authorized by the FAA, when it is necessary to use an instrument approach to a civil airport, each person operating an aircraft must use a standard instrument approach procedure prescribed in part 97 of this chapter for that airport. This paragraph does not apply to United States military aircraft.
 

@@ -1,5 +1,7 @@
 ##### § 204.4 Procedure for notification of the existence of records pertaining to individuals. #####
 
+Link to an amendment published at 82 FR 9364, February 6, 2017.
+
 (a) The Copyright Office will publish in the Federal Register, upon the establishment or revision of the system of records, notices of all Copyright Office systems of records subject to the Privacy Act, as provided by 5 U.S.C., section 552a(e)(4). Individuals desiring to know if a Copyright Office system of records contains a record pertaining to them should submit a written request to that effect either by mail to the Supervisory Copyright Information Specialist, Copyright Information Section, Copyright GC/I&R, P.O. Box 70400,, Washington, DC 20024, or in person between the hours of 8:30 a.m. and 5 p.m. on any working day except legal holidays at Room LM-401, The James Madison Memorial Building, 1st and Independence Avenue, SE, Washington, DC.
 
 (b) The written request should identify clearly the system of records which is the subject of inquiry, by reference, whenever possible, to the system number and title as given in the notices of systems of records in the Federal Register. Both the written request and the envelope carrying it should be plainly marked “Privacy Act Request.” Failure to so mark the request may delay the Office response.

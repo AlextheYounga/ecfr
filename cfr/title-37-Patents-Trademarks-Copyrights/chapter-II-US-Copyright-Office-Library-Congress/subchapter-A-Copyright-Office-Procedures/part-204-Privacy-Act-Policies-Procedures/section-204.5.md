@@ -1,5 +1,7 @@
 ##### § 204.5 Procedures for requesting access to records. #####
 
+Link to an amendment published at 82 FR 9364, February 6, 2017.
+
 (a) Individuals desiring to obtain access to Copyright Office information pertaining to them in a system of records other than those created under section 705 of title 17 should make a written request, signed by themselves or their duly authorized agent, to that effect either by mail to the Supervisory Copyright Information Specialist, Copyright Information Section, Copyright GC/I&R, P.O. Box 70400, Washington, DC 20024, or in person between the hours of 8:30 a.m. and 5 p.m. on any working day except legal holidays at Room LM-401, The James Madison Memorial Building, 1st and Independence Avenue, SE, Washington, DC.
 
 (b) The written request should identify clearly the system of records which is the subject of inquiry, by reference, whenever possible, to the system number and title as given in the notices of systems of records in the Federal Register. Both the written request and the envelope carrying it should be plainly marked “Privacy Act Request.” Failure to so mark the request may delay the Office response.

@@ -1,6 +1,6 @@
 ##### § 121.651 Takeoff and landing weather minimums: IFR: All certificate holders. #####
 
-Link to an amendment published at 81 FR 90175, Dec. 13, 2016.
+Link to an amendment published at 81 FR 90175, Dec. 13, 2016.This amendment was delayed until Mar. 21, 2017 at 82 FR 9677, Feb. 8, 2017.
 
 (a) Notwithstanding any clearance from ATC, no pilot may begin a takeoff in an airplane under IFR when the weather conditions reported by the U.S. National Weather Service, a source approved by that Service, or a source approved by the Administrator, are less than those specified in -
 

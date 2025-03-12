@@ -20,4 +20,4 @@
 
 (f) *Underlying nuclear safety requirements.* Notwithstanding the commencement of an administrative or judicial proceeding based on an alleged act of retaliation, this section shall not prevent the Director from taking any action consistent with this part regarding compliance with DOE Nuclear Safety Requirements other than 10 CFR 708.43.
 
-[81 FR 94914, Dec. 27, 2016]
+[81 FR 94914, Dec. 27, 2016]Editorial Note:At 82 FR 8807, Jan. 31, 2017, § 820.14 was stayed until March 21, 2017.

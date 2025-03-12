@@ -1,5 +1,7 @@
 ##### § 201.11 Satellite carrier statements of account covering statutory licenses for secondary transmissions. #####
 
+Link to an amendment published at 82 FR 9357, February 6, 2017.
+
 (a) *General.* This section prescribes rules pertaining to the deposit of Statements of Account and royalty fees in the Copyright Office as required by the satellite carrier license of section 119(b)(1) and Section 122(a) of title 17 of the United States Code, as amended by Pub. L. No. 111-175, in order that certain secondary transmissions by satellite carriers for private home viewing be subject to statutory licensing.
 
 (b) *Definitions.* (1) The terms *distributor, network station, private home viewing, satellite carrier, subscribe, subscriber, non-network station, unserved household, primary stream, and multicast stream*, have the meanings set forth in Section 119(d) of title 17 of the United States Code, as amended by Pub. L. No. 111-175.

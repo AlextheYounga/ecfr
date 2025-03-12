@@ -4,7 +4,7 @@
 
 Note to paragraph (a):
 
-As of August 1, 2016, the applicable maximum civil penalty per violation of IEEPA is the greater of $284,582 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
+As of January 15, 2017, the applicable maximum civil penalty per violation of IEEPA is the greater of $289,238 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
 
 (b) *Criminal penalties.* As set forth in section 102(a)(3) of HIFPA, a person who willfully commits, willfully attempts to commit, or willfully conspires to commit a violation of any license, order, regulation, or prohibition set forth in or issued pursuant to this part shall, upon conviction, be fined not more than $1,000,000, or if a natural person, be imprisoned for not more than 20 years, or both.
 
@@ -16,4 +16,4 @@ As of August 1, 2016, the applicable maximum civil penalty per violation of IEEP
 
 (e) Violations of this part may also be subject to other applicable laws.
 
-[81 FR 22186, Apr. 15, 2016, as amended at 81 FR 43076, July 1, 2016]
+[81 FR 22186, Apr. 15, 2016, as amended at 81 FR 43076, July 1, 2016; 82 FR 10438, Feb. 10, 2017]

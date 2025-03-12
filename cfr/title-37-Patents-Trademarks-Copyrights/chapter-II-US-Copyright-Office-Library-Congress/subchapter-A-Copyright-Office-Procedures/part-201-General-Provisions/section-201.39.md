@@ -1,5 +1,7 @@
 ##### § 201.39 Notice to Libraries and Archives of Normal Commercial Exploitation or Availability at Reasonable Price. #####
 
+Link to an amendment published at 82 FR 9359, February 6, 2017.
+
 (a) *General.* This section prescribes rules under which copyright owners or their agents may provide notice to qualified libraries and archives (including a nonprofit educational institution that functions as such) that a published work in its last 20 years of copyright protection is subject to normal commercial exploitation, or that a copy or phonorecord of the work can be obtained at a reasonable price, for purposes of section 108(h)(2) of title 17 of the United States Code.
 
 (b) *Format.* The Copyright Office provides a required format for a Notice to Libraries and Archives of Normal Commercial Exploitation or Availability at Reasonable Price, and for continuation sheets for group notices. The required format is set out in Appendix A to this section, and is available from the Copyright Office website (*http://lcweb.loc.gov/copyright*). The Copyright Office does not provide printed forms. The Notice shall be in English (except for an original title, which may be in another language), typed or printed legibly in dark ink, and shall be provided on 81/2 × 11 inch white paper with a one-inch margin.

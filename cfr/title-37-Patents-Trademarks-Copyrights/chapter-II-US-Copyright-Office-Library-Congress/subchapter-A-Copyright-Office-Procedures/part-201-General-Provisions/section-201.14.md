@@ -1,5 +1,7 @@
 ##### § 201.14 Warnings of copyright for use by certain libraries and archives. #####
 
+Link to an amendment published at 82 FR 9357, February 6, 2017.
+
 (a) *Definitions.* (1) A *Display Warning of Copyright* is a notice under paragraphs (d)(2) and (e)(2) of section 108 of title 17 of the United States Code as amended by Pub. L. 94-553. As required by those sections the “Display Warning of Copyright” is to be displayed at the place where orders for copies or phonorecords are accepted by certain libraries and archives.
 
 (2) An *Order Warning of Copyright* is a notice under paragraphs (d)(2) and (e)(2) of section 108 of title 17 of the United States Code as amended by Pub. L. 94-553. As required by those sections the “Order Warning of Copyright” is to be included on printed forms supplied by certain libraries and archives and used by their patrons for ordering copies or phonorecords.

@@ -1,5 +1,7 @@
 ##### § 201.9 Recordation of agreements between copyright owners and public broadcasting entities. #####
 
+Link to an amendment published at 82 FR 9356, February 6, 2017.
+
 (a) License agreements voluntarily negotiated between one or more owners of copyright in published nondramatic musical works and published pictorial, graphic, and sculptural works, and one or more public broadcasting entities, and terms and rates of royalty payments agreed to among owners of copyright in nondramatic literary works and public broadcasting entities will be filed in the Copyright Office, Licensing Division by recordation upon payment of the fee prescribed by § 201.3. The document submitted for recordation shall meet the following requirements:
 
 (1) It shall be an original instrument of agreement; or it shall be a legible photocopy or other full-size facsimile reproduction of an original, accompanied by a certification signed by at least one of the parties to the agreement, or an authorized representative of that party, that the reproduction is a true copy;

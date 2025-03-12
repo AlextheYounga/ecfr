@@ -8,7 +8,7 @@
 
 (2) *Consortium awards.* If the cooperative agreement is to be awarded to a consortium, a completed, formally executed Articles of Collaboration is required prior to award.
 
-(c) *System for Award Management (SAM)* Prior to implementation of the Integrated Financial Management (IFM) System at each center, all grant and cooperative agreement recipients are required to register in the System for Award Management database. Registration is required in order to obtain a Commercial and Government Entity (CAGE) code, which will be used as a grant and cooperative agreement identification number for the new system. The agreement officer shall verify that the prospective awardee is registered in the SAM database using the DUNS number or, if applicable, the DUNS+4 number, via the Internet at *https://www.sam.gov* or by calling toll free: 888-227-2423, commercial: 616-961-5757.
+(c) *System for Award Management (SAM)* Prior to implementation of the Integrated Financial Management (IFM) System at each center, all grant and cooperative agreement recipients are required to register in the System for Award Management database. Registration is required in order to obtain a Commercial and Government Entity (CAGE) code, which will be used as a grant and cooperative agreement identification number for the new system. The agreement officer shall verify that the prospective awardee is registered in the SAM database using the DUNS number or, if applicable, the DUNS+4 number, via the Internet at *https://www.sam.gov*.
 
 (d) *Certifications, Disclosures, and Assurances.* (1) Agreement officers are required to ensure that all necessary certifications, disclosures, and assurances have been obtained prior to awarding a cooperative agreement.
 

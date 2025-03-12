@@ -1,5 +1,7 @@
 ##### § 202.2 Copyright notice. #####
 
+Link to an amendment published at 82 FR 9359, February 6, 2017.
+
 (a) *General.* (1) With respect to a work published before January 1, 1978, copyright was secured, or the right to secure it was lost, except for works seeking *ad interim* copyright, at the date of publication, *i.e.*, the date on which copies are first placed on sale, sold, or publicly distributed, depending upon the adequacy of the notice of copyright on the work at that time. The adequacy of the copyright notice for such a work is determined by the copyright statute as it existed on the date of first publication.
 
 (2) If before January 1, 1978, publication occurred by distribution of copies or in some other manner, without the statutory notice or with an inadequate notice, as determined by the copyright statute as it existed on the date of first publication, the right to secure copyright was lost. In such cases, copyright cannot be secured by adding the notice to copies distributed at a later date.

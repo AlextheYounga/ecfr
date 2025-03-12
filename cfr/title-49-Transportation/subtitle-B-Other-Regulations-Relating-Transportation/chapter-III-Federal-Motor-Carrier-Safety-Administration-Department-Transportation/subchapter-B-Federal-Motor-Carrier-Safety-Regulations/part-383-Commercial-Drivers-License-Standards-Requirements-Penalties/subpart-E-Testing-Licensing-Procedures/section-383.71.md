@@ -1,6 +1,6 @@
 ##### § 383.71 Driver application and certification procedures. #####
 
-Link to an amendment published at 81 FR 88803, Dec. 8, 2016.
+Link to an amendment published at 81 FR 88803, Dec. 8, 2016.This amendment was delayed until Mar. 21, 2017 at 82 FR 8903, Feb. 1, 2017.
 
 (a) *Commercial Learner's Permit.* Prior to obtaining a CLP, a person must meet the following requirements:
 

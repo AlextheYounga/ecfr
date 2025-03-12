@@ -1,5 +1,7 @@
 ##### § 202.21 Deposit of identifying material instead of copies. #####
 
+Link to an amendment published at 82 FR 9362, February 6, 2017.
+
 (a) *General.* Subject to the specific provisions of paragraphs (f) and (g) of this section, and to §§ 202.19(e)(1)(iv) and 202.20(d)(1)(iv), in any case where the deposit of identifying material is permitted or required under § 202.19 or § 202.20 of these regulations for published or unpublished works, the material shall consist of photographic prints, transparencies, photostats, drawings, or similar two-dimensional reproductions or renderings of the work, in a form visually perceivable without the aid of a machine or device. In the case of pictorial or graphic works, such material should reproduce the actual colors employed in the work. In all other cases, such material may be in black and white or may consist of a reproduction of the actual colors.
 
 (b) *Completeness; number of sets.* As many pieces of identifying material as are necessary to show the entire copyrightable content in the ordinary case, but in no case less than an adequate representation of such content, of the work for which deposit is being made, or for which registration is being sought shall be submitted. Except in cases falling under the provisions of § 202.19(d)(2)(iii) or § 202.20(c)(2)(iii) with respect to holograms, only one set of such complete identifying material is required.

@@ -1,5 +1,7 @@
 ##### § 622.30 Required fishing gear. #####
 
+Link to an amendment published at 82 FR 10311, Feb. 10, 2017.
+
 For a person on board a vessel to fish for Gulf reef fish in the Gulf EEZ, the vessel must possess on board and such person must use the gear as specified in paragraphs (a) and (b) of this section.
 
 (a) *Non-stainless steel circle hooks.* Non-stainless steel circle hooks are required when fishing with natural baits.

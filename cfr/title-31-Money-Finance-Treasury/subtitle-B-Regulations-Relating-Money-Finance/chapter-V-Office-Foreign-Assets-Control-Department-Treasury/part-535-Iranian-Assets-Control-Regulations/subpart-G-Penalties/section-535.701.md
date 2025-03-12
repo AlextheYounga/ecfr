@@ -6,7 +6,7 @@
 
 Note to paragraph (a)(1):
 
-As of August 1, 2016, the applicable maximum civil penalty per violation of the Act is the greater of $284,582 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
+As of January 15, 2017, the applicable maximum civil penalty per violation of the Act is the greater of $289,238 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
 
 (2) A person who willfully commits, willfully attempts to commit, or willfully conspires to commit, or aids or abets in the commission of a violation of any license, order, regulation, or prohibition shall, upon conviction, be fined not more than $1,000,000, or if a natural person, may be imprisoned for not more than 20 years, or both.
 
@@ -18,4 +18,4 @@ As of August 1, 2016, the applicable maximum civil penalty per violation of the 
 
 (d) Attention is directed to 18 U.S.C. 2332d, as added by Public Law 104-132, section 321, which provides that, except as provided in regulations issued by the Secretary of the Treasury, in consultation with the Secretary of State, a U.S. person, knowing or having reasonable cause to know that a country is designated under section 6(j) of the Export Administration Act, 50 U.S.C. App. 2405, as a country supporting international terrorism, engages in a financial transaction with the government of that country, shall be fined under title 18, United States Code, or imprisoned for not more than 10 years, or both.
 
-[44 FR 65956, Nov. 15, 1979, as amended at 61 FR 43461, Aug. 23, 1996; 61 FR 54938, Oct. 23, 1996; 62 FR 45107, Aug. 25, 1997; 71 FR 29252, May 22, 2006; 73 FR 32651, June 10, 2008; 81 FR 43074, July 1, 2016]
+[44 FR 65956, Nov. 15, 1979, as amended at 61 FR 43461, Aug. 23, 1996; 61 FR 54938, Oct. 23, 1996; 62 FR 45107, Aug. 25, 1997; 71 FR 29252, May 22, 2006; 73 FR 32651, June 10, 2008; 81 FR 43074, July 1, 2016; 82 FR 10436, Feb. 10, 2017]

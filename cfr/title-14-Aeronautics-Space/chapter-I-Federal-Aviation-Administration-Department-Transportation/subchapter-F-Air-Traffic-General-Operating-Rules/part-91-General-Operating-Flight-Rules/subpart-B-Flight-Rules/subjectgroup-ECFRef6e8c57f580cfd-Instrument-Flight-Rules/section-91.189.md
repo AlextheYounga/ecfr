@@ -1,6 +1,6 @@
 ##### § 91.189 Category II and III operations: General operating rules. #####
 
-Link to an amendment published at 81 FR 90175, Dec. 13, 2016.
+Link to an amendment published at 81 FR 90175, Dec. 13, 2016.This amendment was delayed until Mar. 21, 2017 at 82 FR 9677, Feb. 8, 2017.
 
 (a) No person may operate a civil aircraft in a Category II or III operation unless -
 

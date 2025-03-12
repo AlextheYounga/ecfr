@@ -14,7 +14,7 @@
 
 (v) Aid or perpetuate discrimination against a qualified individual with a disability by providing significant assistance to an agency, organization, or person that discriminates on the basis of disability in providing any aid, benefit, or service to beneficiaries of the recipient's program or activity;
 
-(vi) Deny a qualified individual with a disabilitythe opportunity to participate as a member of planning or advisory boards; or
+(vi) Deny a qualified individual with a disability the opportunity to participate as a member of planning or advisory boards; or
 
 (vii) Otherwise limit a qualified individual with a disability in the enjoyment of any right, privilege, advantage, or opportunity enjoyed by others receiving an aid, benefit, or service.
 
@@ -22,7 +22,7 @@
 
 (3) Recipients shall take appropriate steps to ensure that no individual with disability is denied the benefits of, excluded from participation in, or otherwise subjected to discrimination in any program or activity receiving Federal financial assistance because of the absence of auxiliary aids for individuals with impaired sensory, manual, or speaking skills.
 
-(4) Despite the existence of separate or different aid, benefits, or services provided in accordance with this part, a recipient may not deny a qualified individual with a disabilitythe opportunity to participate in such programs or activities that are not separate or different.
+(4) Despite the existence of separate or different aid, benefits, or services provided in accordance with this part, a recipient may not deny a qualified individual with a disability the opportunity to participate in such programs or activities that are not separate or different.
 
 (5) A recipient may not, directly or through contractual or other arrangements, utilize criteria or methods of administration:
 

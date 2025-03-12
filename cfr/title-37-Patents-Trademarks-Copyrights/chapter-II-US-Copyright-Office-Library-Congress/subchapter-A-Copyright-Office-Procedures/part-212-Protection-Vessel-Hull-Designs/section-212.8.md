@@ -1,5 +1,7 @@
 ##### § 212.8 Correction of errors in certificates of registration. #####
 
+Link to an amendment published at 82 FR 9365, February 6, 2017.
+
 (a) *General.* (1) This section prescribes conditions relating to the correction of clerical or typographical errors in a certificate of registration of a vessel hull design, under section 1319 of title 17 of the United States Code, as amended by Public Law 105-304.
 
 (2) For the purposes of this section, a *basic registration* means registration of a vessel hull design made under sections 1310 through 1314 of title 17 of the United States Code, as amended by Public Law 105-304.

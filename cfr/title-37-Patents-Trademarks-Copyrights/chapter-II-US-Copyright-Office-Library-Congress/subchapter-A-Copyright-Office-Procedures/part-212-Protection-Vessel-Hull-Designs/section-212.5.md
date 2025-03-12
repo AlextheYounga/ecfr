@@ -1,5 +1,7 @@
 ##### § 212.5 Recordation of distinctive identification of vessel hull designer. #####
 
+Link to an amendment published at 82 FR 9365, February 6, 2017.
+
 (a) *General.* Any owner of a vessel hull may record a distinctive identification with the Register of Copyrights for purposes of using such distinctive identification in a design protection notice required by 17 U.S.C. 1306. A distinctive identification of an owner may not be used in a design notice before it has first been recorded with the Register.
 
 (b) *Forms.* The Copyright Office does not provide forms for the use of persons recording distinctive identifications of ownership of a vessel hull. However, persons recording distinctive identifications are encouraged to use the suggested format available on the Copyright Office website (*http://www.loc.gov/copyright/vessels*).

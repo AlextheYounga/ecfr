@@ -26,4 +26,4 @@
 
 (f) *Not-for-profit.* For purposes of this part, a “not-for-profit” contractor, subcontractor, or supplier is one for which no part of the net earnings of the contractor, subcontractor, or supplier inures to the benefit of any natural person or for-profit artificial person.
 
-[58 FR 43692, Aug. 17, 1993, as amended at 74 FR 11843, Mar. 20, 2009; 81 FR 94914, Dec. 27, 2016]
+[58 FR 43692, Aug. 17, 1993, as amended at 74 FR 11843, Mar. 20, 2009; 81 FR 94914, Dec. 27, 2016]Editorial Note:At 82 FR 8807, Jan. 31, 2017, § 820.20, paragraphs (a) and (b) were stayed until March 21, 2017.

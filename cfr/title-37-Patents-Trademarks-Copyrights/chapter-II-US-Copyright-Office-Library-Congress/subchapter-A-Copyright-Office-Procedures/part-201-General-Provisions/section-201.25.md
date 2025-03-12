@@ -1,5 +1,7 @@
 ##### § 201.25 Visual Arts Registry. #####
 
+Link to an amendment published at 82 FR 9358, February 6, 2017.
+
 (a) *General.* This section prescribes the procedures relating to the submission of Visual Arts Registry Statements by visual artists and owners of buildings, or their duly authorized representatives, for recordation in the Copyright Office under section 113(d)(3) of title 17 of the United States Code, as amended by Public Law 101-650, effective June 1, 1991. Statements recorded in the Copyright Office under this regulation will establish a public record of information relevant to an artist's integrity right to prevent destruction or injury to works of visual art incorporated in or made part of a building.
 
 (b) *Forms.* The Copyright Office does not provide forms for the use of persons recording statements regarding works of visual art that have been incorporated in or made part of a building.

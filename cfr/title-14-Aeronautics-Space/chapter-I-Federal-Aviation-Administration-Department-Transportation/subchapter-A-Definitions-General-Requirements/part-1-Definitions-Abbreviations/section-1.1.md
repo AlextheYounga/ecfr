@@ -1,6 +1,6 @@
 ##### § 1.1 General definitions. #####
 
-Link to an amendment published at 81 FR 90169, December 13, 2016.
+Link to an amendment published at 81 FR 90169, Dec. 13, 2016.Link to an extension of the above amendment published at 82 FR 9677, Feb. 8, 2017.
 
 As used in Subchapters A through K of this chapter, unless the context requires otherwise:
 

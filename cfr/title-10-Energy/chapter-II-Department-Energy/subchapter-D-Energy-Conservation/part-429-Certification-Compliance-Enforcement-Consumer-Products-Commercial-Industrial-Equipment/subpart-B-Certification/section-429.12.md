@@ -1,6 +1,6 @@
 ##### § 429.12 General requirements applicable to certification reports. #####
 
-Link to an amendment published at 81 FR 95798, Dec. 28, 2016.
+Link to an amendment published at 81 FR 95798, Dec. 28, 2016.This amendment was delayed until Mar. 21, 2017 at 82 FR 8805, Jan. 31, 2017.
 
 (a) *Certification.* Each manufacturer, before distributing in commerce any basic model of a covered product or covered equipment subject to an applicable energy conservation standard set forth in parts 430 or 431, and annually thereafter on or before the dates provided in paragraph (d) of this section, shall submit a certification report to DOE certifying that each basic model meets the applicable energy conservation standard(s). The certification report(s) must be submitted to DOE in accordance with the submission procedures of paragraph (h) of this section.
 

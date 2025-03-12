@@ -1,5 +1,7 @@
 ##### § 201.23 Transfer of unpublished copyright deposits to the Library of Congress. #####
 
+Link to an amendment published at 82 FR 9358, February 6, 2017.
+
 (a) *General.* This section prescribes rules governing the transfer of unpublished copyright deposits in the custody of the Copyright Office to the Library of Congress. The copyright deposits may consist of copies, phonorecords, or identifying material deposited in connection with registration of claims to copyright under section 408 of title 17 of the United States Code, as amended by Pub. L. 94-553, 90 Stat. 2541, effective January 1, 1978. These rules establish the conditions under which the Library of Congress is entitled to select deposits of unpublished works for its collections or for permanent transfer to the National Archives of the United States or to a Federal records center in accordance with section 704(b) of title 17 of the United States Code, as amended by Pub. L. 94-553.
 
 (b) *Selection by the Library of Congress.* The Library of Congress may select any deposits of unpublished works for the purposes stated in paragraph (a) of this section at the time of registration or at any time thereafter; *Provided,* That:

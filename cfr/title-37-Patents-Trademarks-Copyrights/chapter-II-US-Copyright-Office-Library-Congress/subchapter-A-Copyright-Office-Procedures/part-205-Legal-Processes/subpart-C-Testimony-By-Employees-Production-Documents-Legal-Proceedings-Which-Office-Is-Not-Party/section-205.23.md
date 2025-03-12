@@ -1,5 +1,7 @@
 ##### § 205.23 Scope of testimony. #####
 
+Link to an amendment published at 82 FR 9365, February 6, 2017.
+
 (a)(1) If a Copyright Office employee is authorized to give testimony in a legal proceeding, the testimony, if otherwise proper, shall be limited to facts within the personal knowledge of the Office employee. An Office employee is prohibited from giving expert testimony, or opinion, answering hypothetical or speculative questions, or giving testimony with respect to subject matter which is privileged. If an Office employee is authorized to testify in connection with his or her involvement or assistance in a proceeding or matter before the Office, that employee is further prohibited from giving testimony in response to an inquiry about the bases, reasons, mental processes, analyses, or conclusions of that employee in the performance of his or her official functions.
 
 (2) The General Counsel may authorize an employee to appear and give expert testimony or opinion testimony upon the showing, pursuant to § 205.3 of this part, that exceptional circumstances warrant such testimony and that the anticipated testimony will not be adverse to the interest of the Copyright Office or the United States.

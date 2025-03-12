@@ -1,7 +1,5 @@
 ##### § 2.390 Public inspections, exemptions, requests for withholding. #####
 
-Link to an amendment published at 81 FR 96346, December 30, 2016.
-
 (a) Subject to the provisions of paragraphs (b), (d), (e), and (f) of this section, final NRC records and documents, including but not limited to correspondence to and from the NRC regarding the issuance, denial, amendment, transfer, renewal, modification, suspension, revocation, or violation of a license, permit, order, or standard design approval, or regarding a rulemaking proceeding subject to this part shall not, in the absence of an NRC determination of a compelling reason for nondisclosure after a balancing of the interests of the person or agency urging nondisclosure and the public interest in disclosure, be exempt from disclosure and will be made available for inspection and copying at the NRC Web site, *http://www.nrc.gov*, and/or at the NRC Public Document Room, except for matters that are:
 
 (1)(i) Specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign policy; and
@@ -14,7 +12,7 @@ Link to an amendment published at 81 FR 96346, December 30, 2016.
 
 (4) Trade secrets and commercial or financial information obtained from a person and privileged or confidential;
 
-(5) Interagency or intra-agency memorandums or letters which would not be available by law to a party other than an agency in litigation with the Commission;
+(5) Interagency or intra-agency memorandums or letters that would not be available by law to a party other than an agency in litigation with the agency, provided that the deliberative process privilege shall not apply to records created 25 years or more before the date on which the records were requested;
 
 (6) Personnel and medical files and similar files, the disclosure of which would constitute a clearly unwarranted invasion of personal privacy;
 
@@ -46,7 +44,7 @@ Link to an amendment published at 81 FR 96346, December 30, 2016.
 
 (B) Each document or page, as appropriate, containing information sought to be withheld from public disclosure must indicate, adjacent to the information, or as specified in paragraph (b)(1)(i)(A) of this section if the entire page is affected, the basis (*i.e.,* trade secret, personal privacy, etc.) for proposing that the information be withheld from public disclosure under paragraph (a) of this section.
 
-(ii) The Commission may waive the affidavit requirements on request, or on its own initiative, in circumstances the Commission, in its discretion, deems appropriate. Otherwise, except for personal privacy information, which is not subject to the affidavit requirement, the request for withholding must be accompanied by an affidavit that -
+(ii) The Commission may waive the affidavit requirements on request, or on its own initiative, in circumstances the Commission, in its discretion, deems appropriate. Otherwise, except for personal privacy information, which is not subject to the affidavit requirement, the request for withholding must be accompanied by an affidavit that—
 
 (A) Identifies the document or part sought to be withheld;
 
@@ -88,7 +86,7 @@ Link to an amendment published at 81 FR 96346, December 30, 2016.
 
 (2) If the Commission denies a request for withholding under this section, it will provide the submitter with a statement of reasons for that determination. This decision will specify the date, which will be a reasonable time thereafter, when the document will be available at the NRC Web site, *http://www.nrc.gov.* The document will not be returned to the submitter.
 
-(3) Whenever a submitter desires to withdraw a document from Commission consideration, it may request return of the document, and the document will be returned unless the information -
+(3) Whenever a submitter desires to withdraw a document from Commission consideration, it may request return of the document, and the document will be returned unless the information—
 
 (i) Forms part of the basis of an official agency decision, including but not limited to, a rulemaking proceeding or licensing activity;
 
@@ -110,4 +108,4 @@ Link to an amendment published at 81 FR 96346, December 30, 2016.
 
 (f) The presiding officer, if any, or the Commission may, with reference to the NRC records and documents made available pursuant to this section, issue orders consistent with the provisions of this section and § 2.705(c).
 
-[69 FR 2236, Jan. 14, 2004, as amended at 72 FR 49152, Aug. 28, 2007; 72 FR 49477, Aug. 28, 2007; 75 FR 73937, Nov. 30, 2010]
+[69 FR 2236, Jan. 14, 2004, as amended at 72 FR 49152, Aug. 28, 2007; 72 FR 49477, Aug. 28, 2007; 75 FR 73937, Nov. 30, 2010; 81 FR 96346, Dec. 30, 2016]

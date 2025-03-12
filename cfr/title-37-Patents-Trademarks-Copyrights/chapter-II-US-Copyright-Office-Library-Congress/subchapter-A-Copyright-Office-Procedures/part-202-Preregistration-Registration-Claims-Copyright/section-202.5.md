@@ -1,5 +1,7 @@
 ##### § 202.5 Reconsideration Procedure for Refusals to Register. #####
 
+Link to an amendment published at 82 FR 9359, February 6, 2017.
+
 (a) *General.* This section prescribes rules pertaining to procedures for administrative review of the Copyright Office's refusal to register a claim to copyright, a mask work, or a vessel hull design upon a finding by the Office that the application for registration does not satisfy the legal requirements of title 17 of the United States Code. If an applicant's initial claim is refused, the applicant is entitled to request that the initial refusal to register be reconsidered.
 
 (b) *First reconsideration.* Upon receiving a written notification from the Registration Program explaining the reasons for a refusal to register, an applicant may request that the Registration Program reconsider its initial decision to refuse registration, subject to the following requirements:

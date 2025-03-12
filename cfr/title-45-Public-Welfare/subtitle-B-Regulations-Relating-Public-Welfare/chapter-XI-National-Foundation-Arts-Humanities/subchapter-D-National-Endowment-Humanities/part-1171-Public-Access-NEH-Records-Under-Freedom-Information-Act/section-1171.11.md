@@ -1,7 +1,5 @@
 ##### § 1171.11 Fees. #####
 
-Link to an amendment published at 82 FR 46, Jan. 3, 2017.
-
 (a) *In general.* The NEH will assess fees for processing FOIA requests in accordance with this section and with the Uniform Freedom of Information Fee Schedule and Guidelines published by the Office of Management and Budget at 52 FR 10012 (Mar. 27, 1987). In order to resolve any fee issues that arise under this section, the NEH may contact a requester for additional information. The NEH ordinarily will collect all applicable fees before sending copies of records to a requester. Requesters must pay fees by check or money order made payable to the Treasury of the United States.
 
 (b) *Definitions.* For purposes of this section:
@@ -40,7 +38,13 @@ Link to an amendment published at 82 FR 46, Jan. 3, 2017.
 
 (2) When, after first deducting the 100 pages (or its cost equivalent) and the first two hours of search, the total fee is $25.00 or less for any request, the NEH will not charge a fee.
 
-(3) When the NEH fails to comply with the time limits to which to respond to a request, and if no unusual or exceptional circumstances, as those terms are defined by FOIA, apply to the processing of the request, it may not charge search fees, or, in the instance of requests from requesters defined in paragraphs (b)(4), (b)(5) and (b)(6) of this section, may not charge duplication fees.
+(3) If NEH fails to comply with the FOIA's time limits in which to respond to a request, it may not charge search fees, or, in the instances of requests from requesters described in paragraphs (b)(4) through (6) of this section, may not charge duplication fees, except as described in paragraphs (d)(3)(i) through (iii) of this section.
+
+(i) If NEH has determined that unusual circumstances, as defined by the FOIA, apply and NEH has provided timely written notice to the requester in accordance with the FOIA, a failure to comply with the time limit shall be excused for an additional ten (10) working days.
+
+(ii) If NEH has determined that unusual circumstances, as defined by the FOIA, apply and more than 5,000 pages are necessary to respond to the request, NEH may charge search fees, or, in the case of requesters described in paragraphs (b)(4) through (6) of this section, may charge duplication fees, provided NEH provided timely written notice of unusual circumstances to the requester in accordance with the FOIA and NEH discussed with the requester via written mail, email, or telephone (or made not less than three good-faith attempts to do so) how the requester could effectively limit the scope of the request in accordance with 5 U.S.C. 552(a)(6)(B)(ii).
+
+(iii) If a court has determined that exceptional circumstances exist, as defined by the FOIA, a failure to comply with the time limits shall be excused for the length of time provided by the court order.
 
 (e) *Categories of requesters.* There are four categories of FOIA requesters: commercial use requesters; educational and non-commercial scientific institutions; representatives of the news media; and all other requesters. The NEH will assess fees for these categories of requesters as follows:
 
@@ -95,3 +99,5 @@ Link to an amendment published at 82 FR 46, Jan. 3, 2017.
 (4) When there is an advance payment request, the NEH will not consider the request as received by the agency and no further work will be done on the request until the required payment is received. If the requester fails to respond within thirty (30) calendar days after the date of the advance payment request, the NEH will administratively close the request.
 
 (k) *Aggregating requests.* When the NEH reasonably believes that a requester or a group of requesters acting together is attempting to divide a request into a series of requests for the purpose of avoiding fees, the NEH may aggregate those requests and charge accordingly. The NEH may presume that multiple requests of this type made within a 30-day period have been made in order to avoid fees. For requests separated by a longer period, the NEH will aggregate them only when there is a reasonable basis for determining that aggregation is warranted in view of all the circumstances involved. The NEH will not aggregate multiple requests involving unrelated matters.
+
+[79 FR 9415, Feb. 19, 2014, as amended at 82 FR 46, Jan. 3, 2017]

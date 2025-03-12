@@ -1,5 +1,7 @@
 ##### § 201.6 Payment and refund of Copyright Office fees. #####
 
+Link to an amendment published at 82 FR 9356, February 6, 2017.
+
 (a) *In general.* All fees sent to the Copyright Office should be in the form of a money order, check or bank draft payable to the Register of Copyrights. Coin or currency sent to the Office in letters or packages will be at the remitter's risk. Remittances from foreign countries should be in the form of an International Money Order or Bank Draft payable and immediately negotiable in the United States for the full amount of the fee required. Uncertified checks are accepted subject to collection. Where the statutory fee is submitted in the form of a check, the registration of the copyright claim or other record made by the Office is provisional until payment in money is received. In the event the fee is not paid, the registration or other record shall be expunged.
 
 (b) *Deposit accounts.* (1) Persons or firms having 12 or more transactions a year with the Copyright Office may prepay copyright expenses by establishing a Deposit Account. The Office and the Deposit Account holder will cooperatively determine an appropriate minimum balance for the Deposit Account which, in no case, can be less than $450, and the Office will automatically notify the Deposit Account holder when the account goes below that balance.

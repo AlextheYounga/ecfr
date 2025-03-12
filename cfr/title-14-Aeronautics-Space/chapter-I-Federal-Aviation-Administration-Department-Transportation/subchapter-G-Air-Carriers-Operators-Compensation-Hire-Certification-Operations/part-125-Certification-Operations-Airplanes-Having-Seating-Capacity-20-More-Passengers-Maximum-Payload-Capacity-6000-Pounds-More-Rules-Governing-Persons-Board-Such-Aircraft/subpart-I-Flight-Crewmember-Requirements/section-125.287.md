@@ -1,6 +1,6 @@
 ##### § 125.287 Initial and recurrent pilot testing requirements. #####
 
-Link to an amendment published at 81 FR 90176, Dec. 13, 2016.
+Link to an amendment published at 81 FR 90176, Dec. 13, 2016.This amendment was delayed until Mar. 21, 2017 at 82 FR 9677, Feb. 8, 2017.
 
 (a) No certificate holder may use any person, nor may any person serve as a pilot, unless, since the beginning of the 12th calendar month before that service, that person has passed a written or oral test, given by the Administrator or an authorized check airman on that person's knowledge in the following areas -
 

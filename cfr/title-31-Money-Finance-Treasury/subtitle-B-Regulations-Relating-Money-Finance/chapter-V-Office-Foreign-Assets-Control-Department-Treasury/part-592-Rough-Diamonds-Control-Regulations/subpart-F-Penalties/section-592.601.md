@@ -6,7 +6,7 @@
 
 Note to paragraph (a)(1):
 
-As of August 1, 2016, the applicable maximum civil penalty per violation of the Act is $12,856.
+As of January 15, 2017, the applicable maximum civil penalty per violation of the Act is $13,066.
 
 (2) Whoever willfully violates, or willfully attempts to violate, any order or regulation issued under this Act shall, upon conviction, be fined not more than $50,000, or, if a natural person, may be imprisoned for not more than 10 years, or both; and any officer, director, or agent of any corporation who willfully participates in such violation may be punished by a like fine, imprisonment, or both; and
 
@@ -24,4 +24,4 @@ As reflected in paragraphs (a)(1) and (2) of this section, section 8(a) of the C
 
 (d) Violations of this part may also be subject to relevant provisions of other applicable laws.
 
-[69 FR 56938, Sept. 23, 2004, as amended at 81 FR 43076, July 1, 2016]
+[69 FR 56938, Sept. 23, 2004, as amended at 81 FR 43076, July 1, 2016; 82 FR 10439, Feb. 10, 2017]

@@ -1,5 +1,7 @@
 ##### § 201.22 Advance notices of potential infringement of works consisting of sounds, images, or both. #####
 
+Link to an amendment published at 82 FR 9357, February 6, 2017.
+
 (a) *Definitions.* (1) An *Advance Notice of Potential Infringement* is a notice which, if served in accordance with section 411(b) of title 17 of the United States Code, and in accordance with the provisions of this section, enables a copyright owner to institute an action for copyright infringement either before or after the first fixation of a work consisting of sounds, images, or both that is first fixed simultaneously with its transmission, and to enjoy the full remedies of said title 17 for copyright infringement, provided registration for the work is made within three months after its first transmission.
 
 (2) For purposes of this section, the *copyright owner* of a work consisting of sounds, images, or both, the first fixation of which is made simultaneously with its transmission, is the person or entity that will be considered the author of the work upon its fixation (including, in the case of a work made for hire, the employer or other person or entity for whom the work was prepared), or a person or organization that has obtained ownership of an exclusive right, initially owned by the person or entity that will be considered the author of the work upon its fixation.

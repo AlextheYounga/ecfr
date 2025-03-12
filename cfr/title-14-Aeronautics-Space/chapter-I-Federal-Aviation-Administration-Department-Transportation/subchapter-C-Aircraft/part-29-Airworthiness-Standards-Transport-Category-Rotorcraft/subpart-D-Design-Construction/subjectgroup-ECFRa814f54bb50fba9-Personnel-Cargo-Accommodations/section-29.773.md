@@ -1,6 +1,6 @@
 ##### § 29.773 Pilot compartment view. #####
 
-Link to an amendment published at 81 FR 90170, December 13, 2016.
+Link to an amendment published at 81 FR 90170, Dec. 13, 2016.Link to an extension of the above amendment published at 82 FR 9677, Feb. 8, 2017.
 
 (a) *Nonprecipitation conditions.* For nonprecipitation conditions, the following apply:
 

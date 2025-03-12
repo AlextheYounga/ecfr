@@ -1,5 +1,7 @@
 ##### § 211.4 Registration of claims of protection in mask works. #####
 
+Link to an amendment published at 82 FR 9365, February 6, 2017.
+
 (a) *General.* This section prescribes conditions for the registration of claims of protection in mask works pursuant to section 908 of title 17 U.S.C.
 
 (b) *Application for registration.* (1) For purposes of registration of mask work claims, the Register of Copyrights has designated “Form MW” to be used for all applications submitted on and after January 7, 1985. Copies of the form are available free upon request to the Copyright Information Office, U.S. Copyright Office, Library of Congress, Washington, DC 20559. Applications submitted before January 7, 1985 will be dated January 7, 1985.

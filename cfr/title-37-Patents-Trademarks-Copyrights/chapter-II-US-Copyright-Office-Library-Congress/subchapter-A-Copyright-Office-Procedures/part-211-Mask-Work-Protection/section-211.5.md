@@ -1,5 +1,7 @@
 ##### § 211.5 Deposit of identifying material. #####
 
+Link to an amendment published at 82 FR 9365, February 6, 2017.
+
 (a) *General.* This section prescribes rules pertaining to the deposit of identifying material for registration of a claim of protection in a mask work under section 908 of title 17 U.S.C.
 
 (b) *Nature of required deposit.* Subject to the provisions of paragraph (c) of this section, the deposit of identifying material to accompany an application for registration of a mask work claim under § 211.4 of these regulations shall consist of:

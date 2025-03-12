@@ -1,4 +1,6 @@
-##### § 202.17 Renewals #####
+##### § 202.17 Renewals. #####
+
+Link to an amendment published at 82 FR 9360, February 6, 2017.
 
 (a) *General.* (1) This section concerns renewal for copyrights originally secured from January 1, 1964, through December 31, 1977, either by publication with the required copyright notice or by registration as an unpublished work. Renewal registration for these works is optional. As provided in Pub. L. No. 102-307, 106 Stat. 264, enacted June 26, 1992, renewal registration made during the last year of the original 28-year term of copyright differs in legal effect from renewal registration made during the 67-year extended renewal term. In the latter instance, the copyright is renewed automatically at the expiration of the original 28-year term. In the former instance, renewal by registration during the last year of the original 28-year term vested the renewal copyright in the statutory claimant living on the date of registration.
 

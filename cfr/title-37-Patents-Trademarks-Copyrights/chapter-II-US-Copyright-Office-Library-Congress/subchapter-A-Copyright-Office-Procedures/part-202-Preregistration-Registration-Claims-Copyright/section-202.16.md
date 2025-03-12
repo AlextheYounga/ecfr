@@ -1,5 +1,7 @@
 ##### § 202.16 Preregistration of copyrights. #####
 
+Link to an amendment published at 82 FR 9360, February 6, 2017.
+
 (a) *General.* This section prescribes rules pertaining to the preregistration of copyright claims in works eligible for preregistration under Section 408(f) of 17 U.S.C.
 
 (b) *Definitions.* For the purposes of this section -

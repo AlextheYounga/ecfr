@@ -1,5 +1,7 @@
 ##### § 201.26 Recordation of documents pertaining to computer shareware and donation of public domain computer software. #####
 
+Link to an amendment published at 82 FR 9358, February 6, 2017.
+
 (a) *General.* This section prescribes the procedures for submission of legal documents pertaining to computer shareware and the deposit of public domain computer software under section 805 of Public Law 101-650, 104 Stat. 5089 (1990). Documents recorded in the Copyright Office under this regulation will be included in the Computer Shareware Registry. Recordation in this Registry will establish a public record of licenses or other legal documents governing the relationship between copyright owners of computer shareware and persons associated with the dissemination or other use of computer shareware. Documents transferring the ownership of some or all rights under the copyright law of computer shareware and security interests in such software should be recorded under 17 U.S.C. 205, as implemented by § 201.4.
 
 (b) *Definitions* - (1) The term *computer shareware* is accorded its customary meaning within the software industry. In general, shareware is copyrighted software which is distributed for the purposes of testing and review, subject to the condition that payment to the copyright owner is required after a person who has secured a copy decides to use the software.

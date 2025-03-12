@@ -12,4 +12,4 @@
 
 (c) Nothing in this section may be construed as requiring the publication of information otherwise exempt under the Freedom of Information Act (5 U.S.C. 552), or controlled unclassified information pursuant to Executive Order 13556.
 
-[81 FR 35584, June 3, 2016][81 FR 35584, June 3, 2016]
+[81 FR 35584, June 3, 2016]

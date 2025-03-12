@@ -1,6 +1,6 @@
 ##### § 26.331 Alternate methods or procedures. #####
 
-(a) *Application.* A person bringing liquors into the United States from Puerto Rico or the Virgin Islands who desires to use an alternate method or procedure in lieu of a method or procedure prescribed by this part shall file application, with the appropriate TTB officer. If such person has several places of business at which he desires to use such alternate method or procedure, a separate application shall be submitted for each. Each application shall:
+(a) *Application.* A person bringing liquors into the United States from Puerto Rico or the Virgin Islands who desires to use an alternate method or procedure in lieu of a method or procedure prescribed by this part shall file application with the appropriate TTB officer. If such person has several places of business at which he desires to use such alternate method or procedure, a separate application shall be submitted for each. Each application shall:
 
 (1) Specify the name, address, and permit number of the person to which it relates;
 

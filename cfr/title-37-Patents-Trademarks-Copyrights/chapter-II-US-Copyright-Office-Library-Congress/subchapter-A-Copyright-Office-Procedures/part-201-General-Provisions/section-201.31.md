@@ -1,5 +1,7 @@
 ##### § 201.31 Procedures for copyright restoration in the United States for certain motion pictures and their contents in accordance with the North American Free Trade Agreement. #####
 
+Link to an amendment published at 82 FR 9358, February 6, 2017.
+
 (a) *General.* This section prescribes the procedures for submission of Statements of Intent pertaining to the restoration of copyright protection in the United States for certain motion pictures and works embodied therein as required by the North American Free Trade Agreement Implementation Act (NAFTA) of December 8, 1993, Public Law No. 103-182. On or after January 3, 1995, the Copyright Office will publish in the Federal Register a list of works for which potential copyright owners have filed a complete and timely Statement of Intent with the Copyright Office.
 
 (b) *Definitions.* For purposes of this section, the following definitions apply:

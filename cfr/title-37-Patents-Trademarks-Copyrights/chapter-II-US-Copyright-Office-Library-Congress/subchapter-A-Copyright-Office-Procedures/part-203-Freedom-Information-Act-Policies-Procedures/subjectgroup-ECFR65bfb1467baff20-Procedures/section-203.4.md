@@ -1,5 +1,7 @@
 ##### § 203.4 Methods of operation. #####
 
+Link to an amendment published at 82 FR 9363, February 6, 2017.Link to an amendment published at 82 FR 9506, February 7, 2017.
+
 (a) In accordance with section 552(a)(2) of the Freedom of Information Act, the Copyright Office makes available for public inspection and copying records of copyright registrations and of final refusals to register claims to copyright; statements of policy and interpretations which have been adopted but are not published in the Federal Register; and administrative staff manuals and instructions to the staff that affect a member of the public.
 
 (b) The Copyright Office also maintains and makes available for public inspection and copying current indexes providing identifying information as to matters issued, adopted, or promulgated after July 4, 1967, that are within the scope of 5 U.S.C. 552(a)(2). The Copyright Office has determined that publication of these indexes is unnecessary and impractical. Copies of the indexes will be provided to any member of the public upon request at the cost of reproduction.

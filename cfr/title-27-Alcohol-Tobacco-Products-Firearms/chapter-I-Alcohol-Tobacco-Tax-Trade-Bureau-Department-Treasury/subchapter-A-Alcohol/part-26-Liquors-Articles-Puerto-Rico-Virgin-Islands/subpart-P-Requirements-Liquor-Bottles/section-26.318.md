@@ -2,4 +2,6 @@
 
 (a) *General.* Except as provided in paragraph (b) of this section, filled liquor bottles that do not conform to the provisions of this subpart may not be brought into the United States from Puerto Rico or the Virgin Islands.
 
-[T.D. TTB-145, 81 FR 94204, Dec. 22, 2016]
+(b) *Exception.* Upon receipt of a letterhead application, the appropriate TTB officer may, in nonrecurring cases, authorize a person to bring into the United States liquor bottles that do not conform to the provisions of this part if that TTB officer determines that the nonconformance is due to an unintentional error; the nonconforming liquor bottle is determined not to be deceptive, as provided in § 26.316; and the entry of the nonconforming liquor bottle will not jeopardize the revenue. The person bringing such liquor bottles into the United States under such TTB authorization must maintain for not less than three years from the date that the liquor bottles were released from customs custody proof of that authorization and make it available upon request by the appropriate TTB officer or a customs officer.
+
+(Approved by the Office of Management and Budget under control number 1513-0064)[T.D. TTB-145, 81 FR 94204, Dec. 22, 2016]

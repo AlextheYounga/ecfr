@@ -1,5 +1,7 @@
 ##### § 201.38 Designation of agent to receive notification of claimed infringement. #####
 
+Link to an amendment published at 82 FR 9359, February 6, 2017.
+
 (a) *General.* This section prescribes the rules pursuant to which service providers may designate agents to receive notifications of claimed infringement pursuant to section 512 of title 17 of the United States Code. Any service provider seeking to comply with section 512(c)(2) of the statute must:
 
 (1) Designate an agent by making available through its service, including on its Web site in a location accessible to the public, and by providing to the Copyright Office, the service provider and designated agent information required by paragraph (b) of this section;

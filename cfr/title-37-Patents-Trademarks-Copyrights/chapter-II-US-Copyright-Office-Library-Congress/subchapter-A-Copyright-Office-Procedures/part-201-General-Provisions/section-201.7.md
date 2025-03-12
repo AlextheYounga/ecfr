@@ -1,5 +1,7 @@
 ##### § 201.7 Cancellation of completed registrations. #####
 
+Link to an amendment published at 82 FR 9356, February 6, 2017.
+
 (a) *Definition.* Cancellation is an action taken by the Copyright Office whereby either the registration is eliminated on the ground that the registration is invalid under the applicable law and regulations, or the registration number is eliminated and a new registration is made under a different class and number.
 
 (b) *General policy.* The Copyright Office will cancel a completed registration only in those cases where:

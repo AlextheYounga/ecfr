@@ -1,5 +1,7 @@
 ##### § 203.3 Organization. #####
 
+Link to an amendment published at 82 FR 9362, February 6, 2017.Link to an amendment published at 82 FR 9506, February 7, 2017.
+
 (a) *In general.* The Office of the Register exercises overall direction of the work of the Copyright Office, including work in conjunction with copyright legislation, litigation and promulgation of copyright regulations. The Office of the Register of Copyrights includes the legal, administrative, and automation staff.
 
 (b) The Copyright Office Chief of Operations has oversight of the operating divisions of the Copyright Office. The operating divisions are:

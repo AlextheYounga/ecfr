@@ -1,5 +1,7 @@
 ##### § 201.34 Procedures for filing Correction Notices of Intent to Enforce a Copyright Restored under the Uruguay Round Agreements Act. #####
 
+Link to an amendment published at 82 FR 9359, February 6, 2017.
+
 (a) *General.* This section prescribes the procedures for submission of corrections of Notices of Intent to Enforce a Copyright (NIEs) Restored under the Uruguay Round Agreements Act of December 8, 1994, as required by 17 U.S.C. 104A(e), as amended by Pub. L. 103-465, 108 Stat. 4809, 4976 (1994).
 
 (b) *Definitions.* For purposes of this section, the following definitions apply.

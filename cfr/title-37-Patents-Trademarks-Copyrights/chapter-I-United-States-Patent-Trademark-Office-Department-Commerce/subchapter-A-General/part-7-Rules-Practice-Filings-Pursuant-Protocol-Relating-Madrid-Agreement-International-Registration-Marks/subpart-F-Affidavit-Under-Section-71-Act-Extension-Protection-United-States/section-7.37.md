@@ -1,6 +1,6 @@
 ##### § 7.37 Requirements for a complete affidavit or declaration of use in commerce or excusable nonuse. #####
 
-Link to an amendment published at 82 FR 6265, January 19, 2017.
+Link to an amendment published at 82 FR 6265, January 19, 2017.Link to an extension of the above amendment published at 82 FR 10273, February 10, 2017.
 
 A complete affidavit or declaration under section 71 of the Act must:
 

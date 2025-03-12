@@ -1,5 +1,7 @@
 ##### § 201.13 Notices of objection to certain noncommercial performances of nondramatic literary or musical works. #####
 
+Link to an amendment published at 82 FR 9357, February 6, 2017.
+
 (a) *Definitions.* (1) A *Notice of Objection* is a notice, as required by section 110(4) of title 17 of the United States Code as amended by Pub. L. 94-553, to be served as a condition of preventing the noncommercial performance of a nondramatic literary or musical work under certain circumstances.
 
 (2) For purposes of this section, the *copyright owner* of a nondramatic literary or musical work is the author of the work (including, in the case of a work made for hire, the employer or other person for whom the work was prepared), or a person or organization that has obtained ownership of the exclusive right, initially owned by the author of performance of the type referred to in 17 U.S.C. 110(4). If the other requirements of this section are met, a Notice of Objection may cover the works of more than one copyright owner.
