@@ -1,7 +1,5 @@
 ##### § 20.18 911 Service. #####
 
-Link to an amendment published at 83 FR 44843, Sept. 4, 2018.
-
 (a) *Scope of section.* Except as described in paragraph (r) of this section, the following requirements are only applicable to CMRS providers, excluding mobile satellite service (MSS) operators, to the extent that they:
 
 (1) Offer real-time, two way switched voice service that is interconnected with the public switched network; and
@@ -272,7 +270,7 @@ With respect to 911 calls accessing their systems through the use of TTYs, licen
 
 (vi) To be eligible to make a certification, the wireless carrier must have completed all necessary steps toward E911 implementation that are not dependent on PSAP readiness.
 
-(vii) A copy of the certification must be served on the PSAP in accordance with § 1.47 of this chapter. The PSAP may challenge in writing the accuracy of the carrier's certification and shall serve a copy of such challenge on the carrier. *See* §§ 1.45 and 1.47 and §§ 1.720 through 1.736 of this chapter.
+(vii) A copy of the certification must be served on the PSAP in accordance with § 1.47 of this chapter. The PSAP may challenge in writing the accuracy of the carrier's certification and shall serve a copy of such challenge on the carrier. *See* §§ 1.45 and 1.47 and §§ 1.720 through 1.740 of this chapter.
 
 (viii) If a wireless carrier's certification is facially inadequate, the six-month implementation period specified in paragraphs (d), (f) and (g) of this section will not be suspended as provided for in paragraph (j)(4) of this section.
 
@@ -364,4 +362,4 @@ With respect to 911 calls accessing their systems through the use of TTYs, licen
 
 (r) *Contraband Interdiction System (CIS) requirement.* CIS providers regulated as private mobile radio service (*see* § 20.3) must transmit all wireless 911 calls without respect to their call validation process to a Public Safety Answering Point, or, where no Public Safety Answering Point has been designated, to a designated statewide default answering point or appropriate local emergency authority pursuant to § 64.3001 of this chapter, provided that “all wireless 911 calls” is defined as “any call initiated by a wireless user dialing 911 on a phone using a compliant radio frequency protocol of the serving carrier.” This requirement shall not apply if the Public Safety Answering Point or emergency authority informs the CIS provider that it does not wish to receive 911 calls from the CIS provider.
 
-[63 FR 2637, Jan. 16, 1998]Editorial Note:For Federal Register citations affecting § 20.18, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Notes:1. At 68 FR 2918, Jan. 22, 2003, § 20.18(j) was revised. Paragraphs (j)(4) and (5) contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[63 FR 2637, Jan. 16, 1998]Editorial Note:For Federal Register citations affecting § 20.18, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 68 FR 2918, Jan. 22, 2003, § 20.18(j) was revised. Paragraphs (j)(4) and (5) contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

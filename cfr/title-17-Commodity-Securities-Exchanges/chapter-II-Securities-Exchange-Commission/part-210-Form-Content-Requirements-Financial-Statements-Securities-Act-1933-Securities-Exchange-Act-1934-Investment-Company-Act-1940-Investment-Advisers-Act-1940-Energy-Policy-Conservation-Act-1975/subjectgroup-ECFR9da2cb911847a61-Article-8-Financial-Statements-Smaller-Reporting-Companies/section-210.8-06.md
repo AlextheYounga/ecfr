@@ -1,5 +1,7 @@
 ##### § 210.8-06 Real estate operations acquired or to be acquired. #####
 
+Link to an amendment published at 83 FR 50204, Oct. 4, 2018.
+
 If, during the period for which income statements are required, the smaller reporting company has acquired one or more properties that in the aggregate are significant, or since the date of the latest balance sheet required by § 210.8-02 or § 210.8-03, has acquired or proposes to acquire one or more properties that in the aggregate are significant, the following shall be furnished with respect to such properties:
 
 (a) Audited income statements (not including earnings per unit) for the two most recent years, which shall exclude items not comparable to the proposed future operations of the property such as mortgage interest, leasehold rental, depreciation, corporate expenses and federal and state income taxes; *Provided, however,* that such audited statements need be presented for only the most recent fiscal year if:

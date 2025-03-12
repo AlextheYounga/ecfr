@@ -1,5 +1,7 @@
 ##### § 210.6A-04 Statements of income and changes in plan equity. #####
 
+Link to an amendment published at 83 FR 50203, Oct. 4, 2018.
+
 Statements of income and changes in plan equity filed under this rule shall comply with the following provisions:
 
 1. *Net investment income.*

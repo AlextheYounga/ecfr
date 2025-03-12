@@ -1,5 +1,7 @@
 ##### § 210.7-04 Income statements. #####
 
+Link to an amendment published at 83 FR 50203, Oct. 4, 2018.
+
 The purpose of this rule is to indicate the various items which, if applicable, should appear on the face of the income statements and in the notes thereto filed for persons to whom this article pertains. (See § 210.4-01(a).)
 
 Revenues

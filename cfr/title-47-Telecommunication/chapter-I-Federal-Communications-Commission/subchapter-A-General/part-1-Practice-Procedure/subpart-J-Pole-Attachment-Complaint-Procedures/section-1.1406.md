@@ -1,13 +1,35 @@
-##### § 1.1406 Dismissal of complaints. #####
+##### § 1.1406 Commission consideration of the complaint. #####
 
-Link to an amendment published at 83 FR 44838, September 4, 2018.Link to an amendment published at 83 FR 44839, September 4, 2018.
+(a) The complainant shall have the burden of establishing a *prima facie* case that the rate, term, or condition is not just and reasonable or that the denial of access violates 47 U.S.C. 224(f). If, however, a utility argues that the proposed rate is lower than its incremental costs, the utility has the burden of establishing that such rate is below the statutory minimum just and reasonable rate. In a case involving a denial of access, the utility shall have the burden of proving that the denial was lawful, once a *prima facie* case is established by the complainant.
 
-(a) The complaint shall be dismissed for lack of jurisdiction in any case where a suitable certificate has been filed by a State pursuant to § 1.1414 of this subpart. Such certificate shall be conclusive proof of lack of jurisdiction of this Commission. A complaint against a utility shall also be dismissed if the utility does not use or control poles, ducts, or conduits used or designated, in whole or in part, for wire communication or if the utility does not meet the criteria of § 1.1402(a) of this subpart.
+(b) The Commission shall determine whether the rate, term or condition complained of is just and reasonable. For the purposes of this paragraph, a rate is just and reasonable if it assures a utility the recovery of not less than the additional costs of providing pole attachments, nor more than an amount determined by multiplying the percentage of the total usable space, or the percentage of the total duct or conduit capacity, which is occupied by the pole attachment by the sum of the operating expenses and actual capital costs of the utility attributable to the entire pole, duct, conduit, or right-of-way. The Commission shall exclude from actual capital costs those reimbursements received by the utility from cable operators and telecommunications carriers for non-recurring costs.
 
-(b) If the complaint does not contain substantially all the information required under § 1.1404 the Commission may dismiss the complaint or may require the complainant to file additional information. The complaint shall not be dismissed if the information is not available from public records or from the respondent utility after reasonable request.
+(c) The Commission shall deny the complaint if it determines that the complainant has not established a *prima facie* case, or that the rate, term or condition is just and reasonable, or that the denial of access was lawful.
 
-(c) Failure by the complainant to respond to official correspondence or a request for additional information will be cause for dismissal.
+(d) The Commission will apply the following formulas for determining a maximum just and reasonable rate:
 
-(d) Dismissal under provisions of paragraph (b) of this section above will be with prejudice if the complaint has been dismissed previously. Such a complaint may be refiled no earlier than six months from the date it was so dismissed.
+(1) The following formula shall apply to attachments to poles by cable operators providing cable services. This formula shall also apply to attachments to poles by any telecommunications carrier (to the extent such carrier is not a party to a pole attachment agreement) or cable operator providing telecommunications services until February 8, 2001:
 
-[43 FR 36094, Aug. 15, 1978, as amended at 44 FR 31650, June 1, 1979]
+![](/graphics/er04se18.000.gif)
+
+(2) With respect to attachments to poles by any telecommunications carrier or cable operator providing telecommunications services, the maximum just and reasonable rate shall be the higher of the rate yielded by paragraphs (d)(2)(i) or (d)(2)(ii) of this section.
+
+(i) The following formula applies to the extent that it yields a rate higher than that yielded by the applicable formula in paragraph (d)(2)(ii) of this section:
+
+Rate = Space Factor × CostWhere Costin Service Areas where the number of Attaching Entities is 5 = 0.66 × (Net Cost of a Bare Pole × Carrying Charge Rate)in Service Areas where the number of Attaching Entities is 4 = 0.56 × (Net Cost of a Bare Pole × Carrying Charge Rate)in Service Areas where the number of Attaching Entities is 3 = 0.44 × (Net Cost of a Bare Pole × Carrying Charge Rate)in Service Areas where the number of Attaching Entities is 2 = 0.31 × (Net Cost of a Bare Pole × Carrying Charge Rate)in Service Areas where the number of Attaching Entities is not a whole number = N × (Net Cost of a Bare Pole × Carrying Charge Rate), where N is interpolated from the cost allocator associated with the nearest whole numbers above and below the number of Attaching Entities.![](/graphics/er04se18.001.gif)
+
+(ii) The following formula applies to the extent that it yields a rate higher than that yielded by the applicable formula in paragraph (d)(2)(i) of this section:
+
+![](/graphics/er04se18.002.gif)
+
+(3) The following formula shall apply to attachments to conduit by cable operators and telecommunications carriers:
+
+![](/graphics/er04se18.003.gif)
+
+simplified as:
+
+![](/graphics/er04se18.004.gif)
+
+(4) If no inner-duct is installed the fraction, “1 Duct divided by the No. of Inner-Ducts” is presumed to be1/2.
+
+[83 FR 44840, Sept. 4, 2018]

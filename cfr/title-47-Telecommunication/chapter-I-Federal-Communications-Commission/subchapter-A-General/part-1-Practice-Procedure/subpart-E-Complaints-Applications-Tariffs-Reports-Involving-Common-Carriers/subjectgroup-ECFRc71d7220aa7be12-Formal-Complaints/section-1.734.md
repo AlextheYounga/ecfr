@@ -1,11 +1,23 @@
-##### § 1.734 Specifications as to pleadings, briefs, and other documents; subscription. #####
+##### § 1.734 Fee remittance; electronic filing; copies; service; separate filings against multiple defendants. #####
 
-Link to an amendment published at 83 FR 44832, September 4, 2018.
+(a) Complaints may not be brought against multiple defendants unless they are commonly owned or controlled, are alleged to have acted in concert, are alleged to be jointly liable to complainant, or the complaint concerns common questions of law or fact. Complaints may, however, be consolidated by the Commission for disposition.
 
-(a) All papers filed in any formal complaint proceeding must be drawn in conformity with the requirements of §§ 1.49 and 1.50.
+(b) The complainant shall remit separately the correct fee either by check, wire transfer, or electronically, in accordance with part 1, subpart G (see § 1.1106) and, shall file an original copy of the complaint, using the Commission's Electronic Comment Filing System. If a complaint is addressed against multiple defendants, the complainant shall pay a separate fee for each additional defendant.
 
-(b) All averments of claims or defenses in complaints and answers shall be made in numbered paragraphs. The contents of each paragraph shall be limited as far as practicable to a statement of a single set of circumstances. Each claim founded on a separate transaction or occurrence and each affirmative defense shall be separately stated to facilitate the clear presentation of the matters set forth.
+(c) The complainant shall serve the complaint by hand delivery on either the named defendant or one of the named defendant's registered agents for service of process on the same date that the complaint is filed with the Commission in accordance with the requirements of paragraph (b) of this section.
 
-(c) The original of all pleadings and other submissions filed by any party shall be signed by the party, or by the party's attorney. The signing party shall include in the document his or her address, telephone number, email address, and the date on which the document was signed. Copies should be conformed to the original. Unless specifically required by rule or statute, pleadings need not be verified. The signature of an attorney or party, in accordance with the requirements of § 1.52, shall be a certificate that the attorney or party has read the pleading, motion, or other paper; that to the best of his or her knowledge, information, and belief formed after reasonable inquiry, it is well grounded in fact and is warranted by existing law or a good faith argument for the extension, modification, or reversal of existing law; and that it is not interposed solely for purposes of delay or for any other improper purpose.
+(d) Upon receipt of the complaint by the Commission, the Commission shall promptly send, by email, to each defendant named in the complaint, notice of the filing of the complaint. The Commission shall additionally send by email, to all parties, a schedule detailing the date the answer and any other applicable pleading will be due and the date, time, and location of the initial status conference.
 
-[53 FR 11855, Apr. 11, 1988. Redesignated at 58 FR 25573, Apr. 27, 1993, as amended at 63 FR 1040, Jan. 7, 1998; 79 FR 73846, Dec. 12, 2014]
+(e) Parties shall provide hard copies of all submissions to staff in the Enforcement Bureau upon request.
+
+(f) All subsequent pleadings and briefs filed in any formal complaint proceeding, as well as all letters, documents, or other written submissions, shall be filed using the Commission's Electronic Comment Filing System, excluding confidential material as set forth in § 1.731. In addition, all pleadings and briefs filed in any formal complaint proceeding, as well as all letters, documents, or other written submissions, shall be served by the filing party on the attorney of record for each party to the proceeding, or, where a party is not represented by an attorney, each party to the proceeding either by hand delivery, overnight delivery, or email, together with a proof of such service in accordance with the requirements of § 1.47(g). Service is deemed effective as follows:
+
+(1) Service by hand delivery that is delivered to the office of the recipient by 5:30 p.m., local time of the recipient, on a business day will be deemed served that day. Service by hand delivery that is delivered to the office of the recipient after 5:30 p.m., local time of the recipient, on a business day will be deemed served on the following business day;
+
+(2) Service by overnight delivery will be deemed served the business day following the day it is accepted for overnight delivery by a reputable overnight delivery service; or
+
+(3) Service by email that is fully transmitted to the office of the recipient by 5:30 p.m., local time of the recipient, on a business day will be deemed served that day. Service by email that is fully transmitted to the office of the recipient after 5:30 p.m., local time of the recipient, on a business day will be deemed served on the following business day.
+
+(g) Supplemental complaints filed pursuant to § 1.723 shall conform to the requirements set forth in this section, except that the complainant need not submit a filing fee.
+
+[83 FR 44832, Sept. 4, 2018]

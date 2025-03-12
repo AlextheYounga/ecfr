@@ -1,5 +1,7 @@
 ##### § 210.3-03 Instructions to income statement requirements. #####
 
+Link to an amendment published at 83 FR 50198, Oct. 4, 2018.
+
 (a) The statements required shall be prepared in compliance with the applicable requirements of this regulation.
 
 (b) If the registrant is engaged primarily (1) in the generation, transmission or distribution of electricity, the manufacture, mixing, transmission or distribution of gas, the supplying or distribution of water, or the furnishing of telephone or telegraph service; or (2) in holding securities of companies engaged in such businesses, it may at its option include statements of income and cash flows (which may be unaudited) for the twelve-month period ending on the date of the most recent balance sheet being filed, in lieu of the statements of income and cash flows for the interim periods specified.

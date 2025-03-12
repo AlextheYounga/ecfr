@@ -1,5 +1,7 @@
 ##### § 229.201 (Item 201) Market price of and dividends on the registrant's common equity and related stockholder matters. #####
 
+Link to an amendment published at 83 FR 50209, Oct. 4, 2018.
+
 (a) *Market information.* (1)(i) Identify the principal United States market or markets in which each class of the registrant's common equity is being traded. Where there is no established public trading market for a class of common equity, furnish a statement to that effect. For purposes of this Item the existence of limited or sporadic quotations should not of itself be deemed to constitute an “established public trading market.” In the case of foreign registrants, also identify the principal established foreign public trading market, if any, for each class of the registrant's common equity.
 
 (ii) If the principal United States market for such common equity is an exchange, state the high and low sales prices for the equity for each full quarterly period within the two most recent fiscal years and any subsequent interim period for which financial statements are included, or are required to be included by Article 3-01 through 3-04 of Regulation S-X (§ 210.3-01 through 3-04 of this chapter), or Article 8-02 through 8-03 of Regulation S-X (§ 210.8-02 through 8-03 of this chapter) in the case of smaller reporting companies, as reported in the consolidated transaction reporting system or, if not so reported, as reported on the principal exchange market for such equity.

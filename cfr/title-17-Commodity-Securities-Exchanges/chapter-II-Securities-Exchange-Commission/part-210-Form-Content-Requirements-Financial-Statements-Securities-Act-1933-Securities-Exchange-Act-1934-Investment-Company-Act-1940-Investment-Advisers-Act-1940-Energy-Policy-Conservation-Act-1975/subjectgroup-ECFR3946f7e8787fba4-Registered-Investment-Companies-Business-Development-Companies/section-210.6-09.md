@@ -1,5 +1,7 @@
 ##### § 210.6-09 Statements of changes in net assets. #####
 
+Link to an amendment published at 83 FR 50202, Oct. 4, 2018.
+
 Statements of changes in net assets filed for persons to whom this article is applicable shall comply with the following provisions:
 
 Statements of Changes in Net Assets

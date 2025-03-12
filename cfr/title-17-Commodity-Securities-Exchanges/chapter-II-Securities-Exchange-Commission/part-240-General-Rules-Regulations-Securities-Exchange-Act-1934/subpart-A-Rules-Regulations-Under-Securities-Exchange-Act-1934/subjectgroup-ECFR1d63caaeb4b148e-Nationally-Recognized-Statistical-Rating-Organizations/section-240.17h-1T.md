@@ -1,5 +1,7 @@
 ##### § 240.17h-1T Risk assessment recordkeeping requirements for associated persons of brokers and dealers. #####
 
+Link to an amendment published at 83 FR 50223, Oct. 4, 2018.
+
 (a) *Requirement to maintain and preserve information.* (1) Every broker or dealer registered with the Commission pursuant to section 15 of the Act, and every municipal securities dealer registered pursuant to Section 15B of the Act for which the Commission is the appropriate regulatory agency, unless exempt pursuant to paragraph (d) of this section, shall maintain and preserve the following information:
 
 (i) An organizational chart which includes the broker or dealer and all its associated persons. Included in the organizational chart shall be a designation of which associated persons are Material Associated Persons as that term is used in paragraph (a)(2) of this section;

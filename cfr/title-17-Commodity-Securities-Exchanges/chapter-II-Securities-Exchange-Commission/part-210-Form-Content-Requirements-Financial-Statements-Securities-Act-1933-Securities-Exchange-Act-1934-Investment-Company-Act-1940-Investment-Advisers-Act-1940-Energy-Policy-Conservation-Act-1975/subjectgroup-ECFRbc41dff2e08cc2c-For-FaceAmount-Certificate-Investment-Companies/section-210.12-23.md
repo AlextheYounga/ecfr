@@ -1,5 +1,7 @@
 ##### § 210.12-23 Mortgage loans on real estate and interest earned on mortgages.1 #####
 
+Link to an amendment published at 83 FR 50208, Oct. 4, 2018.
+
 |    Part 1 - Mortgage loans on real estate at close of period    |     Part 2 - Interest earned on mortgages      |                                                          |                                                        |                                              |                                                                |                                                                  |
 |-----------------------------------------------------------------|------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------|----------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------|
 |Column A - List by classification indicated below<sup>2 3 7</sup>|       Column B - Prior liens<sup>2</sup>       |Column C - Carrying amount of mortgage<sup>8 9 10 11</sup>|Column D - Amount of principal unpaid at close of period|Column E - Amount of mortgage being foreclosed|Column F - Interest due and accrued at end of period<sup>6</sup>|Column G - Interest income earned applicable to period<sup>5</sup>|

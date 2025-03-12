@@ -1,5 +1,7 @@
 ##### § 210.4-10 Financial accounting and reporting for oil and gas producing activities pursuant to the Federal securities laws and the Energy Policy and Conservation Act of 1975. #####
 
+Link to an amendment published at 83 FR 50201, Oct. 4, 2018.
+
 This section prescribes financial accounting and reporting standards for registrants with the Commission engaged in oil and gas producing activities in filings under the Federal securities laws and for the preparation of accounts by persons engaged, in whole or in part, in the production of crude oil or natural gas in the United States, pursuant to section 503 of the Energy Policy and Conservation Act of 1975 (42 U.S.C. 6383) (*EPCA*) and section 11(c) of the Energy Supply and Environmental Coordination Act of 1974 (15 U.S.C. 796) (*ESECA*), as amended by section 505 of EPCA. The application of this section to those oil and gas producing operations of companies regulated for ratemaking purposes on an individual-company-cost-of-service basis may, however, give appropriate recognition to differences arising because of the effect of the ratemaking process.
 
 *Exemption.* Any person exempted by the Department of Energy from any record-keeping or reporting requirements pursuant to section 11(c) of ESECA, as amended, is similarly exempted from the related provisions of this section in the preparation of accounts pursuant to EPCA. This exemption does not affect the applicability of this section to filings pursuant to the Federal securities laws.Definitions

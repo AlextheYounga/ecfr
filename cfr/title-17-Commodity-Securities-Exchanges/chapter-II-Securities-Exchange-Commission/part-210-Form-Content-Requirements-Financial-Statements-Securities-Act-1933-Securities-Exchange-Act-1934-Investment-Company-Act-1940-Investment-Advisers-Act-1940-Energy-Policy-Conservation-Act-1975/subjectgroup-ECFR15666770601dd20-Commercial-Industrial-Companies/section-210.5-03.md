@@ -1,5 +1,7 @@
 ##### § 210.5-03 Income statements. #####
 
+Link to an amendment published at 83 FR 50202, Oct. 4, 2018.
+
 (a) The purpose of this rule is to indicate the various line items which, if applicable, and except as otherwise permitted by the Commission, should appear on the face of the income statements filed for the persons to whom this article pertains (see § 210.4-01(a)).
 
 (b) If income is derived from more than one of the subcaptions described under § 210.5-03.1, each class which is not more than 10 percent of the sum of the items may be combined with another class. If these items are combined, related costs and expenses as described under § 210.5-03.2 shall be combined in the same manner.

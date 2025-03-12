@@ -1,5 +1,7 @@
 ##### § 210.12-22 Investments in and advances to affiliates and income thereon. #####
 
+Link to an amendment published at 83 FR 50208, Oct. 4, 2018.
+
 |Column A - Name of issuer and title of issue or amount of indebtedness<sup>1</sup>|Column B - Balance held at close of period - Number of shares - principal amount of bonds, notes and other indebtedness<sup>2</sup>|Column C - Cost of each item<sup>3 4</sup>|Column D - Amount at which carried at close of period<sup>4 5</sup>|Column E - Amount of dividends or interest<sup>4 6</sup>|Column F - Amount of equity in net profit and loss for the period<sup>7</sup>|   |
 |----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------|---|
 |                             (1) - Credited to income                             |                                                            (2) - Other                                                            |                                          |                                                                   |                                                        |                                                                             |   |

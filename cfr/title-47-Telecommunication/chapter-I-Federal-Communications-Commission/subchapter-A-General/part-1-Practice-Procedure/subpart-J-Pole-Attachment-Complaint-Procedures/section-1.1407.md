@@ -1,13 +1,13 @@
-##### § 1.1407 Response and reply. #####
+##### § 1.1407 Remedies. #####
 
-Link to an amendment published at 83 FR 44838, September 4, 2018.Link to an amendment published at 83 FR 44839, September 4, 2018.
+(a) If the Commission determines that the rate, term, or condition complained of is not just and reasonable, it may prescribe a just and reasonable rate, term, or condition and may:
 
-(a) Respondent shall have 30 days from the date the complaint was filed within which to file a response. Complainant shall have 20 days from the date the response was filed within which to file a reply. Extensions of time to file are not contemplated unless justification is shown pursuant to § 1.46. Except as otherwise provided in § 1.1403, no other filings and no motions other than for extension of time will be considered unless authorized by the Commission. The response should set forth justification for the rate, term, or condition alleged in the complaint not to be just and reasonable. Factual allegations shall be supported by affidavit of a person or persons with actual knowledge of the facts and exhibits shall be verified by the person who prepares them. The response, reply, and other pleadings may be signed by counsel.
+(1) Terminate the unjust and/or unreasonable rate, term, or condition;
 
-(b) The response shall be served on the complainant and all parties listed in complainant's certificate of service.
+(2) Substitute in the pole attachment agreement the just and reasonable rate, term, or condition established by the Commission; and/or
 
-(c) The reply shall be served on the respondent and all parties listed in respondent's certificate of service.
+(3) Order a refund, or payment, if appropriate. The refund or payment will normally be the difference between the amount paid under the unjust and/or unreasonable rate, term, or condition and the amount that would have been paid under the rate, term, or condition established by the Commission, plus interest, consistent with the applicable statute of limitations.
 
-(d) Failure to respond may be deemed an admission of the material factual allegations contained in the complaint.
+(b) If the Commission determines that access to a pole, duct, conduit, or right-of-way has been unlawfully denied or delayed, it may order that access be permitted within a specified time frame and in accordance with specified rates, terms, and conditions.
 
-[44 FR 31650, June 1, 1979]
+[83 FR 44841,Sept. 4, 2018]

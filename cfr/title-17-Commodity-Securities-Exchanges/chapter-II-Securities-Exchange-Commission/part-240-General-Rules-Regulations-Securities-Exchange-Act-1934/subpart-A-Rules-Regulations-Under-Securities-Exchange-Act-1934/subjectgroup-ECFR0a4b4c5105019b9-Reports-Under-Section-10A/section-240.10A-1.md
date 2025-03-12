@@ -1,5 +1,7 @@
 ##### § 240.10A-1 Notice to the Commission Pursuant to Section 10A of the Act. #####
 
+Link to an amendment published at 83 FR 50221, Oct. 4, 2018.
+
 (a)(1) If any issuer with a reporting obligation under the Act receives a report requiring a notice to the Commission in accordance with section 10A(b)(3) of the Act, 15 U.S.C. 78j-1(b)(3), the issuer shall submit such notice to the Commission's Office of the Chief Accountant within the time period prescribed in that section. The notice may be provided by facsimile, telegraph, personal delivery, or any other means, *provided* it is received by the Office of the Chief Accountant within the required time period.
 
 (2) The notice specified in paragraph (a)(1) of this section shall be in writing and:

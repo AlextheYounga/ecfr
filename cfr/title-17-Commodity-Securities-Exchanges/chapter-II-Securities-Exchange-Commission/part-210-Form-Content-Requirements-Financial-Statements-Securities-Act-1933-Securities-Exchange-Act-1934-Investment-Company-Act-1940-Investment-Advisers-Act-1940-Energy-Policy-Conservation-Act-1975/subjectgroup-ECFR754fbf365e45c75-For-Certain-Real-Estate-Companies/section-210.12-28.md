@@ -1,5 +1,7 @@
 ##### § 210.12-28 Real estate and accumulated depreciation.1 #####
 
+Link to an amendment published at 83 FR 50208, Oct. 4, 2018.
+
 [For Certain Real Estate Companies]
 
 |Column A - Description<sup>2</sup>| Column B - Encumbrances  |Column C - Initial cost to company|Column D - Cost capitalized subsequent to acquisition|Column E - Gross amount of which carried at close of period<sup>3 4 5 6 7</sup>|Column F - Accumulated depreciation|Column G - Date of construction|Column H - Date acquired|Column I - Life on which depreciation in latest income statements is computed|   |   |   |   |

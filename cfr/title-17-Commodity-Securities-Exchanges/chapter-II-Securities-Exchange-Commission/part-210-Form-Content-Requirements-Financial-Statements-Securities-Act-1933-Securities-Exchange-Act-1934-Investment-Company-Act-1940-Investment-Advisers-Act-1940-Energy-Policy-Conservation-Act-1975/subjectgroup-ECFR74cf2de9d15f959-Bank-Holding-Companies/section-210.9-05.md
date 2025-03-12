@@ -1,5 +1,7 @@
 ##### § 210.9-05 Foreign activities. #####
 
+Link to an amendment published at 83 FR 50205, Oct. 4, 2018.
+
 (a) *General requirement.* Separate disclosure concerning foreign activities shall be made for each period in which either (1) assets, or (2) revenue, or (3) income (loss) before income tax expense, or (4) net income (loss), each as associated with foreign activities, exceeded ten percent of the corresponding amount in the related financial statements.
 
 (b) *Disclosures.* (1) Disclose total identifiable assets (net of valuation allowances) associated with foreign activities.

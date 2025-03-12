@@ -1,5 +1,7 @@
 ##### § 210.12-16 Supplementary insurance information. #####
 
+Link to an amendment published at 83 FR 50208, Oct. 4, 2018.
+
 [For insurance companies]
 
 |     Column A      |                  Column B                  |                                Column C                                 |             Column D             |                        Column E                         |         Column F          |                  Column G                   |                          Column H                           |                          Column I                           |               Column J               |          Column K          |

@@ -1,5 +1,7 @@
 ##### § 210.3-20 Currency for financial statements of foreign private issuers. #####
 
+Link to an amendment published at 83 FR 50199, Oct. 4, 2018.
+
 (a) A foreign private issuer, as defined in § 230.405 of this chapter, shall state amounts in its primary financial statements in the currency which it deems appropriate.
 
 (b) The currency in which amounts in the financial statements are stated shall be disclosed prominently on the face of the financial statements. If dividends on publicly-held equity securities will be declared in a currency other than the reporting currency, a note to the financial statements shall identify that currency. If there are material exchange restrictions or controls relating to the issuer's reporting currency, the currency of the issuer's domicile, or the currency in which the issuer will pay dividends, prominent disclosure of this fact shall be made in the financial statements. If the reporting currency is not the U.S. dollar, dollar-equivalent financial statements or convenience translations shall not be presented, except a translation may be presented of the most recent fiscal year and any subsequent interim period presented using the exchange rate as of the most recent balance sheet included in the filing, except that a rate as of the most recent practicable date shall be used if materially different.

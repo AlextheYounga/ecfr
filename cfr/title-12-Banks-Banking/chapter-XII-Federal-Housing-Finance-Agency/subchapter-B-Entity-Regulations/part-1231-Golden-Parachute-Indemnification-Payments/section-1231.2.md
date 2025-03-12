@@ -1,5 +1,7 @@
 ##### § 1231.2 Definitions. #####
 
+Link to an amendment published at 83 FR 49993, Oct. 4, 2018.
+
 The following definitions apply to the terms used in this part:
 
 *Benefit plan* means any plan, contract, agreement, or other arrangement which is an “employee welfare benefit plan” as that term is defined in section 3(1) of the Employee Retirement Income Security Act of 1974, as amended (29 U.S.C. 1002(1)), or other usual and customary plans such as dependent care, tuition reimbursement, group legal services, or cafeteria plans; provided however, that such term shall not include any plan intended to be subject to paragraphs (2)(iii) and (v) of the term *golden parachute payment* as defined in this section.

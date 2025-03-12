@@ -1,43 +1,21 @@
-##### § 1.726 Replies. #####
+##### § 1.726 Answers. #####
 
-Link to an amendment published at 83 FR 44832, September 4, 2018.
+(a) Any defendant upon which a copy of a formal complaint is served shall answer such complaint in the manner prescribed under this section within 30 calendar days of service of the formal complaint by the complainant, unless otherwise directed by the Commission.
 
-(a) Subject to paragraph (g) of this section governing Accelerated Docket proceedings, within three days after service of an answer containing affirmative defenses presented in accordance with the requirements of § 1.724(e), a complainant may file and serve a reply containing statements of relevant, material facts and legal arguments that shall be responsive to only those specific factual allegations and legal arguments made by the defendant in support of its affirmative defenses. Replies which contain other allegations or arguments will not be accepted or considered by the Commission.
+(b) The answer shall advise the complainant and the Commission fully and completely of the nature of any defense, and shall respond specifically to all material allegations of the complaint. Every effort shall be made to narrow the issues in the answer. The defendant shall state concisely its defense to each claim asserted, admit or deny the averments on which the complainant relies, and state in detail the basis for admitting or denying such averment. General denials are prohibited. Denials based on information and belief are prohibited unless made in good faith and accompanied by a declaration or affidavit explaining the basis for the defendant's belief and why the defendant could not reasonably ascertain the facts from the complainant or any other source. If the defendant is without knowledge or information sufficient to form a belief as to the truth of an averment, the defendant shall so state and this has the effect of a denial. When a defendant intends in good faith to deny only part of an averment, the defendant shall specify so much of it as is true and shall deny only the remainder. The defendant may deny the allegations of the complaint as specific denials of either designated averments or paragraphs.
 
-(b) Failure to reply to an affirmative defense shall be deemed an admission of such affirmative defense and of any facts supporting such affirmative defense that are not specifically contradicted in the complaint.
+(c) The answer shall include legal analysis relevant to the claims and arguments set forth therein.
 
-(c) The reply shall contain proposed findings of fact, conclusions of law, and legal analysis relevant to the claims and arguments set forth in the reply.
+(d) Averments in a complaint or supplemental complaint filed pursuant to § 1.723(d) are deemed to be admitted when not denied in the answer.
 
-(d) The reply shall include an information designation containing:
+(e) Affirmative defenses to allegations in the complaint shall be specifically captioned as such and presented separately from any denials made in accordance with paragraph (b) of this section.
 
-(1) The name, address and position of each individual believed to have firsthand knowledge about the facts alleged with particularity in the reply, along with a description of the facts within any such individual's knowledge.
+(f) The answer shall include an information designation containing:
 
-(2) A description of all documents, data compilations and tangible things in the complainant's possession, custody, or control that are relevant to the facts alleged with particularity in the reply. Such description shall include for each document:
+(1) The name and, if known, the address and telephone number of each individual likely to have information relevant to the proceeding, along with the subjects of that information, excluding individuals otherwise identified in the complaint, answer, or exhibits thereto, and individuals employed by another party; and
 
-(i) The date prepared, mailed, transmitted, or otherwise disseminated;
+(2) A copy—or a description by category and location—of all relevant documents, electronically stored information, and tangible things that the disclosing party has in its possession, custody, or control, excluding documents submitted with the complaint or answer.
 
-(ii) The author, preparer, or other source;
+(g) Failure to file an answer may be deemed an admission of the material facts alleged in the complaint. Any defendant that fails to file and serve an answer within the time and in the manner prescribed by this part may be deemed in default and an order may be entered against such defendant in accordance with the allegations contained in the complaint.
 
-(iii) The recipient(s) or intended recipient(s);
-
-(iv) Its physical location; and
-
-(v) A description of its relevance to the matters in dispute.
-
-(3) A complete description of the manner in which the complainant identified all persons with information and designated all documents, data compilations and tangible things as being relevant to the dispute, including, but not limited to, identifying the individual(s) that conducted the information search and the criteria used to identify such persons, documents, data compilations, tangible things, and information;
-
-(e) The reply shall attach copies of all affidavits, documents, data compilations and tangible things in the complainant's possession, custody, or control upon which the complainant relies or intends to rely to support the facts alleged and legal arguments made in the reply.
-
-(f) The complainant may petition the staff, pursuant to § 1.3, for a waiver of any of the requirements of this section. Such waiver may be granted for good cause shown.
-
-(g) Accelerated Docket Proceedings. For the purpose of this paragraph (g), the term document also shall include data compilations and tangible things.
-
-(1) The filing of a separate pleading to reply to affirmative defenses is not permitted in Accelerated Docket proceedings. Complainants in such proceedings may include, in the § 1.733(i)(4) pre-status-conference filing, those statements that otherwise would have been the subject of a reply.
-
-(2) In Accelerated Docket proceedings, the failure to reply, in the pre-status-conference filing, to an affirmative defense shall be deemed an admission of such affirmative defense and of any facts supporting such affirmative defense that are not specifically contradicted in the complaint.
-
-(3) If a complainant replies to an affirmative defense in its § 1.733(i)(4), pre-status-conference filing, it shall include in that filing the information, required by paragraph (d)(1) of this section, identifying individuals with firsthand knowledge of the facts alleged in the reply.
-
-(4) An Accelerated Docket complainant that replies to an affirmative defense in its § 1.733(i)(4), pre-status-conference filing also shall serve on the defendant, at the same time as that filing, those documents in the complainant's possession, custody or control that were not previously produced to the defendant and that are likely to bear significantly on the issues raised in the reply. Such a complainant is not required to comply with the remainder of the requirements in paragraphs (d) and (e) of this section.
-
-[63 FR 1037, Jan. 7, 1998, as amended at 63 FR 41447, Aug. 4, 1998; 66 FR 16617, Mar. 27, 2001]
+[83 FR 44832, Sept. 4, 2018]

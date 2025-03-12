@@ -212,9 +212,13 @@ Aircraft Missile Protection Systems (AMPS) are controlled in USML Category XI.
 
 (7) Rocket, SLV, and missile engines and motors, not otherwise enumerated in paragraphs (d)(1) through (d)(6) of this category or USML Category XIX.
 
-Note to paragraph (d):
+Note 1 to paragraph (d):
 
 This paragraph does not control model and high power rocket motors, containing no more than 5 pounds of propellant, that are certified for U.S. consumer use as described in National Fire Protection Association Code 1125.
+
+Note 2 to paragraph (d):
+
+This paragraph does not control thrusters for spacecraft.
 
 (e)-(f) [Reserved]
 
@@ -762,6 +766,10 @@ Note 2 to USML Category V:
 
 Chemical Abstract Service (CAS) registry numbers do not cover all the substances and mixtures controlled by this category. The numbers are provided as examples to assist government agencies in the license review process and exporters when completing their license application and export documentation.
 
+Note 3 to USML Category V:
+
+Items controlled in this Category, except for materials described in paragraph (c)(6), (h), or (i), are licensed by the Department of Commerce when incorporated into an item subject to the EAR and classified under ECCN 1C608.
+
 Category VI - Surface Vessels of War and Special Naval Equipment
 
 \* (a) Warships and other combatant vessels (*i.e.,* battleships, aircraft carriers, destroyers, frigates, cruisers, corvettes, littoral combat ships, mine sweepers, mine hunters, mine countermeasure ships, dock landing ships, amphibious assault ships), Coast Guard Cutters (with or equivalent to those with U.S. designations WHEC, WMEC, WMSL, or WPB for the purpose of this subchapter), or foreign-origin vessels specially designed to provide functions equivalent to those of the vessels listed above;
@@ -1090,7 +1098,7 @@ Loss of lubrication means a situation where oil/lubrication is mostly or complet
 
 (11) Air-to-air refueling systems and hover-in-flight refueling (HIFR) systems, and specially designed parts and components therefor;
 
-(12) Unmanned aerial vehicle (UAV) flight control systems and vehicle management systems with swarming capability (*i.e.,* UAVs interact with each other to avoid collisions and stay together, or, if weaponized, coordinate targeting) (MT if for an aircraft, excluding manned aircraft, or missile that has a “range” equal to or greater than 300 km);
+(12) Unmanned aerial vehicle (UAV) flight control systems and vehicle management systems with swarming capability (*i.e.* UAVs that operate autonomously (without human input) to interact with each other to avoid collisions, fly in formations, and are capable of adapting in real-time to changes in operational/threat environment, or, if weaponized, coordinate targeting) (MT if for an aircraft, excluding manned aircraft, or missile that has a “range” equal to or greater than 300 km);
 
 (13) [Reserved]
 
@@ -1386,6 +1394,10 @@ Category XI - Military Electronics
 
 (i) Airborne radar that maintains positional state of an object or objects of interest, other than weather phenomena, in a received radar signal through time;
 
+Note to paragraph (a)(3)(i):
+
+This paragraph does not control radars that: (1) Are incapable of free space detection of 1 square meter Radar Cross Section (RCS) target beyond 8 nautical miles (nmi); (2) contain a radar update rate of not more than 1Hz; and (3) employ a design determined to be subject to the EAR via a commodity jurisdiction determination (see § 120.4 of this subchapter).
+
 (ii) Synthetic Aperture Radar (SAR) incorporating image resolution less than (better than) 0.3 m, or incorporating Coherent Change Detection (CCD) with geo-registration accuracy less than (better than) 0.3 m, not including concealed object detection equipment operating in the frequency range from 30 GHz to 3,000 GHz and having a spatial resolution of 0.1 milliradians up to and including 1 milliradians at a standoff distance of 100 m;
 
 (iii) Inverse Synthetic Aperture Radar (ISAR);
@@ -1410,7 +1422,7 @@ Category XI - Military Electronics
 
 Note to paragraph (a)(3)(xii):
 
-This paragraph does not control radars not otherwise controlled in this subchapter, operating with a peak transmit power less than or equal to 250 watts, and employing a design determined to be subject to the EAR via a commodity jurisdiction determination (*see* § 120.4 of this subchapter).
+This paragraph does not control radars not otherwise controlled in this subchapter, operating with a peak transmit power less than or equal to 550 watts, and employing a design determined to be subject to the EAR via a commodity jurisdiction determination (see § 120.4 of this subchapter).
 
 (xiii) Radar with mode(s) for ballistic tracking or ballistic extrapolation to source of launch or impact point of articles controlled in USML Categories III, IV, or XV;
 
@@ -1560,7 +1572,47 @@ Note to paragraph (c)(3):
 
 Multichip modules for which the pattern or layout is specially designed for 600 series items are controlled in ECCN 3A611.h.
 
-(4) Transmit/receive modules or transmit modules that have any two perpendicular sides, with either length d (in cm) equal to or less than 15 divided by the lowest operating frequency in GHz [d≤15cm\*GHz/fGHz], with an electronically variable phase shifter or phasers that are a Monolithic Microwave Integrated Circuit (MMIC), or incorporate a MMIC or discrete RF power transistor;
+(4) Transmit/receive modules, transmit/receive monolithic microwave integrated circuits (MMICs), transmit modules, and transmit MMICs having all of the following:
+
+(i) A peak saturated power output (in watts), Psat, greater than 505.62 divided by the maximum operating frequency (in GHz) squared [Psat \> 505.62 W \* GHz2/fGHz2] for any channel;
+
+(ii) A fractional bandwidth of 5% or greater for any channel;
+
+(iii) Any planar side with length d (in cm) equal to or less than 15 divided by the lowest operating frequency in GHz [d ≤ 15cm \* GHz/fGHz]; and
+
+(iv) At least one electronically variable phase shifter per channel.
+
+Note 1 to paragraph (c)(4):
+
+A MMIC: (a) Is formed by means of diffusion processes, implantation processes, or deposition processes in or on a single semiconducting piece of material; (b) can be considered as indivisibly associated; (c) performs the function(s) of a circuit; and (d) operates at microwave frequencies (*i.e.,* 300 MHz to 300 GHz).
+
+Note 2 to paragraph (c)(4):
+
+A transmit/receive module is a multifunction electronic assembly that provides bi-directional amplitude and phase control for transmission and reception of signals.
+
+Note 3 to paragraph (c)(4):
+
+A transmit module is an electronic assembly that provides amplitude and phase control for transmission of signals.
+
+Note 4 to paragraph (c)(4):
+
+A transmit/receive MMIC is a multifunction MMIC that provides bi-directional amplitude and phase control for transmission and reception of signals.
+
+Note 5 to paragraph (c)(4):
+
+A transmit MMIC is a MMIC that provides amplitude and phase control for transmission of signals.
+
+Note 6 to paragraph (c)(4):
+
+USML Category XI(c)(4) applies to transmit/receive modules and to transmit modules, with or without a heat sink. The value of length d in USML Category XI(c)(4)(iii) does not include any portion of the transmit/receive module or transmit module that functions as a heat sink.
+
+Note 7 to paragraph (c)(4):
+
+Transmit/receive modules, transmit modules, transmit/receive MMICs, and transmit MMICs may or may not have N integrated radiating antenna elements, where N is the number of transmit or transmit/receive channels.
+
+Note 8 to paragraph (c)(4):
+
+Fractional bandwidth is the bandwidth over which output power remains constant within 3 dB (without the adjustment of other operating parameters), divided by the center frequency, and multiplied by 100. Fractional bandwidth is expressed as a percentage.
 
 (5) High-energy storage capacitors with a repetition rate of 6 discharges or more per minute and full energy life greater than or equal to 10,000 discharges, at greater than 0.2 Amps per Joule peak current, that have any of the following:
 
@@ -2796,7 +2848,7 @@ Note 4 to paragraph (e):
 
 (1) A determination that a specific article (or commodity) (e.g., by product serial number) is space-qualified by virtue of testing alone does not mean that other articles in the same production run or model series are space-qualified if not individually tested. (2) “Article” is synonymous with “commodity,” as defined in EAR § 772.1. (3) A specific article not designed or manufactured for use at altitudes greater than 100 km above the surface of the Earth is not space-qualified before it is successfully tested. (4) The terms “designed” and “manufactured” in this definition are synonymous with “specially designed.”
 
-(f) Technical data (*see* § 120.10 of this subchapter) and defense services (*see* § 120.9 of this subchapter) directly related to the defense articles described in paragraphs (a) through (e) of this category and classified technical data directly related to items controlled in ECCNs 9A515, 9B515, or 9D515 and defense services using the classified technical data. Defense services include the furnishing of assistance (including training) in the integration of a satellite or spacecraft to a launch vehicle, including both planning and onsite support, regardless of the jurisdiction, ownership, or origin of the satellite or spacecraft, or whether technical data is used. It also includes the furnishing of assistance (including training) in the launch failure analysis of a satellite or spacecraft, regardless of the jurisdiction, ownership, or origin of the satellite of spacecraft, or whether technical data is used. (*See* § 125.4 of this subchapter for exemptions, and § 124.15 of this subchapter for special export controls for satellites and satellite launches.) (MT for technical data and defense services related to articles designated as such.)
+(f) Technical data (*see* § 120.10 of this subchapter) and defense services (*see* § 120.9 of this subchapter) directly related to the defense articles described in paragraphs (a) through (e) of this category and classified technical data directly related to items controlled in ECCNs 9A515, 9B515, or 9D515 and defense services using the classified technical data. Defense services include the furnishing of assistance (including training) to a foreign person in the integration of a satellite or spacecraft to a launch vehicle, including both planning and onsite support, regardless of the jurisdiction, ownership, or origin of the satellite or spacecraft, or whether technical data is used. It also includes the furnishing of assistance (including training) to a foreign person in the launch failure analysis of a satellite or spacecraft, regardless of the jurisdiction, ownership, or origin of the satellite of spacecraft, or whether technical data is used. (*See* § 125.4 of this subchapter for exemptions, and § 124.15 of this subchapter for special export controls for satellites and satellite launches.) (MT for technical data and defense services related to articles designated as such.)
 
 Note 1 to paragraph (f):
 

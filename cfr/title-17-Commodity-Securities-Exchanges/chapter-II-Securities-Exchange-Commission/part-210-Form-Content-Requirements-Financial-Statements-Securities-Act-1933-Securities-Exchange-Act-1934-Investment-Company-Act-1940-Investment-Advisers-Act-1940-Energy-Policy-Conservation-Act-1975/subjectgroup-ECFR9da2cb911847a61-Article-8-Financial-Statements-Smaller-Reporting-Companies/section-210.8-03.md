@@ -1,5 +1,7 @@
 ##### § 210.8-03 Interim financial statements. #####
 
+Link to an amendment published at 83 FR 50204, Oct. 4, 2018.
+
 Interim financial statements may be unaudited; however, before filing, interim financial statements included in quarterly reports on Form 10-Q (§ 249.308(a) of this chapter) must be reviewed by an independent public accountant using professional standards and procedures for conducting such reviews, as established by generally accepted auditing standards, as may be modified or supplemented by the Commission. If, in any filing, the issuer states that interim financial statements have been reviewed by an independent public accountant, a report of the accountant on the review must be filed with the interim financial statements. Interim financial statements shall include a balance sheet as of the end of the issuer's most recent fiscal quarter, a balance sheet as of the end of the preceding fiscal year, and income statements and statements of cash flows for the interim period up to the date of such balance sheet and the comparable period of the preceding fiscal year.
 
 (a) *Condensed format.* Interim financial statements may be condensed as follows:

@@ -1,5 +1,7 @@
 ##### § 240.12g-3 Registration of securities of successor issuers under section 12(b) or 12(g). #####
 
+Link to an amendment published at 83 FR 50221, Oct. 4, 2018.
+
 (a) Where in connection with a succession by merger, consolidation, exchange of securities, acquisition of assets or otherwise, securities of an issuer that are not already registered pursuant to section 12 of the Act (15 U.S.C. 78*l*) are issued to the holders of any class of securities of another issuer that is registered pursuant to either section 12 (b) or (g) of the Act (15 U.S.C. 78*l* (b) or (g)), the class of securities so issued shall be deemed to be registered under the same paragraph of section 12 of the Act unless upon consummation of the succession:
 
 (1) Such class is exempt from such registration other than by § 240.12g3-2;

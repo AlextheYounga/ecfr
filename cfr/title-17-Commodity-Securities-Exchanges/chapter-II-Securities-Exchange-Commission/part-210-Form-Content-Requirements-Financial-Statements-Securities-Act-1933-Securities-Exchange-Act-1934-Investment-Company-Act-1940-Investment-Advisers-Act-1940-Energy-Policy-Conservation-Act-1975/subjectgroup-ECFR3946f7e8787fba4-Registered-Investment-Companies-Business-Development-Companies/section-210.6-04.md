@@ -1,5 +1,7 @@
 ##### § 210.6-04 Balance sheets. #####
 
+Link to an amendment published at 83 FR 50202, Oct. 4, 2018.
+
 This section is applicable to balance sheets filed by registered investment companies and business development companies except for persons who substitute a statement of net assets in accordance with the requirements specified in § 210.6-05, and issuers of face-amount certificates which are subject to the special provisions of § 210.6-06. Balance sheets filed under this rule shall comply with the following provisions:
 
 Assets

@@ -1,5 +1,7 @@
 ##### § 210.3-14 Special instructions for real estate operations to be acquired. #####
 
+Link to an amendment published at 83 FR 50199, Oct. 4, 2018.
+
 (a) If, during the period for which income statements are required, the registrant has acquired one or more properties which in the aggregate are significant, or since the date of the latest balance sheet required has acquired or proposes to acquire one or more properties which in the aggregate are significant, the following shall be furnished with respect to such properties:
 
 (1) Audited income statements (not including earnings per unit) for the three most recent fiscal years, which shall exclude items not comparable to the proposed future operations of the property such as mortgage interest, leasehold rental, depreciation, corporate expenses and Federal and state income taxes: *Provided, however,* That such audited statements need be presented for only the most recent fiscal year if

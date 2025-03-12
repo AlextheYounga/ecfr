@@ -1,5 +1,7 @@
 ##### § 210.4-01 Form, order, and terminology. #####
 
+Link to an amendment published at 83 FR 50200, Oct. 4, 2018.
+
 (a) Financial statements should be filed in such form and order, and should use such generally accepted terminology, as will best indicate their significance and character in the light of the provisions applicable thereto. The information required with respect to any statement shall be furnished as a minimum requirement to which shall be added such further material information as is necessary to make the required statements, in the light of the circumstances under which they are made, not misleading.
 
 (1) Financial statements filed with the Commission which are not prepared in accordance with generally accepted accounting principles will be presumed to be misleading or inaccurate, despite footnote or other disclosures, unless the Commission has otherwise provided. This article and other articles of Regulation S-X provide clarification of certain disclosures which must be included in any event, in financial statements filed with the Commission.

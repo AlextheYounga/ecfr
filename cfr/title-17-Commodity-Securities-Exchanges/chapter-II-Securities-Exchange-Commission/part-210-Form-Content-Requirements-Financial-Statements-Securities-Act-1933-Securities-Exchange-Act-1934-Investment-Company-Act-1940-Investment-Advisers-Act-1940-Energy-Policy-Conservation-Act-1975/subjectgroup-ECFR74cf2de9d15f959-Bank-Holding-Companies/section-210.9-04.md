@@ -1,5 +1,7 @@
 ##### § 210.9-04 Income statements. #####
 
+Link to an amendment published at 83 FR 50205, Oct. 4, 2018.
+
 The purpose of this rule is to indicate the various items which, if applicable, should appear on the face of the income statement or in the notes thereto.
 
 1. *Interest and fees on loans.* Include commitment and origination fees, late charges and current amortization of premium and accretion of discount on loans which are related to or are an adjustment of the loan interest rate.

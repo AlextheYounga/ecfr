@@ -1,5 +1,7 @@
 ##### § 210.5-02 Balance sheets. #####
 
+Link to an amendment published at 83 FR 50201, Oct. 4, 2018.
+
 The purpose of this rule is to indicate the various line items and certain additional disclosures which, if applicable, and except as otherwise permitted by the Commission, should appear on the face of the balance sheets or related notes filed for the persons to whom this article pertains (see § 210.4-01(a)).
 
 Assets and Other DebitsCurrent Assets, when appropriate[See § 210.4-05]

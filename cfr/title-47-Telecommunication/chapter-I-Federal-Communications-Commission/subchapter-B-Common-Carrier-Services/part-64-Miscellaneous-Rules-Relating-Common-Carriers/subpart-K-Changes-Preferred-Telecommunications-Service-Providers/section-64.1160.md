@@ -1,7 +1,5 @@
 ##### § 64.1160 Absolution procedures where the subscriber has not paid charges. #####
 
-Link to an amendment published at 83 FR 44843, Sept. 4, 2018.
-
 (a) This section shall only apply after a subscriber has determined that an unauthorized change, as defined by § 64.1100(e), has occurred and the subscriber has not paid charges to the allegedly unauthorized carrier for service provided for 30 days, or a portion thereof, after the unauthorized change occurred.
 
 (b) An allegedly unauthorized carrier shall remove all charges incurred for service provided during the first 30 days after the alleged unauthorized change occurred, as defined by § 64.1100(e), from a subscriber's bill upon notification that such unauthorized change is alleged to have occurred.
@@ -10,14 +8,10 @@ Link to an amendment published at 83 FR 44843, Sept. 4, 2018.
 
 (d) If the relevant governmental agency determines after reasonable investigation that an unauthorized change, as defined by § 64.1100(e), has occurred, an order shall be issued providing that the subscriber is entitled to absolution from the charges incurred during the first 30 days after the unauthorized carrier change occurred, and neither the authorized or unauthorized carrier may pursue any collection against the subscriber for those charges.
 
-(e) If the subscriber has incurred charges for more than 30 days after the unauthorized carrier change, the unauthorized carrier must forward the billing information for such services to the authorized carrier, which may bill the subscriber for such services using either of the following means:
-
-(1) The amount of the charge may be determined by a re-rating of the services provided based on what the authorized carrier would have charged the subscriber for the same services had an unauthorized change, as described in § 64.1100(e), not occurred; or
-
-(2) The amount of the charge may be determined using a 50% Proxy Rate as follows: Upon receipt of billing information from the unauthorized carrier, the authorized carrier may bill the subscriber for 50% of the rate the unauthorized carrier would have charged the subscriber for the services provided. However, the subscriber shall have the right to reject use of this 50% proxy method and require that the authorized carrier perform a re-rating of the services provided, as described in paragraph (e)(1) of this section.
+(e) The Federal Communications Commission will not adjudicate a complaint filed pursuant to §§ 1.719 or §§ 1.720-1.740 of this chapter, involving an alleged unauthorized change, as defined by § 64.1100(e), while a complaint based on the same set of facts is pending with a state commission.
 
 (f) If the unauthorized carrier received payment from the subscriber for services provided after the first 30 days after the unauthorized change occurred, the obligations for payments and refunds provided for in § 64.1170 shall apply to those payments. If the relevant governmental agency determines after reasonable investigation that the carrier change was authorized, the carrier may re-bill the subscriber for charges incurred.
 
 (g) When a LEC has assigned a subscriber to a carrier without authorization, and where the subscriber has not paid the unauthorized charges, the LEC shall switch the subscriber to the desired carrier at no cost to the subscriber, and shall also secure the removal of the unauthorized charges from the subscriber's bill in accordance with the procedures specified in paragraphs (a) through (f) of this section.
 
-[65 FR 47692, Aug. 3, 2000, as amended at 68 FR 19159, Apr. 18, 2003; 73 FR 13149, Mar. 12, 2008]
+[65 FR 47692, Aug. 3, 2000, as amended at 68 FR 19159, Apr. 18, 2003; 73 FR 13149, Mar. 12, 2008; 83 FR 44843, Sept. 4, 2018]

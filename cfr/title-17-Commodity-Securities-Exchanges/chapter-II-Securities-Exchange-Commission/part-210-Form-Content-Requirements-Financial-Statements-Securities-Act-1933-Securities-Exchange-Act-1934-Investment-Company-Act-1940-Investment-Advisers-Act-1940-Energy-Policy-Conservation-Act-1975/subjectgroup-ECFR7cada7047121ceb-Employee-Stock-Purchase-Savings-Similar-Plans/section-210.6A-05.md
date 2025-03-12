@@ -1,5 +1,7 @@
 ##### § 210.6A-05 What schedules are to be filed. #####
 
+Link to an amendment published at 83 FR 50203, Oct. 4, 2018.
+
 (a) Schedule I, specified below, shall be filed as of the most recent audited statement of financial condition and any subsequent unaudited statement of financial condition being filed. Schedule II shall be filed as of the date of each statement of financial condition being filed. Schedule III shall be filed for each period for which a statement of income and changes in plan equity is filed. All schedules shall be audited if the related statements are audited.
 
 *Schedule I - Investments.* A schedule substantially in form prescribed by § 210.12-12 shall be filed in support of captions 1, 2 and 3 of each statement of financial condition unless substantially all of the information is given in the statement of financial condition by footnote or otherwise.

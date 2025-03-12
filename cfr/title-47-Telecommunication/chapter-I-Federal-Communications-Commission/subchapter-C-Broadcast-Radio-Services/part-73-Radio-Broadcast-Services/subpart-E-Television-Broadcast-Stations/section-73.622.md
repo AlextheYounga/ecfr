@@ -1914,7 +1914,7 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |    Williamsport    |                        29                         |
 |        York        |                        47                         |
 |    RHODE ISLAND    |                                                   |
-|    Block Island    |                        17                         |
+|      Newport       |                        17                         |
 |     Providence     |                 12, 13, \*21, 50                  |
 |   SOUTH CAROLINA   |                                                   |
 |     Allendale      |                       \*33                        |

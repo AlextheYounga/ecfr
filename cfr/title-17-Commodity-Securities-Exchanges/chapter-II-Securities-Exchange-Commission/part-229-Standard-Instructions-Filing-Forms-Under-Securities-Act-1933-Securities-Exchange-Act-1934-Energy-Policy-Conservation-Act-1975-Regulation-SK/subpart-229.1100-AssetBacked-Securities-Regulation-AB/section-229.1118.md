@@ -1,5 +1,7 @@
 ##### § 229.1118 (Item 1118) Reports and additional information. #####
 
+Link to an amendment published at 83 FR 50211, Oct. 4, 2018.
+
 (a) *Reports required under the transaction documents.* Describe the reports or other documents provided to security holders required under the transaction agreements, including information included, schedule and manner of distribution or other availability, and the entity or entities that will prepare and provide the reports.
 
 (b) *Reports to be filed with the Commission.* (1) Specify the names, and if available, the Commission file numbers of the entity or entities under which reports about the asset-backed securities will be filed with the Securities and Exchange Commission. Identify the reports and other information filed with the Commission.

@@ -1,5 +1,8 @@
 ##### § 240.13b2-2 Representations and conduct in connection with the preparation of required reports and documents. #####
 
+Link to an amendment published at 83 FR
+50222, Oct. 4, 2018.
+
 (a) No director or officer of an issuer shall, directly or indirectly:
 
 (1) Make or cause to be made a materially false or misleading statement to an accountant in connection with; or

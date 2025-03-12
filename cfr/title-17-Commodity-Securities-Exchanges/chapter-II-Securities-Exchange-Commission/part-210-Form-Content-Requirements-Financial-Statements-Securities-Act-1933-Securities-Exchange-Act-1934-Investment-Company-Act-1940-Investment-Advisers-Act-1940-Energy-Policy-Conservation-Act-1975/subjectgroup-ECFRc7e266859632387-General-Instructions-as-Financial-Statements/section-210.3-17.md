@@ -1,5 +1,7 @@
 ##### § 210.3-17 Financial statements of natural persons. #####
 
+Link to an amendment published at 83 FR 50199, Oct. 4, 2018.
+
 (a) In lieu of the financial statements otherwise required, a natural person may file an unaudited balance sheet as of a date within 90 days of date of filing and unaudited statements of income for each of the three most recent fiscal years.
 
 (b) Financial statements conforming with the instructions as to financial statements of subsidiaries not consolidated and 50 percent or less owned persons under § 210.3-09(a) shall be separately presented for: (1) Each business owned as a sole proprietor, (2) each partnership, business trust, unincorporated association, or similar business organization of which the person holds a controlling interest and (3) each corporation of which the person, directly or indirectly, owns securities representing more than 50 percent of the voting power.

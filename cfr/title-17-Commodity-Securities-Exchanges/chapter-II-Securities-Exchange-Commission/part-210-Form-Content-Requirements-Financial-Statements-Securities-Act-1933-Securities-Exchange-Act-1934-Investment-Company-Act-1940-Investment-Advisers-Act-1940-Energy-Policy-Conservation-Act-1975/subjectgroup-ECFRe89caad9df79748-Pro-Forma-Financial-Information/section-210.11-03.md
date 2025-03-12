@@ -1,5 +1,7 @@
 ##### § 210.11-03 Presentation of financial forecast. #####
 
+Link to an amendment published at 83 FR 50208, Oct. 4, 2018.
+
 (a) A financial forecast may be filed in lieu of the pro forma condensed statements of income required by § 210.11-02(b)(1).
 
 (1) The financial forecast shall cover a period of at least 12 months from the latest of (i) the most recent balance sheet included in the filing or (ii) the consummation date or estimated consummation date of the transaction.

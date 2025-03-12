@@ -1,5 +1,7 @@
 ##### § 240.15c3-1g Conditions for ultimate holding companies of certain brokers or dealers (Appendix G to 17 CFR 240.15c3-1). #####
 
+Link to an amendment published at 83 FR 50222, Oct. 4, 2018.
+
 As a condition for a broker or dealer to compute certain of its deductions to capital in accordance with § 240.15c3-1e, pursuant to its undertaking, the ultimate holding company of the broker or dealer shall:
 
 Conditions Regarding Computation of Allowable Capital and Risk Allowances

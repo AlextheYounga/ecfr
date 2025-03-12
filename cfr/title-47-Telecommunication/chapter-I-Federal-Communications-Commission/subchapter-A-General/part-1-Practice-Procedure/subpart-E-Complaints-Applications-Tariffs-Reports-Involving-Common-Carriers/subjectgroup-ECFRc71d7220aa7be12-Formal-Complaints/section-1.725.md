@@ -1,7 +1,7 @@
-##### § 1.725 Cross-complaints and counterclaims. #####
+##### § 1.725 Joinder of complainants and causes of action. #####
 
-Link to an amendment published at 83 FR 44832, September 4, 2018.
+(a) Two or more complainants may join in one complaint if their respective causes of action are against the same defendant and concern substantially the same facts and alleged violation of the Communications Act or Commission regulation or order.
 
-Cross-complaints seeking any relief within the jurisdiction of the Commission against any carrier that is a party (complainant or defendant) to that proceeding are expressly prohibited. Any claim that might otherwise meet the requirements of a cross-complaint may be filed as a separate complaint in accordance with §§ 1.720 through 1.736. For purposes of this subpart, the term “cross-complaint” shall include counterclaims.
+(b) Two or more grounds of complaint involving substantially the same facts may be included in one complaint, but should be separately stated and numbered.
 
-[63 FR 1037, Jan. 7, 1998]
+[83 FR 44832, Sept. 4, 2018]

@@ -1,5 +1,7 @@
 ##### § 210.7-03 Balance sheets. #####
 
+Link to an amendment published at 83 FR 50203, Oct. 4, 2018.
+
 (a) The purpose of this rule is to indicate the various items which, if applicable, and except as otherwise permitted by the Commission, should appear on the face of the balance sheets and in the notes thereto filed for persons to whom this article pertains. (See § 210.4-01(a).)
 
 Assets

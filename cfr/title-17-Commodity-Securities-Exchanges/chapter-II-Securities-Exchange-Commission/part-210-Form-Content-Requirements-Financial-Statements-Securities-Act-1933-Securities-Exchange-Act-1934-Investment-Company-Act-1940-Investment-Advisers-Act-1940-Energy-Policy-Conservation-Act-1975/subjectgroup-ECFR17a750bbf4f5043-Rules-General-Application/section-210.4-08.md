@@ -1,5 +1,7 @@
 ##### § 210.4-08 General notes to financial statements. #####
 
+Link to an amendment published at 83 FR 50200, Oct. 4, 2018.
+
 If applicable to the person for which the financial statements are filed, the following shall be set forth on the face of the appropriate statement or in appropriately captioned notes. The information shall be provided for each statement required to be filed, except that the information required by paragraphs (b), (c), (d), (e) and (f) shall be provided as of the most recent audited balance sheet being filed and for paragraph (j) as specified therein. When specific statements are presented separately, the pertinent notes shall accompany such statements unless cross-referencing is appropriate.
 
 (a) *Principles of consolidation or combination.* With regard to consolidated or combined financial statements, refer to §§ 210.3A-01 to 3A-08 for requirements for supplemental information in notes to the financial statements.

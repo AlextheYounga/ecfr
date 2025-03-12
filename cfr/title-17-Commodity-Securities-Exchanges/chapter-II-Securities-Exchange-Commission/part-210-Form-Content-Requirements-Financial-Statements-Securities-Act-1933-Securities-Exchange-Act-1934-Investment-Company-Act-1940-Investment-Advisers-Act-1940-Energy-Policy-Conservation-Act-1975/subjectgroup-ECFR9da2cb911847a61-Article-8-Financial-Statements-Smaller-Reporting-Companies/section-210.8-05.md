@@ -1,5 +1,7 @@
 ##### § 210.8-05 Pro forma financial information. #####
 
+Link to an amendment published at 83 FR 50204, Oct. 4, 2018.
+
 (a) Pro forma information showing the effects of the acquisition shall be furnished if financial statements of a business acquired or to be acquired are presented.
 
 (b) Pro forma statements should be condensed, in columnar form showing pro forma adjustments and results, and should include the following:

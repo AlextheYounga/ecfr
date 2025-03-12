@@ -1,103 +1,47 @@
-##### § 1.721 Format and content of complaints. #####
+##### § 1.721 General pleading requirements. #####
 
-Link to an amendment published at 83 FR 44832, September 4, 2018.
+Formal complaint proceedings are generally resolved on a written record consisting of a complaint, answer, reply, and joint statement of stipulated facts, disputed facts and key legal issues, along with all associated evidence in the record. The Commission may also require or permit other written submissions such as briefs, proposed findings of fact and conclusions of law, or other supplementary documents or pleadings.
 
-(a) Subject to paragraph (e) of this section governing supplemental complaints filed pursuant to § 1.722, and paragraph (f) of this section governing Accelerated Docket proceedings, a formal complaint shall contain:
+(a) All papers filed in any proceeding subject to this part must be drawn in conformity with the requirements of §§ 1.49, 1.50, and 1.52.
 
-(1) The name of each complainant and defendant;
+(b) Pleadings must be clear, concise, and direct. All matters concerning a claim, defense or requested remedy, including damages, should be pleaded fully and with specificity.
 
-(2) The occupation, address and telephone number of each complainant and, to the extent known, each defendant;
+(c) Pleadings must contain facts which, if true, are sufficient to constitute a violation of the Act or a Commission regulation or order, or a defense to an alleged violation.
 
-(3) The name, address, telephone number, and email address of complainant's attorney, if represented by counsel;
+(d) Averred facts, claims, or defenses shall be made in numbered paragraphs and must be supported by relevant evidence. The contents of each paragraph shall be limited as far as practicable to a statement of a single set of circumstances. Each claim founded on a separate transaction or occurrence and each affirmative defense shall be separately stated to facilitate the clear presentation of the matters set forth. Assertions based on information and belief are prohibited unless made in good faith and accompanied by a declaration or affidavit explaining the basis for the party's belief and why the party could not reasonably ascertain the facts from any other source.
 
-(4) Citation to the section of the Communications Act and/or order and/or regulation of the Commission alleged to have been violated.
+(e) Legal arguments must be supported by appropriate statutory, judicial, or administrative authority.
 
-(5) Assertions based on information and belief are expressly prohibited unless made in good faith and accompanied by an affidavit explaining the basis for the complainant's belief and why the complainant could not reasonably ascertain the facts from the defendant or any other source;
+(f) Opposing authorities must be distinguished.
 
-(6) Proposed findings of fact, conclusions of law, and legal analysis relevant to the claims and arguments set forth in the complaint;
+(g) Copies must be provided of all non-Commission authorities relied upon which are not routinely available in national reporting systems, such as unpublished decisions or slip opinions of courts or administrative agencies. In addition, copies of state authorities relied upon shall be provided.
 
-(7) The relief sought, including recovery of damages and the amount of damages claimed, if known;
+(h) Parties are responsible for the continuing accuracy and completeness of all information and supporting authority furnished in a pending complaint proceeding. Information submitted, as well as relevant legal authorities, must be current and updated as necessary and in a timely manner before a decision is rendered on the merits of the complaint.
 
-(8) Certification that the complainant has, in good faith, discussed or attempted to discuss the possibility of settlement with each defendant prior to the filing of the formal complaint. Such certification shall include a statement that, prior to the filing of the complaint, the complainant mailed a certified letter outlining the allegations that form the basis of the complaint it anticipated filing with the Commission to the defendant carrier or one of the defendant's registered agents for service of process that invited a response within a reasonable period of time and a brief summary of all additional steps taken to resolve the dispute prior to the filing of the formal complaint. If no additional steps were taken, such certificate shall state the reason(s) why the complainant believed such steps would be fruitless;
+(i) Specific reference shall be made to any tariff or contract provision relied on in support of a claim or defense. Copies of relevant tariffs, contracts, or relevant portions that are referred to or relied upon in a complaint, answer, or other pleading shall be appended to such pleading.
 
-(9) Whether a separate action has been filed with the Commission, any court, or other government agency that is based on the same claim or same set of facts, in whole or in part, or whether the complaint seeks prospective relief identical to the relief proposed or at issue in a notice-and-comment proceeding that is concurrently before the Commission;
+(j) Pleadings shall identify the name, address, telephone number, and email address for either the filing party's attorney or, where a party is not represented by an attorney, the filing party. Pleadings may be signed by a party's attorney.
 
-(10) An information designation containing:
+(k) All attachments shall be Bates-stamped or otherwise numbered sequentially. Parties shall cite to Bates-stamped page numbers in their pleadings.
 
-(i) The name, address, and position of each individual believed to have firsthand knowledge of the facts alleged with particularity in the complaint, along with a description of the facts within any such individual's knowledge;
+(l) Pleadings shall be served on all parties to the proceeding in accordance with § 1.734 and shall include a certificate of service.
 
-(ii) A description of all documents, data compilations and tangible things in the complainant's possession, custody, or control, that are relevant to the facts alleged with particularity in the complaint. Such description shall include for each document:
+(m) Each pleading or other submission must contain a written verification that the signatory has read the submission and, to the best of his or her knowledge, information and belief formed after reasonable inquiry, it is well grounded in fact and is warranted by existing law or a good faith argument for the extension, modification or reversal of existing law; and that it is not interposed for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of the proceeding. If any pleading or other submission is signed in violation of this provision, the Commission may upon motion or upon its own initiative impose appropriate sanctions.
 
-(A) The date it was prepared, mailed, transmitted, or otherwise disseminated;
+(n) Parties may petition the staff, pursuant to § 1.3, for a waiver of any of the rules governing formal complaints. Such waiver may be granted for good cause shown.
 
-(B) The author, preparer, or other source;
+(o) A complaint may, on request of the filing party, be dismissed without prejudice as a matter of right prior to the adoption date of any final action taken by the Commission with respect to the complaint. A request for the return of an initiating document will be regarded as a request for dismissal.
 
-(C) The recipient(s) or intended recipient(s);
+(p) Amendments or supplements to complaints to add new claims or requests for relief are prohibited.
 
-(D) Its physical location; and
+(q) Failure to prosecute a complaint will be cause for dismissal.
 
-(E) A description of its relevance to the matters contained in the complaint; and
+(r) Any document purporting to be a formal complaint which does not state a cause of action under the Communications Act, or a Commission regulation or order, will be dismissed. In such case, any amendment or supplement to such document will be considered a new filing which must be made within any applicable statutory limitations of actions.
 
-(iii) A complete description of the manner in which the complainant identified all persons with information and designated all documents, data compilations and tangible things as being relevant to the dispute, including, but not limited to, identifying the individual(s) that conducted the information search and the criteria used to identify such persons, documents, data compilations, tangible things, and information;
+(s) Any other pleading that does not conform with the requirements of the applicable rules may be deemed defective. In such case the Commission may strike the pleading or request that specified defects be corrected and that proper pleadings be filed with the Commission and served on all parties within a prescribed time as a condition to being made a part of the record in the proceeding.
 
-(11) Copies of all affidavits, documents, data compilations and tangible things in the complainant's possession, custody, or control, upon which the complainant relies or intends to rely to support the facts alleged and legal arguments made in the complaint;
+(t) Pleadings shall be construed so as to do justice.
 
-(12) A completed Formal Complaint Intake Form;
+(u) Any party that fails to respond to official correspondence, a request for additional information, or an order or directive from the Commission may be subject to appropriate sanctions.
 
-(13) A declaration, under penalty of perjury, by the complainant or complainant's counsel describing the amount, method, and date of the complainant's payment of the filing fee required under § 1.1106 and the complainant's 10-digit FCC Registration Number, if any;
-
-(14) A certificate of service; and
-
-(15) A FCC Registration Number is required under Part 1, Subpart W. Submission of a complaint without the FCC Registration Number as required by Part 1, subpart W will result in dismissal of the complaint.
-
-(b) The following format may be used in cases to which it is applicable, with such modifications as the circumstances may render necessary:
-
-Before the Federal Communications Commission, Washington, DC 20554
-
-In the matter of
-
-Complainant, v.Defendant.File No. (To be inserted by the Enforcement Bureau)ComplaintTo: The Commission.
-
-The complainant (here insert full name of each complainant and, if a corporation, the corporate title of such complainant) shows that:
-
-1. (Here state occupation, post office address, and telephone number of each complainant).
-
-2. (Here insert the name, occupation and, to the extent known, address and telephone number of defendants).
-
-3. (Here insert fully and clearly the specific act or thing complained of, together with such facts as are necessary to give a full understanding of the matter, including relevant legal and documentary support).
-
-Wherefore, complainant asks (here state specifically the relief desired).
-
-(Date)(Name of each complainant)(Name, address, and telephone number of attorney, if any)
-
-(c) Where the complaint is filed pursuant to § 47 U.S.C. § 271(d)(6)(B), the complainant shall clearly indicate whether or not it is willing to waive the ninety-day resolution deadline contained within 47 U.S.C. 271(d)(6)(B), in accordance with the requirements of § 1.736.
-
-(d) The complainant may petition the staff, pursuant to § 1.3, for a waiver of any of the requirements of this section. Such waiver may be granted for good cause shown.
-
-(e) *Supplemental complaints.* (1) Supplemental complaints filed pursuant to § 1.722 shall conform to the requirements set out in this section and § 1.720, except that the requirements in §§ 1.720(b), 1.721(a)(4), (a) (5), (a)(8), (9), (a)(12), and (a)(13) shall not apply to such supplemental complaints;
-
-(2) In addition, supplemental complaints filed pursuant to § 1.722 shall contain a complete statement of facts which, if proven true, would support complainant's calculation of damages for each category of damages for which recovery is sought. All material facts must be supported, pursuant to the requirements of § 1.720(c) and paragraph (a)(11) of this section, by relevant affidavits and other documentation. The statement of facts shall include a detailed explanation of the matters relied upon, including a full identification or description of the communications, transmissions, services, or other matters relevant to the calculation of damages and the nature of any injury allegedly sustained by the complainant. Assertions based on information and belief are expressly prohibited unless made in good faith and accompanied by an affidavit explaining the basis for the complainant's belief and why the complainant could not reasonably ascertain the facts from the defendant or any other source;
-
-(3) Supplemental complaints filed pursuant to § 1.722 shall contain a certification that the complainant has, in good faith, discussed or attempted to discuss the possibility of settlement with respect to damages for which recovery is sought with each defendant prior to the filing of the supplemental complaint. Such certification shall include a statement that, no later than 30 days after the release of the liability order, the complainant mailed a certified letter to the primary individual who represented the defendant carrier during the initial complaint proceeding outlining the allegations that form the basis of the supplemental complaint it anticipates filing with the Commission and inviting a response from the carrier within a reasonable period of time. The certification shall also contain a brief summary of all additional steps taken to resolve the dispute prior to the filing of the supplemental complaint. If no additional steps were taken, such certification shall state the reason(s) why the complainant believed such steps would be fruitless.
-
-(f) *Complaints on the Accelerated Docket.* For the purpose of this paragraph (e), the term document also shall include data compilations and tangible things.
-
-(1) Formal complaints that have been accepted onto the Accelerated Docket shall conform to the requirements set out in this section with the following listed exceptions:
-
-(i) The requirement in § 1.720(c) and paragraphs (a)(5) and (a)(11) of this section that factual assertions be supported by affidavit shall not apply to complaints on the Accelerated Docket. Nevertheless, allegations of material fact, whether based on personal knowledge or information and belief, that cannot be supported by documentation remain subject to the provisions of § 1.52.
-
-(ii) Complaints on the Accelerated Docket are not required to include proposed findings of fact, conclusions of law, and legal analysis relevant to the claims and arguments set forth in the complaint, as required in paragraph (a)(6) of this section. Nevertheless, complaints on the Accelerated Docket shall fully set out the facts and legal theories on which the complainant premises its claims.
-
-(iii) In light of the requirement for staff-supervised settlement negotiations in § 1.730(b), complaints on the Accelerated Docket are not required to include a certification that the complainant has discussed or attempted to discuss the possibility of settlement with each defendant, as required in paragraph (a)(8) of this section.
-
-(iv) In light of the automatic document production required in § 1.729(i)(1), complaints on the Accelerated Docket are not required to include a description of all relevant documents in the complainant's possession, custody or control, as required in paragraph (a)(10)(ii) of this section.
-
-(v) Complaints on the Accelerated Docket are not required to provide the description, required in paragraph (a)(10)(iii) of this section, of the manner in which the complainant identified persons with knowledge of, and documents relevant to, the dispute.
-
-(2) Formal complaints that have been accepted onto the Accelerated Docket will comply with the following requirements in addition to those requirements generally applicable in formal complaint proceedings:
-
-(i) As required in § 1.729(i)(1), complaints on the Accelerated Docket shall be accompanied, when served on defendants, by copies of documents, within the complainant's possession, custody or control, that are likely to bear significantly on the issues raised in the complaint. Unless otherwise directed, these documents shall not be filed with the Commission.
-
-(ii) Complaints on the Accelerated Docket will bear the following notation in bold typeface above the normal caption on the first page: “Accelerated Docket Proceeding: Answer Due Within Ten Days of Service Date.”
-
-[53 FR 11853, Apr. 11, 1988, as amended at 63 FR 1035, Jan. 7, 1998; 63 FR 41446, Aug. 4, 1998; 64 FR 60725, Nov. 8, 1999; 66 FR 16616, Mar. 27, 2001; 66 FR 47895, Sept. 14, 2001; 69 FR 41130, July 7, 2004; 79 FR 73845, Dec. 12, 2014]
+[83 FR 44832, Sept. 4, 2018]

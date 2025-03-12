@@ -1,5 +1,7 @@
 ##### § 229.508 (Item 508) Plan of distribution. #####
 
+Link to an amendment published at 83 FR 50211, Oct. 4, 2018.
+
 (a) *Underwriters and underwriting obligation.* If the securities are to be offered through underwriters, name the principal underwriters, and state the respective amounts underwritten. Identify each such underwriter having a material relationship with the registrant and state the nature of the relationship. State briefly the nature of the obligation of the underwriter(s) to take the securities.
 
 *Instruction to paragraph 508(a):* All that is required as to the nature of the underwriters' obligation is whether the underwriters are or will be committed to take and to pay for all of the securities if any are taken, or whether it is merely an agency or the type of *best efforts* arrangement under which the underwriters are required to take and to pay for only such securities as they may sell to the public. Conditions precedent to the underwriters' taking the securities, including *market-outs,* need not be described except in the case of an agency or *best efforts* arrangement.

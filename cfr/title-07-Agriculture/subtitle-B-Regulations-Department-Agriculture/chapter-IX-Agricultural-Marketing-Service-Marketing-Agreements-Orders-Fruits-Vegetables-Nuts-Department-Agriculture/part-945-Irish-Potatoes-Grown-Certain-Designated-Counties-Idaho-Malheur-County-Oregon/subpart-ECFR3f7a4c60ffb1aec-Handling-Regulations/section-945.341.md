@@ -1,5 +1,7 @@
 ##### § 945.341 Handling regulation. #####
 
+Link to an amendment published at 83 FR 49779, Oct. 3, 2018.
+
 No person shall handle any lot of potatoes unless such potatoes meet the requirements of paragraphs (a) through (d) of this section, or unless such potatoes are handled in accordance with paragraphs (e) and (f), or (g) of this section.
 
 (a) *Minimum quality requirements* - (1) *Grade - All varieties.* U.S. No. 2 or better grade.

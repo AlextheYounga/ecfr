@@ -1,5 +1,7 @@
 ##### § 210.10-01 Interim financial statements. #####
 
+Link to an amendment published at 83 FR 50205, Oct. 4, 2018.
+
 (a) *Condensed statements.* Interim financial statements shall follow the general form and content of presentation prescribed by the other sections of this Regulation with the following exceptions:
 
 (1) Interim financial statements required by this rule need only be provided as to the registrant and its subsidiaries consolidated and may be unaudited. Separate statements of other entities which may otherwise be required by this regulation may be omitted.

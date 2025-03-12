@@ -1,5 +1,7 @@
 ##### § 210.3-02 Consolidated statements of income and changes in financial positions. #####
 
+Link to an amendment published at 83 FR 50198, Oct. 4, 2018.
+
 (a) There shall be filed, for the registrant and its subsidiaries consolidated and for its predecessors, audited statements of income and cash flows for each of the three fiscal years preceding the date of the most recent audited balance sheet being filed or such shorter period as the registrant (including predecessors) has been in existence. A registrant that is an emerging growth company, as defined in Rule 405 of the Securities Act (§ 230.405 of this chapter) or Rule 12b-2 of the Exchange Act (§ 240.12b-2 of this chapter), may, in a Securities Act registration statement for the initial public offering of the emerging growth company's equity securities, provide audited statements of income and cash flows for each of the two fiscal years preceding the date of the most recent audited balance sheet (or such shorter period as the registrant has been in existence).
 
 (b) In addition, for any interim period between the latest audited balance sheet and the date of the most recent interim balance sheet being filed, and for the corresponding period of the preceding fiscal year, statements of income and cash flows shall be provided. Such interim financial statements may be unaudited and need not be presented in greater detail than is required by § 210.10-01.

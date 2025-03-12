@@ -1,5 +1,7 @@
 ##### § 210.3-15 Special provisions as to real estate investment trusts. #####
 
+Link to an amendment published at 83 FR 50199, Oct. 4, 2018.
+
 (a)(1) The income statement prepared pursuant to § 210.5-03 shall include the following additional captions between those required by § 210.5-03.15 and 16: (i) Income or loss before gain or loss on sale of properties, extraordinary items and cumulative effects of accounting changes, and (ii) gain or loss on sale of properties, less applicable income tax.
 
 (2) The balance sheet required by § 210.5-02 shall set forth in lieu of the captions required by § 210.5-02.31(a)(3): (i) The balance of undistributed income from other than gain or loss on sale of properties and (ii) accumulated undistributed net realized gain or loss on sale of properties. The information specified in § 210.3-04 shall be modified similarly.

@@ -1,9 +1,15 @@
-##### § 1.728 Formal complaints not stating a cause of action; defective pleadings. #####
+##### § 1.728 Replies. #####
 
-Link to an amendment published at 83 FR 44832, September 4, 2018.
+(a) A complainant shall file and serve a reply within 10 calendar days of service of the answer, unless otherwise directed by the Commission. The reply shall contain statements of relevant, material facts and legal arguments that respond to the factual allegations and legal arguments made by the defendant. Other allegations or arguments will not be considered by the Commission.
 
-(a) Any document purporting to be a formal complaint which does not state a cause of action under the Communications Act will be dismissed. In such case, any amendment or supplement to such document will be considered a new filing which must be made within the statutory periods of limitations of actions contained in section 415 of the Communications Act.
+(b) Failure to reply will not be deemed an admission of any allegations contained in the responsive pleading, except with respect to any affirmative defense set forth therein. Failure to reply to an affirmative defense shall be deemed an admission of such affirmative defense and of any facts supporting such affirmative defense that are not specifically contradicted in the complaint.
 
-(b) Any other pleading filed in a formal complaint proceeding not in conformity with the requirements of the applicable rules in this part may be deemed defective. In such case the Commission may strike the pleading or request that specified defects be corrected and that proper pleadings be filed with the Commission and served on all parties within a prescribed time as a condition to being made a part of the record in the proceeding.
+(c) The reply shall include legal analysis relevant to the claims and arguments set forth therein.
 
-[53 FR 11854, Apr. 11, 1988]
+(d) The reply shall include an information designation containing:
+
+(1) The name and, if known, the address and telephone number of each individual likely to have information relevant to the proceeding and addressed in the reply, along with the subjects of that information, excluding individuals otherwise identified in the complaint, answer, reply, or exhibits thereto, and individuals employed by another party; and
+
+(2) A copy—or a description by category and location—of all relevant documents, electronically stored information, and tangible things that the disclosing party has in its possession, custody, or control that are addressed in the reply, excluding documents submitted with the complaint or answer.
+
+[83 FR 44832, Sept. 4, 2018]

@@ -1,5 +1,7 @@
 ##### § 210.6-07 Statements of operations. #####
 
+Link to an amendment published at 83 FR 50202, Oct. 4, 2018.
+
 Statements of operations filed by registered investment companies, other than issuers of face-amount certificates, subject to the special provisions of § 210.6-08, and business development companies, shall comply with the following provisions:
 
 Statements of Operations

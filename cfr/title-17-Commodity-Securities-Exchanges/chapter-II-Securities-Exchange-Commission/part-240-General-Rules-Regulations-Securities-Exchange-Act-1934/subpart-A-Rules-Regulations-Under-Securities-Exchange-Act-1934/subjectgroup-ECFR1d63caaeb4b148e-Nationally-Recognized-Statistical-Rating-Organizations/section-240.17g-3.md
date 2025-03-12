@@ -1,5 +1,7 @@
 ##### § 240.17g-3 Annual financial and other reports to be filed or furnished by nationally recognized statistical rating organizations. #####
 
+Link to an amendment published at 83 FR 50223, Oct. 4, 2018.
+
 (a) A nationally recognized statistical rating organization must annually, not more than 90 calendar days after the end of its fiscal year (as indicated on its current Form NRSRO):
 
 (1) File with the Commission a financial report, as of the end of the fiscal year, containing audited financial statements of the nationally recognized statistical rating organization or audited consolidated financial statements of its parent if the nationally recognized statistical rating organization is a separately identifiable division or department of the parent. The audited financial statements must:
