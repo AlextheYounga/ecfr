@@ -1,5 +1,7 @@
 ##### § 635.604 ID/IQ Requirements. #####
 
+Link to an amendment published at 87 FR 67558, Nov. 9, 2022.
+
 (a) *Procurement requirements.*
 
 (1) The contracting agency may procure the ID/IQ contract using applicable State or local competitive selection procurement procedures if those procedures:

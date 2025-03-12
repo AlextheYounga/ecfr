@@ -1,5 +1,7 @@
 ##### § 635.309 Authorization. #####
 
+Link to an amendment published at 87 FR 67558, Nov. 9, 2022.
+
 Authorization to advertise the physical construction for bids or to proceed with force account construction thereof shall normally be issued as soon as, but not until, all of the following conditions have been met:
 
 (a) The plans, specifications, and estimates (PS&E) have been approved.
