@@ -1,0 +1,3 @@
+##### § 1148.2 How will the Arts Endowment make proactive disclosures? #####
+
+Records that the Arts Endowment makes available for public inspection in an electronic format may be accessed through the Arts Endowment's open government page, available at *https://www.arts.gov/open.* The Arts Endowment will determine which of its records should be made publicly available, identify additional records of interest to the public that are appropriate for public disclosure, and post and index such records. The Arts Endowment will ensure that its website of posted records and indices is reviewed and updated on an ongoing basis.

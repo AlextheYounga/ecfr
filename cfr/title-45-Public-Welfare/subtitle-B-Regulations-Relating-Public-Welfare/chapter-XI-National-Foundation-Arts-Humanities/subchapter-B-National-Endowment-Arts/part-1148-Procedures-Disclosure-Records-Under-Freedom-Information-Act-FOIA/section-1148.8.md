@@ -1,0 +1,15 @@
+##### § 1148.8 How can I appeal a denial of my request? #####
+
+(a) *Requirements for making an appeal.* A requester may appeal any adverse determinations to the Arts Endowment's office designated to receive FOIA appeals (“FOIA Appeals Office”). Examples of adverse determinations are provided in § 1148.6(e). Requesters can submit appeals by mail by writing to Arts Endowment Chairman, c/o Office of General Counsel, National Endowment for the Arts, 400 7th Street SW, Washington, DC 20506, or online in accordance with instructions on the Arts Endowment's website (*https://www.arts.gov/freedom-information-act-guide*). The requester must make the appeal in writing and to be considered timely it must be postmarked, or in the case of electronic submissions, transmitted, within 90 calendar days after the date of the adverse determination. The appeal should clearly identify the Arts Endowment's determination that is being appealed and the assigned request number. To facilitate handling, the requester should mark both the appeal letter and envelope, or subject line of the electronic transmission, “Freedom of Information Act Appeal.”
+
+(b) *Adjudication of appeals.* (1) The Arts Endowment's Chairperson or his/her designee will act on behalf of the Arts Endowment's Chief FOIA Officer on all appeals under this section.
+
+(2) An appeal ordinarily will not be adjudicated if the request becomes a matter of FOIA litigation.
+
+(c) *Decisions on appeals.* The Arts Endowment will provide its decision on an appeal in writing. A decision that upholds the Arts Endowment's determination in whole or in part will contain a statement that identifies the reasons for its decision, including any FOIA exemptions applied. The decision will provide the requester with notification of the statutory right to file a lawsuit and will inform the requester of the dispute resolution services offered by the Office of Government Information Services (OGIS) of the National Archives and Records Administration as a non-exclusive alternative to litigation. If the Arts Endowment's decision is remanded or modified on appeal, the Arts Endowment will notify the requester of that determination in writing. The Arts Endowment will then further process the request in accordance with that appeal determination and will respond directly to the requester.
+
+(d) *Engaging in dispute resolution services provided by OGIS.* Dispute resolution is a voluntary process. If the Arts Endowment agrees to participate in the dispute resolution services provided by OGIS, it will actively engage as a partner to the process in an attempt to resolve the dispute.
+
+(e) *When appeal is required.* Before seeking review by a court of the Arts Endowment's adverse determination, a requester generally must first submit a timely administrative appeal.
+
+(f) *Timing of appeal.* After receiving the Arts Endowment's adverse determination, a requester has 90 calendar days to file an appeal in order for it to be considered timely. The Arts Endowment will not process or consider appeals that were not filed within 90 calendar days of the date of an adverse determination.

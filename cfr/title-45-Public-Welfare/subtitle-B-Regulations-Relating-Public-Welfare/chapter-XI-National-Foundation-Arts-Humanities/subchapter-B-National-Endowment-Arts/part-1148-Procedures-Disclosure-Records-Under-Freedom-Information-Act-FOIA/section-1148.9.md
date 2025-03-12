@@ -1,0 +1,3 @@
+##### § 1148.9 What are the Arts Endowment policies regarding preservation of records? #####
+
+The Arts Endowment will preserve all correspondence pertaining to the requests that it receives under this part, as well as copies of all requested records, until disposition or destruction is authorized pursuant to title 44 of the United States Code or the General Records Schedule 4.2 of the National Archives and Records Administration. The Arts Endowment will not dispose of or destroy records while they are the subject of a pending request, appeal, or lawsuit under the FOIA.

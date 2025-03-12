@@ -1,0 +1,35 @@
+##### § 301.6227-2 Determining and accounting for adjustments requested in an administrative adjustment request by the partnership. #####
+
+(a) *Determining whether adjustments result in an imputed underpayment*—(1) *Determination of an imputed underpayment.* The determination of whether adjustments requested in an administrative adjustment request (AAR) result in an imputed underpayment in the reviewed year (as defined in § 301.6241-1(a)(8)) and the determination of the amount of any imputed underpayment is made in accordance with the rules under § 301.6225-1.
+
+(2) *Modification of imputed underpayment for purposes of this section.* A partnership may apply modifications to the amount of an imputed underpayment determined under paragraph (a)(1) of this section using only the provisions under § 301.6225-2(d)(3) (regarding tax-exempt partners), § 301.6225-2(d)(4) (regarding modification of applicable tax rate), § 301.6225-2(d)(5) (regarding specified passive activity losses), § 301.6225-2(d)(6)(ii) (regarding limitations or restrictions in the grouping of adjustments), § 301.6225-2(d)(7) (regarding certain qualified investment entities), § 301.6225-2(d)(9) (regarding tax treaty modifications), or as provided in forms, instructions, or other guidance prescribed by the IRS with respect to AARs. The partnership may not modify an imputed underpayment resulting from adjustments requested in an AAR except as described in this paragraph (a)(2). When applying modifications to the amount of an imputed underpayment under this paragraph (a)(2):
+
+(i) The partnership is not required to seek the approval from the Internal Revenue Service (IRS) prior to applying modifications to the amount of any imputed underpayment under paragraph (a)(1) of this section reported on the AAR; and
+
+(ii) As part of the AAR filed with the IRS in accordance with forms, instructions, and other guidance prescribed by the IRS, the partnership must—
+
+(A) Notify the IRS of any modification;
+
+(B) Describe the effect of the modification on the imputed underpayment;
+
+(C) Provide an explanation of the basis for such modification; and
+
+(D) Provide documentation to support the partnership's eligibility for the modification.
+
+(b) *Adjustments resulting in an imputed underpayment taken into account by the partnership*—(1) *In general.* Except in the case of a valid election under paragraph (c) of this section, a partnership must pay any imputed underpayment (as determined under paragraph (a) of this section) resulting from the adjustments requested in an AAR on the date the partnership files the AAR. For the rules applicable to the partnership's expenditure for an imputed underpayment, as well as any penalties and interest paid by the partnership with respect to an imputed underpayment, see § 301.6241-4.
+
+(2) *Penalties and interest.* The IRS may impose a penalty, addition to tax, and additional amount with respect to any imputed underpayment determined under this section in accordance with section 6233(a)(3) (penalties determined from the reviewed year). In addition, the IRS may impose a penalty, addition to tax, and additional amount with respect to a failure to pay any imputed underpayment on the date an AAR is filed in accordance with section 6233(b)(3) (penalties with respect to the adjustment year return). Interest on an imputed underpayment is determined under chapter 67 of the Internal Revenue Code for the period beginning on the date after the due date of the partnership return for the reviewed year (as defined in § 301.6241-1(a)(8)) (determined without regard to extension) and ending on the date the AAR is filed. See § 301.6233(a)-1(b). In the case of any failure to pay an imputed underpayment on the date the AAR is filed, interest is determined in accordance with section 6233(b)(2) and § 301.6233(b)-1(c).
+
+(3) *Coordination with chapters 3 and 4 of the Internal Revenue Code*—(i) *Coordination when partnership pays an imputed underpayment.* If a partnership pays an imputed underpayment resulting from adjustments requested in an AAR under paragraph (b)(1) of this section, the rules in § 301.6241-6(b)(3) apply to treat the partnership as having paid the amount required to be withheld under chapter 3 or chapter 4 (as defined in § 301.6241-6(b)(2)).
+
+(ii) *Coordination when partnership elects to have adjustments taken into account by reviewed year partners.* If a partnership elects under paragraph (c) of this section to have its reviewed year partners take into account adjustments requested in an AAR, the rules in § 301.6226-2(g)(3) apply to the partnership, and the rules in § 301.6226-3(f) apply to the reviewed year partners that take into account the adjustments pursuant to § 301.6227-3.
+
+(c) *Election to have adjustments resulting in an imputed underpayment taken into account by reviewed year partners.* In lieu of paying an imputed underpayment under paragraph (b) of this section, the partnership may elect to have each reviewed year partner (as defined in § 301.6241-1(a)(9)) take into account the adjustments requested in the AAR that are associated with such imputed underpayment in accordance with § 301.6227-3. A partnership makes an election under this paragraph (c) at the time the AAR is filed in accordance with the forms, instructions, and other guidance prescribed by the IRS. If the partnership makes a valid election in accordance with this paragraph (c), the partnership is not liable for, nor required to pay, the imputed underpayment to which the election relates. Rather, each reviewed year partner must take into account their share of the adjustments requested in the AAR that are associated with such imputed underpayment in accordance with § 301.6227-3. If an election is made under this paragraph (c) with respect to an imputed underpayment, modifications applied under paragraph (a)(2) of this section to such imputed underpayment are disregarded and all adjustments requested in the AAR that are associated with such imputed underpayment must be taken into account by each reviewed year partner in accordance with § 301.6227-3.
+
+(d) *Adjustments not resulting in an imputed underpayment.* If any adjustments requested in an AAR are adjustments that do not result in an imputed underpayment (as determined under paragraph (a) of this section), the partnership must furnish statements to each reviewed year partner and file such statements with the IRS in accordance with § 301.6227-1. Each reviewed year partner must take into account its share of the adjustments that do not result in an imputed underpayment requested in the AAR in accordance with § 301.6227-3.
+
+(e) *Applicability date*—(1) *In general.* Except as provided in paragraph (e)(2) of this section, this section applies to partnership taxable years beginning after December 31, 2017, and ending after August 12, 2018.
+
+(2) *Election under § 301.9100-22 in effect.* This section applies to any partnership taxable year beginning after November 2, 2015, and before January 1, 2018, for which a valid election under § 301.9100-22 is in effect.
+
+[T.D. 9844, 84 FR 6559, Feb. 27, 2019]
