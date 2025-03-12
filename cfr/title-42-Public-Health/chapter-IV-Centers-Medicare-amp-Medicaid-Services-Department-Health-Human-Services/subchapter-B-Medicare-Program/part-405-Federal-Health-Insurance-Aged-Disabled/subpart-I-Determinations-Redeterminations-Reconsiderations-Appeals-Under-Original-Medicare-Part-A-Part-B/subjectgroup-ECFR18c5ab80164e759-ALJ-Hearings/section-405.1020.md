@@ -1,14 +1,12 @@
 ##### § 405.1020 Time and place for a hearing before an ALJ. #####
 
-Link to an amendment published at 84 FR 19870, May 7, 2019.
-
 (a) *General.* The ALJ sets the time and place for the hearing, and may change the time and place, if necessary.
 
-(b) *Determining how appearances are made* - (1) *Appearances by unrepresented beneficiaries.* The ALJ will direct that the appearance of an unrepresented beneficiary who filed a request for hearing be conducted by video-teleconferencing (VTC) if the ALJ finds that VTC technology is available to conduct the appearance, unless the ALJ find good cause for an in-person appearance.
+(b) *Determining how appearances are made*—(1) *Appearances by unrepresented beneficiaries.* The ALJ will direct that the appearance of an unrepresented beneficiary who filed a request for hearing be conducted by video-teleconferencing (VTC) if the ALJ finds that VTC technology is available to conduct the appearance, unless the ALJ find good cause for an in-person appearance.
 
 (i) The ALJ may also offer to conduct a hearing by telephone if the request for hearing or administrative record suggests that a telephone hearing may be more convenient for the unrepresented beneficiary.
 
-(ii) The ALJ, with the concurrence of the Chief ALJ or designee, may find good cause that an in-person hearing should be conducted if -
+(ii) The ALJ, with the concurrence of the Chief ALJ or designee, may find good cause that an in-person hearing should be conducted if—
 
 (A) VTC or telephone technology is not available; or
 
@@ -18,13 +16,13 @@ Link to an amendment published at 84 FR 19870, May 7, 2019.
 
 (i) The ALJ may find good cause for an appearance by VTC if he or she determines that VTC is necessary to examine the facts or issues involved in the appeal.
 
-(ii) The ALJ, with the concurrence of the Chief ALJ or designee, also may find good cause that an in-person hearing should be conducted if -
+(ii) The ALJ, with the concurrence of the Chief ALJ or designee, also may find good cause that an in-person hearing should be conducted if—
 
 (A) VTC and telephone technology are not available; or
 
 (B) Special or extraordinary circumstances exist.
 
-(c) *Notice of hearing.* (1) A notice of hearing is sent to all parties that filed an appeal or participated in the reconsideration, any party who was found liable for the services at issue subsequent to the initial determination or may be found liable based on a review of the record, the QIC that issued the reconsideration, and CMS or a contractor that elected to participate in the proceedings in accordance with § 405.1010(b) or that the ALJ believes would be beneficial to the hearing, advising them of the proposed time and place of the hearing.
+(c) *Notice of hearing.* (1) A notice of hearing is sent to all parties that filed an appeal or participated in the reconsideration; any party who was found liable for the services at issue subsequent to the initial determination or may be found liable based on a review of the record; the QIC that issued the reconsideration or from which the request for reconsideration was escalated, or another contractor designated to receive the notice of hearing by CMS; and CMS or a contractor that elected to participate in the proceedings in accordance with § 405.1010(b) or that the ALJ believes would be beneficial to the hearing, advising them of the proposed time and place of the hearing.
 
 (2) The notice of hearing will require all parties to the ALJ hearing to reply to the notice by:
 
@@ -50,7 +48,9 @@ Link to an amendment published at 84 FR 19870, May 7, 2019.
 
 (4) The ALJ may change the time or place of the hearing if the party has good cause.
 
-(f) *Good cause for changing the time or place.* The ALJ can find good cause for changing the time or place of the scheduled hearing and reschedule the hearing if the information available to the ALJ supports the party's contention that -
+(5) If the party's objection to the place of the hearing includes a request for an in-person or VTC hearing, the objection and request are considered in paragraph (i) of this section.
+
+(f) *Good cause for changing the time or place.* The ALJ can find good cause for changing the time or place of the scheduled hearing and reschedule the hearing if the information available to the ALJ supports the party's contention that—
 
 (1) The party or his or her representative is unable to attend or to travel to the scheduled hearing because of a serious physical or mental condition, incapacitating injury, or death in the family; or
 
@@ -90,8 +90,8 @@ Link to an amendment published at 84 FR 19870, May 7, 2019.
 
 (4) When a party's request for an in-person or VTC hearing as specified under paragraph (i)(1) of this section is granted and an adjudication time frame applies in accordance with § 405.1016, the ALJ issues a decision, dismissal, or remand to the QIC within the adjudication time frame specified in § 405.1016 (including any applicable extensions provided in this subpart) unless the party requesting the hearing agrees to waive such adjudication time frame in writing.
 
-(5) The ALJ may grant the request, with the concurrence of the Chief ALJ or designee, upon a finding of good cause and will reschedule the hearing for a time and place when the party may appear in person or by VTC before the ALJ.
+(5) The ALJ may grant the request, with the concurrence of the Chief ALJ or designee if the request was for an in-person hearing, upon a finding of good cause and will reschedule the hearing for a time and place when the party may appear in person or by VTC before the ALJ. Good cause is not required for a request for VTC hearing made by an unrepresented beneficiary who filed the request for hearing and objects to an ALJ's offer to conduct a hearing by telephone.
 
 (j) *Amended notice of hearing.* If the ALJ changes or will change the time and/or place of the hearing, an amended notice of hearing must be sent to all of the parties who were sent a copy of the notice of hearing and CMS or its contractors that elected to be a participant or party to the hearing in accordance with § 405.1022(a).
 
-[70 FR 11472, Mar. 8, 2005, as amended at 70 FR 37704, June 30, 2005; 74 FR 65335, Dec. 9, 2009; 82 FR 5114, Jan. 17, 2017]
+[70 FR 11472, Mar. 8, 2005, as amended at 70 FR 37704, June 30, 2005; 74 FR 65335, Dec. 9, 2009; 82 FR 5114, Jan. 17, 2017; 84 FR 19870, May 7, 2019]

@@ -1,0 +1,3 @@
+##### § 303.8 Construction and waiver. #####
+
+The regulations of the Copyright Royalty Judges in this chapter are intended to provide efficient and just administrative proceedings and will be construed to advance these purposes. For purposes of an individual proceeding, the provisions of subchapters A and B may be suspended or waived, in whole or in part, upon a showing of good cause, to the extent allowable by law.

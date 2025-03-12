@@ -1,8 +1,6 @@
 ##### § 405.972 Withdrawal or dismissal of a request for reconsideration or review of a contractor's dismissal of a request for redetermination. #####
 
-Link to an amendment published at 84 FR 19870, May 7, 2019.
-
-(a) *Withdrawing a request.* An appellant that files a request for reconsideration may withdraw its request by filing a written and signed request for withdrawal. The request for withdrawal must -
+(a) *Withdrawing a request.* An appellant that files a request for reconsideration may withdraw its request by filing a written and signed request for withdrawal. The request for withdrawal must—
 
 (1) Contain a clear statement that the appellant is withdrawing the request for reconsideration and does not intend to proceed further with the appeal.
 
@@ -18,7 +16,7 @@ Link to an amendment published at 84 FR 19870, May 7, 2019.
 
 (4) When a beneficiary or the beneficiary's representative files a request for reconsideration, but the beneficiary dies while the request is pending, and all of the following criteria apply:
 
-(i) The beneficiary's surviving spouse or estate has no remaining financial interest in the case. In deciding this issue, the QIC considers if the surviving spouse or estate remains liable for the services for which payment was denied or a Medicare contractor held the beneficiary liable for subsequent similar services under the limitation of liability provisions based on the denial of payment for services at issue;
+(i) The beneficiary's surviving spouse or estate has no remaining financial interest in the case. In deciding this issue, the QIC considers if the surviving spouse or estate remains liable for the services for which payment was denied or a Medicare contractor held the beneficiary liable for subsequent similar services under the limitation on liability provisions based on the denial of payment for services at issue;
 
 (ii) No other individual or entity with a financial interest in the case wishes to pursue the appeal; and
 
@@ -30,8 +28,8 @@ Link to an amendment published at 84 FR 19870, May 7, 2019.
 
 (c) *Notice of dismissal.* A QIC mails or otherwise transmits written notice of the dismissal of the reconsideration request to the parties at their last known addresses. The notice states that there is a right to request that the contractor vacate the dismissal action. The appeal will proceed with respect to any other parties that have filed a timely request for reconsideration.
 
-(d) *Vacating a dismissal.* If good and sufficient cause is established, a QIC may vacate its dismissal of a request for reconsideration within 6 months of the date of the notice of dismissal.
+(d) *Vacating a dismissal.* If good and sufficient cause is established, a QIC may vacate its dismissal of a request for reconsideration within 180 calendar days of the date of the notice of dismissal.
 
 (e) *Effect of dismissal.* The dismissal of a request for reconsideration is binding unless it is modified or reversed by an ALJ or attorney adjudicator under § 405.1004 or vacated under paragraph (d) of this section. The dismissal of a request for review of a contractor's dismissal of a redetermination request is binding and not subject to further review unless vacated under paragraph (d) of this section.
 
-[70 FR 11472, Mar. 8, 2005, as amended at 74 FR 65334, Dec. 9, 2009; 82 FR 5107, Jan. 17, 2017]
+[70 FR 11472, Mar. 8, 2005, as amended at 74 FR 65334, Dec. 9, 2009; 82 FR 5107, Jan. 17, 2017; 84 FR 19870, May 7, 2019]

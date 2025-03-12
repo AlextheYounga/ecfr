@@ -1,8 +1,6 @@
 ##### § 405.970 Timeframe for making a reconsideration following a contractor redetermination. #####
 
-Link to an amendment published at 84 FR 19870, May 7, 2019.
-
-(a) *General rule.* Within 60 calendar days of the date the QIC receives a timely filed request for reconsideration following a contractor redetermination or any additional time provided by paragraph (b) of this section, the QIC mails, or otherwise transmits to the parties at their last known addresses, written notice of -
+(a) *General rule.* Within 60 calendar days of the date the QIC receives a timely filed request for reconsideration following a contractor redetermination or any additional time provided by paragraph (b) of this section, the QIC mails, or otherwise transmits to the parties at their last known addresses, written notice of—
 
 (1) The reconsideration;
 
@@ -20,9 +18,9 @@ Link to an amendment published at 84 FR 19870, May 7, 2019.
 
 (1) Notify all parties of its reconsideration, consistent with § 405.976.
 
-(2) Notify the parties that it cannot complete the reconsideration by the deadline specified in paragraph (b) of this section and offer the appellant the opportunity to escalate the appeal to an ALJ. The QIC continues to process the reconsideration unless it receives a written request from the appellant to escalate the case to an ALJ after the adjudication period has expired.
+(2) Notify the parties that it cannot complete the reconsideration by the deadline specified in paragraph (b) of this section and offer the appellant the opportunity to escalate the appeal to OMHA. The QIC continues to process the reconsideration unless it receives a written request from the appellant to escalate the case to OMHA after the adjudication period has expired.
 
-(d) *Responsibilities of the appellant.* If an appellant wishes to exercise the option of escalating the case to an ALJ, the appellant must notify the QIC in writing.
+(d) *Responsibilities of the appellant.* If an appellant wishes to exercise the option of escalating the case to OMHA, the appellant must notify the QIC in writing.
 
 (e) *Actions following appellant's notice.* (1) If the appellant fails to notify the QIC, or notifies the QIC that the appellant does not choose to escalate the case, the QIC completes its reconsideration following a contractor redetermination and notifies the appellant of its action consistent with § 405.972 or § 405.976.
 
@@ -32,4 +30,4 @@ Link to an amendment published at 84 FR 19870, May 7, 2019.
 
 (ii) Acknowledge the escalation notice in writing and forward the case file to OMHA.
 
-[70 FR 11472, Mar. 8, 2005, as amended at 70 FR 37702, June 30, 2005; 74 FR 65334, Dec. 9, 2009; 82 FR 5107, Jan. 17, 2017]
+[70 FR 11472, Mar. 8, 2005, as amended at 70 FR 37702, June 30, 2005; 74 FR 65334, Dec. 9, 2009; 82 FR 5107, Jan. 17, 2017; 84 FR 19870, May 7, 2019]

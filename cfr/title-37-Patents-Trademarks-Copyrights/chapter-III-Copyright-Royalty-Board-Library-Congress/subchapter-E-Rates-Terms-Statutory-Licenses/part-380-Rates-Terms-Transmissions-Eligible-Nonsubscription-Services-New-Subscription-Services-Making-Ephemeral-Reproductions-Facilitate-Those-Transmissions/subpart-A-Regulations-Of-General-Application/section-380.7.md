@@ -1,12 +1,14 @@
 ##### § 380.7 Definitions. #####
 
+*For purposes of this subpart, the following definitions apply:*
+
 *Aggregate Tuning Hours (ATH)* means the total hours of programming that the Licensee has transmitted during the relevant period to all listeners within the United States from all channels and stations that provide audio programming consisting, in whole or in part, of eligible nonsubscription transmissions or noninteractive digital audio transmissions as part of a new subscription service, less the actual running time of any sound recordings for which the Licensee has obtained direct licenses apart from 17 U.S.C. 114(d)(2) or which do not require a license under United States copyright law. By way of example, if a service transmitted one hour of programming containing Performances to 10 listeners, the service's ATH would equal 10 hours. If three minutes of that hour consisted of transmission of a directly-licensed recording, the service's ATH would equal nine hours and 30 minutes (three minutes times 10 listeners creates a deduction of 30 minutes). As an additional example, if one listener listened to a service for 10 hours (and none of the recordings transmitted during that time was directly licensed), the service's ATH would equal 10 hours.
 
 *Collective* means the collection and distribution organization that is designated by the Copyright Royalty Judges, and which, for the current rate period, is SoundExchange, Inc.
 
 *Commercial Webcaster* means a Licensee, other than a Noncommercial Webcaster or Public Broadcaster, that makes Ephemeral Recordings and eligible digital audio transmissions of sound recordings pursuant to the statutory licenses under 17 U.S.C. 112(e) and 114(d)(2).
 
-*Copyright owners* means sound recording copyright owners who are entitled to royalty payments made under Part 380 pursuant to the statutory licenses under 17 U.S.C. 112(e) and 114.
+*Copyright Owners* means sound recording copyright owners, and rights owners under 17 U.S.C. 1401(l)(2), who are entitled to royalty payments made under this part pursuant to the statutory licenses under 17 U.S.C. 112(e) and 114.
 
 *Digital audio transmission* has the same meaning as in 17 U.S.C. 114(j).
 
@@ -26,7 +28,7 @@
 
 *Performance* means each instance in which any portion of a sound recording is publicly performed to a listener by means of a digital audio transmission (*e.g.,* the delivery of any portion of a single track from a compact disc to one listener), but excludes the following:
 
-(1) A performance of a sound recording that does not require a license (*e.g.,* a sound recording that is not copyrighted);
+(1) A performance of a sound recording that does not require a license (*e.g.,* a sound recording that is not subject to protection under title 17, United States Code);
 
 (2) A performance of a sound recording for which the service has previously obtained a license from the Copyright Owner of such sound recording; and
 
@@ -43,3 +45,5 @@
 *Qualified auditor* means an independent Certified Public Accountant licensed in the jurisdiction where it seeks to conduct a verification.
 
 *Transmission* has the same meaning as in 17 U.S.C. 114(j).
+
+[81 FR 26406, May 2, 2016, as amended at 84 FR 32312, July 8, 2019]

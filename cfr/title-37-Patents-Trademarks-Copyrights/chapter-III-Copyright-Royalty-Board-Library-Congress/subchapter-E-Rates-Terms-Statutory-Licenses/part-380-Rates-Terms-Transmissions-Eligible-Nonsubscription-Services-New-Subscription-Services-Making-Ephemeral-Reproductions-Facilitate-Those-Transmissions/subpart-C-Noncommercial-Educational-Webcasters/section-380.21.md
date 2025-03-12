@@ -2,11 +2,11 @@
 
 For purposes of this subpart, the following definitions shall apply:
 
-*ATH or Aggregate Tuning Hours* means the total hours of programming that a Noncommercial Educational Webcaster has transmitted during the relevant period to all listeners within the United States over all channels and stations that provide audio programming consisting, in whole or in part, of Eligible Transmissions, including from any archived programs, less the actual running time of any sound recordings for which the Noncommercial Educational Webcaster has obtained direct licenses apart from 17 U.S.C. 114(d)(2) or which do not require a license under United States copyright law. By way of example, if a Noncommercial Educational Webcaster transmitted one hour of programming to 10 simultaneous listeners, the Noncommercial Educational Webcaster's Aggregate Tuning Hours would equal 10. If three minutes of that hour consisted of transmission of a directly licensed recording, the Noncommercial Educational Webcaster's Aggregate Tuning Hours would equal 9 hours and 30 minutes. As an additional example, if one listener listened to a Noncommercial Educational Webcaster for 10 hours (and none of the recordings transmitted during that time was directly licensed), the Noncommercial Educational Webcaster's Aggregate Tuning Hours would equal 10.
+*ATH or Aggregate Tuning Hours* means the total hours of programming that a Noncommercial Educational Webcaster has transmitted during the relevant period to all listeners within the United States over all channels and stations that provide audio programming consisting, in whole or in part, of Eligible Transmissions, including from any archived programs, less the actual running time of any sound recordings for which the Noncommercial Educational Webcaster has obtained direct licenses apart from 17 U.S.C. 114(d)(2) or which do not require a license under title 17, United States Code. By way of example, if a Noncommercial Educational Webcaster transmitted one hour of programming to 10 simultaneous listeners, the Noncommercial Educational Webcaster's Aggregate Tuning Hours would equal 10. If three minutes of that hour consisted of transmission of a directly licensed recording, the Noncommercial Educational Webcaster's Aggregate Tuning Hours would equal 9 hours and 30 minutes. As an additional example, if one listener listened to a Noncommercial Educational Webcaster for 10 hours (and none of the recordings transmitted during that time was directly licensed), the Noncommercial Educational Webcaster's Aggregate Tuning Hours would equal 10.
 
 *Collective* is the collection and distribution organization specified in § 380.2.
 
-*Copyright Owners* are sound recording copyright owners who are entitled to royalty payments made under this subpart pursuant to the statutory licenses under 17 U.S.C. 112(e) and 114(f).
+*Copyright Owners* are sound recording copyright owners, and rights owners under 17 U.S.C. 1401(l)(2), who are entitled to royalty payments made under this subpart pursuant to the statutory licenses under 17 U.S.C. 112(e) and 114(f).
 
 *Eligible Transmission* means an eligible nonsubscription transmission made by a Noncommercial Educational Webcaster over the Internet.
 
@@ -26,7 +26,7 @@ For purposes of this subpart, the following definitions shall apply:
 
 *Performance* is each instance in which any portion of a sound recording is publicly performed to a listener by means of a digital audio transmission (*e.g.,* the delivery of any portion of a single track from a compact disc to one listener) but excluding the following:
 
-(1) A performance of a sound recording that does not require a license (*e.g.,* a sound recording that is not copyrighted);
+(1) A performance of a sound recording that does not require a license (*e.g.,* a sound recording that is not subject to protection under title 17, United States Code);
 
 (2) A performance of a sound recording for which the Noncommercial Educational Webcaster has previously obtained a license from the Copyright Owner of such sound recording; and
 
@@ -40,4 +40,4 @@ For purposes of this subpart, the following definitions shall apply:
 
 *Qualified Auditor* is a Certified Public Accountant.
 
-[79 FR 23127, Apr. 25, 2014, as amended at 80 FR 58205, Sept. 28, 2015]
+[79 FR 23127, Apr. 25, 2014, as amended at 80 FR 58205, Sept. 28, 2015; 84 FR 32313, July 8, 2019]

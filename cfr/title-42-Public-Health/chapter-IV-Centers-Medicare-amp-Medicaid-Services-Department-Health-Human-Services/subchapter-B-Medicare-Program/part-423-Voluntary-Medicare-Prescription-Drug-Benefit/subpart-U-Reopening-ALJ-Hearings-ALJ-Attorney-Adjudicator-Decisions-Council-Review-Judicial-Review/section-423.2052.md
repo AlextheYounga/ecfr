@@ -1,10 +1,8 @@
 ##### § 423.2052 Dismissal of a request for a hearing before an ALJ or request for review of an IRE dismissal. #####
 
-Link to an amendment published at 84 FR 19872, May 7, 2019.
-
 (a) *Dismissal of request for hearing.* An ALJ dismisses a request for a hearing under any of the following conditions:
 
-(1) Neither the enrollee that requested the hearing nor the enrollee's representative appears at the time and place set for the hearing, if -
+(1) Neither the enrollee that requested the hearing nor the enrollee's representative appears at the time and place set for the hearing, if—
 
 (i) The enrollee was notified before the time set for the hearing that the request for hearing might be dismissed for failure to appear, the record contains documentation that the enrollee acknowledged the notice of hearing, and the enrollee does not contact the ALJ within 10 calendar days after the hearing for non-expedited hearings and 2 calendar days after the hearing for expedited hearings, or does contact the ALJ but the ALJ determines the enrollee did not demonstrate good cause for not appearing; or
 
@@ -14,13 +12,13 @@ Link to an amendment published at 84 FR 19872, May 7, 2019.
 
 (2) The person requesting a hearing has no right to it under § 423.2002.
 
-(3) The enrollee did not request a hearing within the stated time period and the ALJ or attorney adjudicator has not found good cause for extending the deadline, as provided in § 423.2014(e).
+(3) The enrollee did not request a hearing within the stated time period and the ALJ has not found good cause for extending the deadline, as provided in § 423.2014(e).
 
 (4) The enrollee died while the request for hearing is pending and the request for hearing was filed by the enrollee or the enrollee's representative, and the enrollee's surviving spouse or estate has no remaining financial interest in the case and the enrollee's representative, if any, does not wish to continue the appeal.
 
-(5) The ALJ or attorney adjudicator dismisses a hearing request entirely or refuses to consider any one or more of the issues because an IRE, an ALJ or attorney adjudicator, or the Council has made a previous determination or decision under this subpart about the enrollee's rights on the same facts and on the same issue(s), and this previous determination or decision has become binding by either administrative or judicial action.
+(5) The ALJ dismisses a hearing request entirely or refuses to consider any one or more of the issues because an IRE, an ALJ or attorney adjudicator, or the Council has made a previous determination or decision under this subpart about the enrollee's rights on the same facts and on the same issue(s), and this previous determination or decision has become binding by either administrative or judicial action.
 
-(6) The enrollee abandons the request for hearing. An ALJ or attorney adjudicator may conclude that an enrollee has abandoned a request for hearing when OMHA attempts to schedule a hearing and is unable to contact the enrollee after making reasonable efforts to do so.
+(6) The enrollee abandons the request for hearing. An ALJ may conclude that an enrollee has abandoned a request for hearing when OMHA attempts to schedule a hearing and is unable to contact the enrollee after making reasonable efforts to do so.
 
 (7) The enrollee's request is not complete in accordance with § 423.2014(a)(1), even after the enrollee is provided with an opportunity to complete the request.
 
@@ -38,6 +36,6 @@ Link to an amendment published at 84 FR 19872, May 7, 2019.
 
 (d) *Notice of dismissal.* OMHA mails or otherwise transmits a written notice of the dismissal of the hearing or review request to the enrollee at his or her last known address. The written notice provides that there is a right to request that the ALJ or attorney adjudicator vacate the dismissal action.
 
-(e) *Vacating a dismissal.* If good and sufficient cause is established, the ALJ or attorney adjudicator may vacate his or her dismissal of a request for hearing or review within 6 months of the date of the notice of dismissal.
+(e) *Vacating a dismissal.* If good and sufficient cause is established, the ALJ or attorney adjudicator may vacate his or her dismissal of a request for hearing or review within 180 calendar days of the date of the notice of dismissal.
 
-[82 FR 5135, Jan. 17, 2017]
+[82 FR 5135, Jan. 17, 2017, as amended at 84 FR 19873, May 7, 2019]

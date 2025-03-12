@@ -1,5 +1,7 @@
 ##### § 110.4 Penobscot Bay, Maine. #####
 
+Link to an amendment published at 84 FR 32271, July 8, 2019.
+
 (a) *Rockland Harbor.* Beginning at a point bearing 244°, 1,715 yards, from Rockland Breakwater Light; thence 260°, 490 yards, to a point bearing 248° from Rockland Breakwater Light; thence 350°, 580 yards, to a point bearing 263° from Rockland Breakwater Light; thence 83°, 480 yards, to a point bearing 263° from Rockland Breakwater Light; and thence 169°, 550 yards, to the point of beginning. This area is limited to vessels no greater than 20 meters in length.
 
 Note to paragraph (a):

@@ -1,5 +1,7 @@
 ##### § 922.3 Definitions. #####
 
+Link to an amendment published at 84 FR 32601, July 8, 2019.
+
 *Act* means title III of the Marine Protection, Research, and Sanctuaries Act of 1972, as amended, 16 U.S.C. 1431 *et seq.,* also known as the National Marine Sanctuaries Act.
 
 *Assistant Administrator* means the Assistant Administrator for Ocean Services and Coastal Zone Management, National Oceanic and Atmospheric Administration (NOAA), or designee.

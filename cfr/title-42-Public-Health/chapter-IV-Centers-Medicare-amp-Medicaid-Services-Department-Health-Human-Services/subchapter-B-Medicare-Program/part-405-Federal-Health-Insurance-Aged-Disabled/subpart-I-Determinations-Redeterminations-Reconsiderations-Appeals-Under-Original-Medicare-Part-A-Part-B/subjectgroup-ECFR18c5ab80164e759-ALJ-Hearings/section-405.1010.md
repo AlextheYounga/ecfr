@@ -1,20 +1,22 @@
 ##### § 405.1010 When CMS or its contractors may participate in the proceedings on a request for an ALJ hearing. #####
 
-Link to an amendment published at 84 FR 19870, May 7, 2019.
-
 (a) *When CMS or a contractor can participate.* (1) CMS or its contractors may elect to participate in the proceedings on a request for an ALJ hearing upon filing a notice of intent to participate in accordance with paragraph (b) of this section.
 
 (2) An ALJ may request, but may not require, CMS and/or one or more of its contractors to participate in any proceedings before the ALJ, including the oral hearing, if any. The ALJ cannot draw any adverse inferences if CMS or the contractor decides not to participate in any proceedings before the ALJ, including the hearing.
 
-(b) *How an election is made* - (1) *No notice of hearing.* If CMS or a contractor elects to participate before receipt of a notice of hearing, or when a notice of hearing is not required, it must send written notice of its intent to participate to the assigned ALJ or attorney adjudicator, or a designee of the Chief ALJ if the request for hearing is not yet assigned to an ALJ or attorney adjudicator, and the parties who were sent a copy of the notice of reconsideration.
+(b) *How an election is made*— (1) *No notice of hearing.* If CMS or a contractor elects to participate before receipt of a notice of hearing, or when a notice of hearing is not required, it must send written notice of its intent to participate to—
+
+(i) The assigned ALJ or attorney adjudicator, or a designee of the Chief ALJ if the request for hearing is not yet assigned to an ALJ or attorney adjudicator; and
+
+(ii) The parties who were sent a copy of the notice of reconsideration or, for escalated requests for reconsideration, any party that filed a request for reconsideration or was found liable for the services at issue subsequent to the initial determination.
 
 (2) *Notice of hearing.* If CMS or a contractor elects to participate after receipt of a notice of hearing, it must send written notice of its intent to participate to the ALJ and the parties who were sent a copy of the notice of hearing.
 
-(3) *Timing of election.* CMS or a contractor must send its notice of intent to participate -
+(3) *Timing of election.* CMS or a contractor must send its notice of intent to participate—
 
 (i) If no hearing is scheduled, no later than 30 calendar days after notification that a request for hearing was filed; or
 
-(ii) If a hearing is scheduled, no later than 10 calendar days after receiving the notice of hearing.
+(ii) If a hearing is scheduled, no later than 10 calendar days after receipt of the notice of hearing by the QIC or another contractor designated by CMS to receive the notice of hearing.
 
 (c) *Roles and responsibilities of CMS or a contractor as a participant.* (1) Subject to paragraphs (d)(1) through (3) of this section, participation may include filing position papers and/or providing testimony to clarify factual or policy issues in a case, but it does not include calling witnesses or cross-examining the witnesses of a party to the hearing.
 
@@ -22,11 +24,11 @@ Link to an amendment published at 84 FR 19870, May 7, 2019.
 
 (3) CMS or contractor position papers and written testimony are subject to the following:
 
-(i) A position paper or written testimony must be submitted within 14 calendar days of an election to participate if no hearing has been scheduled, or no later than 5 calendar days prior to the hearing if a hearing is scheduled unless the ALJ grants additional time to submit the position paper or written testimony.
+(i) Unless the ALJ or attorney adjudicator grants additional time to submit the position paper or written testimony, a position paper or written testimony must be submitted within 14 calendar days of an election to participate if no hearing has been scheduled, or no later than 5 calendar days prior to the hearing if a hearing is scheduled.
 
-(ii) A copy of any position paper or written testimony it submits to OMHA must be sent within the same time frame specified in paragraph (c)(3)(i) of this section to -
+(ii) A copy of any position paper or written testimony it submits to OMHA must be sent within the same time frame specified in paragraph (c)(3)(i) of this section to—
 
-(A) The parties who were sent a copy of the notice of reconsideration, if the position paper or written testimony is being submitted before receipt of a notice of hearing for the appeal; or
+(A) The parties that are required to be sent a copy of the notice of intent to participate in accordance with paragraph (b)(1) of this section, if the position paper or written testimony is being submitted before receipt of a notice of hearing for the appeal; or
 
 (B) The parties who were sent a copy of the notice of hearing, if the position paper or written testimony is being submitted after receipt of a notice of hearing for the appeal.
 
@@ -46,4 +48,4 @@ Link to an amendment published at 84 FR 19870, May 7, 2019.
 
 (ii) If a hearing is scheduled, the written notice of invalid election must be sent prior to the hearing. If the notice would be sent fewer than 5 calendar days before the hearing is scheduled to occur, oral notice must be provided to the entity that submitted the election, and the written notice must be sent as soon as possible after the oral notice is provided.
 
-[82 FR 5110, Jan. 17, 2017]
+[82 FR 5110, Jan. 17, 2017, as amended at 84 FR 19870, May 7, 2019]

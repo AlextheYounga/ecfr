@@ -10,7 +10,7 @@ For purposes of this subpart, the following definitions shall apply:
 
 *Collective* is the collection and distribution organization that is designated by the Copyright Royalty Judges.
 
-*Copyright Owners* are Sound Recording copyright owners who are entitled to royalty payments made under this subpart pursuant to the statutory licenses under 17 U.S.C. 112(e) and 114(f).
+*Copyright Owners* are Sound Recording copyright owners, and rights owners under 17 U.S.C. 1401(l)(2), who are entitled to royalty payments made under this subpart pursuant to the statutory licenses under 17 U.S.C. 112(e) and 114(f).
 
 *Covered Entities* are NPR, American Public Media, Public Radio International, and Public Radio Exchange, and up to 530 Originating Public Radio Stations as named by CPB. CPB shall notify SoundExchange annually of the eligible Originating Public Radio Stations to be considered Covered Entities hereunder (subject to the numerical limitations set forth herein). The number of Originating Public Radio Stations treated hereunder as Covered Entities shall not exceed 530 for a given year without SoundExchange's express written approval, except that CPB shall have the option to increase the number of Originating Public Radio Stations that may be considered Covered Entities as provided in section 380.32(c).
 
@@ -61,3 +61,5 @@ For purposes of this subpart, the following definitions shall apply:
 *Web site Performances* are all public performances by means of digital audio transmissions of Sound Recordings, including the transmission of any portion of any Sound Recording, made through an Authorized Web site in accordance with all requirements of 17 U.S.C. 114, from servers used by a Covered Entity (provided that the Covered Entity controls the content of all materials transmitted by the server), or by a contractor authorized pursuant to Section 380.32(f), that consist of either the retransmission of a Covered Entity's over-the-air terrestrial radio programming or the digital transmission of nonsubscription Side Channels that are programmed and controlled by the Covered Entity. This term does not include digital audio transmissions made by any other means.
 
 *Web site Users* are all those who access or receive Web site Performances or who access any Authorized Web site.
+
+[80 FR 59589, Oct. 2, 2015, as amended at 84 FR 32313, July 8, 2019]

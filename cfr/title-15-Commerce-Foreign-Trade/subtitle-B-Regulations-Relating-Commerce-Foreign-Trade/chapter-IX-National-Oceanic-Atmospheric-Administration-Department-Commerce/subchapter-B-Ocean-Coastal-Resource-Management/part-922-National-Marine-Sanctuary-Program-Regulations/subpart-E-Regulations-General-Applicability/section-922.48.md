@@ -1,5 +1,7 @@
 ##### § 922.48 National Marine Sanctuary permits - application procedures and issuance criteria. #####
 
+Link to an amendment published at 84 FR 32601, July 8, 2019.
+
 (a) A person may conduct an activity prohibited by subparts F through O, if conducted in accordance with the scope, purpose, terms and conditions of a permit issued under this section and subparts F through O, as appropriate. For the Florida Keys National Marine Sanctuary, a person may conduct an activity prohibited by subpart P if conducted in accordance with the scope, purpose, terms and conditions of a permit issued under § 922.166. For the Thunder Bay National Marine Sanctuary and Underwater Preserve, a person may conduct an activity prohibited by subpart R in accordance with the scope, purpose, terms and conditions of a permit issued under § 922.195.
 
 (b) Applications for permits to conduct activities otherwise prohibited by subparts F through O should be addressed to the Director and sent to the address specified in subparts F through O, or subpart R, as appropriate. An application must include:

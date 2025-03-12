@@ -6,7 +6,7 @@ For purposes of this part, the following definitions shall apply:
 
 *Collective* is the collection and distribution organization that is designated by the Copyright Royalty Judges. For the License Period, the Collective is SoundExchange, Inc.
 
-*Copyright Owners* are sound recording copyright owners who are entitled to royalty payments made under this part pursuant to the statutory license under 17 U.S.C. 112(e).
+*Copyright Owners* are sound recording copyright owners, and rights owners under 17 U.S.C. 1401(l)(2), who are entitled to royalty payments made under this part pursuant to the statutory license under 17 U.S.C. 112(e).
 
 *Ephemeral Recording* is a phonorecord created for the purpose of facilitating a transmission of a public performance of a sound recording under the limitations on exclusive rights specified by 17 U.S.C. 114(d)(1)(C)(iv), and subject to the limitations specified in 17 U.S.C. 112(e).
 
@@ -16,4 +16,4 @@ For purposes of this part, the following definitions shall apply:
 
 *Qualified Auditor* is a certified public accountant.
 
-[73 FR 16199, Mar. 27, 2008, as amended at 78 FR 66277, Nov. 5, 2013]
+[73 FR 16199, Mar. 27, 2008, as amended at 78 FR 66277, Nov. 5, 2013; 84 FR 32313, July 8, 2019]

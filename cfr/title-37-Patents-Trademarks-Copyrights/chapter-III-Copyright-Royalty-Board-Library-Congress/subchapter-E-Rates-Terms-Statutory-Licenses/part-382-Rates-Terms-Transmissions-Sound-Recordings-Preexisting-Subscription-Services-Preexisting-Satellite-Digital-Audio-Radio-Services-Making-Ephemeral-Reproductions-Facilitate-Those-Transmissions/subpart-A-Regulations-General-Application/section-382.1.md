@@ -4,7 +4,7 @@ In this subpart:
 
 *Collective* means the collection and distribution organization that is designated by the Copyright Royalty Judges.
 
-*Copyright Owners* means sound recording copyright owners who are entitled to royalty payments made under part 382 pursuant to the statutory licenses under 17 U.S.C. 112(e) and 114.
+*Copyright Owners* means sound recording copyright owners, and rights owners under 17 U.S.C. 1401(l)(2), who are entitled to royalty payments made under this part pursuant to the statutory licenses under 17 U.S.C. 112(e) and 114.
 
 *Digital Audio Transmission* has the same meaning as in 17 U.S.C. 114(j)(5).
 
@@ -33,3 +33,5 @@ In this subpart:
 *Transmission* has the same meaning as in 17 U.S.C. 114(j)(15).
 
 *Verifying Entity* means the party requesting an audit and giving notice of intent to audit. For audits of SDARS and PSS, the Verifying Entity is SoundExchange, Inc. For audits of SoundExchange, Inc. the Verifying Entity is any Copyright Owner or its authorized representative.
+
+[83 FR 65265, Dec. 19, 2018, as amended at 84 FR 32313, July 8, 2019]

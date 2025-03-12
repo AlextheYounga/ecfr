@@ -1,10 +1,18 @@
 ##### § 423.2136 Judicial review. #####
 
-Link to an amendment published at 84 FR 19874, May 7, 2019.
+(a) *General rule*—(1) *Review of Council decision.* To the extent authorized by sections 1876(c)(5)(B) and 1860D-4(h) of the Act, an enrollee may obtain a court review of a Council decision if—
 
-(a) *General rule.* To the extent authorized by sections 1876(c)(5)(B) and 1860D-4(h) of the Act and consistent with § 423.1976, an enrollee may obtain a court review of a Council decision if the amount in controversy meets the threshold requirement estimated annually by the Secretary.
+(i) It is a final decision of the Secretary; and
 
-(b) *Court in which to file civil action.* (1) Consistent with § 423.1976(c), any civil action described in paragraph (a) of this section must be filed in the District Court of the United States for the judicial district in which the enrollee resides.
+(ii) The amount in controversy meets the threshold requirements of § 423.2006.
+
+(2) *Review of ALJ's or attorney adjudicator's decision.* To the extent authorized by sections 1876(c)(5)(B) and 1860D-4(h) of the Act, the enrollee may request judicial review of an ALJ's or attorney adjudicator's decision if—
+
+(i) The Council denied the enrollee's request for review; and
+
+(ii) The amount in controversy meets the threshold requirements of § 423.2006.
+
+(b) *Court in which to file civil action.* (1) Any civil action described in paragraph (a) of this section must be filed in the District Court of the United States for the judicial district in which the enrollee resides.
 
 (2) If the enrollee does not reside within any judicial district, the civil action must be filed in the District Court of the United States for the District of Columbia.
 
@@ -22,4 +30,4 @@ Link to an amendment published at 84 FR 19874, May 7, 2019.
 
 (2) When the Secretary's decision is adverse to an enrollee due to an enrollee's failure to submit proof in conformity with a regulation prescribed under section 205(a) of the Act pertaining to the type of proof an enrollee must offer to establish entitlement to payment, the court will review only whether the proof conforms with the regulation and the validity of the regulation.
 
-[74 FR 65363, Dec. 9, 2009, as amended at 82 FR 5139, Jan. 17, 2017]
+[74 FR 65363, Dec. 9, 2009, as amended at 82 FR 5139, Jan. 17, 2017; 84 FR 19874, May 7, 2019]

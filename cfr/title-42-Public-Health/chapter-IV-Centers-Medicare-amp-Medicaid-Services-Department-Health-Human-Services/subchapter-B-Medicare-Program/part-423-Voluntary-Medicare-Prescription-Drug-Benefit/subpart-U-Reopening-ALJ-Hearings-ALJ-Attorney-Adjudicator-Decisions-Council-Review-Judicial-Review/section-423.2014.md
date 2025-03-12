@@ -1,10 +1,8 @@
 ##### § 423.2014 Request for an ALJ hearing or a review of an IRE dismissal. #####
 
-Link to an amendment published at 84 FR 19873, May 7, 2019.
-
 (a) *Content of the request.* (1) The request for an ALJ hearing or a review of an IRE dismissal must be made in writing, except as set forth in paragraph (b) of this section. The request, including any oral request, must include all of the following -
 
-(i) The name, address, telephone number, and Medicare health insurance claim number of the enrollee.
+(i) The name, address, telephone number, and Medicare number of the enrollee.
 
 (ii) The name, address, and telephone number of the appointed representative, as defined at § 423.560, if any.
 
@@ -26,7 +24,7 @@ Link to an amendment published at 84 FR 19873, May 7, 2019.
 
 (2) If supporting materials submitted with a request clearly provide information required for a complete request, the materials will be considered in determining whether the request is complete.
 
-(d) *When and where to file.* Consistent with § 423.1972(a) and (b), the request for an ALJ hearing after an IRE reconsideration or request for review of an IRE dismissal must be filed:
+(d) *When and where to file.* The request for an ALJ hearing after an IRE reconsideration or request for review of an IRE dismissal must be filed:
 
 (1) Within 60 calendar days from the date the enrollee receives written notice of the IRE's reconsideration or dismissal being appealed.
 
@@ -36,11 +34,11 @@ Link to an amendment published at 84 FR 19873, May 7, 2019.
 
 (ii) If the request for hearing is filed with an office, other than the office specified in the IRE's reconsideration or dismissal, OMHA must notify the enrollee of the date the request was received in the correct office and the commencement of any applicable adjudication timeframe.
 
-(e) *Extension of time to request a hearing or review.* (1) Consistent with § 423.1972(b), if the request for hearing or review is not filed within 60 calendar days of receipt of the written IRE's reconsideration or dismissal, an enrollee may request an extension for good cause.
+(e) *Extension of time to request a hearing or review.* (1) If the request for hearing or review is not filed within 60 calendar days of receipt of the written IRE's reconsideration or dismissal, an enrollee may request an extension for good cause.
 
 (2) Any request for an extension of time must be in writing or, for expedited reviews, in writing or oral. OMHA must document all oral requests in writing and maintain the documentation in the case file.
 
-(3) The request must give the reasons why the request for a hearing or review was not filed within the stated time period, and must be filed with the request for hearing or review of an IRE dismissal with the office specified in the notice of reconsideration or dismissal.
+(3) The request must be filed with the office specified in the notice of reconsideration or dismissal, must give the reasons why the request for a hearing or review was not filed within the stated time period, and must be filed with the request for hearing or request for review of an IRE dismissal, or upon notice that the request may be dismissed because it was not timely filed.
 
 (4) An ALJ or attorney adjudicator may find there is good cause for missing the deadline to file a request for an ALJ hearing or request for review of an IRE dismissal, or there is no good cause for missing the deadline to file a request for a review of an IRE dismissal, but only an ALJ may find there is no good cause for missing the deadline to file a request for an ALJ hearing. If good cause is found for missing the deadline, the time period for filing the request for hearing or request for review of an IRE dismissal will be extended. To determine whether good cause for late filing exists, the ALJ or attorney adjudicator uses the standards set forth in § 405.942(b)(2) and (3) of this chapter.
 
@@ -48,4 +46,4 @@ Link to an amendment published at 84 FR 19873, May 7, 2019.
 
 (6) A determination granting a request to extend the filing deadline is not subject to further review.
 
-[82 FR 5128, Jan. 17, 2017]
+[82 FR 5128, Jan. 17, 2017, as amended at 84 FR 19873, May 7, 2019]
