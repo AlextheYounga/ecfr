@@ -1,7 +1,5 @@
 ##### § 60-2.1 Scope and application. #####
 
-Link to an amendment published at 85 FR 71572, Nov. 10, 2020.
-
 (a) *General.* The requirements of this part apply to nonconstruction (supply and service) contractors. The regulations prescribe the contents of affirmative action programs, standards and procedures for evaluating the compliance of affirmative action programs implemented pursuant to this part, and related matters.
 
 (b) *Who must develop affirmative action programs.* (1) Each nonconstruction contractor must develop and maintain a written affirmative action program for each of its establishments if it has 50 or more employees and:
@@ -34,6 +32,8 @@ Link to an amendment published at 85 FR 71572, Nov. 10, 2020.
 
 (3) Employees for whom selection decisions are made at a higher level establishment within the organization must be included in the affirmative action program of the establishment where the selection decision is made.
 
-(4) If a contractor wishes to establish an affirmative action program other than by establishment, the contractor may reach agreement with OFCCP on the development and use of affirmative action programs based on functional or business units. The Deputy Assistant Secretary, or his or her designee, must approve such agreements. Agreements allowing the use of functional or business unit affirmative action programs cannot be construed to limit or restrict how the OFCCP structures its compliance evaluations.
+(4) If a contractor wishes to establish an affirmative action program other than by establishment, the contractor may reach agreement with OFCCP on the development and use of affirmative action programs based on functional or business units. The Director, or his or her designee, must approve such agreements. Agreements allowing the use of functional or business unit affirmative action programs cannot be construed to limit or restrict how the OFCCP structures its compliance evaluations.
 
 (e) *How to identify employees included in affirmative action programs other than where they are located.* If pursuant to paragraphs (d)(1) through (3) of this section employees are included in an affirmative action program for an establishment other than the one in which the employees are located, the organizational profile and job group analysis of the affirmative action program in which the employees are included must be annotated to identify the actual location of such employees. If the establishment at which the employees actually are located maintains an affirmative action program, the organizational profile and job group analysis of that program must be annotated to identify the program in which the employees are included.
+
+[65 FR 68042, Nov. 13, 2000, as amended at 85 FR 71572, Nov. 10, 2020]

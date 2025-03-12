@@ -1,5 +1,7 @@
 ##### § 5.56 Inclusion of subordinated debt securities and mandatorily redeemable preferred stock as Federal savings association supplementary (tier 2) capital. #####
 
+Link to an amendment published at 85 FR 80467, Dec. 11, 2020.
+
 (a) *Scope and definitions.* (1) A Federal savings association must comply with this section in order to include subordinated debt securities or mandatorily redeemable preferred stock (“covered securities”) in tier 2 capital under 12 CFR 3.20(d) and to prepay covered securities included in tier 2 capital. A savings association that does not include covered securities in tier 2 capital is not required to comply with this section. Covered securities not included in tier 2 capital are subject to the requirements of § 163.80 of this chapter.
 
 (2) For purposes of this section, mandatorily redeemable preferred stock means mandatorily redeemable preferred stock that was issued before July 23, 1985 or issued pursuant to regulations and memoranda of the Federal Home Loan Bank Board and approved in writing by the Federal Savings and Loan Insurance Corporation for inclusion as regulatory capital before or after issuance.

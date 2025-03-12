@@ -1,5 +1,7 @@
 ##### § 5.37 Investment in national bank or Federal savings association premises. #####
 
+Link to an amendment published at 85 FR 80459, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 29, 93a, 317d, 1464(c)(2), 1464(c)(4)(B), 1828(m), and 5412(b)(2)(B).
 
 (b) *Scope.* This section addresses a national bank's or Federal savings association's investment in banking premises and other premises-related investments, loans, or indebtedness. This section also sets forth the quantitative investment limitations and procedures governing the OCC's review and approval of an application by a national bank or Federal savings association to invest in these premises.

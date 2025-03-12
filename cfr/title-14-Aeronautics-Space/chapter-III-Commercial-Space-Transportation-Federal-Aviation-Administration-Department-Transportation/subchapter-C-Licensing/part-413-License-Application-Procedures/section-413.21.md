@@ -1,5 +1,7 @@
 ##### § 413.21 Denial of a license application. #####
 
+Link to an amendment published at 85 FR 79711, Dec. 10, 2020.
+
 (a) The FAA informs an applicant, in writing, if it denies an application and states the reasons for denial.
 
 (b) If the FAA has denied an application, the applicant may either:

@@ -1,5 +1,7 @@
 ##### § 5.21 Federal mutual savings association charter and bylaws. #####
 
+Link to an amendment published at 85 FR 80437, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 1462a, 1463, 1464, and 2901 *et seq.*
 
 (b) *Licensing requirements.* A Federal mutual savings association must file an application, notice, or other filing as prescribed by this section when adopting or amending its charter or bylaws.

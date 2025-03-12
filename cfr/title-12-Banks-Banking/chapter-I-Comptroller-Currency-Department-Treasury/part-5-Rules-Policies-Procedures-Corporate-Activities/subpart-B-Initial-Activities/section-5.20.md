@@ -1,5 +1,7 @@
 ##### § 5.20 Organizing a national bank or Federal savings association. #####
 
+Link to an amendment published at 85 FR 80437, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 21, 22, 24(Seventh), 26, 27, 92a, 93a, 1814(b), 1816, 1462a, 1463, 1464, 2903, and 5412(b)(2)(B).
 
 (b) *Licensing requirements.* Any person desiring to establish a national bank or a Federal savings association shall submit an application and obtain prior OCC approval. An existing national bank or Federal savings association desiring to change the purpose of its charter shall submit an application and obtain prior OCC approval.
@@ -46,9 +48,7 @@
 
 (D) Have at least five elected directors.
 
-(2) *Community Reinvestment Act.* (i) Twelve CFR part 25 requires the OCC to take into account a proposed insured national bank's description of how it will meet its CRA objectives.
-
-(ii) Twelve CFR part 195 requires the OCC to take into account a proposed insured Federal savings association description of how it will meet its CRA objectives.
+(2) *Community Reinvestment Act.* Twelve CFR part 25 requires the OCC to take into account a proposed insured national bank's or Federal savings association's description of how it will meet its CRA objectives.
 
 (3) *Federal Deposit Insurance.* Preliminary approval for an application to establish a Federal savings association will be conditioned on the savings association applying for and receiving approval for deposit insurance from the Federal Deposit Insurance Corporation (FDIC). Final approval for an application to establish a Federal savings association will not be issued until receipt by the OCC of written confirmation by the FDIC that the accounts of the Federal savings association will be insured by the FDIC.
 
@@ -160,4 +160,4 @@
 
 (2) *Changes in charter purpose.* An existing national bank or Federal savings association whose activities are limited to a special purpose that desires to change to another special purpose, to add another special purpose, or to no longer be limited to a special purpose charter shall submit an application and obtain prior OCC approval under § 5.53. An existing national bank or Federal savings association whose activities are not limited that desires to limit its activities and become a special purpose institution shall submit an application and obtain prior OCC approval under § 5.53.
 
-[80 FR 28418, May 18, 2015, as amended at 82 FR 8103, Jan. 23, 2017]
+[80 FR 28418, May 18, 2015, as amended at 82 FR 8103, Jan. 23, 2017; 85 FR 80437, Dec. 11, 2020]

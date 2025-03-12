@@ -14,17 +14,17 @@
 
 (4) *Work train* means a non-revenue service train of 4,000 trailing tons or less used for the administration and upkeep service of the railroad.
 
-(5) *Trailing tons* means the sum of the gross weights - expressed in tons - of the cars and the locomotives in a train that are not providing propelling power to the train.
+(5) *Trailing tons* means the sum of the gross weights—expressed in tons—of the cars and the locomotives in a train that are not providing propelling power to the train.
 
-(b) *General.* All trains not specifically excepted in paragraph (e) of this section shall be equipped with and shall use either a two-way end-of-train device meeting the design and performance requirements contained in § 232.405 or a device using an alternative technology to perform the same function.
+(b) *General.* All trains not specifically excepted in paragraph (e) of this section shall be equipped with and shall use either a two-way end-of-train device meeting the design and performance requirements contained in § 232.405 or a device using an alternative technology approved by FRA pursuant to § 232.17 to perform the same function.
 
-(c) *New devices.* Each newly manufactured end-of-train device purchased by a railroad after January 2, 1998 shall be a two-way end-of-train device meeting the design and performance requirements contained in § 232.405 or a device using an alternative technology to perform the same function.
+(c) *New devices.* Each newly manufactured end-of-train device purchased by a railroad shall be a two-way end-of-train device meeting the design and performance requirements contained in § 232.405 or a device using an alternative technology approved by FRA pursuant to § 232.17 to perform the same function.
 
 (d) *Grandfathering.* Each two-way end-of-train device purchased by any person prior to July 1, 1997 shall be deemed to meet the design and performance requirements contained in § 232.405.
 
 (e) *Exceptions.* The following types of trains are excepted from the requirement for the use of a two-way end-of-train device:
 
-(1) Trains with a locomotive or locomotive consist located at the rear of the train that is capable of making an emergency brake application, through a command effected by telemetry or by a crew member in radio contact with the controlling locomotive;
+(1) Trains with a locomotive, locomotive consist, or air repeater unit located at the rear of the train that is capable of making an emergency brake application, through a command effected by telemetry or by a crew member in radio contact with the controlling locomotive.
 
 (2) Trains operating in the push mode with the ability to effectuate an emergency brake application from the rear of the train;
 
@@ -60,7 +60,7 @@
 
 (1) That device shall be armed and operable from the time the train departs from the point where the device is installed until the train reaches its destination. If a loss of communication occurs at the location where the device is installed, the train may depart the location at restricted speed for a distance of no more than one mile in order to establish communication. When communication is established, the quantitative values of the head and rear unit shall be compared pursuant to § 232.409(b) and the device tested pursuant to § 232.409(c), unless the test was performed prior to installation.
 
-(2) The rear unit batteries shall be sufficiently charged at the initial terminal or other point where the device is installed and throughout the train's trip to ensure that the end-of-train device will remain operative until the train reaches its destination.
+(2) The rear unit batteries must be sufficiently charged at the initial terminal or other point where the device is installed and throughout the train's trip to ensure that the end-of-train device will remain operative until the train reaches its destination. Air-powered generator equipped devices must be tested for a minimum charge at installation before initiating generator operation.
 
 (3) The device shall be activated to effectuate an emergency brake application either by using the manual toggle switch or through automatic activation, whenever it becomes necessary for the locomotive engineer to initiate an emergency application of the air brakes using either the automatic brake valve or the conductor's emergency brake valve.
 
@@ -94,4 +94,4 @@
 
 (3) Each en route failure shall be corrected at the next location where the necessary repairs can be conducted or at the next location where a required brake test is to be performed, whichever is reached first.
 
-[66 FR 4193, Jan. 17, 2001, as amended at 67 FR 17584, Apr. 10, 2002]
+[66 FR 4193, Jan. 17, 2001, as amended at 67 FR 17584, Apr. 10, 2002; 85 FR 80574, Dec. 11, 2020]

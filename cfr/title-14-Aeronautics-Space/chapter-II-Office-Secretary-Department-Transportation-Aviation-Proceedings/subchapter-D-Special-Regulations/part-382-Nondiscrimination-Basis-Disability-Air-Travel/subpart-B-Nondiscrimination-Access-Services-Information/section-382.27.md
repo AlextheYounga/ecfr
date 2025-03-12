@@ -1,5 +1,7 @@
 ##### § 382.27 May a carrier require a passenger with a disability to provide advance notice in order to obtain certain specific services in connection with a flight? #####
 
+Link to an amendment published at 85 FR 79774, Dec. 10, 2020.
+
 (a) Except as provided in paragraph (b) of this section and § 382.133(e)(4) and (5) and (f)(5) and (6), as a carrier you must not require a passenger with a disability to provide advance notice in order to obtain services or accommodations required by this part.
 
 (b) You may require a passenger with a disability to provide up to 72 hours' advance notice and check in one hour before the check-in time for the general public to receive carrier-supplied in-flight medical oxygen on international flights, 48 hours' advance notice and check-in one hour before the check-in time for the general public to receive carrier-supplied in-flight medical oxygen on domestic flights, and 48 hours' advance notice and check-in one hour before the check-in time for the general public to use his/her ventilator, respirator, CPAP machine or POC.

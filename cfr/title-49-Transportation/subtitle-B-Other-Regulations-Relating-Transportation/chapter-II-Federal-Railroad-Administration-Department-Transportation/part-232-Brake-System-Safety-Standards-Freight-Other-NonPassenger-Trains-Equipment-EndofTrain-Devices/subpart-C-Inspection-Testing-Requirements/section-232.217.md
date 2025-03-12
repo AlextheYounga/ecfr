@@ -6,7 +6,7 @@
 
 (c) Except as provided in this section, when yard air is used the train air brake system must be charged and tested as prescribed by § 232.205(c) and when practicable should be kept charged until road motive power is coupled to train, after which, a Class III brake test shall be performed as prescribed by § 232.211.
 
-(1) If the cars are off air for more than four hours, the cars shall be retested in accordance with § 232.205(c) through (f).
+(1) If the cars are off-air for more than 24 hours, the cars must be retested in accordance with § 232.205(c) through (f).
 
 (2) At a minimum, yard air pressure shall be 60 psi at the end of the consist or block of cars opposite from the yard test device and shall be within 15 psi of the regulator valve setting on yard test device.
 
@@ -16,4 +16,4 @@
 
 (e) If used to test a train, a yard air test device and any yard air test equipment shall be accurate and function as intended.
 
-[66 FR 4193, Jan. 17, 2001, as amended at 67 FR 17583, Apr. 10, 2002]
+[66 FR 4193, Jan. 17, 2001, as amended at 67 FR 17583, Apr. 10, 2002; 85 FR 80573, Dec. 11, 2020]

@@ -352,14 +352,6 @@ Whether that commerce moves wholly by aircraft of partly by aircraft and partly 
 
 *Minor repair* means a repair other than a major repair.
 
-*Model aircraft* means an unmanned aircraft that is:
-
-(1) Capable of sustained flight in the atmosphere;
-
-(2) Flown within visual line of sight of the person operating the aircraft; and
-
-(3) Flown for hobby or recreational purposes.
-
 *National defense airspace* means airspace established by a regulation prescribed, or an order issued under, 49 U.S.C. 40103(b)(3).
 
 *Navigable airspace* means airspace at and above the minimum flight altitudes prescribed by or under this chapter, including airspace needed for safe takeoff and landing.

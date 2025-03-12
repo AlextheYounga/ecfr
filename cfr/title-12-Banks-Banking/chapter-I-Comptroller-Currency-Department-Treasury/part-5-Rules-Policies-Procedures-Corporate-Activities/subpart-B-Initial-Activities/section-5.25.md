@@ -1,5 +1,7 @@
 ##### § 5.25 Conversion from a national bank or Federal savings association to a state bank or state savings association. #####
 
+Link to an amendment published at 85 FR 80446, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 93a, 214a, 214b, 214c, 214d, 1462a, 1463, 1464, and 5412(b)(2)(B).
 
 (b) *Licensing requirement.* A national bank shall give notice to the OCC before converting to a state bank (including a state bank as defined in 12 U.S.C. 214(a)) or a state savings association. A Federal savings association shall give notice to the OCC before converting to a state savings association or a state bank. A Federal mutual savings association that plans to convert to a stock state bank must first convert to a Federal stock savings association under 12 CFR part 192.

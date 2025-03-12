@@ -1,5 +1,7 @@
 ##### § 5.24 Conversion to become a national bank. #####
 
+Link to an amendment published at 85 FR 80446, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 35, 93a, 214a, 214b, 214c, and 2903.
 
 (b) *Licensing requirements.* A state bank, a stock state savings association, or a Federal stock savings association shall submit an application and obtain prior OCC approval to convert to a national bank charter. A Federal mutual savings association that plans to convert to a national bank must first convert to a Federal stock savings association under 12 CFR part 192.

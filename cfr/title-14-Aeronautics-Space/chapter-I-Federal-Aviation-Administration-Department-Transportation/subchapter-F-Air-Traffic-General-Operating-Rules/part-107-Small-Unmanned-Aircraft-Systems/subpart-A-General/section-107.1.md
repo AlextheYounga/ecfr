@@ -4,8 +4,8 @@
 
 (b) This part does not apply to the following:
 
-(1) Air carrier operations;
+(1) Air carrier operations; or
 
-(2) Any aircraft subject to the provisions of part 101 of this chapter; or
+(2) Any operation that a remote pilot in command elects to conduct pursuant to an exemption issued under section 333 of Public Law 112-95, unless otherwise specified in the exemption.
 
-(3) Any operation that a remote pilot in command elects to conduct pursuant to an exemption issued under section 333 of Public Law 112-95, unless otherwise specified in the exemption.
+Doc. FAA-2015-0150, Amdt. 107-1, 81 FR 42209, June 28, 2016 as amended by Doc. No. FAA-2020-0446, Amdt. No. 107-5, 85 FR 62976, Oct. 6, 2020]

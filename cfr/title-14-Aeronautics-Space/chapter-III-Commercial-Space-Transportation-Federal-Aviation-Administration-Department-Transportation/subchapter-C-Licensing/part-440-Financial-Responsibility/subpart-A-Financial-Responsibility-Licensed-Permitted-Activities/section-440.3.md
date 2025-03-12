@@ -1,5 +1,7 @@
 ##### § 440.3 Definitions. #####
 
+Link to an amendment published at 85 FR 79718, Dec. 10, 2020.Link to an amendment published at 85 FR 79719, Dec. 10, 2020.
+
 Except as otherwise provided in this section, any term used in this part and defined in 51 U.S.C. 50901-50923, or in § 401.5 of this chapter shall have the meaning contained therein. For purposes of this part -
 
 *Bodily injury* means physical injury, sickness, disease, disability, shock, mental anguish, or mental injury sustained by any person, including death.

@@ -1,0 +1,5 @@
+##### § 232.714 Inbound brake equipment inspection. #####
+
+(a) At points where inspectors are employed to make a general inspection of trains upon arrival at terminals, visual inspection must be made of retaining valves and retaining valve pipes, release valves and rods, brake rigging, safety supports, hand brakes, hose and position of angle cocks and make necessary repairs or mark for repair tracks any cars to which yard repairs cannot be promptly made.
+
+(b) Freight trains arriving at terminals where facilities are available and at which special instructions provide for immediate brake inspection and repairs, trains shall be left with air brakes applied by a service brake pipe reduction of 20 pounds so that inspectors can obtain a proper check of the piston travel. Trainmen will not close any angle cock or cut the locomotive off until the 20-pound service reduction has been made. Inspection of the brakes and needed repairs should be made as soon thereafter as practicable.

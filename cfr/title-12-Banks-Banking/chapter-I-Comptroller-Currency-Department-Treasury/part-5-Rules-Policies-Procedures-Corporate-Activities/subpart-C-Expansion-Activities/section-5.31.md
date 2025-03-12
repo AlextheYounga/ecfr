@@ -1,5 +1,7 @@
 ##### § 5.31 Establishment, acquisition, and relocation of a branch and establishment of an agency office of a Federal savings association. #####
 
+Link to an amendment published at 85 FR 80447, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 1462a, 1463, 1464. 2901-2907 and 5412(b)(2)(B).
 
 (b) *Licensing requirements.* A Federal savings association shall submit an application and obtain prior OCC approval in order to establish or relocate a branch or to establish an agency office or conduct additional activities at an agency office, if required under this section.

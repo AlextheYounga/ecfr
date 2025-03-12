@@ -1,5 +1,7 @@
 ##### § 5.30 Establishment, acquisition, and relocation of a branch of a national bank. #####
 
+Link to an amendment published at 85 FR 80447, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 1-42 and 2901-2907.
 
 (b) *Licensing requirements.* A national bank shall submit an application and obtain prior OCC approval in order to establish or relocate a branch.

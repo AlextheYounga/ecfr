@@ -1,5 +1,7 @@
 ##### § 5.50 Change in control of a national bank or Federal savings association; reporting of stock loans. #####
 
+Link to an amendment published at 85 FR 80465, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 93a, 1817(j), and 1831aa.
 
 (b) *Licensing requirements.* Any person seeking to acquire control of a national bank or Federal savings association shall provide 60 days prior written notice of a change in control to the OCC, except where otherwise provided in this section.

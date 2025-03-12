@@ -1,5 +1,7 @@
 ##### § 382.7 To whom do the provisions of this part apply? #####
 
+Link to an amendment published at 85 FR 79774, Dec. 10, 2020.
+
 (a) If you are a U.S. carrier, this Part applies to you with respect to all your operations and aircraft, regardless of where your operations take place, except as otherwise provided in this part.
 
 (b) If you are a foreign carrier, this part applies to you only with respect to flights you operate that begin or end at a U.S. airport and to aircraft used for these flights. For purposes of this part, a “flight” means a continuous journey in the same aircraft or with one flight number that begins or ends at a U.S. airport. The following are some examples of the application of this term:

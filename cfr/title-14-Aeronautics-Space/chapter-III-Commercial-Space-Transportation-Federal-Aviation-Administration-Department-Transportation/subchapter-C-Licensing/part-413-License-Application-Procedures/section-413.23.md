@@ -1,5 +1,7 @@
 ##### § 413.23 License or permit renewal. #####
 
+Link to an amendment published at 85 FR 79711, Dec. 10, 2020.
+
 (a) *Eligibility.* A licensee or permittee may apply to renew its license or permit by submitting to the FAA a written application for renewal at least 90 days before the license expires or at least 60 days before the permit expires.
 
 (b) *Application.* (1) A license or permit renewal application must satisfy the requirements set forth in this part and any other applicable part of this chapter.

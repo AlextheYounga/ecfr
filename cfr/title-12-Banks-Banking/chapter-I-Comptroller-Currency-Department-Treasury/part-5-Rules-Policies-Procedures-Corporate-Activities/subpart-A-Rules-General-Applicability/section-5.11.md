@@ -1,5 +1,7 @@
 ##### § 5.11 Hearings and other meetings. #####
 
+Link to an amendment published at 85 FR 80436, Dec. 11, 2020.
+
 (a) *Hearing requests.* Prior to the end of the comment period, any person may submit to the appropriate OCC office a written request for a hearing on a filing. The request must describe the nature of the issues or facts to be presented and the reasons why written submissions would be insufficient to make an adequate presentation of those issues or facts to the OCC. A person requesting a hearing shall simultaneously submit a copy of the request to the applicant.
 
 (b) *Action on a hearing request.* The OCC may grant or deny a request for a hearing and may limit the issues to those it deems relevant or material. The OCC generally grants a hearing request only if the OCC determines that written submissions would be insufficient or that a hearing would otherwise benefit the decision-making process. The OCC also may order a hearing if it concludes that a hearing would be in the public interest.

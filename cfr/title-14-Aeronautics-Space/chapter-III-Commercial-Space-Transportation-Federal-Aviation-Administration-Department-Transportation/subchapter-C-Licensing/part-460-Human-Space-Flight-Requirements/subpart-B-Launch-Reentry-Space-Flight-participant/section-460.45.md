@@ -1,5 +1,7 @@
 ##### § 460.45 Operator informing space flight participant of risk. #####
 
+Link to an amendment published at 85 FR 79739, Dec. 10, 2020.Link to an amendment published at 85 FR 79740, Dec. 10, 2020.
+
 (a) Before receiving compensation or making an agreement to fly a space flight participant, an operator must satisfy the requirements of this section. An operator must inform each space flight participant in writing about the risks of the launch and reentry, including the safety record of the launch or reentry vehicle type. An operator must present this information in a manner that can be readily understood by a space flight participant with no specialized education or training, and must disclose in writing -
 
 (1) For each mission, each known hazard and risk that could result in a serious injury, death, disability, or total or partial loss of physical and mental function;

@@ -1,5 +1,7 @@
 ##### § 5.46 Changes in permanent capital of a national bank. #####
 
+Link to an amendment published at 85 FR 80463, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 21a, 51a, 51b, 51b-1, 52, 56, 57, 59, 60, and 93a.
 
 (b) *Licensing requirements.* A national bank shall submit an application and obtain OCC approval to decrease its permanent capital. Generally, a national bank need only submit a notice to increase its permanent capital, although, in certain circumstances, a national bank shall be required to submit an application and obtain OCC approval.

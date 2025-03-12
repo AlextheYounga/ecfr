@@ -1,5 +1,7 @@
 ##### § 413.11 Acceptance of an application. #####
 
+Link to an amendment published at 85 FR 79711, Dec. 10, 2020.
+
 The FAA will initially screen an application to determine whether it is complete enough for the FAA to start its review. After completing the initial screening, the FAA will notify the applicant in writing of one of the following:
 
 (a) The FAA accepts the application and will initiate the reviews required to make a decision about the license or permit; or

@@ -1,5 +1,7 @@
 ##### § 5.34 Operating subsidiaries of a national bank. #####
 
+Link to an amendment published at 85 FR 80455, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 24 (Seventh), 24a, 25b, 93a, 3101 *et seq.*
 
 (b) *Licensing requirements.* A national bank must file an application or notice as prescribed in this section to acquire or establish an operating subsidiary, or to commence a new activity in an existing operating subsidiary.

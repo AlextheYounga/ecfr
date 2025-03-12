@@ -1,5 +1,7 @@
 ##### § 5.2 Rules of general applicability. #####
 
+Link to an amendment published at 85 FR 80434, Dec. 11, 2020.
+
 (a) *In general.* The rules in this subpart apply to all sections in this part unless otherwise stated.
 
 (b) *Exceptions.* The OCC may adopt materially different procedures for a particular filing, or class of filings, in exceptional circumstances or for unusual transactions, after providing notice of the change to the applicant and to any other party that the OCC determines should receive notice.

@@ -1,7 +1,5 @@
 ##### § 60-741.2 Definitions. #####
 
-Link to an amendment published at 85 FR 71573, Nov. 10, 2020.
-
 For the purpose of this part:
 
 (a) *Act* means the Rehabilitation Act of 1973, as amended, 29 U.S.C. 706 and 793.
@@ -24,7 +22,7 @@ For the purpose of this part:
 
 (f) *Director* means the Director, Office of Federal Contract Compliance Programs of the United States Department of Labor, or his or her designee.
 
-(g) *Disability* - (1) The term disability means, with respect to an individual:
+(g) *Disability*—(1) The term disability means, with respect to an individual:
 
 (i) A physical or mental impairment that substantially limits one or more major life activities of such individual;
 
@@ -44,7 +42,7 @@ For the purpose of this part:
 
 (h) *Equal opportunity clause* means the contract provisions set forth in § 60-741.5, “Equal opportunity clause.”
 
-(i) *Essential functions* - (1) *In general.* The term *essential functions* means fundamental job duties of the employment position the individual with a disability holds or desires. The term *essential functions* does not include the marginal functions of the position.
+(i) *Essential functions*—(1) *In general.* The term *essential functions* means fundamental job duties of the employment position the individual with a disability holds or desires. The term *essential functions* does not include the marginal functions of the position.
 
 (2) A job function may be considered essential for any of several reasons, including but not limited to the following:
 
@@ -86,15 +84,15 @@ For the purpose of this part:
 
 (6) *Personal property,* as used in paragraphs (k) and (x)(1) of this section, includes supplies and contracts for the use of real property (such as lease arrangements), unless the contract for the use of real property itself constitutes real property (such as easements).
 
-(l) *Individual with a disability* - See definition of “disability” in paragraph (g) of this section.
+(l) *Individual with a disability*—See definition of “disability” in paragraph (g) of this section.
 
-(m) *Major life activities* - (1) *In general.* Major life activities include, but are not limited to, caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, sitting, reaching, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, communicating, interacting with others, and working.
+(m) *Major life activities*—(1) *In general.* Major life activities include, but are not limited to, caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, sitting, reaching, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, communicating, interacting with others, and working.
 
 (2) *Major bodily functions.* For purposes of paragraph (m)(1) of this section, a major life activity also includes the operation of a major bodily function, including, but not limited to, functions of the immune system, special sense organs and skin, normal cell growth, digestive, genitourinary, bowel, bladder, neurological, brain, respiratory, circulatory, cardiovascular, endocrine, hemic, lymphatic, musculoskeletal, and reproductive functions. The operation of a major bodily function includes the operation of an individual organ within a body system.
 
 (3) In determining other examples of major life activities, the term “major” shall not be interpreted strictly to create a demanding standard for disability. Whether an activity is a “major life activity” is not determined by reference to whether it is of “central importance to daily life.”
 
-(n) *Mitigating measures* - (1) *In general.* The term mitigating measures includes, but is not limited to:
+(n) *Mitigating measures*—(1) *In general.* The term mitigating measures includes, but is not limited to:
 
 (i) Medication, medical supplies, equipment, or appliances, low-vision devices (which do not include ordinary eyeglasses or contact lenses), prosthetics including limbs and devices, hearing aids and cochlear implants or other implantable hearing devices, mobility devices, or oxygen therapy equipment and supplies;
 
@@ -110,7 +108,7 @@ For the purpose of this part:
 
 (3) *Low-vision devices.* The term *low-vision devices* means devices that magnify, enhance, or otherwise augment a visual image, but not including ordinary eyeglasses or contact lenses.
 
-(4) *Auxiliary aids and services.* The term *auxiliary aids and services* includes -
+(4) *Auxiliary aids and services.* The term *auxiliary aids and services* includes—
 
 (i) Qualified interpreters or other effective methods of making aurally delivered materials available to individuals with hearing impairments;
 
@@ -132,7 +130,17 @@ For the purpose of this part:
 
 (r) *Qualified individual* means an individual who satisfies the requisite skill, experience, education, and other job-related requirements of the employment position such individual holds or desires, and who, with or without reasonable accommodation, can perform the essential functions of such position. See § 60-741.3 for exceptions to this definition.
 
-(s) *Reasonable accommodation* - (1) *In general.* The term *reasonable accommodation* means modifications or adjustments:
+(s) *Qualitative evidence* includes but is not limited to testimony, interview statements, and documents about biased statements, remarks, attitudes, or acts based upon membership in a protected class, particularly when made by a decision maker involved in the action under investigation; testimony, interview statements, and documents about individuals denied or given misleading or contradictory information about employment or compensation practices, in circumstances suggesting discriminatory treatment based on a protected characteristic; testimony, interview statements, and documents about the extent of discretion or subjectivity involved in making employment decisions, in conjunction with evidence suggesting the discretion or subjectivity has been used to discriminate based on a protected characteristic; or other anecdotal evidence relevant to determining a contractor's discriminatory or non-discriminatory intent, the business necessity (or lack thereof) of a challenged policy or practice, or whether the contractor has otherwise complied with its non-discrimination obligations. Qualitative evidence may not be based solely on subjective inferences or the mere fact of supervisory discretion in employment decisions. The Office of Federal Contract Compliance Programs (OFCCP) may also consider qualitative evidence in the form of a contractor's efforts to advance equal employment opportunity beyond mere compliance with legal obligations in determining whether intentional discrimination has occurred.
+
+(t) *Quantitative evidence* includes hypothesis testing, controlling for the major, measurable parameters, and variables used by the contractor (including, as appropriate, preferred qualifications, other demographic variables, test scores, geographic variables, performance evaluations, years of experience, quality of experience, years of service, quality and reputation of previous employers, years of education, years of training, quality and reputation of credentialing institutions, *etc.*), related to the probability of outcomes occurring by chance and/or analyses reflecting statements concluding that a disparity in employment selection rates or rates of compensation is statistically significant by reference to any one of these statements:
+
+(1) The disparity is two or more times larger than its standard error (*i.e.,* a standard deviation of two or more);
+
+(2) The Z statistic has a value greater than two; or
+
+(3) The probability value is less than 0.05. It also includes numerical analysis of similarly situated individuals, small groups, or other characteristics, demographics or outcomes where hypothesis-testing techniques are not used.
+
+(u) *Reasonable accommodation*—(1) *In general.* The term *reasonable accommodation* means modifications or adjustments:
 
 (i) To a job application process that enable a qualified applicant with a disability to be considered for the position such applicant desires;1 or
 
@@ -154,11 +162,11 @@ For the purpose of this part:
 
 (4) Individuals who meet the definition of “disability” solely under the “regarded as” prong of the definition of “disability” as defined in paragraph (v)(1) of this section are not entitled to receive reasonable accommodation.
 
-(t) *Record of such impairment* means has a history of, or has been misclassified as having, a mental or physical impairment that substantially limits one or more major life activities. An individual shall be considered to have a record of a disability if the individual has a history of an impairment that substantially limited one or more major life activities when compared to most people in the general population, or was misclassified as having had such an impairment.
+(v) *Record of such impairment* means has a history of, or has been misclassified as having, a mental or physical impairment that substantially limits one or more major life activities. An individual shall be considered to have a record of a disability if the individual has a history of an impairment that substantially limited one or more major life activities when compared to most people in the general population, or was misclassified as having had such an impairment.
 
-(u) *Recruiting and training agency* means any person who refers workers to any contractor, or who provides or supervises apprenticeship or training for employment by any contractor.
+(w) *Recruiting and training agency* means any person who refers workers to any contractor, or who provides or supervises apprenticeship or training for employment by any contractor.
 
-(v) *Regarded as having such an impairment* - (1) Except as provided in paragraph (v)(4) of this section, an individual is regarded as having such an impairment if the individual is subjected to an action prohibited under subpart B (Discrimination Prohibited) of these regulations because of an actual or perceived physical or mental impairment, whether or not the impairment substantially limits or is perceived to substantially limit a major life activity. Prohibited actions include but are not limited to refusal to hire, demotion, placement on involuntary leave, termination, exclusion for failure to meet a qualification standard, harassment, or denial of any other term, condition, or privilege of employment.
+(x) *Regarded as having such an impairment*—(1) Except as provided in paragraph (v)(4) of this section, an individual is regarded as having such an impairment if the individual is subjected to an action prohibited under subpart B (Discrimination Prohibited) of these regulations because of an actual or perceived physical or mental impairment, whether or not the impairment substantially limits or is perceived to substantially limit a major life activity. Prohibited actions include but are not limited to refusal to hire, demotion, placement on involuntary leave, termination, exclusion for failure to meet a qualification standard, harassment, or denial of any other term, condition, or privilege of employment.
 
 (2) Except as provided in paragraph (v)(4) of this section, an individual is regarded as having such an impairment any time a contractor takes a prohibited action against the individual because of an actual or perceived impairment, even if the contractor asserts, or may or does ultimately establish a defense to such action.
 
@@ -170,9 +178,9 @@ For the purpose of this part:
 
 (ii) [Reserved]
 
-(w) *Secretary* means the Secretary of Labor, United States Department of Labor, or his or her designee.
+(y) *Secretary* means the Secretary of Labor, United States Department of Labor, or his or her designee.
 
-(x) *Subcontract.* (1) Subcontract means any agreement or arrangement between a contractor and any person (in which the parties do not stand in the relationship of an employer and an employee):
+(z) *Subcontract.* (1) Subcontract means any agreement or arrangement between a contractor and any person (in which the parties do not stand in the relationship of an employer and an employee):
 
 (i) For the purchase, sale or use of personal property or nonpersonal services which, in whole or in part, is necessary to the performance of any one or more contracts; or
 
@@ -186,9 +194,9 @@ For the purpose of this part:
 
 (iii) A health organization is a voluntary association, corporation, partnership, managed care support contractor, or other nongovernmental organization that is lawfully engaged in providing, paying for, insuring, or reimbursing the cost of health care services or supplies under group insurance policies or contracts, medical or hospital service agreements, membership or subscription contracts, network agreements, health benefits plans duly sponsored or underwritten by an employee organization or association of organizations and health maintenance organizations, or other similar arrangements, in consideration of premiums or other periodic charges or payments payable to the health organization.
 
-(y) *Subcontractor* means any person holding a subcontract in excess of $10,000 and, for the purposes of subpart D of this part, “General Enforcement and Complaint Procedures,” any person who has held a subcontract subject to the act.
+(aa) *Subcontractor* means any person holding a subcontract in excess of $10,000 and, for the purposes of subpart D of this part, “General Enforcement and Complaint Procedures,” any person who has held a subcontract subject to the act.
 
-(z) *Substantially limits* - (1) *In general.* The term “substantially limits” shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by law. *Substantially limits* is not meant to be a demanding standard and should not demand extensive analysis.
+(bb) *Substantially limits*—(1) *In general.* The term “substantially limits” shall be construed broadly in favor of expansive coverage, to the maximum extent permitted by law. *Substantially limits* is not meant to be a demanding standard and should not demand extensive analysis.
 
 (i) An impairment is substantially limiting within the meaning of this section if it substantially limits the ability of an individual to perform a major life activity as compared to most people in the general population. An impairment need not prevent, or significantly or severely restrict, the individual from performing a major life activity in order to be considered “substantially limiting.” Nonetheless, not every impairment will constitute a disability within the meaning of this section.
 
@@ -212,7 +220,7 @@ For the purpose of this part:
 
 (ii) [Reserved]
 
-(aa) *Undue hardship* - (1) *In general. Undue hardship* means, with respect to the provision of an accommodation, significant difficulty or expense incurred by the contractor, when considered in light of the factors set forth in paragraph (aa)(2) of this section.
+(cc) *Undue hardship*—(1) *In general. Undue hardship* means, with respect to the provision of an accommodation, significant difficulty or expense incurred by the contractor, when considered in light of the factors set forth in paragraph (aa)(2) of this section.
 
 (2) *Factors to be considered.* In determining whether an accommodation would impose an undue hardship on the contractor, factors to be considered include:
 
@@ -226,6 +234,6 @@ For the purpose of this part:
 
 (v) The impact of the accommodation upon the operation of the facility, including the impact on the ability of other employees to perform their duties and the impact on the facility's ability to conduct business.
 
-(bb) *United States,* as used herein, shall include the several States, the District of Columbia, the Virgin Islands, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and Wake Island.
+(dd) *United States,* as used herein, shall include the several States, the District of Columbia, the Virgin Islands, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and Wake Island.
 
-[78 FR 58733, Sept. 24, 2013, as amended at 85 FR 39846, July 2, 2020]
+[78 FR 58733, Sept. 24, 2013, as amended at 85 FR 39846, July 2, 2020; 85 FR 71573, Nov. 10, 2020]

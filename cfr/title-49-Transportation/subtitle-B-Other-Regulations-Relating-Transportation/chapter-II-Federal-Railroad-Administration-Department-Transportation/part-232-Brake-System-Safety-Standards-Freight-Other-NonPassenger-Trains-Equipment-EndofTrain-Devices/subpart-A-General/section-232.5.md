@@ -1,16 +1,20 @@
 ##### § 232.5 Definitions. #####
 
-The definitions in this section are intended to clarify the meaning of terms used in this part as it becomes applicable pursuant to § 232.1(b) and (c).
+The definitions in this section are intended to clarify the meaning of terms used in this part.
 
 *AAR* means the Association of American Railroads.
 
 *Air brake* means a combination of devices operated by compressed air, arranged in a system, and controlled manually, electrically, electronically, or pneumatically, by means of which the motion of a railroad car or locomotive is retarded or arrested.
 
-*Air Flow Indicator, AFM* means a specific air flow indicator required by the air flow method of qualifying train air brakes (AFM). The AFM Air Flow Indicator is a calibrated air flow measuring device which is clearly visible and legible in daylight and darkness from the engineer's normal operating position. The indicator face displays:
+*Air flow method indicator, AFM* means a calibrated air flow measuring device used as required by the air flow method (AFM) of qualifying train air brakes and with information clearly and legibly displayed in analog or digital format and visible in daylight and darkness from the engineer's normal operating position. Each AFM indicator includes:
 
-(1) Markings from 10 cubic feet per minute (CFM) to 80 CFM, in increments of 10 CFM or less; and
+(1) Markings from 10 to 80 cubic feet per minute (CFM), in increments of 10 CFM or less; and
 
 (2) Numerals indicating 20, 40, 60, and 80 CFM for continuous monitoring of air flow.
+
+*Air repeater unit, ARU* means a car, container, or similar device that provides an additional brake pipe air source by responding to air control instructions from a controlling locomotive using a communication system such as a distributed power system.
+
+*APTA* means the American Public Transportation Association.
 
 *Bind* means restrict the intended movement of one or more brake system components by reduced clearance, by obstruction, or by increased friction.
 
@@ -62,9 +66,11 @@ The definitions in this section are intended to clarify the meaning of terms use
 
 *Freight car* means a vehicle designed to carry freight, or railroad personnel, by rail and a vehicle designed for use in a work or wreck train or other non-passenger train.
 
+*Gradient, brake pipe* means the difference in brake pipe pressure, usually measured in pounds per square inch (psi), between each air supply source (*e.g.,* locomotive, distributed power unit, or ARU) or between an air supply source and the rear car of the train when the brake system is fully charged under existing leakage and temperature conditions.
+
 *Initial terminal* means the location where a train is originally assembled.
 
-*Locomotive* means a piece of railroad on-track equipment, other than hi-rail, specialized maintenance, or other similar equipment, which may consist of one or more units operated from a single control stand -
+*Locomotive* means a piece of railroad on-track equipment, other than hi-rail, specialized maintenance, or other similar equipment, which may consist of one or more units operated from a single control stand—
 
 (1) With one or more propelling motors designed for moving other railroad equipment;
 
@@ -144,4 +150,4 @@ The definitions in this section are intended to clarify the meaning of terms use
 
 *Yard air* means a source of compressed air other than from a locomotive.
 
-[66 FR 4193, Jan. 17, 2001, as amended at 67 FR 17580, Apr. 10, 2002; 73 FR 61552, Oct. 16, 2008; 80 FR 47834, Aug. 6, 2015]
+[66 FR 4193, Jan. 17, 2001, as amended at 67 FR 17580, Apr. 10, 2002; 73 FR 61552, Oct. 16, 2008; 80 FR 47834, Aug. 6, 2015; 85 FR 80570, Dec. 11, 2020]

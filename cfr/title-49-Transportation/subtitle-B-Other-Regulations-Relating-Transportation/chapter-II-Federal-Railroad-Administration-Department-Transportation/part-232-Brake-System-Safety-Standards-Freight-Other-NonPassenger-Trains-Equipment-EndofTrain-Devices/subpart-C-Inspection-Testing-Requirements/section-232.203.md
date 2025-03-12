@@ -36,7 +36,11 @@
 
 (9) Add new brake systems to the training, qualification and designation program prior to its introduction to revenue service.
 
-(c) A railroad that operates trains required to be equipped with a two-way end-of-train telemetry device pursuant to subpart E of this part, and each contractor that maintains such devices shall adopt and comply with a training program which specifically addresses the testing, operation, and maintenance of two-way end-of-train devices for employees who are responsible for the testing, operation, and maintenance of the devices.
+(c) A railroad that operates trains required to be equipped with a two-way end-of-train telemetry device pursuant to subpart E of this part, and each contractor that maintains such devices, shall adopt and comply with a training program that specifically addresses:
+
+(1) The testing, operation, and maintenance of two-way end-of-train devices for employees who are responsible for the testing, operation, and maintenance of the devices; and
+
+(2) For operating employees the limitations and proper use of the emergency application signal and the loss of communication indication between front-of-train and rear-of-train devices.
 
 (d) A railroad that operates trains under conditions that require the setting of air brake pressure retaining valves shall adopt and comply with a training program which specifically addresses the proper use of retainers for employees who are responsible for using or setting retainers.
 
@@ -60,4 +64,4 @@
 
 (f) A railroad or contractor shall adopt and comply with a plan to periodically assess the effectiveness of its training program. One method of validation and assessment could be through the use of efficiency tests or periodic review of employee performance.
 
-[66 FR 4193, Jan. 17, 2001, as amended at 67 FR 17581, Apr. 10, 2002; 79 FR 66501, Nov. 7, 2014]
+[66 FR 4193, Jan. 17, 2001, as amended at 67 FR 17581, Apr. 10, 2002; 79 FR 66501, Nov. 7, 2014; 85 FR 80571, Dec. 11, 2020]

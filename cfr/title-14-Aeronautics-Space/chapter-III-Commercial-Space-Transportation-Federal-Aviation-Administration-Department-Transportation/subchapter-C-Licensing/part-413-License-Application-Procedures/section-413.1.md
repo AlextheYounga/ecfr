@@ -1,5 +1,7 @@
 ##### § 413.1 Scope of this part. #####
 
+Link to an amendment published at 85 FR 79710, Dec. 10, 2020.
+
 (a) This part explains how to apply for a license or experimental permit. These procedures apply to all applications for issuing a license or permit, transferring a license, and renewing a license or permit.
 
 (b) Use the following table to locate specific requirements:

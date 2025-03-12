@@ -1,5 +1,7 @@
 ##### § 5.36 Other equity investments by a national bank. #####
 
+Link to an amendment published at 85 FR 80458, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 1 *et seq.,* 24(Seventh), and 93a.
 
 (b) *Scope.* National banks are permitted to make various types of equity investments pursuant to 12 U.S.C. 24(Seventh) and other statutes. These investments are in addition to those subject to §§ 5.34, 5.35, and 5.37. This section describes the procedure governing the filing of the application or notice that the OCC requires in connection with certain of these investments. Other permissible equity investments may be reviewed on a case-by-case basis by the OCC.

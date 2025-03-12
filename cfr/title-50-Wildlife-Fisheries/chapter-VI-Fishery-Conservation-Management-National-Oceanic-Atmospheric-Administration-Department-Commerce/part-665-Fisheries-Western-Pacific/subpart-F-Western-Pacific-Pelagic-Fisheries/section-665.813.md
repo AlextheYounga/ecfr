@@ -1,7 +1,5 @@
 ##### § 665.813 Western Pacific longline fishing restrictions. #####
 
-Link to an amendment published at 85 FR 71579, Nov. 10, 2020.
-
 (a) [Reserved]
 
 (b) *Limits on sea turtle interactions in the shallow-set longline fishery* - (1) *Fleet Limits.* There are limits on the maximum number of allowable physical interactions that occur each year between leatherback sea turtles and vessels registered for use under Hawaii longline limited access permits while engaged in shallow-set fishing.
@@ -48,7 +46,7 @@ Link to an amendment published at 85 FR 71579, Nov. 10, 2020.
 
 (3) If there is no observer on board, and if any type of hook other than a circle hook is used, the limit is 10.
 
-(k) When fishing south of the Equator (0° lat.) for western Pacific pelagic MUS, owners and operators of vessels longer than 40 ft (12.2 m) registered for use with any valid longline permit issued pursuant to § 665.801 must use longline gear that is configured according to the requirements in paragraphs (k)(1) through (k)(5) of this section.
+(k) *South Pacific longline requirements.* When fishing south of the Equator (0° lat.) for western Pacific pelagic MUS, owners and operators of vessels longer than 40 ft (12.2 m) registered for use with any valid longline permit issued pursuant to § 665.801 must use longline gear that is configured according to the requirements in paragraphs (k)(1) through (4) of this section.
 
 (1) Each float line must be at least 30 m long.
 
@@ -58,6 +56,4 @@ Link to an amendment published at 85 FR 71579, Nov. 10, 2020.
 
 (4) No branch line may be attached to the mainline closer than 70 meters to any float line.
 
-(5) No more than 10 swordfish may be possessed or landed during a single fishing trip.
-
-[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 13299, Mar. 11, 2011; 76 FR 52889, Aug. 24, 2011; 77 FR 43722, July 26, 2012; 77 FR 60649, Oct. 4, 2012; 83 FR 49496, Oct. 2, 2018; 85 FR 57997, Sept. 17, 2020]
+[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 13299, Mar. 11, 2011; 76 FR 52889, Aug. 24, 2011; 77 FR 43722, July 26, 2012; 77 FR 60649, Oct. 4, 2012; 83 FR 49496, Oct. 2, 2018; 85 FR 57997, Sept. 17, 2020; 85 FR 71579, Nov. 10, 2020]

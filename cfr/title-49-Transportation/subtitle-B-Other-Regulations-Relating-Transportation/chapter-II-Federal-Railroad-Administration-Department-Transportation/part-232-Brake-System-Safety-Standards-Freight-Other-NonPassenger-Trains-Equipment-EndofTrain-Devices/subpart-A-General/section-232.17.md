@@ -1,14 +1,14 @@
 ##### § 232.17 Special approval procedure. #####
 
-(a) *General.* The following procedures govern consideration and action upon requests for special approval of a plan under § 232.15(g); an alternative standard under § 232.305, § 232.603, or a single car test procedure under § 232.611; and pre-revenue service acceptance testing plans under subpart F of this part.
+(a) *General.* The following procedures govern consideration and action upon requests for special approval of a plan under § 232.15(g); an alternative standard under § 232.305 or § 232.603; an alternative technology under § 232.407(b) or (c); or a single car test procedure under § 232.611; and pre-revenue service acceptance testing plans under subpart F of this part.
 
-(b) *Petitions for special approval of an alternative standard or test procedure.* Each petition for special approval of a plan under § 232.15(g); an alternative standard under § 232.305 or § 232.603; or a single car test procedure under § 232.611 shall contain:
+(b) *Petitions for special approval of an alternative standard or test procedure.* Each petition for special approval of a plan under § 232.15(g); an alternative standard under § 232.305 or § 232.603; an alternative technology under § 232.407(b) or (c); or a single car test procedure under § 232.611 shall contain:
 
 (1) The name, title, address, and telephone number of the primary person to be contacted with regard to review of the petition;
 
-(2) The plan, alternative standard, or test procedure proposed, in detail, to be submitted for or to meet the particular requirement of this part;
+(2) The plan, alternative standard, alternative technology, or test procedure proposed, in detail, to be submitted for or to meet the particular requirement of this part;
 
-(3) Appropriate data or analysis, or both, for FRA to consider in determining whether the plan, alternative standard, or test procedure, will be consistent with the guidance under § 232.15(f), if applicable, and will provide at least an equivalent level of safety or otherwise meet the requirements contained in this part; and
+(3) Appropriate data or analysis, or both, for FRA to consider in determining whether the plan, alternative standard, alternative technology, or test procedure, will be consistent with the guidance under § 232.15(f), if applicable, and will provide at least an equivalent level of safety or otherwise meet the requirements contained in this part; and
 
 (4) A statement affirming that the railroad has served a copy of the petition on designated representatives of its employees, together with a list of the names and addresses of the persons served.
 
@@ -44,4 +44,4 @@
 
 (3) When FRA grants or denies a petition, or reopens consideration of the petition, written notice is sent to the petitioner and other interested parties.
 
-[66 FR 4193, Jan. 17, 2001, as amended at 67 FR 17580, Apr. 10, 2002; 73 FR 61552, Oct. 16, 2008; 74 FR 25174, May 27, 2009]
+[66 FR 4193, Jan. 17, 2001, as amended at 67 FR 17580, Apr. 10, 2002; 73 FR 61552, Oct. 16, 2008; 74 FR 25174, May 27, 2009; 85 FR 80570, Dec. 11, 2020]

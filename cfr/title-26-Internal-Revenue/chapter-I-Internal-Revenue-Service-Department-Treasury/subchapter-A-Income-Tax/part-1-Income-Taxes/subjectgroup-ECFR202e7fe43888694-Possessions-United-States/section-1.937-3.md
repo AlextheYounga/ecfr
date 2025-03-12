@@ -4,19 +4,19 @@
 
 (b) *In general.* Except as provided in paragraphs (c) and (d) of this section, the principles of section 864(c) and the regulations under that section (relating to the determination of income, gain or loss that is effectively connected with the conduct of a trade or business within the United States) generally will be applied in determining whether income is effectively connected with the conduct of a trade or business within the relevant possession, without regard to whether the taxpayer qualifies as a nonresident alien individual or a foreign corporation with respect to such possession. Subject to the rules of this section, the principles of section 864(c)(4) will apply for purposes of determining whether income from sources without the relevant possession is effectively connected with the conduct of a trade or business in the relevant possession. For purposes of the preceding sentence, all income other than income from sources within the relevant possession (as determined under the rules of § 1.937-2) will be considered income from sources without the relevant possession in the application of the principles of section 864(c) under this paragraph (b), it generally will be sufficient to substitute the name of the relevant possession for the term “United States” where appropriate, but additional substitutions may be necessary to accomplish the intent of section 937(b) and this section. In no case, however, will a bona fide resident or other person have, as a result of the application of these principles, more income effectively connected with the conduct of a trade or business in the relevant possession than the amount of U.S. effectively connected income that a similarly situated U.S. person who is not a bona fide resident would have under section 864(c).
 
-(c) *U.S. income* - (1) *In general.* Except as provided in paragraph (d) of this section, income considered to be effectively connected with the conduct of a trade or business within the relevant possession will not include any item of income determined under the rules of sections 861 through 865 and the regulations under those provisions to be -
+(c) *U.S. income*—(1) *In general.* Except as provided in paragraph (d) of this section, income considered to be effectively connected with the conduct of a trade or business within the relevant possession will not include any item of income determined under the rules of sections 861 through 865 and the regulations under those provisions to be—
 
 (i) From sources within the United States; or
 
 (ii) Effectively connected with the conduct of a trade or business within the United States.
 
-(2) *Conduit arrangements.* Income will be considered to be from sources within the United States for purposes of paragraph (c)(1) of this section if, pursuant to a plan or arrangement -
+(2) *Conduit arrangements.* Income will be considered to be from sources within the United States for purposes of paragraph (c)(1) of this section if, pursuant to a plan or arrangement—
 
 (i) The income is received in exchange for consideration provided to another person; and
 
 (ii) Such person (or another person) provides the same consideration (or consideration of a like kind) to a third person in exchange for one or more payments constituting income from sources within the United States.
 
-(d) *Income from certain sales of inventory property.* Paragraph (c) of this section will not apply to income from sales of inventory property described in § 1.863-3(f).
+(d) *Income from certain sales of inventory property.* Paragraph (c) of this section will not apply to income from sales of inventory property described in § 1.863-3(e).
 
 (e) *Examples.* The provisions of this section may be illustrated by the following examples:
 
@@ -42,4 +42,4 @@ Example 5.(i) Corporation B, a corporation organized in Possession X, has its so
 
 (f) *Effective/applicability date.* Except as otherwise provided in this paragraph (f), this section applies to income earned in taxable years ending after April 9, 2008. Taxpayers may choose to apply paragraph (b) of this section to income earned in open taxable years ending after October 22, 2004.
 
-[T.D. 9391, 73 FR 19374, Apr. 9, 2008, as amended at T.D. 9391, 73 FR 27728, May 14, 2008]
+[T.D. 9391, 73 FR 19374, Apr. 9, 2008, as amended at T.D. 9391, 73 FR 27728, May 14, 2008; T.D. 9921, 85 FR 79853, Dec. 11, 2020]

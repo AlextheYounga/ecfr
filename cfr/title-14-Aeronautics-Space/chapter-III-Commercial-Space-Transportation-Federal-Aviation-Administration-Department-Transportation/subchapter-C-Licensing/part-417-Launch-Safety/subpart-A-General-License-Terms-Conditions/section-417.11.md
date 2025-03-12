@@ -1,5 +1,7 @@
 ##### § 417.11 Continuing accuracy of license application; application for modification of license. #####
 
+Link to an amendment published at 85 FR 79716, Dec. 10, 2020.
+
 (a) A launch operator must ensure the representations contained in its application are accurate for the entire term of the license. A launch operator must conduct a licensed launch and carry out launch safety procedures in accordance with its application.
 
 (b) After the FAA issues a launch license, a launch operator must apply to the FAA for modification of a launch license if -

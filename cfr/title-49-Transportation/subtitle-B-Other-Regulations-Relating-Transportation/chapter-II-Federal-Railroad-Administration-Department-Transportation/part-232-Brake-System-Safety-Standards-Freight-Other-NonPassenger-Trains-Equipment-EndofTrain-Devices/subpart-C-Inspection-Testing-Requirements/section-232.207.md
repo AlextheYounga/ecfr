@@ -1,4 +1,4 @@
-##### § 232.207 Class IA brake tests - 1,000-mile inspection. #####
+##### § 232.207 Class IA brake tests—1,000-mile inspection. #####
 
 (a) Except as provided in § 232.213, each train shall receive a Class IA brake test performed by a qualified person, as defined in § 232.5, at a location that is not more than 1,000 miles from the point where any car in the train last received a Class I or Class IA brake test. The most restrictive car or block of cars in the train shall determine the location of this test.
 
@@ -20,6 +20,6 @@
 
 (1) Failure to perform a Class IA brake test on a train at a location designated pursuant to this paragraph constitutes a failure to perform a proper Class IA brake test if the train is due for such a test at that location.
 
-(2) In the event of an emergency that alters normal train operations, such as a derailment or other unusual circumstance that adversely affects the safe operation of the train, the railroad is not required to provide prior written notification of a change in the location where a Class IA brake test is performed to a location not on the railroad's list of designated locations for performing Class IA brake tests, provided that the railroad notifies FRA's Associate Administrator for Safety and the pertinent FRA Regional Administrator within 24 hours after the designation has been changed and the reason for that change.
+(2) In the event of an emergency that alters normal train operations, such as a derailment or other unusual circumstance that adversely affects the safe operation of the train, the railroad is not required to provide prior written notification of a change in the location where a Class IA brake test is performed to a location not on the railroad's list of designated locations for performing Class IA brake tests, provided that the railroad notifies FRA's Associate Administrator for Safety within 24 hours after the designation has been changed and the reason for that change.
 
-[66 FR 4193, Jan. 17, 2001, as amended at 67 FR 17582, Apr. 10, 2002]
+[66 FR 4193, Jan. 17, 2001, as amended at 67 FR 17582, Apr. 10, 2002; 85 FR 80572, Dec. 11, 2020]

@@ -26,9 +26,13 @@
 
 (k) The maximum brake pipe pressure shall not be greater than 15 psi less than the air compressor governor starting or loading pressure.
 
-(l) Except as otherwise provided in this part, all equipment used in freight or other non-passenger trains shall, at a minimum, meet the Association of American Railroads (AAR) Standard S-469-47, “Performance Specification for Freight Brakes,” contained in the AAR *Manual of Standards and Recommended Practices, Section E* (April 1, 1999). The incorporation by reference of this AAR standard was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain a copy of the incorporated document from the Association of American Railroads, 50 F Street, NW, Washington, DC. 20001. You may inspect a copy of the document at the Federal Railroad Administration, Docket Clerk, 1200 New Jersey Avenue, SE., Washington, DC or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+(l) Except as otherwise provided in this part, all equipment used in freight or other non-passenger trains must, at a minimum, meet the Association of American Railroads (AAR) Standard S-469, “Freight Brakes- Performance Specification,” Revised 2006 (contained in AAR Manual of Standards and Recommended Practices, Brakes and Brake Equipment), also referred to as AAR Standard S-469-01. The Director of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain a copy from the Association of American Railroads, 425 Third Street SW, Washington, DC 20024, telephone: (202) 639-2345, email: *publications@aar.com,* website: *https://aarpublications.com*. You may inspect a copy of the document at the Federal Railroad Administration, Docket Clerk, 1200 New Jersey Avenue SE, Washington, DC 20590 (telephone: (855) 368-4200) or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fedreg.legal@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html*.
 
-(m) If a train qualified by the Air Flow Method as provided for in subpart C of this part experiences a brake pipe air flow of greater than 60 CFM or brake pipe gradient of greater than 15 psi while en route and the movable pointer does not return to those limits within a reasonable time, the train shall be stopped at the next available location and be inspected for leaks in the brake system.
+(m) An en route train shall be stopped at the next available location, inspected for leaks in the brake system, and provided with corrective action, if the train experiences:
+
+(1) A brake pipe gradient of greater than 15 psi; or
+
+(2) A brake pipe air flow of greater than that permitted by this part, when the air flow has been qualified by the Air Flow Method as provided for in subpart C of this part and the indication does not return to within the limits in a reasonable time.
 
 (n) *Securement of unattended equipment.* Unattended equipment shall be secured in accordance with the following requirements:
 
@@ -76,7 +80,7 @@
 
 (i) In lieu of applying hand brakes as required under paragraph (n) of this section, properly maintain and use mechanical securement devices, within their design criteria and as intended within a classification yard or on a repair track.
 
-(ii) In lieu of compliance with the associated requirement in paragraph (n)(2) of this section - and in lieu of applying hand brakes as required under paragraph (n) of this section - isolate the brake pipe of standing equipment from atmosphere if it:
+(ii) In lieu of compliance with the associated requirement in paragraph (n)(2) of this section—and in lieu of applying hand brakes as required under paragraph (n) of this section— isolate the brake pipe of standing equipment from atmosphere if it:
 
 (A) Initiates an emergency brake application on the equipment;
 
@@ -102,4 +106,4 @@
 |                  (8) Self-lapping portion for independent air brake (full application pressure)                  |30-50|
 |                                (9) Reducing valve for high-speed brake (minimum)                                 | 50  |
 
-[66 FR 4193, Jan. 17, 2001, as amended at 67 FR 17581, Apr. 10, 2002; 73 FR 61553, Oct. 16, 2008; 74 FR 25174, May 27, 2009; 80 FR 47834, Aug. 6, 2015]
+[66 FR 4193, Jan. 17, 2001, as amended at 67 FR 17581, Apr. 10, 2002; 73 FR 61553, Oct. 16, 2008; 74 FR 25174, May 27, 2009; 80 FR 47834, Aug. 6, 2015; 85 FR 80571, Dec. 11, 2020]

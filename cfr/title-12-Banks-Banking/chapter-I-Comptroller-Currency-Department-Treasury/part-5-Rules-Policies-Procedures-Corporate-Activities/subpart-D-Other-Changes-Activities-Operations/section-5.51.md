@@ -1,5 +1,7 @@
 ##### § 5.51 Changes in directors and senior executive officers of a national bank or Federal savings association. #####
 
+Link to an amendment published at 85 FR 80466, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 1831i and 12 U.S.C. 5412(b)(2)(B).
 
 (b) *Scope.* This section describes the circumstances when a national bank or a Federal savings association must notify the OCC of a change in its directors and senior executive officers, and the OCC's authority to disapprove those notices.

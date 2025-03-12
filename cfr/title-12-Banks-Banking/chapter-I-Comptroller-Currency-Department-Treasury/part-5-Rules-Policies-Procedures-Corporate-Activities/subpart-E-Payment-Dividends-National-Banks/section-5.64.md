@@ -1,5 +1,7 @@
 ##### § 5.64 Earnings limitation under 12 U.S.C. 60. #####
 
+Link to an amendment published at 85 FR 80469, Dec. 11, 2020.
+
 (a) *Definitions.* As used in this section, the term “current year” means the calendar year in which a national bank declared, or proposes to declare, a dividend. The term “current year minus one” means the year immediately preceding the current year. The term “current year minus two” means the year that is two years prior to the current year. The term “current year minus three” means the year that is three years prior to the current year. The term “current year minus four” means the year that is four years prior to the current year.
 
 (b) *Dividends from undivided profits.* Subject to 12 U.S.C. 56 and this subpart, the directors of a national bank may declare and pay dividends of so much of the undivided profits as they judge to be expedient.

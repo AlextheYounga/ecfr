@@ -1,5 +1,7 @@
 ##### § 5.10 Comments. #####
 
+Link to an amendment published at 85 FR 80436, Dec. 11, 2020.
+
 (a) *Submission of comments.* During the comment period, any person may submit written comments on a filing to the appropriate OCC licensing office.
 
 (b) *Comment period* - (1) *In general.* Unless otherwise stated, the comment period is 30 days after publication of the public notice required by § 5.8(a). If a new public notice is required under § 5.8(g), the OCC may require a new comment period of up to 30 days after publication of the new public notice.

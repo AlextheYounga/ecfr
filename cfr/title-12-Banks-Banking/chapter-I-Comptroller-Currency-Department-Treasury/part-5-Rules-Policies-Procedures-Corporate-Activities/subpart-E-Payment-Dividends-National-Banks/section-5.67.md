@@ -1,5 +1,7 @@
 ##### § 5.67 Fractional shares. #####
 
+Link to an amendment published at 85 FR 80470, Dec. 11, 2020.
+
 To avoid complicated recordkeeping in connection with fractional shares, a national bank issuing additional stock by stock dividend, upon consolidation or merger, or otherwise, may adopt arrangements such as the following to preclude the issuance of fractional shares. The bank may:
 
 (a) Issue scripts or warrants for trading;

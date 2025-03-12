@@ -1,5 +1,7 @@
 ##### § 404.5 Filing a petition for waiver. #####
 
+Link to an amendment published at 85 FR 79709, Dec. 10, 2020.
+
 A petition for waiver must be submitted at least 60 days before the proposed effective date of the waiver unless the petitioner shows good cause for later submission in the petition, and the petition for waiver must -
 
 (a) Include the specific section or sections of 14 CFR chapter III from which the petitioner seeks relief;

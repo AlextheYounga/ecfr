@@ -1,0 +1,5 @@
+##### § 232.715 Double heading and helper service. #####
+
+(a) When more than one locomotive is attached to a train, the engineman of the leading locomotive shall operate the brakes. On all other motive power units in the train the brake pipe cutout cock to the brake valve must be closed, the maximum main reservoir pressure maintained and brake valve handles kept in the prescribed position. In case it becomes necessary for the leading locomotive to give up control of the train short of the destination of the train, a test of the brakes must be made to see that the brakes are operative from the automatic brake valve of the locomotive taking control of the train.
+
+(b) The electro-pneumatic brake valve on all motive power units other than that which is handling the train must be cut out, handle of brake valve kept in the prescribed position, and air compressors kept running if practicable.

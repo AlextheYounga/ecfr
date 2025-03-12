@@ -1,5 +1,7 @@
 ##### § 5.23 Conversion to become a Federal savings association. #####
 
+Link to an amendment published at 85 FR 80445, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 35, 1462a, 1463, 1464, 1467a, 2903, and 5412(b)(2)(B).
 
 (b) *Scope.* (1) This section describes procedures and standards governing OCC review and approval of an application by a mutual depository institution to convert to a Federal mutual savings association or an application by a stock depository institution to convert to a Federal stock savings association.

@@ -1,5 +1,7 @@
 ##### § 5.47 Subordinated debt issued by a national bank. #####
 
+Link to an amendment published at 85 FR 80464, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 93a, 1831o, and 3907.
 
 (b) *Scope.* This section sets forth the requirements applicable to all subordinated debt notes issued by national banks and the procedures for OCC review and approval of a national bank's application to issue or prepay subordinated debt and a notice to include subordinated debt in tier 2 capital.

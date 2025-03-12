@@ -1,5 +1,7 @@
 ##### § 665.253 Annual Catch Limits (ACL). #####
 
+Link to an amendment published at 85 FR 79929, Dec. 11, 2020.
+
 In accordance with § 665.4, the ACLs for MHI crusteaceans for each fishing year are as follows:
 
 |    Fishery     |2019 ACL  <br/>(lb)|2020 ACL  <br/>(lb)|2021 ACL  <br/>(lb)|

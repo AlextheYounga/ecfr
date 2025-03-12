@@ -6,11 +6,23 @@
 
 (2) Where a car or a block of cars is removed from the train with the consist otherwise remaining intact;
 
-(3) At a point other than the initial terminal for the train, where a car or a solid block of cars that is comprised of cars from only one previous train the cars of which have remained continuously and consecutively coupled together with the trainline remaining connected, other than for removing defective equipment, since being removed from its previous train that has previously received a Class I brake test and that has not been off air for more than four hours is added to a train;
+(3) At a point, other than the initial terminal for the train, where a car or a solid block of cars that is comprised of cars from only one previous train the cars of which:
 
-(4) At a point other than the initial terminal for the train, where a solid block of cars that is comprised of cars from a single previous train is added to a train, provided that the solid block of cars was required to be separated into multiple solid blocks of cars due to space or trackage constraints at a particular location when removed from the previous train, and the cars have previously received a Class I brake test, have not been off air more than four hours, and the cars in each of the multiple blocks of cars have remained continuously and consecutively coupled together with the train line remaining connected, except for the removal of defective equipment. Furthermore, these multiple solid blocks of cars must be added to the train in the same relative order (no reclassification) as when removed from the previous train, except for the removal of defective equipment; or
+(i) Have remained continuously and consecutively coupled together with the trainline remaining connected, other than for removing defective equipment, since being removed from its previous train that has previously received a Class I brake test; and
 
-(5) At a point other than the initial terminal for the train, where a car or a solid block of cars that has received a Class I or Class II brake test at that location, prior to being added to the train, and that has not been off air for more than four hours is added to a train.
+(ii) That has not been off-air for more than 24 hours is added to a train;
+
+(4) At a point, other than the initial terminal for the train, where a solid block of cars that is comprised of cars from a single previous train is added to a train, provided:
+
+(i) The solid block of cars was required to be separated into multiple solid blocks of cars due to space or trackage constraints at a particular location when removed from the previous train;
+
+(ii) The cars have previously received a Class I brake test;
+
+(iii) Have not been off-air more than 24 hours; and
+
+(iv) The cars in each of the multiple blocks of cars have remained continuously and consecutively coupled together with the train line remaining connected, except for the removal of defective equipment. Furthermore, these multiple solid blocks of cars must be added to the train in the same relative order (no reclassification) as when removed from the previous train, except for the removal of defective equipment; or
+
+(5) At a point, other than the initial terminal for the train, where a car or a solid block of cars that has received a Class I or Class II brake test at that location, prior to being added to the train, and that has not been off-air for more than 24 hours, is added to a train.
 
 (b) A Class III brake test shall consist of the following tasks and requirements:
 
@@ -26,4 +38,4 @@
 
 (d) Whenever the continuity of the brake pipe is broken or interrupted with the train consist otherwise remaining unchanged, it must be determined that the brake pipe pressure of the train is being restored as indicated by a rear car gauge or end-of-train device prior to proceeding. In the absence of an accurate rear car gauge or end-of-train telemetry device, it must be determined that the brakes on the rear car of the train apply and release in response to air pressure changes made in the controlling locomotive.
 
-[66 FR 4193, Jan. 17, 2001, as amended at 67 FR 17583, Apr. 10, 2002]
+[66 FR 4193, Jan. 17, 2001, as amended at 67 FR 17583, Apr. 10, 2002; 85 FR 80572, Dec. 11, 2020]

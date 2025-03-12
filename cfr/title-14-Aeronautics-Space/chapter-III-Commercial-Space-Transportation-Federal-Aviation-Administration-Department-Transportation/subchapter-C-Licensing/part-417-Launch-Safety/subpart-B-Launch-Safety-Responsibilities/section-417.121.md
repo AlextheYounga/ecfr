@@ -1,5 +1,7 @@
 ##### § 417.121 Safety critical preflight operations. #####
 
+Link to an amendment published at 85 FR 79716, Dec. 10, 2020.
+
 (a) *General.* A launch operator must perform safety critical preflight operations that protect the public from the adverse effects of hazards associated with launch processing and flight of a launch vehicle. The launch operator must identify all safety critical preflight operations in the launch schedule required by § 417.17(b)(1). Safety critical preflight operations must include those defined in this section.
 
 (b) *Countdown.* A launch operator must implement its countdown plan, of § 417.111(l), for each launch. A launch operator must disseminate a countdown plan to all personnel responsible for the countdown and flight of a launch vehicle, and each person must follow that plan.

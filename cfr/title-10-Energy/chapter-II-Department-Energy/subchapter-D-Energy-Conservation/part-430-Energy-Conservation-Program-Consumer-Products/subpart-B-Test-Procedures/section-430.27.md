@@ -1,5 +1,7 @@
 ##### § 430.27 Petitions for waiver and interim waiver. #####
 
+Link to an amendment published at 85 FR 79820, Dec. 11, 2020.
+
 (a) *General information.* This section provides a means for seeking waivers of the test procedure requirements of this subpart for basic models that meet the requirements of paragraph (a)(1) of this section. In granting a waiver or interim waiver, DOE will not change the energy use or efficiency metric that the manufacturer must use to certify compliance with the applicable energy conservation standard and to make representations about the energy use or efficiency of the covered product. The granting of a waiver or interim waiver by DOE does not exempt such basic models from any other regulatory requirement contained in this part or the certification and compliance requirements of 10 CFR part 429 and specifies an alternative method for testing the basic models addressed in the waiver.
 
 (1) Any interested person may submit a petition to waive for a particular basic model any requirements of § 430.23 or of any appendix to this subpart, upon the grounds that the basic model contains one or more design characteristics which either prevent testing of the basic model according to the prescribed test procedures or cause the prescribed test procedures to evaluate the basic model in a manner so unrepresentative of its true energy and/or water consumption characteristics as to provide materially inaccurate comparative data.

@@ -1,8 +1,8 @@
-##### § 232.209 Class II brake tests - intermediate inspection. #####
+##### § 232.209 Class II brake tests—intermediate inspection. #####
 
-(a) At a location other than the initial terminal of a train, a Class II brake test shall be performed by a qualified person, as defined in § 232.5, on the following equipment when added to a train:
+(a) At a location other than the initial terminal of a train, a Class II brake test must be performed by a qualified person, as defined in § 232.5, on the following equipment when added to a train:
 
-(1) Each car or solid block of cars, as defined in § 232.5, that has not previously received a Class I brake test or that has been off air for more than four hours;
+(1) Each car or solid block of cars, as defined in § 232.5, that has not previously received a Class I brake test or that has been off-air for more than 24 hours;
 
 (2) Each solid block of cars, as defined in § 232.5, that is comprised of cars from more than one previous train; and
 
@@ -26,4 +26,4 @@
 
 (d) Each car or solid block of cars that receives a Class II brake test pursuant to this section when added to the train shall receive a Class I brake test at the next forward location where facilities are available for performing such a test.
 
-[66 FR 4193, Jan. 17, 2001, as amended at 67 FR 17583, Apr. 10, 2002]
+[66 FR 4193, Jan. 17, 2001, as amended at 67 FR 17583, Apr. 10, 2002; 85 FR 80572, Dec. 11, 2020]

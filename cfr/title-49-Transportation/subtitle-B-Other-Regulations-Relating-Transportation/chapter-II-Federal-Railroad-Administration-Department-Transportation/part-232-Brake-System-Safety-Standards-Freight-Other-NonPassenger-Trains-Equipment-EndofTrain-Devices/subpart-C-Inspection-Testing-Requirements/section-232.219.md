@@ -1,4 +1,4 @@
-##### § 232.219 Double heading and helper service. #####
+##### § 232.219 Double-heading and helper service. #####
 
 (a) When more than one locomotive is attached to a train, the engineer of the controlling locomotive shall operate the brakes. In case it becomes necessary for the controlling locomotive to give up control of the train short of the destination of the train, a Class III brake test pursuant to § 232.211 shall be made to ensure that the brakes are operative from the automatic brake valve of the locomotive taking control of the train.
 
@@ -10,6 +10,8 @@
 
 (2) A method to reset the device shall be provided in the cab of the helper locomotive that can be operated from the engineer's usual position during operation of the locomotive. Alternatively, the helper locomotive or the device shall be equipped with a means to automatically reset the device, provided that the automatic reset occurs within the period time permitted for manual reset of the device; and
 
-(3) The device shall be tested for accuracy and calibrated if necessary according to the manufacturer's specifications and procedures every 365 days. This shall include testing radio frequencies and modulation of the device. A legible record of the date and location of the last test or calibration shall be maintained with the device.
+(3) When helping trains equipped with distributed power or ECP brakes on the rear of the train, and utilizing a *Helper Link* device or a similar technology, a properly installed and tested end-of-train device may be utilized on the helper locomotive. Railroads must adopt and comply with an operating rule consistent with this chapter to ensure the safe use of this alternative procedure.
 
-[66 FR 4193, Jan. 17, 2001, as amended at 67 FR 17584, Apr. 10, 2002]
+(4) The device shall be tested for accuracy and calibrated if necessary according to the manufacturer's specifications and procedures every 365 days. This shall include testing radio frequencies and modulation of the device. A legible record of the date and location of the last test or calibration shall be maintained with the device.
+
+[66 FR 4193, Jan. 17, 2001, as amended at 67 FR 17584, Apr. 10, 2002; 85 FR 80573, Dec. 11, 2020]

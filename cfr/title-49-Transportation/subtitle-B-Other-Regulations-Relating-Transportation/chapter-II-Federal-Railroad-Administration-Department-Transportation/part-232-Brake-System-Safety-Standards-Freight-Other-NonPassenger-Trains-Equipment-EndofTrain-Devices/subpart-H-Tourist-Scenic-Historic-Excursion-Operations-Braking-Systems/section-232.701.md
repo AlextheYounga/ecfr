@@ -1,0 +1,3 @@
+##### § 232.701 Power brakes; minimum percentage. #####
+
+On and after September 1, 1910, on all railroads used in interstate commerce, whenever, as required by the Safety Appliance Act as amended March 2, 1903, any train is operated with power or train brakes, not less than 85 percent of the cars of such train shall have their brakes used and operated by the engineer of the locomotive drawing such train, and all power-brake cars in every such train which are associated together with the 85 percent shall have their brakes so used and operated.

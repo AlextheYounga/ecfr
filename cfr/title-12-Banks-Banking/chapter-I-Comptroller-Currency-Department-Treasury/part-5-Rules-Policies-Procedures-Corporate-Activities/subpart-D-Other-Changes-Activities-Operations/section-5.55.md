@@ -1,5 +1,7 @@
 ##### § 5.55 Capital distributions by Federal savings associations. #####
 
+Link to an amendment published at 85 FR 80466, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 1462a, 1463, 1464, 1467a, 1831o, and 5412(b)(2)(B).
 
 (b) *Licensing requirements.* A Federal savings association must file an application or notice before making a capital distribution, as provided in this section.

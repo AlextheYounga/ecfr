@@ -1,5 +1,7 @@
 ##### § 3.701 Capital and surplus. #####
 
+Link to an amendment published at 85 FR 80434, Dec. 11, 2020.
+
 For purposes of determining statutory limits that are based on the amount of a national bank's *capital* and/or *surplus,* the provisions of this section are to be used, rather than the definitions of capital contained in subparts A through J of this part.
 
 (a) *Capital.* The term *capital* as used in provisions of law relating to the capital of national banks shall include the amount of common stock outstanding and unimpaired plus the amount of perpetual preferred stock outstanding and unimpaired.

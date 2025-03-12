@@ -6,6 +6,6 @@
 
 (c) Marking devices prescribed by this part and equipped with a functioning photoelectric cell activation mechanism shall illuminate or flash the device continuously when there is less than 1.0 candela per square meter of ambient light.
 
-(d) The centroid of the marking device must be located at a minimum of 48 inches above the top of the rail.
+(d) The centroid of the marking device must be located above the coupler, where its visibility is not obscured and it does not interfere with an employee's access to, or use of, any other safety appliance on the car.
 
-[51 FR 25185, July 10, 1986]
+[51 FR 25185, July 10, 1986, as amended at 85 FR 80569, Dec. 11, 2020]

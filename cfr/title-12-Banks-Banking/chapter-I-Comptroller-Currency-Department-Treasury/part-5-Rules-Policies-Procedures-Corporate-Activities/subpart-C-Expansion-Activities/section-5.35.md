@@ -1,5 +1,7 @@
 ##### § 5.35 Bank service company investments by a national bank or Federal savings association investment. #####
 
+Link to an amendment published at 85 FR 80458, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 93a, 1462a, 1463, 1464, 1861-1867, 5412(b)(2)(B).
 
 (b) *Licensing requirements.* Except where otherwise provided, a national bank or Federal savings association shall submit a notice and obtain prior OCC approval to invest in the equity of a bank service company or to perform new activities in an existing bank service company.

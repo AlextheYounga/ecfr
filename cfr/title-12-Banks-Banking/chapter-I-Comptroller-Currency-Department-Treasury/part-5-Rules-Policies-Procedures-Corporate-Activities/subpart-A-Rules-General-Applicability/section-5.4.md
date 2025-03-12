@@ -1,5 +1,7 @@
 ##### § 5.4 Filing required. #####
 
+Link to an amendment published at 85 FR 80435, Dec. 11, 2020.
+
 (a) *Filing.* A depository institution shall file an application or notice with the OCC to engage in corporate activities and transactions as described in this part.
 
 (b) *Availability of forms.* Forms and instructions for filing are available on the OCC's Internet Web page at *www.occ.gov*.

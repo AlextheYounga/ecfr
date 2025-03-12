@@ -1,5 +1,7 @@
 ##### § 420.5 Definitions. #####
 
+Link to an amendment published at 85 FR 79716, Dec. 10, 2020.
+
 For the purpose of this part.
 
 *Ballistic coefficient* means the weight of an object divided by the quantity product of the coefficient of drag of the object and the area of the object.

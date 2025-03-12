@@ -214,4 +214,4 @@ If you elected revenue protection:
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
-[59 FR 67136, Dec. 29, 1994, as amended at 60 FR 62727, Dec. 7, 1995; 62 FR 63633, Dec. 2, 1997; 62 FR 65166, Dec. 10, 1997; 67 FR 55690, Aug. 30, 2002; 75 FR 15879, 15880, Mar. 30, 2010; 81 FR 84398, Nov. 23, 2016; 85 FR 76427, Nov. 30, 2020]
+[59 FR 67136, Dec. 29, 1994, as amended at 60 FR 62727, Dec. 7, 1995; 62 FR 63633, Dec. 2, 1997; 62 FR 65166, Dec. 10, 1997; 67 FR 55690, Aug. 30, 2002; 75 FR 15879, 15880, Mar. 30, 2010; 81 FR 84398, Nov. 23, 2016; 85 FR 76427, Nov. 30, 2020; 85 FR 79779, Dec. 11, 2020]

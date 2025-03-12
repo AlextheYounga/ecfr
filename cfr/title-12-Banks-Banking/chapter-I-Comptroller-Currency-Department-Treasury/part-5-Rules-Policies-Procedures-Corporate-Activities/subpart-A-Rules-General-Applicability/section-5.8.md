@@ -1,5 +1,7 @@
 ##### § 5.8 Public notice. #####
 
+Link to an amendment published at 85 FR 80436, Dec. 11, 2020.
+
 (a) *In general.* An applicant shall publish a public notice of its filing in a newspaper of general circulation in the community in which the applicant proposes to engage in business, on the date of filing, or as soon as practicable before or after the date of filing. This notice shall be published in the English language but if the OCC determines that the primary language of a significant number of adult residents of the community is a language other than English, the OCC may require that an additional notice(s) simultaneously be published in the community in the appropriate language(s).
 
 (b) *Contents of the public notice.* The public notice shall state that a filing is being made, the date of the filing, the name and address of the applicant, the subject matter of the filing (including the name of the institution that is the subject of the filing), that the public may submit comments to the appropriate OCC licensing office, the address of the appropriate OCC licensing office where comments should be sent, the closing date of the public comment period (if known at the time of publication of the notice), that the public portion of the filing is available on request, that the public may find information about the filing (including the closing date of the comment period) in the OCC's Weekly Bulletin available at *www.occ.gov*, and any other information that the OCC requires.

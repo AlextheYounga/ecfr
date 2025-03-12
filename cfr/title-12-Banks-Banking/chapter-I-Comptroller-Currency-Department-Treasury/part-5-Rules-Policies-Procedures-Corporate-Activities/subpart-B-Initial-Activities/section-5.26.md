@@ -1,5 +1,7 @@
 ##### § 5.26 Fiduciary powers of national banks and Federal savings associations. #####
 
+Link to an amendment published at 85 FR 80446, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 92a and 1462a, 1463, 1464(n), and 5412(b)(2)(B).
 
 (b) *Licensing requirements.* A national bank or Federal savings association must submit an application and obtain prior approval from, or in certain circumstances file a notice with, the OCC in order to exercise fiduciary powers. No approval or notice is required in the following circumstances:

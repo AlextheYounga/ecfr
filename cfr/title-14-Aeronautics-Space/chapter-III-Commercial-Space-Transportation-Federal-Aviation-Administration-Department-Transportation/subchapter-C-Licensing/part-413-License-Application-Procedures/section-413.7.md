@@ -1,5 +1,7 @@
 ##### § 413.7 Application. #####
 
+Link to an amendment published at 85 FR 79710, Dec. 10, 2020.
+
 (a) An applicant must make an application in writing and in English. The applicant must file the application with the Federal Aviation Administration either by paper, by use of physical electronic storage, or by email in the following manner:
 
 (1) For applications submitted on paper, an applicant must send two copies of the application to the Federal Aviation Administration, Associate Administrator for Commercial Space Transportation, Room 331, 800 Independence Avenue SW., Washington, DC 20591. Attention: Application Review.

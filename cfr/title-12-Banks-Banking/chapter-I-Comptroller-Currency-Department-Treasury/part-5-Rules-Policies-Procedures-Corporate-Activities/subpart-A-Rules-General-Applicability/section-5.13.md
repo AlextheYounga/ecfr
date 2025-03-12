@@ -1,5 +1,7 @@
 ##### § 5.13 Decisions. #####
 
+Link to an amendment published at 85 FR 80436, Dec. 11, 2020.
+
 (a) *In general.* The OCC may approve, conditionally approve, or deny a filing after appropriate review and consideration of the record. In reviewing a filing, the OCC may consider the activities, resources, or condition of an affiliate of the applicant that may reasonably reflect on or affect the applicant. It also may consider information available from any source, including any comments submitted by interested parties or views expressed by interested parties at meetings with the OCC.
 
 (1) *Conditional approval.* The OCC may impose conditions on any approval, including to address a significant supervisory, CRA (if applicable), or compliance concern, if the OCC determines that the conditions are necessary or appropriate to ensure that approval is consistent with relevant statutory and regulatory standards and OCC policies thereunder and safe and sound banking practices.

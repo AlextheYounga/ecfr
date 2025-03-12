@@ -1,5 +1,7 @@
 ##### § 665.243 Prohibitions. #####
 
+Link to an amendment published at 85 FR 79929, Dec. 11, 2020.
+
 In addition to the general prohibitions specified in 50 CFR §§ 600.725 and 665.15, it is unlawful for any person to do any of the following:
 
 (a) In Permit Area 1, it is unlawful for any person to -

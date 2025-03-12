@@ -4,7 +4,7 @@ In solicitations or advertisements for employees placed by or on behalf of a pri
 
 (a) States expressly in the solicitations or advertising that all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin;
 
-(b) Uses display or other advertising, and the advertising includes an appropriate insignia prescribed by the Deputy Assistant Secretary. The use of the insignia is considered subject to the provisions of 18 U.S.C. 701;
+(b) Uses display or other advertising, and the advertising includes an appropriate insignia prescribed by the Director. The use of the insignia is considered subject to the provisions of 18 U.S.C. 701;
 
 (c) Uses a single advertisement, and the advertisement is grouped with other advertisements under a caption which clearly states that all employers in the group assure all qualified applicants equal consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin;
 

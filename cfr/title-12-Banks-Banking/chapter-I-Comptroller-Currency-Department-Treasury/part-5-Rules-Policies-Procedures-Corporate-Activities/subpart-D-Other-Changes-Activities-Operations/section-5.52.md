@@ -1,5 +1,7 @@
 ##### § 5.52 Change of address of a national bank or Federal savings association. #####
 
+Link to an amendment published at 85 FR 80466, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 93a, 161, 481, 1462a, 1463, 1464 and 5412(b)(2)(B).
 
 (b) *Scope.* This section describes the obligation of a national bank or a Federal savings association to notify the OCC of any change in its address.

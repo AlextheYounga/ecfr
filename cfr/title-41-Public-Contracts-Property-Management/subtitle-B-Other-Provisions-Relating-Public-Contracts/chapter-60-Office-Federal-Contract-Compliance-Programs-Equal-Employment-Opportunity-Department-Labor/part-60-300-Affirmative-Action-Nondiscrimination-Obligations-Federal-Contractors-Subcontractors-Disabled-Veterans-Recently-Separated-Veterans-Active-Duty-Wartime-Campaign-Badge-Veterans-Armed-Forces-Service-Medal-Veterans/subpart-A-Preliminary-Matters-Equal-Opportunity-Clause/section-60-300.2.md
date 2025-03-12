@@ -1,7 +1,5 @@
 ##### § 60-300.2 Definitions. #####
 
-Link to an amendment published at 85 FR 71572, Nov. 10, 2020.
-
 For the purpose of this part:
 
 (a) *Act* means the Vietnam Era Veterans' Readjustment Assistance Act of 1974, as amended, 38 U.S.C. 4212, also referred to throughout this regulation as “VEVRAA.”
@@ -38,7 +36,7 @@ For the purpose of this part:
 
 (k) *Equal opportunity clause* means the contract provisions set forth in § 60-300.5, “Equal opportunity clause.”
 
-(l) *Essential functions* - (1) *In general.* The term essential functions means fundamental job duties of the employment position the disabled veteran holds or is seeking. The term essential functions does not include the marginal functions of the position.
+(l) *Essential functions*—(1) *In general.* The term essential functions means fundamental job duties of the employment position the disabled veteran holds or is seeking. The term essential functions does not include the marginal functions of the position.
 
 (2) A job function may be considered essential for any of several reasons, including, but not limited to, the following:
 
@@ -118,7 +116,17 @@ For the purpose of this part:
 
 (s) *Qualified disabled veteran* means a disabled veteran who has the ability to perform the essential functions of the employment position with or without reasonable accommodation.
 
-(t) *Reasonable accommodation* - (1) The term *reasonable accommodation* means:
+(t) *Qualitative evidence* includes but is not limited to testimony, interview statements, and documents about biased statements, remarks, attitudes, or acts based upon membership in a protected class, particularly when made by a decision maker involved in the action under investigation; testimony, interview statements, and documents about individuals denied or given misleading or contradictory information about employment or compensation practices, in circumstances suggesting discriminatory treatment based on a protected characteristic; testimony, interview statements, and documents about the extent of discretion or subjectivity involved in making employment decisions, in conjunction with evidence suggesting the discretion or subjectivity has been used to discriminate based on a protected characteristic; or other anecdotal evidence relevant to determining a contractor's discriminatory or non-discriminatory intent, the business necessity (or lack thereof) of a challenged policy or practice, or whether the contractor has otherwise complied with its non-discrimination obligations. Qualitative evidence may not be based solely on subjective inferences or the mere fact of supervisory discretion in employment decisions. The Office of Federal Contract Compliance Programs (OFCCP) may also consider qualitative evidence in the form of a contractor's efforts to advance equal employment opportunity beyond mere compliance with legal obligations in determining whether intentional discrimination has occurred.
+
+(u) *Quantitative evidence* includes hypothesis testing, controlling for the major, measurable parameters, and variables used by the contractor (including, as appropriate, preferred qualifications, other demographic variables, test scores, geographic variables, performance evaluations, years of experience, quality of experience, years of service, quality and reputation of previous employers, years of education, years of training, quality and reputation of credentialing institutions, *etc.*), related to the probability of outcomes occurring by chance and/or analyses reflecting statements concluding that a disparity in employment selection rates or rates of compensation is statistically significant by reference to any one of these statements:
+
+(1) The disparity is two or more times larger than its standard error (*i.e.,* a standard deviation of two or more);
+
+(2) The Z statistic has a value greater than two; or
+
+(3) The probability value is less than 0.05. It also includes numerical analysis of similarly situated individuals, small groups, or other characteristics, demographics or outcomes where hypothesis-testing techniques are not used.
+
+(v) *Reasonable accommodation*—(1) The term *reasonable accommodation* means:
 
 (i) Modifications or adjustments to a job application process that enable a qualified applicant who is a disabled veteran to be considered for the position such applicant desires;1 or
 
@@ -138,13 +146,13 @@ For the purpose of this part:
 
 2 Contractors must engage in such an interactive process with a disabled veteran, whether or not a reasonable accommodation ultimately is identified that will make the person a qualified individual. Contractors must engage in the interactive process because, until they have done so, they may be unable to determine whether a reasonable accommodation exists that will result in the person being qualified.
 
-(u) *Recently separated veteran* means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval or air service.
+(w) *Recently separated veteran* means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval or air service.
 
-(v) *Recruiting and training agency* means any person who refers workers to any contractor, or who provides or supervises apprenticeship or training for employment by any contractor.
+(x) *Recruiting and training agency* means any person who refers workers to any contractor, or who provides or supervises apprenticeship or training for employment by any contractor.
 
-(w) *Secretary* means the Secretary of Labor, United States Department of Labor, or his or her designee.
+(y) *Secretary* means the Secretary of Labor, United States Department of Labor, or his or her designee.
 
-(x) *Subcontract.* (1) Subcontract means any agreement or arrangement between a contractor and any person (in which the parties do not stand in the relationship of an employer and an employee):
+(z) *Subcontract.* (1) Subcontract means any agreement or arrangement between a contractor and any person (in which the parties do not stand in the relationship of an employer and an employee):
 
 (i) For the purchase, sale or use of personal property or nonpersonal services which, in whole or in part, is necessary to the performance of any one or more contracts; or
 
@@ -158,11 +166,11 @@ For the purpose of this part:
 
 (iii) A health organization is a voluntary association, corporation, partnership, managed care support contractor, or other nongovernmental organization that is lawfully engaged in providing, paying for, insuring, or reimbursing the cost of health care services or supplies under group insurance policies or contracts, medical or hospital service agreements, membership or subscription contracts, network agreements, health benefits plans duly sponsored or underwritten by an employee organization or association of organizations and health maintenance organizations, or other similar arrangements, in consideration of premiums or other periodic charges or payments payable to the health organization.
 
-(y) *Subcontractor* means any person holding a subcontract of $100,000 or more and, for the purposes of subpart D of this part, “General Enforcement and Complaint Procedures,” any person who has held a subcontract subject to the Act.
+(aa) *Subcontractor* means any person holding a subcontract of $100,000 or more and, for the purposes of subpart D of this part, “General Enforcement and Complaint Procedures,” any person who has held a subcontract subject to the Act.
 
-(z) *TAP* means the Department of Defense's Transition Assistance Program, or any successor programs thereto. The TAP was designed to smooth the transition of military personnel and family members leaving active duty via employment workshops and individualized employment assistance and training.
+(bb) *TAP* means the Department of Defense's Transition Assistance Program, or any successor programs thereto. The TAP was designed to smooth the transition of military personnel and family members leaving active duty via employment workshops and individualized employment assistance and training.
 
-(aa) *Undue hardship* - (1) *In general. Undue hardship* means, with respect to the provision of an accommodation, significant difficulty or expense incurred by the contractor, when considered in light of the factors set forth in paragraph (2) of this section.
+(cc) *Undue hardship*—(1) *In general. Undue hardship* means, with respect to the provision of an accommodation, significant difficulty or expense incurred by the contractor, when considered in light of the factors set forth in paragraph (2) of this section.
 
 (2) *Factors to be considered.* In determining whether an accommodation would impose an undue hardship on the contractor, factors to be considered include:
 
@@ -176,8 +184,8 @@ For the purpose of this part:
 
 (v) The impact of the accommodation upon the operation of the facility, including the impact on the ability of other employees to perform their duties and the impact on the facility's ability to conduct business.
 
-(bb) *United States,* as used in this part, shall include the several States, the District of Columbia, the Virgin Islands, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and Wake Island.
+(dd) *United States,* as used in this part, shall include the several States, the District of Columbia, the Virgin Islands, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and Wake Island.
 
-(cc) *Veteran* means a person who served in the active military, naval, or air service of the United States, and who was discharged or released therefrom under conditions other than dishonorable.
+(ee) *Veteran* means a person who served in the active military, naval, or air service of the United States, and who was discharged or released therefrom under conditions other than dishonorable.
 
-[78 FR 58662, Sept. 24, 2013, as amended at 85 FR 39846, July 2, 2020]
+[78 FR 58662, Sept. 24, 2013, as amended at 85 FR 39846, July 2, 2020; 85 FR 71572, Nov. 10, 2020]

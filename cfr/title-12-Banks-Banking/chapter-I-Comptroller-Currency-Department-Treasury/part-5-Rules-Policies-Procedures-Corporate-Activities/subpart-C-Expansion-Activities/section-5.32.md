@@ -1,5 +1,7 @@
 ##### § 5.32 Expedited procedures for certain reorganizations of a national bank. #####
 
+Link to an amendment published at 85 FR 80447, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 93a and 215a-2.
 
 (b) *Scope.* This section prescribes the procedures for OCC review and approval of a national bank's reorganization to become a subsidiary of a bank holding company or a company that will, upon consummation of such reorganization, become a bank holding company. For purposes of this section, a “bank holding company” means any company that owns or controls a national bank, or will own or control one as a result of the reorganization.

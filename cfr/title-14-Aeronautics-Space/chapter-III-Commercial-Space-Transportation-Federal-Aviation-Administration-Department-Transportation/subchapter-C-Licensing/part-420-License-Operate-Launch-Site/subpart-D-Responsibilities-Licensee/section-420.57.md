@@ -1,5 +1,7 @@
 ##### § 420.57 Notifications. #####
 
+Link to an amendment published at 85 FR 79716, Dec. 10, 2020.
+
 (a) A licensee shall notify each launch operator and any other customer of any limitations on the use of the launch site. A licensee shall also communicate limitations on the use of facilities provided to customers by the launch site operator.
 
 (b) A licensee shall maintain its agreement, made in accordance with § 420.31(a), with the local U.S. Coast Guard district.

@@ -1,5 +1,7 @@
 ##### § 5.39 Financial subsidiaries of a national bank. #####
 
+Link to an amendment published at 85 FR 80461, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 93a and section 121 of Public Law 106-102, 113 Stat. 1338, 1373.
 
 (b) *Approval requirements.* A national bank must file a notice as prescribed in this section prior to acquiring a financial subsidiary or engaging in activities authorized pursuant to section 5136A(a)(2)(A)(i) of the Revised Statutes (12 U.S.C. 24a) through a financial subsidiary. When a financial subsidiary proposes to conduct a new activity permitted under § 5.34, the bank shall follow the procedures in § 5.34(e)(5) instead of paragraph (i) of this section.

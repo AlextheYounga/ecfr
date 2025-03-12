@@ -1,5 +1,7 @@
 ##### § 382.3 What do the terms in this rule mean? #####
 
+Link to an amendment published at 85 FR 79774, Dec. 10, 2020.
+
 In this regulation, the terms listed in this section have the following meanings:
 
 *Air Carrier Access Act or ACAA* means the Air Carrier Access Act of 1986, as amended, the statute that provides the principal authority for this part.

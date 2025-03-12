@@ -2,7 +2,7 @@
 
 (a) *General.* A one-way end-of-train device shall be comprised of a rear-of-train unit (rear unit) located on the last car of a train and a front-of-train unit (front unit) located in the cab of the locomotive controlling the train.
 
-(b) *Rear unit.* The rear unit shall be capable of determining the brake pipe pressure on the rear car and transmitting that information to the front unit for display to the locomotive engineer. The rear unit shall be -
+(b) *Rear unit.* The rear unit shall be capable of determining the brake pipe pressure on the rear car and transmitting that information to the front unit for display to the locomotive engineer. The rear unit shall be—
 
 (1) Capable of measuring the brake pipe pressure on the rear car with an accuracy of ±3 pounds per square inch (psig) and brake pipe pressure variations of ±1 psig;
 
@@ -28,7 +28,7 @@
 
 (5) During the longitudinal vibrations of 1 to 15 Hz., with 3 g. peak to peak, and 15 to 500 Hz., with 5 g. peak to peak; and
 
-(6) During a shock of 10 g. peak for 0.1 second in any axis.
+(6) During a shock of 10 g. peak for 0.01 seconds in any axis.
 
 (e) *Unique code.* Each rear unit shall have a unique and permanent identification code that is transmitted along with the pressure message to the front-of-train unit. A code obtained from the Association of American Railroads, 50 F Street, NW., Washington, DC 20036 shall be deemed to be a unique code for purposes of this section. A unique code also may be obtained from the Office of Safety Assurance and Compliance (RRS-10), Federal Railroad Administration, Washington, DC 20590.
 
@@ -42,10 +42,12 @@
 
 (i) At temperatures from 0 °C to 60 °C;
 
-(ii) During a vertical or lateral shock of 2 g. peak for 0.1 second; and
-
-(iii) During a longitudinal shock of 5 g. peak for 0.1 second.
+(ii) During a shock of 10 g. peak for 0.01 seconds in any axis.
 
 (g) *Radio equipment.* (1) The radio transmitter in the rear unit and the radio receiver in the front unit shall comply with the applicable regulatory requirements of the Federal Communications Commission (FCC) and use of a transmission format acceptable to the FCC.
 
-(2) If power is supplied by one or more batteries, the operating life shall be a minimum of 36 hours at 0 °C.
+(2) If power is supplied by one or more batteries only, the operating life must be a minimum of 36 hours at 0 °C.
+
+(3) If power is supplied by a generator—an air turbine or alternative technology—a backup battery or similar energy storage device is required with a minimum of 12 hours continuous power at 0 °C in the event the generator stops functioning as intended.
+
+[66 FR 4193, Jan. 17, 2001, as amended at 85 FR 80574, Dec. 11, 2020]

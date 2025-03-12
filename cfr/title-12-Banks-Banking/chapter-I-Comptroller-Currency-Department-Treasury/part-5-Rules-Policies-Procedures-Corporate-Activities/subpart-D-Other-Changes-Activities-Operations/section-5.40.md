@@ -1,5 +1,7 @@
 ##### § 5.40 Change in location of a main office of a national bank or home office of a Federal savings association. #####
 
+Link to an amendment published at 85 FR 80462, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 30, 93a, 1462a, 1463, 1464, 1828, 2901-2907 and 5412(b)(2)(B).
 
 (b) *Scope.* This section describes OCC procedures and approval standards for an application or a notice by a national bank to change the location of its main office or by a Federal savings association to change the location of its home office.3 A national bank or Federal savings association shall follow the procedures described in paragraph (c) of this section to relocate its main office or home office, as applicable.

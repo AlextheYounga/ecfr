@@ -4,7 +4,7 @@
 
 (b) Subpart E of this part, “End-of-Train Devices,” applies to all trains operating on track which is part of the general railroad system of transportation unless specifically excepted in that subpart.
 
-(c) Except as provided in § 232.1(d) and paragraph (b) of this section, this part does *not* apply to:
+(c) Except as provided in § 232.1(c) and paragraph (b) of this section, this part does *not* apply to:
 
 (1) A railroad that operates only on track inside an installation that is not part of the general railroad system of transportation.
 
@@ -35,3 +35,5 @@
 (5) Narrow-gage cars.
 
 (6) Cars used exclusively in switching operations and not used in train movements within the meaning of the Federal safety appliance laws (49 U.S.C. 20301-20306).
+
+[66 FR 4193, Jan. 17, 2001, as amended at 85 FR 80570, Dec. 11, 2020]

@@ -1,5 +1,7 @@
 ##### § 5.53 Substantial asset change by a national bank or Federal savings association. #####
 
+Link to an amendment published at 85 FR 80466, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 93a, 1818, 1462a, 1463, 1464, 1467a, and 5412(b)(2)(B).
 
 (b) *Scope.* This section requires a national bank or a Federal savings association to obtain the approval of the OCC for a substantial asset change.

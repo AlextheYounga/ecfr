@@ -1,5 +1,7 @@
 ##### § 5.70 Federal branches and agencies. #####
 
+Link to an amendment published at 85 FR 80470, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 93a and 3101 *et seq.*
 
 (b) *Scope.* This subpart describes the filing requirements for corporate activities and transactions involving Federal branches and agencies of foreign banks. Substantive rules and policies for specific applications are contained in 12 CFR part 28.

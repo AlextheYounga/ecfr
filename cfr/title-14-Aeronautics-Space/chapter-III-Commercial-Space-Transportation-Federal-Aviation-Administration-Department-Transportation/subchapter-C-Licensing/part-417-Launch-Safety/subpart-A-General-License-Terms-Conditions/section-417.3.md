@@ -1,5 +1,7 @@
 ##### § 417.3 Definitions and acronyms. #####
 
+Link to an amendment published at 85 FR 79716, Dec. 10, 2020.
+
 For the purpose of this part,
 
 *Command control system* means the portion of a flight safety system that includes all components needed to send a flight termination control signal to an onboard vehicle flight termination system. A command control system starts with any flight termination activation switch at a flight safety crew console and ends at each command-transmitting antenna. It includes all intermediate equipment, linkages, and software and any auxiliary transmitter stations that ensure a command signal will reach the onboard vehicle flight termination system from liftoff until the launch vehicle achieves orbit or can no longer reach a populated or other protected area.

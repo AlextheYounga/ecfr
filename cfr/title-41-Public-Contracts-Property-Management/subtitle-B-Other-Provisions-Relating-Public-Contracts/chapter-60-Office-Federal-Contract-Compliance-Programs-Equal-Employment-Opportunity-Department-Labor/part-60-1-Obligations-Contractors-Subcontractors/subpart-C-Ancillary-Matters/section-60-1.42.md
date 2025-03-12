@@ -1,14 +1,14 @@
 ##### § 60-1.42 Notices to be posted. #####
 
-(a) Unless alternative notices are prescribed by the Deputy Assistant Secretary, the notices which contractors are required to post by paragraphs (1) and (3) of the equal opportunity clause in § 60-1.4 will contain the following language and be provided by the contracting or administering agencies:
+(a) Unless alternative notices are prescribed by the Director, the notices which contractors are required to post by paragraphs (1) and (3) of the equal opportunity clause in § 60-1.4 will contain the following language and be provided by the contracting or administering agencies:
 
-Equal Employment Opportunity Is the Law - Discrimination Is Prohibited by the Civil Rights Act of 1964 and by Executive Order No. 11246
+Equal Employment Opportunity Is the Law—Discrimination Is Prohibited by the Civil Rights Act of 1964 and by Executive Order No. 11246
 
-Title VII of the Civil Rights Act of 1964 - *Administered by:*
+Title VII of the Civil Rights Act of 1964—*Administered by:*
 
 The Equal Employment Opportunity CommissionProhibits discrimination because of Race, Color, Religion, Sex, or National Origin by Employers with 15 or more employees, by Labor Organizations, by Employment Agencies, and by Apprenticeship or Training ProgramsAny person who believes he or she has been discriminated against should contactThe Equal Employment Opportunity Commission, 1801 L Street NW., Washington, DC 20507
 
-Executive Order No. 11246 - *Administered by:*
+Executive Order No. 11246—*Administered by:*
 
 The Office of Federal Contract Compliance Programs
 

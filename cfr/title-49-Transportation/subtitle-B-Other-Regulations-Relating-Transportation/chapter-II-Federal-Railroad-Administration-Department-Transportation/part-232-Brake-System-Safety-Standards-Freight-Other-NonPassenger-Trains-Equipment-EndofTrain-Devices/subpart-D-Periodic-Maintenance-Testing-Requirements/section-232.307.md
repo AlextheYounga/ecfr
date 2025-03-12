@@ -1,10 +1,10 @@
-##### § 232.307 Modification of the single car air brake test procedures. #####
+##### § 232.307 Modification of brake test procedures. #####
 
-(a) *Request.* The AAR or other authorized representative of the railroad industry may seek modification of the single car air brake test procedures prescribed in § 232.305(a). The request for modification shall be submitted to the Associate Administrator for Safety, Federal Railroad Administration, 1200 New Jersey Avenue, SE., Washington, DC 20590 and shall contain:
+(a) *Request.* The AAR or other authorized representative of the railroad industry may seek modification of brake test procedures prescribed in this chapter. The request for modification shall be submitted to the Associate Administrator for Safety, Federal Railroad Administration, 1200 New Jersey Avenue SE, Washington, DC 20590 and shall contain:
 
 (1) The name, title, address, and telephone number of the primary person to be contacted with regard to review of the modification;
 
-(2) The modification, in detail, to be substituted for a particular procedure prescribed in § 232.305(a);
+(2) The section and paragraph at issue, and the modification, in detail, to be substituted for a particular procedure prescribed in this chapter;
 
 (3) Appropriate data or analysis, or both, for FRA to consider in determining whether the modification will provide at least an equivalent level of safety; and
 
@@ -24,4 +24,4 @@
 
 (iii) When FRA grants or denies a request for modification, or reopens consideration of the request, written notice is sent to the requesting party and other interested parties.
 
-[66 FR 39688, Aug. 1, 2001, as amended at 74 FR 25174, May 27, 2009]
+[66 FR 39688, Aug. 1, 2001, as amended at 74 FR 25174, May 27, 2009; 85 FR 80573, Dec. 11, 2020]

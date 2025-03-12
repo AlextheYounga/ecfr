@@ -1,5 +1,7 @@
 ##### § 382.117 Must carriers permit passengers with a disability to travel with service animals? #####
 
+Link to an amendment published at 85 FR 79776, Dec. 10, 2020.
+
 (a) As a carrier, you must permit a service animal to accompany a passenger with a disability.
 
 (1) You must not deny transportation to a service animal on the basis that its carriage may offend or annoy carrier personnel or persons traveling on the aircraft.

@@ -1,5 +1,7 @@
 ##### § 5.59 Service corporations of Federal savings associations. #####
 
+Link to an amendment published at 85 FR 80469, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 1462a, 1463, 1464, 1828, 5412(b)(2)(B).
 
 (b) *Licensing requirements.* When required by section 18(m) of the Federal Deposit Insurance Act, a Federal savings association must file an application as prescribed in this section to:

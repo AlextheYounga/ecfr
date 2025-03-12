@@ -1,5 +1,7 @@
 ##### § 5.9 Public availability. #####
 
+Link to an amendment published at 85 FR 80436, Dec. 11, 2020.
+
 (a) *In general.* The OCC provides a copy of the public file to any person who requests it. A requestor should submit a written request for the public file concerning a pending filing to the appropriate OCC licensing office. A requestor should submit a written request for the public file concerning a decided or closed filing to the OCC's Freedom of Information Act Officer, Communications Division, at the address listed on *www.occ.gov*. The OCC may impose a fee in accordance with 12 CFR 4.17 and at the rate the OCC publishes in the “Notice of Comptroller of the Currency Fees,” described in 12 CFR 8.8.
 
 (b) *Public file.* A public file consists of the portions of the filing, supporting data, supplementary information, and information submitted by interested persons, to the extent that those documents have not been afforded confidential treatment. Applicants and other interested persons may request that confidential treatment be afforded information submitted to the OCC pursuant to paragraph (c) of this section.

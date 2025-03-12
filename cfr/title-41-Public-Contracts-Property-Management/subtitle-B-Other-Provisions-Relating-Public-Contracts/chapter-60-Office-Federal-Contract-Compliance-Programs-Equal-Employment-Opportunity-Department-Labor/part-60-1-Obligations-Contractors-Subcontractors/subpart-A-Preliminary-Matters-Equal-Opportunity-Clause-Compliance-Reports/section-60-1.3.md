@@ -1,6 +1,6 @@
 ##### § 60-1.3 Definitions. #####
 
-Link to an amendment published at 85 FR 71570, Nov. 10, 2020.Link to an amendment published at 85 FR 79371, Dec. 9, 2020.
+Link to an amendment published at 85 FR 79371, Dec. 9, 2020.
 
 *Administering agency* means any department, agency and establishment in the executive branch of the Government, including any wholly owned Government corporation, which administers a program involving federally assisted construction contracts.
 
@@ -24,7 +24,7 @@ Link to an amendment published at 85 FR 71570, Nov. 10, 2020.Link to an amendmen
 
 *Contractor* means, unless otherwise indicated, a prime contractor or subcontractor.
 
-*Deputy Assistant Secretary* means the Deputy Assistant Secretary for Federal Contract Compliance, United States Department of Labor, or his or her designee.
+*Director* means the Director, Office of Federal Contract Compliance Programs (OFCCP) of the United States Department of Labor, or his or her designee.
 
 *Equal opportunity clause* means the contract provisions set forth in § 60-1.4 (a) or (b), as appropriate.
 
@@ -94,6 +94,16 @@ Link to an amendment published at 85 FR 71570, Nov. 10, 2020.Link to an amendmen
 
 *Prime contractor* means any person holding a contract and, for the purposes of subpart B of this part, any person who has held a contract subject to the order.
 
+*Qualitative evidence* includes but is not limited to testimony, interview statements, and documents about biased statements, remarks, attitudes, or acts based upon membership in a protected class, particularly when made by a decision maker involved in the action under investigation; testimony, interview statements, and documents about individuals denied or given misleading or contradictory information about employment or compensation practices, in circumstances suggesting discriminatory treatment based on a protected characteristic; testimony, interview statements, and documents about the extent of discretion or subjectivity involved in making employment decisions, in conjunction with evidence suggesting the discretion or subjectivity has been used to discriminate based on a protected characteristic; or other anecdotal evidence relevant to determining a contractor's discriminatory or non-discriminatory intent, the business necessity (or lack thereof) of a challenged policy or practice, or whether the contractor has otherwise complied with its non-discrimination obligations. Qualitative evidence may not be based solely on subjective inferences or the mere fact of supervisory discretion in employment decisions. The Office of Federal Contract Compliance Programs (OFCCP) may also consider qualitative evidence in the form of a contractor's efforts to advance equal employment opportunity beyond mere compliance with legal obligations in determining whether intentional discrimination has occurred.
+
+*Quantitative evidence* includes hypothesis testing, controlling for the major, measurable parameters, and variables used by the contractor (including, as appropriate, preferred qualifications, other demographic variables, test scores, geographic variables, performance evaluations, years of experience, quality of experience, years of service, quality and reputation of previous employers, years of education, years of training, quality and reputation of credentialing institutions, *etc.*), related to the probability of outcomes occurring by chance and/or analyses reflecting statements concluding that a disparity in employment selection rates or rates of compensation is statistically significant by reference to any one of these statements:
+
+(1) The disparity is two or more times larger than its standard error (*i.e.,* a standard deviation of two or more);
+
+(2) The Z statistic has a value greater than two; or
+
+(3) The probability value is less than 0.05. It also includes numerical analysis of similarly situated individuals, small groups, or other characteristics, demographics or outcomes where hypothesis-testing techniques are not used.
+
 *Recruiting and training agency* means any person who refers workers to any contractor or subcontractor or who provides for employment by any contractor or subcontractor.
 
 *Rules, regulations, and relevant orders of the Secretary of Labor* used in paragraph (4) of the equal opportunity clause means rules, regulations, and relevant orders of the Secretary of Labor or his designee issued pursuant to the order.
@@ -122,4 +132,4 @@ Link to an amendment published at 85 FR 71570, Nov. 10, 2020.Link to an amendmen
 
 *United States,* as used herein, shall include the several States, the District of Columbia, the Virgin Islands, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and Wake Island.
 
-[43 FR 49240, Oct. 20, 1978, as amended at 61 FR 19988, May 3, 1996; 62 FR 44188, Aug. 19, 1997; 62 FR 66971, Dec. 22, 1997; 70 FR 58961, Oct. 7, 2005; 80 FR 54974, Sept. 11, 2015; 85 FR 39846, July 2, 2020]
+[43 FR 49240, Oct. 20, 1978, as amended at 61 FR 19988, May 3, 1996; 62 FR 44188, Aug. 19, 1997; 62 FR 66971, Dec. 22, 1997; 70 FR 58961, Oct. 7, 2005; 80 FR 54974, Sept. 11, 2015; 85 FR 39846, July 2, 2020; 85 FR 71570, Nov. 10, 2020]

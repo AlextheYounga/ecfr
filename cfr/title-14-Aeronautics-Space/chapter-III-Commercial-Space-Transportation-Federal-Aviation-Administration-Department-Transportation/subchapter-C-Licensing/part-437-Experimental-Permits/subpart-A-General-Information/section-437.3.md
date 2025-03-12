@@ -1,5 +1,7 @@
 ##### § 437.3 Definitions. #####
 
+Link to an amendment published at 85 FR 79718, Dec. 10, 2020.
+
 *Anomaly* means a problem that occurs during verification or operation of a system, subsystem, process, facility, or support equipment.
 
 *Envelope expansion* means any portion of a flight where planned operations will subject a reusable suborbital rocket to the effects of altitude, velocity, acceleration, or burn duration that exceed a level or duration successfully verified during an earlier flight.

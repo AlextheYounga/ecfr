@@ -1,5 +1,7 @@
 ##### § 431.73 Continuing accuracy of license application; application for modification of license. #####
 
+Link to an amendment published at 85 FR 79717, Dec. 10, 2020.
+
 (a) A licensee is responsible for the continuing accuracy of representations contained in its application for the entire term of the license.
 
 (b) After a license has been issued, a licensee must apply to the FAA for modification of the license if -

@@ -1,5 +1,7 @@
 ##### § 417.113 Launch safety rules. #####
 
+Link to an amendment published at 85 FR 79716, Dec. 10, 2020.
+
 (a) *General.* For each launch, a launch operator must satisfy written launch safety rules that govern the conduct of the launch.
 
 (1) The launch safety rules must identify the meteorological conditions and the status of the launch vehicle, launch support equipment, and personnel under which launch processing and flight may be conducted without adversely affecting public safety.

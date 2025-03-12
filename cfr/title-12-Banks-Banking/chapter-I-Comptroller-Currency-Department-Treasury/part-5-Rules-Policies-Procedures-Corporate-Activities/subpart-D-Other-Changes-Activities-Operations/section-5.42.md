@@ -1,5 +1,7 @@
 ##### § 5.42 Corporate title of a national bank or Federal savings association. #####
 
+Link to an amendment published at 85 FR 80462, Dec. 11, 2020.
+
 (a) *Authority.* 12 U.S.C. 21a, 30, 93a, 1462a, 1463, 1464, 1467a, 2901 *et. seq.* and, 5412(b)(2)(B).
 
 (b) *Scope.* This section describes the method by which a national bank or Federal savings association may change its corporate title.

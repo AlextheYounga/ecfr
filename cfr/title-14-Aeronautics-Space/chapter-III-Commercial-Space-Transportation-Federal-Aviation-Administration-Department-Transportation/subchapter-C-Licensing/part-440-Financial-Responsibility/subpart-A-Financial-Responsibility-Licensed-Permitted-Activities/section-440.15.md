@@ -1,5 +1,7 @@
 ##### § 440.15 Demonstration of compliance. #####
 
+Link to an amendment published at 85 FR 79719, Dec. 10, 2020.
+
 (a) A licensee or permittee must submit to the FAA evidence of financial responsibility and compliance with allocation of risk requirements under this part, as follows, unless a license or permit order specifies otherwise due to the proximity of the intended date for commencement of licensed or permitted activities:
 
 (1) All reciprocal waiver of claims agreements required under § 440.17(c) must be submitted at least 30 days before the start of any licensed or permitted activity involving a customer, crew member, or space flight participant;
