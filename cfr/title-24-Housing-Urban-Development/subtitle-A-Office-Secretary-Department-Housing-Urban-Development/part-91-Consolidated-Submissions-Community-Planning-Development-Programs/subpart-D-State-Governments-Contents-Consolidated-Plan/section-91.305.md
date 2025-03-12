@@ -44,4 +44,4 @@
 
 (e) *Lead-based paint hazards.* The plan must estimate the number of housing units within the State that are occupied by low-income families or moderate-income families that contain lead-based paint hazards, as defined in this part.
 
-(Approved by the Office of Management and Budget under control number 2506-0117)[60 FR 1896, Jan. 5, 1995, as amended at 61 FR 51760, Oct. 3, 1996; 71 FR 6967, Feb. 9, 2006; 73 FR 72342, Nov. 28, 2008; 75 FR 66260, Oct. 27, 2010; 76 FR 75970, Dec. 5, 2011; 80 FR 42365, July 16, 201; 85 FR 47909, Aug. 7, 20205]
+(Approved by the Office of Management and Budget under control number 2506-0117)[60 FR 1896, Jan. 5, 1995, as amended at 61 FR 51760, Oct. 3, 1996; 71 FR 6967, Feb. 9, 2006; 73 FR 72342, Nov. 28, 2008; 75 FR 66260, Oct. 27, 2010; 76 FR 75970, Dec. 5, 2011; 80 FR 42365, July 16, 2015; 85 FR 47909, Aug. 7, 2020]

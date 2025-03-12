@@ -320,7 +320,7 @@ Link to an amendment published at 86 FR 33510, June 25, 2021.
 
 2. At 84 FR 15511, Apr. 16, 2019, § 1308.11 was amended by adding paragraphs (h)(37) through (h)(41) effective Apr. 16, 2019, through Apr. 16, 2021. At 86 FR 16669, Mar. 31, 2021, the effective period was extended to Apr. 16, 2022.
 
-3. At 84 FR 34297, July 17, 2019, § 1308.11 was amended by adding paragraphs (h)(42) through (h)(47) effective July 18, 2019, through July 18, 2021.
+3. At 84 FR 34297, July 17, 2019, § 1308.11 was amended by adding paragraphs (h)(42) through (h)(47) effective July 18, 2019, through July 18, 2021. At 86 FR 37672, July 16, 2021, the effective period was extended to July 18, 2022.
 
 4.At 83 FR 5191, Feb. 6, 2018, § 1308.11 was amended by adding paragraph (h)(30), effective Feb. 6, 2018, through Feb. 6, 2020. Effective Feb. 6, 2020, Congress extended the effective period for paragraph (h)(30) until May 6, 2021, by Public Law 116-114. Effective May 4, 2021, Congress extended the effective period for paragraph (h)(30) until October 22, 2021, by Public Law 117-12.
 

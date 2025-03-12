@@ -40,7 +40,7 @@
 
 (2) The citizen participation plan shall require the jurisdiction to consider any comments or views of citizens received in writing, or orally at public hearings in preparing the performance report. A summary of these comments or views shall be attached to the performance report.
 
-(e) *Public hearings* - (1)(i). *Consolidated plan.* The citizen participation plan must provide for at least two public hearings per year to obtain residents' views and to respond to proposals and questions, to be conducted at a minimum of two different stages of the program year. Together, the hearings must address housing and community development needs, development of proposed activities, proposed strategies and actions for affirmatively furthering fair housing, and a review of program performance.
+(e) *Public hearings*—(1)(i). *Consolidated plan.* The citizen participation plan must provide for at least two public hearings per year to obtain residents' views and to respond to proposals and questions, to be conducted at a minimum of two different stages of the program year. Together, the hearings must address housing and community development needs, development of proposed activities, proposed strategies and actions for affirmatively furthering fair housing, and a review of program performance.
 
 (ii) *Minimum number of hearings.* To obtain the views of residents of the community on housing and community development needs, including priority nonhousing community development needs and affirmatively furthering fair housing, the citizen participation plan must provide that at least one of these hearings is held before the proposed consolidated plan is published for comment.
 
@@ -61,7 +61,5 @@
 (j) *Complaints.* The citizen participation plan shall describe the jurisdiction's appropriate and practicable procedures to handle complaints from its residents related to the consolidated plan, amendments, revisions, and the performance report. At a minimum, the citizen participation plan shall require that the jurisdiction must provide a timely, substantive written response to every written resident complaint, within an established period of time (within 15 working days, where practicable, if the jurisdiction is a CDBG grant recipient).
 
 (k) *Use of citizen participation plan.* The jurisdiction must follow its citizen participation plan.
-
-(l) *Jurisdiction responsibility.* The requirements for citizen participation do not restrict the responsibility or authority of the jurisdiction for the development and execution of its consolidated plan or AFH.
 
 (Approved by the Office of Management and Budget under control number 2506-0117)[60 FR 1896, Jan. 5, 1995; 60 FR 10427, Feb. 24, 1995, as amended at 71 FR 6962, Feb. 9, 2006; 76 FR 75967, Dec. 5, 2011; 80 FR 42360, July 16, 2015; 81 FR 91011, Dec. 16, 2016; 85 FR 47906, Aug. 7, 2020]
