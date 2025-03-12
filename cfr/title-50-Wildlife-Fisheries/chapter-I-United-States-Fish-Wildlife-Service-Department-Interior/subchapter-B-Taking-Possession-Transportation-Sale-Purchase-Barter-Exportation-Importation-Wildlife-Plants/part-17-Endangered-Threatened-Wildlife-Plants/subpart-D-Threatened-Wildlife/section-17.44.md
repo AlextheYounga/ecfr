@@ -1,7 +1,5 @@
 ##### § 17.44 Special rules - fishes. #####
 
-Link to an amendment published at 87 FR 67396, Nov. 8, 2022.
-
 (a) Lahontan cutthroat trout, Paiute cutthroat trout, and Arizona trout (*Salmo clarki henshawi, Salmo clarki seleniris,* and *Salmo apache*). (1) All the provisions of § 17.31 apply to these species, except that they may be taken in accordance with applicable State law.
 
 (2) Violation of State law will also be a violation of the Act.
@@ -611,5 +609,63 @@ A listing of all countries that have not designated either a Management Authorit
 (C) Whenever possible, humpback chub that are salvaged should be moved to a location that supports recovery of the species.
 
 (vii) *Reporting and disposal requirements.* Any mortality of humpback chub associated with the actions authorized under the regulations in this paragraph (dd)(3) must be reported to the Service within 72 hours, and specimens may be disposed of only in accordance with directions from the Service. Reports in the upper basin (upstream of Glen Canyon Dam) must be made to the Service's Mountain-Prairie Region Law Enforcement Office, or the Service's Upper Colorado River Endangered Fish Recovery Office. Reports in the lower basin (downstream Glen Canyon Dam) must be made to the Service's Southwest Region Law Enforcement Office, or the Service's Arizona Fish and Wildlife Conservation Office. Contact information for the Service's regional offices is set forth at 50 CFR 2.2, and the phone numbers of Law Enforcement offices are at 50 CFR 10.22. The Service may allow additional reasonable time for reporting if access to these offices is limited due to office closure or if the activity was conducted in an area without sufficient communication access.
+
+(ee) Sickle darter (*Percina williamsi*). (1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the sickle darter. Except as provided under paragraphs (ee)(2) and (3) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(2) *General exceptions from prohibitions.* In regard to this species, you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Take, as set forth at § 17.21(c)(2) through (4) for endangered wildlife.
+
+(iii) Take, as set forth at § 17.31(b).
+
+(iv) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
+
+(3) *Exceptions from prohibitions for specific types of incidental take.* You may take sickle darter while carrying out the following legally conducted activities in accordance with this paragraph (ee)(3):
+
+(i) Channel restoration projects that create natural, physically stable, ecologically functioning streams (or stream and wetland systems) and that take place between April 1 and January 31. These projects can be accomplished using a variety of methods, but the desired outcome is a natural channel with low shear stress (force of water moving against the channel); bank heights that enable reconnection to the floodplain; a reconnection of surface and groundwater systems, resulting in perennial flows in the channel; riffles and pools composed of existing soil, rock, and wood instead of large imported materials; low compaction of soils within adjacent riparian areas; and inclusion of riparian wetlands.
+
+(ii) Bank stabilization projects that use bioengineering methods to replace pre-existing, bare, eroding stream banks with vegetated, stable stream banks, thereby reducing bank erosion and instream sedimentation and improving habitat conditions for the species and that take place between April 1 and January 31. Following these bioengineering methods, stream banks may be stabilized using native species live stakes (live, vegetative cuttings inserted or tamped into the ground in a manner that allows the stake to take root and grow), native species live fascines (live branch cuttings, usually willows, bound together into long, cigar shaped bundles), or native species brush layering (cuttings or branches of easily rooted tree species layered between successive lifts of soil fill). Native species vegetation includes woody and herbaceous species appropriate for the region and habitat conditions. These methods will not include the sole use of quarried rock (riprap) or the use of rock baskets or gabion structures.
+
+(iii) Bridge and culvert replacement/removal projects or low head dam removal projects that remove migration barriers or generally allow for improved upstream and downstream movements of sickle darters while maintaining normal stream flows, preventing bed and bank erosion, and improving habitat conditions for the species and that take place between April 1 and January 31.
+
+(iv) Transportation projects that provide for fish passage at stream crossings and that take place between April 1 and January 31.
+
+(v) Silvicultural practices and forest management activities that implement State-approved best management practices. In order for this exception to apply to forestry-related activities, these best management practices must achieve all of the following:
+
+(A) Establish a streamside management zone alongside the margins of each waterway.
+
+(B) Restrain visible sedimentation caused by the forestry-related activity from entering the waterway.
+
+(C) Maintain native groundcover within the streamside management zone of the waterway, and promptly re-establish native groundcover if disturbed.
+
+(D) Limit installation of vehicle or equipment crossings of the waterway to only where necessary for the forestry-related activity. Such crossings must:
+
+(*1*) Have erosion and sedimentation control measures installed to divert surface runoff away and restrain visible sediment from entering the waterway;
+
+(*2*) Allow for movement of aquatic organisms within the waterway; and
+
+(*3*) Have native groundcover applied and maintained through completion of the forestry-related activity.
+
+(E) Prohibit the use of tracked or wheeled vehicles for reforestation site preparation within the streamside management zone of the waterway.
+
+(F) Prohibit locating log decks, skid trails, new roads, and portable mill sites in the streamside management zone of the waterway.
+
+(G) Prohibit obstruction and impediment of the flow of water within the waterway that is caused by direct deposition of debris or soil by the forestry-related activity.
+
+(H) Maintain shade over the waterway similar to that observed prior to the forestry-related activity.
+
+(I) Prohibit discharge of any solid waste, petroleum, pesticide, fertilizer, or other chemical into the waterway.
 
 [40 FR 44415, Sept. 26, 1975]Editorial Note:For Federal Register citations affecting § 17.44, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
