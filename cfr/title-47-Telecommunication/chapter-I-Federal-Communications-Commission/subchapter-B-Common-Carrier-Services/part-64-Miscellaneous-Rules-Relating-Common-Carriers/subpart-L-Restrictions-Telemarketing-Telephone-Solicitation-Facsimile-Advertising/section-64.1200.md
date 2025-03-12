@@ -216,4 +216,20 @@ The requirement in paragraph 64.1200(c)(2)(i)(D) for persons or entities to empl
 
 (4) For purposes of this subsection, a provider may rely on Caller ID information to determine the purported originating number without regard to whether the call in fact originated from that number.
 
-[68 FR 44177, July 25, 2003, as amended at 68 FR 59131, Oct. 14, 2003; 69 FR 60316, Oct. 8, 2004; 70 FR 19337, Apr. 13, 2005; 71 FR 25977, May 3, 2006; 71 FR 56893, Sept. 28, 2006; 71 FR 75122, Dec. 14, 2006; 73 FR 40185, July 14, 2008; 77 FR 34246, June 11, 2012; 83 FR 1577, Jan. 12, 2018; 84 FR 10267, Mar. 20, 2019]
+(l) A reporting carrier subject to § 52.15(f) of this title shall:
+
+(1) Maintain records of the most recent date each North American Numbering Plan (NANP) telephone number allocated or ported to the reporting carrier was permanently disconnected.
+
+(2) Beginning on the 15th day of the month after the Consumer and Governmental Affairs Bureau announces that the Administrator is ready to begin accepting these reports and on the 15th day of each month thereafter, report to the Administrator the most recent date each NANP telephone number allocated to or ported to it was permanently disconnected.
+
+(3) For purposes of this paragraph (l), a NANP telephone number has been permanently disconnected when a subscriber permanently has relinquished the number, or the provider permanently has reversed its assignment of the number to the subscriber such that the number has been disassociated with the subscriber. A NANP telephone number that is ported to another provider is not permanently disconnected.
+
+(4) Reporting carriers serving 100,000 or fewer domestic retail subscriber lines as reported on their most recent Forms 477, aggregated over all the providers' affiliates, must begin keeping the records required by paragraph (l)(1) of this section six months after the effective date for large providers and must begin filing the reports required by paragraph (l)(2) of this section no later than the 15th day of the month that is six months after the date announced by the Consumer and Governmental Affairs Bureau pursuant to paragraph (l)(2).
+
+(m) A person will not be liable for violating the prohibitions in paragraph (a)(1), (2), or (3) of this section by making a call to a number for which the person previously had obtained prior express consent of the called party as required in paragraph (a)(1), (2), or (3) but at the time of the call, the number is not assigned to the subscriber to whom it was assigned at the time such prior express consent was obtained if the person, bearing the burden of proof and persuasion, demonstrates that:
+
+(1) The person, based upon the most recent numbering information reported to the Administrator pursuant to paragraph (l) of this section, by querying the database operated by the Administrator and receiving a response of “no”, has verified that the number has not been permanently disconnected since the date prior express consent was obtained as required in paragraph (a)(1), (2), or (3) of this section; and
+
+(2) The person's call to the number was the result of the database erroneously returning a response of “no” to the person's query consisting of the number for which prior express consent was obtained as required in paragraph (a)(1), (2), or (3) of this section and the date on which such prior express consent was obtained.
+
+[68 FR 44177, July 25, 2003, as amended at 68 FR 59131, Oct. 14, 2003; 69 FR 60316, Oct. 8, 2004; 70 FR 19337, Apr. 13, 2005; 71 FR 25977, May 3, 2006; 71 FR 56893, Sept. 28, 2006; 71 FR 75122, Dec. 14, 2006; 73 FR 40185, July 14, 2008; 77 FR 34246, June 11, 2012; 83 FR 1577, Jan. 12, 2018; 84 FR 10267, Mar. 20, 2019; 84 FR 11232, Mar. 26, 2019]

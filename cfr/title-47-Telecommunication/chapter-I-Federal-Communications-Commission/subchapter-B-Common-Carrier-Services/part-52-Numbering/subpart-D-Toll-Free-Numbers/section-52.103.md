@@ -30,7 +30,7 @@
 
 (c) *Assigned Status.* Toll free numbers may remain in assigned status until changed to working status or for a maximum of 6 months, whichever occurs first. Toll free numbers that, because of special circumstances, require that they be designated for a particular subscriber far in advance of their actual usage shall not be placed in assigned status, but instead shall be placed in unavailable status.
 
-(d) *Disconnect Status.* Toll free numbers must remain in disconnect or a combination of disconnect and transitional status for up to 4 months. No requests for extension of the 4-month disconnect or transitional interval will be granted. All toll free numbers in disconnect status must go directly into the spare or unavailable category upon expiration of the 4-month disconnect interval. A Responsible Organization may not retrieve a toll free number from disconnect or transitional status and return that number directly to working status at the expiration of the 4-month disconnect interval.
+(d) *Disconnect Status.* Toll free numbers must remain in disconnect status or a combination of disconnect and transitional status for no less than 45 days and for no more than 4 months. No requests for extension of the 4-month disconnect or disconnect and transitional interval will be granted. All toll free numbers in disconnect or transitional status must go directly into the spare or unavailable category upon expiration of the 4-month disconnect or transitional interval. A Responsible Organization may not retrieve a toll free number from disconnect or transitional status and return that number directly to working status at the expiration of the 4-month disconnect or transitional interval.
 
 (e) *Suspend Status.* Toll free numbers may remain in suspend status until changed to working status or for a maximum of 8 months, whichever occurs first. Only numbers involved in billing disputes shall be eligible for suspend status.
 
@@ -38,4 +38,4 @@
 
 (2) Seasonal numbers shall be placed in unavailable status. The Responsible Organization for a *Toll Free Subscriber* who does not have a year round need for a toll free number shall follow the procedures outlined in § 52.103(f)(1) of these rules if it wants the *Toll Free Numbering Administrator (TFNA)* to place a particular toll free number in unavailable status.
 
-[62 FR 20127, Apr. 25, 1997, as amended at 83 FR 53396, Oct. 23, 2018]
+[62 FR 20127, Apr. 25, 1997, as amended at 83 FR 53396, Oct. 23, 2018; 84 FR 11232, Mar. 26, 2019]

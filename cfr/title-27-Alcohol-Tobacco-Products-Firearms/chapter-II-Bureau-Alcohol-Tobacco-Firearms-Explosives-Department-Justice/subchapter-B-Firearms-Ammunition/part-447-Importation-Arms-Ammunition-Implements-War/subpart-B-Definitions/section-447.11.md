@@ -1,7 +1,5 @@
 ##### § 447.11 Meaning of terms. #####
 
-Link to an amendment published at 83 FR 66553, Dec. 26, 2018.
-
 When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meanings ascribed in this section. Words in the plural form shall include the singular, and vice versa, and words imparting the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude other things not enumerated which are in the same general class or are otherwise within the scope thereof.
 
 *Appropriate ATF officer.* An officer or employee of the Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF) specified by ATF Order 1130.34, Delegation of the Director's Authorities in 27 CFR Part 447, Importation of Arms, Ammunition and Implements of War.
@@ -32,7 +30,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Import List.* The list of articles contained in § 447.21 and identified therein as “The U.S. Munitions Import List”.
 
-*Machinegun.* A “machinegun”, “machine pistol”, “submachinegun”, or “automatic rifle” is a firearm originally designed to fire, or capable of being fired fully automatically by a single pull of the trigger.
+*Machinegun.* A “machinegun”, “machine pistol”, “submachinegun”, or “automatic rifle” is a firearm which shoots, is designed to shoot, or can be readily restored to shoot, automatically more than one shot, without manual reloading, by a single function of the trigger. The term shall also include the frame or receiver of any such weapon, any part designed and intended solely and exclusively, or combination of parts designed and intended, for use in converting a weapon into a machinegun, and any combination of parts from which a machinegun can be assembled if such parts are in the possession or under the control of a person. For purposes of this definition, the term “automatically” as it modifies “shoots, is designed to shoot, or can be readily restored to shoot,” means functioning as the result of a self-acting or self-regulating mechanism that allows the firing of multiple rounds through a single function of the trigger; and “single function of the trigger” means a single pull of the trigger and analogous motions. The term “machinegun” includes a bump-stock-type device, *i.e.,* a device that allows a semi-automatic firearm to shoot more than one shot with a single pull of the trigger by harnessing the recoil energy of the semi-automatic firearm to which it is affixed so that the trigger resets and continues firing without additional physical manipulation of the trigger by the shooter.
 
 *Permit.* The same as “license” for purposes of 22 U.S.C. 1934(c).
 
@@ -50,4 +48,4 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *United States.* When used in the geographical sense, includes the several States, the Commonwealth of Puerto Rico, the insular possessions of the United States, the District of Columbia, and any territory over which the United States exercises any powers of administration, legislation, and jurisdiction.
 
-(26 U.S.C. 7805 (68A Stat. 917), 27 U.S.C. 205 (49 Stat. 981 as amended), 18 U.S.C. 926 (82 Stat. 959), and sec. 38, Arms Export Control Act (22 U.S.C. 2778, 90 Stat. 744))[T.D. ATF-48, 43 FR 13535, Mar. 31, 1978; 44 FR 55840, Sept. 28, 1979, as amended by T.D. ATF-202, 50 FR 14382, Apr. 12, 1985; T.D. ATF-215, 50 FR 42158, Oct. 18, 1985; T.D. ATF-484, 67 FR 64526, Oct. 21, 2002; T.D. ATF-9F, 72 FR 72938, Dec. 26, 2007; ATF-50F, 78 FR 23677, Apr. 22, 2013; T.D. ATF 2013R-9F, 79 FR 46692, Aug. 11, 2014]
+(26 U.S.C. 7805 (68A Stat. 917), 27 U.S.C. 205 (49 Stat. 981 as amended), 18 U.S.C. 926 (82 Stat. 959), and sec. 38, Arms Export Control Act (22 U.S.C. 2778, 90 Stat. 744))[T.D. ATF-48, 43 FR 13535, Mar. 31, 1978; 44 FR 55840, Sept. 28, 1979, as amended by T.D. ATF-202, 50 FR 14382, Apr. 12, 1985; T.D. ATF-215, 50 FR 42158, Oct. 18, 1985; T.D. ATF-484, 67 FR 64526, Oct. 21, 2002; T.D. ATF-9F, 72 FR 72938, Dec. 26, 2007; ATF-50F, 78 FR 23677, Apr. 22, 2013; T.D. ATF 2013R-9F, 79 FR 46692, Aug. 11, 2014; T.D. ATF 2018R-22F, 83 FR 66553, Dec. 26, 2018]

@@ -1,7 +1,5 @@
 ##### § 478.11 Meaning of terms. #####
 
-Link to an amendment published at 83 FR 66554, Dec. 26, 2018.
-
 When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meanings ascribed in this section. Words in the plural form shall include the singular, and vice versa, and words importing the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude other things not enumerated which are in the same general class or are otherwise within the scope thereof.
 
 *Act.* 18 U.S.C. Chapter 44.
@@ -136,7 +134,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Licensed manufacturer.* A manufacturer licensed under the provisions of this part.
 
-*Machine gun.* Any weapon which shoots, is designed to shoot, or can be readily restored to shoot, automatically more than one shot, without manual reloading, by a single function of the trigger. The term shall also include the frame or receiver of any such weapon, any part designed and intended solely and exclusively, or combination of parts designed and intended, for use in converting a weapon into a machine gun, and any combination of parts from which a machine gun can be assembled if such parts are in the possession or under the control of a person.
+*Machine gun.* Any weapon which shoots, is designed to shoot, or can be readily restored to shoot, automatically more than one shot, without manual reloading, by a single function of the trigger. The term shall also include the frame or receiver of any such weapon, any part designed and intended solely and exclusively, or combination of parts designed and intended, for use in converting a weapon into a machine gun, and any combination of parts from which a machine gun can be assembled if such parts are in the possession or under the control of a person. For purposes of this definition, the term “automatically” as it modifies “shoots, is designed to shoot, or can be readily restored to shoot,” means functioning as the result of a self-acting or self-regulating mechanism that allows the firing of multiple rounds through a single function of the trigger; and “single function of the trigger” means a single pull of the trigger and analogous motions. The term “machine gun” includes a bump-stock-type device, *i.e.,* a device that allows a semi-automatic firearm to shoot more than one shot with a single pull of the trigger by harnessing the recoil energy of the semi-automatic firearm to which it is affixed so that the trigger resets and continues firing without additional physical manipulation of the trigger by the shooter.
 
 *Manufacturer.* Any person engaged in the business of manufacturing firearms or ammunition. The term shall include any person who engages in such business on a part-time basis.
 

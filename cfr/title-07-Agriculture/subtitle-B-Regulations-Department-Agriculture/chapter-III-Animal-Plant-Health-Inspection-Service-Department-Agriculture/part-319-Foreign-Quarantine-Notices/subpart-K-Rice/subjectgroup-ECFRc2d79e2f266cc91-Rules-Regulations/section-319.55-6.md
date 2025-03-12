@@ -1,6 +1,6 @@
 ##### § 319.55-6 Inspection and disinfection at port of arrival. #####
 
-[Reserved]
+(a) [Reserved]
 
 (b) *Rice straw and rice hulls.* (1) As a condition of entry, rice straw and rice hulls shall be subject to inspection and to treatment in accordance with part 305 of this chapter at the port of arrival, under the supervision of the inspector, by methods and at plants approved by the Plant Protection and Quarantine Programs and, as a further condition of entry, in order to permit effective treatment in accordance with part 305 of this chapter, the contents of packages or bales shall not be compressed to a density of more than 30 pounds per cubic foot. Rice straw and rice hulls will be admitted only at ports where adequate facilities are available for such treatment. The required treatment must be given within 20 days after arrival, but if any shipment of rice straw or rice hulls shall be found upon arrival to be dangerously infested or infected the inspector may direct immediate treatment under adequate safeguards; and, if the treatment and safeguards are not put into effect as directed, the shipment shall be removed from the country immediately or destroyed.
 

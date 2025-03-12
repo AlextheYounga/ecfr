@@ -20,11 +20,11 @@
 
 (e) [Reserved]
 
-(f) *Mandatory reporting requirements* - (1) *Number use categories.* Numbering resources must be classified in one of the following categories:
+(f) *Mandatory reporting requirements*—(1) *Number use categories.* Numbering resources must be classified in one of the following categories:
 
 (i) *Administrative numbers* are numbers used by telecommunications carriers to perform internal administrative or operational functions necessary to maintain reasonable quality of service standards.
 
-(ii) *Aging numbers* are disconnected numbers that are not available for assignment to another end user or customer for a specified period of time. Numbers previously assigned to residential customers may be aged for no more than 90 days. Numbers previously assigned to business customers may be aged for no more than 365 days.
+(ii) Aging numbers are disconnected numbers that are not available for assignment to another end user or customer for a specified period of time. Numbers previously assigned to residential customers may be aged for no less than 45 days and no more than 90 days. Numbers previously assigned to business customers may be aged for no less than 45 days and no more than 365 days.
 
 (iii) *Assigned numbers* are numbers working in the Public Switched Telephone Network under an agreement such as a contract or tariff at the request of specific end users or customers for their use, or numbers not yet working but having a customer service order pending. Numbers that are not yet working and have a service order pending for more than five days shall not be classified as assigned numbers.
 
@@ -66,9 +66,11 @@
 
 (iii) A state commission seeking to reduce the reporting frequency pursuant to paragraph (f) (6)(ii) of this section shall notify the Wireline Competition Bureau and the NANPA in writing prior to reducing the reporting frequency.
 
-(7) *Access to data and confidentiality* - States shall have access to data reported to the NANPA provided that they have appropriate protections in place to prevent public disclosure of disaggregated, carrier-specific data.
+(7) *Access to data and confidentiality*—States shall have access to data reported to the NANPA provided that they have appropriate protections in place to prevent public disclosure of disaggregated, carrier-specific data.
 
-(g) *Applications for numbering resources* -
+(8) Reports of Permanently Disconnected Numbers—Reporting carriers must report information regarding NANP numbers in accordance with § 64.1200(l) of this title.
+
+(g) *Applications for numbering resources*—
 
 (1) *General requirements.* An applicant for numbering resources must include in its application the applicant's company name, company headquarters address, OCN, parent company's OCN(s), and the primary type of business in which the numbering resources will be used.
 
@@ -162,4 +164,4 @@
 
 (3) Requests for “for cause” audits shall be forwarded to the Chief of the Enforcement Bureau, with a copy to the Chief of the Common Carrier Bureau. Requests must state the reason for which a “for cause” audit is being requested and include documentation of the alleged anomaly, inconsistency, or violation of the Commission rules or orders or applicable industry guidelines. The Chief of the Enforcement Bureau will provide carriers up to 30 days to provide a written response to a request for a “for cause” audit.
 
-[61 FR 47353, Sept. 6, 1996, as amended at 62 FR 55182, Oct. 23, 1997; 65 FR 37707, June 16, 2000; 66 FR 9531, Feb. 8, 2001; 67 FR 6434, Feb. 12, 2002; 67 FR 13226, Mar. 21, 2002; 68 FR 25843, May 14, 2003; 71 FR 65750, Nov. 9, 2006; 80 FR 66479, Oct. 29, 2015]
+[61 FR 47353, Sept. 6, 1996, as amended at 62 FR 55182, Oct. 23, 1997; 65 FR 37707, June 16, 2000; 66 FR 9531, Feb. 8, 2001; 67 FR 6434, Feb. 12, 2002; 67 FR 13226, Mar. 21, 2002; 68 FR 25843, May 14, 2003; 71 FR 65750, Nov. 9, 2006; 80 FR 66479, Oct. 29, 2015; 84 FR 11232, Mar. 26, 2019]
